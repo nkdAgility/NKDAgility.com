@@ -1,0 +1,160 @@
+name: Build & Release (NKDAgility)
+
+
+permissions:
+  contents: read
+  pull-requests: write
+
+on:
+  push:
+    branches: ["main"]
+    tags-ignore: ["v*-*"]
+  pull_request:
+      branches: ["main"]
+  workflow_dispatch:
+    inputs:
+      ForceRelease:
+        description: 'Force a release! Use when changes hapen out of sync and `src` and `docs` folder changes are not detected.'
+        required: false
+        default: false
+        type: boolean
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }} 
+  cancel-in-progress: true
+
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+
+       # Setup & Configuration
+  Setup:
+    name: "Setup & Configuration "
+    runs-on: ubuntu-latest
+    outputs:
+      GitVersion_BranchName: ${{ steps.gitversion.outputs.GitVersion_BranchName }}
+      GitVersion_SemVer: ${{ steps.gitversion.outputs.GitVersion_SemVer }}
+      GitVersion_PreReleaseLabel: ${{ steps.gitversion.outputs.GitVersion_PreReleaseLabel }}
+      GitVersion_AssemblySemVer: ${{ steps.gitversion.outputs.GitVersion_AssemblySemVer }}
+      GitVersion_InformationalVersion: ${{ steps.gitversion.outputs.GitVersion_InformationalVersion }}
+      GitVersion_NuGetVersion: ${{ steps.gitversion.outputs.GitVersion_NuGetVersion }}
+      GitVersion_PreReleaseNumber: ${{ steps.gitversion.outputs.GitVersion_PreReleaseNumber }}
+      GitVersion_MajorMinorPatch: ${{ steps.gitversion.outputs.GitVersion_MajorMinorPatch }}
+      nkdAgility_Ring: ${{ steps.nkdagility.outputs.Ring }}
+      nkdAgility_DocsDeployFolder: ${{ steps.nkdagility.outputs.docs_deploy_folder }}
+      nkdAgility_DocsBaseURL: ${{ steps.nkdagility.outputs.docs_baseURL }}
+      
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Install GitVersion
+      uses: gittools/actions/gitversion/setup@v1.1.1
+      with:
+        versionSpec: '5.x'
+        includePrerelease: true
+    - name: Execute GitVersion
+      id: gitversion
+      uses: gittools/actions/gitversion/execute@v1.1.1
+      with:
+        useConfigFile: true
+        configFilePath: .github/GitVersion.yml
+    - uses: actions/create-github-app-token@v1
+      id: app-token
+      with:
+        app-id: ${{ secrets.NKDAGILITY_BOT_APP_ID }}
+        private-key: ${{ secrets.NKDAGILITY_BOT_CLIENTSECRET }}
+    - uses: dorny/paths-filter@v3
+      id: filter
+      with:
+        filters: |
+          src:
+            - 'src/**'
+          docs:
+            - 'docs/**'
+          automation:
+            - 'build/**'
+            - '.github/workflows/**'
+    - name: "Build NKDAgility Outputs"
+      shell: pwsh
+      id: nkdagility
+      env:
+         GH_TOKEN: ${{ steps.app-token.outputs.token }}
+      run: |
+            # Get Branch Name
+            Write-Output "::group::Get Branch Name"
+            Write-Output "-------------------------------------------"
+            $branchName = "${{ github.head_ref || github.ref_name }}"
+            Write-Output "We are running on: $branchName!"
+            $branchSafeName = $branchName.Replace("/", "-")
+            Write-Output "branchSafeName: $branchSafeName!"
+            Write-Output "-------------------------------------------"
+            Write-Output "::endgroup::"
+            # Ring Setup
+            Write-Output "::group::Ring Control Setup"
+            Write-Output "-------------------------------------------"
+            Write-Output "Ring Control Setup"
+            Write-Output "-------------------------------------------"
+            $Ring = "Canary"
+            $docs_deploy_folder = "./azure-devops-migration-tools/";
+            $docs_baseURL = "/learn/azure-devops-migration-tools"
+            switch ($Env:GitVersion_PreReleaseLabel) {
+                "" {
+                    $Ring = "Release";
+                    $docs_deploy_folder = "./"
+                    $docs_baseURL = "/"
+                }    
+                "Preview" {
+                    $Ring = "Preview";
+                    $docs_deploy_folder = "./preview/";
+                    $docs_baseURL = "/preview"
+                }
+                default {
+                    $Ring = "Canary";
+                    $docs_deploy_folder = "./canary/$branchSafeName"
+                    $docs_baseURL = "/canary/$branchSafeName"
+                }
+            }
+            Write-Output "We are running for the $Ring Ring!"
+            echo "Ring=$Ring" >> $env:GITHUB_OUTPUT
+            Write-Output "docs_deploy_folder=$docs_deploy_folder"
+            echo "docs_deploy_folder=$docs_deploy_folder" >> $env:GITHUB_OUTPUT
+            Write-Output "docs_baseURL=$docs_baseURL"
+            echo "docs_baseURL=$docs_baseURL" >> $env:GITHUB_OUTPUT
+            Write-Output "-------------------------------------------"
+            Write-Output "::endgroup::"
+    - uses: actions/upload-artifact@v4
+      with:
+        name: Scripts
+        path: ./.powershell/**
+
+  # Setup Validator
+  SetupSummeryStage:
+    name: "Build Run Data"
+    runs-on: ubuntu-latest
+    needs: Setup
+    steps:
+    - name: "Show Summery"
+      if: always()
+      shell: pwsh
+      id: nkdagility-summery
+      run: |
+            $markdown = @"
+               ## ${{needs.Setup.outputs.GitVersion_SemVer}} (${{needs.Setup.outputs.nkdAgility_Ring}})
+               ### NKDAgility
+                 - nkdAgility_Ring: ${{needs.Setup.outputs.nkdAgility_Ring}}
+                 - nkdAgility_DocsDeployFolder: ${{needs.Setup.outputs.nkdAgility_DocsDeployFolder}}
+                 - nkdAgility_DocsBaseURL: ${{needs.Setup.outputs.nkdAgility_DocsBaseURL}}
+               ### GitVersion
+                 - GitVersion_BranchName: ${{needs.Setup.outputs.GitVersion_BranchName}}
+                 - GitVersion_SemVer: ${{needs.Setup.outputs.GitVersion_SemVer}}
+                 - GitVersion_PreReleaseLabel: ${{needs.Setup.outputs.GitVersion_PreReleaseLabel}}
+                 - GitVersion_AssemblySemVer: ${{needs.Setup.outputs.GitVersion_AssemblySemVer}}
+                 - GitVersion_InformationalVersion: ${{needs.Setup.outputs.GitVersion_InformationalVersion}}
+                 - GitVersion_NuGetVersion: ${{needs.Setup.outputs.GitVersion_NuGetVersion}}
+            "@
+            echo $markdown >> $Env:GITHUB_STEP_SUMMARY
+    
