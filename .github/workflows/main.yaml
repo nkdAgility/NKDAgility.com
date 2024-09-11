@@ -43,8 +43,7 @@ jobs:
       GitVersion_PreReleaseNumber: ${{ steps.gitversion.outputs.GitVersion_PreReleaseNumber }}
       GitVersion_MajorMinorPatch: ${{ steps.gitversion.outputs.GitVersion_MajorMinorPatch }}
       nkdAgility_Ring: ${{ steps.nkdagility.outputs.Ring }}
-      nkdAgility_DocsDeployFolder: ${{ steps.nkdagility.outputs.docs_deploy_folder }}
-      nkdAgility_DocsBaseURL: ${{ steps.nkdagility.outputs.docs_baseURL }}
+      nkdAgility_AzureSitesEnvironment: ${{ steps.nkdagility.outputs.AzureSitesEnvironment }}
       
     steps:
     - name: Checkout
@@ -99,24 +98,26 @@ jobs:
             switch ($Env:GitVersion_PreReleaseLabel) {
                 "" {
                     $Ring = "Production";
-                    $docs_deploy_folder = "./"
+                    $AzureSitesEnvironment = ""
                     $docs_baseURL = "/"
                 }    
                 "Preview" {
                     $Ring = "Preview";
-                    $docs_deploy_folder = "./preview/";
+                    $AzureSitesEnvironment = "preview";
                     $docs_baseURL = "/preview"
                 }
                 default {
                     $Ring = "Canary";
-                    $docs_deploy_folder = "./canary/$branchSafeName"
+                    $AzureSitesEnvironment = "$branchSafeName"
                     $docs_baseURL = "/canary/$branchSafeName"
                 }
             }
             Write-Output "We are running for the $Ring Ring!"
             echo "Ring=$Ring" >> $env:GITHUB_OUTPUT
-            Write-Output "docs_deploy_folder=$docs_deploy_folder"
-            echo "docs_deploy_folder=$docs_deploy_folder" >> $env:GITHUB_OUTPUT
+
+            Write-Output "We are running for the $AzureSitesEnvironment AzureSitesEnvironment!"
+            echo "AzureSitesEnvironment=$AzureSitesEnvironment" >> $env:GITHUB_OUTPUT
+
             Write-Output "docs_baseURL=$docs_baseURL"
             echo "docs_baseURL=$docs_baseURL" >> $env:GITHUB_OUTPUT
             Write-Output "-------------------------------------------"
@@ -141,8 +142,7 @@ jobs:
                ## ${{needs.Setup.outputs.GitVersion_SemVer}} (${{needs.Setup.outputs.nkdAgility_Ring}})
                ### NKDAgility
                  - nkdAgility_Ring: ${{needs.Setup.outputs.nkdAgility_Ring}}
-                 - nkdAgility_DocsDeployFolder: ${{needs.Setup.outputs.nkdAgility_DocsDeployFolder}}
-                 - nkdAgility_DocsBaseURL: ${{needs.Setup.outputs.nkdAgility_DocsBaseURL}}
+                 - nkdAgility_AzureSitesEnvironment: ${{needs.Setup.outputs.nkdAgility_AzureSitesEnvironment}}
                ### GitVersion
                  - GitVersion_BranchName: ${{needs.Setup.outputs.GitVersion_BranchName}}
                  - GitVersion_SemVer: ${{needs.Setup.outputs.GitVersion_SemVer}}
@@ -234,7 +234,7 @@ jobs:
           skip_app_build: true
           skip_api_build: true
           output_location: ''
-          deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_Ring) }}
+          deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
 
       - name: "Show Summery"
