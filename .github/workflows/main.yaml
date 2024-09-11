@@ -71,13 +71,8 @@ jobs:
       id: filter
       with:
         filters: |
-          src:
-            - 'src/**'
-          docs:
-            - 'docs/**'
-          automation:
-            - 'build/**'
-            - '.github/workflows/**'
+          content:
+            - 'content/**'
     - name: "Build NKDAgility Outputs"
       shell: pwsh
       id: nkdagility
