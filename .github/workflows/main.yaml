@@ -226,6 +226,7 @@ jobs:
 
       - name: Build and Deploy
         uses: Azure/static-web-apps-deploy@v1
+        id: azureDeploy
         with:
           repo_token: ${{ steps.app-token.outputs.token }}
           action: 'upload'
@@ -235,4 +236,15 @@ jobs:
           output_location: ''
           deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_Ring) }}
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+
+      - name: "Show Summery"
+        if: always()
+        shell: pwsh
+        id: nkdagility-summery
+        run: |
+              $markdown = @"
+                  ## ${{needs.Setup.outputs.GitVersion_SemVer}} (${{needs.Setup.outputs.nkdAgility_Ring}})
+                 Deployed to [${{steps.azureDeploy.outputs.static_web_app_url}}](${{steps.azureDeploy.outputs.static_web_app_url}})
+              "@
+              echo $markdown >> $Env:GITHUB_STEP_SUMMARY
      
