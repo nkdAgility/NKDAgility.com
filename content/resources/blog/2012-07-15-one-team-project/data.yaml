@@ -1,0 +1,1817 @@
+post:
+  title: One Team Project to rule them all
+  link: https://nkdagility.com/blog/one-team-project/
+  pubDate: Sun, 15 Jul 2012 03:53:46 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=6160
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image16.png\"><img style=\"background-image: none; float: right; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image16.png\" alt=\"image\" width=\"100\" height=\"60\" align=\"right\" border=\"0\" /></a>I have talked often of the idea of a <a href=\"http://blog.hinshelwood.com/project-of-projects-with-team-foundation-server-2010/\" target=\"_blank\" rel=\"noopener noreferrer\">Project of Projects in Team Foundation Server</a> and with the new feature in Visual Studio 2012 Team Foundation Server I though it would make sense to revisit. I will talk a little of the idea of the <a href=\"http://blogs.msdn.com/b/greggboer/archive/2012/01/27/tfs-vnext-configuring-your-project-to-have-a-master-backlog-and-sub-teams.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">Master or Hierarchical Backlogs</a> using the new Agile Planning tools and I always find an example help with understanding so I will be using a recent engagement as a base. But first lets dispel a few myths.\r\n<ul>\r\n \t<li>Team Project ≠ Team</li>\r\n \t<li>Team Project ≠ Project</li>\r\n \t<li>Team Project ≠ Product</li>\r\n \t<li>Team Project = WTF?</li>\r\n</ul>\r\nYou might think that it has been unfortunately named, but the Visual Studio ALM tooling has been designed to have a low barrier to entry and as such the happy path is:\r\n<ul>\r\n \t<li>Team Project = Team</li>\r\n \t<li>Team Project = Project</li>\r\n</ul>\r\nHave I confused you yet?\r\n\r\nWell, for the single, or small group of developers the common and easy path is to create a new Team Project for each project and they will only ever have one team. So this is the way that it is out-of-the-box and it serves its purpose.\r\n<h3>One Team Project to rule them all</h3>\r\nThe rest of us live in a more complicated world of multiple teams, multiple projects and multiple priorities. To achieve this we need to think about the following things in Team Foundation Server:\r\n<ul>\r\n \t<li>Teams (can be mapped to Area or to a Work Item Field Definition)</li>\r\n \t<li>Areas (Tree)</li>\r\n \t<li>Iteration (Tree)</li>\r\n \t<li>Source Code\_ (has folders)</li>\r\n \t<li>Work Item Queries (has folders)</li>\r\n \t<li>Build</li>\r\n</ul>\r\nNo matter what our configuration and requirements we can use a single Team Project. There are however a number of circumstances where you will not be able to do this:\r\n<ul>\r\n \t<li><strong>A large consultancy</strong>If you are in a large consultancy with 1000+ customers then it makes more sense to use a\_ one Team Project per customer model so as to avoid confusion and scaling issues. Don’t think just because you are a consultancy that you need to use this model. Think carefully about your choice…</li>\r\n \t<li><strong>An organisation with 100’s of Teams</strong>If you are a single organisation that has 100’s of teams than you might also run into limitation of scale. I would in this case recommend that you have one Team Project per Department or Division depending on their scale and organisation.</li>\r\n</ul>\r\nIn these cases there are two limitation that need to be considered carefully. You can only have 254 areas per level and there is a soft limit of about 300 Team Projects per Team Project Collection.\r\n\r\nIf neither of these apply (or you are at the Customer, Department or Division level within an organisation within which it does) then you can achieve a single Team Project.\r\n<h3>One Team Project to find them</h3>\r\nSo, what has changed? Well with the advent of the idea and the technical implementation of Team in Visual Studio 2012 Team Foundation Service we can take advantage of the new constructs and reduce our complexity while simultaneously increase our features.\r\n\r\nI do however have a reality check for those of you that want to use the new tools but work within a traditionally run organisation.\r\n\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image17.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"More than 34% of companies are now doing agile\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image17.png\" alt=\"More than 34% of companies are now doing agile\" width=\"640\" height=\"360\" border=\"0\" /></a>\r\n<strong>Figure: More than 34% of companies are now doing agile</strong>\r\n\r\nThey are called the “Agile Planning” tools for a reason. They are exclusively targeted at the ~34% of the industry that are working in an Agile manor and that are 3 times more\_ likely to succeed than a traditionally run project. They are also aimed at the 30% that don’t really know what the want as an easy adoption path.\r\n\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image18.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Agile projects are 3 times more likely to be successful\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image18.png\" alt=\"Agile projects are 3 times more likely to be successful\" width=\"640\" height=\"360\" border=\"0\" /></a>\r\n<strong>Figure: Agile projects are 3 times more likely to be successful</strong>\r\n\r\nDoes this mean that those of you can’t use the Agile Planning tools? Hell no! It just means that you are not in the happy path so make the most of them that you can.\r\n<h3>One Team Project to bring them all</h3>\r\nIn a recent engagement my customer needed some rather specific things to be possible but also wanted to take advantage of the new Agile Planning features. They wanted to pull together all of the Teams and individuals from the Business all the way through the Development Teams to Infrastructure. To achieve that we identified a few must haves:\r\n<ul>\r\n \t<li>Must be able to see an ordered backlog per team</li>\r\n \t<li>Must be able to see an ordered backlog per department/customer</li>\r\n \t<li>Must be able to see what product and product area each work item is assigned to</li>\r\n</ul>\r\nIn order to achieve this all I need to customise is to add a single new field to the Product Backlog Item. Is we add a “[mycustomer].Customer” field to the PBI and make it a drop-down-list of all of the existing customers\r\n\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image19.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image19.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a>\r\n<strong>Figure: Adding a field to store the external customer</strong>\r\n\r\nI can then create a query for each of the customers to show the backlog and allow anyone with permission to view that backlog.\r\n\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image20.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image20.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a>\r\n<strong>Figure: A Query showing an external customers backlog</strong>\r\n\r\nIf I can query it I can then export to excel and reorder it just like we did when connecting to TFS 2010.\r\n\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/image21.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/image21.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a>\r\n<strong>Figure: Reordering the backlog in Excel</strong>\r\n\r\nSo with a single added field we have enabled not only querying and ordering of data associated with a customer, but we also made the field reportable as a dimension in the data warehouse and cube.\r\n\r\nAwesome and easy…\r\n\r\nNow all we need to add is <a href=\"http://blogs.msdn.com/b/greggboer/archive/2012/01/27/tfs-vnext-configuring-your-project-to-have-a-master-backlog-and-sub-teams.aspx\" target=\"_blank\" rel=\"noopener noreferrer\">two teams in the new Agile Planning tools in addition</a> to the default and configure them to only show their own backlog based on the Area Path (or we can configure it to use a Team drop-down).\r\n\r\nThe point is that we can support most, if not all configurations as long as you are willing to change the way that you work a little. Hopefully not much, but there is always change in adopting a new tool. Although we don’t want our tools to prescribe our workflow, we may actually want to change the way that we work to take advantage of cool things that we just had no access to before.\r\n<h3>And in the Process Template bind them</h3>\r\n<a href=\"http://nkdagility.com/wp-content/uploads/2012/07/220px-Gollum.png\"><img style=\"background-image: none; float: right; padding-top: 0px; padding-left: 0px; margin: 0px 0px 10px 10px; display: inline; padding-right: 0px; border: 0px;\" title=\"220px-Gollum\" src=\"https://nkdagility.com/wp-content/uploads/2012/07/220px-Gollum.png\" alt=\"220px-Gollum\" width=\"84\" height=\"83\" align=\"right\" border=\"0\" /></a>The key to a successful Team Foundation Server deployment is in the Process Template that is chosen to be the base moving forward. I always start with the Visual Studio Scrum template as a base as it has the most compatible workflow and terminology to the way we tend to speak and discuss about work.\r\n\r\nRemember that whatever process template that you pick it is but a starting point for building your own process on top of. Don’t be afraid to customise, just don’t go nuts… no one likes a frankin-template…\r\n<h3>Conclusion</h3>\r\nNot only is larger Team Projects the recommendation of <a href=\"http://blog.hinshelwood.com/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010/\" target=\"_blank\" rel=\"noopener noreferrer\">almost all of the experts in the field</a>, it is also the recommendation and expectation of the product team for mature teams and organisations using Team Foundation Server.\r\n\r\n<strong>How are Team Projects used at your organisation?</strong>"
+  - ''
+  post_id: '6160'
+  post_date: '2012-07-14 20:53:46'
+  post_date_gmt: '2012-07-15 03:53:46'
+  post_modified: '2019-08-12 23:52:07'
+  post_modified_gmt: '2019-08-12 22:52:07'
+  comment_status: open
+  ping_status: open
+  post_name: one-team-project
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '74'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: team project
+  - meta_key: _yoast_wpseo_title
+    meta_value: One Team Project to rule them all with Visual Studio 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Do you know when to have a single Team Project? You should have large Team
+      Projects instead of many small Team Projects!
+  - meta_key: dsq_thread_id
+    meta_value: '765758337'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBO9zA
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474913298;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:64;}i:1;a:1:{s:2:"id";i:5702;}i:2;a:1:{s:2:"id";i:6202;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-07-14-one-team-project.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: pl_magazine_format
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _wpml_word_count
+    meta_value: '{"total":1211,"to_translate":null}'
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: ''
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: ''
+  - meta_key: _wpml_media_duplicate
+    meta_value: '0'
+  - meta_key: _wpml_media_featured
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '4333'
+  comment:
+  - comment_id: '1292'
+    comment_author: >-
+      Visual Studio 2012 RTM available &amp; installed - Visual Studio ALM with
+      Team Foundation Server, Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/visual-studio-2012-rtm-available-installed/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-08-15 11:00:46'
+    comment_date_gmt: '2012-08-15 18:00:46'
+    comment_content: >-
+      [...] addition while it will work out-of-the-box you may want to think
+      about how your Team Projects are structured and how your Teams will
+      interact with [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345053646.76";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345054228.27";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1293'
+    comment_author: >-
+      When should I use Areas in TFS instead of Team Projects in Team Foundation
+      Server 2010 - Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-09-14 14:20:17'
+    comment_date_gmt: '2012-09-14 21:20:17'
+    comment_content: >-
+      [...] Update 14th August 2012 &#8211; I have updated this as One Team
+      Project for Visual Studio 2012. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1347657617.6";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1347658512.52";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1294'
+    comment_author: >-
+      Project of Projects with team Foundation Server 2010 - Visual Studio ALM
+      from Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/project-of-projects-with-team-foundation-server-2010/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-09-20 10:59:56'
+    comment_date_gmt: '2012-09-20 17:59:56'
+    comment_content: >-
+      [...] Updated 2012-08-06 &#8211; I have updated this as One Team Project
+      for Visual Studio 2012. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348163996.29";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348238445.11";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1295'
+    comment_author: Gavin Stevens
+    comment_author_email: gavin.stevens@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 98.165.5.92
+    comment_date: '2012-09-24 12:37:00'
+    comment_date_gmt: '2012-09-24 19:37:00'
+    comment_content: "I think it's important to recognize and enforce these concepts:\nTeams (can be mapped to Area or to a Work Item Field Definition)\nAreas (Tree)\nIteration (Tree)\nSource Code\_ (has folders)\nWork Item Queries (has folders)\nBuild\n\nIteration -&gt; Time\nArea -&gt; Space\n\nThe Iteration / Area structure should describe your source control structure as to provide a natural implementation of the Work over Time.\nToo many companies may fall into the trap of customization and end up changing Iteration path to an iteration which has nothing to do with the underlying source control, or the releases they are trying to deliver, making the overall system much more complex to manage.\_ \n\nA companies focus should be on iterations of a release, which is actually describing the underlying source code branch, not iterations of a team or other functional unit.\n\nArea path too, in maturity, seems to \"fragment\" where it may have started out as a structural description of the underlying source.\_ Later in time area naturally starts to fragment as you try to store too much information in this single hierarchy.\_ Soon area path\_can become, component based, feature based, and functional all at the same time. \n\nFailure to follow a strict structure of iteration and area can causes a twist in the reality of \"what source/where is supposed to change in this iteration / area ?\"\_ The Iteration / Area should describe the underlying source code which is the object of change for this iteration.\n\nMake sure to stick to these basic principles of TFS's architecture.\_ \nIteration = Releases over time, broken down into as many time boxes as you want.\nArea = The thing changing over time, again broken down into as deep a depth as you want, but try to keep area describing a single dimension of data like (Structural, Functional, Feature Based) choose ONE,\_\_add new fields which bind to global lists to your work items for the others.\n\nIn the end TFS is simply a database of a few related work item types.\_ The entire utility of which to track change over time in a complex system.\_ Make sure you keep the dimensions TFS provides aligned with they way you branch and build your source code also.\_\_ \n\nIn a complex, mature system, the basic fundamentals of storing source control, and tracking change in it over time cannot be ignored."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '661249263'
+  - comment_id: '1296'
+    comment_author: >-
+      One Team Project Collection to rule them all - Consolidating Team Projects
+      - Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-11-02 02:06:27'
+    comment_date_gmt: '2012-11-02 09:06:27'
+    comment_content: '[...] One Team Project [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351847187.29";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351847365.86";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1297'
+    comment_author: Aaron Corcoran
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 199.46.227.12
+    comment_date: '2012-12-06 10:42:00'
+    comment_date_gmt: '2012-12-06 10:42:00'
+    comment_content: >-
+      With the concept of Teams, does one actually have to modify the queries
+      any longer?  As it seems in TFS 2012, each team has its own unique set of
+      queries.  Just getting started with the concept of teams mapped to areas,
+      but it seems this reduces the management of queries (that was listed in
+      the 2010 post).  I may be missing a step, as I get the areas/iterations
+      then assigning teams -&gt; areas (for the one master backlog)...at least I
+      think I do =)  But wasn't sure about the queries. 
+
+      Secondly, with the one master backlog, is it true to say that you wouldn't
+      be managing the overall release from the root project, each project would
+      be managed separately.  E.g. your not going to be assigning items from the
+      master backlog to individual area sprints...that would be done through
+      each 'team's area'.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '729435441'
+  - comment_id: '1298'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-12-06 11:08:00'
+    comment_date_gmt: '2012-12-06 19:08:00'
+    comment_content: >-
+      You are correct that you get queries, both "team" and "my" for each "Team"
+      that you create within a Team Project. You also get Alerts per team. This
+      is one of the biggest advantages of moving to TFS 2012 from the
+      perspective of the management of work.
+
+
+      To you second point... well it depends. You may indeed want a Master
+      Backlog with some sort of hierarchy if you have many teams (10's) working
+      on the same or related products. That way you could have a single vision
+      for large rocks that are disseminated between teams...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1297'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '729435441'
+    - meta_key: dsq_post_id
+      meta_value: '729467116'
+  - comment_id: '1299'
+    comment_author: Aaron Corcoran
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 199.46.227.12
+    comment_date: '2012-12-06 12:34:00'
+    comment_date_gmt: '2012-12-06 12:34:00'
+    comment_content: >-
+      Thanks for the reply.  I'm just starting to get my feet wet with 2012 and
+      like the team mapped to area approach.  Looks like it is a perfect fit for
+      most organizations.  Manage the master backlog, assign it to team/areas,
+      then each team can prioritize their own sub backlog and work the sprints
+      accordingly. 
+
+      One follow up question.  How do you handle a situation where one group
+      might actually run sprints (during development), but others may just want
+      to run a kanban board, basically no springs, just a prioritized backlog. 
+      Would you just advice that second team (Kanban team) to only use the
+      backlog board and not the task board?  Just curious to your thoughts on
+      that.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1298'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '729467116'
+    - meta_key: dsq_post_id
+      meta_value: '729549874'
+  - comment_id: '1300'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-12-06 13:34:00'
+    comment_date_gmt: '2012-12-06 21:34:00'
+    comment_content: >-
+      You are exactly correct...although I find that teams that do Scrum or
+      Kanban also find value in a kanban or scrum boards respectively
+      (capitalisation deliberate)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1299'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '729549874'
+    - meta_key: dsq_post_id
+      meta_value: '729615391'
+  - comment_id: '1301'
+    comment_author: Graham Bunce
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 2.26.33.231
+    comment_date: '2012-12-26 14:50:00'
+    comment_date_gmt: '2012-12-26 14:50:00'
+    comment_content: >-
+      useful but not possible AFAIK with hosted TFS as you cannot change the
+      template. Any suggestions for one big team working on many projects each
+      with their own release schedules (devs can work on any project, sometimes
+      on two projects at once) that works without changing the templates and
+      works on hosted TFS?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '748106807'
+  - comment_id: '1302'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 50.135.56.181
+    comment_date: '2012-12-26 14:57:00'
+    comment_date_gmt: '2012-12-26 22:57:00'
+    comment_content: >-
+      I don;t understand what does not work with hosted TFS? All of the above
+      works with both TF Server (Self-hosted &amp; Hosted) as well as TF Service
+      (Cloud) services... Nothing describes above requires you to change the
+      template.
+
+
+      You may be think of "Team Foundation Server 2012 Teams without Areas"
+      which would require customisation, but you do not require to make that
+      customisation to use many products and teams working in a single Team
+      Project...
+
+
+
+      Can you please specify what the issue is that you are encountering?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1301'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '748106807'
+    - meta_key: dsq_post_id
+      meta_value: '748109788'
+  - comment_id: '1303'
+    comment_author: Eric McDonald
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/ScoobyMcD
+    comment_author_IP: 213.48.68.145
+    comment_date: '2013-01-15 07:43:00'
+    comment_date_gmt: '2013-01-15 15:43:00'
+    comment_content: >-
+      If you use a single TFS 2012 Project to manage business projects which
+      exist in separate Areas how can you give each business project a separate
+      home page (see screenshot)? You can add different backlog items from each
+      Area (business project) onto home page, but it doesn't look like you can
+      create separate home pages. Scenario here is 2 teams of graduates working
+      on 2 separate projects under same project manager - does this really
+      require 2 TFS Projects or can you do it with one and give each team their
+      own TFS 2012 Project home page?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '768787258'
+  - comment_id: '1304'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-01-15 07:49:00'
+    comment_date_gmt: '2013-01-15 15:49:00'
+    comment_content: >-
+      You need to create a "Team" for each group. That will give them their own
+      homepage and backlog.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1303'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '768787258'
+    - meta_key: dsq_post_id
+      meta_value: '768794355'
+  - comment_id: '1305'
+    comment_author: Eric McDonald
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/ScoobyMcD
+    comment_author_IP: 213.48.68.145
+    comment_date: '2013-01-15 08:25:00'
+    comment_date_gmt: '2013-01-15 16:25:00'
+    comment_content: Fantastic thanks! I've spent all afternoon trying to work that out...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1304'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '768794355'
+    - meta_key: dsq_post_id
+      meta_value: '768832988'
+  - comment_id: '1306'
+    comment_author: Manish Jain
+    comment_author_email: manishkj@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 12.52.196.225
+    comment_date: '2013-01-23 14:38:00'
+    comment_date_gmt: '2013-01-23 22:38:00'
+    comment_content: >-
+      As always, great article! I couldn't agree more. Yeah, you don't need new
+      team project for a software project. It's easy to manage with one team
+      project (in our case, product company) and have great visibility. We have
+      customized template (added functional area, product type etc) to
+      filter/categorize items. I would create new team project when there is a
+      group/team with completely different process. So let's say company uses
+      Waterfall process and newly acquired company uses Scrum.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '776058159'
+  - comment_id: '1307'
+    comment_author: Rob Laddish
+    comment_author_email: rob@laddish.net
+    comment_author_url: http://www.facebook.com/laddish
+    comment_author_IP: 192.25.142.225
+    comment_date: '2013-02-13 11:01:00'
+    comment_date_gmt: '2013-02-13 19:01:00'
+    comment_content: >-
+      Thanks for the great article. I work in a large company with our own TFS
+      servers, and we have a wide spectrum of implementations. In some cases 1
+      TFS Project = 1 Product (and 1 team) and in other cases 1 TFS Project = 1
+      Division with 10+ products and 10+ teams, some of them are programs of
+      teams, and others 1-2 person teams. We've been having this debate for
+      quite a while.
+
+
+      One thing you haven't touched on is performance. We heavily use excel
+      workbooks for project management, and the size of a project and collection
+      have a HUGE impact. In some cases, the excel startup connection to TFS can
+      take over a minute for a big project/collection, and in other cases it is
+      as low as 10 seconds. We worked with Microsoft R&amp;D for about a year on
+      this issue. TFS2012 is slightly better as it will auto-delete old build
+      entries in lists, but in TFS2010 we had to have custom SQL run every month
+      to do this cleaning.
+
+
+      We had been heading towards keeping our collections small, perhaps 1 per
+      division, and our projects small. Another idea is to keep 1 collection per
+      division, then just 1-2 projects in that collection, and make them
+      mega-projects as you've described.
+
+
+      Has anyone else tried both approaches and measured performance impacts?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '797979247'
+  - comment_id: '1308'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 69.63.220.2
+    comment_date: '2013-02-13 21:28:00'
+    comment_date_gmt: '2013-02-14 05:28:00'
+    comment_content: >-
+      If it is in the same collection then regardless wither it is in one or
+      many projects you should have the same performance. In multiple
+      collections your bottleneck may be the app tiers or your network capacity.
+
+
+      As to scale. DivDev (Microsoft Developer Division) has a single team
+      project that is over 17TB in the database so scale in a single team
+      project is not an issue. Although I acknowledge the problem that you seam
+      to be having and that you need to make sure you clean your databases
+      effectively at scale.
+
+
+      If you email me directly on "[firstname]@[surname].com" I will put you in
+      touch with one of my colleagues that has just had to split a collection
+      for performance reasons. He does however have 300+ divisions in TFS so it
+      may not be for performance but for maintenance... lets figure that our.
+
+
+      Each subsistent update for 2012 should improve the performance as the
+      product team optimising for scale on Azure with
+      http://tfs.visualstudio.com
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1307'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '797979247'
+    - meta_key: dsq_post_id
+      meta_value: '798639386'
+  - comment_id: '1309'
+    comment_author: Graham Bunce
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/grahambunce
+    comment_author_IP: 84.19.50.10
+    comment_date: '2013-05-15 10:18:00'
+    comment_date_gmt: '2013-05-15 09:18:00'
+    comment_content: >-
+      Hi, 
+
+
+      I may have misread your article but you say here:
+
+
+      &gt;In order to achieve this all I need to customise is to add a single
+      new 
+
+      field to the Product Backlog Item. Is we add a “[mycustomer].Customer” 
+
+      field to the PBI and make it a drop-down-list of all of the existing 
+
+      customers.
+
+
+      This is not possible with TFS Service
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1302'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '748109788'
+    - meta_key: dsq_post_id
+      meta_value: '897943787'
+  - comment_id: '1310'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 174.21.133.197
+    comment_date: '2013-05-15 17:41:00'
+    comment_date_gmt: '2013-05-15 16:41:00'
+    comment_content: >-
+      Ahh.. I see the issue. The examples above were from a specific customer
+      who did the "[mycustomer].Customer" field. That field is not required to
+      create a single Team Project with many  Products existing within it.
+
+
+      "Nothing describes above 'requires' you to change the template. There may
+      however be things that you would like to do that you would be restricted
+      from in the Cloud."
+
+
+      I have many Team Projects on http://tfs.visualstudio.com that have many
+      products without having to customize anything... What are you finding that
+      you need?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1309'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '897943787'
+    - meta_key: dsq_post_id
+      meta_value: '898260794'
+  - comment_id: '1311'
+    comment_author: sriprasanna
+    comment_author_email: sriluxman@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.33.116.114
+    comment_date: '2013-07-09 17:28:00'
+    comment_date_gmt: '2013-07-09 16:28:00'
+    comment_content: >-
+      Great article. I really would like to use this strategy. But we face a
+      problem now in Trials-
+
+
+      We have multiple Teams and multiple work areas (distinguished based on
+      product).
+
+
+      We have one team as the 'project default' - this team comprises of all
+      members involved and this team is assigned the root work area (including
+      the sub-areas).
+
+
+      We have individual teams assigned to their corresponding work areas.
+
+
+      During the SPRINT planning the SCRUM master works on the root where the
+      Team is the default team and all work areas are covered. He creates
+      Backlog items, tasks and assigns it to specific area.
+
+
+      He also fills in the capacity for all the members in the team for the
+      current sprint.
+
+
+      Problem is that this information on 'Capacity' of  a member is not
+      reflected in the 'Team' space to which the member belongs. So the Burndown
+      chart (specific to team) doesn't make sense unless we assign the capacity
+      - specific to Team.
+
+
+      I thought this strategy is useful for "One Master(One overview) - Multiple
+      Teams" SCRUMs.
+
+      Where from the root (project-of-projects) you can see the overall
+      performance and from specific team you can see the team specific 
+      performance.
+
+
+      May be I misunderstood the basic Idea.
+
+
+      Could you please help me?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '956455635'
+  - comment_id: '1312'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-07-10 14:17:00'
+    comment_date_gmt: '2013-07-10 13:17:00'
+    comment_content: >-
+      Capacity planning is done at the Team level and does not rollup. You could
+      write a TFS event handler to rollup that data but I am not sure of the
+      value.
+
+
+
+      TFS 2013 solved this problem by removing Sprint planning from the parent
+      Teams when not configured.So you don't see those features and think that
+      they work at that level...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1311'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '956455635'
+    - meta_key: dsq_post_id
+      meta_value: '957367402'
+  - comment_id: '1313'
+    comment_author: Ben Whaley
+    comment_author_email: brwhaley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 208.200.11.205
+    comment_date: '2013-07-19 15:28:00'
+    comment_date_gmt: '2013-07-19 14:28:00'
+    comment_content: >-
+      I found this article very helpful -- thank you.  You mention that Teams
+      can be mapped to a Work Item Field Definition -- can you please describe
+      how to do this or point me in the right direction?  Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '968963333'
+  - comment_id: '1314'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-19 16:52:00'
+    comment_date_gmt: '2013-07-19 15:52:00'
+    comment_content: >-
+      I was just coming over to add that link :) I am glad that you managed to
+      find that post.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1313'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '968963333'
+    - meta_key: dsq_post_id
+      meta_value: '969121099'
+  - comment_id: '1315'
+    comment_author: Suraj Nair
+    comment_author_email: itsnair@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 66.194.65.197
+    comment_date: '2013-07-24 23:55:00'
+    comment_date_gmt: '2013-07-24 22:55:00'
+    comment_content: >-
+      Very nice article Martin. 
+
+
+      I have a bit of different scenario, and I will at the outset say that this
+      may not be so common.
+
+      We have a fairly small team that works across various products. We manage
+      our product classifications in areas and sub areas. We have various
+      releases through out the year, one which is on a regular monthly cadence
+      for product enhancement type work and a few other scattered throughout the
+      year which are more like projects that could span several months. our team
+      setup is volatile and is setup based on releases. So each release has a
+      release team assigned to it depending on availability and requirements for
+      the release.
+
+      I know I can't use iteration path as a way of setting up teams (like area
+      paths), cause I tried and its not supported and of course iterations will
+      keep adding on as time progresses and may not be the right thing to use.
+      So the method to use a new field called team and updating common
+      configuration seems to be the logical way to go. But my question is, is
+      there a way I can possibly have this new field populate automatically with
+      the leaf node of the iteration the work item is set to. I tried doing this
+      and was not able to get it to work, cause of conflicting types. Any
+      suggestions?
+
+
+      Note: I have also had the pleasure of working with Martin in person on an
+      onsite visit to our company.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '975209330'
+  - comment_id: '1831'
+    comment_author: FireofAries
+    comment_author_email: joaoxfranco@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 63.128.77.30
+    comment_date: '2013-08-23 20:22:00'
+    comment_date_gmt: '2013-08-23 20:22:00'
+    comment_content: >-
+      Hi Im not sure I understand the concept of project hierarchy in TFS very
+      well. In my company we have a finite amount of products for internal use,
+      a few common database and components, all which are modified through
+      fixes/production support. We follow a waterfall dev process, not sprints
+      like scrum. We have less than 50 developers. Could you give me some advice
+      on what would be an optimum way to organize tfs? like Product1 with
+      feature 1-2-3-n, fix1-2-3-n ? I don't understand the concept of team in
+      tfs either...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1295'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '661249263'
+    - meta_key: dsq_post_id
+      meta_value: '1015332018'
+  - comment_id: '1832'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 131.107.147.4
+    comment_date: '2013-08-23 20:28:00'
+    comment_date_gmt: '2013-08-23 20:28:00'
+    comment_content: >-
+      Try: http://nkdagility.com/modelling-teams-in-team-foundation-server-2013/
+
+
+      I would ultimately recommend hat you get a TFS Consultant in to help you
+      out here as the answer would be very specific to your organisation.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1831'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1015332018'
+    - meta_key: dsq_post_id
+      meta_value: '1015338633'
+  - comment_id: '1907'
+    comment_author: Ben Whaley
+    comment_author_email: brwhaley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 72.86.12.122
+    comment_date: '2013-09-22 16:04:00'
+    comment_date_gmt: '2013-09-22 16:04:00'
+    comment_content: >-
+      Hi Martin,
+
+
+
+      I have a few follow up questions if you don't mind:
+
+
+
+      1) I see that each team can customize the columns in its own
+      Kanban/Backlog Board.  Is the data behind these boards and the associated
+      CFDs accessible for reporting?  It doesn't look like that data is stored
+      within the Work Item itself.
+
+
+
+      2) We're interested in being able to produce CFDs both at the Team level
+      and at the Team Project level.  We'd like to be able to report on a number
+      of metrics around this data, including cycle time between any two points
+      on the board.  At what point would it make sense to customize the Work
+      Item Workflow States to match our Kanban board columns and to introduce
+      custom date fields on the Work Item to track the transition dates?
+
+
+
+      Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1314'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '969121099'
+    - meta_key: dsq_post_id
+      meta_value: '1054873346'
+  - comment_id: '1908'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-09-22 16:36:00'
+    comment_date_gmt: '2013-09-22 16:36:00'
+    comment_content: >-
+      1) Currently the Kanban columns are not pushed through to reporting. If
+      however you look at the history of the Work Item you will see a [Kanban
+      Column]Team A = [Column] in there. The data is in the operational store
+      and the Product Team have just not decided how to surface that  data.
+
+
+      I know that this is currently a pain and it is a major ask from most of my
+      customers too. However if you do delve into the world of Columns per
+      Backlog per team you will quickly encounter the issue... remember in 2013
+      you have multiple backlogs on the same team...
+
+
+      2) If your base Kanban columns are consinstant across all of your teams
+      then you will likely need to make that customisation to get the reporting.
+      However you will have to accept the burden of updating all of the OOB RS
+      &amp; Excel reports to reflect that change. Indeed it will make your
+      upgrades a little more complicated as well.
+
+
+      First I would check out @tfsjeff's TFS Kanban Tabular Model
+      http://visualstudiogallery.msdn.microsoft.com/388df6bd-10fe-4366-8712-58643e334995?SRC=Home
+      as a first rate solution that may require less work to implement.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1907'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1054873346'
+    - meta_key: dsq_post_id
+      meta_value: '1054901407'
+  - comment_id: '2065'
+    comment_author: Why You Should Use a Single TFS Team Project | Imaginet Blog
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 64.90.38.134
+    comment_date: '2014-01-09 15:18:49'
+    comment_date_gmt: '2014-01-09 15:18:49'
+    comment_content: '[&#8230;] One Team Project to Rule Them All [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1389280729.803484;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1389619683.599352;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2070'
+    comment_author: Damian Reeves
+    comment_author_email: damreev@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 160.79.165.5
+    comment_date: '2014-01-15 18:43:00'
+    comment_date_gmt: '2014-01-15 18:43:00'
+    comment_content: >-
+      Nice article, but when you add a desire to use git as your version control
+      system in TFS 2013 this all falls apart. A single teamproject for an
+      organization means a single git repo for the organization. Managing things
+      at the subfolder/subproject level get hard now. I know your answer, "don't
+      use git." But git provides benefits and if we'd made the decision to go
+      with git what is the guidance?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1202242462'
+  - comment_id: '2071'
+    comment_author: Damian Reeves
+    comment_author_email: damreev@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 160.79.165.5
+    comment_date: '2014-01-15 18:53:00'
+    comment_date_gmt: '2014-01-15 18:53:00'
+    comment_content: >-
+      Well it looks like I needed to do a bit more digging. This was requested
+      and fixed:
+
+       http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/3811952-allow-multiple-git-repositories-in-a-single-team-p
+
+      http://www.visualstudio.com/en-us/news/2013-may-13-vso
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2070'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1202242462'
+    - meta_key: dsq_post_id
+      meta_value: '1202259592'
+  - comment_id: '2073'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-01-16 08:57:00'
+    comment_date_gmt: '2014-01-16 08:57:00'
+    comment_content: >-
+      It does not. In fact it is much easier with Git. You can have many Git
+      Repositories per Team Project and I have asked to be able to mix and match
+      TFVC and Git repos within the same Team Project. 
+
+      I would recommend that you create a Git Repo per product that you are
+      delivering within that single Team Project.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2070'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1202242462'
+    - meta_key: dsq_post_id
+      meta_value: '1203850700'
+  - comment_id: '2074'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-01-16 08:59:00'
+    comment_date_gmt: '2014-01-16 08:59:00'
+    comment_content: >-
+      If you look at the dates it was requested less than a month before it was
+      implemented. I have a feeling that it was being implemented anyway and was
+      just turned on :) now if only we can get mix and match :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2071'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1202259592'
+    - meta_key: dsq_post_id
+      meta_value: '1203852340'
+  - comment_id: '2202'
+    comment_author: Larry
+    comment_author_email: larryrobinson12@gmail.com
+    comment_author_url: http://batman-news.com
+    comment_author_IP: 205.255.224.10
+    comment_date: '2014-04-04 22:04:00'
+    comment_date_gmt: '2014-04-04 21:04:00'
+    comment_content: >-
+      Thanks Martin for the article on one big project. It looks like my
+      department is going to go that way. My question is this can I control my
+      workflow based on Area. Meaning from the Proposed State If I changed my
+      Area can I have Assigned to be changed based on that Area or Team. I have
+      been testing with 2 groups set up in my Project level security and I am
+      trying to get the Rules around 'Assigned to' to changed based on the Area
+      that I change to. I have tried the two separate When Rules and 2 separate
+      values ffor Area ID and have tried the same for WhenChanged Rule and did
+      AllowedValues for the 2 different Security groups. Any ideas would be
+      appreciated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1319034904'
+  - comment_id: '2203'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-04-06 19:33:00'
+    comment_date_gmt: '2014-04-06 18:33:00'
+    comment_content: >-
+      Larry, for no good reason there are limitations on what rules can be
+      applied to the Area Path field. Gregg Boer has a good post on work around:
+      http://blogs.msdn.com/b/teams_wit_tools/archive/2009/02/07/work-item-rules-workarounds-validating-area-path.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2202'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1319034904'
+    - meta_key: dsq_post_id
+      meta_value: '1321427380'
+  - comment_id: '2205'
+    comment_author: Larry
+    comment_author_email: larryrobinson12@gmail.com
+    comment_author_url: http://batman-news.com
+    comment_author_IP: 205.255.224.10
+    comment_date: '2014-04-07 17:01:00'
+    comment_date_gmt: '2014-04-07 16:01:00'
+    comment_content: >-
+      Thanks Martin. That article helped a little.  I am using TFS 2012. My
+      question centers more around contolling the Allowed Values for the
+      Assigned To field. I am trying to dynamically have the 'Assigned To' field
+      populate with a certain group based on what the AreaID is. Our Area are
+      set at the same name as our team names and should stay at the top level.
+      With each team there is a certain group of people that I want 'Assigned
+      to' to populate with. Do you think this is possible?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2203'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1321427380'
+    - meta_key: dsq_post_id
+      meta_value: '1322537991'
+  - comment_id: '2206'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-04-07 19:28:00'
+    comment_date_gmt: '2014-04-07 18:28:00'
+    comment_content: >-
+      That sounds like you should be able to use a WHEN clause on the AssignedTo
+      field that sets the list based on Area Path.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2205'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1322537991'
+    - meta_key: dsq_post_id
+      meta_value: '1322743268'
+  - comment_id: '2258'
+    comment_author: Mike Gilmore
+    comment_author_email: chojun2000@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.190.170.30
+    comment_date: '2014-05-21 17:06:00'
+    comment_date_gmt: '2014-05-21 16:06:00'
+    comment_content: >-
+      I've worked for both GE Healthcare and Caradigm (formerly Microsoft's
+      HSG).  We used this model at both companies to tremendous success.  The
+      Team Projects were divided among organizational boundaries (e.g. Dev had a
+      Team Project, Ops another).  I'm working hard to implement this at my
+      current company, I believe this will be a great success story for the
+      organization.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1397725804'
+  - comment_id: '2336'
+    comment_author: mr_roboto
+    comment_author_email: test912874901238472@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 67.202.75.55
+    comment_date: '2014-06-23 16:39:00'
+    comment_date_gmt: '2014-06-23 15:39:00'
+    comment_content: >-
+      Martin, do you know if this is a planned feature? That is, to be able to
+      have both TFSVC and git in the same team project?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2074'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1203852340'
+    - meta_key: dsq_post_id
+      meta_value: '1449975033'
+  - comment_id: '2337'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-06-23 20:10:00'
+    comment_date_gmt: '2014-06-23 19:10:00'
+    comment_content: >-
+      You should vote for my request on User Voice:
+      http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/5367806-allow-multiple-git-or-tfvc-repositories-in-a-singl
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2336'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1449975033'
+    - meta_key: dsq_post_id
+      meta_value: '1450280496'
+  - comment_id: '2376'
+    comment_author: Julie
+    comment_author_email: julieasteiner@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 50.89.236.94
+    comment_date: '2014-06-30 00:44:00'
+    comment_date_gmt: '2014-06-29 23:44:00'
+    comment_content: >-
+      Holy smokes, thanks for this blog! I've been trying to implement TFS, and
+      now that my proselytizing has gotten me somewhere, this is a great jump
+      off point - It's answered "the" question on how to set up TFS. Just a
+      quick question - The CMMI template seems to have more of the workflow we
+      are looking for as an organization -  Especially the "Change Request"
+      portion. How often do you find other orgs using  this template?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1460890526'
+  - comment_id: '2380'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.235.173
+    comment_date: '2014-06-30 05:14:00'
+    comment_date_gmt: '2014-06-30 04:14:00'
+    comment_content: >-
+      @julie_steiner:disqus you should take a look at
+      http://nkdagility.com/agile-vs-scrum-process-templates-team-foundation-server/
+      . Every company I have ever seen moves more towards the Scrum template,
+      even if they take the Change Request ( although that in itself can be
+      mitigated difernetly) and add it to the template. Did you know that the
+      first ever Scrum project in 2001 was CMMI level 5 and for life critical
+      systems. You can do CMMI and have the functionality of change requests
+      without actually having a separate work item type.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2376'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1460890526'
+    - meta_key: dsq_post_id
+      meta_value: '1461114034'
+  - comment_id: '2381'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.228.204.146
+    comment_date: '2014-06-30 05:23:00'
+    comment_date_gmt: '2014-06-30 04:23:00'
+    comment_content: >-
+      @disqus_2ig9eqTl3h:disqus , while I understand that you got value from
+      this I do not recommend this way of working. Creating silos within your
+      organisation (and separate Team Projects does do this) based on skill is a
+      recipe for disaster. Instead of having functional teams from your
+      organisations perspective many teams find it far more valuable and
+      effective to have functional teams from the Deliverables perspective. Each
+      team having all the required personnel to ship a code a code change from
+      top-to-bottom in there application and Dev-&gt;Prod.
+
+
+      Microsoft has been doing it ineffectively for many years and is only now
+      (that's one big ship to turn) moving towards a much more agile process.
+      The only way to ship to production every three weeks as DevDiv does or at
+      least every quarter as Xbox does (they actually have many smaller releases
+      internally) and twice yearly as the Windows team now does is to break down
+      those barriers and start creating cross functional teams...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2258'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1397725804'
+    - meta_key: dsq_post_id
+      meta_value: '1461119735'
+  - comment_id: '2400'
+    comment_author: Julie
+    comment_author_email: julieasteiner@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 50.89.236.94
+    comment_date: '2014-07-03 14:52:00'
+    comment_date_gmt: '2014-07-03 13:52:00'
+    comment_content: >-
+      @Martin Thanks very much for the Link. I've started experimenting with the
+      Scrum template. I think this one might be the winner. :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2380'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1461114034'
+    - meta_key: dsq_post_id
+      meta_value: '1466700962'
+  - comment_id: '2570'
+    comment_author: Steve Davey
+    comment_author_email: steven.davey@computershare.co.uk
+    comment_author_url: ''
+    comment_author_IP: 82.33.229.236
+    comment_date: '2014-07-07 16:18:00'
+    comment_date_gmt: '2014-07-07 15:18:00'
+    comment_content: >-
+      Hi, my company are currently looking at moving to the single team project
+      approach described in your article, I wondered if anyone that has
+      previously made the switch had any feedback on performance impacts? are
+      there any case studies around performance? thanks Steve
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1472150560'
+  - comment_id: '2572'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-07-07 19:31:00'
+    comment_date_gmt: '2014-07-07 18:31:00'
+    comment_content: >-
+      The TFS team at Microsoft currently have a single TP in a TPC that is over
+      27TB. Check out a post form 2009
+      (http://blogs.msdn.com/b/granth/archive/2009/08/27/vsts-pioneer-tfs2010-dogfood-server.aspx)
+      on the performance and it has only gotten better since then. The same
+      codebase runs on tfs.visualstudio.com so it has to be performing...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2570'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1472150560'
+    - meta_key: dsq_post_id
+      meta_value: '1472420458'
+  - comment_id: '2575'
+    comment_author: Steve Davey
+    comment_author_email: steven.davey@computershare.co.uk
+    comment_author_url: ''
+    comment_author_IP: 82.33.229.237
+    comment_date: '2014-07-08 09:04:00'
+    comment_date_gmt: '2014-07-08 08:04:00'
+    comment_content: >-
+      Hi Martin, thanks for the reply.
+
+      Have you encountered any issues with having multiple code bases combined
+      in one TPC? we have many applications that we would ultimately look to
+      intergrade into this approach, would this hamper build performance, or web
+      view TFS response times?
+
+      I can not access the blog that you posted a link to, I get a group does
+      not exsist message on screen.
+
+      Cheers
+
+      Steve
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2572'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1472420458'
+    - meta_key: dsq_post_id
+      meta_value: '1473809385'
+  - comment_id: '2576'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.19.196.11
+    comment_date: '2014-07-08 09:09:00'
+    comment_date_gmt: '2014-07-08 08:09:00'
+    comment_content: >-
+      I fixed the link - and no, there are no performance issues that I have
+      ever encountered.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2575'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1473809385'
+    - meta_key: dsq_post_id
+      meta_value: '1473812282'
+  - comment_id: '3138'
+    comment_author: Ann Taylor
+    comment_author_email: nikki_aka@att.net
+    comment_author_url: ''
+    comment_author_IP: 170.218.231.21
+    comment_date: '2014-08-08 02:16:00'
+    comment_date_gmt: '2014-08-08 01:16:00'
+    comment_content: >-
+      No one has touched on security.  We have over 2000 developers and 500
+      applications.  Some of the apps are grouped and deploy together but some
+      are individual. There's typically one set of developers that work on an
+      app or group of apps.  With one TP, we would have roughly 250 folders for
+      each app or group of apps.  How do we make it so that the teams that work
+      on certain apps don't have access to other folders in the tree?  For
+      instance, if we have a folder called "Product S" that contains subfolders
+      that represent all the apps that make up "Product S" and then another
+      folder called "Product R", how do I assign folder permissions to restrict
+      access?  Access control is a huge deal in my company.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1532734416'
+  - comment_id: '3155'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-08-09 17:21:00'
+    comment_date_gmt: '2014-08-09 16:21:00'
+    comment_content: >-
+      @disqus_JpKdbvPbHt:disqus its an interesting discussion. Now while you can
+      do security at that level it does get a little messy. I would recommend
+      that you look for those hard boundaries, where people are not working on,
+      or switching between, different codebases. This is where you would have a
+      hard boundary and to be hones I would do another Collection with a single
+      Team Project. This will give you some ability to backup and restore more
+      granularly and to scale more effectively. If PersonA works on Project S
+      for a few years and then may move to Project R and will no longer work on
+      Project S then this works great. If its a bug mess in there with everyone
+      working on everything you really need to sort out that mess first.
+
+      For almost all of my customers I have been recommending moving forward
+      with Git Repositories in TFS. You create a single Team Project for work
+      item tracking and have a distinct Git Repository per product. You can then
+      permission the Repositories based on Teams.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3138'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1532734416'
+    - meta_key: dsq_post_id
+      meta_value: '1535054165'
+  - comment_id: '3980'
+    comment_author: Dianna
+    comment_author_email: ddecristo@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 198.179.137.235
+    comment_date: '2014-08-27 02:07:00'
+    comment_date_gmt: '2014-08-27 01:07:00'
+    comment_content: >-
+      You made this statement above "Now all we need to add is two teams in the
+      new Agile Planning tools in addition to the default and configure them to
+      only show their own backlog based on the Area Path (or we can configure it
+      to use a Team drop-down".    Can you elaborate on how to implement the
+      Team drop-down solution?
+       I have one TFS project where they are using scrum 2.0 template.  There are 3 Agile teams which work on all areas of the product.  They have meaningless names like Red, Green, Blue because they are not dedicated to any particular area.  Initially they set their area paths to Red, Green, Blue so they could assign work to those teams and have isolated Team backlogs.  However Support and QA want to define real product Areas and we would like to report on those areas (e.g. report to show which area of the product has the most bugs).  The problem is we have no way to then delegate work to each team if I can't slice it along the Area Path.  I could add a Team drop-down field but then how do I make it so that only items assigned to this team show in their backlog and use regular drag-drop prioritization?  While I could create queries based on a team field, we don't want to work in a query where we cannot prioritize.  Thus I need a way for what shows up in the backlog to be contingent upon the Team field rather than area.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1560982869'
+  - comment_id: '3987'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-08-27 05:57:00'
+    comment_date_gmt: '2014-08-27 04:57:00'
+    comment_content: >-
+      you have two options to resolve this: 
+
+
+      1) you can create a Product1 node and then add a Product1Green and a
+      Product1Red as well as a Product2Green. Then the Green team 'owns' both of
+      the Green nodes.
+
+
+      this is the recommended way
+
+
+      2) You can look at Team Field. With this you can create a new drop down
+      for 'team' and use that instead of area as your tem designation.
+
+
+      http://nkdagility.com/tag/team-field/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3980'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1560982869'
+    - meta_key: dsq_post_id
+      meta_value: '1561176877'
+  - comment_id: '4046'
+    comment_author: Dianna
+    comment_author_email: ddecristo@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 198.179.137.235
+    comment_date: '2014-08-28 17:22:00'
+    comment_date_gmt: '2014-08-28 16:22:00'
+    comment_content: >-
+      Thank you so much for the link to "Team Field"!!  I think this will solve
+      our issue.  The project actually contains just one large product with many
+      functional areas so not sure the first solution can be used since an Area
+      Path might look like "Framework/Admin/Red".    Red,Green, Blue would be
+      duplicated everywhere for each functional area. I did think about doing
+      the inverse however where I just duplicated the entire Area set of nodes
+      under top-level nodes Red,Green,Blue but this also seemed sub-optimal.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3987'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1561176877'
+    - meta_key: dsq_post_id
+      meta_value: '1563474112'
+  - comment_id: '4047'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.235.191
+    comment_date: '2014-08-28 17:28:00'
+    comment_date_gmt: '2014-08-28 16:28:00'
+    comment_content: I agree and often use Team Field
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '4046'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1563474112'
+    - meta_key: dsq_post_id
+      meta_value: '1563485302'
+  - comment_id: '10051'
+    comment_author: >-
+      Creating nested teams in Visual Studio ALM | naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/creating-nested-teams-visual-studio-alm/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-13 17:55:02'
+    comment_date_gmt: '2015-01-13 17:55:02'
+    comment_content: >-
+      [&#8230;] did some investigation and understood the issues around multiple
+      team projects they ended up with one team project to rule them all called
+      &#8220;Awesomecorp&#8221;. They still want to have some way to represent
+      their nested team [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421171702.461729;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421836252.64799;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '10360'
+    comment_author: >-
+      Create a Release Management pipeline for Professional Developers | naked
+      ALM - Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/create-release-management-pipeline-professional-developers/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-22 12:13:31'
+    comment_date_gmt: '2015-01-22 12:13:31'
+    comment_content: >-
+      [&#8230;] a new Git Repository on an existing Team Project or create a new
+      Team Project to work in. I am a firm believer in larger team projects and
+      I have a simple rule for when to create a new Team [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421928811.834084;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421933467.843604;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '12086'
+    comment_author: TFS 2013 Work item, Limit Assigned To field based on the area you chose.
+    comment_author_email: ''
+    comment_author_url: >-
+      http://abelsquidhead.com/index.php/2014/05/27/tfs-2013-work-item-limit-assigned-to/
+    comment_author_IP: 104.44.128.14
+    comment_date: '2015-05-23 15:18:23'
+    comment_date_gmt: '2015-05-23 14:18:23'
+    comment_content: >-
+      [&#8230;] into manageable chunks. &nbsp;There are massive amounts of
+      benefits (check out this post: http://nkdagility.com/one-team-project/).
+      &nbsp;However, a customer of mine made a good point the other day.
+      &nbsp;He said that by having [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1432390703.744287;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1432719228.15069;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13982'
+    comment_author: Johnny Boldt
+    comment_author_email: johnny.boldt@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 65.110.165.179
+    comment_date: '2016-05-24 20:59:00'
+    comment_date_gmt: '2016-05-24 19:59:00'
+    comment_content: >-
+      Hi! Does a single team project still make sense with TFS2015, or has new
+      functionality made it unnecessary? We are currently on TFS 2013 with
+      multiple projects and it is clear that one project with multiple areas
+      will solve a lot of our issues in terms of visibility and reporting. But
+      we are also planning on upgrading to TFS2015, so I was curious if it still
+      makes sense to consolidate to one project.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2693399076'
+  - comment_id: '13984'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2016-05-24 21:31:00'
+    comment_date_gmt: '2016-05-24 20:31:00'
+    comment_content: >-
+      Yes: See
+      https://nkdagility.com/working-within-a-single-team-project-with-team-foundation-server-2012/#comment-2693447557
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13982'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2693399076'
+    - meta_key: dsq_post_id
+      meta_value: '2693450577'
+  - comment_id: '14137'
+    comment_author: Corrine Bunnell
+    comment_author_email: corrine.bunnell@yandex.com
+    comment_author_url: ''
+    comment_author_IP: 112.203.11.191
+    comment_date: '2016-10-14 07:43:00'
+    comment_date_gmt: '2016-10-14 06:43:00'
+    comment_content: >-
+      Thoughtful discussion ! For my two cents , if your company are wanting to
+      merge some PDF files , my husband encountered a service here
+      <code>https://goo.gl/W7Wrku</code>
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2949779787'
+  - comment_id: '14150'
+    comment_author: EDMUNDO GALLAHER
+    comment_author_email: nemiribax@leeching.net
+    comment_author_url: ''
+    comment_author_IP: 95.163.23.15
+    comment_date: '2016-11-08 17:11:00'
+    comment_date_gmt: '2016-11-08 17:11:00'
+    comment_content: Good article, Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2991254352'
+  - comment_id: '14185'
+    comment_author: Ashle Stewart
+    comment_author_email: ashley.stewart@equinox.co.nz
+    comment_author_url: ''
+    comment_author_IP: 121.99.37.114
+    comment_date: '2017-03-06 11:03:00'
+    comment_date_gmt: '2017-03-06 11:03:00'
+    comment_content: >-
+      Hi Martin is there a way of showing a Kanban board view of all work
+      assigned to me across multiple team projects (same collection) - I am
+      working with VSTS
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3188815682'
+  - comment_id: '14186'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 148.252.128.210
+    comment_date: '2017-03-06 14:03:00'
+    comment_date_gmt: '2017-03-06 14:03:00'
+    comment_content: >-
+      No there is not. If you are in VSTS you might get some use out of the
+      Planning hub, which does go across Team Projects, but everything else is
+      bound to the Team Project.
+
+
+      If you want to email me for options we can discuss further and in more
+      detail.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14185'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3188815682'
+    - meta_key: dsq_post_id
+      meta_value: '3188999942'
+  - comment_id: '14250'
+    comment_author: erptechnician
+    comment_author_email: ashok.kumar@erptechnician.net
+    comment_author_url: https://www.corbitech.com
+    comment_author_IP: 173.160.197.161
+    comment_date: '2017-06-06 15:50:00'
+    comment_date_gmt: '2017-06-06 14:50:00'
+    comment_content: >-
+      Martin, could you clarify the following statement regarding Areas in TFS:
+
+
+      "You can only have 254 areas per level"
+
+
+      I'm using online Visual Studio Team Services (VSTS) rather than on-premise
+      TFS. As a new administrator of VSTS, I have very limited experience so I
+      want to confirm my understanding before proceeding with the implementation
+      of VSTS for my company.
+
+
+      To illustrate my concern, I'll provide a brief example. Assume that a
+      company is a consultancy that works on many development projects for many
+      clients. Using the "One Team Project to Rule Them All" design, the
+      consultancy might use the following structure for Area to separate access
+      between clients while maintaining streamlined workflow and reporting for
+      their projects:
+
+
+      RootTeamProject/Client001/Project001
+
+      RootTeamProject/Client001/Project002
+
+      RootTeamProject/Client002/Project001
+
+      RootTeamProject/Client002/Project002
+
+
+      Based on my understanding of your statement, it would appear that this
+      design will fail if the consultancy has more than 254 clients or if it has
+      a client with more than 254 projects. If my understanding is accurate,
+      could you suggest how to work around this limitation in the scenario
+      described above?
+
+
+      From my research, I know that large companies use the "One Team Project to
+      Rule Them All" design successfully, so I'm wondering what I might be
+      missing?
+
+
+      Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3344522095'
+  - comment_id: '14350'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 167.220.58.84
+    comment_date: '2017-09-20 17:45:00'
+    comment_date_gmt: '2017-09-20 16:45:00'
+    comment_content: >-
+      Correct. You should add a DropDown with the customer entries in the list
+      rather than an Area Path.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14250'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3344522095'
+    - meta_key: dsq_post_id
+      meta_value: '3526534652'

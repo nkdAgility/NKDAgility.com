@@ -1,0 +1,568 @@
+post:
+  title: Getting a service account for VSO with TFS Service Credential Viewer
+  link: >-
+    https://nkdagility.com/blog/getting-service-account-vso-tfs-service-credential-viewer/
+  pubDate: Wed, 18 Jun 2014 14:41:22 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10596
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Have you tried to get a service account for Visual Studio Online (VSO)? Did you know that you can use the TFS Service Credential Viewer to get it.</p>\r\n<p>When you join a local or azure build server to your VSO account you are asked to log in with an account that is an administrator to get credentials. However it cant continue to use your credentials as your Microsoft ID token expires after 2 days and you would have to login again. Not a good experience. However there is a little bit of code that the build server uses to get a basic service username and password that it uses instead. I have used this to create unit tests that hit the TFS API’s in VSO as well as do all sorts of automated tasks that I need.</p>\r\n<p>I created the TFS Service Credential Viewer when the service was still in Preview but it is no less required now. Its your gateway to automation with VSO.</p>\r\n<h3>Download TFS Service Credential Viewer</h3>\r\n<p>The following prerequisites are required:</p>\r\n<ul>\r\n<li>Team Explorer 2013 <del>Visual Studio 11 (any version)</del></li>\r\n<li>.NET 4.5</li>\r\n</ul>\r\n<p>If these components are already installed, you can <a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/TfsServiceCredentialsUI.application\">launch</a> the application now. Otherwise, click install below to install the prerequisites and run the application.</p>\r\n<h6><a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/setup.exe\"><span style=\"font-size: medium;\">install</span></a><span style=\"font-size: medium;\"> or </span><a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/TfsServiceCredentialsUI.application\"><span style=\"font-size: medium;\">launch via clickonce</span></a></h6>\r\n<h3>How it works</h3>\r\n<p>Once you have authenticated as a TFS Collection Administrator using your Microsoft ID to your hosted VSO instance we use the Access Control Service to provision a service identity that you can use for unattended connections to VSO.</p>\r\n<p><a href=\"http://i0.wp.com/blog.hinshelwood.com/files/2012/03/SNAGHTML85af783.png\"><img title=\"SNAGHTML85af783\" src=\"http://i1.wp.com/blog.hinshelwood.com/files/2012/03/SNAGHTML85af783_thumb.png?zoom=1.5&amp;resize=460%2C461\" alt=\"SNAGHTML85af783\" width=\"460\" height=\"461\" border=\"0\" /></a><br /><strong>Figure: A quick #1, #2 to get your credentials</strong></p>\r\n<p>http://youtu.be/Fkn6V0_zz28<br /><strong>Video: How to get your credentials</strong></p>\r\n<h3>Troubleshooting</h3>\r\n<p>If you are using Windows 8 you will not get an automatic launch of the application due to an extra security check called Smart Screen for applications that come from the internet.</p>\r\n<ol>\r\n<li>Click or Press “Start” and Scroll all the way to the right</li>\r\n<li>Select the TFS Service Credential Viewer</li>\r\n<li>When the security dialog pops up click “More Info”\r\n<p><a href=\"http://i1.wp.com/blog.hinshelwood.com/files/2012/03/image22.png\"><img title=\"image\" src=\"http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb22.png?zoom=1.5&amp;resize=640%2C268\" alt=\"image\" width=\"640\" height=\"268\" border=\"0\" /></a><br /><strong>Figure: Select More Info<br /></strong></p>\r\n</li>\r\n<li>Click “Run anyway” to launch the application and add it to the safe list\r\n<p><a href=\"http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image23.png\"><img title=\"image\" src=\"http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb23.png?zoom=1.5&amp;resize=640%2C270\" alt=\"image\" width=\"640\" height=\"270\" border=\"0\" /></a><br />Figure;</p>\r\n</li>\r\n<li>Done</li>\r\n</ol>\r\n<p>If you encounter an exception when clicking “Connect” the most likely cause if that you do not have Team Explorer 2013 installed (it should also work with 2012).</p>"
+  - ''
+  post_id: '10596'
+  post_date: '2014-06-18 15:41:22'
+  post_date_gmt: '2014-06-18 14:41:22'
+  post_modified: '2014-06-13 19:04:20'
+  post_modified_gmt: '2014-06-13 18:04:20'
+  comment_status: open
+  ping_status: open
+  post_name: getting-service-account-vso-tfs-service-credential-viewer
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1kTtI5k
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: service account for vso
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '62'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '2775339710'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474709352;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11158;}i:1;a:1:{s:2:"id";i:11021;}i:2;a:1:{s:2:"id";i:10667;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2014-06-18-getting-service-account-vso-tfs-service-credential-viewer.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1294'
+  comment:
+  - comment_id: '2321'
+    comment_author: Dew Drop &#8211; June 19, 2014 (#1800) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/06/19/dew-drop-june-19-2014-1800/
+    comment_author_IP: 168.62.50.182
+    comment_date: '2014-06-19 14:16:31'
+    comment_date_gmt: '2014-06-19 13:16:31'
+    comment_content: >-
+      [&#8230;] Getting a service account for VSO with TFS Service Credential
+      Viewer (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1403183791.909896;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1403190327.932761;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2403'
+    comment_author: >-
+      Ranger Flash – June 2014 … gearing up for another adventurous year -
+      Willy&#039;s Reflections - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2014/07/03/ranger-flash-june-2014-gearing-up-for-another-adventurous-year.aspx
+    comment_author_IP: 157.56.75.143
+    comment_date: '2014-07-03 23:45:56'
+    comment_date_gmt: '2014-07-03 22:45:56'
+    comment_content: >-
+      [&#8230;] Getting a service account for VSO with TFS Service Credential
+      Viewer [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404427556.464145;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404474957.795284;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11622'
+    comment_author: Philip Street
+    comment_author_email: philipalexstreet@googlemail.com
+    comment_author_url: ''
+    comment_author_IP: 95.172.74.37
+    comment_date: '2015-03-27 12:14:00'
+    comment_date_gmt: '2015-03-27 12:14:00'
+    comment_content: >-
+      Hi Martin
+
+
+      I'm trying to use your TFS Service Credential Viewer app, but it crashes
+      whenever I click the Connect button; a System.IO.FileNotFoundException
+      exception is written to the Eventlog.
+
+
+      I have Visual Studio 2013 with Update 4 installed, is that good enough?
+
+
+      Thanks.
+
+
+      Phil
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1931070276'
+  - comment_id: '11623'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-03-27 12:26:00'
+    comment_date_gmt: '2015-03-27 12:26:00'
+    comment_content: '@philipstreet:disqus the app is built for Visual Studio 2015.'
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11622'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1931070276'
+    - meta_key: dsq_post_id
+      meta_value: '1931086016'
+  - comment_id: '11701'
+    comment_author: Hans
+    comment_author_email: hans.laubisch@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 167.220.233.247
+    comment_date: '2015-04-06 06:11:00'
+    comment_date_gmt: '2015-04-06 05:11:00'
+    comment_content: >-
+      Which version is it? You only spoke about VS 2012 before, but I also have
+      trouble getting running with those. Now you mention VS 2015, but there is
+      not team explorer for this only yet? I have tried VS2012,VS2013 and VS2015
+      preview but the Credential Viewer always closes without any notice. Any
+      hints?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11623'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1931086016'
+    - meta_key: dsq_post_id
+      meta_value: '1948507527'
+  - comment_id: '11717'
+    comment_author: Rudi Larno
+    comment_author_email: rudi_larno@hotmail.com
+    comment_author_url: http://blog.larud.net/
+    comment_author_IP: 91.183.217.206
+    comment_date: '2015-04-10 10:31:00'
+    comment_date_gmt: '2015-04-10 09:31:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      Just launched the tool on a new VS15 image on Azure and it crashed when
+      clicking the connect button.
+
+
+      An unhandled exception of type 'System.IO.FileNotFoundException' occurred
+      in GalaSoft.MvvmLight.WPF4.dll
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11701'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1948507527'
+    - meta_key: dsq_post_id
+      meta_value: '1956923665'
+  - comment_id: '11735'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-04-13 11:46:00'
+    comment_date_gmt: '2015-04-13 10:46:00'
+    comment_content: >-
+      Do you have a 32 bit system? Or 64? I am having trouble with the 2015
+      object model...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11717'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1956923665'
+    - meta_key: dsq_post_id
+      meta_value: '1964676344'
+  - comment_id: '11740'
+    comment_author: Rudi Larno
+    comment_author_email: rudi_larno@hotmail.com
+    comment_author_url: http://blog.larud.net/
+    comment_author_IP: 91.183.217.206
+    comment_date: '2015-04-13 15:08:00'
+    comment_date_gmt: '2015-04-13 14:08:00'
+    comment_content: >-
+      I'm using the VS2015 image as prepared by MS in the Azure Gallery. It is a
+      Windows Server 2012 R2 (so 64-bit).
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11735'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1964676344'
+    - meta_key: dsq_post_id
+      meta_value: '1964971560'
+  - comment_id: '11994'
+    comment_author: Philip Street
+    comment_author_email: philipalexstreet@googlemail.com
+    comment_author_url: ''
+    comment_author_IP: 77.96.108.213
+    comment_date: '2015-05-11 20:38:00'
+    comment_date_gmt: '2015-05-11 19:38:00'
+    comment_content: >-
+      OK, I've fixed the problem. 
+
+
+      I ran the app again but attached VS2013 debugger to see what was causing
+      the Exception;
+
+
+      System.IO.FileNotFoundException was unhandled
+
+
+      Message: An unhandled exception of type 'System.IO.FileNotFoundException'
+      occurred in GalaSoft.MvvmLight.WPF4.dll
+
+
+      Additional information: Could not load file or assembly
+      'Microsoft.TeamFoundation.Client, Version=11.0.0.0, Culture=neutral,
+      PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. The system
+      cannot find the file specified.
+
+
+      Googling this indicated that the assembly is part of Team Explorer for
+      VS2012.
+
+
+      I had mistakenly assumed that by having VS2013 installed I would also have
+      Team Explorer installed as well. So, in fairness to Martin, he is correct
+      in stating above that you need to install it first.
+
+
+      Therefore, you need to do the following.
+
+
+      1) Download and install Team Explorer for VS2012 from the following link;
+
+
+      https://www.microsoft.com/en-us/download/confirmation.aspx?id=30656
+
+
+      2) Download and install Update 4 for Visual Studio 2012;
+
+
+      https://www.microsoft.com/en-gb/download/details.aspx?id=39305
+
+
+      3) Connect Team Explorer to your VSO instance - just because VS is
+      configured/connected to VSO does not mean Team Explorer is as well.
+
+
+      Re-run the app after doing this and you should now have your VSO Service
+      Account credentials, as have I!
+
+
+      Good luck!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11740'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1964971560'
+    - meta_key: dsq_post_id
+      meta_value: '2018986648'
+  - comment_id: '11996'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-05-11 21:16:00'
+    comment_date_gmt: '2015-05-11 20:16:00'
+    comment_content: >-
+      I was not aware of a dependency on 2012... everything should be 2015...
+      that would be a bug then.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11994'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2018986648'
+    - meta_key: dsq_post_id
+      meta_value: '2019054280'
+  - comment_id: '12177'
+    comment_author: opq
+    comment_author_email: opaque@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 131.107.160.138
+    comment_date: '2015-06-01 20:23:00'
+    comment_date_gmt: '2015-06-01 19:23:00'
+    comment_content: >-
+      Hi folks, I've been trying the new VS2015 Preview version at
+      http://nkdagility.com/tools/vso-service-credential-viewer/. It lets me
+      connect (#1 shows "Connected to xyz") but clicking Retrieve Credentials
+      does nothing at all. Do you have any suggestions? Where can I get these
+      credentials directly? Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2056739571'
+  - comment_id: '12211'
+    comment_author: Tomas Ramirez
+    comment_author_email: squebler@gmail.com
+    comment_author_url: http://blogs.windwardreports.com/tomasr/
+    comment_author_IP: 64.58.7.38
+    comment_date: '2015-06-05 02:48:00'
+    comment_date_gmt: '2015-06-05 01:48:00'
+    comment_content: Would you mind posting the source code for this?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2062866419'
+  - comment_id: '12214'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-06-05 11:22:00'
+    comment_date_gmt: '2015-06-05 10:22:00'
+    comment_content: >-
+      Are you the owner of the account? You need to be the owner to be able to
+      retrieve the service credentials...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12177'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2056739571'
+    - meta_key: dsq_post_id
+      meta_value: '2063270280'
+  - comment_id: '12215'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-06-05 12:42:00'
+    comment_date_gmt: '2015-06-05 11:42:00'
+    comment_content: |-
+      ServiceIdentity defaultServiceIdentity = null;
+      IAccessControlService acs = _SelectedTeamProjectCollection.GetService();
+      defaultServiceIdentity = acs.ProvisionServiceIdentity();
+      if (defaultServiceIdentity != null)
+      {
+                      _ServiceUsername = defaultServiceIdentity.IdentityInfo.Name;
+                      _ServicePassword = defaultServiceIdentity.IdentityInfo.Password;
+      }
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12211'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2062866419'
+    - meta_key: dsq_post_id
+      meta_value: '2063339269'
+  - comment_id: '12216'
+    comment_author: Tomas Ramirez
+    comment_author_email: squebler@gmail.com
+    comment_author_url: http://blogs.windwardreports.com/tomasr/
+    comment_author_IP: 67.6.132.92
+    comment_date: '2015-06-05 14:22:00'
+    comment_date_gmt: '2015-06-05 13:22:00'
+    comment_content: Thank you so much!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12215'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2063339269'
+    - meta_key: dsq_post_id
+      meta_value: '2063459809'
+  - comment_id: '12239'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-06-08 10:42:00'
+    comment_date_gmt: '2015-06-08 09:42:00'
+    comment_content: Correct, you MUST use Windows authentication.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12216'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2063459809'
+    - meta_key: dsq_post_id
+      meta_value: '2067726179'
+  - comment_id: '12298'
+    comment_author: Lane Goolsby
+    comment_author_email: lanegoolsby@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 173.28.224.245
+    comment_date: '2015-06-12 15:00:00'
+    comment_date_gmt: '2015-06-12 14:00:00'
+    comment_content: >-
+      Can you use this account with the REST API? I gave it a quick try and
+      calls to the API kicks back (what appears to be) a login page. Also, is
+      the account name the full string returned by the tool or just the bit in
+      parenthesis (e.g. I get back 'Account Service ({myhost})', do we use the
+      bit in {} or the whole string)?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2075588426'
+  - comment_id: '12311'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-06-13 14:40:00'
+    comment_date_gmt: '2015-06-13 13:40:00'
+    comment_content: >-
+      I have not tried this account with the REST API, only with the Object
+      Model.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12298'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2075588426'
+    - meta_key: dsq_post_id
+      meta_value: '2077159481'
+  - comment_id: '13689'
+    comment_author: Stephen Walsh
+    comment_author_email: stephen@connectwithawalsh.com
+    comment_author_url: http://connectwithawalsh.com/
+    comment_author_IP: 71.86.113.203
+    comment_date: '2015-11-17 02:02:00'
+    comment_date_gmt: '2015-11-17 02:02:00'
+    comment_content: >-
+      What sort of security would add to give this account access to a build
+      server like TeamCity?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2363696857'
+  - comment_id: '14247'
+    comment_author: Mayank Parashar
+    comment_author_email: mayankdonbosco@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 167.220.238.15
+    comment_date: '2017-05-30 14:40:00'
+    comment_date_gmt: '2017-05-30 13:40:00'
+    comment_content: >-
+      I used vs 2015, and was able to connect. But the retrieve button does
+      nothing.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11996'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2019054280'
+    - meta_key: dsq_post_id
+      meta_value: '3331553958'
+  - comment_id: '14248'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 38.97.192.82
+    comment_date: '2017-05-30 14:51:00'
+    comment_date_gmt: '2017-05-30 13:51:00'
+    comment_content: >-
+      I think you might need to use Team Explorer 2013. I need to update tge API
+      to the new Nuget package but i have not yet.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14247'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3331553958'
+    - meta_key: dsq_post_id
+      meta_value: '3331569522'

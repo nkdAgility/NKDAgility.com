@@ -1,0 +1,90 @@
+post:
+  title: Guidance - Branching for each Sprint
+  link: https://nkdagility.com/blog/guidance-branching-for-each-sprint/
+  pubDate: Thu, 08 Apr 2010 16:34:03 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/04/08/creating-a-branch-for-every-sprint.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!</p>\n<p>What is hard and complicated is a bad branching strategy. Just like a bad software architecture a bad branch architecture, or one that is not adhered to can prove fatal to a project. We I was at Aggreko we had a fairly successful Feature branching strategy (although the developers hated it) that meant that we could have multiple feature teams working at the same time without impacting each other. Now, this had to be carefully orchestrated as it was a Business Intelligence team and many of the BI artefacts do not lend themselves to merging.</p>\n<p>Today at SSW I am working on a Scrum team delivering a product that will be used by many hundreds of developers. SSW SQL Deploy takes much of the pain out of upgrading production databases when you are not using the Database projects in Visual Studio.</p>\n<p>With Scrum each Scrum Team works for a fixed period of time on a single sprint. You can have one or more Scrum Teams involved in delivering a product, but all the work must be merged and tested, ready to be shown to the Product Owner at the the Sprint Review meeting at the end of the current Sprint.</p>\n<p>So, what does this mean for a branching strategy?</p>\n<p>We have been using a “Main” (sometimes called “Trunk”) line and doing a branch for each sprint. It’s like Feature Branching, but with only ONE feature in operation at any one time, so no conflicts <img class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StartinganewSprintinTFSCreatingabranch_D436-wlEmoticon-smile_2.png\" /></p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StartinganewSprintinTFSCreatingabranch_D436-clip_image001_2.png\"><img border=\"0\" alt=\"clip_image001\" width=\"213\" height=\"201\" style=\"border-bottom: 0px;border-left: 0px;margin: 0px 20px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StartinganewSprintinTFSCreatingabranch_D436-clip_image001_thumb.png\" /></a> <br />\n<strong>Figure: DEV folder containing the Development branches.</strong></p>\n<p>\_</p>\n<p>I know that some folks advocate applying a Label at the start of each Sprint and then rolling back if you need to, but I have always preferred the security of a branch.</p>\n<p>Like:</p>\n<ul>\n    <li>being able to create a release from Main that has Sprint3 code even while Sprint4 is being worked on.</li>\n    <li>being sure I can always create a stable build on request.</li>\n    <li>Being able to guarantee a version (labels are not auditable)</li>\n    <li>Be able to abandon the sprint without having to delete the code (rare I know, but would be a mess if it happened)</li>\n    <li>Being able to see the flow of change sets through to a safe release</li>\n    <li>It helps you find invalid dependencies when merging to Main as there may be some file that is in everyone’s Sprint branch, but never got checked in. (We had this at the merge of Sprint2)</li>\n    <li>If you are always operating in this way as a standard it makes it easier to then add more scrum teams in the future. Muscle memory of this way of working.</li>\n</ul>\n<p>Don’t Like:</p>\n<ul>\n    <li>Additional DB space for the branches</li>\n    <li>Baseless merging between sprint branches when changes are directly ported <br />\n    Note: I do not think we will ever attempt this!</li>\n    <li>Maybe a bit tougher to see the history between sprint branches since the changes go up through Main and down to another sprint branch <br />\n    Note: What you would have to do is see which Sprint the changes were made in and then check the history he same file in that Sprint. A little bit of added complexity that you would have to do anyway with multiple teams.</li>\n    <li>Over time, you can end up with a lot of old unused sprint branches. Perhaps destroy with /keephistory can help in this case. <br />\n    Note: We ALWAYS delete the Sprint branch after it has been merged into Main. That is the theory anyway, and as you can see from the images Sprint2 has already been deleted.</li>\n</ul>\n<p><b>Why take the chance of having a problem rolling back or wanting to keep some of the code, when you can just abandon a branch and start a new one?</b></p>\n<p>It just seems easier and less painful to use a branch to me! What do you think?</p>\n<p>\_</p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/Scrum\" rel=\"tag\">Scrum</a>\_<a href=\"http://technorati.com/tags/SSW\" rel=\"tag\">SSW</a>\_<a href=\"http://technorati.com/tags/TFS+2008\" rel=\"tag\">TFS 2008</a>\_<a href=\"http://technorati.com/tags/TFS+2010\" rel=\"tag\">TFS 2010</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/Branching\" rel=\"tag\">Branching</a>\_<a href=\"http://technorati.com/tags/Version+Control\" rel=\"tag\">Version Control</a>\_</div>"
+  - ''
+  post_id: '56'
+  post_date: '2010-04-08 16:34:03'
+  post_date_gmt: '2010-04-08 16:34:03'
+  post_modified: '2010-04-08 16:34:03'
+  post_modified_gmt: '2010-04-08 16:34:03'
+  comment_status: open
+  ping_status: open
+  post_name: guidance-branching-for-each-sprint
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '312720485'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19AjkJB
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474592612;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:50;}i:1;a:1:{s:2:"id";i:42;}i:2;a:1:{s:2:"id";i:10649;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2010-04-08-guidance-branching-for-each-sprint.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1499'
+  comment:
+    comment_id: '2043'
+    comment_author: Guidance – Branching for each Sprint | AleWhite
+    comment_author_email: ''
+    comment_author_url: http://alejandroblanco.com.ar/guidance-branching-for-each-sprint/
+    comment_author_IP: 184.168.27.184
+    comment_date: '2013-12-17 13:06:38'
+    comment_date_gmt: '2013-12-17 13:06:38'
+    comment_content: "[&#8230;] via:\_http://nkdagility.com/guidance-branching-for-each-sprint/ [&#8230;]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1387285599.009166;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1389619764.69442;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

@@ -1,0 +1,307 @@
+post:
+  title: Composite WPF and Merged Dictionaries
+  link: https://nkdagility.com/blog/composite-wpf-and-merged-dictionaries/
+  pubDate: Wed, 12 Nov 2008 11:18:25 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/11/12/composite-wpf-and-merged-dictionaries.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    If, like me, you like to have changeable resource files in your application.
+    Wither it is for changing the Theme, or interchanging templates you will
+    need to take special care when using the
+
+
+    <a href="http://www.codeplex.com/CompositeWPF" target="_blank"></a>
+    libraries.
+
+
+    The new version of the <a href="http://hinshelwood.com/TFSStickyBuddy.aspx"
+    target="_blank">TFS Sticky Buddy</a> uses both!
+
+
+    <a
+    href="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CompositeWPFandMergedDictionaries_9AD7-image_2.png"><img
+    style="border: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CompositeWPFandMergedDictionaries_9AD7-image_thumb.png"
+    border="0" alt="image" width="404" height="387" /></a>
+
+
+    I am using the built in Infragistics theme system, and the first time you
+    select a theme I am just adding a resource file that overrides the default:
+
+    <div class="csharpcode-wrapper">
+
+    <div class="csharpcode">
+
+    <pre><span class="lnum">   1:</span> <span class="kwrd">Dim</span>
+    resourceDictionary <span class="kwrd">As</span> ResourceDictionary =
+    ThemeManager.GetResourceSet(theme, ThemeManager.AllGroupingsLiteral)</pre>
+
+    <pre><span class="lnum">   2:</span> <span class="kwrd">If</span> <span
+    class="kwrd">Not</span> resourceDictionary <span class="kwrd">Is</span>
+    <span class="kwrd">Nothing</span> <span class="kwrd">Then</span></pre>
+
+    <pre><span class="lnum">   3:</span>   
+    Application.Current.Resources.MergedDictionaries.Add(resourceDictionary)</pre>
+
+    <pre><span class="lnum">   4:</span> <span class="kwrd">End</span> If</pre>
+
+    &nbsp;
+
+
+    </div>
+
+    </div>
+
+    This causes an error in the ItemsControlRegionAdapter as WPF seams to redo
+    the region adapters and you get a ItemsControlHasItemsSourceException. You
+    need to change the code to the following (notice the commented out areas):
+
+    <div class="csharpcode-wrapper">
+
+    <div class="csharpcode">
+
+    <pre><span class="lnum">   1:</span> <span class="rem">///
+    &lt;summary&gt;</span></pre>
+
+    <pre><span class="lnum">   2:</span> <span class="rem">/// Adapts an &lt;see
+    cref="ItemsControl"/&gt; to an &lt;see cref="IRegion"/&gt;.</span></pre>
+
+    <pre><span class="lnum">   3:</span> <span class="rem">///
+    &lt;/summary&gt;</span></pre>
+
+    <pre><span class="lnum">   4:</span> <span class="rem">/// &lt;param
+    name="region"&gt;The new region being used.&lt;/param&gt;</span></pre>
+
+    <pre><span class="lnum">   5:</span> <span class="rem">/// &lt;param
+    name="regionTarget"&gt;The object to adapt.&lt;/param&gt;</span></pre>
+
+    <pre><span class="lnum">   6:</span> <span class="kwrd">protected</span>
+    <span class="kwrd">override</span> <span class="kwrd">void</span>
+    Adapt(IRegion region, ItemsControl regionTarget)</pre>
+
+    <pre><span class="lnum">   7:</span> {  <span class="rem">//Modified by
+    Martin Hinshelwood to allow resource file changes...</span></pre>
+
+    <pre><span class="lnum">   8:</span>     <span class="rem">//if
+    (regionTarget.ItemsSource != null ||
+    (BindingOperations.GetBinding(regionTarget,
+    ItemsControl.ItemsSourceProperty) != null))</span></pre>
+
+    <pre><span class="lnum">   9:</span>     <span class="rem">//    throw new
+    InvalidOperationException(Resources.ItemsControlHasItemsSourceException);</span></pre>
+
+    <pre><span class="lnum">  10:</span></pre>
+
+    <pre><span class="lnum">  11:</span>     <span class="rem">//If control has
+    child items, move them to the region and then bind control to region. Can't
+    set ItemsSource if child items exist.</span></pre>
+
+    <pre><span class="lnum">  12:</span>     <span class="kwrd">if</span>
+    (regionTarget.Items.Count &gt; 0)</pre>
+
+    <pre><span class="lnum">  13:</span>     {</pre>
+
+    <pre><span class="lnum">  14:</span>         <span
+    class="kwrd">foreach</span> (<span class="kwrd">object</span> childItem
+    <span class="kwrd">in</span> regionTarget.Items)</pre>
+
+    <pre><span class="lnum">  15:</span>         {</pre>
+
+    <pre><span class="lnum">  16:</span>            
+    region.Add(childItem);</pre>
+
+    <pre><span class="lnum">  17:</span>         }</pre>
+
+    <pre><span class="lnum">  18:</span>         <span class="rem">//Control
+    must be empty before setting ItemsSource</span></pre>
+
+    <pre><span class="lnum">  19:</span>         regionTarget.ItemsSource =
+    <span class="kwrd">null</span>;</pre>
+
+    <pre><span class="lnum">  20:</span>         <span
+    class="rem">//regionTarget.Items.Clear();</span></pre>
+
+    <pre><span class="lnum">  21:</span>     }</pre>
+
+    <pre><span class="lnum">  22:</span>     regionTarget.ItemsSource =
+    region.Views;</pre>
+
+    <pre><span class="lnum">  23:</span> }</pre>
+
+    &nbsp;
+
+
+    </div>
+
+    </div>
+
+    You will notice that I had to comment out the exception for existing
+    controls as well as the Items.Clear (which is replaced by setting the
+    ItemsSource to nothing). This solves the problem I I have not noticed any
+    adverse reactions.
+
+
+    The second problem occurs when you do you second set of the theme. at this
+    point you need to remove the existing theme:
+
+    <div class="csharpcode-wrapper">
+
+    <div class="csharpcode">
+
+    <pre><span class="lnum">   1:</span> <span class="kwrd">If</span> <span
+    class="kwrd">Not</span> m_CurrentTheme <span class="kwrd">Is</span> <span
+    class="kwrd">Nothing</span> <span class="kwrd">Then</span></pre>
+
+    <pre><span class="lnum">   2:</span>      
+    Application.Current.Resources.MergedDictionaries.Remove(m_CurrentTheme)</pre>
+
+    <pre><span class="lnum">   3:</span> <span class="kwrd">End</span> If</pre>
+
+    &nbsp;
+
+
+    </div>
+
+    </div>
+
+    When this happens the region management is redone and you get a further
+    RegionNameExistsException from the RegionManager. Then can be solved by
+    changing the code in the AttachNewRegion method:
+
+    <div class="csharpcode-wrapper">
+
+    <div class="csharpcode">
+
+    <pre><span class="lnum">   1:</span> <span class="rem">///
+    &lt;summary&gt;</span></pre>
+
+    <pre><span class="lnum">   2:</span> <span class="rem">/// Attaches a region
+    to an object and adds it to the region manager.</span></pre>
+
+    <pre><span class="lnum">   3:</span> <span class="rem">///
+    &lt;/summary&gt;</span></pre>
+
+    <pre><span class="lnum">   4:</span> <span class="rem">/// &lt;param
+    name="regionTarget"&gt;The object to adapt. This is typically a container
+    (i.e a control).&lt;/param&gt;</span></pre>
+
+    <pre><span class="lnum">   5:</span> <span class="rem">/// &lt;param
+    name="regionName"&gt;The name of the region to
+    register.&lt;/param&gt;</span></pre>
+
+    <pre><span class="lnum">   6:</span> <span class="rem">/// &lt;exception
+    cref="ArgumentException"&gt;When regions collection already has a region
+    registered using &lt;paramref
+    name="regionName"/&gt;.&lt;/exception&gt;</span></pre>
+
+    <pre><span class="lnum">   7:</span> <span class="kwrd">public</span> <span
+    class="kwrd">void</span> AttachNewRegion(<span class="kwrd">object</span>
+    regionTarget, <span class="kwrd">string</span> regionName)</pre>
+
+    <pre><span class="lnum">   8:</span> {  <span class="rem">//Modified by
+    Martin Hinshelwood to allow resource file changes...</span></pre>
+
+    <pre><span class="lnum">   9:</span>     <span class="kwrd">if</span>
+    (Regions.ContainsKey(regionName))</pre>
+
+    <pre><span class="lnum">  10:</span>         <span
+    class="kwrd">return</span>; <span class="rem">//throw new
+    ArgumentException(string.Format(CultureInfo.InvariantCulture,
+    Resources.RegionNameExistsException, regionName));</span></pre>
+
+    <pre><span class="lnum">  11:</span></pre>
+
+    <pre><span class="lnum">  12:</span>     IRegionAdapter regionAdapter =
+    regionAdapterMappings.GetMapping(regionTarget.GetType());</pre>
+
+    <pre><span class="lnum">  13:</span>     IRegion region =
+    regionAdapter.Initialize(regionTarget);</pre>
+
+    <pre><span class="lnum">  14:</span></pre>
+
+    <pre><span class="lnum">  15:</span>     Regions.Add(regionName,
+    region);</pre>
+
+    <pre><span class="lnum">  16:</span> }</pre>
+
+    &nbsp;
+
+
+    </div>
+
+    </div>
+
+    So instead of bombing out when you try to add a region of the same name, it
+    will just ignore it. Not ideal, but necessary.
+
+
+    &nbsp;
+
+    <div class="wlWriterEditableSmartContent" style="margin: 0px; float: none;
+    padding: 0px;">Technorati Tags: <a rel="tag"
+    href="http://technorati.com/tags/WPF">WPF</a> <a rel="tag"
+    href="http://technorati.com/tags/ALM">ALM</a> <a rel="tag"
+    href="http://technorati.com/tags/TFS+Custom">TFS Custom</a> <a rel="tag"
+    href="http://technorati.com/tags/WIT">WIT</a></div>
+  - ''
+  post_id: '170'
+  post_date: '2008-11-12 11:18:25'
+  post_date_gmt: '2008-11-12 11:18:25'
+  post_modified: '2008-11-12 11:18:25'
+  post_modified_gmt: '2008-11-12 11:18:25'
+  comment_status: open
+  ping_status: open
+  post_name: composite-wpf-and-merged-dictionaries
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '314036405'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6Vgx9
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474475081;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:179;}i:1;a:1:{s:2:"id";i:236;}i:2;a:1:{s:2:"id";i:164;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-11-12-composite-wpf-and-merged-dictionaries.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '339'

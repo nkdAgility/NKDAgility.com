@@ -1,0 +1,954 @@
+post:
+  title: Execute Tests with Release Management for Visual Studio 2013
+  link: >-
+    https://nkdagility.com/blog/execute-tests-release-management-visual-studio-2013/
+  pubDate: Mon, 27 Jan 2014 11:29:14 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10342
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Last week I was onsite with a customer who was trying to do automated release and test with Lab Management. I showed him a better way by execute Tests with Release Management for Visual Studio 2013.</p>\r\n<p><small><span class=\"label label-info\">UPDATE</span> Make sure that your build name does not contain any spaces as there is a <a href=\"http://blogs.msdn.com/b/mpeder/archive/2014/03/03/fixing-error-in-release-management-when-using-quot-mtm-automated-tests-manager-quot-build-name-restriction.aspx\" target=\"_blank\">bug in the PowerShell script used by Release Management</a></small></p>\r\n<p>If you have ever used Lab Management to do an automated build and release you will know that you can use the DefaultLabTemplate and select an environment that has been configured in Lab Management to do a deployment to. In TFS 2010 you had to be using Hyper-V before you could do automated deployment and one of the enhancements that was added to TFS 2012 was the ability to use <a href=\"http://nkdagility.com/standard-environments-for-automated-deployment-and-testing/\">Standard Environments for automated deployment and testing</a>.</p>\r\n<p>While this was pretty good it was a little complicated to get working and need a little love care and attention to maintain. On top of that you had to configure environments within Lab Management and this installed 'developer tools' onto the boxes. This made it completely unusable for anything outside of a lab and we really wanted to be doing things the same all of the way through our release pipeline. I wrote a post on <a href=\"http://nkdagility.com/release-management-with-team-foundation-server-2012/\">Release Management in TFS 2012</a> in which I created a standard Nuget deployment package to unify the deployment while using Lab Management for Development and Testing environments and Octopus Deploy for UAT and Production.</p>\r\n<p>This worked well but ends up being rather convoluted and does not make the best use of the features that are available in both products. With the release of Release Management for Visual Studio 2013 we get some new capabilities and greater standardisation of the process.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image001\" alt=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image0011.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Release Pipeline in Visual Studio 2013</small></p>\r\n<p>Back with the customer, we were trying to get the deployment, a simple Xcopy process, to work via the Lab Management tool. If you have ever tried this you will know that it is very difficult to debug and you get lots of weird stuff to deal with. If we flip over to Release Management instead for deployment we can still execute tests but we get a much easier process to debug and create. The only caveat right now is that as Release Management is a bought in tool (it was InRelease) we don’t have compatibility between Lab Management environments and those used by Release Management and we will have to duplicate. I am hoping that in a future version we can configure environments that can be used for Lab, Release or both.</p>\r\n<p>So what do we have to do?</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image002\" alt=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image0021.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Running Automated Tests with Release Management</small></p>\r\n<p>In this scenario we have to have Microsoft Test Manager (MTM) installed on the target server. It would be nice to not have to have it there but we need to be able to execute TCM.exe and for that we need MTM to be installed. Another one for the test team to look at, but really not a big deal.</p>\r\n<p>Note: If your 'target server' is off domain you will need to use Shadow Accounts. That is you create accounts of the same username and password on all of the computers that need to authenticate and magically they do. There is however a bug in Release Management that means that you not only have to add the \"[rmServer]\\localAccount\" account but also the \"[targetServer]\\localAccount\" as well. All of the Shadow Accounts will need Release Manager and Service Account permissions.</p>\r\n<p>So, the bit that took me a while to figure out is that as there are context specific assets associated with your tests you will need to get them down to the server under test. How this is achieved is to create a component in the Release Management Client so that the bits are specified. That is why there is no \"Action\" for MTM out of the box… you need a component.</p>\r\n<p>Head on over to \"Configure Apps | Components | New\" and when you fill out the Component you should make sure that you select he root of the build directory by putting a single \"\\\" in the 'path to package' and you can simply name it \"Automated Tests\". This single component will work for any build as they will always be in the same place.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image003\" alt=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image0031.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Creating a component for your automated tests</small></p>\r\n<p>After that you need to set the Tool that you want to execute as \"MTM Automated Tests Manager\" and it will automatically populate the rest with the variables you will need. There are some customisations that you may need to do depending on what you are doing. There are some hidden options of TcmExec.ps1 and the timeout of 5 minutes might be WAY too short for you needs. Very dependent on what you are trying to do, but for your first run I would keep it simple.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image004\" alt=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image004.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Setting the MTM Automated Tests Manager tool</small></p>\r\n<p>Now in \"Configuration Apps | Release Templates\" you need to open one of your release templates, in this case \"Fabriakam Call Centre\" and first add the component to your list of components and then to your workflow design surface at the point in time that you want to run the tests.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image005\" alt=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image005.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Adding the Automated Tests component to your Release Template</small></p>\r\n<p>Once you have the Automated Tests component added to the sequence you can fill out the details. If you are executing this deployment as part of a build deployment then you have a few handy short cut variables to use. To get the TFS Collection and Team Project you can use $(TfsUrlWithCollection) and $(TeamProject) respectively. In addition you can get the build directory by using the $(PackageLocation) variable.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image006\" alt=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/clip_image006.png\" width=\"800\" height=\"450\" border=\"0\" /><br /><small>Figure: Configuring the Automated Tests component</small></p>\r\n<p>One of the final variables that we need to set is that of the Test Environment that you want to execute the tests against. If you pop over to Lab Manager and create a Standard Environment, as noted above, that is actually the same environment that has been configured in Release Management you can fill out the environment name here.</p>\r\n<p>Now you can have automated tests executed as part of your deployment… carry on testing.</p>"
+  - >-
+    Last week I was onsite with a customer who was trying to do automated
+    release and test with Lab Management. I showed him a better way by execute
+    Tests with Release Management for Visual Studio 2013.
+  post_id: '10342'
+  post_date: '2014-01-27 11:29:14'
+  post_date_gmt: '2014-01-27 11:29:14'
+  post_modified: '2014-03-03 09:49:03'
+  post_modified_gmt: '2014-03-03 09:49:03'
+  comment_status: open
+  ping_status: open
+  post_name: execute-tests-release-management-visual-studio-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '76'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1eTPVfQ
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: tests with release management
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Last week I was onsite with a customer who was trying to do automated
+      release and test with Lab Management. I showed him a better way by execute
+      Tests with Release Management for Visual Studio 2013.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '2139752471'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474914965;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9308;}i:1;a:1:{s:2:"id";i:10990;}i:2;a:1:{s:2:"id";i:9468;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-01-27-execute-tests-release-management-visual-studio-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1058'
+  comment:
+  - comment_id: '2090'
+    comment_author: Dew Drop &#8211; January 28, 2014 (#1711) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/01/28/dew-drop-january-28-2014-1711/
+    comment_author_IP: 168.62.50.182
+    comment_date: '2014-01-28 12:45:49'
+    comment_date_gmt: '2014-01-28 12:45:49'
+    comment_content: >-
+      [&#8230;] Execute Tests with Release Management for Visual Studio 2013
+      (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390913149.13832;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390980968.028145;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2096'
+    comment_author: Execute Tests with Release Management for Visua...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4015317396/2014/02/04/execute-tests-with-release-management-for-visual-studio-2013-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 89.30.105.121
+    comment_date: '2014-02-04 08:52:08'
+    comment_date_gmt: '2014-02-04 08:52:08'
+    comment_content: >-
+      [&#8230;] Last week I was onsite with a customer who was trying to do
+      automated release and test with Lab Management. I showed him a better way
+      by execute Tests with Release Management for Visual Studio 2013.&nbsp;
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1391503928.756794;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1392065661.626509;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2129'
+    comment_author: >-
+      Fixing: Error in Release Management when using &quot;MTM Automated Tests
+      Manager&quot; - build name restriction - Michael Pedersen&#039;s Blog -
+      Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/mpeder/archive/2014/03/03/fixing-error-in-release-management-when-using-quot-mtm-automated-tests-manager-quot-build-name-restriction.aspx
+    comment_author_IP: 157.56.75.146
+    comment_date: '2014-03-03 09:41:42'
+    comment_date_gmt: '2014-03-03 09:41:42'
+    comment_content: >-
+      [&#8230;] an automated test as part of your deployment &quot;MTM Automated
+      Tests Manager&quot; tool as described here:
+      http://nkdagility.com/execute-tests-release-management-visual-studio-2013/
+      Make sure that your build name does NOT contain any spaces. Due to a
+      bug/limitation in the [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1393916260.420683;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2161'
+    comment_author: Stefano G.
+    comment_author_email: stefano.giovinetti@alten.it
+    comment_author_url: ''
+    comment_author_IP: 93.62.124.9
+    comment_date: '2014-03-11 09:17:00'
+    comment_date_gmt: '2014-03-11 09:17:00'
+    comment_content: |-
+      Hi Martin,
+      thank you for your post. It helped me a lot.
+      Just one question...
+      where it's located the file TcmExec.ps1 for customizing it?
+      Thank you.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1279779338'
+  - comment_id: '2182'
+    comment_author: Ana Roje Ivancic
+    comment_author_email: aroje@ekobit.hr
+    comment_author_url: http://www.ekobit.com
+    comment_author_IP: 94.253.245.154
+    comment_date: '2014-03-23 21:20:00'
+    comment_date_gmt: '2014-03-23 21:20:00'
+    comment_content: >-
+      Hi Martin!
+
+
+      I followed your instructions for the Keller's VS 2013 ALM virtual machine.
+      The predefined FabrikamFiber project exits there with a build definition
+      based on the "ReleaseDefaultTemplate.11.1.xaml"
+
+
+      The “MTM Automated Tests Manager” component worked only after following
+      corrections:
+
+
+      1. 
+
+      I could not use $(TeamProject) for 'Team Project' param. This variable is
+      empty for the template used by the FF build and you get the error "Option
+      teamproject requires a value." in the log in release management (RM).
+
+      So I set "FabrikamFiber" for 'Team Project'
+
+
+      2. 
+
+      Next, I could not use $(TfsUrlWithCollection) for the 'TFS Collection'
+      param. This variable returned the value
+      "http://vsalm:8080/tfs/FabrikamFiberCollection/FabrikamFiber" and I got
+      the following error in the RM log: "TF31002: Unable to connect to this
+      Team Foundation Server:
+      http://vsalm:8080/tfs/FabrikamFiberCollection/FabrikamFiber."
+
+
+      So I set "http:\vsalm:8080tfsFabrikamFiberCollection" for 'Team Project'.
+
+
+      3. 
+
+      The name of the build definition used when you want to use RM “MTM
+      Automated Tests Manager” n MUST BE WITHOUT SPACES!! I lost hours on this.
+
+      The build originally set up in the image is named "Nightly Fabrikam (Dev)"
+      and I used that build. 
+
+
+      The test run did start as part of RM and you could follow its execution in
+      MTM. The error I got was:
+
+      "The build directory of the test run either does not exist or access
+      permission is required."
+
+
+
+
+      Then I located the "TcmExec.ps1" script and started manually debugging the
+      problem.
+
+      I used the local path for the build directory param: 
+
+      " C:ffdropsNightly Fabrikam (Dev)Nightly Fabrikam (Dev)_20130711.6"
+
+
+      When I turned on tracing in MTM the TCM.EqtTrace.log showed following in
+      the log:
+
+      "run.BuildDirectory = C:ffdropsNightly"
+
+      So the build directory was not not correctly set because of spaces in the
+      build definition name. 
+
+      So I removed spaces  from the build definition name and used 
+
+      "C:ffdropsNightlyFabrikam(Dev)NightlyFabrikam(Dev)_20130711.6"
+
+      The TCM.EqtTrace.log showed now:
+
+      "run.BuildDirectory =
+      C:ffdropsNightlyFabrikam(Dev)NightlyFabrikam(Dev)_20130711.6" 
+
+
+      Bingo!
+
+
+
+      So once again, the build definition name must not have spaces!
+
+
+
+
+
+      With these 3 corrections it works on the Keller's VM and I can run
+      automated tests as part of RM.
+
+
+
+      Cheers,
+
+      Ana
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1297883017'
+  - comment_id: '2183'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.202
+    comment_date: '2014-03-24 07:07:00'
+    comment_date_gmt: '2014-03-24 07:07:00'
+    comment_content: >-
+      Fantastic work @anarojeivancic:disqus :) If you call the flow from a build
+      then the $(TeamProject) and bits get populated. Well done on getting this
+      working...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2182'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1297883017'
+    - meta_key: dsq_post_id
+      meta_value: '1298612155'
+  - comment_id: '2185'
+    comment_author: Ana Roje Ivancic
+    comment_author_email: aroje@ekobit.hr
+    comment_author_url: http://www.ekobit.com
+    comment_author_IP: 88.207.90.24
+    comment_date: '2014-03-25 10:11:00'
+    comment_date_gmt: '2014-03-25 10:11:00'
+    comment_content: >-
+      Hi again.
+
+      I am executing the flow from the build.
+
+      When I use $(TfsUrlWithCollection) and $(TeamProject) I get this in the
+      build report:
+
+      Run the Release Management Build process for the Current Configuration
+
+      Microsoft.TeamFoundation.Release.Build starting process...
+
+      "C:Program Files (x86)Microsoft Visual Studio 12.0Release
+      ManagementbinReleaseManagementBuild.exe" -tfs
+      "http://vsalm:8080/tfs/fabrikamfibercollection" -tp "FabrikamFiber" -bd
+      "FF_ReleaseManagement" -bn "FF_ReleaseManagement_20130711.5" -ts ""
+      -nologo
+
+      Release Service will be called.
+
+      Processing using the following parameters:
+
+      TeamFoundationServerUrl:                 
+      http://vsalm:8080/tfs/fabrikamfibercollection
+
+      TeamProjectName:                          FabrikamFiber
+
+      TeamProjectWithCollection:               
+      fabrikamfibercollection/FabrikamFiber
+
+      TargetStage:
+
+      BuildDefinitionName:                      FF_ReleaseManagement
+
+      BuildNumber:                              FF_ReleaseManagement_20130711.5
+
+      ERROR: The deployment for release template 'FF_DemoUAT Template' has not
+      been completed successfully. Check the releases history for more details.
+
+
+      And this is the error in RM for “MTM Automated Tests Manager”:
+
+      Microsoft Release Management TcmExec PowerShell Script v12.0
+
+      Copyright (c) 2013 Microsoft. All rights reserved.
+
+      Executing with the following parameters:
+
+      Build Directory:
+      \vsalmffdropsFF_ReleaseManagementFF_ReleaseManagement_20130711.5\
+
+      Build Definition: 
+
+      Build Number: 
+
+      Test Environment: Local
+
+      Collection: http://vsalm:8080/tfs/FabrikamFiberCollection/FabrikamFiber
+
+      Team project: 
+
+      Plan ID: 3
+
+      Suite ID: 3
+
+      Configuration ID: 1
+
+      Title: UAT Test Run from RM
+
+      Settings Name: 
+
+      Inconclusive result fails tests: False
+
+      Remove /include parameter from /create command: False
+
+      Test run wait delay: 10
+
+      Creating test run ...
+
+      Option teamproject requires a value.
+
+      ERROR: Operation failed with error code 1.
+
+      Done.
+
+
+      Cheers,
+
+
+      Ana
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2183'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1298612155'
+    - meta_key: dsq_post_id
+      meta_value: '1301409594'
+  - comment_id: '2208'
+    comment_author: Mehdi
+    comment_author_email: mehdibennani@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 41.140.95.226
+    comment_date: '2014-04-08 17:57:00'
+    comment_date_gmt: '2014-04-08 16:57:00'
+    comment_content: >-
+      Hi Martin, hi you guys,
+
+
+      I have followed this tutorial as well as Ana's comments and I am getting
+      the following error message, in the release management workflow in the
+      step running the "MTM Automated Tests Manager"
+
+      Error is:
+
+      A Visual Studio testing sku must be installed to use this command.
+
+
+      Basically from what I see, TcmExec.ps1 gets executed in the deploy machine
+      (where the deployment agent is. In the same Domain as the release
+      management server machine), and at some point it executed the following
+      line:
+
+      C:Program Files (x86)Microsoft Visual Studio 12.0Common7IDETCM.exe run
+      /export /id:23 /collection:xxxxxxx /teamproject:yyyyy
+
+
+      That's the line which triggers the error mentioned above.
+
+
+      I have Visual Studio Test prof. installed in the deploy machine with a
+      valid license key. 
+
+      What else do you guys thing I need? 
+
+      But isn't it this command suppose to run in the Test environment ? (i.e:
+      the 'TestEnvironment' variable that this workflow step takes which
+      corresponds to the environment name set from within Lab Management. a.k.a.
+      the machine that runs the lab agent. That's yet another machine (a 3rd
+      machine for me). I have got the Release Management Server machine + deploy
+      machine + Test Environment machine (that says Ready in Lab Management).
+      The deployment occurs in the deploy machine and the tests will run in this
+      last machine, am I correct? And if so, this machine will also need Visual
+      Studio Test installed or else it won't have TCM.exe? Correct?)
+
+
+
+      Thanks,
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1324300305'
+  - comment_id: '2209'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-04-08 21:26:00'
+    comment_date_gmt: '2014-04-08 20:26:00'
+    comment_content: >-
+      Mehdi,
+
+      Can you please check that TCM.exe exists at that location?
+
+      You will be executing the tests in the test environment through the Test
+      Agent but you need to 'kick off' the test execution. At the moment this is
+      done by the deployment agent as we are making it part of the deployment
+      workflow.; The side effect at the moment is that we need to have MTM
+      installed on that server. This will hopefully be addressed by the product
+      team in a future release.
+
+      -MrHinsh
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2208'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1324300305'
+    - meta_key: dsq_post_id
+      meta_value: '1324700904'
+  - comment_id: '2211'
+    comment_author: Mehdi
+    comment_author_email: mehdibennani@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 41.250.228.34
+    comment_date: '2014-04-08 22:32:00'
+    comment_date_gmt: '2014-04-08 21:32:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      Thank you for your quick reply. I appreciate it especially that we are
+      really blocked and honestly it's been a rough patch with lots of blocking
+      errors along the way.
+
+
+      Visual Studio Test Prof. is installed in the deployment machine along with
+      the deployer agent. I installed it there after I realized that TcmExec.ps1
+      is looking for it. Now, after that, I got further in the script, but not
+      too far. 
+
+
+      Like posted previously, TcmExec.ps1 invokes this: 
+
+      C:Program Files (x86)Microsoft Visual Studio 12.0Common7IDETCM.exe run
+      /export /id:23 /collection:xxxxxxx /teamproject:yyyyy
+
+
+      The path to TCM is correct and if I run TCM.exe configs /list for instance
+      directly from the command line, it works well. The TCM.exe run however
+      gives me the error stated before:
+
+      "A Visual Studio testing sku must be installed to use this command."
+
+
+      My configuration is as follows:  3 Machines (All in the same domain).
+
+      - Machine1: TFS + Release Management server
+
+      - Machine2: Deployer Agent  + Visual Studio Test
+
+      - Machine3: Test Agent and machine marked "ready" in Lab Management.
+
+      (The error I get above occurs during a build and release, when my workflow
+      reaches the "MTM Automated Tests Manager".)
+
+
+      If I understand what you are saying right, you are saying:
+
+      The deployment agent from machine 2 will be kicking and runnning the tests
+      in machine 3 via the test agent. Which means TCM.exe should be present in
+      Machine3 and not Machine2...
+
+      I.e: I have to install Visual Studio Test in Machine3 for this to work?
+      Correct?
+
+      Basically, somehow, TcmExec.ps1 ends up copied in the Test Agent before it
+      runs, right?
+
+
+
+
+      Thank you, 
+
+      Mehdi/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2209'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1324700904'
+    - meta_key: dsq_post_id
+      meta_value: '1324802890'
+  - comment_id: '2212'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-04-08 22:38:00'
+    comment_date_gmt: '2014-04-08 21:38:00'
+    comment_content: >-
+      Not quite. MTM needs to be on Machene2 and TcmExec.ps1 is called on
+      Machene2. The error you are getting looks like a bug/weird thing and I
+      would post on the forums (http://nkdalm.net/Q0Ya0M) as that is not working
+      right...
+
+
+      Question: In my diagram Machine2 &amp; Machine3 are the same Machine. why
+      do you have them separate? I think that in your scenario Machine2 &amp;
+      Machine3 should both be part of a single Lab environment but only Machine2
+      needs to be part of the RM Environment...
+
+
+      (It is midnight here so hitting the sack...email me on info@nakedalm.com
+      with a link to the forum post and I will bring it to some folks attention
+      on the morrow)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2211'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1324802890'
+    - meta_key: dsq_post_id
+      meta_value: '1324810965'
+  - comment_id: '2213'
+    comment_author: Mehdi
+    comment_author_email: mehdibennani@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 41.250.228.34
+    comment_date: '2014-04-09 00:16:00'
+    comment_date_gmt: '2014-04-08 23:16:00'
+    comment_content: >-
+      Same here, we must be on the same time zone.
+
+
+      I just logged the bug regarding the error message. Here is the link to it:
+
+      http://social.msdn.microsoft.com/Forums/vstudio/en-US/f091e59f-5347-4b5e-be64-8b3191dbedde/a-visual-studio-testing-sku-must-be-installed-to-use-this-command-failing-to-run-tests-part-of?forum=vsmantest
+
+
+      Note that: Machine 2 contains deployer Agent + Visual Studio Test +  MTM
+      (since it comes w/ Visual Studio Test Prof.). And now you are saying I
+      should also install the Test Agent in it.
+
+      So, for each deployment machine, we should install: 
+
+      Deployer agent + test agent + Visual Studio Test Prof.....Not really ideal
+      but can live with it right now if it works.
+
+
+      As for why 2 machines. Here is the scoop:
+
+
+      We initially intended to have both in the cloud outside our domain in one
+      single machine. But we very quickly realize that lab agent cannot be
+      outside the domain: limitation from MS. So we created Machine 3 inside our
+      domain with a lab agent in it.
+
+      Then, after more than 2 weeks of struggling, posting messages and talking
+      to MS people about some weird behaviors with the web deployer component
+      failing mysteriously to copy files over HTTP (MS is using SOAP file
+      transfer for that) between the RM Server (build drop) and the deployer
+      agent in the cloud, we were forced to create a new machine (machine 2)
+      inside the domain to host the Deployer Agent. That's how we ended up w/ 2
+      machines.
+
+
+      So, I could very well install the lab agent in machine 2 and combine both
+      2 and 3. But I doubt it would solve my problem. Will try that tomorrow
+      anyways...out of desperation.
+
+
+      Another question for you if you don't mind related to the automated tests:
+
+      Assuming the Execute Tests MTM component works fine, it will run all Test
+      Cases for the given test suite id. Fine. But what if I want it to run
+      another test suite besides this one. Do I need two MTM test runner 
+      components  back to back in the workflow? Does that mean from iteration to
+      iteration (as we keep adding test suites), we will have to add components
+      in the workflow? Does not make sense to me....
+
+
+      Thank you,
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2212'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1324810965'
+    - meta_key: dsq_post_id
+      meta_value: '1324979313'
+  - comment_id: '2256'
+    comment_author: jwh
+    comment_author_email: jhoffman@guard.com
+    comment_author_url: ''
+    comment_author_IP: 24.29.232.92
+    comment_date: '2014-05-17 00:57:00'
+    comment_date_gmt: '2014-05-16 23:57:00'
+    comment_content: >-
+      We are seeing similar issues with the $(TeamProject) meta data variable.
+      We think it has to do with our team project having a single Space
+      character in the name. I did read that there is a bug in the tcmexe.ps1
+      script file relating to white space in the build name. Can anyone explain
+      where this file resides and how to go about resolving this know issue?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2161'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1279779338'
+    - meta_key: dsq_post_id
+      meta_value: '1390080609'
+  - comment_id: '2257'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-05-18 09:41:00'
+    comment_date_gmt: '2014-05-18 08:41:00'
+    comment_content: >-
+      The file is stored inside the Release Management SQL Server. I am not sure
+      that the is a way to access it...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2256'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1390080609'
+    - meta_key: dsq_post_id
+      meta_value: '1391626920'
+  - comment_id: '2601'
+    comment_author: Moetsam Atique
+    comment_author_email: moetsamatique@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 141.113.86.92
+    comment_date: '2014-07-10 15:29:00'
+    comment_date_gmt: '2014-07-10 14:29:00'
+    comment_content: >-
+      Does Lab-Management have some limitations as compare to release
+      management? and does lab-management have no future because of release
+      managment? I have created a Lab-Management SCVMM environment where we can
+      have build , deploy and automated test workflows and i can take snapshots
+      . I have now read this blog of you where you are saying release management
+      is better than lab-management.I have also read your blog of standard
+      environment lab-management.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1478791318'
+  - comment_id: '2603'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-07-10 17:08:00'
+    comment_date_gmt: '2014-07-10 16:08:00'
+    comment_content: >-
+      I tried to be very explicit that we require both. And that I believe that
+      Microsoft should fold Release and Lab management into a single unified
+      solution. We need Lab Management for Environments however it cant be used
+      for deployments beyond development. I do not want to have to switch tools
+      to do deployments in production so I get Release Management to do what the
+      "LabManagementDefault.xaml" templaye currently does.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2601'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1478791318'
+    - meta_key: dsq_post_id
+      meta_value: '1478954136'
+  - comment_id: '2606'
+    comment_author: Moetsam Atique
+    comment_author_email: moetsamatique@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 37.209.120.69
+    comment_date: '2014-07-10 22:55:00'
+    comment_date_gmt: '2014-07-10 21:55:00'
+    comment_content: >-
+      we can do deployment in Lab-Managment as well . I think you want to say
+      that for deployment in a production level we need release management
+      instead of lab management . Am i right ?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2603'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1478954136'
+    - meta_key: dsq_post_id
+      meta_value: '1479538867'
+  - comment_id: '2609'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-07-11 05:35:00'
+    comment_date_gmt: '2014-07-11 04:35:00'
+    comment_content: >-
+      I only do deployments with Release Management. Lab management is about
+      spinning up environments, snapshots and recording data under test. So I
+      need both. If you look at the picture "Release Pipeline in Visual Studio
+      2013"
+      (http://nkdagility.com/building-release-pipeline-release-management-visual-studio-2013/)
+      you can clearly see that I have release management transending both Dev
+      and Prod, while I use Lab in Dev and Application Analytics in Prod.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2606'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1479538867'
+    - meta_key: dsq_post_id
+      meta_value: '1479974834'
+  - comment_id: '10851'
+    comment_author: GeraldGunter
+    comment_author_email: gerald.gunter@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 192.119.219.120
+    comment_date: '2015-02-13 13:45:00'
+    comment_date_gmt: '2015-02-13 13:45:00'
+    comment_content: >-
+      Do you of any reason why deferred deployments wouldn't start?  I have
+      created a test deployment to pass from staging to production.  It does not
+      start during the allotted time.  We have also checked the time on the
+      servers, domain controllers, and clients.  We have not checked the time on
+      the hypervisors.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1851635095'
+  - comment_id: '11613'
+    comment_author: nirmesh patel
+    comment_author_email: nirmeshptl@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 104.157.36.116
+    comment_date: '2015-03-25 06:41:00'
+    comment_date_gmt: '2015-03-25 06:41:00'
+    comment_content: >-
+      Hi Martin
+
+
+      I have my automation written using Microsoft TAEF (Test Authoring and
+      Execution Framework) which is similar to MsTest framework with additional
+      features like test reboot, test loop etc. I am not trying to figure it out
+      if I can run my test suite using TAEF framework using MTM. So far it looks
+      like MTM only  supports MSTest framework. Is there any way to  configure
+      an Environment in MTM where I can collect the test data and automate the
+      trigger of the test run using TAEF framework. Thanks In Advance.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1926691058'
+  - comment_id: '11614'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-03-25 09:39:00'
+    comment_date_gmt: '2015-03-25 09:39:00'
+    comment_content: >-
+      OK, so it needs to be an MS test (currently). I have created code, in t4
+      templates, to generate the MS TEST wrapper that calls the [whatever other
+      framework] tests. Usually to integrate QTP, but I don't see why it would
+      be any different for Microsoft TAEF .
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11613'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1926691058'
+    - meta_key: dsq_post_id
+      meta_value: '1926851564'
+  - comment_id: '11655'
+    comment_author: nirmesh patel
+    comment_author_email: nirmeshptl@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 104.157.36.116
+    comment_date: '2015-03-31 05:19:00'
+    comment_date_gmt: '2015-03-31 04:19:00'
+    comment_content: Thanks for your reply. Any idea VS 2015 going to support more framework?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11614'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1926851564'
+    - meta_key: dsq_post_id
+      meta_value: '1937317343'
+  - comment_id: '11658'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-03-31 09:22:00'
+    comment_date_gmt: '2015-03-31 08:22:00'
+    comment_content: >-
+      I would not be surprised. With the Test Frameworks now being pluggable in
+      2013 it only makes sense for the MTM team to use the same code.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11655'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1937317343'
+    - meta_key: dsq_post_id
+      meta_value: '1937513468'
+  - comment_id: '14219'
+    comment_author: Nilesh Kolhe
+    comment_author_email: nileshrkolhe@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 165.225.104.80
+    comment_date: '2017-04-17 07:27:00'
+    comment_date_gmt: '2017-04-17 06:27:00'
+    comment_content: >-
+      Hi..How can we manage to run selenium tests written in java on eclipse
+      using TestNG framework with Developers Build promotion?
+
+
+      I've been asked a question by one of our developers here. They are asking
+      whether it is possible for a selenium test suite to be tied in with a TFS
+      build in visual studio to the test server? So that way, as soon as a build
+      is done it can kick off a run of the regression test suite, directly after
+      that.
+
+
+      Bear in mind that my scripts have been written in Eclipse, NOT Visual
+      Studio, so I'm not sure if this will cause restrictions.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3259521823'

@@ -1,0 +1,365 @@
+post:
+  title: >-
+    TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace
+    permissions
+  link: >-
+    https://nkdagility.com/blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions/
+  pubDate: Thu, 30 Aug 2012 17:05:03 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=8018
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>No matter what permissions you set or what permissions you have you get a
+    “TF30063: You are not authorized to access
+    /Services/v3.0/LocationService.asmx” in SharePoint 2010.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image116.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb115.png"
+    width="640" height="384"/></a><br /><strong>Figure: Errors on the TFS
+    components</strong></p>
+
+    <p>And you have checked all of the usual suspects and even use the new TFS
+    2012 permission tracing features to no avail.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image117.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb116.png"
+    width="640" height="384"/></a><br /><strong>Figure: Cannot trace permissions
+    on this item</strong></p>
+
+    <p>&nbsp;</p>
+
+    <h3>Applies to</h3>
+
+    <ul class="metro-list">
+
+    <li>Visual Studio 2012 Team Foundation Server</li>
+
+    <li>Microsoft SharePoint 2010</li>
+
+    </ul>
+
+    <h3>Findings</h3>
+
+    <p>I don't know how unique my case is, but if you have searched the heck out
+    of “<a title="http://bit.ly/NzeeoM" href="http://bit.ly/NzeeoM">TF30063: You
+    are not authorized to access LocationService</a>” and you still can’t find
+    the issue then it is simple. </p>
+
+    <p>You do not have permission to read items in TFS from SharePoint!</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/tearing_hair_out-300x271.jpg"><img
+    title="tearing_hair_out-300x271" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="tearing_hair_out-300x271"
+    src="http://blog.hinshelwood.com/files/2012/08/tearing_hair_out-300x271_thumb.jpg"
+    width="300" height="271"/></a><br /><strong>Figure: Ahhhhhhhhhh</strong></p>
+
+    <p>But I am logged in as the TFS Service account, TFS Administrator account
+    and a SharePoint Farm Admin… how many more permission do I need! Here is the
+    deal… you have a “deny” in your permission list somewhere. Deny takes
+    presidence over any other permission. So if you have a deny high up but an
+    allow lower down then this is just tough… denied. And if it is doing this
+    for all of your users regardless of permissions or groups then I have a
+    suspension that there is some deny high up in TFS. There are only two groups
+    that apply to everyone… </p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image118.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb117.png"
+    width="640" height="384"/></a><br /><strong>Figure: [TEAM FOUNDATION]Team
+    Foundation Valid User</strong></p>
+
+    <p>There are two places to look for global deny’s and that is the “Valid
+    User” groups at either the server or at the collection level.</p>
+
+    <p>  <a href="http://blog.hinshelwood.com/files/2012/08/image119.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb118.png"
+    width="640" height="384"/></a><br /><strong>Figure:
+    [DefaultCollection]Project Collection Valid Users</strong>
+
+    </p>
+
+    <p>In this case we upgraded from Team Foundation Server 2008 to 2012 so any
+    permissions carried over would be at the Collection level, so lets start
+    there…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image120.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left:
+    0px; display: inline; padding-right: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb119.png"
+    width="640" height="384"/></a><br /><strong>Figure: Really… denied at the
+    Project Collection Level</strong></p>
+
+    <p>I can’t imagine what was trying to be achieved by this… so I will leave
+    you with…</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg"><img
+    title="ImpliedFacePalm" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="ImpliedFacePalm"
+    src="http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm_thumb.jpg"
+    width="480" height="415"/></a></p>
+  - >-
+    No matter what permissions you set or what permissions you have you get a
+    “TF30063: You are not authorized to access
+    /Services/v3.0/LocationService.asmx” in SharePoint 2010.
+  post_id: '8018'
+  post_date: '2012-08-30 10:05:03'
+  post_date_gmt: '2012-08-30 17:05:03'
+  post_modified: '2012-08-30 10:05:03'
+  post_modified_gmt: '2012-08-30 17:05:03'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '824538206'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBGfGv
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474883015;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9138;}i:1;a:1:{s:2:"id";i:9096;}i:2;a:1:{s:2:"id";i:7176;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-08-30-tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1704'
+  comment:
+  - comment_id: '1401'
+    comment_author: Brad
+    comment_author_email: brad.darnell@centare.com
+    comment_author_url: ''
+    comment_author_IP: 98.100.153.3
+    comment_date: '2012-09-10 07:50:00'
+    comment_date_gmt: '2012-09-10 14:50:00'
+    comment_content: >-
+      I attempted to upgrade from TFS 2012 RC to TFS 2012 RTM and received this
+      error.  I however was unable to access anything, even the security
+      permissions in the Admin Console.  Any thoughts?  I saw a few posts
+      regarding NuGet, which is on the server, but those fixes didn't work
+      either.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '645853634'
+  - comment_id: '1402'
+    comment_author: Jan Lund Svensson
+    comment_author_email: janls@worldonline.dk
+    comment_author_url: ''
+    comment_author_IP: 131.165.63.132
+    comment_date: '2013-05-22 14:17:00'
+    comment_date_gmt: '2013-05-22 13:17:00'
+    comment_content: >-
+      I had the same problem. But I could not find any user valid user setting
+      the "deny" set. But instead I choose "Repair Connection" on TFS 2012
+      "Sharepoint Web Applications" in the TFS adminstration console, and that
+      solved my problem.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '904808322'
+  - comment_id: '1403'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 172.20.8.61
+    comment_date: '2013-05-23 18:17:00'
+    comment_date_gmt: '2013-05-23 17:17:00'
+    comment_content: I am glad that you found a simple solution.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1402'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '904808322'
+    - meta_key: dsq_post_id
+      meta_value: '905999974'
+  - comment_id: '1996'
+    comment_author: Mick
+    comment_author_email: mick.tosk@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 64.207.26.14
+    comment_date: '2013-10-22 16:01:00'
+    comment_date_gmt: '2013-10-22 16:01:00'
+    comment_content: >-
+      Hi All,
+
+
+
+      We just saw this error message today coming from TFS and the problem was
+      that a user's token had expired because his password had expired. We
+      chased the permissions problem down for about 2 hours until we had the
+      user restart his machine! :-)
+
+
+
+      Mick
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1092248118'
+  - comment_id: '2083'
+    comment_author: 'TF30063: You are not authorized&#8230;! | Odie&#039;s Blog'
+    comment_author_email: ''
+    comment_author_url: http://studiohub.wordpress.com/2014/01/22/tf30063-you-are-not-authorized/
+    comment_author_IP: 66.155.8.235
+    comment_date: '2014-01-23 00:36:16'
+    comment_date_gmt: '2014-01-23 00:36:16'
+    comment_content: '[&#8230;] Checked permissions as described here but still no go [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390437376.565507;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390982211.887542;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '10668'
+    comment_author: FIHG
+    comment_author_email: ivanhg@ingeniumgrp.es
+    comment_author_url: ''
+    comment_author_IP: 79.148.228.195
+    comment_date: '2015-02-04 09:58:00'
+    comment_date_gmt: '2015-02-04 09:58:00'
+    comment_content: >-
+      Hi,
+
+
+
+      We have the same problem, but anything we've found have solved our
+      problem: permissions, check C drive free space, clean up cache, iisreset,
+      ... The particularity about our problem is that it's located in continuous
+      range of changesets over the same file ...
+
+
+
+      Any idea would be very appreciated!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1834094617'
+  - comment_id: '10670'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 86.178.58.83
+    comment_date: '2015-02-04 13:10:00'
+    comment_date_gmt: '2015-02-04 13:10:00'
+    comment_content: >-
+      If the OpsHub migration tool corrupted your data then they need to fix it.
+      I would raise this on the MSDN forum for TFS and try to get the Product
+      Team involved with OpsHub...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '10668'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1834094617'
+    - meta_key: dsq_post_id
+      meta_value: '1834356272'
+  - comment_id: '10673'
+    comment_author: FIHG
+    comment_author_email: ivanhg@ingeniumgrp.es
+    comment_author_url: ''
+    comment_author_IP: 79.148.228.195
+    comment_date: '2015-02-04 13:29:00'
+    comment_date_gmt: '2015-02-04 13:29:00'
+    comment_content: >-
+      We've done it and that is what they told us ... before we apply the OpsHub
+      migration tool over our TFS everything was fine ... but during the
+      proccess it stopped and after that we're getting these errors when we try
+      to get these changesets ... It seems that they don't care about this as
+      long as the error is gotten directly when we get the changesets ... any
+      other suggestion? The error message is so creepy ... Once again, thank
+      you!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '10670'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1834356272'
+    - meta_key: dsq_post_id
+      meta_value: '1834426468'

@@ -1,0 +1,779 @@
+post:
+  title: Migrating source code with history to TFS 2012 with Git-Tf
+  link: >-
+    https://nkdagility.com/blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf/
+  pubDate: Tue, 19 Mar 2013 03:15:17 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9313
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>Its hard to migrate source code even from one Visual Studio 2012 Team
+    Foundation Server to another, especially when you also want to have your
+    history. We have been forced in the past to use some hokie migration tools
+    that only really partially work.</p> <ul> <li><span class="label
+    label-info">Update</span> Anthony Borton gave me a hard time for not being
+    able to get this working. However I had no problem with second set of code
+    below.</li></ul> <p>With Git-Tf we can Clone a Team Foundation Server
+    repository and with plane old Git we can do a Pull from one to the other and
+    then push up to our target repository.</p> <p><img title="image"
+    style="border-left-width: 0px; border-right-width: 0px; background-image:
+    none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="image" src="http://blog.hinshelwood.com/files/2013/03/image30.png"
+    width="800" height="480"/><br /><strong>Figure: Running Git from the Command
+    Line</strong></p> <p>The first thing we need to do in install Git-Tf and its
+    dependencies. This will add the Git Bash command line and the TFS
+    integration required to connect everything up. This is really me first time
+    using Git as I have just not had time to play with it, but it looks solid so
+    far.</p> <p><img title="image" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; margin: 0px; display: inline;
+    padding-right: 0px; border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image31.png" width="800"
+    height="402"/><br /><strong>Figure: Install with the cint Git-Tf command
+    line call</strong></p> <p>When you clone a Team Foundation Server repository
+    you can either get the tip or you can go deep. If you add the --deep&nbsp;
+    parameter on end you will effectively clone the history as well. For this
+    particular task I only need the tip and I am really only need to go one way.
+    You can however push source code back and fourth at will between the two
+    servers or any other environment. A browse of the internet will also show
+    you other source control systems that you can clone to Git. If you can clone
+    you can pull and if you can pull you can checkin…</p><pre class="brush: ps;
+    ruler: true;">git tf clone
+    https://mrhinsh.visualstudio.com/DefaultCollection
+    $/TfsExtensions/TfPlugable ~/wsgitmrhinshTfPlugable
+
+    git tf clone http://kraken:8080/tfs/tfs01 $/TfsExtensions/TfPlugable 
+    ~/wsgitkTfs01TfPlugable
+
+    git pull ~/wsgitmrhinshTfPlugable
+
+    git checkin
+
+    </pre>
+
+    <p><strong>Figure: Git commands to move from TFS to TFS</strong></p><pre
+    class="brush: ps; ruler: true;">git tf clone
+    https://nakedalm.visualstudio.com/DefaultCollection
+    $/TfsExtensions/TfPlugable c:\temp\TfPlugable
+
+    cd C:\Users\MrHinsh\Source\Repos\TfPlugable
+
+    git remote add tfplugable-tfvc-branch c:\temp\TfPlugable
+
+    git pull tfplugable-tfvc-branch master --deep
+
+    git checkin
+
+    </pre>
+
+    <p><strong>Figure: Git commands to move from TFVC to TFS Git</strong></p>
+
+    <p>The result of this is a move from my Team Foundation Service cloud
+    account to my local test Team Foundation Server virtual machine.</p>
+
+    <p>If you are trying to move your source code from anything to Team
+    Foundation Server this may be a good option. Its robust and will bring
+    history across. I have not tested this at load but it should support
+    reasonable sized repositories, large however will need some testing…</p>
+  - ''
+  post_id: '9313'
+  post_date: '2013-03-18 20:15:17'
+  post_date_gmt: '2013-03-19 03:15:17'
+  post_modified: '2013-10-06 22:16:42'
+  post_modified_gmt: '2013-10-06 22:16:42'
+  comment_status: open
+  ping_status: open
+  post_name: migrating-source-code-with-history-to-tfs-2012-with-git-tf
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '77'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: migrating source
+  - meta_key: _yoast_wpseo_title
+    meta_value: Migrating source code with history to TFS 2012 with Git-Tf
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Its hard to migrate source code even from one Visual Studio 2012 Team
+      Foundation Server to another, especially when you also want to have your
+      history
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: dsq_thread_id
+    meta_value: '1148206648'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3jGH3
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474919259;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10677;}i:1;a:1:{s:2:"id";i:11465;}i:2;a:1:{s:2:"id";i:9239;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-03-18-migrating-source-code-with-history-to-tfs-2012-with-git-tf.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '2456'
+  comment:
+  - comment_id: '1582'
+    comment_author: Daniel Sniderman
+    comment_author_email: fuzzbone2@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 130.36.62.217
+    comment_date: '2013-03-19 11:06:00'
+    comment_date_gmt: '2013-03-19 11:06:00'
+    comment_content: >-
+      BTW - if you need to work with the command line for GIT and prefer
+      Powershell to DOS let alone bash - check out Posh-Git
+      https://github.com/dahlbyk/posh-git
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '834878615'
+  - comment_id: '1583'
+    comment_author: העברת קוד מפרויקט אחד לאחר ב – TFS בעזרת git - Eran Ruso
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.microsoft.co.il/blogs/eranruso/archive/2013/03/20/Moving-Code-And-History-From-One-Project-To-Another-Using-git.aspx
+    comment_author_IP: 72.15.222.207
+    comment_date: '2013-03-20 04:13:53'
+    comment_date_gmt: '2013-03-20 11:13:53'
+    comment_content: '[...] הפוסט נכתב על ידי Martin Hinshelwood וניתן לקרוא את הפוסט כאן [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1363789084.538937;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1584'
+    comment_author: John Ludlow
+    comment_author_email: john.ludlow.uk@gmail.com
+    comment_author_url: http://profiles.google.com/john.ludlow.uk
+    comment_author_IP: 199.85.125.10
+    comment_date: '2013-03-21 08:03:00'
+    comment_date_gmt: '2013-03-21 15:03:00'
+    comment_content: >-
+      Is there a way to take the workitem connections as well?  I know there's a
+      few variants of Git-TF and some of them have workitem support...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '837292392'
+  - comment_id: '1585'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-03-21 15:18:00'
+    comment_date_gmt: '2013-03-21 22:18:00'
+    comment_content: >-
+      Not this way. If you want work items as well then you need to use the TFS
+      Integration Platform ;)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1584'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '837292392'
+    - meta_key: dsq_post_id
+      meta_value: '837688951'
+  - comment_id: '1586'
+    comment_author: John Ludlow
+    comment_author_email: john.ludlow.uk@gmail.com
+    comment_author_url: http://profiles.google.com/john.ludlow.uk
+    comment_author_IP: 199.85.125.10
+    comment_date: '2013-03-22 02:29:00'
+    comment_date_gmt: '2013-03-22 09:29:00'
+    comment_content: >-
+      No go. We tried that and it fell over with an out of memory exception.
+      It's a 32-bit app, and there's plenty of memory on the box, so I'm
+      thinking it's trying to store all data in memory, and hitting its memory
+      limit because of the size of our repository.
+
+
+      I was hoping that one of the Git-TF(S) implementations that support work
+      items would be able to sync them over.
+
+
+
+
+      Do you know what the issue is? Is it that it just stores the work item id
+      or something?
+
+
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1585'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '837688951'
+    - meta_key: dsq_post_id
+      meta_value: '838250143'
+  - comment_id: '1587'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 76.104.188.230
+    comment_date: '2013-03-22 06:49:00'
+    comment_date_gmt: '2013-03-22 13:49:00'
+    comment_content: >-
+      I think... but have not tested... that if you write something to rip
+      through all of your TFS code and add the Work Item ID to the comment in
+      the right format (which I could not find right now) then when you move it
+      across the comment goes with... now that is worth a test...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1586'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '838250143'
+    - meta_key: dsq_post_id
+      meta_value: '838457289'
+  - comment_id: '1588'
+    comment_author: John Ludlow
+    comment_author_email: john.ludlow.uk@gmail.com
+    comment_author_url: http://profiles.google.com/john.ludlow.uk
+    comment_author_IP: 199.85.125.10
+    comment_date: '2013-03-22 07:15:00'
+    comment_date_gmt: '2013-03-22 14:15:00'
+    comment_content: >-
+      Interesting... It's something I'll have to try on our test environments
+      (might not get it done today and I'm off next week so I'll bookmark this
+      for when I get back).
+
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1587'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '838457289'
+    - meta_key: dsq_post_id
+      meta_value: '838485993'
+  - comment_id: '1589'
+    comment_author: Using git tf to migrate code between TFS servers retaining history
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 81.134.201.178
+    comment_date: '2013-06-16 17:49:10'
+    comment_date_gmt: '2013-06-16 16:49:10'
+    comment_content: >-
+      [...] Martin Hinshelwood did a recent post on moving source code between
+      TFS servers using&#160; git tf. He mentioned that you could use the 
+      --deep option to get the whole changeset check-in history. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1371837985.823208;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1590'
+    comment_author: >-
+      Using git tf to migrate code between TFS servers retaining history -
+      Richard Fennell
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 65.99.255.177
+    comment_date: '2013-06-25 14:12:06'
+    comment_date_gmt: '2013-06-25 13:12:06'
+    comment_content: >-
+      [...] Martin Hinshelwood did a recent post on moving source code between
+      TFS servers using&#160; git tf. He mentioned that you could use the 
+      --deep option to get the whole changeset check-in history. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1372259312.119453;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1889'
+    comment_author: Philippe
+    comment_author_email: pmiossec@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 178.16.171.242
+    comment_date: '2013-09-12 14:23:00'
+    comment_date_gmt: '2013-09-12 14:23:00'
+    comment_content: >-
+      With git-tfs, we get the workitem ID when we fetch a changeset from TFS
+      and put it in a note
+
+      https://www.kernel.org/pub/software/scm/git/docs/git-notes.html
+
+      With some script, it should be possible to do it I think
+
+
+
+      And with git-tfs, we support branches so we could migrate a repository
+      that has branches (I even hope to finish merge support soon). Perhaps,
+      it's because TFS is such a bad tool that noone create branches and so no
+      tutorial about migrate repository from TFSVC to Git talk about branches
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1588'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '838485993'
+    - meta_key: dsq_post_id
+      meta_value: '1040357534'
+  - comment_id: '1890'
+    comment_author: John Ludlow
+    comment_author_email: john.ludlow.uk@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.85.125.10
+    comment_date: '2013-09-12 14:52:00'
+    comment_date_gmt: '2013-09-12 14:52:00'
+    comment_content: >-
+      I wouldn't say that no-one creates branches - we use branches extensively.
+
+
+
+      However, it does also depend on which version of TFS and Team Explorer
+      you're using (the latter usually determined by which version of Visual
+      Studio) as to whether it's a bad tool.
+
+
+
+      Merging using the Visual Studio 2008 or 2010 Team Explorer is a pain I'm
+      all too familiar with. Doing the same thing from Visual Studio 2012 and
+      later, with properly created branches, is actually quite nice (though
+      maybe not as fast as git).
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1889'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1040357534'
+    - meta_key: dsq_post_id
+      meta_value: '1040417139'
+  - comment_id: '1910'
+    comment_author: Philippe
+    comment_author_email: pmiossec@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 178.16.171.242
+    comment_date: '2013-09-26 09:45:00'
+    comment_date_gmt: '2013-09-26 09:45:00'
+    comment_content: >-
+      There is now (just merge in the trunk and should wait the next release) a
+      way to export workitems with git-tfs :
+      https://github.com/git-tfs/git-tfs/pull/445
+
+      You should be able to export and import back without problems!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1586'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '838250143'
+    - meta_key: dsq_post_id
+      meta_value: '1059591690'
+  - comment_id: '1911'
+    comment_author: Philippe
+    comment_author_email: pmiossec@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 178.16.171.242
+    comment_date: '2013-09-26 09:48:00'
+    comment_date_gmt: '2013-09-26 09:48:00'
+    comment_content: >-
+      &gt; BTW, thanks for creating git tf - it's an impressive tool
+
+      I'm not the creator of git-tfS, just the 2nd bigger contributor ;)
+
+
+
+      And the next release should be able to support branching and merging (a
+      lot easier than with TFS ;) )
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1890'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1040417139'
+    - meta_key: dsq_post_id
+      meta_value: '1059593075'
+  - comment_id: '3632'
+    comment_author: >-
+      Migrating source from Perforce to Git on VSO - naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/migrating-source-perforce-git-vso/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-08-20 15:06:28'
+    comment_date_gmt: '2014-08-20 14:06:28'
+    comment_content: >-
+      [&#8230;] Note: If you are moving from TFVC to Git then you can do the
+      same using a tool called Git-TF. You clone a TFVC repository and push to
+      Git. [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1408543588.179353;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1408545388.735231;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '12687'
+    comment_author: BANNER
+    comment_author_email: action_jackson_p@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 173.226.135.235
+    comment_date: '2015-07-16 15:37:00'
+    comment_date_gmt: '2015-07-16 14:37:00'
+    comment_content: >-
+      Hopefully this thread is still checked..when I use the tag --deep, it says
+      "error: unknown option 'deep'
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2139704101'
+  - comment_id: '12691'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-07-17 10:47:00'
+    comment_date_gmt: '2015-07-17 09:47:00'
+    comment_content: >-
+      What is the full command you are typing to get that error? An example
+      would be "git tf pull --deep"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12687'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2139704101'
+    - meta_key: dsq_post_id
+      meta_value: '2141706042'
+  - comment_id: '12692'
+    comment_author: BANNER
+    comment_author_email: action_jackson_p@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 70.140.64.208
+    comment_date: '2015-07-17 11:43:00'
+    comment_date_gmt: '2015-07-17 10:43:00'
+    comment_content: >-
+      was doing it like you have it above git pull tfplugable-tfvc-branch master
+      --deep
+
+
+      Currently in the process of trying it with the --deep at the end of step
+      one instead. Was told that might be the correct way to do it.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12691'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2141706042'
+    - meta_key: dsq_post_id
+      meta_value: '2141757946'
+  - comment_id: '13572'
+    comment_author: Patrick Beverloo
+    comment_author_email: p.beverloo@sharevalue.nl
+    comment_author_url: ''
+    comment_author_IP: 217.149.143.178
+    comment_date: '2015-10-26 16:24:00'
+    comment_date_gmt: '2015-10-26 16:24:00'
+    comment_content: >-
+      Please help me with the following error I am getting "Unable to find a
+      required JAR:
+      C:ProgramDatachocolateylibGit-TFToolsgit-tf-2.0.3.20131219/lib/com.microsoft.gittf.client.clc-*.jar
+      does not exist"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2327584414'
+  - comment_id: '13631'
+    comment_author: Bodya Bilas
+    comment_author_email: bilas.bohdan@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 193.84.22.102
+    comment_date: '2015-11-05 15:55:00'
+    comment_date_gmt: '2015-11-05 15:55:00'
+    comment_content: Hi, did you figure out with this problem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13572'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2327584414'
+    - meta_key: dsq_post_id
+      meta_value: '2344267610'
+  - comment_id: '13665'
+    comment_author: Antti Kuntsi
+    comment_author_email: kuntsi@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 194.69.103.64
+    comment_date: '2015-11-10 12:49:00'
+    comment_date_gmt: '2015-11-10 12:49:00'
+    comment_content: >-
+      If you use a newish msys git client, check if your "uname -a" on the git
+      bash reports MINGW32_NT or MINGW64_NT. If the latter, add a MINGW64_NT
+      case into the git-tf script in the Tools -directory to use mingw32 as
+      platform. You may also have to switch some forward and backward slashes
+      around in the git-tf.cmd script that actually gets executed.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13572'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2327584414'
+    - meta_key: dsq_post_id
+      meta_value: '2351658762'
+  - comment_id: '13666'
+    comment_author: Patrick Beverloo
+    comment_author_email: p.beverloo@sharevalue.nl
+    comment_author_url: ''
+    comment_author_IP: 217.149.143.178
+    comment_date: '2015-11-10 12:52:00'
+    comment_date_gmt: '2015-11-10 12:52:00'
+    comment_content: |-
+      I used git tfs 
+      https://github.com/git-tfs/git-tfs
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13631'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2344267610'
+    - meta_key: dsq_post_id
+      meta_value: '2351661497'
+  - comment_id: '14373'
+    comment_author: Dibley
+    comment_author_email: dibley1973@yahoo.co.uk
+    comment_author_url: http://www.duanewingett.info
+    comment_author_IP: 37.143.143.146
+    comment_date: '2017-11-22 12:14:00'
+    comment_date_gmt: '2017-11-22 12:14:00'
+    comment_content: >-
+      I am trying to use this tool to move the source from one project to a
+      different project on the same on-prem TFS server. I have managed to clone
+      the source to a git repo on my local drive, but cannot seem to clone back
+      to the new project location. I have used the code in "Git commands to move
+      from TFS to TFS" but the second command errors with "destination
+      'C:gitblah' already exists and is not empty". I want the location on the
+      TFS server to be the destination now. What syntax should I be using,
+      please?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3627916095'
+  - comment_id: '14374'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 148.252.129.16
+    comment_date: '2017-11-22 14:44:00'
+    comment_date_gmt: '2017-11-22 14:44:00'
+    comment_content: >-
+      You need to add a remote of the new location, and then push to that
+      location. Something along the lines of "Git remote add"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14373'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3627916095'
+    - meta_key: dsq_post_id
+      meta_value: '3628093579'
+  - comment_id: '14375'
+    comment_author: Dibley
+    comment_author_email: dibley1973@yahoo.co.uk
+    comment_author_url: http://www.duanewingett.info
+    comment_author_IP: 188.221.110.16
+    comment_date: '2017-11-25 08:43:00'
+    comment_date_gmt: '2017-11-25 08:43:00'
+    comment_content: Awesome. Thank you. :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14374'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3628093579'
+    - meta_key: dsq_post_id
+      meta_value: '3632055748'
+  - comment_id: '14489'
+    comment_author: Andrew Kuzovov
+    comment_author_email: jcd1987@mail.ru
+    comment_author_url: ''
+    comment_author_IP: 2.92.250.186
+    comment_date: '2018-01-25 13:18:00'
+    comment_date_gmt: '2018-01-25 13:18:00'
+    comment_content: |-
+      Hi! Is it possible to migrate without TFS server?
+      Just having TFS repository
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3725514033'
+  - comment_id: '14490'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 85.255.236.252
+    comment_date: '2018-01-25 14:29:00'
+    comment_date_gmt: '2018-01-25 14:29:00'
+    comment_content: >-
+      If you just have the code then you can just check it into Git. If you need
+      history then the TFVC repository needs to be hosted within a TFS server.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14489'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3725514033'
+    - meta_key: dsq_post_id
+      meta_value: '3725649190'
+  - comment_id: '14491'
+    comment_author: Andrew Kuzovov
+    comment_author_email: jcd1987@mail.ru
+    comment_author_url: ''
+    comment_author_IP: 2.92.250.186
+    comment_date: '2018-01-25 19:52:00'
+    comment_date_gmt: '2018-01-25 19:52:00'
+    comment_content: >-
+      Yes, I need history from TFS but I don't need to install a TFS server. I
+      thought maybe some tool for this exists.
+
+      Thank you anyway.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14490'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3725649190'
+    - meta_key: dsq_post_id
+      meta_value: '3726256601'
+  - comment_id: '14492'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 163.185.148.245
+    comment_date: '2018-01-25 20:24:00'
+    comment_date_gmt: '2018-01-25 20:24:00'
+    comment_content: >-
+      If you want history then you will have to install a TFS server. Its easy
+      and quick to do... 15-20 minutes on the right server. I usually spin up
+      one in Azure, get the data I need out and then shut it down.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14491'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3726256601'
+    - meta_key: dsq_post_id
+      meta_value: '3726313518'
+  - comment_id: '14493'
+    comment_author: Andrew Kuzovov
+    comment_author_email: jcd1987@mail.ru
+    comment_author_url: ''
+    comment_author_IP: 2.92.250.186
+    comment_date: '2018-01-25 21:19:00'
+    comment_date_gmt: '2018-01-25 21:19:00'
+    comment_content: |-
+      spin up one in Azure - nice idea
+      thank you Martin
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14492'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3726313518'
+    - meta_key: dsq_post_id
+      meta_value: '3726403516'

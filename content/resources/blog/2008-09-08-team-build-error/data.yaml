@@ -1,0 +1,61 @@
+post:
+  title: Team Build Error
+  link: https://nkdagility.com/blog/team-build-error/
+  pubDate: Mon, 08 Sep 2008 08:52:50 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/09/08/team-build-error.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_2.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_thumb.png\" width=\"244\" height=\"212\" /></a> </p>  <p>Now, we have the situation with our Business Intelligence\_ system where we have 2 solutions. One for Visual Studio 2005 projects that consist solely of the Business Intelligence Package bits, and a 2008 solution which consists of everything else that is needed to build our solution. We do plan to move everything over to 2008, but we are currently targeting SQL Server 2005. </p>  <p>The problem looks like it is to do with the 2008 solution an not the 2005 one:</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_4.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_thumb_1.png\" width=\"471\" height=\"77\" /></a>\_</p>  <p>But, the error message implies that it is the 2005 solution:</p>  <blockquote>   <p>c:WorkingXxxxxXXX Integration (Main)SourcesXXXDEVMainXXX2005.sln(0,0): warning MSB4126: The specified solution configuration \"Release|Any CPU\" is invalid. Please specify a valid solution configuration using the Configuration and Platform properties (e.g. MSBuild.exe Solution.sln /p:Configuration=Debug /p:Platform=\"Any CPU\") or leave those properties blank to use the default solution configuration.     <br />C:Program FilesMSBuildMicrosoftVisualStudiov9.0TeamDataMicrosoft.Data.Schema.SqlTasks.targets(58,5): error MSB4018: The \"SqlBuildTask\" task failed unexpectedly.      <br />System.NullReferenceException: Object reference not set to an instance of an object.      <br />\_\_ at Microsoft.VisualStudio.TeamSystem.Data.Tasks.TaskHostLoader.Load(ITaskHost providedHost)      <br />\_\_ at Microsoft.VisualStudio.TeamSystem.Data.Tasks.DbBuildTask.Execute()      <br />\_\_ at Microsoft.Build.BuildEngine.TaskEngine.ExecuteInstantiatedTask(EngineProxy engineProxy, ItemBucket bucket, TaskExecutionMode howToExecuteTask, ITask task, Boolean&amp; taskResult)</p> </blockquote>  <p>After reading up, I am none the wiser, but I did find information that implied that installing SP1 for <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> should fix the problem and not require that I update the TFS server. We are using GDR bits, so I will be installing GDR 16 and the SQL Server 2008 Business\_ Intelligence bits.</p>  <p><font color=\"#ff0000\"><strong>UPDATE: So after jut updating the GDR, I got the solution to build! Not sure why there was an error in the 2005 solution!</strong></font></p>  <p>Sources:</p>  <p><a title=\"http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/\" href=\"http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/\">http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/</a></p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFBS\" rel=\"tag\">TFBS</a>\_<a href=\"http://technorati.com/tags/VS+2005\" rel=\"tag\">VS 2005</a>\_</div>"
+  - ''
+  post_id: '197'
+  post_date: '2008-09-08 08:52:50'
+  post_date_gmt: '2008-09-08 08:52:50'
+  post_modified: '2008-09-08 08:52:50'
+  post_modified_gmt: '2008-09-08 08:52:50'
+  comment_status: open
+  ping_status: open
+  post_name: team-build-error
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '318339269'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a70Fo0
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473414995;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:109;}i:1;a:1:{s:2:"id";i:10730;}i:2;a:1:{s:2:"id";i:69;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-09-08-team-build-error.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '654'

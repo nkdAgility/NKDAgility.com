@@ -1,0 +1,327 @@
+post:
+  title: Deciphering the Enigma of Story Points Across Teams
+  link: >-
+    https://nkdagility.com/blog/deciphering-the-enigma-of-story-points-across-teams/
+  pubDate: Thu, 21 Sep 2023 08:00:00 +0000
+  creator: MrHinsh
+  guid:
+    _: https://nakedalmstage.wpengine.com/?p=49888
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <!-- wp:paragraph -->
+
+    <p>Over the past decade, a recurring query has been echoing in my ears: "How
+    can we normalise Story Points across teams so that we can look across and
+    maybe compare teams?" It's high time we address this.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-tldr">TLDR;</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Story Points, while subjective, can be a valuable tool for team
+    discussions and understanding. However, they shouldn't be the primary metric
+    for comparing teams or predicting future deliverables. Instead, focus on
+    objective metrics like throughput, to gauge and optimise team
+    performance.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading"
+    id="h-these-are-not-the-metrics-that-you-are-looking-for">These are not the
+    metrics that you are looking for!</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>First and foremost, Story Points are inherently subjective. They're
+    influenced by individual perceptions, making them unsuitable for broad
+    comparisons or future projections. While they might offer a vague direction,
+    they're often misused in planning and measuring.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>The essence of agile frameworks like Scrum is value delivery, and the
+    correlation between the subjective nature of story points and their velocity
+    doesn't necessarily equate to the value delivered. There are better choices
+    for teams aiming to optimise their value delivery than relying solely on
+    Story Points and Velocity.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>But is there any value in Story Points?</strong></p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Aye, there is. In my experience, Story Points can be a great tool during
+    backlog item refinement. They foster discussions, highlighting what's known
+    and, more importantly, what's not: Outliers during planning poker often
+    signal gaps in understanding.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Tools like Story Points and Planning Poker can be invaluable in
+    understanding when to dissect items further and spark discussions during
+    refinement. I would expect teams to shift more towards right-sizing,
+    ensuring that backlog items are feasible within a Sprint, as they gain more
+    experience and understanding of the product, its domain, and the technology
+    used.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-a-story-of-flow-and-value">A Story of
+    Flow and Value</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>The crux of this discourse lies in two vectors: throughput and
+    value.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:list -->
+
+    <ul><!-- wp:list-item -->
+
+    <li><strong>Throughput </strong>is a tangible measure of items delivered
+    over time.</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li><strong>Value</strong>, on the other hand, is a more elusive measure of
+    the anticipated benefits from system changes.</li>
+
+    <!-- /wp:list-item --></ul>
+
+    <!-- /wp:list -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>It's straightforward to gauge the throughput of backlog items and their
+    flow. By noting when work enters and exits the system, we can derive the
+    four pivotal flow metrics:</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:list -->
+
+    <ul><!-- wp:list-item -->
+
+    <li>Throughput</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li>Cycle Time</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li>Work Item Age</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li>Work In Process</li>
+
+    <!-- /wp:list-item --></ul>
+
+    <!-- /wp:list -->
+
+
+    <!-- wp:image {"id":49889,"sizeSlug":"large","linkDestination":"none"} -->
+
+    <figure class="wp-block-image size-large"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/08/image-1280x720.png"
+    alt="" class="wp-image-49889"/></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Such metrics empower us to make informed decisions rooted in tangible
+    data. They allow us to pinpoint potential issues, identify items needing
+    further breakdown, and employ probabilistic forecasting for future
+    projections.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Simultaneously, to truly maximise team output, we must also focus on the
+    value of the work. Given its subjective nature, defining value can be
+    multifaceted. A practical approach is to examine the four primary value
+    areas from evidence-based management practices:</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:list -->
+
+    <ul><!-- wp:list-item -->
+
+    <li><strong>Current Value</strong> - Evaluating the existing product's
+    value. Is it meeting customer expectations?</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li><strong>Unrealised Value </strong>- Identifying gaps in your product
+    that could be filled.</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li><strong>Time to Market</strong> - Assessing the speed from ideation to
+    user engagement. Dormant value is essentially no value.</li>
+
+    <!-- /wp:list-item -->
+
+
+    <!-- wp:list-item -->
+
+    <li><strong>Ability to Innovate </strong>- Determining the balance between
+    maintenance and innovation.</li>
+
+    <!-- /wp:list-item --></ul>
+
+    <!-- /wp:list -->
+
+
+    <!-- wp:image {"id":49890,"sizeSlug":"large","linkDestination":"none"} -->
+
+    <figure class="wp-block-image size-large"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/08/image-1-1280x717.png"
+    alt="" class="wp-image-49890"/></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>The ultimate goal is to enhance both throughput and value concurrently.
+    Striking a balance is crucial; we neither want sluggish excellence nor a
+    barrage of mediocrity.</p>
+
+    <!-- /wp:paragraph -->
+  - ''
+  post_id: '49888'
+  post_date: '2023-09-21 08:00:00'
+  post_date_gmt: '2023-09-21 08:00:00'
+  post_modified: '2023-11-22 12:11:29'
+  post_modified_gmt: '2023-11-22 12:11:29'
+  comment_status: closed
+  ping_status: open
+  post_name: deciphering-the-enigma-of-story-points-across-teams
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.6.4
+  - meta_key: _last_editor_used_jetpack
+    meta_value: block-editor
+  - meta_key: _thumbnail_id
+    meta_value: '49891'
+  - meta_key: _wpbitly
+    meta_value: https://nkdagility.net/3YDLOzG
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '631'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: '612'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_wordproof_timestamp
+    meta_value: ''
+  - meta_key: ekit_post_views_count
+    meta_value: '1508'
+  - meta_key: footnotes
+    meta_value: ''
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1700655064'
+  - meta_key: _wp_page_template
+    meta_value: default
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44705}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44705-49888/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44704}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44704-49888/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44706}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44706-49888/}!}
+  - meta_key: _toolset_associations_course-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=courses&#038;p=46220}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-46220-49888/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=courses&#038;p=38325}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-38325-49888/}!}

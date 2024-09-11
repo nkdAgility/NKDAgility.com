@@ -1,0 +1,149 @@
+post:
+  title: TFS Sticky Buddy v1.0
+  link: https://nkdagility.com/blog/tfs-sticky-buddy-v1-0/
+  pubDate: Mon, 21 Apr 2008 10:15:55 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/04/21/tfs-sticky-buddy-v1.0.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    This is the first <a
+    href="http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx"
+    target="_blank">full release</a> of the <a
+    href="http://www.codeplex.com/TFSStickyBuddy" target="_blank">TFS Sticky
+    Buddy application</a> written in VB.NET 9 and WPF with Visual Studio 2008
+    Team Suit.
+
+
+    <a
+    href="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv1.0_8FC3-image_2.png"><img
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv1.0_8FC3-image_thumb.png"
+    border="0" alt="image" width="600" height="349" /></a>
+
+
+    The application provides a graphical view of TFS Work Items and allow user
+    to navigate round either the Area (Codeplex Component) or Iteration
+    (Codeplex Release) tree. It displays all the work items loaded (by selecting
+    a Team Query) on the node, colour coded by Work Item State.
+
+
+    You can edit and add templates for displaying Work Items loaded for
+    different Life Cycle templates in Team Foundation Server by editing the XAML
+    in the Life Cycle resource directory (#InstallLocation#RDdotNetTFS Sticky
+    BuddyResourcesLifeCycle[Name][Name]Resources.xaml) and editing the resource
+    file. Though I would suggest creating a new file for each Life Cycle you
+    want to display. Out of the box I have supported a Default option that works
+    for most TFS Process Templates, and a Codeplex option for supporting your
+    Codeplex projects.
+
+
+    <strong>Usage</strong>
+
+
+    When the TFS Sticky Buddy application starts you will be prompted to select
+    a team foundation server from the list (if you do not see any servers then
+    you must set them up using Team Explorer) which will populate the Projects
+    and other menus. The navigation diagram will by default render the first
+    project in your selected TFS server.
+
+
+    Use the "Queries" menu to select which work items that you want loaded into
+    your view.
+
+
+    <strong>System Requirements</strong>
+
+
+    .NET Framework 3.5
+
+    Visual Studio 2008 Team Explorer (not forced)
+
+    Access to a Team Foundation Server (not provided)
+
+
+    &nbsp;
+
+
+    If you already have CTP1 or CTP2 you should <a
+    href="http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx"
+    target="_blank">update</a> to the <a
+    href="http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx"
+    target="_blank">full release now</a>...
+
+
+    &nbsp;
+
+    <div class="wlWriterEditableSmartContent" style="margin: 0px; float: none;
+    padding: 0px;">Technorati Tags: <a rel="tag"
+    href="http://technorati.com/tags/Personal">Personal</a> <a rel="tag"
+    href="http://technorati.com/tags/ALM">ALM</a> <a rel="tag"
+    href="http://technorati.com/tags/WPF">WPF</a> <a rel="tag"
+    href="http://technorati.com/tags/WIT">WIT</a> <a rel="tag"
+    href="http://technorati.com/tags/VS+2008">VS 2008</a> <a rel="tag"
+    href="http://technorati.com/tags/TFS">TFS</a></div>
+  - ''
+  post_id: '236'
+  post_date: '2008-04-21 10:15:55'
+  post_date_gmt: '2008-04-21 10:15:55'
+  post_modified: '2008-04-21 10:15:55'
+  post_modified_gmt: '2008-04-21 10:15:55'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-sticky-buddy-v1-0
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311603336'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3AIVD
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:2:{s:32:"ba279c881a01aaa3064ec3f58a023753";a:2:{s:7:"expires";i:1472850695;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:238;}i:1;a:1:{s:2:"id";i:247;}i:2;a:1:{s:2:"id";i:200;}}}s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1472850706;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:238;}i:1;a:1:{s:2:"id";i:247;}i:2;a:1:{s:2:"id";i:200;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-04-21-tfs-sticky-buddy-v1-0.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '495'
+  comment:
+    comment_id: '368'
+    comment_author: Michael Ruminer
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-05-13 21:47:03'
+    comment_date_gmt: '2008-05-13 21:47:03'
+    comment_content: Martin, <br /><br />Definitely looking forward to trying this out. Sweet.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971081'

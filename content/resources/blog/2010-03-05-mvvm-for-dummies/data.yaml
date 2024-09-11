@@ -1,0 +1,267 @@
+post:
+  title: MVVM for Dummies
+  link: https://nkdagility.com/blog/mvvm-for-dummies/
+  pubDate: Fri, 05 Mar 2010 16:54:54 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/03/05/mvvm-for-dummies.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I think that I have found one of the best articles on MVVM that I have ever read:</p>\n<p><a href=\"http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx\">http://jmorrill.hjtcentral.com/Home/tabid/428/EntryId/432/MVVM-for-Tarded-Folks-Like-Me-or-MVVM-and-What-it-Means-to-Me.aspx</a></p>\n<p>This article sums up what is in MVVM and what is outside of MVVM. Note, when I and most other people say MVVM, they really mean MVVM, Commanding, Dependency Injection + any other Patterns you need to create your application.</p>\n<p>In WPF a lot of use is made of the Decorator and Behaviour pattern as well. The goal of all of this is to have pure separation of concerns. This is what every code behind file of every Control / Window / Page\_ should look like if you are engineering your WPF and Silverlight correctly:</p>\n<h3>C# – Ideal</h3>\n<pre>\n  public partial class IdealView : UserControl\n  {\n      public IdealView()\n      {\n          InitializeComponent();\n      }\n  }</pre>\n<p><strong>Figure: This is the ideal code behind for a Control / Window / Page when using MVVM.</strong></p>\n<h3>C# – Compromise, but works</h3>\n<pre>\n  public partial class IdealView : UserControl\n  {\n      public IdealView()\n      {\n          InitializeComponent();\n\n          this.DataContext = new IdealViewModel();\n      }\n  }</pre>\n<p><strong>Figure: This is a compromise, but the best you can do without Dependency Injection</strong></p>\n<h3>VB.NET – Ideal</h3>\n<pre>\nPartial Public Class ServerExplorerConnectView\n\nEnd Class</pre>\n<p><strong>Figure: This is the ideal code behind for a Control / Window / Page when using MVVM.</strong></p>\n<h3>VB.NET – Compromise, but works</h3>\n<pre>\nPartial Public Class ServerExplorerConnectView\n\n    Private Sub ServerExplorerConnectView_Loaded(ByVal sender As Object, ByVal e As System.Windows.RoutedEventArgs) Handles Me.Loaded\n        Me.DataContext = New ServerExplorerConnectViewModel\n    End Sub\n\nEnd Class</pre>\n<p><strong>Figure: This is a compromise, but the best you can do without Dependency Injection</strong></p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_<a href=\"http://technorati.com/tags/Silverlight\" rel=\"tag\">Silverlight</a>\_<a href=\"http://technorati.com/tags/MVVM\" rel=\"tag\">MVVM</a>\_</div>"
+  - ''
+  post_id: '65'
+  post_date: '2010-03-05 16:54:54'
+  post_date_gmt: '2010-03-05 16:54:54'
+  post_modified: '2010-03-05 16:54:54'
+  post_modified_gmt: '2010-03-05 16:54:54'
+  comment_status: open
+  ping_status: open
+  post_name: mvvm-for-dummies
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311245693'
+  - meta_key: _views
+    meta_value: '1'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3Hzyv
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474772454;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:92;}i:1;a:1:{s:2:"id";i:125;}i:2;a:1:{s:2:"id";i:21;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2010-03-05-mvvm-for-dummies.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '2006'
+  comment:
+  - comment_id: '663'
+    comment_author: Michael Brown
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-03-10 12:32:21'
+    comment_date_gmt: '2010-03-10 12:32:21'
+    comment_content: >-
+      I would argue that you're wrong on three levels.<br /><br />First it's
+      possible to create and assign your ViewModel in Xaml leaving a fully clean
+      code behind.<br /><br />Second, even though it is possible to do this.
+      That is not the goal of MVVM. The goal of MVVM is to separate the view
+      logic that needs to be separated so that it can be testable, maintainable,
+      and flexible. In many cases this does lead to a clean code-behind, but
+      it's not a requirement.<br /><br />Third, when we say MVVM we mean MVVM
+      nothing more nothing less. People interchange MVVM Frameworks (which is
+      what you describe) with the term MVVM. But the ViewModel pattern consists
+      of the ViewModel and nothing else. There are supplementary patterns (such
+      as eventbroker, delegatecommand and others) that work well with MVVM but
+      MVVM does not include those patterns.<br /><br />--Mike
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969760'
+  - comment_id: '664'
+    comment_author: Compare Web Hosts
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-06 10:20:34'
+    comment_date_gmt: '2010-06-06 10:20:34'
+    comment_content: >-
+      hey, just finished reading, interesting stuff! do you offer some kind of
+      email subscription so i can get more of your content
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969761'
+  - comment_id: '665'
+    comment_author: Rufus
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-03 16:30:42'
+    comment_date_gmt: '2010-07-03 16:30:42'
+    comment_content: This is great content, even a peanut could learn from this, keep it up
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969762'
+  - comment_id: '666'
+    comment_author: Noosa Accommodation
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-05 17:14:42'
+    comment_date_gmt: '2010-07-05 17:14:42'
+    comment_content: I'm adding you to my bookmarks, thanks for the tute.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969766'
+  - comment_id: '667'
+    comment_author: Website Ratings
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-14 17:31:29'
+    comment_date_gmt: '2010-07-14 17:31:29'
+    comment_content: >-
+      Made a few good points there, so well done, have you locked on in my RSS,
+      looking forward to more
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969771'
+  - comment_id: '668'
+    comment_author: meeting blog
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-15 22:06:30'
+    comment_date_gmt: '2010-07-15 22:06:30'
+    comment_content: >-
+      MVVM can be challenging, and this dummies guide has done me and doubtless
+      many others a service.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969774'
+  - comment_id: '669'
+    comment_author: Les
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-27 23:25:27'
+    comment_date_gmt: '2010-07-27 23:25:27'
+    comment_content: >-
+      Hi Martin. I don't think MVVM is for me. A pattern to manage a pattern?
+      Some say MVVM simplifies code, but I think it adds more complexity.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969779'
+  - comment_id: '670'
+    comment_author: Free2Watch All Movies Online
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-09-18 05:49:39'
+    comment_date_gmt: '2010-09-18 05:49:39'
+    comment_content: >-
+      i have added you as bookmark. thanks for this article. can i susbscribe to
+      your articles for now on?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969784'
+  - comment_id: '671'
+    comment_author: Cheryl
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-11-12 02:50:43'
+    comment_date_gmt: '2010-11-12 02:50:43'
+    comment_content: >-
+      Awesome article! I now get MVVM! Jer - will you marry me? Our shop intends
+      to use MVVM with aspx pages - no SL or WPF. Are we crazy?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969792'
+  - comment_id: '672'
+    comment_author: JS
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-01-24 21:54:11'
+    comment_date_gmt: '2011-01-24 21:54:11'
+    comment_content: >-
+      Can someone tell me why a clean "code behind" is so important?<br /><br
+      />I'm having a little trouble understanding why hundreds of lines of
+      cryptic, unsteppable xml is something i should strive for in my programs.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969797'

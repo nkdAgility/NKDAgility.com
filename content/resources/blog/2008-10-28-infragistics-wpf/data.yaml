@@ -1,0 +1,102 @@
+post:
+  title: Infragistics WPF
+  link: https://nkdagility.com/blog/infragistics-wpf/
+  pubDate: Tue, 28 Oct 2008 13:40:40 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/10/28/infragistics-wpf.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><img src=\"http://community.infragistics.com/App_Themes/Global/images/logo.gif\" />\_</p>  <p>I am currently getting to grips with the Infragistics WPF controls that they call <a href=\"http://www.infragistics.com/dotnet/netadvantage/wpf.aspx\" target=\"_blank\">NetAdvantage for WPF</a>. So far I have found them easy to use, but the documentation of examples is very lax. Do not mistake me, these components are fantastic and do way more work for me than I would care to do myself, but if you Google a particular piece of their API invariable you will get pure documentation and no samples. If you are lucky someone has asked a specific question about it and you can skim their answers, but the likely hood of finding an answer to your question is negligible in my experience.</p>  <p>I still love the components, it just makes it a little more difficult to develop with them…</p>  <p>An example would maybe get us all on the same page:</p>  <p>I am using their Ribbon components in one of my applications and wanted to dynamically generate (using a binding) the menu options.</p>  <div class=\"csharpcode-wrapper\">   <div class=\"csharpcode\">     <pre><span class=\"lnum\">   1:</span> <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:XamRibbon.ApplicationMenu</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   2:</span>\_ </pre>\n\n    <pre><span class=\"lnum\">   3:</span>             <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:ApplicationMenu</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><p><span class=\"lnum\">   4:</span>                 <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:MenuTool</span> <span class=\"attr\">x:Name</span><span class=\"kwrd\">=\"uxTeamServerMenuTool\"</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Team Server\"</span> <span class=\"attr\">ItemsSource</span><span class=\"kwrd\">=\"{Binding AvailableServers}\"</span> </p><p>                                          <span class=\"attr\">ItemTemplate</span><span class=\"kwrd\">=\"{DynamicResource tAvailableServers}\"</span> <span class=\"attr\">ButtonType</span><span class=\"kwrd\">=\"DropDown\"</span> </p><p>                                          <span class=\"attr\">LargeImage</span><span class=\"kwrd\">=\"ResourcesImagesTeamServerSelectIcon.png\"</span><span class=\"kwrd\">&gt;</span></p></pre>\n\n    <pre><span class=\"lnum\">   5:</span>                 <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:MenuTool</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><p><span class=\"lnum\">   6:</span>                 <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:MenuTool</span> <span class=\"attr\">x:Name</span><span class=\"kwrd\">=\"uxTeamProjectMenuTool\"</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Team Project\"</span> <span class=\"attr\">ItemsSource</span><span class=\"kwrd\">=\"{Binding AvailableProjects}\"</span>  </p><p>                                           <span class=\"attr\">ButtonType</span><span class=\"kwrd\">=\"DropDown\"</span> <span class=\"attr\">SmallImage</span><span class=\"kwrd\">=\"ResourcesImagesTeamProjectSelectIcon.png\"</span><span class=\"kwrd\">&gt;</span></p></pre>\n\n    <pre><span class=\"lnum\">   7:</span>                 <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:MenuTool</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   8:</span>                 <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:MenuTool</span> <span class=\"attr\">x:Name</span><span class=\"kwrd\">=\"uxHeatConnectionMenuTool\"</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Heat Server\"</span> <span class=\"attr\">ButtonType</span><span class=\"kwrd\">=\"DropDown\"</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   9:</span>                 <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:MenuTool</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  10:</span>                 <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:MenuTool</span> <span class=\"attr\">x:Name</span><span class=\"kwrd\">=\"uxHeatApplicationMenuTool\"</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Heat App\"</span> <span class=\"attr\">ButtonType</span><span class=\"kwrd\">=\"DropDown\"</span> <span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  11:</span>                 <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:MenuTool</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  12:</span>                 <span class=\"rem\">&lt;!-- Place a button in the footer of the ApplicationMenu that allows the user to quit the application. --&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  13:</span>                 <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:ApplicationMenu.FooterToolbar</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  14:</span>                     <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:ApplicationMenuFooterToolbar</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  15:</span>                         <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:ButtonTool</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Settings\"</span> <span class=\"attr\">Command</span><span class=\"kwrd\">=\"local:Commands.ClearSettingsCommand\"</span> <span class=\"kwrd\">/&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  16:</span>                         <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:ButtonTool</span> <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"Exit\"</span> <span class=\"kwrd\">/&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  17:</span>                     <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:ApplicationMenuFooterToolbar</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  18:</span>                 <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:ApplicationMenu.FooterToolbar</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  19:</span>             <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:ApplicationMenu</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">  20:</span>         <span class=\"kwrd\">&lt;/</span><span class=\"html\">igRibbon:XamRibbon.ApplicationMenu</span><span class=\"kwrd\">&gt;</span></pre>\n  </div>\n</div>\n\n<p>As you can see in line 4 there is a binding that does indeed populate the list. But I am having trouble getting the template to take. I want the Items listed as a set of radio buttons (kinda) and so I added a Template:</p>\n\n<div class=\"csharpcode-wrapper\">\n  <div class=\"csharpcode\">\n    <pre><span class=\"lnum\">   1:</span> <span class=\"kwrd\">&lt;</span><span class=\"html\">DataTemplate</span> <span class=\"attr\">x:Key</span><span class=\"kwrd\">=\"tAvailableServers\"</span> <span class=\"attr\">DataType</span><span class=\"kwrd\">=\"{x:Type tfs:TeamFoundationServer}\"</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   2:</span>            <span class=\"kwrd\">&lt;</span><span class=\"html\">igRibbon:RadioButtonTool</span></pre>\n\n    <pre><span class=\"lnum\">   3:</span>                            <span class=\"attr\">Caption</span><span class=\"kwrd\">=\"{Binding Name}\"</span></pre>\n\n    <pre><span class=\"lnum\">   4:</span>                            <span class=\"attr\">Tag</span><span class=\"kwrd\">=\"{Binding}\"</span></pre>\n\n    <pre><span class=\"lnum\">   5:</span>                            <span class=\"attr\">LargeImage</span><span class=\"kwrd\">=\"ResourcesImagesTeamServerSelectIcon.png\"</span></pre>\n\n    <pre><span class=\"lnum\">   6:</span>                            <span class=\"attr\">igRibbon:MenuToolBase</span>.<span class=\"attr\">MenuItemDescription</span><span class=\"kwrd\">=\"{Binding Url.ToString}\"</span><span class=\"kwrd\">/&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   7:</span>        <span class=\"kwrd\">&lt;/</span><span class=\"html\">DataTemplate</span><span class=\"kwrd\">&gt;</span></pre>\n  </div>\n</div>\n\n<p>This should have displayed what I wanted, but it seams to be ignored.</p>\n\n<p>To allow this to work, all I needed to do was remove the x:Key from the template. But why can't I specify a template by name. What if I wanted to have two templates and choose which one was displayed…</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '179'
+  post_date: '2008-10-28 13:40:40'
+  post_date_gmt: '2008-10-28 13:40:40'
+  post_modified: '2008-10-28 13:40:40'
+  post_modified_gmt: '2008-10-28 13:40:40'
+  comment_status: open
+  ping_status: open
+  post_name: infragistics-wpf
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602708'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1baaP55
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1468576457;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:123;}i:1;a:1:{s:2:"id";i:436;}i:2;a:1:{s:2:"id";i:88;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-10-28-infragistics-wpf.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '392'
+  comment:
+  - comment_id: '421'
+    comment_author: tony lombardo
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-10-30 23:19:31'
+    comment_date_gmt: '2008-10-30 23:19:31'
+    comment_content: >-
+      Hi Martin - I'd have to check with the developers, but my guess is that he
+      Key is not allowed since you can instantiate the same template multiple
+      times.  If each instance ended up with the same key, you would have
+      ambiguity.  I'd prefer to see an exception raised which warned you, though
+      I'm not sure if that's in the Infragistics code stack, or the Microsoft
+      WPF stack.  Eitehr way, I'll pass the feedback on to both the dev team and
+      our docs team.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970660'
+  - comment_id: '422'
+    comment_author: tony lombardo
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-11-03 22:33:04'
+    comment_date_gmt: '2008-11-03 22:33:04'
+    comment_content: >-
+      Martin - good news, looks like this was a bug and is fixed in the latest
+      release (2008.2 available for download today), and will be in the hotfix
+      made available later this month.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970662'

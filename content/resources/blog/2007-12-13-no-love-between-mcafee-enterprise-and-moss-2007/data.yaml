@@ -1,0 +1,117 @@
+post:
+  title: No love between McAfee Enterprise and MOSS 2007
+  link: https://nkdagility.com/blog/no-love-between-mcafee-enterprise-and-moss-2007/
+  pubDate: Thu, 13 Dec 2007 11:22:23 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/12/13/no-love-between-mcafee-enterprise-and-moss-2007.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Well I think I have found the root of the problem with my Microsoft office SharePoint Server 2007 dev box! It was McAfee\_ plain and simple.</p> <blockquote> <p><em>Event Type:\_\_\_ Error<br />Event Source:\_\_\_ Windows SharePoint Services 3 Search<br />Event Category:\_\_\_ Gatherer <br />Event ID:\_\_\_ 2424<br />Date:\_\_\_\_\_\_\_ 13/12/2007<br />Time:\_\_\_\_\_\_\_ 09:36:06<br />User:\_\_\_\_\_\_\_ N/A<br />Computer:\_\_\_ GLA1VS09<br />Description:<br />The update cannot be started because the content sources cannot be accessed. Fix the errors and try the update again. </em> </p><p><em>Context: Application 'Search', Catalog 'index file on the search server Search' </em> </p><p><em>For more information, see Help and Support Center at </em><a href=\"http://go.microsoft.com/fwlink/events.asp\"><em>http://go.microsoft.com/fwlink/events.asp</em></a><em>.</em></p></blockquote> <p>I get the above error about the Search Catalog repeatedly during the installation of SP1, and wrapped around it I get a bunch of IRC port block information items from McAfee. This is more than coincidence and I have requested that our infrastructure team remove McAfee from all SharePoint servers so we don't have this kind of problem in the future.</p> <p> Now, McAfee say that they support SharePoint Services 3.0, but MOSS has a bunch of extra features (Enterprise Search being one) that are not around in WSS. It seams that there are specific versions of Anti-Virus products for SharePoint Portal Servers and for good reason...</p> <p>Hopefully I can get this sorted soon.</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_<a href=\"http://technorati.com/tags/MOSS\" rel=\"tag\">MOSS</a>\_<a href=\"http://technorati.com/tags/SharePoint\" rel=\"tag\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '274'
+  post_date: '2007-12-13 11:22:23'
+  post_date_gmt: '2007-12-13 11:22:23'
+  post_modified: '2007-12-13 11:22:23'
+  post_modified_gmt: '2007-12-13 11:22:23'
+  comment_status: open
+  ping_status: open
+  post_name: no-love-between-mcafee-enterprise-and-moss-2007
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311272813'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19AfFvc
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-12-13-no-love-between-mcafee-enterprise-and-moss-2007.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '289'
+  comment:
+  - comment_id: '271'
+    comment_author: Stacey
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-05 04:13:43'
+    comment_date_gmt: '2008-01-05 04:13:43'
+    comment_content: >-
+      Thanks so much for this post!  I was just going to the McAfee site to see
+      if we could use Enterprise with our MOSS installation.  Now I know to be
+      extra cautious.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971400'
+  - comment_id: '272'
+    comment_author: Amy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-02-06 07:14:16'
+    comment_date_gmt: '2008-02-06 07:14:16'
+    comment_content: >-
+      Thanks for the post.  I had McAfee loaded on my dev box and couldn't
+      figure out what went wrong when I installed SP1 for MOSS.  I didn't get
+      any errors during the install, but the event log was full of SQL
+      connectivity errors after the upgrade.  <br />I am removing McAfee now to
+      make sure all of the errors go away.  Unfortunately if this is the fix, we
+      won't be installing SP1 in production anytime soon!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971401'
+  - comment_id: '273'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-02-07 04:37:52'
+    comment_date_gmt: '2008-02-07 04:37:52'
+    comment_content: >-
+      This is not a Service Pack 1 issue! It is a general unsuported anti virus
+      issue...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971402'

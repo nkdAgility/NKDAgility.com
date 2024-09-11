@@ -1,0 +1,71 @@
+post:
+  title: You can't use WITADMIN on versions older than TFS 2010
+  link: https://nkdagility.com/blog/cant-use-witadmin-versions-older-tfs-2010/
+  pubDate: Wed, 13 Aug 2014 13:02:50 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10667
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I encountered a bit of a red herring today when I was trying to rename a Work Item Type Definition (WITD) and received the message that you can't use WITADMIN on versions older than TFS 2010. However the server was TFS 2010.</p>\r\n<p>I am onsite in London this week doing a migration from TFS 2010 and Perforce to Visual Studio Online (VSO) and hit a confusing error message. My Surface only has Visual Studio 2013 installed so I am calling the 2013 version of WITADMIN against the TFS 2010 server. Since TFS 2010 is fully supported this should work with no issues. However instead of working I got a strange message:</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image001.png\" alt=\"clip_image001\" width=\"800\" height=\"321\" border=\"0\" /></p>\r\n<blockquote>\r\n<p>witadmin.exe : You cannot change the display name of a work item type. The feature is not supported on versions earlier than Team Foundation Server 2010.</p>\r\n</blockquote>\r\n<p>What do you mean visions older than TFS 2010! This is TFS 2010 dam it… so I bit the bullet and spun up my TFS 2012 box that has Visual Studio 2012 and the 2012 version of WITADMIN.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image0022.png\" alt=\"clip_image002\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>And lo and behold I got the very same message. This made me think that there was something wrong with the TFS server. The server was a native 2010 (no upgrades) so there should be no issues. I logged onto the server to take a look and what did I find? TFS2012 RTM.</p>\r\n<p>So.. First things first I need to update the server. I will be using the TFS Integration Tools to move to VSO, OpsHub do not support changing Team Project name, but its so much easier when you have the same process template and I really need to update it. I was thinking of updating strate to 2013 but that would require an upgrade of SQL Server. I thought of upgrading to TFS 2012 but that would require a Service Pack for SQL Server. The least dangerous option in the end was to apply TFS 2010 Service Pack 1…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image0032.png\" alt=\"clip_image003\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>And after the upgrade?</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image004.png\" alt=\"clip_image004\" width=\"800\" height=\"153\" border=\"0\" /></p>\r\n<p>Now I can run WITADMIN commands again.</p>\r\n<p>You should always make sure that you have the latest version of whatever software that you want to use to make sure that you get compatibility with the tools. Even if you can't upgrade a full version you should never have less than TFS 2010 SP1, TFS 2012.4, or TFS 2013.2.</p>"
+  - ''
+  post_id: '10667'
+  post_date: '2014-08-13 14:02:50'
+  post_date_gmt: '2014-08-13 13:02:50'
+  post_modified: '2014-07-22 20:57:25'
+  post_modified_gmt: '2014-07-22 19:57:25'
+  comment_status: open
+  ping_status: open
+  post_name: cant-use-witadmin-versions-older-tfs-2010
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1uctLPM
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: witadmin
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '78'
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '2923582434'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10828'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473803107;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5277;}i:1;a:1:{s:2:"id";i:10558;}i:2;a:1:{s:2:"id";i:9456;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-08-13-cant-use-witadmin-versions-older-tfs-2010.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '972'

@@ -1,0 +1,386 @@
+post:
+  title: Microsoft Surface 3 unable to boot from USB
+  link: https://nkdagility.com/blog/microsoft-surface-3-unable-boot-usb/
+  pubDate: Mon, 24 Nov 2014 10:21:15 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10907
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Recently I had a crash of Windows 10 and while usually you can boot into recovery mode, Windows was uncooperative. This was when I found my Microsoft Surface 3 unable to boot from USB!</p>\r\n<p>I ordered a new Surface 3 Pro 512 to be delivered in the USA that I would pick up when I was at the MVP Summit a few weeks ago. I had ordered it more than 2 months ago for it to be delivered to my good friends at Northwest Cadence. While the other parts of my order were delivered, Docking Station and cables, the Surface 3 was marked as \"Pending\" in the web. Then all of my orders disappeared entirely.</p>\r\n<p>Now, I have orders on both the US and UK site so I just assume that things are a little squirrely and give them a call. The was 2 weeks before I was due to be in the USA for only 8 days so the window was a little tight. Long and short the support desk ended up reissuing the Surface 3 and I got delivery conformation a few days later. Awesome…</p>\r\n<p>I headed out to the Summit and Amanda (from Northwest Cadence) dropped my orders off at me hotel. On arrival I had a wonderful unboxing event and found that the first order had indeed been fulfilled. I had 2 Surface Pro 3's, one will have to go back, but that will have to wait.</p>\r\n<p>So I stuck one in my suitcase to deal with later and opened one for me. First thing I did was install Windows 10, and everything went well for a while until I got a dreaded blue screen.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0011.jpg\" alt=\"clip_image001\" width=\"804\" height=\"454\" border=\"0\" /></p>\r\n<blockquote>\r\n<p>Recovery</p>\r\n<p>Your PC/Device needs to be repaired</p>\r\n<p>The digital signature for this file could not be verified.</p>\r\n<p>File: \\windows\\system32\\winload.efi</p>\r\n<p>Error Code: 0xc0000428</p>\r\n</blockquote>\r\n<p>I was at a session with the product team, and after a few minutes poking at buttons and powering on and off I managed to get the device to boot into Recovery mode and ran a refresh. Simples…</p>\r\n<p>Unfortunately it happened again, the same error, only a few days later and worse, this was on the Saturday a few hours before my flight back to the UK at the end of the Summit. Tis time I could not get it to boot into recovery. Not at all, so I instead a USB to do a full refresh and found that my Microsoft Surface 3 was unable to boot from the USB stick.</p>\r\n<p>Strange… So I fired up my Surface 2 Pro (hey, it was a travel day, I had everything) and tried it there. Sure enough the Surface 2 was able to boot from the same USB.</p>\r\n<p>Not good, but I was in Starbucks at Bellevue Mall and headed into the Microsoft Store and bought a new USB stick to see if it was my stick that was the issue. I used my Surface 2 to create a bootable USB and tested it there. Still no dice. But again, after about 40 minutes of jiggery-pokery (really no other work for it) I ended up in Restore mode and was able to reset Windows.. Phew…</p>\r\n<p>Now, if I was sensible, at this point I really should have done a full wipe and reinstall. This file had messed up twice and the like hood was high that it would happen again. However I was running for a flight to Scotland with a 6 hour layover before flying out onsite to a customer in Norway. Yes, that’s a five country trip: Seattle -&gt; Rekiovik -&gt; Glasgow -&gt; Amsterdam -&gt; Oslo. So I am blaming travel, stress, and jetlag on my lack of judgement.</p>\r\n<p>I was onsite with a customer in Oslo for only 2 days when my Surface 3 flashed the same error. After 2 hours of jiggery-pokery I got absolutely nowhere! Luckily the customer provided me with a Dell brick of a laptop which had the saving grace that it booted. I spent some time each night onsite trying to get the bloody thing to boot and searched the interwebs for results. Microsoft have good documentation for how to boot your Surface from a USB.</p>\r\n<blockquote>\r\n<h5><span style=\"font-weight: bold;\">Start from a bootable USB device when Surface is off</span></h5>\r\n<p><strong>Step 1: </strong>Attach a bootable USB device to the USB port.</p>\r\n<p><strong>Step 2: </strong>Press and hold the volume-down button.</p>\r\n<p><strong>Step 3: </strong>Press and release the power button.</p>\r\n<p><strong>Step 4: </strong>When the Surface logo appears, release the volume-down button.<br />Surface will start the software on your USB device. <br />-<a href=\"http://www.microsoft.com/surface/en-gb/support/storage-files-and-folders/boot-surface-pro-from-usb-recovery-device\" target=\"_blank\">Boot Surface from a USB device</a></p>\r\n</blockquote>\r\n<p>When I got home I broke out the second Surface that Microsoft shipped me by accident and took that to my customer. I tend to fly home late on Friday night and then out again on Sunday. This usually gives me Saturday and Sunday morning with the kids, but the Oslo flights are a little suckie. The later in the day I fly the more expensive the flights get. 06:00 flight is half the price of the 15:00, not chump change, and the later flights get filled up first. So this weekend I flew out at 06:00… One day home and back out to the customer. Dam I am glad that MSFT shipped me that extra tablet (Microsoft is still trying to figure out how to ship it back to the USA).</p>\r\n<p>So, this time I did not install Windows 10. I spent all week this week on Windows 8.1 and missing lots of features from 10:</p>\r\n<ul>\r\n<li><strong>Modern in a Window</strong> - On a small tablet this sucks (re Dell Venue 8) but on a desktop replacement that I mostly use with keyboard and mouse.<br /><br /><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0026.png\" alt=\"clip_image002\" width=\"804\" height=\"537\" border=\"0\" /><br /><br /></li>\r\n<li><strong>Mini modern start menu</strong> - This is touch and go. I really like the full screen start menu, but the largest screen I use is my Surface 3. I have seen folks using it on a 32\" screen and it is more like a punch in the face.\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0035.png\" alt=\"clip_image003\" width=\"804\" height=\"537\" border=\"0\" /></p>\r\n</li>\r\n</ul>\r\n<p>At the beginning of the week I reached out to some contacts in MSFT to see if we could not figure out the USB issue. I found that [Clement] also had the same issue and while was able to use Recovery Mode was unable to get his surface to boot from USB either. So that’s 3 for 3.</p>\r\n<p>I even tried getting Windows 8.1, on my surface, to create Recovery USB and booting from that. Still no dice.</p>\r\n<h2>Solution: Microsoft Surface 3 unable to boot from USB</h2>\r\n<p>After some time I managed to get in touch with someone at MSFT who knew about this part of the system and indeed had an identical one to me. He had no issues booting so we set about diagnosing the issue. I pointed at the documentation and he asked a few questions:</p>\r\n<blockquote>\r\n<p>Do any of the Pro3 systems you are currently using still boot into Windows? <br />If so, what have version of Windows have you got installed at this point?</p>\r\n<p>Do the volume up/down buttons work in the OS?</p>\r\n<p>How did you create the USB key? Is it labelled “BOOTME”?</p>\r\n</blockquote>\r\n<p>Wait! What!... \"BOOTME\"???</p>\r\n<p>I am not sure where this came from but when I renamed my USB to \"BOOTME\" sure enough, without issue, the Surface 3 booted from it. OMG! That’s two weeks wasted on an undocumented feature that prevents even a Windows created Recovery Image to be unusable. By default there are three ways to create a bootable USB:</p>\r\n<ol>\r\n<li><strong>Manually </strong>- Format, Create partition, mark as active, then copy files</li>\r\n<li><strong>Windows 7 USB</strong> - From Microsoft in Windows 7 timeframe came an executable that you give an ISO and it creates a bootable USB</li>\r\n<li><strong>Windows Recovery</strong> - In Windows you can, and should, create a recovery image that you can use to boot your computer and reset it. This boot USB will be named “Recovery” by Windows.</li>\r\n</ol>\r\n<p>In not a single one of these methods does the USB get named \"BOOTME\". Ahh, well… never mind… Now we all know.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0044.png\" alt=\"clip_image004\" width=\"804\" height=\"536\" border=\"0\" /></p>\r\n<p>So if you are wanting to boot your Surface Pro 3 from a USB you need to make sure that the device you want to boot from is labelled \"BOOTME\".</p>"
+  - >-
+    <p class="lead">Recently I had a crash of Windows 10 and while usually you
+    can boot into recovery mode, Windows was uncooperative. This was when I
+    found my Microsoft Surface 3 unable to boot from USB! </p>
+  post_id: '10907'
+  post_date: '2014-11-24 10:21:15'
+  post_date_gmt: '2014-11-24 10:21:15'
+  post_modified: '2014-11-23 18:32:59'
+  post_modified_gmt: '2014-11-23 18:32:59'
+  comment_status: open
+  ping_status: open
+  post_name: microsoft-surface-3-unable-boot-usb
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: unable to boot from usb
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '74'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1ree8Rw
+  - meta_key: dsq_thread_id
+    meta_value: '3255559396'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _pl_karma
+    meta_value: '1'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474907928;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10472;}i:1;a:1:{s:2:"id";i:11120;}i:2;a:1:{s:2:"id";i:10645;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-11-24-microsoft-surface-3-unable-boot-usb.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '3215'
+  comment:
+  - comment_id: '8744'
+    comment_author: Brian
+    comment_author_email: bdeanjinx@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 98.156.98.238
+    comment_date: '2014-12-11 00:14:00'
+    comment_date_gmt: '2014-12-11 00:14:00'
+    comment_content: >-
+      I am having this very issue! I tried re-naming my recovery USB "BOOTME"
+      but the Pro3 still won't boot from it. Any suggestions?? I desperately
+      need this fixed ASAP.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1736019556'
+  - comment_id: '9913'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2015-01-09 23:10:00'
+    comment_date_gmt: '2015-01-09 23:10:00'
+    comment_content: >-
+      Brian, I feel for you. I have two Surface Pro 3's and before I found out
+      about the "BOOTME" I bricked one of them and could not boot. Even with the
+      solution above :( ... I phones MSFT support and they replaced it with no
+      quibble... Head over to http://www.microsoft.com/surface/support and click
+      "Get my Surface fixed"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '8744'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1736019556'
+    - meta_key: dsq_post_id
+      meta_value: '1783408471'
+  - comment_id: '11846'
+    comment_author: Paul
+    comment_author_email: paujjone@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 107.194.160.117
+    comment_date: '2015-04-22 20:23:00'
+    comment_date_gmt: '2015-04-22 19:23:00'
+    comment_content: >-
+      Hey! Thanks so much for sending me in the right direction! Something else
+      I found out is that Surface Pro expects a UEFI boot device, which means it
+      should be formatted with FAT32 and not NTFS, so you can't create the USB
+      bootable device using the Microsoft Store ISO-to-USB program. Instead Like
+      what you said you have to manually make one. That's the real reason you
+      can't just rename it BOOTME. Thanks again for all of your help and have a
+      great day!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1981875017'
+  - comment_id: '11915'
+    comment_author: Kenn Lowy
+    comment_author_email: waynelowy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 50.75.220.6
+    comment_date: '2015-05-01 00:27:00'
+    comment_date_gmt: '2015-04-30 23:27:00'
+    comment_content: wow! Thanks so much for this. I can't believe it worked.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1996889977'
+  - comment_id: '12103'
+    comment_author: Kris
+    comment_author_email: kriswd40@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 108.77.63.4
+    comment_date: '2015-05-26 04:10:00'
+    comment_date_gmt: '2015-05-26 03:10:00'
+    comment_content: Livesaver on the "Bootme" step. My Surface3 has been a brick for a week.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2045347126'
+  - comment_id: '12479'
+    comment_author: Tishawn Fahie
+    comment_author_email: ariesguy22@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 100.38.68.147
+    comment_date: '2015-06-23 18:07:00'
+    comment_date_gmt: '2015-06-23 17:07:00'
+    comment_content: >-
+      Wow - i've been trying to install Windows 10 via usb for weeks now. No
+      where in the official Microsoft Documentation does it say rename usb to
+      BOOTME.. Thank you so much sir!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2094983736'
+  - comment_id: '12674'
+    comment_author: Ryan Betts
+    comment_author_email: rbetts1992@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.13.246.122
+    comment_date: '2015-07-14 12:01:00'
+    comment_date_gmt: '2015-07-14 11:01:00'
+    comment_content: >-
+      I could not get the BOOTME fix to work either, I only wanted to rebuild my
+      Surface 3 so maybe not as bad as others with bricked devices. You can run
+      the Windows 8.1 setup from the existing install and choose to keep
+      "nothing".
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2135590931'
+  - comment_id: '13812'
+    comment_author: Nate F
+    comment_author_email: nfarrer@rightnetworks.com
+    comment_author_url: ''
+    comment_author_IP: 71.181.10.220
+    comment_date: '2016-01-27 18:49:00'
+    comment_date_gmt: '2016-01-27 18:49:00'
+    comment_content: >-
+      ive done this quite a few times at my job and i have never had to name the
+      drive BOOTME...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2481288406'
+  - comment_id: '13843'
+    comment_author: Usman Yousaf
+    comment_author_email: kiakiaa@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 86.96.83.200
+    comment_date: '2016-02-18 01:52:00'
+    comment_date_gmt: '2016-02-18 01:52:00'
+    comment_content: >-
+      When my surface pro 3 give me the error 
+
+      I did everything download the image from the Microsoft website put it in a
+      USB Drive USB drivers formatted with fat  the usb on the Microsoft Surface
+      tablet but it never worked so what I did instead of using a USB Drive i
+      used  external hard drive of 1tb formatted the hard drive with fat32 I use
+      the software Seagate then I copy the image to the external hard drive
+      which I have downloaded it from the Microsoft website connect external
+      hard drive to my Surface tablet press and hold the power and the volume
+      down button and there you go it start recovery
+
+
+      To use external hard drive instead of using a USB Drive and make sure that
+      the external hard drive has been formatted in fat32 there are many free
+      software is available online which can format the hard drive in fat32 do
+      let me know if you have any issues
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2520492714'
+  - comment_id: '13958'
+    comment_author: AndréPKI
+    comment_author_email: a.d.hoekstra@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 212.159.196.72
+    comment_date: '2016-04-18 12:36:00'
+    comment_date_gmt: '2016-04-18 11:36:00'
+    comment_content: >-
+      Bare nonsens. Naming the USB device "BOOTME" makes no sense at all. Just
+      make sure your device is OFF before starting the boot sequence. Restarting
+      is not enough.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2629586433'
+  - comment_id: '13959'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.69.71.70
+    comment_date: '2016-04-18 12:47:00'
+    comment_date_gmt: '2016-04-18 11:47:00'
+    comment_content: >-
+      Actually, at the time this was written the firmware for the Surface 3
+      required the USB device name to be "BOOTME" to boot an OS. This was
+      confirmed with the Surface product team. It may however have been changed
+      (for the reason that you describe) in later firmware updates...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13958'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2629586433'
+    - meta_key: dsq_post_id
+      meta_value: '2629596995'
+  - comment_id: '13960'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.69.71.70
+    comment_date: '2016-04-18 12:49:00'
+    comment_date_gmt: '2016-04-18 11:49:00'
+    comment_content: >-
+      I would suggest that the Surface product team decided to change this in
+      the last 10 months as this requirement did not make sense.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13812'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2481288406'
+    - meta_key: dsq_post_id
+      meta_value: '2629598372'
+  - comment_id: '14253'
+    comment_author: Ron Jackson
+    comment_author_email: fultron.jackson@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 37.37.32.247
+    comment_date: '2017-06-07 16:25:00'
+    comment_date_gmt: '2017-06-07 15:25:00'
+    comment_content: >-
+      Nate F, can you advise any other fix if Surface Book still won't boot from
+      USB?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13812'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2481288406'
+    - meta_key: dsq_post_id
+      meta_value: '3346564500'
+  - comment_id: '14357'
+    comment_author: Fred Bel
+    comment_author_email: fredy1369@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.115.116.215
+    comment_date: '2017-10-10 23:12:00'
+    comment_date_gmt: '2017-10-10 22:12:00'
+    comment_content: >-
+      Hi guys, I found this link "
+      http://www.insanelymac.com/forum/topic/309354-urgent-surface-pro-unable-to-boot-from-usb/
+      " which helped me to boot from USB.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3561307359'
+  - comment_id: '14364'
+    comment_author: Emeke Nkadi
+    comment_author_email: enkadi13@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 131.107.159.20
+    comment_date: '2017-11-01 23:08:00'
+    comment_date_gmt: '2017-11-01 23:08:00'
+    comment_content: Thank you! This helped a lot.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3595846721'

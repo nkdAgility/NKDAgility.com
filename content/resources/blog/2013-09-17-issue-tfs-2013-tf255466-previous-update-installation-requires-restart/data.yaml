@@ -1,0 +1,313 @@
+post:
+  title: >-
+    Issue [ TFS 2013 ] TF255466 A previous update or installation requires a
+    restart
+  link: >-
+    https://nkdagility.com/blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart/
+  pubDate: Tue, 17 Sep 2013 10:30:36 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10006
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">After you have installed SQL Server 2012 Service Pack 1 you may encounter the error “TF255466 A previous update or installation requires a restart” when trying to install TFS 2013.</p>\r\n<p>Even if you install all Windows Updates and reboot you continue to get this message.</p>\r\n<p><span class=\"label label-important\">MANDATORY SP1 Hotfix</span> <em>SP1 installations are currently experiencing an issue in certain configurations as described in Knowledge Base article <a href=\"http://support.microsoft.com/kb/2793634\" target=\"_blank\">KB2793634</a>. The article provides a fix for this issue that is currently available for download, and is MANDATORY for application immediately following a Service Pack 1 installation. The fix is also being made available on Microsoft Update.</em></p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/08/image13.png\" width=\"720\" height=\"450\" border=\"0\" /><br /><small>Figure: TF255466 A previous update or installation requires a restart</small></p>\r\n<p>Even if you reboot untill you are pounding on the keyboard....</p>\r\n<h2>Applies to</h2>\r\n<ul>\r\n<li>Visual Studio 2013 Team Foundation Server Preview</li>\r\n<li>Visual Studio 2013 Team Foundation Server RC</li>\r\n</ul>\r\n<h2>Findings</h2>\r\n<p>No matter what you do this error continues to occur whenever you try an install TFS 2013. If you have a look at the log you should see that a “PendingFileRenameOperations” flag has been set and does not want to clear.</p>\r\n<pre>[Info   @18:53:14.576] +-+-+-+-+-| Verifying that the system restart is not required |+-+-+-+-+-\r\n[Info   @18:53:14.576] Starting Node: VPENDINGREBOOT\r\n[Info   @18:53:14.576] NodePath : VINPUTS/Conditional/Progress/VPENDINGREBOOT\r\n[Info   @18:53:14.577] IsPendingSxsRebootRequired() returned False\r\n[Info   @18:53:14.577] The value 'PendingFileRenameOperations' under 'HKEY_LOCALMACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager' registry key is not empty\r\n[Info   @18:53:14.577] IsSessionManagerRebootRequired(True, True) returned True\r\n[Error  @18:53:14.577] Found a pending file operation - configuration blocked until reboot\r\n[Info   @18:53:14.577] Node returned: Error\r\n[Error  @18:53:14.577] TF255466: The configuration process for Team Foundation Server cannot continue.  A previous update or installation requires a restart of the operating system.  Restart the computer, and then open the administration console for Team Foundation to restart the configuration wizard.\r\n[Info   @18:53:14.577] Completed NoPendingReboots: Error\r\n[Info   @18:53:14.577] -----------------------------------------------------</pre>\r\n<p>This is normally cleared when you do a reboot as whatever actions can be taken then. This can continue to happen with a newly installed copy of Windows Server 2012 due to the volume of updates that are available. Effectively every time you reboot it can start installing updates immediately. If this is the case then you can wait until all of the Updates are finished or you can stop the Windows Update service temporarily to get things done.</p>\r\n<h2>Solution: Non Security Update for SQL Server 2012 SP1</h2>\r\n<p>However there was a bug with SQL Server 2012 where the <a href=\"http://support.microsoft.com/kb/2793634\">Windows Installer starts repeatedly after you install SQL Server 2012 SP1</a>. Basically there is a mismatch of the version of a file that is installed and the SQL Server installer keep trying to fix it. Thus resulting in a permanent loop of pending reboots…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/08/image14.png\" width=\"800\" height=\"500\" border=\"0\" /><br /><small>Figure: Windows Installer starts repeatedly after you install SQL Server 2012 SP1</small></p>\r\n<p>If think this is the issue you can head on over here and download the <a href=\"http://www.microsoft.com/en-us/download/details.aspx?id=36215\">Non Security Update for SQL Server 2012 SP1 (KB2793634)</a> to fix it.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/08/image15.png\" width=\"800\" height=\"500\" border=\"0\" /><br /><small>Figure: All readiness checks complete</small></p>\r\n<p>For me this fixed my issue…</p>"
+  - >-
+    <p class="lead">After you have installed SQL Server 2012 Service Pack 1 you
+    may encounter the error “TF255466 A previous update or installation requires
+    a restart” when trying to install TFS 2013. </p>
+  post_id: '10006'
+  post_date: '2013-09-17 10:30:36'
+  post_date_gmt: '2013-09-17 10:30:36'
+  post_modified: '2013-09-19 21:59:30'
+  post_modified_gmt: '2013-09-19 21:59:30'
+  comment_status: open
+  ping_status: open
+  post_name: issue-tfs-2013-tf255466-previous-update-installation-requires-restart
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '81'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF255466
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      TFS 2013 Issue: TF255466 A previous update or installation requires a
+      restart
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      After you have installed SQL Server 2012 Service Pack 1 you may encounter
+      the error " TF255466 A previous update or installation requires a restart”
+      when trying to install TFS 2013.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '1769440628'
+  - meta_key: pl-settings
+    meta_value: a:2:{s:4:"live";a:0:{}s:5:"draft";a:0:{}}
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.net/1aBHNQO
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBHNQO
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474805628;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10667;}i:1;a:1:{s:2:"id";i:9907;}i:2;a:1:{s:2:"id";i:11286;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-09-17-issue-tfs-2013-tf255466-previous-update-installation-requires-restart.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1144'
+  comment:
+  - comment_id: '1895'
+    comment_author: Dew Drop &ndash; September 17, 2013 (#1,625) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2013/09/17/dew-drop-september-17-2013-1625/
+    comment_author_IP: 72.47.228.29
+    comment_date: '2013-09-17 12:16:31'
+    comment_date_gmt: '2013-09-17 12:16:31'
+    comment_content: >-
+      [&#8230;] Issue [ TFS 2013 ] TF255466 A previous update or installation
+      requires a restart (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1379432423.383829;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1898'
+    comment_author: Dew Drop &ndash; September 18, 2013 (#1,626) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2013/09/18/dew-drop-september-18-2013-1626/
+    comment_author_IP: 72.47.228.28
+    comment_date: '2013-09-18 11:43:10'
+    comment_date_gmt: '2013-09-18 11:43:10'
+    comment_content: >-
+      [&#8230;] Issue [ TFS 2013 ] TF255466 A previous update or installation
+      requires a restart (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1379531157.976391;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2016'
+    comment_author: Andy Webster
+    comment_author_email: andy.j.webster@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 207.93.212.56
+    comment_date: '2013-11-13 23:10:00'
+    comment_date_gmt: '2013-11-13 23:10:00'
+    comment_content: >-
+      This solution fixed my issue as well.  I would like to point out that for
+      me the installation of the update couldn't get past the validation stage. 
+      However, this wasn't a problem because the specific issue was fixed
+      anyway.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1122060802'
+  - comment_id: '2022'
+    comment_author: Ricky Jenkins
+    comment_author_email: vincentjenkins73@msn.com
+    comment_author_url: ''
+    comment_author_IP: 23.30.31.174
+    comment_date: '2013-11-21 16:20:00'
+    comment_date_gmt: '2013-11-21 16:20:00'
+    comment_content: >-
+      HI, I am getting this error after updating my 2012 build server to update
+      4, same results as the issue with SQL any ideas on a solution for this?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1132924458'
+  - comment_id: '2023'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 131.107.165.72
+    comment_date: '2013-11-21 16:49:00'
+    comment_date_gmt: '2013-11-21 16:49:00'
+    comment_content: >-
+      Do you have SQL Server installed on your build server? If so then you need
+      the same patch...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2022'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1132924458'
+    - meta_key: dsq_post_id
+      meta_value: '1132983111'
+  - comment_id: '2024'
+    comment_author: Ricky Jenkins
+    comment_author_email: vincentjenkins73@msn.com
+    comment_author_url: ''
+    comment_author_IP: 23.30.31.174
+    comment_date: '2013-11-21 17:02:00'
+    comment_date_gmt: '2013-11-21 17:02:00'
+    comment_content: >-
+      it is not, but I just checked with the SAs and it looks like they have not
+      pushed the updates to SQL SP1 yet so I may have the same fix pending that
+      worked here. Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2023'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1132983111'
+    - meta_key: dsq_post_id
+      meta_value: '1133005711'
+  - comment_id: '2082'
+    comment_author: Santosh Suryavanshi
+    comment_author_email: suryavanshi.santosh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 61.12.97.40
+    comment_date: '2014-01-22 10:07:00'
+    comment_date_gmt: '2014-01-22 10:07:00'
+    comment_content: >-
+      In my case pending.xml was the culprit, which is located under
+      c:WindowsWinSxS. 
+
+
+      http://www.vmwareandme.com/2014/01/guide-tf255466-configuration-process.html#.Ut-YNBC3SM8
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1211751753'
+  - comment_id: '2095'
+    comment_author: Ralph Jansen
+    comment_author_email: ralph.jansen@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 94.209.234.131
+    comment_date: '2014-02-01 13:42:00'
+    comment_date_gmt: '2014-02-01 13:42:00'
+    comment_content: >-
+      For me this KB didn't fix the issue for me... Deleting this registry key
+      fixed the issue: HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControlSession
+
+      ManagerPendingFileRenameOperations
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1226619200'
+  - comment_id: '2108'
+    comment_author: Naveen Reddy
+    comment_author_email: naveen3367@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 14.99.190.65
+    comment_date: '2014-02-22 19:17:00'
+    comment_date_gmt: '2014-02-22 19:17:00'
+    comment_content: |-
+      Thanks.. This has fixed my issue
+
+      http://www.vmexplore.com
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1256440154'
+  - comment_id: '2123'
+    comment_author: Ricky Jenkins
+    comment_author_email: vincentjenkins73@msn.com
+    comment_author_url: ''
+    comment_author_IP: 23.30.31.174
+    comment_date: '2014-02-28 17:15:00'
+    comment_date_gmt: '2014-02-28 17:15:00'
+    comment_content: >-
+      Turns out this did not fix my issue I used the following article to
+      temporarily work around it.
+      http://social.msdn.microsoft.com/Forums/en-US/bf5c6000-9b5f-4e0c-b5c7-174dc1a330d1/tf255466-the-configuration-process-for-team-foundation-server-cannot-continue?forum=tfssetup
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2023'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1132983111'
+    - meta_key: dsq_post_id
+      meta_value: '1264610062'
+  - comment_id: '2124'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 80.252.68.212
+    comment_date: '2014-03-01 13:17:00'
+    comment_date_gmt: '2014-03-01 13:17:00'
+    comment_content: >-
+      Yes, those are the more common occurrence :). The SQL issue above was
+      really painful as it was poorly documented :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2123'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1264610062'
+    - meta_key: dsq_post_id
+      meta_value: '1265665435'

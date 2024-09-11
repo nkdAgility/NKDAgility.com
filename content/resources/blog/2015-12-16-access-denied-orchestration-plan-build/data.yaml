@@ -1,0 +1,351 @@
+post:
+  title: Access denied for orchestration plan on Build
+  link: https://nkdagility.com/blog/access-denied-orchestration-plan-build/
+  pubDate: Wed, 16 Dec 2015 14:18:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11411
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>I was trying to setup a Build Agent within one of my current customers.
+    They do over 1 million builds a year through Team City and I need to
+    demonstrate that the new TFS build system is awesome before they will
+    consider it. So it never instils confidence when you get an
+    error…</p><pre>10:01:25.328098
+    ---------------------------------------------------------------------------
+
+    10:01:25.341094 System.AggregateException: One or more errors occurred.
+    ---&gt;
+    Microsoft.TeamFoundation.DistributedTask.WebApi.TaskOrchestrationPlanSecurityException:
+    Access denied: Project Collection Build Service does not have write
+    permissions for orchestration plan 13b88515-ebeb-4c2e-9213-cdcc683b8ff4.
+
+    10:01:25.341094
+    Microsoft.TeamFoundation.DistributedTask.WebApi.TaskOrchestrationPlanSecurityException:
+    Access denied: Project Collection Build Service does not have write
+    permissions for orchestration plan
+    13b88515-ebeb-4c2e-9213-cdcc683b8ff4.</pre>
+
+    <p>I had one of their guys setup a TFS agent on one of their many enormously
+    powerful build servers and tried a simple build. The build immediately
+    errored out and greeted me with a "there was an error" message with no logs
+    at all. I knew that something fundamental was up because of the lack of
+    logs, and had to go to the server to get the cryptic message, Project
+    Collection Build Service does not have write permissions for orchestration
+    plan, that really did not help me much.</p>
+
+    <p><img title="clip_image001" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="clip_image001"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/clip_image001.png"
+    width="1024" height="649"/></p>
+
+    <p>Boy was the lack of logs annoying. Especially since the only way to get
+    any information was to log onto a server that I did not own to go get more
+    info.</p>
+
+    <p>After much pain and suffering I got with Chris Paterson and isolated the
+    issue to one of permissions. The new build system has two custom user
+    accounts that are used to execute builds:</p>
+
+    <ul>
+
+    <li>Project Build Service 
+
+    </li><li>Project Collection Build Service </li></ul>
+
+    <p>Effectively you can choose to have the build configured to run at the
+    Project level if you only need access to the data in a single project, and
+    the collection level if you need to pull bits from multiple projects. As
+    soon as he mentioned this I thought about one of the options that I changed
+    during the configuration of the build definition.</p>
+
+    <p><img title="image" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; border-left: 0px; margin: 0px; display: inline; padding-right: 0px"
+    border="0" alt="image"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/image.png"
+    width="1024" height="560"/></p>
+
+    <p>These isolation levels make sense, however there is a bug in the TFS 2015
+    RTM upgrade that may result in the "Project Collection" level resulting in
+    the "Task Orchestration Plan Security Exception" you see above.</p>
+
+    <p>At this point you can immediately unblock yourself by selecting "Current
+    Project" from the list.</p>
+
+    <p>However if you need access to more than one Team Project, or might in the
+    future, you need to dig a little deeper. If you have a look at the
+    permissions on your build definition you should see the issue.</p>
+
+    <p><img title="clip_image003" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="clip_image003"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/clip_image003.png"
+    width="1024" height="561"/></p>
+
+    <p>If you open the permissions for your build you should see both the
+    "Project Build Service" and the "Project Collection Build Service"
+    permissions with "Inherit Allow". You you don’t have both then you have an
+    issue!</p>
+
+    <p>You can just add them to the Build Definition but you really want it to
+    be inherited so that you don’t have to go add it for every Build Definition.
+    To do that you have to go through Visual Studio to pop the correct UI.</p>
+
+    <p><img title="image" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; border-left: 0px; margin: 0px; display: inline; padding-right: 0px"
+    border="0" alt="image"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/image-1.png"
+    width="1024" height="635"/></p>
+
+    <p>It seams that the only way to pop the security panel for the root node of
+    the Build Definitions, so that we can fix the cause, is in Visual Studio. So
+    launch VS2015, head to the Builds page of Team Explorer, and click the
+    "Actions" drop-down under "Build Definitions". Then select "Security"… this
+    will pop the Web UI and get you strait to the right place.</p>
+
+    <p>Note: Not to be confused by the legacy XAML Build Definitions.</p>
+
+    <p><img title="clip_image005" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="clip_image005"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/clip_image005.png"
+    width="1024" height="556"/></p>
+
+    <p>Once there you can see that I only have the "Project Build Service" in
+    the "Users" list and I also need to have the "Project Collection Build
+    Service". So even though this is not a Windows user or group you need to
+    click "Add" and then "Add Windows User or Group"… Then search for and add
+    the "Project Collection Build Service".</p>
+
+    <p><img title="clip_image006" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="clip_image006"
+    src="https://nkdagility.com/wp-content/uploads/2015/12/clip_image006.png"
+    width="1024" height="595"/></p>
+
+    <p>Now, even though my build still fails, it fails for better reasons than
+    just exploding. So if you run into the dreaded "Access denied: Project
+    Collection Build Service does not have write permissions for orchestration
+    plan" you will now know where to look and what might be the issue…</p>
+  - >-
+    <p>If you get a "Access denied: Project Collection Build Service does not
+    have write permissions for orchestration plan" message then you may have run
+    into a TFS 2015 RTM bug.  </p>
+  post_id: '11411'
+  post_date: '2015-12-16 14:18:00'
+  post_date_gmt: '2015-12-16 14:18:00'
+  post_modified: '2015-12-16 14:43:24'
+  post_modified_gmt: '2015-12-16 14:43:24'
+  comment_status: open
+  ping_status: open
+  post_name: access-denied-orchestration-plan-build
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: dsq_thread_id
+    meta_value: '4403539758'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1JbMcXA
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw_text_input
+    meta_value: orchestration plan
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: orchestration plan
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '72'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474916722;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:8018;}i:1;a:1:{s:2:"id";i:10546;}i:2;a:1:{s:2:"id";i:9096;}}}}
+  - meta_key: _thumbnail_id
+    meta_value: '11408'
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2015-12-16-access-denied-orchestration-plan-build.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1598'
+  comment:
+  - comment_id: '13787'
+    comment_author: Helena Cayton
+    comment_author_email: helena@puffinpower.co.uk
+    comment_author_url: ''
+    comment_author_IP: 194.73.47.250
+    comment_date: '2015-12-17 08:54:00'
+    comment_date_gmt: '2015-12-17 08:54:00'
+    comment_content: >-
+      I'm curious.  Given the organisation has such a well established TeamCity
+      setup already, why are you even discussing TFS Build v3?
+
+
+      Do you really think that it is a worthy competitor right now?  To me it
+      looks like a poor attempt to copy TeamCity and it will be years before it
+      can match TC for features and stability.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2413866063'
+  - comment_id: '13788'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-12-17 11:09:00'
+    comment_date_gmt: '2015-12-17 11:09:00'
+    comment_content: >-
+      Good point @helenacayton:disqus , and yes I do. It will take years for
+      this customer to move to Team Build from Team City and we need to plan
+      now. Trials, small systems will go first... :) then we will work up to the
+      big stuff. It is IMERATIVE that you have Code, Build, &amp; Tests to get
+      the enterprise level benefits of being in TFS. Being able to trace from a
+      line of code through PBI's an Test Cases to see when it was tested, which
+      builds were tested and how often is invaluable. It is worth more than any
+      temporary deficiency in the tool. We would have moved to XAML Builds is
+      that was still the solution.
+
+      Team City is not an ALM platform. Its a Build orchestration engine
+      (admittedly on steroids) but still merely a single part of a very large
+      DevOps puzzle...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13787'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2413866063'
+    - meta_key: dsq_post_id
+      meta_value: '2413969144'
+  - comment_id: '13789'
+    comment_author: Helena Cayton
+    comment_author_email: helena@puffinpower.co.uk
+    comment_author_url: ''
+    comment_author_IP: 194.73.47.250
+    comment_date: '2015-12-17 11:45:00'
+    comment_date_gmt: '2015-12-17 11:45:00'
+    comment_content: >-
+      Sure, TFS is a great confederated source of information, but that doesn't
+      mean that you need to use TFS to generate that information.
+
+
+
+      It's fairly straightforward to report the results of a TeamCity build into
+      TFS using the build API to create fake builds.  We use this to add linked
+      commits/changesets, associated workitems and test &amp; coverage results
+      to TFS while using TeamCity's superior build engine.  I absolutely would
+      not want to throw away years of configuration to move to an unproven new
+      platform simply because Microsoft says that yes, this time they really are
+      committing to making Team Build a viable competitor.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13788'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2413969144'
+    - meta_key: dsq_post_id
+      meta_value: '2413999765'
+  - comment_id: '13790'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-12-17 12:10:00'
+    comment_date_gmt: '2015-12-17 12:10:00'
+    comment_content: >-
+      I'm not... I am merely using it as the orchestration engine. The execution
+      and data generation is done by MSBuild, CMake, Ant, or any other of a
+      plethora of execution tools. I have used the 'fake' builds method in the
+      past and it works OK. However with the new Build system there is no need.
+      You can call the same scripts that you currently use for your build... You
+      really should be able to use Team Build, Hudson, Team City, or any other
+      orchestration tool at will. That's the new normal for build systems and
+      results in the orchestration platform being an organisational choice and
+      the execution tools being an engineering choice. That's how it should
+      be....
+
+
+      Don't get stuck in one Build Engine just because its what you have used
+      for a while. Make your builds resilient and pluggable...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13789'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2413999765'
+    - meta_key: dsq_post_id
+      meta_value: '2414022146'
+  - comment_id: '14378'
+    comment_author: Paul Abrams
+    comment_author_email: john.paul.abrams@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 205.194.127.36
+    comment_date: '2017-11-27 21:41:00'
+    comment_date_gmt: '2017-11-27 21:41:00'
+    comment_content: >-
+      How do we configure TFS to use some other account for this than "Project
+      Build Service" or "Project Collection Build Service"?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3635477207'

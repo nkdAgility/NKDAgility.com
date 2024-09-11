@@ -1,0 +1,173 @@
+post:
+  title: Moving OneDrive for Business files to a different drive
+  link: https://nkdagility.com/blog/moving-onedrive-business-files-different-drive/
+  pubDate: Wed, 03 Feb 2016 14:24:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11440
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>I recent ran into a problem where my OneDrive files were taking up too
+    much space on my main drive and preventing Windows 10 updates on the Insider
+    Program. This works for both OneDrive consumer application and the new
+    OnDrive for Business beta application.</p><p><img style="background-image:
+    none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline;
+    padding-right: 0px; border: 0px;" title="clip_image001"
+    src="https://nkdagility.com/wp-content/uploads/2016/01/clip_image001-1.png"
+    alt="clip_image001" width="953" height="649" border="0" /></p><p>Many moons
+    ago I had partitioned my drive so that I could limit the amount of space
+    that my Virtual Machines use. However these days I only have a single VM
+    that is the Brian Keller TFS demo box for… well… demos. All my other
+    machines I run in Azure. So I tend to have more free space on the Virtual
+    drive and less on the Windows drive these days…</p><p>My OneDrive file size
+    is now up at 80GB+ so I really need the extra space on the C
+    drive.</p><p><img style="background-image: none; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border:
+    0px;" title="clip_image002"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image002-1.png"
+    alt="clip_image002" width="1024" height="570" border="0" /></p><p>However
+    after so long it would be difficult to resize the partitions without
+    breaking the ability to recover my computer easily, which I like.</p><p><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="clip_image003"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image003-1.png"
+    alt="clip_image003" width="948" height="649" border="0" /></p><p>I love
+    being able to pop into Recovery page and just reset Windows while keeping my
+    files… awesome feature, especially if you are a Developer and incessant
+    tinkerer and often break Windows.</p><p>So, in order to move your OneDrive
+    location you need to first "Unlink" your OneDrive account and then relink it
+    back to the new location. The online documentation for this says that you
+    have to re-download all of your files, but stuff that on 80GB. What if you
+    are on a crappy or cellular internet connection! I want to move my files to
+    the new location and have OneDrive just fire up with all of the files there.
+    Good this this is easy and seamless…</p><ol><li><strong>First Unlink your
+    OneDrive</strong><br />You need to be online to complete this procedure. I
+    am currently onsite with a customer that has blocked OneDrive and had to
+    connect through my phone. OneDrive takes some time to connect if you change
+    connection, so using the tray Exit button and then running the OneDrive
+    Desktop App (from Start) gives it a little kick.<br /><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="clip_image004"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image004.png"
+    alt="clip_image004" width="781" height="513" border="0" /><br />Once you are
+    online you can open the tray menu and click Settings.<br /><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="clip_image005"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image005.png"
+    alt="clip_image005" width="599" height="649" border="0" /><br />Then click
+    "Unlink". If your Unlink button is disabled, like above, then that means
+    that you are not Online. You can connect to the internet and then reboot, or
+    restart the OneDrive application.</li><li><strong>Copy your files to the new
+    location</strong><br />You need to cop all of your existing files to the new
+    location. If you don’t copy all of the files anything missing will need to
+    be re-downloaded. As Windows copy also takes all of your file properties if
+    you have made changes to files, then these will be synched successfully
+    after the move. <br /><img style="background-image: none; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border:
+    0px;" title="clip_image006"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image006.png"
+    alt="clip_image006" width="673" height="444" border="0" /><br />I setup a
+    d:\Users\MrHinsh\OneDrive folder and "moved" all 80GB of my files over to
+    the new location… this may take some time, or considerably longer depending
+    on your drive speed. I happen to have a Surface 3 with SSD's so it's pretty
+    quick for me.<br />You should also be mapping your Windows Special Folders
+    to OneDrive so that you never lose a file again.</li><li><strong>Setup
+    OneDrive using the OOB experience<br /></strong>Now we need to setup
+    OneDrive again but change the mapping to the new location of our files. <br
+    /><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border: 0px;"
+    title="clip_image007"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image007.png"
+    alt="clip_image007" width="701" height="649" border="0" /><br />Just like
+    the first time you setup Windows OneDrive you get the out-of-box experience
+    when you click on the OneDrive folder.<br /><img style="background-image:
+    none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline;
+    padding-right: 0px; border: 0px;" title="clip_image008"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image008.png"
+    alt="clip_image008" width="701" height="649" border="0" /><br />On the
+    configuration screen click "Change" and select the new folder. OneDrive will
+    detect that this location is already in use and you should "use this
+    location". <br /><img style="background-image: none; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border:
+    0px;" title="clip_image009"
+    src="http://nkdagility.com/wp-content/uploads/2016/01/clip_image009.png"
+    alt="clip_image009" width="974" height="649" border="0" /></li></ol><p>And
+    that’s it… your OneDrive files are not in a new location, and in my case, on
+    a new disk. That’s 80GB freed up from my Windows drive…</p>
+  - ''
+  post_id: '11440'
+  post_date: '2016-02-03 14:24:00'
+  post_date_gmt: '2016-02-03 14:24:00'
+  post_modified: '2016-01-21 16:57:59'
+  post_modified_gmt: '2016-01-21 16:57:59'
+  comment_status: open
+  ping_status: open
+  post_name: moving-onedrive-business-files-different-drive
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '4548210790'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1SsKOca
+  - meta_key: _thumbnail_id
+    meta_value: '11431'
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474780183;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11430;}i:1;a:1:{s:2:"id";i:10886;}i:2;a:1:{s:2:"id";i:75;}}}}
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2016-02-03-moving-onedrive-business-files-different-drive.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '653'

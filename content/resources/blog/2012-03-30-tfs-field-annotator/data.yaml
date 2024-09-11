@@ -1,0 +1,217 @@
+post:
+  title: TFS Field Annotator
+  link: https://nkdagility.com/blog/tfs-field-annotator/
+  pubDate: Fri, 30 Mar 2012 08:15:11 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=5061
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…</p>\r\n<blockquote>\r\n<p>last time I looked that was a 4? Why is it a 6? Who changed it?</p>\r\n</blockquote>\r\n<p>if you have, then the TFS Field Annotate is for you. Connect to TFS, select a Work Item and see the history on a single field.</p>\r\n<ul>\r\n<li><span class=\"label label-warning\">Update</span> 2013-01-16 - Now with added <a href=\"http://blog.nwcadence.com/author/jamestupper/\" target=\"_blank\">James Tupper</a> features. James updated my code to include the ability to select multiple fields from TFS.</li>\r\n</ul>\r\n<hr />\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image24.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb24.png\" alt=\"image\" width=\"640\" height=\"92\" border=\"0\" /></a></p>\r\n<p>The TFS Field Annotator shows you just the changes to a particular field. So like the Source Code Annotate it gives you line level tractability with ease.</p>\r\n<h3>Download TFS Field Annotator</h3>\r\n<p>The following prerequisites are required:</p>\r\n<ul>\r\n<li>Visual Studio 2015 (any version)</li>\r\n<li>.NET 4.5</li>\r\n</ul>\r\n<p>If these components are already installed, you can <a href=\"https://nkdalm.blob.core.windows.net/clickonce/TfsWitAnnotateField/TfsWitAnnotateField.UI.application\">launch</a><b></b> the application now. Otherwise, click install below to install the prerequisites and run the application.</p>\r\n<h4><a href=\"https://nkdalm.blob.core.windows.net/clickonce/TfsWitAnnotateField/setup.exe\">install</a> or <a href=\"https://nkdalm.blob.core.windows.net/clickonce/TfsWitAnnotateField/TfsWitAnnotateField.UI.application\">launch via clickonce</a></h4>\r\n<h3>How it works</h3>\r\n<p>Once you have connected to Your TFS 2010 or TFS 11 Collection you enter a Work Item Id to load all of the available fields and</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/SNAGHTML8c43b39.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"SNAGHTML8c43b39\" src=\"http://blog.hinshelwood.com/files/2012/03/SNAGHTML8c43b39_thumb.png\" alt=\"SNAGHTML8c43b39\" width=\"524\" height=\"461\" border=\"0\" /></a><br /><strong>Figure: See who changed what more easily</strong></p>\r\n<p>&nbsp;</p>\r\n<h3>Troubleshooting</h3>\r\n<p>If you are using Windows 8 Consumer Preview you will not get an automatic launch of the application due to an extra security check for applications that come from the internet.</p>\r\n<ol>\r\n<li>Click or Press “Start” and Scroll all the way to the right</li>\r\n<li>Select the TFS Field Annotator</li>\r\n<li>When the security dialog pops up click “More Info”\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image25.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb25.png\" alt=\"image\" width=\"640\" height=\"268\" border=\"0\" /></a><br /><strong>Figure: Select More Info<br /></strong></p>\r\n</li>\r\n<li>Click “Run anyway” to launch the application and add it to the safe list\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image26.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb26.png\" alt=\"image\" width=\"640\" height=\"270\" border=\"0\" /></a><br />Figure: Just run it anyway… no sweat…</p>\r\n</li>\r\n<li>Done</li>\r\n</ol>"
+  - ''
+  post_id: '5061'
+  post_date: '2012-03-30 01:15:11'
+  post_date_gmt: '2012-03-30 08:15:11'
+  post_modified: '2015-02-17 12:17:41'
+  post_modified_gmt: '2015-02-17 12:17:41'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-field-annotator
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '629792108'
+  - meta_key: _thumbnail_id
+    meta_value: '8627'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/175276W
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: pl-settings
+    meta_value: a:2:{s:4:"live";a:0:{}s:5:"draft";a:0:{}}
+  - meta_key: _pprredirect_active
+    meta_value: '1'
+  - meta_key: _pprredirect_type
+    meta_value: '301'
+  - meta_key: _pprredirect_url
+    meta_value: http://nkdagility.com/tfs-field-annotator/
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1468205405;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5112;}i:1;a:1:{s:2:"id";i:9188;}i:2;a:1:{s:2:"id";i:5288;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-03-30-tfs-field-annotator.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '708'
+  comment:
+  - comment_id: '1162'
+    comment_author: >-
+      Unit Testing against the Team Foundation Server 11 API - Martin
+      Hinshelwood (MrHinsh)
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/unit-testing-against-the-team-foundation-server-11-api/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-04-01 21:20:55'
+    comment_date_gmt: '2012-04-02 04:20:55'
+    comment_content: >-
+      [...] &amp; Visual Studio provide a solid foundation to build good
+      engineering practices around.             TFS Field Annotator       Share
+      &rarr;   (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0];
+      if [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1333340455.63";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1333340657.5";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1163'
+    comment_author: Jos Verlinde
+    comment_author_email: ''
+    comment_author_url: http://www.facebook.com/jos.verlinde
+    comment_author_IP: 82.168.92.10
+    comment_date: '2012-04-20 13:05:00'
+    comment_date_gmt: '2012-04-20 20:05:00'
+    comment_content: fails to install after trying to install 4.5 over and over and over
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '504363454'
+  - comment_id: '1164'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 50.135.56.181
+    comment_date: '2012-04-20 15:34:00'
+    comment_date_gmt: '2012-04-20 22:34:00'
+    comment_content: "I would need a little more information to even look at this. And by 'little' I am being supremely sarcastic, lol\_really... Have you ever filed a bug before? What is your OS? What version of .NET do you currently have installed? Have you tried installing .NET 4.5 stand alone? What version of Team Explorer do you have installed? Do you have Service Pack 1?"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1163'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '504363454'
+    - meta_key: dsq_post_id
+      meta_value: '504547828'
+  - comment_id: '1165'
+    comment_author: Sacha Olivier Bruttin
+    comment_author_email: ''
+    comment_author_url: http://www.facebook.com/sacha.bruttin
+    comment_author_IP: 159.241.226.18
+    comment_date: '2012-06-20 00:34:00'
+    comment_date_gmt: '2012-06-20 07:34:00'
+    comment_content: |-
+      Same issue as Jos.
+      My configuration: 
+      - Win 7 64bits Pro
+      - VS.NET 2010 SP1
+      - Team Explorer 2010 SP1
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1164'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '504547828'
+    - meta_key: dsq_post_id
+      meta_value: '562601071'
+  - comment_id: '1166'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 70.183.83.195
+    comment_date: '2012-06-20 07:11:00'
+    comment_date_gmt: '2012-06-20 14:11:00'
+    comment_content: >-
+      I thin this is because it is running on the Beta .NET Framework... I will
+      update it tonight...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1165'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '562601071'
+    - meta_key: dsq_post_id
+      meta_value: '562786949'
+  - comment_id: '1167'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 12.181.158.165
+    comment_date: '2012-06-20 17:54:00'
+    comment_date_gmt: '2012-06-21 00:54:00'
+    comment_content: |-
+      TFS Field Annotator now works on the RC. I have updated the install 
+      http://blog.hinshelwood.com/tfs-field-annotator
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '563253792'

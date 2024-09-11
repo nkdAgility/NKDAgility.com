@@ -1,0 +1,103 @@
+post:
+  title: Installing Visual Studio Team Foundation Server Service Pack 1
+  link: >-
+    https://nkdagility.com/blog/installing-visual-studio-team-foundation-server-service-pack-1/
+  pubDate: Thu, 10 Mar 2011 09:18:21 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2011/03/10/installing-visual-studio-team-foundation-server-service-pack-1.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png\"><img style=\"border-right-width: 0px;margin: 0px 20px 20px 0px;padding-left: 0px;padding-right: 0px;float: left;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"vs2010logo\" align=\"left\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb.png\" width=\"140\" height=\"55\" /></a>As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!</p>  <br />  <ul>   <li><font color=\"#ff0000\">Update 2011-03-10</font> – Running the Team Foundation Server 2010 Service Pack 1 install a second time worked</li> </ul>  <hr />  <p>As per <a href=\"http://blogs.msdn.com/b/bharry/archive/2011/03/09/installing-all-the-new-stuff.aspx\">Brian's post</a> I am installing the Team Foundation Server Service Pack first and indeed as this is a single server local deployment I need to install both. If I only install one it will leave the other product broken.</p>  <p>This however does not affect you if you are running Visual Studio and Team Foundation Server on separate computers as is normal in a production deployment. </p>  <h3>Main workhorse</h3>  <p>I will be installing the service pack first on my main computer as I want to actually use it here.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1065c18.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTML1065c18\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1065c18_thumb.png\" width=\"472\" height=\"367\" /></a>     <br /><strong>Figure: My main workhorse</strong></p>  <p>I will also be installing this on my netbook which is obviously of significantly lower spec, but I will do that one after. Although, as always I had my fingers crossed, I was not really worried.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf88846.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLf88846\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf88846_thumb.png\" width=\"513\" height=\"480\" /></a>     <br /><strong>Figure: KB2182621</strong></p>  <p>Compared to Visual Studio there are not really a lot of components to update.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_2.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb.png\" width=\"511\" height=\"477\" /></a>     <br /><strong>Figure: TFS 2010 and SQL 2008 are the main things to update</strong></p>  <p>There is no “web” installer for the Team Foundation Server 2010 Service Pack, but that is ok as most people will be installing it on a production server and will want to have everything local. I would have liked a Web installer, but the added complexity for the product team is not work the capability for a 500mb patch.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9823e.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLf9823e\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9823e_thumb.png\" width=\"513\" height=\"480\" /></a>     <br /><strong>Figure: There is currently no way to roll SP1 and RTM together</strong></p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9ac69.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLf9ac69\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9ac69_thumb.png\" width=\"513\" height=\"480\" /></a>     <br /><strong>Figure: No problems with the file verification, phew<a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_5.jpg\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;float: right;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"coffee-cup\" align=\"right\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_thumb_1.jpg\" width=\"48\" height=\"41\" /></a></strong></p>  <p><strong></strong></p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9e46a.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLf9e46a\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9e46a_thumb.png\" width=\"513\" height=\"480\" /></a>     <br /><strong>Figure: Although the install took a while, it progressed smoothly<a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_2.jpg\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;float: right;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"coffee-cup\" align=\"right\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_thumb.jpg\" width=\"48\" height=\"41\" /></a></strong></p>  <p>\_</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfa11b1.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLfa11b1\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfa11b1_thumb.png\" width=\"513\" height=\"480\" /></a>     <br /><strong>Figure: I always like a success screen</strong></p>  <p>Well, as far as the install is concerned everything is OK, but what about TFS? Can I still connect and can I still administer it.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfdde61.png\"><img style=\"border-right-width: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTMLfdde61\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfdde61_thumb.png\" width=\"800\" height=\"534\" /></a>     <br /><strong>Figure: Service Pack 1 is reflected correctly in the Administration Console</strong></p>  <p>I am confident that there are no major problems with TFS on my system and that it has been updated to SP1. I can do all of the things that I used before with ease, and with the new features detailed by <a href=\"http://blogs.msdn.com/b/bharry/archive/2011/03/09/installing-all-the-new-stuff.aspx\">Brian</a> I think I will be happy.</p>  <h3>Netbook</h3>  <p>The great god Murphy has stuck, and my poor wee laptop spat the Team Foundation Server 2010 Service Pack 1 out so fast it hit me on the back of the head. That will teach me for not looking…</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_4.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb_1.png\" width=\"515\" height=\"479\" /></a>     <br /><strong>Figure: “Installation did not succeed” I am pretty sure should not be all caps!</strong></p>  <p>On examining the file I found that everything worked, except the actual Team Foundation Server 2010 serving step.</p>  <pre>Action: System Requirement Checks...\nAction complete\nAction: Downloading and/or Verifying Items\nc:757fe6efe9f065130d4838081911VS10-KB2182621.msp: Verifying signature for VS10-KB2182621.msp\nc:757fe6efe9f065130d4838081911VS10-KB2182621.msp Signature verified successfully for VS10-KB2182621.msp\nc:757fe6efe9f065130d4838081911DACFramework_enu.msi: Verifying signature for DACFramework_enu.msi\nc:757fe6efe9f065130d4838081911DACFramework_enu.msi Signature verified successfully for DACFramework_enu.msi\nc:757fe6efe9f065130d4838081911DACProjectSystemSetup_enu.msi: Verifying signature for DACProjectSystemSetup_enu.msi\nExists: evaluating\nExists evaluated to false\nc:757fe6efe9f065130d4838081911DACProjectSystemSetup_enu.msi Signature verified successfully for DACProjectSystemSetup_enu.msi\nc:757fe6efe9f065130d4838081911TSqlLanguageService_enu.msi: Verifying signature for TSqlLanguageService_enu.msi\nc:757fe6efe9f065130d4838081911TSqlLanguageService_enu.msi Signature verified successfully for TSqlLanguageService_enu.msi\nc:757fe6efe9f065130d4838081911SharedManagementObjects_x86_enu.msi: Verifying signature for SharedManagementObjects_x86_enu.msi\nc:757fe6efe9f065130d4838081911SharedManagementObjects_x86_enu.msi Signature verified successfully for SharedManagementObjects_x86_enu.msi\nc:757fe6efe9f065130d4838081911SharedManagementObjects_amd64_enu.msi: Verifying signature for SharedManagementObjects_amd64_enu.msi\nc:757fe6efe9f065130d4838081911SharedManagementObjects_amd64_enu.msi Signature verified successfully for SharedManagementObjects_amd64_enu.msi\nc:757fe6efe9f065130d4838081911SQLSysClrTypes_x86_enu.msi: Verifying signature for SQLSysClrTypes_x86_enu.msi\nc:757fe6efe9f065130d4838081911SQLSysClrTypes_x86_enu.msi Signature verified successfully for SQLSysClrTypes_x86_enu.msi\nc:757fe6efe9f065130d4838081911SQLSysClrTypes_amd64_enu.msi: Verifying signature for SQLSysClrTypes_amd64_enu.msi\nc:757fe6efe9f065130d4838081911SQLSysClrTypes_amd64_enu.msi Signature verified successfully for SQLSysClrTypes_amd64_enu.msi\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x86.cab: Verifying signature for vcruntimeVc_runtime_x86.cab\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x86.cab Signature verified successfully for vcruntimeVc_runtime_x86.cab\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x86.msi: Verifying signature for vcruntimeVc_runtime_x86.msi\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x86.msi Signature verified successfully for vcruntimeVc_runtime_x86.msi\nc:757fe6efe9f065130d4838081911SetupUtility.exe: Verifying signature for SetupUtility.exe\nc:757fe6efe9f065130d4838081911SetupUtility.exe Signature verified successfully for SetupUtility.exe\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x64.cab: Verifying signature for vcruntimeVc_runtime_x64.cab\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x64.cab Signature verified successfully for vcruntimeVc_runtime_x64.cab\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x64.msi: Verifying signature for vcruntimeVc_runtime_x64.msi\nc:757fe6efe9f065130d4838081911vcruntimeVc_runtime_x64.msi Signature verified successfully for vcruntimeVc_runtime_x64.msi\nc:757fe6efe9f065130d4838081911NDP40-KB2468871.exe: Verifying signature for NDP40-KB2468871.exe\nc:757fe6efe9f065130d4838081911NDP40-KB2468871.exe Signature verified successfully for NDP40-KB2468871.exe\nAction complete\nAction: Performing actions on all Items\nEntering Function: BaseMspInstallerT &gt;::PerformAction\nAction: Performing Install on MSP: c:757fe6efe9f065130d4838081911VS10-KB2182621.msp targetting Product: Microsoft Team Foundation Server 2010 - ENU\nReturning IDOK. INSTALLMESSAGE_ERROR [Error 1935.An error occurred during the installation of assembly 'Microsoft.TeamFoundation.WebAccess.WorkItemTracking,version=\"10.0.0.0\",publicKeyToken=\"b03f5f7f11d50a3a\",processorArchitecture=\"MSIL\",fileVersion=\"10.0.40219.1\",culture=\"neutral\"'. Please refer to Help and Support for more information. HRESULT: 0x80070005. ]\nReturning IDOK. INSTALLMESSAGE_ERROR [Error 1712.One or more of the files required to restore your computer to its previous state could not be found. Restoration will not be possible.]\nPatch (c:757fe6efe9f065130d4838081911VS10-KB2182621.msp) Install failed on product (Microsoft Team Foundation Server 2010 - ENU). Msi Log: \nMSI returned 0x643\nEntering Function: MspInstallerT &gt;::Rollback\n\nAction Rollback changes\nPerformMsiOperation returned 0x643\nPerformMsiOperation returned 0x643\nOnFailureBehavior for this item is to Rollback.\nAction complete\nFinal Result: Installation failed with error code: (0x80070643), \"Fatal error during installation. \" (Elapsed time: 0 00:14:09).</pre>\n\n<p><b>Figure: Error log for Team Foundation Server 2010 install shows a failure</b></p>\n\n<p>As there is really no information in this log as to why the installation failed so I checked the event log on that box.</p>\n\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_9.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb_3.png\" width=\"800\" height=\"506\" /></a> \n\n  <br /><strong>Figure: There are hundreds of errors and it actually looks like there are more problems than a failed Service Pack</strong></p>\n\n<p>I am going to just run it again and see if it was because the netbook was slow to catch on to the update. Hears hoping, but even if it fails, I would question the installation of Windows (PDC laptop original install) before I question the Service Pack <img style=\"border-bottom-style: none;border-left-style: none;border-top-style: none;border-right-style: none\" class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-wlEmoticon-smile_2.png\" /></p>\n\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc.png\"><img style=\"border-bottom: 0px;border-left: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top: 0px;border-right: 0px;padding-top: 0px\" border=\"0\" alt=\"SNAGHTML1874adc\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc_thumb.png\" width=\"513\" height=\"480\" /></a>\n\n  <br /><strong>Figure: Second run through was successful</strong></p>\n\n<p>I don’t know if the laptop was just slow, or what…</p>\n\n<p><strong>Did you get this error?</strong></p>\n\n<p>If you did I will push this to the product team as a problem, but unless more people have this sort of error, I will just look to write this off as a corrupted install of Windows and reinstall.</p>"
+  - ''
+  post_id: '8'
+  post_date: '2011-03-10 09:18:21'
+  post_date_gmt: '2011-03-10 09:18:21'
+  post_modified: '2011-03-10 09:18:21'
+  post_modified_gmt: '2011-03-10 09:18:21'
+  comment_status: open
+  ping_status: open
+  post_name: installing-visual-studio-team-foundation-server-service-pack-1
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311493206'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1hLv1QZ
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474243866;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9893;}i:1;a:1:{s:2:"id";i:8998;}i:2;a:1:{s:2:"id";i:10351;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-03-10-installing-visual-studio-team-foundation-server-service-pack-1.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '582'
+  comment:
+  - comment_id: '906'
+    comment_author: Keivn
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-31 15:36:47'
+    comment_date_gmt: '2011-03-31 15:36:47'
+    comment_content: >-
+      I got that error and am stuck... running it a second time doesn't work for
+      me :(
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969256'
+  - comment_id: '907'
+    comment_author: R. Russell
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-31 19:08:59'
+    comment_date_gmt: '2011-03-31 19:08:59'
+    comment_content: >-
+      Yup -- methinks Lightswitch beta 2 updated all of these files, and there
+      are version mismatches. Uninstalling the beta did not help these SQL
+      related. SMO was a similar problem, obtainable through a microsft link. I
+      am merely updating the express edition, since my machine was free of the
+      VS plauge up until last week. My evaluation is going swimmingly.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969259'

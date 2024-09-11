@@ -1,0 +1,391 @@
+post:
+  title: A better way than staggered iterations for delivery
+  link: >-
+    https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/
+  pubDate: Thu, 10 Dec 2020 09:00:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9735
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\n<p>There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more technical debt and lower quality software.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p><a href=\"https://nkdagility.com/the-2020-scrum-guide/\">Updated to reflect the 2020 Scrum Guide!</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 id=\"h-tl-dr\">TL;DR;</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>The expected result of staggered iterations would be an increase in rework and in technical debt. If you are moving from a 4-year iterative process to a 4-month one you will see the value, but your process will be opaque and will only reduce your ability to deliver working software.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=\"wp-block-quote\"><p>Yes, your cycle time will be reduced, but you can do so much better. Move all requirements for shipping your software into your Sprint. If you need testing then it needs to be inside of the Sprint. A general rule is that: If you need to validate something outside of the Sprint; User Acceptance, Security audit, regulatory approval; Then you need to make sure that all of the work required to pass that outside validation is doing inside of the Sprint, with no further work required from the development team.</p><cite>-<a href=\"https://nkdagility.com/company/about-us/\">Martin Hinshelwood</a></cite></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>For example, this means that if you have 6 weeks of animal trials, followed by 6 weeks of human trials to validate that your pacemaker firmware is good, you can't have those things happen inside of every 2 weeks Sprint. Instead, focus on what you can do to make those things pass. If they don't pass then do a full route-cause-analysis and bring that new information to your Sprint Retrospective and make sure you put measures in place to make sure it does not happen again.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 id=\"h-a-better-way-than-staggered-iterations-for-delivery\">A better way than staggered iterations for delivery</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>I have seen many companies that are trying to move towards greater agility get trapped in the past by creating artificial silos based on skills. They believe that by creating a timbox for planning, development and testing that we can get closer to agility and move away from our traditional models. Unfortunately, the actual result is to enshrine that traditional staged model and step sideways on the path to agility, not forwards. In many cases, it can be a significant step backwards that will take many painful years to rectify.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"align\":\"center\",\"id\":9735,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"aligncenter size-large\"><img src=\"https://nkdagility.com/wp-content/uploads/2013/07/staggered-iterations-for-delivery.png\" alt=\"\" class=\"wp-image-9735\"/><figcaption>staggered-iterations-for-delivery</figcaption></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>I have heard this called many things. Water-Scrum-fall or maybe Scrummerfall but whatever you call it the reality is that this is just small waterfalls and in the case above not really that small at all. This is often how organisations respond when they are told to \"do agile\" and they end up figuring out how to not really change, and do the same thing that they have always done.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>This is not the action of a <a href=\"/the-2020-scrum-guide/#scrum-team\">Professional Scrum Team</a>, but that of, at best amateurs and at worst cowboys.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 id=\"h-the-problem-with-staggered-iterations-for-delivery\">The problem with staggered iterations for delivery</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>In the diagram above we have an 18-week cycle from inception to delivery. That’s more than 4 months between ideation and delivery with a lag of 2 months to even get feedback with a 2 month lag for all subsequent feedback. Worse this is the most expensive kind of feedback as the Coding and Testing teams have already moved on from the thing that is getting feedback and the result of that feedback will be more expensive to implement. Indeed worse yet if QA finds something that needs fixed we have maximised not only the cost to fix but the meantime to repair as the developers have moved on. And what do they do with that feedback? How is it prioritised? Do they quit what they are doing immediately and fix the previous iteration or do they wait until after they deliver this one? What if they are blocking QA? Does QA sit around till the end of the iteration after the one they reported the problem in?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 id=\"h-the-solutions-to-staggered-iterations-for-delivery\">The solutions to staggered iterations for delivery</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>We need to foster teams over individuals and make those teams responsible for the delivery of working software. To get that we need cross-functional teams that can turn ideas into that working software. And we need to do it often.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><li><strong>Cross-functional teams</strong> – We need to have everyone on the <a href=\"/the-2020-scrum-guide/#developers\">Developers </a>that is required to turn the Backlog Item into working software. If you were a property developer you would have access to joiners, plumbers, plasterers and electricians. You would create a team of individuals that was sufficient to complete the daily work on-site with experts on hand as needed. This is the same process for <a href=\"https://nkdagility.com/the-2020-scrum-guide/#developers\">Developers</a>. You should have all of the skills that you require on each team to turn the forecast backlog items into working software each and every iteration. Have experts on hand for those tricky items but minimise the dependency that you have on them.</li><li><strong>Asynchronous development</strong> -\_ Ideally you want all of the disciplines that you need to complete each backlog item to work together to deliver the software. This is more than handing off between disciplines but moving towards everyone always working at any point in time. This is a hard one to achieve but is the responsibility of the team to figure out how; <a href=\"https://nkdagility.com/getting-started-with-modern-source-control-system-and-devops/\">To achieve asynchronous development you will need a modern source control system</a>.</li><li><strong>Test first</strong> – Test first is about not doing any work unless there is a measurable test that elicits that work. Creating tests from acceptance criteria will make sure that your team is working on and understands the next most relevant thing to be worked on and that you have built what the customer wants. Additionally, creating unit tests before code will make sure that your coders are working on the most relevant problem, and that each line of code that they complete does exactly what they intended. The long term benefit of this is that we now have an executable specification that will result in an error if a future change breaks existing functionality.\_<a href=\"https://nkdagility.com/you-are-doing-it-wrong-if-you-are-not-using-test-first/\">You are doing it wrong if you are not using test first.</a></li><li><strong>Working software each iteration</strong> – If you don’t create working software at the end of each iteration you have no way of knowing what really needs to be done to create a working increment. If you do four iterations of two weeks before you think about creating a working increment, how much work (re-work really) is left that you need to complete to really be done? To really have shippable quality? If you don’t have working software at the end of each iteration you are making sure that your business can’t ship out of band, no matter how much it wants to; <a href=\"https://nkdagility.com/professional-scrum-teams-build-software-works/\">Professional Scrum Teams build software that works</a>.</li><li><strong>Quality Assurance requires no testing</strong> – If you consider that all testing is done as part of the sprint, then the only thing that needs to be done as part of the QA gate is to review the test results and coverage and determine the sufficiency of those results and coverage. If you are taking more than four hours to QA two weeks of development then I would suggest that the <a href=\"https://nkdagility.com/the-2020-scrum-guide/#developers\">Developers</a> work is not sufficient.</li></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>These things will all individually help and if you are doing all of them together your value delivery and quality should start to increase over time. Make sure that you focus on automating everything from the moment a Software Engineer checks in code, to it being <a href=\"https://nkdagility.com/continuous-deliver-sprint/\">continuously delivered to production</a>. In the age of agility giving you a competitive advantage in whatever marketplace you are in, any manual work is a risk.</p>\n<!-- /wp:paragraph -->"
+  - >-
+    <p class="lead">There is a better way than staggered iterations for delivery
+    that will keep you on the path to agility.</p>
+  post_id: '9915'
+  post_date: '2020-12-10 09:00:00'
+  post_date_gmt: '2020-12-10 09:00:00'
+  post_modified: '2020-11-24 16:53:05'
+  post_modified_gmt: '2020-11-24 16:53:05'
+  comment_status: open
+  ping_status: open
+  post_name: a-better-way-than-staggered-iterations-for-delivery
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '72'
+  - meta_key: _thumbnail_id
+    meta_value: '9734'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: staggered iterations
+  - meta_key: _yoast_wpseo_title
+    meta_value: A better way than staggered iterations for delivery
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      There is a better way than staggered iterations for delivery that will
+      keep you on the path to agility.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1484762321'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":18:{s:3:"_id";s:24:"51e663d949f2ca7813000020";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1374053337;s:3:"day";s:16:"Friday
+      26th July";s:6:"due_at";i:1374894540;s:8:"due_time";s:8:"10:09
+      pm";s:2:"id";s:24:"51e663d949f2ca7813000020";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:91:"New
+      Post: A better way than staggered iterations for delivery
+      http://buff.ly/13iH0Pr #vsalm";s:14:"text_formatted";s:306:"New Post: A
+      better way than staggered iterations for delivery <a class="url"
+      href="http://buff.ly/13iH0Pr" rel="external nofollow"
+      target="_blank">http://buff.ly/13iH0Pr</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"94565c64a3c2162d931bd3ea14d5a223";s:4:"type";s:4:"link";s:10:"updated_at";i:1374053337;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":19:{s:3:"_id";s:24:"51e663da49f2ca7813000021";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1374053338;s:3:"day";s:20:"Wednesday
+      7th August";s:6:"due_at";i:1375869660;s:8:"due_time";s:8:"11:01
+      am";s:2:"id";s:24:"51e663da49f2ca7813000021";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:74:"http://nkdagility.com/a-better-way-than-staggered-iterations-for-delivery/";s:11:"description";s:103:"There
+      is a better way than staggered iterations for delivery that will keep you
+      on the path to agility.";s:5:"title";s:51:"A better way than staggered
+      iterations for
+      delivery";s:4:"link";s:74:"http://nkdagility.com/a-better-way-than-staggered-iterations-for-delivery/";s:7:"preview";s:94:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/03/metro-process-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:91:"New
+      Post: A better way than staggered iterations for delivery
+      http://buff.ly/13iGZLp #vsalm";s:14:"text_formatted";s:306:"New Post: A
+      better way than staggered iterations for delivery <a class="url"
+      href="http://buff.ly/13iGZLp" rel="external nofollow"
+      target="_blank">http://buff.ly/13iGZLp</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"94565c64a3c2162d931bd3ea14d5a223";s:4:"type";s:4:"link";s:10:"updated_at";i:1374053338;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":19:{s:3:"_id";s:24:"51e663da49f2ca7813000022";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1374053338;s:3:"day";s:18:"Tuesday
+      6th August";s:6:"due_at";i:1375799820;s:8:"due_time";s:7:"9:37
+      am";s:2:"id";s:24:"51e663da49f2ca7813000022";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:74:"http://nkdagility.com/a-better-way-than-staggered-iterations-for-delivery/";s:11:"description";s:103:"There
+      is a better way than staggered iterations for delivery that will keep you
+      on the path to agility.";s:5:"title";s:51:"A better way than staggered
+      iterations for
+      delivery";s:4:"link";s:74:"http://nkdagility.com/a-better-way-than-staggered-iterations-for-delivery/";s:7:"preview";s:94:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/03/metro-process-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:91:"New
+      Post: A better way than staggered iterations for delivery
+      http://buff.ly/13iGZLr #vsalm";s:14:"text_formatted";s:306:"New Post: A
+      better way than staggered iterations for delivery <a class="url"
+      href="http://buff.ly/13iGZLr" rel="external nofollow"
+      target="_blank">http://buff.ly/13iGZLr</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"94565c64a3c2162d931bd3ea14d5a223";s:4:"type";s:4:"link";s:10:"updated_at";i:1374053338;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";d:11.5;s:12:"buffer_count";i:23;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLqyeG
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474685801;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:8829;}i:1;a:1:{s:2:"id";i:9716;}i:2;a:1:{s:2:"id";i:10372;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-07-17-a-better-way-than-staggered-iterations-for-delivery.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: pl_magazine_format
+    meta_value: ''
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '9'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: ''
+  - meta_key: _yoast_wpseo_focuskw_text_input
+    meta_value: staggered iterations
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _wpcom_is_markdown
+    meta_value: '1'
+  - meta_key: pl_template_mode
+    meta_value: type
+  - meta_key: _wpml_media_duplicate
+    meta_value: ''
+  - meta_key: _wpml_media_featured
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.9.3
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: kamy_acc_user_role
+    meta_value: a:0:{}
+  - meta_key: kamy_acc_group_child
+    meta_value: '[]'
+  - meta_key: kamy_acc_group_default_filed
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _wp_page_template
+    meta_value: default
+  - meta_key: ekit_post_views_count
+    meta_value: '4467'
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44704}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44704-9915/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44706}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44706-9915/}!}
+  comment:
+  - comment_id: '1733'
+    comment_author: Craig Johnson
+    comment_author_email: craigjohnson@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 75.144.8.253
+    comment_date: '2013-07-18 16:46:00'
+    comment_date_gmt: '2013-07-18 15:46:00'
+    comment_content: >-
+      I agree - what a ridiculous way to kinda-sorta-achieve pseudo-agility. But
+      the mental picture of lots of little waterfalls all cascading and crashing
+      into each other is kind of pretty, don't you think? :-) I think your point
+      about working software each iteration is the key.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '967084459'
+  - comment_id: '1734'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-18 17:21:00'
+    comment_date_gmt: '2013-07-18 16:21:00'
+    comment_content: I completely agree :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1733'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '967084459'
+    - meta_key: dsq_post_id
+      meta_value: '967151142'
+  - comment_id: '1735'
+    comment_author: A better way than staggered iterations for deli...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4005348598/a-better-way-than-staggered-iterations-for-delivery
+    comment_author_IP: 89.30.105.121
+    comment_date: '2013-07-29 15:35:39'
+    comment_date_gmt: '2013-07-29 14:35:39'
+    comment_content: >-
+      [...] There is a better way than staggered iterations for delivery that
+      will keep you on the path to agility.&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'true'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375108539.052432;s:7:"message";s:35:"Akismet caught
+        this comment as spam";s:5:"event";s:10:"check-spam";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375198935.143666;s:7:"message";s:41:"MrHinsh reported
+        this comment as not
+        spam";s:5:"event";s:10:"report-ham";s:4:"user";s:7:"MrHinsh";}
+    - meta_key: akismet_user_result
+      meta_value: 'false'
+    - meta_key: akismet_user
+      meta_value: MrHinsh
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375199185.441736;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '3181'
+    comment_author: >-
+      A better way than staggered iterations for delivery - Scrum.org Community
+      Blog
+    comment_author_email: ''
+    comment_author_url: http://blog.scrum.org/better-way-staggered-iterations-delivery/
+    comment_author_IP: 191.237.128.238
+    comment_date: '2014-08-12 20:31:01'
+    comment_date_gmt: '2014-08-12 19:31:01'
+    comment_content: >-
+      [&#8230;] Published at Scrum.org with permission of Martin Hinshelwood,
+      Professional Scrum Trainer at naked ALM Consulting. (source) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407871861.353252;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1408545439.780236;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14425'
+    comment_author: Dew Drop - December 11, 2017 (#2621) - Morning Dew
+    comment_author_email: ''
+    comment_author_url: https://www.alvinashcraft.com/2017/12/11/dew-drop-december-11-2017-2621/
+    comment_author_IP: 168.62.48.19
+    comment_date: '2017-12-11 12:30:50'
+    comment_date_gmt: '2017-12-11 12:30:50'
+    comment_content: >-
+      [&#8230;] teams build software that works and You are doing it wrong if
+      you are not using test first and A better way than staggered iterations
+      for delivery (Martin [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1512995450.474099;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1513079829.421285;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14429'
+    comment_author: Dew Drop - December 12, 2017 (#2622) - Morning Dew
+    comment_author_email: ''
+    comment_author_url: https://www.alvinashcraft.com/2017/12/12/dew-drop-december-12-2017-2622/
+    comment_author_IP: 168.62.48.19
+    comment_date: '2017-12-12 11:59:58'
+    comment_date_gmt: '2017-12-12 11:59:58'
+    comment_content: >-
+      [&#8230;] A better way than staggered iterations for delivery (Martin
+      Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1513079998.109348;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1513089541.92782;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14463'
+    comment_author: >-
+      Getting started with a Definition of Done (DoD). | Martin Hinshelwood -
+      naked Agility Ltd
+    comment_author_email: ''
+    comment_author_url: https://nkdagility.com/getting-started-definition-done-dod/
+    comment_author_IP: 104.197.208.225
+    comment_date: '2018-01-05 11:28:50'
+    comment_date_gmt: '2018-01-05 11:28:50'
+    comment_content: >-
+      [&#8230;] No further work &#8211; There should be no further work required
+      from the Development Team to ship your product. Any additional work means
+      that you were not Done, and it takes away from the Product Owners capacity
+      for the next iteration. Ideally, you have a fully automated process for
+      delivering software, and never use staggered iterations for delivery.
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1515151730.250636;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1515579632.444141;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14470'
+    comment_author: Release planning and predictable delivery
+    comment_author_email: ''
+    comment_author_url: https://nkdagility.com/release-planning-and-predictable-delivery/
+    comment_author_IP: 104.197.208.225
+    comment_date: '2018-01-10 12:08:57'
+    comment_date_gmt: '2018-01-10 12:08:57'
+    comment_content: >-
+      [&#8230;] Fixed length iterations – If you have variable length iterations
+      you can’t be sure what you can do in a particular timeframe. How much
+      decomposition do you need to do to the backlog? How much can the team
+      deliver in a single iteration? You can’t be sure unless you have fixed
+      length iteration, and you reject the idea of staggered iterations.
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1515586137.380287;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1515591366.859895;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '32607'
+    comment_author: IanC
+    comment_author_email: Z****@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: '***.***.***.218'
+    comment_date: '2021-03-17 11:30:08'
+    comment_date_gmt: '2021-03-17 11:30:08'
+    comment_content: >-
+      Also reminds me of the warm blanket of MSFCMMI from this <a
+      href="http://www.brucejmack.net/Guides/MSF%20for%20CMMI%20Process%20Improvement/Process%20Guidance/Supporting%20Files/images/tracks.gif"
+      rel="nofollow ugc">diagram</a>. 
+
+      If you have delivery at the end you are going to have a bad time.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_post_id
+      meta_value: '5307352616'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1620212686.898998;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

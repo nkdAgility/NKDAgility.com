@@ -1,0 +1,632 @@
+post:
+  title: Installing Visual Studio 2008 Team Suite on Windows 7
+  link: >-
+    https://nkdagility.com/blog/installing-visual-studio-2008-team-suite-on-windows-7/
+  pubDate: Fri, 09 Jan 2009 16:17:53 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/01/09/installing-visual-studio-2008-team-suit-on-windows-7.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I am installing VS2008 in a virtual environment, so this may not be exactly what you would get, but the purpose is to identify if VS2008 does indeed work on Windows 7 and what the experience is like.</p>\n<p>The first problem is that the auto run does not seam to function.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_2.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb.png\" alt=\"Windows 7 with Visual Studio 2008: Auto-Run\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>This can be rectified by browsing the CD / Image and running setup.exe</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_4.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_1.png\" alt=\"Windows 7 with Visual Studio 2008: Setup\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>So far so good.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_6.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_2.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008 installation wizard\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>After you have accepted the licence agreement you need to select the installation components.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_8.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_3.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008 feature selection\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>I am selecting Full so we can make sure it all goes on, but usually I remove SQL Express as I would add SQL Server developer edition later.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_10.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_4.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008 Installing Components\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>It’s that guy again :), we need to let this cook for “some time, or considerably longer”…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_12.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_5.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008 Installing Components\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>Some time later….</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_14.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_6.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008 Install Complete\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>After some 2 hours (remember I am in a virtual computer)</p>\n<p>I now have Visual Studio 2008 Team Suit installed…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_16.png\"><img style=\"border: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingVisualStudio2008TeamSuitonWind_C6BE-image_thumb_7.png\" alt=\"Windows 7 with Visual Studio 2008: Welcome to the Microsoft Visual Studio 2008\" width=\"404\" height=\"271\" border=\"0\" /></a></p>\n<p>I will need to service pack it and check functionality, probably by working on the <a href=\"http://codeplex.com/tfsstickybuddy\" target=\"_blank\">TFS Sticky Buddy</a> project on it and making sure that I an still deploy and run on other platforms! That is for another day though…</p>\n<div class=\"wlWriterEditableSmartContent\" style=\"margin: 0px; float: none; padding: 0px;\">Technorati Tags: <a href=\"http://technorati.com/tags/Windows\" rel=\"tag\">Windows</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '147'
+  post_date: '2009-01-09 16:17:53'
+  post_date_gmt: '2009-01-09 16:17:53'
+  post_modified: '2009-01-09 16:17:53'
+  post_modified_gmt: '2009-01-09 16:17:53'
+  comment_status: open
+  ping_status: open
+  post_name: installing-visual-studio-2008-team-suite-on-windows-7
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311554169'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aCB8pA
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473779773;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:79;}i:1;a:1:{s:2:"id";i:115;}i:2;a:1:{s:2:"id";i:8998;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-01-09-installing-visual-studio-2008-team-suite-on-windows-7.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '501'
+  comment:
+  - comment_id: '433'
+    comment_author: Dave Woodwater
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-13 23:00:32'
+    comment_date_gmt: '2009-01-13 23:00:32'
+    comment_content: >-
+      Hi!<br /><br />Thanks for the screenshots. I was wondering if you got it
+      to work. Nothing fancy, just checking-in/out you know?<br /><br />Cheers.1
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970485'
+  - comment_id: '434'
+    comment_author: Nullstring
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-14 00:14:16'
+    comment_date_gmt: '2009-01-14 00:14:16'
+    comment_content: Hey thanks for letting us know VS2008 can be installed in W7.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970488'
+  - comment_id: '435'
+    comment_author: Russell
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-16 14:14:16'
+    comment_date_gmt: '2009-01-16 14:14:16'
+    comment_content: Hey,<br />thanks was looking to see if it would work on windows 7 :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970491'
+  - comment_id: '436'
+    comment_author: ashleigh
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-20 04:30:27'
+    comment_date_gmt: '2009-01-20 04:30:27'
+    comment_content: >-
+      Don't work here on 7000, The pre-install happens, then it gets half way
+      through the first phase of setup (where you can check the opt to send
+      feedback) and drops out with dependency failure? WTF?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970492'
+  - comment_id: '437'
+    comment_author: ashleigh
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-20 04:42:35'
+    comment_date_gmt: '2009-01-20 04:42:35'
+    comment_content: >-
+      OK Ignore my previous comment, was an NGEN issue, sorted it by NGEN'ing
+      the stuff manualy
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970493'
+  - comment_id: '438'
+    comment_author: Niklas
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-01-21 16:34:38'
+    comment_date_gmt: '2009-01-21 16:34:38'
+    comment_content: >-
+      I try to install visual studio 2008 on a win 7 beta machine and all I get
+      is error, a few seconds after I have agreed on the license and it start to
+      install, then then stop. Will work on it, but no solution so far.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970494'
+  - comment_id: '439'
+    comment_author: Ilia
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-02-10 06:17:17'
+    comment_date_gmt: '2009-02-10 06:17:17'
+    comment_content: >-
+      If you have problems with web authoring (Problems wuit the Oficce 2007
+      system, maybe in spanish? maybe the Automatic Updates?....) you can do:<br
+      /><br />Run   and paste <br /><br />msiexec /x
+      {30120000-0044-0C0A-0000-0000000FF1CE}<br /><br />Yes.. Oh My God!! Is
+      Installing!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970497'
+  - comment_id: '440'
+    comment_author: emir
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-02-17 22:52:25'
+    comment_date_gmt: '2009-02-17 22:52:25'
+    comment_content: >-
+      I have this problem with installation...<br />Error 1303.The installer has
+      insufficient privileges to access this directory:<br
+      />C:Windowswinsxsx86?Microsoft.VC90.ATL_1fc8b4b9a1e18e3b_9.0.21022.8_x-ww_312cf0e9.
+      The installation cannot complete. Log on as administrator or contact your
+      system administrator.<br /><br />Im logged in like administrator, and i
+      try to run setup .. right click - run as administrator<br />but always get
+      this error...<br />help me !
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970499'
+  - comment_id: '441'
+    comment_author: Mo
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-05-23 06:43:37'
+    comment_date_gmt: '2009-05-23 06:43:37'
+    comment_content: >-
+      I have tried the install and it claims that there is  a known
+      compatibility issue with sql 2005 so it skips that install.  Additionaly, 
+      I run into another block trying to install sp1, It doesn't seem to detect
+      hat I have VS installed.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970501'
+  - comment_id: '442'
+    comment_author: Mo
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-05-23 14:20:12'
+    comment_date_gmt: '2009-05-23 14:20:12'
+    comment_content: >-
+      Update  I managed to install sp1 for VS.  Not sure exactly what the
+      problem was, but I was using the full ISO downlowad so I replaced
+      sqmapi.dll with the one from w7 system32 folder and then ran it.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970502'
+  - comment_id: '443'
+    comment_author: Dave Camara
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-06-02 11:21:01'
+    comment_date_gmt: '2009-06-02 11:21:01'
+    comment_content: >-
+      Can't install VS2008 pro... i wonder why??? can anyone help... <br
+      />Thanks in advance,,,
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970503'
+  - comment_id: '444'
+    comment_author: Brian
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-04 10:30:50'
+    comment_date_gmt: '2009-07-04 10:30:50'
+    comment_content: >-
+      I also got an error with sqmapi.dll using the VS 2008 pro iso version and
+      Windows 7 rc1, but successfully installed using VS 2008 pro installer
+      (http://www.microsoft.com/downloads/details.aspx?FamilyId=FBEE1648-7106-44A7-9649-6D9F6D58056E&amp;displaylang=en).<br
+      /><br />Also saw the sql 2005 compatibility error.  Assume may have to
+      reinstall sql 2005 express or dev.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970505'
+  - comment_id: '445'
+    comment_author: Clark
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-11 02:08:17'
+    comment_date_gmt: '2009-08-11 02:08:17'
+    comment_content: >-
+      I have a problem, Visual Studio is installed as a trial evaluation of 90
+      days, Why?, If I put keygen
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970506'
+  - comment_id: '446'
+    comment_author: Michael
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-11 02:54:03'
+    comment_date_gmt: '2009-09-11 02:54:03'
+    comment_content: >-
+      To enter the Visual Studio 2008 registration key in Windows 7, run
+      setup.exe from the program folder and mainteance mode will start.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970507'
+  - comment_id: '447'
+    comment_author: Amos
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-17 12:18:20'
+    comment_date_gmt: '2009-09-17 12:18:20'
+    comment_content: I got a problem.  fatal error C1083, I can't open “windows.h”!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970509'
+  - comment_id: '448'
+    comment_author: Asif Ansari
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-24 23:26:06'
+    comment_date_gmt: '2009-09-24 23:26:06'
+    comment_content: >-
+      Dear All , <br /><br />one day i tried to install windows 7 on dell studio
+      1535 laptop and it got crashed. i dont know what was the problem with
+      software or laptop?<br />before laptop was working fine but as soon as i
+      installed it started giving me blue screen error then after that it was
+      not at all working....<br /><br />Now i am using windows 7 enterprise
+      edition .....<br />so can any help me out that is it going to work on this
+      edition ?<br />i will be very thank full to all the memebers....<br /><br
+      />regards,<br />Asif Ansari<br />+974-6041868<br />Examination Incharge<br
+      />Aptech Education Center.<br />Doha - Qatar....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970511'
+  - comment_id: '449'
+    comment_author: Alberto
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-29 21:37:42'
+    comment_date_gmt: '2009-09-29 21:37:42'
+    comment_content: Clark, what is a keygen?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970514'
+  - comment_id: '450'
+    comment_author: Juan Suero
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-30 00:04:34'
+    comment_date_gmt: '2009-09-30 00:04:34'
+    comment_content: >-
+      which one is better to run on my laptop 8gig ram<br />i heard you can run
+      a hypervisor thin OS that runs a VM from a file<br />if you install one of
+      these guys or both?<br /><br />which one is better for a developers
+      laptop?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970519'
+  - comment_id: '451'
+    comment_author: Tariq
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-30 07:25:28'
+    comment_date_gmt: '2009-09-30 07:25:28'
+    comment_content: >-
+      when i try to run a program that i have create it give me error about
+      somthing with 64 bit
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970532'
+  - comment_id: '452'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-30 12:40:40'
+    comment_date_gmt: '2009-09-30 12:40:40'
+    comment_content: >-
+      This could be an incompatabiltiy with a component added to your project or
+      with the debugger. Try setting your program to x86 only...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970533'
+  - comment_id: '453'
+    comment_author: ASP.NET Developer
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-10-08 04:55:25'
+    comment_date_gmt: '2009-10-08 04:55:25'
+    comment_content: >-
+      Hi,<br />That is nice to see that there is not a major problem installing
+      VS2008 TS on Win7<br />I hesitated to install VS since SQLServer requires
+      a little bit complex installation for Win7
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970534'
+  - comment_id: '454'
+    comment_author: Sam
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-10-11 03:43:43'
+    comment_date_gmt: '2009-10-11 03:43:43'
+    comment_content: >-
+      Well I have VS2008 installed with SP1 on my Windows 7 machine. When I
+      create a new website project, switching to the "design" mode of the page I
+      am working on causes VS to hang. Did anyone else experience this behavior?
+      Please email me if so as I do not check this forum often.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970535'
+  - comment_id: '455'
+    comment_author: Bangon Kali
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-01 20:28:56'
+    comment_date_gmt: '2009-11-01 20:28:56'
+    comment_content: >-
+      Guys, just want to ask. Why am i getting a blue screen halfway during the
+      installation? Mine is Win7_64bit build 7600. I only have 2gb ram, and no
+      dedicated graphics. but the os has been doing fine on normal use. i only
+      get the blue screen of death when i install visual studio 08ts.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970537'
+  - comment_id: '456'
+    comment_author: Carl
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-15 20:14:17'
+    comment_date_gmt: '2009-11-15 20:14:17'
+    comment_content: I cant upgrade my visual studio 2008 under windows 7
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970538'
+  - comment_id: '457'
+    comment_author: Constantin
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-18 06:50:28'
+    comment_date_gmt: '2009-11-18 06:50:28'
+    comment_content: >-
+      Hi!<br /><br />Could anyone tell me what [minimum] edition of Windows 7 is
+      required to install VS2008? And does anyone know what [minimum] Windows 7
+      edition will VS2010 require?<br /><br />Thank you.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970539'
+  - comment_id: '458'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-18 16:13:33'
+    comment_date_gmt: '2009-11-18 16:13:33'
+    comment_content: >-
+      There is not minimum version of Windows! It is more wither your hardware
+      will be fast enough...<br /><br
+      />http://www.microsoft.com/downloads/details.aspx?FamilyID=92c65d2d-0a6b-4507-a4dc-767f4cc6e823&amp;displaylang=en#Requirements
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970541'
+  - comment_id: '459'
+    comment_author: Constantin
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-20 06:31:43'
+    comment_date_gmt: '2009-11-20 06:31:43'
+    comment_content: >-
+      Thanks, Martin. So if Visual Studio 2010 is going to work on any Windows 7
+      edition, I guess it's logical to assume that Visual Studio 2008 doesn't
+      have higher requirements to the version of the OS?<br /><br />Sorry if my
+      questions sound stupid, but I wouldn't want to by Professional or
+      especially Ultimate edition if Home Premium is enough to work with VS. At
+      least because I can find other uses to saved $100. :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970542'
+  - comment_id: '460'
+    comment_author: Ali
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-22 06:00:53'
+    comment_date_gmt: '2009-12-22 06:00:53'
+    comment_content: >-
+      I have visual studio installed on my windows 7 laptop 64bit osp i can run
+      the visual studio fine but when i try to run the visual studio remote
+      debugging monitor i get an error "The following erroe occurred: The Visual
+      Studio Remoto Debugger does not support this edition of windows.<br /><br
+      />view Msvsmons's help for more information"<br /><br />But i have a
+      desktop running windows 7 and this works fine i can run the debugger but
+      not on teh laptop can you help me thank you <br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970543'

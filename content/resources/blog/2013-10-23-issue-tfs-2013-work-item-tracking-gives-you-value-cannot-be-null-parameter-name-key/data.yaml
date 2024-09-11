@@ -1,0 +1,314 @@
+post:
+  title: 'Issue [ TFS 2013 ] Value cannot be null. Parameter name: key'
+  link: >-
+    https://nkdagility.com/blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key/
+  pubDate: Wed, 23 Oct 2013 10:56:25 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10221
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.</p>\r\n<p>I have been onsite at a customer creating a custom processes template and migrating their current data into the new format. Because they make extensive use of Area Path for documentation purposes we could not use it for Team. So I dutifully configured their <a href=\"http://nkdagility.com/team-foundation-server-2012-teams-without-areas/\" target=\"_blank\">TFS for ‘team field’</a> as their client field so that they could create ‘teams’ that represent the work that is done for each client. All looked good for a few hours until the tester tried to edit one of their old work item; 2663.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/10/image_thumb9.png\" width=\"800\" height=\"346\" border=\"0\" />\_<br /><small>Figure: Team Foundation Error: the server operation failed.</small></p>\r\n<p>At first I though that it was just an isolated issue, so I popped an email off to the product team with this odd error and wen back to my other deliverables. Then this error occurred under other circumstances.</p>\r\n<p><a href=\"http://nkdagility.com/wp-content/uploads/2013/10/image32.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/10/image3_thumb.png\" width=\"800\" height=\"546\" border=\"0\" /></a><br /><small>Figure: Value cannot be null. Parameter name: key</small></p>\r\n<p>When one of the team was creating sub tasks of an existing work item using the “Tasks” tab on the PBI or Bug then this is what happened. I was then again able to replicate the issue, but only when creating sub work item’s from an existing one. If I used the Agile Planning Tools and clicked the green plus then it would work, wired. I let the product team know and they decided a remote debugging session would be required…</p>\r\n<p>The first thing that they did, which I did not know was even there, was to do a fiddler like session in Internet Explorer.\_</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/10/image11.png\" width=\"800\" height=\"546\" border=\"0\" /><br /><small>Figure: Network diagnostics with Internet Explorer</small></p>\r\n<p>If you hit F12 to open the developer tools and look for the little router icon on the left. This then has the play/stop that you would expect from a traffic monitor and we can then enable it and try to save the work item. This resulted in a 500 server error and that, if you did not know already, is not a good thing. This immediately made it some sort of bug as that should never be able to happen. However it did and they needed to investigate more…</p>\r\n<p>I gave up control so that could enable some ninja trace capabilities of TFS no I will not be telling you how, and they checked a log of every method enter and every method leave that was recorded as a result. Listening over Lync I overheard a bunch of folks poking at the the event log on my customers server and matching it up to source code I could not see. There was lost of “now we are in this method” and “but there is nothing that can bang there”. At one point the awesome Dennis Habib asked me…</p>\r\n<p>“um… is this team project using Team Field?”</p>\r\n<p>At that point Dennis, Zhenyuan Zhao and Ahmet Akkas, who were scouring the source code, knew exactly what the problem was. As it turns out there is a bugs on the server that effectively assume that you have a value for Team on the work item. Now if you are using the out-of-the-box Area Path for Team then it can never be null and it looks like the code assumed that. But when you use Team Field it can be blank.</p>\r\n<p>There is however an easy fix that can be applied client side to make sure that the field is never null, you can make the field required in the work item definitions. I made the change and the problem was solved.</p>\r\n<p>Obviously there is a server side coding assumption, which is bad, but there is also a UI issue. If you use the Agile Planning tools to create Work Items or child items then it populated the Team that you are currently running as. However if you just open a work item and add a child link, or use the “task” tab it does not. This can be replicated in both the Web and Visual Studio UI and I hope it gets updated to understand the context.</p>\r\n<h2>Conclusion</h2>\r\n<p>If you are using Team Field then you need to make sure that you make the field that you use for it a required field in the work item definition. Don’t make my mistake and end up scratching your and the product teams head trying to figure it out.</p>"
+  - >-
+    <p class="lead">When customising your process template work item tracking
+    gives you an “ArgumentNullException: value cannot be null. Parameter name
+    key” exception with no more details.</p>
+  post_id: '10221'
+  post_date: '2013-10-23 10:56:25'
+  post_date_gmt: '2013-10-23 10:56:25'
+  post_modified: '2013-10-19 20:03:27'
+  post_modified_gmt: '2013-10-19 20:03:27'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '79'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: value cannot be null
+  - meta_key: _yoast_wpseo_title
+    meta_value: 'TFS 2013 Issue - value cannot be null. Parameter name: key'
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      When customising your process template work item tracking gives you an
+      “ArgumentNullException: value cannot be null. Parameter name key”
+      exception with no more details.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1876546375'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: pl-settings
+    meta_value: >-
+      a:2:{s:4:"live";a:1:{s:13:"page-template";s:10:"nakedalmv1";}s:5:"draft";a:1:{s:13:"page-template";s:10:"nakedalmv1";}}
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.net/1aBJzBv
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBJzBv
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474914920;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9911;}i:1;a:1:{s:2:"id";i:97;}i:2;a:1:{s:2:"id";i:10151;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-10-23-issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1251'
+  comment:
+  - comment_id: '2003'
+    comment_author: Joe Dailey
+    comment_author_email: joeathb@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 206.169.203.164
+    comment_date: '2013-10-30 15:06:00'
+    comment_date_gmt: '2013-10-30 15:06:00'
+    comment_content: >-
+      Martin, Thanks for the heads up. Is this new for 2013? I have been running
+      a Team field on 2012 for 5 months with about 800 users and maybe 100,000
+      work items and not have any reported issues. I take it this is an
+      intermittant issue, but it seems like someone would have reported this to
+      me. 
+
+      We really appreciate the informatrion so we can make plans going forward
+      or know what it is when/i it pops up in 2012.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1102280182'
+  - comment_id: '2004'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 208.54.32.226
+    comment_date: '2013-10-30 15:25:00'
+    comment_date_gmt: '2013-10-30 15:25:00'
+    comment_content: >-
+      I would think that you maid the field 'required' and thus avoided the
+      issue :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2003'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1102280182'
+    - meta_key: dsq_post_id
+      meta_value: '1102303065'
+  - comment_id: '2007'
+    comment_author: Joe Dailey
+    comment_author_email: joeathb@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 108.0.46.244
+    comment_date: '2013-11-01 02:16:00'
+    comment_date_gmt: '2013-11-01 02:16:00'
+    comment_content: >-
+      Not yet, Sometimes we do not know what team to assign the work to until it
+      comes up for planning. If needed in 2013 we can make this field required
+      and default it to a common team name such as a team name called "
+      Backlog".
+
+      Again thanks for the heads up.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2004'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1102303065'
+    - meta_key: dsq_post_id
+      meta_value: '1104426794'
+  - comment_id: '2146'
+    comment_author: Jan
+    comment_author_email: jan-willem@overbeek.info
+    comment_author_url: ''
+    comment_author_IP: 145.4.196.250
+    comment_date: '2014-03-05 11:27:00'
+    comment_date_gmt: '2014-03-05 11:27:00'
+    comment_content: >-
+      Martin, I see how your workaround would work for new work items, but how
+      would you initialize the team field for existing work items (around
+      100.000) ? Regards, Jan.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1271120767'
+  - comment_id: '2149'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.202
+    comment_date: '2014-03-05 13:29:00'
+    comment_date_gmt: '2014-03-05 13:29:00'
+    comment_content: >-
+      Open in Excel and bulk update that field :)
+      http://msdn.microsoft.com/en-us/library/ms181675.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2146'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1271120767'
+    - meta_key: dsq_post_id
+      meta_value: '1271213618'
+  - comment_id: '2150'
+    comment_author: Jan
+    comment_author_email: jan-willem@overbeek.info
+    comment_author_url: ''
+    comment_author_IP: 145.4.196.250
+    comment_date: '2014-03-05 13:55:00'
+    comment_date_gmt: '2014-03-05 13:55:00'
+    comment_content: >-
+      Tried that, but it doesn't seem to work. No errors occur when you publish
+      back the work items to TFS from Excel, but the Team field just stays
+      empty. The same thing happens when I try to update the Team field from
+      code (with the TFS object model). 
+
+      The only way I've been able to set the value so far is by creating a new
+      work item and setting the value in the work item form. Once the field has
+      a value, I can change it using the API (and I presume with Excel too,
+      haven't tried that yet).
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2149'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1271213618'
+    - meta_key: dsq_post_id
+      meta_value: '1271239424'
+  - comment_id: '2151'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.202
+    comment_date: '2014-03-05 13:59:00'
+    comment_date_gmt: '2014-03-05 13:59:00'
+    comment_content: >-
+      Jan, That feature does work and is how I update 'team field' the first
+      time. There mush be some other issue that is blocking the update. Did you
+      add any special rules around that field? Like 'can only be changed when
+      XXX'...?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2150'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1271239424'
+    - meta_key: dsq_post_id
+      meta_value: '1271243523'
+  - comment_id: '2152'
+    comment_author: Jan
+    comment_author_email: jan-willem@overbeek.info
+    comment_author_url: ''
+    comment_author_IP: 84.105.57.31
+    comment_date: '2014-03-05 16:03:00'
+    comment_date_gmt: '2014-03-05 16:03:00'
+    comment_content: >-
+      It turns out that I can indeed set the Team field from Excel (and from
+      code) but ONLY if I set it to a value that is not the default value for
+      the field (in my case, 'Unassigned'). Probably some sort of optimization
+      in TFS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2151'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1271243523'
+    - meta_key: dsq_post_id
+      meta_value: '1271399884'
+  - comment_id: '2165'
+    comment_author: Slartibartfast
+    comment_author_email: tbergstedt@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 83.241.219.114
+    comment_date: '2014-03-13 08:03:00'
+    comment_date_gmt: '2014-03-13 08:03:00'
+    comment_content: >-
+      Thanks for this post. I solved the problem by giving the Team Field a
+      default value, for example for Code Reviews (where all fields are readonly
+      in the work item definition)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1282528746'
+  - comment_id: '2216'
+    comment_author: Jon Stalnaker
+    comment_author_email: jon.stalnaker@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 173.219.93.170
+    comment_date: '2014-04-11 12:43:00'
+    comment_date_gmt: '2014-04-11 11:43:00'
+    comment_content: >-
+      I'm having trouble with Code Reviews in 2013.  I tried giving a default
+      value but still am unsuccessful.
+
+
+        
+          
+        
+        
+        
+        Name of the team that will do the work.
+
+
+
+
+      Any tips?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2165'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1282528746'
+    - meta_key: dsq_post_id
+      meta_value: '1331662529'

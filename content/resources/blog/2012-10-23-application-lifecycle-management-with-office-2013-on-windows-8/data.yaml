@@ -1,0 +1,260 @@
+post:
+  title: Application lifecycle management with Office 2013 on Windows 8
+  link: >-
+    https://nkdagility.com/blog/application-lifecycle-management-with-office-2013-on-windows-8/
+  pubDate: Tue, 23 Oct 2012 03:13:28 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=8967
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">Because of the compatibility with ARM and the new Windows 8
+    touchscreen experience you would imagine that Office has undergone a rather
+    complete overall and you would be right. With Office 2013 you get a fully
+    touch capable immersive experience that is designed to work well on both the
+    Tablet and the Desktop.</p>
+
+    <p>Indeed Office 2013 is the first and only application that is certified to
+    work on both the ARM desktop &amp; the PC Desktop.</p>
+
+    <p>I have been using the Technology preview for quite some time and I have
+    found it to be both stable and much more useful. You can’t really put you
+    finger on it, it is just… better…</p>
+
+    <p>While not usually though of as part of your Application Lifecycle
+    Management (ALM) tooling in any modern application lifecycle it is
+    essential.</p>
+
+    <h3>New things I like about Office 2013</h3>
+
+    <p>Its the little things that I like. All those little touches go to improve
+    the whole like no large features can. I guess they have taken this
+    opportunity to improve some of the underlying engine parts. Like some of the
+    improvements in Windows 8, they are fundamental…</p>
+
+    <ul>
+
+    <li><strong>Typing</strong> – There is an awesome thing that happens when
+    you are typing that you only see when you yourself are typing. Watching or
+    explaining does not enable the understanding… only using does…</li>
+
+    <li><strong>Less freezing</strong> – While there is still a few areas that
+    suffer from freezing, I am looking at you Outlook, there has been an overall
+    improvement. Almost as if the Office team finally got time to read up on
+    threading and asynchronous programming…</li>
+
+    <li></li>
+
+    </ul>
+
+    <h3>The Install Experience</h3>
+
+    <p>If you have Office 2013 Preview you will need to completely uninstall
+    this first. If you “Start | ‘Unin’ | Settings | Uninstall a program” you
+    should be able to put “2013” or “preview” into the search bar and complete
+    the removal. And once you have it removed…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/10/image42.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="Treated to the Office
+    2013 into video" alt="Treated to the Office 2013 into video"
+    src="http://blog.hinshelwood.com/files/2012/10/image_thumb16.png"
+    width="640" height="358" border="0" /></a><br /><strong>Figure: Treated to
+    the Office 2013 into video</strong></p>
+
+    <p>As usual there are tones of new things that you can do with Office 2013,
+    no least of which is the <a
+    href="http://blog.hinshelwood.com/allow-user-to-change-the-region-for-windows-live-id-billing/"
+    target="_blank">ability to log in with your Microsoft ID</a> and have all of
+    your SkyDrive data at the tip of your fingers.</p>
+
+    <p>There are no install options and instead after the video you are just
+    “done”. This is fine with me, and I think most people as everyone I know
+    takes the default. Unless you were pushed for space, and lets face it, who
+    is these days, then I just want to install everything anyway.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/10/image43.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="You are good to go
+    with Office 2013" alt="You are good to go with Office 2013"
+    src="http://blog.hinshelwood.com/files/2012/10/image_thumb17.png"
+    width="640" height="400" border="0" /></a><br /><strong>Figure: You are good
+    to go with Office 2013</strong></p>
+
+    <p>The install is so ridiculously easy that not a single person can get it
+    wrong…</p>
+
+    <h3>Why PowerPoint 2013 is an ALM tool</h3>
+
+    <p>You would not immediately consider PowerPoint 2013 to be an ALM tool, but
+    it is, and a darn good one. You can easily mock up interactions or
+    storyboards and use animations to express to either your Stakeholders or to
+    your Development Team exactly what it is that you are trying to make.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/10/image44.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="StoryBoarding with
+    PowerPoint 2013" alt="StoryBoarding with PowerPoint 2013"
+    src="http://blog.hinshelwood.com/files/2012/10/image_thumb18.png"
+    width="640" height="400" border="0" /></a><br /><strong>Figure:
+    Storyboarding with PowerPoint 2013</strong></p>
+
+    <p>This is an invaluable tool in your arsenal and if you have access to at
+    least the Microsoft Test Professional SKU for Visual Studio 2012 you can
+    access additional tools to help you make your story boards awesome.</p>
+
+    <p>Installing the tools (available in Visual Studio 2012 Test Professional ,
+    Visual Studio 2012 Premium and Visual Studio 2012 Ultimate) give you access
+    to many development Storyboarding Shapes and adds the ability to connect
+    your Storyboarding to work items in TFS.</p>
+
+    <h3>Why Excel 2013 is an ALM tool</h3>
+
+    <p>Team Foundation Server seamlessly integrates its operational store with
+    Excel and this is the tool of choice when you are either bulk editing your
+    work items, or if you are creating reports against the Data Warehouse and
+    Cube. While the new web UI in Visual Studio 2012 is awesome, nothing can
+    compete with the graphing, editing, functions and reporting that you can do
+    right out of the box.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/10/image45.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="Access your TFS
+    operational store from within Excel 2013" alt="Access your TFS operational
+    store from within Excel 2013"
+    src="http://blog.hinshelwood.com/files/2012/10/image_thumb19.png"
+    width="640" height="400" border="0" /></a><br /><strong>Figure: Access your
+    TFS operational store from within Excel 2013</strong></p>
+
+    <p>This makes Excel 2013 a premier reporting and data manipulation tool in
+    the ALM space.</p>
+
+    <h3>Conclusion</h3>
+
+    <p>The new Office 2013 gives us the same awesome tool is a slicker faster
+    package and there is no way that I will be complaining about that…</p>
+  - >-
+    <p class="lead">Because of the compatibility with ARM and the new Windows 8
+    touchscreen experience you would imagine that Office has undergone a rather
+    complete overall and you would be right. With Office 2013 you get a fully
+    touch capable immersive experience that is designed to work well on both the
+    Tablet and the Desktop.</p>
+  post_id: '8967'
+  post_date: '2012-10-22 20:13:28'
+  post_date_gmt: '2012-10-23 03:13:28'
+  post_modified: '2012-10-22 20:13:28'
+  post_modified_gmt: '2012-10-23 03:13:28'
+  comment_status: open
+  ping_status: open
+  post_name: application-lifecycle-management-with-office-2013-on-windows-8
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '91'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: office 2013
+  - meta_key: _yoast_wpseo_title
+    meta_value: Application lifecycle management with Office 2013 on Windows 8
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Office 2013 is the ultimate application lifecycle management tool when
+      combined with Team Foundation Server. Use Office 2013 to energise your
+      modern application lifecycle
+  - meta_key: _thumbnail_id
+    meta_value: '6286'
+  - meta_key: dsq_thread_id
+    meta_value: '898447160'
+  - meta_key: calltoaction_text
+    meta_value: >-
+      Do you use Office to support your Application Lifecycle Management
+      initiative? No? Let us help you leverage the benefits and contact %mailto%
+      today…
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6Vm83
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1471401945;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10482;}i:1;a:1:{s:2:"id";i:6306;}i:2;a:1:{s:2:"id";i:10372;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-10-22-application-lifecycle-management-with-office-2013-on-windows-8.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '983'
+  comment:
+  - comment_id: '1431'
+    comment_author: >-
+      Application lifecycle management with Office 2013 on Windows 8 | Visual
+      Studio ALM | Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/3087866384/application-lifecycle-management-with-office-2013-on-windows-8
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-10-25 00:58:51'
+    comment_date_gmt: '2012-10-25 07:58:51'
+    comment_content: >-
+      [...] Office 2013 is the ultimate application lifecycle management tool
+      when combined with Team Foundation Server.&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351151931.06";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351182037.15";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1432'
+    comment_author: Visual Studio ALM Links week 43/2012
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.codewrecks.com/blog/index.php/2012/10/26/visual-studio-alm-links-week-432012/
+    comment_author_IP: 173.248.132.35
+    comment_date: '2012-10-26 14:51:24'
+    comment_date_gmt: '2012-10-26 21:51:24'
+    comment_content: '[...] Application Lifecycle management with Office 2013 on Windows 8 [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351288748.02";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

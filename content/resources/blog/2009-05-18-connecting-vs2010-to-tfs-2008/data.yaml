@@ -1,0 +1,181 @@
+post:
+  title: Connecting VS2010 to TFS 2008
+  link: https://nkdagility.com/blog/connecting-vs2010-to-tfs-2008/
+  pubDate: Mon, 18 May 2009 16:40:56 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/05/18/connecting-vs2010-to-tfs-2008.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><img style=\"border-bottom: 0px;border-left: 0px;margin-left: 0px;border-top: 0px;margin-right: 0px;border-right: 0px\" border=\"0\" alt=\"VS-TS_rgb_thumb[2][5][5][5]\" align=\"right\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2010toTFS2008_EA90-VSTS_rgb_thumb2555.png\" width=\"240\" height=\"136\" />Connecting Visual Studio 2010 to Team Foundation Server 2008 is a snitch… If you have done it from VS200x to TFS200x then you will have no problems understanding what is going on…</p>  <p><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image_thumb2\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2010toTFS2008_EA90-image_thumb2_5c0e8bfd-4895-48ce-a4f4-72b6fef7c3cc.png\" width=\"504\" height=\"404\" /> </p>  <p>Unlike previous versions of Team Suit there is not need to install Team Explorer separately as it comes preinstalled.</p>  <p><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image_thumb3\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2010toTFS2008_EA90-image_thumb3_2dc7b38c-2e25-42a0-8ab9-de3c1163fdd3.png\" width=\"504\" height=\"394\" /> </p>  <p>As you can see, when connecting to a TFS 2008 server you can see a single Team Projects collection called “Legacy server”, and a list of your projects. For more information about Project Collections try <a href=\"http://blogs.msdn.com/bharry/archive/2009/04/19/team-foundation-server-2010-key-concepts.aspx\" target=\"_blank\">Brian Harry’s blog</a>. Once Connected you have all the usual suspects, but just a little prettier…</p>  <p><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image_thumb6\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2010toTFS2008_EA90-image_thumb6_049a72cf-2fff-4948-b044-c10053dfc8ce.png\" width=\"504\" height=\"323\" /> </p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS+Admin\" rel=\"tag\">TFS Admin</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_<a href=\"http://technorati.com/tags/TFS+2008\" rel=\"tag\">TFS 2008</a>\_</div>"
+  - ''
+  post_id: '118'
+  post_date: '2009-05-18 16:40:56'
+  post_date_gmt: '2009-05-18 16:40:56'
+  post_modified: '2009-05-18 16:40:56'
+  post_modified_gmt: '2009-05-18 16:40:56'
+  comment_status: open
+  ping_status: open
+  post_name: connecting-vs2010-to-tfs-2008
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602217'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLbqOg
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474420453;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:83;}i:1;a:1:{s:2:"id";i:5702;}i:2;a:1:{s:2:"id";i:23;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-05-18-connecting-vs2010-to-tfs-2008.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '356'
+  comment:
+  - comment_id: '536'
+    comment_author: TeunSegers
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-13 08:04:48'
+    comment_date_gmt: '2009-08-13 08:04:48'
+    comment_content: >-
+      In my install of VS2010 Beta1 there are no course control plug-ins (ref.
+      Options menu). Hence I do not have the tool menu items you show in your
+      screenshots.<br /><br />I used the ISO provided by microsoft, on a Vista
+      machine.<br /><br />Do I just install the TFS2008 client software? Because
+      that sounds like a compatibility nightmare waiting to happen.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970317'
+  - comment_id: '537'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-13 16:01:45'
+    comment_date_gmt: '2009-08-13 16:01:45'
+    comment_content: >-
+      You need to install Visual Studio 2010 Team Suit to get TFS integratrion
+      with beta 1
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970318'
+  - comment_id: '538'
+    comment_author: shawn
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-12 22:33:06'
+    comment_date_gmt: '2010-02-12 22:33:06'
+    comment_content: >-
+      This may be an obvious issue to some, but how do I get TFS builds to
+      compile .Net Framework 4.0 assemblies? <br />Is it as simple as installing
+      .Net Framework 4.0 on the TFS build server??
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970319'
+  - comment_id: '539'
+    comment_author: Sunita
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-05 13:07:37'
+    comment_date_gmt: '2010-04-05 13:07:37'
+    comment_content: >-
+      I can connect to TFS from my vs2010. but the team explorer is blank. In
+      source controller , all the project list appears. <br />Can anyone suggest
+      how can i have all the items in team explorer.<br /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970321'
+  - comment_id: '540'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-07 19:04:13'
+    comment_date_gmt: '2010-04-07 19:04:13'
+    comment_content: >-
+      You need to select the "Add Projects" button at the top of the Team
+      Explorer and select the projects you want to see.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970323'
+  - comment_id: '541'
+    comment_author: Scott Rudy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-14 03:04:29'
+    comment_date_gmt: '2010-04-14 03:04:29'
+    comment_content: >-
+      I am having the same issue with team explorer being blank. It seems there
+      is a problem when you are not an admin.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970324'

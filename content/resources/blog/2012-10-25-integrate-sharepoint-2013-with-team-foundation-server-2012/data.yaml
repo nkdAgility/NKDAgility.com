@@ -1,0 +1,2243 @@
+post:
+  title: Integrate SharePoint 2013 with Team Foundation Server 2012
+  link: >-
+    https://nkdagility.com/blog/integrate-sharepoint-2013-with-team-foundation-server-2012/
+  pubDate: Thu, 25 Oct 2012 16:30:21 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=8998
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Now that SharePoint 2013 is out I want to make sure that I can integrate SharePoint 2013 with Team Foundation Server 2012 without any trouble. I and some of my customers have been holding off on deploying SharePoint; waiting for this release.</p>\n<p>I previously posted on <a href=\"http://blog.hinshelwood.com/integrate-sharepoint-2010-with-team-foundation-server-2010/\" target=\"_blank\">Integrating SharePoint 2010 with Team Foundation Server 2010</a> as it became available after the Team Foundation Server 2010 launch and now we are in the same position for SharePoint 2013. So what do you need to do to configure this integration… well not much. If you get the chance to install SharePoint 2013 first the Team Foundation Server 2012 installer will install and configure everything for you. So the only time you need to do this manually is if you are adding SharePoint 2013 to the mix post deployment.</p>\n<ul>\n<li><span class=\"label label-info\">Related</span> <a href=\"http://nkdagility.com/integrate-sharepoint-2013-with-team-foundation-server-2013/\">Integrating SharePoint 2013 with Team Foundation Server 2013</a></li>\n<li><span class=\"label label-info\">Related</span> <a href=\"http://blog.hinshelwood.com/integrate-sharepoint-2010-with-team-foundation-server-2010/\" target=\"_blank\">Integrating SharePoint 2010 with Team Foundation Server 2010</a></li>\n</ul>\n<p>So lets be about it…</p>\n<h3 class=\"icon-task\">Run all Windows Updates before installing SharePoint 2013</h3>\n<p>Remember that this box already has <a href=\"http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/\" target=\"_blank\">Windows Server 2012, SQL Server 2012 &amp; Team Foundation Server 2012</a> as I previously posted about and where I found that SharePoint 2010 is not and would never be supported on Windows Server 2012. Now we can have SharePoint…</p>\n<p>Installing updates are the one key step that will prevent tantrums from SharePoint and hair pulling from you. Always, and I do mean always, install of the required updates and ideally the optional ones too. And not just for Windows.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image46.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Run all Microsoft &amp; Windows Updates before installing SharePoint 2013\" alt=\"Run all Microsoft &amp; Windows Updates before installing SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb20.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Run all Microsoft &amp; Windows Updates before installing SharePoint 2013</strong></p>\n<p>Make sure that you are using “Microsoft Update” so that you get updates for other Microsoft products as well. Otherwise it will miss that Visual Studio or SQL Server service pack that you need. This may take a while, so get a cup of tea.</p>\n<p><span class=\"label label-info\">Note:</span> I follow Microsoft internal policy and have all updates automatically installed at 3am with an auto-reboot. It just gets things done and no one forgets.</p>\n<h3 class=\"icon-task\">Install SharePoint 2013</h3>\n<p>They have really slicked up the installation process for SharePoint, but you may open the ISO and think that running setup would be a good idea! You would be wrong…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image47.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Don’t run setup for SharePoint 2013 from the ISO\" alt=\"Don’t run setup for SharePoint 2013 from the ISO\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb21.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Don’t run setup for SharePoint 2013 from the ISO</strong></p>\n<p>Instead use the auto-run that comes from running the CD directly, or you can just run the “prerequisiteinstaller” from the root first.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image48.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Install the prerequisite for SharePoint 2013\" alt=\"Install the prerequisite for SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb22.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Install the prerequisite for SharePoint 2013</strong></p>\n<p>Once the prerequisites are complete you can start the installation proper and enter your key and accept the licence agreement. That's the simple stuff, now for the hard questions….</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image49.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"A complete install is the only option for SharePoint 2013\" alt=\"A complete install is the only option for SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb23.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: A complete install is the only option for SharePoint 2013</strong></p>\n<p>This is really the make or break fork… if you get this wrong you will be next completing an uninstall to pick the right option. See the red above? Avoid express at all costs and in this case we already have Team Foundation Server 2012 installed and\_ we already have SQL Server 2012 installed.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image50.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Run the Configuration Wizard for SharePoint 2013\" alt=\"Run the Configuration Wizard for SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb24.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Run the Configuration Wizard for SharePoint 2013</strong></p>\n<p>The configuration wizard will lead you through the custom config but if like me you are running on a local computer with no domain, like me, then you will have to run a command line to generate the database before you proceed. Follow <a href=\"http://blog.hinshelwood.com/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account/\" target=\"_blank\">Issue SharePoint 2013: The username is invalid. The account must be a valid domain account</a> and you will be up and running in no time.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image51.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Do not disconnect from the SharePoint 2013 farm\" alt=\"Do not disconnect from the SharePoint 2013 farm\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb25.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Do not disconnect from the SharePoint 2013 farm</strong></p>\n<p>Now that we have a farm we can complete the configuration. Just work though the wizard as you please, although you are on your own if you select kerberos… you know who you are…</p>\n<p>SharePoint 2013 will then run though its 9 configuration steps and give you a functional, but blank SharePoint environment. At the end you get a simple Finish button and some instructions that you need to follow for getting your site to render in a browser.</p>\n<p><span class=\"label label-info\">Note:</span> SharePoint now works just fine in Chrome and other non Microsoft browsers… woot!</p>\n<p>Now that we have configured SharePoint 2013 we need to…erm… configure it? Again?</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image52.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb26.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Yes please don’t make me configure everything myself!</strong></p>\n<p>At this point you get circa 20 services that you can chose to install or not. If you leave them all ticked then you will get about 10 new databases in SQL, but I always do leave them checked… Call me lazy but its too hard to figure out what the dependencies are and what you need and I really don’t want to configure anything later…if this was an enterprise deployment I would take more care but…</p>\n<blockquote>\n<p>Can we please get a better description for the services? Maybe with a nice link to what they are, what you get and what you don’t if you choose not to install/configure it. A description of “Performs automated machine translation” is just not good enough for the “Machine Translation Service”. WTF!<br /><strong>-Suggestion to SharePoint Product Team</strong></p>\n</blockquote>\n<p>One you have chosen your fate you need to wait again while a little spinner does a little dance for you… no really… they are “Working on it…” and it “Shouldn’t take long” at all…</p>\n<p>…mmm tea….</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image53.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Phooey… Errors in my SharePoint 2013 farm\" alt=\"Phooey… Errors in my SharePoint 2013 farm\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb27.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Phooey… Errors in my SharePoint 2013 farm</strong></p>\n<p>If you are unlucky like me you may have some errors to deal with, but for me, I forced a non domain account so I am only mildly irritated…and to be honest… I don’t really care for the purpose I am here for… I less I get more kablouie’s…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image54.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Configure a root site and you are done\" alt=\"Configure a root site and you are done\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb28.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Configure a root site and you are done</strong></p>\n<p>At this point we can view our root site, but that is about it.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image55.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"New SharePoint 2013 Team Site\" alt=\"New SharePoint 2013 Team Site\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb29.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: New SharePoint 2013 Team Site</strong></p>\n<p>And a nice site it is… but that's for another day..</p>\n<h3 class=\"icon-task\">Configure Extensions for SharePoint Products</h3>\n<p>Now that we have SharePoint 2013 all configured we need to do two things. The first is to install and configure the Extensions for SharePoint Products so that SharePoint 2013 knows all about TFS 2012. If you have installed SharePoint on a separate server you will need to install the “Extensions for SharePoint Products” that are on the Visual Studio 2012 Team Foundation Server ISO, but if you have a single server environment like me it is all already there.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image56.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Configure Extensions for SharePoint Products\" alt=\"Configure Extensions for SharePoint Products\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb30.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Configure Extensions for SharePoint Products</strong></p>\n<p>Lets first launch the wizard and walk through the process.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image57.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"SharePoint Extensions Configuration Wizard\" alt=\"SharePoint Extensions Configuration Wizard\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb31.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: SharePoint Extensions Configuration Wizard</strong></p>\n<p>The wizard will lead you through the complicated and arduous list of steps… um… oh… only one step then <img class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2012/10/wlEmoticon-smile1.png\" /></p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image58.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb32.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Oh FFS a TF255466. I require a reboot</strong></p>\n<p>I will be right back…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image59.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"If the verification of the SharePoint configuration passes then configuration should work\" alt=\"If the verification of the SharePoint configuration passes then configuration should work\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb33.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: If the verification of the SharePoint configuration passes then configuration should work</strong></p>\n<p>Now the extending and configuring processes can be long and will add solution into SharePoint. We already have the API’s for TFS by virtue of the install, but now we have the custom site and bits we need.</p>\n<p>There will be a site template added but as it will likely look… well… nasty in the nice new SharePoint 2013 interface we will need to create the site manually.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image60.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Configuration completed successfully\" alt=\"Configuration completed successfully\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb34.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Configuration completed successfully</strong></p>\n<p>Now that the SharePoint bits have been setup we will have a default link setup between SharePoint and Team Foundation Server. Although if we had a separate Team Foundation Server instance we would need to tell it where the TFS server is.</p>\n<p><span class=\"label label-info\">Note: </span>You will also require to install the Extensions for SharePoint Products on every front end server for your SharePoint farm.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image61.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Default mapping has been configured\" alt=\"Default mapping has been configured\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb35.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Default mapping has been configured</strong></p>\n<h3 class=\"icon-task\">Configure SharePoint Web Applications in Team Foundation Server 2012</h3>\n<p>Now we have installed and configured the bits for SharePoint as well as telling it where the TFS server is we now need to tell TFS where to go.</p>\n<p>Again… as this is a single server this has been done for you (I love the TFS Product Team).</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image62.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb36.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Configure SharePoint Web Applications</strong></p>\n<p>You may have noticed that there is no account listed as an administrator! As I am lazy and I am using the BuiltinAdministrator user as both the TFS Service Account and the SharePoint Farm Admin you don’t need one.</p>\n<p>And that's almost us done! But not quite complete… SharePoint knows all bout TFS and TFS now knows all about SharePoint so we can now create some sites…</p>\n<h3 class=\"icon-task\">Configure Collection Site</h3>\n<p>In order to have different sites for different collection and enable the ability to have the same Team Project name in multiple collection then you need to create a root collection site under the main site. Some folks like to create this at the ^/sites/[collection] level, but I always create the collection site as a sub site of the root. This have the benefit of creating automatic navigation between the sites…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image63.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Configure the TFS Collection default SharePoint site\" alt=\"Configure the TFS Collection default SharePoint site\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb37.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Configure the TFS Collection default SharePoint site</strong></p>\n<p>This is also the final test as when you click OK the Admin Console will go off and try to hook into, or create a site for us. if you do want to have a greater degree of separation between the sites and have them in different collections you can indeed do that as well. You may want to do that if you are planning to separate collection to multiple environments, but I can think of very few reasons that you would want to do that.</p>\n<h3 class=\"icon-task\">Create a new Team Project Site</h3>\n<p>If we create a new team project the template from the Process Template that you selected will be used to create the new site. These templates are designed to work in any version of SharePoint but they may look… well… nasty in 2013.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image64.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"I have one Team Project called “Demo1”\" alt=\"I have one Team Project called “Demo1”\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb38.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: I have one Team Project called “Demo1”</strong></p>\n<p>This team project was created before there was ever a SharePoint server so it has no portal. Lets go ahead and create one manually.</p>\n<p>They have moved things around a little in SharePoint and we now create new sub sites from the “View Content” menu.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image65.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Create new sub site from the Site Content page in SharePoint 2013\" alt=\"Create new sub site from the Site Content page in SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb39.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Create new sub site from the Site Content page in SharePoint 2013</strong></p>\n<p>This, while much more hidden is really not something you do every day. You are much more likely to be adding apps to an existing site so having this more clicks away is not a big deal.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image66.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Team Foundation Project Portal for SharePoint 2013\" alt=\"Team Foundation Project Portal for SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb40.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Team Foundation Project Portal for SharePoint 2013</strong></p>\n<p>When we care the new site we have two options. We can create it using the provided “Team Foundation Project Portal” bit it results in a slightly ugly site, or you can use the default “Team Site” template to get a more native 2013 feel.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image67.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"The Team Foundation Project Portal is a little empty\" alt=\"The Team Foundation Project Portal is a little empty\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb41.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: The Team Foundation Project Portal is a little empty</strong></p>\n<p>This is due to the features not yet being enables… so head on over to “cog | Site Settings | Site Actions | Manage site features” to enable them.</p>\n<p>You can enable one of:</p>\n<ul>\n<li><strong>Agile Dashboards with Excel Reporting</strong> – for the MSF for Agile Software Development 6.x Process Template</li>\n<li><strong>CMMI Dashboards with Excel Reports</strong> – for the MSF for CMMI Software Development 6.x Process Template</li>\n<li><strong>Scrum Dashboards with Reporting</strong> – for the Visual Studio Scrum 2.x<span class=\"label label-important\">Recommended</span> Process Template</li>\n</ul>\n<p>The one you pick depends on the Process Template that you used to create the Team Project. I will activate the Scrum one as I used the Visual Studio Scrum 2.0<span class=\"label label-important\">Recommended</span> Process Template which I heartily recommend. You will have noticed that here are 2 or 3 for each of the “Agile | SMMI | Scrum” monikers and this is due to the different capabilities that you might have. For example:</p>\n<ul>\n<li><strong>Agile Dashboards</strong> – I have TFS with no Reporting Services or Analysis Services</li>\n<li><strong>Agile Dashboards with Basic Reporting</strong> – I have Reporting Services and Analysis Services but not SharePoint Enterprise</li>\n<li><strong>Agile Dashboards with Excel Reporting</strong> – I have Everything! Reporting Services, Analysis Services and SharePoint Enterprise</li>\n</ul>\n<p>If you enable the highest level of the one you want it will figure out the one that you can run <img class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2012/10/wlEmoticon-smile1.png\" /> and in this case I can do “Scrum Dashboards with Reporting”.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image68.png\"><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"Enabling Scrum Dashboards with Reporting in SharePoint 2013\" alt=\"Enabling Scrum Dashboards with Reporting in SharePoint 2013\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb42.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: Enabling Scrum Dashboards with Reporting in SharePoint 2013</strong></p>\n<p>The Scrum template does not have any built in Excel Reports, but it does have Reporting Services reports. Now when I return to the homepage I get the same/similar portal you would have seen in SharePoint 2010.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/10/image69.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2012/10/image_thumb43.png\" width=\"640\" height=\"400\" border=\"0\" /></a><br /><strong>Figure: The Scrum Dashboard in SharePoint 2013</strong></p>\n<h3 class=\"icon-conclusion\">Conclusion</h3>\n<p>And that's us done… we have installed and configured SharePoint 2013. We have integrated SharePoint 2013 with Team Foundation Server 2012 and we have manually created our Team Project Portal site.</p>\n<p><span class=\"label label-info\">Note: </span>If you create a new Team Project the SharePoint 2013 portal will be created for you and pre-actived.</p>\n<p>Awesome… go forth and 2013!</p>"
+  - >-
+    <p class="lead">Now that SharePoint 2013 is out I want to make sure that I
+    can integrate SharePoint 2013 with Team Foundation Server 2012 without any
+    trouble. I and some of my customers have been holding off on deploying
+    SharePoint; waiting for this release.</p>
+  post_id: '8998'
+  post_date: '2012-10-25 09:30:21'
+  post_date_gmt: '2012-10-25 16:30:21'
+  post_modified: '2012-10-25 09:30:21'
+  post_modified_gmt: '2012-10-25 16:30:21'
+  comment_status: open
+  ping_status: open
+  post_name: integrate-sharepoint-2013-with-team-foundation-server-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '89'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: sharepoint 2013
+  - meta_key: _yoast_wpseo_title
+    meta_value: Integrate SharePoint 2013 with Team Foundation Server 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      You can integrate SharePoint 2013 with Team Foundation Server 2012 to
+      store documents and leverage Excel Services for reporting and dashboards.
+  - meta_key: dsq_thread_id
+    meta_value: '899450455'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"none";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBGnFQ
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474917532;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9916;}i:1;a:1:{s:2:"id";i:44;}i:2;a:1:{s:2:"id";i:9075;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-10-25-integrate-sharepoint-2013-with-team-foundation-server-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '2118'
+  comment:
+  - comment_id: '1433'
+    comment_author: Steven Borg
+    comment_author_email: steven.borg@nwcadence.com
+    comment_author_url: http://www.nwcadence.com
+    comment_author_IP: 63.231.17.124
+    comment_date: '2012-10-25 11:31:00'
+    comment_date_gmt: '2012-10-25 18:31:00'
+    comment_content: "Sweet! \_Nice post! \_This is going to be another key post for people doing TFS 2012 installs. \_Thanks, Martin!"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '692278595'
+  - comment_id: '1434'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.231.17.124
+    comment_date: '2012-10-25 11:43:00'
+    comment_date_gmt: '2012-10-25 18:43:00'
+    comment_content: "Please let me know if you find any issues. This was done originally in a lab\_environment\_so if you have issues I will add them to the post"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1433'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '692278595'
+    - meta_key: dsq_post_id
+      meta_value: '692286584'
+  - comment_id: '1435'
+    comment_author: timothystewart6
+    comment_author_email: timothystewart6@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 146.217.200.214
+    comment_date: '2012-10-25 12:13:00'
+    comment_date_gmt: '2012-10-25 19:13:00'
+    comment_content: >-
+      Great follow up to the TFS 2012 post!  I followed that one to install and
+      configure it, now I can follow this one to add SharePoint to my TFS 2012
+      install.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '692309141'
+  - comment_id: '1436'
+    comment_author: Integrate SharePoint 2010 with Team Foundation Server 2010
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/integrate-sharepoint-2010-with-team-foundation-server-2010/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-10-26 09:28:07'
+    comment_date_gmt: '2012-10-26 16:28:07'
+    comment_content: >-
+      [...] Update 25th September 2012 -&nbsp;Superseded&nbsp;by&nbsp;Integrate
+      SharePoint 2013 with Team Foundation Server 2012 [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351268887.53";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351283463.37";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1437'
+    comment_author: >-
+      Integrate SharePoint 2013 with Team Foundation Server 2012 | SharePoint
+      Solutions | Scoop.it
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-10-27 07:24:37'
+    comment_date_gmt: '2012-10-27 06:24:37'
+    comment_content: >-
+      [...] You can integrate SharePoint 2013 with Team Foundation Server 2012
+      to store documents and leverage Excel Services for reporting and
+      dashboards.&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351347877.29";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1351355098.6";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1438'
+    comment_author: >-
+      Integrate SharePoint 2013 with Team Foundation Server 2012 | Visual Studio
+      ALM | Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/3255631234/integrate-sharepoint-2013-with-team-foundation-server-2012
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-11-08 10:22:00'
+    comment_date_gmt: '2012-11-08 18:22:00'
+    comment_content: >-
+      [...] Now that SharePoint 2013 is out I want to make sure that I can
+      integrate SharePoint 2013 with Team Foundation Server 2012 without any
+      trouble. I and some of my customers have been holding off on deploying
+      SharePoint; waiting for this release. &nbsp; Read more on Martin&#039;s
+      blog.&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1352398920.9";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352419307.57";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1439'
+    comment_author: Pieter Jong
+    comment_author_email: de_man_pieter@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 84.107.137.117
+    comment_date: '2012-11-15 02:46:00'
+    comment_date_gmt: '2012-11-15 10:46:00'
+    comment_content: >-
+      Hi, maybe you can help me out, have tried following your guide but ended
+      up not being able to integrate TFS with SharePoint. Getting the following
+      error.
+
+
+      TF255329: The following site could not be accessed:
+      http://sharepoint.mydomainname.com:8088/. The server that you specified
+      did not return the expected response. Either you have not installed the
+      Team Foundation Server Extensions for SharePoint Products on this server,
+      or a firewall is blocking access to the specified site or the SharePoint
+      Central Administration Site. For more information, see the Microsoft Web
+      site (http://go.microsoft.com/fwlink/?LinkId=254457).
+
+
+      I have done a clean Windows Server 2012 install, upgraded my TFS server
+      from 2010 to 2012 (by installing on this new server), then installed
+      SharePoint, but now getting this error. Also when trying to install the
+      TFS Extensions for SharePoint, getting the error saying that I do not have
+      to install it on the same server as where TFS is installed.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '710825777'
+  - comment_id: '1440'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 173.165.174.161
+    comment_date: '2012-11-15 04:12:00'
+    comment_date_gmt: '2012-11-15 12:12:00'
+    comment_content: >-
+      What happens when you go directly to
+      http://sharepoint.mydomainname.com:8088/ in a browser? Can you get access?
+
+
+      Did you complete the SharePoint 2013 configuration after installing?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1439'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '710825777'
+    - meta_key: dsq_post_id
+      meta_value: '710858177'
+  - comment_id: '1441'
+    comment_author: Pieter Jong
+    comment_author_email: de_man_pieter@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 84.107.137.117
+    comment_date: '2012-11-15 04:42:00'
+    comment_date_gmt: '2012-11-15 12:42:00'
+    comment_content: >-
+      When I go to that address I come at the SharePoint Central Administration
+      website, need to log on there with my domain account. Have finished the
+      SharePoint 2013 configuration from that web address.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1440'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '710858177'
+    - meta_key: dsq_post_id
+      meta_value: '710870829'
+  - comment_id: '1442'
+    comment_author: Ricky Jenkins
+    comment_author_email: vincentjenkins73@msn.com
+    comment_author_url: ''
+    comment_author_IP: 98.233.48.145
+    comment_date: '2012-11-21 10:51:00'
+    comment_date_gmt: '2012-11-21 18:51:00'
+    comment_content: >-
+      Upgrade seems to have gone very smooth, we did not have an SPS in the same
+      domain as our TFS 2010 so this is a new integration with SPS 2013 I am
+      running into an error on the dashboards that I am having a difficult time
+      finding a solution for and I was hoping you may have seen this one before:
+
+
+      An error occurred while accessing application id "DOMAINServiceAccount"
+      from Secure Store Service. The following connections failed to refresh: 
+       
+      TfsOlapReport
+
+
+      Thank you
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '716048526'
+  - comment_id: '1443'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-11-21 11:13:00'
+    comment_date_gmt: '2012-11-21 19:13:00'
+    comment_content: >-
+      Try to follow
+      http://blogs.msdn.com/b/team_foundation/archive/2010/03/06/configuring-sharepoint-server-2010-beta-for-dashboard-compatibility-with-tfs-2010-beta2-rc.aspx
+
+
+
+      This should help you configure your SharePoint 2013 to use a single
+      credential to access TFS. It looks like you may only need to add that
+      service account with permission to analysis services and reporting
+      services but there could be more complicated kerberos gremlins at work
+      here...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1442'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '716048526'
+    - meta_key: dsq_post_id
+      meta_value: '716067243'
+  - comment_id: '1444'
+    comment_author: Ricky Jenkins
+    comment_author_email: vincentjenkins73@msn.com
+    comment_author_url: ''
+    comment_author_IP: 98.233.48.145
+    comment_date: '2012-11-21 12:19:00'
+    comment_date_gmt: '2012-11-21 20:19:00'
+    comment_content: >-
+      It works now thank you for the information, now on to figuring out why my
+      automated builds are having heart failures Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1443'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '716067243'
+    - meta_key: dsq_post_id
+      meta_value: '716142813'
+  - comment_id: '1445'
+    comment_author: Marc-Andre Poitras
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/mapoitras
+    comment_author_IP: 192.197.69.29
+    comment_date: '2012-12-04 06:14:00'
+    comment_date_gmt: '2012-12-04 14:14:00'
+    comment_content: >-
+      How would I upgrade from Sharepoint foundation 2010 to Sharepoint 2013
+      from a TFS perspective? We are only using Sharepoint 2010 for the TFS
+      server.  We also have reporting services 2008 which I would like to
+      upgrade to 2012 but I'm afraid of all the integration with TFS and how to
+      upgrade everything.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '727159977'
+  - comment_id: '1446'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-12-04 08:01:00'
+    comment_date_gmt: '2012-12-04 16:01:00'
+    comment_content: >-
+      I would tackle each one at a time, but do not be afraide :) 
+
+
+      If your hardware is virtualised you can take a snapshot before you do any
+      of the upgrades to give you a back-out plan. I would tackle SQL Server to
+      2012 first... then if everything is stable after a week head into
+      SharePoint territory. You will likely need to completely un-install
+      SharePoint 2010 and install a clean 2013 before importing the old 2010
+      collection of sites.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1445'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '727159977'
+    - meta_key: dsq_post_id
+      meta_value: '727257888'
+  - comment_id: '1447'
+    comment_author: Sudeep Ghatak
+    comment_author_email: ''
+    comment_author_url: http://www.facebook.com/sudeep.ghatak
+    comment_author_IP: 114.110.36.162
+    comment_date: '2012-12-18 20:58:00'
+    comment_date_gmt: '2012-12-19 04:58:00'
+    comment_content: >-
+      I installed sharepoint 2013 and vs 2012 on a Windows Server 2012.
+
+
+      Also installed the Tools using webplatform installer 4.0. Still getting an
+      error.
+
+
+      ---------------------------
+
+      Microsoft Visual Studio
+
+      ---------------------------
+
+      SharePoint Not Installed
+
+
+      A SharePoint server is not installed on this computer. A SharePoint server
+      must be installed to work with SharePoint projects.
+
+      ---------------------------
+
+      OK   
+
+      ---------------------------
+
+
+      Any clues?
+
+
+      Sudeep
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '742454490'
+  - comment_id: '1448'
+    comment_author: Prashant
+    comment_author_email: nsk.prashant@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 64.235.145.3
+    comment_date: '2012-12-19 22:16:00'
+    comment_date_gmt: '2012-12-20 06:16:00'
+    comment_content: How to authentication karbos to sharepoint 2013
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '743365835'
+  - comment_id: '1449'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.231.17.124
+    comment_date: '2012-12-20 09:15:00'
+    comment_date_gmt: '2012-12-20 17:15:00'
+    comment_content: >-
+      If that is a question :) then you should probably be looking at Service
+      Principal Names (SPN) as the foundation upon which that is based. Check
+      out: http://technet.microsoft.com/en-us/library/ee806870.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1448'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '743365835'
+    - meta_key: dsq_post_id
+      meta_value: '743863479'
+  - comment_id: '1450'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.231.17.124
+    comment_date: '2012-12-20 09:22:00'
+    comment_date_gmt: '2012-12-20 17:22:00'
+    comment_content: >-
+      I would need to really be able to investigate your server to figure this
+      out. Have you tried asking that question on the Visual Studio MSDN forum? 
+      http://social.msdn.microsoft.com/Forums/en-US/category/visualstudio
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1447'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '742454490'
+    - meta_key: dsq_post_id
+      meta_value: '743868882'
+  - comment_id: '1451'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.231.17.124
+    comment_date: '2012-12-20 09:23:00'
+    comment_date_gmt: '2012-12-20 17:23:00'
+    comment_content: >-
+      You can upgrade to TFS 2012 first and then upgrade SharePoint. This will
+      just be a simple process for a SharePoint that is only used as part of TFS
+      and it is documented on Technet:
+      http://technet.microsoft.com/en-us/library/cc262483.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1445'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '727159977'
+    - meta_key: dsq_post_id
+      meta_value: '743870425'
+  - comment_id: '1452'
+    comment_author: Michael Murray
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/outersource
+    comment_author_IP: 216.75.160.178
+    comment_date: '2013-01-03 11:37:00'
+    comment_date_gmt: '2013-01-03 19:37:00'
+    comment_content: >-
+      Just curious, I have TFS 2012 and SPF 2010 which was installed during the
+      installation process for TFS 2012. I also have multiple projects setup
+      already. My question is, if I upgrade to SPS 2013 (not foundation) and
+      point the TFS 2012 to this server... how do I get the projects I already
+      have over to the new SPS 2013 installation?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '754787347'
+  - comment_id: '1453'
+    comment_author: Chi
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/sharechiwai
+    comment_author_IP: 213.120.119.48
+    comment_date: '2013-01-15 02:18:00'
+    comment_date_gmt: '2013-01-15 10:18:00'
+    comment_content: >-
+      I have received "TF218017: A Sharepoint site could not be created for use
+      as the team project portal, &gt; The User does not exists or is not unique
+      --&gt; The User does not exists or is not unique." 
+
+      when I try to create a new Team project with Project portal, it works find
+      if I create Project portal separately via Sharepoint server/site
+
+      any idea which part I done wrong, E.g. which user has permission problem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '768486009'
+  - comment_id: '1454'
+    comment_author: jose adrien
+    comment_author_email: jcadrien@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 186.52.33.151
+    comment_date: '2013-01-21 05:57:00'
+    comment_date_gmt: '2013-01-21 13:57:00'
+    comment_content: >-
+      Hello:
+
+
+      Very interesting material.
+
+
+      I migrate to  sharepoint 2012 and integrate TFS very well.
+
+
+      I need help with the following:
+
+
+      -Need show in Sharepoint Portal  the list of tasks assignet to  current
+      user in TFS.
+
+
+      In other words, the Sharepoint portal is the entry point for all company
+      employees, and  we  need show here all tasks the Team Foundation Projects
+      assigned to  the current employee (@me) .
+
+      Any suggestions for that?
+
+      Regards
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '773864901'
+  - comment_id: '1455'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-01-21 07:48:00'
+    comment_date_gmt: '2013-01-21 15:48:00'
+    comment_content: >-
+      This is built into the default portal that is created for each Team
+      Project. It is however not really possible to do it across team projects
+      without some coding on your part. I would recommend that you move to a
+      single team project architecture even without this issue:
+      http://blog.hinshelwood.com/one-team-project/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1454'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '773864901'
+    - meta_key: dsq_post_id
+      meta_value: '773940138'
+  - comment_id: '1456'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 186.52.33.151
+    comment_date: '2013-01-21 10:38:00'
+    comment_date_gmt: '2013-01-21 18:38:00'
+    comment_content: |-
+      Thanks for you response.
+
+      Not is possible move all projects into one single team project.
+
+      when talk about
+
+      "without some coding on your part", can explain to me ?.
+
+      I Need  show in  Sharepoint Portal all tasks assigned from TFS.
+
+      Maybe can  build one SQL  query from TFS DAtaBase? 
+
+      Regards
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1454'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '773864901'
+    - meta_key: dsq_post_id
+      meta_value: '774112757'
+  - comment_id: '1457'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-01-21 10:45:00'
+    comment_date_gmt: '2013-01-21 18:45:00'
+    comment_content: >-
+      1) It is always possible to work in a single team project :) And
+      recommended... TFS works most comfortably when you have large team
+      projects...
+
+      2) You can write a SharePoint extension to load the data from TFS. The
+      data load is pretty striate forward and the coding part should be able to
+      be completed by any of your engineers.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1456'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '774112757'
+    - meta_key: dsq_post_id
+      meta_value: '774117699'
+  - comment_id: '1458'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 186.52.53.1
+    comment_date: '2013-01-22 04:59:00'
+    comment_date_gmt: '2013-01-22 12:59:00'
+    comment_content: >-
+      Hello Martin:
+
+      About the point 1)we work in  multiple  projects under one project
+      collection.
+
+      Not is possible  put all project in one single team project.
+
+      About the point 2), i'm new with Share Point, and hasn't got  idea about
+      develop one extension for collect all tasks from  tfs projects and show in
+      one  web Part in Share point portal.
+
+
+      Can you help me ?.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1457'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '774117699'
+    - meta_key: dsq_post_id
+      meta_value: '774764812'
+  - comment_id: '1459'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 205.214.239.197
+    comment_date: '2013-01-22 06:22:00'
+    comment_date_gmt: '2013-01-22 14:22:00'
+    comment_content: >-
+      Why is 1) not possible? I ask as I have never encountered that eventuality
+      except when organizations are on the divisional scale. Microsoft itself
+      uses a single team project for its entire Developer Division...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1458'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '774764812'
+    - meta_key: dsq_post_id
+      meta_value: '774811033'
+  - comment_id: '1460'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 190.134.4.213
+    comment_date: '2013-01-23 05:18:00'
+    comment_date_gmt: '2013-01-23 13:18:00'
+    comment_content: >-
+      Hello Martin:
+
+
+      For some reasons ,  we decided create  separated projects  in Team
+      Foundation , all in one Project Collection.
+
+
+      Each Team Foundation Project corresponding at one customer, and  put here
+      source code, releases, DataProvided ,aso.
+
+      Finally we can sow the  tasks in a web Part in Share point portal
+
+      Thanks for you help about these point.
+
+      Need  help about  search center in SharePoint 2013 portal.Can you help me 
+      with that?.
+
+      Regards
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1459'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '774811033'
+    - meta_key: dsq_post_id
+      meta_value: '775603434'
+  - comment_id: '1461'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 205.214.239.197
+    comment_date: '2013-01-23 06:43:00'
+    comment_date_gmt: '2013-01-23 14:43:00'
+    comment_content: >-
+      And that would be the other reason. When you have multiple customers it
+      can make sense to compartmentalise if you are very large. Sorry that I
+      can't help with SharePoint more...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1460'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '775603434'
+    - meta_key: dsq_post_id
+      meta_value: '775671953'
+  - comment_id: '1462'
+    comment_author: Installing Team Foundation Server (TFS) 2012 | James Serra&#039;s Blog
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.jamesserra.com/archive/2013/02/installing-team-foundation-server-tfs-2012/
+    comment_author_IP: 66.147.244.241
+    comment_date: '2013-02-05 08:01:29'
+    comment_date_gmt: '2013-02-05 16:01:29'
+    comment_content: "[...] During the configuration of TFS, you will not be allowed to install SharePoint Foundation\_2010 as SharePoint Foundation\_2010 cannot be installed on Windows Server 2012. \_You will see the error &#8220;SharePoint Foundation 2010 can not be installed on Windows 8&#8243;, but with a checkbox allowing you to continue the TFS installation without installing SharePoint. \_See Team foundation server 2012 on Windows Server 2012 cannot install. \_You can always use SharePoint 2013 instead: Integrate SharePoint 2013 with Team Foundation Server 2012 [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360080089.931626;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360082345.583547;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1463'
+    comment_author: Midix
+    comment_author_email: lablietas@inbox.lv
+    comment_author_url: ''
+    comment_author_IP: 85.9.253.12
+    comment_date: '2013-02-05 15:05:00'
+    comment_date_gmt: '2013-02-05 23:05:00'
+    comment_content: >-
+      Thanks for the series of these articles. Everything went fine. There are
+      some minor differences in my experience. When installing TFS, I chose
+      Advanced instead of Standard single server. And then TFS did not complain
+      about RAM, although I had assigned only 2GB to my virtual machine.
+
+
+      And when configuring Sharepoint web site for entire project collection, I
+      had a problem in this step: "Some folks like to create this at the
+      ^/sites/[collection] level, but I always create the collection site as a
+      sub site of the root. "
+
+
+      When trying to create the site for my collection TFS yelled at me: "The
+      following user account does not have the required permissions in
+      SharePoint Products to create a site at that location: MYPCAdministrator"
+      although the account MYPCAdministrator was a farm admin on my Sharepoint.
+      As soon as I added that /sites/ prefix, the site got created without any
+      issues. I'm still curious, why even the farm admin is not able to create a
+      new site at the root...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '789858166'
+  - comment_id: '1464'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-02-05 15:18:00'
+    comment_date_gmt: '2013-02-05 23:18:00'
+    comment_content: >-
+      @midix:disqus farm admin is god mode from an administration perspective
+      but may not have access to a Site Collection. When you used /sites/ you
+      were creating a new site collection with explicit access. To be able to
+      create 'sub-sites' of an existing site collection you would need to grant
+      explicit rights to that account.
+
+
+      You should be able to make that account a "collection admin" or just log
+      onto that site (http://servername/) and explicitly add them to the
+      'Collection Admins' group at the root...
+
+
+
+      Let me know how you got on.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1463'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '789858166'
+    - meta_key: dsq_post_id
+      meta_value: '789871519'
+  - comment_id: '1465'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 190.134.10.35
+    comment_date: '2013-02-06 07:02:00'
+    comment_date_gmt: '2013-02-06 15:02:00'
+    comment_content: >-
+      Hello again:
+
+      I was considering the possibility of putting all proyects into one, in
+      order to manage a single product backlog, q eu separadod projects having
+      now, the task of managing multiple product backlog to see it becomes very
+      difficult.
+
+      It is a good idea, if I have several different client projects, with
+      different iterations and with code that has nothing in common, put them
+      all under a single project?
+
+      Any best practices document?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1446'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '727257888'
+    - meta_key: dsq_post_id
+      meta_value: '790582928'
+  - comment_id: '1466'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 190.134.10.35
+    comment_date: '2013-02-06 08:36:00'
+    comment_date_gmt: '2013-02-06 16:36:00'
+    comment_content: >-
+      Hello again:
+
+      I was considering the possibility of putting all proyects into one, in
+      order to manage a single product backlog, q eu separadod projects having
+      now, the task of managing multiple product backlog to see it becomes very
+      difficult.
+
+      It is a good idea, if I have several different client projects, with
+      different iterations and with code that has nothing in common, put them
+      all under a single project?
+
+      Any best practices document?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1461'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '775671953'
+    - meta_key: dsq_post_id
+      meta_value: '790695417'
+  - comment_id: '1467'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-02-07 08:52:00'
+    comment_date_gmt: '2013-02-07 16:52:00'
+    comment_content: >-
+      I have often posted on this topic:
+      http://blog.hinshelwood.com/one-team-project/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1466'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '790695417'
+    - meta_key: dsq_post_id
+      meta_value: '791962039'
+  - comment_id: '1468'
+    comment_author: >-
+      Int&#233;gration de Sharepoint et Project Server 2013 avec TFS 2012 - Blog
+      Support Technique EPM - Site Home - TechNet Blogs
+    comment_author_email: ''
+    comment_author_url: http://blogs.technet.com/b/frenchpjblog/archive/2013/02/15/3552868.aspx
+    comment_author_IP: 65.55.59.46
+    comment_date: '2013-02-15 07:39:45'
+    comment_date_gmt: '2013-02-15 15:39:45'
+    comment_content: '[...] Integrate SharePoint 2013 with Team Foundation Server 2012 [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360943258.384902;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1469'
+    comment_author: jose adrien
+    comment_author_email: jose@vertexray.com
+    comment_author_url: ''
+    comment_author_IP: 186.54.11.124
+    comment_date: '2013-02-23 08:34:00'
+    comment_date_gmt: '2013-02-23 16:34:00'
+    comment_content: "Hello Martin:\n\n Y try backup the farm complete, in server  an these error :\n\nObject SharePoint_Config failed in event OnBackup. For more information, see the spbackup.log or sprestore.log file located in the backup directory. \n\tSqlException: Cannot open backup device 'C:SharepointBackupspbr000000000BC.bak'. Operating system error 3(The system cannot find the path specified.). \nBACKUP DATABASE is terminating abnormally.\nAny  idea about  that?\nRegards"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1467'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '791962039'
+    - meta_key: dsq_post_id
+      meta_value: '809744312'
+  - comment_id: '1470'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 76.104.188.230
+    comment_date: '2013-02-23 08:49:00'
+    comment_date_gmt: '2013-02-23 16:49:00'
+    comment_content: >-
+      I would suggest that you try the forums... but...
+
+
+      Have you checked the path? it looks like there is no permission to or
+      existance of that path
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1469'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '809744312'
+    - meta_key: dsq_post_id
+      meta_value: '809759474'
+  - comment_id: '1471'
+    comment_author: >-
+      Instalação do TFS 2012 no Windows Server 2012, com SQL Server 2012 e
+      Sharepoint 2013 | Gustavo Malheiros
+    comment_author_email: ''
+    comment_author_url: >-
+      http://gustavomalheiros.wordpress.com/2013/04/05/instalacao-do-tfs-2012-no-windows-server-2012-com-sql-server-2012-e-sharepoint-2013/
+    comment_author_IP: 207.198.101.17
+    comment_date: '2013-04-05 12:24:18'
+    comment_date_gmt: '2013-04-05 19:24:18'
+    comment_content: >-
+      [...] Outros passos importantes são deste post do blog do Martin
+      Hinshelwood. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365189858.354064;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365190983.974195;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1472'
+    comment_author: Pacsó Tamás
+    comment_author_email: pacsot@vipmail.hu
+    comment_author_url: http://www.facebook.com/PacsoT
+    comment_author_IP: 178.48.17.145
+    comment_date: '2013-04-09 03:29:00'
+    comment_date_gmt: '2013-04-09 10:29:00'
+    comment_content: >-
+      Dear Martin
+
+
+      Thank you! Really sweet post. Helped me deploying this stuff all the way.
+
+
+      I got stuck on the really last step.
+
+      You wrote: 
+
+
+      "This is due to the features not yet being enables… so head on over to 
+
+      “cog | Site Settings | Site Actions | Manage site features” to enable 
+
+      them." 
+
+
+      Whenever I press  the Activate next to the "Scrum Dashboards with
+      Reporting". I get the TF262601 error.
+
+
+      You attempted to
+       add a SharePoint Feature to the site, but that feature requires data 
+      from Team Foundation Server. The feature could not be activated because 
+
+      the site is not associated with a team project in Team Foundation 
+
+      Server.
+
+
+      In the TFS Admin console everything seems fine. ...But I doupt that I
+      would recognise if it weren't :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '857407601'
+  - comment_id: '1473'
+    comment_author: Pacsó Tamás
+    comment_author_email: pacsot@vipmail.hu
+    comment_author_url: http://www.facebook.com/PacsoT
+    comment_author_IP: 178.48.17.145
+    comment_date: '2013-04-09 03:30:00'
+    comment_date_gmt: '2013-04-09 10:30:00'
+    comment_content: >-
+      Also This is with Sharepoint 2013 Foundation RTM. I'm still googleing for
+      a solution but so far: nothing.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1472'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '857407601'
+    - meta_key: dsq_post_id
+      meta_value: '857408103'
+  - comment_id: '1474'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-04-09 08:08:00'
+    comment_date_gmt: '2013-04-09 15:08:00'
+    comment_content: >-
+      You need to open your Team Project in Visual Studio and go to "Team
+      Explorer | Settings | Team Project | Portal Settings" and tick "Enable
+      Team Portal" and "Reports and dashboards refer to data from this team".
+      Then you will be able to enable the features :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1472'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '857407601'
+    - meta_key: dsq_post_id
+      meta_value: '857643622'
+  - comment_id: '1475'
+    comment_author: Oberdan Nunes
+    comment_author_email: oberdan.nunes@pca.com.br
+    comment_author_url: http://www.facebook.com/oberdanbnunes
+    comment_author_IP: 187.23.63.254
+    comment_date: '2013-04-11 05:39:00'
+    comment_date_gmt: '2013-04-11 12:39:00'
+    comment_content: Great post! Thank you!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '859629418'
+  - comment_id: '1476'
+    comment_author: Rich Gallo
+    comment_author_email: gallo991@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 71.183.55.2
+    comment_date: '2013-05-30 19:35:00'
+    comment_date_gmt: '2013-05-30 18:35:00'
+    comment_content: >-
+      Hi There, thanks so much for this article. I have a slightly off-topic,
+      yet very related question. Is it possible to install the TFS 2010
+      SharePoint Extensions on a SharePoint 2013 server? The reason I am asking
+      is because we are currently testing a migration to SharePoint 2013 and I
+      can't get the TFS 2010 installation to see SharePoint 2013 so I'm kinda
+      stuck. We aren't ready to move to TFS 2012 quite yet. Have you come across
+      this question?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '914090839'
+  - comment_id: '1477'
+    comment_author: DOTNETGUY
+    comment_author_email: cfbiztalktesting@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 50.200.90.126
+    comment_date: '2013-06-12 18:21:00'
+    comment_date_gmt: '2013-06-12 17:21:00'
+    comment_content: >-
+      How do I migrate data from our old 2010 TFS SharePoint portal to the new
+      2012 TFS SharePoint portal?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '927955928'
+  - comment_id: '1478'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-06-12 19:08:00'
+    comment_date_gmt: '2013-06-12 18:08:00'
+    comment_content: >-
+      You need to backup the sp_content database and restore it to the
+      SharePoint 2013 database and use "Mount-SPContentDatabase" to import it...
+
+
+      http://technet.microsoft.com/en-us/library/cc263299.aspx
+
+
+      Or you copy the files over manually :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1477'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '927955928'
+    - meta_key: dsq_post_id
+      meta_value: '928028656'
+  - comment_id: '1479'
+    comment_author: DOTNETGUY
+    comment_author_email: cfbiztalktesting@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 50.200.90.126
+    comment_date: '2013-06-12 20:44:00'
+    comment_date_gmt: '2013-06-12 19:44:00'
+    comment_content: >-
+      I backed up, copied the wss_content databases (along with all other
+      SharePoint databases) restore to the TFS SQL box then ran the upgrade
+      wizard but I do not see my data.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1478'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '928028656'
+    - meta_key: dsq_post_id
+      meta_value: '928183801'
+  - comment_id: '1480'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-06-12 21:25:00'
+    comment_date_gmt: '2013-06-12 20:25:00'
+    comment_content: >-
+      You will need to check in the SharePoint Admin Site where they are mapped
+      to and make sure there are no conflicts... Can you share your import log?
+      Was it just Successful? or Successful with errors?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1479'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '928183801'
+    - meta_key: dsq_post_id
+      meta_value: '928226733'
+  - comment_id: '1481'
+    comment_author: Mark Weimer
+    comment_author_email: us1keys@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 209.211.28.5
+    comment_date: '2013-06-19 15:37:00'
+    comment_date_gmt: '2013-06-19 14:37:00'
+    comment_content: >-
+      Martin, can you direct me to some good documentation on the benefits of
+      running sharepoint 2013 on tfs 2012?  Really, what makes this combination
+      strongly suited for configuration management?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1434'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '692286584'
+    - meta_key: dsq_post_id
+      meta_value: '935407252'
+  - comment_id: '1482'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 167.220.24.78
+    comment_date: '2013-06-19 15:43:00'
+    comment_date_gmt: '2013-06-19 14:43:00'
+    comment_content: >-
+      I don't really understand the question. It does not provide any value for
+      configuration management its just more supportable. If you are using
+      Server 2012 you HAVE to use SharePoint 2013 as 2010 is not  supported on
+      that platform.
+
+
+
+      Do you mean that you have developers building software that is deployed to
+      SharePoint?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1481'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '935407252'
+    - meta_key: dsq_post_id
+      meta_value: '935412632'
+  - comment_id: '1483'
+    comment_author: chen
+    comment_author_email: orencheni@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 192.118.10.10
+    comment_date: '2013-06-25 10:38:00'
+    comment_date_gmt: '2013-06-25 09:38:00'
+    comment_content: >-
+      hi, Grate post
+
+      do you know if it works between TFS (local server) ans SharePoint online
+      (office 365)?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '941259159'
+  - comment_id: '1484'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-07-01 05:20:00'
+    comment_date_gmt: '2013-07-01 04:20:00'
+    comment_content: >-
+      Unfortunately not. You can add your site as a link but not the integration
+      detailed above.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1483'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '941259159'
+    - meta_key: dsq_post_id
+      meta_value: '947615098'
+  - comment_id: '1485'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-07-04 07:46:00'
+    comment_date_gmt: '2013-07-04 06:46:00'
+    comment_content: >-
+      Hi, Martin i installed TFS2010  and integrated with the sharepoint2010,
+      but unable to create team project portals in the sharepoint2010.please
+      help me, if you have any solution for this.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '951364413'
+  - comment_id: '1486'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-07-06 15:36:00'
+    comment_date_gmt: '2013-07-06 14:36:00'
+    comment_content: >-
+      I will need a lot more information. What errors are in the Team Project
+      Creation Log? Is the TFS Service account a farm admin?
+
+
+
+      p.s. Have you thought about installing 2012 instead?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1485'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '951364413'
+    - meta_key: dsq_post_id
+      meta_value: '953660822'
+  - comment_id: '1487'
+    comment_author: >-
+      SharePoint 2013 Issue - After migration from 2010 user permission not
+      working
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-13 01:12:03'
+    comment_date_gmt: '2013-07-13 00:12:03'
+    comment_content: >-
+      [...] you have imported your SharePoint 2010 data into SharePoint 2013
+      with the “Mount-SPContentDatabase” command you then need to update all of
+      the user accounts as [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373674323.924288;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373751352.735538;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1488'
+    comment_author: Integrate SharePoint 2013 with Team Foundation Server 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/integrate-sharepoint-2013-with-team-foundation-server-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-29 10:33:11'
+    comment_date_gmt: '2013-07-29 09:33:11'
+    comment_content: >-
+      [...] used it in a demo the other day so I though that I would rectify the
+      situation. I have previously Integrate SharePoint 2013 with Team
+      Foundation Server 2012 and Integrating SharePoint 2010 with Team
+      Foundation Server 2010. With TFS 2013 in the mix it is [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375090391.900941;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375124038.740812;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1489'
+    comment_author: Teemu Keiski
+    comment_author_email: teemu.keiski@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 62.121.49.2
+    comment_date: '2013-07-30 13:09:00'
+    comment_date_gmt: '2013-07-30 12:09:00'
+    comment_content: >-
+      Hello, I wonder if this is at all different with TFS2013? Any ideas? We
+      will most likely integrate 2013-versions of them both...so should we
+      expect quite similar experience?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '981267463'
+  - comment_id: '1490'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-30 16:11:00'
+    comment_date_gmt: '2013-07-30 15:11:00'
+    comment_content: >-
+      I have a post on that:
+      http://nkdagility.com/integrate-sharepoint-2013-with-team-foundation-server-2013/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1489'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '981267463'
+    - meta_key: dsq_post_id
+      meta_value: '981434710'
+  - comment_id: '1491'
+    comment_author: Teemu Keiski
+    comment_author_email: teemu.keiski@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 84.250.179.13
+    comment_date: '2013-07-30 17:55:00'
+    comment_date_gmt: '2013-07-30 16:55:00'
+    comment_content: Hadn't noticed that. Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1490'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '981434710'
+    - meta_key: dsq_post_id
+      meta_value: '981546587'
+  - comment_id: '1774'
+    comment_author: Daniel Stefanescu
+    comment_author_email: daniel.stefanescu@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 81.246.96.74
+    comment_date: '2013-08-06 07:52:00'
+    comment_date_gmt: '2013-08-06 07:52:00'
+    comment_content: >-
+      There are two main advantages in having SP
+
+      installed with TFS:
+
+      - You have access to the Agile/Scrum/CMMI dashboards
+
+      - You have the possibility to store/edit the project related documents in
+      a place
+
+      that allows versioning and approval workflow without installing any
+      additional
+
+      software like Team Explorer or Visual Studio
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1481'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '935407252'
+    - meta_key: dsq_post_id
+      meta_value: '990021906'
+  - comment_id: '1776'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-06 12:49:00'
+    comment_date_gmt: '2013-08-06 12:49:00'
+    comment_content: >-
+      Hi, thanks for your reply, And i'm sorry for late reply, Right now i'm
+      facing a problem with Adding team members in the team projects.I posted
+      the screen shot of that error. if you are aware of this error.please
+      provide solution for this.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1486'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '953660822'
+    - meta_key: dsq_post_id
+      meta_value: '990183870'
+  - comment_id: '1781'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 68.185.1.174
+    comment_date: '2013-08-08 01:56:00'
+    comment_date_gmt: '2013-08-08 01:56:00'
+    comment_content: >-
+      Are there multiple domain involved? Can you add that same person with
+      permission to a folder on your local computer? is TFS in that same domain?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1776'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '990183870'
+    - meta_key: dsq_post_id
+      meta_value: '992363757'
+  - comment_id: '1786'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-08 07:00:00'
+    comment_date_gmt: '2013-08-08 07:00:00'
+    comment_content: >-
+      yes, i'm having mutiple domains in my organization, i created one domain
+      name 5y.lan and another domain name 5ytechnologies.com. Users in both
+      domain are different.And when i tried to make trusting between these two
+      domains it was throwing error like this.please check the below screen
+      shots.
+
+
+      Martin, can you please provide your skype ID. I would like to have a live
+      chat with you
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1781'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '992363757'
+    - meta_key: dsq_post_id
+      meta_value: '992587917'
+  - comment_id: '1791'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 207.109.68.2
+    comment_date: '2013-08-08 16:14:00'
+    comment_date_gmt: '2013-08-08 16:14:00'
+    comment_content: >-
+      I have no skills with creating trusts between domains but it sounds like
+      it is not configured properly and the trust tis not working. You will need
+      to fixrepair the trust to move forward.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1786'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '992587917'
+    - meta_key: dsq_post_id
+      meta_value: '993281204'
+  - comment_id: '1814'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-21 05:35:00'
+    comment_date_gmt: '2013-08-21 05:35:00'
+    comment_content: >-
+      Hi Martin, I'm having Queries regarding user access for Team Project
+      Collection in Windows Sharepoint Services 3.0.
+
+      For Example, I'm having Contribute users for Team Projects like ABC,XYZ,
+      CDE, EFG, KLM
+
+
+      And I'm having like John, Stephen, Wilson. 
+
+
+      John and Stephen are contribute users for projects ABC,XYZ,KLM.
+
+      Wilson is the contribute user for projects CDE,EFG.
+
+      I have provided permissions to the users for the sharepoint projects
+      portals to their respective projcets.
+
+      They are able to access Sharepoint Projcet portals from the Visual Studio
+      but they are unable to access sharepoint portal directly. When users are
+      trying to access the sharepoint portal by using
+      http://sharepoint.mydomain.com it was throwing the error "ACCESS DENIED".
+
+
+
+      And, My requirement is when ever the user access the sharepoint portal
+      directly, they should able to see their respective Team projects. For
+      example, if John Access the shrepoint portal by using link
+      http://sharepoint.mydomain.com, he should able to see their respective
+      projects like ABC,XYZ,KLM in that portal.
+
+
+
+      Martin, Can i configure this in Windows Sharepoint Services 3.0 and meet
+      my requirement?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1791'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '993281204'
+    - meta_key: dsq_post_id
+      meta_value: '1009554354'
+  - comment_id: '1815'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-08-21 05:42:00'
+    comment_date_gmt: '2013-08-21 05:42:00'
+    comment_content: >-
+      You have given the users permission ofr the individual potal
+      (http://sp.mydomain.com/sites/collection/TeamPorjectA) which does not give
+      them permission to the root. Configure the root and they will have
+      permission...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1814'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1009554354'
+    - meta_key: dsq_post_id
+      meta_value: '1009567135'
+  - comment_id: '1816'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-21 05:49:00'
+    comment_date_gmt: '2013-08-21 05:49:00'
+    comment_content: >-
+      How to configure the root ? i don't how to configure this..will please
+      send me the procedure for root configuration...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1815'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1009567135'
+    - meta_key: dsq_post_id
+      meta_value: '1009580558'
+  - comment_id: '1817'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-08-21 05:51:00'
+    comment_date_gmt: '2013-08-21 05:51:00'
+    comment_content: >-
+      go to http://sp.mycompany.com | Site Settings | Permission and add
+      everyone as reader.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1816'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1009580558'
+    - meta_key: dsq_post_id
+      meta_value: '1009585660'
+  - comment_id: '1818'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-21 07:12:00'
+    comment_date_gmt: '2013-08-21 07:12:00'
+    comment_content: Thank you Martin ....it's working
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1816'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1009580558'
+    - meta_key: dsq_post_id
+      meta_value: '1009715320'
+  - comment_id: '1824'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-22 09:25:00'
+    comment_date_gmt: '2013-08-22 09:25:00'
+    comment_content: >-
+      Hi Martin, i wanted to create reports for the deletion of files in the
+      Team Projects and it should be weekly report.
+
+
+
+      For example if any member of particular Team Project deleted some file, it
+      should get updated in that report. 
+
+
+      Can you please tell me how to do this ....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1817'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1009585660'
+    - meta_key: dsq_post_id
+      meta_value: '1012717440'
+  - comment_id: '1836'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-27 04:55:00'
+    comment_date_gmt: '2013-08-27 04:55:00'
+    comment_content: >-
+      Hi Martin, I need a procedure for creating reports in Windows Sharepoint
+      3.0 services  Dashboard.
+
+      I need to create reports for Bugs,Quality, Burndown. Currently, in my
+      project portals i didn't create any reports and i should start from the
+      scratch for creating reports...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1018842473'
+  - comment_id: '1837'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.82.18.34
+    comment_date: '2013-08-27 05:05:00'
+    comment_date_gmt: '2013-08-27 05:05:00'
+    comment_content: >-
+      As you don't get Excel services with SharePoint Services (I would
+      recommend that you upgrade to SharePoint Foundation 2013) you will need to
+      create a Reporting Services report. These are not easy to produce so I
+      would recommend prototyping in Excel until you get the report that you
+      want and then creating the RS report. If you did not enable reporting
+      previously you can follow
+      http://nkdagility.com/integrate-reporting-and-analyses-services-with-team-foundation-server-2013/
+      to get it up and running. The steps are similar between 2010 / 2012 and
+      2013. I would also recommend that you upgrade to TFS 2013 :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1836'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1018842473'
+    - meta_key: dsq_post_id
+      meta_value: '1018852106'
+  - comment_id: '1840'
+    comment_author: Sam
+    comment_author_email: sameerkumar.k@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.121.113.3
+    comment_date: '2013-08-27 19:51:00'
+    comment_date_gmt: '2013-08-27 19:51:00'
+    comment_content: >-
+      Hello,
+
+
+      I have a situation which avoids me to use this TFPT cmdlet to
+      addprojectportal. 
+
+      I have migrated TFS2008 to TFS2012. And now need to manually enable team
+      project portal setting to an existing SharePoint site. When I use:
+
+      tfpt addprojectportal /collection:http://TFS/TPC1 /teamproject:TP1
+      /processtemplate:"PT1" /webapplication:"http://SP1"
+      /relativepath:sites/TP1
+
+      I get following error:
+
+      Exception Message: TF250038: You specified the following URL:
+      http://SP1/sites/TP1. However, a site already exists at that URL.
+
+
+      So, it means I can't use this command to associate existing site with a
+      TFS project. So do you know any way to do this programatically for all the
+      projects. I did this manually for one of the TFS project and it worked
+      fine. But I don't want to spend hours doing this for all the projects
+      manually.
+
+
+      Any help is highly appreciated.
+
+
+      Thanks,
+
+      Sam
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1019604223'
+  - comment_id: '1842'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-08-28 13:42:00'
+    comment_date_gmt: '2013-08-28 13:42:00'
+    comment_content: >-
+      Hi Martin, i would like configure E-mail alerts for Windows Sharepoint
+      Services 3.0. Both my sharepoint and TFS are configured on same
+      machine.Moreover, in our company we are not having Exchange Server but our
+      organization having google apps Email account.
+
+      Can you please send me procedure for configuring E-Mail alerts in WSS 3.0
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1020511549'
+  - comment_id: '1901'
+    comment_author: John Hughes
+    comment_author_email: johnnynine@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 67.167.237.63
+    comment_date: '2013-09-19 02:59:00'
+    comment_date_gmt: '2013-09-19 02:59:00'
+    comment_content: >-
+      Does TFS 2013 contain SharePoint 2013? And if so does upgrading to TFS
+      2013 (from 2012) also upgrade SP to 2013?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1050448044'
+  - comment_id: '1902'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 99.116.198.90
+    comment_date: '2013-09-19 05:00:00'
+    comment_date_gmt: '2013-09-19 05:00:00'
+    comment_content: >-
+      You can use SharePoint 2013 with TFS 2013 (and TFS 2010) but it is not
+      upgraded for you. You would need to follow the SharePoint 2013 upgrade
+      procedures separately. I have done this a bunch... it is not that hard..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1901'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1050448044'
+    - meta_key: dsq_post_id
+      meta_value: '1050638531'
+  - comment_id: '1906'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 172.56.33.107
+    comment_date: '2013-09-22 03:04:00'
+    comment_date_gmt: '2013-09-22 03:04:00'
+    comment_content: >-
+      You will need to crwate a Reporting Services report against the Data
+      Warehouse to get this info. I guess you could plug Excel into
+      tfs_warehouse but you may struggle. Remember to get your account added to
+      the TfsDataReader role on the SQL Server.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1824'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1012717440'
+    - meta_key: dsq_post_id
+      meta_value: '1054443120'
+  - comment_id: '1912'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-09-26 10:27:00'
+    comment_date_gmt: '2013-09-26 10:27:00'
+    comment_content: Hi Martin, Do u know about Build Automation?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1059619226'
+  - comment_id: '1913'
+    comment_author: Rajesh
+    comment_author_email: hrajesh110@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 183.82.0.45
+    comment_date: '2013-09-26 10:44:00'
+    comment_date_gmt: '2013-09-26 10:44:00'
+    comment_content: Hi Martin, these are the errors i'm facing when i run automation build.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1059628117'
+  - comment_id: '1914'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 174.21.218.91
+    comment_date: '2013-09-27 20:51:00'
+    comment_date_gmt: '2013-09-27 20:51:00'
+    comment_content: >-
+      I would start by logging into the build server, going to
+      c:buildsmiscellaneousblablaSources and opening the solution from there and
+      trying to build...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1913'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1059628117'
+    - meta_key: dsq_post_id
+      meta_value: '1061784183'
+  - comment_id: '2094'
+    comment_author: Sriram
+    comment_author_email: m.sriram@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 167.220.224.192
+    comment_date: '2014-01-31 23:43:00'
+    comment_date_gmt: '2014-01-31 23:43:00'
+    comment_content: Hey did you got any solution for this, even I have this same issue
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1453'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '768486009'
+    - meta_key: dsq_post_id
+      meta_value: '1226082552'
+  - comment_id: '2184'
+    comment_author: Raj
+    comment_author_email: amar_deep569@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 203.37.88.133
+    comment_date: '2014-03-25 03:46:00'
+    comment_date_gmt: '2014-03-25 03:46:00'
+    comment_content: >-
+      Hi Martin,
+
+      Can you please help with my below query
+
+      I have successfully created all  the steps and i have created team site
+      manually. When I am activating the features I am getting web.config error.
+      I have tried on all agile, cmmi and scrum features.
+
+      Thank you
+
+      Raj
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1300943583'
+  - comment_id: '2186'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.203
+    comment_date: '2014-03-25 11:08:00'
+    comment_date_gmt: '2014-03-25 11:08:00'
+    comment_content: >-
+      You need to raise this on
+      http://social.msdn.microsoft.com/Forums/vstudio/en-US/home as it is a bug.
+      However you will need information on the error from your Event Logs on the
+      server.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2184'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1300943583'
+    - meta_key: dsq_post_id
+      meta_value: '1301446529'
+  - comment_id: '4873'
+    comment_author: samer
+    comment_author_email: pm@plexplus.com
+    comment_author_url: ''
+    comment_author_IP: 168.187.79.71
+    comment_date: '2014-09-24 08:23:00'
+    comment_date_gmt: '2014-09-24 07:23:00'
+    comment_content: >-
+      Thanks a lot, i'll try to install this professional lesson and if i have
+      any question i'll ask you :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1603223985'
+  - comment_id: '11388'
+    comment_author: Chris LaVenture
+    comment_author_email: claventure@google.com
+    comment_author_url: ''
+    comment_author_IP: 208.125.53.66
+    comment_date: '2015-03-12 15:37:00'
+    comment_date_gmt: '2015-03-12 15:37:00'
+    comment_content: >-
+      Please help me answer this question.  Please.  We need to get all of the
+      Work Item Data from TFS to a SharePoint Site.  The person requesting this
+      does not want that out of the box solution that shows a little TFS window
+      in SharePoint with a couple of charts (which does work).  Unfortunately
+      the dude wants ALL the TFS work Item data to show up as a list.  I have an
+      attached pic.  This data is from a tool called TestTrack, which was stored
+      in an SQL Database.  Some programmer exported it and displayed it on a
+      sharepoint site as shown.  We want to do the same thing with TFS Work Item
+      Data.  Any help?  Thanks much claventure @ osmose.com.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1903396401'
+  - comment_id: '11389'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.254
+    comment_date: '2015-03-12 16:01:00'
+    comment_date_gmt: '2015-03-12 16:01:00'
+    comment_content: >-
+      You have two options. You can spend tones of time messing around trying to
+      extend SharePoint to create this. Or you can upgrade to TFS 2013 and give
+      him access to the Planning Tools that are built into the web access.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11388'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1903396401'
+    - meta_key: dsq_post_id
+      meta_value: '1903444874'
+  - comment_id: '14108'
+    comment_author: Mirasol Jennings
+    comment_author_email: MirasolJennings@tuta.io
+    comment_author_url: ''
+    comment_author_IP: 107.161.163.12
+    comment_date: '2016-09-13 07:29:00'
+    comment_date_gmt: '2016-09-13 06:29:00'
+    comment_content: >-
+      Thought-provoking post , For my two cents , if anyone is requiring a CA PM
+      330 , my boss filled out and faxed a template version here
+      <code>http://goo.gl/RoIT05</code>
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2890674617'
+  - comment_id: '14171'
+    comment_author: john
+    comment_author_email: rebteltemp@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.254.109.194
+    comment_date: '2016-12-28 21:47:00'
+    comment_date_gmt: '2016-12-28 21:47:00'
+    comment_content: |-
+      Hi Martin,
+
+      i am getting same error, any solution?
+
+      Thanks,
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2186'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1301446529'
+    - meta_key: dsq_post_id
+      meta_value: '3072933517'
+  - comment_id: '14292'
+    comment_author: Christopher Kuznicki
+    comment_author_email: kuznickic@me.com
+    comment_author_url: ''
+    comment_author_IP: 107.77.231.173
+    comment_date: '2017-08-19 06:24:00'
+    comment_date_gmt: '2017-08-19 05:24:00'
+    comment_content: >-
+      Great article!!  I am currently trying to connect TFS 17 with SharePoint
+      10.  I can't upgrade SharePoint.  I got the TFS Collection to see the
+      SharePoint web application.  However when I tell TFS to create a new site
+      collection I get an error saying the operation cannot be completed please
+      try again.  I have wireshark running but I don't see any traffic being
+      generated.  Could you please give me some pointers of what to look for?  I
+      greatly appreciate it.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3475947505'

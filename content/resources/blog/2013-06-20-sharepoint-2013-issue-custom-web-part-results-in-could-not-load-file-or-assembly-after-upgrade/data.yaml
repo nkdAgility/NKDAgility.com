@@ -1,0 +1,322 @@
+post:
+  title: >-
+    SharePoint 2013 Issue - Custom Web Part results in Could not load file or
+    assembly after upgrade
+  link: >-
+    https://nkdagility.com/blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade/
+  pubDate: Thu, 20 Jun 2013 08:39:44 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9573
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">After an upgrade of a SharePoint 2010 content database to
+    SharePoint 2013 you may get an error message “Could not load file or
+    assembly ‘MyCustomWebPart, Version=1.0.0.0, Culture=neutral, Public
+    Token=6912jju2191j213ggv10’ or one of its dependants. The system cannot find
+    the file specified” when you try to access a page.</p>
+
+    <p>This is fairly common when upgrading but the solution is very hard to
+    find.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image2.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Could not load
+    file or assembly </small></p>
+
+    <p>You may not have access to the custom Web Part or it may only work in
+    SharePoint.vLast.</p>
+
+    <h2>Applies to</h2>
+
+    <ul>
+
+    <li>SharePoint 2013</li>
+
+    <li>SharePoint 2010</li>
+
+    </ul>
+
+    <h2>Findings</h2>
+
+    <p>If you just take the SharePoint databases and restore them to the new
+    environment you may not have, or even be able to migrate the custom web
+    parts that have been added.</p>
+
+    <p>In this case the custom web part was created and compiled for SharePoint
+    2010 and we will not be recompiling it for SharePoint 2013 but we still need
+    to get the site running now. There are two main ways to solve this
+    problem:</p>
+
+    <ul>
+
+    <li><strong>Reset to Site Definitions</strong> – This will reset an
+    individual page or the entire site to the out-of-the-box definition of the
+    page.</li>
+
+    <li><strong>Edit with SharePoint Designer</strong> – This is a much more
+    invasive option, but if things have been edited with SharePoint Designer you
+    may be left with no choice.</li>
+
+    </ul>
+
+    <p>Always start with resetting to Site Definitions option as it is the
+    easiest, least invasive and quickest option.</p>
+
+    <h2>Solution #1 – Reset to Site Definitions</h2>
+
+    <p>This is the solution of first resort. It will fix most small issues and
+    minimises the impact and risk to all users. If you reset your site to the
+    site dentitions all of the little customisations that have been made to
+    pages will be reset to the defaults. So if customisations have been made
+    through the UI this will work a dream.. there is however one problem first…
+    how do we get into the admin.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image3.png" width="800"
+    height="500" border="0" /><br /><small>Figure: To access the admin page use
+    ?content=1</small></p>
+
+    <p>If you add “?content=1” to the end of the URL you will find the
+    SharePoint “Web Part Page Maintenance” screen for that page. Here you will
+    have access to the rest of the settings that you need. And it shows that the
+    site works, just not that page that we had a problem with.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image4.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Getting to the
+    Web Part Page Maintenance</small></p>
+
+    <p>We can then see the little cog (settings) button on the top right and we
+    get access to Site Settings.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image5.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Finding Reset to
+    site definition on Site Settings</small></p>
+
+    <p>Go to “Site Settings | Site Actions | Reset to site definition” to get
+    access to the feature that we need to fix this issue.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image6.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Reset all pages in this site
+    to site definition version</small></p>
+
+    <p>Once on the “Reset Page to Site Definition Version” page you should
+    select the “Reset all pages in this site to site definition version” so that
+    we don’t have to do it for every page. This is something that I have always
+    done for upgraded sites as the definition that you are resetting to is the
+    one from the new version (SharePoint 2013 in this case) and that will
+    improve the look and feel of the pages.</p>
+
+    <p>Unfortunately in this case there have been customisations made to the
+    “default.aspx” file using SharePoint Designer and we need SharePoint
+    Designer to fix them.</p>
+
+    <h2>Solution #2 – Edit with SharePoint Designer</h2>
+
+    <p>SharePoint Designer is a <a
+    href="http://www.microsoft.com/en-us/download/details.aspx?id=35491"
+    target="_blank">free download from Microsoft</a> and will let you edit each
+    individual page. I would never recommend using SharePoint Designer to edit
+    pages but sometimes its evil has already been instilled in the pages and we
+    need to get rid of it.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image7.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Open SharePoint Designer and
+    the Site that you need to edit</small></p>
+
+    <p>Once you open the site (use “Open Site | <a
+    href="http://myshareppoint:81/">http://myshareppoint:81/</a>”)</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image8.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Switch to All Files to get
+    access to the default pages</small></p>
+
+    <p>We need to find the ‘default.aspx’ file in this case and for that we need
+    to access “All Files”.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image9.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Check Out to Edit</small></p>
+
+    <p>In order to edit files in SharePoint you need to check them out first.
+    This prevents random tampering and makes you check the changes in
+    deliberately before they are visible on the site.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image10.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Some of the code is
+    Protected</small></p>
+
+    <p>Now that I have found the culprit I can edit the page to remove it…
+    except that I cant. In SharePoint Designer 2013 all of the wrapper code for
+    the page is protected and cant be edited. The yellow highlight around the
+    text is the indication that it is in this protected mode. if you want to
+    exit it you need to switch to scary evil mode first.</p>
+
+    <p>This is a good thing as it will help limit the scope of the changes that
+    people make with this tool unless they know what they are doing.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image11.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Switch to
+    Advanced Mode (Scary evil mode)</small></p>
+
+    <p>Once in Advanced mode you will be able to edit all of the protected
+    sections. We need to delete the line that references the Assembly that we do
+    not have in the new instance. Make sure that you search for the Tag Prefix
+    (In this case “WpNs5”) to make sure that you are not leaving any orphaned
+    controls. You would need to remove them as well.</p>
+
+    <p>Once you have made your changes you can save and remember to check in to
+    see the changes.</p>
+
+    <p>In this case all of the Register tags with the TagPrefix of "WpNs*" needs
+    to be removed and any associated controls removed.</p>
+
+    <p>This will fix any issues with the pages loading.</p>
+  - >-
+    <p class="lead">After an upgrade of a SharePoint 2010 content database to
+    SharePoint 2013 you may get an error message “Could not load file or
+    assembly ‘MyCustomWebPart, Version=1.0.0.0, Culture=neutral, Public
+    Token=6912jju2191j213ggv10’ or one of its dependants. The system cannot find
+    the file specified” when you try to access a page.</p>
+  post_id: '9905'
+  post_date: '2013-06-20 09:39:44'
+  post_date_gmt: '2013-06-20 08:39:44'
+  post_modified: '2013-06-20 09:39:44'
+  post_modified_gmt: '2013-06-20 08:39:44'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '75'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: could not load file or assembly
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      Custom Web Part results in Could not load file or assembly after upgrade
+      to SharePoint 2013
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      After an upgrade of a SharePoint 2010 content database to SharePoint 2013
+      you may get an error message “could not load file or assembly”.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1412856153'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51c2c0197264c4cd1100007d";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371717657;s:3:"day";s:5:"Today";s:6:"due_at";i:1371726600;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51c2c0197264c4cd1100007d";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:136:"New
+      Post: SharePoint 2013 Issue - Custom Web Part results in Could not load
+      file or assembly after upgrade http://buff.ly/13UHNFF
+      #vsalm";s:14:"text_formatted";s:351:"New Post: SharePoint 2013 Issue -
+      Custom Web Part results in Could not load file or assembly after upgrade
+      <a class="url" href="http://buff.ly/13UHNFF" rel="external nofollow"
+      target="_blank">http://buff.ly/13UHNFF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371717657;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51c2c01a7264c4cd1100007e";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371717658;s:3:"day";s:5:"Today";s:6:"due_at";i:1371773160;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51c2c01a7264c4cd1100007e";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:117:"http://nkdagility.com/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade/";s:11:"description";s:141:"After
+      an upgrade of a SharePoint 2010 content database to SharePoint 2013 you
+      may get an error message “could not load file or
+      assembly”.";s:5:"title";s:91:"Custom Web Part results in Could not load
+      file or assembly after upgrade to SharePoint
+      2013";s:4:"link";s:117:"http://nkdagility.com/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade/";s:7:"preview";s:65:"http://nkdagility.com/files/2012/08/metro-sharepoint-128-link.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:136:"New
+      Post: SharePoint 2013 Issue - Custom Web Part results in Could not load
+      file or assembly after upgrade http://buff.ly/13UHNFF
+      #vsalm";s:14:"text_formatted";s:351:"New Post: SharePoint 2013 Issue -
+      Custom Web Part results in Could not load file or assembly after upgrade
+      <a class="url" href="http://buff.ly/13UHNFF" rel="external nofollow"
+      target="_blank">http://buff.ly/13UHNFF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371717658;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51c2c01a7264c4cd1100007f";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371717658;s:3:"day";s:5:"Today";s:6:"due_at";i:1371721740;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51c2c01a7264c4cd1100007f";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:117:"http://nkdagility.com/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade/";s:11:"description";s:141:"After
+      an upgrade of a SharePoint 2010 content database to SharePoint 2013 you
+      may get an error message “could not load file or
+      assembly”.";s:5:"title";s:91:"Custom Web Part results in Could not load
+      file or assembly after upgrade to SharePoint
+      2013";s:4:"link";s:117:"http://nkdagility.com/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade/";s:7:"preview";s:65:"http://nkdagility.com/files/2012/08/metro-sharepoint-128-link.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:136:"New
+      Post: SharePoint 2013 Issue - Custom Web Part results in Could not load
+      file or assembly after upgrade http://buff.ly/13UHNFF
+      #vsalm";s:14:"text_formatted";s:351:"New Post: SharePoint 2013 Issue -
+      Custom Web Part results in Could not load file or assembly after upgrade
+      <a class="url" href="http://buff.ly/13UHNFF" rel="external nofollow"
+      target="_blank">http://buff.ly/13UHNFF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371717658;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBPKFN
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474668886;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9909;}i:1;a:1:{s:2:"id";i:9906;}i:2;a:1:{s:2:"id";i:3279;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-06-20-sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '978'

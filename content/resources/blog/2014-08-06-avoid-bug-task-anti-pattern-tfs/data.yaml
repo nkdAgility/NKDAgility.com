@@ -1,0 +1,726 @@
+post:
+  title: Avoid the Bug as Task anti-pattern in Azure DevOps
+  link: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops/
+  pubDate: Wed, 06 Aug 2014 14:46:41 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10662
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\n<p>For the last few months, I have been working with an enterprise customer that has been steadily adopting Work Item Tracking in TFS. I have learned that you should avoid the Bug as a Task anti-pattern.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {\"id\":50266,\"sizeSlug\":\"large\",\"linkDestination\":\"none\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://nkdagility.com/wp-content/uploads/2014/08/DALL·E-2023-10-10-17.57.16-Photo-of-a-workspace-showing-a-computer-screen-with-a-task-management-application.-On-the-left-side-theres-a-task-labeled-bug-with-a-checklist-ico-1260x720.png\" alt=\"\" class=\"wp-image-50266\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:group {\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group\"><!-- wp:paragraph -->\n<p>Updated</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item {\"fontSize\":\"small\"} -->\n<li class=\"has-small-font-size\">2023-10-10 - Updated to reflect Azure DevOps, and spelling fixes.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list --></div>\n<!-- /wp:group -->\n\n<!-- wp:paragraph -->\n<p>The customer that I have been working with is fairly large and there are quite a few DevOps Consultants helping them out. My task was to onboard one department of about 120 people and ~10 teams. Incidentally, these teams are, for the most part, Java teams. As with any enterprise, there are things that departments can decide for themselves and things that are handed down from on high and they are often fond of 'laterals'. A 'lateral' is a group of people who get together to make arbitrary and unilateral decisions about how a process should be implemented. Problems arise when these groups start prescribing the \"how\" and not just the \"what\". They start making technology decisions oh \"how\" things should be implemented, not necessarily understanding the technical ramifications.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>To be fair in enterprise most 'laterals' take ownership of the process and leave the implementation of that process to the consultants on the ground. They push down responsibility for the 'how', while maintaining the 'what', to those best placed to make those decisions. However in this case the testing lateral has maintained ownership of the 'how' as well. Although they inherited the Bug as Task anti-pattern from the choice of the Agile for MSF template, having ownership of the 'how' means that those implementing do not have the lateral to make changes. This often causes a certain amount of friction as the teams adopt the tool. Agile teams, or teams moving to agile, are often restricted by the bug as a task anti-pattern.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"h-why-is-bug-as-a-task-an-anti-pattern\">Why is Bug as a Task an anti-pattern?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Now you might be forgiven for coming down on the side of governance as 'we need some guidance to come from somewhere'. With many having organisational mandates to move towards agility, they are however unknowingly making decisions that are making the tooling a friction point for that move.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img src=\"https://nkdagility.com/wp-content/uploads/2014/07/image.png\" alt=\"image\" title=\"image\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>These decisions are often the result of the traditional silo-based delivery experience that has them not avoiding the Bug as a Task anti-pattern in TFS. If you are doing all of the development before you test then this is a necessary configuration. However, as we know that this is inherently dysfunctional making this compromise is sweeping issues under the rug rather than dealing with them. So why is having a Bug in the same domain as a Task a bad thing?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Not transparent</strong> - if you do not have bugs on the backlog, then you no longer have a single unified, visible, and transparent list of things that you are working on. If you have two places to go, backlog and buglog, then how do you know priority? Suddenly you have two masters, the list of things hat the PO wants and the list of stuff we did not finish. In extreme circumstances, this buglog is not shown to the Product Owner. This is then getting pretty close to the line of fraud. Customers should always be fully aware of bugs.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Promotes low quality</strong> - it's a little weird, but in my experience, if you have a way to be pedantic, then people will use it. Provide a way for the teams not to communicate and you may very well find them trying to communicate through work items. Avoid this at all costs. They are not there as a crutch for poor team communication. They are there to provide long-term traceability and to support the team's efforts to maintain priority.</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>No predictability of planning</strong> - no really. If you have this many hidden bugs, your PO is not going to be able to understand what it takes to complete anything. If your bug rate is high then your technical debt is high and you are not really ever done. If you are not really done then you should get no points for that item.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:paragraph -->\n<p>So if there are all of these downsides why would you want to have bugs as a task. Well, maybe I do want to hid my bugs from a customer, but apart from the nefarious reasons, I can think of only one good reason: low quality.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"h-where-does-the-bug-as-a-task-anti-pattern-come-from\">Where does the Bug as a Task anti-pattern come from?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>If your software quality is so low that you repeatedly and consistently have many hundreds of small bugs then I can imagine the pain of always having to create one Bug and then one Task to fulfil that Bug. I see time and again teams creating PBI's called 'Bug Bucket' to hold the many smaller bugs so that the PO can prioritise them and so that they appear on the boards. If you are a product owner then do not put up with this! Ever! You should be able to prioritize one bug over another, or choose not to fix a bug at all. And if the bugs are too small for you to care about why are they not just fixed rather than spending time tracking and updating them?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph -->\n<p>Now that we understand the problem, we can dive a little deeper. We have discussed the symptoms of the bugs as tasks anti-pattern above but what about some of the causes and by inversion, solutions?</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:list -->\n<ul><!-- wp:list-item -->\n<li><strong>Poor communication</strong> - If your testers and your coders don't talk then a lot of small things will drop through the cracks. Poor communication is a people problem and can only be solved there. Don't try to paper over the issue. Solve it...</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>Testing outside of the sprint</strong> - Even if your team has good communication if the testing is not happening at the same time as the coding then things will get left behind. Your coders wild not be in the same headspace as when they originally wrote it, and then the testers are re-testing out of context. Poo..</li>\n<!-- /wp:list-item -->\n\n<!-- wp:list-item -->\n<li><strong>No test first</strong> - We need to have an idea of what we will be testing for before the developer begins to code. If you don't know enough to create at least one functional test then you should not be bringing it into the sprint. Think about it. The functional tests are the things that you use to measure whether the coder built what the customer asked for. If it is the measure you use to determine the correct outcome, then now can the coder ever be able to meet it without having it at the start? Make everyone's lives easier and eliminate rework by creating functional tests upfront. I often have to work with teams to help them understand what this looks like, however, they can very quickly get going with a little coaching.</li>\n<!-- /wp:list-item --></ul>\n<!-- /wp:list -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"h-how-do-we-deal-with-the-bug-as-a-task-anti-pattern\">How do we deal with the Bug as a Task anti-pattern?</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>While the solutions above will work, they need to be owned and implemented by the Product Owner and the Development Team working together. Make things open and transparent and push the problem down to the people causing it. Yes, the development teams should have to create a Bug at the PBI level and then break it down into Tasks. Yes, even if they have to create a Bug and a Single task for a 10-minute piece of work. This is their penalty for not communicating effectively. If the PO is not providing enough detail in the PBI then their penalty is having to prioritize tonnes of little meaningless bugs.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image -->\n<figure class=\"wp-block-image\"><img src=\"https://nkdagility.com/wp-content/uploads/2014/07/image1.png\" alt=\"image\" title=\"image\"/></figure>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p>By forcing the teams to treat all bugs as backlog items you force them to take a long, hard look at when they create a bug and how they deal with unfinished in-sprint work.</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:heading -->\n<h2 class=\"wp-block-heading\" id=\"h-conclusion\">Conclusion</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Avoid the Bug as a Task anti-pattern in TFS at all costs. It promotes dysfunctional teams and will create friction for your teams that are doing agile. If you are still trying to <a href=\"http://nkdagility.com/agile-vs-scrum-process-templates-team-foundation-server/\">decide in the process template</a> or you have realised your mistake and <a href=\"http://nkdagility.com/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x/\">want to fix your process template</a> I have some posts to help. If you are on the right path, then awesome; however, resist all pressure to create\_Bug as a\_Task and focus instead on creating awesome agile requirements that include tests written upfront.</p>\n<!-- /wp:paragraph -->"
+  - >-
+    Avoiding the "Bug as a Task" anti-pattern in Azure DevOps is crucial for
+    agile teams. The article by Martin Hinshelwood emphasizes that treating bugs
+    as tasks can lead to a lack of transparency, promote low-quality work, and
+    hinder planning predictability. Instead of hiding bugs, teams should
+    prioritize and address them transparently, ensuring effective communication
+    and collaboration. Treating bugs as backlog items forces teams to evaluate
+    their creation and handling processes, ultimately leading to better agile
+    practices. 🐛❌🔄📈🤝
+  post_id: '10662'
+  post_date: '2014-08-06 15:46:41'
+  post_date_gmt: '2014-08-06 14:46:41'
+  post_modified: '2023-10-10 17:25:21'
+  post_modified_gmt: '2023-10-10 17:25:21'
+  comment_status: open
+  ping_status: open
+  post_name: avoid-bug-task-anti-pattern-tfs
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '50271'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1sBPZsO
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: bug
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '69'
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '2859396497'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474908504;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10356;}i:1;a:1:{s:2:"id";i:10479;}i:2;a:1:{s:2:"id";i:10378;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-08-06-avoid-bug-task-anti-pattern-tfs.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '2499'
+  - meta_key: _last_editor_used_jetpack
+    meta_value: block-editor
+  - meta_key: footnotes
+    meta_value: ''
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1696958722'
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '9'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: ''
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '7'
+  - meta_key: _yoast_wpseo_wordproof_timestamp
+    meta_value: ''
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44704}!}
+      +
+      {!{https://nkdagility.com/blog/audience-post/audiences-posts-44704-10662/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44703}!}
+      +
+      {!{https://nkdagility.com/blog/audience-post/audiences-posts-44703-10662/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44700}!}
+      +
+      {!{https://nkdagility.com/blog/audience-post/audiences-posts-44700-10662/}!}
+  - meta_key: _toolset_associations_course-post
+    meta_value: >-
+      {!{http://nakedalmweb.wpengine.com/?post_type=courses&#038;p=10045}!} +
+      {!{https://nkdagility.com/blog/course-post/courses-posts-10045-10662/}!},
+      {!{http://nakedalmweb.wpengine.com/?post_type=courses&#038;p=10046}!} +
+      {!{https://nkdagility.com/blog/course-post/courses-posts-10046-10662/}!}
+  comment:
+  - comment_id: '3132'
+    comment_author: Wouter de Kort
+    comment_author_email: wouter.dekort@seizeit.nl
+    comment_author_url: ''
+    comment_author_IP: 87.208.31.88
+    comment_date: '2014-08-06 16:51:00'
+    comment_date_gmt: '2014-08-06 15:51:00'
+    comment_content: >-
+      Great post! I often see customers struggle with the idea of Bugs as PBIs,
+      especially when all they do is create a single task 'fix' for it.
+
+      What kinds of bug tasks do you see your customers creating?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1530257042'
+  - comment_id: '3133'
+    comment_author: Dew Drop &#8211; August 7, 2014 (#1831) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/08/07/dew-drop-august-7-2014-1831/
+    comment_author_IP: 168.62.50.182
+    comment_date: '2014-08-07 13:45:49'
+    comment_date_gmt: '2014-08-07 12:45:49'
+    comment_content: >-
+      [&#8230;] Avoid the Bug as Task anti-pattern in TFS (Martin Hinshelwood)
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407415549.95687;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407599417.075175;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '3152'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-08-09 17:01:00'
+    comment_date_gmt: '2014-08-09 16:01:00'
+    comment_content: >-
+      I often see things like "That box is off by 3 pixels" or some other
+      non-bug. For me, with no exceptions, a bug is the result of a failing test
+      case. Either we have a failing Functional test that needs investigating,
+      or we have 'feedback' from users that something does not work. If the
+      former we already have a  test case, and for the later a Tester will
+      investigate and, if the bug is valid, will create both the Test Case and
+      the Bug.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3132'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1530257042'
+    - meta_key: dsq_post_id
+      meta_value: '1535034603'
+  - comment_id: '3153'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-08-09 17:03:00'
+    comment_date_gmt: '2014-08-09 16:03:00'
+    comment_content: >-
+      If they are creating a single task to fix a bug then it was either not a
+      bug, or they did not fix it properly. You at least have work to repair the
+      issue, to cross check the repair, and to test the repair. Smacks of not
+      having a Definition of Done when there is only "Fix bug" as a task...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3132'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1530257042'
+    - meta_key: dsq_post_id
+      meta_value: '1535036540'
+  - comment_id: '4326'
+    comment_author: >-
+      Ranger Flash – August 2014 … Planets are aligned - Willy&#039;s
+      Reflections - Visual Studio ALM Rangers - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2014/09/02/ranger-flash-august-2014-planets-are-aligned.aspx
+    comment_author_IP: 157.56.75.144
+    comment_date: '2014-09-02 19:33:47'
+    comment_date_gmt: '2014-09-02 18:33:47'
+    comment_content: '[&#8230;] Avoid the Bug as Task anti-pattern in TFS (Martin H) [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1409682827.106894;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1409857638.717326;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11209'
+    comment_author: Bruce P. Henry
+    comment_author_email: bruce.henry+disqus@gmail.com
+    comment_author_url: http://www.brucephenry.com
+    comment_author_IP: 69.25.143.34
+    comment_date: '2015-03-04 18:30:00'
+    comment_date_gmt: '2015-03-04 18:30:00'
+    comment_content: >-
+      This creates a lot of busy work with tasks under the bug.  Since every bug
+      should go through a life cycle something like Active -&gt; In Progress
+      -&gt; Resolved -&gt; Done, isn't testing the step that takes a bug from
+      Resolved to Done?  Otherwise, for every bug we end up with a need to
+      create multiple tasks under it every time. This really feels like what
+      workflow states in a repeatable process are supposed to take care of.
+
+
+
+      Now instead of one ticket with all the info in it, I have something like 4
+      tickets (bug + 3 tasks) with descriptions and comments spread across all
+      of them. It seems unnecessarily complicated.
+
+
+
+      What am I missing here?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1887329171'
+  - comment_id: '11210'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.194.116
+    comment_date: '2015-03-04 18:45:00'
+    comment_date_gmt: '2015-03-04 18:45:00'
+    comment_content: >-
+      If you are using the Scrum template then the states are New -&gt; Approved
+      -&gt; Committed -&gt; DONE. There is no testing state and there should not
+      be as it encourages and enshrines a silo dysfunction on your organisation.
+
+
+      http://nkdagility.com/agile-vs-scrum-process-templates-team-foundation-server/
+
+      However something that is a bug is really something that cant just be
+      fixed with a simple task. If my tester is sitting next to my coder and
+      spots a problem with the thing that the coder just told him was finished
+      then it is just not finished yet. That's not a bug and my coder and tester
+      can work that out between them. 
+
+
+      If that bug is something that is going to impact delivery of a Sprint then
+      it is big enough to need both Product Owner approval, and require more
+      than one person to work on it. Therefore I need multiple tasks.
+
+
+      Additionally in TFS a bug is the result of a failing test case. In that
+      case that's a whole scenario that does not work. If you have a defect
+      reported by a stakeholder (anyone beyond the Development Team) then a team
+      member needs to look at it and see if it is actually a feature request, or
+      if it is aa bug. In the case of a bug they do an exploratory test and
+      create both the Test Case and the Bug in a single action.
+
+
+      If something is a 'that pixel is out by one', or 'the colour was supposed
+      to be red', then that is never a bug, is just something that is not done
+      yet, or if it ha already shipped, its a change to existing and approved
+      functionality.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11209'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1887329171'
+    - meta_key: dsq_post_id
+      meta_value: '1887358865'
+  - comment_id: '11255'
+    comment_author: Nikolay
+    comment_author_email: nnkostov@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 178.16.129.145
+    comment_date: '2015-03-06 09:22:00'
+    comment_date_gmt: '2015-03-06 09:22:00'
+    comment_content: >-
+      Thank you for the great post. In our company we are currently adopting
+      scrum and we
+
+      will use TFS 2013 on premises. We are currently working in two direction -
+
+      developing new projects (features) to our main product and support the
+
+      customers for using it. While using bugs at the level as PBI is great,
+      when we
+
+      receive bugs from support, I think that when we are developing new project
+      and
+
+      we found a bug when testing PBI, it must be fixed right away as child task
+      to
+
+      this PBI. The other way is to register a new bug, which obviously must be
+
+      prioritized and approved from the Product owner and then fixed by the team
+      (by
+
+      my opinion in the same sprint). My question is which way is better, to fix
+      bugs
+
+      right away for PBI with a child task (which is close to our current
+      practice)
+
+      or to define new bug at PBI level, involve Product owner, define the
+      sprint for
+
+      it and then fix it. In the first way I will not have information about all
+      the
+
+      found bugs, because of using tasks for fixing bugs. Please, give me your
+
+      opinion.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1891325690'
+  - comment_id: '11256'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-03-06 09:35:00'
+    comment_date_gmt: '2015-03-06 09:35:00'
+    comment_content: >-
+      Good question, and I have a few simple rules that are from the
+      Professional Scrum Developer (http://nkdalm.com/1b3UrEz) course:
+
+
+      In Sprint Bugs
+
+
+      If we find a defect in a PBI that we have not yet called DONE on then it
+      is just unfinished work and does not need a Bug. Create a task or let the
+      coder know that there is an issue and just fix it.
+
+
+      Out of Sprint bugs
+
+
+      If you find a defect in something that was previously considered DONE then
+      you need to create a Bug so that we can at least point at it at the
+      Retrospective. If that bug is not going to impact on the teams ability to
+      deliver that sprint then they should just fix it. If it is going to
+      impact, but is important, then they should let the Product Owner know and
+      ask if they want to remove something from the sprint of equal size and fit
+      it in, or if it should go to the backlog.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11255'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1891325690'
+    - meta_key: dsq_post_id
+      meta_value: '1891337851'
+  - comment_id: '12186'
+    comment_author: Korporal
+    comment_author_email: hugh_gleaves@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 98.174.232.85
+    comment_date: '2015-06-02 20:17:00'
+    comment_date_gmt: '2015-06-02 19:17:00'
+    comment_content: >-
+      I'm relatively new to scrum/agile but have lots of past experience with
+      project management and delivery of big budget fixed deadline projects
+      (primarily in the City of London). You said you often see things like
+      "That box is off by 3 pixels" and so on, then say a bug - by definition -
+      arises from a failing test case or an - as yet non-existing - test case,
+      so this begs the question do you actually create a test for the "off by 3
+      pixels" issue? If so then you're gonna be writing truck loads of such
+      tests each time a user makes such a criticism of the system surely?
+
+
+      The approach you seem to be advocating, enables any user to raise any
+      complaint and in doing so compel us to create test cases over and over,
+      surely this isn't what you mean?
+
+
+      Since the user is - to a large extent - unpredictable, this will make
+      ongoing effort estimation likewise more unpredictable too.
+
+
+      So how do you avoid the situation I'm describing here?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3152'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1535034603'
+    - meta_key: dsq_post_id
+      meta_value: '2058589345'
+  - comment_id: '12192'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-06-03 07:51:00'
+    comment_date_gmt: '2015-06-03 06:51:00'
+    comment_content: >-
+      , my point was that "off by 3" is not a bug. There is no crash and there
+      is no test case for that. And there should not be. 
+
+      If a piece of functionality is being developed in-sprint and you find an
+      issue then just fix it (its a task), if it is found out of Sprint then it
+      is a PBI that needs prioritised by the Product Owner. Any feedback from
+      stakeholders (anyone outside of the Scrum Team) is just that, feedback. 
+
+      The Development Team will identify if that feedback represents a Bug or a
+      PBI as part of backlog refinement with the PO. If it is a Bug then one of
+      the DT will need to create a Test Case that proved it exists, and thus
+      proves that it is fixed when it passes.
+
+      Here is the rub, if there is feedback of the form "those boxes do not
+      align" from customers, and they are looking at a DONE increment, then the
+      PO has accepted the work as is, including the alignment as shipped. Only
+      they, through the backlog, can approve the team to work on it.
+
+      Don't fall into the trap, that is easy with Bug as a Task, of dressing up
+      PBI's as Bugs in order to bypass the approval of the PO. That undermines
+      their authority.
+
+      Now, if you are getting enough "off by 3" types of issues that you are
+      thinking "OMG I have to create another PBI" then you likely have a quality
+      issue. This process makes that transparent to the PO and maybe the DT
+      should be increasing their DOD to reduce the frequency.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12186'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2058589345'
+    - meta_key: dsq_post_id
+      meta_value: '2059429397'
+  - comment_id: '12264'
+    comment_author: John Peters
+    comment_author_email: jwpminnesota@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 129.176.151.18
+    comment_date: '2015-06-11 00:44:00'
+    comment_date_gmt: '2015-06-10 23:44:00'
+    comment_content: >-
+      Martin; I agree totally with this assessment.  If a QA team pushes TDD the
+      test is created before the code.  Most developers aren't doing that even
+      today.  The next closest step is to test code on each iteration and create
+      a bug for everything that didn't make the grade.  This could wind up with
+      huge bug backlogs which are good because Managers, SMEs, BSAs, Product
+      owners, Developers and QA teams get to see and review, adjust, prioritize
+      each one of them.  In fact Bug queues prior to any production push become
+      the defacto Knowledge base on how this "puppy" really works.  If
+      developers are required to put comments in as to what they fixed, then the
+      loop is complete.  Only QA folks should close the bugs in this excellent
+      TFS closed-loop system.  Pushes to production then become a 5 minute
+      session on "How many bugs are open" and "What are there severity".  Can we
+      take the risk or not.  This is the only way to get to pure objective based
+      decisions making.  Anything less is purely subjective.   In fact it works
+      so well, we should remain Bugs before production to "Design Point Work
+      Items"  the developers would have a better time with that than the
+      ubiquitous ugly bad word "Bug"...  My philosophy is create bugs liberally
+      during pre-production work effort, It's the only way to get all around
+      agreement on the "finer points of the design:"...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2072811411'
+  - comment_id: '12275'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-06-11 12:25:00'
+    comment_date_gmt: '2015-06-11 11:25:00'
+    comment_content: >-
+      @disqus_TOgNSvWnKm:disqus, I take the approach that one should not create
+      a bug unless a) there is a failure, and b) its in something that was
+      already shipped. This reduced the frequency of non-bug bugs :) and allows
+      the team to focus on what is important. Everything else gets added  as a
+      PBI and the PO prioritises it...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12264'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2072811411'
+    - meta_key: dsq_post_id
+      meta_value: '2073482084'
+  - comment_id: '12280'
+    comment_author: John Peters
+    comment_author_email: jwpminnesota@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 129.176.197.220
+    comment_date: '2015-06-11 16:52:00'
+    comment_date_gmt: '2015-06-11 15:52:00'
+    comment_content: >-
+      @MrHinsh:disqus I believe the whole issue with these different approaches
+      is in the unfortunate connotation of the word "Bug".  I we are truly
+      wanting to test earlier even to the point of TDD, then we a really
+      providing tests based on Specs. first, code is only written to the test to
+      "Green" light the test.  But if developers are not writing Unit Tests, or
+      are interested in TDD, the only other option we have is to 1) Have QA
+      embed with Dev teams to help write Unit Tests or 2) They write Grey box
+      tests that approach Unit testing but without seeing the code.  If option 2
+      is picked then the only option for the team in TFS is to write a bug.  But
+      as mentioned earlier it's not really a bug but a design point
+      consideration.  If 80% of all production bugs happen in code and
+      design/spec. phase, then we do best to push testing as early as
+      possible.  
+
+
+
+      I agree with you that we should never write a bug that is the fault of the
+      test.  However, we know that if the "User can do it, they will" is always
+      true.  If the tester can do it then it needs to be either voted as valid
+      or invalid by someone who is willing to take responsibility.  This
+      approach stops finger pointing and the developer is then protected because
+      the entire team agreed to the solution.  
+
+
+
+      QA is on different page than developers and should always write a bug, we
+      fully expect around 20% to be marked invalid if... those particular edge
+      conditions are impossible in Prod environment.  Anything less is an
+      indicator the QA team is not doing a good job.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12275'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2073482084'
+    - meta_key: dsq_post_id
+      meta_value: '2073890102'
+  - comment_id: '12284'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-06-11 20:22:00'
+    comment_date_gmt: '2015-06-11 19:22:00'
+    comment_content: Agreed
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12280'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2073890102'
+    - meta_key: dsq_post_id
+      meta_value: '2074291394'
+  - comment_id: '12668'
+    comment_author: Avoid the Bug as Task anti-pattern in TFS - Eat Sleep Code Repeat
+    comment_author_email: ''
+    comment_author_url: http://eatsleepcoderepeat.de/avoid-the-bug-as-task-anti-pattern-in-tfs
+    comment_author_IP: 212.227.118.18
+    comment_date: '2015-07-13 21:40:33'
+    comment_date_gmt: '2015-07-13 20:40:33'
+    comment_content: >-
+      [&#8230;] TFS bietet die Möglichkeit Bugs als Task zu verwalten. Diese
+      Möglichkeit sollte man nicht nutzen. Es macht wenig Sinn für Bugs Tasks
+      anzulegen, wenn deren Behebung nur wenige Minuten benötigt. [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1436820033.923457;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1436888951.272244;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '12853'
+    comment_author: Grant Abernethy
+    comment_author_email: grant.abernethy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 38.122.113.146
+    comment_date: '2015-08-03 20:07:00'
+    comment_date_gmt: '2015-08-03 19:07:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      Thanks for all the great information. I now understand better the purpose
+      behind a bug and the overall definition that I should be working with. I
+      am taking the lead in transitioning our Product Management team to using
+      TFS as our ALM platform. As I am learning the configuration steps and
+      available options, I noticed that not only can you choose to have a bug be
+      on par with a PBI/User Story or Task, but you can choose to not display
+      Bugs on the backlog at all.
+
+
+      What would the purpose be of hiding bugs from the backlog? It seems odd
+      that MS would even allow this as then you can only get a clear view of
+      bugs by using queries. Is there some other valid reason why you wouldn't
+      want to show bugs on the backlog?
+
+
+      Thanks for any thoughts you have.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2172392164'
+  - comment_id: '12858'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-04 08:21:00'
+    comment_date_gmt: '2015-08-04 07:21:00'
+    comment_content: >-
+      It’s a dysfunction that many teams and organisations still have. Bugs are
+      not good
+
+      things to have, lost of bugs even worse. Its a sign of technical debt,
+      poor quality, and a risk to an organisational asset. So if you have a lot
+      of bugs you might
+
+      want to hide them from everyone because you are a) ashamed of your poor
+
+      quality, or b) deliberately trying to deceive the customer/PO/business as
+      to
+
+      the amount of technical debt that you have.
+
+
+      If you are a CFO then Technical Debt as us geeks call it is more analogous
+      to an Unhedged Fund. This quality differential is reducing the value of
+      your organisational asset and should not only be reflected on your balance
+      sheet, but also decisions about it should be taken by the board.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12853'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2172392164'
+    - meta_key: dsq_post_id
+      meta_value: '2173263506'
+  - comment_id: '12862'
+    comment_author: Grant Abernethy
+    comment_author_email: grant.abernethy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 38.122.113.146
+    comment_date: '2015-08-04 19:12:00'
+    comment_date_gmt: '2015-08-04 18:12:00'
+    comment_content: Thanks for the reply!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12858'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2173263506'
+    - meta_key: dsq_post_id
+      meta_value: '2174154516'

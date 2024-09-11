@@ -1,0 +1,398 @@
+post:
+  title: New un-versioned repository in TFS 2012
+  link: https://nkdagility.com/blog/new-un-versioned-repository-in-tfs-2012/
+  pubDate: Thu, 18 Apr 2013 18:34:03 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9452
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">In the last wave of updates to Team Foundation Service the
+    product team has added a new “staging location” and we now have an
+    un-versioned repository in TFS 2012.</p>
+
+    <p>Why do you care you might ask… well I will tell you.</p>
+
+    <h2>Why we needed an un-versioned repository in TFS 2012</h2>
+
+    <p>Usually we store our build drops on a network share. As part of a build
+    you have always (with Team Foundation Service) been able to store those
+    build drops inside of your Version Control repository… and this has been
+    both a blessing and a curse.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image17.png" width="800"
+    height="480"/><br /><strong>Figure: Copy build output to the following
+    source control folder.</strong></p>
+
+    <p>It allowed us to remove the dependency on a network share to store our
+    drop files and more importantly it results in our drop folders being backed
+    up with the same rigor as TFS.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image18.png" width="800"
+    height="480"/><br /><strong>Figure: Drops in version control</strong></p>
+
+    <p>Unfortunately it also meant that&nbsp; we clogged up our version control
+    repository with files and sometimes big files. When files are added to a
+    versioned repository there are a lot of computing power used to figure out
+    versions and deltas and other need things, but for a drop folder we don't
+    need those.</p>
+
+    <p>Worse when you want to remove old stuff you need to call a “<a
+    href="http://msdn.microsoft.com/en-us/library/bb386005(v=vs.100).aspx"
+    target="_blank">destroy</a>” command to be sure that you don’t leave all of
+    those files taking up space forever.</p>
+
+    <h2>Using the new un-versioned repository in TFS 2012</h2>
+
+    <p>To the rescue comes an un-versioned repository for storing your build
+    drops.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image19.png" width="800"
+    height="480"/><br /><strong>Figure: Copy build output to the
+    server</strong></p>
+
+    <p>By editing your build definition and changing the staging location for
+    your build defaults to the new option you can remove all of your files from
+    Version Control and have them stored somewhere else. Select “Copy build
+    output to the server” to enable this feature.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image20.png" width="800"
+    height="480"/><br /><strong>Figure: Download from un-versioned repository in
+    TFS 2012</strong></p>
+
+    <p>Now when we click “Open Drop Folder” we get redirected to the build page
+    in Team Web Access and are presented with a “Download drop as zip”.</p>
+
+    <p>Currently there is no ‘browser’ for the files that are stored in the
+    un-versioned repository in TFS 2012 but I would expect one to be fourth
+    coming. This is however an REST API that you can use to access not just zips
+    but the individual files as well. More to come on that…. but to fill in the
+    gap:</p>
+
+    <ul>
+
+    <li><a href="https://officesharepointci.codeplex.com/releases/view/102774"
+    target="_blank">TfsDropDownloader from the SharePoint Team</a></li>
+
+    </ul>
+
+    <h2>Cleaning up after the versioned build repository in TFS 2012</h2>
+
+    <p>You will likely want to remove all of the old files that you have been
+    pumping into version control and the only way to do that is to use the
+    Destroy command:</p>
+
+    <pre class="brush: plain; ruler: true;">tf destroy $/TfsExtensions/Drops
+    /collection:https://mrhinsh.visualstudio.com/defaultcollection
+
+    </pre>
+
+    <p>This will completely remove all of the files from source control and
+    eradicate them from history.</p>
+
+    <p><img title="image" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; margin: 0px; border-left: 0px; display: inline; padding-right: 0px"
+    border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image21.png" width="800"
+    height="480"/><br /><strong>Figure: Destroy a folder from TFS version
+    control</strong></p>
+
+    <p>While heavy handed it does clean up things nicely.</p>
+
+    <h2 class="conclusion">Conclusion</h2>
+
+    <p>We can only hope that this will be a feature of dev12! And what else
+    might the product team decide to do with an un-versioned store? Symbols;
+    Nuget Packages… the options are endless…</p>
+  - >-
+    <p class="lead">In the last wave of updates to Team Foundation Service the
+    product team has added a new “staging location” and we now have an
+    un-versioned repository in TFS 2012.</p>
+  post_id: '9452'
+  post_date: '2013-04-18 11:34:03'
+  post_date_gmt: '2013-04-18 18:34:03'
+  post_modified: '2013-04-18 11:34:03'
+  post_modified_gmt: '2013-04-18 18:34:03'
+  comment_status: open
+  ping_status: open
+  post_name: new-un-versioned-repository-in-tfs-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '88'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: un-versioned repository
+  - meta_key: _yoast_wpseo_title
+    meta_value: New un-versioned repository in TFS 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      In the last wave of updates to Team Foundation Service the product team
+      has added a new “staging location” and we now have an un-versioned
+      repository in TFS 2012.
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51703e81a9183c3a6800002f";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1366310529;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1366369800;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51703e81a9183c3a6800002f";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:79:"New
+      Post: New un-versioned repository in TFS 2012 http://buff.ly/13qdkSp
+      #vsalm";s:14:"text_formatted";s:294:"New Post: New un-versioned repository
+      in TFS 2012 <a class="url" href="http://buff.ly/13qdkSp" rel="external
+      nofollow" target="_blank">http://buff.ly/13qdkSp</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1366310529;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51703e81a9183c3a68000030";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1366310529;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1366416360;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51703e81a9183c3a68000030";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:68:"http://blog.hinshelwood.com/new-un-versioned-repository-in-tfs-2012/";s:11:"description";s:166:"In
+      the last wave of updates to Team Foundation Service the product team has
+      added a new “staging location” and we now have an un-versioned repository
+      in TFS 2012.";s:5:"title";s:39:"New un-versioned repository in TFS
+      2012";s:4:"link";s:68:"http://blog.hinshelwood.com/new-un-versioned-repository-in-tfs-2012/";s:7:"preview";s:73:"http://blog.hinshelwood.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:79:"New
+      Post: New un-versioned repository in TFS 2012 http://buff.ly/13qdkSt
+      #vsalm";s:14:"text_formatted";s:294:"New Post: New un-versioned repository
+      in TFS 2012 <a class="url" href="http://buff.ly/13qdkSt" rel="external
+      nofollow" target="_blank">http://buff.ly/13qdkSt</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1366310529;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51703e81a9183c3a68000031";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1366310529;s:3:"day";s:19:"Saturday
+      20th April";s:6:"due_at";i:1366451340;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51703e81a9183c3a68000031";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:68:"http://blog.hinshelwood.com/new-un-versioned-repository-in-tfs-2012/";s:11:"description";s:166:"In
+      the last wave of updates to Team Foundation Service the product team has
+      added a new “staging location” and we now have an un-versioned repository
+      in TFS 2012.";s:5:"title";s:39:"New un-versioned repository in TFS
+      2012";s:4:"link";s:68:"http://blog.hinshelwood.com/new-un-versioned-repository-in-tfs-2012/";s:7:"preview";s:73:"http://blog.hinshelwood.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:79:"New
+      Post: New un-versioned repository in TFS 2012 http://buff.ly/13qdnO1
+      #vsalm";s:14:"text_formatted";s:294:"New Post: New un-versioned repository
+      in TFS 2012 <a class="url" href="http://buff.ly/13qdnO1" rel="external
+      nofollow" target="_blank">http://buff.ly/13qdnO1</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1366310529;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:30;s:12:"buffer_count";i:3;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: dsq_thread_id
+    meta_value: '1220542329'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/16CMs1I
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474608509;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10970;}i:1;a:1:{s:2:"id";i:3361;}i:2;a:1:{s:2:"id";i:5415;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-04-18-new-un-versioned-repository-in-tfs-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '784'
+  comment:
+  - comment_id: '1643'
+    comment_author: New un-versioned repository in TFS 2012 | Visua...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4000388021/new-un-versioned-repository-in-tfs-2012
+    comment_author_IP: 89.30.105.121
+    comment_date: '2013-04-22 08:57:59'
+    comment_date_gmt: '2013-04-22 15:57:59'
+    comment_content: >-
+      [...] In the last wave of updates to Team Foundation Service the product
+      team has added a new &ldquo;staging location&rdquo; and we now have an
+      un-versioned repository in TFS 2012.&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1366646279.067952;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1366677777.290264;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1644'
+    comment_author: Zephan Schroeder
+    comment_author_email: zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: 67.137.149.122
+    comment_date: '2013-04-27 00:58:00'
+    comment_date_gmt: '2013-04-26 23:58:00'
+    comment_content: >-
+      This is pretty cool. My team currently manually checks in release builds
+      to a release TFS Team Project as our repository, but I know this will need
+      some heavy handed cleanup soon. 
+       
+      Can you describe (or point to docs describing) how TFS2012 "Copy Build
+      Output" is stored in TFS? 
+
+      A) Are these files hosted within SQL Server DB (hence backed up by
+      standard TFS backup procedures)?
+
+      B) How are these builds deleted or automatically cleaned up? (Does it
+      transparently use same mechanisms provided by build definition retention
+      policy?)
+       
+      Thanks! -Zephan
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '877249595'
+  - comment_id: '1645'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-04-27 01:10:00'
+    comment_date_gmt: '2013-04-27 00:10:00'
+    comment_content: |-
+      A) yes
+      B) yes
+
+      I don't think there are any docs yet...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1644'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '877249595'
+    - meta_key: dsq_post_id
+      meta_value: '877255244'
+  - comment_id: '1646'
+    comment_author: Visual Studio ALM Links &ndash; Week 17 / 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.codewrecks.com/blog/index.php/2013/04/27/visual-studio-alm-links-week-17-2013/
+    comment_author_IP: 137.116.195.11
+    comment_date: '2013-04-27 10:43:39'
+    comment_date_gmt: '2013-04-27 09:43:39'
+    comment_content: '[...] New Un-Versioned repository in TFS 2012 [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1367088096.296876;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1647'
+    comment_author: Tim Williams
+    comment_author_email: r.tim.williams@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 217.45.214.3
+    comment_date: '2013-06-11 17:40:00'
+    comment_date_gmt: '2013-06-11 16:40:00'
+    comment_content: >-
+      The source code for this has got me a lot closer to understanding how to
+      download a drop from Team Foundation Service (ie tfs.visualstudio.com),
+      especially how to build the URL to the zip, but I think the API may have
+      changed - even when I authenticate correctly to an endpoint such as:
+
+
+      https://tflonline.visualstudio.com/DefaultCollection/_apis/resources/containers/804/drop/BuildDefinitionName_20130611.5.zip
+
+
+      it returns an empty response of application/json rather than the zip. Is
+      there any documentation of this API yet? I'd really like to grab the built
+      output of some of our builds to create a proper build pipeline.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '926516933'
+  - comment_id: '1648'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-06-11 18:41:00'
+    comment_date_gmt: '2013-06-11 17:41:00'
+    comment_content: >-
+      You need to look at TfsDropDownloader from the SharePoint Team to get the
+      code to do the download... I had the same problem :(
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1647'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '926516933'
+    - meta_key: dsq_post_id
+      meta_value: '926581979'
+  - comment_id: '1649'
+    comment_author: Tim Williams
+    comment_author_email: r.tim.williams@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 217.45.214.3
+    comment_date: '2013-06-12 09:34:00'
+    comment_date_gmt: '2013-06-12 08:34:00'
+    comment_content: >-
+      Thanks Martin - I was using their source code but am perhaps not using it
+      correctly. I will follow up with them on the CodePlex site.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1648'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '926581979'
+    - meta_key: dsq_post_id
+      meta_value: '927458439'

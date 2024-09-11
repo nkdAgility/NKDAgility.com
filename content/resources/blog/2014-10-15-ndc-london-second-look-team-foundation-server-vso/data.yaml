@@ -1,0 +1,184 @@
+post:
+  title: 'NDC London: Second Look, Team Foundation Server &amp; VSO'
+  link: >-
+    https://nkdagility.com/blog/ndc-london-second-look-team-foundation-server-vso/
+  pubDate: Wed, 15 Oct 2014 14:49:05 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10811
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.</p>\r\n<p><a href=\"http://www.ndcvideos.com/#/app/video/2641\"><img class=\"alignnone wp-image-10977 size-medium\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/martin-hinshelwood-ndc-london-2014-tfs-vso-800x450.png\" alt=\"martin-hinshelwood-ndc-london-2014-tfs-vso\" width=\"800\" height=\"450\" /></a></p>\r\n<p>My session, Second Look, Team Foundation Server &amp; VSO, will be aimed at those folks that have previously tried TFS and found it lacking. Most of those folks previously used a version of TFS prior to TFS 2012 where things started to get really interesting. Indeed if you are building an application using the Microsoft stack there is no better ALM platform.</p>\r\n<p><img title=\"1030_image_thumb_0AF311DD\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/1030-image-thumb-0AF311DD.png\" alt=\"1030_image_thumb_0AF311DD\" width=\"392\" height=\"450\" border=\"0\" /></p>\r\n<p>The main reason that IBM scores a little higher on completeness is that they have better support for other platforms but at a loss of features for any specific one. While Visual Studio ALM has good support for any platform, the support for the Microsoft stack is second to none.</p>\r\n<p>With the time constraint and the amount of things I want to show my session will need to be demo heavy. The type of person that I am gearing this session towards are the hard core who tried TFS prior to 2012 and don’t believe the marketing. Do demos it is… but I just looked back at what I submitted:</p>\r\n<blockquote>\r\n<p>You may have looked at Team Foundation Server before and if it was before 2012 then you should have another look. It is not the same product it used to be. Come and see Martin do an end to end walk through from Ideation through Coding, Testing and Release with monitoring and feedback. Martin will cover some of the new advances with Storyboarding, Agile Project Management, and Agile Portfolio Management. He will then delve into the new ALM features added since 2010 for coders like My Work, Code Sense, and Local Workspaces and even Git. With the new Test Management tools in the web complimented with Microsoft Test Manager your testers can easily manage, execute and report on your test plans. All the while we will be using the new Release Management tools to push our application to each environment and ultimately to production. Once there we can monitor our application for usage and performance with rich statistics.</p>\r\n<p>All in all TFS is a world premier ALM solution that provides everything that you need to manage the Application Lifecycle of your application.</p>\r\n</blockquote>\r\n<p>Oh my… look what I signed myself up to!</p>\r\n<p>Wana see this session? Sign up for a ticket at: <a href=\"http://ndc-london.com\">http://ndc-london.com</a></p>\r\n<p>So it's going to have to be 45+ minutes Demo, and I have two options. I can do everything in my local demo box, and that will be the backup scenario, or I can go Azure crazy. Between now and NDC London I will be blogging on setting up and configuring continuous everything with VSO and Azure. What do I mean by continuous everything?</p>\r\n<p><a href=\"http://nkdagility.com/wp-content/uploads/2014/10/clip-image0025.png\"><img title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image002-thumb.png\" alt=\"clip_image002\" width=\"800\" height=\"451\" border=\"0\" /></a></p>\r\n<p>Well, I want the full lifecycle with Azure Active Directory integration driving authentication and collaboration with Azure, Visual Studio Online, and Office 365. This would be a huge demo if I stopped to explain all the features along the way, so I am not going to. The audience at NDC is very smart and this is going to be a level 400 high-speed walkthrough of the core features added to TFS since 2012.</p>\r\n<p>There will however need to be trade-offs so I am looking for your help to see what features to spend the most time on and what to just mention in passing. Are you going to NDC?</p>\r\n<p><a href=\"https://www.surveymonkey.com/r/C2FCM79\">Feedback Request - What Features do you most want to see?</a></p>\r\n<p>I am not yet sure if I will be using green field or brownfield as each have their pros and cons. In my flying time deliberations I have been contemplating three main scenarios:</p>\r\n<ol>\r\n<li>Greenfield<br />Start with an empty team project and build everything up from scratch. That would mean getting the code in, creating a backlog, writing some code, followed by some testing and then an automated build. I would then get a few minutes while the build executes to create a release management pipeline and push to the environments.</li>\r\n<li>Greenfield TFS / brownfield project<br />Again, start with an empty team project but import from somewhere else. Maybe pull in a Github project and do the same as above.</li>\r\n<li>Brownfield<br />Have an existing end to end setup and just walk through adding a feature or fixing a bug and the interactions involved.</li>\r\n</ol>\r\n<p>I guess it depends how long my session is with brownfield being the easiest to pull off. A plan then would be to get brownfield working and then, if there is time, look into the other options. So let's see what the scenarios are that I plan on tackling:</p>\r\n<h3>Brownfield Scenario 1 - The new Feature</h3>\r\n<p>In this scenario we have a new feature and we are going to implement a single PBI to do with this feature. We need to have a Storyboard to go with the PBI for coder context and Test Cases prior to commencing the work. We then make two passes, the first with build and deploy of the new code. The second with automation of the now passing test case.</p>\r\n<ol>\r\n<li>Create new Feature in TFS</li>\r\n<li>Create Storyboard to show feature</li>\r\n<li>Create PBI's to reflect feature</li>\r\n<li>Create Test Cases for one PBI</li>\r\n<li>Code till test cases pass using TDD</li>\r\n<li>Push to Repo</li>\r\n<li>Build &amp; Test with Team Build</li>\r\n<li>Deploy with Release Manager to Feedback01</li>\r\n<li>Coder Validation</li>\r\n<li>Deploy with Release Manager to Feedback02</li>\r\n<li>Tester Validation &amp; Recording</li>\r\n<li>Coder Automates Test Case</li>\r\n<li>Deploy with Release Manager to Feedback01</li>\r\n<li>Coder Validation of Automation</li>\r\n<li>Deploy with Release Manager to Feedback02</li>\r\n<li>Tester review of Results</li>\r\n<li>Deploy with Release Manager to Feedback03</li>\r\n<li>Product Owner Validation</li>\r\n<li>Review of Application Analytics usage data</li>\r\n</ol>\r\n<h3>Brownfield Scenario 2 - The Bug</h3>\r\n<p>In this scenario we have a user who, is the process of providing feedback, finds an issue. The Product Owner gets this bug verified by a Tester and a relevant test case created to prove that it exists. This is then prioritized and enters the current sprint, maybe with something dropping out the bottom. The coder then fixes it and the tester verifies it before automating the result to prevent regression.</p>\r\n<ol>\r\n<li>User Gets feedback request and actions</li>\r\n<li>User Finds and reports bug as part of feedback</li>\r\n<li>Product Owner breaks feedback down into PBI's</li>\r\n<li>Product Owner reviews feature usage stats and notifies tester of possible important bug</li>\r\n<li>Tester validates existence of bug and creates rich bug and Test Case</li>\r\n<li>Bug prioritized and added to current sprint</li>\r\n<li>Code till test cases pass using TDD</li>\r\n<li>Push to Repo</li>\r\n<li>Build &amp; Test with Team Build</li>\r\n<li>Deploy with Release Manager to Feedback01</li>\r\n<li>Coder Validation</li>\r\n<li>Deploy with Release Manager to Feedback02</li>\r\n<li>Tester Validation &amp; Recording</li>\r\n<li>Coder Automates Test Case</li>\r\n<li>Deploy with Release Manager to Feedback01</li>\r\n<li>Coder Validation of Automation</li>\r\n<li>Deploy with Release Manager to Feedback02</li>\r\n<li>Tester review of Results</li>\r\n<li>Deploy with Release Manager to Feedback03</li>\r\n<li>Product Owner Validation and emails User</li>\r\n</ol>\r\n<h3>Scenario Choice</h3>\r\n<p>As well as understanding what features you, as the audience on the day, want to hit I also want to know which scenario is more interesting.</p>\r\n<p><a href=\"https://www.surveymonkey.com/r/CCN7ZR9\">Feedback Request - Which scenario looks most desirable?</a></p>\r\n<h2>Conclusion</h2>\r\n<p>I am really looking forward to this session as it will give me a chance to directly target nay-sayers that are not really aware of the capabilities of the product. If you are building for .NET then there is no better platform.</p>\r\n<p>Please provide me with some feedback on the polls above. I am very interested in focusing on what will solve the most problems for attendees. I will also be around for the full 3 days and would be happy to do add-hock demos and problem solving sessions… Unless there is a supper interesting session on the go I would be happy to provide free TFS consulting for any and all attendees of NDC London on the days.</p>\r\n<p>If you are on a tight schedule I would be happy to have you pre-book some time. Email info@nakedalm.com to get some free TFS &amp; VSO consulting at NDC London.</p>"
+  - ''
+  post_id: '10811'
+  post_date: '2014-10-15 15:49:05'
+  post_date_gmt: '2014-10-15 14:49:05'
+  post_modified: '2014-12-08 13:49:40'
+  post_modified_gmt: '2014-12-08 13:49:40'
+  comment_status: open
+  ping_status: open
+  post_name: ndc-london-second-look-team-foundation-server-vso
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _thumbnail_id
+    meta_value: '8836'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1xSmliN
+  - meta_key: dsq_thread_id
+    meta_value: '3119280092'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpcf_belongs_speaking-engagements_id
+    meta_value: '10821'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1471309865;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9239;}i:1;a:1:{s:2:"id";i:10214;}i:2;a:1:{s:2:"id";i:11248;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-10-15-ndc-london-second-look-team-foundation-server-vso.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '773'
+  comment:
+  - comment_id: '5545'
+    comment_author: Monjurul Habib
+    comment_author_email: monjurul.habib@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 180.234.86.52
+    comment_date: '2014-10-15 18:04:00'
+    comment_date_gmt: '2014-10-15 17:04:00'
+    comment_content: >-
+      hi there, in scenario 1:  the product owner role should be prominent in
+      early stage and of course at the end.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1637459734'
+  - comment_id: '7418'
+    comment_author: >-
+      Configuring a DC in Azure for AAD integrated Release Management | naked
+      ALM - Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/configuring-dc-azure-aad-integrated-release-management/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-11-14 15:25:20'
+    comment_date_gmt: '2014-11-14 15:25:20'
+    comment_content: >-
+      [&#8230;] will be speaking at NDC London: Second Look, Team Foundation
+      Server &amp; VSO and I am planning to be a little adventurous with the
+      demo. For this I will be configuring a DC in [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1415978720.77058;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1416767367.582464;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '9090'
+    comment_author: >-
+      NDC London 2014: Why TFS no longer sucks and VSO is awesome | naked ALM -
+      Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-12-18 09:00:55'
+    comment_date_gmt: '2014-12-18 09:00:55'
+    comment_content: >-
+      [&#8230;] was in London last week to do a talk&nbsp;on why TFS no longer
+      sucks&nbsp;entitled “Second Look, Team Foundation Server &amp;
+      VSO”.&nbsp;I had a tone of preparatory work to do too make the demos
+      smooth. The great god Murphy was [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1418893255.461514;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1418893728.043575;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '10359'
+    comment_author: >-
+      Create a Release Management pipeline for Professional Developers | naked
+      ALM - Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/create-release-management-pipeline-professional-developers/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-22 12:09:03'
+    comment_date_gmt: '2015-01-22 12:09:03'
+    comment_content: >-
+      [&#8230;] was speaking at NDC London 2014 this week and as my talk is all
+      about how Team Foundation Server does not suck like it used to back before
+      2012 I need to demonstrate automatic environment deployments as part of
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421928543.614682;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421933475.610589;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

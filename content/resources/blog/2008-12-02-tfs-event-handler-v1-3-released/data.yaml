@@ -1,0 +1,128 @@
+post:
+  title: TFS Event Handler v1.3 released
+  link: https://nkdagility.com/blog/tfs-event-handler-v1-3-released/
+  pubDate: Tue, 02 Dec 2008 11:08:37 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/12/02/tfs-event-handler-v1.3-released.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Updated and improved for Team System 2008.</p>  <p><a href=\"/Users/martihins/AppData/Local/Temp/WindowsLiveWriter1286139640/supfiles13CE4A31/vsts2.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"149\" alt=\"vsts_thumb[2]\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerv1.3released_9AE8-vsts_thumb2_6100a52c-c24a-4e2b-83c5-24f5480efa90.png\" width=\"244\" border=\"0\" /></a> </p>  <p><a title=\"http://www.codeplex.com/TFSEventHandler\" href=\"http://www.codeplex.com/TFSEventHandler\">http://www.codeplex.com/TFSEventHandler</a></p>  <p>The TFS Event Handler makes it easier to notify users of changes to Work Items in Team Foundation Server. You will no longer need to add individual alerts to users. </p>  <p>It is developed in .NET 3.5 SP1 for Team Foundation Server 2008 and is deployed as a system service.</p>  <p><font color=\"#ff0000\"><strong>I have added support for groups. If you add a TFS group into the Assigned To drop down all members of that group will receive notifications!</strong></font>\_</p>  <p>You will need to allow groups in your Assigned to list. Below is a snippet from me Bug work item type as it stands at the moment.</p>  <div class=\"csharpcode-wrapper\">   <div class=\"csharpcode\">     <pre><span class=\"lnum\">   1:</span> <span class=\"kwrd\">&lt;</span><span class=\"html\">FIELD</span> <span class=\"attr\">reportable</span><span class=\"kwrd\">=\"dimension\"</span> <span class=\"attr\">type</span><span class=\"kwrd\">=\"String\"</span> <span class=\"attr\">name</span><span class=\"kwrd\">=\"Assigned To\"</span> <span class=\"attr\">refname</span><span class=\"kwrd\">=\"System.AssignedTo\"</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   2:</span>     <span class=\"kwrd\">&lt;</span><span class=\"html\">HELPTEXT</span><span class=\"kwrd\">&gt;</span>The person assigned to act on the bug, either to fix it or to verify the fix<span class=\"kwrd\">&lt;/</span><span class=\"html\">HELPTEXT</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   3:</span>     <span class=\"kwrd\">&lt;</span><span class=\"html\">ALLOWEXISTINGVALUE</span> <span class=\"kwrd\">/&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   4:</span>     <span class=\"kwrd\">&lt;</span><span class=\"html\">ALLOWEDVALUES</span> <span class=\"attr\">filteritems</span><span class=\"kwrd\">=\"excludegroups\"</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   5:</span>         <span class=\"kwrd\">&lt;</span><span class=\"html\">LISTITEM</span> <span class=\"attr\">value</span><span class=\"kwrd\">=\"[project]Contributors\"</span> <span class=\"kwrd\">/&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   6:</span>     <span class=\"kwrd\">&lt;/</span><span class=\"html\">ALLOWEDVALUES</span><span class=\"kwrd\">&gt;</span></pre>\n\n    <pre><span class=\"lnum\">   7:</span> <span class=\"kwrd\">&lt;/</span><span class=\"html\">FIELD</span><span class=\"kwrd\">&gt;</span></pre>\n  </div>\n</div>\n\n<p>You can see on line 4 that there is a filter for excluding the groups from the list. If you are using <a href=\"http://codeplex.com/tfseventhandler\" target=\"_blank\">TFS Event Handler</a> v1.0 or v1.1 then you will need this line. If you install the new <a href=\"http://codeplex.com/tfseventhandler\" target=\"_blank\">TFS Event Handler</a> v1.3 then you will be able to remove that and start assigning work items to Groups. </p>\n\n<p><strong><font color=\"#ff0000\">Note: Although they will now get an email, the work item will not appear in their “My Work items” query. You may want to consider creating a Query for each Group.</font></strong></p>\n\n<p>The Alerts that you no longer need users to individually setup are:</p>\n\n<ul>\n  <li>A work item is assigned to you, or a group you are a member of. </li>\n\n  <li>A work item that is assigned to you, or a group you are a member of is, reassigned to someone else. </li>\n\n  <li>A work item that you created is assigned to someone else, or a group. </li>\n</ul>\n\n<p><font color=\"#ffffff\"></font></p>\n\n<p><font color=\"#ffffff\">There is also a framework for <a href=\"http://www.codeplex.com/TFSEventHandler/Wiki/View.aspx?title=TFS%20Event%20Handlers%20v1.0&amp;referringTitle=Home\" target=\"_blank\">creating and deploying your own event handlers</a> that can do pretty much whatever you want. One of the shipped examples updates “Heat ITSM” whenever a work item that contains a Heat Id is changed.</font></p>\n\n<p><font color=\"#ffffff\"></font></p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS+Custom\" rel=\"tag\">TFS Custom</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '158'
+  post_date: '2008-12-02 11:08:37'
+  post_date_gmt: '2008-12-02 11:08:37'
+  post_modified: '2008-12-02 11:08:37'
+  post_modified_gmt: '2008-12-02 11:08:37'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-event-handler-v1-3-released
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602599'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a75xcH
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"fdfcae5992d7e3c5daf76ef84328b048";a:2:{s:7:"expires";i:1472516736;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:160;}i:1;a:1:{s:2:"id";i:258;}i:2;a:1:{s:2:"id";i:259;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-12-02-tfs-event-handler-v1-3-released.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '567'
+  comment:
+  - comment_id: '471'
+    comment_author: Ian Ceicys
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-12-10 22:19:42'
+    comment_date_gmt: '2008-12-10 22:19:42'
+    comment_content: >-
+      Very cool to see this new release. I'm hoping to give it a whirl this
+      morning.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970586'
+  - comment_id: '472'
+    comment_author: Ian Ceicys
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-12-11 04:37:14'
+    comment_date_gmt: '2008-12-11 04:37:14'
+    comment_content: >-
+      I've been trying out the new 1.3 release. But I can't seem to get the
+      email notifications to use team web access.<br /><br />What am I doing
+      wrong?<br />I have this replacement in the
+      Hinshelwood.TFSEventHandler.exe.config<br /><br />  &lt;Replace
+      eventType="WorkItemChangedEvent"
+      old=":8080/WorkItemTracking/WorkItem.aspx?artifactMoniker="
+      new="/workitem.aspx?id=" /&gt;<br /><br />The link now bombs out. Help!<br
+      />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970588'
+  - comment_id: '473'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-12-11 05:37:42'
+    comment_date_gmt: '2008-12-11 05:37:42'
+    comment_content: >-
+      Is your url for TSWA the same as your TFS Server? <br /> <br />You may hav
+      to use:<br /> <br /> &amp;lt;Replace eventType="WorkItemChangedEvent"
+      old="servername.domain.com:8080/WorkItemTracking/WorkItem.aspx?artifactMoniker="
+      new="tswa.domain.com/workitem.aspx?id=" /&amp;gt;<br /> <br />And can you
+      please define "bombs out" please.. maybe a screenshot
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970590'

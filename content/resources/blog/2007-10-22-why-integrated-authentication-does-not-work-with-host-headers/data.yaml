@@ -1,0 +1,55 @@
+post:
+  title: Why Integrated Authentication does not work with host headers!
+  link: >-
+    https://nkdagility.com/blog/why-integrated-authentication-does-not-work-with-host-headers/
+  pubDate: Mon, 22 Oct 2007 12:28:06 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/10/22/why-integrated-authentication-does-not-work-with-host-headers.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><strong>You receive error 401.1 when you browse a <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6</strong></p> <p>This little problem occurs when you have Windows 2003 SP1 or later installed and you try to change your Team Foundation Server to a friendly name, like say tfs01.[intranet].[company].com.</p> <p>What I found was that when you tried to view tfs01.[intranet].[company].com on the local server, it popped up an authentication dialog and would not allow you in. Eventually giving you a 401 error.</p> <p>I consulted with one of Aggreko's Infrastructure Team guys, Gary Hay (no blog! Gary...Get a blog)\_, who when I pointed out the problem said, in way more polite terms, \"WTF\"!</p> <p>After a surprisingly short time, he sent me a link and told me it was fixed: <a title=\"http://support.microsoft.com/kb/896861\" href=\"http://support.microsoft.com/kb/896861\">http://support.microsoft.com/kb/896861</a></p> <blockquote> <p><em>This issue occurs if you install Microsoft Windows XP Service Pack 2 (SP2) or Microsoft Windows Server 2003 Service Pack 1 (SP1). Windows XP SP2 and Windows Server 2003 SP1 include a loopback check security feature that is designed to help prevent reflection attacks on your computer. Therefore, authentication fails if the FQDN or the custom host header that you use does not match the local computer name.</em></p></blockquote> <p>First, why would you want your server called the same as your website, and second, why would you NOT be hosting multiple sites under multiple host headers on the same server. I can only think of a couple of servers I have setup that have only one site, and it is NEVER called the same thing as the server...</p> <p>After some testing I found that it was indeed fixed. Now, I had this exact same problem at Merrill Lynch and even with their hundreds, if not thousands of technical folk, no one could solve the problem. Just goes to show...just coz you are big and have masses of people, does not mean you have the right people...</p> <p><img alt=\"smile_teeth\" src=\"http://spaces.live.com/rte/emoticons/smile_teeth.gif\" />\_Thanks Gary...</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '296'
+  post_date: '2007-10-22 12:28:06'
+  post_date_gmt: '2007-10-22 12:28:06'
+  post_modified: '2007-10-22 12:28:06'
+  post_modified_gmt: '2007-10-22 12:28:06'
+  comment_status: open
+  ping_status: open
+  post_name: why-integrated-authentication-does-not-work-with-host-headers
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '314497137'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1750x4X
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1470530858;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10006;}i:1;a:1:{s:2:"id";i:79;}i:2;a:1:{s:2:"id";i:204;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2007-10-22-why-integrated-authentication-does-not-work-with-host-headers.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '249'

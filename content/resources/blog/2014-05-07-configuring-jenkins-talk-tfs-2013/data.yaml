@@ -1,0 +1,344 @@
+post:
+  title: Configuring Jenkins to talk to TFS 2013
+  link: https://nkdagility.com/blog/configuring-jenkins-talk-tfs-2013/
+  pubDate: Wed, 07 May 2014 09:51:59 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10526
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.</p>\r\n<p>At the moment all of the source code, builds, and assets are owned outright by one individual and stored on a single Linux box. This will change over time as necessitates a scalable enterprise solution but for now I just want to move the source.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image0013.png\" alt=\"clip_image001\" width=\"545\" height=\"142\" border=\"0\" /><br /> <small>Figure: Jenkins connected to SVN</small></p>\r\n<p>In order to begin the move I first need to reassure all of those involved that, yes, TFS can indeed store source code. That is even before I try to convince them that TFS can do builds. To that end I intend to only change one thing. Move the Source Code to TFS…</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image0022.png\" alt=\"clip_image002\" width=\"552\" height=\"124\" border=\"0\" /><br /> <small>Figure: Jenkins connected to TFS</small></p>\r\n<p>The teams that use this are already using TFS for Backlog and Test management along with other things so it’s a simple step for them.</p>\r\n<h2>Installing the Team Foundation Server Plugin for Jenkins</h2>\r\n<p>It is worth noting that there is a plugin for Team Foundation Server for Jenkins. Although this plugin was built against, and is still tested against, TFS 2008 it works just fine with 2012. I have not checked for 2013, but as it just builds a command line it does not care itself. Indeed we are using the latest version of TE for Linux which was released just a few months ago…</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image0032.png\" alt=\"clip_image003\" width=\"800\" height=\"640\" border=\"0\" /><br /> <small>Figure: TFS Plugin for Jenkins</small></p>\r\n<p>The <a href=\"https://wiki.jenkins-ci.org/display/JENKINS/Team+Foundation+Server+Plugin\" target=\"_blank\">Jenkins Plugin for Team Foundation Server</a> is old. Although it has been updated recently it has been around since the days of TFS 2005 and still works great.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image0041.png\" alt=\"clip_image004\" width=\"804\" height=\"644\" border=\"0\" /><br /> <small>Figure: Managing Plugins in Jenkins</small></p>\r\n<p>If you login to Jenkins and head over to \"Manage Jenkins | Manage Plugins\" we can go ahead and get it installed.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image005.png\" alt=\"clip_image005\" width=\"804\" height=\"644\" border=\"0\" /><br /> <small>Figure: Install the TFS Plugin for Jenkins</small></p>\r\n<p>Nicely Jenkins has an adequate interface for installing plugins that are publically hosted. Makes things a little simpler than mucking about trying to get things installed yourself.</p>\r\n<h2>Configuring your first TFS build from Jenkins</h2>\r\n<p>For the very first build I wanted a really simple app. The Java build team here had a \"Test-Project\" that they used to debug and test their own builds so I just reused that.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image006.png\" alt=\"clip_image006\" width=\"800\" height=\"640\" border=\"0\" /><br /> <small>Figure: Check-in some Java code</small></p>\r\n<p>First step is to get the source code and check it in. We already have a directive from management to ditch the history (good call) which makes it easy to move source. I was emailed a zip file, I unpacked it and checked it in. I should note that I have very little experience with Java and almost zero with compiling it. I am just taking what I have been given and checking it in.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image007\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image007.png\" alt=\"clip_image007\" width=\"800\" height=\"640\" border=\"0\" /><br /> <small>Figure: Configure the Jenkins Build for TFS</small></p>\r\n<p>Now head over to \"Jenkins | Build Tools\" and open the existing build (that used to work against SVN.) Scroll down to the \"Source Code Management\" section and select the radio button for Team Foundation Server. The new options will light up. Now this system does not understand what a collection is (introduced in 2010) and it really does not matter. Anywhere you previously (2005 or 2008) entered the 'server URL' you just enter the full URL to the collection. So here where it says 'Server URL' we just fill out the <a href=\"https://my.fullyqualified.com/tfs/mycollection\">https://my.fullyqualified.com/tfs/mycollection</a> in the box.</p>\r\n<p><small><span class=\"label label-info\">Note</span> If you are using TFS Git you will need to install a Git plugin for Jenkins to get the source.</small></p>\r\n<p>The project path is also fairly strait forward. It’s the full path to the folder that you want to get from TFVC. If you are used to TF Builds remember that you will not be able to configure complex mappings in here. Indeed the SVN tool has the same limitation so it looks like A Jenkins thing. For this scenario it makes things easy though. I just have one path to get.</p>\r\n<p>You will need to set the username and password that you want to connect with but that’s about it. Save and build!</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image008\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image008.png\" alt=\"clip_image008\" width=\"800\" height=\"349\" border=\"0\" /></p>\r\n<p>It actually took me 5 builds to get it right as I got the domain name wrong…</p>\r\n<h2>Conclusion</h2>\r\n<p>It is so ridiculously easy to move your Source over to TFS when you are using Jenkins that there really is no reason not to. Once there however you really want to be looking at replacing Jenkins with TF Build.</p>\r\n<p>Things we loose by not using TF Build:</p>\r\n<ul>\r\n<li><strong>Associated Change sets</strong> – Team Build automatically associates a list of change sets that are included in the build</li>\r\n<li><strong>Associated Work Items</strong> – Team Build analysis the relationships and also associates Work Items with a build. Indeed it walks the work item tree (parent) and maintains that association in the chain.</li>\r\n<li><strong>Test Impact Analysis</strong> – When tests execute TFS collects paths through the code, even across multiple servers, and diffs this with the code changed for a new build. Giving you a list of tests that you MUST run. This works with both Manual and Automated tests (and unit tests). Designed to reduce your test matrix.</li>\r\n<li><strong>Unit Tests and Coverage associated with a build</strong> – You can trend your quality over time.</li>\r\n<li><strong>Manual Tests associated with a Build</strong> – If test results are associated with a build you can see, dynamically, the current state of your test plan, build on build.</li>\r\n</ul>\r\n<p>If you only get your Source into TFS then that is just the first step. A necessary one, but only the first.</p>"
+  - >-
+    <p class="lead">I am working quite a lot with some Java teams at the moment
+    who are using SVN and Jenkins. We are moving them over to TFS and TF Build
+    and we wanted to make sure that we were minimally disruptive to first I need
+    to configuring Jenkins to talk to TFS 2013.</p>
+  post_id: '10526'
+  post_date: '2014-05-07 10:51:59'
+  post_date_gmt: '2014-05-07 09:51:59'
+  post_modified: '2014-10-21 07:14:55'
+  post_modified_gmt: '2014-10-21 06:14:55'
+  comment_status: open
+  ping_status: open
+  post_name: configuring-jenkins-talk-tfs-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '82'
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '2667098655'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1kIZz8p
+  - meta_key: _thumbnail_id
+    meta_value: '10580'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10830'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474892147;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10579;}i:1;a:1:{s:2:"id";i:9443;}i:2;a:1:{s:2:"id";i:10990;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-05-07-configuring-jenkins-talk-tfs-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1383'
+  comment:
+  - comment_id: '2249'
+    comment_author: Dew Drop &#8211; May 7, 2014 (#1771) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/05/07/dew-drop-may-7-2014-1771/
+    comment_author_IP: 168.62.50.182
+    comment_date: '2014-05-07 13:52:23'
+    comment_date_gmt: '2014-05-07 12:52:23'
+    comment_content: >-
+      [&#8230;] Configuring Jenkins to talk to TFS 2013 (Martin Hinshelwood)
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1399467143.867244;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1399475212.686039;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2250'
+    comment_author: DesiDigitalDreamer
+    comment_author_email: nenuyogesh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 192.8.229.10
+    comment_date: '2014-05-09 07:02:00'
+    comment_date_gmt: '2014-05-09 06:02:00'
+    comment_content: did you try TFS and Sonar Integration ?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1376229307'
+  - comment_id: '2251'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.19.196.11
+    comment_date: '2014-05-09 07:51:00'
+    comment_date_gmt: '2014-05-09 06:51:00'
+    comment_content: >-
+      Sonar just works with TFS. 
+
+
+      If you are using Jenkins against TFS then all TFS is to the process is a
+      source code repository. Just like Subversion or Git. It has no baring on
+      Sonar....
+
+
+      ...If you want to use Team build and you can run on a Windows box then you
+      can create a Maven or Ant build out-of-the-box with the Team Explorer
+      Everywhere tooling.
+
+
+      ... now... if you want to use Team Build to execute the build on a Linux
+      box then there is some work to get that working. While I was not involved
+      in that my colleague was. He was able to get it integrated in just a few
+      days. He was even able to make it a switch to run the compile and tests
+      locally on windows or remotely on a Linux box. Not to shabby for a few
+      days effort. ... now that he has a template any team within the customer
+      can use that template to do builds...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2250'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1376229307'
+    - meta_key: dsq_post_id
+      meta_value: '1376259111'
+  - comment_id: '2733'
+    comment_author: John
+    comment_author_email: john.greenwood@metron-athene.com
+    comment_author_url: ''
+    comment_author_IP: 62.49.7.137
+    comment_date: '2014-07-18 12:37:00'
+    comment_date_gmt: '2014-07-18 11:37:00'
+    comment_content: >-
+      Are you still using Jenkins with VisualStudioOnline? In the following
+      posting it appears that you can't specify "@" for alternative credentials
+      any more and so it isn't possible to connect. 
+
+
+      http://social.msdn.microsoft.com/Forums/vstudio/en-US/e83b03e7-f3f4-4251-a172-b36f8aa766f7/tf30063-you-are-not-authorized-to-access-server-url?forum=TFService
+
+
+      Was wondering if you were aware of any work around?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1491196649'
+  - comment_id: '5888'
+    comment_author: marlene cote
+    comment_author_email: funeeldy55@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 216.6.210.1
+    comment_date: '2014-10-22 21:40:00'
+    comment_date_gmt: '2014-10-22 20:40:00'
+    comment_content: "Unfortunately, this plugin doesn't work.  It attempts to create a workspace on the tfs server instead of on the jenkins server.  I have no access to the filesystem on the tfs server.  Also, the get does nothing.  Here is the output from my attempt.  I can execute all of the commands it tries to run and if I make the workspace manually using the /local switch I get further, but then the get doesn't do anything. The workspace is left empty and is not up to date.\n\n16:34:33 [ALM] $ \"C:Program Files (x86)Microsoft Visual Studio 11.0Common7IDEtf\" get . -recursive -version:D2014-10-22T20:32:53Z -noprompt\n\n16:34:34 All files are up to date.\n16:34:34 FATAL: null\n16:34:34 java.lang.NullPointerException\n16:34:34 \tat com.microsoft.tfs.core.clients.webservices.IdentityManagementService.(IdentityManagementService.java:64)\n16:34:34 \tat hudson.plugins.tfs.model.Project.getVCCHistory(Project.java:84)\n16:34:34 \tat hudson.plugins.tfs.model.Project.getDetailedHistory(Project.java:128)\n16:34:34 \tat hudson.plugins.tfs.actions.CheckoutAction.checkout(CheckoutAction.java:56)\n16:34:34 \tat hudson.plugins.tfs.TeamFoundationServerScm.checkout(TeamFoundationServerScm.java:176)\n16:34:34 \tat hudson.model.AbstractProject.checkout(AbstractProject.java:1253)\n16:34:34 \tat hudson.model.AbstractBuild$AbstractBuildExecution.defaultCheckout(AbstractBuild.java:622)\n16:34:34 \tat jenkins.scm.SCMCheckoutStrategy.checkout(SCMCheckoutStrategy.java:86)\n16:34:34 \tat hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:528)\n16:34:34 \tat hudson.model.Run.execute(Run.java:1745)\n16:34:34 \tat hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)\n16:34:34 \tat hudson.model.ResourceController.execute(ResourceController.java:89)\n16:34:34 \tat hudson.model.Executor.run(Executor.java:240)"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1648879042'
+  - comment_id: '5902'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 212.183.128.160
+    comment_date: '2014-10-23 05:38:00'
+    comment_date_gmt: '2014-10-23 04:38:00'
+    comment_content: >-
+      it does not create a workspace on the server. What leads you to that
+      conclusion?
+
+      Linux or Windows? If Linux you need to install the TEE tools and configure
+      for the path that you installed to..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5888'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1648879042'
+    - meta_key: dsq_post_id
+      meta_value: '1649519832'
+  - comment_id: '12376'
+    comment_author: Chris
+    comment_author_email: chriskoiak@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 176.248.40.93
+    comment_date: '2015-06-17 11:00:00'
+    comment_date_gmt: '2015-06-17 10:00:00'
+    comment_content: >-
+      You use a simple project path in your example. Is it possible to specify
+      multiple project paths in anyway? I've tried the Multiple SCM plugin but
+      it fails with a cast issue.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2083522615'
+  - comment_id: '12377'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 77.88.113.15
+    comment_date: '2015-06-17 11:28:00'
+    comment_date_gmt: '2015-06-17 10:28:00'
+    comment_content: >-
+      You can use the command line to create any sort of workspace that you
+      like, and even copy a template workspace that you have lying around...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12376'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2083522615'
+    - meta_key: dsq_post_id
+      meta_value: '2083546781'
+  - comment_id: '12378'
+    comment_author: Chris
+    comment_author_email: chriskoiak@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 176.248.40.93
+    comment_date: '2015-06-17 11:31:00'
+    comment_date_gmt: '2015-06-17 10:31:00'
+    comment_content: >-
+      Do you mean a TFS workspace? Ideally I'd like to setup a workspace in TFS
+      and tell Jenkins to just get that.
+
+
+
+      Are there any examples or tutorials available?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12377'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2083546781'
+    - meta_key: dsq_post_id
+      meta_value: '2083548607'
+  - comment_id: '13403'
+    comment_author: Ghanshyam Singh
+    comment_author_email: ghanshyam84jisingh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 159.220.76.6
+    comment_date: '2015-09-28 18:30:00'
+    comment_date_gmt: '2015-09-28 17:30:00'
+    comment_content: How do clock some project path in jenkins?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2278444728'
+  - comment_id: '13413'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.18.228.205
+    comment_date: '2015-09-29 12:34:00'
+    comment_date_gmt: '2015-09-29 11:34:00'
+    comment_content: >-
+      Cloaking is not currently supported in the Jenkins TFS Plugin 4.0 but is
+      expected to be available in 4.1:
+      https://wiki.jenkins-ci.org/display/JENKINS/Team+Foundation+Server+Plugin
+
+
+      You should switch to the TFS 2015 Build Agents as you get full
+      functionality. The new Agents come in two flavours, Windows &amp; Node.
+      The Node agent will run on any platform that supports Node.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13403'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2278444728'
+    - meta_key: dsq_post_id
+      meta_value: '2279820903'
+  - comment_id: '14102'
+    comment_author: Vasuki Prasad
+    comment_author_email: vasukiprasad1@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 50.206.109.218
+    comment_date: '2016-08-18 21:25:00'
+    comment_date_gmt: '2016-08-18 20:25:00'
+    comment_content: Hi, Is there a way to enable NTLM authtication for TFS plugin?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2844775182'

@@ -1,0 +1,330 @@
+post:
+  title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
+  link: >-
+    https://nkdagility.com/blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done/
+  pubDate: Wed, 10 Feb 2010 12:55:34 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.</p>\n<p><font color=\"#ff0000\">Updated</font>: 11th February 2010– Added link to Brian Harry’s post <br />\n<font color=\"#ff0000\">Updated</font>:\_12th February 2010\_– Adam Cogan was not clear that there were two problems with snapshoting running servers.</p>\n<hr />\n<p>The upgrade was smooth, let me tell you the steps:</p>\n<p>note: If you are upgrading from TFS 2008 you can follow our <a target=\"_blank\" href=\"http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx\">Rules to better TFS 2010 Migration</a></p>\n<ol>\n    <li><strong>Snapshot the hyper-v server</strong>\_ <br />\n    There are two reasons why you should never do this while the server is running:\n    <ol>\n        <li>It’s Slow - Make sure you turn off your server before you take a snapshot. It took 15 minutes to get to 2% while the server was running, but turning it off had the whole operation completed in under 30 seconds. I think of this as very like the feature of Linux that let you recompile the kernel on the fly to avoid rebooting when adding drivers: Nice to have, but only if you have 10 hours to spare.</li>\n        <li>It’s Dangerous - Brian Harry has an even better reason why you should <a target=\"_blank\" href=\"http://blogs.msdn.com/bharry/archive/2010/02/10/a-tfs-2010-upgrade-success-story.aspx\">never snapshot a running server</a>.</li>\n    </ol>\n    </li>\n    <li><strong>Uninstall Visual Studio Team Explorer 2010 Beta 2</strong>\_ <br />\n    You will need to uninstall all of the Visual Studio 2010 Beta 2 client bits that you have on the server. That's a no brainer, but you can remove them early to streamline your installation process</li>\n    <li><strong>Uninstall TFS 2010 Beta 2</strong></li>\n    <li><strong>Install TFS 2010 RC</strong></li>\n    <li><strong>Configure TFS 2010 RC</strong> <br />\n    Pick the Upgrade option and point it at your existing “tfs_Configuration” database to load all of the existing settings</li>\n    <li><strong>Test the server</strong></li>\n</ol>\n<p>All of our 52 developers are now up and running on TFS 2010 RC. Well…almost all. A couple of guys reported this problem even though they had previously connected to TFS 2010 Beta 2:</p>\n<ol>\n    <li>If you get this error on the VS 2008 client after the upgrade, you should check whether you have KB74558 installed, if not you can <a target=\"_blank\" href=\"http://www.microsoft.com/downloads/details.aspx?displaylang=en&amp;FamilyID=cf13ea45-d17b-4edc-8e6c-6c5b208ec54d\">download it manually</a> or <a target=\"_blank\" href=\"http://www.ssw.com.au/ssw/Diagnostics/Default.aspx\">run diagnostics</a> to ensure your entire system is up to date. <br />\n    <img border=\"0\" alt=\"clip_image002\" width=\"520\" height=\"331\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image002_2d64191e-f518-4523-b17c-d9564abef78e.jpg\" /> <br />\n    Figure: Error TF31001 or TF253022, but why is that link not clickable. <br />\n    <br />\n    <img border=\"0\" alt=\"clip_image001\" width=\"432\" height=\"337\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image001_a951c033-5318-4694-8368-e5db11ddd394.jpg\" /> <br />\n    Figure:\_ Check that you have the update so you can connect to TFS 2010 via “Help | About Microsoft Visual Studio”\_</li>\n</ol>\n<p>\_</p>\n<p>\_</p>\n<p>I will be ironing out any other kinks tomorrow…</p>\n<p>Next steps includes upgrading our build servers and moving all 52 developers over to Visual Studio 2010.</p>\n<p>We were the <a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx\">first company on Beta 2 in production</a> and I believe we are first on RC in production.</p>\n<p>\_</p>\n<p>\_</p>\n<hr />\n<h2>Need Help?</h2>\n<p><img border=\"0\" alt=\"www.SSW.com.au\" align=\"left\" width=\"39\" height=\"39\" style=\"border-right-width: 0px;margin: 0px 20px 0px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-5366-o_SSWLogo3.png\" /></p>\n<p><a target=\"_blank\" href=\"http://www.ssw.com.au\">SSW</a> was the first company in the world outside of Microsoft to deploy Visual Studio 2010 Team Foundation Server to production, not <a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx\">once</a>, but <a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx\">twice</a>.</p>\n<h3>Team Foundation Server</h3>\n<p><img border=\"0\" alt=\"Visual Studi2010 ALM\" align=\"left\" width=\"94\" height=\"37\" style=\"border-right-width: 0px;margin: 0px 10px 10px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-5366-o_vs2010logo3.png\" /> SSW provides expert Visual Studio ALM guidance including <a target=\"_blank\" href=\"http://www.ssw.com.au/ssw/Company/SourceControl.aspx\">installation, configuration and customisation</a> through our four Microsoft Visual Studio ALM MVP’s in three countries; Australia, Beijing and the UK. They have experience deploying to small development shops all the way through to large blue chips.</p>\n<h3>Professional Scrum Developer Training</h3>\n<p><img border=\"0\" alt=\"Professional Scrum Developer Training\" align=\"left\" width=\"135\" height=\"61\" style=\"border-right-width: 0px;margin: 0px 10px 0px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://www.scrum.org/storage/PSD%20Announcement%20Graphic.jpg\" /> SSW has six <a target=\"_blank\" href=\"http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx\">Professional Scrum Developer Trainers</a> who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.</p>\n<div class=\"wlWriterEditableSmartContent\" style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\">Technorati Tags: <a rel=\"tag\" href=\"http://technorati.com/tags/ALM\">ALM</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS+Admin\">TFS Admin</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/SSW\">SSW</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/Scrum\">Scrum</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/VS+2010\">VS 2010</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/VS+2008\">VS 2008</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS+2010\">TFS 2010</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS+2008\">TFS 2008</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/SP+2010\">SP 2010</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS\">TFS</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/SharePoint\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '70'
+  post_date: '2010-02-10 12:55:34'
+  post_date_gmt: '2010-02-10 12:55:34'
+  post_modified: '2010-02-10 12:55:34'
+  post_modified_gmt: '2010-02-10 12:55:34'
+  comment_status: open
+  ping_status: open
+  post_name: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311601620'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLxzvZ
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1468902576;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:53;}i:1;a:1:{s:2:"id";i:7149;}i:2;a:1:{s:2:"id";i:5702;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2010-02-10-upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1070'
+  comment:
+  - comment_id: '690'
+    comment_author: satish
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-10 21:40:33'
+    comment_date_gmt: '2010-02-10 21:40:33'
+    comment_content: >-
+      How to connect 2008 Team Explorer Client to the 2010 Team Foundation
+      Server , i am able to connect 2010 team explorer
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969865'
+  - comment_id: '691'
+    comment_author: Zachary Burns
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-11 00:06:17'
+    comment_date_gmt: '2010-02-11 00:06:17'
+    comment_content: But the real question is - is the upgrade this smooth from 2008 to 2010?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969867'
+  - comment_id: '692'
+    comment_author: Billy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-11 03:58:21'
+    comment_date_gmt: '2010-02-11 03:58:21'
+    comment_content: Looks like your "Rules to better TFS 2010 Migration" links is broken.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969868'
+  - comment_id: '693'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-11 05:23:45'
+    comment_date_gmt: '2010-02-11 05:23:45'
+    comment_content: >-
+      Billy, it looks OK and I have had a number of guys check it...<br /><br
+      />The server is in Australia so can be a little slow in your are in
+      Europe. Let me know if it is still broken for you...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969871'
+  - comment_id: '694'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-11 05:26:14'
+    comment_date_gmt: '2010-02-11 05:26:14'
+    comment_content: >-
+      Zachary,<br /><br /> Yes it is. I would sugest doing a little test
+      migration first, but we did not have any problems..<br /><br />Check out
+      http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969873'
+  - comment_id: '695'
+    comment_author: Florian
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-12 16:27:10'
+    comment_date_gmt: '2010-02-12 16:27:10'
+    comment_content: >-
+      Is it now possible to connect to a collection from Visual Studio 2008 with
+      the Team Explorer GDR update?<br />We tried it with the TFS 2010 Beta 2
+      release but the 'Add Team Foundation Server' dialog disables the Ok button
+      when entering a path in the 'Port number' textbox.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969876'
+  - comment_id: '696'
+    comment_author: Florian
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-12 17:06:15'
+    comment_date_gmt: '2010-02-12 17:06:15'
+    comment_content: >-
+      Nevermind the above question. I found it through some links from this
+      blog.<br /><br
+      />http://msmvps.com/blogs/molausson/archive/2009/10/20/tfs-2010-client-compatibility-matrix.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969879'
+  - comment_id: '697'
+    comment_author: Ken
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-16 00:31:16'
+    comment_date_gmt: '2010-02-16 00:31:16'
+    comment_content: >-
+      I want to install TFS2010 RC in a new VM and migrate my TFS2010b2 database
+      to it. Possible?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969882'
+  - comment_id: '698'
+    comment_author: Billy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-18 01:31:46'
+    comment_date_gmt: '2010-02-18 01:31:46'
+    comment_content: >-
+      Martin,<br /><br />Thanks, it appears to be working for me now. I am in
+      the states, must have been timing out for me.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969883'
+  - comment_id: '699'
+    comment_author: Mayur B
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-22 13:07:32'
+    comment_date_gmt: '2010-02-22 13:07:32'
+    comment_content: >-
+      While executing Full backup. I am getting below error.<br /><br />Job is
+      invoked by ***mbondre<br /><br />Executed as user ***machine  sql server
+      execute package utility version ---- for 64 bit<br /><br /> Do you have
+      any idea on this?<br /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969884'
+  - comment_id: '700'
+    comment_author: m3 ds real
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-24 12:46:18'
+    comment_date_gmt: '2010-02-24 12:46:18'
+    comment_content: >-
+      The TFS 2010 beta is not currently officially supported by WIM, but you
+      should be able to get it (mostly) working.  First of all, you need to make
+      sure that you are using the TFS 2008 (SP1) assemblies with WIM because it
+      was built against those assemblies and does not work with the TFS 2010
+      beta assemblies
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969885'
+  - comment_id: '701'
+    comment_author: Michael Cai
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-03-24 00:49:20'
+    comment_date_gmt: '2010-03-24 00:49:20'
+    comment_content: >-
+      We are looking to migrate TFS 2010 Beta 2 database to TFS 2010 RC, what is
+      the best way to import and export SQL 2008 database to TFS. Can you export
+      part of the SQL database including history logs?<br /><br /><br /><br
+      /><br />I get this error when I try to export database:<br />- Setting
+      Destination Connection (Error)<br /><br />Messages<br />Error 0xc0202009:
+      Destination 15 - LabForwardLink [19]: SSIS Error Code DTS_E_OLEDBERROR. 
+      An OLE DB error has occurred. Error code: 0x800400FA.<br />An OLE DB
+      record is available.  Source: "Microsoft SQL Server Native Client 10.0" 
+      Hresult: 0x800400FA  Description: "All bound columns are read-only".<br />
+      (SQL Server Import and Export Wizard)<br /> <br />Error 0xc0202040:
+      Destination 15 - LabForwardLink [19]: Failed to open a fastload rowset for
+      "[dbo].[LabForwardLink]". Check that the object exists in the database.<br
+      /> (SQL Server Import and Export Wizard)<br /> <br />Exception from
+      HRESULT: 0xC0202040 (Microsoft.SqlServer.DTSPipelineWrap)<br /> <br /><br
+      />Error 0xc0202040: Destination 15
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969887'
+  - comment_id: '702'
+    comment_author: >-
+      Damian Brady&#039;s Blog &raquo; Upgrading TFS 2010 to TFS 2012 Release
+      Candidate
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 50.22.11.31
+    comment_date: '2012-06-03 06:21:55'
+    comment_date_gmt: '2012-06-03 05:21:55'
+    comment_content: "[...] I could leverage off our Rules to Better TFS 2010 Migration and the related blog posts (first,\_second, third) from Martin Hinshelwood for [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1339355371.53";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

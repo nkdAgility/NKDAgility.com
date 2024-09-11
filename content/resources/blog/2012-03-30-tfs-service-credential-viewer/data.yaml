@@ -1,0 +1,452 @@
+post:
+  title: TFS Service Credential Viewer
+  link: https://nkdagility.com/blog/tfs-service-credential-viewer/
+  pubDate: Fri, 30 Mar 2012 07:03:08 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=5032
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>If you want to connect to the Team Foundation Service (TFS Preview) API you are going to need some credentials in order to connect. That's right, where do you expect to store your Live ID for connecting? Do you expect to add it to the windows credentials store? What about having the user manually add it? Both these options suck… so introducing the TFS Service Credential Viewer.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image21.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb21.png\" alt=\"image\" width=\"622\" height=\"104\" border=\"0\" /></a></p>\r\n<p>The TFS Service Credential Viewer connects to your Team Foundation Service account on <a href=\"http://tfspreview.com\">http://tfspreview.com</a> and using your credentials it retrieves credentials that you can use for an automated service to connect and authenticate correctly.</p>\r\n<h3>Download TFS Service Credential Viewer</h3>\r\n<p>The following prerequisites are required:</p>\r\n<ul>\r\n<li>Team Explorer 2012 <del>Visual Studio 11 (any version)</del></li>\r\n<li>.NET 4.5</li>\r\n</ul>\r\n<p>If these components are already installed, you can <a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/TfsServiceCredentialsUI.application\">launch</a> the application now. Otherwise, click install below to install the prerequisites and run the application.</p>\r\n<h4><a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/setup.exe\">install</a> or <a href=\"http://nkdagility.com/downloads/tools/tfs2012/TfsServiceCredentialViewer/TfsServiceCredentialsUI.application\">launch via clickonce</a></h4>\r\n<h3>How it works</h3>\r\n<p>Once you have authenticated as a TFS Collection Administrator to your hosted TFS Collection we use the Access Control Service to provision a service identity that you can use for unattended connections to Team Foundation Service (TFS Preview).</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/SNAGHTML85af783.png\"><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"SNAGHTML85af783\" src=\"http://blog.hinshelwood.com/files/2012/03/SNAGHTML85af783_thumb.png\" alt=\"SNAGHTML85af783\" width=\"460\" height=\"461\" border=\"0\" /></a><br /><strong>Figure: A quick #1, #2 to get your credentials</strong></p>\r\n<p>http://youtu.be/Fkn6V0_zz28<br /><strong>Video: How to get your credentials</strong></p>\r\n<p>&nbsp;</p>\r\n<h3>Troubleshooting</h3>\r\n<p>If you are using Windows 8 Consumer Preview you will not get an automatic launch of the application due to an extra security check for applications that come from the internet.</p>\r\n<ol>\r\n<li>Click or Press “Start” and Scroll all the way to the right</li>\r\n<li>Select the TFS Service Credential Viewer</li>\r\n<li>When the security dialog pops up click “More Info”\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image22.png\"><img style=\"margin: 0px; border: 0px currentColor; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb22.png\" alt=\"image\" width=\"640\" height=\"268\" border=\"0\" /></a><br /><strong>Figure: Select More Info<br /></strong></p>\r\n</li>\r\n<li>Click “Run anyway” to launch the application and add it to the safe list\r\n<p><a href=\"http://blog.hinshelwood.com/files/2012/03/image23.png\"><img style=\"margin: 0px; border: 0px currentColor; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/03/image_thumb23.png\" alt=\"image\" width=\"640\" height=\"270\" border=\"0\" /></a><br />Figure;</p>\r\n</li>\r\n<li>Done</li>\r\n</ol>\r\n<p>If you encounter an exception when clicking \"Connect\" the most likely cause if that you do not have Team Explorer 2012 installed</p>\r\n<p>&nbsp;</p>"
+  - ''
+  post_id: '5032'
+  post_date: '2012-03-30 00:03:08'
+  post_date_gmt: '2012-03-30 07:03:08'
+  post_modified: '2015-02-17 12:29:48'
+  post_modified_gmt: '2015-02-17 12:29:48'
+  comment_status: closed
+  ping_status: open
+  post_name: tfs-service-credential-viewer
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '629718776'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wp_page_template
+    meta_value: page.alpha.php
+  - meta_key: _pagelines_layout_mode
+    meta_value: fullwidth
+  - meta_key: _hide_header_PageLinesBoxes
+    meta_value: 'on'
+  - meta_key: _thumbnail_id
+    meta_value: '8627'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBHKnY
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: pl-settings
+    meta_value: a:2:{s:4:"live";a:0:{}s:5:"draft";a:0:{}}
+  - meta_key: _pprredirect_active
+    meta_value: '1'
+  - meta_key: _pprredirect_type
+    meta_value: '301'
+  - meta_key: _pprredirect_url
+    meta_value: http://nkdagility.com/tools/vso-credential-viewer/
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474723455;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10596;}i:1;a:1:{s:2:"id";i:5112;}i:2;a:1:{s:2:"id";i:10041;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-03-30-tfs-service-credential-viewer.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1445'
+  comment:
+  - comment_id: '1158'
+    comment_author: >-
+      Unit Testing against the Team Foundation Server 11 API - Martin
+      Hinshelwood (MrHinsh)
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/unit-testing-against-the-team-foundation-server-11-api/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-04-01 20:53:07'
+    comment_date_gmt: '2012-04-02 03:53:07'
+    comment_content: >-
+      [...] it would be a pain in the ass to have to spin up this code all of
+      the time, so I created the TFS Service Credential Viewer that will do the
+      heavy lifting for [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1333338787.43";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1333339513.35";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1159'
+    comment_author: >-
+      TFS Service Credential Viewer - Visual Studio ALM | Visual Studio ALM |
+      Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/3359206504/tfs-service-credential-viewer-visual-studio-alm
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-11-16 07:23:27'
+    comment_date_gmt: '2012-11-16 15:23:27'
+    comment_content: >-
+      [...] If you want to connect to the Team Foundation Service (TFS Preview)
+      API you are going to need some credentials in order to connect.
+      That&rsquo;s right, where do you expect to store your Live ID for
+      connecting? Do you expect to add it to the windows credentials store? What
+      about having the user manually add it? Both these options suck&hellip; so
+      introducing the TFS Service Credential Viewer..&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1353079407.54";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1353274055.56";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1160'
+    comment_author: Writing an ASP.Net Web based TFS Client - Glavs Blog
+    comment_author_email: ''
+    comment_author_url: >-
+      http://weblogs.asp.net/pglavich/archive/2012/11/27/writing-an-asp-net-web-based-tfs-client.aspx
+    comment_author_IP: 66.129.67.214
+    comment_date: '2012-11-26 17:53:20'
+    comment_date_gmt: '2012-11-27 01:53:20'
+    comment_content: >-
+      [...] here and get the “TFS Service Credential Viewer”. Install it, run it
+      and connect to your TFS [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1354036639.3";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1161'
+    comment_author: >-
+      TOC: TFS Integration Tools Blog Posts and Reference Sites - Willy&#039;s
+      Reflections - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/toc-tfs-integration-tools-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.52.96.192
+    comment_date: '2013-03-16 11:01:06'
+    comment_date_gmt: '2013-03-16 18:01:06'
+    comment_content: '[...] TFS Service Credential Viewer [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1363502004.657173;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2192'
+    comment_author: Glen Chambers
+    comment_author_email: glen.chambers@brightstarr.com
+    comment_author_url: ''
+    comment_author_IP: 201.231.119.168
+    comment_date: '2014-04-03 14:30:00'
+    comment_date_gmt: '2014-04-03 13:30:00'
+    comment_content: >-
+      Hi Martin, When I try and use TFS Service Credential Viewer it crashes the
+      moment I click the Connect button. I also asked a colleague to check and
+      he experienced the same issue.
+
+      Any idea what the issue could be?
+
+      Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1316687799'
+  - comment_id: '2193'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.200
+    comment_date: '2014-04-03 14:34:00'
+    comment_date_gmt: '2014-04-03 13:34:00'
+    comment_content: |-
+      Glen,
+
+        It looks like you do not have Team Explorer 2012 installed. Would I be right that you only have Team Explorer 2013?
+
+      -MrHinsh
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2192'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1316687799'
+    - meta_key: dsq_post_id
+      meta_value: '1316692412'
+  - comment_id: '2194'
+    comment_author: Glen Chambers
+    comment_author_email: glen.chambers@brightstarr.com
+    comment_author_url: ''
+    comment_author_IP: 201.231.119.168
+    comment_date: '2014-04-03 14:39:00'
+    comment_date_gmt: '2014-04-03 13:39:00'
+    comment_content: Correct! I'll try it with the 2012 release
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2193'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1316692412'
+    - meta_key: dsq_post_id
+      meta_value: '1316697272'
+  - comment_id: '2304'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.19.196.9
+    comment_date: '2014-06-11 08:42:00'
+    comment_date_gmt: '2014-06-11 07:42:00'
+    comment_content: This has been updated to work with Visual Studio 2013.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1429913249'
+  - comment_id: '2340'
+    comment_author: Rana Mutlaq
+    comment_author_email: rhmutlaq06@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.212.93.94
+    comment_date: '2014-06-24 09:58:00'
+    comment_date_gmt: '2014-06-24 08:58:00'
+    comment_content: >-
+      Hi Martin , 
+
+      when i try to user TFS Service Credential viewer , it crashes when i click
+      on retrieve credential 
+
+      can you help me ?
+
+      thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1451353356'
+  - comment_id: '2342'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 109.147.125.92
+    comment_date: '2014-06-24 18:53:00'
+    comment_date_gmt: '2014-06-24 17:53:00'
+    comment_content: Which version of TFS? Which Version &amp; Edition of Visual Studio?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2340'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1451353356'
+    - meta_key: dsq_post_id
+      meta_value: '1452113015'
+  - comment_id: '2345'
+    comment_author: Rana Mutlaq
+    comment_author_email: rhmutlaq06@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.212.93.53
+    comment_date: '2014-06-25 07:46:00'
+    comment_date_gmt: '2014-06-25 06:46:00'
+    comment_content: |-
+      TFS 2010 , Visual Studio 2010 Ultimate
+
+      and i installed Team Explorer 2012 , and 2013
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2342'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1452113015'
+    - meta_key: dsq_post_id
+      meta_value: '1453220898'
+  - comment_id: '2349'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 212.58.48.225
+    comment_date: '2014-06-25 16:14:00'
+    comment_date_gmt: '2014-06-25 15:14:00'
+    comment_content: You need to be using VSO (http://tfs.visualstudio.com) for this to work.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2345'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1453220898'
+    - meta_key: dsq_post_id
+      meta_value: '1453795623'
+  - comment_id: '2744'
+    comment_author: avrsrikanth
+    comment_author_email: avrsrikanth@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 15.219.201.70
+    comment_date: '2014-07-24 10:55:00'
+    comment_date_gmt: '2014-07-24 09:55:00'
+    comment_content: >-
+      Hi Martin,
+
+      I have installed Team Explorer 2013 and using
+      https://xxxxx.visualstudio.com. But still the TFS Service Credential
+      Viewer is crashing in #2.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2304'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1429913249'
+    - meta_key: dsq_post_id
+      meta_value: '1501226541'
+  - comment_id: '2745'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 87.83.45.26
+    comment_date: '2014-07-24 11:08:00'
+    comment_date_gmt: '2014-07-24 10:08:00'
+    comment_content: I will look at this again.,..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2340'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1451353356'
+    - meta_key: dsq_post_id
+      meta_value: '1501239635'
+  - comment_id: '6221'
+    comment_author: Rob Davis
+    comment_author_email: robdsemail@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 173.184.219.127
+    comment_date: '2014-10-28 16:55:00'
+    comment_date_gmt: '2014-10-28 16:55:00'
+    comment_content: >-
+      Martin,
+
+      I am trying to use this tool with visualstudio.com. When I try it on a
+      computer that has VS 2008, 2012, and 2013, it crashes when I click the
+      Connect button. When I try it on a computer that has VS 2010 Express,
+      2012, and 2012 Express, everything appears to work fine with the Connect
+      buttion. However, when I click Retrieve Credentials, it crashes. What can
+      I do to figure out what is wrong? Are multiple versions of VS causing a
+      problem?
+
+      Thanks,
+
+      Rob
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1657806566'
+  - comment_id: '10916'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-02-16 17:10:00'
+    comment_date_gmt: '2015-02-16 17:10:00'
+    comment_content: >-
+      I have just fixed and reloaded this app... should work in 2015 on down to
+      at least 2012.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1858317795'

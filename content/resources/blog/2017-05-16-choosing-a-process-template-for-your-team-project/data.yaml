@@ -1,0 +1,1265 @@
+post:
+  title: Choosing a Process Template for your Team Project
+  link: >-
+    https://nkdagility.com/blog/choosing-a-process-template-for-your-team-project/
+  pubDate: Tue, 16 May 2017 10:40:46 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10356
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Over the years I have had many discussions about Agile vs Scrum process templates with both TFS and VSTS and migrated many Team Projects from Agile or CMMI templates to the Scrum Template.</p>\r\n<p><strong><i>TL;DR - Select the Scrum template if you have an agile team and want to reduce friction. Don't create unnecessary friction for your move to agility by selecting either the CMMI or Agile templates that suffer from the legacy of the Microsoft Solution Framework (MSF).</i></strong></p>\r\n<p>When you create a new Team Project in VSTS or TFS you are asked which Process Template that you want to use. This is a decision that you need to make at the time you create your Team Project and you cant change it later. You want to choose the template that is closest to what you are actually doing, or more accurately what you want to be doing.</p>\r\n<p><img class=\"alignright size-medium\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/image1.png\" width=\"300\" height=\"293\" />Many teams and organisations make very good and seemingly rational arguments for choosing either the Agile or CMMI templates, however I feel that if you are trying to achieve any type of agile implementation for your team then this is the wrong choice. There are two key frictions that I think affect your choice:</p>\r\n<ul>\r\n\t<li><b>Current Friction -</b> If you have a discrepancy between what you are doing now, and the process template you choose then you will have a harder time getting folks to work within the bounded environment that you are trying to create. However you may want some friction if folks are currently doing the wrong thing.</li>\r\n\t<li><b>Future Friction</b> - As your process implementation moves to match your strategic direction, and the template lags behind , then you will have a significant friction for folks who really want to do the old thing.</li>\r\n</ul>\r\n<p>Having the right rules to follow is valuable for figuring out the right path:</p>\r\n<ul>\r\n\t<li>Create a Template for the Process that you want, not the process that you have.</li>\r\n\t<li>Make it easy to do the right thing, and hard to do the wrong thing.</li>\r\n</ul>\r\n<p>Making the wrong choice can cripple your teams ability to inspect and adapt by making their biggest problem trying to avoid the friction that your choice in template has created. While I also believe that anyÂ\_ team following any process could, with significant discipline, use any template,Â\_ if your team is an agile one then both the Agile and CMMI templates will create significant friction. Let me explain; there are three templates available out of the box:</p>\r\n<ul>\r\n\t<li><b>CMMI</b> - This was called \"MSF for CMMI Process Improvement\" and was primarily focused on those teams that need to monitor change and are following CMMI.</li>\r\n\t<li><b>Agile</b> - Formally known as \"MSF for Agile Software Development\" and is designed to support Agile development for teams that don't want to be restricted by Scrum</li>\r\n\t<li><b>Scrum</b> - Also know as \"Microsoft Visual Studio Scrum\" was designed to allow Scrum teams a more familiar with Scrum.</li>\r\n</ul>\r\n<p>However every single one of these templates supports both \"agile\" and \"CMMI\", however only one embodies agility and minimises prescription and constraints, and its not the \"Agile\" template.</p>\r\n<h2>Why you should not select the Agile template</h2>\r\n<p>I have had a number of...<del> arguments</del> discussions with the folks that own \"MSDN: Work with team project artefacts, choose a process template\" about its inaccuracies and false choices and some changes have been made. However I have issue with one particular statement in there:</p>\r\n<blockquote>\r\n<p>The Agile template is designed to support Agile development for teams that don't want to be restricted by Scrum.</p>\r\n</blockquote>\r\n<p>Lets forget for a moment about Scrum and look singly at the contents and expected use of the templates. I completely disagree that the \"Agile\" template is suitable for agile teams and I vehemently disagree that the Scrum template is restrictive. I believe that the opposite is true.</p>\r\n<p>I believe that the \"Agile\" template (as well as the \"CMMI\" template) is in fact not agile and enshrines many common anti-patterns for agile teams. Its not really a surprise as the \"Agile\" template was not designed by agilest for agile teams. The \"Agile\" template is properly called the \"MSF for Agile Software Development\" template and the MSF part is important.</p>\r\n<p>Microsoft Solution Framework (MSF) was designed by Microsoft Consulting Services (MCS) to help them deliver software to customers when consulting. The MSF for Agile template was originally an attempt to implement that non-agile methodology (don't let the word Framework fool you) in a more agile manor and it failed (oh it gave managers a false sense of agile; vanity agile. Lets call things agile and do the same old thing we have always done.)</p>\r\n<p>There are main issues with the Agile template:</p>\r\n<ul>\r\n\t<li><b>Bugs are not on the backlog</b> - As any good consulting team (sarcasm) knows you must hide your bugs from the customer and this template promotes that bugs are triaged separately to Stories. Yes you can change this to add bugs to the backlog, however the expected happy path is that you triage your bugs separately. From TFS 2015+ we can choose how bugs are handled on the UI.</li>\r\n\t<li><b>Resolved (Code Complete and Unit Tests passes) </b>- Yes I know that many teams still like to create a wall between Code and Test but to enshrine it in the template forces all teams to follow that line. Making this the path of least friction encourages users to do the wrong thing. You really cant be agile and throw bugs or features over the wall to Test.</li>\r\n</ul>\r\n<p>In addition to the main issues there are a great number of paper cuts as well. While individually small they add up to significant friction:</p>\r\n<ul>\r\n\t<li><b>Story Points</b> - Why are people encouraged to only use Story Point? Are they the right practice for everyone, on every software? No, Story Points are just a complimentary practice that can be applied to any process. While I am a supporter of Story Points and I encourage teams that I work with to use them they are by no means the only method of estimating in agile. This should have a more generic name, like maybe Effort that allows the team, or organisation, to collectively decide how they are going to do estimation.</li>\r\n\t<li><b>User Story</b> - Is the only way to write backlog items to do so as User Stories? What about Use Cases? Should you struggle to write even constraints or non-functional requirements as User Stories? No, again User Stories are merely another complimentary practice. While user stories are an effective tool to help you decompose your work they are by no means the be all and end all. Having the Requirement type called User Story makes folks feel that every one should have a \"As a | I want | so that\" which is just not the case in any of the agile processes. Would it not be better to have a more generic term, a base class if you will, from which you can form any sort of definition of our work?</li>\r\n</ul>\r\n<p>Forcing people into using these complimentary practices is silly and creates that friction. These practices are not required to be successful at agile however being able to break walls between departments and triage bugs with the rest of our backlog I would argue is. Don't get me wrong, I like practices like Story Points and User Stories and they are right for some teams, although not all.</p>\r\n<p>If you really want to be able to \"let the team decide\" on the practices that suit their circumstance, experience, technology and choice then you need to stay away from MSF templates entirely.</p>\r\n<p>So what is the answer? What if I am not doing Scrum, but there are only two other choices, both of them MSF based. Well I would recommend that you use the Scrum Template anyway, and create your own agile process with this as the foundation. For folks that really want to have the Agile template, because they hate the word Scrum and anything associated with it. I kind of lie. I download the Scrum Process Template from TFS and change the same to \"Agile for Company X\" then reload it.</p>\r\n<h2>Why you should use the Scrum Template</h2>\r\n<p>Rather like the Scrum Framework itself the Scrum template was designed to be as light as possible while still embodying the common lexicon of Agile. Wither you like Scrum or not, it is an implementation of Agile and uses the same terminology. The thing that differentiates Scrum from other agile implementations is the Sprint and the Sprint is not really part of the Scrum template. You can easily change the Iterations to be any flavour you like.</p>\r\n<p>Bugs are on the backlog, one state for the team working on something, no push to a particular practice.Â\_ Almost universally the terminology and workflow of the Scrum framework is understood by teams doing any flavour of agile. And if you have a team that needs a little legacy love you can easily add a column to the Kanban boards without enshrining dysfunctions in the template.</p>\r\n<p>I always recommend that folks start with the Visual Studio Scrum template as a base and customise from there. There are a few customising that I like to see teams make if they need them, especially to help adoption:</p>\r\n<ul>\r\n\t<li><b>Completed &amp; Original Estimate</b> - The Scrum template only has Remaining Work on a Task as this is the only metric that Scrum requires. However there are many teams that gain value through other metrics and the Scrum Guide does not say anything about not using them. I often add these two fields to the Scrum template for teams, and I never feel bad about it.</li>\r\n\t<li><b>Requirement Type Field</b> - Often organisations like to differentiate between Functional , Technical, or Regulatory PBI's and this is another field to add. Making sure of course that it becomes a dimension in the Cube. Luckily the out-of-the-box template from TFS 2015+ has this field already, just put the values that you need.</li>\r\n\t<li><b>Team Field Mode</b> - Often the case for long term users of TFS is that they already have made good use of the Area Path field. Now they need to use it for team? Well, no. Create a Team drop down and with a little out-of-box wiring you remove the relationship between Team and Area Path. This feature is currently unavailable in VSTS and the product team are looking to make it unnecessary.</li>\r\n</ul>\r\n<p>These customisations are non-intrusive and have a limited impact on reporting and upgradability. I spend a lot of time at customers migrating them from the Agile and CMMI templates to the Scrum template and while it is not that hard to do it does take time and money.</p>\r\n<h2>Conclusion</h2>\r\n<p>Choose the Microsoft Visual Studio Scrum process template if you don't want to be limited by MSF. What other customisations do you make to your Scrum template to support your lean-agile process?</p>"
+  - >-
+    <p class="lead">There was an interesting discussion on <a
+    href="http://www.linkedin.com/groups/Team-Foundation-Server-TFS-2012-3386360.S.5828175548890763266?view=&amp;gid=3386360&amp;type=member&amp;item=5828175548890763266"
+    target="_blank">Agile vs Scrum Template for TFS 2012</a> on LinkedIn that I
+    was interested in however LinkedIn has a bug and will not let me comment on
+    that open group. So I will add my answer here.</p>
+  post_id: '10356'
+  post_date: '2017-05-16 11:40:46'
+  post_date_gmt: '2017-05-16 10:40:46'
+  post_modified: '2017-05-16 11:40:20'
+  post_modified_gmt: '2017-05-16 10:40:20'
+  comment_status: open
+  ping_status: open
+  post_name: choosing-a-process-template-for-your-team-project
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '71'
+  - meta_key: _thumbnail_id
+    meta_value: '11897'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: agile vs scrum
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Should you use the MSF for Agile Software Development or the Microsoft
+      Visual Studio Scrum process templates. The debates are hot in the agile vs
+      scrum process templates discussions.
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1ipLQTQ
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '2162767307'
+  - meta_key: pl-settings
+    meta_value: >-
+      a:2:{s:4:"live";a:1:{s:13:"page-template";s:10:"nakedalmv1";}s:5:"draft";a:1:{s:13:"page-template";s:10:"nakedalmv1";}}
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474899178;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10558;}i:1;a:1:{s:2:"id";i:9913;}i:2;a:1:{s:2:"id";i:10482;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2014-01-23-agile-vs-scrum-process-templates-team-foundation-server.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: pl_magazine_format
+    meta_value: ''
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '630'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: '611'
+  - meta_key: _yoast_wpseo_is_cornerstone
+    meta_value: ''
+  - meta_key: _yoast_wpseo_focuskw_text_input
+    meta_value: process template
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[{"keyword":"process template","score":"ok"}]'
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '3392'
+  comment:
+  - comment_id: '2084'
+    comment_author: >-
+      Agile vs Scrum Process Templates in Team Foundation Server | ALMGuru:
+      Visual Studio, Team Foundation and beyond
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.almguru.com/2014/01/24/agile-vs-scrum-process-templates-in-team-foundation-server/
+    comment_author_IP: 66.155.8.65
+    comment_date: '2014-01-24 06:17:49'
+    comment_date_gmt: '2014-01-24 06:17:49'
+    comment_content: >-
+      [&#8230;] Agile vs Scrum Process Templates in Team Foundation Server
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390544269.304016;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1390982186.637873;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2086'
+    comment_author: Dusan Musak
+    comment_author_email: dusan.musak@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 93.174.181.198
+    comment_date: '2014-01-25 11:05:00'
+    comment_date_gmt: '2014-01-25 11:05:00'
+    comment_content: >-
+      Thanks for an article, it was really interesting reading for me. I agree
+      with your recommendation at the end of your article, especially with the
+      first point about Completed &amp; Original estimate fields. It's really
+      helpful when you have a possibility to compare your original estimate with
+      reality, it help you to improve your estimation a lot.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1216098148'
+  - comment_id: '2091'
+    comment_author: Agile vs Scrum Process Templates in Team Founda...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4015002754/2014/01/29/agile-vs-scrum-process-templates-in-team-foundation-server-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 89.30.105.121
+    comment_date: '2014-01-29 13:54:39'
+    comment_date_gmt: '2014-01-29 13:54:39'
+    comment_content: >-
+      [&#8230;] Should you use the MSF for Agile Software Development or the
+      Microsoft Visual Studio Scrum process templates. The debates are hot in
+      the agile vs scrum process templates discussions.&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1391003679.119493;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1391067533.263986;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2139'
+    comment_author: Daniel Tobler
+    comment_author_email: danieltobler70@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 193.135.254.174
+    comment_date: '2014-03-04 06:30:00'
+    comment_date_gmt: '2014-03-04 06:30:00'
+    comment_content: >-
+      I had to convince customers shifting from Agile to Scrum template in many
+      occasions already (despite they were not running Scrum). This article
+      summarizes my reasons perfectly. Thanks for the blog. I will refer to it
+      in future.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1269565368'
+  - comment_id: '2140'
+    comment_author: Peter Gfader
+    comment_author_email: peter@gfader.com
+    comment_author_url: http://blog.gfader.com/
+    comment_author_IP: 193.135.254.174
+    comment_date: '2014-03-04 07:42:00'
+    comment_date_gmt: '2014-03-04 07:42:00'
+    comment_content: >-
+      Nice article Martin!
+
+      Additionally what bothers me is the possibility to play with the Velocity
+      Forecast in the "Product Backlog" of the VS Online Portal. This is a clear
+      misuse of the Velocity
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1269604688'
+  - comment_id: '2141'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.200
+    comment_date: '2014-03-04 08:02:00'
+    comment_date_gmt: '2014-03-04 08:02:00'
+    comment_content: >-
+      What do you mean? The Velocity is not forecast by the tool but by the
+      Product Owner.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2140'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1269604688'
+    - meta_key: dsq_post_id
+      meta_value: '1269616982'
+  - comment_id: '2143'
+    comment_author: Peter Gfader
+    comment_author_email: peter@gfader.com
+    comment_author_url: http://blog.gfader.com/
+    comment_author_IP: 193.135.254.174
+    comment_date: '2014-03-04 18:08:00'
+    comment_date_gmt: '2014-03-04 18:08:00'
+    comment_content: >-
+      I mean the possibility that the Product Owner can "play" with the Velocity
+      number and see how it affects the Work per Sprint plan for the future.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2141'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1269616982'
+    - meta_key: dsq_post_id
+      meta_value: '1270239814'
+  - comment_id: '2253'
+    comment_author: >-
+      TFS 2013 Prozess Templates im Vergleich | Karsten Kempe &#8211; Visual
+      Studio ALM
+    comment_author_email: ''
+    comment_author_url: http://almsports.net/tfs-2013-prozess-templates-im-vergleich/907/
+    comment_author_IP: 212.227.127.3
+    comment_date: '2014-05-12 07:46:54'
+    comment_date_gmt: '2014-05-12 06:46:54'
+    comment_content: >-
+      [&#8230;] ich die beiden Template noch näher vergleichen werde, möchte ich
+      auf einen Post von Martin Hinshelwood auf nakedalmweb.wpengine.com
+      verweisen. Er ist der Meinung, dass das MSF Agile Template [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1399877214.797802;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1399917106.631345;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2297'
+    comment_author: Darren Carter
+    comment_author_email: darren.carter@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 12.139.239.14
+    comment_date: '2014-06-09 18:23:00'
+    comment_date_gmt: '2014-06-09 17:23:00'
+    comment_content: >-
+      Excellent article. 1 question: When you say "Completed &amp; Original
+      Estimate", I'm not clear on the Completed aspect. I understand having a
+      field for Original Estimate but what exactly is the Completed? Is that a
+      percentage? Does it actually mean "Completed Estimate"? Please elaborate a
+      bit on this aspect.  Thanks in advance.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1427122805'
+  - comment_id: '3130'
+    comment_author: >-
+      Avoid the Bug as Task anti-pattern in TFS - naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/avoid-bug-task-anti-pattern-tfs/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-08-06 15:47:03'
+    comment_date_gmt: '2014-08-06 14:47:03'
+    comment_content: >-
+      [&#8230;] teams and will create friction for your teams that are doing
+      agile. If you are still trying to decide in the process template or you
+      have realised your mistake and want to fix your process template I have
+      some posts to help. [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407336423.584938;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407599425.90324;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '3134'
+    comment_author: ttutko
+    comment_author_email: tsmoothie@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 98.172.20.102
+    comment_date: '2014-08-07 16:31:00'
+    comment_date_gmt: '2014-08-07 15:31:00'
+    comment_content: >-
+      I believe what this means is that when you perform work on the PBI, you
+      update it with how many hours (Or whatever time unit) you spent working on
+      it. That way you can see at the end how good your original estimate was
+      compared to how long it actually took to complete.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2297'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1427122805'
+    - meta_key: dsq_post_id
+      meta_value: '1531852236'
+  - comment_id: '3156'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-08-09 18:20:00'
+    comment_date_gmt: '2014-08-09 17:20:00'
+    comment_content: >-
+      @ttutko:disqus is correct, however I personally do not see the value in
+      "Original Estimate". adding "Completed" that you update as you do work
+      allows you to create a poor mans 'percentage complete'. You add them
+      together to get a totally fictitious total and then you get a percentage
+      of "Remaining". Gives you a nice graph.
+
+
+      Reality is that as these two fields tend to be used by Project Managers to
+      support their lies and spin, and I let them have it. It removes an
+      argument from them against the Scrum template and enables the teams to get
+      on with delivering work in spite of the PM's best efforts. :)
+
+
+      Slightly sarcastic but totally realistic.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2297'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1427122805'
+    - meta_key: dsq_post_id
+      meta_value: '1535113473'
+  - comment_id: '3157'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2014-08-09 18:23:00'
+    comment_date_gmt: '2014-08-09 17:23:00'
+    comment_content: >-
+      But Peter, Velocity is not a constant. Many PO's, as per the Scrum.org
+      guidance in both the PSM and PSF (not seen PSPO), calculate a Worst 3,
+      Best 3, and Average 3 estimate. They then use this to help them order the
+      backlog for nice to have (optimistic) and must have (pessimistic). This is
+      basic product planning man... nothing for the team to worry about...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2143'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1270239814'
+    - meta_key: dsq_post_id
+      meta_value: '1535116761'
+  - comment_id: '3163'
+    comment_author: mjcarrabine
+    comment_author_email: mjcarrabine@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 38.98.196.194
+    comment_date: '2014-08-10 19:34:00'
+    comment_date_gmt: '2014-08-10 18:34:00'
+    comment_content: >-
+      Excellent article. Would you please elaborate on the issue with "resolved"
+      in the Agile template, and what the better practice would be? Thank you.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1536359048'
+  - comment_id: '3164'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 77.241.230.246
+    comment_date: '2014-08-10 19:57:00'
+    comment_date_gmt: '2014-08-10 18:57:00'
+    comment_content: >-
+      Check out the bug as a task anti-pattern for deeper look
+      http://nkdagility.com/avoid-bug-task-anti-pattern-tfs/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3163'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1536359048'
+    - meta_key: dsq_post_id
+      meta_value: '1536383974'
+  - comment_id: '4489'
+    comment_author: Sergio León
+    comment_author_email: panicoenlaxbox@gmail.com
+    comment_author_url: http://panicoenlaxbox.blogspot.com
+    comment_author_IP: 85.59.148.166
+    comment_date: '2014-09-07 18:20:00'
+    comment_date_gmt: '2014-09-07 17:20:00'
+    comment_content: >-
+      Hi, great post!
+
+
+      I am choosing right now what template would be the best choice for my team
+      and this post will be very usefull for us, thank you!
+
+
+      I have only one question, what do you mean with "Resolved (Code Complete
+      and Unit Tests passes)"? I'm relatively new in the world of agile
+      methodologies (but I'm a programmer and I know and I do unit testing on
+      the other hand) but I don't understand this point in the context of the
+      Agile and Scrum templates in VSO.
+
+
+      Thank you!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1578153788'
+  - comment_id: '4591'
+    comment_author: Ianrehd
+    comment_author_email: fred.somat@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 217.109.185.32
+    comment_date: '2014-09-11 11:18:00'
+    comment_date_gmt: '2014-09-11 10:18:00'
+    comment_content: >-
+      HI, Thanks for this post. We have run a project for six months now with
+      MSF for Agile template. But after reading your post I would rather go to
+      VS Scrum template. How should I proceed to move from one to another ? Any
+      guidelines somewhere ? Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1583933524'
+  - comment_id: '4595'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 77.69.22.53
+    comment_date: '2014-09-11 11:55:00'
+    comment_date_gmt: '2014-09-11 10:55:00'
+    comment_content: >-
+      Sure do:
+      http://nkdagility.com/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '4591'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1583933524'
+    - meta_key: dsq_post_id
+      meta_value: '1583960149'
+  - comment_id: '8947'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-15 08:54:00'
+    comment_date_gmt: '2014-12-15 08:54:00'
+    comment_content: >-
+      Its another way of saying "ready for being thrown over the wall to my test
+      team whom I never talk to"...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '4489'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1578153788'
+    - meta_key: dsq_post_id
+      meta_value: '1742564282'
+  - comment_id: '8948'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-15 08:56:00'
+    comment_date_gmt: '2014-12-15 08:56:00'
+    comment_content: >-
+      Except that comparing your original estimate with 'reality' rarely
+      provides any value :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2086'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1216098148'
+    - meta_key: dsq_post_id
+      meta_value: '1742565505'
+  - comment_id: '11352'
+    comment_author: Andrei
+    comment_author_email: sinelnikov.andrei@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.213.216.188
+    comment_date: '2015-03-11 17:48:00'
+    comment_date_gmt: '2015-03-11 17:48:00'
+    comment_content: >-
+      Thank you for your posts - helps a lot in planning TFS implementation.
+
+      I think it is useful to post link on how to perform suggested
+      optimizations.
+
+      I found one on Completed &amp; Original Estimate by Colin Beales -
+      http://blogs.msdn.com/b/visualstudiouk/archive/2013/04/18/adding-completed-work-to-the-scrum-2-x-template-including-reporting.aspx
+
+
+      I wasn't able to find instructions for the PBI Type customizations - looks
+      like have to figure it out myself :-)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1901631776'
+  - comment_id: '11919'
+    comment_author: fuulaluuf
+    comment_author_email: fuulaluuf@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 50.135.6.201
+    comment_date: '2015-05-02 08:41:00'
+    comment_date_gmt: '2015-05-02 07:41:00'
+    comment_content: by the way, you can now put bugs on the backlog in the Agile template
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1999070265'
+  - comment_id: '11962'
+    comment_author: Heloisa Reis
+    comment_author_email: helosilvareis@yahoo.com.br
+    comment_author_url: ''
+    comment_author_IP: 177.195.155.243
+    comment_date: '2015-05-08 09:53:00'
+    comment_date_gmt: '2015-05-08 08:53:00'
+    comment_content: >-
+      Nice article Martin. I agree with you, we using Scrum is very nice. I have
+      a question, we need metrics. I can customizing the template and added
+      completed work.
+
+      How can do configuration to TFS calculated automatically value and show in
+      my release management report?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2013109484'
+  - comment_id: '11963'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-05-08 09:57:00'
+    comment_date_gmt: '2015-05-08 08:57:00'
+    comment_content: >-
+      1) Which release management report :)
+
+      2) As long as the Completed work field is configured to report as a
+      "Measure" you can use any of the reporting tools Excel or SSRS to show
+      that figure and sum. 
+
+
+      You can't get anything in the web access yet.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11962'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2013109484'
+    - meta_key: dsq_post_id
+      meta_value: '2013116605'
+  - comment_id: '11998'
+    comment_author: Heloisa Reis
+    comment_author_email: helosilvareis@yahoo.com.br
+    comment_author_url: ''
+    comment_author_IP: 201.85.60.115
+    comment_date: '2015-05-13 18:12:00'
+    comment_date_gmt: '2015-05-13 17:12:00'
+    comment_content: >-
+      Martin,
+
+
+      1) Burndown and Burn Rate reports (I need to know the completed work for
+      each PBI on Scrum Template)
+
+
+      2) I'll check this cause I configured on completed work in Task but
+      "measure" value not showing.
+
+
+      Thank you for your help
+
+      Best regards.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11963'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2013116605'
+    - meta_key: dsq_post_id
+      meta_value: '2022659044'
+  - comment_id: '11999'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-05-13 18:26:00'
+    comment_date_gmt: '2015-05-13 17:26:00'
+    comment_content: >-
+      The Scrum template default reports don't use that value. You will need to
+      customise the report to include it.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11998'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2022659044'
+    - meta_key: dsq_post_id
+      meta_value: '2022683218'
+  - comment_id: '12000'
+    comment_author: Heloisa Reis
+    comment_author_email: helosilvareis@yahoo.com.br
+    comment_author_url: ''
+    comment_author_IP: 201.85.60.115
+    comment_date: '2015-05-13 18:30:00'
+    comment_date_gmt: '2015-05-13 17:30:00'
+    comment_content: |-
+      Martin,
+
+
+      Do you know about material how can I do that?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11999'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2022683218'
+    - meta_key: dsq_post_id
+      meta_value: '2022691384'
+  - comment_id: '12084'
+    comment_author: Rajarshi Basu Roy
+    comment_author_email: rajabasuroy@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 223.239.170.95
+    comment_date: '2015-05-23 12:01:00'
+    comment_date_gmt: '2015-05-23 11:01:00'
+    comment_content: >-
+      Hi Martin, the article was really useful and cleared a lot of "how others
+      are doing" questions from my mind. But I got a little confused about your
+      recommending CompletedWork and OriginalEstimate on top of Scrum 2.0 and
+      then making comments like "they are used by Project Managers to support
+      their lies and spin" and "comparing your original estimate with 'reality'
+      rarely provides any value :)". 
+
+
+
+      I have been studying Agile for adopting in my Product Development
+      organization where - 
+
+      1) The technologies used in the product (since last 12 years) are Oracle
+      Forms 6i, VB6, VB.NET, C# WinForms and now finally C# Web (Single Page
+      Application with ExtJS) is being introduced to bring them all to single
+      platform. There were compelling reasons for adopting these technologies
+      during different phases of the product in last 12 years.
+
+
+      2) Multiple teams are working on the product (.NET, Oracle Applications,
+      Database, Testers, Systems/DevOps, Domain Experts)
+
+      3) The total team size is more than 60
+
+
+
+      You can imagine, trying to adopt Agile at that scale has become a very
+      challenging task for me. We have started training and working for last 2-3
+      months with TFS 2013. We have adopted the Scaled Agile Framework with
+      Feature-PBI hierarchy. We have got immense help from your "Teams Without
+      Areas" article which MS has adopted well in TFS 2013.3. 
+
+
+
+      With my little knowledge and understanding I found values in CompletedWork
+      and OriginalEstimate as below. I have been running around the internet to
+      find any information about how the developer communities are using them
+      and whether they are finding values too.
+
+
+
+      As per my observations Scrum 2.0 falls short to answer the following
+      questions. The questions may not be pertinent to all teams.
+
+
+
+      1) Scrum 2.0 does not help you in improving your estimates over a period
+      of time by allowing you to compare your 'OriginalEstimate' to any sort of
+      actual values, say 'CompletedWork' at the end of a task.
+
+
+
+
+      2) Scrum 2.0 does not help you derive the cost of a feature (from a
+      businessman's perspective) by summing up the hours consumed (multiplied by
+      average hourly rate) so that marketing and sales strategies can be aligned
+      accordingly. Estimates may not be very accurate but you can still get a
+      fair idea.
+
+
+
+      3) A burn rate chart in addition to a burn down chart gives excellent
+      value to get an overall idea about whether the whole team is clocking more
+      or less hours than average over a period of time.
+
+
+
+      4) In a large team, despite of all agile philosophies like 'Self
+      organising' and 'Self disciplined', some sort of accountability is
+      required. It becomes difficult to trace where did your efforts go when the
+      burn down chart is not moving down. For example, on Day 3 of a sprint the
+      remaining hours were 100 and on Day 4 also the remaining hours were 100.
+      So what have you done on Day 3. You must have been engaged in some other
+      tasks which were logged and done the same day, e.g. 80 hours of tasks were
+      added and then burnt. The tasks may be a) New Development Task  b)
+      Production Support Task c) Non Development Task (meeting, training etc.).
+      We have separate PBIs like 'Production Support' and 'Trivia' in every
+      sprint and we log tasks against them. Then having CompletedHours logged
+      for the tasks helps us get the full picture. I am yet to organize the
+      reporting, but at least I have tried to capture a little more data than
+      Scrum 2.0 captures by default.
+
+
+
+      I thought of implementing TFS Time Tracker TimeSheet add on but later
+      thought that might be an overkill. I have put the idea on hold for now.
+
+
+
+      Ideas? Suggestions? Do you think we are on wrong track?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2041186199'
+  - comment_id: '12088'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 98.237.180.200
+    comment_date: '2015-05-23 15:53:00'
+    comment_date_gmt: '2015-05-23 14:53:00'
+    comment_content: >-
+      I enjoyed reading your observations and if my answer here is not doing
+      your question justice then feel free to email me. I am not really sure
+      what you mean by "Scrum 2.0" as I have not ever heard that term. If you
+      could clear that up I would appreciate it.
+
+
+      There is little value in monitoring original vs completed on a software
+      team. And making those estimates more accurate over time does not provide
+      any value to your stakeholders. You are correct that the burndown helps
+      the team understand where they are on their plan to complete the current
+      Sprint Goal, but it is only an indication. The only people that should
+      care/look at the Tasks and the Hours are the Development Team. I would
+      consider it an organisational dysfunction if any of that information,
+      while available, is used in any way outside of that Development Team. The
+      Development Team is focusing on delivering working software and the daily
+      plan, created at the Sprint Planning event and updated daily at the Daily
+      Scrum, is just a plan and can change at any time.
+
+
+      Above the Development Team we should be looking at value delivery. Your
+      Scrum Team's Product Owner should be focusing on both value and effort for
+      delivery. 
+
+
+      It should like your organisation has low trust, another organisational
+      dysfunction, and the accountability should not be on the accuracy of the
+      estimates but instead on the progress towards the Sprint Goal. The
+      Development Team is accountable and responsible for delivering, to the
+      Product Owner, on that Sprint Goal. That is where the accountability is
+      achieved and the Development Team needs the flexibility and freedom to
+      figure out how to achieve that any way that they please without
+      intervention. 
+
+
+      The act of "just making sure" that the Development Team is "on track" is
+      what is preventing your teams from moving to self-organisation and beyond
+      to self-managing. I think that you should focus on delivering value, now
+      what needs to be done to achieve it. You will never have high performing
+      Scrum teams until you do.
+
+
+      Do not attempt Time Tracking in TFS. It will be a car crash as TFS is not
+      designed for this sort of data. You should however be able to tell the
+      difference between capex and opex for financial purposes. I would
+      recommend that you use another system to reflect weekly time on Project
+      and capex/opex for each of the teams. This can be done simply and is
+      different data than that reflected in TFS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12084'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2041186199'
+    - meta_key: dsq_post_id
+      meta_value: '2041435420'
+  - comment_id: '12615'
+    comment_author: Ed Kelly
+    comment_author_email: ed.kelly@wolterskluwer.com
+    comment_author_url: ''
+    comment_author_IP: 38.112.4.154
+    comment_date: '2015-07-06 13:47:00'
+    comment_date_gmt: '2015-07-06 12:47:00'
+    comment_content: >-
+      I realize this thread is old, but since I'm new to Visual Studio and came
+      across this discussion.
+
+      Being a long time Agilist, I disagree with Martin's analysis of the two VS
+      process templates.  I agree with the comments about not hiding bugs.  This
+      is a definite no-no with Agile.  However this is easily fixed by
+      reconfiguring the workflow to treat bugs the same as User Stories.
+
+      The objects are only part of the picture.  The diagram that you don't show
+      Martin, is the object workflow.  The Scrum workflow is very oriented
+      towards planning and makes it difficult to track the progress of a Story
+      or PBI or whatever label you choose (those are semantics to me).  The
+      Agile workflow recognizes that there are two steps to a Story being
+      "Done".  1) Being built and tested by the development team.  2) Being
+      accepted by the Product Owner.  I would use the Resolved state to
+      represent the team being complete with all development work, including
+      testing (I'm not sure why you think the Agile process implies only unit
+      testing).  The Closed state means that the PO has accepted the work.  Any
+      further changes would require another backlog item.
+
+      I should note that the Scrum process follows the guidelines of Scrum.org
+      and the Agile process follows the guidelines of AgileAlliance.org.  Both
+      of them include the thought leaders on Agile and Lean, but they are
+      competing organizations and so naturally need some differentiator to sell
+      their ideas.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2119324502'
+  - comment_id: '12616'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 92.26.253.184
+    comment_date: '2015-07-06 14:19:00'
+    comment_date_gmt: '2015-07-06 13:19:00'
+    comment_content: >-
+      You are entirely incorrect about the Agile template Ed. It was developed
+      to follow the Microsoft Solution Framework (MSF) and the definition of
+      "Resolved" in the template documentation is "code complete and ready for
+      test". As i have said, you can do agile with the MSF templates, but agile
+      is antagonistic to their design.
+
+
+      Additionally if you are following the Scrum Guide you should note that the
+      Product Owner approves the Increment, and not an individual PBI. While
+      sole teams will engineer a way to turn PBI on or off there is no
+      requirement for it. Although i like that way of doing things.
+
+
+      The focus, during the Sprint Review, on a PBI is to determine how one
+      needs to update the Backlog, based on the latest increment, in order to
+      reflect the next most relevant piece of work. If the PO does not like what
+      has been created they can put a PBI to make it what they do want at the
+      top of the Backlog.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12615'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119324502'
+    - meta_key: dsq_post_id
+      meta_value: '2119365453'
+  - comment_id: '12617'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.211.203.64
+    comment_date: '2015-07-06 14:25:00'
+    comment_date_gmt: '2015-07-06 13:25:00'
+    comment_content: >-
+      I should also note that the Agile Alliance, Scrum.org m, and Scrum Inc all
+      agree on a common definition of Scrum defined on http://scrumguides.com
+      and maintained by Ken and Jeff.
+
+
+      The Scrum template was designed from scratch by members of the Scrum
+      community to comply with the Scrum Guide.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12615'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119324502'
+    - meta_key: dsq_post_id
+      meta_value: '2119372955'
+  - comment_id: '12627'
+    comment_author: Ed Kelly
+    comment_author_email: ed.kelly@wolterskluwer.com
+    comment_author_url: ''
+    comment_author_IP: 38.112.4.154
+    comment_date: '2015-07-06 18:46:00'
+    comment_date_gmt: '2015-07-06 17:46:00'
+    comment_content: >-
+      Thanks for your quick reply Martin!  I still don't see anything in the
+      Scrum Guide that precludes or is antagonistic to the MSF Agile process,
+      except for the inclusion of a bug as a PBI (easily fixed).  You're correct
+      that the TFS documentation considers an item "Resolved" when unit tests
+      are complete, but that is also easily fixed by changing the word "unit" to
+      "fully".
+
+
+      The Scrum Guide says only that the PO accepts a sprint.  I would never
+      wait until the end of a sprint to determine the acceptability of the work
+      in it.  The Guide does not preclude a PO from accepting individual PBIs. 
+      The Guide also says nothing about the concept of limiting WIP, which is a
+      well established productivity practice.  Having the PO accept PBIs allows
+      the team to manage WIP, since a limited number of PBIs can be in progress
+      (not Resolved) at a time.  My favorite example for limiting WIP is a
+      sprint that has 5 PBIs and on the last day the burndown has 5 units
+      remaining.  If each of these units is for a unique PBI, the sprint is a
+      failure, i.e. none of the PBIs is complete.
+
+
+      The process must also account for the real world where it's not likely
+      that sprints will be released at will.  Most large development
+      organizations group sprints into releases, to meet customer schedules or
+      contractual commitments.
+
+
+      I also don't see the Scrum process as too restrictive (as you point
+      out).The biggest difference I see between the Scrum process and the Agile
+      process is in the workflow.  The Scrum process is very oriented towards
+      planning.  The Agile process is very oriented towards execution.  Why do
+      we need states of "Approved" and "Committed" when by definition, a PBI
+      included in a sprint backlog is approved and committed.  On the other
+      hand, how do stakeholders know which PBIs are being worked on, unless
+      there's an in-progress or "Active" state?
+
+
+      I doubt that we'll agree on these points, but if we ignore the semantics
+      (like effort vs. story points), I think either process could be adapted by
+      a perfectly Agile organization using Scrum.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12617'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119372955'
+    - meta_key: dsq_post_id
+      meta_value: '2119818882'
+  - comment_id: '12628'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 92.26.253.184
+    comment_date: '2015-07-06 19:00:00'
+    comment_date_gmt: '2015-07-06 18:00:00'
+    comment_content: >-
+      Lol... So first the "scrum is restrictive" quote is from Microsofts
+      documentation that I disagree with. 
+
+
+      You also just contradicted yourself twice. The Scrum Guide does indeed
+      contradict at least two things in the MSF Agile template and has to be
+      changed to a custome template to work at all. It's then not the MSF Agile
+      template and is then just another Scrum template.
+
+
+      While these things are easily fixed in the MSF templates i find that it
+      causes more friction than necessary for teams using it. It's just harder
+      to be Agile with either if the MSF templates. Especially if you take into
+      account reporting which make the "easily fixes" things MUCH more expensive
+      and complicated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12627'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119818882'
+    - meta_key: dsq_post_id
+      meta_value: '2119844559'
+  - comment_id: '12630'
+    comment_author: >-
+      Configure Visual Studio 2015 Community Edition and Visual Studio Online
+      for Unity | What Up Games
+    comment_author_email: ''
+    comment_author_url: http://www.whatupgames.com/?p=67
+    comment_author_IP: 69.195.124.226
+    comment_date: '2015-07-07 04:59:55'
+    comment_date_gmt: '2015-07-07 03:59:55'
+    comment_content: >-
+      [&#8230;] comes into play if you decide to use work item tracking as it
+      will alter the work item types. See this article for more information on
+      the [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1436241595.77657;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1436889076.903078;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13721'
+    comment_author: Lana Boltneva
+    comment_author_email: lboltneva@intersog.com
+    comment_author_url: ''
+    comment_author_IP: 213.169.83.42
+    comment_date: '2015-11-24 11:23:00'
+    comment_date_gmt: '2015-11-24 11:23:00'
+    comment_content: >-
+      The conclusion is obvious - Dedicated Software Team model is the best
+      value provided that you look at IT sourcing as a long-term strategic
+      function allowing both cost saving, effective budgeting of IT projects and
+      strong skills exchange. For more information and practical tips on the
+      effective setup of a Dedicated Agile team check out this blog post as well
+      as this webinar recording.
+      http://intersog.com/blog/agility-team-management/fixed-price-time-and-material-or-dedicated-agile-team
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2376057333'
+  - comment_id: '14243'
+    comment_author: Dew Drop - May 17, 2017 (#2481) - Morning Dew
+    comment_author_email: ''
+    comment_author_url: https://www.alvinashcraft.com/2017/05/17/dew-drop-may-17-2017-2481/
+    comment_author_IP: 168.62.48.13
+    comment_date: '2017-05-17 12:55:25'
+    comment_date_gmt: '2017-05-17 11:55:25'
+    comment_content: >-
+      [&#8230;] Choosing a Process Template for your Team Project (Martin
+      Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1495022125.475425;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1495022201.220317;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14358'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 200.68.136.198
+    comment_date: '2017-10-16 15:57:00'
+    comment_date_gmt: '2017-10-16 14:57:00'
+    comment_content: >-
+      Outsourcing will almost always reduce the amount of value delivered by a
+      team. The crux of that is that they do not work for the company that the
+      software is for. They are not invested in that companies future, it's
+      culture l, and it's strategic direction.
+
+
+      The outsourced team cares about the company that they work for first. They
+      are invested I  it's success. 
+
+
+      While, yes, you can train a team to care more about the customer than
+      their own company, that produces a dysfunctional internal motivation. Add
+      to that switching project probably also means switching customer.
+      Switching customer means switching loyalty, switching strategies,  and
+      culture.
+
+
+      Don't be fooled by outsourcing companies. It might be cheaper in the short
+      term to outsource, but your business and customers will suffer in the long
+      term.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13721'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2376057333'
+    - meta_key: dsq_post_id
+      meta_value: '3569782786'
+  - comment_id: '14452'
+    comment_author: soso123
+    comment_author_email: lemravec@centrum.sk
+    comment_author_url: ''
+    comment_author_IP: 95.103.195.137
+    comment_date: '2017-12-23 20:39:00'
+    comment_date_gmt: '2017-12-23 20:39:00'
+    comment_content: >-
+      you are mixing the "Agile" template with the "MSF for Agile development"
+      template. the Agile template works fine and NO it is NOT a msf legacy
+      template.
+
+
+      edit: I just found out this blogpost is really old and could be right at
+      the time it was written. please correct your statement or at least mention
+      the tfs version(s) you are talking about.
+       https://uploads.disquscdn.com/images/d3315ad6b7bdbd620baa2450389206b1906f233f614b30b6e7793e4181fced19.png
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3676129078'
+  - comment_id: '14453'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 46.233.112.111
+    comment_date: '2017-12-24 08:11:00'
+    comment_date_gmt: '2017-12-24 08:11:00'
+    comment_content: >-
+      This blog post is accurate as of 2017 in both VSTS and TFS 2018 and was
+      updates to reflect changes in the product in May of 2017. The MSF
+      templates were renamed to "Agile" and " CMMI" respectively in... Oh...
+      Around 2015.
+
+
+      However both the templates are still based on MSF and have inherited their
+      baggage. As I said in the post the team at Microsoft has done a good job
+      of mitigating the many issues, and you can now customise away most of the
+      issues. 
+
+
+      I would rather one did not have to customise so much. 
+
+
+      The template in VSTS/TFS that best represents Agile principals and
+      paractices in the most flexible way is the Scrum template. It continues to
+      maintain flexibility of the complementary practices in Scrum that the
+      Agile template implies as enforcement. Like User Stories and Story
+      Points. 
+
+
+      An Agile team, wither doing Kanban, Scrum, or their own agile process
+      should start with the Scrum template.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14452'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3676129078'
+    - meta_key: dsq_post_id
+      meta_value: '3676659442'

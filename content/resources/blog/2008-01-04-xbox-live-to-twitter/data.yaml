@@ -1,0 +1,73 @@
+post:
+  title: Xbox Live To Twitter
+  link: https://nkdagility.com/blog/xbox-live-to-twitter/
+  pubDate: Fri, 04 Jan 2008 14:23:00 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/04/xbox-live-to-twitter.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I had been trying to find an application that provided updates to twitter from my Xbox. There is such an application written by <a href=\"http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx\" target=\"_blank\">Duncan Mackenzie</a>, but I could not get it to work. I tried everything and ended up decompiling the application to see what was wrong. Well, it seamed that the guts of the application was missing! The source code has all of the UI elements, but none of the bit to do the updates.</p> <p>I tested the web service and it worked, so the only thing to do (Duncan has not updated the application since May 2007) was to write my own version. As I did not have access to Xbox Live data directly, I have leveraged Duncan's web service and only created the front end.</p> <p>You can <a href=\"http://www.codeplex.com/XboxLiveStatus/Release/ProjectReleases.aspx\" target=\"_blank\">download the application</a> from <a title=\"CodePlex\" href=\"http://www.codeplex.com\" target=\"_blank\">CodePlex</a> along with all the <a href=\"http://www.codeplex.com/XboxLiveStatus\" target=\"_blank\">source code</a>.</p> <p>if you have any problems, please create or vote for Issues via the interface<img alt=\"smile_regular\" src=\"http://spaces.live.com/rte/emoticons/smile_regular.gif\" />.</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/RDdotNet\" rel=\"tag\">RDdotNet</a>\_<a href=\"http://technorati.com/tags/Xbox\" rel=\"tag\">Xbox</a>\_</div>"
+  - ''
+  post_id: '271'
+  post_date: '2008-01-04 14:23:00'
+  post_date_gmt: '2008-01-04 14:23:00'
+  post_modified: '2008-01-04 14:23:00'
+  post_modified_gmt: '2008-01-04 14:23:00'
+  comment_status: open
+  ping_status: open
+  post_name: xbox-live-to-twitter
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311603621'
+  - meta_key: _thumbnail_id
+    meta_value: '8624'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6IvTp
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465565963;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:269;}i:1;a:1:{s:2:"id";i:3830;}i:2;a:1:{s:2:"id";i:267;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-04-xbox-live-to-twitter.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '308'
+  comment:
+    comment_id: '269'
+    comment_author: XboxTweet
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-10-13 06:51:06'
+    comment_date_gmt: '2008-10-13 06:51:06'
+    comment_content: >-
+      With http://www.xboxtweet.com/ you can also tweet your Xbox 360
+      achievements!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971288'

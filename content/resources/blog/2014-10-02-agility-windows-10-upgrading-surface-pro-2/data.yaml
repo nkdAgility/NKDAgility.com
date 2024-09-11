@@ -1,0 +1,269 @@
+post:
+  title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
+  link: https://nkdagility.com/blog/agility-windows-10-upgrading-surface-pro-2/
+  pubDate: Thu, 02 Oct 2014 19:40:50 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10746
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.</p>\r\n<p>Yesterday, 1st September 2014, Microsoft released the first Technical Preview for Windows 10 to the general population. Anyone can give it a spin by going to <a href=\"http://preview.windows.com\">http://preview.windows.com</a>. This preview program, and Windows 10, is different from any other Windows release from Microsoft. They are moving to continuous delivery for Windows.</p>\r\n<p>Within any company it can be hard to validate the value of a move towards agility. It's scary, its unknown, and it just will not work here. This is a fiction. It is a fiction created, and maintained, by your organisational culture, and culture is the hardest thing to change. It takes one group to change, and then the change will sweep across your organisation. In the case of Microsoft the group large enough to be a catalyst for that change was the Developer Devision. They have taken Visual Studio and Team Foundation Server from a ship frequency of every two years to one of only three weeks.</p>\r\n<p>If you want to know more about how Microsoft has managed to <a href=\"http://stories.visualstudio.com/scaling-agile-across-the-enterprise/\">scale agile across the enterprise</a> they have a fantastic case study.</p>\r\n<p>This change however, and the huge success that the team has wrote, both internally and in user interaction, is something that is in envy of every product team at Microsoft. Now the Windows team want a piece of that success. They want to not ever end up in the same position as Windows 8 where they made design decisions that by the time that they got feedback it was too late.</p>\r\n<p>Now Windows is moving to an agile process where they ship new features directly to end users every 4 weeks. Patch Tuesday just became Feature Tuesday.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image001.png\" alt=\"clip_image001\" width=\"800\" height=\"112\" border=\"0\" /></p>\r\n<p>This new model, however, is hard to achieve. There were some spectacular disasters for the TFS team with TFS 2012 Update 1 and Update 2. Those were not fin times, but the teams had the courage to keep going and the transparency to maintain trust with their user base. And at the other end? They have an incredibly vocal user base that is willing and able to take the latest version of the product and give candid feedback.</p>\r\n<p>True continuous delivery is no more hotfixes, no more service packs, just new versions of your platform with the latest features and fixes included. This is what Windows wants a piece of. They need an engaged user base, they need an engaged enterprise community. They need that feedback.</p>\r\n<p>If you want to help them shape Windows 10, the last big Windows release, then you should join the Technical Preview.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image002.png\" alt=\"clip_image002\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>You do however need to be wary and if you are not comfortable with participating in preview programs or will be unhappy if it all blows up then you should stay away.</p>\r\n<blockquote>\r\n<p>A preview for PC experts</p>\r\n<p>Windows Technical Preview is here today, but it’s a long way from done. We’re going to make it faster, better, more fun at parties...you get the idea. <a href=\"http://go.microsoft.com/fwlink/?LinkId=507619\">Join the Windows Insider Program</a> to make sure you get all the new features that are on the way. If you’re okay with a moving target and don’t want to miss out on the latest stuff, keep reading. Technical Preview could be just your thing.</p>\r\n<p>Download and install the preview only if you</p>\r\n<ul>\r\n<li>Want to try out software that’s still in development and like sharing your opinion about it.</li>\r\n<li>Don’t mind lots of updates or a UI design that might change significantly over time.</li>\r\n<li>Really know your way around a PC and feel comfortable troubleshooting problems, backing up data, formatting a hard drive, installing an operating system from scratch, or restoring your old one if necessary.</li>\r\n<li>Know what an ISO file is and how to use it.</li>\r\n<li>Aren't installing it on your everyday computer.</li>\r\n</ul>\r\n<p>We're not kidding about the expert thing. So if you think BIOS is a new plant-based fuel, Tech Preview may not be right for you.</p>\r\n</blockquote>\r\n<p>That said, even my dad loves being part of the early adopter programs and playing with the new bits. He is my sanity test for the non-technical user and has already been part of the Windows 8 Consumer Preview and the Windows Phone 8.1 beta program. If you do want to participate in the program you do need to understand that there is limited ability to go back. However unlike the Windows Phone preview program you can wipe your computer and start over.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image003.png\" alt=\"clip_image003\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once you have signed in and 'joined the insider' program you will get a link to install the Technical Preview. While it would be awesome if we could just click a web installer this is not currently an option and you will need to download the bits. We will likely get a web / update installer from the Consumer preview due in Q1 2015.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image004.png\" alt=\"clip_image004\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>I downloaded both the UK English (<a href=\"http://nkdagility.com/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite/\">proper English</a>) versions for x86 and x64. I have a Dell Venue 8 Pro, and a Surface Pro 2 that I will be installing on. First up was the Venue 8 Pro which has a 32 bit OS and only comes with 32 bit drivers (no idea why, it is a 64 bit platform). Once you have downloaded the ISO you can use WinRar or 7Zip to unpack it. If you are installing on Windows 8 you can just double-click it to 'mount' it as a virtual CD drive.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image005.png\" alt=\"clip_image005\" width=\"800\" height=\"500\" border=\"0\" /></p>\r\n<p>As The Dell Venue 8 only has 64GB drive space I opted to for the USB option. I formatted an old USB drive to save space. Just copy the files over to the USB. You can then insert the USB and run the setup.exe in the root.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image006.png\" alt=\"clip_image006\" width=\"800\" height=\"500\" border=\"0\" /></p>\r\n<p>Once the install is running it takes a little while. It took about 30 minutes on my Dell Venue 8 Pro and over 60 minutes on the Surface Pro 2. This is likely as the Surface Pro has a bunch more apps installed and the settings need ported. My Surface is my primary production computer and has Visual Studio among other things installed.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image007\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image007.png\" alt=\"clip_image007\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once you have the files copied your system will reboot a bunch of times with prolonged setup in between. I installed on the Venue 8 in the morning at breakfast in the hotel before the second day of the PSF course I was just running, and the Surface on the train on the way to the airport. I am typing this up on the Surface at said airport since my flight has been delayed by 3 hours (always on FlyBe).</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image008\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image008.png\" alt=\"clip_image008\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Surface Pro 2</p>\r\n<p>Once you get installed you will get the new Windows user experience all over again. When it askes to add a new user you can safely skip it and just login with your existing account. With the Dell Venue 8 Pro I got to continue using the Start Screen, which I incidentally like, and with the Surface I got the new Start Menu that is a little more retro.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image009\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image009.png\" alt=\"clip_image009\" width=\"714\" height=\"500\" border=\"0\" /></p>\r\n<p>First thing you should always do, even after installing an OS that just came out, is look for updates. There are always last minute bug fixes coming out.</p>\r\n<p>Once in Windows 10 there are a few things that I noticed immediately.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image010\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image010.png\" alt=\"clip_image010\" width=\"800\" height=\"449\" border=\"0\" /></p>\r\n<p>You can only open modern apps in window mode and have to deliberately switch to full screen. This while fine on my Surface Pro is a pain on my Venue 8. I understand that the Windows team is still working on optimising the touch experience so I am willing to give them plenty of leeway.</p>\r\n<p>Another painful loss in the inability to close an app when in full screen by swiping down as you would on Windows 8. This is incredibly frustrating as I am really used to this model. However they are building this to entice the folks that don’t like Windows 8 over so, meh…</p>\r\n<p>Note: I did meet someone today that did not know that you could swipe from the top to close an app and was keeping the task manager open so they could close it! So maybe there needs to be a change.</p>\r\n<p>You can swipe from the left to get the task manager below and click the close so maybe all if good. It is two actions where one will do but it may make a comeback.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image011\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image011.png\" alt=\"clip_image011\" width=\"800\" height=\"430\" border=\"0\" /></p>\r\n<p>Swipe from Left does not just switch apps any more but instead presents you with the task switcher. This incorporates the new multi-desktop mode as well. Click on the \"add desktop\" option to add more. We will see how useful this is.</p>\r\n<p>That’s all I got from a first play, except to say that all my day job things worked just fine after the upgrade. The only issue I have hit so far is that SnagIt sometimes crashes when taking a screenshot. As SnagIt is very dependent on the UI integration, and the work they has to do to make it work on Windows 8 in the first place, I am not surprised it is a little confused.</p>\r\n<p>While I take no responsibility for any issues that you may have if you install Windows 10 I would recommend that anyone technically minded does so. And that they run it on their main computer. Take a little risk and provide feedback. The worst that can happen is that you need to reinstall Windows 8 / 7.</p>\r\n<p>Go on… be a kid again…</p>"
+  - >-
+    <p class="lead">You know me, I am always willing to take a little risk to
+    get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10
+    Technical Preview on the train on the way back from teaching the
+    Professional Scrum Foundations in Cheltenham.  </p>
+  post_id: '10746'
+  post_date: '2014-10-02 20:40:50'
+  post_date_gmt: '2014-10-02 19:40:50'
+  post_modified: '2014-10-21 07:10:18'
+  post_modified_gmt: '2014-10-21 06:10:18'
+  comment_status: open
+  ping_status: open
+  post_name: agility-windows-10-upgrading-surface-pro-2
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1rNZvbb
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '74'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: dsq_thread_id
+    meta_value: '3076875932'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10829'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474864033;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10041;}i:1;a:1:{s:2:"id";i:10907;}i:2;a:1:{s:2:"id";i:10886;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-10-02-agility-windows-10-upgrading-surface-pro-2.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1289'
+  comment:
+  - comment_id: '5132'
+    comment_author: BPOTW 2014-10-03 | SQL Notes From The Underground
+    comment_author_email: ''
+    comment_author_url: >-
+      http://sqlnotesfromtheunderground.wordpress.com/2014/10/03/bpotw-2014-10-03/
+    comment_author_IP: 192.0.80.106
+    comment_date: '2014-10-03 13:48:07'
+    comment_date_gmt: '2014-10-03 12:48:07'
+    comment_content: >-
+      [&#8230;] unveils Windows 10 system with Start Menu Agility and Windows
+      10: Upgrading my Surface Pro 2 Windows 10 and PowerShell 5 Activating your
+      Windows [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412340487.851214;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412603440.510115;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '5246'
+    comment_author: >-
+      Creating training virtual machines in Azure - naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/creating-training-virtual-machines-azure/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-10-07 16:06:57'
+    comment_date_gmt: '2014-10-07 15:06:57'
+    comment_content: >-
+      [&#8230;] box. This did not work with &#8220;two-factor&#8221; and I had
+      to turn that off, but that could be a Windows 10 issue rather than an
+      Azure [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412694417.768628;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412700231.910014;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13059'
+    comment_author: AudiA4
+    comment_author_email: gregmarko@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 99.233.186.81
+    comment_date: '2015-08-27 02:51:00'
+    comment_date_gmt: '2015-08-27 01:51:00'
+    comment_content: >-
+      W10 and Surface Pro 2 is very close to a disaster: Battery left went from
+      6hrs to 2hrs, device runs hot all the time, MS apps crash all the time, my
+      display brightness slider is now hidden in the battery settings, the
+      device won't sleep when the keyboard is closed, etc. I'll be going back to
+      8.1
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2220275593'
+  - comment_id: '13061'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-27 08:53:00'
+    comment_date_gmt: '2015-08-27 07:53:00'
+    comment_content: >-
+      So the above was on the really early insider preview and I had battery
+      issues as well. Now, with the RTM... no issues, long battery life and
+      awesome experience.
+
+
+      Did you update to the latest firmware? There are a number of optimisations
+      that come down with Windows 10 that take a few days to sort out. And as
+      with any new OS install it takes a few days to settle with search indexing
+      and other background processes.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13059'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2220275593'
+    - meta_key: dsq_post_id
+      meta_value: '2220608926'
+  - comment_id: '13064'
+    comment_author: AudiA4
+    comment_author_email: gregmarko@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 209.171.88.157
+    comment_date: '2015-08-27 17:55:00'
+    comment_date_gmt: '2015-08-27 16:55:00'
+    comment_content: >-
+      HI Martin - so figured out power issue is related to running 1080 display,
+      when I revert back to 720 device is running cooler and battery is now back
+      to the 5hr zone. I do have the latest updates per the windows update
+      interface. I have been running for a couple of weeks as I too was
+      expecting the updates to sort out some of the problems.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2221372601'
+  - comment_id: '13074'
+    comment_author: AudiA4
+    comment_author_email: gregmarko@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 99.233.186.81
+    comment_date: '2015-08-29 02:35:00'
+    comment_date_gmt: '2015-08-29 01:35:00'
+    comment_content: >-
+      One more question. Now with Windows 10 the Surface Pro 2 won't goto sleep
+      and I'm worried I'm going to burn the thing out. My situation - I put the
+      device to sleep either by closing type keyboard or power-&gt; sleep. In my
+      bag the device comes back to life, of course no ventilation so soon the
+      fan starts, which generates more heat and finally couple of hours later
+      when I need the device battery is at 10% and the device is almost too hot
+      to handle. Any suggestions (other than go back to windows 8.1 or shut off)
+      to teach this thing to sleep when type keyboard closed. I did not have
+      this problemo with W8.1.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2224163899'
+  - comment_id: '13077'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.18.228.205
+    comment_date: '2015-08-29 10:42:00'
+    comment_date_gmt: '2015-08-29 09:42:00'
+    comment_content: >-
+      It may take a few more weeks to iron out all of the driver issues... did
+      you wait for MS to update you or did your force it? MS has been holding
+      back the automatic update to Win10 on some devices pending drivers..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13064'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2221372601'
+    - meta_key: dsq_post_id
+      meta_value: '2224510942'
+  - comment_id: '13078'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.18.228.205
+    comment_date: '2015-08-29 10:43:00'
+    comment_date_gmt: '2015-08-29 09:43:00'
+    comment_content: >-
+      I had a similar problem with my Surface Pro 2 BEFORE Win10... I found that
+      the power button was getting pressed in my bag. Try shutting it down and
+      seeing if you get the same issue...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13074'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2224163899'
+    - meta_key: dsq_post_id
+      meta_value: '2224511832'

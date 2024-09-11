@@ -1,0 +1,57 @@
+post:
+  title: My first Extension method...
+  link: https://nkdagility.com/blog/my-first-extension-method/
+  pubDate: Mon, 07 Jan 2008 09:27:27 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/07/my-first-extension-method.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I decided as part of my .NET 3.5 learning curve to rebuild <a target=\"_blank\" href=\"http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx\">Duncan Mackenzie</a>'s <a target=\"_blank\" href=\"http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx\">Xbox to Twitter application</a> just for fun...</p>\n<p>When you call his web service you get a XboxInfo class back that contains all of your Xbox Live Information. I wanted to be able to add a method to this called \"ToInstanceString\" that I would use to both display your Status, and to detect when it had changed.</p>\n<p>In VB.NET you add Extension methods to a Module. One thing worth noting is that you can control the scope of the extension method with the Namespace. If you add a namespace of \"MyApp.Mynamespace\" your method will only be available within that namespace and not at the \"MyApp\" level.</p>\n<blockquote>\n<pre><em><span>Public</span> <span>Module</span> XboxExtensions\n\n    &lt;System.Runtime.CompilerServices.Extension()&gt; _\n    <span>Friend</span> <span>Function</span> ToPresenceString(<span>ByVal</span> Value <span>As</span> DMXIProxy.XboxInfo) <span>As</span> </em><em><span>String\n</span>        <span>If</span> Value.PresenceInfo.Info = <span>\"\"</span> </em><em><span>Then\n</span>            <span>Return</span> </em><em><span>\"\"\n</span>        <span>ElseIf</span> Value.PresenceInfo.Info2 = <span>\"\"</span> </em><em><span>Then\n</span>            <span>Return</span> Value.PresenceInfo.Info\n        </em><em><span>Else\n</span>            <span>Return</span> <span>String</span>.Format(<span>\"{0} ({1})\"</span>, Value.PresenceInfo.Info, Value.PresenceInfo.Info2)\n        <span>End</span> </em><em><span>If\n</span>    <span>End</span> </em><em><span>Function\n\nEnd</span> <span>Module</span></em></pre>\n</blockquote>\n<p>You need to annotate the method with\_ the \"System.Runtime.CompilerServices.Extension()\" attribute, and make sure that the first parameter of the method is the type that you want to extend...</p>\n<p>You can add extension methods randomly within your code, but it makes sense to put them all together in categorised module for future use. Although this one is specific to this application, you can probably see many circumstances where you could create generic and useful methods to add to things like collections and the like...</p>\n<p>Have fun...</p>\n<p>\_</p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_</div>"
+  - ''
+  post_id: '269'
+  post_date: '2008-01-07 09:27:27'
+  post_date_gmt: '2008-01-07 09:27:27'
+  post_modified: '2008-01-07 09:27:27'
+  post_modified_gmt: '2008-01-07 09:27:27'
+  comment_status: open
+  ping_status: open
+  post_name: my-first-extension-method
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '325178742'
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6PQCt
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-07-my-first-extension-method.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1467013748;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:214;}i:1;a:1:{s:2:"id";i:205;}i:2;a:1:{s:2:"id";i:123;}}}}
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '235'

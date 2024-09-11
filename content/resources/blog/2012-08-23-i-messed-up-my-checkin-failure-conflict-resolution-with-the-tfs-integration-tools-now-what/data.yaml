@@ -1,0 +1,305 @@
+post:
+  title: >-
+    I messed up my checkin failure conflict resolution with the TFS Integration
+    Tools… Now what?
+  link: >-
+    https://nkdagility.com/blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what/
+  pubDate: Thu, 23 Aug 2012 16:13:30 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=7610
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>If you say my post on “TFS Integration Tools - Issue: TF10141 No Files
+    checked in as a result of a TFS check-in failure” which I just updated you
+    will know that I messed up the conflict resolution by mixing up the “Source
+    Version” and “Target Version”.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image77.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb77.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Mixing up the Source and Target context</strong></p>
+
+    <p>Because the context we are talking here is the Conflict and not the
+    Migration the Source Version represents the source of the conflict. Which in
+    this case, as we are completing a checkin is the Migration Target.</p>
+
+    <blockquote>
+
+    <p>The source is the "Source Version" is the "Migration Target" and the
+    "Target Version" is the "Migration Source". wtf! … WTF!<br />-MrHinsh upon
+    realisation</p>
+
+    </blockquote>
+
+    <p>So what is the result and how come I realised. Well, after resolving this
+    conflict I re-ran the migration with my figures crossed (did I mention that
+    this was 14 hours into a 14hour migration) and then.. bang…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image78.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb78.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Conflict after conflict after conflict…</strong></p>
+
+    <p>So now I have ~80 VC Namespace Conflicts and ~40 VC Content
+    Conflicts…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image79.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb79.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    My ineptitude results in many more conflicts</strong></p>
+
+    <p>Now I need to figure out to solve the problem so I am turning to the
+    experts…</p>
+
+    <p>After talking at length with <a
+    href="http://www.linkedin.com/pub/jameson-miller/11/90a/257"
+    target="_blank">Jameson Miller</a>, Bill Essary, <a
+    href="http://blogs.msdn.com/b/taylaf/" target="_blank">Taylor Lafrinere</a>,
+    <a href="http://blogs.msdn.com/b/curtisp/" target="_blank">Curtis Pettit</a>
+    (you need to post more) &amp; <a href="http://blogs.msdn.com/b/billbar/"
+    target="_blank">Bill Barnett</a>&nbsp; from Microsoft’s Developer Division
+    and experts on the TFS Integration Tools with some log spelunking thrown in
+    we have an answer.</p>
+
+    <p>Because I horked up conflict resolution rule all changes after I entered
+    it are in a conflicted state. So “all” I have to do is undo the rule which
+    will get the TFS Integration Platform to refresh and re-analyse its list of
+    pending changes and I should get back to the original conflict.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image80.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb80.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Messed up rules to be deleted</strong></p>
+
+    <p>Once I have deleted the offending rules I should be able to “Start” the
+    current migration again and hopefully get back to a state before I messed up
+    the Source / Target things… Aw… dang it…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image81.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb81.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Nope, no dice with the restart</strong></p>
+
+    <p>There is only one last forlorn hope, from <a
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2010/03/16/tfs-integration-platform-i-have-just-moved-my-vc-content-now-i-want-to-sync-from-a-specific-snapshot-now-what.aspx"
+    target="_blank">TFS Integration Platform – I have just moved my VC content,
+    now I want to sync from a specific snapshot … now what?</a> that will allow
+    me to create a brand new session, but have it start from Migration Source
+    checkin 11783 and Migration Target checkin 25308 in the target path.</p>
+
+    <pre class="brush: xml; ruler: true;" max-width="780"><filters>
+      <filterpair Neglect="false">
+        <filteritem MigrationSourceUniqueId="b990ce3d-25e1-4381-8caf-94d7c9ea8cf0" FilterString="$/TeamProjectA" SnapshotStartPoint="11783" PeerSnapshotStartPoint="25308" />
+        <filteritem MigrationSourceUniqueId="e750060e-1736-46f6-a2e0-74e30d3f5f6a" FilterString="$/TeamProjectB/TeamProjectA" SnapshotStartPoint="25308" PeerSnapshotStartPoint="11783" />
+      </filterpair>
+      <filterpair Neglect="false">
+        <filteritem MigrationSourceUniqueId="b990ce3d-25e1-4381-8caf-94d7c9ea8cf0" FilterString="$/TeamProjectA/Folder1/Folder2/Folder3/Folder4/Folder5 That Is Getting Long/Folder6 that is so ridiculously long that it is unimaginable that someone would do this with little or no reason to it except being silly/" SnapshotStartPoint="11783" PeerSnapshotStartPoint="25308" />
+        <filteritem MigrationSourceUniqueId="e750060e-1736-46f6-a2e0-74e30d3f5f6a" FilterString="$/TeamProjectB/TeamProjectA/Folder1/Folder2/Folder3/Folder4/Folder5 That Is Getting Long/Folder6/" SnapshotStartPoint="25308" PeerSnapshotStartPoint="11783" />
+      </filterpair>
+    </filters>
+
+
+    </pre>
+
+    <p><strong>Figure: New config.. note the Shapshot data</strong></p>
+
+    <p>With the snapshots added to the config we should be good to go… cross
+    your fingers and hope…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image82.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb82.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Looks ok so far.</strong></p>
+
+    <p>It looks like the Integration Platform is running through its usual and
+    skipping over all of the items before the snapshot. I will not know if it
+    worked until it gets all the way to the end as I only have about 90 changes
+    left to come across…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image83.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb83.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Arg… nuts…</strong></p>
+
+    <p>Now what, it was supposed to start at 11784 (11783+1) but I don’t know
+    what to do with this strange beast… but after some more confab it looks like
+    it is simply the TFS Integration Tools saying “I did not migrate this! Which
+    changeset is it in the target system?”</p>
+
+    <p>If that is the case, then the answer is 25308!</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image84.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb84.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    There is no going back now</strong></p>
+
+    <p>And it looks like this was the right choice. I have no idea if it will
+    finish the Migration, but I am now on 25308+1 as it has skipped the mirrored
+    changeset.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image85.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb85.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    Woot it is now re-analysing…</strong></p>
+
+    <p>Wooohooooo…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/08/image86.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb86.png"
+    alt="image" width="640" height="384" border="0" /></a><br /><strong>Figure:
+    All of the left over changesets have been migrated</strong></p>
+
+    <p>And thus the padawan becomes the master… or at least… erm… more
+    competent!</p>
+  - ''
+  post_id: '7610'
+  post_date: '2012-08-23 09:13:30'
+  post_date_gmt: '2012-08-23 16:13:30'
+  post_modified: '2012-08-23 09:13:30'
+  post_modified_gmt: '2012-08-23 16:13:30'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '815904468'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBL2HO
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474667634;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:7402;}i:1;a:1:{s:2:"id";i:7240;}i:2;a:1:{s:2:"id";i:7377;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-08-23-i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '813'
+  comment:
+  - comment_id: '1387'
+    comment_author: Jen Turay
+    comment_author_email: chicadilly@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 198.36.177.13
+    comment_date: '2012-08-23 09:55:00'
+    comment_date_gmt: '2012-08-23 16:55:00'
+    comment_content: >-
+      I love that you are posting these things! I am currently using the
+      Integration Tools to migrate projects from one collection of our TFS
+      system to another. Though I haven't happened upon your same scenarios, the
+      screenshots and troubleshooting you have documented has been extremely
+      helpful to me in my corner of the world. Thanks so much!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '626840852'
+  - comment_id: '1388'
+    comment_author: 'Subversion to TFS 2012 Migration: Part 2 &raquo; jedibowler.com'
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 81.27.105.169
+    comment_date: '2013-02-20 09:37:55'
+    comment_date_gmt: '2013-02-20 09:37:55'
+    comment_content: "[...] It seems to be caused by a random deletion in Subversion that was somehow out of order and the adapter couldn&#8217;t handle it.\_ Setting the source and target to the same value resolved this &#8220;conflict&#8221; and the history appears in tact in TFS.\_ Regarding the confusing conflict resolution system in the Integration Platform, head back to Martin&#8217;s blog for an explanation. [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1361381875.722525;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1361923679.349782;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '10972'
+    comment_author: George Altenbaugh
+    comment_author_email: galtenbaugh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 64.43.241.6
+    comment_date: '2015-02-19 15:14:00'
+    comment_date_gmt: '2015-02-19 15:14:00'
+    comment_content: >-
+      I'm working through the same issue now.  In the above figure  Mixing up
+      the Source and Target context - is that a picture of the entries mixed up
+      or corrected?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1863841993'
+  - comment_id: '10973'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-02-19 15:31:00'
+    comment_date_gmt: '2015-02-19 15:31:00'
+    comment_content: I am not sure :( ... this was a long time ago...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '10972'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1863841993'
+    - meta_key: dsq_post_id
+      meta_value: '1863869465'

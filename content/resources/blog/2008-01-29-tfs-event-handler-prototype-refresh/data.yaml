@@ -1,0 +1,57 @@
+post:
+  title: TFS Event Handler (Prototype) Refresh
+  link: https://nkdagility.com/blog/tfs-event-handler-prototype-refresh/
+  pubDate: Tue, 29 Jan 2008 16:04:33 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/29/tfs-event-handler-prototype-refresh.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I found a couple of bugs in the <a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&amp;ReleaseId=5057\" target=\"_blank\">TFS Event Handler Prototype release</a>. As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.</p> <p>The config files have not changed, so you should make a copy of your config file before you uninstall the application. Then reinstall it and copy the config files back and you will be sorted. I have this version working on a server and sending emails with the default event handler.</p> <p>I had already upgraded the solution to Visual Studio 2008, so I went all the way and .Net 3.5 'ed all of the projects as well. The <a href=\"http://www.codeplex.com/TFSEventHandler/Wiki/View.aspx?title=TFS%20Event%20Handler%20(Prototype):%20Documentation\" target=\"_blank\">documentation</a> already exists for you to create your own event handlers and apply them to you team server, but let me know what you are getting your Team Server's to do.</p> <p>Some ideas for Event Handlers:</p> <ul> <li>Send someone an email when they are assigned a Work Item.(Included in the <a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&amp;ReleaseId=5057\" target=\"_blank\">Prototype release</a>...)  </li><li>Notify project managers when a new work item is added.  </li><li>If a user checks in code and bypasses the check-in policies, send an email to the entire team to name and shame them <img alt=\"smile_omg\" src=\"http://spaces.live.com/rte/emoticons/smile_omg.gif\" />  </li><li>Send an email to all of the developers when a check-in occurs...  </li><li>...</li></ul> <p>\_</p> <p><strong>Can you think of any more you would like?</strong> <a title=\"Send me your ideas for new Event Handlers\" href=\"https://www.codeplex.com/Thread/View.aspx?ProjectName=TFSEventHandler&amp;ThreadId=21219\" target=\"_blank\">Send them on a postcard to...</a></p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_</div>"
+  - ''
+  post_id: '259'
+  post_date: '2008-01-29 16:04:33'
+  post_date_gmt: '2008-01-29 16:04:33'
+  post_modified: '2008-01-29 16:04:33'
+  post_modified_gmt: '2008-01-29 16:04:33'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-event-handler-prototype-refresh
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '320384325'
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/17eMGys
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"a9397c93fef7c0ba9d0416e870f35557";a:2:{s:7:"expires";i:1455927756;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:261;}i:1;a:1:{s:2:"id";i:258;}i:2;a:1:{s:2:"id";i:260;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-29-tfs-event-handler-prototype-refresh.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '456'

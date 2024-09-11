@@ -1,0 +1,317 @@
+post:
+  title: Enable Feedback support for users in Team Foundation Server 2012
+  link: >-
+    https://nkdagility.com/blog/enable-feedback-support-for-users-in-team-foundation-server-2012/
+  pubDate: Tue, 21 May 2013 09:22:05 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9494
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">The focus of this article is to show you how to easily
+    enable feedback support for users in Team Foundation Server 2012 with a few
+    simple permissions. This works great with Team Foundation Server and even
+    better with Team Foundation Service.</p>
+
+    <p>Team Foundation Server works better because you have an on-premise
+    installed on TFS 2012 therefore, those who you want to grant access require
+    an Active Directory account in your domain. All of your internal users
+    already have this, but you can also give VPN access for externals. However,
+    this does not work for many publicly shippable applications. If however you
+    are using Team Foundation Service from <a
+    href="http://tfs.visualstudio.com">http://tfs.visualstudio.com</a> all you
+    need is a user Live ID and permission.</p>
+
+    <p><img style="border-width: 0px; margin: 0px; padding-top: 0px;
+    padding-right: 0px; padding-left: 0px;" title="image" alt="image"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Providing
+    Feedback on an application</small></p>
+
+    <p>There are a couple of things that you need to configure in order to
+    enable feedback support for users in Team Foundation Server 2012. Although
+    these may seem trivial they are a little hidden:</p>
+
+    <ol>
+
+    <li><strong><span class="label label-success">DONE</span> <span
+    style="text-decoration: line-through;">Configure email settings to enable
+    feedback support</span></strong></li>
+
+    <li><strong><span class="label label-success">DONE</span> <span
+    style="text-decoration: line-through;">Configure permissions to enable
+    feedback support</span></strong></li>
+
+    </ol>
+
+    <p>With these complete you are good to go!</p>
+
+    <h2>Configure email settings to enable feedback support</h2>
+
+    <p>The first thing to configure is the email settings in order to make sure
+    that we can both use the service and that email in fact does get sent. If
+    you do not have email settings configured then you should see a bunch of
+    warning messages when you try to use features that depend on them.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: TF400264: Team Foundation Server is not
+    configured to send email notifications " alt="Figure: TF400264: Team
+    Foundation Server is not configured to send email notifications "
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image1.png"
+    width="800" height="480" border="0" /><br /><small>Figure: TF400264: Team
+    Foundation Server is not configured to send email notifications</small></p>
+
+    <p>If this is the case then you need to go into your Team Foundation Server
+    Administration Console on the server and configure the email settings. This
+    will require a mail server to actually send the mail to be prepared with
+    specified details.</p>
+
+    <p><small><span class="label label-info">Note:</span> Many mail servers
+    restrict the ‘from’ address for sending mail and this can mean that emails
+    don’t send when you think they will be. If an email is not being sent, then
+    check the event log on the server for errors.</small></p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Enter the mail settings to enable
+    feedback support" alt="Figure: Enter the mail settings to enable feedback
+    support"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image2.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Enter the mail
+    settings to enable feedback support</small></p>
+
+    <p>Once you have completed and saved this, the email sending feature will
+    work not only for feedback, but also for the built in alerts manager for
+    teams…</p>
+
+    <h2>Configure permissions to enable feedback support</h2>
+
+    <p>The permissions are a bit more complex and may be much more specific to
+    the project. You need two very specific permissions sets, one is obvious and
+    the other… well… not so much.</p>
+
+    <p><small><span class="label label-info">Note:</span> You do not need any
+    version of Visual Studio nor a CAL for TFS to provide feedback. You simply
+    need to request it.</small></p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Create a group to to enable feedback
+    support" alt="Figure: Create a group to to enable feedback support"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image3.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Create a group to
+    enable feedback support</small></p>
+
+    <p>Now, we need to create a group that we can add folks to without having to
+    make them “Contributors”. Unfortunately, “Contributors” get access to our
+    Source Code and builds by default so we really want to lock it down, even if
+    it is just a little.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: You need ‘create test runs’ to enable
+    feedback support" alt="Figure: You need ‘create test runs’ to enable
+    feedback support"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image4.png"
+    width="800" height="480" border="0" /><br /><small>Figure: You need ‘create
+    test runs’ to enable feedback support</small></p>
+
+    <p>As mentioned earlier, the non-obvious permission is required to provide
+    feedback. For some reason you need to have the ‘create test runs’ permission
+    at the root of the project. Don’t ask…</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Join new group to Readers to enable
+    feedback support" alt="Figure: Join new group to Readers to enable feedback
+    support"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image5.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Join new group to
+    Readers to enable feedback support</small></p>
+
+    <p>This new group should only be “Readers” so that we can grant them access
+    to only what is needed to get feedback submitted. What we have now will
+    allow them to view things within the Team Project but not to edit. Now we
+    need to add explicit permission to our root “Area” node.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Edit the security for the root area"
+    alt="Figure: Edit the security for the root area"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image6.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Edit the security
+    for the root area</small></p>
+
+    <p>Getting into the security settings for an “Area” is simple but a little
+    obscure. There is a little node that only appears when you hover over the
+    node which allows you to get into the Security settings.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Add the ‘Feedback Provider’ group"
+    alt="Figure: Add the ‘Feedback Provider’ group"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/SNAGHTML1b65f95.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Add the ‘Feedback
+    Provider’ group</small></p>
+
+    <p>Simply type or select the ‘Feedback Provider’ group from the drop down
+    list and save the changes.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Allow edit work items in this node for
+    ‘Feedback Provider’" alt="Figure: Allow edit work items in this node for
+    ‘Feedback Provider’"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image7.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Allow edit work
+    items in this node for ‘Feedback Provider’</small></p>
+
+    <p>Now we have added permission only to allow the editing of work items.
+    Unfortunately, this current state means that any users in this group can
+    edit work items and requires a CAL.</p>
+
+    <p>Make sure that you also add the appropriate users to the ‘Limited” access
+    level which is found in the administration control panel for the
+    collection.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px;" title="Figure: Add feedback users to the Limited access
+    level" alt="Figure: Add feedback users to the Limited access level"
+    src="http://blog.nwcadence.com/wp-content/uploads/2013/04/image8.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Add feedback
+    users to the Limited access level</small></p>
+
+    <p>And now everyone in that group has access.</p>
+
+    <h2>Conclusion</h2>
+
+    <p>The feedback features are incredibly useful and require only minimal
+    configuration. There is no excuse for not having tractability from Feedback
+    through your Backlog to the detail of implementation, allowing you to
+    revisit the feedback when complete.</p>
+
+    <p>With the added bonus of zero licensing requirements in order to provide
+    feedback, we can safely roll out the Feedback Client internally to whoever
+    is needed.</p>
+
+    <p><strong>Warning: always back up your data before attempting any changes.
+    </strong></p>
+
+    <p><em><small>Originally published at Where Technology Meets Teamwork by <a
+    href="http://blog.hinshelwood.com/about">Martin Hinshelwood</a>, Senior ALM
+    Consultant. (<a
+    href="http://blog.nwcadence.com/enable-feedback-support-for-users-in-team-foundation-server-2012/"
+    target="_blank">source</a>)</small></em></p>
+  - >-
+    <p class="lead">The focus of this article is to show you how to easily
+    enable feedback support for users in Team Foundation Server 2012 with a few
+    simple permissions. This works great with Team Foundation Server and even
+    better with Team Foundation Service.</p>
+  post_id: '9494'
+  post_date: '2013-05-21 10:22:05'
+  post_date_gmt: '2013-05-21 09:22:05'
+  post_modified: '2013-05-21 10:22:05'
+  post_modified_gmt: '2013-05-21 09:22:05'
+  comment_status: open
+  ping_status: closed
+  post_name: enable-feedback-support-for-users-in-team-foundation-server-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '95'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"0";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: enable feedback
+  - meta_key: _yoast_wpseo_title
+    meta_value: Enable Feedback support for users in Team Foundation Server 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      The focus of this article is to show you how to easily enable feedback
+      support for users in Team Foundation Server 2012 with a few simple
+      permissions. This works great with Team Foundation Server and even better
+      with Team Foundation Service.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1272854523'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"519b3cc1f3091c910d000083";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1369128129;s:3:"day";s:5:"Today";s:6:"due_at";i:1369134600;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"519b3cc1f3091c910d000083";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:104:"New
+      Post: Enable Feedback support for users in Team Foundation Server 2012
+      http://buff.ly/11UcOwl #vsalm";s:14:"text_formatted";s:319:"New Post:
+      Enable Feedback support for users in Team Foundation Server 2012 <a
+      class="url" href="http://buff.ly/11UcOwl" rel="external nofollow"
+      target="_blank">http://buff.ly/11UcOwl</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1369128129;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"519b3cc2f3091c910d000084";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1369128130;s:3:"day";s:5:"Today";s:6:"due_at";i:1369155660;s:8:"due_time";s:8:"11:01
+      am";s:2:"id";s:24:"519b3cc2f3091c910d000084";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:87:"http://nkdagility.com/enable-feedback-support-for-users-in-team-foundation-server-2012/";s:11:"description";s:202:"The
+      focus of this article is to show you how to easily enable feedback support
+      for users in Team Foundation Server 2012 with a few simple permissions.
+      This works great with Team Foundation Server
+      and...";s:5:"title";s:64:"Enable Feedback support for users in Team
+      Foundation Server
+      2012";s:4:"link";s:87:"http://nkdagility.com/enable-feedback-support-for-users-in-team-foundation-server-2012/";s:7:"preview";s:67:"http://nkdagility.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:104:"New
+      Post: Enable Feedback support for users in Team Foundation Server 2012
+      http://buff.ly/11UcPjQ #vsalm";s:14:"text_formatted";s:319:"New Post:
+      Enable Feedback support for users in Team Foundation Server 2012 <a
+      class="url" href="http://buff.ly/11UcPjQ" rel="external nofollow"
+      target="_blank">http://buff.ly/11UcPjQ</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1369128130;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"519b3cc2f3091c910d000085";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1369128130;s:3:"day";s:5:"Today";s:6:"due_at";i:1369129740;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"519b3cc2f3091c910d000085";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:87:"http://nkdagility.com/enable-feedback-support-for-users-in-team-foundation-server-2012/";s:11:"description";s:202:"The
+      focus of this article is to show you how to easily enable feedback support
+      for users in Team Foundation Server 2012 with a few simple permissions.
+      This works great with Team Foundation Server
+      and...";s:5:"title";s:64:"Enable Feedback support for users in Team
+      Foundation Server
+      2012";s:4:"link";s:87:"http://nkdagility.com/enable-feedback-support-for-users-in-team-foundation-server-2012/";s:7:"preview";s:67:"http://nkdagility.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:104:"New
+      Post: Enable Feedback support for users in Team Foundation Server 2012
+      http://buff.ly/11UcPjU #vsalm";s:14:"text_formatted";s:319:"New Post:
+      Enable Feedback support for users in Team Foundation Server 2012 <a
+      class="url" href="http://buff.ly/11UcPjU" rel="external nofollow"
+      target="_blank">http://buff.ly/11UcPjU</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1369128130;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3PRGx
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473732232;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9724;}i:1;a:1:{s:2:"id";i:9912;}i:2;a:1:{s:2:"id";i:9907;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-05-21-enable-feedback-support-for-users-in-team-foundation-server-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '548'

@@ -1,0 +1,143 @@
+post:
+  title: Upgrade your server to Windows Server 2012 R2 Update 1
+  link: https://nkdagility.com/blog/upgrade-server-windows-server-2012-r2-update-1/
+  pubDate: Thu, 03 Apr 2014 07:55:57 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10472
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">With the release of Windows Server 2012 R2 Update 2 I wanted to make sure that all of my demo machines are up to date. I have a Domain Controller and a TFS server that are separate boxes but which are both running Windows Server 2012 R2.  </p>\r\n<p>The new update became available yesterday for MSDN subscribers and will be generally available next Tuesday (8th April 2014). I have already completed these updates on my Surface 2 Pro and Surface 2, both of which were running Windows 8.1. Today I want to concentrate on getting all of my demo boxes up to snuff as I have some demos &amp; presentations next week.  </p>\r\n<p>Updating these boxes should be trivial, and you know that I like to make sure that I have documentation so here we go. If you download the update from MSDN you get a zip archive called \"mu_windows_8.1_windows_server_2012r2_windows_embedded_8.1industry_update_x64_4046913\" that contains 6 Updates that can be used on Windows Server as well as Windows. There is a separate update for Windows ARM based architectures. It is recommended to install them in the following order:</p>\r\n<ol>\r\n<li>KB2919442  </li>\r\n<li>KB2919355  </li>\r\n<li>KB2932046  </li>\r\n<li>KB2937592  </li>\r\n<li>KB2938439  </li>\r\n<li>KB2949621</li>\r\n</ol>\r\n<p>Although KB2919355 contains the real meat at over 700mb and with most of the other updates are described as 'feature updates' you may or may not need to install KB2919442. KB2919355 can take a while to install and on my Surface 2 Pro it took around 30 minutes. On my Domain Controller only around 20 minutes.  </p>\r\n<p><img title=\"clip_image001\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image001.png\" width=\"800\" height=\"450\"/><br /><small>Figure: More than one update needs to be applied</small>  </p>\r\n<p>Although all of my Windows 8.1 systems already had KB2919442 installed I did need it run it on all of my Windows Servers. You should run each update in the order listed above.  </p>\r\n<p><img title=\"clip_image002\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image002.png\" width=\"800\" height=\"450\"/><br /><small>Figure: Each update can take some time to complete</small></p>\r\n<p>Each update takes various lengths of time to complete and I did notice that the times were pretty consistent with the physical size of the update. It’s a little annoying, and time consuming, to have to run each update manually and there really should be an installer for this. However it may not be worth It for the team to take the time when there updates will be going out to general release over Windows Update next Tuesday.  </p>\r\n<p><img title=\"clip_image003\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/clip_image003.png\" width=\"800\" height=\"450\"/><br /><small>Figure: If asked to restart then ignore</small>  </p>\r\n<p>All of the updates (except KB2919442) requested a restart at the end of each install. I ignored this and relied on the update to decide if the pending restart required to be actioned before proceeding. All of the updates installed in one go with no required reboots in between. That has been true on all of my systems, Windows 8.1 (x64), Windows 8.1 (ARM), and Windows Server 2012 R2.  </p>\r\n<p><img title=\"image\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/image.png\" width=\"800\" height=\"480\"/><br /><small>Figure: Final reboot can take some time</small>  </p>\r\n<p>After you have completed all of the updates restart your server and wait for a while… it may reboot a couple of times, however eventually it will be back. Took my VM’s around 3-5 minutes to reboot and configure the updates…  </p>\r\n<p><img title=\"image\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2014/04/image1.png\" width=\"800\" height=\"450\"/><br /><small>Figure: Windows Server 2012 R2 Update 1</small>  </p>\r\n<p>Not only did all of the updates install with no issues, all of the machines came back up and all services (those I changes anyway) are functional. Now that I have my Domain Controller and Team Foundation Server upgraded to Windows Server 2012 R2 Update 1 I can continue to updating TFS to Visual Studio Team Foundation Server 2013 Update 2 which was also released yesterday.</p>"
+  - >-
+    <p class="lead">With the release of Windows Server 2012 R2 Update 2 I wanted
+    to make sure that all of my demo machines are up to date. I have a Domain
+    Controller and a TFS server that are separate boxes but which are both
+    running Windows Server 2012 R2.  </p>
+  post_id: '10472'
+  post_date: '2014-04-03 08:55:57'
+  post_date_gmt: '2014-04-03 07:55:57'
+  post_modified: '2014-04-03 09:20:29'
+  post_modified_gmt: '2014-04-03 08:20:29'
+  comment_status: open
+  ping_status: open
+  post_name: upgrade-server-windows-server-2012-r2-update-1
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: windows server 2012 r2 update 1
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '68'
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1h6r4bz
+  - meta_key: dsq_thread_id
+    meta_value: '2582779513'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474904327;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10479;}i:1;a:1:{s:2:"id";i:9907;}i:2;a:1:{s:2:"id";i:5368;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-04-03-upgrade-server-windows-server-2012-r2-update-1.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '913'
+  comment:
+  - comment_id: '2195'
+    comment_author: ZephanS
+    comment_author_email: Zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: 67.137.149.122
+    comment_date: '2014-04-03 18:06:00'
+    comment_date_gmt: '2014-04-03 17:06:00'
+    comment_content: >-
+      Many thanks as usual for going in front of the pack and calling out any
+      bumps and curves you see along the way. You do a great job of illuminating
+      the path and making it less risky for others to follow in your
+      footsteps... especially when there can be a minefield!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1317033647'
+  - comment_id: '2200'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 46.144.134.202
+    comment_date: '2014-04-04 07:54:00'
+    comment_date_gmt: '2014-04-04 06:54:00'
+    comment_content: >-
+      I found the mine field to be pretty clear :) I have upgraded 4 computers
+      so far and no issues...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2195'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1317033647'
+    - meta_key: dsq_post_id
+      meta_value: '1317928683'
+  - comment_id: '2215'
+    comment_author: >-
+      Should I upgrade to TFS 2013 Update 2? - naked ALM - Experts in ALM, TFS
+      &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/upgrade-tfs-2013-update-2/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-04-10 16:33:51'
+    comment_date_gmt: '2014-04-10 15:33:51'
+    comment_content: >-
+      [&#8230;] 2 I wanted to make sure that the update goes seamlessly. So I am
+      upgrading my demo box to both Windows Server 2012 R2 Update 1 and Team
+      Foundation Server 2013 Update [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1397144031.055318;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1397477652.438316;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

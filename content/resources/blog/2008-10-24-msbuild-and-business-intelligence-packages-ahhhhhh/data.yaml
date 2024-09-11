@@ -1,0 +1,64 @@
+post:
+  title: MSBuild and Business Intelligence Packages, Ahhhhhh!
+  link: >-
+    https://nkdagility.com/blog/msbuild-and-business-intelligence-packages-ahhhhhh/
+  pubDate: Fri, 24 Oct 2008 09:00:00 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/10/24/msbuild-and-business-intelligence-packages-ahhhhhh.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have been trying to get a handle on doing an automated build of our Business Intelligence solutions and I am always running into problems around the (IMO badly build) BI Packages that are installed via SQL. They do not support Test, they do not support build. There has been no thought given to how people working on them are going to build test and support them and even the project files are not written in the same schema as the rest of the Visual Studio bits. I would have thought, with Team Foundation Server in its third year and second version that this would have been rectified in SQL 2008, but no such luck.</p>  <p>Today there are enormous BI solutions out there. Some built using these tools, and everyone needs to come up with their own solutions to this problem.</p>  <p>Here are some of the problems:</p>  <ul>   <li>How do you automate the deployment of SSIS packages?</li>    <li>How do you Unit test, load test and analyse the performance of SSIS packages?</li>    <li>How do you automate those tests of SSIS packages?</li>    <li>How do you automate the deployment of SSAS cubes?</li>    <li>How do you Unit test, load test and analyse the performance of SSAS cubes?</li>    <li>How do you automate those tests of SSAS cubes?</li>    <li>How do you automate the deployment of script packages?</li>    <li>How do you Unit test, load test and analyse the performance of script packages?</li>    <li>How do you automate those tests of script packages?</li> </ul>  <p>There are some answers. The visual studio team has taken on board the database piece with Visual Studio Team Edition for Databases. But the rest are languishing in perdition and there are no elegant solutions.</p>  <p>I am bookmarking my investigation on <a target=\"_blank\" href=\"http://delicious.com/hinshelm/MSBuild\">delicious</a>, but it will be a long slog…</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFBS\" rel=\"tag\">TFBS</a>\_</div>"
+  - ''
+  post_id: '182'
+  post_date: '2008-10-24 09:00:00'
+  post_date_gmt: '2008-10-24 09:00:00'
+  post_modified: '2008-10-24 09:00:00'
+  post_modified_gmt: '2008-10-24 09:00:00'
+  comment_status: open
+  ping_status: open
+  post_name: msbuild-and-business-intelligence-packages-ahhhhhh
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '314438040'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1bafvrH
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474637523;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:197;}i:1;a:1:{s:2:"id";i:5112;}i:2;a:1:{s:2:"id";i:10342;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-10-24-msbuild-and-business-intelligence-packages-ahhhhhh.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '386'

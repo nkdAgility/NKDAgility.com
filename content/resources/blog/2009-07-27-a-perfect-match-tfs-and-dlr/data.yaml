@@ -1,0 +1,133 @@
+post:
+  title: A perfect match TFS and DLR
+  link: https://nkdagility.com/blog/a-perfect-match-tfs-and-dlr/
+  pubDate: Mon, 27 Jul 2009 22:25:25 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/07/27/a-perfect-match-tfs-and-dlr.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_2.jpg\"><img style=\"border-bottom: 0px;border-left: 0px;margin: 0px 10px 5px 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"ConfigurationRequired\" align=\"left\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_thumb.jpg\" width=\"204\" height=\"136\" /></a> I have always been annoyed with the mechanics of the Team Foundation Server check-in policies. I understand the limitations, but having to have a specific policy installed on every developers computer before you can use it is slightly ridicules and practically unmanageable. Why is there not a way to have a single installation that allows you to select any policy you want and have it execute in the desired manor on every client, including web clients?</p>  <p>I think it is. With the advent of the Dynamic Language Runtime (DLR) it should be possible to have a single (well one for each version of Visual Studio) policy that allows you to pick a DLR policy and have it run. One better would be to have a site that encapsulated those policies and you could just pick the one you want from a list. This could then open up a bunch of other features, like saved policy sets or composite policies for specific methodologies, or many others. But keeping to the KISS (Keep It Simple Stupid) principal all I need are two or three things, a Web Service based data store, a Policy and an editor.</p>  <p>I am currently working on the Web Services and how to pass and store the data I will need, but it looks promising and my initial investigations certainly worked quite well even though I am hampered by my lack of IronPython or IronRuby experience.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ar123456585516148_2.jpg\"><img style=\"border-bottom: 0px;border-left: 0px;margin: 10px 0px 0px 10px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"ar123456585516148\" align=\"right\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ar123456585516148_thumb.jpg\" width=\"204\" height=\"142\" /></a>Once I have the web services up to scratch (WCF by the way) I will try my hand at the Editor (WPF) and then move onto the Web interface (ASP.NET MVC) all in Visual Studio 2010.\_ A mammoth task, but one I think I can manage… famous last words…</p>  <p>I might need to learn a little Ruby :)</p>  <p>\_</p>  <p>  </p><p>  </p><p>\_</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS+Custom\" rel=\"tag\">TFS Custom</a>\_<a href=\"http://technorati.com/tags/Developing\" rel=\"tag\">Developing</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_<a href=\"http://technorati.com/tags/Version+Control\" rel=\"tag\">Version Control</a>\_<a href=\"http://technorati.com/tags/WCF\" rel=\"tag\">WCF</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_</div>"
+  - ''
+  post_id: '96'
+  post_date: '2009-07-27 22:25:25'
+  post_date_gmt: '2009-07-27 22:25:25'
+  post_modified: '2009-07-27 22:25:25'
+  post_modified_gmt: '2009-07-27 22:25:25'
+  comment_status: open
+  ping_status: open
+  post_name: a-perfect-match-tfs-and-dlr
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602001'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLpIi0
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465352409;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9229;}i:1;a:1:{s:2:"id";i:125;}i:2;a:1:{s:2:"id";i:9875;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-07-27-a-perfect-match-tfs-and-dlr.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '442'
+  comment:
+  - comment_id: '588'
+    comment_author: David Solivan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-29 09:48:26'
+    comment_date_gmt: '2009-07-29 09:48:26'
+    comment_content: >-
+      I lead an architecture team where I work and we're struggling with
+      distribution of check-in policies here.  I'm very interested to see what
+      you come up with.  Good luck!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970133'
+  - comment_id: '589'
+    comment_author: Tim
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-30 17:12:38'
+    comment_date_gmt: '2009-07-30 17:12:38'
+    comment_content: Can you specify more why DLR can solve your problem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970134'
+  - comment_id: '590'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-31 05:49:27'
+    comment_date_gmt: '2009-07-31 05:49:27'
+    comment_content: >-
+      Hi Tim,<br /><br />All clients get a “single” policy called the
+      “DynamicPolicy” installed.<br /><br />A policy creator would create a
+      policy definition that includes code in a DLR language of choice and
+      submit it to a repository.<br /><br />The policy configurer would add the
+      installed “Dynamic Policy” to their project and select then configure and
+      instance of the desired policy from the repository policy definition.<br
+      /><br />When the policy is evaluated by the policy user the
+      “DynamicPolicy” evaluates the code property of the policy against the
+      desired language passing in the
+      Microsoft.TeamFoundation.VersionControl.Client.IPendingCheckin object and
+      returning an array of 
+      Microsoft.TeamFoundation.VersionControl.Client.PolicyFailure<br /><br
+      />Easy...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970135'

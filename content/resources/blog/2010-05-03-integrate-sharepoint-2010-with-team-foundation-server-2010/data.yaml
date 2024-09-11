@@ -1,0 +1,1226 @@
+post:
+  title: Integrate SharePoint 2010 with Team Foundation Server 2010
+  link: >-
+    https://nkdagility.com/blog/integrate-sharepoint-2010-with-team-foundation-server-2010/
+  pubDate: Mon, 03 May 2010 16:47:36 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/05/03/integrate-sharepoint-2010-with-team-foundation-server-2010.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">Our client is using a brand new shiny installation of
+    SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded
+    Team Foundation Server 2010 instance into it.</p>
+
+    <p>In order to do that you need to run the Team Foundation Server 2010
+    install on the SharePoint 2010 server and choose to install only the
+    “Extensions for SharePoint Products and Technologies”. We want out <a
+    href="http://blog.hinshelwood.com/archive/2010/05/03/upgrading-team-foundation-server-2008-to-2010.aspx">upgraded
+    Team Project Collection</a> to create any new portal in this SharePoint 2010
+    server farm.</p>
+
+    <ul>
+
+    <li><span class="label label-important">Update 25th September 2012</span>
+    -&nbsp;Superseded&nbsp;by&nbsp;<a
+    href="http://blog.hinshelwood.com/integrate-sharepoint-2013-with-team-foundation-server-2012/">Integrate
+    SharePoint 2013 with Team Foundation Server 2012</a></li>
+
+    <li><span class="label label-important">Update 4th May 2010</span> -&nbsp;<a
+    href="http://lightspeedit.com.au" rel="nofollow">Nilesh Deshpande</a> from
+    LightSpeedIT in Sydney was asking how he configures SharePoint integration
+    when he has TFS installed on Windows 7. The answer is easy, if not one he
+    will like. You can’t. When you install on Windows 7 you can only do a basic
+    install and the Admin options you would need to configure SharePoint are not
+    available. You will need to move you ProjectCollection to a TFS instance
+    running on a Server OS to be able to do this.</li>
+
+    </ul>
+
+    <p>There a number of goodies above and beyond a solution file that requires
+    the install, with the main one being the TFS2010 client API. These goodies
+    allow proper integration with the creation and viewing of Work Items from
+    SharePoint a new feature with TFS 2010. This works in both SharePoint 2007
+    and SharePoint 2010 with the level of integration dependant on the version
+    of SharePoint that you are running. There are three levels of integration
+    with “SharePoint Services 3.0” or “SharePoint Foundation 2010” being the
+    lowest. This level only offers reporting services framed integration for
+    reporting along with Work Item Integration and document management. The
+    highest is Microsoft Office SharePoint Services (MOSS) Enterprise with Excel
+    Services integration providing some lovely dashboards.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_2fb7ae58-ee52-4920-8095-d65a793515b8.png"
+    alt="image" width="789" height="642" border="0" /> <br /> <strong>Figure:
+    Dashboards take the guessing out of Project Planning and estimation. Plus
+    writing these reports would be boring!</strong></p>
+
+    <p>The Extensions that you need are on the same installation media as the
+    main TFS install and the only difference is the options you pick during the
+    install.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image11_a82ab407-073b-45af-b209-9c5db3063b96.png"
+    alt="image11" width="800" height="614" border="0" /> <br /> <strong>Figure:
+    Installing the TFS 2010 Extensions for SharePoint Products and Technologies
+    onto SharePoint 2010</strong></p>
+
+    <p>Annoyingly you may need to reboot a couple of times, but on this server
+    the process was MUCH smother than on our internal server. I think this was
+    mostly to do with this being a clean install.</p>
+
+    <p>Once it is installed you need to run the configuration. This will add all
+    of the Solution and Templates that are needed for SharePoint to work
+    properly with TFS.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image14_9e7a7f90-3840-43a9-a8e5-9ca93698e8ee.png"
+    alt="image14" width="800" height="602" border="0" /> <br /> <strong>Figure:
+    This is where all the TFS 2010 goodies are added to your SharePoint 2010
+    server and the TFS 2010 object model is installed.</strong></p>
+
+    <p>&nbsp;<img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image17_4148c1fc-4e0f-4f3e-a0ee-ed950204cffb.png"
+    alt="image17" width="799" height="604" border="0" /> <br /> <strong>Figure:
+    All done, you have everything installed, but you still need to configure
+    it</strong></p>
+
+    <p>Now that we have the TFS 2010 SharePoint Extensions installed on our
+    SharePoint 2010 server we need to configure them both so that they will talk
+    happily to each other. <br /> &nbsp;</p>
+
+    <h3 class="icon-task">Configuring the SharePoint 2010 Managed path for Team
+    Foundation Server 2010</h3>
+
+    <p>In order for TFS to automatically create your project portals you need a
+    wildcard managed path setup. This is where TFS will create the portal during
+    the creation of a new Team project. <br /> &nbsp;</p>
+
+    <p>To find the managed paths page for any application you need to first
+    select the “Managed web applications”&nbsp; link from the SharePoint 2010
+    Central Administration screen.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_1b6e5541-c9d0-4036-ba3f-d0353fa7d69e.png"
+    alt="image" width="800" height="529" border="0" /> <br /> <strong>Figure:
+    Find the “Manage web applications” link under the “Application Management”
+    section.</strong></p>
+
+    <p>On you are there you will see that the “Managed Paths” are there, they
+    are just greyed out and selecting one of the applications will enable it to
+    be clicked.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_f2e33e63-50b9-4da5-bf50-76d6e4e0ee13.png"
+    alt="image" width="551" height="371" border="0" /> <br /> <strong>Figure:
+    You need to select an application for the SharePoint 2010 ribbon to
+    activate.</strong></p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_a6255220-0e2d-4e2b-a763-cd0c00340951.png"
+    alt="image" width="577" height="367" border="0" /> <br /> <strong>Figure:
+    You need to select an application before you can get to the Managed Paths
+    for that application.</strong></p>
+
+    <p>Now we need to add a managed path for TFS 2010 to create its portals
+    under. I have gone for the obvious option of just calling the managed path
+    “TFS02” as the TFS 2010 server is the second TFS server that the client has
+    installed, TFS 2008 being the first. This links the location to the server
+    name, and as you can’t have two projects of the same name in two separate
+    project collections there is unlikely to be any conflicts.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_8e9d3fb4-251f-489d-8efd-0048670c5846.png"
+    alt="image" width="800" height="562" border="0" /> <br /> <strong>Figure:
+    Add a “tfs02” wildcard inclusion path to your SharePoint site. <br />
+    </strong><br /> &nbsp;</p>
+
+    <h3 class="icon-task">Configure the Team Foundation Server 2010 connection
+    to SharePoint 2010</h3>
+
+    <p>In order to have you new TFS 2010 Server talk to and create sites in
+    SharePoint 2010 you need to tell the TFS server where to put them. As this
+    TFS 2010 server was installed in out-of-the-box mode it has a SharePoint
+    Services 3.0 (the free one) server running on the same box. But we want to
+    change that so we can use the external SharePoint 2010 instance. Just open
+    the “Team Foundation Server Administration Console” and navigate to the
+    “SharePoint Web Applications” section. Here you click “Add” and enter the
+    details for the Managed path we just created.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_5d0320fe-f29e-4374-88c9-eae8823a0d51.png"
+    alt="image" width="800" height="570" border="0" /> <br /> <strong>Figure: If
+    you have special permissions on your SharePoint you may need to add accounts
+    to the “Service Accounts” section.</strong>&nbsp;</p>
+
+    <p>Before we can se this new SharePoint 2010 instance to be the default for
+    our upgraded Team Project Collection we need to configure SharePoint to take
+    instructions from our TFS server.</p>
+
+    <h3 class="icon-task">Configure SharePoint 2010 to connect to Team
+    Foundation Server 2010</h3>
+
+    <p>On your SharePoint 2010 server open the Team Foundation Server
+    Administration Console and select the “Extensions for SharePoint Products
+    and Technologies” node. Here we need to “grant access” for our TFS 2010
+    server to create sites. Click the “Grant access” link and&nbsp; fill out the
+    full URL to the&nbsp; TFS server, for example <a
+    href="http://servername.domain.com:8080/tfs">http://servername.domain.com:8080/tfs</a>,
+    and if need be restrict the path that TFS sites can be created on. Remember
+    that when the users create a new team project they can change the default
+    and point it anywhere they like as long as it is an authorised SharePoint
+    location.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_74b63d15-78fe-4479-8d86-f5a27ecabc2e.png"
+    alt="image" width="800" height="530" border="0" /> <br /> <strong>Figure:
+    Grant access for your TFS 2010 server to create sites in SharePoint
+    2010</strong> <br /> &nbsp;</p>
+
+    <p>Now that we have an authorised location for our team project portals to
+    be created we need to tell our Team Project Collection that this is where it
+    should stick sites by default for any new Team Projects created.</p>
+
+    <h3 class="icon-task">Configure the Team Foundation Server 2010 Team Project
+    Collection to create new sites in SharePoint 2010</h3>
+
+    <p>Back on out TFS 2010 server we need to setup the defaults for our
+    upgraded Team Project Collection to the new SharePoint 2010 integration we
+    have just set up. On the TFS 2010 server open up the “Team Foundation Server
+    Administration Console” again and navigate to the “Team Project Collections”
+    node. Once you are there you will see a list of all of your TPC’s and in our
+    case we have a DefaultCollection as well as out named and Upgraded
+    collection for TFS 2008.</p>
+
+    <p>If you select the “SharePoint Site” tab we can see that it is not
+    currently configured.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_bc3d6930-dffc-4104-a7e4-41e1b151bc72.png"
+    alt="image" width="800" height="567" border="0" /> <br /> <strong>Figure:
+    Our new Upgrade TFS2008 Team Project Collection does not have SharePoint
+    configured</strong></p>
+
+    <p>Select to “Edit Default Site Location” and select the new integration
+    point that we just set up for SharePoint 2010. Once you have selected the
+    “SharePoint Web Application” (the thing we just configured) then it will
+    give you an example based on that configuration point and the name of the
+    Team Project Collection that we are configuring. <br /> &nbsp;</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_fec63e96-ef5a-4202-b661-dd6b737d7c9f.png"
+    alt="image" width="800" height="567" border="0" /> <br /> <strong>Figure:
+    Set the default location for new Team Project Portals to be created for this
+    Team Project Collection</strong></p>
+
+    <p>This is where the reason for configuring the Extensions on the SharePoint
+    2010 server before doing this last bit becomes apparent. TFS 2010 is going
+    to create a site at our <a
+    href="http://sharepointserver/tfs02/">http://sharepointserver/tfs02/</a>
+    location called <a
+    href="http://sharepointserver/tfs02/[TeamProjectCollection">http://sharepointserver/tfs02/[TeamProjectCollection</a>],
+    or whatever we had specified, and it would have had difficulty doing this if
+    we had not given it permission first.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_a03288d3-8655-42c8-b58f-785c8f4524c8.png"
+    alt="image" width="800" height="568" border="0" /> <br /> <strong>Figure: If
+    there is no Team Project Collection site at this location the TFS 2010
+    server is going to create one</strong></p>
+
+    <p>This will create a nice Team Project Collection parent site to contain
+    the Portals for any new Team Projects that are created. It is with noting
+    that it will not create portals for existing Team Projects as this process
+    is run during the Team Project Creation wizard.</p>
+
+    <p><img style="margin: 0px 20px; border-width: 0px;"
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-IntegrateSharePoint2010withTeamFoundatio_A557-image_328c1980-64dc-4d15-b043-f20508b3d1e4.png"
+    alt="image" width="800" height="512" border="0" /> <br /> <strong>Figure:
+    Just a basic parent site to host all of your new Team Project Portals as sub
+    sites</strong></p>
+
+    <p>You will need to add all of the users that will be creating Team Projects
+    to be Administrators of this site so that they will not get an error during
+    the Project Creation Wizard. You may also want to customise this as a proper
+    portal to your projects if you are going to be having lots of them, but it
+    is really just a default placeholder so you have a top level site that you
+    can backup and point at.</p>
+
+    <p><strong>You have now integrated SharePoint 2010 and team Foundation
+    Server 2010!</strong></p>
+
+    <p>You can now go forth and multiple your Team Projects for this Team
+    Project Collection or you can continue to add portals to your other
+    Collections.</p>
+
+    <p><em>-Are you having trouble integrating TFS with Sharepoint? Northwest
+    Cadence can help you integrate these two systems together. Contact <a
+    href="mailto:info@nwcadence.com">info@nwcadence.com</a></em><em> today to
+    find out how we can help you…</em></p>
+  - >-
+    <p class="lead">Our client is using a brand new shiny installation of
+    SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded
+    Team Foundation Server 2010 instance into it. </p>
+  post_id: '44'
+  post_date: '2010-05-03 16:47:36'
+  post_date_gmt: '2010-05-03 16:47:36'
+  post_modified: '2010-05-03 16:47:36'
+  post_modified_gmt: '2010-05-03 16:47:36'
+  comment_status: open
+  ping_status: open
+  post_name: integrate-sharepoint-2010-with-team-foundation-server-2010
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311158089'
+  - meta_key: _views
+    meta_value: '5'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '88'
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: sharepoint 2010
+  - meta_key: _yoast_wpseo_title
+    meta_value: Integrate SharePoint 2010 with Team Foundation Server 2010
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      You can integrate SharePoint 2010 with TFS 2010 to leverage document
+      management and reporting through Excel Services. This can however be an
+      interesting proposition...
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBGW2G
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474773577;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9916;}i:1;a:1:{s:2:"id";i:8998;}i:2;a:1:{s:2:"id";i:7067;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2010-05-03-integrate-sharepoint-2010-with-team-foundation-server-2010.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1518'
+  comment:
+  - comment_id: '729'
+    comment_author: Nilesh Deshpande
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-04 09:40:57'
+    comment_date_gmt: '2010-05-04 09:40:57'
+    comment_content: >-
+      Martin,<br /><br />I installed Sharepoint 2010 and TFS 2010 on a Windows 7
+      Ultimate (x64).<br /><br />I'm unable to get Team Project automatically
+      create sharepoint portal in this configration.<br /><br />I've tried
+      enabling Project Portal setting from VSTS &gt; Team &gt; Project Portal
+      Settings menu, however "Use this Sharepoint Site:" radio button is
+      disabled.<br /><br />Also, TFS Administration tool does not show
+      Sharepoint Web Applications node (I guess reason being host OS is Windows
+      7).<br /><br />Any help is appreciated.<br /><br />Cheers<br /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969660'
+  - comment_id: '730'
+    comment_author: Evgeny
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-04 18:09:22'
+    comment_date_gmt: '2010-05-04 18:09:22'
+    comment_content: >-
+      Sharepoint and Reporting services suported on Windows Server TFS
+      installations only
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969664'
+  - comment_id: '731'
+    comment_author: Ron
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-06 23:35:25'
+    comment_date_gmt: '2010-05-06 23:35:25'
+    comment_content: >-
+      I'm looking to build out a new environment with TFS 2010 and SharePoint
+      2010 and SQL Server 2008 R2.<br /><br />I haven't found any blog posting
+      that discusses using SQL Server 2008 R2. Any advice?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969665'
+  - comment_id: '732'
+    comment_author: Ryan Cromwell
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-11 11:20:36'
+    comment_date_gmt: '2010-05-11 11:20:36'
+    comment_content: >-
+      I assume this was the Sharepoint 2010 beta that's currently publicly
+      available?  If so, does that mean that features like Excel Services that
+      are required for the extended dashboards and reporting in SharePoint 2007
+      are included in the public beta?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969669'
+  - comment_id: '733'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-11 15:30:59'
+    comment_date_gmt: '2010-05-11 15:30:59'
+    comment_content: >-
+      Ryan,<br /><br /> This is the RTM of SharePoint 2010 as it RTM’ed at the
+      same time as Office 2010.<br /><br /> No, the dashboards and reports are
+      not included in SP2010 as they are added during the install of the
+      “Sharepoint Extensions” part of the TFS 2010 Installer.<br /><br
+      />-MrHinsh<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969670'
+  - comment_id: '734'
+    comment_author: Mayur
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-18 20:06:52'
+    comment_date_gmt: '2010-05-18 20:06:52'
+    comment_content: >-
+      Need your guidance on below error:<br />Default Collection is not created
+      by default when I connect to TFS from client-There is no default
+      collection.<br />If I try to create new default collection using existing
+      database called Tfs_DefaultCollection ,SharePoint configuration gives
+      below warning.<br />TF249064: The following Web service returned an
+      response that is not valid:
+      http://xxxxxxxx/_vti_bin/TeamFoundationIntegrationService.asmx. This Web
+      service is used for the Team Foundation Server Extensions for SharePoint
+      Products. Either the extensions are not installed, the request resulted in
+      HTML being returned, or there is a problem with the URL. Verify that the
+      following URL points to a valid SharePoint Web application and that the
+      application is available: http://xxxxxx. If the URL is correct and the Web
+      application is operating normally, verify that a firewall is not blocking
+      access to the Web application<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969672'
+  - comment_id: '735'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-18 20:42:39'
+    comment_date_gmt: '2010-05-18 20:42:39'
+    comment_content: "I need a little more information to help you:<br /><br />1.\tIs this a local SharePoint or is it on a separate server.<br />If it is on a separate server please make sure that you have the SharePoint Extensions installed. <br />2.\tWhat do you get when you connect to http://xxxxxxxx/_vti_bin/TeamFoundationIntegrationService.asmx?<br />3.\tYou may be getting a permissions issue between SP and TFS. Check that they have access.<br />http://msdn.microsoft.com/en-us/library/bb552177(v=VS.100).aspx <br /><br />Let me know how you get on…<br />"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969674'
+  - comment_id: '736'
+    comment_author: Matthias Eder
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-20 21:03:55'
+    comment_date_gmt: '2010-05-20 21:03:55'
+    comment_content: >-
+      Thanks for the great post. But unfortunately I got one error when the TFS
+      admin console tries to create the SharePoint site for the team project
+      collection, saying "TF249033: The site template is not available for the
+      locale identifier (LCID). The site template name is: STS#0. The LCID is:
+      1033".<br />That's probably because we have a german SharePoint
+      installation. Any idea, how to solve this?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969677'
+  - comment_id: '737'
+    comment_author: Allan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-25 18:17:22'
+    comment_date_gmt: '2010-05-25 18:17:22'
+    comment_content: Great post:) Looking forward to try...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969679'
+  - comment_id: '738'
+    comment_author: Dave
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-31 22:19:16'
+    comment_date_gmt: '2010-05-31 22:19:16'
+    comment_content: >-
+      Hi,<br />we successfully migrated from TFS 2008 to 2010.<br
+      />Sharepointportals are also working but i have to connect each existing
+      project manually to the corresponing Sharepoint Portal. is there a way to
+      do this automatically?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969680'
+  - comment_id: '739'
+    comment_author: chris
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-08 15:13:22'
+    comment_date_gmt: '2010-06-08 15:13:22'
+    comment_content: I can't see any of your images... are they busted links?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969682'
+  - comment_id: '740'
+    comment_author: Chris
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-08 15:34:06'
+    comment_date_gmt: '2010-06-08 15:34:06'
+    comment_content: Actually, just looks busted in chrome. Firefox works.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969684'
+  - comment_id: '741'
+    comment_author: Yoann
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-29 15:53:22'
+    comment_date_gmt: '2010-06-29 15:53:22'
+    comment_content: >-
+      I found a solution for the problem with the LCID (TF249033).<br /><br
+      />Just install the Language Packs is the version of your sharepoint (year
+      and SERVER or FOUNDATION SERVICE) and in the language corresponding of TFS
+      (look on the internet to find the language appropriate to the number of
+      the folder which arise problem).
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969687'
+  - comment_id: '742'
+    comment_author: Greg Roberts
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-11 09:00:46'
+    comment_date_gmt: '2010-07-11 09:00:46'
+    comment_content: >-
+      Thanks for the post, i paper it seems straight forward but i still haven't
+      won after many days trying to have a sucessful TFS 2010 install to
+      separate SQL and Sharepoints.<br /><br />I don't get the "Extensions for
+      sharepoints" option at install or maint time so i at a loss of how you got
+      it ?<br />I have raised this
+      http://social.msdn.microsoft.com/Forums/en-US/tfssetup/thread/6eee0a61-c88b-4272-a90e-8797feeb98ee<br
+      />and<br
+      />http://social.msdn.microsoft.com/Forums/en-US/tfssetup/thread/486edf00-0b47-40cb-b6cd-b32039a683a2<br
+      /><br />Any help appreciated.<br /><br />Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969690'
+  - comment_id: '743'
+    comment_author: Dragan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-09-28 05:30:22'
+    comment_date_gmt: '2010-09-28 05:30:22'
+    comment_content: >-
+      Integration of TFS 2010 andSharePoint 2010 went fine until I had to
+      configure TFS Reporting (TFS Admin Console-&gt;Reporting). In Edit
+      Reporting dialog, Reports tab, I get error "“This operation is not
+      supported on a report server that is configured to run in SharePoint
+      integrated mode.”. My Reporting Services are configured in SharePoint
+      integrated mode. Is it possible to configure TFS Reporting-Reports to work
+      when you have Reporting Services in SharePoint integrated mode?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969694'
+  - comment_id: '744'
+    comment_author: Jon Skrodzki
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-10-14 12:49:56'
+    comment_date_gmt: '2010-10-14 12:49:56'
+    comment_content: >-
+      I found my solution with http://www.asphostportal.com. Our company trust
+      them to host our sharepoint 2010 site. You can try them. They offer
+      sharepoint 2010 with under $10.00/month. Everything looks great...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969696'
+  - comment_id: '745'
+    comment_author: Rommel Alix
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-11-05 19:55:31'
+    comment_date_gmt: '2010-11-05 19:55:31'
+    comment_content: >-
+      Hi.<br /><br />Thankyou for the great article you wrote here. However, i
+      do have a problem:<br />I cant seem to make the "Extensions for Sharepoint
+      applications and Technologies" appear during the installation/update. I am
+      using Windows 7 / SHarepoint 2010 / TFS 2010 / <br /><br />SOme notes:<br
+      /><br />I managed to configure the Sharepoint and TFS but cant integrate
+      each other using the Team Foundation Server COnsole (cant see the
+      Sharepoitn Web Application under Application Tier)<br /><br /><br />Thanx
+      in advance
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969700'
+  - comment_id: '746'
+    comment_author: Richard
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-02-04 20:17:31'
+    comment_date_gmt: '2011-02-04 20:17:31'
+    comment_content: How do we run the Extentions for SharePoint Products Configuration Wizard?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969704'
+  - comment_id: '747'
+    comment_author: Francisco
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-02-19 08:15:36'
+    comment_date_gmt: '2011-02-19 08:15:36'
+    comment_content: >-
+      I am using W7 Ultimate 64 bit, SharePoint Server 2010, TFS 2010.<br />I
+      cannot integrate TFS with SharePoint (Standalone installation).<br />I
+      need help.<br />Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969708'
+  - comment_id: '748'
+    comment_author: Harishwar Bomma
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-07 08:17:22'
+    comment_date_gmt: '2011-03-07 08:17:22'
+    comment_content: >-
+      Cool.. very nice step by step guide for the configuration...<br />Thank
+      you for the post...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969711'
+  - comment_id: '749'
+    comment_author: Nali
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-22 18:18:32'
+    comment_date_gmt: '2011-03-22 18:18:32'
+    comment_content: >-
+      If I have multi SharePoint server farm, do I need to install the TFS
+      integration piece on all the servers? I currently have four SharePoint
+      serves.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969715'
+  - comment_id: '750'
+    comment_author: FDA31090
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-23 14:12:31'
+    comment_date_gmt: '2011-03-23 14:12:31'
+    comment_content: >-
+      Very nice step by step guide, thank you very much.<br />I just have a
+      problem to create sharepoint site with the VSTS wizard. I ve get the
+      folwing erro: TFS218017:A SharePoint site could not be create for use as
+      the team project portal. The following error occurred : TF250021: A
+      SharePoinr site cannot be created in the followin location: http:/.....
+      Either  the path is not valid , or the Team Foundation server does not
+      support the creation of a site in this path.<br /><br />But i can create
+      the site from my TFS console (Create Team Project from vsts without  the
+      sharepoint site, and then, create SP site, from the console).<br /><br
+      />Any idea for this issue ?<br /><br />Otherwise, thank you very much for
+      the post -very, very usefull).<br /><br />Thank,<br />Regards<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969716'
+  - comment_id: '751'
+    comment_author: koncis
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-04-02 10:21:34'
+    comment_date_gmt: '2011-04-02 10:21:34'
+    comment_content: very interesting article, profesional ;)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969718'
+  - comment_id: '752'
+    comment_author: Mark
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-04-06 20:05:52'
+    comment_date_gmt: '2011-04-06 20:05:52'
+    comment_content: >-
+      http://stackoverflow.com/q/5572282/629174<br /><br />Will installing the
+      extensions cause any Application Pool Resets or will it cause any user
+      interruption? It's a production server and I don't want to affect any
+      users.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969719'
+  - comment_id: '753'
+    comment_author: Neil
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-04-28 20:50:22'
+    comment_date_gmt: '2011-04-28 20:50:22'
+    comment_content: >-
+      If I am installing TFS 2010 on a server already running SP Server 2010,
+      then I would select all the components to install BUT the sharepoint
+      extensions, right?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969721'
+  - comment_id: '754'
+    comment_author: Antony Gibbs
+    comment_author_email: antony.michael.gibbs@googlemail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-13 13:04:00'
+    comment_date_gmt: '2011-06-13 13:04:00'
+    comment_content: No, all of them...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '753'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209969721'
+    - meta_key: dsq_post_id
+      meta_value: '224738370'
+  - comment_id: '755'
+    comment_author: Antony Gibbs
+    comment_author_email: antony.michael.gibbs@googlemail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-13 13:05:00'
+    comment_date_gmt: '2011-06-13 13:05:00'
+    comment_content: No, all of them...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '753'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209969721'
+    - meta_key: dsq_post_id
+      meta_value: '224738387'
+  - comment_id: '756'
+    comment_author: 7 &#8211; Install SharePoint &laquo; Dr Justin Hale&#039;s Blog
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 216.151.210.49
+    comment_date: '2011-06-29 16:34:02'
+    comment_date_gmt: '2011-06-29 15:34:02'
+    comment_content: '[...] Integrate SharePoint 2010 with Team Foundation Server 2010 [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1309390442.8338";s:7:"message";s:28:"Akismet
+        cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1309395108.3511";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '757'
+    comment_author: >-
+      Integrate SharePoint 2010 with Team Foundation Server 2010 | Ammar&#039;s
+      IT Blog
+    comment_author_email: ''
+    comment_author_url: >-
+      http://ammarfassy.wordpress.com/2011/08/25/integrate-sharepoint-2010-with-team-foundation-server-2010/
+    comment_author_IP: 72.233.44.22
+    comment_date: '2011-08-25 04:08:08'
+    comment_date_gmt: '2011-08-25 11:08:08'
+    comment_content: >-
+      [...]
+      http://blog.hinshelwood.com/integrate-sharepoint-2010-with-team-foundation-server-2010/
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1314280310.9586";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '758'
+    comment_author: Dean Gross
+    comment_author_email: deanl144@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 206.219.255.152
+    comment_date: '2012-02-15 08:22:00'
+    comment_date_gmt: '2012-02-15 16:22:00'
+    comment_content: >-
+      I am trying to find a comparsion of what TFS dashboards we would get when
+      integrating with SP 2010 Standard vs SP 2010 Enterprise but have not been
+      able to find anything specific. Do you know where i might be able to find
+      this information? I need to confince some people that the Enterprise
+      version is worth the extra money.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '439885993'
+  - comment_id: '759'
+    comment_author: Jon Mozley
+    comment_author_email: mr.mozey@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 193.113.134.4
+    comment_date: '2012-02-15 09:22:00'
+    comment_date_gmt: '2012-02-15 17:22:00'
+    comment_content: >-
+      I've been absolutely baffled by the Microsoft documentation for all this -
+      information overload! Thank you for very clear set of instructions and
+      screenshots.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '439931749'
+  - comment_id: '760'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 173.14.255.1
+    comment_date: '2012-02-15 13:07:00'
+    comment_date_gmt: '2012-02-15 21:07:00'
+    comment_content: "You do\_not\_get ANY Excel dashboards unless you use Enterprise. You do however still get the Reporting\_Services\_ones.\n\n\nI could not find a good reference either..."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '758'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '439885993'
+    - meta_key: dsq_post_id
+      meta_value: '440157670'
+  - comment_id: '761'
+    comment_author: Michael Delaney
+    comment_author_email: michaelldelaney@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 66.210.198.66
+    comment_date: '2012-02-16 09:31:00'
+    comment_date_gmt: '2012-02-16 17:31:00'
+    comment_content: "I attempted this step by step.\_ I have an existing TFS instance on a Server 2008 R2 install that already had SharePoint 3.0 integration.\_ I have installed a new SharePoint 2010 instance on another 2008 R2 server.\_ I am trying to serve the project portal for my existing TFS collections on the new SP2010 server.\_ I am missing something here.\_ How do i move the existing project collection portal to the new SP2010 server?\_ The original administrator has since left the group and had no documentation.\n\nDo I need to export the database from the sql server on the original TFS machine to the new portal machine?\_ The new machine has SS 2008 R2 on it as the DB server too.\_ Any advice or step by step guidance would be greatly appreciated."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '441034056'
+  - comment_id: '762'
+    comment_author: slehman
+    comment_author_email: slehman@pekininsurance.com
+    comment_author_url: ''
+    comment_author_IP: 12.106.229.218
+    comment_date: '2012-05-10 14:29:00'
+    comment_date_gmt: '2012-05-10 21:29:00'
+    comment_content: "I have had TFS 2010 up and running for a year now along with two Sharepoint sites, one for my Intranet and then a separate on when I installed TFS 2010.\_ I eventually upgraded to use FOundation but had no clue how this all fit together.\_ Thanks for the info. \n\nI have an additonal question and hopefully someone can answer this.\_\_ The sites that are created I am assuming is being created by the TFS Extensions for Sharepoint. I would like to change the template to not include somethings, add additional documentation libraries,\_ use some of the webparts that I have created in my Intranet portal for others to use.\_ where do I find when TFS creates the Portal site what site template it is using?"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '525790618'
+  - comment_id: '763'
+    comment_author: Oleg Simkin
+    comment_author_email: oleg.simkin@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 63.250.237.98
+    comment_date: '2012-06-05 10:16:00'
+    comment_date_gmt: '2012-06-05 17:16:00'
+    comment_content: "Would this allow task creation in SharePoint to show up for the developer in TFS?\_ We would like to have a setup where a BA uses SharePoint to create tasks and the developer sees this Tasks as a Work Item in his Team Explorer."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '548010774'
+  - comment_id: '764'
+    comment_author: Ahsan Kabir
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 115.127.24.179
+    comment_date: '2012-10-17 04:23:00'
+    comment_date_gmt: '2012-10-17 03:23:00'
+    comment_content: Nice article
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '685084752'
+  - comment_id: '765'
+    comment_author: >-
+      Good tips on getting Team Foundation Server hooked up with an external
+      Sharepoint&#8230; | Christopher Knopick | Christopher Knopick
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 67.205.55.223
+    comment_date: '2012-11-14 11:55:24'
+    comment_date_gmt: '2012-11-14 11:55:24'
+    comment_content: >-
+      [...] Integrate SharePoint 2010 with Team Foundation Server 2010Integrate
+      SharePoint 2010 with Team Founda... You can integrate SharePoint 2010 with
+      TFS 2010 to leverage document management and reporting through Excel
+      Services. This can however be an interesting proposition&#8230;Our client
+      is using a brand new s&#8230; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352922924.62";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352958228.38";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '766'
+    comment_author: Daniel Raj Indla Joseph
+    comment_author_email: ijdraj@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 220.233.218.74
+    comment_date: '2012-12-04 20:46:00'
+    comment_date_gmt: '2012-12-05 04:46:00'
+    comment_content: >-
+      I'm new to Sharepoint but worked little bit on SharePoint 2010. May I know
+      if TFS Search can be implemented on remote SharePoint 2010 server or both
+      SharePoint and TFS on the same machine? If you have any links or guide
+      will be highly appreaciated.
+
+      Daniel
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '727934181'
+  - comment_id: '767'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-12-05 07:39:00'
+    comment_date_gmt: '2012-12-05 15:39:00'
+    comment_content: >-
+      I do not really understand the question as I do not know what "TFS Search"
+      is. What is the result you are trying to achieve?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '766'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '727934181'
+    - meta_key: dsq_post_id
+      meta_value: '728351077'
+  - comment_id: '768'
+    comment_author: Integrate SharePoint 2013 with Team Foundation Server 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/integrate-sharepoint-2013-with-team-foundation-server-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-08-01 23:36:13'
+    comment_date_gmt: '2013-08-01 22:36:13'
+    comment_content: >-
+      [...] the situation. I have previously Integrate SharePoint 2013 with Team
+      Foundation Server 2012 and Integrating SharePoint 2010 with Team
+      Foundation Server 2010. With TFS 2013 in the mix it is time to dust off my
+      SharePoint knowledge (recently engaged with [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375396573.786027;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375396586.590413;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11325'
+    comment_author: Chris LaVenture
+    comment_author_email: claventure@google.com
+    comment_author_url: ''
+    comment_author_IP: 208.125.53.66
+    comment_date: '2015-03-09 18:10:00'
+    comment_date_gmt: '2015-03-09 18:10:00'
+    comment_content: >-
+      May I ask a question on this older article?  I already see the window
+      depicting a basic parent site, which was the target of this discussion. 
+      So the person I replaced at this job already implemented the procedures we
+      see here.  Now I just want to somehow populate that site with all of the
+      TFS Work items, by project, on that page.  How do I do this?  I have
+      little SharePoint admin knowledge but a big enough brain to understand
+      whatever you folks can tell me.  Thanks, Chris
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1897220630'
+  - comment_id: '13966'
+    comment_author: james
+    comment_author_email: john.banting@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 36.70.16.167
+    comment_date: '2016-04-29 02:32:00'
+    comment_date_gmt: '2016-04-29 01:32:00'
+    comment_content: >-
+      I use to do that integration
+
+
+      but you need dedicated server / cloud server for that
+
+
+      <a href="https://www.seekdotnet.com/cloud-server/" rel="nofollow">cloud
+      server hosting</a>
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2648449852'

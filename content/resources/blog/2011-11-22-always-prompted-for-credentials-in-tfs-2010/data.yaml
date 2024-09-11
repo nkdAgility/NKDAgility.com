@@ -1,0 +1,163 @@
+post:
+  title: Always prompted for credentials in TFS 2010?
+  link: https://nkdagility.com/blog/always-prompted-for-credentials-in-tfs-2010/
+  pubDate: Tue, 22 Nov 2011 23:18:08 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=4071
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<a href=\"http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png\"><img style=\"background-image: none; margin: 0px 10px 10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float: left; padding-top: 0px; border-width: 0px;\" title=\"VisualStudioALMLogo\" src=\"http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo_thumb.png\" alt=\"VisualStudioALMLogo\" width=\"150\" height=\"50\" align=\"left\" border=\"0\" /></a>\n\nSometimes when you setup TFS you find that your users, or just some of them, are being prompted for credentials. While manageable this is annoying and is not really related to TFS. This is an Active Directory thing and yes, there is a workaround…\n\n&nbsp;\n\n&nbsp;\n\n<hr />\n\nThe best way to fix this is to have your Active Directory administrator add your OWN domain to the list detected as internal and thus intranet. By default using just the server NETBIOS name will work anyway, but in this world of domain names <a href=\"http://tfs.company.com\">http://tfs.company.com</a> looks a lot better and is easier to remember than <a href=\"http://tfs\">http://tfs</a>. Its a brain thing… and it is a Kerberos thing, but don’t worry about that.\n\nSo, first, why is this happening?\n\n<a href=\"http://blog.hinshelwood.com/files/2011/11/SNAGHTML154bd5c.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"SNAGHTML154bd5c\" src=\"http://blog.hinshelwood.com/files/2011/11/SNAGHTML154bd5c_thumb.png\" alt=\"SNAGHTML154bd5c\" width=\"600\" height=\"681\" border=\"0\" /></a>\n<strong>Figure: User Authentication on the Internet / Intranet</strong>\n\nIts the default and it should be this way!\n\nIf you accidentally change this to allow authentication in all zones you may be exposing your username and password beyond the bounds of your internal network. This is not good.\n\nSo, if you want to fix this send this email to your Active Directory administrator or support desk:\n<blockquote>Dear Admin,\n\nCan you please make it so that all things that I access thorough the network as “*.mydomain.com” are classed as “intranet” so that I can authenticate correctly without having to enter my username and password every time. Can you also make sure that everyone i work with has the same setting applied automatically.\n\n<a href=\"http://blog.hinshelwood.com/files/2011/11/image9.png\"><img style=\"background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image_thumb2.png\" alt=\"image\" width=\"533\" height=\"302\" border=\"0\" /></a>\n<strong><a href=\"http://blog.hinshelwood.com/files/2011/11/o_Error-icon1.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"o_Error-icon\" src=\"http://blog.hinshelwood.com/files/2011/11/o_Error-icon_thumb.png\" alt=\"o_Error-icon\" width=\"10\" height=\"10\" border=\"0\" /></a></strong><strong>Figure: Bad example, I should not have to do this locally</strong>\n\nHint: you can do this by adding “*.mydomain.com” to the list of websites that are automatically in Internet Explorers “Intranet” list\n\n<a href=\"http://blog.hinshelwood.com/files/2011/11/image10.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image_thumb3.png\" alt=\"image\" width=\"235\" height=\"302\" border=\"0\" /></a>\n<a href=\"http://blog.hinshelwood.com/files/2011/11/o_Tick-icon.png\"><strong><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"o_Tick-icon\" src=\"http://blog.hinshelwood.com/files/2011/11/o_Tick-icon_thumb.png\" alt=\"o_Tick-icon\" width=\"10\" height=\"10\" border=\"0\" /></strong></a><strong>Figure: Good example, now i can authenticate</strong>\n<ul>\n\t<li><strong>Please can you change the domain policy to add this automatically to Internet Explorer</strong></li>\n</ul>\nThanks,\n\nFrustrated local user</blockquote>\nBut, sometimes you get a less than prompt response. How can I solve this in the mean time, knowing that my Support team is working hard of fixing it permanently?\n\n[screencast url=\"http://www.screencast.com/t/PAx7VWfa3jn\" width=\"640\" height=\"360\"]\n<strong>Screencast: Administering TFS 2010 - Always prompted for credentials?</strong>\n<h3>But I just want the simple steps!</h3>\n<ol>\n\t<li>Open IE</li>\n\t<li>Click \"<strong>Tools | Internet Option...</strong>\"<a href=\"http://blog.hinshelwood.com/files/2011/11/image11.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image_thumb4.png\" alt=\"image\" width=\"600\" height=\"220\" border=\"0\" /></a>\n<strong>Figure: Internet Options is well hidden</strong></li>\n\t<li>Go to \"<strong>Security</strong>\" tab.<a href=\"http://blog.hinshelwood.com/files/2011/11/image12.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image_thumb5.png\" alt=\"image\" width=\"600\" height=\"319\" border=\"0\" /></a>\n<strong>Figure: These settings apply to all internet access, not just IE</strong></li>\n\t<li>Select \"<strong>Local Intranet | Sites | Advanced</strong>\"<a href=\"http://blog.hinshelwood.com/files/2011/11/image13.png\"><img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image_thumb6.png\" alt=\"image\" width=\"600\" height=\"431\" border=\"0\" /></a>\n<strong>Figure: All useful options are hidden away</strong></li>\n\t<li>Confirm that “<strong>*.mydomain.com</strong>” is in the list and add it if it is not.</li>\n\t<li>Close all instances of Internet Explorer</li>\n</ol>\nNow when you open IE and go to any address that contains your company domain it will automatically pass through your Active Directory identity."
+  - ''
+  post_id: '4071'
+  post_date: '2011-11-22 15:18:08'
+  post_date_gmt: '2011-11-22 23:18:08'
+  post_modified: '2011-11-22 15:18:08'
+  post_modified_gmt: '2011-11-22 23:18:08'
+  comment_status: open
+  ping_status: open
+  post_name: always-prompted-for-credentials-in-tfs-2010
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: dsq_thread_id
+    meta_value: '480803960'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dL5XqI
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474915292;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:4104;}i:1;a:1:{s:2:"id";i:9324;}i:2;a:1:{s:2:"id";i:9443;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2011-11-22-always-prompted-for-credentials-in-tfs-2010.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '771'
+  comment:
+  - comment_id: '1095'
+    comment_author: ''
+    comment_author_email: Zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-11-23 10:18:00'
+    comment_date_gmt: '2011-11-23 18:18:00'
+    comment_content: >-
+      Thanks Martin for sharing another informative tidbit of information with
+      great screenshots. I haven't had this problem with TFS (yet), but I have
+      several other apps including Outlook that complain when I VPN or connect
+      to various oddly named domains within my corporate intranet. It looks like
+      these steps will apply to fix integrated authentication for Outlook
+      SharePoint integration and general browsing. (WOHOO!)
+
+
+      Enjoy! -Zephan
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '370942771'
+  - comment_id: '1096'
+    comment_author: Brad Buhrkuhl
+    comment_author_email: bbuhrkuhl@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-11-23 10:44:00'
+    comment_date_gmt: '2011-11-23 18:44:00'
+    comment_content: "You can also use windows' built in Credential Manager to store TFS passwords. \_The Credential Manager works great for machines that are not on the same domain as the TFS Server (or other server you need to store credentials for)."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '370965051'
+  - comment_id: '1097'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-11-23 13:33:00'
+    comment_date_gmt: '2011-11-23 21:33:00'
+    comment_content: "It is\_easier\_to use\_@google-814b1816ded375a040b56645112244a8:disqus\_'s\_approach\_for multiple domains but if you do that and you\_still\_don't get passthrough of credentials then the above post will help you. Most people don't switch domains."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1095'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '370942771'
+    - meta_key: dsq_post_id
+      meta_value: '371119486'
+  - comment_id: '1098'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-11-23 13:38:00'
+    comment_date_gmt: '2011-11-23 21:38:00'
+    comment_content: "That is a\_fantastic\_addendum\_that I use as well. However if you are in mydomain.com and are\_connecting\_to servers in mydomain.com and IE is not passing credentials then you have to do the above."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1096'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '370965051'
+    - meta_key: dsq_post_id
+      meta_value: '371124013'
+  - comment_id: '1099'
+    comment_author: >-
+      SSRS vs SCVMM &#8211; The Kerberos token dispute | Process, Practices and
+      Tools
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/ssrs-vs-scvmm-the-kerberos-token-dispute/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2011-12-29 16:42:45'
+    comment_date_gmt: '2011-12-30 00:42:45'
+    comment_content: >-
+      [...] will still need to follow &#8220;Always prompted for credentials in
+      TFS 2010?&#8221; to make sure that your users can get their kerberos
+      ticket now that the server will allow [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1325205766.01";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1326713936.32";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

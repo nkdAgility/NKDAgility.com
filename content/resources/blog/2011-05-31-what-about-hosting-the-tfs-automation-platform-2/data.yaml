@@ -1,0 +1,87 @@
+post:
+  title: What about hosting the Tfs Automation Platform
+  link: >-
+    https://nkdagility.com/blog/what-about-hosting-the-tfs-automation-platform-2/
+  pubDate: Tue, 31 May 2011 20:57:52 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=3365
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<a href=\"http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg\"><img style=\"margin: 0px 30px 20px 0px; display: inline; float: left;\" src=\"http://blogs.msdn.com/resized-image.ashx/__size/550x0/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg\" border=\"0\" alt=\"\" width=\"185\" height=\"127\" align=\"left\" /></a>I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:\n<ul>\n\t<li><a href=\"http://blogs.msdn.com/b/bharry/archive/2011/05/18/update-on-tfs-on-azure.aspx\">Update on TFS on Azure</a> from <a href=\"http://blogs.msdn.com/b/bharry\">Brian Harry</a></li>\n\t<li><a href=\"http://blogs.msdn.com/b/bryang/archive/2011/05/20/to-the-cloud-with-tfs.aspx\">“To the cloud” with TFS</a> from <a href=\"http://blogs.msdn.com/b/bryang\">Bryan Group</a></li>\n\t<li><a href=\"http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/FDN03\">The Future of Microsoft Visual Studio Application Lifecycle Management</a> on <a href=\"http://channel9.msdn.com/\">Channel 9</a></li>\n\t<li><a title=\"http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview\" href=\"http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview\">Team Foundation Server on Windows Azure Preview</a></li>\n</ul>\n&nbsp;\n\n<span style=\"color: #ff0000;\"><em><span style=\"color: #ff0000;\"><em>note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.</em></span></em></span>\n\n<hr />\n\nThe Platform architecture currently involves extensive server side components. In fact almost all of the functionality is provided from the server from configuration to implementation.\n\nI have thought about this a lot and although I recognise the problem I would not want to sacrifice functionality for this scenario. Although some of the functionality would be possible a large chuck of possible features as well as all of the resilience would be severely impaired by removing the server side components.\n\nIt would be up to the hosting provider to install the server-side components to enable the user to use this system. Think of it like the Wordpress Plugin system. Some hosting providers allow you to have any plugin you like, while others require that you can only select from a list of approved plugins.\n\nI would want to make it as easy as possible to configure the hosted TFS server to only load “Automation packages” from a Store provided by the host themselves. For example if they deployed a managed server on “nwcadence.tfsazure.com” they would also deploy the server side components and configure it to look at “automationstore.tfsazure.com” that would provide a vetted list of add-ons. I do want to look at the possibility of having a kind of “validated proxy” as part of the store so a “Super Admin” can log into the proxy and approve updates and new Automations from the central store.\n\nIn saying that, although I have thought about it, that by no means guarantees that this feature will be above the cut line for Release 1.\n\n<em>Boy, I am sounding more Microsoft by the year!</em>\n\nI would be very interested in what you think of the option to have a client only install.\n\nWhat functionality would we loose if we settled for client ony:\n<ul>\n\t<li><strong>No additional client installs (apart from framework updates)\n</strong>If components are\_ not loading from a server then there would need to be frequent updated to the client tool. This would not be so bad with a small user base (&lt;5) but once you get more (&gt;5) then it becomes unworkable and no longer a viable solution.</li>\n\t<li><strong>Resilience from communication or infrastructure problems\n</strong>What happens when the server is rebooted, or a user looses VPN?</li>\n\t<li><strong>Multi-User support</strong>\nWhat if two users perform the same task at the same time. We have customers who have 500+ users, the chances of a conflict are high.\nHow does one user change the configuration setup by another user?</li>\n\t<li><strong>more…</strong></li>\n</ul>\nWhat do you think, are the features above important?"
+  - ''
+  post_id: '3365'
+  post_date: '2011-05-31 20:57:52'
+  post_date_gmt: '2011-05-31 20:57:52'
+  post_modified: '2011-05-31 20:57:52'
+  post_modified_gmt: '2011-05-31 20:57:52'
+  comment_status: open
+  ping_status: open
+  post_name: what-about-hosting-the-tfs-automation-platform-2
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: dsq_thread_id
+    meta_value: '319184146'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19AjqAQ
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1472001630;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9229;}i:1;a:1:{s:2:"id";i:3373;}i:2;a:1:{s:2:"id";i:3361;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2011-05-31-what-about-hosting-the-tfs-automation-platform-2.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '524'
+  comment:
+    comment_id: '999'
+    comment_author: >-
+      TOC: TFS Iteration Automation Blog Posts and Reference Sites -
+      Willy&#039;s Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/07/toc-tfs-iteration-automation-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.55.57.17
+    comment_date: '2011-06-07 12:11:21'
+    comment_date_gmt: '2011-06-07 19:11:21'
+    comment_content: '[...] Part 2: What about hosting the TFS Automation Platform [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1307483231.9126";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

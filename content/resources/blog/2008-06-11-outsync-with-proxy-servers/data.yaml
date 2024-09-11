@@ -1,0 +1,84 @@
+post:
+  title: OutSync with proxy servers
+  link: https://nkdagility.com/blog/outsync-with-proxy-servers/
+  pubDate: Wed, 11 Jun 2008 13:01:00 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/06/11/outsync-with-proxy-servers.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-OutSyncwithproxyservers_B70A-image_2.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" border=\"0\" alt=\"image\" align=\"right\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-OutSyncwithproxyservers_B70A-image_thumb.png\" width=\"244\" height=\"73\" /></a>If like me you want to try the rather <a href=\"http://blogs.msdn.com/lokeuei/archive/2007/09/12/outsync-outlook-facebook-sync-released.aspx\" target=\"_blank\">groovy sync tool for Outlook</a> that syncs your contacts (and pictures ) with your outlook contacts, which will then be displayed on your mobile phone, and you are behind a proxy server, then this info is for you…</p>  <p><strong><font color=\"#ff0000\" size=\"1\"> NOTE: This will work for any .NET application where the developer has not already set it…</font></strong></p>  <p>Open the [applicationname].config file in the install location and add:</p>  <blockquote>   <p>&lt;system.net&gt;     <br />\_ &lt;defaultProxy useDefaultCredentials=\"true\"&gt;      <br />\_\_\_ &lt;proxy usesystemdefault=\"True\" /&gt;      <br />\_ &lt;/defaultProxy&gt;      <br />&lt;/system.net&gt;</p> </blockquote>  <p>Just above the closing &lt;/configuration&gt; tags. This will allow your application to authenticate with a proxy server…</p>  <p>\_</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/Personal\" rel=\"tag\">Personal</a>\_</div>"
+  - ''
+  post_id: '220'
+  post_date: '2008-06-11 13:01:00'
+  post_date_gmt: '2008-06-11 13:01:00'
+  post_modified: '2008-06-11 13:01:00'
+  post_modified_gmt: '2008-06-11 13:01:00'
+  comment_status: open
+  ping_status: open
+  post_name: outsync-with-proxy-servers
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311603094'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/HKAzht
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-06-11-outsync-with-proxy-servers.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '398'
+  comment:
+    comment_id: '392'
+    comment_author: Perros
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-07-28 21:47:26'
+    comment_date_gmt: '2008-07-28 21:47:26'
+    comment_content: >-
+      Hi there,<br /><br />Thanks for the advice.<br /><br />When I try this,
+      instead of the 407, I get:<br /><br />---------------------------<br
+      />Error<br />---------------------------<br />The underlying connection
+      was closed: The connection was closed unexpectedly.<br
+      />---------------------------<br />OK   <br
+      />---------------------------<br /><br /><br />Followed by Outsync
+      closing.<br /><br />Is it because the proxy I'm behind requires
+      username/password?<br /><br />-Perros-
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970926'

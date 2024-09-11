@@ -1,0 +1,296 @@
+post:
+  title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
+  link: >-
+    https://nkdagility.com/blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs/
+  pubDate: Thu, 11 Jul 2013 17:02:46 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9749
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">If you follow the documentation for the new InRelease 3 for Team Foundation Server 2013 “TF400324: Team Foundation Services are not available from server” with a remote server error of 404.</p>\n<ul>\n<li><span class=\"label label-info\">Update</span> 2013-07-12 Removed Solution #1 as it causes more problems down the line</li>\n<li><span class=\"label label-info\">Update</span> 2013-07-12 Added Solution #2 from InCycle but DO NOT do what their documentation suggests or you might end up with an unstable TFS Server.</li>\n<li><span class=\"label label-info\">Update</span> 2013-07-12 Added Solution #3 which solves the problem in a supported manor with the TFS API.</li>\n</ul>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/files/2013/07/image12.png\" width=\"800\" height=\"500\" border=\"0\" /><br /><small>Figure: TF400324: Team Foundation Services are not available from server</small></p>\n<h2>Applies to</h2>\n<ul>\n<li>InRelease 3</li>\n<li>Team Foundation Server 2013</li>\n</ul>\n<h2>Findings</h2>\n<p>This looks\_ to be a mistake in the documentation for the product. When they say “Enter the URL for the TFS Server” you think that you should enter <a href=\"http://caprica:8080/tfs\">http://caprica:8080/tfs</a> when in fact you should be entering the full path to the collection that you want to connect to.</p>\n<h2><del>Solution #1</del></h2>\n<p><del>You need to enter <a href=\"http://caprica:8080/tfs/[collection\">http://caprica:8080/tfs/[collection</a>] which you can get by copying it from the web access.</del></p>\n<p><del><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/files/2013/07/image13.png\" width=\"800\" height=\"500\" border=\"0\" /></del><br /><del><small>Figure: Use the full collection URL instead of the server</small></del></p>\n<p><del>Now when you connect with <a href=\"http://caprica:8080/tfs/tfs01-scrum/\">http://caprica:8080/tfs/tfs01-scrum/</a> you should not get a 404 any more…</del></p>\n<h2>Solution #2 - Call Support</h2>\n<p><em><span class=\"label label-error\">Warning</span>\_Never update the database without explicit instructions from a member of\_the product team. You will likely end up with an unsupported instance if you much with the database.</em></p>\n<p>At this time there is no solution for this. The solution provided on the InCycle page listed below will work but it will leave your TFS server in an unsupported state and may result in instabilities in your TFS instance down the road.</p>\n<ul>\n<li><span style=\"line-height: 13px;\"><a href=\"http://support.inreleasesoftware.com/entries/24792942\" target=\"_blank\">Connection to TFS does not work with the error message: The request failed with HTTP status 404: Not Found</a></span></li>\n</ul>\n<p>Raise a ticket with MSFT customer services and get your server into a supported state…</p>\n<h2>Solution #3 - Use PowerShell to update the TFS registery</h2>\n<p>I knew that if I worked at this long enough that I would find a solution that does not require that you edit the database. Here is a handy dandy PowerShell script that you can save as Set-DefaultCollection.ps1, double click to copy, and then execute.</p>\n<pre class=\"lang:ps range:33-35 decode:true\" title=\"Powershell to set Default Collection on a Team Foundation Server\"> Param(\n       [string] $tfscollection\n       )\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nAdd-Type -AssemblyName \"Microsoft.TeamFoundation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\"\nif ($tfscollection)\n{\n    #if collection is passed then use it and select all projects\n    $tfs = [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrlParam)\n    $project = $(Read-Host -prompt \"Project\")\n}\nelse\n{\n    #if no collection specified, open project picker to select it via gui\n    $picker = New-Object Microsoft.TeamFoundation.Client.TeamProjectPicker([Microsoft.TeamFoundation.Client.TeamProjectPickerMode]::NoProject, $false)\n    $dialogResult = $picker.ShowDialog()\n    if ($dialogResult -ne \"OK\")\n    {\n        exit\n    }\n    $tfs = $picker.SelectedTeamProjectCollection\n}\ntry\n{\n    $tfs.EnsureAuthenticated()\n}\ncatch\n{\n    Write-Error \"Error occurred trying to connect to project collection: $_ \"\n    exit 1\n}\n$regsvc = $tfs.ConfigurationServer.GetService(\"Microsoft.TeamFoundation.Framework.Client.ITeamFoundationRegistry\");\nWrite-Host \"Setting DefaultCollection to $($tfs.InstanceId)($($tfs.Name)) on $($tfs.ConfigurationServer.Uri)\" -ForegroundColor Yellow\n$regsvc.SetValue(\"/Configuration/DefaultCollection\", $tfs.InstanceId)</pre>\n<p>\_This PowerShell will first ask you to select the collection that you would like to be the default and then apply that to TFS. You should then be able to connect InRelease correctly to TFS.</p>\n<p>I still think that this is a silly requirement of the product and at the very least it should ask which collection that you want to be the default and set it for you...</p>\n<p>&nbsp;</p>"
+  - >-
+    <p class="lead">If you follow the documentation for the new InRelease 3 for
+    Team Foundation Server 2013 “TF400324: Team Foundation Services are not
+    available from server” with a remote server error of 404.</p>
+  post_id: '9749'
+  post_date: '2013-07-11 18:02:46'
+  post_date_gmt: '2013-07-11 17:02:46'
+  post_modified: '2013-07-11 18:02:46'
+  post_modified_gmt: '2013-07-11 17:02:46'
+  comment_status: open
+  ping_status: open
+  post_name: issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '74'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF400324
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      TFS 2013 InRelease Issue - You get TF400324 when connecting InRelease to
+      TFS
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      If you follow the documentation for the new InRelease 3 for Team
+      Foundation Server 2013 “TF400324: Team Foundation Services are not
+      available from server”
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: dsq_thread_id
+    meta_value: '1489374190'
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.net/1b3iio6
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3iio6
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474654984;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9759;}i:1;a:1:{s:2:"id";i:9907;}i:2;a:1:{s:2:"id";i:44;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-07-11-issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '937'
+  comment:
+  - comment_id: '1744'
+    comment_author: Jonathan Rajotte
+    comment_author_email: jonathan_rajotte@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 24.37.13.166
+    comment_date: '2013-07-12 19:22:00'
+    comment_date_gmt: '2013-07-12 18:22:00'
+    comment_content: >-
+      Hi Martin, 
+
+
+      the solution you found will cause you problems later on. The initial 404
+      you received is due to the fact there is no default collection set up for
+      your TFS. Here is an article that describes how to fix it:
+
+
+      http://support.inreleasesoftware.com/entries/24792942
+
+
+      Jonathan Rajotte
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '960142599'
+  - comment_id: '1745'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-12 19:53:00'
+    comment_date_gmt: '2013-07-12 18:53:00'
+    comment_content: >-
+      Requiring me to setup a DefaultCollection is not a good solution. Why
+      would I want a collection that I don't use floating around. I have only a
+      few customers that have a collection called "DefaultCollection" and you
+      should not force them into having one.
+
+
+      The statement "The reason a 404 error is returned is because there is no
+      default collection set up in the TFS installation. InRelease used the TFS
+      API, but they won't work properly in that case." on your KB is incorrect
+      as this is not an issue with the TFS API but in how you are using it... I
+      would recommend that you correct your code to not require a
+      DefaultCollection so that this works for all customers and not just the
+      happy path out of the box...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1744'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960142599'
+    - meta_key: dsq_post_id
+      meta_value: '960174796'
+  - comment_id: '1746'
+    comment_author: Jonathan Rajotte
+    comment_author_email: jonathan_rajotte@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 24.37.13.166
+    comment_date: '2013-07-12 20:07:00'
+    comment_date_gmt: '2013-07-12 19:07:00'
+    comment_content: >-
+      Hey Martin,
+
+
+      We are not suggesting to have a collection named "DefaultCollection". But
+      instead, your TFS installation should have one of your collection that is
+      set as your default.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1745'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960174796'
+    - meta_key: dsq_post_id
+      meta_value: '960189154'
+  - comment_id: '1747'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-12 21:37:00'
+    comment_date_gmt: '2013-07-12 20:37:00'
+    comment_content: >-
+      @jonathanrajotte:disqus you should NEVER suggest that a customer edit the
+      TFS Databases directly. Doing so will negate any support that is provided
+      by MSFT for the product. If a customer needs to edit the database they
+      should raise a support call with MSFT to do so...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1746'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960189154'
+    - meta_key: dsq_post_id
+      meta_value: '960277644'
+  - comment_id: '1748'
+    comment_author: Leo Vildosola
+    comment_author_email: leo.vildosola@incyclesoftware.com
+    comment_author_url: http://www.incyclesoftware.com/
+    comment_author_IP: 24.37.13.166
+    comment_date: '2013-07-12 21:56:00'
+    comment_date_gmt: '2013-07-12 20:56:00'
+    comment_content: >-
+      @MrHinsh, good point. We have the same view on this. However, we have an
+      API limitation that we'll now be in a position to influence its correction
+      that unfortunately forces us to ensure a "default collection" is
+      specified. If you know of a less intrusive way to set the default
+      collection we would appreciate you sharing it with us. In the meantime, we
+      will ensure a warning is added to the documentation.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1747'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960277644'
+    - meta_key: dsq_post_id
+      meta_value: '960297021'
+  - comment_id: '1749'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-13 01:19:00'
+    comment_date_gmt: '2013-07-13 00:19:00'
+    comment_content: >-
+      DONE - See PowerShell above for a fully supported way to set the default
+      collection using the API.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1748'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960297021'
+    - meta_key: dsq_post_id
+      meta_value: '960461005'
+  - comment_id: '1750'
+    comment_author: Leo Vildosola
+    comment_author_email: leov@microsoft.com
+    comment_author_url: http://www.microsoft.com/
+    comment_author_IP: 173.178.146.53
+    comment_date: '2013-07-13 03:07:00'
+    comment_date_gmt: '2013-07-13 02:07:00'
+    comment_content: Excellent! Thanks for the solution.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1749'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '960461005'
+    - meta_key: dsq_post_id
+      meta_value: '960530111'
+  - comment_id: '1751'
+    comment_author: Kevin Price
+    comment_author_email: kevinrprice@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 12.165.188.130
+    comment_date: '2013-07-30 01:31:00'
+    comment_date_gmt: '2013-07-30 00:31:00'
+    comment_content: >-
+      thanks Martin.  that worked using your powershell script.  Look forward to
+      a better installation process across the board as this is updated and
+      streamlined.  many hoops that have to go through in order to make this
+      work.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '980896206'
+  - comment_id: '1752'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-30 16:23:00'
+    comment_date_gmt: '2013-07-30 15:23:00'
+    comment_content: Many many hoops :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1751'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '980896206'
+    - meta_key: dsq_post_id
+      meta_value: '981446715'

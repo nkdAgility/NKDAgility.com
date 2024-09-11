@@ -1,0 +1,50 @@
+post:
+  title: 'TFS Event Handler: Coverage & Comments'
+  link: https://nkdagility.com/blog/tfs-event-handler-coverage-comments/
+  pubDate: Wed, 02 May 2007 10:19:00 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/05/02/tfs-event-handler-coverage-amp-comments.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I am getting some positive feedback on the project from <a target=\"_blank\" href=\"http://blogs.msdn.com/richardb\">Richard Berg</a>, and he had blogged about it\_under the title of\_<a title=\"BUGBUG: poor title\" target=\"_blank\" href=\"http://blogs.msdn.com/richardb/archive/2007/05/01/new-codeplex-project-tfs-event-handler.aspx\">New CodePlex project: TFS Event Handler</a>.\_And <a title=\"Pass a assembly over a web service!\" target=\"_blank\" href=\"http://forums.microsoft.com/MSDN/showpost.aspx?postid=1542164&amp;siteid=1\">John Lambert</a> has commented on some issues that he has envisioned with referenced assemblies and security of allowing people to upload Assemblies.</p>\n<p>I would like to address both of these issues:</p>\n<p><a title=\"WorkItem: Issue: Security issues on uploaded assemblies\" target=\"_blank\" href=\"http://www.codeplex.com/TFSEventHandler/WorkItem/View.aspx?WorkItemId=138\">Security issues on uploaded assemblies</a></p>\n<p>I do not ever envision that this would be uses when facing the public. It is designed for large internal teams where you want to give them the capability to setup their own Handlers. It may be that all assemblies uploaded must be secured using a key that only I provide to the developers!</p>\n<p><a title=\"WorkItem: Issue: Referenced assemblies issues\" target=\"_blank\" href=\"http://www.codeplex.com/TFSEventHandler/WorkItem/View.aspx?WorkItemId=139\">Referenced assemblies issues</a></p>\n<p>Although not for this version of the application, I would like to use a zip format file to allow the addition of extra files, like .htm templates for emails, or an additional referenced assemblies.</p>\n<p>\_</p>\n<p>I have raised both of\_these issues on CodePlex and you can vote for them there. If anyone has any other issues that they would like to point out, please don't hesitate to let me know...</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_<a href=\"http://technorati.com/tags/Personal\" rel=\"tag\">Personal</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '406'
+  post_date: '2007-05-02 10:19:00'
+  post_date_gmt: '2007-05-02 10:19:00'
+  post_modified: '2007-05-02 10:19:00'
+  post_modified_gmt: '2007-05-02 10:19:00'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-event-handler-coverage-comments
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '375509366'
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1atMWob
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-05-02-tfs-event-handler-coverage-comments.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '386'

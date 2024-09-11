@@ -1,0 +1,260 @@
+post:
+  title: >-
+    Lab Management Issue: Enable File and Printer Sharing for Lab Management
+    Standard Environments
+  link: >-
+    https://nkdagility.com/blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments/
+  pubDate: Sun, 17 Mar 2013 01:13:58 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9288
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">If you try to add any servers to Standard Environments in
+    Visual Studio 2012 Lab Management you get a message that you need to enable
+    file and printer sharing and you are unable to configure or communicate with
+    those machines.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image11.png" width="800"
+    height="480"/><br /><strong>Figure: Unable to verify that machines are
+    accessible</strong></p>
+
+    <p>There are three main causes:</p>
+
+    <ul>
+
+    <li>The File and Printer Sharing exception is not enabled on these machines 
+    </li>
+
+    <li>The username or password is not valid  </li>
+
+    <li>The machines have Windows XP</li>
+
+    </ul>
+
+    <p>I know that the second two are not true so what to do now?</p>
+
+    <h2 class="applies-to">Applies To</h2>
+
+    <ul>
+
+    <li>Standard Environments (Visual Studio 2012 Lab Management*)  </li>
+
+    <li>SCVMM Environments (Visual Studio 2012 Lab Management*)  </li>
+
+    <li>Physical Environments (Visual Studio 2010 Lab Management*)  </li>
+
+    <li>Windows Server 2012*  </li>
+
+    <li>Windows 8*</li>
+
+    </ul>
+
+    <p>* this applies to all versions of Windows that you want to use with both
+    Visual Studio 2012 and Visual Studio 2010 Lab Management features.</p>
+
+    <h2 class="findings">Findings</h2>
+
+    <p>In order for Lab Management to successfully integrate with guest servers
+    is used the file and print sharing ports of that machine. If they are not
+    enabled or the ports are otherwise blocked then you will not otherwise be
+    able to use those servers in environments. This </p>
+
+    <p>In both Windows 8 and Windows Server 2012 the File and Printer Sharing
+    ports are blocked by default and you will need to open them up for this to
+    work.</p>
+
+    <h2 class="solution">Solution for Windows 8</h2>
+
+    <p>You need to open the ports required for File &amp; Print Sharing. This is
+    roughly the same for doing the same on Windows Server 2012 through the
+    UI.</p>
+
+    <ol>
+
+    <li><strong>Start | type “Fire” | click “Settings” | press “Enter”
+    key</strong>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image12.png" width="800"
+    height="480"/><br /><strong>Figure: Open the Windows Firewall
+    Settings</strong></p>
+
+    </li>
+
+    <li><strong>Change Settings | check “File and Printer Sharing” | OK</strong>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image13.png" width="800"
+    height="480"/><br /><strong>Figure: Enable File and Printer Sharing on your
+    Windows 8 firewall</strong></p>
+
+    </li>
+
+    </ol>
+
+    <p>&nbsp;</p>
+
+    <h2 class="solution">Solution for Windows Server 2012 Core</h2>
+
+    <p>You need to open the ports required for File &amp; Print Sharing.</p>
+
+    <pre class="brush: ps; ruler: true;">powershell
+
+    netsh advfirewall firewall set rule group=”File and Printer Sharing” new
+    enable=Yes
+
+    </pre>
+
+    <p><strong>Figure: Enable File and Printer Sharing via the command
+    line</strong> </p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image14.png" width="800"
+    height="450"/><br /><strong>Figure: Make sure that you run this in
+    PowerShell</strong></p>
+
+    <h2 class="conclusion">Conclusion</h2>
+
+    <p>After enabling the File and Printer Sharing firewall rules everything is
+    now green.</p>
+
+    <p><img title="image" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; margin: 0px; border-left: 0px; display: inline; padding-right: 0px"
+    border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image15.png" width="800"
+    height="480"/><br /><strong>Figure: We can now verify the Standard
+    Environment</strong></p>
+  - >-
+    <p class="lead">If you try to add any servers to Standard Environments in
+    Visual Studio 2012 Lab Management you get a message that you need to enable
+    file and printer sharing and you are unable to configure or communicate with
+    those machines.</p>
+  post_id: '9288'
+  post_date: '2013-03-16 18:13:58'
+  post_date_gmt: '2013-03-17 01:13:58'
+  post_modified: '2013-03-16 18:13:58'
+  post_modified_gmt: '2013-03-17 01:13:58'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '76'
+  - meta_key: dsq_thread_id
+    meta_value: '1143220802'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":16:{s:3:"_id";s:24:"51451a8a5eca2f1037000007";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1363483274;s:3:"day";s:5:"Today";s:6:"due_at";i:1363549620;s:8:"due_time";s:7:"7:47
+      pm";s:2:"id";s:24:"51451a8a5eca2f1037000007";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:6:"status";s:6:"buffer";s:4:"text";s:137:"Updated
+      Post: Lab Management Issue: Enable File and Printer Sharing for Lab
+      Management Standard Environments http://buff.ly/Yzltvx
+      #vsalm";s:14:"text_formatted";s:351:"Updated Post: Lab Management Issue:
+      Enable File and Printer Sharing for Lab Management Standard Environments
+      <a class="url" href="http://buff.ly/Yzltvx" rel="external nofollow"
+      target="_blank">http://buff.ly/Yzltvx</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1363483274;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":17:{s:3:"_id";s:24:"51451a8a5eca2f1037000008";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1363483274;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1363539660;s:8:"due_time";s:8:"11:01
+      am";s:2:"id";s:24:"51451a8a5eca2f1037000008";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:132:"http://blog.hinshelwood.com/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments/";s:11:"description";s:208:"If
+      you try to add any servers to Standard Environments in Visual Studio 2012
+      Lab Management you get a message that you need to enable file and printer
+      sharing and you are unable to configure or
+      communicate...";s:5:"title";s:114:"Lab Management Issue: Enable File and
+      Printer Sharing for Lab Management Standard Environments - Visual Studio
+      ALM";s:4:"link";s:132:"http://blog.hinshelwood.com/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments/";s:7:"preview";s:53:"http://blog.hinshelwood.com/files/2013/03/image11.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:6:"status";s:6:"buffer";s:4:"text";s:137:"Updated
+      Post: Lab Management Issue: Enable File and Printer Sharing for Lab
+      Management Standard Environments http://buff.ly/Yzltvx
+      #vsalm";s:14:"text_formatted";s:351:"Updated Post: Lab Management Issue:
+      Enable File and Printer Sharing for Lab Management Standard Environments
+      <a class="url" href="http://buff.ly/Yzltvx" rel="external nofollow"
+      target="_blank">http://buff.ly/Yzltvx</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1363483274;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":17:{s:3:"_id";s:24:"51451a8a5eca2f1037000009";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1363483274;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1363603740;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51451a8a5eca2f1037000009";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:132:"http://blog.hinshelwood.com/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments/";s:11:"description";s:208:"If
+      you try to add any servers to Standard Environments in Visual Studio 2012
+      Lab Management you get a message that you need to enable file and printer
+      sharing and you are unable to configure or
+      communicate...";s:5:"title";s:114:"Lab Management Issue: Enable File and
+      Printer Sharing for Lab Management Standard Environments - Visual Studio
+      ALM";s:4:"link";s:132:"http://blog.hinshelwood.com/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments/";s:7:"preview";s:53:"http://blog.hinshelwood.com/files/2013/03/image11.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:6:"status";s:6:"buffer";s:4:"text";s:137:"Updated
+      Post: Lab Management Issue: Enable File and Printer Sharing for Lab
+      Management Standard Environments http://buff.ly/Yzltvx
+      #vsalm";s:14:"text_formatted";s:351:"Updated Post: Lab Management Issue:
+      Enable File and Printer Sharing for Lab Management Standard Environments
+      <a class="url" href="http://buff.ly/Yzltvx" rel="external nofollow"
+      target="_blank">http://buff.ly/Yzltvx</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1363483274;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:40;s:12:"buffer_count";i:4;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: enable file and printer sharing
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      Lab Management Issue: Enable File and Printer Sharing for Lab Management
+      Standard Environments
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      When configuring Standard Environments in Visual Studio 2012 Lab
+      Management you get a message that you need to enable file and printer
+      sharing. You will be unable to configure those machines until this is
+      fixed.
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3GDtK
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474876788;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9308;}i:1;a:1:{s:2:"id";i:10342;}i:2;a:1:{s:2:"id";i:5496;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-03-16-windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1553'

@@ -1,0 +1,539 @@
+post:
+  title: Team Foundation Server 2010 Event Handling with Subscribers
+  link: >-
+    https://nkdagility.com/blog/team-foundation-server-2010-event-handling-with-subscribers/
+  pubDate: Thu, 16 Sep 2010 14:28:20 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/09/16/team-foundation-server-2010-event-handling-with-subscribers.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><img style=\"margin: 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-d85ca9bb3b8b_B971-ConfigurationRequired_63d21af8-1b06-49fe-9f4f-789af4b3bc03.jpg\" alt=\"ConfigurationRequired\" width=\"100\" height=\"66\" align=\"left\" border=\"0\" />There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.</p>\n<p>&nbsp;</p>\n<hr />\n<p>In Team Foundation Server (TFS) 2010 you can write event subscribers that are called and run within the context of the TFS server itself. This means that you have access to all the goodies within TFS directly without having to call back to the TFS server.</p>\n<p>This is the first proof-of-concept handler I have written in a process leading to rewriting the TFS Event Handler to use this method of handling events as it will be much slicker with the ability to write much more complex handlers.</p>\n<p>In order for your new Event Handler to be loaded and run you need to put it somewhere that TFS knows to look. As TFS is primarily made up of a bunch of web services you would be putting any output assemblies into the “<strong>%Program Files%Microsoft Team Foundation Server 2010Application TierWeb ServicesbinPlugins</strong>” directory. TFS will look through any assemblies in this folder and load any classes that implement any of the extension interfaces.</p>\n<p>In this case we are extending TFS using the <strong>ISubscriber</strong> interface.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Interface ISubscriber\n    ' Methods\n    Function ProcessEvent(ByVal requestContext As TeamFoundationRequestContext, _\n\t\t\t  ByVal notificationType As NotificationType, _\n\t\t\t  ByVal notificationEventArgs As Object, _\n\t\t\t  &lt;Out&gt; ByRef statusCode As Integer, _\n\t\t\t  &lt;Out&gt; ByRef statusMessage As String, _\n\t\t\t  &lt;Out&gt; ByRef properties As ExceptionPropertyCollection) As EventNotificationStatus\n    Function SubscribedTypes() As Type()\n\n    ' Properties\n    ReadOnly Property Name As String\n    ReadOnly Property Priority As SubscriberPriority\nEnd Interface</pre>\n<p>The <strong>ISubscriber</strong> interface can be found in the “<strong>Microsoft.TeamFoundation.Framework.Server</strong>” assembly and gives you the basics for wiring up to a particular Event.</p>\n<pre class=\"brush: vb; ruler: true;\">Imports Microsoft.TeamFoundation.Framework.Server\nImports Microsoft.TeamFoundation.WorkItemTracking.Server\n\nPublic Class AssignedToHandler\n    Implements ISubscriber\n\n    Public ReadOnly Property Name As String Implements ISubscriber.Name\n        Get\n\n        End Get\n    End Property\n\n    Public ReadOnly Property Priority As SubscriberPriority Implements ISubscriber.Priority\n        Get\n\n        End Get\n    End Property\n\n    Public Function ProcessEvent(ByVal requestContext As TeamFoundationRequestContext, _\n\t\t\t      ByVal notificationType As NotificationType, _\n\t\t\t      ByVal notificationEventArgs As Object, _\n\t\t\t      ByRef statusCode As Integer, _\n\t\t\t      ByRef statusMessage As String, _\n\t\t\t      ByRef properties As ExceptionPropertyCollection) As EventNotificationStatus Implements ]ISubscriber.ProcessEvent\n\n    End Function\n\n    Public Function SubscribedTypes() As System.Type() Implements ISubscriber.SubscribedTypes\n\n    End Function\n\nEnd Class</pre>\n<p>Once you have implemented the interface your method stubs will be created for you.</p>\n<pre class=\"brush: vb; ruler: true;\">Public ReadOnly Property Name As String Implements Microsoft.TeamFoundation.Framework.Server.ISubscriber.Name\n    Get\n        Return \"Hinshlabs test handler 1\"\n    End Get\nEnd Property</pre>\n<p>Although the name does not immediately look like it is useful I would assume that any error output would include the name as a reference so it would probably be best to pick something that is easily recognisable.</p>\n<pre class=\"brush: vb; ruler: true;\">Public ReadOnly Property Priority As SubscriberPriority Implements ISubscriber.Priority\n    Get\n        Return SubscriberPriority.Normal\n    End Get\nEnd Property</pre>\n<p>I am really not sure of the impact of changing the Priority, but I think it would influence the order in which any Subscribers are executed, with the higher priority subscribers getting first dibs. This would be important if we were implementing the Decision points ability that has been built into events.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Enum SubscriberPriority\n    ' Fields\n    AboveNormal = 3\n    BelowNormal = 1\n    High = 4\n    Low = 0\n    Normal = 2\nEnd Enum</pre>\n<p>Some of the events allow you to cancel or change the action mid stride. Think of cancelling a Check-in if your company policy is not met.</p>\n<p>You can find a full list of events and which ones support Decision points on my previous <a href=\"http://blog.hinshelwood.com/archive/2010/07/07/tfs-event-handler-for-team-foundation-server-2010.aspx\">post</a>.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Function SubscribedTypes() As System.Type() Implements ISubscriber.SubscribedTypes\n    Return New Type() {GetType(WorkItemChangedEvent)}\nEnd Function</pre>\n<p>As the Subscribers can handle any type of event this is were you can start the filtering process and only have events you are interested in passed your way. This is also where you have to pull in other assemblies to reference the specific events as they are peppered all over the assemblies for TFS.</p>\n<p>In this case we need to reference the “<strong>Microsoft.TeamFoundation.WorkItemTracking.Server.DataAccessLayer.dll</strong>” assembly as it contains the <strong>WorkItemChangedEvent</strong> under the “<strong>Microsoft.TeamFoundation.WorkItemTracking.Server</strong>” namespace. I am not really sure why it is hidden away in this assembly, but I think there were many things that were not finished before RTM and probably moving these classes did not make the cut.</p>\n<p>All you need to do is pass back an array of the types of events you want to handle.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Function ProcessEvent(ByVal requestContext As TeamFoundationRequestContext, _\n\t\t\t  ByVal notificationType As NotificationType, _\n\t\t\t  ByVal notificationEventArgs As Object, _\n\t\t\t  ByRef statusCode As Integer, _\n\t\t\t  ByRef statusMessage As String, _\n\t\t\t  ByRef properties As ExceptionPropertyCollection) As EventNotificationStatus Implements ISubscriber.ProcessEvent\n    statusCode = 0\n    properties = Nothing\n    statusMessage = String.Empty\n    If (notificationType = notificationType.Notification) AndAlso (TypeOf notificationEventArgs Is WorkItemChangedEvent) Then\n       'TODO: Do something with the recieved event\n    End If\n    Return EventNotificationStatus.ActionPermitted\nEnd Function</pre>\n<p>Now that we have told TFS what events we want to process when we implement the <strong>ProcessEvent</strong> method we can be reasonably certain that it is the right one, but it is always prudent to do an additional test so you don’t process any non event specific code by accident.</p>\n<p>The <strong>requestContext</strong> has many of the options and information you will be familiar with on a <strong>TeamFoundationServer</strong> or <strong>TeamProjectCollection</strong> object, but without the thing that are really only relevant when you are accessing a remote server. This is an object with many properties and functions that will let you access almost any facet of your TFS server from security to version control.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Enum NotificationType\n    ' Fields\n    DecisionPoint = 0\n    Notification = 1\nEnd Enum</pre>\n<p>The notification Type can be used to identify which call you want to handle. For those events that have a decision point as well ProcessEvent would likely be called twice, once for the decision and if the process is permitted to complete once for the notification.</p>\n<pre class=\"brush: vb; ruler: true;\">Public Enum EventNotificationStatus\n    ' Fields\n    ActionApproved = 2\n    ActionDenied = 0\n    ActionPermitted = 1\nEnd Enum</pre>\n<p>Once you have completed any tasks that you want to action you would then pass back the ActionPermited by default. I am not sure yet of the implications of the other options, but all of the built in subscribers pass that back as the default so I will as well.</p>\n<pre class=\"brush: vb; ruler: true;\">Imports Microsoft.TeamFoundation.Framework.Server\nImports Microsoft.TeamFoundation.WorkItemTracking.Server\n\nPublic Class AssignedToHandler\n    Implements ISubscriber\n\n    Public ReadOnly Property Name As String Implements ISubscriber.Name\n        Get\n            Return \"test handler\"\n        End Get\n    End Property\n\n    Public ReadOnly Property Priority As SubscriberPriority Implements ISubscriber.Priority\n        Get\n            Return SubscriberPriority.Normal\n        End Get\n    End Property\n\n    Public Function ProcessEvent(ByVal requestContext As TeamFoundationRequestContext, _\n\t\t\t\t ByVal notificationType As NotificationType, _\n\t\t\t\t ByVal notificationEventArgs As Object, _\n\t\t\t\t ByRef statusCode As Integer, _\n\t\t\t\t ByRef statusMessage As String, _\n\t\t\t\t ByRef properties As ExceptionPropertyCollection) As EventNotificationStatus Implements ISubscriber.ProcessEvent\n        Try\n            statusCode = 0\n            properties = Nothing\n            statusMessage = String.Empty\n            If (notificationType = notificationType.Notification) AndAlso (TypeOf notificationEventArgs Is WorkItemChangedEvent) Then\n                Dim objWriter As New System.IO.StreamWriter(\"c:tempAssignedToHandler.txt\")\n                objWriter.WriteLine(\"Recieved WorkItemChangedEvent \")\n\n                objWriter.Close()\n            End If\n        Catch ex As Exception\n            My.Application.Log.WriteException(ex)\n        End Try\n        Return EventNotificationStatus.ActionPermitted\n    End Function\n\n    Public Function SubscribedTypes() As System.Type() Implements ISubscriber.SubscribedTypes\n        Return New Type() {GetType(WorkItemChangedEvent)}\n    End Function\n\n\nEnd Class</pre>\n<p>All I am doing here is writing an event received acknowledgements to a text file, but it is enough for me to prove that the event is captured. All I have to do is copy the assembly output to the right place and make a change to a work item.</p>\n<p><img style=\"margin: 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-d85ca9bb3b8b_B971-SNAGHTMLf0653c.png\" alt=\"SNAGHTMLf0653c\" width=\"600\" height=\"351\" border=\"0\" /></p>\n<p><strong>Figure: Putting the assembly in the right place is very strait forward</strong></p>\n<p><img style=\"margin: 0px 20px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-d85ca9bb3b8b_B971-SNAGHTMLf22466.png\" alt=\"SNAGHTMLf22466\" width=\"600\" height=\"420\" border=\"0\" /></p>\n<p><strong>Figure: Make any sort of change to a work item and save it</strong></p>\n<p>Now lets look into the output file:</p>\n<pre class=\"brush: vb; ruler: true;\">Recieved WorkItemChangedEvent </pre>\n<p>As you can see we received the event with our event receiver, handled it successfully and wrote some useless text to a file.</p>\n<h2>Conclusion</h2>\n<p>This is a heck of a lot easier than subscribing to events through web services, but you need access to the TFS server locally to be able to add the DLL’s. If you are looking for a zero touch approach you can achieve this through WCF web service soap calls from TFS, but if you want a little more intimacy and structure then you should be using server side events.</p>\n<p><strong>Which method will you be using?</strong></p>\n<p>&nbsp;</p>\n<div class=\"wlWriterEditableSmartContent\" style=\"margin: 0px; float: none; padding: 0px;\">Technorati Tags: <a href=\"http://technorati.com/tags/TFS+Customisation\" rel=\"tag\">TFS Customisation</a>,<a href=\"http://technorati.com/tags/TFS+2010\" rel=\"tag\">TFS 2010</a>,<a href=\"http://technorati.com/tags/CodeProject\" rel=\"tag\">CodeProject</a></div>"
+  - ''
+  post_id: '25'
+  post_date: '2010-09-16 14:28:20'
+  post_date_gmt: '2010-09-16 14:28:20'
+  post_modified: '2010-09-16 14:28:20'
+  post_modified_gmt: '2010-09-16 14:28:20'
+  comment_status: open
+  ping_status: open
+  post_name: team-foundation-server-2010-event-handling-with-subscribers
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311601066'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.com/1aBObYf
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBObYf
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474920019;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:33;}i:1;a:1:{s:2:"id";i:389;}i:2;a:1:{s:2:"id";i:3469;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2010-09-16-team-foundation-server-2010-event-handling-with-subscribers.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1068'
+  comment:
+  - comment_id: '821'
+    comment_author: 1015PED
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-09-28 07:29:43'
+    comment_date_gmt: '2010-09-28 07:29:43'
+    comment_content: Thank for good tips
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969346'
+  - comment_id: '822'
+    comment_author: mirdin
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-10-08 16:16:04'
+    comment_date_gmt: '2010-10-08 16:16:04'
+    comment_content: >-
+      I tried to catch CheckinEvent and BuildcomplitionEvent using code like
+      your but that events wasn't catched. There was not any error but function
+      ProcessEvent was not executed. Could you help me with this problem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969351'
+  - comment_id: '823'
+    comment_author: Nick Tulett
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-10-22 20:16:57'
+    comment_date_gmt: '2010-10-22 20:16:57'
+    comment_content: >-
+      Got this working after giving up on SOAP but I'm unsure where to go next.
+      Where do I get the information I would have got from eventXML? <br /><br
+      />i.e. how can I see which WI was changed and by whom? <br /><br />I am
+      not VB literate, unfortunately...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969356'
+  - comment_id: '824'
+    comment_author: Nick Tulett
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-10-22 20:59:33'
+    comment_date_gmt: '2010-10-22 20:59:33'
+    comment_content: >-
+      Ah, OK I just found your eventhandler stuff on codeplex, so I think I can
+      follow it from there...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969360'
+  - comment_id: '825'
+    comment_author: Nick Tulett
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-10-22 22:44:54'
+    comment_date_gmt: '2010-10-22 22:44:54'
+    comment_content: >-
+      Genuine question this time. I've added an email sender and it looks like
+      ProcessEvent() gets fired 4 times for a single workitem change. <br /><br
+      />Am I supposed to be monitoring some kind of EventComplete flag?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969365'
+  - comment_id: '826'
+    comment_author: Nick Tulett
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-11-02 23:17:55'
+    comment_date_gmt: '2010-11-02 23:17:55'
+    comment_content: Rewrote in C# and the multiple-fire problem went away...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969368'
+  - comment_id: '827'
+    comment_author: Allen.Feinberg
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-11-17 23:51:44'
+    comment_date_gmt: '2010-11-17 23:51:44'
+    comment_content: >-
+      Good stuff. Now how can I hook up these changes so that they get emailed
+      to people?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969370'
+  - comment_id: '828'
+    comment_author: Ed Blankenship
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-01-10 14:59:45'
+    comment_date_gmt: '2011-01-10 14:59:45'
+    comment_content: >-
+      (Shameless plug...)<br /><br />I am happy to say that we are including
+      some information about this topic in our new TFS 2010 book in case you are
+      looking for more information!  <br /><br />http://bit.ly/TFS2010Book
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969371'
+  - comment_id: '829'
+    comment_author: Subodh Sohoni
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-01-13 14:47:40'
+    comment_date_gmt: '2011-01-13 14:47:40'
+    comment_content: >-
+      Thanks Martin, Excellent stuff. After a long time I cam back to event
+      handling and found this post. Gives me the right direction to work
+      further.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969373'
+  - comment_id: '830'
+    comment_author: Jordan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-01-28 23:14:13'
+    comment_date_gmt: '2011-01-28 23:14:13'
+    comment_content: >-
+      I am looking for a way to send an email update to a list of people anytime
+      a bug is updated. The list will vary for each bug, so I can't hard code
+      the names of the people. To accomplish this, I was considering creating a
+      new field in the bug template where the users could enter in all the
+      emails.<br /><br />I can see that by using your method of event handling,
+      I could accomplish this relatively easily, but I have a question.<br /><br
+      />Would this event be called along with the normal Work Item Changed
+      event, or would it replace it. ex. If user A signs up for the "My Work
+      Items Changed" event, and user A is also listed in my custom field, will
+      he receive two emails, or just one?<br /><br />Thanks for the awesome
+      idea.<br /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969374'
+  - comment_id: '831'
+    comment_author: Vaccano
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-02-20 08:16:27'
+    comment_date_gmt: '2011-02-20 08:16:27'
+    comment_content: >-
+      Thanks for the info.  I was able to use this info to make my own
+      aggregator code.<br /><br />I posted it on codeplex here:
+      http://tfsaggregator.codeplex.com/ if any one else is interested
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969375'
+  - comment_id: '832'
+    comment_author: Tomas Lundstr&#246;m
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-03-03 12:57:48'
+    comment_date_gmt: '2011-03-03 12:57:48'
+    comment_content: >-
+      Great stuff, works well. However, I have found a couple of issues:<br />*
+      In my first attempt, the plugin threw an exception (I forgot to implement
+      the Priority property). This caused the ENTIRE TFS to stop working!! So
+      you better make sure your plugin is robust, because TFS is not ...<br />*
+      Secondly: the WorkItemChangedevent provides the project name (aka
+      PortfolioProject) but I cannot find a way to get the Collection name. How
+      can I then deduce which project I am dealing with, since the same project
+      name can exist in several Collections?<br /><br />Best regards,<br
+      />/Tomas
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969377'
+  - comment_id: '833'
+    comment_author: Richard Roberts
+    comment_author_email: roberts.vb@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-10-05 07:09:00'
+    comment_date_gmt: '2011-10-05 14:09:00'
+    comment_content: >-
+      Great information but I am getting exception errors when my component
+      tries to access and read an element in a app.config
+      file.ConfigurationManager.AppSettings["somekey"]; Any Ideas why? 
+
+
+      Detailed Message: The subscriber WorkItemChangedEventHandler raised an
+      exception while being notified of event
+      Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemChangedEvent.Exception
+      Message: Object reference not set to an instance of an object. (type
+      NullReferenceException)Exception Stack Trace: at
+      Rma.ReleaseManager.TFSEvents.DeploymentRequestClosed.DeploymentRequestClosedEventHandler.ProcessEvent(TeamFoundationRequestContext
+      requestContext, NotificationType notificationType, Object
+      notificationEventArgs, Int32&amp; statusCode, String&amp; statusMessage,
+      ExceptionPropertyCollection&amp; properties)at
+      Microsoft.TeamFoundation.Framework.Server.TeamFoundationEventService.SubscriptionList.Notify(TeamFoundationRequestContext
+      requestContext, NotificationType notificationType, Object
+      notificationEventArgs, String&amp; statusMessage,
+      ExceptionPropertyCollection&amp; properties)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '327155516'
+  - comment_id: '834'
+    comment_author: Richard Roberts
+    comment_author_email: roberts.vb@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-10-05 07:18:00'
+    comment_date_gmt: '2011-10-05 14:18:00'
+    comment_content: "Again great information but, How do I invoke c# code while in transistion to another state? I have code I want to run to test related linked items.\_ These linked items are different type work items that have to be in the correct state and status in order for the parent work Item can be tranistioned from state A\_to State B.\_ In other words I want to be able to run my custom code if an error notifiy the user on the Work Item form that they need to perform some action to the related linked items before it can be transitioned into the next state.\_ In the full blown Workflow engine you can have an CodeActivty to invoke code.\n\nany thoughts or ideas?"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '327160548'
+  - comment_id: '835'
+    comment_author: Martin
+    comment_author_email: nokterra@gmx.at
+    comment_author_url: ''
+    comment_author_IP: 213.144.10.30
+    comment_date: '2013-01-02 06:40:00'
+    comment_date_gmt: '2013-01-02 14:40:00'
+    comment_content: >-
+      Hi geat stuf, but is there a possibility to load a referenced dll in the
+      "ISubscriber-DLL"  without adding the external dll to the GAC?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '753276230'
+  - comment_id: '836'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 50.135.56.181
+    comment_date: '2013-01-02 18:42:00'
+    comment_date_gmt: '2013-01-03 02:42:00'
+    comment_content: >-
+      You can create a WeakReference but it can be very complicated
+      http://msdn.microsoft.com/en-us/library/system.weakreference.aspx and I
+      have never been able to pull it off myself...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '835'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '753276230'
+    - meta_key: dsq_post_id
+      meta_value: '753937994'
+  - comment_id: '837'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 50.135.56.181
+    comment_date: '2013-01-02 18:48:00'
+    comment_date_gmt: '2013-01-03 02:48:00'
+    comment_content: >-
+      1) This is not possible as TFS will aggressively unload any components
+      that cause an exception
+
+      2) I am fairly sure that TeamFoundationRequestContext contains that
+      information but it has been a while.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '832'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209969377'
+    - meta_key: dsq_post_id
+      meta_value: '753943123'
+  - comment_id: '2106'
+    comment_author: >-
+      TFS Server-side check-in policy for git repositories | Karsten Kempe
+      &#8211; Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://almsports.net/tfs-server-side-check-in-policy-for-git-repositories/1025/
+    comment_author_IP: 212.227.127.3
+    comment_date: '2014-02-12 15:06:53'
+    comment_date_gmt: '2014-02-12 15:06:53'
+    comment_content: >-
+      [&#8230;] [2] TFS Handling with Subscribers:
+      http://nkdagility.com/team-foundation-server-2010-event-handling-with-subscribers/
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1392217613.313227;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1392820205.407056;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2173'
+    comment_author: TFS Event Handler for Team Foundation Server | Cose inutili ma utili...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nothingnessit.wordpress.com/2014/03/18/tfs-event-handler-for-team-foundation-server/
+    comment_author_IP: 66.155.10.55
+    comment_date: '2014-03-18 09:17:56'
+    comment_date_gmt: '2014-03-18 09:17:56'
+    comment_content: >-
+      [&#8230;] application when a task on TFS is changed. After some time on
+      scouting I found this excellent post about a new type of integration
+      available in TFS, namely server side event handlers, that is [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1395134276.311433;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1395299068.390348;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2286'
+    comment_author: Paul Coste
+    comment_author_email: paulyphonica@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 66.162.9.208
+    comment_date: '2014-06-06 20:22:00'
+    comment_date_gmt: '2014-06-06 19:22:00'
+    comment_content: >-
+      Check out
+      http://www.colinsalmcorner.com/post/isubscriber-getting-the-tfs-url-for-client-operations,
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '832'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209969377'
+    - meta_key: dsq_post_id
+      meta_value: '1423090733'
+  - comment_id: '6641'
+    comment_author: >-
+      TFS Event Handler for Team Foundation Server - Microsoft Dynamics CRM
+      Community
+    comment_author_email: ''
+    comment_author_url: >-
+      https://community.dynamics.com/crm/b/algrapsblog/archive/2014/03/18/tfs-event-handler-for-team-foundation-server.aspx
+    comment_author_IP: 166.78.95.139
+    comment_date: '2014-11-03 21:15:54'
+    comment_date_gmt: '2014-11-03 21:15:54'
+    comment_content: >-
+      [&#8230;] application when a task on TFS is changed. After some time on
+      scouting I found this excellent post about a new type of integration
+      available in TFS, namely server side event handlers, that is [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1415049355.012594;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1415697905.502642;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

@@ -1,0 +1,782 @@
+post:
+  title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
+  link: >-
+    https://nkdagility.com/blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998/
+  pubDate: Wed, 19 Jun 2013 08:47:43 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9561
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">After a server migration Scheduled Backups gives a TF400998
+    when you try to reconfigure it. You may also see timeouts and errors when
+    trying to add Team Foundation Console Users.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image.png" width="800"
+    height="500" border="0" /><br /><small>Figure: You get TF400998 and TF246017
+    when anything hits Scheduled Backup</small></p>
+
+    <h2>Applies to</h2>
+
+    <ul>
+
+    <li>Team Foundation Server 2012</li>
+
+    <li>Team Foundation Server 2012.2 (QU2)</li>
+
+    <li>Team Foundation Server 2012.3 (QU3)</li>
+
+    <li>Team Foundation Server 2013</li>
+
+    </ul>
+
+    <h2>Findings</h2>
+
+    <p>We had the Scheduled Backups configured for the old environment
+    (const-dt-01 &amp; const-at-01) that was in the old domain. We then did a
+    full backup and restore of TFS to the new domain and followed the
+    documentation for both a hardware and environment move.</p>
+
+    <p>It looks like there are a bunch of referenced, specifically in the
+    “Scheduled Backups” tools that are left at the old server. If you just try
+    to reconfigure you get the nasty errors above and the log below.</p>
+
+    <pre class="lang:default decode:true" title="Log">[Info   @16:26:10.509]
+    ====================================================================
+
+    [Info   @16:26:10.510] Team Foundation Server Administration Log
+
+    [Info   @16:26:10.510] Version  : 11.0.60521.0
+
+    [Info   @16:26:10.510] DateTime : 06/18/2013 09:26:10
+
+    [Info   @16:26:10.510] Type     : Scheduled Backups
+
+    [Info   @16:26:10.510] User     : CONSTMrHinsh
+
+    [Info   @16:26:10.510] Machine  : CONST3-AT-01
+
+    [Info   @16:26:10.510] System   : Microsoft Windows NT 6.1.7601 Service Pack
+    1 (AMD64)
+
+    [Info   @16:26:10.510]
+    ====================================================================
+
+    [Info   @16:30:26.252] -----------------------------------------------------
+
+    [Info   @16:30:26.252] 
+
+    [Info   @16:30:26.252] +-+-+-+-+-| Running
+    VerifySqlServiceAccountCanBeGrantedPermission: Verifying SQL service account
+    is not a local account |+-+-+-+-+-
+
+    [Info   @16:30:26.252] 
+
+    [Info   @16:30:26.252] +-+-+-+-+-| Verifying SQL service account is not a
+    local account |+-+-+-+-+-
+
+    [Info   @16:30:26.252] Starting Node: SQLISNOTLOCAL
+
+    [Info   @16:30:26.252] NodePath : Container/Progress/SQLISNOTLOCAL
+
+    [Info   @16:30:26.268] Verify that account 'CONSTCONST3web' is not local
+    service or local system.
+
+    [Info   @16:31:30.603] Node returned: Error
+
+    [Error  @16:31:30.603] TF400998: The current user failed to retrieve the SQL
+    Server service account information from CONST-DT-01. Please make sure you
+    have permissions to retrieve this information.
+
+    [Info   @16:31:30.604] Completed
+    VerifySqlServiceAccountCanBeGrantedPermission: Error
+
+    [Info   @16:31:30.656] -----------------------------------------------------
+
+    [Info   @16:31:30.656] 
+
+    [Info   @16:31:30.656] +-+-+-+-+-| Running VerifyCollectionDatabases:
+    Verifying connection strings are valid |+-+-+-+-+-
+
+    [Info   @16:31:30.657] 
+
+    [Info   @16:31:30.657] +-+-+-+-+-| Verifying connection strings are valid
+    |+-+-+-+-+-
+
+    [Info   @16:31:30.657] Starting Node: BACKUPDBSREACHABLE
+
+    [Info   @16:31:30.657] NodePath : Container/Progress/BACKUPDBSREACHABLE
+
+    [Info   @16:31:30.657] Verifying connection strings to all backup databases
+
+    [Info   @16:31:30.658] Looking for database Tfs_Configuration on
+    CONST3-DT-01
+
+    [Info   @16:31:30.699] Checking if database Tfs_Configuration on
+    CONST3-DT-01 is online
+
+    [Info   @16:31:30.732] Looking for database Tfs_IMF on CONST3-DT-01
+
+    [Info   @16:31:30.760] Checking if database Tfs_IMF on CONST3-DT-01 is
+    online
+
+    [Info   @16:31:30.790] Looking for database ReportServer on CONST-DT-01
+
+    [Info   @16:31:52.103] Node returned: Error
+
+    [Error  @16:31:52.103] TF246017: Team Foundation Server could not connect to
+    the database. Verify that the server that is hosting the database is
+    operational, and that network problems are not blocking communication with
+    the server.
+
+    [Info   @16:31:52.103] Completed VerifyCollectionDatabases: Error
+
+    [Info   @16:31:52.117] -----------------------------------------------------
+
+    [Info   @16:31:52.117] 
+
+    [Info   @16:31:52.117] +-+-+-+-+-| Running
+    VerifySqlServerPermissionsGranted: Verifying TFS Job Agent has permissions
+    to create and alter databases |+-+-+-+-+-
+
+    [Info   @16:31:52.121] 
+
+    [Info   @16:31:52.121] +-+-+-+-+-| Verifying TFS Job Agent has permissions
+    to create and alter databases |+-+-+-+-+-
+
+    [Info   @16:31:52.121] Starting Node: ALTERCREATEDATABASE
+
+    [Info   @16:31:52.121] NodePath : Container/Progress/ALTERCREATEDATABASE
+
+    [Info   @16:32:56.264] Node returned: Error
+
+    [Error  @16:32:56.264] TF246017: Team Foundation Server could not connect to
+    the database. Verify that the server that is hosting the database is
+    operational, and that network problems are not blocking communication with
+    the server.
+
+    [Info   @16:32:56.264] Completed VerifySqlServerPermissionsGranted: Error
+
+    [Info   @16:32:56.264] -----------------------------------------------------
+
+    [Info   @16:32:56.264] 
+
+    [Info   @16:32:56.264] +-+-+-+-+-| Running
+    VerifySqlDatabasesPermissionsGranted: Verifying TFS Job Agent has
+    permissions to backup databases, create tables, and execute stored
+    procedures |+-+-+-+-+-
+
+    [Info   @16:32:56.268] 
+
+    [Info   @16:32:56.268] +-+-+-+-+-| Verifying TFS Job Agent has permissions
+    to backup databases, create tables, and execute stored procedures
+    |+-+-+-+-+-
+
+    [Info   @16:32:56.268] Starting Node: BACKUPEXECUTECREATE
+
+    [Info   @16:32:56.268] NodePath : Container/Progress/BACKUPEXECUTECREATE
+
+    [Info   @16:32:56.268] Granting account CONSTCONST3web permissions to
+    initiate database backups of Tfs_Configuration
+
+    [Info   @16:32:56.309] Granting account CONSTCONST3web permissions to
+    initiate database backups of Tfs_IMF
+
+    [Info   @16:32:56.619] Granting account CONSTCONST3web permissions to
+    initiate database backups of ReportServer
+
+    [Info   @16:33:17.634] Node returned: Error
+
+    [Error  @16:33:17.634] TF246017: Team Foundation Server could not connect to
+    the database. Verify that the server that is hosting the database is
+    operational, and that network problems are not blocking communication with
+    the server.
+
+    [Info   @16:33:17.634] Completed VerifySqlDatabasesPermissionsGranted: Error
+
+    [Info   @16:33:17.634]
+    -----------------------------------------------------</pre>
+
+    <p>This then prevents us from being able to reconfigure however you can
+    disable and reset.</p>
+
+    <h2>Solution</h2>
+
+    <p>If we instead click “Disable Scheduled Backup” and weight for the timout
+    we get a “Network Path not found” exception when it tries to access the
+    backup location but it has actually done the disable.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image1.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Disable results in path not
+    found</small></p>
+
+    <p>If you hit the refresh button above the Scheduled Backup node will return
+    to its un-configured state.</p>
+  - >-
+    <p class="lead">After a server migration Scheduled Backups gives a TF400998
+    when you try to reconfigure it. You may also see timeouts and errors when
+    trying to add Team Foundation Console Users.</p>
+  post_id: '9904'
+  post_date: '2013-06-19 09:47:43'
+  post_date_gmt: '2013-06-19 08:47:43'
+  post_modified: '2013-06-19 09:47:43'
+  post_modified_gmt: '2013-06-19 08:47:43'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '82'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: scheduled backups
+  - meta_key: _yoast_wpseo_title
+    meta_value: Scheduled Backups gives a TF400998 when reconfigured in TFS 2012.3
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      After a server migration Scheduled Backups gives a TF400998 when you try
+      to reconfigure it. You may also see timeouts and errors when trying to add
+      Team Foundation Console Users.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: dsq_thread_id
+    meta_value: '1410475193'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51c1706eb310701312000059";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371631726;s:3:"day";s:5:"Today";s:6:"due_at";i:1371640200;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51c1706eb310701312000059";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:111:"New
+      Post: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when
+      reconfigured http://buff.ly/141cPtS
+      #vsalm";s:14:"text_formatted";s:326:"New Post: TFS 2012.3 Issue -
+      Scheduled Backups gives a TF400998 when reconfigured <a class="url"
+      href="http://buff.ly/141cPtS" rel="external nofollow"
+      target="_blank">http://buff.ly/141cPtS</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371631726;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51c1706eb31070131200005a";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371631726;s:3:"day";s:5:"Today";s:6:"due_at";i:1371686760;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51c1706eb31070131200005a";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:74:"http://nkdagility.com/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998/";s:11:"description";s:178:"After
+      a server migration Scheduled Backups gives a TF400998 when you try to
+      reconfigure it. You may also see timeouts and errors when trying to add
+      Team Foundation Console Users.";s:5:"title";s:66:"Scheduled Backups gives
+      a TF400998 when reconfigured in TFS
+      2012.3";s:4:"link";s:74:"http://nkdagility.com/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998/";s:7:"preview";s:69:"http://nkdagility.com/files/2012/08/puzzle-issue-problem-128-link.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:111:"New
+      Post: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when
+      reconfigured http://buff.ly/141cPtS
+      #vsalm";s:14:"text_formatted";s:326:"New Post: TFS 2012.3 Issue -
+      Scheduled Backups gives a TF400998 when reconfigured <a class="url"
+      href="http://buff.ly/141cPtS" rel="external nofollow"
+      target="_blank">http://buff.ly/141cPtS</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371631726;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51c1706eb31070131200005b";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371631726;s:3:"day";s:5:"Today";s:6:"due_at";i:1371635340;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51c1706eb31070131200005b";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:74:"http://nkdagility.com/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998/";s:11:"description";s:178:"After
+      a server migration Scheduled Backups gives a TF400998 when you try to
+      reconfigure it. You may also see timeouts and errors when trying to add
+      Team Foundation Console Users.";s:5:"title";s:66:"Scheduled Backups gives
+      a TF400998 when reconfigured in TFS
+      2012.3";s:4:"link";s:74:"http://nkdagility.com/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998/";s:7:"preview";s:69:"http://nkdagility.com/files/2012/08/puzzle-issue-problem-128-link.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:111:"New
+      Post: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when
+      reconfigured http://buff.ly/141cPtS
+      #vsalm";s:14:"text_formatted";s:326:"New Post: TFS 2012.3 Issue -
+      Scheduled Backups gives a TF400998 when reconfigured <a class="url"
+      href="http://buff.ly/141cPtS" rel="external nofollow"
+      target="_blank">http://buff.ly/141cPtS</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371631726;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBKPV9
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474854315;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9907;}i:1;a:1:{s:2:"id";i:9324;}i:2;a:1:{s:2:"id";i:9703;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-06-19-tfs-2012-3-issue-scheduled-backups-gives-a-tf400998.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1014'
+  comment:
+  - comment_id: '1675'
+    comment_author: Upgrading to Team Foundation Server 2013
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/upgrading-to-team-foundation-server-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-24 00:52:08'
+    comment_date_gmt: '2013-07-23 23:52:08'
+    comment_content: >-
+      [...] are moving to a new server and will be changing the location of the
+      backups make sure you check out TFS 2012.3 Issue – Scheduled Backups gives
+      a TF400998 when reconfigured as I ran into a little issue with that
+      recently. It is most likely to occur when also doing a [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1374623528.592446;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1374691215.633277;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1953'
+    comment_author: Adam Lonsdale
+    comment_author_email: alonsdale@adalpe.co.uk
+    comment_author_url: ''
+    comment_author_IP: 77.86.82.105
+    comment_date: '2013-10-15 21:57:00'
+    comment_date_gmt: '2013-10-15 21:57:00'
+    comment_content: >-
+      I'm struggling to configure in the first place. Tried using the service
+      account as NT AUTHORITY`Network Service and as a domain administrator.
+      both five the TF400998 errors.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1083677289'
+  - comment_id: '1954'
+    comment_author: Adam Lonsdale
+    comment_author_email: alonsdale@adalpe.co.uk
+    comment_author_url: ''
+    comment_author_IP: 77.86.82.105
+    comment_date: '2013-10-15 23:09:00'
+    comment_date_gmt: '2013-10-15 23:09:00'
+    comment_content: >-
+      Note to self: Don't have an alias with the same name as a physical server.
+      Dropped it from the AD, reboot of the server and all is fine.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1953'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1083677289'
+    - meta_key: dsq_post_id
+      meta_value: '1083755756'
+  - comment_id: '1955'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 50.95.225.142
+    comment_date: '2013-10-16 01:07:00'
+    comment_date_gmt: '2013-10-16 01:07:00'
+    comment_content: I am glad that you figured it out...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1954'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1083755756'
+    - meta_key: dsq_post_id
+      meta_value: '1083857517'
+  - comment_id: '12597'
+    comment_author: Raj Hareesh
+    comment_author_email: hareesh.rajcaz@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 62.255.15.180
+    comment_date: '2015-07-03 12:41:00'
+    comment_date_gmt: '2015-07-03 11:41:00'
+    comment_content: >-
+      Hi - I got the exact problem and followed the steps as mentioned in the
+      solution and still getting similar error with these two below as in the
+      logs, and quite sure the service account for TFS and SQL are same and the
+      account has got access to back-up folder location :
+
+
+      [Info   @11:19:02.339] +-+-+-+-+-| Running
+      VerifySqlServiceAccountCanBeGrantedPermission: Verifying SQL service
+      account can access backup path |+-+-+-+-+-
+
+      [Info   @11:19:02.339] 
+
+      [Info   @11:19:02.339] +-+-+-+-+-| Verifying SQL service account can
+      access backup path |+-+-+-+-+-
+
+      [Info   @11:19:02.339] Starting Node: VSqlCanAccessBackupPath
+
+      [Info   @11:19:02.339] NodePath :
+      Container/Progress/VSqlCanAccessBackupPath
+
+      [Info   @11:19:02.526] Verify that account 'xxxtestTFSinstall' is not
+      local service or local system.
+
+      [Info   @11:19:34.090] Node returned: Error
+
+      [Error  @11:19:34.090] TF400998: The current user failed to retrieve the
+      SQL Server service account information from xxx-tfs. Please make sure you
+      have permissions to retrieve this information.
+
+      [Info   @11:19:34.090] Completed
+      VerifySqlServiceAccountCanBeGrantedPermission: Error
+
+
+      [Info   @11:19:34.106]
+      -----------------------------------------------------
+
+      [Info   @11:19:34.106] +-+-+-+-+-| Running VerifyCollectionDatabases:
+      Verifying connection strings are valid |+-+-+-+-+-
+
+      [Info   @11:19:34.106] +-+-+-+-+-| Verifying connection strings are valid
+      |+-+-+-+-+-
+
+      [Info   @11:19:34.106] Starting Node: BACKUPDBSREACHABLE
+
+      [Info   @11:19:34.106] NodePath : Container/Progress/BACKUPDBSREACHABLE
+
+      [Info   @11:19:34.106] Verifying connection strings to all backup
+      databases
+
+      [Info   @11:19:34.106] Looking for database Tfs_Configuration on
+      XXXTFSSQL1
+
+      [Info   @11:19:34.168] Checking if database Tfs_Configuration on
+      XXXTFSSQL1 is online
+
+      [Info   @11:19:34.199] Looking for database Tfs_DefaultCollection on
+      XXXTFSSQL1
+
+      [Info   @11:19:34.215] Checking if database Tfs_DefaultCollection on
+      XXXTFSSQL1 is online
+
+      [Info   @11:19:34.246] Looking for database ReportServer on xxx-TFS
+
+      [Info   @11:20:05.872] Node returned: Error
+
+      [Error  @11:20:05.872] TF246017: Team Foundation Server could not connect
+      to the database. Verify that the server that is hosting the database is
+      operational, and that network problems are not blocking communication with
+      the server.
+
+      [Info   @11:20:05.872] Completed VerifyCollectionDatabases: Error
+
+      [Info   @11:20:05.872]
+      -----------------------------------------------------
+
+
+
+
+      Any help on this would be much appreciated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2114359000'
+  - comment_id: '12602'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-07-04 00:00:00'
+    comment_date_gmt: '2015-07-03 23:00:00'
+    comment_content: Does that account have permission to SQL? It should have SYSAdmin
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12597'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2114359000'
+    - meta_key: dsq_post_id
+      meta_value: '2115452266'
+  - comment_id: '12611'
+    comment_author: Raj Hareesh
+    comment_author_email: hareesh.rajcaz@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 81.156.247.9
+    comment_date: '2015-07-05 20:24:00'
+    comment_date_gmt: '2015-07-05 19:24:00'
+    comment_content: >-
+      "[Info @11:19:02.526] Verify that account 'xxxtestTFSinstall' is not local
+      service or local system."
+
+      Yes the account is in SYSadmin in SQL server and it is admin in all the
+      app, data, and build tiers.
+
+
+      Just to add couple more from what i missed in the original post:
+
+
+      "[Error @11:19:34.090] TF400998: The current user failed to retrieve the
+      SQL Server service account information from xxx-tfs. Please make sure you
+      have permissions to retrieve this information."
+
+       "[Info @11:19:34.246] Looking for database ReportServer on xxx-TFS"
+
+      As i have noticed it is still looking for old server name i.e xxx-TFS in
+      both the cases although my new server name is 'XXXTFSSQL1', and one more
+      thing is i have restored only  the Config and collection DBs i am not
+      using the old report server db's, and so NOT restored any reports and
+      warehouse db's.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12602'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2115452266'
+    - meta_key: dsq_post_id
+      meta_value: '2118222909'
+  - comment_id: '12612'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.211.203.64
+    comment_date: '2015-07-05 21:05:00'
+    comment_date_gmt: '2015-07-05 20:05:00'
+    comment_content: >-
+      If you are moving your TFS to new hardware you need to follow the "moving
+      tfs to new hardware" instructions from MSDN or ot is not going to work.
+      There are additional commands to run that update the entries for which DB
+      server to look at.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12611'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2118222909'
+    - meta_key: dsq_post_id
+      meta_value: '2118281083'
+  - comment_id: '12614'
+    comment_author: Raj Hareesh
+    comment_author_email: hareesh.rajcaz@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 62.255.15.180
+    comment_date: '2015-07-06 11:09:00'
+    comment_date_gmt: '2015-07-06 10:09:00'
+    comment_content: >-
+      Hi Martin - Yes i have followed both the hardware and environment move
+      instructions and also applied 'TFSConfig ChangeServerID /SQLInstance' for
+      the config and collection DB's and i am not using report and warehouse i
+      did not run those commands. but as you can see inthe error logs for some
+      reason it is picking up the below from my old server:
+
+
+      [Error @11:19:34.090] TF400998: The current user failed to retrieve the
+      SQL Server service account information from xxx-tfs. Please make sure you
+      have permissions to retrieve this information."
+       "[Info @11:19:34.246] Looking for database ReportServer on xxx-TFS"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12612'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2118281083'
+    - meta_key: dsq_post_id
+      meta_value: '2119167925'
+  - comment_id: '12618'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.211.203.64
+    comment_date: '2015-07-06 14:57:00'
+    comment_date_gmt: '2015-07-06 13:57:00'
+    comment_content: >-
+      It's trying to connect to the old SQL server name. You need to, as part of
+      the hardware move, change the SQL instance via the command line.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12614'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119167925'
+    - meta_key: dsq_post_id
+      meta_value: '2119419498'
+  - comment_id: '12622'
+    comment_author: Rajha
+    comment_author_email: hareesh.rajcaz@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 62.255.15.180
+    comment_date: '2015-07-06 17:51:00'
+    comment_date_gmt: '2015-07-06 16:51:00'
+    comment_content: >-
+      yes i used 'TFSConfig ChangeServerID /SQLInstance' from command line.
+
+      Looks like i have to drop this and rebuild the test instance again. Thanks
+      for your help.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12618'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119419498'
+    - meta_key: dsq_post_id
+      meta_value: '2119719767'
+  - comment_id: '12625'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.211.203.64
+    comment_date: '2015-07-06 18:31:00'
+    comment_date_gmt: '2015-07-06 17:31:00'
+    comment_content: >-
+      That is not the right command to map to the right DB. As per the
+      documentation you should use "tfsconfig remapDB" command.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12622'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119719767'
+    - meta_key: dsq_post_id
+      meta_value: '2119792105'
+  - comment_id: '12632'
+    comment_author: Rajha
+    comment_author_email: hareesh.rajcaz@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 62.255.15.180
+    comment_date: '2015-07-07 10:54:00'
+    comment_date_gmt: '2015-07-07 09:54:00'
+    comment_content: >-
+      Hi Martin - Thanks, for some reason i didn't run that 'remapDB' although
+      it was in my list to run. many Thanks once again that saved me lot of time
+      instead of re-configuring the hardware and environment move from the
+      beginning.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12625'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2119792105'
+    - meta_key: dsq_post_id
+      meta_value: '2121102428'
+  - comment_id: '13454'
+    comment_author: Curtis
+    comment_author_email: curtis@igz.net
+    comment_author_url: ''
+    comment_author_IP: 24.28.0.99
+    comment_date: '2015-10-07 17:52:00'
+    comment_date_gmt: '2015-10-07 16:52:00'
+    comment_content: >-
+      Hi, I have this exact problem. We upgraded from TFS 2012 to TFS 2015 and
+      during that process, migrated to new servers (separate SQL and IIS). We
+      ran ChangeDB on the Configuration DB as well as RemapDBs on the
+      Configuration DB as well. Everything is working great, except Scheduling
+      Backups. 
+
+
+      I also disabled the old job from the past server. I did NOT receive the
+      "The network path not found" message because the old server and path are
+      still up (probably).
+
+
+      Now I don't see the old job anymore but I can't create any new ones.
+
+
+      When I go and "Create Scheduled Backups", it is still pulling in old
+      server information through the process. It "auto-fills" the Network Backup
+      Path with what used to be the old path and it "auto-fills" the "SQL Server
+      Instance" on the "Select Reporting Databases" screen with the old server
+      name and thus at the end I get TF400998 and TF246017.
+
+
+      Like you said in the top of your post, "You may also see timeouts and
+      errors when trying to add Team Foundation Console Users", we had this
+      issue too. It tried to add new Console users to the old server.
+
+
+      I have absolutely no idea what else to try. We followed all the migration
+      steps and used the Upgrade wizard of TFS 2015.
+
+
+
+      UPDATE! I was going to post the above information and came across one
+      command that we didn't run from an old TFS 2010 migration guide -
+      "TFSConfig PrepareClone".
+
+
+      If you go to MSDN and read the details on this:
+
+      https://msdn.microsoft.com/en-us/library/dn643734%28v=vs.120%29.aspx
+
+
+      It says "The PrepareClone command removes information about scheduled
+      backups, SharePoint, and reporting resources from a Team Foundation Server
+      (TFS) deployment."
+
+
+      So I followed these steps: 1. quiesce your server. 2. PrepareClone command
+      3. RemapDBs command (although this did nothing as we had already ran it
+      and everything is remapped) 4. Finally, unquiesce 
+
+      your server. 
+
+
+      Ultimately, that PrepareClone deleted whatever information was stored
+      whatever that then really allowed us to really run clean-slate through the
+      Scheduled Backups Wizard.
+
+
+      I hope this helps someone else.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2294924737'

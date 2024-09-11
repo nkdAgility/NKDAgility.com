@@ -1,0 +1,174 @@
+post:
+  title: Windows Server 2012 Core for dummies
+  link: https://nkdagility.com/blog/windows-server-2012-core-for-dummies/
+  pubDate: Sun, 10 Mar 2013 01:48:40 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9255
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.</p>\n<ul>\n<li><strong><span style=\"color: #ff0000;\">Update 2013-03-18</span> -</strong> After all my hard work Shad told me that this was the old-school way and why did I not use \"sconfig\".\_<br /><img class=\"alignnone  wp-image-9310\" alt=\"18-03-2013 15-53-19\" src=\"http://blog.hinshelwood.com/files/2013/03/18-03-2013-15-53-19.png\" width=\"638\" height=\"356\" /><strong>Figure: Arrrrr</strong>\n<p>It does not have all of the commands I might need, but it does have many.</p>\n</li>\n</ul>\n<p>While I pride myself on having a past as a developer I did dabble in thee dark side once upon a time. My first to jobs out of university ended up with me maintaining domains and computers for the organisations that I worked for even though I would rather have not.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image2.png\" width=\"800\" height=\"473\" border=\"0\" /><br /><strong>Figure: You only get a command window</strong></p>\n<p>The first issue that you run into when using Windows Server 2012 Core is the dreaded command line. Where it used to be hard to script activities in Windows, the existence of Core has made it trivial if you know the commands. Now if you like the command line you may never install another version of windows again… but if like me you like… you know… Windows… then you can use another server or you can install the admin tools on Windows 8 or Windows 7.</p>\n<p>So to get this running there are a bunch of activities that can only be achieved through the command line:</p>\n<ol>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Enable Remote Desktop for Windows Server 2012 Core</span></strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Registering Windows on Windows Server 2012 Core</span> </strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Remotely managing Windows Server 2012 Core </span></strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Updating Windows Server 2012 Core</span> </strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Renaming your Windows Server 2012 Core</span> </strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Set network details for your Windows Server 2012 Core </span></strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Opening Firewall ports on Windows Server 2012 Core</span> </strong></li>\n<li><strong>DONE - <span style=\"text-decoration: line-through;\">Domain join your Windows Server 2012 Core</span></strong></li>\n</ol>\n<p>I may add to this list, but this was all I needed to setup and configure separate Domain Controller, Web Application Server, Database Server and TFS server. All but my TFS server are currently Core servers and that only because it already existed.</p>\n<h2 class=\"icon-task\">Enable Remote Desktop for Windows Server 2012 Core</h2>\n<p>The first thing that I want to do with my servers is to connect remotely. While the Hyper-V console is awesome it does not support Cut &amp; Past which frustrated me no end. Luckily it is very easy to enable remote desktop connections to your new server.</p>\n<pre class=\"brush: ps; ruler: true;\">cscript C:WindowsSystem32Scregedit.wsf /ar 0\n</pre>\n<p><strong>Figure: Enable Remote Desktop via the command line for Windows Server 2012 Core</strong></p>\n<p>You will see as we go through that the technologies for managing your server are a little fragmented still. Its not that this cant be done with PowerShell, its that it is much harder than the script above to <a href=\"http://blogs.technet.com/b/jamesone/archive/2009/01/31/checking-and-enabling-remote-desktop-with-powershell.aspx\" target=\"_blank\">Enabling Remote Desktop with PowerShell</a>.</p>\n<p>I am sure there will be more parity in the future.</p>\n<h2 class=\"icon-task\">Registering Windows on Windows Server 2012 Core</h2>\n<p>This is the only way to register Server Core if you do not have an internal registration server. Indeed you need this to register Windows 8 Enterprise as well as there is no UI for it anyway.</p>\n<pre class=\"brush: ps; ruler: true;\">slmgr.vbs /ipk [your windows key]\n</pre>\n<p><strong>Figure: Register Windows visa the command line for Windows Server 2012 Core</strong></p>\n<p>And look… a Visual Basic Script call…. awww….</p>\n<h2 class=\"icon-task\">Remotely managing Windows Server 2012 Core</h2>\n<p>This was the single most vexing and frustrating thing to configure. If you are setting up core within a domain then you just join the local computer to your existing domain and you can then add that server to a computer with server manager. But if you have a workgroup as you would before you created your domain controller then you are a little hosed.</p>\n<p>You have to tell the target core server to trust the incoming server manager connection and the server with server manager to trust the target core server. Phew…</p>\n<p>To do this you need to add the other side to each sides “TrustedHosts” list and to do that you need to enable PowerShell as this is our first PowerShell call.</p>\n<pre class=\"brush: ps; ruler: true;\">powershell\nSet-Item wsman:localhostClientTrustedHosts KRAKEN -Concatenate -Force\n</pre>\n<p><strong>Figure: Adding trusted hosts via the command line for Windows Server 2012 Core</strong></p>\n<p>While the server manager ports are supposed to be available by default between both the servers I did have to turn the firewall off. It may be that I just got mixed up, but there are many other circumstances that I can think of to turn the firewall of so…</p>\n<pre class=\"brush: ps; ruler: true;\">NetSh Advfirewall set allprofiles state off\n</pre>\n<p><strong>Figure: Disable the firewall via the command line </strong><strong>for Windows Server 2012 Core</strong>\_</p>\n<p>As well as remotely managing my servers I also want to be able to ping my servers. Call me old fashioned but a ‘ping’, which is disabled by default, has help me out many a time.. So I also want to enable that:</p>\n<pre class=\"brush: ps; ruler: true;\">netsh advfirewall firewall add rule name=\"All ICMP V4\" dir=in action=allow protocol=icmpv4\n</pre>\n<p><strong>Figure: Enable ping via the command line for Windows Server 2012 Core</strong>\_</p>\n<p>While not really required it does tend to help you out when you can ping through your firewall.</p>\n<p>Now that you have the Trusted Hosts set and you can get through the firewall you can add your server to the management console.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image3.png\" width=\"800\" height=\"452\" border=\"0\" /><br /><strong>Figure: Add your new Windows Server 2012 Core to the Server Manager</strong></p>\n<p>If you got a bunch of errors stating that the server does not exist then you need to disable the firewall. If you get a bunch of messages about “TrustedHosts” then you should make sure you have added each server to the others Trusted Host list.</p>\n<h2 class=\"icon-task\">Updating Windows Server 2012 Core</h2>\n<p>And what about Windows Updates? How the heck do we see or configure them. Well there are a bunch of commands for this, unfortunately I just don’t care. Or more precisely… I don’t want to have to care. I’m a 3am kinda guys and thats what I want.</p>\n<pre class=\"brush: ps; ruler: true;\">net stop wuauserv\ncscript c:WindowsSystem32SCregEdit.wsf /AU 4\nnet start wuauserv\npowershell\nset-service wuauserv -startuptype \"Automatic\"\n</pre>\n<p><strong>Figure: Enable Windows Update via the command line for Windows Server 2012 Core</strong></p>\n<p>There is a script that you can install for <a href=\"http://msdn.microsoft.com/en-us/library/aa387102(VS.85).aspx\" target=\"_blank\">Searching, Downloading, and Installing Updates</a> but that is way more hassle than I want. In the past there were updates, specifically 1.1 .NET Framework updates that were installed automatically and broke some custom applications that companies had. Because of that burn they don’t like auto-updates.</p>\n<p>The facts though are that the only reason the applications broke were that they were poorly built and maintained. Is this the fault of the update tool? Or the Developers and support teams for not keeping up to date. Barring an emergency ‘OMG-OMG Look at that security hole’ it takes around three months for updates to get onto Windows Update. All that testing that needs done is also testing that your organisation needs to do and turning automatic updates of prevents that testing.</p>\n<p>How about a compromise. All non Production servers are set to Auto-Update and we Update production deliberately. When we release new versions of our software all updates currently applied in non-Production are applied to production. An easy way to keep progression and stave of disaster…</p>\n<h2 class=\"icon-task\">Renaming your Windows Server 2012 Core<strong> </strong></h2>\n<p>Next you probably want to give your server a name other than than the silly default almost-guid crap that gets set.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image4.png\" width=\"667\" height=\"500\" border=\"0\" /><br /><strong>Figure: The silly default name for your Windows Server 2012 Core</strong></p>\n<p>Why ‘win-fv6da60d6cs’ would ever be considered a good name for a server I do not know <img class=\"wlEmoticon wlEmoticon-smile\" style=\"border-style: none;\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2013/03/wlEmoticon-smile.png\" /></p>\n<p>So lets fix that now…</p>\n<pre class=\"brush: ps; ruler: true;\">netdom renamecomputer localhost /newname:Metatron /reboot\n</pre>\n<p><strong>Figure: Rename your Windows Server 2012 Core via the Command Line</strong></p>\n<p>Whats in a name? Well my ‘metatron’ name, for my database server, is not what I would use for a company. Company servers have names that show lots of information:</p>\n<blockquote>\n<p>elonmaptfsp01 = <strong>E</strong>urope | <strong>Lon</strong>don | <strong>M</strong>icrosoft | <strong>Ap</strong>plication | <strong>T</strong>eam <strong>F</strong>oundation <strong>S</strong>erver | <strong>P</strong>roduction | <strong>01</strong></p>\n<p>elonmsqtfsp01 = <strong>E</strong>urope | <strong>Lon</strong>don | <strong>M</strong>icrosoft | <strong>SQ</strong>L | <strong>T</strong>eam <strong>F</strong>oundation <strong>S</strong>erver | <strong>P</strong>roduction | <strong>01</strong></p>\n</blockquote>\n<p>You should be able to tell a lot by a name…</p>\n<h2 class=\"icon-task\">Set network details for your Windows Server 2012 Core</h2>\n<p>When you create a new server you normally need to set some network information to get things going. Because I have a datacentre in a laptop, and my DHCP configuration skills are zip I need to set a fixed IP access.</p>\n<p><em>Note: Having 2 DHCP servers on a network if not configured properly is BAD</em></p>\n<p>So for me… adding a fixed IP address is paramount but so is setting the DNS address on the “Private” network adapter that I use.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image5.png\" width=\"800\" height=\"353\" border=\"0\" /><br /><strong>Figure: Virtual Switch Manager of your Hyper-V Host</strong></p>\n<p>I always add an “Internal Only” network so that even if I am on a plane with no network my Hyper-V Guests will still be able to talk. This is where I need the fixed IP and to set the DNS to that of the Domain Controller DNS Instance.</p>\n<pre class=\"brush: ps; ruler: true;\">netsh interface ip set address name=\"Ethernet\" static 192.168.100.14 255.255.255.0 192.168.100.1 1\nnetsh interface ipv4 add dnsserver \"Ethernet\" 192.168.100.1 1\n</pre>\n<p><strong>Figure: Setting network settings for Windows Server 2012 Core via the command line</strong>\_</p>\n<p>Now this would be us done but I actually add 3 virtual adapters to my servers. Why? Well I have to bind to either WiFi or Cable and changing it on the fly is slow. I can change it quickly on each guest, but I need to do it for each guest which is… effort. So to mitigate it I add 2 additional adapters and bind to both WiFi and Wire.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image6.png\" width=\"800\" height=\"488\" border=\"0\" /><br /><strong>Figure: Settings for Hyper-V guest</strong></p>\n<p>This dies mean that it can get confusing as they are, by default, named “Ethernet”, “Ethernet 2” and “Ethernet 3”. Good luck figuring that out… So I always try to change the name of the adapter. In the UI that is actually surprisingly hard and hidden, but easy in the command line.</p>\n<pre class=\"brush: ps; ruler: true;\">netsh interface set interface name = \"Ethernet\" newname = \"Private\"\nnetsh interface set interface name = \"Ethernet 2\" newname = \"Public - WiFi\"\nnetsh interface set interface name = \"Ethernet 3\" newname = \"Public - Wire\"\n</pre>\n<p><strong>Figure: Setting the Interface name for your Windows Server 2012 Core via the command line</strong>\_</p>\n<p>Now we can communicate and we know how…</p>\n<h2 class=\"icon-task\">Opening Firewall ports on Windows Server 2012 Core</h2>\n<p>Remembering that we turned the firewall back on there may be some applications that we want to install that require particular ports to be opened.</p>\n<p>I have a couple of servers that I use as Tentacle’s of an Octopus Release pipeline and they need to be able to communicate on port 10933.</p>\n<pre class=\"brush: ps; ruler: true;\">netsh advfirewall firewall add rule name=\"Octopus Tentacle 10933\" dir=in action=allow protocol=TCP localport=10933\n</pre>\n<p><strong>Figure: Add a firewall rule for your Windows Server 2012 Core from the command line</strong></p>\n<p>Now we can enable all of our apps.</p>\n<h2 class=\"icon-task\">Domain join your Windows Server 2012 Core</h2>\n<p>Remembering to have already set a DNS server that will allow you to join the domain, you may have DHCP, we can now easily join the server to our domain.</p>\n<pre class=\"brush: ps; ruler: true;\">netdom join localhost /domain:vsalm.com /userd:vsalmadministrator /passwordd:[password]  /reboot:0\n</pre>\n<p><strong>Figure: Join your Windows Server 2012 Core via the command line</strong>\_</p>\n<p>After a reboot you are kinda done. I used the remote administration to do much of the complicated configuration and to add new Features and Roles to the servers. This can be done via the command line, but it is something that is easier in the UI.</p>\n<h2 class=\"icon-conclusion\">Conclusion</h2>\n<p>There are many things in Windows Server 2012 Core that you have to do via the command line and many other things that are just easier in the UI. I have only really documented the things that I needed to use so that I would not forget. I did configure all of the Roles and Features directly in the Server Manager console as the UI lets me tick a bunch of boxes and leads me through a wizard. However if you are a scriptie kina dude then you can do that too.</p>\n<p>Good luck with your server configurations…</p>\n<p><em>-Do you need help deploying &amp; configuring Team Foundation Server? Get in touch on </em><a onclick=\"_gaq.push(['_trackEvent', 'mailto', 'email', 'Windows Server 2012 Core for dummies']);\" href=\"mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Windows Server 2012 Core for dummies\"><em>info@nwcadence.com</em></a><em> so that we can get started.</em></p>"
+  - >-
+    <p class="lead">This is a short idiots guide to setting up Windows Server
+    2012 Core. Windows Server 2012 Core allows you to use less memory by getting
+    rid of some peskie UI bits and bobs. Setting it up however is a little more
+    challenging.</p>
+  post_id: '9255'
+  post_date: '2013-03-09 17:48:40'
+  post_date_gmt: '2013-03-10 01:48:40'
+  post_modified: '2013-03-09 17:48:40'
+  post_modified_gmt: '2013-03-10 01:48:40'
+  comment_status: open
+  ping_status: open
+  post_name: windows-server-2012-core-for-dummies
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '91'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: windows server 2012 core
+  - meta_key: _yoast_wpseo_title
+    meta_value: Windows Server 2012 Core for dummies
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      This is a short idiots guide to setting up Windows Server 2012 Core using
+      the command line. What are the main commands you will need and how to use
+      them.
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":16:{s:3:"_id";s:24:"513c114f84046e8e0b000009";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362891087;s:3:"day";s:5:"Today";s:6:"due_at";i:1362917400;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"513c114f84046e8e0b000009";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:6:"status";s:6:"buffer";s:4:"text";s:79:"Updated
+      Post: Windows Server 2012 Core for dummies http://buff.ly/YkyQjb
+      #vsalm";s:14:"text_formatted";s:293:"Updated Post: Windows Server 2012
+      Core for dummies <a class="url" href="http://buff.ly/YkyQjb" rel="external
+      nofollow" target="_blank">http://buff.ly/YkyQjb</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362891087;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":17:{s:3:"_id";s:24:"513c114f84046e8e0b00000a";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362891087;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1362960360;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"513c114f84046e8e0b00000a";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:65:"http://blog.hinshelwood.com/windows-server-2012-core-for-dummies/";s:11:"description";s:166:"I
+      recently setup windows server 2012 core and had to do so much searching
+      that I thought it best to document a short idiots guide mainly so that I
+      can find it myself.";s:5:"title";s:56:"Windows Server 2012 Core for
+      dummies - Visual Studio
+      ALM";s:4:"link";s:65:"http://blog.hinshelwood.com/windows-server-2012-core-for-dummies/";s:7:"preview";s:52:"http://blog.hinshelwood.com/files/2013/03/image2.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:6:"status";s:6:"buffer";s:4:"text";s:79:"Updated
+      Post: Windows Server 2012 Core for dummies http://buff.ly/YkyQjb
+      #vsalm";s:14:"text_formatted";s:293:"Updated Post: Windows Server 2012
+      Core for dummies <a class="url" href="http://buff.ly/YkyQjb" rel="external
+      nofollow" target="_blank">http://buff.ly/YkyQjb</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362891087;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":17:{s:3:"_id";s:24:"513c114f84046e8e0b00000b";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362891087;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1362998940;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"513c114f84046e8e0b00000b";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:65:"http://blog.hinshelwood.com/windows-server-2012-core-for-dummies/";s:11:"description";s:166:"I
+      recently setup windows server 2012 core and had to do so much searching
+      that I thought it best to document a short idiots guide mainly so that I
+      can find it myself.";s:5:"title";s:56:"Windows Server 2012 Core for
+      dummies - Visual Studio
+      ALM";s:4:"link";s:65:"http://blog.hinshelwood.com/windows-server-2012-core-for-dummies/";s:7:"preview";s:52:"http://blog.hinshelwood.com/files/2013/03/image2.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:6:"status";s:6:"buffer";s:4:"text";s:79:"Updated
+      Post: Windows Server 2012 Core for dummies http://buff.ly/YkyQjb
+      #vsalm";s:14:"text_formatted";s:293:"Updated Post: Windows Server 2012
+      Core for dummies <a class="url" href="http://buff.ly/YkyQjb" rel="external
+      nofollow" target="_blank">http://buff.ly/YkyQjb</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362891087;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:20;s:12:"buffer_count";i:2;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _thumbnail_id
+    meta_value: '8787'
+  - meta_key: dsq_thread_id
+    meta_value: '1127993303'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"9388";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBGbq4
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474887308;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9288;}i:1;a:1:{s:2:"id";i:75;}i:2;a:1:{s:2:"id";i:9907;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-03-09-windows-server-2012-core-for-dummies.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1195'
+  comment:
+  - comment_id: '1574'
+    comment_author: Greg S
+    comment_author_email: seeber.greg@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 204.78.58.135
+    comment_date: '2013-07-25 19:19:00'
+    comment_date_gmt: '2013-07-25 18:19:00'
+    comment_content: great job bro.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '976161374'
+  - comment_id: '1575'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-25 19:22:00'
+    comment_date_gmt: '2013-07-25 18:22:00'
+    comment_content: ':) Thanks... learning PowerShell the hard way...'
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1574'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '976161374'
+    - meta_key: dsq_post_id
+      meta_value: '976164602'
+  - comment_id: '1576'
+    comment_author: Greg S
+    comment_author_email: seeber.greg@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 204.78.58.135
+    comment_date: '2013-07-29 16:21:00'
+    comment_date_gmt: '2013-07-29 15:21:00'
+    comment_content: >-
+      Is there any other way?  haha.  I fought powershell tooth and nail, until
+      it became clear that if I was to ever get anything done - it was
+      required.  Now, my infrequent nightmares typically include looping foreach
+      statements.  I wake up in terror to 'red syntax'.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1575'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '976164602'
+    - meta_key: dsq_post_id
+      meta_value: '980244242'

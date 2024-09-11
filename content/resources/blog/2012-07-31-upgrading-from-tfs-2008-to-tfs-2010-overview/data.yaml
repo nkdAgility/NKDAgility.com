@@ -1,0 +1,131 @@
+post:
+  title: Upgrading from TFS 2008 to TFS 2010 Overview
+  link: https://nkdagility.com/blog/upgrading-from-tfs-2008-to-tfs-2010-overview/
+  pubDate: Tue, 31 Jul 2012 18:35:45 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=6905
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>I have not thought about an upgrade from TFS 2008 to TFS 2010 is quite a
+    while as most if not all of my customers have already made the move to 2010.
+    However one of my colleagues asked if I had done one recently and well… not
+    in a while.</p> <p>There are really two main parts to any upgrade. The
+    physical upgrade of one version of the product to another. And then the
+    configuration within that product to make everything sing and dance.</p>
+    <p>The hard part if the singing and dancing so lets tackle the upgrade
+    first.</p> <h3>#1 Upgrading from TFS 2008 to TFS 2010 / TFS 2012</h3>
+    <p>Although <a
+    href="http://blogs.msdn.com/b/bharry/archive/2009/10/21/upgrading-from-tfs-2005-2008-to-tfs-2010.aspx"
+    target="_blank">Brian Harry has an awesome post</a> on this I wanted to pull
+    together the experiences that I have had over the years into one place that
+    I can reference.</p> <ul> <li><a
+    href="http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/"
+    target="_blank">In-Place upgrade of TFS 2008 to TFS 2010 with move to new
+    domain</a><br />I hate in-place upgrade and you should never do one unless
+    you have to. There is generally no way to back out and a complete rebuild is
+    your disaster plan. Try to use Virtual hardware and snapshots if you have to
+    do an in-place upgrade but insist on moving to new hardware. This has the
+    added benefit of cleaning the server and allows you to upgrade SQL and
+    Windows easily.</li> <li><a
+    href="http://blog.hinshelwood.com/upgrading-team-foundation-server-2008-to-2010/"
+    target="_blank">Upgrading Team Foundation Server 2008 to 2010</a><br />This
+    was an upgrade to TFS 2010 Beta 2 in the early days of 2010. I only had one
+    problem even way back then.</li> <li><a
+    href="http://blog.hinshelwood.com/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3/"
+    target="_blank">Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010
+    and SF 2010 with SfTSv3</a><br />This was probably the largest upgrade I
+    have been responsible for with nearly 500GB of data and servers with 24
+    cores <img class="wlEmoticon wlEmoticon-smile" style="border-top-style:
+    none; border-left-style: none; border-bottom-style: none;
+    border-right-style: none" alt="Smile"
+    src="http://blog.hinshelwood.com/files/2012/07/wlEmoticon-smile6.png"/>. I
+    will get to the process template upgrade woes later…</li> <li><a
+    href="http://blog.hinshelwood.com/connecting-vs2008-to-any-tfs2010-project-collection/"
+    target="_blank">Connecting VS2008 to any TFS2010 Project Collection</a><br
+    />In addition your teams may not be upgrading visual studio at the same
+    pace, so make sure you know what they are using other than the latest Visual
+    Studio.</li></ul> <p>Upgrading from 2005 to 2008 was a very painful
+    experience. So much so that the team at Microsoft spent a lot of time and
+    money on making the experience as slick and easy as possible. TFS 2010
+    upgrades are a dream and with TFS 2012 I have been speechless at the&nbsp;
+    smoothness of the upgrade experience.</p> <h3>#2 Migrating Process
+    Template</h3> <p>Doing something with the Team Projects that you now have in
+    the new version of the product are another matter and a much more
+    complicated one. There are a number of ways to handle this and if you are
+    moving to TFS 2010 then they are all manual:</p> <ul> <li><a
+    href="http://blog.hinshelwood.com/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3/"
+    target="_blank">Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010
+    and SF 2010 with SfTSv3</a><br />Moving from SfTSv2 to SfTSv3 is a very
+    painfully experience and attempt it at your pearl. </li> <li><a
+    href="http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/"
+    target="_blank">Upgrading your Process Template in Team Foundation
+    Server</a><br />I tried to detail as many ways of manipulating the process
+    templates as possible, but I have settled on #7 as my de facto
+    standard!</li> <li><a
+    href="http://blog.hinshelwood.com/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones/"
+    target="_blank">Process Template Upgrade #3 – Destroy all Work Items and
+    Import new ones</a><br />This is the cleanest approach but DOES NOT retain
+    any histiory on work item tracking data. </li> <li><a
+    href="http://blog.hinshelwood.com/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration/">Process
+    Template Upgrade #7 – Rename Work Items and Import new ones</a><br />#7 is
+    now my recommended norm and includes </li></ul> <p>My best <a
+    href="http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/">documentation
+    of my experience of implementing #7</a> was as part of a 2010 to 2012
+    upgrade, but the process is the same. </p> <p>In TFS 2012 after the upgrade
+    there is an option on a per-Team Project bases to perform and automatic
+    enablement of the new 2012 features. While this is awesome it does not
+    change the process template hat you are using and instead injects only the
+    bits requires to get the new features working. And it is not available for
+    TFS 2010!</p> <h3>Conclusion</h3> <p>A TFS 2008 to TFS 2010 upgrade takes no
+    more than a day at the most, but the real hard work is in getting the
+    Process Template to where it is useable for the customer. Take the time here
+    to make and understand the choices.</p> <p><strong>How did you get on
+    upgrading TFS 2005/2008 to TFS 2010/2012?</strong></p>
+  - ''
+  post_id: '6905'
+  post_date: '2012-07-31 11:35:45'
+  post_date_gmt: '2012-07-31 18:35:45'
+  post_modified: '2012-07-31 11:35:45'
+  post_modified_gmt: '2012-07-31 18:35:45'
+  comment_status: open
+  ping_status: open
+  post_name: upgrading-from-tfs-2008-to-tfs-2010-overview
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '787287050'
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6OGH7
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474891034;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5702;}i:1;a:1:{s:2:"id";i:11286;}i:2;a:1:{s:2:"id";i:5432;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-07-31-upgrading-from-tfs-2008-to-tfs-2010-overview.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '481'

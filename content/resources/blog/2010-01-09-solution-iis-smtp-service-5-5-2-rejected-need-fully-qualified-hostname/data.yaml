@@ -1,0 +1,89 @@
+post:
+  title: 'Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname'
+  link: >-
+    https://nkdagility.com/blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname/
+  pubDate: Sat, 09 Jan 2010 20:10:51 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/01/09/solution---iis-smtp-service-5.5.2-rejected-need-fully-qualified.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.</p>\n<pre>\n#Software: Microsoft Internet Information Services 7.0\n#Version: 1.0\n#Date: 2010-01-09 18:49:30\n#Fields: c-ip cs-username s-sitename s-computername s-ip s-port cs-method cs-uri-query sc-win32-status cs-bytes cs-version cs(User-Agent) cs(Referer) \n127.0.0.1 MYHOST-MYSERVER SMTPSVC1 MYHOST-MYSERVER 127.0.0.1 0 EHLO +ServerName 0 18 SMTP - -\n127.0.0.1 MYHOST-MYSERVER SMTPSVC1 MYHOST-MYSERVER 127.0.0.1 0 MAIL +FROM:enquiries@company.com 0 47 SMTP - -\n127.0.0.1 MYHOST-MYSERVER SMTPSVC1 MYHOST-MYSERVER 127.0.0.1 0 RCPT +TO:&amp;lt;martin@hinshelwood.com&amp;gt; 0 32 SMTP - -\n127.0.0.1 MYHOST-MYSERVER SMTPSVC1 MYHOST-MYSERVER 127.0.0.1 0 DATA &amp;lt;MYHOST-MYSERVERVoMDrx0000015e@MYHOST-MYSERVER&amp;gt; 0 2560 SMTP - -\n216.146.33.4 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 220+mx1.mailhop.org+ESMTP+MailHop+by+DynDNS.com 0 0 SMTP - -\n216.146.33.4 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 EHLO MYHOST-MYSERVER 0 0 SMTP - -\n216.146.33.4 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 250-mx1.mailhop.org 0 0 SMTP - -\n216.146.33.4 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 MAIL FROM:&amp;lt;enquiries@company.com&amp;gt;+SIZE=2884 0 0 SMTP - -\n216.146.33.4 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 250+2.1.0+Ok 0 0 SMTP - -\n216.146.33.4 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 RCPT TO:&amp;lt;martin@hinshelwood.com&amp;gt; 0 0 SMTP - -\n216.146.33.4 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 504+5.5.2+&amp;lt;MYHOST-MYSERVER&amp;gt;:+Helo+command+rejected:+need+fully-qualified+hostname 0 0 SMTP - -\n216.146.33.4 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 RSET - 0 0 SMTP - -\n216.146.33.3 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 220+mx1.mailhop.org+ESMTP+MailHop+by+DynDNS.com 0 0 SMTP - -\n216.146.33.3 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 EHLO MYHOST-MYSERVER 0 0 SMTP - -\n216.146.33.3 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 250-mx1.mailhop.org 0 0 SMTP - -\n216.146.33.3 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 MAIL FROM:&amp;lt;enquiries@company.com&amp;gt;+SIZE=2884 0 0 SMTP - -\n216.146.33.3 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 250+2.1.0+Ok 0 0 SMTP - -\n216.146.33.3 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 RSET - 0 0 SMTP - -\n216.146.33.3 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 250+2.0.0+Ok 0 0 SMTP - -\n216.146.33.3 OutboundConnectionCommand SMTPSVC1 MYHOST-MYSERVER - 25 QUIT - 0 0 SMTP - -\n216.146.33.3 OutboundConnectionResponse SMTPSVC1 MYHOST-MYSERVER - 25 - 221+2.0.0+Bye 0 0 SMTP - -</pre>\n<p><br />\nFigure: The log shows the source of the problem. <br />\n\_</p>\n<p>“5.5.2 rejected: need fully qualified hostname” tends to be destination server specific and relates to the server name that the mail is sent <strong>from</strong> which is different from the email from name. Most mail servers will reject mail from a name that they cannot lookup in DNS as an anti-spam measure.</p>\n<p>To fix:</p>\n<ol>\n    <li>I opened “<b>Internet Information Services (IIS) 6.0 Manager</b>” on the server. <br />\n    <img border=\"0\" alt=\"clip_image001\" width=\"229\" height=\"381\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-a0127b4e14f2_116A4-clip_image001_3.jpg\" /></li>\n    <li>Expanded and then right click on “<b>[SMTP Virtual Server #1]</b>” and select “<b>Properties</b>” <br />\n    <img border=\"0\" alt=\"image\" width=\"504\" height=\"354\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-a0127b4e14f2_116A4-image_6.png\" />\_</li>\n    <li>Select the “<b>Delivery</b>” Tab and then “<b>Advanced</b>” <br />\n    <img border=\"0\" alt=\"clip_image003\" width=\"504\" height=\"560\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-a0127b4e14f2_116A4-clip_image003_3.jpg\" /></li>\n    <li>Enter “<b><i>company.com</i></b>” in the “<b>fully-qualified domain name</b>” field. <br />\n    <img border=\"0\" alt=\"image\" width=\"504\" height=\"562\" style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-a0127b4e14f2_116A4-image_5.png\" />\_</li>\n    <li>Click “ok” and then “ok” to save the changes</li>\n</ol>\n<p>You should now be able to send emails from your site without any problems.</p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/Windows\" rel=\"tag\">Windows</a>\_</div>"
+  - ''
+  post_id: '72'
+  post_date: '2010-01-09 20:10:51'
+  post_date_gmt: '2010-01-09 20:10:51'
+  post_modified: '2010-01-09 20:10:51'
+  post_modified_gmt: '2010-01-09 20:10:51'
+  comment_status: open
+  ping_status: open
+  post_name: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311601722'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '4844'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3fQhb
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474841443;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:427;}i:1;a:1:{s:2:"id";i:294;}i:2;a:1:{s:2:"id";i:233;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2010-01-09-solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1393'
+  comment:
+    comment_id: '704'
+    comment_author: r4i sdhc
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-24 12:53:59'
+    comment_date_gmt: '2010-02-24 12:53:59'
+    comment_content: >-
+      Hi,<br />We had to setup a temp. SMTP relay server on W2K3 (IIS 6.0)
+      outside the firewall until our main exchange server (W2K3&amp;E2K3SP2)
+      comes back up online.  Relay worked perfectly for most of the domains
+      except hotmail and some other domain  For those domains, message was
+      bounced back with the error, “&lt;xxx.xxx.xxx #5.5.0 smtp;503 5.5.0 Not
+      accepting any command except QUIT&gt;.  I am not sure why it is working
+      for some and not for others.  Someone suggested it could be 8bit MIME
+      issue, but I am not sure.  Can anyone help me figure this out?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969926'

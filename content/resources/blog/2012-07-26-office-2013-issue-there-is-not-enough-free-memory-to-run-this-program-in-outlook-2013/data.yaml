@@ -1,0 +1,299 @@
+post:
+  title: >-
+    Office 2013 Issue: There is not enough free memory to run this program in
+    Outlook 2013
+  link: >-
+    https://nkdagility.com/blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013/
+  pubDate: Thu, 26 Jul 2012 19:15:58 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=6758
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>You get a “There is not enough free memory to run this program. Quit one
+    or more programs, and try again.” when trying to do activities in Outlook
+    2013.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/image38.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb38.png"
+    width="640" height="360"/></a><br /><strong>Figure: Can’t expand folders
+    without an error</strong></p> <p>This affects both the Exchange and IMAP
+    account when you have multiple email accounts enabled.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/image39.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb39.png"
+    width="640" height="360"/></a><br /><strong>Figure: Can’t select folders
+    without an error</strong></p> <h3>Updates</h3> <ul> <li><span
+    style="text-decoration: line-through"><strong><span style="color:
+    #ff0000">Updated 2012-07-27</span></strong> – I found an additional
+    workaround for my circumstance. Let me know if it helps you!</span> (Looks
+    like this did not work)  </li><li><strong><span style="color:
+    #ff0000">Updated 2012-07-30</span></strong> – Solution found - This has been
+    affecting me so much that I moved back to Outlook 2010. This however did not
+    help as I get this error with Outlook 2010 as well which helped me find a
+    fix…  </li><li><strong><font color="#ff0000">Updated
+    2012-08-13</font></strong> (Recommended)– Better solution found.. Don’t
+    download shared or public folders</li></ul> <h3>Applies To</h3> <ul>
+    <li>Outlook 2013 Preview  </li><li>Outlook 2010 </li></ul> <h3>Finding</h3>
+    <p>I tried everything that was available online and the only solution that
+    worked for me was to have only one Exchange account active at a time.</p>
+    <p><a href="http://blog.hinshelwood.com/files/2012/07/image40.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb40.png"
+    width="640" height="360"/></a><br /><strong>Figure: I don’t think I have run
+    out of memory! I have 24GB RAM!</strong></p> <p>Even with separate profiles
+    this continues to be a problem with my Microsoft Account, but not with my
+    Office 365 account… weird. This may be an exchange issue that I am running
+    into, but I do not know…</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/SNAGHTMLdd97fa3.png"><img
+    title="SNAGHTMLdd97fa3" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="SNAGHTMLdd97fa3"
+    src="http://blog.hinshelwood.com/files/2012/07/SNAGHTMLdd97fa3_thumb.png"
+    width="640" height="360"/></a><br /><strong>Figure: there is not enough free
+    memory in Outlook 2010</strong></p> <p>As this is happening in Outlook 2010
+    I looked at reported solutions there and it looks like it is due to one of
+    my mailboxes being associated with “Public Folders” or whatever the
+    equivalent is here. I think they are just mandatory “Mailboxes” but they
+    present as public folders. If I remove this mailbox I get no further
+    issues.</p> <h3><span style="text-decoration: line-through">Workaround
+    1</span></h3> <p><span style="text-decoration: line-through">If you create
+    two profiles (yuch) and only open one exchange account at a time you can
+    have a world of working instead of a world of hurt.</span></p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/SNAGHTML6bf9ea.png"><span
+    style="text-decoration: line-through"><img title="SNAGHTML6bf9ea"
+    style="border-left-width: 0px; border-right-width: 0px; background-image:
+    none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="SNAGHTML6bf9ea"
+    src="http://blog.hinshelwood.com/files/2012/07/SNAGHTML6bf9ea_thumb.png"
+    width="387" height="480"/></span></a><br /><strong><span
+    style="text-decoration: line-through">Figure: You can’t currently open more
+    than one exchange account</span></strong></p> <p><span
+    style="text-decoration: line-through">This is a workaround as you are
+    supposed to be able to have multiple exchange accounts open… I guess it does
+    say “Preview” in the product name. Although I still get the problem with my
+    Microsoft profile it is not as persistent nor as prevalent.</span></p>
+    <h3><span style="text-decoration: line-through">Workaround 2</span></h3>
+    <p><span style="text-decoration: line-through">This is a more permanent work
+    around as it looks like unless you have your computer joined to the
+    Microsoft corporate domain you can’s use their email reliably.</span></p>
+    <p><a href="http://blog.hinshelwood.com/files/2012/07/image42.png"><span
+    style="text-decoration: line-through"><img title="image"
+    style="border-left-width: 0px; border-right-width: 0px; background-image:
+    none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb42.png"
+    width="640" height="360"/></span></a><br /><strong><span
+    style="text-decoration: line-through">Figure: Everything works now I can
+    authenticate better</span></strong></p> <p><span style="text-decoration:
+    line-through">Now that I have joined my compute to the domain (although I am
+    still logging in with my live id) this problem has abated.</span></p>
+    <h3>Solution 1</h3> <p>To remove this issue you need to turn off “Use cached
+    exchange mode” for this mailbox. It will be enabled by default so you will
+    need to deliberately turn it off.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/image43.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb43.png"
+    width="640" height="377"/></a><br /><strong>Figure: The offending Tick
+    box</strong></p> <p>You can do this through Outlook:</p> <ol> <li>“Outlook |
+    File | Account Settings | Account Settings…”  </li><li>Select your mailbox
+    and click “Change…”  </li><li>Take the tick out of “Use Cached Exchange
+    Mode”  </li><li>Restart Outlook </li></ol> <p>Or you can do this through the
+    Mail settings in the control panel.</p> <h3>Solution 2 (Recommended)</h3>
+    <p>While the above solution worked it made offline viewing of data
+    impossible. A better solution that also stops the error is to change the
+    setting to not allow “Download shared folders” nor “Download Public Folder
+    Favourites” as it looks like these are the culprits.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/image46.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb46.png"
+    width="640" height="418"/></a><br /><strong>Figure: Don’t download shared or
+    public folders</strong></p> <p>You can do this through Outlook:</p> <ol>
+    <li>“Outlook | File | Account Settings | Account Settings…”  </li><li>Select
+    your mailbox and click “Change… | More Settings…”  </li><li>Take the tick
+    out of “Download shared folders”  </li><li>Take the tick out of “Download
+    Public Folder Favourites”  </li><li>Click “OK” and Restart Outlook
+    </li></ol> <p>Or you can do this through the Mail settings in the control
+    panel.</p> <p><strong>Did this help with you issue?</strong></p>
+  - ''
+  post_id: '6758'
+  post_date: '2012-07-26 12:15:58'
+  post_date_gmt: '2012-07-26 19:15:58'
+  post_modified: '2012-07-26 12:15:58'
+  post_modified_gmt: '2012-07-26 19:15:58'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '781141796'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBKf9U
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474897223;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:13;}i:1;a:1:{s:2:"id";i:7176;}i:2;a:1:{s:2:"id";i:9096;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-07-26-office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1343'
+  comment:
+  - comment_id: '1340'
+    comment_author: Matthew Ellison
+    comment_author_email: matt@matrel.co.uk
+    comment_author_url: ''
+    comment_author_IP: 192.92.94.23
+    comment_date: '2012-12-07 01:10:00'
+    comment_date_gmt: '2012-12-07 09:10:00'
+    comment_content: >-
+      Thank you - this has been driving me mad since I installed Office 2010! I
+      can now use Outlook without restarting it every 5 minutes! Such a simple
+      fix and yet not at all in line with the official Microsoft line that talks
+      about too many public folders. I don't have any public folders, just a
+      couple of different shared mailboxes to open. This has worked a treat. :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '730015509'
+  - comment_id: '1341'
+    comment_author: Outlook 2013 Exchange-Cache-Modus - MCSEboard.de MCSE Forum
+    comment_author_email: ''
+    comment_author_url: >-
+      https://www.mcseboard.de/ms-exchange-forum-80/outlook-2013-exchange-cache-modus-190424.html#post1178152
+    comment_author_IP: 141.0.17.153
+    comment_date: '2012-12-09 14:54:16'
+    comment_date_gmt: '2012-12-09 22:54:16'
+    comment_content: '[...]  [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1355286402.857345;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1342'
+    comment_author: Kristen
+    comment_author_email: kristen.cox@checkpnt.com
+    comment_author_url: ''
+    comment_author_IP: 76.199.225.17
+    comment_date: '2013-01-07 06:52:00'
+    comment_date_gmt: '2013-01-07 14:52:00'
+    comment_content: >-
+      This may be an ideal solution if the exchange server is on the same LAN. 
+      I am connected via VPN and have been waiting for my public folders to open
+      for about 5 minutes.  Still waiting.........   Outlook 2013 is inefficient
+      because I have plenty of available memory - it acts like a 32-bit
+      application.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '758950789'
+  - comment_id: '1343'
+    comment_author: Tiago Duarte
+    comment_author_email: tmd_chapa@yahoo.com
+    comment_author_url: http://www.facebook.com/tiago.duarte.7796
+    comment_author_IP: 93.108.233.16
+    comment_date: '2013-02-01 04:35:00'
+    comment_date_gmt: '2013-02-01 12:35:00'
+    comment_content: >-
+      And what about an IMAP account, i cannot find the "cached" option to
+      disable. I only have 1 inbox with IMAP configured, have a 8GB computador,
+      with less than 35% of used memory... but i still get the same information
+      when i enter Outlook or just try to move an email : "Cannot move the
+      items. Out of memory or system resources. Try closing other programs to
+      free additional memory."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '785683286'
+  - comment_id: '14504'
+    comment_author: Flame
+    comment_author_email: againstthemachine86@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 41.169.125.1
+    comment_date: '2018-02-05 12:46:00'
+    comment_date_gmt: '2018-02-05 12:46:00'
+    comment_content: >-
+      Oh my word! What a simple fix. We had a user on O365 trying to access a
+      shared mailbox on premise (hybrid solution). I gave the user full
+      permission to the shared mailbox and was able to add and expand the shared
+      mailbox, however it either didnt load any emails or it popped up with the
+      memory error. Eventually I unchecked the "2 culprits" under Solution 2 and
+      it worked. Thank you so much! I kept thinking the issue was on O365 and it
+      was driving me insane!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3743454260'

@@ -1,0 +1,230 @@
+post:
+  title: >-
+    Subversion to TFS 2010: Dealing with invalid Subversion SSL certificates and
+    migrations
+  link: >-
+    https://nkdagility.com/blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations/
+  pubDate: Thu, 25 Aug 2011 18:43:42 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://blog.hinshelwood.com/dealing-with-invalid-subversion-ssl-certificates-and-migrations/
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><img style="background-image: none; border-right-width: 0px; margin: 0px
+    20px 20px 0px; padding-left: 0px; padding-right: 0px; display: inline;
+    float: left; border-top-width: 0px; border-bottom-width: 0px;
+    border-left-width: 0px; padding-top: 0px" title="subversion" border="0"
+    alt="subversion" align="left"
+    src="http://blog.hinshelwood.com/files/2011/08/subversion.png" width="48"
+    height="48" /></p>  <p>Migrating data from SVN to TFS can be both a timely
+    and a costly business. I was trying out the two tools <a
+    href="http://tfsintegration.codeplex.com/">TFS Integration Platform</a>
+    &amp; <a href="http://www.timelymigration.com/">Timely Migration</a> but I
+    ran into what looked like the same problem in both if them.</p>  <br
+    clear="all" />  <ul>   <li>Acknowledgement: Thorsten Dralle - Thorsten
+    helped me figure out what the heck was going on when I could not
+    connect      <br clear="all" /></li> </ul>  <hr />  <p>Although I do have
+    permission I can’t get the tools to talk and load from Subversion with the
+    following effect / error messages:</p>  <ul>   <li>&#160;<b>TFS Integration
+    Platform        <br /></b>      <br /><img style="background-image: none;
+    border-right-width: 0px; padding-left: 0px; padding-right: 0px; display:
+    inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width:
+    0px; padding-top: 0px" title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/08/image1.png" width="598"
+    height="297" />       <br /><b>Figure: Unable to validate the URL        <br
+    /></b></li>    <li>&#160;<b>Timely Migration        <br /></b>      <br
+    />And I am now very confused as I have tried Timely Migrations tool as well
+    and it has an error that is similar enough to not be coincidence.       <br
+    />      <br /><img style="background-image: none; border-right-width: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top-width:
+    0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="clip_image004" border="0" alt="clip_image004"
+    src="http://blog.hinshelwood.com/files/2011/08/clip_image004.jpg"
+    width="476" height="291" />       <br /><b>Figure: Also unable to validate
+    the repository URL        <br /></b></li>    <li><b>Internet Explorer       
+    <br /></b>      <br />I will go back to the admins and make sure that
+    everything is correct, but I am not sure if they are going to have any other
+    advice.       <br /><img style="background-image: none; border-right-width:
+    0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline;
+    border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px;
+    padding-top: 0px" title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/08/image3.png" width="628"
+    height="357" />       <br /><b>Figure: Unable to validate the certificate.
+    (From an internal server)        <br /></b>      <br />I have even looked at
+    making sure that the url is correct and putting it into the browser results
+    in a list of the folders which looks right to me.       <br />      <br
+    /><img style="background-image: none; border-right-width: 0px; padding-left:
+    0px; padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="clip_image006" border="0" alt="clip_image006"
+    src="http://blog.hinshelwood.com/files/2011/08/clip_image006.jpg"
+    width="600" height="184" />       <br /><b>Figure: This is expected       
+    <br /></b></li>    <li><strong>SmartSVN</strong>       <br />      <br
+    />This is very odd and I am having some trouble figuring it out. I can
+    access SVN through SmartSVN.       <br />      <br /><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="clip_image007" border="0" alt="clip_image007"
+    src="http://blog.hinshelwood.com/files/2011/08/clip_image007.jpg"
+    width="496" height="280" />       <br /><b>Figure: SmartSVN worked just fine
+    after I accepted the fingerprint</b> </li> </ul>  <p>&#160;</p>  <p>So, what
+    is the problem? </p>  <p>Well, Thorsten figured it out that the invalid
+    digital certificate used for Subversion is blocking the ability for the tool
+    to access it and throwing up very misleading error messages. If you run the
+    standard SVN tool against that repository and try to access any of the files
+    you will be asked what to do about the problem:</p>  <pre class="brush:
+    plain; ruler: true;">svn.exe co https://host/PathToYourRepo
+    c:somethinglocalfolder</pre>
+
+
+    <p>This command will download the latest sources locally if you let it run
+    but it will also, If there is a certificate mismatch / error the command
+    line tool will ask you what to do.&#160; </p>
+
+
+    <p><img style="background-image: none; border-right-width: 0px; margin: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top-width:
+    0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/08/image2.png" width="640"
+    height="202" /> 
+
+      <br /><strong>Figure: Options for accepting certificate</strong></p>
+
+    <p>Typically you have three options:</p>
+
+
+    <ul>
+      <li>Accept Temporarily </li>
+
+      <li><strong>Accept forever</strong> </li>
+
+      <li>Reject </li>
+    </ul>
+
+
+    <p>If you select “<strong><em>(p)ermenantly</em></strong>” you will then be
+    able to run the migration tools successfully. You will need to do this for
+    every Subversion Repository you want to migrate from. Or, you can fix the
+    certificate or just remove it.</p>
+  - ''
+  post_id: '3736'
+  post_date: '2011-08-25 11:43:42'
+  post_date_gmt: '2011-08-25 18:43:42'
+  post_modified: '2011-08-25 11:43:42'
+  post_modified_gmt: '2011-08-25 18:43:42'
+  comment_status: open
+  ping_status: open
+  post_name: dealing-with-invalid-subversion-ssl-certificates-and-migrations
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '395828374'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dL4fWm
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474422147;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3769;}i:1;a:1:{s:2:"id";i:6202;}i:2;a:1:{s:2:"id";i:5702;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-08-25-dealing-with-invalid-subversion-ssl-certificates-and-migrations.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '505'
+  comment:
+  - comment_id: '1065'
+    comment_author: >-
+      TOC: TFS Integration Tools Blog Posts and Reference Sites - Willy&#039;s
+      Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/06/toc-tfs-integration-tools.aspx
+    comment_author_IP: 65.55.57.17
+    comment_date: '2011-08-25 12:33:48'
+    comment_date_gmt: '2011-08-25 19:33:48'
+    comment_content: >-
+      [...] Dealing with invalid Subversion SSL certificates and migrations
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1314305904.0268";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1066'
+    comment_author: >-
+      TOC: TFS Integration Tools Blog Posts and Reference Sites - Willy&#039;s
+      Reflections - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/toc-tfs-integration-tools-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.52.96.192
+    comment_date: '2012-11-16 05:50:08'
+    comment_date_gmt: '2012-11-16 13:50:08'
+    comment_content: >-
+      [...] Dealing with invalid Subversion SSL certificates and migrations
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1353274057.87";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1067'
+    comment_author: 'Subversion to TFS 2012 Migration: Part 2 &raquo; jedibowler.com'
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 81.27.105.169
+    comment_date: '2013-02-20 09:29:35'
+    comment_date_gmt: '2013-02-20 09:29:35'
+    comment_content: "[...] immediately obvious from the Integration Platform UI however.\_ Follow the steps in Martin&#8217;s blog entry and you should be up and limping in no [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1361381375.914706;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1361382502.722973;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

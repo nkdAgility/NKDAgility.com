@@ -1,0 +1,84 @@
+post:
+  title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
+  link: >-
+    https://nkdagility.com/blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm/
+  pubDate: Tue, 12 Aug 2008 16:30:37 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/08/12/problems-with-team-explorer-after-installed-visual-studio-2008-sp1.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>\_</p>\n<p>I received the following error box after installing VS2008 SP1 RTM:</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ProblemswithTeamExplorerafterinstalledVi_E82C-image_2.png\"><img border=\"0\" alt=\"image\" width=\"484\" height=\"67\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ProblemswithTeamExplorerafterinstalledVi_E82C-image_thumb.png\" /></a> </p>\n<p>\_</p>\n<blockquote>\n<p>Team Foundation Error</p>\n<p>Could not load type ‘Microsoft.TeamFoundation.VersionControl.Controls.ItemsUpdatedExternallyEventArgs’ from assembly ‘Microsoft.TeamFoundation.VersionControl.Controls, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f57f11d50a3a</p>\n</blockquote>\n<p>This stopped me accessing version control…a key part if you ask me.</p>\n<p>The first thing I tried was to “Repair” Team Explorer, but that did not help, so I had a wee google…and found:</p>\n<p><a href=\"http://dotnet.robertmao.com/2008/05/27/problem-of-team-explorer-after-installed-visual-studio-2008-sp1-beta/\">Problem of Team Explorer after installed Visual Studio 2008 SP1 beta</a> which lead me to <a href=\"http://forums.microsoft.com/msdn/ShowPost.aspx?PostID=3380330&amp;SiteID=1\">Re: Bug after installer the SP1 with work items</a> and thus to the old favourite “reinstall the service pack!”</p>\n<p>I have opened a thread (<a href=\"http://forums.microsoft.com/msdn/ShowPost.aspx?PostID=3736501&amp;SiteID=1\">Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM</a>) on the MSDN forums…</p>\n<p>If the reinstall of the SP fixes my problem, I will update there…</p>\n<p><strong>Update 2008-08-14: Nope, no fixie... I have sent my workstation to helpdesk for a rebuild. Humph!</strong> </p>\n<p><strong>Update\_2008-08-15: I have installed SP1 sucessfully on 3 other computers.... Even ones that already had SP1 Beta1... Must just have been my workstation... double humph!</strong></p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_</div>"
+  - ''
+  post_id: '210'
+  post_date: '2008-08-12 16:30:37'
+  post_date_gmt: '2008-08-12 16:30:37'
+  post_modified: '2008-08-12 16:30:37'
+  post_modified_gmt: '2008-08-12 16:30:37'
+  comment_status: open
+  ping_status: open
+  post_name: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311603050'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBLS7s
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473155534;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:204;}i:1;a:1:{s:2:"id";i:208;}i:2;a:1:{s:2:"id";i:79;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2008-08-12-problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '257'
+  comment:
+    comment_id: '380'
+    comment_author: Qiang
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-08-27 10:58:23'
+    comment_date_gmt: '2008-08-27 10:58:23'
+    comment_content: >-
+      Maybe you should see the post.
+      http://forums.microsoft.com/TechNet/ShowPost.aspx?PostID=120476&amp;SiteID=17.
+      I modified the registry, it works well.<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970904'

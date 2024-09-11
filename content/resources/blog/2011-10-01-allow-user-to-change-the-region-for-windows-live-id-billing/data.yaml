@@ -1,0 +1,540 @@
+post:
+  title: Allow user to change the region for Windows Live ID billing
+  link: >-
+    https://nkdagility.com/blog/allow-user-to-change-the-region-for-windows-live-id-billing/
+  pubDate: Sat, 01 Oct 2011 19:24:16 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://blog.hinshelwood.com/allow-user-to-change-the-region-for-windows-live-id-billing/
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><img title="img_33742_microsoft-windows-live-logo_450x360"
+    style="border-left-width: 0px; border-right-width: 0px; background-image:
+    none; border-bottom-width: 0px; float: left; padding-top: 0px; padding-left:
+    0px; margin: 0px 10px 5px 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0"
+    alt="img_33742_microsoft-windows-live-logo_450x360" align="left"
+    src="http://blog.hinshelwood.com/files/2011/10/img_33742_microsoft-windows-live-logo_450x360.jpg"
+    width="100" height="75"/>Recently I was burned rather heavily be Microsoft
+    Billing due to their inability to change the region (country) of an account.
+    Yes, you heard me right, there is NO way to change your billing region and
+    the ONLY solution Microsoft can offer is to create a new account.</p>
+
+    <ul>
+
+    <li><span style="color: #ff0000"><strong>Update 2013-01-16 - Microsoft opens
+    international barriers to Xbox Live account migration.</strong></span><br
+    /><backquote>"Microsoft's throwing open the doors on Xbox Live account
+    migration worldwide for its Xbox 360 consoles, today announcing that XBL
+    accounts are now transferable from region-to-region. That includes
+    everything in your Gold level account"<br />-<a
+    href="http://www.engadget.com/2013/01/16/xbox-live-region-locking-unlocked/">Engadget</a></backquote> 
+    </li>
+
+    <li><span style="color: #ff0000"><strong>Update 2012-10-14 - Microsoft has
+    experimental region changing capability.</strong></span><br /><backquote>"At
+    Microsoft, we understand our customers move from one country to another and
+    we continue to evaluate region migration solutions to help Xbox LIVE members
+    access content from their current country location. We have been piloting an
+    account migration process, but it can take several weeks and some content is
+    confined by location due to licensing restrictions and cannot be
+    transferred. We strongly encourage members who do not have an immediate need
+    for account migration to hold tight while we continue to work on an
+    automated tool, or create a new account in the new country location.<br
+    />-Microsoft Support"</backquote>  </li>
+
+    <li><span style="color: #ff0000"><strong>Update
+    2012-10-11</strong></span><strong> - Looks like there might be a huge and
+    profound breakthrough on this topic. Check out <a
+    href="http://forums.xbox.com/xbox_forums/xbox_support/f/9/p/353657/1834363.aspx#1834363">Migrating
+    account Chile to Usa</a></strong>  </li>
+
+    <li><span style="color: #ff0000"><strong>Update 2012-01-06</strong></span> -
+    One of the folks from the product team looked me up at the last bash and
+    they are aware of the issue as it would relate to TFS Service. To that end
+    they will not be using Live billing. </li>
+
+    </ul>
+
+    <hr />
+
+    <p>This would not be so bad if it was not for the plethora of services that
+    have recently started using Live ID and I brought this issue up at the last
+    MVP summit. My primary live id will always be the one I have had for ~10
+    years, but I now have to have another live id for every country I end up
+    living in.</p>
+
+    <p><img title="uservoice-logo" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    float: right; padding-top: 0px; padding-left: 0px; margin: 0px 0px 5px 10px;
+    display: inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="uservoice-logo" align="right"
+    src="http://blog.hinshelwood.com/files/2011/10/uservoice-logo.png"
+    width="150" height="40"/>If you are already sold then you can vote on either
+    of these user voice sites, but make sure that your opinion of this is
+    heard:</p>
+
+    <ul>
+
+    <li><strong>User Voice (Visual Studio): </strong><a
+    href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/2289385-allow-user-to-change-the-region-for-windows-live-i"><strong>Allow
+    user to change the region for Windows Live ID billing</strong></a>  </li>
+
+    <li><strong>User Voice (Windows Phone): </strong><a
+    title="http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no"
+    href="http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no"><strong>Allow
+    changing your windows id location</strong></a> </li>
+
+    </ul>
+
+    <p>Still not sure how this will affect you? Read on…</p>
+
+    <h3>First Burn – Xbox</h3>
+
+    <p><img title="xbox-live-logo" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    float: left; padding-top: 0px; padding-left: 0px; display: inline;
+    padding-right: 0px; border-top-width: 0px" border="0" alt="xbox-live-logo"
+    align="left"
+    src="http://blog.hinshelwood.com/files/2011/10/xbox-live-logo.png"
+    width="150" height="69"/>Anyone that knows me would have heard me rant on
+    this one. If you spend 7 years using Xbox Live building up 15000+ gamer
+    score and spending £2000+ (~$3000) on content and subscriptions only to
+    loose EVERYTHING because I took a job in another country!</p>
+
+    <p>The result is that I (any this affects my family of 4) have two Live ID’s
+    to manage. Both with content and neither with the full story.</p>
+
+    <p>For more you can read detailed Xbox shenanigans both on&nbsp; <a
+    href="http://tf.erzz.com/2007/03/14/xbox-live-accounts-great-but-dont-move-to-another-country/">Xbox
+    Live Accounts – Great But Don’t Move to Another Country!</a> and <a
+    href="http://tf.erzz.com/2009/02/18/letter-to-major-nelson/">Letter to Major
+    Nelson</a>.</p>
+
+    <h3>Second Burn – Windows Phone 7</h3>
+
+    <p><img title="windows_phone_logo300x300" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    float: left; padding-top: 0px; padding-left: 0px; display: inline;
+    padding-right: 0px; border-top-width: 0px" border="0"
+    alt="windows_phone_logo300x300" align="left"
+    src="http://blog.hinshelwood.com/files/2011/10/windows_phone_logo300x300.jpg"
+    width="150" height="150"/></p>
+
+    <p>You would think for the Windows Phone launch that they would have solved
+    this problem, at least for it. But after logging into my brand new T-Mobile
+    US HD7 I was encouraged to download the “Tesco” application and I could only
+    use my UK Credit cards!</p>
+
+    <p>This is not good… it is not a good experience, and I had to figure out
+    how to hard reset my phone on the first day that I had it in order to change
+    out the Live ID from <a
+    href="mailto:martin@hins***ood.com">martin@hins***ood.com</a> to my new xbox
+    <a href="mailto:martin-us@hins****ood.com">martin-us@hins****ood.com</a>
+    address.</p>
+
+    <p>What if I go back to the UK and take my phone with me. Granted some of
+    the apps are US specific, like a Walmart app, but most of the ones that I
+    have bought would not have a problem. And what about the crap excuse of
+    “tax” legal issues. What a load of tripe…. My Google phone and apps do not
+    have this problem! I was barely off the plane when I saw US apps in $ and
+    could buy them with either my US credit card or my UK one.</p>
+
+    <p>Not only that, but my phone is tightly integrated to Windows Live…
+    SkyDrive, Facebook, Twitter among other things… it is just a pity that it is
+    using the wrong Live ID.</p>
+
+    <p>What the heak Microsoft! Why are you driving me away!</p>
+
+    <h3>Future Burn – Holy mother of….</h3>
+
+    <p>Do you even realise what you loose when you create a new live ID? Can you
+    name all of the services that use Live Billing that you will loose
+    continuity on when you change country?</p>
+
+    <p>Here is the small list that affects me:</p>
+
+    <ul>
+
+    <li><strong>Xbox Live</strong> – Achievements, Gamer Score, Content
+    (thousands of dollars worth), Membership  </li>
+
+    <li><strong>SkyDrive Storage</strong> – Photos, Files  </li>
+
+    <li><strong>Zune</strong> – I have some movies bought in the UK and some in
+    the US  </li>
+
+    <li><strong>Office 360</strong> – Documents  </li>
+
+    <li><strong>Windows Phone</strong> – Integration  </li>
+
+    <li><strong>MSDN Subscriptions</strong>  </li>
+
+    <li><strong>Azure Services</strong> – Online services, Servers, etc..  </li>
+
+    <li><strong>TFS Azure</strong> – Source Control, Work Item Tracking …
+    etc.<br /><em><strong>NOTE: </strong>One of the folks from the product team
+    looked me up at the last bash and they are aware of the issue as it would
+    relate to TFS Service. To that end they will not be using Live billing.
+    </em> </li>
+
+    <li><strong>Windows 8 Login</strong> – Settings, Wallpapers and Tight
+    integration on all levels </li>
+
+    </ul>
+
+    <p>With Xbox, Windows Phone and Windows 8 all using your Live ID for login
+    into the system the problem hits ALL of Microsoft's services.</p>
+
+    <ul>
+
+    <li>You cant use your new countries payment methods  </li>
+
+    <li>You can’t access any features that are country specific </li>
+
+    </ul>
+
+    <p><img title="windows-live" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="windows-live"
+    src="http://blog.hinshelwood.com/files/2011/10/windows-live.jpg" width="300"
+    height="301"/><br /><strong>Figure: I am trying to decide if this is a
+    joke</strong></p>
+
+    <p>Yes, our online world comes together a long as you stay in the one
+    country for the rest of your life!</p>
+
+    <h3>Bottom Line</h3>
+
+    <p>Like me, are screwed! For now…</p>
+
+    <p>The only possible solution that MUST be in place for Hosted Services
+    &amp; Windows 8 requires two things:</p>
+
+    <ul>
+
+    <li>The ability to change your billing region  </li>
+
+    <li>The ability for exiting screwed users to merge all of there content,
+    data, services and profile data into a single profile </li>
+
+    </ul>
+
+    <p><strong><em>What do you think is going to be the response from Enterprise
+    when their employees start having issues with signing into their laptops,
+    desktops and phones!</em></strong></p>
+
+    <blockquote><p><em>“I am sorry, you may have bought that app from the US
+    store and then moved to the US, but you can no longer buy it let alone use
+    it. And that is just tough!”<br />-Fictitious Live Rep.</em></p>
+
+    </blockquote>
+
+    <h3>What can I do?</h3>
+
+    <p>The only way to even attempt to fix this is to make sure that Microsoft
+    realises how big this problem is now, and how it will affect users in the
+    future.</p>
+
+    <ul>
+
+    <li><strong>User Voice (Visual Studio): </strong><a
+    href="http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/2289385-allow-user-to-change-the-region-for-windows-live-i"><strong>Allow
+    user to change the region for Windows Live ID billing</strong></a>  </li>
+
+    <li><strong>User Voice (Windows Phone): </strong><a
+    title="http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no"
+    href="http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no"><strong>Allow
+    changing your windows id location</strong></a> </li>
+
+    </ul>
+
+    <p>While your vote here, or rants on your own blog may not help, it is the
+    best we can do….</p>
+  - ''
+  post_id: '3830'
+  post_date: '2011-10-01 12:24:16'
+  post_date_gmt: '2011-10-01 19:24:16'
+  post_modified: '2011-10-01 12:24:16'
+  post_modified_gmt: '2011-10-01 19:24:16'
+  comment_status: open
+  ping_status: open
+  post_name: allow-user-to-change-the-region-for-windows-live-id-billing
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '431477728'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _thumbnail_id
+    meta_value: '8624'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBJ8ab
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474907143;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10797;}i:1;a:1:{s:2:"id";i:9443;}i:2;a:1:{s:2:"id";i:10496;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-10-01-allow-user-to-change-the-region-for-windows-live-id-billing.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1121'
+  comment:
+  - comment_id: '1075'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 50.135.56.181
+    comment_date: '2012-01-06 10:11:00'
+    comment_date_gmt: '2012-01-06 18:11:00'
+    comment_content: The Live ID Billing problem has been solved for TFS Service (TFS Azure)...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '402608229'
+  - comment_id: '1076'
+    comment_author: >-
+      Introduction to Visual Studio 11 Team Foundation Service - Where
+      Technology Meets Teamwork | Where Technology Meets Teamwork
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.nwcadence.com/introduction-to-visual-studio-11-team-foundation-service/
+    comment_author_IP: 208.109.181.28
+    comment_date: '2012-02-29 09:01:57'
+    comment_date_gmt: '2012-02-29 17:01:57'
+    comment_content: >-
+      [...] users, or users that move around the world you will need to be a
+      little careful as it is not currently possible for a user to change the
+      region associated with their Windows Live ID for bil.... Team Foundation
+      Service has mitigated this by not using Live Billing, but remember that
+      you can [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1330534917.44";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1330553816.87";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1077'
+    comment_author: mauvis99
+    comment_author_email: g_u_i@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 121.98.240.148
+    comment_date: '2012-03-24 15:08:00'
+    comment_date_gmt: '2012-03-24 22:08:00'
+    comment_content: "Hi,\n\_\nI have started a thread on the Windows Phone 7 feedback site but need people to vote. We need to get this sorted, sick of not being able to change my region!\n\_\nPlease go to http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2712097-allow-me-to-change-my-windows-live-id-region\n\_\nCheers."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '475490365'
+  - comment_id: '1078'
+    comment_author: Rakshit Bakshi
+    comment_author_email: rakshit_dosti@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 14.200.18.231
+    comment_date: '2012-09-21 07:55:00'
+    comment_date_gmt: '2012-09-21 14:55:00'
+    comment_content: >-
+      HI Martin, I am having same dilemma as described above.  How can we change
+      the billing country/region?  Can you please advise?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1075'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '402608229'
+    - meta_key: dsq_post_id
+      meta_value: '657879742'
+  - comment_id: '1079'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 131.107.165.94
+    comment_date: '2012-09-21 10:29:00'
+    comment_date_gmt: '2012-09-21 17:29:00'
+    comment_content: >-
+      Which service are you having an issue with? You CAN NOT change your
+      billing region for Live ID...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1078'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '657879742'
+    - meta_key: dsq_post_id
+      meta_value: '658037574'
+  - comment_id: '1080'
+    comment_author: 'The Windows 8 ecosystem: 5 best and 5 worst features | EDU-Grid'
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 184.173.246.19
+    comment_date: '2012-10-31 04:33:02'
+    comment_date_gmt: '2012-10-31 04:33:02'
+    comment_content: >-
+      [...] however, would just prefer that you “hold tight” for now.      
+      Filed Under: Best Degrees Tagged With: best degrees, edu [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351683182.94";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351711781.37";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1081'
+    comment_author: 'The Windows 8 ecosystem: 5 best and 5 worst features | Tux Doc'
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 72.1.241.197
+    comment_date: '2012-10-31 06:34:51'
+    comment_date_gmt: '2012-10-31 06:34:51'
+    comment_content: '[...] however, would just prefer that you “hold tight” for [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351690491.48";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351712726.61";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1082'
+    comment_author: 'The Windows 8 ecosystem: 5 best and 5 worst features | Daily News Online'
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 184.173.245.21
+    comment_date: '2012-11-04 10:21:23'
+    comment_date_gmt: '2012-11-04 10:21:23'
+    comment_content: '[...] however, would just prefer that you “hold tight” for [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352053283.64";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352059349.25";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1083'
+    comment_author: Pedro Miranda
+    comment_author_email: pixotta@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 158.169.131.14
+    comment_date: '2013-01-17 01:41:00'
+    comment_date_gmt: '2013-01-17 01:41:00'
+    comment_content: >-
+      My problem is no longer the change of Live ID. Moving countries 3 times in
+      6 years I was forced to create 2 new accounts in two different countries.
+      The real bonus would come from the possibility to merge all the accounts I
+      have into one, and having of course the services from the country where I
+      live in now.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '770767716'
+  - comment_id: '1084'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 76.104.188.230
+    comment_date: '2013-01-17 06:38:00'
+    comment_date_gmt: '2013-01-17 14:38:00'
+    comment_content: >-
+      Add your comments here:
+      http://forums.xbox.com/xbox_forums/xbox_feedback/f/133/t/437883.aspx
+
+
+      Might help!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1083'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '770767716'
+    - meta_key: dsq_post_id
+      meta_value: '770908936'

@@ -1,0 +1,161 @@
+post:
+  title: Testing in the modern application lifecycle
+  link: https://nkdagility.com/blog/testing-in-the-modern-application-lifecycle/
+  pubDate: Tue, 25 Sep 2012 02:00:46 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=8829
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.</p>\n<ul>\n<li>Update\_2013-02-19 -\_Featured in\_<a href=\"http://blog.hinshelwood.com/files/2013/02/Hinshelwood-ALMMag-Vol1Issue2.pdf\">ALM Mag Vol 1 Issue 2</a>. If you want to subscribe to future editions I have a\_<a href=\"http://www.member.almmag.com/sales.php?coupon=foundingmember\">discount subscription</a>\_that you can use.</li>\n</ul>\n<p>As we move into, or you might already be there, the era of agile and the delivery timetable shrinks to only a few weeks we can no longer do all of our testing in isolation. We need to work with the Engineers, Analysts and Operations on Development Teams and effectively swarm to solve the problems. Wither that problem is adding new features, fixing a bug or deploying to an environment it is now in the scope of all the departments and this new world does not recognise even the idea of the silo.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image_thumb52.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Manual Test makes sure that we build what we need and no more\" alt=\"Manual Test makes sure that we build what we need and no more\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb5_thumb1.png\" width=\"640\" height=\"369\" border=\"0\" /></a><br /><strong>Figure: Manual Test makes sure that we build what we need and no more</strong></p>\n<p>It is no longer acceptable to “<em>test quality In</em>” as this is far too expensive and we need to move to a model of iteratively “<em>building quality in</em>” so that each and every iteration outputs working software that is of releasable quality. The only way to do this is to be able to test, measure and learn with very tight feedback loops…</p>\n<h3 class=\"label-problem\">The Problem</h3>\n<p>There are a number of key ailments that when one tries to deliver fully tested software at least every 30 days become\_ acute problems and blockers. Many teams fail because they do not realise that all of their process will need to change in order to achieve agility of purpose. The three main stumbling blocks are:</p>\n<ul>\n<li><strong>Where am I?</strong> – What has been tested and what has not</li>\n<li><strong>Actionable Bugs</strong> – Collecting enough information to reproduce</li>\n<li><strong>Automation Generation</strong> – Code generation from the recorded data</li>\n</ul>\n<p>This things however are not insurmountable, but do need defined.</p>\n<h4 class=\"label-problem\">Where am I?</h4>\n<p>It is hard for testing teams in this new era to even know where they are in the testing cycle. To be honest they found it hard even in the world of linier testing as the shear amount of data collected cam be monstrous. The traditional method would be to have a document that contains the test itself and some sort of spread sheet that allows them to track progress.</p>\n<p>But if you have a multitude of flat data sheets to record your test status it is at most impossible and at least incredibly time consuming to formulate any sort of reporting from the desperate data sources. It is hard enough to know which tester is taking which tests let alone which tests have been run against which version of the software under test. This cam make testing incredibly opaque and more of an art than a science.</p>\n<h4 class=\"label-problem\">Actionable Bugs</h4>\n<p>When a bug is found it is eminently more difficult to figure out where it is and what to fix it if you lack even the most basic information on out it came to pass. If we do not have the steps that were followed then reproducing all but the simplest of issues can be impossible resulting in wasted time fro both the developer and the tester as they go back and fourth in a kind of bug ping-pong that gets nothing done.</p>\n<p>Reducing the cycle time of bugs is equally hard and the more information that we have we collect during the lead up to the failure greatly increased the likelihood that we will be able to find and fix the issue.</p>\n<h4 class=\"label-problem\">Automation Generation</h4>\n<p>Regardless of finding a test while proving a bug exists or does not, or if that test verifies that a feature now correctly exists if we are to attain agility with quality we need to be able to always run this test. This poses a problem as our tests multiply iteration on iteration and very quickly to a point where we can only pick and choose which tests need to be run.</p>\n<p>To combat this it would be awesome if we could take all of the data collected and generate an automation that can be run time and again to verify that we have not broken anything. This automation needs to be easily regenerated so that we do not spend large amounts of time maintaining it in the scope of a continuously evolving\_ application.</p>\n<p>Achieving quality product with ought automation generation can make testing very expensive and can even put the road to “testing quality\_ in” beyond the means of many organisations.</p>\n<h3 class=\"label-integration\">The Integration</h3>\n<p>There are a number of points within which you can integrate your tools with Microsoft test Manager and give users a seamless experience across a multitude of technologies.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image40.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Microsoft Test Manager Architecture\" alt=\"Microsoft Test Manager Architecture\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb38.png\" width=\"640\" height=\"358\" border=\"0\" /></a><br /><strong>Figure: Microsoft Test Manager Architecture</strong></p>\n<p>These integration points currently cover two areas, collecting data and recording and playback.</p>\n<ul>\n<li><strong>Data Collector</strong> – Extending a data recorder</li>\n<li><strong>Recorder /Playback</strong> – Extend the recording an playback features</li>\n<li><strong>Test Runner</strong> – Building a custom Test Runner</li>\n</ul>\n<h4 class=\"label-integration\">Integration: Data Collector</h4>\n<p>Microsoft Test Manager provides a bunch of data collectors out of the box for collecting information to both create actionable bugs and to enable the recording / playback functionality. You can create your own data collectors to capture whatever you want as part of the manual test run. These collectors can run on the client or any of the machines under test via the test agent.</p>\n<h4 class=\"label-integration\">Integration: Recorder / Playback</h4>\n<p>Being able to extend the recording / playback functionality means that applications that might traditionally not work with the standard recorder. The standard recorder is based on the same technology that enables a screen reader to work and if those features are not present in the application under test it will fail. To make it work you would need to create an extension that would allow you to for example, testing using Chrome or on a Java application.</p>\n<h4 class=\"label-integration\">Integration: Test Runner</h4>\n<p>There may indeed be the need to replicate a subset of or the entire functionality of Microsoft Test Manager in order to run in environments and systems not currently supported by MTM. This can be done using the rich set of API’s that allow you to import test results and interact with any of the Test Case and Test Result data.</p>\n<h3 class=\"label-solution\">The Solutions</h3>\n<p>In order for testers to become first class citizens in the Development Team we need to be able to be able to effectively turn the quagmire that is traditional test tracking into a well oiled repeatable machine that takes all of the mundane tasks away from testers and let them concentrate on validating the delivery of value to the customer.</p>\n<p>Microsoft Test Manager provides a framework to achieve this by allowing you to easily:</p>\n<ol>\n<li>Create and Manage your many Test Cases</li>\n<li>Build Test Suites out of queries, requirements or manually</li>\n<li>Execute those test cases and collect data on which tests have been executed against which builds</li>\n<li>Know and understand your test matrix</li>\n<li>Collect enough data automatically to be able to reproduce issues</li>\n<li>Collect enough data to create throw away automation</li>\n</ol>\n<p>These things alone would be enough to make it a must have solution, but add to that the integration described above, mix in a few partners and you have the ambrosia of tests management systems.</p>\n<h4 class=\"label-solution\">Solution: Microsoft Test Manager from Microsoft</h4>\n<p>Microsoft Test Manager provides support for some pretty advanced testing technics and while it is limited to Windows host it can be used against almost any application. It has some limitations on unmanaged and java application, but even most old web application can be fully tested. There are some features, like Intellitrace and Test Impact Analysis that are only supported on managed code, but really those are value adds rather than the core reason to move to MTM.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image41.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"Manage your Microsoft Test Manager Data Collectors\" alt=\"Manage your Microsoft Test Manager Data Collectors\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb39.png\" width=\"640\" height=\"424\" border=\"0\" /></a><br /><strong>Figure: Manage your Microsoft Test Manager Data Collectors</strong></p>\n<p>That said some of the built in data collectors in there are pretty cool:</p>\n<ul>\n<li><strong>Video Recording</strong> – Simply a video of the test session indexed by step</li>\n<li><strong>Intellitrace</strong> – like tivo for developers… debugging forward, backward and sideways</li>\n<li><strong>Code Coverage</strong> – Even for manual test you collect code coverage data</li>\n<li><strong>System Information</strong> – Windows version, running application</li>\n<li><strong>Event Log</strong> – Scrape specified events</li>\n<li><strong>Test Impact Analysis</strong> – log every method hit by your manual test so that we can match that to code paths changed and reduce our test matrix</li>\n</ul>\n<p>These features are awesome additions to the platform but they pale in comparison to the cop de resistance which is the <strong>Action Recorder</strong>. The action test recorder allows you to fast-forward you manual tests and gives one the ability to generate Coded UI tests.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image42.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"Test Manager allows you to manage the Test Steps\" alt=\"Test Manager allows you to manage the Test Steps\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb40.png\" width=\"640\" height=\"384\" border=\"0\" /></a><br /><strong>Figure: Test Manager allows you to manage the Test Steps</strong></p>\n<p>The abilities allow us to both manage our test cases and to record the data, and the test runner allows us to record the results and create actionable bugs. You see all the while that one is executing the tests the data recorders are collecting all of that lovely data and storing it.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image43.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"Microsoft Test Runner in action\" alt=\"Microsoft Test Runner in action\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb41.png\" width=\"640\" height=\"384\" border=\"0\" /></a><br /><strong>Figure: Microsoft Test Runner in action</strong></p>\n<p>And if while running one of your test cases you encounter a nasty little bug, you can have a rich actionable bug generated automatically making it easy for developers to isolate and find the problem.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/image44.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"Microsoft Test Runner created Bugs from nowhere\" alt=\"Microsoft Test Runner created Bugs from nowhere\" src=\"http://blog.hinshelwood.com/files/2012/09/image_thumb42.png\" width=\"640\" height=\"384\" border=\"0\" /></a><br /><strong>Figure: Microsoft Test Runner created Bugs from nowhere</strong></p>\n<p>The tool is in fact that good, as long as you are using managed code. The further you get from the modern development tools the less of these features will be available although you will always get the ability to run test cases and record the data.</p>\n<p>This is one of the best test tools in the industry and one of the few that help the manual tester.</p>\n<h4 class=\"label-solution\">Solution: Web Test Manager from Sela</h4>\n<p>In an effort to allow user more flexibility in managing their test cases and to allow your test cases to be run against any environment Sela have created their Web Test Manager which takes the entire Test Runner into the web.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-01.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\" Managing your Plans and Suites from the web\" alt=\" Managing your Plans and Suites from the web\" src=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-01_thumb.png\" width=\"640\" height=\"315\" border=\"0\" /></a><br /><strong>Figure: Managing your Plans and Suites from the web</strong></p>\n<p>Not only can you manage your plans and suits but they have also built a platform independent test runner so you can run your tests on Linux and against any browser.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-02.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Edit and Run test cases from the web\" alt=\"Edit and Run test cases from the web\" src=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-02_thumb.png\" width=\"413\" height=\"422\" border=\"0\" /></a><br /><strong>Figure: Edit and Run test cases from the web</strong></p>\n<p>And what solution would be complete without the ability to see which tests have been passing and failing.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-03.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"View test runs and results in the web\" alt=\"View test runs and results in the web\" src=\"http://blog.hinshelwood.com/files/2012/09/Sella-WTM-03_thumb.png\" width=\"640\" height=\"284\" border=\"0\" /></a><br /><strong>Figure: View test runs and results in the web</strong></p>\n<p>There are still some rough edges, but Sela shows what can be done for testers leveraging the rich data management system within Team Foundation Server that links our Test Runs to Builds and requirements.</p>\n<h3 class=\"label-conclusion\">Conclusion</h3>\n<p>Even if you are only interested in moving away from Excel and Word for your test management Microsoft Test Manager is the best Manual Testing Management system. The integration that it has with build and Work Item Tracking will make it invaluable for those teams seeking to increase their agility. Do not think that these are in any way silver bullets and while the features are fantastic you may need to make subtle changes to your workflow or your software to take advantage of all of the awesomeness.</p>\n<p>The ultimate goal is to try and reduce the all to common scenario that we have not met the requirements or that we have not met the users expectations. The Manual Testing tools in Team Foundation Server can help you be providing a framework to have acceptance criteria begin to drive your engineering efforts and more frequently meet your customers expectations and reduce the waste inherent in software development.</p>"
+  - ''
+  post_id: '8829'
+  post_date: '2012-09-24 19:00:46'
+  post_date_gmt: '2012-09-25 02:00:46'
+  post_modified: '2012-09-24 19:00:46'
+  post_modified_gmt: '2012-09-25 02:00:46'
+  comment_status: open
+  ping_status: open
+  post_name: testing-in-the-modern-application-lifecycle
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '88'
+  - meta_key: _thumbnail_id
+    meta_value: '8830'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: testing
+  - meta_key: _yoast_wpseo_title
+    meta_value: Testing in the modern application lifecycle
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Manual testing in the world of continuous delivery needs some serious
+      tools that support multiple extension points as no one team can think of
+      everything
+  - meta_key: dsq_thread_id
+    meta_value: '857876183'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1hLuiPY
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474386442;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:8868;}i:1;a:1:{s:2:"id";i:8803;}i:2;a:1:{s:2:"id";i:9487;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-09-24-testing-in-the-modern-application-lifecycle.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '846'
+  comment:
+  - comment_id: '1413'
+    comment_author: Testing in the modern application lifecycle | Visual Studio ALM | Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/2797901514/testing-in-the-modern-application-lifecycle
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-09-26 03:38:56'
+    comment_date_gmt: '2012-09-26 10:38:56'
+    comment_content: >-
+      [...] Manual testing in the world of continuous delivery needs some
+      serious tools that support multiple extension points as no one team can
+      think of everything...&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348655936.16";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348674370.27";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1414'
+    comment_author: >-
+      Testing in the modern application lifecycle | NovaTech Consulting |
+      Scoop.it
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-09-26 04:56:10'
+    comment_date_gmt: '2012-09-26 03:56:10'
+    comment_content: >-
+      [...] Manual testing in the world of continuous delivery needs some
+      serious tools that support multiple extension points as no one team can
+      think of everything...&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348660570.46";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348674369.64";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1415'
+    comment_author: >-
+      Testing in the modern application lifecycle | All About SharePoint |
+      Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/sharepoint2010/p/2837132155/testing-in-the-modern-application-lifecycle
+    comment_author_IP: 89.30.105.121
+    comment_date: '2012-09-30 07:04:04'
+    comment_date_gmt: '2012-09-30 14:04:04'
+    comment_content: >-
+      [...] Manual testing in the world of continuous delivery needs some
+      serious tools that support multiple extension points as no one team can
+      think of everything...&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:10:"1349013845";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1349014331.46";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

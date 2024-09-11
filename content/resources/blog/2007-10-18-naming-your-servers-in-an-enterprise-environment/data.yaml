@@ -1,0 +1,58 @@
+post:
+  title: Naming your servers in an enterprise environment
+  link: >-
+    https://nkdagility.com/blog/naming-your-servers-in-an-enterprise-environment/
+  pubDate: Thu, 18 Oct 2007 21:04:16 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/10/18/naming-your-servers-in-an-enterprise-environment.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>This is an issue of contention in many companies, but I am firmly of the belief that server names should be at least consistent and at most should be able impart a large amount of information at a glance. Information should include:</p> <ul> <li>Where the server is</li> <li>What operating system it is running</li> <li>wither it is an application or database server (or a virtual hosting environment server)</li> <li>What the application or system it is running</li> <li>the environment it is for</li></ul> <p>This is a tall order, and I have worked many places that have server names like \"glasgow1\", \"glasgow2\", \"exchange\" or \"fileserver\". I even went through a phase of naming servers \"Titan\" or \"Colossus\". This is fine if you have at most 5 servers, but once you get to the data center or multiple data center level you need something more meaningfully.</p> <p>All this was knocked out of me when I started working for Merrill Lynch. They have thousands of servers and applications and systems that consist of 70-80 servers at a time and you need to be able to identify servers on your network more easily.</p> <p>I grew to like Merrill's naming convention which is:</p> <blockquote> <p><em>[where][virtual?][OS][Application|database][system][environment][identifier]</em></p></blockquote> <p>If you had a server in London that runs on a virtual host with a Microsoft operating system that is an application server for SharePoint in the development environment, and it is the first server you would get [elon][v][m][ap][sp][d][01] (elonvmapspd01).</p> <p>Lets look at an example\_where you have 2 web servers, 1 application server and 1 SQL server for your SharePoint production deployment:</p> <blockquote> <p><em>Glasgow1, Glasgow2, Glasgow3, Glasgow4</em></p></blockquote> <p>Now add your development, Quality Assurance and User Acceptance Testing environments:</p> <blockquote> <p><em>Glasgow1, Glasgow2, Glasgow3, Glasgow4</em>, <em>Glasgow5, Glasgow6, Glasgow7, Glasgow8</em>, <em>Glasgow9, Glasgow10, Glasgow11, Glasgow12</em>, <em>Glasgow13, Glasgow14</em></p></blockquote> <p>Now, in the intervening time, the company adds a TFS server development environment for testing:</p> <blockquote> <p><em>Glasgow1, Glasgow2, Glasgow3, Glasgow4</em>, <em>Glasgow5, Glasgow6, Glasgow7, Glasgow8</em>, <em>Glasgow9, Glasgow10, Glasgow11, Glasgow12</em>, <em>Glasgow13, Glasgow14</em>, Glasgow15, Glasgow16</p></blockquote> <p>Do you see the problem. If you now want to add another web server to your production SharePoint it would be \"Glasgow17\". Oh, and we need to add our TFS UAT environment, and lets not forget a SharePoint disaster recovery environment.</p> <blockquote> <p><em>Glasgow1, Glasgow2, Glasgow3, Glasgow4</em>, <em>Glasgow5, Glasgow6, Glasgow7, Glasgow8</em>, <em>Glasgow9, Glasgow10, Glasgow11, Glasgow12</em>, <em>Glasgow13, Glasgow14, Glasgow15, Glasgow16, Glasgow17, Glasgow18, Glasgow19, Glasgow20, Glasgow21, Glasgow22, Glasgow23, Glasgow24, Glasgow25</em><em>\_</em></p></blockquote> <p><strong>Do you remember which server is which? Try and identify a development SharePoint application server? :)</strong></p> <p><strong></strong>\_</p> <p>This method just does not work in an enterprise environment...</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/Fail\" rel=\"tag\">Fail</a>\_</div>"
+  - ''
+  post_id: '299'
+  post_date: '2007-10-18 21:04:16'
+  post_date_gmt: '2007-10-18 21:04:16'
+  post_modified: '2007-10-18 21:04:16'
+  post_modified_gmt: '2007-10-18 21:04:16'
+  comment_status: open
+  ping_status: open
+  post_name: naming-your-servers-in-an-enterprise-environment
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '320874000'
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6O4kC
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465643179;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11286;}i:1;a:1:{s:2:"id";i:9909;}i:2;a:1:{s:2:"id";i:9211;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-10-18-naming-your-servers-in-an-enterprise-environment.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '340'

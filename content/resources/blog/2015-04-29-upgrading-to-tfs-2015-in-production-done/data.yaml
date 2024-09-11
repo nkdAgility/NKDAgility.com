@@ -1,0 +1,1705 @@
+post:
+  title: Upgrading to TFS 2015 in production - DONE
+  link: https://nkdagility.com/blog/upgrading-to-tfs-2015-in-production-done/
+  pubDate: Wed, 29 Apr 2015 18:45:30 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11308
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.</p>\r\n<div class=\"bs-callout bs-callout-info\">\r\n<p>It looks like this may have been the <a href=\"http://blogs.msdn.com/b/bharry/archive/2015/04/27/first-tfs-2015-rc-production-upgrade-i-know-of.aspx\" target=\"_blank\">first upgrade to TFS 2015 in production</a>, at least beyond internal consulting company's.</p>\r\n<p>[pl_button type=\"info\" link=\"http://visualstudio.com\" target=\"blank\"]Download 2015 today[/pl_button]\r\n</p>\r\n</div>\r\n<p>With the availability of a fully supported version of TFS 2015 I will be upgrading my customers production TFS server to TFS 2015 so that they can get all of the goodies.</p>\r\n<p>This customer does not have huge TFS databases with only circa 9GB of data in their only configuration database so this should not take long. But remember, there are significant schema changes in TFS 2015 and you will need at least the same amount of free space as data that you have in TFS.</p>\r\n<div class=\"bs-callout bs-callout-warning\">\r\n<p>If you are on TFS 2010 (or any prior version) then remember that support ends at the end of July and that you should upgrade. If you are upgrading anyway then you should upgrade to TFS 2015.</p>\r\n</div>\r\n<p>For prepping for this upgrade I ran a bunch of installs and test upgrades over the weekend and we too backups. For backup we have a two party system. We have a SQL Server full backup that was taken when the TFS server was off, that is to prevent the need for marked transaction logging for a possible restore if anything goes wrong. We also took a snapshot of the TFS application tier to enable a much quicker re-configuration of TFS 2013. While this does not include the SQL databases that are on the SQL Server cluster, it does include things like .NET version and IIS configuration.</p>\r\n<table class=\"table\">\r\n<tbody>\r\n<tr>\r\n<td valign=\"top\" width=\"80\">TFS Instance</td>\r\n<td valign=\"top\" width=\"80\">Database</td>\r\n<td valign=\"top\" width=\"80\">Size</td>\r\n<td valign=\"top\" width=\"80\">Duration</td>\r\n<td valign=\"top\" width=\"80\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"80\">CustomerA</td>\r\n<td valign=\"top\" width=\"80\">Tfs_Configuration</td>\r\n<td valign=\"top\" width=\"80\">590mb</td>\r\n<td valign=\"top\" width=\"80\">2 minutes</td>\r\n<td valign=\"top\" width=\"80\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"80\">&nbsp;</td>\r\n<td valign=\"top\" width=\"80\">Tfs_DefaultCollection</td>\r\n<td valign=\"top\" width=\"80\">9gb</td>\r\n<td valign=\"top\" width=\"80\">9 minutes</td>\r\n<td valign=\"top\" width=\"80\">&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>The duration for this server upgrade will be recorded above. This time is totally dependent on hardware and network communication.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image001.png\" alt=\"clip_image001\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>As usual I will be installing the losable bits on the C drive with the operating system. This is consistent with modern best practices.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image002.png\" alt=\"clip_image002\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>The install is pretty quick and only took a few minutes, [same as a fresh install of TFS 2015]. As I am just running the install and relying on the TFS bits to get rid of the old bits this seems pretty fast.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image003.png\" alt=\"clip_image003\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>As I mentioned when I was installing a clean TFS 2015 the installer will pop the configuration wizard and the wizard will detect of it is an upgrade and automatically launch the upgrade wizard. You will need all of the Server names and accounts with passwords that TFS runs under to complete the upgrade.</p>\r\n<p>Note: If your IS department has messed with the permissions of your TFS or SQL servers you may need to make sure that you have Server Admin and SysAdmin on the required boxes before you proceed.</p>\r\n<p>TFS 2015 will make sure that you have all of the required pre-requisites before you start the install, and you may need to fix a few things before you proceed.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image004.png\" alt=\"clip_image004\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>First you need to verify the database settings. This will default to the same settings as your previous server as was previously set and will show the databases available. If you are moving servers then you should change to the new DB server now so that you don’t accidentally upgrade the current production databases. However in this case I am doing an in place upgrade to TFS 2015.</p>\r\n<p>As this is a big upgrade you will need to select two confirmation checks. First is new and gets you to verify that you have enough disk space to proceed with a FULL recovery model. Typically you need at least twice the space that your databases currently take up and I like to make sure that there is a little more. I have 22GB free and 9GB of data to upgrade.</p>\r\n<p>The second is the usual \"yes, I am not a dumb ass and I have taken a backup\" checkbox. At this point… go validate that you have a backup! Then check the box…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image005.png\" alt=\"clip_image005\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>As a security precaution the TFS server will always ask you to enter your credentials again for the TFS Service account. Have them handy.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image006.png\" alt=\"clip_image006\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>The TFS Cache folder defaults to the C drive and you may want to stick it somewhere else. This is not a speed issue, but one of space.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image007\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image007.png\" alt=\"clip_image007\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>By default the build agent bits are put onto the server but it will not configure it. If you want it to be configured you need to tick the box and give it credentials. You also get to set the folder that is used for the temporary build bits.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image008\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image008.png\" alt=\"clip_image008\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>If you have reporting services configured now this will be ticked by default, if not it will be unticked. If you want to change this, then now is the time to choose.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image009\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image009.png\" alt=\"clip_image009\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>If you have reporting services pre-configured then you will need to make sure that you account has permission to read the URL's from the WMI interface. Easiest way to achieve this is to have Admin on the Reporting Services instance. This can be controversial as you may have more than one instance in that server, however this is a read only action and permissions can be removed after.</p>\r\n<p>If you need to configure reporting later you can go back a page and NOT configure reporting…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image010\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image010.png\" alt=\"clip_image010\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>In this case the nice folks in IS gave me temp permission to proceed and all was well in the world again.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image011\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image011.png\" alt=\"clip_image011\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>AS it might be on a different location you also need to select the location of your warehouse. If necessary the upgrade wizard will upgrader the warehouse rather than rebuild it to save time.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image012\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image012.png\" alt=\"clip_image012\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Make sure that you can also access analysis services and have the correct permission to configure things. Should be OK, but always hit the \"test\" button so that you are sure.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image013\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image013.png\" alt=\"clip_image013\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>It is very recommended to use a separate account for the report reader account, however in this case I do not have one. TFS lets you use the same service account that it runs under.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image014\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image014.png\" alt=\"clip_image014\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>If your organisation still has an on-premises SharePoint instance I would highly recommend that you move to Office 365, to be hones I also recommend moving to VSO, and not to integrate with TFS. The value is not worth the pain. I am happy with my current customer, although they are using an on-premises TFS they don’t have on-premises SharePoint.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image015\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image015.png\" alt=\"clip_image015\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>You can review your configuration before you move forward with the verification. Once you are happy click verify…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image016\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image016.png\" alt=\"clip_image016\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>My customer has a custom configuration in TFS that is not really recommended ort supported. They have created a custom website in IIS that allows them to have TFS on port 80. TFS is by default installed on port 8080 and in a virtual directory as SharePoint normally exists on the box and coexisting with it is hard. As we don’t have SharePoint this configuration is fine, but non-standard. If you have this configuration you will have to manually undo it for every upgrade and redo it after…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image017\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image017.png\" alt=\"clip_image017\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once you have corrected the IIS configuration the errors disappear and you will almost always have some sort of warning. Here the cache folder is not considered big enough, ok… and as we know the Reporting account is the same as the TFS Service one…ok… and Analysis Services is not set to start automatically… I will talk to IS later for that one… so no show stoppers…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image018\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image018.png\" alt=\"clip_image018\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Time to configure.. If you hit the configuration button it will start the real upgrade. At this point there is no way back apart from a database restore, which is why you have to have a backup.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image019\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image019.png\" alt=\"clip_image019\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once it gets to the collection the UI will show a huge number of steps (608) and each of the areas in the DB as they are upgraded. You can either sit and watch it or click close and wait.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image020\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image020.png\" alt=\"clip_image020\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once done you will get a lovely green tick and then be able to view the upgraded TFS. In my case this erred out due to the non-standard configuration of the original TFS server and I had to manually create the TFS site in IIS.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image021\" src=\"https://nkdagility.com/wp-content/uploads/2015/04/clip_image021.png\" alt=\"clip_image021\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Creating it was easy, it just a cse of copying the OOB IIS and making sure that you add the new Queue application under the root.</p>\r\n<h2>Conclusion</h2>\r\n<p>Although TFS 2015 is currently only in RC it does have a Go-Live licence. Go-Live licences are somewhat of a tradition of the Developer Division that allows them to release a fully supported version of the product early so that more folks try it. The reality for CTP's is that no one will really put it through its paces until its supported and can be installed in production. Go-Live enables this..</p>\r\n<p>Go on, be a kid again and install Team Foundation Server 2015 RC in production. Its fully supported and has some awesome new features…</p>"
+  - >-
+    With the availability of a fully supported version of TFS 2015 I will be
+    upgrading my customers production TFS server to TFS 2015 so that they can
+    get all of the goodies.
+  post_id: '11308'
+  post_date: '2015-04-29 19:45:30'
+  post_date_gmt: '2015-04-29 18:45:30'
+  post_modified: '2015-04-29 21:05:18'
+  post_modified_gmt: '2015-04-29 20:05:18'
+  comment_status: open
+  ping_status: open
+  post_name: upgrading-to-tfs-2015-in-production-done
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Upgrading to TFS 2015
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '68'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1DCa2Yc
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _pl_karma
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '3723289034'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474922604;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11286;}i:1;a:1:{s:2:"id";i:5702;}i:2;a:1:{s:2:"id";i:11241;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2015-04-29-upgrading-to-tfs-2015-in-production-done.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1210'
+  comment:
+  - comment_id: '11909'
+    comment_author: Dew Drop &#8211; April 30, 2015 (#2004) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2015/04/30/dew-drop-april-30-2015-2004/
+    comment_author_IP: 168.62.48.19
+    comment_date: '2015-04-30 13:13:21'
+    comment_date_gmt: '2015-04-30 12:13:21'
+    comment_content: >-
+      [&#8230;] Upgrading to TFS 2015 in production – DONE and Install TFS 2015
+      today and How to rename a Team Project in TFS 2015 (Martin Hinshelwood)
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1430396001.393941;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1430399828.61323;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11913'
+    comment_author: Jeff
+    comment_author_email: jladd45205@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 71.47.209.56
+    comment_date: '2015-04-30 22:05:00'
+    comment_date_gmt: '2015-04-30 21:05:00'
+    comment_content: >-
+      I am following the same steps as you described and after installing from
+      ISO its asking me for product key but my msdn account says  No product key
+      is required.  .Did you run into this?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1996685716'
+  - comment_id: '11914'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-04-30 22:37:00'
+    comment_date_gmt: '2015-04-30 21:37:00'
+    comment_content: >-
+      You should not get asked for a key for the 2015 bits. You might get it if
+      your key is already expired...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11913'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1996685716'
+    - meta_key: dsq_post_id
+      meta_value: '1996741277'
+  - comment_id: '11937'
+    comment_author: Mick
+    comment_author_email: mick.tosk@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 38.65.193.38
+    comment_date: '2015-05-05 20:00:00'
+    comment_date_gmt: '2015-05-05 19:00:00'
+    comment_content: >-
+      Hi Martin,
+
+
+
+      I am trying to setup a proof-of-concept here at Ignite prior to upgrading
+      when I get back to Denver. However, I am seeing the attached error
+      message. 
+
+      I restored the databases using TFS 2015 restore. Database owner is "sa" on
+      the local machine. I have tested with the databases being in simple and
+      full recovery model. Same issue.
+
+      What SQL account is trying to run the operation? Is it the TFS service
+      account? Or does the upgrade run under a different security context?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2006654438'
+  - comment_id: '11938'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.194.116
+    comment_date: '2015-05-05 20:08:00'
+    comment_date_gmt: '2015-05-05 19:08:00'
+    comment_content: >-
+      Are you restoring the DB to a domain joined server? Coz if the original is
+      domain joined then that might be it?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11937'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2006654438'
+    - meta_key: dsq_post_id
+      meta_value: '2006674009'
+  - comment_id: '11939'
+    comment_author: Mick
+    comment_author_email: mick.tosk@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 38.65.193.38
+    comment_date: '2015-05-05 20:19:00'
+    comment_date_gmt: '2015-05-05 19:19:00'
+    comment_content: >-
+      Yes, both servers (production and proof-of-concept) are on our corporate
+      domain. I added the domain account that runs the TFS service as a sysadmin
+      in SQL and change that account to the owner of the SQL database. 
+
+      I also tried the TFS commands noted in the clone process. Should I have
+      done that?
+
+      https://msdn.microsoft.com/en-us/library/ms404869.aspx#clone
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11938'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2006674009'
+    - meta_key: dsq_post_id
+      meta_value: '2006722543'
+  - comment_id: '11940'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.194.116
+    comment_date: '2015-05-05 21:10:00'
+    comment_date_gmt: '2015-05-05 20:10:00'
+    comment_content: >-
+      No, you should not follow the clone process. You need to a) restore DB's
+      b) Upgrade to TFS 2015, c) Unconfigure TFS, d) run ChangeServerId, and
+      then e) reconfigure TFS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11939'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2006722543'
+    - meta_key: dsq_post_id
+      meta_value: '2006939836'
+  - comment_id: '11941'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.194.116
+    comment_date: '2015-05-05 21:10:00'
+    comment_date_gmt: '2015-05-05 20:10:00'
+    comment_content: Can you email me the log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11937'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2006654438'
+    - meta_key: dsq_post_id
+      meta_value: '2006941195'
+  - comment_id: '11982'
+    comment_author: oneParty
+    comment_author_email: uni.quail.egg.fan@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 96.18.103.12
+    comment_date: '2015-05-11 00:03:00'
+    comment_date_gmt: '2015-05-10 23:03:00'
+    comment_content: >-
+      I performed this upgrade over the weekend.  Two weeks ago, I upgraded from
+      2010 to 2013.
+
+
+
+      If I hadn't done that, this weekend would've been much worse!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2017419409'
+  - comment_id: '11984'
+    comment_author: oneParty
+    comment_author_email: uni.quail.egg.fan@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 96.18.103.12
+    comment_date: '2015-05-11 00:30:00'
+    comment_date_gmt: '2015-05-10 23:30:00'
+    comment_content: >-
+      What version of TFS was your source?  That is, what SQL Server version? 
+      There are compatibility issues, and it makes a big difference.  What
+      process template are you using?
+
+
+
+      Anything further and we should meet at El Taco de Mexico.  Santa Fe and
+      7th ish.  Get the green chile chili.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11937'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2006654438'
+    - meta_key: dsq_post_id
+      meta_value: '2017446278'
+  - comment_id: '11989'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-05-11 09:42:00'
+    comment_date_gmt: '2015-05-11 08:42:00'
+    comment_content: >-
+      You can upgrade directly from 2010 to 2015, however I would have done what
+      you did as well :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11982'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2017419409'
+    - meta_key: dsq_post_id
+      meta_value: '2017879193'
+  - comment_id: '12126'
+    comment_author: Steve
+    comment_author_email: steve.landsaw@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 207.250.204.185
+    comment_date: '2015-05-28 19:27:00'
+    comment_date_gmt: '2015-05-28 18:27:00'
+    comment_content: >-
+      I performed this upgrade moments ago in our dev environment (TFS 2013
+      Update 4). I had two project collections, one approximately 15GBs and the
+      other about 70GBs. Total upgrade time was about an hour and 45 minutes.
+      This was done on a completely virtualized dual tier setup also. 
+
+      Initial upgrade impressions are very favorable! :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2050171979'
+  - comment_id: '12276'
+    comment_author: Alan Carlos
+    comment_author_email: alan@nddigital.com.br
+    comment_author_url: ''
+    comment_author_IP: 205.185.198.220
+    comment_date: '2015-06-11 13:27:00'
+    comment_date_gmt: '2015-06-11 12:27:00'
+    comment_content: Hi Martin, thanks for sharing and great blog!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2073549002'
+  - comment_id: '12316'
+    comment_author: Garry smith
+    comment_author_email: garry@revealit.io
+    comment_author_url: ''
+    comment_author_IP: 60.225.208.158
+    comment_date: '2015-06-13 23:13:00'
+    comment_date_gmt: '2015-06-13 22:13:00'
+    comment_content: >-
+      Can developers using visual studio 2013 use TFS 2015.? I have some teams
+      who are happy to move to vs2015 now abut one team needs to stay on vs 2013
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2077793978'
+  - comment_id: '12323'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-06-14 11:33:00'
+    comment_date_gmt: '2015-06-14 10:33:00'
+    comment_content: >-
+      VS 2012, VS 2013, and VS 2015 are all fully supported with TFS 2015. VS
+      2010 is best effort supported as it drops out of mainstream support next
+      month.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12316'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2077793978'
+    - meta_key: dsq_post_id
+      meta_value: '2078316778'
+  - comment_id: '12828'
+    comment_author: yuzarsiv
+    comment_author_email: mahmoudian121@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 65.49.68.205
+    comment_date: '2015-07-29 12:19:00'
+    comment_date_gmt: '2015-07-29 11:19:00'
+    comment_content: >-
+      Hi
+
+      I have TFS 201305 and I want to migrate to TFS 2015. how can do it? in my
+      server in Application console, select Upgrade?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2162970395'
+  - comment_id: '12830'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.176
+    comment_date: '2015-07-29 18:14:00'
+    comment_date_gmt: '2015-07-29 17:14:00'
+    comment_content: >-
+      You need to download the TFS 2015 ISO from http://visualstudio.com (or
+      MSDN) and install TFS 2015. After the install you will be presented with
+      the Upgrade Wizard. Follow the instructions. 
+
+
+      note: You will need access to all of the passwords that you have
+      configured TFS with and make sure, and I mean really sure, that you have a
+      backup first.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12828'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2162970395'
+    - meta_key: dsq_post_id
+      meta_value: '2163545949'
+  - comment_id: '12876'
+    comment_author: MisterBlat
+    comment_author_email: mrnmrsi.fl@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 204.115.183.4
+    comment_date: '2015-08-06 21:59:00'
+    comment_date_gmt: '2015-08-06 20:59:00'
+    comment_content: "Anyone know what I'm supposed to do to resolve this error?\n\n \tTF401147: The previously configured ports for the Application Tier Web Service site are currently in use.  See the log for additional details.\n\n\n\nI had 2015 RC running over HTTPS, and even if I remove the 443 binding in IIS, it still says the binding is in use.  netstat shows nothing listening on 443."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2178352838'
+  - comment_id: '12889'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-07 08:37:00'
+    comment_date_gmt: '2015-08-07 07:37:00'
+    comment_content: >-
+      You are getting this because the configuration in IIS does not match the
+      configuration of TFS. SOmeone has messed with IIS after TFS was installed.
+      Your easiest resolution would be to delete both the Site and Application
+      Pool in IIS for TFS. Then click  to "rerun" the checks. The installer will
+      build the right stuff for you.
+
+      Once you have TFS installed you will need to check and match up the URL
+      configured in TFS and the configuration of IIS, for example for SSL.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12876'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2178352838'
+    - meta_key: dsq_post_id
+      meta_value: '2179062893'
+  - comment_id: '12901'
+    comment_author: MisterBlat
+    comment_author_email: mrnmrsi.fl@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 204.115.183.4
+    comment_date: '2015-08-08 01:15:00'
+    comment_date_gmt: '2015-08-08 00:15:00'
+    comment_content: >-
+      Hey, that worked.  I know for a fact that someone did mess with the IIS
+      config after setup and added another non-SSL endpoint (that I removed). 
+      Removing the app pool was something I missed, though.  Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12889'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2179062893'
+    - meta_key: dsq_post_id
+      meta_value: '2180447073'
+  - comment_id: '12940'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-10 09:33:00'
+    comment_date_gmt: '2015-08-10 08:33:00'
+    comment_content: Welcome..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12901'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2180447073'
+    - meta_key: dsq_post_id
+      meta_value: '2184072016'
+  - comment_id: '12991'
+    comment_author: Betty
+    comment_author_email: smckoy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 60.234.127.42
+    comment_date: '2015-08-14 10:35:00'
+    comment_date_gmt: '2015-08-14 09:35:00'
+    comment_content: >-
+      can also happen when the ssl cert isn't found. in my case i needed to copy
+      it to the trusted cert store.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12876'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2178352838'
+    - meta_key: dsq_post_id
+      meta_value: '2193486731'
+  - comment_id: '13029'
+    comment_author: Bruce Cutler
+    comment_author_email: b.cutler@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 192.206.100.226
+    comment_date: '2015-08-20 23:55:00'
+    comment_date_gmt: '2015-08-20 22:55:00'
+    comment_content: >-
+      Do the build controllers and agents have to be upgraded to 2015 or will
+      the 2013 Update 4 still talk to tfs 2015?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2205848155'
+  - comment_id: '13030'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.18.228.205
+    comment_date: '2015-08-21 10:11:00'
+    comment_date_gmt: '2015-08-21 09:11:00'
+    comment_content: >-
+      Hi Bruce, there are no 2015 build controllers and agents. The 2013.5
+      update has legacy controllers and XAML agents that you can use. I think
+      2013.4 will work. The new build system in 2015 does not use controllers
+      and the agents are self updating once configured.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13029'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2205848155'
+    - meta_key: dsq_post_id
+      meta_value: '2206464074'
+  - comment_id: '13181'
+    comment_author: Ann_Onymous
+    comment_author_email: spam2ignore@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 67.183.69.139
+    comment_date: '2015-09-04 22:05:00'
+    comment_date_gmt: '2015-09-04 21:05:00'
+    comment_content: >-
+      You don't mention it specifically, but I'm going to be working on an
+      upgrade so I wanted to check - field customization, and other
+      customizations (apart from the server dependency ones such as the IIS and
+      SQL configs you referenced in the article and in responses), should remain
+      intact after the upgrade/migration, correct?
+
+      Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2236624091'
+  - comment_id: '13189'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.18.228.205
+    comment_date: '2015-09-05 15:16:00'
+    comment_date_gmt: '2015-09-05 14:16:00'
+    comment_content: Correct, All customisations that work in 2013 are supported in 2015 RTM
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13181'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2236624091'
+    - meta_key: dsq_post_id
+      meta_value: '2237561904'
+  - comment_id: '13487'
+    comment_author: Neslihan CALISKANEL
+    comment_author_email: neslihan.caliskanel@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.14.120.130
+    comment_date: '2015-10-14 09:46:00'
+    comment_date_gmt: '2015-10-14 08:46:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      I have TFS 2012.4 and I want to migrate to TFS 2015. how can do it? I want
+      to migrate process template and source control. Is your sharing is enough
+      for that?  
+       I have many customization in my process template. What are the steps for migrate customization? 
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2306498138'
+  - comment_id: '13488'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2015-10-14 09:52:00'
+    comment_date_gmt: '2015-10-14 08:52:00'
+    comment_content: >-
+      You can just upgrade...all will be well!
+
+
+      I would make sure i have the latest 2012 patches first, and check the SQL
+      and Sharepoint versions...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13487'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2306498138'
+    - meta_key: dsq_post_id
+      meta_value: '2306503248'
+  - comment_id: '13489'
+    comment_author: Neslihan CALISKANEL
+    comment_author_email: neslihan.caliskanel@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.14.120.130
+    comment_date: '2015-10-14 10:27:00'
+    comment_date_gmt: '2015-10-14 09:27:00'
+    comment_content: thanks :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13488'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2306503248'
+    - meta_key: dsq_post_id
+      meta_value: '2306532394'
+  - comment_id: '13501'
+    comment_author: Oren Dado
+    comment_author_email: orendado@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 212.29.197.186
+    comment_date: '2015-10-19 14:16:00'
+    comment_date_gmt: '2015-10-19 13:16:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      I would like to migrate our 2013 tfs server (runing on windows 2008
+      server,SQL 2014 &amp; Sharepoint 2013) to a new phisical server with a new
+      SQL &amp; SP server. does the upgrade process support it ? or do i need to
+      install it on the same phiscal server (tfs 2013 server)
+
+
+      Thanks
+
+
+      Oren
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2314898677'
+  - comment_id: '13509'
+    comment_author: Neslihan CALISKANEL
+    comment_author_email: neslihan.caliskanel@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.14.120.130
+    comment_date: '2015-10-21 09:34:00'
+    comment_date_gmt: '2015-10-21 08:34:00'
+    comment_content: >-
+      Thanks :) It works, but I have problems.How can I fix  this problems?
+
+
+      1. Process Template : Upgrade Wizard update my process template. In visual
+      Studio 2015, downlod it from tfs2015, process template is open, but Work
+      Item Types are not open,  give error. "Unsupported version '3.0.0.0', can
+      only support '14.0.0.0'" 
+
+
+      2. Extensions : Extensions migrate to the TFS2015, but not working. In the
+      Web access give error "Cannot create work item control of type "  
+
+
+
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13488'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2306503248'
+    - meta_key: dsq_post_id
+      meta_value: '2318638980'
+  - comment_id: '13510'
+    comment_author: Neslihan CALISKANEL
+    comment_author_email: neslihan.caliskanel@univera.com.tr
+    comment_author_url: ''
+    comment_author_IP: 213.14.120.130
+    comment_date: '2015-10-21 10:42:00'
+    comment_date_gmt: '2015-10-21 09:42:00'
+    comment_content: >-
+      I fixed process template issue. Delete all .wit files from process
+      template, then I can  open work item type in visual studio2015.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13509'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2318638980'
+    - meta_key: dsq_post_id
+      meta_value: '2318692442'
+  - comment_id: '13778'
+    comment_author: Steve
+    comment_author_email: steve.landsaw@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 207.250.204.185
+    comment_date: '2015-12-11 16:56:00'
+    comment_date_gmt: '2015-12-11 16:56:00'
+    comment_content: >-
+      Neslihan, did you have any custom style sheets? If so, how did you get
+      those working?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13510'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2318692442'
+    - meta_key: dsq_post_id
+      meta_value: '2405010418'
+  - comment_id: '13779'
+    comment_author: Neslihan CALISKANEL
+    comment_author_email: neslihan.caliskanel@univera.com.tr
+    comment_author_url: ''
+    comment_author_IP: 5.47.78.36
+    comment_date: '2015-12-11 19:44:00'
+    comment_date_gmt: '2015-12-11 19:44:00'
+    comment_content: >-
+      Steve,
+
+      I have six work item types and all of them have full customization(
+      process templates fields, and custom controls). And also i have many
+      custom excel reports from tfs2012 db. 
+
+      Before real upgrade, I test all upgrade to the test server(1month).  If
+      you use Martin's paper, Upgrade is not difficult. After upgrade i have 3
+      major problems.  Previous comment i explain my two problems. It doesn't
+      take much time approximately 1-2 hours. Another problem which is about
+      default collection db views(workitemslatestused etc..) changes or removed
+      on tfs2015, so i write all missing views.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13778'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2405010418'
+    - meta_key: dsq_post_id
+      meta_value: '2405278335'
+  - comment_id: '13780'
+    comment_author: Steve
+    comment_author_email: steve.landsaw@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 207.250.204.185
+    comment_date: '2015-12-11 20:57:00'
+    comment_date_gmt: '2015-12-11 20:57:00'
+    comment_content: >-
+      I ask because I too have some custom controls. They're functioning, at
+      least partially, but my custom style sheet is not getting picked up.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13779'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2405278335'
+    - meta_key: dsq_post_id
+      meta_value: '2405388304'
+  - comment_id: '13807'
+    comment_author: Jeff Pigott
+    comment_author_email: jpigott72@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.40.220.162
+    comment_date: '2016-01-21 04:52:00'
+    comment_date_gmt: '2016-01-21 04:52:00'
+    comment_content: >-
+      After the upgrade from 2013 to 2015, if we have added any custom work item
+      states like "Ready" to bug or user story (Agile Template), are there any
+      issues with this, and are we able to modify them in the future if needed?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2469458007'
+  - comment_id: '13808'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2016-01-21 12:35:00'
+    comment_date_gmt: '2016-01-21 12:35:00'
+    comment_content: >-
+      No issues, and you can modify them in the future. Did you add them to the
+      template, or the Kanban board?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13807'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2469458007'
+    - meta_key: dsq_post_id
+      meta_value: '2469826052'
+  - comment_id: '13810'
+    comment_author: Jeff Pigott
+    comment_author_email: jpigott72@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.40.220.162
+    comment_date: '2016-01-25 01:49:00'
+    comment_date_gmt: '2016-01-25 01:49:00'
+    comment_content: >-
+      I added the Ready item to the User Story Work Item template. The upgrade
+      went as smooth as can be. The only thing I had to change was our Email
+      Alerts went back to the default setting for authentication. I haven't
+      checked to see if I can update that work item with more changes yet.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13808'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2469826052'
+    - meta_key: dsq_post_id
+      meta_value: '2475935656'
+  - comment_id: '13892'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.73.121.198
+    comment_date: '2016-03-11 12:26:00'
+    comment_date_gmt: '2016-03-11 12:26:00'
+    comment_content: >-
+      I have installed TFS 2015 in my environment , how to upgrade to 2015
+      update 2 rc2
+
+
+      Please help.
+
+
+      Thanks
+
+      Pradeep
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2563667489'
+  - comment_id: '13893'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.73.121.198
+    comment_date: '2016-03-11 12:26:00'
+    comment_date_gmt: '2016-03-11 12:26:00'
+    comment_content: How to use 2010 Build templates to work on 2015 TFS?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2563668144'
+  - comment_id: '13897'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2016-03-12 21:56:00'
+    comment_date_gmt: '2016-03-12 21:56:00'
+    comment_content: Just download and install, like any update :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13892'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2563667489'
+    - meta_key: dsq_post_id
+      meta_value: '2566313277'
+  - comment_id: '13898'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2016-03-12 21:57:00'
+    comment_date_gmt: '2016-03-12 21:57:00'
+    comment_content: >-
+      You will have to update your templates to 2015... this is why MS has moved
+      away from the legacy XAML build system and moved to the new task based
+      system instead. You should upgrade your build templates to them.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13893'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2563668144'
+    - meta_key: dsq_post_id
+      meta_value: '2566314648'
+  - comment_id: '13906'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 122.175.16.53
+    comment_date: '2016-03-15 16:26:00'
+    comment_date_gmt: '2016-03-15 16:26:00'
+    comment_content: >-
+      What does exactly ‘upgrade build templates’ imply?  Is there a tool to do
+      that?  Or does it require we open up the template and manually update?  If
+      we have to manually update the template, what exactly on the template
+      needs to be updated?
+
+
+      Thanks In Advance
+
+      Pradeep
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13898'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2566314648'
+    - meta_key: dsq_post_id
+      meta_value: '2571017311'
+  - comment_id: '13907'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 122.175.16.53
+    comment_date: '2016-03-15 16:38:00'
+    comment_date_gmt: '2016-03-15 16:38:00'
+    comment_content: |-
+      Hello Team,
+
+      When isT FS 2015  RTM Release Date.
+
+      Thanks
+      Pradeep
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2571040035'
+  - comment_id: '13908'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 122.175.16.53
+    comment_date: '2016-03-15 16:39:00'
+    comment_date_gmt: '2016-03-15 16:39:00'
+    comment_content: Thanks Martin :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13897'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2566313277'
+    - meta_key: dsq_post_id
+      meta_value: '2571042086'
+  - comment_id: '13941'
+    comment_author: Pradeep Kumar
+    comment_author_email: pradeep.mctip@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.73.121.198
+    comment_date: '2016-03-28 12:58:00'
+    comment_date_gmt: '2016-03-28 11:58:00'
+    comment_content: Hello Martin, Any Update on this Please?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13906'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2571017311'
+    - meta_key: dsq_post_id
+      meta_value: '2592861796'
+  - comment_id: '13942'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.235.86
+    comment_date: '2016-03-28 14:26:00'
+    comment_date_gmt: '2016-03-28 13:26:00'
+    comment_content: >-
+      @pradeep, you open your build definition and change the .xaml template to
+      the same version as your build agents. So for 2015 pick  the latest. If
+      you have made any customisations you will have to reimplement them. If you
+      have created any custom assemblies then you will have to recompile them.
+
+
+      I recommend that you take the opportunity to move to the new build system
+      which does not suffer from this versioning issue.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13906'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2571017311'
+    - meta_key: dsq_post_id
+      meta_value: '2592959207'
+  - comment_id: '13956'
+    comment_author: Arman
+    comment_author_email: shirzady@live.com
+    comment_author_url: ''
+    comment_author_IP: 198.161.2.211
+    comment_date: '2016-04-12 20:41:00'
+    comment_date_gmt: '2016-04-12 19:41:00'
+    comment_content: >-
+      Quick one :
+
+      Can we diractly upgrade TFS 2013 update 4 to TFS 2015 update 2 without
+      install 2015/update 1?
+
+
+      Thanks
+
+
+      Arman
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2620275000'
+  - comment_id: '13957'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.234.113
+    comment_date: '2016-04-13 06:57:00'
+    comment_date_gmt: '2016-04-13 05:57:00'
+    comment_content: Yes you can ☺
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13956'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2620275000'
+    - meta_key: dsq_post_id
+      meta_value: '2621024552'
+  - comment_id: '13976'
+    comment_author: Chris
+    comment_author_email: cleblanc@teksavvy.com
+    comment_author_url: ''
+    comment_author_IP: 184.175.5.196
+    comment_date: '2016-05-13 02:55:00'
+    comment_date_gmt: '2016-05-13 01:55:00'
+    comment_content: >-
+      Can you apply TFS 2015 Update 2 in place with TFS 2015 running, or do you
+      need to do fancy stuff beforehand?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13897'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2566313277'
+    - meta_key: dsq_post_id
+      meta_value: '2673010533'
+  - comment_id: '13977'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 93.158.36.126
+    comment_date: '2016-05-13 07:20:00'
+    comment_date_gmt: '2016-05-13 06:20:00'
+    comment_content: 'Yes'
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13956'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2620275000'
+    - meta_key: dsq_post_id
+      meta_value: '2673235882'
+  - comment_id: '14158'
+    comment_author: john
+    comment_author_email: rebteltemp@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.254.109.194
+    comment_date: '2016-12-12 14:34:00'
+    comment_date_gmt: '2016-12-12 14:34:00'
+    comment_content: can we directly upgrade TFS 2010 to TFS 2015 Update3 ?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3048291171'
+  - comment_id: '14159'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 217.33.228.219
+    comment_date: '2016-12-12 14:47:00'
+    comment_date_gmt: '2016-12-12 14:47:00'
+    comment_content: >-
+      NO. And the latest version of TFS is 2017. You will need to upgrade to TFS
+      2013.5 and then to TFS 2017.
+       https://uploads.disquscdn.com/images/5a634b0d40f0afe55b64863f8137d022e0aab2be9449377d59531f786e0cc944.png
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14158'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048291171'
+    - meta_key: dsq_post_id
+      meta_value: '3048312106'
+  - comment_id: '14160'
+    comment_author: Jomar
+    comment_author_email: jguaring@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 205.200.115.1
+    comment_date: '2016-12-12 14:54:00'
+    comment_date_gmt: '2016-12-12 14:54:00'
+    comment_content: >-
+      Hi, we just upgraded to TFS 2017 and we are having issues with custom
+      controls. "Cannot create work item control of type... " 
+
+
+
+      I tried doing what was shared below but nothing seemed to work, anyone had
+      same issues or know how to fix it?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3048321610'
+  - comment_id: '14161'
+    comment_author: john
+    comment_author_email: rebteltemp@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.254.109.194
+    comment_date: '2016-12-12 16:50:00'
+    comment_date_gmt: '2016-12-12 16:50:00'
+    comment_content: >-
+      thanks for reply,
+
+      but i want to upgrade to TFS 2015 Update 3( not TFS 2017) from TFS 2010,
+      can we upgrade directly?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14159'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048312106'
+    - meta_key: dsq_post_id
+      meta_value: '3048500076'
+  - comment_id: '14162'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 148.252.129.65
+    comment_date: '2016-12-12 17:32:00'
+    comment_date_gmt: '2016-12-12 17:32:00'
+    comment_content: |-
+      No, you have to go through TFS 2013.5 on the way.
+
+      Out of interest why would you want to install an old version of TFS?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14161'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048500076'
+    - meta_key: dsq_post_id
+      meta_value: '3048571203'
+  - comment_id: '14163'
+    comment_author: john
+    comment_author_email: rebteltemp@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.254.109.194
+    comment_date: '2016-12-12 18:25:00'
+    comment_date_gmt: '2016-12-12 18:25:00'
+    comment_content: |-
+      Thank you!
+      its client policy they don't want to upgrade to just released version.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14162'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048571203'
+    - meta_key: dsq_post_id
+      meta_value: '3048663950'
+  - comment_id: '14164'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 148.252.129.65
+    comment_date: '2016-12-12 18:43:00'
+    comment_date_gmt: '2016-12-12 18:43:00'
+    comment_content: >-
+      Smart policy 10 years ago. Not so smart in the world of continuous
+      delivery. Do they realise all of these features have been in production
+      for over a year on VSTS. And there are many production systems... They
+      really need to update their policies.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14163'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048663950'
+    - meta_key: dsq_post_id
+      meta_value: '3048693739'
+  - comment_id: '14195'
+    comment_author: Ben D
+    comment_author_email: sriram.cart@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.133.231.26
+    comment_date: '2017-03-29 00:45:00'
+    comment_date_gmt: '2017-03-28 23:45:00'
+    comment_content: >-
+      Has something changed recently ? This link
+      (https://www.visualstudio.com/en-us/docs/setup-admin/tfs/upgrade/get-started)
+      now says "Direct" upgrade to 2015 is now possible from 2010 or newer. Does
+      this also mean that Direct  upgrade to 2017 is possible from 2010? 
+
+
+      Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14159'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048312106'
+    - meta_key: dsq_post_id
+      meta_value: '3228530270'
+  - comment_id: '14198'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 82.17.87.100
+    comment_date: '2017-03-29 10:21:00'
+    comment_date_gmt: '2017-03-29 09:21:00'
+    comment_content: No change... you need to stage through TFS 2013.5...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14195'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3228530270'
+    - meta_key: dsq_post_id
+      meta_value: '3229042852'
+  - comment_id: '14199'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 82.17.87.100
+    comment_date: '2017-03-29 10:21:00'
+    comment_date_gmt: '2017-03-29 09:21:00'
+    comment_content: >-
+      All of your custom controls will need to be rebuilt as extensions in the
+      Web Interface to continue to function.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14160'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048321610'
+    - meta_key: dsq_post_id
+      meta_value: '3229043256'
+  - comment_id: '14200'
+    comment_author: Sandy
+    comment_author_email: shoppingpitchi@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 66.192.173.6
+    comment_date: '2017-03-29 14:54:00'
+    comment_date_gmt: '2017-03-29 13:54:00'
+    comment_content: >-
+      Hello Martin, I have a project in TFS 2010 and I'm asked to migrate work
+      items/bugs/defects/source code/users to a project collection in TFS 2015.
+      Can you please guide me on that. This is my first migration/upgrade task. 
+      any suggestions/documentation would be highly appreciated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14198'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3229042852'
+    - meta_key: dsq_post_id
+      meta_value: '3229319276'
+  - comment_id: '14201'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 82.17.87.100
+    comment_date: '2017-03-29 15:31:00'
+    comment_date_gmt: '2017-03-29 14:31:00'
+    comment_content: >-
+      Let me first confirm that you have indeed picked up a stick covered in dog
+      poo and you have the nasty end...
+
+
+      Email me on info@nkdagility.com with more info and I can give you some
+      advice...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14200'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3229319276'
+    - meta_key: dsq_post_id
+      meta_value: '3229376526'
+  - comment_id: '14224'
+    comment_author: Nisha Dhongade
+    comment_author_email: dhonagadenisha@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 42.104.101.1
+    comment_date: '2017-04-27 12:34:00'
+    comment_date_gmt: '2017-04-27 11:34:00'
+    comment_content: >-
+      Hello Martin,
+
+
+      i have one issue related to code coverage file. i am able to build the
+      solution successfully .Code coverage is also generated but when i tried to
+      open the .coverage file in visual studio it gave me below error 
+
+
+      ---------------------------
+
+      Microsoft Visual Studio
+
+      ---------------------------
+
+      Exception was thrown: Code Coverage Analysis engine threw exception(s):
+
+
+      Failed to enable constraints. One or more rows contain values violating
+      non-null, unique, or foreign-key constraints.
+
+      ---------------------------
+
+      OK   
+
+      ---------------------------
+
+
+      can you please help me?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3276818445'
+  - comment_id: '14225'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 163.185.148.245
+    comment_date: '2017-04-27 15:47:00'
+    comment_date_gmt: '2017-04-27 14:47:00'
+    comment_content: >-
+      Im not sure that I can with the information above. How was the code
+      coverage file generated?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14224'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3276818445'
+    - meta_key: dsq_post_id
+      meta_value: '3277087087'
+  - comment_id: '14226'
+    comment_author: Nisha Dhongade
+    comment_author_email: dhonagadenisha@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 42.104.101.1
+    comment_date: '2017-04-28 05:05:00'
+    comment_date_gmt: '2017-04-28 04:05:00'
+    comment_content: >-
+      i have set flag to true "Code Coverage enabled" under Visual Studio test
+      build task. 
+
+      so while test case execution it gets the code coverage and file is
+      generated 
+
+
+      Actually we want to display this result in SonarQube as  this file is not
+      opening we are getting below error 
+
+
+
+      2017-04-27T08:51:40.6895875Z SonarQube Scanner for MSBuild 1.1
+
+
+      17 
+
+      2017-04-27T08:51:40.6905876Z Default properties file was not found at
+      C:AtasksSonarQubePreBuild1.0.35MSBuild.SonarQube.Runner-1.1SonarQube.Analysis.xml
+
+
+      18 
+
+      2017-04-27T08:51:40.6915877Z Post-processing started.
+
+
+      19 
+
+      2017-04-27T08:51:40.8926078Z SonarQube Scanner for MSBuild End Step 2.2
+
+
+      20 
+
+      2017-04-27T08:51:41.2936479Z 14:21:41.12  Fetching code coverage report
+      information from TFS...
+
+
+      21 
+
+      2017-04-27T08:51:41.2946480Z 14:21:41.124  Attempting to locate a test
+      results (.trx) file...
+
+
+
+      24 
+
+      2017-04-27T08:52:20.0055187Z 14:22:19.97  WARNING: Timed out after waiting
+      30000 ms for process C:Program Files (x86)Microsoft Visual Studio 14.0Team
+      ToolsDynamic Code Coverage ToolsCodeCoverage.exe to complete: it has been
+      terminated, but its child processes may still be running.
+
+
+      25 
+
+      2017-04-27T08:52:20.0065188Z ##[error]14:22:19.971  Failed to convert the
+      downloaded code coverage tool to XML. No code coverage information will be
+      uploaded to SonarQube.
+
+
+      ##[error]Check that the downloaded code coverage file  is valid by opening
+      it in Visual Studio. If it is not, check that the internet security
+      settings on the build machine allow files to be downloaded from the Team
+      Foundation Server machine.
+
+
+      27 
+
+      2017-04-27T08:52:20.0075189Z ##[error]Post-processing failed. Exit code: 1
+
+
+      28 
+
+      2017-04-27T08:52:20.0105192Z ##[error]System.Exception: Unexpected exit
+      code received from batch file: 1
+
+       at Microsoft.TeamFoundation.DistributedTask.Task.Internal.PowerShell.InvokeBatchScriptCmdlet.ProcessRecord()
+
+        at System.Management.Automation.CommandProcessor.ProcessRecord()
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14225'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3277087087'
+    - meta_key: dsq_post_id
+      meta_value: '3278317193'
+  - comment_id: '14229'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 163.185.148.245
+    comment_date: '2017-04-28 16:05:00'
+    comment_date_gmt: '2017-04-28 15:05:00'
+    comment_content: Lets take this offline, email me below...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14226'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3278317193'
+    - meta_key: dsq_post_id
+      meta_value: '3278913197'
+  - comment_id: '14237'
+    comment_author: Nisha Dhongade
+    comment_author_email: dhonagadenisha@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 42.104.101.1
+    comment_date: '2017-05-04 09:46:00'
+    comment_date_gmt: '2017-05-04 08:46:00'
+    comment_content: i have sent mail to you .
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14229'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3278913197'
+    - meta_key: dsq_post_id
+      meta_value: '3288082870'
+  - comment_id: '14262'
+    comment_author: Paramesh
+    comment_author_email: parameshsade@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 64.60.187.2
+    comment_date: '2017-06-27 15:02:00'
+    comment_date_gmt: '2017-06-27 14:02:00'
+    comment_content: >-
+      I have migrated TFS 2010 to TFS 2015 directly, it works fine. work items,
+      History and source code are working fine for me.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14162'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3048571203'
+    - meta_key: dsq_post_id
+      meta_value: '3387981308'
+  - comment_id: '14293'
+    comment_author: Shahzaib Arshad
+    comment_author_email: sarshad@xavor.com
+    comment_author_url: ''
+    comment_author_IP: 116.58.41.189
+    comment_date: '2017-08-22 16:24:00'
+    comment_date_gmt: '2017-08-22 15:24:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      I need to migrate from TFS 2010 to TFS 2017 (Migration based upgrade). So
+      first, I have to migrate to TFS 2013.5 from 2010. But before doing that,
+      can i prepare my new server for TFS 2017 with all its installations and
+      repositories needed?
+
+
+      After that, will i have to re-install software or re-create repositories
+      when i'll migrate to TFS 2017 from 2013.5?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3481233767'
+  - comment_id: '14294'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2017-08-22 16:39:00'
+    comment_date_gmt: '2017-08-22 15:39:00'
+    comment_content: >-
+      As long as the bits you install (SQL, Windows) are compatible with both
+      TFS 2013.5 &amp; TFS 2017.2 you should be fine...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14293'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3481233767'
+    - meta_key: dsq_post_id
+      meta_value: '3481258046'
+  - comment_id: '14351'
+    comment_author: Alexandre
+    comment_author_email: alexandre.nedelec@live.fr
+    comment_author_url: ''
+    comment_author_IP: 90.63.144.200
+    comment_date: '2017-09-21 17:22:00'
+    comment_date_gmt: '2017-09-21 16:22:00'
+    comment_content: >-
+      Hey, Nisha I have the same issue as you concerning SonarQubeAnalysis file.
+      Did you succeed finding a solution ?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14237'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3288082870'
+    - meta_key: dsq_post_id
+      meta_value: '3528257876'

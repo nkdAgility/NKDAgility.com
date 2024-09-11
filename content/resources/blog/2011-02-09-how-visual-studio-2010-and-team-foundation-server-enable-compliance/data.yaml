@@ -1,0 +1,367 @@
+post:
+  title: How Visual Studio 2010 and Team Foundation Server enable Compliance
+  link: >-
+    https://nkdagility.com/blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance/
+  pubDate: Wed, 09 Feb 2011 22:04:04 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2011/02/09/how-visual-studio-2010-and-team-foundation-server-enable-compliance.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_2.png\"><img style=\"margin: 0px 20px 10px 0px; padding-left: 0px; padding-right: 0px; float: left; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_thumb.png\" alt=\"Visual Studio 2010 ALM with the word Audit stamped accross it\" width=\"377\" height=\"147\" align=\"left\" border=\"0\" /></a></p>\n<p>One of the things that makes Team Foundation Server (TFS) the most powerful Application Lifecycle Management (ALM) platform is the traceability it provides to those that use it. This traceability is crucial to enable many companies to adhere to many of the Compliance regulations to which they are bound (e.g. <a href=\"http://en.wikipedia.org/wiki/Title_21_CFR_Part_11\" target=\"_blank\">CFR 21 Part 11</a> or <a href=\"http://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act\" target=\"_blank\">Sarbanes–Oxley</a>.)</p>\n<p>&nbsp;</p>\n<hr />\n<p>From something as simple as relating Tasks to Check-in’s or being able to see the top 10 files in your codebase that are causing the most Bugs, to identifying which Bugs and Requirements are in which Release. All that information is available and more in TFS.</p>\n<p>Although all of this tradability is available within TFS you do need to understand that it is not for free. Well… I say that, but if you are using TFS properly you will have this information with no additional work except for firing up the reporting.</p>\n<p>Using Visual Studio ALM and Team Foundation Server you can relate every line of code changes all the way up to requirements and back down through Test Cases to the Test Results.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_74.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_33.png\" alt=\"image\" width=\"800\" height=\"439\" border=\"0\" /></a> <br /><strong>Figure: The only thing missing is Build</strong></p>\n<p>In order to build the relationship model below we need to examine how each of the relationships get there. Each member of your team from programmer to tester and Business Analyst to Business have their roll to play to knit this together.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_96.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_44.png\" alt=\"image\" width=\"800\" height=\"507\" border=\"0\" /></a> <br /><strong>Figure: The relationships required to make this work can get a little confusing</strong></p>\n<p>If Build is added to this to relate Work Items to Builds and with knowledge of which builds are in which environments you can easily identify what is contained within a Release.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_88.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_40.png\" alt=\"image\" width=\"669\" height=\"446\" border=\"0\" /></a> <br /><strong>Figure: How are things progressing</strong></p>\n<p>Along with the ability to produce the progress and trend reports the tractability that is built into TFS can be used to fulfil most audit requirements out of the box, and augmented to fulfil the rest.</p>\n<p>In order to understand the relationships, lets look at each of the important Artifacts and how they are associated with each other…</p>\n<h3>Requirements – The root of all knowledge</h3>\n<p>Requirements are the thing that the business cares about delivering. These could be derived as User Stories or Business Requirements Documents (BRD’s) but they should be what the Business asks for.</p>\n<p>Requirements can be related to many of the Artifacts in TFS, so lets look at the model:</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_4.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_1.png\" alt=\"image\" width=\"800\" height=\"565\" border=\"0\" /></a> <br /><strong>Figure: If the centre of the world was a requirement</strong></p>\n<p>We can track which releases Requirements were scheduled in, but this can change over time as more details come to light.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_28.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_13.png\" alt=\"image\" width=\"800\" height=\"550\" border=\"0\" /></a> <br /><strong>Figure: Who edited the Requirement and when</strong></p>\n<p>There is also the ability to query Work Items based on the History of changed that were made to it. This is particularly important with Requirements. It might not be enough to say what Requirements were completed in a given but also to know which Requirements were ever assigned to a particular release.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_30.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_14.png\" alt=\"image\" width=\"800\" height=\"347\" border=\"0\" /></a> <br /><strong>Figure: Some magic required, but result still achieved</strong></p>\n<p>As an augmentation to this it is also possible to run a query that shows results from the past, just as if we had a time machine. You can take any Query in the system and add a “Asof” clause at the end to query historical data in the operational store for TFS.</p>\n<pre>select  from WorkItems [where ] [order by ] [asof ]</pre>\n<p><strong>Figure: Work Item Query Language (WIQL) format</strong></p>\n<p>In order to achieve this you do need to save the query as a *.wiql file to your local computer and edit it in notepad, but one imported into TFS you run it any time you want.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML21c2556.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML21c2556_thumb.png\" alt=\"SNAGHTML21c2556\" width=\"804\" height=\"515\" border=\"0\" /></a></p>\n<p><strong>Figure: Saving Queries locally can be useful</strong></p>\n<p>All of these Audit features are available throughout the Work Item Tracking (WIT) system within TFS.</p>\n<h3>Tasks – Where the real work gets done</h3>\n<p>Tasks are the work horse of the development team, but they only as useful as Excel if you do not relate them properly to other Artifacts.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_98.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_45.png\" alt=\"image\" width=\"591\" height=\"535\" border=\"0\" /></a></p>\n<p><strong>Figure: The Task Work Item Type has its own relationships</strong></p>\n<p>Requirements should be broken down into Tasks that the development team work from to build what is required by the business. This may be done by a small dedicated group or by everyone that will be working on the software team but however it happens all of the Tasks create should be a Child of a Requirement Work Item Type.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_26.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_12.png\" alt=\"All tasks that are required to implement this requirement should be children of the requirement\" width=\"800\" height=\"547\" border=\"0\" /></a></p>\n<p><strong>Figure: Tasks are related to the Requirement</strong></p>\n<p>Tasks should be used to track the day-to-day activities of the team working to complete the software and as such they should be kept simple and short lest developers think they are more trouble than they are worth.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_46.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_21.png\" alt=\"image\" width=\"800\" height=\"543\" border=\"0\" /></a></p>\n<p><strong>Figure: Task Work Item Type has a narrower purpose</strong></p>\n<p>Although the Task Work Item Type describes the work that will be done the actual development work involves making changes to files that are under Source Control. These changes are bundled together in a single atomic unit called a Changeset which is committed to TFS in a single operation. During this operation developers can associate Work Item with the Changeset.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_48.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_22.png\" alt=\"image\" width=\"800\" height=\"544\" border=\"0\" /></a></p>\n<p><strong>Figure: Tasks are associated with Changesets</strong></p>\n<h3>Changesets – Who wrote this crap</h3>\n<p>Changesets themselves are just an inventory of the changes that were made to a number of files to complete a Task.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_100.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_46.png\" alt=\"image\" width=\"800\" height=\"531\" border=\"0\" /></a></p>\n<p><strong>Figure: Changesets are linked by Tasks and Builds</strong></p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML23775c6.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML23775c6_thumb.png\" alt=\"SNAGHTML23775c6\" width=\"800\" height=\"574\" border=\"0\" /></a></p>\n<p><strong>Figure: Changesets tell us what happened to the files in Version Control</strong></p>\n<p>Although comments can be changed after the fact, the inventory and Work Item associations are permanent which allows us to Audit all the way down to the individual change level.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTMLf71e0f_1.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTMLf71e0f_thumb_1.png\" alt=\"SNAGHTMLf71e0f\" width=\"800\" height=\"506\" border=\"0\" /></a></p>\n<p><strong>Figure: On Check-in you can resolve a Task which automatically associates it</strong></p>\n<p>Because of this we can view the history on any file within the system and see how many changes have been made and what Changesets they belong to.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_50.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_23.png\" alt=\"image\" width=\"800\" height=\"147\" border=\"0\" /></a></p>\n<p><strong>Figure: Changes are tracked at the File level</strong></p>\n<p>What would be even more powerful would be if we could view these changes super imposed over the top of the lines of code. Some people call this a blame tool because it is commonly used to find out which of the developers introduced a bug, but it can also be used as another method of Auditing changes to the system.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_52.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_24.png\" alt=\"image\" width=\"800\" height=\"115\" border=\"0\" /></a></p>\n<p><strong>Figure: Annotate shows the lines</strong></p>\n<p>the Annotate functionality allows us to visualise the relationship between the individual lines of code and the Changesets. In addition to this you can create a Label and apply it to a version of your version control. The problem with Label’s is that they can be changed after they have been created with no tractability. This makes them practically useless for any sort of compliance audit. So what do you use?</p>\n<h3>Branches – And why we need them</h3>\n<p>Branches are a really powerful tool for development and release management, but they are most important for audits.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML253a011.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-SNAGHTML253a011_thumb.png\" alt=\"SNAGHTML253a011\" width=\"800\" height=\"250\" border=\"0\" /></a></p>\n<p><strong>Figure: One way to Audit releases</strong></p>\n<p>The R1.0 branch can be created from the Label that the Build creates on the R1 line when a Release build was created. It can be created as soon as the Build has been signed of for release. However it is still possible that someone changed the Label between this time and its creation. Another better method can be to explicitly link the Build output to the Build.</p>\n<h3>Builds – Lets tie some more of this together</h3>\n<p>Builds are the glue that helps us enable the next level of tractability by tying everything together.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_102.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_47.png\" alt=\"image\" width=\"800\" height=\"531\" border=\"0\" /></a></p>\n<p><strong>Figure: The dashed pieces are not out of the box but can be enabled</strong></p>\n<p>When the Build is called and starts it looks at what it has been asked to build and determines what code it is going to get and build.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_60.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_28.png\" alt=\"image\" width=\"800\" height=\"566\" border=\"0\" /></a></p>\n<p><strong>Figure: The folder identifies what changes are included in the build</strong></p>\n<p>The Build sets a Label on the Source with the same name as the Build, but the Build itself also includes the latest Changeset ID that it will be building.</p>\n<p>At the end of the Build the Build Agent identifies the new Changesets it is building by looking at the Check-ins that have occurred since the last Build.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_63.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_29.png\" alt=\"image\" width=\"748\" height=\"600\" border=\"0\" /></a></p>\n<p><strong>Figure: What changes have been made since the last successful Build</strong></p>\n<p>It will then use that information to identify the Work Items that are associated with all of the Changesets</p>\n<p>Changesets are associated with Build and change the “Integrated In” field of those Work Items .</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_66.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_30.png\" alt=\"image\" width=\"740\" height=\"600\" border=\"0\" /></a></p>\n<p><strong>Figure: Find all of the Work Items to associate with</strong></p>\n<p>The “Integrated In” field of all of the Work Items identified by the Build Agent as being integrated into the completed Build are updated to reflect the Build number that successfully integrated that change.<a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_69.png\"><img style=\"padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_31.png\" alt=\"image\" width=\"800\" height=\"543\" border=\"0\" /></a></p>\n<p><strong>Figure: Now we know which Work Items were completed in a build</strong></p>\n<p>Now that we can link a single line of code changed all the way back through the Task that initiated the action to the Requirement that started the whole thing and back down to the Build that contains the finished Requirement.</p>\n<p>But how do we know wither that Requirement has been fully tested or even meets the original Requirements?</p>\n<h3>Test Cases – How we know we are done</h3>\n<p>The only way we can know wither a Requirement has been completed to the required specification is to Test that Requirement. In TFS there is a Work Item type called a Test Case</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_71.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_32.png\" alt=\"image\" width=\"216\" height=\"535\" border=\"0\" /></a></p>\n<p>Test Cases enable two scenarios. The first scenario is the ability to track and validate Acceptance Criteria in the form of a Test Case. If you agree with the Business a set of goals that must be met for a Requirement to be accepted by them it makes it both difficult for them to reject a Requirement when it passes all of the tests, but also provides a level of traceable and validation for audit that a feature has been built and tested to order.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_80.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_36.png\" alt=\"image\" width=\"800\" height=\"500\" border=\"0\" /></a></p>\n<p><strong>Figure: You can have many Acceptance Criteria for a single Requirement</strong></p>\n<p>It is crucial for this to work that someone from the Business has to sign-off on the Test Case moving from the\_ “Design” to “Ready” states.</p>\n<p>The Second is the ability to associate an MS Test test with the Test Case thereby tracking the automated test. This is useful in the circumstance when you want to Track a test and the test results of a Unit Test designed to test the existence of and then re-existence of a a Bug.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_842.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_38.png\" alt=\"image\" width=\"800\" height=\"505\" border=\"0\" /></a></p>\n<p><strong>Figure: Associating a Test Case with an automated Test</strong></p>\n<p>Although it is possible it may not make sense to track the execution of every Unit Test in your system, there are many Integration and Regression tests that may be automated that it would make sense to track in this way.</p>\n<h3>Bug – Lets not have regressions</h3>\n<p>In order to know wither a Bug in the application has been fixed and to make sure that it does not reoccur it needs to be tracked.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_86.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_39.png\" alt=\"image\" width=\"800\" height=\"491\" border=\"0\" /></a></p>\n<p><strong>Figure: Bugs are the centre of their own world</strong></p>\n<p>If the fix to a Bug is big enough to require that it is broken down into Tasks then it is probably a Requirement. You can associate a check-in with a Bug and have it tracked against a Build. You would also have one or more Test Cases to prove the fix for the Bug.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_92.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_42.png\" alt=\"image\" width=\"800\" height=\"499\" border=\"0\" /></a></p>\n<p><strong>Figure: Bugs have many associations</strong></p>\n<p>This allows you to track Bugs / Defects in your system effectively and report on them.</p>\n<h3>Change Request – I am not a feature</h3>\n<p>In the CMMI Process template Change Requests can also be easily tracked through the system. In some cases it can be very important to track Change Requests separately as an Auditor may want to know what was changed and who authorised it.</p>\n<p>Again and similar to Bugs, if the Change Request is big enough that it would require to be broken down into Tasks it is in reality a new feature and should be tracked as a Requirement.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_104.png\"><img style=\"margin: 0px; padding-left: 0px; padding-right: 0px; padding-top: 0px; border-width: 0px;\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-image_thumb_48.png\" alt=\"image\" width=\"800\" height=\"524\" border=\"0\" /></a></p>\n<p><strong>Figure: Make sure your Change Requests only Affect Requirements and not rewrite them</strong></p>\n<h3>Conclusion</h3>\n<p>Visual Studio 2010 and Team Foundation Server together provide an exceptional Application Lifecycle Management platform that can help your team comply with even the harshest of Compliance requirements while still enabling them to be Agile. Most Audits are heavy on required documentation but most of that information is captured for you as long a you do it right. You don’t even need every team member to understand it all as each of the Artifacts are relevant to a different type of team member.</p>\n<ul>\n<li>Business Analysts manage Requirements and Change Requests</li>\n<li>Programmers manage Tasks and check-in against Change Requests and Bugs</li>\n<li>Testers manage Bugs and Test Cases</li>\n<li>Build Masters manage Builds</li>\n</ul>\n<p>Although there is some crossover there are still rolls or “hats” that are worn.</p>\n<ul>\n<li><strong>Do you thing this is all achievable?</strong></li>\n<li><strong>Have I missed anything that you think should be there?</strong></li>\n</ul>"
+  - ''
+  post_id: '14'
+  post_date: '2011-02-09 22:04:04'
+  post_date_gmt: '2011-02-09 22:04:04'
+  post_modified: '2011-02-09 22:04:04'
+  post_modified_gmt: '2011-02-09 22:04:04'
+  comment_status: open
+  ping_status: open
+  post_name: how-visual-studio-2010-and-team-foundation-server-enable-compliance
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311183585'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6IleF
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474689478;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:8700;}i:1;a:1:{s:2:"id";i:9239;}i:2;a:1:{s:2:"id";i:10811;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-02-09-how-visual-studio-2010-and-team-foundation-server-enable-compliance.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '790'
+  comment:
+  - comment_id: '918'
+    comment_author: Esteban Garcia
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-04-01 20:25:46'
+    comment_date_gmt: '2011-04-01 20:25:46'
+    comment_content: >-
+      Awesome post!  I've been working on a way to sell TFS to the entire
+      organization, emphasizing on the integration and visibility that TFS gives
+      the entire team (not just devs) and this paints a very clear picture!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969284'
+  - comment_id: '919'
+    comment_author: Matthias K&#252;nzi
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-05-19 15:37:31'
+    comment_date_gmt: '2011-05-19 15:37:31'
+    comment_content: >-
+      Hi, Great overview! Thanks. How you have crated the first figure showing
+      the relationships beetween instances of individual work items? Can this be
+      cretated in VS2010?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969287'
+  - comment_id: '920'
+    comment_author: ''
+    comment_author_email: kuenzi@imt.ch
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-05-23 06:49:00'
+    comment_date_gmt: '2011-05-23 06:49:00'
+    comment_content: "Hello. I\_don't\_know where my comment from last week is gone...\nMy question was: how you have\_created the first image in your articel, which is showing the releationships between instances of work items. It looks like a diagram created in architecture explorer. By the way, great post. Gives a good overview. Thanks. Matthias."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209715918'
+  - comment_id: '921'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-05-23 06:56:00'
+    comment_date_gmt: '2011-05-23 06:56:00'
+    comment_content: "I used http://visualization.codeplex.com/\_to create the fantastic visual representation of the objects in TFS above :) . Its a little\_clunky, but I found it very\_useful."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '920'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209715918'
+    - meta_key: dsq_post_id
+      meta_value: '209719947'
+  - comment_id: '922'
+    comment_author: Joshua
+    comment_author_email: joshua.anthony@habanero.se
+    comment_author_url: http://www.nsilverbullet.net
+    comment_author_IP: ''
+    comment_date: '2011-10-27 07:00:00'
+    comment_date_gmt: '2011-10-27 14:00:00'
+    comment_content: >-
+      Great break down of the different associations - helped me solve a
+      completely different issue where we weren't getting code churn reported on
+      our builds...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '347048742'
+  - comment_id: '923'
+    comment_author: Missing code churn in TFS Build reports | NSilverBullet
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.nsilverbullet.net/2011/10/31/missing-code-churn-in-tfs-build-reports/
+    comment_author_IP: 195.74.38.19
+    comment_date: '2011-10-31 07:53:14'
+    comment_date_gmt: '2011-10-31 14:53:14'
+    comment_content: >-
+      [...] issue! Reading this discussion on msdn helped my localize the
+      problem. Martin Hinshelman&#8217;s great overview of how different
+      artifacts are associated to each other &#8211; especially the section on
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1320072794.54";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1320075682.39";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '924'
+    comment_author: Suresh Kalimuthu
+    comment_author_email: suresh@live.in
+    comment_author_url: ''
+    comment_author_IP: 167.220.225.106
+    comment_date: '2013-07-18 06:12:00'
+    comment_date_gmt: '2013-07-18 05:12:00'
+    comment_content: >-
+      Great post with details on how each work items can be liked for better
+      traceability. How do related / link the User Scenario, Requirements, Use
+      Case and Feature
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '966604756'
+  - comment_id: '2131'
+    comment_author: Rdawg
+    comment_author_email: subtlekiller@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 167.83.210.27
+    comment_date: '2014-03-03 19:15:00'
+    comment_date_gmt: '2014-03-03 19:15:00'
+    comment_content: What about electronic signature support?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1268834023'
+  - comment_id: '2132'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-03-03 19:23:00'
+    comment_date_gmt: '2014-03-03 19:23:00'
+    comment_content: >-
+      Everything in TFS is authenticated using Active Directory either through
+      NTLM (less secure) or Kerberos (more secure) and if you like you can use
+      HTTPS as well...If you require a smart card and token  to log onto windows
+      then you are fully supported...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2131'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268834023'
+    - meta_key: dsq_post_id
+      meta_value: '1268845473'
+  - comment_id: '2133'
+    comment_author: Rdawg
+    comment_author_email: subtlekiller@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 167.83.210.27
+    comment_date: '2014-03-03 19:29:00'
+    comment_date_gmt: '2014-03-03 19:29:00'
+    comment_content: >-
+      Sure. I understand your comment, but, electronic signature means that the
+      user is prompted to enter their username and password to prove who they
+      are at that moment in time.  For instance, if the user forgets to lock
+      their workstation and some other person gets on the workstation they could
+      have full control.  Electronic Signature requires them to resubmit their
+      credentials at the time they decide to save the modified task.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2132'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268845473'
+    - meta_key: dsq_post_id
+      meta_value: '1268853419'
+  - comment_id: '2134'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-03-03 19:44:00'
+    comment_date_gmt: '2014-03-03 19:44:00'
+    comment_content: >-
+      TFS authentication, like all applications in the Microsoft ecosystem use
+      Windows Authentication. If you are looking for something more then you
+      will likely need it for more than just TFS. It is unreasonable to ask
+      users to re-authenticate for every change made to work item tracking and
+      doing so would render the product unusable for users.
+
+
+      If TFS asked me for credentials every time I edited and saved a work item
+      I would likely not use it :) I would find somewhere else to store my work
+      items on a daily basis and bulk update TFS at the end of the week. Maybe
+      using Excel so that I just have to authenticate once to get them in
+      there...  
+
+      If you put blocks in front of users they will always find a way...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2133'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268853419'
+    - meta_key: dsq_post_id
+      meta_value: '1268876464'
+  - comment_id: '2135'
+    comment_author: Rdawg
+    comment_author_email: subtlekiller@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 167.83.210.27
+    comment_date: '2014-03-03 19:53:00'
+    comment_date_gmt: '2014-03-03 19:53:00'
+    comment_content: >-
+      Your point is well received.  At this time I do not know what the exact
+      workflow would be, but I do know that at some point in the process a
+      verification of the user by manually entering credentials is required.  I
+      appreciate your responses. Thanks.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2134'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268876464'
+    - meta_key: dsq_post_id
+      meta_value: '1268888812'
+  - comment_id: '2136'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 213.171.133.24
+    comment_date: '2014-03-03 19:56:00'
+    comment_date_gmt: '2014-03-03 19:56:00'
+    comment_content: >-
+      If you turn off pass-through in the browser they would be required to
+      enter credentials every time the browser is opened, and every time the
+      session times out. Pain for the users, but not much of one...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2135'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268888812'
+    - meta_key: dsq_post_id
+      meta_value: '1268892941'
+  - comment_id: '2137'
+    comment_author: Rdawg
+    comment_author_email: subtlekiller@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 167.83.210.27
+    comment_date: '2014-03-03 20:01:00'
+    comment_date_gmt: '2014-03-03 20:01:00'
+    comment_content: >-
+      Thanks for the idea.  I'll do some more research and hit up our quality
+      boss and see what he thinks. Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2136'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1268892941'
+    - meta_key: dsq_post_id
+      meta_value: '1268900250'

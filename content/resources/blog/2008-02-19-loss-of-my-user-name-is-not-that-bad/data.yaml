@@ -1,0 +1,57 @@
+post:
+  title: Loss of My.User.Name is not that bad...
+  link: https://nkdagility.com/blog/loss-of-my-user-name-is-not-that-bad/
+  pubDate: Tue, 19 Feb 2008 13:09:15 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/02/19/loss-of-my.user.name-is-not-that-bad.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<pre><span>Imports</span> System.DirectoryServices.AccountManagement</pre>\n<a href=\"http://11011.net/software/vspaste\"></a>\n\n<p><a title=\"Account Management\" href=\"http://www.danielmoth.com/Blog/AccountManagement.jpg\" target=\"_blank\"><img height=\"480\" src=\"http://www.danielmoth.com/Blog/AccountManagement.jpg\" width=\"263\" align=\"right\" /></a> In WPF development you can't just use the \"My.User.Name\" classes as it is not set by default. If you still want to use it you can <em>\"My.User.InitializeWithWindowsUser()\"</em> to have it setup, but there is a better way.</p>\n\n<p>If you are using Active Directory .Net 3.5 has provided a new way to access information...</p>\n\n<p>There is a new assembly called \"System.DirectoryServices.AccountManagement\" that encapsulates all of the logic for accessing security information in a number of ways.</p>\n\n<p>You can create a link to your local Active Directory\_ by calling:</p>\n\n<blockquote>\n  <pre> <span>Dim</span> ctx <span>As</span> <span>New</span> PrincipalContext(ContextType.Domain)</pre>\n  <a href=\"http://11011.net/software/vspaste\"></a></blockquote>\n\n<p>The options for conencting are: </p>\n\n<ul>\n  <li><strong>ApplicationDirectory</strong> - The application directory store. This represents the AD LDS store. </li>\n\n  <li><strong>Domain</strong> - The domain store. This represents the AD DS store. </li>\n\n  <li><strong>Machine</strong> - The computer store. This represents the SAM store. </li>\n</ul>\n\n<p>These options allow for most security authentications in your .NET applications, and it does not stop with wrapping the top level AD. if you want to access and control a user you need only:</p>\n\n<blockquote>\n  <pre><span>Dim</span> u <span>As</span> UserPrincipal = UserPrincipal.FindByIdentity(ctx, IdentityType.Sid, WindowsIdentity.GetCurrent.User.Value)</pre>\n  <a href=\"http://11011.net/software/vspaste\"></a></blockquote>\n\n<p>I really like this as often I have has to build and Google (more the later than the former) class library for manipulating Active Directory objects, and you need not just use the Sid. You can use:</p>\n\n<ul>\n  <li><strong>DistinguishedName</strong> - The identity is a Distinguished Name (DN). </li>\n\n  <li><strong>Guid</strong> - The identity is a Globally Unique Identifier (GUID). </li>\n\n  <li><strong>Name</strong> - The identity is a name. </li>\n\n  <li><strong>SamAccountName</strong> - The identity is a Security Account Manager (SAM) name. </li>\n\n  <li><strong>Sid</strong> - The identity is a Security Identifier (SID) in Security Descriptor Definition Language (SDDL) format. </li>\n\n  <li><strong>UserPrincipalName</strong> - The identity is a User Principal Name (UPN). </li>\n</ul>\n\n<p>And this is just the direct load of a user object. There are Group object as well as fill search capability with the PrincipalSearcher and various other bits and bobs...</p>\n\n<p>Well thats my find of the day <img alt=\"smile_nerd\" src=\"http://spaces.live.com/rte/emoticons/smile_nerd.gif\" /></p>\n\n<p>\_</p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_</div>"
+  - ''
+  post_id: '245'
+  post_date: '2008-02-19 13:09:15'
+  post_date_gmt: '2008-02-19 13:09:15'
+  post_modified: '2008-02-19 13:09:15'
+  post_modified_gmt: '2008-02-19 13:09:15'
+  comment_status: open
+  ping_status: open
+  post_name: loss-of-my-user-name-is-not-that-bad
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '337462436'
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1as9lSM
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474049704;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10316;}i:1;a:1:{s:2:"id";i:10865;}i:2;a:1:{s:2:"id";i:236;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-02-19-loss-of-my-user-name-is-not-that-bad.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '501'

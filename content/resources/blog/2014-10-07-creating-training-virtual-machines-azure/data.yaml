@@ -1,0 +1,313 @@
+post:
+  title: Creating training virtual machines in Azure
+  link: https://nkdagility.com/blog/creating-training-virtual-machines-azure/
+  pubDate: Tue, 07 Oct 2014 15:06:37 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10771
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">I am teaching the <a href=\"http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/\">Managing Projects with Microsoft Visual Studio Team Foundation Server 2013</a> class next week in Cheltenham and for that I need 16 VM's based on the <a href=\"http://aka.ms/vs13almvm\">Visual Studio 2013 Update 3 ALM Virtual Machine</a>. To make life easier I will be creating training virtual machines in Azure.</p>\r\n<p>If you have ever had to teach a training course, especially a technical one, it’s the equipment that is the most painful thing to configure. Azure has matured a lot over the last few years and although I have configured training in Amazon's AWS service I wanted to go all Microsoft.</p>\r\n<p>The kind of tough thing is that the virtual hard disk (VHD) used by the virtual demo machine form Brian Keller is 80GB. And yes, I have to upload that beast to Azure.</p>\r\n<h2>Uploading your Hyper-V virtual machine</h2>\r\n<p>The first task is <a href=\"http://go.microsoft.com/fwlink/p/?linkid=320376&amp;clcid=0x409\">to download and install the Azure PowerShell</a> using the web platform installer. This will get all of the pre-requisites and install them for you.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0011.png\" alt=\"clip_image001\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once you have this installed you will have \"Microsoft Azure PowerShell\" available on your Start Menu. Run this and wait a bit for it to load all of its gubbens.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0021.png\" alt=\"clip_image002\" width=\"800\" height=\"359\" border=\"0\" /></p>\r\n<p>At this point we need a couple of things to be setup in the Azure Portal. I am sure that you can do this stuff with PowerShell as well, but I usually prefer to only drop to PowerShell for repeatable tasks. We need to configure a container for our VHD.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0031.png\" alt=\"clip_image003\" width=\"800\" height=\"396\" border=\"0\" /></p>\r\n<p>So if you do not already have one head over to the azure portal and create a Storage location. You will need to give it an unchangeable URL so pick carefully. I wish I had picked something other than \"trainingeu\" but that’s the way the cookie crumbles.</p>\r\n<p><span class=\"label label-info\">Note</span>You can create a new one with the right name and 'copy' the content over before deleting the old one. This, for now, is too much hassle.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0041.png\" alt=\"clip_image004\" width=\"800\" height=\"396\" border=\"0\" /></p>\r\n<p>We then create a 'folder' called a 'container' in there to hold our VHD's. We are now good to go for uploading out 80GB VHD from Microsoft. You will need to download all of the bits from them and unpack it locally to extract the VHD. That will take a while, even on my SSD's it takes about 30 minutes. Once there though you have a nave a clean clean VHD ready to go.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0051.png\" alt=\"clip_image005\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>The first thing we need to do is authenticate with Azure which is fairly simple. You can automate this but for now the UI approach is best. If you call \"Add-AzureAccount\" without any parameters it will pop a UI authentication box. This did not work with \"two-factor\" and I had to turn that off, but that <a href=\"http://nkdagility.com/agility-windows-10-upgrading-surface-pro-2/\">could be a Windows 10 issue</a> rather than an Azure one.</p>\r\n<p>Once you are all logged in you can run any commands that you have permissions for and in this case we need to send our local VHD file to the VHD folder that we created.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0061.png\" alt=\"clip_image006\" width=\"800\" height=\"313\" border=\"0\" /></p>\r\n<pre class=\"lang:default decode:true \">Add-AzureVhd -Destination \"https://trainingeu.blob.core.windows.net/vhds/bkvm-2013-3.vhd\" -LocalFilePath \"V:ServersBKVM2013.3WMIv2Virtual Hard Disksbkvm-2013-3.vhd\"</pre>\r\n<p>\_The command completes in three phases. First it creates an MD5 hash to verify the file. This can take a while. Then it looks for empty blocks in the disk. Your VHD may be 780GB on disk, but if it is only 60% full you only need to upload the 60%. Woot… win there.</p>\r\n<p>Then the upload happens. I left it running overnight on my 100mb Virgin Cable connection and it got about 27% through. Then I had to go onsite in Cheltenham to teach the Professional Scrum Foundations course and only had hotel or customer external bandwidth at no more than 0.5Mbps (more like 0.1Mbps at the hotel).</p>\r\n<p>The customer offered to wire me directly into their 100Mb synchronous line, and then pulled out the stops when they found out it was for their training course next week. 80GB done in 3 hours. Problem solved.</p>\r\n<p><span class=\"label label-info\">Note</span>The upload is reusable but only from the same computer. It does need to do the preamble each time though and as long as the file has not changed you can restart the upload.</p>\r\n<h2>Creating an instance of your Virtual Machine</h2>\r\n<p>So now I have a really big file on the internet. Time to make it do something useful. First we need to tell Azure that it really is a VHD and we really want to be a template so we can create lots of duplicates. In this case I need 16 on the day.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image007\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0071.png\" alt=\"clip_image007\" width=\"800\" height=\"396\" border=\"0\" /></p>\r\n<p>You need to create an 'image' that we will use as that template. If you go to \"Virtual Machines | Images | Create\" you will get the dialog you need to create the image. You will have to select \"I have syspreped the virtual machine\" even though you have not. We want duplicates of the same computer as is, rather than something that can be integrated into the network or domain. Sysprep would give us the out-of-box experience of a new install so that we can rename the computer. These VM&lt; 's don’t need to talk to each other and will all have the same SID, name, and users. They are copies.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image008\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0081.png\" alt=\"clip_image008\" width=\"800\" height=\"396\" border=\"0\" /></p>\r\n<p>After few minutes our new template will be available in the gallery. Head to \"Virtual Machines | Instances | New | From Gallery\" to get the dialog above.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image009\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0091.png\" alt=\"clip_image009\" width=\"800\" height=\"396\" border=\"0\" /></p>\r\n<p>We can now create, through the UI, as many instances as we like and all we need to pick is the size / cost that we are willing to pay. The BKVM is a beast and has new than just TFS on there; SQL Server, SQL Server Analysis Services, SQL Server Reporting Services, Release Manager, TF Build, SharePoint 2013. So a big fast instance is needed. The local VM recommends 6GB RAM and 1 core.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image010\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0101.png\" alt=\"clip_image010\" width=\"728\" height=\"278\" border=\"0\" /></p>\r\n<p>After some experimenting I will be going with D2. D2 gives you the 2 cores and 7GB ram, but also adds SSD disks. This should give the students roughly the same performance that I get running the VM locally on my Surface.</p>\r\n<h2>Creating many instances of your VM</h2>\r\n<p>So we are good for creating one or two instances, but what if I need 16 (or 30) instances. I don’t want to have to do it manually so we need a little bit of PowerShell. My first attempt at this was to do:</p>\r\n<pre class=\"lang:default decode:true \">Add-AzureAccount\r\nNew-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName 12683aa2-b30f-4cde-8b4a-281faafb7a57__Image__BKVM2013.3 -AdminUsername nakedalm –Password P2ssw0rd -location \"West Europe\"</pre>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>But this resulted in a nasty error.</p>\r\n<p>New-AzureQuickVM : CurrentStorageAccountName is not accessible. Ensure the current storage account is accessible and</p>\r\n<p>in the same location or affinity group as your cloud service.</p>\r\n<p>At line:1 char:1</p>\r\n<p>+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...</p>\r\n<p>+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\r\n<p>+ CategoryInfo : CloseError: (:) [New-AzureQuickVM], ArgumentException</p>\r\n<p>+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM</p>\r\n</blockquote>\r\n<p>This error is a red hearing and confused me for ages as I could not figure out the issue.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image011\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image0111.png\" alt=\"clip_image011\" width=\"800\" height=\"306\" border=\"0\" /></p>\r\n<p>I first looked to see if I had the cloud service in the right location. Yup… \"West Europe\".</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image012\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image012.png\" alt=\"clip_image012\" width=\"800\" height=\"314\" border=\"0\" /></p>\r\n<p>Maybe I put my storage in the wrong location? Nope… \"West Europe\". Dam, whats the problem…</p>\r\n<pre class=\"lang:default decode:true\">Get-AzureSubscription</pre>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>SubscriptionId : 12683aa2-b30f-4cde-8b4a-281faafb7a57</p>\r\n<p>SubscriptionName : Pay-As-You-Go</p>\r\n<p>Environment : AzureCloud</p>\r\n<p>SupportedModes : AzureServiceManagement,AzureResourceManager</p>\r\n<p>DefaultAccount : martin@nakedalm.com</p>\r\n<p>Accounts : {martin@nakedalm.com}</p>\r\n<p>IsDefault : True</p>\r\n<p>IsCurrent : True</p>\r\n<p>CurrentStorageAccountName :</p>\r\n<p>SubscriptionId : 011bb48f-345c-4096-be52-d84c0efb7c3c</p>\r\n<p>SubscriptionName : MSDN Dev/Test Pay-As-You-Go</p>\r\n<p>Environment : AzureCloud</p>\r\n<p>SupportedModes : AzureServiceManagement,AzureResourceManager</p>\r\n<p>DefaultAccount : martin@nakedalm.com</p>\r\n<p>Accounts : {martin@nakedalm.com}</p>\r\n<p>IsDefault : False</p>\r\n<p>IsCurrent : False</p>\r\n<p>CurrentStorageAccountName :</p>\r\n</blockquote>\r\n<p>…Well after hunting around for a while it turns out that there was no default storage on the subscription. As the VM is added to the subscription, there needs to be a default store. A very misleading error, I would have preferred \"Error: no storage specified\".</p>\r\n<pre class=\"lang:default decode:true \">Set-AzureSubscription -SubscriptionName \"Pay-As-You-Go\" -CurrentStorageAccountName trainingeu -PassThru</pre>\r\n<p>\_Now we have some storage wired up we can go ahead and create an instance with PowerShell…</p>\r\n<pre class=\"lang:default decode:true \">New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName 12683aa2-b30f-4cde-8b4a-281faafb7a57__Image__BKVM2013.3 -AdminUsername nakedalm -Password P2ssw0rd -location \"West Europe\"\r\n</pre>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>VERBOSE: 13:17:07 - Begin Operation: New-AzureQuickVM</p>\r\n<p>VERBOSE: 13:17:08 - Completed Operation: New-AzureQuickVM</p>\r\n<p>New-AzureQuickVM : Service already exists, Location cannot be specified.</p>\r\n<p>At line:1 char:1</p>\r\n<p>+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...</p>\r\n<p>+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\r\n<p>+ CategoryInfo : CloseError: (:) [New-AzureQuickVM], ApplicationException</p>\r\n<p>+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM</p>\r\n</blockquote>\r\n<p>Baws, what now. Ok… remove the location.</p>\r\n<pre class=\"width:750 lang:default decode:true \">New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName 12683aa2-b30f-4cde-8b4a-281faafb7a57__Image__BKVM2013.3 -AdminUsername nakedalm -Password P2ssw0rd\r\n</pre>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>VERBOSE: 14:41:25 - Begin Operation: New-AzureQuickVM</p>\r\n<p>VERBOSE: 14:41:25 - Completed Operation: New-AzureQuickVM</p>\r\n<p>VERBOSE: 14:41:26 - Begin Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01</p>\r\n<p>New-AzureQuickVM : BadRequest: The image name is invalid: Consecutive underscores as image name</p>\r\n<p>12683aa2-b30f-4cde-8b4a-281faafb7a57__Image__BKVM2013.3 is not allowed.</p>\r\n<p>At line:1 char:1</p>\r\n<p>+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...</p>\r\n<p>+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>\r\n<p>+ CategoryInfo : CloseError: (:) [New-AzureQuickVM], CloudException</p>\r\n<p>+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM</p>\r\n</blockquote>\r\n<p>Auch…pish… ok… so the image name should be the friendly name and not the actual name… that was obvious…</p>\r\n<pre class=\"lang:default decode:true \">New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName BKVM2013.3 -AdminUsername nakedalm –Password P2ssw0rd</pre>\r\n<p>&nbsp;</p>\r\n<blockquote>\r\n<p>PS C:&gt; New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName BKVM2013.3 -AdminUsername na</p>\r\n<p>kedalm -Password P2ssw0rd</p>\r\n<p>VERBOSE: 14:42:11 - Begin Operation: New-AzureQuickVM</p>\r\n<p>VERBOSE: 14:42:11 - Completed Operation: New-AzureQuickVM</p>\r\n<p>VERBOSE: 14:42:12 - Begin Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01</p>\r\n<p>VERBOSE: 14:43:18 - Completed Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01</p>\r\n<p>OperationDescription OperationId OperationStatus</p>\r\n<p>-------------------- ----------- ---------------</p>\r\n<p>New-AzureQuickVM 12fdcbb0-9f4d-1c96-b321-76983692da6e Succeeded</p>\r\n</blockquote>\r\n<p>Woot! I now have a new VM created kinda automated, or at least with the possibility.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image013\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image013.png\" alt=\"clip_image013\" width=\"800\" height=\"349\" border=\"0\" /></p>\r\n<p>Poo… its an A1 instance. A piddley wee scrawny server that would have no hope of lifting SharePoint's fat ass, and that will defiantly get beaten up by Analysis Services. In fact the minimum for TFS is 2GB and we do not even meet that.</p>\r\n<pre class=\"lang:default decode:true \">New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName BKVM2013.3 -InstanceSize D2 -AdminUsername nakedalm -Password P2ssw0rd</pre>\r\n<p>\_Now I have more memory, more processor and lovely SSD's underpinning my student box.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image014\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image014.png\" alt=\"clip_image014\" width=\"800\" height=\"342\" border=\"0\" /></p>\r\n<p>Phew..</p>\r\n<p>Now I could do all out and automate creating the VM's, as well as the Stop-AzureVM that will be needed at the end of the day and inexorable Start-AzureVM the next. However it may not be worth it. I can copy, paste 16 times and get the same result. If I was doing this a lot I might do a little more PowerShell.</p>\r\n<h2>Conclusion</h2>\r\n<p>With all the hassle of setting up and configuring local computers this service is an absolute dream. Now all that matters is the cost. Luckily there is a <a href=\"http://azure.microsoft.com/en-us/pricing/calculator\">handy dandy Azure pricing calculator</a>.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image010[1]\" src=\"https://nkdagility.com/wp-content/uploads/2014/10/clip-image01011.png\" alt=\"clip_image010[1]\" width=\"728\" height=\"278\" border=\"0\" /></p>\r\n<p>This is the monthly cost for the fast SSD D-Series virtual machines and for 16 of them (one for each student) it looks like it would be around £2207.60 per month. That’s £2.97 per hour for all 16. The course is 16 hours so if I am careful it will be about £50 for a two day course. Of course if I forget to turn them off in the evening then it could hit £142.56 for 48 hours.</p>\r\n<p>The future is cloud…</p>"
+  - >-
+    <p class="lead">I am teaching the <a
+    href="http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/">Managing
+    Projects with Microsoft Visual Studio Team Foundation Server 2013</a> class
+    next week in Cheltenham and for that I need 16 VM's based on the <a
+    href="http://aka.ms/vs13almvm">Visual Studio 2013 Update 3 ALM Virtual
+    Machine</a>. To make life easier I will be creating training virtual
+    machines in Azure.  </p>
+  post_id: '10771'
+  post_date: '2014-10-07 16:06:37'
+  post_date_gmt: '2014-10-07 15:06:37'
+  post_modified: '2014-10-21 07:10:18'
+  post_modified_gmt: '2014-10-21 06:10:18'
+  comment_status: open
+  ping_status: open
+  post_name: creating-training-virtual-machines-azure
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1rFlthA
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '62'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: dsq_thread_id
+    meta_value: '3088525066'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10829'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474846807;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10778;}i:1;a:1:{s:2:"id";i:11152;}i:2;a:1:{s:2:"id";i:11120;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-10-07-creating-training-virtual-machines-azure.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1017'
+  comment:
+  - comment_id: '5270'
+    comment_author: Dew Drop &#8211; October 8, 2014 (#1872) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/10/08/dew-drop-october-8-2014-1872/
+    comment_author_IP: 168.62.48.19
+    comment_date: '2014-10-08 13:52:06'
+    comment_date_gmt: '2014-10-08 12:52:06'
+    comment_content: >-
+      [&#8230;] Creating training virtual machines in Azure (Martin Hinshelwood)
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412772726.938744;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1412779676.96114;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '5371'
+    comment_author: Tobias Zimmergren
+    comment_author_email: tobias@zimmergren.net
+    comment_author_url: http://www.zimmergren.net/
+    comment_author_IP: 195.60.68.156
+    comment_date: '2014-10-10 15:00:00'
+    comment_date_gmt: '2014-10-10 14:00:00'
+    comment_content: |-
+      Way to go Martin. 
+      Excellent write-up, and perfectly timed I might add. 
+      Cheers,
+      Tobias.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1629131314'
+  - comment_id: '5468'
+    comment_author: >-
+      Move an Azure storage blob to another store - naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/move-azure-storage-blob-another-store/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-10-14 15:15:48'
+    comment_date_gmt: '2014-10-14 14:15:48'
+    comment_content: >-
+      [&#8230;] Microsoft Visual Studio Team Foundation Server 2013 course in
+      Cheltenham this week and have been creating training virtual machines in
+      Azure. My template is 80GB and it is quite an arduous task to upload it. I
+      now want to move it to a new, [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1413296148.993489;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1413444211.487914;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '5554'
+    comment_author: Graham Smith
+    comment_author_email: graham.david.smith@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 80.229.15.180
+    comment_date: '2014-10-15 23:19:00'
+    comment_date_gmt: '2014-10-15 22:19:00'
+    comment_content: >-
+      Whenever I want to upload a new version of the BKVM to Azure I use a
+      staging VM in Azure to do the 80GB download to. Much faster than round
+      tripping the VHD to earth... :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1638058198'
+  - comment_id: '5573'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 134.32.149.148
+    comment_date: '2014-10-16 08:23:00'
+    comment_date_gmt: '2014-10-16 07:23:00'
+    comment_content: Yea :) I thought of that after... good call...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5554'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1638058198'
+    - meta_key: dsq_post_id
+      meta_value: '1638597042'
+  - comment_id: '9306'
+    comment_author: Vincent THAVONEKHAM
+    comment_author_email: disqus.CommentHumanTalks@thavo.com
+    comment_author_url: http://www.thavo.com/
+    comment_author_IP: 31.33.19.245
+    comment_date: '2014-12-22 18:18:00'
+    comment_date_gmt: '2014-12-22 18:18:00'
+    comment_content: >-
+      Hi, works fine for me thanks. 
+
+
+      After 2 days of attempts, I nearly gave up in trying to use the BKVM in
+      Azure until I found this Post! THANKS, this gave the the extra motivation
+      to carry on the work.
+
+
+      I used an variant solution :
+
+      - Instantiate a staging temporary VM just to download and UnZip the 80 GB
+      in the "temporary drive!!" to speed it up (may be?) . The good thing is
+      that I can carry my laptop around, and still the VM is doing its job
+      behind the scene.
+
+
+      - used the CloudXplorer to upload the VHD as a "Page" Blob storage (VERY
+      IMPORTANT "Page", and CloudXplorer offers such option. Else you'll waste 4
+      hours!, whereas the Powershell takes care of that automatically).
+
+
+      - used CloudBerry Explorer for Azure Blob Storage to move my VHDs around
+      and back them up.
+
+
+      The only problem I had was during the creation of the VM from the image. I
+      already faced this problem many times. The process hangs, and I let it
+      hang for 1 hour then turn the Cloud Services OFF (not the VM since the
+      button is not yet their). Then, for instance use portal.Azure.com to turn
+      it ON again. I did it twice and here you go. 
+
+
+      Then a mini-problem worth mentioning : the User/password to the RDP is the
+      one provided by Brian, (not the one that was setup in the Azure Portal
+      during its creation), i.e. for instance VSALMAdam  P2ssw0rd
+
+
+
+      Thanks again,
+
+
+      Note: what surprises me is that it takes 4 hours to upload from my staging
+      VM to an Azure Blob storage (that are in the same DC, and same affinity
+      Group. Although I know there's a bit of conversion). And it is
+      instantaneous to copy the VHD from one container to another one !
+
+
+      Vincent Thavonekham.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1754888652'
+  - comment_id: '10499'
+    comment_author: >-
+      Managing your Azure VM&#039;s with your Phone | naked ALM - Experts in
+      ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/managing-azure-vms-phone/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-28 16:51:47'
+    comment_date_gmt: '2015-01-28 16:51:47'
+    comment_content: >-
+      [&#8230;] getting their coders up to speed with the features in TFS 2013.
+      For all of the ALM courses I create training machines in Azure based on
+      the Microsoft provided all in one demo box. I have a number of PowerShell
+      scripts for [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1422463907.863652;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1423492693.377717;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14027'
+    comment_author: Justin Thomas
+    comment_author_email: thosas@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 86.162.133.200
+    comment_date: '2016-06-09 10:35:00'
+    comment_date_gmt: '2016-06-09 09:35:00'
+    comment_content: >-
+      Hi, have you had to update your practices for ARM?  The classic mode VM's
+      appear to have gone as an option from my account, but looking into using
+      Resource Manager to create templates and duplicate them seems hugely
+      onerous.
+
+
+      I don't really want to become an Azure expert, I just want to easily clone
+      an environment for training customers.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2720643689'

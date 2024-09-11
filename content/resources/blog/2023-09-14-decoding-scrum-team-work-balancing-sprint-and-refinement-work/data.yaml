@@ -1,0 +1,282 @@
+post:
+  title: 'Decoding Scrum Team Work: Balancing Sprint and Refinement Work'
+  link: >-
+    https://nkdagility.com/blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work/
+  pubDate: Thu, 14 Sep 2023 14:25:00 +0000
+  creator: MrHinsh
+  guid:
+    _: https://nakedalmstage.wpengine.com/?p=49783
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <!-- wp:paragraph -->
+
+    <p><strong>Software Development</strong> is not just a systematic process
+    but a dynamic interplay of critical work that shapes the progress of your
+    product. A <strong>Scrum</strong> team's work can be classified into
+    <strong>Sprint</strong> work and <strong>Refinement</strong>. To steer your
+    <strong>Scrum Team</strong> towards success, it's essential to understand,
+    manage, and balance these two types of work. This article dives deep into
+    the heart of Scrum team operations, offering clear-cut strategies and
+    innovative visualisation techniques to help you understand and manage your
+    Sprint work and Refinement processes effectively. Decode the intricacies of
+    Scrum teamwork and unlock the path to achieving your product goals with
+    increased efficiency.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading -->
+
+    <h2 class="wp-block-heading" id="h-tldr">TLDR;</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>This post analyses two types of work a Scrum Team typically undertakes:
+    Sprint work and Refinement. <strong>Sprint work</strong> involves changes
+    that lead to a tangible alteration in the product increment, while
+    <strong>Refinement </strong>consists of activities that substantively alter
+    the Product Backlog. Sprint Work adds direct value to the stakeholders,
+    while Refinement sets the stage for future Sprint Work. The challenge lies
+    in striking a balance between these types of work, ensuring an efficient
+    workflow. To visualise this work, the article recommends using platforms
+    like <strong>#AzureDevOps</strong> that offer mechanisms for tracking both
+    Sprint Work and Refinement, ensuring seamless transparency.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading -->
+
+    <h2 class="wp-block-heading"
+    id="h-the-intricacies-of-sprint-work-and-refinement">The Intricacies of
+    Sprint Work and Refinement</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Every Scrum Team juggles two kinds of work - Sprint Work and Refinement.
+    While they may seem different, they're two sides of the same coin,
+    intrinsically tied together.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>Sprint Work</strong> involves anything that directly contributes
+    to the Sprint Backlog. It could be discovery, development, validation, or
+    delivery tasks that significantly change the state of the <strong>Product
+    Increment</strong>. This work directly adds value to the stakeholders and
+    propels the product forward.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>On the other hand, <strong>Refinement </strong>is the work done against
+    the Product Backlog. It could involve ideation, discovery, proofing,
+    decomposition, sizing, or other activities that significantly change the
+    <strong>Product Backlog</strong>. This is less direct value, but Refinement
+    is critical to a Scrum Team's success. It sets the stage for future Sprint
+    Work by getting the Backlog Items "ready" for the Scrum Team to bring into
+    the Sprint.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Refinement helps prepare for surprises by allowing the Scrum Team space
+    to provide prerequisites and other inputs for the Backlog items before they
+    are brought into the Sprint. It helps reduce the chance of unforeseen issues
+    that could have been avoided. The challenge, however, is to prevent
+    over-preparation that leads to unnecessary work – it's all about finding the
+    'Goldilocks zone' of balance between too much and too little.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-visualising-refinement">Visualising
+    Refinement</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Visualising this work plays a crucial role in keeping track of project
+    progress. With its robust mechanisms, Azure DevOps is an excellent tool to
+    help visualise without pulling all those backlog items that are not yet
+    "ready" into the Sprint.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>To track the refinement work in the Board, create a new column named
+    'Refinement' and map it to the "Approved" or "New" state, depending on the
+    process used. This column will contain Backlog Items that need to be refined
+    to "ready" before they are candidates for the Sprint.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:image {"id":49785,"sizeSlug":"large","linkDestination":"none"} -->
+
+    <figure class="wp-block-image size-large"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/07/image-1-1280x653.png"
+    alt="" class="wp-image-49785"/><figcaption class="wp-element-caption">Azure
+    DevOps Board showing Refining Column with Tasks</figcaption></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>For the Taskboard, change the Iteration Path of the tasks to that of the
+    current Sprint, which is the default for new items created within the
+    context of a team. This change will display the task on the Taskboard and
+    pull a shadow of the Backlog Item in for context for these tasks.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:image {"id":49784,"sizeSlug":"large","linkDestination":"none"} -->
+
+    <figure class="wp-block-image size-large"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/07/image-1280x652.png"
+    alt="" class="wp-image-49784"/><figcaption class="wp-element-caption">Azure
+    DevOps Taskboard showing grey PBI not in Sprint with Tasks in
+    Sprint.</figcaption></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>These two capabilities are critical to being able to visualise the work
+    that is happening while maintaining the separation of the transparencies of
+    the Sprint and Product backlogs.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading -->
+
+    <h2 class="wp-block-heading" id="h-conclusion">Conclusion</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Understanding and managing the balance between Sprint Work and Refinement
+    is critical for a Scrum Team's success. By visualising these tasks
+    effectively, your team can plan and execute tasks efficiently, avoiding
+    unnecessary work and being prepared for potential roadblocks.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>By dedicating enough time to Refinement, teams gain a comprehensive
+    understanding of what's necessary, preparing them to effectively manage
+    upcoming tasks and potential challenges. Therefore, visualising all work in
+    progress allows for smoother product management and promotes a thorough
+    understanding of the product's needs, fostering more informed, efficient,
+    and successful Scrum operations.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>#Agile</strong> <strong>#TeamWork</strong>
+    <strong>#Productivity</strong></p>
+
+    <!-- /wp:paragraph -->
+  - ''
+  post_id: '49783'
+  post_date: '2023-09-14 14:25:00'
+  post_date_gmt: '2023-09-14 14:25:00'
+  post_modified: '2023-11-22 12:11:35'
+  post_modified_gmt: '2023-11-22 12:11:35'
+  comment_status: closed
+  ping_status: open
+  post_name: decoding-scrum-team-work-balancing-sprint-and-refinement-work
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.6.3
+  - meta_key: _last_editor_used_jetpack
+    meta_value: block-editor
+  - meta_key: _thumbnail_id
+    meta_value: '50130'
+  - meta_key: _wpbitly
+    meta_value: https://nkdagility.net/459mweC
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '631'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: '612'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '4'
+  - meta_key: _yoast_wpseo_wordproof_timestamp
+    meta_value: ''
+  - meta_key: ekit_post_views_count
+    meta_value: '1389'
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1700655096'
+  - meta_key: _wp_page_template
+    meta_value: default
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44705}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44705-49783/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44700}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44700-49783/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44704}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44704-49783/}!}
+  - meta_key: _toolset_associations_course-post
+    meta_value: >-
+      {!{http://nakedalmweb.wpengine.com/?post_type=courses&#038;p=10046}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-10046-49783/}!},
+      {!{http://nakedalmweb.wpengine.com/?post_type=courses&#038;p=10045}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-10045-49783/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=courses&#038;p=38325}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-38325-49783/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=courses&#038;p=38640}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-38640-49783/}!}
