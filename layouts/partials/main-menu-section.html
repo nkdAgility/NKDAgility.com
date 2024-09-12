@@ -1,22 +1,20 @@
+<!-- main-menu-section.html -->
 {{ $sectionName := .SectionName }} {{ $section := .context.Site.GetPage "section" $sectionName }}
-<li class="nav-item dropdown has-megamenu nkda-main-menu-item" style="list-style: none;">
-    <a class="nav-link dropdown-toggle nkda-main-menu-list-item p-3"  href="#" data-bs-toggle="dropdown">{{$section.Title}}</a>
-    <div class="dropdown-menu megamenu" role="menu">
-      <div class="row">
-        <div class="col-md-4">
-          <h3>{{$section.Title}}</h3>
-          <p>{{$section.Description}}</p>
-        </div>
-        <div class="col-md-8">
-          <ul class="panel-list">
-            {{ range $section.Pages }} {{ if not .Draft }}
-            <li class="nkda-main-menu-item"><a href="{{ .Permalink }}">{{ .Params.card.title }}</a></li>
-            <!-- Add more items as needed -->
-            {{ end }} {{ end }}
-          </ul>
-        </div>
+<li class="nav-item dropdown has-megamenu nkda-main-menu-item" style="list-style: none">
+  <a class="nav-link nkda-main-menu-list-item p-3" href="{{ $section.Permalink }}" data-bs-toggle="dropdown">{{ $section.Title }}</a>
+  <div class="dropdown-menu megamenu" role="menu">
+    <div class="row">
+      <div class="col-md-4">
+        <h3>{{ $section.Title }}</h3>
+        <p>{{ $section.Description }}</p>
+      </div>
+      <div class="col-md-8">
+        <ul class="panel-list">
+          {{ range $section.Pages }} {{ if not .Draft }}
+          <li class="nkda-main-menu-item"><a href="{{ .Permalink }}">{{ .Params.card.title }}</a></li>
+          {{ end }} {{ end }}
+        </ul>
       </div>
     </div>
-  </li>
-</ul>
-
+  </div>
+</li>
