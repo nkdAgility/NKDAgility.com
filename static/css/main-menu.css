@@ -5,57 +5,15 @@
 }
 
 /* Main Menu List Item Styles */
-.nkda-main-menu-list-item {
+.nkda-main-menu-top-item {
   text-transform: uppercase !important;
-  position: relative; /* Ensure the mega menu is positioned correctly */
-}
-
-/* Mega Menu Styles */
-.navbar .megamenu {
-  display: none; /* Hide by default */
-  padding: 1rem;
-  position: absolute; /* Position relative to the parent */
-  top: 100%; /* Position below the nav item */
-  left: 0;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  width: 300px; /* Adjust width as needed */
-  z-index: 1000; /* Ensure it appears above other content */
-  margin-top: 0; /* Ensure no extra margin */
-}
-
-/* Show the mega menu on hover */
-.nav-item:hover .megamenu,
-.megamenu:hover {
-  display: block;
+  
 }
 
 /* Ensure the hover effect covers the menu */
-.nav-item:hover .nkda-main-menu-list-item {
+.nav-item:hover .nkda-main-menu-top-item {
   color: white;
   background: #713183;
+  
 }
 
-/* Desktop View */
-@media all and (min-width: 992px) {
-  .navbar .has-megamenu {
-    position: static !important; /* Ensure the mega menu aligns correctly in desktop view */
-  }
-  .navbar .megamenu {
-    left: 0;
-    right: 0;
-    width: 100%;
-    margin-top: 0;
-  }
-}
-
-/* Mobile View */
-@media (max-width: 991px) {
-  .navbar.fixed-top .navbar-collapse,
-  .navbar.sticky-top .navbar-collapse {
-    overflow-y: auto;
-    max-height: 90vh;
-    margin-top: 10px;
-  }
-}

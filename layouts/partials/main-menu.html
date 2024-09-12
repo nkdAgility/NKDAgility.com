@@ -22,3 +22,10 @@
     </nav>
   </div>
 </div>
+<script>
+  const hamburger = document.querySelector('.hamburger-toggle');
+  const navbar = document.querySelector('.navbar-collapse');
+  hamburger.addEventListener('click', () => {
+    navbar.classList.toggle('show');
+  });
+</script>
