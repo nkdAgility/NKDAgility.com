@@ -1,50 +1,24 @@
-<!-- Main Navigation -->
-<!-- Main Navigation -->
 <div class="container-fluid">
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
+      <a class="navbar-brand" href="#">
+        <img src="https://nkdagility.com/wp-content/uploads/2020/11/nkdagility-with-martin-hinshelwood-light.png" alt="Naked Agility Ltd" width="234" height="99" />
+      </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="mainNav">
-        <a class="navbar-brand" href="#">
-          <img src="https://nkdagility.com/wp-content/uploads/2020/11/nkdagility-with-martin-hinshelwood-light.png" alt="Naked Agility Ltd" width="234" height="99" />
-        </a>
         <ul class="navbar-nav ms-auto">
-          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "capabilities") }} {{ partial "main-menu-section.html" (dict "context" . "SectionName" "methods") }} {{ partial "main-menu-section.html" (dict "context" . "SectionName"
-          "outcomes") }}
+          <!-- Company -->
+          {{ partial "main-menu-company.html" . }}
+          <!-- capabilities -->
+          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "capabilities") }}
+          <!-- methods -->
+          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "methods") }}
+          <!-- outcomes -->
+          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "outcomes") }}
         </ul>
       </div>
     </nav>
   </div>
 </div>
-
-<style>
-  .navbar .megamenu {
-    padding: 1rem;
-  }
-
-  /* ============ desktop view ============ */
-  @media all and (min-width: 992px) {
-    .navbar .has-megamenu {
-      position: static !important;
-    }
-    .navbar .megamenu {
-      left: 0;
-      right: 0;
-      width: 100%;
-      margin-top: 0;
-    }
-  }
-  /* ============ desktop view .end// ============ */
-
-  /* ============ mobile view ============ */
-  @media (max-width: 991px) {
-    .navbar.fixed-top .navbar-collapse,
-    .navbar.sticky-top .navbar-collapse {
-      overflow-y: auto;
-      max-height: 90vh;
-      margin-top: 10px;
-    }
-  }
-</style>
