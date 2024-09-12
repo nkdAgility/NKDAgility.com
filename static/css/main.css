@@ -11,6 +11,15 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color);
   }
 
+.nkda-heading-primary {
+    color: var(--primary-color);
+    font-size: clamp(1rem, 5vw + 1rem, 3.5rem);
+}
+.nkda-heading-secondary {
+    color: var(--primary-color);
+    font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
+}
+
 .mainContainer
 {
     max-width: 1768px;

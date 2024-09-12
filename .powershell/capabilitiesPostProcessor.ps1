@@ -354,9 +354,14 @@ function Update-OldSlugsAsAliases {
 $courseDirectory = "content\capabilities\training-courses"
 $capabilityDirectory = "content\capabilities"
 $peopleDirectory = "content\company\people"
+$outcomesDir = "content\outcomes"
 
 Update-MarkdownWithCard -baseDirectory $peopleDirectory
 Update-OldSlugsAsAliases -baseDirectory $peopleDirectory
+
+Update-MarkdownWithCard -baseDirectory $outcomesDir 
+Update-OldSlugsAsAliases -baseDirectory $outcomesDir 
+
 
 # # Run each update function sequentially for both directories
 # Update-MarkdownWithCourseData -baseDirectory $courseDirectory
