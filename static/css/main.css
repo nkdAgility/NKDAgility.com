@@ -1,3 +1,16 @@
+/* Define branding color variables */
+:root {
+    --primary-color: #713183; /* Primary branding color */
+    --secondary-color: #007acc; /* Secondary branding color */
+    --accent-color: #e37f01; /* Accent color */
+    --background-color: #ecf0f1; /* Background color */
+  }
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+  }
+
 .mainContainer
 {
     max-width: 1768px;
