@@ -1,7 +1,7 @@
 <!-- main-menu-section.html -->
 {{ $sectionName := .SectionName }} {{ $section := .context.Site.GetPage "section" $sectionName }}
 <li class="nav-item dropdown has-megamenu nkda-main-menu-item" style="list-style: none">
-  <a class="nav-link nkda-main-menu-list-item p-3" href="{{ $section.Permalink }}" data-bs-toggle="dropdown">{{ $section.Title }}</a>
+  <a class="nav-link nkda-main-menu-list-item p-3" href="{{ $section.Permalink }}">{{ $section.Title }}</a>
   <div class="dropdown-menu megamenu" role="menu">
     <div class="row">
       <div class="col-md-4">

@@ -10,7 +10,7 @@
 
 /* Main Menu Item Styles */
 .nkda-main-menu-item {
-list-style: none;
+  list-style: none;
 }
 
 .nkda-main-menu-item:hover {
@@ -28,8 +28,8 @@ list-style: none;
   background-color: #fff;
   border: 1px solid #ddd;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  width: 300px; /* Adjust as needed */
-  z-index: 1000;
+  width: 300px; /* Adjust width as needed */
+  z-index: 1000; /* Ensure it appears above other content */
 }
 
 /* Show the mega menu on hover */
@@ -40,13 +40,13 @@ list-style: none;
 /* Desktop View */
 @media all and (min-width: 992px) {
   .navbar .has-megamenu {
-      position: static !important;
+    position: static !important; /* Ensure mega menu aligns correctly in desktop view */
   }
   .navbar .megamenu {
-      left: 0;
-      right: 0;
-      width: 100%;
-      margin-top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 0;
   }
 }
 
@@ -54,8 +54,8 @@ list-style: none;
 @media (max-width: 991px) {
   .navbar.fixed-top .navbar-collapse,
   .navbar.sticky-top .navbar-collapse {
-      overflow-y: auto;
-      max-height: 90vh;
-      margin-top: 10px;
+    overflow-y: auto;
+    max-height: 90vh;
+    margin-top: 10px;
   }
 }
