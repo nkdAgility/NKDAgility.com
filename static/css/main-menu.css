@@ -1,46 +1,46 @@
-/* Main Menu List Item Styles */
-.nkda-main-menu-list-item {
-  text-transform: uppercase !important;
-}
-
-.nkda-main-menu-list-item:hover {
-  color: white;
-  background: #713183;
-}
-
 /* Main Menu Item Styles */
 .nkda-main-menu-item {
   list-style: none;
+  position: relative; /* Ensure the mega menu is positioned relative to this item */
 }
 
-.nkda-main-menu-item:hover {
-  color: white;
-  background: #713183;
+/* Main Menu List Item Styles */
+.nkda-main-menu-list-item {
+  text-transform: uppercase !important;
+  position: relative; /* Ensure the mega menu is positioned correctly */
 }
 
 /* Mega Menu Styles */
 .navbar .megamenu {
   display: none; /* Hide by default */
   padding: 1rem;
-  position: absolute; /* Position it relative to the parent */
-  top: 100%; /* Position it below the nav item */
+  position: absolute; /* Position relative to the parent */
+  top: 100%; /* Position below the nav item */
   left: 0;
   background-color: #fff;
   border: 1px solid #ddd;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   width: 300px; /* Adjust width as needed */
   z-index: 1000; /* Ensure it appears above other content */
+  margin-top: 0; /* Ensure no extra margin */
 }
 
 /* Show the mega menu on hover */
-.nav-item:hover .megamenu {
+.nav-item:hover .megamenu,
+.megamenu:hover {
   display: block;
+}
+
+/* Ensure the hover effect covers the menu */
+.nav-item:hover .nkda-main-menu-list-item {
+  color: white;
+  background: #713183;
 }
 
 /* Desktop View */
 @media all and (min-width: 992px) {
   .navbar .has-megamenu {
-    position: static !important; /* Ensure mega menu aligns correctly in desktop view */
+    position: static !important; /* Ensure the mega menu aligns correctly in desktop view */
   }
   .navbar .megamenu {
     left: 0;
