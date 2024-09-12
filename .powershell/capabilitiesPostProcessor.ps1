@@ -21,9 +21,10 @@ function Get-FrontMatter {
         # Return both the front matter data and the markdown body
         return @{ 
             FrontMatter = $frontMatterData; 
-            Body = $markdownBody 
+            Body        = $markdownBody 
         }
-    } else {
+    }
+    else {
         Write-Host "No front matter found in $markdownFilePath"
         return $null
     }
@@ -56,7 +57,8 @@ function Get-RelativePathFromURL {
     # Use regex to remove the domain from the URL
     if ($url -match "https?:\/\/[^\/]+(.+)") {
         return $matches[1]
-    } else {
+    }
+    else {
         return $url
     }
 }
@@ -128,14 +130,15 @@ function Ensure-CardNode {
     # Add or update the "Card" node in the front matter with empty default structure if no data
     if (-not $frontMatterData.ContainsKey('card')) {
         $frontMatterData.card = @{
-            title = $cardTitle;
+            title   = $cardTitle;
             content = $cardContent;
-            button = @{
+            button  = @{
                 content = $cardButtonContent
             }
         }
         Write-Host "Added empty card structure."
-    } else {
+    }
+    else {
         # Ensure all card fields exist
         if (-not $frontMatterData.card.ContainsKey('title')) {
             $frontMatterData.card.title = $cardTitle
@@ -145,10 +148,55 @@ function Ensure-CardNode {
         }
         if (-not $frontMatterData.card.ContainsKey('button')) {
             $frontMatterData.card.button = @{ content = $cardButtonContent }
-        } elseif (-not $frontMatterData.card.button.ContainsKey('content')) {
+        }
+        elseif (-not $frontMatterData.card.button.ContainsKey('content')) {
             $frontMatterData.card.button.content = $cardButtonContent
         }
         Write-Host "Ensured card structure exists."
+    }
+}
+
+# Function to update the card front matter
+function Update-MarkdownWithCard {
+    param (
+        [string]$baseDirectory
+    )
+
+    # Loop through each subdirectory (each capability or course folder)
+    Get-ChildItem -Path $baseDirectory -Directory | ForEach-Object {
+        $capabilityFolder = $_.FullName
+        $yamlFilePath = Join-Path $capabilityFolder "data.yaml"
+        $markdownFilePath = Join-Path $capabilityFolder "index.md"
+
+        # Check if both the YAML and Markdown files exist
+        if ((Test-Path $yamlFilePath) -and (Test-Path $markdownFilePath)) {
+            # Read the YAML data from data.yaml
+            $yamlData = Get-Content -Path $yamlFilePath -Raw | ConvertFrom-Yaml
+            $postMetaData = $yamlData.post.postmeta
+
+            # Get the front matter and body from the Markdown file
+            $markdownData = Get-FrontMatter -markdownFilePath $markdownFilePath
+
+            if ($markdownData) {
+                $frontMatterData = $markdownData.FrontMatter
+                $markdownBody = $markdownData.Body
+
+                # Extract the necessary data from the YAML file for the Card node
+                $cardTitle = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-card-title' } | Select-Object -ExpandProperty meta_value
+                $cardContent = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-card-copy' } | Select-Object -ExpandProperty meta_value
+                $cardButtonContent = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-card-button-text' } | Select-Object -ExpandProperty meta_value
+
+                # Ensure that the card structure exists, even if no data
+                Ensure-CardNode -frontMatterData $frontMatterData -cardTitle $cardTitle -cardContent $cardContent -cardButtonContent $cardButtonContent
+
+                # Save the updated front matter
+                Set-FrontMatter -markdownFilePath $markdownFilePath -frontMatterData $frontMatterData -markdownBody $markdownBody
+                Write-Host "Updated card front matter for $markdownFilePath"
+            }
+        }
+        else {
+            Write-Host "YAML or Markdown file not found in $capabilityFolder"
+        }
     }
 }
 
@@ -200,21 +248,21 @@ function Update-MarkdownWithCourseData {
 
                 # Update the "delivery" node in the front matter
                 $frontMatterData.delivery = @{
-                    code = $code
-                    type = $courseType
-                    duration = $duration
-                    skilllevel = $skillLevel
-                    lead = $lead
-                    audience = $audience
-                    format = $format
+                    code          = $code
+                    type          = $courseType
+                    duration      = $duration
+                    skilllevel    = $skillLevel
+                    lead          = $lead
+                    audience      = $audience
+                    format        = $format
                     prerequisites = $prerequisites
-                    details = $details
-                    brand = @{
+                    details       = $details
+                    brand         = @{
                         colour = $colour
                         vendor = $vendor
                     }
-                    topics = $topics
-                    objectives = $objectives
+                    topics        = $topics
+                    objectives    = $objectives
                     certification = $certification
                 }
 
@@ -222,7 +270,8 @@ function Update-MarkdownWithCourseData {
                 Set-FrontMatter -markdownFilePath $markdownFilePath -frontMatterData $frontMatterData -markdownBody $markdownBody
                 Write-Host "Updated front matter for $markdownFilePath with course data."
             }
-        } else {
+        }
+        else {
             Write-Host "YAML or Markdown file not found in $capabilityFolder"
         }
     }
@@ -269,7 +318,8 @@ function Update-OldSlugsAsAliases {
                     if ($frontMatterData.aliases -notcontains $oldSlug) {
                         Write-Host "Adding old slug '$oldSlug' to aliases."
                         $frontMatterData.aliases += $oldSlug
-                    } else {
+                    }
+                    else {
                         Write-Host "Slug '$oldSlug' already exists in aliases."
                     }
                 }
@@ -283,7 +333,8 @@ function Update-OldSlugsAsAliases {
                     if ($frontMatterData.aliases -notcontains $relativePath) {
                         Write-Host "Adding relative path '$relativePath' from post.link to aliases."
                         $frontMatterData.aliases += $relativePath
-                    } else {
+                    }
+                    else {
                         Write-Host "Relative path '$relativePath' already exists in aliases."
                     }
                 }
@@ -292,21 +343,26 @@ function Update-OldSlugsAsAliases {
                 Set-FrontMatter -markdownFilePath $markdownFilePath -frontMatterData $frontMatterData -markdownBody $markdownBody
                 Write-Host "Updated aliases front matter for $markdownFilePath"
             }
-        } else {
+        }
+        else {
             Write-Host "YAML or Markdown file not found in $capabilityFolder"
         }
     }
 }
 
 # Example: Run all updates against the courses and capabilities directories
-$courseDirectory = "C:\Users\MartinHinshelwoodNKD\source\repos\wordpress-export-to-markdown\output\courses"
-$capabilityDirectory = "C:\Users\MartinHinshelwoodNKD\source\repos\wordpress-export-to-markdown\output\capabilities"
+$courseDirectory = "content\capabilities\training-courses"
+$capabilityDirectory = "content\capabilities"
+$peopleDirectory = "content\company\people"
 
-# Run each update function sequentially for both directories
-Update-MarkdownWithCourseData -baseDirectory $courseDirectory
-Update-MarkdownWithCard -baseDirectory $courseDirectory
-Update-OldSlugsAsAliases -baseDirectory $courseDirectory
+Update-MarkdownWithCard -baseDirectory $peopleDirectory
+Update-OldSlugsAsAliases -baseDirectory $peopleDirectory
 
-#Update-MarkdownWithCourseData -baseDirectory $capabilityDirectory
-Update-MarkdownWithCard -baseDirectory $capabilityDirectory
-Update-OldSlugsAsAliases -baseDirectory $capabilityDirectory
+# # Run each update function sequentially for both directories
+# Update-MarkdownWithCourseData -baseDirectory $courseDirectory
+# Update-MarkdownWithCard -baseDirectory $courseDirectory
+# Update-OldSlugsAsAliases -baseDirectory $courseDirectory
+
+# #Update-MarkdownWithCourseData -baseDirectory $capabilityDirectory
+# Update-MarkdownWithCard -baseDirectory $capabilityDirectory
+# Update-OldSlugsAsAliases -baseDirectory $capabilityDirectory

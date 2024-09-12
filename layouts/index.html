@@ -23,7 +23,7 @@
 <section class="container my-5">
   <h2 title="Capabilities - What we do?">What we do?</h2>
   <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-  {{ partial "cards-capabilties.html"}} {{ partial "cards-section.html" (dict "SectionName" "capabilities") }}
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
 </section>
 <section class="container my-5">
   <h2 title="Outcomes - What you get?">What you get?</h2>
@@ -32,11 +32,18 @@
     can significantly reduce your Time to Market and boost Market Adaptability, setting your business apart. Explore the transformative outcomes we offer and see why companies trust NKDAgility to elevate their performance and thrive in competitive
     environments.
   </p>
-  {{ partial "cards-section.html" (dict "SectionName" "outcomes") }}
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
 </section>
 <section class="container my-5">
   <h2 title="methods - How we do it?">How we do it?</h2>
   <p> ssdsd. </p>
-  {{ partial "cards-section.html" (dict "SectionName" "methods") }}
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "methods") . }}
 </section>
+
+<section class="container my-5"></section>
+  <h2 title="People - Who are we?">Who are we?</h2>
+  <p> ssdsd. </p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "comapny/people") . }}
+</section>
+
 {{ end }}
