@@ -190,6 +190,11 @@ jobs:
       - name: Build
         run: hugo --source site # --minify
 
+      - name: Copy Files
+        shell: pwsh
+        run: |
+          Copy-Item -Path "staticwebapp.config.json" -Destination "/public/"
+
       - uses: actions/upload-artifact@v4
         with:
           name: Site
