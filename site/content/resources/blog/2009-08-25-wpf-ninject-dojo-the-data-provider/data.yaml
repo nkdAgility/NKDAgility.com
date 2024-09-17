@@ -1,0 +1,65 @@
+post:
+  title: 'Wpf Ninject Dojo: The Data Provider'
+  link: https://nkdagility.com/blog/wpf-ninject-dojo-the-data-provider/
+  pubDate: Tue, 25 Aug 2009 14:43:35 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/08/25/wpf-ninject-dojo-the-data-provider.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>You have probably heard me go on about Unity a couple of times:</p>  <ul>   <li><a href=\"http://blog.hinshelwood.com/archive/2009/05/08/my.unity.resolveof-ninja.aspx\">My.Unity.Resolve(Of Ninja)</a></li>    <li><a href=\"http://blog.hinshelwood.com/archive/2009/05/08/unity-and-asp.net.aspx\">Unity and ASP.NET</a></li>    <li><a href=\"http://blog.hinshelwood.com/archive/2009/07/30/creating-a-data-access-layer-using-unity.aspx\">Creating a Data Access layer using Unity</a></li> </ul>  <p>I have been using what is now <a href=\"http://www.codeplex.com/unity\" target=\"_blank\">unity</a> since the good old days (sooo not true, WPF is the Windows Forms killer, and good riddance) of WindowsForms and CAB (Client Application Block), but now there is a lightweight alternative: <a href=\"http://ninject.org\" target=\"_blank\">Ninject</a>. </p>  <p>I decided on my latest project (a Wpf dashboard for HEAT ITSM) that I needed dependency injection. Whenever I start building a <a href=\"http://msdn.microsoft.com/en-us/magazine/dd419663.aspx\" target=\"_blank\">MVVM</a> project I always end up needing some sort of dependency injection to keep everything nice and neat. It is only really needed once you get to a certain size and when you start wanting talk between <a href=\"http://en.wikipedia.org/wiki/Model_View_ViewModel\" target=\"_blank\">ViewModels</a>.</p>  <p>Anyway I was using a method of injecting my ViewModels into the Views using standard binding:</p>  <pre>&lt;igDock:ContentPane x:Class=\"SlaTodayView\"\n    xmlns:igDP=\"http://infragistics.com/DataPresenter\"     \n    xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"\n    xmlns:local=\"clr-namespace:WpfHeatItsmDashboard\"\n    xmlns:igWindows=\"http://infragistics.com/Windows\"\n    xmlns:igDock=\"http://infragistics.com/DockManager\"\n    xmlns:x=\"http://schemas.microsoft.com/winfx/2006/xaml\"\n    Header=\"Sla Today\" MinWidth=\"30\" MinHeight=\"50\"&gt;\n    &lt;igDock:ContentPane.Resources&gt;\n        &lt;ObjectDataProvider \n        x:Key=\"ViewModel\" \n        ObjectType=\"{x:Type local:SlaTodayViewModel}\" \n        /&gt;\n    &lt;/igDock:ContentPane.Resources&gt;\n    &lt;igDP:XamDataGrid DataContext=\"{StaticResource ViewModel}\" DataSource=\"{Binding Calls}\" Theme=\"Office2k7Black\" &gt;\n\n    &lt;/igDP:XamDataGrid&gt;\n&lt;/igDock:ContentPane&gt;</pre>\n\n<p>But once you move to dependency injection you do not want to keep all those fixed object definitions. These may become interfaces, or you may just want to replace, or dynamically replace, one of these types by a derived one at runtime.</p>\n\n<p>That being the goal, we need some way to retrieve that type even in design mode. There is nothing worse than components or bits of components that make it difficult to work in both Visual Studio and Blend, and with the new binding features of Visual Studio 2010 for WPF 4 it will be even more important that your usage is as compatible as possible.</p>\n\n<p>What I decided to do was create a custom <a href=\"http://msdn.microsoft.com/en-us/library/system.windows.data.datasourceprovider.aspx\" target=\"_blank\">DataSourceProvider,</a> called the NinjectDataProvider that I could use instead of the ObjectDataProvider. This is the first version of that provider and it does nothing more than retrieve the type form the <a href=\"http://ninject.org\" target=\"_blank\">Ninject</a> Kernel. Minimal changes to the WPF enable this:</p>\n\n<pre>&lt;igDock:ContentPane x:Class=\"SlaTodayView\"\n    xmlns:igDP=\"http://infragistics.com/DataPresenter\"     \n    xmlns=\"http://schemas.microsoft.com/winfx/2006/xaml/presentation\"\n    xmlns:local=\"clr-namespace:WpfHeatItsmDashboard\"\n    xmlns:igWindows=\"http://infragistics.com/Windows\"\n    xmlns:igDock=\"http://infragistics.com/DockManager\"\n    xmlns:x=\"http://schemas.microsoft.com/winfx/2006/xaml\"\n    Header=\"Sla Today\" MinWidth=\"30\" MinHeight=\"50\"&gt;\n    &lt;igDock:ContentPane.Resources&gt;\n        &lt;local:NinjectDataProvider  \n        x:Key=\"ViewModel\" \n        ObjectType=\"{x:Type local:SlaTodayViewModel}\" \n        /&gt;\n    &lt;/igDock:ContentPane.Resources&gt;\n    &lt;igDP:XamDataGrid DataContext=\"{StaticResource ViewModel}\" DataSource=\"{Binding Calls}\" Theme=\"Office2k7Black\" &gt;\n\n    &lt;/igDP:XamDataGrid&gt;\n&lt;/igDock:ContentPane&gt;</pre>\n\n<p>As you can see, the only difference is highlighted above and shows the custom <a href=\"http://msdn.microsoft.com/en-us/library/system.windows.data.datasourceprovider.aspx\" target=\"_blank\">DataSourceProvider</a> in action.</p>\n\n<p><img style=\"border-bottom: 0px;border-left: 0px;margin: 10px auto;float: none;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-WpfNinjectDojoTheDataProvider_C6CF-image_c1d8f10e-3931-49c9-86e1-213ca9fb0d9b.png\" width=\"600\" height=\"507\" />\_ You can see from the image above that the designer capability is not affected with this actually loading from the database, nice!</p>\n\n<p>So, what do we need to do to achieve this marvellous result. its actialy fairly simple, I got out my trusty <a href=\"http://www.red-gate.com/products/reflector/\" target=\"_blank\">reflector</a> and found that there is really only one method to override.</p>\n\n<pre>Imports System.ComponentModel\nImports System.Threading\n\nPublic Class NinjectDataProvider\n    Inherits DataSourceProvider\n\n    Private m_objectType As Type\n\n    Public Property ObjectType() As Type\n        Get\n            Return Me.m_objectType\n        End Get\n        Set(ByVal value As Type)\n            If Not m_objectType Is value Then\n                m_objectType = value\n                Me.OnPropertyChanged(\"ObjectType\")\n                If Not MyBase.IsRefreshDeferred Then\n                    MyBase.Refresh()\n                End If\n            End If\n        End Set\n    End Property\n\n    Private Overloads Sub OnPropertyChanged(ByVal propertyName As String)\n        MyBase.OnPropertyChanged(New PropertyChangedEventArgs(propertyName))\n    End Sub\n\n    Protected Overrides Sub BeginQuery()\n        If m_objectType Is Nothing Then\n            Me.OnQueryFinished(Nothing, New InvalidOperationException(\"You must provide an ObjectType\"), Nothing, Nothing)\n        End If\n        Dim result As Object\n        Try\n            result = Application.NinjectKernel.Get(m_objectType)\n            Me.OnQueryFinished(result, Nothing, Nothing, Nothing)\n        Catch ex As Exception\n            Me.OnQueryFinished(Nothing, ex, Nothing, Nothing)\n        End Try\n    End Sub\n\nEnd Class</pre>\n\n<p>I do not yet need all the fancy features of <a href=\"http://ninject.org\" target=\"_blank\">Ninject</a> yet so I have only implemented the bit that I need at the moment. If I am adding more (and get it working) I will blog about it in the future.</p>\n\n<p>To get this working I needed to add an instance of an IKernel object to the “Application” file so I have a single Kernel instance through my application unless I want another, but this is a small price to pay and it could well have been done in the same way as the <a href=\"http://blog.hinshelwood.com/archive/2009/05/08/my.unity.resolveof-ninja.aspx\">My.Unity.Resolve(Of Ninja)</a> post I did on <a href=\"http://www.codeplex.com/unity\" target=\"_blank\">Unity</a>.</p>\n\n<p>Start your <a href=\"http://dojo.ninject.org/\" target=\"_blank\">Ninja training</a> today!</p>\n\n<p>\_</p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/CodeProject\" rel=\"tag\">CodeProject</a>\_<a href=\"http://technorati.com/tags/MVVM\" rel=\"tag\">MVVM</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_</div>"
+  - ''
+  post_id: '88'
+  post_date: '2009-08-25 14:43:35'
+  post_date_gmt: '2009-08-25 14:43:35'
+  post_modified: '2009-08-25 14:43:35'
+  post_modified_gmt: '2009-08-25 14:43:35'
+  comment_status: open
+  ping_status: open
+  post_name: wpf-ninject-dojo-the-data-provider
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '312635616'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dL9YeV
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1468535401;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:123;}i:1;a:1:{s:2:"id";i:122;}i:2;a:1:{s:2:"id";i:95;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-08-25-wpf-ninject-dojo-the-data-provider.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '655'

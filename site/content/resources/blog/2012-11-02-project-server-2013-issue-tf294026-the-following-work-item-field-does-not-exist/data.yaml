@@ -1,0 +1,358 @@
+post:
+  title: >-
+    Project Server 2013 Issue – TF294026: The following work item field does not
+    exist
+  link: >-
+    https://nkdagility.com/blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist/
+  pubDate: Fri, 02 Nov 2012 07:26:24 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9103
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">When you try to upload the default field mappings for
+    Project Server 2013 integration with Team Foundation Server 2012 you can
+    encounter a TF294026: The following work item field does not exist
+    error.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/11/image26.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="TF294026: The
+    following work item field does not exist" alt="TF294026: The following work
+    item field does not exist"
+    src="http://blog.hinshelwood.com/files/2012/11/image_thumb26.png"
+    width="640" height="400" border="0" /></a><br /><strong>Figure: TF294026:
+    The following work item field does not exist</strong></p>
+
+    <p>With the message:</p>
+
+    <blockquote>
+
+    <p><em>TF294026: The following work item field does not exist:
+    Microsoft.VSTS.Scheduling.CompletedWork. Contact your administrator for Team
+    Foundation Server to add this work item field.</em></p>
+
+    </blockquote>
+
+    <p>You are unable to continue without fixing…</p>
+
+    <h3 class="icon-applies-to">Applies to</h3>
+
+    <ul>
+
+    <li>Project Server 2013</li>
+
+    <li>Team Foundation Server 2012</li>
+
+    <li>Project Server Extensions for Team Foundation Server</li>
+
+    </ul>
+
+    <h3 class="icon-findings">Findings</h3>
+
+    <p>Project Server requires that you have data for Remaining Work, Completed
+    Work and Original Estimate for it to function correctly.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/11/image27.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="The Task Work Item
+    Type only includes Remaining Work" alt="The Task Work Item Type only
+    includes Remaining Work"
+    src="http://blog.hinshelwood.com/files/2012/11/image_thumb27.png"
+    width="640" height="400" border="0" /></a><br /><strong>Figure: The Task
+    Work Item Type only includes Remaining Work</strong></p>
+
+    <p>The Visual Studio Scrum Process Template however does not include these
+    as they are not required for Scrum.</p>
+
+    <h3 class="icon-solution">Solution</h3>
+
+    <p>Use the instructions on <a
+    href="http://msdn.microsoft.com/en-us/library/gg412658.aspx#scrummodifications">Required
+    Changes to Make When Mapping to a Team Project That Was Created From the
+    Scrum Process Template</a> to update the Task Work Item Type for the Visual
+    Studio Scrum 2.0 template to add both the Completed Work and Original
+    Estimate fields.</p>
+
+    <p><span class="label label-warning">Warning</span> The documentation on
+    MSDN is currently out of date and misses two fields that need to be added.
+    Make sure that you also add the Start and End dates.</p>
+
+    <pre class="brush: xml; ruler: true;">   The number of units of work that
+    have been spent on this task
+
+
+       Initial value for Remaining Work - set once, when work begins. 
+
+
+
+    </pre>
+
+    <p><strong>Figure: Add both Original Estimate and Completed
+    Work</strong></p>
+
+    <p>Although we are adding these fields to the Task type we are not
+    necessarily adding them to the UI for users to fill out. We can leave them
+    available for Project Server, while out Team Members of a Scrum Team would
+    be blissfully ignorant of their existence.</p>
+  - >-
+    <p class="lead">When you try to upload the default field mappings for
+    Project Server 2013 integration with Team Foundation Server 2012 you can
+    encounter a TF294026: The following work item field does not exist
+    error.</p>
+  post_id: '9103'
+  post_date: '2012-11-02 00:26:24'
+  post_date_gmt: '2012-11-02 07:26:24'
+  post_modified: '2012-11-02 00:26:24'
+  post_modified_gmt: '2012-11-02 07:26:24'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '87'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF294026
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      Project Server 2013 Issue – TF294026: The following work item field does
+      not exist
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Did you get a TF294026 error when trying to integrate Project Server 2013
+      and Team Foundation Server 2012? If you are using the Scrum Template you
+      need to
+  - meta_key: dsq_thread_id
+    meta_value: '910788066'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"9404";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1hLvra9
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474665444;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9096;}i:1;a:1:{s:2:"id";i:9911;}i:2;a:1:{s:2:"id";i:9138;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-11-02-project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '723'
+  comment:
+  - comment_id: '1506'
+    comment_author: Betty
+    comment_author_email: smckoy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 121.99.66.32
+    comment_date: '2012-11-02 02:05:00'
+    comment_date_gmt: '2012-11-02 09:05:00'
+    comment_content: >-
+      Was the project server sync for 2012 upgraded in any way to support
+      iteration dates? or do you think Microsoft are expecting very few
+      companies to bother with this sync now that the web access has all the new
+      project management features?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '698493474'
+  - comment_id: '1507'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 76.79.214.157
+    comment_date: '2012-11-02 02:08:00'
+    comment_date_gmt: '2012-11-02 09:08:00'
+    comment_content: >-
+      That is a very good questions and to be honest I am not sure. The
+      documentation is not quite up to date with the SharePoint 2013 RTM and
+      still talks of "Sprint" work item types...
+
+
+
+      How would you like the Iteration date Synced? Do you want all work items
+      within that Sprint/Iteration to reflect the same dates?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1506'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '698493474'
+    - meta_key: dsq_post_id
+      meta_value: '698494181'
+  - comment_id: '1508'
+    comment_author: Betty
+    comment_author_email: smckoy@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 121.99.66.32
+    comment_date: '2012-11-02 02:21:00'
+    comment_date_gmt: '2012-11-02 09:21:00'
+    comment_content: >-
+      Honestly i haven't thought too much about how it should work, i would
+      suspect that having the items reflecting the same dates wouldn't be a
+      popular choice. Probably depends a lot on which data source would win when
+      there's a conflict. When Project Server &gt; TFS then updating the sprint
+      to be the max/min datetimes of the related tasks would make sense, however
+      if TFS &gt; Project Server then it would be more of a guideline/validation
+      where tasks can't be scheduled outside of these dates.  *Shrug* I'm not
+      actually sure syncing to project server would add much (if any) value and
+      would probably just make things too complicated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1507'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '698494181'
+    - meta_key: dsq_post_id
+      meta_value: '698497581'
+  - comment_id: '2312'
+    comment_author: Joao Almeida
+    comment_author_email: jbdevpoa@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 177.19.178.70
+    comment_date: '2014-06-18 01:38:00'
+    comment_date_gmt: '2014-06-18 00:38:00'
+    comment_content: >-
+      Hi, today (06/17/2014) when  I try to do this kind of customization. We
+      need more two fields to integration StartDate and FinishDate.
+
+
+      on field section on workitem
+
+           Start Date of Work - set once, when work begins. 
+         
+         
+           Finish Date of Work - set once, when work ends. 
+         
+
+      on form section of workitem
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1440327171'
+  - comment_id: '3142'
+    comment_author: >-
+      Configurar integração TFS 2013 com o Project Server 2013 &lsaquo;
+      100loop.com
+    comment_author_email: ''
+    comment_author_url: http://www.100loop.com/destaque/integracao-tfs-2013-project-server-2013/
+    comment_author_IP: 23.97.98.13
+    comment_date: '2014-08-08 16:01:16'
+    comment_date_gmt: '2014-08-08 15:01:16'
+    comment_content: >-
+      [&#8230;] Synchronize Team Foundation Server with Project Server Required
+      changes to make when mapping to a team project that was created from the
+      Scrum process template Project Server 2013 Issue – TF294026: The following
+      work item field does not exist [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407510076.918595;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1407599465.47212;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '8413'
+    comment_author: Mark Blackburn
+    comment_author_email: mark@mbcs.co.uk
+    comment_author_url: ''
+    comment_author_IP: 82.110.120.98
+    comment_date: '2014-12-04 14:32:00'
+    comment_date_gmt: '2014-12-04 14:32:00'
+    comment_content: >-
+      Hi - I've come across this issue when trying to add a Project Server to an
+      existing TFS instance with Scrum projects that are already in progress.
+
+      I've followed the instructions in the solution link regarding updating the
+      Scrum task type definition (including the additions that Joao outlined
+      above), but that doesn't help me upload the field mappings. I can't
+      download the default mappings and modify them as you can't download
+      mappings until they've been uploaded. Is there an example of a mappings
+      file containing the default mappings (or even the default mappings
+      modified to support scrum) anywhere that I can use as a basis?
+
+      Thanks,
+
+      Mark.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1725405260'
+  - comment_id: '8530'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 185.12.200.86
+    comment_date: '2014-12-06 12:53:00'
+    comment_date_gmt: '2014-12-06 12:53:00'
+    comment_content: >-
+      Mark, if your teams are doing Scrum then using Project Server to manage
+      the work will likely cripple their ability to deliver. It is not a good
+      practice and I believe that the Scrum template deliberately does not
+      support MS Project. As I have never tried to import Project Server on a
+      Scrum team I have not hit this... the default mappings are listed on
+      http://msdn.microsoft.com/en-us/library/gg412658.aspx#dmappings and you
+      can build an xml file from the references.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '8413'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1725405260'
+    - meta_key: dsq_post_id
+      meta_value: '1728589213'

@@ -1,0 +1,454 @@
+post:
+  title: What is the Tfs Automation Platform
+  link: https://nkdagility.com/blog/what-is-the-tfs-automation-platform/
+  pubDate: Tue, 31 May 2011 18:00:04 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=3373
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><a
+    href="http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; float: left; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="Turk-Automaton" border="0" alt="Turk-Automaton" align="left"
+    src="http://blog.hinshelwood.com/files/2011/06/Turk-Automaton_thumb2.gif"
+    width="100" height="112" /></a>The TFS Automation Platform is a project that
+    will be developed initially as the <a
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx">TFS
+    Iteration Automation</a> project for the Rangers, but which has a
+    grander&#160; vision to solve a need for customers to have things just
+    happen within TFS.</p>  <p>Currently, the scope of this project is to create
+    automations that assist with iteration management, but my eventual goal for
+    this project is to enable a wide variety of automation solutions. This
+    platform enables the development of three major classifications of
+    automations: automations that can be called on a schedule; automations that
+    can respond to an event in TFS; automations that can be called on
+    demand.</p>  <h2>Updates</h2>  <ul>   <li><strong>2011-06-09 - Mattias
+    Sköld</strong> – Mattias had a bunch of questions, and I want to provide
+    answers. You will find the questions and answers inline at the relevant
+    sections. </li> </ul>  <p><span style="color: #ff0000"><em><span
+    style="color: #ff0000"><em>note: This product is still under development and
+    this document is subject to change. There is also the strong possibility
+    that these are just rambling fantasies of a mad programmer with an architect
+    complex.</em></span></em></span></p>  <hr />  <h2>Releases</h2>  <p>This
+    project is an anomaly in the wave of new <a
+    href="http://msdn.microsoft.com/en-us/vstudio/ee358786">Visual Studio ALM
+    Ranger projects,</a> whereby we are trying something new. Instead of the
+    Rangers creating, owning and maintaining the project, we are trying a
+    two-phased approach with this project:</p>  <ol>   <li><a title="Release 1 -
+    TFS Iteration Automation"
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx">Release
+    1 - TFS Iteration Automation</a> – Ranger project, which delivers core value
+    to the Rangers community … automating the painful administration of fixing
+    queries when switching iterations. The other value is to deliver an
+    extensible platform for release 2 and beyond. </li>    <li>Release 2+ -
+    Community project, owned/driven by external Rangers to extend the Release
+    1.0 product. </li> </ol>  <h2>TFS Automation Platform Scope</h2>  <p>Team
+    Foundation Server is currently comprised of several major feature areas,
+    including, version control, work item tracking, build automation, reporting,
+    and SharePoint.</p>  <p>At this point in time, the TFS Automation Platform
+    is scoped to only support a the following TFS features:</p>  <ul>   <li>Work
+    Item Tracking </li> </ul>  <h2>TFS Automation Platform Vision</h2>  <p>The
+    TFS Automation Platform is a development platform for partners and customers
+    who are interested in building automations against TFS. One goal of the
+    project is to make it simple to write a simple automation to perform some
+    action. We intend to build a reusable framework with the ability to provide
+    a menu of “automations” from a server that can be configured and/or run from
+    any client with a single install on that client. An administrator would be
+    able to add “automation” to a “menu” that allows users with appropriate
+    permissions to select and configure those “automations” from a Visual Studio
+    integrated UI at the Server, Collection, Project or Branch level.</p>  <p>An
+    install on either the client or the server would only be required when the
+    platform is updated and not to add “automations”. Think of it like the
+    Wordpress Plugin system.</p>  <h2>Tfs Automation Platform Architecture</h2> 
+    <p>The purpose of this section is to help the team understand the way that
+    the system goes together without locking them into an tight architecture at
+    this early stage in the process.</p>  <p>&#160;<a
+    href="http://blog.hinshelwood.com/files/2011/06/image16.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/06/image_thumb16.png"
+    width="600" height="449" /></a>    <br /><strong>Figure: TFS Automation main
+    components brainstorm</strong></p>  <h3>Automaton Package</h3>  <p>With the
+    need to run everything on the server to alleviate installs and maintained
+    client side I would expect to have a package created (CurrentIteration.auto)
+    that can be upload to the server and contains a manifest to describe its
+    contents and where those content will reside.</p>  <ul>   <li>UI - </li>   
+    <li>ISubscribers </li>    <li>Tfs Jobs </li>    <li>Check In Policies
+    </li>    <li>Request Filters </li>    <li>etc… </li> </ul>  <p>A folder
+    naming should be maintained that relates as closely as possible to standard
+    TFS naming. These packages will be stored in a “Store” that is accessed
+    through a model that allows Multiple stores to be made available and
+    combined for presentation to the users.</p>  <p>Where possible all
+    automations should reflect the same API’s used within TFS in order to
+    maintain feature parity and allow the development team to concentrate
+    building against the TFS API. This will also allow an exacting ease of
+    transitioning any existing Automations to this platform.</p>  <p>For those
+    Automations that do not need a UI, but instead only require an
+    “Enabled/Disabled” option the platform should provide this by default.</p> 
+    <p><em>note: It should be possible to turn an existing CheckinPolicy or
+    ISubscriber into an Automation Package with winzip and notepad.</em></p> 
+    <div class="QuestionAnswer">   <blockquote>     <p>I’m not really sure if
+    that’s should be a requirement, I was expecting a lot more information to be
+    transformed with code through a decorated Interface. I guess you plan to
+    accomplish the same through some kind of manifest/config files ?        <br
+    />I can see both advantages and disadvantages with putting metadata in code
+    and config files…         <br /><strong>-Mattias Sköld</strong></p>  
+    </blockquote>    <p>No matter what decoration you did a manifest would still
+    be required. For example, for an Automation that sends emails you would
+    probably have an .htm email template. Where would you put that? How would
+    you know that it even existed? Much better to have an XML file that lists
+    where everything should go. We can however do a bunch of extra checks
+    like:</p>    <ul>     <li>Don't put a ISubscribe in the job folder </li>  
+    </ul>    <p>These are all things that will help, but the core will be the
+    manifest</p> </div>  <p><em>note: Some automations are single instance and
+    others can be configured for multi-instance</em></p>  <h3>Visual Studio
+    Extension</h3>  <p>This will likely be that main UI for users wishing to
+    access and configure Automations. Any features that are beyond the default
+    should be provided by a call to the server. There are a number of ways to
+    achieve this that are built into .NET, from deep-linking into Silverlight
+    and WPF, to the ability to instantiate a class that is contained in a DLL on
+    the server. These all provide a level of extensibility that would allow a
+    zero based (or at least infrequent) client install which is one of the
+    goals.</p>  <p>My current bias is for a WPF application that is provided by
+    the server and an add-on component for the Visual Studio client that loads a
+    list of extension points from the server. The server would provide a list of
+    GUID, image, text and URL to link to. The URL’s would be deep links into a
+    single instance WPF application that is deployed from the server via
+    ClickOnce. This should make it possible to frequently update the UI from the
+    server <span style="background-color: #ffff00">without having to
+    continuously force users to install updates</span>.</p> 
+    <h3>TfsAutomation.Platform.Core (Web Service or System Service)</h3>  <p>The
+    core platform should provide the core services for setting up and
+    maintaining the platform. It will likely:</p>  <ul>   <li>Download chosen
+    Automation packages from source store </li>    <li>Storage of all unpacked
+    Automations </li>    <li>Keep all Automation Packages updated </li>   
+    <li>Deploy files to the correct locations </li>    <li>retract the correct
+    files and configurations </li>    <li>Store instance configuration for
+    Automations </li> </ul>  <p>The idea is that the core service will keep all
+    of the Automation up to date and deploy them on demand to the correct
+    location within TFS is required.For example, while I think we can easily
+    proxy the Event Model, it would be a lot more difficult to proxy the Job
+    model.</p>  <h3>TfsAutomation.Platform.Store (Web Service and
+    Aggregation)</h3>  <p>The PackageStore provides all of the automation
+    packages that are available along with any meta data that is required. The
+    system should be able to load from one or more stores simultaneously. This
+    will allow smaller organisations or individuals to take advantage of a
+    hosted store, or many hosted stores. This again allows for less installation
+    changes as users can choose to load automations from external lists that are
+    maintained separately.</p>  <blockquote>   <p>I don’t get this Multi Store
+    thing ? Ive envisioned a “store” for each team project collection. Will we
+    supply multi stores – what is the benefit of multi stores and what will a
+    store relate to ?</p>    <p>I was thinking more of an Automation Manager for
+    project collections (compare to Process template manager).      <br
+    /><strong>-Mattias Sköld</strong></p> </blockquote>  <p>The Store refers to
+    a source of plugins and not the list of installed plugins. Plugins are
+    downloaded from the store prior to being installed and activated. The Store
+    can be hosted locally for enterprises or for the vast majority of customer
+    we can provide a hosted store that we maintain (MSDN Free Azure). In either
+    regard think of the store like <a
+    href="http://wordpress.org/extend/plugins/">http://wordpress.org/extend/plugins/</a></p> 
+    <h3>TfsAutomation.SincProxy (ISubscriber)</h3>  <p>The SinkProxy is a hook
+    into the eventing model that will redirect events into the correct
+    Automation Package for the Tfs Event that is fired. It will be responsible
+    only for making sure that the correct event handlers are fired with the
+    correct configuration.</p>  <p><em>note: Configuration is set by the UI and
+    stored by the Platform Core.</em></p>  <p><em>note: I did indeed mean “Sink”
+    and not “Synch”. </em></p>  <blockquote>   <p>In order to provide a reliable
+    extension framework I would like the SincProxy to be responsible for
+    providing isolation in the cases there it can be provided. For example if I
+    make an automation that is async , I would like the Framework to que the
+    execution of my automation in a separate process . This might be a less of a
+    problem from a technical view if actions use the tfsJob for asyncronous
+    work... For a TFS Admin it might be an issue to enable custom code if it
+    will run inside the TFS process. If Im not misstaken the Tfs Job Agent by
+    default is a bit to infrequent to provide a reasonable fast response for
+    actions started from the UI, but I suspect you have a solution for this
+    ?      <br /><strong>-Mattias Sköld</strong></p> </blockquote>  <p>All
+    processing will be done as part of the TFS Job and not in the SincProxy.
+    Once you are in the running Job you can do that you are referring to, but
+    you will need to handle the main thread waiting for the async one. The
+    SincProxy is just one way of getting a job queued.</p> 
+    <h3>TfsAutomation.RequestFilterProxy (ITeamFoundationRequestFilter)</h3> 
+    <p>For certain types of automation, like auditing, there is the need to have
+    an injected filter on all requests so we can implement auditing.</p> 
+    <h3>TfsAutomation.CheckInPolicyProxy (PolicyBase)</h3>  <p>This is a single
+    Check-In Policy that will proxy to any number of Check-In Polices that have
+    been enabled server side. These policies are enabled as part of Automations
+    and run Locally on the client. However the assemblies can be downloaded
+    prior to execution from the Platform.Core service.</p>  <h2>Scenarios</h2> 
+    <p>There are really two scenarios I want to concentrate on for testing the
+    TFS Iteration Automation release.</p>  <h3>Scenario 1: Change current
+    iteration</h3>  <p>When we get to the end of an iteration we need all of the
+    queres in the “Current iteration” folder to reference “project1R1I2” rather
+    than “project1R1I1”</p>  <ol>   <li><strong>User logs onto TFS Automation UI
+    and installs the “Current Iteration Changer” automation from the
+    Store</strong>       <ol>       <li>TfsAutomation Core downloads the
+    selected Automation and unpacks it locally. </li>        <li>TfsAutomation
+    Core deploys the correct files to the correct location defined in the
+    manifest </li>        <li>TfsAutomation sets automation to only work at the
+    Project Level </li>     </ol>   </li>    <li><strong>User enables the
+    “Area/Iteration Rename Fixer” </strong>      <ol>       <li>TfsAutomation UI
+    adds the default configuration for the new Automation </li>     </ol>  
+    </li>    <li><strong>User configures the “Area/Iteration Rename Fixer” for
+    the Team Project “TeamProject1”</strong>       <ol>       <li>TfsAutomation
+    UI adds the configuration for the new Automation to that team project and
+    configures the folder that contains the current iteration queries </li>    
+    </ol>   </li>    <li><strong>User right-clicks on their Team Project and
+    selects “Change Iteration”</strong>       <ol>       <li>TfsAutomation shows
+    the UI to let the user select an iteration to change to </li>       
+    <li>TfsAutomation UI adds TfsAutomation.Iterations.ChangeCurrentJob to the
+    TFS Jobs queue </li>        <li>Job runs and does a replace in all of the
+    queries in that project for the change. </li>       
+    <li><strong>Done</strong> – Notify original calling user that the task is
+    complete </li>     </ol>   </li> </ol>  <p>&#160;</p>  <h3>Scenario 2: User
+    renames Iteration</h3>  <p>When the user renames an iteration then a job
+    needs to be kicked off that will fix all queries that use that
+    iteration.</p>  <ol>   <li><strong>User logs onto TFS Automation UI and
+    installs the “Area/Iteration Rename Fixer” automation from the
+    Store</strong>       <ol>       <li>TfsAutomation Core downloads the
+    selected Automation and unpacks it locally. </li>        <li>TfsAutomation
+    Core deploys the correct files to the correct location defined in the
+    manifest </li>     </ol>   </li>    <li><strong>User enables the
+    “Area/Iteration Rename Fixer” at the Server level</strong>       <ol>      
+    <li>TfsAutomation UI adds the configuration for the new Automation </li>    
+    </ol>   </li>    <li><strong>User renames Iteration</strong>      
+    <ol>       <li>Tfs Iteration Changed event fires on server </li>       
+    <li>TfsAutomation.SincProxy captures event and runs all appropriate “inner”
+    subscribers </li>        <li>TfsAutomation.Iterations.RenameSubscriber
+    subscriber is run and adds TfsAutomation.Iterations.RenameJob to the TFS
+    Jobs queue </li>        <li>Job runs and does a replace in all of the
+    queries in that project for the change. </li>       
+    <li><strong>Done</strong> – Notify original calling user that the task is
+    complete </li>     </ol>   </li> </ol>  <h2>Conclusion</h2>  <p>This poses
+    to be a very interesting project if we can get the resource together to be
+    effective. The idea is to start small, so expect to see some smaller, more
+    focused architectures coming down the line.</p>
+  - ''
+  post_id: '3373'
+  post_date: '2011-05-31 18:00:04'
+  post_date_gmt: '2011-05-31 18:00:04'
+  post_modified: '2011-05-31 18:00:04'
+  post_modified_gmt: '2011-05-31 18:00:04'
+  comment_status: open
+  ping_status: open
+  post_name: what-is-the-tfs-automation-platform
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '319180009'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBJGgq
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474332049;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3383;}i:1;a:1:{s:2:"id";i:3361;}i:2;a:1:{s:2:"id";i:3641;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2011-05-31-what-is-the-tfs-automation-platform.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '922'
+  comment:
+  - comment_id: '978'
+    comment_author: Sam McKoy
+    comment_author_email: smckoy@gmail.com
+    comment_author_url: http://profiles.google.com/smckoy
+    comment_author_IP: ''
+    comment_date: '2011-06-01 07:22:00'
+    comment_date_gmt: '2011-06-01 07:22:00'
+    comment_content: This sounds amazing.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '215309009'
+  - comment_id: '979'
+    comment_author: June 1, 2011 – Visual Studio and TFS Daily | Learn TFS
+    comment_author_email: ''
+    comment_author_url: http://learntfs.com/2011/06/01/june-1-2011-visual-studio-and-tfs-daily/
+    comment_author_IP: 173.201.196.92
+    comment_date: '1999-11-29 17:00:00'
+    comment_date_gmt: '1999-11-30 01:00:00'
+    comment_content: >-
+      [...] What is the TFS Automation Platform from Martin Hinshelwood The TFS
+      Automation Platform is a new Rangers project to assist in the automation
+      of frequent tasks, such as creating new work item queries when moving to a
+      new iteration. As Martin describes it, targets the need for customers to
+      “have things just happen” with TFS. Lots of details and a breakdown of the
+      proposed platform architecture is at the link.   This post authored by
+      Trent Nix Read more from Blog         Click here to cancel reply. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '980'
+    comment_author: >-
+      Rangers TFS Iteration Automation – Transparent Design Ramblings -
+      Willy&#039;s Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/01/rangers-tfs-iteration-automation-transparent-design-ramblings.aspx
+    comment_author_IP: 65.55.59.10
+    comment_date: '2011-06-01 09:38:01'
+    comment_date_gmt: '2011-06-01 16:38:01'
+    comment_content: '[...] Part 1: What is the TFS Automation Platform [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1306955553.4745";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '981'
+    comment_author: Håkan Forss
+    comment_author_email: hakan_forss@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-03 22:27:00'
+    comment_date_gmt: '2011-06-03 22:27:00'
+    comment_content: >-
+      Are you thinking of implementing this with Windows
+
+      Workflow? If you would you could have some reuse of the activities in the
+      build
+
+      process as well and vice versa.
+
+
+
+
+      One scenario I have been looking into is to have work
+
+      items created when some event occur. You could for instance create tasks
+      that
+
+      have to be performed when a user story is ready for deployment. Or you
+      could automatically
+
+      create test case work items when you create a user story and so on.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '217642632'
+  - comment_id: '982'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-06-04 16:52:00'
+    comment_date_gmt: '2011-06-04 16:52:00'
+    comment_content: "Although we have considered the\_potability\_of implementing using workflow, it was rejected early on. That does nt mean that you can't write an\_Automation\_Package in Workflow, but it would need to inherit from the correct API's that allow it to interact with TFS.\_\n\nFor simple automation this is maybe a little over the top, but I would not be beyond\_having\_a workflow example as part of the SDK. Hopefully if you are still\_around\_when we get to release 2+ we can get you involved in that."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '981'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '217642632'
+    - meta_key: dsq_post_id
+      meta_value: '218225885'
+  - comment_id: '983'
+    comment_author: Håkan Forss
+    comment_author_email: hakan_forss@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-04 21:55:00'
+    comment_date_gmt: '2011-06-04 21:55:00'
+    comment_content: Let me know if I can help. I would love to add to this project.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '982'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '218225885'
+    - meta_key: dsq_post_id
+      meta_value: '218323202'
+  - comment_id: '984'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-06-05 00:05:00'
+    comment_date_gmt: '2011-06-05 07:05:00'
+    comment_content: |-
+      Once we have Release 1 out we will be opening it up to a wider
+      community...
+
+      http://blog.hinshelwood.com
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '983'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '218323202'
+    - meta_key: dsq_post_id
+      meta_value: '218356927'
+  - comment_id: '985'
+    comment_author: >-
+      TOC: TFS Iteration Automation Blog Posts and Reference Sites -
+      Willy&#039;s Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/07/toc-tfs-iteration-automation-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.55.57.17
+    comment_date: '2011-06-07 12:10:05'
+    comment_date_gmt: '2011-06-07 19:10:05'
+    comment_content: '[...] Part 1: What is the TFS Automation Platform [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1307483056.8207";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

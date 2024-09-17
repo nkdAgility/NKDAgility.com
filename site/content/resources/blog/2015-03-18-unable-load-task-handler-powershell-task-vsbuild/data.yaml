@@ -1,0 +1,181 @@
+post:
+  title: Unable to load task handler PowerShell for task VSBuild
+  link: >-
+    https://nkdagility.com/blog/unable-load-task-handler-powershell-task-vsbuild/
+  pubDate: Wed, 18 Mar 2015 14:12:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11097
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">If you are setting up to run Team Foundation Server's vNext build system that Microsoft is previewing on VSO you may hit a \"Unable to load task handler PowerShell for task VSBuild with version 1.0.1\" error when you try to build on Windows Server Technical Preview.</p>\r\n<div class=\"bs-callout bs-callout-info\">\r\n<h4>Download Team Foundation Server 2015 today</h4>\r\n<p>Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can <a href=\"https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs\" target=\"_blank\">download TFS 2015</a> and try it out today. Remember that this is <em>not</em> a go-live version and you should <em>not </em>install it in production.</p>\r\n</div>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0013.png\" alt=\"clip_image001\" width=\"800\" height=\"446\" border=\"0\" /></p>\r\n<p>After you have <a href=\"http://nkdagility.com/configure-vso-vnext-build-agent/\">configured a vNext build agent</a> you may get an error when you try and build. This error occurs regardless of the tasks that you pick for your build.</p>\r\n<pre>****************************************************************************** \r\nStarting Build (debug, any cpu) \r\n****************************************************************************** \r\nExecuting the following commandline: \r\nC:\\VsoWinAgent\\agent\\worker\\vsoWorker.exe /name:Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df /id:4649b2ea-e06d-47b0-9a89-5f4aa4d545df /rootFolder:\"C:\\VsoWinAgent\" /logger:Forwarding,1.0.0;Verbosity=Verbose,Name=Agent1;JobId=4649b2ea-e06d-47b0-9a89-5f4aa4d545df \r\nUnable to load task handler PowerShell for task VSBuild with version 1.0.1. \r\n****************************************************************************** \r\nFinishing Build (debug, any cpu) \r\n****************************************************************************** \r\nWorker Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df finished running job 4649b2ea-e06d-47b0-9a89-5f4aa4d545df \r\n</pre>\r\n<p>I tried to build both with the \"Visual Studio Build\" task and the \"MS Build\" tasks that come out of the box. Both resulted in the same error and I can only assume that there is an internal dependency on a particular PowerShell version that is not present.</p>\r\n<p>After some investigation on Windows Server Technical Preview I noticed that only PowerShell 5 is available and enabled out of the box. Just like on Server 2008 R2, if you want an older version of PowerShell or .NET to be available then you need to go manually enable it.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0024.png\" alt=\"clip_image002\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>If you launch the \"Add roles and features\" you should see, on the features tab, an option for PowerShell with only PowerShell 5.0 installed. As this is only available in the Technical Preview my assumption would be that the team targeted the latest common version. Which would be the 2.x version.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0033.png\" alt=\"clip_image003\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>On Server 2012 R2 you will also find that only PowerShell 4.0 is configured by default and you will need to add PowerShell 2.0 here as well. This will in addition also enable .NET 2 / 3.5 if it has not been already.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0043.png\" alt=\"clip_image004\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Although a better error message could be used, like detecting if the Windows feature is indeed enabled, this is an alfa version of the product and you don’t expect any such polish. After enabling the feature, and re-running the build…</p>\r\n<p>And Poo, I still have a problem, so that’s not it. This brought me to the end of my wits and I had to go ask some folks.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0053.png\" alt=\"clip_image005\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>After a flurry of emails to my peers on the champs list Jakob asked if I had Unblocked the Zip files! Do what now?</p>\r\n<p>It turns out that if you download a zip file from the internet it may be \"partially\" blocked. Windows will block access to some files that it deems risky but not warn you nor stop you from unpacking it. Unfortunately it will only partially unpack… which rendered my build agent useless.</p>\r\n<p>So if you are downloading a Zip file from the internet you may need to unblock them before you can use them fully.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image006\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0063.png\" alt=\"clip_image006\" width=\"800\" height=\"419\" border=\"0\" /></p>\r\n<p>Woohoo… A successful build on the new Build vNext…</p>"
+  - >-
+    <p class="lead">If you are setting up to run Team Foundation Server's vNext
+    build system that Microsoft is previewing on VSO you may hit a "Unable to
+    load task handler PowerShell for task VSBuild with version 1.0.1" error when
+    you try to build on Windows Server Technical Preview.</p>
+  post_id: '11097'
+  post_date: '2015-03-18 14:12:00'
+  post_date_gmt: '2015-03-18 14:12:00'
+  post_modified: '2015-03-04 12:55:08'
+  post_modified_gmt: '2015-03-04 12:55:08'
+  comment_status: open
+  ping_status: open
+  post_name: unable-load-task-handler-powershell-task-vsbuild
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1AaVXQn
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: task handler PowerShell
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '72'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '3566300109'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474579128;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11081;}i:1;a:1:{s:2:"id";i:11021;}i:2;a:1:{s:2:"id";i:11072;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2015-03-18-unable-load-task-handler-powershell-task-vsbuild.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '985'
+  comment:
+  - comment_id: '11521'
+    comment_author: Dew Drop &#8211; March 19, 2015 (#1977) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2015/03/19/dew-drop-march-19-2015-1977/
+    comment_author_IP: 168.62.48.122
+    comment_date: '2015-03-19 12:12:46'
+    comment_date_gmt: '2015-03-19 12:12:46'
+    comment_content: >-
+      [&#8230;] Unable to load task handler PowerShell for task VSBuild (Martin
+      Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1426767166.764575;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1427193210.001972;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13625'
+    comment_author: Brandon D'Imperio
+    comment_author_email: bdimpe@gmail.com
+    comment_author_url: http://imaginarydevelopment.blogspot.com
+    comment_author_IP: 50.193.161.217
+    comment_date: '2015-11-04 15:20:00'
+    comment_date_gmt: '2015-11-04 15:20:00'
+    comment_content: >-
+      I'm not sure where else to look, this solution doesn't appear to be the
+      problem for me, I'm on Windows Server 2008R2 and I get Unable to load task
+      handler PowerShell for task VSBuild with version 1.0.16.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2342455208'
+  - comment_id: '13626'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 131.107.184.61
+    comment_date: '2015-11-04 16:27:00'
+    comment_date_gmt: '2015-11-04 16:27:00'
+    comment_content: >-
+      You need to right-click on the .zip for the agent and "unblock" it before
+      you unzip it...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13625'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2342455208'
+    - meta_key: dsq_post_id
+      meta_value: '2342607206'
+  - comment_id: '13781'
+    comment_author: Brandon D'Imperio
+    comment_author_email: bdimpe@gmail.com
+    comment_author_url: http://imaginarydevelopment.blogspot.com
+    comment_author_IP: 73.148.184.149
+    comment_date: '2015-12-13 15:03:00'
+    comment_date_gmt: '2015-12-13 15:03:00'
+    comment_content: >-
+      I had already done that, I needed to find a newer version of PowerShell it
+      seems http://stackoverflow.com/a/33538430/57883
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13626'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2342607206'
+    - meta_key: dsq_post_id
+      meta_value: '2407700646'

@@ -1,0 +1,92 @@
+post:
+  title: Branch Policies for TFVC
+  link: https://nkdagility.com/blog/branch-policies-tfvc/
+  pubDate: Wed, 13 Jan 2016 15:49:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11424
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.</p>\r\n<p>[<a href=\"http://nkdagility.net/TfsBranchPolicy\">Download Tfvc Branch Policy</a>]</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2016/01/image.png\" alt=\"image\" width=\"1024\" height=\"453\" border=\"0\" /></p>\r\n<p>What I wanted was something like the existing Branch Policy feature for Git but in TFVC. This would need to be done as a Checkin Policy for it to work, so I went looking for existing policies, of which there are many. I found that while I could use existing policies in combination with the \"pattern\" policy that is part of the TFS Power Tools, however it would be an ugly and unwieldly solution.</p>\r\n<p>The customer has many projects as part of a single Team Project, and that would make it very difficult to manage many policies based on paths. We needed a consolidated and simple solution.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2016/01/image-1.png\" alt=\"image\" width=\"1024\" height=\"632\" border=\"0\" /></p>\r\n<p>This is what I wanted, a list of branches on the left, coupled to a set of policies on the right. We can then extend the policies as we decide what is needed. However it was quickly identified that they often applied policies across multiple branches. Specifically they have a year based branching structure that is replicated through all of the components. So for \"Product 2016\" they also deploy \"Component A 2016\". There are hundreds of components that make up the final Product so…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2016/01/image-2.png\" alt=\"image\" width=\"1024\" height=\"632\" border=\"0\" /></p>\r\n<p>[<a href=\"http://nkdagility.net/TfsBranchPolicy\">Download Tfvc Branch Policy</a>]</p>\r\n<p>…I moved to a much simpler to implement regular expression model. We have a list of regular expressions, and then apply that regular expression to the list of pending changes to find out which ones should be applied. Now that we have a list of matching Branch Patterns I can then integrate through each of them and evaluate the Branch Policies. These policies can be applied to multiple branches (paths) that match a simple pattern and then failures can then be transformed into messages for the developer.</p>\r\n<p>The goal is not to create a list of 100 things developers have to go do. There is an expectation of due diligence and competence expected of every coder, so you will not see a \"must run tests before checkin\". The idea is that we want to make sure that folks with good intent don’t forget to do one of the big ticket items. Like builds, work items, code reviews, or production locks.</p>\r\n<p>Current Policies that have been implemented:</p>\r\n<ol>\r\n\t<li><strong>Branch Lock</strong> - There are many reasons that you might want to lock a branch, maybe you need to prevent changes to code without approval as you move towards a release. Whatever the reason you can specify that a chosen pattern is locked and what the optional bypass string is. The bypass string needs to be entered into the comment for the checkin. Simple and effective.</li>\r\n\t<li><strong>Code Review</strong> - You must have at least one Code Review, and any Code Reviews need to have been successful</li>\r\n\t<li><strong>Work Items</strong> – Require at least one work item first, then I will likley implement the ability to select the types of workitems that are required.</li>\r\n</ol>\r\n<p>This is a start and you are welcome to send feedback to [bla] in the form of issues or requests. Give it a try and provide me with feedback. All feedback is good feedback :) even if I don’t agree.</p>\r\n<p>[<a href=\"http://nkdagility.net/TfsBranchPolicy\">Download Tfvc Branch Policy</a>]</p>\r\n<p>You should also feel free to <a href=\"https://github.com/nkdAgility/TfvcBranchPolicy\">contribute to this policy on GitHub</a> where I will be happy to take pull requests.</p>"
+  - >-
+    <p>Have you looked enviously at the Branch Policy feature for Git in TFS or
+    VSTS? Are you stuck on TFVC? How would you implement Branch Policies on
+    TFVC? Find out… </p>
+  post_id: '11424'
+  post_date: '2016-01-13 15:49:00'
+  post_date_gmt: '2016-01-13 15:49:00'
+  post_modified: '2016-01-18 13:20:49'
+  post_modified_gmt: '2016-01-18 13:20:49'
+  comment_status: open
+  ping_status: open
+  post_name: branch-policies-tfvc
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '11423'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '4460451147'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/200qEH6
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw_text_input
+    meta_value: branch policies
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: branch policies
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '73'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474922145;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9313;}i:1;a:1:{s:2:"id";i:11465;}i:2;a:1:{s:2:"id";i:10677;}}}}
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2016-01-13-branch-policies-tfvc.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1126'

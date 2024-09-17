@@ -1,0 +1,1027 @@
+post:
+  title: Installing TFS 2012 with Lab Management 2012
+  link: https://nkdagility.com/blog/installing-tfs-2012-with-lab-management-2012/
+  pubDate: Wed, 20 Jun 2012 02:30:18 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=5496
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>I have been onsite this week in California to deploy TFS 2012 and Lab
+    Management for a company in the computer game industry. Because of limited
+    time I am doing the full install in one day and thus will not be getting any
+    of their builds or environments to work today. This is purely an install and
+    test of the happy paths. I have loads of time over the rest of the week
+    running workshops for the customer to bring their guys up to speed on how to
+    do everything else.</p>
+
+    <ul>
+
+    <li><span style="color: #ff0000;"><strong>UPDATED 2012-06-20</strong></span>
+    – <a href="http://www.adamcogan.com/">Adam Cogan</a> sent me a bunch of
+    corrections that I incorporated. He also suggested a diagram or summary. How
+    about both!</li>
+
+    <li><strong><span style="color: #ff0000;">UPDATED 2012-06-21</span></strong>
+    – Finally got the Lab issues ironed out. Now that you can no longer edit the
+    environment details (Lab Manager honours what your SysAdmins&nbsp; say goes)
+    you really need to make sure that they are right before you start <img
+    class="wlEmoticon wlEmoticon-smile" style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/06/wlEmoticon-smile3.png"
+    alt="Smile" />) I did get further in setting up an environment, but ran into
+    an issue that I think should work…</li>
+
+    <li><strong><span style="color: #ff0000;">UPDATED 2012-06-22</span></strong>
+    – Updated with working recipe. Make sure that you enable “File and Print
+    Sharing”.</li>
+
+    </ul>
+
+    <p>So, what's involved in this?</p>
+
+    <h3>Summary</h3>
+
+    <p>There are a lot of moving parts to a TFS deployment and when you add Lab
+    Management you get a bunch more. It looks and sounds like a scary thing to
+    deploy. But you just make a list and start at the beginning.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image58.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="TFS 2012 &amp; Lab
+    2012 Diagram"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb40.png" alt="TFS
+    2012 &amp; Lab 2012 Diagram" width="640" height="360" border="0" /></a><br
+    /><strong>Figure: I have a number of moving parts</strong></p>
+
+    <ol>
+
+    <li>DONE- Install SQL Server 2012 (40 minutes)</li>
+
+    <li>DONE- Install &amp; Configure Team Foundation Server 2012 (30
+    minutes)</li>
+
+    <li>DONE- Install &amp; Configure Team Foundation Build Controller 2012 (10
+    minutes)</li>
+
+    <li>DONE- Install &amp; Configure Team Foundation Build Agent 2012 (10
+    minutes)&nbsp;</li>
+
+    <li>DONE- Install &amp; Configure Team Foundation Test Controller 2012 (10
+    minutes)&nbsp;</li>
+
+    <li>DONE- Install System Centre Virtual Machine Manager 2012 (20
+    minutes)</li>
+
+    <li>DONE- Integrate TFS 2012 and SCVMM 2012 (5 minutes)&nbsp;</li>
+
+    <li>DONE- Test Automated Build (20 minutes)</li>
+
+    <li>DONE- Test Environmental Deploy</li>
+
+    </ol>
+
+    <h3>Implementation</h3>
+
+    <p>Well I have a number of things that I need to do to achieve this. Lets
+    start at the beginning and walk through all of the steps. I will be
+    recording all of the thing that did not go well in the hopes that I can make
+    your deployment easier.</p>
+
+    <ol>
+
+    <li>DONE - <strong>Install SQL Server 2012 (40 minutes)</strong>
+
+    <p>Just make sure that you select "Full Text Search" and the "Client Tools".
+    Then select Database Engine, Analysis Services and Reporting Services as
+    required.</p>
+
+    </li>
+
+    <li>DONE – <strong>Install &amp; Configure Team Foundation Server 2012 (30
+    minutes)</strong>
+
+    <p>As we are installing TFS in a Single-Server configuration we can use the
+    Standard wizard and have it configure everything. The down side of this
+    version of the wizard is that it will use the TfsService account for all of
+    the uses including the reports account and the SharePoint account. For this
+    install and due to the time limitations I am going to stick with this
+    configuration and I will change it later if I need.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image18.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="Install &amp;
+    Configure Team Foundation Server 2012: Selecting your wizard"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb11.png"
+    alt="Install &amp; Configure Team Foundation Server 2012: Selecting your
+    wizard" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Selecting your Wizard</strong></p>
+
+    <p>This is by far the quickest way to install TFS and while I would get to
+    configure every little detail using the “Advanced” wizard, it is of little
+    benefit here.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image19.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb12.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Installing SharePoint</strong></p>
+
+    <p>SharePoint is a necessary evil for many companies and while I don’t see
+    the benefit myself, many organisations really like it. Yes it can be a
+    useful tool, but you know what they say:</p>
+
+    <blockquote>
+
+    <p>You have a problem… you solve it with SharePoint… now you have two
+    problems…</p>
+
+    </blockquote>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image20.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb13.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Running the Readiness Checks</strong></p>
+
+    <p>TFS 2010 went a long way to east the problems of installing and
+    configuring a product with this many moving parts and integration points.
+    TFS 2012 takes it one step further by adding the experience of 100’s of
+    installs by 100’s of professionals that have fed back to the Product Team to
+    make this experience as slick as possible.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image21.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb14.png"
+    alt="image" width="640" height="394" border="0" /></a><br /><strong>Figure:
+    All Good, now we can configure…</strong></p>
+
+    <p>Just because all of the checks have completed successfully, this does not
+    means that you will not get any errors or problems. It just means that you
+    should not get any that folks have had before <img class="wlEmoticon
+    wlEmoticon-smilewithtongueout" style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/06/wlEmoticon-smilewithtongueout.png"
+    alt="Smile with tongue out" /></p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image22.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb15.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    All good, TFS 2012 configured</strong></p>
+
+    <p>All going well you should now have all of the green ticks of a successful
+    configuration. When the Product Team proposed this separation of install and
+    configuration for TFS 2010 it was greeted with optimism… it is now regarded
+    with love by those that worked through the dark ages of TFS 2005 and TFS
+    2008…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image23.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb16.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Now we can test a few things</strong></p>
+
+    <p>Not only has TFS been configured properly but a bunch of other checks and
+    changes have been performed for those regular gotchas. Like dynamic
+    compression in IIS and opening ports on the firewall.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image24.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb17.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    App Tier and Portal are working</strong></p>
+
+    <p>A quick test of the App-Tier components shows that all is well and
+    working. We did a few things to tidy up after this, for example we added a
+    friendly URL of <a href="http://tfs.domain.com">http://tfs.domain.com</a>
+    for all of the services. This was not required, but it helps round things
+    off so that users feel more love.</p>
+
+    <p>In addition we created a new CompanyCollection and CompanySandbox team
+    project to get folks started with messing around.</p>
+
+    <p>NOTE: Do not think you are done with a TFS install until you have created
+    a Team Project with all of the trimmings (SharePoint and Reporting Services)
+    as well as checked the data.</p>
+
+    </li>
+
+    <li>DONE –<strong>Install &amp; Configure Team Foundation Build Controller
+    2012 (10 minutes)</strong>
+
+    <p>This was an uneventful install. No errors on Server 2008 R2 and no
+    additional requirements above all of the Windows Updates.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image25.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb18.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Select “Configure Team Foundation Build Service” and start the
+    wizard</strong></p>
+
+    <p>Again all of the configuration happens separately from the install. This
+    eases the burden if things go wrong and allows us to snapshot our virtual
+    environments prior to configuration actions.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image26.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb19.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Configuring a Build Controller is as easy as installing</strong></p>
+
+    <p>After you have selected your Team Project Collection make sure that you
+    configure with zero agents. This is going to be the Controller and should
+    not have any Agents installed locally. I specifically made this server less
+    powerful so a not to take up resources unnecessarily. If you are only going
+    to have one Agent, or one server with Agents then you can put the controller
+    on that box or even on the TFS server. However if you pan to have more
+    Agents you should get the box sorted now…</p>
+
+    </li>
+
+    <li>DONE – <strong>Install &amp; Configure Team Foundation Build Agent 2012
+    (10 minutes)</strong>
+
+    <p>This was an uneventful install. No errors on Server 2008 R2 and no
+    additional requirements above all of the Windows Updates.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image27.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure: Just
+    like the Controller</strong></p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image28.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure: Easy
+    configuration</strong></p>
+
+    <p>It is pretty much identical to the Controller configuration except that
+    we are adding two agents to the existing Controller. This is obvious from
+    the options and easy to follow.</p>
+
+    </li>
+
+    <li>DONE – <strong>Install &amp; Configure Team Foundation Test Controller
+    2012 (10 minutes)</strong>
+
+    <p>This was another uneventful install although it is different from the
+    other installs. It has a stand alone installer and a different UI that is a
+    throwback from its past as a lowly Load Test Controller. Now that it is part
+    of TFS is does way more than simple Load Testing, but still has not been
+    fully integrated with the look and feel of the other Agents. Never mind…
+    there is always the next version. No errors on Server 2008 R2 and no
+    additional requirements above all of the Windows Updates.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image29.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Configuring the Test Controller</strong></p>
+
+    <p>In order to configure the Test Controller for Load Testing you need to
+    install some form of SQL Server. Express will do fine, but my customer has
+    no need of Load Test for now. The purpose of this server is to gather
+    results from the Lab Environments…</p>
+
+    </li>
+
+    <li>DONE - <strong>Install System Centre Virtual Machine Manager 2012 (20
+    minutes)</strong>
+
+    <p>I was installing SCVMM 2012 for the first time and they have moved all of
+    my buttons, and not just in the install. Now technically you don’t need the
+    SCVMM Console to be installed on the TFS Server any more with 2012, but I
+    don’t have another box to control the Hosts. So my TFS Server is also my
+    SCVMM Manager.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image30.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Installing VMM Management Server</strong></p>
+
+    <p>I am usually just installing the VMM Console,<del
+    datetime="2012-11-27T23:33:55+00:00"> which is no longer required</del>. But
+    this is the VMM environment <img class="wlEmoticon wlEmoticon-smile"
+    style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/06/wlEmoticon-smile1.png"
+    alt="Smile" /></p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image31.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure: You
+    require to install the Windows Automated Installation Toolkit</strong></p>
+
+    <p>The TFS Product Team has spoiled us and we now expect all pre-requisites
+    to be listed as one list and preferably installed automatically. Not so here
+    and note that the Link to the page does not even work… arg… <span
+    style="text-decoration: line-through;">google</span> bing… found…
+    downloaded…</p>
+
+    <p>Suggestion for SCVMM team: If you are going to provide a link, make sure
+    that it works… better yet… put an install button and do it for me.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image32.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Installing the Windows Automated Installation Kit</strong></p>
+
+    <p>I am amused by having to install the Automated Installation Kit
+    manually!</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image33.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Arg.. Have all errors listed</strong></p>
+
+    <p>Suggestion for SCVMM team: If you are going to do checks, don’t stop on
+    the first failure unless you have to. Run all of the checks and tell me
+    about all of the Hoops in one go.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image34.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure: Take
+    me to the install</strong></p>
+
+    <p>Although this link worked it took me to the top of a massive page with
+    many installs. Luckily I have been here before…</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image35.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    SCVMM Requires a SQL DB to store its configuration</strong></p>
+
+    <p>Make sure that you get everything setup correctly…otherwise…</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image36.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Needs permissions</strong></p>
+
+    <p>Suggestion for SCVMM team: If you are doing checks don’t make the User
+    restart the install and enter everything from scratch… have the courtesy
+    that if I rerun the same action that I have probably taken some action and
+    rerun the check….close install… restart … fill out everything again…
+    woot…</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" src="http://blog.hinshelwood.com/files/2012/06/image37.png"
+    alt="image" width="640" height="360" border="0" /><br /><strong>Figure:
+    Smooth install</strong></p>
+
+    <p>After that everything was clean sailing…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image38.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb20.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Now add the Hosts</strong></p>
+
+    <p>After you have installed and run the console you need to tell SCVMM where
+    the hosts are that it should own.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image39.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb21.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Make sure you have admin</strong></p>
+
+    <p>You need to add the account that you are running the console under,
+    “TfsLab” in this case, to the administrators group on the server. This will
+    allow your console to configure everything it needs on the box.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image40.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb22.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    SCVMM configures your host for you</strong></p>
+
+    <p>As we don’t yet have a SAN attached (happening tonight) I created a
+    Library Store on the local TFS Server to get moving. This will need moved
+    tomorrow which will free up space… see later problem…</p>
+
+    </li>
+
+    <li>DONE - <strong>Integrate TFS 2012 and SCVMM 2012 (5 minutes)</strong>
+
+    <p>Its 11am and the thing that took the longest was installing SQL Server
+    2012. I now have all of my servers configured and installed, SharePoint has
+    been integrated and now to plug TFS and SCVMM together to create the all
+    powerful “Lab Manager”…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image41.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb23.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    You can now configure Lab Management</strong></p>
+
+    <p>When you first hit this screen you will not have a “Configure” button,
+    but once you have SCVMM installed you can click refresh (are you hearing
+    this SCVMM Product Team) and I now see the “Configure” button.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image94.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image94_thumb.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    TFS must be running under a domain account to configure Lab
+    Management</strong></p>
+
+    <p>Because I used the “Standard Single-Server” install TFS was configured to
+    use NT AuthorityNetwork Service instead of a domain account. Well it takes
+    about 30 seconds to change this from the Admin Console (Server | Application
+    Tier | Change Account) and that fixes that pesky TF255484. Once in however
+    you only need to enter the server name and click OK.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image42.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb24.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Now you need to configure </strong></p>
+
+    <p>Now that you have TFS and SCVMM configured into Lab Manager you get a
+    lovely message letting you know that none of your Team Project Collections
+    are configured yet… so lets take care of that…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image43.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb25.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Configure Lab Management </strong></p>
+
+    <p>Now that we have communication we need to tell the Collection that it can
+    use Lab Management. If you go to “Server | Application Tier | Team Project
+    Collections | DefaultCollection” you will see a “Lab Management” tab that
+    has popped into existence. All you need is to configure a Library Share and
+    Host Groups and you are done.</p>
+
+    <p>Note: If like us you created a temporary Library Share until your main
+    data store becomes available you will have to reconfigure this. But as it
+    takes all of 2 minutes it is no biggie.</p>
+
+    </li>
+
+    <li>DONE - <strong>Test Automated Build (20 minutes)</strong>
+
+    <p>We are now technically DONE, but I like to give the environment a little
+    exercise before it meets my <a
+    href="http://rules.ssw.com.au/Management/RulesToSuccessfulProjects/Pages/DoYouGoBeyondDoneAndFollowADoneCriteria.aspx">definition
+    of Done</a>.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image44.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb26.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Create and run a build</strong></p>
+
+    <p>I walk though creating a build, first with an empty solution and then
+    with a new Test Project and a single Unit Test. This proves out a bunch of
+    things and allows you to pick up the missing Drop Folder and Symbols folder
+    while we still have admin support to create them for us.</p>
+
+    </li>
+
+    <li>DONE - <strong>Test Environmental Deploy</strong>
+
+    <p>I ran into a couple of problems creating a test environment that are to
+    do with SCVMM 2012, and the temporary Library Share.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image45.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb27.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Can’t change guest settings</strong></p>
+
+    <p>I always wondered why I had to change the settings in TFS 2010 and why
+    they were not fixed to what the administrator set, now with them being read
+    only in Lab Manager I missed that capability. I as an administrator can
+    easily switch back to SCVMM to configure things, but it means that you need
+    a little more close Infrastructure (or DevOps) support during initial setup.
+    I am not complaining, just a consideration. I like that the engineers and
+    testers can’t give boxes unlimited RAM. It’s a matter of capacity…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image46.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb28.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Rather cryptic 22022 error from deployment</strong></p>
+
+    <p>The error “22022: the customizable template must contain exactly one
+    virtual disk marked as ‘contains an operating system’” is very cryptic. For
+    some reason SCVMM 2012 did not set the HDD to be bootable, and even though
+    there was only one HDD it could not figure it out? Anyway…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image47.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb29.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Fix for 22022 error “contains the operating system”</strong></p>
+
+    <p>Easy fix that I found just by clicking around with minimal education in
+    SCVMM. So not really a big deal, but the very reason I like to have a dry
+    run…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image48.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb30.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Woot, Lab Environment under Construction</strong></p>
+
+    <p>Now that I cleaned out those errors the servers start to build, but then…
+    bang…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image49.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb31.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    No more space</strong></p>
+
+    <p>Although this says that there is no space on the C: drive of the TFS box
+    there is actually plenty, but the Host has been maxed out. This was fairly
+    easy to fix with the help of the SysAdmins here.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image59.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb41.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Required Sysprep parameter LocalAdminCredentials what?</strong></p>
+
+    <p>If you get an error 610, Virtual Machine Manager was unable to find a
+    value for the required Sysprep parameter LocalAdminCredentials, then you
+    likely need to get your SysAdmin to add Admin credentials to the box and
+    make sure that they are entered as part of the configuration settings. To
+    prove this out get them to instantiate the template and see it fail <img
+    class="wlEmoticon wlEmoticon-smile" style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/06/wlEmoticon-smile3.png"
+    alt="Smile" /></p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image60.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb42.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    We are rocking now</strong></p>
+
+    <p>With all of the above fixed the new environment is started and boots
+    successfully and all that is left is to install the agents.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image61.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb43.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    TF259641: To use this environment, you must install a compatible test
+    agent</strong></p>
+
+    <p>This is expected as part of the process so lets go ahead and install the
+    test agent.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image62.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb44.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    You need an account with Admin access on the box</strong></p>
+
+    <p>You should have already setup an admin account that you can give to the
+    folks to set things up. You need it now.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image63.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb45.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Bang… Test Manager cannot communicate</strong></p>
+
+    <p>So close and yet so far. I now get a “Test Manager cannot communicate
+    with these machines because they are not running or they are not available
+    on the network” which will now need resolved.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image64.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb46.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    I can RDP to the box!</strong></p>
+
+    <p>Even though I can RDP onto the box with the credentials that I specified
+    it will not let me on.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/06/image65.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/06/image_thumb47.png"
+    alt="image" width="640" height="360" border="0" /></a><br />Figure: Woot,
+    got everything working</p>
+
+    <p>The thing to remember is to make sure that File and Print Sharing is
+    enabled… phew…</p>
+
+    </li>
+
+    </ol>
+
+    <p>DONE.</p>
+
+    <p>I have emailed the product team as I followed the steps, but there may
+    have been something missed and indeed there was. I had neglected to enable
+    File and Print Sharing which is required by Lab/p></p>
+
+    <p>How have you been getting on with your 2012 Lab setups?</p>
+  - ''
+  post_id: '5496'
+  post_date: '2012-06-19 19:30:18'
+  post_date_gmt: '2012-06-20 02:30:18'
+  post_modified: '2012-06-19 19:30:18'
+  post_modified_gmt: '2012-06-20 02:30:18'
+  comment_status: open
+  ping_status: open
+  post_name: installing-tfs-2012-with-lab-management-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '79'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: lab management
+  - meta_key: _yoast_wpseo_title
+    meta_value: Installing TFS 2012 with Lab Management 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Do you know how to install TFS 2012 with Lab Management 2012 on SQL 2012
+      and SCVMM 2012?
+  - meta_key: dsq_thread_id
+    meta_value: '733352019'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBFT2D
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474847053;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5702;}i:1;a:1:{s:2:"id";i:9308;}i:2;a:1:{s:2:"id";i:10342;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-06-19-installing-tfs-2012-with-lab-management-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1904'
+  comment:
+  - comment_id: '1240'
+    comment_author: Zephan Schroeder
+    comment_author_email: zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: 12.193.27.158
+    comment_date: '2012-06-20 10:12:00'
+    comment_date_gmt: '2012-06-20 17:12:00'
+    comment_content: >-
+      Excellent blog post Martin. As usual you present an interesting story for
+      a real-world task complete with warts and well illustrated snapshots. I
+      can relate to the SAN reqest delay. Today I am requesting additional
+      storage capacity within my TFS network to clear more room for automated
+      backups (staging before offsite archive :-)). 
+
+      I am particularly looking forward to a continuation where you delve into
+      automated deployment, especially if it involves automated deployment and
+      configuration of web services :-).
+
+      Keep posting!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '562928311'
+  - comment_id: '1241'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 12.181.158.165
+    comment_date: '2012-06-20 18:02:00'
+    comment_date_gmt: '2012-06-21 01:02:00'
+    comment_content: >-
+      Thanks @google-21cfd836931ae05189efa9b0219f84c8:disqus  I hope it was of
+      use :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1240'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '562928311'
+    - meta_key: dsq_post_id
+      meta_value: '563258127'
+  - comment_id: '1242'
+    comment_author: >-
+      Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template
+      consolidation - Visual Studio ALM with Team Foundation Server, Visual
+      Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-06-29 19:39:06'
+    comment_date_gmt: '2012-06-30 02:39:06'
+    comment_content: >-
+      [...]               Installing TFS 2012 with Lab Management 2012        
+      Share &rarr;   (function(d, s, id) { var js, fjs =
+      d.getElementsByTagName(s)[0]; if [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1341023946.83";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1341024864.93";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1243'
+    comment_author: Visual Studio 2012 RTM available &amp; installed - Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/visual-studio-2012-rtm-available-installed/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-09-21 22:40:01'
+    comment_date_gmt: '2012-09-22 05:40:01'
+    comment_content: '[...] Installing TFS 2012 with Lab Management 2012 (Customer) [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348292401.11";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348292782.66";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1244'
+    comment_author: Dylan Smith
+    comment_author_email: optikal@shaw.ca
+    comment_author_url: ''
+    comment_author_IP: 74.198.150.65
+    comment_date: '2012-11-27 13:25:00'
+    comment_date_gmt: '2012-11-27 21:25:00'
+    comment_content: >-
+      FYI, you do need to install SCVMM Console on the TFS Server (even if SCVMM
+      is hosted on another server).  Otherwise you won't get the Configure
+      button in TFS Admin Console.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '720680338'
+  - comment_id: '1245'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2012-11-27 13:54:00'
+    comment_date_gmt: '2012-11-27 21:54:00'
+    comment_content: 'Correct please see #6 above :)'
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1244'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '720680338'
+    - meta_key: dsq_post_id
+      meta_value: '720713632'
+  - comment_id: '1246'
+    comment_author: disqus_CXv9RoyyEI
+    comment_author_email: bruce.cutler@landesk.com
+    comment_author_url: ''
+    comment_author_IP: 192.206.100.4
+    comment_date: '2013-01-04 15:52:00'
+    comment_date_gmt: '2013-01-04 23:52:00'
+    comment_content: >-
+      Excellent post.  We're going to be completing our upgrade soon and getting
+      Test Manager and Lab Manager configured will be our next step.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '756162483'
+  - comment_id: '1247'
+    comment_author: Eldad
+    comment_author_email: cohen_eldad@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 84.229.106.12
+    comment_date: '2013-01-25 06:06:00'
+    comment_date_gmt: '2013-01-25 14:06:00'
+    comment_content: >-
+      Error 610, Can you please elabrate and explain how to resolve such error
+      when preparing a template.
+
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '777779267'
+  - comment_id: '2042'
+    comment_author: John Hughes
+    comment_author_email: johnnynine@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 67.167.237.63
+    comment_date: '2013-12-16 23:25:00'
+    comment_date_gmt: '2013-12-16 23:25:00'
+    comment_content: >-
+      Martin, could you please elaborate on where to install the test controller
+      and why? I am stuggling with what machine to install it on. I see you your
+      diagram you are using a dedicated server for this, but is that really
+      necessary? What is the downside to installing it on the TFS Server? The
+      only blurb I have found from Microsoft just says to not install it on a
+      domain controller.
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1166709428'
+  - comment_id: '2045'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2013-12-18 15:49:00'
+    comment_date_gmt: '2013-12-18 15:49:00'
+    comment_content: |-
+      John,
+       I would just install it on the TFS server if you are going to get low load. I would however watch for performance issues on TFS. The Test Controller pulls in all of the Uploads and test data prior to it being uploaded into TFS.
+      -MrHinsh
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2042'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1166709428'
+    - meta_key: dsq_post_id
+      meta_value: '1168823960'
+  - comment_id: '10676'
+    comment_author: Pankaj Mishra
+    comment_author_email: pankaj.aries@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 203.199.125.67
+    comment_date: '2015-02-04 14:22:00'
+    comment_date_gmt: '2015-02-04 14:22:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      I am getting the message "No Such Host is known when registering SCVMM on
+      TFS admin.
+
+
+      Kindly help
+
+
+      Thanks....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1834502946'
+  - comment_id: '11733'
+    comment_author: Heloisa Reis
+    comment_author_email: heloisa.reis@rapi10.com.br
+    comment_author_url: ''
+    comment_author_IP: 201.85.60.115
+    comment_date: '2015-04-12 22:47:00'
+    comment_date_gmt: '2015-04-12 21:47:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      Your site is the best! 
+
+      I installed TFS 2013 on machine non-domain and I installed SCVMM on
+      machine with domain controller and now I have a little problem.
+
+      The TFS is used for all my developer team and the QA team needs the lab
+      management. 
+
+
+      What the best way to solve this? Add TFS machine on domain controller? Is
+      there way to connect TFS Lab (non-domain) to Lab machine on domain.
+
+
+      Kindly help
+
+      Thanks...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1962576820'
+  - comment_id: '11736'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-04-13 11:51:00'
+    comment_date_gmt: '2015-04-13 10:51:00'
+    comment_content: >-
+      Thanks for you kind words. I would recommend that you have your TFS on
+      your corporate domain.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11733'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1962576820'
+    - meta_key: dsq_post_id
+      meta_value: '1964679936'

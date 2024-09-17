@@ -1,0 +1,1699 @@
+post:
+  title: Teams without areas using a team field in TFS
+  link: https://nkdagility.com/blog/team-foundation-server-2012-teams-without-areas/
+  pubDate: Wed, 19 Dec 2012 06:51:44 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9188
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.</p>\r\n<p>Although not the default it will give you greater versatility in configuring for a <a href=\"http://blog.hinshelwood.com/one-team-project/\" target=\"_blank\">single Team Project</a> with the ability to then use area solely for Product. Lets say that you have a bunch of products and four teams that work on those products. No team particularly owns those Products as you have many more Products than Teams and you have a single backlog of ordered work that represents work across all of those products.</p>\r\n<ul>\r\n<li><span class=\"label label-info\">Update</span> Microsoft has now added MSDN documentation for <a href=\"http://msdn.microsoft.com/en-us/library/vstudio/dn144940.aspx\" target=\"_blank\">Customize a team project to support team fields</a></li>\r\n<li><span class=\"label label-info\">Update</span> Another Visual Studio ALM MVP, Rene van Osnabrugge has created a walk through for <a href=\"http://osnabrugge.wordpress.com/2013/05/13/teams-without-areasfixing-the-reports/\" target=\"_blank\">customising the reports to support 'team field'</a>.</li>\r\n<li><span class=\"label label-warning\">Breaking news</span>With <a href=\"http://support.microsoft.com/kb/2933779\" target=\"_blank\">TFS 2013 Update 3 (TFS 2013.3)</a> the Test team have converted Test Plan and Test Suit to Work Items and enabled Team Field support. Awesome!</li>\r\n</ul>\r\n<table width=\"528\" border=\"0\" cellspacing=\"0\" cellpadding=\"2\">\r\n<tbody>\r\n<tr>\r\n<td valign=\"top\" width=\"188\"><strong>Area</strong></td>\r\n<td valign=\"top\" width=\"183\"><strong>Iteration</strong></td>\r\n<td valign=\"top\" width=\"155\"><strong>Team</strong></td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 1</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |—Release 1</td>\r\n<td valign=\"top\" width=\"155\">Team 1</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 1</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 1</td>\r\n<td valign=\"top\" width=\"155\">Team 2</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 2</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 2</td>\r\n<td valign=\"top\" width=\"155\">Team 3</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 3</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 3</td>\r\n<td valign=\"top\" width=\"155\">Team 4</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 2</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |—Release 2</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 1</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 4</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 2</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 5</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Component 3</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 6</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 3</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 7</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 4</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 8</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 5</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |—Release 3</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 6</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 9</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td valign=\"top\" width=\"188\">&nbsp;&nbsp;&nbsp; |—Product 7</td>\r\n<td valign=\"top\" width=\"183\">&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |—Sprint 10</td>\r\n<td valign=\"top\" width=\"155\">&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<p>Indeed within a single Sprint a Team may touch multiple products and they are all released on the same cadence. Is this ideal… well no.. it can be hard to create working software against a single piece of software let alone multiple. But lets for a moment assume that all your products were built using TDD, they have a full automated UI suite of tests and every manual test is automated by the end of every sprint. Not only that but you have an automated and tested deployment that has been proven in Development, Quality Assurance and Production environments.</p>\r\n<p>In short you have continuous delivery and you are good at it.</p>\r\n<p>Now, while in this is a fantasy world for most companies there are yet others for which this is a reality. Look at the new 3 week shipping cadence of the Developer Division at Microsoft or the 6 week cycle for Chrome from Google.</p>\r\n<p>You can’t ship code to production in the form described above unless you are that good. If you are not then good then you may think about working on one Product for a release and then moving that team to another product for the next release. That would be an easier way and allow your teams to focus on one thing for a release. Still problematic but a little more manageable.</p>\r\n<p>There are only a few simple steps to achieve Teams without Areas with team field:</p>\r\n<ol>\r\n<li><span class=\"label label-success\">DONE</span> <span style=\"text-decoration: line-through;\">Create a Global List for 'team field'</span>&nbsp;</li>\r\n<li><span class=\"label label-success\">DONE</span> <span style=\"text-decoration: line-through;\">Add the 'team field' field to PBI &amp; Bug</span></li>\r\n<li><span class=\"label label-success\">DONE</span> <span style=\"text-decoration: line-through;\">Change the CommonProcessConfig.xml file to use 'team field'</span></li>\r\n<li><span class=\"label label-success\">DONE</span> <span style=\"text-decoration: line-through;\">Configure Team settings per 'team field'</span></li>\r\n</ol>\r\n<p>So lets get started.</p>\r\n<p><small><span class=\"label label-warning\">Warning</span> Never make changes against a production TFS… Ever… Always test out your changes in a test server first</small></p>\r\n<p><small><span class=\"label label-info\">Info</span> If you are really awesome you should create CodedUI tests for all your common TFS user scenarios so that you can be sure that you have not broken anyone’s workflow without intent.</small></p>\r\n<h2 class=\"icon-task\">Create a Global List for the 'team field'</h2>\r\n<p>We first want to create a Global List to hold our list of Teams. This is really for two reasons. First in the Visual Studio Scrum 2.1 process template both PBI and Bug are owned by team members and appear on the backlog so a Global List need only be updated once for both Fields. Second we can easily build a tool to add items to the list and even if doing it manually we are not in danger of radically changing our Work Item Type Definition ever time we want to add something.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Creating a Global List for the 'team field'\" alt=\"Creating a Global List for the 'team field'\" src=\"http://blog.hinshelwood.com/files/2012/12/image4.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Creating a Global List for the 'team field'</strong></p>\r\n<p>If your TFS server has not yet been in use for builds and you have never created a global list then you will be presented with an intuitive empty box.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Create a new global list for the 'team field'\" alt=\"Create a new global list for the 'team field'\" src=\"http://blog.hinshelwood.com/files/2012/12/image5.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Create a new global list for the 'team field'</strong></p>\r\n<p>If you right click in the open space you will see a menu that you can use to first add a Global List and then populate it.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Add all of teams to the global list\" alt=\"Add all of the Teams to the global list\" src=\"http://blog.hinshelwood.com/files/2012/12/image6.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Add all of the Teams to the global list</strong></p>\r\n<p>Once you have populated your global list we can then move on to adding the custom field to the work item type definitions so that we can both select it in the UI and set the administration configuration for it.</p>\r\n<p>You can export your global list from the command line or through the UI for use on your production server once you have decided that this is the way for you.</p>\r\n<p><small><span class=\"label label-info\">Info</span> Always store your changes in Version Control so that you never loose them. Preferable not in the server that you are modifying. <a href=\"http://tfs.visualstudio.com\">http://tfs.visualstudio.com</a> is perfect for this.</small></p>\r\n<h2 class=\"icon-task\">Add the 'team field' to PBI &amp; Bug</h2>\r\n<p>Now we need to add a custom field to all of the work item types that are defined in the&nbsp; “Requirement Types” section of the Categories.xml file.&nbsp; In the case of the Visual Studio Scrum process template this is both the Product Backlog Team and Bug.</p>\r\n<pre class=\"brush: ps; ruler: true;\">witadmin exportcategories /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /f:c:tempcategories.xml\r\n</pre>\r\n<p><b>Figure: Command line call to export categories</b></p>\r\n<p>If you look in the file you will see an entry for “Requirement Category” that contains the things that we are looking for.</p>\r\n<pre class=\"brush: xml; ruler: true;\">  \r\n  \r\n\r\n</pre>\r\n<p><b>Figure: Requirement Category for Visual Studio Scrum 2.1</b></p>\r\n<p>We need to update both or we will get an error, however we will be making the same change to both.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Edit the PBI to add the 'team field'\" alt=\"Edit the PBI to add the 'team field'\" src=\"http://blog.hinshelwood.com/files/2012/12/image7.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Edit the PBI to add the 'team field'</strong></p>\r\n<p>This will open the Product Backlog Item Work Item Type Definition from our test project in a UI tool that will make it faster to get all of the way through the changes. The nice thing about the UI is that it has listed all of the options and I don’t have to Google or remember them… I am pretty lazy aren't I…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Add the 'team field' to the PBI\" alt=\"Add the 'team field' to the PBI\" src=\"http://blog.hinshelwood.com/files/2012/12/image8.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Add the 'team field' to the PBI</strong></p>\r\n<p>I always follow the same format for creating custom fields. I think that most of the ALM MVP’s and Consultants out there do the same so…</p>\r\n<p>The Name should be in the format “[what you want] ([comapny])”. This allows you to see which are custom fields in the cube. The reference name should be just the opposite with no spaces or special characters. So it becomes [company].[CamelCaseName] and allows me to also identify it easily.</p>\r\n<p>I am setting this as a Dimension so that I can use it to slice any of my reports. You will need to modify the OOB reports to add this to them, but anything that you create you can add this out of the gate.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Adding the Rules to the 'team field'\" alt=\"Adding the Rules to the 'team field' \" src=\"http://blog.hinshelwood.com/files/2012/12/image9.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Adding the Rules to the 'team field'</strong></p>\r\n<p>I am adding two specific rules and you may add more but this is the basics. First add AllowExistingValues so that if you delete a team in the future you are not left with Work Items in a broken state. Then we need to get to the meat and add the AllowedValues.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Add the 'team field' global list to the allowed values\" alt=\"Add the 'team field' global list to the allowed values\" src=\"http://blog.hinshelwood.com/files/2012/12/image10.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Add the 'team field' global list to the allowed values</strong></p>\r\n<p>The global list should appear in the UI and be selectable. This will load the values and create a drop down list on the UI (once we have added it) to allow users to select Team.</p>\r\n<pre class=\"brush: xml; ruler: true;\">  \r\n  \r\n    \r\n  \r\n\r\n</pre>\r\n<p><b>Figure: Xml for the 'team field'</b></p>\r\n<p>But we are not done yet. we still need to add the field to the UI.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Where to put the 'team field'\" alt=\"Where to put the 'team field'\" src=\"http://blog.hinshelwood.com/files/2012/12/image11.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Where to put the 'team field'</strong></p>\r\n<p>In the PBI form there is a nice little space below Reason that I want to utilise. So lets add the field to the UI.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Add a new control for the 'team field' data\" alt=\"Add a new control for the 'team field' data\" src=\"http://blog.hinshelwood.com/files/2012/12/image12.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Add a new control for the 'team field' data</strong></p>\r\n<p>We just need to add a new generic control to the UI where we want it. Most of the layout is taken care of automatically so we only have a few fields to fill out…</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Set the field name and the label for the 'team field' to show\" alt=\"Set the field name and the label for the 'team field' to show\" src=\"http://blog.hinshelwood.com/files/2012/12/image13.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Set the field name and the label for the 'team field' to show</strong></p>\r\n<p>We have only added a simple reference to the data and Team Foundation Server will figure out how to render it on both Web and thick client alike.</p>\r\n<pre class=\"brush: xml; ruler: true;\"></pre>\r\n<p><strong>Figure: The new control XML for the 'team field'</strong></p>\r\n<p>Once you have added this you will need to refresh the cache in Visual Studio before you will see the new list on the Work Items.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"New 'team field' is now on the form\" alt=\"New 'team field' is now on the form\" src=\"http://blog.hinshelwood.com/files/2012/12/image14.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: New 'team field' is now on the form</strong></p>\r\n<p><small><span class=\"label label-warning\">Warning</span> Remember that this field and control will need added to all of the Requirement Types that you have set for your process template.</small></p>\r\n<p><small><span class=\"label label-info\">Info</span> The easy way to add this field to other work item types is to export the XML and add it manually.</small></p>\r\n<pre class=\"brush: ps; ruler: true;\">witadmin exportwitd /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /n:\"Product Backlog Item\" /f:c:temppbi.xml\r\nwitadmin exportwitd /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /n:\"Bug\" /f:c:tempbug.xml\r\nwitadmin importwitd /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /f:c:tempbug.xml\r\n</pre>\r\n<p><strong>Figure: Export both, edit the bug and then import it to add team without areas</strong></p>\r\n<p>Once you have added these changes to all of the Requirement Types that you have configured you can move on to configuring TFS to look at this new field and not Area.</p>\r\n<h2 class=\"icon-task\">Change the CommonProcessConfig.xml file to use the 'team field'</h2>\r\n<p>We now need to tell Team Foundation Server to use this new field by changing the Common Processing Configuration that the web access uses to figure out what is going on with a particular process template.</p>\r\n<pre class=\"brush: ps; ruler: true;\">witadmin exportcommonprocessconfig /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /f:c:tempcpc.xml\r\n</pre>\r\n<p><strong>Figure: Export the common process config to xml</strong></p>\r\n<p>Once you have the xml file you can open it in your favourite IDE and find the TypeField with the Type of Team.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Edit the TypeField for Team to use the new 'team field'\" alt=\"Edit the TypeField for Team to use the new 'team field'\" src=\"http://blog.hinshelwood.com/files/2012/12/image15.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Edit the TypeField for Team to use the new 'team field'</strong></p>\r\n<p>You can literally just change the refname from the current Area Path value..</p>\r\n<pre class=\"brush: xml; ruler: true;\"></pre>\r\n<p><strong>Figure: Original Team value for TypeField</strong></p>\r\n<p>To the new Teams field that we created earlier..</p>\r\n<pre class=\"brush: xml; ruler: true;\"></pre>\r\n<p><strong>Figure: New Team value for TypeField</strong></p>\r\n<p>Now save and import the new common process configuration we are nearly there.</p>\r\n<pre class=\"brush: ps; ruler: true;\">witadmin importcommonprocessconfig /collection:http://kraken:8080/tfs/Tfs01/ /p:TeamsWithoutAreas /f:c:tempcpc.xml\r\n</pre>\r\n<p><strong>Figure: Import new common process configuiration file</strong></p>\r\n<p>And we are almost done. we now need to go to the Web Interface and tell it for each team, what value is theirs…</p>\r\n<h2 class=\"icon-task\">Configure Team settings per Team without Areas</h2>\r\n<p>This is the final part of the configuration and once you go into your Team boards of backlog you will get a lovely message:</p>\r\n<blockquote>\r\n<p>TF400512: You have not selected any areas for your team. You must select at least one area before you can use features such as the product backlog, the task board or tiles.</p>\r\n</blockquote>\r\n<p>Well lets do what it says and head over to the administration pages for this team by clicking the nicely provided “Select team’s areas” link.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"New Team Field tab has been added to the Administration\" alt=\"New Team Field tab has been added to the Administration\" src=\"http://blog.hinshelwood.com/files/2012/12/image16.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: New Team Field tab has been added to the Administration</strong></p>\r\n<p>We now have a brand new tab on our administration section for “team field” so that we can select one or more “areas” from our new field values that this team is responsible for.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"This is Team 1 from the list \" alt=\"This is Team 1 from the list \" src=\"http://blog.hinshelwood.com/files/2012/12/image17.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: This is Team 1 from the list </strong></p>\r\n<p>Now when we create new work items as part of this team they will default to selecting this drop down and not our Product hierarchy that is in Area Path.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"Team is now set instead of Area Path by default\" alt=\"Team is now set instead of Area Path by default\" src=\"http://blog.hinshelwood.com/files/2012/12/image18.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Team is now set instead of Area Path by default</strong></p>\r\n<p>If you were using this new drop down for Product rather than Team you may want to have multiple values owned by this team and that is allowed in the configuration. I would only recommend that however when you really need hierarchical teams that Area Path can provide or at least simulate.</p>\r\n<h2 class=\"icon-conclusion\">Conclusion</h2>\r\n<p>This has merit when the situation dictates and I have recommended it twice now with some of my colleagues coming around to the idea.</p>\r\n<p>And remember that any changes to your process template should be well thought out as you don’t want to end up with fragmented templates if you have more than one Team Project or worse, end up with a frankin-template that no one wants to use.</p>\r\n<p>Just be careful out there…</p>"
+  - >-
+    <p class="lead">Did you know that you can use Teams without areas using a
+    team field in Team Foundation Server 2012 or 2013? There are numerous
+    reasons to do this but the decision should not be taken lightly.</p>
+  post_id: '9188'
+  post_date: '2012-12-18 22:51:44'
+  post_date_gmt: '2012-12-19 06:51:44'
+  post_modified: '2014-09-04 13:21:22'
+  post_modified_gmt: '2014-09-04 12:21:22'
+  comment_status: open
+  ping_status: open
+  post_name: team-foundation-server-2012-teams-without-areas
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '85'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: team field
+  - meta_key: _yoast_wpseo_title
+    meta_value: Teams without areas using a team field in TFS
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Did you know that you can configure Teams without areas using a team field
+      in Team Foundation Server?
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '982013446'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"none";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wp_old_slug
+    meta_value: teams-without-areas-using-a-team-field-in-tfs
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.net/1aBNcqV
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBNcqV
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:2:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474912011;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9900;}i:1;a:1:{s:2:"id";i:10378;}i:2;a:1:{s:2:"id";i:6160;}}}s:32:"df61fcfdca6f8728835e2e846787cf2c";a:2:{s:7:"expires";i:1474923241;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9900;}i:1;a:1:{s:2:"id";i:10378;}i:2;a:1:{s:2:"id";i:6160;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-12-18-team-foundation-server-2012-teams-without-areas.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '2214'
+  comment:
+  - comment_id: '1525'
+    comment_author: Richard Banks
+    comment_author_email: rbanks54@gmail.com
+    comment_author_url: http://profiles.google.com/rbanks54
+    comment_author_IP: 124.149.118.195
+    comment_date: '2012-12-19 13:22:00'
+    comment_date_gmt: '2012-12-19 21:22:00'
+    comment_content: Nice approach. I like it.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '743065911'
+  - comment_id: '1526'
+    comment_author: Gregg Boer
+    comment_author_email: greggboe@microsoft.com
+    comment_author_url: ''
+    comment_author_IP: 131.107.147.22
+    comment_date: '2012-12-21 06:59:00'
+    comment_date_gmt: '2012-12-21 14:59:00'
+    comment_content: >-
+      Martin, as the Product Owner of the team that built this feature to use
+      teams without areas, I could NOT have written a better post myself. Great
+      work detailing out this approach. It will be very useful for teams that
+      use area path for something other than team representation.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '744797332'
+  - comment_id: '1527'
+    comment_author: >-
+      Team Foundation Server 2012 Teams without Areas | Visual Studio ALM |
+      Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/3990284099/team-foundation-server-2012-teams-without-areas
+    comment_author_IP: 89.30.105.121
+    comment_date: '2013-01-07 15:15:01'
+    comment_date_gmt: '2013-01-07 23:15:01'
+    comment_content: >-
+      [...] Did you know that you can use Teams without Areas in Team Foundation
+      Server 2012? There are numerous reasons to do this but the decision should
+      not be taken lightly&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357600501.653574;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357661648.690435;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1528'
+    comment_author: >-
+      Team Foundation Server 2012 Teams without Areas | Windows8 Programming |
+      Scoop.it
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/windows8-programming/p/3994804527/team-foundation-server-2012-teams-without-areas
+    comment_author_IP: 89.30.105.121
+    comment_date: '2013-01-10 01:22:33'
+    comment_date_gmt: '2013-01-10 09:22:33'
+    comment_content: >-
+      [...] Did you know that you can use Teams without Areas in Team Foundation
+      Server 2012? There are numerous reasons to do this but the decision should
+      not be taken lightly&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357809754.921089;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1358103494.211277;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1529'
+    comment_author: Angela Dugan
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/OakParkGirl
+    comment_author_IP: 131.107.165.137
+    comment_date: '2013-01-28 18:34:00'
+    comment_date_gmt: '2013-01-29 02:34:00'
+    comment_content: >-
+      This is cool Martin, thanks! Creating some interesting new possibilities
+      for me now :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '781407384'
+  - comment_id: '1530'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 131.107.147.236
+    comment_date: '2013-01-28 18:37:00'
+    comment_date_gmt: '2013-01-29 02:37:00'
+    comment_content: >-
+      I thought that you might find it useful based on our conversation :) Happy
+      to help...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1529'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '781407384'
+    - meta_key: dsq_post_id
+      meta_value: '781409932'
+  - comment_id: '1531'
+    comment_author: Ron Overbeck
+    comment_author_email: ron.overbeck@alere.com
+    comment_author_url: ''
+    comment_author_IP: 66.194.75.4
+    comment_date: '2013-03-27 15:20:00'
+    comment_date_gmt: '2013-03-27 22:20:00'
+    comment_content: >-
+      This approach looks like a great fit for our company, but after following
+      these instructions in TFS 2012, I discovered that the website sprint
+      backlog view does not function properly.  Adding a task using the website
+      sprint backlog view appears to work at first.  The task is properly linked
+      to the PBI and you can see it on the board, however, once you refresh the
+      browser the task disapears.  Looking at the details of the task or PBI
+      shows that they are still linked, but you can't see the task on the
+      board.  Has anyone else encountered this problem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '844337098'
+  - comment_id: '1532'
+    comment_author: >-
+      TFS as perfect tool for Scrum (Part 2) &ndash; Product Backlog Grooming |
+      The Road to ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://osnabrugge.wordpress.com/2013/04/07/tfs-as-perfect-tool-for-scrum-part-2-product-backlog-grooming/
+    comment_author_IP: 66.135.48.146
+    comment_date: '2013-04-07 11:06:53'
+    comment_date_gmt: '2013-04-07 18:06:53'
+    comment_content: >-
+      [...] Martin Hinselwood &#8211;
+      http://blog.hinshelwood.com/team-foundation-server-2012-teams-without-areas/
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365358013.850029;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365382841.364718;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1533'
+    comment_author: Renaldas Budrys
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/rbudrys
+    comment_author_IP: 151.147.253.140
+    comment_date: '2013-04-22 11:41:00'
+    comment_date_gmt: '2013-04-22 18:41:00'
+    comment_content: >-
+      I like the idea of using another field (vs area path) to define the team.
+      However I do not want to introduce a new field to my WITs. I use the
+      iteration path field to control what my team's backlog is. I setup a
+      separate iteration path for my team and would like only those items to be
+      displayed in the agile planning tools (backlog list) in TWA. Using TFS2012
+      RTM and agile 6.0 template. It drives me nuts that TWA does not allow to
+      edit the baclog query. Any suggestions?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '872467272'
+  - comment_id: '1534'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 68.118.213.79
+    comment_date: '2013-04-22 12:55:00'
+    comment_date_gmt: '2013-04-22 19:55:00'
+    comment_content: >-
+      I have not tried to use System.IterationPath and I don't know what impact
+      it would have. You are a little off the beaten path as I have only ever
+      seen Area or a drop-down-list used for Team :)
+
+
+      How would you support two teams on the same cadence? Do you have two
+      separate "[teamA]Sprint 1" and "[teamB]Sprint 1"?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1533'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '872467272'
+    - meta_key: dsq_post_id
+      meta_value: '872531397'
+  - comment_id: '1535'
+    comment_author: Андрей Зонов
+    comment_author_email: andrew.zonov@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 79.173.78.120
+    comment_date: '2013-04-24 03:38:00'
+    comment_date_gmt: '2013-04-24 10:38:00'
+    comment_content: >-
+      This is noce approach, we also using in our project, but with latest
+      Update 2 we faced an issue - new feature of accessing test cases from the
+      web interface doesn't work because of it assumes we are using Area as a
+      team field. I've created an report on that for Microsoft
+      (https://connect.microsoft.com/VisualStudio/feedback/details/783802/impossible-to-see-test-plans-in-web-access-of-tfs2012-update-2-in-case-of-custom-team-field-used),
+      but don't know how big are the chanses that this will be fixed soon.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '874160431'
+  - comment_id: '1536'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-04-26 18:34:00'
+    comment_date_gmt: '2013-04-26 17:34:00'
+    comment_content: >-
+      Yea, I believe that this is currently not going to work. You would need to
+      set the area to the root untill that team fixes it...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1535'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '874160431'
+    - meta_key: dsq_post_id
+      meta_value: '876999492'
+  - comment_id: '1537'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-05-10 21:56:00'
+    comment_date_gmt: '2013-05-10 20:56:00'
+    comment_content: >-
+      I have now investigated and blogged on this issue :)
+      http://nkdagility.com/configure-test-plans-for-web-access-in-tfs-2012-2/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1535'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '874160431'
+    - meta_key: dsq_post_id
+      meta_value: '892582689'
+  - comment_id: '1538'
+    comment_author: Teams without Areas&ndash;Fixing the reports | The Road to ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://osnabrugge.wordpress.com/2013/05/13/teams-without-areasfixing-the-reports/
+    comment_author_IP: 72.232.7.57
+    comment_date: '2013-05-13 22:15:56'
+    comment_date_gmt: '2013-05-13 21:15:56'
+    comment_content: >-
+      [...] third approach is very well described by Martin Hinshelwood in his
+      popular post “Teams without Areas” and can be used perfectly as [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1368479756.263202;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1368484021.355366;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1539'
+    comment_author: Working within a single Team Project with Team Foundation Server 2012
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.nwcadence.com/working-within-a-single-team-project-with-team-foundation-server-2012/
+    comment_author_IP: 66.175.212.70
+    comment_date: '2013-05-23 16:19:16'
+    comment_date_gmt: '2013-05-23 15:19:16'
+    comment_content: >-
+      [...] own projects. If you have many projects and your teams own more than
+      one at ay time you can use Teams without areas but instead of having a
+      list of “Teams” you create a list of Projects and define which Teams [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1369322357.013248;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1369324769.383102;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1540'
+    comment_author: Peter
+    comment_author_email: peter.seehaus@sew-eurodrive.de
+    comment_author_url: ''
+    comment_author_IP: 194.180.1.201
+    comment_date: '2013-07-03 17:01:00'
+    comment_date_gmt: '2013-07-03 16:01:00'
+    comment_content: >-
+      Do you know,if it is possible to add more than one Global List for team
+      fields? Maybe there is the need to have different team names in different
+      projects with different Project administrators in our company. So ervery
+      administrator is responsible for his own list.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '950679441'
+  - comment_id: '1541'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-03 17:04:00'
+    comment_date_gmt: '2013-07-03 16:04:00'
+    comment_content: >-
+      Yes you can. You can create a Global List for "TeamProjectA-Teams" and
+      then customize every Team Project independently. I would however recommend
+      one Team Project per Collection...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1540'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '950679441'
+    - meta_key: dsq_post_id
+      meta_value: '950682673'
+  - comment_id: '1542'
+    comment_author: Configure Test Plans for web access in TFS 2012.2
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/configure-test-plans-for-web-access-in-tfs-2012-2/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-13 01:11:21'
+    comment_date_gmt: '2013-07-13 00:11:21'
+    comment_content: >-
+      [...] can use ‘team field’ which allows you to use a drop-down field on
+      your Work Item for Team in order to free up your [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373674281.286188;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1374076559.627697;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1543'
+    comment_author: Lockhouse
+    comment_author_email: andrew@spl-it.com
+    comment_author_url: ''
+    comment_author_IP: 85.119.21.2
+    comment_date: '2013-07-25 09:40:00'
+    comment_date_gmt: '2013-07-25 08:40:00'
+    comment_content: |-
+      Hi Ron,
+      I'm having exactly the same problem. Did you find a solution?
+      Best regards.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1531'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '844337098'
+    - meta_key: dsq_post_id
+      meta_value: '975621225'
+  - comment_id: '1544'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-25 16:53:00'
+    comment_date_gmt: '2013-07-25 15:53:00'
+    comment_content: >-
+      You need to have the 'team field' added to your Task work item type as
+      well and it needs to be set the same as your PBI otherwise it will fall
+      out of scope...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1543'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '975621225'
+    - meta_key: dsq_post_id
+      meta_value: '975959328'
+  - comment_id: '1859'
+    comment_author: Ben Whaley
+    comment_author_email: brwhaley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 71.254.82.105
+    comment_date: '2013-09-06 00:57:00'
+    comment_date_gmt: '2013-09-06 00:57:00'
+    comment_content: >-
+      I'm interested in making this change in the TFS 2013 Preview, but my
+      understanding is that Power Tools for that version of TFS are not yet
+      available.  How difficult is it to make these changes without those
+      tools?  Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1031604117'
+  - comment_id: '1860'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-09-06 01:37:00'
+    comment_date_gmt: '2013-09-06 01:37:00'
+    comment_content: >-
+      You can use the MSDN documentation to make the changes without the Power
+      Tools: http://msdn.microsoft.com/en-us/library/vstudio/dn144940.aspx And
+      the changes are trivial...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1859'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1031604117'
+    - meta_key: dsq_post_id
+      meta_value: '1031642479'
+  - comment_id: '1887'
+    comment_author: Scott Wollschleger
+    comment_author_email: swollschleger@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 66.195.168.34
+    comment_date: '2013-09-11 18:06:00'
+    comment_date_gmt: '2013-09-11 18:06:00'
+    comment_content: >-
+      I just stumbled upon this and tried this out in a test environment.  The
+      issue I see is the Team field is not auto populated in linked PBIs or
+      tasks (add a child PBI or Task).  Is there anyway for this to carry over
+      like AreaPath, IterationPath, &amp; Assignedto fields do?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1038767951'
+  - comment_id: '1888'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 207.114.139.254
+    comment_date: '2013-09-11 19:47:00'
+    comment_date_gmt: '2013-09-11 19:47:00'
+    comment_content: >-
+      If you break down the PBI into Tasks or Child PBI's using the 'green' plus
+      in teh Agile Planning and Portfolio tools it does. If you do it on the
+      Work Item it does not... I have reported this to the Product Team...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1887'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1038767951'
+    - meta_key: dsq_post_id
+      meta_value: '1038916172'
+  - comment_id: '1891'
+    comment_author: Jeff Smith
+    comment_author_email: jeffrey.smith@allscripts.com
+    comment_author_url: ''
+    comment_author_IP: 66.162.9.208
+    comment_date: '2013-09-12 17:57:00'
+    comment_date_gmt: '2013-09-12 17:57:00'
+    comment_content: >-
+      Hi Martin. We have this configuration implemented just as you instructed.
+      One thing we're noticing is that when you are logged into a specific team
+      within your project in web access and you are in a sprint backlog view and
+      use the + icon to create a new task, the team field defaults correctly on
+      the task. However, if I open a bug or pbi and choose to go to the Task tab
+      and use the New Linked Work Item... button to create a new task, that new
+      task's team field defaults to Unassigned. How does it know to default to
+      the correct team when I use the + icon or when I right click on a bug or
+      pbi and create a new task?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1040669680'
+  - comment_id: '2015'
+    comment_author: 'TFS 2013 Issue - value cannot be null. Parameter name: key'
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-11-11 15:12:44'
+    comment_date_gmt: '2013-11-11 15:12:44'
+    comment_content: >-
+      [&#8230;] Area Path for documentation purposes we could not use it for
+      Team. So I dutifully configured their TFS for ‘team field’ as their client
+      field so that they could create ‘teams’ that represent the work that is
+      done [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1384182764.919602;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1384352746.510107;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2017'
+    comment_author: Renaldas Budrys
+    comment_author_email: rbudrys@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 98.206.128.20
+    comment_date: '2013-11-16 19:57:00'
+    comment_date_gmt: '2013-11-16 19:57:00'
+    comment_content: >-
+      I implemented this in test TFS environment and encountered a few issues.
+
+      Environment: VS2013 using Agile template
+
+      Background:
+
+      - Global list created with two teams: Red Team, Blue Team
+
+      - All required work items updated Agile template (Bug, US, Feature,Task)
+
+      - Rules: allow existing values, allowed values coming from the global list
+
+      - Common process template changed to use Team instead of Area Path
+
+      Issue 1:
+
+      TWA forces to select at least 1 Team for the backlog even for the default
+      project team. I selected Blue and Red teams (all teams) on the team field
+      tab. However, when I do that all the work items that have no value in the
+      Team field fall out of scope even for the default team. I can catch
+      extract them all in excel and set the team and publish back to TFS to fix
+      that. Is there a more elegant way to deal with that.
+
+      Issue 2:
+
+      When adding new work items to the backlog we may not know at that time to
+      which team those items going to be assigned. What to put in the field name
+      before that triaging is done?
+
+      Issue 3:
+
+      MTM does not force to select a team for new bugs. If the bug is created
+      from MTM has a blank team value it falls through the cracks. It will not
+      appear on any team backlog. Without someone periodically auditing all work
+      items it would be impossible to catch all these "missing" items.
+
+      I am sure that there are multiple ways we can solve these issues. E.g.
+      setting up the default team in the global list, making it as a default
+      value, or simply enforcing field rules. Please prescribe the cure.
+
+      Thanks,
+
+      Renaldas
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1126203404'
+  - comment_id: '5743'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 101.172.85.79
+    comment_date: '2014-10-20 06:57:00'
+    comment_date_gmt: '2014-10-20 05:57:00'
+    comment_content: |-
+      Hi Martin
+
+      Should the team field be added to the code review and request work items?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1644277274'
+  - comment_id: '5745'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-10-20 08:25:00'
+    comment_date_gmt: '2014-10-20 07:25:00'
+    comment_content: >-
+      Yes it should. You will also need to add a "default" so that you don't get
+      any errors.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5743'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644277274'
+    - meta_key: dsq_post_id
+      meta_value: '1644322960'
+  - comment_id: '5750'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 123.243.142.187
+    comment_date: '2014-10-20 09:03:00'
+    comment_date_gmt: '2014-10-20 08:03:00'
+    comment_content: >-
+      Thanks. Can the default be changed when the code review is being created?
+
+
+      Otherwise is there a way to get the team field to appear in window when
+      the code review is being created?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5745'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644322960'
+    - meta_key: dsq_post_id
+      meta_value: '1644343661'
+  - comment_id: '5751'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-10-20 09:27:00'
+    comment_date_gmt: '2014-10-20 08:27:00'
+    comment_content: >-
+      No, and no. However the team field value is immaterial at the code review
+      level. I usually add a default of "TeamProjectName". Code reviews always
+      end up here.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5750'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644343661'
+    - meta_key: dsq_post_id
+      meta_value: '1644356512'
+  - comment_id: '5760'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 110.174.70.63
+    comment_date: '2014-10-20 10:31:00'
+    comment_date_gmt: '2014-10-20 09:31:00'
+    comment_content: >-
+      thanks for the quick replies. 
+
+      Re: TeamProjectName.........I would assume I would need to create a
+      dummy/default  team name that has the same name as the project name?
+
+      at the moment I have no 'unassigned' team field option and all options are
+      assigned to the required TFS teams
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5751'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644356512'
+    - meta_key: dsq_post_id
+      meta_value: '1644395424'
+  - comment_id: '5764'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-10-20 11:14:00'
+    comment_date_gmt: '2014-10-20 10:14:00'
+    comment_content: >-
+      I would add an "unassigned" team to the list... that way its obvious what
+      it is and you can assign it to every or none of the teams...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5760'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644395424'
+    - meta_key: dsq_post_id
+      meta_value: '1644421882'
+  - comment_id: '6113'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 14.203.97.100
+    comment_date: '2014-10-27 02:11:00'
+    comment_date_gmt: '2014-10-27 02:11:00'
+    comment_content: >-
+      Hi Martin, how do I get around the scenario around Test Plans and Suites
+      not using this field? currently I have an error when I try to save a test
+      case using the grid view since the field is not in these workitems
+
+
+      from my understanding, I cannot export Test Plans and Suites unless I
+      install TFS to update 3
+
+      do you have a workaround or another way to update the Suite and Plans?
+
+      thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5764'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1644421882'
+    - meta_key: dsq_post_id
+      meta_value: '1655243577'
+  - comment_id: '6118'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.235.102
+    comment_date: '2014-10-27 05:30:00'
+    comment_date_gmt: '2014-10-27 05:30:00'
+    comment_content: >-
+      update 3 is the solution, but you can work around it by adding a value to
+      team field with the same name as the team project.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '6113'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1655243577'
+    - meta_key: dsq_post_id
+      meta_value: '1655388836'
+  - comment_id: '6246'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 101.173.127.255
+    comment_date: '2014-10-29 04:11:00'
+    comment_date_gmt: '2014-10-29 04:11:00'
+    comment_content: >-
+      Hi again. Not sure what you mean
+
+
+      Do you suggest if the project name is 'Anthony' then the default for test
+      cases is 'Anthony'?
+
+
+      I looked at some other posts and I am a little stuck
+
+
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '6118'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1655388836'
+    - meta_key: dsq_post_id
+      meta_value: '1658721500'
+  - comment_id: '6251'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.235.110
+    comment_date: '2014-10-29 07:09:00'
+    comment_date_gmt: '2014-10-29 07:09:00'
+    comment_content: >-
+      add an entry to your company.teams global list of the same name as the
+      team project. Then make sure that each test plan has only the route area
+      path set.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '6246'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1658721500'
+    - meta_key: dsq_post_id
+      meta_value: '1658830960'
+  - comment_id: '8202'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 110.174.70.63
+    comment_date: '2014-11-29 21:15:00'
+    comment_date_gmt: '2014-11-29 21:15:00'
+    comment_content: >-
+      Hi Martin, 
+
+      me again. i found that when i went to add the field to test plans and
+      suites after moving to update 4, i lost my current sets of test plans
+
+
+      how do i get what i had in place with my test cases without having to
+      re-add everything?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '6251'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1658830960'
+    - meta_key: dsq_post_id
+      meta_value: '1718252346'
+  - comment_id: '9011'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 13:31:00'
+    comment_date_gmt: '2014-12-16 13:31:00'
+    comment_content: >-
+      We are having an issue.  We implemented the Team Field changes but we are
+      having permission issues creating test plans and test cases from the TEST
+      tab/screen.  It appears that the Project Admin role is the only role that
+      will allow things to work correctly.
+
+
+
+      Thoughts?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1744898560'
+  - comment_id: '9012'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-16 13:40:00'
+    comment_date_gmt: '2014-12-16 13:40:00'
+    comment_content: >-
+      If you are on 2013.3+ you must add team field to the Test Case, Test Suit,
+      and Test Plan types as well..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9011'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744898560'
+    - meta_key: dsq_post_id
+      meta_value: '1744909197'
+  - comment_id: '9013'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 13:42:00'
+    comment_date_gmt: '2014-12-16 13:42:00'
+    comment_content: yea we have done that.  I will double check the xml files to be sure.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9012'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744909197'
+    - meta_key: dsq_post_id
+      meta_value: '1744911781'
+  - comment_id: '9014'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-16 13:43:00'
+    comment_date_gmt: '2014-12-16 13:43:00'
+    comment_content: Does it work in MTM? If so... clear your browser cache...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9013'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744911781'
+    - meta_key: dsq_post_id
+      meta_value: '1744913071'
+  - comment_id: '9015'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 13:58:00'
+    comment_date_gmt: '2014-12-16 13:58:00'
+    comment_content: >-
+      No go in MTM... it says no permissions at the area path "Team Project
+      Name".  Which is the same error in TWA.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9014'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744913071'
+    - meta_key: dsq_post_id
+      meta_value: '1744931009'
+  - comment_id: '9016'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-16 14:05:00'
+    comment_date_gmt: '2014-12-16 14:05:00'
+    comment_content: Did you add a default team? In the Xml?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9015'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744931009'
+    - meta_key: dsq_post_id
+      meta_value: '1744939728'
+  - comment_id: '9017'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 14:10:00'
+    comment_date_gmt: '2014-12-16 14:10:00'
+    comment_content: >-
+      Unassigned is the default team and that is only set at the root / team
+      project level.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9016'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744939728'
+    - meta_key: dsq_post_id
+      meta_value: '1744946432'
+  - comment_id: '9019'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-16 14:43:00'
+    comment_date_gmt: '2014-12-16 14:43:00'
+    comment_content: Can you mail me some of the screenshots?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9017'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744946432'
+    - meta_key: dsq_post_id
+      meta_value: '1744991127'
+  - comment_id: '9020'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 14:48:00'
+    comment_date_gmt: '2014-12-16 14:48:00'
+    comment_content: What email you want it sent to
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9019'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744991127'
+    - meta_key: dsq_post_id
+      meta_value: '1744998413'
+  - comment_id: '9021'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-16 14:58:00'
+    comment_date_gmt: '2014-12-16 14:58:00'
+    comment_content: My email is on http://nkdagility.com/company/general-inquiries/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9020'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1744998413'
+    - meta_key: dsq_post_id
+      meta_value: '1745014353'
+  - comment_id: '9022'
+    comment_author: jwhousley
+    comment_author_email: johnnyw.housley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 152.87.3.5
+    comment_date: '2014-12-16 15:00:00'
+    comment_date_gmt: '2014-12-16 15:00:00'
+    comment_content: Sent.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9021'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1745014353'
+    - meta_key: dsq_post_id
+      meta_value: '1745017773'
+  - comment_id: '9822'
+    comment_author: Sam
+    comment_author_email: sameerkumar.k@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 74.121.112.50
+    comment_date: '2015-01-06 17:25:00'
+    comment_date_gmt: '2015-01-06 17:25:00'
+    comment_content: >-
+      Very nice post. Just found this while searching for "nested teams".
+
+
+      I want to achieve something which seems like obvious if TFS team could
+      offer nested teams feature. I need to setup TFS project with structure as:
+
+
+      -&gt; Location01_TeamProject (TFS Project):
+        |--&gt; TeamLead01_Team (Team at TFS project level)
+        |  |---&gt;Product01_Team (Nested Team)
+        |  |---&gt;Product02_Team (Nested Team)
+        |--&gt; TeamLead02_Team (Team at TFS project level)
+        |  |---&gt;Product03_Team (Nested Team)
+        |  |---&gt;Product04_Team (Nested Team)
+      Any thoughts are appreciated.
+
+      Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1774907505'
+  - comment_id: '9824'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 94.118.26.54
+    comment_date: '2015-01-06 17:41:00'
+    comment_date_gmt: '2015-01-06 17:41:00'
+    comment_content: >-
+      Yes, TFS supports nested teams and they can be setup in both Area Path and
+      Team Field modes. With Area Path your hierarchy is already available and
+      each sub team just owns the area path below below. You can then choose to
+      configure the parent team to see sub teams items or not. I regularly do
+      this to support:
+
+
+      - PMO
+          |---Product 1 PO
+                |---Team A
+                |---Team B
+          |---Product 2 PO
+                |---Team C
+                |---Team D
+
+      It works pretty much the same with Team Field except you have to add
+      explicit ownership of Team A and Team B as well as Product 1 to the PO
+      Team for Product 1.
+
+
+      If you need any help then give me a shout through the contact page :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9822'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1774907505'
+    - meta_key: dsq_post_id
+      meta_value: '1774934796'
+  - comment_id: '10353'
+    comment_author: >-
+      Creating nested teams in Visual Studio ALM | naked ALM - Experts in ALM,
+      TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/creating-nested-teams-visual-studio-alm/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-22 11:29:04'
+    comment_date_gmt: '2015-01-22 11:29:04'
+    comment_content: >-
+      [&#8230;] just got a question on Teams without areas using Team Field in
+      TFS and I decided that it warranted a bigger answer. The question was
+      around creating nested teams and [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421926144.791304;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421933483.552705;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11618'
+    comment_author: Sandy Lada
+    comment_author_email: sandy.lada@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 99.59.208.132
+    comment_date: '2015-03-26 00:19:00'
+    comment_date_gmt: '2015-03-26 00:19:00'
+    comment_content: >-
+      The only problem with this is that now I can setup a URL for a team but
+      not a project.  I need to be able to decouple teams from projects so that
+      my project team can see everything on the project and the scrum team can
+      see all the work assigned to them across multiple projects.  The only URL
+      I can setup now is for the Team.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1928370124'
+  - comment_id: '11619'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-03-26 10:46:00'
+    comment_date_gmt: '2015-03-26 10:46:00'
+    comment_content: >-
+      Correct, in your situation that is the correct solution.
+
+
+      However the optimal solution is to stop focusing on Project and instead
+      focus on Product. Having a Project delivered does not necessarily
+      contribute to value for the customer. In fact the opposite is mostly true
+      based on analysis by the Standish Group in Boston. In Scrum a Sprint is
+      the only Project, and thus the only thing that can fail.
+
+
+      http://nkdagility.com/blog/organisation-project-mangers-well-product-owners/
+
+
+      In order to get half way there you can use queries as above. Projects
+      don't get backlogs, that's for Products.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11618'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1928370124'
+    - meta_key: dsq_post_id
+      meta_value: '1928894713'
+  - comment_id: '12881'
+    comment_author: ANthony
+    comment_author_email: anthony.pugliese@nintex.com
+    comment_author_url: ''
+    comment_author_IP: 220.101.33.130
+    comment_date: '2015-08-07 01:50:00'
+    comment_date_gmt: '2015-08-07 00:50:00'
+    comment_content: >-
+      Hi martin,
+
+
+      I had an issue with the team field yesterday
+
+      I updated the globalist to include a new selection/team option and when
+      the update was completed, the reference for the team field inside the
+      workitem xml was removed
+
+      somehow updating the list made all the workitems remove the referencing
+      field
+
+      have you ever experienced this?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '8202'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1718252346'
+    - meta_key: dsq_post_id
+      meta_value: '2178667091'
+  - comment_id: '12888'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-07 08:33:00'
+    comment_date_gmt: '2015-08-07 07:33:00'
+    comment_content: >-
+      That's not even possible, there is something else going on. There is not
+      relationship between GlobalLists and Work Item fields.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12881'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2178667091'
+    - meta_key: dsq_post_id
+      meta_value: '2179060526'
+  - comment_id: '12900'
+    comment_author: Anthony
+    comment_author_email: apugliese83@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 1.136.96.41
+    comment_date: '2015-08-08 00:18:00'
+    comment_date_gmt: '2015-08-07 23:18:00'
+    comment_content: >-
+      Wish there was another reason. Any help would be appreciated. 
+
+
+      To find the issue i had to find a tfs restore point and pointed that to a
+      test environment. Then I compared the work item xml's between
+      environments.  The globallist reference under the team field was deleted
+      under all work items. all I had was a blank field and workitems that
+      wouldn't save. 
+
+
+      The work items files were never touched only the globalist.xml. I only
+      touch the workitems when a new field is added and that had been weeks
+      since they were touched. I added a new option in the globallist,  imported
+      and the damage started
+
+
+      Had to reimport all work items xml's again to fix the problem. 
+
+
+      Happy to discuss more
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12888'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2179060526'
+    - meta_key: dsq_post_id
+      meta_value: '2180381011'
+  - comment_id: '12941'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-10 09:35:00'
+    comment_date_gmt: '2015-08-10 08:35:00'
+    comment_content: >-
+      That's pretty much what I have above, just with different names. You use
+      Area path to create the nest and then assign area paths to teams...
+      http://nkdagility.com/organisation-project-mangers-well-product-owners/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9822'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1774907505'
+    - meta_key: dsq_post_id
+      meta_value: '2184073337'
+  - comment_id: '12942'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-10 09:40:00'
+    comment_date_gmt: '2015-08-10 08:40:00'
+    comment_content: >-
+      Are you sure that there is not an automated process that updates the work
+      item template? Can you replicate the issue?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12900'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2180381011'
+    - meta_key: dsq_post_id
+      meta_value: '2184076737'
+  - comment_id: '12955'
+    comment_author: ANthony
+    comment_author_email: anthony.pugliese@nintex.com
+    comment_author_url: ''
+    comment_author_IP: 220.101.33.130
+    comment_date: '2015-08-11 04:52:00'
+    comment_date_gmt: '2015-08-11 03:52:00'
+    comment_content: >-
+      100% no automation and I didn't import an old template. 
+
+      reason being I usually keep the xml files locally as a reference. but I
+      was in a transition mode with a new laptop and so I had no files on my new
+      laptop at that time
+
+      I exported the globalist using the developer command prompt, updated the
+      list and re-imported
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '12942'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2184076737'
+    - meta_key: dsq_post_id
+      meta_value: '2185786474'
+  - comment_id: '13782'
+    comment_author: Ben Whaley
+    comment_author_email: brwhaley@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 69.42.97.166
+    comment_date: '2015-12-15 04:13:00'
+    comment_date_gmt: '2015-12-15 04:13:00'
+    comment_content: Do you know if this will work with TFS 2015 (on-prem)?  Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2410277225'
+  - comment_id: '13783'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.194.116
+    comment_date: '2015-12-15 06:24:00'
+    comment_date_gmt: '2015-12-15 06:24:00'
+    comment_content: >-
+      Ben, Team Field only works on-perm. You can't customise to this level on
+      VSTS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13782'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2410277225'
+    - meta_key: dsq_post_id
+      meta_value: '2410384021'
+  - comment_id: '13814'
+    comment_author: Barbara Göller
+    comment_author_email: barbara-goeller@web.de
+    comment_author_url: ''
+    comment_author_IP: 84.133.240.254
+    comment_date: '2016-01-28 08:59:00'
+    comment_date_gmt: '2016-01-28 08:59:00'
+    comment_content: >-
+      Hi Martin. Is it possible to also define a team and its corresponding
+      default team value within the process template? When using the AreaPath
+      for the team assignment this can be done in the file
+      GroupsAndPermissions.xml (cf. screenshot) but I did not find a possibility
+      to do this when using a team field. Thanks for your help!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2482597837'
+  - comment_id: '13859'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.111.33.215
+    comment_date: '2016-03-07 15:44:00'
+    comment_date_gmt: '2016-03-07 15:44:00'
+    comment_content: >-
+      Not within the process template. The Teams are listed in a Global List and
+      when you create a Team in the Web tool you need to specific which values
+      in the Global List relate to that team.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13814'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2482597837'
+    - meta_key: dsq_post_id
+      meta_value: '2556131195'
+  - comment_id: '13953'
+    comment_author: Leo Dsouza
+    comment_author_email: dsouzaleo@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 106.221.130.135
+    comment_date: '2016-04-05 15:13:00'
+    comment_date_gmt: '2016-04-05 14:13:00'
+    comment_content: Will the Team field show up on the TFS 2015 REST api?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2607283105'
+  - comment_id: '13954'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.121
+    comment_date: '2016-04-05 17:27:00'
+    comment_date_gmt: '2016-04-05 16:27:00'
+    comment_content: AS far as I am aware it should be. If not you need to raise a bug...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13953'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2607283105'
+    - meta_key: dsq_post_id
+      meta_value: '2607582863'
+  - comment_id: '14203'
+    comment_author: Scott LeWarne
+    comment_author_email: scottlewarne@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 209.84.109.12
+    comment_date: '2017-04-07 20:17:00'
+    comment_date_gmt: '2017-04-07 19:17:00'
+    comment_content: >-
+      Hi Martin, this approach is something that my team could greatly benefit
+      from due to how we have a few teams working on multiple products, but our
+      company has moved away from TFS to VSTS.  Do you know if there are any
+      plans to eventually support this approach in VSTS, or is it something that
+      will likely never happen due to different architecture?  Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3245288475'
+  - comment_id: '14204'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 82.17.87.100
+    comment_date: '2017-04-07 20:25:00'
+    comment_date_gmt: '2017-04-07 19:25:00'
+    comment_content: >-
+      Its been discussed a few times, and I am pretty sure its on the backlog. I
+      do however have many teams that use this approach wihout team field. You
+      can do it with Area Path as well...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14203'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3245288475'
+    - meta_key: dsq_post_id
+      meta_value: '3245305971'
+  - comment_id: '14205'
+    comment_author: Scott LeWarne
+    comment_author_email: scottlewarne@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 209.84.109.12
+    comment_date: '2017-04-07 21:51:00'
+    comment_date_gmt: '2017-04-07 20:51:00'
+    comment_content: >-
+      Well our problem right now is that teams are tied to area paths and we
+      would like to separate them so that a work item can be in a particular
+      area path (product backlog) but show up under a team.  Can that be done
+      with just area path's?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14204'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3245305971'
+    - meta_key: dsq_post_id
+      meta_value: '3245436963'
+  - comment_id: '14206'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 82.17.87.100
+    comment_date: '2017-04-07 22:08:00'
+    comment_date_gmt: '2017-04-07 21:08:00'
+    comment_content: >-
+      NO, you would have to use Area Path for Team. You can... but it would mean
+      either doubling up on Area or Team in the tree and would be very
+      painful...
+
+
+      Feel free to email me for a longer discussion.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14205'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3245436963'
+    - meta_key: dsq_post_id
+      meta_value: '3245461588'

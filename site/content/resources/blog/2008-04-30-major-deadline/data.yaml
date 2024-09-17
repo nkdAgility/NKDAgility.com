@@ -1,0 +1,52 @@
+post:
+  title: Major deadline
+  link: https://nkdagility.com/blog/major-deadline/
+  pubDate: Wed, 30 Apr 2008 21:39:41 +0000
+  creator: MrHinsh
+  guid:
+    _: http://geekswithblogs.net/hinshelm/archive/2008/04/30/major-deadline.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>\_<img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"135\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_thumb_6.png\" width=\"100\" align=\"left\" border=\"0\" />Well the faeces hit the fan at work today...let me explain...</p> <p>We have a completely unmanaged Sharepoint Portal server at work. It was installed in early 2004 and has been running in self service mode ever since. Not all of the company is using it, but those that are, are using it heavily. Particularly areas that service customers and one customer specifically use it so completely that that area of the business would find it hard to function if it was not available.</p> <p>So early this year I started a project to migrate / rewrite for Microsoft Office Sharepoint Server (MOSS) and we now have a proof of concept site online that demos the features and architecture of a finished portal. This POC version was scheduled for go live in Q4...</p> <p>This had been ticking over for a while with a number of project requests getting in the way, the <a href=\"http://www.codeplex.com/TFSStickyBuddy\" target=\"_blank\">TFS Sticky Buddy</a> for one, along with many others. As the only .NET developer in EMEA it can get a little hectic.</p> <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_4.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"101\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_thumb_1.png\" width=\"139\" align=\"right\" border=\"0\" /></a>Recently I had a project to make a copy of one of the Sharepoint 2003 portals and I ran into a number of problems... now, I am not a Sharepoint 2003 guru, having had most of my exposure to it with Team Foundation Server deployments, but I followed all of the documented approaches for copying a site, to no avail. For each attempt, of which there were many, and for each approach, again there were many, I ran into problem after problem. Either the export commands failed, or the import command failed, and the resultant restore looked nothing like the original having been mangled during the process.</p> <p>The result of my efforts was a custom APS.NET application that replicated the functionality provided by Sharepoint (it is worth noting that the site did not use much of SharePoint to do its job). Problem solved...</p> <p>But not really... I still had a soon to be mangled Sharepoint 2003 portal server with over a thousand users on it.</p> <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_6.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"69\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_thumb_2.png\" width=\"69\" align=\"left\" border=\"0\" /></a> Then the bomb shell landed... I had been getting some reports of problems for the users of a site that is used to handle a customers contract, these users were running into real performance issues and functionality limitations. They were aware of the proof of concept MOSS deployment and wanted a look, so when some of the guys were in the office I stupidly, as I always do, started showing off MOSS features and functionality that puts Sharepoint Portal server to shame. How stupid of me... in my zeal to get MOSS deployed to the business I inadvertently stepped on a land mine. They went home, spoke to a few people and lo and behold, my deadline has been moved up from Q4 to now.... or at leas as soon as possible, and specifically for the aforementioned site.</p> <p><strong>The Plan</strong></p> <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_12.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"96\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Majordeadline_13060-image_thumb_5.png\" width=\"96\" align=\"right\" border=\"0\" /></a> </p> <p> Apart from quitting, having a nervous breakdown and ultimately committing <a href=\"http://en.wikipedia.org/wiki/Seppuku\" target=\"_blank\">Seppuku</a> I had to come up with a way of fulfilling this insane idea of a deployment schedule.</p> <p>To do this I plan to use the Business Data Catalog to connect to customer data, and create a portal site that dynamically build sites using an as yet non existent site template for a specified customer. This way there is system data available for creating excel services reports and stats along with document library and InfoPath forms. The site should look exactly like the My Sites, but for a customer. It can then be branched out for other entitles like products (we build them and then rent and service them) and contracts.</p> <p>In the immortal words of the Windows 2003 Active Directory Installer:</p> <blockquote> <p><em>This may take some time, or considerably longer...</em></p></blockquote> <p>\_</p> <p> </p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/Personal\" rel=\"tag\">Personal</a>\_<a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_<a href=\"http://technorati.com/tags/MOSS\" rel=\"tag\">MOSS</a>\_<a href=\"http://technorati.com/tags/SharePoint\" rel=\"tag\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '233'
+  post_date: '2008-04-30 21:39:41'
+  post_date_gmt: '2008-04-30 21:39:41'
+  post_modified: '2008-04-30 21:39:41'
+  post_modified_gmt: '2008-04-30 21:39:41'
+  comment_status: open
+  ping_status: open
+  post_name: major-deadline
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '321559597'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1c3enYz
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1453851186;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:44;}i:1;a:1:{s:2:"id";i:8998;}i:2;a:1:{s:2:"id";i:376;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-04-30-major-deadline.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '406'

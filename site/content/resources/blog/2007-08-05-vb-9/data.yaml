@@ -1,0 +1,106 @@
+post:
+  title: VB 9
+  link: https://nkdagility.com/blog/vb-9/
+  pubDate: Sun, 05 Aug 2007 13:28:12 +0000
+  creator: MrHinsh
+  guid:
+    _: http://geekswithblogs.net/hinshelm/archive/2007/08/05/vb-9.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Yet more <a title=\"VB is better than C#\" href=\"http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2007/08/02/9556.aspx\" target=\"_blank\">evidence</a> that VB is superior to C# from <a href=\"http://mtaulty.com\" target=\"_blank\">Mike Taulty</a>...</p> <p>:)</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_</div>"
+  - ''
+  post_id: '341'
+  post_date: '2007-08-05 13:28:12'
+  post_date_gmt: '2007-08-05 13:28:12'
+  post_modified: '2007-08-05 13:28:12'
+  post_modified_gmt: '2007-08-05 13:28:12'
+  comment_status: open
+  ping_status: open
+  post_name: vb-9
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311604745'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/16CNniD
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-08-05-vb-9.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1466594010;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:340;}i:1;a:1:{s:2:"id";i:268;}i:2;a:1:{s:2:"id";i:290;}}}}
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '480'
+  comment:
+  - comment_id: '213'
+    comment_author: liviu
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2007-08-05 23:33:17'
+    comment_date_gmt: '2007-08-05 23:33:17'
+    comment_content: >-
+      vb is a language for mediocre programmers, as is php.<br />it clutters
+      your code with redundant tokens, anyway looks ugly and smells ugly..<br
+      />no offense
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972042'
+  - comment_id: '214'
+    comment_author: Mihir Solanki
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2007-08-06 11:34:53'
+    comment_date_gmt: '2007-08-06 11:34:53'
+    comment_content: >-
+      Here is the same code in c# <br /><br />NorthwindDataContext ctx = new
+      NorthwindDataContext();<br /><br />            var query = from c in
+      ctx.Customers<br />                        where c.Country == "UK"<br
+      />                        select new { Name = c.ContactTitle + " " +
+      c.ContactName };<br />            foreach (var c in
+      query.Skip(2).Take(3))<br />            {<br />               
+      Console.WriteLine(c.Name);<br />            }<br />           
+      Console.ReadLine();<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972045'

@@ -1,0 +1,173 @@
+post:
+  title: Connecting VS2008 to any TFS2010 Project Collection
+  link: >-
+    https://nkdagility.com/blog/connecting-vs2008-to-any-tfs2010-project-collection/
+  pubDate: Tue, 26 May 2009 16:05:07 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/05/26/connecting-vs2008-to-any-tfs2010-project-collection.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Easy peasy, all you need is the full URL from the project collection and you will be able to connect directly to it as if it was a different Team Server. This functionality was added with Visual Studio 2008 Service Pack 1, so if you don’t have SP1 installed yet you had better get it:</p>  <p><a title=\"Microsoft Visual Studio 2008 Service Pack 1\" href=\"http://www.microsoft.com/downloads/details.aspx?FamilyId=FBEE1648-7106-44A7-9649-6D9F6D58056E&amp;displaylang=en\" target=\"_blank\">Microsoft Visual Studio 2008 Service Pack 1</a></p>  <p>You need to use the following in the connection box “http://[tfsserver]:[port]/[vdir]/[projectCollection]</p>  <p>Although this looks complicated, it makes some sense at least, but is nowhere as nice as using the 2010 connection box:</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_4.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_thumb_1.png\" width=\"504\" height=\"379\" /></a> </p>  <p>One of the new things in <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> 2010 is that you can specify a virtual directory that it will run under, the default being “tfs” so you can have everything on the same ports.</p>  <p>So, if your tfs server name is “tfs01.domainname.com” and you take the default vdir of “tfs”, all you need is the collection name. So you could end up with “http://tfs01.domainname.com:80/tfs/MyNewCollection”</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_6.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_thumb_2.png\" width=\"504\" height=\"400\" /></a> </p>  <p>Backward compatibility +1</p>  <p>Connecting from Visual Studio 2005 Service Pack 1 is a different story, there is currently no way to connect VS2005 to TFS2010. There has been some discussion around this and its importance to Business Intelligence teams. If you are just opening VS2005/VS2003 occasionally then you could probably get away with using 2010 to control TFS and working in 2005, but many BI developers are still spending a considerable amount of there time in 2005 :(</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS+Admin\" rel=\"tag\">TFS Admin</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_<a href=\"http://technorati.com/tags/TFS+2010\" rel=\"tag\">TFS 2010</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_<a href=\"http://technorati.com/tags/VS+2005\" rel=\"tag\">VS 2005</a>\_</div>"
+  - ''
+  post_id: '108'
+  post_date: '2009-05-26 16:05:07'
+  post_date_gmt: '2009-05-26 16:05:07'
+  post_modified: '2009-05-26 16:05:07'
+  post_modified_gmt: '2009-05-26 16:05:07'
+  comment_status: open
+  ping_status: open
+  post_name: connecting-vs2008-to-any-tfs2010-project-collection
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311424283'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/16CNjzf
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474674505;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9336;}i:1;a:1:{s:2:"id";i:9749;}i:2;a:1:{s:2:"id";i:10149;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-05-26-connecting-vs2008-to-any-tfs2010-project-collection.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '678'
+  comment:
+  - comment_id: '504'
+    comment_author: ITLackey
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-11 19:40:06'
+    comment_date_gmt: '2009-08-11 19:40:06'
+    comment_content: >-
+      Thanks for the info! I was hoping you could let me know if there are any
+      known issues or limitation that are expected with using TS 2010 with a TFS
+      2008 server? Our team will probably move to the new IDE long before the
+      server folks get around to upgrading the TFS server.<br /><br />Thanks
+      again!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970204'
+  - comment_id: '505'
+    comment_author: Manish Kungwani
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-21 04:45:04'
+    comment_date_gmt: '2010-04-21 04:45:04'
+    comment_content: >-
+      Err ...  even after installing the Fwd Compat update, my VS 08 cant
+      connect to an existing team project!!<br />Pls Help!!<br />Posted details
+      at:
+      http://social.msdn.microsoft.com/Forums/en-US/tfsadmin/thread/ac361455-dd20-426b-9165-2243ac8a60e0/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970207'
+  - comment_id: '506'
+    comment_author: Maria Celeste Genitempo
+    comment_author_email: mariaceleste358@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-11-10 12:47:00'
+    comment_date_gmt: '2011-11-10 20:47:00'
+    comment_content: >-
+      After trying tips on other blogs, this finally worked for me. Thank you so
+      much.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '360338259'
+  - comment_id: '507'
+    comment_author: ashish fugat
+    comment_author_email: ashuthinks@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-12-12 22:42:00'
+    comment_date_gmt: '2011-12-13 06:42:00'
+    comment_content: >-
+      hi, i have visual studio 2008 installed but there is no team explorer so
+      to connect to TFS 2010 I need to install team explorer on VS2008 ?
+
+      please let me know what else I need to do for connection with TFS2010?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '385424006'
+  - comment_id: '508'
+    comment_author: Upgrading from TFS 2008 to TFS 2010 Overview - Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/upgrading-from-tfs-2008-to-tfs-2010-overview/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-11-02 02:06:08'
+    comment_date_gmt: '2012-11-02 09:06:08'
+    comment_content: >-
+      [...] Connecting VS2008 to any TFS2010 Project CollectionIn addition your
+      teams may not be upgrading visual studio at the same pace, so make sure
+      you know what they are using other than the latest Visual Studio. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351847168.53";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351847366.69";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

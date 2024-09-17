@@ -1,0 +1,108 @@
+post:
+  title: Could not find mappings for all states defined in 'Test Suit' work item type
+  link: >-
+    https://nkdagility.com/blog/find-mappings-states-defined-test-suit-work-item-type/
+  pubDate: Tue, 11 Nov 2014 15:46:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10899
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">After upgrading to TFS 2013.3 you get some reports of errors in MTM from your users. Specifically they get a \"Could not find mappings for all states defined in 'Test Suit' work item type\" error when connecting. I have also seen \"TF400860: TestManagement: Version 19, MinVersion: 19\" in some cases in the web access.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image001.jpg\" alt=\"clip_image001\" width=\"590\" height=\"452\" border=\"0\" /></p>\r\n<p>This should only happen if you have customised the Test Suit or Test Plan work items but as they have just been created by the upgrade process it is a little confusing as to why it does not work.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0025.png\" alt=\"clip_image002\" width=\"786\" height=\"452\" border=\"0\" /></p>\r\n<p>You might additionally find a similar error when trying to edit a Lab Template as it also queries the Test Data.</p>\r\n<p>In these cases, if you look real closely at the error message you will see that while \"Completed\" and \"In Planning\" look good there is an issue with \"In progress\". The test team in their infinite wisdom decided that if you have not customised anything that the system defaults to a hard coded set of process configuration for Tests. This sounds reasonable unless you factor in organisations that make silly customisations to their process template.</p>\r\n<p>In case you have not figured it out yet, the \"In process\" state should be \"In Process\". Yes, that’s a case sensitivity issue. When you are uploading work item types this is case-insensitive and is rationalised across work items. So if you have one work item in there with \"In process\" set and then you add another work item with \"In Process\" TFS will fix it for you on import. However the test teams hard coded the process configuration which is case sensitive.</p>\r\n<p>I am pretty sure that the product team will go fix it, but for now you two solutions:</p>\r\n<h3>Solution 1: Fix the configuration of your process</h3>\r\n<p>You should be mindful to make sure that you get all of your casing right. In this case I would check all of my work items to make sure that they have the same case and that it is the correct and out-of-the-box \"In Process\" text.</p>\r\n<h3>Solution 2: Add a custom process configuration override</h3>\r\n<p>In your process configuration you need to add a little bit of customisation to continue to use the case you have configured.</p>\r\n<pre class=\"lang:xhtml decode:true\">    &lt;TestSuiteWorkItems category=\"Microsoft.TaskCategory\"&gt;\r\n      &lt;States&gt;\r\n        &lt;State type=\"Proposed\" value=\"In planning\" /&gt;\r\n        &lt;State type=\"InProgress\" value=\"In progress\" /&gt;\r\n        &lt;State type=\"Complete\" value=\"Completed\" /&gt;\r\n      &lt;/States&gt;\r\n    &lt;/TestSuiteWorkItems&gt;\r\n</pre>\r\n<p>&nbsp;&nbsp;Once added you should not have an issue.</p>\r\n<h3>Conclusion</h3>\r\n<p>These entries are only required when connecting from older clients. From Visual Studio 2013.3 onwards this is a non-issue so it might be your chance to get all of your users to update to the latest and greatest.</p>\r\n<p>Remember that this issue only affects older clients, and when you have miss typed the casing of the states in your custom process template. Most folks should not run into this and it is a simple fix if you do.</p>"
+  - >-
+    <p class="lead">After upgrading to TFS 2013.3 you get some reports of errors
+    in MTM from your users. Specifically they get a "Could not find mappings for
+    all states defined in 'Test Suit' work item type" error when connecting. I
+    have also seen "TF400860: TestManagement: Version 19, MinVersion: 19" in
+    some cases in the web access.</p>
+  post_id: '10899'
+  post_date: '2014-11-11 15:46:00'
+  post_date_gmt: '2014-11-11 15:46:00'
+  post_modified: '2014-11-11 15:51:44'
+  post_modified_gmt: '2014-11-11 15:51:44'
+  comment_status: open
+  ping_status: open
+  post_name: find-mappings-states-defined-test-suit-work-item-type
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10831'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: could not find mappings for all states
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '68'
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1uiNiwp
+  - meta_key: dsq_thread_id
+    meta_value: '3214298534'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474360581;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5277;}i:1;a:1:{s:2:"id";i:9911;}i:2;a:1:{s:2:"id";i:5702;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-11-11-find-mappings-states-defined-test-suit-work-item-type.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '859'
+  comment:
+    comment_id: '7343'
+    comment_author: Dew Drop &#8211; November 13, 2014 (#1895) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/11/13/dew-drop-november-13-2014-1895/
+    comment_author_IP: 168.62.48.19
+    comment_date: '2014-11-13 13:28:36'
+    comment_date_gmt: '2014-11-13 13:28:36'
+    comment_content: >-
+      [&#8230;] Could not find mappings for all states defined in ‘Test Suit’
+      work item type (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1415885316.984215;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1415892335.779562;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

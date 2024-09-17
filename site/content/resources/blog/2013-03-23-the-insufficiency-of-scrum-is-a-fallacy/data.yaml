@@ -1,0 +1,592 @@
+post:
+  title: The Insufficiency of Scrum is a fallacy
+  link: https://nkdagility.com/blog/the-insufficiency-of-scrum-is-a-fallacy/
+  pubDate: Sat, 23 Mar 2013 17:37:31 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9338
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">The insufficiency of Scrum is a fallacy perpetrated by teams
+    that don’t step up their practices in concert with their planning and don't
+    really want to make it work anyway. You can fail doing Kanban, XP, Merise
+    and SSADM just as easily unless you have good engineering practices as
+    well.</p>
+
+    <p>The goal of Agile it to have you fail sooner and for it to cost less. So
+    what happens when you try to make your management practices more agile but
+    forget about your engineers practices?</p>
+
+    <p>Well <a href="http://aventuraspuntonet.wordpress.com/"
+    target="_blank">José Manuel Nieto</a> contacted me on twitter after joining
+    a team that was suffering from what he called <a
+    href="http://aventuraspuntonet.wordpress.com/2013/03/16/the-insufficiency-of-scrum/"
+    target="_blank">The Insufficiency of Scrum</a> and asked for thoughts and
+    after a conversation some advice.</p>
+
+    <blockquote class="twitter-tweet">
+
+    <p>@<a href="https://twitter.com/mrhinsh" target="_blank">mrhinsh</a> Hi
+    What do you think about the thoughts I published? "The Insufficiency of
+    SCRUM" <a title="http://wp.me/p33ULi-5k" href="http://t.co/piKoVTO9YM"
+    target="_blank">wp.me/p33ULi-5k</a></p>
+
+    <p>— José Manuel Nieto (@SuperJMN) <a
+    href="https://twitter.com/SuperJMN/status/315446020039397378"
+    target="_blank">March 23, 2013</a></p>
+
+    </blockquote>
+
+    <p>When we fail at something it is only human to look for something to blame
+    other than ourselves as the implementers and the things that we did not take
+    care of.</p>
+
+    <p>We have to accept the fact that no process is perfect and that we will
+    need to work hard at anything to make it work. Unfortunately we worked at
+    traditional software development for over 40 years to prove that it did not
+    work. But that is not really true…. it works in the small scale or if we are
+    building something simple. I can’t think of any modern software that is
+    either of those things. However Agile is not a silver bullet. I will say
+    that again… <strong>Agile is not a silver bullet</strong> and you should
+    read <a
+    title="http://blog.hinshelwood.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/"
+    href="http://blog.hinshelwood.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/"
+    target="_blank">Scrum is hard to adopt and disruptive to your
+    organisation</a>.</p>
+
+    <blockquote class="twitter-tweet">
+
+    <p>@<a href="https://twitter.com/mrhinsh" target="_blank">mrhinsh</a> It WAS
+    agile until bugs started to riddle the app. SCRUM only has short-term
+    planning.</p>
+
+    <p>— José Manuel Nieto (@SuperJMN) <a
+    href="https://twitter.com/SuperJMN/status/315513979948642304"
+    target="_blank">March 23, 2013</a></p>
+
+    </blockquote>
+
+    <p>Most of the Agile Frameworks only cater for planning the ‘what’ and tells
+    you to let the team decide on ‘how’ to build the software. Scrum, Kanban
+    &amp; Scaled Agile all focus on the Management process not the engineering
+    practices. This does not mean that you don’t also need good engineering
+    practices, and in fact the <a href="http://www.scrum.org/Scrum-Guides"
+    target="_blank">Scrum Guide</a> explicitly tells you that your team needs
+    “good engineering practices’ in order to succeed.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image46.png" width="800"
+    height="449" border="0" /><br /><strong>Figure: Testing is core to
+    inspecting and adapting your engineering practices</strong></p>
+
+    <p>If you don’t have those good engineering practices then you will spend
+    more time sprint on sprint struggling with the technical debt that is built
+    up and you will end up down an engineering blind ally.</p>
+
+    <blockquote class="twitter-tweet">
+
+    <p>@<a href="https://twitter.com/mrhinsh" target="_blank">mrhinsh</a> Right.
+    It lacks all of those -able adjectives. But, how to recover from the mess.
+    How to refactor?</p>
+
+    <p>— José Manuel Nieto (@SuperJMN) <a
+    href="https://twitter.com/SuperJMN/status/315532905977876481"
+    target="_blank">March 23, 2013</a></p>
+
+    </blockquote>
+
+    <p>But now I am hosed, how to I get out of this?</p>
+
+    <h2 class="solution">Step 1: Hold effective retrospectives to prevent the
+    insufficiency of scrum</h2>
+
+    <p>On of the reasons our team gets into this position is that they did not
+    know that they was in a broken state until it is too late. If our
+    organisation fails to understand the purpose of the retrospective as an
+    inspect and adapt moment for ‘how’ we worked during our Sprint then one will
+    fail to improve.</p>
+
+    <blockquote class="twitter-tweet">
+
+    <p>@<a href="https://twitter.com/mrhinsh" target="_blank">mrhinsh</a> it was
+    as soon as I entered the team. 6th sprint.</p>
+
+    <p>— José Manuel Nieto (@SuperJMN) <a
+    href="https://twitter.com/SuperJMN/status/315532343857266688"
+    target="_blank">March 23, 2013</a></p>
+
+    </blockquote>
+
+    <p>The accountable and responsible party here is the Scrum Master. Without
+    an effective Scrum Master to guide the team you WILL fail. If you do not
+    have an effective Scrum Master then you or they don’t fully understand the
+    <a title="42 Tasks for a Scrum Master’s Job"
+    href="http://agiletrail.com/2011/11/14/42-tasks-for-a-scrum-masters-job/"
+    target="_blank">42 Tasks for a Scrum Master’s Job</a>.</p>
+
+    <p>According to the Scrum Guide the Development Team can ‘choose’ their
+    Scrum Master to make sure that they get some one as effective as
+    possible.</p>
+
+    <p>Yes, this also means that they can ‘un-choose’ their current one.</p>
+
+    <h2 class="solution">Step 2: Stop creating technical debt to prevent the
+    insufficiency of scrum</h2>
+
+    <p>You need to first stop creating technical debt. To do this you only need
+    to focus on one thing; <strong>Working software at lease every 30
+    days</strong>. If you are not able to create working software every sprint
+    then you need to stop and look at why that is.</p>
+
+    <p><small><span class="label label-info">Note</span> I prefer ‘working
+    software on every checkin’ and ‘continuous delivery’. That way I can ship
+    working software at any time.</small></p>
+
+    <p>Now I am not talking about that flaccid rendition of working software
+    that lead you to this place of horror and despair. But instead take ‘working
+    software’ at face value and have it mean ‘everything that I have delivered
+    works with no further work required’. Does that mean that it meets the
+    customers expectations? No it does not; unless their only expectation is for
+    what you show them to work with no errors and that if they say ‘ship-it’ you
+    can deploy what you have. If you have to reply with… “Well, maybe next
+    sprint as we still have some bugs.” then you have failed as a professional
+    and as a team to deliver the minimum bar.</p>
+
+    <blockquote class="twitter-tweet">
+
+    <p>@<a href="https://twitter.com/mrhinsh">mrhinsh</a> The core is basically
+    wrong. Now, nobody can fix that. No time for redesigns in a sprint</p>
+
+    <p>— José Manuel Nieto (@SuperJMN) <a
+    href="https://twitter.com/SuperJMN/status/315519701960777729">March 23,
+    2013</a></p>
+
+    </blockquote>
+
+    <p>But if we do get into that state then you are in the very same
+    ‘brownfield’ situation as software that have been built over years with no
+    unit tests. So if the primary goal now is working software that meets our
+    customers expectations and we augment our Definition of Done to reflect that
+    then we will be delivering less features of higher quality.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/03/image47.png" width="800"
+    height="428" border="0" /><br /><strong>Figure: There is <a
+    href="https://www.sugarsync.com/pf/D057810_69933305_087616"
+    target="_blank">1000% return of investment for every test written in
+    TDD</a></strong></p>
+
+    <p>While we are still paying back our excessive build up of technical debt,
+    using those engineering practices that will prevent future build up, we will
+    be delivering less value to the customer.</p>
+
+    <h2 class="conclusion">Conclusion</h2>
+
+    <p>Remember that the software that you are building is an organisational
+    asset and decisions to cut quality affect the value of that asset and thus
+    must be reflected in your organisations financial statements .Cutting
+    quality in your software without first gaining the approval to do so from
+    your financial executives is unprofessional at best and fraud at worst and
+    always incompetence.</p>
+
+    <p>Don’t be incompetent. Don't commit fraud.</p>
+
+    <p><strong>Be a professional…</strong></p>
+  - >-
+    <p class="lead">The insufficiency of Scrum is a fallacy perpetrated by teams
+    that don’t step up their practices in concert with their planning and don't
+    really want to make it work anyway. You can fail doing Kanban, XP or Merese
+    and SSADM just as easily. The goal of Agile is to have you fail sooner and
+    for it to cost less.</p>
+  post_id: '9338'
+  post_date: '2013-03-23 10:37:31'
+  post_date_gmt: '2013-03-23 17:37:31'
+  post_modified: '2013-03-23 10:37:31'
+  post_modified_gmt: '2013-03-23 17:37:31'
+  comment_status: open
+  ping_status: open
+  post_name: the-insufficiency-of-scrum-is-a-fallacy
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '83'
+  - meta_key: _thumbnail_id
+    meta_value: '11142'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"0";}
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: insufficiency of scrum
+  - meta_key: _yoast_wpseo_title
+    meta_value: The Insufficiency of Scrum is a fallacy
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      The insufficiency of Scrum is a fallacy perpetrated by teams that don’t
+      step up their practices in concert with their planning.
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: 'Error 400 whilst trying to authenticate: Bad Request. Please try again.'
+  - meta_key: dsq_thread_id
+    meta_value: '1159816065'
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"9378";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBQ3jE
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473980930;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:63;}i:1;a:1:{s:2:"id";i:4089;}i:2;a:1:{s:2:"id";i:11361;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-03-23-the-insufficiency-of-scrum-is-a-fallacy.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '954'
+  comment:
+  - comment_id: '1608'
+    comment_author: mmeijeri
+    comment_author_email: mmeijeri@xs4all.nl
+    comment_author_url: ''
+    comment_author_IP: 82.95.92.160
+    comment_date: '2013-03-24 02:46:00'
+    comment_date_gmt: '2013-03-24 09:46:00'
+    comment_content: >-
+      "You can fail doing Kanban, XP, Merise and SSADM just as easily unless you
+      have good engineering practices as well." XP includes the practices by
+      definition.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '840510566'
+  - comment_id: '1609'
+    comment_author: José Manuel Nieto
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/SuperJMN
+    comment_author_IP: 95.18.170.55
+    comment_date: '2013-03-24 05:12:00'
+    comment_date_gmt: '2013-03-24 12:12:00'
+    comment_content: >-
+      (All my opinions are based on my experience with Scrum)
+
+
+      Hi, Martin. Thanks for the reply :)
+
+
+      In your post I see there's much we can blame about our team. And you are
+      right. Choosing experienced members with a sense of clean code is
+      absolutely necessary.
+
+
+      Yes, it's a great post about how to handle Scrum properly. But, still, I
+      think it's sometimes too oriented to increasing the value of the product
+      for the Product Owner that can lead to neglect the analysis and design,
+      favoring new functionalities and beauty, while under the hood, the could
+      be a lot of grease and squeaking parts.
+
+
+      About a year ago, while I was starting a project based on  DDD, for
+      example, at the very beginning I had the need to create a solid
+      foundation. It needed researching, proofs-of-concept, tests and
+      prototypes. It was a work of tracing bullets. In that term, I wasn't doing
+      any agile methodology. I just analyzed carefully and tried to create an
+      extensible and rock flexible architecture to handle a complex domain. I
+      don't see how could Scrum fit there. 
+
+
+      On different matters, Scrum is made of time boxes that must be respected.
+      Too often some members of the team feel they are progressing  slow and
+      that they're not going to have things done on date. Then, they hurry up,
+      not paying attention to some basic principles of programming, cloning
+      lines, making bad code just to have the functionality up and running. 
+
+
+      It's not really a problem of agile methodologies, but I think it promotes
+      "coders in a rush".
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '840604104'
+  - comment_id: '1610'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 66.71.229.5
+    comment_date: '2013-03-24 14:45:00'
+    comment_date_gmt: '2013-03-24 21:45:00'
+    comment_content: >-
+      1) I believe that I was very specific to say that the accountable and
+      responsible party is the Scrum Master. This has nothing to do with the
+      experience of your team members as long as they can learn :)
+
+
+      2) If the Product Owner does not want to pay for it then you should not be
+      doing it. End of story. It is the job of the Scrum Master to help the
+      Product Owner to understand what it is that they need to do and the
+      implications of not doing things. If your Product Owner trusts the
+      Development Team then they will listen to the advice of that Development
+      Team.
+
+
+      3) You don't need POC's or prototypes if you are using good engineering
+      practices and producing working software at least every 30 days. They are
+      waste and an unnecessary distraction for the Development Team and add
+      little value for the Product Owner. If you need to do a 'spike' and you
+      can sell the Product Owner on the value then you can do one.
+
+
+      4) We should be sprinting at a 'sustainable pace' and while we should be
+      under some pressure from the timebox we should still be meeting the
+      Definition of Done. If they are able to cut corners, copy paste and make
+      bad code then your Definition of Done is just not good enough.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1609'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '840604104'
+    - meta_key: dsq_post_id
+      meta_value: '841064422'
+  - comment_id: '1611'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 66.71.229.5
+    comment_date: '2013-03-24 14:49:00'
+    comment_date_gmt: '2013-03-24 21:49:00'
+    comment_content: >-
+      While Simple Design, Pair Programming, TDD and Refactoring are the core
+      engineering practices of XP that is but part of the whole and if the Team
+      fails to step up their game they will still fail.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1608'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '840510566'
+    - meta_key: dsq_post_id
+      meta_value: '841067990'
+  - comment_id: '1612'
+    comment_author: mmeijeri
+    comment_author_email: mmeijeri@xs4all.nl
+    comment_author_url: ''
+    comment_author_IP: 82.95.92.160
+    comment_date: '2013-03-24 15:02:00'
+    comment_date_gmt: '2013-03-24 22:02:00'
+    comment_content: What do you mean by only part of the whole?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1611'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '841067990'
+    - meta_key: dsq_post_id
+      meta_value: '841078996'
+  - comment_id: '1613'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 66.71.229.5
+    comment_date: '2013-03-24 15:06:00'
+    comment_date_gmt: '2013-03-24 22:06:00'
+    comment_content: >-
+      http://xprogramming.com/what-is-extreme-programming/
+
+
+      XP contains practices for planning, management, team dynamics and work
+      ethics not just for engineering practices. You can do anything badly if
+      you miss the point was my only point :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1612'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '841078996'
+    - meta_key: dsq_post_id
+      meta_value: '841082956'
+  - comment_id: '1614'
+    comment_author: José Manuel Nieto
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/SuperJMN
+    comment_author_IP: 88.5.69.120
+    comment_date: '2013-03-25 10:37:00'
+    comment_date_gmt: '2013-03-25 17:37:00'
+    comment_content: >-
+      Great answer, as usual :) It's difficult to disagree. I've shown what you
+      said to my Scrum Master. You should have seen his eyes. As soon as he saw
+      the titles you've achieved, his excitement was increasing exponentially.
+
+
+      His knowledge about Scrum is vast and he's a perfectionist person, but
+      (the company) doesn't provide with many means to get better results.
+
+
+      Thanks for your guidance. 
+
+      Regards from Spain.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1610'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '841064422'
+    - meta_key: dsq_post_id
+      meta_value: '841853716'
+  - comment_id: '1615'
+    comment_author: mmeijeri
+    comment_author_email: mmeijeri@xs4all.nl
+    comment_author_url: ''
+    comment_author_IP: 82.95.92.160
+    comment_date: '2013-03-25 11:36:00'
+    comment_date_gmt: '2013-03-25 18:36:00'
+    comment_content: >-
+      OK, but that's not what you said. You can't fail to do the practices if
+      you do XP. You can fail to do XP of course, even if you're trying. And
+      even if you do XP, you can still fail, but not for lack of technical
+      practices. This is an aspect in which XP is superior to Scrum. It's not
+      far from the truth to say that Scrum is just that part of XP that can be
+      taught to basically anyone, including people without a technical
+      background. And that subset is very, very insufficient, even though it is
+      being marketed very differently.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1613'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '841082956'
+    - meta_key: dsq_post_id
+      meta_value: '841903597'
+  - comment_id: '1616'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 38.98.183.129
+    comment_date: '2013-03-25 15:22:00'
+    comment_date_gmt: '2013-03-25 22:22:00'
+    comment_content: >-
+      The idea is to mandate good engineering practices but not what those
+      practices are. Let the team decide... they may decide to do XP.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1615'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '841903597'
+    - meta_key: dsq_post_id
+      meta_value: '842087361'
+  - comment_id: '1617'
+    comment_author: mmeijeri
+    comment_author_email: mmeijeri@xs4all.nl
+    comment_author_url: ''
+    comment_author_IP: 82.95.92.160
+    comment_date: '2013-03-25 15:25:00'
+    comment_date_gmt: '2013-03-25 22:25:00'
+    comment_content: >-
+      Maybe, but again that's not what you said. I was reacting to what you did
+      say. The criticism of Scrum as insufficient is well-deserved and not at
+      all a fallacy.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1616'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '842087361'
+    - meta_key: dsq_post_id
+      meta_value: '842089366'
+  - comment_id: '1618'
+    comment_author: 'ALM Links&ndash;04/03/2013 : ALM Rocks!'
+    comment_author_email: ''
+    comment_author_url: http://almrocks.com/?p=62
+    comment_author_IP: 173.201.216.75
+    comment_date: '2013-04-03 14:45:48'
+    comment_date_gmt: '2013-04-03 21:45:48'
+    comment_content: '[...] The Insufficiency of Scrum is a fallacy [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365131895.543171;s:7:"message";s:41:"MrHinsh reported
+        this comment as not
+        spam";s:5:"event";s:10:"report-ham";s:4:"user";s:7:"MrHinsh";}
+    - meta_key: akismet_user_result
+      meta_value: 'false'
+    - meta_key: akismet_user
+      meta_value: MrHinsh
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1365131986.043285;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1619'
+    comment_author: The Insufficiency of Scrum is a fallacy
+    comment_author_email: ''
+    comment_author_url: http://blog.nwcadence.com/the-insufficiency-of-scrum-is-a-fallacy/
+    comment_author_IP: 66.175.212.70
+    comment_date: '2013-06-20 23:08:24'
+    comment_date_gmt: '2013-06-20 22:08:24'
+    comment_content: >-
+      [...] Published at Where Technology Meets Teamwork with permission of
+      Martin Hinshelwood, Senior ALM Consultant. (source) [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1371766104.869004;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1371837968.575436;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

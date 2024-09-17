@@ -1,0 +1,606 @@
+post:
+  title: Configure features in Team Foundation Server 2013
+  link: >-
+    https://nkdagility.com/blog/configure-features-in-team-foundation-server-2013/
+  pubDate: Wed, 26 Jun 2013 17:00:06 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9650
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">So you have upgraded to Team Foundation Server 2013 but you
+    still don’t have some of the features that you upgraded for. There is a
+    wizard for that but it is not supper discoverable that allows you to
+    configure features in Team Foundation Server 2013.</p>
+
+    <p><small><span class="label label-info">Note</span> If you want to
+    completely replace your current process template with the new on you can
+    follow <a
+    href="http://nkdagility.com/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013/">Upgrading
+    to Visual Studio Scrum 3.0 process template</a> instead.</small></p>
+
+    <p><ul><li><a
+    href="http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/"
+    target="_blank">Get Visual Studio 2013 & Team Foundation Server 2013 while
+    its hot!</a></li></ul></p>
+
+    <p>This processes will, depending on the version of&nbsp;TFS that you are
+    upgrading from, add one or more features to your Team Project that are not
+    enabled by default. Strait off&nbsp; the bat you will get Team Rooms and the
+    new Test hub functionality as well as the better placement and access to the
+    Boards. However you will see a distinct lack of a Feature backlog. This
+    Feature backlog needs a new work item type “Feature” and a a change to the
+    configuration of the underlying boards to support it.</p>
+
+    <p>Luckily the TFS Product Team think of everything and have provided a
+    wizard that works in 90% of cases.</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px; display: inline; background-image: none;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image41.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Open “Team
+    Project | Control Panel”</small></p>
+
+    <p>You need to go to your Team Projects Control Panel by clicking on the
+    little cog on the top right of Web Access, right next to your name.</p>
+
+    <p><img style="border-width: 0px; margin: 0px; padding-top: 0px;
+    padding-right: 0px; padding-left: 0px; display: inline; background-image:
+    none;" title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image42.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Click “Overview | Project
+    Profile | Configure features”</small></p>
+
+    <p>I am not sure about the placement and discoverability&nbsp;of this panel,
+    but then it is a preview and they may stick it somewhere else. I would like
+    to see a “Features” hub where I can enable and disable features and maybe a
+    dismissible call to action near the heading for enabling things that are
+    new.</p>
+
+    <blockquote>
+
+    <p>As a Team Administrator I would like to have a Feature hub where I can
+    enable or disable specific features for my teams<br /><small>Suggestion for
+    TFS</small></p>
+
+    </blockquote>
+
+    <p>Anyhoo, you can click “Configure features” to get started.</p>
+
+    <p><small><span class="label label-info">Note</span> If you are coming from
+    TFS 2008 or TFS 2010 you will get a much more prominent “Configure features”
+    option as none of the Boards will work without configuring.</small></p>
+
+    <p><img style="border-width: 0px; margin: 0px; padding-top: 0px;
+    padding-right: 0px; padding-left: 0px; display: inline; background-image:
+    none;" title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image43.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Discover which features to
+    configure in Team Foundation Server 2013 </small></p>
+
+    <p>The configure features in Team Foundation Server 2013 wizard will then
+    let you know what features will be configured. You can see here that I am
+    coming from a Team Foundation Server 2012 instance as I already have most of
+    those features enabled. Go ahead and verify…</p>
+
+    <p><img style="border-width: 0px; margin: 0px; padding-top: 0px;
+    padding-right: 0px; padding-left: 0px; display: inline; background-image:
+    none;" title="image" alt="image"
+    src="https://nkdagility.com/files/2013/06/image44.png" width="800"
+    height="500" border="0" /><br /><small>Figure: Check the Process Template
+    match before you configure features in Team Foundation Server 2013
+    </small></p>
+
+    <p>When you verify the configure features in Team Foundation Server 2013
+    wizard will identify which process template best matches so that it can load
+    the settings from that template. If you get an error at this point because
+    it can’t match the Process Template then you may need to manually configure
+    and there will be a link on the screen to do that.</p>
+
+    <ul>
+
+    <li><a title="TF400654: Unable to configure Planning Tools"
+    href="http://nkdagility.com/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools/"
+    target="_blank">Issue [ TFS 2013 Preview ] TF400654: Unable to configure
+    Planning Tools</a></li>
+
+    </ul>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px; display: inline; background-image: none;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image45.png"
+    width="800" height="500" border="0" /><br /><small>Figure: Congratulations
+    </small></p>
+
+    <p>And that's it.. you are done…</p>
+
+    <p><img style="border-width: 0px; padding-top: 0px; padding-right: 0px;
+    padding-left: 0px; display: inline; background-image: none;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/06/image46.png"
+    width="800" height="450" border="0" /><br /><small>Figure: Start using your
+    new features</small></p>
+
+    <p>At this point you should now have access to the new awesome features. Now
+    go play…</p>
+
+    <p><ul><li><a
+    href="http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/"
+    target="_blank">Get Visual Studio 2013 & Team Foundation Server 2013 while
+    its hot!</a></li></ul></p>
+
+    <p>Be a kid again…</p>
+  - >-
+    <p class="lead">So you have upgraded to Team Foundation Server 2013 but you
+    still don’t have some of the features that you upgraded for. There is a
+    wizard for that but it is not supper discoverable that allows you to
+    configure features in Team Foundation Server 2013.</p>
+  post_id: '9912'
+  post_date: '2013-06-26 18:00:06'
+  post_date_gmt: '2013-06-26 17:00:06'
+  post_modified: '2013-06-26 18:00:06'
+  post_modified_gmt: '2013-06-26 17:00:06'
+  comment_status: open
+  ping_status: open
+  post_name: configure-features-in-team-foundation-server-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '90'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Configure features
+  - meta_key: _yoast_wpseo_title
+    meta_value: Configure features in Team Foundation Server 2013
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      You have upgraded to Team Foundation Server 2013 but you cant find
+      features that you upgraded for. There is a wizard that allows you to
+      configure features in Team Foundation Server 2013.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1423874201'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51cb1e1d4c85814466000059";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1372266013;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1372331400;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51cb1e1d4c85814466000059";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Configure features in Team Foundation Server 2013
+      http://buff.ly/14XKDLn #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Configure features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/14XKDLn" rel="external nofollow"
+      target="_blank">http://buff.ly/14XKDLn</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1372266013;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51cb1e1e4c8581446600005a";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1372266014;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1372377960;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51cb1e1e4c8581446600005a";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:72:"http://nkdagility.com/configure-features-in-team-foundation-server-2013/";s:11:"description";s:186:"You
+      have upgraded to Team Foundation Server 2013 but you cant find features
+      that you upgraded for. There is a wizard that allows you to configure
+      features in Team Foundation Server 2013.";s:5:"title";s:49:"Configure
+      features in Team Foundation Server
+      2013";s:4:"link";s:72:"http://nkdagility.com/configure-features-in-team-foundation-server-2013/";s:7:"preview";s:103:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/02/metro-visualstudio-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Configure features in Team Foundation Server 2013
+      http://buff.ly/14XKE1F #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Configure features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/14XKE1F" rel="external nofollow"
+      target="_blank">http://buff.ly/14XKE1F</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1372266014;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51cb1e1f4c8581446600005b";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1372266015;s:3:"day";s:16:"Friday
+      28th June";s:6:"due_at";i:1372412940;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51cb1e1f4c8581446600005b";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:72:"http://nkdagility.com/configure-features-in-team-foundation-server-2013/";s:11:"description";s:186:"You
+      have upgraded to Team Foundation Server 2013 but you cant find features
+      that you upgraded for. There is a wizard that allows you to configure
+      features in Team Foundation Server 2013.";s:5:"title";s:49:"Configure
+      features in Team Foundation Server
+      2013";s:4:"link";s:72:"http://nkdagility.com/configure-features-in-team-foundation-server-2013/";s:7:"preview";s:103:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/02/metro-visualstudio-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Configure features in Team Foundation Server 2013
+      http://buff.ly/14XKBD9 #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Configure features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/14XKBD9" rel="external nofollow"
+      target="_blank">http://buff.ly/14XKBD9</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1372266015;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:20;s:12:"buffer_count";i:2;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBN2Qs
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474917790;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9913;}i:1;a:1:{s:2:"id";i:10214;}i:2;a:1:{s:2:"id";i:9911;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-06-26-configure-features-in-team-foundation-server-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1079'
+  comment:
+  - comment_id: '1697'
+    comment_author: Vicenç García-Altés
+    comment_author_email: vgaltes@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 95.16.123.39
+    comment_date: '2013-06-27 19:25:00'
+    comment_date_gmt: '2013-06-27 18:25:00'
+    comment_content: >-
+      How about a new view in the task board to see the backlog as a user story
+      map? (http://www.agileproductdesign.com/blog/the_new_backlog.html)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '944393281'
+  - comment_id: '1698'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 131.107.147.184
+    comment_date: '2013-06-27 20:15:00'
+    comment_date_gmt: '2013-06-27 19:15:00'
+    comment_content: >-
+      Thats an awesome suggestion :) Would you mind adding it to
+      http://visualstudio.uservoice.com?
+
+
+      If you then post the link I would vote for it!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1697'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '944393281'
+    - meta_key: dsq_post_id
+      meta_value: '944459766'
+  - comment_id: '1699'
+    comment_author: Vicenç García-Altés
+    comment_author_email: vgaltes@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 95.16.123.39
+    comment_date: '2013-06-27 21:13:00'
+    comment_date_gmt: '2013-06-27 20:13:00'
+    comment_content: Done :-) http://uservoice.com/a/wJ4Vz
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1698'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '944459766'
+    - meta_key: dsq_post_id
+      meta_value: '944544686'
+  - comment_id: '1700'
+    comment_author: Nicolae Carabut
+    comment_author_email: nicuonwindowslive@live.com
+    comment_author_url: ''
+    comment_author_IP: 80.13.234.132
+    comment_date: '2013-07-02 16:35:00'
+    comment_date_gmt: '2013-07-02 15:35:00'
+    comment_content: >-
+      We are about to migrate to TFS2012 from 2010, what are your thoughts about
+      going directly to 2013 preview and using it as production. It may sound as
+      to be a question with adrenalin but any ways.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '949187877'
+  - comment_id: '1701'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-02 17:09:00'
+    comment_date_gmt: '2013-07-02 16:09:00'
+    comment_content: I would say Go-Go-Go :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1700'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '949187877'
+    - meta_key: dsq_post_id
+      meta_value: '949244783'
+  - comment_id: '1702'
+    comment_author: Bruce Cutler
+    comment_author_email: bruccutler@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 192.206.100.4
+    comment_date: '2013-07-03 15:51:00'
+    comment_date_gmt: '2013-07-03 14:51:00'
+    comment_content: >-
+      Hey Hinsh,
+
+      I just upgraded from TFS 2012 to TFS 2013.  I have an existing project.  I
+      am the project administrator.  When I click on the Configure features
+      button, I see the Configure Features list.  When I click on the Verify
+      button, I see the following message: TF50309: The following account does
+      not have sufficient permissions to complete the operation: Cutler, Bruce.
+      The following permissions are needed to perform this operation: Manage
+      process template.
+
+
+      I don't see this permission in the list of permissions.  I am the
+      administrator.  What am I missing?
+
+      - Bruce
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '950608220'
+  - comment_id: '1703'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-03 16:36:00'
+    comment_date_gmt: '2013-07-03 15:36:00'
+    comment_content: >-
+      The "Manage process template" permission is at the Collection level not
+      the team project. If you have an upgraded collection you my not have been
+      given tat permission by default. If you edit permission at the collection
+      level and add it you should have no problems... I am looking to validate
+      and blog that issue now...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1702'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '950608220'
+    - meta_key: dsq_post_id
+      meta_value: '950655845'
+  - comment_id: '1705'
+    comment_author: >-
+      TFS 2013 Issue - TF50309 when configuring features in Team Foundation
+      Server 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-14 17:00:53'
+    comment_date_gmt: '2013-07-14 16:00:53'
+    comment_content: >-
+      [...] may get a TF50309 when configuring features in Team Foundation
+      Server 2013 and you are unable to complete the [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373817653.102986;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373817816.017668;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1706'
+    comment_author: Jay Cray
+    comment_author_email: jaycop2011@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.135.5.98
+    comment_date: '2013-07-23 08:36:00'
+    comment_date_gmt: '2013-07-23 07:36:00'
+    comment_content: >-
+      is there a way in the preview to order test cases in testplans? Thats a
+      feature that i'm waiting for
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '973130684'
+  - comment_id: '1707'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 71.231.177.177
+    comment_date: '2013-07-24 06:34:00'
+    comment_date_gmt: '2013-07-24 05:34:00'
+    comment_content: >-
+      @jay_cray:disqus   I do not believe that there is. Is there a particular
+      order that you would like? What is the value to you of ordering?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1706'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '973130684'
+    - meta_key: dsq_post_id
+      meta_value: '974333895'
+  - comment_id: '1916'
+    comment_author: Upgrading to Visual Studio Scrum 3.0 process template in TFS 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-10-01 18:35:10'
+    comment_date_gmt: '2013-10-01 18:35:10'
+    comment_content: >-
+      [&#8230;]  Configure features in Team Foundation Server 2013 Issue [ TFS
+      2013 Preview ] TF400654: Unable to configure Planning Tools           
+      (function() { var po = document.createElement(&#039;script&#039;); po.type
+      = &#039;text/javascript&#039;; po.async = true; po.src =
+      &#039;https://apis.google.com/js/plusone.js&#039;; var s =
+      document.getElementsByTagName(&#039;script&#039;)[0];
+      s.parentNode.insertBefore(po, s); })();  Tweet !function(d,s,id){var
+      js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);
+      (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if
+      (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src
+      =
+      &quot;//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=121542701224352&quot;;
+      fjs.parentNode.insertBefore(js, fjs); }(document, &#039;script&#039;,
+      &#039;facebook-jssdk&#039;)); [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1380652510.830945;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1380652603.368406;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1965'
+    comment_author: >-
+      Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and
+      Windows 8.1&hellip; - naked ALM Blog - Experts in Visual Studio ALM, TFS,
+      Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-10-17 12:20:44'
+    comment_date_gmt: '2013-10-17 12:20:44'
+    comment_content: '[&#8230;] Configure features in Team Foundation Server 2013 [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382012444.720978;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382013205.941609;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '5326'
+    comment_author: jlillietx@gmail.com
+    comment_author_email: jlillie845@aol.com
+    comment_author_url: ''
+    comment_author_IP: 165.91.237.68
+    comment_date: '2014-10-09 16:25:00'
+    comment_date_gmt: '2014-10-09 15:25:00'
+    comment_content: >-
+      I am running TFS2013 using template Scrum 2013.2.  I do not have a
+      "configure features" button in my project profile.  how do I get it?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1627168167'
+  - comment_id: '5330'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 212.183.140.50
+    comment_date: '2014-10-09 17:39:00'
+    comment_date_gmt: '2014-10-09 16:39:00'
+    comment_content: >-
+      you only get that option of you have a template missmatch from features in
+      TFS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5326'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1627168167'
+    - meta_key: dsq_post_id
+      meta_value: '1627295559'
+  - comment_id: '5337'
+    comment_author: jlillietx@gmail.com
+    comment_author_email: jlillie845@aol.com
+    comment_author_url: ''
+    comment_author_IP: 165.91.237.68
+    comment_date: '2014-10-09 21:47:00'
+    comment_date_gmt: '2014-10-09 20:47:00'
+    comment_content: So the solution is to change templates to Scrum2013.3?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5330'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1627295559'
+    - meta_key: dsq_post_id
+      meta_value: '1627759109'
+  - comment_id: '5353'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 86.164.0.6
+    comment_date: '2014-10-10 11:29:00'
+    comment_date_gmt: '2014-10-10 10:29:00'
+    comment_content: >-
+      If you are running 2013.3 you can update your template to 2013.3 by
+      downloading the template and following the same idea (but with less work)
+      of migrating process template:
+      http://nkdagility.com/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '5337'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1627759109'
+    - meta_key: dsq_post_id
+      meta_value: '1628559109'

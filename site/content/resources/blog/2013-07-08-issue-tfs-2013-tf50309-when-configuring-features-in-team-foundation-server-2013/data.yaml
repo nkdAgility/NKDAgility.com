@@ -1,0 +1,293 @@
+post:
+  title: >-
+    Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation
+    Server 2013
+  link: >-
+    https://nkdagility.com/blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/
+  pubDate: Mon, 08 Jul 2013 17:39:12 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9724
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>You may get a TF50309 when <a
+    href="http://nkdagility.com/configure-features-in-team-foundation-server-2013">configuring
+    features in Team Foundation Server 2013</a> and you are unable to complete
+    the configuration.</p>
+
+    <blockquote>
+
+    <p>TF50309: The following account does not have sufficient permissions to
+    complete the operation:  The following permissions are needed to perform
+    this operation: Manage process template.</p>
+
+    </blockquote>
+
+    <h2>Applies to</h2>
+
+    <ul>
+
+    <li>Team Foundation Server 2012</li>
+
+    <li>Team Foundation Server 2013</li>
+
+    </ul>
+
+    <h2>Findings</h2>
+
+    <p>If you are an Team Project Administrator you would expect to be able to
+    configure the new features for your Team Project but you are prompted for
+    the ‘Manage process template’ permission. This permission is a collection
+    level permission and is grated automatically to Project Collection
+    Administrators but not to Project Admins.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image1.png" width="800"
+    height="450" border="0" /><br /><small>Figure: Manage process template
+    permission</small></p>
+
+    <p>You need to <a
+    href="http://nkdagility.com/configure-features-in-team-foundation-server-2013">configuring
+    features in Team Foundation Server 2013</a> with an account that has this
+    permission.</p>
+
+    <h2>Solution #1 – Give one user access and configure all projects</h2>
+
+    <p>The first solution is to have someone who is a Project Collection
+    Administrator do the configuration. This would be awkward and boring if you
+    have 200 Team Projects, but for one a few this is the simplest and least
+    invasive solution.</p>
+
+    <h2>Solution #2 – Create a new Group to give Project Admins permission</h2>
+
+    <p>If however you have tens or hundreds of Team Project and you need to
+    liaise with each group of users for training for the new features you may
+    want to take a slower approach. I want to be able to delegate this
+    permission out so that I can send an email too each of the Project owners
+    and have them do the training and upgrade at a time that suits them.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image2.png" width="800"
+    height="450" border="0" /><br /><small>Figure: Create a Project Upgraders
+    TFS Group</small></p>
+
+    <p>You need to create a new TFS Group at the Team Collection level that will
+    contain each of the “owners” or “upgraders” for the individual Team
+    Projects.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image3.png" width="800"
+    height="450" border="0" /><br /><small>Figure: Set the Manage process
+    template permission only</small></p>
+
+    <p>Now that we have a group we can select it and set individual permissions.
+    In this case we only need the manage process template permission that will
+    allow this user to complete the configuration of the Team Project to enable
+    the new features.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image4.png" width="800"
+    height="450" border="0" /><br /><small>Figure: Add users to the new
+    group</small></p>
+
+    <p>Now we need to add each user that we want to have this permission. It
+    would be awesome if we could add a Team Project group in here… you know..
+    like the “Project Administrators” group but “[ScrumSandbox]Project
+    Administrators” fails to resolve. Sad, but the workaround is to just add the
+    users we want to have permission..</p>
+  - ''
+  post_id: '9724'
+  post_date: '2013-07-08 18:39:12'
+  post_date_gmt: '2013-07-08 17:39:12'
+  post_modified: '2013-07-08 18:39:12'
+  post_modified_gmt: '2013-07-08 17:39:12'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '84'
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF50309
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      TFS 2013 Issue - TF50309 when configuring features in Team Foundation
+      Server 2013
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      You may get a TF50309 when configuring features in Team Foundation Server
+      2013 and you are unable to complete the configuration.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":18:{s:3:"_id";s:24:"51daf95e4378fe4312000000";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373305182;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1373377740;s:8:"due_time";s:7:"2:49
+      pm";s:2:"id";s:24:"51daf95e4378fe4312000000";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:123:"New
+      Post: Issue [ TFS 2013 ] TF50309 when configuring features in Team
+      Foundation Server 2013 http://buff.ly/12Td3VW
+      #vsalm";s:14:"text_formatted";s:338:"New Post: Issue [ TFS 2013 ] TF50309
+      when configuring features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/12Td3VW" rel="external nofollow"
+      target="_blank">http://buff.ly/12Td3VW</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"1181ecb25af2aecee1a7124a5eb0578f";s:4:"type";s:4:"link";s:10:"updated_at";i:1373305182;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":19:{s:3:"_id";s:24:"51daf95f4378fe4312000001";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373305183;s:3:"day";s:19:"Wednesday
+      10th July";s:6:"due_at";i:1373501160;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51daf95f4378fe4312000001";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:102:"http://nkdagility.com/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/";s:11:"description";s:128:"You
+      may get a TF50309 when configuring features in Team Foundation Server 2013
+      and you are unable to complete the configuration.";s:5:"title";s:81:"TFS
+      2013 Issue - TF50309 when configuring features in Team Foundation Server
+      2013";s:4:"link";s:102:"http://nkdagility.com/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/";s:7:"preview";s:105:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/08/puzzle-issue-problem-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:123:"New
+      Post: Issue [ TFS 2013 ] TF50309 when configuring features in Team
+      Foundation Server 2013 http://buff.ly/12Td24u
+      #vsalm";s:14:"text_formatted";s:338:"New Post: Issue [ TFS 2013 ] TF50309
+      when configuring features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/12Td24u" rel="external nofollow"
+      target="_blank">http://buff.ly/12Td24u</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"1181ecb25af2aecee1a7124a5eb0578f";s:4:"type";s:4:"link";s:10:"updated_at";i:1373305183;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":19:{s:3:"_id";s:24:"51daf95f4378fe4312000002";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373305183;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1373377740;s:8:"due_time";s:7:"2:49
+      pm";s:2:"id";s:24:"51daf95f4378fe4312000002";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:102:"http://nkdagility.com/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/";s:11:"description";s:128:"You
+      may get a TF50309 when configuring features in Team Foundation Server 2013
+      and you are unable to complete the configuration.";s:5:"title";s:81:"TFS
+      2013 Issue - TF50309 when configuring features in Team Foundation Server
+      2013";s:4:"link";s:102:"http://nkdagility.com/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013/";s:7:"preview";s:105:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/08/puzzle-issue-problem-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:123:"New
+      Post: Issue [ TFS 2013 ] TF50309 when configuring features in Team
+      Foundation Server 2013 http://buff.ly/12Td24y
+      #vsalm";s:14:"text_formatted";s:338:"New Post: Issue [ TFS 2013 ] TF50309
+      when configuring features in Team Foundation Server 2013 <a class="url"
+      href="http://buff.ly/12Td24y" rel="external nofollow"
+      target="_blank">http://buff.ly/12Td24y</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"1181ecb25af2aecee1a7124a5eb0578f";s:4:"type";s:4:"link";s:10:"updated_at";i:1373305183;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:30;s:12:"buffer_count";i:3;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: dsq_thread_id
+    meta_value: '1478526150'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3sxso
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474779342;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9912;}i:1;a:1:{s:2:"id";i:9759;}i:2;a:1:{s:2:"id";i:9875;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-07-08-issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1085'
+  comment:
+  - comment_id: '1970'
+    comment_author: >-
+      Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and
+      Windows 8.1&hellip; - naked ALM Blog - Experts in Visual Studio ALM, TFS,
+      Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-10-17 12:24:44'
+    comment_date_gmt: '2013-10-17 12:24:44'
+    comment_content: >-
+      [&#8230;] Issue [ TFS 2013 ] TF50309 when configuring features in Team
+      Foundation Server 2013 [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382012684.027166;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382013202.333822;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1975'
+    comment_author: Andy Neillans
+    comment_author_email: andy@neillans.co.uk
+    comment_author_url: http://www.neillans.co.uk
+    comment_author_IP: 213.48.68.166
+    comment_date: '2013-10-18 11:19:00'
+    comment_date_gmt: '2013-10-18 11:19:00'
+    comment_content: >-
+      Re adding users; can't you add the group - when you hit Add, select "Add
+      TFS Group" instead of Windows User or Group?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1086921432'
+  - comment_id: '1980'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 64.207.26.14
+    comment_date: '2013-10-18 14:48:00'
+    comment_date_gmt: '2013-10-18 14:48:00'
+    comment_content: >-
+      Sure, but I prefer to create a TFS Group and then add an AD group or users
+      to that... makes it easer to change domain later :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1975'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1086921432'
+    - meta_key: dsq_post_id
+      meta_value: '1087138061'

@@ -1,0 +1,308 @@
+post:
+  title: Install SharePoint 2013 on Windows Server 2012 without a domain
+  link: >-
+    https://nkdagility.com/blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain/
+  pubDate: Tue, 07 Aug 2012 18:58:17 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=7067
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Any setup of Team Foundation Server is not complete until you have at least tried t work with SharePoint. While I have many customers that like to stay away from\_ SharePoint I also have many that make it an integral part of not just their TFS install, but their corporate network, offerings and culture.</p>\n<p><sup>note: To really use SharePoint effectively you have to buy into it as “the” solution or your internal network.</sup></p>\n<blockquote>\n<p>The questions is irrelevant, the answer is SharePoint</p>\n<p>-<a href=\"http://www.adamcogan.com/\" target=\"_blank\">Adam Cogan</a></p>\n</blockquote>\n<p>SharePoint 2013 Preview is fully supported by Visual Studio 2012 Team Foundation Server, but I do not know what the Office teams take on Go-Live or actually using SharePoint 2013 is.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image18.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb18.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: SharePoint Server 2013 Preview</strong></p>\n<p>I have been using Office 2013 for a while and it is fairly solid. I have some high hopes for the interaction as there are some major advances in the new SharePoint.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image19.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb19.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Install software prerequisites</strong></p>\n<p>There was always a lot of… trial and error… in finding and installing the prerequisites for SharePoint in the past and as of SharePoint 2010 you have an option on the Installation wizard to have it all done for you.</p>\n<p>I heartily recommend that approach…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image20.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb20.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Always run Windows Update</strong></p>\n<p>It may seam like a small thing, but make sure that you run Windows Update both before and after each installation. There may be critical updates that would make your install process as slick as possible. Also if you rely on your organisation to manage windows updates then make sure that your System Administrators have approved all of the updates that you might need. Ask them to approve all updates for:</p>\n<ul>\n<li><strong>Office 2013</strong></li>\n<li><strong>Windows 2012 </strong></li>\n<li><strong>SQL Server 2012</strong></li>\n<li><strong>SQL Server 2008 R2</strong> <br />There are some dependencies in there for 2008 R2 components</li>\n<li><strong>Visual Studio 2012</strong></li>\n</ul>\n<p>Its a long list, but lacking a windows update can make you life incredibly painful with often little understanding as to why.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image21.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb21.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Make sure that you restart</strong></p>\n<p>Most of the new generation of Microsoft products do as much auto detection of potential problems before they become a problem. How well they do depends on the product team, but so far SharePoint 2013 is doing ok.</p>\n<p>\_<a href=\"http://blog.hinshelwood.com/files/2012/08/SNAGHTML3eb21c6.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"SNAGHTML3eb21c6\" src=\"http://blog.hinshelwood.com/files/2012/08/SNAGHTML3eb21c6_thumb.png\" alt=\"SNAGHTML3eb21c6\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: You need the Key from TechNet</strong></p>\n<p>You can get the Key for SharePoint 2013 from <a href=\"http://technet.microsoft.com/en-us/evalcenter/hh973397.aspx\">http://technet.microsoft.com/en-us/evalcenter/hh973397.aspx</a></p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image22.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb22.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Never select “Stand-alone” install!</strong></p>\n<p>Everyone makes this mistake once so please take note… never… ever… select “Stand-alone” install option. You will not be asked to select a SQL server is it will automatically install and use Express.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image23.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb23.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Select “Complete” install</strong></p>\n<p>Once you select complete the install of the files progresses. We will do the configuration later.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image24.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb24.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Poo!</strong></p>\n<p>An error during the setup is not what you want to see and after clicking close I for a little more detail.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image25.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb25.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: An Unspecified 1603</strong></p>\n<p>Don’t you just love the Unspecified error <img class=\"wlEmoticon wlEmoticon-winkingsmile\" style=\"border-style: none;\" src=\"http://blog.hinshelwood.com/files/2012/08/wlEmoticon-winkingsmile.png\" alt=\"Winking smile\" /> but as this is a Preview, my first response is to run the install again. My guess would be a timeout, or some other glitch in the bootstrapper so…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image26.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb26.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: A rerun solved the problem</strong></p>\n<p>Whatever the problem was just running the installation again seamed to have kicked it into gear.</p>\n<p>Now that we have SharePoint 2013 installed we need to configure it.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image27.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb27.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: This is a stand alone instance so a new farm</strong></p>\n<p>Although we selected “Complete Install” earlyer, the configuration we want is a “Stand-alone” one, but configured our way…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image28.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb28.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Configure the database</strong></p>\n<p>If you don’t see this screen next you need to uninstall SharePoint and re-install selecting “Complete” as the install mode. Like I said, everyone makes that mistake once.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image29.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb29.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: You need a domain to create a farm</strong></p>\n<p>Fudge buckets! I want to configure it myself and I do not want to use SQL Express, so what to-do! So getting a “The username is invalid. The account mist be a valid domain account” is very frustrating… in 2010 the message was “Local accounts should only be used in standalone mode” and was equally annoying… don’t tell me how to install… I will tell you.</p>\n<p>Command line to the rescue! You need to <a href=\"http://blog.hinshelwood.com/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account\" target=\"_blank\">run “New-SPConfigurationDatabase” from the PowerShell command line</a> to configure with local accounts.</p>\n<p>After that small interlude we can now carry on with the configuration to get SharePoint 2013 up and running on my local VM.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image30.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb30.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Do not disconnect from this server farm</strong></p>\n<p>Just make sure that you don't un-configure our work around for local accounts.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image31.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb31.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br />Figure: Review the configuration</p>\n<p>And off it goes…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image32.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb32.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Takes a few minutes to configure</strong></p>\n<p>It only takes a few minutes to configure SharePoint at this point and that should create everything you need to get into the Admin site.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image33.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb33.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Now we need to configure the features and services</strong></p>\n<p>I am going to configure everything as it will give me a chance to play, but note that only features you use will be turned on and using memory. If you don’t use them, they stay off/unloaded.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image34.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb34.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: There are tones of optional services</strong></p>\n<p>Here is a list of the available services and what they do:</p>\n<ul>\n<li><strong>Access Services 2010</strong><br />Allows viewing, editing, and interacting with Access Services 2010 databases in a browser.</li>\n<li><strong>Access Services</strong><br />Allows viewing, editing, and interacting with Access Services databases in a browser.</li>\n<li><strong>App Management Service</strong><br />Allows you to add SharePoint Apps from the SharePoint Store or the App Catalog.</li>\n<li><strong>Business Data Connectivity Service</strong><br />Enabling this service provides the SharePoint farm with the ability to upload BDC models that describe the interfaces of your enterprises' line of business systems and thereby access the data within these systems.</li>\n<li><strong>Excel Services Application</strong><br />Allows viewing and interactivity with Excel files in a browser.</li>\n<li><span style=\"text-decoration: line-through;\"><strong>Lotus Notes Connector</strong><br />Search connector to crawl the data in the Lotus Notes server.</span></li>\n<li><strong>Machine Translation Service</strong><br />Performs automated machine translation.</li>\n<li><strong>Managed Metadata Service</strong><br />This service provides access to managed taxonomy hierarchies, keywords and social tagging infrastructure as well as Content Type publishing across site collections.</li>\n<li><strong>PerformancePoint Service Application</strong><br />Supports the monitoring and analytic capabilities of PerformancePoint Services such as the storage and publication of dashboards and related content.</li>\n<li><strong>PowerPoint Conversion Service Application</strong><br />Enables the conversion of PowerPoint presentations to various formats.</li>\n<li><strong>Search Service Application</strong><br />Index content and serve search queries.</li>\n<li><strong>Secure Store Service</strong><br />Provides capability to store data (e.g. credential set) securely and associate it to a specific identity or group of identities.</li>\n<li><strong>State Service</strong><br />Provides temporary storage of user session data for SharePoint Server components.</li>\n<li><strong>Usage and Health data collection</strong><br />This service collects farm wide usage and health data and provides the ability to view various usage and health reports.</li>\n<li><strong>User Profile Service Application</strong><br />Adds support for My Sites, Profiles pages, Social Tagging and other social computing features. Some of the features offered by this service require Search Service Application and Managed Metadata Services to be provisioned.</li>\n<li><strong>Visio Graphics Service</strong><br />Enables viewing and refreshing of Visio Web Drawings.</li>\n<li><strong>Word Automation Services</strong><br />Provides a framework for performing automated document conversions.</li>\n<li><strong>Work Management Service Application</strong><br />This service provides task aggregation across work management systems.</li>\n</ul>\n<p>Everything except the “Lotus Notes” connector are of use <img class=\"wlEmoticon wlEmoticon-smile\" style=\"border-style: none;\" src=\"http://blog.hinshelwood.com/files/2012/08/wlEmoticon-smile.png\" alt=\"Smile\" /></p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image35.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb35.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: This may take some time…</strong></p>\n<p>…Or considerably longer…</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image36.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb36.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Search error</strong></p>\n<p>I got a search error, but <a href=\"http://soerennielsen.wordpress.com/2010/07/15/how-to-install-a-sharepoint-2010-complete-server-without-ad/\" target=\"_blank\">Soeren L. Nielsen has a solution</a> and I don’t need search.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image37.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb37.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Creating your first Site Collection</strong></p>\n<p>I needed to create a default site to use the features, but as this is a “2013” experience site I may need to create a 2010 experience site for some things I may want to do.</p>\n<p>DONE</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image38.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb38.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Admin site is up and working</strong></p>\n<p>To make sure things are working, do a little smoke test. Check the Admin site, and then run up the first Collection that you made.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/08/image39.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2012/08/image_thumb39.png\" alt=\"image\" width=\"640\" height=\"360\" border=\"0\" /></a><br /><strong>Figure: Wooo… nice new portal</strong></p>\n<p>Now I can get on with the fun….</p>"
+  - ''
+  post_id: '7067'
+  post_date: '2012-08-07 11:58:17'
+  post_date_gmt: '2012-08-07 18:58:17'
+  post_modified: '2012-08-07 11:58:17'
+  post_modified_gmt: '2012-08-07 18:58:17'
+  comment_status: open
+  ping_status: open
+  post_name: install-sharepoint-2013-on-windows-server-2012-without-a-domain
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: dsq_thread_id
+    meta_value: '806564970'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBHt4y
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474913925;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9916;}i:1;a:1:{s:2:"id";i:9075;}i:2;a:1:{s:2:"id";i:44;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-08-07-install-sharepoint-2013-on-windows-server-2012-without-a-domain.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1786'
+  comment:
+  - comment_id: '1355'
+    comment_author: Benjamin Niaulin
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/bniaulin
+    comment_author_IP: 206.125.167.170
+    comment_date: '2013-01-23 14:28:00'
+    comment_date_gmt: '2013-01-23 22:28:00'
+    comment_content: >-
+      Do you still get the Distributed Cache Service running using this method?
+      It's what controls the Newsfeeds etc. Also to note that without a
+      DC/Domain you want have anything related to User Profile Sync. Though you
+      should be able to create manual profiles.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '776049221'
+  - comment_id: '1356'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 10.36.127.183
+    comment_date: '2013-01-23 14:41:00'
+    comment_date_gmt: '2013-01-23 22:41:00'
+    comment_content: >-
+      Sure, but this is for a demo box and not production. In the real world you
+      should use Active Directory...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1355'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '776049221'
+    - meta_key: dsq_post_id
+      meta_value: '776059884'
+  - comment_id: '1357'
+    comment_author: >-
+      Stolperfallen bei der Installation von SharePoint 2013 &laquo;
+      Johnny&#039;s Blog
+    comment_author_email: ''
+    comment_author_url: >-
+      http://graberj.wordpress.com/2013/02/09/stolperfallen-bei-der-installation-von-sharepoint-2013/
+    comment_author_IP: 76.74.248.186
+    comment_date: '2013-02-09 07:59:08'
+    comment_date_gmt: '2013-02-09 15:59:08'
+    comment_content: '[...] Hinshelwood bringt es in seinem Blogpost auf den [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360425548.896831;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360429724.921901;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1358'
+    comment_author: >-
+      Install SharePoint 2013 on Windows Server 2012 without a domain | Insight
+      Is Wonderful
+    comment_author_email: ''
+    comment_author_url: >-
+      http://insightiswonderful.wordpress.com/2013/03/24/install-sharepoint-2013-on-windows-server-2012-without-a-domain/
+    comment_author_IP: 66.155.8.215
+    comment_date: '2013-03-24 19:34:35'
+    comment_date_gmt: '2013-03-25 02:34:35'
+    comment_content: >-
+      [...] Install SharePoint 2013 on Windows Server 2012 without a domain
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1364178875.654026;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1364198131.812421;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1359'
+    comment_author: Megha Barpande
+    comment_author_email: megha.barpande@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 202.124.109.19
+    comment_date: '2013-04-17 20:27:00'
+    comment_date_gmt: '2013-04-18 03:27:00'
+    comment_content: >-
+      Hi Martin,
+
+
+      Thanks for this wonderful step-by-step guide.
+
+
+      I finally got it right after like 10 install-uninstalls!
+
+
+      I have a demo Windows 2012 server--
+
+      SQL 2012
+
+
+      SP2013
+
+
+      CA page is all good except that on the Configure Service Accounts page I
+      get "Sorry, this site hasn't been shared with you"
+
+
+      Would you be able to help please?
+
+
+      I have one Admin user account which has been used to create the farm and
+      same account is used for SQL installs etc.
+
+
+      Thanks in advance for your assistance.
+
+
+      Megha
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '866660569'
+  - comment_id: '1360'
+    comment_author: Integrate SharePoint 2013 with Team Foundation Server 2013
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/integrate-sharepoint-2013-with-team-foundation-server-2013/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-08-01 23:32:32'
+    comment_date_gmt: '2013-08-01 22:32:32'
+    comment_content: >-
+      [...] Installing SharePoint Server 2013 (but use a Domain Account and do
+      not create a Site Collection) [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375396352.149396;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1375396587.567968;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1789'
+    comment_author: 71rogi
+    comment_author_email: r0gi@vp.pl
+    comment_author_url: ''
+    comment_author_IP: 193.178.214.60
+    comment_date: '2013-08-08 14:29:00'
+    comment_date_gmt: '2013-08-08 14:29:00'
+    comment_content: Thank you! Very good post :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '993101465'
+  - comment_id: '1800'
+    comment_author: Daniel Stefanescu
+    comment_author_email: daniel.stefanescu@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 178.118.129.73
+    comment_date: '2013-08-12 20:06:00'
+    comment_date_gmt: '2013-08-12 20:06:00'
+    comment_content: >-
+      Great post!
+
+
+      I had the same unspecified error 1603 and I had to increase the number of
+      the CPUs of the VM (via
+      http://blogs.msdn.com/b/odabasi/archive/2012/12/28/failed-to-install-the-product-drive-name-global-oserver-msi-error-code-1603-0x643-error-when-istalling-sharepoint-2013.aspx)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '997875073'
+  - comment_id: '2481'
+    comment_author: >-
+      Installing SharePoint 2013 on Hyper V for development (some gotchas) | MS
+      DEV Stuff
+    comment_author_email: ''
+    comment_author_url: >-
+      http://msdevstuff.wordpress.com/2014/07/05/installing-sharepoint-2013-on-hyper-v-for-development-some-gotchas/
+    comment_author_IP: 192.0.80.200
+    comment_date: '2014-07-05 20:30:02'
+    comment_date_gmt: '2014-07-05 19:30:02'
+    comment_content: >-
+      [&#8230;] one
+      (http://blog.anuragg.com/2012/12/install-and-configure-sharepoint-server_25.html)
+      or this one
+      (http://nkdagility.com/install-sharepoint-2013-on-windows-server-2012-without-a-domain/)
+      if you don&#8217;t have or want to setup a AD. Instead its some notes
+      about whats needed and the [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404588603.063871;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404891568.061995;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

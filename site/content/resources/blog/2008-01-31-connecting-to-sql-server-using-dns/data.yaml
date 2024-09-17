@@ -1,0 +1,57 @@
+post:
+  title: Connecting to SQL Server using DNS
+  link: https://nkdagility.com/blog/connecting-to-sql-server-using-dns/
+  pubDate: Thu, 31 Jan 2008 12:53:20 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/31/connecting-to-sql-server-using-dns.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>If you want to connect to a SQL server using DNS you will need to have both the \"<em>SQL Server Browser</em>\" service and an SPN setup in your domain to allow authentication.</p> <p>This allows the DNS name that you have setup to authenticate against the SQL Server using integrated authentication.</p> <blockquote> <p>setspn MSSQLSvc/spdata.ep-dev.[domain].biz:1422 [servername]<br />setspn MSSQLSvc/spdata.ep-dev.[domain].biz:1433 [servername]</p></blockquote> <p>You will know that you need to do this if all of the below is true:  </p><ol> <li>Pining your domain brings back the correct IP of the server  </li><li>You can connect to the SQL Server using the server name with Windows Authentication.  </li><li>You can connect to the SQL server using the IP address with Windows Authentication.  </li><li>You can NOT connect to the SQL server using the spdata.ep-dev.[domain].biz with Windows Authentication.  </li><li>You can connect to the SQL server using the spdata.ep-dev.[domain].biz with SQL Server Authentication.</li></ol><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_4.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"182\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_thumb_1.png\" width=\"244\" border=\"0\" /></a><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_8.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"182\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_thumb_3.png\" width=\"244\" border=\"0\" /></a>\_ <a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_2.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"182\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_thumb.png\" width=\"244\" border=\"0\" /></a>\_ <a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_6.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"182\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_thumb_2.png\" width=\"244\" border=\"0\" /></a><br /><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_12.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"94\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_thumb_5.png\" width=\"244\" border=\"0\" /></a>  <p>You can get he setspn tool from the Windows Server 2003 Admin Pack.</p> <p>Use it to see what SPN's already exist and to see how you can utilise them. For example calling setspn on my [servername] produced:</p> <blockquote> <p>C:&gt;setspn [servername]<br />Registered ServicePrincipalNames for CN=[servername],OU=Member Servers,DC=[domain],DC=biz:<br />\_\_\_ MSSQLSvc/[servername].[domain].biz:1422<br />\_\_\_ MSSQLSvc/[servername].[domain].biz:1433<br />\_\_\_ SMTPSVC/[servername]<br />\_\_\_ SMTPSVC/[servername].[domain].biz<br />\_\_\_ HOST/[servername].[domain]onet.biz<br />\_\_\_ HOST/[servername]</p></blockquote> <p>this information helped me identify that the first two \"MSSQLSvc\" spn's would need to be added to this server. You can add SPN's to accounts as well, but if you only need to access a single server then adding it to an account is a little overkill and probably a security risk.</p> <p>I'm off to make a request for infrastructure to run this...<img alt=\"smile_speedy\" src=\"http://spaces.live.com/rte/emoticons/smile_speedy.gif\" /></p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_</div>"
+  - ''
+  post_id: '256'
+  post_date: '2008-01-31 12:53:20'
+  post_date_gmt: '2008-01-31 12:53:20'
+  post_modified: '2008-01-31 12:53:20'
+  post_modified_gmt: '2008-01-31 12:53:20'
+  comment_status: open
+  ping_status: open
+  post_name: connecting-to-sql-server-using-dns
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '312631104'
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6RRyu
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474678521;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:255;}i:1;a:1:{s:2:"id";i:4104;}i:2;a:1:{s:2:"id";i:254;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-31-connecting-to-sql-server-using-dns.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '3144'

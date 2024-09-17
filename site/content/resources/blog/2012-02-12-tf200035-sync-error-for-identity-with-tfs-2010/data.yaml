@@ -1,0 +1,727 @@
+post:
+  title: TF200035 Sync error for identity with TFS 2010
+  link: https://nkdagility.com/blog/tf200035-sync-error-for-identity-with-tfs-2010/
+  pubDate: Sun, 12 Feb 2012 22:24:19 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=4309
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>I recently ran into an odd problem at a customer where the local computer
+    accounts of a computer joined to a domain started showing the SID
+    periodically. For those not in the know, this is BAD.  </p><p><font
+    color="#ff0000">WARNING: I did not find a solution to my problem, but this
+    should server as a documentation of what I tried, what did not work, and
+    possible resolutions that were unachievable in the time frame. In fact, all
+    of this could be nothing to do with the problem at all… just
+    saying...</font>  <h3>The Problem</h3> </p><p>I first notices that even when
+    I added "Domain Users" to a security group in TFS my "Assigned To" list was
+    empty of all users except those specifically added. It looks like when I
+    name a user my local credentials are used and it is successful, but when I
+    add a group it fails.  </p><p><a
+    href="http://blog.hinshelwood.com/files/2012/02/Image.png"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="Image" border="0" alt="Image"
+    src="http://blog.hinshelwood.com/files/2012/02/Image_thumb.png" width="640"
+    height="188"/></a>  </p><p><strong>Figure: Holy service accounts,
+    batman</strong>  </p><p>So I checked the event log and found an error in the
+    TFS Job Service: <pre class="brush: plain;">Log Name:      Application
+
+    Source:        TFS Services
+
+    Date:          2/3/2012 10:01:27 AM
+
+    Event ID:      3071
+
+    Task Category: None
+
+    Level:         Warning
+
+    Keywords:      Classic
+
+    User:          N/A
+
+    Computer:      TFS01.company.com
+
+    Description:
+
+    TF53010: The following error has occurred in a Team Foundation component or
+    extension:
+
+    Date (UTC): 2/3/2012 6:01:27 PM
+
+    Machine: TFS01
+
+    Application Domain: TfsJobAgent.exe
+
+    Assembly: Microsoft.TeamFoundation.Framework.Server, Version=10.0.0.0,
+    Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a; v2.0.50727
+
+    Service Host: 
+
+    Process Details:
+      Process Name: TFSJobAgent
+      Process Id: 2128
+      Thread Id: 4028
+      Account name: companytfs_service
+
+    Detailed Message: TF200035: One or more errors occurred when Team Foundation
+    Server attempted to synchronize the following identity: Domain Admins.
+    Number of errors that occurred: 1.
+
+    ++++++++++++++++++++++
+
+    Sync error for identity: Domain Admins
+
+    The server does not support the requested critical extension.
+
+       at System.DirectoryServices.SearchResultCollection.ResultsEnumerator.MoveNext()
+       at System.DirectoryServices.DirectorySearcher.FindOne()
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.GetMembersDirect(Boolean getProperties, DirectoryEntry groupEntry, String groupDomainName, Dictionary`2 members, IIdentitySyncHelper syncHelper, SyncErrors syncErrors, TeamFoundationRequestContext requestContext)
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.SyncADIdentity(TeamFoundationIdentity identity, Boolean includeMembers, TeamFoundationRequestContext requestContext, SyncErrors syncErrors)
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.SyncIdentity(IdentityDescriptor descriptor, Boolean includeMembership, String providerInfo, TeamFoundationRequestContext requestContext, SyncErrors syncErrors)
+       at Microsoft.TeamFoundation.Framework.Server.IdentitySynchronizer.SyncOneGroupMembership(TeamFoundationRequestContext requestContext, TeamFoundationIdentity groupToSync, IdentityComponent myComponent)
+
+    Event Xml:
+
+    &lt;Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"&gt;
+      &lt;System&gt;
+        &lt;Provider Name="TFS Services" /&gt;
+        &lt;EventID Qualifiers="0"&gt;3071&lt;/EventID&gt;
+        &lt;Level&gt;3&lt;/Level&gt;
+        &lt;Task&gt;0&lt;/Task&gt;
+        &lt;Keywords&gt;0x80000000000000&lt;/Keywords&gt;
+        &lt;TimeCreated SystemTime="2012-02-03T18:01:27.000000000Z" /&gt;
+        &lt;EventRecordID&gt;16464&lt;/EventRecordID&gt;
+        &lt;Channel&gt;Application&lt;/Channel&gt;
+        &lt;Computer&gt;TFS01.company.com&lt;/Computer&gt;
+        &lt;Security /&gt;
+      &lt;/System&gt;
+      &lt;EventData&gt;
+        &lt;Data&gt;TF53010: The following error has occurred in a Team Foundation component or extension:
+    Date (UTC): 2/3/2012 6:01:27 PM
+
+    Machine: TFS01
+
+    Application Domain: TfsJobAgent.exe
+
+    Assembly: Microsoft.TeamFoundation.Framework.Server, Version=10.0.0.0,
+    Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a; v2.0.50727
+
+    Service Host: 
+
+    Process Details:
+      Process Name: TFSJobAgent
+      Process Id: 2128
+      Thread Id: 4028
+      Account name: companytfs_service
+
+    Detailed Message: TF200035: One or more errors occurred when Team Foundation
+    Server attempted to synchronize the following identity: Domain Admins.
+    Number of errors that occurred: 1.
+
+    ++++++++++++++++++++++
+
+    Sync error for identity: Domain Admins
+
+    The server does not support the requested critical extension.
+
+       at System.DirectoryServices.SearchResultCollection.ResultsEnumerator.MoveNext()
+       at System.DirectoryServices.DirectorySearcher.FindOne()
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.GetMembersDirect(Boolean getProperties, DirectoryEntry groupEntry, String groupDomainName, Dictionary`2 members, IIdentitySyncHelper syncHelper, SyncErrors syncErrors, TeamFoundationRequestContext requestContext)
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.SyncADIdentity(TeamFoundationIdentity identity, Boolean includeMembers, TeamFoundationRequestContext requestContext, SyncErrors syncErrors)
+       at Microsoft.TeamFoundation.Framework.Server.WindowsProvider.SyncIdentity(IdentityDescriptor descriptor, Boolean includeMembership, String providerInfo, TeamFoundationRequestContext requestContext, SyncErrors syncErrors)
+       at Microsoft.TeamFoundation.Framework.Server.IdentitySynchronizer.SyncOneGroupMembership(TeamFoundationRequestContext requestContext, TeamFoundationIdentity groupToSync, IdentityComponent myComponent)
+    &lt;/Data&gt;
+      &lt;/EventData&gt;
+    &lt;/Event&gt;
+
+    </pre>
+
+    </p><p><strong>Figure:&nbsp; TF200035: One or more errors occurred when Team
+    Foundation Server attempted to synchronize the following identity</strong> 
+
+    </p><p>Lets take a look.... 
+
+    <h3>The Investigation</h3>
+
+    </p><p>So I went spelunking and found some interesting things. First was
+    that SQL, running under Network Service was not able to contact the domain
+    properly to query information. <pre class="brush: plain;">Log Name:     
+    Security
+
+    Source:        Microsoft-Windows-Security-Auditing
+
+    Date:          2/3/2012 9:55:38 AM
+
+    Event ID:      4625
+
+    Task Category: Logon
+
+    Level:         Information
+
+    Keywords:      Audit Failure
+
+    User:          N/A
+
+    Computer:      TFS01.companydomain.com
+
+    Description:
+
+    An account failed to log on.
+
+
+    Subject:
+        Security ID:        S-1-5-20
+        Account Name:        TFS01$
+        Account Domain:        COMPANYDOMAIN
+        Logon ID:        0x3e4
+
+    Logon Type:            3
+
+
+    Account For Which Logon Failed:
+        Security ID:        S-1-0-0
+        Account Name:        
+        Account Domain:        
+
+    Failure Information:
+        Failure Reason:        An Error occured during Logon.
+        Status:            0xc000040a
+        Sub Status:        0x0
+
+    Process Information:
+        Caller Process ID:    0x51c
+        Caller Process Name:    C:Program FilesMicrosoft SQL ServerMSSQL10_50.MSSQLSERVERMSSQLBinnsqlservr.exe
+
+    Network Information:
+        Workstation Name:    TFS01
+        Source Network Address:    -
+        Source Port:        -
+
+    Detailed Authentication Information:
+        Logon Process:        Authz   
+        Authentication Package:    Kerberos
+        Transited Services:    -
+        Package Name (NTLM only):    -
+        Key Length:        0
+
+    This event is generated when a logon request fails. It is generated on the
+    computer where access was attempted.
+
+
+    The Subject fields indicate the account on the local system which requested
+    the logon. This is most commonly a service such as the Server service, or a
+    local process such as Winlogon.exe or Services.exe.
+
+
+    The Logon Type field indicates the kind of logon that was requested. The
+    most common types are 2 (interactive) and 3 (network).
+
+
+    The Process Information fields indicate which account and process on the
+    system requested the logon.
+
+
+    The Network Information fields indicate where a remote logon request
+    originated. Workstation name is not always available and may be left blank
+    in some cases.
+
+
+    The authentication information fields provide detailed information about
+    this specific logon request.
+        - Transited services indicate which intermediate services have participated in this logon request.
+        - Package name indicates which sub-protocol was used among the NTLM protocols.
+        - Key length indicates the length of the generated session key. This will be 0 if no session key was requested.
+    Event Xml:
+
+    &lt;Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event"&gt;
+      &lt;System&gt;
+        &lt;Provider Name="Microsoft-Windows-Security-Auditing" Guid="{54849625-5478-4994-A5BA-3E3B0328C30D}" /&gt;
+        &lt;EventID&gt;4625&lt;/EventID&gt;
+        &lt;Version&gt;0&lt;/Version&gt;
+        &lt;Level&gt;0&lt;/Level&gt;
+        &lt;Task&gt;12544&lt;/Task&gt;
+        &lt;Opcode&gt;0&lt;/Opcode&gt;
+        &lt;Keywords&gt;0x8010000000000000&lt;/Keywords&gt;
+        &lt;TimeCreated SystemTime="2012-02-03T17:55:38.958188500Z" /&gt;
+        &lt;EventRecordID&gt;590839&lt;/EventRecordID&gt;
+        &lt;Correlation /&gt;
+        &lt;Execution ProcessID="532" ThreadID="5544" /&gt;
+        &lt;Channel&gt;Security&lt;/Channel&gt;
+        &lt;Computer&gt;TFS01.companydomain.com&lt;/Computer&gt;
+        &lt;Security /&gt;
+      &lt;/System&gt;
+      &lt;EventData&gt;
+        &lt;Data Name="SubjectUserSid"&gt;S-1-5-20&lt;/Data&gt;
+        &lt;Data Name="SubjectUserName"&gt;TFS01$&lt;/Data&gt;
+        &lt;Data Name="SubjectDomainName"&gt;COMPANYDOMAIN&lt;/Data&gt;
+        &lt;Data Name="SubjectLogonId"&gt;0x3e4&lt;/Data&gt;
+        &lt;Data Name="TargetUserSid"&gt;S-1-0-0&lt;/Data&gt;
+        &lt;Data Name="TargetUserName"&gt;
+        &lt;/Data&gt;
+        &lt;Data Name="TargetDomainName"&gt;
+        &lt;/Data&gt;
+        &lt;Data Name="Status"&gt;0xc000040a&lt;/Data&gt;
+        &lt;Data Name="FailureReason"&gt;%%2304&lt;/Data&gt;
+        &lt;Data Name="SubStatus"&gt;0x0&lt;/Data&gt;
+        &lt;Data Name="LogonType"&gt;3&lt;/Data&gt;
+        &lt;Data Name="LogonProcessName"&gt;Authz   &lt;/Data&gt;
+        &lt;Data Name="AuthenticationPackageName"&gt;Kerberos&lt;/Data&gt;
+        &lt;Data Name="WorkstationName"&gt;TFS01&lt;/Data&gt;
+        &lt;Data Name="TransmittedServices"&gt;-&lt;/Data&gt;
+        &lt;Data Name="LmPackageName"&gt;-&lt;/Data&gt;
+        &lt;Data Name="KeyLength"&gt;0&lt;/Data&gt;
+        &lt;Data Name="ProcessId"&gt;0x51c&lt;/Data&gt;
+        &lt;Data Name="ProcessName"&gt;C:Program FilesMicrosoft SQL ServerMSSQL10_50.MSSQLSERVERMSSQLBinnsqlservr.exe&lt;/Data&gt;
+        &lt;Data Name="IpAddress"&gt;-&lt;/Data&gt;
+        &lt;Data Name="IpPort"&gt;-&lt;/Data&gt;
+      &lt;/EventData&gt;
+    &lt;/Event&gt;
+
+    </pre>
+
+    </p><p><strong>Figure: This implies that the Machine account does not have
+    permission to AD</strong> 
+
+    </p><p>Now, when you join a computer to a domain it actually gets an account
+    on the domain and a password just like a user. The account is always the
+    computer name appended with a $ which looks like "tfs01$". The password for
+    that account is set every 30 days by request of the client, and there can
+    rarely be any problems. 
+
+    </p><p><a href="http://blog.hinshelwood.com/files/2012/02/Hint-4.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="Hint 4" border="0" alt="Hint 4"
+    src="http://blog.hinshelwood.com/files/2012/02/Hint-4_thumb.png" width="400"
+    height="440"/></a><br /><strong>Figure: Domain Controller error in Event
+    Log</strong>
+
+    </p><p>But in this case it looks for&nbsp; it looks as if the machine
+    account has become out of sync, so lets try <a
+    href="http://support.microsoft.com/kb/216393">resetting the computer
+    account</a>. <pre class="brush: plain;">C:Userstfs_service&gt;netdom reset
+    "tfs01" /domain:companydomain
+
+    The secure channel from TFS01 to the domain COMPANYDOMAIN has 
+
+    been reset.  The connection is with the 
+
+    machine DC01.COMPANYDOMAIN.COM.
+
+
+    The command completed successfully.
+
+    </pre>
+
+    </p><p><strong>Figure: Using netdom to reset the secure channel</strong>
+
+    </p><p>This should update AD with a new password set by the client, so lets
+    test it out: <pre class="brush: plain;">C:Userstfs_service&gt;Nltest
+    /SC_Verify:companydomain  /SERVER:tfs01
+
+    Flags: b0 HAS_IP  HAS_TIMESERV
+
+    Trusted DC Name dc01.companydomain.com
+
+    Trusted DC Connection Status Status = 0 0x0 NERR_Success
+
+    Trust Verification Status = 0 0x0 NERR_Success
+
+
+    The command completed successfully</pre>
+
+    </p><p><strong>Figure: Using nltest to check the secure channel</strong>
+
+    </p><p>After resetting the account I rebooted the server and checked again
+    for the error messages, and dam but they were still there. My next approach
+    was to reset the computer account in Active Directory Users and Computers.
+    After you do this you will need to re-join the computer to the domain as you
+    will get an error on login that states "<a
+    href="http://social.msdn.microsoft.com/Forums/en-US/tfssetup/thread/d261abe1-3008-4e8a-bf8a-ef249ee7d341">The
+    trust relationship between this workstation and the primary domain
+    failed</a>” for which it it worth investigating. In this case however it is
+    a problem of our own making with the reset, and can be fixed by following: 
+
+    <ol>
+
+    <li>Join computer to any workgroup 
+
+    </li><li>Reboot 
+
+    </li><li>Login as local Administrator account 
+
+    </li><li>Join computer to domain 
+
+    </li><li>Reboot 
+
+    </li><li>Login as domain account</li></ol>
+
+    </p><p>Even this is not you done. When you do a remove, re-join certain
+    services do not like it and you will have to do the following: 
+
+    <ul>
+
+    <li><strong>Fix Reporting Services</strong> - Re-add the "key" to reporting
+    services through the configuration console as it got confused
+
+    </li><li><strong>Fix SharePoint</strong> - Re-run the SharePoint
+    Configuration without changing anything as it thinks that the machine name
+    has changed</li></ul>
+
+    </p><p>While this should solve most problems with authentication, it did not
+    solve this one. You may also see a <a
+    href="http://support.microsoft.com/kb/810977">Event ID 5722 is logged on
+    your domain controller</a> which should also be fixed, but is a result of
+    the things that I have tried so far. 
+
+    </p><p>So where next? 
+
+    </p><p>Well, one thing to make sure of is that the <a
+    href="http://billwg.blogspot.com/2008/12/tfs-service-account-requires-read.html">TFS
+    2010 service account has permission to read from the domain</a>, but it
+    unusual to have this problem as this is the default for accounts in AD. If
+    you have a more locked down configuration it may be something you need to
+    look at. 
+
+    </p><p>One of my colleagues (Rennie) thought that if the Active Directory
+    Domain Services have not been maintained properly (this is a very small
+    company with no real AD skills in-house) then they may have lost one or more
+    of their domain roles. Specifically the PDC Emulation role.&nbsp;
+    </p><p>&nbsp;<a
+    href="http://blog.hinshelwood.com/files/2012/02/image.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/02/image_thumb.png" width="400"
+    height="440"/></a><br /><strong>Figure: It looks like the PDC Emulation role
+    is OK </strong>
+
+    </p><p>This was definitely worth a check, and while it was OK, I did notice
+    something that confused and then shocked me. You now those moments when you
+    find out something that just does not compute, and you just stare at it! 
+
+    <blockquote>
+
+    <p>This is a Windows 2000 Domain Controller! </p></blockquote>
+
+    </p><p>Now that I know that a whole host more potential issues rear their
+    ugly heads.&nbsp; </p><p>So, now to check that Windows 2000 Service Pack 4
+    is installed but who knows which hotfix level if any, and what about bugs
+    that were only fixed in later versions of the OS!&nbsp; </p><p>Pha! (throws
+    up hands in disgust)&nbsp; Is Windows 2000 domains even supported in TFS? 
+
+    <blockquote>
+
+    <p>Team Foundation Server is supported in the following Active Directory
+    modes and functional levels:</p>
+
+    <ul>
+
+    <li>Windows 2000 Active Directory in native mode.</li>
+
+    <li>Windows Server 2003 Active Directory in Windows 2000 native mode.</li>
+
+    <li>Windows Server 2003 Active Directory in Windows Server 2003 functional
+    level.</li>
+
+    <li>Windows Server 2003 R2 in Windows Server 2003 R2 Active Directory forest
+    functional level.</li></ul>
+
+    <p>-<a href="http://msdn.microsoft.com/en-us/library/ms253081.aspx">Trusts
+    and Forests Considerations for Team Foundation Server</a>,
+    MSDN</p></blockquote>
+
+    </p><p>What do you know, it is supported (somewhat) 
+
+    </p><p>Windows 2000 domains are only supported in Native mode and will not
+    work in mixed mode (does anyone still have Windows NT4 in prodution?) so
+    lets take a look. 
+
+    </p><p><a href="http://blog.hinshelwood.com/files/2012/02/Hint-2.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="Hint 2" border="0" alt="Hint 2"
+    src="http://blog.hinshelwood.com/files/2012/02/Hint-2_thumb.png" width="400"
+    height="440"/></a>
+
+    </p><p><strong>Figure: Will I am a monkeys uncle, it is!</strong> 
+
+    </p><p>While this may be true, I still hold some reservation for the notion
+    that a Domain upgrade may be necessary! To be honest, if it is a miss
+    configuration of the domain somewhere in the mists of time, then a domain
+    replacement may be a better option and creating a brand new "Windows 2008 R2
+    Domain" would have at least he benefit of modern defaults. 
+
+    </p><p>While on the Domain Controller I also noticed Event ID 1789 in the
+    event log that got me looking into another article on <a
+    href="http://support.microsoft.com/?id=976494">Error 1789 when you use the
+    LookupAccountName function on a computer that is running Windows Server 2008
+    R2</a> that while technically is included in the last service pack was not
+    working of me. I could not even apply the Hotfix as it game me the "this
+    update is not valid for your computer" message that is no help. There are
+    manual steps for <a
+    href="http://social.technet.microsoft.com/Forums/en/windowsserver2008r2general/thread/846afed4-f3cc-47df-abd0-d111b7d3476a">Local
+    Groups not resolving domain group name</a> which stopped that error from
+    being listed, which is one more step closer to a stable working system. 
+
+    </p><p><a href="http://blog.hinshelwood.com/files/2012/02/Hint-6.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="Hint 6" border="0" alt="Hint 6"
+    src="http://blog.hinshelwood.com/files/2012/02/Hint-6_thumb.png" width="640"
+    height="456"/></a><br /><strong>Figure: These manual steps are needed on old
+    domains</strong> 
+
+    </p><p>After all of those steps and spelunking I only have one error message
+    left. The one that started it all… the TF200035… and I can’t seam to get it
+    to talk to Active Directory.
+
+    </p><p>One thing you may want to try is using TfsSecurity.exe to check
+    wither the accounts are in sync. This can be done easily and there are two
+    things I want to check. First the TFS_Service account:<pre class="brush:
+    plain;">C:Program FilesMicrosoft Team Foundation Server
+    2010Tools&gt;TfsSecurity /server
+
+    :http://tfs01:8080/tfs /imx companydomaintfs_service
+
+    TFSSecurity - Team Foundation Server Security Tool
+
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+
+    The target Team Foundation Server is http://tfs01:8080/tfs.
+
+    Resolving identity "companydomaintfs_service"...
+
+
+    SID: S-1-5-21-448539723-789336058-1957994488-1766
+
+
+    DN: CN=TFS_Service,OU=Resource,DC=companydomain,DC=com
+
+
+    Identity type: Windows user
+       Logon name: COMPANYDOMAINtfs_service
+     Display name: TFS_Service
+
+    Member of 18 group(s):
+
+    e [A] [NwcSandbox]Project Collection Valid Users
+
+    a [A] [CUSTOMER1]Project Administrators
+
+    a [A] [CUSTOMER1-0-2-1]Project Administrators
+
+    s [A] [NwcSandbox]Project Collection Service Accounts
+
+    e [A] [COMPANY]Project Collection Valid Users
+      [A] [TEAM FOUNDATION]SharePoint Web Application Services
+    s [A] [TEAM FOUNDATION]Team Foundation Service Accounts
+
+    e [A] [DefaultCollection]Project Collection Valid Users
+
+    a [A] [TEAM FOUNDATION]Team Foundation Administrators
+
+    s [A] [DefaultCollection]Project Collection Service Accounts
+
+    e [A] [TEAM FOUNDATION]Team Foundation Valid Users
+
+    a [A] [DefaultCollection]Project Collection Administrators
+
+    a [A] [COMPANY]Project Collection Administrators
+
+    a [A] [TfsAdmin]Project Administrators
+
+    s [A] [COMPANY]Project Collection Service Accounts
+
+    a [A] [CUSTOMER2]Project Administrators
+      [G] BUILTINAdministrators
+    a [A] [NwcSandbox]Project Collection Administrators
+
+
+    Done.
+
+    </pre><strong>Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx
+    companydomaintfs_service</strong>&nbsp;&nbsp; </p><p>And second is the
+    machine account:<pre class="brush: plain;">C:Program FilesMicrosoft Team
+    Foundation Server 2010Tools&gt;TfsSecurity /server
+
+    :http://tfs01:8080/tfs /imx compnaydomaintfs01$
+
+    TFSSecurity - Team Foundation Server Security Tool
+
+    Copyright (c) Microsoft Corporation.  All rights reserved.
+
+    The target Team Foundation Server is http://tfs01:8080/tfs.
+
+    Resolving identity "companydomaintfs01$"...
+
+
+    SID: S-1-5-21-448539723-789336058-1957994488-1761
+
+
+    DN: CN=TFS01,CN=Computers,DC=companydomain,DC=com
+
+
+    Identity type: Windows user
+       Logon name: COMPANYDOMAINTFS01$
+     Display name: TFS01$
+
+    Member of 12 group(s):
+
+    e [A] [NwcSandbox]Project Collection Valid Users
+
+    s [A] [NwcSandbox]Project Collection Service Accounts
+
+    e [A] [COMPANY]Project Collection Valid Users
+
+    s [A] [TEAM FOUNDATION]Team Foundation Service Accounts
+
+    e [A] [DefaultCollection]Project Collection Valid Users
+
+    a [A] [TEAM FOUNDATION]Team Foundation Administrators
+
+    s [A] [DefaultCollection]Project Collection Service Accounts
+
+    e [A] [TEAM FOUNDATION]Team Foundation Valid Users
+
+    a [A] [DefaultCollection]Project Collection Administrators
+
+    a [A] [COMPANY]Project Collection Administrators
+
+    s [A] [COMPANY]Project Collection Service Accounts
+
+    a [A] [NwcSandbox]Project Collection Administrators
+
+
+    Done.
+
+    </pre><strong>Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx
+    compnaydomaintfs01$</strong>&nbsp;&nbsp; </p><p>Dag-namit, but I was hoping
+    for some sort of help here! Everything looks just fine except for not being
+    able ot query AD. This is looking more and more like a… “someone ticked a
+    box 7 years ago in AD and no one remembers where or why problem”.
+
+    </p><p>For those that have encountered them before, there are almost
+    impossible to debug. This is why small companies tend to use the
+    out-of-the-box config and bug companies buy auditing software.
+
+    </p><p>The very last thing that I can check is that the accounts that have
+    been added to TFS are in deed syncing, even if the groups are not:
+
+    </p><p><a href="http://blog.hinshelwood.com/files/2012/02/image1.png"><img
+    style="background-image: none; border-bottom: 0px; border-left: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px;
+    border-right: 0px; padding-top: 0px" title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/02/image_thumb1.png" width="640"
+    height="708"/></a><br /><strong>Figure: making sure the identities in TFS
+    are up to date</strong>
+
+    </p><p>Well, that was my last option and I have no further insights. I am
+    sure that I will need to return to this in the future, but for now I have
+    implemented a workaround for the customer. they can use the system, but
+    without AD groups.
+
+    </p><p>While this sucks…sometimes an internal network configuration beats
+    you…. Humph….
+
+    <h3>The Work Around</h3>
+
+    </p><p>As I have no real solution for this problem that I chased around I
+    have to come up with a workaround that will provide the customer with at
+    least the ability to use TFS. So I created the following local groups at the
+    Server level: 
+
+    <ul>
+
+    <li>Company Developers 
+
+    </li><li>Company Management 
+
+    </li><li>Company Project Managers 
+
+    </li><li>Company Project Admins</li></ul>
+
+    </p><p>I added them with permission onto the individual team projects and
+    added user accounts directly into these TFS Groups. This lets us secure some
+    work item types, states and have users listed in the drop downs. 
+
+    </p><p>Symptom treated.... 
+
+    </p><p>Solving the problem looks to be something that the customer is
+    unwilling ot pay me to do, but I left them with some advice: 
+
+    <ul>
+
+    <li>Try an upgrade to Windows Sever 2008 R2 domain controllers 
+
+    </li><li>If the problem still exists then create a new Windows Server 2008
+    R2 domain and move everyone accross</li></ul>
+
+    </p><p>In saying that this may not even be the problem! 
+
+    </p><p><strong>Additional Useful Links:</strong> 
+
+    <ul>
+
+    <li><a href="http://msdn.microsoft.com/en-us/library/ms253149.aspx">Service
+    Accounts and Dependencies in Team Foundation Server</a></li>
+
+    <li><a href="http://msdn.microsoft.com/en-us/library/ms253081.aspx">Trusts
+    and Forests Considerations for Team Foundation Server</a></li>
+
+    <li><a
+    href="http://www.microsoft.com/download/en/details.aspx?displaylang=en&amp;id=24337">TFS
+    Install Guide</a></li></ul>
+
+
+
+
+
+
+
+
+
+    </p><p>Have fun….</p>
+  - ''
+  post_id: '4309'
+  post_date: '2012-02-12 14:24:19'
+  post_date_gmt: '2012-02-12 22:24:19'
+  post_modified: '2012-02-12 14:24:19'
+  post_modified_gmt: '2012-02-12 22:24:19'
+  comment_status: open
+  ping_status: open
+  post_name: tf200035-sync-error-for-identity-with-tfs-2010
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '573734881'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dL4As1
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474544769;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:4104;}i:1;a:1:{s:2:"id";i:32;}i:2;a:1:{s:2:"id";i:5112;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-02-12-tf200035-sync-error-for-identity-with-tfs-2010.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1332'

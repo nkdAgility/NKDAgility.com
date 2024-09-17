@@ -1,0 +1,293 @@
+post:
+  title: Join a machine to your azure hosted domain controller
+  link: https://nkdagility.com/blog/join-machine-azure-hosted-domain-controller/
+  pubDate: Wed, 31 Dec 2014 15:01:12 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10892
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Now that you have finished <a href=\"http://nkdagility.com/move-azure-vm-virtual-network/\">moving your Domain Controller Azure VM to a Virtual Network</a>] you need to be able to join a machine to your azure hosted domain controller.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0014.png\" alt=\"clip_image001\" width=\"800\" height=\"395\" border=\"0\" /></p>\r\n<p>You need to make sure that you have your machine within the correct virtual network, and <a href=\"http://nkdagility.com/move-azure-vm-virtual-network/\">move your Azure VM to a Virtual Network</a> if necessary. On top of that you need to have the your <a href=\"http://nkdagility.com/configure-a-dns-server-for-an-azure-virtual-network/\">domains DNS server configured for your virtual network</a> so that the guest machine knows where to look for the domain.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0024.png\" alt=\"clip_image002\" width=\"800\" height=\"395\" border=\"0\" /></p>\r\n<p>If everything is in order you should connect to the VM you want to join to the domain that you have created. On the Dashboard tab of the VM you should see a 'connect' button at the bottom of the screen. Clicking it will launch Remote Desktop and connect it to the server.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0034.png\" alt=\"clip_image003\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Once on the server the DBS setting should be correctly configured automatically as part of the DHCP for the Virtual Network that we configured before. This should make it fairly simple to join the machine to the domain. This is no different from local domains.</p>\r\n<p><span class=\"label lable-info\">Note</span> What I really want is to be able to join these machines to AAD so that I do not have to maintain a separate set of local domain controllers for this purpose. For me it gets a little more complex as I have no physical servers, only Azure and Office 365.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image004\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0043.png\" alt=\"clip_image004\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>If you right-click on the start button and select \"System\" you will see the current machine name and domain affiliation. Most likely it will be \"Workshop\". To make the change we need to click \"Change Settings\" to open the dialogs.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image005\" src=\"https://nkdagility.com/wp-content/uploads/2014/11/clip-image0053.png\" alt=\"clip_image005\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>Set the radio-button to \"Domain\" and enter the name of the domain that you want to join. As I setup \"env.nakedalmweb.wpengine.com\" that is what I need to enter. Once you click \"OK\" you will be asked for a domain administrator account to join the machine.</p>\r\n<p>After that a simple reboot will allow you to login to the domain with any of the domain accounts that you have configured.</p>"
+  - >-
+    <p class="lead">Now that you have finished <a
+    href="http://nkdagility.com/move-azure-vm-virtual-network/">moving your
+    Domain Controller Azure VM to a Virtual Network</a>] you need to be able to
+    join a machine to your azure hosted domain controller.  </p>
+  post_id: '10892'
+  post_date: '2014-12-31 15:01:12'
+  post_date_gmt: '2014-12-31 15:01:12'
+  post_modified: '2014-12-15 15:23:53'
+  post_modified_gmt: '2014-12-15 15:23:53'
+  comment_status: open
+  ping_status: open
+  post_name: join-machine-azure-hosted-domain-controller
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1EoFNp5
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: domain controller
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '74'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: _wpcf_belongs_speaking-engagements_id
+    meta_value: '10821'
+  - meta_key: dsq_thread_id
+    meta_value: '3302496226'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474904603;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10874;}i:1;a:1:{s:2:"id";i:10865;}i:2;a:1:{s:2:"id";i:10878;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-12-31-join-machine-azure-hosted-domain-controller.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: dsq_needs_sync
+    meta_value: '1'
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1554'
+  comment:
+  - comment_id: '9854'
+    comment_author: >-
+      Ranger Flash – December 2014 … family time! - Willy&#039;s Reflections -
+      Visual Studio ALM Rangers - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2015/01/07/ranger-flash-december-2014-family-time.aspx
+    comment_author_IP: 157.56.75.144
+    comment_date: '2015-01-07 22:32:28'
+    comment_date_gmt: '2015-01-07 22:32:28'
+    comment_content: '[&#8230;] Join a machine to your azure hosted domain controller [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1420669948.355436;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1420711823.710174;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13099'
+    comment_author: Shay
+    comment_author_email: berko24@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.57.163.241
+    comment_date: '2015-08-31 11:30:00'
+    comment_date_gmt: '2015-08-31 10:30:00'
+    comment_content: >-
+      Hello,
+
+      How can I join an on premises PC to the domain controller hosted on Azure.
+
+      I allready made a Site to Site VPN connection with the Vnet in the Azure
+      and onPremises.
+
+
+      Thanks
+
+      Shay
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2227483585'
+  - comment_id: '13100'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 62.92.230.142
+    comment_date: '2015-08-31 11:35:00'
+    comment_date_gmt: '2015-08-31 10:35:00'
+    comment_content: >-
+      So... If you have Windows 10 or Windows Server 10 you don't need to have a
+      Domain Controller and can instead join the machines directly to your Azure
+      AD. 
+
+
+      However for older OS's you need to make sure that the DNS it correct once
+      you have the site-to-site configured. The DC is found by windows using DNS
+      and your DC in Azure is running DNS. If you set that as your DNS server
+      then you will be able to join...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13099'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2227483585'
+    - meta_key: dsq_post_id
+      meta_value: '2227487934'
+  - comment_id: '13101'
+    comment_author: Shay
+    comment_author_email: berko24@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.57.163.241
+    comment_date: '2015-08-31 12:08:00'
+    comment_date_gmt: '2015-08-31 11:08:00'
+    comment_content: >-
+      Hi there
+
+
+      Thanks 4 the quick reply.
+
+
+      we have only win 7 pc's.
+
+
+      I did as mentiond here:
+
+      https://azure.microsoft.com/en-us/documentation/articles/active-directory-new-forest-virtual-machine/
+
+
+      I have a site to site VPN connection and there is also ping from onprem PC
+      to the VM on the Vnet on Azure.
+
+      but still can't join the onprem PC to the DC.
+
+
+      what am I missing ?
+
+      U said that: 
+
+      " If you set that as your DNS server then you will be able to join "
+
+      so what do I have to do ?
+
+
+      Thanks
+
+      Shay.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13100'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2227487934'
+    - meta_key: dsq_post_id
+      meta_value: '2227519460'
+  - comment_id: '13102'
+    comment_author: Shay
+    comment_author_email: berko24@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: 213.57.163.241
+    comment_date: '2015-08-31 12:12:00'
+    comment_date_gmt: '2015-08-31 11:12:00'
+    comment_content: >-
+      Hey there again,
+
+      I must be drunk LOL.
+
+      forgot to put the DNS IP in the IPv4 DNS settings of the pc network card
+      adapter.
+
+      :)
+
+      thanks for the Help.
+
+      I was missing the right Direction.
+
+      It seems to work now. :)
+
+
+      Thanks
+
+      Shay
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13101'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2227519460'
+    - meta_key: dsq_post_id
+      meta_value: '2227523644'
+  - comment_id: '13963'
+    comment_author: Rawal Baig
+    comment_author_email: rawalbaig@ymail.com
+    comment_author_url: ''
+    comment_author_IP: 39.35.165.202
+    comment_date: '2016-04-27 14:26:00'
+    comment_date_gmt: '2016-04-27 13:26:00'
+    comment_content: >-
+      I'm using Ubuntu VM. 
+
+      How can I attach my existing domain, registered with a azure webapp
+      earlier?
+
+
+      Thanks in Advance
+
+      Rawal
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2645365516'
+  - comment_id: '13965'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.221.54.133
+    comment_date: '2016-04-27 16:15:00'
+    comment_date_gmt: '2016-04-27 15:15:00'
+    comment_content: >-
+      There needs to be explicit support for joining a domain in your platform.
+      Not sure how that works on Ubuntu.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13963'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2645365516'
+    - meta_key: dsq_post_id
+      meta_value: '2645545632'

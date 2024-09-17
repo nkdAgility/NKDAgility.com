@@ -1,0 +1,171 @@
+post:
+  title: Visual Studio 2012 RTM available & installed
+  link: https://nkdagility.com/blog/visual-studio-2012-rtm-available-installed/
+  pubDate: Wed, 15 Aug 2012 18:00:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=7149
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>With the availability of <a
+    href="http://msdn.microsoft.com/en-US/vstudio/" target="_blank">Visual
+    Studio 2012 RTM today on MSDN</a> I wanted to let you know that Northwest
+    Cadence just completed its first Production RTM installation for a
+    customer.</p> <p>Do not fear this upgrade. If you are moving from TFS 2010
+    this is a simple upgrade although there are many new features and a brand
+    new Web UI. Even from TFS 2008 this is a fairly straight forward and well
+    documented process.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/image47.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb47.png"
+    width="640" height="384"/></a><br /><strong>Figure: New Web Access for Team
+    Foundation Server</strong></p> <p>If your organisation relies heavily on the
+    Web UI provided by Team Web Access, and your teams are not highly
+    adaptable,&nbsp; then you may want to take a look and think about some
+    training before you roll it out as it looks and operates very
+    differently.</p> <p>In addition while it will work out-of-the-box you may
+    want to think about <a href="http://blog.hinshelwood.com/one-team-project/"
+    target="_blank">how your Team Projects are structured</a> and how your Teams
+    will interact with them.</p> <h3>Experiences installing Visual Studio 2012
+    BETA</h3> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/VS11-Beta_h_rgb.png"><img
+    title="VS11-Beta_h_rgb" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="VS11-Beta_h_rgb"
+    src="http://blog.hinshelwood.com/files/2012/08/VS11-Beta_h_rgb_thumb.png"
+    width="210" height="24"/></a></p> <p>Even the Beta release came with a
+    go-live licence and while this provided full support from Microsoft we only
+    had one customer take up the Beta mantel and they moved to the Team
+    Foundation Service Preview and not an on-premises install.</p> <ul> <li><a
+    href="http://blog.hinshelwood.com/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production/">Upgrading
+    from TFS2010 to Visual Studio 2012 Team Foundation Server in production</a>
+    (Northwest Cadence)<br /> </li><li><a
+    href="http://blog.hinshelwood.com/upgrade-to-visual-studio-11-team-foundation-service-done/">Upgrade
+    to Visual Studio 11 Team Foundation Service – Done</a> (Customer)<br
+    /></li></ul> <p>Moving to the Beta was a leap of faith, but it paid off for
+    anyone that tried it…</p> <h3>Experiences installing Visual Studio 2012
+    RC</h3> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/vsip-logo-20121.png"><img
+    title="vsip-logo-2012" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; float: left;
+    padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="vsip-logo-2012" align="left"
+    src="http://blog.hinshelwood.com/files/2012/08/vsip-logo-2012_thumb1.png"
+    width="182" height="44"/></a></p> <p>The RC was provided with a go-live
+    licence as well and many of our customers took advantage of it. Here are the
+    documented scenarios within which I participated although it does not
+    represent all of the installs that Northwest Cadence completed.</p> <ul>
+    <li><a
+    href="http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/">Upgrading
+    TFS 2010 to TFS 2012 with VSS Migration and Process Template
+    consolidation</a> (Customer)<br /> </li><li><a
+    href="http://blog.hinshelwood.com/installing-tfs-2012-with-lab-management-2012/">Installing
+    TFS 2012 with Lab Management 2012</a> (Customer)<br /> </li><li><a
+    href="http://blog.hinshelwood.com/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done/">Presenting
+    Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production –
+    Done</a> (Customer)<br /> </li><li><a
+    href="http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/">Installing
+    TFS 2012 on Server 2012 with SQL 2012</a> (just for me)<br /> </li><li><a
+    href="http://blog.hinshelwood.com/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012/">Installing
+    Eclipse on Windows 8 and connecting to TFS 2012</a> (just for me)<br
+    /></li></ul> <p>Moving from the RC to the RTM will be as easy as running the
+    new install and having the upgrade take place automatically. Simples…</p>
+    <h3>Issues</h3> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/puzzle-issue-problem-128-link.png"><img
+    title="puzzle-issue-problem-128-link" style="border-left-width: 0px;
+    border-right-width: 0px; background-image: none; border-bottom-width: 0px;
+    float: left; padding-top: 0px; padding-left: 0px; margin: 5px; display:
+    inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="puzzle-issue-problem-128-link" align="left"
+    src="http://blog.hinshelwood.com/files/2012/08/puzzle-issue-problem-128-link_thumb.png"
+    width="24" height="24"/></a></p> <p>While I had very few issues while
+    installing, configuring and upgrading to Visual Studio 2012 Team Foundation
+    Server you can never get away without having at least some issues. Here are
+    the main things that I documented:</p> <ul> <li><a
+    href="http://blog.hinshelwood.com/office-2013-issue-installing-office-2013-breaks-visual-studio-2012/">Office
+    2013 Issue: Installing Office 2013 breaks Visual Studio 2012</a><br />
+    </li><li><a
+    href="http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/">TFS
+    Integration Tools: TF237165: The Team Foundation Server could not update the
+    work item</a><br /> </li><li><a
+    href="http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/">VSS
+    Converter – Issue: TF54000: Cannot update the data because the server clock
+    may have been set incorrectly</a><br /> </li><li><a
+    href="http://blog.hinshelwood.com/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper/">VSS
+    Converter – Issue: TF60014 &amp; TF60087: Failed to initialise user
+    mapper</a> </li></ul> <h3>Conclusion</h3> <p>If you are currently running
+    any version of Team Foundation Server you should be looking at upgrading as
+    soon as possible to take advantage of the awesome new features.</p> <p><a
+    href="http://blog.hinshelwood.com/files/2012/08/image48.png"><img
+    title="image" style="border-left-width: 0px; border-right-width: 0px;
+    background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; margin: 0px; display: inline; padding-right: 0px;
+    border-top-width: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/08/image_thumb48.png"
+    width="640" height="360"/></a><br /><strong>Figure: New feature for
+    continuous value delivery</strong></p> <p>Forget the unbelievably cool
+    features that made it into TFS 2010, these are the cool features that you
+    have been waiting for:</p> <ul> <li>PowerPoint Storyboarding  </li><li>Agile
+    Planning  </li><li>Suspend &amp; Resume  </li><li>Code Reviews 
+    </li><li>Feedback Collection  </li><li>Unit Testing  </li><li>Exploratory
+    Testing  </li><li>Continuous Integrations  </li><li>Continuous Deployments 
+    </li><li>SCOM Integration  </li><li>IntelliTrace in Production 
+    </li><li>PreEmptive Analytics </li></ul> <p>With all of these things built
+    into the product there is even fewer excuses for Development Teams to be
+    unable to deliver high quality product within an agile process that provides
+    value to the customer…</p> <p><strong>Are you thinking of installing or
+    upgrading to Visual Studio 2012 Team Foundation Server? Do you need
+    help?</strong></p>
+  - ''
+  post_id: '7149'
+  post_date: '2012-08-15 11:00:00'
+  post_date_gmt: '2012-08-15 18:00:00'
+  post_modified: '2012-08-15 11:00:00'
+  post_modified_gmt: '2012-08-15 18:00:00'
+  comment_status: open
+  ping_status: open
+  post_name: visual-studio-2012-rtm-available-installed
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '806583059'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19zTDc6
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"5943d6737a76911163a1ee7cf23e91e0";a:2:{s:7:"expires";i:1472005843;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10214;}i:1;a:1:{s:2:"id";i:53;}i:2;a:1:{s:2:"id";i:4709;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-08-15-visual-studio-2012-rtm-available-installed.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '621'

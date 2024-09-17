@@ -1,0 +1,102 @@
+post:
+  title: TFS Usage Statistics
+  link: https://nkdagility.com/blog/tfs-usage-statistics/
+  pubDate: Wed, 22 Oct 2008 14:19:35 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/10/22/tfs-usage-statistics.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Stats on out <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> Instance. Not much but growing.</p>  <p><strong>Users</strong>    <br />Recent users: 18    <br />Users with assigned work items: 27    <br />Version control users: 36 </p>  <p><strong>Work Items     <br /></strong>Work Items: 636    <br />Areas &amp; Iterations: 179    <br />Work item versions: 5,642    <br />Attached files: 46    <br />Queries: 150 </p>  <p><strong>Version control     <br /></strong>Files: 96,904    <br />Folders: 11,442    <br />Total compressed file size: 1,008 MB    <br />Checkins: 15,491    <br />Shelvesets: 10    <br />Merge history: 194,903    <br />Pending changes: 128    <br />Workspaces: 75    <br />Local copies: 506,097 </p>  <p><strong>Builds &amp; Tests     <br /></strong>Builds: 5    <br />Test runs: 0    <br />Test results: 0 </p>  <p><strong>Commands (last 7 days)</strong>    <br />Work Item queries: 319    <br />Work Item updates: 187    <br />Work Item opens: 709    <br />Gets: 264    <br />Downloads: 119,871    <br />Checkins: 98    <br />Uploads: 454    <br />Shelves: unknown</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_</div>"
+  - ''
+  post_id: '187'
+  post_date: '2008-10-22 14:19:35'
+  post_date_gmt: '2008-10-22 14:19:35'
+  post_modified: '2008-10-22 14:19:35'
+  post_modified_gmt: '2008-10-22 14:19:35'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-usage-statistics
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602815'
+  - meta_key: _views
+    meta_value: '1'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBLshw
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474582384;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9443;}i:1;a:1:{s:2:"id";i:258;}i:2;a:1:{s:2:"id";i:3717;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-10-22-tfs-usage-statistics.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '470'
+  comment:
+  - comment_id: '396'
+    comment_author: Tim
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-10-23 02:11:24'
+    comment_date_gmt: '2008-10-23 02:11:24'
+    comment_content: Did you use some tool or script to generate this info?  Is it available?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970719'
+  - comment_id: '397'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-10-23 02:27:02'
+    comment_date_gmt: '2008-10-23 02:27:02'
+    comment_content: >-
+      Do you have the TFS Power Tools? In the latest version, if you look in the
+      install location and find the .exe that sais something like servermanager
+      or monitor or some suck (don't have it at home) and run it, you will get
+      the stats.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970720'

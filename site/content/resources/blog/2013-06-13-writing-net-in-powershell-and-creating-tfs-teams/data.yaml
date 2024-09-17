@@ -1,0 +1,453 @@
+post:
+  title: Writing .NET in PowerShell and creating TFS Teams
+  link: >-
+    https://nkdagility.com/blog/writing-net-in-powershell-and-creating-tfs-teams/
+  pubDate: Thu, 13 Jun 2013 08:03:47 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9552
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">Did you know that you could be writing .NET in PowerShell?
+    PowerShell can be used to instanciate and call any .NET object and that
+    includes the TFS API.</p>
+
+    <p>On of my <a href="http://b4root.com/" target="_blank">colleagues</a>
+    today suggested that it was harder to create a new Team programmatically in
+    PowerShell than it would in c#. Well I have been playing with PowerShell a
+    lot recently and I decided to give it a go… And do you know what… it is
+    harder… that is.. until you know how.</p>
+
+    <p>I have been confused by PowerShell for a while now. I have struggled and
+    struggled to create and run PowerShell until just a few days ago I had an
+    epiphany:</p>
+
+    <blockquote>
+
+    <p>PowerShell is just c# with all of the bad bits taken out. No case
+    sensitivity, no pointless semi-colon at the end of lines and no unnecessary
+    parentheses to tell the compiler something that it should already know.<br
+    />-Martin Hinshelwood, 2013</p>
+
+    </blockquote>
+
+    <p>Now I am not all there with the syntax and there are a bunch of things I
+    think are really silly and hard, but if you squint at PowerShell just right
+    it is really just the syntax of c# with all of the good bits of VB rolled
+    into a nice code pie.</p>
+
+    <p>The first thing that In need to do to create a Team in TFS is to get a
+    hold of a collection object and this resulted in my first problem…</p>
+
+    <pre>TfsTeamProjectCollectionFactory.GetTeamProjectCollection(new
+    Uri(CollectionUri));
+
+    </pre>
+
+    <p>Not only does the code above (c#) have a static method call, but the
+    object that is called has been shortened by using an Include in the c# code.
+    So how do we both reference an object and ask PowerShell to do something
+    with it.</p>
+
+    <pre>[Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrlParam)
+
+    </pre>
+
+    <p>Interesting… so we just bracket the object and do the old double colon to
+    get that effect. Not what I thought but I have seen this before (not sure
+    where) and I can work with that… so is that the same for an enum?</p>
+
+    <pre>[Microsoft.TeamFoundation.Client.TeamProjectPickerMode]::NoProject
+
+    </pre>
+
+    <p>So it is...</p>
+
+    <p>And thus we hit the second problem that I alluded to earlier… how do we
+    import a namespace to gain access to the classes. We need to reference the
+    DLL in a project so there must be some way to do that here. A little
+    searching around and you will find the Add-Type command that will add any
+    assembly as a reference.</p>
+
+    <pre>Add-Type -AssemblyName "Microsoft.TeamFoundation.Client,
+    Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                           "Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                           "Microsoft.TeamFoundation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+
+    </pre>
+
+    <p>So now we can add assemblies we can do pretty much whatever we like.
+    PowerShell is a little more flexible than .NET directly sometime as you can
+    just quote a type and it will get converted for you. This was especially
+    painful in c#…</p>
+
+    <p>So… my final script to add a new Team to TFS looked something like.</p>
+
+    <pre> Param(
+           [string] $CollectionUrlParam = $(Read-Host -prompt "Collection"), 
+           [string] $TeamName = $(Read-Host -prompt "Team"),
+           [string] $project = $(Read-Host -prompt "Project")
+           )
+
+    # load the required dlls
+
+    Add-Type -AssemblyName "Microsoft.TeamFoundation.Client, Version=11.0.0.0,
+    Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                           "Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                           "Microsoft.TeamFoundation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+
+    # Get TFS
+
+    $tfs =
+    [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrlParam)
+
+    $tfs.EnsureAuthenticated()
+
+    # Get Team Project
+
+    $cssService =
+    $tfs.GetService("Microsoft.TeamFoundation.Server.ICommonStructureService3")
+
+    $teamProject += $cssService.GetProjectFromName($project)
+
+    # Create Team
+
+    $teamService =
+    $tfs.GetService("Microsoft.TeamFoundation.Client.TfsTeamService")
+
+    $Team = $teamService.CreateTeam($teamProject.Uri, $TeamName, "", $null)
+
+    # Show what we created
+
+    $team
+
+    </pre>
+
+    <p>But wait… you must be thinking ‘well what about the other programming
+    constructs’? What I have done able is all fairly simple what if I want to go
+    ahead and call the TFS built in project picker so that I don’t have to do
+    all that variable nonsense. Now we are talking ‘if’ and dialogs…</p>
+
+    <pre>$picker = New-Object
+    Microsoft.TeamFoundation.Client.TeamProjectPicker([Microsoft.TeamFoundation.Client.TeamProjectPickerMode]::NoProject,
+    $false)
+
+    $dialogResult = $picker.ShowDialog()
+
+    if ($dialogResult -ne "OK")
+
+    {
+        exit
+    }
+
+    $tfs = $picker.SelectedTeamProjectCollection
+
+    $projectList = $picker.SelectedProjects
+
+    </pre>
+
+    <p>But what about if you make it mad? YOu can’t just throw a Try Catch in
+    there we would have to do some crazy “On Error” and “GOTO” wouldn't we?</p>
+
+    <pre>try
+
+    {
+        $tfs.EnsureAuthenticated()
+    }
+
+    catch
+
+    {
+        Write-Error "Error occurred trying to connect to project collection: $_ "
+        exit 1
+    }
+
+    </pre>
+
+    <p>Now we begin to get a picture of what is possible inside PowerShell.
+    Would the above be easier if&nbsp; there were nice easy commands like
+    “Add-Team” or “Add-TeamProject” existed? Well yes it would, but that they
+    don’t is not going to cripple us. We can get buy without them..</p>
+
+    <p>In short, anything you can do in code you can do in PowerShell.</p>
+  - >-
+    <p class="lead">Did you know that you could be writing .NET in PowerShell?
+    PowerShell can be used to instanciate and call any .NET object and that
+    includes the TFS API.</p>
+  post_id: '9903'
+  post_date: '2013-06-13 09:03:47'
+  post_date_gmt: '2013-06-13 08:03:47'
+  post_modified: '2013-06-13 09:03:47'
+  post_modified_gmt: '2013-06-13 08:03:47'
+  comment_status: open
+  ping_status: open
+  post_name: writing-net-in-powershell-and-creating-tfs-teams
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '90'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '9537'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: PowerShell
+  - meta_key: _yoast_wpseo_title
+    meta_value: Writing .NET in PowerShell and creating TFS Teams
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Did you know that you could be writing .NET in PowerShell? PowerShell can
+      be used to instanciate and call any .NET object and that includes the TFS
+      API.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1395404312'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51b97d54b341f5f33c00006a";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371110740;s:3:"day";s:5:"Today";s:6:"due_at";i:1371121800;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51b97d54b341f5f33c00006a";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Writing .NET in PowerShell and creating TFS Teams
+      http://buff.ly/14yf2zF #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Writing .NET in PowerShell and creating TFS Teams <a class="url"
+      href="http://buff.ly/14yf2zF" rel="external nofollow"
+      target="_blank">http://buff.ly/14yf2zF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371110740;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51b97d54b341f5f33c00006b";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371110740;s:3:"day";s:5:"Today";s:6:"due_at";i:1371168360;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51b97d54b341f5f33c00006b";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:71:"http://nkdagility.com/writing-net-in-powershell-and-creating-tfs-teams/";s:11:"description";s:152:"Did
+      you know that you could be writing .NET in PowerShell? PowerShell can be
+      used to instanciate and call any .NET object and that includes the TFS
+      API.";s:5:"title";s:49:"Writing .NET in PowerShell and creating TFS
+      Teams";s:4:"link";s:71:"http://nkdagility.com/writing-net-in-powershell-and-creating-tfs-teams/";s:7:"preview";s:61:"http://nkdagility.com/files/2013/05/metro-powershell-logo.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Writing .NET in PowerShell and creating TFS Teams
+      http://buff.ly/14yf2zF #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Writing .NET in PowerShell and creating TFS Teams <a class="url"
+      href="http://buff.ly/14yf2zF" rel="external nofollow"
+      target="_blank">http://buff.ly/14yf2zF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371110740;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51b97d54b341f5f33c00006c";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371110740;s:3:"day";s:5:"Today";s:6:"due_at";i:1371116940;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51b97d54b341f5f33c00006c";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:71:"http://nkdagility.com/writing-net-in-powershell-and-creating-tfs-teams/";s:11:"description";s:152:"Did
+      you know that you could be writing .NET in PowerShell? PowerShell can be
+      used to instanciate and call any .NET object and that includes the TFS
+      API.";s:5:"title";s:49:"Writing .NET in PowerShell and creating TFS
+      Teams";s:4:"link";s:71:"http://nkdagility.com/writing-net-in-powershell-and-creating-tfs-teams/";s:7:"preview";s:61:"http://nkdagility.com/files/2013/05/metro-powershell-logo.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:89:"New
+      Post: Writing .NET in PowerShell and creating TFS Teams
+      http://buff.ly/14yf2zF #vsalm";s:14:"text_formatted";s:304:"New Post:
+      Writing .NET in PowerShell and creating TFS Teams <a class="url"
+      href="http://buff.ly/14yf2zF" rel="external nofollow"
+      target="_blank">http://buff.ly/14yf2zF</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371110740;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3swVt
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"df61fcfdca6f8728835e2e846787cf2c";a:2:{s:7:"expires";i:1474923262;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11097;}i:1;a:1:{s:2:"id";i:10149;}i:2;a:1:{s:2:"id";i:11047;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-06-13-writing-net-in-powershell-and-creating-tfs-teams.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '753'
+  comment:
+  - comment_id: '1669'
+    comment_author: sstranger
+    comment_author_email: stefan@stranger.nl
+    comment_author_url: ''
+    comment_author_IP: 217.122.212.62
+    comment_date: '2013-06-20 17:11:00'
+    comment_date_gmt: '2013-06-20 16:11:00'
+    comment_content: >-
+      If you are using TFS you could also check my blog post on the Hey
+      Scripting Guy blog.
+
+
+      http://blogs.technet.com/b/heyscriptingguy/archive/2012/12/28/protect-your-powershell-scripts-with-version-control.aspx?Redirected=true
+
+
+      Stefan
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '936624121'
+  - comment_id: '1670'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 167.220.24.77
+    comment_date: '2013-06-20 17:23:00'
+    comment_date_gmt: '2013-06-20 16:23:00'
+    comment_content: >-
+      I would always advocate that if you have files that you use some sort of
+      Source Control. Especially for PowerShell :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1669'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '936624121'
+    - meta_key: dsq_post_id
+      meta_value: '936643266'
+  - comment_id: '1671'
+    comment_author: Visual Studio ALM Links week 25
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.codewrecks.com/blog/index.php/2013/06/22/visual-studio-alm-links-week-25/
+    comment_author_IP: 137.116.195.11
+    comment_date: '2013-06-22 18:27:22'
+    comment_date_gmt: '2013-06-22 17:27:22'
+    comment_content: '[...] Writing .NET in PowerShell and creating TFS Teams [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1372015705.707601;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1672'
+    comment_author: Yogesh V
+    comment_author_email: nenuyogesh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 57.67.195.200
+    comment_date: '2013-07-25 10:36:00'
+    comment_date_gmt: '2013-07-25 09:36:00'
+    comment_content: >-
+      How to create a new Team Project collection in TFS using Powershell. on
+      the samelines as above script.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '975653019'
+  - comment_id: '1673'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-25 16:50:00'
+    comment_date_gmt: '2013-07-25 15:50:00'
+    comment_content: >-
+      $tpcSvc =
+      $tfs.GetService([Microsoft.TeamFoundation.Framework.Client.ITeamProjectCollectionService]);
+
+      $job = $tpcSvc.QueueCreateCollection(
+          "MyCollection",      # collection name.
+          "",                  # description.
+          $false,              # don't make this the default collection.
+          "~/MyCollection/",   # virtual directory.
+          "Started",           # State after creation.
+          $null,               # no tokens.
+          "Server=SQLSERVER;Integrated Security=SSPI;",       # The SQL instance to create the collection on. Specify SERVERINSTANCE if not using default instance
+          $null,               # null because the collection database doesn't already exist.
+          $null)               # null because the collection database doesn't already exist.
+
+      $collection = $tpcSvc.WaitForCollectionServicingToComplete($job)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1672'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '975653019'
+    - meta_key: dsq_post_id
+      meta_value: '975954797'
+  - comment_id: '1674'
+    comment_author: Yogesh V
+    comment_author_email: nenuyogesh@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 57.67.195.200
+    comment_date: '2013-07-26 06:31:00'
+    comment_date_gmt: '2013-07-26 05:31:00'
+    comment_content: >-
+      Just after posting my question.. I did create a script and it worked
+      perfectly fine.
+
+
+
+
+      Param(
+             [string] $CollectionUrlParam = $(Read-Host -prompt "Enter TFS Server URL"),
+             [string] $TeamName = $(Read-Host -prompt "Create a TPC"),
+             $v_conn = "Data Source=DIN07005888;Initial Catalog=Tfs_Configuration;Integrated Security=True"
+             )
+       
+      # load the required dlls
+
+      Add-Type -AssemblyName "Microsoft.TeamFoundation.Client, Version=11.0.0.0,
+      Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                             "Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+                             "Microsoft.TeamFoundation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+
+
+      $instanceBaseUrl = $CollectionUrlParam;
+
+      $tfsServer = new-object
+      Microsoft.TeamFoundation.Client.TfsConfigurationServer $instanceBaseUrl;
+           
+
+      $tpcSvc =
+      $tfsServer.GetService([Microsoft.TeamFoundation.Framework.Client.ITeamProjectCollectionService]);
+
+      $job =
+      $tpcSvc.QueueCreateCollection($TeamName,"",$false,"~/$TeamName/","Started",$null,$v_conn,$null,$null)             
+
+
+      $collection = $tpcSvc.WaitForCollectionServicingToComplete($job)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1673'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '975954797'
+    - meta_key: dsq_post_id
+      meta_value: '976923390'

@@ -1,0 +1,83 @@
+post:
+  title: Serialize Assembly for Service calls over Http
+  link: https://nkdagility.com/blog/serialize-assembly-for-service-calls-over-http/
+  pubDate: Tue, 24 Apr 2007 15:18:03 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/04/24/serialize-assembly-for-service-calls-over-http.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>\_</p>\n<p>I want to send a .NET assembly as either an System.Reflection.Assembly or as a string over the wire through a <a title=\"Windows Communication Foundation\" target=\"_blank\" href=\"http://wcf.netfx3.com\">Windows Communication Foundation</a> web service. It seems that the class System.Reflection.Assembly can serialize, but is unable to deserialize at the other end. How can this be achieved without sending as a straem of Byte. </p>\n<p>I would prefer: </p>\n<p>&lt;OperationContract(IsOneWay:=True)&gt; _<br />\nSub AddEventHandlerAssembly(ByVal Assembly As System.Reflection.Assembly) </p>\n<p>Or:<br />\n&lt;OperationContract(IsOneWay:=True)&gt; _<br />\nSub AddEventHandlerAssembly(ByVal Assembly As String) </p>\n<p>But not: </p>\n<p>&lt;OperationContract(IsOneWay:=True)&gt; _<br />\nSub AddEventHandlerAssembly(ByVal Assembly As Byte()) </p>\n<p>I have tralled the web for a while now, trying to find a solution. I have even decompiled the Assembly class and the problem is that it implements System.Runtime.Serialization.ISerializable but does not provide the constructor for the deserialize. </p>\n<p>Does anyone have a solution for this?</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_</div>"
+  - ''
+  post_id: '415'
+  post_date: '2007-04-24 15:18:03'
+  post_date_gmt: '2007-04-24 15:18:03'
+  post_modified: '2007-04-24 15:18:03'
+  post_modified_gmt: '2007-04-24 15:18:03'
+  comment_status: open
+  ping_status: open
+  post_name: serialize-assembly-for-service-calls-over-http
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311605995'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1750ia1
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-04-24-serialize-assembly-for-service-calls-over-http.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '271'
+  comment:
+    comment_id: '79'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2007-04-27 19:33:26'
+    comment_date_gmt: '2007-04-27 19:33:26'
+    comment_content: >-
+      The solution:<br />&lt;OperationContract(IsOneWay:=True)&gt; _<br />Sub
+      AddEventHandlerAssembly(ByVal Assembly As Byte()) <br /><br />This seams
+      the only way that does not corrupt the assembly...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972916'

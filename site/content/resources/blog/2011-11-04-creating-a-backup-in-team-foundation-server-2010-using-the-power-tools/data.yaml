@@ -1,0 +1,123 @@
+post:
+  title: Creating a backup in Team Foundation Server 2010 using the Power Tools
+  link: >-
+    https://nkdagility.com/blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools/
+  pubDate: Fri, 04 Nov 2011 21:15:28 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://blog.hinshelwood.com/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools/
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?\n\nWell, you could, but as TFS has a lot of moving parts it can get very complicated to <a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx\">creating a backup</a>.\n<blockquote>\n<ol>\n\t<li>Required Permissions</li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#TableDB\">Identify Databases</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateTbl\">Create Tables in Databases</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#MarkTbl\">Create a Stored Procedure for Marking Tables</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#MarkAll\">Create a Stored Procedure for Marking All Tables At Once</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#RunMark\">Create a Stored Procedure to Automatically Mark Tables</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#ScheduleMark\">Create a Scheduled Job to Run the Table-Marking Procedure</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateMPFull\">Create a Maintenance Plan For Full Backups</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateMPDiff\">Create a Maintenance Plan For Differential Backups</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateMP\">Create a Maintenance Plan For Transaction Backups</a></li>\n\t<li><a href=\"http://msdn.microsoft.com/en-us/library/ms253070.aspx#LabComponents\">Back Up Additional Lab Management Components</a></li>\n</ol>\n<strong>-From \"Back Up Team Foundation Server\" on MSDN</strong></blockquote>\nThere are a heck of a lot of databases that, depending on your environment, might be spread over your entire network.\n\n<img title=\"Example: complex distribution of databases\" src=\"http://i.msdn.microsoft.com/dynimg/IC372332.png\" alt=\"Example: complex distribution of databases\" width=\"800\" height=\"717\" />\n<strong>Figure: Deployment Topologies (Where is my data?) from MSDN</strong>\n\nSo, how is this problem solved. Well the TFS team have create a tool to create all of the backups and all of the job as well as managing the backup location for you. This sounds fantastic, but how about in practice.\n\n[screencast url=\"http://www.screencast.com/t/PaBBcWZXn\" width=\"640\" height=\"360\"]\n\n<strong>Screencast: Administering TFS 2010: Team Foundation Backup</strong>\n\nWas it really that easy? Well….not really…here is the extra stuff I found out:\n<ul>\n\t<li><strong>Your account must OWN the share\n</strong>Owning the folder does not cut it (see Error #1- TF254027).</li>\n\t<li><strong>SQL Must be running under a domain account or Network Service</strong>\nSQL must also have permission to the share, and the validation will get confused if you use “LocalSystem” instead of Network Service or a Domain Account (See Error #2- TF254027)</li>\n\t<li><strong>The account running SQL must have permission to create SPN’s</strong>\nThe account that is used for SQL must be able to both see and create Service Principal Names in active directory (see Error #3: Terminating your TFS server).</li>\n</ul>\nOnce you learn how to Google without keywords and read your servers mind you will have a nice backup system going…\n<h3>Error #1- TF254027</h3>\nI initially got an error because the accounts did not really have full control over the target location. This is a problem with the share. Although I have full permission for <a href=\"file://fileserver1ShareTFSBackups \">fileserver1ShareTFSBackups </a>it is just a folder under the <a href=\"file://fileserver1folder&quot; data-mce-href=\">fileserver1Share</a> location and I DO NOT have permission to change the sharing settings there.\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image1.png\" alt=\"image\" width=\"800\" height=\"640\" border=\"0\" />\n<strong>Figure: TF254027 is caused by permission issues</strong>\n\n&nbsp;\n<pre class=\"brush: plain; ruler: true;\">[Info   @16:36:34.342] Granting account ROOT_COMPANYtfssqlbox$ permission on folder &lt;a href=&quot;file://fileserver1folderTFSBackups[Info&quot;&gt;fileserver1ShareTFSBackups [Info&lt;/a&gt;   @16:36:34.348] System.UnauthorizedAccessException: Attempted to perform an unauthorized operation.\n   at System.Security.AccessControl.Win32.SetSecurityInfo(ResourceType type, String name, SafeHandle handle, SecurityInfos securityInformation, SecurityIdentifier owner, SecurityIdentifier group, GenericAcl sacl, GenericAcl dacl)\n   at System.Security.AccessControl.NativeObjectSecurity.Persist(String name, SafeHandle handle, AccessControlSections includeSections, Object exceptionContext)\n   at System.Security.AccessControl.FileSystemSecurity.Persist(String fullPath)\n   at Microsoft.TeamFoundation.PowerTools.Admin.Helpers.FileHelper.GrantFolderPermission(String account, String path)\n[Info   @16:36:34.350] Granting account ROOT_COMPANYtfs.services permission on folder &lt;a href=&quot;file://fileserver1TFSBackups[Info&quot;&gt;fileserver1ShareTFSBackups [Info&lt;/a&gt;   @16:36:34.352] System.UnauthorizedAccessException: Attempted to perform an unauthorized operation.\n   at System.Security.AccessControl.Win32.SetSecurityInfo(ResourceType type, String name, SafeHandle handle, SecurityInfos securityInformation, SecurityIdentifier owner, SecurityIdentifier group, GenericAcl sacl, GenericAcl dacl)\n   at System.Security.AccessControl.NativeObjectSecurity.Persist(String name, SafeHandle handle, AccessControlSections includeSections, Object exceptionContext)\n   at System.Security.AccessControl.FileSystemSecurity.Persist(String fullPath)\n   at Microsoft.TeamFoundation.PowerTools.Admin.Helpers.FileHelper.GrantFolderPermission(String account, String path)\n[Error  @16:36:34.352] Granting permission to account ROOT_COMPANYtfssqlbox$ on path &lt;a href=&quot;file://fileserver1folderTFSBackups&quot;&gt;fileserver1ShareTFSBackups&lt;/a&gt; failed</pre>\n<strong>Figure: The log files get to the root of the problem, but not the reason</strong>\n\nAfter much messing around I have found that you can’t use a sub-folder of a share that you do not have permission for. You require permission to the Share itself to apply permissions.\n<h3>Error #2- TF254027</h3>\nLets try this again with a share that we control. I will create a backup share on the TFS server and at least then I control then permissions.\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image2.png\" alt=\"image\" width=\"800\" height=\"640\" border=\"0\" />\n<strong>Figure: The next Error looks the same, but it is subtly different</strong>\n\n&nbsp;\n<pre class=\"brush: plain; ruler: true;\">[Info   @18:12:05.813] &quot;Verify: Grant Backup Plan PermissionsRootVerifyBackupPathPermissionsGrantedSuccessfully(VerifyBackupPathPermissionsGrantedSuccessfully): Exiting Verification with state Completed and result Success&quot;\n[Info   @18:12:05.813] Verify: Grant Backup Plan PermissionsRootVerifyDummyBackupCreation(VerifyTestBackupCreatedSuccessfully): Starting Verification\n[Info   @18:12:05.813] Verify Test Backup Created Successfully\n[Info   @18:12:05.813] Starting creating backup test validation\n[Error  @18:12:06.132] Microsoft.SqlServer.Management.Smo.FailedOperationException: Backup failed for Server &#039;sqlserver1&#039;.  ---&amp;gt; Microsoft.SqlServer.Management.Common.ExecutionFailureException: An exception occurred while executing a Transact-SQL statement or batch. ---&amp;gt; System.Data.SqlClient.SqlException: Cannot open backup device &#039;tfsserver1TFSBackuptemp_20111104111205.bak&#039;. Operating system error 5(Access is denied.).\nBACKUP DATABASE is terminating abnormally.\nat Microsoft.SqlServer.Management.Common.ConnectionManager.ExecuteTSql(ExecuteTSqlAction action, Object execObject, DataSet fillDataSet, Boolean catchException)\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(String sqlCommand, ExecutionTypes executionType)\n--- End of inner exception stack trace ---\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(String sqlCommand, ExecutionTypes executionType)\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(StringCollection sqlCommands, ExecutionTypes executionType)\nat Microsoft.SqlServer.Management.Smo.ExecutionManager.ExecuteNonQuery(StringCollection queries)\nat Microsoft.SqlServer.Management.Smo.BackupRestoreBase.ExecuteSql(Server server, StringCollection queries)\nat Microsoft.SqlServer.Management.Smo.Backup.SqlBackup(Server srv)\n--- End of inner exception stack trace ---\nat Microsoft.SqlServer.Management.Smo.Backup.SqlBackup(Server srv)\nat Microsoft.TeamFoundation.PowerTools.Admin.Helpers.BackupFactory.TestBackupCreation(String path)\n[Error  @18:12:06.184] !Verify Error!: Account ROOT_COMAPNYmartin.hinshelwood failed to create backups using path &lt;a href=&quot;file://tfsserver1TFSBackup[Info&quot;&gt;tfsserver1TFSBackup [Info&lt;/a&gt;   @18:12:06.184] &quot;Verify: Grant Backup Plan PermissionsRootVerifyDummyBackupCreation(VerifyTestBackupCreatedSuccessfully): Exiting Verification with state Completed and result Error&quot;\n[Info   @18:12:06.184] !Verify Result!: 5 Completed, 0 Skipped: 4 Success, 1 Errors, 0 Warnings\n[Info   @18:12:06.197] Verify: Backup Tasks Verifications(VCONTAINER): Starting Verification\n[Info   @18:12:06.197] A generic container node that does not contribute to results\n[Info   @18:12:06.197] &quot;Verify: Backup Tasks Verifications(VCONTAINER): Exiting Verification with state Ignore and result Ignore&quot;\n[Info   @18:12:06.197] Verify: Backup Tasks VerificationsRoot(VCONTAINER): Starting Verification\n[Info   @18:12:06.197] A generic container node that does not contribute to results\n[Info   @18:12:06.197] &quot;Verify: Backup Tasks VerificationsRoot(VCONTAINER): Exiting Verification with state Ignore and result Ignore&quot;\n[Info   @18:12:06.197] Verify: Backup Tasks VerificationsRootVerifyDummyBackupCreation(VerifyTestBackupCreatedSuccessfully): Starting Verification\n[Info   @18:12:06.197] Verify Test Backup Created Successfully\n[Info   @18:12:06.197] Starting creating backup test validation\n[Error  @18:12:06.389] Microsoft.SqlServer.Management.Smo.FailedOperationException: Backup failed for Server sqlserver1&#039;.  ---&amp;gt; Microsoft.SqlServer.Management.Common.ExecutionFailureException: An exception occurred while executing a Transact-SQL statement or batch. ---&amp;gt; System.Data.SqlClient.SqlException: Cannot open backup device &#039;tfsserver1TFSBackuptemp_20111104111206.bak&#039;. Operating system error 5(Access is denied.).\nBACKUP DATABASE is terminating abnormally.\nat Microsoft.SqlServer.Management.Common.ConnectionManager.ExecuteTSql(ExecuteTSqlAction action, Object execObject, DataSet fillDataSet, Boolean catchException)\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(String sqlCommand, ExecutionTypes executionType)\n--- End of inner exception stack trace ---\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(String sqlCommand, ExecutionTypes executionType)\nat Microsoft.SqlServer.Management.Common.ServerConnection.ExecuteNonQuery(StringCollection sqlCommands, ExecutionTypes executionType)\nat Microsoft.SqlServer.Management.Smo.ExecutionManager.ExecuteNonQuery(StringCollection queries)\nat Microsoft.SqlServer.Management.Smo.BackupRestoreBase.ExecuteSql(Server server, StringCollection queries)\nat Microsoft.SqlServer.Management.Smo.Backup.SqlBackup(Server srv)\n--- End of inner exception stack trace ---\nat Microsoft.SqlServer.Management.Smo.Backup.SqlBackup(Server srv)\nat Microsoft.TeamFoundation.PowerTools.Admin.Helpers.BackupFactory.TestBackupCreation(String path)</pre>\n<strong>Figure: This time the error is lying and is from SQL not locally as it implies</strong>\n\nIt looks like the problem is that SQL Server can’t write to that folder, but I can and the machine account can. Lets try this from the SQL Server itself, and with a native backup.\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image3.png\" alt=\"image\" width=\"800\" height=\"717\" border=\"0\" />\n<strong>Figure: SQL Server can’t write to that location</strong>\n\nDam… So even a native SQL backup can’t write to this location.\n<pre class=\"brush: plain; ruler: true;\">TITLE: Microsoft SQL Server Management Studio\n------------------------------\n\nBackup failed for Server &#039;sqlserver1&#039;.  (Microsoft.SqlServer.SmoExtended)\n\nFor help, click: http://go.microsoft.com/fwlink?ProdName=Microsoft+SQL+Server&amp;ProdVer=10.50.2500.0+((KJ_PCU_Main).110617-0038+)&amp;EvtSrc=Microsoft.SqlServer.Management.Smo.ExceptionTemplates.FailedOperationExceptionText&amp;EvtID=Backup+Server&amp;LinkId=20476\n\n------------------------------\nADDITIONAL INFORMATION:\n\nSystem.Data.SqlClient.SqlError: Cannot open backup device &#039;tfsserver1TFSBackupmoo.bak&#039;. Operating system error 5(Access is denied.). (Microsoft.SqlServer.Smo)\n\nFor help, click: http://go.microsoft.com/fwlink?ProdName=Microsoft+SQL+Server&amp;ProdVer=10.50.2500.0+((KJ_PCU_Main).110617-0038+)&amp;LinkId=20476\n\n------------------------------\nBUTTONS:\n\nOK\n------------------------------</pre>\n<strong>Figure: SQL Server errors suck even more</strong>\n\nAs it turns out, SQL Server is running under “LocalSerivce” which is not authenticating against our share. So we need to change the service that TFS runs under.\n<h3>Error #3: Terminating your TFS server</h3>\nAs we should always use the SQL Server Configuration Manager to change these things I fired it up and since i already have a Domain account for running TFS under I decided to use that one.\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image4.png\" alt=\"image\" width=\"800\" height=\"548\" border=\"0\" />\n<strong>Figure: This is easy</strong>\n\nWhen you apply it will ask you to restart SQL, but it should be all complete. Lets check TFS and make sure that everything is running…\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image5.png\" alt=\"image\" width=\"800\" height=\"433\" border=\"0\" />\n<strong>Figure: OMG! What just happened!</strong>\n\nOh Shit: I think I just broke TFS. Why can’t TFS connect? Lets try the SQL Management Studio and see.\n\n<img style=\"background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border-width: 0px;\" title=\"image\" src=\"http://blog.hinshelwood.com/files/2011/11/image6.png\" alt=\"image\" width=\"800\" height=\"243\" border=\"0\" />\n<strong>Figure: What is a SSPI?</strong>\n\nThis does not look good…\n\nAfter I have hastily changed the service account back to the original value and made use that his fixed TFS I wanted to also figure out why it broke. Usually I would just ask Shad (one of my extremely technical colleagues) but alas he is on his honeymoon. Some googling turned up an SPN issue. The account that SQL runs under MUST be able to both read and write Service Principal names for itself in Active Directory. This can be set, but only be a domain admin.\n<ul>\n\t<li><a href=\"http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html\">Dynamically Set SPN's for SQL Service Accounts</a></li>\n</ul>\nSo lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well."
+  - ''
+  post_id: '4025'
+  post_date: '2011-11-04 14:15:28'
+  post_date_gmt: '2011-11-04 21:15:28'
+  post_modified: '2011-11-04 14:15:28'
+  post_modified_gmt: '2011-11-04 21:15:28'
+  comment_status: open
+  ping_status: open
+  post_name: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: dsq_thread_id
+    meta_value: '462177108'
+  - meta_key: _hide_PageLinesPostNav
+    meta_value: ''
+  - meta_key: _hide_PageLinesPostLoop
+    meta_value: ''
+  - meta_key: _hide_PageLinesShareBar
+    meta_value: ''
+  - meta_key: _hide_PageLinesComments
+    meta_value: ''
+  - meta_key: _hide_PageLinesPagination
+    meta_value: ''
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3Avle
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474684859;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9904;}i:1;a:1:{s:2:"id";i:5;}i:2;a:1:{s:2:"id";i:45;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-11-04-creating-a-backup-in-team-foundation-server-2010-using-the-power-tools.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1299'
+  comment:
+  - comment_id: '1088'
+    comment_author: ''
+    comment_author_email: Zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-11-04 23:45:00'
+    comment_date_gmt: '2011-11-05 06:45:00'
+    comment_content: >-
+      Crap.  Thanks for posting this minefield map Martin. For 2012 i want
+      self-healing software.  Or if that's not feasible then I want each error
+      requiring any search to route to a forum (MS hosted or sponsored) that
+      pays people like you to take this kind of time to detangle cascading
+      cryptic errors.  This might also motivate the product team to architect
+      easier backup scenario etc. (i do realize that TFS is complex and i have
+      to give credit for TFS being very stable at my work.)
+
+
+      Keep on blogging!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '356253267'
+  - comment_id: '1089'
+    comment_author: >-
+      Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template
+      consolidation
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-10-02 12:21:54'
+    comment_date_gmt: '2012-10-02 19:21:54'
+    comment_content: >-
+      [...] can use the new database restore if you are currently using the TFS
+      2010 Power Tools backup facility to backup you server, but as I did a
+      manual backup I need to do a manual restore. However [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1349205714.46";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1349209702.18";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

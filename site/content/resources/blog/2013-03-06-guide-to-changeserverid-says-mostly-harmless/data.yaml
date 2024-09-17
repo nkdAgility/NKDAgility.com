@@ -1,0 +1,592 @@
+post:
+  title: Guide to ChangeServerId says mostly harmless
+  link: https://nkdagility.com/blog/guide-to-changeserverid-says-mostly-harmless/
+  pubDate: Wed, 06 Mar 2013 06:33:23 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9249
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.</p>\n<p>Well if you are upgrading your TFS server you may want to create a duplicate of your environment, run the upgrade and have a few folks connect and try things out. This is where we need to talk about GUIDs. GUIDs are used everywhere in side TFS. Your server has a GUID, your collections have GUIDs and even your Team Projects have GUIDs.</p>\n<p>So if you take a backup of your production environment and restore it to another for upgrade it will have the same GUIDs. But why is this important. Well, when you connect to another server with the same GUIDs your client applications that connect to TFS will automatically transfer all of your cache and workspaces to the new server. This gives your users continuity of use as they can easily transition to the new environment even if it has a new name.</p>\n<p>However if any users connect to your test / trial upgrade environment the same thing will happen and they could start to see some pretty strange results… you know… weird things like getting the wrong files when you do a get from source control, SharePoint sites created on the wrong servers and even errors when editing or querying work items.</p>\n<p>The way that you solve this is the same as for cloning your collection. You need to make a call to ChangeServerId.</p>\n<pre class=\"brush: ps; ruler: true;\">TFSConfig ChangeServerID /SQLInstance:ServerName] /DatabaseName:ConfigurationDatabaseName [/ProjectCollectionsOnly] [/ConfigDBOnly] [/usesqlalwayson]\n</pre>\n<p><strong>Figure: ChangeServerID command</strong></p>\n<p>Now usually I would do this as soon as I stood up the new instance, but this instance was stood up by a customer that did not know about the GUID issues. They had just sent out an email to many of their users to try out and validate the new environment so unfortunately I recommended that they immediately change the server ID so that they don’t have problems later.</p>\n<p>Why do I say unfortunately… its all in the messages and there is one when you try to run ChangeServerID that my customer, as everyone does, breezed over this morning:</p>\n<blockquote>\n<p><i>The command ChangeServerId should only be run against a set of Team Foundation Server databases that have no application tiers configured. Do you want to continue with this operation? (Yes/No)</i></p>\n</blockquote>\n<p>While this is absolutely explicit you and I likely did what they also did which was focus on the last sentence and the questions that it contains…</p>\n<p>Now if you do go ahead and say ‘yes’ then you will end up with a few problems.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image.png\" width=\"629\" height=\"407\" border=\"0\" /><br /><strong>Figure: TF31001: Cannot connect to Team Foundation Server</strong></p>\n<p>woops, lets hope this is just a client issue and check the web access…</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"TF50620\" alt=\"TF50620\" src=\"http://blog.hinshelwood.com/files/2013/03/TF50620.jpg\" width=\"387\" height=\"216\" border=\"0\" /><br /><strong>Figure: TF50620: The\_ Team Foundation identity scope does not exist</strong></p>\n<p>Oh… well a reboot will likely solve that…</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"image\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2013/03/image1.png\" width=\"800\" height=\"140\" border=\"0\" /><br /><strong>Figure: TF30046: The instance information does not match</strong></p>\n<p>Dam..</p>\n<p>Checking the event log on the server reveals lost of errors of the TF30046 variety but logs on the server reveal nothing. Even checking the ChangeServerId log reveals nothing but success.</p>\n<p>To the rescue is Vladimir Khvostov from the product team who pointed me at the RegisterDB and the cause.</p>\n<pre class=\"brush: ps; ruler: true;\">TFSConfig RegisterDB /SQLInstance:ServerName [/usesqlalwayson]\n</pre>\n<p><strong>Figure: Setting the server strait</strong></p>\n<p>In the bowless of the web.config for the TFS web services there lies an “applicationid” key that should be the new GUID but has not been updated. Hence the warning when running the command.</p>\n<p>Running RegisterDB command will update setting in the \"C:Program FilesMicrosoft Team Foundation Server 11.0Application TierWeb Servicesweb.config\" and allow the server to work again.</p>\n<p>To save time I went ahead and updated it manually and WOW everything worked again.</p>\n<p><strong>Lesson: Heed all Team Foundation warnings</strong></p>"
+  - ''
+  post_id: '9249'
+  post_date: '2013-03-05 22:33:23'
+  post_date_gmt: '2013-03-06 06:33:23'
+  post_modified: '2013-03-05 22:33:23'
+  post_modified_gmt: '2013-03-06 06:33:23'
+  comment_status: open
+  ping_status: open
+  post_name: guide-to-changeserverid-says-mostly-harmless
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '85'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: ChangeServerId
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Did you clone your collection or Team Foundation environment? Well be
+      careful of ChangeServerId as it can bite you in the ...
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":16:{s:3:"_id";s:24:"5136e76884046e545b000000";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362552680;s:3:"day";s:5:"Today";s:6:"due_at";i:1362560280;s:8:"due_time";s:7:"8:58
+      am";s:2:"id";s:24:"5136e76884046e545b000000";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:6:"status";s:6:"buffer";s:4:"text";s:83:"New
+      Post: Guide to ChangeServerId says mostly harmless http://buff.ly/WPt8vJ
+      #vsalm";s:14:"text_formatted";s:297:"New Post: Guide to ChangeServerId
+      says mostly harmless <a class="url" href="http://buff.ly/WPt8vJ"
+      rel="external nofollow" target="_blank">http://buff.ly/WPt8vJ</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362552680;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":17:{s:3:"_id";s:24:"5136e76984046e545b000001";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362552681;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1362592860;s:8:"due_time";s:8:"11:01
+      am";s:2:"id";s:24:"5136e76984046e545b000001";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:73:"http://blog.hinshelwood.com/guide-to-changeserverid-says-mostly-harmless/";s:11:"description";s:125:"Did
+      you clone your collection or Team Foundation environment? Well be careful
+      of ChangeServerId as it can bite you in the ...";s:5:"title";s:64:"Guide
+      to ChangeServerId says mostly harmless - Visual Studio
+      ALM";s:4:"link";s:73:"http://blog.hinshelwood.com/guide-to-changeserverid-says-mostly-harmless/";s:7:"preview";s:73:"http://blog.hinshelwood.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:6:"status";s:6:"buffer";s:4:"text";s:83:"New
+      Post: Guide to ChangeServerId says mostly harmless http://buff.ly/WPt8vJ
+      #vsalm";s:14:"text_formatted";s:297:"New Post: Guide to ChangeServerId
+      says mostly harmless <a class="url" href="http://buff.ly/WPt8vJ"
+      rel="external nofollow" target="_blank">http://buff.ly/WPt8vJ</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362552681;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":17:{s:3:"_id";s:24:"5136e76984046e545b000002";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1362552681;s:3:"day";s:5:"Today";s:6:"due_at";i:1362590100;s:8:"due_time";s:7:"5:15
+      pm";s:2:"id";s:24:"5136e76984046e545b000002";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:73:"http://blog.hinshelwood.com/guide-to-changeserverid-says-mostly-harmless/";s:11:"description";s:125:"Did
+      you clone your collection or Team Foundation environment? Well be careful
+      of ChangeServerId as it can bite you in the ...";s:5:"title";s:64:"Guide
+      to ChangeServerId says mostly harmless - Visual Studio
+      ALM";s:4:"link";s:73:"http://blog.hinshelwood.com/guide-to-changeserverid-says-mostly-harmless/";s:7:"preview";s:73:"http://blog.hinshelwood.com/files/2012/02/metro-visualstudio-128-link.png";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:6:"status";s:6:"buffer";s:4:"text";s:83:"New
+      Post: Guide to ChangeServerId says mostly harmless http://buff.ly/WPt8vJ
+      #vsalm";s:14:"text_formatted";s:297:"New Post: Guide to ChangeServerId
+      says mostly harmless <a class="url" href="http://buff.ly/WPt8vJ"
+      rel="external nofollow" target="_blank">http://buff.ly/WPt8vJ</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1362552681;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: dsq_thread_id
+    meta_value: '1120596368'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"9388";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1ba9z1D
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474757612;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5;}i:1;a:1:{s:2:"id";i:7176;}i:2;a:1:{s:2:"id";i:9907;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2013-03-05-guide-to-changeserverid-says-mostly-harmless.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1332'
+  comment:
+  - comment_id: '1570'
+    comment_author: Zephan Schroeder
+    comment_author_email: zephan@msn.com
+    comment_author_url: ''
+    comment_author_IP: 67.137.149.122
+    comment_date: '2013-03-06 13:49:00'
+    comment_date_gmt: '2013-03-06 21:49:00'
+    comment_content: >-
+      Excellent post. I like seeing this topic from time to time because I know
+      about restamping the database but need it so infrequently I need to search
+      for instructions each time... and I never considered any negative effects
+      to users. Thanks for saving me a headache :-D.
+
+
+
+      Consider sending the following feedback to Vladimir (or dev team). Instead
+      of passive caution error "...only be run on on TFS databases with no
+      Application Tiers"... the warning should state what action may be
+      requried: CAUTION: After running this command each configured application
+      tier server (if any) will need to have the following command run:
+      TFSConfig RegisterDB /SQLInstance:.
+
+
+
+
+      Cheers! -Zephan
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '821381017'
+  - comment_id: '1571'
+    comment_author: Dave Burnison
+    comment_author_email: DaveBurnison@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 198.185.18.207
+    comment_date: '2013-03-07 19:10:00'
+    comment_date_gmt: '2013-03-08 03:10:00'
+    comment_content: >-
+      You mention "If you are cloning your TFS collection then you have to run
+      ChangeServerId. It is reasonably well documented for this senario". I have
+      not been able to find that documentation. Can you provide a link? We want
+      to do this, (clone our envirnment), to run a test upgrade to TFS 2012
+      before upgrading our production environment.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '822538375'
+  - comment_id: '1572'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 76.104.188.230
+    comment_date: '2013-03-07 20:32:00'
+    comment_date_gmt: '2013-03-08 04:32:00'
+    comment_content: >-
+      Check out
+      http://blogs.msdn.com/b/buckh/archive/2006/10/17/creating-a-new-server-from-an-old-one-beware-of-the-instanceid.aspx
+      and http://msdn.microsoft.com/en-us/library/vstudio/ee349259.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1571'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '822538375'
+    - meta_key: dsq_post_id
+      meta_value: '822575917'
+  - comment_id: '1573'
+    comment_author: Dave Burnison
+    comment_author_email: DaveBurnison@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 198.185.18.207
+    comment_date: '2013-03-09 08:30:00'
+    comment_date_gmt: '2013-03-09 16:30:00'
+    comment_content: >-
+      I just became aware of the TFS Upgrade Guidance document that was created
+      by the ALM Rangers. 
+
+
+      This 86 page document has a lot of details about upgrading TFS. There is a
+      very detailed set of steps on cloning your production environent which
+      tells exactly when you need to run the ChangeServerID command:
+
+      “Walkthrough: Cloning Team Foundation Server to Test the Team Foundation
+      Server upgrade process”, Pages 31 – 53
+
+
+      You can find the TFS Upgrade Guidance document at:
+      http://vsarupgradeguide.codeplex.com/releases.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1572'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '822575917'
+    - meta_key: dsq_post_id
+      meta_value: '824114104'
+  - comment_id: '1877'
+    comment_author: Alain Rodriguez
+    comment_author_email: alain.rodriguez@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.189.192.67
+    comment_date: '2013-09-10 00:05:00'
+    comment_date_gmt: '2013-09-10 00:05:00'
+    comment_content: >-
+      Martin, great article, but getting a different issue. I am upgrading from
+      TFS 2010 to 2012 in a different server and wish to clone/duplicate one
+      collection into two. I am able to upgrade, make a backup of the
+      collection, change the name and db of the current one, restore the
+      previous and then attach it to TFS, but I am getting a:
+
+
+      TF253021:The following team project is duplicated in at least two team
+      project collections...The collection cannot start while the duplication
+      exists. You must delete this project from all but one of the collections
+      before the collection can be started. The project exists in the following
+      collections: LegacyCollection, Collection.
+
+
+      How were you able to solve this?
+
+
+      Is there another way to clone?
+
+
+      I would appreciate any hints on this... thanks!!! :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1036230940'
+  - comment_id: '1878'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 207.114.139.62
+    comment_date: '2013-09-10 00:21:00'
+    comment_date_gmt: '2013-09-10 00:21:00'
+    comment_content: >-
+      You can use the following process:
+      http://msdn.microsoft.com/en-us/library/vstudio/dd936158.aspx
+
+
+      Good Luck...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1877'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1036230940'
+    - meta_key: dsq_post_id
+      meta_value: '1036262842'
+  - comment_id: '1879'
+    comment_author: Alain Rodriguez
+    comment_author_email: alain.rodriguez@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.189.192.67
+    comment_date: '2013-09-10 00:32:00'
+    comment_date_gmt: '2013-09-10 00:32:00'
+    comment_content: >-
+      Unfortunately, the article clearly states the limitation:
+
+
+      "When this collection is attached, it will remain stopped. You will not be
+      able to start it until all duplicate projects have been removed."
+
+
+      "A project cannot exist in more than one collection. Until you delete all
+      duplicated projects between the split collections, you will not be able to
+      start the renamed collection."
+
+
+      My requirements are in fact, to keep those duplicate projects. 
+
+
+
+
+      Thanks for the quick response.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1878'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1036262842'
+    - meta_key: dsq_post_id
+      meta_value: '1036284514'
+  - comment_id: '1880'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 207.114.139.62
+    comment_date: '2013-09-10 00:50:00'
+    comment_date_gmt: '2013-09-10 00:50:00'
+    comment_content: >-
+      Unfortunately the only way to keep the duplicates is to stand up another
+      TFS instance...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1879'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1036284514'
+    - meta_key: dsq_post_id
+      meta_value: '1036318496'
+  - comment_id: '1884'
+    comment_author: Alain Rodriguez
+    comment_author_email: alain.rodriguez@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 199.189.192.67
+    comment_date: '2013-09-10 13:21:00'
+    comment_date_gmt: '2013-09-10 13:21:00'
+    comment_content: Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1880'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1036318496'
+    - meta_key: dsq_post_id
+      meta_value: '1037029025'
+  - comment_id: '2046'
+    comment_author: M Khan
+    comment_author_email: Muhammad.khan@iress.co.uk
+    comment_author_url: ''
+    comment_author_IP: 87.83.45.254
+    comment_date: '2013-12-18 16:44:00'
+    comment_date_gmt: '2013-12-18 16:44:00'
+    comment_content: >-
+      Hi Martin,
+
+      We are just refreshing our TFS2012 Test server first time after upgrade
+      from TFS2010.
+
+      It was much easier in TFS2010 as I had to run simple TFSConfig commands to
+      remapDB, ChangeServerID and registerDB  and jobs was done.
+
+      In TFS2012, At what step should I be running ChangeServerID and registerDB
+      commands, I haven't been able to find any useful article explaining this
+      scenario (creating Test TFS from Live!) in step-by-step.
+
+      Thanks,
+
+      M Khan
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1168889834'
+  - comment_id: '2047'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2013-12-18 18:15:00'
+    comment_date_gmt: '2013-12-18 18:15:00'
+    comment_content: >-
+      The 2012 process is identical to the 2010 process except that the remapDB
+      command is no longer necessary. You should run ChangeServerID before the
+      step to 'install the application tier' on
+      http://msdn.microsoft.com/en-us/library/ms404869.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2046'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1168889834'
+    - meta_key: dsq_post_id
+      meta_value: '1169024021'
+  - comment_id: '2048'
+    comment_author: M Khan
+    comment_author_email: Muhammad.khan@iress.co.uk
+    comment_author_url: ''
+    comment_author_IP: 87.83.45.254
+    comment_date: '2013-12-19 09:16:00'
+    comment_date_gmt: '2013-12-19 09:16:00'
+    comment_content: >-
+      Thanks Martin, That is very helpful and i'll give it a go shortly.
+
+      Is there any resource you could share for performing a restore using SQL
+      backups and not the backups created by TFS Admin Console? As we don't have
+      TFS Backup plan configured and our Tech team are reluctant to create one.
+
+      Thanks :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2047'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1169024021'
+    - meta_key: dsq_post_id
+      meta_value: '1169860865'
+  - comment_id: '2049'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 81.106.29.55
+    comment_date: '2013-12-19 11:08:00'
+    comment_date_gmt: '2013-12-19 11:08:00'
+    comment_content: >-
+      I hope that your tech team are doing 'marked transaction logs' otherwise
+      that are using a completely unsupported backup method that can result in
+      an inability to restore in a disaster. That is why the TFS team created
+      the built in tool for backup and restore, it makes doing a proper backup
+      easyr than following the manual backup process
+      (http://msdn.microsoft.com/en-us/library/ms253070.aspx) which is the
+      MINIMUM you need to be doing to have a likely restore. If you are
+      restoring from a simple bak file then you just restore like you would any
+      set of DB's. There is no direct guidance for this as it is just SQL
+      procedure for restoring...
+      http://technet.microsoft.com/en-us/library/ms177429.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2048'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1169860865'
+    - meta_key: dsq_post_id
+      meta_value: '1169947483'
+  - comment_id: '2050'
+    comment_author: M Khan
+    comment_author_email: Muhammad.khan@iress.co.uk
+    comment_author_url: ''
+    comment_author_IP: 87.83.45.254
+    comment_date: '2013-12-19 13:41:00'
+    comment_date_gmt: '2013-12-19 13:41:00'
+    comment_content: Thanks Very Much.... That has worked!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2049'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1169947483'
+    - meta_key: dsq_post_id
+      meta_value: '1170070336'
+  - comment_id: '11925'
+    comment_author: Paul Abrams
+    comment_author_email: john.paul.abrams@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 205.194.127.36
+    comment_date: '2015-05-04 21:00:00'
+    comment_date_gmt: '2015-05-04 20:00:00'
+    comment_content: >-
+      Hello!  I'm trying to Test an upgrade from TFS 2010 to 2013 using a
+      migrate-and-upgrade strategy.  I've 
+
+
+      1.  had my DBA restore the TFS and ReportServer databases from nightly
+      backups of our Dev TFS 2010 instance to our new test server.  
+
+
+      2.  Installed (but not configured) TFS 2013 
+
+
+      3.  When I try to run TfsConfig PrepareClone as noted at
+      https://msdn.microsoft.com/en-us/library/ms404869.aspx, it gives TF30040
+      and it turns out there is a proc missing:  "prc_GetServiceVersion".
+
+
+      Did I do something wrong?  Any advice?  Can I just skip prepareClone in my
+      scenario?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2003017086'
+  - comment_id: '11926'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.232.21
+    comment_date: '2015-05-04 21:07:00'
+    comment_date_gmt: '2015-05-04 20:07:00'
+    comment_content: >-
+      The documentation does not realy cover that path.... Follow the upgrade
+      path first, then un-configure the app tier and run the changeserver I'd
+      bit...and then reconfigure "apptier only"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11925'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2003017086'
+    - meta_key: dsq_post_id
+      meta_value: '2003028527'
+  - comment_id: '11933'
+    comment_author: Paul Abrams
+    comment_author_email: john.paul.abrams@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 205.194.127.36
+    comment_date: '2015-05-05 14:48:00'
+    comment_date_gmt: '2015-05-05 13:48:00'
+    comment_content: >-
+      Okay, I've tried that, and PrepareClone now runs properly, and I re-ran
+      ChangeServerIDs, and remapDBs (although that one says there's nothing to
+      do).  But when I run TfsBPA, for some reason it still sees the old server
+      that I cloned from, and runs "Machine Health Check" on that server.  I'm
+      guessing that means the migration/upgrade was not clean...?  I want to
+      have the target of the migration available for testing, while the source
+      of the migration remains in (pre-production) use... 
+
+      Any advice on how to get rid of the references to the old server?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11926'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2003028527'
+    - meta_key: dsq_post_id
+      meta_value: '2005593357'
+  - comment_id: '11934'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2015-05-05 15:31:00'
+    comment_date_gmt: '2015-05-05 14:31:00'
+    comment_content: >-
+      The old server referenced drop of after30 or 60 days of inactivity.
+
+
+      p.s. The remapDB's was completed as part of the upgrade on the new
+      hardware. The only thing you needed to do was ChangeServerID from that
+      list...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11933'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2005593357'
+    - meta_key: dsq_post_id
+      meta_value: '2005676267'
+  - comment_id: '13815'
+    comment_author: Set up a Test TFS environment with production databases | The Road to ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://roadtoalm.com/2016/01/28/set-up-a-test-tfs-environment-with-production-databases/
+    comment_author_IP: 192.0.100.55
+    comment_date: '2016-01-28 16:03:46'
+    comment_date_gmt: '2016-01-28 16:03:46'
+    comment_content: '[&#8230;] Guide to ChangeServerId says mostly harmless [&#8230;]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1453997026.10827;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1456863246.969859;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

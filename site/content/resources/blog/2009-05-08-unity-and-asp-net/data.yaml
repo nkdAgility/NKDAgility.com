@@ -1,0 +1,165 @@
+post:
+  title: Unity and ASP.NET
+  link: https://nkdagility.com/blog/unity-and-asp-net/
+  pubDate: Fri, 08 May 2009 17:31:10 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/05/08/unity-and-asp.net.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Using Dependency Injection in a website can get a little dodgy, but in my ASP.NET site use the same base code as my WPF app, I needed a little dependency injection to resolve references at runtime when the application type is known. Now in your ASP.NET page just like in your WPF application you need a little extra bit to get it all going. Finding this for WPF is easy, not so much in ASP.</p>  <pre>Imports System.Web\nImports System.Web.UI\nImports Microsoft.Practices.Unity\n''' &lt;summary&gt;\n''' C# version and source\n''' http://blogs.msdn.com/mpuleio/archive/2008/07/17/proof-of-concept-a-simple-di-solution-for-asp-net-webforms.aspx\n''' &lt;/summary&gt;\n''' &lt;remarks&gt;&lt;/remarks&gt;\nPublic Class UnityHttpModule\n    Implements IHttpModule\n\n    Public Sub Dispose() Implements System.Web.IHttpModule.Dispose\n\n    End Sub\n\n    Public Sub Init(ByVal context As System.Web.HttpApplication) Implements System.Web.IHttpModule.Init\n        AddHandler context.PreRequestHandlerExecute, AddressOf OnPreRequestHandlerExecute\n    End Sub\n\n    Private Sub OnPreRequestHandlerExecute(ByVal sender As Object, ByVal e As EventArgs)\n        Dim handler As IHttpHandler = HttpContext.Current.Handler\n        If TypeOf handler Is Page Then\n            My.Unity.Container.BuildUp(handler.GetType(), handler)\n\n            ' User Controls are ready to be built up after the page initialization is complete\n            Dim page As Page = handler\n            If Not page Is Nothing Then\n                AddHandler page.InitComplete, AddressOf OnPageInitComplete\n            End If\n        End If\n    End Sub\n\n    Private Sub OnPageInitComplete(ByVal sender As Object, ByVal e As EventArgs)\n        Dim page As Web.UI.Page = sender\n        For Each c In BuildControlTree(page)\n            Try\n                My.Unity.Container.BuildUp(c.GetType(), c)\n            Catch ex As Exception\n                ' TODO: Some sort of error handling if important\n                WebPortalTrace.Verbose(WebPortalTraceType.Unity, \"Unity unable to build up {0}\", c.GetType)\n            End Try\n        Next\n    End Sub\n\n    ' Get the controls in the page's control tree excluding the page itself\n    Private Function BuildControlTree(ByVal root As Control) As List(Of Control)\n        Dim ct As New List(Of Control)\n        For Each c In root.Controls\n            ct.Add(c)\n            ct.AddRange(BuildControlTree(c))\n        Next\n        Return ct\n    End Function\n\nEnd Class</pre>\n\n<p>\_</p>\n\n<p>All you need is to put a reference into your config file:</p>\n\n<pre>  &lt;system.web&gt;\n    &lt;httpModules&gt;\n      &lt;add name=\"UnityHttpModule\" type=\"Company.Product.UnityHttpModule, Company.Product\"/&gt;\n    &lt;/httpModules&gt;\n  &lt;/system.web&gt;</pre>\n\n<p>\_</p>\n\n<p>And off you go, before you know it you will have dependency injection coming out of your ears.</p>\n\n<p>One of the advantages to using dependency injection is that you could change a piece of functionality without having to recompile and redeploy your site! How about this…</p>\n\n<pre>&lt;unity&gt;\n    &lt;containers&gt;\n      &lt;container&gt;\n        &lt;types&gt;\n          &lt;type type=\"Company.Product.ViewModels.IRecentItemsViewModel, Company.Product\" mapTo=\"Company.Product.ViewModels.RecentItemsViewModel, Company.Product\" /&gt;\n        &lt;/types&gt;\n      &lt;/container&gt;\n    &lt;/containers&gt;\n&lt;/unity&gt;</pre>\n\n<p>\_</p>\n\n<p>The business then decide that they have to have the order of the recent items list changed but that it needs to go into production immediately, so your testing cycle is extremely tight. No problem… fire up a new solution and create a new class that inherits from IRecentItemsViewModel and implement the new functionality. Then compile it as “Company.Product.Hotfix1”, drop it into your test site bin folder and change line above to:</p>\n\n<pre>&lt;unity&gt;\n    &lt;containers&gt;\n      &lt;container&gt;\n        &lt;types&gt;\n          &lt;type type=\"Company.Product.ViewModels.IRecentItemsViewModel, Company.Product\" mapTo=\"Company.Product.Hotfix1.ViewModels.RecentItemsViewModel, Company.Product.Hotfix1\" /&gt;\n        &lt;/types&gt;\n      &lt;/container&gt;\n    &lt;/containers&gt;\n&lt;/unity&gt;</pre>\n\n<p>\_</p>\n\n<p>The site will then load your new code and you can test the only functionality that you have changed, before deploying to production. Now this may not seam like much, but if your system is made up of thousands of views then you may just need this functionality. And it is so easy to achieve that even for small projects it is fantastic.</p>\n\n<p>\_</p>\n\n<p>\n  </p>\n\n\n<p>P.S. Works with MVC… shhhh…</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/Software+Development\" rel=\"tag\">Software Development</a>\_<a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/CodeProject\" rel=\"tag\">CodeProject</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_</div>"
+  - ''
+  post_id: '122'
+  post_date: '2009-05-08 17:31:10'
+  post_date_gmt: '2009-05-08 17:31:10'
+  post_modified: '2009-05-08 17:31:10'
+  post_modified_gmt: '2009-05-08 17:31:10'
+  comment_status: open
+  ping_status: open
+  post_name: unity-and-asp-net
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602292'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1cEW1Ca
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474919477;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:123;}i:1;a:1:{s:2:"id";i:88;}i:2;a:1:{s:2:"id";i:65;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-05-08-unity-and-asp-net.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '542'
+  comment:
+  - comment_id: '544'
+    comment_author: mobile application software deve
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-24 19:03:06'
+    comment_date_gmt: '2009-09-24 19:03:06'
+    comment_content: >-
+      That's great, I never thought about Unity and ASP.NET like that before.<br
+      />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970375'
+  - comment_id: '545'
+    comment_author: enterprise mobility solution
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-24 20:48:37'
+    comment_date_gmt: '2009-09-24 20:48:37'
+    comment_content: >-
+      I was just thinking about Unity and ASP.NET and you've really helped out.
+      Thanks!<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970379'
+  - comment_id: '546'
+    comment_author: burning calories
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-22 04:36:52'
+    comment_date_gmt: '2009-11-22 04:36:52'
+    comment_content: Thanks a lot for the interesting post man.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970380'
+  - comment_id: '547'
+    comment_author: Casino Boni
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-09 20:44:16'
+    comment_date_gmt: '2010-04-09 20:44:16'
+    comment_content: >-
+      I've got a problem when using listview's insertitem template wrappered in
+      updatepanel, why I can't check the source code part of "insert,cacel"
+      segment in browser ? I mean if using updatepanel to enable Ajax, hit
+      btnAdditem button, for example, then, a insert item template displays at
+      the bottom of item template, then, maybe I want to add some
+      calendarextender or jquery's datepicker to some textbox (i.e, bind to the
+      birthday field back in the database), because I can not find the source
+      code of insertitem in browser, I even don't know how to do next.....<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970381'
+  - comment_id: '548'
+    comment_author: automatenspielen
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-24 15:19:37'
+    comment_date_gmt: '2010-04-24 15:19:37'
+    comment_content: >-
+      puh, thanks got you posted that! The dependency injection is a quite cool
+      trick and worked for me
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970383'

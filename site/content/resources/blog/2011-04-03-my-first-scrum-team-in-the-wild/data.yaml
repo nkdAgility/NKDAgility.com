@@ -1,0 +1,102 @@
+post:
+  title: My first Scrum team in the wild
+  link: https://nkdagility.com/blog/my-first-scrum-team-in-the-wild/
+  pubDate: Sun, 03 Apr 2011 21:44:22 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2011/04/03/my-first-scrum-team-in-the-wild.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png\"><img style=\"border-right-width: 0px;margin: 0px 10px 10px 0px;padding-left: 0px;padding-right: 0px;float: left;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" align=\"left\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb.png\" width=\"51\" height=\"66\" /></a>Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the <em>beta </em>of the course has now just finished their first sprint!</p>  <br />  <hr />  <p>Although I was unable to be the teams Scrum Coach (paperwork relating to citizenship issues) one of my very experienced colleagues (Rennie Araucto) took up the challenge. This was Rennie’s first foray into serious Scrum and he attended the same training course; well I honestly could not have asked for a better person to take this team through its first sprint.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_4.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_1.png\" width=\"757\" height=\"499\" /></a>     <br /><strong>Figure: Pretty much the best sprint 1 burn down I have ever seen\_ <br /></strong></p>  <p>This is probably the very best Sprint 1 burndown I have ever seen. Usually a team will over commit on at least the first, second and third sprints as well as having a tendency to remain oblivious to the <em>opportunities </em>they have in the Scrum process to correct their mistakes. This is usually through no fault of the individuals, but of a IT industry that has consistently taught and rewarded people for anti-patterns to delivering better software.</p>  <p>The data show above is the difference that can be achieve by both having a Scrum Coach and listening to their advice. Most teams fall down on the latter even when the former is satisfied, but I can only applaud the openness of The Scrum Team and their management in adopting both the action and the theory of Scrum in addition to the verbiage. I am sure once they are passed their 10th sprint there will be many changes that they want to make to the process they will have achieved, but <em>sticking to their guns</em> at this stage will serve them well. The trap that they could still fall into is complacency on having such a good sprint. I do worry that their second sprint could be a disaster if they fall back on unhealthy anti-patterns.</p>  <p>Here are a few of the questions that came up during the course of the sprint:</p>  <h3>When are Story Points added and updated?</h3>  <p>When used correctly Story Points are a fantastic way of doing estimation. Once you accept that we humans generally suck at estimating things far in the future as well as things we will not be doing ourselves things can get a lot better.</p>  <p>If we take estimation as a team effort and make sure that there is consensus within a team for how <em>complicated </em>something is in relation to the previous complexity estimates we should at least know which <em>stories</em> are more complicated to implement than the previous one. I always urge teams to reach an agreement as a whole, but not to the point of arguing over wither something is a 8 or and 8.5 (or even a 2 or a 3). When it gets to that level I always recommend an average and move on.</p>  <p>Back to the question, I believe that Story Points are ONLY added or changed at the Sprint Planning meeting. Rough order of events:</p>  <ul>   <li><b>Backlog Creation</b>: - Product Owner created the backlog and prioritises based on business value </li>    <li><b>Release Planning</b>: - <em>The Team</em> helps the Product Owner flesh out the user stories by making sure that the Description and Acceptance Criteria are understood and that there is enough information for Test Cases to be built and development to commence. Obviously large User Stories may be broken down at this point. The Team’s initial Definition of Done may also be devised at this time. </li>    <li><b>Backlog Reprioritisation</b>: - The Product Owner re-prioritises the backlog based the new information that came out of the Release Planning </li>    <li><b>Sprint Planning (Part 1)</b>: - The Team with the assistance of the Product Owner works through the Product Backlog in Stack Rank order to estimate in Story Points roughly 2-3 times the number of User Stories that they think they can deliver during the Sprint. The Product Owner can now roughly predict what will be delivered from the next 2-3 Sprints. All User Stories that can’t be delivered in a single Spring need to be broken down into smaller User Stories </li>    <li><b>Backlog Reprioritisation: - </b>The Product Owner re-prioritises the backlog based the new information that came out of the Release Planning </li>    <li><b>Sprint Planning (Part 2): - </b><em>The Team</em> pulls the highest priority User Story from the Product Backlog and breaks it down into Tasks that are added to the Sprint Backlog. These Tasks are sized in Hours and the Team decides if they are able to commit to delivering that User Story. They then repeat the process with the next User Story. </li> </ul>  <p>In reality the <em>pruning </em>of the Product Backlog by the Product Owner happens all the time and anyone is able to add new User Stories to the <b>end</b> of the Product Backlog at any time.</p>  <h3>We will end up eventually breaking things down into hours, so why bother doing story points at all?</h3>  <p>This is a really common questions and is pretty easy to explain. First lets assume again that we are totally crap at estimating. If that is the case, we want to spend a minimal amount of time estimating things that we will do in the future, or even not end up doing at all. When we do a complexity estimate we let the Product Owner know that we think <em>that </em>things are only so big. This gives them a chance to reprioritise the things that they thought were quick wins, but which are hard, and visa-a-versa. </p>  <p>Now, in <strong>\_</strong>Sprint Planning (Part 2) we can concentrate on only doing the hard work of breaking the top story down into fine grained tasks without the need to worry that we are doing this unnecessarily. Yes, at the start we will have say two User Stories at 12 points that end up being 80 hours and 120 hours respectively, but once you get around to your next Sprint Planning (Part 1) session you will have a better idea of how much complexity you have in your application. This knowledge can only increase over time.</p>  <h3>When should the team activate a User Story?\_ At the beginning of the sprint or when they start working on it?</h3>  <p>I love easy ones: When you start working on it.</p>  <p>In order to understand the relationship between the amount of work that you committed to and the amount of work that you got done it can be handy to see exactly what you did not even have time to start.</p>  <h3>What do you do with stories that are not finished in a single sprint?</h3>  <p>There is a lot of debate on this one. If you are using physical cards then that physical card just goes onto the backlog and all of the outstanding tasks go into the bin. I like to follow that with my data as well. Just move the incomplete User Stories back to the Backlog and Close it indicating that is was not done (Using the Visual Studio Scrum template you mark it as <em><strong>Removed </strong></em>with a reason of <em><strong>Removed from the backlog</strong></em>.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_6.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_2.png\" width=\"436\" height=\"120\" /></a>     <br /><strong>Figure: Agile 5.0 Task removed from the sprint backlog</strong></p>  <p>\_</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_8.png\"><img style=\"border-right-width: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px;padding-top: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_3.png\" width=\"411\" height=\"141\" /></a>     <br /><strong>Figure: Visual Studio Scrum 1.0 Task removed from sprint backlog</strong></p>  <p>\_</p>  <p>The User Story may then be added to the next Sprint if it is prioritised by the Product Owner. It would be up to the team to pitch its completeness or otherwise to the Product Owner in order to prioritise it.</p>  <p>Rule: Never leave uncompleted work in a sprint. Its untidy and causes confusion</p>  <h3>Conclusion</h3>  <p>This team has made some fantastic efforts for their first sprint, but should not get complacent. I am very impressed of the work that Rennie has put in and I really enjoyed our long Scrum conversations <img style=\"border-bottom-style: none;border-left-style: none;border-top-style: none;border-right-style: none\" class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4FwlEmoticon-smile_2.png\" /></p>"
+  - ''
+  post_id: '9892'
+  post_date: '2011-04-03 21:44:22'
+  post_date_gmt: '2011-04-03 21:44:22'
+  post_modified: '2011-04-03 21:44:22'
+  post_modified_gmt: '2011-04-03 21:44:22'
+  comment_status: open
+  ping_status: open
+  post_name: my-first-scrum-team-in-the-wild
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311172814'
+  - meta_key: dsq_thread_id
+    meta_value: '311172814'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6Im2g
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465586474;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:8981;}i:1;a:1:{s:2:"id";i:10094;}i:2;a:1:{s:2:"id";i:4980;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2011-04-03-my-first-scrum-team-in-the-wild.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '460'
+  comment:
+    comment_id: '899'
+    comment_author: Chris
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-04-30 00:56:02'
+    comment_date_gmt: '2011-04-30 00:56:02'
+    comment_content: >-
+      I thought this was a really helpful that answers a lot of common scrum
+      related questions.<br /><br />One question that comes up a lot in our team
+      is how to treat bugs properly in the new Scurm template.  In the Agile
+      template, the bug itself travels back and forth between the developer and
+      the tester.  In the Scrum template, it seems that child development and
+      testing tasks should be created for the bug (which causes more overhead),
+      but what's the best way to 1) let the tester know that the bug is ready
+      for testing and 2) let the developer know if the bug wasn't fixed in the
+      build it was supposed to?  We've considered the following so far:<br /><br
+      />1. Set the owner of the bug to the developer or the tester so they know
+      they have an action to take (doesn't seem to match up with the purpose of
+      owner though)<br /><br />2. The tester may see the items that were
+      addressed in the build report, so they'll know what to test.  From there
+      we thought about marking the development task back to "In Progress" if the
+      bug was not verified, and leaving the test task as either "In Progress" or
+      "To Do"<br /><br />Any guidance in there area would be really helpful.<br
+      /><br />Thanks,<br /><br />Chris
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969249'

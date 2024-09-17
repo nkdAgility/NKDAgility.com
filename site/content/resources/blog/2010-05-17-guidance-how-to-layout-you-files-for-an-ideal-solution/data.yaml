@@ -1,0 +1,116 @@
+post:
+  title: 'Guidance: How to layout you files for an Ideal Solution'
+  link: >-
+    https://nkdagility.com/blog/guidance-how-to-layout-you-files-for-an-ideal-solution/
+  pubDate: Mon, 17 May 2010 11:08:16 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/05/17/guidance-how-to-layout-you-files-for-an-ideal-solution.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><img border=\"0\" alt=\"vs2010alm\" align=\"left\" width=\"88\" height=\"68\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-vs2010alm_955df016-a48f-4c61-b0bd-5a70d0abc59c.png\" />Creating a solution and having it maintainable over time is an art and not a science. I like being pedantic and having a place for everything, no matter how small.</p>\n<p>For setting up the Areas to run Multiple projects under one solution see my post on\_ <a href=\"http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx\">When should I use Areas in TFS instead of Team Projects</a> and for an explanation of branching see <a href=\"http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx\">Guidance: A Branching strategy for Scrum Teams</a>.</p>\n<p><br />\n\_</p>\n<ul>\n    <li><font color=\"#ff0000\">Update 17th May 2010</font> – We are currently trialling running a single Sprint branch to improve our history.</li>\n    <li><font color=\"#ff0000\">Update 20th May 2010</font> – Fixing Images</li>\n    <li><font color=\"#ff0000\">Updated 4th August 2010</font> – There is now best practice guidance around this that supersedes this post. <br />\n    <a href=\"http://msdn.microsoft.com/en-us/library/bb668992.aspx\">How To: Structure Your Source Control Folders in Team Foundation Server</a></li>\n</ul>\n<hr />\n<p>Whenever I setup a new Team Project I implement the basic version control structure. I put “readme.txt” files in the folder structure explaining the different levels, and a solution file called “[Client].[Product].sln” located at “$/[Client]/[Product]/DEV/Main” within version control.</p>\n<p>Developers should add any projects you need to create to that solution in the format “[Client].[Product].[ProductArea].[Assembly]” and they will automatically be picked up and built automatically when you setup Automated Builds using Team Foundation Build.</p>\n<p>All test projects need to be done using MSTest to get proper IDE and Team Foundation Build integration out-of-the-box and be named for the assembly that it is testing with a naming convention of “[Client].[Product].[ProductArea].[Assembly].Tests”</p>\n<p>Here is a description of the folder layout; this content should be replicated in readme files under version control in the relevant locations so that even developers new to the project can see how to do it.</p>\n<p><img border=\"0\" alt=\"clip_image002[3]\" width=\"264\" height=\"198\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image0023_d8267385-a648-48d5-8646-3a4b590d7240.jpg\" /> <br />\n<strong>Figure: The Team Project level - at this level there should be a folder for each the products that you are building if you are </strong><a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx\"><strong>using Areas correctly</strong></a><strong> in <a title=\"Team Foundation Server\" target=\"_blank\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\">TFS</a> 2010.</strong></p>\n<p>You should try very hard to avoided spaces as these things always end up in a URL eventually e.g. \"Code Auditor\" should be \"CodeAuditor\".</p>\n<p><img border=\"0\" alt=\"clip_image004[4]\" width=\"264\" height=\"198\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image0044_8d2bd65b-06d3-4f81-8373-876b183c279e.jpg\" /> <br />\n<strong>Figure: Product Level - At this level there should be only 3 folders (DEV, RELESE and SAFE) all of which should be in capitals.</strong></p>\n<p>These folders represent the three stages of your application production line. Each of them may contain multiple branches but this format leaves all of your branches at the same level.</p>\n<p><img border=\"0\" alt=\"clip_image006[4]\" width=\"264\" height=\"198\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image0064_30f1df6e-819c-413e-8f1b-17160d7fa485.jpg\" /> <br />\n<strong>Figure: The DEV folder is where all of the Development branches reside.</strong></p>\n<p>The DEV folder will contain the \"Main\" branch and all feature branches is they are being used. The DEV designation specifies that all code in every branch under this folder has not been released or made ready for release. And feature branches MUST merge (Forward Integrate) from Main and stabilise prior to merging (Reverse Integration) back down into Main and being decommissioned.</p>\n<p><img border=\"0\" alt=\"image\" width=\"633\" height=\"190\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-image_84c769b3-19f9-4665-aec8-d4958829e204.png\" /> <br />\n<strong>Figure: In the Feature branching scenario only merges are allowed onto Main, no development can be done there.</strong></p>\n<p>Once we have a mature product it is important that new features being developed in parallel are kept separate. This would most likely be used if we had more than one Scrum team working on a single product.</p>\n<p><img border=\"0\" alt=\"clip_image008[4]\" width=\"264\" height=\"198\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image0084_c9bc8e20-da1a-49bd-97b3-3f15be58f702.jpg\" /> <br />\n<strong>Figure: when we are ready to do a release of our software we will create a release branch that is then stabilised prior to deployment.</strong></p>\n<p>This protects the serviceability of of our released code allowing developers to fix bugs and re-release an existing version.</p>\n<p><img border=\"0\" alt=\"image\" width=\"655\" height=\"337\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-image_d5eeee47-5f5e-4125-b0f9-a03d85f95e71.png\" /> <br />\n<strong>Figure: All bugs found on a release are fixed on the release.</strong>\_</p>\n<p>All bugs found in a release are fixed on the release and a new deployment is created. After the deployment is created the bug fixes are then merged (Reverse Integration) into the Main branch. We do this so that we separate out our development from our production ready code.\_</p>\n<p><img border=\"0\" alt=\"clip_image010[4]\" width=\"264\" height=\"198\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image0104_a2da864c-6e0f-4446-b80d-b34c67a0151f.jpg\" /> <br />\n<strong>Figure: SAFE or RTM is a read only record of what you actually released. Labels are not immutable so are useless in this circumstance.</strong>\_</p>\n<p>When we have completed stabilisation of the release branch and we are ready to deploy to production we create a read-only copy of the code for reference. In some cases this could be a regulatory concern, but in most cases it protects the company building the product from legal entanglements based on what you did or did not release.</p>\n<p><img border=\"0\" alt=\"image\" width=\"651\" height=\"455\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-image_5527e785-9a91-4964-a6ad-c287fb121175.png\" /></p>\n<p><strong>Figure: This allows us to reference any particular version of our application that was ever shipped.</strong></p>\n<p>\_</p>\n<p>In addition I am an advocate of having a single solution with all the Project folders directly under the “Trunk”/”Main” folder and using the full name for the project folders..</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image002_2.jpg\"><img border=\"0\" alt=\"clip_image002\" width=\"461\" height=\"395\" style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-7129adaece20_EC32-clip_image002_thumb.jpg\" /></a></p>\n<p><strong>Figure: The ideal solution</strong></p>\n<p>If you must have multiple solutions, because you need to use more than one version of Visual Studio, name the solutions “[Client].[Product][VSVersion].sln” and have it reside in the same folder as the other solution.</p>\n<p>This makes it easier for Automated build and improves the discoverability of your code and its dependencies.</p>\n<p>Send me your feedback!</p>\n<p>\_</p>\n<div class=\"wlWriterSmartContent\" style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\">Technorati Tags: <a rel=\"tag\" href=\"http://technorati.com/tags/ALM\">ALM</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/VS+2010\">VS 2010</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/VS+2008\">VS 2008</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS+2010\">TFS 2010</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS+2008\">TFS 2008</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFBS\">TFBS</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/Scrum\">Scrum</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/Branching\">Branching</a>\_<a rel=\"tag\" href=\"http://technorati.com/tags/TFS\">TFS</a>\_</div>"
+  - ''
+  post_id: '42'
+  post_date: '2010-05-17 11:08:16'
+  post_date_gmt: '2010-05-17 11:08:16'
+  post_modified: '2010-05-17 11:08:16'
+  post_modified_gmt: '2010-05-17 11:08:16'
+  comment_status: open
+  ping_status: open
+  post_name: guidance-how-to-layout-you-files-for-an-ideal-solution
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311162994'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6IkY6
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474488382;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:18;}i:1;a:1:{s:2:"id";i:50;}i:2;a:1:{s:2:"id";i:23;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2010-05-17-guidance-how-to-layout-you-files-for-an-ideal-solution.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '579'
+  comment:
+  - comment_id: '896'
+    comment_author: Wes MacDonald
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-20 18:58:29'
+    comment_date_gmt: '2010-05-20 18:58:29'
+    comment_content: I cannot see any of the images for this article :-(
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969626'
+  - comment_id: '897'
+    comment_author: >-
+      Upgrade to Visual Studio 11 Team Foundation Service &#8211; Done - Martin
+      Hinshelwood (MrHinsh)
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/upgrade-to-visual-studio-11-team-foundation-service-done/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-02-24 11:26:54'
+    comment_date_gmt: '2012-02-24 19:26:54'
+    comment_content: >-
+      [...] control system is hard as you want to be sure of your layout. So we
+      had a couple of session on how to layout your source code (note: I need to
+      update that) and settled on a model that worked. They studiously went away
+      and [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1330111614.26";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1330182184.41";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

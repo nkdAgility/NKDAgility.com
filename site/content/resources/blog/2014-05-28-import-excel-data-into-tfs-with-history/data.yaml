@@ -1,0 +1,103 @@
+post:
+  title: Import Excel data into TFS with History
+  link: https://nkdagility.com/blog/import-excel-data-into-tfs-with-history/
+  pubDate: Wed, 28 May 2014 13:50:15 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10541
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Have you ever tried to push data into TFS with Excel? I have, and it can often be the opposite of sweetness and light. The idea is to import Excel data into TFS with History.</p>\r\n<p>I was working with a team this week who used a SharePoint list to store their Requests for Change (RFC). I was easily able to export them from SharePoint by using the built in functionality to export to Excel. I did however want to make sure that there was no data loss when I pushed that data into TFS. Now, short of adding all of the columns that they had into the RFC work item the only way to do this would be to add all of the data to the history.</p>\r\n<p>Note: I usually use a custom CSV adapter that I created for the TFS Integration Tools but there were only 120 items and that can be a lot of overhead.</p>\r\n<p>I looked at a few tricks to use the existing functions to create my data but it just really became too complicated. It was too easy to make mistakes in the complicated mess that is excel nested functions. If I was using my CSV adapter it creates an HTML table for all of the fields and values and writes it into the history for… well… history.</p>\r\n<p><img style=\"border-width: 0px; margin: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/05/clip_image0011.png\" alt=\"clip_image001\" width=\"800\" height=\"500\" border=\"0\" /></p>\r\n<p>I wanted to do the same so I cracked open one of my long forgotten skills… VBA. I know, I know.. It filled me with dread as well. However it was Farley simple to create a table by iterating over the columns and rows to get at the juicy data and return a simple table.</p>\r\n \r\n<pre class=\"lang:default decode:true \" >Function CreateTable(things As Range, headers As Range)\r\n  'Lists the Hyperlink Address for a Given Cell\r\n  'If cell does not contain a hyperlink, return default_value\r\n\r\n    Dim result As String\r\n    result = \"&lt;table&gt;\"\r\n    \r\n    For i = 0 To headers.Cells.count - 1\r\n    result = result &amp; \"&lt;tr&gt;\"\r\n    result = result + \"&lt;td&gt;\" + HTMLEncode(headers.Cells(i).Value) + \"&lt;/td&gt;\"\r\n    result = result &amp; \"&lt;td&gt;\" + HTMLEncode(things.Cells(i).Value) + \"&lt;/td&gt;\"\r\n    result = result &amp; \"&lt;/tr&gt;\"\r\n    Next i\r\n    \r\n    CreateTable = result + \"&lt;/table&gt;\"\r\nEnd Function\r\n\r\nFunction HTMLEncode(ByVal Text As String) As String\r\n    Dim i As Integer\r\n    Dim acode As Integer\r\n    Dim repl As String\r\n    HTMLEncode = Text\r\n    For i = Len(HTMLEncode) To 1 Step -1\r\n        acode = Asc(Mid$(HTMLEncode, i, 1))\r\n        Select Case acode\r\n            Case 32\r\n                'repl = \"&amp;nbsp;\"\r\n            Case 34\r\n                repl = \"&amp;quot;\"\r\n            Case 38\r\n                repl = \"&amp;amp;\"\r\n            Case 60\r\n                repl = \"&amp;lt;\"\r\n            Case 62\r\n                repl = \"&amp;gt;\"\r\n            Case 32 To 127\r\n                ' don't touch alphanumeric chars\r\n            Case Else\r\n                repl = \"&amp;#\" &amp; CStr(acode) &amp; \";\"\r\n        End Select\r\n        If Len(repl) Then\r\n            HTMLEncode = Left$(HTMLEncode, i - 1) &amp; repl &amp; Mid$(HTMLEncode, _\r\n                i + 1)\r\n            repl = \"\"\r\n        End If\r\n    Next\r\nEnd Function\r\n</pre> \r\n\r\n<p>&nbsp;I stole the second function from somewhere online (I think it was Stack Overflow) but the first was my own creation. If I was doing it again I would create a vertical rather than a horizontal table but I only had limited time to create this. The result of adding this custom function? A simple way to add this to just reference the cells, but I had my eyes set of a little awesome table work. Since my data was already in a table I cracked open the internet and trawled the documentation for Excel.</p>\r\n<pre title=\"Usage of new Function\" class=\"lang:default decode:true\">=CreateTable(Table_owssvr_2[@], Table_owssvr_2[#Headers])</pre>\r\n<p>You can easily reference the row of a table that you are on using the \"@\" symbol, and if you are outside the table you can go with \"tableName[@]\". It even works if you are on another sheet. If you are on line 5 you get row 5 from the table… weird.. But OK. Even better you can represent the headers row as \"tablename[#headers]\".</p>\r\n<p>That sounds simple but it was a lot of documentation to wade through to get to that simple result.</p>\r\n<p><img style=\"border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/05/clip_image0021.png\" alt=\"clip_image002\" width=\"800\" height=\"500\" border=\"0\" /></p>\r\n<p>Now that I have a way to create the history field all I have to do is create a query in TFS with the same columns as the ones I want to import, plus the History column of course.</p>\r\n<ol>\r\n<li>Create copy of data to import on second sheet with only the columns we will map - You can use \"tableNasme[@[columnName]]\" to get each value.</li>\r\n<li>Add the function to create the History column</li>\r\n<li>Create Query in TFS that matches the list of columns</li>\r\n<li>Create operational table linked to TFS on new sheet</li>\r\n<li>Copy prepared 120 rows and insert them into the TFS linked table</li>\r\n<li>Massage data click \"Publish\"</li>\r\n</ol>\r\n<p>And you are done.</p>\r\n<h2>Conclusion</h2>\r\n<p>The only thing I do not like about this method over the CSV adapter for the Integration Platform is that all of the new work items have to go through the official flow of the process template. With the CSV adapter I can bypass the work item rules and just write what data I want into there. That way I can progress the states to whatever I want even if they don't exist and fix the data afterwards… better integrity, but more effort.</p>\r\n<p>Using Excel to import data into TFS is quick and easy. Took me about an hour to import the data and another hour to create and tests the data manipulation above.</p>"
+  - >-
+    <p>Have you ever tried to push data into TFS with Excel? I have, and it can
+    often be the opposite of sweetness and light. The idea is to import data
+    into TFS with Excel with history.</p>
+  post_id: '10541'
+  post_date: '2014-05-28 14:50:15'
+  post_date_gmt: '2014-05-28 13:50:15'
+  post_modified: '2014-10-21 07:14:55'
+  post_modified_gmt: '2014-10-21 06:14:55'
+  comment_status: open
+  ping_status: open
+  post_name: import-excel-data-into-tfs-with-history
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '70'
+  - meta_key: dsq_thread_id
+    meta_value: '2689307783'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1kIZqSx
+  - meta_key: _thumbnail_id
+    meta_value: '6286'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10830'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474923624;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5277;}i:1;a:1:{s:2:"id";i:233;}i:2;a:1:{s:2:"id";i:10479;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-05-28-import-excel-data-into-tfs-with-history.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1147'
+  comment:
+    comment_id: '2291'
+    comment_author: Import Excel data into TFS with History - naked...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4022630107/2014/06/07/import-excel-data-into-tfs-with-history-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 89.30.118.151
+    comment_date: '2014-06-07 18:08:18'
+    comment_date_gmt: '2014-06-07 17:08:18'
+    comment_content: >-
+      [&#8230;] Have you ever tried to push data into TFS with Excel? I have,
+      and it can often be the opposite of sweetness and light. The idea is to
+      import data into TFS with Excel with history.&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1402160898.330864;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1402382377.489713;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

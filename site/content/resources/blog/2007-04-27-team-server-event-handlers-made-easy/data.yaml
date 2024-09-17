@@ -1,0 +1,80 @@
+post:
+  title: Team Server Event Handlers made easy...
+  link: https://nkdagility.com/blog/team-server-event-handlers-made-easy/
+  pubDate: Fri, 27 Apr 2007 13:08:18 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/04/27/team-server-event-handlers-made-easy.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Will, not really...</p>\n<p>I work for a rather large organization and I wanted an easy way for power users of team system to deploy event handlers for the <a title=\"Team Foundation Server\" target=\"_blank\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\">Team Foundation Server</a> events. Essentially they create an assembly with as many EventHandler classes as they like and they can upload their assembly through an administration system, which in turn executes any handlers that exist on the system for any events.</p>\n<p>The Event Handler class format:</p>\n<blockquote>\n<p>&lt;EventHandler(EventType:=EventTypes.WorkItemChangedEvent, LogEmail:=<a href=\"mailto:someone@company.com\">someone@company.com</a>)&gt;_</p>\n<p>&lt;Logging(Enable:=True, Verbose:=True) _</p>\n<p>Public Class MyEventHandler</p>\n<p>\_\_\_\_\_\_ Inherits AEventHandler(of WorkItemChangedEvent)</p>\n<p>\_</p>\n<p>\_\_\_\_\_\_ Public Sub Run(TeamServer as TeamFoundation Server, e as EventHandlerArgs(of WorkItemChangedEvent))</p>\n<p>\_\_\_\_\_\_\_\_\_\_ ' Run any code for the event</p>\n<p>\_\_\_\_\_\_ End Sub</p>\n<p>\_</p>\n<p>\_\_\_\_\_\_ Public Sub IsValid(TeamServer as TeamFoundation Server, e as EventHandlerArgs(of WorkItemChangedEvent))</p>\n<p>\_\_\_\_\_\_\_\_\_\_\_ ' Check validity of the event</p>\n<p>\_\_\_\_\_\_ End Sub</p>\n<p>\_</p>\n<p>End Class</p>\n<p>\_</p>\n<p>Public Class EventHandlerArgs(Of TEvent as {ATfsEvent})</p>\n<p>\_\_\_\_...</p>\n<p>\_\_\_ ' This is the type of event that is being created as an enumerator\_\_\_ </p>\n<p>\_\_\_ Public Readonly Property EventType as EventTypes</p>\n<p>\_\_\_\_...</p>\n<p>\_\_\_ ' This is the actual body of the event as a WorkItemChangedEvent or CheckInEvent etc..</p>\n<p>\_\_\_ Public Readonly Property [Event] as TEvent </p>\n<p>\_\_ \_...</p>\n<p>\_\_\_ ' This holds the URL of the <a title=\"Team Foundation Server\" target=\"_blank\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\">Team Foundation Server</a> server that the event originated from</p>\n<p>\_\_\_ Public Readonly Property Identity as TfsIdentity </p>\n<p>\_\_\_\_\_...\_</p>\n<p>\_\_\_ ' The subscription info shows information about the subscription options</p>\n<p>\_\_\_ Public Readonly Property SubscriptionInfo as SubscritpionInfo</p>\n<p>\_\_\_\_\_...</p>\n<p>\_\_\_\_Public Sub New(ByVal EventType as EventTypes, ByVal [Event] as TEvent, ByVal Identity as TfsIdentity, ByVal SubscriptionInfo as SubscritpionInfo)</p>\n<p>\_\_\_ ...</p>\n<p>End Class</p>\n</blockquote>\n<p>There is then a system that handles all of the events and is subscribed through\_the\_Bizsubscribe tool, but that allows a user to administer their own EventHandler's through and admin system (Web, Form or XBAP) through a bunch of web services. There is a lot of code, and not enough room to put it up here, I may start a <a title=\"CodePlex\" target=\"_blank\" href=\"http://www.codeplex.com\">CodePlex</a> project. I will be adding the admin system for this to our TeamPlain site and I may set it up to deploy as such. I will also require to create a visual studio project template\_thingy.</p>\n<p>I am afraid I had to code from memory, so any errors or\_omissions are just my a sign of me getting old, but I hope you get the point and the ease with which you could write and deploy\_EventHandler's with this.</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/TFS+Custom\" rel=\"tag\">TFS Custom</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_</div>"
+  - ''
+  post_id: '412'
+  post_date: '2007-04-27 13:08:18'
+  post_date_gmt: '2007-04-27 13:08:18'
+  post_modified: '2007-04-27 13:08:18'
+  post_modified_gmt: '2007-04-27 13:08:18'
+  comment_status: open
+  ping_status: open
+  post_name: team-server-event-handlers-made-easy
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311605871'
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6ZzIS
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473282473;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:378;}i:1;a:1:{s:2:"id";i:379;}i:2;a:1:{s:2:"id";i:25;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-04-27-team-server-event-handlers-made-easy.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.1
+  - meta_key: ekit_post_views_count
+    meta_value: '323'
+  comment:
+    comment_id: '75'
+    comment_author: Mickey Gousset
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2007-04-27 20:41:05'
+    comment_date_gmt: '2007-04-27 20:41:05'
+    comment_content: >-
+      Hey Martin.  I didn't know if you had seen this or if it would help
+      you.<br /><br
+      />http://blog.accentient.com/PermaLink,guid,9b592e02-cee3-4919-a01a-f616c107a8c3.aspx<br
+      /><br />Its a link to a VS2005 project template for creating listener web
+      services for TFS.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972819'

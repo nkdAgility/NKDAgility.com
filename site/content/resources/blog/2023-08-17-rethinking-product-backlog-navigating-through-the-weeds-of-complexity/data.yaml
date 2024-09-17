@@ -1,0 +1,398 @@
+post:
+  title: 'Rethinking Product Backlog: Navigating Through the Weeds of Complexity'
+  link: >-
+    https://nkdagility.com/blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity/
+  pubDate: Thu, 17 Aug 2023 09:00:00 +0000
+  creator: MrHinsh
+  guid:
+    _: https://nakedalmstage.wpengine.com/?p=49515
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <!-- wp:paragraph -->
+
+    <p>The Product Backlog is a critical asset in Agile product development; it
+    represents a dynamic lean inventory of everything the product needs. For
+    those of us navigating the multifaceted landscape of product development,
+    there is often an impulse to seek an ideal structure for the Product
+    Backlog. The familiar hierarchy of Initiative-&gt;Epic-&gt;Feature-&gt;User
+    Story-&gt;Task/Bug is a common schema. However, before embracing this
+    structure as a silver bullet, it’s imperative to critically evaluate the
+    implications of imposing a hierarchy on the Product Backlog and to recognize
+    the nuanced dynamics of working in complex environments. In this article, I
+    will examine the delicate interplay between Product Backlog management and
+    the intrinsic nature of complex systems.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-tldr">TLDR;</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>In conclusion, while the allure of hierarchy in the Product Backlog might
+    be tempting, it is imperative to recognize that this may not be the panacea
+    it seems. Complex product development demands a more nuanced approach. This
+    entails acknowledging the fluid nature of complex environments, valuing
+    emergent practices over best practices, and empowering teams to harness
+    their expertise. By doing so, we move towards creating not just successful
+    products but also fostering a culture that is adaptable, innovative, and
+    resilient in the face of complexity.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading"
+    id="h-the-illusion-of-order-the-lure-of-hierarchy">The Illusion of Order:
+    The Lure of Hierarchy</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Hierarchy appeals to the human psyche because it seems to present a sense
+    of order and control, especially in the face of complexity. However, this
+    allure of hierarchy can be deceptive. In practice, hierarchy can introduce
+    rigidity, create barriers to communication, and obfuscate what’s genuinely
+    significant in the Product Backlog.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>In essence, when the Backlog is cluttered with levels of hierarchy, it
+    diminishes its transparency and malleability. It is critical to appreciate
+    that the Product Backlog should generally encompass
+    <strong><em>value</em></strong>. This is not to say we should dispense with
+    additional content that provides context or clarification. Indeed,
+    collateral materials such as wikis can be invaluable in offering insights.
+    However, incorporating these directly into the Product Backlog does not add
+    value and instead restrains the Backlog's fluidity and transparency.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-a-primer-on-complexity">A Primer on
+    Complexity</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>As a side point, engaging in a dialogue about the nature of complexity is
+    imperative whenever the concept of “best practice” is brought up in
+    discussions. Complexity is not just a buzzword; it’s a theoretical framework
+    for understanding how different system components interact. In complex
+    environments, it is impossible to predict outcomes with certainty due to the
+    interdependencies and interactions among the components. This is a far cry
+    from simple or complicated environments, where cause-and-effect
+    relationships can be determined.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:image
+    {"align":"center","id":49516,"width":292,"height":301,"sizeSlug":"full","linkDestination":"none"}
+    -->
+
+    <figure class="wp-block-image aligncenter size-full is-resized"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/06/cynefin-institute-complexity.png"
+    alt="From the Cynefin Institute on https://thecynefin.co/"
+    class="wp-image-49516" width="292" height="301"/></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:group {"layout":{"type":"constrained"}} -->
+
+    <div class="wp-block-group"><!-- wp:paragraph -->
+
+    <p>In simple environments, “best practices” exist because they offer tried
+    and true methods for known problems. However, there are only emergent
+    practices in complex environments where doing the same thing again can often
+    have very different results. These practices cannot be predicted upfront and
+    may only be effective temporarily. The most pragmatic approach in such
+    environments is to start with a hypothesis, experiment, and be prepared to
+    evolve the practice based on feedback and learning.</p>
+
+    <!-- /wp:paragraph --></div>
+
+    <!-- /wp:group -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading"
+    id="h-ghosts-from-the-past-the-work-breakdown-structure">Ghosts from the
+    Past: The Work Breakdown Structure</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>One of the reasons that hierarchy is so enticing is that it has
+    historical roots in the traditional project management approach known as the
+    Work Breakdown Structure (WBS). The WBS is a hierarchical decomposition of
+    the total scope of work to be carried out by the project team. While the WBS
+    was valuable in certain contexts, its hierarchical nature is not conducive
+    to the Agile philosophy, which values responsiveness to change over
+    following a plan.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:image
+    {"align":"center","id":49517,"width":635,"height":360,"sizeSlug":"large","linkDestination":"none"}
+    -->
+
+    <figure class="wp-block-image aligncenter size-large is-resized"><img
+    src="https://nkdagility.com/wp-content/uploads/2023/06/nkdagility-Rethinking-Product-Backlog-hierarchy-1269x720.png"
+    alt="Work Breakdown example" class="wp-image-49517" width="635"
+    height="360"/></figure>
+
+    <!-- /wp:image -->
+
+
+    <!-- wp:quote -->
+
+    <blockquote class="wp-block-quote"><!-- wp:paragraph -->
+
+    <p>A work breakdown structure (WBS) visually organizes project deliverables
+    into different levels based on dependencies. It’s essentially your project
+    plan in a visual form, with your project objective at the top, then
+    dependencies and sub-dependencies below.&nbsp;-Alicia Raeburn, Asana</p>
+
+    <!-- /wp:paragraph --></blockquote>
+
+    <!-- /wp:quote -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Interestingly, the very presence of a hierarchy resembling the WBS within
+    the Product Backlog may lead to individuals subconsciously reverting to old
+    habits. This is not surprising as the human psyche finds comfort in
+    familiarity; there is a tendency to revert to what we know. This, however,
+    is akin to trying to fit a square peg in a round hole, as opposed to
+    rethinking the fundamental paradigm of managing work.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>A simple question to ask yourself when you open an item on your backlog
+    is this:</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:quote -->
+
+    <blockquote class="wp-block-quote"><!-- wp:paragraph -->
+
+    <p>"Does this item from my backlog, on its own, represent some value to the
+    business? Can it be delivered independantly?"</p>
+
+    <!-- /wp:paragraph --></blockquote>
+
+    <!-- /wp:quote -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>If the answer is no, it's not a backlog item but a work
+    task!</strong></p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading" id="h-the-flat-landscape-a-paradigm-shift">The
+    Flat Landscape: A Paradigm Shift</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Instead of obfuscating the Product Backlog with layers of hierarchy,
+    consider streamlining it to encompass just the work pertinent to the
+    team.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>&nbsp;You can still employ tags, wikis, and attachments to provide
+    context. This approach liberates team members to structure the Backlog in a
+    way that makes sense to them and is responsive to the fluid nature of
+    complex product development.&nbsp;</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>I think it's worth highlighting that strategy should inform but not
+    dictate the choices made in organizing the Product Backlog. This is a
+    crucial point. The reason organizations hire skilled individuals is to
+    leverage their expertise and insights. There is a recognition that those
+    closest to the work often have the most meaningful insights into what needs
+    to be done.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading"
+    id="h-complexity-and-cognition-the-human-factor">Complexity and Cognition:
+    The Human Factor</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>In complex product development, human cognition is a significant factor.
+    Individuals and interactions are central to Agile principles. People come
+    with diverse backgrounds, experiences, and perspectives. These differences
+    can be a source of creativity and innovation. By flattening the Product
+    Backlog, we create an environment where the team's cognitive diversity can
+    flourish.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Furthermore, in complex systems, a practice known as sensemaking becomes
+    critical. Sensemaking involves assimilating information, interpreting it,
+    and making informed judgments. A flat Product Backlog supports sensemaking
+    as it reduces cognitive overload and allows individuals to focus on what’s
+    truly important.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading {"level":3} -->
+
+    <h3 class="wp-block-heading"
+    id="h-strategy-and-autonomy-the-balancing-act">Strategy and Autonomy: The
+    Balancing Act</h3>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>The relationship between strategy and the Product Backlog is subtle. The
+    strategy should serve as a compass, providing direction and purpose, helping
+    us orienteer to our destination. However, it should not be a straitjacket.
+    The dynamism of complex environments requires that teams have the autonomy
+    to make decisions and adapt as necessary. There needs to be a balance
+    between strategic alignment and autonomy. This balance is vital for
+    harnessing the collective intelligence and creativity of the team.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Ultimately, the goal is to create a resilient, adaptable ecosystem
+    capable of thriving amidst the uncertainties of complex product development.
+    This involves creating flexible structures, fostering a culture that values
+    learning and adaptation, and equipping teams with the autonomy to make
+    decisions.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong><em>What's in your backlog?</em></strong></p>
+
+    <!-- /wp:paragraph -->
+  - ''
+  post_id: '49515'
+  post_date: '2023-08-17 09:00:00'
+  post_date_gmt: '2023-08-17 09:00:00'
+  post_modified: '2023-11-22 12:12:12'
+  post_modified_gmt: '2023-11-22 12:12:12'
+  comment_status: closed
+  ping_status: open
+  post_name: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.6.0.2
+  - meta_key: _last_editor_used_jetpack
+    meta_value: block-editor
+  - meta_key: _thumbnail_id
+    meta_value: '49518'
+  - meta_key: _wpbitly
+    meta_value: https://nkdagility.net/3NIGHdN
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '7'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: '612'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '60'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '6'
+  - meta_key: _yoast_wpseo_wordproof_timestamp
+    meta_value: ''
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1700655133'
+  - meta_key: ekit_post_views_count
+    meta_value: '1175'
+  - meta_key: _wp_page_template
+    meta_value: default
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44705}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44705-49515/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44704}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44704-49515/}!}
+  - meta_key: _toolset_associations_course-post
+    meta_value: >-
+      {!{http://nakedalmweb.wpengine.com/?post_type=courses&#038;p=10049}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-10049-49515/}!},
+      {!{https://nakedalmstage.wpengine.com/?post_type=courses&#038;p=41711}!} +
+      {!{https://nakedalmstage.wpengine.com/blog/course-post/courses-posts-41711-49515/}!}

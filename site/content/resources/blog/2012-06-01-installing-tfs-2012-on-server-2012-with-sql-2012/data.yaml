@@ -1,0 +1,1092 @@
+post:
+  title: Installing TFS 2012 on Server 2012 with SQL 2012
+  link: >-
+    https://nkdagility.com/blog/installing-tfs-2012-on-server-2012-with-sql-2012/
+  pubDate: Fri, 01 Jun 2012 01:07:55 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=5368
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">I need a TFS environment to use for demos and what better
+    time to do a full upgrade than when we get some nice prizes from Microsoft.
+    Today the Release Candidate for both Windows and for Visual Studio was
+    released to the public. You can download it off the public sites or you can
+    use you MSDN account to get all of the goodies.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image8.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb5.png" alt="image"
+    width="640" height="295" border="0" /></a><br />Figure: MSDN Subscriber
+    Downloads</p>
+
+    <p>My very favourite feature of Windows 8 is the ability for me to run
+    Hyper-V on the client. So all I need is a nice new “Kraken” server to
+    run.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/SNAGHTML1153c0b.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="SNAGHTML1153c0b"
+    src="http://blog.hinshelwood.com/files/2012/05/SNAGHTML1153c0b_thumb.png"
+    alt="SNAGHTML1153c0b" width="640" height="450" border="0" /></a><br
+    />Figure: Running Hyper-V on my Windows 8 laptop (not RC yet)</p>
+
+    <p>You can see my other machines there, and yes; I can run them all at once
+    thanks to my awesome laptop provided by NWC.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/SNAGHTML11c6369.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="SNAGHTML11c6369"
+    src="http://blog.hinshelwood.com/files/2012/05/SNAGHTML11c6369_thumb.png"
+    alt="SNAGHTML11c6369" width="515" height="480" border="0" /></a><br
+    /><strong>Figure: VM’s Galore (with 3 running)</strong></p>
+
+    <p>This allows me to be ready to demo in almost any situation without
+    requiring access to the internet. The only thing I really cant demo is Lab
+    Management and I don’t want to have to cart around a data centre like <a
+    href="http://mcwtech.com/blogs/brianr/" target="_blank">Brian Rendell</a>
+    does.</p>
+
+    <p>I configure all of my VM’s with two network adapters, Public is connected
+    to the internet and Private links all of the VM’s and the Host.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/SNAGHTML139d158.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="SNAGHTML139d158"
+    src="http://blog.hinshelwood.com/files/2012/05/SNAGHTML139d158_thumb.png"
+    alt="SNAGHTML139d158" width="481" height="480" border="0" /></a><br
+    /><strong>Figure: Public is wired to my Internet</strong></p>
+
+    <p>This allows me to connect to my VM’s with an IP address that I already
+    know, versus having to look up the IP that some DHCP gave it.</p>
+
+    <p>I have three stages to this install that will allow me to have a good
+    demo instance:</p>
+
+    <ol>
+
+    <li>Install and Configure Windows Server 2012</li>
+
+    <li>Install and Configure SQL Server 2012</li>
+
+    <li>Install and Configure TFS 2012</li>
+
+    </ol>
+
+    <p>I need to know how long this stuff takes as I have 2 Team Foundation
+    Server 2012 installs next month. Its in high demand and almost every single
+    customer demo of Visual Studio 2012 I have don has resulted in a customer
+    wanting to “Go-Live”. Yes, its that good and that much of an improvement.
+    One of our customers that is going live on the Release Candidate is a large
+    US Manufacturing company with a projected 40k users in TFS. No hints…</p>
+
+    <h3 class="icon-task">Install and Configure Windows Server 2012 (30
+    minutes)</h3>
+
+    <p>As I want to have a demo box that is all singing and dancing I need to
+    have Server 2012. I will be on the road for the next 3 weeks doing demos and
+    I want to blow folks away with all of the new stuff. Server 2012 is not
+    really for demo but more to frame the demos. I have 2 Windows 8 VM’s for
+    client demos, but some server side bells and whistles always go down
+    well.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image9.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb6.png" alt="image"
+    width="640" height="480" border="0" /></a><br />Figure: Currently only
+    Datacenter is available</p>
+
+    <p>Don’t b e afraid of Datacenter, it really just means that it includes all
+    of the features, you don't need to use them all. I will however recommend
+    that you select the GUI mode rather than the Core if this is a demo box. You
+    may only have one box running and it would suck to have to remote into
+    another box just to manage this one. If however you will have many server
+    boxes then the recommended would be to use Core.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image10.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb7.png" alt="image"
+    width="640" height="480" border="0" /></a><br /><strong>Figure: Takes just a
+    few minutes on SSD</strong></p>
+
+    <p>You will likely be familiar with the windows install and it is the same
+    as previous versions, if a little simpler and prettier.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image11.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb8.png" alt="image"
+    width="640" height="480" border="0" /></a><br /><strong>Figure: Log in in no
+    time</strong></p>
+
+    <p>It takes very little time to get to a login , but remember that there are
+    still a few things to do.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image12.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb9.png" alt="image"
+    width="640" height="480" border="0" /></a><br /><strong>Figure: Woooo…
+    new</strong></p>
+
+    <p>It may be a siney new server, but it does not have a name I would like
+    nor can I connect over Remote Desktop. You might be wondering why I want to
+    use RDP! Well, it has to do with configuration. I get way more options and I
+    don’t have to settle for an ugly 4x3 display. I want everything to be a nice
+    HD 16x9 <img class="wlEmoticon wlEmoticon-smile" style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/05/wlEmoticon-smile.png"
+    alt="Smile" />. To achieve that I need to:</p>
+
+    <ol>
+
+    <li><strong>Enable Remote Desktop</strong>
+
+    <p>By default you do not have RDP enabled. It is easy to enable.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image13.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb10.png"
+    alt="image" width="640" height="480" border="0" /></a><br /><strong>Figure:
+    Enable Remote Desktop</strong></p>
+
+    <p>Note: If you are going to connect from a pre Windows 7 computer then you
+    will need to un-tick the “Network Level Authentication” box.</p>
+
+    </li>
+
+    <li><strong>Set an IP Address (no DHCP on Windows 8 client)</strong>
+
+    <p>As I do not run DHCP on my Windows 8 box I need to set the IP, this is
+    the way you want to do it anyway for demo boxes so you remember what to
+    connect to.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image14.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb11.png"
+    alt="image" width="640" height="480" border="0" /></a><br /><strong>Figure:
+    Set a static IP for your Private network</strong></p>
+
+    <p>Note: I cheat and don’t really remember. I put the IP in the name</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image15.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb12.png"
+    alt="image" width="640" height="213" border="0" /></a><br /><strong>Figure:
+    Put the IP in the name</strong></p>
+
+    </li>
+
+    <li><strong>Give my server a real name like “Kraken”</strong>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image16.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb13.png"
+    alt="image" width="640" height="480" border="0" /></a><br /><strong>Figure:
+    New name, then reboot</strong></p>
+
+    </li>
+
+    </ol>
+
+    <p>Now I can access my new server by name or by IP. I tend to use IP as the
+    name can sometimes go awry as it often can with no Active Directory.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image17.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb14.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Sigh, nice HD 128x720 (16x9) screenshots</strong></p>
+
+    <p>DONE – Server 2012 installed and configured</p>
+
+    <h3 class="icon-task">Install and Configure SQL Server 2012 (30
+    minutes)</h3>
+
+    <p>I will be install SQL Server 2012 for this box and just like 2008 you
+    can’t just click an Install button, you have to go through a bunch of menus
+    to get there. Not perfect, but they are trying to prevent the average muppet
+    from messing up their system. I however am and exemplary muppet and can mess
+    it up anyway. As I am in a VM, and this may not go well, My first task is to
+    Snapshot my VM. That way if I mess it up I can always try again without
+    having to completely reinstall.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image18.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb15.png"
+    alt="image" width="640" height="455" border="0" /></a><br /><strong>Figure:
+    Snapshots can save your bacon</strong></p>
+
+    <p>You have probably done an install 100 times for SQL server, so I will
+    just note the differences and any problems.</p>
+
+    <p>SQL 2012 has been out for a couple of months so there must be at least 10
+    Cumulative Updates by now!</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image19.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb16.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    We are installing a stand-alone instance</strong></p>
+
+    <p>The installation for SQL is surprisingly uneventful when I do it, but I
+    find that customers tend to ignore the TFS requirements for SQL and just
+    install it the way they always do it.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image20.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb17.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Pick and Mix</strong></p>
+
+    <p>I want to be able to choose what is installed, and I certainly don’t want
+    everything.&nbsp; And, no, you can’t use SQL Server in Power Pivot for
+    SharePoint mode as it is not currently supported. I had a nice long
+    discussion with <a href="http://blog.nwcadence.com/author/jefflevinson/"
+    target="_blank">Jeff Levinson</a> about this and you certainly don’t want to
+    select that option. I may be Scottish but Jeff can turn the air blue <img
+    class="wlEmoticon wlEmoticon-smile" style="border-style: none;"
+    src="http://blog.hinshelwood.com/files/2012/05/wlEmoticon-smile.png"
+    alt="Smile" /></p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image21.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb18.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Select the features</strong></p>
+
+    <p>As I am creating a server only box I don’t really want any of the client
+    tools for working on this box but I do want the SQL Management tools. I
+    expect to only be logging onto this box to demo server configuration, not
+    client connectivity.</p>
+
+    <p>I should also point out that I am a vanilla kind of guy that believes
+    that there are only two reasons to change the defaults:</p>
+
+    <ol>
+
+    <li>The documentation tells me so</li>
+
+    <li>Long painful experience</li>
+
+    </ol>
+
+    <p>So, here are the small changes to the default configuration that I do
+    specify:</p>
+
+    <ol>
+
+    <li><strong>Change default accounts for Active Directory ones</strong>
+
+    <p>If you are wanting to use Kerberos or you have more than one server in
+    your environment then you need AD Accounts. In this case I am leaving it
+    alone and trusting that they guys that wrote the product kew what they were
+    doing.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image22.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb19.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    If you are part of an AD environment use AD accounts</strong></p>
+
+    <p><em>note: I cant stress this enough: <strong>Never change the collation…
+    ever…<br /></strong></em></p>
+
+    </li>
+
+    <li><strong>Add Administrators or some other group to SQL</strong>
+
+    <p>This is a long painful experience one. Many time I have seen SQL become
+    inaccessible cox and account got changed. Add a group in here…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image23.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb20.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Add permissions to SQL</strong></p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image24.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb21.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Add permissions to Analysis Services</strong></p>
+
+    <p>If you forgot to add permissions go back now and add them in manually.
+    You will kick yourself if you do not.</p>
+
+    </li>
+
+    </ol>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image25.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb22.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    All components installed successfully</strong></p>
+
+    <p>DONE – Install and configure SQL Server 2012</p>
+
+    <p>The very last thing you would do, if everything went well is to remove
+    the snapshot. They take up space and require extra processing and disk
+    access to resolve. Not much you understand, but enough that it make sence to
+    clean up after yourself. The purpose of the snapshot was to get back to a
+    stable OS in SQL failed. It installed just fine, so we are all good.</p>
+
+    <h3 class="icon-task">Install and Configure TFS 2012 (30 minutes)</h3>
+
+    <p>Now the money shot. I need a all singing and dancing TFS 2012
+    installation with Reporting and SharePoint. In order for me to back out
+    again I will perform a snapshot so that I can get back to a good state
+    without having to rebuild.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image26.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb23.png"
+    alt="image" width="640" height="360" border="0" /></a><br />Figure: Run the
+    Install;</p>
+
+    <p>Don’t blink after you click “Install Now” coz you might miss the install.
+    Once it is complete you will be presented with your choice of wizards.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image27.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb24.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    What flavour would you like</strong></p>
+
+    <p>In this case I want a single box that does everything so “Standard Single
+    Server” looks like the best option. In TFS 2010 this installed SQL Express,
+    but it looks like they have improved the experience and I will give it a
+    go.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image28.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb25.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Launching the wizard</strong></p>
+
+    <p>The wizard will lead you through the installation process, but with
+    Standard there are only a few options anyway.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image29.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb26.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Enter the Reporting &amp; SharePoint account</strong></p>
+
+    <p>It is a requirement of both SharePoint and Reporting Services that this
+    be a separate account from the one that they are running under. I just
+    created a local administrator account called “TfsServices” that can be used
+    for anything.</p>
+
+    <p>At this point I ran into “TF400079: The amount of RAM on this computer is
+    not sufficient”. What the heck I have tones of RAM…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image30.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; display:
+    inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb27.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    TF400079 SharePoint… Ahhhhh….</strong></p>
+
+    <blockquote>
+
+    <p><em>TF400079 : The amount of RAM on this computer is not sufficient to
+    support SharePoint 2010 with Team Foundation Server. You must have the
+    following amount of ram available: 4 GB</em></p>
+
+    </blockquote>
+
+    <p>While it is nice that it checking, I have dynamic memory enabled and this
+    server can demand up to 20GB of RAM (that's what I can give it).</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/image31.png"><strong><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb28.png"
+    alt="image" width="640" height="174" border="0" /></strong></a><br
+    /><strong>Figure: Should demand what it wants and windows shall
+    provide!</strong></p>
+
+    <p>I need to shutdown the VM to add more memory so lets do that now. I will
+    try to give it 4 GB of start-up memory and se if that does it. It will still
+    be dynamic, but the OS should report as having 4 GB even if it is only using
+    1 GB. We Will see.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/SNAGHTML19acb80.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;"
+    title="SNAGHTML19acb80"
+    src="http://blog.hinshelwood.com/files/2012/05/SNAGHTML19acb80_thumb.png"
+    alt="SNAGHTML19acb80" width="481" height="480" border="0" /></a><br
+    /><strong>Figure: Add Startup RAM to the required amount.</strong></p>
+
+    <p>Note: Due to SharePoint installing TFS 2010 / TFS 2012 has a minimum 10GB
+    RAM requirement. This goes away with SharePoint. After a reboot we can
+    launch the wizard again.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image32.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb29.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Run the Admin console again</strong></p>
+
+    <p>Did you spot my mistake? There was another error message listed below the
+    RAM one! Did you see it! Well I have it now…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image33.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb30.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    TF400080: SharePoint 2010 can not be installed on Windows 8</strong></p>
+
+    <p>That would be OK if I was running Windows 8, but I happen to be running
+    Server, and after a little goggling, it looks like it was working on he
+    Beta. Hey-ho… lets skip that for now…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image34.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb31.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Validation Checks</strong></p>
+
+    <p>So without SharePoint everything runs smoothly.</p>
+
+    <p>I should point out that all problems either stem from Reporting Services
+    or SharePoint.</p>
+
+    <p>I can install and configure SharePoint later when someone else has gone
+    through the pain of dealing with the SharePoint team.</p>
+
+    <p>I love the TFS team for not letting me screw up my system because some
+    component part has a problem.</p>
+
+    <p>Once the checks are complete you can go ahead and run the configuration
+    for real. Now while I have had it fail at this point, that occurrence is so
+    rare and the resulting issue so complex that I doubte that you will run into
+    anything like that. That said there is Murphys Law and a very wise wizard
+    once said “1 in a million chances happen 9 times out of 10”.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image35.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb32.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    I love green ticks</strong></p>
+
+    <p>Just two checks left… First to make sure that everything is healthy in
+    the Admin…</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image36.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb33.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    TFS Administration Console looks happy</strong></p>
+
+    <p>And second to check out the web UI.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image37.png"><img
+    style="background-image: none; padding-top: 0px; padding-left: 0px; margin:
+    0px; display: inline; padding-right: 0px; border: 0px;" title="image"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb34.png"
+    alt="image" width="640" height="360" border="0" /></a><br /><strong>Figure:
+    Web UI works</strong></p>
+
+    <p>Now you cant create team projects in the '”on-premises” from the portal
+    like you can in TFS Preview, so we will need to wait until I have a client
+    to create one before I can really exercise this puppy. Everything does
+    however look good with no errors…so I am calling it.</p>
+
+    <p>DONE - Install and Configure TFS 2012</p>
+
+    <h3 class="label-conclusion">Conclusion</h3>
+
+    <p>So, no SharePoint on Server 2012. Can’t say I am going to miss it. I have
+    been spending a lot of time on the Team Foundation Service Preview which
+    does not have SharePoint. And you know what. I don’t miss it. I have figured
+    out other less painful ways to store documents (Skydrive, Version Control,
+    SugarSync) that can all be made public, or close to it, which actually makes
+    things easier.</p>
+
+    <blockquote>
+
+    <p>You solve a problem with SharePoint, and now you have two problems.</p>
+
+    </blockquote>
+
+    <p>Good luck with your 2012 deployments, I have a bunch of production
+    upgrades this month (none with Server 2012 as well) so I will keep you
+    posted to any issues or problems.</p>
+
+    <p><em>-Are you deploying or upgrading to tfs 2012? Northwest Cadence has
+    experts ready to help you with all possible configurations. Contact <a
+    href="mailto:info@nwcadence.com">info@nwcadence.com</a></em><em> today to
+    find out how we can help you…</em></p>
+  - >-
+    <p class="lead">I need a TFS environment to use for demos and what better
+    time to do a full upgrade than when we get some nice prizes from Microsoft.
+    Today the Release Candidate for both Windows and for Visual Studio was
+    released to the public. You can download it off the public sites or you can
+    use you MSDN account to get all of the goodies.</p>
+  post_id: '5368'
+  post_date: '2012-05-31 18:07:55'
+  post_date_gmt: '2012-06-01 01:07:55'
+  post_modified: '2012-05-31 18:07:55'
+  post_modified_gmt: '2012-06-01 01:07:55'
+  comment_status: open
+  ping_status: open
+  post_name: installing-tfs-2012-on-server-2012-with-sql-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: tfs 2012
+  - meta_key: _yoast_wpseo_title
+    meta_value: Installing TFS 2012 on Server 2012 with SQL 2012
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Find out how easy it is to installing TFS 2012 on Server 2012 with SQL
+      2012, all problems documented with workarounds.
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: dsq_thread_id
+    meta_value: '710154828'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '81'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBHFAU
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474701084;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10472;}i:1;a:1:{s:2:"id";i:5388;}i:2;a:1:{s:2:"id";i:9907;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2012-05-31-installing-tfs-2012-on-server-2012-with-sql-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1572'
+  comment:
+  - comment_id: '1193'
+    comment_author: >-
+      Installing Visual Studio 2010 on Windows 8 - Visual Studio ALM with Team
+      Foundation Server, Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/installing-visual-studio-2010-on-windows-8/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-05-31 23:05:13'
+    comment_date_gmt: '2012-06-01 06:05:13'
+    comment_content: >-
+      [...] agile and engineering practices will help you provide more value to
+      your customers.             Installing TFS 2012 on Server 2012 with SQL
+      2012       Share &rarr;   (function(d, s, id) { var js, fjs =
+      d.getElementsByTagName(s)[0]; if [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1338530713.99";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1338531156.96";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1194'
+    comment_author: >-
+      Visual Studio 2012 RTM available &amp; installed - Visual Studio ALM with
+      Team Foundation Server, Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/visual-studio-2012-rtm-available-installed/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-08-15 11:23:30'
+    comment_date_gmt: '2012-08-15 18:23:30'
+    comment_content: '[...] Installing TFS 2012 on Server 2012 with SQL 2012 (just for me) [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345055010.34";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345055259.53";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1195'
+    comment_author: Ognyan Dimitrov
+    comment_author_email: ognyandim@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 212.72.197.106
+    comment_date: '2012-10-03 06:44:00'
+    comment_date_gmt: '2012-10-03 13:44:00'
+    comment_content: If anybody hear about the SharePointFoundation step - post a link please.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '669567479'
+  - comment_id: '1196'
+    comment_author: Lex Lee
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 140.142.42.88
+    comment_date: '2012-10-03 13:20:00'
+    comment_date_gmt: '2012-10-03 12:20:00'
+    comment_content: Seems like the problem of installing sharepoint made it to RTM too?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '669875679'
+  - comment_id: '1197'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.226.211.45
+    comment_date: '2012-10-03 13:26:00'
+    comment_date_gmt: '2012-10-03 20:26:00'
+    comment_content: "Lee,\_\n\n\_The above was with the RTM :)\n\_I disagree with the rational, but\_they\_think you should want SharePoint 2013 for Windows 2012 and like it...\n\n-MrHinsh"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1196'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '669875679'
+    - meta_key: dsq_post_id
+      meta_value: '669881252'
+  - comment_id: '1198'
+    comment_author: Installing Visual Studio 2010 on Windows 8 | ALM Mag
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 71.40.109.192
+    comment_date: '2012-11-13 10:15:17'
+    comment_date_gmt: '2012-11-13 10:15:17'
+    comment_content: >-
+      [...]  As I have mentioned before I run all of my heavy weight software in
+      a VM. That is one of the reasons that I love Windows 8… I can run Hyper-V.
+      I want to be able to [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1352830517.66";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:12:"1352847084.9";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1199'
+    comment_author: Installing TFS 2012 on Server 2012 with SQL 2012 | Sasidhar Dhruva
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 66.155.9.54
+    comment_date: '2013-01-04 05:58:41'
+    comment_date_gmt: '2013-01-04 05:58:41'
+    comment_content: >-
+      [...] Referred URL:
+      http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357307921.455541;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357667347.013986;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1200'
+    comment_author: Installing TFS 2012 on Server 2012 with SQL2012 | Sasidhar Dhruva
+    comment_author_email: ''
+    comment_author_url: >-
+      http://sdhruva.wordpress.com/2013/01/08/installing-tfs-2012-on-server-2012-with-sql2012/
+    comment_author_IP: 72.232.113.87
+    comment_date: '2013-01-08 09:17:14'
+    comment_date_gmt: '2013-01-08 17:17:14'
+    comment_content: >-
+      [...] Referred URL:
+      http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357665434.459802;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1357666950.66846;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1201'
+    comment_author: Daniel Stefanescu
+    comment_author_email: daniel.stefanescu@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 81.246.96.74
+    comment_date: '2013-01-29 00:45:00'
+    comment_date_gmt: '2013-01-29 08:45:00'
+    comment_content: Can you share the hardware details of the awesome laptop provided by NWC?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '781702425'
+  - comment_id: '1202'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 131.107.192.48
+    comment_date: '2013-01-29 09:07:00'
+    comment_date_gmt: '2013-01-29 17:07:00'
+    comment_content: >-
+      Dell Precision 4600: Came with QuadCore, 8GB RAM, 1*250GB SSD, 1*750GB
+      HDD.... Added another 16GB RAM (supports 32GB) and a 120GB mSATA SSD.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1201'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '781702425'
+    - meta_key: dsq_post_id
+      meta_value: '782135473'
+  - comment_id: '1203'
+    comment_author: Installing Team Foundation Server (TFS) 2012 | James Serra&#039;s Blog
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.jamesserra.com/archive/2013/02/installing-team-foundation-server-tfs-2012/
+    comment_author_IP: 66.147.244.241
+    comment_date: '2013-02-08 15:08:04'
+    comment_date_gmt: '2013-02-08 23:08:04'
+    comment_content: '[...] Installing TFS 2012 on Server 2012 with SQL 2012 [...]'
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360364884.459547;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1360429724.911087;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1204'
+    comment_author: >-
+      Integrate Team Foundation Server with SharePoint 2013 | Cosmin&#039;s
+      Hooking testify
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 66.155.8.241
+    comment_date: '2013-03-01 00:23:30'
+    comment_date_gmt: '2013-03-01 00:23:30'
+    comment_content: >-
+      [...] that this box already has Windows Server 2012, SQL Server 2012 &amp;
+      Team Foundation Server 2012 as I previously posted about and where I found
+      that SharePoint 2010 is not and would never be [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1362126210.447673;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1362163923.256964;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1205'
+    comment_author: Jürgen
+    comment_author_email: juergen.barth@mbi.de
+    comment_author_url: ''
+    comment_author_IP: 62.157.193.210
+    comment_date: '2013-03-26 07:55:00'
+    comment_date_gmt: '2013-03-26 14:55:00'
+    comment_content: >-
+      As soon as you install SharePoint 2013 on this single Server deployment
+      you are breaking your System State backup.
+
+      No backups anymore!!
+
+
+      Microsoft says: this is by design and wouldn´t be fixed in the future.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '842955909'
+  - comment_id: '1206'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 66.71.229.5
+    comment_date: '2013-03-26 18:12:00'
+    comment_date_gmt: '2013-03-27 01:12:00'
+    comment_content: I am OK with that :) I just back up my databases...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1205'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '842955909'
+    - meta_key: dsq_post_id
+      meta_value: '843494218'
+  - comment_id: '1207'
+    comment_author: dzimmy
+    comment_author_email: dzimmerman@intertech.com
+    comment_author_url: ''
+    comment_author_IP: 66.173.26.254
+    comment_date: '2013-05-02 14:44:00'
+    comment_date_gmt: '2013-05-02 13:44:00'
+    comment_content: >-
+      I really like your "You solve a problem with SharePoint, ..." quote. 
+      Spoken like a true, fellow TFS engineer.  Are you quoting someone or did
+      you pen that little gem?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1197'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '669881252'
+    - meta_key: dsq_post_id
+      meta_value: '882278851'
+  - comment_id: '1208'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 184.78.139.42
+    comment_date: '2013-05-14 17:55:00'
+    comment_date_gmt: '2013-05-14 16:55:00'
+    comment_content: >-
+      Although I remember penning it it may have been something I heard... I
+      think it was in response to @AdamCogan's "The question is irrelevant, the
+      answer is SharePoint..." statement...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1207'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '882278851'
+    - meta_key: dsq_post_id
+      meta_value: '897234283'
+  - comment_id: '1209'
+    comment_author: Engaging with complexity - SharePoint Edition
+    comment_author_email: ''
+    comment_author_url: http://nkdagility.com/engaging-with-complexity-sharepoint-edition/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-07-13 01:18:20'
+    comment_date_gmt: '2013-07-13 00:18:20'
+    comment_content: >-
+      [...] Install SQL Server 2012 SP1 (Step #2 only &amp; use default
+      accounts) [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373674700.124065;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373751346.214519;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2115'
+    comment_author: Rakesh
+    comment_author_email: rakeshtfs2@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 198.102.62.250
+    comment_date: '2014-02-24 21:46:00'
+    comment_date_gmt: '2014-02-24 21:46:00'
+    comment_content: |-
+      Hi Martin
+      I have the following error when trying to configure TFS with share point
+      "SharePoint Foundation 2010 can not be installed on Windows 8." 
+
+
+
+      I am using server 2012, so how to get rid of this error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1258902842'
+  - comment_id: '2116'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 80.149.155.226
+    comment_date: '2014-02-24 21:49:00'
+    comment_date_gmt: '2014-02-24 21:49:00'
+    comment_content: >-
+      You will need to slipstream the latest Service Pack into the installer
+      before you run it. As I understand it SharePoint 2010 with the latest SP
+      supports both Server 2012 and Server 2012 R2. However I have not tried to
+      install SharePoint 2010 on either OS since SharePoint 2013 was released :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2115'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1258902842'
+    - meta_key: dsq_post_id
+      meta_value: '1258907228'
+  - comment_id: '2117'
+    comment_author: Rakesh
+    comment_author_email: rakeshtfs2@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 198.102.62.247
+    comment_date: '2014-02-24 22:08:00'
+    comment_date_gmt: '2014-02-24 22:08:00'
+    comment_content: >-
+      I am trying to integrate share point 2013 with TFS 2012 and the os is
+      server 2012. I am not using sp2010
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2116'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1258907228'
+    - meta_key: dsq_post_id
+      meta_value: '1258932214'
+  - comment_id: '2119'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 109.205.133.202
+    comment_date: '2014-02-25 14:19:00'
+    comment_date_gmt: '2014-02-25 14:19:00'
+    comment_content: >-
+      I am fairly sure that works if you have the latest bits. However you can
+      not install SP2013 on Server 2012 R2 until the next SP for SharePoint is
+      released...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2117'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1258932214'
+    - meta_key: dsq_post_id
+      meta_value: '1259752936'

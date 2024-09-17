@@ -1,0 +1,119 @@
+post:
+  title: Could not load file or assembly while configuring Build vNext Agent
+  link: >-
+    https://nkdagility.com/blog/could-not-load-file-or-assembly-while-configuring-build-vnext-agent/
+  pubDate: Thu, 15 Jan 2015 16:56:46 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11072
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">If you are using Windows Server 2012 R2 to test out the new vNext build agent then you may run into an error where it could not load file or assembly while configuring Build vNext Agent.</p>\r\n<div class=\"bs-callout bs-callout-info\">\r\n<h4>Download Team Foundation Server 2015 today</h4>\r\n<p>Microsoft has released a CTP of TFS 2015 that includes the vNext build system. You can <a href=\"https://www.visualstudio.com/en-us/downloads/visual-studio-2015-ctp-vs\" target=\"_blank\">download TFS 2015</a> and try it out today. Remember that this is <em>not</em> a go-live version and you should <em>not </em>install it in production.</p>\r\n</div>\r\n<p>I have been playing around with the new Build vNext Agent that Microsoft has been developing and I found that I was not able to register the Agent on Windows Server 2012 R2 when I had Visual Studio 2015 Preview installed. Before I installed Visual Studio I had no issues, but once on I got a \"Could not load file or assembly\" when trying to run the registration.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image001.jpg\" alt=\"clip_image001\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>It looks like there is a version mismatch on the DLL.</p>\r\n<pre>Unhandled Exception: System.IO.FileLoadException: Could not load file or assembly 'Microsoft.VisualStudio.Services.Client, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a' or one of its dependencies. Strong name validation failed. (Exception from HRESULT: 0x8013141A) ---> System.Security.SecurityException: Strong name validation failed. (Exception from HRESULT: 0x8013141A)\r\n\r\n--- End of inner exception stack trace ---\r\n\r\nat VsoAgent.Program.Main(String[] args)\r\n\r\nWARNING: UnConfigure agent finish with Error, you can check logs under _diag folder, determine whether you can ignore the error.\r\n</pre>\r\n<p>I am fairly sure that this is a time limited error and once VS 2015 comes out of Preview, or the DLL versions settle down this will not be an issue, however to fix it for now we need to turn of Strong Naming for .NET at the command prompt.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2015/01/clip_image0022.png\" alt=\"clip_image002\" width=\"800\" height=\"450\" border=\"0\" /></p>\r\n<p>You need to run \"sn -Vr *,*\" on the server to disable strong signing. This should only be the case as part of the current preview program. I would expect this issue to go away with the next release, at least on Server 2012 R2.</p>\r\n<p>This is only required when you are running Visual Studio 2015 Preview on the Build vNext Agent.</p>"
+  - >-
+    <p class="lead">If you are using Windows Server 2012 R2 to test out the new
+    vNext build agent then you may run into an error where it could not load
+    file or assembly while configuring Build.vNext Agent.  </p>
+  post_id: '11072'
+  post_date: '2015-01-15 16:56:46'
+  post_date_gmt: '2015-01-15 16:56:46'
+  post_modified: '2015-03-04 12:55:28'
+  post_modified_gmt: '2015-03-04 12:55:28'
+  comment_status: open
+  ping_status: open
+  post_name: could-not-load-file-or-assembly-while-configuring-build-vnext-agent
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1tQqJ4u
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: configuring build.vnext
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '75'
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: dsq_thread_id
+    meta_value: '3423199137'
+  - meta_key: pl-settings
+    meta_value: a:2:{s:4:"live";a:0:{}s:5:"draft";a:0:{}}
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474912396;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11097;}i:1;a:1:{s:2:"id";i:11081;}i:2;a:1:{s:2:"id";i:11021;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2015-01-15-could-not-load-file-or-assembly-while-configuring-build-vnext-agent.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '769'
+  comment:
+    comment_id: '11203'
+    comment_author: Tjeerd-menno
+    comment_author_email: tjeerd.menno@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 83.136.195.130
+    comment_date: '2015-03-04 07:39:00'
+    comment_date_gmt: '2015-03-04 07:39:00'
+    comment_content: >-
+      I'm running into the same error when configuring a Build.vNext agent for
+      the On Premise version of TFS 2015 CTP.
+
+
+      On both a Visual Studio 2013 &amp; Visual Studio 2015 CTP6 VM I'm getting
+      the same error when trying to configure the Agent.  Disabling Strong name
+      verification does not solve the issue in my case.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1886531703'

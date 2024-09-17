@@ -1,0 +1,194 @@
+post:
+  title: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
+  link: >-
+    https://nkdagility.com/blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access/
+  pubDate: Sun, 23 Jun 2013 09:24:09 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9609
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">If you have TFS 2012 Update 2 (2012.2) installed you might get an error after you <a href=\"http://msdn.microsoft.com/en-us/library/ms404883.aspx\" target=\"_blank\">move Team Foundation Server from one environment to another</a> (change domain.)</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/files/2013/06/image38.png\" width=\"800\" height=\"522\" border=\"0\" /><br /><small>Figure: TF30063 you are not authorised to access server</small></p>\n<h2>Applies to</h2>\n<ul>\n<li>Team Foundation Server 2012.2</li>\n</ul>\n<h2>Findings</h2>\n<p>Not only are you unable to change the URL but you are also to edit permissions or in any way connect to TFS even from the server.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"image\" alt=\"image\" src=\"https://nkdagility.com/files/2013/06/image39.png\" width=\"637\" height=\"293\" border=\"0\" /><br /><small>Figure: TF30063 you are not authorised to access localhost</small></p>\n<p>This is not one that I have encountered before and was at a loss to help the customer. I ran the flag up and got a little help from <a href=\"http://blogs.msdn.com/b/granth/\" target=\"_blank\">Grant Holiday</a>. He identified this as a bug…\_</p>\n<h2>Solution</h2>\n<p>&nbsp;</p>\n<p>This bug is fixed in Team Foundation Server 2012.3. 2012.3 is currently\_ at RC2 but it does come with a Go-Live licence meaning that it is fully supported in production. After installing 2012.3 all of the problems went away and the server started functioning normally.</p>\n<p>Woot… yet another reason for 2012.3 and Go-Live…</p>"
+  - >-
+    <p class="lead">If you have TFS 2012 Update 2 (2012.2) installed you might
+    get an error after you <a
+    href="http://msdn.microsoft.com/en-us/library/ms404883.aspx"
+    target="_blank">move Team Foundation Server from one environment to
+    another</a> (change domain.)</p>
+  post_id: '9910'
+  post_date: '2013-06-23 10:24:09'
+  post_date_gmt: '2013-06-23 09:24:09'
+  post_modified: '2013-06-23 10:24:09'
+  post_modified_gmt: '2013-06-23 09:24:09'
+  comment_status: open
+  ping_status: open
+  post_name: issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '59'
+  - meta_key: _thumbnail_id
+    meta_value: '7145'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF30063
+  - meta_key: _yoast_wpseo_title
+    meta_value: TFS2012.2 Issue - TF30063:You are not authorized to access
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      If you have TFS 2012 Update 2 (2012.2) installed you might get an error
+      after you move Team Foundation Server from one environment to another
+      (change domain.)
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1426076818'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":17:{s:3:"_id";s:24:"51c6bec982468c440400008d";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371979465;s:3:"day";s:5:"Today";s:6:"due_at";i:1371985800;s:8:"due_time";s:8:"12:10
+      pm";s:2:"id";s:24:"51c6bec982468c440400008d";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:100:"New
+      Post: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
+      http://buff.ly/15v0fm9 #vsalm";s:14:"text_formatted";s:315:"New Post:
+      Issue [ TFS2012.2 ] TF30063 You are not authorized to access <a
+      class="url" href="http://buff.ly/15v0fm9" rel="external nofollow"
+      target="_blank">http://buff.ly/15v0fm9</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371979465;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":18:{s:3:"_id";s:24:"51c6bec982468c440400008e";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371979465;s:3:"day";s:5:"Today";s:6:"due_at";i:1372032360;s:8:"due_time";s:7:"6:06
+      pm";s:2:"id";s:24:"51c6bec982468c440400008e";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:79:"http://nkdagility.com/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access/";s:11:"description";s:158:"If
+      you have TFS 2012 Update 2 (2012.2) installed you might get an error after
+      you move Team Foundation Server from one environment to another (change
+      domain.)";s:5:"title";s:58:"TFS2012.2 Issue - TF30063:You are not
+      authorized to
+      access";s:4:"link";s:79:"http://nkdagility.com/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access/";s:7:"preview";s:105:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/08/puzzle-issue-problem-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:100:"New
+      Post: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
+      http://buff.ly/15v0duB #vsalm";s:14:"text_formatted";s:315:"New Post:
+      Issue [ TFS2012.2 ] TF30063 You are not authorized to access <a
+      class="url" href="http://buff.ly/15v0duB" rel="external nofollow"
+      target="_blank">http://buff.ly/15v0duB</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371979465;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":18:{s:3:"_id";s:24:"51c6bec982468c440400008f";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1371979465;s:3:"day";s:5:"Today";s:6:"due_at";i:1371980940;s:8:"due_time";s:8:"10:49
+      am";s:2:"id";s:24:"51c6bec982468c440400008f";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:79:"http://nkdagility.com/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access/";s:11:"description";s:158:"If
+      you have TFS 2012 Update 2 (2012.2) installed you might get an error after
+      you move Team Foundation Server from one environment to another (change
+      domain.)";s:5:"title";s:58:"TFS2012.2 Issue - TF30063:You are not
+      authorized to
+      access";s:4:"link";s:79:"http://nkdagility.com/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access/";s:7:"preview";s:105:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/08/puzzle-issue-problem-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:100:"New
+      Post: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
+      http://buff.ly/15v0fmd #vsalm";s:14:"text_formatted";s:315:"New Post:
+      Issue [ TFS2012.2 ] TF30063 You are not authorized to access <a
+      class="url" href="http://buff.ly/15v0fmd" rel="external nofollow"
+      target="_blank">http://buff.ly/15v0fmd</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:4:"type";s:4:"link";s:10:"updated_at";i:1371979465;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:10;s:12:"buffer_count";i:1;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3eHpZ
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474845115;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9907;}i:1;a:1:{s:2:"id";i:9917;}i:2;a:1:{s:2:"id";i:5;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-06-23-issue-tfs2012-2-tf30063-you-are-not-authorized-to-access.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '506'
+  comment:
+  - comment_id: '11678'
+    comment_author: Marcus
+    comment_author_email: marcusskt@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 189.6.238.22
+    comment_date: '2015-04-02 14:13:00'
+    comment_date_gmt: '2015-04-02 13:13:00'
+    comment_content: >-
+      Hi! I'm facing exactly same issue, but with TFS 2013.4. I was running TFS
+      2013 and I decided to do the upgrade to 2013.4 and now anyone can connect
+      to server on company! Do you have any idea about could be wrong? Thanks in
+      advance, Marcus.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1941781866'
+  - comment_id: '11679'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 82.12.112.139
+    comment_date: '2015-04-02 14:16:00'
+    comment_date_gmt: '2015-04-02 13:16:00'
+    comment_content: >-
+      If you have not changed anything else then you need to raise a support
+      ticket with Microsoft! I have a call in an hour, but if you add me to Lync
+      or Skype at martin [at] nakedalmweb.wpengine.com I can take a look....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11678'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1941781866'
+    - meta_key: dsq_post_id
+      meta_value: '1941787193'
+  - comment_id: '11680'
+    comment_author: Marcus
+    comment_author_email: marcusskt@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 189.6.238.22
+    comment_date: '2015-04-02 14:49:00'
+    comment_date_gmt: '2015-04-02 13:49:00'
+    comment_content: >-
+      Hi Martin! Thank you by your attention. I just solved the problem. The
+      problem was the IIS Authentication methods. For some reason, during the
+      updating process these settings were changed. I restored to TFS default
+      values (Basic Authentication on root site and Windows Auth on /tfs virtual
+      directory) and now it's working again.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11679'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1941787193'
+    - meta_key: dsq_post_id
+      meta_value: '1941839837'

@@ -1,0 +1,66 @@
+post:
+  title: >-
+    Finding the problem on a partially succeeded build on Team Foundation Build
+    Services 2010
+  link: >-
+    https://nkdagility.com/blog/finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010/
+  pubDate: Thu, 04 Mar 2010 17:48:28 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/03/04/finding-the-problem-on-a-partially-succeeded-build.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Now that I have the Build failing because of a genuine bug and not just because of a test framework failure, lets see if we can trace through to finding why the first test in our new application failed. Lets look at the build and see if we can see why there is a red cross on it.</p>\n<p>First, lets open that build list. On Team Explorer Expand your Team Project Collection | Team Project and then Builds. Double click the offending build.</p>\n<p><img border=\"0\" alt=\"image\" width=\"332\" height=\"297\" style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Findingtheproblemonapartiallysucceededbu_D7AC-image_9782ea02-6156-4083-98b9-aea3da68b129.png\" /> <br />\nFigure: Opening the Build list is a key way to see what the current state of your software is.</p>\n<p>\_<img border=\"0\" alt=\"image\" width=\"804\" height=\"823\" style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Findingtheproblemonapartiallysucceededbu_D7AC-image_72b19741-37ed-4082-838d-aae5de3cad6d.png\" /> <br />\n<strong>Figure: A test is failing, but we can now view the Test Results to find the problem</strong></p>\n<p>\_</p>\n<p><img border=\"0\" alt=\"image\" width=\"804\" height=\"552\" style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Findingtheproblemonapartiallysucceededbu_D7AC-image_dc299ca6-b5c8-4074-9f5b-cfde43d542cb.png\" />\_\_ <br />\n<strong>Figure: You can quite clearly see that the test has failed with “The device is not ready”.</strong></p>\n<p>To me the “The Device is not ready” smacks of a System.IO exception, but it passed on my local computer, so why not on the build server?</p>\n<p>Its a FaultException so it is most likely coming from the Service and not the client, so lets take a look at the client method that the test is calling:</p>\n<pre>\nbool IProfileService.SaveDefaultProjectFile(string strComputerName)\n{            \n    ProjectFile file = new ProjectFile()\n    {\n        ProjectFileName = strComputerName + \"_\" + System.DateTime.Now.ToString(\"yyyyMMddhhmmsss\") + \".xml\",\n        ConnectionString = \"persist security info=False; pooling=False; data source=(local); application name=SSW.SQLDeploy.vshost.exe; integrated security=SSPI; initial catalog=SSWSQLDeployNorthwindSample\",\n        DateCreated = System.DateTime.Now,\n        DateUpdated = System.DateTime.Now,\n        FolderPath = @\"C:Program FilesSSW SQL DeploySampleData\",\n        IsComplete=false,\n        Version = \"1.3\",\n        NewDatabase = true,\n        TimeOut = 5,\n        TurnOnMSDE = false,\n        Mode=\"AutomaticMode\"\n    };\n\n    string strFolderPath = \"D:\"; //LocalSettings.ProjectFileBasePath;\n    string strFileName = strFolderPath + file.ProjectFileName;\n\n    try\n    {\n        using (FileStream fs = new FileStream(strFileName, FileMode.Create))\n        {\n            DataContractSerializer serializer = new DataContractSerializer(typeof(ProjectFile));\n            using (XmlDictionaryWriter writer = XmlDictionaryWriter.CreateTextWriter(fs))\n            {\n                serializer.WriteObject(writer, file);\n            }\n        }\n    }\n    catch (Exception ex)\n    { \n        //TODO: Log the exception\n        throw ex;\n        return false;\n    }\n\n    return true;\n}</pre>\n<p>\_</p>\n<p>\_</p>\n<p>\_</p>\n<p><strong>Figure: You can see on lines 9 and 18 that there are calls being made to specific folders and disks.</strong></p>\n<p>What is wrong with this code? What assumptions mistakes could the developer have made to make this look OK:</p>\n<ol>\n    <li>That every install would be to “C:Program FilesSSW SQL Deploy”</li>\n    <li>That every computer would have a “D:”</li>\n    <li>That checking in code at 6pm because the had to go home was a good idea.</li>\n</ol>\n<p>lets solve each of these problems:</p>\n<ol>\n    <li>We are in a web service… lets store data within the web root. So we can call “Server.MapPath(“~/App_Data/SSW SQL DeploySampleData”) instead.</li>\n    <li>Never reference an explicit path. If you need some storage for your application use IsolatedStorage.</li>\n    <li>Shelve your code instead.</li>\n</ol>\n<p>What else could have been done?</p>\n<ol>\n    <li>Code review before check-in – The developer should have shelved their code and asked another dev to look at it.</li>\n    <li>Use Defensive programming – Make sure that any code that has the possibility of failing has checks.</li>\n</ol>\n<p><strong>Any more options?</strong></p>\n<p><em>Let me know and I will add them.</em></p>\n<h3>What do we do?</h3>\n<p>The correct things to do is to add a Bug to the backlog, but as this is probably going to be fixed in sprint, I will add it directly to the sprint backlog.</p>\n<ol>\n    <li>Right click on the failing test Select “Create Work Item | Bug” <br />\n    <img border=\"0\" alt=\"image\" width=\"804\" height=\"303\" style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Findingtheproblemonapartiallysucceededbu_D7AC-image_0f35db5c-de04-482c-ae8d-9161572daa69.png\" /> <br />\n    <strong>Figure: Create an associated bug to add to the backlog.</strong> <br />\n    \_</li>\n    <li>Set the values for the Bug making sure that it goes into the right sprint and Area. Make your steps to reproduce as explicit as possible, but “See test” is valid under these circumstances. <br />\n    \_<img border=\"0\" alt=\"image\" width=\"804\" height=\"382\" style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Findingtheproblemonapartiallysucceededbu_D7AC-image_1d5fea11-05ac-4d1a-976f-adf24b82f94e.png\" /> <br />\n    Figure: Add it to the correct Area and set the Iteration to the Area name or the Sprint if you think it will be fixed in Sprint and make sure you bring it up at the next Scrum Meeting. <br />\n    Note: make sure you leave the “Assigned To” field blank as in Scrum team members sign up for work, you do not give it to them. The developer who broke the test will most likely either sign up for the bug, or say that they are stuck and need help. <br />\n    Note: Visual Studio has taken care of associating the failing test with the Bug. <br />\n    \_</li>\n    <li>Save… <br />\n    \_</li>\n</ol>\n\n<hr />\n<h2>Need Help?</h2>\n<p><img border=\"0\" alt=\"www.SSW.com.au\" align=\"left\" width=\"39\" height=\"39\" style=\"border-right-width: 0px;margin: 0px 20px 0px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-5366-o_SSWLogo.png\" /></p>\n<p><a target=\"_blank\" href=\"http://www.ssw.com.au\">SSW</a> was the first company in the world outside of Microsoft to deploy Visual Studio 2010 Team Foundation Server to production, not <a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx\">once</a>, but <a target=\"_blank\" href=\"http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx\">twice</a>.</p>\n<h3>Team Foundation Server</h3>\n<p><img border=\"0\" alt=\"Visual Studi2010 ALM\" align=\"left\" width=\"94\" height=\"37\" style=\"border-right-width: 0px;margin: 0px 10px 10px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-5366-o_vs2010logo.png\" /> SSW provides expert Visual Studio ALM guidance including <a target=\"_blank\" href=\"http://www.ssw.com.au/ssw/Company/SourceControl.aspx\">installation, configuration and customisation</a> through our four Microsoft Visual Studio ALM MVP’s in three countries; Australia, Beijing and the UK. They have experience deploying to small development shops all the way through to large blue chips.</p>\n<h3>Professional Scrum Developer Training</h3>\n<p><img border=\"0\" alt=\"Professional Scrum Developer Training\" align=\"left\" width=\"135\" height=\"61\" style=\"border-right-width: 0px;margin: 0px 10px 0px 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" src=\"http://www.scrum.org/storage/PSD%20Announcement%20Graphic.jpg\" /> SSW has six <a target=\"_blank\" href=\"http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx\">Professional Scrum Developer Trainers</a> who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/TFBS\" rel=\"tag\">TFBS</a>\_<a href=\"http://technorati.com/tags/Design\" rel=\"tag\">Design</a>\_<a href=\"http://technorati.com/tags/Developing\" rel=\"tag\">Developing</a>\_<a href=\"http://technorati.com/tags/Testing\" rel=\"tag\">Testing</a>\_<a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/WCF\" rel=\"tag\">WCF</a>\_<a href=\"http://technorati.com/tags/SSW\" rel=\"tag\">SSW</a>\_<a href=\"http://technorati.com/tags/Scrum\" rel=\"tag\">Scrum</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '66'
+  post_date: '2010-03-04 17:48:28'
+  post_date_gmt: '2010-03-04 17:48:28'
+  post_modified: '2010-03-04 17:48:28'
+  post_modified_gmt: '2010-03-04 17:48:28'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311895308'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLhjuW
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474656978;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:59;}i:1;a:1:{s:2:"id";i:10990;}i:2;a:1:{s:2:"id";i:5496;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2010-03-04-finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '581'

@@ -1,0 +1,182 @@
+post:
+  title: Fail a build if tests fail
+  link: https://nkdagility.com/blog/fail-a-build-if-tests-fail/
+  pubDate: Fri, 01 May 2009 11:11:37 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/05/01/fail-a-build-if-tests-fail.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>It took me longer than I thought it would to find this, but is you are using TFS2008 and you want builds to fail if any of the tests fail then you can add the following to the tests properties group in your build project (TFSBuild.prof)</p>  <pre>&lt;PropertyGroup&gt;\n  &lt;!-- TEST ARGUMENTS\n   If the RunTest property is set to true, then particular tests within a\n   metadata file or test container may be specified here.  This is\n   equivalent to the /test switch on mstest.exe.\n\n   &lt;TestNames&gt;BVT;HighPriority&lt;/TestNames&gt;\n  --&gt;\n  &lt;TreatTestFailureAsBuildFailure&gt;true&lt;/TreatTestFailureAsBuildFailure&gt;\n&lt;/PropertyGroup&gt;</pre>\n\n<p>\_</p>\n\n<p>Very handy…</p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/TFBS\" rel=\"tag\">TFBS</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS+2008\" rel=\"tag\">TFS 2008</a>\_</div>"
+  - ''
+  post_id: '127'
+  post_date: '2009-05-01 11:11:37'
+  post_date_gmt: '2009-05-01 11:11:37'
+  post_modified: '2009-05-01 11:11:37'
+  post_modified_gmt: '2009-05-01 11:11:37'
+  comment_status: open
+  ping_status: open
+  post_name: fail-a-build-if-tests-fail
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602365'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3lRun
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473307649;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10579;}i:1;a:1:{s:2:"id";i:8949;}i:2;a:1:{s:2:"id";i:68;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-05-01-fail-a-build-if-tests-fail.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '538'
+  comment:
+  - comment_id: '483'
+    comment_author: Mike Eshva
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-06-01 21:35:31'
+    comment_date_gmt: '2009-06-01 21:35:31'
+    comment_content: >-
+      This property actually doesn't work.<br /><br />From
+      http://support.teamprise.com/viewtopic.php?f=8&amp;p=1309<br /><br />The
+      TreatTestFailureAsBuildFailure property that was introduced in SP1 does
+      not work for reasons that I am currently tracking down with Microsoft.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970440'
+  - comment_id: '484'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-06-01 22:43:08'
+    comment_date_gmt: '2009-06-01 22:43:08'
+    comment_content: >-
+      Works fine if you are using VSTT to do your testing :). But I see from
+      your link that there are some bugs around using it with JUnit tests...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970442'
+  - comment_id: '485'
+    comment_author: Eshva
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-06-01 23:56:38'
+    comment_date_gmt: '2009-06-01 23:56:38'
+    comment_content: >-
+      I use the full version (VS Team System 2008 SP1) on workstation and build
+      server. It includes Test component. My unit test are written for MSTest.
+      JUnit uses somebody else :)<br />I tried to put this property into test
+      arguments properties section and just under RunCodeAnalysis tag
+      (http://dotnet.org.za/willy/archive/2008/08/19/vsts-tfs2008-service-pack-1-nugget-4-team-build-enhancements.aspx).
+      But in both cases it didn't the job. Build goes Partialy Complited.<br
+      /><br />I repeat Martin's cite: The TreatTestFailureAsBuildFailure
+      property that was introduced in SP1 does not work for reasons that I am
+      currently tracking down with Microsoft.<br /><br />Notice, he will track
+      it down with Microsoft not somebody who has wrote JUnit.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970443'
+  - comment_id: '486'
+    comment_author: Martin Woodward
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-06-05 11:28:10'
+    comment_date_gmt: '2009-06-05 11:28:10'
+    comment_content: >-
+      Just to clarify, Martin H is correct. The TreatTestFailureAsBuildFailure
+      property works great if you have SP1 installed on your build agent.  The
+      problem I was talking about was when running a unit testing mechanism
+      other than the built in MSTest framework, in my instance the JUnit test
+      framework.<br /><br />In theory, the TreatTestFailureAsBuildFailure
+      property should make it so that when any build has finished, if the build
+      has been marked with Tests Failing, but with a successful compilation it
+      will mark the build as failed when the property is set to true.  However,
+      this only appears to work if the thing setting the test failed property on
+      the build detail is the Team Build logger - not any other code executed
+      inside the TFSBuild.proj file.<br /><br />I have sent my analysis off to
+      the Team Build team at Microsoft, and I am waiting a response back. 
+      However this is a non critical issues as it only affects people not using
+      the built in test framework, and there is a workaround anyway (which I
+      give in that support post).<br /><br />Hope that helps - sorry for the
+      confusion.<br /><br />Martin Woodward.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970445'
+  - comment_id: '487'
+    comment_author: HGH For Sale
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-01 04:33:25'
+    comment_date_gmt: '2009-12-01 04:33:25'
+    comment_content: >-
+      I am from Guyana and too bad know English, give true I wrote the following
+      sentence: "And we all heard the stories - international tickets from."<br
+      />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970446'

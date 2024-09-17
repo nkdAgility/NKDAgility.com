@@ -1,0 +1,349 @@
+post:
+  title: >-
+    How might we implement the Change Iteration Automation for the Tfs
+    Automation Platform
+  link: >-
+    https://nkdagility.com/blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform/
+  pubDate: Wed, 01 Jun 2011 06:09:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=3383
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><a
+    href="http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; float: left; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="Turk-Automaton" border="0" alt="Turk-Automaton" align="left"
+    src="http://blog.hinshelwood.com/files/2011/06/Turk-Automaton_thumb.gif"
+    width="100" height="112" /></a></p>  <p>As we get organised to start
+    development on the Tfs Automation Platform there is the need to do in-depth
+    investigations into the way things are going to work.</p>  <blockquote>  
+    <p>“Epic 1: As Dave or Gary I want WIQL queries to be automatically updated
+    when I move from iteration to iteration+1 or sprint to sprint+1”</p>
+    </blockquote>  <br clear="all" />  <h2>Updates (<font color="#9b00d3">in
+    purple</font>)</h2>  <ul>   <li><strong>2011-06-10 - <a
+    href="http://mikefourie.wordpress.com/">Michael Ockie Fourie</a></strong> –
+    Although Mike called these out as “a few random thoughts” I think that they
+    are still things that need answered around capacity planning and
+    resilience.</li> </ul>  <p><span style="color: #ff0000"><em><span
+    style="color: #ff0000"><em>note: This product is still under development and
+    this document is subject to change. There is also the strong possibility
+    that these are just rambling fantasies of a mad programmer with an architect
+    complex.</em></span></em></span></p>  <hr />  <p>This story revolves around
+    on of the most common iteration issues. When I progress from working on
+    “[Team Project]R1Sprint 1” to working on “[Team Project]R1Sprint 2” I have
+    to go through all of the queries that I created in the “Current Iteration”
+    folder and update each of the Queries to reflect the new Sprint.</p>  <p><a
+    href="http://blog.hinshelwood.com/files/2011/05/image27.png"><img
+    style="background-image: none; border-right-width: 0px; margin: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top-width:
+    0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/05/image_thumb20.png"
+    width="580" height="550" /></a>     <br /><strong>Figure: All the “Current
+    Sprint” queries need changed</strong></p>  <p>Although in this example there
+    are only 6 queries I have worked with teams that have many many queries in
+    this list. I have worked with still more teams that keep creating “Sprint
+    [X]” folders and duplicating queries, but that tis another storey.</p> 
+    <p>If there are many queries (15+) it may take more than a minute to edit
+    them. That is enough time for a user doing this manually to get distracted
+    and forget where they are in the list. Not good… on top of that this job is
+    just plain boring and is what computers were made to do.</p>  <blockquote>  
+    <p>Is it not possible to just run a sql script which does this?     <br
+    />-<a href="http://mikefourie.wordpress.com/">Michael Ockie Fourie</a></p>
+    </blockquote>  <p><font color="#9b00d3">Any use of SQL against the TFS
+    Database would result in your TFS database being in an unserviceable state.
+    Even the Integration Platform is not allowed to do any database work <img
+    style="border-bottom-style: none; border-left-style: none; border-top-style:
+    none; border-right-style: none" class="wlEmoticon wlEmoticon-smile"
+    alt="Smile"
+    src="http://blog.hinshelwood.com/files/2011/06/wlEmoticon-smile.png"
+    /></font></p>  <p>Enter the TFS Automation Platform and one of the core
+    automations of the TFS Iteration Automation project. What we need is a
+    “Change Iteration” option on the menu of Team Explorer…</p>  <p><a
+    href="http://blog.hinshelwood.com/files/2011/05/image29.png"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/05/image_thumb21.png"
+    width="604" height="377" /></a>     <br /><strong>Figure: Changing the
+    Iteration should be obvious and easy</strong></p>  <p>I can now only
+    apologise for my diagrams <img style="border-bottom-style: none;
+    border-left-style: none; border-top-style: none; border-right-style: none"
+    class="wlEmoticon wlEmoticon-smile" alt="Smile"
+    src="http://blog.hinshelwood.com/files/2011/05/wlEmoticon-smile1.png" /> I
+    am not the best drawer. There will likely be some sort of configuration
+    screen where you can select options for enabling this Automation. For
+    example, are you using Area’s as sub projects? If you are then a whole new
+    dimension opens up for having multiple nested queries.</p>  <p>You would
+    also need to be able to select, for each of your Projects (wither they be
+    Team Projects or Area Projects) which folder to use as your “Current Sprint”
+    folder so the system knows which queries to change.</p>  <p><a
+    href="http://blog.hinshelwood.com/files/2011/05/image30.png"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/05/image_thumb22.png"
+    width="483" height="307" /></a>     <br /><strong>Figure: Setting the new
+    values for Current Iteration</strong></p>  <p>When the user selects the
+    “Change” option the application will queue the
+    TfsAutomation.Iteration.ChangeIterationJob on the TFS Job Service for
+    execution. </p>  <blockquote>   <p>What sort of processing times are we
+    looking at for these queued jobs to be executed?     <br />-<a
+    href="http://mikefourie.wordpress.com/">Michael Ockie Fourie</a></p>
+    </blockquote>  <p><font color="#9b00d3">I would expect the job to start
+    almost instantly, but it would depend on the server load. I certainly would
+    not expect this job to take any longer than a few seconds to run with
+    minimal lag.</font></p>  <p>This will provide some level of resilience in
+    case of the server being restarted during the process. </p>  <blockquote>  
+    <p>Is this a realistic concern? I’m guessing our automation will run in &lt;
+    10seconds. TFS uptime should be 99% + in organisations     <br />-<a
+    href="http://mikefourie.wordpress.com/">Michael Ockie Fourie</a></p>
+    </blockquote>  <p><font color="#9b00d3">Although it is not likely for this
+    type of collision to happen for this to happen and for this automation it
+    would not really matter, there will be other automation where it will. We
+    need to be consistent in our deployment and implementation between
+    Automations in order to be able to automatically deploy and manage
+    effectively.</font></p>  <p>It will also provide an easy way to protect
+    ourselves from 2 users trying to achieve the same task at the same time.
+    </p>  <blockquote>   <p>Is this a realistic concern? Even in large
+    organisations, how many people would (and have permission) to change the
+    active iterations for example     <br />-<a
+    href="http://mikefourie.wordpress.com/">Michael Ockie Fourie</a></p>
+    </blockquote>  <p><font color="#9b00d3">Only likely to be “Project
+    Administrator”, but if there were 1000 projects… So for this automation I
+    agree, not likely, and how much of a big deal is it anyway. I can however
+    imagine occupancies where is does matter.</font></p>  <p>We can check to see
+    if the Job is already running before starting it and prevent another from
+    starting.</p>  <blockquote>   <p>I fear over complexity here. What am I
+    missing     <br />-<a href="http://mikefourie.wordpress.com/">Michael Ockie
+    Fourie</a></p> </blockquote>  <p><font color="#9b00d3">This particular
+    automation is a very short run thing, but there may be others that take much
+    longer to run. I may want to add rollup to my process template, send emails
+    to everyone that has something checked out for longer than 5 days or delete
+    all workspaces that have not been accessed in 3 months. There are many
+    things that could take time and the Platform needs to be considerate of
+    that. </font></p>  <p>This process will be a welcome first addition to the
+    TFS Automation Platform and it looks like it is going to exercise at least
+    the UI, Configuration and TFS Job Service sections that we plan on
+    building.</p>  <p>I am really looking forward to getting started on
+    this…</p>
+  - ''
+  post_id: '3383'
+  post_date: '2011-06-01 06:09:00'
+  post_date_gmt: '2011-06-01 06:09:00'
+  post_modified: '2011-06-01 06:09:00'
+  post_modified_gmt: '2011-06-01 06:09:00'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '319185535'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: robotsmeta
+    meta_value: index,follow
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3tcKj
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474188678;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3373;}i:1;a:1:{s:2:"id";i:3641;}i:2;a:1:{s:2:"id";i:3361;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-06-01-how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '666'
+  comment:
+  - comment_id: '1000'
+    comment_author: Håkan Forss
+    comment_author_email: hakan_forss@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-01 11:14:00'
+    comment_date_gmt: '2011-06-01 11:14:00'
+    comment_content: >-
+      I love the
+
+      concept of a Tfs Automation Platform. Please let me know if I can help in
+      any
+
+      way.
+
+
+
+      When
+
+      connecting to the TFS Client API you can provide a set of keys and values
+      that
+
+      later can be used in the queries like:
+
+
+
+      @me = My
+
+      username
+
+
+
+      @project =
+
+      The current project
+
+
+
+      Could you
+
+      not add to that list so you can use @currentIteration in your query
+      instead?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '215371854'
+  - comment_id: '1001'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-06-01 14:41:00'
+    comment_date_gmt: '2011-06-01 14:41:00'
+    comment_content: "It is not\_possible\_to do that at the moment, but it is a fantastic idea that would\_produce\_an I ideal solution in this instacne.\_\n\nThe Tfs Automation Platform is about more than current\_iteration\_however. Its goal is to provide a framework that will alow any type of automation to be created.\n\nWhat about:\n\n-Email when anyone is assigned a work item\n-Fix queries when you rename an Iteration or Area\n-Email users who have code checked out for longer than [x] days and un-checkout after [y] days\n-etc.\n\nhttp://blog.hinshelwood.com/what-is-the-tfs-automation-platform/"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1000'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '215371854'
+    - meta_key: dsq_post_id
+      meta_value: '215452888'
+  - comment_id: '1002'
+    comment_author: Håkan Forss
+    comment_author_email: hakan_forss@hotmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-03 22:17:00'
+    comment_date_gmt: '2011-06-03 22:17:00'
+    comment_content: >-
+      I haven’t
+
+      worked on extending Visual Studio yet but why is it not possible to do? Is
+      VS
+
+      not exposing that as an extension point?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1001'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '215452888'
+    - meta_key: dsq_post_id
+      meta_value: '217633913'
+  - comment_id: '1003'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-06-04 16:48:00'
+    comment_date_gmt: '2011-06-04 16:48:00'
+    comment_content: "Although I would love it if it was you are correct that it is not\_currently\_exposed as an endpoint. Another extension of the same vain that would be\_useful\_would be the ability to do calculations or ass \"functions\" to WIQL.\_\n\nWhat you are\_suggesting\_would be\_spoiled\_if your were connected to the API, but you would not be able to make it available on the client."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1002'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '217633913'
+    - meta_key: dsq_post_id
+      meta_value: '218224742'
+  - comment_id: '1004'
+    comment_author: >-
+      TOC: TFS Iteration Automation Blog Posts and Reference Sites -
+      Willy&#039;s Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/07/toc-tfs-iteration-automation-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.55.57.17
+    comment_date: '2011-06-07 12:28:44'
+    comment_date_gmt: '2011-06-07 19:28:44'
+    comment_content: >-
+      [...] Part 3: How might we implement the Change Iteration Automation 
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1307483249.4404";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1005'
+    comment_author: August 1, 2011 &ndash; Learn TFS Daily | Learn TFS
+    comment_author_email: ''
+    comment_author_url: http://learntfs.com/2011/08/01/august-1-2011-learn-tfs-daily/
+    comment_author_IP: 173.201.196.92
+    comment_date: '2011-08-01 05:16:45'
+    comment_date_gmt: '2011-08-01 12:16:45'
+    comment_content: >-
+      [...] How Might We Implement the Change Iteration Automation for the TFS
+      Automation Platform from Martin Hinshelwood Probably the single most
+      wanted feature in the TFS Automation Platform is the ability to automate
+      the creation of new iterations and the associated queries and reports that
+      go along with it. In this post, Martin investigates how this might be
+      implemented. It’s also a good exploration into examining requirements and
+      designing potential solutions.   This post authored by Trent Nix Read more
+      from Blog         Click here to cancel reply. [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1312293994.2532";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

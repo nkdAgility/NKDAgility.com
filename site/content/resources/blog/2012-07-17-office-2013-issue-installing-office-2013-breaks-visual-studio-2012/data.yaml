@@ -1,0 +1,452 @@
+post:
+  title: 'Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012'
+  link: >-
+    https://nkdagility.com/blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012/
+  pubDate: Tue, 17 Jul 2012 21:16:22 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=6288
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>After installing Office 2013 on a machine with Visual Studio 2012 you get
+    a “The procedure entry point _Atomic_fetch_sub_4 could not be located in the
+    dynamic link library c:Program Files (x86)Microsoft Visual Studio
+    11.0Common7IDEdevenv.exe” error when trying to load Visual Studio 2012.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/07/clip_image001.png"><img
+    title="clip_image001" style="border-top: 0px; border-right: 0px;
+    background-image: none; border-bottom: 0px; padding-top: 0px; padding-left:
+    0px; border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="clip_image001"
+    src="http://blog.hinshelwood.com/files/2012/07/clip_image001_thumb.png"
+    width="492" height="183"/></a><br /><strong>Figure: _Atomic_fetch_sub_4
+    exception</strong></p>
+
+    <p>Some of my colleagues ran into this.</p>
+
+    <h3>Applies To</h3>
+
+    <ul>
+
+    <li>Visual Studio 2012 RC (11.0.50522.1)</li>
+
+    <li>Office 2013 Preview</li>
+
+    </ul>
+
+    <h3>Finding</h3>
+
+    <p>This is a C++ runtime conflict between Visual Studio 2012 RC and Office
+    2013 Preview.</p>
+
+    <blockquote><p>This update addresses incompatibility issues that are caused
+    by installing later versions of the C++ Runtime on a machine with Visual
+    Studio 2012 Release Candidate. The update ensures that the Visual Studio
+    executable file loads the compatible C++ Runtime DLLs in the app-local
+    directory instead of loading the incompatible C++ Runtime DLLs that are
+    installed by other applications in the system-wide directories.<br />-<a
+    href="http://support.microsoft.com/kb/2703187"
+    target="_blank">KB2703187</a></p>
+
+    </blockquote>
+
+    <p>You will not be able to run Visual Studio until you have installed a
+    patch.</p>
+
+    <h3>Workarounds</h3>
+
+    <p>In order to prevent this error you should install the <a
+    href="http://www.microsoft.com/en-us/download/details.aspx?id=30178."
+    target="_blank">July 2012 update for Visual Studio 2012 RC</a> prior to
+    installing Office 2013 Preview. </p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/07/image30.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left:
+    0px; display: inline; padding-right: 0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb30.png"
+    width="640" height="360"/></a><br /><strong>Figure: Install the July 2012
+    Update for Visual Studio 2012</strong></p>
+
+    <p>If you did not install it first and you are unable to launch Visual
+    Studio 2012 then you should <a
+    href="http://www.microsoft.com/en-us/download/details.aspx?id=30178."
+    target="_blank">download the July 2012 update</a> from the Microsoft
+    downloads site and install it manually.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/07/image31.png"><img
+    title="image" style="border-top: 0px; border-right: 0px; background-image:
+    none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px;
+    border-left: 0px; display: inline; padding-right: 0px" border="0"
+    alt="image"
+    src="http://blog.hinshelwood.com/files/2012/07/image_thumb31.png"
+    width="640" height="360"/></a><br /><strong>Figure: Install July 2012
+    Update</strong></p>
+
+    <p>I found that this does not affect Visual Studio 2012 installs that
+    already have a previous update on Windows 8, but does affect vanilla Release
+    Candidate installs.</p>
+
+    <p><strong>Did this fix your problem?</strong></p>
+  - ''
+  post_id: '6288'
+  post_date: '2012-07-17 14:16:22'
+  post_date_gmt: '2012-07-17 21:16:22'
+  post_modified: '2012-07-17 14:16:22'
+  post_modified_gmt: '2012-07-17 21:16:22'
+  comment_status: open
+  ping_status: open
+  post_name: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '769518455'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3mvYU
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474823629;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:7149;}i:1;a:1:{s:2:"id";i:10886;}i:2;a:1:{s:2:"id";i:10214;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-07-17-office-2013-issue-installing-office-2013-breaks-visual-studio-2012.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '666'
+  comment:
+  - comment_id: '1322'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1323'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1324'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1325'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1326'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1327'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1328'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1329'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+  - comment_id: '1330'
+    comment_author: dotnetscraps
+    comment_author_email: rahul@dotnetscraps.com
+    comment_author_url: ''
+    comment_author_IP: 125.22.78.82
+    comment_date: '2012-07-23 04:18:00'
+    comment_date_gmt: '2012-07-23 11:18:00'
+    comment_content: >-
+      I suffered too with the same issue. It appears that you can't install the
+      patch after you have installed Office 2013. I uninstalled Office 2013
+      Preview completely and rebooted. Even after that, when I tried installing
+      this patch, it gave the same error.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '595243598'
+  - comment_id: '1331'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.224.207.81
+    comment_date: '2012-07-23 23:24:00'
+    comment_date_gmt: '2012-07-24 06:24:00'
+    comment_content: >-
+      Do you have a little more information:
+
+
+      What is the error message? Can you post a screenshot? Did you check the
+      Event log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1330'
+    comment_user_id: '0'
+  - comment_id: '1332'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.224.207.81
+    comment_date: '2012-07-23 23:24:00'
+    comment_date_gmt: '2012-07-24 06:24:00'
+    comment_content: >-
+      Do you have a little more information:
+
+
+      What is the error message? Can you post a screenshot? Did you check the
+      Event log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1330'
+    comment_user_id: '0'
+  - comment_id: '1333'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.224.207.81
+    comment_date: '2012-07-23 23:24:00'
+    comment_date_gmt: '2012-07-24 06:24:00'
+    comment_content: >-
+      Do you have a little more information:
+
+
+      What is the error message? Can you post a screenshot? Did you check the
+      Event log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1330'
+    comment_user_id: '0'
+  - comment_id: '1334'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.224.207.81
+    comment_date: '2012-07-23 23:24:00'
+    comment_date_gmt: '2012-07-24 06:24:00'
+    comment_content: >-
+      Do you have a little more information:
+
+
+      What is the error message? Can you post a screenshot? Did you check the
+      Event log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1330'
+    comment_user_id: '0'
+  - comment_id: '1335'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 63.224.207.81
+    comment_date: '2012-07-23 23:24:00'
+    comment_date_gmt: '2012-07-24 06:24:00'
+    comment_content: >-
+      Do you have a little more information:
+
+
+      What is the error message? Can you post a screenshot? Did you check the
+      Event log?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1330'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '595243598'
+    - meta_key: dsq_post_id
+      meta_value: '596077943'
+  - comment_id: '1336'
+    comment_author: >-
+      Visual Studio 2012 RTM available &amp; installed - Visual Studio ALM with
+      Team Foundation Server, Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/visual-studio-2012-rtm-available-installed/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-08-16 09:43:34'
+    comment_date_gmt: '2012-08-16 16:43:34'
+    comment_content: >-
+      [...] Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345135414.37";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1345222565.85";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1337'
+    comment_author: Installing Office 2013 on Windows 8 - Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: http://blog.hinshelwood.com/installing-office-2013-on-windows-8/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-03-09 20:46:44'
+    comment_date_gmt: '2013-03-10 04:46:44'
+    comment_content: >-
+      [...] Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012
+      Office 2013 Issue: There is not enough free memory to run this program in
+      Outlook 2013        Share &rarr;      (function() { var po =
+      document.createElement(&#039;script&#039;); po.type =
+      &#039;text/javascript&#039;; po.async = true; po.src =
+      &#039;https://apis.google.com/js/plusone.js&#039;; var s =
+      document.getElementsByTagName(&#039;script&#039;)[0];
+      s.parentNode.insertBefore(po, s); })();  Tweet !function(d,s,id){var
+      js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);
+      (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if
+      (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src
+      = &quot;//connect.facebook.net/en_GB/all.js#xfbml=1&quot;;
+      fjs.parentNode.insertBefore(js, fjs); }(document, &#039;script&#039;,
+      &#039;facebook-jssdk&#039;));       Buffer   (function() { var li =
+      document.createElement(&#039;script&#039;); li.type =
+      &#039;text/javascript&#039;; li.async = true; li.src =
+      &#039;https://platform.stumbleupon.com/1/widgets.js&#039;; var s =
+      document.getElementsByTagName(&#039;script&#039;)[0];
+      s.parentNode.insertBefore(li, s); })(); [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1362890804.973125;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1362891166.816223;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

@@ -1,0 +1,67 @@
+post:
+  title: Assembly Version does not change in Visual Basic Workflow projects
+  link: >-
+    https://nkdagility.com/blog/assembly-version-does-not-change-in-visual-basic-workflow-projects/
+  pubDate: Wed, 07 May 2008 17:05:00 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/05/07/assembly-version-does-not-change-in-visual-basic-workflow-projects.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_2.png\"><img border=\"0\" alt=\"image\" align=\"left\" width=\"244\" height=\"153\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_thumb.png\" /></a> If you are having an issue with the assembly version in your compiled assembly not updating after a rebuild then you are not alone. The is a bug in the Visual Basic compiler that causes this problem and it requires a manual fix:</p>\n<p><a title=\"http://kbalertz.com/952628/Assembly-Version-change-Visual-Basic-Workflow-projects.aspx\" href=\"http://kbalertz.com/952628/Assembly-Version-change-Visual-Basic-Workflow-projects.aspx\">http://kbalertz.com/952628/Assembly-Version-change-Visual-Basic-Workflow-projects.aspx</a></p>\n<p>Not hard, but annoying... </p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_4.png\"><img border=\"0\" alt=\"image\" align=\"right\" width=\"225\" height=\"140\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_thumb_1.png\" /></a>To check the problem, double click on the assembly in your bin folder and open out the version tag.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_10.png\"><img border=\"0\" alt=\"image\" align=\"left\" width=\"444\" height=\"286\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AssemblyVersiondoesnotchangeinVisualBasi_EE73-image_thumb_4.png\" /></a>You can see from the image below what I am getting at. This causes no end of problems with signed assemblies. The KBAlertz article above implies that this only affects Workflow assemblies. But I have has t6his problem in other types of Visual Basic project.</p>\n<p>This is not a big problem unless you are creating custom assemblies for SharePoint and have a convoluted deployment process before you can test, and can't figure out why you changes are not going through...</p>\n\n<p>\_</p>\n<p>\_</p>\n<p>\_</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_</div>"
+  - ''
+  post_id: '231'
+  post_date: '2008-05-07 17:05:00'
+  post_date_gmt: '2008-05-07 17:05:00'
+  post_modified: '2008-05-07 17:05:00'
+  post_modified_gmt: '2008-05-07 17:05:00'
+  comment_status: open
+  ping_status: open
+  post_name: assembly-version-does-not-change-in-visual-basic-workflow-projects
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '320381291'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/178rfK2
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1471977830;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:42;}i:1;a:1:{s:2:"id";i:210;}i:2;a:1:{s:2:"id";i:9905;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2008-05-07-assembly-version-does-not-change-in-visual-basic-workflow-projects.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '323'

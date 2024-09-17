@@ -1,0 +1,65 @@
+post:
+  title: Scott Guthrie in Glasgow
+  link: https://nkdagility.com/blog/scott-guthrie-in-glasgow/
+  pubDate: Mon, 29 Mar 2010 22:00:36 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/03/29/scott-guthrie-in-glasgow.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><img style=\"margin: 0px 20px\" alt=\"redshirt[1]\" align=\"left\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ScottGuthrieinGlagsow_8765-redshirt1_36b03638-fbce-484e-83d7-cf31bce37490.jpg\" width=\"145\" height=\"160\" />Last week Scott Guthrie was in Glasgow for his new <a href=\"http://developerdeveloperdeveloper.com/guglas/\" target=\"_blank\">Guathon</a> tour, which was a roaring success. Scott did talks on the new features in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2 and Windows Phone 7. Scott talked from 10am till 4pm, so this can only contain what I remember and I am sure lots of things he discussed just went in one ear and out another, however I have tried to capture at least all of my Ohh’s and Ahh’s.</p>  <h3>Visual Studio 2010</h3>  <p>Right now you can download and install <a href=\"http://msdn.microsoft.com/en-us/vstudio/dd582936.aspx\" target=\"_blank\">Visual Studio 2010 Candidate Release</a>, but soon we will have the final product in our hands. With it there are some amazing improvements, and not just in the IDE. New versions of VB and C# come out of the box as well as Silverlight 4 and SharePoint 2010 integration. </p>  <p>The new Intellisense features allow inline support for Types and Dictionaries as well as being able to type just part of a name and have the list filter accordingly. Even better, and my personal favourite is one that Scott did not mention, and that is that it is not case sensitive so I can actually find things in C# with its reasonless case sensitivity (Scott, can we please have an option to turn that off.)</p>  <p>Another nice feature is the Routing engine that was created for ASP.NET MVC is now available for WebForms which is good news for all those that just imported the MVC DLL’s to get at it anyway. Another fantastic feature that will need some exploring is the ability to add validation rules to your entities and have them validated automatically on the front end. This removes the need to add your own validators and means that you can control an objects validation rules from a single location, the object. A simple command “GridView.EnableDynamicData(gettype(product))“ will enable this feature on controls. </p>  <p>What was not clear was wither there would be support for this in WPF and WinForms as well. If there is, we can write our validation rules once and use everywhere.</p>  <p>I was disappointed to here that there would be no inbuilt support for the Dynamic Language Runtime (DLR) with VS2010, but I think it will be there for .vNext. Because I have been concentrating on the Visual Studio ALM enhancements to VS2010 I found this section invaluable as I now know at least some of what I missed.</p>  <h3>Silverlight 4</h3>  <p>I am not a big fan of Silverlight. There I said it, and I will probably get lynched for it. My big problem with Silverlight is that most of the really useful things I leaned from WPF do not work. I am only going to mention one thing and that is “x:Type”. If you are a WPF developer you will know how much power these 6 little letters provide; the ability to target templates at object types being the the most magical and useful.</p>  <p>But, and this is a massive but, if you are developing applications that MUST run on platforms other than windows then Silverlight is your only choice (well that and Flash, but lets just not go there). And Silverlight has a huge install base as well.. 60% of all internet connected devices have Silverlight. Can Adobe say that?</p>  <p>Even though I am not a fan of it my current project is a Silverlight one. If you start your XAML experience with Silverlight you will not be disappointed and neither will the users of the applications you build.<font></font> Scott showed us a fantastic application called “Silverface” that is a Silverlight 4 Out of Browser application. I have looked for a link and can’t find one, but true to form, here is a fantastic WPF version called <a href=\"http://www.fishbowlclient.com/\" target=\"_blank\">Fish Bowl</a> from Microsoft.</p>  <h3>ASP.NET MVC 2</h3>  <p>ASP.NET MVC is something I have played with but never used in anger. It is definitely the way forward, but WebForms is not dead yet. there are still circumstances when WebForms are better. If you are starting from greenfield and you are using TDD, then MVC is ultimately the only way you can go.</p>  <p>New in version 2 are Dynamic Scaffolding helpers that let you control how data is presented in the UI from the Entities. Adding validation rules and other options that make sense there can help improve the overall ease of developing the UI.</p>  <p>Also the Microsoft team have heard the cries of help from the larger site builders and provided “Areas” which allow a level of categorisation to your Controllers and Views. These work just like add-ins and have their own folder, but also have sub Controllers and Views. Areas are totally pluggable and can be dropped onto existing sites giving the ability to have boxed products in MVC, although what you do with all of those views is anyone's guess.</p>  <p>They have been listening to everyone again with the new option to encapsulate UI using the Html.Action or Html.ActionRender. This uses the existing\_ .ascx functionality in ASP.NET to render partial views to the screen in certain areas. While this was possible before, it makes the method official thereby opening it up to the masses and making it a standard.</p>  <p>At the end of the session Scott pulled out some IIS goodies including the <a href=\"http://www.iis.net/expand/SEOToolkit\" target=\"_blank\">IIS SEO Toolkit</a> which can be used to verify your own site is “good” for search engine consumption. Better yet he suggested that you run it against your friends sites and shame them with how bad they are. note: make sure you have fixed yours first.</p>  <h3>Windows Phone 7 Series</h3>  <p>I had already seen the new UI for WP7 and heard about the developer story, but Scott brought that home by building a twitter application in about 20 minutes using the emulator. </p>  <p>Scott’s only mistake was loading <a href=\"http://twitter.com/plip\" target=\"_blank\">@plip</a>’s tweets into the app…</p>  <p>And guess what, it was written in Silverlight. When Windows Phone 7 launches you will be able to use about 90% of the codebase of your existing Silverlight application and use it on the phone!</p>  <p>There are two downsides to the new WP7 architecture:</p>  <ol>   <li>No, your existing application WILL NOT work without being converted to either a Silverlight or XNA UI. </li>    <li>NO, you will not be able to get your applications onto the phone any other way but through the Marketplace. </li> </ol>  <p>Do I think these are problems? No, not even slightly. This phone is aimed at consumers who have probably never tried to install an application directly onto a device. There will be support for enterprise apps in the future, but for now enterprises should stay on Windows Phone 6.5.x devices.</p>  <h3>Post Event drinks</h3>  <p>At the after event drinks gathering Scott was checking out my HTC HD2 (released to the US this month on T-Mobile) and liked the Windows Phone 6.5.5 build I have on it. We discussed why Microsoft were not going to allow Windows Phone 7 Series onto it with my understanding being that it had 5 buttons and not 3, while Scott was sure that there was more to it from a hardware standpoint. I think he is right, and although the HTC HD2 has a DX9 compatible processor, it was never built with WP7 in mind. However, as if by magic Saturday brought fantastic news for all those that have already bought an HD2:</p>  <blockquote>   <p>Yes, this <i>appears</i> to be Windows Phone 7 running on a HTC HD2. The HD2 itself <a href=\"http://www.coolsmartphone.com/news5567.html\">won't</a> be getting an official upgrade to Windows Phone 7 Series, so all eyes are on the ROM chefs at the moment. The rather massive photos have been posted by <a href=\"http://htcpedia.com/forum/showthread.php?t=2381\">Tom Codon</a> on <a href=\"http://htcpedia.com/forum/showthread.php?t=2381\">HTCPedia</a> and they've apparently got WiFi, GPS, Bluetooth and other bits working. The ROM isn't online yet but according to the post there's a beta version coming soon.       <br /><strong>Leigh Geary</strong> - <a title=\"http://www.coolsmartphone.com/news5648.html\" href=\"http://www.coolsmartphone.com/news5648.html\">http://www.coolsmartphone.com/news5648.html</a>\_</p> </blockquote>  <p>What <em>was</em> Scott working on on his flight back to the US? <img class=\"wlEmoticon wlEmoticon-tongueout\" alt=\"Tongue out\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ScottGuthrieinGlagsow_8765-wlEmoticon-tongueout_2.png\" /> </p>  <p>\_</p>    <p>Follow: <a title=\"http://twitter.com/CAMURPHY\" href=\"http://twitter.com/CAMURPHY\">@CAMURPHY</a>, <a title=\"http://twitter.com/ColinMackay\" href=\"http://twitter.com/ColinMackay\">@ColinMackay</a>, <a title=\"http://twitter.com/plip\" href=\"http://twitter.com/plip\">@plip</a> and of course <a href=\"http://twitter.com/ScottGu\">@ScottGu</a></p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_<a href=\"http://technorati.com/tags/WP7\" rel=\"tag\">WP7</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_<a href=\"http://technorati.com/tags/Silverlight\" rel=\"tag\">Silverlight</a>\_</div>"
+  - ''
+  post_id: '58'
+  post_date: '2010-03-29 22:00:36'
+  post_date_gmt: '2010-03-29 22:00:36'
+  post_modified: '2010-03-29 22:00:36'
+  post_modified_gmt: '2010-03-29 22:00:36'
+  comment_status: open
+  ping_status: open
+  post_name: scott-guthrie-in-glasgow
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '321553742'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6Imzc
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1466911002;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:57;}i:1;a:1:{s:2:"id";i:69;}i:2;a:1:{s:2:"id";i:5432;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2010-03-29-scott-guthrie-in-glasgow.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '352'

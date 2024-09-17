@@ -1,0 +1,87 @@
+post:
+  title: Investigation - SEO permanent redirects for old URL’s?
+  link: >-
+    https://nkdagility.com/blog/investigation-seo-permanent-redirects-for-old-urls/
+  pubDate: Mon, 28 Dec 2009 14:27:33 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/12/28/do-you-know-how-to-permanently-redirect-old-incoming-urlrsquos.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>On the project I am currently working on we want to change the nasty <a href=\"http://northwind.com/products.aspx?ProductId=1\" rel=\"nofollow\">http://northwind.com/products.aspx?ProductId=1</a> to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like <a href=\"http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx\" rel=\"nofollow\">http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx</a>.</p>  <p><font color=\"#ff0000\">See Also – <a href=\"http://blog.hinshelwood.com/archive/2010/01/04/do-you-know-how-to-maintain-your-google-ranking-while.aspx\">Solution - SEO permanent redirects for old URL’s?</a></font></p>  <p><font color=\"#ff0000\">Updated #1 January 5th, 2010: </font><font color=\"#000000\">- As suggested by </font><a href=\"http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Adam.aspx\" rel=\"nofollow\" target=\"_blank\"><font color=\"#000000\">Adam Cogan</font></a>, I changed the title and added a link to the Solution post.</p>  <hr />  <p>  </p><p><s></s></p> This has already been implemented by the CMS system that we are using, so what is the problem?  <p>  </p><p>The problem is that Google thinks the URL to “Big Green Teddy Bares from Paris” is <a href=\"http://northwind.com/products.aspx?ProductId=1\" rel=\"nofollow\">http://northwind.com/products.aspx?ProductId=1</a> and we need to tell them that it is now <a href=\"http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx\" rel=\"nofollow\">http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx</a>. The URLs’ are changing for Search Engine Optimisation (SEO) reasons, but we do not want to loose any of the raking accumulated over time on the old URL’s.</p>  <p>We want to use <strong>Rewriting</strong> and not <strong>Routing</strong> because with <a href=\"http://stackoverflow.com/questions/90112/iis-url-rewriting-vs-url-routing\" rel=\"nofollow\" target=\"_blank\">rewriting the change is handled before it is passed</a> to ASP.NET.</p>  <p>Rewriting in this case is like <em><strong>reverse</strong></em> URL Rewriting and during this process I need to lookup the database to find the new KEY (“BigGreenTeddyBaresFromParis”) and map the URL with the “ProductId” to the new “ProductKey”. If we also return a permanent redirect (301) then Google will learn the new location of the page and keep any ranking data associated with it intact. This is key as we do not want to start from scratch.</p>  <p>There are two official IIS7 rewrite engines that were recommended to me:</p>  <ul>   <li>URL Rewrite </li>    <li>SEO Toolkit </li> </ul>  <h2>URL Rewrite</h2>  <p>You an install URL Rewrite from the “Web Platform Installer”, and it has very good integration and is easy to configure within IIS. This makes things a lot easier, but does it support 301 redirects?</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_2.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb.png\" width=\"504\" height=\"275\" /></a>\_ <br />Figure: Adds an option right into the IIS interface</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_4.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb_1.png\" width=\"504\" height=\"279\" /></a>     <br />Figure: You can easily add new rules through the integrated UI</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_6.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb_2.png\" width=\"504\" height=\"275\" /></a>\_ <br />Figure: UI supports 301 redirects, but it does not seam to have any way to load from a database.</p>  <p>Without a way to load from the database there is no way it will solve the problem, and a quick Google shows that it does not support it. The closest it can get is using a key value pair mapping file, but with 30,000 entries I do not think that will perform well.</p>  <p>If you look at <a title=\"Developing Rule Template for URL Rewrite Module\" href=\"http://learn.iis.net/page.aspx/519/developing-rule-template-for-url-rewrite-module/\" rel=\"nofollow\" target=\"_blank\">Developing Rule Template for URL Rewrite Module</a> you will see that you can only work within the set of options that are provided by the core functionality and can’t create a new feature, like loading the mappings from the database.</p>  <h2></h2>  <p>  </p><p>  </p><h2>SEO Toolkit</h2>  <p>Having looked at the <a title=\"SEO Toolkit\" href=\"http://www.iis.net/expand/SEOToolkit\" rel=\"nofollow\" target=\"_blank\">bumph for the SEO Toolkit</a>, it does not look like it provides any of the functionality required.</p>  <h2>Conclusion</h2>  <p>The conclusion is that neither the SEO Toolkit, nor the URL Rewrite Module are of any use in this case. There are now two options, I can roll my own rewriting framework or use another one that already exists that supports extensibility. One such URL rewriting framework that spring to mind is <a title=\"UrlRewritingNet.UrlRewrite\" href=\"http://www.urlrewriting.net\" rel=\"nofollow\">UrlRewritingNet.UrlRewrite</a> which I have used before, but it has not been updated since April 2009. I have emailed the guys to ask them is they are still using/ working on it.</p>  <p>Even though it has not been updated since April 2009, I think this is the best option. The source code is provided on the site, and I am familiar with the component. It supports a rule provider model that will allow me to achieve the goal I am aiming for and is very easy to setup.</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/SSW\" rel=\"tag\">SSW</a>\_<a href=\"http://technorati.com/tags/Software+Development\" rel=\"tag\">Software Development</a>\_<a href=\"http://technorati.com/tags/SP+2010\" rel=\"tag\">SP 2010</a>\_<a href=\"http://technorati.com/tags/SharePoint\" rel=\"tag\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '74'
+  post_date: '2009-12-28 14:27:33'
+  post_date_gmt: '2009-12-28 14:27:33'
+  post_modified: '2009-12-28 14:27:33'
+  post_modified_gmt: '2009-12-28 14:27:33'
+  comment_status: open
+  ping_status: open
+  post_name: investigation-seo-permanent-redirects-for-old-urls
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311601791'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1eqTTOn
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-12-28-investigation-seo-permanent-redirects-for-old-urls.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473140880;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:73;}i:1;a:1:{s:2:"id";i:144;}i:2;a:1:{s:2:"id";i:214;}}}}
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '321'
+  comment:
+    comment_id: '707'
+    comment_author: Mark@School grants
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-03-06 02:29:58'
+    comment_date_gmt: '2010-03-06 02:29:58'
+    comment_content: >-
+      I had once a huge problem with 301 redirects on one of my biggest website.
+      Because of that, my traffic went down in one week, had to pay someone to
+      look into this. Traffic was never the same since then
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969976'

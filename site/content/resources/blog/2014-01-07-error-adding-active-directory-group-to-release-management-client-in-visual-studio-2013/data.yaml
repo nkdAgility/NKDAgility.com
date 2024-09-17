@@ -1,0 +1,80 @@
+post:
+  title: >-
+    Error adding Active Directory Group to Release Management Client in Visual
+    Studio 2013
+  link: >-
+    https://nkdagility.com/blog/error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013/
+  pubDate: Tue, 07 Jan 2014 07:42:09 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10316
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">When you try to add a group from Active Directory in the Release Management Client in Visual Studio 2013 you get an unhandled exception.</p>\r\n<p>When trying to add an Active Directory group to release management the other day I saw a little popup after adding the group that disappeared too quickly to action. I noticed that the group that I was trying to add did not end up in the list so I gave it another go.</p>\r\n<p><img alt=\"\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/010714_0741_ReadyErrora1.png\" /><br /><small>Figure: Some requested groups could not be added</small></p>\r\n<blockquote>\r\n<p>An unhandled exception has occurred in the application: Some requested groups could not be added. Either the groups are outside your domain, or it does not follow the LDAP protocol.</p>\r\n</blockquote>\r\n<h3>Applies to</h3>\r\n<ul>\r\n<li>Release Management Client for Visual Studio 2013</li>\r\n</ul>\r\n<h3>Findings</h3>\r\n<p>The first annoying thing is the poor implementation of the error alerts. The toast notification is very time limited and there is no way to get top a list of errors that I can see. If you miss it its gone...</p>\r\n<p>I tried adding different groups to make sure it was not an AD issue with that group and the error persisted. I don't have multiple Active Directory implementations so I can't try other configurations but it looks to be consistent. When you click \"Administration | Manage Groups | New | New from AD\" the \"Select Groups\" box initially has the local computer selected rather than the domain.</p>\r\n<p><img alt=\"\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/010714_0741_ReadyErrora2.png\" /><br /><small>Figure: New from Active Directory</small></p>\r\n<p>Under normal circumstances you would select \"Entire Directory\" and enter the entire or partial name of the group, in this case \"Domain Users\".</p>\r\n<p>Note: Never actually use Domain Users in a production system. I know that I only have 20 or so users in my entire AD system as it is only for testing. TFS has a limit of around 5k users, however I do not know what the Release Management Client has been tested to.</p>\r\n<p><img alt=\"\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/010714_0741_ReadyErrora3.png\" /><br /><small>Figure: Select the scope of the directory search</small></p>\r\n<p>However if you have \"Entire Directory\" selected the result will be the Untangled Exception identified above. If you click \"View Stack Trace\" on that exception then you get the following details.</p>\r\n<p><img alt=\"\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/010714_0741_ReadyErrora4.png\" /><br /><small>Figure: Some requested groups could not be added</small></p>\r\n<blockquote>\r\n<p>An unhandled exception has occurred in the application: Some requested groups could not be added. Either the groups are outside your domain, or it does not follow the LDAP protocol.</p>\r\n</blockquote>\r\n<p>Obviously this is incorrect as I only selected a single group from Active Directory.</p>\r\n<h3>Solution</h3>\r\n<p>While this is annoying and should be easy to fix in the original code it obviously slipped through the test matrix and will likely be fixed on the next release. For now you can select the individual domain instead of the \"Entire Directory\" option.</p>\r\n<p><img alt=\"\" src=\"https://nkdagility.com/wp-content/uploads/2014/01/010714_0741_ReadyErrora5.png\" /><br /><small>Figure: Select exact domain</small></p>\r\n<p>In this case if I select \"env.nakedalmweb.wpengine.com\" as the exact domain that the group that I am trying to add exists in then the group is added with no issues.</p>"
+  - >-
+    When you try to add a group from Active Directory in the Release Management
+    Client in Visual Studio 2013 you get an unhandled exception.
+  post_id: '10316'
+  post_date: '2014-01-07 07:42:09'
+  post_date_gmt: '2014-01-07 07:42:09'
+  post_modified: '2014-01-21 14:36:35'
+  post_modified_gmt: '2014-01-21 14:36:35'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '81'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19OW5yn
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Release Management Client
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      When you try to add a group from Active Directory in the Release
+      Management Client in Visual Studio 2013 you get an unhandled exception.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '2097129054'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474621364;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10342;}i:1;a:1:{s:2:"id";i:10321;}i:2;a:1:{s:2:"id";i:10351;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2014-01-07-error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '395'

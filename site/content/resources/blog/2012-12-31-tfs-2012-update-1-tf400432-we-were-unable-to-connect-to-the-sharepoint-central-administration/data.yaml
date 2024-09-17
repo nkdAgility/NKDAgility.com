@@ -1,0 +1,110 @@
+post:
+  title: >-
+    TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint
+    Central Administration
+  link: >-
+    https://nkdagility.com/blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration/
+  pubDate: Mon, 31 Dec 2012 18:09:03 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9196
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">When running the upgrade from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 you get a TF400432 error stating that the Team Foundation Server configuration was unable to connect to SharePoint administration site.</p>\n<p><a href=\"http://blog.hinshelwood.com/files/2012/12/image23.png\"><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"TF400432 : We were unable to connect to the SharePoint Central Administration site\" alt=\"TF400432 : We were unable to connect to the SharePoint Central Administration site\" src=\"http://blog.hinshelwood.com/files/2012/12/image23_thumb.png\" width=\"800\" height=\"480\" border=\"0\" /></a><br /><strong>Figure: TF400432 : We were unable to connect to the SharePoint Central Administration site</strong></p>\n<p>You get the error:</p>\n<blockquote>\n<p>TF400432 : We were unable to connect to the SharePoint Central Administration site: <a href=\"http://tfsserver:17000/\">http://tfsserver:17000/</a>.\_ While you may continue with the upgrade, there will be manual configuration steps required to use Team Foundation Server with this SharePoint site in the future.\_ It is recommended that you correct this SharePoint issue before continuing. See the configuration log for additional details that may assist in troubleshooting the problem.</p>\n</blockquote>\n<h3 class=\"icon-applies-to\">Applies to:</h3>\n<ul>\n<li>Team Foundation Server 2012</li>\n<li>Team Foundation Server 2012 Update 1</li>\n</ul>\n<h3 class=\"icon-findings\">Findings for TF400432</h3>\n<p>It looks like at some point the port for SharePoint Administration was changed but never updated in the Team Foundation Server configuration. While Team Foundation Server thinks that the port is 17000 the actual port is 28230.</p>\n<h3 class=\"icon-solution\">Solution for TF400432</h3>\n<p>There are two options. I can change SharePoint to be the same port that Team Foundation Server is expecting, or I can update Team Foundation Server to use the correct port.</p>\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-width: 0px;\" title=\"Update the SharePoint link from Team Foundation Server to the correct value\" alt=\"Update the SharePoint link from Team Foundation Server to the correct value\" src=\"http://blog.hinshelwood.com/files/2012/12/image19.png\" width=\"800\" height=\"480\" border=\"0\" /><br /><strong>Figure: Update the SharePoint link from Team Foundation Server to the correct value</strong></p>\n<p>In this case updating Team Foundation Server was easier than messing with SharePoint. You can update the Central Administration URL from “Team Foundation Server Administration Console | Application Tier | SharePoint Web Application | Select Site | Change” and then update the URL and click OK.</p>"
+  - >-
+    <p class="lead">When running the upgrade from Team Foundation Server 2012 to
+    Team Foundation Server 2012 Update 1 you get a TF400432 error stating that
+    the Team Foundation Server configuration was unable to connect to SharePoint
+    administration site.</p>
+  post_id: '9196'
+  post_date: '2012-12-31 10:09:03'
+  post_date_gmt: '2012-12-31 18:09:03'
+  post_modified: '2012-12-31 10:09:03'
+  post_modified_gmt: '2012-12-31 18:09:03'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '90'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: TF400432
+  - meta_key: _yoast_wpseo_title
+    meta_value: >-
+      TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint
+      Central Administration - Visual Studio ALM
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Do you get a TF400432 error when upgrading Team Foundation Server or
+      creating new Team Projects? You can't access the SharePoint Central
+      Administration.
+  - meta_key: dsq_thread_id
+    meta_value: '1001691503'
+  - meta_key: _thumbnail_id
+    meta_value: '8810'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:4:"9388";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3qEMt
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474758346;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:44;}i:1;a:1:{s:2:"id";i:8998;}i:2;a:1:{s:2:"id";i:7067;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-12-31-tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '702'
+  comment:
+    comment_id: '1545'
+    comment_author: Scooter2332
+    comment_author_email: sjustus@alcoholmonitoring.com
+    comment_author_url: ''
+    comment_author_IP: 198.233.31.6
+    comment_date: '2013-01-21 10:16:00'
+    comment_date_gmt: '2013-01-21 18:16:00'
+    comment_content: >-
+      Thanks for this post.  I thought I would include the sharepoint powershell
+      command as well.  Just in case. :)
+
+
+      http://technet.microsoft.com/en-us/library/cc288247.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '774091584'

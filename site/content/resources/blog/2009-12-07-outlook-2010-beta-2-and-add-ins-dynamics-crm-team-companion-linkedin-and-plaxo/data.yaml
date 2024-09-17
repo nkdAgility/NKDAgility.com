@@ -1,0 +1,151 @@
+post:
+  title: >-
+    Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and
+    Plaxo
+  link: >-
+    https://nkdagility.com/blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo/
+  pubDate: Mon, 07 Dec 2009 14:05:32 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/12/07/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p> At SSW we are extensive users of Dynamics CRM. I wanted to give Office 2010 a go, but I had to make sure that the Dynamics CRM plug-in, and my other plug-ins worked.</p>  <p> You would think that support for Office 2010 Beta 2 was poor! You would be right and wrong…</p>  <p>I use a number of plug-ins for outlook:</p>  <ul>   <li>LinkedIn </li>    <li>Plaxo </li>    <li>Team Companion </li>    <li>Dynamics CRM </li> </ul>  <p>All of them work…to an extent…</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_2.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"Outlook 2010 Beta 2 and Add-In’s: CRM, Team Companion, LinkedIn and Plaxo\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb.png\" width=\"504\" height=\"106\" /></a>\_ <br />Figure: Screenshot of outlook with add-ins</p>  <p>Outlook 2010 put all of the Add-ins into a single tab called “<strong>Add-Ins</strong>” and they just get stacked up, which is bad!</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_4.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_1.png\" width=\"504\" height=\"123\" /></a>     <br />Figure: Close up of the LinkedIn, Plaxo and Team Companion Add-ins</p>  <p>Can you see the problem? No? Well, the ribbon bar is only so tall, so that makes for 3 and only 3 add-ins. Where is the Dynamics CRM add-in? Can you see it in the first image? No! Let me help you.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_6.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_2.png\" width=\"504\" height=\"106\" /></a>\_ <br />Figure: Where is <strike>Wally</strike> Dynamics CRM4 Add-in?</p>  <p>This looks useless, and it would be if the same options were not also available as a pull down menu.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_8.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_3.png\" width=\"504\" height=\"674\" /></a>     <br />Figure: Dynamics CRM4 pull down menu in Office 2010 have all the bits you need, even if you can’t get to the buttons.</p>  <p>The story is a little better when you open an email. The options for Dynamics CRM are prominent, as are the Team Companion and LinkedIn options.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_12.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_5.png\" width=\"504\" height=\"108\" /></a>     <br />Figure: Shows the Team Companion, LinkedIn and CRM options on an email; this is a much better format.</p>  <p>So, what else do you need to know? No 64-bit support yet, so you need to use Outlook 32-bit, and if you need to use Outlook 32-bit then you MUST use Office 32-bit:</p>  <ol>   </ol><ol>     <li>CRM4 will not Install if Office 2010 is installed        <br />Workaround: <a href=\"http://bit.ly/7SGhlP\">http://bovoweb.blogspot.com/2009/10/ms-outlook-2010-and-dynamics-crm.html</a> </li>      <li>If you upgrade Outlook 2007 to Outlook 2010 CRM will work        <br /><a href=\"http://bit.ly/4NDqFe\">http://dario.blog.viadis.hr/2009/07/outlook-2010-dynamics-crm-40-client.html</a> </li>      <li>You MUST use the 32bit version of Outlook 2010        <br /><a href=\"http://bit.ly/531VZ7\">http://halo76.wordpress.com/2009/11/24/office-2010-and-crm-4-0-for-outlook-32-bit-only/</a> </li>      <li>If you are using Outlook 2010 32bit, the rest of the Office 2010 bits that you install must be of the same bitness        <br /><a href=\"http://bit.ly/8iJn7N\">http://blogs.msdn.com/officedevdocs/archive/2009/11/25/developing-outlook-2010-solutions-for-32-bit-and-64-bit-systems.aspx</a> </li>   </ol>   <p>This post also answers the question of wither you can move to Office 64-bit now? The answer is yes, unless you have any add-ins that you depend on and that do not work in Outlook 64-bit. If you do, you are in a bit of a pickle… Wait for support, or better yet, pester the Product team that makes your add-in to get it to support 64-bit office.</p>  <h2>To Dynamics CRM Team, Plaxo Team, LinkedIn Team, TeamCompanion Team</h2>  <p>Please can you:</p>  <ol>   <li>fix add-in to work with Outlook 64-bit (Team Companion guys are already on the case showing the rest of you up) </li>    <li>fix add-in to have a ribbon tab like the Visual Studio ALM Add-in in Excel.      <br /><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_14.png\"><img style=\"border-right-width: 0px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_6.png\" width=\"504\" height=\"83\" /></a>\_ </li> </ol>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/Office\" rel=\"tag\">Office</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/CRM\" rel=\"tag\">CRM</a>\_<a href=\"http://technorati.com/tags/SSW\" rel=\"tag\">SSW</a>\_</div>"
+  - ''
+  post_id: '76'
+  post_date: '2009-12-07 14:05:32'
+  post_date_gmt: '2009-12-07 14:05:32'
+  post_modified: '2009-12-07 14:05:32'
+  post_modified_gmt: '2009-12-07 14:05:32'
+  comment_status: open
+  ping_status: open
+  post_name: >-
+    outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311601785'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '6286'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19zWTUL
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1466188592;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:47;}i:1;a:1:{s:2:"id";i:34;}i:2;a:1:{s:2:"id";i:82;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2009-12-07-outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '421'
+  comment:
+  - comment_id: '708'
+    comment_author: Dan Levy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-22 02:53:51'
+    comment_date_gmt: '2009-12-22 02:53:51'
+    comment_content: >-
+      i'm still having the issue when I try and open an account it is trying to
+      download a temp file as opposed to opening it.  any help would be
+      great!<br /><br />thank you
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969968'
+  - comment_id: '709'
+    comment_author: F&#252;hrer zu Spielautomaten
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-03-19 13:13:40'
+    comment_date_gmt: '2010-03-19 13:13:40'
+    comment_content: >-
+      Outlook 2010 is very beneficial like we can easily manage e-mail messages
+      from multiple mailboxes.  Synchronize multiple e-mail accounts from
+      services such as Hotmail, Gmail, or just about any other provider to
+      Outlook 2010.  <br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969971'
+  - comment_id: '710'
+    comment_author: Repair Outlook PSt
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-14 21:15:23'
+    comment_date_gmt: '2010-04-14 21:15:23'
+    comment_content: >-
+      <br /><br />I am a Microsoft Outlook user. I use outlook 2007, I usally
+      get an error in outlook. I read your post, it was really nice and I got
+      lot of knowledge. Do you suggest me to use Outlook 2010, Is that better
+      then 2007 and does it has inbuild pst repair tool. Please suggest.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969974'
+  - comment_id: '711'
+    comment_author: Jacob
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-16 01:48:18'
+    comment_date_gmt: '2010-07-16 01:48:18'
+    comment_content: >-
+      I was kind of surprised as I noticed, that my external search tool lookeen
+      worked without any problems with Outlook 2010, I had some problems with
+      xobni which I tried but it doesn't work for me, so I thought that
+      Microsoft installed something which blocks external tools.... apparently
+      not.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209969977'

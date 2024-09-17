@@ -1,0 +1,156 @@
+post:
+  title: Team Foundation Server & SharePoint 3.0
+  link: https://nkdagility.com/blog/team-foundation-server-sharepoint-3-0/
+  pubDate: Thu, 31 May 2007 14:09:36 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/05/31/team-foundation-server-amp-sharepoint-3.0.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p><font face=\"tim\">I have managed to install SharePoint 3.0 on my dev Team server box in side by side mode by using\_ </font><a title=\"Brian Keller: Technical Evangelist for Team System\" target=\"_blank\" href=\"http://blogs.msdn.com/briankel/default.aspx\"><font face=\"tim\">Brian Keller's</font></a><font face=\"tim\"> blog on \"</font><a title=\"Team Foundation Server with Windows SharePoint Services 3.0\" target=\"_blank\" href=\"http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx\"><font face=\"tim\">Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0</font></a><font face=\"tim\">\".</font></p>\n<p><font face=\"tim\">I have not yet updated Team Server, but I got as far as having a working version of SharePoint 3.0 running side by side with 2.0. This has worked grate for me as I have had time to evaluate SharePoint as an Intranet for my department. What I would like to achieve is to have and intranet site on http://department.internal.company.com\_with a sub site called \"projects\". I would then like Team Server to create all of its sites under this Projects site so as to provide a mini portal for my projects with links to documentation, best practices and tools on the parent http://department.internal.company.com/Projects site along with a reporting services dashboard, with customer reports that cover all of the projects, like RAG reports among other things.</font></p>\n<p><strong><font face=\"tim\">Does anyone know if this is achievable?</font></strong></p>\n<p><font face=\"tim\">My idea is that in the documentation I replace:</font></p>\n<p><font size=\"2\"><code>&lt;RegistrationEntries&gt;</code><br />\n<code>&lt;RegistrationEntry&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;Type&gt;Wss&lt;/Type&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ChangeType&gt;Change&lt;/ChangeType&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterfaces&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;WssAdminService&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[WSS Server 3.0]:[WSS 3.0 admin port]/_vti_adm/admin.asmx&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseServerUrl&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[ WSS Server 3.0]:[port]&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseSiteUrl&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[ WSS Server 3.0]:[port]/sites&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseSiteUnc&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[ WSS Server 3.0]sites&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterfaces&gt;</code><br />\n<code>&lt;/RegistrationEntry&gt;</code><br />\n<code>&lt;/RegistrationEntries&gt;</code></font></p>\n<p><code><font face=\"tim\">With the information for the sub site:</font></code></p>\n<p><font size=\"2\"><code>&lt;RegistrationEntries&gt;</code><br />\n<code>&lt;RegistrationEntry&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;Type&gt;Wss&lt;/Type&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ChangeType&gt;Change&lt;/ChangeType&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterfaces&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;WssAdminService&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[WSS Server 3.0]:[WSS 3.0 admin port]/_vti_adm/admin.asmx&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseServerUrl&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[ WSS Server 3.0]:[port]&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseSiteUrl&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[protocol]://[ WSS Server 3.0]:[port]/<strong>Projects</strong>/sites&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Name&gt;BaseSiteUnc&lt;/Name&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_&lt;Url&gt;[ WSS Server 3.0]<strong>Projects</strong>sites&lt;/Url&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterface&gt;</code><br />\n<code>\_\_\_\_\_\_\_\_&lt;/ServiceInterfaces&gt;</code><br />\n<code>&lt;/RegistrationEntry&gt;</code><br />\n<code>&lt;/RegistrationEntries&gt;</code></font></p>\n<p><code><strong><font face=\"tim\">Anyone else have a better idea of what to try?</font></strong></code></p>\n<p><code><strong><font face=\"tim\">Any reason what this should not work?</font></strong></code></p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_<a href=\"http://technorati.com/tags/VS+2005\" rel=\"tag\">VS 2005</a>\_</div>"
+  - ''
+  post_id: '391'
+  post_date: '2007-05-31 14:09:36'
+  post_date_gmt: '2007-05-31 14:09:36'
+  post_modified: '2007-05-31 14:09:36'
+  post_modified_gmt: '2007-05-31 14:09:36'
+  comment_status: open
+  ping_status: open
+  post_name: team-foundation-server-sharepoint-3-0
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311605453'
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19AkBAo
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1461206515;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:44;}i:1;a:1:{s:2:"id";i:376;}i:2;a:1:{s:2:"id";i:390;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-05-31-team-foundation-server-sharepoint-3-0.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '408'
+  comment:
+  - comment_id: '88'
+    comment_author: gbelzile
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-05-21 23:44:41'
+    comment_date_gmt: '2008-05-21 23:44:41'
+    comment_content: >-
+      Hi, I'm trying to achieve the same thing here.  Did you manage to make it
+      work?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972532'
+  - comment_id: '89'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-05-22 14:21:56'
+    comment_date_gmt: '2008-05-22 14:21:56'
+    comment_content: >-
+      Not out of the box... To make it work you will need three things...<br />
+      First Create a web service for Sharepoint 2007 that uses the Sharepoint
+      API to create the sub sites of your desired site.<br /> Second you need to
+      create a custom TFS Project Creation Wizard that uses that web service.<br
+      /> Third swap the standard wizard in the TFS Process Template to use your
+      new wizard.<br /><br />If you were realy clever you could add options to
+      the GUI of the VS wizard that lets the user choose wither to create sub
+      sites or the default...<br /><br />Easy.... :)<br /><br />Its not realy
+      that bad once you get into the bits and bobs..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972534'
+  - comment_id: '90'
+    comment_author: jp woodey
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-07-18 13:29:21'
+    comment_date_gmt: '2008-07-18 13:29:21'
+    comment_content: >-
+      Martin, i love that you suggest what to do but give no direction on how to
+      achieve what you suggest.  Keep up the great posts
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972535'
+  - comment_id: '91'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-07-18 14:07:18'
+    comment_date_gmt: '2008-07-18 14:07:18'
+    comment_content: >-
+      If you dill direct you attention to more recent posts, you will achieve
+      the enlightenment you desire....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972538'
+  - comment_id: '92'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-07-18 14:11:27'
+    comment_date_gmt: '2008-07-18 14:11:27'
+    comment_content: >-
+      In fact:<br
+      />http://hinshelwood.com/archive/2007/06/20/Solution-to-sub-sites-in-Sharepoint-3.0-with-Team-Foundation.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209972541'

@@ -1,0 +1,54 @@
+post:
+  title: TFS Event Handler CTP1 Released
+  link: https://nkdagility.com/blog/tfs-event-handler-ctp1-released/
+  pubDate: Thu, 24 Jan 2008 17:14:20 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/24/tfs-event-handler-ctp1-released.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have just released a <a href=\"http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=3910\" target=\"_blank\">new version</a> of the <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> Event Handler. This is a really rough version and you should not be used in a production environment.</p> <p>Event handler system will work in this version, but a manual config is required, and the user interface is a bit flaky. Also all errors that occur in an individual handlers are ignored.</p> <p>If you are planning to use this in a production environment please consider using the <a href=\"http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057\" target=\"_blank\">TFS Event Handler (Prototype)</a>. </p> <p>I will probably not be doing any documentation for this version, but I will be updating frequently as I will be using it on my production server and building Event handlers for it. </p> <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_2.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"173\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_thumb.png\" width=\"244\" border=\"0\" /></a></p> <p>The Client application allows you to connect to any TFS Event Handler and see what the status is. Please note that there is a bug that occurs when you add a new team server that means that it never authenticates. Once you have added it, close the UI and reopen it to solve the problem. Oh, and don't click the \"refresh\" button (I said the UI was rough).</p> <p>\_<a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_4.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"198\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_thumb_1.png\" width=\"244\" border=\"0\" /></a> </p> <p>It will take time to augment the UI and I have quite a few ideas in that regard. One of my goals is to allow the upload of \"Packages\" that contain all the files\_ necessary to run en Event Handler that might well have supporting files, like html templates for emails... </p> <p>At the moment the server component runs in a form, but that will eventually be a service. </p> <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_6.png\"><img style=\"border-top-width: 0px;border-left-width: 0px;border-bottom-width: 0px;border-right-width: 0px\" height=\"116\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_thumb_2.png\" width=\"244\" border=\"0\" /></a> </p> <p>\_ </p> <p>Hopefully buy the end of next week I will have a version of the service stable enough to run as a service, and a version of the UI integrated with Visual Studio 2008. </p> <p>\_ </p> <p>Well, that's the plan... <img alt=\"smile_nerd\" src=\"http://spaces.live.com/rte/emoticons/smile_nerd.gif\" /> </p> <p>\_</p> <p> </p> <p>\_</p> <p>Edited for bad English and down right sloppiness... Made me sound like English was not my first language...</p><div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_</div>"
+  - ''
+  post_id: '261'
+  post_date: '2008-01-24 17:14:20'
+  post_date_gmt: '2008-01-24 17:14:20'
+  post_modified: '2008-01-24 17:14:20'
+  post_modified_gmt: '2008-01-24 17:14:20'
+  comment_status: open
+  ping_status: open
+  post_name: tfs-event-handler-ctp1-released
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '377877023'
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1bYfUyZ
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-24-tfs-event-handler-ctp1-released.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '316'

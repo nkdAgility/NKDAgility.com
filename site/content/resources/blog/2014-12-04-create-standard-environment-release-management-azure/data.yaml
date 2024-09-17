@@ -1,0 +1,313 @@
+post:
+  title: Create a Standard Environment for Release Management in Azure
+  link: >-
+    https://nkdagility.com/blog/create-standard-environment-release-management-azure/
+  pubDate: Thu, 04 Dec 2014 11:30:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10923
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Next week I will be <a href=\"http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/\">speaking at NDC London 2014</a> and I have been working on my demo. Since Connect() everything for a little bit easier and I need to create an environment for Release Management for Visual Studio 2013.</p>\r\n<p>I have been working on a new end to end (soup to nuts) demo for Visual Studio ALM that [tells a story] and shows what it can do. My presentation at NDC London is aimed at those folks that have used older versions of TFS in the past and kinda think it sucks. I think they are wrong, and I want to prove it. So for the last week I have been creating a demo using:</p>\r\n<ul>\r\n<li><strong>Visual Studio Online (VSO)</strong> - TFS hosted by Microsoft so zero hassle.</li>\r\n<li><strong>Release Management for VSO</strong> - Hosted Release Management that connects to Visual Studio Online, again with the zero hassle.</li>\r\n<li><strong>Visual Studio 2015 Preview</strong> - coz, well, its out and it works.</li>\r\n<li><strong>Git </strong>- for source control there is no better platform</li>\r\n<li><strong>Application Insights</strong> - free way to gather swim data for your applications.</li>\r\n</ul>\r\n<p>The idea is to show an end to end resolution of a bug from it being reported to is being fixed using all of the tools that come, out of the box, with Visual Studio ALM. I will be using the Fabrikam Fiber code, imported into a Git repo and linked to work items in TFS.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0016.png\" alt=\"clip_image001[6]\" width=\"804\" height=\"502\" border=\"0\" /></p>\r\n<p>I have already configured an automated deployment to one of my environments and every check-in is magically deployed to the server. This, while sitting in Azure, is just a Virtual Machine. I picked VM, or Standard Environment, so that I can emulate as closely as possible what you can do on premises.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0026.png\" alt=\"clip_image002[6]\" width=\"804\" height=\"389\" border=\"0\" /></p>\r\n<p>For this I need a Feedback 2 environment and for that I need to configure it in Azure. Many of the steps and capabilities are just the same as for an on-premises environment but for Azure I don’t need to configure a domain, TFS, or Release Management servers. Indeed I don’t even need any hardware. I just need a credit card :).</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0036.png\" alt=\"clip_image003[6]\" width=\"804\" height=\"488\" border=\"0\" /></p>\r\n<p>For my currently existing Feedback 1 (nkd-FF-F1) environment I have spent only £3.34 of my £99 MSDN Ultimate allotment and the expected total cost is less than £2 per day for a VM with 2 cores and 3.5GB of RAM. Merger but adequate for this purpose.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image004[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0046.png\" alt=\"clip_image004[6]\" width=\"804\" height=\"488\" border=\"0\" /></p>\r\n<p>If you are like me and you like things to be in order I recommend that you first create the Resource Group (Cloud Service) in the old portal (<a href=\"http://manage.windowsazure.com\">http://manage.windowsazure.com</a>). The new portal does not give you good control over naming and as you can't rename stuff your resource group has a DNS name of the first resource added… poopy…</p>\r\n<p>However if you create a Cloud Service in the old portal you get to name it and it becomes an empty container in the new portal. Simple, but effective. I actually find that I jump a lot between portals as the new one has a bunch of functionality that the old one does not. Its kinda fragmented just now and I know that Microsoft want just one, but the new portal is taking a while.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image005[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0056.png\" alt=\"clip_image005[6]\" width=\"804\" height=\"488\" border=\"0\" /></p>\r\n<p>Now that I have an empty Resource Group I want to add a server. Again the new portal is not going to cut it as you can't select a template: you can only select from the bits there. So… back to the old portal.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image006[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0066.png\" alt=\"clip_image006[6]\" width=\"647\" height=\"537\" border=\"0\" /></p>\r\n<p>The first task is to create a storage location. I want to be able to isolate all of the data so I will have a \"nkdfff2\" storage account. I really wish that the Azure team was consistent with naming as you can't use a \"-\" here. Might be a small issue but it peeves me off every time I hit it. It’s a stupid issue to have at all.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image007[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0076.png\" alt=\"clip_image007[6]\" width=\"619\" height=\"537\" border=\"0\" /></p>\r\n<p>Then comes the custom Virtual Network. If you want to have more than one server in your environment then you probably want to have a Virtual Network. Even though I only have one here, it’s a good exercise to create this. Ultimately you would want to script this out once you have a flow defined. I am only doing this twice, so scripting is a little bit of overkill at this point. But if I wanted many feedback environments I would want this scripted.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image008[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0086.png\" alt=\"clip_image008[6]\" width=\"781\" height=\"537\" border=\"0\" /></p>\r\n<p>We need somewhere to deploy out application. AS I am emulating Standard Environments I will be using a simple VM rather than a \"Azure Website\". This will better reflect a local instance of RM and TFS for folks. Unfortunately in the new portal you can't use the template gallery, or at least I could not figure out how. But on the old/current portal I can easily do this.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image009[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0096.png\" alt=\"clip_image009[6]\" width=\"804\" height=\"514\" border=\"0\" /></p>\r\n<p>You might ask why I would pick the Windows Server Technical Preview but I would say, why not :).</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image010[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0106.png\" alt=\"clip_image010[6]\" width=\"804\" height=\"512\" border=\"0\" /></p>\r\n<p>Here I am using the same naming convention as for my other feedback environments and keeping to the A2 server size.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image011[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0116.png\" alt=\"clip_image011[6]\" width=\"804\" height=\"495\" border=\"0\" /></p>\r\n<p>We then get asked to select all of those little things that we just created. Pick the cloud service so that you have the right URL and address space. We have a network and storage account that we created earlier which, while overkill, emulates more accurately how you would actually create an environment. Due diligence recommends that you always run your environments, especially if they are multi server, in isolated vlans so that you can prevent any sort of cross access between them.</p>\r\n<p>Large companies are really good at this but smaller ones usually just take the risks. If you are small however, Azure provides simple cheap isolation.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image012[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0126.png\" alt=\"clip_image012[6]\" width=\"804\" height=\"495\" border=\"0\" /></p>\r\n<p>Almost done; we have the VM running our favourite flavour of windows, or at least it will be once the provisioning has completed. Now to round out our Resource Group I want to bind some data collection for analytics.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image013[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0136.png\" alt=\"clip_image013[6]\" width=\"804\" height=\"446\" border=\"0\" /></p>\r\n<p>We should use the Application Insights for our application analytics even if we are building an on-premises application. Have you ever wondered what and how Microsoft gathers their \"provide us feedback\", well AI is an attempt to commercialise that capability for the rest of us.</p>\r\n<p>You can track feature usage within your application be it Web, Windows, or Java. For some it is easier than others but both server and client data can be gathered.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image014[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0146.png\" alt=\"clip_image014[6]\" width=\"804\" height=\"446\" border=\"0\" /></p>\r\n<p>Again we need to give the resource, in this case the Application Insights data collector, a name so that we can refer to it later. Under the covers it gets a GUID that we will be using later.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image015[6]\" src=\"https://nkdagility.com/wp-content/uploads/2014/12/clip_image0156.png\" alt=\"clip_image015[6]\" width=\"804\" height=\"446\" border=\"0\" /></p>\r\n<p>I now have a Resource Group (Cloud Compute) that is a representation of my Standard Environment that I can use for my application. Using Azure this is easy to configure and fast. Indeed I can extend the capabilities with more servers at almost the drop of a hat.</p>\r\n<p>This environment contains:</p>\r\n<ul>\r\n<li><strong>Domain Name (nkd-ff-f2)</strong> - remember we had to use the old portal otherwise the new portal gives it a domain name of the first resource that requires one.</li>\r\n<li><strong>Virtual Machine (nkd-ff-f2-svr01)</strong> - This is where we will be deploying our application and as it is IAAS (Infrastructure as a Service) it is identical to an on-premises instance.</li>\r\n<li><strong>Application Insights (nkd-ff-f2-AI)</strong> - Collects the application analytics that we will push into our application. If you are deploying multiple applications on the same hardware you may want to separate the data.</li>\r\n</ul>\r\n<p>Next time I will be deploying an application to this environment that we created.</p>"
+  - >-
+    <p class="lead">Next week I will be <a
+    href="http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/">speaking
+    at NDC London 2014</a> and I have been working on my demo. Since Connect()
+    everything for a little bit easier and I need to create an environment for
+    Release Management for Visual Studio 2013.</p>
+  post_id: '10923'
+  post_date: '2014-12-04 11:30:00'
+  post_date_gmt: '2014-12-04 11:30:00'
+  post_modified: '2014-12-01 20:40:42'
+  post_modified_gmt: '2014-12-01 20:40:42'
+  comment_status: open
+  ping_status: open
+  post_name: create-standard-environment-release-management-azure
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '4837'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpcf_belongs_speaking-engagements_id
+    meta_value: '10821'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1rOdQkR
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: standard environments
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '64'
+  - meta_key: dsq_thread_id
+    meta_value: '3280762070'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474922342;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10811;}i:1;a:1:{s:2:"id";i:11248;}i:2;a:1:{s:2:"id";i:10970;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-12-04-create-standard-environment-release-management-azure.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '709'
+  comment:
+  - comment_id: '8408'
+    comment_author: >-
+      Create a Release Management pipeline for Professional Developers | naked
+      ALM - Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/create-release-management-pipeline-professional-developers/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2014-12-04 12:16:23'
+    comment_date_gmt: '2014-12-04 12:16:23'
+    comment_content: >-
+      [&#8230;] that I have it configured I want to show how to create a Release
+      Management pipeline for Professional Developers and [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417695383.553788;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417868958.701402;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417868963.235427;s:7:"message";s:48:"MrHinsh changed
+        the comment status to
+        unapproved";s:5:"event";s:17:"status-unapproved";s:4:"user";s:7:"MrHinsh";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417868967.869186;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '8409'
+    comment_author: Dew Drop &#8211; December 4, 2014 (#1908) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/12/04/dew-drop-december-4-2014-1908/
+    comment_author_IP: 168.62.48.13
+    comment_date: '2014-12-04 12:58:07'
+    comment_date_gmt: '2014-12-04 12:58:07'
+    comment_content: >-
+      [&#8230;] Create a Standard Environment for Release Management in Azure
+      (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417697887.465063;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1417868948.804123;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '8854'
+    comment_author: Create a Standard Environment for Release Manag...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/asp-net-by-eyal-vardi/p/4033500499/2014/12/13/create-a-standard-environment-for-release-management-in-azure-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 185.32.100.72
+    comment_date: '2014-12-13 09:35:59'
+    comment_date_gmt: '2014-12-13 09:35:59'
+    comment_content: >-
+      [&#8230;] Next week I will be speaking at NDC London 2014 and I have been
+      working on my demo. Since Connect() everything for a little bit easier and
+      I need to create an environment for Release Management for Visual Studio
+      2013.&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1418463359.412816;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1418556264.341438;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '8957'
+    comment_author: Alexander Viken
+    comment_author_email: alexander@agilemobility.net
+    comment_author_url: ''
+    comment_author_IP: 185.55.104.2
+    comment_date: '2014-12-15 12:17:00'
+    comment_date_gmt: '2014-12-15 12:17:00'
+    comment_content: |-
+      Does Release Management for VSO support anything but Azure VM's yet? 
+
+      Great post and would love to see this talk in Oslo :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1742919516'
+  - comment_id: '8958'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-12-15 12:19:00'
+    comment_date_gmt: '2014-12-15 12:19:00'
+    comment_content: >-
+      It does not. However you can create your own RM instance that can run in
+      Azure or locally and plug it into VSO... I would expect these features
+      soon...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '8957'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1742919516'
+    - meta_key: dsq_post_id
+      meta_value: '1742920854'
+  - comment_id: '9028'
+    comment_author: Alexander Viken
+    comment_author_email: alexander@agilemobility.net
+    comment_author_url: ''
+    comment_author_IP: 193.91.172.182
+    comment_date: '2014-12-16 17:04:00'
+    comment_date_gmt: '2014-12-16 17:04:00'
+    comment_content: >-
+      I know, but still no PaaS support if you do that, I am really looking
+      forward to the day when you could deploy directly to a PaaS service :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '8958'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1742920854'
+    - meta_key: dsq_post_id
+      meta_value: '1745242142'
+  - comment_id: '9218'
+    comment_author: Create a Standard Environment for Release Manag...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/net-world/p/4033950017/2014/12/21/create-a-standard-environment-for-release-management-in-azure-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 185.32.100.72
+    comment_date: '2014-12-20 23:44:17'
+    comment_date_gmt: '2014-12-20 23:44:17'
+    comment_content: >-
+      [&#8230;] &ldquo;Next week I will be speaking at NDC London 2014 and I
+      have been working on my demo. Since Connect() everything for a little bit
+      easier and I need to create an environment for Release Management for
+      Visual Studio 2013.&rdquo;&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1419119057.077377;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1419952096.419741;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '10355'
+    comment_author: >-
+      NDC London 2014: Why TFS no longer sucks and VSO is awesome | naked ALM -
+      Experts in ALM, TFS &amp; lean-agile with Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome/
+    comment_author_IP: 97.107.139.31
+    comment_date: '2015-01-22 11:43:35'
+    comment_date_gmt: '2015-01-22 11:43:35'
+    comment_content: >-
+      [&#8230;] Create a Standard Environment for Release Management in Azure
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421927015.507158;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1421933489.909667;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '12682'
+    comment_author: Glen Boonzaier
+    comment_author_email: glenb@nowmedia.co.za
+    comment_author_url: ''
+    comment_author_IP: 196.214.51.98
+    comment_date: '2015-07-15 11:41:00'
+    comment_date_gmt: '2015-07-15 10:41:00'
+    comment_content: >-
+      Have a look at this blog post:
+
+      http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/11/using-release-management-vso-service-to-manage-releases.aspx
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '9028'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1745242142'
+    - meta_key: dsq_post_id
+      meta_value: '2137486847'

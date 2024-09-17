@@ -1,0 +1,214 @@
+post:
+  title: Unable to install Visual Studio 2013 RC on Windows 8.1 Preview
+  link: >-
+    https://nkdagility.com/blog/unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview/
+  pubDate: Mon, 09 Sep 2013 10:40:43 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9998
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">When you try to install Visual Studio 2013 RC (or Visual Studio 2013 RC Team Foundation Server) you get the message “Error: This version of Team Foundation Server is not compatible with Windows 8.1 Preview”</p>\r\n<p><img title=\"image\" style=\"border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"https://nkdagility.com/wp-content/uploads/2013/08/image10.png\" width=\"750\" height=\"450\"><br>Figure: This version of Team Foundation Server is not compatible with Windows 8.1 Preview</p>\r\n<h2>Applies to</h2>\r\n<ul>\r\n<li>Team Foundation Server 2013 Preview on Windows Server 2012 R2 Preview\r\n<li>Visual Studio on Windows Server 2012 R2 Preview\r\n<li>Team Foundation Server 2013 Preview on Windows 8.1 Preview\r\n<li>Visual Studio on Windows 8.1 Preview</li>\r\n</ul>\r\n<h2>Findings</h2>\r\n<p>Unfortunately in order to install the Release Candidate there is a requirement to update the version of .NET that is on the server. As the Preview copies of Windows 8.1 and Windows Server 2012 R2 has .net 4.5.1 Preview baked in you will not be able to install the new version on there.</p>\r\n<p>You can however use Windows Server 2012, Windows 8, Windows Server 2008 R2, and Windows 7 to install the components.</p>\r\n<h2>Conclusion</h2>\r\n<p>In order to move forward with the new RC versions of Visual Studio and Team Foundation Server you will need to move to an RTM version of Windows. If you can get the Windows 8.1 or Windows Server 2012 R2 RTM then you are good to go. However you will be unlikely to get them prior to General Availability in October. </p>\r\n<p>You can however use any of the existing version of Windows and Windows Server that are supported.</p>\r\n<p>&nbsp;</p>\r\n<p><!--EndFragment--></p>"
+  - >-
+    <p class="lead">When you try to install Visual Studio 2013 RC (or Visual
+    Studio 2013 RC Team Foundation Server) you get the message “Error: This
+    version of Team Foundation Server is not compatible with Windows 8.1
+    Preview”</p>
+  post_id: '9998'
+  post_date: '2013-09-09 10:40:43'
+  post_date_gmt: '2013-09-09 10:40:43'
+  post_modified: '2013-09-09 17:45:00'
+  post_modified_gmt: '2013-09-09 17:45:00'
+  comment_status: open
+  ping_status: open
+  post_name: unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '80'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Visual Studio 2013 RC
+  - meta_key: _yoast_wpseo_title
+    meta_value: Unable to install Visual Studio 2013 RC on Windows 8.1 Preview
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Error: This version of Team Foundation Server is not compatible with
+      Windows 8.1 Preview when installing Visual Studio 2013 RC
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '1741367407'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBIBVL
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474778990;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10041;}i:1;a:1:{s:2:"id";i:10214;}i:2;a:1:{s:2:"id";i:11072;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-09-09-unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '664'
+  comment:
+  - comment_id: '1863'
+    comment_author: What&#039;s new in Visual Studio 2013 RC with Team Foundation Server
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-09-09 17:39:46'
+    comment_date_gmt: '2013-09-09 17:39:46'
+    comment_content: >-
+      [&#8230;]  Unable to install Visual Studio 2013 RC on Windows 8.1 Preview
+      There is no &#8220;do agile&#8221; there is only &#8220;be
+      agile&#8221;            (function() { var po =
+      document.createElement(&#039;script&#039;); po.type =
+      &#039;text/javascript&#039;; po.async = true; po.src =
+      &#039;https://apis.google.com/js/plusone.js&#039;; var s =
+      document.getElementsByTagName(&#039;script&#039;)[0];
+      s.parentNode.insertBefore(po, s); })();  Tweet !function(d,s,id){var
+      js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);
+      (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if
+      (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src
+      =
+      &quot;//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=121542701224352&quot;;
+      fjs.parentNode.insertBefore(js, fjs); }(document, &#039;script&#039;,
+      &#039;facebook-jssdk&#039;)); [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1378748386.420722;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1378749026.106194;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1868'
+    comment_author: >-
+      Visual Studio 2013 RC Released - The Microsoft MVP Award Program Blog -
+      Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/mvpawardprogram/archive/2013/09/09/visual-studio-2013-rc-released.aspx
+    comment_author_IP: 157.56.75.175
+    comment_date: '2013-09-09 18:15:18'
+    comment_date_gmt: '2013-09-09 18:15:18'
+    comment_content: >-
+      [&#8230;] you&#039;re computer is compatible&nbsp;then you want to
+      immediately get to grips with the new features. I would recommend that you
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1378750782.959341;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1882'
+    comment_author: Graham Pembery
+    comment_author_email: graham.pembery@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 217.20.21.226
+    comment_date: '2013-09-10 09:12:00'
+    comment_date_gmt: '2013-09-10 09:12:00'
+    comment_content: >-
+      Windows 8.1 and Windows Server 2012 R2 RTMs have been published on MSDN
+      and TechNet at 10pm PST yesterday.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1036850253'
+  - comment_id: '1896'
+    comment_author: Pezmc
+    comment_author_email: email@pezcuckow.com
+    comment_author_url: ''
+    comment_author_IP: 151.230.24.65
+    comment_date: '2013-09-17 18:35:00'
+    comment_date_gmt: '2013-09-17 18:35:00'
+    comment_content: This sucks, as I don't have access to RTM
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1048261451'
+  - comment_id: '1963'
+    comment_author: >-
+      Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and
+      Windows 8.1&hellip; - naked ALM Blog - Experts in Visual Studio ALM, TFS,
+      Visual Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://nkdagility.com/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2013-10-17 12:17:32'
+    comment_date_gmt: '2013-10-17 12:17:32'
+    comment_content: >-
+      [&#8230;] Unable to install Visual Studio 2013 RC on Windows 8.1 Preview
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382012252.309697;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1382012389.598147;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

@@ -1,0 +1,607 @@
+post:
+  title: Getting started with a modern source control system and DevOps
+  link: >-
+    https://nkdagility.com/blog/getting-started-with-modern-source-control-system-and-devops/
+  pubDate: Fri, 10 Nov 2017 13:05:00 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=11456
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <!-- wp:paragraph -->
+
+    <p>There are a number of things that you have to think about when selecting
+    a modern source control system. Some of that is purely about code, but
+    modern source control systems are about way more than code. They are about
+    your entire application lifecycle and supporting DevOps practices, they are
+    about the metadata that you use to understand and manage your development
+    processes and deliver great software. The tools you choose should compliment
+    the professional people and practices that you use.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:html -->
+
+    <blockquote><p>DevOps is the union of people, processes, and practices to
+    enable continious delivery of value to your end users</p><footer>Donovan
+    Brown</footer></blockquote>
+
+    <!-- /wp:html -->
+
+
+    <!-- wp:heading -->
+
+    <h2 id="h-tl-dr">TL;DR</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>I have been teaching the <a
+    href="https://nkdagility.com/training/courses/professional-scrum-developer-training/">Professional
+    Scrum Developer (PSD) training</a> and working with software teams for 7
+    years. I have never encountered a better platform than <a
+    href="https://www.visualstudio.com/team-services/">Visual Studio Team
+    Services (VSTS)</a> for managing the metadata required to facilitate the
+    building of professional software on a regular cadence in any technology
+    that is deployed to any platform. I have seen Java, .NET, Web, Android, iOS,
+    and Mainframe teams all working together in VSTS with a shared vision and
+    access to the same metadata. If you have many teams I did a webcast for
+    Scrum.org on <a
+    href="https://nkdagility.com/scaling-professional-scrum-visual-studio-team-services/">Scaling
+    Professional Scrum with VSTS.</a></p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading -->
+
+    <h2 id="h-let-s-get-some-things-out-the-way-first">Let's get some things out
+    the way first</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>If you are writing code then it SHOULD be in Source Control. More
+    specifically, if you are writing code for your company then it MUST be in
+    Source Control. Every line of code that you write or change is an asset of
+    your organisation and should be reflected on a balance sheet somewhere. Any
+    value you add is capital expenditure, of which your shareholders/owners
+    should care, and any maintenance is operational expenditure, which your
+    accountants can write off.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>Put your code in source control…</strong> and yes, I still meet
+    organisations that DON’T use source control. No, not only small sweatshops
+    but banks as well. Would you want your real-time transactional banking
+    system under source control? Coz I would!</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Another thing to get out of the way is that deploying directly to
+    production is a BAD IDEA! If you are deploying from your local workstation
+    then you are introducing significant risk to your business and reducing the
+    quality of the organisational asset. Any reduction of quality is a decision
+    that needs to be taken by your executive board on advice from your
+    accountant. Again, organisational asses sitting on a balance sheet. Its
+    fraud to incorrectly represent the value of an asset, ignorance is not an
+    excuse. Even if you have automated builds; if you ship irregularly, or with
+    a lot of time between releases, then you likely have a way to bug-fix
+    production quickly. Bypassing your usual checks and balances for shipping
+    software reduces quality and shows an inherent lack of engineering
+    excellence in your organisation.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>Deploy software through an automated release pipeline…</strong>
+    and yes, I have met companies that deploy directly to production from
+    workstations. I even worked with one company that had operations using trial
+    and error mixing and matching DLL's to get the software working in
+    production. One customer required to do 9000+ hours of manual testing to
+    validate that</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>Modern source control is more than just code...</strong> in the
+    past, just like operating systems used to be simple things, you could stick
+    your code in source control and call it good. In the past, you used VSS,
+    Subversion, or Perforce and it was good enough. Not anymore. Just as you
+    expect a browser to ship with your OS, you now expect a build engine,
+    release management, and planning tools to ship with your source control
+    system and for them all to be integrated. So don't base your choice on that
+    one thing, think of the integration and other tools that you need to support
+    your modern software development pipeline.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>I would expect my release tools to understand exactly; what changes have
+    been made to the code, which features of the system are affected, and what
+    the resulting impact of that release had on both the user experience and
+    system performance through telemetry. I would expect my work tracking tools
+    to understand exactly; what branches are related to this work, which build
+    include the changes, and who approved the pull requests that brought that
+    code into the system. This is the type of metadata, regardless of the
+    implementation technology, that I would expect to be available to
+    Engineering and Management to help them understand their process and how
+    things are going.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>That all said it is important to remember to focus on <a
+    href="https://nkdagility.com/scrum-tapas-importance-professionalism/">becoming
+    a professional Scrum team</a> rather than an amateur one. While you need to
+    focus on the Scrum Guide, you also need Engineering Excellence and a set of
+    Values and Principles.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:heading -->
+
+    <h2 id="h-recommended-good-practices-for-a-modern-software-team">Recommended
+    good practices for a modern software team</h2>
+
+    <!-- /wp:heading -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>I almost never use the term "best practices", especially for software
+    delivery and anyone that gives you a best practice is generally talking out
+    their ass. There are only good practices that fit the current needs of the
+    business or the situation at hand. In the modern software development world,
+    you need to accept that any process or practice that you adopt is
+    imperfectly defined and will need to be adapted to meet your needs. That
+    said, having source control and an automated release pipeline is not
+    optional if you want to continue to be competitive. You need to be able to
+    monitor both your Lead Time and your Cycle Time.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Some general guidelines you should consider:</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:list -->
+
+    <ul><li><strong>Never code without Source Control</strong> - Ultimately the
+    tool does not matter but if you are building Open Source Software (OSS) then
+    you need to be on GitHub. GitHub has cornered the OSS market and has not
+    near competitor. If however, you are building closed source software then
+    there is no better platform than Visual Studio Team Services (VSTS). You get
+    unlimited private repositories and if you have MSDN licences, as most
+    organisations building on the Microsoft stack does, then it is already
+    included in your licence. If you are not on the Microsoft Stack then I would
+    still recommend VSTS as the cheapest and most featureful platform available
+    that supports any platform and any environment.</li><li><strong>Use feature
+    flags to minimise branches</strong> - Branches introduce waste with merging
+    and often introduce quality issues. Bypass the whole issue by using Feature
+    flags and other software patterns to avoid it. If you are using a
+    distributed source control system (DVCS) only ever release from MASTER with
+    fully tested code, but you can have an unlimited number of topic and
+    personal branches, as long as they are short lived. If you are using a
+    server-based source control system (SVCS) then you should completely avoid
+    branches where possible, and work to move towards a DVCS. Maybe you need
+    only [trunk/master/main] and [dev/work] branches but focus on a zero branch
+    policy.</li><li><strong>Move to Git </strong>- Regardless of the scale of
+    the software that you are building, you should be developing on Git. If you
+    are clinging to your SVCS (TFVC, Perforce, SVN, whatever) then you are
+    merely clinging to the past and relying on outmoded technology. Even the
+    Windows team at Microsoft has moved to Git, as has Bing, Xbox, &amp; the
+    entire Developer Division.</li><li><strong>Meet your Definition of Done at
+    least every 30 days</strong> - Create a definition of done that represents
+    the minimum bar of quality for everything your develop. Make sure that
+    definition reflects everything that you need to do to ship your software to
+    production, and get there at least every 30 days. If you can get there more
+    regularly that better, and if you can <a
+    href="https://nkdagility.com/continuous-deliver-sprint/">practice continuous
+    delivery inside of your planning Sprints</a> then that's even
+    better.</li><li><strong>Get feedback from your users at least every 30
+    days</strong> - Part of the trick of delivering awesome software is building
+    just what your customers need, just as they need it. The only way to do this
+    is to get what you have just built into your customer's hands so they can
+    tell you is it is right, then pivot as soon as they give you feedback.
+    Continuous delivery to production is the best way to achieve
+    this.</li><li><strong>Create tests first so you build what was asked the
+    first time</strong> - You should always work towards test-first practices.
+    While for many this means Test Driven Development (TDD) I like to look it as
+    any form of test-first. How can your coders ever hope to pass the quality
+    gates when the testers build the test cases separately and only show the
+    coders after they are finished. Get your test cases written first and have
+    the coders make them pass. I also recommend that coders use TDD and pair
+    programming. Following Test First will help you move from testing quality in
+    at the end to building quality in from the start.</li><li><strong>Automate
+    every test you can</strong> - Automation is key to a successful delivery
+    because you can't run all your tests every 30 days. Every 30 days you add
+    more tests and without automation, you can't keep up. Ideally, all of your
+    tests are automated from the start. An interesting example is that Microsoft
+    moved all of its testing efforts into the Development Teams around 3 years
+    ago, and got rid of their last external test team about 2 years ago. Make
+    your Development Team(s) accountable for Quality and give them the tools to
+    make it happen.</li><li><strong>Create automated release pipeline</strong> -
+    Creating an automated release pipeline is hard but the benefits are
+    numerable. From quality to resilience you just must have one to support
+    modern development practices. You should focus on delivering to production
+    (start with as close as you can get) at least every 30 days, but expect to
+    need to ship many times a day. Automation will make your process quick and
+    easy an lets you focus on improving the pipeline over time as you his
+    issues. This is where lean practices and focusing on flow can really help
+    minimise the waste and improve the process.</li></ul>
+
+    <!-- /wp:list -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>In order to support these things, I use VSTS as my software development
+    platform. With the move by Microsoft to distance its platform from execution
+    and focus on orchestration we get a system that can support any team
+    developing with any technology for any platform. This allows us to have a
+    single unified organisational vision and tool for our orchestration of
+    portfolio, planning, execution, coding, build, test management, and release
+    while leaving the execution of these tasks and the technologies used in and
+    to build our software up to the team. You might have one team that used
+    Nuget and another than uses NPM, or one using Maven and another on Gulp.
+    Regardless of your implementation choice, VSTS can support your teams doing
+    Scrum and deploying anything on a regular cadence to anywhere. When I am
+    teaching a <a
+    href="https://nkdagility.com/training/courses/professional-scrum-developer-training/">Professional
+    Scrum Developer (PSD)</a> class I always use VSTS regardless of the
+    technology that the students are working on.</p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p><strong>Don’t get locked into a limited set of technologies, VSTS
+    supports every technology on every platform.</strong></p>
+
+    <!-- /wp:paragraph -->
+
+
+    <!-- wp:paragraph -->
+
+    <p>Find out more on <a href="https://nkdagility.com/training/"
+    data-cke-saved-href="https://nkdagility.com/blog/">Visual Studio Team
+    Services</a> from <a
+    href="https://nkdagility.com/company/about-martin-hinshelwood/">naked
+    Agility - Martin Hinshelwood</a>.</p>
+
+    <!-- /wp:paragraph -->
+  - >-
+    There are a few DevOps practices that are not optional if you have a
+    professional team striving for engineering excellence in the world of modern
+    software development.
+  post_id: '11456'
+  post_date: '2017-11-10 13:05:00'
+  post_date_gmt: '2017-11-10 13:05:00'
+  post_modified: '2021-01-01 11:25:50'
+  post_modified_gmt: '2021-01-01 11:25:50'
+  comment_status: open
+  ping_status: open
+  post_name: getting-started-with-modern-source-control-system-and-devops
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '11457'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '4601752104'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1oxGrPR
+  - meta_key: _pagelines_gallery_slider
+    meta_value: 'off'
+  - meta_key: _pagelines_quote
+    meta_value: ''
+  - meta_key: _pagelines_link
+    meta_value: ''
+  - meta_key: _pagelines_video_m4v
+    meta_value: ''
+  - meta_key: _pagelines_video_ogv
+    meta_value: ''
+  - meta_key: _pagelines_video_poster
+    meta_value: ''
+  - meta_key: _pagelines_video_embed
+    meta_value: ''
+  - meta_key: _pagelines_audio_mp3
+    meta_value: ''
+  - meta_key: _pagelines_audio_ogg
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw_text_input
+    meta_value: software development
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: software development
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '56'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: '[]'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474806176;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9468;}i:1;a:1:{s:2:"id";i:10372;}i:2;a:1:{s:2:"id";i:10677;}}}}
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2016-02-22-getting-started-with-modern-source-control-system-and-devops.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: pl_magazine_format
+    meta_value: ''
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '7'
+  - meta_key: _yoast_wpseo_primary_marketing-category
+    meta_value: ''
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '30'
+  - meta_key: _wpcom_is_markdown
+    meta_value: '1'
+  - meta_key: _wpml_media_duplicate
+    meta_value: ''
+  - meta_key: _wpml_media_featured
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.0.0.1
+  - meta_key: kamy_acc_user_role
+    meta_value: a:0:{}
+  - meta_key: kamy_acc_group_child
+    meta_value: '[]'
+  - meta_key: kamy_acc_group_default_filed
+    meta_value: '[]'
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: '[""]'
+  - meta_key: ekit_post_views_count
+    meta_value: '2691'
+  - meta_key: _toolset_associations_audience-post
+    meta_value: >-
+      {!{https://nakedalmstage.wpengine.com/?post_type=audience&#038;p=44700}!}
+      +
+      {!{https://nakedalmstage.wpengine.com/blog/audience-post/audiences-posts-44700-11456/}!}
+  comment:
+  - comment_id: '13845'
+    comment_author: Dew Drop &#8211; February 23, 2016 (#2194) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2016/02/23/dew-drop-february-23-2016-2194/
+    comment_author_IP: 168.62.48.122
+    comment_date: '2016-02-23 12:43:17'
+    comment_date_gmt: '2016-02-23 12:43:17'
+    comment_content: >-
+      [&#8230;] Getting started with a modern source control system and DevOps
+      (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1456231397.746895;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1456863230.956095;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13849'
+    comment_author: >-
+      Wup Wup, You won&#039;t BELIEVE what happened next!? LINKS!!!! - Magnus
+      Udbjørg
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 137.135.129.144
+    comment_date: '2016-02-25 09:40:23'
+    comment_date_gmt: '2016-02-25 09:40:23'
+    comment_content: >-
+      [&#8230;] Getting Started With A Modern Source Control System And Devops
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1456393224.015528;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1456863226.233768;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14230'
+    comment_author: David V. Corbin
+    comment_author_email: david.corbin@dynconcepts.com
+    comment_author_url: ''
+    comment_author_IP: 65.35.100.58
+    comment_date: '2017-04-28 18:11:00'
+    comment_date_gmt: '2017-04-28 17:11:00'
+    comment_content: Great Points.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3279118051'
+  - comment_id: '14231'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 163.185.148.245
+    comment_date: '2017-04-28 19:10:00'
+    comment_date_gmt: '2017-04-28 18:10:00'
+    comment_content: Thanks @davidvcorbin:disqus, much appreciated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14230'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3279118051'
+    - meta_key: dsq_post_id
+      meta_value: '3279225963'
+  - comment_id: '14370'
+    comment_author: Jorge O.
+    comment_author_email: jorgeolimpia@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 191.251.146.177
+    comment_date: '2017-11-10 16:18:00'
+    comment_date_gmt: '2017-11-10 16:18:00'
+    comment_content: >-
+      Congratulations for this post Martin. I totally agree when you said that
+      we "need to accept that any process or practice that you adopt is
+      imperfectly defined and will need to be adapted to meet your needs". It
+      proves, or at least clarifies, that there's no silver bullet when you
+      develop software but there are some basic steps and procedures to follow
+      which can help us to deliver great solutions. DevOps and Agile are fully
+      connected and they're hard to master, so the team must be engaged to adapt
+      their needs to achieve success using them.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3609812195'
+  - comment_id: '14371'
+    comment_author: Dew Drop - November 13, 2017 (#2602) - Morning Dew
+    comment_author_email: ''
+    comment_author_url: https://www.alvinashcraft.com/2017/11/13/dew-drop-november-13-2017-2602/
+    comment_author_IP: 168.62.48.33
+    comment_date: '2017-11-13 12:38:39'
+    comment_date_gmt: '2017-11-13 12:38:39'
+    comment_content: >-
+      [&#8230;] Getting started with a modern source control system and DevOps
+      (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1510576720.017067;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1510577660.230441;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14407'
+    comment_author: You are doing it wrong if you are not using test first
+    comment_author_email: ''
+    comment_author_url: >-
+      https://nkdagility.com/you-are-doing-it-wrong-if-you-are-not-using-test-first/
+    comment_author_IP: 104.199.122.113
+    comment_date: '2017-12-10 12:30:03'
+    comment_date_gmt: '2017-12-10 12:30:03'
+    comment_content: >-
+      [&#8230;] now 2017 and gone are the cowboy days of the late nineties and
+      early naughties. Along with using modern source control, software
+      engineers can no longer hide behind their management as &#8220;not giving
+      the approval to [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1512909003.991478;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1512985145.739242;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14409'
+    comment_author: A better way than staggered iterations for delivery
+    comment_author_email: ''
+    comment_author_url: >-
+      https://nkdagility.com/a-better-way-than-staggered-iterations-for-delivery/
+    comment_author_IP: 104.199.122.113
+    comment_date: '2017-12-10 13:00:31'
+    comment_date_gmt: '2017-12-10 13:00:31'
+    comment_content: "[&#8230;] Asynchronous development &#8211;\_ Ideally you want all of the disciplines that you need to complete each backlog item to work together to deliver the software. This is more than handing off between disciplines but moving towards everyone always working at any point in time. This is a hard one to achieve but is the responsibility of the team to figure out how; To achieve asynchronous development you will need a modern source control system. [&#8230;]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1512910831.108274;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1512985139.775031;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '14459'
+    comment_author: Page Not Found | Martin Hinshelwood - naked Agility Ltd
+    comment_author_email: ''
+    comment_author_url: https://nkdagility.com/?p=38238
+    comment_author_IP: 104.197.208.225
+    comment_date: '2018-01-04 12:36:15'
+    comment_date_gmt: '2018-01-04 12:36:15'
+    comment_content: >-
+      [&#8230;] Getting started with a modern source control system and DevOps
+      [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1515069375.038177;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1515144676.665299;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

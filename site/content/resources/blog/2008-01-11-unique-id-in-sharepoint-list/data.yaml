@@ -1,0 +1,443 @@
+post:
+  title: Unique ID in SharePoint list
+  link: https://nkdagility.com/blog/unique-id-in-sharepoint-list/
+  pubDate: Fri, 11 Jan 2008 08:44:52 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/11/unique-id-in-sharepoint-list.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><a
+    href="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_2.png">This
+    seams to be a common problem, and one that I get many calls from users
+    about:</a></p>
+
+    <img
+    src="http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_thumb.png"
+    alt="image" width="244" height="223" border="0" />
+
+    <blockquote>
+
+    <p><em>I have a query with our Sharepoint site and was advised that you were
+    probably the best person to ask.</em></p>
+
+    <p><em>I have created a list under:</em></p>
+
+    <p><a
+    href="http://sharepoint/sites/department/Lists/ListName/AllItems.aspx"><em>http://sharepoint/sites/department/Lists/ListName/AllItems.aspx</em></a></p>
+
+    <p><em>I need the first column (Issue ID) to be an automatically generated
+    number but can’t seem to get it.&nbsp; Would it be possible for you to take
+    a look and advise?</em></p>
+
+    </blockquote>
+
+    <p>You can't add a new unique auto-generated ID to a SharePoint list, but
+    there already is one there! If you edit the "All Items" view you will see a
+    list of columns that do not have the display option checked.</p>
+
+    <p>There are quite a few of these columns that exist but that are never
+    displayed, like "Created By" and "Created". These fields are used within
+    SharePoint, but they are not displayed by default so as not to clutter up
+    the display. You can't edit these fields, but you can display them to the
+    user. if you check the "Display" box beside the ID field you will get a
+    unique and auto-generated ID field displayed in your list.</p>
+
+    <div class="wlWriterEditableSmartContent" style="margin: 0px; float: none;
+    padding: 0px;">Technorati Tags: <a href="http://technorati.com/tags/SP+2007"
+    rel="tag">SP 2007</a>&nbsp;<a href="http://technorati.com/tags/Answers"
+    rel="tag">Answers</a>&nbsp;<a href="http://technorati.com/tags/SP+2010"
+    rel="tag">SP 2010</a>&nbsp;<a href="http://technorati.com/tags/SharePoint"
+    rel="tag">SharePoint</a>&nbsp;</div>
+  - ''
+  post_id: '265'
+  post_date: '2008-01-11 08:44:52'
+  post_date_gmt: '2008-01-11 08:44:52'
+  post_modified: '2008-01-11 08:44:52'
+  post_modified_gmt: '2008-01-11 08:44:52'
+  comment_status: open
+  ping_status: open
+  post_name: unique-id-in-sharepoint-list
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311377300'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBMmdZ
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474901574;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:383;}i:1;a:1:{s:2:"id";i:389;}i:2;a:1:{s:2:"id";i:9905;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-11-unique-id-in-sharepoint-list.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '899'
+  comment:
+  - comment_id: '342'
+    comment_author: Mark
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-13 18:48:31'
+    comment_date_gmt: '2008-01-13 18:48:31'
+    comment_content: >-
+      Hello,<br /><br />Is it possible to display this ID when viewing the
+      item?  I hav added this id to the lit view however it would be handy when
+      I printed the item to have the id printed with the page.<br /><br
+      />Thanks,<br />Mark
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971239'
+  - comment_id: '343'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-13 23:25:34'
+    comment_date_gmt: '2008-01-13 23:25:34'
+    comment_content: >-
+      If you use Microsoft Office Sharepoint Designer to edit the aspx page that
+      displays the item manualy to achieve this. What might be better though,
+      because when you edit the page it stays edited and does not dynamicaly add
+      fields, you could create a print page that has the desired fields and add
+      a button outside of the form to view that page :)<br /><br />For all
+      options you would need the Sharepoint Designer though....
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971241'
+  - comment_id: '344'
+    comment_author: Mark
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-14 06:23:43'
+    comment_date_gmt: '2008-01-14 06:23:43'
+    comment_content: Brilliant.<br /><br />Thanks very much.<br /><br />Mark
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971242'
+  - comment_id: '345'
+    comment_author: Wade
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-30 01:15:40'
+    comment_date_gmt: '2008-01-30 01:15:40'
+    comment_content: >-
+      Is this ID field unique across all sites and libraries, or just the
+      current site?<br /><br />Thanks,<br /><br />Wade
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971243'
+  - comment_id: '346'
+    comment_author: Randy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-30 04:01:14'
+    comment_date_gmt: '2008-01-30 04:01:14'
+    comment_content: >-
+      A question to add to this string... The unique List ID works well for our
+      lists, but we cannot use that column for searches.  For example, if I want
+      to find List ID #1234 and I search 1234, nothing is returned.  Is there a
+      way to index this ID?<br /><br />Many thanks in advance,<br />Randy
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971248'
+  - comment_id: '347'
+    comment_author: Lisa
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-01-30 22:32:59'
+    comment_date_gmt: '2008-01-30 22:32:59'
+    comment_content: Thank you so much.  <br /><br />This has helped out tremendously.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971250'
+  - comment_id: '348'
+    comment_author: Brian
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-04-09 00:15:04'
+    comment_date_gmt: '2008-04-09 00:15:04'
+    comment_content: >-
+      An easier solution for adding the ID column to the View Item view can be
+      found here: http://www.sharepointu.com/forums/t/639.aspx.  I tried it and
+      it works perfectly.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971252'
+  - comment_id: '349'
+    comment_author: Deena
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-05-08 03:29:38'
+    comment_date_gmt: '2008-05-08 03:29:38'
+    comment_content: >-
+      I want to use the default Issue ID to create another column called Ticket
+      which is a unique number equal to Issue ID +5000. That way I can set my
+      starting number. Is that possible? I can't seem to put it in the formula
+      field for a calculated value field.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971253'
+  - comment_id: '350'
+    comment_author: Taz
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-05-13 11:52:52'
+    comment_date_gmt: '2008-05-13 11:52:52'
+    comment_content: >-
+      One way to add a unique id to a field (column) is to use the Item Added or
+      Item Updated Event Handler. So for example, in your ItemAdded Event
+      Handler<br />        <br />public override void
+      ItemAdded(SPItemEventProperties properties)<br />{<br
+      />properties.ListItem["Issue ID"] = int.parse(properties.ListItem["Issue
+      ID"]) + 1<br /><br />DisableEventFiring();<br
+      />properties.ListItem.SystemUpdate(false);<br />EnableEventFiring();<br
+      />}<br /><br /><br /><br />This code, or something simliar
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971254'
+  - comment_id: '351'
+    comment_author: Jagadish
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-06-18 10:35:24'
+    comment_date_gmt: '2008-06-18 10:35:24'
+    comment_content: Thank you it helped me a lot.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971255'
+  - comment_id: '352'
+    comment_author: Paulvarghiese
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-10-26 12:57:00'
+    comment_date_gmt: '2008-10-26 12:57:00'
+    comment_content: >-
+      How to display Unique id in alert message.<br />because it's only coming
+      to display in list. not alert.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971257'
+  - comment_id: '353'
+    comment_author: ''
+    comment_author_email: jmart234@bellsouth.net
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-11-22 12:39:00'
+    comment_date_gmt: '2011-11-22 20:39:00'
+    comment_content: "Can anyone explain to me how the ID # works in Sharepoint 2007?\_ I have read many posts that say this number does not change.\_ \nDoes a workflow reassign the ID #?\_ I have workflows running on the sharepoint site.\_ It is very important that the list items be kept in the same order as when they were originally created.\_ My initial image was that I could use the ID # to keep the list in order\_(since it wasn't supposed to change).\_ Any thoughts?"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '370323721'
+  - comment_id: '354'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:51:00'
+    comment_date_gmt: '2012-12-28 10:51:00'
+    comment_content: cvbn bvnvbhmnb
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '342'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '209971239'
+    - meta_key: dsq_post_id
+      meta_value: '749380311'
+  - comment_id: '355'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:51:00'
+    comment_date_gmt: '2012-12-28 10:51:00'
+    comment_content: ghghj
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '354'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '749380311'
+    - meta_key: dsq_post_id
+      meta_value: '749380508'
+  - comment_id: '356'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:51:00'
+    comment_date_gmt: '2012-12-28 10:51:00'
+    comment_content: ggffsdtgr
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '355'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '749380508'
+    - meta_key: dsq_post_id
+      meta_value: '749380757'
+  - comment_id: '357'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:51:00'
+    comment_date_gmt: '2012-12-28 10:51:00'
+    comment_content: dgvfdg
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '356'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '749380757'
+    - meta_key: dsq_post_id
+      meta_value: '749380817'
+  - comment_id: '358'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:51:00'
+    comment_date_gmt: '2012-12-28 10:51:00'
+    comment_content: gffhfgh
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '354'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '749380311'
+    - meta_key: dsq_post_id
+      meta_value: '749380976'
+  - comment_id: '359'
+    comment_author: bvcvbnv
+    comment_author_email: cvbc@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 182.71.4.52
+    comment_date: '2012-12-28 02:52:00'
+    comment_date_gmt: '2012-12-28 10:52:00'
+    comment_content: cvdvbdvb
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '354'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '749380311'
+    - meta_key: dsq_post_id
+      meta_value: '749381085'

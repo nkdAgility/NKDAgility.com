@@ -1,0 +1,711 @@
+post:
+  title: 'PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services'
+  link: >-
+    https://nkdagility.com/blog/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services/
+  pubDate: Wed, 02 Oct 2013 10:55:58 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10149
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Have you ever wanted to use PowerShell to interact with the TFS 2013 API? Well I have been working through a few scenarios and wanted to get them to you so that I can get some feedback.</p>\r\n<p>This will likely be a series of PowerShell posts as I build up my library of PowerShell statements. In order to interact with the TFS API with PowerShell, the first things we need to do is import the types that we are going to use. As there are no real PowerShell comandlets for TFS out of the box we need to import the actual assemblies and then wrap a bunch of functions that we want to use.</p>\r\n<pre>$pathToAss2 = \"C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\ReferenceAssemblies\\v2.0\"\r\n$pathToAss4 = \"C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\ReferenceAssemblies\\v4.5\"\r\nAdd-Type -Path \"$pathToAss2\\Microsoft.TeamFoundation.Client.dll\"\r\nAdd-Type -Path \"$pathToAss2\\Microsoft.TeamFoundation.Common.dll\"\r\n#Add-Type -Path \"$pathToAss2\\Microsoft.TeamFoundation.dll\"\r\nAdd-Type -Path \"$pathToAss2\\Microsoft.TeamFoundation.WorkItemTracking.Client.dll\"\r\nAdd-Type -Path \"$pathToAss2\\Microsoft.TeamFoundation.VersionControl.Client.dll\"\r\nAdd-Type -Path \"$pathToAss4\\Microsoft.TeamFoundation.ProjectManagement.dll\"\r\n</pre>\r\n<p><small>Figure: Referencing Assemblies </small></p>\r\n<p>Above I have a set of Assembly imports that reflect the breadth of the functions that I am adding. I am continuously adding to this list but there are a few parts of interest. The first 3 assemblies loaded are the core TFS API’s that you will need for almost every interaction. They represent things like the Server and Collection as well as TeamProject and other core concepts that traverse any particular component. It is worth noting that everything here is the same as you would do in .NET.</p>\r\n<p>The last three assemblies provide Work Item Tracking, Version Control and Project Management respectively. The Project Management assemblies are in the v4.5 folder instead of v2.0 as they were only recently added. With more new features coming down the line it is likely that more things will end up in the v4.5 folder.</p>\r\n<p>The very first thing that you will always do when working with the TFS is connect to your TFS server. Really that means that you will be connecting to the Collection that you want to work with. There are some things that you may want to do against the server but not many.</p>\r\n<pre>function Get-TfsCollection {\r\n Param(\r\n       [string] $CollectionUrl\r\n       )\r\n    if ($CollectionUrl -ne \"\")\r\n    {\r\n        #if collection is passed then use it and select all projects\r\n        $tfs = [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrl)\r\n    }\r\n    else\r\n    {\r\n        #if no collection specified, open project picker to select it via gui\r\n        $picker = New-Object Microsoft.TeamFoundation.Client.TeamProjectPicker([Microsoft.TeamFoundation.Client.TeamProjectPickerMode]::NoProject, $false)\r\n        $dialogResult = $picker.ShowDialog()\r\n        if ($dialogResult -ne \"OK\")\r\n        {\r\n            #exit\r\n        }\r\n        $tfs = $picker.SelectedTeamProjectCollection\r\n    }\r\n    Return $tfs\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to the TFS Collection in PowerShell</small></p>\r\n<p>Here I am doing a couple of things. If you pass a URL to a TFS Collection as a string into the function it will create a TFS Collection object based on that URL by calling the static GetTeamProjectCollection method on the built in factory class. That is the easy way. If you don’t specify the URL the PowerShell script above hooks into the built in API’s to show the same Collection Picker dialog that you get in Visual Studio when you try to connect. This actually has three modes, but here i am only using the “NoProject” mode to select a Collection only.</p>\r\n<pre>function Get-TfsCommonStructureService {\r\n Param(\r\n       [Microsoft.TeamFoundation.Client.TfsTeamProjectCollection] $TfsCollection\r\n       )\r\n    Return $TfsCollection.GetService(\"Microsoft.TeamFoundation.Server.ICommonStructureService3\")\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to the TFS Common Structure Service with PowerShell</small></p>\r\n<p>Now that we have our TFS server object we can start exercising it. However everything in TFS is pretty much done through a collection of servers that you get from that Collection object. Here we are doing a get on the <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.icommonstructureservice3.aspx\" target=\"_blank\">Common Structure Service</a> which is responsible for some of the underlying structures like Team Projects, Area Paths and Iteration Paths.</p>\r\n<pre>$global:TfsWorkItemStoreCache\r\nfunction Get-TfsWorkItemStore {\r\n Param(\r\n       [Microsoft.TeamFoundation.Client.TfsTeamProjectCollection] $TfsCollection,\r\n       [switch] $refresh\r\n       )\r\n       If ($global:TfsWorkItemStoreCache -eq $null -or $refresh -eq $true)\r\n       {\r\n       $global:TfsWorkItemStoreCache= $TfsCollection.GetService([Microsoft.TeamFoundation.WorkItemTracking.Client.WorkItemStore])\r\n       }\r\n    Return $global:TfsWorkItemStoreCache\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to the TFS Work Item Store with PowerShell</small></p>\r\n<p>Another component that you will get a lot of use out of is the <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.workitemtracking.client.workitemstore.aspx\" target=\"_blank\">Work Item Store</a>. This is where all of the magic happens with Work Items. We can use it to access queries, create our own queries as well as create and edit Work Items. If you are just a little crazy you can also edit the work item types…</p>\r\n<pre>function Get-TfsVersionControlServer {\r\n    Param(\r\n        [Microsoft.TeamFoundation.Client.TfsTeamProjectCollection] $TfsCollection\r\n        )\r\n    Return $TfsCollection.GetService(\"Microsoft.TeamFoundation.VersionControl.Client.VersionControlServer\")\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to TFS Version Control with PowerShell</small></p>\r\n<p>If you are seeking to work with the Source Code then <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.versioncontrol.client.versioncontrolserver.aspx\" target=\"_blank\">Version Control Server</a> is the service you are looking for. It allows you to work with all of the files in source control and to add more. Simple to work with once you accept that you need a Local Workspace to do anything.</p>\r\n<pre>function Get-TfsProjectProcessConfigurationService {\r\n    Param(\r\n        [Microsoft.TeamFoundation.Client.TfsTeamProjectCollection] $TfsCollection\r\n        )\r\n    return $TfsCollection.GetService([Microsoft.TeamFoundation.ProcessConfiguration.Client.ProjectProcessConfigurationService]);\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to TFS Project Process Configuration with PowerShell</small></p>\r\n<p>There are many new features in 2012 and 2013 that required new API’s to edit and configure. The <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.processconfiguration.client.projectprocessconfigurationservice.aspx\" target=\"_blank\">Project Process Configuration</a> is one such entity that comes from the new “Microsoft.TeamFoundation.ProjectManagement.dll”. This allows you to configure and work with the Process Configuration for your Team Project. This is the configuration and layout of your Backlogs and Boards. You can just read the settings or you can set them as well.</p>\r\n<pre>function Get-TfsTeamSettingsConfigurationService {\r\n    Param(\r\n        [Microsoft.TeamFoundation.Client.TfsTeamProjectCollection] $TfsCollection\r\n        )\r\n    return $TfsCollection.GetService([ Microsoft.TeamFoundation.ProcessConfiguration.Client.TeamSettingsConfigurationService]);\r\n}\r\n</pre>\r\n<p><small>Figure: Connecting to TFS Team Settings Configuration with PowerShell</small></p>\r\n<p>While you can use the Process configuration above to change the process template there are also settings that are specific to the Teams that are created with TFS. Not only can you create new teams but there are a plethora of configuration options. Use the <a href=\"http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.processconfiguration.client.teamsettingsconfigurationservice.aspx\" target=\"_blank\">Team Settings Configuration services</a> to access and edit these new features. It a little more convoluted an API than I would have liked, but it does have some awesome capabilities.</p>\r\n<h2>Conclusion</h2>\r\n<p>Have you been playing with the TFS API in PowerShell? The advantage of a scripting language is obvious in the versatility of both edit-ability and runtime execution of commands to figure out what you need to do. I would have loved for TFS to have built in commands, but with access to the API’s there really is no need. You can do whatever you want.</p>"
+  - >-
+    <p class="lead">Have you ever wanted to use PowerShell to interact with the
+    TFS 2013 API? Well I have been working through a few scenarios and wanted to
+    get them to you so that I can get some feedback.</p>
+  post_id: '10149'
+  post_date: '2013-10-02 10:55:58'
+  post_date_gmt: '2013-10-02 10:55:58'
+  post_modified: '2013-09-18 22:42:22'
+  post_modified_gmt: '2013-09-18 22:42:22'
+  comment_status: open
+  ping_status: open
+  post_name: powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '75'
+  - meta_key: _thumbnail_id
+    meta_value: '9585'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: tfs 2013 api
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Have you ever wanted to use PowerShell to interact with the TFS 2013 API?
+      Well I have been working through a few scenarios and wanted to get them to
+      you so that I can get some feedback
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1775237008'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3lVdH
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:2:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474910153;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11047;}i:1;a:1:{s:2:"id";i:9903;}i:2;a:1:{s:2:"id";i:10151;}}}s:32:"63d7ad42099fc301813fe24cfaf6d162";a:2:{s:7:"expires";i:1474923275;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:11047;}i:1;a:1:{s:2:"id";i:10151;}i:2;a:1:{s:2:"id";i:11097;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-10-02-powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1379'
+  comment:
+  - comment_id: '1917'
+    comment_author: Dave Shaw
+    comment_author_email: dave@taeguk.co.uk
+    comment_author_url: ''
+    comment_author_IP: 195.59.155.227
+    comment_date: '2013-10-02 11:29:00'
+    comment_date_gmt: '2013-10-02 11:29:00'
+    comment_content: >-
+      This looks like the start of a great series, I always wanted to use PS
+      with TFS, but never got around to it due to the lack of out of the box
+      support! I don't know why I didn't roll my own, I know the API's pretty
+      well thanks to Linqpad. I might have to expose some of the build functions
+      this way - I use PS and TFSBuild.exe for my continuous deployment and full
+      TFS support for the builds would be way better than "if ($lastexitcode -eq
+      0)" :).
+
+
+      Do you have all this setup as part of a PS Profile or do you import all
+      the functions each time?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1067193281'
+  - comment_id: '1918'
+    comment_author: Dew Drop &ndash; October 2, 2013 (#1,636) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2013/10/02/dew-drop-october-2-2013-1636/
+    comment_author_IP: 72.47.228.26
+    comment_date: '2013-10-02 12:56:42'
+    comment_date_gmt: '2013-10-02 12:56:42'
+    comment_content: >-
+      [&#8230;] PowerShell TFS 2013 API #1 – Get TfsCollection and TFS Services
+      (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1380853322.599063;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1919'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 131.107.192.60
+    comment_date: '2013-10-02 15:25:00'
+    comment_date_gmt: '2013-10-02 15:25:00'
+    comment_content: I have created a Powershell Module, but I will get to that :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1917'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1067193281'
+    - meta_key: dsq_post_id
+      meta_value: '1067469108'
+  - comment_id: '1927'
+    comment_author: Dave Shaw
+    comment_author_email: dave@taeguk.co.uk
+    comment_author_url: ''
+    comment_author_IP: 80.7.144.63
+    comment_date: '2013-10-08 21:40:00'
+    comment_date_gmt: '2013-10-08 21:40:00'
+    comment_content: >-
+      Can't wait! Do you have any plans to host these on CodePlex (or your OSS
+      hostof choice)?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1919'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1067469108'
+    - meta_key: dsq_post_id
+      meta_value: '1075562768'
+  - comment_id: '1931'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 216.31.211.11
+    comment_date: '2013-10-09 15:58:00'
+    comment_date_gmt: '2013-10-09 15:58:00'
+    comment_content: I have been thinking about it :) More likely as a Chocolatey package...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1927'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1075562768'
+    - meta_key: dsq_post_id
+      meta_value: '1076416406'
+  - comment_id: '1933'
+    comment_author: Dave Shaw
+    comment_author_email: dave@taeguk.co.uk
+    comment_author_url: ''
+    comment_author_IP: 195.59.155.227
+    comment_date: '2013-10-09 16:08:00'
+    comment_date_gmt: '2013-10-09 16:08:00'
+    comment_content: >-
+      That would be awesome for easy of installation! It would be nice to
+      contribute to it too, if and when people want new features.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1931'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1076416406'
+    - meta_key: dsq_post_id
+      meta_value: '1076428736'
+  - comment_id: '2399'
+    comment_author: 'PowerShell TFS 2013 API #1 - Get TfsCollection ...'
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4024005018/2014/07/03/powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 89.30.118.151
+    comment_date: '2014-07-03 10:53:07'
+    comment_date_gmt: '2014-07-03 09:53:07'
+    comment_content: >-
+      [&#8230;] Have you ever wanted to use PowerShell to interact with the TFS
+      2013 API? Well I have been working through a few scenarios and wanted to
+      get them to you so that I can get some feedback&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404381187.950866;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404474966.554427;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '3771'
+    comment_author: William S. Rodriguez
+    comment_author_email: williamsrz@outlook.com
+    comment_author_url: ''
+    comment_author_IP: 187.95.116.20
+    comment_date: '2014-08-23 04:09:00'
+    comment_date_gmt: '2014-08-23 03:09:00'
+    comment_content: >-
+      Hi, Martin I wonder  how can i access the Lab Management with the API?
+      There is any way?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1555380245'
+  - comment_id: '3904'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 84.212.202.57
+    comment_date: '2014-08-24 21:16:00'
+    comment_date_gmt: '2014-08-24 20:16:00'
+    comment_content: >-
+      What are you trying to access? The TFS Community Build Tools and indeed
+      the built in Lab Management build activates show that you can do pretty
+      much anything...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '3771'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1555380245'
+    - meta_key: dsq_post_id
+      meta_value: '1557346927'
+  - comment_id: '8160'
+    comment_author: kiquenet kiquenet
+    comment_author_email: kiquenet@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 88.6.0.26
+    comment_date: '2014-11-28 15:34:00'
+    comment_date_gmt: '2014-11-28 15:34:00'
+    comment_content: >-
+      I use TFS 2008, VS 2010, Addin VS, TeamFoundationClient. 
+
+
+      Is it possible: 
+
+
+      use tf merge command programmatically in C# (in my Addin VS code) ? 
+
+
+      do Merge, known if there are conflicts and  resolve conflicts using API
+      TeamFoundationClient ? 
+
+
+      thx. Great Blog !
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1716585870'
+  - comment_id: '11493'
+    comment_author: One Team Project… no automático! | egomesbrandao | blog
+    comment_author_email: ''
+    comment_author_url: http://egomesbrandao.com.br/2015/03/one-team-project-no-automatico/
+    comment_author_IP: 23.97.102.53
+    comment_date: '2015-03-18 03:16:27'
+    comment_date_gmt: '2015-03-18 03:16:27'
+    comment_content: "[&#8230;] usando um código pronto do\_Martin Hinshelwood, o primeiro post dele com TFS e Powershell foi\_PowerShell TFS 2013 API #1 – Get TfsCollection and TFS Services, seguindo o passo a passo teremos o código abaixo aproveite e copie para um novo arquivo na janela [&#8230;]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1426648587.396498;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1427193222.27646;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '11836'
+    comment_author: Hans-Henrik Møller
+    comment_author_email: hans-henrik.moeller@gea.com
+    comment_author_url: ''
+    comment_author_IP: 46.235.152.10
+    comment_date: '2015-04-22 10:31:00'
+    comment_date_gmt: '2015-04-22 09:31:00'
+    comment_content: >-
+      Hi Martin
+
+
+      I have run into a small problem. I have changed my build to gated
+      checkin.. but now I need to alter my after build script. Here I checkin a
+      couple of dll's that are produced in the before build script (coming out
+      of Matlab). I need to bypass the gated checkin..
+
+
+      My code:
+
+          #Create a "workspace" and map a local folder to a TFS location
+
+          $workspaceName = "PowerShell Workspace_{0}" -f [System.Guid]::NewGuid().ToString()
+
+          $workspace = $versionControlServer.CreateWorkspace($workspaceName, $versionControlServer.AuthenticatedUser)
+
+          $workingfolder = New-Object Microsoft.TeamFoundation.VersionControl.Client.WorkingFolder($ServerPath,$LocalPath)
+
+          $result = $workspace.CreateMapping($workingFolder)
+
+          $result = $workspace.Get() #Get the latest version into the workspace
+
+          Write-Host "Copying dll files from matlab lib to SimcalM Library"
+
+          Copy-Item $MatlabDistibPath*.dll $LocalPathCsharpSimcal_gui_v3Library
+
+          $checkInComments = "Files automatically checked in by PowerShell script ""$scriptName"""
+
+          #Submit file as a Pending Change and submit the change
+
+          $result = $workspace.PendAdd($LocalPath,$true)
+
+          $pendingChanges = $workspace.GetPendingChanges()
+
+          Write-Host "Getting pending changes"
+
+          #Only try to check in if there are changes
+
+          If ($pendingChanges -ne $null)
+
+          {
+
+              If ($pendingChanges.Count -gt 0)
+
+              {
+
+                  $changeSetId = $workspace.CheckIn($pendingChanges,$checkInComments)
+
+                  Write-Host "Successfully checked in ""$($pendingChanges.Count)"" changes using changeset id ""$changeSetId"""
+
+              }
+
+              else
+
+              {
+
+                  Write-Host "No changes to check-in"
+
+              }
+
+          }
+
+          else
+
+          {
+
+              Write-Host "No changes to check-in"
+
+          }
+
+
+
+      I have searched the net, but not quite turned up examples on how to do
+      this.. not in powershell as my script is based on.. hoping you have the
+      quick answer...
+
+
+
+      /Hans-Henrik
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1980949908'
+  - comment_id: '11837'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.71
+    comment_date: '2015-04-22 10:56:00'
+    comment_date_gmt: '2015-04-22 09:56:00'
+    comment_content: You should never be checking in the result of a built to source control.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11836'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980949908'
+    - meta_key: dsq_post_id
+      meta_value: '1980970215'
+  - comment_id: '11838'
+    comment_author: Hans-Henrik Møller
+    comment_author_email: hans-henrik.moeller@gea.com
+    comment_author_url: ''
+    comment_author_IP: 46.235.152.10
+    comment_date: '2015-04-22 10:59:00'
+    comment_date_gmt: '2015-04-22 09:59:00'
+    comment_content: >-
+      And if I have my very good reasons? The point is, that it is not the
+      result of the actual build, but dll's that are build using Matlab in a
+      before buyild action...dll's that the product being build is relying on..
+      therefore, I want to check them in to the library folder if the build is
+      successful.. but as we have activated the gated checkin.. I need to bypass
+      that...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11837'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980970215'
+    - meta_key: dsq_post_id
+      meta_value: '1980972228'
+  - comment_id: '11839'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.71
+    comment_date: '2015-04-22 11:03:00'
+    comment_date_gmt: '2015-04-22 10:03:00'
+    comment_content: >-
+      You should have a separate build that compiles using Matlab and creates
+      and published a NuGet package containing your dependant DLL's. Your
+      Solution should then take a dependency on that NuGet package. This will
+      prevent a Gated Checkin from being produced.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11838'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980972228'
+    - meta_key: dsq_post_id
+      meta_value: '1980975170'
+  - comment_id: '11840'
+    comment_author: Hans-Henrik Møller
+    comment_author_email: hans-henrik.moeller@gea.com
+    comment_author_url: ''
+    comment_author_IP: 46.235.152.10
+    comment_date: '2015-04-22 11:25:00'
+    comment_date_gmt: '2015-04-22 10:25:00'
+    comment_content: >-
+      Point taken.. I have a bunch of matlab code in the same project as a C#
+      solution.. it is the matlab that should be build in a seperate build.. but
+      would have no solution file.. how to go about that, as I still want to
+      keep it together with the C# code in one project..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11839'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980975170'
+    - meta_key: dsq_post_id
+      meta_value: '1980993107'
+  - comment_id: '11841'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.71
+    comment_date: '2015-04-22 11:28:00'
+    comment_date_gmt: '2015-04-22 10:28:00'
+    comment_content: |-
+      I would keep iot separate...:
+
+      MyTeamProject
+           |----------MyC#Solution
+                               |------------ProjectA
+                               |------------ProjectB
+           |----------MyMatlabSolutuion
+                               |------------ProjectA
+                               |------------ProjectB
+      That way you can have a Gated build on both, or only one...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11840'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980993107'
+    - meta_key: dsq_post_id
+      meta_value: '1980995335'
+  - comment_id: '11842'
+    comment_author: Hans-Henrik Møller
+    comment_author_email: hans-henrik.moeller@gea.com
+    comment_author_url: ''
+    comment_author_IP: 46.235.152.10
+    comment_date: '2015-04-22 11:30:00'
+    comment_date_gmt: '2015-04-22 10:30:00'
+    comment_content: >-
+      Yes.. I buy that.. but I am not sure how to go about the build definition
+      for the matlab.. as it contains no solution file, and does not use
+      msbuild... but matlab compiler... I have the ps scripts for the build
+      process..
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '11841'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1980995335'
+    - meta_key: dsq_post_id
+      meta_value: '1980997408'
+  - comment_id: '13465'
+    comment_author: >-
+      Visual Studio 2015 TFS and Powershell | A Day In The Life Of A SQL
+      Engineer
+    comment_author_email: ''
+    comment_author_url: >-
+      https://dalehirt.wordpress.com/2015/10/09/visual-studio-2015-tfs-and-powershell/
+    comment_author_IP: 192.0.81.49
+    comment_date: '2015-10-09 17:43:19'
+    comment_date_gmt: '2015-10-09 16:43:19'
+    comment_content: >-
+      [&#8230;] found a really great article about using the TFS Client dll’s
+      here.&nbsp; However, that only worked for VS2013.&nbsp; I had to fix it
+      for [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: a:2:{s:4:"time";d:1444408999.812136;s:5:"event";s:9:"check-ham";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:3:{s:4:"time";d:1449414476.52694;s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '13827'
+    comment_author: once_lost_now_found
+    comment_author_email: bradalanfoster@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 71.170.31.114
+    comment_date: '2016-02-05 00:09:00'
+    comment_date_gmt: '2016-02-05 00:09:00'
+    comment_content: "Hi Martin,\n\nI'm running a powershell script in a build in TFS 2013. When I try to get the VersionControlServer I get a permissions error like this:\n\nException calling \"GetService\" with \"1\" argument(s): \"TF30063: You are not authorized to access http://xxxx:8080/tfs/defaultcollection.\"\n\nThe build is running under the LOCAL SERVICE account. Here is the code that is failing:\n\n# get the team project collection\n\n\t$TeamProjectCollection=[Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrl)\n\n$VersionControlServer=$TeamProjectCollection.GetService([Microsoft.TeamFoundation.VersionControl.Client.VersionControlServer])\n\nDo you know why this would be failing? Is there some permission that i need to add to the Local Service account?\n\nThanks,\n\nBrad"
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2496711745'
+  - comment_id: '13831'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nakedalm.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 187.136.90.90
+    comment_date: '2016-02-06 19:46:00'
+    comment_date_gmt: '2016-02-06 19:46:00'
+    comment_content: >-
+      You will not be able to communicate back to TFS using "Local Service". You
+      will need at a minimum "Network Service" and you might be better with a
+      domain account.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '13827'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '2496711745'
+    - meta_key: dsq_post_id
+      meta_value: '2499875232'
+  - comment_id: '13894'
+    comment_author: Hans-Henrik Møller
+    comment_author_email: hans-henrik.moeller@gea.com
+    comment_author_url: ''
+    comment_author_IP: 46.235.155.7
+    comment_date: '2016-03-11 14:01:00'
+    comment_date_gmt: '2016-03-11 14:01:00'
+    comment_content: >-
+      Hi Martin
+
+
+      I am moving from XAML build to the new one in 2015. I am hitting an
+      unforssen obstacle, as I need to Get more source code than the actual
+      project I am building.
+
+
+      I am thinking I could do this in the ps1 script, but can not find a clean
+      axample of getting latest for specific projects.
+
+
+      I also have a hard time to make the run ps script item accept that the
+      script is located in a subfolder.. I will not find the script... any
+      hints?
+
+
+      /HH
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2563783857'
+  - comment_id: '14005'
+    comment_author: freakydinde
+    comment_author_email: armandlacore@outlook.com
+    comment_author_url: https://armandlacore.wordpress.com
+    comment_author_IP: 171.18.34.249
+    comment_date: '2016-06-03 15:44:00'
+    comment_date_gmt: '2016-06-03 14:44:00'
+    comment_content: >-
+      you can find full detailled informations on how to query TFS 2015 &amp;
+      2013 with powershell in the following article :
+      https://armandlacore.wordpress.com/2016/06/03/tfs-powershell/
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2710236314'
+  - comment_id: '14405'
+    comment_author: Waqas Ahmed
+    comment_author_email: waqasahmedch@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 94.97.34.242
+    comment_date: '2017-12-10 06:44:00'
+    comment_date_gmt: '2017-12-10 06:44:00'
+    comment_content: >-
+      Hi Marrin, nice article as starting point, may i seek your help to know
+      Which dll is needed to add permissions to TFS Project as Team member and
+      which Dll could help us in retrieving Project Site (SharePoint Site) URL.
+      Thank you, Waqas
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '3655258131'
+  - comment_id: '14408'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@nkdagility.com
+    comment_author_url: http://nakedalm.com/blog
+    comment_author_IP: 81.108.5.47
+    comment_date: '2017-12-10 12:38:00'
+    comment_date_gmt: '2017-12-10 12:38:00'
+    comment_content: >-
+      You are best exploring that using the Nuget package in Visual Studio and
+      then posting your code to PowerShell...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '14405'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '3655258131'
+    - meta_key: dsq_post_id
+      meta_value: '3655457235'

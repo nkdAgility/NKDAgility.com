@@ -1,0 +1,1027 @@
+post:
+  title: 'Office 2010 gotcha 2: Visual Studio 2008 Locks'
+  link: https://nkdagility.com/blog/office-2010-gotcha-2-visual-studio-2008-locks/
+  pubDate: Sun, 19 Jul 2009 20:51:58 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/07/19/office-2010-gotcha-2-visual-studio-2008-locks.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I am having a little problem with Visual Studio 2008 that only started after I had installed Office 2010. I found this interesting post on <a href=\"http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html\" target=\"_blank\">Visual Studio 2008 Locks or Freezes in ASPX</a> from <a href=\"http://abdullin.com/\" target=\"_blank\">Rinat Abdullin</a> that was a complete match to the problem I am having. </p>  <p>Basically VS just bings at you whenever you click anywhere as if there is a model dialog open after opening and trying to edit an aspx file.</p>  <p>If you get this problem then there is a simple solution, well, one that worked for me. You need to run a repair on the “Microsoft Visual Studio Web Authoring Component” that is part of Office 2007.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010gotcha2_876A-image_2.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010gotcha2_876A-image_thumb.png\" width=\"504\" height=\"427\" /></a> </p>  <p>You can find the setup in the following locations:</p>  <blockquote>   <p><strong>Windows 64bit</strong></p>    <p>C:Program Files (x86)Common Filesmicrosoft sharedOFFICE12Office Setup ControllerSetup.exe</p>    <p><strong>Windows 32bit</strong></p>    <p>C:Program FilesCommon Filesmicrosoft sharedOFFICE12Office Setup ControllerSetup.exe</p> </blockquote>  <p>My guess is that when Office 2010 is installed it has a new version of this component that has not yet been made compatible with Visual Studio 2008…</p>  <p>It was a frustrating couple of hours this morning to figure it out with the bulk of the time taken up with an ineffectual repair of Visual Studio 2008 SP1, ahh well, now I know…</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/Office\" rel=\"tag\">Office</a>\_<a href=\"http://technorati.com/tags/TFS+Admin\" rel=\"tag\">TFS Admin</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_</div>"
+  - ''
+  post_id: '100'
+  post_date: '2009-07-19 20:51:58'
+  post_date_gmt: '2009-07-19 20:51:58'
+  post_modified: '2009-07-19 20:51:58'
+  post_modified_gmt: '2009-07-19 20:51:58'
+  comment_status: open
+  ping_status: open
+  post_name: office-2010-gotcha-2-visual-studio-2008-locks
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602047'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBH5TB
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473411023;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:6288;}i:1;a:1:{s:2:"id";i:7067;}i:2;a:1:{s:2:"id";i:208;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-07-19-office-2010-gotcha-2-visual-studio-2008-locks.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '397'
+  comment:
+  - comment_id: '592'
+    comment_author: Jim Wooley
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-20 10:49:39'
+    comment_date_gmt: '2009-07-20 10:49:39'
+    comment_content: Thanks. It seems to have solved my problem as well.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970160'
+  - comment_id: '593'
+    comment_author: Tyler Smith
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-24 16:58:30'
+    comment_date_gmt: '2009-07-24 16:58:30'
+    comment_content: This worked perfectly. Thank you!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970161'
+  - comment_id: '594'
+    comment_author: Nyubi
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-07-25 22:52:27'
+    comment_date_gmt: '2009-07-25 22:52:27'
+    comment_content: Thx for the articles, will try it!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970164'
+  - comment_id: '595'
+    comment_author: Grant Perry
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-13 13:42:02'
+    comment_date_gmt: '2009-08-13 13:42:02'
+    comment_content: I've had to "repair" several times.  This is totally crazy!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970165'
+  - comment_id: '596'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-13 16:03:40'
+    comment_date_gmt: '2009-08-13 16:03:40'
+    comment_content: You use a beta, ya takes your chances :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970167'
+  - comment_id: '597'
+    comment_author: Marcel du Preez
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-08-15 08:01:36'
+    comment_date_gmt: '2009-08-15 08:01:36'
+    comment_content: Fixed it for me too... thx!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970168'
+  - comment_id: '598'
+    comment_author: Stephen
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-09 05:33:16'
+    comment_date_gmt: '2009-09-09 05:33:16'
+    comment_content: >-
+      Awesome! Thank you so much!!! This was driving me insane!<br />I was about
+      to uninstall office 2010... well actually i clicked uninstall and it told
+      me installation files were corrupt, so that didn't work
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970169'
+  - comment_id: '599'
+    comment_author: Joe McBride
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-24 03:15:57'
+    comment_date_gmt: '2009-09-24 03:15:57'
+    comment_content: I had this same issue which this was the fix.  Thanks for the tip!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970171'
+  - comment_id: '600'
+    comment_author: Johannes
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-09-28 23:14:31'
+    comment_date_gmt: '2009-09-28 23:14:31'
+    comment_content: >-
+      This fix didn´t really help - I could use the html text editor but not the
+      html design view. And from time to time it was necessary to repair the
+      above setup it again...<br /><br />But here is the solution which helped
+      on my computer:<br
+      />http://abdullin.com/journal/2009/5/12/visual-studio-2008-locks-or-freezes-in-aspx.html<br
+      />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970188'
+  - comment_id: '601'
+    comment_author: artmasa
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-21 02:45:44'
+    comment_date_gmt: '2009-11-21 02:45:44'
+    comment_content: Awsome!!! It works again
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970189'
+  - comment_id: '602'
+    comment_author: Cory
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-22 13:53:26'
+    comment_date_gmt: '2009-11-22 13:53:26'
+    comment_content: Thanks! This appears to have worked for me as well.<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970192'
+  - comment_id: '603'
+    comment_author: Ken
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-23 19:49:24'
+    comment_date_gmt: '2009-11-23 19:49:24'
+    comment_content: >-
+      Thank you - It's fantastic you took the time to post this solution. I
+      can't imagine how long this would have taken to fix without your post.<br
+      /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970194'
+  - comment_id: '604'
+    comment_author: Geno
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-24 06:42:25'
+    comment_date_gmt: '2009-11-24 06:42:25'
+    comment_content: >-
+      Looks like I am having the issue as well. Unfortunetly, repairing doesn't
+      solve the problem. I still having VS2008 issues. The only partial fix i
+      have found was to uninstall the "Microsoft Visual Studio Web Authoring
+      Component" and live with the Design mode of VS2008 not working. At least
+      it doesn't lock up though.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970196'
+  - comment_id: '605'
+    comment_author: Thanks!
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-25 22:05:07'
+    comment_date_gmt: '2009-11-25 22:05:07'
+    comment_content: Thank you
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970197'
+  - comment_id: '606'
+    comment_author: Andrew Fletcher
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-11-28 07:58:40'
+    comment_date_gmt: '2009-11-28 07:58:40'
+    comment_content: >-
+      Thanks so much for this, this problem with VS has been driving me mad for
+      hours. Thanks for the fix - worked perfectly
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970198'
+  - comment_id: '607'
+    comment_author: Matthew Hansel
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-01 04:35:38'
+    comment_date_gmt: '2009-12-01 04:35:38'
+    comment_content: >-
+      This seems to have fixed my issue.  I am seeing that some people are still
+      having the issue?  Is this a permanent fix, or one that we may have to run
+      on a more regular basis?  Thanks as it seems to be working for me right
+      now.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970200'
+  - comment_id: '608'
+    comment_author: Gintaras Slavinskas
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-02 03:44:43'
+    comment_date_gmt: '2009-12-02 03:44:43'
+    comment_content: Thanks, it solved my problem as well.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970203'
+  - comment_id: '609'
+    comment_author: Sekhar
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-02 07:20:11'
+    comment_date_gmt: '2009-12-02 07:20:11'
+    comment_content: Thanks a lot. It solved my problem
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970206'
+  - comment_id: '610'
+    comment_author: Jeremy
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-04 04:12:35'
+    comment_date_gmt: '2009-12-04 04:12:35'
+    comment_content: Thanks! Solved my problem!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970210'
+  - comment_id: '611'
+    comment_author: Eladio Campos
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-04 08:14:33'
+    comment_date_gmt: '2009-12-04 08:14:33'
+    comment_content: Thanks a lot. It solved my problem
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970211'
+  - comment_id: '612'
+    comment_author: Phillip Quinlan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-06 09:42:06'
+    comment_date_gmt: '2009-12-06 09:42:06'
+    comment_content: Dude, that fixed it - thanks a lot :D
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970213'
+  - comment_id: '613'
+    comment_author: Steve Knott
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-07 23:46:02'
+    comment_date_gmt: '2009-12-07 23:46:02'
+    comment_content: Thanks... .worked like a charm...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970215'
+  - comment_id: '614'
+    comment_author: David Christiansen
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-09 19:37:10'
+    comment_date_gmt: '2009-12-09 19:37:10'
+    comment_content: Thanks Martin, saved the day!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970217'
+  - comment_id: '615'
+    comment_author: Phil Shaw
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-11 22:16:57'
+    comment_date_gmt: '2009-12-11 22:16:57'
+    comment_content: >-
+      Just came across your article. Been trying to fix this all morning.
+      Thanks..very much appreciated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970218'
+  - comment_id: '616'
+    comment_author: Anon2
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2009-12-16 02:26:23'
+    comment_date_gmt: '2009-12-16 02:26:23'
+    comment_content: THANK YOU!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970219'
+  - comment_id: '617'
+    comment_author: Gracious
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-07 00:15:14'
+    comment_date_gmt: '2010-01-07 00:15:14'
+    comment_content: That should be up for post of the year.<br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970221'
+  - comment_id: '618'
+    comment_author: William Cortes
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-07 09:09:53'
+    comment_date_gmt: '2010-01-07 09:09:53'
+    comment_content: Thanks a Lot
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970223'
+  - comment_id: '619'
+    comment_author: GavMan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-10 13:22:50'
+    comment_date_gmt: '2010-01-10 13:22:50'
+    comment_content: >-
+      Thanks so much ... I was going crazy trying to fix this.<br /><br />I am
+      interested in knowing what your troubleshooting steps were that lead you
+      to this.  I tried some logging, check event logs, etc, but just wasn't
+      getting any clues.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970225'
+  - comment_id: '620'
+    comment_author: Michael Thwaite
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-17 04:52:43'
+    comment_date_gmt: '2010-01-17 04:52:43'
+    comment_content: Thanks, all fixed now!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970228'
+  - comment_id: '621'
+    comment_author: Aaron King
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-22 21:49:28'
+    comment_date_gmt: '2010-01-22 21:49:28'
+    comment_content: >-
+      Awesome find.  Yesterday was a completely unproductive day.  Today will be
+      better thanks to this fix.  Thanks for sharing.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970231'
+  - comment_id: '622'
+    comment_author: Fredrik Johansson
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-01-25 20:10:08'
+    comment_date_gmt: '2010-01-25 20:10:08'
+    comment_content: >-
+      Thank you so much!!! After 4 hours of constant pain, my headache is
+      finally gone!! Here you go: http://www.webworksllc.com/I_Like_You.cfm<br
+      /><br />Here's some keywords to help other find this excellent post:
+      Visual Studio 2008, ws_disabled, spy++, vs2008, hangs, stops responding,
+      freezes, stops responding to user input
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970233'
+  - comment_id: '623'
+    comment_author: Brad Davis
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-05 08:45:12'
+    comment_date_gmt: '2010-02-05 08:45:12'
+    comment_content: >-
+      Thanks so much! I couldn't pinpoint what happened when VS started locking
+      up. Much appreciated!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970235'
+  - comment_id: '624'
+    comment_author: Juan Pablo Aguilaa
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-19 10:00:07'
+    comment_date_gmt: '2010-02-19 10:00:07'
+    comment_content: Thanks. It worked for me as well
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970238'
+  - comment_id: '625'
+    comment_author: Will
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-03-31 18:46:51'
+    comment_date_gmt: '2010-03-31 18:46:51'
+    comment_content: Fix wored for me too, thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970240'
+  - comment_id: '626'
+    comment_author: Petr Cermak
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-26 14:39:41'
+    comment_date_gmt: '2010-04-26 14:39:41'
+    comment_content: Thanks a lot, you saved me a bunch of hours. Works like a charm!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970241'
+  - comment_id: '627'
+    comment_author: bill
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-04-28 06:49:32'
+    comment_date_gmt: '2010-04-28 06:49:32'
+    comment_content: THANK YOU
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970242'
+  - comment_id: '628'
+    comment_author: cheap purses
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-04 22:29:53'
+    comment_date_gmt: '2010-05-04 22:29:53'
+    comment_content: i love your things , it is nic
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970244'
+  - comment_id: '629'
+    comment_author: Blake Shadle
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-06 15:01:25'
+    comment_date_gmt: '2010-05-06 15:01:25'
+    comment_content: >-
+      Perfect! You're a life saver. Running on a VS 2010 beta gets old real
+      fast.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970247'
+  - comment_id: '630'
+    comment_author: JK
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-10 04:09:55'
+    comment_date_gmt: '2010-05-10 04:09:55'
+    comment_content: Thank you!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970251'
+  - comment_id: '631'
+    comment_author: Neal
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-19 01:46:22'
+    comment_date_gmt: '2010-05-19 01:46:22'
+    comment_content: Bug still exists in the RTM of office, guess they didnt bother to fix this
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970255'
+  - comment_id: '632'
+    comment_author: Tom Ray
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-21 00:56:07'
+    comment_date_gmt: '2010-05-21 00:56:07'
+    comment_content: AWESOME!  I have been pulling my hair out for the past 2 days!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970257'
+  - comment_id: '633'
+    comment_author: Lars Meldg&#229;rd
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-26 04:20:02'
+    comment_date_gmt: '2010-05-26 04:20:02'
+    comment_content: Thanks buddy! How simple and utterly irritating. You saved my day
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970261'
+  - comment_id: '634'
+    comment_author: FIN-Make
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-27 16:20:05'
+    comment_date_gmt: '2010-05-27 16:20:05'
+    comment_content: Thanks very much! Your solution fixed my problem as well.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970264'
+  - comment_id: '635'
+    comment_author: Danny
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-05-30 23:28:45'
+    comment_date_gmt: '2010-05-30 23:28:45'
+    comment_content: >-
+      Great anwser. Been trying to solve problem all day :-)<br />This fixed my
+      problem
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970267'
+  - comment_id: '636'
+    comment_author: Matthew
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-12 21:46:21'
+    comment_date_gmt: '2010-06-12 21:46:21'
+    comment_content: >-
+      Wow, thanks!  My co-worker and his family owe you.  This was making me
+      insane and I was about to kill someone over a deadline and a freezing dev
+      environment.  He was the closest person to me.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970270'
+  - comment_id: '637'
+    comment_author: McTesterson
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-16 03:52:22'
+    comment_date_gmt: '2010-06-16 03:52:22'
+    comment_content: You made my month.  u rule.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970271'
+  - comment_id: '638'
+    comment_author: Ivan
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-18 07:12:57'
+    comment_date_gmt: '2010-06-18 07:12:57'
+    comment_content: Thank you!!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970275'
+  - comment_id: '639'
+    comment_author: josh
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-23 08:00:58'
+    comment_date_gmt: '2010-06-23 08:00:58'
+    comment_content: Awesome thanks,  worked great.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970277'
+  - comment_id: '640'
+    comment_author: Chris Roberts
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-23 21:31:58'
+    comment_date_gmt: '2010-06-23 21:31:58'
+    comment_content: Worked for me - great tip, thanks!  How did you work it out?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970279'
+  - comment_id: '641'
+    comment_author: Mal
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-06-30 00:58:44'
+    comment_date_gmt: '2010-06-30 00:58:44'
+    comment_content: you are an fing star
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970282'
+  - comment_id: '642'
+    comment_author: Alessandro Miele
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-02 17:41:08'
+    comment_date_gmt: '2010-07-02 17:41:08'
+    comment_content: >-
+      Thanks! Many thanks!<br /><br />It worked for me and I have the Office
+      2010 Professional Plus RTM  installed on my pc.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970283'
+  - comment_id: '643'
+    comment_author: WhiteKnight
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-09 22:46:40'
+    comment_date_gmt: '2010-07-09 22:46:40'
+    comment_content: You're a lifesaver dude...Thanks!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970286'
+  - comment_id: '644'
+    comment_author: Nunung
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-07-14 16:12:25'
+    comment_date_gmt: '2010-07-14 16:12:25'
+    comment_content: Hmmm, I hope I can solve my problem after read your article, thank you
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970287'
+  - comment_id: '645'
+    comment_author: Lucas Bond
+    comment_author_email: ''
+    comment_author_url: http://twitter.com/LucasABond
+    comment_author_IP: 75.145.112.41
+    comment_date: '2013-03-28 14:39:00'
+    comment_date_gmt: '2013-03-28 21:39:00'
+    comment_content: Thank you!!!!!!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '845405231'

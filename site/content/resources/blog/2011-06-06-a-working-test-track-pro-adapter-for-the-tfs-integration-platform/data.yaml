@@ -1,0 +1,816 @@
+post:
+  title: A working Test Track Pro Adapter for the TFS Integration Platform
+  link: >-
+    https://nkdagility.com/blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/
+  pubDate: Mon, 06 Jun 2011 14:23:09 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p><a
+    href="http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png"><img
+    style="background-image: none; border-right-width: 0px; margin: 0px 10px
+    10px 0px; padding-left: 0px; padding-right: 0px; display: inline; float:
+    left; border-top-width: 0px; border-bottom-width: 0px; border-left-width:
+    0px; padding-top: 0px" title="ALMRangersLogo_Tiny" border="0"
+    alt="ALMRangersLogo_Tiny" align="left"
+    src="http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny_thumb.png"
+    width="218" height="72" /></a></p>  <p>Well, it has been a long road from <a
+    href="http://blog.hinshelwood.com/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history/">misery</a>
+    to <a
+    href="http://blog.hinshelwood.com/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details/">hope</a>
+    with a little <a
+    href="http://blog.hinshelwood.com/test-track-pro-and-the-case-of-the-missing-data/">disbelief</a>
+    thrown in for good measure, but I finally have a working Adapter for the TFS
+    Integration Platform.</p>  <br clear="all" />  <h3>Acknowledgements</h3> 
+    <ul>   <li><a title="http://geeks.ms/blogs/jlsoria/"
+    href="http://geeks.ms/blogs/jlsoria/">Jose Luis Soria Teruel</a> – For his
+    excellent advice and some sample code. I only used some of his code, but
+    knowing that it can be done is the first step to achieving the goal. </li>
+    </ul>  <h3>Updates</h3>  <ul>   <li>2011-06-06 11:00 – I found a last minute
+    bug where by the adapter thinks that a work item that was created before the
+    high water mark but was not in scope before it was edited was converted to
+    an “Edit” Change Action instead of a “Add”. I updated lines 89 and 102 of
+    the source. The result is a WorkItemHistoryNotFound conflict      <br
+    />      <pre class="brush: plain; ruler: true; collapse: true;"
+    title="Example TFS WIT history not found conflict type">[06/06/2011
+    10:12:14] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing
+    ChangeGroup #3214, change 3143:2 
+
+    [06/06/2011 10:12:15] MigrationConsole.exe Information: 0 :
+    WorkItemTracking: Unresolved conflict:  
+
+    [06/06/2011 10:12:15]   Session: adea805d-51df-489a-b2fd-9717b4af3703 
+
+    [06/06/2011 10:12:15]   Source: 6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857 
+
+    [06/06/2011 10:12:15]   Message: Cannot find applicable resolution rule. 
+
+    [06/06/2011 10:12:15]   Conflict Type: TFS WIT history not found conflict
+    type 
+
+    [06/06/2011 10:12:15]   Conflict Type Reference Name:
+    1722df87-ab61-4ad0-8b41-531d3d804089 
+
+    [06/06/2011 10:12:15]   Conflict Details: &lt;?xml
+    version=&quot;1.0&quot;?&gt; 
+
+    [06/06/2011 10:12:15] &lt;WorkItemHistoryNotFoundConflictTypeDetails
+    xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+    xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt; 
+
+    [06/06/2011 10:12:15]  
+    &lt;SourceWorkItemID&gt;3143&lt;/SourceWorkItemID&gt; 
+
+    [06/06/2011 10:12:15]  
+    &lt;SourceWorkItemRevision&gt;2&lt;/SourceWorkItemRevision&gt; 
+
+    [06/06/2011 10:12:15]  
+    &lt;SourceMigrationSourceId&gt;c513f930-2602-400d-a0bf-a2a3ab434df5&lt;/SourceMigrationSourceId&gt; 
+
+    [06/06/2011 10:12:15]  
+    &lt;TargetMigrationSourceId&gt;6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857&lt;/TargetMigrationSourceId&gt; 
+
+    [06/06/2011 10:12:15] &lt;/WorkItemHistoryNotFoundConflictTypeDetails&gt;
+    </pre>
+      </li>
+    </ul>
+
+
+    <hr />
+
+
+    <p>With the new code, which has gone through many refactors for the sake of
+    last ditch efforts to figure out the bug I am now able to update TFS from
+    TTP in an incremental fashion.</p>
+
+
+    <p><a href="http://blog.hinshelwood.com/files/2011/06/image8.png"><img
+    style="background-image: none; border-right-width: 0px; margin: 0px;
+    padding-left: 0px; padding-right: 0px; display: inline; border-top-width:
+    0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/06/image_thumb8.png" width="634"
+    height="480" /></a> 
+
+      <br /><strong>Figure: Work Items are now being updated</strong></p>
+
+    <p>&#160;</p>
+
+
+    <pre class="brush: vb; ruler: true; collapse: true; highlight: [89, 102];"
+    title="Full source for Analysis Provider">Imports
+    Microsoft.TeamFoundation.Migration.Toolkit
+
+    Imports System.ComponentModel.Design
+
+    Imports System.Collections.ObjectModel
+
+    Imports Microsoft.TeamFoundation.Migration.Toolkit.Services
+
+    Imports Microsoft.TeamFoundation.Migration.BusinessModel
+
+    Imports Microsoft.TeamFoundation.Migration.Toolkit.ErrorManagement
+
+    Imports System.Globalization
+
+    Imports System.Xml
+
+    Imports Microsoft.TeamFoundation.Migration.Toolkit.SyncOrchestrator
+
+    Imports System.Net
+
+    Imports System.IO
+
+    Imports System.ServiceModel
+
+    Imports System.ServiceModel.Security
+
+    Imports NorthwestCadence.TtpTipAdapter.TtpSoapSdk
+
+    Imports NorthwestCadence.TtpTipAdapter.TtpSoapSdk.api
+
+
+    Public Class TtpAnalysisProvider
+        Inherits AnalysisProviderBase
+
+        ' Fields
+        Private _analysisServiceContainer As IServiceContainer
+        Private _changeGroupService As ChangeGroupService
+        Private _configurationService As ConfigurationService
+        Private _conflictManagerService As ConflictManager
+        Private _highWaterMarkDelta As HighWaterMark(Of DateTime)
+        Private _highWaterMarkChangeSet As HighWaterMark(Of Integer)
+        Private _supportedChangeActions As Dictionary(Of Guid, ChangeActionHandler)
+        Private _supportedContentTypes As Collection(Of ContentType)
+        Private _dataSourceConfig As TtpMigrationDataSource
+        Private _highWaterMarkRevisions As New Dictionary(Of String, HighWaterMark(Of Integer))
+        Private _tstart As DateTime = Now
+
+        ' Properties
+        Public Overrides ReadOnly Property SupportedChangeActions As Dictionary(Of Guid, ChangeActionHandler)
+            Get
+                Return Me._supportedChangeActions
+            End Get
+        End Property
+
+        Public Overrides ReadOnly Property SupportedContentTypes As Collection(Of ContentType)
+            Get
+                Return Me._supportedContentTypes
+            End Get
+        End Property
+
+        Private Shared Function CreateFieldRevisionDescriptionDoc(row As TtpDefectMigrationItem) As XmlDocument
+            Dim columns As New XElement(&quot;Columns&quot;, New Object() {New XElement(&quot;Column&quot;, New Object() {New XAttribute(&quot;DisplayName&quot;, &quot;Author&quot;), New XAttribute(&quot;ReferenceName&quot;, &quot;Author&quot;), New XAttribute(&quot;Type&quot;, &quot;String&quot;), New XElement(&quot;Value&quot;, row.AuthorId)}), New XElement(&quot;Column&quot;, New Object() {New XAttribute(&quot;DisplayName&quot;, &quot;DisplayName&quot;), New XAttribute(&quot;ReferenceName&quot;, &quot;DisplayName&quot;), New XAttribute(&quot;Type&quot;, &quot;String&quot;), New XElement(&quot;Value&quot;, row.DisplayName)}), New XElement(&quot;Column&quot;, New Object() {New XAttribute(&quot;DisplayName&quot;, &quot;Id&quot;), New XAttribute(&quot;ReferenceName&quot;, &quot;Id&quot;), New XAttribute(&quot;Type&quot;, &quot;String&quot;), New XElement(&quot;Value&quot;, row.Id.ToString)})})
+            Dim column As KeyValuePair(Of String, Object)
+            For Each column In row.Columns
+                If Not String.IsNullOrEmpty(column.Value) Then
+                    columns.Add(New XElement(&quot;Column&quot;, New Object() {New XAttribute(&quot;DisplayName&quot;, column.Key), New XAttribute(&quot;ReferenceName&quot;, column.Key), New XAttribute(&quot;Type&quot;, &quot;String&quot;), New XElement(&quot;Value&quot;, column.Value)}))
+                End If
+            Next
+            Dim descriptionDoc As New XElement(&quot;WorkItemChanges&quot;, New Object() {New XAttribute(&quot;Revision&quot;, row.Revision), New XAttribute(&quot;WorkItemType&quot;, row.WorItemType), New XAttribute(&quot;Author&quot;, IIf(String.IsNullOrEmpty(row.AuthorId), &quot;&quot;, row.AuthorId)), New XAttribute(&quot;ChangeDate&quot;, row.ModifiedOn.ToString(CultureInfo.CurrentCulture)), New XAttribute(&quot;WorkItemID&quot;, row.Id.ToString), columns})
+            Dim doc As New XmlDocument
+            doc.LoadXml(descriptionDoc.ToString)
+            Return doc
+        End Function
+
+        Private Shared Function CreateFieldColumn(migrationActionDetails As XmlDocument, displayName As String, referenceName As String, fieldType As String, value As Object, isSkippingField As Boolean) As XmlElement
+            Dim c As XmlElement = migrationActionDetails.CreateElement(&quot;Column&quot;)
+            c.SetAttribute(&quot;DisplayName&quot;, displayName)
+            c.SetAttribute(&quot;ReferenceName&quot;, referenceName)
+            c.SetAttribute(&quot;Type&quot;, fieldType)
+            c.SetAttribute(&quot;IsSkippingField&quot;, isSkippingField.ToString())
+            Dim v As XmlElement = migrationActionDetails.CreateElement(&quot;Value&quot;)
+            'object translatedValue = TranslateFieldValue(f, fieldValue);
+            Dim translatedValue As Object = value
+            If translatedValue Is Nothing Then
+                v.InnerText = String.Empty
+            Else
+                translatedValue.ToString()
+            End If
+            c.AppendChild(v)
+            Return c
+        End Function
+
+        Public Overrides Sub GenerateDeltaTable()
+            _tstart = Now
+            Try
+                Dim viewName As String = Me._configurationService.Filters.Item(0).Path
+                TraceManager.TraceInformation(&quot;TtpWIT:AP:GenerateDeltaTable:View - {0}&quot;, New Object() {viewName})
+                Me._highWaterMarkDelta.Reload()
+                '------------------------------------------------------
+                Dim context As TtpContext = GetTtpContext()
+                Dim raw As List(Of TtpDefectMigrationItem) = GetTtpRawData(context, viewName)
+                TraceManager.TraceInformation(&quot;Located {0} raw updates since {1} in {2} seconds&quot;, raw.Count, _highWaterMarkDelta.Value, Now.Subtract(_tstart).TotalSeconds)
+                ' Find all of the data that needs to be added in this run
+                Dim deltaNew = (From ri In raw Where ri.CreatedOn.CompareTo(_highWaterMarkDelta.Value) &gt; 0 Or ri.Revision = 0).ToList
+                ' Get any extra data and create the add changesets
+                TraceManager.TraceInformation(&quot;Located {0} deltas as NEW in {1} seconds&quot;, deltaNew.Count, Now.Subtract(_tstart).TotalSeconds)
+                deltaNew = GetDeltaWorkflow(context, deltaNew)
+                TraceManager.TraceInformation(&quot;Updated {0} deltas with workflow in {1} seconds&quot;, deltaNew.Count, Now.Subtract(_tstart).TotalSeconds)
+                Dim changesNew As List(Of ChangeGroup) = GetChangeGroupsForAdds(deltaNew)
+                TraceManager.TraceInformation(&quot;Created {0} add change groups in {1} seconds&quot;, changesNew.Count, Now.Subtract(_tstart).TotalSeconds)
+                ' Save the chnagesets to the backing store
+                For Each c In changesNew
+                    c.Save()
+                Next
+                TraceManager.TraceInformation(&quot;Saved {0} add change groups in {1} seconds&quot;, changesNew.Count, Now.Subtract(_tstart).TotalSeconds)
+                ' Find all of the data that needs to be edited in this run
+                Dim deltaEdit = (From ri In raw Where (ri.ModifiedOn.CompareTo(_highWaterMarkDelta.Value) &gt; 0 And Not ri.CreatedOn.CompareTo(_highWaterMarkDelta.Value) &gt; 0) Or ri.Revision &gt; 0).ToList
+                ' Get any extra data and create the edit changesets
+                TraceManager.TraceInformation(&quot;Located {0} deltas as EDIT in {1} seconds&quot;, deltaEdit.Count, Now.Subtract(_tstart).TotalSeconds)
+                deltaEdit = GetDeltaWorkflow(context, deltaEdit)
+                TraceManager.TraceInformation(&quot;Updated {0} deltas with workflow in {1} seconds&quot;, deltaEdit.Count, Now.Subtract(_tstart).TotalSeconds)
+                Dim changesEdit As List(Of ChangeGroup) = GetChangeGroupsForEdits(deltaEdit)
+                TraceManager.TraceInformation(&quot;Created {0} edit change groups in {1} seconds&quot;, changesEdit.Count, Now.Subtract(_tstart).TotalSeconds)
+                ' Save the chnagesets to the backing store
+                For Each c In changesEdit
+                    c.Save()
+                Next
+                TraceManager.TraceInformation(&quot;Saved {0} edit change groups in {1} seconds&quot;, changesEdit.Count, Now.Subtract(_tstart).TotalSeconds)
+                '------------------------------------------------------
+                ' Update the High water mark and send the changes through
+                Me._highWaterMarkDelta.Update(DateTime.Now)
+                Me._changeGroupService.PromoteDeltaToPending()
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+        End Sub
+
+        Public Overrides Sub InitializeClient()
+            TraceManager.TraceInformation(&quot;TtpWIT:AP:InitializeClient&quot;)
+        End Sub
+
+        Private Shared Function InitializeMigrationDataSource() As TtpMigrationDataSource
+            Return New TtpMigrationDataSource
+        End Function
+
+        Public Overrides Sub InitializeServices(ByVal analysisService As IServiceContainer)
+            TraceManager.TraceInformation(&quot;TtpWIT:AP:InitializeServices&quot;)
+            If (analysisService Is Nothing) Then
+                Throw New ArgumentNullException(&quot;analysisService&quot;)
+            End If
+            Me._analysisServiceContainer = analysisService
+            Me._configurationService = DirectCast(analysisService.GetService(GetType(ConfigurationService)), ConfigurationService)
+            Dim migrationSourceConfiguration As MigrationSource = Me._configurationService.MigrationSource
+            _dataSourceConfig = TtpAnalysisProvider.InitializeMigrationDataSource
+            Dim customSetting As CustomSetting
+            Dim username As String = &quot;&quot;
+            Dim password As String = &quot;&quot;
+            Dim IsWorkflowIncluded As Boolean = True
+            Dim hwmDateOveride As DateTime = DateTime.MinValue
+            For Each customSetting In Me._configurationService.MigrationSource.CustomSettings.CustomSetting
+                If customSetting.SettingKey.Equals(&quot;Username&quot;, StringComparison.OrdinalIgnoreCase) Then
+                    username = customSetting.SettingValue
+                End If
+                If customSetting.SettingKey.Equals(&quot;Password&quot;, StringComparison.OrdinalIgnoreCase) Then
+                    password = customSetting.SettingValue
+                End If
+                If customSetting.SettingKey.Equals(&quot;OverrideHWM&quot;, StringComparison.OrdinalIgnoreCase) Then
+                    If Not DateTime.TryParse(customSetting.SettingValue, hwmDateOveride) Then
+                        Throw New InvalidCastException(&quot;Date is not in the correct format: OverrideHWM&quot;)
+                    End If
+                End If
+                If customSetting.SettingKey.Equals(&quot;IsWorkflowIncluded&quot;, StringComparison.OrdinalIgnoreCase) Then
+                    If Not Boolean.TryParse(customSetting.SettingValue, IsWorkflowIncluded) Then
+                        Throw New InvalidCastException(&quot;Date is not in the correct format: IsWorkflowIncluded&quot;)
+                    End If
+                End If
+            Next
+
+            _dataSourceConfig.Credentials = New NetworkCredential(username, password)
+            _dataSourceConfig.DatabaseName = migrationSourceConfiguration.SourceIdentifier
+            _dataSourceConfig.FilterName = IIf(migrationSourceConfiguration.ServerIdentifier = &quot;[enterFiltername]&quot;, &quot;&quot;, migrationSourceConfiguration.ServerIdentifier)
+            _dataSourceConfig.Url = migrationSourceConfiguration.ServerUrl
+            _dataSourceConfig.IsWorkflowIncluded = IsWorkflowIncluded
+
+
+            Me._supportedContentTypes = New Collection(Of ContentType)
+            Me.SupportedContentTypes.Add(WellKnownContentType.WorkItem)
+
+            Dim handler As New TtpChangeActionHandlers(Me)
+
+            Me._supportedChangeActions = New Dictionary(Of Guid, ChangeActionHandler)
+            Me.SupportedChangeActions.Add(WellKnownChangeActionId.Add, New ChangeActionHandler(AddressOf handler.BasicActionHandler))
+            Me.SupportedChangeActions.Add(WellKnownChangeActionId.Edit, New ChangeActionHandler(AddressOf handler.BasicActionHandler))
+            Me.SupportedChangeActions.Add(WellKnownChangeActionId.Delete, New ChangeActionHandler(AddressOf handler.BasicActionHandler))
+            Me._highWaterMarkDelta = New HighWaterMark(Of DateTime)(&quot;HWMDelta&quot;)
+            Me._highWaterMarkChangeSet = New HighWaterMark(Of Integer)(&quot;LastChangeSet&quot;)
+            Me._configurationService.RegisterHighWaterMarkWithSession(Me._highWaterMarkDelta)
+            Me._configurationService.RegisterHighWaterMarkWithSession(Me._highWaterMarkChangeSet)
+
+            If hwmDateOveride &gt; DateTime.MinValue Then
+                _highWaterMarkDelta.Update(hwmDateOveride)
+            End If
+
+            Me._changeGroupService = DirectCast(Me._analysisServiceContainer.GetService(GetType(ChangeGroupService)), ChangeGroupService)
+
+            Me._changeGroupService.RegisterDefaultSourceSerializer(New TtpDefectMigrationItemSerializer)
+        End Sub
+
+        Public Overrides Sub RegisterConflictTypes(ByVal conflictManager As ConflictManager)
+            TraceManager.TraceInformation(&quot;TtpWIT:AP:RegisterConflictTypes&quot;)
+            Me._conflictManagerService = DirectCast(Me._analysisServiceContainer.GetService(GetType(ConflictManager)), ConflictManager)
+            Me._conflictManagerService.RegisterConflictType(New GenericConflictType)
+            Me._conflictManagerService.RegisterConflictType(New TtpGeneralConflictType, ConflictsSyncOrchOptions.Continue)
+        End Sub
+
+        Public Overrides Sub RegisterSupportedChangeActions(ByVal changeActionRegistrationService As ChangeActionRegistrationService)
+            TraceManager.TraceInformation(&quot;TtpWIT:AP:RegisterSupportedChangeActions&quot;)
+            changeActionRegistrationService = DirectCast(Me._analysisServiceContainer.GetService(GetType(ChangeActionRegistrationService)), ChangeActionRegistrationService)
+            Dim supportedChangeAction As KeyValuePair(Of Guid, ChangeActionHandler)
+            For Each supportedChangeAction In Me.SupportedChangeActions
+                Dim contentType As ContentType
+                For Each contentType In Me.SupportedContentTypes
+                    changeActionRegistrationService.RegisterChangeAction(supportedChangeAction.Key, contentType.ReferenceName, supportedChangeAction.Value)
+                Next
+            Next
+        End Sub
+
+        Public Overrides Sub RegisterSupportedContentTypes(contentTypeRegistrationService As Microsoft.TeamFoundation.Migration.Toolkit.Services.ContentTypeRegistrationService)
+
+        End Sub
+
+        Private Function GetTtpContext() As TtpContext
+            TraceManager.TraceInformation(&quot;-GetTtpContext&quot;)
+            Dim TtpServer As Uri = New Uri(String.Format(&quot;{0}/scripts/ttsoapcgi.exe&quot;, _dataSourceConfig.Url))
+            TraceManager.TraceInformation(ChrW(9) &amp; &quot;-GetTtpContext Loading Ttp  {0}&quot;, New Object() {TtpServer})
+            Dim context As TtpContext = Nothing
+            Try
+                context = TtpSoapSdkApi.CreateContext(TtpServer, _dataSourceConfig.DatabaseName, _dataSourceConfig.Credentials.UserName, _dataSourceConfig.Credentials.Password)
+                TraceManager.TraceInformation(&quot;-GetTtpContext Connected to '{0}' on '{1}' in {2}&quot;, context.Project.database, TtpServer, Now.Subtract(_tstart).ToFriendly)
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+            Return context
+        End Function
+
+        Private Function GetTtpRawData(context As TtpContext, filter As String) As List(Of TtpDefectMigrationItem)
+            Dim raw As New List(Of TtpDefectMigrationItem)
+            Try
+                Dim columns As List(Of CTableColumn) = context.GetColumns(&quot;Defect&quot;)
+                TraceManager.TraceInformation(&quot;-GetTtpRawData '{0}' columns in {1}&quot;, columns.Count, Now.Subtract(_tstart).ToFriendly)
+                TraceManager.TraceInformation(&quot;-GetTtpRawData Atempting get on all data&quot;)
+                Dim rows As CRecordListSoap = context.GetRecords(&quot;Defect&quot;, filter, columns)
+                TraceManager.TraceInformation(&quot;-GetTtpRawData Found {0} records in {1} seconds&quot;, rows.records.Count, Now.Subtract(_tstart).TotalSeconds)
+                Dim currentRecord As Integer = 1
+                Dim countRecords = rows.records.Count
+                For Each record In rows.records
+                    ' item has been modified since HWM &amp; before deltra table start time
+                    Try
+                        Dim DefectMI As TtpDefectMigrationItem = TtpDefectMigrationItem.ConvertCDefectToTtpDefectMigrationItem(_configurationService, columns.ToArray, record)
+                        '----------------
+                        raw.Add(DefectMI)
+                        TraceManager.TraceInformation(&quot;-GetTtpRawData  {0} of {1} - '{2}' Number '{3}' has loaded in {4} seconds&quot;, currentRecord, countRecords, DefectMI.WorItemType, DefectMI.Id, Now.Subtract(_tstart).TotalSeconds)
+                    Catch ex As Exception
+                        TraceManager.TraceError(&quot;-GetTtpRawData  {0} of {1} - '{2}' Number '{3}' has {4} processing in {5} seconds&quot;, currentRecord, countRecords, &quot;unknown&quot;, &quot;unknown&quot;, &quot;failed&quot;, Now.Subtract(_tstart).TotalSeconds)
+                        TraceManager.TraceException(ex)
+                    End Try
+                    currentRecord = currentRecord + 1
+                Next
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+            Return raw
+        End Function
+
+        Private Function GetDeltaWorkflow(context As TtpContext, ByVal deltas As List(Of TtpDefectMigrationItem)) As List(Of TtpDefectMigrationItem)
+            Try
+                Dim currentRecord As Integer = 1
+                Dim countRecords = deltas.Count
+                For Each di In deltas
+                    ' item has been modified since HWM &amp; before deltra table start time
+                    If _dataSourceConfig.IsWorkflowIncluded Then
+                        di.ImportDefectData(context)
+                        TraceManager.TraceInformation(&quot;-GetDeltaWorkflow  {0} of {1} - '{2}' Number '{3}' has {4} processing revision {5} in {6} seconds&quot;, currentRecord, countRecords, di.WorItemType, di.Id, &quot;UPDATED&quot;, di.Revision, Now.Subtract(_tstart).TotalSeconds)
+                    Else
+                        TraceManager.TraceInformation(&quot;-GetDeltaWorkflow  {0} of {1} - '{2}' Number '{3}' has {4} processing revision {5} in {6} seconds&quot;, currentRecord, countRecords, di.WorItemType, di.Id, &quot;SKIPPED&quot;, di.Revision, Now.Subtract(_tstart).TotalSeconds)
+                    End If
+                    currentRecord = currentRecord + 1
+                Next
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+            Return deltas
+        End Function
+
+        Private Function GetChangeGroupsForAdds(ByVal deltas As List(Of TtpDefectMigrationItem)) As List(Of ChangeGroup)
+            Dim changes As New List(Of ChangeGroup)
+            Try
+                Dim currentRecord As Integer = 1
+                Dim countRecords = deltas.Count
+                For Each delta In deltas
+                    ' item has been modified since HWM &amp; before deltra table start time
+                    Try
+                        ' Create and add acction group
+                        delta.ResetRevision()
+                        Dim changeGroup As ChangeGroup = Me._changeGroupService.CreateChangeGroupForDeltaTable(String.Format(&quot;{0}:{1}&quot;, delta.Id, delta.Revision))
+                        changeGroup.Status = ChangeStatus.Delta
+                        changeGroup.Owner = Nothing
+                        changeGroup.Comment = String.Format(CultureInfo.CurrentCulture, &quot;Changeset {0}&quot;, _highWaterMarkChangeSet.Value)
+                        changeGroup.ChangeTimeUtc = DateTime.UtcNow
+                        changeGroup.Status = ChangeStatus.Delta
+                        changeGroup.ExecutionOrder = 0
+
+                        changeGroup.CreateAction( _
+                                WellKnownChangeActionId.Add, _
+                                delta, _
+                                delta.Id, _
+                                _dataSourceConfig.DatabaseName, _
+                                delta.Revision, _
+                                &quot; &quot;, _
+                                WellKnownContentType.WorkItem.ReferenceName, _
+                                TtpAnalysisProvider.CreateFieldRevisionDescriptionDoc(delta) _
+                                )
+                        changes.Add(changeGroup)
+                        _highWaterMarkChangeSet.Update((_highWaterMarkChangeSet.Value + 1))
+                        ' DONE
+                    Catch ex As Exception
+                        TraceManager.TraceError(&quot;-GetChangeGroups  {0} of {1} - '{2}' Number '{3}' has {4} processing in {5} seconds&quot;, currentRecord, countRecords, &quot;unknown&quot;, &quot;unknown&quot;, &quot;failed&quot;, Now.Subtract(_tstart).TotalSeconds)
+                        TraceManager.TraceException(ex)
+                    End Try
+                    currentRecord = currentRecord + 1
+                Next
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+            Return changes
+        End Function
+
+        Private Function GetChangeGroupsForEdits(ByVal deltas As List(Of TtpDefectMigrationItem)) As List(Of ChangeGroup)
+            Dim changes As New List(Of ChangeGroup)
+            Try
+                Dim currentRecord As Integer = 1
+                Dim countRecords = deltas.Count
+                For Each delta In deltas
+                    ' item has been modified since HWM &amp; before deltra table start time
+                    Try
+                        ' Create and add acction group
+                        delta.IncrementRevision()
+                        Dim changeGroup As ChangeGroup = Me._changeGroupService.CreateChangeGroupForDeltaTable(String.Format(&quot;{0}:{1}&quot;, delta.Id, delta.Revision))
+                        changeGroup.Status = ChangeStatus.Delta
+                        changeGroup.Owner = Nothing
+                        changeGroup.Comment = String.Format(CultureInfo.CurrentCulture, &quot;Changeset {0}&quot;, _highWaterMarkChangeSet.Value)
+                        changeGroup.ChangeTimeUtc = DateTime.UtcNow
+                        changeGroup.Status = ChangeStatus.Delta
+                        changeGroup.ExecutionOrder = 0
+
+                        changeGroup.CreateAction( _
+                                WellKnownChangeActionId.Edit, _
+                                delta, _
+                                delta.Id, _
+                                _dataSourceConfig.DatabaseName, _
+                                delta.Revision, _
+                                &quot; &quot;, _
+                                WellKnownContentType.WorkItem.ReferenceName, _
+                                TtpAnalysisProvider.CreateFieldRevisionDescriptionDoc(delta) _
+                                )
+                        changes.Add(changeGroup)
+                        _highWaterMarkChangeSet.Update((_highWaterMarkChangeSet.Value + 1))
+                        ' DONE
+                    Catch ex As Exception
+                        TraceManager.TraceError(&quot;-GetChangeGroups  {0} of {1} - '{2}' Number '{3}' has {4} processing in {5} seconds&quot;, currentRecord, countRecords, &quot;unknown&quot;, &quot;unknown&quot;, &quot;failed&quot;, Now.Subtract(_tstart).TotalSeconds)
+                        TraceManager.TraceException(ex)
+                    End Try
+                    currentRecord = currentRecord + 1
+                Next
+            Catch ex As Exception
+                TraceManager.TraceException(ex)
+            End Try
+            Return changes
+        End Function
+
+    End Class</pre>
+
+
+    <p><strong>Figure: Full source for the Analysis Provider</strong></p>
+
+
+    <pre class="brush: vb; ruler: true;">Private Function
+    GetChangeGroupsForEdits(ByVal deltas As List(Of TtpDefectMigrationItem)) As
+    List(Of ChangeGroup)
+        Dim changes As New List(Of ChangeGroup)
+        Try
+            Dim currentRecord As Integer = 1
+            Dim countRecords = deltas.Count
+            For Each delta In deltas
+                ' item has been modified since HWM &amp; before deltra table start time
+                Try
+                    ' Create and add acction group
+                    delta.IncrementRevision()
+                    Dim changeGroup As ChangeGroup = Me._changeGroupService.CreateChangeGroupForDeltaTable(String.Format(&quot;{0}:{1}&quot;, delta.Id, delta.Revision))
+                    changeGroup.Status = ChangeStatus.Delta
+                    changeGroup.Owner = Nothing
+                    changeGroup.Comment = String.Format(CultureInfo.CurrentCulture, &quot;Changeset {0}&quot;, _highWaterMarkChangeSet.Value)
+                    changeGroup.ChangeTimeUtc = DateTime.UtcNow
+                    changeGroup.Status = ChangeStatus.Delta
+                    changeGroup.ExecutionOrder = 0
+
+                    changeGroup.CreateAction( _
+                            WellKnownChangeActionId.Edit, _
+                            delta, _
+                            delta.Id, _
+                            _dataSourceConfig.DatabaseName, _
+                            delta.Revision, _
+                            &quot; &quot;, _
+                            WellKnownContentType.WorkItem.ReferenceName, _
+                            TtpAnalysisProvider.CreateFieldRevisionDescriptionDoc(delta) _
+                            )
+                    changes.Add(changeGroup)
+                    _highWaterMarkChangeSet.Update((_highWaterMarkChangeSet.Value + 1))
+                    ' DONE
+                Catch ex As Exception
+                    TraceManager.TraceError(&quot;-GetChangeGroups  {0} of {1} - '{2}' Number '{3}' has {4} processing in {5} seconds&quot;, currentRecord, countRecords, &quot;unknown&quot;, &quot;unknown&quot;, &quot;failed&quot;, Now.Subtract(_tstart).TotalSeconds)
+                    TraceManager.TraceException(ex)
+                End Try
+                currentRecord = currentRecord + 1
+            Next
+        Catch ex As Exception
+            TraceManager.TraceException(ex)
+        End Try
+        Return changes
+    End Function</pre>
+
+
+    <p><strong>Figure: New code to get change groups</strong></p>
+
+
+    <p>I am not exactly positive what made the difference as much of my
+    debugging efforts were hampered by the <a
+    href="http://blog.hinshelwood.com/test-track-pro-and-the-case-of-the-missing-data/">nasty
+    query bug in TTP</a>, but I am very glad that it is working. It looks like I
+    do not need to have consecutive Revision's although as I have already
+    implemented the code for it I am not going to change it at this stage in the
+    game.</p>
+
+
+    <p>It is now a mater of configuration, but I am creating a table with all of
+    the values of the 120+ fields as well as a neat table for the workflow and
+    inserting it into the history.</p>
+
+
+    <p><a href="http://blog.hinshelwood.com/files/2011/06/image10.png"><img
+    style="background-image: none; border-right-width: 0px; padding-left: 0px;
+    padding-right: 0px; display: inline; border-top-width: 0px;
+    border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px"
+    title="image" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2011/06/image_thumb10.png" width="60"
+    height="480" /></a> 
+
+      <br /><strong>Figure: Loooong history built from TTP Data</strong></p>
+
+    <p>This history shows all of the values for the fields at the point in time
+    that the data was migrated.</p>
+
+
+    <p>All in, I am quite happy with the process and will be implementing in
+    production really soon. Still some testing to do, but all looks good so
+    far.</p>
+
+
+    <ul>
+      <li><strong>Can you share your experiences of creating a TFS Integration Platform Adapter?</strong> </li>
+    </ul>
+  - ''
+  post_id: '3606'
+  post_date: '2011-06-06 07:23:09'
+  post_date_gmt: '2011-06-06 14:23:09'
+  post_modified: '2011-06-06 07:23:09'
+  post_modified_gmt: '2011-06-06 14:23:09'
+  comment_status: open
+  ping_status: open
+  post_name: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '323661732'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1b3B5Q9
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1472243752;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3460;}i:1;a:1:{s:2:"id";i:3408;}i:2;a:1:{s:2:"id";i:3652;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2011-06-06-a-working-test-track-pro-adapter-for-the-tfs-integration-platform.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '616'
+  comment:
+  - comment_id: '1020'
+    comment_author: >-
+      TOC: TFS Integration Tools Blog Posts and Reference Sites - Willy&#039;s
+      Cave - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/06/toc-tfs-integration-tools.aspx
+    comment_author_IP: 65.52.96.177
+    comment_date: '2011-06-06 20:21:50'
+    comment_date_gmt: '2011-06-07 03:21:50'
+    comment_content: >-
+      [...] A working Test Track Pro Adapter for the TFS Integration Platform
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1307418922.8238";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1021'
+    comment_author: >-
+      What do you do with a Work Item History Not Found Conflict Type Details |
+      Visual Studio ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2011-06-12 15:26:11'
+    comment_date_gmt: '2011-06-12 22:26:11'
+    comment_content: >-
+      [...] 2011-06-12 15:25 – All fixed  Check out A working Test Track Pro
+      Adapter for the TFS Integration Platform [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:14:"1307917571.517";s:7:"message";s:28:"Akismet
+        cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1307918129.5375";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1022'
+    comment_author: Chris Pritchard
+    comment_author_email: cspritch76@gmail.com
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2011-06-17 19:57:00'
+    comment_date_gmt: '2011-06-17 19:57:00'
+    comment_content: "This is pretty cool. \_We currently use TTP at work, and could use something like this to bridge the gap until we get everything moved over to TFS. \_Is this something you are sharing with the public? \_I have not used the TFS Automation Framework, so I don't even know where to begin."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '228508157'
+  - comment_id: '1023'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: ''
+    comment_date: '2011-06-17 21:49:00'
+    comment_date_gmt: '2011-06-17 21:49:00'
+    comment_content: "It is something that needs a lot of configuration depending on what you want. if you have not used the Tfs Integration Platform before then the\_learning\_curve is pretty\_steep.\n\nI would be happy to set this up for you as part of a consulting engagement..."
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1022'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '228508157'
+    - meta_key: dsq_post_id
+      meta_value: '228650229'
+  - comment_id: '1024'
+    comment_author: >-
+      Configuring a PowerShell Adapter for the TFS Integration Platform | Visual
+      Studio ALM
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/configuring-a-powershell-adapter-for-the-tfs-integration-platform/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2011-06-22 21:33:06'
+    comment_date_gmt: '2011-06-23 04:33:06'
+    comment_content: >-
+      [...] the integration platform if you want to do the writing, rather than
+      the reading I recently did for Test Track Pro, then you concentrate on the
+      IMigrationProvider interface which allows you to implement the [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1308803586.0856";s:7:"message";s:28:"Akismet
+        cleared this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:15:"1308804370.3933";s:7:"message";s:46:"MrHinsh
+        changed the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1025'
+    comment_author: >-
+      Migrating ClearQuest 2003.06.xx to TFS 2010 with the TFS Integration
+      Platform and a hammer (part 1) | Where Technology Meets Teamwork
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: 208.109.181.28
+    comment_date: '2012-01-13 15:52:31'
+    comment_date_gmt: '2012-01-13 15:52:31'
+    comment_content: "[...] Martin had a few days in-office; Martin’s written his own custom Test Track Pro adapter for the TFS IP, so he definitely knows his way around this code.\_ As is typical of all my colleagues around here, [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1326498751.53";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1326712697.42";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1026'
+    comment_author: >-
+      Migrating ClearQuest 2003.06.xx to TFS 2010 with the TFS Integration
+      Platform and a hammer (part 1) - Where Technology Meets Teamwork
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.nwcadence.com/migrating-clearquest-2003-06-xx-to-tfs-2010-with-the-tfs-integration-platform-and-a-hammer-part-1/
+    comment_author_IP: 66.175.212.70
+    comment_date: '2012-09-18 10:13:56'
+    comment_date_gmt: '2012-09-18 17:13:56'
+    comment_content: "[...] abstraction.\_ I had no idea even where to start. Then Martin had a few days in-office; Martin’s written his own custom Test Track Pro adapter for the TFS IP, so he definitely knows his way around this code.\_ As is typical of all my colleagues around here, [...]"
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1347988436.98";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348001304.56";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1027'
+    comment_author: >-
+      TOC: TFS Integration Tools Blog Posts and Reference Sites - Willy&#039;s
+      Reflections - Site Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/toc-tfs-integration-tools-blog-posts-and-reference-sites.aspx
+    comment_author_IP: 65.55.57.70
+    comment_date: '2012-10-31 09:08:52'
+    comment_date_gmt: '2012-10-31 16:08:52'
+    comment_content: >-
+      [...] A working Test Track Pro Adapter for the TFS Integration Platform
+      [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1351711711.82";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

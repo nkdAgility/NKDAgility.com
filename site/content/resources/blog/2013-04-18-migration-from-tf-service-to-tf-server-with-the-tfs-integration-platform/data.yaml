@@ -1,0 +1,703 @@
+post:
+  title: Migration from TF Service to TF Server with the TFS Integration Platform
+  link: >-
+    https://nkdagility.com/blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform/
+  pubDate: Thu, 18 Apr 2013 03:28:29 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=9443
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">Are you worried that you will not be able to migrate from <a
+    href="http://tfs.visualstudio.com"
+    target="_blank">http://tfs.visualstudio.com</a> when they start charging for
+    it and you don’t want to pay? Fear not as we have the technology to
+    migration from TF Service to TF Server with the TFS Integration
+    Platform.</p>
+
+    <p><img title="image" style="border-left-width: 0px; border-right-width:
+    0px; background-image: none; border-bottom-width: 0px; padding-top: 0px;
+    padding-left: 0px; display: inline; padding-right: 0px; border-top-width:
+    0px" border="0" alt="image"
+    src="http://blog.hinshelwood.com/files/2013/04/image14.png" width="800"
+    height="480"/><br /><strong>Figure: Successful migration from TF Service to
+    TF Server</strong></p>
+
+    <p>We are working with a customer next week who is using <a
+    href="http://tfs.visualstudio.com">http://tfs.visualstudio.com</a> but due
+    to a misapplication of the rules governing the management of data they are
+    having to move their Team Foundation Service data local.</p>
+
+    <p>You see many organisations come under HIPA, SOX or CFR-11 which requires
+    separation of duties and that none of your data ends up at risk. This is
+    awesome as it is designed to protect your organisation and your customers
+    from the risks associated with restricted data. However this almost never
+    needs to be interpreted as something that governs your code, your builds or
+    your work item tracking data.</p>
+
+    <p>Sometimes it is for simple ‘warm and fuzzes’ and sometimes it is because
+    of the way that your internal compliance department has interpreted the
+    rules. But wrongly or rightly you&nbsp; have to move your data…</p>
+
+    <h2>Configuring the migration from TF Service to TF Server</h2>
+
+    <p>Wither you are familiar with the TFS Integration Platform or not there
+    are only a couple of ‘small’ things that we need to worry about for this
+    migration. Both of those things revolve around user accounts.</p>
+
+    <p>In TF Service all of the user accounts are Microsoft Accounts (was Live
+    ID) and they do not directly relate to anything that you have in your
+    Domain. Even if you <a
+    href="http://blog.hinshelwood.com/using-corporate-ids-with-visual-studio-11-team-foundation-service/">configure
+    Corporate Live ID’s </a>they will still never match what you have locally in
+    your Active Directory controlled environment.</p>
+
+    <ul>
+
+    <li><a
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2010/04/10/tfs-integration-platform-what-is-the-lookup-service-q-a-27.aspx"
+    target="_blank">TFS Integration Platform – What is the Lookup Service?
+    Q&amp;A-27</a>  </li>
+
+    <li><a
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/05/tfs-integration-tools-how-do-i-map-users-between-domains-or-systems-q-amp-a-44.aspx"
+    target="_blank">TFS Integration Tools – How do I map users between domains
+    or systems? Q&amp;A-44</a>  </li>
+
+    <li><a
+    href="http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/08/15/tfs-integration-tools-how-do-i-define-user-mappings-for-version-control-using-the-svn-adapter.aspx"
+    target="_blank">TFS Integration Tools – How do I define user mappings for
+    version control using the SVN adapter?</a></li>
+
+    </ul>
+
+    <p>We effectively have two places we need to do a little mapping. Source
+    Control and Work Item Tracking. Both of these are done is slightly different
+    ways…both are however easy to configure.  </p>
+
+    <p>We can use the <a href="https://tfsintegration.codeplex.com/"
+    target="_blank">TFS Integration Platform</a> to pull all of your data for
+    Source and Work Items, including the relationships and attachments but we do
+    leave behind some information.</p>
+
+    <ul>
+
+    <li>No Labels  </li>
+
+    <li>No Builds  </li>
+
+    <li>No Lab  </li>
+
+    <li>No Test Cases</li>
+
+    </ul>
+
+    <p>Probably the one least easy to swallow is the Test Cases. You may be able
+    to write something against the API afterwards to get it to work but I have
+    not tried…</p>
+
+    <h3>Source Control</h3>
+
+    <p>The thing to remember for Source Control is that your identity is
+    referenced as “Windows Live IDmartin@hinshelwood.com” in source. This means
+    that you need to collect every users Live ID and create a mapping file from
+    old to new.</p>
+
+    <pre class="brush: xml; ruler: true;"><useridentitymappings
+    EnableValidation="false">
+      <useridentitylookupaddins></useridentitylookupaddins>
+      <displaynamemappings DirectionOfMapping="LeftToRight">
+        <displaynamemapping Left="Windows Live IDmartin@hinshelwood.com" Right="vsalmTestUser2" MappingRule="SimpleReplacement"></displaynamemapping>
+      </displaynamemappings>
+    </useridentitymappings>
+
+    </pre>
+
+    <p>In this case we are moving from our Live ID to a Domain account and this
+    method can just as easily be used to move between two TF Service instances
+    or to move into TF Service.
+
+    </p>
+
+    <p>Once you have this mapping created you can update the
+    “UserIdentityMappings” section of your TFS Integration Platform
+    configuration. </p>
+
+    <h3>Work Item Tracking</h3>
+
+    <p>Work Item tracking is, if anything, easier to configure. You can use the
+    built in field mapping to equate “Martin Hinshelwood (MrHinsh) {NWC}” to
+    whatever you use in your domain.
+
+    </p>
+
+    <p>In this scenario you need have both a “FieldMap” and “ValueMap” to push
+    them together based on the value you would select in the work item Assigned
+    To drop-down.</p>
+
+    <pre class="brush: xml; ruler: true;"><fieldmaps>
+      <fieldmap name="FieldMap">
+           <mappedfields>
+              <mappedfield LeftName="*" RightName="*" MapFromSide="Left" valueMap=""></mappedfield>
+              <mappedfield LeftName="System.AssignedTo" RightName="System.AssignedTo" MapFromSide="Left" valueMap="UserMap"></mappedfield>
+           </mappedfields>
+      </fieldmap>
+            </fieldmaps>
+            <valuemaps>
+       <valuemap name="UserMap">
+           <value LeftValue="Martin Hinshelwood (MrHinsh) {NWC}" RightValue="Martin Hinshelwood"></value>
+       </valuemap>
+    </valuemaps>
+
+    </pre>
+
+    <p>You will need to collect the <em>exact</em> display name of each person
+    and ask them not to change them until you have pushed across the work
+    items.&nbsp; </p>
+
+    <h2>Conclusion</h2>
+
+    <p>While you can move from Team Foundation Service to Team Foundation Server
+    it will take some planning and forethought…the scenarios detailed above will
+    maintain continuity of your users between the two systems and authentication
+    methods.
+
+    </p>
+
+    <p>It is not however for the faint of heart… it took us a few hours to
+    figure out the solution above and about 12-15 failed migrations to get it
+    right…
+
+    </p>
+
+    <p>All of this is in the documentation for the TFS Integration Platform…</p>
+  - >-
+    <p class="lead">Are you worried that you will not be able to migrate from <a
+    href="http://tfs.visualstudio.com">http://tfs.visualstudio.com</a> when they
+    start charging for it and you don’t want to pay? Fear not as we have the
+    technology to migration from TF Service to TF Server with the TFS
+    Integration Platform.</p>
+  post_id: '9443'
+  post_date: '2013-04-17 20:28:29'
+  post_date_gmt: '2013-04-18 03:28:29'
+  post_modified: '2013-04-17 20:28:29'
+  post_modified_gmt: '2013-04-18 03:28:29'
+  comment_status: open
+  ping_status: open
+  post_name: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '87'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: migration from TF Service
+  - meta_key: _yoast_wpseo_title
+    meta_value: Migration from TF Service to TF Server with the TFS Integration Platform
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      You can do a migration from TF Service to TF Server with the TFS
+      Integration Platform. Its not easy and here lie some of the things we had
+      to do...
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: Operation timed out after 5000 milliseconds with 0 bytes received
+  - meta_key: dsq_thread_id
+    meta_value: '1219202866'
+  - meta_key: _yoast_bitlylink
+    meta_value: http://nkdalm.net/1dLxQPA
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1dLxQPA
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474916807;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5702;}i:1;a:1:{s:2:"id";i:6202;}i:2;a:1:{s:2:"id";i:6109;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-04-17-migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1050'
+  comment:
+  - comment_id: '1637'
+    comment_author: Migration from TF Service to TF Server with the...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/alkampfer-s-place/p/4000166408/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+    comment_author_IP: 89.30.105.121
+    comment_date: '2013-04-17 22:18:44'
+    comment_date_gmt: '2013-04-18 05:18:44'
+    comment_content: >-
+      [...] You can do a migration from TF Service to TF Server with the TFS
+      Integration Platform. Its not easy and here lie some of the things we had
+      to do...&nbsp; [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1366262325.034707;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1366310551.194886;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1638'
+    comment_author: Julien
+    comment_author_email: gourae@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.66.65.85
+    comment_date: '2013-07-16 20:57:00'
+    comment_date_gmt: '2013-07-16 19:57:00'
+    comment_content: >-
+      Thanks for your interesting article!
+
+      By the way, do you know if there is a way to migrate from a local TFS to a
+      TFS online ? 
+
+      Julien
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '964785389'
+  - comment_id: '1639'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com/
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-07-16 21:46:00'
+    comment_date_gmt: '2013-07-16 20:46:00'
+    comment_content: Yup... same plan but in reverse...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1638'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '964785389'
+    - meta_key: dsq_post_id
+      meta_value: '964867576'
+  - comment_id: '1640'
+    comment_author: Marco van Kimmenade
+    comment_author_email: marco@bluebasher.com
+    comment_author_url: ''
+    comment_author_IP: 81.30.33.161
+    comment_date: '2013-07-17 15:24:00'
+    comment_date_gmt: '2013-07-17 14:24:00'
+    comment_content: |-
+      Great article!
+      Do you know if this also can be done for TFS 2013 Preview?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '965696222'
+  - comment_id: '1641'
+    comment_author: MrHinsh
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://blog.hinshelwood.com
+    comment_author_IP: 72.232.7.21
+    comment_date: '2013-07-17 16:56:57'
+    comment_date_gmt: '2013-07-17 15:56:57'
+    comment_content: >-
+      It can, however you would need to install Team Explorer 2012 on the
+      computer running the TFS Integration Tools as there is not yet an adapter
+      for 2013.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1640'
+    comment_user_id: '3'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1374076617.189319;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1956'
+    comment_author: Tan Le
+    comment_author_email: leanhtan86@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 115.78.225.115
+    comment_date: '2013-10-16 10:17:00'
+    comment_date_gmt: '2013-10-16 10:17:00'
+    comment_content: >-
+      By the way, I have a task to migrate from current Team Foundation Service
+      https://myname.visualstudio.com to my local Team foundation server 2012
+      http://mypc:8080/tfs. But there some conflicts at BuildProcessTemplate
+      folder, then I tried to resolve them, but it cannot be done, error is
+      "Sequence contains no elements". Thanks any help!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1084182707'
+  - comment_id: '1957'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 50.95.225.142
+    comment_date: '2013-10-16 12:06:00'
+    comment_date_gmt: '2013-10-16 12:06:00'
+    comment_content: >-
+      You need to either 'cloak' that folder or migrate to a sub folder. The
+      existing BuildProcessTemplate folder is getting in the way...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1956'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1084182707'
+    - meta_key: dsq_post_id
+      meta_value: '1084256203'
+  - comment_id: '1959'
+    comment_author: Tan Le
+    comment_author_email: leanhtan86@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 115.78.225.115
+    comment_date: '2013-10-17 08:40:00'
+    comment_date_gmt: '2013-10-17 08:40:00'
+    comment_content: >-
+      I just config tfs service and my local tfs server. I also cloak that
+      folder but it can not be resolved. Any idea.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1957'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1084256203'
+    - meta_key: dsq_post_id
+      meta_value: '1085494990'
+  - comment_id: '1978'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 64.207.26.14
+    comment_date: '2013-10-18 14:44:00'
+    comment_date_gmt: '2013-10-18 14:44:00'
+    comment_content: You may need to start the replication again from the start :(
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1959'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1085494990'
+    - meta_key: dsq_post_id
+      meta_value: '1087130873'
+  - comment_id: '2025'
+    comment_author: John Spinella
+    comment_author_email: jrspinella@live.com
+    comment_author_url: ''
+    comment_author_IP: 76.104.52.69
+    comment_date: '2013-11-21 19:57:00'
+    comment_date_gmt: '2013-11-21 19:57:00'
+    comment_content: >-
+      Martin, do you have a HOL or the config you used for this. I am currently
+      doing this at my client site as well. Any help would be appreciated. 
+
+      Thanks,
+
+      John Spinella
+
+      jrspinella@live.com
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1133341528'
+  - comment_id: '2026'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 131.107.165.72
+    comment_date: '2013-11-21 21:32:00'
+    comment_date_gmt: '2013-11-21 21:32:00'
+    comment_content: >-
+      I don't have a HOL but I would consider doing a Google Hangout next week
+      if you think that folks would be interested...
+
+      Who would be interested?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2025'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1133341528'
+    - meta_key: dsq_post_id
+      meta_value: '1133516840'
+  - comment_id: '2027'
+    comment_author: Andrew Clear
+    comment_author_email: goaway123412341234@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 65.102.165.25
+    comment_date: '2013-11-21 22:42:00'
+    comment_date_gmt: '2013-11-21 22:42:00'
+    comment_content: >-
+      If you've got TFS odds are you've got MSDN right? Then you don't have to
+      pay for VSO.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1133624113'
+  - comment_id: '2028'
+    comment_author: John Spinella
+    comment_author_email: jrspinella@live.com
+    comment_author_url: ''
+    comment_author_IP: 76.104.52.69
+    comment_date: '2013-11-22 12:05:00'
+    comment_date_gmt: '2013-11-22 12:05:00'
+    comment_content: Yes, I would be interested!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2026'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1133516840'
+    - meta_key: dsq_post_id
+      meta_value: '1134295464'
+  - comment_id: '2029'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 12.10.76.2
+    comment_date: '2013-11-22 16:02:00'
+    comment_date_gmt: '2013-11-22 16:02:00'
+    comment_content: >-
+      Andrew, you have to pay if you wasn't more than 60 minutes of builds a
+      month. Or what if you have 30 user's that do not have MSDN? Your local TFS
+      CAL's are not going to give you rights to VSO.
+
+      So, odds are, if you have TFS that you WILL have to pay for VSO... just
+      maybe no for everyone...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2027'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1133624113'
+    - meta_key: dsq_post_id
+      meta_value: '1134572308'
+  - comment_id: '2030'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 131.107.165.31
+    comment_date: '2013-11-22 17:59:00'
+    comment_date_gmt: '2013-11-22 17:59:00'
+    comment_content: >-
+      I am going to try and set something up for next week when I am back in the
+      UK...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2028'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1134295464'
+    - meta_key: dsq_post_id
+      meta_value: '1134727152'
+  - comment_id: '2032'
+    comment_author: Andrew Clear
+    comment_author_email: goaway123412341234@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 71.227.195.161
+    comment_date: '2013-11-25 00:46:00'
+    comment_date_gmt: '2013-11-25 00:46:00'
+    comment_content: >-
+      True. Kind of strange that the TFS CAL doesn't give you Standard access to
+      VSO, but gives you the ability to work with work items on TFS. I suppose
+      you could drop your CALs for Standard licenses. Not sure if that is a
+      viable route. I really wish they hadn't made the license structure so
+      complicated.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2029'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1134572308'
+    - meta_key: dsq_post_id
+      meta_value: '1137707228'
+  - comment_id: '2033'
+    comment_author: Andrew Clear
+    comment_author_email: goaway123412341234@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 71.227.195.161
+    comment_date: '2013-11-25 00:47:00'
+    comment_date_gmt: '2013-11-25 00:47:00'
+    comment_content: >-
+      I just had to do this very thing last week. Only way I found out of it was
+      to restart.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1978'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1087130873'
+    - meta_key: dsq_post_id
+      meta_value: '1137707843'
+  - comment_id: '2034'
+    comment_author: Andrew Clear
+    comment_author_email: goaway123412341234@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 71.227.195.161
+    comment_date: '2013-11-25 00:48:00'
+    comment_date_gmt: '2013-11-25 00:48:00'
+    comment_content: Yes, I've used the migration platform for TFS 2013 Preview without issue.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1640'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '965696222'
+    - meta_key: dsq_post_id
+      meta_value: '1137708439'
+  - comment_id: '2035'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 86.30.214.218
+    comment_date: '2013-11-25 09:22:00'
+    comment_date_gmt: '2013-11-25 09:22:00'
+    comment_content: >-
+      While it can be used with the Preview I would recommend upgrading to the
+      latest version (TFS 2013 RTM) prior to doing the migration. That way is
+      you have a support issue it is easier to resolve with one less thing in
+      the way...
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '1640'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '965696222'
+    - meta_key: dsq_post_id
+      meta_value: '1138019621'
+  - comment_id: '2052'
+    comment_author: Visual Studio Online explained
+    comment_author_email: ''
+    comment_author_url: http://blog.nwcadence.com/visual-studio-online-explained/
+    comment_author_IP: 66.175.212.70
+    comment_date: '2013-12-19 21:51:00'
+    comment_date_gmt: '2013-12-19 21:51:00'
+    comment_content: >-
+      [&#8230;] subscription. If you’re interested in moving from VSO to an
+      on-premises TFS, Martin has a good blog post on the [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1387489860.300537;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1389619759.67456;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '7623'
+    comment_author: Samuele Gaggioli
+    comment_author_email: samu.gaggio@tin.it
+    comment_author_url: ''
+    comment_author_IP: 95.243.25.52
+    comment_date: '2014-11-18 10:58:00'
+    comment_date_gmt: '2014-11-18 10:58:00'
+    comment_content: >-
+      Sorry, but is this working also from TF Service to TF Service? It is too
+      long to explain now, but probably I will need to transfer all my data from
+      a VSO account to another....
+
+      Thanks
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1699133845'
+  - comment_id: '7627'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 193.212.101.70
+    comment_date: '2014-11-18 12:00:00'
+    comment_date_gmt: '2014-11-18 12:00:00'
+    comment_content: >-
+      Yes you can do this between VSO accounts. It can however be quite
+      complicated to get setup so you should probably consult an expert :)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '7623'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1699133845'
+    - meta_key: dsq_post_id
+      meta_value: '1699191056'

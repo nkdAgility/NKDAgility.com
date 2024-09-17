@@ -1,0 +1,54 @@
+post:
+  title: New Event Handlers
+  link: https://nkdagility.com/blog/new-event-handlers/
+  pubDate: Thu, 31 Jan 2008 11:20:28 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/01/31/new-event-handlers.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have added an extra event handler to the <a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&amp;ReleaseId=5057\" target=\"_blank\">TFS Event Handler (Prototype)</a>, and this makes two.</p> <p><strong>Assigned To Handler</strong></p> <p>The Assigned to handler send a users an email when a work item is assigned to them unless they did the assigning themselves.</p> <p><strong>Reassigned Handler</strong></p> <p>The reassigned handler send an email to a user to whom a work item used to be assigned, letting them know that they no longer have that piece of work in their list.</p> <p>\_</p> <p>These handlers are easily added to a current deployment and are packaged together. You will need to update the version of your prototype deployment by <a href=\"https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&amp;ReleaseId=5057\" target=\"_blank\">downloading</a> the latest version, but it does fix a number of found bugs.</p> <p>Once you have the new version, download the Assignment Handlers rar file from the release page and extract them into the \"<em>c:Program FilesRDdotNetRDdotNet Team Server Event Handler (Prototype)EventHandlersWorkItemTracking</em>\" folder.</p> <p>Stop the \"<em><a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> Event Handler (Prototype)</em>\" service and open the \"<em><a title=\"RDdotNet - Reality Dysfunction .NET\" href=\"http://www.rddotnet.com\" target=\"_blank\">RDdotNet</a>.TFSEventHandler.exe.config</em>\" file with notepad.</p> <p>if you want the AssignedToHandler to work ad the following line:</p> <blockquote><pre><span>&lt;</span><span>Handler</span><span> </span><span>type</span><span>=</span>\"<span><a title=\"RDdotNet - Reality Dysfunction .NET\" href=\"http://www.rddotnet.com\" target=\"_blank\">RDdotNet</a>.TeamFoundation.WorkItemTracking.AssignedToHandler</span>\"\n<span>         </span><span>assemblyFileName</span><span>=</span>\"<span><a title=\"RDdotNet - Reality Dysfunction .NET\" href=\"http://www.rddotnet.com\" target=\"_blank\">RDdotNet</a>.TeamFoundation.WorkItemTracking.Assignement.dll</span>\"\n<span>         </span><span>assemblyFileLocation</span><span>=</span>\"<span>~EventHandlersWorkItemTracking</span>\"<span>&gt;\n&lt;/</span><span>Handler</span><span>&gt;</span></pre></blockquote>\n<p>And if you want the Reassigned handler to work add the following line:</p>\n<blockquote>\n<p><span>&lt;</span><span>Handler</span><span> </span><span>type</span><span>=</span>\"<span><a title=\"RDdotNet - Reality Dysfunction .NET\" href=\"http://www.rddotnet.com\" target=\"_blank\">RDdotNet</a>.TeamFoundation.WorkItemTracking.ReAssignedHandler</span>\"<br /><span>\_\_\_\_\_\_\_ </span><span>assemblyFileName</span><span>=</span>\"<span><a title=\"RDdotNet - Reality Dysfunction .NET\" href=\"http://www.rddotnet.com\" target=\"_blank\">RDdotNet</a>.TeamFoundation.WorkItemTracking.Assignement.dll</span>\"<br /><span>\_\_\_\_\_\_\_ </span><span>assemblyFileLocation</span><span>=</span>\"<span>~EventHandlersWorkItemTracking</span>\"<span>&gt;<br />&lt;/</span><span>Handler</span><span>&gt;</span></p></blockquote><a href=\"http://11011.net/software/vspaste\"></a>\n<p>If you want both to work...then add both...easy.</p>\n<p>\_</p>\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/WIT\" rel=\"tag\">WIT</a>\_</div>"
+  - ''
+  post_id: '258'
+  post_date: '2008-01-31 11:20:28'
+  post_date_gmt: '2008-01-31 11:20:28'
+  post_modified: '2008-01-31 11:20:28'
+  post_modified_gmt: '2008-01-31 11:20:28'
+  comment_status: open
+  ping_status: open
+  post_name: new-event-handlers
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '320028684'
+  - meta_key: _thumbnail_id
+    meta_value: '5063'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19AjoJk
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2008-01-31-new-event-handlers.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '420'

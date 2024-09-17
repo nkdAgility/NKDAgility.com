@@ -1,0 +1,61 @@
+post:
+  title: Who broke the build?
+  link: https://nkdagility.com/blog/who-broke-the-build/
+  pubDate: Mon, 29 Mar 2010 18:47:08 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2010/03/29/who-broke-the-build.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"BuildIcon_Large\" align=\"left\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-BuildIcon_Large_2106055b-2a9b-4804-a338-fd607fa3de15.png\" width=\"90\" height=\"80\" />   <p>I recently sent round a list of broken builds at SSW and asked for them to be fixed or deleted if they are not being used. My colleague <a href=\"http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Peter.aspx\" target=\"_blank\">Peter</a> came back with a couple of questions which I love as it tells me that at least one person reads my email <img class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-wlEmoticon-smile_2.png\" /></p>  <p>I think first we need to answer a couple of other questions related to builds in general.</p>  <p>\_</p>  <p>Why do we want the build to pass? </p>  <ol>   <li>Any developer can pick up a project and build it </li>    <li>Standards can be enforced </li>    <li>Constant quality is maintained </li>    <li>Problems in code are identified early </li> </ol>  <p>What could a failed build signify?</p>  <ol>   <li>Developers have not built and tested their code properly before checking in. </li>    <li>Something added depends on a local resource that is not under version control or does not exist on the target computer.</li>    <li>Developers are not writing tests to cover common problems. </li>    <li>There are not enough tests to cover problems. </li> </ol>  <p>Now we know why, lets answer Peters questions:</p>  <h3>Where is this list? (can we see it somehow)</h3>  <p>You can normally only see the builds listed for each project. But, you have a little application called “Build Notifications” on your computer. It is installed when you install Visual Studio 2010.</p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"clip_image001\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-clip_image001_fe0e322e-0d6d-422c-87a2-b8b5a4b09991.png\" width=\"414\" height=\"568\" />     <br /><strong>Figure: Staring the build notification application on Windows 7.</strong>     <br /></p>  <p>Once you have it open (it may disappear into your system tray) you should click “Options” and select all the projects you are involved in.</p>  <p>This application only lists projects that have builds, so don’t worry if it is not listed. This just means you are about to setup a build, right?</p>  <p>I just selected ALL projects that have builds.</p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-image_c7ea1330-71e2-4c2e-be13-a53b0368b127.png\" width=\"480\" height=\"784\" />     <br /><strong>Figure: All builds are listed here</strong></p>  <p>In addition to seeing the list you will also get toast notification of build failure’s.</p>  <h3>How can we get more info on <b>what</b> broke the build? (who is interesting too, to point the finger <img class=\"wlEmoticon wlEmoticon-smile\" alt=\"Smile\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-wlEmoticon-smile_2.png\" /> but more important is what)</h3>  <p>The only thing worse than breaking the build, is continuing to develop on a broken build! </p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-image_550b6639-064f-4df2-b564-2b7e26dd9d49.png\" width=\"804\" height=\"585\" />     <br /><strong>Figure: I have highlighted the users who either are bad for braking the build, or very bad for not fixing it.</strong></p>  <p>To find out what is wrong with a build you need to open the build definition. You can open a web version by double clicking the build in the image above, or you can open it from “Team Explorer”.</p>  <p>Just connect to your project and open out the “Builds” tree. Then Open the build by double clicking on it.</p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-image_64b5ff2f-a059-4048-ac1a-3968340bb978.png\" width=\"302\" height=\"311\" />     <br /><strong>Figure: Opening a build is easy, but double click it and then open a build run from the list.</strong></p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"clip_image004\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-clip_image004_69588b99-7fcd-4720-ac23-d0178a393b78.png\" width=\"663\" height=\"487\" />     <br /><strong>Figure: Good example, the build and tests have passed</strong></p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-image_ad22fd51-6b2c-4feb-bb87-7f2c96e553a7.png\" width=\"628\" height=\"507\" />     <br /><strong>Figure: Bad example, there are 133 errors preventing POK from being built on the build server.</strong></p>  <p>For identifying failures see:</p>  <ol>   <li><a href=\"http://blog.hinshelwood.com/archive/2010/03/03/solution-getting-silverlight-to-build-on-team-build-2010-rc.aspx\">Solution: Getting Silverlight to build on Team Build 2010 RC</a> </li>    <li><a href=\"http://blog.hinshelwood.com/archive/2010/03/04/solution-testing-web-services-with-mstest-on-team-build.aspx\">Solution: Testing Web Services with MSTest on Team Build</a> </li>    <li><a href=\"http://blog.hinshelwood.com/archive/2010/03/04/finding-the-problem-on-a-partially-succeeded-build.aspx\">Finding the problem on a partially succeeded build</a> </li> </ol>  <p>So, Peter asked about blame, let’s have a look and see:</p>  <p><img style=\"border-right-width: 0px;margin: 0px 20px;border-top-width: 0px;border-bottom-width: 0px;border-left-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-114db5acbf63_EDD8-image_21141898-be96-429f-abcb-c76eb5752df3.png\" width=\"804\" height=\"819\" />     <br /><strong>Figure: The build has been broken for so long I have no idea when it was broken, but everyone on this list is to blame (I am there too)</strong></p>  <p><strong></strong></p>  <p>The rest of the history is lost in the sands of time, there is no way to tell when the build was originally broken, or by whom, or even if it ever worked in the first place. Build should be protected by the team that uses them and the only way to do that is to have them own them. It is fine for me to go in and setup a build, but the ownership for a build should always reside with the person who broke it last.</p>  <h3>Conclusion</h3>  <p>This is an example of a pointless build. Lets be honest, if you have a system like <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> in place and builds are constantly left broken, or not added to projects then your developers don’t yet understand the value. I have found that adding a Gated Check-in helps instil that understanding of value. If you prevent them from checking in without passing that basic quality gate of “your code builds on another computer” then it makes them look more closely at why they can’t check-in.</p>  <p>I have had builds fail because one developer had a “d” drive, but the build server did not. That is what they are there to catch.</p>  <p>\_</p>  <p>If you want to know what builds to create and why I wrote a post on “<a href=\"http://blog.hinshelwood.com/archive/2010/03/18/do-you-know-the-minimum-builds-to-create-on-any.aspx\" target=\"_blank\">Do you know the minimum builds to create on any branch?</a>”</p>  <p>\_</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/TFS+2010\" rel=\"tag\">TFS 2010</a>\_<a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/VS+2010\" rel=\"tag\">VS 2010</a>\_<a href=\"http://technorati.com/tags/TFBS\" rel=\"tag\">TFBS</a>\_<a href=\"http://technorati.com/tags/Silverlight\" rel=\"tag\">Silverlight</a>\_<a href=\"http://technorati.com/tags/SSW\" rel=\"tag\">SSW</a>\_<a href=\"http://technorati.com/tags/SP+2010\" rel=\"tag\">SP 2010</a>\_<a href=\"http://technorati.com/tags/SharePoint\" rel=\"tag\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '59'
+  post_date: '2010-03-29 18:47:08'
+  post_date_gmt: '2010-03-29 18:47:08'
+  post_modified: '2010-03-29 18:47:08'
+  post_modified_gmt: '2010-03-29 18:47:08'
+  comment_status: open
+  ping_status: open
+  post_name: who-broke-the-build
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '322964142'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8622'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6HydU
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474425026;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:66;}i:1;a:1:{s:2:"id";i:60;}i:2;a:1:{s:2:"id";i:28;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2010-03-29-who-broke-the-build.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '500'

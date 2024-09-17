@@ -1,0 +1,591 @@
+post:
+  title: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
+  link: >-
+    https://nkdagility.com/blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013/
+  pubDate: Mon, 08 Jul 2013 21:35:24 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=9731
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p class="lead">There are many reasons that you would want to Create a
+    Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of
+    which is modelling your existing processes.</p>
+
+    <p>You can have a hierarchy five items deep with a parent child relationship
+    between them. You will get a backlog for each one as well as cumulative flow
+    and a board. This is awesome as you may have, for instance, Goals that break
+    down into Feature. These goals would be the company or product goals and the
+    features would be those things that go to achieve them.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border: 0px;" title="Only have Features
+    by default" alt="Only have Features by default"
+    src="https://nkdagility.com/files/2013/07/image10.png" width="800"
+    height="480" border="0" /><br /><small>Figure: Only have Features by
+    default</small></p>
+
+    <p>In order to add a level to the hierarchy we need to customise a Work item
+    Type, the Work Item Categories and the Processing Configuration:</p>
+
+    <ol>
+
+    <li>Export all of the configuration to XML</li>
+
+    <li>Create Goal work item type definition</li>
+
+    <li>Update Category's list to include new type and category</li>
+
+    <li>Add new Portfolio Backlog to the Agile Portfolio Tools</li>
+
+    <li>Import all of the new configuration to Team Foundation Server</li>
+
+    </ol>
+
+    <p>These steps will allow you to create a Portfolio Backlog hierarchy in
+    Team Foundation Server 2013.</p>
+
+    <h2>Export all of the configuration to XML</h2>
+
+    <p>We need access to first export as XML the configurations that we need
+    from our Team Foundation Server:</p>
+
+    <pre class="lang:powershell decode:true" title="Export
+    Code">$TeamProjectName = "ScrumSandboxDemo1"
+
+    $temp = "C:temp"
+
+    $CollectionUrl = "http://caprica:8080/tfs/tfs01-Scrum"
+
+    $WitAdmin = "${env:ProgramFiles(x86)}Microsoft Visual Studio
+    12.0Common7IDEwitadmin.exe"
+
+    &amp; $WitAdmin exportwitd /collection:$CollectionUrl /p:$TeamProjectName
+    /n:"Feature" /f:"$tempFeature.xml"
+
+    &amp; $WitAdmin exportcategories /collection:$CollectionUrl
+    /p:$TeamProjectName /f:$tempcategories.xml
+
+    &amp; $WitAdmin exportprocessconfig /collection:$CollectionUrl
+    /p:$TeamProjectName /f:$tempprocessingconfig.xml</pre>
+
+    <p>These command will create feature.xml, catagories.xml and a
+    processingconfig.xml files that we can edit offline and then upload into
+    Team Foundation Server 2013 to make the changes.</p>
+
+    <h2>Create Goal work item type definition</h2>
+
+    <p>I am going to make things a little bit easy for me and just copy the
+    Feature type and rename it to Goal. The simplest way to create a new work
+    item type is to diff from an existing one and Feature has the layout that I
+    want to start with.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/07/image5.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Changes to make
+    for Goal</small></p>
+
+    <p>In order to make a new Work Item Type you need only change the name and
+    then import the file. However there in a “Implementation” tab that shows,
+    for Features, the child Product Backlog Items. We need to also change this
+    to load child features instead and feature is going to the be child of
+    Goal.</p>
+
+    <pre class="lang:default decode:true">&lt;Tab Label="Implementation"&gt;
+      &lt;Control Type="LinksControl" Name="Hierarchy" Label="" LabelPosition="Top"&gt;
+        &lt;LinksControlOptions&gt;
+          &lt;LinkColumns&gt;
+            &lt;LinkColumn RefName="System.Id" /&gt;
+            &lt;LinkColumn RefName="System.Title" /&gt;
+            &lt;LinkColumn RefName="System.AssignedTo" /&gt;
+            &lt;LinkColumn RefName="System.State" /&gt;
+          &lt;/LinkColumns&gt;
+          &lt;WorkItemLinkFilters FilterType="include"&gt;
+            &lt;Filter LinkType="System.LinkTypes.Hierarchy" FilterOn="forwardname" /&gt;
+          &lt;/WorkItemLinkFilters&gt;
+          &lt;ExternalLinkFilters FilterType="excludeAll" /&gt;
+          &lt;WorkItemTypeFilters FilterType="include"&gt;
+            &lt;Filter WorkItemType="Feature" /&gt;
+          &lt;/WorkItemTypeFilters&gt;
+        &lt;/LinksControlOptions&gt;
+      &lt;/Control&gt;
+    &lt;/Tab&gt;</pre>
+
+    <p>Here you can see the standard implementation tab that you find on many of
+    the work items that come out of the box. It is basically a query box that
+    shows whatever results that you want. Here it is filtered to “Hierarchy”
+    link types which really just means parentchild and for a particular work
+    item type which in this case is “Feature”.</p>
+
+    <pre class="lang:xhtml decode:true">&lt;?xml version="1.0"
+    encoding="utf-8"?&gt;
+
+    &lt;witd:WITD application="Work item type editor" version="1.0"
+    xmlns:witd="http://schemas.microsoft.com/VisualStudio/2008/workitemtracking/typedef"&gt;
+      &lt;WORKITEMTYPE name="Goal"&gt;
+        &lt;DESCRIPTION&gt;Tracks a Goal that will be released with the product&lt;/DESCRIPTION&gt;
+        ...
+        &lt;FORM&gt;
+          &lt;Layout HideReadOnlyEmptyFields="true" HideControlBorders="true"&gt;
+            ...
+            &lt;Group&gt;
+              &lt;Column PercentWidth="50"&gt;
+                &lt;TabGroup&gt;
+                ...
+                  &lt;Tab Label="Implementation"&gt;
+                    &lt;Control Type="LinksControl" Name="Hierarchy" Label="" LabelPosition="Top"&gt;
+                      &lt;LinksControlOptions&gt;
+                        &lt;LinkColumns&gt;
+                          &lt;LinkColumn RefName="System.Id" /&gt;
+                          &lt;LinkColumn RefName="System.Title" /&gt;
+                          &lt;LinkColumn RefName="System.AssignedTo" /&gt;
+                          &lt;LinkColumn RefName="System.State" /&gt;
+                        &lt;/LinkColumns&gt;
+                        &lt;WorkItemLinkFilters FilterType="include"&gt;
+                          &lt;Filter LinkType="System.LinkTypes.Hierarchy" FilterOn="forwardname" /&gt;
+                        &lt;/WorkItemLinkFilters&gt;
+                        &lt;ExternalLinkFilters FilterType="excludeAll" /&gt;
+                        &lt;WorkItemTypeFilters FilterType="include"&gt;
+                          &lt;Filter WorkItemType="Feature" /&gt;
+                        &lt;/WorkItemTypeFilters&gt;
+                      &lt;/LinksControlOptions&gt;
+                    &lt;/Control&gt;
+                  &lt;/Tab&gt;
+                &lt;/TabGroup&gt;
+              &lt;/Column&gt;
+              ...
+            &lt;/Group&gt;
+          &lt;/Layout&gt;
+        &lt;/FORM&gt;
+      &lt;/WORKITEMTYPE&gt;
+    &lt;/witd:WITD&gt;</pre>
+
+    <p>You could obviously customise this work item type to your hearts content
+    and now we need to add it to a category.</p>
+
+    <h2>Update Category's list to include new type and category</h2>
+
+    <p>To create a portfolio backlog we need a custom category so that we can
+    use that for the portfolio backlog.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-width: 0px;" title="image"
+    alt="image" src="https://nkdagility.com/files/2013/07/image6.png"
+    width="800" height="480" border="0" /><br /><small>Figure: Adding a custom
+    category for Goal</small></p>
+
+    <p>A&nbsp; category can have multiple Work Item Types listed but only one
+    default. This means that you could have multiple Work Item Types for
+    different sorts of Goals. I am however trying to keep this simple…</p>
+
+    <pre class="lang:default decode:true">&lt;CATEGORY
+    refname="Microsoft.GoalCategory" name="Goal Category"&gt;
+      &lt;DEFAULTWORKITEMTYPE name="Goal" /&gt;
+    &lt;/CATEGORY&gt;</pre>
+
+    <p>A simple category that holds a single work item type is fairly easy to
+    create. Just add it to the list of categories below.</p>
+
+    <pre class="lang:default decode:true">&lt;?xml version="1.0"
+    encoding="utf-8"?&gt;
+
+    &lt;cat:CATEGORIES
+    xmlns:cat="http://schemas.microsoft.com/VisualStudio/2008/workitemtracking/categories"&gt;
+      &lt;CATEGORY refname="Microsoft.BugCategory" name="Bug Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Bug" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.CodeReviewRequestCategory" name="Code Review Request Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Code Review Request" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.CodeReviewResponseCategory" name="Code Review Response Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Code Review Response" /&gt;
+      &lt;/CATEGORY&gt;
+    &lt;CATEGORY refname="Microsoft.GoalCategory" name="Goal Category"&gt;
+      &lt;DEFAULTWORKITEMTYPE name="Goal" /&gt;
+    &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.FeatureCategory" name="Feature Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Feature" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.FeedbackRequestCategory" name="Feedback Request Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Feedback Request" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.FeedbackResponseCategory" name="Feedback Response Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Feedback Response" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.HiddenCategory" name="Hidden Types Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Code Review Request" /&gt;
+        &lt;WORKITEMTYPE name="Code Review Response" /&gt;
+        &lt;WORKITEMTYPE name="Feedback Request" /&gt;
+        &lt;WORKITEMTYPE name="Feedback Response" /&gt;
+        &lt;WORKITEMTYPE name="Shared Steps" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.RequirementCategory" name="Requirement Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Product Backlog Item" /&gt;
+        &lt;WORKITEMTYPE name="Bug" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.SharedStepCategory" name="Shared Step Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Shared Steps" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.TaskCategory" name="Task Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Task" /&gt;
+      &lt;/CATEGORY&gt;
+      &lt;CATEGORY refname="Microsoft.TestCaseCategory" name="Test Case Category"&gt;
+        &lt;DEFAULTWORKITEMTYPE name="Test Case" /&gt;
+      &lt;/CATEGORY&gt;
+    &lt;/cat:CATEGORIES&gt;</pre>
+
+    <p>&nbsp;Once we have the new category and the new Goal work item type we
+    are ready to use them to create the portfolio backlog.</p>
+
+    <h2>Add new Portfolio Backlog to the Agile Portfolio Tools</h2>
+
+    <p>There are three things that we need to do in order to create the new
+    portfolio backlog for Goals in the Team Web Access site.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image7.png" width="800"
+    height="480" border="0" /><br /><small>Figure: Customising the Process
+    Configuration for Portfolio Backlogs</small></p>
+
+    <p>We need to not only add the new portfolio backlog above but also set the
+    parent property on child portfolio backlog and optionally set a colour for
+    our Goals cards and lists.</p>
+
+    <p>Because I just copied the Feature work item type for this I can just copy
+    the Feature entry in the Portfolio Backlogs section. If you have a more
+    customised work item type you may want to customise the States, Columns and
+    the fields that are available in the Add Panel for that Work Item Type in
+    the web UI. Here I am just going with the simple option of copying.</p>
+
+    <p>In addition I need to tell the Feature portfolio backlog that anything in
+    the Goal category that we created is now its parent. This is done simply by
+    adding the category to the parent attribute of the PortfolioBacklog element
+    in question.</p>
+
+    <p><small><span class="label label-info">Note</span> You can also check out
+    <a
+    href="http://nkdagility.com/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools/">customise
+    the colours in Team Foundation Server 2013 Agile Planning
+    Tools</a></small></p>
+
+    <pre class="lang:xhtml decode:true">&lt;?xml version="1.0"
+    encoding="utf-8"?&gt;
+
+    &lt;ProjectProcessConfiguration&gt;
+      ...
+      &lt;PortfolioBacklogs&gt;
+        &lt;PortfolioBacklog category="Microsoft.GoalCategory" pluralName="Goals" singularName="Goal"&gt;
+          &lt;AddPanel&gt;
+            &lt;Fields&gt;
+              &lt;Field refname="System.Title" /&gt;
+            &lt;/Fields&gt;
+          &lt;/AddPanel&gt;
+          &lt;Columns&gt;
+            &lt;Column width="100" refname="System.WorkItemType" /&gt;
+            &lt;Column width="400" refname="System.Title" /&gt;
+            &lt;Column width="100" refname="System.State" /&gt;
+            &lt;Column width="50" refname="Microsoft.VSTS.Common.BusinessValue" /&gt;
+            &lt;Column width="100" refname="Microsoft.VSTS.Scheduling.TargetDate" /&gt;
+            &lt;Column width="200" refname="System.Tags" /&gt;
+          &lt;/Columns&gt;
+          &lt;States&gt;
+            &lt;State type="Proposed" value="New" /&gt;
+            &lt;State type="InProgress" value="In Progress" /&gt;
+            &lt;State type="Complete" value="Done" /&gt;
+          &lt;/States&gt;
+        &lt;/PortfolioBacklog&gt;
+        &lt;PortfolioBacklog category="Microsoft.FeatureCategory" parent="Microsoft.GoalCategory" pluralName="Features" singularName="Feature"&gt;
+          &lt;AddPanel&gt;
+            &lt;Fields&gt;
+              &lt;Field refname="System.Title" /&gt;
+            &lt;/Fields&gt;
+          &lt;/AddPanel&gt;
+          &lt;Columns&gt;
+            &lt;Column width="100" refname="System.WorkItemType" /&gt;
+            &lt;Column width="400" refname="System.Title" /&gt;
+            &lt;Column width="100" refname="System.State" /&gt;
+            &lt;Column width="50" refname="Microsoft.VSTS.Common.BusinessValue" /&gt;
+            &lt;Column width="100" refname="Microsoft.VSTS.Scheduling.TargetDate" /&gt;
+            &lt;Column width="200" refname="System.Tags" /&gt;
+          &lt;/Columns&gt;
+          &lt;States&gt;
+            &lt;State type="Proposed" value="New" /&gt;
+            &lt;State type="InProgress" value="In Progress" /&gt;
+            &lt;State type="Complete" value="Done" /&gt;
+          &lt;/States&gt;
+        &lt;/PortfolioBacklog&gt;
+      &lt;/PortfolioBacklogs&gt;
+      ...
+      &lt;WorkItemColors&gt;
+        &lt;WorkItemColor primary="FF2CFF07" secondary="FFACFF9E" name="Goal" /&gt;
+        &lt;WorkItemColor primary="FFCC293D" secondary="FFFAEAE5" name="Bug" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Code Review Request" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Code Review Response" /&gt;
+        &lt;WorkItemColor primary="FF773B93" secondary="FFEEE2F2" name="Feature" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Feedback Request" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Feedback Response" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Impediment" /&gt;
+        &lt;WorkItemColor primary="FF009CCC" secondary="FFD6ECF2" name="Product Backlog Item" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Shared Steps" /&gt;
+        &lt;WorkItemColor primary="FFF2CB1D" secondary="FFF6F5D2" name="Task" /&gt;
+        &lt;WorkItemColor primary="FFFF9D00" secondary="FFFCEECF" name="Test Case" /&gt;
+      &lt;/WorkItemColors&gt;
+    &lt;/ProjectProcessConfiguration&gt;</pre>
+
+    <p>Simples… now that we have completed all of the changes necessary we are
+    ready for the import.</p>
+
+    <h2>Import all of the new configuration to Team Foundation Server</h2>
+
+    <p>This is really just the revers of the commands used to create the files
+    in the first place.</p>
+
+    <pre class="lang:powershell decode:true">$TeamProjectName =
+    "ScrumSandboxDemo1"
+
+    $temp = "C:temp"
+
+    $CollectionUrl = "http://caprica:8080/tfs/tfs01-Scrum"
+
+    $WitAdmin = "${env:ProgramFiles(x86)}Microsoft Visual Studio
+    12.0Common7IDEwitadmin.exe"
+
+    &amp; $WitAdmin importwitd /collection:$CollectionUrl /p:$TeamProjectName
+    /n:"Feature" /f:"$tempGoal.xml"
+
+    &amp; $WitAdmin importcategories /collection:$CollectionUrl
+    /p:$TeamProjectName /f:$tempcategories.xml
+
+    &amp; $WitAdmin importprocessconfig /collection:$CollectionUrl
+    /p:$TeamProjectName /f:$tempprocessingconfig.xml
+
+    </pre>
+
+    <p>We just call them as “import” rather than “export” statements.</p>
+
+    <p>DONE</p>
+
+    <h2>Conclusion</h2>
+
+    <p>We now have a lovely green Goal work item type that sits on its own
+    backlog and is ordered above Features.</p>
+
+    <p><img style="background-image: none; padding-top: 0px; padding-left: 0px;
+    margin: 0px; display: inline; padding-right: 0px; border-width: 0px;"
+    title="image" alt="image"
+    src="https://nkdagility.com/files/2013/07/image8.png" width="800"
+    height="480" border="0" /><br />Figure: Viewing Tasks from the lofty heights
+    of Goals</p>
+
+    <p>Customising the hierarchy for Portfolio Backlogs is easy and the hard
+    part is making sure that you are making the correct change.</p>
+
+    <blockquote>
+
+    <p>When you are working with any sort of work item tracking customisation in
+    Team Foundation Server it is best to think twice and customise once.<br
+    />-Me</p>
+
+    </blockquote>
+
+    <p>Make sure you always make the right changes to Team Foundation Server to
+    improve your process and never enshrine dysfunctions…</p>
+  - >-
+    <p class="lead">There are many reasons that you would want to Create a
+    Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of
+    which is modelling your existing processes.</p>
+  post_id: '9731'
+  post_date: '2013-07-08 22:35:24'
+  post_date_gmt: '2013-07-08 21:35:24'
+  post_modified: '2013-07-08 22:35:24'
+  post_modified_gmt: '2013-07-08 21:35:24'
+  comment_status: open
+  ping_status: open
+  post_name: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '88'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: wp-to-buffer
+    meta_value: a:1:{s:7:"publish";s:1:"1";}
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: portfolio backlog
+  - meta_key: _yoast_wpseo_title
+    meta_value: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      There are many reasons that you would want to Create a Portfolio Backlog
+      hierarchy in Team Foundation Server 2013 not least of which is modelling
+      your existing processes.
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: dsq_thread_id
+    meta_value: '1473371328'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: wp-to-buffer-log
+    meta_value: >-
+      O:8:"stdClass":5:{s:7:"updates";a:3:{i:0;O:8:"stdClass":18:{s:3:"_id";s:24:"51db30a6c3674f2712000029";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373319334;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1373384820;s:8:"due_time";s:7:"4:47
+      pm";s:2:"id";s:24:"51db30a6c3674f2712000029";s:10:"profile_id";s:24:"507a4e20d9320dd125000018";s:15:"profile_service";s:7:"twitter";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:107:"New
+      Post: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
+      http://buff.ly/12dNGeo #vsalm";s:14:"text_formatted";s:322:"New Post:
+      Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 <a
+      class="url" href="http://buff.ly/12dNGeo" rel="external nofollow"
+      target="_blank">http://buff.ly/12dNGeo</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"22d85bb47e20719b0f3b2464c7dfc82e";s:4:"type";s:4:"link";s:10:"updated_at";i:1373319334;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:1;O:8:"stdClass":19:{s:3:"_id";s:24:"51db30a6c3674f271200002a";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373319334;s:3:"day";s:18:"Thursday
+      11th July";s:6:"due_at";i:1373562060;s:8:"due_time";s:8:"11:01
+      am";s:2:"id";s:24:"51db30a6c3674f271200002a";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:90:"http://nkdagility.com/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013/";s:11:"description";s:170:"There
+      are many reasons that you would want to Create a Portfolio Backlog
+      hierarchy in Team Foundation Server 2013 not least of which is modelling
+      your existing processes.";s:5:"title";s:67:"Create a Portfolio Backlog
+      hierarchy in Team Foundation Server
+      2013";s:4:"link";s:90:"http://nkdagility.com/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013/";s:7:"preview";s:103:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/02/metro-visualstudio-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae7ed9320d615a00000a";s:15:"profile_service";s:8:"facebook";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:107:"New
+      Post: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
+      http://buff.ly/12dNFak #vsalm";s:14:"text_formatted";s:322:"New Post:
+      Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 <a
+      class="url" href="http://buff.ly/12dNFak" rel="external nofollow"
+      target="_blank">http://buff.ly/12dNFak</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"22d85bb47e20719b0f3b2464c7dfc82e";s:4:"type";s:4:"link";s:10:"updated_at";i:1373319334;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}i:2;O:8:"stdClass":19:{s:3:"_id";s:24:"51db30a7c3674f271200002b";s:9:"client_id";s:24:"50f71563f758fa8f40000001";s:10:"created_at";i:1373319335;s:3:"day";s:8:"Tomorrow";s:6:"due_at";i:1373381340;s:8:"due_time";s:7:"3:49
+      pm";s:2:"id";s:24:"51db30a7c3674f271200002b";s:5:"media";O:8:"stdClass":5:{s:8:"original";s:90:"http://nkdagility.com/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013/";s:11:"description";s:170:"There
+      are many reasons that you would want to Create a Portfolio Backlog
+      hierarchy in Team Foundation Server 2013 not least of which is modelling
+      your existing processes.";s:5:"title";s:67:"Create a Portfolio Backlog
+      hierarchy in Team Foundation Server
+      2013";s:4:"link";s:90:"http://nkdagility.com/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013/";s:7:"preview";s:103:"http://i2.wp.com/nakedalmweb.wpengine.com/files/2012/02/metro-visualstudio-128-link.png?fit=1024%2C1024";}s:10:"profile_id";s:24:"5088ae96d9320d3a5a00000a";s:15:"profile_service";s:8:"linkedin";s:10:"shared_now";b:0;s:6:"status";s:6:"buffer";s:4:"text";s:107:"New
+      Post: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
+      http://buff.ly/12dNGev #vsalm";s:14:"text_formatted";s:322:"New Post:
+      Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 <a
+      class="url" href="http://buff.ly/12dNGev" rel="external nofollow"
+      target="_blank">http://buff.ly/12dNGev</a> <a
+      href="https://twitter.com/#!/search?q=%23vsalm" title="#vsalm"
+      class="hashtag" rel="external nofollow"
+      target="_blank">#vsalm</a>";s:8:"text_md5";s:32:"22d85bb47e20719b0f3b2464c7dfc82e";s:4:"type";s:4:"link";s:10:"updated_at";i:1373319335;s:7:"user_id";s:24:"507a4e20d9320dd125000017";s:3:"via";s:3:"api";}}s:17:"buffer_percentage";i:40;s:12:"buffer_count";i:4;s:7:"success";b:1;s:7:"message";s:48:"One
+      more post in your Buffer. Keep it topped up!";}
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBGwcq
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474854052;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9677;}i:1;a:1:{s:2:"id";i:6160;}i:2;a:1:{s:2:"id";i:10214;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2013-07-08-create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1118'
+  comment:
+  - comment_id: '1732'
+    comment_author: >-
+      Friday Five-July 12, 2013 - The Microsoft MVP Award Program Blog - Site
+      Home - MSDN Blogs
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blogs.msdn.com/b/mvpawardprogram/archive/2013/07/12/friday-five-july-12-2013.aspx
+    comment_author_IP: 157.56.75.143
+    comment_date: '2013-07-12 19:22:39'
+    comment_date_gmt: '2013-07-12 18:22:39'
+    comment_content: >-
+      [...] 5. Create a portfolio backlog hierarchy in Team Foundation Server
+      2013 [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+      meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1373751372.970395;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2597'
+    comment_author: >-
+      Visual Studio Online &#8211; Portfolio Management &mdash; ALM Guide -
+      Esteban Garcia
+    comment_author_email: ''
+    comment_author_url: http://www.almguide.com/2014/07/visual-studio-online-portfolio-management/
+    comment_author_IP: 168.62.50.182
+    comment_date: '2014-07-09 21:59:37'
+    comment_date_gmt: '2014-07-09 20:59:37'
+    comment_content: >-
+      [&#8230;] features that you see in TFS 2013 (and more) is available in
+      Visual Studio Online. You are able to create custom Work Item Types and
+      add them to your hierarchy, which gives you visibility at a higher level.
+      By creating multiple Teams within a Team Project, [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1404939577.87984;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1405061312.048118;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '12762'
+    comment_author: John Hughes
+    comment_author_email: johnnynine@yahoo.com
+    comment_author_url: ''
+    comment_author_IP: 12.239.11.130
+    comment_date: '2015-07-22 19:10:00'
+    comment_date_gmt: '2015-07-22 18:10:00'
+    comment_content: >-
+      The Portfolio Backlog Hierarchy is great! These new levels help with
+      planning but I am having trouble reporting over them. How can we provide
+      reporting over this?  Since these WITs have a Target Date field I would
+      like to generate a report that can act as a roadmap, showing when features
+      and initiatives are targeted. I have tried doing this with MS Project
+      integration but it doesn't quite work as well as I was hoping.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '2151483628'

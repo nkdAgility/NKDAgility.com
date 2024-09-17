@@ -1,0 +1,295 @@
+post:
+  title: Full-fidelity history and data migration are mutually exclusive
+  link: >-
+    https://nkdagility.com/blog/full-fidelity-history-and-data-migration-are-mutually-exclusive/
+  pubDate: Tue, 29 May 2012 01:24:56 +0000
+  creator: MrHinsh
+  guid:
+    _: http://blog.hinshelwood.com/?p=5288
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - >-
+    <p>If you have ever had to migrate data from any system that contains lots
+    of data and especially history then you will have run into this problem.
+    Effectively you have two choices:</p>
+
+    <ul>
+
+    <li><strong>Upgrade with full history, correct dates and uninterrupted
+    reporting</strong>
+
+    </li>
+
+    <li><strong>Migrate with tip/full history with truncated dates and no past
+    reporting</strong>
+
+    </li>
+
+    </ul>
+
+    <p>This is also the case with Team Foundation Server and every customer that
+    we have that wants to do a migration of data voices the same concern:</p>
+
+    <blockquote><p>“We can’t be the first company to make such a request, as
+    financial institutions and other companies need to have the history moved,
+    have it searchable and reportable.” <br />-Anonymous Customer</p>
+
+    </blockquote>
+
+    <p>In order to support little things like Sarbanes Oxley (SOX), CRF11,
+    HIPPA, FDA or NRA you need to, generally, be able to prove tractability from
+    “Source Code | Builds | Tests| Requirements”. You need to be able to show,
+    on demand, how a line of code got into your application, why, who requested
+    it and how it was tested. This is hard at the best of times and impossible
+    most of the time if you have separate systems that all authenticate
+    differently or store data differently.</p>
+
+    <p><a href="http://blog.hinshelwood.com/files/2012/05/image7.png"><img
+    title="Visual Studio ALM Tractability Matrix" style="border-top: 0px;
+    border-right: 0px; background-image: none; border-bottom: 0px; padding-top:
+    0px; padding-left: 0px; border-left: 0px; display: inline; padding-right:
+    0px" border="0" alt="Visual Studio ALM Tractability Matrix"
+    src="http://blog.hinshelwood.com/files/2012/05/image_thumb4.png" width="640"
+    height="360"/></a><br /><strong>Figure: Visual Studio ALM Tractability
+    Matrix</strong></p>
+
+    <p>Do a test on your software. Pick a like of code and figure out who added
+    it to the system and how it was changed over time. Now, for each of those
+    changes figure out why that change was done and who authorised it. Can you
+    do that?</p>
+
+    <p>Now consider a couple of…modifiers. How sure are you that the system told
+    you the truth? It is is not Active Directory integrated can you really be
+    sure that this is a traceable user? When was the last time that you changed
+    that Visual SourceSafe account password? If it was not in the last 90 days
+    then you may be out of compliance.</p>
+
+    <p>Its not just for enterprises; if your software in any way contributes to
+    the decisions made by executives of public companies then you need to be
+    able to provide that tractability. What about banks? Has your software ever
+    been used by a financial institution to figure out what to do? Yes, that
+    means Excel is covered by SOX and if an algorithm was not interpreted
+    correctly then the SOX folks would be going through the Excel source with a
+    tooth comb.</p>
+
+    <p>Because of these small requirements it is impossible to edit data in the
+    past in Team Foundation Server and indeed to add data to the past. That
+    means that when you do a “migration” and not an “upgrade” you are
+    effectively replaying all of that history at speed against a new instance.
+    All of your dates will be consecutive and be as close together as the API
+    can cope with. This for some is just not good enough. In these circumstance
+    I have to aske them to choose:</p>
+
+    <ol>
+
+    <li><strong>Upgrade in place</strong>
+
+    </li>
+
+    <li><strong>Migrate to new place</strong>
+
+    </li>
+
+    </ol>
+
+    <p>Which is more important? Migrating and “starting fresh” with clean data
+    unburdened by legacy fields or Work item Types (can make your cube a little
+    clogged). Or do you require to have all of the dates exactly as they are.
+    This is not a Team Foundation Server thing, or a Microsoft thing but a
+    simple tractability thing and all of the oversight rules mentioned above
+    require it. Really, if you are concocting any sort of Application Lifecycle
+    strategy then you need it too… </p>
+
+    <p>When you migrate however all is not lost. You don’t loose the history of
+    the dates, nor your tractability it is just moved a little and becomes a
+    little less discoverable, but no less traceable. In the case of the TFS
+    Integration Platform you retaining the original date and user in the
+    “history” for work items and the “comment” for source control. While not
+    ideal, it does allow you to maintain that fidelity of history. In addition
+    you can have the TFS Integration Platform retain the ID from the old system
+    and thus you can even keep the old system alive for those infrequent
+    spelunking sessions. If you must retain the integrity of dates then the only
+    option is <a
+    href="http://blog.hinshelwood.com/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration/"
+    target="_blank">Process Template Upgrade #7 – Rename Work Items and Import
+    new ones</a> and all of the migration options with pros and cons documented
+    on <a
+    href="http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/"
+    target="_blank">Upgrading your Process Template in Team Foundation
+    Server</a> .</p>
+
+    <p>Using method #7 you will be able to:</p>
+
+    <ul>
+
+    <li class="good"><strong>Move to a single process template</strong>
+
+    </li>
+
+    <li class="good"><strong>Retain history and dates in Work
+    Items</strong></li>
+
+    <li class="good"><strong>Retain history and dates on Source
+    files</strong></li>
+
+    </ul>
+
+    <p>You will however NOT be able to:</p>
+
+    <ul>
+
+    <li class="bad"><strong>Consolidate to a single Team Project
+    Collection</strong>
+
+    <p>MSDN: <a href="http://msdn.microsoft.com/en-us/magazine/gg983486.aspx"
+    target="_blank">Visual Studio TFS Team Project and Collection
+    Guidance</a></p>
+
+    </li>
+
+    <li class="bad"><strong>Remove old fields until their history is no longer
+    required</strong>
+
+    <p>We can rename the legacy Work Item Type Fields so that they all appear as
+    “[legacy] My Old Field” until teams no longer need the data. Do you know
+    what your records retention policy is?</p>
+
+    </li>
+
+    </ul>
+
+    <p class="bad">If you need help deciding then there is some Rangers guidance
+    and my aforementioned <a
+    href="http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/"
+    target="_blank">Process Template migration</a> guidance.</p>
+
+    <p><a
+    href="http://blog.hinshelwood.com/files/2012/05/TFS-Integration-Platform-Migration-Guidance-Poster.jpg"><img
+    title="TFS Integration Platform - Migration Guidance Poster"
+    style="border-left-width: 0px; border-right-width: 0px; background-image:
+    none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px;
+    display: inline; padding-right: 0px; border-top-width: 0px" border="0"
+    alt="TFS Integration Platform - Migration Guidance Poster"
+    src="http://blog.hinshelwood.com/files/2012/05/TFS-Integration-Platform-Migration-Guidance-Poster_thumb.jpg"
+    width="640" height="480"/></a><br /><strong>Figure: TFS Integration Platform
+    - Migration Guidance Poster</strong></p>
+
+    <p>There are a bunch of other workarounds to this that I have discussed on
+    many occasions with customers but they still need to choose … which do you
+    want? Make sure that you look at all of the pros and cons carefully and
+    decide what you want to do. An additional thing to note is that migration is
+    very expensive in time and expertise, so choose carefully.</p>
+  - ''
+  post_id: '5288'
+  post_date: '2012-05-28 18:24:56'
+  post_date_gmt: '2012-05-29 01:24:56'
+  post_modified: '2012-05-28 18:24:56'
+  post_modified_gmt: '2012-05-29 01:24:56'
+  comment_status: open
+  ping_status: open
+  post_name: full-fidelity-history-and-data-migration-are-mutually-exclusive
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '706600238'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1a6WkkO
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473369509;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:9170;}i:1;a:1:{s:2:"id";i:5702;}i:2;a:1:{s:2:"id";i:9313;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2012-05-28-full-fidelity-history-and-data-migration-are-mutually-exclusive.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '728'
+  comment:
+  - comment_id: '1191'
+    comment_author: >-
+      Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template
+      consolidation - Visual Studio ALM with Team Foundation Server, Visual
+      Studio &amp; Scrum
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/
+    comment_author_IP: 184.168.230.128
+    comment_date: '2012-06-29 19:39:23'
+    comment_date_gmt: '2012-06-30 02:39:23'
+    comment_content: >-
+      [...] Essentially you cant add data in the past when there is data in the
+      future. I have blogged about Full-fidelity history and data migration are
+      mutually exclusive and the tractability features in TFS that require this
+      if you are interested. The root cause of [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1341023963.39";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1341024861.74";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '1192'
+    comment_author: >-
+      VSS Converter &ndash; Issue: TF54000: Cannot update the data because the
+      server clock may have been set incorrectly - Visual Studio ALM from Martin
+      Hinshelwood
+    comment_author_email: ''
+    comment_author_url: >-
+      http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/
+    comment_author_IP: 96.126.104.162
+    comment_date: '2012-09-19 22:57:21'
+    comment_date_gmt: '2012-09-20 05:57:21'
+    comment_content: >-
+      [...] Essentially you cant add data in the past when there is data in the
+      future. I have blogged about Full-fidelity history and data migration are
+      mutually exclusive and the tractability features in TFS that require this
+      if you are interested. The root cause of [...]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348120641.39";s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";s:13:"1348120667.05";s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}

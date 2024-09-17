@@ -1,0 +1,63 @@
+post:
+  title: Visual Studio Team System 2008 Database Edition GDR Installation
+  link: >-
+    https://nkdagility.com/blog/visual-studio-team-system-2008-database-edition-gdr-installation/
+  pubDate: Wed, 26 Nov 2008 10:42:23 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2008/11/26/visual-studio-team-system-2008-database-edition-gdr-installation.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>First, download the new Data Dude. </p>  <blockquote>   <p><strong>Download page</strong>       <br /><a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&amp;displaylang=en\">http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&amp;displaylang=en</a>      <br /><strong>Setup</strong>       <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/setup.exe\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/setup.exe</a> </p>    <ul>     <li><strong>Read Me</strong>         <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Readme.mht\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Readme.mht</a> </li>      <li><strong>Documentation:</strong>         <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip</a></li>   </ul> </blockquote>  <p>Once you get it going the install is pretty easy. Things to watch out for are:</p>  <ul>   <li><font color=\"#e7e7e7\">Remove all previous versions before the install. This included any CTP or RC versions.</font></li>    <li><font color=\"#e7e7e7\">You will NOT be able to upgrade your projects built with the CTP releases! You should however be able to upgrade any projects built with the RC.</font></li> </ul>  <p>\_</p>  <blockquote>   <h3>Installation</h3>    <h4>Uninstall old GDR versions</h4>    <p>If you have a previous version of the GDR installed, you will have to uninstall these first. You can do this via Add/Remove Programs or from the command line using:</p>    <p>· msiexec /X {DDF197C6-4507-3A19-A4B5-0E17CC931370}</p>    <h4>Prerequisites</h4>    <p>Before you start downloading and installing please check if the following pre-requisites are present on your machine!</p>    <ul>     <li><a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyId=FBEE1648-7106-44A7-9649-6D9F6D58056E&amp;displaylang=en\">Visual Studio 2008 SP1 RTM</a> (make sure this is the RTM not the beta of SP1, the GDR will not install with the beta release of SP1) </li>      <li><a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=dc614aee-7e1c-4881-9c32-3a6ce53384d9&amp;displaylang=en\">Microsoft SQL Server Compact Edition 3.5 SP1</a> (this is normally included in the setup of VS 2008 SP1) </li>   </ul>    <h4>Installation</h4>    <p>You can download the <a href=\"http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&amp;displaylang=en\">Visual Studio Team System 2008 Database Edition GDR</a> from the following location:</p>    <ul>     <li>Setup        <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/setup.exe\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/setup.exe</a></li>      <li>Read Me        <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Readme.mht\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Readme.mht</a></li>      <li>Documentation:        <br /><a href=\"http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip\">http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip</a>        <br />Contains: </li>      </ul><ul>       <li><a title=\"Visual Studio Team System\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/default.aspx\" target=\"_blank\">Visual Studio Team System</a> 2008 Database Edition GDR User Manual </li>        <li><a title=\"Visual Studio Team System\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/default.aspx\" target=\"_blank\">Visual Studio Team System</a> 2008 Database Edition GDR API Reference</li>     </ul>    </blockquote>  <p>\_</p>  <p>Luckily I have just received a new install of Vista 64, so I have no previous versions to remove ;)</p>  <p>Once the install if finished you will see that the GDR has replaced the standard Database Edition in visual studio.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_2.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"296\" alt=\"About Visual Studio\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_thumb.png\" width=\"404\" border=\"0\" /></a>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>The “New Project” window will also have additional options and you can see the two new sort of project, “Database” and “Server”.</p>  <p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_4.png\"><img style=\"border-right: 0px;border-top: 0px;border-left: 0px;border-bottom: 0px\" height=\"276\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_thumb_1.png\" width=\"404\" border=\"0\" /></a> </p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>\_</p>  <p>If you pick the “Wizard” you will be presented with a set of options for your project creation. Loads of people have documented what these options mean, so I will just give you a flavor with a wee video…</p>  <p>   </p>   <p>\_</p>  <p>Please be patient with my videos as I am just getting to grips with this.</p>  <p>\_</p>  <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/VS+2008\" rel=\"tag\">VS 2008</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '161'
+  post_date: '2008-11-26 10:42:23'
+  post_date_gmt: '2008-11-26 10:42:23'
+  post_modified: '2008-11-26 10:42:23'
+  post_modified_gmt: '2008-11-26 10:42:23'
+  comment_status: open
+  ping_status: open
+  post_name: visual-studio-team-system-2008-database-edition-gdr-installation
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '318279376'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '8621'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/19A5WoK
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1461513504;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:178;}i:1;a:1:{s:2:"id";i:162;}i:2;a:1:{s:2:"id";i:447;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: >-
+      _posts/2008-11-26-visual-studio-team-system-2008-database-edition-gdr-installation.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '500'

@@ -1,0 +1,111 @@
+post:
+  title: Proxy server settings for SharePoint 2007
+  link: https://nkdagility.com/blog/proxy-server-settings-for-sharepoint-2007/
+  pubDate: Wed, 24 Oct 2007 12:10:45 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/10/24/proxy-server-settings-for-sharepoint-2007.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>Well this was fun... All the <a title=\"Missing details\" href=\"http://dotnet.org.za/jpfouche/archive/2007/03/23/sharepoint-2007-rss-viewer-and-proxy-configuration.aspx\" target=\"_blank\">examples</a> of how to connect through a proxy from SharePoint are missing a crucial piece of information! </p>  <pre>&lt;system.net&gt;\n   &lt;defaultProxy&gt;\n      &lt;proxy usesystemdefault = \"false\" proxyaddress=\"http://proxyservername\" bypassonlocal=\"true\" /&gt;\n   &lt;/defaultProxy&gt;\n&lt;/system.net&gt;  </pre>\n\n<p>\_</p>\n\n<p>This is the accepted route, with an exception to e added to the proxy to use anonymous authentication...</p>\n\n<p>But is you use: </p>\n\n<pre>&lt;defaultProxy useDefaultCredentials=\"true\"&gt;\n  &lt;proxy usesystemdefault=\"false\" proxyaddress=http://proxyservername\" bypassonlocal=\"true\" /&gt;\n  &lt;bypasslist&gt;\n    &lt;add address=\"[a-z]+.domain.biz\" /&gt;\n    &lt;add address=\"[a-z]+.domain2.biz\" /&gt;\n  &lt;/bypasslist&gt;\n&lt;/defaultProxy&gt;</pre>\n\n<p>The required bit of which is the useDefaultCredentials parameter that passes the logged on users credentials on to the proxy server.</p>\n\n<p><img alt=\"smile_regular\" src=\"http://spaces.live.com/rte/emoticons/smile_regular.gif\" /> Now all I need to do is get the double-hop authentication to work...</p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/SP+2007\" rel=\"tag\">SP 2007</a>\_<a href=\"http://technorati.com/tags/SP+2010\" rel=\"tag\">SP 2010</a>\_<a href=\"http://technorati.com/tags/SharePoint\" rel=\"tag\">SharePoint</a>\_</div>"
+  - ''
+  post_id: '295'
+  post_date: '2007-10-24 12:10:45'
+  post_date_gmt: '2007-10-24 12:10:45'
+  post_modified: '2007-10-24 12:10:45'
+  post_modified_gmt: '2007-10-24 12:10:45'
+  comment_status: open
+  ping_status: open
+  post_name: proxy-server-settings-for-sharepoint-2007
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311603967'
+  - meta_key: _thumbnail_id
+    meta_value: '7077'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1750JRU
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1473884931;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:297;}i:1;a:1:{s:2:"id";i:9909;}i:2;a:1:{s:2:"id";i:9906;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-10-24-proxy-server-settings-for-sharepoint-2007.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '257'
+  comment:
+  - comment_id: '251'
+    comment_author: Craig
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-07-24 05:41:43'
+    comment_date_gmt: '2008-07-24 05:41:43'
+    comment_content: ahh, the total lack of documentation for sharepoint strikes again eh?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971561'
+  - comment_id: '252'
+    comment_author: Brian Edwards
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-09-23 20:28:12'
+    comment_date_gmt: '2008-09-23 20:28:12'
+    comment_content: Thanks, adding the useDefaultCredentials helped me!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971564'
+  - comment_id: '253'
+    comment_author: Panayotis Tzedakis
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2008-11-27 06:33:58'
+    comment_date_gmt: '2008-11-27 06:33:58'
+    comment_content: >-
+      Thank you for sharing this great piece of info. I've been struggling to
+      figure what is wrong with my MOSS setup for a few days now!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209971566'

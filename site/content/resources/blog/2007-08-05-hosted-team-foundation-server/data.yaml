@@ -1,0 +1,53 @@
+post:
+  title: Hosted Team Foundation Server
+  link: https://nkdagility.com/blog/hosted-team-foundation-server/
+  pubDate: Sun, 05 Aug 2007 13:03:05 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2007/08/05/hosted-team-foundation-serveragain.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have <a title=\"Hosted Team Foundation Server\" href=\"http://blog.hinshelwood.com/archive/2007/05/31/Hosted-Team-Foundation-Server.aspx\" target=\"_blank\">posted</a> about Hosted Team Foundation server before and I have had a few discussions with <a href=\"http://blogs.msdn.com/ukvsts/pages/jon-pratt.aspx\" target=\"_blank\">Jon Pratt</a> from the <a href=\"http://blogs.msdn.com/ukvsts/default.aspx\" target=\"_blank\">Microsoft UK Development Tools Team</a>\_on the subject. The issue with Hosted <a title=\"Team Foundation Server\" href=\"http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx\" target=\"_blank\">TFS</a> is that there is no real partitioning of projects within the system and thus if you had two clients on the same server they would be able to view each others data. </p> <p>I even asked a <a href=\"http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184?browseIdx=0&amp;sik=1186315050351&amp;goback=%2Eahp%2Eamq\" target=\"_blank\">question</a> on LinkedIn and got an amazing response.</p> <p>You may think that this is an oversight, but TFS was not really designed for the hosted environment. The problem is that in my company we would need to keep different areas of the business separate. This requires separate instances of Team Foundation Server for this to work.</p> <p>There are changes coming in Orcas that will help with this and ones in Rosario that should solve the problems and allow proper hosting. </p> <p>At this time there is only one commercial hosted team server called <a href=\"http://www.tfsnow.com/\" target=\"_blank\">TFS Now</a> that has been blogged about by <a title=\"hosted team foundation server\" href=\"http://blogs.msdn.com/jeffbe/archive/2007/07/31/hosted-tfs-available-from-readify.aspx\" target=\"_blank\">Jeff Beehler</a> and <a href=\"http://blogs.msdn.com/bharry/archive/2007/07/30/the-first-commercial-tfs-hosting-service-is-live.aspx\" target=\"_blank\">Brian Harry</a> last month.</p> <p>Check out <a title=\"TFS Now\" href=\"http://www.tfsnow.com/\">TFS Now</a>...</p> <p>\_</p> <div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/ALM\" rel=\"tag\">ALM</a>\_<a href=\"http://technorati.com/tags/TFS\" rel=\"tag\">TFS</a>\_</div>"
+  - ''
+  post_id: '342'
+  post_date: '2007-08-05 13:03:05'
+  post_date_gmt: '2007-08-05 13:03:05'
+  post_modified: '2007-08-05 13:03:05'
+  post_modified_gmt: '2007-08-05 13:03:05'
+  comment_status: open
+  ping_status: open
+  post_name: hosted-team-foundation-server
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '321060580'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1eqDbP7
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1457866356;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:318;}i:1;a:1:{s:2:"id";i:9229;}i:2;a:1:{s:2:"id";i:5112;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2007-08-05-hosted-team-foundation-server.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1
+  - meta_key: ekit_post_views_count
+    meta_value: '363'

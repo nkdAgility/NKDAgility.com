@@ -1,0 +1,176 @@
+post:
+  title: Uncommitted changes messing up your sync in Git with Visual Studio
+  link: >-
+    https://nkdagility.com/blog/uncommitted-changes-messing-sync-git-visual-studio/
+  pubDate: Thu, 16 Oct 2014 15:11:58 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10732
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p class=\"lead\">Sometimes when you try to Pull changes from the server to your local repository you get a \"cannot pull because there are uncommitted changes\". This is uncommitted changes messing up your sync</p>\r\n<p>I have been onsite in Athens working with a customer that is moving from StarTeam to Git. When you are moving from one source control system to another there are always difficulties and a difference in workflow between the systems. A workflow that works well in StarTeam might not in TFVC. However when you add that you are moving from a Server version Control System (SVCS) to a Distributed Version Control System (DVCS) you are going to go through a paradigm shift.</p>\r\n<p>However, it can be the simplest of activities that bite you in the ass. For example, in most server based version control systems when you have made a bunch of changes locally and you want check-in to the server it is always prudent to do a \"Get\" first in order to verify that your local changes work with the latest version of the server. So you dutifully just do a \"Get\" and if your files locally conflict with the server you resolve the conflicts using the conflict resolution tools.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/09/clip-image001.jpg\" alt=\"clip_image001\" width=\"713\" height=\"500\" border=\"0\" /></p>\r\n<p>When you try to do this in Git it complains that you have uncommitted changes that you either need to undo the changes and get rid of them, or you can commit them to the local repository.</p>\r\n<p>In our server based scenario we have no choice but to do a merge from the server directly to our live edited files locally. If we complete the merge, and we messed up…. Well that’s just a little bit tough and you should have chosen better. So we have a lossey (or lousey) merge where we can potentially not end up with what we want and have no way back.</p>\r\n<p>Git blocks this potential loss of code by forcing you to choose wither you want to lose the changes or persist them. Once they are persisted they can't be lost without deliberately resetting the repository or deleting it. Although your workflow is changing it is for the better as you are less likely to have a frustrating issue.</p>\r\n<p>DVCS is just better than SVCS…</p>"
+  - >-
+    <p class="lead">Sometimes when you try to Pull changes from the server to
+    your local repository you get a "cannot pull because there are uncommitted
+    changes". This is uncommitted changes messing up your sync</p>
+  post_id: '10732'
+  post_date: '2014-10-16 16:11:58'
+  post_date_gmt: '2014-10-16 15:11:58'
+  post_modified: '2014-10-03 18:09:41'
+  post_modified_gmt: '2014-10-03 17:09:41'
+  comment_status: open
+  ping_status: open
+  post_name: uncommitted-changes-messing-sync-git-visual-studio
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _thumbnail_id
+    meta_value: '10678'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1rFkjmk
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: uncommitted changes
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '81'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: dsq_thread_id
+    meta_value: '3123327401'
+  - meta_key: _wpcf_belongs_consulting-engagemen_id
+    meta_value: '10772'
+  - meta_key: _pl_karma
+    meta_value: '0'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474874003;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:10734;}i:1;a:1:{s:2:"id";i:10677;}i:2;a:1:{s:2:"id";i:9313;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-10-16-uncommitted-changes-messing-sync-git-visual-studio.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '2071'
+  comment:
+  - comment_id: '5589'
+    comment_author: egomesbrandao
+    comment_author_email: egomesbrandao@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 201.55.31.11
+    comment_date: '2014-10-16 16:40:00'
+    comment_date_gmt: '2014-10-16 15:40:00'
+    comment_content: >-
+      I am in a migration from Visual Source Safe, SVN and Git for the StarTeam
+      Visual Studio online and the paradigm shift is large, even more why the
+      team has not had to Git and training was necessary to turn some projects
+      immediately. So concept of branch, local repository and are difficult to
+      assimilate at once. 
+
+
+      What is helping is the very feature of pull request. I am applying this
+      workflow
+      (http://blogs.msdn.com/b/visualstudioalm/archive/2014/06/10/git-pull-request-visual-studio-online.aspx) 
+      and have helped a lot, only leaders will commit in the master. I hope it
+      is implemented soon in the on-premises version.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1639110951'
+  - comment_id: '5631'
+    comment_author: Dew Drop &#8211; October 17, 2014 (#1879) | Morning Dew
+    comment_author_email: ''
+    comment_author_url: http://www.alvinashcraft.com/2014/10/17/dew-drop-october-17-2014-1879/
+    comment_author_IP: 168.62.48.13
+    comment_date: '2014-10-17 13:28:28'
+    comment_date_gmt: '2014-10-17 12:28:28'
+    comment_content: >-
+      [&#8230;] Uncommitted changes messing up your sync in Git with Visual
+      Studio (Martin Hinshelwood) [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1413548908.220759;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1413706028.792707;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '5838'
+    comment_author: VonC
+    comment_author_email: dchaffiol@gmail.com
+    comment_author_url: ''
+    comment_author_IP: 82.216.25.104
+    comment_date: '2014-10-21 20:12:00'
+    comment_date_gmt: '2014-10-21 19:12:00'
+    comment_content: >-
+      A git stash would help http://stackoverflow.com/a/24162757/6309 (and
+      VS2014 should support it:
+      http://stackoverflow.com/questions/24162512/github-with-visual-studio-2013-cannot-pull-because-of-uncommitted-changes#comment37564616_24162757)
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1646961105'
+  - comment_id: '6076'
+    comment_author: Fredrik Wendt
+    comment_author_email: fredrik@wendt.se
+    comment_author_url: http://wendt.se/blog/
+    comment_author_IP: 83.248.85.59
+    comment_date: '2014-10-26 06:30:00'
+    comment_date_gmt: '2014-10-26 06:30:00'
+    comment_content: >-
+      You can absolutely simply commit your local changes, but merge incoming
+      changes with an older commit than your latest and make that the HEAD, and
+      that way "loose" your changes. So it's technically possible, but requires
+      deliberate action to do so!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1654133736'

@@ -1,0 +1,142 @@
+post:
+  title: My.Unity.Resolve(Of Ninja)
+  link: https://nkdagility.com/blog/my-unity-resolveof-ninja/
+  pubDate: Fri, 08 May 2009 14:17:40 +0000
+  creator: MrHinsh
+  guid:
+    _: >-
+      http://geekswithblogs.net/hinshelm/archive/2009/05/08/my.unity.resolveof-ninja.aspx
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.</p>  <p>I have created a custom “My” object in Visual Studio. This means that I can do “My.Unity.Container” to retrieve my UnityContainer object form anywhere is my code. I know it my be trivial to achieve in other ways, but I am a VB degenerate having fun, so leave me alone…</p>  <p>The first thing we need is a way of consistently creating a singleton instance of our UnityContainer across all of our code in the AppDomain.</p>  <pre>Imports Microsoft.Practices.Unity\n\nPublic Class UnityContainer\n    Inherits Microsoft.Practices.Unity.UnityContainer\n\n    Private Shared sm_UnityContainer As Microsoft.Practices.Unity.UnityContainer\n    Private Shared sm_syncRoot As New Object\n\n    Private Sub New()\n        MyBase.New()\n    End Sub\n\n    Public Shared ReadOnly Property Current() As Microsoft.Practices.Unity.UnityContainer\n        Get\n            If (sm_UnityContainer Is Nothing) Then\n                SyncLock sm_syncRoot\n                    If (sm_UnityContainer Is Nothing) Then\n                        sm_UnityContainer = New UnityContainer\n                        'Dim section As UnityConfigurationSection = ConfigurationManager.GetSection(\"unity\")\n                        'section.Containers.Default.Configure(sm_UnityContainer)\n                    End If\n                End SyncLock\n            End If\n            Return sm_UnityContainer\n        End Get\n    End Property\n\nEnd Class</pre>\n\n<p>\_</p>\n\n<p>I have commented the lines out, but you could also initialise the Unity Container from a config file, but remember that it will be the top level config of your application root an not the config from the Assembly that you code happens to be in. </p>\n\n<p>We could just leave it at that, and If you use C# this is about your lot, but in VB you have the “My” namespace that gives you access to some useful things all in one place.</p>\n\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_6.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_thumb_2.png\" width=\"183\" height=\"164\" /></a> </p>\n\n<p>In order to achieve this you need to create a Module in the “My” namespace that has a single property that access the previous class.</p>\n\n<pre>Imports Common\n\nNamespace My\n\n  &lt;HideModuleName()&gt; _\n  Module MyUnityExtensions\n\n        Friend ReadOnly Property Unity() As UnityContainer\n            Get\n                Return UnityContainer.Current\n            End Get\n        End Property\n\n    End Module\n\nEnd Namespace</pre>\n\n<p>\_</p>\n\n<p>This the allows you to access the UnityContainer object in the same way that you would access My.User.</p>\n\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_8.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_thumb_3.png\" width=\"183\" height=\"181\" /></a> </p>\n\n<p>Inside the Unity object you will have all of the shared properties and methods that we created earlier.</p>\n\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_12.png\"><img style=\"border-bottom: 0px;border-left: 0px;border-top: 0px;border-right: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_thumb_5.png\" width=\"240\" height=\"238\" /></a> </p>\n\n<p>To examine the use of this I have followed <a href=\"http://www.codeproject.com/Members/O1eg-Smirnov\">O1eg Smirnov</a>’s <a href=\"http://www.codeproject.com/KB/architecture/UnityApplicationBlockNDI.aspx\" target=\"_blank\">Ninja Dependency Injection</a> scenario.</p>\n\n<p>So, I have a Console application that registers a sword type and the resolves out a Ninja Object using Unity. </p>\n\n<pre>Imports NinjaCommon\n\nModule Module1\n\n    Sub Main()\n\n        ' Register Weapon\n        My.Unity.RegisterType(Of IWeapon, Sword)()\n        'Create Ninja\n        Dim ninja = My.Unity.Resolve(Of Ninja)()\n        ' Ninja uses weapon\n        ninja.Weapon.use()\n        ' Create Battle\n        Dim battle As New NinjaClasses.Battle\n        ' Start the fight\n        battle.StartFight()\n\n        Console.ReadKey()\n    End Sub\n\nEnd Module</pre>\n\n<p>But it then instantiates a Battle class from the NinjaClasses assembly which uses it own My.Unity class to access the same UnityContainer object.</p>\n\n<pre>Public Class Battle\n\n    Public Sub New()\n\n    End Sub\n\n    Public Sub StartFight()\n        Console.WriteLine(\"Fight Starting \")\n        ' Create 10 ninjas and get them to use their weapon.\n        For count = 1 To 10\n            Dim ninja = My.Unity.Resolve(Of NinjaCommon.Ninja)()\n            ninja.Weapon.use()\n        Next\n        Console.WriteLine(\"Fight ended\")\n    End Sub\n\nEnd Class</pre>\n\n<p>\n\n</p><p>\n\n</p><p>\n\n</p><p>\n\n</p><p>\n\n</p><p>Although this example in no way demonstrates the power of the Unity Application Block, and is a bit silly, I think it demonstartes the use of the “My” namespace.</p>\n\n<p>\_</p>\n\n<div style=\"padding-bottom: 0px;margin: 0px;padding-left: 0px;padding-right: 0px;float: none;padding-top: 0px\" class=\"wlWriterEditableSmartContent\">Technorati Tags: <a href=\"http://technorati.com/tags/.NET\" rel=\"tag\">.NET</a>\_<a href=\"http://technorati.com/tags/Software+Development\" rel=\"tag\">Software Development</a>\_<a href=\"http://technorati.com/tags/CodeProject\" rel=\"tag\">CodeProject</a>\_<a href=\"http://technorati.com/tags/WPF\" rel=\"tag\">WPF</a>\_</div>"
+  - ''
+  post_id: '123'
+  post_date: '2009-05-08 14:17:40'
+  post_date_gmt: '2009-05-08 14:17:40'
+  post_modified: '2009-05-08 14:17:40'
+  post_modified_gmt: '2009-05-08 14:17:40'
+  comment_status: open
+  ping_status: open
+  post_name: my-unity-resolveof-ninja
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: dsq_thread_id
+    meta_value: '311602266'
+  - meta_key: _flattr_post_language
+    meta_value: ''
+  - meta_key: _flattr_post_category
+    meta_value: ''
+  - meta_key: _flattr_post_hidden
+    meta_value: ''
+  - meta_key: _flattr_btn_disabled
+    meta_value: ''
+  - meta_key: _thumbnail_id
+    meta_value: '7080'
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1aBKMc4
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1472603208;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:122;}i:1;a:1:{s:2:"id";i:88;}i:2;a:1:{s:2:"id";i:58;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2009-05-08-my-unity-resolveof-ninja.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '335'
+  comment:
+  - comment_id: '549'
+    comment_author: C&#233;dric Menzi
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-24 22:55:50'
+    comment_date_gmt: '2010-02-24 22:55:50'
+    comment_content: >-
+      Hi Martin<br /><br />I think there are some problems in this solution.
+      When using double checked locking, firstly you need use the volatile
+      keyword for instance variable (don't know if exists in VB) cause you can't
+      be sure that the c'tor completes before the reference to the new object is
+      assigned to instance. See:
+      http://www.yoda.arachsys.com/csharp/singleton.html<br /><br />And second
+      singlentons are evil. The unity container is always injecting itself by
+      default.<br /><br />[TestClass]<br />public class Spike<br />{<br />   
+      [TestMethod]<br />    public void unityTest()<br />    {<br />        var
+      container = new UnityContainer();<br />        var something=
+      container.Resolve&lt;Something&gt;();<br />       
+      Assert.AreSame(container, something.Container);<br />        // This
+      passes. Success.<br />    }<br />}<br /><br />public class Something<br
+      />{<br />    public Something(IUnityContainer container)<br />    {<br
+      />        Container = container;<br />    }<br /><br />    public
+      IUnityContainer Container { get; set; }<br />}<br /><br />greetz Cédric<br
+      />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970361'
+  - comment_id: '550'
+    comment_author: Martin Hinshelwood
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-24 23:32:30'
+    comment_date_gmt: '2010-02-24 23:32:30'
+    comment_content: >-
+      I have found that if you are using Unity across many assemblies you can
+      often run into instance problems with which Container you are using. It is
+      just better defensive programming to use the Singleton.<br /><br />And
+      Singletons are not evil, they just need to be used wisely.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970363'
+  - comment_id: '551'
+    comment_author: C&#233;dric Menzi
+    comment_author_email: ''
+    comment_author_url: ''
+    comment_author_IP: ''
+    comment_date: '2010-02-25 00:05:22'
+    comment_date_gmt: '2010-02-25 00:05:22'
+    comment_content: >-
+      I think the main problem of the singleton is, that it introduces a certain
+      amount of coupling into a system and makes the system difficult to test.
+      because you cannot mock a singleton.<br /><br />greetz Cédric<br /><br
+      /><br />
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '209970364'

@@ -1,0 +1,274 @@
+post:
+  title: Avoid the pick-n-mix branching anti-pattern
+  link: https://nkdagility.com/blog/avoid-pick-n-mix-branching-anti-pattern/
+  pubDate: Mon, 14 Jul 2014 15:35:35 +0000
+  creator: MrHinsh
+  guid:
+    _: http://nakedalmweb.wpengine.com/?p=10649
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<p>For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.</p>\r\n<p>The pick-n-mix branching anti-pattern is something I encounter quite often and on the surface it looks like it should work and give the business flexibility. However the real result is lost code, failed releases, technical debt, unhappy customers, and an erosion of trust with the business.</p>\r\n<p>For the last few release they had noticed that they had been missing things from the release and this had resulted in some major bugs and egg of the face of IT. This is obviously not acceptable and they were looking for advice on how to move forward. There current source code management model was not working for them.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image001\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image0011.jpg\" alt=\"clip_image001\" width=\"800\" height=\"309\" border=\"0\" /></p>\r\n<p>In their current model they were doing something that I like to call pick-n-mix branching. In the diagram above you can see the pick-n-mix branching anti-pattern where in scenario #1 we are leaving behind some of the changeless. However in scenario #2 we are taking a couple of changeless that are dependant on some things that were left behind. This may result in a compile time error, or worse in the case of a website or some asset types. What if these were SQL changes... How hard would it be to debug why the development code line works and Test does not. Worse again when you compound the result and this happens over many years it may work out for a while but even just a year down the line how much code is there in development that was never pushed to test. And how to you know which is which when you are adding new features to development?</p>\r\n<p>The pick-n-mix branching anti-pattern is a symptom of poor planning and almost always results in a code promotion model. In a code promotion model you are promoting source code from Development-&gt;Test-&gt;Production. This has the unfortunate consequence of complicating your quality assurance. You do not test code, you test the binaries that are a result of the compilation process. You might have clever packaging but ultimately you are releasing those binaries. However the reality is that if you create new binaries you are going to need to test them all over again to get any kind of assurance. Even without pick-n-mix code promotion is not the best of ideas but with! Now we are easily in a world of hurt.</p>\r\n<p>On small projects with few developer this can work. I even had a customer that create a software tool around this so that they could scale. However this is dysfunctional behaviour and results in a number of issues:</p>\r\n<ul>\r\n<li><strong>Technical Debt (or an un-hedged fund)</strong> - More and more code will ley unfinished in the Development branch which results in an inability to have 100% working software every build.</li>\r\n<li><strong>Merge Chaos</strong> - Over time the difference between development and production will increase leaving developers with less and less idea of what dependencies they can take. This results in total chaos at merge time, and it will only get worse as time goes on.</li>\r\n<li><strong>Retest required</strong> - if you are creating new binaries then you have to re-execute all of your tests even if you think nothing has changed. You have just created a brand new version of your application.</li>\r\n<li><strong>Business Trust</strong> - As your software erodes you will more often have failed rollouts and more major bugs in production. The result is a total lack of trust in your ability to deliver by your business. This often results in a crazy and convoluted gated model for deployments with loads of ass-covering paperwork.</li>\r\n</ul>\r\n<p>The pick-n-mix branching anti-pattern is used as a crutch for poor planning. The solution for this is a single branch line and using feature flippers (toggles) to determine what code is run. However this requires engineering work and cannot be turned on with a switch. It will take some time, often a considerable amount of time, to engineer into the product. The only way to mitigate this in the short term is to switch to a Feature branching model.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image002\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image0021.png\" alt=\"clip_image002\" width=\"800\" height=\"267\" border=\"0\" /></p>\r\n<p>In a Feature branching model we have single main (or trunk) line with multiple branches for each feature. Features are one or more things that will ship together. There will be no pick-n-mix and everything on that feature line will merge to the 'main' line at the same time. This will require a little more planning as you need to separate your features early. And a little more coordination from your management to make features distinct. This however gives you the capability to continue to release some features and not others without changing your code too much.</p>\r\n<p>There are still a few downsides:</p>\r\n<ul>\r\n<li><strong>Multiple instances</strong> - we need an instance of our application per feature branch. This can be expensive and time consuming.</li>\r\n<li><strong>Break in binary pipeline</strong> - as we are still on a separate branch and promoting code we can't have a seamless binary promotion model. We can however have one per feature and then an end-to-end one pipeline for Integration</li>\r\n</ul>\r\n<p>In an ideal world you need to change your code, using agile engineering practices, to allow you to be able to turn any feature off at any point in the release cycle. This would allow you to not ship a new feature as late as the day of release (or later) without having to rebuild, change a single line of code, or run your full regression again. When you are able to do this then you can move to a more advanced branching model where you maintain either a single source line, or for business reasons you may have a step structure for major releases.</p>\r\n<p><img style=\"background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;\" title=\"clip_image003\" src=\"https://nkdagility.com/wp-content/uploads/2014/07/clip_image0031.png\" alt=\"clip_image003\" width=\"800\" height=\"318\" border=\"0\" /></p>\r\n<p>In the step model you go back and fix bugs on the oldest version that you support that has the bug. You can then push forward from parent to child in the clear safety of never having to choose between bugs and new features.</p>\r\n<p>When you are in the zone with the need for withholding features between major versions for marketing reasons then you may need to work on separate branch lines. This is most effectively solved by using a step, or branch by release, model. This is not a branch for every bug fix or small change but instead is relegated only for the major changes. This allows your branch line to move through various states at different times depending on the criteria that you set. You may still have the idea of 'dev', 'test', and 'prod'. However the difference between the states is likely only one of rules-of-engagement.</p>\r\n<p>However this is still just feature branching except we are looking at major releases. As you organisation realises the power of continuous delivery and the speed with which it can get function to market they will start to change and accept the reality. When that happens you can move to the most optimal branching model of all. The single line.</p>\r\n<h2>Conclusion</h2>\r\n<p>If you are currently in a pick-n-mix branching model you need to move immediately to a Feature branching model to reduce risk and promote stability. It may take a while to get to this point but it will make your life easier and allow you to start building more trust with your business as you are more likely to be successful with releasing. At this point you can move to binary promotion on your main line to reduce your test matrix.</p>\r\n<p>Once you are there you should look at implementing the engineering necessary in your product to implement Feature flippers to whatever level of granularity makes sense in your application. This may be by feature, user, or account and should provide you with the flexibility that your business require and is willing to pay for. Now we can move towards true binary promotion from our development phase all the way through to production.</p>\r\n<p>Even while in a single branching model with binary promotion you may find the need to have a stepped model where you need to support multiple versions of your product. This can be achieved without crippling your teams by having your branching flow forward from parent to child as you move through major releases of your software.</p>\r\n<p>Ultimately there is no excuse for using the pick-n-mix branching anti-pattern for branching. Step up, be professional, and fix this one for good.</p>"
+  - ''
+  post_id: '10649'
+  post_date: '2014-07-14 16:35:35'
+  post_date_gmt: '2014-07-14 15:35:35'
+  post_modified: '2014-07-09 08:41:09'
+  post_modified_gmt: '2014-07-09 07:41:09'
+  comment_status: open
+  ping_status: open
+  post_name: avoid-pick-n-mix-branching-anti-pattern
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: post
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _views_template
+    meta_value: '0'
+  - meta_key: _edit_last
+    meta_value: '3'
+  - meta_key: _syn_old_sitegroups
+    meta_value: a:0:{}
+  - meta_key: _syn_selected_sitegroups
+    meta_value: ''
+  - meta_key: authorsure_include_css
+    meta_value: ''
+  - meta_key: _mab_post_meta
+    meta_value: >-
+      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: pick-n-mix branching anti-pattern
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '69'
+  - meta_key: _syn_slave_post_states
+    meta_value: a:0:{}
+  - meta_key: _thumbnail_id
+    meta_value: '11141'
+  - meta_key: _wpbitly
+    meta_value: http://nkdalm.net/1qUmSAc
+  - meta_key: dsq_thread_id
+    meta_value: '2829054088'
+  - meta_key: _wpas_done_all
+    meta_value: '1'
+  - meta_key: _jetpack_related_posts_cache
+    meta_value: >-
+      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474575926;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:50;}i:1;a:1:{s:2:"id";i:11424;}i:2;a:1:{s:2:"id";i:56;}}}}
+  - meta_key: _wpghs_github_path
+    meta_value: _posts/2014-07-14-avoid-pick-n-mix-branching-anti-pattern.md
+  - meta_key: _sha
+    meta_value: ''
+  - meta_key: _wpml_media_has_media
+    meta_value: '1'
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 4.12.1.2
+  - meta_key: ekit_post_views_count
+    meta_value: '1238'
+  comment:
+  - comment_id: '2639'
+    comment_author: Avoid the pick-n-mix branching anti-pattern - n...
+    comment_author_email: ''
+    comment_author_url: >-
+      http://www.scoop.it/t/visual-studio-alm/p/4024610529/2014/07/14/avoid-the-pick-n-mix-branching-anti-pattern-naked-alm-experts-in-alm-tfs-lean-agile-with-scrum
+    comment_author_IP: 89.30.118.151
+    comment_date: '2014-07-14 18:30:13'
+    comment_date_gmt: '2014-07-14 17:30:13'
+    comment_content: >-
+      [&#8230;] For the last few days I have been working with a customer in the
+      UK on a grass roots engagement to help them solve their source control
+      issues. They have ended up with a pick-n-mix branching anti-pattern and
+      could not see the way out. The pick-n-mix branching anti-pattern is
+      something I encounter quite often and [...]&nbsp; [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1405359013.385618;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1405405695.041163;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2697'
+    comment_author: Filip
+    comment_author_email: filcon@chello.cz
+    comment_author_url: ''
+    comment_author_IP: 89.176.229.69
+    comment_date: '2014-07-17 00:46:00'
+    comment_date_gmt: '2014-07-16 23:46:00'
+    comment_content: >-
+      Avoid Feature Branches, it works fine only for small projects/teams.
+      Sooner or later you will end up with XYZ feature branches all over the
+      place and merge hell will eat you alive. There are many more problems with
+      feature branching, you can read about it here -
+      http://martinfowler.com/bliki/FeatureBranch.html
+
+
+      So Avoid Feature Branches, learn better way to do things (Continuous
+      Integration, Branch by Abstraction etc.).
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1488967160'
+  - comment_id: '2701'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.114
+    comment_date: '2014-07-17 05:12:00'
+    comment_date_gmt: '2014-07-17 04:12:00'
+    comment_content: >-
+      I agree and I think that I expressed above that feature branching is just
+      a short term way out for pick-n-mix branching that is far more damaging
+      than Feature. I have never seen teams to be successful with pick-n-mix
+      however I have seen many large teams to be very successful with Feature. I
+      still think the only good branching model is not to have one at all!
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2697'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1488967160'
+    - meta_key: dsq_post_id
+      meta_value: '1489222240'
+  - comment_id: '2702'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 85.255.233.114
+    comment_date: '2014-07-17 05:19:00'
+    comment_date_gmt: '2014-07-17 04:19:00'
+    comment_content: >-
+      @disqus_2dicQbRD4O:disqus I find after reading the linked article that
+      what I have said above totally concurs with Martin F. What did you find in
+      my article that goes against his guidance?
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2697'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1488967160'
+    - meta_key: dsq_post_id
+      meta_value: '1489227568'
+  - comment_id: '2707'
+    comment_author: 'The Morning Brew - Chris Alcock &raquo; The Morning Brew #1653'
+    comment_author_email: ''
+    comment_author_url: http://blog.cwa.me.uk/2014/07/17/the-morning-brew-1653/
+    comment_author_IP: 212.227.118.27
+    comment_date: '2014-07-17 09:22:25'
+    comment_date_gmt: '2014-07-17 08:22:25'
+    comment_content: >-
+      [&#8230;] Avoid the pick-n-mix branching anti-pattern &#8211; Martin
+      Hinshelwood discusses the pick-n-mix branching anti-pattern, discussing
+      real world experiences of it, the problems it introduces, the reasons it
+      comes about, and how you can get out of the anti-pattern. [&#8230;]
+    comment_approved: '1'
+    comment_type: pingback
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: akismet_result
+      meta_value: 'false'
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1405585345.801002;s:7:"message";s:28:"Akismet cleared
+        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+    - meta_key: akismet_history
+      meta_value: >-
+        a:4:{s:4:"time";d:1406059074.368519;s:7:"message";s:46:"MrHinsh changed
+        the comment status to
+        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+  - comment_id: '2717'
+    comment_author: dotnetchris
+    comment_author_email: chris@marisic.com
+    comment_author_url: http://www.Marisic.Net/
+    comment_author_IP: 174.55.236.150
+    comment_date: '2014-07-17 21:10:00'
+    comment_date_gmt: '2014-07-17 20:10:00'
+    comment_content: >-
+      Pick and mix as described sounds awfully like pull request based
+      development.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '0'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: ''
+    - meta_key: dsq_post_id
+      meta_value: '1490333511'
+  - comment_id: '2718'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 212.183.128.115
+    comment_date: '2014-07-17 22:08:00'
+    comment_date_gmt: '2014-07-17 21:08:00'
+    comment_content: >-
+      nope, feature branches are more like pull requests. You should never pick
+      and choose what is merged when you have more than one feature being
+      developed on the same branch... A Pull request is more like a feature
+      merging, maybe repetedly, in its entirety into the master.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2717'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1490333511'
+    - meta_key: dsq_post_id
+      meta_value: '1490405505'
+  - comment_id: '2725'
+    comment_author: dotnetchris
+    comment_author_email: chris@marisic.com
+    comment_author_url: http://www.Marisic.Net/
+    comment_author_IP: 174.60.179.108
+    comment_date: '2014-07-18 02:17:00'
+    comment_date_gmt: '2014-07-18 01:17:00'
+    comment_content: >-
+      Very very very very very few projects/organizations ever accept a pull
+      request to master.
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2718'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1490405505'
+    - meta_key: dsq_post_id
+      meta_value: '1490698567'
+  - comment_id: '2728'
+    comment_author: Martin Hinshelwood
+    comment_author_email: martin@hinshelwood.com
+    comment_author_url: http://nkdagility.com/blog
+    comment_author_IP: 212.183.128.115
+    comment_date: '2014-07-18 05:17:00'
+    comment_date_gmt: '2014-07-18 04:17:00'
+    comment_content: I updated my comment to say only branch
+    comment_approved: '1'
+    comment_type: comment
+    comment_parent: '2725'
+    comment_user_id: '0'
+    commentmeta:
+    - meta_key: dsq_parent_post_id
+      meta_value: '1490698567'
+    - meta_key: dsq_post_id
+      meta_value: '1490871843'
