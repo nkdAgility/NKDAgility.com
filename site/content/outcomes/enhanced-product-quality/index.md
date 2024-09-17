@@ -6,7 +6,6 @@ aliases:
   - increase-team-productivity
   - /outcomes/increase-team-effectiveness/
 date: 2024-06-15
-id: "51494"
 type: outcomes
 card:
   title: Increase Team Productivity
