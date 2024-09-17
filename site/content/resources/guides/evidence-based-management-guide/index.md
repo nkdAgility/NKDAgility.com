@@ -20,8 +20,8 @@ author: MrHinsh
 card:
   button:
     content: Learn More
-  content: Discover more about "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty" and how it can help you in your Agile journey!
-  title: "The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty"
+  content: Discover more about The Evidence-Based Management Guide
+  title: "The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty"
 ---
 
 # The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty 

@@ -1,4 +1,6 @@
 ---
+title: Customer Working Agreement
+aliase:
  - workshops/Customer-Working-Agreement.html
 date: 2024-09-17
 author: MrHinsh

@@ -1,4 +1,6 @@
 ---
+title: Definition of Done
+aliase:
  - workshops/Definition-Of-Done.html
 date: 2024-09-17
 author: MrHinsh
