@@ -64,5 +64,24 @@ $methods = @(
     @{ "slug" = "liberating-structures"; "title" = "Liberating Structures"; "aliases" = "/methods/liberating-structures/"; "content" = "Unlock creativity and innovation through Liberating Structures. Engage your team in dynamic, inclusive conversations that drive impactful outcomes." }
 )
 
+$principles = @(
+    @{ "slug" = "competence"; "title" = "Competence"; "aliases" = "/principles/competence/"; "content" = "Foster a culture of competence where skills and expertise are continuously developed to drive excellence in every aspect of the organization." },
+    @{ "slug" = "first-principles-thinking"; "title" = "First Principles Thinking"; "aliases" = "/principles/first-principles-thinking/"; "content" = "Apply First Principles Thinking to break down complex problems and find innovative solutions by understanding the fundamental truths." },
+    @{ "slug" = "continuous-improvement"; "title" = "Continuous Improvement"; "aliases" = "/principles/continuous-improvement/"; "content" = "Commit to a mindset of Continuous Improvement, always seeking ways to enhance processes, products, and team performance." },
+    @{ "slug" = "customer-focus"; "title" = "Customer Focus"; "aliases" = "/principles/customer-focus/"; "content" = "Maintain a strong Customer Focus to ensure that the needs and feedback of the customer are at the heart of everything we do." },
+    @{ "slug" = "innovation"; "title" = "Innovation"; "aliases" = "/principles/innovation/"; "content" = "Encourage Innovation by creating an environment where new ideas and approaches are explored to solve challenges and create value." }
+)
+
+$outcomes = @(
+    @{ "slug" = "increased-team-productivity"; "title" = "Increased Team Productivity"; "aliases" = "/outcomes/increased-team-productivity/"; "content" = "Boost your team's productivity through effective collaboration, streamlined workflows, and enhanced focus on value delivery." },
+    @{ "slug" = "improved-collaboration"; "title" = "Improved Collaboration"; "aliases" = "/outcomes/improved-collaboration/"; "content" = "Foster improved collaboration across teams and departments, leading to better communication, transparency, and project success." },
+    @{ "slug" = "faster-delivery-of-value"; "title" = "Faster Delivery of Value"; "aliases" = "/outcomes/faster-delivery-of-value/"; "content" = "Accelerate the delivery of value by adopting agile practices that reduce time-to-market and improve responsiveness to change." },
+    @{ "slug" = "enhanced-product-quality"; "title" = "Enhanced Product Quality"; "aliases" = "/outcomes/enhanced-product-quality/"; "content" = "Improve product quality by embedding continuous testing, feedback, and iterative development into your product lifecycle." }
+)
+
+
+
 # Call the function with the methods list and the base folder location
 Create-StubIndexForSection -sections $methods -baseFolder "site\content\methods"
+Create-StubIndexForSection -sections $principles -baseFolder "site\content\principles"
+Create-StubIndexForSection -sections $outcomes -baseFolder "site\content\outcomes"
