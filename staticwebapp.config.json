@@ -1,0 +1,22 @@
+{
+  "auth": {
+    "identityProviders": {
+      "azureActiveDirectory": {
+        "registration": {
+          "openIdIssuer": "https://mynakedagility.ciamlogin.com/658c1a65-f834-4a61-b68c-91b9a7b3e481/v2.0/",
+          "clientId": "f18a31b9-50fb-45ea-ae5a-d904d0b19c67"
+        }
+      }
+    },
+    "login": {
+      "loginRoute": "/login",
+      "allowedRoles": ["authenticated"]
+    },
+    "routes": [
+      {
+        "route": "/protected",
+        "allowedRoles": ["authenticated"]
+      }
+    ]
+  }
+}
