@@ -1,3 +1,24 @@
-baseURL: https://example.org/
+baseURL: /
 languageCode: en-us
 title: My New Hugo Site
+
+# Site-wide parameters
+params:
+  description: "A brief description of your site"
+  keywords: "keyword1, keyword2, keyword3"
+  author: "Your Name"
+  og_image: "/images/og-image.jpg"  # URL to the default Open Graph image
+  twitter_handle: "@yourhandle"  # Your Twitter handle for Twitter cards
+
+# Enable sitemap and robots.txt
+sitemap:
+  filename: "sitemap.xml"
+  changefreq: "daily"
+  priority: 0.5
+
+# RSS feed settings
+rss:
+  filename: "rss.xml"
+  name: "RSS Feed"
+  description: "Subscribe to our RSS feed"
+

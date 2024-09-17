@@ -1,3 +1,25 @@
+/* Define branding color variables */
+:root {
+    --primary-color: #713183; /* Primary branding color */
+    --secondary-color: #007acc; /* Secondary branding color */
+    --accent-color: #e37f01; /* Accent color */
+    --background-color: #ecf0f1; /* Background color */
+  }
+
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+  }
+
+.nkda-heading-primary {
+    color: var(--primary-color);
+    font-size: clamp(1rem, 5vw + 1rem, 3.5rem);
+}
+.nkda-heading-secondary {
+    color: var(--primary-color);
+    font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
+}
+
 .mainContainer
 {
     max-width: 1768px;
@@ -22,6 +44,9 @@ pre {
     max-width: 1024px;;
 }
 
+
+/* navigration start */
+
 .navbar-brand-topbaritem {
     font-size: 0.9em;
 }
@@ -30,14 +55,6 @@ pre {
     color: #713183;
 }
 
-.nkda-main-menu-item {
-
-}
-
-    .nkda-main-menu-item:hover {
-        color: white;
-        background: #713183;
-    }
 
 .btn-nkdprimary {
     background-color: #713183;
@@ -48,3 +65,4 @@ pre {
     background-color: #54595F;
     color: white;
 }
+

@@ -1,20 +1,59 @@
-<!DOCTYPE html>
-<html lang="{{ or site.Language.LanguageCode }}" dir="{{ or site.Language.LanguageDirection `ltr` }}">
-<head>
-  {{ partial "head.html" . }}
-</head>
-<body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-    <div class="container col-xxl-8 px-4 py-5">
-        {{ .Content }}
+{{ define "main" }}
+<section class="container my-5">
+  <div class="row">
+    <div class="col-md-6">
+      <h2 class="mb-4 nkda-heading-secondary">We help organisations dynamically adapt to market needs!</h2>
+      <h1 class="mb-4 nkda-heading-primary">We are for software organisations and software teams!</h1>
+      <p class="mb-4">We will guide you in moving to a multi-method approach to agility that moves beyond a simple defined process to something more co-evolutionary and highly adaptive to provide a better flow of value for your stakeholders.</p>
+      <p>Our expertise in Lean, Agile, DevOps, Scrum, and Kanban drives supports you in optimising the value to your customers and maximising your revenue.</p>
     </div>
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
-</body>
-</html>
+    <div class="col-md-6">
+      <div class="card text-center">
+        <div class="card-body">
+          <h3 class="card-title">How Usable Working Products Are Your Ultimate Weapon Against Risks</h3>
+          <p class="card-text">
+            The only way to mitigate risk when employing Agile practices is by continuously delivering a usable working product. Agile is not about spinning the hamster wheels but delivering shippable increments that users can interact with.
+          </p>
+          <a href="https://nkdagility.com/blog/how-usable-working-products-are-your-ultimate-weapon-against-risks/" class="btn btn-primary">Read more...</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="container my-5">
+  <h2 title="Capabilities - What we do?">What we do?</h2>
+  <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+</section>
+<section class="container my-5">
+  <h2 title="Outcomes - What you get?">What you get?</h2>
+  <p>
+    We empower organizations to achieve unparalleled success in today's dynamic market. Our proven strategies enhance Team Effectiveness, deliver Higher Quality Products, and foster a culture of Continuous Improvement. Discover how our tailored approaches
+    can significantly reduce your Time to Market and boost Market Adaptability, setting your business apart. Explore the transformative outcomes we offer and see why companies trust NKDAgility to elevate their performance and thrive in competitive
+    environments.
+  </p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
+</section>
+<section class="container my-5">
+  <h2 title="methods - How we do it?">How we do it?</h2>
+  <p> ssdsd. </p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "methods") . }}
+</section>
+
+<section class="container my-5">
+  <h2 title="People - Who are we?">Who are we?</h2>
+  <p>
+    At NKD Agility, we unite a team of the world’s most seasoned and dynamic Agile coaches, consultants, Professional Scrum Trainers, and Kanban experts, who are globally respected for mastering Agile in some of the most challenging Agile environments on
+    Earth. Unmatched expertise balanced with warmth and passion.
+  </p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "company/people") . }}
+</section>
+<hr />
+<h1>List of Sections</h1>
+<ul>
+  {{ range .Site.Sections }}
+  <li> <a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .RelPermalink }} </li>
+  {{ end }}
+</ul>
+
+{{ end }}

@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Our Site"
+title: "naked Agility"
 url: "/"
 ---
 Welcome to our website. We specialize in helping teams become more productive, agile, and aligned with their business goals. Test

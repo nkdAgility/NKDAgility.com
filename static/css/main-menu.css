@@ -1,0 +1,19 @@
+/* Main Menu Item Styles */
+.nkda-main-menu-item {
+  list-style: none;
+  position: relative; /* Ensure the mega menu is positioned relative to this item */
+}
+
+/* Main Menu List Item Styles */
+.nkda-main-menu-top-item {
+  text-transform: uppercase !important;
+  
+}
+
+/* Ensure the hover effect covers the menu */
+.nav-item:hover .nkda-main-menu-top-item {
+  color: white;
+  background: #713183;
+  
+}
+
