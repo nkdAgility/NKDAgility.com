@@ -132,5 +132,31 @@ function Move-And-ConvertJekyllToHugo {
 
 
 
+
+
 # Example usage of the function
-Move-And-ConvertJekyllToHugo -sourceDir "C:\Users\MartinHinshelwoodNKD\source\repos\Agile-Delivery-Kit-for-Software-Organisations\src\collections\_guides" -destinationDir "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides"
+#Move-And-ConvertJekyllToHugo -sourceDir "C:\Users\MartinHinshelwoodNKD\source\repos\Agile-Delivery-Kit-for-Software-Organisations\src\collections\_guides" -destinationDir "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\guides"
+
+#Move-And-ConvertJekyllToHugo -sourceDir "C:\Users\MartinHinshelwoodNKD\source\repos\Agile-Delivery-Kit-for-Software-Organisations\src\collections\_workshops" -destinationDir "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\workshops"
+
+
+# Define the parent directory containing all the subfolders
+$parentSourceDir = "C:\Users\MartinHinshelwoodNKD\source\repos\Agile-Delivery-Kit-for-Software-Organisations\src\collections"
+$parentDestinationDir = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\_incomming"
+
+# Get all subdirectories in the parent directory
+$subfolders = Get-ChildItem -Path $parentSourceDir -Directory
+
+# Loop through each subfolder and call Move-And-ConvertJekyllToHugo
+foreach ($folder in $subfolders) {
+    $sourceDir = $folder.FullName
+    $folderName = $folder.Name
+
+    # Set the destination folder based on the folder name
+    $destinationDir = Join-Path $parentDestinationDir $folderName
+
+    # Run the Move-And-ConvertJekyllToHugo function for this subfolder
+    Move-And-ConvertJekyllToHugo -sourceDir $sourceDir -destinationDir $destinationDir
+
+    Write-Host "Processed folder: $folderName"
+}
