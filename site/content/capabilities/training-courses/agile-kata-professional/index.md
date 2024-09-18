@@ -65,6 +65,7 @@ slug: agile-kata-professional
 id: "50830"
 aliases:
 - /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
 author: MrHinsh
 card:
   button:
