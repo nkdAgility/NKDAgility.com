@@ -1,5 +1,5 @@
 ---
-title: Unlocking Organizational Success: The Power of Shared Vision and Clear Goals
+title: "Unlocking Organizational Success: The Power of Shared Vision and Clear Goals"
 date: 08/08/2024 06:45:00
 videoId: KvZbBwzxSu4
 etag: DarqQvTSjsv0SsvdUfe-zBSTpEE

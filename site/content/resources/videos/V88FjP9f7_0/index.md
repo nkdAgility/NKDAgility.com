@@ -1,5 +1,5 @@
 ---
-title: "Quotes: "Less is More". True or False?"
+title: "Quotes: 'Less is More'. True or False?"
 date: 10/14/2023 07:00:13
 videoId: V88FjP9f7_0
 etag: NX_v7GqSXxFogcbS-fPjTmX_qUg
