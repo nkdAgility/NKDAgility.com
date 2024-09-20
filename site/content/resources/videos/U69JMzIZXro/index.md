@@ -1,0 +1,19 @@
+---
+title: "Installing TFS 2013 Standard"
+date: 01/15/2014 13:38:13
+videoId: U69JMzIZXro
+etag: pxEWIdzmbVGEF6dPTrDhdirXAgk
+url: /resources/videos/installing-tfs-2013-standard
+external_url: https://www.youtube.com/watch?v=U69JMzIZXro
+coverImage: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
+duration: 1219
+isShort: False
+---
+
+# Installing TFS 2013 Standard
+
+Have you tried to install TFS 2013? Its so ridiculously easy compared to early versions of TFS that you can do it in your sleep. See Martin configure TFS as a standard single server with full SQL Server, Analysis Services, and Reporting Services.
+
+More videos and blogs on http://nakedalm.com/blog
+
+[Watch on YouTube](https://www.youtube.com/watch?v=U69JMzIZXro)

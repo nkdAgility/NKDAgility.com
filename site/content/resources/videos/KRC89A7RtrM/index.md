@@ -1,0 +1,19 @@
+---
+title: "Some of the features of Team Web Access are not available to you in TFS 2013"
+date: 01/15/2014 14:55:37
+videoId: KRC89A7RtrM
+etag: NKGsz5pro4DBPidJKVxVsM7dEk4
+url: /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
+external_url: https://www.youtube.com/watch?v=KRC89A7RtrM
+coverImage: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg
+duration: 164
+isShort: False
+---
+
+# Some of the features of Team Web Access are not available to you in TFS 2013
+
+Have you ever seen the massage "Some of the features of Team Web Access are not available to you" when you access TFS 2013? Have you wondered how to get access to those features? Find out here.
+
+More videos and blogs on http://nakedalm.com/blog
+
+[Watch on YouTube](https://www.youtube.com/watch?v=KRC89A7RtrM)

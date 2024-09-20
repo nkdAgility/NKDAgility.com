@@ -1,0 +1,31 @@
+---
+title: "Reasons to do an APS Course in 60 seconds"
+date: 07/10/2023 14:30:31
+videoId: yKSkRhv_2Bs
+etag: tgcoKwa8MEQZewTXwUgFVT7jE9A
+url: /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+external_url: https://www.youtube.com/watch?v=yKSkRhv_2Bs
+coverImage: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
+duration: 53
+isShort: True
+---
+
+# Reasons to do an APS Course in 60 seconds
+
+#shorts #shortvideo #shortvideo If you're thinking of doing an APS (Applying Professional Scrum) course, here's a great reason to register from Martin Hinshelwood.
+
+About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+
+We would love to work with you. 
+
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+[Watch on YouTube](https://www.youtube.com/watch?v=yKSkRhv_2Bs)
