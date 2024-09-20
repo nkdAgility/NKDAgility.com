@@ -2,7 +2,6 @@
 title: "#shorts 7 Virtues of #agile. Charity"
 date: 12/06/2023 11:01:01
 videoId: zro-li2QIMM
-etag: 74O0eLvvAjRcMvU1gDeN3ipRRvM
 url: /resources/videos/#shorts-7-virtues-of-#agile.-charity
 external_url: https://www.youtube.com/watch?v=zro-li2QIMM
 coverImage: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg

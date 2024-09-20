@@ -2,7 +2,6 @@
 title: "How does a scrum team plan and prioritize work effectively?"
 date: 03/24/2023 07:00:30
 videoId: sPmUuSy7G3I
-etag: f8NGqoj1BuVI9wgM5qzuypHgCjc
 url: /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 external_url: https://www.youtube.com/watch?v=sPmUuSy7G3I
 coverImage: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Agile training versus agile consulting"
 date: 09/07/2023 07:00:08
 videoId: GS2If-vQ9ng
-etag: 0D8Liw1JonGnvWDlpYm9BKxHnYk
 url: /resources/videos/agile-training-versus-agile-consulting
 external_url: https://www.youtube.com/watch?v=GS2If-vQ9ng
 coverImage: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg

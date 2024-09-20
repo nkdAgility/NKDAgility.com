@@ -2,7 +2,6 @@
 title: "Kanban vs. Scrum? You're Asking the Wrong Question!"
 date: 08/05/2024 06:45:00
 videoId: PaUciBmqCsU
-etag: tq5OZi3Zoa29GT3KaGYcEO-RlyU
 url: /resources/videos/kanban-vs.-scrum--you're-asking-the-wrong-question!
 external_url: https://www.youtube.com/watch?v=PaUciBmqCsU
 coverImage: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg

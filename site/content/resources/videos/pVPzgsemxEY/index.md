@@ -2,8 +2,7 @@
 title: "Kaizen in Kanban: The Power of Continuous Improvement for Optimal Results"
 date: 08/25/2024 22:00:34
 videoId: pVPzgsemxEY
-etag: QYOsTr2JoPkhYXg1USJXxr1sxS8
-url: /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+url: /resources/videos/kaizen-in-kanban--the-power-of-continuous-improvement-for-optimal-results
 external_url: https://www.youtube.com/watch?v=pVPzgsemxEY
 coverImage: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56

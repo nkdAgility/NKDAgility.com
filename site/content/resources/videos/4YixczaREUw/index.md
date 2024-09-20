@@ -1,8 +1,7 @@
 ---
-title: "Many folks say 'Scrum is like communism; it does not work!' Are they right?"
+title: "Many folks say "Scrum is like communism; it does not work!" Are they right?"
 date: 05/06/2024 14:12:53
 videoId: 4YixczaREUw
-etag: GbGT3hpZLQSZQVcFl8NS1toxdnE
 url: /resources/videos/many-folks-say--scrum-is-like-communism;-it-does-not-work!--are-they-right-
 external_url: https://www.youtube.com/watch?v=4YixczaREUw
 coverImage: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "#1 tip for a scrum master"
 date: 05/17/2023 07:00:14
 videoId: cR4D4qQe9ps
-etag: rKLCtv_KJ2XtNNFXfuYjix0TjMo
 url: /resources/videos/#1-tip-for-a-scrum-master
 external_url: https://www.youtube.com/watch?v=cR4D4qQe9ps
 coverImage: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg

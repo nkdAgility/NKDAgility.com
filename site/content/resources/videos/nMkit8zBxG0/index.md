@@ -2,7 +2,6 @@
 title: "What is sprint planning?"
 date: 05/24/2023 14:00:36
 videoId: nMkit8zBxG0
-etag: aVA5nyX97VnYJTrbzebYiVGtuBY
 url: /resources/videos/what-is-sprint-planning-
 external_url: https://www.youtube.com/watch?v=nMkit8zBxG0
 coverImage: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg

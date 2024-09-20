@@ -2,7 +2,6 @@
 title: "7 signs of the #agile apocalypse. Chaos"
 date: 11/09/2023 10:45:01
 videoId: ItvOiaC32Hs
-etag: OAFjceDn1LFRXvK0XrPvFmskipQ
 url: /resources/videos/7-signs-of-the-#agile-apocalypse.-chaos
 external_url: https://www.youtube.com/watch?v=ItvOiaC32Hs
 coverImage: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "7 signs of the #agile apocalypse. War"
 date: 11/07/2023 11:30:07
 videoId: GGtb7Yg8gHY
-etag: aTzffjCoVMWdEdmR1j79ZJ91CQo
 url: /resources/videos/7-signs-of-the-#agile-apocalypse.-war
 external_url: https://www.youtube.com/watch?v=GGtb7Yg8gHY
 coverImage: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Hardest part of adopting Scrum"
 date: 06/17/2023 11:00:32
 videoId: c6R8wo04LK4
-etag: bZiqLLKGefrJIWjAdxbzschUU2c
 url: /resources/videos/hardest-part-of-adopting-scrum
 external_url: https://www.youtube.com/watch?v=c6R8wo04LK4
 coverImage: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg

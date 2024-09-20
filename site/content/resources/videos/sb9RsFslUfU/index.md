@@ -2,7 +2,6 @@
 title: "How did you know you were ready to transition from DevOps practitioner to DevOps consultant?"
 date: 05/04/2023 07:00:19
 videoId: sb9RsFslUfU
-etag: F2LRVWSypgtAoHd8AZFWIfbyRK4
 url: /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 external_url: https://www.youtube.com/watch?v=sb9RsFslUfU
 coverImage: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg

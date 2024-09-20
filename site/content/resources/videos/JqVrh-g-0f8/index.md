@@ -2,7 +2,6 @@
 title: "What does a poor product backlog look like?"
 date: 06/19/2023 13:01:31
 videoId: JqVrh-g-0f8
-etag: S_YwTrqJEQOIvCgaaZRF10ri67Q
 url: /resources/videos/what-does-a-poor-product-backlog-look-like-
 external_url: https://www.youtube.com/watch?v=JqVrh-g-0f8
 coverImage: https://i.ytimg.com/vi/JqVrh-g-0f8/maxresdefault.jpg

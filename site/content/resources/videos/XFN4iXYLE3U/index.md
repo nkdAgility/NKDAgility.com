@@ -2,7 +2,6 @@
 title: "The Secret Power of Kanban: Why Limiting Work in Progress (WIP) is Key to Success"
 date: 07/22/2024 06:00:19
 videoId: XFN4iXYLE3U
-etag: 704MUAROUSaMlGHJO3YwVjxDEOM
 url: /resources/videos/the-secret-power-of-kanban--why-limiting-work-in-progress-(wip)-is-key-to-success
 external_url: https://www.youtube.com/watch?v=XFN4iXYLE3U
 coverImage: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg

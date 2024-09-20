@@ -2,7 +2,6 @@
 title: "How does the APS course help people apply scrum effectively?"
 date: 01/18/2023 08:57:16
 videoId: grJFd9-R5Pw
-etag: eP_CIwog2WjPXrLsy3RR1fWCv80
 url: /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
 external_url: https://www.youtube.com/watch?v=grJFd9-R5Pw
 coverImage: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg

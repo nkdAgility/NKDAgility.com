@@ -2,7 +2,6 @@
 title: "What is a sprint goal?"
 date: 05/31/2023 11:00:01
 videoId: 2Cy9MxXiiOo
-etag: S9Fc9eGRLgnoN5lyg-Gfz9f4ZQ4
 url: /resources/videos/what-is-a-sprint-goal-
 external_url: https://www.youtube.com/watch?v=2Cy9MxXiiOo
 coverImage: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg

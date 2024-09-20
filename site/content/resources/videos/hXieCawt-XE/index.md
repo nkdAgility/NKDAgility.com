@@ -2,7 +2,6 @@
 title: "Work Less, Do More with Pull in Kanban"
 date: 03/05/2024 07:00:18
 videoId: hXieCawt-XE
-etag: C-6tkk-313KxDKKWvGNlNQhg2d8
 url: /resources/videos/work-less,-do-more-with-pull-in-kanban
 external_url: https://www.youtube.com/watch?v=hXieCawt-XE
 coverImage: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg

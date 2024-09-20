@@ -2,7 +2,6 @@
 title: "Why is it so important that senior leadership teams are engaged during an agile consulting gig?"
 date: 06/23/2023 07:00:11
 videoId: ItnQxg3Q4Fc
-etag: x1y010xOTl_xpTrrrsRj5ECA18g
 url: /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 external_url: https://www.youtube.com/watch?v=ItnQxg3Q4Fc
 coverImage: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg

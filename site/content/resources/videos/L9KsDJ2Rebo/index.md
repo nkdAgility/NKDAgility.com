@@ -2,7 +2,6 @@
 title: "What excites you most about the PSM immersive learning journey for delegates?"
 date: 07/13/2023 07:45:48
 videoId: L9KsDJ2Rebo
-etag: ISqTD0DmZtwaLqAAWkuT8ScFwAM
 url: /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 external_url: https://www.youtube.com/watch?v=L9KsDJ2Rebo
 coverImage: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg

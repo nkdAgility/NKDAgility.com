@@ -2,7 +2,6 @@
 title: "What is your feeling on creating agile apprenticeships?"
 date: 03/17/2023 07:00:21
 videoId: vHNwcfbNOR8
-etag: e5cjOPxqaXh-TVEDHhfTIQcusaI
 url: /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
 external_url: https://www.youtube.com/watch?v=vHNwcfbNOR8
 coverImage: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg

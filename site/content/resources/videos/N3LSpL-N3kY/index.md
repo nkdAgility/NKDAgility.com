@@ -2,7 +2,6 @@
 title: "2 day PSPO versus 8 week PSPO"
 date: 06/07/2023 07:00:14
 videoId: N3LSpL-N3kY
-etag: hz14r9jyMX72nm9gBgsrN8UePLs
 url: /resources/videos/2-day-pspo-versus-8-week-pspo
 external_url: https://www.youtube.com/watch?v=N3LSpL-N3kY
 coverImage: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg

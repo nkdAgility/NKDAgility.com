@@ -2,7 +2,6 @@
 title: "How important is DevOps in continuous delivery of value to customers?"
 date: 02/20/2023 07:00:10
 videoId: XOaAKJpfHIo
-etag: PTZgpXskaCoF75jqVbPffJAfWR8
 url: /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 external_url: https://www.youtube.com/watch?v=XOaAKJpfHIo
 coverImage: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg

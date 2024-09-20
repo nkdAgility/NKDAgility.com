@@ -2,7 +2,6 @@
 title: "#shorts 5 things you would teach a #productowner apprentice. Part 3"
 date: 12/15/2023 11:00:17
 videoId: KhP_e26OSKs
-etag: qVe3_6jRxmPB4r0pGY_Ym7StO0M
 url: /resources/videos/#shorts-5-things-you-would-teach-a-#productowner-apprentice.-part-3
 external_url: https://www.youtube.com/watch?v=KhP_e26OSKs
 coverImage: https://i.ytimg.com/vi/KhP_e26OSKs/maxresdefault.jpg

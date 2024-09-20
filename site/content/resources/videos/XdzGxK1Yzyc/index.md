@@ -2,7 +2,6 @@
 title: "Why have a Product Owner?"
 date: 05/23/2023 14:00:19
 videoId: XdzGxK1Yzyc
-etag: kkMMu4p7Qyys_cjg35U5d69h5SI
 url: /resources/videos/why-have-a-product-owner-
 external_url: https://www.youtube.com/watch?v=XdzGxK1Yzyc
 coverImage: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg

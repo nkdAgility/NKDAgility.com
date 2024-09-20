@@ -2,7 +2,6 @@
 title: "7 Virtues of #agile. Patience"
 date: 12/08/2023 07:00:06
 videoId: 9VHasQBlQc8
-etag: oiHqmJA_mKX0wv9DQeuhj64RL0U
 url: /resources/videos/7-virtues-of-#agile.-patience
 external_url: https://www.youtube.com/watch?v=9VHasQBlQc8
 coverImage: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg

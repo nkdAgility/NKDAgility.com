@@ -2,7 +2,6 @@
 title: "What is a common mistake made by rookie agile consultants?"
 date: 02/17/2023 07:00:30
 videoId: y0dg0Sqs4xw
-etag: _GwuzPRrdihXkzFjfE847dfjdww
 url: /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 external_url: https://www.youtube.com/watch?v=y0dg0Sqs4xw
 coverImage: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg

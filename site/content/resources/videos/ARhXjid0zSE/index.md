@@ -2,7 +2,6 @@
 title: "7 signs of the #agile apocalypse. Famine"
 date: 11/08/2023 06:45:00
 videoId: ARhXjid0zSE
-etag: XFH0gexXb3DlqxurUlvrVjsxHwQ
 url: /resources/videos/7-signs-of-the-#agile-apocalypse.-famine
 external_url: https://www.youtube.com/watch?v=ARhXjid0zSE
 coverImage: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg

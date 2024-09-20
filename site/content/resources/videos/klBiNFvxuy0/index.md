@@ -2,7 +2,6 @@
 title: "What is the most common Aha moment people have in a scrum course?"
 date: 03/03/2023 07:15:03
 videoId: klBiNFvxuy0
-etag: KmG1eVaR_CtZJhUyCIfCMrh-h14
 url: /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 external_url: https://www.youtube.com/watch?v=klBiNFvxuy0
 coverImage: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg

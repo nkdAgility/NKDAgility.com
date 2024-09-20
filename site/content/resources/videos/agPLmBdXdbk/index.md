@@ -2,7 +2,6 @@
 title: "Must have trait in an agile consultant"
 date: 05/01/2023 09:30:00
 videoId: agPLmBdXdbk
-etag: hKE9nnVW_EUN52kV012NUh0Rcl8
 url: /resources/videos/must-have-trait-in-an-agile-consultant
 external_url: https://www.youtube.com/watch?v=agPLmBdXdbk
 coverImage: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg

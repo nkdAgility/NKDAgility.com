@@ -2,7 +2,6 @@
 title: "Ep 004: Chat with Jim Sammons on professionalism and conflicting priorities"
 date: 04/07/2020 20:33:45
 videoId: iCDEX6oHy7A
-etag: MWI0QwHOKeW7369GgWb-6CEsSKE
 url: /resources/videos/ep-004--chat-with-jim-sammons-on-professionalism-and-conflicting-priorities
 external_url: https://www.youtube.com/watch?v=iCDEX6oHy7A
 coverImage: https://i.ytimg.com/vi/iCDEX6oHy7A/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Why is training such a critical element in a #productowner journey"
 date: 11/27/2023 11:00:56
 videoId: xLUsgKWzkUM
-etag: FlrM8jm6-3ApOCaMA2O-klxhfHw
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-#productowner-journey
 external_url: https://www.youtube.com/watch?v=xLUsgKWzkUM
 coverImage: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg

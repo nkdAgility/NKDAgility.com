@@ -2,7 +2,6 @@
 title: "Why is training such a critical element in a manager or leader's journey"
 date: 11/29/2023 07:00:23
 videoId: W3cyrYFXDfg
-etag: wHzxreU_c5eGZUd-VDSIfhxLRgI
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
 external_url: https://www.youtube.com/watch?v=W3cyrYFXDfg
 coverImage: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg

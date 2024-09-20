@@ -2,7 +2,6 @@
 title: "Best application of Scrum in the world?"
 date: 05/26/2023 07:00:16
 videoId: mkgE6prwlj4
-etag: sakurozK8Dk0VyYKi6cYDFK1nbI
 url: /resources/videos/best-application-of-scrum-in-the-world-
 external_url: https://www.youtube.com/watch?v=mkgE6prwlj4
 coverImage: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg

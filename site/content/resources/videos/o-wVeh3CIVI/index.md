@@ -2,7 +2,6 @@
 title: "What is scrum?"
 date: 05/19/2023 07:00:31
 videoId: o-wVeh3CIVI
-etag: HhjB0iJRPOquv7Vih-gt_2kqzS8
 url: /resources/videos/what-is-scrum-
 external_url: https://www.youtube.com/watch?v=o-wVeh3CIVI
 coverImage: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg

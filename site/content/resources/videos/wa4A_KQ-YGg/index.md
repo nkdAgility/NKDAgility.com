@@ -2,7 +2,6 @@
 title: "What are immersive training Scrum courses?"
 date: 03/15/2023 07:00:19
 videoId: wa4A_KQ-YGg
-etag: 756MV4IMOMLYc-d0wJiLS5Ogqpg
 url: /resources/videos/what-are-immersive-training-scrum-courses-
 external_url: https://www.youtube.com/watch?v=wa4A_KQ-YGg
 coverImage: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "5 things you would teach a #productowner apprentice. Part 1"
 date: 12/13/2023 07:00:07
 videoId: DBa5_WhA68M
-etag: OnE62411GAleAW6RqyrlfAUimI4
 url: /resources/videos/5-things-you-would-teach-a-#productowner-apprentice.-part-1
 external_url: https://www.youtube.com/watch?v=DBa5_WhA68M
 coverImage: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg

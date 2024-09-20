@@ -2,7 +2,6 @@
 title: "What is your primary role in a DevOps consulting gig?"
 date: 05/02/2023 07:00:00
 videoId: 0fz91w-_6vE
-etag: r0__7yWYSIJ8DPxkF3RVM8JshWo
 url: /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 external_url: https://www.youtube.com/watch?v=0fz91w-_6vE
 coverImage: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg

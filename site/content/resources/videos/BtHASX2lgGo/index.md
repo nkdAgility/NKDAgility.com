@@ -1,9 +1,8 @@
 ---
-title: 5 kinds of Agile bandits. Planning Bandits
+title: "5 kinds of Agile bandits. Planning Bandits"
 date: 01/09/2024 07:00:05
 videoId: BtHASX2lgGo
-etag: rKqnicp0FuuvS8_UeSzp2Rr_Jas
-url: /resources/videos/5-kinds-of-agile-bandits-planning-bandits
+url: /resources/videos/5-kinds-of-agile-bandits.-planning-bandits
 external_url: https://www.youtube.com/watch?v=BtHASX2lgGo
 coverImage: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324

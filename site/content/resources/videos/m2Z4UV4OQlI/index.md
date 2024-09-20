@@ -2,7 +2,6 @@
 title: "Why do you recommend the PAL EBM course?"
 date: 01/27/2024 07:00:19
 videoId: m2Z4UV4OQlI
-etag: OYc_drEfkvoPSwTAbF6D8AW0XIw
 url: /resources/videos/why-do-you-recommend-the-pal-ebm-course-
 external_url: https://www.youtube.com/watch?v=m2Z4UV4OQlI
 coverImage: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg

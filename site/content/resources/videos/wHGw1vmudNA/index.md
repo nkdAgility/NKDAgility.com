@@ -1,9 +1,8 @@
 ---
-title: War! 7 Harbingers agile apocalypse
+title: "War! 7 Harbingers agile apocalypse"
 date: 10/19/2023 13:00:46
 videoId: wHGw1vmudNA
-etag: jUnVLmk8JC9kJ3wNDAil7saY8qo
-url: /resources/videos/war-7-harbingers-agile-apocalypse
+url: /resources/videos/war!-7-harbingers-agile-apocalypse
 external_url: https://www.youtube.com/watch?v=wHGw1vmudNA
 coverImage: https://i.ytimg.com/vi/wHGw1vmudNA/maxresdefault.jpg
 duration: 158

@@ -2,7 +2,6 @@
 title: "Introduction to Evidence Based Management"
 date: 09/11/2024 13:36:29
 videoId: 66NuAjzWreY
-etag: 6wlzyOuGFa7TNbLUG1JFb3905l4
 url: /resources/videos/introduction-to-evidence-based-management
 external_url: https://www.youtube.com/watch?v=66NuAjzWreY
 coverImage: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg

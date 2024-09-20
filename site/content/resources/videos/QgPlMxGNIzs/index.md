@@ -2,7 +2,6 @@
 title: "How do you think Agile is evolving since its inception in 2001?"
 date: 02/15/2023 07:00:07
 videoId: QgPlMxGNIzs
-etag: H4IdAA1LPil9vhCzJF7Vg8H69qA
 url: /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 external_url: https://www.youtube.com/watch?v=QgPlMxGNIzs
 coverImage: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg

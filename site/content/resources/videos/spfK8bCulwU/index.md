@@ -2,7 +2,6 @@
 title: "Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?"
 date: 05/08/2023 07:00:15
 videoId: spfK8bCulwU
-etag: uxVK5JYzqhWqkBp34W4ov-kxV_w
 url: /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 external_url: https://www.youtube.com/watch?v=spfK8bCulwU
 coverImage: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg

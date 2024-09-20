@@ -2,7 +2,6 @@
 title: "Why is Johanna a great teacher for the Professional Agile Leadership   Essentials course?"
 date: 07/26/2023 04:03:17
 videoId: EOs5kZv_7tg
-etag: c3yPFIBk2FPRzamvyAyUJyb1lVI
 url: /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 external_url: https://www.youtube.com/watch?v=EOs5kZv_7tg
 coverImage: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Quotes: Don't scale scrum! Pragmatic or defeatist?"
 date: 10/09/2023 14:30:08
 videoId: Oj0ybFF12Rw
-etag: MOqqE5KPENPFpQ4xezGcl3P2rok
 url: /resources/videos/quotes--don't-scale-scrum!-pragmatic-or-defeatist-
 external_url: https://www.youtube.com/watch?v=Oj0ybFF12Rw
 coverImage: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg

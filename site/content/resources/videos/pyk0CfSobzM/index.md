@@ -1,9 +1,8 @@
 ---
-title: How does a scrum team estimate what can be delivered in a sprint?
+title: "How does a scrum team estimate what can be delivered in a sprint?"
 date: 06/01/2023 07:00:31
 videoId: pyk0CfSobzM
-etag: 0kB64NMUUhH7w0STI0-kIgdrpbo
-url: /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+url: /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 external_url: https://www.youtube.com/watch?v=pyk0CfSobzM
 coverImage: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244

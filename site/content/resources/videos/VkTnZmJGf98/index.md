@@ -2,7 +2,6 @@
 title: "Why Evidence-based Management? How has it improved Agile?"
 date: 01/26/2024 07:00:25
 videoId: VkTnZmJGf98
-etag: B8ePAZVb_xj4gnpsa9s7KfIBVDQ
 url: /resources/videos/why-evidence-based-management--how-has-it-improved-agile-
 external_url: https://www.youtube.com/watch?v=VkTnZmJGf98
 coverImage: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg

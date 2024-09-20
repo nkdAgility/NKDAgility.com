@@ -2,7 +2,6 @@
 title: "3 reasons why you should level up your knowledge and skills"
 date: 08/03/2023 07:00:11
 videoId: ZXDBoq7JUSw
-etag: TGPCYR2Bxa9oIr7dO3updAxZv5k
 url: /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 external_url: https://www.youtube.com/watch?v=ZXDBoq7JUSw
 coverImage: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg

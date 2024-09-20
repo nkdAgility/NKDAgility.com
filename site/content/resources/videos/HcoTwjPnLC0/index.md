@@ -2,7 +2,6 @@
 title: "Is a product owner an agile project manager?"
 date: 05/25/2023 07:00:06
 videoId: HcoTwjPnLC0
-etag: HHxdZu6hfinq4lWwHScwgQS85mk
 url: /resources/videos/is-a-product-owner-an-agile-project-manager-
 external_url: https://www.youtube.com/watch?v=HcoTwjPnLC0
 coverImage: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Most common thing you hear in a PSPO course?"
 date: 06/29/2023 11:00:18
 videoId: CdYwLGrArZU
-etag: 0awY6z1ufLEj0H4UJEvvBzR-YUU
 url: /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
 external_url: https://www.youtube.com/watch?v=CdYwLGrArZU
 coverImage: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg

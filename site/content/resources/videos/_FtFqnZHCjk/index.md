@@ -2,7 +2,6 @@
 title: "Agile vs. Traditional Product Management: Unveiling the Key Differences"
 date: 07/18/2024 06:45:01
 videoId: _FtFqnZHCjk
-etag: muMwPz91F2lCwhaDfAcl2tzNJH8
 url: /resources/videos/agile-vs.-traditional-product-management--unveiling-the-key-differences
 external_url: https://www.youtube.com/watch?v=_FtFqnZHCjk
 coverImage: https://i.ytimg.com/vi/_FtFqnZHCjk/maxresdefault.jpg

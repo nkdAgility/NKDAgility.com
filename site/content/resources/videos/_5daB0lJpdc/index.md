@@ -2,7 +2,6 @@
 title: "5 ghosts of #agile past. certification"
 date: 12/28/2023 08:40:54
 videoId: _5daB0lJpdc
-etag: 8moPcNo75vRmM9-rjutbBZ7QoTw
 url: /resources/videos/5-ghosts-of-#agile-past.-certification
 external_url: https://www.youtube.com/watch?v=_5daB0lJpdc
 coverImage: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg

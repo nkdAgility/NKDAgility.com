@@ -2,7 +2,6 @@
 title: "What excites you most about the PAL e immersive learning journey for delegates?"
 date: 07/13/2023 12:06:17
 videoId: OWvCS3xb7pQ
-etag: QFC6IQ8dPQyoX3ZmfNOXQ1c3bpU
 url: /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 external_url: https://www.youtube.com/watch?v=OWvCS3xb7pQ
 coverImage: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "What 5 things must you achieve before you call yourself an #agilecoach. Part 3"
 date: 11/15/2023 11:01:00
 videoId: xOcL_hqf1SM
-etag: Y96kYgwmm-h7RXi0okiriGT6GFw
 url: /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-#agilecoach.-part-3
 external_url: https://www.youtube.com/watch?v=xOcL_hqf1SM
 coverImage: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg

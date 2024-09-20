@@ -2,7 +2,6 @@
 title: "25th March 2020: Office Hours \ Ask me Anything"
 date: 03/25/2020 16:17:15
 videoId: OCJuDfc-gnc
-etag: VY1_Ahz-KB4urcEJYhTCn_U4PLI
 url: /resources/videos/25th-march-2020--office-hours---ask-me-anything
 external_url: https://www.youtube.com/watch?v=OCJuDfc-gnc
 coverImage: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg

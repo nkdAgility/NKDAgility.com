@@ -2,7 +2,6 @@
 title: "Why are a scrum team better served by an agile consultant than a professional coach?"
 date: 06/26/2023 07:00:07
 videoId: LkphLIbmjkI
-etag: as2ZmLOckyTs0lN2lvqUD3B9rr8
 url: /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 external_url: https://www.youtube.com/watch?v=LkphLIbmjkI
 coverImage: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg

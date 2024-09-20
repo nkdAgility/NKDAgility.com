@@ -2,7 +2,6 @@
 title: "What are 3 key takeaways for a scrum team after attending an APS immersive learning course?"
 date: 08/14/2023 07:00:01
 videoId: 221BbTUqw7Q
-etag: aHEzKQE6v4bEH_nBPtHrB6sK3Rk
 url: /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 external_url: https://www.youtube.com/watch?v=221BbTUqw7Q
 coverImage: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg

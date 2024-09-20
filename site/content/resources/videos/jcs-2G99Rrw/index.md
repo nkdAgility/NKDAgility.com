@@ -2,7 +2,6 @@
 title: "Top 4 Rookie Mistakes in Azure DevOps"
 date: 04/09/2024 08:00:20
 videoId: jcs-2G99Rrw
-etag: R0PQfEMP6su6KdoylRrMer9I3ww
 url: /resources/videos/top-4-rookie-mistakes-in-azure-devops
 external_url: https://www.youtube.com/watch?v=jcs-2G99Rrw
 coverImage: https://i.ytimg.com/vi/jcs-2G99Rrw/maxresdefault.jpg

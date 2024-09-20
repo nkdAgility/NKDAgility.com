@@ -2,7 +2,6 @@
 title: "How do DevOps and Agile integrate?"
 date: 06/13/2023 14:30:08
 videoId: Gtp9wjkPFPA
-etag: Kuw8DtbJ2t1gqLGeKn6rotsdnFY
 url: /resources/videos/how-do-devops-and-agile-integrate-
 external_url: https://www.youtube.com/watch?v=Gtp9wjkPFPA
 coverImage: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg

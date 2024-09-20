@@ -2,7 +2,6 @@
 title: "How does someone become an agile consultant?"
 date: 03/21/2023 07:00:18
 videoId: oBnvr7vOkg8
-etag: BoQDmQF6VLIkxiyz84Ervj5qVN8
 url: /resources/videos/how-does-someone-become-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=oBnvr7vOkg8
 coverImage: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg

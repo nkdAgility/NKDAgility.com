@@ -2,7 +2,6 @@
 title: "Unlocking the Power of Kanban: Gaining Deep Insights into Your Software Engineering Processes"
 date: 07/29/2024 06:45:02
 videoId: Psc6nDD7Q9g
-etag: 56s_1ZLshiZuaY5pzZVXI2ve5-c
 url: /resources/videos/unlocking-the-power-of-kanban--gaining-deep-insights-into-your-software-engineering-processes
 external_url: https://www.youtube.com/watch?v=Psc6nDD7Q9g
 coverImage: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "What does the assessment phase of a consulting enagement look and feel like?"
 date: 06/19/2023 10:00:25
 videoId: GmLW6wNcI6k
-etag: 4FbqwqWnFk7opJAS6IxCA2WPzmI
 url: /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 external_url: https://www.youtube.com/watch?v=GmLW6wNcI6k
 coverImage: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg

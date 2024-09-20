@@ -2,7 +2,6 @@
 title: "Pet Peeve in Scrum"
 date: 04/28/2023 09:30:00
 videoId: 2KovKxNpZpg
-etag: 99RSXHXM0AdaIHw25AfJKlOqUwQ
 url: /resources/videos/pet-peeve-in-scrum
 external_url: https://www.youtube.com/watch?v=2KovKxNpZpg
 coverImage: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg

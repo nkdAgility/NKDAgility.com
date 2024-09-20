@@ -2,7 +2,6 @@
 title: "Can you walk us through your consulting process  What methodologies and tools do you employ?"
 date: 08/22/2024 07:00:08
 videoId: DvW-xwxufa0
-etag: jlZT-fkc8c5QDpglMz-qL0N1x20
 url: /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 external_url: https://www.youtube.com/watch?v=DvW-xwxufa0
 coverImage: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Overview of the 8-week Immersive learning experience"
 date: 06/08/2023 07:00:30
 videoId: qrEqX_5FWM8
-etag: efkRrarAwkupHMW5bp421oh7TWM
 url: /resources/videos/overview-of-the-8-week-immersive-learning-experience
 external_url: https://www.youtube.com/watch?v=qrEqX_5FWM8
 coverImage: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg

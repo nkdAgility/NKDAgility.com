@@ -2,7 +2,6 @@
 title: "What is #kanban?"
 date: 02/12/2024 07:00:11
 videoId: LMmKDlcIvWs
-etag: 8zAjnpZ-xr-ZmRnIyuPi7UUoTvo
 url: /resources/videos/what-is-#kanban-
 external_url: https://www.youtube.com/watch?v=LMmKDlcIvWs
 coverImage: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg

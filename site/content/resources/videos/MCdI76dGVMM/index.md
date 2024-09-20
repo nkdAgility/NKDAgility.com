@@ -2,7 +2,6 @@
 title: "Hardest part of becoming a professional #scrummaster?"
 date: 08/02/2023 07:00:12
 videoId: MCdI76dGVMM
-etag: bAg5Q9PjoiA_3FRewS2jqtId6vo
 url: /resources/videos/hardest-part-of-becoming-a-professional-#scrummaster-
 external_url: https://www.youtube.com/watch?v=MCdI76dGVMM
 coverImage: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg

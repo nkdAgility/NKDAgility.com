@@ -2,7 +2,6 @@
 title: "Most common thing you hear in a PSM 1 course?"
 date: 06/28/2023 11:00:24
 videoId: h5TG3MbP0QY
-etag: kEt8UmEOlhXMV-HkKaPyVVnmURk
 url: /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 external_url: https://www.youtube.com/watch?v=h5TG3MbP0QY
 coverImage: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg

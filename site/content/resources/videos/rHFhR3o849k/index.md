@@ -2,7 +2,6 @@
 title: "What makes a truly great scrum master?"
 date: 03/13/2023 07:00:19
 videoId: rHFhR3o849k
-etag: H0aKot6U0P1vOy8U9jgoeHrVRCA
 url: /resources/videos/what-makes-a-truly-great-scrum-master-
 external_url: https://www.youtube.com/watch?v=rHFhR3o849k
 coverImage: https://i.ytimg.com/vi/rHFhR3o849k/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "What you will be able to do after the PPDV course"
 date: 08/27/2024 07:07:18
 videoId: OFUsZq0TKoo
-etag: KToKSbhjpJAiPHne2YGh7LKHxJk
 url: /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 external_url: https://www.youtube.com/watch?v=OFUsZq0TKoo
 coverImage: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg

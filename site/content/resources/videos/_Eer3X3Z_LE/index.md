@@ -2,7 +2,6 @@
 title: "What is a product backlog?"
 date: 05/18/2023 07:00:16
 videoId: _Eer3X3Z_LE
-etag: 0Tkea261QSdB2Qq68rFsEKPh_Sk
 url: /resources/videos/what-is-a-product-backlog-
 external_url: https://www.youtube.com/watch?v=_Eer3X3Z_LE
 coverImage: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg

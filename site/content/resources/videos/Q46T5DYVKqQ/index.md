@@ -2,7 +2,6 @@
 title: "What is Empiricism"
 date: 08/17/2023 07:00:09
 videoId: Q46T5DYVKqQ
-etag: NX1h-xuKDM-XXvMY3QX7iMHUTGg
 url: /resources/videos/what-is-empiricism
 external_url: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 coverImage: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg

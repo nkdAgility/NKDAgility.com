@@ -2,7 +2,6 @@
 title: "What can go wrong and what can go right with a migration via Azure DevOps"
 date: 07/31/2024 12:00:49
 videoId: 3jYFD-6_kZk
-etag: 5nJ4taa3NBzPHTz6n4RzXZGGcT0
 url: /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 external_url: https://www.youtube.com/watch?v=3jYFD-6_kZk
 coverImage: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg

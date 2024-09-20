@@ -2,7 +2,6 @@
 title: "#shorts  7 Virtues of #agile. Diligence"
 date: 12/07/2023 11:00:05
 videoId: 2QojN_k3JZ4
-etag: -04VccBIy-Sqkdq9coIqCNOTzwY
 url: /resources/videos/#shorts-7-virtues-of-#agile.-diligence
 external_url: https://www.youtube.com/watch?v=2QojN_k3JZ4
 coverImage: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg

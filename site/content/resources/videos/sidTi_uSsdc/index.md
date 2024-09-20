@@ -2,7 +2,6 @@
 title: "Discipline versus motivation"
 date: 05/15/2023 07:00:21
 videoId: sidTi_uSsdc
-etag: Lp9yFMUmtd7OVc7qaNVLmenHbuI
 url: /resources/videos/discipline-versus-motivation
 external_url: https://www.youtube.com/watch?v=sidTi_uSsdc
 coverImage: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg

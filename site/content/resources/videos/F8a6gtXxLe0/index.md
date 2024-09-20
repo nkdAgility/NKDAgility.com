@@ -2,7 +2,6 @@
 title: "nkdAgility Healthgrades Interview Dave Frisch"
 date: 07/27/2017 19:14:11
 videoId: F8a6gtXxLe0
-etag: RCkYEqEi2PMFr4zYdmIDHZLlIoo
 url: /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 external_url: https://www.youtube.com/watch?v=F8a6gtXxLe0
 coverImage: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg

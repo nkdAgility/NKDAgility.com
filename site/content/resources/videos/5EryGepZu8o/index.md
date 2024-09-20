@@ -2,7 +2,6 @@
 title: "If you could teach just one thing about Scrum, what would it be?"
 date: 02/27/2023 07:00:01
 videoId: 5EryGepZu8o
-etag: J5rEp4rRF-5AQRusBX90uTQOs_Q
 url: /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 external_url: https://www.youtube.com/watch?v=5EryGepZu8o
 coverImage: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "What is Taylorism and how did it influence project management?"
 date: 02/22/2023 07:00:28
 videoId: wHYYfvAGFow
-etag: Cd90pAax9thOd20q5MmFHOy4YFA
 url: /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
 external_url: https://www.youtube.com/watch?v=wHYYfvAGFow
 coverImage: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg

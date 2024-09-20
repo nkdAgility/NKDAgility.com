@@ -2,7 +2,6 @@
 title: "Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!"
 date: 10/12/2022 17:08:59
 videoId: rnyJzSwU74Q
-etag: 7nHVgdehQK-FYdPlhtdMQBSIYpQ
 url: /resources/videos/traditional-vs-empirical!-whats-the-difference--agile-faces-off-agianst-waterfall!
 external_url: https://www.youtube.com/watch?v=rnyJzSwU74Q
 coverImage: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg

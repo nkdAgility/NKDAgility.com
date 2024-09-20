@@ -2,7 +2,6 @@
 title: "How do you know if you've got a great sprint goal?"
 date: 06/02/2023 11:00:12
 videoId: AY35ys1uQOY
-etag: vz38IdWIQgQ25UgJIBH-hK0Nsxs
 url: /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 external_url: https://www.youtube.com/watch?v=AY35ys1uQOY
 coverImage: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg

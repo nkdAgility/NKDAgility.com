@@ -2,7 +2,6 @@
 title: "Why is the PSPO a great fit for the 8-week immersive learning experience?"
 date: 06/09/2023 07:00:27
 videoId: vQBYdfLwJ3g
-etag: eIHQY3vaLGrtiWATA6hMUGwt8x8
 url: /resources/videos/why-is-the-pspo-a-great-fit-for-the-8-week-immersive-learning-experience-
 external_url: https://www.youtube.com/watch?v=vQBYdfLwJ3g
 coverImage: https://i.ytimg.com/vi/vQBYdfLwJ3g/maxresdefault.jpg

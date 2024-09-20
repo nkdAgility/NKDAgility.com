@@ -2,7 +2,6 @@
 title: "How much of an impact can a strong, skilled product owner have?"
 date: 01/30/2023 07:30:06
 videoId: S3Xq6gCp7Hw
-etag: D5E3QtbIkqkQ45UDR7Vhab2Tslw
 url: /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
 external_url: https://www.youtube.com/watch?v=S3Xq6gCp7Hw
 coverImage: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg

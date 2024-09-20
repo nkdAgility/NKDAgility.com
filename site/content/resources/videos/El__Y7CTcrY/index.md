@@ -2,7 +2,6 @@
 title: "5 reasons why I love the immersive learning experience for students. Part 1"
 date: 01/31/2024 14:44:15
 videoId: El__Y7CTcrY
-etag: EUpX4Ss8QXR9uv_8YwAeraMEQJ8
 url: /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students.-part-1
 external_url: https://www.youtube.com/watch?v=El__Y7CTcrY
 coverImage: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg

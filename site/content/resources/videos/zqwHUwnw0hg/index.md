@@ -2,7 +2,6 @@
 title: "What will you learn on the professional scrum master course?"
 date: 01/19/2023 07:00:14
 videoId: zqwHUwnw0hg
-etag: mDK885Pyz5KonS0PptCQHnSEA_0
 url: /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 external_url: https://www.youtube.com/watch?v=zqwHUwnw0hg
 coverImage: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg

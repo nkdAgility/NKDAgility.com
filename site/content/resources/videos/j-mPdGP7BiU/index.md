@@ -2,7 +2,6 @@
 title: "PPDV learning outcomes"
 date: 08/10/2024 07:00:32
 videoId: j-mPdGP7BiU
-etag: YkY5np-V-pdAqxxaeF32ebXBlVk
 url: /resources/videos/ppdv-learning-outcomes
 external_url: https://www.youtube.com/watch?v=j-mPdGP7BiU
 coverImage: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "When should an organization consider a professional agile consultant?"
 date: 03/28/2023 07:00:21
 videoId: y0yIAIqOv-Q
-etag: 39CDfexkMH4fUkLfMxs__Rr0fqk
 url: /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
 external_url: https://www.youtube.com/watch?v=y0yIAIqOv-Q
 coverImage: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg

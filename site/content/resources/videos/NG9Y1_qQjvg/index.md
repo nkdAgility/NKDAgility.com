@@ -2,7 +2,6 @@
 title: "Install TFS 2013 Release Management"
 date: 01/21/2014 16:36:55
 videoId: NG9Y1_qQjvg
-etag: mZ-9k0cLabkjW5oRRR9H0F4n9F4
 url: /resources/videos/install-tfs-2013-release-management
 external_url: https://www.youtube.com/watch?v=NG9Y1_qQjvg
 coverImage: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg

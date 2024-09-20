@@ -2,7 +2,6 @@
 title: "What is your favourite agile course to deliver and why?"
 date: 01/09/2023 12:36:53
 videoId: vI2LBfMkPuk
-etag: tbO_7bGL-XV7wns5l3uG4DAeJKk
 url: /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 external_url: https://www.youtube.com/watch?v=vI2LBfMkPuk
 coverImage: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg

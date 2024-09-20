@@ -2,7 +2,6 @@
 title: "Quotes  You can't connect the dots looking forward; you can only connect them looking backwards"
 date: 10/13/2023 11:00:40
 videoId: hj31XHbmWbA
-etag: asqYhZ84NNA9FZTmhwFc8w93How
 url: /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 external_url: https://www.youtube.com/watch?v=hj31XHbmWbA
 coverImage: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "NKD Agility Training Approach"
 date: 05/08/2024 06:45:02
 videoId: VOUmfpB-d88
-etag: zaHoEPc3DTHfr4WxqFJDoBYl_kI
 url: /resources/videos/nkd-agility-training-approach
 external_url: https://www.youtube.com/watch?v=VOUmfpB-d88
 coverImage: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg

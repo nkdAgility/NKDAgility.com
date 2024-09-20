@@ -2,7 +2,6 @@
 title: "Kanban Principles"
 date: 07/01/2024 07:00:24
 videoId: nfTAYRLAaYI
-etag: jbdtLeCuV7J8bHLJkr2LEdbWPBM
 url: /resources/videos/kanban-principles
 external_url: https://www.youtube.com/watch?v=nfTAYRLAaYI
 coverImage: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg

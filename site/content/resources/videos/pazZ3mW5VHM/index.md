@@ -2,7 +2,6 @@
 title: "Most influential people in Agile: Simon Reindl"
 date: 07/06/2023 14:33:51
 videoId: pazZ3mW5VHM
-etag: _uk0m2_RIjhrL-BCZ0BQz5M4woY
 url: /resources/videos/most-influential-people-in-agile--simon-reindl
 external_url: https://www.youtube.com/watch?v=pazZ3mW5VHM
 coverImage: https://i.ytimg.com/vi/pazZ3mW5VHM/maxresdefault.jpg

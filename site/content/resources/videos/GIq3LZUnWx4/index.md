@@ -2,7 +2,6 @@
 title: "What is the one thing a PSPO course forces you to focus on?"
 date: 05/15/2023 14:00:13
 videoId: GIq3LZUnWx4
-etag: gtS4B4iQ9qWNXuAQp6s4AuE_jMY
 url: /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
 external_url: https://www.youtube.com/watch?v=GIq3LZUnWx4
 coverImage: https://i.ytimg.com/vi/GIq3LZUnWx4/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Don’t put down to malevolence what can be explained by incompetence"
 date: 09/29/2023 07:00:14
 videoId: LxM_F_JJLeg
-etag: EGOKInP0wcGhvHcAHKRDrkwL3Ao
 url: /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 external_url: https://www.youtube.com/watch?v=LxM_F_JJLeg
 coverImage: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg

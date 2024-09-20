@@ -2,7 +2,6 @@
 title: "What is a product vision and why does it matter?"
 date: 05/17/2023 14:00:17
 videoId: Xs-gf093GbI
-etag: HNVmG9mfmUX5An2PGuiUe34Sr9M
 url: /resources/videos/what-is-a-product-vision-and-why-does-it-matter-
 external_url: https://www.youtube.com/watch?v=Xs-gf093GbI
 coverImage: https://i.ytimg.com/vi/Xs-gf093GbI/maxresdefault.jpg

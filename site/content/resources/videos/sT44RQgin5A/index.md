@@ -2,7 +2,6 @@
 title: "The Four Key Value Areas of EBM"
 date: 09/13/2024 07:00:34
 videoId: sT44RQgin5A
-etag: c21xuhz-HlsnKtGWVsOtlrkLxBA
 url: /resources/videos/the-four-key-value-areas-of-ebm
 external_url: https://www.youtube.com/watch?v=sT44RQgin5A
 coverImage: https://i.ytimg.com/vi/sT44RQgin5A/maxresdefault.jpg

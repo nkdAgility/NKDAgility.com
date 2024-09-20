@@ -1,9 +1,8 @@
 ---
-title: In WIP, less is more, why?
+title: "In WIP, less is more, why?"
 date: 05/09/2023 07:00:19
 videoId: yEu8Fw4JQWM
-etag: TkmR8TBClLQNUtpoAuKVQV2isfk
-url: /resources/videos/in-wip-less-is-more-why
+url: /resources/videos/in-wip,-less-is-more,-why-
 external_url: https://www.youtube.com/watch?v=yEu8Fw4JQWM
 coverImage: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263

@@ -2,7 +2,6 @@
 title: "What is the most common mistake in sprint planning?"
 date: 05/25/2023 14:00:20
 videoId: JVZzJZ5q0Hw
-etag: 74KQzVNCgWoULXBJCetQcJeFags
 url: /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 external_url: https://www.youtube.com/watch?v=JVZzJZ5q0Hw
 coverImage: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg

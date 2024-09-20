@@ -2,7 +2,6 @@
 title: "Kanban Boards"
 date: 08/16/2024 07:04:15
 videoId: r1wvCUxeWcE
-etag: JZOegFqMYeWDSxYAhSr6FvhSHi8
 url: /resources/videos/kanban-boards
 external_url: https://www.youtube.com/watch?v=r1wvCUxeWcE
 coverImage: https://i.ytimg.com/vi/r1wvCUxeWcE/maxresdefault.jpg

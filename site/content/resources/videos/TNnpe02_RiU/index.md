@@ -2,7 +2,6 @@
 title: "Pet Peeve in DevOps"
 date: 04/27/2023 09:30:06
 videoId: TNnpe02_RiU
-etag: 0vzPqUBiA10RJ8RP4GCWqn941yg
 url: /resources/videos/pet-peeve-in-devops
 external_url: https://www.youtube.com/watch?v=TNnpe02_RiU
 coverImage: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg

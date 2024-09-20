@@ -2,7 +2,6 @@
 title: "Talk us through the migration services you offer via Azure DevOps"
 date: 07/31/2024 11:58:11
 videoId: Wvdh1lJfcLM
-etag: KpX_9iEXbe2QTj0z03eHR55HB5A
 url: /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 external_url: https://www.youtube.com/watch?v=Wvdh1lJfcLM
 coverImage: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "War! 7 Harbingers agile apocalypse. But shorter!"
 date: 10/30/2023 14:30:10
 videoId: Wk0no7MB0AM
-etag: bxUDoEG9mRX2douPy803vTVkOPk
 url: /resources/videos/war!-7-harbingers-agile-apocalypse.-but-shorter!
 external_url: https://www.youtube.com/watch?v=Wk0no7MB0AM
 coverImage: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg

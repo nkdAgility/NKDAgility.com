@@ -2,7 +2,6 @@
 title: "1 thing that sinks a consulting engagement before it starts gaining traction"
 date: 08/19/2023 07:00:06
 videoId: 7VBtGTlkAdM
-etag: 6AJ295mdy0z0PH-9e7iyC4FfSb4
 url: /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 external_url: https://www.youtube.com/watch?v=7VBtGTlkAdM
 coverImage: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg

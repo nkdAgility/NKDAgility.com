@@ -2,7 +2,6 @@
 title: "Product Development Mentoring Program"
 date: 05/07/2024 11:02:49
 videoId: EyqLSLHk_Ik
-etag: V-7Vxrgp1OXDJK1reP33lzc8ffI
 url: /resources/videos/product-development-mentoring-program
 external_url: https://www.youtube.com/watch?v=EyqLSLHk_Ik
 coverImage: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg

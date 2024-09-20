@@ -2,7 +2,6 @@
 title: "Do you think we are on the slope of enlightenment in Gartner's Hype Cycle"
 date: 07/07/2023 07:00:03
 videoId: 3NtGxZfuBnU
-etag: L_ojfU-cOZz44brJsLy-wZm3eiM
 url: /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
 external_url: https://www.youtube.com/watch?v=3NtGxZfuBnU
 coverImage: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg

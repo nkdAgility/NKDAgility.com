@@ -2,7 +2,6 @@
 title: "What should be top of mind when a scrum team prepare for a sprint review"
 date: 09/04/2023 07:00:13
 videoId: Juonckoiyx0
-etag: -YrA7dsJpyWevutS-LaWXWeWFfI
 url: /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 external_url: https://www.youtube.com/watch?v=Juonckoiyx0
 coverImage: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg

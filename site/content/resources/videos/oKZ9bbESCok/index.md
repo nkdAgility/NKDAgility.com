@@ -2,7 +2,6 @@
 title: "5 kinds of Agile bandits: Say/Do Metrics"
 date: 01/05/2024 07:00:28
 videoId: oKZ9bbESCok
-etag: DTMjCbEnPOnvQMRLtqoW-fsSilk
 url: /resources/videos/5-kinds-of-agile-bandits--say-do-metrics
 external_url: https://www.youtube.com/watch?v=oKZ9bbESCok
 coverImage: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg

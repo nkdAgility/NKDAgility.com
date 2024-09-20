@@ -2,7 +2,6 @@
 title: "What would be an example of a great agile consulting outcome for a client?"
 date: 01/26/2023 07:00:04
 videoId: Cgy1ccX7e7Y
-etag: Y7BtZum6dztQjbqzfI0KBBjLzps
 url: /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 external_url: https://www.youtube.com/watch?v=Cgy1ccX7e7Y
 coverImage: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg

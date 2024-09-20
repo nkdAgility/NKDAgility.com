@@ -2,7 +2,6 @@
 title: "11th April 2020: Office Hours \ Ask Me Anything"
 date: 04/10/2020 18:35:30
 videoId: isdope3qkx4
-etag: 1ulHc3TbZg_PwVR4WQObtndPNzw
 url: /resources/videos/11th-april-2020--office-hours---ask-me-anything
 external_url: https://www.youtube.com/watch?v=isdope3qkx4
 coverImage: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg

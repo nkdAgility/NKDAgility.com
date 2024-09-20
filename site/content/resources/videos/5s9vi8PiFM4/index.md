@@ -2,7 +2,6 @@
 title: "1 thing you wish you knew at the start of your scrum journey"
 date: 08/04/2023 07:00:03
 videoId: 5s9vi8PiFM4
-etag: Hj2HvJ54hdJprngEd2cB8pn_5Bo
 url: /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 external_url: https://www.youtube.com/watch?v=5s9vi8PiFM4
 coverImage: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg

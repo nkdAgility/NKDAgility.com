@@ -2,7 +2,6 @@
 title: "WIP Limits! What critical factors affect them?"
 date: 03/06/2024 07:00:17
 videoId: Ir8QiX7eAHU
-etag: pjtWJdbHL5ryyd5TmsDLOs1Dr2s
 url: /resources/videos/wip-limits!-what-critical-factors-affect-them-
 external_url: https://www.youtube.com/watch?v=Ir8QiX7eAHU
 coverImage: https://i.ytimg.com/vi/Ir8QiX7eAHU/maxresdefault.jpg

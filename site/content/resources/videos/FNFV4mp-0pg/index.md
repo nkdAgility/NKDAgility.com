@@ -2,7 +2,6 @@
 title: "Is a scrum master an agile micromanager"
 date: 04/25/2023 07:00:06
 videoId: FNFV4mp-0pg
-etag: Oa5stXpB_ZGTZEQ1ON3kbEUZXyM
 url: /resources/videos/is-a-scrum-master-an-agile-micromanager
 external_url: https://www.youtube.com/watch?v=FNFV4mp-0pg
 coverImage: https://i.ytimg.com/vi/FNFV4mp-0pg/maxresdefault.jpg

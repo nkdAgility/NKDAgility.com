@@ -2,7 +2,6 @@
 title: "What has the initial response been to the immersive learning experiences?"
 date: 08/28/2023 07:00:05
 videoId: 6D6QTjSrJ14
-etag: eXb8PHzGMlBuW2VVygdO4eWWzD4
 url: /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 external_url: https://www.youtube.com/watch?v=6D6QTjSrJ14
 coverImage: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg

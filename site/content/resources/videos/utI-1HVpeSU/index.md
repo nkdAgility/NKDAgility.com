@@ -2,7 +2,6 @@
 title: "Quotes  Dictatorship vs Democracy"
 date: 10/15/2023 07:00:31
 videoId: utI-1HVpeSU
-etag: osx4wajGXbdRL1iBScE5j15yWUI
 url: /resources/videos/quotes-dictatorship-vs-democracy
 external_url: https://www.youtube.com/watch?v=utI-1HVpeSU
 coverImage: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg

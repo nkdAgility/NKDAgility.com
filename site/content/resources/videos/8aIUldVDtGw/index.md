@@ -1,9 +1,8 @@
 ---
-title: Stop starting and start finishing!
+title: "Stop starting and start finishing!"
 date: 01/31/2024 14:26:11
 videoId: 8aIUldVDtGw
-etag: wRQWhbQoU7l3N_IcycK-Poj3eno
-url: /resources/videos/stop-starting-and-start-finishing
+url: /resources/videos/stop-starting-and-start-finishing!
 external_url: https://www.youtube.com/watch?v=8aIUldVDtGw
 coverImage: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496

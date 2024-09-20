@@ -2,7 +2,6 @@
 title: "75% of those organizations using Scrum will not succeed in getting the benefit - Ken Schwaber"
 date: 10/06/2023 07:00:16
 videoId: dT1_zHfzto0
-etag: uDMTvXKfqk-Y3uUHjvf5s2Vb_NQ
 url: /resources/videos/75%-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit---ken-schwaber
 external_url: https://www.youtube.com/watch?v=dT1_zHfzto0
 coverImage: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg

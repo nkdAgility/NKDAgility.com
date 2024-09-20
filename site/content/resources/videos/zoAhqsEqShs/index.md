@@ -2,7 +2,6 @@
 title: "What is the most interesting outcome you have achieved as an agile consultant?"
 date: 03/20/2023 07:00:20
 videoId: zoAhqsEqShs
-etag: ruO8IWPoN6yqAV4q3nAXTK-6dUY
 url: /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=zoAhqsEqShs
 coverImage: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg

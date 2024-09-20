@@ -2,7 +2,6 @@
 title: "5 kinds of Agile bandits: Special Sprints"
 date: 01/04/2024 11:09:15
 videoId: rEqytRyOHGI
-etag: TqQXe_fLdQUq-VeZWNOZ_hTjZfc
 url: /resources/videos/5-kinds-of-agile-bandits--special-sprints
 external_url: https://www.youtube.com/watch?v=rEqytRyOHGI
 coverImage: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg

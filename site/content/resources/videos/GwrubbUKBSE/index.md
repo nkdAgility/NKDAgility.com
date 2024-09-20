@@ -2,7 +2,6 @@
 title: "30th March 2020: Office Hours \ Ask Me Anything"
 date: 04/10/2020 18:32:34
 videoId: GwrubbUKBSE
-etag: VVQ2NJCbIa_rKzfUksbRumPkIhE
 url: /resources/videos/30th-march-2020--office-hours---ask-me-anything
 external_url: https://www.youtube.com/watch?v=GwrubbUKBSE
 coverImage: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg

@@ -2,7 +2,6 @@
 title: "Biggest contribution from a product owner that you know of?"
 date: 06/13/2023 11:32:18
 videoId: 2IuL2Qvvbfk
-etag: y1Tmty0OyyDnqonNwxZcCD4s1eo
 url: /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
 external_url: https://www.youtube.com/watch?v=2IuL2Qvvbfk
 coverImage: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg

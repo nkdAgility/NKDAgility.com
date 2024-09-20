@@ -2,7 +2,6 @@
 title: "#shorts 7 Virtues of #agile. Humility"
 date: 12/12/2023 11:00:04
 videoId: 2cSsuEzGkvU
-etag: SPiNxHamwz2jWpShQhYAo4K5AKY
 url: /resources/videos/#shorts-7-virtues-of-#agile.-humility
 external_url: https://www.youtube.com/watch?v=2cSsuEzGkvU
 coverImage: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg

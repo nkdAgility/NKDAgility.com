@@ -2,7 +2,6 @@
 title: "Can organizations run an Applying Professional Scrum workshop? How will that help them?"
 date: 03/29/2023 07:00:17
 videoId: olryF91pOEY
-etag: stHkB5CLNKc0R_e-Uj2WL09Y1pQ
 url: /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop--how-will-that-help-them-
 external_url: https://www.youtube.com/watch?v=olryF91pOEY
 coverImage: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Who should lead the sprint review?"
 date: 09/06/2023 07:00:15
 videoId: n6Suj-swl88
-etag: 2T2VXz2MieCokCcCmUrVqi89Lp4
 url: /resources/videos/who-should-lead-the-sprint-review-
 external_url: https://www.youtube.com/watch?v=n6Suj-swl88
 coverImage: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg

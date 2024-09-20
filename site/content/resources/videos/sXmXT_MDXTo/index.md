@@ -2,7 +2,6 @@
 title: "Can you provide an overview of your DevOps consulting services and explain who can benefit the most"
 date: 08/16/2024 07:18:10
 videoId: sXmXT_MDXTo
-etag: L30dcn57PSkt3LGxTMNoDpILIr0
 url: /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 external_url: https://www.youtube.com/watch?v=sXmXT_MDXTo
 coverImage: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "7 signs of the #agile apocalypse. Plague"
 date: 11/08/2023 11:00:53
 videoId: pDAL84mht3Y
-etag: BO7K-qbcz6lRmCVvaIQqW2jwiNw
 url: /resources/videos/7-signs-of-the-#agile-apocalypse.-plague
 external_url: https://www.youtube.com/watch?v=pDAL84mht3Y
 coverImage: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg

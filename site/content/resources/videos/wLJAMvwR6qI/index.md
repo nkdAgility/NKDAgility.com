@@ -2,7 +2,6 @@
 title: "PPDV learning outcomes with Dr Joanna Plaskonka"
 date: 08/20/2024 07:06:21
 videoId: wLJAMvwR6qI
-etag: 2r31iSA2Q6SFYPlqItjygtgs97Y
 url: /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 external_url: https://www.youtube.com/watch?v=wLJAMvwR6qI
 coverImage: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg

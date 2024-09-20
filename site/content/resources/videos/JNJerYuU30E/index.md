@@ -2,7 +2,6 @@
 title: "Most Influential Person in Agile - Jerónimo Palacios"
 date: 05/04/2023 07:00:07
 videoId: JNJerYuU30E
-etag: nJ3WgNB22Eqa_fF3FsyswfARtF8
 url: /resources/videos/most-influential-person-in-agile---jerónimo-palacios
 external_url: https://www.youtube.com/watch?v=JNJerYuU30E
 coverImage: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg

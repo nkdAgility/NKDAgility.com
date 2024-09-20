@@ -2,7 +2,6 @@
 title: "What are the most common challenges you are contracted to solve in a DevOps consulting gig?"
 date: 04/21/2023 07:00:06
 videoId: LI6G1awAUyU
-etag: gLlSL5lKeAjvninchTRrH2OUrj0
 url: /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 external_url: https://www.youtube.com/watch?v=LI6G1awAUyU
 coverImage: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg

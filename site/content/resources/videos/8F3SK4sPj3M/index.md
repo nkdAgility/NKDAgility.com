@@ -2,7 +2,6 @@
 title: "Why validate your advanced product ownership skills with a PSPO A?"
 date: 06/08/2023 11:00:05
 videoId: 8F3SK4sPj3M
-etag: xtJCM1gs_iweUyF5sSrR7ROt_Ik
 url: /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 external_url: https://www.youtube.com/watch?v=8F3SK4sPj3M
 coverImage: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg

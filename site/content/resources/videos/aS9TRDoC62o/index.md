@@ -2,7 +2,6 @@
 title: "If a client hasn't considered devops consulting as part of their agile consulting needs, why should"
 date: 08/21/2023 07:00:01
 videoId: aS9TRDoC62o
-etag: N4NQnux0BvGpUvbvWSN_8ptDLCU
 url: /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 external_url: https://www.youtube.com/watch?v=aS9TRDoC62o
 coverImage: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg

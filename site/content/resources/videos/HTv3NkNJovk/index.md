@@ -2,7 +2,6 @@
 title: "Why is Satya Nadella a better example of agile leadership than Steve Jobs?"
 date: 02/01/2023 07:00:10
 videoId: HTv3NkNJovk
-etag: 6y5ddERFdrdtBsPkLHwi9j9U-LA
 url: /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 external_url: https://www.youtube.com/watch?v=HTv3NkNJovk
 coverImage: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Biggest misconception about a scrum master"
 date: 06/21/2023 11:00:52
 videoId: zs0q_zz8-JY
-etag: s23EYFOYDcHR0yhKZWlXOKlMk0A
 url: /resources/videos/biggest-misconception-about-a-scrum-master
 external_url: https://www.youtube.com/watch?v=zs0q_zz8-JY
 coverImage: https://i.ytimg.com/vi/zs0q_zz8-JY/maxresdefault.jpg

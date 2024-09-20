@@ -2,7 +2,6 @@
 title: "What is product discovery and how does it differ from how we've always developed products?"
 date: 08/26/2024 07:44:38
 videoId: Qzw3FSl6hy4
-etag: AHwfxZc0dMWY9Wfh8kEmFGw3pWs
 url: /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 external_url: https://www.youtube.com/watch?v=Qzw3FSl6hy4
 coverImage: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg

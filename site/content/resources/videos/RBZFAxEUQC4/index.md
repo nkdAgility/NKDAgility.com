@@ -2,7 +2,6 @@
 title: "Lust! 7 Deadly Sins of Agile"
 date: 10/12/2023 07:00:12
 videoId: RBZFAxEUQC4
-etag: cItpohriG5wo7dAENkEpK0nMOYU
 url: /resources/videos/lust!-7-deadly-sins-of-agile
 external_url: https://www.youtube.com/watch?v=RBZFAxEUQC4
 coverImage: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg

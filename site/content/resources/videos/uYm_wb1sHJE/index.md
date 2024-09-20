@@ -2,7 +2,6 @@
 title: "What is the sprint review workshop and how will it help organizations?"
 date: 06/30/2023 07:00:18
 videoId: uYm_wb1sHJE
-etag: yPdGd2wMVStGBICi020ymmaNslQ
 url: /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 external_url: https://www.youtube.com/watch?v=uYm_wb1sHJE
 coverImage: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg

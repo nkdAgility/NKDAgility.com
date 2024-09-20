@@ -2,7 +2,6 @@
 title: "Some of the features of Team Web Access are not available to you in TFS 2013"
 date: 01/15/2014 14:55:37
 videoId: KRC89A7RtrM
-etag: NKGsz5pro4DBPidJKVxVsM7dEk4
 url: /resources/videos/some-of-the-features-of-team-web-access-are-not-available-to-you-in-tfs-2013
 external_url: https://www.youtube.com/watch?v=KRC89A7RtrM
 coverImage: https://i.ytimg.com/vi/KRC89A7RtrM/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Why Most Scrum Masters only have PSMI!"
 date: 04/07/2023 07:00:20
 videoId: vWfebO_pwIU
-etag: OzjnQTMT6jV1mRwcmTLGA-T7A9c
 url: /resources/videos/why-most-scrum-masters-only-have-psmi!
 external_url: https://www.youtube.com/watch?v=vWfebO_pwIU
 coverImage: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg

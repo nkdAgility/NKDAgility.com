@@ -2,7 +2,6 @@
 title: "Are there any scrum courses that teach you how to scale scrum?"
 date: 10/18/2023 07:00:23
 videoId: vubnDXYXiL0
-etag: u2TVXE1bt_oC-bqa4mjqf--T0WM
 url: /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 external_url: https://www.youtube.com/watch?v=vubnDXYXiL0
 coverImage: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg

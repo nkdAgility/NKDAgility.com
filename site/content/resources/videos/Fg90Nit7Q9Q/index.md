@@ -2,7 +2,6 @@
 title: "Can you align DevOps and Software Engineering teams through Scrum"
 date: 06/16/2023 14:30:05
 videoId: Fg90Nit7Q9Q
-etag: IwQXnJ7Ls9kgbYaj6SfVWDib2T4
 url: /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
 external_url: https://www.youtube.com/watch?v=Fg90Nit7Q9Q
 coverImage: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg

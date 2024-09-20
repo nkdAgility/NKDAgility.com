@@ -2,7 +2,6 @@
 title: "Ep 003: Daniel Vacanti on live online PSK in Edinburgh"
 date: 04/01/2020 16:26:05
 videoId: xaLNCbr9o3Y
-etag: Ai8PpgSDXd_ch0H2co0CDLUmRJY
 url: /resources/videos/ep-003--daniel-vacanti-on-live-online-psk-in-edinburgh
 external_url: https://www.youtube.com/watch?v=xaLNCbr9o3Y
 coverImage: https://i.ytimg.com/vi/xaLNCbr9o3Y/maxresdefault.jpg

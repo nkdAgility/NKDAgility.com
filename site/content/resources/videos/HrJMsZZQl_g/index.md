@@ -2,7 +2,6 @@
 title: "When is an APS course appropriate for a scrum team?"
 date: 10/12/2023 08:32:45
 videoId: HrJMsZZQl_g
-etag: kKH3kiDTGHIvhqLNtRkn18Ci7GQ
 url: /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
 external_url: https://www.youtube.com/watch?v=HrJMsZZQl_g
 coverImage: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg

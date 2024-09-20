@@ -2,7 +2,6 @@
 title: "What are some of the most common reasons why companies ask you to do a migration via Azure DevOps"
 date: 07/31/2024 09:25:17
 videoId: _rJoehoYIVA
-etag: 9w0fKpz7M5lKDbgHLy-qBEFg6j8
 url: /resources/videos/what-are-some-of-the-most-common-reasons-why-companies-ask-you-to-do-a-migration-via-azure-devops
 external_url: https://www.youtube.com/watch?v=_rJoehoYIVA
 coverImage: https://i.ytimg.com/vi/_rJoehoYIVA/maxresdefault.jpg

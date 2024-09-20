@@ -2,7 +2,6 @@
 title: "Compromises you need to think about for your #azuredevops migration. Excerpt 2"
 date: 09/19/2024 11:05:27
 videoId: KzNbrrBCmdE
-etag: x4_Vi_YRjrlI_yOH7Vs9f32zzTY
 url: /resources/videos/compromises-you-need-to-think-about-for-your-#azuredevops-migration.-excerpt-2
 external_url: https://www.youtube.com/watch?v=KzNbrrBCmdE
 coverImage: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg

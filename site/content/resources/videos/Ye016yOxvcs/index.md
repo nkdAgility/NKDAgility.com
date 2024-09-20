@@ -2,7 +2,6 @@
 title: "5 critical skill to master as an agile consultant,  Part 1"
 date: 08/07/2023 07:00:10
 videoId: Ye016yOxvcs
-etag: Qbg008V7zTT5-VV-UTR4wTDua3k
 url: /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 external_url: https://www.youtube.com/watch?v=Ye016yOxvcs
 coverImage: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg

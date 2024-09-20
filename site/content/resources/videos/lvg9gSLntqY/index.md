@@ -2,7 +2,6 @@
 title: "Why does project management not work in complex environments?"
 date: 05/23/2023 07:00:30
 videoId: lvg9gSLntqY
-etag: USXQavRZDzrNBgMTsvVm3MRSxbw
 url: /resources/videos/why-does-project-management-not-work-in-complex-environments-
 external_url: https://www.youtube.com/watch?v=lvg9gSLntqY
 coverImage: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg

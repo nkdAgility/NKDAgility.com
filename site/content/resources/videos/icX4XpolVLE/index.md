@@ -2,7 +2,6 @@
 title: "My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader."
 date: 04/04/2024 11:34:59
 videoId: icX4XpolVLE
-etag: lJnMa-sOqxuUg5xdou7dWSxhNds
 url: /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader.
 external_url: https://www.youtube.com/watch?v=icX4XpolVLE
 coverImage: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "#shorts 5 things you would teach a #produtowner apprentice. Part 5"
 date: 12/19/2023 11:00:00
 videoId: -T1e8hjLt24
-etag: yzGZgQWFWitK7q8ipr39gH0zWqU
 url: /resources/videos/#shorts-5-things-you-would-teach-a-#produtowner-apprentice.-part-5
 external_url: https://www.youtube.com/watch?v=-T1e8hjLt24
 coverImage: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg

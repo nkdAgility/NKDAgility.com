@@ -2,7 +2,6 @@
 title: "What is the hardest part of working with a brand new scrum team?"
 date: 02/03/2023 07:00:00
 videoId: -xMY9Heanjk
-etag: N0EEvtHyg5lHwaTpFQPxSv9Pre4
 url: /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 external_url: https://www.youtube.com/watch?v=-xMY9Heanjk
 coverImage: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg

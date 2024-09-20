@@ -2,7 +2,6 @@
 title: "Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps"
 date: 06/04/2020 02:05:28
 videoId: 5bgcpPqcGlw
-etag: HyHFxH3wrWhdeu1ea7Mc2wzpGVs
 url: /resources/videos/agile-evolution--live-site-culture-&-site-reliability-at-azure-devops
 external_url: https://www.youtube.com/watch?v=5bgcpPqcGlw
 coverImage: https://i.ytimg.com/vi/5bgcpPqcGlw/maxresdefault.jpg

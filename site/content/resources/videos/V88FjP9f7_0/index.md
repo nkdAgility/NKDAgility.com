@@ -1,8 +1,7 @@
 ---
-title: "Quotes: 'Less is More'. True or False?"
+title: "Quotes: "Less is More". True or False?"
 date: 10/14/2023 07:00:13
 videoId: V88FjP9f7_0
-etag: NX_v7GqSXxFogcbS-fPjTmX_qUg
 url: /resources/videos/quotes---less-is-more-.-true-or-false-
 external_url: https://www.youtube.com/watch?v=V88FjP9f7_0
 coverImage: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg

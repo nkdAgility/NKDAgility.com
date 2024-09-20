@@ -2,7 +2,6 @@
 title: "Does a client tell an agile consultant what they need or does it work the other way around?"
 date: 03/01/2023 07:00:00
 videoId: -Mz9cH0uiTQ
-etag: R5zJKsiEpow5K3b-Ltl_TxOcdU4
 url: /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 external_url: https://www.youtube.com/watch?v=-Mz9cH0uiTQ
 coverImage: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Professional Scrum with Nexus (SPS) with Certification: Learn skills to overcome scaling challenges"
 date: 08/23/2022 16:53:08
 videoId: sBBKKlfwlrA
-etag: lB9pDulIyqY9TU96iPcD0I6IhkY
 url: /resources/videos/professional-scrum-with-nexus-(sps)-with-certification--learn-skills-to-overcome-scaling-challenges
 external_url: https://www.youtube.com/watch?v=sBBKKlfwlrA
 coverImage: https://i.ytimg.com/vi/sBBKKlfwlrA/maxresdefault.jpg

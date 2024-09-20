@@ -2,7 +2,6 @@
 title: "Why does Agile focus on values and principles rather than a prescribed set of steps?"
 date: 01/23/2023 07:00:14
 videoId: Yesn-VHhQ4k
-etag: aXMuf5cxf9AN3kMAE8dRKiHdFdM
 url: /resources/videos/why-does-agile-focus-on-values-and-principles-rather-than-a-prescribed-set-of-steps-
 external_url: https://www.youtube.com/watch?v=Yesn-VHhQ4k
 coverImage: https://i.ytimg.com/vi/Yesn-VHhQ4k/maxresdefault.jpg

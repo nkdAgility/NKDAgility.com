@@ -2,7 +2,6 @@
 title: "What is product validation and why does it matter"
 date: 09/02/2024 15:30:15
 videoId: roWCOkmtfDs
-etag: Cjqo1fcMM4vUz5Y9ynFwLlAIsTE
 url: /resources/videos/what-is-product-validation-and-why-does-it-matter
 external_url: https://www.youtube.com/watch?v=roWCOkmtfDs
 coverImage: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Install TFS 2013 Basic"
 date: 01/14/2014 17:18:19
 videoId: U7wIQk1pus0
-etag: my-WT4i1NdOJ0we3Ol3KwmFiyNw
 url: /resources/videos/install-tfs-2013-basic
 external_url: https://www.youtube.com/watch?v=U7wIQk1pus0
 coverImage: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg

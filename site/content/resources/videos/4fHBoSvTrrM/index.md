@@ -2,7 +2,6 @@
 title: "How will a PSM II course help a scrum master progress in their career?"
 date: 04/03/2023 07:00:03
 videoId: 4fHBoSvTrrM
-etag: EHuzZlB_KG0yYQp4MtQAJaZQPCA
 url: /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 external_url: https://www.youtube.com/watch?v=4fHBoSvTrrM
 coverImage: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Dogma versus Empiricism in a consulting engagement"
 date: 08/11/2023 07:00:08
 videoId: Iy33x8E9JMQ
-etag: My741wNQj4xUXjTzLBzXvPeOiVk
 url: /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 external_url: https://www.youtube.com/watch?v=Iy33x8E9JMQ
 coverImage: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg

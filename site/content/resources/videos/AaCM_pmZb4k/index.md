@@ -2,7 +2,6 @@
 title: "What are hierarchies of competence vs control?"
 date: 04/13/2023 14:25:06
 videoId: AaCM_pmZb4k
-etag: adoWZJcZ220MP8ro48KicqdUBSI
 url: /resources/videos/what-are-hierarchies-of-competence-vs-control-
 external_url: https://www.youtube.com/watch?v=AaCM_pmZb4k
 coverImage: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg

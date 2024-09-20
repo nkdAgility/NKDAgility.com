@@ -2,7 +2,6 @@
 title: "One thing an agile coach MUST do to be successful?"
 date: 08/31/2023 07:00:17
 videoId: g1GBes-dVzE
-etag: 5XGEdQfWQyJ8a2ooESTkYT0KbN0
 url: /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 external_url: https://www.youtube.com/watch?v=g1GBes-dVzE
 coverImage: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg

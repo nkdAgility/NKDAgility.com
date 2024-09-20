@@ -2,7 +2,6 @@
 title: "What is the most valuable thing you have learned through training people?"
 date: 02/07/2023 07:00:06
 videoId: 8uPjXXt5lo4
-etag: 0933uDPnALb3KiO-HoiAtbupiXU
 url: /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 external_url: https://www.youtube.com/watch?v=8uPjXXt5lo4
 coverImage: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg

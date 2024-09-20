@@ -2,7 +2,6 @@
 title: "Why is the Professional Agile Leadership   Essentials course a natural evolution for an experienced"
 date: 07/27/2023 07:00:04
 videoId: 7R9_bYOswhk
-etag: MRiBe9epk9qhy7J-SXceM6BInv8
 url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 external_url: https://www.youtube.com/watch?v=7R9_bYOswhk
 coverImage: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg

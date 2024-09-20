@@ -2,7 +2,6 @@
 title: "Why do you trust Simon to deliver the APS course for NKD Agility"
 date: 08/29/2023 07:00:14
 videoId: dTE8-Z1ZgA4
-etag: uu7T1WdVx0NNlixrfPIk3n-453Q
 url: /resources/videos/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
 external_url: https://www.youtube.com/watch?v=dTE8-Z1ZgA4
 coverImage: https://i.ytimg.com/vi/dTE8-Z1ZgA4/maxresdefault.jpg

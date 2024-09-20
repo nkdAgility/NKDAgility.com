@@ -2,7 +2,6 @@
 title: "What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance"
 date: 09/20/2023 07:00:00
 videoId: a6aw7xmS2oc
-etag: IYJbfUXxngcQ_kRIlqlSxIJ3yqg
 url: /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 external_url: https://www.youtube.com/watch?v=a6aw7xmS2oc
 coverImage: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg

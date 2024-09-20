@@ -2,7 +2,6 @@
 title: "What is the sprint planning workshop and how will it help organizations?"
 date: 06/29/2023 07:00:19
 videoId: xJsuDbsFzlw
-etag: I0KbtBxPvc8T_toVQRt6LLmDumA
 url: /resources/videos/what-is-the-sprint-planning-workshop-and-how-will-it-help-organizations-
 external_url: https://www.youtube.com/watch?v=xJsuDbsFzlw
 coverImage: https://i.ytimg.com/vi/xJsuDbsFzlw/maxresdefault.jpg

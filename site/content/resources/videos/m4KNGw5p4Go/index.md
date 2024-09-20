@@ -2,7 +2,6 @@
 title: "What you will be able to do at the end of the PPDV course"
 date: 08/11/2024 22:00:33
 videoId: m4KNGw5p4Go
-etag: F7U-iQO6K2GDkV96bkf6mf9BQLI
 url: /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 external_url: https://www.youtube.com/watch?v=m4KNGw5p4Go
 coverImage: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg

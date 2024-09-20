@@ -2,7 +2,6 @@
 title: "Talk us through your experience with Azure DevOps"
 date: 07/31/2024 09:21:03
 videoId: isU2kPc5HFw
-etag: nRYcZr912efM8ST28RYRzcaiatM
 url: /resources/videos/talk-us-through-your-experience-with-azure-devops
 external_url: https://www.youtube.com/watch?v=isU2kPc5HFw
 coverImage: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg

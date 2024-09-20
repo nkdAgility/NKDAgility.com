@@ -2,7 +2,6 @@
 title: "Greed! 7 Deadly Sins of Agile"
 date: 10/11/2023 12:00:36
 videoId: fZLGlqMdejA
-etag: qhdiKGX8dttp83x7qnj_flfnHhg
 url: /resources/videos/greed!-7-deadly-sins-of-agile
 external_url: https://www.youtube.com/watch?v=fZLGlqMdejA
 coverImage: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg

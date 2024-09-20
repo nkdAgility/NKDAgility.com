@@ -2,7 +2,6 @@
 title: "Does #Kanban integrate with a #Scrum environment?"
 date: 02/15/2024 07:00:31
 videoId: zltmMb2EbDE
-etag: N3IScBSC7gKZ9m0yj9jQRB1spGI
 url: /resources/videos/does-#kanban-integrate-with-a-#scrum-environment-
 external_url: https://www.youtube.com/watch?v=zltmMb2EbDE
 coverImage: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "In high competition markets, how does scrum product development help acquire and retain customers?"
 date: 02/13/2023 07:00:21
 videoId: o0VJuVhm0pQ
-etag: -F_JsVH0G4L_ZEv6elNNUGS16Cc
 url: /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
 external_url: https://www.youtube.com/watch?v=o0VJuVhm0pQ
 coverImage: https://i.ytimg.com/vi/o0VJuVhm0pQ/maxresdefault.jpg

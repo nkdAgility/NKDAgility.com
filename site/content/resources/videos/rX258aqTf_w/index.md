@@ -2,7 +2,6 @@
 title: "In what circumstances is agile consulting appropriate?"
 date: 01/06/2023 04:52:40
 videoId: rX258aqTf_w
-etag: vmj2r55s-R2xaesu3RI-1i4X-c0
 url: /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
 external_url: https://www.youtube.com/watch?v=rX258aqTf_w
 coverImage: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg

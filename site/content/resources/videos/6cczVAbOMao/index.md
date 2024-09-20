@@ -2,7 +2,6 @@
 title: "How critical is a product owner in developing a great product backlog?"
 date: 05/31/2023 07:00:05
 videoId: 6cczVAbOMao
-etag: 5H4Mv8Rh_g3Egvu_23IUo0NTKLc
 url: /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 external_url: https://www.youtube.com/watch?v=6cczVAbOMao
 coverImage: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg

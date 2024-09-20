@@ -2,7 +2,6 @@
 title: "Slaying the dragons and how to successfully descale at scale with BCS & FoWS"
 date: 03/25/2020 21:07:01
 videoId: i_DglXgaePM
-etag: 5R9hBU1VB0xBAy3A1grA3KyDBD4
 url: /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
 external_url: https://www.youtube.com/watch?v=i_DglXgaePM
 coverImage: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Famine! 7 Harbingers agile apocalypse"
 date: 10/19/2023 15:00:30
 videoId: W3H9z28g9R8
-etag: UNG8DH73CKbFp5A05BtF-ig6EVM
 url: /resources/videos/famine!-7-harbingers-agile-apocalypse
 external_url: https://www.youtube.com/watch?v=W3H9z28g9R8
 coverImage: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg

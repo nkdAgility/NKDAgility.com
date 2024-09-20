@@ -2,7 +2,6 @@
 title: "Wrath! 7 deadly sins of Agile"
 date: 10/16/2023 11:00:31
 videoId: U18nA0YFgu0
-etag: EIYwjMUKjAnJiLbDMxIhDnm2p8Y
 url: /resources/videos/wrath!-7-deadly-sins-of-agile
 external_url: https://www.youtube.com/watch?v=U18nA0YFgu0
 coverImage: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg

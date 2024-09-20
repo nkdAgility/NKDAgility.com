@@ -2,7 +2,6 @@
 title: "Why is Kanban such a popular approach for people in creative industries"
 date: 08/25/2023 07:00:00
 videoId: -xrtaW5NlP0
-etag: rKRQzsl2xuaFFQL-1W2d0F_BR5Q
 url: /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 external_url: https://www.youtube.com/watch?v=-xrtaW5NlP0
 coverImage: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg

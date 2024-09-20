@@ -2,7 +2,6 @@
 title: "12th May 2020: Office Hours \ Ask Me Anything"
 date: 05/13/2020 05:03:57
 videoId: jCqRHt8LLgw
-etag: kVECer0vh1R4tqVa0--L3FUbOu4
 url: /resources/videos/12th-may-2020--office-hours---ask-me-anything
 external_url: https://www.youtube.com/watch?v=jCqRHt8LLgw
 coverImage: https://i.ytimg.com/vi/jCqRHt8LLgw/maxresdefault.jpg

@@ -2,7 +2,6 @@
 title: "Why is #Kanban becoming popular with creative industries?"
 date: 02/13/2024 07:00:14
 videoId: MDpthtdJgNk
-etag: GOWEHcaMxYh8PD1CM3Dzb2VV9nw
 url: /resources/videos/why-is-#kanban-becoming-popular-with-creative-industries-
 external_url: https://www.youtube.com/watch?v=MDpthtdJgNk
 coverImage: https://i.ytimg.com/vi/MDpthtdJgNk/maxresdefault.jpg

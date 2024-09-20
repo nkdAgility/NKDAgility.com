@@ -2,7 +2,6 @@
 title: "How much of an impact can scrum have in a DevOps environment"
 date: 06/15/2023 14:45:02
 videoId: LiKE3zHuOuY
-etag: V7-uz4JovP_zNz2ya0ZxL0yzPS0
 url: /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 external_url: https://www.youtube.com/watch?v=LiKE3zHuOuY
 coverImage: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
