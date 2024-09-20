@@ -1,15 +1,15 @@
 ---
-title: "Mastering Azure DevOps Migration: A Comprehensive Guide by NKDAgility"
+title: "Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility"
 date: 10/17/2019 19:16:03
 videoId: RCJsST0xBCE
-url: /resources/videos/mastering-azure-devops-migration--a-comprehensive-guide-by-nkdagility
+url: /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 external_url: https://www.youtube.com/watch?v=RCJsST0xBCE
 coverImage: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: False
 ---
 
-# Mastering Azure DevOps Migration: A Comprehensive Guide by NKDAgility
+# Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
 
 Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 

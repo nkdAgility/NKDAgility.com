@@ -1,15 +1,15 @@
 ---
-title: "Hardest part of becoming a professional #scrummaster?"
+title: "Hardest part of becoming a professional scrummaster?"
 date: 08/02/2023 07:00:12
 videoId: MCdI76dGVMM
-url: /resources/videos/hardest-part-of-becoming-a-professional-#scrummaster-
+url: /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
 external_url: https://www.youtube.com/watch?v=MCdI76dGVMM
 coverImage: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
 duration: 32
 isShort: True
 ---
 
-# Hardest part of becoming a professional #scrummaster?
+# Hardest part of becoming a professional scrummaster?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the hardest part of becoming a #professionalscrummaster 
 

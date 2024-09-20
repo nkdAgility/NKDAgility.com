@@ -1,15 +1,15 @@
 ---
-title: "Overview of applying metrics for predictability #Kanban course"
+title: "Overview of applying metrics for predictability Kanban course"
 date: 02/20/2024 07:00:27
 videoId: gjrvSJWE0Gk
-url: /resources/videos/overview-of-applying-metrics-for-predictability-#kanban-course
+url: /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 external_url: https://www.youtube.com/watch?v=gjrvSJWE0Gk
 coverImage: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 isShort: False
 ---
 
-# Overview of applying metrics for predictability #Kanban course
+# Overview of applying metrics for predictability Kanban course
 
 🚀 Enhance Team Predictability with Kanban: Unveil the "Applying Metrics for Predictability" Course 🚀
 

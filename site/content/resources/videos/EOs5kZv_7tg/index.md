@@ -1,5 +1,5 @@
 ---
-title: "Why is Johanna a great teacher for the Professional Agile Leadership   Essentials course?"
+title: "Why is Johanna a great teacher for the Professional Agile Leadership Essentials course?"
 date: 07/26/2023 04:03:17
 videoId: EOs5kZv_7tg
 url: /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
@@ -9,7 +9,7 @@ duration: 131
 isShort: False
 ---
 
-# Why is Johanna a great teacher for the Professional Agile Leadership   Essentials course?
+# Why is Johanna a great teacher for the Professional Agile Leadership Essentials course?
 
 The Professional Agile Leadership - Essentials course is an introduction to #agileleadership and a powerful workshop for helping #leadership and #executive teams transition from management to #leadership.
 

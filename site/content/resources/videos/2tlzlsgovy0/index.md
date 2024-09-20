@@ -1,5 +1,5 @@
 ---
-title: "6 things you didn't know about Agile Product Management but really should  Part 2"
+title: "6 things you didn't know about Agile Product Management but really should Part 2"
 date: 07/03/2024 06:45:00
 videoId: 2tlzlsgovy0
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-2
@@ -9,7 +9,7 @@ duration: 56
 isShort: True
 ---
 
-# 6 things you didn't know about Agile Product Management but really should  Part 2
+# 6 things you didn't know about Agile Product Management but really should Part 2
 
 Visit https://www.nkdagility.com Is your team truly Agile? Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals? 🎯
 

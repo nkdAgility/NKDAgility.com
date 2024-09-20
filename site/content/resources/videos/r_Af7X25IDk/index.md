@@ -1,15 +1,15 @@
 ---
-title: "Ep005: Leading Agile Change"
+title: "Ep005 - Leading Agile Change"
 date: 04/17/2020 18:57:11
 videoId: r_Af7X25IDk
-url: /resources/videos/ep005--leading-agile-change
+url: /resources/videos/ep005-leading-agile-change
 external_url: https://www.youtube.com/watch?v=r_Af7X25IDk
 coverImage: https://i.ytimg.com/vi/r_Af7X25IDk/maxresdefault.jpg
 duration: 3615
 isShort: False
 ---
 
-# Ep005: Leading Agile Change
+# Ep005 - Leading Agile Change
 
 Leading Agile Change is hard and many companies have already been through their agile evolution. What learnings have they found to increase the value delivered. Martin will go through a number of excellent complimentary practices that might provide you with value.
 

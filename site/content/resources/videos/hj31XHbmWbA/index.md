@@ -1,5 +1,5 @@
 ---
-title: "Quotes  You can't connect the dots looking forward; you can only connect them looking backwards"
+title: "Quotes You can't connect the dots looking forward; you can only connect them looking backwards"
 date: 10/13/2023 11:00:40
 videoId: hj31XHbmWbA
 url: /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
@@ -9,7 +9,7 @@ duration: 46
 isShort: True
 ---
 
-# Quotes  You can't connect the dots looking forward; you can only connect them looking backwards
+# Quotes You can't connect the dots looking forward; you can only connect them looking backwards
 
 #shorts #shortsvideo #shortvideo Steve Jobs said that we can't connect the dots looking forward, we can only do so looking backward. Is that true of #productdevelopment too? Martin Hinshelwood weighs in.
 

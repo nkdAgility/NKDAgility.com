@@ -1,15 +1,15 @@
 ---
-title: "Do you think #immersivelearning is the future of Scrum training? If so, why?"
+title: "Do you think immersivelearning is the future of Scrum training? If so, why?"
 date: 11/23/2023 08:30:06
 videoId: Frqfd0EPj_4
-url: /resources/videos/do-you-think-#immersivelearning-is-the-future-of-scrum-training--if-so,-why-
+url: /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 external_url: https://www.youtube.com/watch?v=Frqfd0EPj_4
 coverImage: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 isShort: False
 ---
 
-# Do you think #immersivelearning is the future of Scrum training? If so, why?
+# Do you think immersivelearning is the future of Scrum training? If so, why?
 
 As more industries find themselves dealing with increased #complexity, #scrum becomes a great #agileframework to help them navigate uncertainty and move forward effectively despite #complexity.
 

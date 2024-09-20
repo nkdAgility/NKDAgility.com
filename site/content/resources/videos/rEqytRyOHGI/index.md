@@ -1,15 +1,15 @@
 ---
-title: "5 kinds of Agile bandits: Special Sprints"
+title: "5 kinds of Agile bandits - Special Sprints"
 date: 01/04/2024 11:09:15
 videoId: rEqytRyOHGI
-url: /resources/videos/5-kinds-of-agile-bandits--special-sprints
+url: /resources/videos/5-kinds-of-agile-bandits-special-sprints
 external_url: https://www.youtube.com/watch?v=rEqytRyOHGI
 coverImage: https://i.ytimg.com/vi/rEqytRyOHGI/maxresdefault.jpg
 duration: 291
 isShort: False
 ---
 
-# 5 kinds of Agile bandits: Special Sprints
+# 5 kinds of Agile bandits - Special Sprints
 
 *Unraveling the Myth of Special Sprints in Agile: Insights and Impact* - Discover the truth about special sprints in Agile and their impact on product delivery. An eye-opening exploration for Agile enthusiasts and professionals. 🔍💡
 

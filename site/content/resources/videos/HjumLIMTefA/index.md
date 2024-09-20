@@ -1,5 +1,5 @@
 ---
-title: "5 reasons why you love the immersive learning experience for students  Part 5"
+title: "5 reasons why you love the immersive learning experience for students Part 5"
 date: 02/04/2024 11:00:23
 videoId: HjumLIMTefA
 url: /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
@@ -9,7 +9,7 @@ duration: 43
 isShort: True
 ---
 
-# 5 reasons why you love the immersive learning experience for students  Part 5
+# 5 reasons why you love the immersive learning experience for students Part 5
 
 #shorts #shortvideo #shortsvideo 5 reasons why I love the #immersivelearning experience for #Scrum students. Reason 5. Visit https://www.nkdagility.com #agile #scrum #scrumtraining #scrumorg #scrumcertification #immersive
 

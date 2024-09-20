@@ -1,15 +1,15 @@
 ---
-title: "7 signs of the #agile apocalypse. Chaos"
+title: "7 signs of the agile apocalypse. Chaos"
 date: 11/09/2023 10:45:01
 videoId: ItvOiaC32Hs
-url: /resources/videos/7-signs-of-the-#agile-apocalypse.-chaos
+url: /resources/videos/7-signs-of-the-agile-apocalypse.-chaos
 external_url: https://www.youtube.com/watch?v=ItvOiaC32Hs
 coverImage: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: True
 ---
 
-# 7 signs of the #agile apocalypse. Chaos
+# 7 signs of the agile apocalypse. Chaos
 
 #shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty. A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer. Chaos, however, is a different kettle of fish and in this short video, Martin Hinshelwood explains why it isn't great for teams.
 

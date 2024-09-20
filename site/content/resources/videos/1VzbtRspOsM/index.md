@@ -1,15 +1,15 @@
 ---
-title: "Why is the PAL E #immersivelearning experience such a great fit for aspiring #agileleaders?"
+title: "Why is the PAL E immersivelearning experience such a great fit for aspiring agileleaders?"
 date: 11/24/2023 07:00:00
 videoId: 1VzbtRspOsM
-url: /resources/videos/why-is-the-pal-e-#immersivelearning-experience-such-a-great-fit-for-aspiring-#agileleaders-
+url: /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 external_url: https://www.youtube.com/watch?v=1VzbtRspOsM
 coverImage: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg
 duration: 239
 isShort: False
 ---
 
-# Why is the PAL E #immersivelearning experience such a great fit for aspiring #agileleaders?
+# Why is the PAL E immersivelearning experience such a great fit for aspiring agileleaders?
 
 If you're new to #agile or #scrum, the transition from traditional #manager to #agileleadership can be daunting. In some ways, it's counterintuitive to everything you have learned ascending the corporate ladder.
 

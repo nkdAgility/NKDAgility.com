@@ -1,15 +1,15 @@
 ---
-title: "5 ghosts of #agile past. 3 questions"
+title: "5 ghosts of agile past. 3 questions"
 date: 01/02/2024 07:00:20
 videoId: eLkJ_YEhMB0
-url: /resources/videos/5-ghosts-of-#agile-past.-3-questions
+url: /resources/videos/5-ghosts-of-agile-past.-3-questions
 external_url: https://www.youtube.com/watch?v=eLkJ_YEhMB0
 coverImage: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: False
 ---
 
-# 5 ghosts of #agile past. 3 questions
+# 5 ghosts of agile past. 3 questions
 
 *Revamping Agile: Beyond Routine Scrums and Retrospectives* - Discover how to transform your Agile Scrum meetings from routine check-ins to value-driven sessions. Martin delves into effective strategies for maximizing team productivity and outcome focus.
 

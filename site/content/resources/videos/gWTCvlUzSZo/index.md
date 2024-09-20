@@ -1,5 +1,5 @@
 ---
-title: "5 tools that Scrum Masters love.  Part 3"
+title: "5 tools that Scrum Masters love. Part 3"
 date: 09/21/2023 07:00:14
 videoId: gWTCvlUzSZo
 url: /resources/videos/5-tools-that-scrum-masters-love.-part-3
@@ -9,7 +9,7 @@ duration: 45
 isShort: True
 ---
 
-# 5 tools that Scrum Masters love.  Part 3
+# 5 tools that Scrum Masters love. Part 3
 
 Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg
 

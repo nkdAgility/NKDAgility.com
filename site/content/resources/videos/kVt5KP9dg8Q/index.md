@@ -2,7 +2,7 @@
 title: "Is Your ENTIRE Development Ecosystem Truly Agile? | The Agile Reality Check [6/6]"
 date: 08/02/2024 06:45:02
 videoId: kVt5KP9dg8Q
-url: /resources/videos/is-your-entire-development-ecosystem-truly-agile----the-agile-reality-check-[6-6]
+url: /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 external_url: https://www.youtube.com/watch?v=kVt5KP9dg8Q
 coverImage: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 345

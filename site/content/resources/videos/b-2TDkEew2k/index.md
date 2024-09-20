@@ -1,15 +1,15 @@
 ---
-title: "#shorts 7 Virtues of #agile. Temperance"
+title: " shorts 7 Virtues of agile. Temperance"
 date: 12/05/2023 11:00:27
 videoId: b-2TDkEew2k
-url: /resources/videos/#shorts-7-virtues-of-#agile.-temperance
+url: /resources/videos/-shorts-7-virtues-of-agile.-temperance
 external_url: https://www.youtube.com/watch?v=b-2TDkEew2k
 coverImage: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: True
 ---
 
-# #shorts 7 Virtues of #agile. Temperance
+#  shorts 7 Virtues of agile. Temperance
 
 #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 
 

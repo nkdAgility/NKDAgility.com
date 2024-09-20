@@ -1,15 +1,15 @@
 ---
-title: "7 signs of the #agile apocalypse. The Antichrist"
+title: "7 signs of the agile apocalypse. The Antichrist"
 date: 11/07/2023 07:36:21
 videoId: T07AK-1FAK4
-url: /resources/videos/7-signs-of-the-#agile-apocalypse.-the-antichrist
+url: /resources/videos/7-signs-of-the-agile-apocalypse.-the-antichrist
 external_url: https://www.youtube.com/watch?v=T07AK-1FAK4
 coverImage: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: True
 ---
 
-# 7 signs of the #agile apocalypse. The Antichrist
+# 7 signs of the agile apocalypse. The Antichrist
 
 #shorts #shortsvideo #shortvideo In the context of the #agile industry, the anti-christ represents fake experts who sell snake oil and hype up customer expectations. In this short video, Martin Hinshelwood explains why they are a sign of the #agile apocalypse.
 

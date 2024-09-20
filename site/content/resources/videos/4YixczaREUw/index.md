@@ -1,15 +1,15 @@
 ---
-title: "Many folks say "Scrum is like communism; it does not work!" Are they right?"
+title: "Many folks say Scrum is like communism; it does not work! Are they right?"
 date: 05/06/2024 14:12:53
 videoId: 4YixczaREUw
-url: /resources/videos/many-folks-say--scrum-is-like-communism;-it-does-not-work!--are-they-right-
+url: /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 external_url: https://www.youtube.com/watch?v=4YixczaREUw
 coverImage: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: False
 ---
 
-# Many folks say "Scrum is like communism; it does not work!" Are they right?
+# Many folks say Scrum is like communism; it does not work! Are they right?
 
 This is a phrase I often hear from folks who have been unable to adapt their systems of work to incorporate the core philosophies, theories, and practices of Scrum. They sit and look at the signals coming from Scrum that things are broken and do nothing but say:
 

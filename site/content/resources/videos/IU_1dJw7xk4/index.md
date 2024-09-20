@@ -1,15 +1,15 @@
 ---
-title: "How long would it take to transition from traditional #projectmanagement to #kanban?"
+title: "How long would it take to transition from traditional projectmanagement to kanban?"
 date: 02/16/2024 07:00:10
 videoId: IU_1dJw7xk4
-url: /resources/videos/how-long-would-it-take-to-transition-from-traditional-#projectmanagement-to-#kanban-
+url: /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 external_url: https://www.youtube.com/watch?v=IU_1dJw7xk4
 coverImage: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 isShort: False
 ---
 
-# How long would it take to transition from traditional #projectmanagement to #kanban?
+# How long would it take to transition from traditional projectmanagement to kanban?
 
 🚀 Seamlessly Transition to Kanban from Traditional Project Management 🚀
 

@@ -1,5 +1,5 @@
 ---
-title: "Quotes  Dictatorship vs Democracy"
+title: "Quotes Dictatorship vs Democracy"
 date: 10/15/2023 07:00:31
 videoId: utI-1HVpeSU
 url: /resources/videos/quotes-dictatorship-vs-democracy
@@ -9,7 +9,7 @@ duration: 57
 isShort: True
 ---
 
-# Quotes  Dictatorship vs Democracy
+# Quotes Dictatorship vs Democracy
 
 #shorts #shortvideo #shortsvideo Are you better served by a dictator or a democracy when it comes to #productdevelopment? Martin Hinshelwood provides us with his thoughts
 

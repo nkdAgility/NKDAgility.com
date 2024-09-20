@@ -1,15 +1,15 @@
 ---
-title: "Why is lego a shit idea for a scrum trainer?  Part 2"
+title: "Why is lego a shit idea for a scrum trainer? Part 2"
 date: 10/04/2023 11:24:58
 videoId: mqgffRQi6bY
-url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer--part-2
+url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 external_url: https://www.youtube.com/watch?v=mqgffRQi6bY
 coverImage: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg
 duration: 51
 isShort: True
 ---
 
-# Why is lego a shit idea for a scrum trainer?  Part 2
+# Why is lego a shit idea for a scrum trainer? Part 2
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Scrum.Org don't like #lego as part of #scrumtraining, and why he thinks using lego as a shit idea for a #professionascrumtrainer. Part 2
 

@@ -1,15 +1,15 @@
 ---
-title: "#1 tip for a scrum master"
+title: " 1 tip for a scrum master"
 date: 05/17/2023 07:00:14
 videoId: cR4D4qQe9ps
-url: /resources/videos/#1-tip-for-a-scrum-master
+url: /resources/videos/-1-tip-for-a-scrum-master
 external_url: https://www.youtube.com/watch?v=cR4D4qQe9ps
 coverImage: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: True
 ---
 
-# #1 tip for a scrum master
+#  1 tip for a scrum master
 
 #shorts #shortsvideo Congratulations, you nailed the job, you got the transfer to a new #scrumteam, or you've been given your very own #agile team to work with for the first time.
 

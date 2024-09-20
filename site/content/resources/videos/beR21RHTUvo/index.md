@@ -1,15 +1,15 @@
 ---
-title: "5 ghosts of #agile past. story points"
+title: "5 ghosts of agile past. story points"
 date: 12/29/2023 07:00:14
 videoId: beR21RHTUvo
-url: /resources/videos/5-ghosts-of-#agile-past.-story-points
+url: /resources/videos/5-ghosts-of-agile-past.-story-points
 external_url: https://www.youtube.com/watch?v=beR21RHTUvo
 coverImage: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: False
 ---
 
-# 5 ghosts of #agile past. story points
+# 5 ghosts of agile past. story points
 
 Unraveling the Ghosts of Agile: The Story Point Dilemma - Discover the hidden challenges of story points in Agile. Join Martin in demystifying this widespread issue and explore better alternatives for project success. 
 

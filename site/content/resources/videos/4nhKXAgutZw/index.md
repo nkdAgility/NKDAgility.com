@@ -1,15 +1,15 @@
 ---
-title: "7 Virtues of #agile. Kindness"
+title: "7 Virtues of agile. Kindness"
 date: 12/11/2023 07:00:01
 videoId: 4nhKXAgutZw
-url: /resources/videos/7-virtues-of-#agile.-kindness
+url: /resources/videos/7-virtues-of-agile.-kindness
 external_url: https://www.youtube.com/watch?v=4nhKXAgutZw
 coverImage: https://i.ytimg.com/vi/4nhKXAgutZw/maxresdefault.jpg
 duration: 252
 isShort: False
 ---
 
-# 7 Virtues of #agile. Kindness
+# 7 Virtues of agile. Kindness
 
 🌟 "Kindness: The Transformative Agile Virtue" – Discover How Compassion Drives Success!
 

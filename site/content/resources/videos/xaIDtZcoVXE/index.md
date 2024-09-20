@@ -1,15 +1,15 @@
 ---
-title: "#shorts 5 reasons why you need EBM in your environment. Part 5"
+title: " shorts 5 reasons why you need EBM in your environment. Part 5"
 date: 01/26/2024 11:00:51
 videoId: xaIDtZcoVXE
-url: /resources/videos/#shorts-5-reasons-why-you-need-ebm-in-your-environment.-part-5
+url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment.-part-5
 external_url: https://www.youtube.com/watch?v=xaIDtZcoVXE
 coverImage: https://i.ytimg.com/vi/xaIDtZcoVXE/maxresdefault.jpg
 duration: 33
 isShort: True
 ---
 
-# #shorts 5 reasons why you need EBM in your environment. Part 5
+#  shorts 5 reasons why you need EBM in your environment. Part 5
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your environment. Part 5.
 

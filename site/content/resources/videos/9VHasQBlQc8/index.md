@@ -1,15 +1,15 @@
 ---
-title: "7 Virtues of #agile. Patience"
+title: "7 Virtues of agile. Patience"
 date: 12/08/2023 07:00:06
 videoId: 9VHasQBlQc8
-url: /resources/videos/7-virtues-of-#agile.-patience
+url: /resources/videos/7-virtues-of-agile.-patience
 external_url: https://www.youtube.com/watch?v=9VHasQBlQc8
 coverImage: https://i.ytimg.com/vi/9VHasQBlQc8/maxresdefault.jpg
 duration: 156
 isShort: False
 ---
 
-# 7 Virtues of #agile. Patience
+# 7 Virtues of agile. Patience
 
 🌟 "Patience: The Foundation of Trust in Agile Organizations" – Unlock the Secret to Agile Success!
 

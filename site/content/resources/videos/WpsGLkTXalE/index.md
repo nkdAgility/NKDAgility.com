@@ -1,15 +1,15 @@
 ---
-title: "7 signs of the #agile apocalypse. Silence"
+title: "7 signs of the agile apocalypse. Silence"
 date: 11/10/2023 06:45:01
 videoId: WpsGLkTXalE
-url: /resources/videos/7-signs-of-the-#agile-apocalypse.-silence
+url: /resources/videos/7-signs-of-the-agile-apocalypse.-silence
 external_url: https://www.youtube.com/watch?v=WpsGLkTXalE
 coverImage: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: True
 ---
 
-# 7 signs of the #agile apocalypse. Silence
+# 7 signs of the agile apocalypse. Silence
 
 #shorts #shortsvideo #shortvideo Stillness is key to great work. The ability to reflect, do the deep work, and remain calm is a super power. That said, in the realms of #agile, Silence can be harbinger of disaster. Martin Hinshelwood explains why.
 

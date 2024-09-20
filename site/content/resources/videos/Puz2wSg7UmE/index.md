@@ -1,15 +1,15 @@
 ---
-title: "#shorts 5 reasons why you need EBM in your environment. Part 4"
+title: " shorts 5 reasons why you need EBM in your environment. Part 4"
 date: 01/25/2024 11:00:18
 videoId: Puz2wSg7UmE
-url: /resources/videos/#shorts-5-reasons-why-you-need-ebm-in-your-environment.-part-4
+url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment.-part-4
 external_url: https://www.youtube.com/watch?v=Puz2wSg7UmE
 coverImage: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
 duration: 54
 isShort: True
 ---
 
-# #shorts 5 reasons why you need EBM in your environment. Part 4
+#  shorts 5 reasons why you need EBM in your environment. Part 4
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your #agile environment. Part 4.
 

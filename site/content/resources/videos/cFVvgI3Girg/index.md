@@ -1,5 +1,5 @@
 ---
-title: "Why is the Professional Agile Leadership   Essentials course a natural evolution for a product owner"
+title: "Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner"
 date: 07/28/2023 07:00:14
 videoId: cFVvgI3Girg
 url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
@@ -9,7 +9,7 @@ duration: 159
 isShort: False
 ---
 
-# Why is the Professional Agile Leadership   Essentials course a natural evolution for a product owner
+# Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner
 
 A #productowner, especially in #scrum, is often referred to as the CEO of the product. Someone tasked with ensuring that the #scrumteam are building the most valuable product for customers, and the most viable product for the organization.
 

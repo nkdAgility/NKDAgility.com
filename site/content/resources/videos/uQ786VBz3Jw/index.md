@@ -1,15 +1,15 @@
 ---
-title: "What is your #1 tip for effective sprint planning?"
+title: "What is your 1 tip for effective sprint planning?"
 date: 05/26/2023 14:00:37
 videoId: uQ786VBz3Jw
-url: /resources/videos/what-is-your-#1-tip-for-effective-sprint-planning-
+url: /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 external_url: https://www.youtube.com/watch?v=uQ786VBz3Jw
 coverImage: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
 isShort: False
 ---
 
-# What is your #1 tip for effective sprint planning?
+# What is your 1 tip for effective sprint planning?
 
 A core focus of #projectmanagement is efficiency and resource utilization. In other words, is everyone busy and are we as productive as we can be. In #agile or #scrum, we are more concerned with being effective than efficient.
 

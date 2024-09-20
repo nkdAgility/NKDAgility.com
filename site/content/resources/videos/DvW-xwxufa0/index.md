@@ -1,5 +1,5 @@
 ---
-title: "Can you walk us through your consulting process  What methodologies and tools do you employ?"
+title: "Can you walk us through your consulting process What methodologies and tools do you employ?"
 date: 08/22/2024 07:00:08
 videoId: DvW-xwxufa0
 url: /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
@@ -9,7 +9,7 @@ duration: 339
 isShort: False
 ---
 
-# Can you walk us through your consulting process  What methodologies and tools do you employ?
+# Can you walk us through your consulting process What methodologies and tools do you employ?
 
 Introduction: The Limits of Self-Taught Learning
 

@@ -1,5 +1,5 @@
 ---
-title: "6 things you didn't know about Agile Product Management but really should  Part 4"
+title: "6 things you didn't know about Agile Product Management but really should Part 4"
 date: 07/17/2024 06:45:01
 videoId: qRHzl4PieKA
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-4
@@ -9,7 +9,7 @@ duration: 59
 isShort: True
 ---
 
-# 6 things you didn't know about Agile Product Management but really should  Part 4
+# 6 things you didn't know about Agile Product Management but really should Part 4
 
 Visit https://www.nkdagility.com Is your development team truly empowered? Do they have the autonomy to adapt and improve based on user feedback? 💪
 

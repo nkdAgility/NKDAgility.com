@@ -1,15 +1,15 @@
 ---
-title: "#shorts 5 kinds of Agile bandits. 3rd kind"
+title: " shorts 5 kinds of Agile bandits. 3rd kind"
 date: 01/08/2024 11:00:37
 videoId: eK8YscAACnE
-url: /resources/videos/#shorts-5-kinds-of-agile-bandits.-3rd-kind
+url: /resources/videos/-shorts-5-kinds-of-agile-bandits.-3rd-kind
 external_url: https://www.youtube.com/watch?v=eK8YscAACnE
 coverImage: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
 isShort: True
 ---
 
-# #shorts 5 kinds of Agile bandits. 3rd kind
+#  shorts 5 kinds of Agile bandits. 3rd kind
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #storypoints 
 

@@ -1,15 +1,15 @@
 ---
-title: "5 kinds of Agile bandits: Say/Do Metrics"
+title: "5 kinds of Agile bandits - Say/Do Metrics"
 date: 01/05/2024 07:00:28
 videoId: oKZ9bbESCok
-url: /resources/videos/5-kinds-of-agile-bandits--say-do-metrics
+url: /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 external_url: https://www.youtube.com/watch?v=oKZ9bbESCok
 coverImage: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: False
 ---
 
-# 5 kinds of Agile bandits: Say/Do Metrics
+# 5 kinds of Agile bandits - Say/Do Metrics
 
 *Unmasking Agile Banditry: The Truth Behind Say-Do Metrics* - Discover the hidden truths of agile practices and the pitfalls of say-do metrics. Dive into real-world examples and learn how to focus on genuine outcomes over misleading outputs.
 

@@ -1,5 +1,5 @@
 ---
-title: "Why is the Professional Agile Leadership   Essentials course a natural evolution for an experienced"
+title: "Why is the Professional Agile Leadership Essentials course a natural evolution for an experienced"
 date: 07/27/2023 07:00:04
 videoId: 7R9_bYOswhk
 url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
@@ -9,7 +9,7 @@ duration: 143
 isShort: False
 ---
 
-# Why is the Professional Agile Leadership   Essentials course a natural evolution for an experienced
+# Why is the Professional Agile Leadership Essentials course a natural evolution for an experienced
 
 The #scrummaster accountability is often the first step into the #agileleadership journey for many #agile practitioners. Yes, it forms the foundation of servant leadership, but the complexity of the role and the requirements for cross-functional department communications means that the #scrummaster needs to develop and nurture #leadership capabilities.
 

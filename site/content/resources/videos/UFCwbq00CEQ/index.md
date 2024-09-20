@@ -1,15 +1,15 @@
 ---
-title: "#shorts 5 kinds of Agile bandits.  2nd kind"
+title: " shorts 5 kinds of Agile bandits. 2nd kind"
 date: 01/05/2024 11:00:32
 videoId: UFCwbq00CEQ
-url: /resources/videos/#shorts-5-kinds-of-agile-bandits.-2nd-kind
+url: /resources/videos/-shorts-5-kinds-of-agile-bandits.-2nd-kind
 external_url: https://www.youtube.com/watch?v=UFCwbq00CEQ
 coverImage: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
 isShort: True
 ---
 
-# #shorts 5 kinds of Agile bandits.  2nd kind
+#  shorts 5 kinds of Agile bandits. 2nd kind
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features 'say-do' metrics.
 

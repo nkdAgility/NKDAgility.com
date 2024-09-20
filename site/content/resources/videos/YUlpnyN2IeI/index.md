@@ -1,15 +1,15 @@
 ---
-title: "Unlocking Scrum's Potential: Avoiding Dogma and Embracing Flexibility"
+title: "Unlocking Scrum's Potential - Avoiding Dogma and Embracing Flexibility"
 date: 06/05/2023 07:00:20
 videoId: YUlpnyN2IeI
-url: /resources/videos/unlocking-scrum's-potential--avoiding-dogma-and-embracing-flexibility
+url: /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 external_url: https://www.youtube.com/watch?v=YUlpnyN2IeI
 coverImage: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: False
 ---
 
-# Unlocking Scrum's Potential: Avoiding Dogma and Embracing Flexibility
+# Unlocking Scrum's Potential - Avoiding Dogma and Embracing Flexibility
 
 *Best scrum advice you ever received?*
 

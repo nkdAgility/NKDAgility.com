@@ -1,15 +1,15 @@
 ---
-title: "7 signs of the #agile apocalypse. Famine"
+title: "7 signs of the agile apocalypse. Famine"
 date: 11/08/2023 06:45:00
 videoId: ARhXjid0zSE
-url: /resources/videos/7-signs-of-the-#agile-apocalypse.-famine
+url: /resources/videos/7-signs-of-the-agile-apocalypse.-famine
 external_url: https://www.youtube.com/watch?v=ARhXjid0zSE
 coverImage: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: True
 ---
 
-# 7 signs of the #agile apocalypse. Famine
+# 7 signs of the agile apocalypse. Famine
 
 #shorts #shortsvideo #shortvideo #agile loves abundance. An abundance of ideas, creativity, and collaboration. That said, sometimes you experience #famine and in this short video, Martin Hinshelwood explains what that looks like and why it's a sign of impending doom.
 

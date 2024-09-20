@@ -1,15 +1,15 @@
 ---
-title: "#shorts 7 Virtues of Agile. Chastity"
+title: " shorts 7 Virtues of Agile. Chastity"
 date: 12/04/2023 11:00:23
 videoId: OMlLiLkCmMY
-url: /resources/videos/#shorts-7-virtues-of-agile.-chastity
+url: /resources/videos/-shorts-7-virtues-of-agile.-chastity
 external_url: https://www.youtube.com/watch?v=OMlLiLkCmMY
 coverImage: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: True
 ---
 
-# #shorts 7 Virtues of Agile. Chastity
+#  shorts 7 Virtues of Agile. Chastity
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com
 

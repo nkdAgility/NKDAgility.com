@@ -1,15 +1,15 @@
 ---
-title: "5 things you would teach a #productowner apprentice. Part 1"
+title: "5 things you would teach a productowner apprentice. Part 1"
 date: 12/13/2023 07:00:07
 videoId: DBa5_WhA68M
-url: /resources/videos/5-things-you-would-teach-a-#productowner-apprentice.-part-1
+url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice.-part-1
 external_url: https://www.youtube.com/watch?v=DBa5_WhA68M
 coverImage: https://i.ytimg.com/vi/DBa5_WhA68M/maxresdefault.jpg
 duration: 330
 isShort: False
 ---
 
-# 5 things you would teach a #productowner apprentice. Part 1
+# 5 things you would teach a productowner apprentice. Part 1
 
 📹 Unlock the Power of Negotiation in Product Ownership: Essential Skills for Success | Subscribe Now for Expert Insights!
 

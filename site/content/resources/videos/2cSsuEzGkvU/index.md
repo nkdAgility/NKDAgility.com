@@ -1,15 +1,15 @@
 ---
-title: "#shorts 7 Virtues of #agile. Humility"
+title: " shorts 7 Virtues of agile. Humility"
 date: 12/12/2023 11:00:04
 videoId: 2cSsuEzGkvU
-url: /resources/videos/#shorts-7-virtues-of-#agile.-humility
+url: /resources/videos/-shorts-7-virtues-of-agile.-humility
 external_url: https://www.youtube.com/watch?v=2cSsuEzGkvU
 coverImage: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: True
 ---
 
-# #shorts 7 Virtues of #agile. Humility
+#  shorts 7 Virtues of agile. Humility
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 
 

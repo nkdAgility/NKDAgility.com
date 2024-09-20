@@ -1,15 +1,15 @@
 ---
-title: "7 signs of the #agile apocalypse. War"
+title: "7 signs of the agile apocalypse. War"
 date: 11/07/2023 11:30:07
 videoId: GGtb7Yg8gHY
-url: /resources/videos/7-signs-of-the-#agile-apocalypse.-war
+url: /resources/videos/7-signs-of-the-agile-apocalypse.-war
 external_url: https://www.youtube.com/watch?v=GGtb7Yg8gHY
 coverImage: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
 isShort: True
 ---
 
-# 7 signs of the #agile apocalypse. War
+# 7 signs of the agile apocalypse. War
 
 #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster
 

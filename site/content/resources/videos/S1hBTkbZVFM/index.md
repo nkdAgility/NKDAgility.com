@@ -1,15 +1,15 @@
 ---
-title: "5 things to consider before hiring an #agilecoach. Part 1"
+title: "5 things to consider before hiring an agilecoach. Part 1"
 date: 11/20/2023 11:00:30
 videoId: S1hBTkbZVFM
-url: /resources/videos/5-things-to-consider-before-hiring-an-#agilecoach.-part-1
+url: /resources/videos/5-things-to-consider-before-hiring-an-agilecoach.-part-1
 external_url: https://www.youtube.com/watch?v=S1hBTkbZVFM
 coverImage: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 isShort: True
 ---
 
-# 5 things to consider before hiring an #agilecoach. Part 1
+# 5 things to consider before hiring an agilecoach. Part 1
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the 5 things you need to consider before hiring an #agilecoach. This is part 1
 

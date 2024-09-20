@@ -1,5 +1,5 @@
 ---
-title: "Why is lego a shit idea for a scrum trainer.  Part 1"
+title: "Why is lego a shit idea for a scrum trainer. Part 1"
 date: 10/02/2023 11:00:28
 videoId: f1cWND9Wsh0
 url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer.-part-1
@@ -9,7 +9,7 @@ duration: 33
 isShort: True
 ---
 
-# Why is lego a shit idea for a scrum trainer.  Part 1
+# Why is lego a shit idea for a scrum trainer. Part 1
 
 #shorts #shortvideo #shortsvideo #lego has become a ubiquitous presence in #scrumtraining around the world. Here's why it could be a shit idea. Part 1
 

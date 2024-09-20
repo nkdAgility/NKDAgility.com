@@ -25,7 +25,6 @@ function Update-YoutubeDataFiles {
 
         foreach ($video in $searchResponse.items) {
             $videoId = $video.id.videoId
-            $etag = $video.etag
 
             # Create the directory named after the video ID
             $videoDir = Join-Path $outputDir $videoId
@@ -67,10 +66,9 @@ function Update-YoutubeMarkdownFiles {
             # Load the video data from data.json
             $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
             $videoId = $videoData.id
-            $etag = $videoData.etag
 
             # Generate markdown content
-            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId -etag $etag
+            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
 
             # Markdown file path inside the video ID folder
             $filePath = Join-Path $videoDir "index.md"
@@ -88,8 +86,7 @@ function Update-YoutubeMarkdownFiles {
 function Get-NewMarkdownContents {
     param (
         [pscustomobject]$videoData,
-        [string]$videoId,
-        [string]$etag
+        [string]$videoId
     )
 
     $videoSnippet = $videoData.snippet
@@ -110,15 +107,18 @@ function Get-NewMarkdownContents {
         $thumbnailUrl = $thumbnails.high.url  # Fallback to high resolution
     }
 
-    # Format the title to be URL-safe and remove invalid characters like ':', '/', etc.
-    $title = $videoSnippet.title
+    # Format the title to be URL-safe and remove invalid characters
+    $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
     $publishedAt = $videoSnippet.publishedAt
-    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|]', '-' -replace '\s+', '-').ToLower()
+    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#]', '-' -replace '\s+', '-').ToLower()
+
+    # Remove consecutive dashes
+    $urlSafeTitle = $urlSafeTitle -replace '-+', '-'
 
     # Create the external URL for the original video
     $externalUrl = "https://www.youtube.com/watch?v=$videoId"
 
-    # Return the markdown content
+    # Return the markdown content without etag and with properly formatted title
     return @"
 ---
 title: "$title"

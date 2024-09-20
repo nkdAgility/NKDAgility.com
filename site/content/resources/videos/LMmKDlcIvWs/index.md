@@ -1,15 +1,15 @@
 ---
-title: "What is #kanban?"
+title: "What is kanban?"
 date: 02/12/2024 07:00:11
 videoId: LMmKDlcIvWs
-url: /resources/videos/what-is-#kanban-
+url: /resources/videos/what-is-kanban-
 external_url: https://www.youtube.com/watch?v=LMmKDlcIvWs
 coverImage: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 isShort: False
 ---
 
-# What is #kanban?
+# What is kanban?
 
 🚀 Master Kanban with This Essential YouTube Guide! 🚀
 

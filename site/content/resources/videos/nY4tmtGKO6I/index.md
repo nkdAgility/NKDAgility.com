@@ -1,15 +1,15 @@
 ---
-title: "Why is training such a critical element in a #scrummaster journey?"
+title: "Why is training such a critical element in a scrummaster journey?"
 date: 11/28/2023 11:00:49
 videoId: nY4tmtGKO6I
-url: /resources/videos/why-is-training-such-a-critical-element-in-a-#scrummaster-journey-
+url: /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 external_url: https://www.youtube.com/watch?v=nY4tmtGKO6I
 coverImage: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
 isShort: True
 ---
 
-# Why is training such a critical element in a #scrummaster journey?
+# Why is training such a critical element in a scrummaster journey?
 
 People assume that the #scrummaster accountability is a junior, administrative role when in fact, it's a #leadership and #agilecoaching accountability that requires a deeply skilled, committed individual at the helm. This is a short extract from the video where Martin Hinshelwood talks about the importance of #scrumtraining for a Scrum Master. Watch the full video on https://youtu.be/U0h7N5xpAfY
 

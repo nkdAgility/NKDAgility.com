@@ -1,15 +1,15 @@
 ---
-title: "The Secret Power of Kanban: Why Limiting Work in Progress (WIP) is Key to Success"
+title: "The Secret Power of Kanban - Why Limiting Work in Progress (WIP) is Key to Success"
 date: 07/22/2024 06:00:19
 videoId: XFN4iXYLE3U
-url: /resources/videos/the-secret-power-of-kanban--why-limiting-work-in-progress-(wip)-is-key-to-success
+url: /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 external_url: https://www.youtube.com/watch?v=XFN4iXYLE3U
 coverImage: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 isShort: True
 ---
 
-# The Secret Power of Kanban: Why Limiting Work in Progress (WIP) is Key to Success
+# The Secret Power of Kanban - Why Limiting Work in Progress (WIP) is Key to Success
 
 Are you overwhelmed by an endless pile of tasks and projects? Kanban can help! This video reveals why limiting work in progress (WIP) is the secret weapon to unlocking Kanban's true potential.
 

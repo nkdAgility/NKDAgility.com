@@ -1,15 +1,15 @@
 ---
-title: "Debunking the Myth: Agile is NOT About Speed"
+title: "Debunking the Myth - Agile is NOT About Speed"
 date: 07/11/2024 06:45:01
 videoId: b3HFBlCcomk
-url: /resources/videos/debunking-the-myth--agile-is-not-about-speed
+url: /resources/videos/debunking-the-myth-agile-is-not-about-speed
 external_url: https://www.youtube.com/watch?v=b3HFBlCcomk
 coverImage: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: False
 ---
 
-# Debunking the Myth: Agile is NOT About Speed
+# Debunking the Myth - Agile is NOT About Speed
 
 Tired of hearing that Agile is all about speed? Think again! This video challenges the common misconception that Agile equates to simply working faster. Uncover the true essence of Agile as a strategic approach to prioritizing value, adapting to change, and delivering the right products.
 

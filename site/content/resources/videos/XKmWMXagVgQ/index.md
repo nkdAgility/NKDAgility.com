@@ -1,15 +1,15 @@
 ---
-title: "5 things you would teach a #productowner apprentice. Part 5"
+title: "5 things you would teach a productowner apprentice. Part 5"
 date: 12/19/2023 07:00:11
 videoId: XKmWMXagVgQ
-url: /resources/videos/5-things-you-would-teach-a-#productowner-apprentice.-part-5
+url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice.-part-5
 external_url: https://www.youtube.com/watch?v=XKmWMXagVgQ
 coverImage: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 isShort: False
 ---
 
-# 5 things you would teach a #productowner apprentice. Part 5
+# 5 things you would teach a productowner apprentice. Part 5
 
 🚀 Elevate Your Product Ownership with Continuous Learning: Stay Ahead in the Game | Subscribe for Cutting-Edge Insights!
 

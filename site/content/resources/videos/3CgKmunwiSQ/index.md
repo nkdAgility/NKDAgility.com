@@ -1,5 +1,5 @@
 ---
-title: "Traditional Management vs  Evidence Based Management"
+title: "Traditional Management vs Evidence Based Management"
 date: 09/12/2024 07:00:02
 videoId: 3CgKmunwiSQ
 url: /resources/videos/traditional-management-vs-evidence-based-management
@@ -9,7 +9,7 @@ duration: 395
 isShort: False
 ---
 
-# Traditional Management vs  Evidence Based Management
+# Traditional Management vs Evidence Based Management
 
 ### 🎯 **Video Summary: Traditional Management vs. Evidence-Based Management (EBM)**
 

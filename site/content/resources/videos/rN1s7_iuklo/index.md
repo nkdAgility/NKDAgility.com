@@ -1,5 +1,5 @@
 ---
-title: "6 things you didn't know about Agile Product Management but really should  Part 5"
+title: "6 things you didn't know about Agile Product Management but really should Part 5"
 date: 07/24/2024 06:45:04
 videoId: rN1s7_iuklo
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
@@ -9,7 +9,7 @@ duration: 56
 isShort: True
 ---
 
-# 6 things you didn't know about Agile Product Management but really should  Part 5
+# 6 things you didn't know about Agile Product Management but really should Part 5
 
 Is your team truly Agile? Do they have the power to adapt their processes and continuously improve?
 

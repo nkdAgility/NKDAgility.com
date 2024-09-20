@@ -1,15 +1,15 @@
 ---
-title: "7 Virtues of #agile. Diligence"
+title: "7 Virtues of agile. Diligence"
 date: 12/07/2023 07:00:02
 videoId: 3S0zghhDPwc
-url: /resources/videos/7-virtues-of-#agile.-diligence
+url: /resources/videos/7-virtues-of-agile.-diligence
 external_url: https://www.youtube.com/watch?v=3S0zghhDPwc
 coverImage: https://i.ytimg.com/vi/3S0zghhDPwc/maxresdefault.jpg
 duration: 119
 isShort: False
 ---
 
-# 7 Virtues of #agile. Diligence
+# 7 Virtues of agile. Diligence
 
 🔍 Discover the Power of Attention to Detail in "Diligence: The Underrated Agile Virtue for Quality and Success"!
 

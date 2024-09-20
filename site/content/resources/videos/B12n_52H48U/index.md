@@ -1,15 +1,15 @@
 ---
-title: "Raise, Ante Up, or Fold: The Ultimate Decision in Business"
+title: "Raise, Ante Up, or Fold - The Ultimate Decision in Business"
 date: 09/13/2023 13:59:54
 videoId: B12n_52H48U
-url: /resources/videos/raise,-ante-up,-or-fold--the-ultimate-decision-in-business
+url: /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 external_url: https://www.youtube.com/watch?v=B12n_52H48U
 coverImage: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: False
 ---
 
-# Raise, Ante Up, or Fold: The Ultimate Decision in Business
+# Raise, Ante Up, or Fold - The Ultimate Decision in Business
 
 *Pivoting, Staying the Course, or Walking Away: A Guide for Product Owners* - In this insightful exploration, we delve into the crucial decisions every product owner faces: when to pivot, persevere, or let go. Discover the art of informed decision-making in product development. 
 

@@ -1,5 +1,5 @@
 ---
-title: "3 core practices of Kanban  Defining and visualizing a workflow"
+title: "3 core practices of Kanban Defining and visualizing a workflow"
 date: 02/27/2024 07:00:31
 videoId: sbr8NkJSLPU
 url: /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
@@ -9,7 +9,7 @@ duration: 218
 isShort: False
 ---
 
-# 3 core practices of Kanban  Defining and visualizing a workflow
+# 3 core practices of Kanban Defining and visualizing a workflow
 
 Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀
 

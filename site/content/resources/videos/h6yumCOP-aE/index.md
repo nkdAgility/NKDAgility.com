@@ -1,5 +1,5 @@
 ---
-title: "3 best ways to wreck your Kanban adoption.  Not having a working agreement."
+title: "3 best ways to wreck your Kanban adoption. Not having a working agreement."
 date: 03/01/2024 07:00:17
 videoId: h6yumCOP-aE
 url: /resources/videos/3-best-ways-to-wreck-your-kanban-adoption.-not-having-a-working-agreement.
@@ -9,7 +9,7 @@ duration: 302
 isShort: False
 ---
 
-# 3 best ways to wreck your Kanban adoption.  Not having a working agreement.
+# 3 best ways to wreck your Kanban adoption. Not having a working agreement.
 
 Crafting Success: The Power of Team Agreements in Kanban
 

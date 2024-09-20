@@ -2,7 +2,7 @@
 title: "Under employed? Pay 30% up front and the balance when you are employed."
 date: 06/14/2023 07:00:18
 videoId: UeGdC6GRyq4
-url: /resources/videos/under-employed--pay-30%-up-front-and-the-balance-when-you-are-employed.
+url: /resources/videos/under-employed-pay-30%-up-front-and-the-balance-when-you-are-employed.
 external_url: https://www.youtube.com/watch?v=UeGdC6GRyq4
 coverImage: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257

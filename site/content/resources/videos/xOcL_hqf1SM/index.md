@@ -1,15 +1,15 @@
 ---
-title: "What 5 things must you achieve before you call yourself an #agilecoach. Part 3"
+title: "What 5 things must you achieve before you call yourself an agilecoach. Part 3"
 date: 11/15/2023 11:01:00
 videoId: xOcL_hqf1SM
-url: /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-#agilecoach.-part-3
+url: /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach.-part-3
 external_url: https://www.youtube.com/watch?v=xOcL_hqf1SM
 coverImage: https://i.ytimg.com/vi/xOcL_hqf1SM/maxresdefault.jpg
 duration: 64
 isShort: False
 ---
 
-# What 5 things must you achieve before you call yourself an #agilecoach. Part 3
+# What 5 things must you achieve before you call yourself an agilecoach. Part 3
 
 Martin Hinshelwood walks us through the third thing you must achieve before you can call yourself an #agilecoach 
 

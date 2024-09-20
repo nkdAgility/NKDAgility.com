@@ -1,5 +1,5 @@
 ---
-title: "6 things you didn't know about Agile Product Management but really should  Part 3"
+title: "6 things you didn't know about Agile Product Management but really should Part 3"
 date: 07/10/2024 06:45:01
 videoId: OZt-5iszx-I
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
@@ -9,7 +9,7 @@ duration: 56
 isShort: True
 ---
 
-# 6 things you didn't know about Agile Product Management but really should  Part 3
+# 6 things you didn't know about Agile Product Management but really should Part 3
 
 Visit https://www.nkdagility.com In this video, we reveal the critical importance of short feedback loops in agile product development. Discover how to turn user insights into actionable work items in under a month, ensuring your product stays relevant and delivers maximum value.
 

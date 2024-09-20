@@ -1,15 +1,15 @@
 ---
-title: "Scrum is like communism. It doesn't work. Myth 3: Micromanagement, Developer Autonomy, and More!"
+title: "Scrum is like communism. It doesn't work. Myth 3 - Micromanagement, Developer Autonomy, and More!"
 date: 10/25/2023 07:00:09
 videoId: CawY8x3kGVk
-url: /resources/videos/scrum-is-like-communism.-it-doesn't-work.-myth-3--micromanagement,-developer-autonomy,-and-more!
+url: /resources/videos/scrum-is-like-communism.-it-doesn't-work.-myth-3-micromanagement,-developer-autonomy,-and-more!
 external_url: https://www.youtube.com/watch?v=CawY8x3kGVk
 coverImage: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
 duration: 234
 isShort: False
 ---
 
-# Scrum is like communism. It doesn't work. Myth 3: Micromanagement, Developer Autonomy, and More!
+# Scrum is like communism. It doesn't work. Myth 3 - Micromanagement, Developer Autonomy, and More!
 
 Dive into the heart of Scrum myths and how organizations can truly harness its power. Debunking myths, one sprint at a time! 💡
 

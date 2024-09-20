@@ -1,15 +1,15 @@
 ---
-title: "My journey with #Kanban and why I actively recommend it to consulting clients."
+title: "My journey with Kanban and why I actively recommend it to consulting clients."
 date: 02/23/2024 07:00:12
 videoId: ZisAuhrOhcY
-url: /resources/videos/my-journey-with-#kanban-and-why-i-actively-recommend-it-to-consulting-clients.
+url: /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients.
 external_url: https://www.youtube.com/watch?v=ZisAuhrOhcY
 coverImage: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 isShort: False
 ---
 
-# My journey with #Kanban and why I actively recommend it to consulting clients.
+# My journey with Kanban and why I actively recommend it to consulting clients.
 
 🚀 Kanban: A Universal Strategy for Enhanced Workflow and Predictability 🚀
 

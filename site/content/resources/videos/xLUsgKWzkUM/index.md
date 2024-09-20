@@ -1,15 +1,15 @@
 ---
-title: "Why is training such a critical element in a #productowner journey"
+title: "Why is training such a critical element in a productowner journey"
 date: 11/27/2023 11:00:56
 videoId: xLUsgKWzkUM
-url: /resources/videos/why-is-training-such-a-critical-element-in-a-#productowner-journey
+url: /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 external_url: https://www.youtube.com/watch?v=xLUsgKWzkUM
 coverImage: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: True
 ---
 
-# Why is training such a critical element in a #productowner journey
+# Why is training such a critical element in a productowner journey
 
 #shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA
 

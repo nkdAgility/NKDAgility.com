@@ -2,7 +2,7 @@
 title: "What is a definition of done? Why is it so important?"
 date: 11/13/2023 06:56:47
 videoId: APZNdMokZVo
-url: /resources/videos/what-is-a-definition-of-done--why-is-it-so-important-
+url: /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 external_url: https://www.youtube.com/watch?v=APZNdMokZVo
 coverImage: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360

@@ -1,15 +1,15 @@
 ---
-title: "Unlocking Organizational Success: The Power of Shared Vision and Clear Goals"
+title: "Unlocking Organizational Success - The Power of Shared Vision and Clear Goals"
 date: 08/08/2024 06:45:00
 videoId: KvZbBwzxSu4
-url: /resources/videos/unlocking-organizational-success--the-power-of-shared-vision-and-clear-goals
+url: /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 external_url: https://www.youtube.com/watch?v=KvZbBwzxSu4
 coverImage: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: False
 ---
 
-# Unlocking Organizational Success: The Power of Shared Vision and Clear Goals
+# Unlocking Organizational Success - The Power of Shared Vision and Clear Goals
 
 Tired of employees who don't understand your company's goals and direction? Struggling with decision-making that doesn't align with your mission? This video reveals the critical role of clear vision and goals in empowering your workforce and driving your organization to success.
 

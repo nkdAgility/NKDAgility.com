@@ -1,5 +1,5 @@
 ---
-title: "6 things you didn't know about Agile Product Management but really should  Part 6"
+title: "6 things you didn't know about Agile Product Management but really should Part 6"
 date: 07/31/2024 06:45:01
 videoId: cGOa0rg_L-8
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
@@ -9,7 +9,7 @@ duration: 46
 isShort: True
 ---
 
-# 6 things you didn't know about Agile Product Management but really should  Part 6
+# 6 things you didn't know about Agile Product Management but really should Part 6
 
 Visit https://www.nkdagility.com Think your company is Agile just because your development teams use Scrum?  Think again!  This video challenges you to assess your ENTIRE product development ecosystem to ensure you're truly maximizing agility and value.
 

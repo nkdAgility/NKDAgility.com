@@ -1,15 +1,15 @@
 ---
-title: "7 Virtues of #agile. Temperance"
+title: "7 Virtues of agile. Temperance"
 date: 12/05/2023 07:00:10
 videoId: SMgKAk-qPMM
-url: /resources/videos/7-virtues-of-#agile.-temperance
+url: /resources/videos/7-virtues-of-agile.-temperance
 external_url: https://www.youtube.com/watch?v=SMgKAk-qPMM
 coverImage: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: False
 ---
 
-# 7 Virtues of #agile. Temperance
+# 7 Virtues of agile. Temperance
 
 🔥 Master the Art of Balance with "Temperance: The Key Agile Virtue for Maximizing Efficiency"!
 

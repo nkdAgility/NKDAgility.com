@@ -1,5 +1,5 @@
 ---
-title: "2023 is predicted to be a very tough year.  What do you think will be needed to win and improve?"
+title: "2023 is predicted to be a very tough year. What do you think will be needed to win and improve?"
 date: 02/13/2023 22:00:04
 videoId: 9PBpgfsojQI
 url: /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve-
@@ -9,7 +9,7 @@ duration: 288
 isShort: False
 ---
 
-# 2023 is predicted to be a very tough year.  What do you think will be needed to win and improve?
+# 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 
 #agile has a great reputation and track record for helping #agileleaders respond quickly to change and adapt what they are doing to continuously create and deliver value to customers.
 

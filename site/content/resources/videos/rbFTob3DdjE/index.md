@@ -1,5 +1,5 @@
 ---
-title: "5 tools that Scrum Masters love.  Part 2"
+title: "5 tools that Scrum Masters love. Part 2"
 date: 09/19/2023 07:00:21
 videoId: rbFTob3DdjE
 url: /resources/videos/5-tools-that-scrum-masters-love.-part-2
@@ -9,7 +9,7 @@ duration: 39
 isShort: True
 ---
 
-# 5 tools that Scrum Masters love.  Part 2
+# 5 tools that Scrum Masters love. Part 2
 
 #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. #scrum tool 2
 

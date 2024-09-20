@@ -1,15 +1,15 @@
 ---
-title: "Silence: 7 signs of the agile apocalypse. But shorter!"
+title: "Silence - 7 signs of the agile apocalypse. But shorter!"
 date: 11/02/2023 11:30:10
 videoId: KHcSWD2tV6M
-url: /resources/videos/silence--7-signs-of-the-agile-apocalypse.-but-shorter!
+url: /resources/videos/silence-7-signs-of-the-agile-apocalypse.-but-shorter!
 external_url: https://www.youtube.com/watch?v=KHcSWD2tV6M
 coverImage: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
 isShort: False
 ---
 
-# Silence: 7 signs of the agile apocalypse. But shorter!
+# Silence - 7 signs of the agile apocalypse. But shorter!
 
 There's the kind of silence that brings peace into your world, the kind of silence that enables you to pause, reflect, and discover the deeper solutions that prove so elusive when you're running at full speed.
 

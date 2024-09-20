@@ -1,15 +1,15 @@
 ---
-title: "5 ghosts of #agile past. certification"
+title: "5 ghosts of agile past. certification"
 date: 12/28/2023 08:40:54
 videoId: _5daB0lJpdc
-url: /resources/videos/5-ghosts-of-#agile-past.-certification
+url: /resources/videos/5-ghosts-of-agile-past.-certification
 external_url: https://www.youtube.com/watch?v=_5daB0lJpdc
 coverImage: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 isShort: False
 ---
 
-# 5 ghosts of #agile past. certification
+# 5 ghosts of agile past. certification
 
 *_Debunking Agile Certifications: A Realistic Look at Their Impact_* - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world. 
 
