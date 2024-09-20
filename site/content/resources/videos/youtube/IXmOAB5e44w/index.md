@@ -2,7 +2,7 @@
 title: "Referral program. 20% of the course fee credited to your account."
 date: 06/15/2023 07:00:06
 videoId: IXmOAB5e44w
-url: /resources/videos/referral-program.-20%-of-the-course-fee-credited-to-your-account.
+url: /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 external_url: https://www.youtube.com/watch?v=IXmOAB5e44w
 coverImage: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147

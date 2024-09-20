@@ -2,7 +2,7 @@
 title: " shorts 5 reasons why you need EBM in your environment. Part 3"
 date: 01/24/2024 11:00:29
 videoId: cbLd-wstv3o
-url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment.-part-3
+url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
 external_url: https://www.youtube.com/watch?v=cbLd-wstv3o
 coverImage: https://i.ytimg.com/vi/cbLd-wstv3o/maxresdefault.jpg
 duration: 53

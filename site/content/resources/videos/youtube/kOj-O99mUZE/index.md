@@ -2,7 +2,7 @@
 title: "Overview of scaling with portfolio Kanban course."
 date: 02/22/2024 07:00:26
 videoId: kOj-O99mUZE
-url: /resources/videos/overview-of-scaling-with-portfolio-kanban-course.
+url: /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
 external_url: https://www.youtube.com/watch?v=kOj-O99mUZE
 coverImage: https://i.ytimg.com/vi/kOj-O99mUZE/maxresdefault.jpg
 duration: 146

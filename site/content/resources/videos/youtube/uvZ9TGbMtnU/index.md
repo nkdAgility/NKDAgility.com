@@ -2,7 +2,7 @@
 title: " shorts 5 kinds of Agile bandits. 1st Kind"
 date: 01/04/2024 12:14:45
 videoId: uvZ9TGbMtnU
-url: /resources/videos/-shorts-5-kinds-of-agile-bandits.-1st-kind
+url: /resources/videos/-shorts-5-kinds-of-agile-bandits-1st-kind
 external_url: https://www.youtube.com/watch?v=uvZ9TGbMtnU
 coverImage: https://i.ytimg.com/vi/uvZ9TGbMtnU/maxresdefault.jpg
 duration: 41

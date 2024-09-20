@@ -2,7 +2,7 @@
 title: "7 Virtues of agile. Chastity"
 date: 12/04/2023 08:39:06
 videoId: vftc6m70a0w
-url: /resources/videos/7-virtues-of-agile.-chastity
+url: /resources/videos/7-virtues-of-agile-chastity
 external_url: https://www.youtube.com/watch?v=vftc6m70a0w
 coverImage: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142

@@ -2,7 +2,7 @@
 title: "5 ghosts of agile past. 3 questions"
 date: 01/02/2024 07:00:20
 videoId: eLkJ_YEhMB0
-url: /resources/videos/5-ghosts-of-agile-past.-3-questions
+url: /resources/videos/5-ghosts-of-agile-past-3-questions
 external_url: https://www.youtube.com/watch?v=eLkJ_YEhMB0
 coverImage: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371

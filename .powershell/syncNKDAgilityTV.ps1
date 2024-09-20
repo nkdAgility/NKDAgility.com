@@ -1,7 +1,7 @@
 # Define variables
 $apiKey = $env:google_apiKey
 $channelId = "UCkYqhFNmhCzkefHsHS652hw"
-$outputDir = "site\content\resources\videos"
+$outputDir = "site\content\resources\videos\youtube"
 
 $maxResults = 50
 
@@ -110,7 +110,7 @@ function Get-NewMarkdownContents {
     # Format the title to be URL-safe and remove invalid characters
     $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
     $publishedAt = $videoSnippet.publishedAt
-    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#]', '-' -replace '\s+', '-').ToLower()
+    $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
 
     # Remove consecutive dashes
     $urlSafeTitle = $urlSafeTitle -replace '-+', '-'

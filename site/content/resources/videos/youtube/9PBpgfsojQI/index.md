@@ -2,7 +2,7 @@
 title: "2023 is predicted to be a very tough year. What do you think will be needed to win and improve?"
 date: 02/13/2023 22:00:04
 videoId: 9PBpgfsojQI
-url: /resources/videos/2023-is-predicted-to-be-a-very-tough-year.-what-do-you-think-will-be-needed-to-win-and-improve-
+url: /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 external_url: https://www.youtube.com/watch?v=9PBpgfsojQI
 coverImage: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288

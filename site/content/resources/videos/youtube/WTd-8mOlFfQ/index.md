@@ -2,7 +2,7 @@
 title: "Common mistakes that scrum masters make. Part 2."
 date: 07/07/2023 14:00:33
 videoId: WTd-8mOlFfQ
-url: /resources/videos/common-mistakes-that-scrum-masters-make.-part-2.
+url: /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
 external_url: https://www.youtube.com/watch?v=WTd-8mOlFfQ
 coverImage: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37

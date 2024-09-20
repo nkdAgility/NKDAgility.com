@@ -2,7 +2,7 @@
 title: "People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools."
 date: 06/07/2023 07:00:02
 videoId: BhGThHrOc8Y
-url: /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools.
+url: /resources/videos/people-drive-solutions,-tools-just-pave-the-way!-agile-and-devops-are-about-people,-not-tools-
 external_url: https://www.youtube.com/watch?v=BhGThHrOc8Y
 coverImage: https://i.ytimg.com/vi/BhGThHrOc8Y/maxresdefault.jpg
 duration: 243

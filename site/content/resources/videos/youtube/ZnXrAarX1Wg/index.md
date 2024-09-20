@@ -2,7 +2,7 @@
 title: "No go zone for agile consultants."
 date: 05/10/2023 09:30:14
 videoId: ZnXrAarX1Wg
-url: /resources/videos/no-go-zone-for-agile-consultants.
+url: /resources/videos/no-go-zone-for-agile-consultants-
 external_url: https://www.youtube.com/watch?v=ZnXrAarX1Wg
 coverImage: https://i.ytimg.com/vi/ZnXrAarX1Wg/maxresdefault.jpg
 duration: 53

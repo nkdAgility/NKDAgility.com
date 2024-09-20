@@ -2,7 +2,7 @@
 title: "Why is lego a shit idea for a scrum trainer. Part 3"
 date: 10/05/2023 07:00:04
 videoId: AJ8-c0l7oRQ
-url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer.-part-3
+url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 external_url: https://www.youtube.com/watch?v=AJ8-c0l7oRQ
 coverImage: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43

@@ -2,7 +2,7 @@
 title: "DevOps Consulting overview."
 date: 06/16/2023 07:00:14
 videoId: QQA9coiM4fk
-url: /resources/videos/devops-consulting-overview.
+url: /resources/videos/devops-consulting-overview-
 external_url: https://www.youtube.com/watch?v=QQA9coiM4fk
 coverImage: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356

@@ -2,7 +2,7 @@
 title: "5 ways an immersive learning experience will make you a better practitioner. Part 3"
 date: 02/07/2024 07:00:27
 videoId: yQlrN2OviCU
-url: /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner.-part-3
+url: /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-3
 external_url: https://www.youtube.com/watch?v=yQlrN2OviCU
 coverImage: https://i.ytimg.com/vi/yQlrN2OviCU/maxresdefault.jpg
 duration: 47

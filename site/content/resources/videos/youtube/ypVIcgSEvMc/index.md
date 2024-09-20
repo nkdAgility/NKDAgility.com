@@ -2,7 +2,7 @@
 title: "30% discount for existing alumni overview"
 date: 06/09/2023 11:00:46
 videoId: ypVIcgSEvMc
-url: /resources/videos/30%-discount-for-existing-alumni-overview
+url: /resources/videos/30-discount-for-existing-alumni-overview
 external_url: https://www.youtube.com/watch?v=ypVIcgSEvMc
 coverImage: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43

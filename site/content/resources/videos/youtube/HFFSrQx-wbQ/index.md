@@ -2,7 +2,7 @@
 title: "Plague - 7 Harbingers agile apocalypse. But shorter!"
 date: 11/01/2023 09:42:43
 videoId: HFFSrQx-wbQ
-url: /resources/videos/plague-7-harbingers-agile-apocalypse.-but-shorter!
+url: /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 external_url: https://www.youtube.com/watch?v=HFFSrQx-wbQ
 coverImage: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64

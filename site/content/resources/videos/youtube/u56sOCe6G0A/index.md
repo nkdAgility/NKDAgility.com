@@ -2,7 +2,7 @@
 title: "3 core practices of Kanban. Actively managing items in a workflow."
 date: 02/26/2024 14:06:47
 videoId: u56sOCe6G0A
-url: /resources/videos/3-core-practices-of-kanban.-actively-managing-items-in-a-workflow.
+url: /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
 external_url: https://www.youtube.com/watch?v=u56sOCe6G0A
 coverImage: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234

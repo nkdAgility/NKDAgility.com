@@ -2,7 +2,7 @@
 title: "5 ghosts of agile past. burndown charts"
 date: 01/01/2024 07:00:20
 videoId: ymKlRonlUX0
-url: /resources/videos/5-ghosts-of-agile-past.-burndown-charts
+url: /resources/videos/5-ghosts-of-agile-past-burndown-charts
 external_url: https://www.youtube.com/watch?v=ymKlRonlUX0
 coverImage: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419

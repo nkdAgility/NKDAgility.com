@@ -2,7 +2,7 @@
 title: "5 kinds of Agile bandits. Product Owner Bandits"
 date: 01/10/2024 07:00:11
 videoId: EoInrPvjBHo
-url: /resources/videos/5-kinds-of-agile-bandits.-product-owner-bandits
+url: /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 external_url: https://www.youtube.com/watch?v=EoInrPvjBHo
 coverImage: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
