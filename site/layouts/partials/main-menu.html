@@ -9,16 +9,16 @@
       </button>
       <div class="collapse navbar-collapse" id="mainNav">
         <ul class="navbar-nav ms-auto">
-          <!-- Company -->
-          {{ partial "main-menu-company.html" . }}
-          <!-- Capabilities -->
-          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "capabilities") }}
-          <!-- Methods -->
-          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "methods") }}
-          <!-- Principles -->
-          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "principles") }}
           <!-- Outcomes -->
           {{ partial "main-menu-section.html" (dict "context" . "SectionName" "outcomes") }}
+           <!-- Methods -->
+           {{ partial "main-menu-section.html" (dict "context" . "SectionName" "methods") }}
+            <!-- Principles -->
+          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "principles") }}
+          <!-- Capabilities -->
+          {{ partial "main-menu-section.html" (dict "context" . "SectionName" "capabilities") }}
+          <!-- Company -->
+          {{ partial "main-menu-company.html" . }}
           <!-- Resources -->
           {{ partial "main-menu-resources.html" . }}
         </ul>
