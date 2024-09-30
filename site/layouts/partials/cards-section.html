@@ -4,7 +4,7 @@
     {{ range $section.Pages }} {{ if not .Draft }}
     <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
       <!-- prettier-ignore -->
-      {{ partial "card.html" . }}
+      {{ partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
     </div>
     {{ end }} {{ end }}
   </div>

@@ -13,11 +13,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .nkda-heading-primary {
     color: var(--primary-color);
-    font-size: clamp(1rem, 5vw + 1rem, 3.5rem);
+    font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
 }
 .nkda-heading-secondary {
     color: var(--primary-color);
-    font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
+    font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
 .mainContainer
@@ -65,4 +65,3 @@ pre {
     background-color: #54595F;
     color: white;
 }
-

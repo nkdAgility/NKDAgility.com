@@ -2,6 +2,7 @@
 $apiKey = $env:google_apiKey
 $channelId = "UCkYqhFNmhCzkefHsHS652hw"
 $outputDir = "site\content\resources\videos\youtube"
+$dataDirectory = ".\site\data"
 
 $maxResults = 50
 
@@ -18,10 +19,13 @@ function Update-YoutubeDataFiles {
 
     do {
         # YouTube API endpoint to get videos from a channel, including nextPageToken
-        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
+        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
 
         # Fetch video list
         $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
+
+        $dataFilePath = Join-Path $videoDir "youtube.json"
+        $searchResponse | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
 
         foreach ($video in $searchResponse.items) {
             $videoId = $video.id.videoId
@@ -140,5 +144,5 @@ $fullDescription
 }
 
 # Main calls
-#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

@@ -6,13 +6,64 @@ author: MrHinsh
 aliases:
 - /capabilities/azure-devops-migration-services/
 type: capabilities
+layout: capabilities
 slug: azure-devops-migration-tools-consulting
+headline: 
+  title: "Azure DevOps Migration Services" 
+  content: "*NKD Agility* is your trusted partner for Azure DevOps migrations. With extensive experience and a proven track record, we ensure your transition to Azure DevOps is smooth, efficient, and tailored to your unique needs."
+  cards:
+    - title: "Personalized Service"
+      content: "Our experts provide training and consulting to help your team make the most of Azure DevOps." 
+      image: ~
+    - title: "Comprehensive Support"
+      content: "We offer continuous support throughout the migration process, including post-migration assistance to ensure everything runs smoothly." 
+      image: ~
+    - title: "Full-Service Migration"
+      content: "From initial assessment to final implementation, we manage every aspect of your migration, ensuring a seamless transition." 
+      image: ~
+    - title: "Tailored Migration Strategies"
+      content: "Whether you need to consolidate multiple projects, split a large project, or migrate specific components, we provide solutions tailored to your requirements." 
+      image: ~
+    - title: "Deep Technical Knowledge"
+      content: "Our team has extensive experience with both Azure DevOps and older systems like TFS, ensuring we can handle any migration scenario." 
+      image: ~
+    - title: "Hundreds of Migrations Completed"
+      content: "We’ve successfully handled a wide range of migrations, from simple upgrades to complex transitions involving legacy systems." 
+      image: ~
+sections:
+  - title: "NKD Agility Migration Services"
+    content: "Azure DevOps Migration and Process Optimization services overview."
+    source: inline
+    type: features
+    features:
+      - title: "Our Migration Services for Azure DevOps Migration"
+        content: |
+          - *Complete Transition*: We manage the entire process of moving your on-premises TFS environment to Azure DevOps, including data, code repositories, and builds. We can handle any Collection size from a few hundred to a few thousand gigabytes.
+          - *Legacy System Migration*: We handle complex integrations, including importing data from outdated systems like Visual SourceSafe or other obsolete systems.
+          media: /image/image1.jpg
+      - title: "Process Optimization & Migration"
+        content: |
+          - *Customized Configurations*: We help you optimize your Azure DevOps environment by customizing process templates and workflows to match your development processes.
+          - *Change Process*: Ensuring seamless transitions from one process to another when there are lots of changes. 
+          media: /image/image1.jpg
+      - title: "Project Optimisation & Migration"
+        content: |
+          We build, maintain, and support the tools recommended by Microsoft and used by consultants around the world to manage and migrate the contents of TFS & Azure DevOps Projects. We have helped customers migrate nearly two billion work item revisions. 
+          - *Project manipulation*: We have experience in both TFS and Azure DevOps in splitting or merging projects within a collection/account or between them.
+          - *Account / Collection Consolidation*: We can move a Project from one collection/account to another.
+  - title: "Courses For Azure DevOps"
+    content: "Here is a list of courses related to Azure DevOps."
+    source: data
+    type: courses
+  - title: 
+    content: 
+    source: data
+    type: videos
 card:
   button:
     content: Migrate your data
   content: Ready to transform your development environment with Azure DevOps? Trust NKD Agility to guide you through a seamless migration process. Contact us today for a consultation and take the first step towards a more efficient and productive development workflow.
   title: Azure DevOps Migration Services
-
 ---
 
 
