@@ -1,6 +1,6 @@
 ---
 title: "What is your favourite DevOps consulting outcome?"
-date: 04/18/2023 07:00:08
+date: 2023-04-18T07:00:08Z
 videoId: N58DvsSx4U8
 url: /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 external_url: https://www.youtube.com/watch?v=N58DvsSx4U8

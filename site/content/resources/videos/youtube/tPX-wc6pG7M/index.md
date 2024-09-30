@@ -1,6 +1,6 @@
 ---
 title: "5 October 2023 Agile Leader Webinar"
-date: 09/28/2023 10:27:47
+date: 2023-09-28T10:27:47Z
 videoId: tPX-wc6pG7M
 url: /resources/videos/5-october-2023-agile-leader-webinar
 external_url: https://www.youtube.com/watch?v=tPX-wc6pG7M

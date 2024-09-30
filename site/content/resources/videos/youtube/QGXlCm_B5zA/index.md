@@ -1,6 +1,6 @@
 ---
 title: "What will you learn on the PSM II course?"
-date: 03/06/2023 07:00:14
+date: 2023-03-06T07:00:14Z
 videoId: QGXlCm_B5zA
 url: /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 external_url: https://www.youtube.com/watch?v=QGXlCm_B5zA

@@ -1,6 +1,6 @@
 ---
 title: "What is kanban?"
-date: 02/12/2024 07:00:11
+date: 2024-02-12T07:00:11Z
 videoId: LMmKDlcIvWs
 url: /resources/videos/what-is-kanban-
 external_url: https://www.youtube.com/watch?v=LMmKDlcIvWs

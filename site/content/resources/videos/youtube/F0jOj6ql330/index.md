@@ -1,6 +1,6 @@
 ---
 title: "Most rewarding part of being a scrum developer?"
-date: 06/23/2023 11:00:09
+date: 2023-06-23T11:00:09Z
 videoId: F0jOj6ql330
 url: /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
 external_url: https://www.youtube.com/watch?v=F0jOj6ql330

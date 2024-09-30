@@ -1,6 +1,6 @@
 ---
 title: "Does scrum really allow you to do twice the work in half the time?"
-date: 02/02/2023 07:00:13
+date: 2023-02-02T07:00:13Z
 videoId: e7L0NFYUFSw
 url: /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 external_url: https://www.youtube.com/watch?v=e7L0NFYUFSw

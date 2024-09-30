@@ -1,6 +1,6 @@
 ---
 title: "27th May 2020 - Office Hours \ Ask Me Anything"
-date: 05/28/2020 05:34:33
+date: 2020-05-28T05:34:33Z
 videoId: pP8AnHBZEXc
 url: /resources/videos/27th-may-2020-office-hours-ask-me-anything
 external_url: https://www.youtube.com/watch?v=pP8AnHBZEXc

@@ -1,6 +1,6 @@
 ---
 title: "Most valuable lesson you learned as an agile consultant"
-date: 06/22/2023 07:00:15
+date: 2023-06-22T07:00:15Z
 videoId: MutnPwNzyXM
 url: /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 external_url: https://www.youtube.com/watch?v=MutnPwNzyXM

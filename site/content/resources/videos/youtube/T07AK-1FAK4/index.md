@@ -1,6 +1,6 @@
 ---
 title: "7 signs of the agile apocalypse. The Antichrist"
-date: 11/07/2023 07:36:21
+date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
 url: /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 external_url: https://www.youtube.com/watch?v=T07AK-1FAK4

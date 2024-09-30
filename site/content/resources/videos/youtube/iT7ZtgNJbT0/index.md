@@ -1,6 +1,6 @@
 ---
 title: "What was your best day as an agile consultant?"
-date: 03/27/2023 07:00:30
+date: 2023-03-27T07:00:30Z
 videoId: iT7ZtgNJbT0
 url: /resources/videos/what-was-your-best-day-as-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=iT7ZtgNJbT0

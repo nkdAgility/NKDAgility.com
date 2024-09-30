@@ -1,6 +1,6 @@
 ---
 title: "8 week immersive learning course in 60 seconds"
-date: 06/05/2023 11:00:38
+date: 2023-06-05T11:00:38Z
 videoId: o9Qc_NLmtok
 url: /resources/videos/8-week-immersive-learning-course-in-60-seconds
 external_url: https://www.youtube.com/watch?v=o9Qc_NLmtok

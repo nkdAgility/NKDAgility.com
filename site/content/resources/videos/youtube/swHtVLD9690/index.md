@@ -1,6 +1,6 @@
 ---
 title: "What common challenges do organizations face when adopting DevOps practices?"
-date: 08/20/2024 08:04:38
+date: 2024-08-20T08:04:38Z
 videoId: swHtVLD9690
 url: /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 external_url: https://www.youtube.com/watch?v=swHtVLD9690

@@ -1,6 +1,6 @@
 ---
 title: "What is the difference between a newbie scrum master and a professional scrum master?"
-date: 03/31/2023 07:00:03
+date: 2023-03-31T07:00:03Z
 videoId: 2k1726k9zvg
 url: /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 external_url: https://www.youtube.com/watch?v=2k1726k9zvg

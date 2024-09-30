@@ -1,6 +1,6 @@
 ---
 title: " shorts 7 Virtues of agile. Temperance"
-date: 12/05/2023 11:00:27
+date: 2023-12-05T11:00:27Z
 videoId: b-2TDkEew2k
 url: /resources/videos/-shorts-7-virtues-of-agile-temperance
 external_url: https://www.youtube.com/watch?v=b-2TDkEew2k

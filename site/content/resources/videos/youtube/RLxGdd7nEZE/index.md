@@ -1,6 +1,6 @@
 ---
 title: "What is the single most valuable outcome a consulting engagement can produce?"
-date: 06/20/2023 07:00:10
+date: 2023-06-20T07:00:10Z
 videoId: RLxGdd7nEZE
 url: /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 external_url: https://www.youtube.com/watch?v=RLxGdd7nEZE

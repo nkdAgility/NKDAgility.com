@@ -1,6 +1,6 @@
 ---
 title: "Is a PSM II certification validation of your skills or does it develop your skill and capability?"
-date: 04/17/2023 07:00:17
+date: 2023-04-17T07:00:17Z
 videoId: vI_qQ7-1z2E
 url: /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 external_url: https://www.youtube.com/watch?v=vI_qQ7-1z2E

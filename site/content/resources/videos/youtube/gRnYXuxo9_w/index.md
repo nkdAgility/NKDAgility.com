@@ -1,6 +1,6 @@
 ---
 title: "Scrum Value, Openness, What does it mean and why does it matter?"
-date: 04/28/2023 07:00:30
+date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 external_url: https://www.youtube.com/watch?v=gRnYXuxo9_w

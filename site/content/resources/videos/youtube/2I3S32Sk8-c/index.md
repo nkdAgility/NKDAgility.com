@@ -1,6 +1,6 @@
 ---
 title: "What would you advise a scrum team to do in their first 4 weeks?"
-date: 02/16/2023 07:00:01
+date: 2023-02-16T07:00:01Z
 videoId: 2I3S32Sk8-c
 url: /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 external_url: https://www.youtube.com/watch?v=2I3S32Sk8-c

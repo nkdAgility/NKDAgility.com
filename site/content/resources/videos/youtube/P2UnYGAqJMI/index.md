@@ -1,6 +1,6 @@
 ---
 title: " shorts 5 kinds of Agile bandits. 4th kind"
-date: 01/09/2024 11:00:51
+date: 2024-01-09T11:00:51Z
 videoId: P2UnYGAqJMI
 url: /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
 external_url: https://www.youtube.com/watch?v=P2UnYGAqJMI

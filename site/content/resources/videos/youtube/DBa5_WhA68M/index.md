@@ -1,6 +1,6 @@
 ---
 title: "5 things you would teach a productowner apprentice. Part 1"
-date: 12/13/2023 07:00:07
+date: 2023-12-13T07:00:07Z
 videoId: DBa5_WhA68M
 url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-1
 external_url: https://www.youtube.com/watch?v=DBa5_WhA68M

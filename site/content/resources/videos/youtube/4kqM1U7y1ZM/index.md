@@ -1,6 +1,6 @@
 ---
 title: "What would you look to achieve with a new scrum team in the first 90 days?"
-date: 06/27/2023 07:00:06
+date: 2023-06-27T07:00:06Z
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 external_url: https://www.youtube.com/watch?v=4kqM1U7y1ZM

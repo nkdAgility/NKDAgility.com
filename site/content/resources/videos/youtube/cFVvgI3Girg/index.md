@@ -1,6 +1,6 @@
 ---
 title: "Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner"
-date: 07/28/2023 07:00:14
+date: 2023-07-28T07:00:14Z
 videoId: cFVvgI3Girg
 url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 external_url: https://www.youtube.com/watch?v=cFVvgI3Girg

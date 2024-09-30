@@ -1,6 +1,6 @@
 ---
 title: "Momentum"
-date: 05/16/2023 07:00:02
+date: 2023-05-16T07:00:02Z
 videoId: 5bgfme-Pspw
 url: /resources/videos/momentum
 external_url: https://www.youtube.com/watch?v=5bgfme-Pspw

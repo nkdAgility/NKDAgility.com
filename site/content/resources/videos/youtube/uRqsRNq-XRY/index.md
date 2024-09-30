@@ -1,6 +1,6 @@
 ---
 title: "7 signs of the agile apocalypse. Judgement"
-date: 11/09/2023 06:45:04
+date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
 url: /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 external_url: https://www.youtube.com/watch?v=uRqsRNq-XRY

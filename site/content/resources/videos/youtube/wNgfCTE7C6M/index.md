@@ -1,6 +1,6 @@
 ---
 title: "How does the PSU course help teams make more effective product development decisions?"
-date: 04/10/2023 07:00:18
+date: 2023-04-10T07:00:18Z
 videoId: wNgfCTE7C6M
 url: /resources/videos/how-does-the-psu-course-help-teams-make-more-effective-product-development-decisions-
 external_url: https://www.youtube.com/watch?v=wNgfCTE7C6M

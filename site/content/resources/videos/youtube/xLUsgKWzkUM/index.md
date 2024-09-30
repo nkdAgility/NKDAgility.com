@@ -1,6 +1,6 @@
 ---
 title: "Why is training such a critical element in a productowner journey"
-date: 11/27/2023 11:00:56
+date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 external_url: https://www.youtube.com/watch?v=xLUsgKWzkUM

@@ -1,6 +1,6 @@
 ---
 title: "Sloth! 7 deadly sins of Agile."
-date: 10/20/2023 16:01:48
+date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/sloth!-7-deadly-sins-of-agile-
 external_url: https://www.youtube.com/watch?v=uCFIW_lEFuc

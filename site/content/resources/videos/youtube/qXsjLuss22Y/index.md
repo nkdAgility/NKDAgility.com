@@ -1,6 +1,6 @@
 ---
 title: "What is a product goal?"
-date: 05/30/2023 11:00:40
+date: 2023-05-30T11:00:40Z
 videoId: qXsjLuss22Y
 url: /resources/videos/what-is-a-product-goal-
 external_url: https://www.youtube.com/watch?v=qXsjLuss22Y

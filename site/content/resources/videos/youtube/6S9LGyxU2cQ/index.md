@@ -1,6 +1,6 @@
 ---
 title: "Is the APS immersive learning experience the equivalent of having a hands on scrum coach?"
-date: 08/16/2023 07:00:03
+date: 2023-08-16T07:00:03Z
 videoId: 6S9LGyxU2cQ
 url: /resources/videos/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach-
 external_url: https://www.youtube.com/watch?v=6S9LGyxU2cQ

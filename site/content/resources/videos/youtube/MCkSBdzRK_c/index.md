@@ -1,6 +1,6 @@
 ---
 title: "Making Business Decisions with Evidence! What is evidence-based management?"
-date: 01/25/2024 07:00:13
+date: 2024-01-25T07:00:13Z
 videoId: MCkSBdzRK_c
 url: /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 external_url: https://www.youtube.com/watch?v=MCkSBdzRK_c

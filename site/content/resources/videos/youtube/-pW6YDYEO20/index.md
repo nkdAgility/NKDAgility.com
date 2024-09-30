@@ -1,6 +1,6 @@
 ---
 title: "worst trait in unskilled scrum masters?"
-date: 04/26/2023 07:00:00
+date: 2023-04-26T07:00:00Z
 videoId: -pW6YDYEO20
 url: /resources/videos/worst-trait-in-unskilled-scrum-masters-
 external_url: https://www.youtube.com/watch?v=-pW6YDYEO20

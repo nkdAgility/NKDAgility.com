@@ -1,6 +1,6 @@
 ---
 title: "Why is product backlog management getting so much attention right now"
-date: 12/01/2023 07:00:11
+date: 2023-12-01T07:00:11Z
 videoId: TYpgtgaOXv4
 url: /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
 external_url: https://www.youtube.com/watch?v=TYpgtgaOXv4

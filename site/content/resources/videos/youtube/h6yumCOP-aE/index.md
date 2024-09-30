@@ -1,6 +1,6 @@
 ---
 title: "3 best ways to wreck your Kanban adoption. Not having a working agreement."
-date: 03/01/2024 07:00:17
+date: 2024-03-01T07:00:17Z
 videoId: h6yumCOP-aE
 url: /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
 external_url: https://www.youtube.com/watch?v=h6yumCOP-aE

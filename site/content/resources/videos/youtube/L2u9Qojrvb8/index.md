@@ -1,6 +1,6 @@
 ---
 title: "How do you tailor your DevOps consulting services to meet the unique needs of different organization"
-date: 08/23/2024 07:00:12
+date: 2024-08-23T07:00:12Z
 videoId: L2u9Qojrvb8
 url: /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 external_url: https://www.youtube.com/watch?v=L2u9Qojrvb8

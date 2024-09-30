@@ -1,6 +1,6 @@
 ---
 title: "Most destructive thing a client can do to an agile consultant?"
-date: 05/01/2023 07:00:05
+date: 2023-05-01T07:00:05Z
 videoId: DceVQ5JQaUw
 url: /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=DceVQ5JQaUw

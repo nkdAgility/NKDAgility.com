@@ -1,6 +1,6 @@
 ---
 title: "5 ghosts of agile past. story points"
-date: 12/29/2023 07:00:14
+date: 2023-12-29T07:00:14Z
 videoId: beR21RHTUvo
 url: /resources/videos/5-ghosts-of-agile-past-story-points
 external_url: https://www.youtube.com/watch?v=beR21RHTUvo

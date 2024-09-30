@@ -1,6 +1,6 @@
 ---
 title: "How hard is it to transition from being a developer to a scrum developer?"
-date: 06/22/2023 11:00:25
+date: 2023-06-22T11:00:25Z
 videoId: cv5IIVUgack
 url: /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 external_url: https://www.youtube.com/watch?v=cv5IIVUgack

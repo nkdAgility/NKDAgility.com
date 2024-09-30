@@ -1,6 +1,6 @@
 ---
 title: "Basic Work Item Migration with the Azure DevOps Migration Tools"
-date: 11/16/2023 12:47:09
+date: 2023-11-16T12:47:09Z
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 external_url: https://www.youtube.com/watch?v=Qt1Ywu_KLrc

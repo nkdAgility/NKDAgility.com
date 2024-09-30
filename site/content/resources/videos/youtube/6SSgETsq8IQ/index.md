@@ -1,6 +1,6 @@
 ---
 title: "Professional Scrum Product Owner (PSPO) - Discover product management skills & practices"
-date: 08/23/2022 17:22:20
+date: 2022-08-23T17:22:20Z
 videoId: 6SSgETsq8IQ
 url: /resources/videos/professional-scrum-product-owner-(pspo)-discover-product-management-skills-&-practices
 external_url: https://www.youtube.com/watch?v=6SSgETsq8IQ

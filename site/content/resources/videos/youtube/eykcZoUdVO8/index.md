@@ -1,6 +1,6 @@
 ---
 title: "Most influential person in agile for you personally?"
-date: 08/09/2023 07:00:14
+date: 2023-08-09T07:00:14Z
 videoId: eykcZoUdVO8
 url: /resources/videos/most-influential-person-in-agile-for-you-personally-
 external_url: https://www.youtube.com/watch?v=eykcZoUdVO8

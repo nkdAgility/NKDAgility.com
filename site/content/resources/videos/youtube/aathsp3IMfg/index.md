@@ -1,6 +1,6 @@
 ---
 title: "What does your dream agile consulting week look like?"
-date: 04/11/2023 07:00:00
+date: 2023-04-11T07:00:00Z
 videoId: aathsp3IMfg
 url: /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 external_url: https://www.youtube.com/watch?v=aathsp3IMfg

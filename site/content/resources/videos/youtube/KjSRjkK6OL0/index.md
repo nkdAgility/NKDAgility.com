@@ -1,6 +1,6 @@
 ---
 title: "What does an ineffective scrum master's day look like?"
-date: 06/20/2023 12:00:28
+date: 2023-06-20T12:00:28Z
 videoId: KjSRjkK6OL0
 url: /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 external_url: https://www.youtube.com/watch?v=KjSRjkK6OL0

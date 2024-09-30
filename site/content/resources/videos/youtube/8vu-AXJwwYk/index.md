@@ -1,6 +1,6 @@
 ---
 title: "How much of an impact can a great agile consultant have?"
-date: 01/24/2023 07:30:02
+date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 external_url: https://www.youtube.com/watch?v=8vu-AXJwwYk

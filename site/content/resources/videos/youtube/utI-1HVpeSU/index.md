@@ -1,6 +1,6 @@
 ---
 title: "Quotes Dictatorship vs Democracy"
-date: 10/15/2023 07:00:31
+date: 2023-10-15T07:00:31Z
 videoId: utI-1HVpeSU
 url: /resources/videos/quotes-dictatorship-vs-democracy
 external_url: https://www.youtube.com/watch?v=utI-1HVpeSU

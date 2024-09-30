@@ -1,6 +1,6 @@
 ---
 title: "7 Virtues of agile. Kindness"
-date: 12/11/2023 07:00:01
+date: 2023-12-11T07:00:01Z
 videoId: 4nhKXAgutZw
 url: /resources/videos/7-virtues-of-agile-kindness
 external_url: https://www.youtube.com/watch?v=4nhKXAgutZw

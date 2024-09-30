@@ -1,6 +1,6 @@
 ---
 title: "Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelwood [mktng]"
-date: 07/27/2022 18:45:14
+date: 2022-07-27T18:45:14Z
 videoId: bvCU_N6iY_4
 url: /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 external_url: https://www.youtube.com/watch?v=bvCU_N6iY_4

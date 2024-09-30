@@ -1,6 +1,6 @@
 ---
 title: "What are some big red flags when hiring an agile consultant?"
-date: 01/25/2023 07:30:02
+date: 2023-01-25T07:30:02Z
 videoId: 9HxMS_fg6Kw
 url: /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=9HxMS_fg6Kw

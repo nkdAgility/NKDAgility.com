@@ -1,6 +1,6 @@
 ---
 title: "3 steps developers must follow if the product owner is incompetent"
-date: 10/27/2023 14:30:10
+date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 external_url: https://www.youtube.com/watch?v=JGQ5zW6F6Uc

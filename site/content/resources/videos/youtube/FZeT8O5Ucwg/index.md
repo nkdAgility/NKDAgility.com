@@ -1,6 +1,6 @@
 ---
 title: "The Tyranny of Taylorism & how to detect Agile BS!"
-date: 03/18/2020 13:56:05
+date: 2020-03-18T13:56:05Z
 videoId: FZeT8O5Ucwg
 url: /resources/videos/the-tyranny-of-taylorism-&-how-to-detect-agile-bs!
 external_url: https://www.youtube.com/watch?v=FZeT8O5Ucwg

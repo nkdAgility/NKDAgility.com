@@ -1,6 +1,6 @@
 ---
 title: "Why is Scrum so easy to understand but incredibly hard to master?"
-date: 02/28/2023 07:00:18
+date: 2023-02-28T07:00:18Z
 videoId: zSQSQPFsy-o
 url: /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
 external_url: https://www.youtube.com/watch?v=zSQSQPFsy-o

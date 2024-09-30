@@ -1,6 +1,6 @@
 ---
 title: "What is the sprint review workshop and how will it help organizations?"
-date: 06/30/2023 07:00:18
+date: 2023-06-30T07:00:18Z
 videoId: uYm_wb1sHJE
 url: /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 external_url: https://www.youtube.com/watch?v=uYm_wb1sHJE

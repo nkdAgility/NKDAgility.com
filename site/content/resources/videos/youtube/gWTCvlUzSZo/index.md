@@ -1,6 +1,6 @@
 ---
 title: "5 tools that Scrum Masters love. Part 3"
-date: 09/21/2023 07:00:14
+date: 2023-09-21T07:00:14Z
 videoId: gWTCvlUzSZo
 url: /resources/videos/5-tools-that-scrum-masters-love-part-3
 external_url: https://www.youtube.com/watch?v=gWTCvlUzSZo

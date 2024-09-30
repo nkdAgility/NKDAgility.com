@@ -1,6 +1,6 @@
 ---
 title: "Overview of 'applying flow metrics for Scrum' kanban course."
-date: 02/19/2024 07:00:09
+date: 2024-02-19T07:00:09Z
 videoId: NeGch-lQkPA
 url: /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 external_url: https://www.youtube.com/watch?v=NeGch-lQkPA

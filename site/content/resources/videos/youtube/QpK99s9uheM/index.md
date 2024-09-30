@@ -1,6 +1,6 @@
 ---
 title: "Is a scrum master an agile project manager?"
-date: 05/24/2023 07:00:23
+date: 2023-05-24T07:00:23Z
 videoId: QpK99s9uheM
 url: /resources/videos/is-a-scrum-master-an-agile-project-manager-
 external_url: https://www.youtube.com/watch?v=QpK99s9uheM

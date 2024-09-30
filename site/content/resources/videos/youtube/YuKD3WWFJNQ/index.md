@@ -1,6 +1,6 @@
 ---
 title: "Silence! 7 Harbingers agile apocalypse."
-date: 10/23/2023 11:00:23
+date: 2023-10-23T11:00:23Z
 videoId: YuKD3WWFJNQ
 url: /resources/videos/silence!-7-harbingers-agile-apocalypse-
 external_url: https://www.youtube.com/watch?v=YuKD3WWFJNQ

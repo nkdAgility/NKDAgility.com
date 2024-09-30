@@ -1,6 +1,6 @@
 ---
 title: "7 signs of the agile apocalypse. Famine"
-date: 11/08/2023 06:45:00
+date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
 url: /resources/videos/7-signs-of-the-agile-apocalypse-famine
 external_url: https://www.youtube.com/watch?v=ARhXjid0zSE

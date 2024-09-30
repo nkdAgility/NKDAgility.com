@@ -1,6 +1,6 @@
 ---
 title: "Lust! 7 Deadly Sins of Agile"
-date: 10/12/2023 07:00:12
+date: 2023-10-12T07:00:12Z
 videoId: RBZFAxEUQC4
 url: /resources/videos/lust!-7-deadly-sins-of-agile
 external_url: https://www.youtube.com/watch?v=RBZFAxEUQC4

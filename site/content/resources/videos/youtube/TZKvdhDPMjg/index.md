@@ -1,6 +1,6 @@
 ---
 title: "One thing a client can do ensure a successful agile engagement."
-date: 05/05/2023 07:00:10
+date: 2023-05-05T07:00:10Z
 videoId: TZKvdhDPMjg
 url: /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 external_url: https://www.youtube.com/watch?v=TZKvdhDPMjg

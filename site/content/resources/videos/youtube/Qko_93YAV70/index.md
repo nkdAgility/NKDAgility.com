@@ -1,6 +1,6 @@
 ---
 title: "Kanban Vs Scrum"
-date: 08/13/2024 07:04:49
+date: 2024-08-13T07:04:49Z
 videoId: Qko_93YAV70
 url: /resources/videos/kanban-vs-scrum
 external_url: https://www.youtube.com/watch?v=Qko_93YAV70

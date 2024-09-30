@@ -1,6 +1,6 @@
 ---
 title: "Favourite scrum course to teach and why?"
-date: 09/05/2023 07:00:12
+date: 2023-09-05T07:00:12Z
 videoId: WIVDWzps4aY
 url: /resources/videos/favourite-scrum-course-to-teach-and-why-
 external_url: https://www.youtube.com/watch?v=WIVDWzps4aY

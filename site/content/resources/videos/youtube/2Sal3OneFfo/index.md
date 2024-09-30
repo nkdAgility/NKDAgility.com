@@ -1,6 +1,6 @@
 ---
 title: "Azure DevOps Migration services. Part 1"
-date: 09/03/2024 09:57:36
+date: 2024-09-03T09:57:36Z
 videoId: 2Sal3OneFfo
 url: /resources/videos/azure-devops-migration-services-part-1
 external_url: https://www.youtube.com/watch?v=2Sal3OneFfo

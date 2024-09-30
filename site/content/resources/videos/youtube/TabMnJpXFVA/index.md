@@ -1,6 +1,6 @@
 ---
 title: "Why are you going the immersive Scrum training route?"
-date: 03/16/2023 07:00:16
+date: 2023-03-16T07:00:16Z
 videoId: TabMnJpXFVA
 url: /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 external_url: https://www.youtube.com/watch?v=TabMnJpXFVA

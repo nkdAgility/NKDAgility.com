@@ -1,6 +1,6 @@
 ---
 title: "What is a product vision?"
-date: 05/29/2023 14:00:36
+date: 2023-05-29T14:00:36Z
 videoId: oiIf2vdqgg0
 url: /resources/videos/what-is-a-product-vision-
 external_url: https://www.youtube.com/watch?v=oiIf2vdqgg0

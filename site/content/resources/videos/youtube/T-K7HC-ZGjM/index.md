@@ -1,6 +1,6 @@
 ---
 title: "What is a sprint backlog?"
-date: 05/29/2023 12:01:04
+date: 2023-05-29T12:01:04Z
 videoId: T-K7HC-ZGjM
 url: /resources/videos/what-is-a-sprint-backlog-
 external_url: https://www.youtube.com/watch?v=T-K7HC-ZGjM

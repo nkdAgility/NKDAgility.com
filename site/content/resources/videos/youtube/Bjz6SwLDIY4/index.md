@@ -1,6 +1,6 @@
 ---
 title: "The art of life lies in a constant readjustment to our surroundings"
-date: 01/19/2024 06:08:37
+date: 2024-01-19T06:08:37Z
 videoId: Bjz6SwLDIY4
 url: /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 external_url: https://www.youtube.com/watch?v=Bjz6SwLDIY4

@@ -1,6 +1,6 @@
 ---
 title: "How do you define a definition of done if you aren't 100% sure what the solution is?"
-date: 11/14/2023 07:00:30
+date: 2023-11-14T07:00:30Z
 videoId: syzFdEP1Eso
 url: /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 external_url: https://www.youtube.com/watch?v=syzFdEP1Eso

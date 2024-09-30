@@ -1,6 +1,6 @@
 ---
 title: "Do you think immersivelearning is the future of Scrum training? If so, why?"
-date: 11/23/2023 08:30:06
+date: 2023-11-23T08:30:06Z
 videoId: Frqfd0EPj_4
 url: /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 external_url: https://www.youtube.com/watch?v=Frqfd0EPj_4

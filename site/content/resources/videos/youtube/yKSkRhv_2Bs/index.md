@@ -1,6 +1,6 @@
 ---
 title: "Reasons to do an APS Course in 60 seconds"
-date: 07/10/2023 14:30:31
+date: 2023-07-10T14:30:31Z
 videoId: yKSkRhv_2Bs
 url: /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
 external_url: https://www.youtube.com/watch?v=yKSkRhv_2Bs

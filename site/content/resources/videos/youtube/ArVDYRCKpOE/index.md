@@ -1,6 +1,6 @@
 ---
 title: "Quotes, Fake it until you make it"
-date: 10/11/2023 15:00:13
+date: 2023-10-11T15:00:13Z
 videoId: ArVDYRCKpOE
 url: /resources/videos/quotes,-fake-it-until-you-make-it
 external_url: https://www.youtube.com/watch?v=ArVDYRCKpOE

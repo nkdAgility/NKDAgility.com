@@ -1,6 +1,6 @@
 ---
 title: "Chaos! 7 Harbingers agile apocalypse"
-date: 10/23/2023 07:00:21
+date: 2023-10-23T07:00:21Z
 videoId: vhBsAXev014
 url: /resources/videos/chaos!-7-harbingers-agile-apocalypse
 external_url: https://www.youtube.com/watch?v=vhBsAXev014

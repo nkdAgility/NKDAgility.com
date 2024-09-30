@@ -1,6 +1,6 @@
 ---
 title: "Agile Scotland 2023 Why does this matter to you and why should people come to the event?"
-date: 06/28/2023 07:00:21
+date: 2023-06-28T07:00:21Z
 videoId: uGIhajIO3pQ
 url: /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 external_url: https://www.youtube.com/watch?v=uGIhajIO3pQ

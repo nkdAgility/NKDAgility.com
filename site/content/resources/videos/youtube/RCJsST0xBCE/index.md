@@ -1,6 +1,6 @@
 ---
 title: "Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility"
-date: 10/17/2019 19:16:03
+date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 external_url: https://www.youtube.com/watch?v=RCJsST0xBCE

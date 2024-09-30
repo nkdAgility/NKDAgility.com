@@ -1,6 +1,6 @@
 ---
 title: "Raise, Ante Up, or Fold - The Ultimate Decision in Business"
-date: 09/13/2023 13:59:54
+date: 2023-09-13T13:59:54Z
 videoId: B12n_52H48U
 url: /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 external_url: https://www.youtube.com/watch?v=B12n_52H48U

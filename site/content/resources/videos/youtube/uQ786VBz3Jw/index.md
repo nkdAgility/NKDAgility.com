@@ -1,6 +1,6 @@
 ---
 title: "What is your 1 tip for effective sprint planning?"
-date: 05/26/2023 14:00:37
+date: 2023-05-26T14:00:37Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 external_url: https://www.youtube.com/watch?v=uQ786VBz3Jw

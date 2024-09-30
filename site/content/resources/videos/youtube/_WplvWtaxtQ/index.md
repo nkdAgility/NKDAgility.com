@@ -1,6 +1,6 @@
 ---
 title: "Why do you think the PSM immersive learning experience is a great fit for aspiring scrum masters"
-date: 11/21/2023 07:00:21
+date: 2023-11-21T07:00:21Z
 videoId: _WplvWtaxtQ
 url: /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 external_url: https://www.youtube.com/watch?v=_WplvWtaxtQ

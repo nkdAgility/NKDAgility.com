@@ -1,6 +1,6 @@
 ---
 title: "What does a poor scrum team look, act and feel like?"
-date: 01/27/2023 07:00:16
+date: 2023-01-27T07:00:16Z
 videoId: irSqFAJNJ9c
 url: /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 external_url: https://www.youtube.com/watch?v=irSqFAJNJ9c

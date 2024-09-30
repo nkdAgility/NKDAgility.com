@@ -1,6 +1,6 @@
 ---
 title: "A view into the PSM Training from Scrum.org"
-date: 07/24/2021 07:58:47
+date: 2021-07-24T07:58:47Z
 videoId: qnWVeumTKcE
 url: /resources/videos/a-view-into-the-psm-training-from-scrum-org
 external_url: https://www.youtube.com/watch?v=qnWVeumTKcE

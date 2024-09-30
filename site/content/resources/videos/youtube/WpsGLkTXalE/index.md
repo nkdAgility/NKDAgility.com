@@ -1,6 +1,6 @@
 ---
 title: "7 signs of the agile apocalypse. Silence"
-date: 11/10/2023 06:45:01
+date: 2023-11-10T06:45:01Z
 videoId: WpsGLkTXalE
 url: /resources/videos/7-signs-of-the-agile-apocalypse-silence
 external_url: https://www.youtube.com/watch?v=WpsGLkTXalE

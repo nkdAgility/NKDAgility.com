@@ -1,6 +1,6 @@
 ---
 title: "Scrum Master versus seasoned agile coach?"
-date: 06/27/2023 11:00:03
+date: 2023-06-27T11:00:03Z
 videoId: 54-Zw2A7zEM
 url: /resources/videos/scrum-master-versus-seasoned-agile-coach-
 external_url: https://www.youtube.com/watch?v=54-Zw2A7zEM

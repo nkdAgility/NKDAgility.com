@@ -1,6 +1,6 @@
 ---
 title: "Why is the PAL E immersivelearning experience such a great fit for aspiring agileleaders?"
-date: 11/24/2023 07:00:00
+date: 2023-11-24T07:00:00Z
 videoId: 1VzbtRspOsM
 url: /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 external_url: https://www.youtube.com/watch?v=1VzbtRspOsM

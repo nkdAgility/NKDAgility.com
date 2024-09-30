@@ -1,6 +1,6 @@
 ---
 title: "How does a scrum team create a sprint goal?"
-date: 06/01/2023 11:00:15
+date: 2023-06-01T11:00:15Z
 videoId: GJSBFyoHk8E
 url: /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
 external_url: https://www.youtube.com/watch?v=GJSBFyoHk8E

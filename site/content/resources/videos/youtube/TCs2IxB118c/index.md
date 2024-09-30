@@ -1,6 +1,6 @@
 ---
 title: "The Power of Engaged Teams Through Mentorship Programs"
-date: 09/02/2024 07:00:19
+date: 2024-09-02T07:00:19Z
 videoId: TCs2IxB118c
 url: /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 external_url: https://www.youtube.com/watch?v=TCs2IxB118c

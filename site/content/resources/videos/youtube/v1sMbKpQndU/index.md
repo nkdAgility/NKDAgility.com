@@ -1,6 +1,6 @@
 ---
 title: "What are the top 2 things a scrum master needs to bear in mind when adopting the coaching stance?"
-date: 09/18/2023 07:00:32
+date: 2023-09-18T07:00:32Z
 videoId: v1sMbKpQndU
 url: /resources/videos/what-are-the-top-2-things-a-scrum-master-needs-to-bear-in-mind-when-adopting-the-coaching-stance-
 external_url: https://www.youtube.com/watch?v=v1sMbKpQndU

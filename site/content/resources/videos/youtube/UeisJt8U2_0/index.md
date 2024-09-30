@@ -1,6 +1,6 @@
 ---
 title: "Plague! 7 Harbingers agile apocalypse"
-date: 10/20/2023 07:00:23
+date: 2023-10-20T07:00:23Z
 videoId: UeisJt8U2_0
 url: /resources/videos/plague!-7-harbingers-agile-apocalypse
 external_url: https://www.youtube.com/watch?v=UeisJt8U2_0

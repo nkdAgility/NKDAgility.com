@@ -1,6 +1,6 @@
 ---
 title: "Kanban principles"
-date: 08/17/2024 19:03:52
+date: 2024-08-17T19:03:52Z
 videoId: 220tyMrhSFE
 url: /resources/videos/kanban-principles
 external_url: https://www.youtube.com/watch?v=220tyMrhSFE

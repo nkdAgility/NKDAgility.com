@@ -1,6 +1,6 @@
 ---
 title: " shorts 7 Virtues of agile. Patience"
-date: 12/08/2023 11:00:09
+date: 2023-12-08T11:00:09Z
 videoId: 4p5xeJZXvcE
 url: /resources/videos/-shorts-7-virtues-of-agile-patience
 external_url: https://www.youtube.com/watch?v=4p5xeJZXvcE

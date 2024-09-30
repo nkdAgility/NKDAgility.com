@@ -1,6 +1,6 @@
 ---
 title: "What will you learn on the professional scrum master course?"
-date: 01/19/2023 07:00:14
+date: 2023-01-19T07:00:14Z
 videoId: zqwHUwnw0hg
 url: /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 external_url: https://www.youtube.com/watch?v=zqwHUwnw0hg

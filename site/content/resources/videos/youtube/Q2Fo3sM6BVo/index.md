@@ -1,6 +1,6 @@
 ---
 title: "The Scrum Framework!"
-date: 10/18/2022 16:13:02
+date: 2022-10-18T16:13:02Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/the-scrum-framework!
 external_url: https://www.youtube.com/watch?v=Q2Fo3sM6BVo

@@ -1,6 +1,6 @@
 ---
 title: "What do people love most about the 4-day training format?"
-date: 05/11/2023 12:00:02
+date: 2023-05-11T12:00:02Z
 videoId: 3XsOseKG57g
 url: /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
 external_url: https://www.youtube.com/watch?v=3XsOseKG57g

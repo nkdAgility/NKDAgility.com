@@ -1,6 +1,6 @@
 ---
 title: "Professional Agile Leadership Essentials Overview"
-date: 07/07/2020 20:10:33
+date: 2020-07-07T20:10:33Z
 videoId: gEJhbET3nqs
 url: /resources/videos/professional-agile-leadership-essentials-overview
 external_url: https://www.youtube.com/watch?v=gEJhbET3nqs

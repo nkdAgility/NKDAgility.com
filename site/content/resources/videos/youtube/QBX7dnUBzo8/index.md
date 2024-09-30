@@ -1,6 +1,6 @@
 ---
 title: "Agile Techniques That Boost Startups!"
-date: 01/24/2024 07:00:16
+date: 2024-01-24T07:00:16Z
 videoId: QBX7dnUBzo8
 url: /resources/videos/agile-techniques-that-boost-startups!
 external_url: https://www.youtube.com/watch?v=QBX7dnUBzo8

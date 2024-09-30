@@ -1,6 +1,6 @@
 ---
 title: "Kanban with Team Foundation Service"
-date: 08/17/2013 07:27:19
+date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
 url: /resources/videos/kanban-with-team-foundation-service
 external_url: https://www.youtube.com/watch?v=XCwb2-h8pZg

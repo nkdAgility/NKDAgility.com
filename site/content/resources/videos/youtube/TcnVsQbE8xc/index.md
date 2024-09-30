@@ -1,6 +1,6 @@
 ---
 title: "Reasons to do a PSM II Course in 60 seconds"
-date: 07/12/2023 14:00:30
+date: 2023-07-12T14:00:30Z
 videoId: TcnVsQbE8xc
 url: /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 external_url: https://www.youtube.com/watch?v=TcnVsQbE8xc

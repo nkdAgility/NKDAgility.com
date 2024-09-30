@@ -1,6 +1,6 @@
 ---
 title: "Where is consensus valuable and where does it kill great product development?"
-date: 09/25/2023 07:00:08
+date: 2023-09-25T07:00:08Z
 videoId: Na9jm-enlD0
 url: /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 external_url: https://www.youtube.com/watch?v=Na9jm-enlD0

@@ -1,6 +1,6 @@
 ---
 title: "Talk us through the new Product Backlog Management course from Scrum Org"
-date: 11/30/2023 07:00:11
+date: 2023-11-30T07:00:11Z
 videoId: UOzrABhafx0
 url: /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 external_url: https://www.youtube.com/watch?v=UOzrABhafx0

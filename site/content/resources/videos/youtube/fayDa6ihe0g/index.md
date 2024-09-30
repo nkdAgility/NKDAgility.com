@@ -1,6 +1,6 @@
 ---
 title: "Live Virtual Professional Scrum Product Owner in 5 minutes!"
-date: 10/22/2021 10:52:48
+date: 2021-10-22T10:52:48Z
 videoId: fayDa6ihe0g
 url: /resources/videos/live-virtual-professional-scrum-product-owner-in-5-minutes!
 external_url: https://www.youtube.com/watch?v=fayDa6ihe0g

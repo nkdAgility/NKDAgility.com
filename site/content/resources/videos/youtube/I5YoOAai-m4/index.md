@@ -1,6 +1,6 @@
 ---
 title: "Agile coach versus professional coach"
-date: 06/26/2023 11:00:14
+date: 2023-06-26T11:00:14Z
 videoId: I5YoOAai-m4
 url: /resources/videos/agile-coach-versus-professional-coach
 external_url: https://www.youtube.com/watch?v=I5YoOAai-m4

@@ -1,6 +1,6 @@
 ---
 title: "1 critical skill for a scrum master and why?"
-date: 04/25/2023 07:00:15
+date: 2023-04-25T07:00:15Z
 videoId: kEywzkMhWl0
 url: /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 external_url: https://www.youtube.com/watch?v=kEywzkMhWl0

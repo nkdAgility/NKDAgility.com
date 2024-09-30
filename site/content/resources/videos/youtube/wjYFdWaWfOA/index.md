@@ -1,6 +1,6 @@
 ---
 title: "What is a scrum master? Why are they essential?"
-date: 05/22/2023 14:00:41
+date: 2023-05-22T14:00:41Z
 videoId: wjYFdWaWfOA
 url: /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 external_url: https://www.youtube.com/watch?v=wjYFdWaWfOA

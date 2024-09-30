@@ -113,7 +113,7 @@ function Get-NewMarkdownContents {
 
     # Format the title to be URL-safe and remove invalid characters
     $title = $videoSnippet.title -replace '[#"]', ' ' -replace ':', ' - ' -replace '\s+', ' '  # Ensure only one space in a row
-    $publishedAt = $videoSnippet.publishedAt
+    $publishedAt = Get-Date $videoSnippet.publishedAt -Format "yyyy-MM-ddTHH:mm:ssZ"
     $urlSafeTitle = ($title -replace '[:\/\\*?"<>|#%.]', '-' -replace '\s+', '-').ToLower()
 
     # Remove consecutive dashes
@@ -144,5 +144,5 @@ $fullDescription
 }
 
 # Main calls
-Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

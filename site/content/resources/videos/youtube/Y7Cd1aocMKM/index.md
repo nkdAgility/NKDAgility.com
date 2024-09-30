@@ -1,6 +1,6 @@
 ---
 title: "How effective is scrum training via digital delivery?"
-date: 01/31/2023 07:00:08
+date: 2023-01-31T07:00:08Z
 videoId: Y7Cd1aocMKM
 url: /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
 external_url: https://www.youtube.com/watch?v=Y7Cd1aocMKM

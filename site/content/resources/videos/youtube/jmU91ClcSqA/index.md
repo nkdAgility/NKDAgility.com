@@ -1,6 +1,6 @@
 ---
 title: "What is project management?"
-date: 05/22/2023 07:00:14
+date: 2023-05-22T07:00:14Z
 videoId: jmU91ClcSqA
 url: /resources/videos/what-is-project-management-
 external_url: https://www.youtube.com/watch?v=jmU91ClcSqA

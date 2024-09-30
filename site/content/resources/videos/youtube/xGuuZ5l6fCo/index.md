@@ -1,6 +1,6 @@
 ---
 title: "Are You TRULY Empowering Your Teams to Respond to User Feedback? | The Agile Reality Check [5/6]"
-date: 07/19/2024 06:45:03
+date: 2024-07-19T06:45:03Z
 videoId: xGuuZ5l6fCo
 url: /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
 external_url: https://www.youtube.com/watch?v=xGuuZ5l6fCo

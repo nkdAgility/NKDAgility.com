@@ -1,6 +1,6 @@
 ---
 title: "Worst agile advice heard?"
-date: 05/09/2023 09:30:04
+date: 2023-05-09T09:30:04Z
 videoId: L6opxb0FYcU
 url: /resources/videos/worst-agile-advice-heard-
 external_url: https://www.youtube.com/watch?v=L6opxb0FYcU

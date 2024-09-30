@@ -1,6 +1,6 @@
 ---
 title: "How does Naked Agility select Scrum trainers?"
-date: 01/04/2023 14:35:57
+date: 2023-01-04T14:35:57Z
 videoId: uJaBPyixNlc
 url: /resources/videos/how-does-naked-agility-select-scrum-trainers-
 external_url: https://www.youtube.com/watch?v=uJaBPyixNlc

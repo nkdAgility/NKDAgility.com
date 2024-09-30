@@ -1,6 +1,6 @@
 ---
 title: "If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?"
-date: 07/13/2023 12:20:07
+date: 2023-07-13T12:20:07Z
 videoId: wawnGp8b2q8
 url: /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 external_url: https://www.youtube.com/watch?v=wawnGp8b2q8

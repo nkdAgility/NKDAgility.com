@@ -1,6 +1,6 @@
 ---
 title: "How does your real world experience translate into your training style?"
-date: 01/20/2023 07:00:08
+date: 2023-01-20T07:00:08Z
 videoId: N0Ci9PQQRLc
 url: /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 external_url: https://www.youtube.com/watch?v=N0Ci9PQQRLc

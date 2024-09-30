@@ -1,6 +1,6 @@
 ---
 title: " shorts 5 things you would teach a productowner apprentice. Part 3"
-date: 12/15/2023 11:00:17
+date: 2023-12-15T11:00:17Z
 videoId: KhP_e26OSKs
 url: /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-3
 external_url: https://www.youtube.com/watch?v=KhP_e26OSKs

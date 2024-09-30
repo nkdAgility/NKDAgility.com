@@ -1,6 +1,6 @@
 ---
 title: " shorts 7 Virtues of Agile. Chastity"
-date: 12/04/2023 11:00:23
+date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/-shorts-7-virtues-of-agile-chastity
 external_url: https://www.youtube.com/watch?v=OMlLiLkCmMY

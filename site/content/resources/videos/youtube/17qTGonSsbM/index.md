@@ -1,6 +1,6 @@
 ---
 title: "“If you do not change direction, you may end up where you are heading ” – Lao Tzu"
-date: 01/20/2024 07:00:00
+date: 2024-01-20T07:00:00Z
 videoId: 17qTGonSsbM
 url: /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 external_url: https://www.youtube.com/watch?v=17qTGonSsbM

@@ -1,6 +1,6 @@
 ---
 title: "Why do you prefer agile consulting over agile coaching?"
-date: 03/14/2023 07:00:05
+date: 2023-03-14T07:00:05Z
 videoId: FJjiCodxyK4
 url: /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
 external_url: https://www.youtube.com/watch?v=FJjiCodxyK4

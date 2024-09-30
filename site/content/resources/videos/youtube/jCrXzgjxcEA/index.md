@@ -1,6 +1,6 @@
 ---
 title: "Kanban with Azure DevOps"
-date: 03/29/2024 16:42:17
+date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/kanban-with-azure-devops
 external_url: https://www.youtube.com/watch?v=jCrXzgjxcEA

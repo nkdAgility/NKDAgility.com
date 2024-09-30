@@ -1,6 +1,6 @@
 ---
 title: "What specific outcomes and improvements can clients expect when they engage with your DevOps service"
-date: 08/21/2024 07:00:19
+date: 2024-08-21T07:00:19Z
 videoId: KXvd_oyLe3Q
 url: /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 external_url: https://www.youtube.com/watch?v=KXvd_oyLe3Q

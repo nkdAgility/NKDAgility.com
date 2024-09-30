@@ -1,6 +1,6 @@
 ---
 title: "Improving workflow with Kanban"
-date: 08/15/2024 07:04:39
+date: 2024-08-15T07:04:39Z
 videoId: sIhG2i7frpE
 url: /resources/videos/improving-workflow-with-kanban
 external_url: https://www.youtube.com/watch?v=sIhG2i7frpE

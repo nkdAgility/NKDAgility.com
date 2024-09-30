@@ -1,6 +1,6 @@
 ---
 title: "5 October 2023 Product Ownership and Lean Product Development Webinar"
-date: 09/28/2023 09:01:38
+date: 2023-09-28T09:01:38Z
 videoId: UW26aDoBVbQ
 url: /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 external_url: https://www.youtube.com/watch?v=UW26aDoBVbQ

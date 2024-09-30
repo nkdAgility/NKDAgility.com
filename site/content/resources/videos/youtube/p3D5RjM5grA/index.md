@@ -1,6 +1,6 @@
 ---
 title: "Ep 006 - Live Virtual Retrospective On PAL-e with Russell Miller"
-date: 04/25/2020 02:29:57
+date: 2020-04-25T02:29:57Z
 videoId: p3D5RjM5grA
 url: /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 external_url: https://www.youtube.com/watch?v=p3D5RjM5grA

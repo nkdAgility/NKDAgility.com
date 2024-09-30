@@ -1,6 +1,6 @@
 ---
 title: "Envy! One of the 7 Deadly Sins of Agile"
-date: 10/09/2023 11:17:10
+date: 2023-10-09T11:17:10Z
 videoId: 4mkwTMMtKls
 url: /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
 external_url: https://www.youtube.com/watch?v=4mkwTMMtKls

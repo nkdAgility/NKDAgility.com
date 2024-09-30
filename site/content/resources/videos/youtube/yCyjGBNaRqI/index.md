@@ -1,6 +1,6 @@
 ---
 title: "NKD Agility Mission and Purpose"
-date: 05/10/2024 06:45:01
+date: 2024-05-10T06:45:01Z
 videoId: yCyjGBNaRqI
 url: /resources/videos/nkd-agility-mission-and-purpose
 external_url: https://www.youtube.com/watch?v=yCyjGBNaRqI

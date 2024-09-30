@@ -1,6 +1,6 @@
 ---
 title: "3 best ways to wreck your Kanban adoption. Sweeping problems under the rug."
-date: 03/04/2024 07:00:13
+date: 2024-03-04T07:00:13Z
 videoId: Xa_e2EnLEV4
 url: /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-sweeping-problems-under-the-rug-
 external_url: https://www.youtube.com/watch?v=Xa_e2EnLEV4

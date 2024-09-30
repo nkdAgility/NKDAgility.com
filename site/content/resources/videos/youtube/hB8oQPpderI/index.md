@@ -1,6 +1,6 @@
 ---
 title: "One limitation of a book versus a scrum course."
-date: 05/08/2023 09:30:10
+date: 2023-05-08T09:30:10Z
 videoId: hB8oQPpderI
 url: /resources/videos/one-limitation-of-a-book-versus-a-scrum-course-
 external_url: https://www.youtube.com/watch?v=hB8oQPpderI

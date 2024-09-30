@@ -1,6 +1,6 @@
 ---
 title: "How would you like to be remembered as a Professional Scrum Trainer?"
-date: 04/19/2023 07:00:06
+date: 2023-04-19T07:00:06Z
 videoId: Dl5v4j1f-WE
 url: /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 external_url: https://www.youtube.com/watch?v=Dl5v4j1f-WE

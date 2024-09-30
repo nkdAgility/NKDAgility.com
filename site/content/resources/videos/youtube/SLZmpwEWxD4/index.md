@@ -1,6 +1,6 @@
 ---
 title: "Kanban Visualisation practices! Stratagies or Best Practices for effectively visualizing workflow!"
-date: 03/07/2024 07:00:10
+date: 2024-03-07T07:00:10Z
 videoId: SLZmpwEWxD4
 url: /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 external_url: https://www.youtube.com/watch?v=SLZmpwEWxD4

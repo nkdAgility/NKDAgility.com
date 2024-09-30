@@ -1,6 +1,6 @@
 ---
 title: "Why did you embrace Agile over traditional project management as a developer?"
-date: 03/02/2023 07:00:01
+date: 2023-03-02T07:00:01Z
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 external_url: https://www.youtube.com/watch?v=4FTEJ4tDQqU

@@ -1,6 +1,6 @@
 ---
 title: "Why did Healthgrades choose Martin Hinshelwood"
-date: 07/28/2017 12:40:03
+date: 2017-07-28T12:40:03Z
 videoId: DWL0PLkFazs
 url: /resources/videos/why-did-healthgrades-choose-martin-hinshelwood
 external_url: https://www.youtube.com/watch?v=DWL0PLkFazs

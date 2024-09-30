@@ -1,6 +1,6 @@
 ---
 title: "How does scrum help leadership teams pick the most valuable work to focus on?"
-date: 02/10/2023 07:15:02
+date: 2023-02-10T07:15:02Z
 videoId: bpBhREVX85o
 url: /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
 external_url: https://www.youtube.com/watch?v=bpBhREVX85o

@@ -1,6 +1,6 @@
 ---
 title: "Quotes In the past the man has been first; in the future the system must be first Frederick Taylor"
-date: 10/12/2023 11:00:15
+date: 2023-10-12T11:00:15Z
 videoId: KX1xViey_BA
 url: /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 external_url: https://www.youtube.com/watch?v=KX1xViey_BA

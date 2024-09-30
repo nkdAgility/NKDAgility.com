@@ -1,6 +1,6 @@
 ---
 title: "Why did so many of the early agile transformations fail?"
-date: 02/06/2023 07:00:02
+date: 2023-02-06T07:00:02Z
 videoId: 8nQ0VJ1CdqU
 url: /resources/videos/why-did-so-many-of-the-early-agile-transformations-fail-
 external_url: https://www.youtube.com/watch?v=8nQ0VJ1CdqU

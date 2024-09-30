@@ -1,6 +1,6 @@
 ---
 title: "How good is the PSPO-A course in helping determine product direction?"
-date: 03/22/2023 07:00:17
+date: 2023-03-22T07:00:17Z
 videoId: nTxn_izPBFQ
 url: /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 external_url: https://www.youtube.com/watch?v=nTxn_izPBFQ

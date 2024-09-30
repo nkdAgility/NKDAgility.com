@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Scrum's Potential - Avoiding Dogma and Embracing Flexibility"
-date: 06/05/2023 07:00:20
+date: 2023-06-05T07:00:20Z
 videoId: YUlpnyN2IeI
 url: /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 external_url: https://www.youtube.com/watch?v=YUlpnyN2IeI

@@ -1,6 +1,6 @@
 ---
 title: "2018 VSTS Sync Migration Tools Overview"
-date: 12/30/2017 18:57:40
+date: 2017-12-30T18:57:40Z
 videoId: ZxDktQae10M
 url: /resources/videos/2018-vsts-sync-migration-tools-overview
 external_url: https://www.youtube.com/watch?v=ZxDktQae10M

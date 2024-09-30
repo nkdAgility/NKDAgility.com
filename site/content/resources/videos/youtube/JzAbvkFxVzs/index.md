@@ -1,6 +1,6 @@
 ---
 title: "5 ghosts of agile past - dogma"
-date: 01/03/2024 07:00:13
+date: 2024-01-03T07:00:13Z
 videoId: JzAbvkFxVzs
 url: /resources/videos/5-ghosts-of-agile-past-dogma
 external_url: https://www.youtube.com/watch?v=JzAbvkFxVzs

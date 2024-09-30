@@ -1,6 +1,6 @@
 ---
 title: "3rd June 2020 - Office Hours \ Ask Me Anything"
-date: 06/04/2020 05:33:42
+date: 2020-06-04T05:33:42Z
 videoId: gc8Pq_5CepY
 url: /resources/videos/3rd-june-2020-office-hours-ask-me-anything
 external_url: https://www.youtube.com/watch?v=gc8Pq_5CepY

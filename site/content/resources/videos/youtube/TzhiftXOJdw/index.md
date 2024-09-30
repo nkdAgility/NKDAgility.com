@@ -1,6 +1,6 @@
 ---
 title: "What more needs to happen before traditional organizations consider Agile"
-date: 07/06/2023 07:08:30
+date: 2023-07-06T07:08:30Z
 videoId: TzhiftXOJdw
 url: /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 external_url: https://www.youtube.com/watch?v=TzhiftXOJdw

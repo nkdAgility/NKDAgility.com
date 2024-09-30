@@ -1,6 +1,6 @@
 ---
 title: "How is Agile Leadership different to traditional management?"
-date: 08/09/2023 13:43:27
+date: 2023-08-09T13:43:27Z
 videoId: Jkw4sMe6h-w
 url: /resources/videos/how-is-agile-leadership-different-to-traditional-management-
 external_url: https://www.youtube.com/watch?v=Jkw4sMe6h-w

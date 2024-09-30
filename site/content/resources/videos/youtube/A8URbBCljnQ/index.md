@@ -1,6 +1,6 @@
 ---
 title: "27th March 2020 - Office Hours \ Ask Me Anything"
-date: 04/10/2020 18:30:42
+date: 2020-04-10T18:30:42Z
 videoId: A8URbBCljnQ
 url: /resources/videos/27th-march-2020-office-hours-ask-me-anything
 external_url: https://www.youtube.com/watch?v=A8URbBCljnQ

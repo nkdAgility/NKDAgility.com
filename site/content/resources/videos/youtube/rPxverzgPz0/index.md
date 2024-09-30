@@ -1,6 +1,6 @@
 ---
 title: "Would you recommend the APS course to a newbie scrum team?"
-date: 03/23/2023 07:00:15
+date: 2023-03-23T07:00:15Z
 videoId: rPxverzgPz0
 url: /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 external_url: https://www.youtube.com/watch?v=rPxverzgPz0

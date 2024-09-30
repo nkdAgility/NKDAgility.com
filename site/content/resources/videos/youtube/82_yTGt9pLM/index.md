@@ -1,6 +1,6 @@
 ---
 title: "Agile Consulting Services overview"
-date: 06/17/2023 07:30:02
+date: 2023-06-17T07:30:02Z
 videoId: 82_yTGt9pLM
 url: /resources/videos/agile-consulting-services-overview
 external_url: https://www.youtube.com/watch?v=82_yTGt9pLM

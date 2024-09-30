@@ -1,6 +1,6 @@
 ---
 title: "3 core practices of Kanban Defining and visualizing a workflow"
-date: 02/27/2024 07:00:31
+date: 2024-02-27T07:00:31Z
 videoId: sbr8NkJSLPU
 url: /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 external_url: https://www.youtube.com/watch?v=sbr8NkJSLPU

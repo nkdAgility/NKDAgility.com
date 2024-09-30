@@ -1,6 +1,6 @@
 ---
 title: "Why are recessions a great time for organizations to evaluate the opportunity of agile?"
-date: 02/09/2023 07:15:02
+date: 2023-02-09T07:15:02Z
 videoId: Nw0bXiOqu0Q
 url: /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
 external_url: https://www.youtube.com/watch?v=Nw0bXiOqu0Q

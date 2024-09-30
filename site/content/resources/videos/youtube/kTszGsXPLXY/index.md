@@ -1,6 +1,6 @@
 ---
 title: "How easy is it to create a Kanban pilot in the organization?"
-date: 02/14/2024 07:00:19
+date: 2024-02-14T07:00:19Z
 videoId: kTszGsXPLXY
 url: /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 external_url: https://www.youtube.com/watch?v=kTszGsXPLXY

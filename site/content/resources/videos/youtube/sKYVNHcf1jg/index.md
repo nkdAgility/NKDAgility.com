@@ -1,6 +1,6 @@
 ---
 title: "What was your worst day as an agile consultant?"
-date: 04/04/2023 07:00:16
+date: 2023-04-04T07:00:16Z
 videoId: sKYVNHcf1jg
 url: /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=sKYVNHcf1jg

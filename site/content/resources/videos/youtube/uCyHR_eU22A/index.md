@@ -1,6 +1,6 @@
 ---
 title: "How do you select the most valuable items for the sprint backlog?"
-date: 05/30/2023 07:00:18
+date: 2023-05-30T07:00:18Z
 videoId: uCyHR_eU22A
 url: /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
 external_url: https://www.youtube.com/watch?v=uCyHR_eU22A

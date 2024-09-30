@@ -1,6 +1,6 @@
 ---
 title: "Ep005 - Leading Agile Change"
-date: 04/17/2020 18:57:11
+date: 2020-04-17T18:57:11Z
 videoId: r_Af7X25IDk
 url: /resources/videos/ep005-leading-agile-change
 external_url: https://www.youtube.com/watch?v=r_Af7X25IDk

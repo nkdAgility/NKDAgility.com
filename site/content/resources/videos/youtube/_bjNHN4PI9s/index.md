@@ -1,6 +1,6 @@
 ---
 title: "Ep 007 - Running a Live Virtual Classroom"
-date: 05/02/2020 16:34:05
+date: 2020-05-02T16:34:05Z
 videoId: _bjNHN4PI9s
 url: /resources/videos/ep-007-running-a-live-virtual-classroom
 external_url: https://www.youtube.com/watch?v=_bjNHN4PI9s

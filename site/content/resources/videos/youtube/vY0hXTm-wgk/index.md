@@ -1,6 +1,6 @@
 ---
 title: "Professional Scrum Training from naked Agility with Martin Hinshelwood"
-date: 09/09/2022 14:17:04
+date: 2022-09-09T14:17:04Z
 videoId: vY0hXTm-wgk
 url: /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 external_url: https://www.youtube.com/watch?v=vY0hXTm-wgk

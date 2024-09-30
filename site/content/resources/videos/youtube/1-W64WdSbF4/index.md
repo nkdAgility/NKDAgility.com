@@ -1,6 +1,6 @@
 ---
 title: "Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]"
-date: 09/18/2021 13:32:34
+date: 2021-09-18T13:32:34Z
 videoId: 1-W64WdSbF4
 url: /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 external_url: https://www.youtube.com/watch?v=1-W64WdSbF4

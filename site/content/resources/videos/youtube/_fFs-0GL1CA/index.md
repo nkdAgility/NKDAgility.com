@@ -1,6 +1,6 @@
 ---
 title: "Why do you encourage people to follow a certification path in their career journey?"
-date: 03/07/2023 07:00:09
+date: 2023-03-07T07:00:09Z
 videoId: _fFs-0GL1CA
 url: /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 external_url: https://www.youtube.com/watch?v=_fFs-0GL1CA

@@ -1,6 +1,6 @@
 ---
 title: "Why is DevOps such a critical element of software engineering"
-date: 06/14/2023 14:30:02
+date: 2023-06-14T14:30:02Z
 videoId: 2AJ2JHdMRCc
 url: /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 external_url: https://www.youtube.com/watch?v=2AJ2JHdMRCc

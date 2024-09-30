@@ -1,6 +1,6 @@
 ---
 title: "How can companies derive greater benefit from training by investing in a private training course?"
-date: 05/05/2023 07:00:01
+date: 2023-05-05T07:00:01Z
 videoId: a2sXBMPHl2Y
 url: /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
 external_url: https://www.youtube.com/watch?v=a2sXBMPHl2Y

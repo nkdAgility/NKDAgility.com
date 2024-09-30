@@ -1,6 +1,6 @@
 ---
 title: "5 things to consider before hiring an agilecoach. Part 1"
-date: 11/20/2023 11:00:30
+date: 2023-11-20T11:00:30Z
 videoId: S1hBTkbZVFM
 url: /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 external_url: https://www.youtube.com/watch?v=S1hBTkbZVFM

@@ -1,6 +1,6 @@
 ---
 title: "How will the immersive learning experience change the game for people with a few years experience"
-date: 08/01/2023 07:00:19
+date: 2023-08-01T07:00:19Z
 videoId: VjPslpF3fTc
 url: /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 external_url: https://www.youtube.com/watch?v=VjPslpF3fTc

@@ -1,6 +1,6 @@
 ---
 title: "How is agile product development different to waterfall project management?"
-date: 01/11/2023 07:00:02
+date: 2023-01-11T07:00:02Z
 videoId: BE6E5tV8130
 url: /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
 external_url: https://www.youtube.com/watch?v=BE6E5tV8130

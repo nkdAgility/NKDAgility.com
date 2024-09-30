@@ -1,6 +1,6 @@
 ---
 title: "What makes the top 10% of developers? Good agile developer to great agile developer"
-date: 06/06/2023 07:00:04
+date: 2023-06-06T07:00:04Z
 videoId: 96iDY11yOjc
 url: /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 external_url: https://www.youtube.com/watch?v=96iDY11yOjc

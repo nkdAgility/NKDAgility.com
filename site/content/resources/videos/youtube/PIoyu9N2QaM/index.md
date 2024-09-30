@@ -1,6 +1,6 @@
 ---
 title: "What is the difference between a newbie scrum master and a seasoned, experienced scrum master?"
-date: 04/06/2023 07:00:08
+date: 2023-04-06T07:00:08Z
 videoId: PIoyu9N2QaM
 url: /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 external_url: https://www.youtube.com/watch?v=PIoyu9N2QaM

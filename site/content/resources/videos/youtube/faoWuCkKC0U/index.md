@@ -1,6 +1,6 @@
 ---
 title: "Reasons to do a PSPO A Course in 60 seconds"
-date: 07/11/2023 14:00:32
+date: 2023-07-11T14:00:32Z
 videoId: faoWuCkKC0U
 url: /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 external_url: https://www.youtube.com/watch?v=faoWuCkKC0U

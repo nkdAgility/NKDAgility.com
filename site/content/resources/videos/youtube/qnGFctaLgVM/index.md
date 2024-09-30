@@ -1,6 +1,6 @@
 ---
 title: "Why do you trust Russell to deliver the PSPO course for NKD Agility"
-date: 08/24/2023 07:00:31
+date: 2023-08-24T07:00:31Z
 videoId: qnGFctaLgVM
 url: /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 external_url: https://www.youtube.com/watch?v=qnGFctaLgVM

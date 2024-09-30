@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Kanban"
-date: 06/24/2024 06:48:02
+date: 2024-06-24T06:48:02Z
 videoId: BFDB04_JIhg
 url: /resources/videos/introduction-to-kanban
 external_url: https://www.youtube.com/watch?v=BFDB04_JIhg

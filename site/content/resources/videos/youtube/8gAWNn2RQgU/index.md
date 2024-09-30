@@ -1,6 +1,6 @@
 ---
 title: "Why do you trust Joanna to deliver Scrum courses for NKD Agility"
-date: 08/22/2023 07:00:03
+date: 2023-08-22T07:00:03Z
 videoId: 8gAWNn2RQgU
 url: /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 external_url: https://www.youtube.com/watch?v=8gAWNn2RQgU

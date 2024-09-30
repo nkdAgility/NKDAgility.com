@@ -1,6 +1,6 @@
 ---
 title: "Continuous Improvement with Kanban"
-date: 08/14/2024 07:04:17
+date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/continuous-improvement-with-kanban
 external_url: https://www.youtube.com/watch?v=V44iUwv0Jcg

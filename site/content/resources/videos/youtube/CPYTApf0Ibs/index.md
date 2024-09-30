@@ -1,6 +1,6 @@
 ---
 title: "Secret to Unlocking Team Potential and Product Success 🚀 | The Agile Reality Check [2/6]"
-date: 07/12/2024 06:45:00
+date: 2024-07-12T06:45:00Z
 videoId: CPYTApf0Ibs
 url: /resources/videos/secret-to-unlocking-team-potential-and-product-success-🚀-the-agile-reality-check-[2-6]
 external_url: https://www.youtube.com/watch?v=CPYTApf0Ibs

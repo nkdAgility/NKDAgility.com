@@ -1,6 +1,6 @@
 ---
 title: "What is the most useful element of the APS course for beginner Scrum Teams?"
-date: 11/15/2023 07:00:28
+date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 external_url: https://www.youtube.com/watch?v=n4XaJV9dJfs

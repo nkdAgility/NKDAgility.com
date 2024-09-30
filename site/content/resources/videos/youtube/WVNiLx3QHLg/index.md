@@ -1,6 +1,6 @@
 ---
 title: "Why I love hierarchies of competence"
-date: 05/03/2023 09:30:08
+date: 2023-05-03T09:30:08Z
 videoId: WVNiLx3QHLg
 url: /resources/videos/why-i-love-hierarchies-of-competence
 external_url: https://www.youtube.com/watch?v=WVNiLx3QHLg

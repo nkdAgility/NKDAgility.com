@@ -1,6 +1,6 @@
 ---
 title: "Traditional Management vs Evidence Based Management"
-date: 09/12/2024 07:00:02
+date: 2024-09-12T07:00:02Z
 videoId: 3CgKmunwiSQ
 url: /resources/videos/traditional-management-vs-evidence-based-management
 external_url: https://www.youtube.com/watch?v=3CgKmunwiSQ

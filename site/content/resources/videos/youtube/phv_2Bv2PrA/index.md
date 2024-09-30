@@ -1,6 +1,6 @@
 ---
 title: "What is Agile?"
-date: 10/07/2022 10:41:41
+date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/what-is-agile-
 external_url: https://www.youtube.com/watch?v=phv_2Bv2PrA

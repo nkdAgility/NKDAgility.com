@@ -1,6 +1,6 @@
 ---
 title: "6 things you didn't know about Agile Product Management but really should Part 3"
-date: 07/10/2024 06:45:01
+date: 2024-07-10T06:45:01Z
 videoId: OZt-5iszx-I
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 external_url: https://www.youtube.com/watch?v=OZt-5iszx-I

@@ -1,6 +1,6 @@
 ---
 title: "7 signs of the agile apocalypse. Plague"
-date: 11/08/2023 11:00:53
+date: 2023-11-08T11:00:53Z
 videoId: pDAL84mht3Y
 url: /resources/videos/7-signs-of-the-agile-apocalypse-plague
 external_url: https://www.youtube.com/watch?v=pDAL84mht3Y

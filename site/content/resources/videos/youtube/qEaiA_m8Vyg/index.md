@@ -1,6 +1,6 @@
 ---
 title: "Why have you decided to go all in on immersive learning experiences"
-date: 07/10/2023 07:00:18
+date: 2023-07-10T07:00:18Z
 videoId: qEaiA_m8Vyg
 url: /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 external_url: https://www.youtube.com/watch?v=qEaiA_m8Vyg

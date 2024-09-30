@@ -1,6 +1,6 @@
 ---
 title: "Are Your Teams TRULY Empowered to Adapt Their Processes? | The Agile Reality Check [4/6]"
-date: 07/26/2024 06:45:00
+date: 2024-07-26T06:45:00Z
 videoId: 5H9rOGhTB88
 url: /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 external_url: https://www.youtube.com/watch?v=5H9rOGhTB88

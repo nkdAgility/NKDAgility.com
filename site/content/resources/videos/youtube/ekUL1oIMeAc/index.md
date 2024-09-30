@@ -1,6 +1,6 @@
 ---
 title: "Worst contribution from a product owner that you know of?"
-date: 06/06/2023 11:00:34
+date: 2023-06-06T11:00:34Z
 videoId: ekUL1oIMeAc
 url: /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
 external_url: https://www.youtube.com/watch?v=ekUL1oIMeAc

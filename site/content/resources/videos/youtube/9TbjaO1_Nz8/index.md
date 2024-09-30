@@ -1,6 +1,6 @@
 ---
 title: "Would you recommend the PSPO course to an entrepreneur and why?"
-date: 05/16/2023 14:00:07
+date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 external_url: https://www.youtube.com/watch?v=9TbjaO1_Nz8

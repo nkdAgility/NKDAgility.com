@@ -1,6 +1,6 @@
 ---
 title: "Scrum - The Mirror to Organizational Challenges 🪞"
-date: 09/27/2023 07:00:29
+date: 2023-09-27T07:00:29Z
 videoId: Ys0dWfKVSeA
 url: /resources/videos/scrum-the-mirror-to-organizational-challenges-🪞
 external_url: https://www.youtube.com/watch?v=Ys0dWfKVSeA

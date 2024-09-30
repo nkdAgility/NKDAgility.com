@@ -1,6 +1,6 @@
 ---
 title: "Install & Configure 301 - Move your Active Directory domain to another server"
-date: 01/16/2014 20:22:36
+date: 2014-01-16T20:22:36Z
 videoId: yrpAYB2yIZU
 url: /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 external_url: https://www.youtube.com/watch?v=yrpAYB2yIZU

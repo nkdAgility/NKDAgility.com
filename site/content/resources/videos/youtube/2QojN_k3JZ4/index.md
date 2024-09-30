@@ -1,6 +1,6 @@
 ---
 title: " shorts 7 Virtues of agile. Diligence"
-date: 12/07/2023 11:00:05
+date: 2023-12-07T11:00:05Z
 videoId: 2QojN_k3JZ4
 url: /resources/videos/-shorts-7-virtues-of-agile-diligence
 external_url: https://www.youtube.com/watch?v=2QojN_k3JZ4

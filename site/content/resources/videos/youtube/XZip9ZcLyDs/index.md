@@ -1,6 +1,6 @@
 ---
 title: "Why is becoming a scrum master a great career option?"
-date: 03/30/2023 07:00:10
+date: 2023-03-30T07:00:10Z
 videoId: XZip9ZcLyDs
 url: /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
 external_url: https://www.youtube.com/watch?v=XZip9ZcLyDs

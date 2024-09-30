@@ -1,6 +1,6 @@
 ---
 title: "Why do you think the PSU course has become so popular for product development?"
-date: 02/21/2023 07:00:07
+date: 2023-02-21T07:00:07Z
 videoId: S7Xr1-qONmM
 url: /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 external_url: https://www.youtube.com/watch?v=S7Xr1-qONmM

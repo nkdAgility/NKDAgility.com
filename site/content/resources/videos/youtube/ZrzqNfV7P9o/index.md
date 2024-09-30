@@ -1,6 +1,6 @@
 ---
 title: "Why does Minecraft make the APS course so awesome?"
-date: 01/10/2023 07:48:02
+date: 2023-01-10T07:48:02Z
 videoId: ZrzqNfV7P9o
 url: /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
 external_url: https://www.youtube.com/watch?v=ZrzqNfV7P9o

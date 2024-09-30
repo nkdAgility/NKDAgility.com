@@ -1,6 +1,6 @@
 ---
 title: "How would you help organizations pitch the opportunity of agile internally?"
-date: 02/08/2023 07:15:00
+date: 2023-02-08T07:15:00Z
 videoId: 3AVlBmOATHA
 url: /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 external_url: https://www.youtube.com/watch?v=3AVlBmOATHA

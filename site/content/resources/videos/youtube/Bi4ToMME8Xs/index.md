@@ -1,6 +1,6 @@
 ---
 title: "Advanced PSM II Immersive Learning Classes"
-date: 09/20/2024 11:04:29
+date: 2024-09-20T11:04:29Z
 videoId: Bi4ToMME8Xs
 url: /resources/videos/advanced-psm-ii-immersive-learning-classes
 external_url: https://www.youtube.com/watch?v=Bi4ToMME8Xs

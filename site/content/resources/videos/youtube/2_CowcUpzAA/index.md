@@ -1,6 +1,6 @@
 ---
 title: "Why is training such a critical element in a product owner journey"
-date: 11/27/2023 06:46:47
+date: 2023-11-27T06:46:47Z
 videoId: 2_CowcUpzAA
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
 external_url: https://www.youtube.com/watch?v=2_CowcUpzAA

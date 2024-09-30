@@ -1,6 +1,6 @@
 ---
 title: "What is your best advice for becoming a scrum master outside of software engineering?"
-date: 03/08/2023 07:00:04
+date: 2023-03-08T07:00:04Z
 videoId: DWOh_hRJ1uo
 url: /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
 external_url: https://www.youtube.com/watch?v=DWOh_hRJ1uo

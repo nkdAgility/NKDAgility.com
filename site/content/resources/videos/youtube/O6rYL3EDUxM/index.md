@@ -1,6 +1,6 @@
 ---
 title: "6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]"
-date: 06/28/2024 06:45:01
+date: 2024-06-28T06:45:01Z
 videoId: O6rYL3EDUxM
 url: /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 external_url: https://www.youtube.com/watch?v=O6rYL3EDUxM

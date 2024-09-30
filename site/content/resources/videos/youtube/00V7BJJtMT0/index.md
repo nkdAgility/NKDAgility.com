@@ -1,6 +1,6 @@
 ---
 title: "What is DevOps and how is it different to Agile?"
-date: 02/23/2023 07:00:00
+date: 2023-02-23T07:00:00Z
 videoId: 00V7BJJtMT0
 url: /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
 external_url: https://www.youtube.com/watch?v=00V7BJJtMT0

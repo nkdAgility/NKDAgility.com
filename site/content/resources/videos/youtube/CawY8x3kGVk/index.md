@@ -1,6 +1,6 @@
 ---
 title: "Scrum is like communism. It doesn't work. Myth 3 - Micromanagement, Developer Autonomy, and More!"
-date: 10/25/2023 07:00:09
+date: 2023-10-25T07:00:09Z
 videoId: CawY8x3kGVk
 url: /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 external_url: https://www.youtube.com/watch?v=CawY8x3kGVk

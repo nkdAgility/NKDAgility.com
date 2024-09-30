@@ -1,6 +1,6 @@
 ---
 title: "Agile leader vs traditional manager"
-date: 05/02/2023 09:30:14
+date: 2023-05-02T09:30:14Z
 videoId: ZQZeM20TO4c
 url: /resources/videos/agile-leader-vs-traditional-manager
 external_url: https://www.youtube.com/watch?v=ZQZeM20TO4c

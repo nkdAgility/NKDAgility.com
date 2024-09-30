@@ -1,6 +1,6 @@
 ---
 title: "How does a scrum team estimate what can be delivered in a sprint?"
-date: 06/01/2023 07:00:31
+date: 2023-06-01T07:00:31Z
 videoId: pyk0CfSobzM
 url: /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
 external_url: https://www.youtube.com/watch?v=pyk0CfSobzM

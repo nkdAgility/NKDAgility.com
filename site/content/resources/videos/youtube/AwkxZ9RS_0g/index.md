@@ -1,6 +1,6 @@
 ---
 title: "How does your consulting experience manifest in the training environment?"
-date: 06/21/2023 07:00:03
+date: 2023-06-21T07:00:03Z
 videoId: AwkxZ9RS_0g
 url: /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
 external_url: https://www.youtube.com/watch?v=AwkxZ9RS_0g

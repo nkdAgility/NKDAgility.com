@@ -1,6 +1,6 @@
 ---
 title: "Judgement! 7 Harbingers agile apocalypse. But shorter!"
-date: 11/01/2023 11:30:27
+date: 2023-11-01T11:30:27Z
 videoId: xk11NhTA_V8
 url: /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 external_url: https://www.youtube.com/watch?v=xk11NhTA_V8

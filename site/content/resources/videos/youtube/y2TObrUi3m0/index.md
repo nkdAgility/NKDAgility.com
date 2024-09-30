@@ -1,6 +1,6 @@
 ---
 title: "What should have been way more popular in Agile than it currently is?"
-date: 05/03/2023 07:00:33
+date: 2023-05-03T07:00:33Z
 videoId: y2TObrUi3m0
 url: /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 external_url: https://www.youtube.com/watch?v=y2TObrUi3m0

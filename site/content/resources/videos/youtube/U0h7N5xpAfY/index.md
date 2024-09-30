@@ -1,6 +1,6 @@
 ---
 title: "Why is training such a critical element in a scrum master's journey"
-date: 11/28/2023 07:00:15
+date: 2023-11-28T07:00:15Z
 videoId: U0h7N5xpAfY
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
 external_url: https://www.youtube.com/watch?v=U0h7N5xpAfY

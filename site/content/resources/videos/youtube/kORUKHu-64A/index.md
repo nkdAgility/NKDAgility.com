@@ -1,6 +1,6 @@
 ---
 title: "Scrum is like communism. It doesn't work. Myth 5 - Balance Between Flexibility & Compliance"
-date: 10/26/2023 07:00:29
+date: 2023-10-26T07:00:29Z
 videoId: kORUKHu-64A
 url: /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 external_url: https://www.youtube.com/watch?v=kORUKHu-64A

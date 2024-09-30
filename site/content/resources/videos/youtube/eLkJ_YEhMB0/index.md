@@ -1,6 +1,6 @@
 ---
 title: "5 ghosts of agile past. 3 questions"
-date: 01/02/2024 07:00:20
+date: 2024-01-02T07:00:20Z
 videoId: eLkJ_YEhMB0
 url: /resources/videos/5-ghosts-of-agile-past-3-questions
 external_url: https://www.youtube.com/watch?v=eLkJ_YEhMB0

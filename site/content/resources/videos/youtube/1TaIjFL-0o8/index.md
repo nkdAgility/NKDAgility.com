@@ -1,6 +1,6 @@
 ---
 title: "What is the most common epiphany in a PSM II course?"
-date: 04/27/2023 07:00:00
+date: 2023-04-27T07:00:00Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 external_url: https://www.youtube.com/watch?v=1TaIjFL-0o8

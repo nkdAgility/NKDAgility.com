@@ -1,6 +1,6 @@
 ---
 title: "Do you think training departments get a lot more bang for their buck with immersive learning?"
-date: 11/22/2023 07:00:18
+date: 2023-11-22T07:00:18Z
 videoId: jXk1_Iiam_M
 url: /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 external_url: https://www.youtube.com/watch?v=jXk1_Iiam_M

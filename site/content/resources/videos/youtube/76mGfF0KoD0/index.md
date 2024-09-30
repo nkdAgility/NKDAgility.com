@@ -1,6 +1,6 @@
 ---
 title: "Would you recommend a team APS workshop or an agile consultant?"
-date: 04/05/2023 07:00:03
+date: 2023-04-05T07:00:03Z
 videoId: 76mGfF0KoD0
 url: /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 external_url: https://www.youtube.com/watch?v=76mGfF0KoD0

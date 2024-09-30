@@ -1,6 +1,6 @@
 ---
 title: "How will a PSM II course challenge your assumptions the most?"
-date: 05/12/2023 14:00:02
+date: 2023-05-12T14:00:02Z
 videoId: 3YBrq-cle_w
 url: /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 external_url: https://www.youtube.com/watch?v=3YBrq-cle_w

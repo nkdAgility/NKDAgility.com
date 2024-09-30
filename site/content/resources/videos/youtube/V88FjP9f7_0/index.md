@@ -1,6 +1,6 @@
 ---
 title: "Quotes - Less is More . True or False?"
-date: 10/14/2023 07:00:13
+date: 2023-10-14T07:00:13Z
 videoId: V88FjP9f7_0
 url: /resources/videos/quotes-less-is-more-true-or-false-
 external_url: https://www.youtube.com/watch?v=V88FjP9f7_0

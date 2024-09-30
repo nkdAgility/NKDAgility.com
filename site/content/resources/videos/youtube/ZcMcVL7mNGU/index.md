@@ -1,6 +1,6 @@
 ---
 title: "Product Management Mentor Program Final"
-date: 05/06/2024 13:29:40
+date: 2024-05-06T13:29:40Z
 videoId: ZcMcVL7mNGU
 url: /resources/videos/product-management-mentor-program-final
 external_url: https://www.youtube.com/watch?v=ZcMcVL7mNGU

@@ -1,6 +1,6 @@
 ---
 title: "7 Virtues of agile. Temperance"
-date: 12/05/2023 07:00:10
+date: 2023-12-05T07:00:10Z
 videoId: SMgKAk-qPMM
 url: /resources/videos/7-virtues-of-agile-temperance
 external_url: https://www.youtube.com/watch?v=SMgKAk-qPMM
