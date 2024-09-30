@@ -40,25 +40,33 @@ sections:
         content: |
           - *Complete Transition*: We manage the entire process of moving your on-premises TFS environment to Azure DevOps, including data, code repositories, and builds. We can handle any Collection size from a few hundred to a few thousand gigabytes.
           - *Legacy System Migration*: We handle complex integrations, including importing data from outdated systems like Visual SourceSafe or other obsolete systems.
-          media: /image/image1.jpg
+        media: images/upgrade-2022.png
       - title: "Process Optimization & Migration"
         content: |
           - *Customized Configurations*: We help you optimize your Azure DevOps environment by customizing process templates and workflows to match your development processes.
           - *Change Process*: Ensuring seamless transitions from one process to another when there are lots of changes. 
-          media: /image/image1.jpg
+        media: images/nkdagility-azure-devops-process.jpg
       - title: "Project Optimisation & Migration"
         content: |
           We build, maintain, and support the tools recommended by Microsoft and used by consultants around the world to manage and migrate the contents of TFS & Azure DevOps Projects. We have helped customers migrate nearly two billion work item revisions. 
           - *Project manipulation*: We have experience in both TFS and Azure DevOps in splitting or merging projects within a collection/account or between them.
           - *Account / Collection Consolidation*: We can move a Project from one collection/account to another.
+        media: images/nkdagility-azure-devops-migration-tools.jpg
   - title: "Courses For Azure DevOps"
     content: "Here is a list of courses related to Azure DevOps."
     source: data
     type: courses
+    related: 
+     - /capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training
   - title: 
     content: 
     source: data
     type: videos
+    related: 
+      - resources/videos/youtube/isU2kPc5HFw
+      - resources/videos/youtube/_rJoehoYIVA
+      - resources/videos/youtube/Wvdh1lJfcLM
+      - resources/videos/youtube/3jYFD-6_kZk
 card:
   button:
     content: Migrate your data

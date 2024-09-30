@@ -1,5 +1,14 @@
 {{ define "main" }}
 <!-- headline -->
-{{ partial "headline.html" . }}
-<!-- headline -->
+{{ partial "headline.html" . }} {{ partial "connect.html" . }}
+<!-- sections -->
+
+{{ partial "sections.html" . }} {{ partial "connect.html" . }}
+
+<section class="container my-5">
+  <h2 title="Capabilities - What we do?">What else do we do?</h2>
+  <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
+  {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+</section>
+
 {{ end }}
