@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--primary-color);
   }
 
+.heading-light h1, h2, h3, h4, h5, h6 {
+    color: whitesmoke;
+  }
+
 .nkda-heading-primary {
     color: var(--primary-color);
     font-size: clamp(1rem, 4vw + 1rem, 2.5rem);
