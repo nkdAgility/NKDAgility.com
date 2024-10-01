@@ -76,3 +76,8 @@ pre {
     background-color: #54595F;
     color: white;
 }
+
+.small-image {
+    max-width: 100%;  /* Ensures images don’t overflow */
+    width: 50%;       /* Adjust the size to 50% of the container width */
+}

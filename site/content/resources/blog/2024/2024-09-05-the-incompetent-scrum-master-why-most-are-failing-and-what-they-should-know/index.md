@@ -34,7 +34,9 @@ However, many companies that have reduced their number of Scrum Masters are stil
 
 The core accountability of a Scrum Master is the effectiveness of the Scrum Team! Can you help them be effective if you don't understand the practices within that team's context? Of course not, but what does that look like? What are the practices that you should expect your Scrum Master to understand?
 
-![](images/image-1-1.png)
+![](images/image-1-1.png){style="width: 300px;"}
+
+![](images/image-1-1.png){style="width: 300px;"}
 
 > "A Scrum Master is a lean agile practitioner with techical mastery, business mastery, and organsiational evolutionary mastery!" - Lyssa Adkins\*\*
 
