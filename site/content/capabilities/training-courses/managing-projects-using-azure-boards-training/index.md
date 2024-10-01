@@ -1,33 +1,20 @@
 ---
-slug: managing-projects-using-azure-boards-training
-id: "44721"
-title: Managing Projects Using Azure Boards Training
-coverImage: naked-agility-Accentiant-MPAB-1600x900-1.jpg
 categories:
 - devops
-aliases:
-- managing-projects-using-azure-boards
-- /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
-date: 2020-08-31
+type: courses
 card:
-  button:
-    content: ""
   content: ""
   title: ""
+  button:
+    content: ""
+coverImage: naked-agility-Accentiant-MPAB-1600x900-1.jpg
+title: Managing Projects Using Azure Boards Training
 author: MrHinsh
-tags:
-- team
-type: courses
 delivery:
-  lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
-  topics: |-
-    <ol>
-     	<li>Azure Boards</li>
-     	<li>The Product Backlog</li>
-     	<li>Planning and Managing a Sprint</li>
-    </ol>
+  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing work within a sprint. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Boards. Having some project management and software development experience, either as a team member or as a manager, is recommended. Experience with Agile software development, Scrum, and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the <a href="http://www.scrumguides.org/">Scrum Guide</a> prior to class.
   skilllevel: intermediate
-  code: A-MPAB
+  format: ""
+  courseAssessmentIcon: ""
   objectives: |-
     <ol>
      	<li>INTRODUCTION TO AZURE BOARDS
@@ -73,18 +60,33 @@ delivery:
     </ol>
     </li>
     </ol>
+  certification: ""
   prerequisites: Attendees should read and be familiar with the Scrum Guide prior to class.
+  duration: 8
+  code: A-MPAB
+  topics: |-
+    <ol>
+     	<li>Azure Boards</li>
+     	<li>The Product Backlog</li>
+     	<li>Planning and Managing a Sprint</li>
+    </ol>
   details: |-
     <h3>Course Designer</h3>
     This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
-  format: ""
-  duration: 8
-  certification: ""
-  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing work within a sprint. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Boards. Having some project management and software development experience, either as a team member or as a manager, is recommended. Experience with Agile software development, Scrum, and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the <a href="http://www.scrumguides.org/">Scrum Guide</a> prior to class.
+  type: Engineering
   brand:
     colour: ""
     vendor: accentient
-  type: Engineering
+  lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
+  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-MPAB.png
+tags:
+- team
+aliases:
+- managing-projects-using-azure-boards
+- /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
+slug: managing-projects-using-azure-boards-training
+date: 2020-08-31
+id: "44721"
 
 ---
 
@@ -104,7 +106,9 @@ delivery:
 
 
 
+
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
+
 
 
 

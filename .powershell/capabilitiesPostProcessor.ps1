@@ -1,5 +1,6 @@
 # Load the required module to handle YAML
 Import-Module powershell-yaml
+Import-Module MarkdownPrince
 
 # Function to get front matter from a Markdown file
 function Get-FrontMatter {
@@ -156,6 +157,30 @@ function Ensure-CardNode {
     }
 }
 
+# Define the function to convert HTML to Markdown using ReverseMarkdown.Net
+function Convert-HTMLToMarkdown {
+    param (
+        [string]$html  # Input HTML string
+    )
+
+    # Load the ReverseMarkdown assembly
+    $nugetPath = "\lib\ReverseMarkdown.dll"
+    if (-Not (Test-Path $nugetPath)) {
+        throw "ReverseMarkdown.dll not found at path: $nugetPath. Make sure it's installed."
+    }
+    
+    Add-Type -Path $nugetPath
+
+    # Create a ReverseMarkdown converter instance
+    $converter = New-Object ReverseMarkdown.Converter
+
+    # Convert HTML to Markdown
+    $markdown = $converter.Convert($html)
+
+    # Return the resulting Markdown
+    return $markdown
+}
+
 # Function to update the card front matter
 function Update-MarkdownWithCard {
     param (
@@ -241,6 +266,9 @@ function Update-MarkdownWithCourseData {
                 $objectives = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-objectives' } | Select-Object -ExpandProperty meta_value
                 $certification = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-and-certification' } | Select-Object -ExpandProperty meta_value
 
+                $courseIcon = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-icon' } | Select-Object -ExpandProperty meta_value
+                $courseAssessmentIcon = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-icon' } | Select-Object -ExpandProperty meta_value
+
                 # Convert values as necessary
                 $courseType = Convert-CourseType -courseType $courseType
                 $duration = Convert-DurationToHours -durationInDays $duration
@@ -248,22 +276,24 @@ function Update-MarkdownWithCourseData {
 
                 # Update the "delivery" node in the front matter
                 $frontMatterData.delivery = @{
-                    code          = $code
-                    type          = $courseType
-                    duration      = $duration
-                    skilllevel    = $skillLevel
-                    lead          = $lead
-                    audience      = $audience
-                    format        = $format
-                    prerequisites = $prerequisites
-                    details       = $details
-                    brand         = @{
+                    code                 = $code
+                    type                 = $courseType
+                    duration             = $duration
+                    skilllevel           = $skillLevel
+                    lead                 = $lead
+                    audience             = $audience
+                    format               = $format
+                    prerequisites        = $prerequisites
+                    details              = $details
+                    brand                = @{
                         colour = $colour
                         vendor = $vendor
                     }
-                    topics        = $topics
-                    objectives    = $objectives
-                    certification = $certification
+                    topics               = $topics
+                    objectives           = $objectives
+                    certification        = $certification
+                    courseIcon           = $courseIcon
+                    courseAssessmentIcon = $courseAssessmentIcon
                 }
 
                 # Save the updated front matter back to the Markdown file
@@ -351,22 +381,22 @@ function Update-OldSlugsAsAliases {
 }
 
 # Example: Run all updates against the courses and capabilities directories
-$courseDirectory = "content\capabilities\training-courses"
-$capabilityDirectory = "content\capabilities"
-$peopleDirectory = "content\company\people"
-$outcomesDir = "content\outcomes"
+$courseDirectory = "site\content\capabilities\training-courses"
+$capabilityDirectory = "site\content\capabilities"
+$peopleDirectory = "site\content\company\people"
+$outcomesDir = "site\content\outcomes"
 
-Update-MarkdownWithCard -baseDirectory $peopleDirectory
-Update-OldSlugsAsAliases -baseDirectory $peopleDirectory
+#Update-MarkdownWithCard -baseDirectory $peopleDirectory
+#Update-OldSlugsAsAliases -baseDirectory $peopleDirectory
 
-Update-MarkdownWithCard -baseDirectory $outcomesDir 
-Update-OldSlugsAsAliases -baseDirectory $outcomesDir 
+##Update-MarkdownWithCard -baseDirectory $outcomesDir 
+#Update-OldSlugsAsAliases -baseDirectory $outcomesDir 
 
 
 # # Run each update function sequentially for both directories
-# Update-MarkdownWithCourseData -baseDirectory $courseDirectory
-# Update-MarkdownWithCard -baseDirectory $courseDirectory
-# Update-OldSlugsAsAliases -baseDirectory $courseDirectory
+Update-MarkdownWithCourseData -baseDirectory $courseDirectory
+#Update-MarkdownWithCard -baseDirectory $courseDirectory
+#Update-OldSlugsAsAliases -baseDirectory $courseDirectory
 
 # #Update-MarkdownWithCourseData -baseDirectory $capabilityDirectory
 # Update-MarkdownWithCard -baseDirectory $capabilityDirectory

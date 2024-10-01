@@ -1,20 +1,33 @@
 ---
-slug: agile-requirements-workshop
-id: "10107"
-title: Agile Requirements Workshop
-coverImage: nakedalm-experts-visual-studio-alm.png
 categories:
 - tools-and-techniques
-aliases:
-- agile-requirements-workshop-1-day
-- /training-courses/agile-requirements-workshop/
-date: 2013-09-06
+type: courses
 card:
-  button:
-    content: ""
   content: ""
   title: ""
+  button:
+    content: ""
+coverImage: nakedalm-experts-visual-studio-alm.png
+title: Agile Requirements Workshop
 author: MrHinsh
+delivery:
+  audience: 
+  skilllevel: intermediate
+  format: 
+  courseAssessmentIcon: 
+  objectives: 
+  certification: 
+  prerequisites: 
+  duration: 8
+  code: NKD-AR
+  topics: 
+  details: <p>In this course we work against your backlog, and your backlog items.</p>
+  type: Kanban (ProKanban.org Certified)
+  brand:
+    colour: 
+    vendor: naked-alm
+  lead: 
+  courseIcon: https://nkdagility.com/wp-content/uploads/2013/09/NKD-AR.png
 tags:
 - agile
 - agility
@@ -27,25 +40,15 @@ tags:
 - requirements
 - user-stories
 - workshop
-type: courses
-delivery:
-  lead: 
-  topics: 
-  skilllevel: intermediate
-  code: NKD-AR
-  objectives: 
-  prerequisites: 
-  details: <p>In this course we work against your backlog, and your backlog items.</p>
-  format: 
-  duration: 8
-  certification: 
-  audience: 
-  brand:
-    colour: 
-    vendor: naked-alm
-  type: Kanban (ProKanban.org Certified)
+aliases:
+- agile-requirements-workshop-1-day
+- /training-courses/agile-requirements-workshop/
+slug: agile-requirements-workshop
+date: 2013-09-06
+id: "10107"
 
 ---
+
 
 
 
@@ -68,6 +71,7 @@ This workshop includes guided discussion focusing on agile requirements manageme
 We start by diving into a piece of work that has already been delivered. Hindsight gives the team the ability to really break the desirement down into the things that they really did deliver.
 
 We then move on to breaking down some of the more unknown pieces from your backlog. Along the way your team learns what it takes to break a backlog down into items that are independent, negotiable, valuable, estimable, small, and testable.
+
 
 
 

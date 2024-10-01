@@ -1,20 +1,14 @@
 ---
+aliases:
+- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+author: MrHinsh
+coverImage: NKDAgility-Courses-AMP-16x9-1.jpg
 title: Applying Metrics for Predictability
-type: courses
 delivery:
-  lead: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
-  topics: |-
-    <ol>
-     	<li>Understanding Agile Metrics for Predictability</li>
-     	<li>Flow Metrics: WIP, Cycle Time, and Throughput</li>
-     	<li>Flow Analytics: CFDs, Scatterplots, and Histograms</li>
-     	<li>Forecasting with Monte Carlo Simulation</li>
-     	<li>Quantifying and Managing Risk</li>
-     	<li>Applying Techniques to Your Projects</li>
-     	<li>Validated Learning and Assessment</li>
-    </ol>
+  audience: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
   skilllevel: intermediate
-  code: AMP
+  format: ""
+  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2024/01/PAM-1.png
   objectives: |-
     After completing the course, participants will achieve the following:
     <ol>
@@ -26,30 +20,39 @@ delivery:
      	<li>Apply course techniques to real-world projects for immediate impact.</li>
      	<li>Validate your knowledge through an online assessment, receiving guidance on areas for improvement.</li>
     </ol>
-  prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
-  details: ""
-  format: ""
-  duration: 0
   certification: After taking the course, you will have an opportunity to validate that you understand core Kanban topics. We will invite you to take an online assessment that evaluates your understanding and provides you with guidance on areas to improve. This exclusive assessment is only available to class participants.
-  audience: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
+  prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
+  duration: 0
+  code: AMP
+  topics: |-
+    <ol>
+     	<li>Understanding Agile Metrics for Predictability</li>
+     	<li>Flow Metrics: WIP, Cycle Time, and Throughput</li>
+     	<li>Flow Analytics: CFDs, Scatterplots, and Histograms</li>
+     	<li>Forecasting with Monte Carlo Simulation</li>
+     	<li>Quantifying and Managing Risk</li>
+     	<li>Applying Techniques to Your Projects</li>
+     	<li>Validated Learning and Assessment</li>
+    </ol>
+  details: ""
+  type: Unknown
   brand:
     colour: ""
     vendor: prokanban-org
-  type: Unknown
-date: 2024-01-12
-author: MrHinsh
+  lead: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
+  courseIcon: https://nkdagility.com/wp-content/uploads/2024/01/Course-logo-AMP@1x.png
 slug: applying-metrics-for-predictability
-aliases:
-- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
 id: "51140"
-coverImage: NKDAgility-Courses-AMP-16x9-1.jpg
+date: 2024-01-12
 card:
-  button:
-    content: ""
   content: ""
   title: ""
+  button:
+    content: ""
+type: courses
 
 ---
+
 
 
 
@@ -72,6 +75,7 @@ In today's dynamic business landscape, the ability to provide accurate project t
 Over eight weeks, you'll delve into the world of flow metrics, exploring concepts such as Work in Progress (WIP), Cycle Time, and Throughput. You'll gain hands-on experience in utilizing flow analytics, including Cumulative Flow Diagrams (CFDs), Scatterplots, and Histograms, to enhance predictability. Through Monte Carlo Simulation and statistical sampling, you'll learn to answer complex questions like "When will it be done?" while quantifying and managing risk effectively.
 
 By the end of this course, you'll have the expertise needed to provide accurate forecasts, optimize your processes, and make informed decisions, ultimately boosting your project's success. Whether you're an executive, manager, or team member, our immersive learning experience will equip you with valuable skills for today's competitive environment.
+
 
 
 

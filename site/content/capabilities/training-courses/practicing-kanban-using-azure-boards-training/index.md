@@ -1,17 +1,17 @@
 ---
+categories:
+- devops
+id: "44723"
+author: MrHinsh
 title: Practicing Kanban Using Azure Boards Training
-type: courses
+aliases:
+- practicing-kanban-using-azure-boards
+- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 delivery:
-  lead: ""
-  topics: |-
-    <ol>
-     	<li>Introduction to Kanban</li>
-     	<li>Visualizing the Workflow</li>
-     	<li>Limiting WIP</li>
-     	<li>Managing for Flow</li>
-    </ol>
+  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
   skilllevel: intermediate
-  code: PKAB
+  format: ""
+  courseAssessmentIcon: ""
   objectives: |-
     This course contains several modules, progressively explaining Kanban’s principles and practices and how to use Azure Boards to support them.
     <ol>
@@ -62,35 +62,37 @@ delivery:
     </ul>
     </li>
     </ol>
+  certification: There is no assessment for this workshop.
   prerequisites: For more information, read the <a href="https://www.scrum.org/resources/kanban-guide-scrum-teams" target="_blank" rel="noopener noreferrer">Kanban guide for Scrum Teams</a>.
+  duration: 8
+  code: PKAB
+  topics: |-
+    <ol>
+     	<li>Introduction to Kanban</li>
+     	<li>Visualizing the Workflow</li>
+     	<li>Limiting WIP</li>
+     	<li>Managing for Flow</li>
+    </ol>
   details: |-
     <h3>Course Designer</h3>
     This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
-  format: ""
-  duration: 8
-  certification: There is no assessment for this workshop.
-  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
+  type: Engineering
   brand:
     colour: ""
     vendor: accentient
-  type: Engineering
-categories:
-- devops
-date: 2020-08-31
+  lead: ""
+  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-PKAB.png
+slug: practicing-kanban-using-azure-boards-training
 tags:
 - development
 - team
-id: "44723"
-slug: practicing-kanban-using-azure-boards-training
-aliases:
-- practicing-kanban-using-azure-boards
-- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
-author: MrHinsh
+date: 2020-08-31
 card:
-  button:
-    content: ""
   content: ""
   title: ""
+  button:
+    content: ""
+type: courses
 
 ---
 
@@ -110,7 +112,9 @@ card:
 
 
 
+
 All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
+
 
 
 

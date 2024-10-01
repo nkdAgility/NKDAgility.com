@@ -1,11 +1,31 @@
 ---
+categories:
+- agility
+author: MrHinsh
+coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
 title: Agile Kata Professional
-type: courses
+aliases:
+- /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
 delivery:
-  lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
-  topics: ""
+  audience: |-
+    <ul data-rte-list="default">
+     	<li>
+    <p class="">Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.</p>
+    </li>
+     	<li>
+    <p class="">Agile coaches, Scrum Masters , Project Managers and change agents interested to introduce Agile Kata into teams and organizations.</p>
+    </li>
+     	<li>
+    <p class="">Agile Leaders interested to improve business agility and agile culture.</p>
+    </li>
+     	<li>
+    <p class="">Business leaders interested in learning about a pattern to increase business agility</p>
+    </li>
+    </ul>
   skilllevel: intermediate
-  code: AKP1
+  format: ""
+  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2023/11/AgileKataProLevel1.png
   objectives: |-
     <ul data-rte-list="default">
      	<li>
@@ -33,47 +53,30 @@ delivery:
     <p class="">Define a first step to increase business agility in your organization using the Agile Kata.</p>
     </li>
     </ul>
-  prerequisites: ""
-  details: ""
-  format: ""
-  duration: 0
   certification: ""
-  audience: |-
-    <ul data-rte-list="default">
-     	<li>
-    <p class="">Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.</p>
-    </li>
-     	<li>
-    <p class="">Agile coaches, Scrum Masters , Project Managers and change agents interested to introduce Agile Kata into teams and organizations.</p>
-    </li>
-     	<li>
-    <p class="">Agile Leaders interested to improve business agility and agile culture.</p>
-    </li>
-     	<li>
-    <p class="">Business leaders interested in learning about a pattern to increase business agility</p>
-    </li>
-    </ul>
+  prerequisites: ""
+  duration: 0
+  code: AKP1
+  topics: ""
+  details: ""
+  type: Kanban (ProKanban.org Certified)
   brand:
     colour: ""
     vendor: agile-kata
-  type: Kanban (ProKanban.org Certified)
-categories:
-- agility
-date: 2023-11-24
-coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
+  lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
+  courseIcon: https://nkdagility.com/wp-content/uploads/2023/11/AgileKataProLevel1.png
 slug: agile-kata-professional
 id: "50830"
-aliases:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
-author: MrHinsh
+date: 2023-11-24
 card:
-  button:
-    content: ""
   content: ""
   title: ""
+  button:
+    content: ""
+type: courses
 
 ---
+
 
 
 
@@ -104,6 +107,7 @@ In this one day class, students are challenged to explore the Agile Kata pattern
 The course, uses a combination of instructor-led and activity-based learning where students work together in pairs or small teams. The certified Agile Kata trainer bring their own experiences and stories to the class and use their skills and knowledge to deliver the material using their own unique delivery style. The result is an engaging, enjoyable learning experience where students gain a deep understanding of the Agile Kata pattern and how it can be applied by an entire agile team or organization.
 
 Students leave this course with an appreciation for the use of the Agile Kata and a starting point for their own professional journey using the Agile Kata. When offered in-person, this course is generally delivered in one full day. When offered as a live instructor-led online course,, it may be broken up into more, shorter segments.
+
 
 
 
