@@ -32,7 +32,7 @@ delivery:
     colour: ""
     vendor: accentient
   lead: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2018/11/A-CDADS.png
+  courseIcon: A-CDADS.png
 slug: continuous-delivery-using-azure-devops-services-training
 id: "38573"
 tags:
@@ -45,6 +45,10 @@ card:
 type: courses
 
 ---
+
+
+
+
 
 
 

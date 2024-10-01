@@ -8,7 +8,7 @@ delivery:
   audience: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2024/01/PAM-1.png
+  courseAssessmentIcon: PAM-1.png
   objectives: |-
     Upon completing the course, participants will possess the following capabilities: 
     1. **Precise Sprint Planning**: Proficiently leverage metrics to enhance the accuracy of Sprint Planning. Participants will acquire the skills to use data-driven insights to determine realistic Sprint goals and commitments, optimizing the team's workflow and delivery efficiency.
@@ -36,7 +36,7 @@ delivery:
     colour: ""
     vendor: prokanban-org
   lead: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
-  courseIcon: https://nkdagility.com/wp-content/uploads/2024/01/AFMS.png
+  courseIcon: AFMS.png
 slug: applying-flow-metrics-for-scrum
 id: "51135"
 date: 2024-01-12
@@ -67,9 +67,13 @@ type: courses
 
 
 
+
+
 In the "Applying Flow Metrics for Scrum" course, participants embark on an immersive learning journey, uniquely designed to integrate flow metrics into their Scrum practices. This course delves deeply into the vital flow metrics such as Work in Progress (WIP), Cycle Time, Work Item Age, and Throughput, unraveling their significance and application in the Scrum framework. Over several weeks, the course unfolds in an interactive, engaging format, blending theoretical understanding with practical, real-world application. Each session is tailored to not just impart knowledge but also to enable participants to directly apply these insights into their ongoing Scrum projects, ensuring immediate applicability and relevance.
 
 The course is structured to facilitate a reflective and collaborative learning environment. After each interactive session, participants engage in reflective practices to assess the integration of these metrics in their Scrum activities, fostering a deeper understanding and continuous improvement in their approach. This unique format enhances the learning experience, allowing participants to gradually assimilate and apply complex concepts within their professional context. By the end of the course, learners are not just equipped with the knowledge of flow metrics but are also proficient in applying these metrics to optimize their Scrum events, improve team efficiency, and drive better project outcomes, making this course an invaluable asset for Scrum practitioners aiming to elevate their Agile practices.
+
+
 
 
 

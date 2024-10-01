@@ -34,7 +34,7 @@ delivery:
     colour: ""
     vendor: accentient
   lead: This three‐day course will help take your team and project to the next level. Using a combination of lecture, demonstrations, hands‐on activities, and team‐based exercises, attendees will experience how to deliver software using the Scrum framework and the corresponding tools and practices in Visual Studio.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2018/11/A-MPVS.png
+  courseIcon: A-MPVS.png
 slug: managing-projects-using-visual-studio-and-scrum-training
 id: "38576"
 tags:
@@ -47,6 +47,10 @@ card:
 type: courses
 
 ---
+
+
+
+
 
 
 

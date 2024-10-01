@@ -14,7 +14,7 @@ delivery:
   audience: ""
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: 
+  courseAssessmentIcon: ""
   objectives: ""
   certification: ""
   prerequisites: ""
@@ -29,7 +29,7 @@ delivery:
     colour: 
     vendor: naked-alm
   lead: ""
-  courseIcon: https://nkdagility.com/wp-content/uploads/2013/09/NKD-AR.png
+  courseIcon: NKD-AR.png
 tags:
 - agile
 - agility
@@ -69,11 +69,15 @@ id: "10107"
 
 
 
+
+
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.
 
 We start by diving into a piece of work that has already been delivered. Hindsight gives the team the ability to really break the desirement down into the things that they really did deliver.
 
 We then move on to breaking down some of the more unknown pieces from your backlog. Along the way your team learns what it takes to break a backlog down into items that are independent, negotiable, valuable, estimable, small, and testable.
+
+
 
 
 

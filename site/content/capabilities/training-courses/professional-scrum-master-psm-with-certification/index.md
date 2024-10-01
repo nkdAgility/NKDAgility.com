@@ -21,7 +21,7 @@ delivery:
     - A 60m one-on-one coaching session
 
     <!-- /wp:list-item --><!-- /wp:list --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} --><!-- /wp:paragraph -->
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSM-I.png
+  courseAssessmentIcon: Scrumorg-Assessment-PSM-I.png
   objectives: |2+
 
     - Clear understanding that the Scrum Master is a Lean-agile Practitioner that is there to guide the Scrum Team and the Organisation to a better degree of agility.
@@ -58,7 +58,7 @@ delivery:
     colour: '#3a7c9a'
     vendor: scrum-org
   lead: Our Professional Scrum Master Training Program contains the Professional Scrum Master Training (PSM) from Scrum.org and is composed of 16h live with an instructor and additional offline exercises and materials that covers the principles and theory of the Scrum framework and the Scrum Master role.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/PSM-400x.png
+  courseIcon: PSM-400x.png
 tags:
 - agile
 - agility
@@ -78,6 +78,8 @@ date: 2017-01-01
 id: "10049"
 
 ---
+
+
 
 
 
@@ -121,6 +123,8 @@ Course Features:
 This course is more than just an introduction to Scrum; it's a comprehensive exploration of Scrum's potential to transform your leadership style, team, and entire organization. Training for those wishing to leverage the power of Scrum is essential to enhance their effectiveness and adaptability in an increasingly complex business environment.
 
 Join the Professional Scrum Master course and equip yourself with the knowledge, skills, and mindset needed to lead in the Scrum world.
+
+
 
 
 

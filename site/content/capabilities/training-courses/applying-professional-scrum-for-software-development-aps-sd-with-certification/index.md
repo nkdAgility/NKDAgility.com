@@ -31,7 +31,7 @@ delivery:
     - - Session 5: **Scrum Challenges**, **Next Steps**, & Sprint 3
 
     <!-- /wp:list-item --><!-- /wp:list --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->  We provide a full-stack development environment in Azure DevOps for all Scrum Teams, however, developers are free to bring or set up any stack they desire. The case study for the course is an implementation of the popular Battleship game. It is available in Python, .NET 6, Java, PHP, Node, C++, or embedded and each team is free to choose their language independently.  <!-- /wp:paragraph --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->  The course also includes two free attempts at the globally recognized [types field='course-assessment-name'][/types] certification assessment.  <!-- /wp:paragraph --><!-- /wp:paragraph -->
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/PSD-I_400.png
+  courseAssessmentIcon: PSD-I_400.png
   objectives: |2+
 
     - Foster Real Collaboration: Experience the power of collaboration between Developers, Product Owner, and Scrum Master to create and deliver a high-quality and valuable product.
@@ -76,7 +76,7 @@ delivery:
     colour: '#c75129'
     vendor: scrum-org
   lead: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
-  courseIcon: https://nkdagility.com/wp-content/uploads/2017/01/Scrumorg-Course-APSSD-400x.png
+  courseIcon: Scrumorg-Course-APSSD-400x.png
 tags:
 - agile
 - agile-estimation
@@ -154,6 +154,8 @@ id: "10046"
 
 
 
+
+
 Experience the Power of Applying Professional Scrum™ for Software Development (APS-SD) in our immersive course. Get ready to embark on a hands-on journey where you'll learn firsthand how to deliver top-notch software using Scrum, Agile, and DevOps practices.
 
 In this dynamic course, you won't just study theory but actively participate in Scrum Teams, engaging in a series of Sprints. Through real-world scenarios, you'll dive deep into the Scrum framework while putting it into practice. Together, we'll create code for an actual software system, ensuring you grasp the principles of Scrum by actively using it.
@@ -161,6 +163,8 @@ In this dynamic course, you won't just study theory but actively participate in 
 As a bonus, the course includes a complimentary attempt at the globally recognized Professional Scrum Developer I certification exam (PSD I), adding a valuable credential to your professional profile.
 
 Join us on this transformative journey, where you'll gain the skills, knowledge, and practical experience to excel in software development using Scrum.
+
+
 
 
 

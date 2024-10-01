@@ -36,7 +36,7 @@ delivery:
     colour: ""
     vendor: accentient
   lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-MARS.png
+  courseIcon: A-MARS.png
 slug: mastering-azure-repos-training
 id: "44724"
 tags:
@@ -68,7 +68,11 @@ type: courses
 
 
 
+
+
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
+
+
 
 
 

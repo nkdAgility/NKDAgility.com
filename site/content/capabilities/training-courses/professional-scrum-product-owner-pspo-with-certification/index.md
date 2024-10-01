@@ -20,7 +20,7 @@ delivery:
      While this course covers an introduction to the Scrum framework, it’s primarily from the perspective of the Product Owner. Therefore, it’s best if the students come to the course with an understanding of the fundamentals of Scrum, ideally as demonstrated by passing the Scrum Open.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSPO-I.png
+  courseAssessmentIcon: Scrumorg-Assessment-PSPO-I.png
   objectives: |2+
 
     - Increase business agility through the proper execution of the Product Owner role
@@ -62,7 +62,7 @@ delivery:
     colour: '#749335'
     vendor: scrum-org
   lead: Being a professional Product Owner encompasses more than writing requirements or managing a Product Backlog. Product Owners need to have a concrete understanding of all product management aspects, including but not limited to product ownership, that drives value from their products.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/PSPO-400x.png
+  courseIcon: PSPO-400x.png
 tags:
 - certification
 - product-owner
@@ -76,6 +76,8 @@ date: 2019-11-07
 id: "41711"
 
 ---
+
+
 
 
 
@@ -124,6 +126,8 @@ This course aims to help participants:
 This course goes beyond a mere introduction to Agile Product Management; it's a comprehensive exploration of Scrum's potential to transform your product delivery approach, team dynamics, and overall organizational performance through empirical practices.
 
 Join the Professional Scrum Product Owner (PSPO) course and equip yourself with the knowledge, skills, and mindset needed to excel in Agile.
+
+
 
 
 

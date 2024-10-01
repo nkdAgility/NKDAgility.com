@@ -69,7 +69,7 @@ delivery:
     colour: ""
     vendor: accentient
   lead: ""
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-PKAB.png
+  courseIcon: A-PKAB.png
 slug: practicing-kanban-using-azure-boards-training
 id: "44723"
 tags:
@@ -102,7 +102,11 @@ type: courses
 
 
 
+
+
 All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
+
+
 
 
 

@@ -39,7 +39,7 @@ delivery:
     - - Session 4: **Planning, Getting Started**, & Sprint 4
 
     <!-- /wp:list-item --><!-- /wp:list --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->  Although there are several case studies available on request, we primarily recommend the **Minecraft Campsite** case study as it provides the best experience for students and more connections to the way they work currently. Practice Scrum in the complex and chaotic environment of Minecraft to experience the high-variance world of complex product development. We use Minecraft for Education to bring complexity to life in a scenario that everyone can experience regardless of their technical ability.  Find out more on [Learn Scrum with Minecraft Education Edition](https://nkdagility.com/resources/learn-scrum-with-minecraft/)     ![](https://nkdagility.com/wp-content/uploads/2022/01/image-1280x253.png)<!-- /wp:list -->
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSM-I.png
+  courseAssessmentIcon: Scrumorg-Assessment-PSM-I.png
   objectives: |2+
 
     - Learn about Agility and how Scrum differs from traditional plan-driven work models
@@ -78,7 +78,7 @@ delivery:
     colour: '#db8e74'
     vendor: scrum-org
   lead: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework   
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Course-APS-400x-1.png
+  courseIcon: Scrumorg-Course-APS-400x-1.png
 tags:
 - agile
 - agility
@@ -102,6 +102,8 @@ date: 2017-01-01
 id: "10045"
 
 ---
+
+
 
 
 
@@ -153,6 +155,8 @@ Join the \[wpv-post-link\] with Minecraft course and arm yourself with the knowl
 To create a level playing field while maintaining a complex environment for teams to experience Sprints in the context of Scrum, we use Minecraft for Education. Minecraft allows team members to practice Scrum in the complex and chaotic environment of Minecraft to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
 
 The course also includes two free attempts at the globally recognized Professional Scrum Master I certification exam (PSM I)
+
+
 
 
 

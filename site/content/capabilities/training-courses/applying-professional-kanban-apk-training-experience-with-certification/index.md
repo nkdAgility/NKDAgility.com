@@ -26,7 +26,7 @@ delivery:
      This course is designed to cater to a wide range of professionals who are involved in team-based work or project management, regardless of their industry. It provides valuable insights and skills for anyone interested in improving team efficiency, workflow management, and value delivery.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2020/11/PK-PK1@2x-1.png
+  courseAssessmentIcon: PK-PK1@2x-1.png
   objectives: |-
     Following the completion of our 'Applying Professional Kanban' course, learners will have gained a comprehensive set of skills and knowledge, enabling them to: 
     1. **Explain the Basic Principles of Flow**: Understand and articulate the fundamental concepts of flow in the context of Kanban, and how they contribute to smoother, more efficient processes.
@@ -68,7 +68,7 @@ delivery:
     <!-- wp:heading -->
     Revolutionize Your Team's Performance with Kanban: Join our Immersion Training Course for a deep, practical dive into Kanban principles, designed to seamlessly integrate into your work life and foster continuous improvement and real-world application. Transform the way you deliver value today!
     <!-- /wp:paragraph -->
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/12/APK@2x.png
+  courseIcon: APK@2x.png
 tags:
 - certification
 - kanban
@@ -103,9 +103,13 @@ id: "45447"
 
 
 
+
+
 Embark on a continuous learning journey with our updated 'Applying Professional Kanban' course, now offered as an [Immersion Training experience](https://nkdagility.com/blog/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving/). This innovative format extends the learning over several weeks with concise, live sessions, blending real-world application with reflective practice for a truly effective learning journey.
 
 With incremental classroom learning, outcome-based assignments, and facilitated reflections, this course offers a practical approach to mastering Kanban. Ideal for those who thrive on applying and experimenting in real-time work environments, this immersive strategy ensures deeper understanding, collaborative growth, and the ability to make an immediate positive impact in your professional setting.
+
+
 
 
 

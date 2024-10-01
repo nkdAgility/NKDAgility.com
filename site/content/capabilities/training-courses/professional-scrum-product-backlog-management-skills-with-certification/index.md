@@ -1,16 +1,16 @@
 ---
 categories:
 - agility
-title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 author: MrHinsh
-coverImage: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
+title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 aliases:
 - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+coverImage: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 delivery:
   audience: If you're a Product Owner keen on honing your skills, or perhaps a Scrum Master aiming to support your Product Owners better, this course is for you. Product Managers and Business Analysts eager to elevate their Product Backlog management skills will also find immense value here.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2023/08/Scrumorg-Course-PSPBMS-400x.png
+  courseAssessmentIcon: Scrumorg-Course-PSPBMS-400x.png
   objectives: |2+
 
     1. **Product Essence Comprehension:** By the culmination of our sessions, you'll possess a lucid understanding of your product, the associated goals, and the strategic steps required to realise them.
@@ -45,7 +45,7 @@ delivery:
     colour: ""
     vendor: scrum-org
   lead: Step into the dynamic world of Scrum with our 'Professional Scrum Product Backlog Mastery' course. Unlock the secrets of effective backlog management, stakeholder engagement, and data-driven decision-making. Whether you're a seasoned Scrum Master or an aspiring Product Owner, this course promises to elevate your skills, offering a blend of theory and real-world application. Dive in, and let's turn your Scrum visions into actionable strategies.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2023/08/Scrumorg-Course-PSPBMS-400x.png
+  courseIcon: Scrumorg-Course-PSPBMS-400x.png
 slug: professional-scrum-product-backlog-management-skills-with-certification
 id: "49829"
 date: 2023-09-27
@@ -76,6 +76,8 @@ type: courses
 
 
 
+
+
 Welcome to a comprehensive journey into the world of Scrum's Product Backlog Management. This course is meticulously designed to equip participants with the expertise to understand their product's essence, master the Product Backlog, engage effectively with stakeholders, promote transparency, and make data-driven decisions. With sessions ranging from stakeholder motivations to the intricacies of the Product Backlog and empirical decision-making, attendees will gain invaluable insights, irrespective of whether they're Product Owners, Scrum Masters, or Product Managers.
 
 Our curriculum, rooted in real-world scenarios, ensures immediate applicability in professional settings. Under the guidance of experienced Professional Scrum Trainers, participants will benefit from a globally consistent and high-calibre learning experience. Upon completion, attendees will be eligible for the Professional Scrum Product Backlog Mastery assessment, marking a significant milestone in their Scrum journey.
@@ -87,6 +89,8 @@ Our curriculum, rooted in real-world scenarios, ensures immediate applicability 
 3. **Stakeholder Engagement Mastery:** Stakeholders are the compass by which a product navigates. Master the art of identifying, understanding, and communicating with them, ensuring their needs and insights are woven into the fabric of the Product Backlog.
 4. **Championing Transparency:** In the world of Scrum, transparency isn't just a value; it's a guiding principle. Discover how to make your Product Backlog a beacon of clarity, ensuring all involved parties have a clear and unified vision.
 5. **Empirical Decision Making:** In an ever-evolving market, decisions grounded in empirical data can be the difference between success and stagnation. Learn to harness this data, turning it into a competitive advantage.
+
+
 
 
 

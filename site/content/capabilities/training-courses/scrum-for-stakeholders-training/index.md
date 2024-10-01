@@ -12,7 +12,7 @@ delivery:
     In Scrum, a *Stakeholder* is anyone that is potentially affected by the outcome of the product development. Stakeholders can include users, customers, managers, sponsors, business analysts, subject matter experts, help desk, operations/support, project managers, auditors, and more. This course is intended for anyone in that cloud of interested parties who wants to learn more about Scrum, why Scrum works, what process and culture changes are involved, and a roadmap for implementing those changes. Regardless of where your organization is at in their Scrum adoption, this course provides the knowledge and opportunity to ask questions about your piece of that pathway to agility.
   skilllevel: beginner
   format: ""
-  courseAssessmentIcon: 
+  courseAssessmentIcon: ""
   objectives: ""
   certification: ""
   prerequisites: ""
@@ -43,7 +43,7 @@ delivery:
     colour: 
     vendor: accentient
   lead: ""
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-S4S.png
+  courseIcon: A-S4S.png
 slug: scrum-for-stakeholders-training
 id: "44728"
 date: 2020-08-31
@@ -74,7 +74,11 @@ type: courses
 
 
 
+
+
 This instructor-led class is intended to answer three questions commonly asked by Stakeholders: _What is Scrum? Why will Scrum be better for me? How will I work differently going forward._ Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.
+
+
 
 
 

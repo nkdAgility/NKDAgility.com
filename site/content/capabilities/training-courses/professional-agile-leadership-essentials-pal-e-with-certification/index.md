@@ -18,7 +18,7 @@ delivery:
   format: |2+
 
     The Professional Agile Leadership Essentials course is delivered as a mixture of lecture and interactive workshops.
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PAL-I.png
+  courseAssessmentIcon: Scrumorg-Assessment-PAL-I.png
   objectives: |2+
 
     - Development of a common language
@@ -69,7 +69,7 @@ delivery:
   lead: |2+
 
     Professional Agile Leadership (PAL) Essentials is a 14h workshop, delivered over four half-days that provides a foundation of the role that leaders play in creating the conditions for a successful agile transformation.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Course-PALE-400x.png
+  courseIcon: Scrumorg-Course-PALE-400x.png
 tags:
 - certification
 - leadership
@@ -83,6 +83,8 @@ date: 2017-05-07
 id: "11878"
 
 ---
+
+
 
 
 
@@ -123,6 +125,8 @@ To succeed in a changing world, organizations need to become more agile, more re
 - An understanding of how to measure the benefits and impacts of agility in your organization
 
 [View](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) the different Focus Areas covered within this class and others.
+
+
 
 
 

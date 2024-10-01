@@ -34,7 +34,7 @@ delivery:
     <!-- /wp:list-item --><!-- /wp:list --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->  Each session includes WARMUP activities before and WRAPUP activities after each session. Before, during, and after the class, students can interact with other students and thought leaders in our Lean-Agile Community.  <!-- /wp:paragraph -->
     ### Created in Partnership with the Authors of Lean UX
      Scrum.org and our Professional Scrum Trainers have worked with [Jeff Gothelf](https://www.jeffgothelf.com/) and [Joshua Seiden](http://www.joshuaseiden.com/) the authors of the book Lean UX in the creation of this course, leveraging their expertise and knowledge.
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSU.png
+  courseAssessmentIcon: Scrumorg-Assessment-PSU.png
   objectives: |+
     Students will leave the class understanding: 
     - Gain a common understanding of what is meant by Professional Scrum
@@ -84,7 +84,7 @@ delivery:
     colour: '#e31a65'
     vendor: scrum-org
   lead: Professional Scrum with User Experience (PSU) is a 14h hands-on course, delivered over 4 half-days, where students who already have a fundamental understanding of Scrum and some experience using it will learn how to integrate modern UX practices into the way they are working in Scrum and how to work most effectively within Scrum Teams.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Course-PSU-400x.png
+  courseIcon: Scrumorg-Course-PSU-400x.png
 tags:
 - certification
 - product-discovery
@@ -117,6 +117,8 @@ id: "38640"
 
 
 
+
+
 ### Should UX be part of the Scrum Team?
 
 UX/CX plays a critical role in successful product development. Participants explore Professional Scrum and Lean UX through a unique blend of self-paced learning, live classroom hands-on activity-based exercises, and community-based aftercare.
@@ -130,6 +132,8 @@ The course also includes a complimentary attempt at the globally recognized Prof
 View the different [Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) covered within this class and others.
 
 _This course is generally delivered over two consecutive days when offered in person. However, when offered as a Live Virtual Class, the course may be broken up into more, shorter days._
+
+
 
 
 

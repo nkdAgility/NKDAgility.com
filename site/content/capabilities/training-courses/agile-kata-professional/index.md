@@ -1,12 +1,12 @@
 ---
 categories:
 - agility
-title: Agile Kata Professional
 author: MrHinsh
-coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
+title: Agile Kata Professional
 aliases:
 - /training-courses/agile-workshops/agile-kata-professional/
 - /akp/
+coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
 delivery:
   audience: |2+
 
@@ -17,7 +17,7 @@ delivery:
 
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2023/11/AgileKataProLevel1.png
+  courseAssessmentIcon: AgileKataProLevel1.png
   objectives: |2+
 
     - Understanding and practicing the Agile Kata pattern.
@@ -40,7 +40,7 @@ delivery:
     colour: ""
     vendor: agile-kata
   lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2023/11/AgileKataProLevel1.png
+  courseIcon: AgileKataProLevel1.png
 slug: agile-kata-professional
 id: "50830"
 date: 2023-11-24
@@ -52,6 +52,8 @@ card:
 type: courses
 
 ---
+
+
 
 
 
@@ -84,6 +86,8 @@ In this one day class, students are challenged to explore the Agile Kata pattern
 The course, uses a combination of instructor-led and activity-based learning where students work together in pairs or small teams. The certified Agile Kata trainer bring their own experiences and stories to the class and use their skills and knowledge to deliver the material using their own unique delivery style. The result is an engaging, enjoyable learning experience where students gain a deep understanding of the Agile Kata pattern and how it can be applied by an entire agile team or organization.
 
 Students leave this course with an appreciation for the use of the Agile Kata and a starting point for their own professional journey using the Agile Kata. When offered in-person, this course is generally delivered in one full day. When offered as a live instructor-led online course,, it may be broken up into more, shorter segments.
+
+
 
 
 

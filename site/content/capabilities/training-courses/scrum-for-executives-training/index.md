@@ -12,7 +12,7 @@ delivery:
     This course is intended for executives, managers, and other leaders who want to learn more about Scrum, why it works, and a high-level approach to get started on their path to agility. Typical attendees are those who have never heard of Scrum but want their organization to become agile or those who may be evaluating Scrum, to see if it’s right for their organization. Other attendees may be from organizations that are already on their way to adopting Scrum. Regardless of your current capabilities, this course is flexible enough to give you the knowledge that you require.
   skilllevel: beginner
   format: ""
-  courseAssessmentIcon: 
+  courseAssessmentIcon: ""
   objectives: ""
   certification: ""
   prerequisites: ""
@@ -47,7 +47,7 @@ delivery:
   lead: |2+
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-S4E.png
+  courseIcon: A-S4E.png
 slug: scrum-for-executives-training
 id: "44726"
 date: 2020-08-31
@@ -78,7 +78,11 @@ type: courses
 
 
 
+
+
 This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: _What is Scrum? Why should I care?_ and _What will be expected of me to properly adopt Scrum?_ Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.
+
+
 
 
 

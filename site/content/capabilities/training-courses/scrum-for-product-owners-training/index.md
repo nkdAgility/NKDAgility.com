@@ -12,7 +12,7 @@ delivery:
     This course is intended for existing or candidate Product Owners who want to focus on the expectations and activities related to their role. In addition, business analysts (BAs), subject matter experts (SMEs), or other stakeholders who interact with a Product Owner in order to deliver a product of the highest value are encouraged to attend. Typical attendees are those who have experience on a Scrum Team or who have recently attended Scrum training. Regardless of your current role or capabilities, this course is flexible enough to give you the knowledge that you require.
   skilllevel: beginner
   format: ""
-  courseAssessmentIcon: 
+  courseAssessmentIcon: ""
   objectives: ""
   certification: ""
   prerequisites: ""
@@ -43,7 +43,7 @@ delivery:
   lead: |2+
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/08/A-S4PO.png
+  courseIcon: A-S4PO.png
 slug: scrum-for-product-owners-training
 id: "44729"
 date: 2020-08-31
@@ -74,7 +74,11 @@ type: courses
 
 
 
+
+
 This instructor-led class is intended to help _Product Owners_ be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
+
+
 
 
 

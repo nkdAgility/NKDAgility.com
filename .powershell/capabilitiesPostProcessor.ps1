@@ -241,7 +241,7 @@ function Convert-UrlToImagePath {
     $fileName = [System.IO.Path]::GetFileName($url)
 
     # Construct the new image path
-    $imagePath = "images/$fileName"
+    $imagePath = "$fileName"
 
     # Return the new path
     return $imagePath

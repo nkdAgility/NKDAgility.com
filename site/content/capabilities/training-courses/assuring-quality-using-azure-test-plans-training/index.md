@@ -32,7 +32,7 @@ delivery:
     colour: ""
     vendor: accentient
   lead: Azure DevOps provides a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2020/09/A-AQATP.png
+  courseIcon: A-AQATP.png
 slug: assuring-quality-using-azure-test-plans-training
 id: "44766"
 tags:
@@ -64,7 +64,11 @@ type: courses
 
 
 
+
+
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Test Plans enable a team to plan, track, and assess quality throughout the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Test Plans to effectively assure quality in web and desktop applications. To maximize learning, students will work in teams, in a common team project, on a common case study.
+
+
 
 
 

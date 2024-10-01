@@ -23,7 +23,7 @@ delivery:
      Based Management Guide, have an understanding of Agile practices and a desire to move away from traditional, (plan-driven,) ways of working and measurement models, however, they do not need specific experience with Scrum. Our Professional Agile Leadership- Essentials course helps leaders understand how to best support their Agile teams and is ideal preparation for PAL-EBM, but is not a prerequisite. Our Professional Scrum Product Owner and Professional Scrum Product Owner - Advanced courses teach Product Owners how to deliver value and can be a great complement to the PAL-EBM course
   skilllevel: advanced
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/07/Scrumorg-Assessment-PAL-EBM.png
+  courseAssessmentIcon: Scrumorg-Assessment-PAL-EBM.png
   objectives: |2+
 
     - Understand the essential aspects of goals and measures and how they influence behaviors and an organization’s culture and values
@@ -54,7 +54,7 @@ delivery:
     colour: '#097151'
     vendor: scrum-org
   lead: Scrum.org created the Evidence-Based Management™ (EBM) framework which is an Agile approach to help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Course-PALEBM-400x.png
+  courseIcon: Scrumorg-Course-PALEBM-400x.png
 tags:
 - certification
 - evidence-based-management
@@ -86,12 +86,16 @@ id: "46220"
 
 
 
+
+
 [Professional Agile Leadership with Evidence-Based Management (PAL-EBM)](https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. With markets and customer needs constantly changing, organizations need information and evidence that helps them adapt quickly to new challenges and opportunities so that they can deliver greater value and achieve true business agility.The course goes beyond the topics explored in the [Professional Agile Leadership Essentials](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-pal-e-training-experience-with-certification-helping-leaders-understand-their-role-in-enabling-agile-transformation/)  & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants’ understanding by introducing the four key-value areas and a number of suggested key-value metrics that can help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the PAL class is recommended but not required.
 
 - Session 1: **Goals, Measures, & Behaviors**
 - Session 2: **Key-value Areas & Key-value Metrics**
 
 Each session includes STARTUP activities before and WRAPUP activities to be completed after each session. Before, during, and after the class, students can interact with other students and thought leaders in our Lean-Agile Community.The course also includes a free attempt at the globally recognised Professional Agile Leadership - Evidence-Based Management (PAL-EBM) certification exam.
+
+
 
 
 

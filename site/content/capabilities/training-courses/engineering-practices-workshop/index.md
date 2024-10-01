@@ -8,7 +8,7 @@ delivery:
   audience: ""
   skilllevel: Unknown
   format: ""
-  courseAssessmentIcon: 
+  courseAssessmentIcon: ""
   objectives: ""
   certification: ""
   prerequisites: ""
@@ -21,7 +21,7 @@ delivery:
     colour: 
     vendor: naked-alm
   lead: ""
-  courseIcon: https://nkdagility.com/wp-content/uploads/2013/09/NKD-Eng.png
+  courseIcon: NKD-Eng.png
 slug: engineering-practices-workshop
 id: "10108"
 tags:
@@ -54,9 +54,13 @@ type: courses
 
 
 
+
+
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.
 
 [Request Course](/company/general-inquiries/) [Download Syllabus](#)
+
+
 
 
 

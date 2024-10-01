@@ -8,7 +8,7 @@ delivery:
   audience: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2024/01/SPK@1x1.png
+  courseAssessmentIcon: SPK@1x1.png
   objectives: |+
     After attending the course, learners will be able to: 
     1. Set up transparent systems to track team progress.
@@ -40,7 +40,7 @@ delivery:
     colour: ""
     vendor: prokanban-org
   lead: Discover the transformative 'Applying Scaled Portfolio Kanban' course, equipping you with the tools to positively influence your organization. From setting up transparent systems to managing portfolios effectively, gain actionable skills for real-world impact.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2024/01/SPK@600.png
+  courseIcon: SPK@600.png
 slug: applying-scaled-portfolio-kanban
 id: "51143"
 date: 2024-01-12
@@ -71,7 +71,11 @@ type: courses
 
 
 
+
+
 Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.
+
+
 
 
 

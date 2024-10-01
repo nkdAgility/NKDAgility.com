@@ -19,7 +19,7 @@ delivery:
     - Session 6: People & Teams II & The Scrum Master
 
      After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catchups, and constant engagement. All students are given a password to take the PSPO1 & PSM I assessments to maximise validated learning. If they take it within 14 days and are unsuccessful, they will be granted a second attempt.  As part of our validated learning experience, we provide a 30-minute learning review, a one-hour coaching session, and access to future courses at a 30% discount on future classes.
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/04/Scrumorg-PSMPO_certification-1000.png
+  courseAssessmentIcon: Scrumorg-PSMPO_certification-1000.png
   objectives: |2+
 
     - Grow an Agile mindset and build awareness of why values and principles are key to success
@@ -59,7 +59,7 @@ delivery:
     colour: ""
     vendor: scrum-org
   lead: Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master (PSM) and Professional Scrum Product Owner (PSPO) courses.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Course-PSMPO-400x.png
+  courseIcon: Scrumorg-Course-PSMPO-400x.png
 slug: professional-scrum-master-and-product-owner-psmp-with-certification
 id: "46100"
 tags:
@@ -94,6 +94,8 @@ type: courses
 
 
 
+
+
 Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master™ (PSM) and Professional Scrum Product Owner™ (PSPO) courses. Merging PSM and PSPO together enables side-by-side learning in a way that is not possible when Scrum Masters and Product Owners are trained separately. These learners greatly benefit from having a shared understanding for one another and by blending the content, students avoid duplicate foundational content and have more space to focus on learning together. This course includes free attempts at both the Professional Scrum Master I (PSM I) and Professional Scrum Product Owner I (PSPO I) globally recognized certification exams.
 
 #### Exclusively for In-House Private Training
@@ -101,6 +103,8 @@ Scrum Teams flourish when the Scrum Master and Product Owner accountabilities ar
 This course is only available for private training events sponsored by organizations ready to provide first-class training for employees. It is not offered in an open public setting. This course is explicitly designed to grow the proficiency of an organization's Scrum Masters and Product Owners as they learn together and discover what it takes to effectively work together with the entire Scrum Team and stakeholders. Find a [Professional Scrum Trainer](https://www.scrum.org/find-trainers) to partner with and discover the best way to gain advantage through Professional Scrum within your organization.
 
 View the different [Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) covered within this class and others.
+
+
 
 
 

@@ -8,7 +8,7 @@ delivery:
   audience: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
   skilllevel: intermediate
   format: ""
-  courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2024/01/PAM-1.png
+  courseAssessmentIcon: PAM-1.png
   objectives: |+
     After completing the course, participants will achieve the following: 
     1. Gain a comprehensive understanding of agile metrics and their role in predictability.
@@ -39,7 +39,7 @@ delivery:
     colour: ""
     vendor: prokanban-org
   lead: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
-  courseIcon: https://nkdagility.com/wp-content/uploads/2024/01/Course-logo-AMP@1x.png
+  courseIcon: Course-logo-AMP@1x.png
 slug: applying-metrics-for-predictability
 id: "51140"
 date: 2024-01-12
@@ -70,11 +70,15 @@ type: courses
 
 
 
+
+
 In today's dynamic business landscape, the ability to provide accurate project timelines, minimize risk, and make data-driven decisions is crucial. Our immersive 8-week course, "Applying Metrics for Predictability," empowers you to master agile metrics and forecasting, transforming your approach to project management. Unlike traditional 2-day workshops, our extended format allows for deeper understanding and practical application.
 
 Over eight weeks, you'll delve into the world of flow metrics, exploring concepts such as Work in Progress (WIP), Cycle Time, and Throughput. You'll gain hands-on experience in utilizing flow analytics, including Cumulative Flow Diagrams (CFDs), Scatterplots, and Histograms, to enhance predictability. Through Monte Carlo Simulation and statistical sampling, you'll learn to answer complex questions like "When will it be done?" while quantifying and managing risk effectively.
 
 By the end of this course, you'll have the expertise needed to provide accurate forecasts, optimize your processes, and make informed decisions, ultimately boosting your project's success. Whether you're an executive, manager, or team member, our immersive learning experience will equip you with valuable skills for today's competitive environment.
+
+
 
 
 
