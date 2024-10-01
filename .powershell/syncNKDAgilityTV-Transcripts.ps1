@@ -2,7 +2,11 @@
 $clientId = $env:google_clientId
 $clientSecret = $env:google_clientSecret
 $redirectUri = "http://localhost:8080"
-$scope = "https://www.googleapis.com/auth/youtube.force-ssl"
+$scope = "https://www.googleapis.com/auth/youtube.readonly https://www.googleapis.com/auth/youtube.force-ssl"
+$channelId = "UCkYqhFNmhCzkefHsHS652hw"
+$outputDir = "site\content\resources\videos\youtube"
+$maxResults = 1  # Limit the number of results per API call (page)
+$totalResultsLimit = 1  # Set a limit on the total number of results fetched
 
 # Function to get OAuth access token
 function Get-OAuthToken {
@@ -52,26 +56,37 @@ function Get-OAuthToken {
     return $tokenResponse.access_token
 }
 
-# Function to get list of videos from your YouTube channel
+# Function to get list of videos from your YouTube channel with total results limit
 function Get-YouTubeVideos {
     param (
         [string]$accessToken,
-        [int]$maxResults = 50
+        [int]$maxResults = 50,
+        [int]$totalResultsLimit
     )
 
     $videos = @()
     $nextPageToken = $null
+    $totalResultsFetched = 0  # Track the total number of results fetched
 
     do {
-        $videosApiUrl = "https://www.googleapis.com/youtube/v3/search?part=snippet&mine=true&maxResults=$maxResults&type=video&pageToken=$nextPageToken"
-        $headers = @{
-            "Authorization" = "Bearer $accessToken"
+        # If the total number of fetched results will exceed the limit, adjust maxResults
+        if (($totalResultsLimit - $totalResultsFetched) -lt $maxResults) {
+            $maxResults = $totalResultsLimit - $totalResultsFetched
         }
+
+        $videosApiUrl = "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
+        $headers = @{"Authorization" = "Bearer $accessToken" }
 
         $response = Invoke-RestMethod -Uri $videosApiUrl -Headers $headers -Method Get
         $videos += $response.items
+        $totalResultsFetched += $response.items.Count
         $nextPageToken = $response.nextPageToken
-    } while ($nextPageToken)
+
+        # Stop fetching if we've reached the total results limit
+        if ($totalResultsFetched -ge $totalResultsLimit) {
+            break
+        }
+    } while ($nextPageToken -and $totalResultsFetched -lt $totalResultsLimit)
 
     return $videos
 }
@@ -84,15 +99,13 @@ function Get-YouTubeCaptions {
     )
 
     $captionsApiUrl = "https://www.googleapis.com/youtube/v3/captions?part=snippet&videoId=$videoId"
-    $headers = @{
-        "Authorization" = "Bearer $accessToken"
-    }
+    $headers = @{"Authorization" = "Bearer $accessToken" }
 
     $response = Invoke-RestMethod -Uri $captionsApiUrl -Headers $headers -Method Get
     return $response.items
 }
 
-# Function to download a caption file
+# Function to download a caption file with a check if $captionContent is empty
 function Download-YouTubeCaption {
     param (
         [string]$captionId,
@@ -100,41 +113,45 @@ function Download-YouTubeCaption {
         [string]$outputPath
     )
 
-    $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId"
-    $headers = @{
-        "Authorization" = "Bearer $accessToken"
-    }
+    # Specify the format as SRT by adding 'tfmt=srt' to the URL
+    $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId?tfmt=srt"
+    $headers = @{"Authorization" = "Bearer $accessToken" }
 
     $captionContent = Invoke-RestMethod -Uri $downloadUrl -Headers $headers -Method Get
-    Set-Content -Path $outputPath -Value $captionContent
-    Write-Host "Caption saved to: $outputPath"
+
+    # Check if $captionContent is empty
+    if (-not [string]::IsNullOrEmpty($captionContent)) {
+        Set-Content -Path $outputPath -Value $captionContent
+        Write-Host "Caption saved to: $outputPath"
+    }
+    else {
+        Write-Host "No caption content available for captionId: $captionId"
+    }
 }
 
 # Function to iterate through videos and download captions
 function Download-AllYouTubeCaptions {
-    param (
-        [string]$accessToken
-    )
+    param ([string]$accessToken)
 
-    # Output directory for captions
-    $outputDir = "youtube_captions"
-    if (-not (Test-Path $outputDir)) {
-        New-Item -Path $outputDir -ItemType Directory
-    }
-
-    # Get list of videos
-    $videos = Get-YouTubeVideos -accessToken $accessToken
+    # Get list of videos with the total results limit
+    $videos = Get-YouTubeVideos -accessToken $accessToken -maxResults $maxResults -totalResultsLimit $totalResultsLimit
     foreach ($video in $videos) {
         $videoId = $video.id.videoId
         $title = $video.snippet.title
         Write-Host "Processing video: $title"
+
+        # Create a folder for the video using its ID
+        $videoFolder = Join-Path $outputDir $videoId
+        if (-not (Test-Path $videoFolder)) {
+            New-Item -Path $videoFolder -ItemType Directory
+        }
 
         # Get captions for the video
         $captions = Get-YouTubeCaptions -videoId $videoId -accessToken $accessToken
 
         if ($captions.Count -gt 0) {
             $captionId = $captions[0].id
-            $outputPath = Join-Path $outputDir "$videoId.srt"
+            $outputPath = Join-Path $videoFolder "transcript.srt"
 
             # Download the caption
             Download-YouTubeCaption -captionId $captionId -accessToken $accessToken -outputPath $outputPath
