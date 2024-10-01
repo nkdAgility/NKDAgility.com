@@ -1,7 +1,7 @@
 # Variables for OAuth credentials
-$clientId = "YOUR_CLIENT_ID"
-$clientSecret = "YOUR_CLIENT_SECRET"
-$redirectUri = "urn:ietf:wg:oauth:2.0:oob"
+$clientId = $env:google_clientId
+$clientSecret = $env:google_clientSecret
+$redirectUri = "http://localhost:8080"
 $scope = "https://www.googleapis.com/auth/youtube.force-ssl"
 
 # Function to get OAuth access token
@@ -19,11 +19,29 @@ function Get-OAuthToken {
     Write-Host $authUrl
     Start-Process $authUrl
 
-    $authCode = Read-Host "Enter the authorization code: "
+    # Step 2: Set up a local web server to listen for the OAuth callback
+    $listener = New-Object System.Net.HttpListener
+    $listener.Prefixes.Add($redirectUri + "/")
+    $listener.Start()
 
-    # Step 2: Exchange authorization code for an access token
+    Write-Host "Waiting for authorization response..."
+
+    # Step 3: Wait for the OAuth response and extract the authorization code
+    $context = $listener.GetContext()
+    $response = $context.Response
+    $authCode = ($context.Request.Url.Query -split 'code=')[1] -split '&'[0]
+
+    # Send a response to the browser
+    $responseString = "<html><body>Authorization successful. You can close this tab now.</body></html>"
+    $buffer = [System.Text.Encoding]::UTF8.GetBytes($responseString)
+    $response.ContentLength64 = $buffer.Length
+    $response.OutputStream.Write($buffer, 0, $buffer.Length)
+    $response.OutputStream.Close()
+    $listener.Stop()
+
+    # Step 4: Exchange the authorization code for an access token
     $tokenRequestBody = @{
-        code          = $authCode
+        code          = $authCode[0]
         client_id     = $clientId
         client_secret = $clientSecret
         redirect_uri  = $redirectUri
@@ -132,5 +150,5 @@ function Download-AllYouTubeCaptions {
 # Step 1: Get OAuth token
 $accessToken = Get-OAuthToken -clientId $clientId -clientSecret $clientSecret -redirectUri $redirectUri -scope $scope
 
-# Step 2: Download captions for all videos
+# Step 2: Download captions for all videos (as before)
 Download-AllYouTubeCaptions -accessToken $accessToken
