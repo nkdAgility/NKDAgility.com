@@ -9,6 +9,8 @@ duration: 505
 isShort: False
 ---
 
+{{< youtube JVZzJZ5q0Hw >}}
+
 # What is the most common mistake in sprint planning?
 
 *Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 

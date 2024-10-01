@@ -9,6 +9,8 @@ duration: 567
 isShort: False
 ---
 
+{{< youtube AaCM_pmZb4k >}}
+
 # What are hierarchies of competence vs control?
 
 Have you ever had that feeling that you are being guided by a great coach, a master of their field? Someone who gets what you are trying to achieve, has the experience and skill to help you get there, but works with you to empower you to find the answer rather than dictating how things should be done?

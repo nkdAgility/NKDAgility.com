@@ -9,6 +9,8 @@ duration: 235
 isShort: False
 ---
 
+{{< youtube kORUKHu-64A >}}
+
 # Scrum is like communism. It doesn't work. Myth 5 - Balance Between Flexibility & Compliance
 
 Discover the truth about Scrum governance! Debunk myths and get actionable insights on effective product development. 🚀

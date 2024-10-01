@@ -9,6 +9,8 @@ duration: 1219
 isShort: False
 ---
 
+{{< youtube U69JMzIZXro >}}
+
 # Installing TFS 2013 Standard
 
 Have you tried to install TFS 2013? Its so ridiculously easy compared to early versions of TFS that you can do it in your sleep. See Martin configure TFS as a standard single server with full SQL Server, Analysis Services, and Reporting Services.

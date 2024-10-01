@@ -9,6 +9,8 @@ duration: 479
 isShort: False
 ---
 
+{{< youtube olryF91pOEY >}}
+
 # Can organizations run an Applying Professional Scrum workshop? How will that help them?
 
 Sometimes, in our enthusiasm to successfully adopt #scrum, we can focus on the dogma of #agile and the mechanics of #scrum a little too much. 

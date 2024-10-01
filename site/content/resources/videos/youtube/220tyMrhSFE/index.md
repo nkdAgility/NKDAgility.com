@@ -9,6 +9,8 @@ duration: 49
 isShort: True
 ---
 
+{{< youtube 220tyMrhSFE >}}
+
 # Kanban principles
 
 Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework

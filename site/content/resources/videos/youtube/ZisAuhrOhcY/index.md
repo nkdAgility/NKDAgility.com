@@ -9,6 +9,8 @@ duration: 321
 isShort: False
 ---
 
+{{< youtube ZisAuhrOhcY >}}
+
 # My journey with Kanban and why I actively recommend it to consulting clients.
 
 🚀 Kanban: A Universal Strategy for Enhanced Workflow and Predictability 🚀

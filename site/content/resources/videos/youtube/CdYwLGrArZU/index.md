@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube CdYwLGrArZU >}}
+
 # Most common thing you hear in a PSPO course?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood highlights the most common thing he hears on the professional scrum product owner course #pspo #professionalscrumproductowner #scrumproductowner

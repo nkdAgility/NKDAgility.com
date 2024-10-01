@@ -9,6 +9,8 @@ duration: 267
 isShort: False
 ---
 
+{{< youtube SLZmpwEWxD4 >}}
+
 # Kanban Visualisation practices! Stratagies or Best Practices for effectively visualizing workflow!
 
 In this video, discover the transformative power of visualizing workflows using Kanban. Learn how to effectively use tools like Jira and Azure DevOps to streamline your processes, enhance team communication, and drive efficiency. Get expert tips on setting up your Kanban board, optimizing flow, and achieving greater clarity and coordination in your projects. Perfect for teams looking to boost productivity and align their work strategies.

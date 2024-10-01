@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube 3-LDBJppxvo >}}
+
 # 6 things you didn't know about Agile Product Management but really should Part 1
 
 Visit https://www.nkdagility.com #agile #agileproductmanagement #agileproductdevelopment #agileprojectmanagement

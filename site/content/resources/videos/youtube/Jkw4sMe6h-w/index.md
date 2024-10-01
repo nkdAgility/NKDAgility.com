@@ -9,6 +9,8 @@ duration: 243
 isShort: False
 ---
 
+{{< youtube Jkw4sMe6h-w >}}
+
 # How is Agile Leadership different to traditional management?
 
 Joanna Plaskonka talks about the difference between #agileleadership and traditional line #management. In a simple or complicated environment, traditional management has been a great solution, but as things become more complex, a different style of leadership is needed.

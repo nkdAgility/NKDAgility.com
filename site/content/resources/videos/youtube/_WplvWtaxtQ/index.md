@@ -9,6 +9,8 @@ duration: 130
 isShort: False
 ---
 
+{{< youtube _WplvWtaxtQ >}}
+
 # Why do you think the PSM immersive learning experience is a great fit for aspiring scrum masters
 
 You've found #scrum and it feels like home. Now, you want to grow your professional #scrummaster capabilities and thrive in the accountability. It's #scrumtraining time.

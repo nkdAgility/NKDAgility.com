@@ -9,6 +9,8 @@ duration: 263
 isShort: False
 ---
 
+{{< youtube -xMY9Heanjk >}}
+
 # What is the hardest part of working with a brand new scrum team?
 
 #agile has had a significant impact on #productdevelopment over the past 21 years, but is still confused with a #projectmanagement methodology rather than being a guiding light for #businessagility.

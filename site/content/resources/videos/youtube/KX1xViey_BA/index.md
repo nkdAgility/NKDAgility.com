@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube KX1xViey_BA >}}
+
 # Quotes In the past the man has been first; in the future the system must be first Frederick Taylor
 
 #shorts #shortsvideo #shortvideo Frederick Taylor is the father of modern #management. He stated that people used to be first, but now we need to focus on systems. Is that true? Martin Hinshelwood answers.

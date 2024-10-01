@@ -9,6 +9,8 @@ duration: 414
 isShort: False
 ---
 
+{{< youtube 66NuAjzWreY >}}
+
 # Introduction to Evidence Based Management
 
 Understanding Evidence-Based Management (EBM)

@@ -9,6 +9,8 @@ duration: 49
 isShort: True
 ---
 
+{{< youtube GS2If-vQ9ng >}}
+
 # Agile training versus agile consulting
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood explains the difference between #agiletraining and #agilecoaching 

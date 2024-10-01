@@ -9,6 +9,8 @@ duration: 205
 isShort: False
 ---
 
+{{< youtube W3cyrYFXDfg >}}
+
 # Why is training such a critical element in a manager or leader's journey
 
 As the world increases in complexity, it can be tough to make the transition from traditional #manager to #agileleader. All the behaviours, processes and tools that made you successful as a manager now need to be revisited and reinvented to adapt to complex environments, and that can be a minefield to navigate if you've never received any formal #scrumtraining.

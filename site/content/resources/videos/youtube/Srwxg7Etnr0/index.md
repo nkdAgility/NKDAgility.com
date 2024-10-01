@@ -9,6 +9,8 @@ duration: 152
 isShort: False
 ---
 
+{{< youtube Srwxg7Etnr0 >}}
+
 # How does a Scrum Team Decide on a Sprint Goal?
 
 **Unlocking Scrum: Crafting Your Sprint Goals for Maximum Impact**

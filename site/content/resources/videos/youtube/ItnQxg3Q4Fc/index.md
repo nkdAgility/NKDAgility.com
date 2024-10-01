@@ -9,6 +9,8 @@ duration: 285
 isShort: False
 ---
 
+{{< youtube ItnQxg3Q4Fc >}}
+
 # Why is it so important that senior leadership teams are engaged during an agile consulting gig?
 
 It's often said that leadership supporting an #agiletransformation isn't enough, they actively need to champion #agile for it to succeed. Why?

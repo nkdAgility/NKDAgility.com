@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube PaUciBmqCsU >}}
+
 # Kanban vs. Scrum? You're Asking the Wrong Question!
 
 Tired of the endless debate about Kanban vs. Scrum?  This video debunks the myth that they're competitors and reveals how Kanban can actually supercharge your Scrum (or any other) process.

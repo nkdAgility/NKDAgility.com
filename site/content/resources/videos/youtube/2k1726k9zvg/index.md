@@ -9,6 +9,8 @@ duration: 283
 isShort: False
 ---
 
+{{< youtube 2k1726k9zvg >}}
+
 # What is the difference between a newbie scrum master and a professional scrum master?
 
 *Unraveling the Scrum Master Role: Insights and Misconceptions*

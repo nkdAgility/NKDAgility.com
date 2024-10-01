@@ -9,6 +9,8 @@ duration: 240
 isShort: False
 ---
 
+{{< youtube TzhiftXOJdw >}}
+
 # What more needs to happen before traditional organizations consider Agile
 
 In simple or complicated environments, where there are little to no variables that you don't know upfront, traditional #projectmanagement works a treat. You know 85% of what needs knowing, and you can figure the other 15% out as you move along with a team of experts.

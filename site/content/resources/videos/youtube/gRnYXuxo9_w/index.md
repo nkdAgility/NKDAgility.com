@@ -9,6 +9,8 @@ duration: 171
 isShort: False
 ---
 
+{{< youtube gRnYXuxo9_w >}}
+
 # Scrum Value, Openness, What does it mean and why does it matter?
 
 *Unlocking Team Potential: The Power of Openness in Scrum*

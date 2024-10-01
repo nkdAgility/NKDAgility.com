@@ -9,6 +9,8 @@ duration: 291
 isShort: False
 ---
 
+{{< youtube vWfebO_pwIU >}}
+
 # Why Most Scrum Masters only have PSMI!
 
 *Why do so few scrum masters progress to the PSM II and PSM III certifications?*

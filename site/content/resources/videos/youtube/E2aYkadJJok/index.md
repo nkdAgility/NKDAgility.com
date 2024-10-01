@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube E2aYkadJJok >}}
+
 # Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Your Workflow
 
 Ready to supercharge your campaigns with Kanban? This video dives into the essential role Kanban boards play in visualizing your workflow and maximizing campaign effectiveness.

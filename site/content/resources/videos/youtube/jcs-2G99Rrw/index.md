@@ -9,6 +9,8 @@ duration: 2034
 isShort: False
 ---
 
+{{< youtube jcs-2G99Rrw >}}
+
 # Top 4 Rookie Mistakes in Azure DevOps
 
 Unpack 4 critical Azure DevOps pitfalls that make the Azure DevOps product teams' toes curl! 🛠️✨

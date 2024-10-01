@@ -9,6 +9,8 @@ duration: 294
 isShort: False
 ---
 
+{{< youtube pw_8gbaWZC4 >}}
+
 # How Top Teams Use Pull Systems!
 
 Discover the transformative power of Kanban in optimizing pull systems for continuous improvement. This video unveils practical strategies and insights for enhancing workflow efficiency, identifying bottlenecks, and making data-driven decisions that propel productivity. Perfect for teams looking to leverage flow metrics and refine their processes. Dive in to see how Kanban can illuminate the path to operational excellence in your organization!

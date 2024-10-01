@@ -9,6 +9,8 @@ duration: 331
 isShort: False
 ---
 
+{{< youtube kTszGsXPLXY >}}
+
 # How easy is it to create a Kanban pilot in the organization?
 
 🚀 Kickstart Your Kanban Journey: Insights from a YouTube Deep Dive 🚀

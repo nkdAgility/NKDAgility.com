@@ -9,6 +9,8 @@ duration: 540
 isShort: False
 ---
 
+{{< youtube TCs2IxB118c >}}
+
 # The Power of Engaged Teams Through Mentorship Programs
 
 Introduction: The Impact of Morale on Success

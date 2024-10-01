@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube tPkqqaIbCtY >}}
+
 #  shorts 7 Virtues of agile. Kindness
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile. Kindness #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #developer #productmanager #productmanagement 

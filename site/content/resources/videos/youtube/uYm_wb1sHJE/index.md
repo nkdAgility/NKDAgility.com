@@ -9,6 +9,8 @@ duration: 158
 isShort: False
 ---
 
+{{< youtube uYm_wb1sHJE >}}
+
 # What is the sprint review workshop and how will it help organizations?
 
 The #sprintreview is a critical event in #scrum because it's the moment where the #scrumteam introduce the customer and stakeholders to the work that has been completed in the #sprint.

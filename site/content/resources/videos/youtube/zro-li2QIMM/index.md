@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube zro-li2QIMM >}}
+
 #  shorts 7 Virtues of agile. Charity
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile. Charity. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productdevelopment #productmanagement #scrummaster #agilecoach #productowner #agileleadership 

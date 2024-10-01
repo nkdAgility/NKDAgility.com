@@ -9,6 +9,8 @@ duration: 234
 isShort: False
 ---
 
+{{< youtube u56sOCe6G0A >}}
+
 # 3 core practices of Kanban. Actively managing items in a workflow.
 
 Maximize Your Workflow with Active Management: A Must-Watch Guide

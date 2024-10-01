@@ -9,6 +9,8 @@ duration: 400
 isShort: False
 ---
 
+{{< youtube oBnvr7vOkg8 >}}
+
 # How does someone become an agile consultant?
 
 #agile has proven itself a reliable, super productive and collaborative approach to #productdevelopment in complex environments. It's a far shift from traditional #projectmanagement and organizations often need to invest in an #agileconsultant or #agilecoach to help them make the transition.

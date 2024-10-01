@@ -9,6 +9,8 @@ duration: 146
 isShort: False
 ---
 
+{{< youtube kOj-O99mUZE >}}
+
 # Overview of scaling with portfolio Kanban course.
 
 🚀 Elevate Organizational Efficiency with "Applying Scaling Portfolio Kanban" Course 🚀

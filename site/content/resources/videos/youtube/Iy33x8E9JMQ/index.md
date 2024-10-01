@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube Iy33x8E9JMQ >}}
+
 # Dogma versus Empiricism in a consulting engagement
 
 #shorts #shortvideo #shortsvideo #agile is built on the foundation of #empiricism, which is essentially learning through doing and adapting as necessary, but sometimes your #agilecoach will get too caught up in #agiledogma that is creates problems for you. Here's how

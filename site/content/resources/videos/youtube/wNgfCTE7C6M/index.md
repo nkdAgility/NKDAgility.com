@@ -9,6 +9,8 @@ duration: 371
 isShort: False
 ---
 
+{{< youtube wNgfCTE7C6M >}}
+
 # How does the PSU course help teams make more effective product development decisions?
 
 Scrum.Org recently launched the PSU (Professional Scrum with User Experience) course that intends to help bring product designers, user experience specialists, and scrum development teams closer together.

@@ -9,6 +9,8 @@ duration: 239
 isShort: False
 ---
 
+{{< youtube 4kqM1U7y1ZM >}}
+
 # What would you look to achieve with a new scrum team in the first 90 days?
 
 #agileconsulting and #agilecoaching can seem somewhat nebulous at times because many coaches and consultants don't provide clear outcomes that a client can expect.

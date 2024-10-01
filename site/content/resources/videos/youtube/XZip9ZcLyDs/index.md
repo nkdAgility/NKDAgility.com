@@ -9,6 +9,8 @@ duration: 193
 isShort: False
 ---
 
+{{< youtube XZip9ZcLyDs >}}
+
 # Why is becoming a scrum master a great career option?
 
 *Step Up Your Career: Embrace the Scrum Master Role* - Discover why transitioning to a Scrum Master is a pivotal career move for aspiring leaders. Learn the essentials of this role and how it shapes effective teams.

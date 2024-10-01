@@ -9,6 +9,8 @@ duration: 326
 isShort: False
 ---
 
+{{< youtube 4FTEJ4tDQqU >}}
+
 # Why did you embrace Agile over traditional project management as a developer?
 
 Agile's Journey: A Developer's Transition from Traditional to Agile Practices - Explore a developer's insightful journey from traditional project management to the empowering world of Agile and DevOps. Discover the transformative power of people over tools in this eye-opening video.

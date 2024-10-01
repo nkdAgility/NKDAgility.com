@@ -9,6 +9,8 @@ duration: 330
 isShort: False
 ---
 
+{{< youtube DBa5_WhA68M >}}
+
 # 5 things you would teach a productowner apprentice. Part 1
 
 📹 Unlock the Power of Negotiation in Product Ownership: Essential Skills for Success | Subscribe Now for Expert Insights!

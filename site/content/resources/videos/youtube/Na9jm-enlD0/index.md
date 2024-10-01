@@ -9,6 +9,8 @@ duration: 777
 isShort: False
 ---
 
+{{< youtube Na9jm-enlD0 >}}
+
 # Where is consensus valuable and where does it kill great product development?
 
 Dive into the nuances of consensus in product development! Discover when it's valuable and when it might hinder progress. 🚀

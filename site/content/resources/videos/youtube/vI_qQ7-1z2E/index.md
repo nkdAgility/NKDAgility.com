@@ -9,6 +9,8 @@ duration: 330
 isShort: False
 ---
 
+{{< youtube vI_qQ7-1z2E >}}
+
 # Is a PSM II certification validation of your skills or does it develop your skill and capability?
 
 Congratulations, you've been a #scrummaster for 6 months or more and you are now looking to level up in your career. Many people look to the #PSM II or #professionalscrummaster course from #scrumorg for their certification journey, and with good reason, so we're going to answer one of the more frequently asked questions.

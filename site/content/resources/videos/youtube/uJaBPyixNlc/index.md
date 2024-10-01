@@ -9,6 +9,8 @@ duration: 270
 isShort: False
 ---
 
+{{< youtube uJaBPyixNlc >}}
+
 # How does Naked Agility select Scrum trainers?
 
 #agile has gained a lot of traction since it's inception in 2001 when a team of 17 brilliant #softwareengineer came together to design a new style of working that departed from the heavily prescribed #projectmanagement processes of the past.

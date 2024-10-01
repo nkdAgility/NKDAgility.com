@@ -9,6 +9,8 @@ duration: 496
 isShort: False
 ---
 
+{{< youtube 8aIUldVDtGw >}}
+
 # Stop starting and start finishing!
 
 🚀 Discover the Power of Lean in Agile with This Insightful YouTube Video! 🚀

@@ -9,6 +9,8 @@ duration: 40
 isShort: True
 ---
 
+{{< youtube UFCwbq00CEQ >}}
+
 #  shorts 5 kinds of Agile bandits. 2nd kind
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 #agile bandits. This video features 'say-do' metrics.

@@ -9,6 +9,8 @@ duration: 1652
 isShort: False
 ---
 
+{{< youtube sT44RQgin5A >}}
+
 # The Four Key Value Areas of EBM
 
 ### 📊 **The Four Key Value Areas of Evidence-Based Management**

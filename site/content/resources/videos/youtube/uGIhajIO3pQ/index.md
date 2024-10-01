@@ -9,6 +9,8 @@ duration: 121
 isShort: False
 ---
 
+{{< youtube uGIhajIO3pQ >}}
+
 # Agile Scotland 2023 Why does this matter to you and why should people come to the event?
 
 This year, NKD Agility are proud sponsors of Agile Scotland 2023. In this short video, Martin Hinshelwood talks about the event, why it matters, and why you should attend if you're in Scotland.

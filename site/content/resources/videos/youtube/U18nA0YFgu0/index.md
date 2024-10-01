@@ -9,6 +9,8 @@ duration: 262
 isShort: False
 ---
 
+{{< youtube U18nA0YFgu0 >}}
+
 # Wrath! 7 deadly sins of Agile
 
 *Understanding Organizational Wrath and Accountability*

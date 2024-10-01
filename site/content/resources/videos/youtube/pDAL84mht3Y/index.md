@@ -9,6 +9,8 @@ duration: 47
 isShort: True
 ---
 
+{{< youtube pDAL84mht3Y >}}
+
 # 7 signs of the agile apocalypse. Plague
 
 #shorts #shortvideo #shortsvideo In deeply interconnected, integrated environments there is a lot that can go wrong. When it goes wrong, it tends to go wrong in spades. In this short video, Martin Hinshelwood explains what plague looks like, in the context of #agile, and why it's a sure sign of impending disaster.

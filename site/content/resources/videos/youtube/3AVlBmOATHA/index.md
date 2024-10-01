@@ -9,6 +9,8 @@ duration: 371
 isShort: False
 ---
 
+{{< youtube 3AVlBmOATHA >}}
+
 # How would you help organizations pitch the opportunity of agile internally?
 
 #agile has a great track record in organizations where teams have been invited to explore the opportunity of an #agileframework and how it can solve their most compelling problems, but tends to fall over in environments where it is imposed on teams.

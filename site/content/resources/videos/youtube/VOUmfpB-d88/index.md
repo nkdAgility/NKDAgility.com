@@ -9,6 +9,8 @@ duration: 430
 isShort: False
 ---
 
+{{< youtube VOUmfpB-d88 >}}
+
 # NKD Agility Training Approach
 
 There's an old saying, 'those who can't teach', and we are deeply aware of why that is. That said, it isn't mastery unless the technique or outcomes can be reproduced by others, and that's the difference between teaching and training.

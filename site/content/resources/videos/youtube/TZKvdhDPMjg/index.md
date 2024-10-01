@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube TZKvdhDPMjg >}}
+
 # One thing a client can do ensure a successful agile engagement.
 
 #shorts #agilecoach or #agileconsultant will receive a lot of training and mentoring on how to create a successful #agilecoaching engagement, but it is very seldom for clients to receive any insight or training into achieving the same outcome.

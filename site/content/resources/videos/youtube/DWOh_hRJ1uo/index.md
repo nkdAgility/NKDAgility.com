@@ -9,6 +9,8 @@ duration: 202
 isShort: False
 ---
 
+{{< youtube DWOh_hRJ1uo >}}
+
 # What is your best advice for becoming a scrum master outside of software engineering?
 
 *Mastering Scrum Mastery: Beyond Software Engineering* - Discover the journey to becoming a Scrum Master in any field, not just software. Dive into the essentials of understanding and leading teams effectively. 🚀 

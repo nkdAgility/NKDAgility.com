@@ -9,6 +9,8 @@ duration: 39
 isShort: True
 ---
 
+{{< youtube 4p5xeJZXvcE >}}
+
 #  shorts 7 Virtues of agile. Patience
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile. Patience. #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #productmanagement #productmanager #agile #scrum 

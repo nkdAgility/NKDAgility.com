@@ -9,6 +9,8 @@ duration: 277
 isShort: False
 ---
 
+{{< youtube Xa_e2EnLEV4 >}}
+
 # 3 best ways to wreck your Kanban adoption. Sweeping problems under the rug.
 
 Conquering Challenges in Kanban: The Perils of Ignoring Problems

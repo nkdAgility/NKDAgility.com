@@ -9,6 +9,8 @@ duration: 355
 isShort: False
 ---
 
+{{< youtube ucTJ1fe1CvQ >}}
+
 # PPDV course overview
 
 In this video, I dive into the critical importance of addressing assumptions in complex product development environments. Whether you're a product leader, owner, manager, or part of a product team, this video is for you. 

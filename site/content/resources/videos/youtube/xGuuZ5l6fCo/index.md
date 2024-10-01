@@ -9,6 +9,8 @@ duration: 412
 isShort: False
 ---
 
+{{< youtube xGuuZ5l6fCo >}}
+
 # Are You TRULY Empowering Your Teams to Respond to User Feedback? | The Agile Reality Check [5/6]
 
 Are you confident that your organization is truly agile? Does your team have the autonomy to adapt and change product requirements based on real user feedback? This video dives into a critical question from the US Department of Defense's "Detecting Agile BS" guide, challenging you to assess your company's ability to respond to user input and pivot quickly.

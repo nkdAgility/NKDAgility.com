@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube JNJerYuU30E >}}
+
 # Most Influential Person in Agile - Jerónimo Palacios
 
 #shorts As we progress in our #agile career, we are often privileged to meet people who shape the trajectory of our career and experiences in meaningful, powerful ways. People who take the time to teach, coach, and mentor us in our journey to #agile and #scrum mastery.

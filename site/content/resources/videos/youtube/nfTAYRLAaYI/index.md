@@ -9,6 +9,8 @@ duration: 49
 isShort: True
 ---
 
+{{< youtube nfTAYRLAaYI >}}
+
 # Kanban Principles
 
 Master Kanban: 3 Essential Principles for Process Improvement

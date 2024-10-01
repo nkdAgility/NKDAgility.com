@@ -9,6 +9,8 @@ duration: 267
 isShort: False
 ---
 
+{{< youtube XKmWMXagVgQ >}}
+
 # 5 things you would teach a productowner apprentice. Part 5
 
 🚀 Elevate Your Product Ownership with Continuous Learning: Stay Ahead in the Game | Subscribe for Cutting-Edge Insights!

@@ -9,6 +9,8 @@ duration: 537
 isShort: False
 ---
 
+{{< youtube Dl5v4j1f-WE >}}
+
 # How would you like to be remembered as a Professional Scrum Trainer?
 
 #scrumorg was created by the cocreator of #scrum, Ken Schwaber, with the intention of providing aspiring #scrummasters, #productowners, and #scrumdevelopers with a rock-solid training and certification experience.

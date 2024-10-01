@@ -9,6 +9,8 @@ duration: 3386
 isShort: False
 ---
 
+{{< youtube 5bgcpPqcGlw >}}
+
 # Agile Evolution - Live Site Culture & Site Reliability at Azure DevOps
 
 **This session was supposed to be don't at this time at Techorama BE**

@@ -9,6 +9,8 @@ duration: 483
 isShort: False
 ---
 
+{{< youtube wHYYfvAGFow >}}
+
 # What is Taylorism and how did it influence project management?
 
 *The Influence of Taylorism on Project Management*

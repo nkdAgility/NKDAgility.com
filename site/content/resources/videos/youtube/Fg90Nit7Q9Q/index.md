@@ -9,6 +9,8 @@ duration: 36
 isShort: True
 ---
 
+{{< youtube Fg90Nit7Q9Q >}}
+
 # Can you align DevOps and Software Engineering teams through Scrum
 
 #shorts #shortsvideo #shortvideo #DevOps are often an afterthought to people who don't understand software engineering yet they play a critical role in delivery of solutions to customers. In this short video, Martin Hinshelwood explores how #scrum can align Devops and Software Engineering teams.

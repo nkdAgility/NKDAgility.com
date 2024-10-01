@@ -9,6 +9,8 @@ duration: 296
 isShort: False
 ---
 
+{{< youtube T-K7HC-ZGjM >}}
+
 # What is a sprint backlog?
 
 A sprint backlog is one of the artefacts in #scrum. It's also a critical part of setting expectations for the #sprint, and ensuring that the #scrumteam are working on the most valuable items for the customer, #productowner, and product stakeholders.

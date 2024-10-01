@@ -9,6 +9,8 @@ duration: 497
 isShort: False
 ---
 
+{{< youtube N58DvsSx4U8 >}}
+
 # What is your favourite DevOps consulting outcome?
 
 After years as an #agilepractitioner, #softwaredeveloper and #devops specialist, Martin Hinshelwood evolved into a professional #agilecoach and #agileconsultant with a specialism in DevOps consulting.

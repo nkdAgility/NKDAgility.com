@@ -9,6 +9,8 @@ duration: 36
 isShort: True
 ---
 
+{{< youtube xLUsgKWzkUM >}}
+
 # Why is training such a critical element in a productowner journey
 
 #shorts #shortsvideo #shortvideo Many people are assigned the #productowner accountability without any formal #scrumtraining or skills development. We've featured a short excerpt from a video where Martin Hinshelwood talks about the value of training for a product owner, you can watch the full video on  https://youtu.be/2_CowcUpzAA

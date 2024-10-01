@@ -9,6 +9,8 @@ duration: 177
 isShort: False
 ---
 
+{{< youtube RBZFAxEUQC4 >}}
+
 # Lust! 7 Deadly Sins of Agile
 
 Organizations are realizing that markets have changed and are now seeking agile transformations. But many just want to buy the solution without putting in the work. Dive into why this approach doesn't work. 🚀

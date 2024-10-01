@@ -9,6 +9,8 @@ duration: 298
 isShort: False
 ---
 
+{{< youtube YUlpnyN2IeI >}}
+
 # Unlocking Scrum's Potential - Avoiding Dogma and Embracing Flexibility
 
 *Best scrum advice you ever received?*

@@ -9,6 +9,8 @@ duration: 121
 isShort: False
 ---
 
+{{< youtube 3XsOseKG57g >}}
+
 # What do people love most about the 4-day training format?
 
 #scrumorg have started a journey to more immersive learning experiences, and the 4-day #scrumcourses and #scrumcertification programs are the start of that journey.

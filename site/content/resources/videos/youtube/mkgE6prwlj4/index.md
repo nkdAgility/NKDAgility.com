@@ -9,6 +9,8 @@ duration: 55
 isShort: True
 ---
 
+{{< youtube mkgE6prwlj4 >}}
+
 # Best application of Scrum in the world?
 
 #shorts #shortsvideo #scrum is known to be the best #agileframework for complex #productdevelopment in the world. It has heaps of great case studies showcasing how the #scrumframework transformed engineering and #agile teams around the world. Martin Hinshelwood talks about his favourite #scrumcasestudy

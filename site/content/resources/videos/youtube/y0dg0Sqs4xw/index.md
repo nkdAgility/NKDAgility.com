@@ -9,6 +9,8 @@ duration: 114
 isShort: False
 ---
 
+{{< youtube y0dg0Sqs4xw >}}
+
 # What is a common mistake made by rookie agile consultants?
 
 The #agile industry has a bit of a problem when it comes to regulation, skills development, and validation of an #agilecoach or #agileconsultant. In some cases, a #scrummaster with 2 years' experience can simply amend their CV and call themselves an #agilecoach or #agileconsultant without having the necessary skills, expertise, or experience to do the job.

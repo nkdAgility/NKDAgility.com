@@ -9,6 +9,8 @@ duration: 233
 isShort: False
 ---
 
+{{< youtube U0h7N5xpAfY >}}
+
 # Why is training such a critical element in a scrum master's journey
 
 People perceive the #scrummaster accountability to be a fairly junior, administrative role in #scrum but it's completely the opposite. It is a #leadership role that presents a #scrummaster as an #agilecoach that helps creative an environment where the team can thrive.

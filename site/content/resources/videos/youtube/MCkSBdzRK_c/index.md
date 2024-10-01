@@ -9,6 +9,8 @@ duration: 369
 isShort: False
 ---
 
+{{< youtube MCkSBdzRK_c >}}
+
 # Making Business Decisions with Evidence! What is evidence-based management?
 
 🚀 Explore the Power of Evidence-Based Management in This Essential Video! 🚀

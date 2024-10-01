@@ -9,6 +9,8 @@ duration: 24
 isShort: True
 ---
 
+{{< youtube WIVDWzps4aY >}}
+
 # Favourite scrum course to teach and why?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about his favourite #scrumcourse to teach, and why that #scrumtraining resonates so much.

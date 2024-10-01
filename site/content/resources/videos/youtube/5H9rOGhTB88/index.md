@@ -9,6 +9,8 @@ duration: 488
 isShort: False
 ---
 
+{{< youtube 5H9rOGhTB88 >}}
+
 # Are Your Teams TRULY Empowered to Adapt Their Processes? | The Agile Reality Check [4/6]
 
 Are your teams stifled by rigid processes that hinder their ability to deliver value? This video dives into a critical question from the U.S. Department of Defense's "Detecting Agile BS" guide: Are your teams empowered to change their processes based on what they learn?

@@ -9,6 +9,8 @@ duration: 331
 isShort: False
 ---
 
+{{< youtube jXk1_Iiam_M >}}
+
 # Do you think training departments get a lot more bang for their buck with immersive learning?
 
 *Revolutionize Your Team's Learning with Immersive Scrum Training* - Discover how immersive learning can transform your team's Scrum Master roles and enhance organizational learning. Dive into practical insights for effective team development!

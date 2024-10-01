@@ -9,6 +9,8 @@ duration: 198
 isShort: False
 ---
 
+{{< youtube aS9TRDoC62o >}}
+
 # If a client hasn't considered devops consulting as part of their agile consulting needs, why should
 
 #devops remains something of a mystery to many #agilecoachs because they don't have deep, technical expertise in delivering working software to customers. #devops plays a critical role in that delivery pipeline.

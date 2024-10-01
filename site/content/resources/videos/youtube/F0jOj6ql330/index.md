@@ -9,6 +9,8 @@ duration: 46
 isShort: True
 ---
 
+{{< youtube F0jOj6ql330 >}}
+
 # Most rewarding part of being a scrum developer?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about the most rewarding part of being a #scrum #developer.

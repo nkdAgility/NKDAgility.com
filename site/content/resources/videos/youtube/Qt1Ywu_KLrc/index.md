@@ -9,6 +9,8 @@ duration: 2020
 isShort: False
 ---
 
+{{< youtube Qt1Ywu_KLrc >}}
+
 # Basic Work Item Migration with the Azure DevOps Migration Tools
 
 The Azure DevOps Migration Tools allow you to bulk edit and migrate data between Team Projects on both Microsoft Team Foundation Server (TFS) and Azure DevOps Services. Take a look at the documentation to find out how. This project is published as code on GitHub as well as a Winget package a nkdAgility.AzureDevOpsMigrationTools.

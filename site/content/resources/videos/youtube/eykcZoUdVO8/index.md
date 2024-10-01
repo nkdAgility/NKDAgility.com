@@ -9,6 +9,8 @@ duration: 39
 isShort: True
 ---
 
+{{< youtube eykcZoUdVO8 >}}
+
 # Most influential person in agile for you personally?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through some of the most influential people in #agile for him personally. This is part 4.

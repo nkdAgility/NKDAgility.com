@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube AY35ys1uQOY >}}
+
 # How do you know if you've got a great sprint goal?
 
 #shorts #shortsvideo #shortvideo A #sprintgoal is super important in the context of #scrum and aligns the teams with strategic customer and organizational objectives. In this short video, Martin Hinshelwood explains how a #scrumteam know if they have crafted a valuable #sprintgoal

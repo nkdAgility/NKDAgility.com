@@ -9,6 +9,8 @@ duration: 218
 isShort: False
 ---
 
+{{< youtube sbr8NkJSLPU >}}
+
 # 3 core practices of Kanban Defining and visualizing a workflow
 
 Unlock the Power of Kanban: Streamline Your Workflow for Maximum Efficiency 🚀

@@ -9,6 +9,8 @@ duration: 246
 isShort: False
 ---
 
+{{< youtube Nw0bXiOqu0Q >}}
+
 # Why are recessions a great time for organizations to evaluate the opportunity of agile?
 
 Traditional organizations tend to focus on #projectmanagement because it is well-known, comfortable, and for many people, just the way things work around here.

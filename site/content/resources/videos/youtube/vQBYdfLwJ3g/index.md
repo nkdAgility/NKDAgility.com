@@ -9,6 +9,8 @@ duration: 268
 isShort: False
 ---
 
+{{< youtube vQBYdfLwJ3g >}}
+
 # Why is the PSPO a great fit for the 8-week immersive learning experience?
 
 The Professional Scrum Product Owner or PSPO course from Scrum.Org is a great fit for the new 8-week immersive learning experience because it enables you to learn, work, and transform the classroom environment into a real-world learning experience.

@@ -9,6 +9,8 @@ duration: 117
 isShort: False
 ---
 
+{{< youtube y2TObrUi3m0 >}}
+
 # What should have been way more popular in Agile than it currently is?
 
 *Unlocking Agile Success: Beyond Tools and Techniques*

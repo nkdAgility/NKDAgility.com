@@ -9,6 +9,8 @@ duration: 426
 isShort: False
 ---
 
+{{< youtube O6rYL3EDUxM >}}
+
 # 6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]
 
 Think your company is Agile? 🤔  Are you sure?

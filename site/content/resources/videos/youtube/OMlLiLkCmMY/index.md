@@ -9,6 +9,8 @@ duration: 24
 isShort: True
 ---
 
+{{< youtube OMlLiLkCmMY >}}
+
 #  shorts 7 Virtues of Agile. Chastity
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile, presented by Martin Hinshelwood. First virtue, #chastity. Visit https://www.nkdagility.com

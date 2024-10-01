@@ -9,6 +9,8 @@ duration: 411
 isShort: False
 ---
 
+{{< youtube CPYTApf0Ibs >}}
+
 # Secret to Unlocking Team Potential and Product Success 🚀 | The Agile Reality Check [2/6]
 
 Is your organization truly Agile? Do your teams have a clear understanding of your product vision and strategic goals? 🎯

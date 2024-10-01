@@ -9,6 +9,8 @@ duration: 423
 isShort: False
 ---
 
+{{< youtube N0Ci9PQQRLc >}}
+
 # How does your real world experience translate into your training style?
 
 #scrum is defined as easy to understand, yet incredibly difficult to master by the co-creators of #scrum. The #scrumguide is less than 20 pages long and so you could move through the theory in a couple of hours, at most.

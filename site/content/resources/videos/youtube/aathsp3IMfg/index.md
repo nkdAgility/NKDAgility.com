@@ -9,6 +9,8 @@ duration: 194
 isShort: False
 ---
 
+{{< youtube aathsp3IMfg >}}
+
 # What does your dream agile consulting week look like?
 
 In this short video, Martin HInshelwood provides some insight into what his dream #agileconsulting week looks like. #scrum #agile #agileconsulting 

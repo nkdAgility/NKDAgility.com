@@ -9,6 +9,8 @@ duration: 340
 isShort: False
 ---
 
+{{< youtube LkphLIbmjkI >}}
+
 # Why are a scrum team better served by an agile consultant than a professional coach?
 
 There is a lot of debate around #professionalcoaching versus #agilecoaching, and why organizations should look to someone with deep #agile experience and expertise rather than a generic performance #coach.

@@ -9,6 +9,8 @@ duration: 328
 isShort: False
 ---
 
+{{< youtube vubnDXYXiL0 >}}
+
 # Are there any scrum courses that teach you how to scale scrum?
 
 *Unlock the Power of Scaling Scrum!* 🚀 Learn essential strategies for scaling Scrum effectively. Don't miss this video!

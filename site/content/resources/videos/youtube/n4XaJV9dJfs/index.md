@@ -9,6 +9,8 @@ duration: 219
 isShort: False
 ---
 
+{{< youtube n4XaJV9dJfs >}}
+
 # What is the most useful element of the APS course for beginner Scrum Teams?
 
 *Mastering Scrum Complexity: Navigate the Agile Landscape*

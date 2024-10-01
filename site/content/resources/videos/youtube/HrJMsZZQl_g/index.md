@@ -9,6 +9,8 @@ duration: 234
 isShort: False
 ---
 
+{{< youtube HrJMsZZQl_g >}}
+
 # When is an APS course appropriate for a scrum team?
 
 In this video, Martin discusses the significance of the APS (Applying Professional Scrum) course for Scrum teams. 📚🚀 The APS course stands out in Scrum training as it educates Scrum teams on how to adopt and implement Scrum professionally. Especially when conducted privately, it provides insights tailored to an organisation's specific context.

@@ -9,6 +9,8 @@ duration: 386
 isShort: False
 ---
 
+{{< youtube Yesn-VHhQ4k >}}
+
 # Why does Agile focus on values and principles rather than a prescribed set of steps?
 
 Traditional #projectmanagement and legacy based organizations have always followed a set of prescribed rules, steps, and procedures to deliver a product or service. It's a process refined over years of practice, and in simple or complicated environments such as civil engineering, it works a treat.

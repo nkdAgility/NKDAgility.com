@@ -9,6 +9,8 @@ duration: 866
 isShort: False
 ---
 
+{{< youtube rnyJzSwU74Q >}}
+
 # Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
 
 Discover how agile practices can significantly enhance project success rates. Dive deep into the empirical model's advantages, including increased visibility, adaptability, reduced risk, and continuous value delivery.

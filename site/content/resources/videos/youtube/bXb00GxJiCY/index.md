@@ -9,6 +9,8 @@ duration: 41
 isShort: True
 ---
 
+{{< youtube bXb00GxJiCY >}}
+
 # 5 reasons why you love the immersive learning experience for students. Part 3
 
 #shorts #shortvideo #shortsvideo 5 reasons why I love the #immersivelearning experience for #Scrum students. Reason 3. Visit https://www.nkdagility.com #agile #scrum #scrumtraining #scrumorg #scrumcertification #immersive

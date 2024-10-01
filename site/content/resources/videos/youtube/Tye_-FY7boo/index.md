@@ -9,6 +9,8 @@ duration: 293
 isShort: False
 ---
 
+{{< youtube Tye_-FY7boo >}}
+
 # 5 things you would teach a productowner apprentice. Part 2
 
 🚀 Master Vision, Value, and Validation in Product Ownership: Elevate Your Skills Today! | Subscribe for Exclusive Insights!

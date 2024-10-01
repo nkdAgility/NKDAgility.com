@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube hB8oQPpderI >}}
+
 # One limitation of a book versus a scrum course.
 
 #shorts #agile books are great. You can learn a great deal about #scrum, #kanban, or any other #agileframework from reading a great book. In fact, to become successful in our field, you need to read a lot of books, blogs, articles, and white papers to master the field.

@@ -9,6 +9,8 @@ duration: 241
 isShort: False
 ---
 
+{{< youtube 221BbTUqw7Q >}}
+
 # What are 3 key takeaways for a scrum team after attending an APS immersive learning course?
 
 The #APS or #applyingprofessionalscrum course is hyper effective in helping a #scrumteam learn how to adopt, implement, and continuously improve #scrum. The immersive learning experience takes it to the next levcel.

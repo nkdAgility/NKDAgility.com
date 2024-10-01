@@ -9,6 +9,8 @@ duration: 402
 isShort: False
 ---
 
+{{< youtube 9HxMS_fg6Kw >}}
+
 # What are some big red flags when hiring an agile consultant?
 
 Embarking on an #agiletransformation where you shift from traditional #projectmanagement models, tools, and methodologies to an #agile approach can be incredibly tough.

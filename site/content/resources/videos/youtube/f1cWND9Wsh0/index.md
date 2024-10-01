@@ -9,6 +9,8 @@ duration: 33
 isShort: True
 ---
 
+{{< youtube f1cWND9Wsh0 >}}
+
 # Why is lego a shit idea for a scrum trainer. Part 1
 
 #shorts #shortvideo #shortsvideo #lego has become a ubiquitous presence in #scrumtraining around the world. Here's why it could be a shit idea. Part 1

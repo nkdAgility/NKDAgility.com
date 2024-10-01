@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube Psc6nDD7Q9g >}}
+
 # Unlocking the Power of Kanban - Gaining Deep Insights into Your Software Engineering Processes
 
 Are you struggling to navigate the unpredictable world of software engineering? Kanban can help! This video reveals how Kanban can provide invaluable insights into your existing processes, leading to improved understanding, efficiency, and success.

@@ -9,6 +9,8 @@ duration: 317
 isShort: False
 ---
 
+{{< youtube 2_CowcUpzAA >}}
+
 # Why is training such a critical element in a product owner journey
 
 You'll find that its fairly common for a #projectmanager or #manager to be assigned the #productowner role in a #scrum environment without them receiving any kind of formal training or skills development.

@@ -9,6 +9,8 @@ duration: 166
 isShort: False
 ---
 
+{{< youtube 8uPjXXt5lo4 >}}
+
 # What is the most valuable thing you have learned through training people?
 
 The transition from #agile practitioner to #scrumtraining can be pretty tough.

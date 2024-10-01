@@ -9,6 +9,8 @@ duration: 253
 isShort: False
 ---
 
+{{< youtube 6S9LGyxU2cQ >}}
+
 # Is the APS immersive learning experience the equivalent of having a hands on scrum coach?
 
 Sometimes, you just need to learn how to do #scrum properly. It isn't so much about learning the mechanics of #scrum, it's instead about how to apply #scrum professionally in your #scrumteam.

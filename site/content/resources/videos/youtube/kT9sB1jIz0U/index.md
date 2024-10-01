@@ -9,6 +9,8 @@ duration: 62
 isShort: False
 ---
 
+{{< youtube kT9sB1jIz0U >}}
+
 # Why I love hierarchies of competence
 
 #shorts Traditional #management environments tend to be based on hierarchies of control. X individual is the leader of the organization and everything flows down from there, from the highest rank to the lowest rank.

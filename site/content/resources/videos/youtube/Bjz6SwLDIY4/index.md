@@ -9,6 +9,8 @@ duration: 344
 isShort: False
 ---
 
+{{< youtube Bjz6SwLDIY4 >}}
+
 # The art of life lies in a constant readjustment to our surroundings
 
 *Adapting to Change: The Key to Business Success* - In today's fast-paced world, it's essential for businesses to constantly adapt to their surroundings in order to succeed. 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility

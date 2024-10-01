@@ -9,6 +9,8 @@ duration: 152
 isShort: False
 ---
 
+{{< youtube uCyHR_eU22A >}}
+
 # How do you select the most valuable items for the sprint backlog?
 
 Unveiling Scrum's Sprint Backlog: A Strategic Approach to Agile Planning

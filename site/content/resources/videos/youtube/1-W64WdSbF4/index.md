@@ -9,6 +9,8 @@ duration: 5769
 isShort: False
 ---
 
+{{< youtube 1-W64WdSbF4 >}}
+
 # Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
 
 [Audio fixed] This is a Free Live Virtual 90m "How to run a Sprint Review" from Martin Hinshelwood.

@@ -9,6 +9,8 @@ duration: 294
 isShort: False
 ---
 
+{{< youtube S7Xr1-qONmM >}}
+
 # Why do you think the PSU course has become so popular for product development?
 
 Scrum.Org recently released the PSU (Professional Scrum with User Experience) course with the objective of helping #scrum #productdevelopment teams become more effective in identifying, creating, and capturing value for customers.

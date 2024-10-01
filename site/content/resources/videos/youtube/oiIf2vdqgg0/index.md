@@ -9,6 +9,8 @@ duration: 41
 isShort: True
 ---
 
+{{< youtube oiIf2vdqgg0 >}}
+
 # What is a product vision?
 
 In #scrum, a #productvision is something that guides the team over the long-term and inspires them to fulfill a specific mission or purpose. It's an incredibly important part of aligning the #scrumteam with organizational and customer objectives. In this short video, Martin Hinshelwood explains what a product vision is, why it matters, and how to build one.

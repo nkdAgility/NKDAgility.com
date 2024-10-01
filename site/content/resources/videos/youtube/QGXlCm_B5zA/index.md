@@ -9,6 +9,8 @@ duration: 280
 isShort: False
 ---
 
+{{< youtube QGXlCm_B5zA >}}
+
 # What will you learn on the PSM II course?
 
 The #PSM II or #professionalscrummaster course from Scrum.Org is designed to help a #scrummaster progress in their career from entry-level capability to more advanced capabilities.

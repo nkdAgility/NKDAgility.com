@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube g1GBes-dVzE >}}
+
 # One thing an agile coach MUST do to be successful?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about the one thing an #agilecoach must do be successful in #agileconsulting or #agilecoaching 

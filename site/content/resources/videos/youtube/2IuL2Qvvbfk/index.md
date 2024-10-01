@@ -9,6 +9,8 @@ duration: 452
 isShort: False
 ---
 
+{{< youtube 2IuL2Qvvbfk >}}
+
 # Biggest contribution from a product owner that you know of?
 
 #scrum purposefully created the #productowner role to ensure that the focus shifted from #projectmanagement to #productdevelopment. Purposefully created a role where a single person took ownership of the product and collaborated with a team of people to realise a #productvision that was powerful and inspiring.

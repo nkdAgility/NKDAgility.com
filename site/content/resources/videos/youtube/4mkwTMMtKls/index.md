@@ -9,6 +9,8 @@ duration: 407
 isShort: False
 ---
 
+{{< youtube 4mkwTMMtKls >}}
+
 # Envy! One of the 7 Deadly Sins of Agile
 
 Envy is one of the seven deadly sins in agile, often manifesting as copying others. But is this approach effective? Dive into the pitfalls of envy in agile practices. 🚫📋

@@ -9,6 +9,8 @@ duration: 581
 isShort: False
 ---
 
+{{< youtube MDpthtdJgNk >}}
+
 # Why is Kanban becoming popular with creative industries?
 
 🚀 Unveiling Kanban's Rise in Creative Industries: A Deep Dive on YouTube 🚀

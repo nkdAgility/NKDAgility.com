@@ -9,6 +9,8 @@ duration: 494
 isShort: False
 ---
 
+{{< youtube b3HFBlCcomk >}}
+
 # Debunking the Myth - Agile is NOT About Speed
 
 Tired of hearing that Agile is all about speed? Think again! This video challenges the common misconception that Agile equates to simply working faster. Uncover the true essence of Agile as a strategic approach to prioritizing value, adapting to change, and delivering the right products.

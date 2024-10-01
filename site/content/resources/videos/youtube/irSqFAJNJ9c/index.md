@@ -9,6 +9,8 @@ duration: 390
 isShort: False
 ---
 
+{{< youtube irSqFAJNJ9c >}}
+
 # What does a poor scrum team look, act and feel like?
 
 Since it's inception in 1995, #scrum has proven itself to be one of the most resilient, valuable #agileframeworks in the #agile world. Time and again, #scrumteams have proven that they are capable of delivering great work in rapid cycles known as #sprints.

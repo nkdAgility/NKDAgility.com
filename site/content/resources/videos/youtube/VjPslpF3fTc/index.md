@@ -9,6 +9,8 @@ duration: 122
 isShort: False
 ---
 
+{{< youtube VjPslpF3fTc >}}
+
 # How will the immersive learning experience change the game for people with a few years experience
 
 *Elevate Your Skills with Immersive Learning: A Game-Changer for Experienced Professionals*

@@ -9,6 +9,8 @@ duration: 138
 isShort: False
 ---
 
+{{< youtube 0fz91w-_6vE >}}
+
 # What is your primary role in a DevOps consulting gig?
 
 As a #devops #consultant, Martin Hinshelwood has worked in multiple geographies, across multiple industry applications, and with a wide variety of clients.

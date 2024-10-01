@@ -9,6 +9,8 @@ duration: 487
 isShort: False
 ---
 
+{{< youtube HTv3NkNJovk >}}
+
 # Why is Satya Nadella a better example of agile leadership than Steve Jobs?
 
 In #scrum, there is a great deal of emphasis on the importance of having a great #productowner. Someone who acts like the CEO of the product and sets a strong vision  for the product that inspires the #scrumteam to dig deep and create a product or features that truly delight customers.

@@ -9,6 +9,8 @@ duration: 234
 isShort: False
 ---
 
+{{< youtube CawY8x3kGVk >}}
+
 # Scrum is like communism. It doesn't work. Myth 3 - Micromanagement, Developer Autonomy, and More!
 
 Dive into the heart of Scrum myths and how organizations can truly harness its power. Debunking myths, one sprint at a time! 💡

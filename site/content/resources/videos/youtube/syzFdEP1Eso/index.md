@@ -9,6 +9,8 @@ duration: 352
 isShort: False
 ---
 
+{{< youtube syzFdEP1Eso >}}
+
 # How do you define a definition of done if you aren't 100% sure what the solution is?
 
 Defining 'Done' in Agile Projects: A Bakery Analogy 🍩🥖 | Agile Project Management Insights

@@ -9,6 +9,8 @@ duration: 59
 isShort: True
 ---
 
+{{< youtube qRHzl4PieKA >}}
+
 # 6 things you didn't know about Agile Product Management but really should Part 4
 
 Visit https://www.nkdagility.com Is your development team truly empowered? Do they have the autonomy to adapt and improve based on user feedback? 💪

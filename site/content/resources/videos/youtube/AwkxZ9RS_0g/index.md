@@ -9,6 +9,8 @@ duration: 264
 isShort: False
 ---
 
+{{< youtube AwkxZ9RS_0g >}}
+
 # How does your consulting experience manifest in the training environment?
 
 There's an old saying, 'those who can't, teach!' and it gained popularity because the majority of teachers had little to no experience in doing the work. They simply read the theory, and learned how to teach that theory to others.

@@ -9,6 +9,8 @@ duration: 363
 isShort: False
 ---
 
+{{< youtube PIoyu9N2QaM >}}
+
 # What is the difference between a newbie scrum master and a seasoned, experienced scrum master?
 
 *Mastering Scrum: Insights from a Seasoned Agile Coach*

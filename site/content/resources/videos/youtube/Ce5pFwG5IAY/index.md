@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube Ce5pFwG5IAY >}}
+
 # 5 tools that Scrum Masters love. Part 1
 
 #shorts #shortsvideo #shortvideo 5 tools that a #scrummaster loves. Tool 1

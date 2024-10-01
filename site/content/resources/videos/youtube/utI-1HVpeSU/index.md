@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube utI-1HVpeSU >}}
+
 # Quotes Dictatorship vs Democracy
 
 #shorts #shortvideo #shortsvideo Are you better served by a dictator or a democracy when it comes to #productdevelopment? Martin Hinshelwood provides us with his thoughts

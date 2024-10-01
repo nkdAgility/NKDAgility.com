@@ -9,6 +9,8 @@ duration: 147
 isShort: False
 ---
 
+{{< youtube IXmOAB5e44w >}}
+
 # Referral program. 20% of the course fee credited to your account.
 
 We're blessed to have so many people coming through our NKD Agility doors because of a referral, and we deeply value and appreciate those referrals.

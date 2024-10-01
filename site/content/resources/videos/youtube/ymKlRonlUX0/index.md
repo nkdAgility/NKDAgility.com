@@ -9,6 +9,8 @@ duration: 419
 isShort: False
 ---
 
+{{< youtube ymKlRonlUX0 >}}
+
 # 5 ghosts of agile past. burndown charts
 
 *Debunking Agile Myths: The Burndown Chart Fallacy* - Discover why burndown charts may not be the Agile panacea they're often thought to be. Dive into Agile realities with Martin from NKDAgility.

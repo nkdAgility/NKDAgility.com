@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube _Eer3X3Z_LE >}}
+
 # What is a product backlog?
 
 #shorts #shortsvideo What is a product backlog? A #productbacklog is an ordered list of the most valuable items that need to be built for a #product to succeed. They are used by #agile #productdevelopment teams to prioritize what work needs to be done, why it matters, and enable them to decide how to tackle the work. Martin Hinshelwood explains.

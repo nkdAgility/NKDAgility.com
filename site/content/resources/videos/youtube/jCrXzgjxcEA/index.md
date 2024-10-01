@@ -9,6 +9,8 @@ duration: 1448
 isShort: False
 ---
 
+{{< youtube jCrXzgjxcEA >}}
+
 # Kanban with Azure DevOps
 
 *Unlocking Kanban's Full Potential with Azure DevOps: A Deep Dive* - Discover how Azure DevOps transforms Kanban for hybrid work environments, enhancing visualization, collaboration, and workflow efficiency.

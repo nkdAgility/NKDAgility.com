@@ -9,6 +9,8 @@ duration: 75
 isShort: False
 ---
 
+{{< youtube TYpgtgaOXv4 >}}
+
 # Why is product backlog management getting so much attention right now
 
 The #agilemanifesto was a strong signal from the #softwarengineer community that traditional #projectmanagement wasn't well suited to complex environments, and a new style of working and thinking was needed to thrive in these environments.

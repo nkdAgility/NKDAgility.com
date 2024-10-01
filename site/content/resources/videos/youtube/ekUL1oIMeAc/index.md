@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube ekUL1oIMeAc >}}
+
 # Worst contribution from a product owner that you know of?
 
 #shorts #shortsvideo #shortvideo Sometimes, we learn what good looks like by examining what poor performances look and feel like. In this short video, Martin Hinshelwood talks about the worst performance he's ever witnessed from a #productowner.

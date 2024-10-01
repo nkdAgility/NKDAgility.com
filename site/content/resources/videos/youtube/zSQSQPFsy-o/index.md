@@ -9,6 +9,8 @@ duration: 389
 isShort: False
 ---
 
+{{< youtube zSQSQPFsy-o >}}
+
 # Why is Scrum so easy to understand but incredibly hard to master?
 
 *Unraveling the Complexity of Mastering Scrum: Insights and Strategies* - Discover the nuances of mastering Scrum in our latest video, where we delve into why this framework is easy to understand yet challenging to master. Tune in for insightful strategies!

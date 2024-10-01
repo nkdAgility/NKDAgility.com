@@ -9,6 +9,8 @@ duration: 299
 isShort: False
 ---
 
+{{< youtube JzAbvkFxVzs >}}
+
 # 5 ghosts of agile past - dogma
 
 *Agility Unleashed: Embracing Pragmatism Over Dogmatism in Agile Teams* - Discover the crucial balance between pragmatism and pedantry in Agile practices. Dive into real-world insights and stories for effective team management.

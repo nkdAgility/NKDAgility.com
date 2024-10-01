@@ -135,6 +135,8 @@ duration: $durationInSeconds
 isShort: $isShort
 ---
 
+{{< youtube $videoId >}}
+
 # $title
 
 $fullDescription

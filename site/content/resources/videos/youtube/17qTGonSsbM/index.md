@@ -9,6 +9,8 @@ duration: 312
 isShort: False
 ---
 
+{{< youtube 17qTGonSsbM >}}
+
 # “If you do not change direction, you may end up where you are heading ” – Lao Tzu
 
 The Right Direction: Evaluating Your Path 🧭 - Are you heading in the right direction? 🔍 In this video, we discuss the importance of continuously evaluating the direction of your project, product, or organisation. 

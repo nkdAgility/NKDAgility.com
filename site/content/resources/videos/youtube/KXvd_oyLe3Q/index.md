@@ -9,6 +9,8 @@ duration: 832
 isShort: False
 ---
 
+{{< youtube KXvd_oyLe3Q >}}
+
 # What specific outcomes and improvements can clients expect when they engage with your DevOps service
 
 🎥 Video Summary: Tackling Technical Debt and Complex Product Architectures in DevOps Consulting

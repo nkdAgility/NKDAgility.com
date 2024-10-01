@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube Qko_93YAV70 >}}
+
 # Kanban Vs Scrum
 
 Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement

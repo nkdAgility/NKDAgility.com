@@ -9,6 +9,8 @@ duration: 45
 isShort: True
 ---
 
+{{< youtube qXsjLuss22Y >}}
+
 # What is a product goal?
 
 #shorts #shortsvideo #shortvideo A product goal is a medium-term goal that aligns the #sprintgoal with the #productvision. It's an incredibly important element of #productdevelopment  because it ensures that the team are focused on the most valuable work for the customer, and that the work aligns with a strategic objective.

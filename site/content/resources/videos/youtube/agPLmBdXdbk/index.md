@@ -9,6 +9,8 @@ duration: 39
 isShort: True
 ---
 
+{{< youtube agPLmBdXdbk >}}
+
 # Must have trait in an agile consultant
 
 #shorts #agileconsulting requires you to help clients solve complex problems in very rapid iterations. Ultimately, you're being brought in to an #agile or #scrum environment with the intention of helping the organization solve problems that they are battling to solve on their own.

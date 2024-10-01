@@ -9,6 +9,8 @@ duration: 395
 isShort: False
 ---
 
+{{< youtube 3CgKmunwiSQ >}}
+
 # Traditional Management vs Evidence Based Management
 
 ### 🎯 **Video Summary: Traditional Management vs. Evidence-Based Management (EBM)**

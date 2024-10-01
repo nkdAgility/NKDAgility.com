@@ -9,6 +9,8 @@ duration: 261
 isShort: False
 ---
 
+{{< youtube ZrzqNfV7P9o >}}
+
 # Why does Minecraft make the APS course so awesome?
 
 Traditional #projectmanagement operates by strict observance of rules, prescribed steps, and tools that track or manage output. #agile, by contrast, operates from the foundation of values and principles, and uses lightweight #agileframeworks to help teams inspect, adapt, and respond to what is most valuable to customers and the organization.

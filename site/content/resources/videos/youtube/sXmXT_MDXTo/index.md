@@ -9,6 +9,8 @@ duration: 584
 isShort: False
 ---
 
+{{< youtube sXmXT_MDXTo >}}
+
 # Can you provide an overview of your DevOps consulting services and explain who can benefit the most
 
 In this video, we delve into the complexities of implementing DevOps practices within organizations and how these practices can be tailored to meet the unique needs of different teams and companies. The speaker provides insights into how DevOps principles, while flexible, require careful consideration and adaptation to align with each organization's goals and challenges.

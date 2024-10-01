@@ -9,6 +9,8 @@ duration: 323
 isShort: False
 ---
 
+{{< youtube VkTnZmJGf98 >}}
+
 # Why Evidence-based Management? How has it improved Agile?
 
 🚀 Maximize Agility with Evidence-Based Management: Discover How in This Video! 🚀

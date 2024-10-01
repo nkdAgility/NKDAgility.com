@@ -9,6 +9,8 @@ duration: 1906
 isShort: False
 ---
 
+{{< youtube pP8AnHBZEXc >}}
+
 # 27th May 2020 - Office Hours \ Ask Me Anything
 
 Bring your questions on any topic from DevOps to Agility and Martin will do his best to answer them. Martin is a Professional Scrum Trainer with Scrum.org and a Microsoft MVP in Azure DevOps. Ask him anything!

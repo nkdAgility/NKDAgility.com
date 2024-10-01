@@ -9,6 +9,8 @@ duration: 59
 isShort: True
 ---
 
+{{< youtube 5bgfme-Pspw >}}
+
 # Momentum
 
 #shorts #shortsvideo Momentum is crucial in #productdevelopment environments. It's also crucial in helping to shift organizational culture. In this short video, Martin Hinshelwood talks about the value of momentum in building and sustaining high-performance #agile teams.

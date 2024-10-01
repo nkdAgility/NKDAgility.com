@@ -9,6 +9,8 @@ duration: 301
 isShort: False
 ---
 
+{{< youtube fayDa6ihe0g >}}
+
 # Live Virtual Professional Scrum Product Owner in 5 minutes!
 
 What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel.

@@ -9,6 +9,8 @@ duration: 59
 isShort: True
 ---
 
+{{< youtube b-2TDkEew2k >}}
+
 #  shorts 7 Virtues of agile. Temperance
 
 #shorts #shortvideo #shortsvideo 7 Virtues of #agile. Temperance. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productdevelopment #productmanager #projectmanager #agilecoach #scrummaster 

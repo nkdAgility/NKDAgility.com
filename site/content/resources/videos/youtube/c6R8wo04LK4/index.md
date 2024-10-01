@@ -9,6 +9,8 @@ duration: 36
 isShort: True
 ---
 
+{{< youtube c6R8wo04LK4 >}}
+
 # Hardest part of adopting Scrum
 
 #shorts #shortsvideo #shortvideo #scrum is relatively straightforward to grasp from the #scrumguide but incredibly difficult to adopt and implement. in this short video, Martin Hinshelwood explains what the hardest part of a #scrum adoption is.

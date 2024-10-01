@@ -9,6 +9,8 @@ duration: 29
 isShort: True
 ---
 
+{{< youtube LiKE3zHuOuY >}}
+
 # How much of an impact can scrum have in a DevOps environment
 
 #shorts #shortsvideo #shortviddeo #DevOps is critical to the smooth, seamless delivery of software to customers. In this short video, Martin Hinshelwood talks about the kind of impact #scrum can have in ensuring great service to clients and developers.

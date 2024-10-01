@@ -9,6 +9,8 @@ duration: 286
 isShort: False
 ---
 
+{{< youtube n6Suj-swl88 >}}
+
 # Who should lead the sprint review?
 
 *Maximizing Sprint Review Impact: A Guide for Scrum Teams* - Discover key insights into leading a Sprint Review for maximized productivity and stakeholder engagement. Dive deep into the role of a Product Owner and effective review strategies.

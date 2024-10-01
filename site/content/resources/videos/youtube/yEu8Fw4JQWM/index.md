@@ -9,6 +9,8 @@ duration: 263
 isShort: False
 ---
 
+{{< youtube yEu8Fw4JQWM >}}
+
 # In WIP, less is more, why?
 
 *Mastering Workflow: The Art of Doing More With Less in Agile & Scrum*

@@ -9,6 +9,8 @@ duration: 47
 isShort: True
 ---
 
+{{< youtube 5s9vi8PiFM4 >}}
+
 # 1 thing you wish you knew at the start of your scrum journey
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the one thing he wishes he knew at the start of his #agile and #scrum journey.

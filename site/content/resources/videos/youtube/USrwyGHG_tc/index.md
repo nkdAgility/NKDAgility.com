@@ -9,6 +9,8 @@ duration: 45
 isShort: True
 ---
 
+{{< youtube USrwyGHG_tc >}}
+
 # Is a scrum master an agile micro manager?
 
 #shorts #youtubeshorts features Martin Hinshelwood exploring whether a #scrummaster is an #agile micromanager inside of 60 seconds.

@@ -9,6 +9,8 @@ duration: 197
 isShort: False
 ---
 
+{{< youtube EoInrPvjBHo >}}
+
 # 5 kinds of Agile bandits. Product Owner Bandits
 
 *Unlocking Agile Success: Evading the Pitfalls of Rigid Product Ownership* - Discover how to steer clear of rigid product ownership and foster a truly Agile team. Dive into strategies for inspired leadership and team engagement.

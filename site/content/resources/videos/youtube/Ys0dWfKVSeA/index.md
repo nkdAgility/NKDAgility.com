@@ -9,6 +9,8 @@ duration: 584
 isShort: False
 ---
 
+{{< youtube Ys0dWfKVSeA >}}
+
 # Scrum - The Mirror to Organizational Challenges 🪞
 
 Scrum doesn't just solve problems, it reveals them! Dive into the value of Scrum as a mirror to organizational challenges. 🚀

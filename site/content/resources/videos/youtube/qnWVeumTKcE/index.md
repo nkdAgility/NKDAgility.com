@@ -9,6 +9,8 @@ duration: 622
 isShort: False
 ---
 
+{{< youtube qnWVeumTKcE >}}
+
 # A view into the PSM Training from Scrum.org
 
 

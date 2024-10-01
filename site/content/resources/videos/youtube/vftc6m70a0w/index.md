@@ -9,6 +9,8 @@ duration: 142
 isShort: False
 ---
 
+{{< youtube vftc6m70a0w >}}
+
 # 7 Virtues of agile. Chastity
 
 🚀 Unlock the Secrets of Agile Success with "The Seven Virtues of Agility: Embracing Chastity in Business"!

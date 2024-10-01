@@ -9,6 +9,8 @@ duration: 25
 isShort: True
 ---
 
+{{< youtube 2QojN_k3JZ4 >}}
+
 #  shorts 7 Virtues of agile. Diligence
 
 #shorts #shortvideo #shortsvideo 7 virtues of #agile. Diligence. #agile #scrum #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #projectmanager #agilecoach #scrummaster #productowner #agileleader #developer 

@@ -9,6 +9,8 @@ duration: 47
 isShort: True
 ---
 
+{{< youtube 2Cy9MxXiiOo >}}
+
 # What is a sprint goal?
 
 #shorts #shortsvideo #shortvideo A sprint goal is super important in a scrumt team because it's the one thing that the team commit to delivering every sprint. They may not be able to deliver on every item but they are committed to delivering the sprint goal.

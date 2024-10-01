@@ -9,6 +9,8 @@ duration: 288
 isShort: False
 ---
 
+{{< youtube 9PBpgfsojQI >}}
+
 # 2023 is predicted to be a very tough year. What do you think will be needed to win and improve?
 
 #agile has a great reputation and track record for helping #agileleaders respond quickly to change and adapt what they are doing to continuously create and deliver value to customers.

@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube r1wvCUxeWcE >}}
+
 # Kanban Boards
 
 Kanban Boards. Visit https://www.nkdagility.com #agile #kanban #agileprojectmanagement #agileproductdevelopment

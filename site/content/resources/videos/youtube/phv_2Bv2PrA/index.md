@@ -9,6 +9,8 @@ duration: 1755
 isShort: False
 ---
 
+{{< youtube phv_2Bv2PrA >}}
+
 # What is Agile?
 
 This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 

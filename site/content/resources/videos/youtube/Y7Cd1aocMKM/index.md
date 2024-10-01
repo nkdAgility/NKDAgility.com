@@ -9,6 +9,8 @@ duration: 384
 isShort: False
 ---
 
+{{< youtube Y7Cd1aocMKM >}}
+
 # How effective is scrum training via digital delivery?
 
 #scrum training is notoriously engaging, interactive, and fun. It is known for leveraging cool things, like #lego and #minecraft, to help embed the learning experience and allow people to practise #scrum in a meaningful way.

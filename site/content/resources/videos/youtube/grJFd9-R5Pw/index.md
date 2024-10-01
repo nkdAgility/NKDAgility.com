@@ -9,6 +9,8 @@ duration: 416
 isShort: False
 ---
 
+{{< youtube grJFd9-R5Pw >}}
+
 # How does the APS course help people apply scrum effectively?
 
 The Applying Professional Scrum (APS) course is one of NKD Agility's favourite #scrum courses to deliver because it makes the learning experience visceral. It isn't about the theory of #scrum, it's about living and breathing the experience of applying #scrum in a live environment.

@@ -9,6 +9,8 @@ duration: 186
 isShort: False
 ---
 
+{{< youtube XOaAKJpfHIo >}}
+
 # How important is DevOps in continuous delivery of value to customers?
 
 There is nothing that specifies that a #scrummaster or #agilecoach or #agileconsultant must be a #softwareengineer or #developer in order to do their job. They can be great teachers, coaches, and mentors without the deep technical knowledge that comes with #productdevelopment.

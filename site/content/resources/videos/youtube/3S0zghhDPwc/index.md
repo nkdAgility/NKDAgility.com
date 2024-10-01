@@ -9,6 +9,8 @@ duration: 119
 isShort: False
 ---
 
+{{< youtube 3S0zghhDPwc >}}
+
 # 7 Virtues of agile. Diligence
 
 🔍 Discover the Power of Attention to Detail in "Diligence: The Underrated Agile Virtue for Quality and Success"!

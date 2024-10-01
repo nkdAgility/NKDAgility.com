@@ -9,6 +9,8 @@ duration: 51
 isShort: True
 ---
 
+{{< youtube o-wVeh3CIVI >}}
+
 # What is scrum?
 
 #shorts #shortsvideo What is #scrum? #scrum is an #agileframework that helps #productdevelopment teams solve complex problems and develop complex solutions. It consists of events, artefacts, and accountabilities. Martin Hinshelwood explains. 

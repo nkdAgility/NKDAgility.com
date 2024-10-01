@@ -9,6 +9,8 @@ duration: 464
 isShort: False
 ---
 
+{{< youtube nMkit8zBxG0 >}}
+
 # What is sprint planning?
 
 A #sprint is a container within #scrum where all the work, events, and artefacts of the #scrumframework happens. Often, it's a predetermined length somewhere between one and four weeks, and the intention of the team is to produce a working product within that time box.

@@ -9,6 +9,8 @@ duration: 383
 isShort: False
 ---
 
+{{< youtube 4fHBoSvTrrM >}}
+
 # How will a PSM II course help a scrum master progress in their career?
 
 So, you are a #scrummaster with 6 months or more experience in the field.

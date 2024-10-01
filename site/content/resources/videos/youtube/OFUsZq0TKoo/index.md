@@ -9,6 +9,8 @@ duration: 269
 isShort: False
 ---
 
+{{< youtube OFUsZq0TKoo >}}
+
 # What you will be able to do after the PPDV course
 
 What you will be able to do after the PPDV course with Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productowner #productmanager #projectmanager #agileproductdevelopment

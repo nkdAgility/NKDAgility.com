@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube L6opxb0FYcU >}}
+
 # Worst agile advice heard?
 
 #shorts #agile values and principles set the scene for environments where we value and respect people a great deal, and where we seek to discover new and better ways of doing things over repeating the same things over and again in the hope that we achieve a positive outcome.

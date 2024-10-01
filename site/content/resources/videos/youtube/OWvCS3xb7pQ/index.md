@@ -9,6 +9,8 @@ duration: 181
 isShort: False
 ---
 
+{{< youtube OWvCS3xb7pQ >}}
+
 # What excites you most about the PAL e immersive learning journey for delegates?
 
 The Professional Agile Leadership - Essentials (PAL-E) course from Scrum.Org has just gone immersive! From the traditional 2-day workshop format, we've now got a 7-week journey that empowers you to learn, apply, adapt and evolve more effectively.

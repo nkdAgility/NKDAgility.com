@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube 2cSsuEzGkvU >}}
+
 #  shorts 7 Virtues of agile. Humility
 
 #shorts #shortsvideo #shortvideo 7 virtues of #agile. Humility. #agile #agileprojectmanagement #agileproductdevelopment #agileproductmanagement #projectmanagement #productmanagement #productdevelopment #projectmanager #productmanager #developer #scrummaster #productowner #agilecoach #agileleadership 

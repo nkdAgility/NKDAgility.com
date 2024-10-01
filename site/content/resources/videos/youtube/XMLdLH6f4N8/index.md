@@ -9,6 +9,8 @@ duration: 197
 isShort: False
 ---
 
+{{< youtube XMLdLH6f4N8 >}}
+
 # nkdAgility Healthgrades Interview Katherine Maddox
 
 When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 

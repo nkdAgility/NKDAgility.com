@@ -9,6 +9,8 @@ duration: 35
 isShort: True
 ---
 
+{{< youtube 2AJ2JHdMRCc >}}
+
 # Why is DevOps such a critical element of software engineering
 
 #shorts #shortsvideo #shortvideo #DevOps is often a mystery to people that aren't deeply immersed in it, and yet you can't deliver a great solution to a client without DevOps teams contributions. In this short video, Martin Hinshelwood explains why DevOps is such a critical element of software engineering.

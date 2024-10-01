@@ -9,6 +9,8 @@ duration: 51
 isShort: True
 ---
 
+{{< youtube mqgffRQi6bY >}}
+
 # Why is lego a shit idea for a scrum trainer? Part 2
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Scrum.Org don't like #lego as part of #scrumtraining, and why he thinks using lego as a shit idea for a #professionascrumtrainer. Part 2

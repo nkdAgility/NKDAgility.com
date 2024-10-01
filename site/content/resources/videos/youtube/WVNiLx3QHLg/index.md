@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube WVNiLx3QHLg >}}
+
 # Why I love hierarchies of competence
 
 #shorts a hierarchy of control is what traditional management thrives on, a top down flow of power and command. A hierarchy of competence thrives when the people best equipped to solve the problem are the people who are actively working on the problem and making decisions about how best to move forward.

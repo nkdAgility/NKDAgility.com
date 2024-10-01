@@ -9,6 +9,8 @@ duration: 312
 isShort: False
 ---
 
+{{< youtube sPmUuSy7G3I >}}
+
 # How does a scrum team plan and prioritize work effectively?
 
 In a #projectmanagement environment, the people doing the work are often separated from the customers and project stakeholders they are doing the work for. The #projectmanager runs interference and acts as the bridge between what needs doing and what is being done.

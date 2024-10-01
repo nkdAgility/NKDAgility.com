@@ -9,6 +9,8 @@ duration: 313
 isShort: False
 ---
 
+{{< youtube B12n_52H48U >}}
+
 # Raise, Ante Up, or Fold - The Ultimate Decision in Business
 
 *Pivoting, Staying the Course, or Walking Away: A Guide for Product Owners* - In this insightful exploration, we delve into the crucial decisions every product owner faces: when to pivot, persevere, or let go. Discover the art of informed decision-making in product development. 

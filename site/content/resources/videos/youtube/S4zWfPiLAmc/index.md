@@ -9,6 +9,8 @@ duration: 226
 isShort: False
 ---
 
+{{< youtube S4zWfPiLAmc >}}
+
 # 3 best ways to wreck your Kanban adoption Using vanity metrics.
 
 Elevating Kanban Strategy: Beyond Vanity Metrics

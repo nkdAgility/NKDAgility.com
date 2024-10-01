@@ -9,6 +9,8 @@ duration: 376
 isShort: False
 ---
 
+{{< youtube 76mGfF0KoD0 >}}
+
 # Would you recommend a team APS workshop or an agile consultant?
 
 If a #scrummaster is battling to organize the team effectively and align them with customer and organizational objectives throughout the #productdevelopment process, what should you do?

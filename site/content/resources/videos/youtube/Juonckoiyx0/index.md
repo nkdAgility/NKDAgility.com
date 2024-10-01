@@ -9,6 +9,8 @@ duration: 155
 isShort: False
 ---
 
+{{< youtube Juonckoiyx0 >}}
+
 # What should be top of mind when a scrum team prepare for a sprint review
 
 *Maximizing Stakeholder Engagement in Scrum Sprint Reviews* - Discover the key to effective stakeholder engagement in Scrum Sprint reviews. Learn how to align your team's efforts with stakeholder interests for better outcomes.

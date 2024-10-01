@@ -9,6 +9,8 @@ duration: 367
 isShort: False
 ---
 
+{{< youtube wa4A_KQ-YGg >}}
+
 # What are immersive training Scrum courses?
 
 #scrum is a fairly tough transition to make if you come from a traditional #projectmanagement background. Adopting any #agileframework is hard, but #scrum is proven to be one of the best #productdevelopment frameworks available so it's worth getting it right.

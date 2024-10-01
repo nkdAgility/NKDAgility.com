@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube ItvOiaC32Hs >}}
+
 # 7 signs of the agile apocalypse. Chaos
 
 #shorts #shortsvideo #shortvideo #agile thrives on complexity and uncertainty. A place where you don't know the answer but you are taking a scientific, disciplined approach to discovering the right answer. Chaos, however, is a different kettle of fish and in this short video, Martin Hinshelwood explains why it isn't great for teams.

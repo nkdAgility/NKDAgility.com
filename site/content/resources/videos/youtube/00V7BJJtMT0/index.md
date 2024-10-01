@@ -9,6 +9,8 @@ duration: 181
 isShort: False
 ---
 
+{{< youtube 00V7BJJtMT0 >}}
+
 # What is DevOps and how is it different to Agile?
 
 One of the primary #agile values is to continuous deliver working, valuable software that delights customers.

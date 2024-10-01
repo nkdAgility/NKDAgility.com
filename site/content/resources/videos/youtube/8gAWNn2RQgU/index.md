@@ -9,6 +9,8 @@ duration: 45
 isShort: True
 ---
 
+{{< youtube 8gAWNn2RQgU >}}
+
 # Why do you trust Joanna to deliver Scrum courses for NKD Agility
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Joanna is a great choice as a #professionalscrumtrainer for NKD Agility

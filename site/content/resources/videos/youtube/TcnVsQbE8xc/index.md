@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube TcnVsQbE8xc >}}
+
 # Reasons to do a PSM II Course in 60 seconds
 
 #shorts #shortsvideo #shortvideo If you're thinking of escalating your scrum master skills to the PSM II (Advanced Professional Scrum Product Owner) level, Martin Hinshelwood walks you through some reasons why you should.

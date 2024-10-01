@@ -9,6 +9,8 @@ duration: 18
 isShort: True
 ---
 
+{{< youtube R8Ris5quXb8 >}}
+
 # Talk us through the new Product Backlog Management course from Scrum.org
 
 #shorts #shortvideo #shortsvideo If you're interested in the new Professional Scrum Product Backlog Management course from @ScrumOrg you'll find this excerpt from Martin Hinshelwood talking about the new course valuable. To watch the full video, visit https://youtu.be/UOzrABhafx0

@@ -9,6 +9,8 @@ duration: 448
 isShort: False
 ---
 
+{{< youtube W3H9z28g9R8 >}}
+
 # Famine! 7 Harbingers agile apocalypse
 
 *Addressing Organizational Famine: Insights from Ancient Wisdom* - Explore the parallels of "famine" in organisations to the Aztec's Fourth Sun, Nahui-Atl, highlighting the catastrophic effects of resource deprivation. Dive deep into the challenges organisations face and the cost of inaction.

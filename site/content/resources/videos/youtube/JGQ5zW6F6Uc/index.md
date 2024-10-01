@@ -9,6 +9,8 @@ duration: 407
 isShort: False
 ---
 
+{{< youtube JGQ5zW6F6Uc >}}
+
 # 3 steps developers must follow if the product owner is incompetent
 
 Facing challenges with an ineffective product owner? Learn how the Scrum Master and team can navigate this situation. Dive into the intricacies of organizational politics, communication, and role allocation. 🌟

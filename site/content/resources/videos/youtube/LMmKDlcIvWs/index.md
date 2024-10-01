@@ -9,6 +9,8 @@ duration: 553
 isShort: False
 ---
 
+{{< youtube LMmKDlcIvWs >}}
+
 # What is kanban?
 
 🚀 Master Kanban with This Essential YouTube Guide! 🚀

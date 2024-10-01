@@ -9,6 +9,8 @@ duration: 656
 isShort: False
 ---
 
+{{< youtube _FtFqnZHCjk >}}
+
 # Agile vs. Traditional Product Management - Unveiling the Key Differences
 
 Delve into the subtle yet critical differences between Agile and traditional product management. This insightful video explores how the core tools and techniques remain the same, but the approach and context shift significantly in the Agile world. Discover how faster release cycles, feedback loops, and a focus on continuous delivery impact the way product managers operate.

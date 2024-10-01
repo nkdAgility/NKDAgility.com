@@ -9,6 +9,8 @@ duration: 134
 isShort: False
 ---
 
+{{< youtube RLxGdd7nEZE >}}
+
 # What is the single most valuable outcome a consulting engagement can produce?
 
 #agileconsulting can be kind of nebulous, depending on who you work with, but it should be outcome oriented. It should be straightforward. It should have a strong focus.

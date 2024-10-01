@@ -9,6 +9,8 @@ duration: 231
 isShort: False
 ---
 
+{{< youtube 8nQ0VJ1CdqU >}}
+
 # Why did so many of the early agile transformations fail?
 
 In 2001, the #agilemanifesto became a beacon of light for software engineers who were frustrated with the traditional management and #projectmanagement frameworks of the day.

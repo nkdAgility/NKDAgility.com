@@ -9,6 +9,8 @@ duration: 45
 isShort: True
 ---
 
+{{< youtube gWTCvlUzSZo >}}
+
 # 5 tools that Scrum Masters love. Part 3
 
 Dive into the importance of good cameras for Scrum Masters! Enhance team engagement and read body language effectively. 🎥 #scrum #scrummaster #scrumorg

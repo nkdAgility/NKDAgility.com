@@ -9,6 +9,8 @@ duration: 257
 isShort: False
 ---
 
+{{< youtube UeGdC6GRyq4 >}}
+
 # Under employed? Pay 30% up front and the balance when you are employed.
 
 Sometimes, you are in that in between space. You just haven't managed to secure that dream job just yet and you're either looking something fierce, or waiting tables until the recruiters connect the dots and open a door for you.

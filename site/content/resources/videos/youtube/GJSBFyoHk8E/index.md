@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube GJSBFyoHk8E >}}
+
 # How does a scrum team create a sprint goal?
 
 #shorts #shortsvideo #shortvideo A sprint goal is incredibly important in #scrum. It aligns the team around the elements of work that truly matter and ensures that the most valuable elements are delivered every #sprint 

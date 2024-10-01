@@ -9,6 +9,8 @@ duration: 498
 isShort: False
 ---
 
+{{< youtube uCFIW_lEFuc >}}
+
 # Sloth! 7 deadly sins of Agile.
 
 *Navigating the Sin of Sloth in Agile*

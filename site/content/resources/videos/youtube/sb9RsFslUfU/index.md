@@ -9,6 +9,8 @@ duration: 186
 isShort: False
 ---
 
+{{< youtube sb9RsFslUfU >}}
+
 # How did you know you were ready to transition from DevOps practitioner to DevOps consultant?
 
 Over millennia, the path to mastery has always involved empowering others to achieve the same outcomes or results you have achieved, through the effective transfer of knowledge, skills, and capabilities.

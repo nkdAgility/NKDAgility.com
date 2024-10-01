@@ -9,6 +9,8 @@ duration: 55
 isShort: True
 ---
 
+{{< youtube BR9vIRsQfGI >}}
+
 #  shorts 5 things you would teach a productowner apprentice. Part 1
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the top 5 things he would teach an apprenticeship #productowner in the wild. For the full video, visit https://youtu.be/DBa5_WhA68M

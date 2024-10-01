@@ -9,6 +9,8 @@ duration: 141
 isShort: False
 ---
 
+{{< youtube Xs-gf093GbI >}}
+
 # What is a product vision and why does it matter?
 
 A strong #productvision is critical for success in a #productdevelopment environment such as #agile or #scrum. It provides inspiration, direction, and guidance on what customers would most value in the product.

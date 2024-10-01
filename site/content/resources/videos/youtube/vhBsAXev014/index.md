@@ -9,6 +9,8 @@ duration: 525
 isShort: False
 ---
 
+{{< youtube vhBsAXev014 >}}
+
 # Chaos! 7 Harbingers agile apocalypse
 
 Navigate the realm of agile transformation without falling into the pitfalls of chaos! Discover how communication, direction, and alignment play crucial roles. 🌟

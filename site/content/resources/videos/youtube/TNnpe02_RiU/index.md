@@ -9,6 +9,8 @@ duration: 31
 isShort: True
 ---
 
+{{< youtube TNnpe02_RiU >}}
+
 # Pet Peeve in DevOps
 
 #shorts As a #devops consultant and #agileconsultant, Martin Hinshelwood has worked with multiple clients, in multiple geographies, in multiple applications of #devops and #agile.

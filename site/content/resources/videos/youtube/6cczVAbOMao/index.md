@@ -9,6 +9,8 @@ duration: 192
 isShort: False
 ---
 
+{{< youtube 6cczVAbOMao >}}
+
 # How critical is a product owner in developing a great product backlog?
 
 *Mastering the Scrum: The Art of Crafting a Strategic Product Backlog*

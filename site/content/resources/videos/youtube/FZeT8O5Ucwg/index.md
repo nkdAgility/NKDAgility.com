@@ -9,6 +9,8 @@ duration: 2106
 isShort: False
 ---
 
+{{< youtube FZeT8O5Ucwg >}}
+
 # The Tyranny of Taylorism & how to detect Agile BS!
 
 Something very close to my heart is helping folks understand the origin of the practices that are commonly used in management today. I feel that only with an understanding of history can we figure out how to change the future. I often talk about this in my classes and help folks see why things are the way that they are in many organisations.

@@ -9,6 +9,8 @@ duration: 145
 isShort: False
 ---
 
+{{< youtube oHH_ES7fNWY >}}
+
 # Sending email from Office 365 for TFS 2013
 
 Have you ever tried to configure emails for an application to send through office 365?

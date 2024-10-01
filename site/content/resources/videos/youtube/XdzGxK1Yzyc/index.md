@@ -9,6 +9,8 @@ duration: 319
 isShort: False
 ---
 
+{{< youtube XdzGxK1Yzyc >}}
+
 # Why have a Product Owner?
 
 This is a video about the crucial role of a Product Owner within Agile and Scrum environments. The focus is on the comprehensive responsibilities that go beyond mere backlog management to include strategic leadership and deep market understanding.

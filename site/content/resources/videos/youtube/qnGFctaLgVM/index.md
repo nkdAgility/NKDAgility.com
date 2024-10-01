@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube qnGFctaLgVM >}}
+
 # Why do you trust Russell to deliver the PSPO course for NKD Agility
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Russell is a great #professionalscrumtrainer for the #professionalscrumproductowner course at NKD Agility

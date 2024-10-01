@@ -9,6 +9,8 @@ duration: 252
 isShort: False
 ---
 
+{{< youtube 4nhKXAgutZw >}}
+
 # 7 Virtues of agile. Kindness
 
 🌟 "Kindness: The Transformative Agile Virtue" – Discover How Compassion Drives Success!

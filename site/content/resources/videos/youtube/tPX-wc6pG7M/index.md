@@ -9,6 +9,8 @@ duration: 129
 isShort: False
 ---
 
+{{< youtube tPX-wc6pG7M >}}
+
 # 5 October 2023 Agile Leader Webinar
 
 🌟 Exclusive Webcast: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟 

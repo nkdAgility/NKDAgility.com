@@ -9,6 +9,8 @@ duration: 36
 isShort: True
 ---
 
+{{< youtube MO7O6kTmufc >}}
+
 # Introduction to Evidence-based Management Excerpt 2
 
 Introduction to Evidence-based Management Excerpt 2 #agile #evidencebasedleadership #evidencebasedmanagement #ebm #scrum #leadership #agileleadership

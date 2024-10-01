@@ -9,6 +9,8 @@ duration: 212
 isShort: False
 ---
 
+{{< youtube 4scE4acfewk >}}
+
 # 7 Virtues of agile. Humility
 
 🌟 "Humility in Agile: The Key to Genuine Value and Success" – Unveil the Impact of Humility in Agile Practices!

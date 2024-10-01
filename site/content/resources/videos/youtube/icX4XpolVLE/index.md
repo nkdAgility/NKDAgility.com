@@ -9,6 +9,8 @@ duration: 2018
 isShort: False
 ---
 
+{{< youtube icX4XpolVLE >}}
+
 # My Journey into DevOps! From Web Developer to Author, Speaker, & Thought Leader.
 
 🚀 Transform Your Workflow with DevOps: A Comprehensive Guide 🚀

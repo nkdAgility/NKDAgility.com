@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube BFDB04_JIhg >}}
+
 # Introduction to Kanban
 
 Are You Using Kanban to Its Full Potential?

@@ -9,6 +9,8 @@ duration: 32
 isShort: True
 ---
 
+{{< youtube MCdI76dGVMM >}}
+
 # Hardest part of becoming a professional scrummaster?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the hardest part of becoming a #professionalscrummaster 

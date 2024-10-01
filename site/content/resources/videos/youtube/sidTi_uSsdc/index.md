@@ -9,6 +9,8 @@ duration: 28
 isShort: True
 ---
 
+{{< youtube sidTi_uSsdc >}}
+
 # Discipline versus motivation
 
 #shorts #shortsvideo What is the difference between discipline and motivation? It's the difference between high-performance teams and high-octane teams. In this short video, Martin Hinshelwood walks us through the difference between these 2 key ingredients of #scrumteam performance.

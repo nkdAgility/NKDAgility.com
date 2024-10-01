@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube AJ8-c0l7oRQ >}}
+
 # Why is lego a shit idea for a scrum trainer. Part 3
 
 #shorts #shortvideo #shortsvideo There are some people who love the idea of #lego for #scrumtraining, whilst others who think that a group of high-powered executives would rather spend their time learning something valuable about #agile than putting pieces of lego together. In this short video, Martin Hinshelwood explains why he thinks lego in #scrumtraining is a shit idea

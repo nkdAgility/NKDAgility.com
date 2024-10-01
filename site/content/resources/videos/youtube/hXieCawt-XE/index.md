@@ -9,6 +9,8 @@ duration: 599
 isShort: False
 ---
 
+{{< youtube hXieCawt-XE >}}
+
 # Work Less, Do More with Pull in Kanban
 
 In this video, discover how Kanban's pull-based principles can transform your workflow efficiency. Learn the core practices that make Kanban a game changer in project management, from defining and visualizing workflows to actively managing and improving them. Perfect for teams looking to enhance productivity and reduce waste. Join us to unlock the full potential of Kanban in your workplace!

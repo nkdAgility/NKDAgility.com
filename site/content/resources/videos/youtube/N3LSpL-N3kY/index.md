@@ -9,6 +9,8 @@ duration: 52
 isShort: True
 ---
 
+{{< youtube N3LSpL-N3kY >}}
+
 # 2 day PSPO versus 8 week PSPO
 
 #shorts #shortsvideo #shortvideo The PSPO or Professional Scrum Product Owner course from Scrum.Org is the perfect way to acquire and validate the knowledge, skills, and capability to become a #productowner in a #scrumteam. 

@@ -9,6 +9,8 @@ duration: 46
 isShort: True
 ---
 
+{{< youtube zs0q_zz8-JY >}}
+
 # Biggest misconception about a scrum master
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explores one of the biggest misconceptions about a #scrummaster 

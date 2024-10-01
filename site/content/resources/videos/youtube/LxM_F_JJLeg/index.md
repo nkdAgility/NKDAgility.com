@@ -9,6 +9,8 @@ duration: 338
 isShort: False
 ---
 
+{{< youtube LxM_F_JJLeg >}}
+
 # Don’t put down to malevolence what can be explained by incompetence
 
 *Don't Let Incompetence Mask as Malevolence*

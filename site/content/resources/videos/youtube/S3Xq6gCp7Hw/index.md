@@ -9,6 +9,8 @@ duration: 353
 isShort: False
 ---
 
+{{< youtube S3Xq6gCp7Hw >}}
+
 # How much of an impact can a strong, skilled product owner have?
 
 We all know the legend of Steve Jobs. A phenomenal visionary that helped #apple create some of the most iconic devices, designs, and functionality that the world has ever seen.

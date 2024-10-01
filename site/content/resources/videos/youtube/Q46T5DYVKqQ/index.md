@@ -9,6 +9,8 @@ duration: 54
 isShort: True
 ---
 
+{{< youtube Q46T5DYVKqQ >}}
+
 # What is Empiricism
 
 #shorts #shortsvideo #shortvideo #scrum is built on the foundation of #empiricism to help a #scrumteam learn and respond as they navigate complexity. In this short video, Martin Hinshelwood explains what #empircism is

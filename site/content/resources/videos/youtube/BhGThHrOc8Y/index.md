@@ -9,6 +9,8 @@ duration: 243
 isShort: False
 ---
 
+{{< youtube BhGThHrOc8Y >}}
+
 # People Drive Solutions, Tools Just Pave the Way! Agile and DevOps are about people, not tools.
 
 Unravel the true essence of DevOps beyond just tools! Dive deep into the philosophy, practices, and ideas that drive successful DevOps implementations. 🛠️🔄💡

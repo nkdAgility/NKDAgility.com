@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube V88FjP9f7_0 >}}
+
 # Quotes - Less is More . True or False?
 
 #shorts #shortvideo #shortsvideo There's a popular quote that states Less is More. Is that true? Martin Hinshelwood gives us his perspective on #agile 

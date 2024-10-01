@@ -9,6 +9,8 @@ duration: 29
 isShort: True
 ---
 
+{{< youtube 9kZicmokyZ4 >}}
+
 #  shorts 5 reasons why you need EBM in your environment Part 1
 
 #shorts #shortsvideo #shortvideo 5 reasons why you #ebm in your #agile environment. Part 1.

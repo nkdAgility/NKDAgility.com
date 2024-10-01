@@ -9,6 +9,8 @@ duration: 156
 isShort: False
 ---
 
+{{< youtube 9VHasQBlQc8 >}}
+
 # 7 Virtues of agile. Patience
 
 🌟 "Patience: The Foundation of Trust in Agile Organizations" – Unlock the Secret to Agile Success!

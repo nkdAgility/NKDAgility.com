@@ -9,6 +9,8 @@ duration: 304
 isShort: False
 ---
 
+{{< youtube rPxverzgPz0 >}}
+
 # Would you recommend the APS course to a newbie scrum team?
 
 You've decided to adopt #scrum and everyone on the #scrumteam is chomping at the bit to create heaps of value and delight customers something fierce.

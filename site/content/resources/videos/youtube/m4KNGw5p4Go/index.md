@@ -9,6 +9,8 @@ duration: 269
 isShort: False
 ---
 
+{{< youtube m4KNGw5p4Go >}}
+
 # What you will be able to do at the end of the PPDV course
 
 In this video, I’ll show you how our new course can transform your approach to product development by focusing on increasing user value and reducing waste. If you're involved in product development, this video will guide you through strategies to design experiments that deeply understand user needs, ultimately leading to better products and improved return on investment. 

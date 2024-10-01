@@ -9,6 +9,8 @@ duration: 356
 isShort: False
 ---
 
+{{< youtube QQA9coiM4fk >}}
+
 # DevOps Consulting overview.
 
 #DevOps is something that very few #agile practitioners seem to understand well, despite it being a critical part of software development and delivery. 

@@ -9,6 +9,8 @@ duration: 349
 isShort: False
 ---
 
+{{< youtube QBX7dnUBzo8 >}}
+
 # Agile Techniques That Boost Startups!
 
 In this video, discover why 70% of startups fail and how adopting agile methodologies can dramatically improve your chances of success. Learn the critical agile principles that most startups overlook and gain insights into implementing effective agile practices to enhance team performance, increase ROI, and drive sustainable growth in competitive markets. Whether you're a new entrepreneur or looking to pivot your business strategy, this video is a must-watch for anyone serious about leveraging agile to its full potential.

@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube cv5IIVUgack >}}
+
 # How hard is it to transition from being a developer to a scrum developer?
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explores how difficult it is to transition from a traditional developer to a #scrum developer

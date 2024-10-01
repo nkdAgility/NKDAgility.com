@@ -9,6 +9,8 @@ duration: 371
 isShort: False
 ---
 
+{{< youtube eLkJ_YEhMB0 >}}
+
 # 5 ghosts of agile past. 3 questions
 
 *Revamping Agile: Beyond Routine Scrums and Retrospectives* - Discover how to transform your Agile Scrum meetings from routine check-ins to value-driven sessions. Martin delves into effective strategies for maximizing team productivity and outcome focus.

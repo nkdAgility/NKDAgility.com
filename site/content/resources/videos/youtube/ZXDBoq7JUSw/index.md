@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube ZXDBoq7JUSw >}}
+
 # 3 reasons why you should level up your knowledge and skills
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood, a #professionalscrumtrainer and #agileconsultant explains why you should focus on growing you #agile skills and capabilities

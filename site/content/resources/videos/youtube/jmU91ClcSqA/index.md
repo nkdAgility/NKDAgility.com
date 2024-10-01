@@ -9,6 +9,8 @@ duration: 52
 isShort: True
 ---
 
+{{< youtube jmU91ClcSqA >}}
+
 # What is project management?
 
 #shorts #shortsvideo What is project management? It is a set of systems, processes, and rules developed in the industrial era to manage simple and complicated work. It started in manufacturing but branched out into other areas like civil engineering projects. Martin Hinshelwood explains.

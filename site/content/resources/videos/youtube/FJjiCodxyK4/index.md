@@ -9,6 +9,8 @@ duration: 213
 isShort: False
 ---
 
+{{< youtube FJjiCodxyK4 >}}
+
 # Why do you prefer agile consulting over agile coaching?
 
 When companies make the transition from traditional #projectmanagement to #agile #productdevelopment, it often requires a lot of support in the form of an #agilecoach or #agileconsultant.

@@ -9,6 +9,8 @@ duration: 301
 isShort: False
 ---
 
+{{< youtube klBiNFvxuy0 >}}
+
 # What is the most common Aha moment people have in a scrum course?
 
 #agile is a radical departure from traditional #projectmanagement because you are no longer following a plan by rote, simply doing as you are told. You need to be engaged, you need to effectively contribute, and you need to collaborate with others to solve complex problems and build complex solutions.

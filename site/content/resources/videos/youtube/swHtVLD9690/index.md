@@ -9,6 +9,8 @@ duration: 438
 isShort: False
 ---
 
+{{< youtube swHtVLD9690 >}}
+
 # What common challenges do organizations face when adopting DevOps practices?
 
 🎥 Video Summary: The Reality of User Experience and the Importance of Production

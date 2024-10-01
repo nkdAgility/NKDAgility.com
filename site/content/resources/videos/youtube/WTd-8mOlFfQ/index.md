@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube WTd-8mOlFfQ >}}
+
 # Common mistakes that scrum masters make. Part 2.
 
 #shorts #shortsvideo #shortvideo Welcome to part 2 of Martin Hinshelwood's 60 second focus on common mistakes that newbie #scrummasters make.

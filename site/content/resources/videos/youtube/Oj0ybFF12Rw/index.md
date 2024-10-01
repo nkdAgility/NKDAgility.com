@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube Oj0ybFF12Rw >}}
+
 # Quotes - Don't scale scrum! Pragmatic or defeatist?
 
 #shorts #shortvideo #shortsvideo In the #agile industry, #agilecoaches love telling clients not to scale. The idea that #scaling agile is impossible and shouldn't be attempted. Is that a cop out? Is that wisdom or has that coach simply not figured out how to do it.

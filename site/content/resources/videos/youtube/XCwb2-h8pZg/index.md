@@ -9,6 +9,8 @@ duration: 254
 isShort: False
 ---
 
+{{< youtube XCwb2-h8pZg >}}
+
 # Kanban with Team Foundation Service
 
 

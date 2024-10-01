@@ -9,6 +9,8 @@ duration: 42
 isShort: True
 ---
 
+{{< youtube GGtb7Yg8gHY >}}
+
 # 7 signs of the agile apocalypse. War
 
 #shorts #shortsvideo #shortvideo War is a terrible sign that your #agiletransformation is headed for disaster. #agile thrives on collaboration, a shared sense of purpose, and teamwork. In this short video, Martin Hinshelwood describes what war looks like,  in the context of #agile, and why it's a sign of impending disaster

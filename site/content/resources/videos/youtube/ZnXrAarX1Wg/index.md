@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube ZnXrAarX1Wg >}}
+
 # No go zone for agile consultants.
 
 #shorts The transition from #agilepractitioner to #agileconsultant is often based on someone mastering the practitioner work, and being invited to teach and mentor others how to do the same, but it seldom involves coaching and mentoring on how to be a great #agileconsultant.

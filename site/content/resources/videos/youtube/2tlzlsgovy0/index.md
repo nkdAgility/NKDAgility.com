@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube 2tlzlsgovy0 >}}
+
 # 6 things you didn't know about Agile Product Management but really should Part 2
 
 Visit https://www.nkdagility.com Is your team truly Agile? Do your team members clearly understand the product vision and how their daily work contributes to your strategic goals? 🎯

@@ -9,6 +9,8 @@ duration: 422
 isShort: False
 ---
 
+{{< youtube UeisJt8U2_0 >}}
+
 # Plague! 7 Harbingers agile apocalypse
 
 *Unraveling the Plague of Incompetent Coaches & Nahui-Ehecatl!* Dive into the parallels between ancient narratives and modern agile challenges. 🌬️🐒

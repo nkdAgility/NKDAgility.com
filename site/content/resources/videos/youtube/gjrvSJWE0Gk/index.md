@@ -9,6 +9,8 @@ duration: 124
 isShort: False
 ---
 
+{{< youtube gjrvSJWE0Gk >}}
+
 # Overview of applying metrics for predictability Kanban course
 
 🚀 Enhance Team Predictability with Kanban: Unveil the "Applying Metrics for Predictability" Course 🚀

@@ -9,6 +9,8 @@ duration: 385
 isShort: False
 ---
 
+{{< youtube BE6E5tV8130 >}}
+
 # How is agile product development different to waterfall project management?
 
 In simple or complicated environments, such as civil engineering and building bridges, traditional #projectmanagement has done a great job because we know how to build bridges, we know how much they cost, we know all the variables involved, and we know who is best positioned to build the bridge based on past performance.

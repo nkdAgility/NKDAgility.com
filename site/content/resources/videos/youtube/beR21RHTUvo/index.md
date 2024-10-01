@@ -9,6 +9,8 @@ duration: 433
 isShort: False
 ---
 
+{{< youtube beR21RHTUvo >}}
+
 # 5 ghosts of agile past. story points
 
 Unraveling the Ghosts of Agile: The Story Point Dilemma - Discover the hidden challenges of story points in Agile. Join Martin in demystifying this widespread issue and explore better alternatives for project success. 

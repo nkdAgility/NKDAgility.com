@@ -9,6 +9,8 @@ duration: 198
 isShort: False
 ---
 
+{{< youtube L2u9Qojrvb8 >}}
+
 # How do you tailor your DevOps consulting services to meet the unique needs of different organization
 
 🚀 Building a Philosophy of Continuous Improvement

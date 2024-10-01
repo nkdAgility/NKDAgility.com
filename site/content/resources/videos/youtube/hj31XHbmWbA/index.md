@@ -9,6 +9,8 @@ duration: 46
 isShort: True
 ---
 
+{{< youtube hj31XHbmWbA >}}
+
 # Quotes You can't connect the dots looking forward; you can only connect them looking backwards
 
 #shorts #shortsvideo #shortvideo Steve Jobs said that we can't connect the dots looking forward, we can only do so looking backward. Is that true of #productdevelopment too? Martin Hinshelwood weighs in.

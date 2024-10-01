@@ -9,6 +9,8 @@ duration: 1977
 isShort: False
 ---
 
+{{< youtube ZxDktQae10M >}}
+
 # 2018 VSTS Sync Migration Tools Overview
 
 Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

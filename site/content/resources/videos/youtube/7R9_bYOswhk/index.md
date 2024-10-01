@@ -9,6 +9,8 @@ duration: 143
 isShort: False
 ---
 
+{{< youtube 7R9_bYOswhk >}}
+
 # Why is the Professional Agile Leadership Essentials course a natural evolution for an experienced
 
 The #scrummaster accountability is often the first step into the #agileleadership journey for many #agile practitioners. Yes, it forms the foundation of servant leadership, but the complexity of the role and the requirements for cross-functional department communications means that the #scrummaster needs to develop and nurture #leadership capabilities.

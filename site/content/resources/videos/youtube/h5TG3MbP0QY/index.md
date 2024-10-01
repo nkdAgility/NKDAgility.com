@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube h5TG3MbP0QY >}}
+
 # Most common thing you hear in a PSM 1 course?
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood highlights the most common thing he hears on a professional scrum master course from delegates.

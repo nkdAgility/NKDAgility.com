@@ -9,6 +9,8 @@ duration: 349
 isShort: False
 ---
 
+{{< youtube 96iDY11yOjc >}}
+
 # What makes the top 10% of developers? Good agile developer to great agile developer
 
 Discover the gap between an average developer and a great agile developer! Learn the importance of self-investment, practice, and continuous learning. 📚💡

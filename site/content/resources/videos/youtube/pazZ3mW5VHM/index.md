@@ -9,6 +9,8 @@ duration: 47
 isShort: True
 ---
 
+{{< youtube pazZ3mW5VHM >}}
+
 # Most influential people in Agile - Simon Reindl
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood continues the series of exploring some of the most influential people in #scrum and #agile. This week features Simon Reindl from Advanced Product Delivery

@@ -9,6 +9,8 @@ duration: 293
 isShort: False
 ---
 
+{{< youtube _rJoehoYIVA >}}
+
 # What are some of the most common reasons why companies ask you to do a migration via Azure DevOps
 
 ### Video Summary: Expert Insights on Azure DevOps Migration

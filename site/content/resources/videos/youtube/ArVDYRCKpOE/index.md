@@ -9,6 +9,8 @@ duration: 64
 isShort: False
 ---
 
+{{< youtube ArVDYRCKpOE >}}
+
 # Quotes, Fake it until you make it
 
 #shorts #shortsvideo #shortvideo Is it really a great idea to fake it until you make it in #agile? Martin Hinshelwood gives us his thoughts

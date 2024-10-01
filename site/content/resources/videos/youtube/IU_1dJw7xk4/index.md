@@ -9,6 +9,8 @@ duration: 438
 isShort: False
 ---
 
+{{< youtube IU_1dJw7xk4 >}}
+
 # How long would it take to transition from traditional projectmanagement to kanban?
 
 🚀 Seamlessly Transition to Kanban from Traditional Project Management 🚀

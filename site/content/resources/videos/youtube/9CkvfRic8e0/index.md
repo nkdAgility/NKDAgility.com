@@ -9,6 +9,8 @@ duration: 141
 isShort: False
 ---
 
+{{< youtube 9CkvfRic8e0 >}}
+
 # Connecting Release Manageer to TFS 2013
 
 See how to connect to your Team Foundation Collection with Release Management Client for Visual Studio 2013

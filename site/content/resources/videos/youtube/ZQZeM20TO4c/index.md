@@ -9,6 +9,8 @@ duration: 69
 isShort: False
 ---
 
+{{< youtube ZQZeM20TO4c >}}
+
 # Agile leader vs traditional manager
 
 #shorts An #agileleader has a great deal of responsibility to open the environment to change, facilitate rapid innovation cycles, and create environments where #agile teams can thrive.

@@ -9,6 +9,8 @@ duration: 464
 isShort: False
 ---
 
+{{< youtube Ir8QiX7eAHU >}}
+
 # WIP Limits! What critical factors affect them?
 
 Curious about work in progress limits and how to establish them? Watch this video and discover how you, as the Kanban strategist, can effectively optimize the flow of work.

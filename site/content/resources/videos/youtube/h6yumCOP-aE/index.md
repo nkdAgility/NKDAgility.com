@@ -9,6 +9,8 @@ duration: 302
 isShort: False
 ---
 
+{{< youtube h6yumCOP-aE >}}
+
 # 3 best ways to wreck your Kanban adoption. Not having a working agreement.
 
 Crafting Success: The Power of Team Agreements in Kanban

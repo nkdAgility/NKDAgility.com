@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube 1cZABFi7gdc >}}
+
 # 5 things to consider before hiring an agilecoach. Part 4
 
 Martin Hinshelwood walks us through the 5 things you need to consider before hiring an #agilecoach. This is part 4. #scrum #agile #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #nkdagility #martinhinshelwood

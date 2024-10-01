@@ -9,6 +9,8 @@ duration: 59
 isShort: True
 ---
 
+{{< youtube 2Sal3OneFfo >}}
+
 # Azure DevOps Migration services. Part 1
 
 DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology

@@ -9,6 +9,8 @@ duration: 280
 isShort: False
 ---
 
+{{< youtube sKYVNHcf1jg >}}
+
 # What was your worst day as an agile consultant?
 
 #agileconsulting can be incredibly rewarding and fulfilling.

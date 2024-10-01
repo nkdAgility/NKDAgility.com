@@ -9,6 +9,8 @@ duration: 378
 isShort: False
 ---
 
+{{< youtube nTxn_izPBFQ >}}
+
 # How good is the PSPO-A course in helping determine product direction?
 
 As a manager who gets promoted up the ranks, your trajectory has been determined by demonstrating competence with the systems of the organization and in your ability to perform your role.

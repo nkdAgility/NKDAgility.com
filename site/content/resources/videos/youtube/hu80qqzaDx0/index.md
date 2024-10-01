@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube hu80qqzaDx0 >}}
+
 # Introduction to Evidence Based Management Excerpt 1
 
 Introduction to Evidence-based Management. Excerpt 1 #evidencebasedleadership #evidencebasedmanagement #ebm #agile #agileproductdevelopment #agileprojectmanagement #agileproductdevelopment #projectmanagement #projectmanager #productmanagement #productmanager #productowner

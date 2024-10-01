@@ -9,6 +9,8 @@ duration: 370
 isShort: False
 ---
 
+{{< youtube 82_yTGt9pLM >}}
+
 # Agile Consulting Services overview
 
 #agileconsulting can appear somewhat nebulous because of the adaptive and responsive nature of consulting engagements. That said, we all like to know what we are buying before making an investment in a service, so in this short video Martin Hinshelwood explains what NKD Agility Agile Consulting services look, sound, and feel like.

@@ -9,6 +9,8 @@ duration: 46
 isShort: True
 ---
 
+{{< youtube faoWuCkKC0U >}}
+
 # Reasons to do a PSPO A Course in 60 seconds
 
 #shorts #shortsvideo #shortvideo If you are thinking of doing the Advanced Professional Scrum Product Owner (PSPO-A) course, Martin Hinshelwood walks you through a great reason why you should.

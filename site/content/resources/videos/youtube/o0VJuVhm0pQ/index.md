@@ -9,6 +9,8 @@ duration: 407
 isShort: False
 ---
 
+{{< youtube o0VJuVhm0pQ >}}
+
 # In high competition markets, how does scrum product development help acquire and retain customers?
 
 *Maximizing Scrum's Impact in Competitive Markets: Insights for Agile Teams* - Discover how Scrum can transform your product development in competitive markets. Dive into the nuances of market value, organisational capability, and Scrum's transparent role. Don't miss these essential insights for Agile teams!

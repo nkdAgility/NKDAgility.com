@@ -9,6 +9,8 @@ duration: 2399
 isShort: False
 ---
 
+{{< youtube RCJsST0xBCE >}}
+
 # Mastering Azure DevOps Migration - A Comprehensive Guide by NKDAgility
 
 Check out the latest version: https://youtu.be/Qt1Ywu_KLrc

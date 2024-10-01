@@ -9,6 +9,8 @@ duration: 372
 isShort: False
 ---
 
+{{< youtube _5daB0lJpdc >}}
+
 # 5 ghosts of agile past. certification
 
 *_Debunking Agile Certifications: A Realistic Look at Their Impact_* - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world. 

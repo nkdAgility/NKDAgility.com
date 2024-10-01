@@ -9,6 +9,8 @@ duration: 204
 isShort: False
 ---
 
+{{< youtube 5EryGepZu8o >}}
+
 # If you could teach just one thing about Scrum, what would it be?
 
 *Empiricism & Complexity: Unlocking True Scrum Potential* - Explore the core of Scrum beyond mechanics: Empiricism and Complexity. Understand how these principles drive successful outcomes and empower teams. #Scrum #Empiricism

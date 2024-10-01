@@ -9,6 +9,8 @@ duration: 35
 isShort: True
 ---
 
+{{< youtube cR4D4qQe9ps >}}
+
 #  1 tip for a scrum master
 
 #shorts #shortsvideo Congratulations, you nailed the job, you got the transfer to a new #scrumteam, or you've been given your very own #agile team to work with for the first time.

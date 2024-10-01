@@ -9,6 +9,8 @@ duration: 174
 isShort: False
 ---
 
+{{< youtube iT7ZtgNJbT0 >}}
+
 # What was your best day as an agile consultant?
 
 In this short video, Martin Hinshelwood talks about one of the more interesting and compelling experiences he has had as an #agileconsultant and why it had such an impact on him.

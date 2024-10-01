@@ -9,6 +9,8 @@ duration: 219
 isShort: False
 ---
 
+{{< youtube 3NtGxZfuBnU >}}
+
 # Do you think we are on the slope of enlightenment in Gartner's Hype Cycle
 
 *Unveiling the True Path to Agile Enlightenment: Overcoming Disillusionment*

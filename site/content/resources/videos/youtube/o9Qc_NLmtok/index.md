@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube o9Qc_NLmtok >}}
+
 # 8 week immersive learning course in 60 seconds
 
 #shorts #shortsvideo #shortvideo Scrum.Org have launched a new format for professional scrum training called the immersive learning experience. In this short video, Martin Hinshelwood explains what the immersive learning experience is and why it offers a competitive advantage for you.

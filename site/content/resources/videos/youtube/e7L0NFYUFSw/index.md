@@ -9,6 +9,8 @@ duration: 205
 isShort: False
 ---
 
+{{< youtube e7L0NFYUFSw >}}
+
 # Does scrum really allow you to do twice the work in half the time?
 
 Jeff Sutherland, the co-creator of #scrum, titled his book 'How to do twice the work in half the time' and it's been a value proposition for the #scrumframework ever since.

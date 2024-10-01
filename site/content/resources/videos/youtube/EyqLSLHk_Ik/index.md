@@ -9,6 +9,8 @@ duration: 423
 isShort: False
 ---
 
+{{< youtube EyqLSLHk_Ik >}}
+
 # Product Development Mentoring Program
 
 How do you create a great product if you don't know what you can't possibly know? How do you navigate uncertainty and complexity when there is so much at stake? How do you move confidently ahead when there is a great deal of volatility and ambiguity in the markets you serve?

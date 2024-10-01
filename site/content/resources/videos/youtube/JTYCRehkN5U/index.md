@@ -9,6 +9,8 @@ duration: 1219
 isShort: False
 ---
 
+{{< youtube JTYCRehkN5U >}}
+
 # The Critical Role of Technical Excellence in Agile Software Development
 
 Discover why prioritizing technical excellence is crucial for successful Agile software development. This video dives into the misconceptions surrounding quality versus speed and reveals how building a high-quality product is the key to mitigating risks, delivering value, and achieving long-term success.

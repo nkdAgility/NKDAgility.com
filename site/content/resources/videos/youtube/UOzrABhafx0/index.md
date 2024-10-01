@@ -9,6 +9,8 @@ duration: 114
 isShort: False
 ---
 
+{{< youtube UOzrABhafx0 >}}
+
 # Talk us through the new Product Backlog Management course from Scrum Org
 
 #productbacklog management and refinement is a tough skill to master and if you've never had any formal #scrumtraining or #agilecoaching to help you navigate these elements of the #scrumframework, you could spend years trying to get it right.

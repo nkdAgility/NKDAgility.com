@@ -9,6 +9,8 @@ duration: 289
 isShort: False
 ---
 
+{{< youtube _ghSntAkoKI >}}
+
 # Live Virtual Professional Agile Leadership in 5 minutes!
 
 What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel.

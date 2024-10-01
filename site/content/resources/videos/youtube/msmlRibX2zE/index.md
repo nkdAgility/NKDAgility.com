@@ -9,6 +9,8 @@ duration: 19
 isShort: True
 ---
 
+{{< youtube msmlRibX2zE >}}
+
 # Harris Beach SDS Ultrabook Unbox
 
 You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/

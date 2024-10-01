@@ -9,6 +9,8 @@ duration: 35
 isShort: True
 ---
 
+{{< youtube kOgKt8w_hWY >}}
+
 # Live Event - An Enterprise Evolution that Shows that You Can Too
 
 

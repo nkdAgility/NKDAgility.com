@@ -9,6 +9,8 @@ duration: 196
 isShort: False
 ---
 
+{{< youtube wawnGp8b2q8 >}}
+
 # If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
 
 The new #immersivelearning experience from Scrum.Org is perfectly suited to the Professional Agile Leadership Essentials course. It gives you heaps of time to digest the information, apply what you have learned, and take advantage of the blend of coaching and teaching that the course entails.

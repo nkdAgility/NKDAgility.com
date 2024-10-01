@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube V44iUwv0Jcg >}}
+
 # Continuous Improvement with Kanban
 
 Continuous Improvement with #kanban. Visit https://www.nkdagility.com #agile #scrum #kaizen #kanban #agileframework

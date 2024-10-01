@@ -9,6 +9,8 @@ duration: 174
 isShort: False
 ---
 
+{{< youtube yCyjGBNaRqI >}}
+
 # NKD Agility Mission and Purpose
 
 What makes us tick? Why do we exist?

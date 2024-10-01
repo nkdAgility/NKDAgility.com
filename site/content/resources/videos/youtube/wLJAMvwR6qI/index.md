@@ -9,6 +9,8 @@ duration: 302
 isShort: False
 ---
 
+{{< youtube wLJAMvwR6qI >}}
+
 # PPDV learning outcomes with Dr Joanna Plaskonka
 
 Professional Product Discovery and Validation course learning outcomes. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productdiscovery #productowner #projectmanager

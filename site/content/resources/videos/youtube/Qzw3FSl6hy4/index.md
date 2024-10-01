@@ -9,6 +9,8 @@ duration: 711
 isShort: False
 ---
 
+{{< youtube Qzw3FSl6hy4 >}}
+
 # What is product discovery and how does it differ from how we've always developed products?
 
 ### 🎯 **Video Summary: What is Product Discovery and Why It’s Crucial?**

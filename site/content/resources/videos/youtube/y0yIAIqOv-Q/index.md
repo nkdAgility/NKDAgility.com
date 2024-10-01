@@ -9,6 +9,8 @@ duration: 258
 isShort: False
 ---
 
+{{< youtube y0yIAIqOv-Q >}}
+
 # When should an organization consider a professional agile consultant?
 
 The shift from #projectmanagement to #productdevelopment can be dramatic and intimidating. There are values and principles rather than rules, and a lightweight #agileframework is providing you with guardrails rather than telling you exactly what to do and when to do it.

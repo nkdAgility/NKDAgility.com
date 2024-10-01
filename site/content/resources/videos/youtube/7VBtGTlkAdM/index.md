@@ -9,6 +9,8 @@ duration: 55
 isShort: True
 ---
 
+{{< youtube 7VBtGTlkAdM >}}
+
 # 1 thing that sinks a consulting engagement before it starts gaining traction
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood explains what can sink your #agilecoaching engagement before it even gets started.

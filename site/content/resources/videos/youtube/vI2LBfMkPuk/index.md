@@ -9,6 +9,8 @@ duration: 200
 isShort: False
 ---
 
+{{< youtube vI2LBfMkPuk >}}
+
 # What is your favourite agile course to deliver and why?
 
 Martin Hinshelwood has deep experience as a #softwareengineer, #agilecoach, #agileconsultant, and #professionalscrumtrainer.

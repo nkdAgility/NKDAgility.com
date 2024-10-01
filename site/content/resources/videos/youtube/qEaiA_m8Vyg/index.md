@@ -9,6 +9,8 @@ duration: 345
 isShort: False
 ---
 
+{{< youtube qEaiA_m8Vyg >}}
+
 # Why have you decided to go all in on immersive learning experiences
 
 *Unlocking the Power of Immersive Learning: A Deep Dive into Effective Training* - Dive into the transformative world of immersive learning with Martin! Discover how this approach revolutionizes training, fostering deeper understanding and continuous improvement. 🚀

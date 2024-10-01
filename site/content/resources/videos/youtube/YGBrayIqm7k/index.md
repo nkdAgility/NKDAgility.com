@@ -9,6 +9,8 @@ duration: 539
 isShort: False
 ---
 
+{{< youtube YGBrayIqm7k >}}
+
 # Agile Product Management vs. Product Development - Understanding the Crucial Partnership for Success
 
 Discover the intertwined relationship between Agile Product Management and Product Development. This video dives into the distinct roles each plays while emphasizing their collaborative nature in creating valuable, usable products. Learn how these two disciplines work together to achieve market success through strategic vision, data-driven decision-making, and high-quality product delivery.

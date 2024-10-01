@@ -9,6 +9,8 @@ duration: 558
 isShort: False
 ---
 
+{{< youtube zoAhqsEqShs >}}
+
 # What is the most interesting outcome you have achieved as an agile consultant?
 
 A lot of organizations have begun to explore the opportunity of #agile because of the increased uncertainty and complexity of #projectmanagement and #productdevelopment environments.

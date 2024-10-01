@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube yKSkRhv_2Bs >}}
+
 # Reasons to do an APS Course in 60 seconds
 
 #shorts #shortvideo #shortvideo If you're thinking of doing an APS (Applying Professional Scrum) course, here's a great reason to register from Martin Hinshelwood.

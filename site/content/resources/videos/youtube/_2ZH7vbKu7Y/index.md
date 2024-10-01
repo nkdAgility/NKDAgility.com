@@ -9,6 +9,8 @@ duration: 412
 isShort: False
 ---
 
+{{< youtube _2ZH7vbKu7Y >}}
+
 # 3 key elements for an agile leader to consider if the team are incompetent
 
 👥 *How can leaders uplift a team seen as deficient? Dive deep into effective strategies and real-world examples!* 🚀

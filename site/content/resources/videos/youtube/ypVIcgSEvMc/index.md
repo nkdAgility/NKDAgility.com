@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube ypVIcgSEvMc >}}
+
 # 30% discount for existing alumni overview
 
 #shorts #shortsvideo #shortvideo NKD Agility offer all alumni a 30% discount on their continued learning and certification journey. Something that not many people are aware of. In this short video, Martin Hinshelwood explains what the 30% discount is, how it works, and why NKD Agility offer this awesome discount to alumni

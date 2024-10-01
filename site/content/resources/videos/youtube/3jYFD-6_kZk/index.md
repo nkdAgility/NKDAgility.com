@@ -9,6 +9,8 @@ duration: 1055
 isShort: False
 ---
 
+{{< youtube 3jYFD-6_kZk >}}
+
 # What can go wrong and what can go right with a migration via Azure DevOps
 
 Navigating Azure DevOps Migration Challenges

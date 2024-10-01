@@ -9,6 +9,8 @@ duration: 38
 isShort: True
 ---
 
+{{< youtube dT1_zHfzto0 >}}
+
 # 75% of those organizations using Scrum will not succeed in getting the benefit - Ken Schwaber
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood examines the popular quote from #scrum co-founder, Ken Schwaber, that 75% of organizations who adopt scrum will not achieve the results they want

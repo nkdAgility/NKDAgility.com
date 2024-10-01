@@ -9,6 +9,8 @@ duration: 380
 isShort: False
 ---
 
+{{< youtube fZLGlqMdejA >}}
+
 # Greed! 7 Deadly Sins of Agile
 
 Greed in an agile environment can lead to numerous dysfunctions and challenges. 🚫📈 Discover the pitfalls of this overlooked agile sin and how it can derail teams and transformations.

@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube rN1s7_iuklo >}}
+
 # 6 things you didn't know about Agile Product Management but really should Part 5
 
 Is your team truly Agile? Do they have the power to adapt their processes and continuously improve?

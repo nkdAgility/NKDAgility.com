@@ -9,6 +9,8 @@ duration: 229
 isShort: False
 ---
 
+{{< youtube QgPlMxGNIzs >}}
+
 # How do you think Agile is evolving since its inception in 2001?
 
 *Agile Evolution & The Future of Organizational Dynamics* - Explore the journey of Agile from its origins to Agile 2.0 and beyond. Understand the challenges and future of decentralized, dynamic work environments.

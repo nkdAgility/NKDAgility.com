@@ -9,6 +9,8 @@ duration: 373
 isShort: False
 ---
 
+{{< youtube m2Z4UV4OQlI >}}
+
 # Why do you recommend the PAL EBM course?
 
 🌟 Transform Your Organization with the PAL EBM Class: Learn Why in This Video! 🌟

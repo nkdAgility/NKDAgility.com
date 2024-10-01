@@ -9,6 +9,8 @@ duration: 212
 isShort: False
 ---
 
+{{< youtube a2sXBMPHl2Y >}}
+
 # How can companies derive greater benefit from training by investing in a private training course?
 
 In #scrumtraining, there are people who pursue certifications to open doors in future, whilst others are in pursuit of knowledge and skills that will help them become more effective in their role.

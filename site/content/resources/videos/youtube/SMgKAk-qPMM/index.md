@@ -9,6 +9,8 @@ duration: 154
 isShort: False
 ---
 
+{{< youtube SMgKAk-qPMM >}}
+
 # 7 Virtues of agile. Temperance
 
 🔥 Master the Art of Balance with "Temperance: The Key Agile Virtue for Maximizing Efficiency"!

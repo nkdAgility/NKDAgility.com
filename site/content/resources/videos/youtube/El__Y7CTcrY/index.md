@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube El__Y7CTcrY >}}
+
 # 5 reasons why I love the immersive learning experience for students. Part 1
 
 Martin Hinshelwood walks us through the 5 reasons why he loves the #immersivelearning experience for #scrum. This is part 1.

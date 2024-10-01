@@ -9,6 +9,8 @@ duration: 197
 isShort: False
 ---
 
+{{< youtube jFU_4xtHzng >}}
+
 # Why do you think that 4 half days is a better format than 2 full days?
 
 There are significant differences between a #projectmanagement environment and an #agile, #scrum environment. There are also significant differences between a #projectmanager and a #scrummaster or #productowner, and so you need immersive, transformative training to help you make that leap.

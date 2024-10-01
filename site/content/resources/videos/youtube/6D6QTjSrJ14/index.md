@@ -9,6 +9,8 @@ duration: 222
 isShort: False
 ---
 
+{{< youtube 6D6QTjSrJ14 >}}
+
 # What has the initial response been to the immersive learning experiences?
 
 The #immersivelearning experiences for #scrumorg #scrumtraining is proving incredibly popular. The first batch of #immersivelearning courses are launching in September 2023 and we've seen great responses from people and organizations about the new format.

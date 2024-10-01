@@ -9,6 +9,8 @@ duration: 125
 isShort: False
 ---
 
+{{< youtube NeGch-lQkPA >}}
+
 # Overview of 'applying flow metrics for Scrum' kanban course.
 
 🚀 Maximize Scrum with Kanban: Discover the "Applying Flow Metrics for Scrum" Course 🚀

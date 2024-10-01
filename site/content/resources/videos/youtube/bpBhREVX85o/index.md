@@ -9,6 +9,8 @@ duration: 106
 isShort: False
 ---
 
+{{< youtube bpBhREVX85o >}}
+
 # How does scrum help leadership teams pick the most valuable work to focus on?
 
 In simple or complicated environments such as civil engineering, traditional #projectmanagement is a great answer. You know what needs to be done, you know who is best positioned to do the work, and you know how long that will take and how much it will cost to do.

@@ -9,6 +9,8 @@ duration: 339
 isShort: False
 ---
 
+{{< youtube DvW-xwxufa0 >}}
+
 # Can you walk us through your consulting process What methodologies and tools do you employ?
 
 Introduction: The Limits of Self-Taught Learning

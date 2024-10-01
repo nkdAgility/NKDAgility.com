@@ -9,6 +9,8 @@ duration: 51
 isShort: True
 ---
 
+{{< youtube Gtp9wjkPFPA >}}
+
 # How do DevOps and Agile integrate?
 
 #shorts #shortsvideo #shortvideo  #DevOps is a mystery to many people, and the interconnected nature of #agile software engineering and #devops eludes even more. In this short video, Martin Hinshelwood explains why they're two sides of the same coin.

@@ -9,6 +9,8 @@ duration: 183
 isShort: False
 ---
 
+{{< youtube spfK8bCulwU >}}
+
 # Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
 
 A great #productowner is a game-changer in the organization because they help shape and articulate the product vision, mission, and goals. People like Steve Jobs who create and sustain a standard of #productdevelopment that captures the imagination of an entire generation.

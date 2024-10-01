@@ -9,6 +9,8 @@ duration: 51
 isShort: True
 ---
 
+{{< youtube Ye016yOxvcs >}}
+
 # 5 critical skill to master as an agile consultant, Part 1
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the first of five things an #agileconsultant needs to master.

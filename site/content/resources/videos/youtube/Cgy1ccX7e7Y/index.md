@@ -9,6 +9,8 @@ duration: 389
 isShort: False
 ---
 
+{{< youtube Cgy1ccX7e7Y >}}
+
 # What would be an example of a great agile consulting outcome for a client?
 
 In simple or complicated environments, like civil engineering, #projectmanagement works a treat. We know how to build a road, we know who is best positioned to build the road, we know how long it takes to build the road, and we have a great idea of how much it costs to build that road.

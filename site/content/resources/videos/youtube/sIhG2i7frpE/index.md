@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube sIhG2i7frpE >}}
+
 # Improving workflow with Kanban
 
 Improving workflow with #kanban. Visit https://www.nkdagility.com #agile #agileframework #kanban

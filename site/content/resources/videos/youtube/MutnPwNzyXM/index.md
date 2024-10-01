@@ -9,6 +9,8 @@ duration: 263
 isShort: False
 ---
 
+{{< youtube MutnPwNzyXM >}}
+
 # Most valuable lesson you learned as an agile consultant
 
 Making the transition from #agilepractitioner to #agileconsultant can be tough, mainly because you are now working with teams of #agile teams rather than your own work, or team environment.

@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube pVPzgsemxEY >}}
+
 # Kaizen in Kanban - The Power of Continuous Improvement for Optimal Results
 
 Want to take your Kanban (and other) workflows to the next level? This video explores the core concept of Kaizen – the Japanese philosophy of continuous improvement – and how it fuels the heart of Kanban success.

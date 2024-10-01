@@ -9,6 +9,8 @@ duration: 360
 isShort: False
 ---
 
+{{< youtube APZNdMokZVo >}}
+
 # What is a definition of done? Why is it so important?
 
 *Unlocking the Power of Definition of Done in Scrum: A Deep Dive*

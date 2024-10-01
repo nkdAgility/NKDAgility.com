@@ -9,6 +9,8 @@ duration: 164
 isShort: False
 ---
 
+{{< youtube v1sMbKpQndU >}}
+
 # What are the top 2 things a scrum master needs to bear in mind when adopting the coaching stance?
 
 *The Essence of Coaching in Agile Teams*

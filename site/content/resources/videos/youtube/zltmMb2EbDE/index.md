@@ -9,6 +9,8 @@ duration: 343
 isShort: False
 ---
 
+{{< youtube zltmMb2EbDE >}}
+
 # Does Kanban integrate with a Scrum environment?
 
 🚀 Elevate Your Scrum with Kanban: Insights and Integration Strategies 🚀

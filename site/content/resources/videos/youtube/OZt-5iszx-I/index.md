@@ -9,6 +9,8 @@ duration: 56
 isShort: True
 ---
 
+{{< youtube OZt-5iszx-I >}}
+
 # 6 things you didn't know about Agile Product Management but really should Part 3
 
 Visit https://www.nkdagility.com In this video, we reveal the critical importance of short feedback loops in agile product development. Discover how to turn user insights into actionable work items in under a month, ensuring your product stays relevant and delivers maximum value.

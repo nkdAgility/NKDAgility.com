@@ -9,6 +9,8 @@ duration: 61
 isShort: False
 ---
 
+{{< youtube nhkUm6k4Q0A >}}
+
 # What 5 things must you achieve before you call yourself an agilecoach. Part 2
 
 Martin Hinshelwood walks us through the second thing you must achieve before you call yourself an #agilecoach.

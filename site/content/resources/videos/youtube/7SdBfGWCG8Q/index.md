@@ -9,6 +9,8 @@ duration: 38
 isShort: True
 ---
 
+{{< youtube 7SdBfGWCG8Q >}}
+
 # 5 ways an immersive learning experience will make you a better practitioner. Part 2
 
 5 ways an #immersivelearning experience will make you a better #scrum practitioner. Second way. Visit https://www.nkdagility.com #agile #scrumtraining #scrumcertification #professionalscrumtrainer #pst #immersiveexperience #scrumorg 

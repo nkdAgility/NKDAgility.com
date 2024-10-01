@@ -9,6 +9,8 @@ duration: 5631
 isShort: False
 ---
 
+{{< youtube i_DglXgaePM >}}
+
 # Slaying the dragons and how to successfully descale at scale with BCS & FoWS
 
 Many organisations don’t really want to change how they do business and believe that they can continue on how they always have while still getting better at delivering software. They are wrong!

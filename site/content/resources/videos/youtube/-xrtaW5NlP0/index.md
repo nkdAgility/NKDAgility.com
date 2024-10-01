@@ -9,6 +9,8 @@ duration: 245
 isShort: False
 ---
 
+{{< youtube -xrtaW5NlP0 >}}
+
 # Why is Kanban such a popular approach for people in creative industries
 
 The creative industries are almost the first to encounter deep complexity because they are often creating a product that has never been created before or attempting to solve a problem that has never been solved before.

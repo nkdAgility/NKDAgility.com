@@ -9,6 +9,8 @@ duration: 57
 isShort: True
 ---
 
+{{< youtube I5YoOAai-m4 >}}
+
 # Agile coach versus professional coach
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood talks about the difference between an #agilecoach and a #professionalcoaching 

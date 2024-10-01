@@ -9,6 +9,8 @@ duration: 354
 isShort: False
 ---
 
+{{< youtube qrEqX_5FWM8 >}}
+
 # Overview of the 8-week Immersive learning experience
 
 *Unlocking Real-World Value with Immersive Learning: A Scrum.org Insight* - Explore the transformative power of immersive learning in this insightful video. Discover how it connects theory to real-world scenarios, enhancing practical skills in project management and Scrum.

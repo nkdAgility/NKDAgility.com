@@ -9,6 +9,8 @@ duration: 291
 isShort: False
 ---
 
+{{< youtube rEqytRyOHGI >}}
+
 # 5 kinds of Agile bandits - Special Sprints
 
 *Unraveling the Myth of Special Sprints in Agile: Insights and Impact* - Discover the truth about special sprints in Agile and their impact on product delivery. An eye-opening exploration for Agile enthusiasts and professionals. 🔍💡

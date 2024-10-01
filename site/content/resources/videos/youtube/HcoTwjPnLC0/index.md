@@ -9,6 +9,8 @@ duration: 48
 isShort: True
 ---
 
+{{< youtube HcoTwjPnLC0 >}}
+
 # Is a product owner an agile project manager?
 
 #shorts #shortsvideo Is a #productowner an #agileprojectmanager? No, and some would argue that there is no such thing as an agile project manager because #agile is about #productdevelopment rather than #projectmanagement. Martin Hinshelwood explains.

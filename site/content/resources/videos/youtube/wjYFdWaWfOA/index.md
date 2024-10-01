@@ -9,6 +9,8 @@ duration: 299
 isShort: False
 ---
 
+{{< youtube wjYFdWaWfOA >}}
+
 # What is a scrum master? Why are they essential?
 
 *Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*

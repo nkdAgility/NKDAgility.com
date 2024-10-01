@@ -9,6 +9,8 @@ duration: 54
 isShort: True
 ---
 
+{{< youtube -pW6YDYEO20 >}}
+
 # worst trait in unskilled scrum masters?
 
 #youtubeshorts presents the single worst trait in an unskilled #scrummaster? Martin Hinshelwood explains why this is a no-go zone.

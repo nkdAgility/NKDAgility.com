@@ -9,6 +9,8 @@ duration: 130
 isShort: False
 ---
 
+{{< youtube DceVQ5JQaUw >}}
+
 # Most destructive thing a client can do to an agile consultant?
 
 When #agile meets traditional #management and #projectmanagement environments, there is often a clash of culture. In one environment, we are interrogating the data and practices to discover probem areas and actively designing ways to improve and evolve. In the other, we're hiding problems to avoid blame and shifting the focus from collaboration to control.

@@ -9,6 +9,8 @@ duration: 37
 isShort: True
 ---
 
+{{< youtube eK8YscAACnE >}}
+
 #  shorts 5 kinds of Agile bandits. 3rd kind
 
 #shorts #shortvideo #shortsvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #storypoints 

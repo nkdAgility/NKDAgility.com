@@ -9,6 +9,8 @@ duration: 326
 isShort: False
 ---
 
+{{< youtube zqwHUwnw0hg >}}
+
 # What will you learn on the professional scrum master course?
 
 In traditional #projectmanagement environments, the #projectmanager acts as an authority in the team environment and actively drives outcomes, supported by senior managers and leadership teams.

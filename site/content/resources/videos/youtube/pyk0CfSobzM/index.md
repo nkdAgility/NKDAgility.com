@@ -9,6 +9,8 @@ duration: 244
 isShort: False
 ---
 
+{{< youtube pyk0CfSobzM >}}
+
 # How does a scrum team estimate what can be delivered in a sprint?
 
 The Art of Sprint Estimation: Navigating Uncertainty in Scrum Teams

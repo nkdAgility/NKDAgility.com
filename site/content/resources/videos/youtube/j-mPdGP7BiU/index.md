@@ -9,6 +9,8 @@ duration: 302
 isShort: False
 ---
 
+{{< youtube j-mPdGP7BiU >}}
+
 # PPDV learning outcomes
 
 In this video, I explore how assumptions play a pivotal role in product development and how you can effectively work with them to create better products. 

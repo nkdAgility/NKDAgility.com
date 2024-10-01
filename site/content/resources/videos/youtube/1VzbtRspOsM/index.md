@@ -9,6 +9,8 @@ duration: 239
 isShort: False
 ---
 
+{{< youtube 1VzbtRspOsM >}}
+
 # Why is the PAL E immersivelearning experience such a great fit for aspiring agileleaders?
 
 If you're new to #agile or #scrum, the transition from traditional #manager to #agileleadership can be daunting. In some ways, it's counterintuitive to everything you have learned ascending the corporate ladder.

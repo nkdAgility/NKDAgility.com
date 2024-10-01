@@ -9,6 +9,8 @@ duration: 436
 isShort: False
 ---
 
+{{< youtube YuKD3WWFJNQ >}}
+
 # Silence! 7 Harbingers agile apocalypse.
 
 *Breaking the silence in agile teams!* Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews. 

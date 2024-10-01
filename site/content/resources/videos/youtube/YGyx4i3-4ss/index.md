@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube YGyx4i3-4ss >}}
+
 # PPDV Course Overview
 
 Visit https://www.nkdagility.com to find out more about the PPDV course from Scrum.org #agile #scrum #productowner #productmanager #projectmanager #productdevelopment #projectmanagement

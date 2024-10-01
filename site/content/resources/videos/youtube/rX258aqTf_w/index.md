@@ -9,6 +9,8 @@ duration: 318
 isShort: False
 ---
 
+{{< youtube rX258aqTf_w >}}
+
 # In what circumstances is agile consulting appropriate?
 
 The transition from traditional #projectmanagement to #agile #productdevelopment can be tough. The cocreators of #scrum have openly stated that it is easy to understand but incredibly difficult to master.

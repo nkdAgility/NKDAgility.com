@@ -9,6 +9,8 @@ duration: 275
 isShort: False
 ---
 
+{{< youtube GmLW6wNcI6k >}}
+
 # What does the assessment phase of a consulting enagement look and feel like?
 
 Some #agileconsulting specialists like to take a few months to ascertain what the environment looks like, how it all works, and what needs attention whilst others, such as NKD Agility, prefer to get to work as soon as possible and fix the most compelling problems first.

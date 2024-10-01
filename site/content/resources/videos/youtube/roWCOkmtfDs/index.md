@@ -9,6 +9,8 @@ duration: 843
 isShort: False
 ---
 
+{{< youtube roWCOkmtfDs >}}
+
 # What is product validation and why does it matter
 
 🎯 Video Summary: Validating Feature Value in Product Development

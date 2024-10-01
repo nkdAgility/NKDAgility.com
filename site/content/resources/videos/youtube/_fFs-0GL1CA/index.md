@@ -9,6 +9,8 @@ duration: 372
 isShort: False
 ---
 
+{{< youtube _fFs-0GL1CA >}}
+
 # Why do you encourage people to follow a certification path in their career journey?
 
 The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.

@@ -9,6 +9,8 @@ duration: 158
 isShort: False
 ---
 
+{{< youtube wHGw1vmudNA >}}
+
 # War! 7 Harbingers agile apocalypse
 
 *War as the Precursor to the End in Organizations * 🛡️⚔️ Discover how internal 'wars' within organizations mirror the cataclysmic events of Norse Ragnarök. Dive deep with Martin to understand how these conflicts can signal an organization's impending downfall and learn how to navigate these tumultuous waters

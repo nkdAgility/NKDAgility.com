@@ -9,6 +9,8 @@ duration: 134
 isShort: False
 ---
 
+{{< youtube Frqfd0EPj_4 >}}
+
 # Do you think immersivelearning is the future of Scrum training? If so, why?
 
 As more industries find themselves dealing with increased #complexity, #scrum becomes a great #agileframework to help them navigate uncertainty and move forward effectively despite #complexity.

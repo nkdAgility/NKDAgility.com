@@ -9,6 +9,8 @@ duration: 53
 isShort: True
 ---
 
+{{< youtube lvg9gSLntqY >}}
+
 # Why does project management not work in complex environments?
 
 #shorts #shortsvideo #projectmanagement was designed for simple or complicated environments, like moving bricks or building a bridge, but it doesn't work when you don't know the best practice or way forward. When you can't know the answer upfront and must invent the answer. Martin Hinshelwood explains.

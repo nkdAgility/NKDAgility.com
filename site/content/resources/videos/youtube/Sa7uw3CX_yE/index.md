@@ -9,6 +9,8 @@ duration: 4809
 isShort: False
 ---
 
+{{< youtube Sa7uw3CX_yE >}}
+
 # The Tyranny of Taylorism and how to spot agile lies for The Future of Work in Scotland
 
 

@@ -9,6 +9,8 @@ duration: 50
 isShort: True
 ---
 
+{{< youtube kEywzkMhWl0 >}}
+
 # 1 critical skill for a scrum master and why?
 
 #shorts #youtubeshorts presents Martin Hinshelwood raising 1 critical skill for a #scrummaster in under 60 seconds. What is the one thing a #scrummaster should master to be successful in #agile?

@@ -9,6 +9,8 @@ duration: 722
 isShort: False
 ---
 
+{{< youtube U7wIQk1pus0 >}}
+
 # Install TFS 2013 Basic
 
 I have not done an installation from scratch for a while so I thought that I would share a TFS basic install. For all those that think that installing and configuring TFS is hard or complicated this is for you.

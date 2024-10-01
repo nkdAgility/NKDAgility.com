@@ -9,6 +9,8 @@ duration: 43
 isShort: True
 ---
 
+{{< youtube 8F3SK4sPj3M >}}
+
 # Why validate your advanced product ownership skills with a PSPO A?
 
 #shorts #shortsvideo #shortvideo   The Advanced Professional Scrum Product Owner course, also known as PSPO-A course, is an advanced product ownership course that enables you to act like the CEO of the product.

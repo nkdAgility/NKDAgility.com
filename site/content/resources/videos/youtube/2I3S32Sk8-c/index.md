@@ -9,6 +9,8 @@ duration: 182
 isShort: False
 ---
 
+{{< youtube 2I3S32Sk8-c >}}
+
 # What would you advise a scrum team to do in their first 4 weeks?
 
 So, you've decided to transition from #project to #product. From #projectmanagement to #productdevelopment, and you're using #scrum as the lightweight #agileframework to achieve that.

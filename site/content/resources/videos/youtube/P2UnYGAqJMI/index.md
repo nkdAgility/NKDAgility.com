@@ -9,6 +9,8 @@ duration: 46
 isShort: True
 ---
 
+{{< youtube P2UnYGAqJMI >}}
+
 #  shorts 5 kinds of Agile bandits. 4th kind
 
 #shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the 5 agile bandits. This video features #burndowncharts

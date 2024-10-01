@@ -9,6 +9,8 @@ duration: 55
 isShort: True
 ---
 
+{{< youtube 54-Zw2A7zEM >}}
+
 # Scrum Master versus seasoned agile coach?
 
 #shorts #shortsvideo #shorvideo Martin Hinshelwood explains the difference between a #scrummaster and a seasoned #agilecoaching 

@@ -9,6 +9,8 @@ duration: 59
 isShort: True
 ---
 
+{{< youtube Wk0no7MB0AM >}}
+
 # War! 7 Harbingers agile apocalypse. But shorter!
 
 War is one of the seven signs of the Agile-pocolypse! ⚔️

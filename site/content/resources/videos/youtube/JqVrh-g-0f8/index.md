@@ -9,6 +9,8 @@ duration: 42
 isShort: True
 ---
 
+{{< youtube JqVrh-g-0f8 >}}
+
 # What does a poor product backlog look like?
 
 #shorts #shortsvideo #shortvideo What does a poor #productbacklog look like? In this short video, Martin Hinshelwood explains what you shouldn't be seeing when you look at your #backlog. #scrum #agile #agileprojectmanagement #agileproductdevelopment

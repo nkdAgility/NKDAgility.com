@@ -9,6 +9,8 @@ duration: 251
 isShort: False
 ---
 
+{{< youtube vHNwcfbNOR8 >}}
+
 # What is your feeling on creating agile apprenticeships?
 
 #scrum is notorious for being relatively straightforward to understand, yet incredibly difficult to master. Any #productdevelopment environment is going to be challenging due to the level of complexity involved, but working in such a new, progressive way can prove super tough for many.

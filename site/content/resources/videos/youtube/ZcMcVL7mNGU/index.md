@@ -9,6 +9,8 @@ duration: 256
 isShort: False
 ---
 
+{{< youtube ZcMcVL7mNGU >}}
+
 # Product Management Mentor Program Final
 
 #agile has come a long way since it's inception in 2001, and with that shift from #projectmanagement to #productdevelopment, #productmanagement has evolved significantly.

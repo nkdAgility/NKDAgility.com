@@ -9,6 +9,8 @@ duration: 116
 isShort: False
 ---
 
+{{< youtube GIq3LZUnWx4 >}}
+
 # What is the one thing a PSPO course forces you to focus on?
 
 The #PSPO or #professionalscrumproductowner course is designed to provide you with the knowledge, skills, and capabilities you need to be a #productowner within a #scrum environment.
