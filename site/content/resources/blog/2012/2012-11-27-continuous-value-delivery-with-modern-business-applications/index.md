@@ -22,7 +22,7 @@ tags:
   - "vs-2012-1"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "continuous-value-delivery-with-modern-business-applications"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "off-topic"
 coverImage: "metro-award-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "community-credit-and-geekswithblogs-up-a-tree"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "windows"
   - "windows-server"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "unable-to-install-visual-studio-2013-rc-on-windows-8-1-preview"
 ---
 

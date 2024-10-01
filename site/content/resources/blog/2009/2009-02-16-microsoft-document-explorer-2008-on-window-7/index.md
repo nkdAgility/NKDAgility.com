@@ -8,7 +8,7 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "microsoft-document-explorer-2008-on-window-7"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "rethinking-product-backlog-navigating-through-the-weeds-of-complexity"
 ---
 

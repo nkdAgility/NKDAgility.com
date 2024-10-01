@@ -11,7 +11,7 @@ tags:
   - "virtual-network"
 coverImage: "nakedalm-windows-logo-8-8.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "move-azure-vm-virtual-network"
 ---
 

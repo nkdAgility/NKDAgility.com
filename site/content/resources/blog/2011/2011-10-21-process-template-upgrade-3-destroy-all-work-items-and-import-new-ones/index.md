@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2005-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones"
 ---
 

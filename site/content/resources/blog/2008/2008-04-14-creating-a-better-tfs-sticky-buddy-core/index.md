@@ -13,7 +13,7 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "creating-a-better-tfs-sticky-buddy-core"
 ---
 

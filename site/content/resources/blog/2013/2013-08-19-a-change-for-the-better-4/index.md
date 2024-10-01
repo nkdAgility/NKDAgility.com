@@ -11,7 +11,7 @@ tags:
   - "northwest-cadence"
 coverImage: "nakedalm-logo-128-link-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "a-change-for-the-better-4"
 ---
 

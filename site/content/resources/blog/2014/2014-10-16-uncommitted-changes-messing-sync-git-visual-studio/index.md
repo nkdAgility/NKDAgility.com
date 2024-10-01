@@ -12,7 +12,7 @@ tags:
   - "visual-studio"
 coverImage: "naked-alm-git-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "uncommitted-changes-messing-sync-git-visual-studio"
 ---
 

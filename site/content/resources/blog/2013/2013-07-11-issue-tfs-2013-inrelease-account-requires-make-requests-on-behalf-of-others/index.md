@@ -15,7 +15,7 @@ tags:
   - "tfs-2013"
 coverImage: "puzzle-issue-problem-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others"
 ---
 

@@ -6,7 +6,7 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "team-suite-on-the-cheap"
 ---
 

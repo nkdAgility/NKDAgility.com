@@ -13,7 +13,7 @@ tags:
   - "tools"
   - "upgrade"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "upgrading-to-team-foundation-server-2012-update-1"
 ---
 

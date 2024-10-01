@@ -7,7 +7,7 @@ categories:
   - "agility"
 coverImage: "NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know"
 ---
 

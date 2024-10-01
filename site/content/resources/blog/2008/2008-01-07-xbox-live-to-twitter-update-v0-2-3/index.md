@@ -11,7 +11,7 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "xbox-live-to-twitter-update-v0-2-3"
 ---
 

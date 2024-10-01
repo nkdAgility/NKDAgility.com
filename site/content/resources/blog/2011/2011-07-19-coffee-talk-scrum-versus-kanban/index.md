@@ -16,7 +16,7 @@ tags:
   - "scrum"
 coverImage: "metro-event-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "coffee-talk-scrum-versus-kanban"
 ---
 

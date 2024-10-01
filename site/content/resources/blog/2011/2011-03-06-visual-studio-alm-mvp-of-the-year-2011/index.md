@@ -14,7 +14,7 @@ tags:
   - "vs2010"
 coverImage: "metro-award-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "visual-studio-alm-mvp-of-the-year-2011"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-office-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again"
 ---
 

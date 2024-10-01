@@ -13,7 +13,7 @@ tags:
   - "router"
 coverImage: "naked-alm-hyper-v-17-17.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "run-router-hyper-v"
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "product-owner"
 coverImage: "146713119-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "wcf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "what-the-0x80072020"
 ---
 

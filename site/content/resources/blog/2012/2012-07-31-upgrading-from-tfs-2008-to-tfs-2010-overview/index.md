@@ -15,7 +15,7 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "upgrading-from-tfs-2008-to-tfs-2010-overview"
 ---
 

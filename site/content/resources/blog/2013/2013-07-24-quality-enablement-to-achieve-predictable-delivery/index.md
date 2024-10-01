@@ -16,7 +16,7 @@ tags:
   - "testing"
 coverImage: "nakedalm-experts-professional-scrum-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "quality-enablement-to-achieve-predictable-delivery"
 ---
 

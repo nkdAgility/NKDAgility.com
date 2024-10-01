@@ -11,7 +11,7 @@ tags:
   - "review"
 coverImage: "Web-Intel-Metro-icon-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "review-two-months-intel-haswell-harris-beach-sds-ultrabook"
 ---
 

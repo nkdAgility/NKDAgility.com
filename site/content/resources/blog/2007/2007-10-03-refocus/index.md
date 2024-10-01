@@ -8,7 +8,7 @@ tags:
   - "sp2007"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "refocus"
 ---
 

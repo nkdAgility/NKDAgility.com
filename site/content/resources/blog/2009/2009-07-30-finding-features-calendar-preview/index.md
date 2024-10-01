@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "finding-features-calendar-preview"
 ---
 

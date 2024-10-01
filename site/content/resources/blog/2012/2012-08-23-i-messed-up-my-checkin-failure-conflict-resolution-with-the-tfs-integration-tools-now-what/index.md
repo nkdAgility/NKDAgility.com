@@ -11,7 +11,7 @@ tags:
   - "tfs-integration-platform"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what"
 ---
 

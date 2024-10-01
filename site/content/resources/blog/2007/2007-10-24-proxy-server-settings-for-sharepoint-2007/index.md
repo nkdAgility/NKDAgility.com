@@ -10,7 +10,7 @@ tags:
   - "spf2010"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "proxy-server-settings-for-sharepoint-2007"
 ---
 

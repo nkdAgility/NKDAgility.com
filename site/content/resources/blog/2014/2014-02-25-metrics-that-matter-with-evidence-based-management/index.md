@@ -15,7 +15,7 @@ tags:
   - "tfs"
 coverImage: "nakedalm-agility-index-24-24.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "metrics-that-matter-with-evidence-based-management"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "tfs"
   - "tfs-sticky-buddy"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "wakoopa"
 ---
 

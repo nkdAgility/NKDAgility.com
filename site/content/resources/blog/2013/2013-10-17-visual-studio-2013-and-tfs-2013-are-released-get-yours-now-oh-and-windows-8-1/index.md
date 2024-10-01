@@ -21,7 +21,7 @@ tags:
   - "windows-8-1"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1"
 ---
 

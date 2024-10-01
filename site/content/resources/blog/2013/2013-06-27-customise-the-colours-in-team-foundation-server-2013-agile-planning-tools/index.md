@@ -11,7 +11,7 @@ tags:
   - "code"
   - "configuration"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "customise-the-colours-in-team-foundation-server-2013-agile-planning-tools"
 ---
 

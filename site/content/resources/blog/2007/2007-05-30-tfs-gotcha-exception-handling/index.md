@@ -5,7 +5,7 @@ date: "2007-05-30"
 tags: 
   - "tfs"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-gotcha-exception-handling"
 ---
 

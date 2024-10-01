@@ -13,7 +13,7 @@ tags:
   - "wpf"
 coverImage: "metro-visual-studio-2005-128-link-6-6.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "creating-a-wpf-work-item-control"
 ---
 

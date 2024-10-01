@@ -11,7 +11,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "hold-on-lads-i-have-an-idea"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - "tfs2012-2"
 coverImage: "nakedalm-experts-visual-studio-alm-17-17.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "standard-environments-for-automated-deployment-and-testing"
 ---
 

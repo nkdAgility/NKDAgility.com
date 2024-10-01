@@ -9,7 +9,7 @@ tags:
   - "sprint-planning"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery"
 ---
 

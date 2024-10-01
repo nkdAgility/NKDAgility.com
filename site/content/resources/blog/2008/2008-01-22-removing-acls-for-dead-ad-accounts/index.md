@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "removing-acls-for-dead-ad-accounts"
 ---
 

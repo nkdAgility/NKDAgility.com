@@ -8,7 +8,7 @@ tags:
   - "tfs"
   - "tfs2010"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "not-just-happy-but-ecstatic"
 ---
 

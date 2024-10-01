@@ -8,7 +8,7 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "project-natal-available-soon"
 ---
 

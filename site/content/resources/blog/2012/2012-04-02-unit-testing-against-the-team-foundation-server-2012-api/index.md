@@ -19,7 +19,7 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "unit-testing-against-the-team-foundation-server-2012-api"
 ---
 

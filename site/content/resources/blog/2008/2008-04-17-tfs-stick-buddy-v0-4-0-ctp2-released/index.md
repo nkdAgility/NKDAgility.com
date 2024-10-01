@@ -13,7 +13,7 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-stick-buddy-v0-4-0-ctp2-released"
 ---
 

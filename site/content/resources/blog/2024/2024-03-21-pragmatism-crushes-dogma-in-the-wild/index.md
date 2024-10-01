@@ -6,7 +6,7 @@ categories:
   - "agility"
 coverImage: "NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "pragmatism-crushes-dogma-in-the-wild"
 ---
 

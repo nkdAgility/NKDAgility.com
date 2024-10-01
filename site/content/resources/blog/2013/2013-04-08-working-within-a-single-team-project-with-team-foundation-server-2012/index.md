@@ -25,7 +25,7 @@ tags:
   - "wiql"
 coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "working-within-a-single-team-project-with-team-foundation-server-2012"
 ---
 

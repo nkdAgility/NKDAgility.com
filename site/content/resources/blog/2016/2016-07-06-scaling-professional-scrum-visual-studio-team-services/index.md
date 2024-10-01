@@ -15,7 +15,7 @@ tags:
   - "vsteamservices"
 coverImage: "Scalled-Professional-Scrum-1280-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "scaling-professional-scrum-visual-studio-team-services"
 ---
 

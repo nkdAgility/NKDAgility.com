@@ -10,7 +10,7 @@ tags:
   - "the-sprint"
 coverImage: "Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "continuous-deliver-sprint"
 ---
 

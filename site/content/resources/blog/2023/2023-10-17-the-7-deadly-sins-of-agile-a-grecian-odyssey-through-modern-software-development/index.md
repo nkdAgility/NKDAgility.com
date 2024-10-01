@@ -8,7 +8,7 @@ tags:
   - "homepage"
 coverImage: "NKDAgility-technically-7DeadlySins-16-15.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development"
 ---
 

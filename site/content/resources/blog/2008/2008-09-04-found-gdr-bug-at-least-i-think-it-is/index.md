@@ -7,7 +7,7 @@ tags:
   - "tools"
 coverImage: "metro-aggreko-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "found-gdr-bug-at-least-i-think-it-is"
 ---
 

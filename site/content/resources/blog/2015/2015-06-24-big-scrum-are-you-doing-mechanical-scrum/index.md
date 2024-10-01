@@ -12,7 +12,7 @@ tags:
   - "scrum-at-scale"
 coverImage: "clip_image001-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "big-scrum-are-you-doing-mechanical-scrum"
 ---
 

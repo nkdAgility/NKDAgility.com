@@ -14,7 +14,7 @@ tags:
   - "tools"
 coverImage: "metro-problem-icon-8-8.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear"
 ---
 

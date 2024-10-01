@@ -10,7 +10,7 @@ tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "studying-for-exam-70-536-mcts-application-development-foundation"
 ---
 

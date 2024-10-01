@@ -6,7 +6,7 @@ categories:
   - "news-and-reviews"
 coverImage: "nakedalm-logo-260-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "blogging-2500-meters"
 ---
 

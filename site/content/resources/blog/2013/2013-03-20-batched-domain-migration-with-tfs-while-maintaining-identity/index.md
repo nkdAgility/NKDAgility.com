@@ -16,7 +16,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "batched-domain-migration-with-tfs-while-maintaining-identity"
 ---
 

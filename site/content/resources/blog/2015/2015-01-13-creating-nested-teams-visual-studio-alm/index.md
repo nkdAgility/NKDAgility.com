@@ -12,7 +12,7 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-17-17.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "creating-nested-teams-visual-studio-alm"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "homepage"
 coverImage: "naked-agility-technically-agile-gym-membership-Agile-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "sprint-goal"
 coverImage: "NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "how-to-set-and-achieve-effective-sprint-goals"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "ssw"
 coverImage: "metro-SSWLogo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "adventures-in-scrum-lesson-1-the-failed-sprint"
 ---
 

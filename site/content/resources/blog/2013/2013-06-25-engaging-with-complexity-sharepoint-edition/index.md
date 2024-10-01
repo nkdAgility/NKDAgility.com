@@ -17,7 +17,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "engaging-with-complexity-sharepoint-edition"
 ---
 

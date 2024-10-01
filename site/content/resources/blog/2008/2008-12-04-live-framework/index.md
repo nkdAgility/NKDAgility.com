@@ -9,7 +9,7 @@ tags:
   - "wpf"
 coverImage: "metro-cloud-azure-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "live-framework"
 ---
 

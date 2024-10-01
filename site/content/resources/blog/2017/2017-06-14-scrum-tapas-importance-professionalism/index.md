@@ -11,7 +11,7 @@ tags:
   - "scrum-values"
 coverImage: "nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "scrum-tapas-importance-professionalism"
 ---
 

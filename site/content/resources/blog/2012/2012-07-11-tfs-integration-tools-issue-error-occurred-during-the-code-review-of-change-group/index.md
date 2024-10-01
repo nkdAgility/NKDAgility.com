@@ -11,7 +11,7 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group"
 ---
 

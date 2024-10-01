@@ -12,7 +12,7 @@ tags:
   - "sprint-goal"
 coverImage: "naked-agility-hypothesis-driven-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "sprint-goal-is-an-immediate-tactical-goal"
 ---
 

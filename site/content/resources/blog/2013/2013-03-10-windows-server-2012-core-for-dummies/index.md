@@ -12,7 +12,7 @@ tags:
   - "windows-server"
 coverImage: "metro-server-instances-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "windows-server-2012-core-for-dummies"
 ---
 

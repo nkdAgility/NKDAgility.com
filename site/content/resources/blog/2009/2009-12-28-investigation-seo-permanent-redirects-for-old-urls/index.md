@@ -12,7 +12,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "investigation-seo-permanent-redirects-for-old-urls"
 ---
 

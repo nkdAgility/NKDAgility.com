@@ -9,7 +9,7 @@ tags:
   - "product-owner"
 coverImage: "495173592-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "whats-the-best-way-to-work-around-multiple-po"
 ---
 

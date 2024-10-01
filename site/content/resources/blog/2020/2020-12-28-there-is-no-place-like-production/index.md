@@ -10,7 +10,7 @@ tags:
   - "product-owner"
 coverImage: "wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "there-is-no-place-like-production"
 ---
 

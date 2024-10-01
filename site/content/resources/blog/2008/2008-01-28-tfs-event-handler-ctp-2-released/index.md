@@ -14,7 +14,7 @@ tags:
   - "wit"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-event-handler-ctp-2-released"
 ---
 

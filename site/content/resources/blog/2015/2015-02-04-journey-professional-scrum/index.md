@@ -14,7 +14,7 @@ tags:
   - "sps"
 coverImage: "nakedalm-experts-professional-scrum-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "journey-professional-scrum"
 ---
 

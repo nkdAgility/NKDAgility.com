@@ -11,7 +11,7 @@ tags:
   - "project-management"
 coverImage: "metro-event-icon-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "alm-events-and-public-courses-in-2015-q2"
 ---
 

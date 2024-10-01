@@ -17,7 +17,7 @@ tags:
   - "tfs-2013"
   - "work-item-type"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key"
 ---
 

@@ -4,7 +4,7 @@ title: "TeamPlain - Revisit"
 date: "2007-04-02"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "teamplain-revisit"
 ---
 

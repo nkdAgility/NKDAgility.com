@@ -14,7 +14,7 @@ tags:
   - "windows-server"
 coverImage: "puzzle-issue-problem-128-link-6-6.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments"
 ---
 

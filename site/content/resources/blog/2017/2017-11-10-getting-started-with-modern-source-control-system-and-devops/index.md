@@ -13,7 +13,7 @@ tags:
   - "versioncontrol"
 coverImage: "excellence-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "getting-started-with-modern-source-control-system-and-devops"
 ---
 

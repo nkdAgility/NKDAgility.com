@@ -12,7 +12,7 @@ tags:
   - "training"
 coverImage: "nakedalm-logo-260-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "need-expert-visual-studio-alm-tfs-scrum"
 ---
 

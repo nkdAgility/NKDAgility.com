@@ -9,7 +9,7 @@ tags:
   - "homepage"
 coverImage: "NKDAgility-technically-SprintRefignementBallance-6-6.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "decoding-scrum-team-work-balancing-sprint-and-refinement-work"
 ---
 

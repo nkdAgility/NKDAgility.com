@@ -6,7 +6,7 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "im-luke-skywalker-according-to-the-star-wars-personality-test"
 ---
 

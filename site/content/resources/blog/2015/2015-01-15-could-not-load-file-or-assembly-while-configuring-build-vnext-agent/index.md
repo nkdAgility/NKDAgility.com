@@ -14,7 +14,7 @@ tags:
   - "tfs-2015"
   - "vsteamservices"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "could-not-load-file-or-assembly-while-configuring-build-vnext-agent"
 ---
 

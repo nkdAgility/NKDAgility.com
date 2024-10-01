@@ -6,7 +6,7 @@ tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "how-to-become-a-multi-dimensional-free-thinker"
 ---
 

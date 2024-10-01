@@ -13,7 +13,7 @@ tags:
   - "tfs2012"
 coverImage: "metro-problem-icon-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts"
 ---
 

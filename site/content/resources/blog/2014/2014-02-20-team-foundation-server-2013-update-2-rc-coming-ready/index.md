@@ -10,7 +10,7 @@ tags:
   - "upgrade"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "team-foundation-server-2013-update-2-rc-coming-ready"
 ---
 

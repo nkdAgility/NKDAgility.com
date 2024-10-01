@@ -12,7 +12,7 @@ tags:
   - "taylorism"
 coverImage: "2020-03-27_21-31-11-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs"
 ---
 

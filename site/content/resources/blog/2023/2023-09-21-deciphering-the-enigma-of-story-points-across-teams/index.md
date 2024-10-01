@@ -9,7 +9,7 @@ tags:
   - "homepage"
 coverImage: "naked-agility-technically-flow-not-velocity-5-5.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "deciphering-the-enigma-of-story-points-across-teams"
 ---
 

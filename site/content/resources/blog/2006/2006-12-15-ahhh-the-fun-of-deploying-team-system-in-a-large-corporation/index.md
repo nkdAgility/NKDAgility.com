@@ -4,7 +4,7 @@ title: "Ahhh, the fun of deploying Team System in a large corporation"
 date: "2006-12-15"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "ahhh-the-fun-of-deploying-team-system-in-a-large-corporation"
 ---
 

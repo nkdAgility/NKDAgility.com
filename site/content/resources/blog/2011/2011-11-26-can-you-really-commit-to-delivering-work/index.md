@@ -13,7 +13,7 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "can-you-really-commit-to-delivering-work"
 ---
 

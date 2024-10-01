@@ -9,7 +9,7 @@ tags:
   - "windows"
 coverImage: "clip_image001-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "mapping-windows-special-folders-onedrive-business-ultimate-backup"
 ---
 

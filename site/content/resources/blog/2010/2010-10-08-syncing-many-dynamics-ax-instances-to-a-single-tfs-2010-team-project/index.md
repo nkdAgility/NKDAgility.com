@@ -9,7 +9,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project"
 ---
 

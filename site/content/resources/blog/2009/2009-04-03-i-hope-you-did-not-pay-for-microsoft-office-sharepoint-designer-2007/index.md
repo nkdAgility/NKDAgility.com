@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007"
 ---
 

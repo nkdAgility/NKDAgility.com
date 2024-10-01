@@ -12,7 +12,7 @@ tags:
   - "tfs"
   - "tfs-2013"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "integrate-reporting-and-analyses-services-with-team-foundation-server-2013"
 ---
 

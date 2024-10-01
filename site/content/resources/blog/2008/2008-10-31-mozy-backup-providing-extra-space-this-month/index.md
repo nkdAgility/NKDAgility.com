@@ -6,7 +6,7 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "mozy-backup-providing-extra-space-this-month"
 ---
 

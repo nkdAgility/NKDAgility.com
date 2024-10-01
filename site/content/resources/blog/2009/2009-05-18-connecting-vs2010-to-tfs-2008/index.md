@@ -11,7 +11,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "connecting-vs2010-to-tfs-2008"
 ---
 

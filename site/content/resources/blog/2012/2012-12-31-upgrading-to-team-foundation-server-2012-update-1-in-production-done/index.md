@@ -16,7 +16,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-15-15.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "upgrading-to-team-foundation-server-2012-update-1-in-production-done"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "predictable-quality"
 coverImage: "All-technical-debt-is-risk-to-the-product-and-to-your-business-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "all-technical-debt-is-a-risk-to-the-product-and-to-your-business"
 ---
 

@@ -4,7 +4,7 @@ title: "TFS Feature Wish (TFS Checkin Notifier)"
 date: "2007-05-24"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-feature-wish-tfs-checkin-notifier"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "professional-scrum-with-kanban"
 coverImage: "applying-professional-kanban-background-logo-2-2.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "professional-kanban-trainer-for-applying-professional-kanban"
 ---
 

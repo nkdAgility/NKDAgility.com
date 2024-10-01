@@ -15,7 +15,7 @@ tags:
   - "upgrade"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "full-fidelity-history-and-data-migration-are-mutually-exclusive"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "tfs"
   - "tfs-2013"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-release-management-server-tfs-2013"
 ---
 

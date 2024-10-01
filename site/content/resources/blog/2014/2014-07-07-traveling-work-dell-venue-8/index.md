@@ -12,7 +12,7 @@ tags:
   - "traveling"
 coverImage: "nakedalm-windows-logo-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "traveling-work-dell-venue-8"
 ---
 

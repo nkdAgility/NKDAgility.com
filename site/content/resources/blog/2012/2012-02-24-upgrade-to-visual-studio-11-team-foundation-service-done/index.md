@@ -15,7 +15,7 @@ tags:
   - "visual-studio"
   - "vs2012"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "upgrade-to-visual-studio-11-team-foundation-service-done"
 ---
 

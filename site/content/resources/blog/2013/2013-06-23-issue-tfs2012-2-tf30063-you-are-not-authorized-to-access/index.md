@@ -14,7 +14,7 @@ tags:
   - "tfs-2012-3"
 coverImage: "puzzle-issue-problem-128-link-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "issue-tfs2012-2-tf30063-you-are-not-authorized-to-access"
 ---
 

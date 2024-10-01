@@ -15,7 +15,7 @@ tags:
   - "tf26204"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "configure-test-plans-for-web-access-in-tfs-2012-2"
 ---
 

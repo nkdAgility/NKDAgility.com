@@ -13,7 +13,7 @@ tags:
   - "why"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "naked-alm-starting-with-why-and-getting-naked"
 ---
 

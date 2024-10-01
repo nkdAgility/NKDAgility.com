@@ -13,7 +13,7 @@ tags:
   - "vs2012"
 coverImage: "metro-event-icon-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "visual-studio-2012-launch-roadshow-in-san-diego-and-irvine"
 ---
 

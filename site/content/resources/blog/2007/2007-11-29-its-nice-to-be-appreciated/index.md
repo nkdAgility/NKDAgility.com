@@ -8,7 +8,7 @@ tags:
   - "silverlight"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "its-nice-to-be-appreciated"
 ---
 

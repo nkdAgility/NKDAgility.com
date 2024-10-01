@@ -10,7 +10,7 @@ tags:
   - "tools"
   - "webcast-2"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "scrum-with-dev11-creating-a-new-team-project"
 ---
 

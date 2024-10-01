@@ -11,7 +11,7 @@ tags:
   - "workitemtracking"
 coverImage: "NKDAgility-technically-BugAsATask-5-5.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "avoid-bug-task-anti-pattern-tfs"
 ---
 

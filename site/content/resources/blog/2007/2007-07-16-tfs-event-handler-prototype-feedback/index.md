@@ -11,7 +11,7 @@ tags:
   - "wit"
 coverImage: "metro-merilllynch-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-event-handler-prototype-feedback"
 ---
 

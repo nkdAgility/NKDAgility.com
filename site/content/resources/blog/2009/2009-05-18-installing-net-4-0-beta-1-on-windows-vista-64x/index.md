@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-net-4-0-beta-1-on-windows-vista-64x"
 ---
 

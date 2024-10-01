@@ -10,7 +10,7 @@ tags:
   - "tools"
   - "wcf"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "developing-peer-to-peer-applications-with-wcf"
 ---
 

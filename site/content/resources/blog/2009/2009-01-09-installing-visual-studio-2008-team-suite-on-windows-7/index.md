@@ -8,7 +8,7 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-9-9.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-visual-studio-2008-team-suite-on-windows-7"
 ---
 

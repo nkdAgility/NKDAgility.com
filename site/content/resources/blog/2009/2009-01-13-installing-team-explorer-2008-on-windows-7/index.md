@@ -6,7 +6,7 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-team-explorer-2008-on-windows-7"
 ---
 

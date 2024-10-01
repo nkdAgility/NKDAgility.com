@@ -9,7 +9,7 @@ tags:
   - "tf-build"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-build-reports-licencies-licx-unable-load-type"
 ---
 

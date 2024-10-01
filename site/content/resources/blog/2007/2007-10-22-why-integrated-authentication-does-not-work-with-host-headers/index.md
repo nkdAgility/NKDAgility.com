@@ -7,7 +7,7 @@ categories:
 tags: 
   - "tfs"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "why-integrated-authentication-does-not-work-with-host-headers"
 ---
 

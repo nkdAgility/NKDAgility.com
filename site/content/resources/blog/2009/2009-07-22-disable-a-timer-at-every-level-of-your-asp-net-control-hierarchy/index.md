@@ -12,7 +12,7 @@ tags:
   - "web"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy"
 ---
 

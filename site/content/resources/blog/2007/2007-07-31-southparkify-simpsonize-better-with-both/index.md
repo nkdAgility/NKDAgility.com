@@ -9,7 +9,7 @@ tags:
   - "sharepoint"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "southparkify-simpsonize-better-with-both"
 ---
 

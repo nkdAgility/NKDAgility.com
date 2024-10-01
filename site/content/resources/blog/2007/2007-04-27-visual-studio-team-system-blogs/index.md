@@ -4,7 +4,7 @@ title: "Visual Studio Team System Blogs"
 date: "2007-04-27"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "visual-studio-team-system-blogs"
 ---
 

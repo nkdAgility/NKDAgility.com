@@ -9,7 +9,7 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "hinshelm-vs-fernienator"
 ---
 

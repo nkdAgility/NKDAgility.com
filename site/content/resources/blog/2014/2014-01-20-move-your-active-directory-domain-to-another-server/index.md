@@ -11,7 +11,7 @@ tags:
   - "tf255435"
 coverImage: "metro-server-instances_thumb-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "move-your-active-directory-domain-to-another-server"
 ---
 

@@ -17,7 +17,7 @@ tags:
   - "taylorism"
 coverImage: "nkdAgility-PSD-Krakow-02-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "professional-scrum-teams-build-software-works"
 ---
 

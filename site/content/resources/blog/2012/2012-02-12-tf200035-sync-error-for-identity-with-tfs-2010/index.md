@@ -9,7 +9,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tf200035-sync-error-for-identity-with-tfs-2010"
 ---
 

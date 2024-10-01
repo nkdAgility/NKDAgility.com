@@ -12,7 +12,7 @@ tags:
   - "product-owner"
 coverImage: "image-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "hiring-a-professional-product-owner"
 ---
 

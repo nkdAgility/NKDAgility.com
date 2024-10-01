@@ -15,7 +15,7 @@ tags:
   - "visual-studio-alm"
 coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "building-release-pipeline-release-management-visual-studio-2013"
 ---
 

@@ -21,7 +21,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "commit-to-visual-studio-alm-on-area51"
 ---
 

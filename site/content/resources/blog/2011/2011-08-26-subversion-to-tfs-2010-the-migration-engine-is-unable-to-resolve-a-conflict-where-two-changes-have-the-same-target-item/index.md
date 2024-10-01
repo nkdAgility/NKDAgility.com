@@ -12,7 +12,7 @@ tags:
   - "vs2010"
 coverImage: "image-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item"
 ---
 

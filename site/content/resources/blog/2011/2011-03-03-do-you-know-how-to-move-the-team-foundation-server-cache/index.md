@@ -8,7 +8,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "do-you-know-how-to-move-the-team-foundation-server-cache"
 ---
 

@@ -6,7 +6,7 @@ categories:
   - "agility"
 coverImage: "NKDAgility-technically-YouCantStopTheSignal-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "you-cant-stop-the-signal-but-you-can-ignore-it"
 ---
 

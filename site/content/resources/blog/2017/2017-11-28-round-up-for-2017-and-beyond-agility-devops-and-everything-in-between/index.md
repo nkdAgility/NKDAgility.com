@@ -7,7 +7,7 @@ categories:
   - "devops"
 coverImage: "-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "round-up-for-2017-and-beyond-agility-devops-and-everything-in-between"
 ---
 

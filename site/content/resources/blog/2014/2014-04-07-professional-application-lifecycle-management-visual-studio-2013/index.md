@@ -12,7 +12,7 @@ tags:
   - "visual-studio"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "professional-application-lifecycle-management-visual-studio-2013"
 ---
 

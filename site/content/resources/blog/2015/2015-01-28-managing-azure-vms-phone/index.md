@@ -9,7 +9,7 @@ tags:
   - "windows-phone"
 coverImage: "nakedalm-windows-logo-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "managing-azure-vms-phone"
 ---
 

@@ -4,7 +4,7 @@ title: "Time That Task VSTS Check-In Policy"
 date: "2006-12-19"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "time-that-task-vsts-check-in-policy"
 ---
 

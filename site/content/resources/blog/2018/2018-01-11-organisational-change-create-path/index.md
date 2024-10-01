@@ -18,7 +18,7 @@ tags:
   - "scrum-definition"
 coverImage: "nkdagility-create-your-own-path-to-agility-3-3.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "organisational-change-create-path"
 ---
 

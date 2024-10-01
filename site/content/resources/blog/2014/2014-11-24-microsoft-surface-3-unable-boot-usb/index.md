@@ -10,7 +10,7 @@ tags:
   - "windows-10"
 coverImage: "nakedalm-windows-logo-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "microsoft-surface-3-unable-boot-usb"
 ---
 

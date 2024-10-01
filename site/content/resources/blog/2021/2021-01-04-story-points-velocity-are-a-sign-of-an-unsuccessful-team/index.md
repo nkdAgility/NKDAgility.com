@@ -11,7 +11,7 @@ tags:
   - "leadership-track"
 coverImage: "image-9-14-14.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "story-points-velocity-are-a-sign-of-an-unsuccessful-team"
 ---
 

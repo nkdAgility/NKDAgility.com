@@ -6,7 +6,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-18-18.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-windows-7"
 ---
 

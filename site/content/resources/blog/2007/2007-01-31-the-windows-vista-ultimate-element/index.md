@@ -7,7 +7,7 @@ tags:
   - "vista"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "the-windows-vista-ultimate-element"
 ---
 

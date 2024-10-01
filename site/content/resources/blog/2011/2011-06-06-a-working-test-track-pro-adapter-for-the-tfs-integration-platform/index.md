@@ -9,7 +9,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "a-working-test-track-pro-adapter-for-the-tfs-integration-platform"
 ---
 

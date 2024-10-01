@@ -4,7 +4,7 @@ title: "Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
 date: "2007-04-25"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "beta-exam-71-510-ts-visual-studio-2005-team-foundation-server"
 ---
 

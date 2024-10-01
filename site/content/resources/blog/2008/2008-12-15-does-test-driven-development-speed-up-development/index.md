@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-2-2.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "does-test-driven-development-speed-up-development"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "tools"
 coverImage: "metro-office-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "application-lifecycle-management-with-office-2013-on-windows-8"
 ---
 

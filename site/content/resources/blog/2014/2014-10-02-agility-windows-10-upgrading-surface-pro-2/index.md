@@ -14,7 +14,7 @@ tags:
   - "windows-10"
 coverImage: "nakedalm-windows-logo-12-12.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "agility-windows-10-upgrading-surface-pro-2"
 ---
 

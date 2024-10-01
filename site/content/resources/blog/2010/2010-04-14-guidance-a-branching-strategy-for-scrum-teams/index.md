@@ -21,7 +21,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-18-18.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "guidance-a-branching-strategy-for-scrum-teams"
 ---
 

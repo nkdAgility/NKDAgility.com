@@ -18,7 +18,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "upgrading-team-foundation-server-2008-to-2010"
 ---
 

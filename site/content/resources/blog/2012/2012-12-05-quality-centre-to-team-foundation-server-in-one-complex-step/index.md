@@ -16,7 +16,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "quality-centre-to-team-foundation-server-in-one-complex-step"
 ---
 

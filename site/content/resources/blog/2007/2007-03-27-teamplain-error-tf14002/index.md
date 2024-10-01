@@ -4,7 +4,7 @@ title: "TeamPlain Error: TF14002"
 date: "2007-03-27"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "teamplain-error-tf14002"
 ---
 

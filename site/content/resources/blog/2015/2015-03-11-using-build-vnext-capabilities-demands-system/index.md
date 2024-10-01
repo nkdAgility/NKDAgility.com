@@ -12,7 +12,7 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "using-build-vnext-capabilities-demands-system"
 ---
 

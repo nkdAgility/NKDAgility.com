@@ -14,7 +14,7 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "product-owners-are-not-a-myth-2"
 ---
 

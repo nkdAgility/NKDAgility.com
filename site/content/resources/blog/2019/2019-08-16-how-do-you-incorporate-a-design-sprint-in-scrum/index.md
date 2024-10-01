@@ -12,7 +12,7 @@ tags:
   - "the-sprint"
 coverImage: "1130646316-1-1-1.jpg"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "how-do-you-incorporate-a-design-sprint-in-scrum"
 ---
 

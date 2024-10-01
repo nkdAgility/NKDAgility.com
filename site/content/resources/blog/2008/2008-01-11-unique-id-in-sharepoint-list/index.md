@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-2-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "unique-id-in-sharepoint-list"
 ---
 

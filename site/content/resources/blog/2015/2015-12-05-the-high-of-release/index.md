@@ -8,7 +8,7 @@ tags:
   - "developers"
 coverImage: "2016-01-04_15-52-31-1-1.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "the-high-of-release"
 ---
 

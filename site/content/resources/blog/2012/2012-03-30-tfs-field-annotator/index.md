@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-cloud-azure-link-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-field-annotator"
 ---
 

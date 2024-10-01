@@ -16,7 +16,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-10-10.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "who-broke-the-build"
 ---
 

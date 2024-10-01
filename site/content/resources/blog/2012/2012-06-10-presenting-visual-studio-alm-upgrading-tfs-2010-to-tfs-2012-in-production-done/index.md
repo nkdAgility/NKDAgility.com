@@ -20,7 +20,7 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done"
 ---
 

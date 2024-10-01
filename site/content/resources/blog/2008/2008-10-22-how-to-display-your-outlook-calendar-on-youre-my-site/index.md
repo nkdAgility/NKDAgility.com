@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-6-6.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "how-to-display-your-outlook-calendar-on-youre-my-site"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - "tools"
 coverImage: "metro-problem-icon-6-6.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance"
 ---
 

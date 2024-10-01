@@ -9,7 +9,7 @@ tags:
   - "nwcadence"
 coverImage: "metro-event-128-link-3-3.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "free-training-at-northwest-cadence"
 ---
 

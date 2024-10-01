@@ -11,7 +11,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-11-11.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "how-to-deal-with-a-stuck-or-infinitely-queued-build"
 ---
 

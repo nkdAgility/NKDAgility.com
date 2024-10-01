@@ -18,7 +18,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "release-management-with-team-foundation-server-2012"
 ---
 

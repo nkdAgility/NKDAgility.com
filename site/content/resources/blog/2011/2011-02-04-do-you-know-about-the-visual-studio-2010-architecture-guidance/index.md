@@ -10,7 +10,7 @@ tags:
   - "vsalmrangers"
 coverImage: "metro-visual-studio-2010-128-link-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "do-you-know-about-the-visual-studio-2010-architecture-guidance"
 ---
 

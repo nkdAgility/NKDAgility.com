@@ -9,7 +9,7 @@ tags:
   - "infrastructure"
 coverImage: "puzzle-issue-problem-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi"
 ---
 

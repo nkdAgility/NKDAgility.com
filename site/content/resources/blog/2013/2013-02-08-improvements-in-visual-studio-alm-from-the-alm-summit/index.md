@@ -20,7 +20,7 @@ tags:
   - "wit-tagging"
 coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "improvements-in-visual-studio-alm-from-the-alm-summit"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-5-5.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "can-i-run-two-versions-of-microsoft-project-side-by-side"
 ---
 

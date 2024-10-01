@@ -11,7 +11,7 @@ tags:
   - "tfs2012"
 coverImage: "metro-problem-icon-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number"
 ---
 

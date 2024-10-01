@@ -11,7 +11,7 @@ tags:
   - "review"
 coverImage: "Web-Intel-Metro-icon-4-4.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "unboxing-the-intel-haswell-harris-beach-sds-ultrabook"
 ---
 

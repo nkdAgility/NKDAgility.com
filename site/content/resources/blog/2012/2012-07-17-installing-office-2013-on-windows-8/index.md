@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-office-128-link-7-7.png"
 author: "MrHinsh"
-type: "blog"
+type: blog
 slug: "installing-office-2013-on-windows-8"
 ---
 
