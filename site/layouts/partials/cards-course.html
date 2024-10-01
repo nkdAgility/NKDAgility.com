@@ -1,11 +1,14 @@
 <div class="card flex-fill m-2 shadow text-center flex-fill small">
   <h3 class="card-header h6 p-2 text-white text-start" style="font-size:0.8em;background-color: {{if .context.Params.brand.colour}}{{ .context.Params.brand.colour}}{{else}}#713183{{end}}" title="{{ .context.Title}}"> {{ .context.Title}} </h3>
   <div class="card-header mb-3 p-0 d-none d-lg-block position-relative clearfix">
-    {{/* {{if .context.Params.coverImage}} {{ $image := .Resources.GetMatch (printf "images/%s" .Params.coverImage) }}
+    {{if .context.Params.coverImage}} {{ $image := .Resources.GetMatch (printf "images/%s" .Params.coverImage) }}
     <img class="img-fluid" src="{{ $image.RelPermalink }}" alt="{{ .context.Params.Title}}" />
-    {{ .context.Params.coverImage}} {{else}} {{ $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
+    {{else}} {{ $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
     <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{ .context.Params.Title}}" />
-    {{end}} */}} {{/* <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" src="" alt="{{ .context.Params.Title}}" /> */}}
+    {{end}}
+    <!-- courseIcon -->
+    {{if .context.Params.delivery.courseIcon}} {{ $courseIcon := .context.Resources.GetMatch (printf "images/%s" .context.Params.delivery.courseIcon) }}
+    <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" src="{{ $courseIcon.RelPermalink }}" alt="{{ .context.Params.Title}}" />{{end}}
   </div>
   <div class="card-body p-2 px-20 clearfix row">
     <div class="col-3 d-block d-md-none d-sm-none">
