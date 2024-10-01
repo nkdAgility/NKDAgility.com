@@ -15,6 +15,7 @@ I have been asking one of my colleagues for information on Sharepoint and how to
 In reading it I came to a much grater realization of not only the power of Sharepoint, but the scale that it can be deployed in. Although you have to take the entire potential architecture into consideration, I really like the MySites part of the deployment.
 
 ![](images/41CXXm-gRQL._AA240_.jpg)
+{ .post-img }
 
 I think I am going to enjoy the Sharepoint thing...
 

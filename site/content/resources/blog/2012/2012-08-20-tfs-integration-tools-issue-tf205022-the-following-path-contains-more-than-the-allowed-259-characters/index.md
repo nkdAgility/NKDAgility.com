@@ -18,6 +18,7 @@ slug: "tfs-integration-tools-issue-tf205022-the-following-path-contains-more-tha
 You get error “TF205022: The following path contains more than the allowed 259 characters” when trying to migrate over some folders.
 
 [![image](images/image_thumb61-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image61.png)  
+{ .post-img }
 **Figure: TF205022: The following path contains more than the allowed 259 characters**
 
 The full error message:
@@ -62,6 +63,7 @@ By default the TFS Integration Platform uses “x:TfsIpData” for its workspace
 3. Edit the AppSettings Value for Key “WorkSpaceRoot”
 
 [![image](images/image_thumb62-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image62.png)  
+{ .post-img }
 **Figure: Alter the AppSettings Key**
 
 Now you have saved a few characters! Its not enough for me, but may be for you…
@@ -77,6 +79,7 @@ In this case I want to rip out “XX XXXXXXX web content, banner ads, and images
 Now that the path has been shortened the Integration Platform should detect that the config has changed and reset the migration data. The problem is that these errors can be resolved due to a “Sequence contains no matching elements” error.
 
 [![image](images/image_thumb63-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image63.png)  
+{ .post-img }
 **Figure: Sequence contains no matching elements**
 
 In order to proceed I will need to again recreate the session. Remembering to call “tf destroy” on the source that has already been migrated.

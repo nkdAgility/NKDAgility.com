@@ -15,6 +15,7 @@ Well, today I started a new part time job that I do not get paid for, but put ju
 I will be moderating the submissions on a really cool site:
 
 [![](images/myComGetsCredit.gif)](http://www.community-credit.com)
+{ .post-img }
 
 I have just spent my first morning vetting entries, and by and large I have not had to reject very many. This shows that the community that surrounds this site it pretty honest.
 

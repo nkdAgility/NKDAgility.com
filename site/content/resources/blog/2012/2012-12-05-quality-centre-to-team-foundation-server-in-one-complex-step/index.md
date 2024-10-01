@@ -23,6 +23,7 @@ slug: "quality-centre-to-team-foundation-server-in-one-complex-step"
 We have had a large number of customers over the years that desperately want to move from Quality Centre (now HP ALM) to… well… anything else to be honest. The current leader in the ALM space just happens to be my favourite tool, Team Foundation Server, and so I am continuously on the lookout for tools that can help us migrate from whatever the customer is using to Team Foundation Server.
 
 ![Gartner rates Team Foundation Server as top ALM tool](images/image3-3-3.png "Gartner rates Team Foundation Server as top ALM tool")  
+{ .post-img }
 **Figure: Gartner rates Team Foundation Server as top ALM tool**
 
 There are currently three third party , one Microsoft and one HP tool in the migration and sync space for Quality Centre to Team Foundation Server and all of them have their drawbacks… there never is a perfect solution for migration or synchronisation, but there are a few tools in the Synchronisation space that are worth it and for Quality Centre there is one tool that can cut the Migration mustard.
@@ -57,6 +58,7 @@ _(I was unable to get a “trial” version of this software and I am inherently
 It currently looks like OpsHub is the top player with both Synchronisation and full history Migration but it is difficult to tell as they do not provide a downloadable trial. I don’t know about you, but unless I can run and verify a feature myself I take claim of capabilities with a pinch of salt. To date I have only seen evidence to claim synchronisation and not migration which is just fine. What is the difference you might ask, surely if you can do one you can do the other… well kind of.. more on that later…
 
 ![image](images/image1-1-1.png "image")  
+{ .post-img }
 **Figure: OpsHub integration**
 
 OpsHub Integrates with [many companies products](http://www.opshub.com/main/index.php/2012-08-31-18-28-21/partners) and if they can do half of what they claim then it will be a very powerful tool…
@@ -68,6 +70,7 @@ _(I was unable to get a “trial” version of this software and I am inherently
 TaskTop is the new kid on the block and now provides a solution called TaskTop Sync that allows us to Sync data on the server side between many systems. This is not migration and it will not take history, but it does allow you to access data from many ALM system from a single UI and to allow you to sync limited data between these systems.
 
 ![TaskTop-Sync-Mapping](images/TaskTop-Sync-Mapping-8-8.png "TaskTop-Sync-Mapping")  
+{ .post-img }
 **Figure: Configuring TaskTop Sync**
 
 - Team Foundation Server
@@ -87,6 +90,7 @@ I am however unsure how it supports Work Item Types as the only demos show mappi
 Scrat is specifically designed to move data easily from Quality Centre to Team Foundation Server. I have worked with this tool before and I have a number of customers that have used it to successfully migrate all of their data to TFS. It has been a while since I used it, but I found it to be a very easy to follow process even accounting for all of the mappings that you are asked to provide.
 
 ![](images/Scrat_04.jpg)  
+{ .post-img }
 **Figure: Scrat configuration**
 
 This is the only tool that I can confirm that is capable of moving Test Steps as part of the migration.
@@ -96,6 +100,7 @@ This is the only tool that I can confirm that is capable of moving Test Steps as
 HP themselves provide a synchronisation tool but there are many fields that they just can’t map. This tool was designed by HP to make sure that it was impossible to be used to “migrate” from HP to another system. This, if you think about it, makes perfect sense. It is however very free…
 
 ![image](images/image2-2-2.png "image")  
+{ .post-img }
 **Figure: Mapping TFS and HP entities**
 
 The tool supports a number of other ALM tools:

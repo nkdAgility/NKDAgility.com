@@ -46,9 +46,11 @@ All of our 52 developers are now up and running on TFS 2010 RC. Well…almost al
 
 1. If you get this error on the VS 2008 client after the upgrade, you should check whether you have KB74558 installed, if not you can [download it manually](http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=cf13ea45-d17b-4edc-8e6c-6c5b208ec54d) or [run diagnostics](http://www.ssw.com.au/ssw/Diagnostics/Default.aspx) to ensure your entire system is up to date.  
     ![clip_image002](images/UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image002_-5-5.jpg)  
+{ .post-img }
     Figure: Error TF31001 or TF253022, but why is that link not clickable.  
       
     ![clip_image001](images/UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image001_-4-4.jpg)  
+{ .post-img }
     Figure:  Check that you have the update so you can connect to TFS 2010 via “Help | About Microsoft Visual Studio” 
 
 I will be ironing out any other kinks tomorrow…
@@ -62,16 +64,19 @@ We were the [first company on Beta 2 in production](http://blog.hinshelwood.com/
 ## Need Help?
 
 ![www.SSW.com.au](images/GWB-5366-o_SSWLogo3-1-1.png)
+{ .post-img }
 
 [SSW](http://www.ssw.com.au) was the first company in the world outside of Microsoft to deploy Visual Studio 2010 Team Foundation Server to production, not [once](http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx), but [twice](http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx).
 
 ### Team Foundation Server
 
 ![Visual Studi2010 ALM](images/GWB-5366-o_vs2010logo3-2-2.png) SSW provides expert Visual Studio ALM guidance including [installation, configuration and customisation](http://www.ssw.com.au/ssw/Company/SourceControl.aspx) through our four Microsoft Visual Studio ALM MVP’s in three countries; Australia, Beijing and the UK. They have experience deploying to small development shops all the way through to large blue chips.
+{ .post-img }
 
 ### Professional Scrum Developer Training
 
 ![Professional Scrum Developer Training](images/PSD%20Announcement%20Graphic.jpg) SSW has six [Professional Scrum Developer Trainers](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.
+{ .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
 

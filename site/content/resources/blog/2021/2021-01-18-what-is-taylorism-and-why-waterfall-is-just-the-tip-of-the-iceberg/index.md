@@ -24,6 +24,7 @@ Reviewer(s): [Russell Miller PST](https://www.scrum.org/russell-miller)
 <figure>
 
 ![](images/naked-agility-with-martin-hinshelwood-iceberg-1280x475-10-11.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -38,6 +39,7 @@ What is Taylorism, and why Waterfall is just the tip of the iceberg!
 Prior to the industrial revolution, goods were made in small cottage industries and people worked close to their home. Customers were local, and both the producer and the consumer knew each other well. Mastery in ones chosen profession was paramount and rewards for the master craftsman were earned through increased money, or more time to pursue other interests.
 
 ![](images/r760277b192cbd4c9dda3a29a129065064804389101574249955-14-14.jpeg)
+{ .post-img }
 
 When the industrial revolution came along, massive mechanisation was needed to produce goods at scale. However the technology of the time was unable to automate at that scale, so the only available "machines" were people. When, in pursuit of higher production volumes, you take away from people their autonomy, mastery, and purpose in your pursuit, you take away their soul. When you take away the essential elements of rewarding work, people become mindless automatons.
 
@@ -52,6 +54,7 @@ Traditional management practices were born out of the disengagement of the workf
 <figure>
 
 ![](images/image-2.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -72,6 +75,7 @@ These two outcomes result in an erosion of trust between the workers and the com
 <figure>
 
 ![](images/image-3-1280x720-6-6.png)
+{ .post-img }
 
 <figcaption>
 
@@ -96,6 +100,7 @@ If you think about the school system in most countries, especially if you are ov
 <figure>
 
 ![](images/r525f7f3956e64cb0229735920abbb4a25787554907996000934-13-13.jpeg)
+{ .post-img }
 
 <figcaption>
 
@@ -112,6 +117,7 @@ The end result is that many people have been trained from an early age to be fac
 If you are lucky enough to work in one of the small numbers of companies that have already transitioned away from departments, hierarchies, headcount, work breakdown, best practices, and individual bonus systems then you are fortunate, or maybe selective.
 
 ![](images/2021-01-13_19-34-57-1280x635-1-1.png)
+{ .post-img }
 
 **Most people are not so lucky.**
 
@@ -128,6 +134,7 @@ Using the Scientific Management Method the Business Owners should identify each 
 <figure>
 
 ![](images/traditional-organizational-structure-n8250096988803624865-16-16.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -154,6 +161,7 @@ Microsoft also restructured how Sales personnel work so rather than it being one
 <figure>
 
 ![](images/image-1.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -186,6 +194,7 @@ Since there was a low variability in the work we could plan it all out beforehan
 <figure>
 
 ![](images/image-8-8-8.png)
+{ .post-img }
 
 <figcaption>
 
@@ -202,6 +211,7 @@ Although the work had changed, the belief in predictive planning prevailed. Ther
 <figure>
 
 ![](images/image-9-9-9.png)
+{ .post-img }
 
 <figcaption>
 
@@ -270,6 +280,7 @@ The idea that you need to dangle a carrot in front of the employees in order to 
 <figure>
 
 ![](images/image-10-3-3.png)
+{ .post-img }
 
 <figcaption>
 
@@ -296,6 +307,7 @@ There are three key areas that Leaders need to focus on that will increase the p
 <figure>
 
 ![](images/image-11-1280x602-4-4.png)
+{ .post-img }
 
 <figcaption>
 

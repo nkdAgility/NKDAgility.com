@@ -42,12 +42,15 @@ There are two official IIS7 rewrite engines that were recommended to me:
 You an install URL Rewrite from the “Web Platform Installer”, and it has very good integration and is easy to configure within IIS. This makes things a lot easier, but does it support 301 redirects?
 
 [![image](images/HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_2.png)   
+{ .post-img }
 Figure: Adds an option right into the IIS interface
 
 [![image](images/HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_4.png)  
+{ .post-img }
 Figure: You can easily add new rules through the integrated UI
 
 [![image](images/HelpmerewriteURLstokeepgooglerankings_9B6B-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HelpmerewriteURLstokeepgooglerankings_9B6B-image_6.png)   
+{ .post-img }
 Figure: UI supports 301 redirects, but it does not seam to have any way to load from a database.
 
 Without a way to load from the database there is no way it will solve the problem, and a quick Google shows that it does not support it. The closest it can get is using a key value pair mapping file, but with 30,000 entries I do not think that will perform well.

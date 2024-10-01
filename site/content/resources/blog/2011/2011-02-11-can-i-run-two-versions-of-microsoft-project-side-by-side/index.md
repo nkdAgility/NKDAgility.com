@@ -14,6 +14,7 @@ slug: "can-i-run-two-versions-of-microsoft-project-side-by-side"
 ---
 
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)
+{ .post-img }
 
 A number of out customers have asked if there are any problems in installing and running multiple versions of Microsoft Project on a single client. Although this is a case of Caveat utilitor (Let the user beware), as long as the user understands and accepts the issues that can occur then they can do this.
 
@@ -24,6 +25,7 @@ A number of out customers have asked if there are any problems in installing and
 Although Microsoft provide the ability to leave old versions of Office products (except Outlook) on your client when you are installing a new version of the product they certainly do not endorse doing so.
 
 [![image](images/Can_84C0-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_8.png)  
+{ .post-img }
 **Figure: For Project you can choose to keep the old stuff**
 
 That being the case I would have preferred that they put a “(NOT RECOMMENDED)” after the options to impart that knowledge to the rest of us, but they did not. The default and recommended behaviour is for the newer version installer to remove the older versions. Of course this does not apply in the revers. There are no forward compatibility packs for Office.
@@ -62,11 +64,13 @@ Note: I would not even allow multiple people to access a network copy of a Proje
 So what if you want to change the default association from Project 2007 to Project 2010?
 
 [![SNAGHTMLe20419](images/Can_84C0-SNAGHTMLe20419_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-SNAGHTMLe20419.png)  
+{ .post-img }
 **Figure: “Control Panel | Folder Options | Change the file associated with a file extension”**
 
 Windows normally only lists the last version installed for a particular extension. You can select a specific version by selecting the program you want to change and clicking “Change program… | Browse…” and then selecting the .exe you want to use on the file system.
 
 [![image](images/Can_84C0-image_thumb_4-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_10.png)  
+{ .post-img }
 **Figure: You will need to select the exact version of “winproj.exe” that you want to run**
 
 ### Conclusion

@@ -13,6 +13,7 @@ slug: "disqus-chrome-with-non-support"
 ---
 
 ![](images/disqus-logo-3-3.png)
+{ .post-img }
 
 I am having a problem on my blog with comments. Namely that you cant see any! This is the downside of relying on a third party tool, but do the problems out weight the benefits?
 
@@ -25,9 +26,11 @@ I am having a problem on my blog with comments. Namely that you cant see any! Th
 I am having problems with Disqus on Wordpress in Chrome; My comments don't load, and they do not load the first time in the admin system either. In the Admin system a reload of the page fixes the issue, but on the site, nada.
 
 [![image](images/image_thumb-4-4.png "image")](http://blog.hinshelwood.com/files/2011/07/image.png)  
+{ .post-img }
 **Figure: Even on short posts there are no comments**
 
 [![image](images/image_thumb1-5-5.png "image")](http://blog.hinshelwood.com/files/2011/07/image1.png)  
+{ .post-img }
 **Figure: No comment in admin until a reload**  
 [http://blog.hinshelwood.com](http://blog.hinshelwood.com/)
 
@@ -77,6 +80,7 @@ All pages as describes. Go to any single blog post page, but the one depicted in
 2. See problem that is demonstrated in this screenshot  
       
     [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/07/image2.png)  
+{ .post-img }
     **Figure: Same problem exists in this screenshot**
 
 > _\>>screenshots of any errors or irregularities in this process -- for more information on how to take a screenshot, visit [http://take-a-screenshot.org/](http://take-a-screenshot.org/)_
@@ -88,9 +92,11 @@ Original email bellow contained screenshots. See “Figure: Even on short posts 
 As you can see from the screenshots provided I am using Chrome. The problem does not resent itself in IE9.
 
 [![clip_image001](images/clip_image001_thumb-1-1.png "clip_image001")](http://blog.hinshelwood.com/files/2011/07/clip_image001.png)  
+{ .post-img }
 **Figure: The version of Chrome I currently use**
 
 [![clip_image002](images/clip_image002_thumb-2-2.png "clip_image002")](http://blog.hinshelwood.com/files/2011/07/clip_image002.png)  
+{ .post-img }
 **Figure: The version of IE that I use**
 
 Please do not hesitate to contact me if you have any further problems extracting information from an email or even new ones that are not answered here.

@@ -19,6 +19,7 @@ slug: "scrum-is-made-up-of-influencers-entrepreneurs-and-makers"
 In the empirical world, we have 3 key skill areas of accountability that are needed to effectively deliver products of the highest possible value! We need Influencers that can provide leadership and create environments within which groups of people can organise the work. I consider this the Leadership Track where you have Scrum Masters, Coaches, and CEO. We need Entrepreneurs who can have a vision and project knowledge and understanding of that vision to the people that need to make that vision happen. This is the Value Track and may be made up of Product Owners, Analysts, and Subject Matter Experts. Last we have the Makers who are the ones who do the work that brings the product to life. They are on the Technical Track and focus on turning the vision into a reality. They have many skills and may have coders, testers, and other experts...
 
 ![](images/image-4-1280x720-4-4.png)
+{ .post-img }
 
 To have a successful company we need all three tracks to exist in the correct balance!
 

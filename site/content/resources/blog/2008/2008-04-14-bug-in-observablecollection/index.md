@@ -37,6 +37,7 @@ For example, consider the following code:
 Now, if you create an instance of ItemBitCollection you will see an error on the IDE regardless of wither you use a custom object type or a String type to initialise it:
 
 [![image](images/BuginObservableCollection_9BAF-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-BuginObservableCollection_9BAF-image_2.png)
+{ .post-img }
 
 Why does this not work? What is ObservableCollection doing that maybe it should not? Time to get Reflector out...
 

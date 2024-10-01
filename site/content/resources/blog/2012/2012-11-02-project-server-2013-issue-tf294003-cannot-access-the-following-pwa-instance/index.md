@@ -26,6 +26,7 @@ slug: "project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instan
 When you try to call the binding command to map a Team Project Collection in Team Foundation Server 2012 to a Project Server 2013 Web Instance you can get a “TF294003” error.
 
 [![ TF294003: Cannot access the following PWA instance](images/image_thumb21-1-1.png " TF294003: Cannot access the following PWA instance")](http://blog.hinshelwood.com/files/2012/11/image21.png)  
+{ .post-img }
 **Figure: TF294003: Cannot access the following PWA instance**
 
 You get:
@@ -53,21 +54,26 @@ I was concentrating so much on making sure that the “BUILTINAdministrator” a
 In this case it was simple to change the service account for Team Foundation Server to be the “BUILTINAdministrator” account instead of the “NT AuthorityLocal Service”.
 
 [![image](images/image_thumb22-2-2.png "image")](http://blog.hinshelwood.com/files/2012/11/image22.png)  
+{ .post-img }
 **Figure: Changing the TFS Account is easy**
 
 As I change the account TFS will nicely go off and update everything else for me. Including the Farm Administrators group.
 
 [![image](images/image_thumb23-3-3.png "image")](http://blog.hinshelwood.com/files/2012/11/image23.png)  
+{ .post-img }
 **Figure: Updating the TFS Service Account everywhere**
 
 This got me to thinking that is I changes it back to “NT AuthorityLocal Service” it would do the same, and sure enough…
 
 [![image](images/image_thumb24-4-4.png "image")](http://blog.hinshelwood.com/files/2012/11/image24.png)  
+{ .post-img }
 **Figure: Local Service is now a Farm Administrator**
 
 I can almost hear generations of SharePoint administrator rolling over in their graves at this, but this is a demo box that I am using to prove out the technology and not a production setup ![Smile](images/wlEmoticon-smile1-7-7.png). You should always use a different Domain Account for every individual service in both TFS and SharePoint if it were…
+{ .post-img }
 
 [![The mapping of Collection to Project Server 2013 Instance now works](images/image_thumb25-5-5.png "The mapping of Collection to Project Server 2013 Instance now works")](http://blog.hinshelwood.com/files/2012/11/image25.png)  
+{ .post-img }
 **Figure: The mapping of Collection to Project Server 2013 Instance now works**
 
 This was a simple solution to a confusing problem…

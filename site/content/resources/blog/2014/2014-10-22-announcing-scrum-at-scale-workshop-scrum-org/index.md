@@ -32,6 +32,7 @@ These concepts are not new and [my father was using these techniques in business
 This is why Scrum.org (Ken Schwaber) & Scrum Inc. (Jeff Sutherland) have joined forces to provide the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) for those people who are responsible for change within their organisation. If you are leading the change within your organisation you could be a development manager, or coach, or just the someone with a vested interest in success.
 
 ![Scrum at Scale Workshop ](images/enterpriseandscrum-light-150x150-1-1.png)The [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) provides a baseline within which you can begin to implement that organisational change without floundering as others have. While the Professional Scrum Foundations is the first thing you need to level set your teams before you commence with a Scrum implementation, the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) is what you need to get started at the organisational level.
+{ .post-img }
 
 The first two ever public courses for Scrum at Scale is available: [https://www.scrum.org/courses/scrum-at-scale](https://www.scrum.org/courses/scrum-at-scale)
 

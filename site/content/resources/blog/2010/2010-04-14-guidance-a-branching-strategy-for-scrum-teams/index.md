@@ -26,6 +26,7 @@ slug: "guidance-a-branching-strategy-for-scrum-teams"
 ---
 
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!
+{ .post-img }
 
 This is one possible branching strategy for Scrum teams and I will not be going in depth with Scrum but you can find out more about Scrum by reading the [Scrum Guide](http://www.scrum.org/scrumguides/) and you can even assess your Scrum knowledge by having a go at the [Scrum Open Assessment](http://www.scrum.org/scrumopen/). You can also read SSW’s [Rules to Better Scrum using TFS](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx) which have been developed during our own Scrum implementations.
 
@@ -98,9 +99,11 @@ There are also a number of branching Anti-Patterns that should be avoided at all
 > \- [**Bill Heys**](http://blogs.msdn.com/billheys/), VS ALM Ranger & TFS Branching Lead, Microsoft_
 
 [![image](images/ABranchingstrategyfor_E931-image_thumb_18-15-15.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ABranchingstrategyfor_E931-image_38.png)  
+{ .post-img }
 **Figure: Main line, this is where your stable code lives and where any build has known entities, always passes and has a happy test that passes as well?**
 
 Many development projects consist of, a single “Main” line of source and artifacts. This is good; at least there is source control ![Smile](images/ABranchingstrategyfor_E931-wlEmoticon-smile_2-17-17.png). There are however a couple of issues that need to be considered.
+{ .post-img }
 
 What happens if:
 
@@ -116,6 +119,7 @@ That's a lot of “what if’s”, but there is a simple way of preventing this.
 
   
 ![image](images/ABranchingstrategyfor_E931-image_-4-9.png)
+{ .post-img }
 
 **Figure: Creating a single feature branch means you can isolate the development work on that branch.**
 
@@ -126,6 +130,7 @@ In the diagram above you can see my recommendation for branching when using Scru
 Note: In the real world, starting a new Greenfield project, this process starts at Sprint 2 as at the start of Sprint 1 you would not have artifacts in version control and no need for isolation.
 
  ![image](images/ABranchingstrategyfor_E931-image_-2-7.png)  
+{ .post-img }
 **Figure: Once the sprint is complete the Sprint 1 code can then be merged back into the Main line.**
 
 There are always good practices to follow, and one is to always do a Forward Integration from Main into Sprint 1 before you do a Reverse Integration from Sprint 1 back into Main. In this case it may seem superfluous, but this builds good muscle memory into your developer’s work ethic and means that no bad habits are learned that would interfere with additional Scrum Teams being added to the Product.
@@ -147,6 +152,7 @@ The process of completing your sprint development:
 But you are not yet done with the Sprint. The goal in Scrum is to have a “potentially shippable product” at the end of every Sprint, and we do not have that yet, we only have finished code.
 
  ![image](images/ABranchingstrategyfor_E931-image_-10-2.png)  
+{ .post-img }
 **Figure: With Sprint 1 merged you can create a Release branch and run your final packaging and testing**
 
 > _In 99% of all projects I have been involved in or watched, a “shippable product” only happens towards the end of the overall lifecycle, especially when sprints are short. The in-between releases are great demonstration releases, but not shippable. Perhaps it comes from my 80’s brain washing that we only ship when we reach the agreed quality and business feature bar.  
@@ -159,6 +165,7 @@ You can read about how to conduct a Test Please on our [Rules to Successful Proj
 - [Do you conduct an internal "test please" prior to releasing a version to a client?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#TestPlease "http://www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#TestPlease")
 
  ![image](images/ABranchingstrategyfor_E931-image_-7-12.png)  
+{ .post-img }
 **Figure: If you find a deviation from the expected result you fix it on the Release branch.**
 
 If during your final testing or your “Test Please” you find there are issues or bugs then you should fix them on the release branch. If you can’t fix them within the time box of your Sprint, then you will need to create a Bug and put it onto the backlog for prioritization by the Product owner. Make sure you leave plenty of time between your merge from the development branch to find and fix any problems that are uncovered.
@@ -168,6 +175,7 @@ This process is commonly called Stabilization and should always be conducted onc
 Note: Don't get forced by the business into adding features into a Release branch instead that indicates the unspoken requirement is that they are asking for a product spin-off. In this case you can create a new Team Project and branch from the required Release branch to create a new Main branch for that product. And you create a whole new backlog to work from.
 
  ![image](images/ABranchingstrategyfor_E931-image_-14-6.png)  
+{ .post-img }
 **Figure: When the Team decides it is happy with the product you can create a RTM branch.**
 
 Once you have fixed all the bugs you can, and added any you can’t to the Product Backlog, and you Team is happy with the result you can create a Release. This would consist of doing the final Build and Packaging it up ready for your Sprint Review meeting.
@@ -177,6 +185,7 @@ You would then create a read-only branch that represents the code you “shipped
 You could use a Label, but Labels are not Auditable and if a dispute was raised by the customer you can produce a verifiable version of the source code for an independent party to check. Rare I know, but you do not want to be at the wrong end of a legal battle. Like the Release branch the RTM branch should never be deleted, or only deleted according to your companies legal policy, which in the UK is usually 7 years.
 
  ![image](images/ABranchingstrategyfor_E931-image_-9-14.png)  
+{ .post-img }
 **Figure: If you have made any changes in the Release you will need to merge back up to Main in order to finalise the changes.**
 
 Nothing is really ever done done until it is in Main. (see common misconceptions of done [here](http://www.scrumalliance.org/articles/150-beware-of-the-evil--done) and [here](http://edgehopper.com/is-it-donedone-the-elusive-potentially-shippable-product-increment/)). You need to do a Reverse Integration merge from the Release Branch into Main to carry the bug fixes over into the next sprint.
@@ -198,6 +207,7 @@ Note: In order to really achieve protection for both you and your client you wou
 Bill’s comments are quite pertinent here as you may think it is a good idea to do another forward integration to bring new features from Main into an existing Release. You can do it, its not recommended, but be very very careful.
 
  ![image](images/ABranchingstrategyfor_E931-image_-3-8.png)  
+{ .post-img }
 **Figure: After the Sprint Planning meeting the process begins again.**
 
 Where the Sprint Review and Retrospective meetings mark the end of the Sprint, the Sprint Planning meeting marks the beginning. After you have completed your Sprint Planning and you know what you are trying to achieve in Sprint 2 you can create your new Branch to develop in.
@@ -230,6 +240,7 @@ The Product Owner and the Team have four choices (in order of disruption/cost):
 The choice will depend on the complexity and severity of the bug(s) and both the Product Owner and the Team need to agree. In this case we will go with option #2 or #3 as they are uncomplicated but severe bugs.
 
 ![image](images/ABranchingstrategyfor_E931-image_-6-11.png)
+{ .post-img }
 
 **Figure: Real world issue where a bug needs fixed in the current release.**
 
@@ -244,11 +255,13 @@ You can read about how to conduct a Test Please on our [Rules to Successful Proj
  
 
  ![image](images/ABranchingstrategyfor_E931-image_-8-13.png)  
+{ .post-img }
 **Figure: After you have fixed the bug you need to ship again.**
 
 You then need to again create an RTM branch to hold the version of the code you released in escrow.
 
  ![image](images/ABranchingstrategyfor_E931-image_-1-1.png)  
+{ .post-img }
 **Figure: Main is now out of sync with your Release.**
 
 We now need to get these new changes back up into the Main branch. Do a reverse and then forward merge again to get the new code into Main. But what about the branch, are developers not working on Sprint 2? Does Sprint 2 now have changes that are not in Main and Main now have changes that are not in Sprint 2? Well, yes… and this is part of the hit you take doing branching. But would this scenario even have been possible without branching?
@@ -257,6 +270,7 @@ We now need to get these new changes back up into the Main branch. Do a reverse 
  
 
  ![image](images/ABranchingstrategyfor_E931-image_-11-3.png)  
+{ .post-img }
 **Figure: Getting the changes in Main into Sprint 2 is very important.**
 
 The Team now needs to do a Forward Integration merge into their Sprint and resolve any conflicts that occur. Maybe the bug has already been fixed in Sprint 2, maybe the bug no longer exists! This needs to be identified and resolved by the developers before they continue to get further out of Sync with Main.
@@ -264,11 +278,13 @@ The Team now needs to do a Forward Integration merge into their Sprint and resol
 Note: Avoid the “[Big bang merge](http://msdn.microsoft.com/en-us/library/aa730834(VS.80).aspx#branchandmerge_antipatterns)” at all costs.
 
  ![image](images/ABranchingstrategyfor_E931-image_-13-5.png)  
+{ .post-img }
 **Figure: Merging Sprint 2 back into Main, the Forward Integration, and R0 terminates.**
 
 Sprint 2 now merges (Reverse Integration) back into Main following the procedures we have already established.
 
  ![image](images/ABranchingstrategyfor_E931-image_-12-4.png)  
+{ .post-img }
 **Figure: The logical conclusion.**
 
 This then allows the creation of the next release.

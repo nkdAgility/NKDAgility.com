@@ -13,6 +13,7 @@ slug: "kaiden-and-the-arachnoid-cyst"
 Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.com/archive/2009/02/14/the-delivery-mk-ii.aspx) I posted pictures of him and his sister. Kaiden is now 15 months old and is progressing perfectly in every area except that we had been worried that he was not walking yet. We were only really concerned because his sister was walking at 8 months.
 
 ![image](images/ThetroublewithKaidensbignoggin_E971-image_-2-2.png)![image](images/ThetroublewithKaidensbignoggin_E971-image_-3-3.png)
+{ .post-img }
 
 **Figure: Kai as his usual self**
 

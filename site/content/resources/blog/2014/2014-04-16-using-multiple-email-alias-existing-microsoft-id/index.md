@@ -24,10 +24,12 @@ There is however hope. Microsoft added the ability to have multiple aliases to a
 In order to add an additional email you need to head over to [http://account.live.com](http://account.live.com) and select Account Aliases.
 
 ![](images/041614_1219_Usingmultip1-1-1.png)
+{ .post-img }
 
 Here you can scroll down to the bottom and click 'Add alias' to add a new one. I am not sure if there is a limit to what you can have here but I have nine already so the limit would be fairly large.
 
 ![](images/041614_1219_Usingmultip2-2-2.png)
+{ .post-img }
 
 You can select to create a new email address on 'outlook.com' to add to your list. In this case I am taking the other option to add an existing email address.
 
@@ -36,14 +38,17 @@ You can select to create a new email address on 'outlook.com' to add to your lis
 Although you can log in with any of the email addresses that you have defined as aliases you may want to change the default. My default, since this account was been created, was always on my @hinshelwood.com domain. It has been more than 15 years since I used a Hotmail address but you can use the same method here with those accounts as well.
 
 ![](images/041614_1219_Usingmultip3-3-3.png)
+{ .post-img }
 
 We first need to head back to [http://account.live.com](http://account.live.com) where we go and see the list of aliases available. You will note a 'make primary' beside all but your default aliases listed. I want to make my @nakedalm.com email the default for display as that is the one that I use most often now.
 
 ![](images/041614_1219_Usingmultip4-4-4.png)
+{ .post-img }
 
 Because this could be a fairly traumatic process you will need to confirm that this is what you want. For all of your services that are liked to live your display name may change.
 
 ![](images/041614_1219_Usingmultip5-5-5.png)
+{ .post-img }
 
 Once you have accepted the change you should see a message stating that it may take 48 hours to be reflected across all of your services. Remember that this will affect MSDN, VSO, Xbox, Windows Phone, and Windows to name but a few of the services that you use Microsoft ID (formally Live ID) with.
 
@@ -52,6 +57,7 @@ Once you have accepted the change you should see a message stating that it may t
 If you need you can close the love account that you are using. In this case I had previously created an account for a company that had provided me an email address. You will need to 'close account' before you can reuse that email.
 
 ![](images/041614_1219_Usingmultip6-6-6.png)
+{ .post-img }
 
 I have not determined how long it takes to 'close account' but so far I can't reuse the email after 3 days. I raised a support question when I could not reuse it immediately and was told that there is a 90 day cooling off period when deleting an account.
 

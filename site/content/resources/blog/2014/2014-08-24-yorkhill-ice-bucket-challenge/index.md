@@ -17,16 +17,19 @@ Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als
 This ALS Ice Bucket Challenge has been around for a few weeks now it has been hugely successful for ALS. This is a good thing and I that it can benefit other charities as well. In 2010 [my son Kaiden had to have brain surgery](http://kaiden.hinshelwood.com/2010/07/operation.html). He had an arachnoid cyst that was blocking the drainage of fluid from his brain. This was effectively like a blocked sink, causing hydrocephalus, or 'water on the brain'.
 
 ![kaiden-hinshelwood-arachnoid-cyst-hydrocephalus](images/kaiden-hinshelwood-arachnoid-cyst-hydrocephalus-794x450-3-4.png)
+{ .post-img }
 
 He was treated at the Southern General Hospital until we moved to the USA, then Seattle Children's Hospital for a few years, and now Yorkhill Children's Hospital in our home town of Glasgow in Scotland. Yorkhill is taking care of him now and I will be giving to the [Yorkhill Children's Charity](http://www.yorkhill.org/). So I guess it’s the **Yorkhill Ice Bucket Challenge**.
 
 I am currently onsite in Norway with no transport and had to go on a mission to find some Ice. So I donned my running gear and sped down to the local supermarket. You would think that in Norway of all places there would be a ready supply of ice in stock...
 
 ![clip_image001](images/clip-image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 ... So with no Ice in Norway I decided that it would be best to do it at home on Saturday instead. Although I work in London, Oslo, Utrecht, and Athens during the week I always make sure that I am home for as many weekends as I can with my kids. Eva and Kai are awesome and I though that they would really enjoy poring ice over daddy.
 
 ![clip_image002](images/clip-image002-2-2.jpg "clip_image002")
+{ .post-img }
 
 We went on a mission to find ice and to my surprise many of then shops were all out. Apparently there are a few folks doing Ice Bucket challenges. ASDA and Tesco were both out so I headed to the more snobby (and thus less likely to be dry) Sainsbury's where we indeed found some ice. Wohoo...
 

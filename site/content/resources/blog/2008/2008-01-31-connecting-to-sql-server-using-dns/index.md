@@ -31,7 +31,9 @@ You will know that you need to do this if all of the below is true:
 5. You can connect to the SQL server using the spdata.ep-dev.\[domain\].biz with SQL Server Authentication.
 
 [![image](images/ConnectingtoSQLServerusingDNS_B317-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_4.png)[![image](images/ConnectingtoSQLServerusingDNS_B317-image_thumb_3-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_8.png)  [![image](images/ConnectingtoSQLServerusingDNS_B317-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_2.png)  [![image](images/ConnectingtoSQLServerusingDNS_B317-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_6.png)  
+{ .post-img }
 [![image](images/ConnectingtoSQLServerusingDNS_B317-image_thumb_5-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingtoSQLServerusingDNS_B317-image_12.png)
+{ .post-img }
 
 You can get he setspn tool from the Windows Server 2003 Admin Pack.
 
@@ -49,6 +51,7 @@ Use it to see what SPN's already exist and to see how you can utilise them. For 
 this information helped me identify that the first two "MSSQLSvc" spn's would need to be added to this server. You can add SPN's to accounts as well, but if you only need to access a single server then adding it to an account is a little overkill and probably a security risk.
 
 I'm off to make a request for infrastructure to run this...![smile_speedy](images/smile_speedy-7-7.gif)
+{ .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
 

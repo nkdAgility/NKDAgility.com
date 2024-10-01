@@ -20,6 +20,7 @@ In light of the [new normal](https://nkdagility.com/blog/live-virtual-classrooms
 <figure>
 
 ![](images/image-21-3-3.png)
+{ .post-img }
 
 <figcaption>
 
@@ -42,6 +43,7 @@ The idea behind co-location is that with 80% of communication being non-verbal w
 <figure>
 
 ![](images/image-22-960x720-4-5.png)
+{ .post-img }
 
 <figcaption>
 
@@ -62,6 +64,7 @@ When we are driving we have a learned understanding of driver intent that is bui
 <figure>
 
 ![](images/image-23-6-6.png)
+{ .post-img }
 
 <figcaption>
 
@@ -107,6 +110,7 @@ This definition encompasses both in-person and virtual events as long as we can 
 <figure>
 
 ![](images/image-20-1280x698-1-1.png)
+{ .post-img }
 
 <figcaption>
 
@@ -130,6 +134,7 @@ For any online event, you should be just as present as you would be in person, a
 <figure>
 
 ![](images/image-24-1109x720-7-7.png)
+{ .post-img }
 
 <figcaption>
 
@@ -146,6 +151,7 @@ These are all questions that can be easily answered by enabling the visual prese
 <figure>
 
 ![](images/image-25-9-9.png)
+{ .post-img }
 
 <figcaption>
 

@@ -42,6 +42,7 @@ A general rule of thumb: If there are shared resources (with resources defined a
 The first solution is to create a larger Team Project that contains many Application as well as Teams. In Team Foundation Server 2012 we can create multiple 'Teams' within a single Team Project to compartmentalize the work. As the 'Team' entity is built upon the security principles we can also use this to secure our application code and work items to one or more 'Teams'.
 
 ![image](images/image-2-2.png "image")  
+{ .post-img }
 Figure: Using area path to represent products in Team Foundation Server
 
 As there is a single Version Control repository in TFS for all Team Projects there is little change to the existing multiple Team Project functionality and we can use Area Paths mirrored with Source Control folders to identify Applications within the system.
@@ -53,16 +54,19 @@ As Area Path is a Dimension within the data Warehouse and cube we can using it t
 By default Team Foundation Server provides two dimensions for categorising work and representing it on backlogs. Iteration Path, which is for the teams cadence, and Area Path that is for categorizing work. For this division we need an additional dimension and this can be provided with Team Field.
 
 ![clip_image002](images/clip_image0021-1-1.png "clip_image002")  
+{ .post-img }
 Figure: Using team field as a third dimension in Team Foundation Server
 
 Team Field adds the ability to have a separate list for team and frees up Area Path, used for Team by default, for a much-needed Product breakdown as described above.
 
 ![image](images/image1-3-3.png "image")  
+{ .post-img }
 Figure: Using team field to represent teams in Team Foundation Server
 
 With Team Field in use to designate which 'backlog' items appear on we can create both a single team that owns many Applications and have multiple teams that own a single application. In addition if we want to create a roll up to a Product Owner that perhaps has many teams that work on one or more applications we can also represent that.
 
 ![SNAGHTML6934f7d](images/SNAGHTML6934f7d-5-5.png "SNAGHTML6934f7d")  
+{ .post-img }
 Figure: Using team field to create virtual team groupings
 
 This can be used to create many levels however it does become a management nightmare the more levels that are added.

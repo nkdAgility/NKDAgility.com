@@ -20,10 +20,12 @@ slug: "find-mappings-states-defined-test-suit-work-item-type"
 After upgrading to TFS 2013.3 you get some reports of errors in MTM from your users. Specifically they get a "Could not find mappings for all states defined in 'Test Suit' work item type" error when connecting. I have also seen "TF400860: TestManagement: Version 19, MinVersion: 19" in some cases in the web access.
 
 ![clip_image001](images/clip-image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 This should only happen if you have customised the Test Suit or Test Plan work items but as they have just been created by the upgrade process it is a little confusing as to why it does not work.
 
 ![clip_image002](images/clip-image0025-2-2.png "clip_image002")
+{ .post-img }
 
 You might additionally find a similar error when trying to edit a Lab Template as it also queries the Test Data.
 

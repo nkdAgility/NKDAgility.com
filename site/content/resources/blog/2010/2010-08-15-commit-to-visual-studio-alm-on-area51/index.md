@@ -26,6 +26,7 @@ slug: "commit-to-visual-studio-alm-on-area51"
 ---
 
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)
+{ .post-img }
 
 A few weeks ago I proposed a new community for StackExchange and it has been growing at an exponential rate. We are about half way there, but we need **your** help to make this community a success.
 
@@ -42,6 +43,7 @@ If you are not familiar with StackExchange, it has a community driven voting sys
 Thanks everyone for your efforts and excellent questions. Although we suffered a little from question overload at the Proposal stage I think this is a good omen for the future beta.
 
 [![clip_image002](images/VisualStudioALMonArea51_98A3-clip_image002_-2-2.jpg)](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2)
+{ .post-img }
 
 We are now in the Commitment stage and need a score of 2000 user points (which gets us to 100%) to proceed to the Beta. This is apparently calculated based on a user’s reputation:
 
@@ -65,6 +67,7 @@ So if you are interested in Visual Studio ALM or any of its features, be sure to
 We have now reached 1 of the three milestones required to get the site to the “commit” stage.
 
 ![image](images/VisualStudioALMonArea51_98A3-image_-4-4.png)  
+{ .post-img }
 **Figure: We have enough followers but not enough votes**
 
 We now have question overload and need to concentrate on getting those top 5 On Topic and 5 Off Topic questions to have 20 votes each.

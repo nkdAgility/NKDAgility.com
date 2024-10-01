@@ -14,6 +14,7 @@ slug: "syncing-many-dynamics-ax-instances-to-a-single-tfs-2010-team-project"
 ---
 
 ![](images/c51bf204-d93f-4485-9873-88fd0e8f4659.png)I have been working with a customer who had been frustrated with the need to have new Team Project for every instance of AX that they use. In fact with 3 instances per customer and lots of customers it can very quickly get complicated and I wanted to see if there was a solution for them.  
+{ .post-img }
 
 * * *
 
@@ -32,9 +33,11 @@ On your AX server you will need to install the following components:
 Once you have these products installed you can quite happily store the source code for AX Dynamics in TFS 2010 by linking between an AX instance and a Team Project.
 
 ![image](images/849aa7d71ae4_C9AF-image_-6-6.png)  
+{ .post-img }
 **Figure: Select the TFS server and the local workspace path that is bound to you TFS Team Project**
 
 ![image](images/849aa7d71ae4_C9AF-image_-3-3.png)  
+{ .post-img }
 **Figure: Set the Server name and the Team Project name**
 
 This gets you started, but if you are a consultancy that has many clients and you have the usual Development, Testing and Production instances of AX for each client you can see how this could quickly become difficult to manage on TFS. If you had 10 clients this would leave you with 30 team projects all linked to different instances of TFS with separate work item queues.
@@ -44,6 +47,7 @@ The first things you would need to have done is have a good naming strategy for 
 One option to mitigate the work item problem would be to have a single team project for the work items for all of your project. You can categorise them using the “Area” tree and only have AX store the source in the individual Team Projects
 
 ![image](images/849aa7d71ae4_C9AF-image_-5-5.png)  
+{ .post-img }
 **Figure: Using Area to categorise your work items in a single Team Project**
 
 This works pretty well, but still leaves you with 30 odd Team Projects to manage including your single work item repository project.
@@ -59,11 +63,13 @@ There are actually a few ways to configure this, including the way described in 
 Options #2 and #3 are setup in the same way, so I am only going to discuss #3 as it conforms to me previous guidance on [when should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010](http://blog.hinshelwood.com/hinshelm/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx).
 
 ![image](images/849aa7d71ae4_C9AF-image_-1-1.png)  
+{ .post-img }
 **Figure: Ideally map to sub folders**
 
 Laying out your source in this way allows you to have a single Team Project to manage while keeping each of your Products/Customers separate. it also means that you can easily merge features from a Feature branch into Main and from there create new Release branches that go to the customer.
 
 ![image](images/849aa7d71ae4_C9AF-image_-4-4.png)  
+{ .post-img }
 **Figure: Main Branch hierarchy should be replicated for each customer**
 
 Tip: If you are only ever going to have one Feature branch that you continue to work in then you could call it “Current” instead of a feature name.
@@ -71,11 +77,13 @@ Tip: If you are only ever going to have one Feature branch that you continue to 
 Lets go back to one of the setting windows for AX 2009.
 
 ![image](images/849aa7d71ae4_C9AF-image_-2-2.png)  
+{ .post-img }
 **Figure: The Repository folder links to a TFS Mapped folder locally**
 
 AX saves a copy of the customisations in a fixed structure to the path specified in the “Repository folder” textbox. This folder is mapped to TFS and it syncs with that mapping.
 
 ![SNAGHTML990c33](images/849aa7d71ae4_C9AF-SNAGHTML990c33-7-7.png)  
+{ .post-img }
 **Figure: Cheating AX into mapping to a specific folder**
 
 In this case if you change the “Repository folder” value to be “c:WorkspacesNorthwindProduct1Feature1” then AX will sync with the correct folder and you have no need to have separate team projects for each instance.

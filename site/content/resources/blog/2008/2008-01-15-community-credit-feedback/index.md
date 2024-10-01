@@ -47,6 +47,7 @@ My Suggestions:
     If, like me, you are a moderator for credits (not the discussion boards) then there should be a points system for it. it should be based on how much work is involved in moderating the submission.
     
     Maybe a good way would be to give the moderator 10% of the points awarded to the user ![Smile](images/emotion-1.gif). This would certainly make me happy.
+{ .post-img }
     
     Articles are especially difficult to moderate as you need to search the web for similar titles and correlate dates.
     
@@ -60,6 +61,7 @@ My Suggestions:
     
 
 That's all I can think of just now, but I may be back ![smile_regular](images/smile_regular-2-2.gif) 
+{ .post-img }
 
 **If you have any comments on these topics can you please use the title links to get to the forum and post them there...**
 

@@ -23,6 +23,7 @@ As we dive deeper into this subject, it’s vital to recognize the significance 
 <figure>
 
 [![No alt text provided for this image](https://media.licdn.com/dms/image/D4E12AQGhRSjX-1LpxA/article-inline_image-shrink_1500_2232/0/1687358856177?e=1692835200&v=beta&t=kIwD0zG9AHgaTekSY1aV6ngXWGeQh3n1pz6W-LYDzEA)](https://nkdagility.com/training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/)
+{ .post-img }
 
 <figcaption>
 
@@ -41,6 +42,7 @@ One of the activities that happen during refinement is sizing. Sizing involves u
 Now, with a well-ordered and refined Product Backlog in place, we pave the way for a continuous orienteering process. This is where the real magic happens. It enables the team to set their sights on the next tactical objective consistently, often called a Sprint Goal. This, in turn, guides them towards the intermediate strategic aim, the Product Goal, and eventually, the overarching strategic goal or vision.
 
 [![No alt text provided for this image](https://media.licdn.com/dms/image/D4E12AQH2Q7W_4PcFqg/article-inline_image-shrink_1000_1488/0/1687360102712?e=1692835200&v=beta&t=Fp77tTqOSeSgE9YCt5M05X8ht5cKZ8uytpABgav35Rw)](https://nkdagility.com/training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/)
+{ .post-img }
 
 The delineation of goals can be articulated in many ways, while you can choose your own OKRs (Objectives and Key Results) are quite popular and add value if used well. If used poorly they can be a significant impediment to value delivery. The value of OKRs lies in aligning objective data points of critical results with the subjective outcome of the objective. It’s essential to remember that while data and OKRs offer guidance, they are not constraints. The paramount focus should always be on the outcomes that furnish greater value to the customer.
 

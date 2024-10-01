@@ -14,6 +14,7 @@ I ran into a small problem with the tfs admin tool.
 When you add a user to a project as "Contributer" then it adds only "Publisher" to the reporting services permissions.
 
 ![](images/r_TFSAdminRSPermissionsIssue.JPG)
+{ .post-img }
 
 This is in fact wrong and should also add "Reader" otherwise you get lots of emails from users who can't view the reports!
 

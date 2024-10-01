@@ -29,6 +29,7 @@ I am not going to go into all of her code which she has available for download, 
 The functionality available allows you to drag a piece of data from one ItemsControl to another of the same data type or to reorder within itself. It provides for a floating template for the dragging item and a visual cue for the drop location.
 
 ![InsertionAdorner](images/WpfDragDropbehaviour_E187-InsertionAdorner_3-4-6.png)
+{ .post-img }
 
 I wanted to augment this to allow for other scenarios while keeping as much functionality as possible.
 
@@ -45,6 +46,7 @@ Dislikes:
 My version lets you inject additional functionality at runtime. The adjusted class diagram shows the relationships, but we only really use the DragDropBehaviour class
 
 ![image](images/WpfDragDropbehaviour_E187-image_8-3-5.png) 
+{ .post-img }
 
 You can still use the standard options:
 
@@ -78,6 +80,7 @@ But I have added another bindable option of DropProcessor that allows you to ove
 In this example I have created a little gun shop called “Nutters R’ Us” where you can buy weapons and ordinance. You can see that there is an area for weapons, and area for ordinance and an area for your selected purchases.
 
 ![image](images/WpfDragDropbehaviour_E187-image_7-2-4.png)
+{ .post-img }
 
 I have added a custom DropProcessor only to the Checkout area that only applies when you drop items of type “OrdinanceViewModel”
 
@@ -126,6 +129,7 @@ End Class
 ```
 
 ![image](images/WpfDragDropbehaviour_E187-image_11-1-3.png)
+{ .post-img }
 
 This class inherits from the base class “DropProcessor” that provides the same functionality as the original article, but I have
 
@@ -134,6 +138,7 @@ overridden couple of methods. The first, “GetDropAdorner” test to make sure 
 The diagram for the demo app is a little large, but you can see how much I still suck at MVVM, and although I have learned a lot doing this demo, I am still tempted to share ViewModels… but that is a bad habit.
 
  ![image](images/WpfDragDropbehaviour_E187-image_-6-2.png)
+{ .post-img }
 
 I have highlighted the two main classes, and we have already discussed the CheckoutDropProcessor. This allows you the flexibility to augment your drop scenarios without all of your developers having to get too deep in the guts on the behaviour, thus leaving them plenty of time for the real work of actually building something useful.
 

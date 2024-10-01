@@ -31,26 +31,31 @@ Updating these boxes should be trivial, and you know that I like to make sure th
 Although KB2919355 contains the real meat at over 700mb and with most of the other updates are described as 'feature updates' you may or may not need to install KB2919442. KB2919355 can take a while to install and on my Surface 2 Pro it took around 30 minutes. On my Domain Controller only around 20 minutes.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")  
+{ .post-img }
 Figure: More than one update needs to be applied
 
 Although all of my Windows 8.1 systems already had KB2919442 installed I did need it run it on all of my Windows Servers. You should run each update in the order listed above.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")  
+{ .post-img }
 Figure: Each update can take some time to complete
 
 Each update takes various lengths of time to complete and I did notice that the times were pretty consistent with the physical size of the update. It’s a little annoying, and time consuming, to have to run each update manually and there really should be an installer for this. However it may not be worth It for the team to take the time when there updates will be going out to general release over Windows Update next Tuesday.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")  
+{ .post-img }
 Figure: If asked to restart then ignore
 
 All of the updates (except KB2919442) requested a restart at the end of each install. I ignored this and relied on the update to decide if the pending restart required to be actioned before proceeding. All of the updates installed in one go with no required reboots in between. That has been true on all of my systems, Windows 8.1 (x64), Windows 8.1 (ARM), and Windows Server 2012 R2.
 
 ![image](images/image-4-4.png "image")  
+{ .post-img }
 Figure: Final reboot can take some time
 
 After you have completed all of the updates restart your server and wait for a while… it may reboot a couple of times, however eventually it will be back. Took my VM’s around 3-5 minutes to reboot and configure the updates…
 
 ![image](images/image1-5-5.png "image")  
+{ .post-img }
 Figure: Windows Server 2012 R2 Update 1
 
 Not only did all of the updates install with no issues, all of the machines came back up and all services (those I changes anyway) are functional. Now that I have my Domain Controller and Team Foundation Server upgraded to Windows Server 2012 R2 Update 1 I can continue to updating TFS to Visual Studio Team Foundation Server 2013 Update 2 which was also released yesterday.

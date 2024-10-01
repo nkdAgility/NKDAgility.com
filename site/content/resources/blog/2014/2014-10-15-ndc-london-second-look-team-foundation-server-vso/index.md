@@ -24,10 +24,12 @@ slug: "ndc-london-second-look-team-foundation-server-vso"
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.
 
 [![martin-hinshelwood-ndc-london-2014-tfs-vso](images/martin-hinshelwood-ndc-london-2014-tfs-vso-800x450-5-6.png)](http://www.ndcvideos.com/#/app/video/2641)
+{ .post-img }
 
 My session, Second Look, Team Foundation Server & VSO, will be aimed at those folks that have previously tried TFS and found it lacking. Most of those folks previously used a version of TFS prior to TFS 2012 where things started to get really interesting. Indeed if you are building an application using the Microsoft stack there is no better ALM platform.
 
 ![1030_image_thumb_0AF311DD](images/1030-image-thumb-0AF311DD-1-1.png "1030_image_thumb_0AF311DD")
+{ .post-img }
 
 The main reason that IBM scores a little higher on completeness is that they have better support for other platforms but at a loss of features for any specific one. While Visual Studio ALM has good support for any platform, the support for the Microsoft stack is second to none.
 
@@ -44,6 +46,7 @@ Wana see this session? Sign up for a ticket at: [http://ndc-london.com](http://n
 So it's going to have to be 45+ minutes Demo, and I have two options. I can do everything in my local demo box, and that will be the backup scenario, or I can go Azure crazy. Between now and NDC London I will be blogging on setting up and configuring continuous everything with VSO and Azure. What do I mean by continuous everything?
 
 [![clip_image002](images/clip-image002-thumb-3-3.png "clip_image002")](http://nkdagility.com/wp-content/uploads/2014/10/clip-image0025-4-4.png)
+{ .post-img }
 
 Well, I want the full lifecycle with Azure Active Directory integration driving authentication and collaboration with Azure, Visual Studio Online, and Office 365. This would be a huge demo if I stopped to explain all the features along the way, so I am not going to. The audience at NDC is very smart and this is going to be a level 400 high-speed walkthrough of the core features added to TFS since 2012.
 

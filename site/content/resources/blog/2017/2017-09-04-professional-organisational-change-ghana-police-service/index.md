@@ -44,16 +44,19 @@ The question has always been, how do you adopt Scrum & Organisational Transforma
 I should not need to tell you that in order to effect lasting change in an organisation you need a [framework and not a methodology](https://nkdagility.com/organisational-change-create-path/). Since every organisation has its own way of doing things (unique people, processes, & practices) that reflect in a unique culture, why would someone else's blueprint work for you. You need a framework (much like constructing anything physical) around which you can build your custom methodology. The Agility Path Guide introduces a framework, based on Scrum, to effect Professional Organisational Change. This framework can be used to productively and creatively deliver organisational change of the highest possible value.
 
 ![](images/nkdagility-akaditi-ghana-police-scrum-change-team-800x369-5-6.png)
+{ .post-img }
 
 We need the framework, and not a methodology, because every team, group, and department within an organisation is different. Accepting that difference, this framework helps us make sure that we are all at least playing the same game from the start. If everything is open to change we can easily end up in chaos or stagnation. Just like Scrum the Professional Organisational Change framework is closed for modification, but open to extension.
 
 ![](images/nkdagility-akaditi-ghana-police-scrum-board-800x450-3-4.jpg)
+{ .post-img }
 
 One such awesome extension that I have seen used to great effect in both software and non-software endeavours is the Kanban board. It provides both transparency and at-a-glance status to what is going on. While this is the board from the Organisational Transformation office the Inspector General of Police has both a Kanban and a Scrum board in his 'war room' which is what his change team and visitors gather around to discuss strategy and what comes next. While we maintain the core framework to enshrine empiricism in our process many parts of the organisation will extend that framework in creating and unique ways to help them solve their independent individuals problems.
 
 As you can imagine the Ghana Police Service is very hierarchical and relies heavily on rank to get things done. It has not had significant change in nearly 60 years, and they are still following the old ways. Command and control is the way things are done, and it is no longer working. The education level of officers has changed a lot in 60 years. By way of example the two Professional Scrum Foundations classes I ran for them this week had more MBA's, psychology, and other degrees than the same class in Europe or the US. There has been a big push, some say too much, on academic credentials, but it means that the workforce has changed. Command and control, that was designed for an uneducated work force will no longer be effective, and indeed works to erode moral. Command and control is a fallacy in the modern world and an enigma born of Taylorism and ignorance from a lost time.
 
 ![](images/nkdagility-akaditi-ghana-police-napolion-702x450-1-2.jpg)
+{ .post-img }
 
 Hell, the military realised that command and control was a losing strategy when Napoleon defeated the Persian army 300 years ago. The Ghana Police Service is certainly not the last to realise it as many European and US companies still try to use Command and Control in this way.
 

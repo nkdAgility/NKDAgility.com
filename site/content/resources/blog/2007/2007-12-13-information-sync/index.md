@@ -13,6 +13,7 @@ slug: "information-sync"
 ---
 
 [![image](images/InformationSync_1CD-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_8.png)
+{ .post-img }
 
 Over the past year of using the [Windows Mobile Device Center](http://www.microsoft.com/windowsmobile/devicecenter.mspx) on Vista as well as [ActiveSync 4.5](http://www.microsoft.com/windowsmobile/activesync/default.mspx) I have become increasingly disillusioned with them both and searching for another tool that would do the job better.
 
@@ -27,12 +28,14 @@ I have found that it has become increasingly difficult to connect my mobile to t
 I even went through a phase of installing [Exchange 2003](http://en.wikipedia.org/wiki/Microsoft_Exchange_Server) and [Active Directory](http://en.wikipedia.org/wiki/Active_Directory) on my server just to use [Exchange ActiveSync](http://technet.microsoft.com/en-us/library/aa998357.aspx)...Which is cool, and useful.. But not really worth the overhead of managing it at home.
 
 [![image](images/InformationSync_1CD-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_6.png)
+{ .post-img }
 
 I wanted to go further and have my contacts update their own information. So I started using [LinkedIn](http://www.linkedin.com/in/martinhinshelwood) as a contact repository, and using the [LinkedIn Outlook toolbar](http://www.linkedin.com/static?key=outlook_toolbar_download&trk=ftr_otb) I had a lot of success. I have used [LinkedIn](http://www.linkedin.com/in/martinhinshelwood) for this purpose for a couple of years now, but I am now finding that I have a multitude of these collaboration sites under my belt, and I really need a tool that sync's with all my online tools and my offline ones.
 
 ## A better way
 
 [![image](images/InformationSync_1CD-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_2.png) And so this leads me to [Plaxo](http://www.plaxo.com). This is by far and away the best tool I have come across. It's so good, I even paid the subscription fee to get the extra features like Mobile Sync, contact backup and others. _And you know that is not like me :)_
+{ .post-img }
 
 [Plaxo](http://www.plaxo.com) has this marvelous tool called the "De-duper". Can you imagine what it does :). And I will tell you something, I went from 1250 ish contacts to 920 without even breaking a sweat...
 
@@ -43,6 +46,7 @@ And what does [Plaxo](http://www.plaxo.com) do for me...
 ### **Contacts**
 
 [![image](images/InformationSync_1CD-image_thumb_5-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_12.png)
+{ .post-img }
 
 Plaxo provides a single point of truth for all my contacts. I can have an email sent to any of my contacts to get them to update their details, and they do not even need to be members of Plaxo to do this :).
 
@@ -57,6 +61,7 @@ I get a very nice little profile ([http://martinhinshelwood.myplaxo.com](http://
 ### Calendar
 
 [![image](images/InformationSync_1CD-image_thumb_6-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_14.png)
+{ .post-img }
 
 I have two calendars setup on Plaxo that overlay. One for my personal and one for my Office calendar items. Both calendars applier in both my Outlook's and as I am using 2007 I can overlay them if I want to.
 

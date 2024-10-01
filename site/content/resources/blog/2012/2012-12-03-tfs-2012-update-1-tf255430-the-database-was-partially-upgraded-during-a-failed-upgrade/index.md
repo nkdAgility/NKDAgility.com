@@ -27,6 +27,7 @@ slug: "tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-f
 You get an error while upgrading Team Foundation Server 2012 to Update 1 with a “TF254027: You must correct all errors before you continue”, “TF255375: the configuration database that you specified cannot be used” and a “TF255430: the database was partially upgraded during a failed upgrade”.
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 **Figure: TF255375 and TF255430 configuration database cannot be used due to a failed upgrade**
 
 The result of this is that you have an inaccessible environment until it is either upgraded successfully or restored to the RTM.

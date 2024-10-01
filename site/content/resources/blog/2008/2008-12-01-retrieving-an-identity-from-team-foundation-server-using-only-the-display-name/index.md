@@ -314,6 +314,7 @@ What this does is use the project name entered (in the event it is under the ele
 Then, as it does not by default load the “Members” and “MemberOf” arrays you need to call ReadIdentity with the Expand option is you want to list the Members, and I do.
 
 [![image](images/RetrievinganidentityfromTeamFoundationSe_E782-image_thumb-2-2.png)](images/RetrievinganidentityfromTeamFoundationSe_E782-image_thumb-2-2.png)
+{ .post-img }
 
 If this does not return an identity, then we need to look at the display name being a user account.
 

@@ -12,6 +12,7 @@ slug: "managing-the-vsts-developers-linkedin-group"
 ---
 
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)
+{ .post-img }
 
 After making sending a “Call to Action” to my fellow Team System MVP’s I have added two managers to the [VSTS Developers](//www.linkedin.com/e/gis/104499) group I started on LinkedIn.
 

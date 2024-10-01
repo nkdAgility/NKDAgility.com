@@ -16,6 +16,7 @@ slug: "problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm"
 I received the following error box after installing VS2008 SP1 RTM:
 
 [![image](images/ProblemswithTeamExplorerafterinstalledVi_E82C-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ProblemswithTeamExplorerafterinstalledVi_E82C-image_2.png)
+{ .post-img }
 
 > Team Foundation Error
 > 

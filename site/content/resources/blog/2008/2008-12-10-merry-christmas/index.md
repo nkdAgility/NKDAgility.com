@@ -15,6 +15,7 @@ With many people skipping off early for their holly bags, me included.. I though
 Send your own [ElfYourself](http://www.elfyourself.com) [eCards](http://sendables.jibjab.com/ecards)
 
 ![](images/bT*xJmx*PTEyMjg5MjYwNzA4NjEmcHQ9MTIyODkyNjA3ODM3OSZwPTQxODgxMyZkPTIwMjY3NCZnPTImdD*mbz1kYTY3ZGFmNWIwYTQ*NzgyYWZmYjZlMjM*NzE3YjFlZA==.gif)
+{ .post-img }
 
 Merry Christmas from the Hinshelwood family.
 

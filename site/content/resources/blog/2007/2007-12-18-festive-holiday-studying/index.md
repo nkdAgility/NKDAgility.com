@@ -17,6 +17,7 @@ slug: "festive-holiday-studying"
 ---
 
 [![020](images/Festiveholidaystudying_12D57-020_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Festiveholidaystudying_12D57-020.jpg)
+{ .post-img }
 
 I am sorry to tell you all that I am now (as of Friday past) off for the holiday period. With a little luck and some saved holidays I will not be back in the office until the 3rd January 2008 :) I will be in the office for damage control on the 31st, but apart from that I am a free man...
 
@@ -25,6 +26,7 @@ Well, I have been looking after my daughter and playing my [XBOX](http://www.360
 I am keeping up with my feed reading, an I came across an [article](http://visualstudiomagazine.com/features/article.aspx?editorialsid=1788) on the Visual Studio Magazine site that highlights the little known uses of WPF. The author (Kathleen Dollard) highlights the things that I thought WPF was for anyway (but largely ignored) and its benefits over WinForms. I think that Kathleen has hit the nail right on the head that WPF will be the way foreword for future .NET application development, but it does have a steep learning curve and it is different from the way that we have built applications in the past. I have resigned myself to learn this black art of WPF and increase my skill set with this worthwhile weapon in my arsenal.
 
 I can only hope that Kathleen Dollard and other experts provide the same level and topics of articles, and like Kathleen said, Microsoft should also push its developers to show off WPF in this way.[![](images/hinshelm-2-2.png)](http://profile.mygamercard.net/hinshelm)
+{ .post-img }
 
 So its WPF for me this holiday...
 

@@ -24,6 +24,7 @@ This fortuitous communication, which turned into an interview, resulted in an of
 I got through the interview and I decided to take a role at SSW…
 
 [![SSWLogo](images/Rulestobetteremployment_14DEF-SSWLogo_3-2-3.png)](http://bit.ly/5oZrwI)
+{ .post-img }
 
 If you know of Adam, then you will know that he has [rules and standards](http://bit.ly/8ao5oP) for everything. If you have not heard of him, then I suggest that you have a read of those rules and see what they are all about.
 
@@ -58,6 +59,7 @@ Its going to be a fun ride, and if you want to take your company to the next ste
 If you get a chance, check out SSW’s Rules. I am sure you will find something that will make you more productive and happier…
 
 [![RulestoBetter](images/Rulestobetteremployment_14DEF-RulestoBetter_3-1-2.gif)](http://bit.ly/8ao5oP)
+{ .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2005](http://technorati.com/tags/TFS+2005)
 

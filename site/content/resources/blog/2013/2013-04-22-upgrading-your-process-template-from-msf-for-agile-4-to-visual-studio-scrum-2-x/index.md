@@ -38,11 +38,13 @@ WARNING: It is easy to loose data when doing this. Make sure that you read all s
 The first thing to consider is wither you have made any customisations to your existing process templates. You will need to identify what those are and reapply them to the new Visual Studio Scrum template before you proceed with the scripts below. Ideally you should download your target Process Template, in this case the Visual Studio 2.x from Team Foundation Server and put it under source control.
 
 ![image](images/image22-1-1.png "image")  
+{ .post-img }
 **Figure: Downloading a Process Template from Team Foundation Server 2012**
 
 Having a good format for keeping your Process Template under source control will make things easier going forward.
 
 ![image](images/image23-2-2.png "image")  
+{ .post-img }
 **Figure: Process Template under source control in Team Foundation Server 2012**
 
 One of the other things that I always do when setting up is to export all of the existing work item types and save them under Builds\[OldTemplate\]. This allows us to push forward with the upgrade even if we have forgotten something. We can always get back to our old fields…

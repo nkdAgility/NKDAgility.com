@@ -27,6 +27,7 @@ I do a lot of ALM Assessments for companies and almost every customer that I spe
 If you have no bar for delivery and thus no idea what needs to be completed for each thing to be delivered then how can you expect to make accurate (or at least as good as we can get) prediction on when things are going to be delivered? You would effectively have no empirical evidence to rely on for predictability of delivery. In addition, the varied quality level results in more bugs in production, which then puts those individuals’ responsible for adding features under more pressure. If you put developers under pressure they will consistently and increasingly cut quality to meet the same deliverable.
 
 ![image](images/image11-1-1.png "image")  
+{ .post-img }
 Figure: The Iron Triangle
 
 In addition many product backlogs lack acceptance criteria leaving the Development Team to guess at the basis by which the customer will accept that something is complete. Indeed because if this lack of acceptance criteria backlog items can often be deceptively large which puts the development team under greater pleasure for delivery and thus the cut quality.

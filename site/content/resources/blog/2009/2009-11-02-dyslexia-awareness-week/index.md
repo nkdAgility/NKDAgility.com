@@ -24,6 +24,7 @@ All of the benefits are due to a neurological difference that presents as a larg
 If only our education systems would take advantage of these differences...
 
 ![British Dyslexia Association: Dyslexia Awareness Week: Dyslexia Strenths](images/DyslexiaAwarenessWeek_DE16-image_-1-1.png)
+{ .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
 

@@ -16,6 +16,7 @@ slug: "why-i-miss-orange-and-why-vodafone-suck"
 <rant>
 
 ![logo](images/d7b5cd926c08_137EA-logo_-1-1.gif) I am currently in Sydney Australia attending some training and meeting my boss for the first time. I was having a fantastic time until my wife phoned to let me know that Vodafone had called to say that the bill was over some limit and that they would be cutting my phone off if I did not contact them to confirm. Now, I had done the right thing and told them I would be abroad and where I was going, but I had forgotten to add my wife to the account. Fair enough…
+{ .post-img }
 
 So I called them and spoke to Customer Services to let them know that everything was OK, that I was happy to go over that limit, and add my wife to the account. They guy said that was fine…but next day my phone was not working.
 

@@ -18,6 +18,7 @@ slug: "rangers-shipped-visual-studio-2010-database-guide"
 ---
 
 **![vs2010almRanger](images/RangersshippedVisualStudio2010DatabaseGu_C070-vs2010almRanger_-2-2.png)**
+{ .post-img }
 
 Have you ever struggled with the Database Developer (was DataDude) components of Visual Studio? Well I have…and now the ALM Rangers have released a new guide to help us all get the benefits. There is Guidance as well as Hands-On-Labs and even how to do WIX integration for deployment.
 

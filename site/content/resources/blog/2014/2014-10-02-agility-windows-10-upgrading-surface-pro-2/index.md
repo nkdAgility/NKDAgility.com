@@ -31,6 +31,7 @@ This change however, and the huge success that the team has wrote, both internal
 Now Windows is moving to an agile process where they ship new features directly to end users every 4 weeks. Patch Tuesday just became Feature Tuesday.
 
 ![clip_image001](images/clip-image001-1-1.png "clip_image001")
+{ .post-img }
 
 This new model, however, is hard to achieve. There were some spectacular disasters for the TFS team with TFS 2012 Update 1 and Update 2. Those were not fin times, but the teams had the courage to keep going and the transparency to maintain trust with their user base. And at the other end? They have an incredibly vocal user base that is willing and able to take the latest version of the product and give candid feedback.
 
@@ -39,6 +40,7 @@ True continuous delivery is no more hotfixes, no more service packs, just new ve
 If you want to help them shape Windows 10, the last big Windows release, then you should join the Technical Preview.
 
 ![clip_image002](images/clip-image002-2-2.png "clip_image002")
+{ .post-img }
 
 You do however need to be wary and if you are not comfortable with participating in preview programs or will be unhappy if it all blows up then you should stay away.
 
@@ -59,38 +61,46 @@ You do however need to be wary and if you are not comfortable with participating
 That said, even my dad loves being part of the early adopter programs and playing with the new bits. He is my sanity test for the non-technical user and has already been part of the Windows 8 Consumer Preview and the Windows Phone 8.1 beta program. If you do want to participate in the program you do need to understand that there is limited ability to go back. However unlike the Windows Phone preview program you can wipe your computer and start over.
 
 ![clip_image003](images/clip-image003-3-3.png "clip_image003")
+{ .post-img }
 
 Once you have signed in and 'joined the insider' program you will get a link to install the Technical Preview. While it would be awesome if we could just click a web installer this is not currently an option and you will need to download the bits. We will likely get a web / update installer from the Consumer preview due in Q1 2015.
 
 ![clip_image004](images/clip-image004-4-4.png "clip_image004")
+{ .post-img }
 
 I downloaded both the UK English ([proper English](http://nkdagility.com/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite/)) versions for x86 and x64. I have a Dell Venue 8 Pro, and a Surface Pro 2 that I will be installing on. First up was the Venue 8 Pro which has a 32 bit OS and only comes with 32 bit drivers (no idea why, it is a 64 bit platform). Once you have downloaded the ISO you can use WinRar or 7Zip to unpack it. If you are installing on Windows 8 you can just double-click it to 'mount' it as a virtual CD drive.
 
 ![clip_image005](images/clip-image005-5-5.png "clip_image005")
+{ .post-img }
 
 As The Dell Venue 8 only has 64GB drive space I opted to for the USB option. I formatted an old USB drive to save space. Just copy the files over to the USB. You can then insert the USB and run the setup.exe in the root.
 
 ![clip_image006](images/clip-image006-6-6.png "clip_image006")
+{ .post-img }
 
 Once the install is running it takes a little while. It took about 30 minutes on my Dell Venue 8 Pro and over 60 minutes on the Surface Pro 2. This is likely as the Surface Pro has a bunch more apps installed and the settings need ported. My Surface is my primary production computer and has Visual Studio among other things installed.
 
 ![clip_image007](images/clip-image007-7-7.png "clip_image007")
+{ .post-img }
 
 Once you have the files copied your system will reboot a bunch of times with prolonged setup in between. I installed on the Venue 8 in the morning at breakfast in the hotel before the second day of the PSF course I was just running, and the Surface on the train on the way to the airport. I am typing this up on the Surface at said airport since my flight has been delayed by 3 hours (always on FlyBe).
 
 ![clip_image008](images/clip-image008-8-8.png "clip_image008")
+{ .post-img }
 
 Surface Pro 2
 
 Once you get installed you will get the new Windows user experience all over again. When it askes to add a new user you can safely skip it and just login with your existing account. With the Dell Venue 8 Pro I got to continue using the Start Screen, which I incidentally like, and with the Surface I got the new Start Menu that is a little more retro.
 
 ![clip_image009](images/clip-image009-9-9.png "clip_image009")
+{ .post-img }
 
 First thing you should always do, even after installing an OS that just came out, is look for updates. There are always last minute bug fixes coming out.
 
 Once in Windows 10 there are a few things that I noticed immediately.
 
 ![clip_image010](images/clip-image010-10-10.png "clip_image010")
+{ .post-img }
 
 You can only open modern apps in window mode and have to deliberately switch to full screen. This while fine on my Surface Pro is a pain on my Venue 8. I understand that the Windows team is still working on optimising the touch experience so I am willing to give them plenty of leeway.
 
@@ -101,6 +111,7 @@ Note: I did meet someone today that did not know that you could swipe from the t
 You can swipe from the left to get the task manager below and click the close so maybe all if good. It is two actions where one will do but it may make a comeback.
 
 ![clip_image011](images/clip-image011-11-11.png "clip_image011")
+{ .post-img }
 
 Swipe from Left does not just switch apps any more but instead presents you with the task switcher. This incorporates the new multi-desktop mode as well. Click on the "add desktop" option to add more. We will see how useful this is.
 

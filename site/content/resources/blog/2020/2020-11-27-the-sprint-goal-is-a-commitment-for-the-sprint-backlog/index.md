@@ -22,6 +22,7 @@ In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and 
 The Sprint Goal is a short term mission that can be achieved in service to the [Product Goal](https://nkdagility.com/the-product-goal-is-a-commitment-for-the-product-backlog). The Sprint Goal should describe the idea of "Why are we doing this Sprint" and should encapsulate a step towards that desired outcome. There should only be one per Sprint, to give the team focus.
 
 ![](images/Scrum-Framework-Sprint-Goal-920x720.png)
+{ .post-img }
 
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide) is not going to tell you what your Sprint Goals should be, this is something that is unique to your business context, and should be heavily influenced by the [Product Goal](https://nkdagility.com/the-product-goal-is-a-commitment-for-the-product-backlog). I would expect the Product Owner to come to Sprint Planning with an idea of what the next Sprints Sprint Goal should be, as well as likely Backlog Items that fit. If this idea, through a prospective Sprint Goal is communicated effectively with the Developers then they will be prepared for Sprint Planning.
 

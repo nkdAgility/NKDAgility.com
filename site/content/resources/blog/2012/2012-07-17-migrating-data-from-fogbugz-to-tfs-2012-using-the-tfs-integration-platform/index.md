@@ -34,6 +34,7 @@ This post is part of a series of posts that document a Upgrade of TFS 2010 to TF
     2. [TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item](http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/)
 
 ![](images/image_thumb-1-1.png)  
+{ .post-img }
 **Figure: Finishing up the data consolidation**
 
 We completed the [upgrade to TFS 2012 and consolidated Process Templates](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) and then consolidated all of the [Team Projects to a single collection](http://blog.hinshelwood.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/) and now the last part of this marathon of fun is to get all of the existing FogBugz data into TFS. We could conceivably use a simple Excel import, but this leaves us open for a nightmare of a time getting all of the state transitions through.
@@ -49,9 +50,11 @@ Do not use the ranger guidance for this. That way lies pain and suffering as it 
 - TFS Integration Platform
 
 [![SNAGHTML3073bc7](images/SNAGHTML3073bc7_thumb-8-8.png "SNAGHTML3073bc7")](http://blog.hinshelwood.com/files/2012/07/SNAGHTML3073bc7.png)  
+{ .post-img }
 **Figure: Make sure that you snapshot**
 
 As I always use a VM for development I get to use the power of Snapshots to keep my environments clean and working ![Smile](images/wlEmoticon-smile4-9-9.png)
+{ .post-img }
 
 Next you need to create a Solution and Project to hold your custom adapter. Use whatever layout that you want, but make sure that your Project has the following references:
 
@@ -63,11 +66,13 @@ Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation
 1. **Select "Right Click Project | Compile | Build Events"**
     
     [![image](images/image_thumb24-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image24.png)  
+{ .post-img }
     **Figure: Open the project properties**
     
 2. **Then in the post build events enter some xcopy statements**
     
     [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)  
+{ .post-img }
     **Figure: Edit the build events**
     
     ```
@@ -82,6 +87,7 @@ Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation
 3. Select the Debug Tab
     
     [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)  
+{ .post-img }
     Figure:
     
 4. **Select “Start external Program” and enter the path to the Migration Console**
@@ -107,6 +113,7 @@ Now when you debug your Class Library it will open MigrationConsole.exe with the
 If you have configured the above steps correctly then all you need is to select the correct configuration file form the UI and it will pre-populate all of the values for you.
 
 [![image](images/image_thumb27-5-5.png "image")](http://blog.hinshelwood.com/files/2012/07/image27.png)  
+{ .post-img }
 **Figure: Select the configuration file for your adapter**
 
 There is some interesting code in the Configuration file to achieve this, and a way of setting the defaults.
@@ -390,6 +397,7 @@ There is some interesting code in the Configuration file to achieve this, and a 
 This file represents the data that needs to be mapped. All the CSV Adapter does is get the data into the TFS Integration Platform and the Configuration file does all of the hard work of mapping the data into TFS. If you noticed our crazy EOL and Delimiter you should also note that we have large amounts of history and description that may contain the usual delimiters so we needed something that would be unlikely to be used.
 
 [![image](images/image_thumb28-6-6.png "image")](http://blog.hinshelwood.com/files/2012/07/image28.png)  
+{ .post-img }
 **Figure: It will now list your adapter on the left hand side**
 
 Now that you can select the adapter we are ready to rock…
@@ -399,6 +407,7 @@ Now that you can select the adapter we are ready to rock…
 The real advantage of this over Excel is that we can bypass the API rules and write data directly into TFS. This allows us to write data directly into a particular state even if that state does not exist. While not good is most circumstances this is invaluable when migrating data, otherwise we need to walk the work item through its states to get it to “Done” or “Closed”.
 
 [![image](images/image_thumb29-7-7.png "image")](http://blog.hinshelwood.com/files/2012/07/image29.png)  
+{ .post-img }
 **Figure: Some data may need to be updated to enable saving**
 
 To help with this I have created a mapping file, but it is really not that easy. We need to think about a number of things as part of the mapping. What are the old States, when are the new ones and how much do they match up.
@@ -498,5 +507,6 @@ For the most part you don’t even need to know the project name as its all in t
 This is the easiest part now that we have our data format and our configuration but we still had a nightmare getting the TFS Integration Platform to recognise the new Adapter. You need to make sure that you restart the “Windows Service” if you have it running but other than that everything went smoothly.
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
+{ .post-img }
 
 

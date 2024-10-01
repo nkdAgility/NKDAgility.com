@@ -21,6 +21,7 @@ Imports System.DirectoryServices.AccountManagement
 [](http://11011.net/software/vspaste)
 
 [![](images/AccountManagement-1-1.jpg)](http://www.danielmoth.com/Blog/AccountManagement-1-1.jpg "Account Management") In WPF development you can't just use the "My.User.Name" classes as it is not set by default. If you still want to use it you can _"My.User.InitializeWithWindowsUser()"_ to have it setup, but there is a better way.
+{ .post-img }
 
 If you are using Active Directory .Net 3.5 has provided a new way to access information...
 
@@ -67,6 +68,7 @@ I really like this as often I have has to build and Google (more the later than 
 And this is just the direct load of a user object. There are Group object as well as fill search capability with the PrincipalSearcher and various other bits and bobs...
 
 Well thats my find of the day ![smile_nerd](images/smile_nerd-3-3.gif)
+{ .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
 

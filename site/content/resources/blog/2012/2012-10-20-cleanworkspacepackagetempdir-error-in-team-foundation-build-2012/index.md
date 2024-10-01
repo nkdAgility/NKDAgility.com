@@ -27,6 +27,7 @@ When you execute a build of a MVC3 or MVC2 project from 2010 in Team Foundation 
 I was working with a customer that upgraded directly from Team Foundation Server 2008 to Team Foundation Server 2012 and that wanted to take advantage of the power of Continuous Integration. However their Solutions and Projects files we upgrades from previous versions of Visual Studio and this caused an interesting issue…
 
 [![The target “CleanWorkspacePackageTempDir” does not exist in the project](images/image_thumb9-5-5.png "The target “CleanWorkspacePackageTempDir” does not exist in the project")](http://blog.hinshelwood.com/files/2012/10/image35.png)  
+{ .post-img }
 **Figure: The target “CleanWorkspacePackageTempDir” does not exist in the project**
 
 ### Applies to
@@ -47,6 +48,7 @@ After some time looking into what might be missing from the build server it look
 When we first installed the build server we did not add anything other than Visual Studio 2010 Ultimate to allow for building of out of the box applications. However, when we additionally needed to build and MVC3 application that is deployed to Azure we installed those tools and SDK’s using the recommended approach of using the [Web Platform Installer](http://www.microsoft.com/web/downloads/platform.aspx).
 
 [![Web Platform Installer install updates MVC and removes CleanWorkspacePackageTempDir](images/image_thumb10-1-1.png "Web Platform Installer install updates MVC and removes CleanWorkspacePackageTempDir")](http://blog.hinshelwood.com/files/2012/10/image36.png)  
+{ .post-img }
 **Figure: Web Platform Installer install updates MVC and removes CleanWorkspacePackageTempDir**
 
 This does however also install the Web Deploy packaging process as a pre-requisite and thus we have a new problem on out build server. Why you might ask?
@@ -58,6 +60,7 @@ This was fixed by an update to MVC3 that even removed the targets. Hence the err
 So it looks like the CleanWorkspacePackage, CleanWorkspacePackageTempDir and CleanWebsitesTranformParametersFiles targets have been removed from the newer versions of the web targets file.
 
 [![At some point someone enabled MvcBuildViews](images/image_thumb15-4-4.png "At some point someone enabled MvcBuildViews")](http://blog.hinshelwood.com/files/2012/10/image41.png)  
+{ .post-img }
 **Figure: At some point someone enabled MvcBuildViews**
 
 So at some time in the past we wanted to enable MvcBuildViews and we added the following to our Project file:
@@ -77,6 +80,7 @@ As pointed out by the customer this should really have been the default, but the
 As I can find no information on this online I will fall back on [Barry Schnell’s](http://www.linkedin.com/in/barryschnell) awesome investigation on the server itself to find out that the new updates created a new build target variable called “UseNewPublishTargets” that defaults to True. When this is set to true the newer version of “microsoft.web.publishing.targets” is used and the build will fail.
 
 [![Add the “/p:UseNewPublishTargets="false"” MSBuild Argument](images/image_thumb11-2-2.png "Add the “/p:UseNewPublishTargets="false"” MSBuild Argument")](http://blog.hinshelwood.com/files/2012/10/image37.png)  
+{ .post-img }
 **Figure: Add the “/p:UseNewPublishTargets="false"” MSBuild Argument**
 
 You can however set this variable to false by adding “/p:UseNewPublishTargets="false"” to the MSBuild Arguments in the Build Definition on Team Foundation Server.
@@ -86,6 +90,7 @@ You can however set this variable to false by adding “/p:UseNewPublishTargets=
 It looks like the CleanWorkspacePackage, CleanWorkspacePackageTempDir and CleanWebsitesTranformParametersFiles targets have been removed from the newer versions of the web targets file and we just need to remove them from the Project file.
 
 [![So we can remove everything in the “DependsOnTargets”](images/image_thumb14-3-3.png "So we can remove everything in the “DependsOnTargets”")](http://blog.hinshelwood.com/files/2012/10/image40.png)  
+{ .post-img }
 **Figure: So we can remove everything in the “DependsOnTargets”**
 
 So we can now use the following without the “DependsOnTargets” directive:

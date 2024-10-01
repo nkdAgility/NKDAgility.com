@@ -30,6 +30,7 @@ If you are going to be in California around the 9th and 10th of October then you
 Organizations need to be aware that the New Normal is a world where the Consumer is now in the drivers seat and that the [consumerisation of IT](http://blog.nwcadence.com/consumerization-of-it-and-my-cup-of-coffee/) is rendering yesterday’s development practices obsolete.
 
 ![Evolve: Rediscover Relevancy](images/image38-1-1.png "Evolve: Rediscover Relevancy")  
+{ .post-img }
 **Figure: Evolve: Rediscover Relevancy**
 
 Have you adapted your development practices and strategies to ensure you are maintaining your relevancy? 
@@ -39,6 +40,7 @@ Have you adapted your development practices and strategies to ensure you are mai
 With this new normal the quality level expected of engineers is much higher than ever before and we need to rise to the challenge. We ill be required to produce better software with quality built in rather than the avoidable expense of testing quality in.
 
 ![Revolution: The Agile Developer](images/image39-2-2.png "Revolution: The Agile Developer")  
+{ .post-img }
 **Figure: Revolution: The Agile Developer**
 
 The engineering half of the Agile Developer needs tools to help them make life that much easier on their tester alter ego and on the businesses pocket book.

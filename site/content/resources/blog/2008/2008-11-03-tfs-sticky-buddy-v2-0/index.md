@@ -16,6 +16,7 @@ slug: "tfs-sticky-buddy-v2-0"
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…
 
 [![image](images/TFSStickyBuddyv2.0_7A68-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv2.0_7A68-image_2.png)
+{ .post-img }
 
 As you can see, a new look and feel for a new version, but this should allow me to implement a better modular design and separate out
 

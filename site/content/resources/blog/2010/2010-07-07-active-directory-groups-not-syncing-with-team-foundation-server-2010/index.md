@@ -15,6 +15,7 @@ slug: "active-directory-groups-not-syncing-with-team-foundation-server-2010"
 ---
 
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.
+{ .post-img }
 
  
 
@@ -25,16 +26,20 @@ Updated 27th July 2010 – SOLUTION - Craig Harry spoke to a couple of the produ
 Although we do not have a high turnover of core staff, we take on a lot of developers for Work Experience and we now have three guys in the root Project Collection Administrators when we already have an Active Directory group the are in added at this level.
 
 ![clip_image002](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-clip_image002_-1-1.jpg)
+{ .post-img }
 
 **Figure: These are all work experience, and are in the AD group, but don’t show in the AD group SSW2000Developers on the TFS server**
 
 Snapshots from **the SSW2000Developers** groups (as records on the TFS server)
 
 ![clip_image004](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-clip_image004_-2-2.jpg)
+{ .post-img }
 
 ![clip_image006](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-clip_image006_-3-3.jpg)
+{ .post-img }
 
 ![clip_image008](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-clip_image008_-4-4.jpg)
+{ .post-img }
 
 **Figure: TFS does not show these guys even though they are in AD**
 
@@ -43,6 +48,7 @@ Now, don’t get me started as to why all developers get Project Collection Admi
 The first thing to look at is the Event Log, but as you can see there are rather a lot of entries, over 13000 of them so applying a filter to just the TFS events is a good idea.
 
 ![image](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-image_-5-5.png) **Figure: Check the event log for common errors**
+{ .post-img }
 
 You can see the hourly “TFS Services” errors, and in fact they reoccur every 24 hours. If you check the 3071 error you will see that the core error is TF53010 that is caused by a timeout in the “Team Foundation Server Identity Synchronization job”.
 
@@ -166,6 +172,7 @@ Craig spoke to the relevant guys and it seams that although they will be fixing 
 If you remove the “BUILTINAdministrators” group from the “Team Foundation Administrators” group the code takes a different path and does not encounter the hang.
 
 ![image](images/ADGroupsnotSyncingwithTeamFoundationServ_DEC1-image_-6-6.png) **Figure: Open “Team Foundation Server Administration Console | Application Tier | Group Membership | \[TEAM FOUNDATION\]Team Foundation Administrators” and remove the “BUILTINAdministrators” group.**
+{ .post-img }
 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 

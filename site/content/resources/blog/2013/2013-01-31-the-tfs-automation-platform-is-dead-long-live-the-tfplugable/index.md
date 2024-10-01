@@ -51,6 +51,7 @@ This sounds simple, but in-fact it can be fairly complex. We plan to create this
     We decided to use myget as it provides a lot of services including permissions and a web UI that we do not need to build.
     
     [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2013/01/image.png)  
+{ .post-img }
     **Figure: Using MyGet to provide hosted NuGet-as-a-service**
     
 2. **DONE - Create ability to search for and install packages**
@@ -58,6 +59,7 @@ This sounds simple, but in-fact it can be fairly complex. We plan to create this
     We have already added some features to the application and it will already allow installs of packages and pass the information required for deployment to the packages.
     
     [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2013/01/image1.png)  
+{ .post-img }
     **Figure: Search for Team Foundation Server extensions**
     
 3. **Create ability to customise configuration**
@@ -70,8 +72,10 @@ We plan on having the first release soon with #1 & #2 above and include everythi
 I have a couple of folks helping me on this little project and we are always looking for others that can help add value.
 
 -  **![](images/tuppers50-headshot-150x150.jpg)   
+{ .post-img }
     James Tupper**, ALM Consultant & ALM Champ
 - **![](images/mug-shot-andrew-clear.png)  
+{ .post-img }
     Andrew Clear**, ALM Developer
 
 I am open for others to join and you would only need to contribute around 2 hours a week to participate.

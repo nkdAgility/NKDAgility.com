@@ -14,6 +14,7 @@ slug: "a-working-test-track-pro-adapter-for-the-tfs-integration-platform"
 ---
 
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)
+{ .post-img }
 
 Well, it has been a long road from [misery](http://blog.hinshelwood.com/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history/) to [hope](http://blog.hinshelwood.com/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details/) with a little [disbelief](http://blog.hinshelwood.com/test-track-pro-and-the-case-of-the-missing-data/) thrown in for good measure, but I finally have a working Adapter for the TFS Integration Platform.
 
@@ -50,6 +51,7 @@ Well, it has been a long road from [misery](http://blog.hinshelwood.com/creating
 With the new code, which has gone through many refactors for the sake of last ditch efforts to figure out the bug I am now able to update TFS from TTP in an incremental fashion.
 
 [![image](images/image_thumb8-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image8.png)
+{ .post-img }
 
   
 **Figure: Work Items are now being updated**
@@ -477,6 +479,7 @@ I am not exactly positive what made the difference as much of my debugging effor
 It is now a mater of configuration, but I am creating a table with all of the values of the 120+ fields as well as a neat table for the workflow and inserting it into the history.
 
 [![image](images/image_thumb10-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image10.png)
+{ .post-img }
 
   
 **Figure: Loooong history built from TTP Data**

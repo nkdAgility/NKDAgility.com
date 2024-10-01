@@ -21,14 +21,17 @@ You will need to manually remove the job.
 To do this, go to the Central Administration portal and under the “Global Configuration” section on the “Operations” tab select “Job Timer definitions”
 
 [![image](images/RemovingadeadSolutionDeploymentfromMOSS2_C4E5-image_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingadeadSolutionDeploymentfromMOSS2_C4E5-image_2.png)
+{ .post-img }
 
 This will take you to a massive list of all the scheduled and on demand jobs. Check down the list to find the job you want to kill, the Deployment operations will have “one-time” in the last column.
 
 ![image](images/RemovingadeadSolutionDeploymentfromMOSS2_C4E5-image_thumb_1-2-2.png)
+{ .post-img }
 
 Click the title to bring up the job definition and status and you should have the kill switch readily available
 
 [![image](images/RemovingadeadSolutionDeploymentfromMOSS2_C4E5-image_thumb_2-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingadeadSolutionDeploymentfromMOSS2_C4E5-image_6.png)
+{ .post-img }
 
 Once killed you can check the deployments page and you will see that there is nothing trying to “deploy”.
 

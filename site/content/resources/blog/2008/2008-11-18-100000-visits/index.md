@@ -32,12 +32,14 @@ Page Views
 I always like to look at the browser share, and yes, I know that my site is not indicative of the internet in general but it is still interesting.
 
  [![10000stats](images/100000Visits_AB2B-10000stats_thumb-2-2.gif)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-100000Visits_AB2B-10000stats_2.gif)
+{ .post-img }
 
 Looks like IE7 is winning the day :)
 
 But is is the Countries that shows how…”cosmopolitan”… your site is:
 
 [![10000countries](images/100000Visits_AB2B-10000countries_thumb-1-1.gif)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-100000Visits_AB2B-10000countries_2.gif)
+{ .post-img }
 
 Non to shabby for a wee developer in Glasgow, Scotland :)
 

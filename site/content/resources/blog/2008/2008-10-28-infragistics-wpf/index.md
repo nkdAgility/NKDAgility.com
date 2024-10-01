@@ -12,6 +12,7 @@ slug: "infragistics-wpf"
 ---
 
 ![](images/logo-1-1.gif) 
+{ .post-img }
 
 I am currently getting to grips with the Infragistics WPF controls that they call [NetAdvantage for WPF](http://www.infragistics.com/dotnet/netadvantage/wpf.aspx). So far I have found them easy to use, but the documentation of examples is very lax. Do not mistake me, these components are fantastic and do way more work for me than I would care to do myself, but if you Google a particular piece of their API invariable you will get pure documentation and no samples. If you are lucky someone has asked a specific question about it and you can skim their answers, but the likely hood of finding an answer to your question is negligible in my experience.
 

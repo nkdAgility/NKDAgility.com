@@ -18,6 +18,7 @@ slug: "what-about-hosting-the-tfs-automation-platform-2"
 ---
 
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:
+{ .post-img }
 
 - [Update on TFS on Azure](http://blogs.msdn.com/b/bharry/archive/2011/05/18/update-on-tfs-on-azure.aspx) from [Brian Harry](http://blogs.msdn.com/b/bharry)
 - [“To the cloud” with TFS](http://blogs.msdn.com/b/bryang/archive/2011/05/20/to-the-cloud-with-tfs.aspx) from [Bryan Group](http://blogs.msdn.com/b/bryang)

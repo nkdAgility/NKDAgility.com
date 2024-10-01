@@ -29,6 +29,7 @@ If we are building software in a modern application lifecycle there is no way th
 While we spend a disproportionate amount of time in manual testing we also spend an obscene amount of time maintaining and supporting any code automation that we create. These automated tests can represent at least the same amount of code that is required for our application but is often dismissed as an overhead to the solution.
 
 [![Automated Testing in a modern application lifecycle ](images/image_thumb5_thumb1_thumb_thumb-3-3.png "Automated Testing in a modern application lifecycle ")](http://blog.hinshelwood.com/files/2012/09/image_thumb5_thumb1_thumb.png)  
+{ .post-img }
 **Figure: Automated Testing in a modern application lifecycle**
 
 If we have fear of changing our code because of the impact to our testing infrastructure we will always fail to deliver quality software.
@@ -44,6 +45,7 @@ We often have more tests than we can hope to run in a single iteration once we g
 While we need that automation to be a success, we also need to make sure that it is the right sort of automation for the goal. A sure indication that something is not quite right is that you spend too much time maintaining your automation. This usually means that you have not yet surmounted your technical debt gremlins.
 
 [![How automated testing fits into a modern application lifecycle](images/image_thumb43-1-1.png "How automated testing fits into a modern application lifecycle")](http://blog.hinshelwood.com/files/2012/09/image45.png)  
+{ .post-img }
 **Figure: How automated testing fits into a modern application lifecycle**
 
 You can find many classifications of automated tests from all over the internet and this is just a simple grouping classification rather than a definitive list:
@@ -61,6 +63,7 @@ The integration with Visual Studio and Team Foundation Server is achieved simply
 While this looks like a small thing initially, and especially as the code necessary to achieve it is fairly simple, it opens the door for a whole bunch of interactions. First is the ability to surface the pass/fail state of the tests in the Visual Studio Test Runner. This then enables one to have those tests executed either as the result of a user action, or as part of an automated build in Team Foundation Build.
 
 [![Axe from Odin Tech showing how it is done](images/image_thumb44-2-2.png "Axe from Odin Tech showing how it is done")](http://blog.hinshelwood.com/files/2012/09/image46.png)  
+{ .post-img }
 **Figure: Axe from Odin Tech showing how it is done**
 
 This on its own would be awesome, but then you add the ability to associate any automated test that Visual Studio understands any MS Test Unit Test with a Test Case in Team Foundation Server and you are suddenly able to push those test results into Team Foundation Server and surface them in reporting.

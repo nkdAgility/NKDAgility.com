@@ -22,6 +22,7 @@ slug: "tfs-sticky-buddy-poc-wpf-release"
 ---
 
 [![image](images/TFSStickyBuddyPOCWPFrelease_93AA-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyPOCWPFrelease_93AA-image_2.png) You can now [Download](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=10642 "TFS Sticky Buddy POC (WPF) release") the [TFS Sticky Buddy windows presentation foundation proof of concept demo](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx "Codeplex RDdotNet TFS Sticky Buddy latest release") from the [Codeplex](http://www.codeplex.com/TFSStickyBuddy "Codeplex RDdotNet TFS Sticky Buddy project") site.
+{ .post-img }
 
 This is a proof of concept release of the Team Foundation Server Sticky Buddy digital dashboard project that is built using Windows Presentation Foundation (WPF). This is the main version of the application as the WinForms version of the application has been deprecated. There are some layout issues with this version, but they should be fixed fro the next release. The source code is provided with the installation.
 

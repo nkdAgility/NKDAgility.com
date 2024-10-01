@@ -24,6 +24,7 @@ With the release of Visual Studio 2013 we now have release management built righ
 Unlike the other Application Lifecycle Management (ALM) tools on the market Visual Studio ALM actually lives up to the name. Most tools out there tend to concentrate on a single angle. Specialising in work item tracking, source control or build. Then there are tools like HP ALM or Rational that have many integrated tools within the Application Development Lifecycle Management (ADLM) world. They in effect concentrate on the development side of the process and don't look at deployment or operations. This i think is a critical gap as we bring DevOps into the fold and integrate the developers and operational work to provide better products. Indeed many of the most successful products out there were developed by the same folk that support it. Why do they continue to be successful? When there is no one else to blame for the mess you end up just cleaning it up.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")  
+{ .post-img }
 Figure: Introduction to Release Management in TFS 2013
 
 Visual Studio ALM has implemented the next level of delivery by incorporating continuous release right into the product. Notice that I said "Continuous Release" and not simply "Continuous Deployment". I was asked recently be a colleague if I had meant deployment, and if not, why release. Well, here was my answer:
@@ -33,6 +34,7 @@ Deployment is for those folks that can't get it into Production. Releasing conti
 Today's world of software delivery is very different from that of even a few years ago. Lean-agile thinkers have been pushing continuous quality, feedback and delivery for quite some time as the only way to really deliver acceptable quality. Now, with the modern application lifecycle even large enterprises are using cloud and delivering to mobile. We are all moving towards that ideal on continuous delivery and for many companies it is already a reality. Even if your organisation is not ready for continuous release you should be releasing continuously even if the only folks that use that environment are within your team.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")  
+{ .post-img }
 Figure: Application lifecycle trends
 
 In the past it has only been the smaller development shops that have been able to deliver continuously, however as larger organisations see those smaller organisations taking their business they also need to change, if only to keep up. This is what happened to the Visual Studio ALM team with the 2010 release, they were behind the curve and they had to aggressively innovate to get ahead of it. With a modern development platform there really is no excuse to not delivering continuously. If your organisation wants any sort of business agility then they will need to be looking at agility in their supporting departments as they can only move at the pace of their slowest part.
@@ -46,6 +48,7 @@ Most teams, under pressure to deliver not only cherry-pick the changes that will
 To combat these many issues you need a solid binary promotion model for your release pipeline.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")  
+{ .post-img }
 Figure: Release Pipeline in Visual Studio ALM
 
 Your release pipeline is usually made up of a number of instances of your application that you need to update between your build and your production systems. I have tended towards call these environments 'Feedback' rather than the traditional Dev, QA, and UAT as the old form pigeonholes them a little to specifically for what I want. All of these intermediary environments have one purpose and one purpose only, to provide the Development Team with feedback. Who the intended target is that you want to retrieve that feedback from is the only thing that really changes between instances.

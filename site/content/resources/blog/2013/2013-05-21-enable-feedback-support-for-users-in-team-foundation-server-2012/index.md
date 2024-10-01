@@ -24,6 +24,7 @@ The focus of this article is to show you how to easily enable feedback support f
 Team Foundation Server works better because you have an on-premise installed on TFS 2012 therefore, those who you want to grant access require an Active Directory account in your domain. All of your internal users already have this, but you can also give VPN access for externals. However, this does not work for many publicly shippable applications. If however you are using Team Foundation Service from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) all you need is a user Live ID and permission.
 
 ![image](images/image.png "image")  
+{ .post-img }
 Figure: Providing Feedback on an application
 
 There are a couple of things that you need to configure in order to enable feedback support for users in Team Foundation Server 2012. Although these may seem trivial they are a little hidden:
@@ -38,6 +39,7 @@ With these complete you are good to go!
 The first thing to configure is the email settings in order to make sure that we can both use the service and that email in fact does get sent. If you do not have email settings configured then you should see a bunch of warning messages when you try to use features that depend on them.
 
 ![Figure: TF400264: Team Foundation Server is not configured to send email notifications ](images/image1.png "Figure: TF400264: Team Foundation Server is not configured to send email notifications ")  
+{ .post-img }
 Figure: TF400264: Team Foundation Server is not configured to send email notifications
 
 If this is the case then you need to go into your Team Foundation Server Administration Console on the server and configure the email settings. This will require a mail server to actually send the mail to be prepared with specified details.
@@ -45,6 +47,7 @@ If this is the case then you need to go into your Team Foundation Server Adminis
 Note: Many mail servers restrict the ‘from’ address for sending mail and this can mean that emails don’t send when you think they will be. If an email is not being sent, then check the event log on the server for errors.
 
 ![Figure: Enter the mail settings to enable feedback support](images/image2.png "Figure: Enter the mail settings to enable feedback support")  
+{ .post-img }
 Figure: Enter the mail settings to enable feedback support
 
 Once you have completed and saved this, the email sending feature will work not only for feedback, but also for the built in alerts manager for teams…
@@ -56,31 +59,37 @@ The permissions are a bit more complex and may be much more specific to the proj
 Note: You do not need any version of Visual Studio nor a CAL for TFS to provide feedback. You simply need to request it.
 
 ![Figure: Create a group to to enable feedback support](images/image3.png "Figure: Create a group to to enable feedback support")  
+{ .post-img }
 Figure: Create a group to enable feedback support
 
 Now, we need to create a group that we can add folks to without having to make them “Contributors”. Unfortunately, “Contributors” get access to our Source Code and builds by default so we really want to lock it down, even if it is just a little.
 
 ![Figure: You need ‘create test runs’ to enable feedback support](images/image4.png "Figure: You need ‘create test runs’ to enable feedback support")  
+{ .post-img }
 Figure: You need ‘create test runs’ to enable feedback support
 
 As mentioned earlier, the non-obvious permission is required to provide feedback. For some reason you need to have the ‘create test runs’ permission at the root of the project. Don’t ask…
 
 ![Figure: Join new group to Readers to enable feedback support](images/image5.png "Figure: Join new group to Readers to enable feedback support")  
+{ .post-img }
 Figure: Join new group to Readers to enable feedback support
 
 This new group should only be “Readers” so that we can grant them access to only what is needed to get feedback submitted. What we have now will allow them to view things within the Team Project but not to edit. Now we need to add explicit permission to our root “Area” node.
 
 ![Figure: Edit the security for the root area](images/image6.png "Figure: Edit the security for the root area")  
+{ .post-img }
 Figure: Edit the security for the root area
 
 Getting into the security settings for an “Area” is simple but a little obscure. There is a little node that only appears when you hover over the node which allows you to get into the Security settings.
 
 ![Figure: Add the ‘Feedback Provider’ group](images/SNAGHTML1b65f95.png "Figure: Add the ‘Feedback Provider’ group")  
+{ .post-img }
 Figure: Add the ‘Feedback Provider’ group
 
 Simply type or select the ‘Feedback Provider’ group from the drop down list and save the changes.
 
 ![Figure: Allow edit work items in this node for ‘Feedback Provider’](images/image7.png "Figure: Allow edit work items in this node for ‘Feedback Provider’")  
+{ .post-img }
 Figure: Allow edit work items in this node for ‘Feedback Provider’
 
 Now we have added permission only to allow the editing of work items. Unfortunately, this current state means that any users in this group can edit work items and requires a CAL.
@@ -88,6 +97,7 @@ Now we have added permission only to allow the editing of work items. Unfortunat
 Make sure that you also add the appropriate users to the ‘Limited” access level which is found in the administration control panel for the collection.
 
 ![Figure: Add feedback users to the Limited access level](images/image8.png "Figure: Add feedback users to the Limited access level")  
+{ .post-img }
 Figure: Add feedback users to the Limited access level
 
 And now everyone in that group has access.

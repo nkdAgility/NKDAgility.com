@@ -20,6 +20,7 @@ I had previously created a Command Line Parser from [Ray Hayes](http://www.codep
 So, staring from the original [Command Line Parser v1.0](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=28451) code I wanted to be able to add multiple commands, or even nest commands. The result is a nice simple commanding architecture conducive to creating multiple commands.
 
 [![image](images/UpdatingtheCommandLineParser_AC5D-image_thumb_1-1-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UpdatingtheCommandLineParser_AC5D-image_4.png)
+{ .post-img }
 
  
 
@@ -277,10 +278,12 @@ End Class
 If you were wondering why there are so many properties, it is to allow the help to be created automatically. For example if you call the help function on Demo3Command you will get…
 
 ![image](images/UpdatingtheCommandLineParser_AC5D-image_-3-2.png)
+{ .post-img }
 
 With the values coming from the relevant places:
 
 ![image](images/UpdatingtheCommandLineParser_AC5D-image_-4-3.png)
+{ .post-img }
 
 It will also support inherited CommandLine objects to minimize duplication.
 

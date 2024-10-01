@@ -21,6 +21,7 @@ slug: "professional-scrum-courses-2016-oslo-norway"
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 It has been so successful that we have scheduled 3 more Professional Scrum Master deliveries in Olso and one in Kongsberg, we have even scheduled a Professional Scrum Developer, also in Olso.
 

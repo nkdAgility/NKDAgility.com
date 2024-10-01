@@ -21,6 +21,7 @@ slug: "vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper"
 When running a VSS to TFS import using the VSSConverter.exe you may recieve a “TFTF60014: The username domainusername in the user map file c:tempusermap.xml is invalid”.
 
 [![image](images/image_thumb62-1-1.png "image")](http://blog.hinshelwood.com/files/2012/06/image80.png)  
+{ .post-img }
 **Figure: TF60014 & TF60087: Failed to initialise user mapper**
 
 ### Applies to

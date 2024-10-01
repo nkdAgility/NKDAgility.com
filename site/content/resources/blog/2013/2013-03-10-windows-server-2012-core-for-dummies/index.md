@@ -20,6 +20,7 @@ This is a short idiots guide to setting up Windows Server 2012 Core. Windows Ser
 
 - **Update 2013-03-18 -** After all my hard work Shad told me that this was the old-school way and why did I not use "sconfig".   
     ![18-03-2013 15-53-19](images/18-03-2013-15-53-19-1-1.png)**Figure: Arrrrr**
+{ .post-img }
     
     It does not have all of the commands I might need, but it does have many.
     
@@ -27,6 +28,7 @@ This is a short idiots guide to setting up Windows Server 2012 Core. Windows Ser
 While I pride myself on having a past as a developer I did dabble in thee dark side once upon a time. My first to jobs out of university ended up with me maintaining domains and computers for the organisations that I worked for even though I would rather have not.
 
 ![image](images/image2-2-2.png "image")  
+{ .post-img }
 **Figure: You only get a command window**
 
 The first issue that you run into when using Windows Server 2012 Core is the dreaded command line. Where it used to be hard to script activities in Windows, the existence of Core has made it trivial if you know the commands. Now if you like the command line you may never install another version of windows again… but if like me you like… you know… Windows… then you can use another server or you can install the admin tools on Windows 8 or Windows 7.
@@ -111,6 +113,7 @@ While not really required it does tend to help you out when you can ping through
 Now that you have the Trusted Hosts set and you can get through the firewall you can add your server to the management console.
 
 ![image](images/image3-3-3.png "image")  
+{ .post-img }
 **Figure: Add your new Windows Server 2012 Core to the Server Manager**
 
 If you got a bunch of errors stating that the server does not exist then you need to disable the firewall. If you get a bunch of messages about “TrustedHosts” then you should make sure you have added each server to the others Trusted Host list.
@@ -141,9 +144,11 @@ How about a compromise. All non Production servers are set to Auto-Update and we
 Next you probably want to give your server a name other than than the silly default almost-guid crap that gets set.
 
 ![image](images/image4-4-4.png "image")  
+{ .post-img }
 **Figure: The silly default name for your Windows Server 2012 Core**
 
 Why ‘win-fv6da60d6cs’ would ever be considered a good name for a server I do not know ![Smile](images/wlEmoticon-smile-8-8.png)
+{ .post-img }
 
 So lets fix that now…
 
@@ -171,6 +176,7 @@ _Note: Having 2 DHCP servers on a network if not configured properly is BAD_
 So for me… adding a fixed IP address is paramount but so is setting the DNS address on the “Private” network adapter that I use.
 
 ![image](images/image5-5-5.png "image")  
+{ .post-img }
 **Figure: Virtual Switch Manager of your Hyper-V Host**
 
 I always add an “Internal Only” network so that even if I am on a plane with no network my Hyper-V Guests will still be able to talk. This is where I need the fixed IP and to set the DNS to that of the Domain Controller DNS Instance.
@@ -186,6 +192,7 @@ netsh interface ipv4 add dnsserver "Ethernet" 192.168.100.1 1
 Now this would be us done but I actually add 3 virtual adapters to my servers. Why? Well I have to bind to either WiFi or Cable and changing it on the fly is slow. I can change it quickly on each guest, but I need to do it for each guest which is… effort. So to mitigate it I add 2 additional adapters and bind to both WiFi and Wire.
 
 ![image](images/image6-6-6.png "image")  
+{ .post-img }
 **Figure: Settings for Hyper-V guest**
 
 This dies mean that it can get confusing as they are, by default, named “Ethernet”, “Ethernet 2” and “Ethernet 3”. Good luck figuring that out… So I always try to change the name of the adapter. In the UI that is actually surprisingly hard and hidden, but easy in the command line.

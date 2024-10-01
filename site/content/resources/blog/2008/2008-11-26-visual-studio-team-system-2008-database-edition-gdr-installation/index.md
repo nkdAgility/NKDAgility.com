@@ -65,10 +65,12 @@ Luckily I have just received a new install of Vista 64, so I have no previous ve
 Once the install if finished you will see that the GDR has replaced the standard Database Edition in visual studio.
 
 [![About Visual Studio](images/VisualStudioTeamSystem2008DatabaseEditio_967A-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_2.png) 
+{ .post-img }
 
 The “New Project” window will also have additional options and you can see the two new sort of project, “Database” and “Server”.
 
 [![image](images/VisualStudioTeamSystem2008DatabaseEditio_967A-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudioTeamSystem2008DatabaseEditio_967A-image_4.png)
+{ .post-img }
 
 If you pick the “Wizard” you will be presented with a set of options for your project creation. Loads of people have documented what these options mean, so I will just give you a flavor with a wee video…
 

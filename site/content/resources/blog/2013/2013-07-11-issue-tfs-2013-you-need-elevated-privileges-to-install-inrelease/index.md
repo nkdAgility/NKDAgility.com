@@ -21,6 +21,7 @@ Installing InRelease 3 fails as you need elevated privileges to install InReleas
 When you try to install InRelease as part of your Team Foundation Server 2013 infrastructure you are allowed to fill out all of the fields and then you get a “you need elevated privileges to perform this installation. You can achieve this by running a command prompt”.
 
 [![image[14]](images/image14_thumb-1-1.png "image[14]")](http://nkdagility.com/files/2013/07/image14.png)  
+{ .post-img }
 Figure: For InRelease you need elevated privileges to perform this installation
 
 ## Applies to
@@ -39,6 +40,7 @@ In order to bypass this you have two options. You can follow the instructions th
 Forts we need to open a command prompt
 
 ![image](images/image15-2-2.png "image")  
+{ .post-img }
 Figure: Execute MSIEXEC from an elevated command prompt
 
 Once you have the command prompt open you need to execute the following command replacing your location to the MSI. You may want to put it in C:temp to make things easyer but I just copied the UNC path from a file explorer window.

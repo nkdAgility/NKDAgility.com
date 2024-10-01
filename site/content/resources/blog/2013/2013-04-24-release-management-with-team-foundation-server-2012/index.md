@@ -29,11 +29,13 @@ Northwest Cadence has been working hard with customers to improve their release 
 There are many facets to release management and contrary to popular belief not a single one of them revolves around branching or code. There, I said it, its not about the code. Its about what you deploy. You may have a passing resemblance between code branching and your release process but they are two independent and only occasionally related processes. Intertwining them is where many organisations start to see friction, it is however avoidable.
 
 ![Workflow and relationships in Team Foundation Server 2012](images/image24-1-1.png "Workflow and relationships in Team Foundation Server 2012")  
+{ .post-img }
 **Figure: Workflow and relationships in Team Foundation Server 2012**
 
 Above I have a rough workflow for working with Team Foundation Server 2012. In this model you would create a ‘build’ from source control and the output would be ‘dropped’ to a well known location. I have builds that just output binaries to network shares and I have builds that create Chocolatey packages. I even have builds that continuously deliver the output to production…
 
 ![Automated Build in Team Foundation Server 2012](images/image25-2-2.png "Automated Build in Team Foundation Server 2012")  
+{ .post-img }
 **Figure: Automated Build in Team Foundation Server 2012**
 
 So now that I have a uniquely identifiable “build” I now need some way to repeatedly and consistently promote it through my environments. This is about deployment and we need to make sure that we deploy the same artefacts, hence the unique build, through the same process. Why, well so that we can be sure that not only does our application work, but that our deployment does as well.
@@ -67,6 +69,7 @@ So lets assume that we have some quality output and that output includes the scr
 For delivery to environments owned by your engineering teams you can use Lab Management to deploy to almost any sort of environment that you want. Remembering that just because I say ‘engineering teams’ does not mean that there are not representatives from operations on those teams, because there should be.
 
 ![Release Management with Lab Management for Feedback](images/image26-3-3.png "Release Management with Lab Management for Feedback")  
+{ .post-img }
 **Figure: Release Management with Lab Management for Feedback**
 
 _Note This can be used to deploy all the way to production but it tends not to be. Operations frown upon installing development tools in production for some unknown reason._
@@ -74,6 +77,7 @@ _Note This can be used to deploy all the way to production but it tends not to b
 You can [create Standard Environments](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/) or use System Centre Virtual Machine Manager (SCVMM) dynamic environments that are constructed from one or multiple machines into a single identifiable thing that we can deploy to.
 
 ![Environments in Lab Centre for Release ManagementEnvironments in Lab Centre for Release Management](images/image27-4-4.png "Environments in Lab Centre for Release Management")  
+{ .post-img }
 **Figure: Environments in Lab Centre for Release Management**
 
 Lab Management leverages Team Foundation Build (TFB) and allows you to not only see each of the machines within an environment but also to deploy a pre-compiled build to that environment and orchestrate running of your integration tests against it. This is fantastically powerful as with no customisation we can have a scheduled and automatic deployment of our software to an environment and then have a chosen set of automated tests run against it.
@@ -93,11 +97,13 @@ Remember I mentioned earlier that your operations teams would be… uncooperativ
 At this stage we already have a ‘package’, probably a NuGet package, that has been deployed and promoted by the engineering teams through their verification paths and they have marked certain ‘builds’ as ‘done’. Those ‘done’ builds have likely, if they are NuGet packages, been deployed to a repository that we can easily call for our operational deployments.
 
 ![Release Management with Octopus for Production](images/image28-5-5.png "Release Management with Octopus for Production")  
+{ .post-img }
 **Figure: Release Management with Octopus for Production**
 
 The reason that I am again mentioning NuGet again is that there is an application called Octopus that has been specifically designed to deploy NuGet packages with ease. Make no mistake, this is an operations tool that has been designed from the ground up to support deploying the output from professional Development Teams to production.
 
 ![Octopus for Operations](images/image29-6-6.png "Octopus for Operations")  
+{ .post-img }
 **Figure: Octopus for Operations**
 
 You create Environments and then Releases and you can have those releases promoted through those Environments. You can control permissions on who can promote releases through which environments and generally get and idea of what is deployed where.
@@ -113,6 +119,7 @@ There are lost of options for the automation of your application deployment. I c
 If we fail any sort of stage gate that occurs after the engineering team has said that it is ‘done’ then we need to seriously look at why that happened and what we can put in place to make sure that it never happens again. That sort of attitude will improve the quality of your software and reduce the risk of delivery vastly.
 
 ![Release Management Workflow in Team Foundation Server 2012](images/image30-7-7.png "Release Management Workflow in Team Foundation Server 2012")  
+{ .post-img }
 **Figure: Release Management Workflow in Team Foundation Server 2012**
 
 This flow of building once and then repeated validation will help weed out those last quality issues so that you don’t get many, if any, issues in production. Teams that follow models like this, when combined with good engineering practices, spend less time fighting fires and more time delivering real customer value. The goal would be to get from Check-In to your Production Environment at least every 30 days. That means that you need to be using the very best Processes, Practices and Tools to make it as slick as possible.

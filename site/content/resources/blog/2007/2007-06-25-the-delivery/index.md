@@ -47,6 +47,7 @@ _(gory details omitted)_
 9 pound baby Evangelina was born! And very proud I was. She was a bit blue and she had a scuffed face from exiting so quickly. The midwife nicknamed her "the missile", but I had my baby girl. My wife managed it without any serious drugs, only Gas & air, so Eva was bright and awake when she came out. She did not even have the usual cone head look due to the speed of her delivery.
 
 [![](images/t_BABYEVA.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-6423-r_BABYEVA.jpg)
+{ .post-img }
 
 I would just like to thank the Midwifes of the Southern General Hospital, Glasgow for there fantastic efforts and exemplary service dealing with my wife, the workmen for their speedy response, and mostly my wife, for giving me such a gorgeous girl.
 

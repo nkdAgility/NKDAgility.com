@@ -26,26 +26,31 @@ I use a number of plug-ins for outlook:
 All of them work…to an extent…
 
 [![Outlook 2010 Beta 2 and Add-In’s: CRM, Team Companion, LinkedIn and Plaxo](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_2.png)   
+{ .post-img }
 Figure: Screenshot of outlook with add-ins
 
 Outlook 2010 put all of the Add-ins into a single tab called “**Add-Ins**” and they just get stacked up, which is bad!
 
 [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_4.png)  
+{ .post-img }
 Figure: Close up of the LinkedIn, Plaxo and Team Companion Add-ins
 
 Can you see the problem? No? Well, the ribbon bar is only so tall, so that makes for 3 and only 3 add-ins. Where is the Dynamics CRM add-in? Can you see it in the first image? No! Let me help you.
 
 [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_6.png)   
+{ .post-img }
 Figure: Where is Wally Dynamics CRM4 Add-in?
 
 This looks useless, and it would be if the same options were not also available as a pull down menu.
 
 [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_3-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_8.png)  
+{ .post-img }
 Figure: Dynamics CRM4 pull down menu in Office 2010 have all the bits you need, even if you can’t get to the buttons.
 
 The story is a little better when you open an email. The options for Dynamics CRM are prominent, as are the Team Companion and LinkedIn options.
 
 [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_5-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_12.png)  
+{ .post-img }
 Figure: Shows the Team Companion, LinkedIn and CRM options on an email; this is a much better format.
 
 So, what else do you need to know? No 64-bit support yet, so you need to use Outlook 32-bit, and if you need to use Outlook 32-bit then you MUST use Office 32-bit:
@@ -68,6 +73,7 @@ Please can you:
 1. fix add-in to work with Outlook 64-bit (Team Companion guys are already on the case showing the rest of you up)
 2. fix add-in to have a ribbon tab like the Visual Studio ALM Add-in in Excel.  
     [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_6-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_14.png) 
+{ .post-img }
 
 Technorati Tags: [Office](http://technorati.com/tags/Office) [ALM](http://technorati.com/tags/ALM) [CRM](http://technorati.com/tags/CRM) [SSW](http://technorati.com/tags/SSW)
 

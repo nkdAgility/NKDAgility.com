@@ -23,6 +23,7 @@ The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-
 <figure>
 
 ![](images/image-1-767x720.png)
+{ .post-img }
 
 <figcaption>
 

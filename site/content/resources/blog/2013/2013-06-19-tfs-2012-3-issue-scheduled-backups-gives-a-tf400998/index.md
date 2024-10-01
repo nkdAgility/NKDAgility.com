@@ -21,6 +21,7 @@ slug: "tfs-2012-3-issue-scheduled-backups-gives-a-tf400998"
 After a server migration Scheduled Backups gives a TF400998 when you try to reconfigure it. You may also see timeouts and errors when trying to add Team Foundation Console Users.
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 Figure: You get TF400998 and TF246017 when anything hits Scheduled Backup
 
 ## Applies to
@@ -106,6 +107,7 @@ This then prevents us from being able to reconfigure however you can disable and
 If we instead click “Disable Scheduled Backup” and weight for the timout we get a “Network Path not found” exception when it tries to access the backup location but it has actually done the disable.
 
 ![image](images/image1-2-2.png "image")  
+{ .post-img }
 Figure: Disable results in path not found
 
 If you hit the refresh button above the Scheduled Backup node will return to its un-configured state.

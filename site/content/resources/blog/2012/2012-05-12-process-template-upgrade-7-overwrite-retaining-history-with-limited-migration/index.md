@@ -59,6 +59,7 @@ WARNING: Always test the process against in a test environment before you move f
     Save them somewhere you can find them and not get them confused with the new ones.
     
     [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/05/image.png)  
+{ .post-img }
     **Figure: Save out the Work Item Type Definition**
     
 2. **Identify fields that do not exist in the new template**
@@ -107,6 +108,7 @@ WARNING: Always test the process against in a test environment before you move f
     If the new  work item type has a different name from the new one you will need to perform a rename first.
     
     [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/05/image1.png)  
+{ .post-img }
     **Figure: witadmin renamewitd /?**
     
     ```
@@ -331,6 +333,7 @@ WARNING: Always test the process against in a test environment before you move f
         In the self-service option we let the first user to edit a work item manually do the migration.
         
         [![image](images/image_thumb2-3-3.png "image")](http://blog.hinshelwood.com/files/2012/05/image2.png)  
+{ .post-img }
         **Figure: You can select text from the history**
         
         You can have user peruse t6he history at their leisure and copy any data that they need back into the main work item. This allows for some really complex translations and stops you getting caught up in arguments with users as to what data they want and how it will be converted. Even two teams working in the same project can do it in slightly different ways using the MK1 Eyeball and MK1 Logic System to interpret the results much more effectively than you can.
@@ -350,6 +353,7 @@ I will try to catalogue any problems here, so add them in the comments and I wil
     If you are on Visual Studio 11 Team Foundation Server (dev11 | TFS11) then you will need to reconfigure the Planning Boards to work with the new work item types. In this case I have renamed the “User Story” work item type to “Product Backlog Item” and it results in an error.
     
     [![image](images/image_thumb3-4-4.png "image")](http://blog.hinshelwood.com/files/2012/05/image3.png)  
+{ .post-img }
     **Figure: TF400508 is about Agile Planning boards**
     
     You forgot to update #7 above. Go back and do it now!

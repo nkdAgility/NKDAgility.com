@@ -30,6 +30,7 @@ In order to sustain this new way we must be able to maintian the resonsabilities
 <figure>
 
 ![](images/image-1280x558-2-2.png)
+{ .post-img }
 
 <figcaption>
 

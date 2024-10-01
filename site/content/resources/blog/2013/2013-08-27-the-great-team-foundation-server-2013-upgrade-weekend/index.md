@@ -18,6 +18,7 @@ slug: "the-great-team-foundation-server-2013-upgrade-weekend"
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.
 
 [![](images/728x90_VSvNext_Border_EN_US1-1-1.gif)](http://nkdagility.com/vs2013Preview/)
+{ .post-img }
 
 Unless you have been hiding under a rock you will have notices some recent fever over the TFS 2013 Preview. Well as you know that while [Team Foundation Server 2013 is production ready](http://nkdagility.com/team-foundation-server-2013-is-production-ready/) it still has that pesky “Preview” moniker on there. This “Preview” wording has prevented many companies from adopting TFS 2013 immediately, even though it is fully supported. To help resolve some of that resistance and get wider adoption the Product Team has committed some extra engineering resources to not just supporting your TFS 2013 instance, but helping you upgrade as well.
 

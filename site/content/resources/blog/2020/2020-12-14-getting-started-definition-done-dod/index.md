@@ -27,6 +27,7 @@ In my last post about [Professional software teams creating working software](ht
 Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible for creating done increments of working software. Done Increments. **Done**.
 
 ![](images/naked-Agility-Scrum-Framework-Definition-of-Done-920x720-1-2.jpg)
+{ .post-img }
 
 [Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
 

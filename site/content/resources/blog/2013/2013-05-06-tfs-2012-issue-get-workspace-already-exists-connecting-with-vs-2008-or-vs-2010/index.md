@@ -21,6 +21,7 @@ slug: "tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs
 You may get a "workspace already exists" when you have VS 2008 or VS 2010 installed as well as VS 2012 and you try to connect them to TFS 2012.
 
 [![image](images/image_thumb.png)](http://blog.nwcadence.com/wp-content/uploads/2012/07/image.png)  
+{ .post-img }
 Figure: The Workspace already exists on computer
 
 This results in this error ever time you start VS 2010 or VS 2008.
@@ -41,6 +42,7 @@ When you subsequently open VS 2008 or VS 2010, which do not support Local Worksp
 Manually create a “Server” workspace for use in VS 2010 and VS 2008.
 
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/07/image1.png)  
+{ .post-img }
 Figure: Create a new Workspace with a new Name
 
 1. Select “File | Source Control | Workspaces… | Add…”

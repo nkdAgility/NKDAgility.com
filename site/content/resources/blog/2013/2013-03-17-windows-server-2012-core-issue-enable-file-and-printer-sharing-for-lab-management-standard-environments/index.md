@@ -21,6 +21,7 @@ slug: "windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-ma
 If you try to add any servers to Standard Environments in Visual Studio 2012 Lab Management you get a message that you need to enable file and printer sharing and you are unable to configure or communicate with those machines.
 
 ![image](images/image11-1-1.png "image")  
+{ .post-img }
 **Figure: Unable to verify that machines are accessible**
 
 There are three main causes:
@@ -54,11 +55,13 @@ You need to open the ports required for File & Print Sharing. This is roughly th
 1. **Start | type “Fire” | click “Settings” | press “Enter” key**
     
     ![image](images/image12-2-2.png "image")  
+{ .post-img }
     **Figure: Open the Windows Firewall Settings**
     
 2. **Change Settings | check “File and Printer Sharing” | OK**
     
     ![image](images/image13-3-3.png "image")  
+{ .post-img }
     **Figure: Enable File and Printer Sharing on your Windows 8 firewall**
     
 
@@ -75,6 +78,7 @@ netsh advfirewall firewall set rule group=”File and Printer Sharing” new ena
 **Figure: Enable File and Printer Sharing via the command line**
 
 ![image](images/image14-4-4.png "image")  
+{ .post-img }
 **Figure: Make sure that you run this in PowerShell**
 
 ## Conclusion
@@ -82,6 +86,7 @@ netsh advfirewall firewall set rule group=”File and Printer Sharing” new ena
 After enabling the File and Printer Sharing firewall rules everything is now green.
 
 ![image](images/image15-5-5.png "image")  
+{ .post-img }
 **Figure: We can now verify the Standard Environment**
 
 

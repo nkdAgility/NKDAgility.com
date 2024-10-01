@@ -23,6 +23,7 @@ In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and 
 The Product Goal is an objective to try and meet rather than a guarantee. We may start on the journey towards the Product Goal and discover that there is a better place to go. While the Product Goal is there to give the Scrum Team focus towards an overall objective, it is also important to realise that it is not immutable. If the Scrum Team realise that the Goal is no longer valuable, or that some other goal becomes more valuable then they should change it.
 
 ![](images/naked-Agility-Scrum-Framework-Product-Goal-920x720-1-2.jpg)
+{ .post-img }
 
 Some Good Examples of a Product Goal:
 

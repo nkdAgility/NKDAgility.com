@@ -27,6 +27,7 @@ Microsoft has released a CTP of TFS 2015 that includes the vNext build system. Y
 I have been playing around with the new Build vNext Agent that Microsoft has been developing and I found that I was not able to register the Agent on Windows Server 2012 R2 when I had Visual Studio 2015 Preview installed. Before I installed Visual Studio I had no issues, but once on I got a "Could not load file or assembly" when trying to run the registration.
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 It looks like there is a version mismatch on the DLL.
 
@@ -44,6 +45,7 @@ WARNING: UnConfigure agent finish with Error, you can check logs under _diag fol
 I am fairly sure that this is a time limited error and once VS 2015 comes out of Preview, or the DLL versions settle down this will not be an issue, however to fix it for now we need to turn of Strong Naming for .NET at the command prompt.
 
 ![clip_image002](images/clip_image0022-2-2.png "clip_image002")
+{ .post-img }
 
 You need to run "sn -Vr \*,\*" on the server to disable strong signing. This should only be the case as part of the current preview program. I would expect this issue to go away with the next release, at least on Server 2012 R2.
 

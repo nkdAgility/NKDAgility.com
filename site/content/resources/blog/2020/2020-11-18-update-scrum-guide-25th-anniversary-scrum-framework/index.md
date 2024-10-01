@@ -24,6 +24,7 @@ It has been 25 years since Scrum was first created by Ken Schwaber and Jeff Suth
 It's very clear that Scrum has not changed! Ken & Jeff have just found better ways to describe Scrum to simplify the story as well as reduce the cognitive load of interpreting it.
 
 ![](images/naked-Agility-Scrum-Framework-920x720-2-3.jpg)
+{ .post-img }
 
 There are lots of awesome changes so let's see if I can highlight the things I noticed the most:
 

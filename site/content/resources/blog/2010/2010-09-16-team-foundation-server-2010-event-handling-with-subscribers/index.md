@@ -19,6 +19,7 @@ slug: "team-foundation-server-2010-event-handling-with-subscribers"
 ---
 
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.
+{ .post-img }
 
 * * *
 
@@ -227,10 +228,12 @@ End Class
 All I am doing here is writing an event received acknowledgements to a text file, but it is enough for me to prove that the event is captured. All I have to do is copy the assembly output to the right place and make a change to a work item.
 
 ![SNAGHTMLf0653c](images/d85ca9bb3b8b_B971-SNAGHTMLf0653c-2-2.png)
+{ .post-img }
 
 **Figure: Putting the assembly in the right place is very strait forward**
 
 ![SNAGHTMLf22466](images/d85ca9bb3b8b_B971-SNAGHTMLf22466-3-3.png)
+{ .post-img }
 
 **Figure: Make any sort of change to a work item and save it**
 

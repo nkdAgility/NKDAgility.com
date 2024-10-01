@@ -35,6 +35,7 @@ Although [Brian Harry has an awesome post](http://blogs.msdn.com/b/bharry/archiv
     This was an upgrade to TFS 2010 Beta 2 in the early days of 2010. I only had one problem even way back then.
 - [Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3](http://blog.hinshelwood.com/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3/)  
     This was probably the largest upgrade I have been responsible for with nearly 500GB of data and servers with 24 cores ![Smile](images/wlEmoticon-smile6-2-2.png). I will get to the process template upgrade woes later…
+{ .post-img }
 - [Connecting VS2008 to any TFS2010 Project Collection](http://blog.hinshelwood.com/connecting-vs2008-to-any-tfs2010-project-collection/)  
     In addition your teams may not be upgrading visual studio at the same pace, so make sure you know what they are using other than the latest Visual Studio.
 

@@ -46,6 +46,7 @@ If you try to restore a SQL Server database that you backed up from an Enterpris
     
 
 ![Error restoring databases that uses compression to SQL Express](images/image16-1-1.png "Error restoring databases that uses compression to SQL Express")  
+{ .post-img }
 Figure: Error restoring databases that uses compression to SQL Express
 
 This is due to features that are provided in the Enterprise edition of SQL that are not present in anything lower. What sometimes gets folks confused is that Developer Edition has feature parity with Enterprise.
@@ -81,6 +82,7 @@ In this case some of the objects (tables & indices) have compression enabled and
 You also can’t say that you were not warned as when you detached the collection from your old TFS server you ignored the warning that resulted in the very message above. How do I know that you did? Coz I did as well…
 
 ![image](images/image17-2-2.png "image")  
+{ .post-img }
 Figure: This collection has SQL Enterprise features enabled
 
 When you detach a collection you will get a warning if it is using enterprise features. I had always gotten into the habit of ignoring this as I had never encountered any issue. Now I have…
@@ -111,6 +113,7 @@ ORDER BY SchemaName, ObjectName
 This SQL statement allows you to find all of the index objects that are currently enabled for compression. Just because it is enabled does not mean that it is in use, but just having it enabled will disallow your ability to import your database into SQL Standard or SQL Express.
 
 ![List of objects that have compression enabled in SQL Enterprise](images/image18-3-3.png "List of objects that have compression enabled in SQL Enterprise")  
+{ .post-img }
 Figure: List of objects that have compression enabled in SQL Enterprise
 
 We can then use this list to alter the objects and remove the compression. To do this we need to rebuild the indices without compression enabled as it is not just an on/off flag.
@@ -142,6 +145,7 @@ If you have a large amount of data than this can and will take some time. Or con
 For me, my collection was less than 100mb so the entire script ran in milliseconds. On hundreds of gigabyte's I would  expect this to take a very long time.
 
 ![SQL backup restore is now successful](images/image19-4-4.png "SQL backup restore is now successful")  
+{ .post-img }
 Figure: SQL backup restore is now successful
 
 Woot.. now that I have removed that enterprise only feature SQL Express now no longer chokes on the restore.

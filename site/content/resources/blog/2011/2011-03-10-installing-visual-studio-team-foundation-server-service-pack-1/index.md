@@ -13,6 +13,7 @@ slug: "installing-visual-studio-team-foundation-server-service-pack-1"
 ---
 
 [![vs2010logo](images/Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb-14-14.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!
+{ .post-img }
 
   
 
@@ -29,35 +30,45 @@ This however does not affect you if you are running Visual Studio and Team Found
 I will be installing the service pack first on my main computer as I want to actually use it here.
 
 [![SNAGHTML1065c18](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1065c18_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1065c18.png)  
+{ .post-img }
 **Figure: My main workhorse**
 
 I will also be installing this on my netbook which is obviously of significantly lower spec, but I will do that one after. Although, as always I had my fingers crossed, I was not really worried.
 
 [![SNAGHTMLf88846](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf88846_thumb-8-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf88846.png)  
+{ .post-img }
 **Figure: KB2182621**
 
 Compared to Visual Studio there are not really a lot of components to update.
 
 [![image](images/Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_2.png)  
+{ .post-img }
 **Figure: TFS 2010 and SQL 2008 are the main things to update**
 
 There is no “web” installer for the Team Foundation Server 2010 Service Pack, but that is ok as most people will be installing it on a production server and will want to have everything local. I would have liked a Web installer, but the added complexity for the product team is not work the capability for a 500mb patch.
 
 [![SNAGHTMLf9823e](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9823e_thumb-9-9.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9823e.png)  
+{ .post-img }
 **Figure: There is currently no way to roll SP1 and RTM together**
 
 [![SNAGHTMLf9ac69](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9ac69_thumb-10-10.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9ac69.png)  
+{ .post-img }
 **Figure: No problems with the file verification, phew[![coffee-cup](images/Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_thumb_1-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_5.jpg)**
+{ .post-img }
 
 [![SNAGHTMLf9e46a](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9e46a_thumb-11-11.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLf9e46a.png)  
+{ .post-img }
 **Figure: Although the install took a while, it progressed smoothly[![coffee-cup](images/Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-coffee-cup_2.jpg)**
+{ .post-img }
 
 [![SNAGHTMLfa11b1](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfa11b1_thumb-12-12.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfa11b1.png)  
+{ .post-img }
 **Figure: I always like a success screen**
 
 Well, as far as the install is concerned everything is OK, but what about TFS? Can I still connect and can I still administer it.
 
 [![SNAGHTMLfdde61](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfdde61_thumb-13-13.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTMLfdde61.png)  
+{ .post-img }
 **Figure: Service Pack 1 is reflected correctly in the Administration Console**
 
 I am confident that there are no major problems with TFS on my system and that it has been updated to SP1. I can do all of the things that I used before with ease, and with the new features detailed by [Brian](http://blogs.msdn.com/b/bharry/archive/2011/03/09/installing-all-the-new-stuff.aspx) I think I will be happy.
@@ -67,6 +78,7 @@ I am confident that there are no major problems with TFS on my system and that i
 The great god Murphy has stuck, and my poor wee laptop spat the Team Foundation Server 2010 Service Pack 1 out so fast it hit me on the back of the head. That will teach me for not looking…
 
 [![image](images/Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb_1-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_4.png)  
+{ .post-img }
 **Figure: “Installation did not succeed” I am pretty sure should not be all caps!**
 
 On examining the file I found that everything worked, except the actual Team Foundation Server 2010 serving step.
@@ -128,13 +140,16 @@ Final Result: Installation failed with error code: (0x80070643), "Fatal error du
 As there is really no information in this log as to why the installation failed so I checked the event log on that box.
 
 [![image](images/Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb_3-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_9.png)
+{ .post-img }
 
   
 **Figure: There are hundreds of errors and it actually looks like there are more problems than a failed Service Pack**
 
 I am going to just run it again and see if it was because the netbook was slow to catch on to the update. Hears hoping, but even if it fails, I would question the installation of Windows (PDC laptop original install) before I question the Service Pack ![Smile](images/Installing-Visual-Studio-Team-Foundatio_6DBD-wlEmoticon-smile_2-15-15.png)
+{ .post-img }
 
 [![SNAGHTML1874adc](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc.png)
+{ .post-img }
 
   
 **Figure: Second run through was successful**

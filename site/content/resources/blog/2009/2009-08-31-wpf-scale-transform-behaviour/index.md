@@ -19,6 +19,7 @@ slug: "wpf-scale-transform-behaviour"
 Although this post is called Scale Transform Behaviour you could use any transform / animation in its place. The purpose is to have a slider control in a menu be able to alter the scale of any number of controls within [MVVM](http://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/) views.
 
 ![image](images/WpfScaleTransformBehaviour_7143-image_-2-2.png)
+{ .post-img }
 
 This behaviour allows you to add any Framework Elements to a list of attached controls by adding an attached property of GlobalScaleTransformBehaviour.IsScaled to your controls.
 
@@ -296,10 +297,12 @@ This value is stored so we can set new controls, and then applied to all of the 
 ```
 
 ![image](images/WpfScaleTransformBehaviour_7143-image_-4-4.png)
+{ .post-img }
 
 As you can see I am heavily utilizing the Infragistics controls, but that would not affect this procedure. The result is the ability to smoothly scale your controls based on a global scale setting.
 
 ![image](images/WpfScaleTransformBehaviour_7143-image_-3-3.png)
+{ .post-img }
 
 krsu46zvpt
 

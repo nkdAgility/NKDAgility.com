@@ -24,6 +24,7 @@ Reviewers: [Steve Porter](https://www.scrum.org/steve-porter) 
 <figure>
 
 ![](images/image-25-4-4.png)
+{ .post-img }
 
 <figcaption>
 
@@ -52,6 +53,7 @@ There are a number of things that we collectively believe are required to do Scr
 - Actual Completed: 0
 
 ![](images/image-11-1106x720-2-2.png)
+{ .post-img }
 
 The answer to all of these searchers is zero! These are complementary practices that may or may not work within the bounds of your organisational complexity, and all of these are an indication to me that your organisations are only [just starting its evolution towards agility](https://nkdagility.com/blog/evolution-not-transformation-this-is-the-inevitability-of-change/).
 
@@ -66,6 +68,7 @@ Perhaps you need to appease other parts of the organisation that are not yet rea
 <figure>
 
 ![](images/Story-Points-360p-1-15-15.gif)
+{ .post-img }
 
 <figcaption>
 
@@ -90,6 +93,7 @@ While they have gained an understanding of the goals, they still don't have an u
 <figure>
 
 ![](images/image-27-6-6.png)
+{ .post-img }
 
 <figcaption>
 
@@ -112,6 +116,7 @@ Confidence is gained by truly understanding the uncertainty of delivery and fact
 <figure>
 
 ![](images/image-5-10-10.png)
+{ .post-img }
 
 <figcaption>
 
@@ -134,6 +139,7 @@ With both of these being true we can have 100% confidence that we have the most 
 <figure>
 
 ![](images/image-7-12-12.png)
+{ .post-img }
 
 <figcaption>
 

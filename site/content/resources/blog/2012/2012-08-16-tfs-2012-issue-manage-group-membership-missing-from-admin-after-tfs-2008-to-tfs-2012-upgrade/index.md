@@ -24,6 +24,7 @@ I found that the solution below did not always do the job and I had to add a sec
 You get an “Unable to remove the selected identity from this group” error when trying to remove someone from contributors.
 
 [![image](images/image_thumb50-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image50.png)  
+{ .post-img }
 **Figure: Unable to delete user from group**
 
 ### Applies To
@@ -36,11 +37,14 @@ You need to make sure that you are in the appropriate groups first. This could b
 
 1. I am in the Administration Console Users list… (yes I reapplied)[  
     ![image](images/image_thumb51-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image51.png)  
+{ .post-img }
     **Figure: Administration Console User List**
 2. I am in the Team Foundation Server Administrators group…[  
     ![image](images/image_thumb52-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image52.png)  
+{ .post-img }
     **Figure: Team Foundation Server Administrators** 
 3. I am in the Project Collection Administrators group…[![image](images/image_thumb53-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image53.png)  
+{ .post-img }
     **Figure: Project Collection Administrators**
 
 If you have checked all of the permissions then we have a problem. Log in as the “TFS Service” account that you are using and see if you still can’t change things.
@@ -69,11 +73,13 @@ In order to call TFS Security to add permissions to the Project Administrators g
 If you connect to the TFS Server and view the tbl\_project table in the Collection you will see the Project Uri, which contains the GUID.
 
 [![image](images/image_thumb54-5-5.png "image")](http://blog.hinshelwood.com/files/2012/08/image54.png)  
+{ .post-img }
 **Figure: Finding the Project GUID**
 
 Now that you have the GUID for the Team Project you can execute the command above to add the missing ability to Modify Membership back into TFS.
 
 [![image](images/image_thumb55-6-6.png "image")](http://blog.hinshelwood.com/files/2012/08/image55.png)  
+{ .post-img }
 **Figure: Adding the missing security**
 
 Hopefully there will be a better way to get the Team Project GUID once the RTM version of the Power Tools becomes available and that there will be a hotfix for this annoying bug in the upgrade.

@@ -17,12 +17,14 @@ slug: "an-index-to-all-visual-studio-2010-overview-sessions"
 ---
 
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)
+{ .post-img }
 
 Over the last year I have delivered a variety of high-level overviews of Visual Studio ALM and the features that are available within it. These are all high level overviews even when talking about specific topics, and I have occasionally had to hand wave where things did not go well (Cough… Sharepoint Dev… cough) but these sessions make up the core features of Visual Studio 2010 and Team Foundation Server 2010.
 
  
 
 As we are getting closer to a better understanding of Dev11 and with an overriding need to clean up my hard drive I wanted to post one of each of the public webcast that I delivered. This does not always represent the best session, but the ones with the least technical hickups along the way ![Smile](images/wlEmoticon-smile-3-3.png)
+{ .post-img }
 
 _If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of the [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program._
 

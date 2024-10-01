@@ -24,16 +24,19 @@ Did you know that you can connect a Test Controller to Team Foundation Service? 
 I did not realise that this was supported and I only stumbled across it as I was tinkering with my local Test Controller and saw my TF Service instance in the connection menu and wondered what would happen.
 
 ![image](images/image48-1-1.png "image")  
+{ .post-img }
 **Figure:** [**Connect a Test Controller to Team Foundation Service**](http://msdn.microsoft.com/en-us/library/vstudio/hh546460.aspx)
 
 To get the Test Controller you need to get a hold of the [Agents ISO](http://www.microsoft.com/visualstudio/eng/downloads#d-additional-software) from the download site and run the install.
 
 ![image](images/image49-2-2.png "image")  
+{ .post-img }
 **Figure: Run configuration to connect a Test Controller to Team Foundation Service**
 
 Once you have the agent installed you can then get on with the configuration. This is simple and the only surprise was that it worked.
 
 ![image](images/image50-3-3.png "image")  
+{ .post-img }
 **Figure: Configure to connect a Test Controller to Team Foundation Service**
 
 This is so simple it is ridicules. Just select your hosted Team Foundation Service environment from the ‘browse’ list. You will likely have to configure the additional account to talk to your local agents as the account that you use to connect to TFS does not have that permission.
@@ -41,6 +44,7 @@ This is so simple it is ridicules. Just select your hosted Team Foundation Servi
 Under the covers the controller will be detecting that it is TF Service which is why the “use different credentials to connect to Team Foundation Server” is disabled but that did confuse me for a while. That was until I remembered that the Build Controller automatically retrieves the [Service Credentials](http://blog.hinshelwood.com/tfs-service-credential-viewer/) from TF Service and this was likely doing the same. It is however not that obvious and as I am in a hotel on a hotel speed connection I battled with error messages for a while. But they were all in the tubes and not in the controller.
 
 ![image](images/image51-4-4.png "image")  
+{ .post-img }
 **Figure: TF400324 Team Foundation services are not available from server**
 
 This however is a red hearing as you can see from the log:
@@ -74,6 +78,7 @@ Man I hate hotel connections and their flakiness.
 However after a little perseverance and clicking at just the right time to get on the maintenance plunger cycle for the hotel WiFi and you are connected.
 
 ![image](images/image52-5-5.png "image")  
+{ .post-img }
 **Figure: Configured to connect a Test Controller to Team Foundation Service**
 
 Now that we are configured we can head over to Microsoft Test Manager, switch to the Lab Centre and configure an environment.

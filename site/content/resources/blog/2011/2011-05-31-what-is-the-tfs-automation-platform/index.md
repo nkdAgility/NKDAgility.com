@@ -18,6 +18,7 @@ slug: "what-is-the-tfs-automation-platform"
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb2-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif)The TFS Automation Platform is a project that will be developed initially as the [TFS Iteration Automation](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) project for the Rangers, but which has a grander  vision to solve a need for customers to have things just happen within TFS.
+{ .post-img }
 
 Currently, the scope of this project is to create automations that assist with iteration management, but my eventual goal for this project is to enable a wide variety of automation solutions. This platform enables the development of three major classifications of automations: automations that can be called on a schedule; automations that can respond to an event in TFS; automations that can be called on demand.
 
@@ -55,6 +56,7 @@ An install on either the client or the server would only be required when the pl
 The purpose of this section is to help the team understand the way that the system goes together without locking them into an tight architecture at this early stage in the process.
 
  [![image](images/image_thumb16-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image16.png)  
+{ .post-img }
 **Figure: TFS Automation main components brainstorm**
 
 ### Automaton Package

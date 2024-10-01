@@ -15,6 +15,7 @@ slug: "tfs-vs-subversion-fact-check"
 ---
 
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.
+{ .post-img }
 
   
 
@@ -49,6 +50,7 @@ I want to take a look at each of the “Weak points” mentioned and see if ther
 Fixed in TFS 2010: This was the case in versions prior to TFS 2010, but with the new branching features it is easy to both see where your branches are and what change sets have been merged to which branches.
 
 ![image](images/32ab51073e36_8B5F-image_-4-4.png)  
+{ .post-img }
 **Figure: Branches are easy to identify**
 
 If you have your branches setup as just directories in the trunk then it is probably the case that your company is just doing it wrong. You should have a standard layout as I have shown above, and indeed this is the format that is recommended in the [TFS Branching Guidance](http://tfsbranchingguideiii.codeplex.com/) and I would recommend that you read it before you just dive into branching.
@@ -79,6 +81,7 @@ This is really just a difference in the products. Just like VSS users needed to 
 With TFS you should be using the tools provided so this never happens. If you call “Undo Checkout” it will automatically revert to the server version. You never know the server version may have changed since you last checked out
 
 ![image](images/32ab51073e36_8B5F-image_-3-3.png)
+{ .post-img }
 
 **Figure: Using Windows Explorer you never get your checkout’s out of sync**
 
@@ -88,6 +91,7 @@ With TFS you should be using the tools provided so this never happens. If you ca
 > \-[Jarosław Dobrzański](http://dobrzanski.net)
 
 ![image](images/32ab51073e36_8B5F-image_-2-2.png)Fixed in TFS 2010: This one is just plain wrong. I don’t blame the author, I would be much more inclined to blame the marketing team a Microsoft for not making this as big a deal as it should be. Can you say “[Team Explorer Everywhere](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=af1f5168-c0f7-47c6-be7a-2a83a6c02e57&displaylang=en)”.
+{ .post-img }
 
 This was originally a third party product called Teamprise that integrated Eclipse into TFS, but with its purchase by Microsoft and the launch of TFS 2010 they have beefed it up so that it supports:
 
@@ -129,8 +133,10 @@ I like this being hard…
 > \>>It’s not a free tool
 
 ![msdn_com](images/32ab51073e36_8B5F-msdn_com_-5-5.png)This is really only partly true. Anyone with a MSDN subscription has a license to both run a TFS server and to connect to any TFS instance, couple that with SQL Server Standard being included in the definition of a TFS License then you can pretty much run TFS for free. If you have some business users that do not have MSDN, then yes, you will need to buy some retail CAL’s, but with the retail TFS 2010 at £500 that includes 5 users without CAL’s price is not an excuse not to use TFS.  
+{ .post-img }
 
 ![CP_banner_111x111_gen](images/32ab51073e36_8B5F-CP_banner_111x111_gen_-1-1.jpg)If you are an open source developer with no MSDN subscription then you can use [Codeplex](http://www.codeplex.com/) which is completely free from end to end.  
+{ .post-img }
 
 One thing I always think about for cost is the on-going support cost. With SVN you are at the mercy of forums and community support that, while often good, is not always timely. TFS is a fully supported retail product, and with the addition of Work Items, Build and Lab all from the same product you don't even need to think about nor support the communication between them.
 

@@ -17,6 +17,7 @@ slug: "tfs-integration-tools-issue-sequence-contains-no-elements"
 According to [TFS Integration Tools – March 2012 Release](http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/tfs-integration-tools-march-2012-release.aspx) there was a fix for “Resolving VC namespace conflicts results in System.InvalidOperationException: Sequence contains no elements” in the March release. I am using the March release and:
 
 [![image](images/image_thumb64-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image64.png)  
+{ .post-img }
 Figure: Sequence contains no elements
 
 ### Applies to
@@ -74,6 +75,7 @@ Well that sucks…
 One work around that I found with the help of [Bill Essary](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/03/visual-studio-alm-rangers-champion-awards.aspx) is to remove the “Tfs2008VCAdapter.dll” files from the folder so that they can’t even be loaded.
 
 [![image](images/image_thumb65-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image65.png)  
+{ .post-img }
 **Figure: Get rid of the offending adapters**
 
 1. Create new folder called “NOT NEEDED” under “C:Program Files (x86)Microsoft Team Foundation Server Integration ToolsPlugins”

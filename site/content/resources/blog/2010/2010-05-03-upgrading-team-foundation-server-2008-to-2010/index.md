@@ -23,6 +23,7 @@ slug: "upgrading-team-foundation-server-2008-to-2010"
 ---
 
 ![vs2010alm](images/UpgradingtoTeamFoundationServer2010_C1D3-vs2010alm_-13-13.png)I am sure you will have seen my [posts on upgrading](http://blog.hinshelwood.com/archive/2010/04/12/_upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done.aspx) our internal Team Foundation Server from TFS2008 to TFS2010 Beta 2, RC and RTM, but what about a fresh upgrade of TFS2008 to TFS2010 using the RTM version of TFS. One of our clients is taking the plunge with TFS2010, so I have the job of doing the upgrade.
+{ .post-img }
 
   
  
@@ -36,6 +37,7 @@ Update 4th May 2010
 * * *
 
 It is sometimes very useful to have a team member that starts work when most of the Sydney workers are heading home as I can do the upgrade without impacting them. The down side is that if you have any blockers then you can be pretty sure that everyone that can deal with your problem is asleep ![Sad](images/UpgradingtoTeamFoundationServer2010_C1D3-wlEmoticon-sad_2-14-14.png)
+{ .post-img }
 
 I am starting with an existing blank installation of TFS 2010, but Adam Cogan let slip that he was the one that did the install so I thought it prudent to make sure that it was OK.
 
@@ -44,6 +46,7 @@ I am starting with an existing blank installation of TFS 2010, but Adam Cogan le
 We need to check that TFS 2010 has been installed correctly. First, check the Admin console and have a root about for any errors.
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-12-4.png)  
+{ .post-img }
 **Figure: Even the SQL Setup looks good. I don’t know how Adam did it!**
 
 ### Backing up the Team Foundation Server 2008 Databases
@@ -51,6 +54,7 @@ We need to check that TFS 2010 has been installed correctly. First, check the Ad
 As we are moving from one server to another ([recommended method](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration)) we will be taking a backup of our TFS2008 databases and resorting them to the SQL Server for the new TFS2010 Server. Do not just detach and reattach. This will cause problems with the version of the database. If you are running a test migration you just need to create a backup of the TFS 2008 databases, but if you are doing the live migration then you should stop IIS on the TFS 2008 server before you backup the databases. This will stop any inadvertent check-ins or changes to TFS 2008.
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-2-5.png)
+{ .post-img }
 
 **Figure: Stop IIS before you take a backup to prevent any TFS 2008 changes being written to the database.**
 
@@ -74,9 +78,11 @@ After John confirmed that he had everything done I turned IIS off again and made
  
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-7-10.png)  
+{ .post-img }
 **Figure: Backup all of the databases for TFS and include the Reporting Services, just in case.**
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-3-6.png)  
+{ .post-img }
 **Figure: Check that all the backups have been taken**
 
 Once you have your backups, you need to copy them to your new TFS2010 server and restore them. This is a good way to proceed as if we have any problems, or just plain run out of time, then you just turn the TFS 2008 server back on and all you have lost is one upgrade day, and not 10 developer days.
@@ -100,9 +106,11 @@ You can use this to verify that the upgrade was successful. it should however be
 Restoring the databases is much more time consuming than just attaching them as you need to do them one at a time. But you may be taking a backup of an operational database and need to restore all your databases to a particular point in time instead of to the latest. I am doing latest unless I encounter any problems.
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-6-9.png)  
+{ .post-img }
 **Figure: Restore each of the databases to either a latest or specific point in time.**
 
  ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-10-2.png)  
+{ .post-img }
 **Figure: Restore all of the required databases**
 
 Now that all of your databases are restored you now need to upgrade them to Team Foundation Server 2010.
@@ -153,11 +161,13 @@ To do this, detach the new collection from the server and rename the physical fi
 You can follow [http://www.mssqltips.com/tip.asp?tip=1122](http://www.mssqltips.com/tip.asp?tip=1122 "http://www.mssqltips.com/tip.asp?tip=1122") for a more detailed explanation of how to do this.
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-5-8.png)  
+{ .post-img }
 **Figure: Stop the collection so TFS does not take a wobbly when we detach the database.**
 
 When you try to start the new collection again you will get a conflict with project names and will require to remove the Test Upgrade collection. This is fine and it just needs detached.
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-8-11.png)  
+{ .post-img }
 **Figure: Detaching the test upgrade from the new Team Foundation Server 2010 so we can start the new Collection again.**
 
 You will now be able to start the new upgraded collection and you are ready for testing.
@@ -193,13 +203,16 @@ Lovely, the number of iterations are the same, and the number of files is bigger
 Can we connect to the new collection and project?
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-9-12.png)  
+{ .post-img }
 **Figure: We can connect to the new collection and project.**
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-4-7.png)  
+{ .post-img }
 **Figure: make sure you can connect to The upgraded projects and that you can see all of the files.**
 
   
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-11-3.png)  
+{ .post-img }
 **Figure: Team Web Access is there and working.**
 
 Note that for Team Web Access you now use the same port and URL as for TFS 2010. So in this case as I am running on the local box you need to use [http://localhost:8080/tfs](http://localhost:8080/tfs) which will redirect you to [http://localhost:8080/tfs/web](http://localhost:8080/tfs/web) for the web access.

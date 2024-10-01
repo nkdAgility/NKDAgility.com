@@ -21,6 +21,7 @@ If you were buying a car, or a TV, you as the purchaser would do your best to un
 <figure>
 
 ![](images/All-technical-debt-is-risk-to-the-product-and-to-your-business-1152x720-1-1.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -67,6 +68,7 @@ A good example of this is from the Developer Division (DivDev) at Microsoft in d
 <figure>
 
 ![](images/image-2-4-4.png)
+{ .post-img }
 
 <figcaption>
 
@@ -87,6 +89,7 @@ Two visionaries at Microsoft, Brian Harry and Aaron Bjork, started to make chang
 <figure>
 
 ![](images/image-3-5-5.png)
+{ .post-img }
 
 <figcaption>
 
@@ -101,6 +104,7 @@ And boy was that hard! Moving to 3-week Sprints created a level of transparency 
 <figure>
 
 ![](images/image-6-6.png)
+{ .post-img }
 
 <figcaption>
 
@@ -115,6 +119,7 @@ It took them many years of hard work paying back the now transparent Technical D
 <figure>
 
 ![](images/image-1-3-3.png)
+{ .post-img }
 
 <figcaption>
 

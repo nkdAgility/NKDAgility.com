@@ -23,6 +23,7 @@ slug: "tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-ce
 When running the upgrade from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 you get a TF400432 error stating that the Team Foundation Server configuration was unable to connect to SharePoint administration site.
 
 [![TF400432 : We were unable to connect to the SharePoint Central Administration site](images/image23_thumb-2-2.png "TF400432 : We were unable to connect to the SharePoint Central Administration site")](http://blog.hinshelwood.com/files/2012/12/image23.png)  
+{ .post-img }
 **Figure: TF400432 : We were unable to connect to the SharePoint Central Administration site**
 
 You get the error:
@@ -43,6 +44,7 @@ It looks like at some point the port for SharePoint Administration was changed b
 There are two options. I can change SharePoint to be the same port that Team Foundation Server is expecting, or I can update Team Foundation Server to use the correct port.
 
 ![Update the SharePoint link from Team Foundation Server to the correct value](images/image19-1-1.png "Update the SharePoint link from Team Foundation Server to the correct value")  
+{ .post-img }
 **Figure: Update the SharePoint link from Team Foundation Server to the correct value**
 
 In this case updating Team Foundation Server was easier than messing with SharePoint. You can update the Central Administration URL from “Team Foundation Server Administration Console | Application Tier | SharePoint Web Application | Select Site | Change” and then update the URL and click OK.

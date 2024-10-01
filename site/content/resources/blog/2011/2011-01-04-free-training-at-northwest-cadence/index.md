@@ -14,10 +14,12 @@ slug: "free-training-at-northwest-cadence"
 ---
 
 **[![NWCadence-Logo](images/d8a99e5b9476_9304-NWCadence-Logo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-d8a99e5b9476_9304-NWCadence-Logo_2.png)**
+{ .post-img }
 
 Even though I have only been at Northwest Cadence for a short time I have already done so much. What I really wanted to do was let you guys know about a bunch of FREE training that NWC offers.
 
 These sessions are at a fantastic time for the UK as 9am PST (Seattle time) is around 5pm GMT. Its a fantastic way to finish off your Fridays ![Smile](images/d8a99e5b9476_9304-wlEmoticon-smile_2-2-2.png) and with the lack of love for developers in the UK set to continue I would love some of you guys to get some from the US instead.
+{ .post-img }
 
   
 

@@ -23,6 +23,7 @@ You may get an exception when working with Areas or Teams in Team Foundation Ser
 It may affect only one collection or all of them.
 
 ![TF51011: The specified area path does not exist](images/image-1-1.png "TF51011: The specified area path does not exist")  
+{ .post-img }
 Figure: TF51011: The specified area path does not exist
 
 As well as this error you may get many other errors doing other actions from both the web interface and Visual Studio around the interaction with and use of Areas and Iterations.
@@ -110,6 +111,7 @@ Exception Stack Trace:    at Microsoft.TeamFoundation.WorkItemTracking.Server.Sy
 The “Microsoft.TeamFoundation.WorkItemTracking.Server.DataAccessLayerImpl.SyncTree” method is to do with the Area and Iteration trees and Sync’ing them with work item tracking. Something is not right here.
 
 ![TF400898: An Internal Error Occurred](images/image1-2-2.png "TF400898: An Internal Error Occurred")  
+{ .post-img }
 Figure: TF400898: An Internal Error Occurred
 
 Again the catch all web error, but this time it is for creating a new Team. This is due to Team and Area being tied together by default. You may be able to bypass the error by un-ticking the “Create an area with the name of the team” option, but this does not fix the underlying issue.
@@ -117,6 +119,7 @@ Again the catch all web error, but this time it is for creating a new Team. This
 You may also experience the list of Areas or Iterations that are listed on a Work Item not matching up with what it says in the Tree. This is again due to that “Sync” method failing.
 
 ![Operational Interface job status graph](images/image2-3-3.png "Operational Interface job status graph")  
+{ .post-img }
 Figure: Operational Interface job status graph
 
 If you load operational interface from the [http://mytfsserver:8080/tfs/\_oi](http://mytfsserver:8080/tfs/_oi) (yes you just put “\_oi” after the URL for your TFS server.) Then you should see a graph of all of the running jobs and their status. If the “Work Item Tracking Integration Synchronisation” job is failing and the other characteristics above are also true then you might be hitting a known bug:

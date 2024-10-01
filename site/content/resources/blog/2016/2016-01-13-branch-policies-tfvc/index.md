@@ -18,16 +18,19 @@ I have been working with a large customer in Norway that is moving to TFS whole 
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 
 ![image](images/image-3-3.png "image")
+{ .post-img }
 
 What I wanted was something like the existing Branch Policy feature for Git but in TFVC. This would need to be done as a Checkin Policy for it to work, so I went looking for existing policies, of which there are many. I found that while I could use existing policies in combination with the "pattern" policy that is part of the TFS Power Tools, however it would be an ugly and unwieldly solution.
 
 The customer has many projects as part of a single Team Project, and that would make it very difficult to manage many policies based on paths. We needed a consolidated and simple solution.
 
 ![image](images/image-1-1-1.png "image")
+{ .post-img }
 
 This is what I wanted, a list of branches on the left, coupled to a set of policies on the right. We can then extend the policies as we decide what is needed. However it was quickly identified that they often applied policies across multiple branches. Specifically they have a year based branching structure that is replicated through all of the components. So for "Product 2016" they also deploy "Component A 2016". There are hundreds of components that make up the final Product so…
 
 ![image](images/image-2-2-2.png "image")
+{ .post-img }
 
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 

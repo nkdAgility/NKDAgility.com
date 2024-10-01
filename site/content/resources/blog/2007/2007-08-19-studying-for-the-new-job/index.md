@@ -23,12 +23,14 @@ These will be on top of the [MCPD: Enterprise Applications Developer](http://blo
 For BizTalk I bought:
 
 [![](images/5109rhmfwCL._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_OU02_AA240_SH20_.jpg)](http://www.amazon.co.uk/exec/obidos/ASIN/0470046422/202-0028303-9793477 "Professional BizTalk Server 2006") [![](images/51BPxhyOIXL._BO2,204,203,200_PIsitb-dp-500-arrow,TopRight,45,-64_OU02_AA240_SH20_.jpg)](http://www.amazon.co.uk/exec/obidos/ASIN/1590597788/202-0028303-9793477 "Pro WF, Windows Workflow In.NET 3.0")
+{ .post-img }
 
 The reason for the WF book is that, with the impending release of BizTalk 2006 R2, support for WF and [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") will be part of the application.
 
 For Sharepoint 2007:
 
 [![](images/41CXXm-gRQL._AA240_.jpg)](http://www.amazon.co.uk/exec/obidos/ASIN/0735623201/202-0028303-9793477 "Inside Microsoft Windows Sharepoint Services 3.0")
+{ .post-img }
 
 I know that this is not a MOSS book, but you need to start somewhere and there are no exams for MOSS yet, too new. Although I have asked to be put on the beta list for Sharepoint 2007, MOSS 2007 and .NET 3.0 exams...
 

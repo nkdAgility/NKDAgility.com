@@ -15,6 +15,7 @@ slug: "linkedin-woopsie-with-the-outlook-2010-social-media-connector"
 ---
 
 ![linkedin-logo](images/LinkedInAccountSuspended_F8E0-linkedin-logo_-2-2.jpg)I have always used the LinkedIn toolbar for Outlook to sort out, upload and sync my contacts. Because of this I have over 2000 contacts in my contacts list that I sync with my phone, Plaxo, live, Google and others.
+{ .post-img }
 
 Updates 28th April 2010
 
@@ -25,6 +26,7 @@ Updates 28th April 2010
 I got a surprise the other day when my LinkedIn account was suspended and I was unable to login.
 
 ![image[4]](images/LinkedInAccountSuspended_F8E0-image4_-1-1.png)   
+{ .post-img }
 **Figure: Bad, account suspended**
 
 So I contacted LinkedIn customer services to find out what the problem is, and here is the response:
@@ -47,6 +49,7 @@ It looks like LinkedIn has suspended my account because of something that their 
 **Has anyone else been suspended who has installed the Office 2010 RTM and the LinkedIn Add-On?**
 
 It only tool another hour after I explained where I thought the problem was for LinkedIn support to solve the problem ![Smile](images/LinkedInAccountSuspended_F8E0-wlEmoticon-smile_2-3-3.png)
+{ .post-img }
 
 > Dear Martin,
 > 

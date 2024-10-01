@@ -18,6 +18,7 @@ slug: "professional-kanban-trainer-for-applying-professional-kanban"
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.
 
 ![](images/applying-professional-kanban-background-logo-1280x611-1-1.jpg)
+{ .post-img }
 
 With the integration of the [Kanban Guide for Scrum Teams](https://nkdagility.com/the-kanban-guide-for-scrum-teams/) into the world of Scrum.org, I had been waiting for Daniel Vacanti and co to release more around Professional Kanban. It was my very first thought when I attended the beta teach of the [Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-training-with-certification/) training in Burlington, Masatusis in January 2018.
 
@@ -32,6 +33,7 @@ As part of this, I have become the 20th [Professional Kanban Trainer](https://pr
 The [journey to become a Professional Kanban Trainer](https://prokanban.org/become-a-trainer/) is documented on the Pro Kanban site and involves applications, interviews, asssessments, and training.
 
 ![](images/image-4-3-3.png)
+{ .post-img }
 
 If you want to become a trainer then please reach out to them. Daniel and Colleen are amazing.
 

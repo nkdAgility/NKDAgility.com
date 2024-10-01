@@ -17,6 +17,7 @@ slug: "migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform"
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.
 
 ![image](images/image14-1-1.png "image")  
+{ .post-img }
 **Figure: Successful migration from TF Service to TF Server**
 
 We are working with a customer next week who is using [http://tfs.visualstudio.com](http://tfs.visualstudio.com) but due to a misapplication of the rules governing the management of data they are having to move their Team Foundation Service data local.

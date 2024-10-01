@@ -18,6 +18,7 @@ It is fantastic news that [GeeksWithBlogs.net](http://geekswithblogs.net/jjulian
 A long and happy integration to you both...
 
 ![](images/Geekswithblogs_v3_07.jpg)[![](images/logosmall5.gif)](http://www.community-credit.com/default.aspx)
+{ .post-img }
 
 Now all we need is a child component to select the CC category from Windows Live Writer :)
 

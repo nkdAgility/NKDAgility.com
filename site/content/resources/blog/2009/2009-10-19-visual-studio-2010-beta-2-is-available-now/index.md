@@ -18,6 +18,7 @@ slug: "visual-studio-2010-beta-2-is-available-now"
 Visual Studio 2010 Beta 2 is now available on MSDN for download!
 
 [![clip_image001](images/VisualStudio2010Beta2isavailableNow_10BF1-clip_image001_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudio2010Beta2isavailableNow_10BF1-clip_image001_2.png)
+{ .post-img }
 
 With 2010 comes new SKU's. Microsoft is trying to simplify the layout and features that you can get.
 
@@ -32,6 +33,7 @@ Visual Studio IDE now comes in these flavours:
 · Microsoft® Visual Studio® 2010 Ultimate with MSDN
 
 [![clip_image002](images/VisualStudio2010Beta2isavailableNow_10BF1-clip_image002_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-VisualStudio2010Beta2isavailableNow_10BF1-clip_image002_2.png)
+{ .post-img }
 
 So no Team Edition, and bits of Team Suit has been split between Premium and Ultimate. I addition all of the editions above will include a Team Foundation Server CAL which will make licensing a lot simpler.
 

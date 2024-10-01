@@ -32,6 +32,7 @@ It seams that in order to clamed a referral bonus the referee needs to have comp
 I thought I should "name and shame" those that have gone only half way :)  Get backing up!
 
 [![image](images/MozyBackupSpaceGatheringupdate_1383B-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MozyBackupSpaceGatheringupdate_1383B-image_2.png)
+{ .post-img }
 
 I only need another 300MB...so...
 

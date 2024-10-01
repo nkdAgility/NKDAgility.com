@@ -65,6 +65,7 @@ One of the defining projects of the last 10 years that has resulted in this chan
 I created this presentation based on work that I have done with Scrum.org and I use it at organisations that have a little more inflexibility and stubbornness than most. Usually, at these customers I hear phrases like “You cant do that here.” and “We are not a software company.” Thus looking at the FBI is a good one as it is not software and government. If the government can do agile then by golly everyone can.
 
 [![image](images/image_thumb2-2-2.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image2-9-9.png)
+{ .post-img }
 
 I always like to start a presentation by looking at some data. For good reasons have we moved to agility from waterfall and above you can see that as of 2011 we are three times as likely to succeed doing agile as we were under a waterfall.
 
@@ -75,12 +76,14 @@ I always like to start a presentation by looking at some data. For good reasons 
 Although we still have a lot of challenged projects we can vastly reduce the failure of them. In addition one would hope that an agile project that fails, fails only a few short iterations into the project so the costs are a lot less. Waterfall projects tend to fail near the end as it is not clear what will be delivered, or not delivered until at least testing commences.
 
 [![image](images/image_thumb3-3-3.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image3-10-10.png)
+{ .post-img }
 
 Can you imagine a green screen terminal application delivered in 1995? Just to put it in perspective, Windows 95 was available. Hell, my Atari has a graphical UI. Well the FBI launched their obsolete criminal records system in1995 and used technology that was museum quality at launch. This is all to common with projects that take many years to complete and even more so on government projects.
 
 So what happened next?
 
 [![image](images/image_thumb4-4-4.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image4-11-11.png)
+{ .post-img }
 
 At first all was well and the FBI Director commissioned a 3 year project with a budget of $390 million but very quickly things start to drift and he had to go, cap in hand, to congress and ask for more money. As this is typical government fair he obviously got it but in 2005 there was still nothing delivered. Not a single piece of working functionality existed after 4 years and an extra $170 mullion. How would your boss react if you had nothing to show for 4 weeks… let alone 4 years?
 
@@ -89,18 +92,21 @@ Would you still have a job?
 In this case obviously the best idea would be to throw away the last 4 years work and start again with a new vendor. Yes… that’s it…now we can really deliver.
 
 [![image](images/image_thumb5-5-5.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image5-12-12.png)
+{ .post-img }
 
 Obviously having already spent over $400 million on vaporware the new vendor just needs more time and more money. It obviously also makes sense to pick not only a large defence contractor, co they have a good record of delivering high quality on time and budget, but also not a software company. The rational for this I do not know but that is just what the FBI did. However after 4 years not even a third of the work was complete and almost 90% of the budget had been spent. Indeed rough estimates to complete the project was another 6 years (10 years total) and another $351million (grand total of $772 million.)
 
 So with over 400 people working on the project the total waste so far is over $700 million and the project is 9 years in. Remember that the out-of-date green screen terminal application has now been in place for 15 years and Windows 7 is just around the corner. We already have the iPhone and iPad so what the hell are these muppets playing at! Its time for a different tack…
 
 [![image](images/image_thumb6-6-6.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image6-13-13.png)
+{ .post-img }
 
 The new tack was an agile one and for these guys it was more of a jibe. They created a Scrum Studio in the basement of the hover building and found the 40 best folks that they could to run with the new format. This being the second reset with so many years and dollars under it there needed to be results and quick. Not only did they deliver incrementally but they were code complete with only one year of work and $30 million spent. That’s right… I am not missing a zero.
 
 Unfortunately the project had taken so long that the hardware that had been bought by the previous attempts was vastly out-dated and needed to be replaced as obsolete.
 
 [![image](images/image_thumb7-7-7.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image7-14-14.png)
+{ .post-img }
 
 In early 2012 the FBI shipped to production on the new refreshed hardware and saw significant improvements for a much lower cost.
 

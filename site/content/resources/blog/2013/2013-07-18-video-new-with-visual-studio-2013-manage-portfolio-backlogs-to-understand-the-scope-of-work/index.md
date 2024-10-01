@@ -23,6 +23,7 @@ New with Visual Studio 2013 is the ability to manage portfolio backlogs to help 
 In order to organise our work a little better we tend to create something called “Epics” that are representative of things that are too big for any single sprint and may be broken down into smaller items. However these ‘Epics” do not really continue to exist as all we really care about is the leaf nodes. We still need to understand things that are maybe always larger, like Features and Goals.
 
 [![image](images/2013-Agile-Portfolio-Management-101-play-1-1.png "image")](http://www.screencast.com/t/T6oadOD4AJbh)  
+{ .post-img }
 Video: Portfolio Management in Visual Studio 2013
 
 This video should have given you an introduction to the new Portfolio Management tools. These tools represent only the first taster from Microsoft on what they are doing for Portfolio Management in Visual Studio 2013.

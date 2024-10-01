@@ -21,6 +21,7 @@ If you are a developer who customises or extends Visual Studio Team System then 
 **VSTS Developer**
 
 [![Join the VSTS Developer group](images/LinkedinVSTSGroup_D124-VSTS_5-1-1.gif)](http://www.linkedin.com/e/gis/104499/5EDCBC5B9EDA "Join the VSTS Developer Group") 
+{ .post-img }
 
 **NOTE: All requests to join these groups will be checked before they will be approved. Evidence of your participation in VSTS development.**
 

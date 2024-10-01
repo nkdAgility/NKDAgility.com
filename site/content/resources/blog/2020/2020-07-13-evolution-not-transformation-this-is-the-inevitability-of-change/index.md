@@ -31,6 +31,7 @@ NOTE: Prefer to watch instead? I presented this post as a talk at Agile in Niger
 <figure>
 
 !["Look around you. Everything changes. Everything on earth is in a continuous state of evolving, refining, improving, adapting, enhancing, and changing."](images/image-15-800x450-4-5.png)
+{ .post-img }
 
 <figcaption>
 
@@ -47,6 +48,7 @@ During the Industrial Revolution, when traditional management practices were dev
 <figure>
 
 !["Firms today experience a much higher velocity of business change. Market opportunities appear or dissolve in months or weeks instead of years"](images/image-17-800x450-7-8.png)
+{ .post-img }
 
 <figcaption>
 
@@ -63,6 +65,7 @@ As yourself, [would your organisation would have survived COVID](https://nkdagil
 <figure>
 
 !["If it ain't broke, don't fix it"](images/image-18-800x450-9-10.png)
+{ .post-img }
 
 <figcaption>
 
@@ -83,6 +86,7 @@ The best analogy for this continuous state of evolving, refining, improving, ada
 <figure>
 
 ![Orienteering towards a goal with continuous refinement of direction as impediments are removed](images/image-19-800x450-11-12.png)
+{ .post-img }
 
 <figcaption>
 
@@ -99,6 +103,7 @@ The bit where I feel that orienteering as a sport does not fit is that it genera
 <figure>
 
 ![Change is the only constant in life. Ones ability to adapt to those changes will determine your success in life.](images/image-23-800x450-16-17.png)
+{ .post-img }
 
 <figcaption>
 
@@ -121,6 +126,7 @@ You as leaders need to understand why you are making each decision, and what you
 <figure>
 
 !["I have not failed. I've just found 10,000 ways that won't work."](images/image-24-800x450-18-19.png)
+{ .post-img }
 
 <figcaption>
 

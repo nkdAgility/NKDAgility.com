@@ -27,11 +27,13 @@ There has however been some trouble and strife. This is a Developer Prototype an
 Now that I am back on Windows 8 everything is good again.
 
 [![image](images/image_thumb-1-1.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image-11-11.png)  
+{ .post-img }
 Figure: Experience Index is high
 
 The first thing that you will want to do is download the Windows 8 sample apps. While the Intel ones are good they are all written in C++. When I asked them for .NET versions I got a .NET UI that called a C++ assembly that used the sensors. Not what I was after….
 
 [![image](images/image_thumb1-2-2.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image1-12-12.png)  
+{ .post-img }
 Figure: Online samples help you get familiar with the capabilities
 
 If you download the “Full” samples list there are over 270 applications to explore. As I [mentioned in part 1](http://nkdagility.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/) this laptop is all decked out with all of the sensors that you might want to develop Windows 8 or Windows 8.1 apps. I have noticed with this laptop that even with a significant code base this laptop performs very well with Visual Studio 2012 and Visual Studio 2013. The performance is unbelievable and I think owe a lot to the HDD ratting an 8.1; Visual Studio has always been very hard disk intensive with builds, code sense and other cool features that usually take there toll. The laptop eats up all that Visual Studio can throw at it.
@@ -39,16 +41,19 @@ If you download the “Full” samples list there are over 270 applications to e
 The first thing I wanted to look at was the GPS capability. Now there are not many laptops that have GPS but this one does.
 
 [![image](images/image_thumb2-3-3.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image2-13-13.png)  
+{ .post-img }
 Figure: Visual Studio runs a dream
 
 There are many different ways to identify your location and the OS obfuse that a little so that you can use a single API through the Geolocator. Even if you don’t have GPS it will do a little two-step and use Wi-Fi or other methods to get an approximate location.
 
 [![image](images/image_thumb3-4-4.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image3-14-14.png)  
+{ .post-img }
 Figure: Even developers need to give permission
 
 When you fire up the demo application you will have to allow,just like any app, the use of the data.
 
 [![image](images/image_thumb4-5-5.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image4-15-15.png)  
+{ .post-img }
 Figure: Geolocation demo application
 
 However once you have allowed it you can have live relocation data piped into your application. Although the accuracy here is 100 (I have no idea what the measurement is in, probably 100 meters) I saw it as low as 50 indoors.
@@ -120,26 +125,31 @@ You can see a simple object, a couple of events and an async process  to update
 While the Microsoft samples have breadth and show us how to interact with each individual component the Intel samples give us some complete scenarios to look at. There is a simple RTS demo as well as an app that enumerates all of the sensors that are available. Where the Microsoft samples obscure the details the Intel ones revel in them.
 
 [![image](images/image_thumb5-6-6.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image5-16-16.png)  
+{ .post-img }
 Figure: You will need the DirectX SDK
 
 To get everything working you will need both the Windows SDK and the DirectX SDK for either Windows 8 or Windows 8.1 respectively. If you have the latest version of Visual Studio 2013 you may hit the ["S1023" error when you install the DirectX SDK (June 2010)](http://support.microsoft.com/kb/2728613/). If you can, then install the DirectX SDK first, otherwise you will have to do some jiggery pokery to get everything working again.
 
 [![image](images/image_thumb6-7-7.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image6-17-17.png)  
+{ .post-img }
 Figure: Sensor Enumerator
 
 The first application is a list of all of the sensors. If you wiggle the laptop around you can see the numbers changing. In addition there are a number of cool apps that demonstrate real world uses of the API’s and Sensors.
 
 [![image](images/image_thumb7-8-8.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image7-18-18.png)  
+{ .post-img }
 Figure: Terrain Editor
 
 In the Touch folder there is a terrain modification application that lets you paint the landscape with sand.
 
 [![image](images/image_thumb8-9-9.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image8-19-19.png)  
+{ .post-img }
 Figure: Some kind of Tron cycle application
 
 The Tron application is pretty cool. It lets you steer the bike by the horizontal orientation of your laptop. Again all of these applications from Intel are in C++ and I find it very difficult to follow the code from an architecture perspective but you can spelunk it yourself.
 
 [![image](images/image_thumb9-10-10.png "image")](http://nkdagility.com/wp-content/uploads/2013/09/image9-20-20.png)  
+{ .post-img }
 Figure: RTS Simulation
 
 The Real Time Strategy application lets you select units by touching them and then give them orders by tapping on the landscape. We almost always forget the most important and most used sensor of them all… the touch screen.

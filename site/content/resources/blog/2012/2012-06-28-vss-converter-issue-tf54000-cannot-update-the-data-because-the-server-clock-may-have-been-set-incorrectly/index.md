@@ -24,6 +24,7 @@ slug: "vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clo
 During a VSS import you get a TF54000 error with a message of “Cannot update the data because the server clock may have been set incorrectly”
 
 [![image](images/image_thumb63-1-1.png "image")](http://blog.hinshelwood.com/files/2012/06/image81.png)  
+{ .post-img }
 **Figure: TF54000: Cannot update the data because the server clock may have been set incorrectly**
 
 ### Applies to

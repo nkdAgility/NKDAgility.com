@@ -25,6 +25,7 @@ When Scrum and Agile were first conceptualized the idea of colocation meant that
 <figure>
 
 ![](images/image-3-1280x695-3-3.png)
+{ .post-img }
 
 <figcaption>
 
@@ -41,6 +42,7 @@ However today this limitation does not exist for much of the world. With modern 
 I, along with almost all of my collogues at Scrum.org, have been running all of our classes as Live Virtual Classrooms using a verity of technologies and we have found that the experience for students is as good as, if not better than an in-person class. The trick is that we judiciously use breakout rooms and structured exercises with only a small amount of lecture to facilitate the greatest amount of learning.
 
 ![](images/image-4-1148x720-5-5.png)
+{ .post-img }
 
 I for one have found that it is much easier to create interactive experiences in the virtual world, and have found that participation is just as high as in in-person classes. In a physical room, it is hard to get 20 people to participate in a big-wall exercise without jostling, crowding, and taking turns. In the virtual space, we can make the wall as big as we like.
 
@@ -49,6 +51,7 @@ I for one have found that it is much easier to create interactive experiences in
 Wow, it is now so much easier to run a class. I don't have to worry about flying, hotels, and transport, and neither do my students. It is better for the environment and its better for our sanity and family life. While it will take a little time for folks to spin up their home office this seems to be the new normal. I'm not sure many folks want to go back to many hours of commuting, and seasonal sickness, among other issues.
 
 ![](images/image-6-1280x587-8-8.png)
+{ .post-img }
 
 I think this especially makes sense for the world of product delivery. Why go to the same place just to all work at a desk, in a cube, while all participating in the virtual world of our computer.
 

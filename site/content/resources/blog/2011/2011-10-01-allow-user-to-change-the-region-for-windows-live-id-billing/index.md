@@ -16,6 +16,7 @@ slug: "allow-user-to-change-the-region-for-windows-live-id-billing"
 ---
 
 ![img_33742_microsoft-windows-live-logo_450x360](images/img_33742_microsoft-windows-live-logo_450x360-1-1.jpg "img_33742_microsoft-windows-live-logo_450x360")Recently I was burned rather heavily be Microsoft Billing due to their inability to change the region (country) of an account. Yes, you heard me right, there is NO way to change your billing region and the ONLY solution Microsoft can offer is to create a new account.
+{ .post-img }
 
 - **Update 2013-01-16 - Microsoft opens international barriers to Xbox Live account migration.**  
     "Microsoft's throwing open the doors on Xbox Live account migration worldwide for its Xbox 360 consoles, today announcing that XBL accounts are now transferable from region-to-region. That includes everything in your Gold level account"  
@@ -31,6 +32,7 @@ slug: "allow-user-to-change-the-region-for-windows-live-id-billing"
 This would not be so bad if it was not for the plethora of services that have recently started using Live ID and I brought this issue up at the last MVP summit. My primary live id will always be the one I have had for ~10 years, but I now have to have another live id for every country I end up living in.
 
 ![uservoice-logo](images/uservoice-logo-3-3.png "uservoice-logo")If you are already sold then you can vote on either of these user voice sites, but make sure that your opinion of this is heard:
+{ .post-img }
 
 - **User Voice (Visual Studio):** [**Allow user to change the region for Windows Live ID billing**](http://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/2289385-allow-user-to-change-the-region-for-windows-live-i)
 - **User Voice (Windows Phone):** [**Allow changing your windows id location**](http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no "http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no")
@@ -40,6 +42,7 @@ Still not sure how this will affect you? Read on…
 ### First Burn – Xbox
 
 ![xbox-live-logo](images/xbox-live-logo-6-6.png "xbox-live-logo")Anyone that knows me would have heard me rant on this one. If you spend 7 years using Xbox Live building up 15000+ gamer score and spending £2000+ (~$3000) on content and subscriptions only to loose EVERYTHING because I took a job in another country!
+{ .post-img }
 
 The result is that I (any this affects my family of 4) have two Live ID’s to manage. Both with content and neither with the full story.
 
@@ -48,6 +51,7 @@ For more you can read detailed Xbox shenanigans both on  [Xbox Live Accounts �
 ### Second Burn – Windows Phone 7
 
 ![windows_phone_logo300x300](images/windows_phone_logo300x300-4-4.jpg "windows_phone_logo300x300")
+{ .post-img }
 
 You would think for the Windows Phone launch that they would have solved this problem, at least for it. But after logging into my brand new T-Mobile US HD7 I was encouraged to download the “Tesco” application and I could only use my UK Credit cards!
 
@@ -82,6 +86,7 @@ With Xbox, Windows Phone and Windows 8 all using your Live ID for login into the
 - You can’t access any features that are country specific
 
 ![windows-live](images/windows-live-5-5.jpg "windows-live")  
+{ .post-img }
 **Figure: I am trying to decide if this is a joke**
 
 Yes, our online world comes together a long as you stay in the one country for the rest of your life!

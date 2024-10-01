@@ -33,6 +33,7 @@ By the time you hit the AgentScope activity in a TF Build workflow you are alrea
 There are a number of reasons that you might want to reserve your TF Build Agent in Visual Studio 2012 Team Foundation Server before you hit the default AgentScope. The one I am working on with a customer is that they have a build that can only be executed once on a Build server and then always fails. Yes, the build breaks the Build Agent. Yes, I know that this is something that the development team responsible should fix but the Software Configuration Management (SCM) team that owns the servers can only encourage good behaviour and not enforce it.
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 **Figure: Agent Scope runs on the agent**
 
 The current solution is to revert the build server to a snapshot after every build. This causes a bunch of knock on problems:
@@ -59,6 +60,7 @@ The way to solve this is to either rewrite the AgentScope Activity (not going to
 While this does complicate the build process it does indeed looks to be the best bet in this circumstance.
 
 ![image](images/image1-2-2.png "image")  
+{ .post-img }
 **Figure: Reserve an agent before you execute the build for real**
 
 ## Reserve an Agent in some way
@@ -71,6 +73,7 @@ This should be simple even though it looks a little convoluted.
 4. Exit AgentScope
 
 ![image](images/image2-3-3.png "image")  
+{ .post-img }
 **Figure: Add additional AgentScope to reserve an agent**
 
 In this additional Agent Scope we can now call GetBuildAgent to populate the data we need and gain access to the Tags. However we need to do a couple of things that are not normally done:
@@ -139,11 +142,13 @@ namespace MrHinsh.TfsBuildExtensions
 Once compiled and added to your custom assemblies location you can then add that new activity to your Build Workflow and configure it.
 
 ![image](images/image3-4-4.png "image")  
+{ .post-img }
 **Figure: Add a Tag to the Agent workflow**
 
 We already got the BuildAgent variable from the GetBuildAgent activity and we can pass it in here. I am also choosing to use the Build Number, that we get from the BuildDetail object,  to add as a tag. This makes sure that it is unique to this execution and allows us a simple way to clean it up afterwards.
 
 ![image](images/image8-9-9.png "image")  
+{ .post-img }
 **Figure: Tag added to agent**
 
 As you can see this successfully adds the tag to the agent.
@@ -193,11 +198,13 @@ namespace MrHinsh.TfsBuildExtensions
 You can see that I am just using the build agent object and parsing the servers host name from the URL. This seamed a lot easier than using any of the other methods that I could think of and even after spelunking the API’s for a few hours I could not find a better approach.
 
 ![image](images/image4-5-5.png "image")  
+{ .post-img }
 **Figure: URL from Build Configuration page of TFS Administration Console**
 
 This will give me the fully qualified name of the server as it is configured in the Build Configuration of the TFS Administration Console on the Build Agent server.
 
 ![image](images/image5-6-6.png "image")  
+{ .post-img }
 **Figure: Get Machine name of the Agent workflow config**
 
 Again I am using the BuildAgent object and passing back the value as AgentMachineName to a veriable that I can use outside of the scope of the “Reserve on Agent” sequence.
@@ -207,6 +214,7 @@ Again I am using the BuildAgent object and passing back the value as AgentMachin
 Rather than creating something custom we really want to hook into what is already there. When you configured a build you were able to define some information on what agent to select and run on. In this configuration you were able to select things like Agent Name and Tags to filter by.
 
 ![image](images/image6-7-7.png "image")  
+{ .post-img }
 **Figure: Selecting the Agent Settings**
 
 Using Agent Name will not provide us any value as we do not want another build to snag this agent but instead to ignore it. To do that we need to set the “Tag Comparison Operator” to “MatchExactly” and make sure that only the agents we want have the desired tag set. In this case it is NONE. With no tags added this build should select any agent with no tags and ignore agents that have even one tag.
@@ -269,6 +277,7 @@ namespace MrHinsh.TfsBuildExtensions
 All this code does is take the Agent Settings object and add a tag to make sure that we get the right agent the second time through the AgentScope.
 
 **![image](images/image7-8-8.png "image")  
+{ .post-img }
 Figure: Add Tag to Agent Settings Workflow**
 
 So we just pass the AgentSettings object and feed it the same build number that we used before as the tag. Now we can only get this agent to “Match Exactly” and thus the build should run on this agent.
@@ -282,6 +291,7 @@ And to reset the reservation all that needs done is to remove that tag from the 
 This process while requiring the customisation of your build process can allow you to do a bunch of things with your build server that you may not want to enshrine in it. You may want to do the snapshot and revert not because your developers are breaking the build, but because you want to start with a clean build machine each time to test your install process as well.
 
 ![image](images/image9-10-10.png "image")  
+{ .post-img }
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.

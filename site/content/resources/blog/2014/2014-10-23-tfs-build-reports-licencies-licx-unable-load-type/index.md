@@ -20,6 +20,7 @@ I have been working with a team of coders in Athens moving them over from StarTe
 I configured a build server and got one of their coders to install the 10GB of additional components that we need to get the build working. They have Infragistics and Developer Express, along with a plethora of other tools and components for both WPF, WinForms, and Web. After a few builds we got to a seemingly confusing error. There was a licence.licx file referencing version 12.2 of Infragistics that was causing the build server to throw an error. But it built just fine on the local developer workstations.
 
 ![clip_image001](images/clip-image0012-1-1.png "clip_image001")
+{ .post-img }
 
 The error looks fairly strait forward but the referenced components were installed on the server. Because they use a lot of components they have a lovely spreadsheet with all of the versions and what component the developers need with a link to the network share where the installers live. It should be a case of walking the list, installing everything, and we are good to go.
 
@@ -34,6 +35,7 @@ I did find one error where a DLL was missing. The coders, it turns out, all knew
 In this case after spending some time scratching my head I noticed that the build numbers in the version did not match. The build numbers in the licence file matched the error, but not the version of Infragistics that was installed. Doh… but I thought that there was a handy dandy spreadsheet?
 
 ![clip_image002](images/clip-image0022-2-2.png "clip_image002")
+{ .post-img }
 
 At some point a newer version of 2012.2 was downloaded and dropped onto the network share, but since the developers all likely had the previous version installed as well as the new one, the licence.licx file would resolve for them locally. Since the build server was new, any new developer would have the same problem, this issue reared its ugly head. This is a frustrating problem as it means that something is not getting build correctly for everyone that is just slipping on by.
 

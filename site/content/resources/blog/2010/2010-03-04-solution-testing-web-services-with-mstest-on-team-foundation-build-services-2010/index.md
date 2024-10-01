@@ -24,6 +24,7 @@ slug: "solution-testing-web-services-with-mstest-on-team-foundation-build-servic
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!
 
 ![clip_image002](images/2faeb3370980_F4FC-clip_image002_-1-1.jpg)
+{ .post-img }
 
 Update: 4th March 2010 – After having huge problems getting this working I read [Billy Wang’s post](http://billwg.blogspot.com/2009/06/testing-wcf-web-services.html) which showed me the light.
 
@@ -34,6 +35,7 @@ The problem here is that even though the test passes locally it will not during 
 First, the best way to get the parameters you need is to right click on the method you want to test and select “Create Unit Test”. This will detect wither you are running in IIS or ASP.NET Development Server or None, and create the relevant tags.
 
 ![clip_image002[4]](images/2faeb3370980_F4FC-clip_image0024_-2-2.jpg)
+{ .post-img }
 
 Figure: Right clicking on “SaveDefaultProjectFile” will produce a context menu with “Create Unit tests…” on it.
 
@@ -180,6 +182,7 @@ Now we have another problem… this will ONLY run on the build server and will f
 Open “Tools | Options | Test Tools | Test Execution” in Visual Studio and you will see a field called “Web application root directory”. This is where you override that default above.
 
 ![image](images/2faeb3370980_F4FC-image_-3-3.png)  
+{ .post-img }
 **Figure: You can override the default website location for tests.**
 
 In my case I would put in “D:WorkspacesSSWSSWSqlDeployDEVMain” and all the developers working with this branch would put in the folder that they have mapped.
@@ -209,16 +212,19 @@ Although this looks convoluted and complicated there are real problems being sol
 ## Need Help?
 
 ![www.SSW.com.au](images/GWB-5366-o_SSWLogo1-4-4.png)
+{ .post-img }
 
 [SSW](http://www.ssw.com.au) was the first company in the world outside of Microsoft to deploy Visual Studio 2010 Team Foundation Server to production, not [once](http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx), but [twice](http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx).
 
 ### Team Foundation Server
 
 ![Visual Studi2010 ALM](images/GWB-5366-o_vs2010logo1-5-5.png) SSW provides expert Visual Studio ALM guidance including [installation, configuration and customisation](http://www.ssw.com.au/ssw/Company/SourceControl.aspx) through our four Microsoft Visual Studio ALM MVP’s in three countries; Australia, Beijing and the UK. They have experience deploying to small development shops all the way through to large blue chips.
+{ .post-img }
 
 ### Professional Scrum Developer Training
 
 ![Professional Scrum Developer Training](images/PSD%20Announcement%20Graphic.jpg) SSW has six [Professional Scrum Developer Trainers](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.
+{ .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [Visual Studio](http://technorati.com/tags/Visual+Studio) [SSW](http://technorati.com/tags/SSW) [Testing](http://technorati.com/tags/Testing) [TFS 2010](http://technorati.com/tags/TFS+2010) [WCF](http://technorati.com/tags/WCF) [Silverlight](http://technorati.com/tags/Silverlight) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
 

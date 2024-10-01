@@ -19,6 +19,7 @@ In our [Professional Agile Leadership training](https://nkdagility.com/training/
 <figure>
 
 ![](images/image-3-3-3.png)
+{ .post-img }
 
 <figcaption>
 
@@ -53,6 +54,7 @@ As you move down your chosen [agile evolutionary](https://nkdagility.com/blog/ag
 <figure>
 
 ![](images/image-4-1280x720-4-4.png)
+{ .post-img }
 
 <figcaption>
 

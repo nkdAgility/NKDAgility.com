@@ -21,6 +21,7 @@ The idea of [ILM](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) s
 > #### **How Identity Lifecycle Manager 2007 Works**
 > 
 > [![](images/48505_375x262_miis_f.jpg)](http://www.microsoft.com/windowsserver/ilm2007/overview.mspx)
+{ .post-img }
 
 Out of the box ILM 2007 [supports](http://www.microsoft.com/windowsserver/ilm2007/overview.mspx) the following agents and connectors:
 
@@ -71,6 +72,7 @@ Out of the box ILM 2007 [supports](http://www.microsoft.com/windowsserver/ilm200
 > _Extensible Management Agent for connectivity to all other systems_
 
 But [ILM](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) supports way more than just data consistency. It will even provision Active Directory accounts and mail accounts automatically if an employee is added by HR enabling this process to be automated. You could have HR create a user in their system and set the relevant "profile" that the relates to the user and have their AD and mail setup along with permissions for SharePoint sites, folder shares and any other custom system you care to name ![smile_regular](images/smile_regular-2-2.gif) I like this system already... even if it only does half of what it says on the box it could be a very effective tool in the arsenal of any companies automation strategies.
+{ .post-img }
 
 A good point to note is wither the Data protection Act covers information about a person stored by the company they work for! I am not sure wither the same rules apply, but it is of benefit to any company if users details are accurate across all of their systems.
 

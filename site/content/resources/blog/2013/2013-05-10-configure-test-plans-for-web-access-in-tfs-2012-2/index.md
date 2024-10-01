@@ -26,16 +26,19 @@ If you are working with the Test tab that is new in TFS 2012.2 then you may be w
 - Breaking newsWith [TFS 2013 Update 3 (TFS 2013.3)](http://support.microsoft.com/kb/2933779) the Test team have converted Test Plan and Test Suit to Work Items and enabled Team Field support. Awesome!
 
 ![Naked ALM: Test Hub in TFS 2012.2 Web Access](images/image3-7-7.png "Naked ALM: Test Hub in TFS 2012.2 Web Access")  
+{ .post-img }
 Figure: Test Hub in TFS 2012.2 Web Access
 
 Or you may be wondering where your Test Plans have gone after you change its configuration.
 
 ![Naked ALM: Three Test Plan exist but don't show up in the Test Hub](images/image4-8-8.png "Naked ALM: Three Test Plan exist but don't show up in the Test Hub")  
+{ .post-img }
 Figure: Three Test Plan exist but don't show up in the Test Hub
 
 As it turns out you need to have an exact match between the areas of backlog ownership that are configured for your Team and with the Area path set on your Test Plan. The product team also ‘forgot’ to allow this to work with the ‘team field’ configuration so ware are forced to include a work around for that.
 
 ![Naked ALM: Your team backlog values must match exactly the Area path set on the Test Plan](images/image5.png "Naked ALM: Your team backlog values must match exactly the Area path set on the Test Plan")  
+{ .post-img }
 Figure: Your team backlog values must match exactly the Area path set on the Test Plan
 
 While a little annoying that this is not more easily configurable I can only imagine it getting better in the future… well I hope so anyway…
@@ -45,21 +48,25 @@ While a little annoying that this is not more easily configurable I can only ima
 If you are using Team Foundation Service or an out-of-the-box configured Team Foundation Server then you will be able to assign Area Paths to Teams.
 
 ![Naked ALM: Team A is assigned a particular area](images/image6.png "Naked ALM: Team A is assigned a particular area")  
+{ .post-img }
 Figure: Team A is assigned a particular area
 
 So with an area set for the team this gets passed to the Team tab and with “sub-areas are included” we get a filtered list of Test Plans based on that area path.
 
 ![Naked ALM: Only showing area paths from “TeamsWithAreasTeam A” and below](images/image7-9-9.png "Naked ALM: Only showing area paths from “TeamsWithAreasTeam A” and below")  
+{ .post-img }
 Figure: Only showing area paths from “TeamsWithAreasTeam A” and below
 
 In addition this means that my top level, and default, “Product Owner Team” will see both Test Plans I have in here. This is because one Test Plan is set to “TeamsWithAreasTeam A” and the other to “TeamsWithAreasTeam B”. Only Team B sees Team B’s Test Plans but the parent Team sees both.
 
 ![Naked ALM: Root team can see both sets of Test Plans](images/image8-10-10.png "Naked ALM: Root team can see both sets of Test Plans")  
+{ .post-img }
 Figure: Root team can see both sets of Test Plans
 
 This can be very useful when you have many, many Test Plans and you can use Area Path for Team identification. However if you are currently using Area Path for Product Identification then you will have to specify the Product or Product Component for both the Test Plan and the Team.
 
 ![Naked ALM: Duplicate Team nodes to cope with multiple teams](images/image9-11-11.png "Naked ALM: Duplicate Team nodes to cope with multiple teams")  
+{ .post-img }
 Figure: Duplicate Team nodes to cope with multiple teams
 
 If I now have three Products but I have my same two Teams I then need to have each of the teams represented at all of the leaf nodes for my Area hierarchy so that I can have two web portals with the data split between the teams. This becomes even more complicated if you have 10 teams and 15 products. You can imagine…
@@ -80,6 +87,7 @@ Note If you are an organisation like Microsoft where you can have a dedicated Te
 However the Product Team for the Test tools  kind of forgot, or more likely did not know, that you can configure the Agile Planning Tools to use a custom drop-down-list for Team and have hard coded the Area Path to Team mapping.
 
 ![Naked ALM: No Test Plans show up with a custom Team field](images/image10-1-1.png "Naked ALM: No Test Plans show up with a custom Team field")  
+{ .post-img }
 Figure: No Test Plans show up with a custom Team field
 
 This results in none of your Test Plans ever being able to appear in the Test Hub.
@@ -91,16 +99,19 @@ The Test Hob is being passed “Team A” from the drop-down-list rather than th
 To work around this we can go to our drop-down-list, which is likely a global list, and add an entry that matches the Test Plan area path that is set. So if we add “TeamsWithoutAreas” to the global Team list we can then add that as an additional entry that the team owns.
 
 ![Naked ALM: Add additional values to Team](images/image11-2-2.png "Naked ALM: Add additional values to Team")  
+{ .post-img }
 Figure: Add additional values to Team
 
 Now that we have that in place if we refresh the Test Hub we can see all of the Test Plans that ‘exactly’ match that fake area path. Unfortunately there is no supported way to make that recursive like you can with areas but you can do it and I will show that later.
 
 ![Naked ALM: Test Plans are now showing up](images/image12-3-3.png "Naked ALM: Test Plans are now showing up")  
+{ .post-img }
 Figure: Test Plans are now showing up
 
 This means that all of the test plans need to be shown and can get a little cluttered if you have many Test Plans per product. On option may be to have one Test Plan per Product+Sprint but then sub split that by team by using Test Suites.
 
 ![Naked ALM: Many Teams on the same cadence and product](images/image13-4-4.png "Naked ALM: Many Teams on the same cadence and product")  
+{ .post-img }
 Figure: Many Teams on the same cadence and product
 
 This does have some advantages for reporting as you can roll up a little more easily and would be especially good for many Scrum teams working on a single sprint and needing to be integrated by the end of each sprint.
@@ -110,6 +121,7 @@ This does have some advantages for reporting as you can roll up a little more ea
 When you try to add an area path of “TeamsWithoutAreasProduct 1” to the global list so that you can filter which Team see which Products you will get a TF26204 as the global list validation things it is a domain account or group.
 
 ![Naked ALM: TF26204 when you have a backslash in a global list entry](images/image14-5-5.png "Naked ALM: TF26204 when you have a backslash in a global list entry")  
+{ .post-img }
 Figure: TF26204 when you have a backslash in a global list entry
 
 As, by default, for Teams configured for “team fields” there is no recursion you will never see any Test Plan that is set to anything other than what you can explicitly set in the list. As we can’t add a backslash then we cant get an exact match for any sub levels. This is unfortunate as it means that we have to have all of our Test Plans Area Path set to the root, the same as the team Project name, to be able to see them at all.
@@ -121,6 +133,7 @@ _Warning Never update the database without explicit instructions from a member o
 There is however one way to allow your teams to set whatever Area Path on the Test Case they like and have it all match up correctly. To do so we need to set that single “TeamsWithoutAreas” value to be recursive. When you are using Area Path for the value you get an option in the UI to do this. But with the ‘team field’ you don’t…. but you can still do it if needed.
 
 ![Naked ALM: Set ‘IncludeChildren’ to true to enable recursion](images/image15-6-6.png "Naked ALM: Set ‘IncludeChildren’ to true to enable recursion")  
+{ .post-img }
 Figure: Set ‘IncludeChildren’ to true to enable recursion
 
 If you open up “tbl\_TeamConfigurationTeamFields” collection table and find the references to the ‘TeamFieldValue’ of “TeamsWithoutAreas” (the Team Project name), which is the root area path that we want to enable recursion on. You can now change the ‘IncludeChildren’  value to ‘True’ for those entries.

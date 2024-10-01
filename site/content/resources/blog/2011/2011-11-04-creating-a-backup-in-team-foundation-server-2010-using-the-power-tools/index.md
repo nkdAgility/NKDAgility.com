@@ -35,6 +35,7 @@ Well, you could, but as TFS has a lot of moving parts it can get very complicate
 There are a heck of a lot of databases that, depending on your environment, might be spread over your entire network.
 
 ![Example: complex distribution of databases](images/IC372332.png "Example: complex distribution of databases") **Figure: Deployment Topologies (Where is my data?) from MSDN**
+{ .post-img }
 
 So, how is this problem solved. Well the TFS team have create a tool to create all of the backups and all of the job as well as managing the backup location for you. This sounds fantastic, but how about in practice.
 
@@ -55,6 +56,7 @@ Once you learn how to Google without keywords and read your servers mind you wil
 I initially got an error because the accounts did not really have full control over the target location. This is a problem with the share. Although I have full permission for [fileserver1ShareTFSBackups](file://fileserver1ShareTFSBackups ) it is just a folder under the [fileserver1Share](file://fileserver1folder" data-mce-href=) location and I DO NOT have permission to change the sharing settings there.
 
 ![image](images/image1-1-1.png "image") **Figure: TF254027 is caused by permission issues**
+{ .post-img }
 
  
 
@@ -81,6 +83,7 @@ After much messing around I have found that you can’t use a sub-folder of a sh
 Lets try this again with a share that we control. I will create a backup share on the TFS server and at least then I control then permissions.
 
 ![image](images/image2-2-2.png "image") **Figure: The next Error looks the same, but it is subtly different**
+{ .post-img }
 
  
 
@@ -133,6 +136,7 @@ at Microsoft.TeamFoundation.PowerTools.Admin.Helpers.BackupFactory.TestBackupCre
 It looks like the problem is that SQL Server can’t write to that folder, but I can and the machine account can. Lets try this from the SQL Server itself, and with a native backup.
 
 ![image](images/image3-3-3.png "image") **Figure: SQL Server can’t write to that location**
+{ .post-img }
 
 Dam… So even a native SQL backup can’t write to this location.
 
@@ -167,14 +171,17 @@ As it turns out, SQL Server is running under “LocalSerivce” which is not aut
 As we should always use the SQL Server Configuration Manager to change these things I fired it up and since i already have a Domain account for running TFS under I decided to use that one.
 
 ![image](images/image4-4-4.png "image") **Figure: This is easy**
+{ .post-img }
 
 When you apply it will ask you to restart SQL, but it should be all complete. Lets check TFS and make sure that everything is running…
 
 ![image](images/image5-5-5.png "image") **Figure: OMG! What just happened!**
+{ .post-img }
 
 Oh Shit: I think I just broke TFS. Why can’t TFS connect? Lets try the SQL Management Studio and see.
 
 ![image](images/image6-6-6.png "image") **Figure: What is a SSPI?**
+{ .post-img }
 
 This does not look good…
 

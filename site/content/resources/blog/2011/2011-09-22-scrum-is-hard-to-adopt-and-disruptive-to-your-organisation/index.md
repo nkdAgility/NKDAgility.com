@@ -59,6 +59,7 @@ Is it any wonder that business does not trust us?
 > \-Scrum is Hard and Disruptive, [Ken Schwaber](http://kenschwaber.wordpress.com/), 2006.
 
 An interesting point to note is #3. If what you are doing works, then keep doing it, but usually if you are reading something like this, or thinking of any sort of Agile training then everything is not going well with Waterfall ![Smile](images/wlEmoticon-smile1-6-6.png)
+{ .post-img }
 
 In order to help a Development Team adopt Scrum there are three things that they will need:
 
@@ -69,6 +70,7 @@ Wither this is formal training or in-house adoptive training it is crucial that 
 This is the reason that I created the Scrum Foundation course. It is a level setting course that is designed to put the team on the right track from the start.
 
 ![MCXWQYK0ILHYVUPXXYHRWZERXMGCY3RMJQTZC23CHG53N0AM](images/MCXWQYK0ILHYVUPXXYHRWZERXMGCY3RMJQTZC23CHG53N0AM-3-3.jpg "MCXWQYK0ILHYVUPXXYHRWZERXMGCY3RMJQTZC23CHG53N0AM")  
+{ .post-img }
 **Figure: My First Team (BI) in Chicago this week**
 
 ## Mentoring
@@ -76,6 +78,7 @@ This is the reason that I created the Scrum Foundation course. It is a level set
 Once a team starts implementing Scrum they need a little extra help. While teams that have no on-going Scrum Mentoring do succeed at Scrum, more often they fail, or take a really long time to adopt. With a Mentor that is able to answer questions and attend the Sprint Review and Retrospective team are more easily able to adapt. This mentor does not need to be full time, but available to answer questions when the team has them.
 
 ![TWQEIN2FV04YY24FLFKCCHR3XKRZJ51DNFUPLNRWKZTLF1DJ](images/TWQEIN2FV04YY24FLFKCCHR3XKRZJ51DNFUPLNRWKZTLF1DJ-5-5.jpg "TWQEIN2FV04YY24FLFKCCHR3XKRZJ51DNFUPLNRWKZTLF1DJ")  
+{ .post-img }
 **Figure: My Second Team (ASP.NET) getting stuck into one of my activities**
 
 ## Dedication
@@ -92,6 +95,7 @@ As Ken has said, Scrum is hard to adopt and disruptive to your organisation. It 
     
 
 ![image](images/image-2-2.png "image")  
+{ .post-img }
 **Figure: Not all early sprints will be successful**
 
 During a Scrum adoption **expect to fail early and often**. No, its more than that. I WANT to fail early and often as it is far less costly than the Waterfall (and and long iterative approach) where the risk is at the end and you **fail late**.
@@ -100,6 +104,7 @@ During a Scrum adoption **expect to fail early and often**. No, its more than th
     note: one is circa 20 times more expensive than the other… can you guess which?
 
 ![grafx-agile-risk-value-cycle](images/grafx-agile-risk-value-cycle-1-1.jpg "grafx-agile-risk-value-cycle")  
+{ .post-img }
 **Figure: Agile risk is all up front**
 
 Remember it is HARD to do Scrum, your teams are not used to this process and your business is only beginning to understand the benefits. This is usually when IT management get cold feet and try to pull out. Remember that it is the Business that pays the bills and that they are usually on-board by now. The team may not have had a successful sprint but they will have been able to show "something" and the Product Owner will have been able to give feedback.

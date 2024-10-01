@@ -18,6 +18,7 @@ I have a number of [CodePlex](http://www.codeplex.com "CodePlex") projects that 
 With Visual Studio 2010 the mater is slightly different. It pops up with a vague error that I had not seen before, but a little searching seamed to indicate that it may be the proxy problem rearing its ugly head in a killer way.
 
 [![SavingToCodeplexOverHttpsThroughISA](images/image-1.png)](images/image-1.png)
+{ .post-img }
 
 So the “ServicePointManager does not support proxies with the https scheme” error has been seen before when connecting to [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") services through a proxies. The fix is code based, so that is not something that I can achieve, so I have raised a [bug](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=453677) on Connect.
 

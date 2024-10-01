@@ -16,6 +16,7 @@ slug: "dealing-with-invalid-subversion-ssl-certificates-and-migrations"
 ---
 
 ![subversion](images/subversion-7-7.png "subversion")
+{ .post-img }
 
 Migrating data from SVN to TFS can be both a timely and a costly business. I was trying out the two tools [TFS Integration Platform](http://tfsintegration.codeplex.com/) & [Timely Migration](http://www.timelymigration.com/) but I ran into what looked like the same problem in both if them.
 
@@ -31,6 +32,7 @@ Although I do have permission I can’t get the tools to talk and load from Subv
 -  **TFS Integration Platform  
     **  
     ![image](images/image1-4-4.png "image")  
+{ .post-img }
     **Figure: Unable to validate the URL  
     **
 -  **Timely Migration  
@@ -38,17 +40,20 @@ Although I do have permission I can’t get the tools to talk and load from Subv
     And I am now very confused as I have tried Timely Migrations tool as well and it has an error that is similar enough to not be coincidence.  
       
     ![clip_image004](images/clip_image004-1-1.jpg "clip_image004")  
+{ .post-img }
     **Figure: Also unable to validate the repository URL  
     **
 - **Internet Explorer  
     **  
     I will go back to the admins and make sure that everything is correct, but I am not sure if they are going to have any other advice.  
     ![image](images/image3-6-6.png "image")  
+{ .post-img }
     **Figure: Unable to validate the certificate. (From an internal server)  
     **  
     I have even looked at making sure that the url is correct and putting it into the browser results in a list of the folders which looks right to me.  
       
     ![clip_image006](images/clip_image006-2-2.jpg "clip_image006")  
+{ .post-img }
     **Figure: This is expected  
     **
 - **SmartSVN**  
@@ -56,6 +61,7 @@ Although I do have permission I can’t get the tools to talk and load from Subv
     This is very odd and I am having some trouble figuring it out. I can access SVN through SmartSVN.  
       
     ![clip_image007](images/clip_image007-3-3.jpg "clip_image007")  
+{ .post-img }
     **Figure: SmartSVN worked just fine after I accepted the fingerprint**
 
 So, what is the problem?
@@ -69,6 +75,7 @@ svn.exe co https://host/PathToYourRepo c:somethinglocalfolder
 This command will download the latest sources locally if you let it run but it will also, If there is a certificate mismatch / error the command line tool will ask you what to do. 
 
 ![image](images/image2-5-5.png "image")
+{ .post-img }
 
   
 **Figure: Options for accepting certificate**

@@ -19,6 +19,7 @@ slug: "tfs-integration-tools-tf237165-the-team-foundation-server-could-not-updat
 While running an integration platform import you get a “TF237165: The Team Foundation Server could not update the work item because of a validation error on the server. This may happen because the work item has been modified or destroyed, or that you do not have permission to update that work item.”
 
 [![image](images/image_thumb22-1-1.png "image")](http://blog.hinshelwood.com/files/2012/07/image22.png)  
+{ .post-img }
 **Figure: TF237165: The Team Foundation Server could not update the work item**
 
 Unfortunately it does not tell you what it was trying to save.

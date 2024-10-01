@@ -52,6 +52,7 @@ New-IMAPSubscription -Name "Gmail_IMAP_Subscription" -Mailbox "martin@nakedalm.c
 As with all PowerShell it is poorly documented but in the end I executed the above PowerShell and my hopes of a sucessfukll result were dashed.
 
 ![](images/041614_1437_Office365an1-1-1.png)
+{ .post-img }
 
 So they did implement the block deep down in the software. Really I knew that they would have…
 
@@ -80,6 +81,7 @@ Get-MigrationBatch | fl
 When you execute the command you get a list of sync's and the number of accounts it is migrating.
 
 ![](images/041614_1437_Office365an2-2-2.png)
+{ .post-img }
 
 This is really the only way to move from Google Mail to Office 365 and it does work. I say mail coming in almost immediately and it took maybe a few days for all 7gb to come across.
 

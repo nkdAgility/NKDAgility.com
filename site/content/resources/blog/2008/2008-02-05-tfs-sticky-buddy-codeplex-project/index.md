@@ -18,6 +18,7 @@ slug: "tfs-sticky-buddy-codeplex-project"
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...
 
 [![DigitalWhiteboardJune2007](images/TFSStickyBuddyCodeplexproject_9FDC-DigitalWhiteboardJune2007_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyCodeplexproject_9FDC-DigitalWhiteboardJune2007_2.png) I will be creating a version of the [Sticky Buddy idea](http://www.visualbuilder.com/viewdetail.php?group_id=43&id=532&type=1) that will run off Team Foundation Server and allow teams to display information on the status of their development on one or many projects.
+{ .post-img }
 
 The application will be able to be displayed on a projector or large TV screen. The application will consist of a main screen that queries a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Server and pulls a list of projects that the user can select for display and within each project it will display the iteration tree. This tree will be displayed as a set of concentric columns that are populated with "Change Requests" and "Requirements" that are currently within that iteration path.
 

@@ -18,6 +18,7 @@ To date, I have facilitated a couple of Live Virtual F2F for the other trainers 
 <figure>
 
 ![](images/Delivering-Live-Virtual-Classes-in-Microsoft-Teams-1280x347-2-2.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -83,6 +84,7 @@ These things together as a single package give you the ability to create Groups 
 <figure>
 
 ![](images/image-15-841x720-5-6.png)
+{ .post-img }
 
 <figcaption>
 
@@ -108,6 +110,7 @@ In order to get set up the first task is to head over to the Microsoft 365 Porta
 Before you get started in Microsoft Teams for Live Virtual Classrooms you need to [Authorize guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-dependencies). This has a lot of moving parts as you change the default security stance from "internal only" to "Allow Guests" for all of the services that Guests need to interact with as part of a Teams Team.
 
 ![](images/image-17-986x720-8-9.png)
+{ .post-img }
 
 This is by far the most complex part of this to set up as there are options in many parts of the system. The link below leads you through how to [Authorize Guest access in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/teams-dependencies) and start adding guests. Please note that there is currently a 24h hiatus between enabling guests and it is available in Teams. This is due to the extra load that everyone working from home has added.
 
@@ -154,6 +157,7 @@ While you are now good to go for running Professional Scrum classes there is som
 <figure>
 
 ![](images/image-19-1034x720-11-11.png)
+{ .post-img }
 
 <figcaption>
 

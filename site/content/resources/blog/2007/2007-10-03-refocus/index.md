@@ -31,6 +31,7 @@ At least I have some help, a nice guy from New Iberia (Hi Michael!) and a Gal fr
 This should be fun...
 
 ![](images/smile.gif)
+{ .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
 

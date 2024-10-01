@@ -26,6 +26,7 @@ I have been working with a company in Silicon Valley that is doing one of the mo
 As with the previous TFS Edition we are moving SharePoint data through multiple environments and in the case of SharePoint we are only worried about consolidation. There are many SharePoint sites used by this organisation that are strung around the corporate network and we first need to consolidate them onto a single server so that we can easily migrate them to SharePoint 2013.
 
 ![image](images/image37-1-1.png "image")  
+{ .post-img }
 Figure: Production SharePoint Environment
 
 Initially we are doing a single server trial consolidation and upgrade to prove out the process and make sure that everything works. Here we will find all of the issues and tribulations that will inhibit our ability to make this transition easy. Lets get started…

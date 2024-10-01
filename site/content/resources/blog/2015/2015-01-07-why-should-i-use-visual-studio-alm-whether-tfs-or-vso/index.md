@@ -53,12 +53,14 @@ These are the key areas that you have to decide what your plan is for each one. 
 So now that we have identified what is part of an ALM system what are the comparable choices? Luckily there are organisations out there that do the analysis and have come up with an independent comparison.
 
 [![clip_image001](images/clip_image0013-1-1.png "clip_image001")](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-30-15-metablogapi/1425.image1_5F00_13048664.png)
+{ .post-img }
 
 At this point you might be asking where Git and Jenkins are in this picture. Well they are so far to the left bottom of this graph that they do not even register. Git + Jenkins is only a tiny part of that Visual Studio ALM story. Indeed with TFS 2013 Microsoft has baked Git into the platform and with TFS 2015 we are getting cross-platform build agents as well as an end-to-end ALM story for Android and iOS.
 
 At this time, according to Gartner, there is not better ALM platform than Visual Studio ALM.
 
 ![clip_image002](images/clip_image002-2-2.jpg "clip_image002")
+{ .post-img }
 
 One potentially valuable exercise is to script out your organisational workflow at a high level from the perspective of tool support. The workflow above is what I teach companies to use and it maps pretty well with Visual Studio ALM. You then have a choice to make. You can either build your own custom ALM solution or choose one that already exists. You can check out my [end-to-end demo from NDC London](http://nkdagility.com/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome/), while not everything went perfectly you can see the story.
 

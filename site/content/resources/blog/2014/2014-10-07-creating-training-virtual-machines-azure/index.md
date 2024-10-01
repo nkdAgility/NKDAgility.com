@@ -29,30 +29,36 @@ The kind of tough thing is that the virtual hard disk (VHD) used by the virtual 
 The first task is [to download and install the Azure PowerShell](http://go.microsoft.com/fwlink/p/?linkid=320376&clcid=0x409) using the web platform installer. This will get all of the pre-requisites and install them for you.
 
 ![clip_image001](images/clip-image0011-1-1.png "clip_image001")
+{ .post-img }
 
 Once you have this installed you will have "Microsoft Azure PowerShell" available on your Start Menu. Run this and wait a bit for it to load all of its gubbens.
 
 ![clip_image002](images/clip-image0021-2-2.png "clip_image002")
+{ .post-img }
 
 At this point we need a couple of things to be setup in the Azure Portal. I am sure that you can do this stuff with PowerShell as well, but I usually prefer to only drop to PowerShell for repeatable tasks. We need to configure a container for our VHD.
 
 ![clip_image003](images/clip-image0031-3-3.png "clip_image003")
+{ .post-img }
 
 So if you do not already have one head over to the azure portal and create a Storage location. You will need to give it an unchangeable URL so pick carefully. I wish I had picked something other than "trainingeu" but that’s the way the cookie crumbles.
 
 NoteYou can create a new one with the right name and 'copy' the content over before deleting the old one. This, for now, is too much hassle.
 
 ![clip_image004](images/clip-image0041-4-4.png "clip_image004")
+{ .post-img }
 
 We then create a 'folder' called a 'container' in there to hold our VHD's. We are now good to go for uploading out 80GB VHD from Microsoft. You will need to download all of the bits from them and unpack it locally to extract the VHD. That will take a while, even on my SSD's it takes about 30 minutes. Once there though you have a nave a clean clean VHD ready to go.
 
 ![clip_image005](images/clip-image0051-5-5.png "clip_image005")
+{ .post-img }
 
 The first thing we need to do is authenticate with Azure which is fairly simple. You can automate this but for now the UI approach is best. If you call "Add-AzureAccount" without any parameters it will pop a UI authentication box. This did not work with "two-factor" and I had to turn that off, but that [could be a Windows 10 issue](http://nkdagility.com/agility-windows-10-upgrading-surface-pro-2/) rather than an Azure one.
 
 Once you are all logged in you can run any commands that you have permissions for and in this case we need to send our local VHD file to the VHD folder that we created.
 
 ![clip_image006](images/clip-image0061-6-6.png "clip_image006")
+{ .post-img }
 
 ```
 Add-AzureVhd -Destination "https://trainingeu.blob.core.windows.net/vhds/bkvm-2013-3.vhd" -LocalFilePath "V:ServersBKVM2013.3WMIv2Virtual Hard Disksbkvm-2013-3.vhd"
@@ -71,18 +77,22 @@ NoteThe upload is reusable but only from the same computer. It does need to do t
 So now I have a really big file on the internet. Time to make it do something useful. First we need to tell Azure that it really is a VHD and we really want to be a template so we can create lots of duplicates. In this case I need 16 on the day.
 
 ![clip_image007](images/clip-image0071-7-7.png "clip_image007")
+{ .post-img }
 
 You need to create an 'image' that we will use as that template. If you go to "Virtual Machines | Images | Create" you will get the dialog you need to create the image. You will have to select "I have syspreped the virtual machine" even though you have not. We want duplicates of the same computer as is, rather than something that can be integrated into the network or domain. Sysprep would give us the out-of-box experience of a new install so that we can rename the computer. These VM< 's don’t need to talk to each other and will all have the same SID, name, and users. They are copies.
 
 ![clip_image008](images/clip-image0081-8-8.png "clip_image008")
+{ .post-img }
 
 After few minutes our new template will be available in the gallery. Head to "Virtual Machines | Instances | New | From Gallery" to get the dialog above.
 
 ![clip_image009](images/clip-image0091-9-9.png "clip_image009")
+{ .post-img }
 
 We can now create, through the UI, as many instances as we like and all we need to pick is the size / cost that we are willing to pay. The BKVM is a beast and has new than just TFS on there; SQL Server, SQL Server Analysis Services, SQL Server Reporting Services, Release Manager, TF Build, SharePoint 2013. So a big fast instance is needed. The local VM recommends 6GB RAM and 1 core.
 
 ![clip_image010](images/clip-image0101-10-10.png "clip_image010")
+{ .post-img }
 
 After some experimenting I will be going with D2. D2 gives you the 2 cores and 7GB ram, but also adds SSD disks. This should give the students roughly the same performance that I get running the VM locally on my Surface.
 
@@ -114,10 +124,12 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 This error is a red hearing and confused me for ages as I could not figure out the issue.
 
 ![clip_image011](images/clip-image0111-12-12.png "clip_image011")
+{ .post-img }
 
 I first looked to see if I had the cloud service in the right location. Yup… "West Europe".
 
 ![clip_image012](images/clip-image012-13-13.png "clip_image012")
+{ .post-img }
 
 Maybe I put my storage in the wrong location? Nope… "West Europe". Dam, whats the problem…
 
@@ -244,6 +256,7 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 Woot! I now have a new VM created kinda automated, or at least with the possibility.
 
 ![clip_image013](images/clip-image013-14-14.png "clip_image013")
+{ .post-img }
 
 Poo… its an A1 instance. A piddley wee scrawny server that would have no hope of lifting SharePoint's fat ass, and that will defiantly get beaten up by Analysis Services. In fact the minimum for TFS is 2GB and we do not even meet that.
 
@@ -254,6 +267,7 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
  Now I have more memory, more processor and lovely SSD's underpinning my student box.
 
 ![clip_image014](images/clip-image014-15-15.png "clip_image014")
+{ .post-img }
 
 Phew..
 
@@ -264,6 +278,7 @@ Now I could do all out and automate creating the VM's, as well as the Stop-Azure
 With all the hassle of setting up and configuring local computers this service is an absolute dream. Now all that matters is the cost. Luckily there is a [handy dandy Azure pricing calculator](http://azure.microsoft.com/en-us/pricing/calculator).
 
 ![clip_image010[1]](images/clip-image01011-11-11.png "clip_image010[1]")
+{ .post-img }
 
 This is the monthly cost for the fast SSD D-Series virtual machines and for 16 of them (one for each student) it looks like it would be around £2207.60 per month. That’s £2.97 per hour for all 16. The course is 16 hours so if I am careful it will be about £50 for a two day course. Of course if I forget to turn them off in the evening then it could hit £142.56 for 48 hours.
 

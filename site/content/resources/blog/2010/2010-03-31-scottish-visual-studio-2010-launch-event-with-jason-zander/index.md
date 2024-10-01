@@ -19,6 +19,7 @@ slug: "scottish-visual-studio-2010-launch-event-with-jason-zander"
 ---
 
 ![image](images/ScottishVisualStudio2010Launcheventwith_125AE-image_-2-2.png)_Microsoft are hosting a launch event for Visual Studio 2010 on **Friday 16th April in Edinburgh**. The have managed to convince one of the head honchos from the Visual Studio product team to come to Scotland. With [Scott Guthrie last week in Glasgow](http://blog.hinshelwood.com/archive/2010/03/29/scott-guthrie-in-glasgow.aspx) and now [**Jason Zander**](http://blogs.msdn.com/jasonz/), Global General Manager for Visual Studio will be arriving in Edinburgh for the Launch event._
+{ .post-img }
 
 _There will be two speakers for the event, Jason will be up first and will be doing a session on Windows, Web, Cloud and Windows Phone 7 development with Visual Studio 2010._
 
@@ -37,6 +38,7 @@ _I think Jason will be hanging out for the afternoon to answer questions and mee
 _f you would like to attend, please email Nathan Davies on [a-ndavie@microsoft.com](mailto:a-ndavie@microsoft.com) with your name, company and email address_
 
  ![image[4]](images/ScottishVisualStudio2010Launcheventwith_125AE-image4_-3-3.png)
+{ .post-img }
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [Developing](http://technorati.com/tags/Developing) [WP7](http://technorati.com/tags/WP7)
 

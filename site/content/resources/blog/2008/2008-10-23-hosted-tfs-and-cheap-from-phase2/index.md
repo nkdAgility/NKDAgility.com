@@ -14,6 +14,7 @@ slug: "hosted-tfs-and-cheap-from-phase2"
 ---
 
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)
+{ .post-img }
 
 I received a wee email from Kevin Doherty the CEO at [Phase2](http://Phase2.com). These guys host lots of useful things and the had obviously decided to host [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") as part of their offering.
 

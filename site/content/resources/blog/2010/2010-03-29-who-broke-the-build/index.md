@@ -21,8 +21,10 @@ slug: "who-broke-the-build"
 ---
 
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)
+{ .post-img }
 
 I recently sent round a list of broken builds at SSW and asked for them to be fixed or deleted if they are not being used. My colleague [Peter](http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Peter.aspx) came back with a couple of questions which I love as it tells me that at least one person reads my email ![Smile](images/114db5acbf63_EDD8-wlEmoticon-smile_2-9-9.png)
+{ .post-img }
 
 I think first we need to answer a couple of other questions related to builds in general.
 
@@ -47,6 +49,7 @@ Now we know why, lets answer Peters questions:
 You can normally only see the builds listed for each project. But, you have a little application called “Build Notifications” on your computer. It is installed when you install Visual Studio 2010.
 
 ![clip_image001](images/114db5acbf63_EDD8-clip_image001_-2-2.png)  
+{ .post-img }
 **Figure: Staring the build notification application on Windows 7.**  
 
 Once you have it open (it may disappear into your system tray) you should click “Options” and select all the projects you are involved in.
@@ -56,15 +59,18 @@ This application only lists projects that have builds, so don’t worry if it is
 I just selected ALL projects that have builds.
 
 ![image](images/114db5acbf63_EDD8-image_-8-8.png)  
+{ .post-img }
 **Figure: All builds are listed here**
 
 In addition to seeing the list you will also get toast notification of build failure’s.
 
 ### How can we get more info on **what** broke the build? (who is interesting too, to point the finger ![Smile](images/114db5acbf63_EDD8-wlEmoticon-smile_2-9-9.png) but more important is what)
+{ .post-img }
 
 The only thing worse than breaking the build, is continuing to develop on a broken build!
 
 ![image](images/114db5acbf63_EDD8-image_-5-5.png)  
+{ .post-img }
 **Figure: I have highlighted the users who either are bad for braking the build, or very bad for not fixing it.**
 
 To find out what is wrong with a build you need to open the build definition. You can open a web version by double clicking the build in the image above, or you can open it from “Team Explorer”.
@@ -72,12 +78,15 @@ To find out what is wrong with a build you need to open the build definition. Yo
 Just connect to your project and open out the “Builds” tree. Then Open the build by double clicking on it.
 
 ![image](images/114db5acbf63_EDD8-image_-6-6.png)  
+{ .post-img }
 **Figure: Opening a build is easy, but double click it and then open a build run from the list.**
 
 ![clip_image004](images/114db5acbf63_EDD8-clip_image004_-3-3.png)  
+{ .post-img }
 **Figure: Good example, the build and tests have passed**
 
 ![image](images/114db5acbf63_EDD8-image_-7-7.png)  
+{ .post-img }
 **Figure: Bad example, there are 133 errors preventing POK from being built on the build server.**
 
 For identifying failures see:
@@ -89,6 +98,7 @@ For identifying failures see:
 So, Peter asked about blame, let’s have a look and see:
 
 ![image](images/114db5acbf63_EDD8-image_-4-4.png)  
+{ .post-img }
 **Figure: The build has been broken for so long I have no idea when it was broken, but everyone on this list is to blame (I am there too)**
 
 The rest of the history is lost in the sands of time, there is no way to tell when the build was originally broken, or by whom, or even if it ever worked in the first place. Build should be protected by the team that uses them and the only way to do that is to have them own them. It is fine for me to go in and setup a build, but the ownership for a build should always reside with the person who broke it last.

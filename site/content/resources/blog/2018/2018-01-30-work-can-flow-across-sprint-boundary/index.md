@@ -24,6 +24,7 @@ There is nothing in the Scrum Guide that says that you can't have workflow acros
 The [definition of Done](https://nkdagility.com/getting-started-definition-done-dod/) is an instrumental part of maintaining Transparency of the past work and is not optional. The Sprint Goal provides focus and direction. In order to maintain flow we need to be able to reduce the batch size of the work, thus we must allow for work to flow across the Sprint boundary. If you have a Professional Scrum Team that is adept at creating [Done increments of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/) then introducing flow can improve the value delivered by increasing the throughput of the team.
 
 ## ![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
+{ .post-img }
 
 Always remember that the Sprint is a container for Planning and not always for Delivery. Just like you can do Continuous Delivery in Scrum, so you can also introduce flow and Kanban. Less skilled teams can also benefit as long as you make sure that you meet the Sprint Goal and Done Increments are created to provide transparency of the past and build trust for the future.
 

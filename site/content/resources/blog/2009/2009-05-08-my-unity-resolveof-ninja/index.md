@@ -57,6 +57,7 @@ I have commented the lines out, but you could also initialise the Unity Containe
 We could just leave it at that, and If you use C# this is about your lot, but in VB you have the “My” namespace that gives you access to some useful things all in one place.
 
 [![image](images/NinjaUnity_B1DE-image_thumb_2-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_6.png)
+{ .post-img }
 
 In order to achieve this you need to create a Module in the “My” namespace that has a single property that access the previous class.
 
@@ -82,10 +83,12 @@ End Namespace
 This the allows you to access the UnityContainer object in the same way that you would access My.User.
 
 [![image](images/NinjaUnity_B1DE-image_thumb_3-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_8.png)
+{ .post-img }
 
 Inside the Unity object you will have all of the shared properties and methods that we created earlier.
 
 [![image](images/NinjaUnity_B1DE-image_thumb_5-3-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-NinjaUnity_B1DE-image_12.png)
+{ .post-img }
 
 To examine the use of this I have followed [O1eg Smirnov](http://www.codeproject.com/Members/O1eg-Smirnov)’s [Ninja Dependency Injection](http://www.codeproject.com/KB/architecture/UnityApplicationBlockNDI.aspx) scenario.
 

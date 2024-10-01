@@ -41,6 +41,7 @@ slug: "do-you-want-to-be-an-alm-consultant"
 ---
 
 [![northwestCadenceLogo](images/Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_2.png)
+{ .post-img }
 
 Northwest Cadence is looking for our next great consultant! At Northwest Cadence, we have created a work environment that emphasizes excellence, integrity, and out-of-the-box thinking.  Our customers have high expectations (rightfully so) and we wouldn’t have it any other way!
 
@@ -55,6 +56,7 @@ Northwest Cadence has some of the most exciting customers I have ever worked wit
 So if you are interested in helping companies build better software more efficiently, then..
 
 [![We-Need-You1-324x500[1]](images/Do-you-want-to-be-an-ALM-Consultant_A55E-We-Need-You1-324x5001_thumb1-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-We-Need-You1-324x5001_2.jpg)
+{ .post-img }
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
 

@@ -31,6 +31,7 @@ Some ideas for Event Handlers:
 - Send someone an email when they are assigned a Work Item.(Included in the [Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057)...)
 - Notify project managers when a new work item is added.
 - If a user checks in code and bypasses the check-in policies, send an email to the entire team to name and shame them ![smile_omg](images/smile_omg-2-2.gif)
+{ .post-img }
 - Send an email to all of the developers when a check-in occurs...
 - ...
 

@@ -16,6 +16,7 @@ slug: "tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 ---
 
 When you queue a build you never get a build number and the build never completes. [![image](images/image_thumb109-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image110.png)  
+{ .post-img }
 **Figure: Stuck build**
 
 You can see the two previous attempts with no build number.
@@ -29,11 +30,13 @@ You can see the two previous attempts with no build number.
 If you are having this problem then the first thing to check is the logs…
 
 [![image](images/image_thumb110-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image111.png)  
+{ .post-img }
 **Figure: Diagnostics has blank logs**
 
 But no… there are no logs to view…
 
 [![SNAGHTML172e6051](images/SNAGHTML172e6051_thumb-8-8.png "SNAGHTML172e6051")](http://blog.hinshelwood.com/files/2012/08/SNAGHTML172e6051.png)  
+{ .post-img }
 **Figure: Nasty red stop sign**
 
 Next thing is to check the controller and see what is going on. In this case the Build Service is in the “Started” state and the Controller is in the “Ready” state, but there is a little red square that I guess signifies “Stopped” on the graphic.
@@ -46,11 +49,13 @@ This is a little confusing as it looks like all is well except for the red.
 As this may have been a problem with this server I moved the controller to the same server as the agents to see what effect this would have. I had been having a bunch of issues with this server and this was part of my “last ditch efforts” though patterns. I did look in the event log, but I did not notice something important.
 
 [![image](images/image_thumb111-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image112.png)  
+{ .post-img }
 **Figure: Agents and Controllers on a separate server is worse**
 
 At this point I asked for some help and was asked if I had clicked that little “details” button. I had not, face palm, and I did not… low and behold this was a web service problem…now.. I has seen some errors earlier,  but I did not think that they related so time to check the event log with a little more scrutiny.
 
 [![image](images/image_thumb112-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image113.png)  
+{ .post-img }
 **Figure: http 500 errors smack of IIS or Web Services**
 
 The error logs showed an interesting exception… some kind of WebHost error…
@@ -83,6 +88,7 @@ Process ID: 4756
 The error message talks of “This collection already contains an address with scheme http”, dam but it is pulling a Highlander on me (There can be only one). So lets take a look at the IIS settings…
 
 [![image](images/image_thumb113-5-5.png "image")](http://blog.hinshelwood.com/files/2012/08/image114.png)  
+{ .post-img }
 **Figure: There  are multiple host headers on TFS in IIS**
 
 Sure enough there are three entries for http in the bindings. I had seen them before in there but though nothing of it… why would you not be able to add a bunch of host headers to an IIS site!
@@ -105,6 +111,7 @@ Checking the event log shows no new errors and the services still show green. (e
 Kicking of a build results in… a build number and a failed build. (elation)
 
 [![image](images/image_thumb114-6-6.png "image")](http://blog.hinshelwood.com/files/2012/08/image115.png)  
+{ .post-img }
 **Figure: Build failed… whoop… success…**
 
 While this may be a failed build it is a success for this exercise of getting the build server working…

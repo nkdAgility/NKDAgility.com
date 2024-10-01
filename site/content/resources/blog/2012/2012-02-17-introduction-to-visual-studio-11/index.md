@@ -22,10 +22,12 @@ slug: "introduction-to-visual-studio-11"
 ---
 
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).
+{ .post-img }
 
 I have been concentrating on the hosted (azure) version of TFS and my first blog post has just gone up on [http://blog.nwcadence.com](http://blog.nwcadence.com) that includes both screenshots, opinions and video demos of TFS preview in action.
 
 [![image](images/image_thumb3-1-1.png "image")](http://blog.hinshelwood.com/files/2012/02/image3.png) **Figure: Lots of awesome video demos**
+{ .post-img }
 
 Some of the highlights are:
 

@@ -24,9 +24,12 @@ If you have multiple service accounts for TFS 2012 and you are in a corporation 
 If these things are true and you work in an awesome origination that his its stuff together you will get an email when they are expiring.
 
 [![image](images/image_thumb120-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image121.png)  
+{ .post-img }
 **Figure: ![](images/metro-icon-tick-6-6.png)Good example, you get notified when**
+{ .post-img }
 
 If you are in an organisation that does not… then you will know when your TFS server stops working ![Smile](images/wlEmoticon-smile5-7-7.png). You should review [http://msdn.microsoft.com/en-us/library/ms253149](http://msdn.microsoft.com/en-us/library/ms253149) which will show you all of the service accounts that you might want to look at, but there are 4 main deal breakers to look at: TFS Service Account, TFS Reporting Account, TF Build Account, SharePoint Service Accounts, & SharePoint Secure Cache account.
+{ .post-img }
 
 Here is what you need to do:
 
@@ -34,22 +37,26 @@ Here is what you need to do:
     1. Open the admin console on the TFS Application Tier by clicking “Start | Team Foundation Server Administration Console”
         
         [![image](images/image_thumb121-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image122.png)  
+{ .post-img }
         **Figure: Opening the Admin Console**
         
     2. Go to “Server | Application Tier | Change Account”
         
         [![image](images/image_thumb122-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image123.png)  
+{ .post-img }
         **Figure: First change the Service Account**
         
     3. Enter the new account details
         
         [![image](images/image_thumb123-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image124.png)  
+{ .post-img }
         **Figure: Add the new username and password**
         
 - [Change the Service Account or Password for SQL Server Reporting Services](http://msdn.microsoft.com/en-us/library/bb552344)
 - Change the account or password for Team Foundation Build
     
     [![image](images/image_thumb124-5-5.png "image")](http://blog.hinshelwood.com/files/2012/08/image125.png)  
+{ .post-img }
     **Figure: Update the Team Foundation Build Service Account**
     
     1. Open the admin console on the build server by clicking “Start | Team Foundation Server Administration Console”

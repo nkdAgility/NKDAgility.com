@@ -22,6 +22,7 @@ So far it is exactly the same show as with the WSS update. Installing updates be
 The installation for MOSS SP1 is identical to that of WSS SP1 so I foresee no problems...
 
 [![image_thumb[7]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb7_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb7_2.png)
+{ .post-img }
 
 Well, except maybe the same one that I has from WSS SP1. The message clearly states, as it did in WSS SP1 that I should correct the problem and run the update again, but if I run it again I am told that it is already installed! WTF?
 
@@ -101,12 +102,14 @@ here ist he relevent section of the log file (see what I mean about Sharepoint L
 >    at Microsoft.SharePoint.PostSetupConfiguration.TaskThread.ExecuteTask()
 
 [![image_thumb[8]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb8_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb8_2.png)
+{ .post-img }
 
 Yup, will not run again, just like WSS3 SP1...
 
 Well, I better get to testing this mongrel.
 
 [![image_thumb[9]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb9_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb9_2.png)
+{ .post-img }
 
 This is not what I was expecting..
 
@@ -119,16 +122,19 @@ oh well...Debug mode:
 - Uninstall MOSS SP1
 
 [![image_thumb[11]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb11_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb11_2.png)
+{ .post-img }
 
 Oh, no I can't...
 
 So you can't reinstall it, and you can't remove it!
 
 [![image_thumb[12]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb12_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb12_2.png)
+{ .post-img }
 
 Well its a repair for SharePoint then...
 
 [![image_thumb[13]](images/MOSSSP1InstallNoteswithasadending_98B5-image_thumb13_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MOSSSP1InstallNoteswithasadending_98B5-image_thumb13_2.png)
+{ .post-img }
 
 Bugger...
 

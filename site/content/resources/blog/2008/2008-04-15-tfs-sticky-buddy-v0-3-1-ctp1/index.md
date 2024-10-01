@@ -18,12 +18,14 @@ slug: "tfs-sticky-buddy-v0-3-1-ctp1"
 ---
 
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_2-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_6.png) There is a Community Technology Preview release of the [Team Foundation Server Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) digital dashboard project that is built using Windows Presentation Foundation (WPF). I have used the source code from the Family.Show project to create functionality and a look that is appealing.
+{ .post-img }
 
 You can download it from the [Codeplex site](http://www.codeplex.com/TFSStickyBuddy) and you can raise bugs with the [issue tracker](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx)...
 
 Please remember that this is a CTP and is not fully functional. With this version you can see how your Areas and Iterations tree diagrammatically. I intend to display the work items within the body of the node and display a different view depending on the zoom level...
 
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_3-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_8.png)
+{ .post-img }
 
  
 

@@ -26,11 +26,13 @@ Its hard to migrate source code even from one Visual Studio 2012 Team Foundation
 With Git-Tf we can Clone a Team Foundation Server repository and with plane old Git we can do a Pull from one to the other and then push up to our target repository.
 
 ![image](images/image30-1-1.png "image")  
+{ .post-img }
 **Figure: Running Git from the Command Line**
 
 The first thing we need to do in install Git-Tf and its dependencies. This will add the Git Bash command line and the TFS integration required to connect everything up. This is really me first time using Git as I have just not had time to play with it, but it looks solid so far.
 
 ![image](images/image31-2-2.png "image")  
+{ .post-img }
 **Figure: Install with the cint Git-Tf command line call**
 
 When you clone a Team Foundation Server repository you can either get the tip or you can go deep. If you add the --deep  parameter on end you will effectively clone the history as well. For this particular task I only need the tip and I am really only need to go one way. You can however push source code back and fourth at will between the two servers or any other environment. A browse of the internet will also show you other source control systems that you can clone to Git. If you can clone you can pull and if you can pull you can checkin…

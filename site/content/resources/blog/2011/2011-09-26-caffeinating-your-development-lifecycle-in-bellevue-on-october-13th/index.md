@@ -14,6 +14,7 @@ slug: "caffeinating-your-development-lifecycle-in-bellevue-on-october-13th"
 ---
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")Northwest Cadence has decided that while online events are good, nothing beats in-person. If you’re in the area and available, we would love to have you attend our inaugural event at the Microsoft Store in Bellevue in a few weeks!
+{ .post-img }
 
   
 
@@ -27,8 +28,10 @@ slug: "caffeinating-your-development-lifecycle-in-bellevue-on-october-13th"
     In-person events have far more impact than remote, and it is a lot easier to illicit the in session interaction that coffee talks warrant.
 
 We are starting with the Coffee Talks, and did I say… they are early! You can come and still make it to work before 9am ![Smile](images/wlEmoticon-smile2-4-4.png)
+{ .post-img }
 
 > ![clip_image002](images/clip_image002-2-2.jpg "clip_image002")
+{ .post-img }
 > 
 > What are Coffee Talks, you ask? As the name suggests, these are morning ALM discussions that are sure to wake you up and get your day off to a great start! For our LIVE Coffee Talk events, hosted at The Microsoft Store, we will serve coffee (and some tasty coffee cakes!) and provide live demonstrations of Visual Studio features on the theatre’s big screen. We will have special giveaways and door prizes to make it even more fun! When we’re finished, you will have plenty of time to get to the office – or stay a little longer and play in the Store before it opens!  
 > 

@@ -57,16 +57,19 @@ Info If you are really awesome you should create CodedUI tests for all your comm
 We first want to create a Global List to hold our list of Teams. This is really for two reasons. First in the Visual Studio Scrum 2.1 process template both PBI and Bug are owned by team members and appear on the backlog so a Global List need only be updated once for both Fields. Second we can easily build a tool to add items to the list and even if doing it manually we are not in danger of radically changing our Work Item Type Definition ever time we want to add something.
 
 ![Creating a Global List for the 'team field'](images/image4-10-10.png "Creating a Global List for the 'team field'")  
+{ .post-img }
 **Figure: Creating a Global List for the 'team field'**
 
 If your TFS server has not yet been in use for builds and you have never created a global list then you will be presented with an intuitive empty box.
 
 ![Create a new global list for the 'team field'](images/image5-11-11.png "Create a new global list for the 'team field'")  
+{ .post-img }
 **Figure: Create a new global list for the 'team field'**
 
 If you right click in the open space you will see a menu that you can use to first add a Global List and then populate it.
 
 ![Add all of the Teams to the global list](images/image6-12-12.png "Add all of teams to the global list")  
+{ .post-img }
 **Figure: Add all of the Teams to the global list**
 
 Once you have populated your global list we can then move on to adding the custom field to the work item type definitions so that we can both select it in the UI and set the administration configuration for it.
@@ -93,11 +96,13 @@ If you look in the file you will see an entry for “Requirement Category” tha
 We need to update both or we will get an error, however we will be making the same change to both.
 
 ![Edit the PBI to add the 'team field'](images/image7-13-13.png "Edit the PBI to add the 'team field'")  
+{ .post-img }
 **Figure: Edit the PBI to add the 'team field'**
 
 This will open the Product Backlog Item Work Item Type Definition from our test project in a UI tool that will make it faster to get all of the way through the changes. The nice thing about the UI is that it has listed all of the options and I don’t have to Google or remember them… I am pretty lazy aren't I…
 
 ![Add the 'team field' to the PBI](images/image8-14-14.png "Add the 'team field' to the PBI")  
+{ .post-img }
 **Figure: Add the 'team field' to the PBI**
 
 I always follow the same format for creating custom fields. I think that most of the ALM MVP’s and Consultants out there do the same so…
@@ -107,11 +112,13 @@ The Name should be in the format “\[what you want\] (\[comapny\])”. This all
 I am setting this as a Dimension so that I can use it to slice any of my reports. You will need to modify the OOB reports to add this to them, but anything that you create you can add this out of the gate.
 
 ![Adding the Rules to the 'team field' ](images/image9-15-15.png "Adding the Rules to the 'team field'")  
+{ .post-img }
 **Figure: Adding the Rules to the 'team field'**
 
 I am adding two specific rules and you may add more but this is the basics. First add AllowExistingValues so that if you delete a team in the future you are not left with Work Items in a broken state. Then we need to get to the meat and add the AllowedValues.
 
 ![Add the 'team field' global list to the allowed values](images/image10-1-1.png "Add the 'team field' global list to the allowed values")  
+{ .post-img }
 **Figure: Add the 'team field' global list to the allowed values**
 
 The global list should appear in the UI and be selectable. This will load the values and create a drop down list on the UI (once we have added it) to allow users to select Team.
@@ -121,16 +128,19 @@ The global list should appear in the UI and be selectable. This will load the va
 But we are not done yet. we still need to add the field to the UI.
 
 ![Where to put the 'team field'](images/image11-2-2.png "Where to put the 'team field'")  
+{ .post-img }
 **Figure: Where to put the 'team field'**
 
 In the PBI form there is a nice little space below Reason that I want to utilise. So lets add the field to the UI.
 
 ![Add a new control for the 'team field' data](images/image12-3-3.png "Add a new control for the 'team field' data")  
+{ .post-img }
 **Figure: Add a new control for the 'team field' data**
 
 We just need to add a new generic control to the UI where we want it. Most of the layout is taken care of automatically so we only have a few fields to fill out…
 
 ![Set the field name and the label for the 'team field' to show](images/image13-4-4.png "Set the field name and the label for the 'team field' to show")  
+{ .post-img }
 **Figure: Set the field name and the label for the 'team field' to show**
 
 We have only added a simple reference to the data and Team Foundation Server will figure out how to render it on both Web and thick client alike.
@@ -140,6 +150,7 @@ We have only added a simple reference to the data and Team Foundation Server wil
 Once you have added this you will need to refresh the cache in Visual Studio before you will see the new list on the Work Items.
 
 ![New 'team field' is now on the form](images/image14-5-5.png "New 'team field' is now on the form")  
+{ .post-img }
 **Figure: New 'team field' is now on the form**
 
 Warning Remember that this field and control will need added to all of the Requirement Types that you have set for your process template.
@@ -171,6 +182,7 @@ witadmin exportcommonprocessconfig /collection:http://kraken:8080/tfs/Tfs01/ /p:
 Once you have the xml file you can open it in your favourite IDE and find the TypeField with the Type of Team.
 
 ![Edit the TypeField for Team to use the new 'team field'](images/image15-6-6.png "Edit the TypeField for Team to use the new 'team field'")  
+{ .post-img }
 **Figure: Edit the TypeField for Team to use the new 'team field'**
 
 You can literally just change the refname from the current Area Path value..
@@ -201,16 +213,19 @@ This is the final part of the configuration and once you go into your Team board
 Well lets do what it says and head over to the administration pages for this team by clicking the nicely provided “Select team’s areas” link.
 
 ![New Team Field tab has been added to the Administration](images/image16-7-7.png "New Team Field tab has been added to the Administration")  
+{ .post-img }
 **Figure: New Team Field tab has been added to the Administration**
 
 We now have a brand new tab on our administration section for “team field” so that we can select one or more “areas” from our new field values that this team is responsible for.
 
 ![This is Team 1 from the list ](images/image17-8-8.png "This is Team 1 from the list ")  
+{ .post-img }
 **Figure: This is Team 1 from the list**
 
 Now when we create new work items as part of this team they will default to selecting this drop down and not our Product hierarchy that is in Area Path.
 
 ![Team is now set instead of Area Path by default](images/image18-9-9.png "Team is now set instead of Area Path by default")  
+{ .post-img }
 **Figure: Team is now set instead of Area Path by default**
 
 If you were using this new drop down for Product rather than Team you may want to have multiple values owned by this team and that is allowed in the configuration. I would only recommend that however when you really need hierarchical teams that Area Path can provide or at least simulate.

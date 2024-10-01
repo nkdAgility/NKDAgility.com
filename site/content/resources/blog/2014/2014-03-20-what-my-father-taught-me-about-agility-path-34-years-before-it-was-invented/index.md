@@ -19,6 +19,7 @@ slug: "what-my-father-taught-me-about-agility-path-34-years-before-it-was-invent
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.
 
 ![john-hinshelwood-agility-path](images/john-hinshelwood-agility-path-4-4.jpg)In the 1990's my father (John Hinshelwood) was a regional director of a large estate agency (realtor) in the UK. For many years he worked from a single shop in Glasgow running his own business. In 1988 he sold his business to a large Insurance company that was trying to get its ailing Estate Agency business to turn a profit. It was failing at this task, however it was not long before my father's talent for detail was noticed and within a few short months was appointed a directorship. Using evidence-based practices he turned a lossmaking business into a profiting business for over 5 years. Three months after he left they were making a loss again! They had not changed to embrace Evidence-based Management as an organisation and without my father's stewardship they slumped back into the old ways.
+{ .post-img }
 
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to become an Evidence-based Management Consultant with Scrum.org. Evidence-based Management is a new approach to looking at the value you are delivering with your organisation that is based on evidence rather than the traditional 'gut feelings' of managers. It  allows you to really look at what you need to improve to make the most of your investments in agility.
 
@@ -41,6 +42,7 @@ So what is the secret? The secret is to focus on your customers. Focus on what y
 While the leading metrics and evidence of high quality value delivery for an Estate Agency differ from a Software Company, there are similarity's. In fact I was once asked by a customer what the industry standard metrics were in the software industry. I had no answer at the time, and in fact failed to come up with my own that would provide the desired leading measures. But even with the proliferation of measurement systems popping up everywhere, there are few that follow the evidence-based approaches described in “The Leaders Guide to Radical Management by Steven Denning”. One such emerging dataset is the Agility Index from Scrum.org. Scrum.org have identified three key areas that we need to focus on.
 
 ![clip_image001](images/naked-alm-current-value-ability-to-inovate-time-to-market-5-5.png "clip_image001")
+{ .post-img }
 
 Figure: Agility Index from Scrum.org for leading evidence for the impact of change
 
@@ -53,6 +55,7 @@ We focus on quality (Ability to Innovate) to make sure that what we do deliver w
 These three groups of metrics and merged into a single agility index using a weighted calculation to gives us a consistent idea of where we are now. We can then look at the trends of these figures over time and make sure that we are heading in the desired direction. This figure gives your organisation a value for return-on-investment in your process improvement efforts.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002") Figure: Agility Index from Scrum.org shows Measure, Diagnose, Improve in action
+{ .post-img }
 
 The goal now that we have our direct evidence is to diagnose, as a doctor would, what changes are most likely to bring the most value to our organisation. To do that we need some extra circumstantial evidence that we can use to diagnose which improvements will provide your organisation with the most value. There are two tools in our arsenal to help us gather that circumstantial evidence:
 
@@ -64,6 +67,7 @@ The goal now that we have our direct evidence is to diagnose, as a doctor would,
 Using the circumstantial evidence or organisational maturity from the practice backlog and the assessments we can better diagnose where to focus investment. With the leading direct evidence we can understand the impact of our changes. These together from the backbone of Scrum.org's implementation of Evidence-based Management for Software Organisations.
 
 ![Evidence-based Management for Software Organisations](images/naked-alm-evidence-based-management-for-software-organisations-6-6.png "clip_image003")
+{ .post-img }
 
 > Evidence-based Management for Software Organisations: A framework within which people can address complex organizational change, while productively and creatively improving the enterprise and its products.
 > 

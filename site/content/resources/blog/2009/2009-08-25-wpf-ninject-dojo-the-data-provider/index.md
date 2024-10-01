@@ -81,6 +81,7 @@ What I decided to do was create a custom [DataSourceProvider,](http://msdn.micro
 As you can see, the only difference is highlighted above and shows the custom [DataSourceProvider](http://msdn.microsoft.com/en-us/library/system.windows.data.datasourceprovider.aspx) in action.
 
 ![image](images/WpfNinjectDojoTheDataProvider_C6CF-image_-2-2.png)  You can see from the image above that the designer capability is not affected with this actually loading from the database, nice!
+{ .post-img }
 
 So, what do we need to do to achieve this marvellous result. its actialy fairly simple, I got out my trusty [reflector](http://www.red-gate.com/products/reflector/) and found that there is really only one method to override.
 

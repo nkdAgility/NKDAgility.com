@@ -23,6 +23,7 @@ In the [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence
 The [Sprint Goal is a Commitment for the Sprint Backlog](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) and should never be "complete those 10 things" but instead should to describe the Why of the Sprint.
 
 ![](images/naked-agility-hypothesis-driven-2-2.jpg)
+{ .post-img }
 
 Just as the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) provides the current Strategic direction so the [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) is the smaller step, the implementation step towards it. The [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is accountable for maximizing the value delivered and should be thinking hard, with the help of the Developers, on what the next tactical outcome they want to try and achieve is.
 
@@ -31,6 +32,7 @@ This [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprin
 <figure>
 
 ![](images/leanux_canvas_v46593735154886584675-1-1.png)
+{ .post-img }
 
 <figcaption>
 

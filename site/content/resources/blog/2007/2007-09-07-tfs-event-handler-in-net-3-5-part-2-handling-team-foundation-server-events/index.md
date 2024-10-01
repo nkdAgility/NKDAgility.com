@@ -66,10 +66,12 @@ The real trick for handling TFS events in [Windows Communication Foundation](htt
 The first thing you need to do is create a project to hold the code. In the spirit of expedition, I have created a "[Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") Service Application" to hold all of the Notification service code. But in the real world you would keep the Contract and Implementation classes in different assemblies.
 
 [![image](images/TFS.5Part2HandlingTeamFoundationServerEv_1464E-image_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-TFS.5Part2HandlingTeamFoundationServerEv_1464E-image.png)
+{ .post-img }
 
 Now we have the project, you can add the INotification class and the Notification service. I like to keep all of my services in a "v1.0" so that I can add other services in new versions without affecting the current version.
 
 [![image](images/TFS.5Part2HandlingTeamFoundationServerEv_1464E-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-TFS.5Part2HandlingTeamFoundationServerEv_1464E-image_1.png)
+{ .post-img }
 
 Once you have your INotification class looking like the code extract above we will add a default implementation and test the service. The default implementation should look like:
 
@@ -142,6 +144,7 @@ The service behaviors go between the <behaviors\> tags and are named the same a
 We now have a working service and can test it by starting a new instance of the web application and going to the URL of the .svc file. You will see a page like:
 
 [![image](images/TFS.5Part2HandlingTeamFoundationServerEv_1464E-image_thumb_2-3-3.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-TFS.5Part2HandlingTeamFoundationServerEv_1464E-image_2.png)
+{ .post-img }
 
 This shows you how you can connect to the service, but as this will only be connected to by TFS it is not a requirement for just now. What is important is to see the URL's for the two endpoints that we have created. If you click the WSDL URL ("[http://localhost:65469/v1.0/Notification.svc?wsdl](http://localhost:65469/v1.0/Notification.svc?wsdl)") you will see the generated meta data for the service.
 

@@ -22,6 +22,7 @@ You can download the source code, and in a very short while I will have a first 
 It is quite simple, but has a plethora of uses… One of the best is creating Client side API’s for web services and components of applications…
 
 ![.NET Service Manager](images/Creatingaservicemanager_8C3D-image_thumb_4-1-1.png)
+{ .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
 

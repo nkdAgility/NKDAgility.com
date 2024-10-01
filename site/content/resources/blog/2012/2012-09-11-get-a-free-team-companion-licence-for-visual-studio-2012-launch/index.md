@@ -19,8 +19,10 @@ slug: "get-a-free-team-companion-licence-for-visual-studio-2012-launch"
 ---
 
 [![team-companion-logo](images/team-companion-logo_thumb-1-1.png "team-companion-logo")](http://blog.hinshelwood.com/files/2012/09/team-companion-logo.png)I recently posted on [Requirement management in the modern application lifecycle](http://blog.hinshelwood.com/requirement-management-in-the-modern-application-lifecycle/) and in that post I mentioned a product called Team Companion from Ekobit. Well, to celebrate its 5th anniversary and the launch of Visual Studio 2012 the awesome folks at Ekobit have decided to give away a whole bunch of licences for that fantastic tool completely free! Starting 8am (PDT) tomorrow you will have 3 days to claim your personal copy…
+{ .post-img }
 
 [![TeamCompanion-PnP](images/TeamCompanion-PnP_thumb-2-2.png "TeamCompanion-PnP")](http://blog.hinshelwood.com/files/2012/09/TeamCompanion-PnP.png)  
+{ .post-img }
 **Figure: New Team Companion theme**
 
 ### How do I get my free licence for Team Companion?

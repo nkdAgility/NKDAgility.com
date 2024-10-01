@@ -18,6 +18,7 @@ slug: "tfs-preview-issue-tf400898-the-underlying-connection-was-closed"
 When you try to do a “Get” from TFS Preview you receive a “underlying connection was closed” and often a TF400898.
 
 [![image](images/image_thumb49-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image49.png)  
+{ .post-img }
 **Figure: The underlying connection was closed**
 
 This may happen on one or more files with different files experiencing this problem for different users.
@@ -39,11 +40,13 @@ There are a bunch of checks that you want to do in order to make sure that this 
 In all circumstances TFS thinks that the file is checked in but that I don’t yet have it locally.
 
 [![1](images/1_thumb-1-1.png "1")](http://blog.hinshelwood.com/files/2012/08/1.png)  
+{ .post-img }
 **Figure: Tfs Preview Lost a file**
 
 I was far more concerned with the fact that TFS can lose a file than in the file that was lost but this is a big complex system and glitches will happen. Its how they are handled that is important.
 
 [![2](images/2_thumb-2-2.jpg "2")](http://blog.hinshelwood.com/files/2012/08/2.jpg)  
+{ .post-img }
 **Figure: I can view history on the missing file**
 
 If you find something like this then you need to contact the product team through [http://tfspreview.com](http://tfspreview.com).
@@ -66,6 +69,7 @@ I escalated this to the Product Team and after a few questions and screenshots t
 > \-Madhu Kavikondala
 
 This had now been fixed not just for me, but across both the hosted service and for the TFS 2012 RTM ![Smile](images/wlEmoticon-smile1-5-5.png)
+{ .post-img }
 
 **Are you having problems with TFS Preview? Don’t sit and fizz… Check the [TFS Preview status](https://tfspreview.com/en-us/support/current-service-status/ "TFS Preview status") or [raise a bug](https://connect.microsoft.com/VisualStudio/feedback/CreateFeedback.aspx).**
 

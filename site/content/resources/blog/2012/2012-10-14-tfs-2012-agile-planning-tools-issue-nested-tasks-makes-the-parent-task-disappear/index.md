@@ -23,16 +23,19 @@ You should use nested PBI’s and never nested Tasks when you are using the Visu
 At some point you take your “Product Backlog Item” and break it down into sub items as part of your development process. This is part of the creation of a Plan to complete those Backlog Items and that plan reflects the best guess of the Team in what needs to be done to achieve those backlog items.
 
 ![In Team Foundation Server you can have nested tasks](images/image30-4-4.png "In Team Foundation Server you can have nested tasks")  
+{ .post-img }
 **Figure: In Team Foundation Server you can have nested tasks**
 
 In the pursuit of this you may feel that it is a good idea to create nested tasks and using the Work Item Tracking in both Visual Studio and the Web Access you will be able to created these nested tasks.
 
 ![Agile Planning tools do not support nested tasks the way you think](images/image31-5-5.png "Agile Planning tools do not support nested tasks the way you think")  
+{ .post-img }
 **Figure: Agile Planning tools do not support nested tasks the way you think**
 
 However when you view the Sprint Backlog you don’t see the in-between nested tasks, instead you only see a flat list of tasks.
 
 ![Agile Boards do not support nested tasks](images/image32-6-6.png "Agile Boards do not support nested tasks")  
+{ .post-img }
 **Figure: Agile Boards do not support nested tasks**
 
 In addition to the Agile Planning tools the Agile Boards also do not show the intermediary nested tasks.
@@ -51,12 +54,14 @@ You can replicate this fairly easily by following these steps to reproduce:
 3. Add child Task to “PBI 1” called ‘Task 2”
     
     ![clip_image001](images/clip_image001-1-1.png "clip_image001")  
+{ .post-img }
     **Figure: Result as expected with “Task 1” and “Task 2” visible  
     **
     
 4. Add child Task to “Task 2” called “Task 3”
     
     ![clip_image002](images/clip_image002-2-2.png "clip_image002")  
+{ .post-img }
     **Figure: Not expected to see “Task 1” & “Task 3”**
     
 
@@ -78,11 +83,13 @@ If it needs broken down then it is likely not a Task at all, but a Product Backl
 Now while [stack ranking hierarchical work items](http://blog.hinshelwood.com/you-cant-stack-rank-hierarchical-work-items/ "You can’t stack rank hierarchical work items?") makes life difficult and does lead to the dark side, it is supported by the Agile Planning tools and the Agile Boards.
 
 ![You can see nested PBI’s on the Agile Planning tools](images/image33-7-7.png "You can see nested PBI’s on the Agile Planning tools")  
+{ .post-img }
 **Figure: You can see nested PBI’s on the Agile Planning tools**
 
 You will find that when you try to drag the parent into a Sprint you will be prevented and you need to drag the individual PBI’s instead.
 
 [![image](images/image_thumb8-3-3.png "image")](http://blog.hinshelwood.com/files/2012/10/image34.png)  
+{ .post-img }
 **Figure: You can see correctly the parent is not listed**
 
 This is the same behaviour as we saw on the tasks, but it now makes sense as we no longer care about delivering the parent PBI.

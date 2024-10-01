@@ -65,10 +65,12 @@ I opted to follow the bug workflow story and I managed to get through almost ev
 While almost everything went well I had two SNAFU’s during the demos that I did a little follow up on later.
 
 ![image](images/image-1-1.png "image")
+{ .post-img }
 
 First was that the Action Recording data collector in Microsoft Test Manager failed to start. It looks like while Windows 10 9860 was in sync the new update that got pushed out broke MTM. In Windows 10 9879 the version of .NET is slightly older than a bugfix that shipped just as Visual Studio 2015 Preview did. Unfortunately as .NET is bound to the OS and especially in a Preview OS I am stuck with MTM not working for now. I have also tested and verified in Visual Studio 2013 that the same issue occurs, but meh… preview bits on preview bits… can’t complain.
 
 ![image](images/image1-2-2.png "image")
+{ .post-img }
 
 The second error cam in the flavour of a release failure. As it turned out the simple deployment script that I created was a little too simple. IIS was hanging onto a file handle and this resulted in the first command not being able to delete all of the files. Even when logging onto the server I was unable to manually delete and someone, thanks by the way, shouted out to do an IIS Reset. Well that let me remove the lock and empty the folder. After doing a retry on the failed deployment all went as expected… So your simple deployment should really stop IIS, then update, before enabling it.
 

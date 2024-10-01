@@ -23,6 +23,7 @@ If you follow the documentation for the new InRelease 3 for Team Foundation Serv
 - Update 2013-07-12 Added Solution #3 which solves the problem in a supported manor with the TFS API.
 
 ![image](images/image12-1-1.png "image")  
+{ .post-img }
 Figure: TF400324: Team Foundation Services are not available from server
 
 ## Applies to
@@ -39,6 +40,7 @@ This looks  to be a mistake in the documentation for the product. When they say
 You need to enter [http://caprica:8080/tfs/\[collection](http://caprica:8080/tfs/[collection)\] which you can get by copying it from the web access.
 
 ![image](images/image13-2-2.png "image")  
+{ .post-img }
 Figure: Use the full collection URL instead of the server
 
 Now when you connect with [http://caprica:8080/tfs/tfs01-scrum/](http://caprica:8080/tfs/tfs01-scrum/) you should not get a 404 any more…

@@ -18,6 +18,7 @@ slug: "reformat-your-css-on-the-fly"
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).
 
 [![iStock_000001095647XSmall](images/ReformatyourCSSonthefly_E44D-iStock_000001095647XSmall_thumb-3-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReformatyourCSSonthefly_E44D-iStock_000001095647XSmall_2.jpg)
+{ .post-img }
 
 I don’t know about you, but it annoys the hell out of me. All that work in CSS and none of your images work when you run it in a different location. This would be especially frustrating when you are running multiple feature branches and need Kerberos interaction. The amount of work required to get Kerberos to work (SPN’s, URL’s, Delegation and AD) limits the number of sites you can have in an enterprise environment.
 
@@ -41,6 +42,7 @@ So, in order to cheer up your CSS, you can give it a little bit of .NET Omph…
 The first thing you need to do is get .NET to handle ALL of your requests, and not just for the ASP.NET pages.
 
 [![image](images/ReformatyourCSSonthefly_E44D-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReformatyourCSSonthefly_E44D-image_2.png)
+{ .post-img }
 
 Add a “Wildcard application mapping” to the “aspnet\_isapi.dll” and you are good to go…
 

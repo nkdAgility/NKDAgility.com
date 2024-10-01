@@ -34,6 +34,7 @@ You should [head over to Scott Hanselman blog and read about the plight of the r
 Ultimately for small organisations with few developer's you may have no choice but to be remote, its not ideal, but we can make it work. I believe that ideally we should be collocated at least within the same Scrum Team. We can have a number of Scrum Teams that are not in the same location as long as the members of each Scrum Team are collocated.
 
 ![See the source image](images/devops2.png)
+{ .post-img }
 
 Microsoft has been studying the value of colocation and team rooms for quite some time and its interesting that they have been investing billions of dollars to remodel all of their engineering spaces into fully functional Team Rooms. Every team room is out of earshot of all the others, it has space for up to 12 team members, and has both a video conferencing room that can hold everyone, and two breakout rooms. These rooms are only for the team and are not bookable by anyone else.
 

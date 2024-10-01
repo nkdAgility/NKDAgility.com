@@ -21,6 +21,7 @@ Basically VS just bings at you whenever you click anywhere as if there is a mode
 If you get this problem then there is a simple solution, well, one that worked for me. You need to run a repair on the “Microsoft Visual Studio Web Authoring Component” that is part of Office 2007.
 
 [![image](images/Office2010gotcha2_876A-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010gotcha2_876A-image_2.png)
+{ .post-img }
 
 You can find the setup in the following locations:
 

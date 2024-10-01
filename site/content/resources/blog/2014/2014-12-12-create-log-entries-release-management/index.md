@@ -23,6 +23,7 @@ Sometimes the same thing happens for demos. My demo for NDC was an end to end pr
 If you have a deployment script it is really easy to fail it out. All you need to do is have an error occur, or deliberately call a "Write-Error" command. Simples. But what about having a log of the good things that happened?
 
 ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+{ .post-img }
 
 If everything goes swimmingly then you get an empty space where the log should be. So how do I get an output. Well if I was creating a build script I could just have "Write-Host" and the build system would capture and log all the output.
 
@@ -37,6 +38,7 @@ Write-Host "Updated web.config"
  Well lets try "Write-Host"…
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+{ .post-img }
 
 Well, that’s not good. Looks like the Release Management team forgot to pipe the output that is intended for the "host" to the file. While "host" in the normal context is normally the "command prompt", a script should not just fail because you are running it differently. You should always make sure that you pipe the output to the correct location for your context.
 
@@ -53,6 +55,7 @@ Write-Output "applicationAnalyticsKey: $applicationAnalyticsKey"
 ```
 
  ![clip_image003](images/clip_image0031-3-3.png "clip_image003")
+{ .post-img }
 
 Dam… "Write-Output" just disappears into the ether. It really should end up in the output but… well… it does not.. And "Write-Verbose" also end up nowhere, but that is a little more expected. At this point I am at a loss and ping the product team. Really, if I write something to the output and I would see it if running from the command line I want to see it in the log file. However for RM you need to explicitly declare output by using the "-verbose" command to tell PowerShell to actually write the verbose statements.
 
@@ -61,6 +64,7 @@ Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 ```
 
  ![clip_image004](images/clip_image0041-4-4.png "clip_image004")
+{ .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
 

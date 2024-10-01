@@ -22,6 +22,7 @@ slug: "is-alm-a-useful-term"
 ---
 
 I was asked this question by [Robert Myers](http://www.linkedin.com/pub/robert-myers/5/316/746) for a “paper” and I think that it is an important one. I started to answer in that little textbox that LinkedIn give you and I got a little carried away. I guess I am an writing mode ![Smile](images/wlEmoticon-smile2-2-2.png)
+{ .post-img }
 
 > \>>Do you think ALM is a useful term?
 

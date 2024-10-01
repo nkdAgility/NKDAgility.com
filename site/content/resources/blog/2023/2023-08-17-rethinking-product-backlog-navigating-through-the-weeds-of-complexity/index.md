@@ -30,6 +30,7 @@ In essence, when the Backlog is cluttered with levels of hierarchy, it diminishe
 As a side point, engaging in a dialogue about the nature of complexity is imperative whenever the concept of “best practice” is brought up in discussions. Complexity is not just a buzzword; it’s a theoretical framework for understanding how different system components interact. In complex environments, it is impossible to predict outcomes with certainty due to the interdependencies and interactions among the components. This is a far cry from simple or complicated environments, where cause-and-effect relationships can be determined.
 
 ![From the Cynefin Institute on https://thecynefin.co/](images/cynefin-institute-complexity-1-1.png)
+{ .post-img }
 
 In simple environments, “best practices” exist because they offer tried and true methods for known problems. However, there are only emergent practices in complex environments where doing the same thing again can often have very different results. These practices cannot be predicted upfront and may only be effective temporarily. The most pragmatic approach in such environments is to start with a hypothesis, experiment, and be prepared to evolve the practice based on feedback and learning.
 
@@ -38,6 +39,7 @@ In simple environments, “best practices” exist because they offer tried and 
 One of the reasons that hierarchy is so enticing is that it has historical roots in the traditional project management approach known as the Work Breakdown Structure (WBS). The WBS is a hierarchical decomposition of the total scope of work to be carried out by the project team. While the WBS was valuable in certain contexts, its hierarchical nature is not conducive to the Agile philosophy, which values responsiveness to change over following a plan.
 
 ![Work Breakdown example](images/nkdagility-Rethinking-Product-Backlog-hierarchy-1269x720-3-3.png)
+{ .post-img }
 
 > A work breakdown structure (WBS) visually organizes project deliverables into different levels based on dependencies. It’s essentially your project plan in a visual form, with your project objective at the top, then dependencies and sub-dependencies below. -Alicia Raeburn, Asana
 

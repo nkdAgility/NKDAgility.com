@@ -24,6 +24,7 @@ Does your company culture resemble Survivor? Do you have a culture in your organ
 If you are trying to achieve agility it is imperative that your team members work together to solve problems. I am not saying that you have to do pair programming but you have to have a culture where collaboration and working together is the norm. This is one of the two main roadblocks to agility ( the other one being requirements management) that companies hit time and time again early in their agile adoptions.
 
 ![](images/survivor-logo-2-2.jpg)
+{ .post-img }
 
 Changing this part of your culture is something that has much wider implications than just improving your teams ability to deliver value. It is a harbinger of changes to come and if you can change this one thing, you will be more able, and committed, to making more changes to your culture going forward. The goal is to have a culture of change where each of your teams are running small low risk experiments in processes, practices and tools every iteration. It is the catalyst to wider company adoption and buy-in and it requires a certain amount of courage and discipline to achieve.
 

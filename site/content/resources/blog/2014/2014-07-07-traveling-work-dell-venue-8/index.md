@@ -21,6 +21,7 @@ I travel a lot and I have been carting around both a Surface 2 Pro and a Surface
 When I say that I travel a lot I mean that I generally fly out to somewhere in Europe on Sunday afternoon and then back on Friday night. Every week... I have been doing this since November 2013 and apart from a few weeks it has been fairly constant. In my travels I have found a few things. The first is that stuff can be important and that its not when you travel occasionally. If I go for a few days I generally ditch all but the most essential of stuff. However if I, like now, am on my twenty-sixth back to back week away I tend to miss some of the home comforts. Home comforts for a geek tends to be cables and gadgets but as I have recently turned into a bit of a fitness guy as well it might also be other stuff. And thus I tend to pack heavy rather than light. I do however put that heavy bag in checked baggage and want my carry on to be light. Unfortunately there are things like Tablets, batteries, and hard disks that really can't go into checked baggage. So it has to go in my backpack. I have thus decided that the Surface 2, that I got at the MVP Summit last year, was just impractical when I also carry my Surface 2 Pro. My plan was to wait for the rumoured Surface Mini but as that did not happen my second choice was the Dell Venue 8.
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 I am however quite comfortable working in WinRT and don't have the same issue that many people seam to have. I have always looked at WinRT as analogous of the iPad or an Android and thus I have never expected it to be able to run Win32 apps and I don't really understand why anyone else did. To that end and as I was using the Surface 2 (even it is a crap-load lighter than the Pro) I have changed a few things in my workflow:
 
@@ -31,10 +32,12 @@ I am however quite comfortable working in WinRT and don't have the same issue th
 As there are full versions of almost all of the office applicants (not Lync) on WinRT most other workflows stay the same. I think though, due to the general consumer misunderstanding of WinRT, that Microsoft will retire it slowly. But for devices like the Dell Venue 8 you really don't have to go half way. Reason being is that it is a fully fledged Intel device. The Dell Venue 8 has the latest generation of Intel's Atom processor and so far it is performing well. I am an impatient bigger at the best of times and most devices annoy me. Not so with this one so far.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+{ .post-img }
 
 Now I am not really sure why the Dell Venue 8 came with a 32 bit version of windows when it has 64 bit hardware but I will do a little research when I have time and see if it is worth upgrading. Knowing Dell it will likely be a driver or sum such issue that has not yet been resolved but it is worth looking into.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+{ .post-img }
 
 I also have a Acer Ionia W520 that has an Intel Atom processor and while I was impressed that it supported hyper threading on its dual core architecture this little beast actually has 4 cores. I am looking forward to getting Visual Studio on here, if only for fun.
 

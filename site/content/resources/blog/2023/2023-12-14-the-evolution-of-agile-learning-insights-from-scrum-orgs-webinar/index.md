@@ -24,10 +24,12 @@ Traditional learning is typically delivered over a short period of time, mostly 
 This typically takes the form of 2 full days of training for your PSM/CSM or other agile class.
 
 ![](https://media.licdn.com/dms/image/D4E12AQG1-TOAWFaNBg/article-inline_image-shrink_400_744/0/1702471584021?e=1707955200&v=beta&t=vXvE0YNiUTkb_8FAl26rQF4vAdO2yFq5XepdVIBXAek)
+{ .post-img }
 
 We have "Learn a new Concept" that enables participants to remember the content and then follow that up with "Practice with Examples" to enable understanding.
 
 ![](images/image-8-1280x585-11-13.png)
+{ .post-img}
 
 This would fulfil the first two stages of Bloom's Taxonomy for Teaching, Learning, and Assessment. For some participants, this is enough for them to infer greater learnings, but for most, it is not.
 
@@ -40,10 +42,12 @@ Immersive learning is typically delivered over a much longer period and may look
 Like traditional training, we have "Learn a new Concept" that enables participants to remember the content and then follow that up with "Practice with Examples" to enable understanding. However, we follow up with an "Outcome-based Assignement" that enables the application of things we have taught to their real world of work and a "Facilitated Reflection" where they can Analyse the outcome.
 
 ![](images/image-7-720x720-9-11.png)
+{ .post-img}
 
 In effect, we close the learning loop with empiricism. A feedback loop is created.
 
 ![](images/image-9-1280x585-13-14.png)
+{ .post-img}
 
 This would then fulfil an additional two stages of Bloom's Taxonomy and enable, over time, the last two.
 
@@ -72,6 +76,7 @@ I even offered additional consulting for every student, cumulative for companies
 By bringing the classroom content into the workplace and having participants try or do things from the learning in that environment we have a chance to close the feedback loop and have participants not just gain knowledge and understanding, but also be able to apply, and analyse the outcomes.
 
 ![](images/image-6-720x720-7-8.png)
+{ .post-img}
 
 This would enable double-loop learning, where participants can apply the ideas learned in their own environment and then come back around and make real, lasting changes to their mental model and the mental model of those around them in their environment.
 
@@ -84,6 +89,7 @@ For example, a participant may try something after session one and then ask to p
 This continuous reinforcement and engagement, both from the qualified expert instructor and the other participant peers engaged in similar outcomes, multiplies the effect of the training and embeds new mental models in all of the participants.
 
 ![](images/image-5-912x720-5-7.png)
+{ .post-img}
 
 For double-loop learning to be effective, participants need to be able to make a substantive change to their mental models as they progress through the content. This deeper change and learning is enabled by the application in the workplace and the analysis of what happened and why that comes from the "facilitated reflection".
 

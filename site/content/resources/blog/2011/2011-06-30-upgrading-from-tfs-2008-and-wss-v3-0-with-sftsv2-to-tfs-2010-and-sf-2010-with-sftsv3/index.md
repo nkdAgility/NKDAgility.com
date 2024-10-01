@@ -28,6 +28,7 @@ slug: "upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-
 ---
 
 [![VS2008Upgrade](images/VS2008Upgrade_thumb-36-36.gif "VS2008Upgrade")](http://blog.hinshelwood.com/files/2011/05/VS2008Upgrade.gif)
+{ .post-img }
 
 I have been working with a rather large customer that have over 150GB in Team Foundation Server with over 10GB in SharePoint. They are also using the Scrum for Team System v2 (SfTSv2) Process template that is not supported under TFS 2010 so I need to upgrade those process templates to Scrum for Team System v3 (SfTSv3).
 
@@ -72,6 +73,7 @@ This common section represents all the work that relates
         **Figure: Code to run from the SharePoint Foundation 2010 PowerShell prompt**
         
         [![SNAGHTML5e35b1](images/SNAGHTML5e35b1_thumb-35-35.png "SNAGHTML5e35b1")](http://blog.hinshelwood.com/files/2011/05/SNAGHTML5e35b1.png)
+{ .post-img }
         
         **Figure: Completed with errors**
         
@@ -164,6 +166,7 @@ This common section represents all the work that relates
         1. ##### **Select the solution that you want to deploy**
             
             [![image](images/image13_thumb-21-21.png "image")](http://blog.hinshelwood.com/files/2011/05/image13.png)
+{ .post-img }
             
             **Figure: Once you get it in there it does not deploy by default**
             
@@ -171,6 +174,7 @@ This common section represents all the work that relates
         3. ##### **Click “Deploy Solution” to choose how it is deployed**
             
             [![image](images/image7_thumb-31-31.png "image")](http://blog.hinshelwood.com/files/2011/05/image7.png)
+{ .post-img }
             
             **Figure: You can manually deploy the solution**
             
@@ -180,6 +184,7 @@ This common section represents all the work that relates
             I always choose to deploy it now, but I am rarely using a server that is actively in production.
             
             [![image](images/image101_thumb-20-20.png "image")](http://blog.hinshelwood.com/files/2011/05/image101.png)
+{ .post-img }
             
             **Figure: Select a time to deploy it**
             
@@ -189,6 +194,7 @@ This common section represents all the work that relates
         On you create a site using this template you will see that things do not really work correctly. The layout of the site is broken and it makes it difficult to navigate.
         
         [![SNAGHTML4da989](images/SNAGHTML4da989_thumb-34-34.png "SNAGHTML4da989")](http://blog.hinshelwood.com/files/2011/05/SNAGHTML4da989.png)
+{ .post-img }
         
         **Figure: The Site Template for SfTSv3 is just plain nasty**
         
@@ -198,6 +204,7 @@ This common section represents all the work that relates
         Luckily you can just delete this site and create a new site using the “TFS 2010 Agile Dashboard” instead of the “SCRUM” site template.
         
         [![image](images/image71_thumb-32-32.png "image")](http://blog.hinshelwood.com/files/2011/05/image71.png)
+{ .post-img }
         
         **Figure: Creating new blank sites is easy**
         
@@ -207,6 +214,7 @@ This common section represents all the work that relates
     9. #### **Change the Team Project to reference the new Portal correctly**
         
         [![image](images/image10_thumb-19-19.png "image")](http://blog.hinshelwood.com/files/2011/05/image10.png)
+{ .post-img }
         
         **Figure: Change the portal that the Team Project points to**
         
@@ -214,6 +222,7 @@ This common section represents all the work that relates
     11. #### **Verify that you have a pretty portal**
         
         [![image](images/image4_thumb-29-29.png "image")](http://blog.hinshelwood.com/files/2011/05/image4.png)
+{ .post-img }
         
         **Figure: Creating a portal with the default process is much preferable**
         
@@ -231,6 +240,7 @@ This common section represents all the work that relates
         **Figure: Importing the TFS 2008 databases is a simple command**
         
         [![coffee-cup](images/coffee-cup_thumb-1-1.jpg "coffee-cup")](http://blog.hinshelwood.com/files/2011/06/coffee-cup.jpg)This command takes a while to run. So get some sleep or just a coffee.
+{ .post-img }
         
     
     3. #### **Enable SharePoint integration**
@@ -240,14 +250,17 @@ This common section represents all the work that relates
         _Note: Follow [Integrate SharePoint 2010 with Team Foundation Server 2010](http://blog.hinshelwood.com/archive/2010/05/03/integrate-sharepoint-2010-with-team-foundation-server-2010.aspx) for full details_
         
         [![image](images/image131_thumb-22-22.png "image")](http://blog.hinshelwood.com/files/2011/05/image131.png)
+{ .post-img }
         
         **Figure: SharePoint has already been configure for the server**
         
         [![image](images/image16_thumb-23-23.png "image")](http://blog.hinshelwood.com/files/2011/05/image16.png)
+{ .post-img }
         
         **Figure: There is no SharePoint location configured for the imported Team Project Collection**
         
         [![image](images/image22_thumb-24-24.png "image")](http://blog.hinshelwood.com/files/2011/05/image22.png)
+{ .post-img }
         
         **Figure: Set the location and then click OK**
         
@@ -259,6 +272,7 @@ This common section represents all the work that relates
         Enabling Reporting Services is very similar to enabling SharePoint. Just follow the configuration options.
         
         [![image](images/image25_thumb-25-25.png "image")](http://blog.hinshelwood.com/files/2011/05/image25.png)
+{ .post-img }
         
         **Figure: Configure the default reporting services location**
         
@@ -270,10 +284,12 @@ This common section represents all the work that relates
         Note: I will be leaving it up to each team to upgrade as they like as while this is easy, it can be disruptive.
         
         [![image](images/image31_thumb-27-27.png "image")](http://blog.hinshelwood.com/files/2011/05/image31.png)
+{ .post-img }
         
         **Figure: Change the portal that the Team Project points to**
         
         [![image](images/image34_thumb-28-28.png "image")](http://blog.hinshelwood.com/files/2011/05/image34.png)
+{ .post-img }
         
         **Figure: Changing the connected portal is as easy as setting a new relative path**
         
@@ -295,6 +311,7 @@ This common section represents all the work that relates
         7. Modify to support upgraded template and checkin
         
         [![image](images/image28_thumb-26-26.png "image")](http://blog.hinshelwood.com/files/2011/05/image28.png)
+{ .post-img }
         
         **Figure: TfsCustomisations has all of the Scripts and Process Template customisation for the upgrade and beyond**
         
@@ -378,6 +395,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
     Exporting is probably the easiest part of this process but that will depend on the amount of data. If the project has been around for along time then you could end up with a rather large XML file. One of the Team Projects here produced a file larger than 500mb for under 20k of Work Items. It is really the revisions that detail the amount of data and time it will take.
     
     [![image](images/image_thumb-2-2.png "image")](http://blog.hinshelwood.com/files/2011/05/image.png)
+{ .post-img }
     
     **Figure: Exporting is easy**
     
@@ -389,6 +407,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
     For the transform to work you must specify a “Rules” file that has all of the mapping in it. This file is a bit of a black box with sparse documentation, but I did manage to add the ~15  custom fields that are being kept. I also had to add a bunch of mappings to “fold” some custom Work Item Types into
     
     [![image](images/image_thumb1-3-3.png "image")](http://blog.hinshelwood.com/files/2011/05/image1.png)
+{ .post-img }
     
     **Figure: Transforming can take some time if there are a lot of revisions**
     
@@ -404,14 +423,17 @@ As the Export Migration is the chosen route of least friction we need to follow 
         The tool completely fails to take into account that you can have characters in the old “Team” drop down that are no valid in the Iteration Path that the data has been moved to. In this case it is ‘<’ and ‘>’
         
         [![image](images/image41_thumb-30-30.png "image")](http://blog.hinshelwood.com/files/2011/05/image41.png)
+{ .post-img }
         
         **Figure: It does not handle the ‘<’ or ‘>’**
         
         **[![image](images/image_thumb2-11-11.png "image")](http://blog.hinshelwood.com/files/2011/05/image2.png)**
+{ .post-img }
         
         Figure: I just don’t understand why the tool does not fix tis itself.
         
         [![image](images/image_thumb3-12-12.png "image")](http://blog.hinshelwood.com/files/2011/05/image3.png)
+{ .post-img }
         
         **Figure: Although valid XML this is still not good output**
     
@@ -420,10 +442,12 @@ As the Export Migration is the chosen route of least friction we need to follow 
         If you do not remove these account you will spend hours trying to change the inline. In one project with only ~2000 work items there were over 300 invalid user instances specified. The best thing here is to do a search for “domain” and then replace “surname, forename (domainusername)” with a selected user. In this case I found an account that was in the system aptly called “**_\_GhostService_**” so I used that.
         
         [![image](images/image_thumb4-13-13.png "image")](http://blog.hinshelwood.com/files/2011/05/image5.png)
+{ .post-img }
         
         **Figure: All deleted users need to be fixed**
         
         **[![image](images/image_thumb5-14-14.png "image")](http://blog.hinshelwood.com/files/2011/05/image6.png)** **Figure: Visual Studio is pretty good at replacing in big files (100MB+)**
+{ .post-img }
         
         It sucks very much that this is the case as the TFS Integration Platform will take care of this for you by inserting the user anyway. Thus preserving the history.
         
@@ -475,6 +499,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
         TFS 2010 added the ability to have Query folders. Here is hoping that we get them on Builds as well in the future.
         
         [![image](images/image_thumb6-15-15.png "image")](http://blog.hinshelwood.com/files/2011/05/image8.png)
+{ .post-img }
         
         **Figure: The folder will store all of the old queries**
         
@@ -484,6 +509,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
         Luckily we can drag and drop Queries within the same Team Project.
         
         [![image](images/image_thumb7-16-16.png "image")](http://blog.hinshelwood.com/files/2011/05/image9.png)
+{ .post-img }
         
         **Figure: All of your queries are now saved**
         
@@ -493,6 +519,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
         We have at least one Team Project that was created with the new template (TfsCustomisations), and even more luckily we can drag and drop Queries between Team Projects.
         
         [![image](images/image_thumb8-17-17.png "image")](http://blog.hinshelwood.com/files/2011/05/image11.png)
+{ .post-img }
         
         **Figure: Shiny new Queries are now waiting for the team**
         
@@ -502,6 +529,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
     You will need to add the new reports to TFS, but unfortunately while there is drag and drop support for moving reports within a Team Project there is no way to drag them _into_ a Team Project, but there his a command line tool to support this. However, prior to running it you should again create a “\_2008Archive” folder to load all of the existing reports into. Again there may be a bunch of custom reports in there that the team does not want to loose. Once you have done that you can call the command line option to install the new templates
     
     [![image](images/image_thumb9-18-18.png "image")](http://blog.hinshelwood.com/files/2011/05/image12.png)
+{ .post-img }
     
     **Figure: Put all existing reports under “\_2008Archive”**
     
@@ -607,10 +635,12 @@ As the Export Migration is the chosen route of least friction we need to follow 
         So that you do not get duplicate items or any rollup going on prior to the upgrade completing you need to “Retract” the deployment from the Team Project Collection that you will be importing the data to.
         
         [![image](images/image_thumb10-4-4.png "image")](http://blog.hinshelwood.com/files/2011/05/image14.png)
+{ .post-img }
         
         **Figure: You MUST stop the service from running**
         
         [![image](images/image_thumb11-5-5.png "image")](http://blog.hinshelwood.com/files/2011/05/image15.png)
+{ .post-img }
         
         **Figure: Retract before import**
         
@@ -620,6 +650,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
         This can take quite a long time, but in my experience does not take quite as long as the transformation process.
         
         [![image](images/image_thumb12-6-6.png "image")](http://blog.hinshelwood.com/files/2011/05/image17.png)
+{ .post-img }
         
         **Figure: The import runs one change at a time**
         
@@ -629,11 +660,13 @@ As the Export Migration is the chosen route of least friction we need to follow 
         During the process there will be errors. I can guarantee this. Although I have done my very best to make sure that there are as few as possible, I still end up having to babysit the process to completion.
         
         [![image](images/image_thumb13-7-7.png "image")](http://blog.hinshelwood.com/files/2011/05/image18.png)
+{ .post-img }
         
     
     7. ##### **Start the SfTS Processes**
         
         [![image](images/image_thumb14-8-8.png "image")](http://blog.hinshelwood.com/files/2011/05/image19.png)
+{ .post-img }
         
         **Figure: Redeploy the processes**
         
@@ -659,6 +692,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
     11. ##### **Run all calculations**
         
         [![image](images/image_thumb15-9-9.png "image")](http://blog.hinshelwood.com/files/2011/05/image20.png)
+{ .post-img }
         
         **Figure: You need to run a recalculation on all of the work items**
         
@@ -667,6 +701,7 @@ As the Export Migration is the chosen route of least friction we need to follow 
 17. #### **Rebuild the Warehouse**
     
     [![image](images/image_thumb16-10-10.png "image")](http://blog.hinshelwood.com/files/2011/05/image21.png)
+{ .post-img }
     
     **Figure: You can rebuild the warehouse through the TFS Admin Console**
     

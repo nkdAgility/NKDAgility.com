@@ -34,6 +34,7 @@ I have updated this as [One Team Project for Visual Studio 2012](http://blog.hin
 [Update - 13th April 2010 - Content update](#update20120413-1)
 
 I ran into the problem of not being able to find a build called “Build” and had to search through 172 projects to find it. With Areas there would be substantially less projects to search. A good naming convention would also work ![Smile](images/e81a0b914d47_8DFC-wlEmoticon-smile_2-7-7.png)
+{ .post-img }
 
 [Update - 8th April 2010 - Content update](#update20120408)
 
@@ -137,6 +138,7 @@ All of these cons could be mitigated by a custom tool that helps automate creati
 Areas should be used for topological classification/isolation of work items. You can think of this as architecture areas, organisational areas or even the main features of your application. In our scenario there is an additional top level item that represents the Project / Product that we want to chop our Team Project into.
 
 ![image](images/e81a0b914d47_8DFC-image_-1-1.png)  
+{ .post-img }
 **Figure: Creating a sub area to represent a product/project is easy.**
 
 Becomes:
@@ -146,6 +148,7 @@ Becomes:
 Iterations should be used for chronological classification/isolation of work items. This could include isolated time boxes, milestones or release timelines and really depends on the logical flow of your project or projects. Due to the new level in Area we need to add the same level to Iteration. This is primarily because it is unlikely that the sprints in each of your projects/products will start and end at the same time. This is just a reality of managing multiple projects.
 
 ![image](images/e81a0b914d47_8DFC-image_-5-5.png)  
+{ .post-img }
 **Figure: Adding the same Area value to Iteration as the top level item adds flexibility to Iteration.**
 
 > Sprint 1
@@ -167,16 +170,19 @@ Or
 Queries are used to filter your work items based on a specified level of granularity. There are a number of queries that are built into a project created using the MSF Agile 5.0 template, but we now have multiple projects and it would be a pain to have to edit all of the work items every time we changed project, and that would only allow one team to work on one project at a time.
 
 ![image](images/e81a0b914d47_8DFC-image_-2-2.png)   
+{ .post-img }
 **Figure: The Queries that are created in a normal MSF Agile 5.0 project do not quite suit our new needs.**
 
 In order for project contributors to be able to query based on their project we need a couple of things. The first thing I did was to create an “\_Area Template” folder that has a copy of the project layout with all the queries setup to filter based on the “\_Area Template” Area and the “\_Sprint template” you can see in the Area and Iteration views.
 
 ![image](images/e81a0b914d47_8DFC-image_-4-4.png)  
+{ .post-img }
 **Figure: The template is currently easily drag and drop, but you then need to edit the queries to point at the right Area and Iteration. This needs a tool.**
 
 I then created an “Areas” folder to hold all of the area specific queries. So, when you go to create a new TFS Sub-Project you just drag “\_Area Template” while holding “Ctrl” and drop it onto “Areas”. There is a little setup here. That said I managed it in around 10 minutes which is not so bad, and I can imagine it being quite easy to build a tool to create these queries
 
 ![image](images/e81a0b914d47_8DFC-image_-3-3.png)  
+{ .post-img }
 **Figure: These new queries can be configured in around 10 minutes, which includes setting up the Area and Iteration as well.**
 
 ### Version Control
@@ -184,6 +190,7 @@ I then created an “Areas” folder to hold all of the area specific queries. S
 What about your source code? Well, that is the easiest of the lot. Just create a sub folder for each of your projects/products.
 
  ![image](images/e81a0b914d47_8DFC-image_-6-6.png)  
+{ .post-img }
 **Figure: Creating sub folders in source control is easy as “Right click | Create new folder”.**
 
 > DEVMain

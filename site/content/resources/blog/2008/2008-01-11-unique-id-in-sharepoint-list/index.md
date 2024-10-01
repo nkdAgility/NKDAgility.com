@@ -20,6 +20,7 @@ slug: "unique-id-in-sharepoint-list"
 [This seams to be a common problem, and one that I get many calls from users about:](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_2.png)
 
 ![image](images/UniqueIDinSharePointlist_7B3D-image_thumb-1-2.png)
+{ .post-img }
 
 > _I have a query with our Sharepoint site and was advised that you were probably the best person to ask._
 > 

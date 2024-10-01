@@ -46,6 +46,7 @@ Once you decide how you are doing this in each of these places you need to keep 
 Areas are traditionally used to separate out parts of your product / project so that you can see how much effort has gone into each.
 
 [![SNAGHTML1016b83](images/43a228bc7013_C558-SNAGHTML1016b83_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML1016b83.png)  
+{ .post-img }
 **Figure: The top level areas are for reporting and work item separation**
 
 There are massive advantages of using this method. You can:
@@ -58,6 +59,7 @@ It is far more likely that a project or product gets renamed than a department.
 Tip: If you have many projects, over 100, you should consider categorising them here, but make sure that the actual project name always sits at the same level so you know which is which.
 
 [![SNAGHTML14f8cca](images/43a228bc7013_C558-SNAGHTML14f8cca_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML14f8cca.png)  
+{ .post-img }
 **Figure: Always keep things that are the same at the same level**
 
 Note: You may use these categories only at the Area/Iteration level to make it easier to select on drop down lists. You may not want to use them everywhere. On the other hand, for consistency it would be better to.
@@ -67,6 +69,7 @@ Note: You may use these categories only at the Area/Iteration level to make it e
 Iterations are usually used to some sort of time based consideration. Here I am splitting into Iterations with periodic releases.
 
 [![SNAGHTML102871e](images/43a228bc7013_C558-SNAGHTML102871e_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML102871e.png)  
+{ .post-img }
 **Figure: Each product needs to be able to have its own cadence**
 
 The ability to have each project run at its own pace and to enable them to have their own release schedule is often of paramount importance and you don’t want to fix your 100+ projects to all be released on the same date.
@@ -76,6 +79,7 @@ The ability to have each project run at its own pace and to enable them to have 
 Having a good structure for your source even if you are not branching or having multiple products under the same structure is always a good idea.
 
 [![image](images/43a228bc7013_C558-image_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_2.png)  
+{ .post-img }
 **Figure: Separate out your products source**
 
 You need to think about both your branches as well as the structure of your source. All your code should be under “Source” and everything you need to build your solution including Build Scripts and 3rd party tools should be under your “Main” (branch) folder. This should them be branched by “Quality”, “Release” or both to get the most out of your branching structure.
@@ -87,6 +91,7 @@ _Note: You usually will not be able to install custom software on your build ser
 _Note: Consult the_ [_Branching Guidance for Team Foundation Server 2010_](http://tfsbranchingguideiii.codeplex.com/) _for more on branching_
 
 [![image](images/43a228bc7013_C558-image_thumb_4-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_10.png)  
+{ .post-img }
 **Figure: Adding category may be a necessary evil**
 
 Even if you have to have a couple of categories called “Default”, it is better than not knowing the difference between a folder, Product and Branch.
@@ -96,6 +101,7 @@ Even if you have to have a couple of categories called “Default”, it is bett
 Queries are used to load lists of Work Items out of TFS so you can see what work you have. This means that you want to also separate queries out by Product / project to make it easier to find the correct data for a particular product.
 
 [![image](images/43a228bc7013_C558-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_6.png)  
+{ .post-img }
 **Figure: Again you have the same first level structure**
 
 Having Folders also in Work Item Tracking we do the same thing. We put all the queries under a folder named for the Product / Project and change each query to have “AreaPath=\[TeamProject\]\[ProductX\]” in the query instead of the standard [“Project=@Project](mailto:“Project=@Project)”.
@@ -109,6 +115,7 @@ _Tip: You can ctrl+drag the “Product1” folder to create your “Product2” 
 You may have many builds both for individual products but also for different quality's. This can be further complicated by having some builds that action “Gated Check-In” and others that are specifically for “Release”, “Test” or another purpose.
 
 [![image](images/43a228bc7013_C558-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_4.png)  
+{ .post-img }
 **Figure: There are no folders, yet, for the builds so you need a good naming convention**
 
 Its a pity that there are no folders under builds, some way to categorise would be nice. In lue of that at the moment you can use a functional naming convention that at least allows you to find what you want.

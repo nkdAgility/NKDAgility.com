@@ -13,6 +13,7 @@ slug: "configuring-a-powershell-adapter-for-the-tfs-integration-platform"
 ---
 
 ![](images/image_thumb-1-1.png)
+{ .post-img }
 
 We have a customer who really, really want to ship source code from Team Foundation Server (TFS) to Perforce. Why you might ask… Well for many companies they can’t just migrate, they either need some sort of safety net, or have an external requirement that they MUST use a particular system as a matter of record.
 
@@ -31,6 +32,7 @@ We have to have some way of getting each of the check-ins out of TFS in order an
 ## The Theory
 
 The TFS Integration Platform Adapter I have written is really simple, and focuses on adaptability not perfection. What is the best tool for this… well PowerShell of course ![Smile](images/wlEmoticon-smile1-10-10.png), and with the Team Foundation Adapters already written and provided in the box, we only have to worry about the other side.
+{ .post-img }
 
 In the integration platform if you want to do the _writing_, rather than the _reading_ I recently [did for Test Track Pro](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then you concentrate on the IMigrationProvider interface which allows you to implement the ProcessChangeGroup method.
 
@@ -147,6 +149,7 @@ In order to run this adapter you are going to need somewhere to install and run 
 The [TFS Integration Platform](http://tfsintegration.codeplex.com/) can run with a UI so we will be using that to configure it, but it can also run off the command line. If you are going to want this tool to run in more than “One-Time” mode then you are going to want to install the service. This will run the sync even if no one is logged on.
 
 [![SNAGHTMLca8aa6](images/SNAGHTMLca8aa6_thumb-3-3.png "SNAGHTMLca8aa6")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLca8aa6.png)
+{ .post-img }
 
 **Figure: Install the Service if you will be syncing**
 
@@ -266,38 +269,45 @@ I have highlighted the important parts above and we have already described some 
 Now that you are able to configure the config file, it is time to setup the run.
 
 [![SNAGHTMLe3e86f](images/SNAGHTMLe3e86f_thumb-4-4.png "SNAGHTMLe3e86f")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLe3e86f.png)
+{ .post-img }
 
 **Figure: Creating a new Configuration for the TFS Integration Platform**
 
 We need to create a new configuration and select the config file template that we built. Don’t worry, we can change the individual settings later.
 
 [![SNAGHTMLe5b54e](images/SNAGHTMLe5b54e_thumb-5-5.png "SNAGHTMLe5b54e")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLe5b54e.png)
+{ .post-img }
 
 **Figure: Using the Sample PowerShell Configuration**
 
 [![SNAGHTMLe83fa3](images/SNAGHTMLe83fa3_thumb-6-6.png "SNAGHTMLe83fa3")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLe83fa3.png)
+{ .post-img }
 
 **Figure: You can reconfigure the TFS side to point at a valid TFS server and Project.**
 
 [![SNAGHTMLe8d29e](images/SNAGHTMLe8d29e_thumb-7-7.png "SNAGHTMLe8d29e")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLe8d29e.png)
+{ .post-img }
 
 **Figure: Make sure that your folder does not “contain” a branch**
 
 For a very strange reason that probably spells from my laziness, you need to set both the left and the right hand side of the Paths to be the same thing. I am sure that this is just a temporary work around, _but you know how they are!_
 
 [![image](images/image_thumb17-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image17.png)
+{ .post-img }
 
 **Figure: Paths must be the same**
 
 You can now “Save to Database” the configuration and click the “Start” button on the left to start the first run on the Adapter.
 
 [![SNAGHTMLed1f28](images/SNAGHTMLed1f28_thumb-8-8.png "SNAGHTMLed1f28")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLed1f28.png)
+{ .post-img }
 
 **Figure: The Adapter then starts it run**
 
 There is not much more to see, the files are populated by change set in the folder that was selected and the PowerShell scripts that were configured run.
 
 [![SNAGHTMLefcfb1](images/SNAGHTMLefcfb1_thumb-9-9.png "SNAGHTMLefcfb1")](http://blog.hinshelwood.com/files/2011/06/SNAGHTMLefcfb1.png)
+{ .post-img }
 
 **Figure: Some Changesets are bigger than others**
 
@@ -306,6 +316,7 @@ Once and a while there are some really big Changesets processed. This one is act
 ## Conclusion
 
 Although this process can take a while, the fact that you can configure the PowerShell any way you like on the fly makes it a very versatile adapter. Although the down side is that you have to write in PowerShell ![Smile](images/wlEmoticon-smile1-10-10.png)
+{ .post-img }
 
 If you need a copy of your TFS Version Control data somewhere other than TFS for posterity, or you need a migration from [Test Track Pro to TFS](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then just ping me and see how we can help.
 

@@ -41,6 +41,7 @@ I have seen many companies that are trying to move towards greater agility get t
 <figure>
 
 ![](images/staggered-iterations-for-delivery-1-1.png)
+{ .post-img }
 
 <figcaption>
 

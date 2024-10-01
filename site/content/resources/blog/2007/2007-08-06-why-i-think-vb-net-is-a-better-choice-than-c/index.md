@@ -26,6 +26,7 @@ liviu is right that many mediocre programmers are VB programmers. This is becau
 The readability of VB.NTE is what makes it more popular. Take these pieces of code for example:
 
 ![](images/image_thumb.png)
+{ .post-img }
 
 or (thanks [Mihir Solanki](http://www.mihirsolanki.com/) for the timely translation)
 

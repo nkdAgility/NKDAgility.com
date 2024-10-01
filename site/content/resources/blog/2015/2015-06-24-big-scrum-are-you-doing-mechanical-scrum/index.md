@@ -19,6 +19,7 @@ slug: "big-scrum-are-you-doing-mechanical-scrum"
 Last month I created an article for NDC Magazine on Scaling Scrum. The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional Scrum Team, why we need it, and how we can scale it.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+{ .post-img }
 
 \[[Download NDC Magazine 2015.1 as a PDF](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
 
@@ -27,6 +28,7 @@ Last month I created an article for NDC Magazine on Scaling Scrum. The guys at N
 Many organisations move towards Scrum and Agile for the allure of hyper-productivity. This is the promise that led them to Scrum in the first place and they are, more often than not, sorely disappointed when they don’t achieve it. The easiest way to make Scrum as ineffective as possible, is to pay lip service to it. Forgetting about the values, principles, and technical excellence that are the underpinning of its effectiveness.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+{ .post-img }
 
 It's just fine to start with mechanical Scrum and work from there. Just don’t expect to get the effectiveness that you desire without the other two pillars. You need all three of the pillars to be able to ship twice the features in half the time.
 

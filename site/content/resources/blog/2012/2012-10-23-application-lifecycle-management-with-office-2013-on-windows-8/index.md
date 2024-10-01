@@ -36,6 +36,7 @@ Its the little things that I like. All those little touches go to improve the wh
 If you have Office 2013 Preview you will need to completely uninstall this first. If you “Start | ‘Unin’ | Settings | Uninstall a program” you should be able to put “2013” or “preview” into the search bar and complete the removal. And once you have it removed…
 
 [![Treated to the Office 2013 into video](images/image_thumb16-1-1.png "Treated to the Office 2013 into video")](http://blog.hinshelwood.com/files/2012/10/image42.png)  
+{ .post-img }
 **Figure: Treated to the Office 2013 into video**
 
 As usual there are tones of new things that you can do with Office 2013, no least of which is the [ability to log in with your Microsoft ID](http://blog.hinshelwood.com/allow-user-to-change-the-region-for-windows-live-id-billing/) and have all of your SkyDrive data at the tip of your fingers.
@@ -43,6 +44,7 @@ As usual there are tones of new things that you can do with Office 2013, no leas
 There are no install options and instead after the video you are just “done”. This is fine with me, and I think most people as everyone I know takes the default. Unless you were pushed for space, and lets face it, who is these days, then I just want to install everything anyway.
 
 [![You are good to go with Office 2013](images/image_thumb17-2-2.png "You are good to go with Office 2013")](http://blog.hinshelwood.com/files/2012/10/image43.png)  
+{ .post-img }
 **Figure: You are good to go with Office 2013**
 
 The install is so ridiculously easy that not a single person can get it wrong…
@@ -52,6 +54,7 @@ The install is so ridiculously easy that not a single person can get it wrong…
 You would not immediately consider PowerPoint 2013 to be an ALM tool, but it is, and a darn good one. You can easily mock up interactions or storyboards and use animations to express to either your Stakeholders or to your Development Team exactly what it is that you are trying to make.
 
 [![StoryBoarding with PowerPoint 2013](images/image_thumb18-3-3.png "StoryBoarding with PowerPoint 2013")](http://blog.hinshelwood.com/files/2012/10/image44.png)  
+{ .post-img }
 **Figure: Storyboarding with PowerPoint 2013**
 
 This is an invaluable tool in your arsenal and if you have access to at least the Microsoft Test Professional SKU for Visual Studio 2012 you can access additional tools to help you make your story boards awesome.
@@ -63,6 +66,7 @@ Installing the tools (available in Visual Studio 2012 Test Professional , Visual
 Team Foundation Server seamlessly integrates its operational store with Excel and this is the tool of choice when you are either bulk editing your work items, or if you are creating reports against the Data Warehouse and Cube. While the new web UI in Visual Studio 2012 is awesome, nothing can compete with the graphing, editing, functions and reporting that you can do right out of the box.
 
 [![Access your TFS operational store from within Excel 2013](images/image_thumb19-4-4.png "Access your TFS operational store from within Excel 2013")](http://blog.hinshelwood.com/files/2012/10/image45.png)  
+{ .post-img }
 **Figure: Access your TFS operational store from within Excel 2013**
 
 This makes Excel 2013 a premier reporting and data manipulation tool in the ALM space.

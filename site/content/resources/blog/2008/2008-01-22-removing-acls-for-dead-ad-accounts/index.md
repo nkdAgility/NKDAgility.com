@@ -15,8 +15,10 @@ slug: "removing-acls-for-dead-ad-accounts"
 ---
 
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_2.png) I have run into a very vexing problem with one of my applications. I was asked to provide an application that would fin all of the permissions set against Active Directory accounts that have been since removed. These normally show up in the permissions dialogs for folders as the full SID of the account as there is no longer nay way to look it up in Active Directory.
+{ .post-img }
 
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_4.png)I have written a nice little threaded application that lets you select a folder and it finds all of the dead accounts. What it actually does is verify all accounts against Active Directory and flags them if they are not found. This will have the side effect of finding groups and local accounts and thinking they are dead as well. To solve this problem I added a "Safe List" of accounts and as way to add them from the GUI. The system then ignores any account names that are in this list.
+{ .post-img }
 
 All is well...
 
@@ -42,10 +44,12 @@ Now, this code is fairly simple. First we get the directory security object, the
 The "DirectoryName" object contains a CuteFTP folder:
 
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb_2-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_6.png)
+{ .post-img }
 
 The "IdentityReference" object contains the offending SID:
 
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb_3-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_8.png)
+{ .post-img }
 
 This code should work, and I have used a similar piece to add permissions, so why on earth can't I remove them!
 

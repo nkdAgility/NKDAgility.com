@@ -16,6 +16,7 @@ slug: "the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery"
 I have been told time and again in the office that Scrum is an inflexible platform for developing software as it is way too prescriptive. This is far from reality and represents an invalid interpretation in the rules of the game. This fault lies not with those that have been turned away from the light, but with the fanatics that have brandished the burning torch and pitchfork at your door chanting "that is not Scrum because...".
 
 [![Image(1)](images/Image1_thumb-1-1.png "Image(1)")](http://blog.hinshelwood.com/files/2011/11/Image1.png)  
+{ .post-img }
 **Figure: Please ignore these guys**
 
 Many of us in the community have a vision of making Scrum more accessible to all and to that end, one of the goals of the entire Scrum community should be to help the misguided back to the light and re-educate the Scrum Coaches ( read Inquisitors here ) that have corrupted them.

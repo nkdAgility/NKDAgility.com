@@ -47,50 +47,61 @@ Git push https://personalToken@github.com/nkdAgility/VstsMigrator.git head:maste
 Here you can see that we are authenticating for the push, but there is no need for the Pull as the repository in Github is public. Once you validate that you can run these two commands locally we need to automate these two tasks. The easiest way to do this is to create a Build definition that is triggered when we check into the VSTS Git repository.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+{ .post-img }
 
 On the Team Project that contains your Git repository you should create a new Empty build definition for us to execute the commands.
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+{ .post-img }
 
 Next you select the Git repository that you want to work with and that you want to use it as a CI. This will allow our automation to trigger when the code in the repository has been changed.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+{ .post-img }
 
 Now that we have a blanc build definition in our Team Project we can go ahead and add the automation. In order to keep things simple and configurable I am going to simply add two "Command Line" tasks and call the commands that we need. This allows us to configure this easily in the web access without having to edit a script file. If you were doing this a lot you might create a custom task, but this keeps it configurable and easy.
 
 ![clip_image004](images/clip_image004-4-4.png "clip_image004")
+{ .post-img }
 
 Click "Add" twice to get two command line calls…
 
 ![clip_image005](images/clip_image005-5-5.png "clip_image005")
+{ .post-img }
 
 For each of the Git commands that we want to run we can easily select the Tool as "Git" and then pass the arguments into the arguments box. The first command is easy…
 
 Since the Build system will automatically clone our VSTS git repository locally we can assume that it already exists. So when we make this call to PULL from Github we are updating the clean clone of VSTS with any updates that have occurred in Github since we last Pushed.
 
 ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+{ .post-img }
 
 The second command is a little bit more interesting. We need to PUSH to Guthub which requires authentication. The easiest way to do this is to pass the authentication token in the URL of the command. Since I don’t want to expose this to everyone that can read my build definition I need to create a secret…
 
 ![clip_image007](images/clip_image007-7-7.png "clip_image007")
+{ .post-img }
 
 Head on over to the Variables tab and add a new variable. Here you enter the [Personal Token](https://github.com/blog/1509-personal-api-tokens) that you get from your account on Github. Done forget to click the little padlock to encrypt the data.
 
 If, like me, you work with lots of people you might consider creating a Bot account on Github so that it does not look like all the changes are pushed by you. As long as you add your VSTS email addresses to Github then all of the commits will be attributed correctly.
 
 ![clip_image008](images/clip_image008-8-8.png "clip_image008")
+{ .post-img }
 
 Now save your build with an appropriate name.
 
 ![clip_image009](images/clip_image009-9-9.png "clip_image009")
+{ .post-img }
 
 All that is left now is to run the build and see the results.
 
 ![clip_image010](images/clip_image010-10-10.png "clip_image010")
+{ .post-img }
 
 Here you can see that the build has completed and all the secrets are preserved. Since we set this up as a continuous integration the final test is to make a change to the repo in VSTS and see it push to Github.
 
 ![clip_image011](images/clip_image011-11-11.png "clip_image011")
+{ .post-img }
 
 As you can see its supper simple to get your code Synching from VSTS to Github, but what if someone forks your repository on GitHub and then you accept a pull request.
 
@@ -107,10 +118,12 @@ Git push https://:personaltoken@nkdagility.visualstudio.com/DefaultCollection/de
 Since there are no public repos in VSTS we need to authenticate both the PULL and the PUSH with a [personal token](https://www.visualstudio.com/en-us/get-started/setup/use-personal-access-tokens-to-authenticate) from VSTS.
 
 ![clip_image012](images/clip_image012-12-12.png "clip_image012")
+{ .post-img }
 
 And that is all…well… almost…
 
 ![clip_image013](images/clip_image013-13-13.png "clip_image013")
+{ .post-img }
 
 When you configure a continuous integration build that is linked to a Github repository VSTS will automatically create the service hook on the other end and Github will trigger your VSTS build when someone checks into the specified branch.
 

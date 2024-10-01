@@ -20,6 +20,7 @@ One of my customers is hiring for the Scrum Master Role and asked if I had a han
 <figure>
 
 ![](images/Wide-screen-scrum-master-1280x720-2-2.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -38,6 +39,7 @@ The Scrum Master is a challenging position to hire for and finding the right per
 While there is no need for a Scrum Master to be technical, they do need to understand what effective looks like within the product and the technical domain within which you are creating the product. Ultimately it's worth remembering that certification is not an indication of competence, but may be used as a simple bar to reduce the load on interviews and assert a minimum level of knowledge. At $200 for a PSM I assessment and $250 for the PSM II assessment, and with a reputation in the industry of not being totally easy, these are a no-brainer for any aspiring or experienced Scrum Master. At the time of writing there are more than [350k people with PSM I and 11k people with PSM II](https://www.scrum.org/professional-scrum-certifications/count).
 
 ![](images/image-1-1-1.png)
+{ .post-img }
 
 ## A Scrum Master Job Spec
 

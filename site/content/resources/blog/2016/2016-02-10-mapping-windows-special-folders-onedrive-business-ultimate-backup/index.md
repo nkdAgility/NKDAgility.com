@@ -24,16 +24,19 @@ So… to make things really easy I want to store all of my files on OneDrive and
 In Windows all of those folders are special folders. They are given special powers by the operating system and this allows them to integrate into the OS and applications. And it's really simple to map them to another folder in your OneDrive or OneDrive for Business.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+{ .post-img }
 
 In Windows 10 (or 8, or 7) you can right click on any of the Special Folders, like Documents, and go to Properties…
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+{ .post-img }
 
 …Here you will see a "Location" tab where the file location is set. If you change this and point it to your OneDrive or OneDrive for Business (or DropBox or iCloud) then anything you put in Documents will also be saved to the cloud.
 
 I configured this for most of my family and while they don’t need to worry or care about it the number of times this has saved their bacon! Not only can you just re-sync a new computer, but OneDrive also has a recycle bin for anything deleted from it.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+{ .post-img }
 
 Once you have changed the folder you will be asked to move all of the files, which I recommend, and then you will be asked if you are really sure that you want to merge the files. Merging can't really be undone as the folders will be intermixed so make sure you have both locations in order before you just squish them together.
 

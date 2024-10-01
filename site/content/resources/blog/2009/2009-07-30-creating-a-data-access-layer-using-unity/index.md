@@ -20,6 +20,7 @@ slug: "creating-a-data-access-layer-using-unity"
 I am always pulling out the Unity assemblies. Maybe it is just because I am lazy, but I really can’t be bothered rolling my own dependency injection and mapping framework!
 
 ![image](images/CreatingaDataAccesslayerusingUnity_E289-image_13-1-1.png)
+{ .post-img }
 
 I am going to use Unity only as a mapping frame work for now, I want to be able to pass an Interface into a method, and get back the correct data access class.
 
@@ -38,6 +39,7 @@ If, like me you are running tests you will also need to add an InternalsVisibleT
 First is my IDataAccess class, this is really only exists so there is some validation on my generics.
 
 [![image](images/CreatingaDataAccesslayerusingUnity_E289-image34_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaDataAccesslayerusingUnity_E289-image34.png)
+{ .post-img }
 
 ```
 ' Assembly: Hinshlabs.TfsDynamicPolicy.DataAccess.Common
@@ -66,6 +68,7 @@ End Interface
 Wow… that was hard, IDataAccess may have a little more than nothing in the future, but for now that is it. Now, what I need is a class that I can inherit from that will provide the functionality I need for any factory. This is mainly coz factories bread factories.
 
 ![image](images/CreatingaDataAccesslayerusingUnity_E289-image25-3-3.png)
+{ .post-img }
 
 ```
 'Assembly: Hinshlabs.TfsDynamicPolicy.Common
@@ -139,6 +142,7 @@ The UnityFactoryBase class provides a couple of features. It provides a Singleto
 We need to inherit from UnityFactoryBase(Of T As {New, UnityFactoryBase(Of T)})  to create our factory and provide a config file to configure the UnityContainer. The inherited class is pretty simple as we have done most of the heavy lifting in the base class.
 
 ![image](images/CreatingaDataAccesslayerusingUnity_E289-image19-2-2.png)
+{ .post-img }
 
 ```
 Imports Hinshlabs.TfsDynamicPolicy.DataAccess.Common

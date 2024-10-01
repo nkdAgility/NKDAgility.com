@@ -11,8 +11,10 @@ slug: "the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-sup
 ---
 
 [![WPEngine-Logo-300x125](images/WPEngine-Logo-300x125_thumb-11-11.jpg "WPEngine-Logo-300x125")](http://www.shareasale.com/r.cfm?b=394686&u=687520&m=41388&urllink=&afftrack=)You may have noticed a little down time today. Thanks to the folks who emails to let me now of problems, some I was already on top of… others needed a good poking. The downtime was due to me moving my hosting provider. This blog has had a few homes over the years (my goodness…6 years!) and as it has grown so it has slowed. My site is image heavy and I also make poor choice of plugins in favour of features. It has been a constant annoyance for me that my blog has had abysmal loading times of late.
+{ .post-img }
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/09/image.png)  
+{ .post-img }
 **Figure: An average of 15s in the last month sucks**
 
 I think you can see my issue… and often I have been hit by shared server syndrome with the only response from support being “someone must be running a process on the server” and “it will probably end soon” with a little bit of “well we cant kill someone else's process!” and I think that was the final straw. If I am on a shared environment I expect my provider to protect me from the other Muppets kicking the box as well as myself.
@@ -27,10 +29,12 @@ So my blog has gone through many iteration:
     **GoDaddy have a little better support but still with the slow.
 
 And now I have moved to WPEngine. Although they offer a service to move you blog for you for $200, but I am hard-core and wanted to feel the pain myself ![Smile](images/wlEmoticon-smile-10-10.png)
+{ .post-img }
 
 But nicely enough the provide some [awesome instructions](http://support.wpengine.com/migration-process/?SSAID=687520) that gave me an almost seamless migration. Luckily I have had to debug crappy plugins doing weird stuff before and I have my own crazy DNS setup that I have had for a few years…
 
 [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/09/image1.png)  
+{ .post-img }
 **Figure: W3 Cache plugin messing up my site**
 
 While there are many awesome plugins you can often have a little trouble with installing, activating and deleting in the right order across a Multi-Site implementation of Wordpress, but there is now hope!
@@ -40,6 +44,7 @@ The nice folks over at WP Engine have a list of [disallowed plugins](http://supp
 1. **Dedicated support for word press and most plugins**
     
     In the 3-4 hours it took to get all my ducks in a row for moving my site I had 5 support tickets knocked off. Each and every one was answered within 15 minutes and dealt with within 60. Not bad ![Smile](images/wlEmoticon-smile-10-10.png)
+{ .post-img }
     
 2. **Snapshots**
     
@@ -59,27 +64,34 @@ After looking at the list of “disavowed” plugins I decided to kill the ones 
 My homepage lists the short form of the posts and has a couple of controls that help folks navigate and has been reduced from 8s to 2s.. that's 4 times faster.
 
 [![image](images/image_thumb2-3-3.png "image")](http://blog.hinshelwood.com/files/2012/09/image2.png)  
+{ .post-img }
 **Figure: Homepage Before (GoDaddy)**
 
 [![image](images/image_thumb3-4-4.png "image")](http://blog.hinshelwood.com/files/2012/09/image3.png)  
+{ .post-img }
 **Figure: Homepage After (WP Engine)**
 
 As the aggressive caching kicks in these numbers will only improve, but my Events page, which makes use of a lot of data has gone from 10s to 5 seconds… 2 times faster.
 
 [![image](images/image_thumb4-5-5.png "image")](http://blog.hinshelwood.com/files/2012/09/image4.png)  
+{ .post-img }
 **Figure: Events page Before**
 
 [![image](images/image_thumb5-6-6.png "image")](http://blog.hinshelwood.com/files/2012/09/image5.png)  
+{ .post-img }
 **Figure: Events Page After**
 
 And I picked a significantly large post with lots of images to get 6s before and ~2s after… that's nearly a 3 times improvement.
 
 [![image](images/image_thumb6-7-7.png "image")](http://blog.hinshelwood.com/files/2012/09/image6.png)  
+{ .post-img }
 **Figure: Big post before**
 
 [![image](images/image_thumb7-8-8.png "image")](http://blog.hinshelwood.com/files/2012/09/image7.png)  
+{ .post-img }
 **Figure: Big Post After**
 
 But its not the number that matter. My blog now feels responsive and I don’t roll my eyes every time I want to view another page. This is what I am happy with…and all of the pain of moving was worth the result..so far ![Smile](images/wlEmoticon-smile-10-10.png)
+{ .post-img }
 
 

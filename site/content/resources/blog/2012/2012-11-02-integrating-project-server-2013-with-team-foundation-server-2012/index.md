@@ -36,6 +36,7 @@ Anyway.. There are a bunch of thing that need to happen in order to get Project 
 6. DONE - Integrate Project Server 2013 with Team Foundation Server 2012
 
 I found the MSDN documentation for installing and configuring Project Server 2013 totally cryptic and I ended up with so many read hearings and dead ends that I had to just figure it out for myself. This is the result of me poking at Project Server 2013 until I got a stable instance which I then blew away to repeat here ![Smile](images/wlEmoticon-smile-24-24.png) 
+{ .post-img }
 
 ### Install Project Server 2013
 
@@ -44,11 +45,13 @@ Just like with SharePoint 2013 you have three stages to the process. Install, Co
 I am going to lump the first two items together and they are the only two bits that need to be done on every front end server in your farm. They install and prep your SharePoint 2013 servers for creating your first Project Server Portal which is done one or more times through the SharePoint 2013 Administration Portal.
 
 ![Figure: The Project Server 2013 installation wizard looks just like SharePoint 2013](images/image29-4-4.png "Figure: The Project Server 2013 installation wizard looks just like SharePoint 2013")  
+{ .post-img }
 **Figure: The Project Server 2013 installation wizard looks just like SharePoint 2013**
 
 You will have deja vu when you see the install as it follows the SharePoint 2013 pattern. make sure that you install the prerequisites first to have an easy time.
 
 ![image3](images/image31-6-6.png "image3")  
+{ .post-img }
 **Figure: Install the Prerequisites for Project Server 2013 using the built in tool**
 
 Some of the prerequisites for Project Server 2013 are the same as the SharePoint 2013 ones so the checks and installs are few and far between:
@@ -67,16 +70,19 @@ Some of the prerequisites for Project Server 2013 are the same as the SharePoint
 There were only a couple of installs that I have highlighted above.
 
 ![image18](images/image181-1-1.png "image18")  
+{ .post-img }
 **Figure: Run the Configuration Wizard to complete the installation of Project Server 2013**
 
 With the first step complete we can now run the first configuration that will integrate the bits that we just installed into SharePoint and make sure that SharePoint at least accepts them.
 
 ![image24](images/image241-2-2.png "image24")  
+{ .post-img }
 **Figure: Limited configuration for Project Server 2013**
 
 We are really just running the exact same SharePoint wizard, but with an additional step.
 
 ![image27](images/image271-3-3.png "image27")  
+{ .post-img }
 **Figure: The 10 step configuration process for SharePoint & Project Server 2013**
 
 When we ran the SharePoint 2013 configuration when we only had SharePoint installed we only had 9 steps, now we have 10… some secret sauce…
@@ -84,11 +90,13 @@ When we ran the SharePoint 2013 configuration when we only had SharePoint instal
 And that is the per-server configuration complete.. on to the SharePoint configuration…
 
 ![image33](images/image33-8-8.png "image33")  
+{ .post-img }
 **Figure: The other configuration wizard for SharePoint & Project Server 2013**
 
 Now we can move onto the configuring the services that run inside of SharePoint. This config only needs to be run once per farm.
 
 ![image39](images/image39-14-14.png "image39")  
+{ .post-img }
 **Figure: Adding Project Application Services for SharePoint 2013**
 
 I have no idea what this step does except that at the end of this one you get about 20 more databases in your SQL Server. This time however I am only expecting the one new Project Server databases and configuration to be added.
@@ -98,26 +106,31 @@ I have no idea what this step does except that at the end of this one you get ab
 Phew.. so that means that we can get down and dirty with Project Server 2013 now? Well… no… not yet. We need to configure a couple of the things that we have just provisioned so head on over to the SharePoint Administration page.
 
 ![image](images/image30-5-5.png "image")  
+{ .post-img }
 **Figure: Manage service applications for SharePoint 2013**
 
 Head on over to “Application Management | Manage service applications” to see a list of all of the “Applications” that are available as part of the core SharePoint 2013 deliverable.
 
 ![image](images/image32-7-7.png "image")  
+{ .post-img }
 **Figure: Configure the Project Server Service Application**
 
 We have just added one called “Project Server Service Application” and that is where we are going now.
 
 [**![image](images/image34-9-9.png "image")**](http://blog.hinshelwood.com/files/2012/11/image9.png)  
+{ .post-img }
 **Figure: Create Project Web App Instance**
 
 Now that we are deep in the darkest depths of SharePoint we can create a new Project Web App instance. This will essentially create a new site that will be an instance of the Project Server 2013 UI application that lets us look inside of the project server data.
 
 ![image](images/image35-10-10.png "image")  
+{ .post-img }
 **Figure: Defaults for Create Project Web App Instance in Project Server 2013**
 
 I am just taking the defaults here, but it is effectively saying that I want to create a new site called “PWA” under the default portal and where I what the database to go and what it should be called. As with all sites you can set quotas at this point, but I don’t need to on a demo box.
 
 ![image](images/image36-11-11.png "image")  
+{ .post-img }
 Figure:
 
 Once you click OK you will go back the  provisioning page where you can monitor the background process that is doing a bunch of goodness knows what behind the scenes. It takes a few minutes but goes through:
@@ -129,23 +142,28 @@ Once you click OK you will go back the  provisioning page where you can monitor
 5. Provisioned
 
 ![image](images/image37-12-12.png "image")  
+{ .post-img }
 **Figure: You can mange the sire that you created for your Project Server 2013 instance**
 
 You can get into the individual Project Web App configuration and settings by selecting the drop-down and hitting the “Mange” option.
 
 ![image](images/image38-13-13.png "image")  
+{ .post-img }
 **Figure: Operational Policies, Queue and Workflow settings for Project Server 2013**
 
 I am not really interested in tinkering with these options, but I am sure that in a production / live deployment I would need to tweak some mystery undocumented setting to make things shine ![Smile](images/wlEmoticon-smile-24-24.png)
+{ .post-img }
 
 Let visit our new portal…
 
 ![image](images/image40-15-15.png "image")  
+{ .post-img }
 **Figure: Project Server 2013 portal homepage in SharePoint 2013**
 
 I am sure that I will be back to set something up later, but just look at that modern goodness…
 
 ![image](images/image41-16-16.png "image")  
+{ .post-img }
 **Figure: Setting up your first Project in Project Server 2013**
 
 Done – We have successfully installed, configured, configured, deployed and provisioned our first SharePoint 2013 portal for Project Server 2013… now for TFS…
@@ -155,11 +173,13 @@ Done – We have successfully installed, configured, configured, deployed and pr
 Now that we have Project Server 2013 all set-up we can look to getting it integrated with Team Foundation Server. In order to achieve that we need to both install and configure some extensions. These extensions are similar to the SharePoint Extensions for Team Foundation Server 2012 and need to be installed on all of the front end servers in your SharePoint farm that is supporting Project Server 2012.
 
 ![image](images/image42-17-17.png "image")  
+{ .post-img }
 **Figure: The Project Server Extensions are on the TFS 2012 ISO**
 
 On the Visual Studio 2012 Team Foundation Server ISO there is a folder that contains the goodies that we are looking for.
 
 ![image](images/image43-18-18.png "image")  
+{ .post-img }
 **Figure: Project Server Extensions for Team Foundation Server 2012**
 
 Well that was easy… the install detects Project Server 2013 and completes without any hassle.
@@ -190,16 +210,19 @@ TfsAdmin ProjectServer /UploadFieldMappings /collection:http://win-eo45n4fnsoc:8
 The next has some prerequisites. I need a Team Project and a Project Plan in Project Server 2013.
 
 ![image](images/image44-19-19.png "image")  
+{ .post-img }
 **Figure: Create an Enterprise Project Plan to start us off**
 
 Create the Enterprise Project Plan, give it a name and same it to start the process.
 
 ![image](images/image45-20-20.png "image")  
+{ .post-img }
 **Figure: I now have a MyFirstEP in Project Server 2013**
 
 With that new Enterprise Project Plan created I now need to create a Team Project in Team Foundation Server to map it to.
 
 ![image](images/image46-21-21.png "image")  
+{ .post-img }
 **Figure: Creating MyFirstTP is just as easy in Team Foundation Server 2012**
 
 Now all we need to do is take both the names and stick them together with the key Work Item Types that will be managed. In the case of the Visual Studio Scrum template it would be the Product Backlog Item, Task & Bug.
@@ -220,6 +243,7 @@ TfsAdmin ProjectServer  /MapPlanToTeamProject
 Now you don’t need to run these commands against the TFS Server from the server itself. In fact if, like me, you never install Visual Studio or even Team Explorer onto your TFS server then you will need a client box to do this from.
 
 ![image](images/image47-22-22.png "image")  
+{ .post-img }
 **Figure: The TfsAdmin command has the magic sauce**
 
 In running those commands I ran into a little fun. After all this is the crescendo to all that we have been set to and where else would murphy strike if here! So I dutifully got the trunsion out to sort out both Project Server and TFS:

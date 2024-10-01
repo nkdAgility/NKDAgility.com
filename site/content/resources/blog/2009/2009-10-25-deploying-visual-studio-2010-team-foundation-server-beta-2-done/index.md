@@ -43,9 +43,11 @@ We started at 2:30am (GMT+1) on Saturday morning and we did it in 5 major steps:
 We completed the migration at 9:15am (GMT+1) on Saturday morning so all in the migration took just less than 7 hours.
 
  [![image](images/SSWGoLivewithVisualStudio2010Beta2_15047-image_thumb-2-2.png)  
+{ .post-img }
 ](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SSWGoLivewithVisualStudio2010Beta2_15047-image_2.png)**Figure: Web Access – Working**
 
 [![VS2010](images/SSWGoLivewithVisualStudio2010Beta2_15047-VS2010_thumb-3-3.png)  
+{ .post-img }
 ](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SSWGoLivewithVisualStudio2010Beta2_15047-VS2010_2.png)**Figure: Visual Studio - Working**
 
 Well done to the SSW team.

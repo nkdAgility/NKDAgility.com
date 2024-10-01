@@ -19,6 +19,7 @@ Absolutely brilliant. That's what I think of Linq to XSD. Disappointed that is o
 If you install the [_LINQ to XSD Preview_ Alpha 0.2 Refresh](http://www.microsoft.com/downloads/details.aspx?FamilyID=A45F58CD-FCFC-439E-B735-8182775560AF&displaylang=en) you get a couple of extra project definitions:
 
 [![image](images/LINQtoXSD_D04A-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-LINQtoXSD_D04A-image_2.png)
+{ .post-img }
 
 If you create one of these it will have the features enabled. You can add the features to an existing project by editing the project definition file to add a property group:
 

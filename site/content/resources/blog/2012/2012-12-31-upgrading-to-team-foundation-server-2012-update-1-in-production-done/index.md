@@ -93,11 +93,13 @@ The easiest way to backup TFS is to use the add-on from the product team that co
 If you are using the Database Backup Tools then all you need to do is take a Full Backup before you get started.
 
 ![Backup before Team Foundation Server 2012 Update 1](images/image20-1-1.png "Backup before Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Backup before Team Foundation Server 2012 Update 1**
 
 The backup here takes a backup of all of the databases associated with TFS, Reporting Services and SharePoint so you have a full reference. The only database of any size is the Collection database which in this case is around 40GB of data which is mostly in Version Control.
 
 ![Verify backups before installing Team Foundation Server 2012 Update 1](images/image21-2-2.png "Verify backups before installing Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Verify backups before installing Team Foundation Server 2012 Update 1**
 
 Once the backup is complete and you have verified that the files exist (I am paranoid) then you can start with the upgrade.
@@ -107,11 +109,13 @@ Once the backup is complete and you have verified that the files exist (I am par
 The upgrade process is mostly automated with a little bit of configuration that would would do for any upgrade whatever version of Team Foundation Server you are upgrading from.
 
 ![Upgrade components to Team Foundation Server 2012 Update 1 ](images/image35-14-14.png "Upgrade components to Team Foundation Server 2012 Update 1 ")  
+{ .post-img }
 **Figure: Upgrade components to Team Foundation Server 2012 Update 1**
 
 The installer will handle removing the old components and installing the new ones for you. You will then however need to do the configuration of this new App Tier to talk to your existing data tier and that's where the real upgrade starts.
 
 ![You may be asked to reboot a bunch for Team Foundation Server 2012 Update 1](images/image24-3-3.png "You may be asked to reboot a bunch for Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: You may be asked to reboot a bunch for Team Foundation Server 2012 Update 1**
 
 Many of the components that both Team Foundation Server and the Operating System relies on will be updated as part of this process so you may be asked to restart. In this case I had to bounce the server twice and the installation automatically restarted once I logged in.
@@ -125,21 +129,25 @@ This part of the upgrade while fairly fast can take a good 15-30 minutes dependi
 Once the installation has completed we are presented with the usual Configuration Wizard page but it has defaulted to an Upgrade.
 
 ![Team Foundation Server 2012 Update 1 Upgrade Wizard](images/image25-4-4.png "Team Foundation Server 2012 Update 1 Upgrade Wizard")  
+{ .post-img }
 **Figure: Team Foundation Server 2012 Update 1 Upgrade Wizard**
 
 For security reasons the wizard will NOT populate the same account that you used previously. You will need to manually specify each account, in this case the TFS Service & TFS Reports accounts as well as enter the password.
 
 ![Select the database to upgrade to Team Foundation Server 2012 Update 1](images/image26-5-5.png "Select the database to upgrade to Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Select the database to upgrade to Team Foundation Server 2012 Update 1**
 
 As you may have more than one TFS instance in the same database you need to tell TFS which one is yours. In this case I only have one anyway but it does tell me the version of the database that I will be upgrading. Again we have the obligatory “I confirm that I have a current backup” to make sure that you have. No really… don’t just tick it.. make sure, verify again, that you indeed have  backup of all of your TFS databases. I have indeed needed to restore a database and re-run the upgrade.
 
 ![Select the Warehouse to upgrade to Team Foundation Server 2012 Update 1](images/image27-6-6.png "Select the Warehouse to upgrade to Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Select the Warehouse to upgrade to Team Foundation Server 2012 Update 1**
 
 Again there could be more than one warehouse and unlike previous version of Team Foundation Server, Team Foundation Server 2012 will upgrade the warehouse so that you don't have to spend so long recreating it and are back up and running quicker.
 
 ![image](images/image28-7-7.png "image")  
+{ .post-img }
 **Figure: Verification checks found TF400432 during upgrade to Team Foundation Server 2012 Update 1**
 
 During the upgrade I found an issue with communicating with SharePoint but it was very easy to solve.
@@ -149,11 +157,13 @@ During the upgrade I found an issue with communicating with SharePoint but it wa
 I fixed this after the upgrade was complete so there is no reason to stop and try to fix it during the upgrade. You may however need to manually fix something.
 
 ![Successful upgrade to Team Foundation Server 2012 Update 1](images/image29-8-8.png "Successful upgrade to Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Successful upgrade to Team Foundation Server 2012 Update 1**
 
 The upgrade completed successfully, but it was not able to add the TFS account to the SharePoint Farm Administrators group which makes perfect sense as it has the wrong post for the Administration Site.
 
 ![Verify that you have Team Foundation Server 2012 Update 1](images/image30-9-9.png "Verify that you have Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Verify that you have Team Foundation Server 2012 Update 1**
 
 Now for a couple of checks:
@@ -166,6 +176,7 @@ Awesome…
 The last thing that I did was to update the Power Tools to the latest version so that there was no mismatch.
 
 ![Get and install the Power Tools that match the version you installed](images/image31-10-10.png "Get and install the Power Tools that match the version you installed")  
+{ .post-img }
 **Figure: Get and install the Power Tools that match the version you installed**
 
 Now that the Team Foundation Server is upgraded we only have the Build Server to do in this configuration.
@@ -179,6 +190,7 @@ On the build server you run the upgrade in exactly the same way that you did for
 Because we reinstalled the TFS Server where ther controller was configured we do need to reconfigure that controller. When you run the wizard it will ask you it you want to keep the configuration the same as what was previously configured. In essence replace the existing item.
 
 ![Replace the old controller with the new one](images/image32-11-11.png "Replace the old controller with the new one")  
+{ .post-img }
 **Figure: Replace the old controller with the new one**
 
 This will reactivate the same controller instance that you had before with the same configuration.
@@ -188,11 +200,13 @@ This will reactivate the same controller instance that you had before with the s
 With our controller now configured on the TFS Application Tier we now need to activate the agents on the build server. First we upgrade the build server to Update 1.
 
 ![Installing Team Foundation Server 2012 Update 1](images/image33-12-12.png "Installing Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Installing Team Foundation Server 2012 Update 1**
 
 On the build agents you will just be presented with the generic “pick a wizard” page and you should select the “Configure a build service”.
 
 ![Select Configure a build service for Team Foundation Server 2012 Update 1](images/image34-13-13.png "Select Configure a build service for Team Foundation Server 2012 Update 1")  
+{ .post-img }
 **Figure: Select Configure a build service for Team Foundation Server 2012 Update 1**
 
 Now you go through the same configuration that you would for creating a new set of Agents. As with the controller you will be asked if you want to maintain the configuration from before for this server and all you need to do is say “Yes” and it will be configured for you in the same way.

@@ -20,6 +20,7 @@ slug: "does-test-driven-development-speed-up-development"
 If only I could be as eloquent as Scott. His recent post on “[Does test-driven development speed up development?](http://blog.scottbellware.com/2008/12/does-test-driven-development-speed-up.html)” really gets to the crux of an endemic problem in the Software Development industry, especially in companies for whom Software Development is not their core business.
 
 [![](images/Doestestdrivendevelopmentspeedupdevelopm_CF47-iStock_000006327761XSmall_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Doestestdrivendevelopmentspeedupdevelopm_CF47-iStock_000006327761XSmall_2.jpg)
+{ .post-img }
 
 > Test-driven development decreases complexity, improves the incremental adaptability that software product development depends on, astronomically reduces the amount of rework that destabilizes schedules, and reduces the unrecognized design flaws that decrease productivity after the initial implementation phase.
 > 

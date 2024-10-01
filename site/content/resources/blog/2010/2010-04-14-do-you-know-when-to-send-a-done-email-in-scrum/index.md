@@ -20,6 +20,7 @@ slug: "do-you-know-when-to-send-a-done-email-in-scrum"
 ---
 
 ![RulestoBetter](images/DoyouknowwhentosendadoneemailinScrum_CE5F-RulestoBetter_-2-2.gif)At SSW we have always sent done emails to the owner/requestor to let them know that it is done. Others who are dependent on that tasks are CC’ed so they know they can proceed. But how does that fit into Scrum?
+{ .post-img }
 
 Update 14th April 2010
 
@@ -48,6 +49,7 @@ If your done criteria says:
 Then add an illustration to show this.
 
 ![image](images/DoyouknowwhentosendadoneemailinScrum_CE5F-image_-1-1.png)  
+{ .post-img }
 **Figure: Show that you have met your Done criteria where possible.**
 
 This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) validate the quality of the work that has been completed. Remember that you are not DONE until your team says you are done.

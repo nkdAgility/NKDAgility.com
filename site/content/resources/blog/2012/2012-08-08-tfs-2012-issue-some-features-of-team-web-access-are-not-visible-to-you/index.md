@@ -17,6 +17,7 @@ slug: "tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you"
 The first time you log into TFS 2012 you may see the message “Some features of Team Web Access are not visible to you” and once you check out the details you see that “In order to use all the features of Team Web Access, you must have the correct license and configuration. For more information”.
 
 [![image](images/image_thumb42-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image42.png)  
+{ .post-img }
 **Figure: Where are my features?**
 
 ### Applies to
@@ -47,16 +48,19 @@ Some of these are only available through the site and the site does not know wha
 You need to add individuals to the Licence groups that relate to the respective licencing level that they have purchased.
 
 [![image](images/image_thumb43-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image43.png)  
+{ .post-img }
 **Figure: Go to Administer Server**
 
 Open the Admin system and change the Web Access Permissions from “Control Panel | Web Access | Full | Add…” and add the users that have Premium or Ultimate licences to that group.
 
 [![image](images/image_thumb44-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image44.png)  
+{ .post-img }
 **Figure: Add Premium and Ultimate user to Full feature access**
 
 If you are sure that you have Premium, Ultimate or Test Professional for all of your users you can just set “Full” access as the default!
 
 [![image](images/image_thumb45-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image45.png)  
+{ .post-img }
 **Figure: You can also Set as default**
 
 If you are going to do this you need to make sure that you have licences, but it will make an administrators life a little easier!

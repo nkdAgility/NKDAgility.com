@@ -21,6 +21,7 @@ slug: "coffee-talk-scrum-versus-kanban"
 ---
 
 ![Coffee Talk: Scrum versus Kanban ](images/1475243493-2.png)
+{ .post-img }
 
 I am doing a free session this Friday with Steven Borg to help folks understand the differences between Scrum and Kanban and where each fit. This will be an introductory session and future sessions will be split with Steven Box doing the Kanban and me doing the Scrum sessions.
 

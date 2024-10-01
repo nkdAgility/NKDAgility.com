@@ -14,6 +14,7 @@ slug: "tfs-event-handler-v1-3-released"
 Updated and improved for Team System 2008.
 
 [![vsts_thumb[2]](images/TFSEventHandlerv1.3released_9AE8-vsts_thumb2_-2-2.png)](/Users/martihins/AppData/Local/Temp/WindowsLiveWriter1286139640/supfiles13CE4A31/vsts2.png)
+{ .post-img }
 
 [http://www.codeplex.com/TFSEventHandler](http://www.codeplex.com/TFSEventHandler "http://www.codeplex.com/TFSEventHandler")
 

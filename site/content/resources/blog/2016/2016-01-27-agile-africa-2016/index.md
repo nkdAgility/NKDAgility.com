@@ -21,6 +21,7 @@ When someone comes to you with an opportunity in the developing world you better
 With events like Agile in Africa this will change as more people are exposed to the experts that make me proud to be part of the agile community. You can find all of the speakers recordings on the [Agile In Africa 2016 Youtube](https://www.youtube.com/channel/UChLOUjIo2HjA-Ct-EDd2bIQ) channel. This is one of the most knowlagable and exiting groups of people that I have ever had the pleasure to work with. It was a very exiting time for me…
 
 ![20151021-091145-084](images/20151021-091145-084-1-1.jpg "20151021-091145-084")
+{ .post-img }
 
 Many of the speakers paid their own way and gave up local work to go. And I can tell you that not only was it personally worth it for me, but every single one of the speakers signed up for this year and for all three events:
 
@@ -31,14 +32,17 @@ Many of the speakers paid their own way and gave up local work to go. And I can 
 This event is four days of awesomeness in Accra, Ghana and I hope to be running at least one session at each of the events.
 
 ![clip_image003](images/clip_image003-4-4.jpg "clip_image003")
+{ .post-img }
 
 Last year there were a lot of crazy people, some I had met before, and others that brought a whole new level of crazy.
 
 ![clip_image004](images/clip_image004-5-5.jpg "clip_image004")
+{ .post-img }
 
 One of the highlights of the week was visiting an orphanage with Sven who brought three Kano's for the kids. The idea behind the Kano is that because the kids build it themselves, they take more pride and ownership in the computer and thus discover more.
 
 ![clip_image005](images/clip_image005-6-6.jpg "clip_image005")
+{ .post-img }
 
 There was a lot of press coverage of the event, with radio interviews and even a few TV segments. All in all it was a real blast.
 

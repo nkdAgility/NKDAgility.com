@@ -24,6 +24,7 @@ slug: "combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop"
 ---
 
 ![RulestoBetter](images/SSWScrumRuleDoyouknow_D4DD-RulestoBetter_-3-3.gif)Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email.
+{ .post-img }
 
 You need to keep these so your Team can refer to it later, and so you can send a “done” when the task has been completed. This preserves the “history” of the task and allows you to keep relevant partied included in any future conversation.
 
@@ -38,6 +39,7 @@ But keeping it in your email does not help other members of the team if they com
 Worse yet, the description field in Team Foundation Server 2010 (TFS 2010) does not support HTML and images, nor does the default task template support an “interested parties” or CC field. You can attach this content manually, but it can be time consuming.
 
 ![image](images/SSWScrumRuleDoyouknow_D4DD-image_-2-2.png)  
+{ .post-img }
 **Figure: Description only supports plain text, and History supports HTML with no images**
 
 **What should we do?**

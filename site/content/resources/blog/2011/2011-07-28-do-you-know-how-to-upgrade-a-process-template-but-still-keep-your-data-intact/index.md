@@ -42,6 +42,7 @@ If you are making incremental changes to the process that you are already using 
 ## #1 Do nothing (0 hours)
 
 ![Lazy the Smurph](images/lazy-3-3.jpg "Lazy")
+{ .post-img }
 
 Sticking with same template is not a good option as everyone wants to take advantage of the new features.
 
@@ -63,6 +64,7 @@ Note Does not work if you have made modifications to the workflow
 ## #2 Create a new Team Project (.5 hours)
 
 ![Ripped scroll](images/SNAGHTMLaea788_thumb-5-5.png "Broken history")
+{ .post-img }
 
 This is tantamount to doing nothing, but you are using the new process template. You just have to be willing to leave all of your data behind. The real problem here is that with TFS 2010 a “move” or “rename” of files actually results in a “branch” and then a “delete” action that breaks the history chain for folders. The history is still intact, but it only exists on the old Team Project and is deleted or if the permissions are changed then the history is lost.
 
@@ -80,6 +82,7 @@ This is tantamount to doing nothing, but you are using the new process template.
 ## #3 Destroy all Work Items and Import new ones (2-3 hours)
 
 ![Explosion](images/kaboom_256-2-2.jpg "Kaboom")
+{ .post-img }
 
 In this scenario you loose all existing Work Item data, but you have not moved your source code, so no nasty history chain.
 
@@ -92,6 +95,7 @@ How-To [Process Template Upgrade #3 - Destroy all Work Items and Import new ones
 ## #4 Use the TFS Integration Platform to move Source and Work Item history to a new team project (1-2 days)
 
 ![a distorted clock](images/time-dilation-7-7.jpg "Time-Dilation")
+{ .post-img }
 
 This is an ideal solution, but it does result in “time dilation” on your source control. There is no way to fake a check-in date so all dates will be when the actual check-in happens. As the TFS Integration Platform does all of the check-ins concurrently it stores the original date in the comment.
 
@@ -106,6 +110,7 @@ This is an ideal solution, but it does result in “time dilation” on your sou
 ## #5 Do an in place manual migration (1-¥ days)
 
 ![One way sign with a double ended arrow](images/image4-1-1.png "Confusion")
+{ .post-img }
 
 This is just plane nasty and take a lot of time. It can take over 8 hours to complete the migration once it has been planned out, and that time depends on the process template you are moving from, the one you are moving to, and the customisations you have made along the way. If all of your Team Projects have different customisations, then this is probably a non-starter.
 
@@ -119,6 +124,7 @@ This is just plane nasty and take a lot of time. It can take over 8 hours to com
 ## #6 Do an in-place _export_ migration.
 
 ![One arrow going up and another going down](images/sync-6-6.png "Export & Import")
+{ .post-img }
 
 This gives us the best of both worlds, with an export of Work Item data to another location, destroying all the existing work item types along with all of the data, then install the new Work Item Types and reload the data. This is still a horrible process, but it keeps the Source Code history intact, and allows for the process template to be completely upgraded.
 
@@ -133,6 +139,7 @@ This gives us the best of both worlds, with an export of Work Item data to anoth
 ## #7 Rename Work Items and Import new ones (4-5 hours) (Recommended)
 
 ![trophy](images/trophy-8-8.jpg "trophy")In this scenario you get to keep all of the history in tact and also get to start afresh with new work item types. It is almost the best of both worlds as you don’t need to move Source Control nor do you end up with new Work Item ID’s.
+{ .post-img }
 
 How-To [Process Template Upgrade #7 – Overwrite retaining history with limited migration](http://blog.hinshelwood.com/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration/)
 

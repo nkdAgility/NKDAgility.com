@@ -11,6 +11,7 @@ slug: "developer-day-scotland-2"
 ---
 
 [![](images/GetReady1-large.png)](http://developerdayscotland.com/main/Default.aspx) Its the main event tomorrow...
+{ .post-img }
 
 **[Developer Day Scotland - 10th May 2008](http://developerdayscotland.com)**
 

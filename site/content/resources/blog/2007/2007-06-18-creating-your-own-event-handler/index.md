@@ -17,6 +17,7 @@ slug: "creating-your-own-event-handler"
 Creating an event handler with the [Team Foundation Server Event Handlers](http://www.codeplex.com/TFSEventHandler/) is very easy. You will need to inherit from the AEventHandler class which is part of [RDdotNet](http://www.rddotnet.com "RDdotNet - Reality Dysfunction .NET").TeamFoundation.dll located in the install directory (I will make an SDK later).
 
 [![image](images/CreatingyourownEventHandler_DC01-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-CreatingyourownEventHandler_DC01-image.png)
+{ .post-img }
 
 ```
 Imports Microsoft.TeamFoundation.Client

@@ -38,6 +38,7 @@ This post is part of a series of posts that document a Upgrade of TFS 2010 to TF
 3. **[Part 3: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform](http://blog.hinshelwood.com/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform/)**
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/07/image.png)  
+{ .post-img }
 **Figure: Consolidate to a single Team Project Collection**
 
 As pert of the process of getting everything onto a single Process Template, namely the Visual Studio Scrum 2.0, we identified that the customer should also move to a single Team Project Collection and more than that, into a single Team Project.
@@ -62,6 +63,7 @@ There is only one tool for this job and that is the [TFS Integration Platform](h
 As soon as I downloaded the TFS Integration platform I ran into a bug where the registry key is not found and the Wix installer does not look for the right Key for the RC. The key it is looking for is only present if a developer edition of Visual Studio is installed.
 
 [![screenie99](images/screenie99_thumb-11-11.jpg "screenie99")](http://blog.hinshelwood.com/files/2012/07/screenie99.jpg)  
+{ .post-img }
 **Figure:** [**TFS Integration Tools – Issue: “This tool requires the TFS client object model”**](http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/07/04/tfs-integration-tools-issue-this-tool-requires-the-tfs-client-object-model.aspx)
 
 Luckily [Jahangeer Mohammed](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/04/19/introducing-the-visual-studio-alm-rangers-jahangeer-mohammed.aspx) road to the rescue within 4 hours of me reporting the issue with the root cause and Willy posted the solution the very next day. That's ALM Ranger efficiency… customer was very impressed (although [Neno](http://blog.nenoloje.com/) would have a fit over the offending registry key)
@@ -73,11 +75,13 @@ The first time you run the TFS Integration Platform on any computer you will get
 I will get into the configuration in just a minute, but first lets solve the very first error message you will run into.
 
 [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image1.png)  
+{ .post-img }
 **Figure: TFS WIT bypass-rule submission is enabled**
 
 You may not be using an account that is in the “Team Foundation Server Service Accounts” group or the equivalent Collection group. No wait… you can’t just go an add it. This is a special group that does not allow you to populate it through the UI. You can however view it and all of the accounts that you use for your Build Agents, Build Controllers and other bits and bobs will all be in this list already. So how to add your TFS Integration Platform account?
 
 [![image](images/image_thumb2-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image2.png)  
+{ .post-img }
 **Figure: Updating the TFS Security group**
 
 You use our old friend the command line. There is an application called TfsSecurity that will allow you to add an account directly to that group.
@@ -96,6 +100,7 @@ As we are trying to fold 30 Team Projects across 4 Team Project Collections into
 There are a ridicules number of options here and the [rangers have many, many documented](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/06/06/toc-tfs-integration-tools-blog-posts-and-reference-sites.aspx) options that will allow you to do whatever you want. There is however something interesting that you can do and that we wanted to try... You can move individual branches to new locations while maintaining the relationships. This works really well on codebases that do not have a lot of complex branches or deletes. If you have many deletes outside of the scope, or you have a lot of sub branches of code branches into your solution from outside of the scope of a team project you can run into a few problems.
 
 [![image](images/image_thumb3-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image3.png)  
+{ .post-img }
 **Figure: Complicated mappings will not always work**
 
 You can skip to the end to see all of the problems and solutions, but if you are doing these complicated mappings you may have issues getting a distinct mapping due to how the TFS Integration Platform creates mappings, but the solution is to ditch the mappings and the root of $/TeamProjectA/ to the single sub folder of  $TeamProjectB/TeamProjectA/ so that everything is just mapped at that level. This solved all of those problems and you can always do the rearranging later.
@@ -112,6 +117,7 @@ tf destroy $/somefolder/somesubfolder/ /collection:http://mytfsserver:8080/tfs/t
 **Figure: Destroying Migrated data to start again**
 
 [![image](images/image_thumb4-5-5.png "image")](http://blog.hinshelwood.com/files/2012/07/image4.png)  
+{ .post-img }
 **Figure: A successful mapping**
 
 Make sure that you check the source after you bring it across for consistency as even if the Platform tells you all is well, it could well be lying and we did find a couple of glitches (again detailed below).
@@ -121,11 +127,13 @@ Effectively you just go through each of your source Team Projects, mapping them 
 There is a neat trick that works pretty well if you don’t have any differences, except for the target folder, for your source to bring everything across from a Collection.
 
 [![image](images/image_thumb5-6-6.png "image")](http://blog.hinshelwood.com/files/2012/07/image5.png)  
+{ .post-img }
 **Figure: Just because your pick a Team Project does not mean that is the root**
 
 In this case I want to bring everything across from all of the Team Projects in the Collection to a folder under the new Team Project. Now, you need to initially select a Team Project as the source but I then changed it to “$/” to just bring everything across to its new home of “$/NewTeamProejct/Department/” and have it create folders of the same name as the old Team Projects as plain folders.
 
 [![image](images/image_thumb6-7-7.png "image")](http://blog.hinshelwood.com/files/2012/07/image6.png)  
+{ .post-img }
 **Figure: Runs through like a dream**
 
 I had initially worried that it work choke at the Team Project boundary, but I have checked that everything is coming across properly and for a change it is operating exactly as you would expect given the settings.
@@ -135,6 +143,7 @@ So, apart from the 7 team projects that I have a block on to see if a fix comes 
 ### Migrating Work Items using the TFS Integration Platform
 
 ![simples](images/simples-12-12.png "simples")Because we have already completed the [Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) we only have one Process Template mapping to work about… or do we. If you used [method #7](http://blog.hinshelwood.com/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration/) for migrating  your process template you will be left with extra fields that are not part of the core template. Make sure that the destination Team Project has the same work item type definitions as the source Team Project and you will have no problems ![Smile](images/wlEmoticon-smile1-13-13.png)
+{ .post-img }
 
 In your configuration file, because we have the same work item types on each end, you can just map all of the Left Work Item Types to all of the Right Work Item Types…
 
@@ -237,11 +246,13 @@ A final configuration would include some mapping or transformation of the Area P
 **Figure: Configuration for Merging Team Projects**
 
 [![image](images/image_thumb7-8-8.png "image")](http://blog.hinshelwood.com/files/2012/07/image7.png)  
+{ .post-img }
 **Figure: Save your configuration ready to rumble**
 
 Once you have migrated your work items you will see some invalid data, but this is due to the Process Template consolidation that we have already completed. All you have to do is fix the visible data before you save and all is well…
 
 [![image](images/image_thumb8-9-9.png "image")](http://blog.hinshelwood.com/files/2012/07/image8.png)  
+{ .post-img }
 **Figure: Some work items will be invalid**
 
 And that finishes of migrating your data…

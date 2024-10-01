@@ -56,11 +56,13 @@ note: I am also aware that these are “Integration Tests” and not pure “Uni
 The authentication issues stemmed from the code above in the automated running scenario and resulted in and error…
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/04/image.png)  
+{ .post-img }
 **Figure: TF30064: You are not authorized to access the server**
 
 So, why do I get this error when I am in a Unit Test and not connecting through the custom UI.  Well, in the UI the user is specifically selecting the Collection using the TeamProjectPicker dialog. This dialog does all of the Live ID authentication for us so if the user ticks the “remember me” box they don’t have to log in next time.
 
 [![SNAGHTML1718e02a](images/SNAGHTML1718e02a_thumb-4-4.png "SNAGHTML1718e02a")](http://blog.hinshelwood.com/files/2012/04/SNAGHTML1718e02a.png)  
+{ .post-img }
 **Figure: the UI authenticated us**
 
 That bring us back to the problem at hand. The UI is not involved with the Unit Tests. In fact I have abstracted the logic for the TeamProjectPicker into a collection selector interface so that I can run the Unit Tests without having the UI popup ever time I run them…
@@ -151,6 +153,7 @@ Password = defaultServiceIdentity.IdentityInfo.Password;
 Now, it would be a pain in the ass to have to spin up this code all of the time, so I created the [TFS Service Credential Viewer](http://blog.hinshelwood.com/tfs-service-credential-viewer/) that will do the heavy lifting for you.
 
 [![SNAGHTML172e4063](images/SNAGHTML172e4063_thumb-5-5.png "SNAGHTML172e4063")](http://blog.hinshelwood.com/files/2012/04/SNAGHTML172e4063.png)  
+{ .post-img }
 **Figure: We can load out credentials from the remote instance**
 
 Now I can copy and past them into my MockCollectionSelector to allow it to connect unattended.
@@ -192,6 +195,7 @@ namespace TfsWitAnnotateField.UI.Tests
 Now that I have my credentials I can run my tests again…
 
 [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/04/image1.png)  
+{ .post-img }
 **Figure: Green, all of my tests are now passing**
 
 Woot, they all pass… now to write some more.

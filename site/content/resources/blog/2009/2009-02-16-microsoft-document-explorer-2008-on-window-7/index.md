@@ -13,6 +13,7 @@ slug: "microsoft-document-explorer-2008-on-window-7"
 ---
 
 [![image](images/MicrosoftDocumentExplorer2008onWindow7_3CC7-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MicrosoftDocumentExplorer2008onWindow7_3CC7-image_2.png)
+{ .post-img }
 
 This was my second attempt at installing Visual Studio 2008 on Windows 7 and I ran into a little problem.
 

@@ -28,6 +28,7 @@ First, why would you want your server called the same as your website, and secon
 After some testing I found that it was indeed fixed. Now, I had this exact same problem at Merrill Lynch and even with their hundreds, if not thousands of technical folk, no one could solve the problem. Just goes to show...just coz you are big and have masses of people, does not mean you have the right people...
 
 ![smile_teeth](images/smile_teeth-1-1.gif) Thanks Gary...
+{ .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
 

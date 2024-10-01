@@ -21,16 +21,19 @@ slug: "change-release-management-server-client-connects"
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")  
+{ .post-img }
 Figure: The Release Management Client
 
 The Release Management team kindly added a UI to allow us to change which server that we are connected to. Open you RM client ad head over to "Administration | Settings| System Setting" and you can then click the "Edit" button next to the current "Release Management Server URL".
 
 ![clip_image002](images/clip_image002-2-2.png "clip_image002")  
+{ .post-img }
 Figure: Editing the configured Release Management Server
 
 However if you try to open the client without being able to access that server you get an error message and you are unable to get to that screen to change the server URL. It would have been nice if it just asked us if we wanted to reconfigure and launched the original configuration dialog, however that is not the case.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")  
+{ .post-img }
 Figure: Can't open Release Management Client with no Server available
 
 By default the port of your RM server is 1000 but you may have changed it so you need to know both the port and the server. Unfortunately if your correct release management server is unavailable then the client will error our and close.

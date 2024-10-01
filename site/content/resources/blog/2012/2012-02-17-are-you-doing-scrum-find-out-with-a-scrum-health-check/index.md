@@ -27,9 +27,11 @@ There are many reasons for a team to not do something they need:
 Well, I am proud to announce that we put our heads together and came up with a 6 hour “[Scrum Health Check](http://www.nwcadence.com/HealthCheckScrum.pdf)”.
 
 [![image](images/image_thumb4-1-1.png "image")](http://blog.hinshelwood.com/files/2012/02/image4.png)  
+{ .post-img }
 **Figure: Not in-depth, but an indicator**
 
 To get the ball rolling we are offering our first 10 Health Checks in March at 40% off. Although 6 hours is not enough to investigate you entire Scrum implementation (we will also do that ![Smile](images/wlEmoticon-smile-3-3.png)) it is enough to do a quick check to make sure that:
+{ .post-img }
 
 - You are on the right road!
 - Travelling in the right direction!

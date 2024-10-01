@@ -21,12 +21,14 @@ slug: "coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon"
 ---
 
 ![Chaparral%2BHigh[1]](images/Chaparral2BHigh12-1-1.jpg "Chaparral%2BHigh[1]")
+{ .post-img }
 
 Because of the phenomenal success of the [Scrum versus Kanban](http://scrumvskanbanrematch.eventbrite.com/) session that Steven Borg an I did today, we plan on having a rematch to see if Kanban can make a comeback.
 
 Hopefully [Steve1](http://blog.nwcadence.com/author/stevenborg/) can do a better job for Kanban this time…
 
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent1-3-3.png "NWC tagline logo_transparent")
+{ .post-img }
 
 **Updates**
 
@@ -42,6 +44,7 @@ If you missed todays bout then you are in for a treat as Steve Borg and I go hea
 Am I willing to make a prediction?
 
 [![ScrumvsKanbanResult](images/ScrumvsKanbanResult_thumb-4-4.jpg "ScrumvsKanbanResult")](http://blog.hinshelwood.com/files/2011/07/ScrumvsKanbanResult.jpg) **Figure: Predicted outcome!**
+{ .post-img }
 
 If however you have had your fill of one process battering lumps out of the other and you have chosen you path, or even if you are still on the fence, you can come and see the rest of the sessions:
 

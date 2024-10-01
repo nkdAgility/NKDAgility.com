@@ -18,6 +18,7 @@ These Sirens take advantage of the lack of understanding of what business agili
 <figure>
 
 ![](images/Siren-mermaids-25084952-1378-1045-949x720-5-6.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -32,6 +33,7 @@ The lure is strong! They can spend a few million dollars and pow, their organisa
 <figure>
 
 ![](images/image-27-2-2.png)
+{ .post-img }
 
 <figcaption>
 
@@ -46,6 +48,7 @@ I'm not saying that SAFe did not work, or that some organisations don't get valu
 <figure>
 
 ![](images/image-26-1-1.png)
+{ .post-img }
 
 <figcaption>
 
@@ -70,6 +73,7 @@ I talk often of the [tyranny of Taylorism](https://nkdagility.com/blog/live-webc
 <figure>
 
 ![](images/image-28-1052x720-3-3.png)
+{ .post-img }
 
 <figcaption>
 

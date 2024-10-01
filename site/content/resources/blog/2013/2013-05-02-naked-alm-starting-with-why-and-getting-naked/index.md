@@ -31,6 +31,7 @@ I did try to get [http://visualstudioalm.com](http://visualstudioalm.com) but it
 ## Getting naked
 
 My boss, Steven Borg, has been encouraging all of the consultants to think about how consulting works and how to give our customers a much better experience. Steve was so impressed with the book that he bought all of his consultants a copy of [Getting Naked: A Business Fable About Shedding The Three Fears That Sabotage Client Loyalty](http://www.amazon.com/gp/product/B0032ZD0OI/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0032ZD0OI&linkCode=as2&tag=martinhinshe-20)![](http://www.assoc-amazon.com/e/ir?t=martinhinshe-20&l=as2&o=1&a=B0032ZD0OI). This book really made me think about how we offer ALM services and how we might improve our interaction with our customers.
+{ .post-img }
 
 We are engaged by customers to delve into the layers of process that have built up over years to get to the root cause of their inability to quickly, easily and consistently deliver software. If you hire an ALM consultant their job is not really to do just do what you ask, it is to figure out what you need to do to deliver more value. There are many ‘ins’ to this process and sometimes, when we are called in to solve a purely technical problem we will spot some the putter showing through. This process of discovery is the real reason for or being.
 
@@ -39,8 +40,10 @@ No matter the maturity level of the customer, when we start to peel away the lay
 ## Starting with why
 
 At around the same time one of my colleagues, [Bryon Root](http://b4root.wordpress.com/), suggested a [talk by Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action "Simon Sinek: How great leaders inspire action") that inspired me to read the speakers book, [Start with Why: How Great Leaders Inspire Everyone to Take Action](http://www.amazon.com/gp/product/B002Q6XUE4/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B002Q6XUE4&linkCode=as2&tag=martinhinshe-20)![](http://www.assoc-amazon.com/e/ir?t=martinhinshe-20&l=as2&o=1&a=B002Q6XUE4), and that started me on **why** I do Application Lifecycle Management (ALM) and **why** I am trying to help my customers.
+{ .post-img }
 
 [![simon-sinek-the-golden-circle](images/simonsinekthegoldencircle_thumb-2-2.jpg "simon-sinek-the-golden-circle")](http://blog.hinshelwood.com/files/2013/05/simonsinekthegoldencircle.jpg) Figure: Simon Sinek’s golden circle
+{ .post-img }
 
 Starting with why is utterly obvious once it has been explained and the golden circle enabled us to focus on our core mission and formulate our **why** that guides or every action…
 

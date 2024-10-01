@@ -64,6 +64,7 @@ Do, Inspect then Adapt…
 ### Professional Scrum Developer Training
 
 [![Professional Scrum Developer Training](images/PSD%20Announcement%20Graphic.jpg)](http://www.scrum.org/scrumdeveloper/) SSW has six [Professional Scrum Developer Trainers](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.
+{ .post-img }
 
 * * *
 

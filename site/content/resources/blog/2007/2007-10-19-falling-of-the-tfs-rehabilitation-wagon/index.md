@@ -25,8 +25,10 @@ In the short term we want to use as many of the out of the box functionality as 
 On that note, and to bring SharePoint 2007 properly into the mix...has anyone setup any Business Data Catalog stuff that points to SharePoint? Hmm, interesting...
 
 ![smile_teeth](images/smile_teeth-2-2.gif)
+{ .post-img }
 
 And just when the cost of Team Suit was getting me down I got an email from my good friend Jon Pratt from Microsoft UK saying that he had a spare copy of TFS 2005 and Team Suit 2005 sitting on his desk and would I like it ![smile_wink](images/smile_wink-3-3.gif) Its funny how things work out...
+{ .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [TFS 2005](http://technorati.com/tags/TFS+2005)
 

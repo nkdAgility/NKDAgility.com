@@ -45,16 +45,19 @@ While this is absolutely explicit you and I likely did what they also did which 
 Now if you do go ahead and say ‘yes’ then you will end up with a few problems.
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 **Figure: TF31001: Cannot connect to Team Foundation Server**
 
 woops, lets hope this is just a client issue and check the web access…
 
 ![TF50620](images/TF50620-3-3.jpg "TF50620")  
+{ .post-img }
 **Figure: TF50620: The  Team Foundation identity scope does not exist**
 
 Oh… well a reboot will likely solve that…
 
 ![image](images/image1-2-2.png "image")  
+{ .post-img }
 **Figure: TF30046: The instance information does not match**
 
 Dam..

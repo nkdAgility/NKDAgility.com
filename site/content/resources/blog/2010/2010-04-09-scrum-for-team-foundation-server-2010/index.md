@@ -27,10 +27,12 @@ slug: "scrum-for-team-foundation-server-2010"
 ---
 
 ![image](images/ScrumforTFS2010_951A-image_-3-2.png)I will be presenting a session on “Scrum for TFS2010” not once, but twice!
+{ .post-img }
 
 If you are going to be at the Aberdeen Partner Group meeting on 27th April, or [DDD Scotland](http://developerdeveloperdeveloper.com/scotland2010/default.aspx) on 8th May then you may be able to catch my session.
 
 Credit: I want to give special thanks to [Aaron Bjork](http://blogs.msdn.com/aaronbjork) from Microsoft who provided me with most of my material ![Smile](images/ScrumforTFS2010_951A-wlEmoticon-smile_2-1-3.png) He is a Scrum and Power Point genius.
+{ .post-img }
 
 Updated 9th May 2010 – I have now presented at both of these sessions  and [posted](http://blog.hinshelwood.com/archive/2010/05/09/scrum-with-team-foundation-server-2010-done.aspx) about it.
 

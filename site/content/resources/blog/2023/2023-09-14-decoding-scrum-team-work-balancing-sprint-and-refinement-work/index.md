@@ -38,6 +38,7 @@ To track the refinement work in the Board, create a new column named 'Refinement
 <figure>
 
 ![](images/image-1-1280x653-1-1.png)
+{ .post-img }
 
 <figcaption>
 
@@ -52,6 +53,7 @@ For the Taskboard, change the Iteration Path of the tasks to that of the current
 <figure>
 
 ![](images/image-1280x652-3-3.png)
+{ .post-img }
 
 <figcaption>
 

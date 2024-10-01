@@ -27,6 +27,7 @@ If you get to the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) even
 Although the [Scrum Guide](/the-2020-scrum-guide/) does not define Refinement as an event, you should be doing it. You can come up with your Refinement event(s), or refine ad-hoc. Whatever you chose there is a simple measure of success. If your [Developers](/the-2020-scrum-guide/#developers) looks at something within the next 2 Sprints on the backlog and they don’t understand it, then you have work to do.
 
 ![](images/naked-Agility-Scrum-Framework-Product-Backlog-920x720-1-2.jpg)
+{ .post-img }
 
 If you find that you can't quite get things to fit and [have to stagger iterations](/blog/a-better-way-than-staggered-iterations-for-delivery/), or you are just not able to deliver at all, then a lack of refinement is usually at fault.
 

@@ -40,6 +40,7 @@ I found Martin's incite into SharePoint Services 2007 very informative and inter
 > _The new SharePoint 2007 Workflow projects within Visual Studio 2008 look very impressive and beats the previous method in VS2005 hands down. You can find the new projects under the "Office" section of your chosen language in VS2008._
 > 
 > [_![image](images/EventMSDNSharePointforDevelopers_F0A9-image_thumb-1-1.png)_](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-EventMSDNSharePointforDevelopers_F0A9-image_2.png)
+{ .post-img }
 
 **An introduction to MOSS 2007** - [David Gristwood](http://blogs.msdn.com/david_gristwood/)
 

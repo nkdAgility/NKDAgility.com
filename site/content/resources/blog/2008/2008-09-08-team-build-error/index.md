@@ -17,12 +17,14 @@ slug: "team-build-error"
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:
 
 [![image](images/TeamBuildError_7CDD-image_thumb-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_2.png)
+{ .post-img }
 
 Now, we have the situation with our Business Intelligence  system where we have 2 solutions. One for Visual Studio 2005 projects that consist solely of the Business Intelligence Package bits, and a 2008 solution which consists of everything else that is needed to build our solution. We do plan to move everything over to 2008, but we are currently targeting SQL Server 2005.
 
 The problem looks like it is to do with the 2008 solution an not the 2005 one:
 
 [![image](images/TeamBuildError_7CDD-image_thumb_1-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamBuildError_7CDD-image_4.png) 
+{ .post-img }
 
 But, the error message implies that it is the 2005 solution:
 

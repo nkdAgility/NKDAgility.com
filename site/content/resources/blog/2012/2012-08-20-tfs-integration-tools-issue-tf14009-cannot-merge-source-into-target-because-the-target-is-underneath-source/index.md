@@ -19,6 +19,7 @@ slug: "tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-becau
 If you are moving source from one team project to another (I am doing a migration of Source Code from “TeamProjectA” to “TeamProjectBTeamProjectA” in the same collection) you can get a TF14009 if there is a bad check-in in TFS from a previous version. In this case  a folder was branched from itself into a sub folder.
 
 [![image](images/image_thumb56-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image56.png)  
+{ .post-img }
 **Figure: TF14009: Cannot merge source into target because the target is underneath source**
 
 Here is the full error message:
@@ -62,6 +63,7 @@ at Microsoft.TeamFoundation.Migration.Tfs2010VCAdapter.TfsVCMigrationProvider.Pr
 Looking at the actual check-in it looks like both a Branch and an Add was performed at the same time in TFS 2008. This may have been Pre-SP1 where many of these issues were fixed, but it is still biting me now.
 
 [![image](images/image_thumb57-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image57.png)  
+{ .post-img }
 **Figure: Changeset and Branch relationships**
 
 There does not seams to be an easy solution to this one…
@@ -83,6 +85,7 @@ I would not recommend #3, and #2 removes the data from the Source system. In thi
 You can change the mappings while the migration is running by manually changing the XML. The UI will not let you do it as this is an advanced option but if you go to “Edit Current | Xml” you can add the mapping manually.
 
 [![image](images/image_thumb58-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image58.png)  
+{ .post-img }
 **Figure: Manually adding a cloak to a run**
 
 Find your filter pair mappings and add one for that path that says Neglect=”true”.  Once you swap back to the “Form” tab you should see the new mapping and when you restart the migration the engine will detect the configuration change and will flush all pending migration instructions.
@@ -90,6 +93,7 @@ Find your filter pair mappings and add one for that path that says Neglect=”tr
 However in my case we had gone too far down the “Resolve” route and we needed to start over. To do that you need to call “tf destroy” to remove the half migrated data from source control and then create a new run with the Cloak already added.
 
 [![image](images/image_thumb59-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image59.png)  
+{ .post-img }
 **Figure: UI with the Cloak added**
 
 Run again and you will then get your source across. If you want you can then manually move that cloaked folder to complete the data and with it no longer being a branch, our target system is then in a working state.

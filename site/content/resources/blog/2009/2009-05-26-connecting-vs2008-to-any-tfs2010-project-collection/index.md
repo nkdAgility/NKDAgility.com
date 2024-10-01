@@ -23,12 +23,14 @@ You need to use the following in the connection box “http://\[tfsserver\]:\[po
 Although this looks complicated, it makes some sense at least, but is nowhere as nice as using the 2010 connection box:
 
 [![image](images/ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_4.png)
+{ .post-img }
 
 One of the new things in [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 is that you can specify a virtual directory that it will run under, the default being “tfs” so you can have everything on the same ports.
 
 So, if your tfs server name is “tfs01.domainname.com” and you take the default vdir of “tfs”, all you need is the collection name. So you could end up with “http://tfs01.domainname.com:80/tfs/MyNewCollection”
 
 [![image](images/ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ConnectingVS2008toanyTFS2010ProjectColle_D5E5-image_6.png)
+{ .post-img }
 
 Backward compatibility +1
 

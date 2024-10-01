@@ -24,6 +24,7 @@ It may not have been perfect, in fact Windows Mobile was most defiantly not that
 It has been a bumpy road and Windows Phone 8 was a vast improvement over Windows Phone 7. My mum still has a 7 device, that she still insists is new, and it is a stark contrast whenever I have to use it. I recently upgraded my dad to a Nokia 520 which he thinks is fabulous and I have been using a Nokia 1020 for a while now.
 
 ![clip_image001](images/clip_image0012-1-1.png "clip_image001")
+{ .post-img }
 
 My home screen is pretty strait forward and I only really use a few apps. As an aside there is a fascination with the platform that has the most apps however in my experience you have to search through the sewer for the gems. The only apps I use are:
 
@@ -40,6 +41,7 @@ My home screen is pretty strait forward and I only really use a few apps. As an 
 And that’s really it. I have tones of other crap on there, mostly for the kids. Oh, did you know that Windows Phone has Kid Mode? Kid Mode is a little walled garden that you pick the apps and games that are listed. It has its own home screen that you can enable without entering your password. This feature was added with Windows Phone 8 but I find it so useful I thought it best to reiterate it.
 
 ![clip_image002](images/clip_image002-2-2.jpg "clip_image002")
+{ .post-img }
 
 If you are running Windows Phone 8 on your phone right now then you can get the developer preview of Windows Phone 8.1 (You do not need to be a developer):
 
@@ -48,10 +50,12 @@ If you are running Windows Phone 8 on your phone right now then you can get the 
 3. Go to Settings, then System Update and update your phone. You may need to do this more than once. My Nokia 1020 needed 2 updates before I was presented with the Windows Phone 8.1 Preview.
 
 ![clip_image003](images/clip_image003-3-3.jpg "clip_image003")
+{ .post-img }
 
 Although it says 5-10 on the first update and 15-30 on the 8.1 update you need to take this with a pinch of salt. It really depends on how much data you have on your phone and how fast your internet connection is. The first two updates on my Nokia 1020 took way longer than 10 minutes (more like the 15-30) however my connection speed was pretty slow in the Alps last week. WiFi was not much better as it was a satellite link with high latency.
 
 ![clip_image004](images/clip_image004-4-4.jpg "clip_image004")
+{ .post-img }
 
 If you update your phone to Windows Phone 8.1 Preview today you will at least get the RTM when it becomes available and likely there will be a couple of refreshes. Note though that this is a "Developer Preview" and don't expect everything to work. So far I have the following issues:
 
@@ -61,6 +65,7 @@ If you update your phone to Windows Phone 8.1 Preview today you will at least ge
 - **No Cortana** \- You can do some contortions with region and language to make it work. However who wants everything in American?
 
 ![clip_image005](images/clip_image005-5-5.jpg "clip_image005")
+{ .post-img }
 
 For me the downsides are worth it and I love the new features and home screen. I [agree with Scott Hanselman](http://www.hanselman.com/blog/WindowsPhone81HasMyAttentionNow.aspx) that this not only brings Windows Phone up to the level of iOS and Android but takes it beyond.
 

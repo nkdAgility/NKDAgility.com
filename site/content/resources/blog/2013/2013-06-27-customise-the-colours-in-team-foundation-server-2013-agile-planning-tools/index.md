@@ -20,6 +20,7 @@ If you want to customise the colours in Team Foundation Server 2013 Agile Planni
 There used to be two files in Team Foundation Server 2012 but this was confusing and the amalgamation to a single configuration file just made sense.
 
 [![image47](images/image47_thumb-1-1.png "image47")](http://nkdagility.com/files/2013/06/image471.png)  
+{ .post-img }
 Figure: Colour coded Work Item Types are easy to distinguish
 
 The colours that you pick will be displayed wherever a work item is displayed. Wither that is in a list or a card on one of the boards the same coloured bar will be displayed on the left. This really helps distinguish between them and highlights things like Bugs in a list of Product Backlog Items.
@@ -71,6 +72,7 @@ $WitAdmin = "${env:ProgramFiles(x86)}Microsoft Visual Studio 12.0Common7IDEwitad
 All we need to do is edit the colour codes and then import (upload) the process configuration again. Here I am going to change the PBI to Pink (#FF16D0) which has a value of FFFF16D0 with a secondary (faded) colour of FFFFD1D0.
 
 ![image](images/image64-2-2.png "image")  
+{ .post-img }
 Figure: Lovely pink PBI’s
 
 And voilà you now have just what you always wanted… pink PBI’s.

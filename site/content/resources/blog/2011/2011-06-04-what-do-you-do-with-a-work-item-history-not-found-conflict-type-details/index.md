@@ -17,6 +17,7 @@ slug: "what-do-you-do-with-a-work-item-history-not-found-conflict-type-details"
 ---
 
 ![](images/image_thumb-1-1.png)
+{ .post-img }
 
 If you have no history in the system you are migrating to TFS, you may have problems when you try to do a continuous unidirectional sink due to your system not having a “revision” of the work item.
 
@@ -426,6 +427,7 @@ This does not seam to be the case as I always get a WorkItemHistoryNotFoundConfl
 I have now updated the system so that it creates and stores a high water mark for each work item so that I can give it a consecutive revision ID. The result? No errors when runing through the first time above. You can see the “Completed migration” lines above and it results in 27 new work items.
 
 [![image](images/image_thumb3-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image3.png)
+{ .post-img }
 
 **Figure: New work items from the migration**
 
@@ -671,6 +673,7 @@ Where ChangeActionId > 1490
 The data that comes back all has a status of 5 and a backlog value of 1:
 
 [![image](images/image_thumb5-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image5.png)
+{ .post-img }
 
 **Figure: What this means is anyone's guess**
 

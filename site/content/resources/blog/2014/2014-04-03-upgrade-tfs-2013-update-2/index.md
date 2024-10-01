@@ -68,21 +68,25 @@ As predicted most of the enhancements are within the Git space. While TFVC will 
 As I said before the TFS install & upgrades have become so trivial that it is almost not worth mentioning… almost…
 
 ![image](images/image2-1-1.png "image")  
+{ .post-img }
 Figure: Upgrading to TFS 2013 Update 2
 
 Upgrading TFS is simpley a case of installing the latest version. I would always recommend that you either take the opportunity to move to new hardware as this  gives you the ultimate rollback. If you have a single server instance that is virtual you should at least ‘Snapshot’ the server. Whatever your quick rollback solution make sure, and I mean really sure, that you have a current and up to date backup. If you are using the TFS backup tool that is built into the new
 
 ![image](images/image3-2-2.png "image")  
+{ .post-img }
 Figure: Laying down the new files
 
 The Installer will automatically remove the old version of TFS and update you to the latest bits. If you have TFS 2005 you will need to go to TFS 2010 first (you can get that installer from MSDN) but if you have 2008, 2010, or 2012 you can just run the 2013 Update 2 installer to upgrade.
 
 ![image](images/image4-3-3.png "image")  
+{ .post-img }
 Figure: Make really sure that you have a backup before upgrading to TFS 2013 Update 2
 
 Once the foundation has been laid you will be presented with screen asking you which database (configuration database) that you want to upgrade. You may have more than one TFS instance using the same SQL Server. To be honest I would not recomnned it, but I have seen it. You will have to check the box to say that you really do have a backup, and if you do not then go now and create a SQL backup of all of the TFS databases.
 
 ![image](images/image5-4-4.png "image")  
+{ .post-img }
 Figure: Review your upgrade to TFS 2013 Update 2
 
 If you are upgrading you will probably not need to change any of the settings. In just hit ‘next’ until it asked me to re-enter the reporting account password an then reviewed the settings. If you are installing from scratch then you should hit the documenation, or a previous post for a full install guide.
@@ -92,11 +96,13 @@ If you are upgrading you will probably not need to change any of the settings. I
 After this you validate and then execute the configuration. After a while, say 5-10 minutes, you will see a bunch of green checkmarks. If you are upgrading from TFS 2008 or TFS 2010 you may have a much longer wait. Depending on the size of your database and the speed of the servers you upgrade could take minutes or hours.
 
 ![image](images/image6-5-5.png "image")  
+{ .post-img }
 Figure: All green ticks when upgrading to TFS 2013 Update 2
 
 Not only did I get green ticks on the configuration, but you will get ticks for each of your collections. Even after the configuration has completed your collection updates will kick off in the background. My current customer has more than 10 collections and these will be upgraded individually. Once done you collections will be online and you can connect…
 
 ![image](images/image7-6-6.png "image")  
+{ .post-img }
 Figure: Only 13 minutes to upgrade to TFS 2013 Update 2
 
 In only 13 minutes I have upgrade my demo environment from TFS 2013 RTM to TFS 2013 Update 2. This was a small environment however the process is the same regardless.

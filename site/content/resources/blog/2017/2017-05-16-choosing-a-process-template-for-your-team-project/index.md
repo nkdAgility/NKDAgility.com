@@ -27,6 +27,7 @@ Over the years I have had many discussions about Agile vs Scrum process template
 When you create a new Team Project in VSTS or TFS you are asked which Process Template that you want to use. This is a decision that you need to make at the time you create your Team Project and you cant change it later. You want to choose the template that is closest to what you are actually doing, or more accurately what you want to be doing.
 
 ![](images/image1-2-2.png)Many teams and organisations make very good and seemingly rational arguments for choosing either the Agile or CMMI templates, however I feel that if you are trying to achieve any type of agile implementation for your team then this is the wrong choice. There are two key frictions that I think affect your choice:
+{ .post-img }
 
 - **Current Friction -** If you have a discrepancy between what you are doing now, and the process template you choose then you will have a harder time getting folks to work within the bounded environment that you are trying to create. However you may want some friction if folks are currently doing the wrong thing.
 - **Future Friction** - As your process implementation moves to match your strategic direction, and the template lags behind , then you will have a significant friction for folks who really want to do the old thing.

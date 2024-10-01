@@ -22,6 +22,7 @@ slug: "issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-othe
 When you try to configure InRelease to connect to your Team Foundation Server 2013 Team Project Collection you get an error message saying that you are unable to connect because you need to be able to requires make requests on behalf of others.
 
 ![image](images/image16-1-1.png "image")  
+{ .post-img }
 Figure: Unable to connect to Team Foundation Server
 
 If you check the event log you get:
@@ -61,6 +62,7 @@ Extended Properties:
 Just like the TFS Integration Platform if you have a service that requires the “Make requests on behalf of others” then the accounts that it runs under need to be part of the “Team Foundation Service Accounts” group on the Collection. I would think that
 
 ![image](images/image17-2-2.png "image")  
+{ .post-img }
 Figure: You can’t edit Team Foundation Service Accounts Group
 
 Unfortunately this group is not editable in the UI as a security precaution and in keeping with TFS tradition those things are relegated to the command line so that it scares off those for whom its not really that important.
@@ -72,6 +74,7 @@ Now while in a real server you should have a service account my TFS Server runs 
 Whatever account that you want to run InRelease under you need to add it to the Team Foundation Service accounts group to get the “make requests on behalf of others” capability.
 
 ![image](images/image18-3-3.png "image")  
+{ .post-img }
 Figure: Add permission with TFSSercurity command
 
 ```
@@ -81,6 +84,7 @@ tfssecurity /g+ "Team Foundation Service Accounts" n:nakedalmTfInRelease ALLOW /
 When you execute the command TFS will go off and add the account to the group. You could do this per collection, but I am just giving it access to every collection on the server.
 
 ![image](images/image19-4-4.png "image")  
+{ .post-img }
 Figure: Green tick for account that now has make requests on behalf of others
 
 I could have given explicit permission to that account or even created a special group with just that permission but this is the recommended option to solving the problem.

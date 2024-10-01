@@ -22,6 +22,7 @@ WARNING: I did not find a solution to my problem, but this should server as a do
 I first notices that even when I added "Domain Users" to a security group in TFS my "Assigned To" list was empty of all users except those specifically added. It looks like when I name a user my local credentials are used and it is successful, but when I add a group it fails.
 
 [![Image](images/image_thumb-4-4.png "Image")](http://blog.hinshelwood.com/files/2012/02/Image.png)
+{ .post-img }
 
 **Figure: Holy service accounts, batman**
 
@@ -227,6 +228,7 @@ Event Xml:
 Now, when you join a computer to a domain it actually gets an account on the domain and a password just like a user. The account is always the computer name appended with a $ which looks like "tfs01$". The password for that account is set every 30 days by request of the client, and there can rarely be any problems.
 
 [![Hint 4](images/Hint-4_thumb-2-2.png "Hint 4")](http://blog.hinshelwood.com/files/2012/02/Hint-4.png)  
+{ .post-img }
 **Figure: Domain Controller error in Event Log**
 
 But in this case it looks for  it looks as if the machine account has become out of sync, so lets try [resetting the computer account](http://support.microsoft.com/kb/216393).
@@ -280,6 +282,7 @@ Well, one thing to make sure of is that the [TFS 2010 service account has permis
 One of my colleagues (Rennie) thought that if the Active Directory Domain Services have not been maintained properly (this is a very small company with no real AD skills in-house) then they may have lost one or more of their domain roles. Specifically the PDC Emulation role. 
 
  [![image](images/image_thumb-4-4.png "image")](http://blog.hinshelwood.com/files/2012/02/image.png)  
+{ .post-img }
 **Figure: It looks like the PDC Emulation role is OK**
 
 This was definitely worth a check, and while it was OK, I did notice something that confused and then shocked me. You now those moments when you find out something that just does not compute, and you just stare at it!
@@ -306,6 +309,7 @@ What do you know, it is supported (somewhat)
 Windows 2000 domains are only supported in Native mode and will not work in mixed mode (does anyone still have Windows NT4 in prodution?) so lets take a look.
 
 [![Hint 2](images/Hint-2_thumb-1-1.png "Hint 2")](http://blog.hinshelwood.com/files/2012/02/Hint-2.png)
+{ .post-img }
 
 **Figure: Will I am a monkeys uncle, it is!**
 
@@ -314,6 +318,7 @@ While this may be true, I still hold some reservation for the notion that a Doma
 While on the Domain Controller I also noticed Event ID 1789 in the event log that got me looking into another article on [Error 1789 when you use the LookupAccountName function on a computer that is running Windows Server 2008 R2](http://support.microsoft.com/?id=976494) that while technically is included in the last service pack was not working of me. I could not even apply the Hotfix as it game me the "this update is not valid for your computer" message that is no help. There are manual steps for [Local Groups not resolving domain group name](http://social.technet.microsoft.com/Forums/en/windowsserver2008r2general/thread/846afed4-f3cc-47df-abd0-d111b7d3476a) which stopped that error from being listed, which is one more step closer to a stable working system.
 
 [![Hint 6](images/Hint-6_thumb-3-3.png "Hint 6")](http://blog.hinshelwood.com/files/2012/02/Hint-6.png)  
+{ .post-img }
 **Figure: These manual steps are needed on old domains**
 
 After all of those steps and spelunking I only have one error message left. The one that started it all… the TF200035… and I can’t seam to get it to talk to Active Directory.
@@ -407,6 +412,7 @@ For those that have encountered them before, there are almost impossible to debu
 The very last thing that I can check is that the accounts that have been added to TFS are in deed syncing, even if the groups are not:
 
 [![image](images/image_thumb1-5-5.png "image")](http://blog.hinshelwood.com/files/2012/02/image1.png)  
+{ .post-img }
 **Figure: making sure the identities in TFS are up to date**
 
 Well, that was my last option and I have no further insights. I am sure that I will need to return to this in the future, but for now I have implemented a workaround for the customer. they can use the system, but without AD groups.

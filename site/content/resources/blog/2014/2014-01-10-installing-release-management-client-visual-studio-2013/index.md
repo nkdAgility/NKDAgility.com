@@ -22,11 +22,13 @@ With the addition of the new Release Management Client for Visual Studio 2013 to
 The Release Management Client for Visual Studio 2013 allows you to create and configure all aspects of your release pipeline. You can configure environments from servers and stages of binary promotion with workflow and parameters for deployment at each stage to any environment.
 
 ![](images/011014_1034_READYInstal1-1-1.png)  
+{ .post-img }
 Figure: Running the installer from the ISO
 
 You can either download the web installers from the [public website](http://www.visualstudio.com/en-us/downloads) or you can download the ISO from MSDN if you have an account. If you go with the pubic downloads you will need an active internet connection. If however you want to download the contents for later use you can use the "whatever.exe /layout" option and have the files downloaded locally for later.
 
 ![](images/011014_1034_READYInstal2-2-2.png)  
+{ .post-img }
 Figure: Installing the Release Management Client
 
 Within a few seconds you will have the client installed. It is a simple SPF application and thus this is an extremely quick install.
@@ -34,6 +36,7 @@ Within a few seconds you will have the client installed. It is a simple SPF appl
 I like that the team managed to update the installers. With the early preview releases of Release Management, there were many issues with installation that really needed to be addresses and this was quick and painless. Like it should be.
 
 ![](images/011014_1034_READYInstal3-3-3.png)  
+{ .post-img }
 Figure: Configured client
 
 When you first launch the Release Management client you will be asked to select the server and port where you installed the server. Once you have done this the client will open easily and quickly. If you get an error at this point it is likely a communication problem between you and the server.

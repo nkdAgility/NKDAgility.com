@@ -16,6 +16,7 @@ slug: "anatomy-of-an-automation-for-the-tfs-automation-platform"
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?
+{ .post-img }
 
 We would really like for you to still be able to build out automations without the Automation Platform, but you would not have the delivery and management aspects. Hopefully this post will guide you on how you can integrate your work with the Tfs Automation Platform later.
 
@@ -61,6 +62,7 @@ Well, we will be integrating integrating with many of the TFS elements as proxie
     
 
 [![image](images/image_thumb11-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image11.png)  
+{ .post-img }
 **Figure: Simple diagram showing how an automation gets to run from source**
 
 ## Installation
@@ -132,6 +134,7 @@ With the scaling issue above we will probably need to come up with a seriously e
 Any UI required to edit the plugin data will need to be included in the package and we have not yet decided how this should happen. With .NET it is a little more difficult to inject UI and it will probably end up being Silverlight.
 
 [![image_thumb5](images/image_thumb5_thumb-2-2.png "image_thumb5")](http://blog.hinshelwood.com/files/2011/05/image_thumb51.png)  
+{ .post-img }
 **Figure: Injecting UI in Silverlight is easy**
 
 > Sounds like you have some thoughts on this already ? Will the UI download Action specific UI to inject ?  
@@ -193,5 +196,6 @@ Indeed it would be a v1 feature as we need somewhere to run the processing. Thin
 It should be possible for you to create iSubscribers, ITeamFoundationJobExtension and PolicyBase classes that perform your needs and we will allow you to package them separately or together with space for a UI and other functionality later.
 
 There is no reason not to extend TFS now and once the TFS Automation Platform releases there will be no need to ever install another extension again ![Smile](images/wlEmoticon-smile2-4-4.png) apart from the TFS Automation Platform itself…
+{ .post-img }
 
 

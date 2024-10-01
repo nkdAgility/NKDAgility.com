@@ -21,6 +21,7 @@ slug: "tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-
 When you are running a build you get a “TF215097 an error occurred while initializing a build for build definition” message and you don’t even get a build number.
 
 ![image](images/image15-1-1.png "image")  
+{ .post-img }
 **Figure: TF215097 an error occurred while initializing a build for build definition**
 
 And you get the following nasty long error.
@@ -82,6 +83,7 @@ This type is actually from the [Community TFS Build Extensions](https://tfsbuild
 You need to load those assemblies into Source Control and set a reference to that location for your controller.
 
 ![image](images/image16-2-2.png "image")  
+{ .post-img }
 **Figure: Set the version control path to custom assemblies path**
 
 To do this, go to your “**Build**” page in the new Team Explore. So Go to “**Team Explorer| Build | Actions | Manage Build Controllers**” and look at your list of Controllers. You should be able to figure out which controller your build is going through from your build settings and if you are on Team Foundation Service it will be called “Hosted Build Controller (Hosted)”.

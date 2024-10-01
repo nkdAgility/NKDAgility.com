@@ -16,6 +16,7 @@ slug: "creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with
 ---
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.
+{ .post-img }
 
   
 
@@ -825,6 +826,7 @@ changeGroup.Save()
 You can see in the full source for v2 of the Analysis Provider that I have added a new high watermark for the revision that should stay in sync with the number of runs of the migration there have been. This way, all of the edit’s  that happen on the third run will have a revision number of 3.
 
 [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image1.png)
+{ .post-img }
 
 **Figure: None of the originally imported data has a revision.**
 
@@ -1051,6 +1053,7 @@ My last and only hope is that in all the development and debugging the I broke t
 5. Check all locations where files are stored after the craziness that is getting the source for the TFS Integration Platform to build
 
 [![SNAGHTML219c74f](images/SNAGHTML219c74f_thumb-5-5.png "SNAGHTML219c74f")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML219c74f.png)
+{ .post-img }
 
 **Figure: Reinstalling the TFS Integration Platform is thankfully quick**
 
@@ -1343,11 +1346,13 @@ This did nothing! What I eventually had to do was to remove that mapping from th
 There are a number of things to note on the new mapping. After removing all of the Date fields I found that due to coning changes in the Adapter to achieve the “on behalf of” capability I have to remove both the “Modified By” and the “Created By” fields from the mapping otherwise I get a TF223001 error during the mapping.
 
 [![image](images/image_thumb2-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image2.png)
+{ .post-img }
 
   
 **Figure: Editing on behalf of**
 
 During the production run the “Created by \[account\]” will be the service account that Team Foundation Server runs under so it will be a little cleaner than having my name plastered all over it. Although it is OK to have the company name there ![Winking smile](images/wlEmoticon-winkingsmile-6-6.png)
+{ .post-img }
 
 ```
 [03/06/2011 16:57:12] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing ChangeGroup #1003, change 3206:1 

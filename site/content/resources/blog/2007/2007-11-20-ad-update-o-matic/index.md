@@ -25,6 +25,7 @@ The idea was to pull the information from AD for the selected users into a datab
 This works very well, but I am unable to test most of the AD update procedures as I only have permission to update my own Office and telephone number fields; Which work just fine...
 
 One of the guys from infrastructure are coming over this afternoon to run the application under his login, which will be a full test ![smile_omg](images/smile_omg-2-2.gif) I hope nothing goes wrong...
+{ .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
 

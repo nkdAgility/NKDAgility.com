@@ -20,6 +20,7 @@ slug: "silverlight-4-mvvm-and-test-driven-development"
 ---
 
 ![622512953[1]](images/68e63ada9c60_D045-6225129531_-1-1.jpg)
+{ .post-img }
 
 As part of his [UK tour](http://blogs.silverlight.net/blogs/jesseliberty/archive/2010/02/15/the-united-kingdom-amp-the-republic-of-ireland.aspx) Microsoft's [Jesse Liberty](http://blogs.silverlight.net/blogs/jesseliberty/) will be talking in Edinburgh for an evening on Silverlight 4.
 

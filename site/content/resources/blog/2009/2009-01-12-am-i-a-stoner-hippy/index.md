@@ -18,6 +18,7 @@ In my email signature, and in the title of my blog, I have the phrase “multi-d
 > \--Mark Buchner_
 
 [![Hippy Dude](images/AmIastonerhippy_146A1-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AmIastonerhippy_146A1-image_2.png)Thanks Mark… but he has a point… Am I some kind of stoner hippy? Is that why I can’t spell?
+{ .post-img }
 
 Even though that sounds nice for a while (I miss University), it is neither the source of the phrase nor is it the cause of my spelling problems… In fact it is more than spelling, I sometimes find it difficult to keep up with the stuff coming out of my brain. My inability to write with a pen properly, yup, and write to save myself is also a symptom of the same thing, and you should see me knocking thing over and generally being clumsy.
 
@@ -34,6 +35,7 @@ The current education system, pretty much the world over, has some deficits wher
 > dyslexiavictoria.ca -_ [_http://www.dyslexiavictoria.ca/Glossary.php_](http://www.dyslexiavictoria.ca/Glossary.php)
 
 [![image](images/AmIastonerhippy_146A1-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AmIastonerhippy_146A1-image_4.png)
+{ .post-img }
 
 I have heard of a number of companies who will only employ dyslexic people for particular jobs, the most notable of which is a Architectural company that has only dyslexic Architects because of their enhanced multidimensional perception.
 

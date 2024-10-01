@@ -15,6 +15,7 @@ With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-th
 <figure>
 
 [![](images/class-colage-2-8-8.jpg)](https://nkdagility.com/wp-content/uploads/2020/06/class-colage-2-8-8.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -54,6 +55,7 @@ In order to [create that safe space](https://www.forbes.com/sites/forbescoachesc
 <figure>
 
 ![](images/Scrum-Values-18-18.png)
+{ .post-img }
 
 <figcaption>
 
@@ -76,6 +78,7 @@ Scrum thrives on self-organising teams and our job as facilitators of a professi
 <figure>
 
 ![Reseach shows that Self Organizing teams are more efficient than ...](images/1698a291428fba19a7cecf891b8bcb09-1-1.png)
+{ .post-img }
 
 <figcaption>
 
@@ -92,6 +95,7 @@ While Teams at the moment does not have breakout rooms, [Breakout Room functiona
 <figure>
 
 ![](images/2020-06-21_13-50-59-911x720-2-3.jpg)
+{ .post-img }
 
 <figcaption>
 
@@ -108,6 +112,7 @@ This facilitates both Self-forming teams and the ability for students to create 
 <figure>
 
 ![](images/image-9-17-17.png)
+{ .post-img }
 
 <figcaption>
 
@@ -121,15 +126,19 @@ I prefer to have students create a Channel for each of the Teams that they forme
 
 - **Communications** \- They can create a Teams meeting with "Meet now" or use any of the other video integrations. While I show them the "Meet Now" option in the Tech Check I don't force them down that route. They could just as easily use Zoom, WebEx, or GoToMeeting as their video conferencing tool. All of those are available as apps, and I allow students to use whatever they want.  
     ![](images/2020-06-21_14-03-21-2-5-5.jpg)  
+{ .post-img }
     Pragmatically students have always used the "Meet Now" option as it is the easiest to find and use. Regardless there would be a handy placeholder in the Chat that shows the chosen technology and instructions for connecting.  
     ![](images/2020-06-21_14-34-53-7-7.jpg)  
+{ .post-img }
     
 - **Files** \- While you can add Box, DropBox, Google Files, or any other platform files as a Tab out-of-the-box Teams uses OneDrive and gives you significant storage just for this team.  
     ![](images/image-10-9-9.png)  
+{ .post-img }
     You can add a tab for any of the known platforms.  
     
 - **Tabs** - You can add many different types of tabs to help students out, you can see above that I add at least the link to Mural, Scrum Guide, and the Scrum Open. Below you can see a list of a few of the available apps. There are tabs, bots, and integrations.  
     ![](images/image-11-10-10.png)  
+{ .post-img }
     
 
 **To create Self-Organising teams, we need to develop Bounded Environments for change.**
@@ -145,6 +154,7 @@ For self-organisation to thrive within agile teams, we need to create bounded en
 <figure>
 
 ![](images/image-8-16-16.png)
+{ .post-img }
 
 <figcaption>
 
@@ -167,6 +177,7 @@ While Microsoft Teams allows users to self-organize around about breakouts and c
 <figure>
 
 [![](images/image-12-1280x694-11-12.png)](https://nkdagility.com/wp-content/uploads/2020/06/image-12-12-11.png)
+{ .post-img }
 
 <figcaption>
 
@@ -181,6 +192,7 @@ Mural gives a canvas surface of any size that you need, and then allows us as tr
 <figure>
 
 [![](images/image-13-320x720-13-14.png)](https://nkdagility.com/wp-content/uploads/2020/06/image-13-14-13.png)
+{ .post-img }
 
 <figcaption>
 

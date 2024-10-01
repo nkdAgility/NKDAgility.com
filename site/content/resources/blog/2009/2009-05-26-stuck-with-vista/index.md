@@ -19,24 +19,30 @@ If, like me, you are stuck with the old and decrepit version of Windows that is 
 I am not saying that I would rather have XP, but even with my work development computer ( 8 cores, 4gb rams, 2x 10000rpm raptors, raid 0+1) I find that it is sometimes a struggle finding some resources with which to run Visual Studio…
 
 [![image](images/StuckwithVista_E5BE-image_thumb-6-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_2.png)
+{ .post-img }
 
 [![image](images/StuckwithVista_E5BE-image_thumb_1-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_4.png)
+{ .post-img }
 
 [![image](images/StuckwithVista_E5BE-image_thumb_2-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_6.png)
+{ .post-img }
 
 For me this is not a lot, and I have more running on my wife's laptop (2 cores, 4gb ram, 5400rpm HDD) with less problems on Windows 7 RC. I am not saying that Windows 7 uses less resources, but it certainly makes better use of them…
 
 Well, lets hope SP2 solves at least some of these problems…
 
 [![image](images/StuckwithVista_E5BE-image_thumb_3-3-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_8.png)
+{ .post-img }
 
 Ominous…
 
 [![image](images/StuckwithVista_E5BE-image_thumb_4-4-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_10.png)
+{ .post-img }
 
 I think as usual with Vista only Part 1 of 3 will be done while I can still work… with part 2 on shutdown and 3 on reboot…
 
 [![image](images/StuckwithVista_E5BE-image_thumb_5-5-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StuckwithVista_E5BE-image_12.png)
+{ .post-img }
 
 You can find out loads about what is in it from:
 

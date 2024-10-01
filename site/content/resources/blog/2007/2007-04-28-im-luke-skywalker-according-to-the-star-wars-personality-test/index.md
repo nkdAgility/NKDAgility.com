@@ -11,6 +11,7 @@ slug: "im-luke-skywalker-according-to-the-star-wars-personality-test"
 ---
 
 [![](images/Card_LukeSkywalker-1-1.jpg)](http://www.liquidgeneration.com/Media/Games/The_Ultimate_Star_Wars_Personality_Test/)
+{ .post-img }
 
 I was hoping for anything else!
 

@@ -21,6 +21,7 @@ slug: "issue-tfs2012-2-tf30063-you-are-not-authorized-to-access"
 If you have TFS 2012 Update 2 (2012.2) installed you might get an error after you [move Team Foundation Server from one environment to another](http://msdn.microsoft.com/en-us/library/ms404883.aspx) (change domain.)
 
 ![image](images/image38-1-1.png "image")  
+{ .post-img }
 Figure: TF30063 you are not authorised to access server
 
 ## Applies to
@@ -32,6 +33,7 @@ Figure: TF30063 you are not authorised to access server
 Not only are you unable to change the URL but you are also to edit permissions or in any way connect to TFS even from the server.
 
 ![image](images/image39-2-2.png "image")  
+{ .post-img }
 Figure: TF30063 you are not authorised to access localhost
 
 This is not one that I have encountered before and was at a loss to help the customer. I ran the flag up and got a little help from [Grant Holiday](http://blogs.msdn.com/b/granth/). He identified this as a bug… 

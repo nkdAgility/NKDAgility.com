@@ -16,6 +16,7 @@ slug: "database-corruption-in-tfs-2005-causes-tf246017-during-upgrade"
 ---
 
 ![ErrorOcurred](images/UpgradingTFS2005toTFS2010_10E2E-ErrorOcurred_-2-2.jpg)Today I was on-site to do a test upgrade of TFS 2005 to TFS 2010 and we encountered an error that would have caused major delays while we investigated and perhaps requiring additional help from Microsoft.
+{ .post-img }
 
   
 
@@ -31,6 +32,7 @@ Warning Message:
 This perplexing message talks about not being able to connect to the SQL Server database. But were we not just doing that for steps 1 to 4.
 
 ![image](images/UpgradingTFS2005toTFS2010_10E2E-image_-3-3.png)
+{ .post-img }
 
   
 **Figure: At least it got to step 4**

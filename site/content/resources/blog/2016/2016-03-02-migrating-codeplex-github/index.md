@@ -22,6 +22,7 @@ I have a repository on Codeplex that was the result of the code that I had to wr
 My first attempt was to use GitHub's provided tool at [https://import.github.com/](https://import.github.com/) to pull my CodePlex repo into GitHub. However the results are not even remotely consistent with what you would want. The GitHub tool effectively just grabs the entire codebase under the team project and shoves it into a Git repo.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+{ .post-img }
 
 Effectively the GitHub import from TFS is inherently broken and is of no value to anyone. Well, maybe that’s a little harsh. If I was a complete incompetent and had the root of my project in the Team Project folder (not recommended by MSFT) then maybe it would be useful. I can't imagine that is a common scenario.
 
@@ -38,13 +39,16 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
 1. **Install Chocolatey -** First we need the tools, and the easiest way to get them is with Chocolaty. If you don’t already have Chocolatey installed then head over to [https://chocolatey.org/](https://chocolatey.org/) and get it.  
       
     ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+{ .post-img }
 2. **Install Git-TF** - The easyest way to install Git-TF is to now call "_Choco Install Git-TF_". This will go off and install all of the pre-requisites an the main event. Chocolatey is one of my favourite tools and allows you to install almost any development or productivity tool.  
       
     ![clip_image003](images/clip_image003-3-3.png "clip_image003")  
+{ .post-img }
       
     After only a few minutes (depending on your download speed) you will be all up and running, ready with both the Git command line, and Git-TF extensions.  
       
     ![clip_image004](images/clip_image004-4-4.png "clip_image004")  
+{ .post-img }
       
     You may find that you get errors when using "git tf". I am not sure where that rabbit hole goes, but you can use "git-tf" to access the same commands nad they work. I would suggest that this is a bug in the software.
 3. **Clone your TFVC repository to Git -** Now that we have all of the tools installed we need to get our code over. Now as I suggested with "Git-TF" you are able to select the folder that you want to clone. I made a new directory and navigated to that folder in PowerShell.  
@@ -55,6 +59,7 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
     ```
     
     ![clip_image005](images/clip_image005-5-5.png "clip_image005")  
+{ .post-img }
       
     As soon as you execute the command it will clone MAIN and create a new Git Repository in the current location with the same name as the folder. In this case I get a "MAIN". The "--deep" command will make sure that all of the history is taken, but watch out as this may take some time to complete if you have a large amount of history. Not perfect but it will work for me for now.  
       
@@ -69,12 +74,14 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
     ```
     
     ![clip_image006](images/clip_image006-6-6.png "clip_image006")  
+{ .post-img }
       
     That gets all of your code over onto GitHub but what about other things…
     
 5. **Moving your Wiki Pages** - You might also have one or more Wiki pages that you want to migrate. Unfortunately Codeplex uses HTML and Github uses Markdown.  
       
     ![clip_image007](images/clip_image007-7-7.png "clip_image007")  
+{ .post-img }
       
     Luckily I found a rather nice [converter for HTML to Markdown](http://domchristie.github.io/to-markdown/) that let me do this easily. Very few tweeks later and I had my markdown page ready.
 

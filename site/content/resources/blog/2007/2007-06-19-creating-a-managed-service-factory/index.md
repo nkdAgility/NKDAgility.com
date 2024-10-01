@@ -19,6 +19,7 @@ I had a plan. I wanted to create a way of accessing services in multiple locatio
 After using Reflector to view the Team Foundation Server source code, which gave ma many pointers for which I would like to thank the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Team At Microsoft, I came up with the following solution:
 
 [![image](images/Creatingaservicemanager_8C3D-image_thumb_4-1-1.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-Creatingaservicemanager_8C3D-image_5.png)
+{ .post-img }
 
 This allows you to host any number of services, regardless of wither they are remote or local within a "Server" construct and to access that server easily. Remote and local services can exist side by side in the same server, for example you could have an ActiveDirectoryClientService hosted in a ClientServer
 
@@ -29,6 +30,7 @@ From the factory level you can again request either services by type or by impl
 Below is a diagram of my TFSEventHandlerServer that included's both local and remote services. For ease of development and because it is a common thing to do I created the WcfClientServiceBase class that provides a number of features that allow less code to be written in the individual service client classes.
 
 [![image](images/Creatingaservicemanager_8C3D-image_thumb_5-2-2.png)](http://blog.hinshelwood.com/files/2011/06/GWB-WindowsLiveWriter-Creatingaservicemanager_8C3D-image_6.png)
+{ .post-img }
 
 In this example you can call any of the ClientServices with the same code:
 

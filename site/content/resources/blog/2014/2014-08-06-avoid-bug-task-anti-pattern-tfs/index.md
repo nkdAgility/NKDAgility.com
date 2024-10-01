@@ -18,6 +18,7 @@ slug: "avoid-bug-task-anti-pattern-tfs"
 For the last few months, I have been working with an enterprise customer that has been steadily adopting Work Item Tracking in TFS. I have learned that you should avoid the Bug as a Task anti-pattern.
 
 ![](images/image-1.png)
+{ .post-img }
 
 Updated
 
@@ -32,6 +33,7 @@ To be fair in enterprise most 'laterals' take ownership of the process and leave
 Now you might be forgiven for coming down on the side of governance as 'we need some guidance to come from somewhere'. With many having organisational mandates to move towards agility, they are however unknowingly making decisions that are making the tooling a friction point for that move.
 
 ![image](images/image-3-3.png "image")
+{ .post-img }
 
 These decisions are often the result of the traditional silo-based delivery experience that has them not avoiding the Bug as a Task anti-pattern in TFS. If you are doing all of the development before you test then this is a necessary configuration. However, as we know that this is inherently dysfunctional making this compromise is sweeping issues under the rug rather than dealing with them. So why is having a Bug in the same domain as a Task a bad thing?
 
@@ -60,6 +62,7 @@ Now that we understand the problem, we can dive a little deeper. We have discuss
 While the solutions above will work, they need to be owned and implemented by the Product Owner and the Development Team working together. Make things open and transparent and push the problem down to the people causing it. Yes, the development teams should have to create a Bug at the PBI level and then break it down into Tasks. Yes, even if they have to create a Bug and a Single task for a 10-minute piece of work. This is their penalty for not communicating effectively. If the PO is not providing enough detail in the PBI then their penalty is having to prioritize tonnes of little meaningless bugs.
 
 ![image](images/image1-4-4.png "image")
+{ .post-img }
 
 By forcing the teams to treat all bugs as backlog items you force them to take a long, hard look at when they create a bug and how they deal with unfinished in-sprint work.
 

@@ -23,6 +23,7 @@ Even if you install all Windows Updates and reboot you continue to get this mess
 MANDATORY SP1 Hotfix _SP1 installations are currently experiencing an issue in certain configurations as described in Knowledge Base article [KB2793634](http://support.microsoft.com/kb/2793634). The article provides a fix for this issue that is currently available for download, and is MANDATORY for application immediately following a Service Pack 1 installation. The fix is also being made available on Microsoft Update._
 
 ![image](images/image13-1-1.png "image")  
+{ .post-img }
 Figure: TF255466 A previous update or installation requires a restart
 
 Even if you reboot untill you are pounding on the keyboard....
@@ -57,11 +58,13 @@ This is normally cleared when you do a reboot as whatever actions can be taken t
 However there was a bug with SQL Server 2012 where the [Windows Installer starts repeatedly after you install SQL Server 2012 SP1](http://support.microsoft.com/kb/2793634). Basically there is a mismatch of the version of a file that is installed and the SQL Server installer keep trying to fix it. Thus resulting in a permanent loop of pending reboots…
 
 ![image](images/image14-2-2.png "image")  
+{ .post-img }
 Figure: Windows Installer starts repeatedly after you install SQL Server 2012 SP1
 
 If think this is the issue you can head on over here and download the [Non Security Update for SQL Server 2012 SP1 (KB2793634)](http://www.microsoft.com/en-us/download/details.aspx?id=36215) to fix it.
 
 ![image](images/image15-3-3.png "image")  
+{ .post-img }
 Figure: All readiness checks complete
 
 For me this fixed my issue…

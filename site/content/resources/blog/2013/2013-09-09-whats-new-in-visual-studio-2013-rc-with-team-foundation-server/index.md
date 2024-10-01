@@ -30,6 +30,7 @@ There have been repeated and increasing enhancements to the Team Explorer. Some 
 I was surprised when I opened the connection dialog on my brand new OS with Visual Studio 2013 RC installed and saw a list of TFS servers that I recognised.
 
 ![image](images/image16-1-1.png "image")  
+{ .post-img }
 Figure: Visual Studio 2013 Team Explorer remembers your TFS Servers
 
 It looks like the team has populated my list of servers with all of the instances from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) that I have permission for, and that's a lot. I am not sure what happens when this list gets bigger than my screen but that's for another day. I had forgotten that I had connected to some of these servers. What would be a nice enhancement to this would be to have local servers that are synched as well. That way I can easily select local servers when I go onsite at customers.
@@ -39,6 +40,7 @@ It looks like the team has populated my list of servers with all of the instance
 The new layout for the Team Explorer homepage is much more flexible and has way better extension points.
 
 ![image](images/image17-2-2.png "image")  
+{ .post-img }
 Figure: The new Team Explorer in 2013
 
 Again we have the context of a single Team Project. While administrators may have preferred the old tree view users found it confusing and slow. The new interface added with 2012 has been streamlined and enhanced with a years worth of usability data.
@@ -81,6 +83,7 @@ Team Rooms are brand new in TFS 2013 and provide a kina cross between email noti
 You can configure notification for various things including Build results and work item changes. The results pop into the window with a little ‘ding’ for other to be notified. If you are unable to get everyone in a physical team room then this is the next best thing. Those of you out there thinking ‘what's the use of that crap’ should give it a try. Find it valuable or don’t as you like but the ability to chat and tag work items just by mentioning #2354 or a person with the usual @Youname mechanism makes the experience much more interactive.
 
 ![image](images/image18-3-3.png "image")  
+{ .post-img }
 Figure: Configure events for Team Rooms in 2013
 
 I am looking forward to innovations and experiments here.
@@ -90,6 +93,7 @@ I am looking forward to innovations and experiments here.
 When I looked at [What's new in Visual Studio 2013 Team Foundation Server Preview](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/) I spent a lot of time on the Agile Portfolio Management features and even created a [video walkthrough](http://nkdagility.com/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work/). Here I just want to go back and visit some of the areas that  have been improved.
 
 ![image](images/image19-4-4.png "image")  
+{ .post-img }
 Figure: Backlog View Pick list
 
 First up is that pick list list that lets you ‘look up’ and ‘look down’. In the earlier version it was not colour coded, it did not have the current level first and the text was just the name of the Work Item in question. The new list is eminently more usable and understandable. Here we get more context; we get the colour of the work item type that we can subconsciously relate. There is also a subtle separator between the ‘current view’ and the alternative views. It was previously easy to forget which level you were at and thus where one had to go to get back to the orderable view. We had the ‘Backlog Items’ highlight on the left, but we had to look way the other side of the screen to figure it out. Now we can easily see where we are and where we are looking. Even the addition of the simple “to \[other work item type\]” test gives us much more of that context.
@@ -97,6 +101,7 @@ First up is that pick list list that lets you ‘look up’ and ‘look down’.
 This to me is an embodiment of a small simple but extremely valuable enhancement to an existing feature that is only really valuable in short release cycles. In a long cycle it would never make it above the cut line.
 
 ![image](images/image20-5-5.png "image")  
+{ .post-img }
 Figure: Subtle directional chevron on Backlogs
 
 If you do select another option, in this case I am looking up from ‘Backlog items to Features’ you get a subtle indication on the left as well as to where you are. The little colour coded chevron for "’Backlog items’ narrows at the top to signify that we are looking up. This gives other side of the screen the same information in a subtle enough manor as to not interrupt or clutter the display, but still conveying necessary information.
@@ -106,6 +111,7 @@ If you do select another option, in this case I am looking up from ‘Backlog it
 Another incremental improvement is the ability to easily associate backlog Items with Feature (or whatever you have above the backlog that you are viewing).
 
 ![image](images/image21-6-6.png "image")  
+{ .post-img }
 Figure: Mapping from Backlog to Parent
 
 Here we can turn on Mapping and a list of the parent items are listed on the right. You can then drag and drop your backlog items onto the required feature to create the associations that you want. This makes it way easier and more intuitive to work with the hierarchy.
@@ -115,6 +121,7 @@ Here we can turn on Mapping and a list of the parent items are listed on the rig
 One of the awesome features in TFS in the reporting, even if it is just incidental reporting when you are not actively trying to get traceability. In Visual Studio you can right click on a Query and select “Generate Report”. This feature would look at the fields that were available on the query and determine what sort of reporting was possible with those options. It would then let you build out both static and trend reporting in Excel using a macro. Well, as we move towards more of a cloud based infrastructure we need the same features but unfortunately, or fortunately, there is no Analysis Services in Azure. So what can we do?
 
 ![image](images/image22-7-7.png "image")  
+{ .post-img }
 Figure: Static Analysis reports in TFS 2013
 
 The product team in superb incremental style have implemented the easy part first; Static Charting. They have created the ability to add charts to you query. To find the options head over to your work item queries and when you select a query you will note an extra tab added to the UI. Where we had only Results and Edit we now get Charts. Once on the charts tab you can create a new chart and select the chart type:
@@ -128,6 +135,7 @@ The product team in superb incremental style have implemented the easy part firs
 While this will never have parity with Excel there is much more value in this being just available in the UI. One you have selected your chart type you get to give it a name and then customise the data displayed. You need to first select the Grouping. This is the field (dimension) that you want to display the data by. After that you select the values (metric) to display.  I don’t hold out hopes for getting trend analysis by RTM of 2013 but if we are lucky some future sprint will bring that functionality.
 
 ![image](images/image23-8-8.png "image")  
+{ .post-img }
 Figure: Adding lots of charts
 
 You can go ahead and add a bunch of charts giving you different views of the same data and creating a dashboard based on your query data. I love this option…
@@ -137,6 +145,7 @@ You can go ahead and add a bunch of charts giving you different views of the sam
 As I was clicking through I notices a little nugget that I have no idea when it was added.
 
 ![image](images/image24-9-9.png "image")  
+{ .post-img }
 Figure:
 
 Maybe this was added in 2012 and I never noticed but you can, when ordering columns, select multiple columns and change their order together. I don;t know how many times I have moved each one individually and I hope this is a new feature if only to save face…
@@ -146,6 +155,7 @@ Maybe this was added in 2012 and I never noticed but you can, when ordering colu
 Although web based Testing was added in one of the updates to 2012 there were some serious limitations. We could not create Test Plans and needed to jump into MTM to perform many of those tasks.
 
 ![image](images/image25-10-10.png "image")  
+{ .post-img }
 Figure: Creating Test Plans from the Web Portal
 
 Now with 2013 you can create a Test Plan directly in the web UI. You can add a name and configure the Area Path and Iteration Path that is relevant. If you want to edit the Test Plan you have to jump into MTM but the team have added a little bottom on the far right off the highlight above to jump strait to that page in the application.
@@ -155,6 +165,7 @@ Now with 2013 you can create a Test Plan directly in the web UI. You can add a n
 Power users of Microsoft Test Manager have always called for productivity improvements. They were always used to working in Excel before MTM came along and some things are just easier there. Well the MTM team has been listening and they have added some new features to the web to make things easier.
 
 ![image](images/image26-11-11.png "image")  
+{ .post-img }
 Figure: Create test Cases in Grid View
 
 You can now create Test Cases just like you once did in Excel. You can modify and add new at the same time and save as you go along. If you use to, or currently, create Test Cases in Excel and then port them to MTM you can now copy and paste them into here and save.
@@ -164,6 +175,7 @@ You can now create Test Cases just like you once did in Excel. You can modify an
 The last feature I want to highlight is the “Run using client” bottom that sends the selected tests to MTM for execution.
 
 ![image](images/image27-12-12.png "image")  
+{ .post-img }
 Figure: Launching MTM from the Web UI
 
 In MTM you get data collectors like Video, Intellitrace, Event Log scraping, Code Coverage and Test Impact Analysis. Sometimes you want those things and this lets you jump into the right part of MTM and back to the web access making the integration a little bit more seamless.

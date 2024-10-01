@@ -17,12 +17,14 @@ slug: "calculating-the-rank-of-your-blog-posts-or-pages"
 ---
 
 ![WeeManWithQuestions](images/e72c59b050ae_D1D8-WeeManWithQuestions_-9-9.png)I had an idea to have blog posts, or Rules listed not in date order, or an arbitrary order, but in some sort of calculated order. For this I would need to get data from somewhere and I fancied using; Number of Comments, Number of Trackbacks, Reddit, Digg, FriendFeed Twitter and Google Page rank. In this sample I use the term Rangler as a cross between Wrangler and Rank, but they are really Data Collectors.
+{ .post-img }
 
   
 
 * * *
 
 This is really an exploratory brain dump and proof-of-concept, so please excuse any bad code or practices ![Smile](images/e72c59b050ae_D1D8-wlEmoticon-smile_2-10-10.png)
+{ .post-img }
 
 ## What is the goal?
 
@@ -43,13 +45,16 @@ I only really have time time to create a proof-of-concept and there are lots of 
 I built a really simple interface that I could use to test the concept with all the core functionality sitting behind a web service.
 
 ![image](images/e72c59b050ae_D1D8-image_-7-7.png)
+{ .post-img }
 
   
 **Figure: This blog post gets a rank of 2460**
 
 As you can see my UI skills are fantastic ![Smile](images/e72c59b050ae_D1D8-wlEmoticon-smile_2-10-10.png)
+{ .post-img }
 
 ![image](images/e72c59b050ae_D1D8-image_-4-4.png)
+{ .post-img }
 
   
 **Figure: Only 1 tweet for this rule**
@@ -61,6 +66,7 @@ If you rank your pages this way then you can see which pages are lost causes and
 It was implemented as a WPF application that calls a web service to get the data. It is only POC, but it is extensible:
 
 ![image](images/e72c59b050ae_D1D8-image_-6-6.png)
+{ .post-img }
 
   
 **Figure: Adding a new “Rangler” is a matter of adding a new assembly to the bin folder. No need to touch existing code.**
@@ -68,6 +74,7 @@ It was implemented as a WPF application that calls a web service to get the data
 As you can see I don’t have many tests and I really just used them to test each layer prior to getting the UI up and running. I think I wrote 4 tests in total.
 
 ![image](images/e72c59b050ae_D1D8-image_-8-8.png)
+{ .post-img }
 
   
 **Figure: Ranglers are loaded dynamically if they are placed in the Bin directory of the website.**
@@ -94,18 +101,21 @@ End Sub
 You can also use MEF and other frameworks to make this even more extensible in the future.
 
 ![image](images/e72c59b050ae_D1D8-image_-5-5.png)
+{ .post-img }
 
 **Figure: The UI calls the Service**
 
 The reason I used a web service is that I can see a more generic use for this capability in the future. It allows you to get quite a lot of statistical information just now, but it could be extended to allow the retrieval of all the Tweets, comments and other bits of information that make up the stats.
 
 ![image](images/e72c59b050ae_D1D8-image_-3-3.png)
+{ .post-img }
 
 **Figure: Which does all of the calculation and calls for all of the Ranglers that it finds**
 
 The web service calls the RanglerManager which is responsible for looking after the Ranglers and caching the data to make subsequent calls a lot faster for the same URL.
 
 ![clip_image014](images/e72c59b050ae_D1D8-clip_image014_-1-1.jpg)
+{ .post-img }
 
   
 **Figure: The BackType Rangler pulls back an XML feed from BackType’s servers with lots of data**
@@ -113,6 +123,7 @@ The web service calls the RanglerManager which is responsible for looking after 
 The BackType Rangler calls the BackType API and parses out the returned statistics in a custom data class.
 
 ![image](images/e72c59b050ae_D1D8-image_-2-2.png)
+{ .post-img }
 
 **Figure: The Google Rangler does some scary mumbo jumbo to get the Page Rank**
 

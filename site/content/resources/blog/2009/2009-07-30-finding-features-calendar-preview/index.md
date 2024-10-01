@@ -16,6 +16,7 @@ slug: "finding-features-calendar-preview"
 Another nice feature of Outlook 2010 that I like is the Calendar preview:
 
  ![image](images/FindingfeaturesCalendarpreview_94FA-image_6-1-1.png)
+{ .post-img }
 
 Very effective for seeing quickly wither you can attend :)
 

@@ -28,6 +28,7 @@ Visual Studio Online provides a number of benefits in addition to all of the bit
 Note: You can also setup your own Azure, AWS, or local VM's to run your build agents and connect them to VSO. This mode will likely suit enterprises better as you get to install whatever you like on the agents.
 
 ![clip_image001](images/clip_image0017-1-1.png "clip_image001")
+{ .post-img }
 
 The next two services can be used with TFS as well, but the systems are only available in the cloud. The Load Testing Service allows you to use azure infrastructure to execute massive amounts of load tests from around the world with little or no setup. Just create a load test in the normal way in Visual Studio, there is also a new web-based experience, a give it to Azure. You can simulate up to 2.5 million simultaneous users from around the world.
 
@@ -52,6 +53,7 @@ If you are partial to continuous delivery you also get access to a new build tem
 Those are features, but features are not the immediate value of being on VSO over a standard TFS server. These benefits should allow you to be a lot more agile and progressive in your rollout of new features and now that both the TFS team themselves, and more recently the Windows team, have moved to VSO there is no dough that it can support the scale that is within the context of this post.
 
 ![clip_image002](images/clip_image0026-2-2.png "clip_image002")
+{ .post-img }
 
 VSO is always kept up to date. The reality of the modern application lifecycle is that we all need to adapt more frequently. In the past organisations moving towards a greater degree of business agility have run into something of a glass ceiling where tools, especially enterprise tools, are concerned. As the majority of enterprises are only just waking up to the need for greater agility, most tool vendors have nowhere near the level of flexibility to keep up with what is a small minority of their customers. This gap has widened significantly over the last decade as those already at business agility are totally out-pacing those without. Subsequently tool vendors have started to loose relevance and customers as they fail to meet the new business needs.
 
@@ -86,6 +88,7 @@ There is also a new monthly subscription model, in addition to the MSDN you alre
 There are still a number of features that are available in TFS that are not currently available on VSO. This is due to technological and scale limitations and Microsoft is working to negate them. Each sprint they deliver gets us closer to a more unified experience there. There are however many features of VSO, described above, that will never come to TFS.
 
 ![clip_image003](images/clip_image0036-3-3.png "clip_image003")
+{ .post-img }
 
 The most prevalent feature for enterprises that is missing is the ability to customise the process template. This is not available in VSO as the current implementation under the covers is not really scalable or compatible at that level. Work is underway to resolve this and, as you can see above, is on the backlog as a big rock.
 
@@ -114,6 +117,7 @@ If you have a devision or section of your company registered to trade in the USA
 The TFS team have been working on two important things help. The first is the implementation of VSO in the European data centres. You can now choose to have all of your VSO data stored in Europe rather than the USA. A simple solution to the problem of data protection.
 
 ![clip_image004](images/clip_image0045-4-4.png "clip_image004")
+{ .post-img }
 
 The second is a move towards industry recognised certification. Initially VSO has [certified for ISO 27001](http://aka.ms/vsosecurity) which will give most customers the warm fuzziness that they need to accept cloud, at least technically.
 
@@ -124,6 +128,7 @@ Ultimately the only reason not to embrace cloud services and platforms is unsubs
 If you do have issues when using VSO Microsoft offers [99.9% uptime under their SLA](http://www.microsoft.com/en-us/download/details.aspx?id=42290) and you can, as with all of their products, pay for really fast support.
 
 ![clip_image005](images/clip_image0054-5-5.png "clip_image005")
+{ .post-img }
 
 These options and support levels allow you to be sure that if you have an issue it will be resolved quickly. Can you make those guarantees with your own infrastructure and your teams supporting TFS?
 

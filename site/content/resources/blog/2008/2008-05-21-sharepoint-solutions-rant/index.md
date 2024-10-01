@@ -20,6 +20,7 @@ slug: "sharepoint-solutions-rant"
 <Rant>
 
 T[![image](images/SharePointSolutionsRant_8482-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SharePointSolutionsRant_8482-image_2.png)here needs to be a way to easily build MOSS Solutions in Visual Studio. I know that there are a bunch of bits and pieces available form Microsoft and third parties, but I want an end to end solution.
+{ .post-img }
 
   You should be able to create a SharePoint "Solution" in Visual Studio. Then Add Feature projects to it that can contain many list or site bits with the ability to compile and build the solution file that can be uploaded into SharePoint with out all of this faffing around...
 

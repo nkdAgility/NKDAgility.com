@@ -16,6 +16,7 @@ slug: "hinshelm-vs-fernienator"
 Or me vs my brother-in-law!
 
 ![](images/fernienator-1-1.png)
+{ .post-img }
 
 I think that I am winning!
 

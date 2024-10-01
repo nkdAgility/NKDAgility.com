@@ -35,6 +35,7 @@ If these components are already installed, you can [launch](http://nkdagility.co
 Once you have authenticated as a TFS Collection Administrator using your Microsoft ID to your hosted VSO instance we use the Access Control Service to provision a service identity that you can use for unattended connections to VSO.
 
 [![SNAGHTML85af783](http://i1.wp.com/blog.hinshelwood.com/files/2012/03/SNAGHTML85af783_thumb.png?zoom=1.5&resize=460%2C461 "SNAGHTML85af783")](http://i0.wp.com/blog.hinshelwood.com/files/2012/03/SNAGHTML85af783.png)  
+{ .post-img }
 **Figure: A quick #1, #2 to get your credentials**
 
 http://youtu.be/Fkn6V0\_zz28  
@@ -49,12 +50,14 @@ If you are using Windows 8 you will not get an automatic launch of the applicati
 3. When the security dialog pops up click “More Info”
     
     [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb22.png?zoom=1.5&resize=640%2C268 "image")](http://i1.wp.com/blog.hinshelwood.com/files/2012/03/image22.png)  
+{ .post-img }
     **Figure: Select More Info  
     **
     
 4. Click “Run anyway” to launch the application and add it to the safe list
     
     [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb23.png?zoom=1.5&resize=640%2C270 "image")](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image23.png)  
+{ .post-img }
     Figure;
     
 5. Done

@@ -20,6 +20,7 @@ slug: "are-you-doing-scrum-really"
 ---
 
 [![PSM Front Logo 1](images/Scrum.org-Logo_500x118_thumb-4-4.png "PSM Front Logo 1")](http://blog.hinshelwood.com/files/2011/11/Scrum.org-Logo_500x118.png)This week I was at the ALM Summit in Redmond. There was a very interesting talk from David Starr of Scrum.org going over the recent changes in Scrum. These changes are, I think, designed to battle the things that have made Scrum unpalatable to many people.
+{ .post-img }
 
   
 
@@ -32,12 +33,14 @@ At Northwest Cadence we worked with one team whose Scrum Coach told them that th
 The first change we saw was the publication of the new [Scrum Guide by Ken and Jeff](http://www.scrum.org/scrumguides/) that saw the removal of all of those things that are not part of core Scrum. If you were to buy "Scrum the Board Game" you would not expect the getting started guide to include all of the strategies for playing the game, but instead it would contain the "rules" of how to play.
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/11/image7.png)
+{ .post-img }
 
 **Figure: The rules of the game, not the strategy of how to play**
 
 The [Scrum Guide](http://www.scrum.org/scrumguides/) is just such a distillation of the core principals upon which the Scrum Framework is based. Once you have these core principals under your belt you can move forward with instituted all of those "practices" that will help you do Scrum well. There are many books, blogs and forums to help formulate Strategy and many consultants that will help you with adopting Scrum effectively. (Hint: [http://nwcadence.com](http://nwcadence.com))
 
 [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2011/11/image8.png)
+{ .post-img }
 
 **Figure: You are here!**
 

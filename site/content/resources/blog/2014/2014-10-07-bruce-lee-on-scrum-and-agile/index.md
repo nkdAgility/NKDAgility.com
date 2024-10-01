@@ -17,6 +17,7 @@ slug: "bruce-lee-on-scrum-and-agile"
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.
 
 ![bruce-lee-enterprises-3](images/bruce-lee-enterprises-3-1-1.jpg "bruce-lee-enterprises-3")As an example, here is Bruce Lee on Scrum and Agile:
+{ .post-img }
 
 > I have not invented a "new style," composite, modified or otherwise that is set within distinct form as apart from "this" method or "that" method. On the contrary, I hope to free my followers from clinging to styles, patterns, or moulds. Remember that Scrum is merely a name used, a mirror in which to see "ourselves". . . Scrum is not an organized institution that one can be a member of. Either you understand or you don't, and that is that.
 > 

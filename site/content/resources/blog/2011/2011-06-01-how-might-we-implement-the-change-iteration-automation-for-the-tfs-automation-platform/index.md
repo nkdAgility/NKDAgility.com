@@ -18,6 +18,7 @@ slug: "how-might-we-implement-the-change-iteration-automation-for-the-tfs-automa
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)
+{ .post-img }
 
 As we get organised to start development on the Tfs Automation Platform there is the need to do in-depth investigations into the way things are going to work.
 
@@ -36,6 +37,7 @@ __note: This product is still under development and this document is subject to 
 This story revolves around on of the most common iteration issues. When I progress from working on “\[Team Project\]R1Sprint 1” to working on “\[Team Project\]R1Sprint 2” I have to go through all of the queries that I created in the “Current Iteration” folder and update each of the Queries to reflect the new Sprint.
 
 [![image](images/image_thumb20-1-1.png "image")](http://blog.hinshelwood.com/files/2011/05/image27.png)  
+{ .post-img }
 **Figure: All the “Current Sprint” queries need changed**
 
 Although in this example there are only 6 queries I have worked with teams that have many many queries in this list. I have worked with still more teams that keep creating “Sprint \[X\]” folders and duplicating queries, but that tis another storey.
@@ -46,17 +48,21 @@ If there are many queries (15+) it may take more than a minute to edit them. Tha
 > \-[Michael Ockie Fourie](http://mikefourie.wordpress.com/)
 
 Any use of SQL against the TFS Database would result in your TFS database being in an unserviceable state. Even the Integration Platform is not allowed to do any database work ![Smile](images/wlEmoticon-smile-6-6.png) 
+{ .post-img }
 
 Enter the TFS Automation Platform and one of the core automations of the TFS Iteration Automation project. What we need is a “Change Iteration” option on the menu of Team Explorer…
 
 [![image](images/image_thumb21-2-2.png "image")](http://blog.hinshelwood.com/files/2011/05/image29.png)  
+{ .post-img }
 **Figure: Changing the Iteration should be obvious and easy**
 
 I can now only apologise for my diagrams ![Smile](images/wlEmoticon-smile1-7-7.png) I am not the best drawer. There will likely be some sort of configuration screen where you can select options for enabling this Automation. For example, are you using Area’s as sub projects? If you are then a whole new dimension opens up for having multiple nested queries.
+{ .post-img }
 
 You would also need to be able to select, for each of your Projects (wither they be Team Projects or Area Projects) which folder to use as your “Current Sprint” folder so the system knows which queries to change.
 
 [![image](images/image_thumb22-3-3.png "image")](http://blog.hinshelwood.com/files/2011/05/image30.png)  
+{ .post-img }
 **Figure: Setting the new values for Current Iteration**
 
 When the user selects the “Change” option the application will queue the TfsAutomation.Iteration.ChangeIterationJob on the TFS Job Service for execution.

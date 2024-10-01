@@ -25,6 +25,7 @@ route PRINT
 Now while this is complete gibberish to me I can use it to try and figure stuff out.
 
 ![image](images/image7-2-2.png "image")  
+{ .post-img }
 **Figure: Standard Routes**
 
 This is very annoying as I use WiFi extensively..
@@ -39,6 +40,7 @@ This is very annoying as I use WiFi extensively..
 I have not really figured out what the exact problem is or why it used to work and does not now I have a domain controller as a guest. I have checked the routing table both with those computers off and on and there are no changes.
 
 ![image](images/image8-3-3.png "image")  
+{ .post-img }
 **Figure: Networking Setup in Windows 8 for Hyper-V**
 
 However it worked just fine when I was cabled in so it looked like some difference between the way the Hyper-V handles cable vs WiFi.
@@ -58,6 +60,7 @@ ipconfig /renew
 …Then I see the changes immediately. So I spent an hour or so both on WiFi and on Cable spinning computers up and down and refreshing the network. This is a Wireless issue!
 
 ![image](images/image9-4-4.png "image")  
+{ .post-img }
 **Figure: Now that looks a little complicated**
 
 After a bunch of research it looks like cabled connections are just wired strait through. However WiFi connections are the weird one and they require the “Network Bridge”. Now if we look at the properties for the network bridge it looks like there is a bunch of stuff not configured…
@@ -67,6 +70,7 @@ After a bunch of research it looks like cabled connections are just wired strait
 The solution is to make sure that all of the features for your Network Bridge are configured.
 
 ![image](images/image10-1-1.png "image")  
+{ .post-img }
 **Figure: Default Network Bridge**
 
 Now I want all of those things when I am on a corporate network, so I just ticked all the boxes and OK’ed the warning and wow… everything now works…

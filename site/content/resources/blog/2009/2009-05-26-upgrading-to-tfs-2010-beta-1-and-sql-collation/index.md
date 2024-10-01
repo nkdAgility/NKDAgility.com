@@ -26,10 +26,12 @@ Due to a collation mismatch between my original SQL Server 2005 and my new SQL S
 And then the roll back of the transaction did not quite work as expected, so although the TFS Administration does not know about my OldTfs2008Test1 project collection.
 
 [![image](images/SQLCollationproblemInstallingTFS2010_D181-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SQLCollationproblemInstallingTFS2010_D181-image_4.png)
+{ .post-img }
 
 My client has it listed but with a TF31001 error.…
 
 [![image](images/SQLCollationproblemInstallingTFS2010_D181-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SQLCollationproblemInstallingTFS2010_D181-image_2.png)
+{ .post-img }
 
 Solution? Suck it up and reinstall everything, including SQL and change the collation to the same on both servers. :(
 

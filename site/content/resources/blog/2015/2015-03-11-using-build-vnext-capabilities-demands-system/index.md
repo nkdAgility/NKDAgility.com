@@ -25,16 +25,19 @@ Microsoft has released a CTP of TFS 2015 that includes the vNext build system. Y
 The current build system that shipped in TFS 2005 and has continued through to TFS 2013 and VSO has a tagging system for build agents. You have a Controller that can have many agents attached.
 
 ![clip_image001](images/clip_image0012-1-1.png "clip_image001")
+{ .post-img }
 
 Each agent can be 'tagged' with a set of… well… tags…
 
 ![clip_image002](images/clip_image0023-2-2.png "clip_image002")
+{ .post-img }
 
 You could then open your build definition and add tags that would match the server. You had a "match exactly" or "match any" option.
 
 With Build vNext we get a new system where we add Capabilities to the build agent in the administration section and then add Demands to the build definition that need to match those capabilities. I think that this terminology is a little more specific to the task and make a lot more sense in the context.
 
 ![clip_image003](images/clip_image0032-3-3.png "clip_image003")
+{ .post-img }
 
 So what do we get. Well, when you register a build agent you don’t get to configure any of that stuff. You need to go to the Build vNext tab in the administration section of your server and select an agent. You can see the list of System Capabilities listed above. These capabilities are the ones that the build system has automatically detected. It automatically detects things like Visual Studio version and all the paths where stuff from Microsoft is installed. I am sure that there will be more capabilities added dynamically later, and when a cross-platform agent becomes available you can imagine it detecting things like OSX version or Java folder paths.
 
@@ -43,12 +46,14 @@ I have two agents above and only one of them works. I had a problem with the BLD
 Well I decided to add the OS version as a capability. I would have liked for the agent to detect this but it is not currently listed. BLD01 is Server 2012 R2 and I want to be able to target builds only to that, or other working, agents.
 
 ![clip_image004](images/clip_image0042-4-4.png "clip_image004")
+{ .post-img }
 
 So for each Build vNext Agent I have added a user capability of "OS-Version". On BLD01 I am setting this to "6" to signify 2012 R2, and on BLD02 I am setting it to 10 to signify the technical preview. Now I could be a lot more specific, but this is good enough for now.
 
 Capabilities added I can now focus on the build definition and how we configure it to use the capabilities.
 
 ![clip_image005](images/clip_image0052-5-5.png "clip_image005")
+{ .post-img }
 
 With the current incarnation of Build vNext only available on VSO and at the moment only for early adopters you may see the tab in VSO or you may not. If you don’t, then hang tight and it will be along in a bit.
 
@@ -57,6 +62,7 @@ You can now [create a Build vNext build definition](http://nkdagility.com/create
 If you click the "Add demand" button you will get a new editable blank row where you can enter your own. Here I am adding my "OS-Version" with an "equals" operator and a 6 as the value. That six should make sure that only Build Agents that have a Capability of Server 2012 R2 are used for this build.
 
 ![clip_image006](images/clip_image0062-6-6.png "clip_image006")
+{ .post-img }
 
 If there is no matching build agent then you will be warned when you try to queue the build.
 

@@ -33,6 +33,7 @@ I would recommend that you do one or more dry runs for some of your more complic
 Make really sure you use the version from the [Visual Studio Gallery](http://visualstudiogallery.msdn.microsoft.com/eb77e739-c98c-4e36-9ead-fa115b27fefe) rather than the one Codeplex. While the Codeplex one is newer it is not supported by Microsoft. Always go the fully supported route.
 
 ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+{ .post-img }
 
 When you run the installer it will ask for a SQL Server location. This SQL Server will be used to host the tfs\_Integration database and really should be local to the server. Nothing slows this tool down like a network between you and the DB. I recommend installing [SQL Server Express](http://www.hanselman.com/blog/DownloadVisualStudioExpress.aspx) locally. You need to also make sure that you have at least one version of TFS Client API's installed. You will only be able to select adapters that have access to the relevant API. So if you need the TFS 2010 adapter then you should install the TFS 2010 API's.
 
@@ -60,6 +61,7 @@ To create your first configuration you use the "Create New" link from the left n
 Your first task will be to configure both the source and the destination. Here you select the adapter for the left and right sources. If you do not have the adapter you want listed please refer to 'pain mitigation #2' below.
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+{ .post-img }
 
 Above I have configures both the left and the right source to be different Team Projects but within the same collection. Now, as I am moving between team projects it is possible that I could have the Scrum template on one and the CMMI template on another. While you can create a complex mapping file between the template, and I have had to do this many a time, you should try to avoid it. Use pain mitigation #3.
 
@@ -88,16 +90,19 @@ For that my field map contains some values, specifically my new Company.Team fie
 We can then have a simple, and out only, value map of everything to "OldTeamProject".
 
 ![clip_image003](images/clip_image0032-3-3.png "clip_image003")
+{ .post-img }
 
 If you are only configuring Work items then you can click start and execute the migration. Note that you can't delete work items per say. So once you migration you are done with no do-over. Technically you can use the Power Tools to delete one work item at a time however that is a little bit cumbersome if you have just pushed 30k work items and need to delete them. To help out I created a command line tool to [delete work items from TFS or VSO](http://nkdagility.com/delete-work-items-tfs-vso/).
 
 ![clip_image004](images/clip_image0042-4-4.png "clip_image004")
+{ .post-img }
 
 Again I have done tones of migrations and consolidations this way and while it is never what you might call 'fun' it can and does do the job. The results can be mixed but if you persevere and learn the tool you can make magic.
 
 Note: I would only recommend this for more than.. Say… 1000 work items to migrate. Less than 1000 you should consider a flat Excel migration.
 
 ![clip_image005](images/clip_image0051-5-5.png "clip_image005")
+{ .post-img }
 
 I currently have 14 teams that have all migrated into a single team project. Some of those teams were already in TFS and needed to come across into a single Team Project. Others had [work items in Excel or SharePoint](http://nkdagility.com/import-excel-data-into-tfs-with-history/) or Quality Centre.
 
@@ -124,10 +129,12 @@ That can be a considerable length of time if you have a lot of check-ins, howeve
 Note Really you should do everything in you power to convince folks that they just need the 'tip'. No-one, really needs history.
 
 ![clip_image006](images/clip_image0061-6-6.png "clip_image006")
+{ .post-img }
 
 In order to do a migration you have to add mapping like you can see above to the list. In this case I am trying (I failed by the way, with the ItemNotFoundException exception I mentioned) to change the layout of the source. For some reason many applications and branches ended up under the R1.0 folder on the left and we really want each application to have a R1 folder. I have done this before successfully but unfortunately this set of source is managed and worked on by 6 ALM consultants that think that they are smart (yes, I am in there too) and thus the migration failed. Sometime that’s just tough and you have to find another way forward. In the case of this source I just repeated it without the multi-mapping.
 
 ![clip_image007](images/clip_image0071-7-7.png "clip_image007")
+{ .post-img }
 
 When you migrate your source and work items together the Integration Platform will maintain the relationships between the code and work. This can be invaluable and is worth maintaining if at all possible.
 

@@ -31,11 +31,13 @@ Add to that the demand from Development Teams to be able to have many times the 
 Are you ready to rise to the challenge?
 
 [![ Virtual Lab is part of the ALM Infrastructure that make it all happen](images/image_thumb33-1-1.png " Virtual Lab is part of the ALM Infrastructure that make it all happen")](http://blog.hinshelwood.com/files/2012/09/image33.png)  
+{ .post-img }
 **Figure: Virtual Lab is part of the ALM Infrastructure that make it all happen**
 
 The advent of automated testing and virtualisation has gone a long way to help teams circumvent some of the complexities that building modern interconnected applications has brought. Indeed the Visual Studio 2012 platform has been designed to help these Development and Operational teams take back the team rooms and not just catch up, but get out ahead of the curve and deliver the value that the companies and consumers so desperately desire. Visual Studio 2012 Team Foundation Server has continued to improve and simplify the Development Teams needs by integrating with Hyper-V directly.  However Hyper-V is but one of the many virtualisation platforms available on the market and there is ample room for partners to pick up the slack. Microsoft is putting its skills to work where it is needed most: in enhancing its own platform integration and providing the API’s necessary for partners with expertise and dedication to other platforms to flourish in that space.
 
 [![Virtual Labs are required as the modern application is always connected](images/image_thumb34-2-2.png "Virtual Labs are required as the modern application is always connected")](http://blog.hinshelwood.com/files/2012/09/image34.png)  
+{ .post-img }
 **Figure: The modern application is always connected**
 
 These modern applications that we are envisaging and consumers (including your employees) are demanding are increasingly difficult to simulate as they are:
@@ -96,11 +98,13 @@ While we can never get away from having to redo much of our automation when the 
 There are three main integration points for any Virtual Lab environment to weave itself into the Visual Studio Team Foundation Server systems. We start with Creation move on to Deployment and end up at Testing.
 
 [![Virtual Lab Integration points with Visual Studio 2012](images/image_thumb35-3-3.png "Virtual Lab Integration points with Visual Studio 2012")](http://blog.hinshelwood.com/files/2012/09/virtual-labs-in-the-modern-application-lifecycle-workflow.png)  
+{ .post-img }
 **Figure: Virtual Lab Integration points**
 
 In each of these flows of integration there are three levels that the vendors can achieve. The first two already exist but the last would require some additional API’s in the product to support. One of the reasons that the team has not built these in is that there are currently no partners trying to integrate at this level.
 
 [![Virtual Labs are part Team Foundation Server Overview](images/image_thumb36-4-4.png "Virtual Labs are part Team Foundation Server Overview")](http://blog.hinshelwood.com/files/2012/09/image36.png)  
+{ .post-img }
 **Figure: Team Foundation Server Overview**
 
 Conversely partners need to know what the goal of integration is in order to support modern application development so that they can rise to the challenge and encourage the product team to prioritise those PBI’s that achieve these capabilities.
@@ -146,6 +150,7 @@ The only currently supported virtualisation technology underpinning Lab Manager 
 ### Solution: Hyper-V (OOB)
 
 The implementation of Lab Management that comes out of the box is with Hyper-V. This is designed for teams building software that is deployed locally on Microsoft technologies. For most teams it will suit there needs even if they are used to implementing VM Ware as this new environment is dedicated to the development teams. You would not expect there to be a copy of TFS that runs on Oracle ![Smile](images/wlEmoticon-smile2-6-6.png)
+{ .post-img }
 
 The integration of Lab Management and Hyper-V from the product team also augments many of the base capabilities to
 

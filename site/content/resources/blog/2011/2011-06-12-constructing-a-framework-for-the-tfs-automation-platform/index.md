@@ -14,6 +14,7 @@ slug: "constructing-a-framework-for-the-tfs-automation-platform"
 ---
 
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.
+{ .post-img }
 
   
 
@@ -30,6 +31,7 @@ This method also allows us to both version and release the Automations separatel
 While I intend to keep the Automation Platform as simple as possible, that does not mean that it actually is simple. There are really three parts to the Platform that need to be installed separately, but Mike’s help we should be able to have a unified installer.
 
  [![image](images/image_thumb12-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image12.png)  
+{ .post-img }
 **Figure: The Platform needs to be very structured**
 
 If you are eagle eyed you will see that we are going to be using WIX, Silverlight and the new Architectural tooling in Visual Studio 2010 Ultimate.
@@ -39,6 +41,7 @@ If you are eagle eyed you will see that we are going to be using WIX, Silverligh
 The Store is like a big database of assets. In this case the assets are the Plugins that are available for TFS Administrators to install on their servers. This will be written in Silverlight 5 and can be hosted in IIS or Azure. Hopefully we will be providing a hosted version on Azure, but those with extreme security concerns may install it locally in IIS.
 
 [![image](images/image_thumb13-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image13.png)  
+{ .post-img }
 **Figure: A simple model**
 
 Hopefully as we move forward with new versions we can implement more to provide a culture and ecosystem around the store, but our initial goal is to deliver something that works. Lets worry about gold plating later.
@@ -48,6 +51,7 @@ Hopefully as we move forward with new versions we can implement more to provide 
 This handles all of the grunt work of downloading, installing, Deploying, retracting and configuring plugins. Must be installed on the Application Tier.
 
 [![image](images/image_thumb14-4-4.png "image")](http://blog.hinshelwood.com/files/2011/06/image14.png)  
+{ .post-img }
 **Figure: Very Similar to the Store for now**
 
 The Admin section handles all of the magic of configuring and auctioning all of the Plugins. 
@@ -61,6 +65,7 @@ A hook to provide deep Visual Studio integration. Is optional, but lets you quic
 As we will be building a number of OOB (Out Of the Box) Automations it makes sense for us to build them as part of a single solution. This is just for ease of development and if we do have a separation of teams then we may end up with separate solutions. But for now it is easier with just one. We will however need to be careful not to reference between them as one could be deployed without the other.
 
 [![image](images/image_thumb15-5-5.png "image")](http://blog.hinshelwood.com/files/2011/06/image15.png)  
+{ .post-img }
 **Figure: Where do the files go?**
 
 I will be looking more at the Plugins layout later, and how you can start building Plugins now. I will be upgrading my [TFS Event Handler](http://tfseventhandler.codeplex.com) project code to this platform soon.
@@ -70,6 +75,7 @@ I am trying very hard to make it easy to develop for this platform. I don’t th
 Now that everything is checked in, I will be encouraging my team mates to explore the solution.
 
 [![SNAGHTML5342ea](images/SNAGHTML5342ea_thumb-6-6.png "SNAGHTML5342ea")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML5342ea.png)  
+{ .post-img }
 **Figure: Lots of lovely places to put code**  
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.

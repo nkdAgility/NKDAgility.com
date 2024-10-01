@@ -17,10 +17,12 @@ slug: "advice-on-using-xamribbon-with-composite-wpf"
 ---
 
 [![image](images/AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_2.png)
+{ .post-img }
 
 If, like me, you are interested in using all the new fangled controls produced by every man and his dog, you will probably have come across the [Infragistics](http://infragistics.com) WPF control. My mission, that I stupidly accepted, was to update the [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBuddy.aspx) application with their [XamRibbon](http://www.infragistics.com/dotnet/netadvantage/wpf/xamRibbon.aspx) and [XamDockManager](http://www.infragistics.com/dotnet/netadvantage/wpf/xamdockmanager.aspx) controls, and anything else I can stuff in there.
 
 ![](images/pnp.gif)
+{ .post-img }
 
 The “anything else” I decided to use was the [Composite WPF](http://www.codeplex.com/CompositeWPF) guidance. This is a newer WPF version of the Client Application Block (CAB) packages provided by the Patterns and Practices teams at Microsoft.
 

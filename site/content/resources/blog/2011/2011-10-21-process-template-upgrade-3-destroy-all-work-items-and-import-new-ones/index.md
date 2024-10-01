@@ -14,6 +14,7 @@ slug: "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones"
 ---
 
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")
+{ .post-img }
 
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved.  Lets look at the #3 option from that set in a little more detail.
 
@@ -43,6 +44,7 @@ This will allow you to move from one process template to another, but there are 
         TFS 2010 added the ability to have Query folders. Here is hoping that we get them on Builds as well in the future.
         
         [![image](images/image_thumb6-1-1.png "image")](http://blog.hinshelwood.com/files/2011/05/image8.png)
+{ .post-img }
         
         **Figure: The folder will store all of the old queries**
         
@@ -51,6 +53,7 @@ This will allow you to move from one process template to another, but there are 
         Luckily we can drag and drop Queries within the same Team Project.
         
         [![image](images/image_thumb7-2-2.png "image")](http://blog.hinshelwood.com/files/2011/05/image9.png)
+{ .post-img }
         
         **Figure: All of your queries are now saved**
         
@@ -59,6 +62,7 @@ This will allow you to move from one process template to another, but there are 
         We have at least one Team Project that was created with the new template (TfsCustomisations), and even more luckily we can drag and drop Queries between Team Projects.
         
         [![image](images/image_thumb8-3-3.png "image")](http://blog.hinshelwood.com/files/2011/05/image11.png)
+{ .post-img }
         
         **Figure: Shiny new Queries are now waiting for the team**
         
@@ -67,6 +71,7 @@ This will allow you to move from one process template to another, but there are 
     You will need to add the new reports to TFS, but unfortunately while there is drag and drop support for moving reports within a Team Project there is no way to drag them _into_ a Team Project, but there his a command line tool to support this. However, prior to running it you should again create a “\_2008Archive” folder to load all of the existing reports into. Again there may be a bunch of custom reports in there that the team does not want to loose. Once you have done that you can call the command line option to install the new templates
     
     ![image](images/image1-4-4.png "image")
+{ .post-img }
     
     **Figure: Put all existing reports under “\_2008Archive”**
     

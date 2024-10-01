@@ -14,6 +14,7 @@ slug: "southparkify-simpsonize-better-with-both"
 ---
 
 [![image](images/SouthparkifySimposonizebetterwithboth_DA8A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SouthparkifySimposonizebetterwithboth_DA8A-image.png)
+{ .post-img }
 
 [This](http://www.sp-studio.de/) is a little more representative of me than the Simpsonize one! Thanks [Will](http://geekswithblogs.net/MOSSParadox/archive/2007/07/30/Simpsonize-Me-Bah.aspx "Southparkify / Simposonize : better with both!")...
 

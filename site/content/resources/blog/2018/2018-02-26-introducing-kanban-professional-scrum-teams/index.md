@@ -28,6 +28,7 @@ Also Check out:
 Now you can not only learn Scrum from those that created and maintain it, but you can add the Kanban Method from those that developed it as well. This new class show how to take the core practices of Kanban and implement them within the context of Professional Scrum without changing Scrum. I have already posted on how you [can flow work across the Sprint boundary](https://nkdagility.com/work-can-flow-across-sprint-boundary/) and that was a direct learning from me attending this class.
 
 ![](images/nkdagility-scrum-and-kanban-1900-800x400-1-2.png)
+{ .post-img }
 
 This is a 2 day class that also has an assessment that will earn you a PSK certification. I'll be teaching this class in combination with [Chris McDermott](https://www.linkedin.com/in/chrisvmcd/), founder of Lean Agile Scotland, to bring some much needed Kanban team experience to the class. While I have significant experience with Scrum teams, I have only worked with a few Kanban teams.
 

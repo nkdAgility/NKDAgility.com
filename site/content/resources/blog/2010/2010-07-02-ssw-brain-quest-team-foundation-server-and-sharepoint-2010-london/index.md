@@ -18,6 +18,7 @@ slug: "ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london"
 ---
 
 ![thumb_SharePoint_and_TFS_2010](images/SSWBrainQuestTeamFoundationServerandShar_955C-thumb_SharePoint_and_TFS_2010_-4-4.jpg)If you are unable to commit to the 5 day [Professional Scrum Developer](http://blog.hinshelwood.com/archive/2010/06/18/professional-scrum-developer-.net-training-in-london.aspx) course we are holding in London, [Adam Cogan](http://www.ssw.com.au/ssw/Employees/EmployeesProfile.aspx?EmpID=AC) is running his famous [Brain Quest](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx) 1 day session on Wednesday 21st July.
+{ .post-img }
 
 This full day training course brings developers up-to-speed on the new features and benefits of Visual Studio 2010 Ultimate, Team Foundation Server 2010 and SharePoint 2010. With detailed insight into project management, requirements gathering, user stories, testing, workflow, document management and Office integration, attendees will leave with a strong understanding of how to embrace [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 and SharePoint 2010 in their organization.
 
@@ -30,6 +31,7 @@ This course is split into two parts and you can attend one (£61.08) or both (£
 These two sessions are fantastic and for the price I think you will find it difficult to argue that it is over priced.
 
 [![image](images/SSWBrainQuestTeamFoundationServerandShar_955C-image_-2-2.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
+{ .post-img }
 
 Here is a break down of the [SSW Brain Quest: Team Foundation Server and SharePoint 2010](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx) and agenda for the day.
 
@@ -115,6 +117,7 @@ This is a good chance for you to consider new ways of using Office in your compa
 2:00pm - 6:00pm  with a 15 minute break.
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
+{ .post-img }
 
 
 

@@ -19,6 +19,7 @@ As you will know from my previous [post](http://blog.hinshelwood.com/archive/200
 I now have the hotfix specified by [Brian Keller](http://blogs.msdn.com/briankel/archive/2007/04/14/Configuring-Visual-Studio-2005-Team-Foundation-Server-with-Windows-SharePoint-Services-3.0.aspx "Configuring Visual Studio 2005 Team Foundation Server with Windows SharePoint Services 3.0") for my Team Explorer client that allows me to communicate with WSS3.0, but I am still having a problem with my sub site attempts!
 
 Hey Brian, you said "try it and see", so I did, but it only half works ![](images/regular_smile.gif).
+{ .post-img }
 
 AT the moment I am getting the error:
 

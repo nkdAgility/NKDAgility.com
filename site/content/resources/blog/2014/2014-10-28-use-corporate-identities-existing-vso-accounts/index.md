@@ -31,10 +31,12 @@ Your Microsoft ID (was Live ID) mush match your corporate ID to be able to maint
 Not only can you [use multiple email alias with your existing Microsoft ID](http://nkdagility.com/using-multiple-email-alias-existing-microsoft-id/) but you can consolidate accounts. This allows you to associate your work account with your existing identity, and to migrate an existing work account over. It does take 30 days to do the migration though.
 
 ![clip_image001](images/clip-image0014-1-1.png "clip_image001")
+{ .post-img }
 
 If you log into your Azure with your OrgId you should see your Active Directory configuration listed. This was created by the Office 365 folks if you are on a more small scale service like me, or it may be integrated with your local Active Directory.
 
 ![clip_image002](images/clip-image0024-2-2.png "clip_image002")
+{ .post-img }
 
 If you select "Active Directory | \[Your Directory\] | Users" you should see a list of all of the users that have been configured for access. You will need to add future users of VSO here and then specifically licence them on VSO. You can however add both your own domain accounts and you can add foreign principals.
 
@@ -45,6 +47,7 @@ Foreign principals is a feature within the control of your AD administrators
 The foreign principals feature allows you to add accounts from other directories as well as Microsoft ID's to give them access. I have a feeling that this will go a long way to enabling my long requested feature of being able to have single-sign-on across organisations for consultants and contractors. Can you imagine being able to go onsite at a customer and just use your existing Windows Login to access their network. Awesome….
 
 ![clip_image003](images/clip-image0034-3-3.png "clip_image003")
+{ .post-img }
 
 In this case you should head over to the users tab in Visual Studio Online and make sure that each of the users there has an account created in your AD. There is no simple way to do this, but if you select a user with your mouse and Ctrl+C you get a two row table, with headers, that you can paste into notepad and extract the bits that you want. Namely, name and email address. This really needs an export option.
 
@@ -67,30 +70,37 @@ That done you can now go ahead and link your VSO account to your Azure account. 
 Now that you have configured your Active Directory you need to Link your existing VSO account to your Azure account before we can configure anything.
 
 ![clip_image004](images/clip-image0043-4-4.png "clip_image004")
+{ .post-img }
 
 If you head to the "Visual Studio Online" node in Azure you should see a "Create or Link to a Visual Studio Online Account". If you don’t have one then this is the time to create one. However I already have a VSO account that I created way back when this was TFS Preview. If you select your VSO account from the populated list and make sure you associate it with your MSDN benefits Subscription.
 
 ![clip_image005](images/clip-image0053-5-5.png "clip_image005")
+{ .post-img }
 
 You should now see your new or existing VSO account listed above. It is now possible to enable unlimited build and to integrate with the Azure Active Directory service. If you don’t see the one you want you can click “Add” at the bottom of the screen and you will be asked to Add or associate.
 
 ![clip_image006](images/clip-image0063-6-6.png "clip_image006")
+{ .post-img }
 
 Select the account that you want to integrate and go to the "Configure" tab. Here you can connect to the appropriate AAD. At this point you should make sure that you have added all of the accounts that you want to continue to have access. Anyone that is not a foreign principal or an actual AD account will not have access after this. Easy to fix later, but you need to know why they don’t have access.
 
 ![clip_image007](images/clip-image0072-7-7.png "clip_image007")
+{ .post-img }
 
 I am linking directly into my AAD created for Office 365 and creating a seamless integration across the board. Once you click the tick Microsoft will go off and convert your VSO to an AAD integrated one.
 
 ![clip_image008](images/clip-image0082-8-8.png "clip_image008")
+{ .post-img }
 
 If you now hit your account you will get automatically signed out of your Microsoft ID (MSA) and presented with the Login Screen.
 
 ![clip_image009](images/clip-image0092-9-9.png "clip_image009")
+{ .post-img }
 
 Here you should pick your Organisational ID to now login with. You may get a screen saying that it failed on the logout. If this ins the case try just hitting your account again. Sometimes it did work, just MSA getting a little confused. If not go to [http://accounts.live.com](http://accounts.live.com) and actually logout. That should do it…
 
 ![clip_image010](images/clip-image0102-10-10.png "clip_image010")
+{ .post-img }
 
 VSO now identifies me as my Organisational ID and not my Microsoft ID (MSA).  Now my account has been migrated. Just as it would be if you [run the change identities command](http://nkdagility.com/batched-domain-migration-with-tfs-while-maintaining-identity/) from TFS.
 

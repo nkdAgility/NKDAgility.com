@@ -26,11 +26,13 @@ This processes will, depending on the version of TFS that you are upgrading fro
 Luckily the TFS Product Team think of everything and have provided a wizard that works in 90% of cases.
 
 ![image](images/image41-1-1.png "image")  
+{ .post-img }
 Figure: Open “Team Project | Control Panel”
 
 You need to go to your Team Projects Control Panel by clicking on the little cog on the top right of Web Access, right next to your name.
 
 ![image](images/image42-2-2.png "image")  
+{ .post-img }
 Figure: Click “Overview | Project Profile | Configure features”
 
 I am not sure about the placement and discoverability of this panel, but then it is a preview and they may stick it somewhere else. I would like to see a “Features” hub where I can enable and disable features and maybe a dismissible call to action near the heading for enabling things that are new.
@@ -43,11 +45,13 @@ Anyhoo, you can click “Configure features” to get started.
 Note If you are coming from TFS 2008 or TFS 2010 you will get a much more prominent “Configure features” option as none of the Boards will work without configuring.
 
 ![image](images/image43-3-3.png "image")  
+{ .post-img }
 Figure: Discover which features to configure in Team Foundation Server 2013
 
 The configure features in Team Foundation Server 2013 wizard will then let you know what features will be configured. You can see here that I am coming from a Team Foundation Server 2012 instance as I already have most of those features enabled. Go ahead and verify…
 
 ![image](images/image44-4-4.png "image")  
+{ .post-img }
 Figure: Check the Process Template match before you configure features in Team Foundation Server 2013
 
 When you verify the configure features in Team Foundation Server 2013 wizard will identify which process template best matches so that it can load the settings from that template. If you get an error at this point because it can’t match the Process Template then you may need to manually configure and there will be a link on the screen to do that.
@@ -55,11 +59,13 @@ When you verify the configure features in Team Foundation Server 2013 wizard wil
 - [Issue \[ TFS 2013 Preview \] TF400654: Unable to configure Planning Tools](http://nkdagility.com/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools/ "TF400654: Unable to configure Planning Tools")
 
 ![image](images/image45-5-5.png "image")  
+{ .post-img }
 Figure: Congratulations
 
 And that's it.. you are done…
 
 ![image](images/image46-6-6.png "image")  
+{ .post-img }
 Figure: Start using your new features
 
 At this point you should now have access to the new awesome features. Now go play…

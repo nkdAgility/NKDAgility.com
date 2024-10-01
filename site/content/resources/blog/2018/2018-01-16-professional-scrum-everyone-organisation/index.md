@@ -22,6 +22,7 @@ Recently I worked with a new customer in Denver to help them move towards a grea
 Healthgrades have been doing Scrum for about 8 years but has recognised that they are struggling to [organise around the delivery of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/). Like every other company, once you have something as complex as software to work on, and knowledge workers to do it, [the old management styles of the 20th century](https://nkdagility.com/professional-organisational-change-ghana-police-service/) are just like pouring water on a fat fire…
 
 ![image](images/image-1-1.png "image")
+{ .post-img }
 
 This is a common problem that I train Scrum Masters to respond to in the [Professional Scrum Master (PSM)](https://nkdagility.com/training/courses/professional-scrum-foundations/) class, but the fundamental understanding of why this is wrong takes both practical and theoretical knowledge grounded in actual experience. This is why the Professional Scrum Foundation (PSF) class [requires that students work in teams to build working software](https://nkdagility.com/professional-scrum-training-ghana-police-service/).
 

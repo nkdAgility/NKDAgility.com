@@ -18,6 +18,7 @@ I was asked recently to review The Professional Scrum Masters Handbook. As I rea
 If you were beside me in the gym when I shouted “Noooooo”, “That is the dysfunction”, or “you can’t fix that that way” then I am sorry. If you make it past chapter four however there are some very helpful tips and tricks.
 
 [![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CFJGKZS&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=martinhinshe-20)](http://www.amazon.com/gp/product/B00CFJGKZS/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CFJGKZS&linkCode=as2&tag=martinhinshe-20)
+{ .post-img }
 
 I would however recommend this book for Project Managers that are new to realities and mechanics of the new processes and techniques involved. If you read [What is the role of the Project Manager in Scrum](http://nkdagility.com/what-is-the-roll-of-the-project-manager-in-scrum/), and you decided on Scrum Master then this is an awesome introductory book. The practices described in this book will most definitely help, just watch out for the land mines.  Let me explain…
 
@@ -59,6 +60,7 @@ Sad but true…
 ## Conclusion
 
 [![](http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CFJGKZS&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=martinhinshe-20)](http://www.amazon.com/gp/product/B00CFJGKZS/ref=as_li_ss_il?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CFJGKZS&linkCode=as2&tag=martinhinshe-20)
+{ .post-img }
 
 If you are a Project Manager moving to Scrum then this book will help you with the transition to a new way of thinking. Remembering that this is an embodiment of the mechanics and not the principals.
 

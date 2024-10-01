@@ -18,8 +18,10 @@ slug: "professional-scrum-foundations-coming-to-glasgow-scotland-in-november-201
 ---
 
 ![PST-Badge-v2-web-transparent](images/PST-Badge-v2-web-transparent-4-4.png "PST-Badge-v2-web-transparent")For too long has Scotland been ignored in Professional  Scrum Training. I am not sure if there has ever been a Scrum.org course held here as I could not find one and the last time Ken was here was way back in 2004.
+{ .post-img }
 
 ![flag-scotland](images/flag-scotland-1-1.png "flag-scotland")Back in 2009 Ken Schwaber decided to leave the Scrum Alliance and head out on his own to build an organisation that is based on the values that he felt that they had lost. I got involved in early 2010 with the Professional Scrum Developer beta Train-the-Trainer event in Sydney.
+{ .post-img }
 
 The courses from Scrum.org are not just about teaching the mechanics of the Scrum Framework. The standard curriculum used by all Scrum.org trainers drives consistent quality in training, messaging, and coaching. By having a standard library of courseware shared by all trainers, companies can ensure that they are receiving the same high-quality training content from every trainer in every course around the world. And, that course material is collaboratively maintained by all trainers to create a network effect of improvement shared by each and every trainer. This consistent message eliminates confusion that would otherwise impede progress.
 
@@ -42,6 +44,7 @@ If you are looking to create a wide understanding of Scrum within your organisat
 ## Professional Scrum Master (2 days)
 
 ![PSM](images/PSM-400x-3-3.png "PSM")
+{ .post-img }
 
 For: Scrum Masters interested in understanding the advanced techniques of Scrum
 
@@ -54,6 +57,7 @@ If you are experienced at Scrum and are looking to move more towards process coa
 ## Professional Scrum Developer (3 day)
 
 [![PSD_Badge](images/PSD_Badge_thumb.png "PSD_Badge")](http://nkdagility.com/wp-content/uploads/2013/09/PSD_Badge.png)
+{ .post-img }
 
 For: Coders, Testers, Analysts, and anyone else working on a Development Team
 

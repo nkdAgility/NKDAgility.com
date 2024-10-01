@@ -22,6 +22,7 @@ slug: "visual-studio-11-upgrade-health-check"
 With the launch of [Visual Studio 11 Team Foundation Server Beta](http://blog.hinshelwood.com/announcing-visual-studio-11-beta-will-launch-on-february-29th/) and the Go-Live licencing model you can go into production now. But what if you are not quite ready?
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image.png)  
+{ .post-img }
 **Figure: Go-Live with Visual Studio 11 with our help**
 
 With the success of the [Scrum Health Check](http://blog.hinshelwood.com/are-you-doing-scrum-find-out-with-a-scrum-health-check/) we are expanding the family of Health Check offerings. We will come in and help your teams understand what they need to do to move to both Visual Studio 11 & Visual Studio 11 Team Foundation Server.

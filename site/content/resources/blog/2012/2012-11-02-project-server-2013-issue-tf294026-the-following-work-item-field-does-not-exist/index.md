@@ -26,6 +26,7 @@ slug: "project-server-2013-issue-tf294026-the-following-work-item-field-does-not
 When you try to upload the default field mappings for Project Server 2013 integration with Team Foundation Server 2012 you can encounter a TF294026: The following work item field does not exist error.
 
 [![TF294026: The following work item field does not exist](images/image_thumb26-1-1.png "TF294026: The following work item field does not exist")](http://blog.hinshelwood.com/files/2012/11/image26.png)  
+{ .post-img }
 **Figure: TF294026: The following work item field does not exist**
 
 With the message:
@@ -45,6 +46,7 @@ You are unable to continue without fixing…
 Project Server requires that you have data for Remaining Work, Completed Work and Original Estimate for it to function correctly.
 
 [![The Task Work Item Type only includes Remaining Work](images/image_thumb27-2-2.png "The Task Work Item Type only includes Remaining Work")](http://blog.hinshelwood.com/files/2012/11/image27.png)  
+{ .post-img }
 **Figure: The Task Work Item Type only includes Remaining Work**
 
 The Visual Studio Scrum Process Template however does not include these as they are not required for Scrum.

@@ -21,6 +21,7 @@ Due to the decimation of the oil prices one of my larger customers has had to ca
 I usually have engagements booked out up to 3 months in advance and that makes for some difficult conversations with potential customers that want me onsite within two weeks. I have been trying to limit any one customer to no more than 2 consecutive weeks to mitigate this, but customers can be demanding. I did have an engagement booked in Oslo for February. I was going to be migrating over 20 Team Projects into a single uber Team Project. I was really looking forward to it… then a barrel of oil dropped to below $50…
 
 ![clip_image001](images/clip_image0015-1-1.png "clip_image001")
+{ .post-img }
 
 I have been working with a large customer in the oil and gas industry and if you are following the news you will not be surprised to know that they need to push our engagement back by a few months. It happens…
 

@@ -41,6 +41,7 @@ But is you use:
 The required bit of which is the useDefaultCredentials parameter that passes the logged on users credentials on to the proxy server.
 
 ![smile_regular](images/smile_regular-2-2.gif) Now all I need to do is get the double-hop authentication to work...
+{ .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
 

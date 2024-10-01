@@ -19,6 +19,7 @@ slug: "product-owners-are-not-a-myth-2"
 ---
 
 ![PST Logo 2](images/PST-Logo-2-4-4.png "PST Logo 2")[Steven Borg](http://blog.nwcadence.com/author/stevenborg/) brought "[5 Reasons Why a Product Owner Team Might Be a Good Idea](http://blog.scrumphony.com/2011/10/5-reasons-why-a-product-owner-team-might-be-a-good-idea/)" to my attention which in turn lead me to read "[Is Scrum a –ism that doesn’t work for real?](http://www.marcusoft.net/2011/10/is-scrum-dead-is-scrum-aism.html)", and for me there seams to be a certain amount of “missing the point” and I wanted to try to find it.
+{ .post-img }
 
 * * *
 
@@ -47,6 +48,7 @@ Being a Product Owner is a management role that does not involve managing people
 When I am working with organisation on Scrum Adoptions I find it very easy to identify who the Product Owner **_should_** be with more difficulty involved in getting that person to accept that responsibility. I usually let the company lead themselves to the correct understanding of how that should happen as they are the ones that are best placed to figure it out.
 
 > We do Scrum but we use a Proxy Product Owner from IT because the Product Owner does not have time to be available for the team so the Proxy makes the decisions for the Product Owner and only gets their input when it is a big decision. ![o_Error-icon](images/o_Error-icon-2-2.png "o_Error-icon") **Bad ScrumBut – Proxy PO’s never work out**
+{ .post-img }
 
 I occasionally end up with a **Proxy Product Owner** and while this is defiantly a “ScrumBut” that results in the businesses order not being reflected in the backlog it is all too common. While, like all “ScrumBut” this has a negative result, as long as everyone understands the negative result and accepts it transparently then at least we can move on. The organisation will figure out evenly why it is not recommended but sometimes things need to learned rather than told.
 
@@ -57,6 +59,7 @@ I don’t think that any part of Scrum negates the possibility of having a team 
 I can think of many circumstances where you may have both Project Managers and Business Analysts that work for the product Owner and provide some of the extra capacity that they may need because their backlog is too big.
 
 > We do Scrum but our Product Owner can’t understand and order the entire backlog because it contains over 900 items so the Product Owner has a team of Business Analysts to help him bring the important ones to surface **![o_Tick-icon](images/o_Tick-icon-3-3.png "o_Tick-icon") Good ScrumBut - Although 900 items is too much overhead**
+{ .post-img }
 
 My current customer has one product with over 900 items in their backlog. This would be impossible for a Product Owner to fully understand by themselves. They would need minions that can analyse that list and surface the most relevant items for the Product Owners consideration and ordering at the top of the backlog. Does this sound slightly like a Business Analyst roll to anyone else?
 

@@ -53,6 +53,7 @@ All is not lost however as we can, by looking at our history of delivery for sim
 The best thing we can then do is to expend effort to make that forecast as accurate as possible while accepting that more time spent planning does not necessarily affect the accuracy of that forecast.
 
 ![image](images/image80-1-1.png)  
+{ .post-img }
 Figure: Diminishing returns from [Agile Estimating – Estimation Approaches](http://leadinganswers.typepad.com/leading_answers/2007/11/agile-estimatin.html)
 
 Ultimately Software Development is a creative endeavour and has the same lack of predictability that painting a picture, writing a book or making a movie has. Yet movies get made all of the time. How can that possibly be! Well, they have a Director ([Product Owner](/the-2020-scrum-guide/#product-owner)) that has a bunch of money and a delivery plan, a Producer (Scrum Master) to make sure that everyone has the skills, knowledge and assets available at the right time and place and one or more Units (Scrum Teams) that have all of the skills necessary to turn the Directors ideas into a working movie. They create Storyboards of what they expect to create so that they can run it past the stakeholders and get feedback. They take those storyboards to the Units who collaboratively work together with the stunt, prop, lighting, camera, sound and wardrobe crews to get estimates and costs and ultimately coordinating to create the movie. Sometimes they don’t know how to do stuff and have to have a go and see what they get.

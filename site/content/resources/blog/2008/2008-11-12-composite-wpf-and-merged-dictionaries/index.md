@@ -23,6 +23,7 @@ If, like me, you like to have changeable resource files in your application. Wit
 The new version of the [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBuddy.aspx) uses both!
 
 [![image](images/CompositeWPFandMergedDictionaries_9AD7-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CompositeWPFandMergedDictionaries_9AD7-image_2.png)
+{ .post-img }
 
 I am using the built in Infragistics theme system, and the first time you select a theme I am just adding a resource file that overrides the default:
 

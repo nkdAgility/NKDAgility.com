@@ -25,6 +25,7 @@ I headed out to the Summit and Amanda (from Northwest Cadence) dropped my orders
 So I stuck one in my suitcase to deal with later and opened one for me. First thing I did was install Windows 10, and everything went well for a while until I got a dreaded blue screen.
 
 ![clip_image001](images/clip-image0011-1-1.jpg "clip_image001")
+{ .post-img }
 
 > Recovery
 > 
@@ -67,11 +68,13 @@ So, this time I did not install Windows 10. I spent all week this week on Window
 - **Modern in a Window** - On a small tablet this sucks (re Dell Venue 8) but on a desktop replacement that I mostly use with keyboard and mouse.  
       
     ![clip_image002](images/clip-image0026-2-2.png "clip_image002")  
+{ .post-img }
       
     
 - **Mini modern start menu** - This is touch and go. I really like the full screen start menu, but the largest screen I use is my Surface 3. I have seen folks using it on a 32" screen and it is more like a punch in the face.
     
     ![clip_image003](images/clip-image0035-3-3.png "clip_image003")
+{ .post-img }
     
 
 At the beginning of the week I reached out to some contacts in MSFT to see if we could not figure out the USB issue. I found that \[Clement\] also had the same issue and while was able to use Recovery Mode was unable to get his surface to boot from USB either. So that’s 3 for 3.
@@ -100,6 +103,7 @@ I am not sure where this came from but when I renamed my USB to "BOOTME" sure en
 In not a single one of these methods does the USB get named "BOOTME". Ahh, well… never mind… Now we all know.
 
 ![clip_image004](images/clip-image0044-4-4.png "clip_image004")
+{ .post-img }
 
 So if you are wanting to boot your Surface Pro 3 from a USB you need to make sure that the device you want to boot from is labelled "BOOTME".
 

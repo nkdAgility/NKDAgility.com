@@ -22,6 +22,7 @@ slug: "tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql
 When running the installer for TFS 2012 you get an TF255507 error with the following error message.
 
 [![image](images/image_thumb40-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image40.png)  
+{ .post-img }
 **Figure: TF255507 The security identifier (SID) for the following SQL Server login conflicts**
 
 If you look in the log file you will see a little additional information:
@@ -68,6 +69,7 @@ sqlcmd -E -S "Kraken" -Q "ALTER LOGIN [WIN-EO45N4FNSOCAdministrator] WITH NAME =
 **Figure: Run this on the SQL Server to fix**
 
 [![image](images/image_thumb41-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image41.png)  
+{ .post-img }
 **Figure: Rerun Readiness Checks**
 
 Once you have run the command you can “rerun Readiness Checks” to clear out the error.

@@ -28,6 +28,7 @@ Note: I usually use a custom CSV adapter that I created for the TFS Integration 
 I looked at a few tricks to use the existing functions to create my data but it just really became too complicated. It was too easy to make mistakes in the complicated mess that is excel nested functions. If I was using my CSV adapter it creates an HTML table for all of the fields and values and writes it into the history for… well… history.
 
 ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+{ .post-img }
 
 I wanted to do the same so I cracked open one of my long forgotten skills… VBA. I know, I know.. It filled me with dread as well. However it was Farley simple to create a table by iterating over the columns and rows to get at the juicy data and return a simple table.
 
@@ -93,6 +94,7 @@ You can easily reference the row of a table that you are on using the "@" symbol
 That sounds simple but it was a lot of documentation to wade through to get to that simple result.
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+{ .post-img }
 
 Now that I have a way to create the history field all I have to do is create a query in TFS with the same columns as the ones I want to import, plus the History column of course.
 

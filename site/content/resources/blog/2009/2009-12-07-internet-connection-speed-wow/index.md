@@ -23,6 +23,7 @@ With my new job at [SSW](http://bit.ly/5oZrwI "SSW - Sydney's Leading Custom Sof
 Now I thought it would be fast, but OMG:
 
 [![image](images/Speed_A1AE-image_thumb-3-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Speed_A1AE-image_2.png)
+{ .post-img }
 
 I just downloaded Project 2010 in under 3 minutes… Did you notice the important figure in the image above?
 
@@ -47,16 +48,19 @@ And that's not the fastest it was ripping Project from the Microsoft site, it wa
 **Before upgrade (was on 20mbs):**
 
 [![SpeedTest.net Before (2)](images/Speed_A1AE-SpeedTest.net-Before-2_thumb-4-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Speed_A1AE-SpeedTest.net-Before-2_2.png)
+{ .post-img }
 
 **After Upgrade (now on 50mbs):**
 
 [![644659208](images/Speed_A1AE-644659208_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Speed_A1AE-644659208_2.png) 
+{ .post-img }
 
 (Update 07/12/2009)
 
 it just gets better and better:
 
 [![image](images/Speed_A1AE-image_thumb_1-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Speed_A1AE-image_4.png)
+{ .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SSW](http://technorati.com/tags/SSW)
 

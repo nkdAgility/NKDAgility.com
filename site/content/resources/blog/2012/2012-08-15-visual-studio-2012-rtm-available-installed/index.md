@@ -26,6 +26,7 @@ With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.micr
 Do not fear this upgrade. If you are moving from TFS 2010 this is a simple upgrade although there are many new features and a brand new Web UI. Even from TFS 2008 this is a fairly straight forward and well documented process.
 
 [![image](images/image_thumb47-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image47.png)  
+{ .post-img }
 **Figure: New Web Access for Team Foundation Server**
 
 If your organisation relies heavily on the Web UI provided by Team Web Access, and your teams are not highly adaptable,  then you may want to take a look and think about some training before you roll it out as it looks and operates very differently.
@@ -35,6 +36,7 @@ In addition while it will work out-of-the-box you may want to think about [how y
 ### Experiences installing Visual Studio 2012 BETA
 
 [![VS11-Beta_h_rgb](images/VS11-Beta_h_rgb_thumb-5-5.png "VS11-Beta_h_rgb")](http://blog.hinshelwood.com/files/2012/08/VS11-Beta_h_rgb.png)
+{ .post-img }
 
 Even the Beta release came with a go-live licence and while this provided full support from Microsoft we only had one customer take up the Beta mantel and they moved to the Team Foundation Service Preview and not an on-premises install.
 
@@ -48,6 +50,7 @@ Moving to the Beta was a leap of faith, but it paid off for anyone that tried it
 ### Experiences installing Visual Studio 2012 RC
 
 [![vsip-logo-2012](images/vsip-logo-2012_thumb1-6-6.png "vsip-logo-2012")](http://blog.hinshelwood.com/files/2012/08/vsip-logo-20121.png)
+{ .post-img }
 
 The RC was provided with a go-live licence as well and many of our customers took advantage of it. Here are the documented scenarios within which I participated although it does not represent all of the installs that Northwest Cadence completed.
 
@@ -67,6 +70,7 @@ Moving from the RC to the RTM will be as easy as running the new install and hav
 ### Issues
 
 [![puzzle-issue-problem-128-link](images/puzzle-issue-problem-128-link_thumb-4-4.png "puzzle-issue-problem-128-link")](http://blog.hinshelwood.com/files/2012/08/puzzle-issue-problem-128-link.png)
+{ .post-img }
 
 While I had very few issues while installing, configuring and upgrading to Visual Studio 2012 Team Foundation Server you can never get away without having at least some issues. Here are the main things that I documented:
 
@@ -83,6 +87,7 @@ While I had very few issues while installing, configuring and upgrading to Visua
 If you are currently running any version of Team Foundation Server you should be looking at upgrading as soon as possible to take advantage of the awesome new features.
 
 [![image](images/image_thumb48-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image48.png)  
+{ .post-img }
 **Figure: New feature for continuous value delivery**
 
 Forget the unbelievably cool features that made it into TFS 2010, these are the cool features that you have been waiting for:

@@ -40,6 +40,7 @@ We have to accept the fact that no process is perfect and that we will need to w
 Most of the Agile Frameworks only cater for planning the ‘what’ and tells you to let the team decide on ‘how’ to build the software. Scrum, Kanban & Scaled Agile all focus on the Management process not the engineering practices. This does not mean that you don’t also need good engineering practices, and in fact the [Scrum Guide](http://www.scrum.org/Scrum-Guides) explicitly tells you that your team needs “good engineering practices’ in order to succeed.
 
 ![image](images/image46-1-1.png "image")  
+{ .post-img }
 **Figure: Testing is core to inspecting and adapting your engineering practices**
 
 If you don’t have those good engineering practices then you will spend more time sprint on sprint struggling with the technical debt that is built up and you will end up down an engineering blind ally.
@@ -73,6 +74,7 @@ Now I am not talking about that flaccid rendition of working software that lead 
 But if we do get into that state then you are in the very same ‘brownfield’ situation as software that have been built over years with no unit tests. So if the primary goal now is working software that meets our customers expectations and we augment our Definition of Done to reflect that then we will be delivering less features of higher quality.
 
 ![image](images/image47-2-2.png "image")  
+{ .post-img }
 **Figure: There is [1000% return of investment for every test written in TDD](https://www.sugarsync.com/pf/D057810_69933305_087616)**
 
 While we are still paying back our excessive build up of technical debt, using those engineering practices that will prevent future build up, we will be delivering less value to the customer.

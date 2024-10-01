@@ -26,11 +26,13 @@ Why do you care you might ask… well I will tell you.
 Usually we store our build drops on a network share. As part of a build you have always (with Team Foundation Service) been able to store those build drops inside of your Version Control repository… and this has been both a blessing and a curse.
 
 ![image](images/image17-1-1.png "image")  
+{ .post-img }
 **Figure: Copy build output to the following source control folder.**
 
 It allowed us to remove the dependency on a network share to store our drop files and more importantly it results in our drop folders being backed up with the same rigor as TFS.
 
 ![image](images/image18-2-2.png "image")  
+{ .post-img }
 **Figure: Drops in version control**
 
 Unfortunately it also meant that  we clogged up our version control repository with files and sometimes big files. When files are added to a versioned repository there are a lot of computing power used to figure out versions and deltas and other need things, but for a drop folder we don't need those.
@@ -42,11 +44,13 @@ Worse when you want to remove old stuff you need to call a “[destroy](http://m
 To the rescue comes an un-versioned repository for storing your build drops.
 
 ![image](images/image19-3-3.png "image")  
+{ .post-img }
 **Figure: Copy build output to the server**
 
 By editing your build definition and changing the staging location for your build defaults to the new option you can remove all of your files from Version Control and have them stored somewhere else. Select “Copy build output to the server” to enable this feature.
 
 ![image](images/image20-4-4.png "image")  
+{ .post-img }
 **Figure: Download from un-versioned repository in TFS 2012**
 
 Now when we click “Open Drop Folder” we get redirected to the build page in Team Web Access and are presented with a “Download drop as zip”.
@@ -67,6 +71,7 @@ tf destroy $/TfsExtensions/Drops /collection:https://mrhinsh.visualstudio.com/de
 This will completely remove all of the files from source control and eradicate them from history.
 
 ![image](images/image21-5-5.png "image")  
+{ .post-img }
 **Figure: Destroy a folder from TFS version control**
 
 While heavy handed it does clean up things nicely.

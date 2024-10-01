@@ -52,12 +52,16 @@ To fix:
 
 1. I opened “**Internet Information Services (IIS) 6.0 Manager**” on the server.  
     ![clip_image001](images/a0127b4e14f2_116A4-clip_image001_3-1-1.jpg)
+{ .post-img }
 2. Expanded and then right click on “**\[SMTP Virtual Server #1\]**” and select “**Properties**”  
     ![image](images/a0127b4e14f2_116A4-image_6-4-4.png) 
+{ .post-img }
 3. Select the “**Delivery**” Tab and then “**Advanced**”  
     ![clip_image003](images/a0127b4e14f2_116A4-clip_image003_3-2-2.jpg)
+{ .post-img }
 4. Enter “**_company.com_**” in the “**fully-qualified domain name**” field.  
     ![image](images/a0127b4e14f2_116A4-image_5-3-3.png) 
+{ .post-img }
 5. Click “ok” and then “ok” to save the changes
 
 You should now be able to send emails from your site without any problems.

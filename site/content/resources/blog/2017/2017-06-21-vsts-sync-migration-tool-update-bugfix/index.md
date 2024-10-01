@@ -18,6 +18,7 @@ slug: "vsts-sync-migration-tool-update-bugfix"
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.
 
 [![Chocolatey](https://camo.githubusercontent.com/30eda87c074e892c7b2126ffd0e6b1d3da7f710d/68747470733a2f2f696d672e736869656c64732e696f2f63686f636f6c617465792f762f767374732d73796e632d6d69677261746f722e737667)](https://chocolatey.org/packages/vsts-sync-migrator/)
+{ .post-img }
 
 For those that are using TFS and VSTS since the demise of the TFS Integration Tools there has been a gap that has only been filled by commercial tools. For a while I have been shipping the [VSTS Sync Migration tool](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) as a stop gap measure until more features are available out of the box. If you are looking to:
 
@@ -35,6 +36,7 @@ We have also had a number of awesome contributions from the community of users t
 We are working on the documentation, and folks struggle with the concept of the ReflectedWorkItemId that we use for tracking what you have already processed. Hopefully we can make some changes to fix this in the future.
 
 [![Chocolatey](https://camo.githubusercontent.com/30eda87c074e892c7b2126ffd0e6b1d3da7f710d/68747470733a2f2f696d672e736869656c64732e696f2f63686f636f6c617465792f762f767374732d73796e632d6d69677261746f722e737667)](https://chocolatey.org/packages/vsts-sync-migrator/)
+{ .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
 

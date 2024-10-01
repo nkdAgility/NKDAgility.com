@@ -28,20 +28,24 @@ If you are planning to use this in a production environment please consider usin
 I will probably not be doing any documentation for this version, but I will be updating frequently as I will be using it on my production server and building Event handlers for it.
 
 [![image](images/TFSEventHandlerCTP1Released_F2A4-image_thumb-3-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_2.png)
+{ .post-img }
 
 The Client application allows you to connect to any TFS Event Handler and see what the status is. Please note that there is a bug that occurs when you add a new team server that means that it never authenticates. Once you have added it, close the UI and reopen it to solve the problem. Oh, and don't click the "refresh" button (I said the UI was rough).
 
  [![image](images/TFSEventHandlerCTP1Released_F2A4-image_thumb_1-1-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_4.png)
+{ .post-img }
 
 It will take time to augment the UI and I have quite a few ideas in that regard. One of my goals is to allow the upload of "Packages" that contain all the files  necessary to run en Event Handler that might well have supporting files, like html templates for emails...
 
 At the moment the server component runs in a form, but that will eventually be a service.
 
 [![image](images/TFSEventHandlerCTP1Released_F2A4-image_thumb_2-2-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_6.png)
+{ .post-img }
 
 Hopefully buy the end of next week I will have a version of the service stable enough to run as a service, and a version of the UI integrated with Visual Studio 2008.
 
 Well, that's the plan... ![smile_nerd](images/smile_nerd-5-2.gif)
+{ .post-img }
 
 Edited for bad English and down right sloppiness... Made me sound like English was not my first language...
 

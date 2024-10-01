@@ -36,6 +36,7 @@ So in order to identify actions we need to look at some things we might identify
 
 - **We get a flat burndown**  
     [![SNAGHTMLc5b675a](images/SNAGHTMLc5b675a_thumb-2-2.png "SNAGHTMLc5b675a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5b675a.png)  
+{ .post-img }
     **Figure: What does a flat burndown mean?**
     
     This might be because we just forgot, or it might be representative of a tooling issue or even a team issue that exists.
@@ -50,6 +51,7 @@ So in order to identify actions we need to look at some things we might identify
         
 - **We get a perfect burndown, but delivered nothing**  
     [![SNAGHTMLc5cb8e3](images/SNAGHTMLc5cb8e3_thumb-3-3.png "SNAGHTMLc5cb8e3")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5cb8e3.png)  
+{ .post-img }
     **Figure: All of the Tasks were complete**
     
     This is likely to be because we have too much work in progress at any one time. We have 10 Stories in progress and get to the end of the Sprint with all of our Stories 90% complete.
@@ -63,6 +65,7 @@ So in order to identify actions we need to look at some things we might identify
         
 - We will not get done on time  
     [![SNAGHTMLc5fc66a](images/SNAGHTMLc5fc66a_thumb-4-4.png "SNAGHTMLc5fc66a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5fc66a.png)  
+{ .post-img }
     **Figure: When will we be done?**
     
     This can be because we do not know everything at the start of the Sprint. Can a lawyer tell you exactly how long your case will take and what it will cost? No, so why would you expect something like software to?

@@ -34,6 +34,7 @@ Note If you want to only enable the new features in your existing process templa
 When you upgrade your TFS instance to a new version it does not upgrade the process for any of your existing Team Projects. It is kind of like building a house from blueprints. Once it is built and you have been living in it how happy would you be if the original builder came back and switched the rooms around?
 
 [![image[2]](images/image2_thumb-1-1.png "image[2]")](http://nkdagility.com/files/2013/06/image210.png)  
+{ .post-img }
 Figure: Feature Backlog is missing from Agile Planning tools
 
 My favourite features in TFS 2013 is the Agile Portfolio Management tools and unless you create a new project you will not get them. I am sure that the product team will include a wizard to add the features once 2013 matures but for right now we need another solution. Indeed when the product team do provide a solution they are usually ‘injecting’ the new features into your already existing template. This means that you don’t get the new template… just the new features. I prefer getting the new template…
@@ -53,16 +54,19 @@ Note No, there is no version of the Power Tools that currently works with Visual
 To get going we need to first download the latest version of the Process Template that we want to move to. In this case it is the Visual Studio Scrum 3.0. To do that we need to use Visual Studio 2013 Team Explorer and be familiar with the WitAdmin.exe tools (remember no Process Template Editor yet and the 2012 tools cant work with the new features.)
 
 ![image](images/image47-2-2.png "image")  
+{ .post-img }
 Figure: Use “Team Explorer | Connect” to pick a Team Project
 
 We need to be connected to the Team Foundation Server 2013 that we want to get the Process Template from and the easiest way to do this is to connect to any Team Project in the list.
 
 ![image](images/image48-3-3.png "image")  
+{ .post-img }
 Figure: Go to “Team Explorer | Home | Settings”
 
 While you marvel at the new cleaner UI head on over to the “Settings” option for your project.
 
 ![image](images/image49-4-4.png "image")  
+{ .post-img }
 Figure: Go to “Process Template Manager | Microsoft Visual Studio Scrum 3.0 – Preview | Download”
 
 We then need only to open the Process Template Manager and download the Process Template to the desktop. If you just select “desktop” the tool will create a folder of the same name as the process template.

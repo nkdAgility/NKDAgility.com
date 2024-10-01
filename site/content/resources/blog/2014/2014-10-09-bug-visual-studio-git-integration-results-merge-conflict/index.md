@@ -28,6 +28,7 @@ I am trying to move them to a much more supportable model and for that I am movi
 More on that later, but for now I have been running into an issue with merge conflicts in Git when coders try to Pull from the server. It seems that whatever workflow they are used to when they follow it in Git they get a "libgit2.Catagory = FetchHead (MergeConflict)" message that adds that there are 3 conflicts that prevent a checkout. While my first thought is that they have uncommitted changes locally this is not the case. They maybe have 2-3 local commits and no outstanding uncommitted changes.
 
 ![clip_image001](images/clip-image0013-1-1.png "clip_image001")
+{ .post-img }
 
 While this should be able to be handled it is not and I have 50 coders hitting it reputedly. The only way I have found so far to resolve the issue is to move their changes onto a temporary branch and rollback the local copy of the server branch. This allows them to do a Pull and then merge their local branch changes across.
 

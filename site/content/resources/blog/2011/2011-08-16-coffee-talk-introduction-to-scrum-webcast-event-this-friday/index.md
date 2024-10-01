@@ -19,6 +19,7 @@ slug: "coffee-talk-introduction-to-scrum-webcast-event-this-friday"
 ---
 
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-3-3.png "NWC tagline logo_transparent")
+{ .post-img }
 
 If you attended [Coffee Talk: Scrum versus Kanban (re-match) … Thursday at High Noon!](http://blog.hinshelwood.com/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon/) where I trumped Steven Borg's Kantban or even Steven’s session on [Coffee Talk: Introduction to Kanban](http://introtokanban-eorg.eventbrite.com/) then you should also attend this…
 
@@ -34,6 +35,7 @@ I will be delving into more detail on Scrum with an in depth look into the roles
 > \-** [Coffee Talk: Introduction to Scrum](http://introtoscrum.eventbrite.com/)
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 **Figure:** [**Coffee Talk: Introduction to Scrum**](http://introtoscrum.eventbrite.com/)
 
 I am hoping that we can we can have some serious discussion on the agile practices and the process that has captivated a generation of developers.

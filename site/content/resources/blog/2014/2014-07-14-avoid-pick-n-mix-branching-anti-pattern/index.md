@@ -20,6 +20,7 @@ The pick-n-mix branching anti-pattern is something I encounter quite often and o
 For the last few release they had noticed that they had been missing things from the release and this had resulted in some major bugs and egg of the face of IT. This is obviously not acceptable and they were looking for advice on how to move forward. There current source code management model was not working for them.
 
 ![clip_image001](images/clip_image0011-1-1.jpg "clip_image001")
+{ .post-img }
 
 In their current model they were doing something that I like to call pick-n-mix branching. In the diagram above you can see the pick-n-mix branching anti-pattern where in scenario #1 we are leaving behind some of the changeless. However in scenario #2 we are taking a couple of changeless that are dependant on some things that were left behind. This may result in a compile time error, or worse in the case of a website or some asset types. What if these were SQL changes... How hard would it be to debug why the development code line works and Test does not. Worse again when you compound the result and this happens over many years it may work out for a while but even just a year down the line how much code is there in development that was never pushed to test. And how to you know which is which when you are adding new features to development?
 
@@ -35,6 +36,7 @@ On small projects with few developer this can work. I even had a customer that c
 The pick-n-mix branching anti-pattern is used as a crutch for poor planning. The solution for this is a single branch line and using feature flippers (toggles) to determine what code is run. However this requires engineering work and cannot be turned on with a switch. It will take some time, often a considerable amount of time, to engineer into the product. The only way to mitigate this in the short term is to switch to a Feature branching model.
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+{ .post-img }
 
 In a Feature branching model we have single main (or trunk) line with multiple branches for each feature. Features are one or more things that will ship together. There will be no pick-n-mix and everything on that feature line will merge to the 'main' line at the same time. This will require a little more planning as you need to separate your features early. And a little more coordination from your management to make features distinct. This however gives you the capability to continue to release some features and not others without changing your code too much.
 
@@ -46,6 +48,7 @@ There are still a few downsides:
 In an ideal world you need to change your code, using agile engineering practices, to allow you to be able to turn any feature off at any point in the release cycle. This would allow you to not ship a new feature as late as the day of release (or later) without having to rebuild, change a single line of code, or run your full regression again. When you are able to do this then you can move to a more advanced branching model where you maintain either a single source line, or for business reasons you may have a step structure for major releases.
 
 ![clip_image003](images/clip_image0031-3-3.png "clip_image003")
+{ .post-img }
 
 In the step model you go back and fix bugs on the oldest version that you support that has the bug. You can then push forward from parent to child in the clear safety of never having to choose between bugs and new features.
 

@@ -35,10 +35,12 @@ There seams to be a problem in MSBuild when you add an “Accessor” as part of
 An Accessor allows your test project to access code that would normally be “Private” or “Friend” from outside the Assembly that it resides in.
 
 [![image](images/TFSErrorMSB4018TheBuildShadowTasktaskfai_EDA9-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSErrorMSB4018TheBuildShadowTasktaskfai_EDA9-image_2.png)
+{ .post-img }
 
 It creates a little file with the “.accessor” extension that is the same name as your DLL, and contains the name of the DLL.
 
 [![image](images/TFSErrorMSB4018TheBuildShadowTasktaskfai_EDA9-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSErrorMSB4018TheBuildShadowTasktaskfai_EDA9-image_4.png)
+{ .post-img }
 
 If you remove this file then your remote MSBuild server will then build you solution successfully again including running your Unit Tests.
 

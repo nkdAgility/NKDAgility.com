@@ -20,6 +20,7 @@ slug: "are-scrum-masters-agents-for-change"
 ---
 
 ![nwc_logo_tagline](images/nwc_logo_tagline3-7-7.png "nwc_logo_tagline")![PSM Logo 2](images/PSM-Logo-2.png "PSM Logo 2")If you are interested in finding out more about Scrum and how to implement it you might be interested in the Professional Scrum Master certification. Think of it not as becoming a “Master” of anything, but just making sure that you are not going to be a danger to those around you.
+{ .post-img }
 
  
 
@@ -32,6 +33,7 @@ The Scrum Master track is a little like your driving test. it does not tell you 
 The Scrum Master is the person that would be evangelising Scrum to the rest of your organisation so, kind of like the Retrospective meeting, is core to your organisations ability to adopt Scrum.
 
 ![evangelistboy](images/evangelistboy-2-2.jpg "evangelistboy") **Figure: No, not that kind of Evangelist… kind of.**
+{ .post-img }
 
 So, why would you want to sit through a 2 day course. Well, there are a number of reasons, first of which is that you will need a certain number of people with a firm understanding of what you are about. Even if that is just to allow them to tell you that [Scrum is hard to adopt and disruptive to your organisation](http://blog.hinshelwood.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/). If that is all that you learn then it will be a valuable lesson.
 
@@ -40,6 +42,7 @@ If you can change slowly you should probably look at a more sedate change method
 You need to build up knowledge in your “change agents” or create them if you do not already have them in order to help them understand how they will implement Scrum. It is not good enough to take the folks that are new to your organisation, send them on the PSM and have them implement the change. This will lead to failure. Although these new individuals will tend to be those with the most availability, they are not going to understand how the new technics are going to be applied in YOUR organisation. Nor will they have the experience to understand where many of the challenges will be…
 
 ![2928830920_f694a21200](images/2928830920_f694a21200-1-1.jpg "2928830920_f694a21200") **Figure: The old warriors really do know best**
+{ .post-img }
 
 Instead take your longest serving, battle hardened folks and send them. Once they understand the ability that Scrum provides to change quickly and get results it will be difficult to hold them back. if you can’t teach an old dog new tricks then you are just not trying hard enough. Its about learning new approaches and applying them to the same old problems. If you don’t know what the same old problems are then it can be difficult to avoid them.
 

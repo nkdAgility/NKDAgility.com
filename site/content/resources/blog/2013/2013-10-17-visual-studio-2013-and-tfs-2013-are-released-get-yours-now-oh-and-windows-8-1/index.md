@@ -32,6 +32,7 @@ Although the launch event will not be until November 13th in New York this is ce
 - Update If you have an MSDN Subscription then you already have a licence for VS 2013. If you just have Visual Studio Pro you can [upgrade for $99](http://www.microsoft.com/visualstudio/eng/buy), for a limited time.
 
 ![image](images/image_thumb8-1-1.png "image")  
+{ .post-img }
 Figure: Gartner Magic Quadrant
 
 With what Visual Studio & TFS 2013 bring to Visual Studio ALM I don’t see this changing any time soon.

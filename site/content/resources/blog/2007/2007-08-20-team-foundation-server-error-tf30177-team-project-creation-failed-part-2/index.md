@@ -64,14 +64,17 @@ From this message I have highlighted the meaningfully parts in bold. These are t
 Now the default setup for Sharepoint is that there is a managed path called "Sites" that sits under the main directory and this is the default for creating sub sites using [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"). But in this case there is already a site created in Sharepoint called "Sites" that is a portal to the other sites in Sharepoint including site maps and the like. (try your equivalent of [http://rddotnettech.amrs.win.rddotnet.com/sites/](http://rddotnettech.amrs.win.rddotnet.com/sites/) to see what is there. You will also need to check the Sharepoint Administration site for the settings. To do this you need to go to the Sharepoint Administraion site:
 
 [![image](images/TeamFoundationServerErrorTF30177ProjectC_D920-image_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamFoundationServerErrorTF30177ProjectC_D920-image.png)
+{ .post-img }
 
 And click on "Application Management" and then on "Define managed paths".
 
 [![image](images/TeamFoundationServerErrorTF30177ProjectC_D920-image_thumb_1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamFoundationServerErrorTF30177ProjectC_D920-image_1.png)
+{ .post-img }
 
 You should then see a list of the defined managed paths for the particular application (1) and you can change the application that you are looking at (2).
 
 [![image](images/TeamFoundationServerErrorTF30177ProjectC_D920-image_thumb_2-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TeamFoundationServerErrorTF30177ProjectC_D920-image_2.png)
+{ .post-img }
 
 What needs to be done is to choose a new managed path as this one is taken and to add it to the Sharepoint server. Make sure that you check the server for sites of the same name, you could use "TFSProjects" so as not to get an overlap.
 

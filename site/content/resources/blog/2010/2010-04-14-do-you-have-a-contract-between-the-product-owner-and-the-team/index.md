@@ -22,6 +22,7 @@ slug: "do-you-have-a-contract-between-the-product-owner-and-the-team"
 ---
 
 ![RulestoBetter](images/SSWScrumRules_C6B7-RulestoBetter_-3-3.gif)Working in Scrum it is useful to define a Sprint Contract between the Product Owner (PO) and the implementation Team. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.
+{ .post-img }
 
 Update 14th April 2010
 
@@ -37,6 +38,7 @@ This is simply an agreement between the PO for one Sprint and is not really a co
 Each of the Sprints in a Scrum project can be considered a mini-project that has Time (Sprint Length), Scope (Sprint Backlog), Quality (Definition of Done) and Cost (Team Size\*Sprint Length). Only the scope can vary and this is measured every sprint.
 
 ![image](images/SSWScrumRules_C6B7-image_-2-2.png)
+{ .post-img }
 
 **Figure: Good Example, the product owner should reply to the team and commit to the contract**  
 

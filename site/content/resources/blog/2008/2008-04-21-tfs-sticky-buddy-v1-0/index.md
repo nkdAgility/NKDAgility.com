@@ -20,6 +20,7 @@ slug: "tfs-sticky-buddy-v1-0"
 This is the first [full release](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) of the [TFS Sticky Buddy application](http://www.codeplex.com/TFSStickyBuddy) written in VB.NET 9 and WPF with Visual Studio 2008 Team Suit.
 
 [![image](images/TFSStickyBuddyv1.0_8FC3-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv1.0_8FC3-image_2.png)
+{ .post-img }
 
 The application provides a graphical view of TFS Work Items and allow user to navigate round either the Area (Codeplex Component) or Iteration (Codeplex Release) tree. It displays all the work items loaded (by selecting a Team Query) on the node, colour coded by Work Item State.
 

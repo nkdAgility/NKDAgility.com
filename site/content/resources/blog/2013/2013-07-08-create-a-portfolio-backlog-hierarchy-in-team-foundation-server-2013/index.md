@@ -25,6 +25,7 @@ There are many reasons that you would want to Create a Portfolio Backlog hierarc
 You can have a hierarchy five items deep with a parent child relationship between them. You will get a backlog for each one as well as cumulative flow and a board. This is awesome as you may have, for instance, Goals that break down into Feature. These goals would be the company or product goals and the features would be those things that go to achieve them.
 
 ![Only have Features by default](images/image10-1-1.png "Only have Features by default")  
+{ .post-img }
 Figure: Only have Features by default
 
 In order to add a level to the hierarchy we need to customise a Work item Type, the Work Item Categories and the Processing Configuration:
@@ -58,6 +59,7 @@ These command will create feature.xml, catagories.xml and a processingconfig.xml
 I am going to make things a little bit easy for me and just copy the Feature type and rename it to Goal. The simplest way to create a new work item type is to diff from an existing one and Feature has the layout that I want to start with.
 
 ![image](images/image5-2-2.png "image")  
+{ .post-img }
 Figure: Changes to make for Goal
 
 In order to make a new Work Item Type you need only change the name and then import the file. However there in a “Implementation” tab that shows, for Features, the child Product Backlog Items. We need to also change this to load child features instead and feature is going to the be child of Goal.
@@ -135,6 +137,7 @@ You could obviously customise this work item type to your hearts content and now
 To create a portfolio backlog we need a custom category so that we can use that for the portfolio backlog.
 
 ![image](images/image6-3-3.png "image")  
+{ .post-img }
 Figure: Adding a custom category for Goal
 
 A  category can have multiple Work Item Types listed but only one default. This means that you could have multiple Work Item Types for different sorts of Goals. I am however trying to keep this simple…
@@ -201,6 +204,7 @@ A simple category that holds a single work item type is fairly easy to create. J
 There are three things that we need to do in order to create the new portfolio backlog for Goals in the Team Web Access site.
 
 ![image](images/image7-4-4.png "image")  
+{ .post-img }
 Figure: Customising the Process Configuration for Portfolio Backlogs
 
 We need to not only add the new portfolio backlog above but also set the parent property on child portfolio backlog and optionally set a colour for our Goals cards and lists.
@@ -301,6 +305,7 @@ DONE
 We now have a lovely green Goal work item type that sits on its own backlog and is ordered above Features.
 
 ![image](images/image8-5-5.png "image")  
+{ .post-img }
 Figure: Viewing Tasks from the lofty heights of Goals
 
 Customising the hierarchy for Portfolio Backlogs is easy and the hard part is making sure that you are making the correct change.

@@ -50,6 +50,7 @@ If you get that top-down involvement you can often accelerate the move to a grea
 Now that we have our vision we need to be able to enact it. Time and again Scrum has proven, worldwide and consistently, to deliver on the 'twice the features in half the time', promise and it can be used not only for delivering a product but also for delivering change within your organisation.
 
 ![image](images/image-1-1.png "image")
+{ .post-img }
 
 In order to enact our vision, we need a continuous improvement cycle where we:
 
@@ -74,6 +75,7 @@ Key to moving forward at a sustainable and consistent pace is a guiding coalitio
 If your organisation is large then we may want to break our guiding coalition along the lines of the below Practice Domains and have a separate and relevant guiding collision that is accountable for that domain and for working together with the other domains to achieve the vision.
 
 ![image](images/image1-2-2.png "image")
+{ .post-img }
 
 When you have a large enterprise or even just a large part of that enterprise, it is essential to make sure that you make progress in each of the practice domain identified above. Sometimes that will mean that you need to have a separate and focused guiding coalition for each of the diagnostic practice domains. This will enable progress, in parallel, across each of the disciplines.
 

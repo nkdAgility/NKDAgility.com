@@ -22,6 +22,7 @@ As organisations move towards modern management practices there will be less of 
 <figure>
 
 ![](images/2021-02-04_12-48-28-1-1.png)
+{ .post-img }
 
 <figcaption>
 
@@ -44,6 +45,7 @@ There is a belief that the Scrum Master is the Scrum Team's manager or maybe a S
 <figure>
 
 ![](images/image-2-2.png)
+{ .post-img }
 
 <figcaption>
 

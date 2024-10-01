@@ -18,6 +18,7 @@ slug: "move-your-active-directory-domain-to-another-server"
 I was trying to install TFS 2013 yesterday and I found that my local demo domain was not working. After a little investigation It looks like I was running Windows Server 2012 R2 Preview and it had just expired.
 
 ![image](images/image-1-1.png "image")  
+{ .post-img }
 Figure: Can’t install TFS if your domain is not working
 
 So for the second time I had to navigate the treacherous jungle that is moving an Active Directory domain from one server to another. Changing your primary domain controller (PDC) is no simple task but if you hunt around ling enough on the internet you can pull together enough information to get it done.

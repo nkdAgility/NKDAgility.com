@@ -12,6 +12,7 @@ slug: "the-windows-vista-ultimate-element"
 ---
 
 [![The Windows Vista Ultimate Element](images/070130_the_vista_ultimate-1-1.gif)](http://blaugh.com/2007/01/30/the-windows-vista-ultimate-element)
+{ .post-img }
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
 

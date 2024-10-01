@@ -74,6 +74,7 @@ Anyway, this issue was about the maven release perform stage where my build that
 This understandably results in a failed build/release. Not only did this one take a while to understand I had to consult with an awesome Java expert in the form of [Corstijan Kortsmit](http://nl.linkedin.com/pub/corstijan-kortsmit/74/ba2/a9b/en) who identified the solution in about three seconds. It was one of those "Oh… that… you just…" sort of answers.
 
 ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+{ .post-img }
 
 If you head over to the configuration of your build and look for a section entitled "Build Environment". Here there are two important sections. We have a couple of boxs to put additional command line parameters for the maven release plugin. We need to add at least a "-DworkingDirectory" parameter with a specific folder for where to do the get.
 

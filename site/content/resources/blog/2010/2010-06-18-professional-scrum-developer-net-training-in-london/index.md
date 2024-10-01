@@ -20,6 +20,7 @@ slug: "professional-scrum-developer-net-training-in-london"
 ---
 
 ![SSWLogo](images/ProfessionalScrumDeveloperTraininginLond_CC39-SSWLogo_-7-7.png)On the 26th - 30th July in Microsoft’s offices in London [Adam Cogan](http://courses.scrum.org/about/adam-cogan) from SSW will be presenting the first [Professional Scrum Developer](http://www.scrum.org/professionalscrumdeveloper/) course in the UK. I will be teaching this course along side Adam and it is a fantastic experience. You are split into teams and go head-to-head to deliver units of potentially shippable work in four two hour sprints.
+{ .post-img }
 
   
 
@@ -30,23 +31,29 @@ Update 05th July 2010 – One lucky attendee will be getting a copy of MSDN Ulti
 * * *
 
 ![ProfessionalScrumDeveloper_200px[3]](images/ProfessionalScrumDeveloperTraininginLond_CC39-ProfessionalScrumDeveloper_200px3_-6-6.png)
+{ .post-img }
 
 The Professional Scrum Developer course is the only course endorsed by both Microsoft and [Ken Schwaber](http://en.wikipedia.org/wiki/Ken_Schwaber) and they have worked together very effectively in brining this course to fruition. This course is the brain child of [Richard Hundhausen](http://blog.hundhausen.com/), a Microsoft Regional Director, and both Adam and I attending the Trainer Prep in Sydney when he was there earlier this year. He is a fantastic trainer and no matter where you do this course you can be safe in the knowledge that he has trained and vetted all of the teachers. A tools version of Ken if you will ![Wink](images/ProfessionalScrumDeveloperTraininginLond_CC39-wlEmoticon-wink_2-10-10.png)
+{ .post-img }
 
   
 [![LondonCallToAction[1]](images/ProfessionalScrumDeveloperTraininginLond_CC39-LondonCallToAction1_-4-4.png)](http://www.ssw.com.au/ssw/events/Scrum-Training-Course.aspx?utm_source=MrHinsh&utm_medium=blog&utm_campaign=STLO01)
+{ .post-img }
 
 If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).
 
 With the launch of Visual Studio 2010 in April we have been furnished with a copy of MSDN Ultimate that will be given to the PSD that gets the highest score on the PSD ![Smile](images/ProfessionalScrumDeveloperTraininginLond_CC39-wlEmoticon-smile_2-9-9.png) Now there is an incentive to do well…
+{ .post-img }
 
 * * *
 
 # What is the Professional Scrum Developer course all about?
 
 ![image](images/ProfessionalScrumDeveloperTraininginLond_CC39-image_-2-2.png)Professional Scrum Developer course is a unique and intensive five-day experience for software developers. The course guides teams on how to turn product requirements into potentially shippable increments of software using the Scrum framework, Visual Studio 2010, and modern software engineering practices. Attendees will work in self-organizing, self-managing teams using a common instance of Team Foundation Server 2010.
+{ .post-img }
 
 [![](images/ProfessionalScrumDeveloperTraininginLond_CC39-video292acb9cb756-8-8.jpg)](http://www.youtube.com/watch?v=AdLVD0avRHE)
+{ .post-img }
 
 Figure: Sam and Ken discuss the PSD Course
 
@@ -92,6 +99,7 @@ Scrum will be experienced through a combination of lecture, demonstration, discu
 This course is a mix of lecture, demonstration, group discussion, simulation, and hands-on software development. The bulk of the course will be spent working as a team on a case study application delivering increments of new functionality in mini-sprints. Here is the week at a glance:
 
 ![image](images/ProfessionalScrumDeveloperTraininginLond_CC39-image_-3-3.png)
+{ .post-img }
 
 Monday morning and most of the day Friday will be spent with the computers powered off, so you can focus on sharpening your game of Scrum and avoiding the common pitfalls when implementing it.
 
@@ -278,6 +286,7 @@ Because of the nature of this course, as explained above, certain types of peopl
 * * *
 
 [![LondonCallToAction[1]](images/ProfessionalScrumDeveloperTraininginLond_CC39-LondonCallToAction1_-5-5.png)](http://www.ssw.com.au/ssw/events/Scrum-Training-Course.aspx?utm_source=MrHinsh&utm_medium=blog&utm_campaign=STLO01)
+{ .post-img }
 
 If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).  
   

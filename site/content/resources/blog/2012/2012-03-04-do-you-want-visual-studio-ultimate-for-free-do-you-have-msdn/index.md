@@ -28,11 +28,13 @@ Are you a professional developer? Do you get an MSDN from your organisation? Did
 That's right, the MSDN that you company bought you entitles you to run Windows, Office & Visual Studio in production at home. Its a licence for YOU and not just for them.
 
  [![image](images/image_thumb12-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image12.png)  
+{ .post-img }
 **Figure: Over 11 terabytes of data on MSDN**
 
 I was talking to [Mark Groves](https://twitter.com/mgroves84) at the MVP Summit and I had a double-take when he mentioned that most developers don’t know that you get a take-home licence with you MSDN. I was surprise because I have know and taken advantage of this for the better part of 8 years, and I was even more surprised when he mentioned that [Scott Hanselman](http://www.hanselman.com/blog/) was also unaware of this. This is an awesome benefit to being a Microsoft developer and I can’t believe that it is not more well known.
 
 [![image](images/image_thumb13-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image13.png)  
+{ .post-img }
 **Figure: You get Azure time as well**
 
 On top of that you get a number of other benefits. You get the Azure time above and you also get the ability to run an almost limitless number of development boxes as well. Basically for a developer with MSDN you can almost run “whatever” at home and be fully licenced and I have never encountered anyone who has maxed out their instances.
@@ -50,6 +52,7 @@ Did you EVER have an MSDN? Another of those little known things about an MSDN is
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 You just don’t get anything new ![Smile](images/wlEmoticon-smile-4-4.png)
+{ .post-img }
 
 And just in case you were worries about buying licences for your business acceptance testing (BAT) then:
 

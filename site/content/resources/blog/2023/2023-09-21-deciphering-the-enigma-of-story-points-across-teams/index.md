@@ -50,6 +50,7 @@ It's straightforward to gauge the throughput of backlog items and their flow. By
 - Work In Process
 
 ![](images/image-1280x720-3-3.png)
+{ .post-img }
 
 Such metrics empower us to make informed decisions rooted in tangible data. They allow us to pinpoint potential issues, identify items needing further breakdown, and employ probabilistic forecasting for future projections.
 
@@ -64,6 +65,7 @@ Simultaneously, to truly maximise team output, we must also focus on the value o
 - **Ability to Innovate** \- Determining the balance between maintenance and innovation.
 
 ![](images/image-1-1280x717-1-1.png)
+{ .post-img }
 
 The ultimate goal is to enhance both throughput and value concurrently. Striking a balance is crucial; we neither want sluggish excellence nor a barrage of mediocrity.
 

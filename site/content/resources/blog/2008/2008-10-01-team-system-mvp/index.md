@@ -18,6 +18,7 @@ Well, I have just joined the auspicious ranks of [Team System MVP’s](https://m
 I should really thank Tiago Pascoal as I have a sneaky suspicion that he was the one that nominated me :) Thanks Tiago…
 
 ![](images/MVPLogo.gif)
+{ .post-img }
 
 This Award needs to be renewed yearly, so there is much work to do…
 

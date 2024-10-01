@@ -26,11 +26,13 @@ When customising your process template work item tracking gives you an “Argume
 I have been onsite at a customer creating a custom processes template and migrating their current data into the new format. Because they make extensive use of Area Path for documentation purposes we could not use it for Team. So I dutifully configured their [TFS for ‘team field’](http://nkdagility.com/team-foundation-server-2012-teams-without-areas/) as their client field so that they could create ‘teams’ that represent the work that is done for each client. All looked good for a few hours until the tester tried to edit one of their old work item; 2663.
 
 ![image](images/image_thumb9-1-1.png "image")   
+{ .post-img }
 Figure: Team Foundation Error: the server operation failed.
 
 At first I though that it was just an isolated issue, so I popped an email off to the product team with this odd error and wen back to my other deliverables. Then this error occurred under other circumstances.
 
 [![image](images/image3_thumb-3-3.png "image")](http://nkdagility.com/wp-content/uploads/2013/10/image32-4-4.png)  
+{ .post-img }
 Figure: Value cannot be null. Parameter name: key
 
 When one of the team was creating sub tasks of an existing work item using the “Tasks” tab on the PBI or Bug then this is what happened. I was then again able to replicate the issue, but only when creating sub work item’s from an existing one. If I used the Agile Planning Tools and clicked the green plus then it would work, wired. I let the product team know and they decided a remote debugging session would be required…
@@ -38,6 +40,7 @@ When one of the team was creating sub tasks of an existing work item using the �
 The first thing that they did, which I did not know was even there, was to do a fiddler like session in Internet Explorer. 
 
 ![image](images/image11-2-2.png "image")  
+{ .post-img }
 Figure: Network diagnostics with Internet Explorer
 
 If you hit F12 to open the developer tools and look for the little router icon on the left. This then has the play/stop that you would expect from a traffic monitor and we can then enable it and try to save the work item. This resulted in a 500 server error and that, if you did not know already, is not a good thing. This immediately made it some sort of bug as that should never be able to happen. However it did and they needed to investigate more…

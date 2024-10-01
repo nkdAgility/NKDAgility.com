@@ -22,6 +22,7 @@ Move an Azure storage blob to another store took a little bit longer than I thou
 I am working on teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) course in Cheltenham this week and have been [creating training virtual machines in Azure](http://nkdagility.com/creating-training-virtual-machines-azure/). My template is 80GB and it is quite an arduous task to upload it. I now want to move it to a new, less temporary, home.
 
 ![clip_image001](images/clip-image0012-1-1.png "clip_image001")
+{ .post-img }
 
 I want to move my training VM from the "trainingeu" storage account to the "almtrainingvm" one. This is really just a refactor now that I have everything working and have thought about a new home. The copy process however is a little bit convoluted, especially as both containers are marked as private.
 
@@ -63,10 +64,12 @@ $blob1 = Start-AzureStorageBlobCopy -srcUri $sourceUri -SrcContext $sourceContex
 ```
 
 ![clip_image002](images/clip-image0022-2-2.png "clip_image002")
+{ .post-img }
 
 Why we can't do this with URL's and an authenticated account I do not know… but this is what we got and we have to roll with it.
 
 ![clip_image003](images/clip-image0032-3-3.png "clip_image003")
+{ .post-img }
 
 Now that I have my VHD over here I can change my default store and create my Virtual Machines from this VHD instead of the other one. Not the easiest task, but now I have some lovely PowerShell I should be able to move VHD's between Azure Storage Accounts any time I like.
 

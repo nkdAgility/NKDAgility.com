@@ -23,6 +23,7 @@ There is always something new to learn with TFS and today I learned something ol
 Although I have configured "one-team-project" for many organisation my current customer is the first that has insisted on draconian security measures. In this case I have removed contributors from the root of the Team Project and each team is granted rights by sub-folder. If each sub-folder represents an application then this makes perfect sense. Until you try to add a label using the Visual Studio IDE.
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 I spent a little while trying to debug this and finding no issues with my configuration I emailed the champs list. In a timely manner Mr Jesse Houwing replied with a "Well duh Martin… that’s how it has always worked":
 
@@ -35,6 +36,7 @@ Well… poo… That does not sound like a good idea. And then I realised that th
 Mind blown…
 
 ![clip_image002](images/clip_image0022-2-2.png "clip_image002")
+{ .post-img }
 
 My solution was to just give contributors access only to labels at the root. This stops that pesky error from occurring in the IDE and really does not pose a security risk.
 

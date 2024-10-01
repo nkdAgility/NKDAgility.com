@@ -33,8 +33,10 @@ With Scrum each Scrum Team works for a fixed period of time on a single sprint. 
 So, what does this mean for a branching strategy?
 
 We have been using a “Main” (sometimes called “Trunk”) line and doing a branch for each sprint. It’s like Feature Branching, but with only ONE feature in operation at any one time, so no conflicts ![Smile](images/StartinganewSprintinTFSCreatingabranch_D436-wlEmoticon-smile_2-3-3.png)
+{ .post-img }
 
 [![clip_image001](images/StartinganewSprintinTFSCreatingabranch_D436-clip_image001_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-StartinganewSprintinTFSCreatingabranch_D436-clip_image001_2.png)  
+{ .post-img }
 **Figure: DEV folder containing the Development branches.**
 
 I know that some folks advocate applying a Label at the start of each Sprint and then rolling back if you need to, but I have always preferred the security of a branch.

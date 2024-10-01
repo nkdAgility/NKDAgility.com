@@ -25,6 +25,7 @@ This represents my best efforts to pull together a specification of the Product 
 <figure>
 
 ![](images/image-3-3.png)
+{ .post-img }
 
 <figcaption>
 
@@ -70,6 +71,7 @@ If you just need short litmus tests for product ownership then [Jim Sammons](htt
 <figure>
 
 ![](images/image-2-2-2.png)
+{ .post-img }
 
 <figcaption>
 
@@ -82,6 +84,7 @@ Five A's of Product Ownership
 I do mention certifications, both from Scrum.org and Scrum Alliance, and please be aware that certification is not an indication of competence but may be used as a simple bar to reduce the load on interviews and assert a minimum level of knowledge, at $200 for a PSPO I assessment and $250 PSPO II assessment. With a reputation in the industry of not being totally easy, these are a no brainer for any aspiring or experienced Product Owner. There are more than 100k people with PSPO I and 2k people with PSPO II at the time of writing.
 
 ![](images/image-1-1-1.png)
+{ .post-img }
 
 The assessments can be used to inspect and adapt your own knowledge and there is even a free [Product Owner Open](https://www.scrum.org/open-assessments/product-owner-open) assessment.
 

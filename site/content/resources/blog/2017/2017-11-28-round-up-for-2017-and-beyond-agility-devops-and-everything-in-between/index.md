@@ -14,6 +14,7 @@ slug: "round-up-for-2017-and-beyond-agility-devops-and-everything-in-between"
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.
 
 ![C40AC1A0-41B0-4F01-90D8-87917B7CEC87](images/-1-1.jpg "C40AC1A0-41B0-4F01-90D8-87917B7CEC87") Figure: [DevOps Vilnius 2017 (Keynote) - Agile is Dead?](http://nkdagility.net/2jOeQ0c)
+{ .post-img }
 
 Getting out of my comfort zone is something that was instilled in me working with Adam Cogan and Steven Borg. That fear of failure that drives me to be that little bit better is what seems to set me apart…
 
@@ -36,6 +37,7 @@ Here is a round-up of all of the 2017 conferences with links to the presentation
 In between, I ran many workshops and courses in Norway, Ghana, India, USA, UK, Lithuania, & Poland… I am finding more and more than the value in training vastly outweighs the value in consulting. I believe that every customer I leave should have more knowledge than when I arrived. If we can do that in a structured and fun way that leaves the majority with many more tools in their toolbox, then that's even better. Although I have been teaching a lot of Scrum classes rather than technical its that technical foundation in building lousy software that gives me the energy to help everyone else.
 
 ![nkdAgility-Akaditi-professional-scrum-ghana-police-service-group](images/nkdAgility-Akaditi-professional-scrum-ghana-police-service-group-2-2.jpg "nkdAgility-Akaditi-professional-scrum-ghana-police-service-group")
+{ .post-img }
 
 Figure: Professional Scrum Foundations training for the Ghana Police Service
 

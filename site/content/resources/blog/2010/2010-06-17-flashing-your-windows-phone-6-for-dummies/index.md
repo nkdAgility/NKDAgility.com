@@ -15,6 +15,7 @@ slug: "flashing-your-windows-phone-6-for-dummies"
 ---
 
 ![image](images/FlashingyourHTCHD2withWindow.5forDummies_A588-image_-1-1.png)
+{ .post-img }
 
 The rate at which vendors release new updates for the HD2 is ridiculously slow. You have to wait for Microsoft to release the new OS, then you wait for HTC to build it into a ROM, and then you have to wait up to 6 months for your operator to badly customise it for their network. Once Windows Phone 7 is released this problem should go away as Microsoft is likely to be able to update the phone over the air, but what do we do until then?
 
@@ -84,6 +85,7 @@ One of the problems that has been seen on the HD2 when flashing new ROM’s is t
 ### #2 Flash Radio
 
 You may need to play around with this one, there is no good and bad version and the latest is not always the best. You know that annoying thing when you hit “end call” on your phone and nothing happens? Well that's down to the Radio. Get this version right for you and you may even be able to make calls. From a Windows Mobile as well ![Smile](images/FlashingyourHTCHD2withWindow.5forDummies_A588-wlEmoticon-smile_2-2-2.png)
+{ .post-img }
 
 [Download](http://www.pilotlogic.com/artemis/htc_hd2_radio "get it from here")
 
@@ -92,6 +94,7 @@ There are no instructions here, but they are the same as th ROM, but you use thi
 ### #3 Flash ROM
 
 If you have gotten this far then you are probably a pro by now ![Smile](images/FlashingyourHTCHD2withWindow.5forDummies_A588-wlEmoticon-smile_2-2-2.png) Just download the latest ROM below and Flash to your phone. I have been really impressed by the Artemis line of ROM’s but it is no way the only choice. I like this one as the developer builds them as close to the stock ROM as possible while updating to the latest of everything.
+{ .post-img }
 
 [Download and Instructions for  Artemis HD2 vXX](http://forum.xda-developers.com/showthread.php?t=612580 "http://forum.xda-developers.com/showthread.php?t=612580")
 

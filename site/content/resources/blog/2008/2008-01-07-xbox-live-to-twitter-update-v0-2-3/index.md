@@ -16,6 +16,7 @@ slug: "xbox-live-to-twitter-update-v0-2-3"
 ---
 
 I have updated the [Xbox Live to Twitter application](http://blog.hinshelwood.com/archive/2008/01/04/xbox-live-to-twitter.aspx) and it works quite well now. There are currently too many updates as you can see from my twitter on the left of my blog ![smile_omg](images/smile_omg-2-2.gif).
+{ .post-img }
 
 I will hopefully be adding some more customisation functionality to allow "only online" or "only title" changes to propagate. I may try to add some SQL Compact bits so differences in Achievements can be logged, but the data is currently limited...
 

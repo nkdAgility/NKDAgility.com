@@ -23,6 +23,7 @@ I have been onsite in Athens working with a customer that is moving from StarTea
 However, it can be the simplest of activities that bite you in the ass. For example, in most server based version control systems when you have made a bunch of changes locally and you want check-in to the server it is always prudent to do a "Get" first in order to verify that your local changes work with the latest version of the server. So you dutifully just do a "Get" and if your files locally conflict with the server you resolve the conflicts using the conflict resolution tools.
 
 ![clip_image001](images/clip-image001-1-1.jpg "clip_image001")
+{ .post-img }
 
 When you try to do this in Git it complains that you have uncommitted changes that you either need to undo the changes and get rid of them, or you can commit them to the local repository.
 

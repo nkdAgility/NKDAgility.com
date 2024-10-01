@@ -25,16 +25,19 @@ If you are moving from one domain to another, but you have lots of users you may
 In this case you need to carefully mange the users over to the new environment as Visual Studio 2012 Team Foundation Server actively syncs all domain accounts into its internal identity system. Why do you care? Well, lets suppose you have a domain group called domain1domaingroup1 and this group contains domain1user1 and domain1user2.
 
 ![image](images/image32-1-1.png "image")  
+{ .post-img }
 **Figure: Domain1**
 
 Now when you add this “Group1” to Team Foundation Server it goes and syncs all of the accounts in that group. If it syncs an account that does not currently have an internal identity it creates that wrapper TFS Identity. TFS uses wrapper identities so that you can change the contents of that identity and so that you can have multiple Active Directory users with the same username, but in different domains.
 
 ![image](images/image33-2-2.png "image")  
+{ .post-img }
 **Figure: Domain1 Sync**
 
 This is all fine until you try to switch domains. This is not a switch of the domain of which TFS is a member, but a switch of the domain of which the accounts are members. This usually happens at the same time, but you may move TFS from your “Department” domain to your “Corporate” domain while still maintaining trust between the two. Or you may have multiple “Departmental” or “IBoughtThisComany” domains that all have trust relationships with your “Corporate” domain and can log into TFS.
 
 ![image](images/image34-3-3.png "image")  
+{ .post-img }
 **Figure: Bad example, we created duplicate identities**
 
 But at some point you want to move your users from signing in with “Domain1” credentials to using “Corporate” ones. When this happens and we do the workflow wrong we can mess up the identities in TFS and effectively have new users when we want the same ones.
@@ -44,6 +47,7 @@ This can happen when the new users are given permission, perhaps through an acti
 **_Warning If you do end up with a duplicate identity then there is NO way to fix this! You would need to restore from backup and start your migration again making sure not to add any of the new domains users to the server._**
 
 ![image](images/image35-4-4.png "image")  
+{ .post-img }
 **Figure: Good example, we have mapped the user across**
 
 If you have a lot of users you are probably going to stage or batch your users across to the new domain. So how do we manage that?
@@ -62,6 +66,7 @@ _Info You may see that under the covers TFS has created a new  Identity wrapper
 If for any reason we need to back out then you can follow the reverse process. Remember that the server is joined to Domain2 at this point and it is just the users identities that we are messing with.
 
 This is the theory, but in the real world things may be different. In the case of one customer it will take up to a year to move all users across. This poses a problem as the Active Directory migration tool automatically adds the new user to all of the existing Groups and thus the user would likely already be synced to the new server ![Sad smile](images/wlEmoticon-sadsmile-6-6.png)
+{ .post-img }
 
 One way around this would be to move to TFS groups for the migration. You can create a TFS group that is equivalent to the Active Directory group and thus remove the automatic syncing as you can then remove the Active Directory groups from TFS. While this does mean that you need to manage the users that are members of those groups manually it will avoid the duplicate users.
 

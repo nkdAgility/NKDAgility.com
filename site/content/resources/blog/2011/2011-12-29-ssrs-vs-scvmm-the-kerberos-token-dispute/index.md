@@ -27,6 +27,7 @@ We initially configured TFS in a single server configuration as well as the two 
 - Tfs Client – Single client running VS2010 Ultimate for config and testing
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/12/image.png) **Figure: What is installed where**
+{ .post-img }
 
 We had the SVCVMM server installed on the TFS box a this was thought to be a good place to stick it as out TFS server is enormously over muscled. So we have the SCVMM Server on the TFS server and a single host configured and all is well. We dutifully follow the instructions to configure Lab Management and have it talk to our single Host and we had everything up and running.
 

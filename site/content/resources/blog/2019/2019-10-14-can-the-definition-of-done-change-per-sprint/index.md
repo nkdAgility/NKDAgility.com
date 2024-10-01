@@ -43,6 +43,7 @@ No, you should have a consistent DoD that is applied to all of the work that you
 No; The purpose of the Defenition of Done is to maintain transparency of the past by allowing everyone to understand what a "usable increment" means.
 
 ![](images/20190906_152025-1-1-1.gif)
+{ .post-img }
 
 If we keep changing the goal posts how can:
 

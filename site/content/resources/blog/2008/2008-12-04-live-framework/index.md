@@ -16,6 +16,7 @@ slug: "live-framework"
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.
 
 [![image](images/LiveFrameowrk_A25C-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-LiveFrameowrk_A25C-image_2.png)
+{ .post-img }
 
 Imagine being able to launch a ClickOnce application from anywhere and for it to have exactly the same configuration and settings in all locations, or imagine being able to chat with other users of the application while you are using it.
 

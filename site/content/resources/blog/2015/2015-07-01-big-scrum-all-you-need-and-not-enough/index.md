@@ -22,14 +22,17 @@ I was in Norway for NDC Oslo 2015 and I was there to talk about "Big Scrum: All 
 \[embed\]https://vimeo.com/131642789\[/embed\]
 
 ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
+{ .post-img }
 
 In order to scale you first need Professional Team and not Amateur Teams. In the Scrum world that means that you need to [embody the values and principals of agile, have awesome engineering practices, and know the mechanics](http://nkdagility.com/big-scrum-are-you-doing-mechanical-scrum/). Its really not enough to simply pay lip service to your process. Dig in and really do it.
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
+{ .post-img }
 
 The second thing that I covered is why a cookie cutter process will not work. Your companies change is a unique fingerprint and the idea that you can buy and off-the-shelf process that will suit your culture and your journey is ludicrous.
 
 ![clip_image003](images/clip_image003-3-3.png "clip_image003")
+{ .post-img }
 
 To support scaling Scrum you need to have many Professional Scrum Teams working together, and for that we need a few extra communication lines that are not new, but that need enshrined in the model to make sure that it works. Check out the video below to get a walk-through of the new events and their significance and value.
 

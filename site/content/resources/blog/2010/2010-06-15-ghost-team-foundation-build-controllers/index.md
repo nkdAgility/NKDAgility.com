@@ -27,11 +27,13 @@ The build controller was from our old TFS server from before our [TFS 2010 beta 
 > \-Manage Build Controller dialog
 
 ![SNAGHTMLa942cd](images/Gettingridofghostteamfoundationbuildcont_9102-SNAGHTMLa942cd-2-2.png)   
+{ .post-img }
 **Figure: Deleting a ghost controller does not always work.**
 
 I ended up checking all of our 172 Team Projects for the build that was queued, but did not find anything. [Jim Lamb](http://blogs.msdn.com/b/jimlamb/) pointed me to the “tbl\_BuildQueue” table in the team Project Collection database and sure enough there was the nasty little beggar.
 
 ![image](images/Gettingridofghostteamfoundationbuildcont_9102-image_-1-1.png)  
+{ .post-img }
 **Figure: The ghost build was easily spotted**
 
 Adam Cogan asked me:
@@ -58,6 +60,7 @@ Now that the ghost build has been identified there are two options:
 So I set the Status of this build to 2 (cancelled) and sure enough it disappeared after a couple of minutes and I was then able to then delete the “zzUnicorn” controller.
 
 ![SNAGHTMLc40486](images/Gettingridofghostteamfoundationbuildcont_9102-SNAGHTMLc40486-3-3.png)  
+{ .post-img }
 **Figure: Almost completely clean**
 
 Now all I have to do is get rid of that untidy “zzBunyip” agent, but that will require rewriting one of our build scripts which will have to wait for now.

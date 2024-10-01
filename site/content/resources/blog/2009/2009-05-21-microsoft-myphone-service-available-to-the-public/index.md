@@ -15,6 +15,7 @@ slug: "microsoft-myphone-service-available-to-the-public"
 Microsoft recently opened up there beta of the MyPhone service to the general public. The service syncs your Mobile phone with the web and allows access to your Contacts Calendar tasks, pictures and more.
 
 [![image](images/MicrosoftMyPhoneserviceavailabletothepub_E1A9-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MicrosoftMyPhoneserviceavailabletothepub_E1A9-image_2.png)
+{ .post-img }
 
 I have just left it running, but you can add stuff to your phone through this interface as well. I see the bonus of this as a backup, which I kinda have with Plaxo.com already for my contacts and calendar, but having your pictures and video up there too is much easier than connecting your phone into the computer.
 

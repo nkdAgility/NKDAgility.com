@@ -18,10 +18,12 @@ For the last wee while some of you may have noticed some news coverage about Sco
 If you follow me on Facebook or twitter then you will have seen a plethora of posts about this subject. I have mostly kept this subject away from my company except for a small post about donating to Yes Scotland. I think that you can guess which side I come down on. However, there is a nefarious dynamic to the debate.
 
 ![Scottish-independence-6348782](images/Scottish-independence-6348782-2-2.jpg "Scottish-independence-6348782")
+{ .post-img }
 
 I have been appalled by the bias of the BBC and the mainstream media in general. Steven Borg warned me that my faith in the BBC was misplaced but I failed to listen. I am listening now, and even the BBC's own internal regulatory body has sanctioned it more than once for its position. Indeed, as we enter the final 200 days, there are tight rules forcing all media to be impartial. We can already see many that are flouting the rules. If its negative for the Independence debate, then it gets plenty of airtime, if its positive, it gets ignored.
 
 ![Screen%20shot%202014-03-27%20at%2010_38_39](images/Screen20shot202014-03-2720at2010_38_39-3-3.png "Screen%20shot%202014-03-27%20at%2010_38_39")
+{ .post-img }
 
 Just look for coverage of the circa 2000 people who protested outside the BBC, or the [fake reports of 34,000 people turning up for Armed Forces Day](http://wingsoverscotland.com/conflicting-reports/)! Now that was a farce.
 

@@ -16,6 +16,7 @@ I am installing office 2010, and I ran into my first gotcha!
 I have a 64 bit computer and I wanted to use the 64bit version of Office, but there is no upgrade option for this, you need to uninstall Office 2007 32bit (the only version there is) and put the 64bit on… Here is the message…
 
 [![image](images/InstallingOffice2010_CF66-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingOffice2010_CF66-image_2.png)
+{ .post-img }
 
 This sucks a little, and will suck even more if I can’t keep my settings. Mainly for Outlook, and why I need to uninstall Expression Studio Web I do not know, it may be due to some integration for creating html emails…
 

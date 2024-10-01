@@ -20,6 +20,7 @@ The Boards in Azure DevOps are a powerful tool that your teams can leverage to e
 However, the inclusion of Blocked columns can stealthily erode the very foundations of efficiency these boards are meant to uphold. By obfuscating the state of work-in-progress and breeding a culture of hands-off responsibility, Blocked columns can become the silent saboteurs in your workflow. 
 
 ![](images/image-5-5.png)
+{ .post-img }
 
 **Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness:**
 
@@ -50,10 +51,12 @@ In light of these pitfalls, it is crucial for teams to approach the use of Block
 By far the best way to indicate blocked is to use a Blocked tag on your Work Item.
 
 ![](images/image-1-1280x669-1-1.png)
+{ .post-img }
 
 You can also increase the transparency by enabling a colour for the tag. Just be careful not to over use it, too many colours can reduce transparency and making it harder to see important information.
 
 ![](images/NKDAgility-HilightBlockedTag-6-6.gif)
+{ .post-img }
 
 ## **References:**
 

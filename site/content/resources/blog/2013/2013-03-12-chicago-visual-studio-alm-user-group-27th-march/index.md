@@ -21,6 +21,7 @@ It has been a while since I was at the [Visual Studio ALM User Group in Chicago]
 With almost 2 years since my last customer visit in Chicago I just have not been out there that much and I was sorry that I missed the Chicago ALM Summit. Fortuitously my latest customer engagement is in Chicago at the same time as the user group meets. Funny how those things work out.
 
 ![calmug](images/calmug-1-1.png "calmug")
+{ .post-img }
 
 I know that as well as the awesome [Angela Dugan](http://blogs.polarissolutions.com/author/angeladugan.aspx) there will also be the infamous [Edward Thomson](http://www.edwardthomson.com/blog/) from the cross-platform team at Microsoft. Angela will be talking about her favourite things which include Microsoft Test Manager and Ed will be taking us through a journey of discovery of Git and TFS lovin.
 

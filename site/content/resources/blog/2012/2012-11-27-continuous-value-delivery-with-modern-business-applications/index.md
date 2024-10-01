@@ -45,6 +45,7 @@ These are all just a “cop out” for organisations that do not want, or think 
 So, you know how big Visual Studio is? Well there is Visual Studio IDE, then there is Team Foundation Server and Office integration and… well you get the picture.
 
 ![image](images/image55-1-1.png "image")  
+{ .post-img }
 **Figure: Visual Studio 2012 Platform**
 
 Microsoft is now leading the way with Visual Studio and Visual Studio is on of the most complex applications I can think of.

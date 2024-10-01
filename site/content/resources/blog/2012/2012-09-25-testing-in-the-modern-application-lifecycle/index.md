@@ -32,6 +32,7 @@ Manual Testing in this new age of the modern application lifecycle has taken on 
 As we move into, or you might already be there, the era of agile and the delivery timetable shrinks to only a few weeks we can no longer do all of our testing in isolation. We need to work with the Engineers, Analysts and Operations on Development Teams and effectively swarm to solve the problems. Wither that problem is adding new features, fixing a bug or deploying to an environment it is now in the scope of all the departments and this new world does not recognise even the idea of the silo.
 
 [![Manual Test makes sure that we build what we need and no more](images/image_thumb5_thumb1-6-6.png "Manual Test makes sure that we build what we need and no more")](http://blog.hinshelwood.com/files/2012/09/image_thumb52.png)  
+{ .post-img }
 **Figure: Manual Test makes sure that we build what we need and no more**
 
 It is no longer acceptable to “_test quality In_” as this is far too expensive and we need to move to a model of iteratively “_building quality in_” so that each and every iteration outputs working software that is of releasable quality. The only way to do this is to be able to test, measure and learn with very tight feedback loops…
@@ -71,6 +72,7 @@ Achieving quality product with ought automation generation can make testing very
 There are a number of points within which you can integrate your tools with Microsoft test Manager and give users a seamless experience across a multitude of technologies.
 
 [![Microsoft Test Manager Architecture](images/image_thumb38-1-1.png "Microsoft Test Manager Architecture")](http://blog.hinshelwood.com/files/2012/09/image40.png)  
+{ .post-img }
 **Figure: Microsoft Test Manager Architecture**
 
 These integration points currently cover two areas, collecting data and recording and playback.
@@ -111,6 +113,7 @@ These things alone would be enough to make it a must have solution, but add to t
 Microsoft Test Manager provides support for some pretty advanced testing technics and while it is limited to Windows host it can be used against almost any application. It has some limitations on unmanaged and java application, but even most old web application can be fully tested. There are some features, like Intellitrace and Test Impact Analysis that are only supported on managed code, but really those are value adds rather than the core reason to move to MTM.
 
 [![Manage your Microsoft Test Manager Data Collectors](images/image_thumb39-2-2.png "Manage your Microsoft Test Manager Data Collectors")](http://blog.hinshelwood.com/files/2012/09/image41.png)  
+{ .post-img }
 **Figure: Manage your Microsoft Test Manager Data Collectors**
 
 That said some of the built in data collectors in there are pretty cool:
@@ -125,16 +128,19 @@ That said some of the built in data collectors in there are pretty cool:
 These features are awesome additions to the platform but they pale in comparison to the cop de resistance which is the **Action Recorder**. The action test recorder allows you to fast-forward you manual tests and gives one the ability to generate Coded UI tests.
 
 [![Test Manager allows you to manage the Test Steps](images/image_thumb40-3-3.png "Test Manager allows you to manage the Test Steps")](http://blog.hinshelwood.com/files/2012/09/image42.png)  
+{ .post-img }
 **Figure: Test Manager allows you to manage the Test Steps**
 
 The abilities allow us to both manage our test cases and to record the data, and the test runner allows us to record the results and create actionable bugs. You see all the while that one is executing the tests the data recorders are collecting all of that lovely data and storing it.
 
 [![Microsoft Test Runner in action](images/image_thumb41-4-4.png "Microsoft Test Runner in action")](http://blog.hinshelwood.com/files/2012/09/image43.png)  
+{ .post-img }
 **Figure: Microsoft Test Runner in action**
 
 And if while running one of your test cases you encounter a nasty little bug, you can have a rich actionable bug generated automatically making it easy for developers to isolate and find the problem.
 
 [![Microsoft Test Runner created Bugs from nowhere](images/image_thumb42-5-5.png "Microsoft Test Runner created Bugs from nowhere")](http://blog.hinshelwood.com/files/2012/09/image44.png)  
+{ .post-img }
 **Figure: Microsoft Test Runner created Bugs from nowhere**
 
 The tool is in fact that good, as long as you are using managed code. The further you get from the modern development tools the less of these features will be available although you will always get the ability to run test cases and record the data.
@@ -146,16 +152,19 @@ This is one of the best test tools in the industry and one of the few that help 
 In an effort to allow user more flexibility in managing their test cases and to allow your test cases to be run against any environment Sela have created their Web Test Manager which takes the entire Test Runner into the web.
 
 [![ Managing your Plans and Suites from the web](images/Sella-WTM-01_thumb-8-8.png " Managing your Plans and Suites from the web")](http://blog.hinshelwood.com/files/2012/09/Sella-WTM-01.png)  
+{ .post-img }
 **Figure: Managing your Plans and Suites from the web**
 
 Not only can you manage your plans and suits but they have also built a platform independent test runner so you can run your tests on Linux and against any browser.
 
 [![Edit and Run test cases from the web](images/Sella-WTM-02_thumb-9-9.png "Edit and Run test cases from the web")](http://blog.hinshelwood.com/files/2012/09/Sella-WTM-02.png)  
+{ .post-img }
 **Figure: Edit and Run test cases from the web**
 
 And what solution would be complete without the ability to see which tests have been passing and failing.
 
 [![View test runs and results in the web](images/Sella-WTM-03_thumb-10-10.png "View test runs and results in the web")](http://blog.hinshelwood.com/files/2012/09/Sella-WTM-03.png)  
+{ .post-img }
 **Figure: View test runs and results in the web**
 
 There are still some rough edges, but Sela shows what can be done for testers leveraging the rich data management system within Team Foundation Server that links our Test Runs to Builds and requirements.

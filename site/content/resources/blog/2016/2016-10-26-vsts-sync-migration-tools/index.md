@@ -16,6 +16,7 @@ slug: "vsts-sync-migration-tools"
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.
 
 [![image](images/image_thumb-1-1.png "image")](https://nkdagility.com/wp-content/uploads/2016/10/image.png)
+{ .post-img }
 
 Maybe they have too many Team Projects and they want to consolidate, maybe they just have too much baggage. Whatever the reason I needed to be able to push data around between TFS and VSTS… or even TFS to TFS. That is when the [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) were born.
 

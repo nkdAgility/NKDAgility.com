@@ -19,6 +19,7 @@ I tested the web service and it worked, so the only thing to do (Duncan has not 
 You can [download the application](http://www.codeplex.com/XboxLiveStatus/Release/ProjectReleases.aspx) from [CodePlex](http://www.codeplex.com "CodePlex") along with all the [source code](http://www.codeplex.com/XboxLiveStatus).
 
 if you have any problems, please create or vote for Issues via the interface![smile_regular](images/smile_regular-2-2.gif).
+{ .post-img }
 
 Technorati Tags: [RDdotNet](http://technorati.com/tags/RDdotNet) [Xbox](http://technorati.com/tags/Xbox)
 

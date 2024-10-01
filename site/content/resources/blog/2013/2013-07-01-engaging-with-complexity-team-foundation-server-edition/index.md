@@ -24,6 +24,7 @@ I have been engaging with complexity for a company in Silicon Valley that is doi
 When large companies sell parts of themselves there is a complicated ‘remediation’ process that is required to make sure that they only take the assets that have been purchased with them. Developers tend to be very greedy when writing software and your code picks up all kinds of references that you may not even know about. This causes problems within the development process as we may use source code for applications that are not being sold as components within the ones that are. They need to remove all of the assets that they are not taking with them and then reload the thing that have been approved by legal.
 
 ![image](images/image79-1-1.png "image")  
+{ .post-img }
 Figure: Proposed Remediation Process
 
 The current home of the data is the corporate IT infrastructure which is shared and inaccessible by the team that I am working with. This means that the corporate IT guys will not let us any where near the server or give us access and we need to rely on them providing backups. As I arrived on this engagement the customer had just received their first backup from the corporate operations team. This team would only do an offline backup and TFS was offline for 20 hours to complete the process. To make matters worse there was some sort of issue that was crippling the network at the same time and they had to put someone on a plane to fly 1000 miles to pick up a hard disk and back. The joys of large databases (2TB).

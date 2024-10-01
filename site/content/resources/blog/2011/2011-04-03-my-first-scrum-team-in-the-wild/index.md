@@ -19,6 +19,7 @@ slug: "my-first-scrum-team-in-the-wild"
 ---
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!
+{ .post-img }
 
   
 
@@ -27,6 +28,7 @@ slug: "my-first-scrum-team-in-the-wild"
 Although I was unable to be the teams Scrum Coach (paperwork relating to citizenship issues) one of my very experienced colleagues (Rennie Araucto) took up the challenge. This was Rennie’s first foray into serious Scrum and he attended the same training course; well I honestly could not have asked for a better person to take this team through its first sprint.
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_4.png)  
+{ .post-img }
 **Figure: Pretty much the best sprint 1 burn down I have ever seen** 
 
 This is probably the very best Sprint 1 burndown I have ever seen. Usually a team will over commit on at least the first, second and third sprints as well as having a tendency to remain oblivious to the _opportunities_ they have in the Scrum process to correct their mistakes. This is usually through no fault of the individuals, but of a IT industry that has consistently taught and rewarded people for anti-patterns to delivering better software.
@@ -69,9 +71,11 @@ In order to understand the relationship between the amount of work that you comm
 There is a lot of debate on this one. If you are using physical cards then that physical card just goes onto the backlog and all of the outstanding tasks go into the bin. I like to follow that with my data as well. Just move the incomplete User Stories back to the Backlog and Close it indicating that is was not done (Using the Visual Studio Scrum template you mark it as _**Removed**_ with a reason of _**Removed from the backlog**_.
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_6.png)  
+{ .post-img }
 **Figure: Agile 5.0 Task removed from the sprint backlog**
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_3-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_8.png)  
+{ .post-img }
 **Figure: Visual Studio Scrum 1.0 Task removed from sprint backlog**
 
 The User Story may then be added to the next Sprint if it is prioritised by the Product Owner. It would be up to the team to pitch its completeness or otherwise to the Product Owner in order to prioritise it.
@@ -81,5 +85,6 @@ Rule: Never leave uncompleted work in a sprint. Its untidy and causes confusion
 ### Conclusion
 
 This team has made some fantastic efforts for their first sprint, but should not get complacent. I am very impressed of the work that Rennie has put in and I really enjoyed our long Scrum conversations ![Smile](images/GWB-Windows-Live-Writer3cf46226a54f_DA4FwlEmoticon-smile_2-5-5.png)
+{ .post-img }
 
 

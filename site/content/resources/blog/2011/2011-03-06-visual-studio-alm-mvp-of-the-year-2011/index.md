@@ -19,6 +19,7 @@ slug: "visual-studio-alm-mvp-of-the-year-2011"
 ---
 
 [![trophy](images/Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_2.jpg)
+{ .post-img }
 
 For some reason this year some of my peers decided to vote for me as a contender for Visual Studio ALM MVP of the year. I am not sure what I did to deserve this, but a number of people have commented that I have a rather useful blog.
 

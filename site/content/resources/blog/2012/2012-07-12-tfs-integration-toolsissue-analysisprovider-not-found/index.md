@@ -17,6 +17,7 @@ slug: "tfs-integration-toolsissue-analysisprovider-not-found"
 When you are trying to load your custom Adapter you receive a message stating that it does not exist.
 
 [![image](images/image_thumb14-1-1.png "image")](http://blog.hinshelwood.com/files/2012/07/image14.png)  
+{ .post-img }
 **Figure: AnalysisProvider 06a2457f-ebba-4979-bc5f-0f5006b8b4e6 not found**
 
 ### Applies To
@@ -46,6 +47,7 @@ No new information there, but it does imply that there is a problem with the DLL
 This problem is easily solved by changing the application settings from .NET Framework .NET 3.5 to .NET Framework 4.0 and recompiling.
 
 [![image](images/image_thumb15-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image15.png)  
+{ .post-img }
 **Figure: Using an older version of the framework** 
 
 Now we are cooking.

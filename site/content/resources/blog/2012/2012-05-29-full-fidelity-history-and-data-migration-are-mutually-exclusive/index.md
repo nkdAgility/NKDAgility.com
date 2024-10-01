@@ -32,6 +32,7 @@ This is also the case with Team Foundation Server and every customer that we hav
 In order to support little things like Sarbanes Oxley (SOX), CRF11, HIPPA, FDA or NRA you need to, generally, be able to prove tractability from “Source Code | Builds | Tests| Requirements”. You need to be able to show, on demand, how a line of code got into your application, why, who requested it and how it was tested. This is hard at the best of times and impossible most of the time if you have separate systems that all authenticate differently or store data differently.
 
 [![Visual Studio ALM Tractability Matrix](images/image_thumb4-1-1.png "Visual Studio ALM Tractability Matrix")](http://blog.hinshelwood.com/files/2012/05/image7.png)  
+{ .post-img }
 **Figure: Visual Studio ALM Tractability Matrix**
 
 Do a test on your software. Pick a like of code and figure out who added it to the system and how it was changed over time. Now, for each of those changes figure out why that change was done and who authorised it. Can you do that?
@@ -69,6 +70,7 @@ You will however NOT be able to:
 If you need help deciding then there is some Rangers guidance and my aforementioned [Process Template migration](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/) guidance.
 
 [![TFS Integration Platform - Migration Guidance Poster](images/TFS-Integration-Platform-Migration-Guidance-Poster_thumb-3-3.jpg "TFS Integration Platform - Migration Guidance Poster")](http://blog.hinshelwood.com/files/2012/05/TFS-Integration-Platform-Migration-Guidance-Poster.jpg)  
+{ .post-img }
 **Figure: TFS Integration Platform - Migration Guidance Poster**
 
 There are a bunch of other workarounds to this that I have discussed on many occasions with customers but they still need to choose … which do you want? Make sure that you look at all of the pros and cons carefully and decide what you want to do. An additional thing to note is that migration is very expensive in time and expertise, so choose carefully.

@@ -418,6 +418,7 @@ It does not yet do anything, but the base wrapper is there. The visual elements 
 This will display 2 buttons, but does nothing.
 
 [![image](images/CreatingaWPFWorkItemControl_914D-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_2.png)
+{ .post-img }
 
 You then need to create your wrapper control. This is a forms control that has the Element Host forms control to host the button. I have gone down the generic rout to minimise the amount of code I would use to create an individual “stub” when creating multiple controls.
 
@@ -460,6 +461,7 @@ here is an example “stub” which is created as a simple class:
 > _note: although this inherits from user control you will not be able to view it in the designer because of the generic nature of its inheritance. This is OK and does not hamper development._
 > 
 > [](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_4.png)[![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_4.png)
+{ .post-img }
 
 All the heavy lifting for this control is done in the WitCustomControlBase and the generic type passed needs to meet the requirements of New, UIElement and IWorkItemControl. This ensures that it is a WPF control that inherits from IWorkItemControl.
 
@@ -694,6 +696,7 @@ As you can see the only changes that have been made are to the class to add the 
 > note: Once you have made these and the following changes to the designer, you will no longer be able to view the designer in VS because we have made modifications for the designer.
 > 
 > [](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_6.png)[![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_6.png)
+{ .post-img }
 
 Now we have changed the designer, we need to move on to the main control code and change it to pass all calls and implementation of the IWorkItemControl interface to the WPF control.
 
@@ -1038,10 +1041,12 @@ We can now add this control to a work item by modifying the XML definition of a 
 You can add this using the Power Tools process template editor.
 
 [![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_4-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_10.png)
+{ .post-img }
 
 The result?
 
 [![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_3-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_8.png)
+{ .post-img }
 
 You will notice that this control is marked as read-only, but not bad for a first pass…
 

@@ -14,6 +14,7 @@ slug: "test-track-pro-and-the-case-of-the-missing-data"
 ---
 
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)
+{ .post-img }
 
 As you may know, I have been having lots of problems with creating a Test Track Pro Adapter for the TFS Integration Platform. You may have been following my trials and tribulations in trying to get the data through.
 
@@ -26,9 +27,11 @@ It looks as if someone dropped the ball at Seapine when they wrote the query cod
 So, I first run the query as is and retrieve all of the records and suffer the long load.
 
 [![SNAGHTML2899f19](images/SNAGHTML2899f19_thumb-3-3.png "SNAGHTML2899f19")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML2899f19.png)  
+{ .post-img }
 **Figure: Initial Query loads the entire data set**
 
  [![image](images/image_thumb6-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image6.png)  
+{ .post-img }
 **Figure: This produces a large data set, but check the top**
 
 Once the initial run is done, there is really no need to load the entire data set, just to find the two or three or sum records that have changed since the last run. I decided, just to be safe, to load the data from the last day, some ~25 records, as that is almost the balance between load and loss.
@@ -36,11 +39,13 @@ Once the initial run is done, there is really no need to load the entire data se
 So lets add an additional filter for data in the last month…
 
 [![SNAGHTML2979ebb](images/SNAGHTML2979ebb_thumb-4-4.png "SNAGHTML2979ebb")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML2979ebb.png)  
+{ .post-img }
 **Figure: Only get data in the last Day**
 
 With my recent debugging efforts I was maybe looking more closely at things than I would normally, and I noticed that the most recent changes were not being displayed.
 
 [![image](images/image_thumb7-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image7.png)  
+{ .post-img }
 **Figure: Where has my data gone**
 
 If you look closely you will see that the top two records have disappeared. What the heck!
@@ -48,6 +53,7 @@ If you look closely you will see that the top two records have disappeared. What
 If I change the query to be the last 24 hours instead of the last day then the data miraculously appears.
 
 [![SNAGHTML29b421b](images/SNAGHTML29b421b_thumb-5-5.png "SNAGHTML29b421b")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML29b421b.png)  
+{ .post-img }
 **Figure: Last 24 hours works**
 
 In fact I just checked again and the data is now there! Oh, it has just gone midnight in Boston (where the TTP server is) and the data now appears.

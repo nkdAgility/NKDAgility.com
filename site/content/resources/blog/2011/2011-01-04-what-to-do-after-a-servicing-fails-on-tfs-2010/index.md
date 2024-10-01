@@ -14,6 +14,7 @@ slug: "what-to-do-after-a-servicing-fails-on-tfs-2010"
 ---
 
 [![vs2010alm](images/7e1d3e9df51b_12C53-vs2010alm_thumb-8-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-vs2010alm_2.png)What do you do if you run a couple of hotfixes against your [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 server and you start to see seem odd behaviour?
+{ .post-img }
 
 A customer of mine encountered that very problem, but they could not just, or at least not easily, go back a version.
 
@@ -40,6 +41,7 @@ The problems surfaced around 20 hours in after the first set of hotfixes had bee
 The collection would not reattach either. It would not even list the new collection as attachable!
 
 [![SNAGHTML26ffe67](images/7e1d3e9df51b_12C53-SNAGHTML26ffe67_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-SNAGHTML26ffe67.png)  
+{ .post-img }
 **Figure: We know there is a database there, but it does not**
 
 This was a dire situation as 20+ hours to repeat would leave the customer over time with 250+ developers sitting around doing nothing.
@@ -59,6 +61,7 @@ I am sure you can imagine the types of problems this may cause when the schema i
 That said, as far as we could see this collection looked good, and we were even able to find and attach the team project collection to the Configuration database.
 
 [![image](images/7e1d3e9df51b_12C53-image_thumb_7-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_16.png)  
+{ .post-img }
 **Figure: After attaching the TPC it enters a servicing mode**
 
 After reattaching the team project collection we found the message “Re-Attaching”. Well, fair enough that sounds like something that may need to happen, and after checking that there was disk IO we left it to it.
@@ -66,12 +69,14 @@ After reattaching the team project collection we found the message “Re-Attachi
 14+ hours later, it was still not done so the customer raised a priority support call with MSFT and an engineer helped them out.
 
 [![image](images/7e1d3e9df51b_12C53-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_8.png)  
+{ .post-img }
 **Figure: Everything looks good, it is just offline.**  
 Tip: Did you know that these logs are not represented in the ~/Logs/\* folder until they are opened once?
 
 The engineer dug around a bit and listened to our situation. He knew that we had run the dreaded “tfsconfig restore”, but was not phased.
 
 [![image](images/7e1d3e9df51b_12C53-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_6.png)  
+{ .post-img }
 **Figure: This message looks suspiciously like the wrong servicing version**
 
 As it turns out, the servicing version was slightly out of sync with the schema.
@@ -88,14 +93,17 @@ The problem was that the version was somewhere between 341 and 344. This is not 
 
   
 [![image](images/7e1d3e9df51b_12C53-image_thumb_5-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_12.png)  
+{ .post-img }
 **Figure: Sneakily changing that 3 to a 1 should do the trick**
 
 [![image](images/7e1d3e9df51b_12C53-image_thumb_9-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_21.png)  
+{ .post-img }
 **Figure: Changing the status and dropping the version should do it**
 
 Now that we have done that we should be able to safely reattach and enable the Team Project Collection.
 
 [![image](images/7e1d3e9df51b_12C53-image_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_2.png)  
+{ .post-img }
 **Figure: The TPC is now all attached and running**
 
 You may think that this is the end of the story, but it is not. After a while of mulling and seeking expert advice we came to the opinion that the database was, for want of a better term, “hosed”.

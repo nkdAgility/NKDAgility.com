@@ -88,6 +88,7 @@ There are four main things that I learned at SSW:
 ## Where am I going?
 
 ![feature-300x200](images/Achangeforthebetter3_8F02-feature-300x200_-1-1.png)
+{ .post-img }
 
 Over the last year, I have been steadily heading towards a point that converges on ALM. I have always had an interest in how developers work and in supporting those developers to increase their productivity and efficiency. This is what ALM is all about and unfortunately, SSW is not an ALM shop. Although I have worked with SharePoint and CRM, Silverlight and MVC, and all manner of other interesting things, I really want to concentrate on that witch has been termed Application Lifecycle Management.
 

@@ -15,6 +15,7 @@ slug: "changing-the-team-project-collection-of-the-team-build-controller"
 ---
 
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)
+{ .post-img }
 
 When you are doing demos or training for Team Foundation Server 2010 (TFS 2010) you may have multiple Team Project Collections (TPC) for different scenarios or process templates. You may even be attaching a pre-built TPC image so you can start from a particular point. If you try to do create a build you will find that it complains about there not being a Team Build Controller (TBC).
 
@@ -23,6 +24,7 @@ When you are doing demos or training for Team Foundation Server 2010 (TFS 2010) 
 One thing you learn very quickly when working with TFS 2010 is that you can only attach ONE Team Build Controller to ONE Team Project Collection. This one-one relationship can cause issues if you have many Team Project Collections because there can only be one Team Project Collection configured per server.
 
 ![](images/image12.png)  
+{ .post-img }
 **Figure: Two Team Project Collections**
 
 This means that if you have 2 Team Project Collection you will need two serve to manage the builds. It can be the same server as your build server, but that depends on your throughput and load.
@@ -33,6 +35,7 @@ If you open the Team Foundation Server Administration Console you will see a “
 
   
 ![image](images/ab2235c2ab06_E4A0-image_-5-5.png)  
+{ .post-img }
 **Figure: Team Build Configuration screen shows the Controller and any Agents running on that server**
 
   
@@ -43,14 +46,17 @@ In order to make the change, we need to alter the options not on the Controller 
 
   
 ![image](images/ab2235c2ab06_E4A0-image_-4-4.png)  
+{ .post-img }
 **Figure: Change the options on the service instance**
 
 Select the “Properties” option on the Build service and then stop the service to make the changes.
 
 ![image](images/ab2235c2ab06_E4A0-image_-3-3.png)  
+{ .post-img }
 **Figure: The Build Service Properties are only available when the service is stopped**
 
 ![image](images/ab2235c2ab06_E4A0-image_-2-2.png)  
+{ .post-img }
 **Figure: Select any server and then Project Collection you want to bind to**
 
   

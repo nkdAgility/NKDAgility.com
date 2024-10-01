@@ -13,6 +13,7 @@ slug: "post-event-msdn-roadshow-glasgow"
 ---
 
 Spent the day yesterday at the MSDN Roadshow in Glasgow. It was a very good day that provided me a deeper insight into the ADO.NET Entity Framework, Data Services and Silverlight 2 (Which I like even though I did not like Silverlight 1... no JavaScript![smile_regular](images/smile_regular-2-2.gif)).
+{ .post-img }
 
 The last session on Team Suit was a little marred by Neil Kidd being rather ill...get well soon Neil...but I followed it anyway, but I do think that other attendees became lost fairly quickly...we all have bad days...
 

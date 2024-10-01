@@ -21,6 +21,7 @@ slug: "tfs-sticky-buddy-poc-winforms-release"
 ---
 
 You can now[![image](images/TFSStickyBuddyPOCWinFormsrelease_8960-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyPOCWinFormsrelease_8960-image_2.png) [Download](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=10639 "TFS Sticky Buddy POC (WinForms) release") the [TFS Sticky Buddy windows forms proof of concept demo](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx "Codeplex RDdotNet TFS Sticky Buddy latest release") from the [Codeplex](http://www.codeplex.com/TFSStickyBuddy "Codeplex RDdotNet TFS Sticky Buddy project") site.
+{ .post-img }
 
 This is a proof of concept release of the Team Foundation Server Sticky Buddy digital dashboard project that is built using Windows Forms. This version has layout issues, but is provided as is for demonstration use. The extent of the layout issues will depend on your Area and Iteration layout within the selected project. The source code is provided with the installation.
 
