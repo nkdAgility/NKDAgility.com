@@ -11,22 +11,24 @@ coverImage: nakedalm-experts-visual-studio-alm.png
 title: Agile Requirements Workshop
 author: MrHinsh
 delivery:
-  audience: 
+  audience: ""
   skilllevel: intermediate
-  format: 
+  format: ""
   courseAssessmentIcon: 
-  objectives: 
-  certification: 
-  prerequisites: 
+  objectives: ""
+  certification: ""
+  prerequisites: ""
   duration: 8
   code: NKD-AR
-  topics: 
-  details: <p>In this course we work against your backlog, and your backlog items.</p>
+  topics: ""
+  details: |2+
+
+    In this course we work against your backlog, and your backlog items.
   type: Kanban (ProKanban.org Certified)
   brand:
     colour: 
     vendor: naked-alm
-  lead: 
+  lead: ""
   courseIcon: https://nkdagility.com/wp-content/uploads/2013/09/NKD-AR.png
 tags:
 - agile
@@ -66,11 +68,13 @@ id: "10107"
 
 
 
+
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.
 
 We start by diving into a piece of work that has already been delivered. Hindsight gives the team the ability to really break the desirement down into the things that they really did deliver.
 
 We then move on to breaking down some of the more unknown pieces from your backlog. Along the way your team learns what it takes to break a backlog down into items that are independent, negotiable, valuable, estimable, small, and testable.
+
 
 
 

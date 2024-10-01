@@ -164,12 +164,19 @@ function Convert-HTMLToMarkdown {
     )
 
     # Load the ReverseMarkdown assembly
-    $nugetPath = "\lib\ReverseMarkdown.dll"
+    $nugetPath = ".powershell\lib\ReverseMarkdown.dll"
     if (-Not (Test-Path $nugetPath)) {
         throw "ReverseMarkdown.dll not found at path: $nugetPath. Make sure it's installed."
     }
     
-    Add-Type -Path $nugetPath
+    # Try loading the ReverseMarkdown assembly safely
+    try {
+        Add-Type -Path $nugetPath -ErrorAction Stop
+    }
+    catch {
+        #Write-Error "Failed to load ReverseMarkdown.dll: $_"
+        #return $null
+    }
 
     # Create a ReverseMarkdown converter instance
     $converter = New-Object ReverseMarkdown.Converter
@@ -225,6 +232,21 @@ function Update-MarkdownWithCard {
     }
 }
 
+function Convert-UrlToImagePath {
+    param (
+        [string]$url  # Input URL
+    )
+
+    # Extract the file name from the URL
+    $fileName = [System.IO.Path]::GetFileName($url)
+
+    # Construct the new image path
+    $imagePath = "images/$fileName"
+
+    # Return the new path
+    return $imagePath
+}
+
 # Function to update the course metadata in the front matter
 function Update-MarkdownWithCourseData {
     param (
@@ -255,19 +277,19 @@ function Update-MarkdownWithCourseData {
                 $courseType = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-type' } | Select-Object -ExpandProperty meta_value
                 $duration = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-duration' } | Select-Object -ExpandProperty meta_value
                 $skillLevel = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-skill-level' } | Select-Object -ExpandProperty meta_value
-                $lead = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-lead' } | Select-Object -ExpandProperty meta_value
-                $audience = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-cource-target-audience' } | Select-Object -ExpandProperty meta_value
-                $format = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-format' } | Select-Object -ExpandProperty meta_value
-                $prerequisites = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-prerequisites' } | Select-Object -ExpandProperty meta_value
-                $details = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-more-details' } | Select-Object -ExpandProperty meta_value
+                $lead = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-lead' } | Select-Object -ExpandProperty meta_value)
+                $audience = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-cource-target-audience' } | Select-Object -ExpandProperty meta_value)
+                $format = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-format' } | Select-Object -ExpandProperty meta_value)
+                $prerequisites = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-prerequisites' } | Select-Object -ExpandProperty meta_value)
+                $details = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-more-details' } | Select-Object -ExpandProperty meta_value)
                 $colour = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-colour-primary' } | Select-Object -ExpandProperty meta_value
                 $vendor = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-vendor' } | Select-Object -ExpandProperty meta_value
-                $topics = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-topics' } | Select-Object -ExpandProperty meta_value
-                $objectives = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-objectives' } | Select-Object -ExpandProperty meta_value
-                $certification = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-and-certification' } | Select-Object -ExpandProperty meta_value
+                $topics = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-topics' } | Select-Object -ExpandProperty meta_value)
+                $objectives = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-objectives' } | Select-Object -ExpandProperty meta_value)
+                $certification = Convert-HTMLToMarkdown($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-and-certification' } | Select-Object -ExpandProperty meta_value)
 
-                $courseIcon = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-icon' } | Select-Object -ExpandProperty meta_value
-                $courseAssessmentIcon = $postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-icon' } | Select-Object -ExpandProperty meta_value
+                $courseIcon = Convert-UrlToImagePath($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-icon' } | Select-Object -ExpandProperty meta_value)
+                $courseAssessmentIcon = Convert-UrlToImagePath($postMetaData | Where-Object { $_.meta_key -eq 'wpcf-course-assessment-icon' } | Select-Object -ExpandProperty meta_value)
 
                 # Convert values as necessary
                 $courseType = Convert-CourseType -courseType $courseType

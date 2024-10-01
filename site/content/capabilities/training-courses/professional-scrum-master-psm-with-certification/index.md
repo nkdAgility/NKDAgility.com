@@ -12,69 +12,47 @@ coverImage: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
 title: Professional Scrum Master (PSM) Course with Certification
 author: MrHinsh
 delivery:
-  audience: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the <a href="https://www.scrum.org/resources/suggested-reading-professional-scrum-master" target="_blank" rel="noopener">PSM Subject Areas</a>. If you are new to Scrum and are interested in getting started then the <a href="/training/courses/professional-scrum-foundations/">Certified Professional Scrum Foundations Training</a> is more relevant. This class is perfect if you are studying for the <a href="https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments">Professional Scrum Master II assessment.</a>
+  audience: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
   skilllevel: intermediate
   format: |-
-    <!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->
+    <!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->  Our primary method of increasing [types field='marketing-topic'][/types] knowledge is a deliberate developmental experience divided into learning blocks, each with four hours of live virtual classroom training with a qualified **trainer-practitioner** complemented with presentations and lectures in the form of videos, reading material, and writing activities provided for self-study. Live sessions are delivered online using Microsoft Teams and Mural, and Mighty Networks provides the self-study portal.  Every participant on every option receives: 
+    - Two attempts at the industry-recognised Scrum.org Assessments.
+    - A 30m learning review, generally delivered between assessment attempts.
+    - A 60m one-on-one coaching session
 
-    Our primary method of increasing [types field='marketing-topic'][/types] knowledge is a deliberate developmental experience divided into learning blocks, each with four hours of live virtual classroom training with a qualified <strong>trainer-practitioner</strong> complemented with presentations and lectures in the form of videos, reading material, and writing activities provided for self-study. Live sessions are delivered online using Microsoft Teams and Mural, and Mighty Networks provides the self-study portal.
-
-    Every participant on every option receives:
-    <ul>
-     	<li>Two attempts at the industry-recognised Scrum.org Assessments.</li>
-     	<li>A 30m learning review, generally delivered between assessment attempts.</li>
-     	<li>A 60m one-on-one coaching session</li>
-    </ul>
-    <!-- /wp:list-item -->
-
-    <!-- /wp:list -->
-
-    <!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} -->
-
-    <!-- /wp:paragraph -->
+    <!-- /wp:list-item --><!-- /wp:list --><!-- wp:paragraph {"dynamicAttributes":{"toolsetDSVersion":"240000"}} --><!-- /wp:paragraph -->
   courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSM-I.png
-  objectives: |-
-    <ul>
-     	<li>Clear understanding that the Scrum Master is a Lean-agile Practitioner that is there to guide the Scrum Team and the Organisation to a better degree of agility.</li>
-     	<li>Act as Scrum Masters for Scrum Teams and stakeholders from an in-depth understanding of servant-leadership</li>
-     	<li>Effectively start using Scrum</li>
-     	<li>Increase the effectiveness of Scrum underway</li>
-    </ul>
-  certification: |-
-    Upon completion of our signature Professional Scrum Master course, all attendees will receive a password to attempt the prestigious <a href="https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments">Professional Scrum Master I (PSM I) assessment</a>. Additionally, we are pleased to offer a special discount for the <a href="https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments">Professional Scrum Master II (PSM II) assessment</a> as a token of our commitment to your continuous learning journey.
+  objectives: |2+
 
-    The PSM certifications, recognized and respected across the industry, do require a minimum passing score, reflecting their rigorous standards and the high level of competence they signify.
+    - Clear understanding that the Scrum Master is a Lean-agile Practitioner that is there to guide the Scrum Team and the Organisation to a better degree of agility.
+    - Act as Scrum Masters for Scrum Teams and stakeholders from an in-depth understanding of servant-leadership
+    - Effectively start using Scrum
+    - Increase the effectiveness of Scrum underway
 
-    For those affiliated with the Project Management Institute (PMI), we're delighted to inform you that our courses are eligible for PDU credit. Specifically, you can claim 14 PDUs after attending our two-day Professional Scrum Master (PSM) course. Please be aware that PMI PDUs are awarded for course attendance, not for passing a Scrum.org assessment.
+  certification: Upon completion of our signature Professional Scrum Master course, all attendees will receive a password to attempt the prestigious [Professional Scrum Master I (PSM I) assessment](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments). Additionally, we are pleased to offer a special discount for the [Professional Scrum Master II (PSM II) assessment](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments) as a token of our commitment to your continuous learning journey.  The PSM certifications, recognized and respected across the industry, do require a minimum passing score, reflecting their rigorous standards and the high level of competence they signify.  For those affiliated with the Project Management Institute (PMI), we're delighted to inform you that our courses are eligible for PDU credit. Specifically, you can claim 14 PDUs after attending our two-day Professional Scrum Master (PSM) course. Please be aware that PMI PDUs are awarded for course attendance, not for passing a Scrum.org assessment.  To claim your PDUs, you can do so under PMI’s “Education courses provided by other third party providers” category. Simply visit https://ccrs.pmi.org to register your PDUs.  We're excited to be part of your Scrum and Agile journey, and we're committed to providing you with the knowledge, skills, and credentials you need to excel in this dynamic field.
+  prerequisites: |+
+    Attendees make the most of the class if they: 
+    - Have studied the [Scrum Guide](http://www.scrumguides.org/) (**required**)
+    - Have passed the [Scrum Open assessment](https://www.scrum.org/Assessments/Open-Assessments/Scrum-Open-Assessment)
+    - Have a solid understanding of Scrum either through working on a Scrum Team, or through having taken part in a [Professional Scrum Foundations](https://www.scrum.org/Courses/Professional-Scrum-Foundations) or similar course
+    - Have been on or are closely involved in building or enhancing a software product or application using Scrum
+    - Have read one of the Scrum books of Ken Schwaber or the book “Scrum – A Pocket Guide” by Gunther Verheyen
 
-    To claim your PDUs, you can do so under PMI’s “Education courses provided by other third party providers” category. Simply visit https://ccrs.pmi.org to register your PDUs.
-
-    We're excited to be part of your Scrum and Agile journey, and we're committed to providing you with the knowledge, skills, and credentials you need to excel in this dynamic field.
-  prerequisites: |-
-    Attendees make the most of the class if they:
-    <ul>
-     	<li>Have studied the <a href="http://www.scrumguides.org/" target="_blank" rel="noopener">Scrum Guide</a> (<strong>required</strong>)</li>
-     	<li>Have passed the <a href="https://www.scrum.org/Assessments/Open-Assessments/Scrum-Open-Assessment" target="_blank" rel="noopener">Scrum Open assessment</a></li>
-     	<li>Have a solid understanding of Scrum either through working on a Scrum Team, or through having taken part in a <a href="https://www.scrum.org/Courses/Professional-Scrum-Foundations" target="_blank" rel="noopener">Professional Scrum Foundations</a> or similar course</li>
-     	<li>Have been on or are closely involved in building or enhancing a software product or application using Scrum</li>
-     	<li>Have read one of the Scrum books of Ken Schwaber or the book “Scrum – A Pocket Guide” by Gunther Verheyen</li>
-    </ul>
   duration: 16
   code: PSM
-  topics: |-
-    <ul>
-     	<li><strong>Scrum theory &amp; first principles</strong> - Gain understanding of complexity in software environments; How empiricism controls risk, and provides predictability in complex environments; What is agility and what is Scrum’s place within the Agile discussion?</li>
-     	<li><strong>The Scrum Framework</strong> - See that each part of Scrum ties back to the principles and theory, while exposing waste; Focus on the accountability of the rolls, the transparency of the artefacts, and the feedback loops of the Events.</li>
-     	<li><strong>Done &amp; Undone</strong> - It is fundamentally imposible to get transparency without Done</li>
-     	<li><strong> Product Delivery with Scrum</strong> - Understand how to organize Product Backlog; Practical tips to deal with estimates and value on a Product Backlog; Be confronted with ingrained, old habits like calculating, promising certainty, &amp; predicting the future</li>
-     	<li><strong>People &amp; Teams</strong> - To understand how Scrum Teams are formed and become effective and the productivity and creativity that can be gained through self-organization.</li>
-     	<li><strong>The Scrum Master</strong> - Skills and traits of a Scrum Master; The challenges for a Scrum Master in helping teams and the organization in using Scrum to become Agile; The behavioural shift in being a Scrum Master.</li>
-    </ul>
-  details: |-
-    <h3>What You Will Learn</h3>
-    Over the 2 days, students will see why PSM is the cutting-edge course for effective Scrum Masters and for anyone coaching a software development team toward increased efficiency and effectiveness. The course includes advanced thinking for servant-leadership and behavioural shifts. Throughout the course, students are challenged to think in terms of the Scrum principles to better understand what to do when returning to the workplace. The PSM course is much more than just a set of slides and an instructor. In this course, students work on real-life cases with other classmates together as a team. This course is made up of discussions and hands-on exercises based upon real-life cases.
+  topics: |2+
 
-    &nbsp;
+    - **Scrum theory & first principles** - Gain understanding of complexity in software environments; How empiricism controls risk, and provides predictability in complex environments; What is agility and what is Scrum’s place within the Agile discussion?
+    - **The Scrum Framework** - See that each part of Scrum ties back to the principles and theory, while exposing waste; Focus on the accountability of the rolls, the transparency of the artefacts, and the feedback loops of the Events.
+    - **Done & Undone** - It is fundamentally imposible to get transparency without Done
+    - ** Product Delivery with Scrum** - Understand how to organize Product Backlog; Practical tips to deal with estimates and value on a Product Backlog; Be confronted with ingrained, old habits like calculating, promising certainty, & predicting the future
+    - **People & Teams** - To understand how Scrum Teams are formed and become effective and the productivity and creativity that can be gained through self-organization.
+    - **The Scrum Master** - Skills and traits of a Scrum Master; The challenges for a Scrum Master in helping teams and the organization in using Scrum to become Agile; The behavioural shift in being a Scrum Master.
+
+  details: |2-
+
+    ### What You Will Learn
+     Over the 2 days, students will see why PSM is the cutting-edge course for effective Scrum Masters and for anyone coaching a software development team toward increased efficiency and effectiveness. The course includes advanced thinking for servant-leadership and behavioural shifts. Throughout the course, students are challenged to think in terms of the Scrum principles to better understand what to do when returning to the workplace. The PSM course is much more than just a set of slides and an instructor. In this course, students work on real-life cases with other classmates together as a team. This course is made up of discussions and hands-on exercises based upon real-life cases.   
   type: Scrum
   brand:
     colour: '#3a7c9a'
@@ -100,6 +78,7 @@ date: 2017-01-01
 id: "10049"
 
 ---
+
 
 
 
@@ -142,6 +121,7 @@ Course Features:
 This course is more than just an introduction to Scrum; it's a comprehensive exploration of Scrum's potential to transform your leadership style, team, and entire organization. Training for those wishing to leverage the power of Scrum is essential to enhance their effectiveness and adaptability in an increasingly complex business environment.
 
 Join the Professional Scrum Master course and equip yourself with the knowledge, skills, and mindset needed to lead in the Scrum world.
+
 
 
 

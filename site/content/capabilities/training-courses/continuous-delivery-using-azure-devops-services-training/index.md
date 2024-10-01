@@ -1,12 +1,11 @@
 ---
 coverImage: pipelines-icon-80.png
 author: MrHinsh
-tags:
-- development
 title: Continuous Delivery Using Azure DevOps Services Training
 aliases:
 - continuous-delivery-using-azure-devops-services
 - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+date: 2018-11-28
 delivery:
   audience: This course is intended for experienced software development professionals who want to learn about DevOps in order to achieve Continuous Integration, Continuous Delivery, Continuous Feedback, and Continuous Learning in a technical value stream as supported by Azure DevOps Services, Visual Studio, and Azure in order to continually deliver working software at scale. Students will also install and evaluate several extensions from the Azure DevOps Marketplace. Those who use the on-premises version of Azure DevOps Server (Team Foundation Server/TFS) will also benefit from this course. Attendees should be familiar with Visual Studio, Scrum, and have basic experience with Azure DevOps Services, Visual Studio Team Services or Team Foundation Server.
   skilllevel: intermediate
@@ -17,16 +16,16 @@ delivery:
   prerequisites: ""
   duration: 16
   code: cdads
-  topics: |-
-    <ol>
-     	<li>Increasing Flow at Scale</li>
-     	<li>Planning and Executing at Scale</li>
-     	<li>Sharing Code</li>
-     	<li>Integrating Continuously</li>
-     	<li>Delivering Continuously</li>
-     	<li>Empowering the Product Owner</li>
-     	<li>Learning and Improving Continuously</li>
-    </ol>
+  topics: |2+
+
+    1. Increasing Flow at Scale
+    2. Planning and Executing at Scale
+    3. Sharing Code
+    4. Integrating Continuously
+    5. Delivering Continuously
+    6. Empowering the Product Owner
+    7. Learning and Improving Continuously
+
   details: ""
   type: Engineering
   brand:
@@ -36,7 +35,8 @@ delivery:
   courseIcon: https://nkdagility.com/wp-content/uploads/2018/11/A-CDADS.png
 slug: continuous-delivery-using-azure-devops-services-training
 id: "38573"
-date: 2018-11-28
+tags:
+- development
 card:
   content: ""
   title: ""
@@ -45,6 +45,8 @@ card:
 type: courses
 
 ---
+
+
 
 
 

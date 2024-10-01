@@ -12,50 +12,51 @@ title: Professional Scrum Product Owner (PSPO) Course with Certification
 author: MrHinsh
 delivery:
   audience: |-
-    This course is appropriate for students in any industry where teams are working to solve complex problems. The Professional Scrum Product Owner course is for:
-    <ul>
-     	<li>Professionals interested in starting a career as a Product Owner</li>
-     	<li>Product Owners with some experience in the role that are looking to improve their understanding or fix their misconceptions of Scrum and the Product Owner role</li>
-     	<li>Scrum Masters wishing to be an effective coach to Product Owners will also find valuable insights in this course</li>
-    </ul>
-    While this course covers an introduction to the Scrum framework, it’s primarily from the perspective of the Product Owner. Therefore, it’s best if the students come to the course with an understanding of the fundamentals of Scrum, ideally as demonstrated by passing the Scrum Open.
+    This course is appropriate for students in any industry where teams are working to solve complex problems. The Professional Scrum Product Owner course is for: 
+    - Professionals interested in starting a career as a Product Owner
+    - Product Owners with some experience in the role that are looking to improve their understanding or fix their misconceptions of Scrum and the Product Owner role
+    - Scrum Masters wishing to be an effective coach to Product Owners will also find valuable insights in this course
+
+     While this course covers an introduction to the Scrum framework, it’s primarily from the perspective of the Product Owner. Therefore, it’s best if the students come to the course with an understanding of the fundamentals of Scrum, ideally as demonstrated by passing the Scrum Open.
   skilllevel: intermediate
   format: ""
   courseAssessmentIcon: https://nkdagility.com/wp-content/uploads/2021/08/Scrumorg-Assessment-PSPO-I.png
-  objectives: |-
-    <ul>
-     	<li>Increase business agility through the proper execution of the Product Owner role</li>
-     	<li>Recognize the value of a <em>product over a project</em> mindset</li>
-     	<li>Learn how to bridge business strategy to product execution using Scrum</li>
-     	<li>Understand that the Product Owner is an Agile Product Manager</li>
-     	<li>Understand the Scrum Principles and Empiricism</li>
-     	<li>Understand the Product Owner accountabilities on the Scrum Team</li>
-     	<li>Learn how to align the team around the business strategy, product vision, Product Goal, and Sprint Goal</li>
-     	<li>Find ways to effectively communicate the business strategy, product vision, and Product Goal</li>
-     	<li>Learn techniques for Product Backlog Management, Release Management, and Forecasting</li>
-     	<li>Identify metrics that can be used to track value creation, and successful product delivery</li>
-     	<li>Discover techniques to interact with stakeholders, customers, and the members of the Scrum Team</li>
-    </ul>
+  objectives: |2+
+
+    - Increase business agility through the proper execution of the Product Owner role
+    - Recognize the value of a *product over a project* mindset
+    - Learn how to bridge business strategy to product execution using Scrum
+    - Understand that the Product Owner is an Agile Product Manager
+    - Understand the Scrum Principles and Empiricism
+    - Understand the Product Owner accountabilities on the Scrum Team
+    - Learn how to align the team around the business strategy, product vision, Product Goal, and Sprint Goal
+    - Find ways to effectively communicate the business strategy, product vision, and Product Goal
+    - Learn techniques for Product Backlog Management, Release Management, and Forecasting
+    - Identify metrics that can be used to track value creation, and successful product delivery
+    - Discover techniques to interact with stakeholders, customers, and the members of the Scrum Team
+
   certification: |-
-    All participants completing the Professional Scrum Product Owner course receive a password to take the Professional Scrum Product Owner I (PSPO I) assessment. The industry-recognized PSPO I certification requires a minimum passing score of 85%. PSPO class participants who attempt the PSPO I assessment within 14 days of receiving their free password and do not score at least 85% will be granted a second attempt at no additional cost. You are also entitled to a discount on the PSPO II assessment once passing PSPO I.
-    <h4>PMI PDU Credits</h4>
-    Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum Master (PSPO) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at https://ccrs.pmi.org.  Find instructions <a title="Can I Claim PDUs for Attending a Scrum.org Course?" href="https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c9439596-fded-4bfe-b8a8-d9cfe14b1e86">here</a>.
+    All participants completing the Professional Scrum Product Owner course receive a password to take the Professional Scrum Product Owner I (PSPO I) assessment. The industry-recognized PSPO I certification requires a minimum passing score of 85%. PSPO class participants who attempt the PSPO I assessment within 14 days of receiving their free password and do not score at least 85% will be granted a second attempt at no additional cost. You are also entitled to a discount on the PSPO II assessment once passing PSPO I. 
+    #### PMI PDU Credits
+     Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum Master (PSPO) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at https://ccrs.pmi.org.  Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
   prerequisites: ""
   duration: 16
   code: PSPO
-  topics: |-
-    <ul>
-     	<li>Agile Product Management</li>
-     	<li>Value-Driven Development</li>
-     	<li>Scrum Principles &amp; Empiricism</li>
-     	<li>The Scrum Framework</li>
-     	<li>Product Backlog Management</li>
-     	<li>Release Management</li>
-    </ul>
-  details: |-
-    <h3>What Professional Scrum Product Owner Students Say</h3>
-    <div class="trustpilot-widget" data-businessunit-id="5c12d8d7393a0100015d1c3e" data-locale="en-US" data-schema-type="Organization" data-stars="4,5" data-style-height="140px" data-style-width="250%" data-tags="classtype:pspo" data-template-id="53aa8912dec7e10d38f59f36" data-theme="light"><iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;schemaType=Organization&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apspo&amp;theme=light" data-mce-fragment="1"></iframe></div>
-    <a title="Scrum.org Professional Scrum Master Training Student Reviews and Feedback" href="https://www.scrum.org/scrumorg-professional-scrum-product-owner-training-student-reviews-and-feedback" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0617153f-06a0-4349-b1f6-be56c1660e21">Read more</a> about our PSPO student surveys and their feedback
+  topics: |2+
+
+    - Agile Product Management
+    - Value-Driven Development
+    - Scrum Principles & Empiricism
+    - The Scrum Framework
+    - Product Backlog Management
+    - Release Management
+
+  details: |2-
+
+    ### What Professional Scrum Product Owner Students Say
+
+    <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;schemaType=Organization&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apspo&amp;theme=light" data-mce-fragment="1"></iframe>
+    [Read more](https://www.scrum.org/scrumorg-professional-scrum-product-owner-training-student-reviews-and-feedback "Scrum.org Professional Scrum Master Training Student Reviews and Feedback") about our PSPO student surveys and their feedback
   type: Scrum
   brand:
     colour: '#749335'
@@ -75,6 +76,7 @@ date: 2019-11-07
 id: "41711"
 
 ---
+
 
 
 
@@ -122,6 +124,7 @@ This course aims to help participants:
 This course goes beyond a mere introduction to Agile Product Management; it's a comprehensive exploration of Scrum's potential to transform your product delivery approach, team dynamics, and overall organizational performance through empirical practices.
 
 Join the Professional Scrum Product Owner (PSPO) course and equip yourself with the knowledge, skills, and mindset needed to excel in Agile.
+
 
 
 
