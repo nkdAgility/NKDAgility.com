@@ -1,0 +1,69 @@
+<nav aria-label="breadcrumb">
+  <ul class="breadcrumb">
+    <!-- Home link -->
+    <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
+
+    <!-- Walk through parent pages and build breadcrumbs in reverse order -->
+    {{ $currentPage := . }} {{ $parents := slice }} {{ $parent := $currentPage.Parent }}
+
+    <!-- Collect all parent pages -->
+    {{ with $parent }} {{ $parentPage := . }}
+
+    <!-- Traverse parent pages up the hierarchy -->
+    {{ range (seq 10) }}
+    <!-- Arbitrary large number to handle deep hierarchy -->
+    {{ if $parentPage }}
+    <!-- Prepend parent to the slice -->
+    {{ $parents = union (slice $parentPage) $parents }} {{ $parentPage = $parentPage.Parent }} {{ else }} {{ break }} {{ end }} {{ end }} {{ end }}
+
+    <!-- Output the breadcrumb trail in correct order -->
+    {{ range $parents }}
+    <li class="breadcrumb-item">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+
+    <!-- Current page (without a link) -->
+    <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
+  </ul>
+</nav>
+<style>
+  .breadcrumb {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* Centers the breadcrumb items horizontally */
+    padding: 0;
+    margin: 0;
+  }
+
+  .breadcrumb-item {
+    margin-right: 10px;
+  }
+
+  .breadcrumb-item::after {
+    content: '>';
+    margin-left: 10px;
+  }
+
+  .breadcrumb-item:last-child {
+    display: none; /* Hide the last breadcrumb item */
+  }
+
+  .breadcrumb-item:nth-last-child(2)::after {
+    content: none; /* Remove the arrow after the second-to-last item */
+  }
+
+  .breadcrumb-item a {
+    text-decoration: none;
+    color: #3498db;
+  }
+
+  .breadcrumb-item.active {
+    font-weight: bold;
+    color: #333;
+  }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: none !important; /* Removes the default slash separator */
+  }
+</style>

@@ -2,6 +2,7 @@
 id: "51730"
 title: "Why Most Scrum Masters Are Failing and What They Should Know"
 date: "2024-09-05"
+tags: ["Scrum Masters"]
 categories: 
   - "agility"
 coverImage: "NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg"
