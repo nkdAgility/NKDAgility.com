@@ -15,7 +15,7 @@ tags:
   - "upgrade"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "its-that-time-again-get-ready-to-upgrade-to-tfs-2015"
 ---
 

@@ -10,7 +10,7 @@ tags:
   - "tfs-2013"
   - "web-access"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-a-work-item-with-defaults-in-team-foundation-server"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "wcf"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "blogging-about"
 ---
 

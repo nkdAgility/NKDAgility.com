@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "new-un-versioned-repository-in-tfs-2012"
 ---
 

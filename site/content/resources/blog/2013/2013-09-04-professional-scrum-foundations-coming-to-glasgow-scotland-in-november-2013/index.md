@@ -13,7 +13,7 @@ tags:
   - "scrum-org"
 coverImage: "PSF_Badges-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013"
 ---
 

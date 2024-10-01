@@ -16,7 +16,7 @@ tags:
   - "scrum"
 coverImage: "metro-nwc-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon"
 ---
 

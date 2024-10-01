@@ -7,7 +7,7 @@ tags:
   - "off-topic"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "gears-of-war-update-starting-9-jan-2007"
 ---
 

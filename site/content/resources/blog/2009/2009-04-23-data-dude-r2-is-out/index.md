@@ -6,7 +6,7 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "data-dude-r2-is-out"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "tfs-2013"
   - "videos"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "installing-tfs-2013-scratch-easy"
 ---
 

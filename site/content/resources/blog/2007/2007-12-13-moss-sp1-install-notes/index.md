@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "moss-sp1-install-notes"
 ---
 

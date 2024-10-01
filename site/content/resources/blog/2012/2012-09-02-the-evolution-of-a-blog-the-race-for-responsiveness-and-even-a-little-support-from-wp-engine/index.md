@@ -6,7 +6,7 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-9-9.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine"
 ---
 

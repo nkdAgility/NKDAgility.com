@@ -8,7 +8,7 @@ tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "microsoft-myphone-service-available-to-the-public"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "microsoft-please-help-me-diagnose-tfs-administration-permission-issues"
 ---
 

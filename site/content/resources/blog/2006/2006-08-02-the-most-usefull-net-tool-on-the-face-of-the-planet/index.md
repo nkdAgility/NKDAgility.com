@@ -6,7 +6,7 @@ tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-most-usefull-net-tool-on-the-face-of-the-planet"
 ---
 

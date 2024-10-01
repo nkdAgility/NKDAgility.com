@@ -14,7 +14,7 @@ tags:
   - "scrum"
 coverImage: "metro-event-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "coffee-talk-introduction-to-scrum-webcast-event-this-friday"
 ---
 

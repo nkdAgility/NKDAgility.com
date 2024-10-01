@@ -12,7 +12,7 @@ tags:
   - "windows-mobile-6"
 coverImage: "metro-android-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "running-android-2-2-frodo-on-your-hd2"
 ---
 

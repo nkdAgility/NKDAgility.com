@@ -5,7 +5,7 @@ date: "2007-07-21"
 tags: 
   - "tfs"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "access-to-team-foundation-server"
 ---
 

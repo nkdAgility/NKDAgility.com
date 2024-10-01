@@ -9,7 +9,7 @@ tags:
   - "visual-studio"
   - "vsip"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "green-to-orangejoining-the-vsip-team-as-a-technical-product-manager"
 ---
 

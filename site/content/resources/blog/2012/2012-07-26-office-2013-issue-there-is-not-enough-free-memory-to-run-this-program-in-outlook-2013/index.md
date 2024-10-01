@@ -10,7 +10,7 @@ tags:
   - "puzzles"
 coverImage: "metro-problem-icon-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013"
 ---
 

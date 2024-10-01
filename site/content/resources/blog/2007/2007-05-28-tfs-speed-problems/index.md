@@ -4,7 +4,7 @@ title: "TFS Speed Problems"
 date: "2007-05-28"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-speed-problems"
 ---
 

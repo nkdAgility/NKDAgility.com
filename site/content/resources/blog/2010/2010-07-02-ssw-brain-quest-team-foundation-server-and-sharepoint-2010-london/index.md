@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london"
 ---
 

@@ -6,7 +6,7 @@ tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "delving-into-sharepoint-3-0"
 ---
 

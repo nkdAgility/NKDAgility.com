@@ -6,7 +6,7 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-3-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "new-laptop-and-windows-7"
 ---
 

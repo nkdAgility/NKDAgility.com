@@ -15,7 +15,7 @@ tags:
   - "scrum-org"
 coverImage: "nakedalm-experts-professional-scrum-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "announcing-scrum-at-scale-workshop-scrum-org"
 ---
 

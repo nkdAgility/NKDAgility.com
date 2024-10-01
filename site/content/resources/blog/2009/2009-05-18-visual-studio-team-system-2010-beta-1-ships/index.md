@@ -8,7 +8,7 @@ tags:
   - "tools"
   - "visual-studio"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-team-system-2010-beta-1-ships"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "value-track"
 coverImage: "image-4-5-5.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "scrum-is-made-up-of-influencers-entrepreneurs-and-makers"
 ---
 

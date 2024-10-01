@@ -14,7 +14,7 @@ tags:
   - "vsteamservices"
 coverImage: "puzzle-issue-problem-128-link-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "unable-load-task-handler-powershell-task-vsbuild"
 ---
 

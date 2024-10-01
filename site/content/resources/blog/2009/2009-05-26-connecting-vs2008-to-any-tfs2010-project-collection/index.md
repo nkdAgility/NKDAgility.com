@@ -10,7 +10,7 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "connecting-vs2008-to-any-tfs2010-project-collection"
 ---
 

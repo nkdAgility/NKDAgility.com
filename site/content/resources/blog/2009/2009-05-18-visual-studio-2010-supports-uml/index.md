@@ -11,7 +11,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-2010-supports-uml"
 ---
 

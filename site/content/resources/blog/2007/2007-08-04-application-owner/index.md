@@ -8,7 +8,7 @@ tags:
   - "tfs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "application-owner"
 ---
 

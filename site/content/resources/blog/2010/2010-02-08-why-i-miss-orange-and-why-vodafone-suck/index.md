@@ -9,7 +9,7 @@ tags:
   - "mobile"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "why-i-miss-orange-and-why-vodafone-suck"
 ---
 

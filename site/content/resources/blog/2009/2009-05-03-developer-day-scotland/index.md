@@ -13,7 +13,7 @@ tags:
   - "wpf"
 coverImage: "metro-event-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "developer-day-scotland"
 ---
 

@@ -18,7 +18,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "i-messed-up-my-work-items-from-excel-what-now"
 ---
 

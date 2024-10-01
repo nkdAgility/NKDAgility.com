@@ -19,7 +19,7 @@ tags:
   - "tools"
 coverImage: "metro-problem-icon-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist"
 ---
 

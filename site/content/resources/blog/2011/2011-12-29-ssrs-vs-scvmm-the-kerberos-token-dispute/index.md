@@ -11,7 +11,7 @@ tags:
   - "tfslab"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "ssrs-vs-scvmm-the-kerberos-token-dispute"
 ---
 

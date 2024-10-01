@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "linq-to-xsd"
 ---
 

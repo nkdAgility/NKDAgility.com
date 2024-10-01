@@ -8,7 +8,7 @@ tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "am-i-a-stoner-hippy"
 ---
 

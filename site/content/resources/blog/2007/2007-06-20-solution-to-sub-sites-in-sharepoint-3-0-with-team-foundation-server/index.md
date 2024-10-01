@@ -6,7 +6,7 @@ tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server"
 ---
 

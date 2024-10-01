@@ -11,7 +11,7 @@ tags:
   - "tfs-2013"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "configure-features-in-team-foundation-server-2013"
 ---
 

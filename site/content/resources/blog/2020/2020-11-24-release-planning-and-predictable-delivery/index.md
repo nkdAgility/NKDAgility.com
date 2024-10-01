@@ -22,7 +22,7 @@ tags:
   - "the-sprint"
 coverImage: "nkdAgility-habits-16x9-1280-2-2.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "release-planning-and-predictable-delivery"
 ---
 

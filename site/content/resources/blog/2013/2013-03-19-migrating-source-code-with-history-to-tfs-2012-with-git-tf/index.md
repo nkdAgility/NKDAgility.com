@@ -15,7 +15,7 @@ tags:
   - "tfs2012-2"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "migrating-source-code-with-history-to-tfs-2012-with-git-tf"
 ---
 

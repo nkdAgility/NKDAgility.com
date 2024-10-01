@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-merilllynch-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "becoming-a-better-developer"
 ---
 

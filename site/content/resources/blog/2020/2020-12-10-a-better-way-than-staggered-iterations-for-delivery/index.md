@@ -16,7 +16,7 @@ tags:
   - "working-software"
 coverImage: "staggered-iterations-for-delivery1-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "a-better-way-than-staggered-iterations-for-delivery"
 ---
 

@@ -5,7 +5,7 @@ date: "2007-04-27"
 tags: 
   - "tfs"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "selling-the-benefits-of-team-system"
 ---
 

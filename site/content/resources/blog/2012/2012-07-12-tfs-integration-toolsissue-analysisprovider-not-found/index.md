@@ -10,7 +10,7 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-integration-toolsissue-analysisprovider-not-found"
 ---
 

@@ -9,7 +9,7 @@ tags:
   - "microsoft-id"
 coverImage: "nakedalm-windows-logo-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "using-multiple-email-alias-existing-microsoft-id"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "tfs-2013"
   - "upgrade"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-great-team-foundation-server-2013-upgrade-weekend"
 ---
 

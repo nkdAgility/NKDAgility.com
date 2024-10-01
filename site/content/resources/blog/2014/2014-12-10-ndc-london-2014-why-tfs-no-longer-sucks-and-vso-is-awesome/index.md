@@ -15,7 +15,7 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome"
 ---
 

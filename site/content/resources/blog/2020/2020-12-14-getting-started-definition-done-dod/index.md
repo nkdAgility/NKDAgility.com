@@ -14,7 +14,7 @@ tags:
   - "scrumble"
 coverImage: "naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "getting-started-definition-done-dod"
 ---
 

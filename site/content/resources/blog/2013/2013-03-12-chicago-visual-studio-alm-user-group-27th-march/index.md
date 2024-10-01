@@ -12,7 +12,7 @@ tags:
   - "user-groups"
 coverImage: "metro-UserGroup-128-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "chicago-visual-studio-alm-user-group-27th-march"
 ---
 

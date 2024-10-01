@@ -10,7 +10,7 @@ tags:
   - "sp2007"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "waffling-on-sharepoint"
 ---
 

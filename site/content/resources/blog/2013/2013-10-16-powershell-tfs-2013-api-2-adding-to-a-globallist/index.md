@@ -12,7 +12,7 @@ tags:
   - "workitemstore"
 coverImage: "metro-powershell-logo-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "powershell-tfs-2013-api-2-adding-to-a-globallist"
 ---
 

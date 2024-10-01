@@ -9,7 +9,7 @@ tags:
   - "professional-scrum"
 coverImage: "clip_image001-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "kalabule-or-a-professional-at-agile-in-africa"
 ---
 

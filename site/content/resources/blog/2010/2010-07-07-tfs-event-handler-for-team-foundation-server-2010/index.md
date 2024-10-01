@@ -13,7 +13,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-event-handler-for-team-foundation-server-2010"
 ---
 

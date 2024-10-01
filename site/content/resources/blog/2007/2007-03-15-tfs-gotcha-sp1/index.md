@@ -4,7 +4,7 @@ title: "TFS Gotcha (SP1)"
 date: "2007-03-15"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-gotcha-sp1"
 ---
 

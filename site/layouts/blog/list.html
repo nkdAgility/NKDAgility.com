@@ -1,0 +1,21 @@
+{{ define "main"}} <h1>{{ .Title }}</h1>
+
+<ul class="post-list">
+  {{ range .Paginator.Pages }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    <p>{{ .Summary }}</p>
+    <small>{{ .Date.Format "January 2, 2006" }}</small>
+  </li>
+  {{ end }}
+</ul>
+
+<!-- Pagination -->
+<nav>
+  {{ if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}">Previous</a>
+  {{ end }} {{ if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}">Next</a>
+  {{ end }}
+</nav>
+{{ end}}

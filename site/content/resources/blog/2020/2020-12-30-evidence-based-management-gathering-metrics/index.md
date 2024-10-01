@@ -14,7 +14,7 @@ tags:
   - "merics"
 coverImage: "naked-agility-evidence-based-management-1-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "evidence-based-management-gathering-metrics"
 ---
 

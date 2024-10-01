@@ -6,7 +6,7 @@ tags:
   - "off-topic"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "microsoft-surface-wow"
 ---
 

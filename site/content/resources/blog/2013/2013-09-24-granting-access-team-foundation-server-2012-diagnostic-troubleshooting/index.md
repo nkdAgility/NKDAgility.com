@@ -11,7 +11,7 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "granting-access-team-foundation-server-2012-diagnostic-troubleshooting"
 ---
 

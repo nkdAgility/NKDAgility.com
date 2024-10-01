@@ -11,7 +11,7 @@ tags:
   - "vsts"
 coverImage: "nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "vsts-sync-migration-tool-update-bugfix"
 ---
 

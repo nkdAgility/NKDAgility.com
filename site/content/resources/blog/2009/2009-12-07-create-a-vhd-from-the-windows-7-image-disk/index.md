@@ -7,7 +7,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-16-16.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "create-a-vhd-from-the-windows-7-image-disk"
 ---
 

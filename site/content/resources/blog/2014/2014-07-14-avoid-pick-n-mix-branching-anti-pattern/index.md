@@ -9,7 +9,7 @@ tags:
   - "branching"
 coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "avoid-pick-n-mix-branching-anti-pattern"
 ---
 

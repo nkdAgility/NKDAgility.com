@@ -9,7 +9,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa"
 ---
 

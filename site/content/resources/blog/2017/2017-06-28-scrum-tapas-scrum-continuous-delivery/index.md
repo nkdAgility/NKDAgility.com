@@ -15,7 +15,7 @@ tags:
   - "the-sprint"
 coverImage: "nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "scrum-tapas-scrum-continuous-delivery"
 ---
 

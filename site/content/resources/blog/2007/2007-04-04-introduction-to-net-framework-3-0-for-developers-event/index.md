@@ -9,7 +9,7 @@ tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "introduction-to-net-framework-3-0-for-developers-event"
 ---
 

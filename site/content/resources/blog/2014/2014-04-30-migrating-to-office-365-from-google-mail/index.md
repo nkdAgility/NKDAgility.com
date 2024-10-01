@@ -13,7 +13,7 @@ tags:
   - "office-365"
 coverImage: "metro-office-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "migrating-to-office-365-from-google-mail"
 ---
 

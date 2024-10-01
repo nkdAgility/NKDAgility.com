@@ -13,7 +13,7 @@ tags:
   - "training"
 coverImage: "nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "professional-scrum-everyone-organisation"
 ---
 

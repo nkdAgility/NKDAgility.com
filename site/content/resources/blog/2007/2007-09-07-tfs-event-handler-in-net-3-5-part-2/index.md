@@ -14,7 +14,7 @@ tags:
   - "wcf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-event-handler-in-net-3-5-part-2"
 ---
 

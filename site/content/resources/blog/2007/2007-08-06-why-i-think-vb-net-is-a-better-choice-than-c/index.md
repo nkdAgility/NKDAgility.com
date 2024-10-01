@@ -11,7 +11,7 @@ tags:
   - "visual-basic-9"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "why-i-think-vb-net-is-a-better-choice-than-c"
 ---
 

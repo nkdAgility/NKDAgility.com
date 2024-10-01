@@ -17,7 +17,7 @@ tags:
   - "visual-studio"
   - "vs2012"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes"
 ---
 

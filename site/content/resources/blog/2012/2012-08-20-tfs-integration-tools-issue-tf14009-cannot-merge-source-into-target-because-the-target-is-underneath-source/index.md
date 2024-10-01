@@ -12,7 +12,7 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-5-5.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source"
 ---
 

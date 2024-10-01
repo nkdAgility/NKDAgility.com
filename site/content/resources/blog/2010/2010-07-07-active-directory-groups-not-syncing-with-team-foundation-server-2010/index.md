@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "active-directory-groups-not-syncing-with-team-foundation-server-2010"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "tfs2012"
 coverImage: "metro-problem-icon-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-2012-issue-manage-group-membership-missing-from-admin-after-tfs-2008-to-tfs-2012-upgrade"
 ---
 

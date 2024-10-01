@@ -10,7 +10,7 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "storms-of-neglect-the-perils-of-not-delivering-usable-products-in-agile-iterations"
 ---
 

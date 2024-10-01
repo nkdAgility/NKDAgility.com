@@ -19,7 +19,7 @@ tags:
   - "tactical"
 coverImage: "nakedalm-experts-professional-scrum-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-insufficiency-of-scrum-is-a-fallacy"
 ---
 

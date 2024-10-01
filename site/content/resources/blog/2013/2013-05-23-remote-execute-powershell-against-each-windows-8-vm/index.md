@@ -13,7 +13,7 @@ tags:
   - "vm"
 coverImage: "image11-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "remote-execute-powershell-against-each-windows-8-vm"
 ---
 

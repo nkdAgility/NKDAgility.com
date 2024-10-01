@@ -17,7 +17,7 @@ tags:
   - "vsteamservices"
 coverImage: "metro-event-icon-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "ndc-london-second-look-team-foundation-server-vso"
 ---
 

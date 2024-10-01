@@ -11,7 +11,7 @@ tags:
   - "scrum-theory"
 coverImage: "image-21-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "online-is-the-new-co-located"
 ---
 

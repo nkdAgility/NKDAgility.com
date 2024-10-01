@@ -15,7 +15,7 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-46-46.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "create-release-management-pipeline-professional-developers"
 ---
 

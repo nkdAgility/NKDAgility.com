@@ -10,7 +10,7 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "there-is-no-do-agile-there-is-only-be-agile"
 ---
 

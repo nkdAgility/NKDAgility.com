@@ -9,7 +9,7 @@ tags:
   - "win8"
 coverImage: "nakedalm-logo-128-link-15-15.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country"
 ---
 

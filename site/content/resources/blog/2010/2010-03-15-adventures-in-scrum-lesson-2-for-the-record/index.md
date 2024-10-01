@@ -14,7 +14,7 @@ tags:
   - "ssw"
 coverImage: "metro-SSWLogo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "adventures-in-scrum-lesson-2-for-the-record"
 ---
 

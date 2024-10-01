@@ -11,7 +11,7 @@ tags:
   - "scrum"
 coverImage: "nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "professional-organisational-change-ghana-police-service"
 ---
 

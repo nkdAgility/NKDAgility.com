@@ -11,7 +11,7 @@ tags:
   - "ml"
 coverImage: "metro-aggreko-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "a-change-for-the-better-1"
 ---
 

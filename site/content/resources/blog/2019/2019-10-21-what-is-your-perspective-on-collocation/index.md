@@ -11,7 +11,7 @@ tags:
   - "team-room"
 coverImage: "1026661500-1-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "what-is-your-perspective-on-collocation"
 ---
 

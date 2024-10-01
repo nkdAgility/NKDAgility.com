@@ -11,7 +11,7 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "benefits-visual-studio-online-enterprise"
 ---
 

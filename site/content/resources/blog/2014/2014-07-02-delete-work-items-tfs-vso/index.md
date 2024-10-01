@@ -10,7 +10,7 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "delete-work-items-tfs-vso"
 ---
 

@@ -6,7 +6,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "branch-madness"
 ---
 

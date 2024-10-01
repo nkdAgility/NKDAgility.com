@@ -12,7 +12,7 @@ tags:
   - "tfs-2013"
 coverImage: "metro-problem-icon-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "issue-tfs-2013-tf255466-previous-update-installation-requires-restart"
 ---
 

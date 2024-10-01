@@ -8,7 +8,7 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-team-system-2008-team-foundation-server-power-tools"
 ---
 

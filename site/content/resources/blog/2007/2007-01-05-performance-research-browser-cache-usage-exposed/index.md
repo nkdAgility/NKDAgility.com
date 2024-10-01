@@ -7,7 +7,7 @@ tags:
   - "web"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "performance-research-browser-cache-usage-exposed"
 ---
 

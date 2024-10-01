@@ -7,7 +7,7 @@ tags:
   - "tools"
   - "wpf"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "infragistics-wpf"
 ---
 

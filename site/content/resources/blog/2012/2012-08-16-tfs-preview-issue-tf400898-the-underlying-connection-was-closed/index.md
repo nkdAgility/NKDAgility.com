@@ -11,7 +11,7 @@ tags:
   - "vsteamservices"
 coverImage: "metro-problem-icon-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-preview-issue-tf400898-the-underlying-connection-was-closed"
 ---
 

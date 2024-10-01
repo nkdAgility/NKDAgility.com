@@ -15,7 +15,7 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done"
 ---
 

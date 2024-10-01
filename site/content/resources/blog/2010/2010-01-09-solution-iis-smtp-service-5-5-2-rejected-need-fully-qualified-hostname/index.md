@@ -8,7 +8,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-5-5.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname"
 ---
 

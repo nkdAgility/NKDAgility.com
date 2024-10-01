@@ -4,7 +4,7 @@ title: "TFS Process Templates"
 date: "2007-06-07"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-process-templates"
 ---
 

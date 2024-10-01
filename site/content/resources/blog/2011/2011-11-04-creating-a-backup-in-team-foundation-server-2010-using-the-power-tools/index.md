@@ -10,7 +10,7 @@ tags:
   - "tools"
   - "webcast-2"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-a-backup-in-team-foundation-server-2010-using-the-power-tools"
 ---
 

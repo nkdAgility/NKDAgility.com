@@ -9,7 +9,7 @@ tags:
   - "vista"
 coverImage: "metro-merilllynch-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "windows-vista-pre-sp1-performance-and-reliability-updates-result"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "homepage"
 coverImage: "NKDAgility-technically-BlockedColumns-7-7.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness"
 ---
 

@@ -13,7 +13,7 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "find-mappings-states-defined-test-suit-work-item-type"
 ---
 

@@ -20,7 +20,7 @@ tags:
   - "vs2012"
 coverImage: "metro-automated-test-icon-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "automated-testing-in-a-modern-application-lifecycle"
 ---
 

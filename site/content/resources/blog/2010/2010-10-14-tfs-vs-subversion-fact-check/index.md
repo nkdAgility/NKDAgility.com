@@ -10,7 +10,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-vs-subversion-fact-check"
 ---
 

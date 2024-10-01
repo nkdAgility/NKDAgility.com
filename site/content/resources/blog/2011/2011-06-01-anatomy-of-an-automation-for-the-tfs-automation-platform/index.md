@@ -11,7 +11,7 @@ tags:
   - "visual-studio"
   - "vsalmrangers"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "anatomy-of-an-automation-for-the-tfs-automation-platform"
 ---
 

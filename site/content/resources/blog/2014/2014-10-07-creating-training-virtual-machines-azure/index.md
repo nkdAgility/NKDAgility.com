@@ -14,7 +14,7 @@ tags:
   - "visual-studio-alm"
 coverImage: "nakedalm-windows-logo-16-16.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-training-virtual-machines-azure"
 ---
 

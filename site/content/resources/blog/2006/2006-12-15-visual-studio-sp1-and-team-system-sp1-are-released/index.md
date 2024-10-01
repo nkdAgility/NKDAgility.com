@@ -4,7 +4,7 @@ title: "Visual Studio SP1 and Team System SP1 are Released!"
 date: "2006-12-15"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-sp1-and-team-system-sp1-are-released"
 ---
 

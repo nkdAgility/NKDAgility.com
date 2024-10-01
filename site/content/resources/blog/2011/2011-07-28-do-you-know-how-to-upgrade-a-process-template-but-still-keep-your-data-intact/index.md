@@ -19,7 +19,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact"
 ---
 

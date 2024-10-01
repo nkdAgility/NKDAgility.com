@@ -7,7 +7,7 @@ categories:
 tags: 
   - "tfs"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "managing-the-vsts-developers-linkedin-group"
 ---
 

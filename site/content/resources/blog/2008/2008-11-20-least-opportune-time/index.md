@@ -10,7 +10,7 @@ tags:
   - "wit"
 coverImage: "metro-visual-studio-2005-128-link-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "least-opportune-time"
 ---
 

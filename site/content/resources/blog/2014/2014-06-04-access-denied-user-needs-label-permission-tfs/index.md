@@ -14,7 +14,7 @@ tags:
   - "tfs-2012-4"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "access-denied-user-needs-label-permission-tfs"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "scrum"
 coverImage: "nkdagility-scrum-and-kanban-1900-2-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "introducing-kanban-professional-scrum-teams"
 ---
 

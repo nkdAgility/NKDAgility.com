@@ -11,7 +11,7 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters"
 ---
 

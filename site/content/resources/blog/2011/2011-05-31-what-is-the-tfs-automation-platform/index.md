@@ -13,7 +13,7 @@ tags:
   - "vsalmrangers"
 coverImage: "metro-visual-studio-2010-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "what-is-the-tfs-automation-platform"
 ---
 

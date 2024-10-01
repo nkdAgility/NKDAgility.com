@@ -15,7 +15,7 @@ tags:
   - "videos"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "install-release-management-2013"
 ---
 

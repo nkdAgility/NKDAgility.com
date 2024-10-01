@@ -13,7 +13,7 @@ tags:
   - "wpf"
 coverImage: "metro-visual-studio-2005-128-link-2-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-sticky-buddy-v1-0"
 ---
 

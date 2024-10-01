@@ -13,7 +13,7 @@ tags:
   - "vhd"
 coverImage: "nakedalm-windows-logo-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "move-azure-storage-blob-another-store"
 ---
 

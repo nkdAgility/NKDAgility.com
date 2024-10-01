@@ -12,7 +12,7 @@ tags:
   - "release-management-server"
 coverImage: "nakedalm-windows-logo-22-22.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "configuring-dc-azure-aad-integrated-release-management"
 ---
 

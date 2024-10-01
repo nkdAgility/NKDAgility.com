@@ -9,7 +9,7 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-2008-and-the-gdr-ctp16"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - "version-control"
 coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "modelling-teams-in-team-foundation-server-2013"
 ---
 

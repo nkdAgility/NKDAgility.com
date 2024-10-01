@@ -9,7 +9,7 @@ tags:
   - "wpf"
 coverImage: "metro-cloud-azure-link-3-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "windows-azure-training-kit"
 ---
 

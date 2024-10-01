@@ -9,7 +9,7 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "what-to-do-after-a-servicing-fails-on-tfs-2010"
 ---
 

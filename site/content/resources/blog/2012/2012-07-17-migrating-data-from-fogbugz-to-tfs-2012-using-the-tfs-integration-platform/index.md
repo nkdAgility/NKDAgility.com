@@ -13,7 +13,7 @@ tags:
   - "tfs-integration-platform"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform"
 ---
 

@@ -12,7 +12,7 @@ tags:
   - "visual-studio-2013"
   - "visual-studio"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "error-adding-active-directory-group-to-release-management-client-in-visual-studio-2013"
 ---
 

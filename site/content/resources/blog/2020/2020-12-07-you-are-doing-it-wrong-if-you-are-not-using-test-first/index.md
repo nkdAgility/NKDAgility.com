@@ -16,7 +16,7 @@ tags:
   - "test-first"
 coverImage: "nkdAgility-PSD-Krakow-0-1-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "you-are-doing-it-wrong-if-you-are-not-using-test-first"
 ---
 

@@ -8,7 +8,7 @@ tags:
   - "leadership-track"
 coverImage: "image-1-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "live-virtual-classrooms-and-the-new-normal"
 ---
 

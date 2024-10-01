@@ -12,7 +12,7 @@ tags:
   - "scrum"
 coverImage: "clip_image006_thumb-3-3.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "professional-scrum-training-ghana-police-service"
 ---
 

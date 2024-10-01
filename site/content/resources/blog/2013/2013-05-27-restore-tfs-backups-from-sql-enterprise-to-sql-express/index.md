@@ -25,7 +25,7 @@ tags:
   - "wit"
 coverImage: "lazy1-5-5.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "restore-tfs-backups-from-sql-enterprise-to-sql-express"
 ---
 

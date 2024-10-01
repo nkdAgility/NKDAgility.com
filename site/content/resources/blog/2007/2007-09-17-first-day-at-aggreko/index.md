@@ -9,7 +9,7 @@ tags:
   - "sp2007"
 coverImage: "metro-aggreko-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "first-day-at-aggreko"
 ---
 

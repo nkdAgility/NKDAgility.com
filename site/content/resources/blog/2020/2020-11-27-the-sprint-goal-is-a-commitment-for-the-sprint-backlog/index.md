@@ -8,7 +8,7 @@ tags:
   - "sprint-goal"
 coverImage: "naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-sprint-goal-is-a-commitment-for-the-sprint-backlog"
 ---
 

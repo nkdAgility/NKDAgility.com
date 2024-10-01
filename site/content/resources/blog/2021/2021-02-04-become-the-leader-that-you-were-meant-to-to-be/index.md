@@ -9,7 +9,7 @@ tags:
   - "leadership-track"
 coverImage: "image-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "become-the-leader-that-you-were-meant-to-to-be"
 ---
 

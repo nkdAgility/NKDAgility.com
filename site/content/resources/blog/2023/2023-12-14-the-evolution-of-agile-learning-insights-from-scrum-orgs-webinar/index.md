@@ -9,7 +9,7 @@ tags:
   - "homepage"
 coverImage: "NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar"
 ---
 

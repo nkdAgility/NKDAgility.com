@@ -15,7 +15,7 @@ tags:
   - "ssw"
 coverImage: "metro-sharepoint-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "do-you-know-when-to-send-a-done-email-in-scrum"
 ---
 

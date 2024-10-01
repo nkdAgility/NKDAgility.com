@@ -13,7 +13,7 @@ tags:
   - "visual-basic"
 coverImage: "metro-binary-vb-128-link-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "powerpointissue-i-spell-it-as-favourite-and-you-as-favorite"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - "scrum-theory"
 coverImage: "image-15-5-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "evolution-not-transformation-this-is-the-inevitability-of-change"
 ---
 

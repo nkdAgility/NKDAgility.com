@@ -8,7 +8,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "removing-a-dead-solution-deployment-from-moss-2007"
 ---
 

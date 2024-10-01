@@ -11,7 +11,7 @@ tags:
   - "visual-studio-2013"
   - "witadmin"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "cant-use-witadmin-versions-older-tfs-2010"
 ---
 

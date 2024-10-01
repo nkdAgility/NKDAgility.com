@@ -11,7 +11,7 @@ tags:
   - "practices"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "why-do-we-care-about-software-factories"
 ---
 

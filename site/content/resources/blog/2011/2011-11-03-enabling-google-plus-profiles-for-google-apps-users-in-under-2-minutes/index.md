@@ -11,7 +11,7 @@ tags:
   - "webcast-2"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes"
 ---
 

@@ -10,7 +10,7 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-cross-team-cross-business-line-work-item-tracking"
 ---
 

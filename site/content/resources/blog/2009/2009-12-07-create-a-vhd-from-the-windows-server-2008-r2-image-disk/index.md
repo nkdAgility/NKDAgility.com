@@ -7,7 +7,7 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-10-10.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "create-a-vhd-from-the-windows-server-2008-r2-image-disk"
 ---
 

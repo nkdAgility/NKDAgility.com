@@ -9,7 +9,7 @@ tags:
   - "azure"
 coverImage: "nakedalm-windows-logo-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "join-machine-azure-hosted-domain-controller"
 ---
 

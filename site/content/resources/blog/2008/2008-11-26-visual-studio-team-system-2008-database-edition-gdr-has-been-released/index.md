@@ -6,7 +6,7 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "visual-studio-team-system-2008-database-edition-gdr-has-been-released"
 ---
 

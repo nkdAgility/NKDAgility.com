@@ -16,7 +16,7 @@ tags:
   - "tfs2010"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "even-scrum-should-have-detailed-task-descriptions"
 ---
 

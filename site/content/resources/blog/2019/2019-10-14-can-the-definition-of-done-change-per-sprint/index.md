@@ -12,7 +12,7 @@ tags:
   - "definition-of-done"
 coverImage: "20190906_152025-2-2.gif"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "can-the-definition-of-done-change-per-sprint"
 ---
 

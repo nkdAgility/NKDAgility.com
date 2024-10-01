@@ -27,7 +27,7 @@ tags:
   - "upgrade"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "alm-consulting-scotland-uk-scandinavia-europe"
 ---
 

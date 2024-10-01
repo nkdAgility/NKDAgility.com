@@ -11,7 +11,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-a-custom-proxy-class"
 ---
 

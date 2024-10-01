@@ -4,7 +4,7 @@ title: "Benefits of remote access for Team System"
 date: "2007-05-24"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "benefits-of-remote-access-for-team-system"
 ---
 

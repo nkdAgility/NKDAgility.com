@@ -8,7 +8,7 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "xbox-live-to-twitter"
 ---
 

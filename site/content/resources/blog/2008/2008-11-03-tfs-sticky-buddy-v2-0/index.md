@@ -9,7 +9,7 @@ tags:
   - "wpf"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-sticky-buddy-v2-0"
 ---
 

@@ -15,7 +15,7 @@ tags:
   - "tfs-2013-2"
 coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrade-tfs-2013-update-2"
 ---
 

@@ -11,7 +11,7 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-integration-platform-issue-access-denied-to-program-files"
 ---
 

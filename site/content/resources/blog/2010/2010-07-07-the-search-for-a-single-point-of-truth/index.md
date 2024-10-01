@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-19-19.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "the-search-for-a-single-point-of-truth"
 ---
 

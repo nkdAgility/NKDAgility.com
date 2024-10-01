@@ -6,7 +6,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time"
 ---
 

@@ -16,7 +16,7 @@ tags:
   - "tfs-api"
 coverImage: "image11-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "writing-net-in-powershell-and-creating-tfs-teams"
 ---
 

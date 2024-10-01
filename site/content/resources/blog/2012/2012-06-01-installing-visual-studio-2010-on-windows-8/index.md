@@ -14,7 +14,7 @@ tags:
   - "win8"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "installing-visual-studio-2010-on-windows-8"
 ---
 

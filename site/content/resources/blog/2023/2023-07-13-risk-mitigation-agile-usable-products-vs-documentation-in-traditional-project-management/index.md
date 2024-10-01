@@ -10,7 +10,7 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "risk-mitigation-agile-usable-products-vs-documentation-in-traditional-project-management"
 ---
 

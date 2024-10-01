@@ -11,7 +11,7 @@ tags:
   - "tools"
   - "version-control"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "dealing-with-invalid-subversion-ssl-certificates-and-migrations"
 ---
 

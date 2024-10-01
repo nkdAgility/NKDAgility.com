@@ -14,7 +14,7 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "one-team-project"
 ---
 

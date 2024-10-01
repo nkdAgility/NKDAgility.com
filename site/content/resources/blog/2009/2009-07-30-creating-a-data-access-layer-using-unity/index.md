@@ -13,7 +13,7 @@ tags:
   - "version-control"
 coverImage: "metro-binary-vb-128-link-5-5.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-a-data-access-layer-using-unity"
 ---
 

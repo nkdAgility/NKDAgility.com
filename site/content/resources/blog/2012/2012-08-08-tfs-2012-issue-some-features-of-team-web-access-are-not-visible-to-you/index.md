@@ -10,7 +10,7 @@ tags:
   - "tfs2012"
 coverImage: "metro-problem-icon-5-5.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you"
 ---
 

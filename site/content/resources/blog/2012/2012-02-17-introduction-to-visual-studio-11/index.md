@@ -17,7 +17,7 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "introduction-to-visual-studio-11"
 ---
 

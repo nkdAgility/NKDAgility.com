@@ -13,7 +13,7 @@ tags:
   - "tfs"
 coverImage: "naked-alm-jenkins-logo-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "maven-release-perform-tries-get-workspace-sub-folder-tfs"
 ---
 

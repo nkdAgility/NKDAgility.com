@@ -14,7 +14,7 @@ tags:
   - "windows-10"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "installing-visual-studio-2015-side-side-2013-windows-10"
 ---
 

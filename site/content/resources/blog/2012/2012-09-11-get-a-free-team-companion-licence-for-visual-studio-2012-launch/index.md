@@ -14,7 +14,7 @@ tags:
   - "vs2010"
   - "vs2012"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "get-a-free-team-companion-licence-for-visual-studio-2012-launch"
 ---
 

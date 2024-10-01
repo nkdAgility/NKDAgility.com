@@ -8,7 +8,7 @@ tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-6-6.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "information-sync"
 ---
 

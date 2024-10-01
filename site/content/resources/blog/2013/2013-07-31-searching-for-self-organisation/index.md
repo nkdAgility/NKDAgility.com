@@ -15,7 +15,7 @@ tags:
   - "teams"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "searching-for-self-organisation"
 ---
 

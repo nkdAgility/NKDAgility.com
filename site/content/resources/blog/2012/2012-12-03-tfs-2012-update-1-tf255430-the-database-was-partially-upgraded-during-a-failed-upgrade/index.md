@@ -20,7 +20,7 @@ tags:
   - "tools"
 coverImage: "metro-problem-icon-2-2.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade"
 ---
 

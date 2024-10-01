@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-15-15.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "how-to-allow-other-users-to-interact-with-workflow-on-your-mysite"
 ---
 

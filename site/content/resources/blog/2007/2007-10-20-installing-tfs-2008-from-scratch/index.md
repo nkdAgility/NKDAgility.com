@@ -11,7 +11,7 @@ tags:
   - "tfs2008"
 coverImage: "metro-visual-studio-2005-128-link-4-4.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "installing-tfs-2008-from-scratch"
 ---
 

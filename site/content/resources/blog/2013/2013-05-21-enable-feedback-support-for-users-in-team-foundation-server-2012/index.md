@@ -15,7 +15,7 @@ tags:
   - "tf400264"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "enable-feedback-support-for-users-in-team-foundation-server-2012"
 ---
 

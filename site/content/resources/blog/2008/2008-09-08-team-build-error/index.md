@@ -10,7 +10,7 @@ tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-3-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "team-build-error"
 ---
 

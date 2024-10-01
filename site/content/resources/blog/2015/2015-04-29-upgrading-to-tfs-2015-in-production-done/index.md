@@ -11,7 +11,7 @@ tags:
   - "upgrade"
 coverImage: "nakedalm-experts-visual-studio-alm-22-22.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrading-to-tfs-2015-in-production-done"
 ---
 

@@ -19,7 +19,7 @@ tags:
   - "tfs-2013"
   - "tools"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013"
 ---
 

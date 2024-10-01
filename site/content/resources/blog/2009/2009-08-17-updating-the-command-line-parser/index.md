@@ -11,7 +11,7 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-2-1.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "updating-the-command-line-parser"
 ---
 

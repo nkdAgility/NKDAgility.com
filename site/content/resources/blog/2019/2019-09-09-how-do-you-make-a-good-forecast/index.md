@@ -14,7 +14,7 @@ tags:
   - "sprint-review"
 coverImage: "993957510-1-1.jpg"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "how-do-you-make-a-good-forecast"
 ---
 

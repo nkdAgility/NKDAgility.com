@@ -10,7 +10,7 @@ tags:
   - "tools"
 coverImage: "metro-merilllynch-128-link-3-3.png"
 author: "MrHinsh"
-type: "post"
+type: "blog"
 slug: "creating-a-managed-service-factory"
 ---
 
