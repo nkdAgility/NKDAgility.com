@@ -1,7 +1,7 @@
 {{ $site := .site }}
 <!-- Videos specific rendering -->
 <div class="row">
-  {{ if gt (len .) 0 }} {{ range $index, $videos := .context.related }}
+  {{ if and (not (eq .context.related nil)) (gt (len .context.related) 0) }} {{ range $index, $videos := .context.related }}
   <div class="col-lg-6 col-sm-12 col-md-12 p-2">
     <!-- e -->
     {{ $videoItem := $site.GetPage $videos }} {{ if $videoItem }}
@@ -23,10 +23,30 @@
   {{ end }} {{ else }}
   <div class="row">
     <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-      <div class="p-4 bg-white"><video src="https://youtu.be/yCyjGBNaRqI" class="object-fit-contain"></video></div>
+      <div class="p-4 bg-white">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/yCyjGBNaRqI"
+          title="NKD Agility Mission and Purpose"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+      </div>
     </div>
     <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-      <div class="p-4 bg-white"><video src="https://youtu.be/BJZdyEqHhXc" class="object-fit-contain"></video> </div>
+      <div class="p-4 bg-white">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/BJZdyEqHhXc"
+          title=""
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen></iframe>
+      </div>
     </div>
   </div>
   {{ end }}

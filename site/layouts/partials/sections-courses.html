@@ -1,0 +1,18 @@
+{{ $site := .site }}
+<!-- Courses specific rendering -->
+<div class="row">
+  {{ if and (not (eq .context.related nil)) (gt (len .context.related) 0) }} {{ range $index, $courses := .context.related }}
+  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+    <!-- e -->
+    {{ $courseItem := $site.GetPage $courses }} {{ if $courseItem }} {{ partial "cards-course.html" (dict "site" $site "context" $courseItem) }}
+    <div class="p-4 bg-white"> {{ $courseItem.Title }} </div>
+    {{ else }}
+    <p>Course `{{$courses}}` not found.</p>
+    {{ end }}
+  </div>
+  {{ end }} {{ else }}
+  <div class="row">
+    <div class="col-12 p-2"> No courses </div>
+  </div>
+  {{ end }}
+</div>

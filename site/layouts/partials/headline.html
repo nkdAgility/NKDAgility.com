@@ -2,6 +2,7 @@
   <div class="row p-5">
     <div class="col-md-6">
       <h1 class="mb-4 nkda-heading-primary">{{ .Params.headline.title | markdownify }}</h1>
+      <h1 class="mb-4 nkda-heading-secondary">{{ .Params.headline.subtitle | markdownify }}</h1>
     </div>
     <div class="col-md-6">
       <p class="nkda-heading-primary-content">{{ .Params.headline.content | markdownify }}</p>
