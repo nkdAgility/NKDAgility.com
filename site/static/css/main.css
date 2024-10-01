@@ -77,7 +77,19 @@ pre {
     color: white;
 }
 
-.small-image {
-    max-width: 100%;  /* Ensures images don’t overflow */
-    width: 50%;       /* Adjust the size to 50% of the container width */
+.post-img {
+    text-align: center; /* Centers the image inside the .post-img container */
 }
+
+.post-img img {
+    max-width: 50%; /* Ensures the image will not exceed 50% of the container width */
+    height: auto; /* Maintains the aspect ratio of the image */
+    display: block; /* Makes the image a block-level element */
+    margin: 0 auto; /* Centers the block element horizontally */
+}
+
+img {
+    max-width: 100%; /* Ensures the image will not exceed the width of its container */
+    height: auto; /* Maintains the aspect ratio of the image */
+    display: block; /* Removes any inline-block gap */
+  }
