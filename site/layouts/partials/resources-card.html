@@ -1,9 +1,12 @@
 <div class="card flex-fill m-2 shadow text-center flex-fill small">
   {{ if .Params.coverImage }}
     {{ $image := .Resources.GetMatch (printf "images/%s" .Params.coverImage) }}
-    <img class="img-fluid" src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
+    {{ if $image }}
+      <img class="img-fluid" src="{{ $image.RelPermalink }}" alt="{{ .Title }}" />
+    {{ else }}
+      <img class="courseImageBackground img-fluid" src="/images/NKDAgility-technically-Background.jpg" alt="{{ .Params.Title }}" />
+    {{ end }}
   {{ else }}
-    {{ $image := .Resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
     <img class="courseImageBackground img-fluid" src="/images/NKDAgility-technically-Background.jpg" alt="{{ .Params.Title }}" />
   {{ end }}
   <div class="card-body p-2 px-20 clearfix row">
