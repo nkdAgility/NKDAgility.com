@@ -4,7 +4,10 @@ description: Getting Started with the Definition of Done (DoD). Every team shoul
 subtitle: Getting Started with the Definition of Done (DoD)
 author: mrhinsh
 type: practice
+layout: resources/single
+aliases:
  - practices/Definition-of-Done-DoD.html
+ - learn/agile-delivery-kit/practices/definition-of-done-dod
 references:
  - title: Getting started with a Definition of Done (DoD)
    url: https://www.scrum.org/resources/blog/getting-started-definition-done-dod
@@ -27,7 +30,7 @@ card:
     content: Learn More
   content: Discover more about Definition of Done (DoD) and how it can help you in your Agile journey!
   title: Definition of Done (DoD)
-aliases:
+
 ---
 
 Every team should define what is required, what criteria must be met, for a product increment to be considered releasable. A definition of done. If the organization has not articulated a specific standard, or set of criteria, then the team should create a definition of done that is appropriate for the product. The work produced must comply with the definition of done for it to be considered usable, and if there are multiple teams working on a single product, then those teams must agree on a definition of done and ensure that all teams honour that standard.

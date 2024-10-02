@@ -1,7 +1,9 @@
 ---
 title: Accountabilities for the Scrum Team
 type: practice
+aliases:
   - practices/Accountabilities-for-the-Scrum-Team.html
+  - learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh
@@ -10,7 +12,6 @@ card:
     content: Learn More
   content: Discover more about Accountabilities for the Scrum Team and how it can help you in your Agile journey!
   title: Accountabilities for the Scrum Team
-aliases:
 ---
 
 While we have an overview of the [accountabilities](/Project-Management/Agile-Ways-of-Working/Core-Practices/Accountabilities) for the organisation it is worth diving into some of the accountabilities specifically.

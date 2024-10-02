@@ -3,6 +3,8 @@ title: Investing for Business Agility - Using evidence-based portfolio managemen
 type: guide
 date: 2024-09-17
 author: MrHinsh
+aliases:
+  - learn/agile-delivery-kit/guides/evidence-based-portfolio-management
 card:
   button:
     content: Learn More

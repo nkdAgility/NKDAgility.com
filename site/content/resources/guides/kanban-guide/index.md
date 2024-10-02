@@ -2,8 +2,10 @@
 title: Kanban Guide
 description: Kanban is a strategy for optimizing the flow of value through a process that uses a visual, pull-based system.
 type: guide
+aliases:
   - guides/Kanban-Guide.html
   - guides/Kanban-Guide/
+  - learn/agile-delivery-kit/guides/kanban-guide
 references:
   - title: The Kanban Guide
     url: https://kanbanguides.org/english/

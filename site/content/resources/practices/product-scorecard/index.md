@@ -1,6 +1,9 @@
 ---
 title: Product Scorecard
 type: practice
+layout: resources/single
+aliases:
+ - learn/agile-delivery-kit/practices/product-scorecard
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh

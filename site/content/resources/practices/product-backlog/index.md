@@ -1,7 +1,10 @@
 ---
 title: Product Backlog
 type: practice
+layout: resources/single
+aliases:
   - practices/product-backlog.html
+  - learn/agile-delivery-kit/practices/product-backlog
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh

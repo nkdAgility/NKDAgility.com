@@ -2,6 +2,10 @@
 title: Definition of Ready (DoR)
 description: Definition of Ready can result in significant anti-patterns in teams.
 type: practice
+layout: resources/single
+aliases:
+  - practices/Definition-of-Ready-DoR.html
+  - learn/agile-delivery-kit/practices/definition-of-ready-dor
 recommendedContent:
   - practices/Definition-of-Ready-DoR.html
 date: 2024-09-17
@@ -11,7 +15,6 @@ card:
     content: Learn More
   content: Discover more about Definition of Ready (DoR) and how it can help you in your Agile journey!
   title: Definition of Ready (DoR)
-aliases:
 ---
 
 From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.

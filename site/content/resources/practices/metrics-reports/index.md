@@ -1,6 +1,9 @@
 ---
 title: Metrics and Reports
 type: practice
+layout: resources/single
+aliases:
+ - learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
   - practices/Metrics-Reports/
   - practices/Metrics-Reports.html
@@ -13,7 +16,6 @@ card:
     content: Learn More
   content: Discover more about Metrics and Reports and how it can help you in your Agile journey!
   title: Metrics and Reports
-aliases:
 ---
 
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.

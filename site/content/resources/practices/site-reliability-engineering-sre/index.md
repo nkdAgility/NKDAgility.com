@@ -2,6 +2,9 @@
 title: Site Reliability Engineering (SRE)
 description: Site Reliability Engineering (SRE), part of the shift-left movement, focuses on creating a live site culture for your product.
 type: practice
+layout: resources/single
+aliases:
+ - learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 references:
   - title: "NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)"
     url: https://nkdagility.net/ndcoslo19-LiveSiteCulture

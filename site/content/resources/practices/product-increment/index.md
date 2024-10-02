@@ -1,7 +1,10 @@
 ---
 title: Product Increment
 type: practice
+layout: resources/single
+aliases:
   - practices/product-increment.html
+  - learn/agile-delivery-kit/practices/product-increment
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh
