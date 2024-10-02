@@ -4,7 +4,8 @@ title: "2024 Learning journeys and extending the learning process"
 date: "2023-12-05"
 coverImage: "naked-agility-technically-agile-1280×720-December2023.jpg"
 author: "MrHinsh"
-type: "newsletters"
+type: newsletters
+layout: resources/single
 slug: "2024-learning-journeys-and-extending-the-learning-process"
 ---
 

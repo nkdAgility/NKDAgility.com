@@ -3,7 +3,8 @@ id: "51722"
 title: "Professional Product Discovery and Validation Skills (PPDV) with a friend in September!"
 date: "2024-08-29"
 author: "MrHinsh"
-type: "newsletters"
+type: newsletters
+layout: resources/single
 slug: "professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september"
 ---
 

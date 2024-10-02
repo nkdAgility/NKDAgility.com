@@ -3,7 +3,8 @@ id: "51596"
 title: "Introducing the Professional Product Validation and Discovery Workshop from Scrum.org"
 date: "2024-07-17"
 author: "MrHinsh"
-type: "newsletters"
+type: newsletters
+layout: resources/single
 slug: "introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org"
 ---
 

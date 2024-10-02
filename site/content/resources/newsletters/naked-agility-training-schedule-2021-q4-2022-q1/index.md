@@ -4,7 +4,8 @@ title: "Training Schedule 2021 Q4/2022 Q1"
 date: "2021-08-30"
 coverImage: "class-marketing-Q32021.jpg"
 author: "MrHinsh"
-type: "newsletters"
+type: newsletters
+layout: resources/single
 slug: "naked-agility-training-schedule-2021-q4-2022-q1"
 ---
 

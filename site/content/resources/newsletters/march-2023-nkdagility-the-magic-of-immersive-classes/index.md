@@ -4,7 +4,8 @@ title: "March 2023 NKDAgility: The magic of immersive classes"
 date: "2023-03-01"
 coverImage: "naked-agility-technically-agile-1280×720-March2023.jpg"
 author: "MrHinsh"
-type: "newsletters"
+type: newsletters
+layout: resources/single
 slug: "march-2023-nkdagility-the-magic-of-immersive-classes"
 ---
 
