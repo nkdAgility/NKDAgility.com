@@ -5,7 +5,8 @@ date: "2023-06-01"
 categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+type: podcast
+layout: resources/single
 slug: "are-office-spaces-dead"
 resourceType:
   - "podcast"

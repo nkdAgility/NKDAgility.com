@@ -5,7 +5,8 @@ date: "2024-06-04"
 categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+type: podcast
+layout: resources/single
 slug: "power-politics-communicating-and-building-political-capital-for-agile-transformations"
 resourceType:
   - "podcast"

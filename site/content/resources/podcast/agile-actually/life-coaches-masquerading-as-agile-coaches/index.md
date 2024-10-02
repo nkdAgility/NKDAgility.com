@@ -5,7 +5,8 @@ date: "2023-04-01"
 categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+type: podcast
+layout: resources/single
 slug: "life-coaches-masquerading-as-agile-coaches"
 resourceType:
   - "podcast"

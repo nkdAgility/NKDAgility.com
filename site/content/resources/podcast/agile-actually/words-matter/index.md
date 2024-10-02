@@ -5,7 +5,8 @@ date: "2023-06-29"
 categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+type: podcast
+layout: resources/single
 slug: "words-matter"
 resourceType:
   - "podcast"
