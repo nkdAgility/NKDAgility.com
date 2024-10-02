@@ -24,6 +24,10 @@ rss:
   name: "RSS Feed"
   description: "Subscribe to our RSS feed"
 
+permalinks:
+  page:
+    resources: /:sections/:slug/
+
 markup:
   goldmark:
     renderer:
