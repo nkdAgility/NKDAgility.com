@@ -2,9 +2,9 @@
 id: "375"
 title: "Windows Mobile 6 Black Shadow (4.0)"
 date: "2007-06-21"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ Having performed a successful update I am happy with the result and will probabl
 **How have your updates gone?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-
-

@@ -2,9 +2,9 @@
 id: "10786"
 title: "Reuse your MSDN benefits with your Org ID"
 date: "2014-10-21"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "azure"
   - "msdn"
   - "subscription"
@@ -47,5 +47,3 @@ Head back to [https://msdn.microsoft.com/subscriptions](https://msdn.microsoft.c
 { .post-img }
 
 Now on my organisational account I have a nice $150 per month subscription right where I can use it. Single-sign-on and no faffing around with InPrivate or having to log-out all the time.
-
-

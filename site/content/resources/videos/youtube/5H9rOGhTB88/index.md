@@ -15,7 +15,6 @@ isShort: False
 
 Are your teams stifled by rigid processes that hinder their ability to deliver value? This video dives into a critical question from the U.S. Department of Defense's "Detecting Agile BS" guide: Are your teams empowered to change their processes based on what they learn?
 
-
 Why You Should Watch:
 
 Break Down Silos and Bureaucracy: Discover why a one-size-fits-all approach to processes can lead to waste and inefficiency.

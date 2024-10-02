@@ -2,7 +2,7 @@
 id: "263"
 title: "Get your Twitter feed as a badge on your email!"
 date: "2008-01-18"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -20,6 +20,3 @@ As Twitter publish your twit list as an RSS feed you can just add it to FeedBurn
 So easy it hurts...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

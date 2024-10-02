@@ -2,9 +2,9 @@
 id: "342"
 title: "Hosted Team Foundation Server"
 date: "2007-08-05"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog

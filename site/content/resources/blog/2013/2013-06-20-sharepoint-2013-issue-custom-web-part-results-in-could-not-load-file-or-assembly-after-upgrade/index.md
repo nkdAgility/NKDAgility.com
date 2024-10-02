@@ -2,10 +2,10 @@
 id: "9905"
 title: "SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade"
 date: "2013-06-20"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "configuration"
   - "puzzles"
   - "sharepoint"
@@ -113,5 +113,3 @@ Once you have made your changes you can save and remember to check in to see the
 In this case all of the Register tags with the TagPrefix of "WpNs\*" needs to be removed and any associated controls removed.
 
 This will fix any issues with the pages loading.
-
-

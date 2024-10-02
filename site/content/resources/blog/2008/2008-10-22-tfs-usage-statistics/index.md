@@ -2,7 +2,7 @@
 id: "187"
 title: "TFS Usage Statistics"
 date: "2008-10-22"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -51,6 +51,3 @@ Uploads: 454
 Shelves: unknown
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

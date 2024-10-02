@@ -2,7 +2,7 @@
 id: "448"
 title: "The trouble with IIS6, .pac files and DNS"
 date: "2007-01-09"
-tags: 
+tags:
   - "network"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ The second problem was that he was using a proxy server that was an appliance (i
 So all problems solved, well theoretically... David still need to try them out side of my little home lab.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

@@ -2,9 +2,9 @@
 id: "7240"
 title: "TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source"
 date: "2012-08-20"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tf14009"
   - "tfs"
@@ -99,5 +99,3 @@ However in my case we had gone too far down the “Resolve” route and we neede
 Run again and you will then get your source across. If you want you can then manually move that cloaked folder to complete the data and with it no longer being a branch, our target system is then in a working state.
 
 **Did this help you?**
-
-

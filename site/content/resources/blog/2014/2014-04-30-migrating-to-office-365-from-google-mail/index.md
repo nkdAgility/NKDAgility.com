@@ -2,9 +2,9 @@
 id: "10502"
 title: "Migrating to office 365 from Google Mail"
 date: "2014-04-30"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "google"
   - "google-mail"
   - "imap"
@@ -90,5 +90,3 @@ This is really the only way to move from Google Mail to Office 365 and it does w
 Unfortunately Microsoft are not providing the service they should which results in my being unable to move more than just myself to Office365. I have a bunch of family member, only some of which will want to move… and I can't do a partial move.
 
 I have now been over on Office 356 for about 3 months and I have been extremely happy with my business account. I would recommend Office 365 for both small and large organisations. I am using it for business and the integration of Lync, Outlook, and a SharePoint instance gives me lots of flexibility for only £40 for the year. Pretty good really and I believe it to be much cheaper for large organisations if they are running exchange properly.
-
-

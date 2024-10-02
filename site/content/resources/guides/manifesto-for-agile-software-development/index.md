@@ -2,11 +2,11 @@
 title: Manifesto for Agile Software Development
 description: We are uncovering better ways of developing software by doing it and helping others do it. These are our values and principles.
 type: guide
- - guides/manifesto-for-agile-software-developmen/
+  - guides/manifesto-for-agile-software-developmen/
 references:
- - title: Manifesto for Agile Software Development
-   url: https://agilemanifesto.org/
-recommendedContent: 
+  - title: Manifesto for Agile Software Development
+    url: https://agilemanifesto.org/
+recommendedContent:
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -19,10 +19,10 @@ aliases:
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:
 
-- **Individuals and interactions** over *processes and tools*
-- **Working software** over *comprehensive documentation*
-- **Customer collaboration** over *contract negotiation*
-- **Responding to change** over *following a plan*
+- **Individuals and interactions** over _processes and tools_
+- **Working software** over _comprehensive documentation_
+- **Customer collaboration** over _contract negotiation_
+- **Responding to change** over _following a plan_
 
 That is, while there is value in the items on the right, we value the items on the left more.
 

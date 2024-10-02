@@ -2,7 +2,7 @@
 id: "411"
 title: "TFS EventHandler: Message Queuing"
 date: "2007-04-27"
-tags: 
+tags:
   - "tfs-event-handler"
   - "wit"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -18,6 +18,3 @@ I am currently toying with the idea of re-engineering to two system services. Th
 This can be easily achievable in .NET 3.0 and will not require much work to implement...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Windows](http://technorati.com/tags/Windows)
-
-
-

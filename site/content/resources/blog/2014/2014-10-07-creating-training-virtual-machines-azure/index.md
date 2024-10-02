@@ -2,10 +2,10 @@
 id: "10771"
 title: "Creating training virtual machines in Azure"
 date: "2014-10-07"
-categories: 
+categories:
   - "install-and-configuration"
   - "tools-and-techniques"
-tags: 
+tags:
   - "azure"
   - "hyper-v"
   - "training"
@@ -64,7 +64,7 @@ Once you are all logged in you can run any commands that you have permissions fo
 Add-AzureVhd -Destination "https://trainingeu.blob.core.windows.net/vhds/bkvm-2013-3.vhd" -LocalFilePath "V:ServersBKVM2013.3WMIv2Virtual Hard Disksbkvm-2013-3.vhd"
 ```
 
- The command completes in three phases. First it creates an MD5 hash to verify the file. This can take a while. Then it looks for empty blocks in the disk. Your VHD may be 780GB on disk, but if it is only 60% full you only need to upload the 60%. Woot… win there.
+The command completes in three phases. First it creates an MD5 hash to verify the file. This can take a while. Then it looks for empty blocks in the disk. Your VHD may be 780GB on disk, but if it is only 60% full you only need to upload the 60%. Woot… win there.
 
 Then the upload happens. I left it running overnight on my 100mb Virgin Cable connection and it got about 27% through. Then I had to go onsite in Cheltenham to teach the Professional Scrum Foundations course and only had hotel or customer external bandwidth at no more than 0.5Mbps (more like 0.1Mbps at the hotel).
 
@@ -106,19 +106,19 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 ```
 
 > But this resulted in a nasty error.
-> 
+>
 > New-AzureQuickVM : CurrentStorageAccountName is not accessible. Ensure the current storage account is accessible and
-> 
+>
 > in the same location or affinity group as your cloud service.
-> 
+>
 > At line:1 char:1
-> 
+>
 > \+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...
-> 
+>
 > \+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> 
+>
 > \+ CategoryInfo : CloseError: (:) \[New-AzureQuickVM\], ArgumentException
-> 
+>
 > \+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM
 
 This error is a red hearing and confused me for ages as I could not figure out the issue.
@@ -138,39 +138,39 @@ Get-AzureSubscription
 ```
 
 > SubscriptionId : 12683aa2-b30f-4cde-8b4a-281faafb7a57
-> 
+>
 > SubscriptionName : Pay-As-You-Go
-> 
+>
 > Environment : AzureCloud
-> 
+>
 > SupportedModes : AzureServiceManagement,AzureResourceManager
-> 
+>
 > DefaultAccount : martin@nakedalm.com
-> 
+>
 > Accounts : {martin@nakedalm.com}
-> 
+>
 > IsDefault : True
-> 
+>
 > IsCurrent : True
-> 
+>
 > CurrentStorageAccountName :
-> 
+>
 > SubscriptionId : 011bb48f-345c-4096-be52-d84c0efb7c3c
-> 
+>
 > SubscriptionName : MSDN Dev/Test Pay-As-You-Go
-> 
+>
 > Environment : AzureCloud
-> 
+>
 > SupportedModes : AzureServiceManagement,AzureResourceManager
-> 
+>
 > DefaultAccount : martin@nakedalm.com
-> 
+>
 > Accounts : {martin@nakedalm.com}
-> 
+>
 > IsDefault : False
-> 
+>
 > IsCurrent : False
-> 
+>
 > CurrentStorageAccountName :
 
 …Well after hunting around for a while it turns out that there was no default storage on the subscription. As the VM is added to the subscription, there needs to be a default store. A very misleading error, I would have preferred "Error: no storage specified".
@@ -179,7 +179,7 @@ Get-AzureSubscription
 Set-AzureSubscription -SubscriptionName "Pay-As-You-Go" -CurrentStorageAccountName trainingeu -PassThru
 ```
 
- Now we have some storage wired up we can go ahead and create an instance with PowerShell…
+Now we have some storage wired up we can go ahead and create an instance with PowerShell…
 
 ```
 New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName 12683aa2-b30f-4cde-8b4a-281faafb7a57__Image__BKVM2013.3 -AdminUsername nakedalm -Password P2ssw0rd -location "West Europe"
@@ -187,19 +187,19 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 ```
 
 > VERBOSE: 13:17:07 - Begin Operation: New-AzureQuickVM
-> 
+>
 > VERBOSE: 13:17:08 - Completed Operation: New-AzureQuickVM
-> 
+>
 > New-AzureQuickVM : Service already exists, Location cannot be specified.
-> 
+>
 > At line:1 char:1
-> 
+>
 > \+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...
-> 
+>
 > \+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> 
+>
 > \+ CategoryInfo : CloseError: (:) \[New-AzureQuickVM\], ApplicationException
-> 
+>
 > \+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM
 
 Baws, what now. Ok… remove the location.
@@ -210,23 +210,23 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 ```
 
 > VERBOSE: 14:41:25 - Begin Operation: New-AzureQuickVM
-> 
+>
 > VERBOSE: 14:41:25 - Completed Operation: New-AzureQuickVM
-> 
+>
 > VERBOSE: 14:41:26 - Begin Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01
-> 
+>
 > New-AzureQuickVM : BadRequest: The image name is invalid: Consecutive underscores as image name
-> 
+>
 > 12683aa2-b30f-4cde-8b4a-281faafb7a57\_\_Image\_\_BKVM2013.3 is not allowed.
-> 
+>
 > At line:1 char:1
-> 
+>
 > \+ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA ...
-> 
+>
 > \+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-> 
+>
 > \+ CategoryInfo : CloseError: (:) \[New-AzureQuickVM\], CloudException
-> 
+>
 > \+ FullyQualifiedErrorId : Microsoft.WindowsAzure.Commands.ServiceManagement.IaaS.PersistentVMs.NewQuickVM
 
 Auch…pish… ok… so the image name should be the friendly name and not the actual name… that was obvious…
@@ -236,21 +236,21 @@ New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageN
 ```
 
 > PS C:> New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName BKVM2013.3 -AdminUsername na
-> 
+>
 > kedalm -Password P2ssw0rd
-> 
+>
 > VERBOSE: 14:42:11 - Begin Operation: New-AzureQuickVM
-> 
+>
 > VERBOSE: 14:42:11 - Completed Operation: New-AzureQuickVM
-> 
+>
 > VERBOSE: 14:42:12 - Begin Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01
-> 
+>
 > VERBOSE: 14:43:18 - Completed Operation: New-AzureQuickVM - Create Deployment with VM ALMP13-HESA-01
-> 
+>
 > OperationDescription OperationId OperationStatus
-> 
+>
 > \-------------------- ----------- ---------------
-> 
+>
 > New-AzureQuickVM 12fdcbb0-9f4d-1c96-b321-76983692da6e Succeeded
 
 Woot! I now have a new VM created kinda automated, or at least with the possibility.
@@ -264,7 +264,7 @@ Poo… its an A1 instance. A piddley wee scrawny server that would have no hope 
 New-AzureQuickVM -Windows -ServiceName ALM-Training -Name ALMP13-HESA-01 -ImageName BKVM2013.3 -InstanceSize D2 -AdminUsername nakedalm -Password P2ssw0rd
 ```
 
- Now I have more memory, more processor and lovely SSD's underpinning my student box.
+Now I have more memory, more processor and lovely SSD's underpinning my student box.
 
 ![clip_image014](images/clip-image014-15-15.png "clip_image014")
 { .post-img }
@@ -283,5 +283,3 @@ With all the hassle of setting up and configuring local computers this service i
 This is the monthly cost for the fast SSD D-Series virtual machines and for 16 of them (one for each student) it looks like it would be around £2207.60 per month. That’s £2.97 per hour for all 16. The course is 16 hours so if I am careful it will be about £50 for a two day course. Of course if I forget to turn them off in the evening then it could hit £142.56 for 48 hours.
 
 The future is cloud…
-
-

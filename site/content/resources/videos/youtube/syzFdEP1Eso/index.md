@@ -17,18 +17,18 @@ Defining 'Done' in Agile Projects: A Bakery Analogy 🍩🥖 | Agile Project Man
 
 Discover the essentials of defining 'done' in agile projects with a unique bakery analogy. Ideal for scrum masters, product owners, and agile teams seeking clarity and practical insights. Dive in for a fresh take on agile project completion standards!
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin brings to life the concept of 'Definition of Done' in agile project management through a captivating bakery analogy 🥐📊. He skillfully unravels how the concept of 'done' transcends the specifics of a product, focusing instead on quality and standards, much like baking donuts and baguettes 🍩🥖. Perfect for project managers, scrum masters, and agile teams, this video offers valuable insights in an easy-to-understand format, spiced up with a dash of humor and practical examples. Don't miss out on these key takeaways for enhancing your project management skills!
 
-*Chapters:*
+_Chapters:_
 00:00:00 Introduction to 'Definition of Done'
 00:00:45 The Bakery Analogy Begins
 00:01:35 Acceptance Criteria in Baking
 00:02:56 Universal Standards for All Products
 00:05:09 Applying the Analogy to Software Development
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _find it hard to grasp the 'Definition of Done'_ in Agile or Scrum environments, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

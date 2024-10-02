@@ -2,7 +2,7 @@
 id: "303"
 title: "Branding and Customizing SharePoint 2007"
 date: "2007-10-05"
-tags: 
+tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ XFN:
 P.S. Although Greg Fyans CSS and HTML skills are beyond guru(Savant I think) his DotNetNuke skills are still being honed: I look forward to seeing his site up again.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-
-
-

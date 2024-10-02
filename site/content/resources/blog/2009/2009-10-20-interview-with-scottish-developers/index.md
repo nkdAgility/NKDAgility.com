@@ -2,7 +2,7 @@
 id: "85"
 title: "Interview with Scottish Developers"
 date: "2009-10-20"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -15,5 +15,3 @@ I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the cha
 My [interview](http://scottishdevelopers.com/2009/10/19/october-newsletter/) appears in the October edition of their [newsletter](http://scottishdevelopers.com/2009/10/19/october-newsletter/) and although I think I rambled a little, understatement of the year, I do think I came across ok, if a little scatter brained…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

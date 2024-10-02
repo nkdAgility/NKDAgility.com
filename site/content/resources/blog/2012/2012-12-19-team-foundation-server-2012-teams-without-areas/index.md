@@ -2,10 +2,10 @@
 id: "9188"
 title: "Teams without areas using a team field in TFS"
 date: "2012-12-19"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "area-path"
   - "configuration"
   - "infrastructure"
@@ -41,7 +41,7 @@ You can’t ship code to production in the form described above unless you are t
 
 There are only a few simple steps to achieve Teams without Areas with team field:
 
-1. DONE Create a Global List for 'team field' 
+1. DONE Create a Global List for 'team field'
 2. DONE Add the 'team field' field to PBI & Bug
 3. DONE Change the CommonProcessConfig.xml file to use 'team field'
 4. DONE Configure Team settings per 'team field'
@@ -237,5 +237,3 @@ This has merit when the situation dictates and I have recommended it twice now w
 And remember that any changes to your process template should be well thought out as you don’t want to end up with fragmented templates if you have more than one Team Project or worse, end up with a frankin-template that no one wants to use.
 
 Just be careful out there…
-
-

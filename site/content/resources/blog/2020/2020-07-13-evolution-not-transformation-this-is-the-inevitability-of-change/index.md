@@ -2,12 +2,12 @@
 id: "44511"
 title: "Evolution not Transformation: This is the Inevitability of change"
 date: "2020-07-13"
-categories: 
+categories:
   - "discovery-ideation"
   - "measure-and-learn"
   - "people-and-process"
   - "transparency-commitment"
-tags: 
+tags:
   - "agileleadership"
   - "daretochange"
   - "featured"
@@ -176,8 +176,4 @@ Agile in Nigeria 2020: The Inevitability of change
 
 </figcaption>
 
-
-
 </figure>
-
-

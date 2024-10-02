@@ -2,12 +2,12 @@
 id: "49073"
 title: "Life coaches masquerading as Agile Coaches"
 date: "2023-04-01"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
 type: "nkdresources"
 slug: "life-coaches-masquerading-as-agile-coaches"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

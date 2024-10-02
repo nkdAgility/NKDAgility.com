@@ -2,9 +2,9 @@
 id: "9686"
 title: "Creating a Work Item with defaults in Team Foundation Server"
 date: "2013-06-24"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "configuration"
   - "tfs"
   - "tfs-2013"
@@ -41,5 +41,3 @@ Figure: New PBI form with custom defaults
 If you drop that URL into a browser you will see the new work item page with your work item pre-populated. Now if you want you can now create a simple html page that has a list of predefined links to create work items of different types and defaults…
 
 Simples…
-
-

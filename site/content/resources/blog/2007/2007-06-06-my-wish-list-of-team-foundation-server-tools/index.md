@@ -2,7 +2,7 @@
 id: "389"
 title: "My Wish List of Team Foundation Server Tools"
 date: "2007-06-06"
-tags: 
+tags:
   - "visual-studio"
   - "vs2005"
   - "wit"
@@ -45,14 +45,11 @@ This tool would allow users to request (through VS2005) access to a file checked
 I have already [blogged](http://blog.hinshelwood.com/archive/2007/05/24/TFS-Feature-Wish-Request-Source-Access.aspx "TFS Feature Wish Request Source Access") about this.
 
 > _Added 16/07/2007_
-> 
+>
 > **TFS Sharepoint Sub-Site Creator**
-> 
->  This is a customization to the project creation wizard that makes it compatible with sub sites without requiring  a Sharepoint managed path. You can create a site, or sub-site in Sharepoint and get TFS to create its projects as sub sites of that site. This would allow automatic integration with a company intranet implemented in Sharepoint.
+>
+> This is a customization to the project creation wizard that makes it compatible with sub sites without requiring  a Sharepoint managed path. You can create a site, or sub-site in Sharepoint and get TFS to create its projects as sub sites of that site. This would allow automatic integration with a company intranet implemented in Sharepoint.
 
 **Does anyone have anything else on your wish lists?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

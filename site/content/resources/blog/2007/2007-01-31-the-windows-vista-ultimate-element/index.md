@@ -2,7 +2,7 @@
 id: "438"
 title: "The Windows Vista Ultimate Element"
 date: "2007-01-31"
-tags: 
+tags:
   - "off-topic"
   - "vista"
 coverImage: "nakedalm-logo-128-link-2-2.png"
@@ -15,6 +15,3 @@ slug: "the-windows-vista-ultimate-element"
 { .post-img }
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

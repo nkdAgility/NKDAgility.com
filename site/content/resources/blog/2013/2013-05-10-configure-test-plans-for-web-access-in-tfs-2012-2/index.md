@@ -2,9 +2,9 @@
 id: "9900"
 title: "Configure Test Plans for web access in TFS 2012.2"
 date: "2013-05-10"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "area-path"
   - "configuration"
   - "mtm"
@@ -72,7 +72,7 @@ Figure: Duplicate Team nodes to cope with multiple teams
 If I now have three Products but I have my same two Teams I then need to have each of the teams represented at all of the leaf nodes for my Area hierarchy so that I can have two web portals with the data split between the teams. This becomes even more complicated if you have 10 teams and 15 products. You can imagine…
 
 - [Multiple Teams with Microsoft Team Foundation Server 2012 & Visual Studio Scrum V2.0](http://blogs.ripple-rock.com/colinbird/2012/11/19/MultipleTeamsWithMicrosoftTeamFoundationServer2012VisualStudioScrumV20.aspx)  
-    Colin Bird is a proponent of this type of splitting and it does have some merits. I find it way to complicated to manage even with only a few teams and products within a single team project.
+   Colin Bird is a proponent of this type of splitting and it does have some merits. I find it way to complicated to manage even with only a few teams and products within a single team project.
 
 Now that we have this structure we need to have our Test Plans set to “TeamsWithAreas-ProductProduct 1Component 1Team A” in order for them to appear in the web UI and be associated correctly.
 
@@ -136,7 +136,7 @@ There is however one way to allow your teams to set whatever Area Path on the Te
 { .post-img }
 Figure: Set ‘IncludeChildren’ to true to enable recursion
 
-If you open up “tbl\_TeamConfigurationTeamFields” collection table and find the references to the ‘TeamFieldValue’ of “TeamsWithoutAreas” (the Team Project name), which is the root area path that we want to enable recursion on. You can now change the ‘IncludeChildren’  value to ‘True’ for those entries.
+If you open up “tbl_TeamConfigurationTeamFields” collection table and find the references to the ‘TeamFieldValue’ of “TeamsWithoutAreas” (the Team Project name), which is the root area path that we want to enable recursion on. You can now change the ‘IncludeChildren’  value to ‘True’ for those entries.
 
 This is a completely unsupported way to get all of the Test Plan’s to show even if a specific area has been selected.
 
@@ -147,5 +147,3 @@ I am finding fewer and fewer companies that are able to use Area Path for Team. 
 Note I am really hoping that the product team can fix Test Manager so that it supports ‘team field’ by the time that the [Blue wave of updates](http://www.zdnet.com/are-microsoft-updates-like-blue-really-more-than-service-packs-7000015219/) comes along. I don’t expect anything but a dirty fix (so we don’t have to edit the database) in the Update 3 timeframe,  but I am really hoping for a proper fix in Blue.
 
 Get used to the idea that you will likely need to work with a Team drop-down even though it adds come complexity.
-
-

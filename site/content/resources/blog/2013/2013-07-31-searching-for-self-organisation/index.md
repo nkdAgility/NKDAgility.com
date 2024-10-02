@@ -2,9 +2,9 @@
 id: "9741"
 title: "Searching for self-organisation"
 date: "2013-07-31"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "culture"
   - "development-team"
   - "improve"
@@ -23,7 +23,7 @@ Many companies have started searching for self-organisation. That ideal or nirva
 
 Many, including some of my colleagues, believe that this search for self-organisation is ultimately fruitless. While many of our customers don’t initially believe in its existence because they have never seen it my colleagues think it impossible because they see company after company fail to achieve it. This is mostly as companies that call use are not ding so because they are awesome but instead because they see that they have some problem that needs looking into. These companies, while realising the need to change, tend to have an organisational structure and culture that presents an anti-pattern for self organising teams to ever exist. Oh, you will occasionally find small pockets of self-organisation within an organisation but if anyone tries to roll this dynamic out, it is ultimately demonstrated as unworkable due to those anti-patterns and those required traits and patterns are then ground out of people.
 
-Realism dictates that we need to move slowly towards self-organisation in a way that will build up the self esteem of teams and create an environment for them to thrive. But the organisation also needs to have courage and conviction in order to realise it as the path to agility is a bumpy one and long, depending on how traditional they are to begin with.  
+Realism dictates that we need to move slowly towards self-organisation in a way that will build up the self esteem of teams and create an environment for them to thrive. But the organisation also needs to have courage and conviction in order to realise it as the path to agility is a bumpy one and long, depending on how traditional they are to begin with.
 
 ## Why self-organisation at all?
 
@@ -33,7 +33,7 @@ If we don’t have self-organisation then how can we hope to hold the Developmen
 
 If we don't have self-organisation then how do we know how much time should we spend on training of new individuals? Do we guess at their current skills or evaluate them with standardised tests that have done so well for our school system? Or should we not rely on their peers to make sure that each team member has the skills and knowledge required to help the Development Team deliver…
 
-Without self-organisation how do we effectively encourage individuals to work as a team and be responsible for the results?  
+Without self-organisation how do we effectively encourage individuals to work as a team and be responsible for the results?
 
 ## Encouraging self-organisation
 
@@ -51,5 +51,3 @@ Remember that the biggest killer of self-organising teams is a manager who just 
 Without self-organisation, no matter how much we try, all we can ever have is a glorified collection on individuals that think and operate as individuals. Just like with sports teams we want to have those individuals identify as a team, to work together as a team and function as a team. The only way to achieve this is to have them **be a team**. You would not want the coach to swap out players on football game for every match? How effective would that be? So don’t do it to your teams…
 
 If you get really good at self-organising teams you may find your organisations formula to high-performing teams…
-
-

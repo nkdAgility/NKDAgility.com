@@ -2,7 +2,7 @@
 id: "3596"
 title: "Test Track Pro and the case of the missing data"
 date: "2011-06-06"
-tags: 
+tags:
   - "nwcadence"
   - "ttp"
   - "tfs"
@@ -18,9 +18,7 @@ slug: "test-track-pro-and-the-case-of-the-missing-data"
 
 As you may know, I have been having lots of problems with creating a Test Track Pro Adapter for the TFS Integration Platform. You may have been following my trials and tribulations in trying to get the data through.
 
-  
-
-* * *
+---
 
 It looks as if someone dropped the ball at Seapine when they wrote the query code for TTP. When you query the server to get a list of data the only control you have over the number of records that you get back is to use a “filter”. These filter are pre-setup and I have on on the production TTP system that will give me all of the data that I need to migrate. The problem is that it take around 15 minutes for the query to return the 3000+ records.
 
@@ -30,7 +28,7 @@ So, I first run the query as is and retrieve all of the records and suffer the l
 { .post-img }
 **Figure: Initial Query loads the entire data set**
 
- [![image](images/image_thumb6-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image6.png)  
+[![image](images/image_thumb6-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image6.png)  
 { .post-img }
 **Figure: This produces a large data set, but check the top**
 
@@ -104,5 +102,3 @@ As you can see on lines 6 and 16 we do a query based on the High Water Mark to m
 So, if you are using “last day” in your query then by the time the data is returned in the query then all the dates are before the high water mark. Not good as all of this data gets missed and you will not get any updates after the first run.
 
 The solution is to use the number of “hours” since, rather than days…
-
-

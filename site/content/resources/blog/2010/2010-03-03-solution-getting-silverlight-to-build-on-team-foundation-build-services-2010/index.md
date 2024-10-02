@@ -2,9 +2,9 @@
 id: "69"
 title: "Solution: Getting Silverlight to build on Team Foundation Build Services 2010"
 date: "2010-03-03"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "automated-build"
   - "code"
   - "codeproject"
@@ -29,7 +29,7 @@ This is SSW’s first time using Team Build 2010 to automatically create a Silve
 
 ![clip_image001](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-clip_image001_-4-4.png)  
 { .post-img }
-**Figure: Build SSW.SqlDeploy\_20100303.8 failed when trying to build a Silverlight application.**
+**Figure: Build SSW.SqlDeploy_20100303.8 failed when trying to build a Silverlight application.**
 
 Usually the person who broke the build should now be the one responsible for babysitting it until the next person breaks the build. In this case we had not agreed that as part of our project prep so I think I will need to wait until the retrospective at the end of our current, and first for this project, sprint.
 
@@ -37,7 +37,7 @@ Usually the person who broke the build should now be the one responsible for bab
 
 Because Allan added the first Silverlight 3 application to the Solution the build server hiccupped as only the Silverlight 2 SDK was installed on it and it was a Silverlight 3 project. I have highlighted below where the problem was located.
 
- ![image](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-image_-13-9.png)  
+![image](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-image_-13-9.png)  
 { .post-img }
 **Figure: The Silverlight targets file was not found on the build server.**
 
@@ -47,7 +47,7 @@ But the build failed again…
 
 ![clip_image003](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-clip_image003_-5-5.png)  
 { .post-img }
-**Figure: SSW.SqlDeploy\_20100303.10 failed still trying to find targets.**
+**Figure: SSW.SqlDeploy_20100303.10 failed still trying to find targets.**
 
 ### Problem 2: This was due to the web targets not being installed.
 
@@ -61,7 +61,7 @@ But the build failed again…
 
 ![image](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-image_-13-9.png)  
 { .post-img }
-**Figure: SSW.SqlDeploy\_20100303.11 failed again trying to build Silverlight.**
+**Figure: SSW.SqlDeploy_20100303.11 failed again trying to build Silverlight.**
 
 ### Problem 3: Can’t build Silverlight 3 projects with MSBuild 64-bit (the default)
 
@@ -81,7 +81,7 @@ And the build failed again…
 
 ![image](images/SolutiongettingSilverlighttobuildonTeamB_C6CA-image_-13-9.png)  
 { .post-img }
-**Figure: SSW.SqlDeploy\_20100304.04 failed again trying to do code analysis.**  
+**Figure: SSW.SqlDeploy_20100304.04 failed again trying to do code analysis.**  
 Note: This was only run 20 or so minutes after the last build, but my build server happens to be in Australia :)
 
 ### Problem 4: Can’t run Code Analysis on Build Server
@@ -110,7 +110,7 @@ The options you should set for any Build that has 32-bit dependencies that are c
 
 - You MUST set the MSBuild Platform to X86 to build a project that can’t be built in 64-bit MSBuild.
 
-* * *
+---
 
 ## Need Help?
 
@@ -130,9 +130,3 @@ The options you should set for any Build that has 32-bit dependencies that are c
 { .post-img }
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [ALM](http://technorati.com/tags/ALM) [Silverlight](http://technorati.com/tags/Silverlight) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS 2010](http://technorati.com/tags/TFS+2010) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 id: "113"
 title: "Unable to connect to TFS using HTTPS over the Internet from behind ISA"
 date: "2009-05-19"
-tags: 
+tags:
   - "aggreko"
   - "tools"
   - "visual-studio"
@@ -27,10 +27,3 @@ If you are experiencing this problem, then please add your support to the work i
 [BUG: Unable to connect to TFS using HTTPS over the Internet from behind ISA](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=453677)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010)
-
-
-
-
-
-
-

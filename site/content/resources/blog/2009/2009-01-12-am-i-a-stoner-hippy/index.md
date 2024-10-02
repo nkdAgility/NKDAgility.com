@@ -2,9 +2,9 @@
 id: "146"
 title: "Am I a stoner hippy?"
 date: "2009-01-12"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
@@ -27,7 +27,7 @@ These things are all symptoms of something generally called [Dyslexia](http://ww
 The more you read about [Dyslexia](http://www.dyslexia.tv/freethinkersu/dyslexic_dictionary.htm "Multi-dimensional FreeThinking") the more you you find things that sound cool…
 
 > _The way pupils are taught today is counterproductive for people with a creative, visual and multidimensional thinking style. Like the sportsman who needs the right clothing to reach peak performance, pupils with [Dyslexia](http://www.dyslexia.tv/freethinkersu/dyslexic_dictionary.htm "Multi-dimensional FreeThinking") need to be taught in a way that suits their learning style.  
-> BBC -_ [_http://www.bbc.co.uk/wales/southwest/sites/llandeilo/pages/caroline\_keen.shtml_](http://www.bbc.co.uk/wales/southwest/sites/llandeilo/pages/caroline_keen.shtml)
+> BBC -_ [_http://www.bbc.co.uk/wales/southwest/sites/llandeilo/pages/caroline_keen.shtml_](http://www.bbc.co.uk/wales/southwest/sites/llandeilo/pages/caroline_keen.shtml)
 
 The current education system, pretty much the world over, has some deficits where, funnily enough, learning is concerned. A full third of the population of the world and 80% if the population of Scottish prisons have “dyslexic tendencies”, whatever that is. These people have a disadvantage in the current system because of there lack of 2-d perception.
 
@@ -45,5 +45,3 @@ I have heard of a number of companies who will only employ dyslexic people for p
 There are many famous dyslexic people the world over, including: Walt Disney, Tom Cruise, Thomas Edison, Babe Ruth, Alexander Graham Bell, and John F. Kennedy and Agatha Christi who reportedly could not spell to save herself… thank god for good editors…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
-
-

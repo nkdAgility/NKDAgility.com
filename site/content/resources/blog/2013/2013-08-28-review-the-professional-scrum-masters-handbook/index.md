@@ -2,9 +2,9 @@
 id: "9967"
 title: "Review: The Professional Scrum Masters Handbook"
 date: "2013-08-28"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "scrum"
   - "scrum-master"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
@@ -29,23 +29,15 @@ That said if you are just starting out on your path to agility and need a few po
 Here are a few of my choice anti-patterns from the book:
 
 - **Is OK to Sprint in Months** – This one hit me right away. On reading it again and again I do not believe that the author intended to have it read that matching your Sprints to the months of the year is a good idea.
-    
-    > “I liked the organisation and simplicity of this list \[the backlog\]; note how the product management team divided the backlog into months of work \[\] in a spread sheet. Its easy to group rows under month headings”The Scrum Masters Handbook
-    
+  > “I liked the organisation and simplicity of this list \[the backlog\]; note how the product management team divided the backlog into months of work \[\] in a spread sheet. Its easy to group rows under month headings”The Scrum Masters Handbook
 - **Its OK to have to have undone work** – Another no brainer. There is a recommendation that Teams leave a few ‘buffer’ Sprints at the end of the release for… you know… all that undone work they could not get done in the Sprint. I know that the author was talking about planning, but a novice will make assumptions
-    
-    > Some teams apply a buffer by leaving empty an entire Sprint or two at the endThe Scrum Masters Handbook
-    
+  > Some teams apply a buffer by leaving empty an entire Sprint or two at the endThe Scrum Masters Handbook
 - **Release Planning is a new thing in Scrum** – Release Planning has always been a strategy to help one execute of delivering software but it has never been and is not a ‘time box’ in Scrum. It may happen at the behest of the Product Owner outside of the Scrum Team but that is as far as it goes.
-    
-    > only recently has the Scrum framework been extended to recognise release planning as a bona fide (yet optional) Scrum meeting.The Scrum Masters Handbook
-    
+  > only recently has the Scrum framework been extended to recognise release planning as a bona fide (yet optional) Scrum meeting.The Scrum Masters Handbook
 - **The Scrum Master is responsible for reporting** – I can’t begin to express how wrong this is. The Product Owner is the one responsible for this.
 - **The Release Sprint** – In what twisted Scrum world should there be a release Sprint. I understand that those beginning down their journey may need one from necessity, but it is a dysfunction to be recognised and possible accepted, but always questioned. The Definition of Done should be pushed to ‘no further work required for release’.
 - **There can be multiple Product Owners of one backlog** – There can only be one! Just like highlander there is only one owner that is an individual and not a committee. This allows a decisive vision to be created.
-    
-    > The teams themselves should be the product owners of the management Scrum team’s product backlog and attend the sprint reviewsThe Scrum Masters Handbook
-    
+  > The teams themselves should be the product owners of the management Scrum team’s product backlog and attend the sprint reviewsThe Scrum Masters Handbook
 
 With all of those negatives, that by the way represent only a small subset of the book, I though I would leave you with some of my favourite quotes:
 
@@ -63,5 +55,3 @@ Sad but true…
 { .post-img }
 
 If you are a Project Manager moving to Scrum then this book will help you with the transition to a new way of thinking. Remembering that this is an embodiment of the mechanics and not the principals.
-
-

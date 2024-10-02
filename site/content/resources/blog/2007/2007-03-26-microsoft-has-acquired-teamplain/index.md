@@ -2,7 +2,7 @@
 id: "425"
 title: "Microsoft has acquired TeamPlain"
 date: "2007-03-26"
-tags: 
+tags:
   - "tfs"
   - "tfs2005"
   - "vs2005"
@@ -21,6 +21,3 @@ Microsoft has now bought devbiz, and is offering this fantastic piece of softwar
 [Download TeamPlain](http://www.devbiz.com/teamplain/webaccess/download.aspx) and enjoy... Guess what I will be doing to our dev server tommorow?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2005](http://technorati.com/tags/TFS+2005) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

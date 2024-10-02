@@ -2,9 +2,9 @@
 id: "9"
 title: "Visual Studio ALM MVP of the Year 2011"
 date: "2011-03-06"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "awards"
   - "nwcadence"
   - "tfs"
@@ -23,9 +23,7 @@ slug: "visual-studio-alm-mvp-of-the-year-2011"
 
 For some reason this year some of my peers decided to vote for me as a contender for Visual Studio ALM MVP of the year. I am not sure what I did to deserve this, but a number of people have commented that I have a rather useful blog.
 
-  
-
-* * *
+---
 
 I feel wholly unworthy to join the ranks of previous winners:
 
@@ -46,5 +44,3 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
-
-

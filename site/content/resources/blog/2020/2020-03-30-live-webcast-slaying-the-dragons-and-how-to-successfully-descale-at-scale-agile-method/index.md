@@ -2,9 +2,9 @@
 id: "44209"
 title: "Slaying the Dragons and How to Successfully Descale at Scale"
 date: "2020-03-30"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "agile"
   - "live-webcast"
   - "scaled-agile"
@@ -28,5 +28,3 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
-
-

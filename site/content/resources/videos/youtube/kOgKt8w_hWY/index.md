@@ -13,6 +13,4 @@ isShort: True
 
 # Live Event - An Enterprise Evolution that Shows that You Can Too
 
-
-
 [Watch on YouTube](https://www.youtube.com/watch?v=kOgKt8w_hWY)

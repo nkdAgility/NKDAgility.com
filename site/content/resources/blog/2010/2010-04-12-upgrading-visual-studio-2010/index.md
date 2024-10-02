@@ -2,7 +2,7 @@
 id: "54"
 title: "Upgrading Visual Studio 2010"
 date: "2010-04-12"
-tags: 
+tags:
   - "ssw"
   - "tools"
   - "visual-studio"
@@ -20,11 +20,11 @@ I have had may previous versions of Visual Studio 2010 on this same computer wit
 
 ![image](images/UpgradingVisualStudio2010_D9B8-image_-6-4.png)  
 { .post-img }
-**Figure: Run the uninstall from the control panel to remove Visual Studio 2010 RC**  
+**Figure: Run the uninstall from the control panel to remove Visual Studio 2010 RC**
 
 ![image](images/UpgradingVisualStudio2010_D9B8-image_-7-5.png)  
 { .post-img }
-**Figure: The uninstall removes everything for you.** 
+**Figure: The uninstall removes everything for you.**
 
 ![image](images/UpgradingVisualStudio2010_D9B8-image_-4-2.png)  
 { .post-img }
@@ -43,6 +43,3 @@ If you have just uninstalled the .NET 4 RC then you will probably be asked to re
 **Now go forth and develop! Preferably in VB.NET…**
 
 Technorati Tags: [VS 2010](http://technorati.com/tags/VS+2010) [Visual Studio](http://technorati.com/tags/Visual+Studio)
-
-
-

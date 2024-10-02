@@ -2,10 +2,10 @@
 id: "9910"
 title: "Issue [ TFS2012.2 ] TF30063 You are not authorized to access"
 date: "2013-06-23"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "configuration"
   - "puzzles"
   - "tf30063"
@@ -36,12 +36,10 @@ Not only are you unable to change the URL but you are also to edit permissions o
 { .post-img }
 Figure: TF30063 you are not authorised to access localhost
 
-This is not one that I have encountered before and was at a loss to help the customer. I ran the flag up and got a little help from [Grant Holiday](http://blogs.msdn.com/b/granth/). He identified this as a bug… 
+This is not one that I have encountered before and was at a loss to help the customer. I ran the flag up and got a little help from [Grant Holiday](http://blogs.msdn.com/b/granth/). He identified this as a bug…
 
 ## Solution
 
 This bug is fixed in Team Foundation Server 2012.3. 2012.3 is currently  at RC2 but it does come with a Go-Live licence meaning that it is fully supported in production. After installing 2012.3 all of the problems went away and the server started functioning normally.
 
 Woot… yet another reason for 2012.3 and Go-Live…
-
-

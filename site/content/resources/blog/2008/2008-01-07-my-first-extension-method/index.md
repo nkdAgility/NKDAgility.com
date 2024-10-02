@@ -2,9 +2,9 @@
 id: "269"
 title: "My first Extension method..."
 date: "2008-01-07"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -20,7 +20,7 @@ In VB.NET you add Extension methods to a Module. One thing worth noting is that 
 
 > ```
 > Public Module XboxExtensions
-> 
+>
 >     <System.Runtime.CompilerServices.Extension()> _
 >     Friend Function ToPresenceString(ByVal Value As DMXIProxy.XboxInfo) As String
 >         If Value.PresenceInfo.Info = "" Then
@@ -31,7 +31,7 @@ In VB.NET you add Extension methods to a Module. One thing worth noting is that 
 >             Return String.Format("{0} ({1})", Value.PresenceInfo.Info, Value.PresenceInfo.Info2)
 >         End If
 >     End Function
-> 
+>
 > End Module
 > ```
 
@@ -42,6 +42,3 @@ You can add extension methods randomly within your code, but it makes sense to p
 Have fun...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

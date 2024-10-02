@@ -2,9 +2,9 @@
 id: "220"
 title: "OutSync with proxy servers"
 date: "2008-06-11"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "fail"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
@@ -28,6 +28,3 @@ Open the \[applicationname\].config file in the install location and add:
 Just above the closing </configuration> tags. This will allow your application to authenticate with a proxy server…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-
-
-

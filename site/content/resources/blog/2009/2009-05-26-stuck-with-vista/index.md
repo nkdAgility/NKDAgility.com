@@ -2,7 +2,7 @@
 id: "107"
 title: "Stuck with Vista?"
 date: "2009-05-26"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-7-1.png"
 author: "MrHinsh"
@@ -51,5 +51,3 @@ You can find out loads about what is in it from:
 Hopefully this will work…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

@@ -2,9 +2,9 @@
 id: "7015"
 title: "Issue SharePoint 2013: The username is invalid. The account must be a valid domain account"
 date: "2012-08-07"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "sharepoint"
 coverImage: "metro-problem-icon-5-5.png"
@@ -39,26 +39,19 @@ The UI is designed for the happy path and you need to drop to the command line t
 
 Use a PowerShell command to create the initial configuration of the farm with a local account:
 
-1. **Start the SharePoint PowerShell**
-2. **Run “New-SPConfigurationDatabase” from the command line and follow the instructions**
-    
-    [![image_thumb[16]](images/image_thumb16_thumb-2-2.png "image_thumb[16]")](http://blog.hinshelwood.com/files/2012/08/image_thumb161.png)  
-{ .post-img }
+1.  **Start the SharePoint PowerShell**
+2.  **Run “New-SPConfigurationDatabase” from the command line and follow the instructions**
+        [![image_thumb[16]](images/image_thumb16_thumb-2-2.png "image_thumb[16]")](http://blog.hinshelwood.com/files/2012/08/image_thumb161.png)
+    { .post-img }
     Figure: New-SPConfigurationDatabase creates the farm for you
-    
-    This will create the farm and configure the necessary accounts.
-    
-3. **Rerun the Configurtion wizard**
-    
-    After it finishes start the Config Wizard (interactive or not) and configure your server with all components
-    
-    [![image_thumb[17]](images/image_thumb17_thumb-4-4.png "image_thumb[17]")](http://blog.hinshelwood.com/files/2012/08/image_thumb17.png)  
-{ .post-img }
+        This will create the farm and configure the necessary accounts.
+3.  **Rerun the Configurtion wizard**
+        After it finishes start the Config Wizard (interactive or not) and configure your server with all components
+
+        [![image_thumb[17]](images/image_thumb17_thumb-4-4.png "image_thumb[17]")](http://blog.hinshelwood.com/files/2012/08/image_thumb17.png)
+    { .post-img }
     **Figure: Just don’t disconnect from this server farm**
-    
 
 This works just fine with SQL Server 2012.
 
 **Did this help you?**
-
-

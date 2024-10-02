@@ -2,9 +2,9 @@
 id: "284"
 title: "TFS Event Handler gets 3 stars from Accentient"
 date: "2007-11-28"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs2008"
   - "tfs-event-handler"
@@ -23,6 +23,3 @@ Its even second from the top ![smile_omg](images/smile_omg-2-2.gif)... makes me 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
-
-
-

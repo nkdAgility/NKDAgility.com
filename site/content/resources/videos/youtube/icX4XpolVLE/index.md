@@ -27,7 +27,6 @@ DevOps Origins and Evolution: Understand the personal journey of a developer thr
 Automation and Efficiency: Learn about the shift from manual processes to automated solutions in large organizations, reducing deployment times and increasing reliability.
 Strategic Integration of DevOps: Discover how integrating DevOps practices enhances predictability, value delivery, and stakeholder satisfaction in Scrum environments.
 
-
 00:00:00 Introduction to DevOps from Personal Experience
 00:05:07 Transitioning to Formal DevOps Practices
 00:10:20 Cultural Shift Towards DevOps
@@ -54,7 +53,7 @@ Like and Subscribe to delve deeper into the world of DevOps and learn how to rev
 Need to integrate DevOps into your operations? Click the link below for expert guidance and support in implementing effective DevOps strategies.
 Share this video with peers and colleagues to spread the knowledge and benefits of adopting DevOps practices in your organization.
 
-#DevOpsJourney #ContinuousDelivery #SoftwareDevelopment #OperationalEfficiency #techinnovation 
+#DevOpsJourney #ContinuousDelivery #SoftwareDevelopment #OperationalEfficiency #techinnovation
 
 Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
 

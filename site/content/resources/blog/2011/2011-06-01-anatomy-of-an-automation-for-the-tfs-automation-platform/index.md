@@ -2,7 +2,7 @@
 id: "3361"
 title: "Anatomy of an Automation for the Tfs Automation Platform"
 date: "2011-06-01"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -20,8 +20,6 @@ slug: "anatomy-of-an-automation-for-the-tfs-automation-platform"
 
 We would really like for you to still be able to build out automations without the Automation Platform, but you would not have the delivery and management aspects. Hopefully this post will guide you on how you can integrate your work with the Tfs Automation Platform later.
 
-  
-
 ## Updates (in purple)
 
 - **2011-06-09 - [Mattias Sköld](http://mskold.blogspot.com/)** – Mattias had a bunch of questions, and I want to provide answers. You will find the questions and answers inline at the relevant sections.
@@ -29,37 +27,33 @@ We would really like for you to still be able to build out automations without t
 
 _note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex._
 
-* * *
+---
 
 Well, we will be integrating integrating with many of the TFS elements as proxies so that we can leverage existing code without having to rewrite things. For a rough understanding of the architecture and where you can start building things now lets look at the generic scenario:
 
 1. **Installation**
-    
-    Assemblies and other supporting files are dropped into the correct Plugins folder on the server
-    
+
+   Assemblies and other supporting files are dropped into the correct Plugins folder on the server
+
 2. **Configuration**
-    
-    There is some settings stored somewhere that will control how the process runs
-    
+
+   There is some settings stored somewhere that will control how the process runs
+
 3. **Action  
-    **There are three types of action:
-    
-    1. User Action - The user deliberately setts a process running
-        
-    2. Event – An event is raised on the server (e.g. WorkItemChangedEvent)
-        
-    3. Schedule – A particular time is reached
-        
-    
-    > Will User actions trigger events or simply queue an TFS job directly ? Will the automations framework handle Events and simply queue TFS jobs ?  
-    > **\-Mattias Sköld**
-    
-    User Actions and Events will simply trigger a TFS job :)
-    
+   **There are three types of action:
+
+   1. User Action - The user deliberately setts a process running
+   2. Event – An event is raised on the server (e.g. WorkItemChangedEvent)
+   3. Schedule – A particular time is reached
+
+   > Will User actions trigger events or simply queue an TFS job directly ? Will the automations framework handle Events and simply queue TFS jobs ?  
+   > **\-Mattias Sköld**
+
+   User Actions and Events will simply trigger a TFS job :)
+
 4. **Processing**
-    
-    Some amount of work is done
-    
+
+   Some amount of work is done
 
 [![image](images/image_thumb11-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image11.png)  
 { .post-img }
@@ -96,7 +90,7 @@ This is one of the reasons that we really need a central store or repository tha
 > - Anything to consider for x86 vs x64 platforms? Will TFS just load plugins build to anycpu ok or do we need specific bits? I’m thinking anycpu will be ok
 > - We will have to drop the Microsoft in the path ie, just c:Program Files Team Foundation Server Automation PlatformAutomations\[Automationname\]
 > - What will actually create that path? Sounds like we will also deliver an installer to lay some groundwork?\]
-> 
+>
 > \- [Michael Ockie Fourie](http://mikefourie.wordpress.com/)
 
 I think you are right that x86 vs x64 will not be a problem and I have always used “anycpu”. The “Microsoft” in the title was a copy-o (as in copy paste error) and I agree should not be there…
@@ -129,7 +123,7 @@ Automations should be able to target Server, Collections, Team Projects, Areas, 
 
 As Automations can be set at any level they need to be evaluated from the top down and can only be configures by someone with permission at that level. I had planned to query the TFS servers own security to work out who has permission.
 
-With the scaling issue above we will probably need to come up with a seriously efficient way of managing that data. I am not opposed to having a database “Tfs\_Automation” like the Integration Platform does if it makes more sense.
+With the scaling issue above we will probably need to come up with a seriously efficient way of managing that data. I am not opposed to having a database “Tfs_Automation” like the Integration Platform does if it makes more sense.
 
 Any UI required to edit the plugin data will need to be included in the package and we have not yet decided how this should happen. With .NET it is a little more difficult to inject UI and it will probably end up being Silverlight.
 
@@ -197,5 +191,3 @@ It should be possible for you to create iSubscribers, ITeamFoundationJobExtensio
 
 There is no reason not to extend TFS now and once the TFS Automation Platform releases there will be no need to ever install another extension again ![Smile](images/wlEmoticon-smile2-4-4.png) apart from the TFS Automation Platform itself…
 { .post-img }
-
-

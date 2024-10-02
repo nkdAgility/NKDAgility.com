@@ -2,9 +2,9 @@
 id: "10638"
 title: "Merge Team Projects into one in TFS"
 date: "2014-07-30"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "migration"
   - "team-project"
   - "tfs"
@@ -35,21 +35,21 @@ Make really sure you use the version from the [Visual Studio Gallery](http://vis
 ![clip_image001](images/clip_image0011-1-1.png "clip_image001")
 { .post-img }
 
-When you run the installer it will ask for a SQL Server location. This SQL Server will be used to host the tfs\_Integration database and really should be local to the server. Nothing slows this tool down like a network between you and the DB. I recommend installing [SQL Server Express](http://www.hanselman.com/blog/DownloadVisualStudioExpress.aspx) locally. You need to also make sure that you have at least one version of TFS Client API's installed. You will only be able to select adapters that have access to the relevant API. So if you need the TFS 2010 adapter then you should install the TFS 2010 API's.
+When you run the installer it will ask for a SQL Server location. This SQL Server will be used to host the tfs_Integration database and really should be local to the server. Nothing slows this tool down like a network between you and the DB. I recommend installing [SQL Server Express](http://www.hanselman.com/blog/DownloadVisualStudioExpress.aspx) locally. You need to also make sure that you have at least one version of TFS Client API's installed. You will only be able to select adapters that have access to the relevant API. So if you need the TFS 2010 adapter then you should install the TFS 2010 API's.
 
 1. If you get an error when installing that you do not have Team Explorer when you do you likely installed just Team Explorer and not full Visual Studio. Unfortunately there is a bug in the Integration Tools that prevent it from detecting it. Same the following code as a .reg file and double click to solve your issue.
-    
-    ```
-     Windows Registry Editor Version 5.00
-    [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\VisualStudio\11.0\InstalledProducts\Team System Tools for Developers]
-    @="#101"
-    "LogoID"="#100"
-    "Package"="{97d9322b-672f-42ab-b3cb-ca27aaedf09d}"
-    "ProductDetails"="#102"
-    "UseVsProductID"=dword:00000001
-    
-    ```
-    
+
+   ```
+    Windows Registry Editor Version 5.00
+   [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\VisualStudio\11.0\InstalledProducts\Team System Tools for Developers]
+   @="#101"
+   "LogoID"="#100"
+   "Package"="{97d9322b-672f-42ab-b3cb-ca27aaedf09d}"
+   "ProductDetails"="#102"
+   "UseVsProductID"=dword:00000001
+
+   ```
+
 2. Do not install the 'service' option. If you do the Integration Tools get installed in a move that will only use that rather than self-hosting. It is better to do manual runs with the tool window open. Better for debugging as well.
 
 ## Creating your Configuration
@@ -108,9 +108,9 @@ I currently have 14 teams that have all migrated into a single team project. Som
 
 1. At this point, if you have enabled the bypass rules switch you will need to add the account that the TFS Integration tools are running under to the "Service Accounts" group on your TFS Server. You can do this through the [tfsecurity command line](http://nkdagility.com/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled/). No, just giving the users the "on behalf of others" permission is not enough as the TFS Integration Tools check that specific group on the server. You will also need to add the account to both ends, source and destination servers if they are different.
 2. Practice, practice, practice. Use a separate collection or even a complete test instance of TFS to run, re-run, and run again the migration to make sure the end result is what you want. You can use a query to scope the dry runs if you have many work items.
-    
-    The filter above is for everything under the Team Project but you can use any WIQL you like. If you don’t know WIQL you can create a query in Team Explorer and "Save as" a local XMLO file then nick the contents.
-    
+
+   The filter above is for everything under the Team Project but you can use any WIQL you like. If you don’t know WIQL you can create a query in Team Explorer and "Save as" a local XMLO file then nick the contents.
+
 3. I usually create an area called "NewTeamProject\\\_Delete". If I have an unsucessfull migration in production I move all of the work items into this location. I can then use the API in either C#, VB, or PowerShell to load all work items under that Area Path and for each one call WorkItemStore.DeleteWorkItem(id). There is a command line tool for calling this but you need to log onto the TFS server to use it and I find this way quicker.
 4. If you have Test Cases in your migration and they have Shared Test Steps then the link gets screwy. Devesh Nagpal from the product team has [a command line tool to fix the broken links](http://blogs.msdn.com/b/broken_shared_steps_link_after_migration_from_tfs_integration_platform/archive/2012/11/05/broken-shared-steps-link-after-migration-from-tfs-integration-platform.aspx) after the migration.
 
@@ -151,5 +151,3 @@ You may have noticed the "Neglect" attribute. Well it’s a little reverse socio
 And that’s really all there is to it. Don’t expect to get a successful migration the first time. Or the second, or even the third. But if you persevere you can do many migrations quickly. I have [migrated 20-30 small projects](http://nkdagility.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/) into one in only a few days, however I was luckily with the low complexity and small check-ins.
 
 Go fourth and consolidate your Team Projects….
-
-

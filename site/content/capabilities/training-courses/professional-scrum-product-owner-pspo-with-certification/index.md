@@ -1,6 +1,6 @@
 ---
 categories:
-- agility
+  - agility
 type: courses
 card:
   content: ""
@@ -59,43 +59,22 @@ delivery:
     [Read more](https://www.scrum.org/scrumorg-professional-scrum-product-owner-training-student-reviews-and-feedback "Scrum.org Professional Scrum Master Training Student Reviews and Feedback") about our PSPO student surveys and their feedback
   type: Scrum
   brand:
-    colour: '#749335'
+    colour: "#749335"
     vendor: scrum-org
   lead: Being a professional Product Owner encompasses more than writing requirements or managing a Product Backlog. Product Owners need to have a concrete understanding of all product management aspects, including but not limited to product ownership, that drives value from their products.
   courseIcon: PSPO-400x.png
 tags:
-- certification
-- product-owner
+  - certification
+  - product-owner
 aliases:
-- professional-scrum-product-owner-pspo
-- professional-scrum-product-owner-pspo-training
-- professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - professional-scrum-product-owner-pspo
+  - professional-scrum-product-owner-pspo-training
+  - professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
 slug: professional-scrum-product-owner-pspo-with-certification
 date: 2019-11-07
 id: "41711"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Welcome to the Professional Scrum Product Owner (PSPO) course. This transformative learning journey is designed specifically for Product Owners, Leaders, Entrepreneurs, and Managers eager to deeply understand and incorporate Scrum values and principles into their work. The course offers practical case studies and engaging exercises to ensure a hands-on learning experience.
 
@@ -126,23 +105,3 @@ This course aims to help participants:
 This course goes beyond a mere introduction to Agile Product Management; it's a comprehensive exploration of Scrum's potential to transform your product delivery approach, team dynamics, and overall organizational performance through empirical practices.
 
 Join the Professional Scrum Product Owner (PSPO) course and equip yourself with the knowledge, skills, and mindset needed to excel in Agile.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

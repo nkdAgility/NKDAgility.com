@@ -2,10 +2,10 @@
 id: "10541"
 title: "Import Excel data into TFS with History"
 date: "2014-05-28"
-categories: 
+categories:
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "excel"
   - "import"
   - "tfs"
@@ -39,14 +39,14 @@ Function CreateTable(things As Range, headers As Range)
 
     Dim result As String
     result = "<table>"
-    
+
     For i = 0 To headers.Cells.count - 1
     result = result & "<tr>"
     result = result + "<td>" + HTMLEncode(headers.Cells(i).Value) + "</td>"
     result = result & "<td>" + HTMLEncode(things.Cells(i).Value) + "</td>"
     result = result & "</tr>"
     Next i
-    
+
     CreateTable = result + "</table>"
 End Function
 
@@ -83,7 +83,7 @@ End Function
 
 ```
 
- I stole the second function from somewhere online (I think it was Stack Overflow) but the first was my own creation. If I was doing it again I would create a vertical rather than a horizontal table but I only had limited time to create this. The result of adding this custom function? A simple way to add this to just reference the cells, but I had my eyes set of a little awesome table work. Since my data was already in a table I cracked open the internet and trawled the documentation for Excel.
+I stole the second function from somewhere online (I think it was Stack Overflow) but the first was my own creation. If I was doing it again I would create a vertical rather than a horizontal table but I only had limited time to create this. The result of adding this custom function? A simple way to add this to just reference the cells, but I had my eyes set of a little awesome table work. Since my data was already in a table I cracked open the internet and trawled the documentation for Excel.
 
 ```
 =CreateTable(Table_owssvr_2[@], Table_owssvr_2[#Headers])
@@ -112,5 +112,3 @@ And you are done.
 The only thing I do not like about this method over the CSV adapter for the Integration Platform is that all of the new work items have to go through the official flow of the process template. With the CSV adapter I can bypass the work item rules and just write what data I want into there. That way I can progress the states to whatever I want even if they don't exist and fix the data afterwards… better integrity, but more effort.
 
 Using Excel to import data into TFS is quick and easy. Took me about an hour to import the data and another hour to create and tests the data manipulation above.
-
-

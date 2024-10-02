@@ -8,7 +8,7 @@ type: "newsletters"
 slug: "seasons-greetings-upcoming-professional-scrum-training-classes"
 ---
 
-\[caption id="attachment\_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
+\[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
 
 ## News for 2023
 

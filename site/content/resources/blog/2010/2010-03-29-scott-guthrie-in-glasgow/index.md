@@ -2,10 +2,10 @@
 id: "58"
 title: "Scott Guthrie in Glasgow"
 date: "2010-03-29"
-categories: 
+categories:
   - "events-and-presentations"
   - "me"
-tags: 
+tags:
   - "silverlight"
   - "visual-studio"
   - "vs2010"
@@ -72,7 +72,7 @@ Do I think these are problems? No, not even slightly. This phone is aimed at con
 At the after event drinks gathering Scott was checking out my HTC HD2 (released to the US this month on T-Mobile) and liked the Windows Phone 6.5.5 build I have on it. We discussed why Microsoft were not going to allow Windows Phone 7 Series onto it with my understanding being that it had 5 buttons and not 3, while Scott was sure that there was more to it from a hardware standpoint. I think he is right, and although the HTC HD2 has a DX9 compatible processor, it was never built with WP7 in mind. However, as if by magic Saturday brought fantastic news for all those that have already bought an HD2:
 
 > Yes, this _appears_ to be Windows Phone 7 running on a HTC HD2. The HD2 itself [won't](http://www.coolsmartphone.com/news5567.html) be getting an official upgrade to Windows Phone 7 Series, so all eyes are on the ROM chefs at the moment. The rather massive photos have been posted by [Tom Codon](http://htcpedia.com/forum/showthread.php?t=2381) on [HTCPedia](http://htcpedia.com/forum/showthread.php?t=2381) and they've apparently got WiFi, GPS, Bluetooth and other bits working. The ROM isn't online yet but according to the post there's a beta version coming soon.  
-> **Leigh Geary** - [http://www.coolsmartphone.com/news5648.html](http://www.coolsmartphone.com/news5648.html "http://www.coolsmartphone.com/news5648.html") 
+> **Leigh Geary** - [http://www.coolsmartphone.com/news5648.html](http://www.coolsmartphone.com/news5648.html "http://www.coolsmartphone.com/news5648.html")
 
 What _was_ Scott working on on his flight back to the US? ![Tongue out](images/ScottGuthrieinGlagsow_8765-wlEmoticon-tongueout_2-1-3.png)
 { .post-img }
@@ -80,6 +80,3 @@ What _was_ Scott working on on his flight back to the US? ![Tongue out](images/S
 Follow: [@CAMURPHY](http://twitter.com/CAMURPHY "http://twitter.com/CAMURPHY"), [@ColinMackay](http://twitter.com/ColinMackay "http://twitter.com/ColinMackay"), [@plip](http://twitter.com/plip "http://twitter.com/plip") and of course [@ScottGu](http://twitter.com/ScottGu)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2010](http://technorati.com/tags/VS+2010) [WP7](http://technorati.com/tags/WP7) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight)
-
-
-

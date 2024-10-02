@@ -2,9 +2,9 @@
 id: "7255"
 title: "TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters"
 date: "2012-08-20"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tf205022"
   - "tfs"
@@ -24,12 +24,12 @@ You get error “TF205022: The following path contains more than the allowed 259
 The full error message:
 
 ```
-TF205022: The following path contains more than the allowed 259 characters: 
+TF205022: The following path contains more than the allowed 259 characters:
 
-$/XXX XXXXXXX/XXXXXXXXX XXXXXXXXX/Image Source Files/Promotions/SixZero/XXX 
-XXXXXXXX XXX-Australia/XX XXXXXXX Materials/XX XXXXXXX web content, banner ads, 
-and images for localization/Promo XX XXXXXXX Ad Banner and Badge/675x180_XXXXXXX 
-ads/XXXXXXX_675x180.jpg. 
+$/XXX XXXXXXX/XXXXXXXXX XXXXXXXXX/Image Source Files/Promotions/SixZero/XXX
+XXXXXXXX XXX-Australia/XX XXXXXXX Materials/XX XXXXXXX web content, banner ads,
+and images for localization/Promo XX XXXXXXX Ad Banner and Badge/675x180_XXXXXXX
+ads/XXXXXXX_675x180.jpg.
 
 Specify a shorter path.
 
@@ -85,5 +85,3 @@ Now that the path has been shortened the Integration Platform should detect that
 In order to proceed I will need to again recreate the session. Remembering to call “tf destroy” on the source that has already been migrated.
 
 **Did this help you save a few characters from your path?**
-
-

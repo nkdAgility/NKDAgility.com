@@ -2,10 +2,10 @@
 id: "92"
 title: "Wpf Drag & Drop behaviour"
 date: "2009-08-14"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "mvvm"
@@ -53,13 +53,13 @@ You can still use the standard options:
 ```
 <DockPanel>
     <Label DockPanel.Dock="Top"  Content="Checkout" />
-    <ListBox     hlb:DragDropBehaviour.IsDragSource="true" 
-                 hlb:DragDropBehaviour.IsDropTarget="true" 
-                 hlb:DragDropBehaviour.DragTemplate="{StaticResource MyTemplate}" 
-                 ItemsSource="{Binding Items}" 
-                 MinWidth="100" 
-                 MinHeight="100" 
-                 AllowDrop="True" 
+    <ListBox     hlb:DragDropBehaviour.IsDragSource="true"
+                 hlb:DragDropBehaviour.IsDropTarget="true"
+                 hlb:DragDropBehaviour.DragTemplate="{StaticResource MyTemplate}"
+                 ItemsSource="{Binding Items}"
+                 MinWidth="100"
+                 MinHeight="100"
+                 AllowDrop="True"
                  SelectionMode="Multiple">
     </ListBox>
 </DockPanel>
@@ -68,12 +68,12 @@ You can still use the standard options:
 But I have added another bindable option of DropProcessor that allows you to override the default DropProcessor to achieve whatever you want.
 
 ```
-<ListBox hlb:DragDropBehaviour.DropProcessor="{Binding DropProcessor}" 
-    hlb:DragDropBehaviour.IsDragSource="true" 
-    hlb:DragDropBehaviour.IsDropTarget="true" 
-    hlb:DragDropBehaviour.DragTemplate="{StaticResource moo}" 
-    ItemsSource="{Binding Items}" 
-    MinWidth="100" 
+<ListBox hlb:DragDropBehaviour.DropProcessor="{Binding DropProcessor}"
+    hlb:DragDropBehaviour.IsDragSource="true"
+    hlb:DragDropBehaviour.IsDropTarget="true"
+    hlb:DragDropBehaviour.DragTemplate="{StaticResource moo}"
+    ItemsSource="{Binding Items}"
+    MinWidth="100"
     MinHeight="100">
 ```
 
@@ -137,7 +137,7 @@ overridden couple of methods. The first, “GetDropAdorner” test to make sure 
 
 The diagram for the demo app is a little large, but you can see how much I still suck at MVVM, and although I have learned a lot doing this demo, I am still tempted to share ViewModels… but that is a bad habit.
 
- ![image](images/WpfDragDropbehaviour_E187-image_-6-2.png)
+![image](images/WpfDragDropbehaviour_E187-image_-6-2.png)
 { .post-img }
 
 I have highlighted the two main classes, and we have already discussed the CheckoutDropProcessor. This allows you the flexibility to augment your drop scenarios without all of your developers having to get too deep in the guts on the behaviour, thus leaving them plenty of time for the real work of actually building something useful.
@@ -145,6 +145,3 @@ I have highlighted the two main classes, and we have already discussed the Check
 I have put this [up on Codeplex](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504), and both the [source](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79055) and [binaries](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79056) are available.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [Silverlight](http://technorati.com/tags/Silverlight)
-
-
-

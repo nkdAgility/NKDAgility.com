@@ -2,9 +2,9 @@
 id: "49"
 title: "Silverlight 4, MVVM and Test-Driven Development"
 date: "2010-04-20"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "mvvm"
   - "patterns"
@@ -26,11 +26,9 @@ As part of his [UK tour](http://blogs.silverlight.net/blogs/jesseliberty/archive
 
 \[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]
 
-  
+---
 
-* * *
-
- **The Talk**
+**The Talk**
 
 - MVVM and Silverlight to build test-driven programs
 - Understanding Refactoring and Dependency Injection
@@ -56,9 +54,6 @@ We are meeting at Microsoft's offices in Edinburgh in Waterloo Place. This is th
 20:50 Feedback and Prizes  
 21:00 End
 
-\[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]  
+\[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]
 
 Technorati Tags: [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM) [VS 2010](http://technorati.com/tags/VS+2010)
-
-
-

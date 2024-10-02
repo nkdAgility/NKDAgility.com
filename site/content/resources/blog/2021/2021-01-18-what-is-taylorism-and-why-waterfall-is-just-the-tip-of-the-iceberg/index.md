@@ -2,9 +2,9 @@
 id: "45392"
 title: "What is Taylorism, and why Waterfall is just the tip of the iceberg!"
 date: "2021-01-18"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "featured"
   - "taylorism"
   - "traditional-project-management"
@@ -44,7 +44,7 @@ Prior to the industrial revolution, goods were made in small cottage industries 
 When the industrial revolution came along, massive mechanisation was needed to produce goods at scale. However the technology of the time was unable to automate at that scale, so the only available "machines" were people. When, in pursuit of higher production volumes, you take away from people their autonomy, mastery, and purpose in your pursuit, you take away their soul. When you take away the essential elements of rewarding work, people become mindless automatons.
 
 > Frederick Winslow Taylor is a controversial figure in management history. His innovations in industrial engineering, particularly in time and motion studies, paid off in dramatic improvements in productivity. At the same time, he has been credited with destroying the soul of work, of dehumanizing factories, making men into automatons.
-> 
+>
 > _Vincenzo Sandrone_
 
 Traditional management practices were born out of the disengagement of the workforce. With the outcome controlled and repeatable, management focuses on best practices and incentivising people to work faster and harder. They wanted to remove thinking from the work since thinking creates ideas, and ideas create deviations from the pre-defigned optimal way of working.
@@ -126,7 +126,7 @@ If you are lucky enough to work in one of the small numbers of companies that ha
 In the days of the industrial revolution, employees were perceived as untrustworthy. Managers were needed to tell workers what to do and how to do it. As our organisations grew we needed managers to manage the growing number of managers and incentivise those managers to increase productivity in our employees through any means that they could.
 
 > "**Put people in competency based groups**"
-> 
+>
 > The Scientific Management Method
 
 Using the Scientific Management Method the Business Owners should identify each problem domain (e.g. Sales, HR, Marketing, Engineering, Testing) and come up with the "one true way" to do that work within the domain. The Business Owners can then hire managers and workers that will be trained in the "one true way" of doing that work, and minimise deviation from the Business Owners control.
@@ -184,7 +184,7 @@ From: Organising for Complexity
 In the days of the industrial revolution, employees were perceived as unskilled. Business owners needed to create standard operating procedures for every facet of work within each problem domain. The work of the time existed within the simple space. The work being performed may by categorised as "simple", with relatively few unknowns. Manufacturing created a large volume of pre-defined work in a low variance environment where the outcomes of the work were known before the work was performed. Output was the only control and correlated directly to profitability.
 
 > "Create standard practices and train workers in those practices"
-> 
+>
 > The Scientific Management Method
 
 Since there was a low variability in the work we could plan it all out beforehand, and simply follow that plan. We could hire managers to maintain order and compliance with defined methods, and treat employees as simple replicable cogs.
@@ -234,7 +234,7 @@ In the complex world of Sales, Marketing, and Software Development we also neede
 Instead of coming up with best practices, we realise that there are only good practices for the situation at hand. A good practice, today might not be quite so good tomorrow, and thus we need to be a lot more flexible. No longer is the business owner (or manager) the best person to define these practices since they are no longer close to the problem.
 
 > We are uncovering better ways of developing "products" by doing it and helping others do it.
-> 
+>
 > Agile Manifesto, 2001
 
 The best people to make decisions and define practices are those with the most information. Today that is the people doing the complex cognitive work.
@@ -250,7 +250,7 @@ We need to accept that our practices are imperfectly defined. With this in mind,
 In the days of the industrial revolution, employees were perceived to be lazy. It was perceived that revenue was lost due to this lazy, malingering workforce and so business owners needed to figure out how to minimise downtime and maximize output. Since managers were keeping people with the same ability in the same group, and planning everyone's work, the one remaining thing to be controlled was the worker's focus.
 
 > "Reduced wage based on expected low performance and bonuses for increased output"
-> 
+>
 > The Scientific Management Method
 
 Managers used various methods to incentivise workers to work harder and faster:
@@ -269,7 +269,7 @@ Developed by Henry Gantt, the Task and Bonus system is an augmentation to the Ta
 
 There are other ways to try and incentivise people, rather than just how they are remunerated:
 
-- **Employee Of the Month** - The Employee of the Month (EOM) is a type of reward program given out by companies (often to encourage the staff to work harder and more productively). 
+- **Employee Of the Month** - The Employee of the Month (EOM) is a type of reward program given out by companies (often to encourage the staff to work harder and more productively).
 
 - **Performance Appraisals** - A performance appraisal, also referred to as a performance review, performance evaluation, (career) development discussion, or employee appraisal is a method by which the job performance of an employee is documented and evaluated. Performance appraisals are a part of career development and consist of regular reviews of employee performance within organizations.
 
@@ -346,9 +346,3 @@ These Tayloristic practices worked well for employers during the industrial revo
 - [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
 
 **Foster ingenuity, focus, and enthusiasm and stop killing it with Taylorism. Bring the soul back to the work.**
-
-
-
-
-
-

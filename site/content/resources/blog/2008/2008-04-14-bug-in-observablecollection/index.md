@@ -2,10 +2,10 @@
 id: "240"
 title: "Bug in ObservableCollection?"
 date: "2008-04-14"
-categories: 
+categories:
   - "code-and-complexity"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "code"
   - "develop"
   - "wpf"
@@ -22,16 +22,16 @@ For example, consider the following code:
 > ```
 > Public Class ItemBitCollection(Of TItem)
 >     Inherits ObservableCollection(Of ItemBit(Of TItem))
-> 
-> 
+>
+>
 > End Class
-> 
+>
 > Public Class ItemBit(Of TItem)
-> 
+>
 >     Private m_item As TItem
-> 
+>
 > End Class
-> 
+>
 > ```
 
 Now, if you create an instance of ItemBitCollection you will see an error on the IDE regardless of wither you use a custom object type or a String type to initialise it:
@@ -52,35 +52,32 @@ If you create a fixed class type:
 > ```
 > Public Class ItemBitCollection(Of TItemBit)
 >     Inherits ObservableCollection(Of TItemBit)
-> 
+>
 > End Class
-> 
+>
 > Public MustInherit Class ItemBit(Of TItem)
-> 
+>
 >     Private m_item As TItem
-> 
+>
 > End Class
-> 
+>
 > Public Class DefaultItemBit
 >     Inherits ItemBit(Of String)
-> 
+>
 > End Class
-> 
+>
 > ```
-> 
->  
+>
+>
 
 And then pass that class in it does work:
 
 > ```
 > Dim o As New ItemBitCollection(Of DefaultItemBit)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 Although this is a work around, it causes other problems in my code... Ahh well... worth a try...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-
-
-

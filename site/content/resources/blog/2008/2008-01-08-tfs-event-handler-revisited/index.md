@@ -2,9 +2,9 @@
 id: "266"
 title: "TFS Event Handler Revisited"
 date: "2008-01-08"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "tfs"
@@ -25,6 +25,3 @@ Hopefully this will not be much work...
 Well, I was wrong... Looks like some language compatibility problems...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

@@ -2,9 +2,9 @@
 id: "8781"
 title: "TFS Integration Tools - Issue: TFS WIT invalid submission conflict type"
 date: "2012-09-18"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs2012"
   - "tfs-integration-platform"
@@ -46,5 +46,3 @@ note: I recommend building and testing all of your scripts/configurations agains
 
 You should now be able to successfully run your configuration although I can’t guarantee further errors ![Smile](images/wlEmoticon-smile1-4-4.png)
 { .post-img }
-
-

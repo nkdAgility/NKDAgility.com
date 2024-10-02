@@ -2,10 +2,10 @@
 id: "3688"
 title: "Coffee Talk: Scrum versus Kanban"
 date: "2011-07-19"
-categories: 
+categories:
   - "events-and-presentations"
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "events-and-presentations"
   - "kanban"
@@ -29,9 +29,8 @@ I am doing a free session this Friday with Steven Borg to help folks understand 
 **Updates**
 
 - **The Recording** - I have added the recording below
-    
 
-* * *
+---
 
 Scrum is a process model that promotes highly iterative, value driven development and has been successfully adopted by agile teams world-wide. Kanban, meaning “signboard”, is a concept relation to Lean and focuses on the reduction of work in progress and visual signals to indicate that new work should be started. \[wpvideo Wbd7WBd2\]
 
@@ -42,5 +41,3 @@ Both models have proven track records, and **in this session [Martin Hinshelwood
 - **[Join Northwest Cadence for this Free Webcast Event](http://scrumvskanban.eventbrite.com/)**
 
 I think that we have around 50 folks already signed up, but the more the merrier…
-
-

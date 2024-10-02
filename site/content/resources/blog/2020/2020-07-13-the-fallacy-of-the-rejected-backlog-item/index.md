@@ -2,9 +2,9 @@
 id: "9876"
 title: "The fallacy of the rejected backlog item"
 date: "2020-07-13"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "featured"
   - "sprint-review"
 coverImage: "nkdAgility-backlog-item-approve-1-1.jpg"
@@ -24,13 +24,10 @@ Since the Development Team is held accountable for quality, but not quantity, an
 - **DONE** - If in the pursuit of the Sprint Goal the output of the Sprint is a DONE Increment of working software then the Development Team did everything they were required to do. Any gap between what was delivered and expectation is merely a learning opportunity. At the Sprint Review, the Scrum Team investigates this gap and updates the Product Backlog (Transparency of the Future) to reflect what is now needed next.
 
 - **NOT DONE** - If the Development Team is not “Done” at the end of the Sprint then there are some consequences:
-    - An increase in Technical Debt that is going to make future work slower
-    
-    - Removing the option for the Product Owner to release the product if they so choose.
-    
-    - With undone work, you have to fix it next Sprint and thus interfere with the next Sprint Goal and the Product Owners delivery expectations.
-    
-    - Remove any chance of [predictability for future sprints](https://nkdagility.com/release-planning-and-predictable-delivery/) until the undone work is under control.
+  - An increase in Technical Debt that is going to make future work slower
+  - Removing the option for the Product Owner to release the product if they so choose.
+  - With undone work, you have to fix it next Sprint and thus interfere with the next Sprint Goal and the Product Owners delivery expectations.
+  - Remove any chance of [predictability for future sprints](https://nkdagility.com/release-planning-and-predictable-delivery/) until the undone work is under control.
 
 **If it is DONE,** then there is no rejection of the Backlog Item there is only feedback. There is just a learning opportunity that can be used to reduce the expectations gap for future Sprints. Reflect on that during the Sprint Review, engage with Stakeholders to better understand both their intent and their expectations.
 
@@ -49,7 +46,7 @@ My point is that it is neither physically nor technically possible to remove a s
 > A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. During the Sprint Review, the Scrum Team and stakeholders collaborate about what was done in the Sprint. Based on that and any changes to the Product Backlog during the Sprint, attendees collaborate on the next things that could be done to optimize value.  
 > \-[Scrum Guide - Sprint Review](http://www.scrumguides.org/scrum-guide.html#events-review)
 
-**The [Scrum Guide 2017](https://www.scrum.org/Scrum-Guides) mentions nothing of rejecting anything at the Sprint Review.** 
+**The [Scrum Guide 2017](https://www.scrum.org/Scrum-Guides) mentions nothing of rejecting anything at the Sprint Review.**
 
 This is the reality of product development that gets in the way of the idea of the rejected backlog item. The software that we are producing is complex and only works together in its entirety, the whole increment. The Sprint Goal provides the Scrum Team with purpose and focus, and selecting items that go towards this Goal means that many of the selected backlog items, the forecast, are related. This related set of ideas created an interconnected network of interdependent code that realises on the existence of each other. If we then decide to rip one of those interconnected items out of this complex web of classes and methods, then we are increasing risk, and we are also unlikely to have working software at the end of the Sprint.
 
@@ -67,9 +64,9 @@ There are only three actions open to the Scrum Team at the Sprint Review:
 
 1. **Update the Product Backlog to reflect what we now need to do to achieve the vision**
 
-3. **Choose to ship the current increment or not**
+2. **Choose to ship the current increment or not**
 
-5. **Choose to end the project or continue**
+3. **Choose to end the project or continue**
 
 ## Making it easier with feature flags or toggles
 
@@ -84,5 +81,3 @@ There are a few things that can make this as easy as possible:
 - **Feature Flippers/toggles/flags** – The single most valuable thing in your developer's arsenal is the ability to turn the things that you are adding on and off at will. This should be applied both to a feature and the multiple layers of that feature that are added to each pass delivering PBI’s. You may think of each PBI’s as requiring a switch to be able to turn it on or off. It is usually not perfect as there are some things that are iterations of the same feature. More advanced implementations may allow you to enable or disable features by account or user.
 
 **If you can do all of these things as they will all add value by making it easier to give the Product Owner flexibility, give the Scrum Team as much feedback as possible.**
-
-

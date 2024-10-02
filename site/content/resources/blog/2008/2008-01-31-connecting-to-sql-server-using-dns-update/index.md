@@ -2,9 +2,9 @@
 id: "255"
 title: "Connecting to SQL Server using DNS update"
 date: "2008-01-31"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "sp2007"
@@ -35,6 +35,3 @@ When I try moving the databases I will need to move this SPN to the new SQL Clus
 Here's hoping...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-
-
-

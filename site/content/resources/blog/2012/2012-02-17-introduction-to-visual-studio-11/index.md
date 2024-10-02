@@ -2,9 +2,9 @@
 id: "4393"
 title: "Introduction to Visual Studio 11"
 date: "2012-02-17"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "develop"
   - "infrastructure"
@@ -50,5 +50,3 @@ And this just the beginning…
 - **Follow** [**http://blog.nwcadence.com**](http://blog.nwcadence.com) **for more posts…**
 
 There will be plenty more this month and after the [2012 MVP Global Summit](http://www.2012mvpsummit.com/) in a couple of weeks...
-
-

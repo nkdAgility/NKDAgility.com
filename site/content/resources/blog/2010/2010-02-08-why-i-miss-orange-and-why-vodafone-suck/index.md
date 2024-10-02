@@ -2,9 +2,9 @@
 id: "71"
 title: "Why I miss Orange and why Vodafone suck!"
 date: "2010-02-08"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "fail"
   - "mobile"
 coverImage: "nakedalm-logo-128-link-2-2.png"
@@ -37,6 +37,3 @@ If you are thinking of going with Vodafone… stop, think and go somewhere else!
 </rant>
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-
-

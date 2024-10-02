@@ -2,9 +2,9 @@
 id: "170"
 title: "Composite WPF and Merged Dictionaries"
 date: "2008-11-12"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tfs-sticky-buddy"
   - "tools"
@@ -43,7 +43,7 @@ I am using the built in Infragistics theme system, and the first time you select
    4: End If
 ```
 
- 
+
 
 This causes an error in the ItemsControlRegionAdapter as WPF seams to redo the region adapters and you get a ItemsControlHasItemsSourceException. You need to change the code to the following (notice the commented out areas):
 
@@ -139,7 +139,7 @@ This causes an error in the ItemsControlRegionAdapter as WPF seams to redo the r
   23: }
 ```
 
- 
+
 
 You will notice that I had to comment out the exception for existing controls as well as the Items.Clear (which is replaced by setting the ItemsSource to nothing). This solves the problem I I have not noticed any adverse reactions.
 
@@ -157,7 +157,7 @@ The second problem occurs when you do you second set of the theme. at this point
    3: End If
 ```
 
- 
+
 
 When this happens the region management is redone and you get a further RegionNameExistsException from the RegionManager. Then can be solved by changing the code in the AttachNewRegion method:
 
@@ -225,14 +225,10 @@ When this happens the region management is redone and you get a further RegionNa
   16: }
 ```
 
- 
+
 
 So instead of bombing out when you try to add a region of the same name, it will just ignore it. Not ideal, but necessary.
 
- 
+
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
-
-
-
-

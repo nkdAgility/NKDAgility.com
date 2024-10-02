@@ -2,7 +2,7 @@
 id: "373"
 title: "Back to the grind"
 date: "2007-07-10"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -18,6 +18,3 @@ Well that's my paternity leave over, I cant believe that it has been two weeks! 
 But now it is time to get back to work...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

@@ -2,10 +2,10 @@
 id: "9468"
 title: "Release Management with Team Foundation Server 2012"
 date: "2013-04-24"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "develop"
   - "lab-management"
   - "octopus"
@@ -127,5 +127,3 @@ This flow of building once and then repeated validation will help weed out those
 **How long is your release process?**
 
 **How sure are you of your quality?**
-
-

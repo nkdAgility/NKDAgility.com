@@ -2,9 +2,9 @@
 id: "302"
 title: "Experts Exchange Hell - The slowest site in the world."
 date: "2007-10-05"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "fail"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
@@ -16,7 +16,7 @@ I know a couple of people who have been complaining that Experts Exchange was ge
 
 The first test is to save the page "Complete List of Zone Areas.mht" and see how big/ or small it is...Well my jaw hit the floor and here is why:
 
- [![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ExpertsExchangeHellTheslowestsiteinthew_F058-image.png)
+[![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ExpertsExchangeHellTheslowestsiteinthew_F058-image.png)
 { .post-img }
 
 What are those guys at Experts Exchange thinking! I know we all have broadband, but this is ridiculous... I am on my corporate network and it is soooo slooow. It is slow from home as well, and that's a 20Mb Cable line...
@@ -47,7 +47,3 @@ Click [![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb_
 { .post-img }
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-
-
-

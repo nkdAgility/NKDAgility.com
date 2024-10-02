@@ -2,10 +2,10 @@
 id: "48"
 title: "Combining Scrum, TFS2010 and Email to keep everyone in the loop"
 date: "2010-04-28"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "people"
   - "process"
@@ -28,9 +28,7 @@ slug: "combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop"
 
 You need to keep these so your Team can refer to it later, and so you can send a “done” when the task has been completed. This preserves the “history” of the task and allows you to keep relevant partied included in any future conversation.
 
-  
-
-* * *
+---
 
 At SSW we keep the original email so that we can r[eply Done and delete the email](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspx#ReplyAndDelete).
 
@@ -76,7 +74,3 @@ This would not currently deal with email “forks” well, but I think it would 
 It would be nice if we could find time to implement this, but currently it is but a pipe dream. Maybe Microsoft could implement something in the next version of Team Foundation Server, and in the mean time we have a process that works well.
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-
-

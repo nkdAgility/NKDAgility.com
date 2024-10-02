@@ -2,7 +2,7 @@
 id: "27"
 title: "How to deal with a stuck or infinitely queued build"
 date: "2010-09-09"
-tags: 
+tags:
   - "codeproject"
   - "ssw"
   - "tfs-build"
@@ -22,36 +22,34 @@ Team Foundation Build can be a difficult beast, but not usually because of itsel
 
 On occasion I have seen what I call a “Stuck Build” which is a build that never completes, this tends to only happen on builds setup on large codebases that have never been built before. It also usually also occurs at the point in the build after everything has been built and Team Foundation Build is trying to upload the data it has collected to Team Foundation Server.
 
-  
-
-* * *
+---
 
 Developers should always make sure that any builds they queue complete in a timely fashion.
 
 > _I queued a build at 3:51. It is still there at 4:21. It seems stuck._
-> 
-> _![clip_image001](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-clip_image001_-2-2.jpg)_
-{ .post-img }
-> 
+>
+> _![clip_image001](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-clip_image001_-2-2.jpg)\_
+> { .post-img }
+>
 > _**\-George Gong, SSW**_
 
 If you see a Queued build that never completes then there is probably a stuck build somewhere. George;s build has not even run yet, it is still waiting in the queue.
 
 > I created a new build for SSW.Website and now it stays in the queue for over 30 minutes.
-> 
+>
 > ![clip_image002[4]](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-clip_image0024_-4-4.jpg)
-{ .post-img }
-> 
+> { .post-img }
+>
 > But the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") build controller is ok.
-> 
+>
 > ![clip_image004[4]](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-clip_image0044_-5-5.jpg)
-{ .post-img }
-> 
+> { .post-img }
+>
 > ![clip_image006[4]](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-clip_image0064_-7-7.jpg)
-{ .post-img }
-> 
+> { .post-img }
+>
 > I have just installed the VS2010 RTM and Team Explorer. Did I miss something?
-> 
+>
 > **\-Brite Cheng, SSW**
 
 Again, this build is queued, it never started. It is queued as there is another build running. Evan though we now have more than one build server queues will always exist. All it takes is for one more build than we have capacity for to be sent to the controller at the same time. Someone will always have to wait. But they should not have to wait for long. We should probably have something line [http://buildmonitor.codeplex.com/](http://buildmonitor.codeplex.com/) setup so we can quickly look and see what builds are running J but in the mean time you can run the “Build Notifications” application to see what builds are running.
@@ -100,6 +98,3 @@ Then we need to queue another build.
 Done
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010)
-
-
-

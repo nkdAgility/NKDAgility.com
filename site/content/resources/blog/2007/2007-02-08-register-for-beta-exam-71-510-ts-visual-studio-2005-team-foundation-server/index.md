@@ -2,7 +2,7 @@
 id: "434"
 title: "Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
 date: "2007-02-08"
-tags: 
+tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
@@ -22,7 +22,7 @@ Testing is held at Prometric and Pearson VUE testing centers worldwide, although
 Registration Information
 
 You must register at least 24 hours prior to taking the exam.  
-Please use the following promotional code when registering for the exam: TSVS510. 
+Please use the following promotional code when registering for the exam: TSVS510.
 Receiving this invitation does not guarantee you a seat in the beta; we recommend that you register immediately.  
 **To register in North America, please call:**
 
@@ -37,6 +37,3 @@ Receiving this invitation does not guarantee you a seat in the beta; we recommen
 •VUE: [http://www.vue.com/ms/](http://www.vue.com/ms/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

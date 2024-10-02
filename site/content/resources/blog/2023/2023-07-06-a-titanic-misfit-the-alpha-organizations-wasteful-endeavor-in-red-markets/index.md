@@ -2,9 +2,9 @@
 id: "49490"
 title: "A Titanic Misfit: The Alpha Organization's Wasteful Endeavor in Red Markets"
 date: "2023-07-06"
-categories: 
+categories:
   - "organisational-change"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "image-1.jpg"
@@ -34,9 +34,3 @@ Then there is the waste of human potential. In an Alpha organisation, most power
 Finally, there's the customer disconnect, perhaps the most egregious form of waste. Alpha organisations, ensconced in their ivory towers, struggle to keep their finger on the market’s pulse. They are often slow to respond to changing customer needs, and their offerings often miss the mark, wasting effort, resources, and lost customers.
 
 Watching the Alpha organisation struggle in red markets feels akin to watching a fish attempt to climb a tree. It is a spectacle of monumental waste – a waste of time, resources, talent, and opportunities. However, all is not lost. I see a ray of hope in the form of Beta organisations, nimble and responsive, perfectly suited to thrive in the complex red markets. They are the future; they are the answer. The sooner we realise this, the better we'll be in reducing the colossal waste we are currently witnessing.
-
-
-
-
-
-

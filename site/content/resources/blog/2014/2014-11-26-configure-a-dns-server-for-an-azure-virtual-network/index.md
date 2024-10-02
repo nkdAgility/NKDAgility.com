@@ -2,9 +2,9 @@
 id: "10878"
 title: "Configure a DNS server for an Azure Virtual Network"
 date: "2014-11-26"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "azure"
   - "dns"
   - "virtual-network"
@@ -27,7 +27,7 @@ There is a simple command to give your server a fixed IP within your virtual net
 Get-AzureVM -ServiceName nkd-infra -Name nkd-inf-svrdc01 | Set-AzureStaticVNetIP -IPAddress 10.0.0.4 | Update-AzureVM
 ```
 
- There is also a 'check IP' command that, as I only currently have a single server is a little pointless. I just set the servers current IP as the fixed IP for the future.
+There is also a 'check IP' command that, as I only currently have a single server is a little pointless. I just set the servers current IP as the fixed IP for the future.
 
 ![clip_image002](images/clip-image0022-2-2.png "clip_image002")
 { .post-img }
@@ -40,5 +40,3 @@ We first need to create a DNS server definition that we can select later. Here w
 We then need to go to the virtual network that we created and tell it that the DNS server should be the one to use. If we had a large network we may set more than one DNS server, but in this case we are just pottering around with the configuration for demos. Select the network and go to the configuration tab. Here we can select our pre-created DNS server.
 
 If you create new machines, or reboot the existing machines in the virtual network, they will then be given this DNS server when DHCP assigns configuration. In this way you can create quite complicated network configurations and even create backup domains controllers to allow you to extend your local network to the cloud.
-
-

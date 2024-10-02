@@ -2,9 +2,9 @@
 id: "38"
 title: "Flashing your Windows Phone 6 for Dummies"
 date: "2010-06-17"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "mobile"
   - "tools"
   - "windows-mobile-6"
@@ -21,9 +21,7 @@ The rate at which vendors release new updates for the HD2 is ridiculously slow. 
 
 I want Windows Mobile 6.5.5 now!
 
-  
-
-* * *
+---
 
 I’m an early adopter. If there is a new version of something then that’s the version I want. As long as you accept that you are using something on a “let the early adopter beware” and accept that there may be bugs, sometimes serious crippling bugs the go for it.
 
@@ -103,6 +101,3 @@ If you have gotten this far then you are probably a pro by now ![Smile](images/F
 While updating your ROM is not for the faint hearted it provides more options than the Stock ROM’s and quicker feature updates than waiting…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-
-

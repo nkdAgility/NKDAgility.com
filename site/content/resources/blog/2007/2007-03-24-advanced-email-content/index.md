@@ -2,9 +2,9 @@
 id: "431"
 title: "Advanced Email Content"
 date: "2007-03-24"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ I guess my question is:
 Has anyone ever sent an xbap to anyone via email? Not a link, actually running in the email window. And if so, how?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-
-
-

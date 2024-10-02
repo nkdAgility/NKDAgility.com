@@ -2,12 +2,12 @@
 title: "Book Online"
 description: "Naked Agility Limited is a boutique consultancy that offers training, coaching, mentoring, and facilitation to help people and teams evolve, integrate, and continuously improve."
 aliases:
-- /book-online/
-layout: "booking" 
+  - /book-online/
+layout: "booking"
 type: page
-headline: 
-  title: "Book online" 
-  
+headline:
+  title: "Book online"
+
   content: |
     Do you need a Free Consultation for us to discover your needs, or are you looking for your free 30-minute training review?
 

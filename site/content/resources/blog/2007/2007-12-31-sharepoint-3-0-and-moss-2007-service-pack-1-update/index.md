@@ -2,9 +2,9 @@
 id: "272"
 title: "SharePoint 3.0 and MOSS 2007 Service Pack 1 Update"
 date: "2007-12-31"
-categories: 
+categories:
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "infrastructure"
   - "sharepoint"
   - "sp2007"
@@ -24,7 +24,7 @@ Well, I found a little called [kb841216](http://support.microsoft.com/kb/841216/
 The reason I get the errors is that the content databases are not at the same version as the application files causing an inability for SharePoint to read the database. You can solve this by running a nice little stsadm command:
 
 > cd /d %commonprogramfiles%Microsoft SharedWeb Server Extensions60Bin
-> 
+>
 > stsadm -o upgrade -forceupgrade
 
 This may not fix your problems, but it sure fixed mine....
@@ -32,6 +32,3 @@ This may not fix your problems, but it sure fixed mine....
 Now to get the [Virus Protection problems](http://blog.hinshelwood.com/archive/2007/12/13/no-love-between-mcafee-enterprise-and-moss-2007.aspx) solved....
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

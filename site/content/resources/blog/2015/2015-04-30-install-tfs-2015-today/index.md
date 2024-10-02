@@ -2,9 +2,9 @@
 id: "11286"
 title: "Install TFS 2015 today"
 date: "2015-04-30"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "configuration"
   - "install"
   - "tfs"
@@ -19,7 +19,7 @@ It has been a while since I had to install, configure, or upgrade TFS. Most of m
 
 If you are on TFS 2010 (or any prior version) then remember that support ends at the end of July and that you should upgrade. If you are upgrading anyway then you should upgrade to TFS 2015.
 
-\[pl\_button type="info" link="https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx" target="blank"\]Download 2015 today\[/pl\_button\]
+\[pl_button type="info" link="https://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs.aspx" target="blank"\]Download 2015 today\[/pl_button\]
 
 I like to do a few practice installs before I go for the main event, and I always like to document what I am doing so…
 
@@ -99,5 +99,3 @@ When done you will have a nice new TFS server to start working in.
 { .post-img }
 
 Creating a new Team Project is the test of a TFS server and this can still only be done in Visual Studio (Team Explorer). TFS, unlike VSO, still depends on Reporting Services, and optionally SharePoint for some of its services and the server work required to get the Team Project wizard running server side is just silly work. So time to pop open Visual Studio and create your first team project.
-
-

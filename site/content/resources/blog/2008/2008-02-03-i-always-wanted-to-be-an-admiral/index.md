@@ -2,7 +2,7 @@
 id: "251"
 title: "I always wanted to be an Admiral!"
 date: "2008-02-03"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -19,6 +19,3 @@ Having just watched the entire 3rd series and waiting with bated breath for the 
 I know...I'm a bit sad...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

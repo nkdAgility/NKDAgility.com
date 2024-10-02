@@ -13,9 +13,9 @@ isShort: False
 
 # Silence! 7 Harbingers agile apocalypse.
 
-*Breaking the silence in agile teams!* Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews. 
+_Breaking the silence in agile teams!_ Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews.
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🧔 delves into the world of agile teams, unearthing the pitfalls of silence and the art of effective stakeholder communication. 🗣️🤝 Join him as he shares insights on avoiding misdirection and ensuring alignment with business objectives. 🎯
 
@@ -41,7 +41,7 @@ Part 5: https://youtu.be/vhBsAXev014
 Part 6: https://youtu.be/FdQpGx-FW-0
 Part 7: https://youtu.be/UeisJt8U2_0
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 Facing challenges with stakeholder engagement or navigating the complexities of Sprint reviews? My team at NKDAgility can offer solutions tailored to your needs, ensuring your team remains on track. Don't let these issues undermine your value delivery. Take action now!
 

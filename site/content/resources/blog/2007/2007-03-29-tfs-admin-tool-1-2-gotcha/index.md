@@ -2,7 +2,7 @@
 id: "422"
 title: "TFS Admin Tool 1.2 Gotcha"
 date: "2007-03-29"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog

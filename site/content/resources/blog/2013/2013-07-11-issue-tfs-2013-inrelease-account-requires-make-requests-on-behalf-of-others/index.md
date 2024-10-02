@@ -2,10 +2,10 @@
 id: "9759"
 title: "Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others"
 date: "2013-07-11"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "code"
   - "configuration"
   - "inrelease"
@@ -48,8 +48,8 @@ Application Domain: InCycle.InRelease.Console.exe
 Process Id: 1468
 Process Name: C:Program Files (x86)InCycle SoftwareInReleasebinInCycle.InRelease.Console.exe
 Win32 Thread Id: 5904
-Thread Name: 
-Extended Properties: 
+Thread Name:
+Extended Properties:
 ```
 
 ## Applies to
@@ -88,5 +88,3 @@ When you execute the command TFS will go off and add the account to the group. Y
 Figure: Green tick for account that now has make requests on behalf of others
 
 I could have given explicit permission to that account or even created a special group with just that permission but this is the recommended option to solving the problem.
-
-

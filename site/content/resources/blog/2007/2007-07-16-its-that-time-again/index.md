@@ -2,9 +2,9 @@
 id: "370"
 title: "Its that time again"
 date: "2007-07-16"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ Is anyone out there on the look out for a Senior .NET Developer with the skills 
 **How did you get into contracting?**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007)
-
-
-

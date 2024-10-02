@@ -2,9 +2,9 @@
 id: "10353"
 title: "Install Release Management 2013"
 date: "2014-02-03"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "microsoft-deployment-agent"
   - "release"
   - "release-management"
@@ -30,5 +30,3 @@ Have you seen how easy it is to install Release Management 2013 and configure a 
 - Microsoft Deployment Agent 2013
 
 Have you been using Release Management in Visual Studio 2013? How have you been getting on?
-
-

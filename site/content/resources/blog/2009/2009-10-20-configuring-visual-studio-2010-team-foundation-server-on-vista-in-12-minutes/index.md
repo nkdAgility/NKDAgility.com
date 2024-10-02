@@ -2,7 +2,7 @@
 id: "83"
 title: "Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes"
 date: "2009-10-20"
-tags: 
+tags:
   - "aggreko"
   - "tfs"
   - "tfs2010"
@@ -54,7 +54,7 @@ Ok, I have a default collection, but only because I am lazy...
 ![Team Foundation Server Configuration - Advanced - Review](images/8c502b9afabd_C17A-image_-4-11.png) All done, now to apply it.
 { .post-img }
 
- ![Team Foundation Server Configuration - Advanced - Rediness Checks](images/8c502b9afabd_C17A-image_-9-16.png)
+![Team Foundation Server Configuration - Advanced - Rediness Checks](images/8c502b9afabd_C17A-image_-9-16.png)
 { .post-img }
 
 No, wait, we need to check all of the system requirements!
@@ -114,6 +114,3 @@ P.S. Visual Studio 2005 and Visual Studio 2008 any version without the Team Foun
 I should note that you should not complain about the limited support for 2005. Microsoft expects the install base to be less than 5% by the time Visual Studio 2010 is released, and they were not going to support it at all. That there is any support at all is due to the lobbying of the Team System MVP community and TAP customers and excelent communication with the product teams...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [CodeProject](http://technorati.com/tags/CodeProject) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

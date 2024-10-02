@@ -1,11 +1,11 @@
 ---
 categories:
-- agility
+  - agility
 author: MrHinsh
 title: Scrum for Stakeholders Training
 aliases:
-- scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
+  - scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
 delivery:
   audience: |2+
 
@@ -40,7 +40,7 @@ delivery:
     This course was designed by Richard Hundhausen (Accentient) and Charles Bradley (ScrumCrazy). Richard and Charles are both management consultants with experience educating fortune 500 executives and managers. Richard and Charles are also Scrum.org Professional Scrum Trainers, coaches, and software developers.
   type: Azure DevOps
   brand:
-    colour: 
+    colour:
     vendor: accentient
   lead: ""
   courseIcon: A-S4S.png
@@ -53,47 +53,6 @@ card:
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This instructor-led class is intended to answer three questions commonly asked by Stakeholders: _What is Scrum? Why will Scrum be better for me? How will I work differently going forward._ Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.

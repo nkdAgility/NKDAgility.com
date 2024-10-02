@@ -2,9 +2,9 @@
 id: "9915"
 title: "A better way than staggered iterations for delivery"
 date: "2020-12-10"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "asynchronous-development"
   - "cross-functional-teams"
   - "culture"
@@ -29,7 +29,7 @@ There is a better way than staggered iterations for delivery that will keep you 
 The expected result of staggered iterations would be an increase in rework and in technical debt. If you are moving from a 4-year iterative process to a 4-month one you will see the value, but your process will be opaque and will only reduce your ability to deliver working software.
 
 > Yes, your cycle time will be reduced, but you can do so much better. Move all requirements for shipping your software into your Sprint. If you need testing then it needs to be inside of the Sprint. A general rule is that: If you need to validate something outside of the Sprint; User Acceptance, Security audit, regulatory approval; Then you need to make sure that all of the work required to pass that outside validation is doing inside of the Sprint, with no further work required from the development team.
-> 
+>
 > \-[Martin Hinshelwood](https://nkdagility.com/company/about-us/)
 
 For example, this means that if you have 6 weeks of animal trials, followed by 6 weeks of human trials to validate that your pacemaker firmware is good, you can't have those things happen inside of every 2 weeks Sprint. Instead, focus on what you can do to make those things pass. If they don't pass then do a full route-cause-analysis and bring that new information to your Sprint Retrospective and make sure you put measures in place to make sure it does not happen again.
@@ -70,5 +70,3 @@ We need to foster teams over individuals and make those teams responsible for th
 - **Quality Assurance requires no testing** – If you consider that all testing is done as part of the sprint, then the only thing that needs to be done as part of the QA gate is to review the test results and coverage and determine the sufficiency of those results and coverage. If you are taking more than four hours to QA two weeks of development then I would suggest that the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) work is not sufficient.
 
 These things will all individually help and if you are doing all of them together your value delivery and quality should start to increase over time. Make sure that you focus on automating everything from the moment a Software Engineer checks in code, to it being [continuously delivered to production](https://nkdagility.com/continuous-deliver-sprint/). In the age of agility giving you a competitive advantage in whatever marketplace you are in, any manual work is a risk.
-
-

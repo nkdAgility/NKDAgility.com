@@ -2,7 +2,7 @@
 id: "41"
 title: "Kaiden and the Arachnoid Cyst"
 date: "2010-05-26"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -18,9 +18,9 @@ Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.c
 **Figure: Kai as his usual self**
 
 - **Update Monday 14th June 2010  
-    **Moved to [Kaiden and the Arachnoid Cyst](http://kaiden.hinshelwood.com/ "http://kaiden.hinshelwood.com/") 
+   **Moved to [Kaiden and the Arachnoid Cyst](http://kaiden.hinshelwood.com/ "http://kaiden.hinshelwood.com/")
 
-* * *
+---
 
 1. [Before the Storm](http://kaiden.hinshelwood.com/2010/05/before-storm.html) (Thursday 13h May 2010)
 2. [The Scan](http://kaiden.hinshelwood.com/2010/05/scan.html) (Wednesday 26th May 2010)
@@ -37,6 +37,3 @@ Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.c
 [Read more…](http://kaiden.hinshelwood.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

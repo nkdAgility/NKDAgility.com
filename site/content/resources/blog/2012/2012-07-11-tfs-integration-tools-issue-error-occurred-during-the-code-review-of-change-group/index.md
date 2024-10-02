@@ -2,9 +2,9 @@
 id: "6117"
 title: "TFS Integration Tools – Issue: Error occurred during the code review of change group"
 date: "2012-07-11"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "kb"
   - "puzzles"
   - "tfs2012"
@@ -37,5 +37,3 @@ Once on the rerun I did get another conflict stating that the data being pushed 
 { .post-img }
 
 **Did this fix your problem?**
-
-

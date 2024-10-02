@@ -2,7 +2,7 @@
 id: "384"
 title: "NetIDme"
 date: "2007-06-15"
-tags: 
+tags:
   - "service-oriented-architecture"
   - "sharepoint"
   - "spf2010"
@@ -27,6 +27,3 @@ Hmm, the future is bright...
 You
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

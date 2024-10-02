@@ -17,27 +17,29 @@ isShort: False
 
 - Customizing Solutions: By integrating small, effective practices that suit your organization’s specific needs, you can gradually create a framework that works for you.
 - Adapting to Change: It’s not just about applying solutions but also about adapting your organization’s context to better meet the demands of the market.
-  
+
   📈 Incremental Growth: Keep moving forward, continuously adapt, and enhance your organization’s software delivery capabilities.
 
- 🎯 Key Takeaways
+🎯 Key Takeaways
 
 - Look Beyond Your Walls: If you lack the necessary skills internally, don’t hesitate to seek external expertise.
 - Tailor Solutions: Use insights from others to craft solutions that work uniquely for your organization.
 - Continuous Evolution: Keep refining your approach to stay competitive and effective in delivering software.
 
- 🕒 Chapters
+🕒 Chapters
 
 1. **00:00 - 00:09 | Facing a Problem Without a Clear Solution**
+
    - The importance of trying new things and seeking advice.
 
 2. **00:09 - 00:39 | Leveraging External Expertise**
+
    - Why sometimes looking outside your organization is the best move.
 
 3. **00:39 - 01:18 | Building a Philosophy for Growth**
    - Adapting practices to continually enhance software delivery.
 
- 📊 Key Points
+📊 Key Points
 
 - External Expertise: Don’t be afraid to seek help from those who’ve solved similar problems.
 - Unique Solutions: Every organization requires a tailored approach—what works for one may not work for another.

@@ -15,7 +15,7 @@ isShort: False
 
 Discover the gap between an average developer and a great agile developer! Learn the importance of self-investment, practice, and continuous learning. 📚💡
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin dives deep into the qualities that differentiate average developers from great agile ones. 🖥️✨ He references an insightful blog post, emphasizes the significance of self-driven learning, and sheds light on the power of practice, just as martial artists and musicians do. 🎻🥋
 
@@ -25,7 +25,7 @@ In this video, Martin dives deep into the qualities that differentiate average d
 00:01:15 Value of Training and Learning Opportunities
 00:01:55 The Difference: Average vs. Great Agile Developer
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 If you struggle to understand the nuances between average and agile developers, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can. Don't let issues undermine the effectiveness of your value delivery. Act now!
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_

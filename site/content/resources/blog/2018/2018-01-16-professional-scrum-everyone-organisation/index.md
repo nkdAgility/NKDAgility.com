@@ -2,9 +2,9 @@
 id: "38287"
 title: "Professional Scrum is for everyone in your organisation"
 date: "2018-01-16"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "agile"
   - "evidence-based-management"
   - "professioal-scrum"
@@ -71,5 +71,3 @@ One of the outcomes of the Professional Scrum Foundations, along with the new kn
 **Healthgrades now has a Backlog of things that need to change in order to facilitate meaningful change.**
 
 With these two things, agile torchbearers who feel empowered and a list of changes, I am hoping that Healthgrades can change their organisation and increase their ability to take advantage of market opportunities as they arise, and out-manoeuvre their competitors with ease. Refine backlog facilitate meaningful change.
-
-

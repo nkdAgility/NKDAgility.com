@@ -2,9 +2,9 @@
 id: "405"
 title: "Envisioning vs Provisioning"
 date: "2007-05-03"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "define"
   - "develop"
   - "fail"
@@ -32,6 +32,3 @@ In the realm of the software development industrial revolution, envisioners woul
 _What do you think and which are you?_
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-
-

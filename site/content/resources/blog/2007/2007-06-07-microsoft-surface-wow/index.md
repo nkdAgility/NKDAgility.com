@@ -2,7 +2,7 @@
 id: "387"
 title: "Microsoft Surface: Wow"
 date: "2007-06-07"
-tags: 
+tags:
   - "off-topic"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -17,6 +17,3 @@ I have been envisioning something like this for years and I am delighted that Mi
 Can't wait for winter!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

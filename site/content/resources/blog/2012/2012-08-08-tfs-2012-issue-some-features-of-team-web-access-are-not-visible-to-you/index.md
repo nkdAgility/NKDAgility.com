@@ -2,9 +2,9 @@
 id: "7094"
 title: "TFS 2012 Issue: Some features of Team Web Access are not visible to you"
 date: "2012-08-08"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs"
   - "tfs2012"
@@ -29,17 +29,17 @@ The first time you log into TFS 2012 you may see the message “Some features of
 Just because you are an administrator does not mean that you have access to all of the features. Features require licences and licences require money. All you need to administer TFS is a CAL (~$300), but some features require Premium (~$5000) or even Ultimate (~$12,000) MSDN licences so don’t expect it. There are a few features that only exist in the higher SKU’s and there are three levels:
 
 - **Limited**
-    - View My Work Items
+  - View My Work Items
 - **Standard**
-    - View My Work Items
-    - Standard Features
-    - Agile Boards
+  - View My Work Items
+  - Standard Features
+  - Agile Boards
 - **Full**
-    - View My Work Items
-    - Standard Features
-    - Agile Boards
-    - Backlog and Sprint Planning Tools
-    - Request and Manage Feedback
+  - View My Work Items
+  - Standard Features
+  - Agile Boards
+  - Backlog and Sprint Planning Tools
+  - Request and Manage Feedback
 
 Some of these are only available through the site and the site does not know what MSDN licence you have bought.
 
@@ -66,5 +66,3 @@ If you are sure that you have Premium, Ultimate or Test Professional for all of 
 If you are going to do this you need to make sure that you have licences, but it will make an administrators life a little easier!
 
 **Did this fix your problem?**
-
-

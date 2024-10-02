@@ -2,7 +2,7 @@
 id: "168"
 title: "Team Suite on the cheap"
 date: "2008-11-18"
-tags: 
+tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
@@ -24,6 +24,3 @@ Ok, so I lied a little. It is not that cheap, but 30% off an upgrade from a team
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-
-

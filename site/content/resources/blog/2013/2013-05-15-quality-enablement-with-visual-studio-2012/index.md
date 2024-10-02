@@ -2,9 +2,9 @@
 id: "9487"
 title: "Quality enablement with Visual Studio 2012"
 date: "2013-05-15"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "continious"
   - "develop"
   - "improve"
@@ -56,7 +56,7 @@ In the last 5 years the consumers of our technology have been asking more of us.
 
 In order to be successful at delivering value to the business we know that we need to deliver more frequently. This allows for the business to apply corrective action as needed without interfering in the delivery process.
 
- ![Continuous value delivery with modern business applications](images/image33-3-3.png "Continuous value delivery with modern business applications")  
+![Continuous value delivery with modern business applications](images/image33-3-3.png "Continuous value delivery with modern business applications")  
 { .post-img }
 **Figure: Continuous value delivery with modern business applications**
 
@@ -158,7 +158,7 @@ Well, it is much easier to get to the root of what the business requires when yo
 
 With the short delivery cycle with smaller changes that your consumer is able to assimilate frequently you are able to get your efforts, the things that you are building, into the hands of your consumers much more quickly. This the results in much higher satisfaction from all of you consumers and stakeholders as they can not only see what you are doing, but give you suggestions and feedback that you can quickly iterate on.
 
-The resulting reduction of cost is directly attributed to the increased quality in your software. Not only do you more closely meet the needs, so less rework, but you also have fewer defects in production so less of those expensive maintenance costs. 
+The resulting reduction of cost is directly attributed to the increased quality in your software. Not only do you more closely meet the needs, so less rework, but you also have fewer defects in production so less of those expensive maintenance costs.
 
 ![Measure for Quality Enablement](images/image42-12-12.png "Measure for Quality Enablement")  
 { .post-img }
@@ -200,7 +200,7 @@ Where might we find one of those \[looks confused and rub chin\]….
 
 ### The Microsoft Solution
 
-For the last seven years Microsoft has been working on a system that embodies that quality enablement. 
+For the last seven years Microsoft has been working on a system that embodies that quality enablement.
 
 ![The Microsoft solution for Quality Enablement](images/image46-16-16.png "The Microsoft solution for Quality Enablement")  
 { .post-img }
@@ -217,5 +217,3 @@ For each hat that your users may wear that equates to roles there are separate t
 With these continuous quality practices, coupled with tools that are tailored for each role we are able to more easily and effectively achieve continuous value delivery at least every 30 days.
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/quality-enablement-with-microsoft-visual-studio-2012/))_
-
-

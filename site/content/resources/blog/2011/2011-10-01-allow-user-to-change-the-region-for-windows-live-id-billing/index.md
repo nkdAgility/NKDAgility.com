@@ -2,9 +2,9 @@
 id: "3830"
 title: "Allow user to change the region for Windows Live ID billing"
 date: "2011-10-01"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "win8"
   - "wp7"
@@ -19,15 +19,15 @@ slug: "allow-user-to-change-the-region-for-windows-live-id-billing"
 { .post-img }
 
 - **Update 2013-01-16 - Microsoft opens international barriers to Xbox Live account migration.**  
-    "Microsoft's throwing open the doors on Xbox Live account migration worldwide for its Xbox 360 consoles, today announcing that XBL accounts are now transferable from region-to-region. That includes everything in your Gold level account"  
-    \-[Engadget](http://www.engadget.com/2013/01/16/xbox-live-region-locking-unlocked/)
+   "Microsoft's throwing open the doors on Xbox Live account migration worldwide for its Xbox 360 consoles, today announcing that XBL accounts are now transferable from region-to-region. That includes everything in your Gold level account"  
+   \-[Engadget](http://www.engadget.com/2013/01/16/xbox-live-region-locking-unlocked/)
 - **Update 2012-10-14 - Microsoft has experimental region changing capability.**  
-    "At Microsoft, we understand our customers move from one country to another and we continue to evaluate region migration solutions to help Xbox LIVE members access content from their current country location. We have been piloting an account migration process, but it can take several weeks and some content is confined by location due to licensing restrictions and cannot be transferred. We strongly encourage members who do not have an immediate need for account migration to hold tight while we continue to work on an automated tool, or create a new account in the new country location.  
-    \-Microsoft Support"
+   "At Microsoft, we understand our customers move from one country to another and we continue to evaluate region migration solutions to help Xbox LIVE members access content from their current country location. We have been piloting an account migration process, but it can take several weeks and some content is confined by location due to licensing restrictions and cannot be transferred. We strongly encourage members who do not have an immediate need for account migration to hold tight while we continue to work on an automated tool, or create a new account in the new country location.  
+   \-Microsoft Support"
 - **Update 2012-10-11** **- Looks like there might be a huge and profound breakthrough on this topic. Check out [Migrating account Chile to Usa](http://forums.xbox.com/xbox_forums/xbox_support/f/9/p/353657/1834363.aspx#1834363)**
 - **Update 2012-01-06** - One of the folks from the product team looked me up at the last bash and they are aware of the issue as it would relate to TFS Service. To that end they will not be using Live billing.
 
-* * *
+---
 
 This would not be so bad if it was not for the plethora of services that have recently started using Live ID and I brought this issue up at the last MVP summit. My primary live id will always be the one I have had for ~10 years, but I now have to have another live id for every country I end up living in.
 
@@ -77,7 +77,7 @@ Here is the small list that affects me:
 - **MSDN Subscriptions**
 - **Azure Services** – Online services, Servers, etc..
 - **TFS Azure** – Source Control, Work Item Tracking … etc.  
-    _**NOTE:** One of the folks from the product team looked me up at the last bash and they are aware of the issue as it would relate to TFS Service. To that end they will not be using Live billing._
+   _**NOTE:** One of the folks from the product team looked me up at the last bash and they are aware of the issue as it would relate to TFS Service. To that end they will not be using Live billing._
 - **Windows 8 Login** – Settings, Wallpapers and Tight integration on all levels
 
 With Xbox, Windows Phone and Windows 8 all using your Live ID for login into the system the problem hits ALL of Microsoft's services.
@@ -113,5 +113,3 @@ The only way to even attempt to fix this is to make sure that Microsoft realises
 - **User Voice (Windows Phone):** [**Allow changing your windows id location**](http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no "http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no")
 
 While your vote here, or rants on your own blog may not help, it is the best we can do….
-
-

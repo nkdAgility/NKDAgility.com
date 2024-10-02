@@ -2,10 +2,10 @@
 id: "9359"
 title: "Reserve an Agent for a special build in Team Foundation Server 2012"
 date: "2013-04-04"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agent-scope"
   - "build-agent"
   - "code"
@@ -39,13 +39,13 @@ There are a number of reasons that you might want to reserve your TF Build Agent
 The current solution is to revert the build server to a snapshot after every build. This causes a bunch of knock on problems:
 
 1. **Revert to Snapshot**  
-    We need to revert the VM Ware server to a Snapshot after every build
+   We need to revert the VM Ware server to a Snapshot after every build
 2. **Removed from Domain**  
-    As the snapshot can be more than 30 days old the Active Directory machine security token may have expired in which case you would need to re-join that server to the domain. The result of this is that the Infrastructure teams will not have these build servers on the domain. And rightly do…
+   As the snapshot can be more than 30 days old the Active Directory machine security token may have expired in which case you would need to re-join that server to the domain. The result of this is that the Infrastructure teams will not have these build servers on the domain. And rightly do…
 3. **Shadow accounts need to be used**  
-    As our computers are now in a workgroup we need to setup and maintain Shadow accounts for access.
+   As our computers are now in a workgroup we need to setup and maintain Shadow accounts for access.
 4. **You can only use one AppTier**  
-    As we need to maintain shadow accounts and thee needs to be one on each AppTier we end up with either AppTier1MyAccount or AppTier2MyAccount. So on the build server we get a conflict of Workgroup as these two accounts vie for workspace mappings.
+   As we need to maintain shadow accounts and thee needs to be one on each AppTier we end up with either AppTier1MyAccount or AppTier2MyAccount. So on the build server we get a conflict of Workgroup as these two accounts vie for workspace mappings.
 
 So what can we do to alleviate this. One idea, the one that we re going to try,  is to take the snapshot at the beginning of the build and revert at the end. That way the Snapshot we are reverting to is only a few hors old at worst and our Build computers can continue to be services normally. Unfortunately we only know the agent… on the agent..
 
@@ -55,7 +55,7 @@ The way to solve this is to either rewrite the AgentScope Activity (not going to
 2. Execute some action against the Agent
 3. DONE Run on Reserved Agent
 4. Execute some action against the Agent
-5. DONE Reset the Reservation 
+5. DONE Reset the Reservation
 
 While this does complicate the build process it does indeed looks to be the best bet in this circumstance.
 
@@ -295,5 +295,3 @@ This process while requiring the customisation of your build process can allow y
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.
-
-

@@ -27,7 +27,7 @@ Agility: Enable faster, more informed decision-making and adaptation.
 (00:43:17 - 00:52:17): How Kanban empowers your team:
 Increased Ability to Change: Adapt quickly to new challenges and requirements.
 Shared Agreement: Build consensus on how to improve your workflow.
-Don't let unpredictable processes derail your software development projects. 
+Don't let unpredictable processes derail your software development projects.
 
 Embrace Kanban and unlock a new level of clarity, control, and continuous improvement. Watch this video to learn how to harness the power of Kanban for your software engineering team.
 

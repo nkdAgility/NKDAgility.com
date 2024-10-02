@@ -2,9 +2,9 @@
 id: "189"
 title: "Team System MVP"
 date: "2008-10-01"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "awards"
   - "tfs"
 coverImage: "metro-award-link-1-1.png"
@@ -23,6 +23,3 @@ I should really thank Tiago Pascoal as I have a sneaky suspicion that he was the
 This Award needs to be renewed yearly, so there is much work to do…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [TFS](http://technorati.com/tags/TFS)
-
-
-

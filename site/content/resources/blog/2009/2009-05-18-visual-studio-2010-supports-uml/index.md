@@ -2,9 +2,9 @@
 id: "116"
 title: "Visual Studio 2010 Supports UML"
 date: "2009-05-18"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tools"
   - "visual-studio"
@@ -24,6 +24,3 @@ slug: "visual-studio-2010-supports-uml"
 As I have not used UML since university so I do not know if this feature will meet the needs of those that use UML extensively, but I would expect that a lot of time and investment has gone into this area, and if it is lacking in some minor but crucial feature, there is still time to get some changes made…maybe...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [Design](http://technorati.com/tags/Design) [VS 2010](http://technorati.com/tags/VS+2010)
-
-
-

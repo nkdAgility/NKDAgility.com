@@ -2,7 +2,7 @@
 id: "376"
 title: "Solution to sub sites in Sharepoint 3.0 with Team Foundation Server"
 date: "2007-06-20"
-tags: 
+tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -51,6 +51,3 @@ This works for us for a number of reasons; firstly only two users have permissio
 Works for us: Would it work for you?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
-
-
-

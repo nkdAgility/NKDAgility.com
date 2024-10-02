@@ -2,7 +2,7 @@
 id: "64"
 title: "When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010"
 date: "2010-03-09"
-tags: 
+tags:
   - "codeproject"
   - "one-team-project-seriese"
   - "ssw"
@@ -56,7 +56,7 @@ I ran into the problem of not being able to find a build called “Build” and 
 
 [Ed Blankenship](http://www.edsquared.com) via [@edblankenship](http://twitter.com/edblankenship/status/10221184645) offered encouragement and a nice quote.
 
-* * *
+---
 
 What if you are likely to have hundreds of projects, possibly with a multitude of internal and external projects? You might have 1 project for a customer or 10. This is the situation that most consultancies find themselves in and thus they need a more sustainable and maintainable option. What I am advocating is that we should have 1 “Team Project” per customer, and use areas to create “sub projects” within that single “Team Project”.
 
@@ -77,7 +77,7 @@ This post has an ulterior motive as I am having this debate with my boss, Adam C
 > _"In general, I believe this approach provides consistency \[to multi-product engagements\] and lowers the administration and maintenance costs. All good."  
 > _\- [**Michael Fourie**](http://www.freetodev.com/), Visual Studio ALM MVP
 
-> “_@__MrHinsh_ _BTW, I'm very much a fan of very large, if not huge, team projects in TFS. Just FYI :) Use Areas & Iterations.”_  
+> “_@\_\_MrHinsh_ _BTW, I'm very much a fan of very large, if not huge, team projects in TFS. Just FYI :) Use Areas & Iterations.”_  
 > [**Ed Blankenship**](http://www.edsquared.com), Visual Studio ALM MVP
 
 I am proposing that SSW change from over 70 internal team projects:
@@ -90,10 +90,10 @@ I am proposing that SSW change from over 70 internal team projects:
 To 1 internal team project:
 
 - SSW.Agile5
-    - CodeAuditor
-    - SQLAuditor
-    - SQLDeploy
-    - etc
+  - CodeAuditor
+  - SQLAuditor
+  - SQLDeploy
+  - etc
 
 Note: The single Team Project called “SSW.Agile5” would contain all of our internal projects and consequently all of the Areas and Iteration move down one hierarchy to accommodate this. Where we would have had “SSWSprint 1” we now have “SSWSqlDeploySprint1” with “SqlDeploy” being our internal project. At the moment SSW has over 70 internal projects and more than 170 total projects in TFS.
 
@@ -127,11 +127,11 @@ All of these cons could be mitigated by a custom tool that helps automate creati
 - **You need to configure the Areas and Iterations** – This is just like you would do for Sprints/Iterations and for functional areas of your application, but with 1 extra level at the top of the tree.
 - **You need to configure the permissions** – This I guess is the main configuration point. It is possible to create the same permissions as a Team Project at this level, but that would be a bit of configuration work.
 - **You may need to configure sub sites for SharePoint** (depends on your requirement) – If you have two projects/products in the same Team Project then you will not see the burn down for each one out-of-the-box, but rather a cumulative for the Team Project. This is not really that much of a problem as you would have to configure your burndown graphs for your current iteration anyway.  
-    _note: When you create a sub site to a TFS linked portal it will inherit the settings of its parent site :) This is fantastic as it means that you can easily create sub sites and then set the Area and Iteration path in each of the reports to be the correct one._
+   _note: When you create a sub site to a TFS linked portal it will inherit the settings of its parent site :) This is fantastic as it means that you can easily create sub sites and then set the Area and Iteration path in each of the reports to be the correct one._
 - **Every team wants their own customization** (via [Ewald Hofman](http://www.ewaldhofman.nl/)) - small teams of 2 persons against teams of 30 – or even outsourcing – need their own process, you cannot allow that because everybody gets the same work item types.  
-    _note: Luckily at SSW this is not a problem as our template is standardised across all projects and customers._
+   _note: Luckily at SSW this is not a problem as our template is standardised across all projects and customers._
 - **Large list of builds** (via [Ewald Hofman](http://www.ewaldhofman.nl/)) – As the build list in Team Explorer is just a flat list it can get very cluttered.  
-    _note: I would mitigate this by removing any build that has not been run in over 30 days. The build template and workflow will still be available in version control, but it will clean the list._
+   _note: I would mitigate this by removing any build that has not been run in over 30 days. The build template and workflow will still be available in version control, but it will clean the list._
 
 ### Implications around Areas
 
@@ -189,7 +189,7 @@ I then created an “Areas” folder to hold all of the area specific queries. S
 
 What about your source code? Well, that is the easiest of the lot. Just create a sub folder for each of your projects/products.
 
- ![image](images/e81a0b914d47_8DFC-image_-6-6.png)  
+![image](images/e81a0b914d47_8DFC-image_-6-6.png)  
 { .post-img }
 **Figure: Creating sub folders in source control is easy as “Right click | Create new folder”.**
 
@@ -215,7 +215,3 @@ Now that I have explained this method, what do you think?
 - **What tools would you like to support you?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [TFBS](http://technorati.com/tags/TFBS) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT) [CodeProject](http://technorati.com/tags/CodeProject) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-
-

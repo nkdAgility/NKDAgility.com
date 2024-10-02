@@ -2,9 +2,9 @@
 id: "291"
 title: "VS2008 Update"
 date: "2007-11-20"
-categories: 
+categories:
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "moss2007"
@@ -31,6 +31,3 @@ This afternoon I will be attending a Microsoft event in Edinburgh "[MSDN: ShareP
 A busy couple of days...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

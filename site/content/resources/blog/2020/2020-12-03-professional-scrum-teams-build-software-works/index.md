@@ -2,9 +2,9 @@
 id: "22774"
 title: "Professional Scrum teams build software that works"
 date: "2020-12-03"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "agile"
   - "increment"
   - "leadership-track"
@@ -46,7 +46,7 @@ Working software is software that is free from fault or defect, but it does not 
 It is just not possible for everyone's expectations to be understood let alone met, and thus it is unrealistic to expect the [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) to deliver on them. At the end of every [Sprint](/the-2020-scrum-guide/#the-sprint) we have a [Sprint Review](/the-2020-scrum-guide/#sprint-review) where we invite stakeholders, and the [Scrum Team](/the-2020-scrum-guide/#scrum-team), to pause and reflect on the [Product Backlog](/the-2020-scrum-guide/#product-backlog) based on that which was delivered. There you can explore the difference between expectation and delivery and then update the [Product Backlog](/the-2020-scrum-guide/#product-backlog) to reflect that difference. The [Scrum Team](https://nkdagility.com/the-2020-scrum-guide/#scrum-team) should continuously be investigating the difference between what they delivered and stakeholders expectations so that they can close that gap as much as possible, so while they are responsible for meeting expectations, they can't be held accountable.
 
 > The Development Team consists of professional [Developers](https://nkdagility.com/training/audiences/developers/) that are the people in the [Scrum Team](https://nkdagility.com/training/audiences/teams/) that are committed to creating any aspect of a usable Increment each Sprint. The specific skills needed by the [Developers](https://nkdagility.com/training/audiences/developers/) are often broad and will vary with the domain of work.
-> 
+>
 > \-[The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#developers)
 
 [The Scrum Guide](/the-2020-scrum-guide/) very deliberately does not tell you how to build working software. It only states that its delivery is the accountability and accountability, and responsibility of the [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/training/audiences/developers/) If you don't have working software, then you are not yet doing Scrum, although you might be working towards it.
@@ -70,5 +70,3 @@ If the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) are
 Every organisation needs to focus on delivering quality working software that is of use to its customers. The entire [Scrum Team](/the-2020-scrum-guide/#scrum-team) is accountable and then works together over many iterations, experimenting and continuously improving, to deliver the best possible outcome in the circumstances. So instead of being an amateur team, be a team of Professionals that deliver working software because that is what your organisation and your customers deserve. If you are having a hard time delivering then discuss your options anytime, but especially at your Sprint Retrospective, and figure out what actionable improvement you can make that will help you pay back some of your technical debt and move forward. Once such step could be making sure that your [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/training/audiences/developers/) at least understand this with a [Professional Scrum Developer](https://nkdagility.com/training/courses/professional-scrum-developer-training/) course.
 
 Use empiricism to Inspect and Adapt with Scrum.
-
-

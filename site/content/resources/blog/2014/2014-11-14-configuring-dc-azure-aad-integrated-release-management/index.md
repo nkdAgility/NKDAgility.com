@@ -2,9 +2,9 @@
 id: "10865"
 title: "Configuring a DC in Azure for AAD integrated Release Management"
 date: "2014-11-14"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "active-directory"
   - "azure"
   - "azure-active-directory"
@@ -145,7 +145,7 @@ Install-ADDSForest `
 -Force:$true
 ```
 
- ![clip_image018](images/clip-image018-18-18.png "clip_image018")
+![clip_image018](images/clip-image018-18-18.png "clip_image018")
 { .post-img }
 
 Check the configuration, ignore the warnings and away we go… I do however miss the "this will take some time… or considerably longer" message the old AD installation had, however it was pretty quick…
@@ -166,5 +166,3 @@ Now that you have completed the install you can drop the server down to the A0 m
 { .post-img }
 
 We effectively drop down to 11p per day for the server. I am sure that if we started hitting it with loads of domain joined machines then I expect the price to go up, however this minimalist cost can be easily supported with your MSDN benefits…
-
-

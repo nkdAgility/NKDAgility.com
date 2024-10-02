@@ -11,7 +11,7 @@ isShort: True
 
 {{< youtube xaIDtZcoVXE >}}
 
-#  shorts 5 reasons why you need EBM in your environment. Part 5
+# shorts 5 reasons why you need EBM in your environment. Part 5
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your environment. Part 5.
 

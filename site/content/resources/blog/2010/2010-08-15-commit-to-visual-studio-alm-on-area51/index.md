@@ -2,10 +2,10 @@
 id: "31"
 title: "Commit to Visual Studio ALM on Area51"
 date: "2010-08-15"
-categories: 
+categories:
   - "me"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "define"
   - "develop"
@@ -31,10 +31,10 @@ slug: "commit-to-visual-studio-alm-on-area51"
 A few weeks ago I proposed a new community for StackExchange and it has been growing at an exponential rate. We are about half way there, but we need **your** help to make this community a success.
 
 - Update 16th August 2010 – The Proposal has now moved from Proposed to the Committed stage and we need your commitment.  
-    [http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5\_bjYysH8mQCaDCxQ2](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
-    
+   [http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
 
-* * *
+
+---
 
 ### Monday 16th August 2010 – Commit to Visual Studio ALM on Area51
 
@@ -48,13 +48,13 @@ Thanks everyone for your efforts and excellent questions. Although we suffered a
 We are now in the Commitment stage and need a score of 2000 user points (which gets us to 100%) to proceed to the Beta. This is apparently calculated based on a user’s reputation:
 
 > _To get a feel for it:_
-> 
+>
 > - _A user with no reputation gets a score of 1_
 > - _A user with 200 reputation on 1 site gets a score of 1.7_
 > - _A user with 200 reputation on 3 sites gets a score of 3.1_
 > - _A user with 10000 reputation on 1 site gets a score of 7.2_
 > - _A user with 10000 reputation on 3 sites gets a score of 19.6 (these are extremely rare)  
->     __Source [http://meta.stackoverflow.com/questions/53650/area-51-commit-percent](http://meta.stackoverflow.com/questions/53650/area-51-commit-percent)_
+>    \_\_Source [http://meta.stackoverflow.com/questions/53650/area-51-commit-percent](http://meta.stackoverflow.com/questions/53650/area-51-commit-percent)_
 
 So if you are interested in Visual Studio ALM or any of its features, be sure to Commit and send this to anyone you know who might be interested.
 
@@ -92,6 +92,3 @@ We now have question overload and need to concentrate on getting those top 5 On 
 
 [Visual Studio ALM StackExchange Proposal](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
 You have 5 on-topic and 5 off-topic votes to cast.
-
-
-

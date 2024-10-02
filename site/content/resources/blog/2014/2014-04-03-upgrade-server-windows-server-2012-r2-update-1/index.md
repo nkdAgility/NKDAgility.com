@@ -2,10 +2,10 @@
 id: "10472"
 title: "Upgrade your server to Windows Server 2012 R2 Update 1"
 date: "2014-04-03"
-categories: 
+categories:
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "windows"
   - "windows-8-1"
   - "windows-server"
@@ -19,7 +19,7 @@ With the release of Windows Server 2012 R2 Update 2 I wanted to make sure that a
 
 The new update became available yesterday for MSDN subscribers and will be generally available next Tuesday (8th April 2014). I have already completed these updates on my Surface 2 Pro and Surface 2, both of which were running Windows 8.1. Today I want to concentrate on getting all of my demo boxes up to snuff as I have some demos & presentations next week.
 
-Updating these boxes should be trivial, and you know that I like to make sure that I have documentation so here we go. If you download the update from MSDN you get a zip archive called "mu\_windows\_8.1\_windows\_server\_2012r2\_windows\_embedded\_8.1industry\_update\_x64\_4046913" that contains 6 Updates that can be used on Windows Server as well as Windows. There is a separate update for Windows ARM based architectures. It is recommended to install them in the following order:
+Updating these boxes should be trivial, and you know that I like to make sure that I have documentation so here we go. If you download the update from MSDN you get a zip archive called "mu_windows_8.1_windows_server_2012r2_windows_embedded_8.1industry_update_x64_4046913" that contains 6 Updates that can be used on Windows Server as well as Windows. There is a separate update for Windows ARM based architectures. It is recommended to install them in the following order:
 
 1. KB2919442
 2. KB2919355
@@ -59,5 +59,3 @@ After you have completed all of the updates restart your server and wait for a w
 Figure: Windows Server 2012 R2 Update 1
 
 Not only did all of the updates install with no issues, all of the machines came back up and all services (those I changes anyway) are functional. Now that I have my Domain Controller and Team Foundation Server upgraded to Windows Server 2012 R2 Update 1 I can continue to updating TFS to Visual Studio Team Foundation Server 2013 Update 2 which was also released yesterday.
-
-

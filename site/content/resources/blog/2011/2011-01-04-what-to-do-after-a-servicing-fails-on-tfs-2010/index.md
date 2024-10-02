@@ -2,7 +2,7 @@
 id: "20"
 title: "What to do after a servicing fails on TFS 2010"
 date: "2011-01-04"
-tags: 
+tags:
   - "nwcadence"
   - "tf254078"
   - "tfs"
@@ -18,9 +18,7 @@ slug: "what-to-do-after-a-servicing-fails-on-tfs-2010"
 
 A customer of mine encountered that very problem, but they could not just, or at least not easily, go back a version.
 
-  
-
-* * *
+---
 
 You see, around the time of the TFS 2010 launch this company decided to upgrade their entire 250+ development team from TFS 2008 to TFS 2010. They encountered a few problems, owing mainly to the size of their TFS deployment, and the way they were using TFS. They were not doing anything wrong, but when you have the largest deployment of TFS outside of Microsoft you tend to run into problems that most people will never encounter. We are talking half a terabyte of source control in TFS with over 80 proxy servers. Its certainly the largest deployment I have ever heard of.
 
@@ -48,7 +46,7 @@ This was a dire situation as 20+ hours to repeat would leave the customer over t
 
 We tried everything, and then we stumbled upon the command of last resort.
 
-> _TFSConfig Recover /ConfigurationDB:SQLServerInstanceName;TFS\_ConfigurationDBName /CollectionDB:SQLServerinstanceName;"Collection Name"  
+> _TFSConfig Recover /ConfigurationDB:SQLServerInstanceName;TFS_ConfigurationDBName /CollectionDB:SQLServerinstanceName;"Collection Name"  
 > \-[http://msdn.microsoft.com/en-us/library/ff407077.aspx](http://msdn.microsoft.com/en-us/library/ff407077.aspx)  
 > _
 
@@ -91,7 +89,6 @@ The Schema version above represents the final end of run version for that hotfix
 
 The problem was that the version was somewhere between 341 and 344. This is not a nice place to be in and the engineer give us the  only way forward as the removal of the servicing number from the database so that the re-attach process would apply the latest schema. if his sounds a little like the “tfsconfig recover” command then you are exactly right.
 
-  
 [![image](images/7e1d3e9df51b_12C53-image_thumb_5-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-image_12.png)  
 { .post-img }
 **Figure: Sneakily changing that 3 to a 1 should do the trick**
@@ -108,11 +105,9 @@ Now that we have done that we should be able to safely reattach and enable the T
 
 You may think that this is the end of the story, but it is not. After a while of mulling and seeking expert advice we came to the opinion that the database was, for want of a better term, “hosed”.
 
-There could well be orphaned data in there and the likelihood that we would have problems later down the line is pretty high. We contacted the customer back and made them aware that in all likelihood the repaired database was more like a “[cut and shut](http://en.wikipedia.org/wiki/Lemon_(automobile))” than anything else, and at the first sign of trouble later down the line was likely to split in two.
+There could well be orphaned data in there and the likelihood that we would have problems later down the line is pretty high. We contacted the customer back and made them aware that in all likelihood the repaired database was more like a “[cut and shut](<http://en.wikipedia.org/wiki/Lemon_(automobile)>)” than anything else, and at the first sign of trouble later down the line was likely to split in two.
 
 So with 40+ hours invested in getting this new database ready the customer threw it away and started again.
 
 - What would you do?
 - Would you take the “cut and shut” to production and hope for the best?
-
-

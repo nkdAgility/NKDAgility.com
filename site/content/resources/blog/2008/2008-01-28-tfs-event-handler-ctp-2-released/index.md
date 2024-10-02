@@ -2,9 +2,9 @@
 id: "260"
 title: "TFS Event Handler CTP 2 Released"
 date: "2008-01-28"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "service-oriented-architecture"
@@ -36,6 +36,3 @@ Now I have the engine relatively stable I want to concentrate on building some E
 You can report [issues](http://www.codeplex.com/TFSEventHandler/WorkItem/List.aspx) and enter into [discussions](http://www.codeplex.com/TFSEventHandler/Thread/List.aspx) on the [CodePlex](http://www.codeplex.com "CodePlex") site for the project.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-
-
-

@@ -2,7 +2,7 @@
 id: "3469"
 title: "TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events"
 date: "2007-09-07"
-tags: 
+tags:
   - "tfs"
   - "tfs2005"
   - "tfs-event-handler"
@@ -32,14 +32,14 @@ The first thing that you need is the Contract for Team Foundation Server event h
 > Imports System.ServiceModel
 > Imports System.Runtime.Serialization
 > Imports Microsoft.TeamFoundation.Server
-> 
+>
 >     ''' <summary>
 >     ''' This is the service contract for integrating with the Team Foundation Server notification events.
 >     ''' </summary>
 >     ''' <remarks></remarks>
 >     <ServiceContract(Namespace:="http://schemas.microsoft.com/TeamFoundation/2005/06/Services/Notification/03")> _
 >     Public Interface INotification
-> 
+>
 >         ''' <summary>
 >         ''' The Notify method if fired whenever a subscribed event arrives.
 >         ''' </summary>
@@ -55,7 +55,7 @@ The first thing that you need is the Contract for Team Foundation Server event h
 >                         Style:=OperationFormatStyle.Document _
 >                         )> _
 >         Sub Notify(ByVal eventXml As String, ByVal tfsIdentityXml As String, ByVal SubscriptionInfo As SubscriptionInfo)
-> 
+>
 >     End Interface
 > ```
 
@@ -77,16 +77,16 @@ Once you have your INotification class looking like the code extract above we wi
 
 > ```
 > Imports Microsoft.TeamFoundation.Server
-> 
+>
 > Public Class Notification
 >     Implements INotification
-> 
+>
 >     Public Sub Notify(ByVal eventXml As String, ByVal tfsIdentityXml As String, ByVal SubscriptionInfo As SubscriptionInfo) Implements INotification.Notify
-> 
+>
 >     End Sub
-> 
+>
 > End Class
-> 
+>
 > ```
 
 [](http://11011.net/software/vspaste)
@@ -119,7 +119,7 @@ This is the really important part of getting the service working, and goes betwe
 >     <endpoint address="mex" binding="mexHttpBinding" contract="IMetadataExchange"/>
 > </service>
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 In a service hosted within IIS there is no need to set a base address as the location of the .svc file sets this for us. In this case it is [http://localhost:\[port\]/v1.0/Notification.svc](http://localhost:[port]/v1.0/Notification.svc). The "mex" endpoint allows other application to discover the capabilities of the service.
@@ -186,7 +186,7 @@ Using the untility you will subscribe to events using SOAP, or if you call:
 > ```
 > SubscribeEvent(tfsServer, "TFSEventHandler", "http://localhost:65469/v1.0/Notification.svc/WorkItemChangedEvent", DeliveryType.Soap, Schedule.Imediate, EventType.WorkItemChangedEvent)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 Using a API helper class similar to the one below:
@@ -197,7 +197,7 @@ Using a API helper class similar to the one below:
 >     ''' </summary>
 >     ''' <remarks></remarks>
 >     Public Class SubscriptionHelper
-> 
+>
 >         Public Shared Function SubscribeEvent(ByRef tfs As TeamFoundationServer, ByVal userName As String, ByVal deliveryAddress As String, ByVal Type As Microsoft.TeamFoundation.Server.DeliveryType, ByVal Schedule As Microsoft.TeamFoundation.Server.DeliverySchedule, ByVal EventType As EventTypes, Optional ByVal Filter As String = "") As Integer
 >             Dim eventService As IEventService = CType(tfs.GetService(GetType(IEventService)), IEventService)
 >             Dim delivery As DeliveryPreference = New DeliveryPreference()
@@ -206,12 +206,12 @@ Using a API helper class similar to the one below:
 >             delivery.Address = deliveryAddress
 >             Return eventService.SubscribeEvent(userName, EventType.ToString, Filter, delivery)
 >         End Function
-> 
+>
 >         Public Shared Sub UnSubscribeEvent(ByRef tfs As TeamFoundationServer, ByVal subscriptionId As Integer)
 >             Dim eventService As IEventService = CType(tfs.GetService(GetType(IEventService)), IEventService)
 >             eventService.UnsubscribeEvent(subscriptionId)
 >         End Sub
-> 
+>
 >     End Class
 > ```
 
@@ -225,7 +225,7 @@ We now want to determine what sort of event has been raised in the Service imple
 > Dim EndieBit As String = UriString.Substring(SlashIndex, (UriString.Length - (UriString.Length - SlashIndex)))
 > Dim EventType As EventTypes = CType([Enum].Parse(GetType(EventTypes), EndieBit), EventTypes)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 As you can see it is just a case of parsing the URL to get the last bit after the final "/" and then converting it to an enumerator.
@@ -254,13 +254,9 @@ As you can see it is just a case of parsing the URL to get the last bit after th
 > Dim IdentityObject As TFSIdentity = EndpointBase.CreateInstance(Of TFSIdentity)(tfsIdentityXml)
 > Dim EventObject As WorkItemChangedEvent = EndpointBase.CreateInstance(Of WorkItemChangedEvent)(eventXml)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 All of the objects are now ready to pass over MSMQ to the TFS Event Processor, which will be the subject of the next article in this series...
 
 Technorati Tags: [Visual Studio Team System](http://technorati.com/tags/Visual%20Studio%20Team%20System), [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008), [Team Edition for Architects](http://technorati.com/tags/Team%20Edition%20for%20Architects), [TFSEventHandler](http://technorati.com/tags/TFSEventHandler), [Microsoft .NET Framework](http://technorati.com/tags/Microsoft%20.NET%20Framework), [Software Industrial Revolution](http://technorati.com/tags/Software%20Industrial%20Revolution), [WCF](http://technorati.com/tags/WCF), [TFS Event Handler](http://technorati.com/tags/TFS%20Event%20Handler)
-
-
-
-

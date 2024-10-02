@@ -2,9 +2,9 @@
 id: "9703"
 title: "Engaging with complexity - Team Foundation Server Edition"
 date: "2013-07-01"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "infrastructure"
   - "operational"
   - "tfs"
@@ -71,18 +71,18 @@ We sent over instruction for [Manually Back Up Team Foundation Server](http://ms
 
 - [Northwest Cadence cheat sheet for marked transaction logs from Dan Wood](http://blog.nwcadence.com/manually-backing-up-tfs-2012-with-sql-server/)
 
-TFS s a system is made up of multiple interdependent databases ad we need to keep them in sync. If we do a point in time backup we may inadvertently have a complete transaction in one database that is only partially complete (thus would be rolled back) in another; thus we would suffer from a data inconsistency and likely unfortunate consequences for the new TFS instance. However if you CAN take TFS offline to did the backup you do not need to use marked transaction logs, but the downside is no one can access TFS while you are taking the backup. In this case the backup takes around 8 hours to complete and we have users in USA, UK & China so downtime will affect someone somewhere. Marked transactions make the most sense. 
+TFS s a system is made up of multiple interdependent databases ad we need to keep them in sync. If we do a point in time backup we may inadvertently have a complete transaction in one database that is only partially complete (thus would be rolled back) in another; thus we would suffer from a data inconsistency and likely unfortunate consequences for the new TFS instance. However if you CAN take TFS offline to did the backup you do not need to use marked transaction logs, but the downside is no one can access TFS while you are taking the backup. In this case the backup takes around 8 hours to complete and we have users in USA, UK & China so downtime will affect someone somewhere. Marked transactions make the most sense.
 
 Once the backup is complete we would expect to see the following files in the output folder:
 
-- Tfs\_Configuration\*.bak
-- Tfs\_Configuration\*. trn
-- Tfs\_Collection1\*.bak
-- Tfs\_Collection1\*. trn
-- Tfs\_Collection2\*.bak
-- Tfs\_Collection2 \*. trn
-- Tfs\_Warehouse\*.bak
-- Tfs\_Warehouse\*. trn
+- Tfs_Configuration\*.bak
+- Tfs_Configuration\*. trn
+- Tfs_Collection1\*.bak
+- Tfs_Collection1\*. trn
+- Tfs_Collection2\*.bak
+- Tfs_Collection2 \*. trn
+- Tfs_Warehouse\*.bak
+- Tfs_Warehouse\*. trn
 - ReportServerKey\*.snk
 - ReportServer\*.bak
 - ReportServer\*.trn
@@ -99,7 +99,7 @@ However make sure that when you are practicing the process that you change the s
 
 You may have noticed that I have TFS 2013 in the checklist below. We moved to Team Foundation Server 2013 preview ostensibly to fix a couple of issues we were experiencing that have been fixed post 2012 Qu3 (2012.3) and with  Team Foundation Server 2013 having a go-live licence (fully supported in production) we had no issues with this move.
 
--  [Get Visual Studio 2013 Team Foundation Server while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/ "Get Visual Studio 2013 Team Foundation Server while its hot!")
+- [Get Visual Studio 2013 Team Foundation Server while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/ "Get Visual Studio 2013 Team Foundation Server while its hot!")
 
 After we have completed this process a bunch of pre-prepared scripts get run against the servers to strip out all of the source of CompanyA that should not be made available to CompanyB… we are still in the CompanyA domain and after we have completed the checklist below we move onto the next stage…
 
@@ -107,8 +107,8 @@ After we have completed this process a bunch of pre-prepared scripts get run aga
 
 This is a list of the things that have to happen in order and any validation that needs to happen to get this done:
 
-1. Validate Backup contents from Source – Should contain a .bak and a .trn for each database (tfs\_configuration, tfs\_DefaultCollection, tfs\_Warehouse, reports, reportstemp)  
-    If it does not contain a .trn files then follow: [http://msdn.microsoft.com/en-us/library/vstudio/ms253070.aspx](http://msdn.microsoft.com/en-us/library/vstudio/ms253070.aspx)
+1. Validate Backup contents from Source – Should contain a .bak and a .trn for each database (tfs_configuration, tfs_DefaultCollection, tfs_Warehouse, reports, reportstemp)  
+   If it does not contain a .trn files then follow: [http://msdn.microsoft.com/en-us/library/vstudio/ms253070.aspx](http://msdn.microsoft.com/en-us/library/vstudio/ms253070.aspx)
 2. Restore Full backup and Transaction backup to Remediation#2
 3. Un-configure TFS & drop old databases
 4. Verify TFS 2013 is installed
@@ -172,12 +172,12 @@ Param(
        [string] $addomain = "@rendition.env.nakedalmweb.wpengine.com"
        )
 # Import list of Users From CSV into $Userlist
-$UserList=IMPORT-CSV $csvusers 
+$UserList=IMPORT-CSV $csvusers
 # Step through Each Item in the List
 $people = 0
 Foreach ($Person in $UserList) {
     $people++
-    $Username=$Person.alias  
+    $Username=$Person.alias
     # Build the User Principal Name Username with Domain added to it
     $UPN=$Username+"@"+$addomain
     # Create the Displayname
@@ -221,7 +221,7 @@ As all of the security is currently done with AD and we will not have all of the
 
 ```
 Param(
-       [string] $CollectionUrlParam, 
+       [string] $CollectionUrlParam,
        [string] $GroupName = $(Read-Host -prompt "Group"),
        [string] $csvusers = "C:migrateusers06032013.csv"
        )
@@ -237,7 +237,7 @@ if ($CollectionUrlParam)
 {
     #if collection is passed then use it and select all projects
     $tfs = [Microsoft.TeamFoundation.Client.TfsTeamProjectCollectionFactory]::GetTeamProjectCollection($CollectionUrlParam)
-    $cssService = $tfs.GetService("Microsoft.TeamFoundation.Server.ICommonStructureService3")   
+    $cssService = $tfs.GetService("Microsoft.TeamFoundation.Server.ICommonStructureService3")
     if ($Projects)
     {
         #validate project names
@@ -252,7 +252,7 @@ if ($CollectionUrlParam)
                 Write-Error "Invalid project name: $p"
                 exit
             }
-        }       
+        }
     }
     else
     {
@@ -268,7 +268,7 @@ else
     {
         exit
     }
- 
+
     $tfs = $picker.SelectedTeamProjectCollection
     $projectList = $picker.SelectedProjects
 }
@@ -291,7 +291,7 @@ $ims = $tfs.GetService("Microsoft.TeamFoundation.Framework.Client.IIdentityManag
 Write-Progress -activity "Building TFS Groups and Users" -CurrentOperation "Creating Group" -PercentComplete 0
 $groupIdent = $ims.ReadIdentity([Microsoft.TeamFoundation.Framework.Common.IdentitySearchFactor]::General,
                                $GroupName,
-                               [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None, 
+                               [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None,
                                [Microsoft.TeamFoundation.Framework.Common.ReadIdentityOptions]::None)
 
 if ($groupIdent -eq $null)
@@ -299,10 +299,10 @@ if ($groupIdent -eq $null)
   $groupIdent= $ims.CreateApplicationGroup($null, $GroupName, "All migration users")
   $groupIdent = $ims.ReadIdentity([Microsoft.TeamFoundation.Framework.Common.IdentitySearchFactor]::General,
                                    $GroupName,
-                                   [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None, 
+                                   [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None,
                                    [Microsoft.TeamFoundation.Framework.Common.ReadIdentityOptions]::None)
 }
-Write-Output $groupIdent 
+Write-Output $groupIdent
 $UserList=IMPORT-CSV $csvusers
 $people = 0
 Foreach ($Person in $UserList) {
@@ -310,9 +310,9 @@ Foreach ($Person in $UserList) {
     Write-Progress -activity "Building TFS Groups and Users" -CurrentOperation "Adding $($Person.alias) to $GroupName " -PercentComplete  ((100/$UserList.Count)*$people)
     $userIdent = $ims.ReadIdentity([Microsoft.TeamFoundation.Framework.Common.IdentitySearchFactor]::General,
                                $Person.alias,
-                               [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None, 
+                               [Microsoft.TeamFoundation.Framework.Common.MembershipQuery]::None,
                                [Microsoft.TeamFoundation.Framework.Common.ReadIdentityOptions]::None)
-                      
+
     Write-Output "Adding $($userIdent.DisplayName)"
     $ims.AddMemberToApplicationGroup($groupIdent.Descriptor, $userIdent.Descriptor)
 }
@@ -417,5 +417,3 @@ All you need is a mapping CSV with a column for the old and new account names.
 ## Conclusion and more to come
 
 This is the first stage of a large complicated move that [involves SharePoint](http://nkdagility.com/engaging-with-complexity-sharepoint-edition/) as well, which I am helping the customer with.  The folks there are awesome and I hope to be back helping them out soon. For now they have lots of practice of this process to do and I wish them lots of luck…
-
-

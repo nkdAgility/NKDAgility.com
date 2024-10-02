@@ -2,7 +2,7 @@
 id: "108"
 title: "Connecting VS2008 to any TFS2010 Project Collection"
 date: "2009-05-26"
-tags: 
+tags:
   - "tfs"
   - "tfs2010"
   - "tools"
@@ -37,6 +37,3 @@ Backward compatibility +1
 Connecting from Visual Studio 2005 Service Pack 1 is a different story, there is currently no way to connect VS2005 to TFS2010. There has been some discussion around this and its importance to Business Intelligence teams. If you are just opening VS2005/VS2003 occasionally then you could probably get away with using 2010 to control TFS and working in 2005, but many BI developers are still spending a considerable amount of there time in 2005 :(
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

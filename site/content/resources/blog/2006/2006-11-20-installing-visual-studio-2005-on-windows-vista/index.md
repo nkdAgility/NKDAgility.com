@@ -2,7 +2,7 @@
 id: "461"
 title: "Installing Visual Studio 2005 on Windows vista"
 date: "2006-11-20"
-tags: 
+tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
@@ -15,6 +15,3 @@ I have just installed VS2005 on vista. Although I was setup for a whole host of 
 Role on SP1
 
 Technorati Tags: [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

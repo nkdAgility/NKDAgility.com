@@ -2,9 +2,9 @@
 id: "82"
 title: "A change for the better #2 - Aggreko to SSW"
 date: "2009-10-25"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "aggreko"
   - "change"
   - "change-for-the-better"
@@ -33,14 +33,14 @@ The first set of rules that I read was the [Rules to better Email](http://bit.ly
 Check out rule [#32](http://bit.ly/67SSH9) in SSW’s “[Rules To Being Software Consultants Working In A Team](http://bit.ly/67SSH9)”
 
 > #### _#32 Do you enjoy your job?_
-> 
+>
 > _The expectation from Adam is:_
-> 
+>
 > - _#1 is to put your heart into your job and enjoy yourself_
 > - _Get your Employee Responsibilities (Scheduled recurring events) done_
 > - _Improve SSW to a better place every week_
 > - _Improve yourself to better person every week_
-> 
+>
 > _If you find yourself not enjoying your job this is not necessarily a bad thing. You should make a commitment to give it a go and try to make it work. When you have decided you are unhappy you should talk to your boss and figure out what is making you unhappy. The fact is that there are some jobs that you are not suited to. It is probably best for everyone that you start to think about moving on and trying something that may make you happier._
 
 I totally agree with this and at Aggreko I was supported by many people. I spoke to my boss Andre Vermeulen about the things I was not happy with, and we came to an understanding, but it is difficult for a large company to move at the same pace that I do. I found working with SharePoint 2003 is really just unacceptable.
@@ -62,5 +62,3 @@ If you get a chance, check out SSW’s Rules. I am sure you will find something 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2005](http://technorati.com/tags/TFS+2005)
-
-

@@ -15,9 +15,9 @@ isShort: False
 
 Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 
-Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial! We dive deep into features, functionalities, and efficient practices. 
+Unlock the potential of Azure DevOps migration tools with this comprehensive tutorial! We dive deep into features, functionalities, and efficient practices.
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🎤 walks you through the intricacies of the Azure DevOps migration tools, highlighting key functionalities and providing hands-on tips. From replaying revisions to managing work item filters, we cover it all! 🚀
 
@@ -32,9 +32,9 @@ In this video, Martin 🎤 walks you through the intricacies of the Azure DevOps
 00:36:00 Date-Based Query for Post Migration
 00:36:42 The Future of Azure DevOps Tools
 
-*NKDAgility can help!* 
+_NKDAgility can help!_
 
-Encountering challenges with Azure DevOps migration tools? My team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can. Don't let issues undermine the effectiveness of your value delivery. Get help now! 
+Encountering challenges with Azure DevOps migration tools? My team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can. Don't let issues undermine the effectiveness of your value delivery. Get help now!
 
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
 _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_

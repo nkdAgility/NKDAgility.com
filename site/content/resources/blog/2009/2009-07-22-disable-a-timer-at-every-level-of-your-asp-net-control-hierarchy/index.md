@@ -2,9 +2,9 @@
 id: "98"
 title: "Disable a timer at every level of your ASP.NET control hierarchy"
 date: "2009-07-22"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "aggreko"
   - "code"
   - "codeproject"
@@ -81,5 +81,3 @@ The FindControls method can find a list of all instances of a control type from 
 UPDATE: OK, so you have probably guessed that I am a complete **_muppet_**.. I have changes my UpdatePanels to UpdateMode=“Conditional” and with a few extra lines of code solved my problem the correct way! I will be keeping this little bit of code as you never know when you need to find all instances of a type of control :)… I am such a donkey…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
-
-

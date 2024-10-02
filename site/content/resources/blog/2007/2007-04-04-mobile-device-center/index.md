@@ -2,9 +2,9 @@
 id: "417"
 title: "Mobile Device Center"
 date: "2007-04-04"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -21,6 +21,3 @@ From the early propaganda on Vista I had though that this was the point! But it 
 Hopefully Microsoft will rectify this over time...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-
-

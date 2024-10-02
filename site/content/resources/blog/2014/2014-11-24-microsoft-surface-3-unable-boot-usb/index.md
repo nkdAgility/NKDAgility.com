@@ -2,9 +2,9 @@
 id: "10907"
 title: "Microsoft Surface 3 unable to boot from USB"
 date: "2014-11-24"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "surface"
   - "surface-3-pro"
   - "windows-10"
@@ -28,13 +28,13 @@ So I stuck one in my suitcase to deal with later and opened one for me. First th
 { .post-img }
 
 > Recovery
-> 
+>
 > Your PC/Device needs to be repaired
-> 
+>
 > The digital signature for this file could not be verified.
-> 
+>
 > File: \\windows\\system32\\winload.efi
-> 
+>
 > Error Code: 0xc0000428
 
 I was at a session with the product team, and after a few minutes poking at buttons and powering on and off I managed to get the device to boot into Recovery mode and ran a refresh. Simples…
@@ -50,13 +50,13 @@ Now, if I was sensible, at this point I really should have done a full wipe and 
 I was onsite with a customer in Oslo for only 2 days when my Surface 3 flashed the same error. After 2 hours of jiggery-pokery I got absolutely nowhere! Luckily the customer provided me with a Dell brick of a laptop which had the saving grace that it booted. I spent some time each night onsite trying to get the bloody thing to boot and searched the interwebs for results. Microsoft have good documentation for how to boot your Surface from a USB.
 
 > ##### Start from a bootable USB device when Surface is off
-> 
+>
 > **Step 1:** Attach a bootable USB device to the USB port.
-> 
+>
 > **Step 2:** Press and hold the volume-down button.
-> 
+>
 > **Step 3:** Press and release the power button.
-> 
+>
 > **Step 4:** When the Surface logo appears, release the volume-down button.  
 > Surface will start the software on your USB device.  
 > \-[Boot Surface from a USB device](http://www.microsoft.com/surface/en-gb/support/storage-files-and-folders/boot-surface-pro-from-usb-recovery-device)
@@ -65,17 +65,12 @@ When I got home I broke out the second Surface that Microsoft shipped me by acci
 
 So, this time I did not install Windows 10. I spent all week this week on Windows 8.1 and missing lots of features from 10:
 
-- **Modern in a Window** - On a small tablet this sucks (re Dell Venue 8) but on a desktop replacement that I mostly use with keyboard and mouse.  
-      
-    ![clip_image002](images/clip-image0026-2-2.png "clip_image002")  
-{ .post-img }
-      
-    
+- **Modern in a Window** - On a small tablet this sucks (re Dell Venue 8) but on a desktop replacement that I mostly use with keyboard and mouse.
+      ![clip_image002](images/clip-image0026-2-2.png "clip_image002")
+  { .post-img }
 - **Mini modern start menu** - This is touch and go. I really like the full screen start menu, but the largest screen I use is my Surface 3. I have seen folks using it on a 32" screen and it is more like a punch in the face.
-    
-    ![clip_image003](images/clip-image0035-3-3.png "clip_image003")
-{ .post-img }
-    
+      ![clip_image003](images/clip-image0035-3-3.png "clip_image003")
+  { .post-img }
 
 At the beginning of the week I reached out to some contacts in MSFT to see if we could not figure out the USB issue. I found that \[Clement\] also had the same issue and while was able to use Recovery Mode was unable to get his surface to boot from USB either. So that’s 3 for 3.
 
@@ -87,9 +82,9 @@ After some time I managed to get in touch with someone at MSFT who knew about th
 
 > Do any of the Pro3 systems you are currently using still boot into Windows?  
 > If so, what have version of Windows have you got installed at this point?
-> 
+>
 > Do the volume up/down buttons work in the OS?
-> 
+>
 > How did you create the USB key? Is it labelled “BOOTME”?
 
 Wait! What!... "BOOTME"???
@@ -106,5 +101,3 @@ In not a single one of these methods does the USB get named "BOOTME". Ahh, well�
 { .post-img }
 
 So if you are wanting to boot your Surface Pro 3 from a USB you need to make sure that the device you want to boot from is labelled "BOOTME".
-
-

@@ -2,9 +2,9 @@
 id: "305"
 title: "Windows Live Writer Beta 3 Hmm!"
 date: "2007-10-03"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "live"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -24,13 +24,10 @@ When I get the correct link I will post it...
 
 _UPDATE:_
 
-_Windows Live Writer 2008 Direct Download:_ [_http://download.microsoft.com/download/1/e/c/1ecbf3be-298b-467c-84d8-6f86f01478d7/en-us/Install\_WLWriter.exe_](http://download.microsoft.com/download/1/e/c/1ecbf3be-298b-467c-84d8-6f86f01478d7/en-us/Install_WLWriter.exe)
+_Windows Live Writer 2008 Direct Download:_ [_http://download.microsoft.com/download/1/e/c/1ecbf3be-298b-467c-84d8-6f86f01478d7/en-us/Install_WLWriter.exe_](http://download.microsoft.com/download/1/e/c/1ecbf3be-298b-467c-84d8-6f86f01478d7/en-us/Install_WLWriter.exe)
 
 UPDATE:
 
 But not Beta 3: dough!
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-
-

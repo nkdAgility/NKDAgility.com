@@ -2,9 +2,9 @@
 id: "432"
 title: "Advanced Email Content addendum"
 date: "2007-03-24"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "fail"
   - "ml"
   - "tools"
@@ -30,6 +30,3 @@ Why would you not want to send XBAP's via email:
 Need I say more...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Fail](http://technorati.com/tags/Fail) [WPF](http://technorati.com/tags/WPF)
-
-
-

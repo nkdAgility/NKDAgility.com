@@ -2,9 +2,9 @@
 id: "9916"
 title: "Integrate SharePoint 2013 with Team Foundation Server 2013"
 date: "2013-07-29"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "sharepoint"
   - "sharepoint-2013"
   - "tfs"
@@ -37,8 +37,8 @@ In my environment I have a single server environment which makes it easy to inte
 4. Configure Extensions for SharePoint Products
 5. Configure SharePoint Web Applications
 6. Configure SharePoint sites
-    1. Configure SharePoint site for a new Team Project
-    2. Configure SharePoint site for an existing Team Project
+   1. Configure SharePoint site for a new Team Project
+   2. Configure SharePoint site for an existing Team Project
 
 If you get to [Installing SharePoint Server 2013](http://nkdagility.com/install-sharepoint-2013-on-windows-server-2012-without-a-domain/) and end up with the message that “Windows Server AppFabric is not configured correctly” then you will need to reinstall it following the instructions on [Install SharePoint Server 2013 Prerequisites](http://www.avivroth.com/2013/07/09/installing-sharepoint-2013-on-windows-server-2012-r2-preview/). This is a work around until the SharePoint guys release a fix for the installer.
 
@@ -199,5 +199,3 @@ Figure: No longer blank
 Now we have a lovely TFS integrated SharePoint dashboard with first level document integration from Visual Studio.
 
 Phew… Done…
-
-

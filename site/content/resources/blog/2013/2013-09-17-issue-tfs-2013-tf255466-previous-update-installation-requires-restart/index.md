@@ -2,9 +2,9 @@
 id: "10006"
 title: "Issue [ TFS 2013 ] TF255466 A previous update or installation requires a restart"
 date: "2013-09-17"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "pendingfilerenameoperations"
   - "tf254027"
   - "tf255466"
@@ -68,5 +68,3 @@ If think this is the issue you can head on over here and download the [Non Secur
 Figure: All readiness checks complete
 
 For me this fixed my issue…
-
-

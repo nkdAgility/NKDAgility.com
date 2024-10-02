@@ -2,9 +2,9 @@
 id: "9951"
 title: "A change for the better #4 - Homecoming"
 date: "2013-08-19"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "change"
   - "change-for-the-better"
   - "modern-alm"
@@ -66,5 +66,3 @@ I want to try and find the bulk of my work in Glasgow and the surrounding area b
 As with my continuing work with Northwest Cadence in the USA I will be providing consulting, coaching, and mentoring around lean-agile, Scrum, and Visual Studio ALM in the United Kingdom and Europe.
 
 **Are you in Scotland? Do you have a need to improve your current practices? Get in touch so that I can start helping you out.**
-
-

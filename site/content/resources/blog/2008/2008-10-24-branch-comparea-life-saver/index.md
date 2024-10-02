@@ -2,7 +2,7 @@
 id: "181"
 title: "Branch Compare…A Life saver"
 date: "2008-10-24"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -16,6 +16,3 @@ In my recent troubles with [branching and merging](http://blog.hinshelwood.com/a
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

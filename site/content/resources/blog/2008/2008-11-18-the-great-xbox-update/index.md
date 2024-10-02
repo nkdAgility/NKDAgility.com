@@ -2,9 +2,9 @@
 id: "166"
 title: "The great Xbox update"
 date: "2008-11-18"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "live"
   - "xbox"
 coverImage: "metro-xbox-360-link-3-2.png"
@@ -26,6 +26,3 @@ I never made it into the [Preview](http://majornelson.com/archive/2008/10/24/the
 { .post-img }
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers)
-
-
-

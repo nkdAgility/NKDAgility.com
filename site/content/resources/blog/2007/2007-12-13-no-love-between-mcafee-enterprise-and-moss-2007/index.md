@@ -2,9 +2,9 @@
 id: "274"
 title: "No love between McAfee Enterprise and MOSS 2007"
 date: "2007-12-13"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "infrastructure"
   - "moss2007"
   - "sharepoint"
@@ -28,9 +28,9 @@ Well I think I have found the root of the problem with my Microsoft office Share
 > Computer:    GLA1VS09  
 > Description:  
 > The update cannot be started because the content sources cannot be accessed. Fix the errors and try the update again._
-> 
+>
 > _Context: Application 'Search', Catalog 'index file on the search server Search'_
-> 
+>
 > _For more information, see Help and Support Center at_ [_http://go.microsoft.com/fwlink/events.asp_](http://go.microsoft.com/fwlink/events.asp)_._
 
 I get the above error about the Search Catalog repeatedly during the installation of SP1, and wrapped around it I get a bunch of IRC port block information items from McAfee. This is more than coincidence and I have requested that our infrastructure team remove McAfee from all SharePoint servers so we don't have this kind of problem in the future.
@@ -40,6 +40,3 @@ Now, McAfee say that they support SharePoint Services 3.0, but MOSS has a bunch 
 Hopefully I can get this sorted soon.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

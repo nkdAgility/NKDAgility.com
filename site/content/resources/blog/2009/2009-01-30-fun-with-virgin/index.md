@@ -2,7 +2,7 @@
 id: "141"
 title: "Fun with Virgin+"
 date: "2009-01-30"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
@@ -31,5 +31,3 @@ What you nee to do is this:
 Press reset on the box and hold down play and stop on the front of the box until it says boot the little screen. After a couple of minutes it will say “1nput” in a digital watch kinda way. Use the fast forward (>>) button on the front of the box to select “5d” and then press OK. Now reset your box again and you should have a picture….
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

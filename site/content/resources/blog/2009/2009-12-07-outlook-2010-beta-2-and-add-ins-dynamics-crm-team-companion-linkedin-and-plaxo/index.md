@@ -2,7 +2,7 @@
 id: "76"
 title: "Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo"
 date: "2009-12-07"
-tags: 
+tags:
   - "office"
   - "ssw"
   - "tools"
@@ -56,13 +56,13 @@ Figure: Shows the Team Companion, LinkedIn and CRM options on an email; this is 
 So, what else do you need to know? No 64-bit support yet, so you need to use Outlook 32-bit, and if you need to use Outlook 32-bit then you MUST use Office 32-bit:
 
 1. CRM4 will not Install if Office 2010 is installed  
-    Workaround: [http://bovoweb.blogspot.com/2009/10/ms-outlook-2010-and-dynamics-crm.html](http://bit.ly/7SGhlP)
+   Workaround: [http://bovoweb.blogspot.com/2009/10/ms-outlook-2010-and-dynamics-crm.html](http://bit.ly/7SGhlP)
 2. If you upgrade Outlook 2007 to Outlook 2010 CRM will work  
-    [http://dario.blog.viadis.hr/2009/07/outlook-2010-dynamics-crm-40-client.html](http://bit.ly/4NDqFe)
+   [http://dario.blog.viadis.hr/2009/07/outlook-2010-dynamics-crm-40-client.html](http://bit.ly/4NDqFe)
 3. You MUST use the 32bit version of Outlook 2010  
-    [http://halo76.wordpress.com/2009/11/24/office-2010-and-crm-4-0-for-outlook-32-bit-only/](http://bit.ly/531VZ7)
+   [http://halo76.wordpress.com/2009/11/24/office-2010-and-crm-4-0-for-outlook-32-bit-only/](http://bit.ly/531VZ7)
 4. If you are using Outlook 2010 32bit, the rest of the Office 2010 bits that you install must be of the same bitness  
-    [http://blogs.msdn.com/officedevdocs/archive/2009/11/25/developing-outlook-2010-solutions-for-32-bit-and-64-bit-systems.aspx](http://bit.ly/8iJn7N)
+   [http://blogs.msdn.com/officedevdocs/archive/2009/11/25/developing-outlook-2010-solutions-for-32-bit-and-64-bit-systems.aspx](http://bit.ly/8iJn7N)
 
 This post also answers the question of wither you can move to Office 64-bit now? The answer is yes, unless you have any add-ins that you depend on and that do not work in Outlook 64-bit. If you do, you are in a bit of a pickle… Wait for support, or better yet, pester the Product team that makes your add-in to get it to support 64-bit office.
 
@@ -73,9 +73,6 @@ Please can you:
 1. fix add-in to work with Outlook 64-bit (Team Companion guys are already on the case showing the rest of you up)
 2. fix add-in to have a ribbon tab like the Visual Studio ALM Add-in in Excel.  
     [![image](images/GotchaCRM4andOutlook2010Beta2_CC89-image_thumb_6-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-GotchaCRM4andOutlook2010Beta2_CC89-image_14.png) 
-{ .post-img }
+   { .post-img }
 
 Technorati Tags: [Office](http://technorati.com/tags/Office) [ALM](http://technorati.com/tags/ALM) [CRM](http://technorati.com/tags/CRM) [SSW](http://technorati.com/tags/SSW)
-
-
-

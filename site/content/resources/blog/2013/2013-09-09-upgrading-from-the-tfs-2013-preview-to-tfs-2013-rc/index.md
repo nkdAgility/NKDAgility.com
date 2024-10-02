@@ -2,10 +2,10 @@
 id: "10041"
 title: "Upgrading from the TFS 2013 Preview to TFS 2013 RC"
 date: "2013-09-09"
-categories: 
+categories:
   - "install-and-configuration"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "tfs"
   - "tfs-2013"
   - "upgrade"
@@ -98,7 +98,7 @@ Here you can select your Reporting Services Server. This is a multi server (dual
 { .post-img }
 Figure: Select Warehouse to upgrade
 
-As it takes more than a few hours to create a new warehouse from scratch you can upgrade it. From TFS 2012 onward you should restore the Tfs\_Warehouse database as well and the upgrade process will also upgrade the warehouse.
+As it takes more than a few hours to create a new warehouse from scratch you can upgrade it. From TFS 2012 onward you should restore the Tfs_Warehouse database as well and the upgrade process will also upgrade the warehouse.
 
 ![image](images/image38-11-11.png "image")  
 { .post-img }
@@ -166,5 +166,3 @@ If you are on the Preview then it is a no brainer and simple task to go to the R
 Figure: Primary Team Dashboard in action
 
 I recommend that you check out this [walkthrough of the ALM features in Team Foundation Server 2013](http://nkdagility.com/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work/). I have never shown users the features of 2013 and not had them immediately upgrade to the Preview. Lets see if I can keep that up with the RC.
-
-

@@ -2,9 +2,9 @@
 id: "233"
 title: "Major deadline"
 date: "2008-04-30"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "moss2007"
   - "sharepoint"
   - "sp2007"
@@ -14,7 +14,7 @@ type: blog
 slug: "major-deadline"
 ---
 
- ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...
+![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...
 { .post-img }
 
 We have a completely unmanaged Sharepoint Portal server at work. It was installed in early 2004 and has been running in self service mode ever since. Not all of the company is using it, but those that are, are using it heavily. Particularly areas that service customers and one customer specifically use it so completely that that area of the business would find it hard to function if it was not available.
@@ -47,6 +47,3 @@ In the immortal words of the Windows 2003 Active Directory Installer:
 > _This may take some time, or considerably longer..._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

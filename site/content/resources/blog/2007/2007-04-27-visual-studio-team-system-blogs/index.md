@@ -13,6 +13,3 @@ You can find all the blogs for the Microsoft team for Visual Studio in one place
 [http://msdn2.Microsoft.com/en-us/teamsystem/aa7187...](http://msdn2.Microsoft.com/en-us/teamsystem/aa7187...)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

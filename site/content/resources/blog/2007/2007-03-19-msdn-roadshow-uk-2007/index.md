@@ -2,9 +2,9 @@
 id: "430"
 title: "MSDN Roadshow UK 2007"
 date: "2007-03-19"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "events-and-presentations"
   - "msdn"
 coverImage: "metro-event-128-link-1-1.png"
@@ -26,6 +26,3 @@ If you get a chance to get to the roadshow, then do so...
 [Resources from the Roadshow](http://blogs.msdn.com/ukdevteam/archive/2007/02/15/uk-msdn-roadshow-2007-resources.aspx)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

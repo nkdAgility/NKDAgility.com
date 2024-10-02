@@ -2,7 +2,7 @@
 id: "68"
 title: "Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010"
 date: "2010-03-04"
-tags: 
+tags:
   - "automated-build"
   - "scrum"
   - "silverlight"
@@ -28,7 +28,7 @@ Guess what. About 20 minutes after I fixed the build, Allan broke it again!
 
 Update: 4th March 2010 – After having huge problems getting this working I read [Billy Wang’s post](http://billwg.blogspot.com/2009/06/testing-wcf-web-services.html) which showed me the light.
 
-* * *
+---
 
 The problem here is that even though the test passes locally it will not during an Automated Build. When you send your tests to the build server it does not understand that you want to spin up the web site and run tests against that! When you run the test in Visual Studio it spins up the web site anyway, but would you expect your test to pass if you told the website not to spin up? Of course not. So, when you send the code to the build server you need to tell it what to spin up.
 
@@ -116,18 +116,18 @@ namespace SSW.SQLDeploy.Test
 
         public static bool TryUrlRedirection(object client, TestContext context, string identifier)
         {
-            bool result = true; 
-            try { 
+            bool result = true;
+            try {
                 PropertyInfo property = client.GetType().GetProperty("Endpoint");
-                string webServer = context.Properties[string.Format("AspNetDevelopmentServer.{0}", identifier)].ToString(); 
-                Uri webServerUri = new Uri(webServer); 
-                ServiceEndpoint endpoint = (ServiceEndpoint)property.GetValue(client, null); 
-                EndpointAddressBuilder builder = new EndpointAddressBuilder(endpoint.Address); 
-                builder.Uri = new Uri(endpoint.Address.Uri.OriginalString.Replace(endpoint.Address.Uri.Authority, webServerUri.Authority)); 
-                endpoint.Address = builder.ToEndpointAddress(); 
-            } 
-            catch (Exception e) { 
-                context.WriteLine(e.Message); result = false; 
+                string webServer = context.Properties[string.Format("AspNetDevelopmentServer.{0}", identifier)].ToString();
+                Uri webServerUri = new Uri(webServer);
+                ServiceEndpoint endpoint = (ServiceEndpoint)property.GetValue(client, null);
+                EndpointAddressBuilder builder = new EndpointAddressBuilder(endpoint.Address);
+                builder.Uri = new Uri(endpoint.Address.Uri.OriginalString.Replace(endpoint.Address.Uri.Authority, webServerUri.Authority));
+                endpoint.Address = builder.ToEndpointAddress();
+            }
+            catch (Exception e) {
+                context.WriteLine(e.Message); result = false;
             }
             return result;
         }
@@ -158,7 +158,7 @@ public void ProfileService_Integration_SaveDefaultProjectFile_Returns_True()
 
 As you can imagine AspNetDevelopmentServer poses some problems of you have multiple developers. What are the chances of everyone using the same location to store the source? What about if you are using a build server, how do you tell MSTest where to look for the files?
 
-To the rescue is a property called" “%PathToWebRoot%” which is always right on the build server. It will always point to your build drop folder for your solutions web sites. Which will be “tfs.ssw.com.auBuildDrop\[BuildName\]Debug\_PrecompiledWeb” or whatever your build drop location is. So lets change the code above to add this.
+To the rescue is a property called" “%PathToWebRoot%” which is always right on the build server. It will always point to your build drop folder for your solutions web sites. Which will be “tfs.ssw.com.auBuildDrop\[BuildName\]Debug_PrecompiledWeb” or whatever your build drop location is. So lets change the code above to add this.
 
 ```
 [AspNetDevelopmentServer("WebApp1", "%PathToWebRoot%SSW.SQLDeploy.SilverlightUI.Web")]
@@ -201,13 +201,13 @@ Although this looks convoluted and complicated there are real problems being sol
 
 [http://tough-to-find.blogspot.com/2008/04/testing-asmx-web-services-in-visual.html](http://tough-to-find.blogspot.com/2008/04/testing-asmx-web-services-in-visual.html "http://tough-to-find.blogspot.com/2008/04/testing-asmx-web-services-in-visual.html")
 
-[http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx](http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx "http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx")
+[http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx](<http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx> "http://msdn.microsoft.com/en-us/library/ms243399(VS.100).aspx")
 
 [http://blogs.msdn.com/dscruggs/archive/2008/09/29/web-tests-unit-tests-the-asp-net-development-server-and-code-coverage.aspx](http://blogs.msdn.com/dscruggs/archive/2008/09/29/web-tests-unit-tests-the-asp-net-development-server-and-code-coverage.aspx "http://blogs.msdn.com/dscruggs/archive/2008/09/29/web-tests-unit-tests-the-asp-net-development-server-and-code-coverage.aspx")
 
 [http://www.5z5.com/News/?543f8bc8b36b174f](http://www.5z5.com/News/?543f8bc8b36b174f "http://www.5z5.com/News/?543f8bc8b36b174f")
 
-* * *
+---
 
 ## Need Help?
 
@@ -227,6 +227,3 @@ Although this looks convoluted and complicated there are real problems being sol
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [Visual Studio](http://technorati.com/tags/Visual+Studio) [SSW](http://technorati.com/tags/SSW) [Testing](http://technorati.com/tags/Testing) [TFS 2010](http://technorati.com/tags/TFS+2010) [WCF](http://technorati.com/tags/WCF) [Silverlight](http://technorati.com/tags/Silverlight) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
-
-
-

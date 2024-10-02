@@ -2,10 +2,10 @@
 id: "9324"
 title: "Batched domain migration with TFS while maintaining Identity"
 date: "2013-03-20"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "active-directory"
   - "configuration"
   - "infrastructure"
@@ -54,12 +54,12 @@ If you have a lot of users you are probably going to stage or batch your users a
 
 1. Move TFS Server from Domain1 to Domain2 with full trust
 2. For each user:
-    1. Make 100% sure that domain2User1 has NEVER been added to TFS
-    2. Remove User1 from group1 in domain1
-    3. Migrate User1 to Domain2 and disable account on Domain1
-    4. Run TfsIdentities command line to remap the TFS Identity to the user in the new domain
-    5. Add domain2user1 to TFS and remove domain1user1
-    6. Add user1 to group1 of domain2
+   1. Make 100% sure that domain2User1 has NEVER been added to TFS
+   2. Remove User1 from group1 in domain1
+   3. Migrate User1 to Domain2 and disable account on Domain1
+   4. Run TfsIdentities command line to remap the TFS Identity to the user in the new domain
+   5. Add domain2user1 to TFS and remove domain1user1
+   6. Add user1 to group1 of domain2
 
 _Info You may see that under the covers TFS has created a new  Identity wrapper for the old domain1user1 account after you have mapped it across. Note that this would be a NEW TFS Identity object and we can safely ignore it. You can prevent it from being created by removing user1 from Domain1Group1 prior to running the TfsIdentity command._
 
@@ -73,8 +73,8 @@ One way around this would be to move to TFS groups for the migration. You can cr
 1. Convert all Domain1 AD Groups to TFS Groups
 2. Move TFS Server from Domain1 to Domain2 with full trust
 3. For each user:
-    1. Migrate User1 to Domain2 and disable account on Domain1
-    2. Run TfsIdentities command line to remap the TFS Identity to the user in the new domain
+   1. Migrate User1 to Domain2 and disable account on Domain1
+   2. Run TfsIdentities command line to remap the TFS Identity to the user in the new domain
 4. Convert all TFS Groups to AD Domain Groups on Domain2
 
 Either of these two workflows for moving users will work. It depends on how your Operations teams are moving the accounts around. However you do this, if you are batching users, it will take some time. This particular customer thinks it will take them up to a year to move all of their users and are in this for the long term.
@@ -82,5 +82,3 @@ Either of these two workflows for moving users will work. It depends on how your
 - [In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain](http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/ "http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/")
 
 Hopefully your domain move goes more smoothly and that you watch out for the pitfalls.
-
-

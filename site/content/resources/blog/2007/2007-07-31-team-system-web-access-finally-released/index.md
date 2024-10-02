@@ -2,7 +2,7 @@
 id: "354"
 title: "Team System Web Access finally released"
 date: "2007-07-31"
-tags: 
+tags:
   - "tfs"
   - "tfs2005"
 coverImage: "metro-visual-studio-2005-128-link-3-3.png"
@@ -29,9 +29,6 @@ There is still the problem of not being able to go directly to a work item from 
 
 I use my [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler to send out an email to anyone a work item is assigned to, which could by anyone in the company (75,000 users) but in reality only those on the project get emails. The email notifies them that they have been assigned a Work item, but the link does not work with either "TeamPlain 2.0RC" or "Team System Web Access".
 
-I think that this form of access will not become popular until an Enterprise version of TFS is released and business users can access without a CAL. 
+I think that this form of access will not become popular until an Enterprise version of TFS is released and business users can access without a CAL.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-
-

@@ -2,7 +2,7 @@
 id: "121"
 title: "Visual Studio Team System 2010 Beta 1 Ships"
 date: "2009-05-18"
-tags: 
+tags:
   - "tfs"
   - "tfs2010"
   - "tools"
@@ -43,7 +43,7 @@ Development & Database ([http://blogs.msdn.com/habibh/](http://blogs.msdn.com/ha
 - Improved profiling (especially multi-tier)
 - Database extensibility
 
-Lab Management ([http://blogs.msdn.com/amit\_chatterjee](http://blogs.msdn.com/amit_chatterjee), [http://blogs.msdn.com/lab\_management](http://blogs.msdn.com/lab_management))
+Lab Management ([http://blogs.msdn.com/amit_chatterjee](http://blogs.msdn.com/amit_chatterjee), [http://blogs.msdn.com/lab_management](http://blogs.msdn.com/lab_management))
 
 - Multi-tier Environment creation and management
 - Automated deployment
@@ -51,7 +51,7 @@ Lab Management ([http://blogs.msdn.com/amit\_chatterjee](http://blogs.msdn.com/a
 - Network fencing
 - Checkpoints
 
-Test ([http://blogs.msdn.com/amit\_chatterjee](http://blogs.msdn.com/amit_chatterjee), [http://blogs.msdn.com/james\_whittaker](http://blogs.msdn.com/james_whittaker))
+Test ([http://blogs.msdn.com/amit_chatterjee](http://blogs.msdn.com/amit_chatterjee), [http://blogs.msdn.com/james_whittaker](http://blogs.msdn.com/james_whittaker))
 
 - Test planning
 - Test case management
@@ -89,6 +89,3 @@ New WPF UI:
 [VS2010: On Triangles and Performance](http://blogs.msdn.com/jasonz/archive/2009/05/12/vs2010-on-triangles-and-performance.aspx)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Testing](http://technorati.com/tags/Testing) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [Visual Studio](http://technorati.com/tags/Visual+Studio) [WPF](http://technorati.com/tags/WPF) [MOSS](http://technorati.com/tags/MOSS) [VS 2010](http://technorati.com/tags/VS+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

@@ -2,9 +2,9 @@
 id: "8936"
 title: "TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear"
 date: "2012-10-14"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "agile"
   - "agile-planning-tools"
   - "process"
@@ -49,21 +49,17 @@ In addition to the Agile Planning tools the Agile Boards also do not show the in
 
 You can replicate this fairly easily by following these steps to reproduce:
 
-1. Add PBI called “PBI 1”
-2. Add child Task to “PBI 1” called “Task 1”
-3. Add child Task to “PBI 1” called ‘Task 2”
-    
-    ![clip_image001](images/clip_image001-1-1.png "clip_image001")  
-{ .post-img }
+1.  Add PBI called “PBI 1”
+2.  Add child Task to “PBI 1” called “Task 1”
+3.  Add child Task to “PBI 1” called ‘Task 2”
+        ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+    { .post-img }
     **Figure: Result as expected with “Task 1” and “Task 2” visible  
-    **
-    
-4. Add child Task to “Task 2” called “Task 3”
-    
-    ![clip_image002](images/clip_image002-2-2.png "clip_image002")  
-{ .post-img }
+     **
+4.  Add child Task to “Task 2” called “Task 3”
+        ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+    { .post-img }
     **Figure: Not expected to see “Task 1” & “Task 3”**
-    
 
 ### Findings
 
@@ -95,5 +91,3 @@ You will find that when you try to drag the parent into a Sprint you will be pre
 This is the same behaviour as we saw on the tasks, but it now makes sense as we no longer care about delivering the parent PBI.
 
 If you break down a Product Backlog Item into more granular Product Backlog Items those sub items should reflect the entirety of the work that needs to be done to achieve the parent and thus rendering the parent superfluous for all but upstream reporting. If you break a Product Backlog Item down into Tasks those Tasks should represent the Development Teams best guess at what actions / work needs to be undertaken to complete that Product Backlog Item.
-
-

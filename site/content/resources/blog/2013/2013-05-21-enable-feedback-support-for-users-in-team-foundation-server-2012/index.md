@@ -2,9 +2,9 @@
 id: "9494"
 title: "Enable Feedback support for users in Team Foundation Server 2012"
 date: "2013-05-21"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "access-levels"
   - "area-hierarchy"
   - "configuration"

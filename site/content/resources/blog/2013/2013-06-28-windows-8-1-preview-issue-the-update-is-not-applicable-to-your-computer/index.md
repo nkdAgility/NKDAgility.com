@@ -2,9 +2,9 @@
 id: "9914"
 title: "Windows 8.1 Preview Issue - The update is not applicable to your computer"
 date: "2013-06-28"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "win8"
   - "win8-1"
 coverImage: "nakedalm-windows-logo-12-12.png"
@@ -26,7 +26,7 @@ Figure: Windows 8.1 Preview - The update is not applicable to your computer
 
 ## Findings
 
-Unfortunately Microsoft looks to have done a poor job of detecting the region of the user. This update is supposed to be for US customers only and has some checks to make sure that you have the correct region set. If you have a “en-us” copy of windows (installed from “en\_windows\_8\_x64\_dvd\_915440.iso”) you can easily bypass this protection by either changing your windows regional settings to “United States”, rebooting and retrying. If however you have installed another language   (installed perhaps from “en-gb\_windows\_8\_x64\_dvd\_915412.iso”) then you may need to install a fresh copy of Windows.
+Unfortunately Microsoft looks to have done a poor job of detecting the region of the user. This update is supposed to be for US customers only and has some checks to make sure that you have the correct region set. If you have a “en-us” copy of windows (installed from “en_windows_8_x64_dvd_915440.iso”) you can easily bypass this protection by either changing your windows regional settings to “United States”, rebooting and retrying. If however you have installed another language   (installed perhaps from “en-gb_windows_8_x64_dvd_915412.iso”) then you may need to install a fresh copy of Windows.
 
 There are a couple of tricks to try first though:
 
@@ -127,5 +127,3 @@ You can however only keep your personal files this way and you will have to rein
 ## Conclusion
 
 Windows 8.1 is awesome but I was only able to use the Windows 8.1 Store Update option on my Tablet that was a US device. My Desktop and my VM’s had to be done with #3 above and nether #1 or #2 worked with an en-GB version of the OS.
-
-

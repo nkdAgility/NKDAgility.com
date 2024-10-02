@@ -2,7 +2,7 @@
 id: "3976"
 title: "Scrum with Visual Studio 11 - Creating a new Team Project"
 date: "2011-10-25"
-tags: 
+tags:
   - "agile"
   - "nwcadence"
   - "scrum"

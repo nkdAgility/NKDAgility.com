@@ -2,9 +2,9 @@
 id: "45324"
 title: "There is no place like production"
 date: "2020-12-28"
-categories: 
+categories:
   - "discovery-ideation"
-tags: 
+tags:
   - "hypothesis-driven-development"
   - "product-discovery"
   - "product-owner"
@@ -41,9 +41,7 @@ And speaking of depreciation all of the software that you are creating, these ne
 My favourite quote is from Brian Harry, the product unit manager at Microsoft and technical fellow:
 
 > "There is no place like production"
-> 
+>
 > \-Brian Harry
 
 No mater how much testing, UX discovery, and UAT, that you do there will always be more things that you discover once you get into production. It is just not possible to simulate a production environment. We are much more likely to be successful and create value by getting the smallest piece of value into production and validating that it is indeed as valuable as we thought.
-
-

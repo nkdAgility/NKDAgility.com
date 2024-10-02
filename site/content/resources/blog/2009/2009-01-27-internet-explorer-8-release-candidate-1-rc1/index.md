@@ -2,7 +2,7 @@
 id: "143"
 title: "Internet Explorer 8 Release Candidate 1 (RC1)"
 date: "2009-01-27"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -17,5 +17,3 @@ IT Professionals should visit [http://technet.microsoft.com/ie](http://technet.m
 Developers should visit [http://msdn.microsoft.com/ie](http://msdn.microsoft.com/ie)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

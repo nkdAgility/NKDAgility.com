@@ -31,8 +31,8 @@ If you are struggling with agile product ownership, my team at NKDAgility can he
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses
 
-#ProductOwner, #ScrumTeam, #ScrumAccountabilities, #CustomerCollaboration, #StrategicLeadership, #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
+#ProductOwner, #ScrumTeam, #ScrumAccountabilities, #CustomerCollaboration, #StrategicLeadership, #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-What is a product owner?  Why are they essential?
+What is a product owner? Why are they essential?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XdzGxK1Yzyc)

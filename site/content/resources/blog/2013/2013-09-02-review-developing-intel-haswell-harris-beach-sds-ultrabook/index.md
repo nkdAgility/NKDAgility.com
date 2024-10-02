@@ -2,9 +2,9 @@
 id: "10081"
 title: "Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook"
 date: "2013-09-02"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "develop"
   - "hardware"
   - "harris-beach"
@@ -70,9 +70,9 @@ public Scenario1()
     _geolocator = new Geolocator();
 }
 
-/// 
+///
 /// Invoked when this page is about to be displayed in a Frame.
-/// 
+///
 ///Event data that describes how this page was reached. The Parameter
 /// property is typically used to configure the page.
 protected override void OnNavigatedTo(NavigationEventArgs e)
@@ -81,14 +81,14 @@ protected override void OnNavigatedTo(NavigationEventArgs e)
     StopTrackingButton.IsEnabled = false;
 }
 
-/// 
+///
 /// Invoked immediately before the Page is unloaded and is no longer the current source of a parent Frame.
-/// 
+///
 ///
 /// Event data that can be examined by overriding code. The event data is representative
 /// of the navigation that will unload the current Page unless canceled. The
 /// navigation can potentially be canceled by setting e.Cancel to true.
-/// 
+///
 protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
 {
     if (StopTrackingButton.IsEnabled)
@@ -100,9 +100,9 @@ protected override void OnNavigatingFrom(NavigatingCancelEventArgs e)
     base.OnNavigatingFrom(e);
 }
 
-/// 
+///
 /// This is the event handler for PositionChanged events.
-/// 
+///
 ///
 ///
 async private void OnPositionChanged(Geolocator sender, PositionChangedEventArgs e)
@@ -165,5 +165,3 @@ I have basically replaced my Acer Iconia W520 with this laptop and while I would
 If you are a developer working on Window 8 or Windows 8.1 apps then I wholeheartedly recommend this laptop for building them on. If you just need an [Ultrabook](http://www.intel.com/content/www/us/en/ultrabook/shop-ultrabook.html) then make really sure that you get a Haswell processor to get the battery life and I would recommend the hybrids that are also tablets.
 
 Disclosure of Material Connection: I received one or more of the products or services mentioned above for free in the hope that I would mention it on my blog. Regardless, I only recommend products or services I use personally and believe my readers will enjoy. I am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: "[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html)."
-
-

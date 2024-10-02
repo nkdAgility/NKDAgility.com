@@ -2,10 +2,10 @@
 id: "9906"
 title: "SharePoint 2013 Issue - After migration from 2010 user permission not working"
 date: "2013-06-21"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "code"
   - "configuration"
   - "powershell"
@@ -68,5 +68,3 @@ foreach ($wa in get-SPWebApplication)
 ```
 
 These commands tool less than 10 minutes to run on 3 content databases with nearly 100GB of data. In addition some bright spark had added “NT AuthorityAuthenticated Users” to one of the main sites '”Contributors” group. While this sounds like something that I would do, if I had done it I would have added them to “Readers”…
-
-

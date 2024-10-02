@@ -2,9 +2,9 @@
 id: "235"
 title: "Kerberos problems"
 date: "2008-04-28"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "infrastructure"
   - "kerberos"
   - "off-topic"
@@ -25,6 +25,3 @@ I have been having a lot of Kerberos double hop problems on the network at work,
 I will keep you updated on my progress...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

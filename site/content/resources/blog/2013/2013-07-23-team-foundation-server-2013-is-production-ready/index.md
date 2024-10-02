@@ -2,10 +2,10 @@
 id: "9917"
 title: "Team Foundation Server 2013 is production ready"
 date: "2013-07-23"
-categories: 
+categories:
   - "news-and-reviews"
   - "products-and-books"
-tags: 
+tags:
   - "tfs"
   - "tfs2012"
   - "tfs2012-1"
@@ -31,12 +31,10 @@ The first two quarterly updates however suffered from what one might in the agil
 If you have been following Brian Harrys posts you will see that he has tried to be as transparent as possible about these problems and what they are doing to fix them. When you usually have a 2 year release cycle is is easy, if expensive, to test quality in. Now if you move to a 3 week release cycle you have to build quality in, not just test it in, and if you don’t, or have problems, it will be radically obvious to your customers in the bugs that slip past you…
 
 > The endgame is very hard to predict, No one knows how much of the iceberg still lies below the water, and therefore how much work remains in the release.Sam Guckenheimer on Technical Debt in [Visual Studio Team Foundation Server 2012: Adopting Agile Software Practices: From Backlog to Continuous Feedback](http://www.amazon.com/gp/product/B00991JRAU/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00991JRAU&linkCode=as2&tag=martinhinshe-20)![](http://ir-na.amazon-adsystem.com/e/ir?t=martinhinshe-20&l=as2&o=1&a=B00991JRAU)
-{ .post-img }
+> { .post-img }
 
 In addition they made some pretty major database changes in 2012.1. That and some automated testing holes that dated back to 2010 caused the team to struggle somewhat under the technical debt that had been built up.
 
 And the net result? If you are currently running 2012.1 or 2012.2 then you should move immediately to 2012.3. With 2012.3 the TFS team have finally gotten **on top of the undone work** and have **paid back most of the technical debt** that had been run up. With the Team Foundation Server 2013 Preview they have gotten ahead of the curve and have perhaps some of the best integrated ALM features on the market today.
 
 The latest fully supported version of Team Foundation Server is 2013… [get it now!](http://nkdagility.com/vs2013Preview/)
-
-

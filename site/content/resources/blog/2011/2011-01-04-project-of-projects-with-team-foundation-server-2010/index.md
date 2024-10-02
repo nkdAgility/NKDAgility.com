@@ -2,10 +2,10 @@
 id: "18"
 title: "Project of Projects with team Foundation Server 2010"
 date: "2011-01-04"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "nwcadence"
@@ -127,5 +127,3 @@ It is really easy to both achieve and to stick to this format if you take the ti
 run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.
 
 **Let me know if you can think of any other things to make this easier.**
-
-

@@ -2,9 +2,9 @@
 id: "34"
 title: "The search for a single point of truth"
 date: "2010-07-07"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "linkedin"
   - "off-topic"
   - "tools"
@@ -17,11 +17,11 @@ slug: "the-search-for-a-single-point-of-truth"
 ![image](images/7b88707dd37e_F009-image_-8-11.png)It may be a trivial matter to get your contacts on your phone, but if you do the social network thing, then you need to do a little jiggery pokery to get everything to sync so you have the same contacts everywhere. Over the last couple of weeks I have vowed to get them sorted.
 { .post-img }
 
-\[Updated 7th July 2010\] – I found a client that works with Outlook 2010 [http://sourceforge.net/projects/syncmldotnet/](http://sourceforge.net/projects/syncmldotnet/ "http://sourceforge.net/projects/syncmldotnet/") 
+\[Updated 7th July 2010\] – I found a client that works with Outlook 2010 [http://sourceforge.net/projects/syncmldotnet/](http://sourceforge.net/projects/syncmldotnet/ "http://sourceforge.net/projects/syncmldotnet/")
 
-* * *
+---
 
-What we want is a “single point of truth” that will suck all of our contacts in and try and make sure that we have no duplicates.  
+What we want is a “single point of truth” that will suck all of our contacts in and try and make sure that we have no duplicates.
 
 ![SNAGHTML2e12b72](images/7b88707dd37e_F009-SNAGHTML2e12b72-17-17.png)
 { .post-img }
@@ -76,7 +76,7 @@ Lets look at a couple of the “sync your contacts” services.
 
 Used to sync with Google, Live and Facebook… now? Nothing…
 
-Its still good for keeping the contacts you do have in there updated, and it is worth checking periodically if people have joined as you will get updated details automatically.  
+Its still good for keeping the contacts you do have in there updated, and it is worth checking periodically if people have joined as you will get updated details automatically.
 
 ![SNAGHTML278f1ba](images/7b88707dd37e_F009-SNAGHTML278f1ba-15-15.png)
 { .post-img }
@@ -140,15 +140,15 @@ Memotoo will let you add any other SyncML server that you want with a nifty form
 
 Memotoo is only £12 for a year, so it is not even that costly. It will even do files, calendar, email, tasks and notes.
 
-Another nice thing that Memotoo does is to allow custom types and it matches your contacts on that basis. There is a field for the Facebook URL and one for LinkedIn. This allows the background sync system to know that it should match your “one way” syncs to there particular contacts. Most of the other services will probably do this behind the scenes, but you cant configure it, nor identify which contact is which without it.  
+Another nice thing that Memotoo does is to allow custom types and it matches your contacts on that basis. There is a field for the Facebook URL and one for LinkedIn. This allows the background sync system to know that it should match your “one way” syncs to there particular contacts. Most of the other services will probably do this behind the scenes, but you cant configure it, nor identify which contact is which without it.
 
 When adding a contact you have the usual Home and Work details, but the real magic happens on the “Other” tab.
 
 ![image](images/7b88707dd37e_F009-image_-12-4.png)  
 { .post-img }
-**Figure: Built-in and added fields**  
+**Figure: Built-in and added fields**
 
-If you have the MSN ID fields filled out that will make sure you don’t get duplicates from you Live Messenger contacts, I assume that it is the same for AIM ID. In the configured fields at the bottom it matches and updated information and pictures from Facebook and LinkedIn buy using the profile URL.  
+If you have the MSN ID fields filled out that will make sure you don’t get duplicates from you Live Messenger contacts, I assume that it is the same for AIM ID. In the configured fields at the bottom it matches and updated information and pictures from Facebook and LinkedIn buy using the profile URL.
 
 ![image](images/7b88707dd37e_F009-image_-4-7.png)  
 { .post-img }
@@ -171,7 +171,7 @@ I have found a SyncML client that does support Outlook 2010, and it is even writ
 { .post-img }
 **Figure: SyncML.NET client will not win a beauty pageant**
 
-[http://sourceforge.net/projects/syncmldotnet/](http://sourceforge.net/projects/syncmldotnet/ "http://sourceforge.net/projects/syncmldotnet/") 
+[http://sourceforge.net/projects/syncmldotnet/](http://sourceforge.net/projects/syncmldotnet/ "http://sourceforge.net/projects/syncmldotnet/")
 
 ### Putting it all together
 
@@ -188,6 +188,3 @@ I am very happy with my contact syncing setup ![Smile](images/7b88707dd37e_F009-
 { .post-img }
 
 Technorati Tags: [Sync](http://technorati.com/tags/Sync),[LinkedIn](http://technorati.com/tags/LinkedIn),[Live](http://technorati.com/tags/Live)
-
-
-

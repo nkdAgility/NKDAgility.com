@@ -2,9 +2,9 @@
 id: "14"
 title: "How Visual Studio 2010 and Team Foundation Server enable Compliance"
 date: "2011-02-09"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "define"
   - "develop"
@@ -30,7 +30,7 @@ slug: "how-visual-studio-2010-and-team-foundation-server-enable-compliance"
 
 One of the things that makes Team Foundation Server (TFS) the most powerful Application Lifecycle Management (ALM) platform is the traceability it provides to those that use it. This traceability is crucial to enable many companies to adhere to many of the Compliance regulations to which they are bound (e.g. [CFR 21 Part 11](http://en.wikipedia.org/wiki/Title_21_CFR_Part_11) or [Sarbanes–Oxley](http://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act).)
 
-* * *
+---
 
 From something as simple as relating Tasks to Check-in’s or being able to see the top 10 files in your codebase that are causing the most Bugs, to identifying which Bugs and Requirements are in which Release. All that information is available and more in TFS.
 
@@ -285,6 +285,3 @@ Although there is some crossover there are still rolls or “hats” that are wo
 
 - **Do you thing this is all achievable?**
 - **Have I missed anything that you think should be there?**
-
-
-

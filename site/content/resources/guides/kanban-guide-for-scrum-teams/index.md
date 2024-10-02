@@ -2,17 +2,17 @@
 title: Kanban Guide for Scrum Teams
 description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
 type: guide
- - /guides/Kanban-Guide-for-Scrum-Teams.html
+  - /guides/Kanban-Guide-for-Scrum-Teams.html
 references:
- - title: The Kanban Guide for Scrum Teams on Scrum.org
-   url: https://scrum.org/resources/kanban-guide-scrum-teams
- - title: Work can flow across the Sprint boundary
-   url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
- - title: No Estimates and is it advisable for a Scrum Team to adopt it?
-   url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
+  - title: The Kanban Guide for Scrum Teams on Scrum.org
+    url: https://scrum.org/resources/kanban-guide-scrum-teams
+  - title: Work can flow across the Sprint boundary
+    url: https://nkdagility.com/blog/work-can-flow-across-sprint-boundary/
+  - title: No Estimates and is it advisable for a Scrum Team to adopt it?
+    url: https://nkdagility.com/blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it/
 recommendedContent:
- - collection: practices
-   path: _practices/service-level-expectation-sle.md
+  - collection: practices
+    path: _practices/service-level-expectation-sle.md
 videos:
 date: 2024-09-17
 author: MrHinsh
@@ -49,7 +49,7 @@ The four basic metrics of flow that Scrum Teams using Kanban need to track are a
 - **Cycle Time**: The amount of elapsed time between when a work item starts and when a work item finishes.
 - **Work Item Age**: The amount of time between when a work item started and the current time. This applies only to items that are still in progress.
 - **Throughput**: The number of work items finished per unit of time.
-  
+
 ### Little’s Law – The Key to Governing Flow
 
 A key tenet governing flow theory is Little’s Law, which is a guideline that establishes the following relationship:
@@ -57,7 +57,6 @@ A key tenet governing flow theory is Little’s Law, which is a guideline that e
 ![Littles Law](https://nkdagility.com/wp-content/uploads/2020/11/naked-agility-littles-law.jpg)
 
 Little’s Law reveals that in general, for a given process with a given throughput, the more things that you work on at any given time (on average), the longer it is going to take to finish those things (on average). If cycle times are too long, the first action Scrum Teams should consider is lowering WIP. Most of the other elements of Kanban are built upon the relationship between WIP and cycle time. Little’s Law also shows us how flow theory relies on empiricism by using flow metrics and data to gain transparency into the historical flow and then using that data to inform flow inspection and adaptation experiments.
-
 
 ## Kanban Practices
 
@@ -72,7 +71,6 @@ Scrum Teams can achieve flow optimization by using the following four practices:
 
 The four Kanban practices are enabled by the Scrum Team’s Definition of Workflow. This definition represents the Scrum Team members’ explicit understanding of what their policies are for following the Kanban practices. This shared understanding improves transparency and enables self-management. Note that the scope of the Definition of Workflow may span beyond the Sprint and the Sprint Backlog. For instance, a Scrum Team‘s Definition of Workflow may encompass flow inside and/or outside of the Sprint. Creating and adapting the Definition of Workflow is the accountability of the relevant roles on the Scrum Team as described in the Scrum Guide. No one outside of the Scrum Team should tell the Scrum Team how to define their Workflow.
 
-
 ### Visualization of the Workflow – the Kanban Board
 
 Visualization using the Kanban board is the way the Scrum Team makes its Workflow transparent. The board’s configuration should prompt the right conversations at the right time and proactively suggest opportunities for improvement. Visualization should include the following:
@@ -82,7 +80,7 @@ Visualization using the Kanban board is the way the Scrum Team makes its Workflo
 - A definition of the workflow states that the work items flow through from start to finish (of which there must be at least one active state).
 - Explicit policies about how work flows through each state (which may include items from a Scrum Team’s Definition of Done and pull policies between stages).
 - Policies for limiting Work in Progress (WIP).
-  
+
 ### Limiting Work in Progress (WIP)
 
 Work in Progress (WIP) refers to the work items the Scrum Team has started but has not yet finished. Scrum Teams using Kanban must explicitly limit the number of these work items in progress. A Scrum Team can explicitly limit WIP however they see fit but should stick to that limit once established. The primary effect of limiting WIP is that it creates a pull system. It is called a pull system because the team starts work (i.e. pulls) on an item only when it is clear that it has the capacity to do so. When the WIP drops below the defined limit, that is the signal to start new work. Note this is different from a push system, which demands that work starts on an item whenever it is requested. Limiting WIP helps flow and improves the Scrum Team’s self-management, focus, commitment, and collaboration.
@@ -98,7 +96,6 @@ Limiting WIP is necessary to achieve flow, but it alone is not sufficient. The t
 ### Service Level Expectation (SLE)
 
 A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team’s Workflow. The Scrum Team uses its SLE to find active flow issues and to inspect and adapt in cases of falling below those expectations. The SLE itself has two parts: a range of elapsed days and a probability associated with that period (e.g., 85% of work items should be finished in eight days or less). The SLE should be based on the Scrum Team’s historical Cycle Time, and once calculated, the Scrum Team should make it transparent. If no historical Cycle Time data exists, the Scrum Team should make its best guess and then inspect and adapt once there is enough historical data to do a proper SLE calculation.
-
 
 ### Inspect and Adapt the Definition of “Workflow”
 

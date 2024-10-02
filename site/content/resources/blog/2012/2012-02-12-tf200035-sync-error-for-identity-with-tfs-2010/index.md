@@ -2,7 +2,7 @@
 id: "4309"
 title: "TF200035 Sync error for identity with TFS 2010"
 date: "2012-02-12"
-tags: 
+tags:
   - "nwcadence"
   - "tf200035"
   - "tfs"
@@ -44,7 +44,7 @@ Date (UTC): 2/3/2012 6:01:27 PM
 Machine: TFS01
 Application Domain: TfsJobAgent.exe
 Assembly: Microsoft.TeamFoundation.Framework.Server, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a; v2.0.50727
-Service Host: 
+Service Host:
 Process Details:
   Process Name: TFSJobAgent
   Process Id: 2128
@@ -83,7 +83,7 @@ Date (UTC): 2/3/2012 6:01:27 PM
 Machine: TFS01
 Application Domain: TfsJobAgent.exe
 Assembly: Microsoft.TeamFoundation.Framework.Server, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a; v2.0.50727
-Service Host: 
+Service Host:
 Process Details:
   Process Name: TFSJobAgent
   Process Id: 2128
@@ -138,8 +138,8 @@ Logon Type:            3
 
 Account For Which Logon Failed:
     Security ID:        S-1-0-0
-    Account Name:        
-    Account Domain:        
+    Account Name:
+    Account Domain:
 
 Failure Information:
     Failure Reason:        An Error occured during Logon.
@@ -156,7 +156,7 @@ Network Information:
     Source Port:        -
 
 Detailed Authentication Information:
-    Logon Process:        Authz   
+    Logon Process:        Authz
     Authentication Package:    Kerberos
     Transited Services:    -
     Package Name (NTLM only):    -
@@ -235,8 +235,8 @@ But in this case it looks for  it looks as if the machine account has become ou
 
 ```
 C:Userstfs_service>netdom reset "tfs01" /domain:companydomain
-The secure channel from TFS01 to the domain COMPANYDOMAIN has 
-been reset.  The connection is with the 
+The secure channel from TFS01 to the domain COMPANYDOMAIN has
+been reset.  The connection is with the
 machine DC01.COMPANYDOMAIN.COM.
 
 The command completed successfully.
@@ -279,9 +279,9 @@ So where next?
 
 Well, one thing to make sure of is that the [TFS 2010 service account has permission to read from the domain](http://billwg.blogspot.com/2008/12/tfs-service-account-requires-read.html), but it unusual to have this problem as this is the default for accounts in AD. If you have a more locked down configuration it may be something you need to look at.
 
-One of my colleagues (Rennie) thought that if the Active Directory Domain Services have not been maintained properly (this is a very small company with no real AD skills in-house) then they may have lost one or more of their domain roles. Specifically the PDC Emulation role. 
+One of my colleagues (Rennie) thought that if the Active Directory Domain Services have not been maintained properly (this is a very small company with no real AD skills in-house) then they may have lost one or more of their domain roles. Specifically the PDC Emulation role.
 
- [![image](images/image_thumb-4-4.png "image")](http://blog.hinshelwood.com/files/2012/02/image.png)  
+[![image](images/image_thumb-4-4.png "image")](http://blog.hinshelwood.com/files/2012/02/image.png)  
 { .post-img }
 **Figure: It looks like the PDC Emulation role is OK**
 
@@ -289,19 +289,19 @@ This was definitely worth a check, and while it was OK, I did notice something t
 
 > This is a Windows 2000 Domain Controller!
 
-Now that I know that a whole host more potential issues rear their ugly heads. 
+Now that I know that a whole host more potential issues rear their ugly heads.
 
-So, now to check that Windows 2000 Service Pack 4 is installed but who knows which hotfix level if any, and what about bugs that were only fixed in later versions of the OS! 
+So, now to check that Windows 2000 Service Pack 4 is installed but who knows which hotfix level if any, and what about bugs that were only fixed in later versions of the OS!
 
 Pha! (throws up hands in disgust)  Is Windows 2000 domains even supported in TFS?
 
 > Team Foundation Server is supported in the following Active Directory modes and functional levels:
-> 
+>
 > - Windows 2000 Active Directory in native mode.
 > - Windows Server 2003 Active Directory in Windows 2000 native mode.
 > - Windows Server 2003 Active Directory in Windows Server 2003 functional level.
 > - Windows Server 2003 R2 in Windows Server 2003 R2 Active Directory forest functional level.
-> 
+>
 > \-[Trusts and Forests Considerations for Team Foundation Server](http://msdn.microsoft.com/en-us/library/ms253081.aspx), MSDN
 
 What do you know, it is supported (somewhat)
@@ -323,7 +323,7 @@ While on the Domain Controller I also noticed Event ID 1789 in the event log tha
 
 After all of those steps and spelunking I only have one error message left. The one that started it all… the TF200035… and I can’t seam to get it to talk to Active Directory.
 
-One thing you may want to try is using TfsSecurity.exe to check wither the accounts are in sync. This can be done easily and there are two things I want to check. First the TFS\_Service account:
+One thing you may want to try is using TfsSecurity.exe to check wither the accounts are in sync. This can be done easily and there are two things I want to check. First the TFS_Service account:
 
 ```
 C:Program FilesMicrosoft Team Foundation Server 2010Tools>TfsSecurity /server
@@ -365,7 +365,7 @@ Done.
 
 ```
 
-**Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx companydomaintfs\_service**  
+**Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx companydomaintfs_service**
 
 And second is the machine account:
 
@@ -403,7 +403,7 @@ Done.
 
 ```
 
-**Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx compnaydomaintfs01$**  
+**Figure: TfsSecurity /server :http://tfs01:8080/tfs /imx compnaydomaintfs01$**
 
 Dag-namit, but I was hoping for some sort of help here! Everything looks just fine except for not being able ot query AD. This is looking more and more like a… “someone ticked a box 7 years ago in AD and no one remembers where or why problem”.
 
@@ -446,5 +446,3 @@ In saying that this may not even be the problem!
 - [TFS Install Guide](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=24337)
 
 Have fun….
-
-

@@ -2,7 +2,7 @@
 id: "60"
 title: "Do you know the minimum builds to create on any branch?"
 date: "2010-03-18"
-tags: 
+tags:
   - "automated-build"
   - "ssw"
   - "tfs-build"
@@ -22,7 +22,7 @@ When creating projects one of the only ways that you have of proving that it wor
 
 Updated 29th March 2010: I was missing an intro for this one.
 
-* * *
+---
 
 You should always have three builds on your team project. These should be setup and tested using an empty solution before you write any code at all.
 
@@ -44,15 +44,12 @@ Note: We do not run all the tests every time because of the time consuming natur
 
 Note: If you had a really large project with thousands of tests including long running Load tests you may need to add a Weekly build to the mix.
 
- ![image](images/Doyouknowtheminimumbuildstocreate_CABD-image_-5-5.png)  
+![image](images/Doyouknowtheminimumbuildstocreate_CABD-image_-5-5.png)  
 { .post-img }
 **Figure: Bad example, you can’t tell what these builds do if they are in a larger list**
 
- ![image](images/Doyouknowtheminimumbuildstocreate_CABD-image_-4-4.png)  
+![image](images/Doyouknowtheminimumbuildstocreate_CABD-image_-4-4.png)  
 { .post-img }
 **Figure: Good example, you know exactly what project, branch and type of build these are for.**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [SSW Rules](http://technorati.com/tags/SSW+Rules) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [VS 2010](http://technorati.com/tags/VS+2010)
-
-
-

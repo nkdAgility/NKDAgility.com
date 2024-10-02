@@ -2,9 +2,9 @@
 id: "268"
 title: "Returning an Anonymous type..."
 date: "2008-01-07"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "process"
 coverImage: "metro-binary-vb-128-link-2-1.png"
@@ -54,6 +54,3 @@ The use of this is very simple, although I would like an option other than to re
 There is no intellisense with this, so you have to know what the options are. Hopefully in future versions this will be rectified.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

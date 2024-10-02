@@ -2,7 +2,7 @@
 id: "388"
 title: "SharePoint 3.0 TFS Sub-Site creation error."
 date: "2007-06-07"
-tags: 
+tags:
   - "sharepoint"
   - "sp2007"
   - "spf2010"
@@ -73,7 +73,7 @@ Now, I am not sure if the problem is the creation of the site, or if it created 
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.Execute(ProjectCreationContext context, XmlNode taskXml)  
 >    at Microsoft.VisualStudio.TeamFoundation.ProjectCreationEngine.TaskExecutor.PerformTask(IProjectComponentCreator componentCreator, ProjectCreationContext context, XmlNode taskXml)  
 >    at Microsoft.VisualStudio.TeamFoundation.ProjectCreationEngine.RunTask(Object taskObj)  
-> \--   Inner Exception   -- 
+> \--   Inner Exception   --
 > Exception Type: System.Web.Services.Protocols.SoapException  
 > Exception Message: Exception of type 'Microsoft.SharePoint.SoapServer.SoapServerException' was thrown.  
 > SoapException Details: <detail><errorstring xmlns="http://schemas.microsoft.com/sharepoint/soap/"\>Another site already exists at http://\[server\]:8888. Delete this site before attempting to create a new site with the same URL, choose a new URL, or create a new inclusion at the path you originally specified.</errorstring></detail>  
@@ -83,7 +83,7 @@ Now, I am not sure if the problem is the creation of the site, or if it created 
 >    at Microsoft.TeamFoundation.Proxy.Portal.Admin.CreateSite(String Url, String Title, String Description, Int32 Lcid, String WebTemplate, String OwnerLogin, String OwnerName, String OwnerEmail, String PortalUrl, String PortalName)  
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.CreateSite(WssSiteData siteCreationData, ProjectCreationContext context)  
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.Execute(ProjectCreationContext context, XmlNode taskXml)  
-> \-- end Inner Exception -- 
+> \-- end Inner Exception --
 > \--- end Exception entry ---
 
 I have 3 question that you may be able to help me with:
@@ -93,6 +93,3 @@ I have 3 question that you may be able to help me with:
 - **Or, even, what is the problem?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

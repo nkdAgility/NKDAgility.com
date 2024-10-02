@@ -2,9 +2,9 @@
 id: "423"
 title: "Free Online training from Microsoft"
 date: "2007-03-27"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs2010"
   - "tools"
@@ -32,6 +32,3 @@ I picked:
 Just for fun!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

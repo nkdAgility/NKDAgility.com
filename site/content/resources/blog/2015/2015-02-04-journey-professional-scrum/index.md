@@ -2,9 +2,9 @@
 id: "11115"
 title: "My journey into Professional Scrum"
 date: "2015-02-04"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "business-agility"
   - "psd"
@@ -62,5 +62,3 @@ What works well for the team does not necessarily work well for the rest of the 
 Scrum is but a framework around which your team can build the processes, practices, and tools that best suit your organisation, its strategy, its people, and its customers. That’s why it’s a framework and not a methodology. That same framework, along with evidence-based techniques can be used at the organisational level to incrementally and continuously move your organisation down the path to greater business agility. This is not a path along which we know our destination, but with a rough strategic vision we can keep moving in the right direction and occasionally consulting the compass. I recently attended the trainer-prep of the Scaling Professional Scrum workshop and found it enlightening in enshrining that understanding of "no one size fits all" when it comes to agility.
 
 These are the things that I have learned with Professional Scrum. What have you learned?
-
-

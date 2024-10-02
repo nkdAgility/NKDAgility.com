@@ -37,7 +37,7 @@ While this workshop can be used on its own, it was designed to be used as part o
 
 # Purpose
 
-The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog. 
+The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. Any insights insights, ideas, and changes that result from this inspection should be immediately reflected in the Product Backlog.
 
 The Sprint Review is about answering the question: “Based on what we learned this Sprint, and what happened in the business, what are the next steps?”. This provides valuable input for Sprint Planning.
 
@@ -60,7 +60,7 @@ Create an instance of the Mural template above and add to it **Product Vision**,
 
 # Facilitation Steps
 
-## Part 1: Introduction & Working Agreement [20  min] _(Optional)_
+## Part 1: Introduction & Working Agreement [20 min] _(Optional)_
 
 Whenever you bring a group of people together, make sure to start by clarifying the purpose of your time together. While also making sure to announce this up front (in invitations and e-mails), start by reiterating the purpose of the Sprint Review (see above) as well as the purpose of this Sprint as captured in a Sprint Goal.
 
@@ -75,7 +75,6 @@ In three rounds, participants partner up with someone else and take 2-minute tur
 As the rounds progress, invite participants to note patterns, similarities, and differences. After the three rounds are completed, ask the group to briefly share the most important patterns they noticed.
 
 The invitation for [Impromptu Networking](../_technologies/liberating-structures/impromptu-networking.md) specifically ties the conversation to the Sprint Goal. If you find yourself in a Scrum Team without Sprint Goals, you can also ask ‘Based on the Sprint'. But keep in mind that working without Sprint Goals makes it very hard to work empirically and effectively as a Scrum Team.
-
 
 ## Part 3: Shift & Share [40 min]
 
@@ -113,4 +112,4 @@ When everyone is done, give participants the opportunity to briefly share and re
 
 ## Part 6: Closing
 
-Close the Sprint Review by reiterating the purpose as well as the highlights that emerged. This is also an excellent opportunity to thank everyone who participated in the inspection and encourage them to join again for the next Sprint Review. 
+Close the Sprint Review by reiterating the purpose as well as the highlights that emerged. This is also an excellent opportunity to thank everyone who participated in the inspection and encourage them to join again for the next Sprint Review.

@@ -2,10 +2,10 @@
 id: "44487"
 title: "Online is the new co-located"
 date: "2020-11-16"
-categories: 
+categories:
   - "agility"
   - "people-and-process"
-tags: 
+tags:
   - "featured"
   - "leadership-track"
   - "scrum-theory"
@@ -56,7 +56,7 @@ Physical Team Room
 Have you ever been able to tell exactly what the car in front of you will do next when you are driving?
 
 > When I was a teenager I was in the car with my grandfather and he said: "You need to keep your eyes on all of the cars so that you know what they are going to do". I scoffed at that idea, but then he said: "See that car, it's going to change lane". I scoffed again, but then looked on in incredulous wonder as the car moved. I could not understand how my grandfather knew, but now that I am a drive I do the same all of the time.
-> 
+>
 > \-Jessica Baez Calderin, Strategic Director, naked Agility with Martin Hinshelwood
 
 When we are driving we have a learned understanding of driver intent that is built over years of driving experience so that we know when the car in front is going to change lane even before the signal, and especially when they don't.
@@ -102,7 +102,7 @@ While we need to re-define co-located for the general usage of the word I have a
 
 > **Co-Location:**  
 > Co-location is a complimentary agile practice where all members of the same Scrum Team work daily in the same room, within visual sight of each other.
-> 
+>
 > \-[Martin Hinshelwood: What is your perspective on collocation?](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/)
 
 This definition encompasses both in-person and virtual events as long as we can see everyone. We need to see folks express and posture in order to gain a greater degree of transparency over what they are thinking, how they are absorbing the information and how we need to adapt the material to increase understanding. How do you expect the facilitator to understand what you as a participant get or don't without being able to see you?
@@ -124,7 +124,7 @@ For 2020 I would like to update my own definition of co-location to be more incl
 
 > **Co-Location:**  
 > Every member of the team can see every other member of the team's posture and expression.
-> 
+>
 > \-Martin Hinshelwood, 2020
 
 ## Participation requires Presence
@@ -182,5 +182,3 @@ So if you are participating in a video conference:
 All of this together will create the transparency required by your host and co-participants to see your participation, how you are reacting, and modify the event to make it better.
 
 If you don't want or can't have your camera on it would be better for you and the facilitator that you attend an in-person event.
-
-

@@ -2,9 +2,9 @@
 id: "9495"
 title: "TFS Integration Tools - Issue: unable to find a unique local path"
 date: "2013-05-13"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "kb"
   - "puzzles"
   - "tfs-11"
@@ -51,5 +51,3 @@ Figure: ![](images/metro-icon-cross-1-1.png)Bad example, chance of collision is 
 Reduce the number of mappings by grouping them. You still want to include all of the things within a branch structure together, but make sure that you have distinct names.
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/tfs-integration-tools-issue-unable-to-find-a-unique-local-path/))_
-
-

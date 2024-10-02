@@ -2,7 +2,7 @@
 id: "392"
 title: "TFS Gotcha (Exception Handling)"
 date: "2007-05-30"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog
@@ -18,7 +18,7 @@ If you want to handle this exception accross [Windows Communication Foundation](
 <DataContract()> \_  
 Public Class TeamFoundationServerUnauthorizedException
 
-  Public Sub New()  
+Public Sub New()  
     ...  
   End Sub
 

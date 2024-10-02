@@ -2,7 +2,7 @@
 id: "332"
 title: "Team Foundation Server Error TF30177 : Team Project Creation Failed"
 date: "2007-08-14"
-tags: 
+tags:
   - "ml"
   - "tfs"
   - "tools"
@@ -55,7 +55,7 @@ Save (or just view) the resultant XML so you can have a look at it. There are tw
 >   <RegistrationExtendedAttributes />
 > </RegistrationEntry>
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 The second is the is the WSS section that is in the same format.
@@ -65,10 +65,10 @@ Now, we have established that \[serverName\] will not work so we will have to u
 1. Create an XML file called RSRegister.xml with just the xml above.
 2. Modify the server name from \[serverName\] to the FQDN of the server and save it.
 3. on the TFS server you need to open a command prompt and execute the following:
-    1. `iisreset /stop`
-    2. `cd "%programfiles% Microsoft Visual Studio 2005 Team Foundation ServerTools"`
-    3. `TFSReg.exe RSRegister.xml [yourDataTierServerName`\]
-    4. i`isreset /start`
+   1. `iisreset /stop`
+   2. `cd "%programfiles% Microsoft Visual Studio 2005 Team Foundation ServerTools"`
+   3. `TFSReg.exe RSRegister.xml [yourDataTierServerName`\]
+   4. i`isreset /start`
 4. Then call the web service above to make sure that the settings are correct.
 
 You can repeat this for the WSS (Windows Sharepoint Services) section.
@@ -76,6 +76,3 @@ You can repeat this for the WSS (Windows Sharepoint Services) section.
 All done and TFS should work. Although it is worth noting that in my company environment I could then no longer create projects from the TFS App server itself as \[serverName\] works but the FQDN did not. Typical...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

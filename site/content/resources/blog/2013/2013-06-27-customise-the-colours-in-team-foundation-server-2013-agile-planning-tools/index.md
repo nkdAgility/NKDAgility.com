@@ -2,10 +2,10 @@
 id: "9682"
 title: "Customise the colours in Team Foundation Server 2013 Agile Planning Tools"
 date: "2013-06-27"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
-tags: 
+tags:
   - "agile-planning-tools"
   - "agile-portfolio-management"
   - "code"
@@ -76,5 +76,3 @@ All we need to do is edit the colour codes and then import (upload) the process 
 Figure: Lovely pink PBI’s
 
 And voilà you now have just what you always wanted… pink PBI’s.
-
-

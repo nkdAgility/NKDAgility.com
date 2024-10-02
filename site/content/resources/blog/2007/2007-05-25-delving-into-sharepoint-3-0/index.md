@@ -2,7 +2,7 @@
 id: "396"
 title: "Delving into SharePoint 3.0"
 date: "2007-05-25"
-tags: 
+tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -17,6 +17,3 @@ I was very surprised to find  that this new version is quite good. I will event
 I will let you know how I get on with the rest of the configuration. I am really looking forward to WF in SharePoint...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
-
-
-

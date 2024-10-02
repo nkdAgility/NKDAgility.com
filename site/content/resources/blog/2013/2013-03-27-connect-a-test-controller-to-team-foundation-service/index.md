@@ -2,9 +2,9 @@
 id: "9348"
 title: "Connect a Test Controller to Team Foundation Service"
 date: "2013-03-27"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "operational"
@@ -84,5 +84,3 @@ However after a little perseverance and clicking at just the right time to get o
 Now that we are configured we can head over to Microsoft Test Manager, switch to the Lab Centre and configure an environment.
 
 What did you do with your environments connected to TF Service?
-
-

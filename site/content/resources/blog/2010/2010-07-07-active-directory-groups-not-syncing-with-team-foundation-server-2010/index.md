@@ -2,7 +2,7 @@
 id: "32"
 title: "Active Directory Groups not Syncing with Team Foundation Server 2010"
 date: "2010-07-07"
-tags: 
+tags:
   - "codeproject"
   - "ssw"
   - "tfs"
@@ -17,11 +17,11 @@ slug: "active-directory-groups-not-syncing-with-team-foundation-server-2010"
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.
 { .post-img }
 
- 
+
 
 Updated 27th July 2010 – SOLUTION - Craig Harry spoke to a couple of the product team guys for both TFS and Active Directory and they came up with a temporary solution.
 
-* * *
+---
 
 Although we do not have a high turnover of core staff, we take on a lot of developers for Work Experience and we now have three guys in the root Project Collection Administrators when we already have an Active Directory group the are in added at this level.
 
@@ -53,23 +53,23 @@ The first thing to look at is the Event Log, but as you can see there are rather
 You can see the hourly “TFS Services” errors, and in fact they reoccur every 24 hours. If you check the 3071 error you will see that the core error is TF53010 that is caused by a timeout in the “Team Foundation Server Identity Synchronization job”.
 
 > The description for Event ID 3071 from source TFS Services cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
-> 
+>
 > If the event originated on another computer, the display information had to be saved with the event.
-> 
+>
 > The following information was included with the event:
-> 
+>
 > TF53010: The following error has occurred in a Team Foundation component or extension: Date (UTC): 7/07/2010 1:38:49 PM Machine: BASALISK Application Domain: TfsJobAgent.exe Assembly: Microsoft.TeamFoundation.Framework.Server, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a; v2.0.50727 Service Host: fba54aae-87d6-47bf-a192-0e58693b9ade (TEAM FOUNDATION) Process Details: Process Name: TFSJobAgent Process Id: 7976 Thread Id: 9136 Account name: NT AUTHORITYNETWORK SERVICE
-> 
+>
 > Detailed Message: The Team Foundation Server Identity Synchronization job has timed out. Please restart the job service.
-> 
+>
 > the message resource is present but the message is not found in the string/message table **\-Event Log entry from TFS Server**
 
 The next thing you want to look for is the job definition. Is it there and is it configured correctly. To do this you need to run some SQL on your TFS server. Please remember that you loose support if you make changes to the data without the aid of MSFT Support. Note that I am not doing this alone, Mr Craig Harry MSFT has my back on this one.
 
 ```
-USING tfs_Configuration 
-SELECT TOP 1000 *  
-FROM [Tfs_Configuration].[dbo].[tbl_JobDefinition] 
+USING tfs_Configuration
+SELECT TOP 1000 *
+FROM [Tfs_Configuration].[dbo].[tbl_JobDefinition]
 WHERE JobId='544DD581-F72A-45A9-8DE0-8CD3A5F29DFE'
 ```
 
@@ -84,9 +84,9 @@ Looks OK to me, and as I understand it is normal for the LastExecution to be NUL
 The next thing to check is the history for the Job runs.
 
 ```
-USING tfs_Configuration 
+USING tfs_Configuration
 SELECT TOP 1000 *
-FROM [Tfs_Configuration].[dbo].[tbl_JobHistory] 
+FROM [Tfs_Configuration].[dbo].[tbl_JobHistory]
 WHERE JobId='544DD581-F72A-45A9-8DE0-8CD3A5F29DFE'
 ```
 
@@ -107,8 +107,8 @@ The job agent is located in “C:Program FilesMicrosoft Team Foundation Server 2
   <!--To enable tracing to file, simply uncomment listeners section and set trace switch(es) below.
       Directory specified for TextWriterTraceListener output must exist, and job agent service account must have write permissions. -->
   <!--<listeners>
-    <add name="myListener" 
-      type="System.Diagnostics.TextWriterTraceListener" 
+    <add name="myListener"
+      type="System.Diagnostics.TextWriterTraceListener"
       initializeData="C:tempjobagent.log" />
     <remove name="Default" />
   </listeners>-->
@@ -177,7 +177,3 @@ If you remove the “BUILTINAdministrators” group from the “Team Foundation 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010)
-
-
-
-

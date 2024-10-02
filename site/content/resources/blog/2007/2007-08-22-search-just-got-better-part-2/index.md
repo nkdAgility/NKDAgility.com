@@ -2,7 +2,7 @@
 id: "322"
 title: "Search just got better: Part 2"
 date: "2007-08-22"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -21,6 +21,3 @@ Below you can see an example of the search results, and you should be able to pl
 Have you seen any other search visualization website's? Let me know...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

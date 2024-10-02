@@ -2,9 +2,9 @@
 id: "11361"
 title: "Big Scrum: All you need and not enough"
 date: "2015-07-01"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "ndc"
   - "scaled-agile"
@@ -39,7 +39,5 @@ To support scaling Scrum you need to have many Professional Scrum Teams working 
 At the end of the session I highlighted a small number of additional, but optional, practices that make scaling a lot easier. These practices only scratch the surface of what is presented in Scrum.org's new Scaled Professional Scrum course, but they are representative of practices that we know, from experience, you need to build software big.
 
 > ## Big Scrum: All you need and not enough
-> 
+>
 > The proliferation of scaling frameworks shows there are real challenges in scaling agility, and the solutions don’t seem to involve inventing yet more frameworks or formal processes. So then, why is it so hard to find success in agility at scale? Large scale agility can be found in exploiting Scrum’s simplicity while emerging and sustaining technical excellence. Something that sounds so easy shouldn't be so hard, and for some it isn't. This session highlights successes in growing large scale agility using Big Scrum while maintaining technical excellence to deliver value faster.
-
-

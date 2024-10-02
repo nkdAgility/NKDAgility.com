@@ -2,9 +2,9 @@
 id: "249"
 title: "TFS Sticky Buddy layout fun..."
 date: "2008-02-11"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "develop"
   - "infrastructure"
@@ -43,13 +43,10 @@ I will try to release these two versions along with the source code today, but j
 
 I want to have nice little callouts of information when you move your mouse over a work item or Area/Iteration, and I am continuing to work on it....
 
- 
 
- 
+
+
 
 [Technorati Profile](http://technorati.com/claim/vbgrtargkp)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [WPF](http://technorati.com/tags/WPF)
-
-
-

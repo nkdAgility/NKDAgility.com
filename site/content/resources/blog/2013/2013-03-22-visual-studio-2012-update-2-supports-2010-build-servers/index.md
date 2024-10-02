@@ -2,10 +2,10 @@
 id: "9336"
 title: "Visual Studio 2012 Update 2 supports 2010 Build Servers"
 date: "2013-03-22"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "operational"
@@ -51,7 +51,7 @@ Simples…
 
 ## Connect new TFS 2010 Build Agent to TFS 2012
 
-You can have Team Foundation Build 2010 installed on any [operating system that supports it](http://msdn.microsoft.com/en-us/library/vstudio/dd578592(v=vs.100).aspx) which includes 32bit Windows Server 2003. If you have existing TF Build 2010 instances and you are doing either an in-place upgrade or you use a friendly name to connect then you need do nothing and everything will work seamlessly after the upgrade.
+You can have Team Foundation Build 2010 installed on any [operating system that supports it](<http://msdn.microsoft.com/en-us/library/vstudio/dd578592(v=vs.100).aspx>) which includes 32bit Windows Server 2003. If you have existing TF Build 2010 instances and you are doing either an in-place upgrade or you use a friendly name to connect then you need do nothing and everything will work seamlessly after the upgrade.
 
 If however you are moving your TFS server to new hardware, always recommended  for major version upgrades, then you will need to reconfigure your Build Controller and Agents to talk to the new server URL.
 
@@ -110,5 +110,3 @@ Now I can choose wither to send my build to my 2010 build system or my 2012 one.
 This is one of the major features of Team Foundation Server 2012 Update 2. I know that it looks like a little fix, but I have customers that were thinking that they would never be able to upgrade to TFS 2012. If your TFS server is managed by a central corporate IT department and you have many business units using it can they all take the time to upgrade all of their Custom Activities, Build Workflows and Servers all at once?
 
 Well now they don’t have to. There is no longer any excuse not to upgrade to TFS 2012 Update 2 now!
-
-

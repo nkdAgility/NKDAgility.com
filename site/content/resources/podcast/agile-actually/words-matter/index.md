@@ -2,12 +2,12 @@
 id: "49588"
 title: "Words matter."
 date: "2023-06-29"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
 type: "nkdresources"
 slug: "words-matter"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

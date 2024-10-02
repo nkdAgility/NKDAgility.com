@@ -2,9 +2,9 @@
 id: "8949"
 title: "Team Foundation Build 2012 Issue - The target CleanWorkspacePackageTempDir does not exist"
 date: "2012-10-20"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "azure"
   - "infrastructure"
   - "mvc"
@@ -96,5 +96,3 @@ It looks like the CleanWorkspacePackage, CleanWorkspacePackageTempDir and CleanW
 So we can now use the following without the “DependsOnTargets” directive:
 
 This should solve the problem permanently, but make sure you test your application thoroughly…
-
-

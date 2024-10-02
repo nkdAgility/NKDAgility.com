@@ -2,9 +2,9 @@
 id: "10526"
 title: "Configuring Jenkins to talk to TFS 2013"
 date: "2014-05-07"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "java"
   - "jenkins"
   - "migration"
@@ -94,5 +94,3 @@ Things we loose by not using TF Build:
 - **Manual Tests associated with a Build** – If test results are associated with a build you can see, dynamically, the current state of your test plan, build on build.
 
 If you only get your Source into TFS then that is just the first step. A necessary one, but only the first.
-
-

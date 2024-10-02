@@ -2,7 +2,7 @@
 id: "4025"
 title: "Creating a backup in Team Foundation Server 2010 using the Power Tools"
 date: "2011-11-04"
-tags: 
+tags:
   - "nwcadence"
   - "tf254027"
   - "tfs"
@@ -29,7 +29,7 @@ Well, you could, but as TFS has a lot of moving parts it can get very complicate
 > 9. [Create a Maintenance Plan For Differential Backups](http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateMPDiff)
 > 10. [Create a Maintenance Plan For Transaction Backups](http://msdn.microsoft.com/en-us/library/ms253070.aspx#CreateMP)
 > 11. [Back Up Additional Lab Management Components](http://msdn.microsoft.com/en-us/library/ms253070.aspx#LabComponents)
-> 
+>
 > **\-From "Back Up Team Foundation Server" on MSDN**
 
 There are a heck of a lot of databases that, depending on your environment, might be spread over your entire network.
@@ -53,12 +53,12 @@ Once you learn how to Google without keywords and read your servers mind you wil
 
 ### Error #1- TF254027
 
-I initially got an error because the accounts did not really have full control over the target location. This is a problem with the share. Although I have full permission for [fileserver1ShareTFSBackups](file://fileserver1ShareTFSBackups ) it is just a folder under the [fileserver1Share](file://fileserver1folder" data-mce-href=) location and I DO NOT have permission to change the sharing settings there.
+I initially got an error because the accounts did not really have full control over the target location. This is a problem with the share. Although I have full permission for [fileserver1ShareTFSBackups](file://fileserver1ShareTFSBackups) it is just a folder under the [fileserver1Share](file://fileserver1folder" data-mce-href=) location and I DO NOT have permission to change the sharing settings there.
 
 ![image](images/image1-1-1.png "image") **Figure: TF254027 is caused by permission issues**
 { .post-img }
 
- 
+
 
 ```
 [Info   @16:36:34.342] Granting account ROOT_COMPANYtfssqlbox$ permission on folder <a href="file://fileserver1folderTFSBackups[Info">fileserver1ShareTFSBackups [Info</a>   @16:36:34.348] System.UnauthorizedAccessException: Attempted to perform an unauthorized operation.
@@ -85,7 +85,7 @@ Lets try this again with a share that we control. I will create a backup share o
 ![image](images/image2-2-2.png "image") **Figure: The next Error looks the same, but it is subtly different**
 { .post-img }
 
- 
+
 
 ```
 [Info   @18:12:05.813] "Verify: Grant Backup Plan PermissionsRootVerifyBackupPathPermissionsGrantedSuccessfully(VerifyBackupPathPermissionsGrantedSuccessfully): Exiting Verification with state Completed and result Success"
@@ -189,6 +189,4 @@ After I have hastily changed the service account back to the original value and 
 
 - [Dynamically Set SPN's for SQL Service Accounts](http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html)
 
-So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root\_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.
-
-
+So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.

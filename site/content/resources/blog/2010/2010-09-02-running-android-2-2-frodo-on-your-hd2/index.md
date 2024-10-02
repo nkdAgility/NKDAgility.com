@@ -2,9 +2,9 @@
 id: "29"
 title: "Running Android 2.2 (Frodo) on your HD2"
 date: "2010-09-02"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "android"
   - "mobile"
   - "off-topic"
@@ -25,11 +25,9 @@ While I wait to get my hands on Windows Phone 7 I would rather use Android than 
 
 - **Update: 8th September 2010** – Make sure that you have HSPL 2 and Radio 2.12.\* installed otherwise you may encounter freezing when you phone wakes from standby.
 - **Update: 8th September 2010** – You may also want to get a hold of SetCPU to change the 800mhz cap on your device. make sure you are careful though as increasing the min cap can reduce battery life.  
-    [http://www.xda-developers.com/android/setcpu-for-android-root-users/](http://www.xda-developers.com/android/setcpu-for-android-root-users/ "http://www.xda-developers.com/android/setcpu-for-android-root-users/")
+   [http://www.xda-developers.com/android/setcpu-for-android-root-users/](http://www.xda-developers.com/android/setcpu-for-android-root-users/ "http://www.xda-developers.com/android/setcpu-for-android-root-users/")
 
-  
-
-* * *
+---
 
 Running Android on your HD2 is not the easiest thing to wrap your head around. Basically you start Android from Windows, but it turns off Windows Mobile during the process. This means that you can start any version of Android, or even Ubuntu you want.
 
@@ -45,7 +43,7 @@ If you are going down this road then you are going to have to accept that there 
 
 Once you have it downloaded you need to copy it to SD card. It is best to keep each version in its own folder so you can easily switch if you are not happy with the new one.
 
- ![SNAGHTML147d31d](images/RunningAndroid2.2FroDoonyourHD2_89C9-SNAGHTML147d31d-7-7.png)  
+![SNAGHTML147d31d](images/RunningAndroid2.2FroDoonyourHD2_89C9-SNAGHTML147d31d-7-7.png)  
 { .post-img }
 **Figure: Always keep the old version around until you are happy**
 
@@ -76,7 +74,7 @@ Once you start Android you will have to wait for a while ![Smile](images/Running
 
 If you notice the message “failed to find rootfs.img on SD card” then you probably have an issue. Similarly if you notice that your phone has been “Booting” for over 30 minutes its probably configured incorrectly. If this is the case then you should retry and watch the boot sequence. You will see an “Error with XXX” or a “Could not access XXX” and just Google the exact message to find the problem. This is why I went back to using just the “Android” folder.
 
- ![Android4](images/RunningAndroid2.2FroDoonyourHD2_89C9-Android4_-2-2.png)  
+![Android4](images/RunningAndroid2.2FroDoonyourHD2_89C9-Android4_-2-2.png)  
 { .post-img }
 **Figure: Running Android on your HD2 is very nice on the 4.2” screen.**
 
@@ -85,6 +83,3 @@ I really do like Android, and if Windows Phone 7 does not live up to its expecta
 Running Android on my HD2 is such a superior experience that Windows Phone 7 will need to be almost perfect beat it; I really hope it is…
 
 Technorati Tags: [Android](http://technorati.com/tags/Android),[HD2](http://technorati.com/tags/HD2),[WM6](http://technorati.com/tags/WM6)
-
-
-

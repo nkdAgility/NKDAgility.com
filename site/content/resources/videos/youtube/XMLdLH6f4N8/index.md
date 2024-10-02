@@ -13,7 +13,7 @@ isShort: False
 
 # nkdAgility Healthgrades Interview Katherine Maddox
 
-When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create. 
+When you are teaching over 150 people at an organisation it is important that your Trainer fits with the culture that you are trying to create.
 
 See what Katherine, Healthgrades lead Scrum Master, has to say about the training and the trainer.
 

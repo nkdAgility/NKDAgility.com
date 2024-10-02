@@ -2,10 +2,10 @@
 id: "4092"
 title: "The Sprint is a container for Planning and not necessarily for Delivery"
 date: "2011-11-29"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "sprint-planning"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -28,19 +28,12 @@ Let me ask you a question;
 It does say that you should be meeting your definition of done for each PBI and at least each Sprint. As your definition of done is the quality bar set by the Development Team and negotiated with the Product Owner, what is to stop you having the following DoD:
 
 - Acceptance Tests have been turned into Test Cases
-    
 - Functional Tests have been turned into Test Cases
-    
 - Code coverage percentage is the same or better than the last build
-    
 - All Tests Cases pass
-    
 - All Test Cases have been turned into Coded UI Tests
-    
 - Deployed to QA and full automated test suit run
-    
 - **Deployed to Production**
-    
 
 If you are deploying to production every Sprint and even for every PBI then you are one step away from doing it for every build, which is Continuous Deployment. Does Scrum say that you can't do this? Hell no, it encourages it without mandating it. As long as you meet a [simple measurable checklist](http://blog.hinshelwood.com/are-you-doing-scrum-really/), you can say that you are doing Scrum.
 
@@ -56,22 +49,14 @@ There are only a few organisations that have mastered Continuous Delivery, but t
 But if you do want to get there, or at least take a journey down that road and see how far you want to go then there are things that must happen. There are waypoints along the road and provide a simple guide to your maturity in this area:
 
 - Automated Build
-    
 - Build Verification Tests
-    
 - Automated Acceptance Tests
-    
 - Automated Functional Tests
-    
 - Automated Unit Tests
-    
 - Automated Deployment
-    
 
 Only once you have all of these thing should you then be thinking of what more do you need for your software in your environment to be able to successfully deploy your software to production and be happy that you have met the correct quality level to achieve this.
 
 I never tell teams that you MUST do a thing but instead encourage them to do the right thing for their organisation in a journey to build better software.
 
 Now, that is something that we can all aspire to.
-
-

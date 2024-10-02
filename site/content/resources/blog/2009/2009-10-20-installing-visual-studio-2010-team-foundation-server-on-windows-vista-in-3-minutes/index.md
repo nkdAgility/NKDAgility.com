@@ -2,7 +2,7 @@
 id: "84"
 title: "Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes"
 date: "2009-10-20"
-tags: 
+tags:
   - "aggreko"
   - "codeproject"
   - "tfs"
@@ -47,10 +47,3 @@ Total install time: 3 minutes (which includes the time to take these screenshots
 Now that I have TFS2010 installed I will need to [configure](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) it...
 
 Technorati Tags: [CodeProject](http://technorati.com/tags/CodeProject) [ALM](http://technorati.com/tags/ALM) [Visual Studio](http://technorati.com/tags/Visual+Studio) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2010](http://technorati.com/tags/TFS+2010)
-
-
-
-
-
-
-

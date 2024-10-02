@@ -2,7 +2,7 @@
 id: "3383"
 title: "How might we implement the Change Iteration Automation for the Tfs Automation Platform"
 date: "2011-06-01"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -24,15 +24,13 @@ As we get organised to start development on the Tfs Automation Platform there is
 
 > “Epic 1: As Dave or Gary I want WIQL queries to be automatically updated when I move from iteration to iteration+1 or sprint to sprint+1”
 
-  
-
 ## Updates (in purple)
 
 - **2011-06-10 - [Michael Ockie Fourie](http://mikefourie.wordpress.com/)** – Although Mike called these out as “a few random thoughts” I think that they are still things that need answered around capacity planning and resilience.
 
-__note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.__
+**note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.**
 
-* * *
+---
 
 This story revolves around on of the most common iteration issues. When I progress from working on “\[Team Project\]R1Sprint 1” to working on “\[Team Project\]R1Sprint 2” I have to go through all of the queries that I created in the “Current Iteration” folder and update each of the Queries to reflect the new Sprint.
 
@@ -47,7 +45,7 @@ If there are many queries (15+) it may take more than a minute to edit them. Tha
 > Is it not possible to just run a sql script which does this?  
 > \-[Michael Ockie Fourie](http://mikefourie.wordpress.com/)
 
-Any use of SQL against the TFS Database would result in your TFS database being in an unserviceable state. Even the Integration Platform is not allowed to do any database work ![Smile](images/wlEmoticon-smile-6-6.png) 
+Any use of SQL against the TFS Database would result in your TFS database being in an unserviceable state. Even the Integration Platform is not allowed to do any database work ![Smile](images/wlEmoticon-smile-6-6.png)
 { .post-img }
 
 Enter the TFS Automation Platform and one of the core automations of the TFS Iteration Automation project. What we need is a “Change Iteration” option on the menu of Team Explorer…
@@ -96,5 +94,3 @@ This particular automation is a very short run thing, but there may be others th
 This process will be a welcome first addition to the TFS Automation Platform and it looks like it is going to exercise at least the UI, Configuration and TFS Job Service sections that we plan on building.
 
 I am really looking forward to getting started on this…
-
-

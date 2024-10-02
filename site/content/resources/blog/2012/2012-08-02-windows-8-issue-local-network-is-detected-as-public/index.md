@@ -2,9 +2,9 @@
 id: "6924"
 title: "Windows 8 Issue: Local network is detected as public"
 date: "2012-08-02"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "vsip"
   - "win8"
@@ -49,7 +49,7 @@ Although domains should be identified correctly I want the ability to change the
 4. _Open “Computer configuration | Windows Settings | Security Settings | Network list Manager policies”_
 5. _Open “Unidentified networks”_
 
-  Then you can select the option to consider the Unidentified networks as private and if user can change the  
+Then you can select the option to consider the Unidentified networks as private and if user can change the  
 location.
 
 [![image](images/image_thumb5-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image6.png)  
@@ -59,5 +59,3 @@ location.
 Note: If you cant launch the “Local Computer Policy” then you are running Windows 8 and you need Windows 8 Pro to do this.
 
 **Did this help you?**
-
-

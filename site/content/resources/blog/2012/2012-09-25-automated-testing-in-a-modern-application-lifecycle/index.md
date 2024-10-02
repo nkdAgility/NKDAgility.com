@@ -2,9 +2,9 @@
 id: "8868"
 title: "Automated Testing in a modern application lifecycle"
 date: "2012-09-25"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "automated-testing"
   - "develop"
@@ -39,7 +39,7 @@ If we have fear of changing our code because of the impact to our testing infras
 We often have more tests than we can hope to run in a single iteration once we get passed the first initial pass and it is no longer acceptable for software to spend weeks or months in testing before being released. In a modern application lifecycle we tend to have small teams that create more and more tests cumulatively iteration on iteration. To still be able to deliver high quality value to our customers while maintaining the same level of coverage for our application requires automation, ideally we have automation for every test that is now passing. While initially hard, especially if we have an existing application, we need to bite the bullet and accept that it is no longer optional to refrain from contributing to our technical debt and start making bigger repayments.
 
 > Software is an organizational asset and decisions to cut quality must be made by executive management and reflected in the financial statements.
-> 
+>
 > Ken Schwaber in Professional Scrum Master Training
 
 While we need that automation to be a success, we also need to make sure that it is the right sort of automation for the goal. A sure indication that something is not quite right is that you spend too much time maintaining your automation. This usually means that you have not yet surmounted your technical debt gremlins.
@@ -99,5 +99,3 @@ Just as the modern professional engineer does Unit Testing the modern Test Engin
 ### Conclusion
 
 Automated Testing is something that is no longer the purview of the larger development shops but part of the basic needs of any organisation building modern software. There is also no one tool to fit all of your scenarios and you may find yourself working with many of the products and solutions listed above. However all of these solutions integrate with both the Visual Studio IDE or Team Foundation Server to give you a consistency of design, execution and reporting that can’t be surpassed by any other product. If you have created your own tools for automated testing for your software then they can be easily incorporated by crating a simple Test Adapter.
-
-

@@ -17,11 +17,11 @@ Something very close to my heart is helping folks understand the origin of the p
 
 We are still using workplace practices developed during the industrial revolution to manage factory workers and the mechanisation of those workers. When we had to build at scale but did not have the technology to build robots, it was down to humans to do this monotonous, repetitive work; Think factory floor or typing pool. These practices, envisioned by Frederic Winston Taylor to control workers, are the Tyranny of Taylorism that we battle every day in our working environments.
 
-While 81% of all development shops say that they are adopting agile, the reality is far from it; only 22% do short iterations, 16% have ordered backlogs, & 13% do retrospectives! 
+While 81% of all development shops say that they are adopting agile, the reality is far from it; only 22% do short iterations, 16% have ordered backlogs, & 13% do retrospectives!
 
 They still lack feedback loops.
 
-Feedback loops were not significant when our current management practices were developed. We had defigned work, we understood it very well, and we were optimising a production line. 
+Feedback loops were not significant when our current management practices were developed. We had defigned work, we understood it very well, and we were optimising a production line.
 
 Those days are gone now!
 

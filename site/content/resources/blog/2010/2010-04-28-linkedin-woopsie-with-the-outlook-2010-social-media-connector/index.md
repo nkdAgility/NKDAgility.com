@@ -2,9 +2,9 @@
 id: "47"
 title: "LinkedIn Woopsie with the Outlook 2010 Social Media Connector"
 date: "2010-04-28"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "fail"
   - "linkedin"
   - "outlook-2010"
@@ -21,7 +21,7 @@ Updates 28th April 2010
 
 - [LinkedIn](http://linkedin.com) customer services solved the problem within a few hours of my initial response.
 
-* * *
+---
 
 I got a surprise the other day when my LinkedIn account was suspended and I was unable to login.
 
@@ -32,15 +32,14 @@ I got a surprise the other day when my LinkedIn account was suspended and I was 
 So I contacted LinkedIn customer services to find out what the problem is, and here is the response:
 
 > Dear Martin,
-> 
->   
+>
 > We have recently noticed a large number of page searches and profile views through your LinkedIn account. We are aware that you may be using an automated or manual process to systematically view LinkedIn web pages.  
 > The information within LinkedIn is provided by our users for usage on the site only. In order to protect user privacy, our User Agreement prohibits using:  
 > 1\. Automated or manual means to view an excessively high number of profiles or mini-profiles.  
 > 2\. Automated means to run searches to collect or store data obtained from our site.  
 > We have placed a restriction on your account until you agree to stop using these or similar methods to view pages on LinkedIn.  
 > We look forward to your reply to discuss this further.
-> 
+>
 > Sincerely,  
 > LinkedIn Privacy Team
 
@@ -52,20 +51,14 @@ It only tool another hour after I explained where I thought the problem was for 
 { .post-img }
 
 > Dear Martin,
-> 
->   
+>
 > Thank you for your response and patience with respect to this issue.  
 > The restriction has been lifted from your account. Please know that together we can maintain an outstanding website for all of our members.  
 > Thank you for being a valued member of our LinkedIn community!
-> 
->   
+>
 > Regards,  
 > Francois
 
 Credit to LinkedIn for solving it quickly..
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [LinkedIn](http://technorati.com/tags/LinkedIn) [Outlook 2010](http://technorati.com/tags/Outlook+2010)
-
-
-
-

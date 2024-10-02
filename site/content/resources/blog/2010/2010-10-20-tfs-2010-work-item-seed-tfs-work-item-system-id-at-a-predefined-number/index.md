@@ -2,9 +2,9 @@
 id: "21"
 title: "TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number"
 date: "2010-10-20"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "mvvm"
@@ -54,7 +54,6 @@ We can use the TeamProjectPicker class that the product team kindly provided to 
 ![SNAGHTML11ab84c](images/Start-creating-work-items-at-40000_119CF-SNAGHTML11ab84c-3-3.png)
 { .post-img }
 
-  
 **Figure: Getting the user to select a Team Project could not be easyer**
 
 This dialog has some different modes depending on what you are trying to achieve. You can set it to select either a Team Project Collection, one Team Project or many Team Projects.
@@ -273,7 +272,6 @@ This is a supported method of incrementing the Work Item ID to any number you li
 ![SNAGHTML14175c1](images/Start-creating-work-items-at-40000_119CF-SNAGHTML14175c1-4-4.png)
 { .post-img }
 
-  
 **Figure: As you can see, I am an artist**
 
 I have been running this with a local TFS running on my Windows 7 laptop with SQL Express so actual times may not be as advertised.
@@ -283,7 +281,6 @@ How stable is this? Well, to be honest, not very. I threw this together quickly,
 ![image](images/Start-creating-work-items-at-40000_119CF-image_-2-2.png)
 { .post-img }
 
-  
 **Figure: One lonely work item that did not get destroyed**
 
 To delete this errant work item you can:
@@ -300,8 +297,3 @@ You can get your work item ID from 0 to 40000 in around 40 minutes with this app
 { .post-img }
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[API](http://technorati.com/tags/API)
-
-
-
-
-

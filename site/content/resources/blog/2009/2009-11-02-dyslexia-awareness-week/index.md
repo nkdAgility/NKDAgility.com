@@ -2,9 +2,9 @@
 id: "80"
 title: "Dyslexia Awareness Week"
 date: "2009-11-02"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -27,6 +27,3 @@ If only our education systems would take advantage of these differences...
 { .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
-
-
-

@@ -2,7 +2,7 @@
 id: "420"
 title: "Team Server Hmm!"
 date: "2007-04-02"
-tags: 
+tags:
   - "visual-studio"
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
@@ -26,11 +26,6 @@ Which allows you to connect the following software to team servfer:
 - Sparx Systems Enterprise Architect 6.1
 - Sybase PowerBuilder 10.5
 - Toad for SQL Server 2.0
-    
-    Ahh, they think of everything!
-    
+  Ahh, they think of everything!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

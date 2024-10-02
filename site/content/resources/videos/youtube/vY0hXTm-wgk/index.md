@@ -17,7 +17,7 @@ naked Agility Limited is a professional company that offers training, coaching, 
 
 To allow us to focus on reflecting and practising in the classroom, our training courses leverage a flipped learning approach that delivers some or all of the theory as self-study.
 
-The course content is divided into learning blocks, each with presentations and lectures in the form of videos, reading material, and writing activities that are provided for self-study [pop training/mural video]  complemented by 1/2 day live virtual sessions delivered online using Microsoft Teams and Mural. 
+The course content is divided into learning blocks, each with presentations and lectures in the form of videos, reading material, and writing activities that are provided for self-study [pop training/mural video] complemented by 1/2 day live virtual sessions delivered online using Microsoft Teams and Mural.
 
 These live interactive workshops create a dynamic and interactive environment where we dive into the core concepts through group activities, interactions, and sharing experiences, all with the guidance of an expert Professional Scrum Trainer, Professional Kanban Trainer, or Microsoft MVP.
 
@@ -27,7 +27,7 @@ As part of our learning experience for every participant, we provide a 30-minute
 
 We recognise the positive impact that a happy AND motivated workforce that has purpose has on client experience. We help change mindsets towards a people-first culture where everyone encourages others to learn and grow. The resulting divergent thinking leads to many ideas and opportunities for the organisation's success.
 
-All participants gain complimentary access to the premium "Professional Scrum" space in our public community "The League of Extraordinary Lean-Agile Practitioners". 
+All participants gain complimentary access to the premium "Professional Scrum" space in our public community "The League of Extraordinary Lean-Agile Practitioners".
 
 I hope to see you there; click the link below to find out more…
 

@@ -27,11 +27,12 @@ isShort: False
 #### **🔍 Key Concepts in Traditional Management vs. EBM**
 
 1. **📊 Data-Driven Decisions in EBM**:
+
    - **EBM** requires the collection and interpretation of **data** to inform decision-making. Managers must assess the data to understand the potential impacts and outcomes.
    - Traditional management often relies on two approaches:
      - **Intuitive decision-making**: "I'm the manager, I’ll make the call."
      - **Escalation-based decision-making**: "Let me ask someone more senior to make the decision."
-  
+
 2. **🤔 Measuring for Success**:
    - In traditional management, decisions may be made without considering the evidence or clear outcomes. Evidence-based management, on the other hand, asks critical questions:
      - "Why are we doing this?"
@@ -43,8 +44,8 @@ isShort: False
 #### **🚀 The Challenge of Evidence-Based Management**
 
 1. **📈 Vanity Metrics in Traditional Management**:
+
    - Traditional managers often use **vanity metrics**, focusing on numbers that **make them look good** rather than metrics that help the organization succeed. These metrics don’t provide an accurate picture of what’s happening at a larger scale, creating a **suboptimal decision-making** process.
-   
    - **Example**: Story points and velocity are often used to measure productivity. While they can be helpful within a team, they **don’t provide useful data** for decisions at the organizational level.
 
 2. **💡 Holistic Approach in EBM**:
@@ -55,6 +56,7 @@ isShort: False
 #### **⚖️ Making Better Decisions with EBM**
 
 1. **🧠 Collecting Evidence**:
+
    - In EBM, decisions are based on **collecting and validating evidence**. The key is to figure out whether the evidence is good or bad and then make informed decisions.
 
 2. **🚫 Moving Beyond Vanity Metrics**:
@@ -66,8 +68,8 @@ isShort: False
 
 - **EBM Encourages Better Decision-Making**:
   - Evidence-based management allows organizations to make decisions that are informed by data, which is critical for driving real outcomes and success.
-  
 - **Moving Away from "Making It Up"**:
+
   - Rather than relying on gut feelings or hierarchy to make decisions, EBM focuses on gathering and validating evidence to **optimize success** at every level of the organization.
 
 - **Focus on the Bigger Picture**:

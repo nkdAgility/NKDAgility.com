@@ -2,9 +2,9 @@
 id: "9138"
 title: "Project Server 2013 Issue - TF294012: Cannot access the following enterprise project"
 date: "2012-11-02"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "infrastructure"
   - "project-server"
   - "ps2013"
@@ -91,17 +91,17 @@ You can switch the permissions at the Project Server level but there are warning
 { .post-img }
 
 - [Change permission management in Project Web App for Project Online](http://office.microsoft.com/en-us/office365-project-online-help/change-permission-management-in-project-web-app-for-project-online-HA103433509.aspx)
-- [SharePoint Permissions Mode default permissions for Project Server 2013 SharePoint groups](http://technet.microsoft.com/en-us/library/jj219510(v=office.15).aspx)
-- [Plan user access in Project Server 2013](http://technet.microsoft.com/en-us/library/fp161361(v=office.15).aspx)
-- [Set-SPProjectPermissionMode](http://technet.microsoft.com/en-us/library/jj219486(v=office.15).aspx)
+- [SharePoint Permissions Mode default permissions for Project Server 2013 SharePoint groups](<http://technet.microsoft.com/en-us/library/jj219510(v=office.15).aspx>)
+- [Plan user access in Project Server 2013](<http://technet.microsoft.com/en-us/library/fp161361(v=office.15).aspx>)
+- [Set-SPProjectPermissionMode](<http://technet.microsoft.com/en-us/library/jj219486(v=office.15).aspx>)
 
 So lets bite the bullet now before we get any users on there!
 
 You need to follow the documentation to switch to Project Server mode so that TFS will work with it. The SharePoint mode is new for Project Server 2013 and I do not think that the Project Server Extensions for Team Foundation Server 2013 currently work with it.
 
 ```
-Set-SPPRojectPermissionMode –Url http://win-eo45n4fnsoc/PWA/ 
-                            -AdministratorAccount win-eo45n4fnsocadministrator 
+Set-SPPRojectPermissionMode –Url http://win-eo45n4fnsoc/PWA/
+                            -AdministratorAccount win-eo45n4fnsocadministrator
                             -Mode ProjectServer
 
 ```
@@ -121,5 +121,3 @@ Lets check the UI…
 **Figure: Now I get Manage Users and Manage Groups for Project Server 2013**
 
 I hope this helps you solve your problem, but remember that mine are very specific and this solution may not fit your problem…
-
-

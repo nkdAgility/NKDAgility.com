@@ -2,7 +2,7 @@
 id: "17"
 title: "Do you want to be an ALM Consultant?"
 date: "2011-01-14"
-categories: 
+categories:
   - "alm"
   - "code-and-complexity"
   - "events-and-presentations"
@@ -10,7 +10,7 @@ categories:
   - "problems-and-puzzles"
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "agile"
   - "code"
   - "configuration"
@@ -45,13 +45,13 @@ slug: "do-you-want-to-be-an-alm-consultant"
 
 Northwest Cadence is looking for our next great consultant! At Northwest Cadence, we have created a work environment that emphasizes excellence, integrity, and out-of-the-box thinking.  Our customers have high expectations (rightfully so) and we wouldn’t have it any other way!
 
-* * *
+---
 
 Northwest Cadence has some of the most exciting customers I have ever worked with and even though I have only been here just over a month I have already:
 
 - Provided training/consulting for 3 government departments
 - Created and taught courseware for delivering Scrum to teams within a high profile multinational company
-- Started presenting [Microsoft's ALM Engagement Program](http://blog.hinshelwood.com/archive/2011/01/04/free-training-at-northwest-cadence.aspx) 
+- Started presenting [Microsoft's ALM Engagement Program](http://blog.hinshelwood.com/archive/2011/01/04/free-training-at-northwest-cadence.aspx)
 
 So if you are interested in helping companies build better software more efficiently, then..
 
@@ -91,5 +91,3 @@ _Engagement Responsibilities:_
 · Have effective interpersonal skills and ability to work in a team environment.
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
-
-

@@ -2,7 +2,7 @@
 id: "360"
 title: "What is dyslexia?"
 date: "2007-07-23"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -28,6 +28,3 @@ Despite this I can actually read very fast, around a hundred pages in an hour of
 This is how dyslexic people see the words that are written on the page, and why they are so poor at spelling.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

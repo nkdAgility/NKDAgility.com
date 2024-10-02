@@ -2,9 +2,9 @@
 id: "6136"
 title: "TFS Integration Tools–Issue: AnalysisProvider not found"
 date: "2012-07-12"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "kb"
   - "puzzles"
   - "tfs-integration-platform"
@@ -33,7 +33,7 @@ Application Error: 0 : [7/12/2012 2:41:32 PM] Microsoft.TeamFoundation.Migration
    at Microsoft.TeamFoundation.Migration.Toolkit.SyncOrchestrator.CreateAnalysisEngine(Session sessionConfig, ProviderHandler leftProviderHandler, ProviderHandler rightProviderHandler, ITranslationService translationService, IConflictAnalysisService conflictAnalysisService)
    at Microsoft.TeamFoundation.Migration.Toolkit.SyncOrchestrator.ConstructSessionPipeline(Session config, Int32 sessionIndex, LinkEngine linkEngine)
    at Microsoft.TeamFoundation.Migration.Toolkit.SyncOrchestrator.ConstructPipelines()
-   at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ApplicationViewModel.m_constructPipelinesBW_DoWork(Object sender, DoWorkEventArgs e) 
+   at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ApplicationViewModel.m_constructPipelinesBW_DoWork(Object sender, DoWorkEventArgs e)
 
 
 ```
@@ -48,10 +48,8 @@ This problem is easily solved by changing the application settings from .NET Fra
 
 [![image](images/image_thumb15-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image15.png)  
 { .post-img }
-**Figure: Using an older version of the framework** 
+**Figure: Using an older version of the framework**
 
 Now we are cooking.
 
 **Did this solve your problem?**
-
-

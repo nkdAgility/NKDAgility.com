@@ -12,5 +12,3 @@ card:
 ---
 
 The purpose of the
-
-

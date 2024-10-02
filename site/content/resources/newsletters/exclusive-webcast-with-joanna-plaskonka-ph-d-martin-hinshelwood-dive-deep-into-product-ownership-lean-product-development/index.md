@@ -35,7 +35,7 @@ Yours in agile excellence,
 
 Martin Hinshelwood
 
-* * *
+---
 
 ## Upcoming Training Classes
 

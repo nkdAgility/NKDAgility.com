@@ -2,7 +2,7 @@
 id: "204"
 title: "Installing Internet Explorer 8 Beta 2"
 date: "2008-08-28"
-tags: 
+tags:
   - "ie8"
   - "off-topic"
   - "tools"
@@ -36,6 +36,3 @@ And some updates (Already! :) ) if you are using Real Player and Vista SP1:
 Hopefully this install will go fine :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

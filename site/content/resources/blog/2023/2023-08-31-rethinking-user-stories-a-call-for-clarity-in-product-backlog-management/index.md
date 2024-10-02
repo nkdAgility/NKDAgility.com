@@ -2,10 +2,10 @@
 id: "49726"
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 date: "2023-08-31"
-categories: 
+categories:
   - "agility"
   - "discovery-ideation"
-tags: 
+tags:
   - "featured"
   - "homepage"
   - "product-backlog-item"
@@ -17,7 +17,7 @@ type: blog
 slug: "rethinking-user-stories-a-call-for-clarity-in-product-backlog-management"
 ---
 
-As someone who has spent a fair amount of time in the trenches of product development, I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories". 
+As someone who has spent a fair amount of time in the trenches of product development, I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories".
 
 ### TLDR;
 
@@ -35,11 +35,11 @@ For instance, consider these examples:
 
 - "_As a Product Owner, I want to support 10k simultaneous users, so that I can serve more transactions_" instead of just stating, "Must support 10k simultaneous users."
 
-In these cases, the user story format adds unnecessary complexity and can even obscure the work's true nature. It's like trying to fit a square peg into a round hole - it's not only difficult but also distorts the original shape of the peg. 
+In these cases, the user story format adds unnecessary complexity and can even obscure the work's true nature. It's like trying to fit a square peg into a round hole - it's not only difficult but also distorts the original shape of the peg.
 
 A Better Approach: Product Backlog Items
 
-I propose replacing "User Stories" with a more generic term: "Product Backlog Item". This term refers to an item in your list of things to do, without any assumptions about its format or structure. 
+I propose replacing "User Stories" with a more generic term: "Product Backlog Item". This term refers to an item in your list of things to do, without any assumptions about its format or structure.
 
 > Yes, I know I'm slightly biased as a Scrum Trainer, and "PBI" or "Product Backlog Item" is my comfort terminology. How about "Rock" or "Item" instead?
 
@@ -60,5 +60,3 @@ By switching our naming to "Product Backlog Items", we can free ourselves from t
 ### Conclusion
 
 Language matters in product development. We can improve communication, increase transparency, and ultimately build better products by rethinking how we describe our work. So let's say goodbye to "User Stories" and hello to "Product Backlog Items". Let's embrace a more flexible and transparent approach to product development, one that recognises the complexity and diversity of our work and gives us the freedom to describe it in the most effective way possible.
-
-

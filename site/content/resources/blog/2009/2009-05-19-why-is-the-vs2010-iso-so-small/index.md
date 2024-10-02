@@ -2,7 +2,7 @@
 id: "114"
 title: "Why is the VS2010 iso so small?"
 date: "2009-05-19"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -15,5 +15,3 @@ The reason is simple, it has no MSDN documentation in it. I for one never instal
 And, why is there no Offline MSDN documentation? The answer is simple, it is not ready yet…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-

@@ -2,9 +2,9 @@
 id: "52"
 title: "Do you have a contract between the Product Owner and the Team?"
 date: "2010-04-14"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "configuration"
   - "define"
   - "develop"
@@ -28,7 +28,7 @@ Update 14th April 2010
 
 - Rule added to [Rules to better Scrum with TFS](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)
 
-* * *
+---
 
 This is simply an agreement between the PO for one Sprint and is not really a commercial contract and should be confirmed via an e-mail at the beginning of every Sprint.
 
@@ -40,9 +40,6 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 ![image](images/SSWScrumRules_C6B7-image_-2-2.png)
 { .post-img }
 
-**Figure: Good Example, the product owner should reply to the team and commit to the contract**  
+**Figure: Good Example, the product owner should reply to the team and commit to the contract**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

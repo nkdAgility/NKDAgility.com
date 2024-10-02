@@ -2,7 +2,7 @@
 id: "350"
 title: "Developer vindication"
 date: "2007-08-04"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ As I understand it, I would require a [H1B](http://en.wikipedia.org/wiki/H1B_vis
 I am not giving up on this, but there are few other options...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

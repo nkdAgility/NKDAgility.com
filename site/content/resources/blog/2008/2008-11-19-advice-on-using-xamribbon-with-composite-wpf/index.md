@@ -2,9 +2,9 @@
 id: "164"
 title: "Advice on using XamRibbon with Composite WPF"
 date: "2008-11-19"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "tfs-sticky-buddy"
@@ -31,7 +31,7 @@ Anyhoo, I though I should give some advice for those of you mixing these technol
 Note: You will need to be familiar with the Composite WPF bits for this all to make sense.
 
 ```
-   1: <igRibbon:XamRibbon  x:Name="uxXamRibbon" cal:RegionManager.RegionName="{x:Static inf:RegionNames.Shell_Ribbon}" 
+   1: <igRibbon:XamRibbon  x:Name="uxXamRibbon" cal:RegionManager.RegionName="{x:Static inf:RegionNames.Shell_Ribbon}"
 
                            AllowMinimize="True" AutoHideEnabled="False" IsMinimized="False">
 ```
@@ -74,7 +74,7 @@ Note: You will need to be familiar with the Composite WPF bits for this all to m
   10: </igRibbon:XamRibbon>
 ```
 
- 
+
 
 As you can see there are a number of regions here, for the Tabs, the Application Menu and the FooterToolbar. You will need both a XamRibbon and a RibbonTabItem adapter.
 
@@ -210,13 +210,13 @@ As you can see there are a number of regions here, for the Tabs, the Application
   33: End Class
 ```
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 ```
    1: Public Class RibbonTabItemRegionAdapter
@@ -350,14 +350,10 @@ As you can see there are a number of regions here, for the Tabs, the Application
   33: End Class
 ```
 
- 
+
 
 I am pretty sure that these can be augmented, and I can think of a few Ideas already, including adding a re-parenting ability to allow menu items to be added to the XAML as well as programmatically added.
 
 I think I might have to go away and try this…
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject)
-
-
-
-

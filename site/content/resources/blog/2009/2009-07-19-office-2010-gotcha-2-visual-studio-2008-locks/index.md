@@ -2,7 +2,7 @@
 id: "100"
 title: "Office 2010 gotcha 2: Visual Studio 2008 Locks"
 date: "2009-07-19"
-tags: 
+tags:
   - "aggreko"
   - "office"
   - "tools"
@@ -26,11 +26,11 @@ If you get this problem then there is a simple solution, well, one that worked f
 You can find the setup in the following locations:
 
 > **Windows 64bit**
-> 
+>
 > C:Program Files (x86)Common Filesmicrosoft sharedOFFICE12Office Setup ControllerSetup.exe
-> 
+>
 > **Windows 32bit**
-> 
+>
 > C:Program FilesCommon Filesmicrosoft sharedOFFICE12Office Setup ControllerSetup.exe
 
 My guess is that when Office 2010 is installed it has a new version of this component that has not yet been made compatible with Visual Studio 2008…
@@ -38,5 +38,3 @@ My guess is that when Office 2010 is installed it has a new version of this comp
 It was a frustrating couple of hours this morning to figure it out with the bulk of the time taken up with an ineffectual repair of Visual Studio 2008 SP1, ahh well, now I know…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Office](http://technorati.com/tags/Office) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2008](http://technorati.com/tags/VS+2008)
-
-

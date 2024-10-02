@@ -2,10 +2,10 @@
 id: "9716"
 title: "Does your company culture resemble Survivor?"
 date: "2013-07-10"
-categories: 
+categories:
   - "measure-and-learn"
   - "people-and-process"
-tags: 
+tags:
   - "company-culture"
   - "development-team"
   - "improve"
@@ -53,5 +53,3 @@ This has the effect of stretching the amount of time that each thing takes as it
 ## Conclusion
 
 Don’t have a company culture that resembles Survivor and instead opt for one of Teams. These Teams will be a force multiplier to your ability to deliver software and this will give you a competitive advantage. Don’t wait until your competition figure this out!
-
-

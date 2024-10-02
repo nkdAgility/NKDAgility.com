@@ -2,7 +2,7 @@
 id: "128"
 title: "Windows 7 RC"
 date: "2009-05-01"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -17,5 +17,3 @@ I feel a couple of reinstalls coming on :)
 I have not installed it myself yet, that is a task for the weekend, but you visit “[Windows 7 Release Candidate 1 impressions, insights, and expectations](http://www.engadget.com/2009/04/30/windows-7-release-candidate-1-impressions-insights-and-expecta/)” for more information.
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

@@ -2,9 +2,9 @@
 id: "9875"
 title: "Integrate reporting and analyses services with Team Foundation Server 2013"
 date: "2013-08-05"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "analysis-services"
   - "reporting-services"
   - "sql-server"
@@ -29,8 +29,8 @@ There are only a few steps to get this working:
 1. Install SQL Server 2012 Reporting Services and Analysis Services
 2. Configure SQL Server 2012 Reporting Services
 3. Enable reporting and analyses services for your Team Foundation Server
-    1. Enable reporting and analyses services at the Team Project Collection
-    2. Enable reporting and analyses services for your Team Project Collection
+   1. Enable reporting and analyses services at the Team Project Collection
+   2. Enable reporting and analyses services for your Team Project Collection
 
 ## Install SQL Server 2012 Reporting Services and Analysis Services
 
@@ -130,13 +130,13 @@ We need to first tell Team Foundation Server where to store all of that lovely d
 { .post-img }
 Figure: Enable and configure Warehouse
 
-There are 4 things to configure but the first one is a checkbox. Tick the box to “Use Reporting” first and then fill out the details for where you want your data warehouse stored. I would recommend the default of “Tfs\_Warehouse”.
+There are 4 things to configure but the first one is a checkbox. Tick the box to “Use Reporting” first and then fill out the details for where you want your data warehouse stored. I would recommend the default of “Tfs_Warehouse”.
 
 ![image](images/image64-14-14.png "image")  
 { .post-img }
 Figure: Configure Analysis Services
 
-Now head over to the second tab and enter the database as “Tfs\_Analysis” for your analysis services cube. Here you will also want to specify the credentials to be used for the reporting services data sources to connect to. This will add that account to the “TfsDataReader” group.
+Now head over to the second tab and enter the database as “Tfs_Analysis” for your analysis services cube. Here you will also want to specify the credentials to be used for the reporting services data sources to connect to. This will add that account to the “TfsDataReader” group.
 
 ![image](images/image65-15-15.png "image")  
 { .post-img }
@@ -167,5 +167,3 @@ This will configure your collection to look for a folder of the name displayed a
 Unfortunately enabling the reporting does not go an add the correct reports to the server. You would need to download the correct reports from the Process Template and import them manually to the location specified above with the addition of the Team Project name. If the power tools for 2013 were available there is a “AddReporting” command line to do this for you.
 
 Give me a shout if you have any questions or get into trouble…
-
-

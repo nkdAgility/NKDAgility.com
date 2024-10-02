@@ -2,9 +2,9 @@
 id: "317"
 title: "Developing Peer-To-Peer Applications With WCF"
 date: "2007-09-06"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "service-oriented-architecture"
   - "tfs"
   - "tools"

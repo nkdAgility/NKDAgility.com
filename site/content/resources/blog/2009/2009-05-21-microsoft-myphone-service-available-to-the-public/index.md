@@ -2,9 +2,9 @@
 id: "111"
 title: "Microsoft MyPhone service available to the public"
 date: "2009-05-21"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -24,6 +24,3 @@ I do not know what the bandwidth is like, but the fact that you cant set the syn
 Setup you phone by going to [http://myphone.microsoft.com](http://myphone.microsoft.com "http://myphone.microsoft.com")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
-
-
-

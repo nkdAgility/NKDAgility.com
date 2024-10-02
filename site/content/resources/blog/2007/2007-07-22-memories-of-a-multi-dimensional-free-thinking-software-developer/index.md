@@ -2,7 +2,7 @@
 id: "365"
 title: "Memories of a multi-dimensional free thinking software developer"
 date: "2007-07-22"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ I will add more, but for now here are a couple of resources to get you started i
 [http://www.dyslexia.com/](http://www.dyslexia.com/ "http://www.dyslexia.com/")
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

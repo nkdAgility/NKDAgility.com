@@ -2,7 +2,7 @@
 id: "3373"
 title: "What is the Tfs Automation Platform"
 date: "2011-05-31"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -26,9 +26,9 @@ Currently, the scope of this project is to create automations that assist with i
 
 - **2011-06-09 - Mattias Sköld** – Mattias had a bunch of questions, and I want to provide answers. You will find the questions and answers inline at the relevant sections.
 
-__note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.__
+**note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.**
 
-* * *
+---
 
 ## Releases
 
@@ -55,7 +55,7 @@ An install on either the client or the server would only be required when the pl
 
 The purpose of this section is to help the team understand the way that the system goes together without locking them into an tight architecture at this early stage in the process.
 
- [![image](images/image_thumb16-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image16.png)  
+[![image](images/image_thumb16-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image16.png)  
 { .post-img }
 **Figure: TFS Automation main components brainstorm**
 
@@ -114,7 +114,7 @@ The idea is that the core service will keep all of the Automation up to date and
 The PackageStore provides all of the automation packages that are available along with any meta data that is required. The system should be able to load from one or more stores simultaneously. This will allow smaller organisations or individuals to take advantage of a hosted store, or many hosted stores. This again allows for less installation changes as users can choose to load automations from external lists that are maintained separately.
 
 > I don’t get this Multi Store thing ? Ive envisioned a “store” for each team project collection. Will we supply multi stores – what is the benefit of multi stores and what will a store relate to ?
-> 
+>
 > I was thinking more of an Automation Manager for project collections (compare to Process template manager).  
 > **\-Mattias Sköld**
 
@@ -150,37 +150,35 @@ There are really two scenarios I want to concentrate on for testing the TFS Iter
 When we get to the end of an iteration we need all of the queres in the “Current iteration” folder to reference “project1R1I2” rather than “project1R1I1”
 
 1. **User logs onto TFS Automation UI and installs the “Current Iteration Changer” automation from the Store**
-    1. TfsAutomation Core downloads the selected Automation and unpacks it locally.
-    2. TfsAutomation Core deploys the correct files to the correct location defined in the manifest
-    3. TfsAutomation sets automation to only work at the Project Level
+   1. TfsAutomation Core downloads the selected Automation and unpacks it locally.
+   2. TfsAutomation Core deploys the correct files to the correct location defined in the manifest
+   3. TfsAutomation sets automation to only work at the Project Level
 2. **User enables the “Area/Iteration Rename Fixer”**
-    1. TfsAutomation UI adds the default configuration for the new Automation
+   1. TfsAutomation UI adds the default configuration for the new Automation
 3. **User configures the “Area/Iteration Rename Fixer” for the Team Project “TeamProject1”**
-    1. TfsAutomation UI adds the configuration for the new Automation to that team project and configures the folder that contains the current iteration queries
+   1. TfsAutomation UI adds the configuration for the new Automation to that team project and configures the folder that contains the current iteration queries
 4. **User right-clicks on their Team Project and selects “Change Iteration”**
-    1. TfsAutomation shows the UI to let the user select an iteration to change to
-    2. TfsAutomation UI adds TfsAutomation.Iterations.ChangeCurrentJob to the TFS Jobs queue
-    3. Job runs and does a replace in all of the queries in that project for the change.
-    4. **Done** – Notify original calling user that the task is complete
+   1. TfsAutomation shows the UI to let the user select an iteration to change to
+   2. TfsAutomation UI adds TfsAutomation.Iterations.ChangeCurrentJob to the TFS Jobs queue
+   3. Job runs and does a replace in all of the queries in that project for the change.
+   4. **Done** – Notify original calling user that the task is complete
 
 ### Scenario 2: User renames Iteration
 
 When the user renames an iteration then a job needs to be kicked off that will fix all queries that use that iteration.
 
 1. **User logs onto TFS Automation UI and installs the “Area/Iteration Rename Fixer” automation from the Store**
-    1. TfsAutomation Core downloads the selected Automation and unpacks it locally.
-    2. TfsAutomation Core deploys the correct files to the correct location defined in the manifest
+   1. TfsAutomation Core downloads the selected Automation and unpacks it locally.
+   2. TfsAutomation Core deploys the correct files to the correct location defined in the manifest
 2. **User enables the “Area/Iteration Rename Fixer” at the Server level**
-    1. TfsAutomation UI adds the configuration for the new Automation
+   1. TfsAutomation UI adds the configuration for the new Automation
 3. **User renames Iteration**
-    1. Tfs Iteration Changed event fires on server
-    2. TfsAutomation.SincProxy captures event and runs all appropriate “inner” subscribers
-    3. TfsAutomation.Iterations.RenameSubscriber subscriber is run and adds TfsAutomation.Iterations.RenameJob to the TFS Jobs queue
-    4. Job runs and does a replace in all of the queries in that project for the change.
-    5. **Done** – Notify original calling user that the task is complete
+   1. Tfs Iteration Changed event fires on server
+   2. TfsAutomation.SincProxy captures event and runs all appropriate “inner” subscribers
+   3. TfsAutomation.Iterations.RenameSubscriber subscriber is run and adds TfsAutomation.Iterations.RenameJob to the TFS Jobs queue
+   4. Job runs and does a replace in all of the queries in that project for the change.
+   5. **Done** – Notify original calling user that the task is complete
 
 ## Conclusion
 
 This poses to be a very interesting project if we can get the resource together to be effective. The idea is to start small, so expect to see some smaller, more focused architectures coming down the line.
-
-

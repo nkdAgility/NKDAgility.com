@@ -3,16 +3,16 @@ title: "The Evidence-Based Management Guide: Improving Value Delivery under Cond
 description: Evidence-Based Management (EBM) is an empirical approach that helps organizations to continuously improve customer outcomes, organizational capabilities, and business results under conditions of uncertainty.
 type: guide
 references:
- - title: The Evidence-Based Management Guide | Scrum.org
-   url: https://scrum.org/resources/evidence-based-management-guide
- - title: "Evidence-based Management: Gathering the metrics"
-   url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
- - title: "Metrics that matter with evidence-based management"
-   url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
- - title: "Evidence-based Management: Gathering the metrics"
-   url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
- - title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
-   url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
+  - title: The Evidence-Based Management Guide | Scrum.org
+    url: https://scrum.org/resources/evidence-based-management-guide
+  - title: "Evidence-based Management: Gathering the metrics"
+    url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+  - title: "Metrics that matter with evidence-based management"
+    url: https://nkdagility.com/blog/metrics-that-matter-with-evidence-based-management/
+  - title: "Evidence-based Management: Gathering the metrics"
+    url: https://nkdagility.com/blog/evidence-based-management-gathering-metrics/
+  - title: Professional Agile Leadership with Evidence-Based Management (PAL-EBM)
+    url: https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification-measuring-value-to-enable-improvement-and-agility/
 recommendedContent:
 videos:
 date: 2024-09-17
@@ -24,9 +24,9 @@ card:
   title: "The Evidence-Based Management Guide Improving Value Delivery under Conditions of Uncertainty"
 ---
 
-# The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty 
-### May 2024
+# The Evidence-Based Management Guide: Improving Value Delivery under Conditions of Uncertainty
 
+### May 2024
 
 Organizations exist for a reason: to achieve something that they think they, uniquely, can achieve. They often express this purpose in different ways, at different levels, to create purpose
 and alignment about what they do:
@@ -54,14 +54,12 @@ EBM focuses on three levels of goals:
 - Intermediate Goals , achievements of which will indicate that the organization is on the path to a Strategic Goal. The path to the Intermediate Goal is often still somewhat uncertain, but not completely unknown.
 - Immediate Tactical Goals , which are the current focus of the organization’s improvement efforts.
 
-
 To progress towards Strategic and Intermediate goals, organizations form hypotheses about improvements they can make to move toward their Immediate Tactical Goals. These
 hypotheses form the basis of experiments that they run to try to improve. They measure the results of these experiments (evidence) to evaluate their progress toward their goals, and to
 determine their next steps (new hypotheses), which may include adjusting their goals based on what they have learned. This is empiricism in action with EBM.
 
 (^1) 1 For more on complexity, see the Scrum Theory section of the Scrum Guide at
 https://www.scrumguides.org/scrum-guide.html
-
 
 **Figure 1: Reaching strategic goals requires experimenting, inspecting, and adapting**^2
 
@@ -73,13 +71,11 @@ encourage organizational alignment.
 (^2) 2 Figure adapted from Mike Rother’s Improvement Kata
 (http://wwwpersonal.umich.edu/~mrother/The_Improvement_Kata.html)
 
-
-
 Consider the case of the response to an infectious disease:
 
 - The Strategic Goal is to eradicate the effects of the disease as measured by the number of people who fall ill and suffer significant illness. Measurement is important to understand if progress is being made and if the strategic goal is relevant across time. In this example, the goal is focused on the effects of the disease, and not on the means for
-achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease. While that may be an activity
-necessary to achieving the Strategic Goal, it is not the Strategic Goal.
+  achieving the desired impact. For example, the goal is not to vaccinate a certain percentage of the population against the disease. While that may be an activity
+  necessary to achieving the Strategic Goal, it is not the Strategic Goal.
 - An example of an Intermediate Goal is the successful completion of a trial of a vaccine against the disease. This is still ambitious and measurable, and achieving it may require the completion of many different activities. It is a necessary step on the path to achieving the Strategic Goal.
 - Examples of immediate tactical goals may include activities like isolating symptoms, evaluating a therapy, sequencing the DNA of a virus or bacterium, and so forth. These are critical near-term objectives toward which a team or group of teams will work.
 
@@ -91,13 +87,12 @@ their current experience. Unrealized Value is described in greater detail below,
 
 Organizations measure many different kinds of things. Broadly speaking, measures fall into five categories:
 
-
-- *Inputs*. These are things that the organization spends money on. While necessary to produce value, there is no correlation between the amount of input and the value that customers experience. Inputs establish constraints on experiments, e.g. an organization may establish limits on how much a team may spend (the input) to test an improvement idea.
-- *Activities*. These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so
-forth.
-- *Outputs*. These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
-- *Outcomes*. These are desirable things that a customer or user of a product experiences. They represent some new or improved capability that the customer or user was not able to achieve before. Examples include being able to travel to a destination faster than before, or being able to earn or save more money than before. Outcomes can also be negative, as in the case where the value a customer or user experiences declines from previous experiences, for example when a service they previously relied upon is no longer available.
-- *Impacts*. Results that the organization or its non-customer stakeholders (such as investors) achieve when customers or users of a product achieve their desired outcomes. Examples include things like increased revenue or profit, improved market share, and increased share price. Positive Impacts are only sustainably achievable when customers experience improved outcomes.
+- _Inputs_. These are things that the organization spends money on. While necessary to produce value, there is no correlation between the amount of input and the value that customers experience. Inputs establish constraints on experiments, e.g. an organization may establish limits on how much a team may spend (the input) to test an improvement idea.
+- _Activities_. These are things that people in the organization do, such as perform work, go to meetings, have discussions, write code, create reports, attend conferences, and so
+  forth.
+- _Outputs_. These are things that the organization produces, such as product releases (including features), reports, defect reports, product reviews, and so on.
+- _Outcomes_. These are desirable things that a customer or user of a product experiences. They represent some new or improved capability that the customer or user was not able to achieve before. Examples include being able to travel to a destination faster than before, or being able to earn or save more money than before. Outcomes can also be negative, as in the case where the value a customer or user experiences declines from previous experiences, for example when a service they previously relied upon is no longer available.
+- _Impacts_. Results that the organization or its non-customer stakeholders (such as investors) achieve when customers or users of a product achieve their desired outcomes. Examples include things like increased revenue or profit, improved market share, and increased share price. Positive Impacts are only sustainably achievable when customers experience improved outcomes.
 
 The problem most organizations face, which is often reflected in the things they measure, is that measuring activities and outputs is easy, while measuring outcomes is difficult. Organizations may gather a lot of data with insufficient information about their ability to deliver value. However, delivering valuable outcomes to customers is essential if organizations are to reach their goals. For example, working more hours (activities) and delivering more features (outputs) does not necessarily lead to improved customer experiences (outcomes).
 
@@ -114,21 +109,21 @@ short and medium term goals.
 The Experiment Loop (shown in Figure 1) helps organizations move from their Current State toward their Immediate Tactical Goal, their Intermediate Goal, and ultimately their Strategic
 Goal, by taking small, measured steps, called experiments, using explicit hypotheses.^3 This loop consists of:
 
-- *Forming a hypothesis for improvement.* Based on experience, form an idea of
-something you think will help you move toward your Immediate Tactical Goal, and
-decide how you will know whether this experiment succeeded based on measurement.
-- *Running your experiments.* Make the change you think will help you to improve, and
-gather data to support or refute your hypothesis.
+- _Forming a hypothesis for improvement._ Based on experience, form an idea of
+  something you think will help you move toward your Immediate Tactical Goal, and
+  decide how you will know whether this experiment succeeded based on measurement.
+- _Running your experiments._ Make the change you think will help you to improve, and
+  gather data to support or refute your hypothesis.
 
 (^3) The Experiment Loop is a variation on the Shewhart Cycle, popularized by W. Edwards Deming, also
 sometimes called the PDCA (Plan-Do-Check-Act) cycle; see https://en.wikipedia.org/wiki/PDCA.
 
 - Inspecting your results. Did the change you made improve your results based on the measurements you have made? Not all changes do; some changes actually make things worse.
 - Adapting your goals or your approach based on what you learned. Both your goals and your improvement experiments will likely evolve as you learn more about customers, competitors, and your organization's capabilities. Goals can change because of outside events, and your tactics to reach your goals may need to be reconsidered and revised, for example:
- - Was the Immediate Tactical Goal the right goal?
- - Are the Intermediate and Strategic Goals still relevant or do they need to be adapted?
- - If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time?
- - If you achieved your Intermediate or Strategic Goals you will need to formulate new goals.
+- Was the Immediate Tactical Goal the right goal?
+- Are the Intermediate and Strategic Goals still relevant or do they need to be adapted?
+- If you failed to achieve the Immediate Tactical Goal but you think it is still important to achieve, how might you do better next time?
+- If you achieved your Intermediate or Strategic Goals you will need to formulate new goals.
 
 ### Hypotheses, Experiments, Features, and Requirements
 
@@ -144,7 +139,6 @@ experiments that explicitly test the value of the features and requirements. The
 Explicitly forming hypotheses, measuring results, and inspecting and adapting goals based on those results are implicit parts of an agile approach. Making this work explicit and transparent is what EBM adds to the organizational improvement process.
 
 (^4) Adapted from the IEEE 829 specification
-
 
 ## EBM Uses Key Value Areas to Examine Improvement
 
@@ -198,7 +192,6 @@ Questions that organizations need to continually re-evaluate for UV are:
 The consideration of both CV and UV provides organizations with a way to balance present and possible future benefits. Strategic Goals are formed from some satisfaction gap and an
 opportunity for an organization to decrease UV by increasing CV.
 
-
 Example : A product may have low CV, because it is an early version being used to test the market, but very high UV, indicating that there is great market potential. Investing in
 the product to try to boost CV is probably warranted, given the potential returns, even though the product is not currently producing high CV.
 
@@ -219,7 +212,6 @@ Improving A2I helps an organization become more effective in ensuring that the w
 Example : A variety of things can impede an organization from being able to deliver new capabilities and value: spending too much time remedying poor product quality, needing to maintain multiple variations of a product due to lack of operational excellence, lack of decentralized decision-making, inability to hire and inspire talented, passionate team-members, and so on.
 
 As low-value features and systemic impediments accumulate, more budget and time are consumed maintaining the product or overcoming impediments, reducing its available capacity to innovate. In addition, anything that prevents users or customers from benefiting from innovation, such as hard to assemble/install products or new versions of products, will also reduce A2I.
-
 
 ### Time-to-Market (T2M)
 
@@ -268,74 +260,75 @@ parts of EBM is possible, the result is not Evidence-Based Management.
 Evidence-Based Management was collaboratively developed by Scrum.org, the Professional
 Scrum Trainer Community, Ken Schwaber and Christina Schwaber.
 
-
 ## Appendix: Example Key Value Measures
 
 To encourage adaptability, EBM defines no specific Key Value Measures (KVMs). KVMs listed below are presented to show the kinds of measures that might help an organization to understand its current state, desired future state, and factors that influence its ability to improve.
 
 ### Current Value (CV)
 
-| KVM | Measuring |
-| --- | ----------- |
-| Revenue per Employee | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry. |
-| Product Cost Ratio | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue. |
-| Employee Satisfaction | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm. |
-| Customer Satisfaction | Some form of sentiment analysis to help gauge customer engagement and happiness with the product. |
-| Customer Usage Index | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature. |
+| KVM                   | Measuring                                                                                                                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Revenue per Employee  | The ratio (gross revenue / # of employees) is a key competitive indicator within an industry. This varies significantly by industry.                                                                 |
+| Product Cost Ratio    | Total expenses and costs for the product(s)/system(s) being measured, including operational costs compared to revenue.                                                                               |
+| Employee Satisfaction | Some form of sentiment analysis to help gauge employee engagement, energy, and enthusiasm.                                                                                                           |
+| Customer Satisfaction | Some form of sentiment analysis to help gauge customer engagement and happiness with the product.                                                                                                    |
+| Customer Usage Index  | Measurement of usage, by feature, to help infer the degree to which customers find the product useful and whether actual usage meets expectations on how long users should be taking with a feature. |
+
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 
 ### Unrealized Value (UV)
 
-| KVM | Measuring |
-| --- | ----------- |
-| Market Share | The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs. |
-| Customer or User Satisfaction Gap | The difference between a customer or user’s desired experience and their current experience. |
-| Desired Customer Experience or satisfaction | A measure that indicates the experience that the customer would like to have. |
+| KVM                                         | Measuring                                                                                                                                                       |
+| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Market Share                                | The relative percentage of the market not controlled by the product; the potential market share that the product might achieve if it better met customer needs. |
+| Customer or User Satisfaction Gap           | The difference between a customer or user’s desired experience and their current experience.                                                                    |
+| Desired Customer Experience or satisfaction | A measure that indicates the experience that the customer would like to have.                                                                                   |
+
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 
 ### Time-to-Market (T2M)
 
-| KVM | Measuring |
-| --- | ----------- |
-| Build and Integration Frequency | The number of integrated and tested builds per time period. For a team that is releasing frequently or continuously, this measure is superseded by actual release measures. |
-| Release Frequency | The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products. |
-| Release Stabilization Period | The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase. |
-| Mean Time to Repair | The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error. |
-| Customer Cycle Time | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer. |
-| Lead Time | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction. |
-| Lead Time for Changes | The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report. |
-| Deployment Frequency | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report. |
-| Time to Restore Service | The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report. |
-| Time-to-Learn | The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage. |
-| Time to remove Impediment | The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction |
-| Time to Pivot | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
+| KVM                             | Measuring                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Build and Integration Frequency | The number of integrated and tested builds per time period. For a team that is releasing frequently or continuously, this measure is superseded by actual release measures.                                                                                                                                                                                                                                        |
+| Release Frequency               | The number of releases per time period, e.g. continuously, daily, weekly, monthly, quarterly, etc. This helps reflect the time needed to satisfy the customer with new and competitive products.                                                                                                                                                                                                                   |
+| Release Stabilization Period    | The time spent correcting product problems between the point the developers say it is ready to release and the point where it is actually released to customers. This helps represent the impact of poor development practices and underlying design and codebase.                                                                                                                                                 |
+| Mean Time to Repair             | The average amount of time it takes from when an error is detected and when it is fixed. This helps reveal the efficiency of an organization to fix an error.                                                                                                                                                                                                                                                      |
+| Customer Cycle Time             | The amount of time from when work starts on a release until the point where it is actually released. This measure helps reflect an organization’s ability to reach its customer.                                                                                                                                                                                                                                   |
+| Lead Time                       | The amount of time from when an idea is proposed or a hypothesis is formed until a customer can benefit from that idea. This measure may vary based on customer and product. It is a contributing factor in customer satisfaction.                                                                                                                                                                                 |
+| Lead Time for Changes           | The amount of time to go from code-committed to code successfully running in production. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                                           |
+| Deployment Frequency            | The number of times that the organization deployed (released) a new version of the product to customers/users. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                     |
+| Time to Restore Service         | The amount of time between the start of a service outage and the restoration of full availability of the service. For more information, see the DORA 2019 report.                                                                                                                                                                                                                                                  |
+| Time-to-Learn                   | The total time needed to sketch an idea or improvement, build it, deliver it to users, and learn from their usage.                                                                                                                                                                                                                                                                                                 |
+| Time to remove Impediment       | The average amount of time from when an impediment is raised until when it is resolved. It is a contributing factor to lead time and employee satisfaction                                                                                                                                                                                                                                                         |
+| Time to Pivot                   | A measure of true business agility that presents the elapsed time between when an organization receives feedback or new information and when it responds to that feedback; for example, the time between when it finds out that a competitor has delivered a new market-winning feature to when the organization responds with matching or exceeding new capabilities that measurably improve customer experience. |
+
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 
 ### Ability to Innovate (A2I)
 
-| KVM | Measuring |
-| --- | ----------- |
-| Innovation Rate | The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities. |
-| Defect Trends | Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended. |
-| On-Product Index | The percentage of time teams spend working on product and value. |
-| Installed Version Index | The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of the software. |
-| Technical Debt | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
-| Production Incident Count | The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product. |
-| Active Product (Code) Branches | The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work. |
-| Time Spent Merging Code Between Branches | The amount of time spent applying changes across different versions of a product or service. Provides insight into the potential impact of change and the resulting complexity of work. |
-| Time Spent Context-Switching | Examples include time lost to interruptions caused by meetings or calls, time spent switching between tasks, and time lost when team members are interrupted to help people outside the team can give simple insight into the magnitude of the problem. |
-| Change Failure Rate | The percentage of released product changes that result in degraded service and require remediation (e.g. hotfix, rollback, patch). For more information, see the DORA 2019 report. |
-{: .table .table-striped .table-bordered .d-none .d-md-block}
+| KVM                                      | Measuring                                                                                                                                                                                                                                                      |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Innovation Rate                          | The percentage of effort or cost spent on new product capabilities, divided by total product effort or cost. This provides insight into the capacity of the organization to deliver new product capabilities.                                                  |
+| Defect Trends                            | Measurement of change in defects since the last measurement. A defect is anything that reduces the value of the product to a customer, user, or to the organization itself. Defects are generally things that don’t work as intended.                          |
+| On-Product Index                         | The percentage of time teams spend working on product and value.                                                                                                                                                                                               |
+| Installed Version Index                  | The number of versions of a product that are currently being supported. This reflects the effort the organization spends supporting and maintaining older versions of the software.                                                                            |
+| Technical Debt                           | A concept in programming that reflects the extra development and testing work that arises when “quick and dirty” solutions result in later remediation. It creates an undesirable impact on the delivery of value and an avoidable increase in waste and risk. |
+| Production Incident Count                | The number of times in a given period that the Development Team was interrupted to fix a problem in an installed product. The number and frequency of Production Incidents can help indicate the stability of the product.                                     |
+| Active Product (Code) Branches           | The number of different versions (or variants) of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                                             |
+| Time Spent Merging Code Between Branches | The amount of time spent applying changes across different versions of a product or service. Provides insight into the potential impact of change and the resulting complexity of work.                                                                        |
+| Time Spent Context-Switching             | Examples include time lost to interruptions caused by meetings or calls, time spent switching between tasks, and time lost when team members are interrupted to help people outside the team can give simple insight into the magnitude of the problem.        |
+| Change Failure Rate                      | The percentage of released product changes that result in degraded service and require remediation (e.g. hotfix, rollback, patch). For more information, see the DORA 2019 report.                                                                             |
 
+{: .table .table-striped .table-bordered .d-none .d-md-block}
 
 The percentage of released product changes that result in degraded service
 and require remediation (e.g. hotfix, rollback, patch). For more information,
 see the DORA 2019 report.
 
-
 © 2024 Scrum.org
-This publication is offered for license under the Attribution Share-Alike license of Creative 
-Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also 
-described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this 
-EBM Guide, you acknowledge and agree that you have read and agree to be bound by the 
-terms of the Attribution Share-Alike license of Creative Commons. 
+This publication is offered for license under the Attribution Share-Alike license of Creative
+Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also
+described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this
+EBM Guide, you acknowledge and agree that you have read and agree to be bound by the
+terms of the Attribution Share-Alike license of Creative Commons.

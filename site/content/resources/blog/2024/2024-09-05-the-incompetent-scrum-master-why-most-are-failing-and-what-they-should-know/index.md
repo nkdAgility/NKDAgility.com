@@ -3,7 +3,7 @@ id: "51730"
 title: "Why Most Scrum Masters Are Failing and What They Should Know"
 date: "2024-09-05"
 tags: ["Scrum Masters"]
-categories: 
+categories:
   - "agility"
 coverImage: "NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg"
 author: "MrHinsh"
@@ -83,5 +83,3 @@ Reference
 - \*\* Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 
 - \*\*\* System of Profound Knowledge by W. Edwards Deming
-
-

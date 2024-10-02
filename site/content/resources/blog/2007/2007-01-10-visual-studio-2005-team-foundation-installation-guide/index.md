@@ -2,7 +2,7 @@
 id: "444"
 title: "Visual Studio 2005 Team Foundation Installation Guide"
 date: "2007-01-10"
-tags: 
+tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
@@ -21,6 +21,3 @@ I am looking forward to the Admin Guide being updated as well!
 How has everyone got on with their TFS implementations?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

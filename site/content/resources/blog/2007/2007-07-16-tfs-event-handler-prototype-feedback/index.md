@@ -2,9 +2,9 @@
 id: "369"
 title: "TFS Event Handler Prototype Feedback"
 date: "2007-07-16"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "ml"
   - "tfs-event-handler"
   - "tools"
@@ -30,6 +30,3 @@ I am looking for the answer to the following questions:
 **Let me know!**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WIT](http://technorati.com/tags/WIT)
-
-
-

@@ -2,7 +2,7 @@
 id: "101"
 title: "Finding features: Conversations"
 date: "2009-07-16"
-tags: 
+tags:
   - "office"
   - "tools"
 coverImage: "nakedalm-logo-128-link-5-5.png"
@@ -38,5 +38,3 @@ And expanded
 Like I said… Nice…
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
-
-

@@ -48,6 +48,3 @@ I know it is ugly, but it is the sort of "Tactical" work around that gets the sh
 I permanent solution would be nested projects (Or and Organizational Unit separator for the project name) from Microsoft, but I don't think it is on the cards in the near future!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

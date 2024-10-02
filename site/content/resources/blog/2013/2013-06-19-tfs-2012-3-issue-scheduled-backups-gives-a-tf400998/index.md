@@ -2,10 +2,10 @@
 id: "9904"
 title: "TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured"
 date: "2013-06-19"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "configuration"
   - "puzzles"
   - "scheduled-backup"
@@ -48,9 +48,9 @@ It looks like there are a bunch of referenced, specifically in the “Scheduled 
 [Info   @16:26:10.510] System   : Microsoft Windows NT 6.1.7601 Service Pack 1 (AMD64)
 [Info   @16:26:10.510] ====================================================================
 [Info   @16:30:26.252] -----------------------------------------------------
-[Info   @16:30:26.252] 
+[Info   @16:30:26.252]
 [Info   @16:30:26.252] +-+-+-+-+-| Running VerifySqlServiceAccountCanBeGrantedPermission: Verifying SQL service account is not a local account |+-+-+-+-+-
-[Info   @16:30:26.252] 
+[Info   @16:30:26.252]
 [Info   @16:30:26.252] +-+-+-+-+-| Verifying SQL service account is not a local account |+-+-+-+-+-
 [Info   @16:30:26.252] Starting Node: SQLISNOTLOCAL
 [Info   @16:30:26.252] NodePath : Container/Progress/SQLISNOTLOCAL
@@ -59,9 +59,9 @@ It looks like there are a bunch of referenced, specifically in the “Scheduled 
 [Error  @16:31:30.603] TF400998: The current user failed to retrieve the SQL Server service account information from CONST-DT-01. Please make sure you have permissions to retrieve this information.
 [Info   @16:31:30.604] Completed VerifySqlServiceAccountCanBeGrantedPermission: Error
 [Info   @16:31:30.656] -----------------------------------------------------
-[Info   @16:31:30.656] 
+[Info   @16:31:30.656]
 [Info   @16:31:30.656] +-+-+-+-+-| Running VerifyCollectionDatabases: Verifying connection strings are valid |+-+-+-+-+-
-[Info   @16:31:30.657] 
+[Info   @16:31:30.657]
 [Info   @16:31:30.657] +-+-+-+-+-| Verifying connection strings are valid |+-+-+-+-+-
 [Info   @16:31:30.657] Starting Node: BACKUPDBSREACHABLE
 [Info   @16:31:30.657] NodePath : Container/Progress/BACKUPDBSREACHABLE
@@ -75,9 +75,9 @@ It looks like there are a bunch of referenced, specifically in the “Scheduled 
 [Error  @16:31:52.103] TF246017: Team Foundation Server could not connect to the database. Verify that the server that is hosting the database is operational, and that network problems are not blocking communication with the server.
 [Info   @16:31:52.103] Completed VerifyCollectionDatabases: Error
 [Info   @16:31:52.117] -----------------------------------------------------
-[Info   @16:31:52.117] 
+[Info   @16:31:52.117]
 [Info   @16:31:52.117] +-+-+-+-+-| Running VerifySqlServerPermissionsGranted: Verifying TFS Job Agent has permissions to create and alter databases |+-+-+-+-+-
-[Info   @16:31:52.121] 
+[Info   @16:31:52.121]
 [Info   @16:31:52.121] +-+-+-+-+-| Verifying TFS Job Agent has permissions to create and alter databases |+-+-+-+-+-
 [Info   @16:31:52.121] Starting Node: ALTERCREATEDATABASE
 [Info   @16:31:52.121] NodePath : Container/Progress/ALTERCREATEDATABASE
@@ -85,9 +85,9 @@ It looks like there are a bunch of referenced, specifically in the “Scheduled 
 [Error  @16:32:56.264] TF246017: Team Foundation Server could not connect to the database. Verify that the server that is hosting the database is operational, and that network problems are not blocking communication with the server.
 [Info   @16:32:56.264] Completed VerifySqlServerPermissionsGranted: Error
 [Info   @16:32:56.264] -----------------------------------------------------
-[Info   @16:32:56.264] 
+[Info   @16:32:56.264]
 [Info   @16:32:56.264] +-+-+-+-+-| Running VerifySqlDatabasesPermissionsGranted: Verifying TFS Job Agent has permissions to backup databases, create tables, and execute stored procedures |+-+-+-+-+-
-[Info   @16:32:56.268] 
+[Info   @16:32:56.268]
 [Info   @16:32:56.268] +-+-+-+-+-| Verifying TFS Job Agent has permissions to backup databases, create tables, and execute stored procedures |+-+-+-+-+-
 [Info   @16:32:56.268] Starting Node: BACKUPEXECUTECREATE
 [Info   @16:32:56.268] NodePath : Container/Progress/BACKUPEXECUTECREATE
@@ -111,5 +111,3 @@ If we instead click “Disable Scheduled Backup” and weight for the timout we 
 Figure: Disable results in path not found
 
 If you hit the refresh button above the Scheduled Backup node will return to its un-configured state.
-
-

@@ -2,10 +2,10 @@
 id: "44"
 title: "Integrate SharePoint 2010 with Team Foundation Server 2010"
 date: "2010-05-03"
-categories: 
+categories:
   - "code-and-complexity"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "codeproject"
   - "configuration"
   - "infrastructure"
@@ -51,17 +51,19 @@ Once it is installed you need to run the configuration. This will add all of the
 { .post-img }
 **Figure: This is where all the TFS 2010 goodies are added to your SharePoint 2010 server and the TFS 2010 object model is installed.**
 
- ![image17](images/IntegrateSharePoint2010withTeamFoundatio_A557-image17_-14-14.png)  
+![image17](images/IntegrateSharePoint2010withTeamFoundatio_A557-image17_-14-14.png)  
 { .post-img }
 **Figure: All done, you have everything installed, but you still need to configure it**
 
-Now that we have the TFS 2010 SharePoint Extensions installed on our SharePoint 2010 server we need to configure them both so that they will talk happily to each other.  
- 
+Now that we have the TFS 2010 SharePoint Extensions installed on our SharePoint 2010 server we need to configure them both so that they will talk happily to each other.
+
+
 
 ### Configuring the SharePoint 2010 Managed path for Team Foundation Server 2010
 
-In order for TFS to automatically create your project portals you need a wildcard managed path setup. This is where TFS will create the portal during the creation of a new Team project.  
- 
+In order for TFS to automatically create your project portals you need a wildcard managed path setup. This is where TFS will create the portal during the creation of a new Team project.
+
+
 
 To find the managed paths page for any application you need to first select the “Managed web applications”  link from the SharePoint 2010 Central Administration screen.
 
@@ -84,8 +86,9 @@ Now we need to add a managed path for TFS 2010 to create its portals under. I ha
 ![image](images/IntegrateSharePoint2010withTeamFoundatio_A557-image_-6-8.png)  
 { .post-img }
 **Figure: Add a “tfs02” wildcard inclusion path to your SharePoint site.  
-**  
- 
+**
+
+
 
 ### Configure the Team Foundation Server 2010 connection to SharePoint 2010
 
@@ -93,7 +96,7 @@ In order to have you new TFS 2010 Server talk to and create sites in SharePoint 
 
 ![image](images/IntegrateSharePoint2010withTeamFoundatio_A557-image_-4-6.png)  
 { .post-img }
-**Figure: If you have special permissions on your SharePoint you may need to add accounts to the “Service Accounts” section.** 
+**Figure: If you have special permissions on your SharePoint you may need to add accounts to the “Service Accounts” section.**
 
 Before we can se this new SharePoint 2010 instance to be the default for our upgraded Team Project Collection we need to configure SharePoint to take instructions from our TFS server.
 
@@ -103,8 +106,9 @@ On your SharePoint 2010 server open the Team Foundation Server Administration Co
 
 ![image](images/IntegrateSharePoint2010withTeamFoundatio_A557-image_-5-7.png)  
 { .post-img }
-**Figure: Grant access for your TFS 2010 server to create sites in SharePoint 2010**  
- 
+**Figure: Grant access for your TFS 2010 server to create sites in SharePoint 2010**
+
+
 
 Now that we have an authorised location for our team project portals to be created we need to tell our Team Project Collection that this is where it should stick sites by default for any new Team Projects created.
 
@@ -118,8 +122,9 @@ If you select the “SharePoint Site” tab we can see that it is not currently 
 { .post-img }
 **Figure: Our new Upgrade TFS2008 Team Project Collection does not have SharePoint configured**
 
-Select to “Edit Default Site Location” and select the new integration point that we just set up for SharePoint 2010. Once you have selected the “SharePoint Web Application” (the thing we just configured) then it will give you an example based on that configuration point and the name of the Team Project Collection that we are configuring.  
- 
+Select to “Edit Default Site Location” and select the new integration point that we just set up for SharePoint 2010. Once you have selected the “SharePoint Web Application” (the thing we just configured) then it will give you an example based on that configuration point and the name of the Team Project Collection that we are configuring.
+
+
 
 ![image](images/IntegrateSharePoint2010withTeamFoundatio_A557-image_-11-3.png)  
 { .post-img }
@@ -144,6 +149,3 @@ You will need to add all of the users that will be creating Team Projects to be 
 You can now go forth and multiple your Team Projects for this Team Project Collection or you can continue to add portals to your other Collections.
 
 _\-Are you having trouble integrating TFS with Sharepoint? Northwest Cadence can help you integrate these two systems together. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
-
-
-

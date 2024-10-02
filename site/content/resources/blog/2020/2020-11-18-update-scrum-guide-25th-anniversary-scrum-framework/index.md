@@ -2,9 +2,9 @@
 id: "45077"
 title: "Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework"
 date: "2020-11-18"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "leadership-track"
   - "scrum-theory"
 coverImage: "naked-Agility-Scrum-Framework-3-2.jpg"
@@ -38,5 +38,3 @@ There are lots of awesome changes so let's see if I can highlight the things I n
 I hope that that get as much from this new revision of the Scrum Guide as I have.
 
 Get your copy of the **[new version of the Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)**!
-
-

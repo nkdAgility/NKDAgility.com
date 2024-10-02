@@ -2,7 +2,7 @@
 id: "391"
 title: "Team Foundation Server & SharePoint 3.0"
 date: "2007-05-31"
-tags: 
+tags:
   - "sp2007"
   - "tfs"
   - "visual-studio"
@@ -78,6 +78,3 @@ My idea is that in the documentation I replace:
 `**Any reason what this should not work?**`
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

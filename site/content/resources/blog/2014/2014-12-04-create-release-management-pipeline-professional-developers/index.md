@@ -2,10 +2,10 @@
 id: "10970"
 title: "Create a Release Management pipeline for Professional Developers"
 date: "2014-12-04"
-categories: 
+categories:
   - "install-and-configuration"
   - "tools-and-techniques"
-tags: 
+tags:
   - "development-team"
   - "devops"
   - "release-management"
@@ -271,7 +271,7 @@ I have changes the configuration to build to be that "release" type build. If yo
 
 You know, there is really nothing more dangerous than a publish button in Visual Studio. Yes, lets give every single member of the team the ability to shove any old crap directly to production. I wish the product team would give the ability to forcibly disable that option. I only want build assets deployed, not crappy, untested, and un secured local builds.
 
-Anyhoo… if we also add "/p:UseWPP\_CopyWebApplication=true /p:PipelineDependsOnBuild=false" to the MS Build argument the transformation specified in the configuration will be done and the output will only have one config.
+Anyhoo… if we also add "/p:UseWPP_CopyWebApplication=true /p:PipelineDependsOnBuild=false" to the MS Build argument the transformation specified in the configuration will be done and the output will only have one config.
 
 ![clip_image037](images/clip_image037-37-37.png "clip_image037")
 { .post-img }
@@ -329,5 +329,3 @@ Although it took me about 6-12 hours to get this all configured much of it was w
 Once you are done, however, there is a great sense of achievement of getting your application to deploy end to end. For my demo I plan to do a local change, test, and commit that triggers a release to feedback1. Then the tester verifies that what I have done is correct before the development team approve the release to feedback2. At this point the Product Owner solicits feedback from his stakeholders.
 
 I am looking forward to the demo and hope all goes well… my backup is the Brian Keller VM that can do end to end Fabrikam Fibre all built in… but not as much fun as VSO and RMO…
-
-

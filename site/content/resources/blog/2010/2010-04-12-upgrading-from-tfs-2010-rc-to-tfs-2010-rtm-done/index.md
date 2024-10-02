@@ -2,7 +2,7 @@
 id: "53"
 title: "Upgrading from TFS 2010 RC to TFS 2010 RTM done"
 date: "2010-04-12"
-tags: 
+tags:
   - "codeproject"
   - "sharepoint"
   - "spf2010"
@@ -38,18 +38,18 @@ Updated 13th March 2010
 
 - [Adam Cogan](http://adamcogan.com/) pointed out that I had not followed the rule “[Do you use Microsoft Word's spelling and grammar checker to make your web content professional?](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#WordSpellingAndGrammarChecker "http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterWebsitesLayout.aspx#WordSpellingAndGrammarChecker")” – Done
 - [Tatham Oddie](http://blog.tatham.oddie.com.au/) suggested making the bullet list clearer as the strikethrough made it less readable, and he wondered why the product key was not pre-pidded (Key included) like most MSDN downloads. Well this is because I did not get it from MSDN ![Smile](images/09437a6f5f9c_A38D-wlEmoticon-smile_2-35-35.png)
-{ .post-img }
+  { .post-img }
 
 Updated 13th September 2010
 
 - [Adam Cogan](http://adamcogan.com/) asked for a couple of grammatical and phrasing changes and I have implemented the ones that I liked.
 
-* * *
+---
 
 [SSW](http://www.ssw.com.au) was the first company in the world outside of Microsoft to deploy Visual Studio 2010 Team Foundation Server to production, not [once](http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx), but [twice](http://blog.hinshelwood.com/archive/2010/02/10/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc.aspx). I am hoping to make it 3 in a row, but with all the hype around the new version, and with it being a production release and not just a go-live, I think there will be a lot of competition.
 
 > _![](images/tinyheadshot2-37-37.jpg)Developers: MSDN will be updated with_ [_#vs2010_](http://twitter.com/search?q=%23vs2010) _downloads and details at 10am PST \*today\*!_[@shanselman](http://twitter.com/shanselman) _- Scott Hanselman_
-{ .post-img }
+> { .post-img }
 
 If you are upgrading from TFS 2008 to TFS2010 you can follow our [Rules To Better TFS 2010 Migration](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx "Rules To Better TFS 2010 Migration") and read my [post](http://blog.hinshelwood.com/archive/2009/10/25/deploying-visual-studio-2010-team-foundation-server-beta-2.aspx) on our successes.
 
@@ -66,13 +66,13 @@ I checked source control was working and then got the SharePoint 2007 Portal goi
 We run TFS 2010 in a Hyper-V virtual environment, so we have the advantage of running a snapshot as well as taking a DB backup.
 
 1. **Done - Snapshot the hyper-v server**  
-    Microsoft does not support taking a snapshot of a running server, for very good reason, and Brian Harry wrote a post after my last upgrade with the reason why you should [never snapshot a running server](http://blogs.msdn.com/bharry/archive/2010/02/10/a-tfs-2010-upgrade-success-story.aspx).
+   Microsoft does not support taking a snapshot of a running server, for very good reason, and Brian Harry wrote a post after my last upgrade with the reason why you should [never snapshot a running server](http://blogs.msdn.com/bharry/archive/2010/02/10/a-tfs-2010-upgrade-success-story.aspx).
 2. **Done - Uninstall Visual Studio Team Explorer 2010 RC**  
-    You will need to uninstall all of the Visual Studio 2010 RC client bits that you have on the server.
+   You will need to uninstall all of the Visual Studio 2010 RC client bits that you have on the server.
 3. **Done - Uninstall TFS 2010 RC**
 4. **Done - Install TFS 2010 RTM**
 5. **Done - Configure TFS 2010 RTM**  
-    Pick the Upgrade option and point it at your existing “tfs\_Configuration” database to load all of the existing settings
+   Pick the Upgrade option and point it at your existing “tfs_Configuration” database to load all of the existing settings
 6. **Done - Upgrade the SharePoint Extensions**
 7. **Done - Upgrade Build Servers**
 8. **Done - Test the server**
@@ -99,8 +99,9 @@ Turn your server on and wait for it to boot in anticipation of all the nice shin
 
 ![image](images/09437a6f5f9c_A38D-image_-17-9.png)  
 { .post-img }
-**Figure: Most of the heavy lifting is done by the Uninstaller, but make sure you have removed any of the client bits first. Specifically Visual Studio 2010 or Team Explorer 2010.**   
- 
+**Figure: Most of the heavy lifting is done by the Uninstaller, but make sure you have removed any of the client bits first. Specifically Visual Studio 2010 or Team Explorer 2010.**
+
+
 
 Once the uninstall is complete, this took around 5 minutes for me, you can begin the install of the RTM. Running the 64 bit OS will allow the application to use more than 2GB RAM, which while not common may be of use in heavy load situations.
 
@@ -124,8 +125,9 @@ It is worth noting that if you have a lot of builds kicking off, and hence a lot
 
 ![image](images/09437a6f5f9c_A38D-image_-22-15.png)  
 { .post-img }
-**Figure: Installing Microsoft .NET Framework 4 takes the most time.**  
- 
+**Figure: Installing Microsoft .NET Framework 4 takes the most time.**
+
+
 
 ![image](images/09437a6f5f9c_A38D-image_-15-7.png)  
 { .post-img }
@@ -157,7 +159,7 @@ Mostly during the wizard the default values will suffice, but depending on the c
 
 ![image](images/09437a6f5f9c_A38D-image_-12-4.png)  
 { .post-img }
-**Figure: Set the application tier account and Authentication method to use. We use NTLM to keep things simple as we host our TFS server externally for our remote developers.** 
+**Figure: Set the application tier account and Authentication method to use. We use NTLM to keep things simple as we host our TFS server externally for our remote developers.**
 
 ![image](images/09437a6f5f9c_A38D-image_-31-25.png)  
 { .post-img }
@@ -180,20 +182,17 @@ Mostly during the wizard the default values will suffice, but depending on the c
 You then need to run all of your readiness checks. These checks can save your life! it will check all of the settings that you have entered as well as checking all the external services are configures and running properly. There are two reasons that TFS 2010 is so easy and painless to install where previous versions were not. Microsoft changes the install to two steps, Install and configuration. The second reason is that they have pulled out all of the stops in making the install run all the checks necessary to make sure that once you start the install that it will complete. if you find any errors I recommend that you report them on [http://connect.microsoft.com](http://connect.microsoft.com) so everyone can benefit from your misery. ![Smile](images/09437a6f5f9c_A38D-wlEmoticon-smile_2-35-35.png)
 { .post-img }
 
- ![image](images/09437a6f5f9c_A38D-image_-21-14.png)  
+![image](images/09437a6f5f9c_A38D-image_-21-14.png)  
 { .post-img }
 **Figure: Took a while on the “Web site” stage for some point, but zipped though after that.**
 
-  
- ![image](images/09437a6f5f9c_A38D-image_-20-13.png)  
+![image](images/09437a6f5f9c_A38D-image_-20-13.png)  
 { .post-img }
 **Figure: Now we have everything setup the configuration wizard can do its work.**
 
-  
 ![image](images/09437a6f5f9c_A38D-image_-27-20.png)
 { .post-img }
 
-  
 **Figure: last wee bit. TFS Needs to do a little tinkering with the data to complete the upgrade.**
 
 ![image](images/09437a6f5f9c_A38D-image_-10-2.png)  
@@ -201,19 +200,19 @@ You then need to run all of your readiness checks. These checks can save your li
 **Figure: All upgraded. I am not worried about the yellow triangle as SharePoint was being a little silly**
 
 > Exception Message: TF254021: The account name or password that you specified is not valid. (type TfsAdminException)
-> 
+>
 > Exception Stack Trace:    at Microsoft.TeamFoundation.Management.Controls.WizardCommon.AccountSelectionControl.TestLogon(String connectionString)  
 >    at System.ComponentModel.BackgroundWorker.WorkerThreadStart(Object argument)
-> 
+>
 > \[Info   @16:10:16.307\] Benign exception caught as part of verify:  
 > Exception Message: TF255329: The following site could not be accessed: [http://projects.ssw.com.au/](http://projects.ssw.com.au/). The server that you specified did not return the expected response. Either you have not installed the Team Foundation Server Extensions for SharePoint Products on this server, or a firewall is blocking access to the specified site or the SharePoint Central Administration site. For more information, see the Microsoft Web site ([http://go.microsoft.com/fwlink/?LinkId=161206)](http://go.microsoft.com/fwlink/?LinkId=161206)). (type TeamFoundationServerException)
-> 
+>
 > Exception Stack Trace:    at Microsoft.TeamFoundation.Client.SharePoint.WssUtilities.VerifyTeamFoundationSharePointExtensions(ICredentials credentials, Uri url)  
 >    at Microsoft.TeamFoundation.Admin.VerifySharePointSitesUrl.Verify()
-> 
+>
 > Inner Exception Details:
-> 
-> Exception Message: TF249064: The following Web service returned an response that is not valid: [http://projects.ssw.com.au/\_vti\_bin/TeamFoundationIntegrationService.asmx](http://projects.ssw.com.au/_vti_bin/TeamFoundationIntegrationService.asmx). This Web service is used for the Team Foundation Server Extensions for SharePoint Products. Either the extensions are not installed, the request resulted in HTML being returned, or there is a problem with the URL. Verify that the following URL points to a valid SharePoint Web application and that the application is available: [http://projects.ssw.com.au](http://projects.ssw.com.au). If the URL is correct and the Web application is operating normally, verify that a firewall is not blocking access to the Web application. (type TeamFoundationServerInvalidResponseException)  
+>
+> Exception Message: TF249064: The following Web service returned an response that is not valid: [http://projects.ssw.com.au/\_vti_bin/TeamFoundationIntegrationService.asmx](http://projects.ssw.com.au/_vti_bin/TeamFoundationIntegrationService.asmx). This Web service is used for the Team Foundation Server Extensions for SharePoint Products. Either the extensions are not installed, the request resulted in HTML being returned, or there is a problem with the URL. Verify that the following URL points to a valid SharePoint Web application and that the application is available: [http://projects.ssw.com.au](http://projects.ssw.com.au). If the URL is correct and the Web application is operating normally, verify that a firewall is not blocking access to the Web application. (type TeamFoundationServerInvalidResponseException)  
 > Exception Data Dictionary:  
 > ResponseStatusCode = InternalServerError
 
@@ -228,7 +227,7 @@ You will need to upgrade the Extensions for SharePoint Products and Technologies
 { .post-img }
 **Figure: Only install the SharePoint Extensions on your SharePoint front end servers. TFS 2010 supports both SharePoint 2007 and SharePoint 2010.**
 
-  ![image](images/09437a6f5f9c_A38D-image_-6-30.png)  
+![image](images/09437a6f5f9c_A38D-image_-6-30.png)  
 { .post-img }
 **Figure: When you configure SharePoint it uploads all of the solutions and templates.**
 
@@ -294,6 +293,3 @@ If you are using Eclipse you can download the new [Team Explorer Everywhere](htt
 Get your developers to check that you have the latest version of your applications with [SSW Diagnostic](http://www.google.co.uk/url?sa=t&source=web&ct=res&cd=1&ved=0CAgQFjAA&url=http%3A%2F%2Fwww.ssw.com.au%2Fssw%2FDiagnostics%2FDefault.aspx&rct=j&q=SSW+diagnostic&ei=bwLDS-DUD8n3-Qam0KDJCA&mk=0&mb=2&usg=AFQjCNH8Q1imMZTTiqT544Zf7wmLd_lj2A&sig2=SC4YIDhaN5qEfUdR3ygcVQ) which will check for Service Packs and hot fixes to Visual Studio as well.
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [SSW](http://technorati.com/tags/SSW) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

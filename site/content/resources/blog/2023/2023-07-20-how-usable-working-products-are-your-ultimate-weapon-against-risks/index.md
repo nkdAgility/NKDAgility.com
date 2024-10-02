@@ -2,10 +2,10 @@
 id: "49501"
 title: "How Usable Working Products Are Your Ultimate Weapon Against Risks"
 date: "2023-07-20"
-categories: 
+categories:
   - "measure-and-learn"
   - "transparency-commitment"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "image-1.jpg"
@@ -61,9 +61,3 @@ So create a usable working product on a regular cadence, close the feedback loop
 Stay connected to the market and business demands and create a usable working product of the highest possible value!
 
 This is the way!
-
-
-
-
-
-

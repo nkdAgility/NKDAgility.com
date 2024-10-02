@@ -2,10 +2,10 @@
 title: Metrics and Reports
 type: practice
 recommendedContent:
- - practices/Metrics-Reports/
- - practices/Metrics-Reports.html
- - metrics-reports
- - metrics-reports.html
+  - practices/Metrics-Reports/
+  - practices/Metrics-Reports.html
+  - metrics-reports
+  - metrics-reports.html
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -15,8 +15,6 @@ card:
   title: Metrics and Reports
 aliases:
 ---
-
-
 
 In order to understand how your team is doing we need to have metrics that we can monitor across all of [Company]. There are two focuses of this work, first is the Product/Project/Organisation focus and second is the Team focus.
 

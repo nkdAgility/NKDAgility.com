@@ -11,7 +11,7 @@ isShort: True
 
 {{< youtube Puz2wSg7UmE >}}
 
-#  shorts 5 reasons why you need EBM in your environment. Part 4
+# shorts 5 reasons why you need EBM in your environment. Part 4
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your #agile environment. Part 4.
 

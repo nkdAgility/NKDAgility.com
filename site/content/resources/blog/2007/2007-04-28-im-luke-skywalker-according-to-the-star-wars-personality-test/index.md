@@ -2,7 +2,7 @@
 id: "409"
 title: "I'm Luke Skywalker according to the Star Wars personality test."
 date: "2007-04-28"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -18,6 +18,3 @@ I was hoping for anything else!
 Thanks [Mickey](http://teamsystemrocks.com/blogs/mickey_gousset/archive/2007/04/19/1596.aspx)...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

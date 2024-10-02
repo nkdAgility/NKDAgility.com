@@ -2,7 +2,7 @@
 id: "464"
 title: "Windows Communication Framework Evaluation"
 date: "2006-08-09"
-tags: 
+tags:
   - "code"
   - "wcf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
@@ -20,6 +20,3 @@ Having read the white paper [The Future of ASP.NET Web Services in the Context o
 I will be recommending to my company that any future web service projects be done in WCF, with the ability of older clients to communicate in a basic means, and with the benefits of security, cross-service transactions and token authentication I think that this new technology will serve any company well.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-
-
-

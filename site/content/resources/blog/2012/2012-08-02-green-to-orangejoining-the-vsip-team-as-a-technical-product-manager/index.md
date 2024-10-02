@@ -2,9 +2,9 @@
 id: "6914"
 title: "Green to Orange–Joining the VSIP team as a Technical Product Manager"
 date: "2012-08-02"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "nwcadence"
   - "visual-studio"
   - "vsip"
@@ -33,13 +33,9 @@ An Orange badge (or “v dash” because of the v-username format) is an externa
 My key focus will be on:
 
 - ### Opportunities for partners to extend Visual Studio
-    
-    There are many extensibility points in the Visual Studio stack from client to server and back again, but not all of them are being leveraged by the field. There are currently over 180+ VSIP members that are leveraging the benefits of a program designed to foster collaboration and growth of an ecosystem around Visual Studio and we want to grow that. In addition we need to understand where the partners fir, where they are going and what Microsoft can do to support them… a roadmap if you will.
-    
+  There are many extensibility points in the Visual Studio stack from client to server and back again, but not all of them are being leveraged by the field. There are currently over 180+ VSIP members that are leveraging the benefits of a program designed to foster collaboration and growth of an ecosystem around Visual Studio and we want to grow that. In addition we need to understand where the partners fir, where they are going and what Microsoft can do to support them… a roadmap if you will.
 - ### Opportunities for Visual Studio to be extended
-    
-    There are many gaps in the extensibility that if this or that API was just tweaked a little we could get some awesome developer tools working. This is where I will be leasing heavily with the Product Teams for Visual Studio and Team Foundation Serve to make use that the extensibility points that the vendors want to leverage are up to par or even exist at all. This will enable Visual Studio to better support the partners and vice a versa.
-    
+  There are many gaps in the extensibility that if this or that API was just tweaked a little we could get some awesome developer tools working. This is where I will be leasing heavily with the Product Teams for Visual Studio and Team Foundation Serve to make use that the extensibility points that the vendors want to leverage are up to par or even exist at all. This will enable Visual Studio to better support the partners and vice a versa.
 
 My first task was defining a new taxonomy to fit out partners into as the old one was a little too low level with “ASP.NET” and “MVC” on the list. We went with parity to the general “Define”, ‘Develop” and “Operate” strategy that will help us better understand where the VSIP partners sit and where any gaps are.
 
@@ -52,5 +48,3 @@ I am really exited about this not just as an opportunity to work more closely wi
 Now adding to that the Product Management role which is very different from those that have gone before will be the next challenge. Also balancing that on a part time basis will be even more fun…
 
 **Do you integrate with Visual Studio? Did it fit into the new taxonomy?**
-
-

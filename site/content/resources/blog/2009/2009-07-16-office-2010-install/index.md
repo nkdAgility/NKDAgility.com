@@ -2,7 +2,7 @@
 id: "103"
 title: "Office 2010 Install"
 date: "2009-07-16"
-tags: 
+tags:
   - "office"
   - "tools"
 coverImage: "metro-office-128-link-7-1.png"
@@ -42,5 +42,3 @@ Woo, little smiles:
 { .post-img }
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
-
-

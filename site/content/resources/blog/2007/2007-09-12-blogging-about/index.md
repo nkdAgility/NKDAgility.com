@@ -2,9 +2,9 @@
 id: "314"
 title: "Blogging about..."
 date: "2007-09-12"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs2008"
   - "visual-studio"
@@ -36,6 +36,3 @@ Well, in the last month (yes I know I said I would do this every week) I have:
 That's about it for now...Back to my unemployment :), and enjoying the rare Scottish sun...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WCF](http://technorati.com/tags/WCF) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS)
-
-
-

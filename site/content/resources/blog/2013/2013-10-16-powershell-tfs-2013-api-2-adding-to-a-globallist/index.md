@@ -2,9 +2,9 @@
 id: "10151"
 title: "PowerShell TFS 2013 API #2 - Adding to a GlobalList"
 date: "2013-10-16"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "globallist"
   - "powershell"
   - "tfs"
@@ -65,5 +65,3 @@ Figure: Adding to a GlobalList with PowerShell
 Here you can see that we are first getting the Work Item Store service, which is where all of the magic around Work Item Tracking occurs. Once we have that we need to export the XML using the “ExportGlobalLists” (#9) method which effectively just pucks up the entire XML tree for the global lists. We can then parse and edit it like any other piece of XML. We can find the list that we want, as all of the lists are exported, using a little XPath (#11)  and determine wither the required global list even exists. If it does not then my script goes ahead and adds one (#14-21) so that we don’t get an error. If this is the first time that you are added and element to a list it only makes sense that you would want the list to exist so creating it is not a stretch.
 
 Once we have the list, wither it is a new or existing one, we can go ahead and create and add the new element (#24-27.) Once we have everything in place we can import the entire set of global lists back into the server using the Import method.
-
-

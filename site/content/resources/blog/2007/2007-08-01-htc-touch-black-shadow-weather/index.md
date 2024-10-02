@@ -2,9 +2,9 @@
 id: "351"
 title: "HTC Touch / Black Shadow Weather"
 date: "2007-08-01"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ If you have a Black OS / Other HTC: [HTC Homeplug Weather fix - get your LOCAL w
 The registry edit is easier if you have an official Touch, but I was able to simply edit the xml file and save it without any extra complicatedness...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-
-

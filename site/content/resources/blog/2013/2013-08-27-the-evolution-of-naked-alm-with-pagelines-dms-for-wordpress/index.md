@@ -2,9 +2,9 @@
 id: "9964"
 title: "The evolution of naked ALM with Pagelines DMS for Wordpress"
 date: "2013-08-27"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "css"
   - "dms"
   - "multisite"
@@ -21,7 +21,7 @@ The evolution of naked ALM with Pagelines DMS for Wordpress is a story of succes
 
 It has been a long time \[since I moved from geeks with blogs to Wordpress\] and I have been supremely happy with the platform. When Live Spaces wrapped up there was good reason that they moved everyone to Wordpress.  When I first moved to Wordpress I was struck by the simplicity of the platform, but if you are a geek like me you will very quickly want more. You will start with the thousands of plugins that already exist and you will switch theme constantly as you try out new looks feels and features. That is until you find [Pagelines](http://pln.so/dy).
 
-I moved to Pagelines after I notices that Ben Day was using it on [http://benday.com](http://benday.com) and the platform, Pagelines Framework, was amazing. With the [recent changes at home and work](http://nkdagility.com/a-change-for-the-better-4/) some things that I had put off for a while needed to be done. 
+I moved to Pagelines after I notices that Ben Day was using it on [http://benday.com](http://benday.com) and the platform, Pagelines Framework, was amazing. With the [recent changes at home and work](http://nkdagility.com/a-change-for-the-better-4/) some things that I had put off for a while needed to be done.
 
 1. DONE - [Update brand to reflect new philosophy](http://nkdagility.com/naked-alm-starting-with-why-and-getting-naked/)
 2. IN PROGRESS - Change the site to be more selling me than just the blog
@@ -136,5 +136,3 @@ If you are building a website or blog you will be hard pushed to do better than 
 **What blogging platform do you use?**
 
 **How would you compare it to Pagelines on Wordpress?**
-
-

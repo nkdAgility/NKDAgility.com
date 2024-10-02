@@ -2,9 +2,9 @@
 id: "10334"
 title: "Move your Active Directory domain to another server"
 date: "2014-01-20"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "active-directory"
   - "domain"
   - "server-2012-r2"
@@ -39,5 +39,3 @@ And lets not forget the Global Catalogue.
 The video documents my journey of moving my demo domain from one server to another and it currently looks like everything is working. Job done…
 
 How did you get on moving your domain?
-
-

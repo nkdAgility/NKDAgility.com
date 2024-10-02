@@ -2,9 +2,9 @@
 id: "49485"
 title: "The Urgent Call for Agile Organisational Transformation"
 date: "2023-06-29"
-categories: 
+categories:
   - "organisational-change"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "1686217267121-1-1-1.jpg"
@@ -66,5 +66,3 @@ Here is a list of the books, blogs, and content that may have influenced my idea
 - [OpenSpace Beta](https://www.redforty2.com/openspacebeta)
 
 - [BetaCodex Network - Learn about the Alternative to Management!](https://betacodex.org/home)
-
-

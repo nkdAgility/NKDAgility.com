@@ -2,9 +2,9 @@
 id: "421"
 title: "TeamPlain - Install and initial views"
 date: "2007-03-27"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
@@ -20,6 +20,3 @@ This is a fantastic piece of web work, it has all of the features that you could
 I am still trying to work out how you control access to projects! Even though users have no permissions for a particular project: I am thinking that removing "Team Foundation Valid Users" from the project will work, I just have not had time to test it...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

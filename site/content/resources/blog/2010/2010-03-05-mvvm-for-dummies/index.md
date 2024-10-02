@@ -2,9 +2,9 @@
 id: "65"
 title: "MVVM for Dummies"
 date: "2010-03-05"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "mvvm"
   - "silverlight"
@@ -80,5 +80,3 @@ End Class
 **Figure: This is a compromise, but the best you can do without Dependency Injection**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM)
-
-

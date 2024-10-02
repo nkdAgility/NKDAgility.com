@@ -23,11 +23,8 @@ This is something that I will need to look into!
 
 Has anyone tried this tool in a production enviroment?
 
-* * *
+---
 
 More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEntryEditor/FCKeditor/editor/) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

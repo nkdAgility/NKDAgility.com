@@ -2,9 +2,9 @@
 id: "3686"
 title: "Disqus & Chrome with non-support"
 date: "2011-07-05"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "off-topic"
 coverImage: "nakedalm-logo-128-link-7-7.png"
 author: "MrHinsh"
@@ -17,11 +17,9 @@ slug: "disqus-chrome-with-non-support"
 
 I am having a problem on my blog with comments. Namely that you cant see any! This is the downside of relying on a third party tool, but do the problems out weight the benefits?
 
--  [Comments not loading](http://getsatisfaction.com/disqus/topics/comments_not_loading_on_wordpress)
+- [Comments not loading](http://getsatisfaction.com/disqus/topics/comments_not_loading_on_wordpress)
 
-  
-
-* * *
+---
 
 I am having problems with Disqus on Wordpress in Chrome; My comments don't load, and they do not load the first time in the admin system either. In the Admin system a reload of the page fixes the issue, but on the site, nada.
 
@@ -47,7 +45,7 @@ Above s the exact information that I put in an email to help@disqus.com,  and d
 > \- a step-by-step process to reproduce the issue on our end;  
 > \- screenshots of any errors or irregularities in this process -- for more information on how to take a screenshot, visit_ [_http://take-a-screenshot.org/_](http://take-a-screenshot.org/)  
 > _\- web browser and version being used, e.g. Internet Explorer 9 or Firefox 4 -- to determine this information, visit_ [_http://www.whatbrowseramiusing.co/_](http://www.whatbrowseramiusing.co/)
-> 
+>
 > _Kind Regards,  
 > Ryan_
 
@@ -73,14 +71,11 @@ All pages as describes. Go to any single blog post page, but the one depicted in
 
 > _\>>a step-by-step process to reproduce the issue on our end;_
 
-1. Go to individual post page on site  
-      
-    _e.g._ [_http://blog.hinshelwood.com/ahaaaa/_](http://blog.hinshelwood.com/ahaaaa/) _(as depicted in the screenshot)_  
-    
-2. See problem that is demonstrated in this screenshot  
-      
-    [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/07/image2.png)  
-{ .post-img }
+1.  Go to individual post page on site
+    _e.g._ [_http://blog.hinshelwood.com/ahaaaa/_](http://blog.hinshelwood.com/ahaaaa/) _(as depicted in the screenshot)_
+2.  See problem that is demonstrated in this screenshot
+        [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/07/image2.png)
+    { .post-img }
     **Figure: Same problem exists in this screenshot**
 
 > _\>>screenshots of any errors or irregularities in this process -- for more information on how to take a screenshot, visit [http://take-a-screenshot.org/](http://take-a-screenshot.org/)_
@@ -104,5 +99,3 @@ Please do not hesitate to contact me if you have any further problems extracting
 **<RESPONCE>**
 
 Let see if I get any help… I can’t think I am the only one who's blog does not work with Chrome.
-
-

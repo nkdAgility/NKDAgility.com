@@ -2,9 +2,9 @@
 id: "36"
 title: "SSW Brain Quest: Team Foundation Server and SharePoint 2010 (London)"
 date: "2010-07-02"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "sharepoint"
   - "spf2010"
   - "ssw"
@@ -22,9 +22,7 @@ slug: "ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london"
 
 This full day training course brings developers up-to-speed on the new features and benefits of Visual Studio 2010 Ultimate, Team Foundation Server 2010 and SharePoint 2010. With detailed insight into project management, requirements gathering, user stories, testing, workflow, document management and Office integration, attendees will leave with a strong understanding of how to embrace [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 and SharePoint 2010 in their organization.
 
-  
-
-* * *
+---
 
 This course is split into two parts and you can attend one (£61.08) or both (£105.51). Sorry for the crazy prices, but you know these Aussies…
 
@@ -118,7 +116,3 @@ This is a good chance for you to consider new ways of using Office in your compa
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
 { .post-img }
-
-
-
-

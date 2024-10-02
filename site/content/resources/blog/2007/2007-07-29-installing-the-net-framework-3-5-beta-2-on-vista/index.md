@@ -2,9 +2,9 @@
 id: "357"
 title: "Installing the .NET Framework 3.5 Beta 2 on Vista"
 date: "2007-07-29"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "visual-studio"
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
@@ -26,24 +26,21 @@ On my second attempt I managed to find a solution: I switched to trying to inst
 In order to install the .NET Framework 3.5 Beta 2 on Vista I had to uninstall some previously installed Hotfixes using these instructions:
 
 > 1\. Open the Control Panel, select Programs & Features, click on the “View installed updates” located on the Tasks pane. Select and uninstall the following Windows updates:
-> 
+>
 > \- Hotfix for Microsoft Windows (KB110806)
-> 
+>
 > \- Hotfix for Microsoft Windows (KB930264)
-> 
+>
 > \- Hotfix for Microsoft Windows (KB929300)
-> 
+>
 > 2\. Reboot
-> 
+>
 > 3\. Reattempts installing .NET Framework 3.5.
-> 
+>
 > [From MSDN Forum post](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=1705630&SiteID=1&pageid=0#1734475 "Re: [ ERROR ] Can't install .NET Framework 3.5") by [Gus Perez](http://blogs.msdn.com/gusperez/)
 
- I did however find more that one hotfix with the same KB number, so I got rid of them both.
+I did however find more that one hotfix with the same KB number, so I got rid of them both.
 
 After this I tried VS2008 again...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

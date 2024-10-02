@@ -1,11 +1,11 @@
 ---
 categories:
-- agility
+  - agility
 author: MrHinsh
 title: Scrum for Product Owners Training
 aliases:
-- scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
+  - scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
 delivery:
   audience: |2+
 
@@ -38,7 +38,7 @@ delivery:
     This course was designed by Richard Hundhausen, a Professional Scrum Trainer, co-creator of the Scaled Professional Scrum framework (the Nexus), and author of books on software development.
   type: Azure DevOps
   brand:
-    colour: 
+    colour:
     vendor: accentient
   lead: |2+
 
@@ -53,47 +53,6 @@ card:
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This instructor-led class is intended to help _Product Owners_ be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.

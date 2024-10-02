@@ -1,7 +1,7 @@
 ---
 title: Product Backlog
 type: practice
- - practices/product-backlog.html
+  - practices/product-backlog.html
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh

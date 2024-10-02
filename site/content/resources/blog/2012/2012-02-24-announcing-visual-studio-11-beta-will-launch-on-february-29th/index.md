@@ -2,9 +2,9 @@
 id: "4560"
 title: "Announcing Visual Studio 11 Beta will launch on February 29th"
 date: "2012-02-24"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "configuration"
   - "develop"
   - "infrastructure"
@@ -33,5 +33,3 @@ Not only should you Go-Live, but it is safe to do so as it is fully supported by
 We have a proven track record of delivering high value consulting that targets the specific areas of Application Lifecycle management. Still not sure?
 
 Go and listen to [Steve and Lori talking about Go-Live with Visual Studio 11 and Northwest Cadence](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) and then sign up for my [Introduction to Visual Studio 11](http://blog.hinshelwood.com/events/) session I will be delivering Live from the MVP summit next Friday…
-
-

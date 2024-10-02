@@ -2,7 +2,7 @@
 id: "3365"
 title: "What about hosting the Tfs Automation Platform"
 date: "2011-05-31"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -25,11 +25,11 @@ slug: "what-about-hosting-the-tfs-automation-platform-2"
 - [The Future of Microsoft Visual Studio Application Lifecycle Management](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/FDN03) on [Channel 9](http://channel9.msdn.com/)
 - [Team Foundation Server on Windows Azure Preview](http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview "http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview")
 
- 
 
-__note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.__
 
-* * *
+**note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.**
+
+---
 
 The Platform architecture currently involves extensive server side components. In fact almost all of the functionality is provided from the server from configuration to implementation.
 
@@ -53,5 +53,3 @@ What functionality would we loose if we settled for client ony:
 - **more…**
 
 What do you think, are the features above important?
-
-

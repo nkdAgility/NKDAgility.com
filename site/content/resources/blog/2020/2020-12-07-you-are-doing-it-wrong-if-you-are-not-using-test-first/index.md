@@ -2,10 +2,10 @@
 id: "9469"
 title: "You are doing it wrong if you are not using test first"
 date: "2020-12-07"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "atdd"
   - "bdd"
   - "develop"
@@ -34,7 +34,7 @@ The only question for professional [Developers](/the-2020-scrum-guide/#developer
 
 If you look up Test First on Wikipedia you will be redirected to the Test Driven Development (TDD) page and I believe this to be incorrect. While TDD is one, arguably the most effective, form of Test First it is by no means the whole thing. Can I achieve Test First with no automation at all: Yes. Can I do TDD with no automation at all: No. Do you see my conflict…
 
-> **_If you are building applications without writing your tests first then you are doing it wrong. Your process will result in significant rework, be less maintainable and be less likely to meet the customers needs._****Scottish Software Proverb** (just made it up, and I am Scottish)
+> **_If you are building applications without writing your tests first then you are doing it wrong. Your process will result in significant rework, be less maintainable and be less likely to meet the customers needs._\*\***Scottish Software Proverb\*\* (just made it up, and I am Scottish)
 
 Unfortunately, while the proverb above is absolutely true there are many fanatics that will not accept that you can do test-first without automation. Just like the **Process Wars**, the **Practice Wars** are being waged around us, and while we want to endeavour to be agnostic it is not possible to be an atheist.
 
@@ -57,7 +57,7 @@ The first is about professionally validating that which you have built. Software
 
 The second goal is to shorten your feedback loops. The closer our engineers are to when the problem was created the quicker they can find it and the cheaper it is to fix. Unfortunately, it is impossible to tell in most software what ‘right’ looks like and developers just take a guess. The attitude that a problem, if it exists, will be caught by Quality Assurance (QA) or User Acceptance Testing (UAT) is unprofessional at best and incompetence at worst. We want to **know** that what we have just written not only meets our customer's expectations but also does exactly what we intended for it to do under as many circumstances as we can think of.
 
-> **_Test First allows us to mature from simply testing quality in towards building that quality in from the start_****Jeff Levinson**, Architect at Boeing
+> **_Test First allows us to mature from simply testing quality in towards building that quality in from the start_\*\***Jeff Levinson\*\*, Architect at Boeing
 
 Fundamentally it is far cheaper to fix an issue closest to its source. The longer we leave the finding of that defect the more expensive it becomes. A bug found in production is [10 times more costly](http://www.scrum.org/About/All-Articles/articleType/ArticleView/articleId/644/Agile-Economics-The-Dollars-and-Sense-of-Scrum) to fix than the same bug found in development.
 
@@ -93,5 +93,3 @@ It's now 2020 and gone are the cowboy days of the late nineties and [early naugh
 There are two main value-adds here. The first is that when a coder creates functionality it does exactly what he intended and we have a record, and executable specification, of what that intent was. The second comes later. When we go to add functionality later we know when we have broken existing functionality and that is one of the most valuable parts of this endeavour.
 
 **Can you imagine how amazing it would be if you could use this executable specification to validate all future changes don’t break your application?**
-
-

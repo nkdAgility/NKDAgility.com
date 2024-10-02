@@ -2,7 +2,7 @@
 id: "4727"
 title: "Installing Visual Studio 11 on Windows 7"
 date: "2012-02-29"
-tags: 
+tags:
   - "nwcadence"
   - "tools"
   - "visual-studio"
@@ -65,5 +65,3 @@ I LOVE the new team Explorer, but it will take a little getting used to…
 Remember that there is [Go-Live for Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
-
-

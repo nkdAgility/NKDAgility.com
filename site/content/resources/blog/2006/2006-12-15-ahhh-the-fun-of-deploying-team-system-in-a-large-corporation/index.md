@@ -19,13 +19,10 @@ Has anyone tried this?
 Check out the TFS Administration Guide at [http://www.microsoft.com/downloads/details.aspx?familyid=2AED0ECC-1552-49F1-ABE7-4905155E210A&displaylang=en](http://www.microsoft.com/downloads/details.aspx?familyid=2AED0ECC-1552-49F1-ABE7-4905155E210A&displaylang=en).  
 Be sure to note the steps in the KB article for assistance opening the guide [http://support.microsoft.com/kb/902225/](http://support.microsoft.com/kb/902225/).
 
-* * *
+---
 
 More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEntryEditor/FCKeditor/editor/) from hinshelm.
 
 More on [**TFS Deployment**](/hinshelm/category/5992.aspx) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

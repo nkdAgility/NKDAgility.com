@@ -2,7 +2,7 @@
 id: "144"
 title: "Feedburner, no Google…"
 date: "2009-01-19"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
@@ -24,5 +24,3 @@ Although you do get less options, Google has promised that more functionality wi
 We will see…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

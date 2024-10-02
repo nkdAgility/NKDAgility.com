@@ -14,8 +14,4 @@ card:
     content: Start Optimizing Now
 ---
 
-
-
 Comming soon!
-
-

@@ -2,9 +2,9 @@
 id: "295"
 title: "Proxy server settings for SharePoint 2007"
 date: "2007-10-24"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "sharepoint"
   - "sp2007"
   - "spf2010"
@@ -21,7 +21,7 @@ Well this was fun... All the [examples](http://dotnet.org.za/jpfouche/archive/20
    <defaultProxy>
       <proxy usesystemdefault = "false" proxyaddress="http://proxyservername" bypassonlocal="true" />
    </defaultProxy>
-</system.net>  
+</system.net>
 ```
 
 This is the accepted route, with an exception to e added to the proxy to use anonymous authentication...
@@ -44,6 +44,3 @@ The required bit of which is the useDefaultCredentials parameter that passes the
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

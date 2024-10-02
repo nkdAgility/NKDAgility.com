@@ -2,10 +2,10 @@
 id: "11424"
 title: "Branch Policies for TFVC"
 date: "2016-01-13"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
-tags: 
+tags:
   - "devops"
 coverImage: "image-2-2-2.png"
 author: "MrHinsh"
@@ -49,5 +49,3 @@ This is a start and you are welcome to send feedback to \[bla\] in the form of i
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 
 You should also feel free to [contribute to this policy on GitHub](https://github.com/nkdAgility/TfvcBranchPolicy) where I will be happy to take pull requests.
-
-

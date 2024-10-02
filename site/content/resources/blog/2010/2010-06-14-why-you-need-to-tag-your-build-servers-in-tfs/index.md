@@ -2,7 +2,7 @@
 id: "40"
 title: "Why you need to tag your build servers in TFS"
 date: "2010-06-14"
-tags: 
+tags:
   - "automated-build"
   - "ssw"
   - "tfs-build"
@@ -20,9 +20,7 @@ slug: "why-you-need-to-tag-your-build-servers-in-tfs"
 
 Lets say you have 30 developers and each developer breaks the build once per month. That could mean that you have a broken build every day! Gated check-ins help, but they have a down side that manifests as queued builds and moaning developers.
 
-  
-
-* * *
+---
 
 The way to combat this is to have more build servers, but with that comes complexity. Inevitably you will need to install components that you would expect to be installed on target computers, but how do you keep track of which build servers have which bits?
 
@@ -90,11 +88,8 @@ This flexibility will allow you to build better software by reducing the likelih
 
 ![image](images/e6d297adc9ef_12485-image_-2-2.png)  
 { .post-img }
-**Figure: Setting the name filter based on server location** 
+**Figure: Setting the name filter based on server location**
 
 Used in combination there is a lot of power here to coordinate tens of build servers for multiple projects across multiple regions so your developers get the most out of your environment.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Admin](http://technorati.com/tags/TFS+Admin)
-
-
-

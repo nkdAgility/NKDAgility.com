@@ -2,9 +2,9 @@
 id: "38300"
 title: "Work can flow across the Sprint boundary"
 date: "2018-01-30"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "developers"
   - "flow"
   - "scrum"
@@ -17,13 +17,14 @@ slug: "work-can-flow-across-sprint-boundary"
 
 There is nothing in the Scrum Guide that says that you can't have workflow across the Sprint boundary. I'm going to suggest that not only can you, but you should as long as you don't endanger the Sprint Goal.
 
-**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)****, and schedule a** **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
+**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)\*\***, and schedule a\*\* **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
 
 ## TL;DR;
 
 The [definition of Done](https://nkdagility.com/getting-started-definition-done-dod/) is an instrumental part of maintaining Transparency of the past work and is not optional. The Sprint Goal provides focus and direction. In order to maintain flow we need to be able to reduce the batch size of the work, thus we must allow for work to flow across the Sprint boundary. If you have a Professional Scrum Team that is adept at creating [Done increments of working software](https://nkdagility.com/professional-scrum-teams-build-software-works/) then introducing flow can improve the value delivered by increasing the throughput of the team.
 
 ## ![](images/nkdagility-cross-sprint-boundary-800x390-1-2.png)
+
 { .post-img }
 
 Always remember that the Sprint is a container for Planning and not always for Delivery. Just like you can do Continuous Delivery in Scrum, so you can also introduce flow and Kanban. Less skilled teams can also benefit as long as you make sure that you meet the Sprint Goal and Done Increments are created to provide transparency of the past and build trust for the future.
@@ -36,7 +37,7 @@ I also believed the myth that we could not flow work across the Sprint boundary.
 
 If you as a Development Team are practising Continuous Delivery (CD) then they always have working software. I would expect that a team doing CD would have every single element of their Definition of Done (DOD) automated and every Checkin/Pull Request meets the DOD. If that's true, then when you get to your Sprint Review you just show the work that you have finished.
 
-**If you want Flow then** **[CD is no longer optional for a Software Team let along a Professional Scrum Team](https://nkdagility.com/continuous-deliver-sprint/)****.**
+**If you want Flow then** **[CD is no longer optional for a Software Team let along a Professional Scrum Team](https://nkdagility.com/continuous-deliver-sprint/)\*\***.\*\*
 
 ## Shipping software with Unfinished work can still be Scrum
 
@@ -65,6 +66,4 @@ I have found that reading the Scrum Guide carefully, turns up all sorts of miss 
 
 At the end of every Sprint, you should have working Software that meets your definition of Done and you should have met your Sprint Goal.
 
-**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)****, and schedule a** **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
-
-
+**UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)\*\***, and schedule a\*\* **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**

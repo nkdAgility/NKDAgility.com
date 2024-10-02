@@ -2,7 +2,7 @@
 id: "190"
 title: "Development and Database combined"
 date: "2008-10-01"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -17,6 +17,3 @@ From today if you Own either version in 2005 or 2008 flavours you will also have
 Good stuff :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

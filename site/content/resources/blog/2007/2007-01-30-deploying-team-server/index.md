@@ -2,7 +2,7 @@
 id: "440"
 title: "Deploying Team Server"
 date: "2007-01-30"
-tags: 
+tags:
   - "service-oriented-architecture"
   - "tfs-build"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -30,6 +30,3 @@ I think not.
 It would be far better to have a complete solution that covers all aspects of the development life cycle, instead of having piecemeal system knitted together by a variety of technologies.
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS)
-
-
-

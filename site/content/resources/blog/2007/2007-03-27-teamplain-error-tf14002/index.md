@@ -11,7 +11,7 @@ slug: "teamplain-error-tf14002"
 Some prople have encountered this error when viewing the source control tab in TeamPlain:
 
 > System.Web.Services.Protocols.SoapException: TF14002: The identity NT AUTHORITYNETWORK SERVICE is not a member of the Team Foundation Valid Users group.
-> 
+>
 > at Microsoft. TeamFoundation. VersionControl. Server. Repository. GetRepositoryProperties()
 
 Now in the TeamPlain forums a couple of posts defign the problem, but no solution:
@@ -29,6 +29,3 @@ This has only hapened to one of my users sos far and not to me at all.
 We will see...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

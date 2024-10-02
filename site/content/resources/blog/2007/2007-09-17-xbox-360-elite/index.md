@@ -2,9 +2,9 @@
 id: "311"
 title: "Xbox 360 Elite"
 date: "2007-09-17"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "live"
   - "xbox"
 coverImage: "metro-xbox-360-link-1-1.png"
@@ -22,6 +22,3 @@ To sweeten the deal, I got Medal of Honor: Airbourn for a tenner and ponied up f
 I love my Xbox :)
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-
-
-

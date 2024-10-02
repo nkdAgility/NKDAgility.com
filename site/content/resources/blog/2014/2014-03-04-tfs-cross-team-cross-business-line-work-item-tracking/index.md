@@ -2,9 +2,9 @@
 id: "10378"
 title: "TFS for cross team and cross business line work item tracking"
 date: "2014-03-04"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "team-field"
   - "tfs"
   - "tfs-2013"
@@ -84,5 +84,3 @@ Things are not all good and there are a few caveats to this approach:
 These issues however are small in comparison to the benefits that are gained by the single Team Project and Team Field approaches detailed above.
 
 How have you solved your organisational requirements in Team Foundation Server?
-
-

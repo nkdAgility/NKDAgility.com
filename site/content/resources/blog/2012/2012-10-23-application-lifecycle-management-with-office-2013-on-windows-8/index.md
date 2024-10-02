@@ -2,9 +2,9 @@
 id: "8967"
 title: "Application lifecycle management with Office 2013 on Windows 8"
 date: "2012-10-23"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "office-2013"
@@ -74,5 +74,3 @@ This makes Excel 2013 a premier reporting and data manipulation tool in the ALM 
 ### Conclusion
 
 The new Office 2013 gives us the same awesome tool is a slicker faster package and there is no way that I will be complaining about that…
-
-

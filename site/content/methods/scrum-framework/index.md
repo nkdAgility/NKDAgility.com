@@ -5,8 +5,9 @@ weight: 1
 card:
   title: Scrum Framework
   content: |-
-   Scrum Framework
+    Scrum Framework
   button:
     content: More info
 ---
+
 Description of Scrum Framework.

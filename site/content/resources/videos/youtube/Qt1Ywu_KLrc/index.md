@@ -17,12 +17,13 @@ The Azure DevOps Migration Tools allow you to bulk edit and migrate data between
 
 Ask Questions on Github: https://github.com/nkdAgility/azure-devops-migration-tools/discussions
 
-*What can you do with this tool?*
+_What can you do with this tool?_
+
 - Migrate Work Items, TestPlans & Suits, Teams, Shared Queries, Pipelines, & Processes from one Team Project to another
 - Migrate Work Items, TestPlans & Suits, Teams, Shared Queries, Pipelines, & Processes from one Organization to another
 - Bulk edit of Work Items across an entire Project.
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the types of challenges that lean-agile practitioners thrive on and many find daunting. If you struggle to manage your Sprints effectively, my team at NKDAgility is here to assist you or connect you with a consultant, coach, or trainer who can.
 

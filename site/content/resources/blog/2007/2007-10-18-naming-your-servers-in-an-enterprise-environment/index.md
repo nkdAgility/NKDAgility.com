@@ -2,9 +2,9 @@
 id: "299"
 title: "Naming your servers in an enterprise environment"
 date: "2007-10-18"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "fail"
   - "infrastructure"
@@ -47,13 +47,10 @@ Now, in the intervening time, the company adds a TFS server development environm
 
 Do you see the problem. If you now want to add another web server to your production SharePoint it would be "Glasgow17". Oh, and we need to add our TFS UAT environment, and lets not forget a SharePoint disaster recovery environment.
 
-> _Glasgow1, Glasgow2, Glasgow3, Glasgow4_, _Glasgow5, Glasgow6, Glasgow7, Glasgow8_, _Glasgow9, Glasgow10, Glasgow11, Glasgow12_, _Glasgow13, Glasgow14, Glasgow15, Glasgow16, Glasgow17, Glasgow18, Glasgow19, Glasgow20, Glasgow21, Glasgow22, Glasgow23, Glasgow24, Glasgow25_ 
+> _Glasgow1, Glasgow2, Glasgow3, Glasgow4_, _Glasgow5, Glasgow6, Glasgow7, Glasgow8_, _Glasgow9, Glasgow10, Glasgow11, Glasgow12_, _Glasgow13, Glasgow14, Glasgow15, Glasgow16, Glasgow17, Glasgow18, Glasgow19, Glasgow20, Glasgow21, Glasgow22, Glasgow23, Glasgow24, Glasgow25_
 
 **Do you remember which server is which? Try and identify a development SharePoint application server? :)**
 
 This method just does not work in an enterprise environment...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-
-

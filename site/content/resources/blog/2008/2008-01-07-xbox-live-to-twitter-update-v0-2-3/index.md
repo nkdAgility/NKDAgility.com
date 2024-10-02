@@ -2,10 +2,10 @@
 id: "267"
 title: "Xbox  Live to Twitter Update (v0.2.3)"
 date: "2008-01-07"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
   - "live"
   - "xbox"
@@ -25,6 +25,3 @@ I like this play pen as it allows me to explore some of the .NET 3.5 functionali
 You can [download the application](http://www.codeplex.com/XboxLiveStatus/Release/ProjectReleases.aspx) from [CodePlex](http://www.codeplex.com) along with all the [source code](http://www.codeplex.com/XboxLiveStatus).
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-
-
-

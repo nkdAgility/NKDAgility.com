@@ -2,7 +2,7 @@
 id: "3487"
 title: "TFS Event Handler in .NET 3.5 Part 1 - The Architecture"
 date: "2007-08-21"
-tags: 
+tags:
   - "tfs-event-handler"
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -18,7 +18,7 @@ I have decided to have a little go at creating a Team Foundation Server Event Ha
 1. [TFS Event Handler in .NET 3.5 Part 1 - The Architecture](http://blog.hinshelwood.com/archive/2007/08/21/TFS-Event-Handler-in-NET-3-5-Part-1-The-Architecture.aspx)
 2. [TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events](http://blog.hinshelwood.com/archive/2007/09/07/TFS-Event-Handler-in-NET-3-5-Part-2-Handling-Team-Foundation-Server-Events.aspx)
 3. TFS Event Handler in .NET 3.5 Part 3 - Passing the events over a Windows Communication Foundation MSMQ (Coming soon)
-4. TFS Event Handler in .NET 3.5 Part 4 - Workflow (Coming soon) 
+4. TFS Event Handler in .NET 3.5 Part 4 - Workflow (Coming soon)
 
 # The Architecture
 
@@ -129,11 +129,6 @@ As you an see, without doing any code or creating any projects within VS manuall
 
 NOTE: I have found that using this method you can only create ASMX services, and not WCF. This will hopfully (PLEASE) be sorted for RTM of Visual Studio 2008.
 
-  
- 
+
 
 Technorati Tags: [Visual Studio Team System](http://technorati.com/tags/Visual%20Studio%20Team%20System), [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008), [Team Edition for Architects](http://technorati.com/tags/Team%20Edition%20for%20Architects), [TFSEventHandler](http://technorati.com/tags/TFSEventHandler), [Microsoft .NET Framework](http://technorati.com/tags/Microsoft%20.NET%20Framework), [Software Industrial Revolution](http://technorati.com/tags/Software%20Industrial%20Revolution)
-
-
-
-

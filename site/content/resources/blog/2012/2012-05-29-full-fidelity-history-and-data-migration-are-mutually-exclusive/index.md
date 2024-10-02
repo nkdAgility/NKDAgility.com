@@ -2,10 +2,10 @@
 id: "5288"
 title: "Full-fidelity history and data migration are mutually exclusive"
 date: "2012-05-29"
-categories: 
+categories:
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "nwcadence"
@@ -59,13 +59,9 @@ Using method #7 you will be able to:
 You will however NOT be able to:
 
 - **Consolidate to a single Team Project Collection**
-    
-    MSDN: [Visual Studio TFS Team Project and Collection Guidance](http://msdn.microsoft.com/en-us/magazine/gg983486.aspx)
-    
+  MSDN: [Visual Studio TFS Team Project and Collection Guidance](http://msdn.microsoft.com/en-us/magazine/gg983486.aspx)
 - **Remove old fields until their history is no longer required**
-    
-    We can rename the legacy Work Item Type Fields so that they all appear as “\[legacy\] My Old Field” until teams no longer need the data. Do you know what your records retention policy is?
-    
+  We can rename the legacy Work Item Type Fields so that they all appear as “\[legacy\] My Old Field” until teams no longer need the data. Do you know what your records retention policy is?
 
 If you need help deciding then there is some Rangers guidance and my aforementioned [Process Template migration](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/) guidance.
 
@@ -74,5 +70,3 @@ If you need help deciding then there is some Rangers guidance and my aforementio
 **Figure: TFS Integration Platform - Migration Guidance Poster**
 
 There are a bunch of other workarounds to this that I have discussed on many occasions with customers but they still need to choose … which do you want? Make sure that you look at all of the pros and cons carefully and decide what you want to do. An additional thing to note is that migration is very expensive in time and expertise, so choose carefully.
-
-

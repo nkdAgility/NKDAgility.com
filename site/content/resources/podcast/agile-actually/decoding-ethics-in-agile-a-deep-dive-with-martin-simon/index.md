@@ -2,12 +2,12 @@
 id: "50498"
 title: "Decoding Ethics in Agile: A Deep Dive with Martin & Simon"
 date: "2023-10-26"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
 type: "nkdresources"
 slug: "decoding-ethics-in-agile-a-deep-dive-with-martin-simon"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

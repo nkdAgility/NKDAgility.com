@@ -2,9 +2,9 @@
 id: "9255"
 title: "Windows Server 2012 Core for dummies"
 date: "2013-03-10"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "core"
   - "infrastructure"
@@ -19,11 +19,9 @@ slug: "windows-server-2012-core-for-dummies"
 This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.
 
 - **Update 2013-03-18 -** After all my hard work Shad told me that this was the old-school way and why did I not use "sconfig".   
-    ![18-03-2013 15-53-19](images/18-03-2013-15-53-19-1-1.png)**Figure: Arrrrr**
-{ .post-img }
-    
-    It does not have all of the commands I might need, but it does have many.
-    
+   ![18-03-2013 15-53-19](images/18-03-2013-15-53-19-1-1.png)**Figure: Arrrrr**
+  { .post-img }
+      It does not have all of the commands I might need, but it does have many.
 
 While I pride myself on having a past as a developer I did dabble in thee dark side once upon a time. My first to jobs out of university ended up with me maintaining domains and computers for the organisations that I worked for even though I would rather have not.
 
@@ -97,7 +95,7 @@ NetSh Advfirewall set allprofiles state off
 
 ```
 
-**Figure: Disable the firewall via the command line** **for Windows Server 2012 Core** 
+**Figure: Disable the firewall via the command line** **for Windows Server 2012 Core**
 
 As well as remotely managing my servers I also want to be able to ping my servers. Call me old fashioned but a ‘ping’, which is disabled by default, has help me out many a time.. So I also want to enable that:
 
@@ -106,7 +104,7 @@ netsh advfirewall firewall add rule name="All ICMP V4" dir=in action=allow proto
 
 ```
 
-**Figure: Enable ping via the command line for Windows Server 2012 Core** 
+**Figure: Enable ping via the command line for Windows Server 2012 Core**
 
 While not really required it does tend to help you out when you can ping through your firewall.
 
@@ -133,7 +131,7 @@ set-service wuauserv -startuptype "Automatic"
 
 **Figure: Enable Windows Update via the command line for Windows Server 2012 Core**
 
-There is a script that you can install for [Searching, Downloading, and Installing Updates](http://msdn.microsoft.com/en-us/library/aa387102(VS.85).aspx) but that is way more hassle than I want. In the past there were updates, specifically 1.1 .NET Framework updates that were installed automatically and broke some custom applications that companies had. Because of that burn they don’t like auto-updates.
+There is a script that you can install for [Searching, Downloading, and Installing Updates](<http://msdn.microsoft.com/en-us/library/aa387102(VS.85).aspx>) but that is way more hassle than I want. In the past there were updates, specifically 1.1 .NET Framework updates that were installed automatically and broke some custom applications that companies had. Because of that burn they don’t like auto-updates.
 
 The facts though are that the only reason the applications broke were that they were poorly built and maintained. Is this the fault of the update tool? Or the Developers and support teams for not keeping up to date. Barring an emergency ‘OMG-OMG Look at that security hole’ it takes around three months for updates to get onto Windows Update. All that testing that needs done is also testing that your organisation needs to do and turning automatic updates of prevents that testing.
 
@@ -162,7 +160,7 @@ netdom renamecomputer localhost /newname:Metatron /reboot
 Whats in a name? Well my ‘metatron’ name, for my database server, is not what I would use for a company. Company servers have names that show lots of information:
 
 > elonmaptfsp01 = **E**urope | **Lon**don | **M**icrosoft | **Ap**plication | **T**eam **F**oundation **S**erver | **P**roduction | **01**
-> 
+>
 > elonmsqtfsp01 = **E**urope | **Lon**don | **M**icrosoft | **SQ**L | **T**eam **F**oundation **S**erver | **P**roduction | **01**
 
 You should be able to tell a lot by a name…
@@ -187,7 +185,7 @@ netsh interface ipv4 add dnsserver "Ethernet" 192.168.100.1 1
 
 ```
 
-**Figure: Setting network settings for Windows Server 2012 Core via the command line** 
+**Figure: Setting network settings for Windows Server 2012 Core via the command line**
 
 Now this would be us done but I actually add 3 virtual adapters to my servers. Why? Well I have to bind to either WiFi or Cable and changing it on the fly is slow. I can change it quickly on each guest, but I need to do it for each guest which is… effort. So to mitigate it I add 2 additional adapters and bind to both WiFi and Wire.
 
@@ -204,7 +202,7 @@ netsh interface set interface name = "Ethernet 3" newname = "Public - Wire"
 
 ```
 
-**Figure: Setting the Interface name for your Windows Server 2012 Core via the command line** 
+**Figure: Setting the Interface name for your Windows Server 2012 Core via the command line**
 
 Now we can communicate and we know how…
 
@@ -232,7 +230,7 @@ netdom join localhost /domain:vsalm.com /userd:vsalmadministrator /passwordd:[pa
 
 ```
 
-**Figure: Join your Windows Server 2012 Core via the command line** 
+**Figure: Join your Windows Server 2012 Core via the command line**
 
 After a reboot you are kinda done. I used the remote administration to do much of the complicated configuration and to add new Features and Roles to the servers. This can be done via the command line, but it is something that is easier in the UI.
 
@@ -243,5 +241,3 @@ There are many things in Windows Server 2012 Core that you have to do via the co
 Good luck with your server configurations…
 
 _\-Do you need help deploying & configuring Team Foundation Server? Get in touch on_ [_info@nwcadence.com_](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Windows Server 2012 Core for dummies) _so that we can get started._
-
-

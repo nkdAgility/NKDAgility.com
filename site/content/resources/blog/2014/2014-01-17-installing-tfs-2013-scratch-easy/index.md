@@ -2,9 +2,9 @@
 id: "10332"
 title: "Installing TFS 2013 from scratch is easy"
 date: "2014-01-17"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "configuration"
   - "install"
   - "tfs"

@@ -2,9 +2,9 @@
 id: "30"
 title: "Rangers shipped Visual Studio 2010 Database Guide"
 date: "2010-08-25"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs2010"
   - "tools"
@@ -22,9 +22,7 @@ slug: "rangers-shipped-visual-studio-2010-database-guide"
 
 Have you ever struggled with the Database Developer (was DataDude) components of Visual Studio? Well I have…and now the ALM Rangers have released a new guide to help us all get the benefits. There is Guidance as well as Hands-On-Labs and even how to do WIX integration for deployment.
 
-  
-
-* * *
+---
 
 The [Visual Studio 2010 Database Guide](http://vsdatabaseguide.codeplex.com/) is available to download from Codeplex and you should try it out and submit some feedback. Wondering what this is all about? Well…
 
@@ -53,22 +51,22 @@ The content is packaged in 3 separate zip files to give you the choice of select
 - Visual Studio Guidance for Database Projects **\--> Start here**
 - Visual Studio Database Projects Hands-On-Labs document
 - Hands-On-Labs (HOLs), including:
-    - Solution and Project Management
-        - Refactoring a Visual Studio Database Solution to Leverage Shared Code
-    - Source Code Control and Configuration Management
-        - Single Team Branching Model
-        - Multiple Team Branching Model
-    - Integrating External Changes with the Project System
-        - Maintaining Linked Servers in a Visual Studio Database Project
-        - Complex data movement
-    - Build and Deployment Automation
-        - WiX-Integration with deployment of databases
-        - The Integrate with Team Build Scenario
-        - Building and deploying outside team build
-    - Database Testing and Deployment Verification
-        - The “Basic” Create Unit Test Scenario
-        - The “Advanced” Create Unit Test Scenario
-        - Find Model drifts Scenario
+  - Solution and Project Management
+    - Refactoring a Visual Studio Database Solution to Leverage Shared Code
+  - Source Code Control and Configuration Management
+    - Single Team Branching Model
+    - Multiple Team Branching Model
+  - Integrating External Changes with the Project System
+    - Maintaining Linked Servers in a Visual Studio Database Project
+    - Complex data movement
+  - Build and Deployment Automation
+    - WiX-Integration with deployment of databases
+    - The Integrate with Team Build Scenario
+    - Building and deploying outside team build
+  - Database Testing and Deployment Verification
+    - The “Basic” Create Unit Test Scenario
+    - The “Advanced” Create Unit Test Scenario
+    - Find Model drifts Scenario
 
 ## Team
 
@@ -78,6 +76,3 @@ Obviously this type of work would not be possible without many people contributi
 - **Reviewers:** Christian Bitter (MSFT), Regis Gimenis (MSFT), Rob Jarrat (MSFT), Bijan Javidi (MSFT), [Mathias Olausson (MVP)](http://msmvps.com/blogs/molausson/), Willy-Peter Schaub (MSFT)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFS 2010](http://technorati.com/tags/TFS+2010),[VS 2010](http://technorati.com/tags/VS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
-
-
-

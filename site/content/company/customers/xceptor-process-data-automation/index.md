@@ -7,5 +7,3 @@ author: "MrHinsh"
 type: "customers"
 slug: "xceptor-process-data-automation"
 ---
-
-

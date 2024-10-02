@@ -1,7 +1,7 @@
 ---
 categories:
-- measure-and-learn
-- people-and-process
+  - measure-and-learn
+  - people-and-process
 type: courses
 card:
   content: ""
@@ -55,42 +55,28 @@ delivery:
      Over the 2 days, students will see why PSM is the cutting-edge course for effective Scrum Masters and for anyone coaching a software development team toward increased efficiency and effectiveness. The course includes advanced thinking for servant-leadership and behavioural shifts. Throughout the course, students are challenged to think in terms of the Scrum principles to better understand what to do when returning to the workplace. The PSM course is much more than just a set of slides and an instructor. In this course, students work on real-life cases with other classmates together as a team. This course is made up of discussions and hands-on exercises based upon real-life cases.   
   type: Scrum
   brand:
-    colour: '#3a7c9a'
+    colour: "#3a7c9a"
     vendor: scrum-org
   lead: Our Professional Scrum Master Training Program contains the Professional Scrum Master Training (PSM) from Scrum.org and is composed of 16h live with an instructor and additional offline exercises and materials that covers the principles and theory of the Scrum framework and the Scrum Master role.
   courseIcon: PSM-400x.png
 tags:
-- agile
-- agility
-- business-agility
-- certification
-- professional-scrum
-- professional-scrum-master
-- scrum-org
+  - agile
+  - agility
+  - business-agility
+  - certification
+  - professional-scrum
+  - professional-scrum-master
+  - scrum-org
 aliases:
-- professional-scrum-master
-- professional-scrum-master-psm-training
-- professional-scrum-master-training-with-certification
-- professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
-- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+  - professional-scrum-master
+  - professional-scrum-master-psm-training
+  - professional-scrum-master-training-with-certification
+  - professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+  - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
 slug: professional-scrum-master-psm-with-certification
 date: 2017-01-01
 id: "10049"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Welcome to the Professional Scrum Master (PSM) course. This transformative learning journey is designed specifically for Agile Leaders, Product Owners, and Managers eager to understand and incorporate Scrum values and principles into their leadership repertoire.
 
@@ -123,23 +109,3 @@ Course Features:
 This course is more than just an introduction to Scrum; it's a comprehensive exploration of Scrum's potential to transform your leadership style, team, and entire organization. Training for those wishing to leverage the power of Scrum is essential to enhance their effectiveness and adaptability in an increasingly complex business environment.
 
 Join the Professional Scrum Master course and equip yourself with the knowledge, skills, and mindset needed to lead in the Scrum world.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

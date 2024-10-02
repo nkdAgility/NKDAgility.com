@@ -2,12 +2,12 @@
 id: "51295"
 title: "Mindset Versus Philosophy"
 date: "2024-02-22"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
 type: "nkdresources"
 slug: "mindset-versus-philosophy"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

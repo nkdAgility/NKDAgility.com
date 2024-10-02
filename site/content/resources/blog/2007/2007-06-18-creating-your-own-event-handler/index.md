@@ -2,9 +2,9 @@
 id: "378"
 title: "Creating your own Event Handler"
 date: "2007-06-18"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tfs-event-handler"
   - "wit"
@@ -25,7 +25,7 @@ Imports Microsoft.TeamFoundation.Client
 Public MustInherit Class AEventHandler(Of TEvent)
 
     Public MustOverride Sub Run(ByVal EventHandlerItem As EventHandlerItem(Of TEvent), _                                 ByVal ServiceHost As ServiceHostItem, _                                ByVal TeamServer As TeamServerItem, _                                ByVal e As NotifyEventArgs(Of TEvent))
-    Public MustOverride Function IsValid(ByVal EventHandlerItem As EventHandlerItem(Of TEvent), _                                         ByVal ServiceHost As ServiceHostItem, _                                         ByVal TeamServer As TeamServerItem, _                                         ByVal e As NotifyEventArgs(Of TEvent)) As Boolean  End Class 
+    Public MustOverride Function IsValid(ByVal EventHandlerItem As EventHandlerItem(Of TEvent), _                                         ByVal ServiceHost As ServiceHostItem, _                                         ByVal TeamServer As TeamServerItem, _                                         ByVal e As NotifyEventArgs(Of TEvent)) As Boolean  End Class
 ```
 
 Both of the methods that the AEventHandler exposes have the same signature. Hear is what it all means...
@@ -37,7 +37,7 @@ Lets look at the implementation that comes with the [TFS Event Handler](http://w
 ```
     Public Overrides Function IsValid(ByVal EventHandlerItem As EventHandlerItem(Of WorkItemChangedEvent), _                                      ByVal ServiceHost As ServiceHostItem, _                                      ByVal TeamServer As TeamServerItem, _                                      ByVal e As NotifyEventArgs(Of WorkItemChangedEvent)) As Boolean         If e.Event Is Nothing Then             Return False         End If         Dim assignedName As String = WorkItemEventQuerys.GetAssignedToName(e.Event)
         If String.IsNullOrEmpty(assignedName) Then             Return False         Else             Return Not assignedName = WorkItemEventQuerys.GetChangedByName(e.Event)
-        End If     End Function 
+        End If     End Function
 ```
 
 This method initially checks to see if the event exists and then queries the assigned name from the event using a work item event query which consists of:
@@ -57,6 +57,3 @@ The rest, as they say, is just logic. The "Run" method calls the "IsValid" and t
 Hopefully with this knowledge you will be able to make many many event handlers!
 
 _For the delayed CTP 1 of the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler/) I have changed the logic quite a lot but the same IsValid and Run methods exist. The parameters are, however slightly different. I have taken into account security and you will have to make your own connection to the TFS server using your own username and password. I have changed this to protect the security of the application as I want developers to be able to upload event handler assemblies and WF workflow without having to get access to the server. I ahve also changed it so the service that captures the events is not the same one that runs the handlers. This allows me to send the events between these services using MSMQ, thus giving the service some much needed redundancy._
-
-
-

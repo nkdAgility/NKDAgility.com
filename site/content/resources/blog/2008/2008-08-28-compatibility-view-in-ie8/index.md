@@ -2,7 +2,7 @@
 id: "201"
 title: "Compatibility view in IE8"
 date: "2008-08-28"
-tags: 
+tags:
   - "ie8"
   - "off-topic"
   - "tools"
@@ -24,6 +24,3 @@ For example Microsoft.com and Google.com do not get the little button.
 But Gmail does :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

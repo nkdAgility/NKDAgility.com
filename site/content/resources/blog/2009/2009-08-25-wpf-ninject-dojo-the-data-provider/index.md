@@ -2,9 +2,9 @@
 id: "88"
 title: "Wpf Ninject Dojo: The Data Provider"
 date: "2009-08-25"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "mvvm"
@@ -32,7 +32,7 @@ Anyway I was using a method of injecting my ViewModels into the Views using stan
 
 ```
 <igDock:ContentPane x:Class="SlaTodayView"
-    xmlns:igDP="http://infragistics.com/DataPresenter"     
+    xmlns:igDP="http://infragistics.com/DataPresenter"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:local="clr-namespace:WpfHeatItsmDashboard"
     xmlns:igWindows="http://infragistics.com/Windows"
@@ -40,9 +40,9 @@ Anyway I was using a method of injecting my ViewModels into the Views using stan
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Header="Sla Today" MinWidth="30" MinHeight="50">
     <igDock:ContentPane.Resources>
-        <ObjectDataProvider 
-        x:Key="ViewModel" 
-        ObjectType="{x:Type local:SlaTodayViewModel}" 
+        <ObjectDataProvider
+        x:Key="ViewModel"
+        ObjectType="{x:Type local:SlaTodayViewModel}"
         />
     </igDock:ContentPane.Resources>
     <igDP:XamDataGrid DataContext="{StaticResource ViewModel}" DataSource="{Binding Calls}" Theme="Office2k7Black" >
@@ -59,7 +59,7 @@ What I decided to do was create a custom [DataSourceProvider,](http://msdn.micro
 
 ```
 <igDock:ContentPane x:Class="SlaTodayView"
-    xmlns:igDP="http://infragistics.com/DataPresenter"     
+    xmlns:igDP="http://infragistics.com/DataPresenter"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:local="clr-namespace:WpfHeatItsmDashboard"
     xmlns:igWindows="http://infragistics.com/Windows"
@@ -67,9 +67,9 @@ What I decided to do was create a custom [DataSourceProvider,](http://msdn.micro
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Header="Sla Today" MinWidth="30" MinHeight="50">
     <igDock:ContentPane.Resources>
-        <local:NinjectDataProvider  
-        x:Key="ViewModel" 
-        ObjectType="{x:Type local:SlaTodayViewModel}" 
+        <local:NinjectDataProvider
+        x:Key="ViewModel"
+        ObjectType="{x:Type local:SlaTodayViewModel}"
         />
     </igDock:ContentPane.Resources>
     <igDP:XamDataGrid DataContext="{StaticResource ViewModel}" DataSource="{Binding Calls}" Theme="Office2k7Black" >
@@ -136,6 +136,3 @@ To get this working I needed to add an instance of an IKernel object to the “A
 Start your [Ninja training](http://dojo.ninject.org/) today!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
-
-
-

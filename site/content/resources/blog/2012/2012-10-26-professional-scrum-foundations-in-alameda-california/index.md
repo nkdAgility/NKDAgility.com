@@ -2,10 +2,10 @@
 id: "8981"
 title: "Professional Scrum Foundations in Alameda, California"
 date: "2012-10-26"
-categories: 
+categories:
   - "measure-and-learn"
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "improve"
   - "measure"
@@ -118,5 +118,3 @@ The actionable backlog is the single most valuable output from the course. With 
 And these are but a few of the items that you may find on this backlog. As long as you take this backlog, which represents the things that your employees see as being required for success, and execute on it then you should have a chance at success.
 
 Nothing in life is guaranteed…
-
-

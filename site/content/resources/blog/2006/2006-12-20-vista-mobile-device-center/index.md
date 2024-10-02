@@ -2,9 +2,9 @@
 id: "456"
 title: "Vista Mobile Device Center"
 date: "2006-12-20"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "answers"
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -22,6 +22,3 @@ I hope it is just because the "Mobile Device Center" is currently still in beta,
 Lets hope they fix this so I can listen to my podcasts again!
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-
-
-

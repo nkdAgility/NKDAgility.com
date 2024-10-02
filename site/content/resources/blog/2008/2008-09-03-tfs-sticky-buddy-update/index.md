@@ -2,7 +2,7 @@
 id: "200"
 title: "TFS Sticky Buddy Update"
 date: "2008-09-03"
-tags: 
+tags:
   - "aggreko"
   - "tfs-sticky-buddy"
   - "tools"
@@ -22,9 +22,6 @@ This means that if you run [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBu
 
 I don't as our Proxy is a bit crap and does not detect the changes in .application files for a few days :(
 
- 
+
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
-
-
-

@@ -2,7 +2,7 @@
 id: "8715"
 title: "Get a free Team Companion licence for Visual Studio 2012 Launch?"
 date: "2012-09-11"
-tags: 
+tags:
   - "events-and-presentations"
   - "tfs"
   - "tfs2008"
@@ -40,5 +40,3 @@ Once you have completed the aforementioned task you will be contacted by the nic
 Wither you have a licence or not you can download Team Companion for a 90 day trial (3 months is enough time to get addicted to anything) and they have released [TeamCompanion v4.7](http://ow.ly/dCOhp) today.
 
 Team Companion is a fantastic product that I have been using for years in production. It makes that email communication with the customer slick and integrated to TFS with features like “Reply to Work Item” and “Done”. I love it…
-
-

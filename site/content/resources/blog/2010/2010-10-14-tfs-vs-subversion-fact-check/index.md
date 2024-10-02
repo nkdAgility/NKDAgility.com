@@ -2,7 +2,7 @@
 id: "22"
 title: "TFS vs. Subversion fact check"
 date: "2010-10-14"
-tags: 
+tags:
   - "codeproject"
   - "nwcadence"
   - "svn"
@@ -17,28 +17,17 @@ slug: "tfs-vs-subversion-fact-check"
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.
 { .post-img }
 
-  
-
 - **Updated 15th October 2010**
-    
-    - [Adam Cogan](http://www.adamcogan.com/) provided some very useful fixes to make this a little more readable.
-        
-    - [Sven Hubert](http://blogs.msdn.com/b/willy-peter_schaub/archive/2010/07/20/introducing-the-visual-studio-alm-rangers-sven-hubert.aspx) wanted some advantages as well, but with this post I wanted to specifically target the issues and problems that an SVN user had encountered which is why I only targeted weaknesses.
-        
-    - [Bahadir ARSLAN](http://www.maxiasp.net/) wanted to call out the shell integration provided by the Power Tools.
-        
+  - [Adam Cogan](http://www.adamcogan.com/) provided some very useful fixes to make this a little more readable.
+  - [Sven Hubert](http://blogs.msdn.com/b/willy-peter_schaub/archive/2010/07/20/introducing-the-visual-studio-alm-rangers-sven-hubert.aspx) wanted some advantages as well, but with this post I wanted to specifically target the issues and problems that an SVN user had encountered which is why I only targeted weaknesses.
+  - [Bahadir ARSLAN](http://www.maxiasp.net/) wanted to call out the shell integration provided by the Power Tools.
 - **Updated 18th October 2010**
-    
-    - [Jeroen Haegebaert](http://jeroen.haegebaert.com/) provided some useful comments on Checking out which I have answered inline.
-        
+  - [Jeroen Haegebaert](http://jeroen.haegebaert.com/) provided some useful comments on Checking out which I have answered inline.
 - **Updated 19th October 2010**
-    
-    - [Ben Day](http://blog.benday.com/) provided some useful updates
-        
-    - Simon Bromberger made some excellent points about rollback being a little hidden, but any TFS Admin with his salt can use a command line
-        
+  - [Ben Day](http://blog.benday.com/) provided some useful updates
+  - Simon Bromberger made some excellent points about rollback being a little hidden, but any TFS Admin with his salt can use a command line
 
-* * *
+---
 
 I want to take a look at each of the “Weak points” mentioned and see if there is anything in them. There are numerous things that TFS does that are not even possible in SVN as SVN is just a source control system and not a full ALM platform. The goal of this post is specifically to dispel myths and target issues that users have moving from SVN to TFS.
 
@@ -176,7 +165,7 @@ I should also note that in my 3 years as an ALM MVP and 9 years using source con
 When I said difficult I was being a little facetious :). I do like that it is not an obvious feature, and in fact you need elevated permissions to run the tf.exe rollback command, not just any developer has the power.
 
 > \>>I would argue that it is clearly a missing feature and that making the process byzantine in its complexity is not helpful and if it is intentional, the intention must have been to cause pain.
-> 
+>
 > When we are dealing with complex builds against non-MS data sources and the only way to verify fully that builds are working is to check in code. With the best will in the world inconsistencies occur between developer and build machines, between development and staging/live database environments. You might say that in TFS 2010 we can simply use gated check-ins. However this is not quite the "magic bullet" it appears. As far as I understand this requires the server to carry out on-the-fly automated merges which even if you've done a forward integration beforehand may present you with merge issues  
 > \-Simon B
 
@@ -194,5 +183,3 @@ We can all make mistakes and it could not be easier for a TFS Admin to undo a de
 I really liked this post by [Jarosław Dobrzański](http://dobrzanski.net), and I hope my response clears up some of the misconceptions surrounding TFS. It is always good when people that have had to move from SVN to TFS describe the differences once they have worked with it for a while.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[Version Control](http://technorati.com/tags/Version+Control)
-
-

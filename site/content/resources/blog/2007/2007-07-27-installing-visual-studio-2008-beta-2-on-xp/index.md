@@ -2,7 +2,7 @@
 id: "358"
 title: "Installing Visual Studio 2008 Beta 2 on XP"
 date: "2007-07-27"
-tags: 
+tags:
   - "visual-studio"
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
@@ -34,6 +34,3 @@ Min resolution of 1900+
 **Any ideas?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

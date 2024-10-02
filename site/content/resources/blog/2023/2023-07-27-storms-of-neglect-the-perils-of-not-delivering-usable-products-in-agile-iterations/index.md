@@ -2,10 +2,10 @@
 id: "49502"
 title: "Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations"
 date: "2023-07-27"
-categories: 
+categories:
   - "discovery-ideation"
   - "transparency-commitment"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "image-1.jpg"
@@ -37,9 +37,3 @@ Neglecting to deliver a usable product at the end of each iteration breeds an ec
 Usable working product, every iteration, including the first, is the bedrock upon which we build the pillars of trust, alignment, adaptability, and quality. It is the very foundation of inspection and adaptation. Without it, we have no transparency, inspection, or adaptation!
 
 Without it, we are not agile.
-
-
-
-
-
-

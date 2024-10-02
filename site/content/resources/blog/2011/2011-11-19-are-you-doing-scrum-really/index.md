@@ -2,9 +2,9 @@
 id: "4049"
 title: "Are you doing Scrum? Really?"
 date: "2011-11-19"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "develop"
   - "nwcadence"
   - "people"
@@ -22,9 +22,7 @@ slug: "are-you-doing-scrum-really"
 [![PSM Front Logo 1](images/Scrum.org-Logo_500x118_thumb-4-4.png "PSM Front Logo 1")](http://blog.hinshelwood.com/files/2011/11/Scrum.org-Logo_500x118.png)This week I was at the ALM Summit in Redmond. There was a very interesting talk from David Starr of Scrum.org going over the recent changes in Scrum. These changes are, I think, designed to battle the things that have made Scrum unpalatable to many people.
 { .post-img }
 
-  
-
-* * *
+---
 
 The reality is that many people and organisation are failing at and being turned away from Scrum by the fanaticism that surrounds it. Scrum.org is taking these issues and tackling them head on.
 
@@ -47,7 +45,7 @@ The [Scrum Guide](http://www.scrum.org/scrumguides/) is just such a distillation
 So if there is this line between “not Scrum” and “Scrum” I want to know definitively if I am at this line. To do that I need a **simple measurable checklist** that lets me know that I am there. A minimal "Definition of Doing" or "Scrum Fitness test", if you will, that tells us that we are at the first milestone and can then start to look at more advanced concepts to improve our performance.
 
 > A simple measurable checklist:
-> 
+>
 > 1. … an ordered Product Backlog
 > 2. … Development Teams of 6+-3
 > 3. … have a Product Owner who owns the backlog
@@ -69,5 +67,3 @@ Then what else do you need?
 Well, you will find it hard to continue to deliver working software each sprint (#10) without things like Automated Testing and Automated Build. You will also find it hard to start climbing that hill towards High Performing Scrum without visualising your work (Kanban), limiting work in progress, and concentrating on optimising Flow both at the micro (inside of the Sprint) and at the macro (wrapping Scrum).
 
 There are many more things that will help and many of them will become Scrum Extensions on Scrum.org as they are submitted and approved. This results in the replacement of the phrase "I am doing Scrum but...<shame>" with "I am doing Scrum and...<happiness>" and hopefully a wider and more positive adoption profile for Scrum.
-
-

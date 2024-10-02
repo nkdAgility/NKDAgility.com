@@ -2,9 +2,9 @@
 id: "28"
 title: "A change for the better #3 - SSW to Northwest Cadence"
 date: "2010-09-07"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "agile"
   - "change"
   - "change-for-the-better"
@@ -30,50 +30,49 @@ During the last 11 months, Adam Cogan and the rest of the people at SSW have coa
 There are four main things that I learned at SSW:
 
 1. **Rules** – Rules and standards are arguably more important in software than anywhere else is. SSW’s rules, while initially overbearing represent the standard approach that everyone at the company take. The dedication to and the maintenance of the rules is core to the corporate identity and helps define that identity. I played a part in many of the rule sets, and here are the highlights:
-    
-    - [Rules to Better Email](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterEmail/Pages/default.aspx)
-    - [Rules to Better Social Networking](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterSocialNetworking/Pages/default.aspx)
-    - [Rules to Better Twitter](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterTwitter/Pages/Default.aspx)
-    - [Rules to Better Scrum using TFS](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx) 
-    - [Rules to Better Source Control With TFS](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx)
-    - [Rules to Better TFS 2010 Migration](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx)
-    
-    I remember speaking to Matt Nunn after a presentation he did in Glasgow and he commented
-    
-    > “You SSW guys are everywhere.”  
-    > \-Matt Nunn in Edinburgh
-    
-    See Rules to better branding #8: [Do you brand your employees?](http://www.ssw.com.au/ssw/Standards/Rules/#BrandingEmployees)
-    
+
+   - [Rules to Better Email](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterEmail/Pages/default.aspx)
+   - [Rules to Better Social Networking](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterSocialNetworking/Pages/default.aspx)
+   - [Rules to Better Twitter](http://sharepoint.ssw.com.au/Standards/Communication/RulesToBetterTwitter/Pages/Default.aspx)
+   - [Rules to Better Scrum using TFS](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)
+   - [Rules to Better Source Control With TFS](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterSourceControlwithTFS.aspx)
+   - [Rules to Better TFS 2010 Migration](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx)
+
+   I remember speaking to Matt Nunn after a presentation he did in Glasgow and he commented
+
+   > “You SSW guys are everywhere.”  
+   > \-Matt Nunn in Edinburgh
+
+   See Rules to better branding #8: [Do you brand your employees?](http://www.ssw.com.au/ssw/Standards/Rules/#BrandingEmployees)
+
 2. **Process** – Since I started my quest to learn and implement Scrum at SSW earlier this year I have learned the importance of process in what we do. I knew it was important, but I had little idea of how imperative it was to being able to deliver software. In my time at SSW I have become both a Certified ScrumMaster and a Professional Scrum Developer Trainer, not to mention all the other processes and practices that I now have familiarity with:
-    
-    - Scrum
-    - Agile
-    - Lean
-    - Kanban
-    - TDD
-    - BDD
-    - Continuous Integration
-    - Continuous Deployment
-    
-    These are all pieces of the same puzzle and if you get the right combination, you can ship quality code quickly that meets the customers’ needs, which is ultimately the goal of all software projects.
-    
+
+   - Scrum
+   - Agile
+   - Lean
+   - Kanban
+   - TDD
+   - BDD
+   - Continuous Integration
+   - Continuous Deployment
+
+   These are all pieces of the same puzzle and if you get the right combination, you can ship quality code quickly that meets the customers’ needs, which is ultimately the goal of all software projects.
+
 3. **Technology** – Boy does SSW keep to the cutting edge. No sooner is something released than they pushing it to clients and they already have people fully qualified and familiar with all of its inner workings. This is key to keeping at the top of the game, and long-time clients are happy to be Guiney pigs as they know that all the guys are ready and able to fix any problems. With two Regional Directors and three MVP’s it can be hard to argue with their expertise and confidence. Technologies I have used in anger:
-    
-    - Silverlight 4
-    - Visual Studio 2010
-    - Dynamics CRM 4
-    - SharePoint 2010
-    - Team Foundation Build 2010
-    - Microsoft Test Manager
-    - Microsoft .NET 4
-    
-    It always surprises me the number of developers that are not technologists and in this ever-changing world only the technologists float to the top of the pile. The obscure things that sort the good developers from the bad and having an understanding of things that are not strictly in their field of view sets them apart.
-    
+
+   - Silverlight 4
+   - Visual Studio 2010
+   - Dynamics CRM 4
+   - SharePoint 2010
+   - Team Foundation Build 2010
+   - Microsoft Test Manager
+   - Microsoft .NET 4
+
+   It always surprises me the number of developers that are not technologists and in this ever-changing world only the technologists float to the top of the pile. The obscure things that sort the good developers from the bad and having an understanding of things that are not strictly in their field of view sets them apart.
+
 4. **Communication** – If I took nothing else from SSW it would be the [Rules to better Email](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBetterEmail.aspx) which, along with other things, helped me function as a member of all the teams over 10 hours and 10,000 miles distant. You may also have noticed that around ten months ago my blog started getting a lot better.
-    
-    Look back at blog posts I made over a year ago and you will see the influence that Adam Cogan had over my blogging style. Adam can make your posts go from [this](http://blog.hinshelwood.com/archive/2009/07/30/finding-features-calendar-preview.aspx), to [this](http://blog.hinshelwood.com/archive/2010/07/07/active-directory-groups-not-syncing-with-team-foundation-server-2010.aspx) in no time at all using nothing but his critical eye and direct Australian attitude. I have really appreciated all of his help.
-    
+
+   Look back at blog posts I made over a year ago and you will see the influence that Adam Cogan had over my blogging style. Adam can make your posts go from [this](http://blog.hinshelwood.com/archive/2009/07/30/finding-features-calendar-preview.aspx), to [this](http://blog.hinshelwood.com/archive/2010/07/07/active-directory-groups-not-syncing-with-team-foundation-server-2010.aspx) in no time at all using nothing but his critical eye and direct Australian attitude. I have really appreciated all of his help.
 
 ## Who did I learn from?
 
@@ -128,6 +127,3 @@ I will have a couple of months between leaving SSW and starting at Northwest Cad
 **If you know of anyone who is looking for a TFS/ALM Consultant and no one else can help, if you can find me. Then call… (doot do dodoot doooo, do doot doooo…)**
 
 Technorati Tags: [Northwest Cadence](http://technorati.com/tags/Northwest+Cadence),[ALM](http://technorati.com/tags/ALM),[SSW](http://technorati.com/tags/SSW),[TFS 2010](http://technorati.com/tags/TFS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
-
-
-

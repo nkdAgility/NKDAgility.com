@@ -2,9 +2,9 @@
 id: "11450"
 title: "Agile in Africa 2016"
 date: "2016-01-27"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "agile-in-africa"
   - "scrum"
   - "scrum-day"
@@ -49,5 +49,3 @@ There was a lot of press coverage of the event, with radio interviews and even a
 I am looking forward to this year's event, have you signed up yet?
 
 [http://agileinafrica.com](http://agileinafrica.com)
-
-

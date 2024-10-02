@@ -2,7 +2,7 @@
 id: "59"
 title: "Who broke the build?"
 date: "2010-03-29"
-tags: 
+tags:
   - "automated-build"
   - "sharepoint"
   - "silverlight"
@@ -50,7 +50,7 @@ You can normally only see the builds listed for each project. But, you have a li
 
 ![clip_image001](images/114db5acbf63_EDD8-clip_image001_-2-2.png)  
 { .post-img }
-**Figure: Staring the build notification application on Windows 7.**  
+**Figure: Staring the build notification application on Windows 7.**
 
 Once you have it open (it may disappear into your system tray) you should click “Options” and select all the projects you are involved in.
 
@@ -65,6 +65,7 @@ I just selected ALL projects that have builds.
 In addition to seeing the list you will also get toast notification of build failure’s.
 
 ### How can we get more info on **what** broke the build? (who is interesting too, to point the finger ![Smile](images/114db5acbf63_EDD8-wlEmoticon-smile_2-9-9.png) but more important is what)
+
 { .post-img }
 
 The only thing worse than breaking the build, is continuing to develop on a broken build!
@@ -112,6 +113,3 @@ I have had builds fail because one developer had a “d” drive, but the build 
 If you want to know what builds to create and why I wrote a post on “[Do you know the minimum builds to create on any branch?](http://blog.hinshelwood.com/archive/2010/03/18/do-you-know-the-minimum-builds-to-create-on-any.aspx)”
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [TFBS](http://technorati.com/tags/TFBS) [Silverlight](http://technorati.com/tags/Silverlight) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

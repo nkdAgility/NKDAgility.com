@@ -2,9 +2,9 @@
 id: "188"
 title: "Sync extension for Lists/Collections or whatever"
 date: "2008-10-13"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tools"
 coverImage: "metro-binary-vb-128-link-1-1.png"
@@ -18,7 +18,7 @@ I recently found the need to Sync two lists. I have one list that is used for di
 I thought that this would be difficult, but I was surprised at its ease.
 
 ```
-   1:  
+   1: 
 ```
 
 ```
@@ -26,7 +26,7 @@ I thought that this would be difficult, but I was surprised at its ease.
 ```
 
 ```
-   3:  
+   3: 
 ```
 
 ```
@@ -90,7 +90,7 @@ I thought that this would be difficult, but I was surprised at its ease.
 ```
 
 ```
-  19:             ' Find tags in target that should not be in source 
+  19:             ' Find tags in target that should not be in source
 ```
 
 ```
@@ -150,7 +150,7 @@ I thought that this would be difficult, but I was surprised at its ease.
 ```
 
 ```
-  34:  
+  34: 
 ```
 
 ```
@@ -160,6 +160,3 @@ I thought that this would be difficult, but I was surprised at its ease.
 You need to remember to lock the object while you sync. This is to allow your threading to take place without incident. The nitty gritty is just a case of comparing the two lists and building a list of changes to make and then removing them :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

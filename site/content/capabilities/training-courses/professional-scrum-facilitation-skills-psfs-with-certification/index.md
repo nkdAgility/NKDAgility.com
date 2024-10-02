@@ -1,6 +1,6 @@
 ---
 categories:
-- agility
+  - agility
 type: courses
 card:
   content: ""
@@ -39,39 +39,18 @@ delivery:
   details: ""
   type: Scrum
   brand:
-    colour: '#f6572c'
+    colour: "#f6572c"
     vendor: scrum-org
   lead: Develop proficiency in facilitation skills to help your Scrum Team better solve problems, create a shared understanding, and foster transparency. Learn how to become a better facilitator to improve Scrum Team, stakeholder and customer interactions.
   courseIcon: Scrumorg-Course-PSFS-400x.png
 tags:
-- facilitation
+  - facilitation
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
 slug: professional-scrum-facilitation-skills-psfs-with-certification
 date: 2022-08-22
 id: "48025"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 \[wpv-post-link\] is an interactive course designed to help teams and individuals develop proficiency in facilitation skills, so that they can help teams better solve problems, build consensus and foster transparency.
 
@@ -80,23 +59,3 @@ Great Scrum Teams are self-managing, cross-functional and have the ability and s
 In this skills-building course, participants will learn how to become better facilitators to create better interactions with their Scrum Teams, stakeholders and customers. They will learn how to adopt facilitation as a stance and enable the Scrum Values. Students will have the opportunity to address a series of common Scrum-related scenarios by applying several facilitation techniques that they can add to their collection of agile practices. They will create and leave with their own facilitation “plan” to improve their next team discussion or Sprint event.
 
 This class will be delivered over two half-days in Microsoft Teams & Mural, with additional support provided through the [League of Xtraordinary Lean-Agile Practitioners](https://community.nkdagility.com) in the form of collaboration, events, and 1on1 sessions.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -2,9 +2,9 @@
 id: "159"
 title: "Retrieving an identity from Team Foundation Server using only the display name"
 date: "2008-12-01"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "tfs2008"
@@ -86,7 +86,7 @@ There is a little but of Active Directory lookup using a little method called Ge
 ```
 
 ```
-   8:  
+   8: 
 ```
 
 ```
@@ -238,7 +238,7 @@ But in order to retrieve an identity that you are not sure is a group or a user,
 ```
 
 ```
-  27:  
+  27: 
 ```
 
 ```
@@ -859,5 +859,3 @@ As you can see there was a lot of research, which does not include all the stuff
 I think that this was an unnecessary complexity and there should be an additional option for the [Search Factor](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.searchfactor.aspx) enumeration should be added to make this easier.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-
-

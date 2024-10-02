@@ -2,10 +2,10 @@
 id: "9338"
 title: "The Insufficiency of Scrum is a fallacy"
 date: "2013-03-23"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "develop"
   - "improve"
@@ -86,5 +86,3 @@ Remember that the software that you are building is an organisational asset and 
 Don’t be incompetent. Don't commit fraud.
 
 **Be a professional…**
-
-

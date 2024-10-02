@@ -2,10 +2,10 @@
 id: "297"
 title: "Installing TFS 2008 from scratch"
 date: "2007-10-20"
-categories: 
+categories:
   - "code-and-complexity"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "sp2007"
   - "tfs"
   - "tfs2008"
@@ -29,7 +29,7 @@ The only problem I had was getting the reporting working. The first issue was au
 [![image](images/InstallingTFS2008fromscratch_C7F-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingTFS2008fromscratch_C7F-image_1.png)
 { .post-img }
 
- The second problem was that I changed the reporting server URL, again to the friendly one and it broke SharePoint. I have a SharePoint 2007 Farm where all the TFS portals will be deployed. Even though I ran "TfsConfigWss.exe" located in the Tools folder on the SharePoint server after installing the SharePoint TFS component I still needed to run a register hack to get it to work. The key is under the Local Machine @SoftwareMicrosoftVisualStudio9.0TeamFoundationReportServer and you get a key for each of your SharePoint managed paths. 
+The second problem was that I changed the reporting server URL, again to the friendly one and it broke SharePoint. I have a SharePoint 2007 Farm where all the TFS portals will be deployed. Even though I ran "TfsConfigWss.exe" located in the Tools folder on the SharePoint server after installing the SharePoint TFS component I still needed to run a register hack to get it to work. The key is under the Local Machine @SoftwareMicrosoftVisualStudio9.0TeamFoundationReportServer and you get a key for each of your SharePoint managed paths.
 
 [![image](images/InstallingTFS2008fromscratch_C7F-image_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InstallingTFS2008fromscratch_C7F-image.png)
 { .post-img }
@@ -43,6 +43,3 @@ But I still have the old issue of not being able to authenticate when I am on th
 This is no problem as that was how it worked in my previous environment. I think it is a proxy server issue, but I am not sure. Not much of a problem though...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008)
-
-
-

@@ -2,9 +2,9 @@
 id: "7377"
 title: "TFS Integration Tools - Issue: Sequence contains no elements"
 date: "2012-08-22"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs"
   - "tfs-integration-platform"
@@ -52,7 +52,7 @@ On examining the log files it looks like the Migration Shell is trying to load t
 >    at Microsoft.TeamFoundation.Migration.Toolkit.ConflictManager.ResolveExistingConflict(RuntimeEntityModel context, ConflictResolutionRule newRule, ConflictResolutionResult defaultResult, RTConflict rtConflict, Guid conflictTypeRefName, Boolean newResolutionRule)  
 >    at Microsoft.TeamFoundation.Migration.Toolkit.ConflictManager.ResolveExistingConflictWithNewRule(Int32 internalConflictId, ConflictResolutionRule newRule)  
 >    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictRuleViewModel.Save()  
->    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictListView.btnResolve\_Click(Object sender, RoutedEventArgs e)  
+>    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictListView.btnResolve_Click(Object sender, RoutedEventArgs e)  
 > Application Error: 0 : \[8/21/2012 5:34:33 PM\] System.InvalidOperationException: Sequence contains no elements  
 >    at System.Linq.Enumerable.First\[TSource\](IEnumerable\`1 source)  
 >    at System.Data.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b\_\_0\[TResult\](IEnumerable\`1 sequence)  
@@ -66,7 +66,7 @@ On examining the log files it looks like the Migration Shell is trying to load t
 >    at Microsoft.TeamFoundation.Migration.Toolkit.ConflictManager.ResolveExistingConflict(RuntimeEntityModel context, ConflictResolutionRule newRule, ConflictResolutionResult defaultResult, RTConflict rtConflict, Guid conflictTypeRefName, Boolean newResolutionRule)  
 >    at Microsoft.TeamFoundation.Migration.Toolkit.ConflictManager.ResolveExistingConflictWithNewRule(Int32 internalConflictId, ConflictResolutionRule newRule)  
 >    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictRuleViewModel.Save()  
->    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictListView.btnResolve\_Click(Object sender, RoutedEventArgs e)
+>    at Microsoft.TeamFoundation.Migration.Shell.ConflictManagement.ConflictListView.btnResolve_Click(Object sender, RoutedEventArgs e)
 
 Well that sucks…
 
@@ -83,5 +83,3 @@ One work around that I found with the help of [Bill Essary](http://blogs.msdn.co
 3. Rerun action…
 
 **Woot… that solved my issue… did it solve yours?**
-
-

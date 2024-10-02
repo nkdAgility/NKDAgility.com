@@ -2,9 +2,9 @@
 id: "9288"
 title: "Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments"
 date: "2013-03-17"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "core"
   - "infrastructure"
@@ -52,18 +52,14 @@ In both Windows 8 and Windows Server 2012 the File and Printer Sharing ports are
 
 You need to open the ports required for File & Print Sharing. This is roughly the same for doing the same on Windows Server 2012 through the UI.
 
-1. **Start | type “Fire” | click “Settings” | press “Enter” key**
-    
-    ![image](images/image12-2-2.png "image")  
-{ .post-img }
+1.  **Start | type “Fire” | click “Settings” | press “Enter” key**
+        ![image](images/image12-2-2.png "image")
+    { .post-img }
     **Figure: Open the Windows Firewall Settings**
-    
-2. **Change Settings | check “File and Printer Sharing” | OK**
-    
-    ![image](images/image13-3-3.png "image")  
-{ .post-img }
+2.  **Change Settings | check “File and Printer Sharing” | OK**
+        ![image](images/image13-3-3.png "image")
+    { .post-img }
     **Figure: Enable File and Printer Sharing on your Windows 8 firewall**
-    
 
 ## Solution for Windows Server 2012 Core
 
@@ -88,5 +84,3 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
-
-

@@ -2,9 +2,9 @@
 id: "11097"
 title: "Unable to load task handler PowerShell for task VSBuild"
 date: "2015-03-18"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "agent"
   - "build-vnext"
   - "powershell"
@@ -30,16 +30,16 @@ Microsoft has released a CTP of TFS 2015 that includes the vNext build system. Y
 After you have [configured a vNext build agent](http://nkdagility.com/configure-vso-vnext-build-agent/) you may get an error when you try and build. This error occurs regardless of the tasks that you pick for your build.
 
 ```
-****************************************************************************** 
-Starting Build (debug, any cpu) 
-****************************************************************************** 
-Executing the following commandline: 
-C:\VsoWinAgent\agent\worker\vsoWorker.exe /name:Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df /id:4649b2ea-e06d-47b0-9a89-5f4aa4d545df /rootFolder:"C:\VsoWinAgent" /logger:Forwarding,1.0.0;Verbosity=Verbose,Name=Agent1;JobId=4649b2ea-e06d-47b0-9a89-5f4aa4d545df 
-Unable to load task handler PowerShell for task VSBuild with version 1.0.1. 
-****************************************************************************** 
-Finishing Build (debug, any cpu) 
-****************************************************************************** 
-Worker Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df finished running job 4649b2ea-e06d-47b0-9a89-5f4aa4d545df 
+******************************************************************************
+Starting Build (debug, any cpu)
+******************************************************************************
+Executing the following commandline:
+C:\VsoWinAgent\agent\worker\vsoWorker.exe /name:Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df /id:4649b2ea-e06d-47b0-9a89-5f4aa4d545df /rootFolder:"C:\VsoWinAgent" /logger:Forwarding,1.0.0;Verbosity=Verbose,Name=Agent1;JobId=4649b2ea-e06d-47b0-9a89-5f4aa4d545df
+Unable to load task handler PowerShell for task VSBuild with version 1.0.1.
+******************************************************************************
+Finishing Build (debug, any cpu)
+******************************************************************************
+Worker Worker-4649b2ea-e06d-47b0-9a89-5f4aa4d545df finished running job 4649b2ea-e06d-47b0-9a89-5f4aa4d545df
 
 ```
 
@@ -77,5 +77,3 @@ So if you are downloading a Zip file from the internet you may need to unblock t
 { .post-img }
 
 Woohoo… A successful build on the new Build vNext…
-
-

@@ -2,9 +2,9 @@
 id: "283"
 title: "It's nice to be appreciated!"
 date: "2007-11-29"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "silverlight"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -21,6 +21,3 @@ In my second month of posting I tore the cartilage in my knee (Ouch!) and so wit
 David just [posted](http://www.community-credit.com/cs/blogs/community_credit_news/archive/2007/11/29/Thanks_2C00_-Martin-Hinshelwood_2C00_-you-Saved-the-Day.aspx) a nice recognition blog about it...thanks David...what about some extra credit :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Silverlight](http://technorati.com/tags/Silverlight)
-
-
-

@@ -2,11 +2,11 @@
 id: "38243"
 title: "If your backlog is not refined then you are doing it wrong"
 date: "2020-12-17"
-categories: 
+categories:
   - "agility"
   - "discovery-ideation"
   - "people-and-process"
-tags: 
+tags:
   - "product-backlog"
   - "product-discovery"
   - "refinement"
@@ -47,7 +47,7 @@ Ready Backlog just means that the [Developers](/the-2020-scrum-guide/#developers
 Refinement is not an explicit event in the [Scrum Guide](/the-2020-scrum-guide/) because it is something that can be different depending on the Product, Domain, or Technology. If you were to ask how much refinement you should do then the answer is "as much as you need and no more". Too much refinement is waste, as it too little.
 
 > "Product Backlog refinement is the act of breaking down and further defining Product Backlog items into smaller more precise items. This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work."
-> 
+>
 > \-[The 2020 Scrum Guide](/the-2020-scrum-guide/)
 
 The amount of time that [Developers](/the-2020-scrum-guide/#developers) spend on refinement is based on the need. However, this need for refinement will vary over the life of the product and you should be spending as much time as your need while maximizing focus on the realisation of value. I have found that many teams that were not doing refinement in the past may need considerably more time to get their backlog into some semblance of order. Once it is in order, you are generally only maintaining a rolling Sprint projection, based on your effective planning horizon, of what you might achieve.
@@ -63,5 +63,3 @@ This enables your [Product Owner to be able to plan future releases](/blog/relea
 During the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event, your [Developers](/the-2020-scrum-guide/#developers) should be able to quickly select many Product Backlog Items that go towards the chosen [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) and agree that they fit. If you can do this, and most of the time you get most (not all) of the Items delivered, then you are probably doing enough refinement. If you can't, then you need to focus a little more on Refinement and making your Product Backlog ready.
 
 If at your [Sprint Review](/the-2020-scrum-guide/#sprint-review) the [Product Owner is always wanting to reject that Backlog Items are complete](/blog/the-fallacy-of-the-rejected-backlog-item/) then there is unlikely to be enough refinement for the Development Team to understand what they are expected to do.
-
-

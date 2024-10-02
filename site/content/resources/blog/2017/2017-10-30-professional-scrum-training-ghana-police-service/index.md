@@ -2,9 +2,9 @@
 id: "12095"
 title: "Professional Scrum Training for the Ghana Police Service"
 date: "2017-10-30"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "agile"
   - "introduction-to-scrum"
   - "professioal-scrum"
@@ -28,7 +28,7 @@ I am not kidding or being metaphorical when I say that these fantastic officers 
 { .post-img }
 
 > When it comes to complexity of creative work l, there really is nothing as complex as software development.
-> 
+>
 > Ken Schwaber, CEO and Founder of Scrum.org
 
 ![clip_image004](images/clip_image004_thumb-2-2.jpg "clip_image004")
@@ -98,5 +98,3 @@ Some things I would do differently:
 Teaching non techies is hard, especially for a certifiable geek like myself. However I totally enjoyed my time in Ghana teaching Scrum for the Ghana Police Service and am looking forward to doing it again. I'm back in Ghana for the Agile In Africa conference, and again in December to teach a Professional Scrum Developer (this time to techies). More classes are scheduled next year...
 
 If you are in Ghana or anywhere in West Africa you can get in touch with [Akaditi](http://www.akaditi.com/) for both public and private classes for your Organisation.
-
-

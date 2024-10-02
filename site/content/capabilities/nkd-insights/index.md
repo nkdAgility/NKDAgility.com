@@ -4,7 +4,7 @@ id: "51452"
 date: 2024-06-12
 author: MrHinsh
 aliases:
-- /capabilities/nkd-insights/
+  - /capabilities/nkd-insights/
 type: capabilities
 slug: nkd-insights
 card:
@@ -12,28 +12,28 @@ card:
     content: Diagnose your team(s)
   content: Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues.
   title: NKD Insights™
-headline: 
+headline:
   title: "NKD Insights™"
   subtitle: "Improve your team’s effectiveness continuously!"
   content: "Naked Insights™ is a pioneering tool that helps teams improve by continuously illuminating the quality of their teamwork based on scientific insights. It can diagnose one or many teams, receive evidence-based feedback, and resolve broader organizational issues."
   cards:
     - title: "Empower Teams with Evidence-Based Leadership Insights"
-      content: "With NKD Insight, leadership is not just about managing teams—it’s about empowering them. Built on scientific principles and evidence-based models, our tool helps you focus on what matters most, providing leadership with the targeted insights needed to maximize impact." 
+      content: "With NKD Insight, leadership is not just about managing teams—it’s about empowering them. Built on scientific principles and evidence-based models, our tool helps you focus on what matters most, providing leadership with the targeted insights needed to maximize impact."
       image: ~
     - title: "Analyze Trends, Tailor Leadership Solutions"
-      content: "Leverage our Teams Dashboard to report and analyze results across multiple teams. Identify trends, track progress, and provide leadership with tailored, evidence-based solutions to address specific challenges and enhance effectiveness at every level." 
+      content: "Leverage our Teams Dashboard to report and analyze results across multiple teams. Identify trends, track progress, and provide leadership with tailored, evidence-based solutions to address specific challenges and enhance effectiveness at every level."
       image: ~
     - title: "Actionable, Evidence-Based Feedback, Delivered Fast"
-      content: "NKD Insight provides evidence-based feedback in over 20 key areas, offering leadership quick, actionable insights. From strategic guidance to quick tips, our evidence-based insights inspire action that drives real improvement" 
+      content: "NKD Insight provides evidence-based feedback in over 20 key areas, offering leadership quick, actionable insights. From strategic guidance to quick tips, our evidence-based insights inspire action that drives real improvement"
       image: ~
     - title: "360° Engagement, Measureasurement, & Support"
-      content: "Invite team members, stakeholders, and supporters to gain a comprehensive, evidence-based view of team dynamics. Measure satisfaction, assess needs, and identify where leadership support can make a difference—all through NKD Insight." 
+      content: "Invite team members, stakeholders, and supporters to gain a comprehensive, evidence-based view of team dynamics. Measure satisfaction, assess needs, and identify where leadership support can make a difference—all through NKD Insight."
       image: ~
     - title: "Grounded in Science"
-      content: "Opinions are everywhere, but NKD Insight is rooted in evidence-based facts. Our surveys and models are built on peer-reviewed research, providing teams and leadership with reliable, actionable insights that drive impactful results." 
+      content: "Opinions are everywhere, but NKD Insight is rooted in evidence-based facts. Our surveys and models are built on peer-reviewed research, providing teams and leadership with reliable, actionable insights that drive impactful results."
       image: ~
     - title: "Illuminate Team Dynamics"
-      content: "Unlock the true potential of your teams by continuously monitoring and improving teamwork quality. NKD Insight offers evidence-based insights that help you diagnose and enhance team performance across your organization, empowering leadership to make informed decisions." 
+      content: "Unlock the true potential of your teams by continuously monitoring and improving teamwork quality. NKD Insight offers evidence-based insights that help you diagnose and enhance team performance across your organization, empowering leadership to make informed decisions."
       image: ~
 sections:
   - title: "NKD Insights™ for your team!"
@@ -65,39 +65,19 @@ sections:
       Elevate your company’s productivity by developing high-performing teams with our proven strategies.
     source: inline
     type: features
-    features: 
+    features:
       - title: "Monitor and Evaluate Team Performance with Our 'Teams Dashboard'"
         content: |
           Leverage our ‘Teams Dashboard’ to gain insights into the performance of various teams within your organization. Our tool is designed based on evidence-based models to help you identify the factors that can enhance team effectiveness. Engage collaboratively with team members, stakeholders, and supporters to address organizational challenges effectively.
 
           Stay updated with the latest trends, monitor ongoing improvement initiatives, and respond promptly to ‘requests for help’ from teams. Our dashboard allows you to categorize teams into value streams, business units, or other specific groupings, enabling customized reporting and more targeted analyses.
         media: images/nkd-insights-support-teams-in-my-organisation-800x404.png
-  - title: 
-    content: 
+  - title:
+    content:
     source: data
     type: videos
-    related: 
+    related:
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Naked Insights™ is a pioneering tool to help teams improve by illuminating the quality of their teamwork continuously based on scientific insights. Diagnose one or many teams, receive evidence-based feedback and resolve broader organizational issues.
 
@@ -112,23 +92,3 @@ Team Dashboard
 Coaching Centre
 
 [https://coachingcenter.nkdagility.com](https://coachingcenter.nkdagility.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

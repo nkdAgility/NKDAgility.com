@@ -2,9 +2,9 @@
 id: "74"
 title: "Investigation - SEO permanent redirects for old URL’s?"
 date: "2009-12-28"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "sharepoint"
   - "spf2010"
@@ -22,7 +22,7 @@ See Also – [Solution - SEO permanent redirects for old URL’s?](http://blog.h
 
 Updated #1 January 5th, 2010: \- As suggested by [Adam Cogan](http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Adam.aspx), I changed the title and added a link to the Solution post.
 
-* * *
+---
 
 This has already been implemented by the CMS system that we are using, so what is the problem?
 
@@ -68,6 +68,3 @@ The conclusion is that neither the SEO Toolkit, nor the URL Rewrite Module are o
 Even though it has not been updated since April 2009, I think this is the best option. The source code is provided on the site, and I am familiar with the component. It supports a rule provider model that will allow me to achieve the goal I am aiming for and is very easy to setup.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SSW](http://technorati.com/tags/SSW) [Software Development](http://technorati.com/tags/Software+Development) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

@@ -2,7 +2,7 @@
 id: "401"
 title: "Workflow"
 date: "2007-05-08"
-tags: 
+tags:
   - "service-oriented-architecture"
   - "tfs-event-handler"
   - "wf"
@@ -22,6 +22,3 @@ Users could write workflow and host it in the current system, but what I envisio
 Thoughts anyone?
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [WF](http://technorati.com/tags/WF) [WIT](http://technorati.com/tags/WIT)
-
-
-

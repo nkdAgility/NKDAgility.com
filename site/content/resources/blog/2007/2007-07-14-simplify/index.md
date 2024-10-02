@@ -2,7 +2,7 @@
 id: "372"
 title: "Simplify"
 date: "2007-07-14"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ How about the digg this links on the blog pages as well as on the main feed?
 Just some thoughts! Don't ask, don't get.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

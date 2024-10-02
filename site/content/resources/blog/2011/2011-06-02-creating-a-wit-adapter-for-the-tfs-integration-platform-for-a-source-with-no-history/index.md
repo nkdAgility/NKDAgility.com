@@ -2,7 +2,7 @@
 id: "3408"
 title: "Creating a WIT Adapter for the TFS Integration Platform for a source with no history"
 date: "2011-06-02"
-tags: 
+tags:
   - "nwcadence"
   - "ttp"
   - "tfs"
@@ -18,12 +18,9 @@ slug: "creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.
 { .post-img }
 
-  
-
 - **_Update 2011-06-03_** – Found the problem with the “index” and I can now migrate new work items again.
-    
 
-* * *
+---
 
 Although I have had my Test Track Pro Tip Adapter working for quite some time, the customer came back and asked if they could have a rolling migration. i.e. Shipping changes on a regular basis, but only the TIP each time.
 
@@ -287,10 +284,7 @@ Although I have had my Test Track Pro Tip Adapter working for quite some time, t
 </Configuration>
 ```
 
-  
 The problem I ran into was that as all of the example Adapters are TIP adapters they do not take into account history at all. Here is the code for my first run through that was heavily based on [Robert MacLean’s](http://www.sadev.co.za) code from [How to create an adapter for the TFS Integration Platform](http://www.sadev.co.za/content/how-create-adapter-tfs-integration-platform-series-index "http://www.sadev.co.za/content/how-create-adapter-tfs-integration-platform-series-index"):
-
-  
 
 ```
 Imports Microsoft.TeamFoundation.Migration.Toolkit
@@ -542,16 +536,12 @@ changeGroup.Save()
 The problem that I have encountered is that although it adds new Work Items that come into scope, it does not do any updates to those work item. Now, I can understand this if there had been any updates on the TFS side, but I can guarantee that there has not. So I sought help:
 
 > - **Action** == **Edit** when pushing changes and == **Add** for a new one is correct.
-> 
 > - **Version** … without debugging the consensus is that the lack of version information is causing the TIP type migration, rather than auctioning the history (edits).
-> 
 > - **Version Merge** property … for VC only.
-> 
 > - Ideas for Version property:
->     - **Option 1** - Create fake version numbers for the TTP side and using a single incrementing integer watermark across all of the TTP items.
->     
->     - **Option 1** - Create fake version numbers for the TTP side and just copy the ChangeAction’s ChangeActionId value for this.
-> 
+>   - **Option 1** - Create fake version numbers for the TTP side and using a single incrementing integer watermark across all of the TTP items.
+>   - **Option 1** - Create fake version numbers for the TTP side and just copy the ChangeAction’s ChangeActionId value for this.
+>
 > \-**_Willy-Peter Schaub_**, VSALM Ranger Mother
 
 So I changed my code so that when the create action occurred it passed in a version (work item revision) number. As my source system does not have revisions, and does not even keep track of edits I just have to make up the number as long as it is greater than the one before. I went for **Option 1** provided by Willy.
@@ -809,10 +799,7 @@ Public Class TtpAnalysisProvider
 End Class
 ```
 
-  
 **Figure: Full source code for new Analysis Provider v2**
-
-  
 
 ```
 Dim changeGroup As ChangeGroup = Me._changeGroupService.CreateChangeGroupForDeltaTable(String.Format("{0}:{1}", DefectMI.Id, DefectMI.Revision))
@@ -1048,9 +1035,9 @@ My last and only hope is that in all the development and debugging the I broke t
 
 1. Uninstall TFS Integration Platform
 
-3. Clean “C:Program Files (x86)Microsoft Team Foundation Server Integration Tools” of all files
+2. Clean “C:Program Files (x86)Microsoft Team Foundation Server Integration Tools” of all files
 
-5. Check all locations where files are stored after the craziness that is getting the source for the TFS Integration Platform to build
+3. Check all locations where files are stored after the craziness that is getting the source for the TFS Integration Platform to build
 
 [![SNAGHTML219c74f](images/SNAGHTML219c74f_thumb-5-5.png "SNAGHTML219c74f")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML219c74f.png)
 { .post-img }
@@ -1187,10 +1174,7 @@ I have even checked the output that is sent to the TFS web service and I can’t
 </InsertWorkItem>
 ```
 
-  
-In order to find out what is happening with the data (ChangeGroups) you can run the following query against your tfs\_IntegrationPlatform database:
-
-  
+In order to find out what is happening with the data (ChangeGroups) you can run the following query against your tfs_IntegrationPlatform database:
 
 ```
 SELECT grp.Name
@@ -1286,7 +1270,6 @@ This data is what is actually produced as a change to be saved to TFS. I am a li
 [02/06/2011 21:47:22] </InvalidSubmissionConflictDetails>
 ```
 
-  
 Hopefully someone on the team will be able to help me out, but so far I have not been able to get this running…
 
 On an whim I decided that the Dates might be  the problem all along and that the “Index was out of range” issue was a red hearing. So I commented out all of the date fields in the configuration file and what do you know… the “Index was out of range” errors went way…
@@ -1348,36 +1331,35 @@ There are a number of things to note on the new mapping. After removing all of t
 [![image](images/image_thumb2-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image2.png)
 { .post-img }
 
-  
 **Figure: Editing on behalf of**
 
 During the production run the “Created by \[account\]” will be the service account that Team Foundation Server runs under so it will be a little cleaner than having my name plastered all over it. Although it is OK to have the company name there ![Winking smile](images/wlEmoticon-winkingsmile-6-6.png)
 { .post-img }
 
 ```
-[03/06/2011 16:57:12] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing ChangeGroup #1003, change 3206:1 
-[03/06/2011 16:57:13] MigrationConsole.exe Information: 0 : WorkItemTracking: WorkItem type 'Bug' does not contain field 'TfsMigrationTool.ReflectedWorkItemId'. Writing source item Id will be skipped. 
-[03/06/2011 16:57:13] MigrationConsole.exe Error: 0 : WorkItemTracking: System.Web.Services.Protocols.SoapException: TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391. ---> TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391. 
-[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.WorkItemTracking.Proxy.RetryHandler.HandleSoapException(SoapException se) 
-[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.WorkItemTracking.Proxy.WorkItemServer.Update(String requestId, XmlElement package, XmlElement& result, MetadataTableHaveEntry[] metadataHave, String& dbStamp, IMetadataRowSets& metadata) 
-[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.Tfs2010WorkItemServer.Update(String requestId, XmlElement package, XmlElement& result, MetadataTableHaveEntry[] metadataHave, String& dbStamp, IMetadataRowSets& metadata) 
-[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsBatchUpdateHelper.Submit(Int32 firstItem, Int32 lastItem) 
-[03/06/2011 16:57:13] MigrationConsole.exe Information: 0 : WorkItemTracking: Unresolved conflict:  
-[03/06/2011 16:57:13]   Session: adea805d-51df-489a-b2fd-9717b4af3703 
-[03/06/2011 16:57:13]   Source: 6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857 
-[03/06/2011 16:57:13]   Message: Cannot find applicable resolution rule. 
-[03/06/2011 16:57:13]   Conflict Type: TFS WIT invalid submission conflict type 
-[03/06/2011 16:57:13]   Conflict Type Reference Name: c9d80b52-bb8a-4f7b-a40c-f8f63d6fd374 
-[03/06/2011 16:57:13]   Conflict Details: <?xml version="1.0"?> 
-[03/06/2011 16:57:13] <InvalidSubmissionConflictDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
-[03/06/2011 16:57:13]   <ExceptionType>System.Web.Services.Protocols.SoapException</ExceptionType> 
-[03/06/2011 16:57:13]   <ExceptionMessage>TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391. ---&gt; TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391.</ExceptionMessage> 
-[03/06/2011 16:57:13]   <InnerExceptionType /> 
-[03/06/2011 16:57:13]   <InnerExceptionMessage /> 
-[03/06/2011 16:57:13]   <ActionData /> 
-[03/06/2011 16:57:13]   <SourceItemId>3206</SourceItemId> 
-[03/06/2011 16:57:13]   <SourceItemRevision>1</SourceItemRevision> 
-[03/06/2011 16:57:13] </InvalidSubmissionConflictDetails> 
+[03/06/2011 16:57:12] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing ChangeGroup #1003, change 3206:1
+[03/06/2011 16:57:13] MigrationConsole.exe Information: 0 : WorkItemTracking: WorkItem type 'Bug' does not contain field 'TfsMigrationTool.ReflectedWorkItemId'. Writing source item Id will be skipped.
+[03/06/2011 16:57:13] MigrationConsole.exe Error: 0 : WorkItemTracking: System.Web.Services.Protocols.SoapException: TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391. ---> TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391.
+[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.WorkItemTracking.Proxy.RetryHandler.HandleSoapException(SoapException se)
+[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.WorkItemTracking.Proxy.WorkItemServer.Update(String requestId, XmlElement package, XmlElement& result, MetadataTableHaveEntry[] metadataHave, String& dbStamp, IMetadataRowSets& metadata)
+[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.Tfs2010WorkItemServer.Update(String requestId, XmlElement package, XmlElement& result, MetadataTableHaveEntry[] metadataHave, String& dbStamp, IMetadataRowSets& metadata)
+[03/06/2011 16:57:13]    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsBatchUpdateHelper.Submit(Int32 firstItem, Int32 lastItem)
+[03/06/2011 16:57:13] MigrationConsole.exe Information: 0 : WorkItemTracking: Unresolved conflict:
+[03/06/2011 16:57:13]   Session: adea805d-51df-489a-b2fd-9717b4af3703
+[03/06/2011 16:57:13]   Source: 6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857
+[03/06/2011 16:57:13]   Message: Cannot find applicable resolution rule.
+[03/06/2011 16:57:13]   Conflict Type: TFS WIT invalid submission conflict type
+[03/06/2011 16:57:13]   Conflict Type Reference Name: c9d80b52-bb8a-4f7b-a40c-f8f63d6fd374
+[03/06/2011 16:57:13]   Conflict Details: <?xml version="1.0"?>
+[03/06/2011 16:57:13] <InvalidSubmissionConflictDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+[03/06/2011 16:57:13]   <ExceptionType>System.Web.Services.Protocols.SoapException</ExceptionType>
+[03/06/2011 16:57:13]   <ExceptionMessage>TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391. ---&gt; TF223001: The update package contains more than one entry that sets the value of field System.ChangedBy for work item 1391.</ExceptionMessage>
+[03/06/2011 16:57:13]   <InnerExceptionType />
+[03/06/2011 16:57:13]   <InnerExceptionMessage />
+[03/06/2011 16:57:13]   <ActionData />
+[03/06/2011 16:57:13]   <SourceItemId>3206</SourceItemId>
+[03/06/2011 16:57:13]   <SourceItemRevision>1</SourceItemRevision>
+[03/06/2011 16:57:13] </InvalidSubmissionConflictDetails>
 ```
 
 **Figure: When there are duplicate entries you get a TF223001**
@@ -1385,5 +1367,3 @@ During the production run the “Created by \[account\]” will be the service a
 Once I got rid of the duplicate mappings I started getting data through and I can now get back to the route problem of “Edit” now that “Add” is working again.
 
 Woot…
-
-

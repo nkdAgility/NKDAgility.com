@@ -2,9 +2,9 @@
 id: "123"
 title: "My.Unity.Resolve(Of Ninja)"
 date: "2009-05-08"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "tools"
@@ -143,5 +143,3 @@ End Class
 Although this example in no way demonstrates the power of the Unity Application Block, and is a bit silly, I think it demonstartes the use of the “My” namespace.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Software Development](http://technorati.com/tags/Software+Development) [CodeProject](http://technorati.com/tags/CodeProject) [WPF](http://technorati.com/tags/WPF)
-
-

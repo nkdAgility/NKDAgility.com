@@ -2,9 +2,9 @@
 id: "3778"
 title: "You are doing Scrum but the Scrum Master tells the team what to do!"
 date: "2011-09-13"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "develop"
   - "nwcadence"
@@ -21,21 +21,21 @@ If you are doing Scrum but the Scrum Master tells the team what to do then you m
 
 Ultimately the Scrum Master should never tell the Development Team what to do and they should make sure that the Development Team has both the knowledge and the skills to work things out for themselves. This is critical to the teams ability to self organise going forward because we all learn by the mistakes we make.
 
-* * *
+---
 
 A Scrum Master does NOT equal Project Manager. In Scrum, project management is the responsibility of the entire Scrum Team (Scrum Master, Product Owner and Development Team) and is distributed as such, with the Scrum Master keeping an eye on the mechanics of Scrum to make sure it is working. The top-down management model traditionally used for project execution is rejected in favour of self-organization and shared accountability. While this is alien to many organisations it has been proven time and time again to increase the accountability, efficiency and quality of the software delivered by the Scrum Team.
 
 In Scrum the responsibilities between the Scrum Master and the Development Team are very explicit. The Scrum Master is there to serve the Development Team, not to manage them.
 
 - **Scrum Master**
-    - Scrum Mechanics
-    - Individual & Team Training
-    - etc.
+  - Scrum Mechanics
+  - Individual & Team Training
+  - etc.
 - **Development Team**
-    - Conflict Resolution
-    - Engineering Practices
-    - Grooming the Backlog (with Product Owner)
-    - etc.
+  - Conflict Resolution
+  - Engineering Practices
+  - Grooming the Backlog (with Product Owner)
+  - etc.
 
 All implementation, whither centred around working together, working to build software or working on the backlog, is the purview of the Development Team. This, however, does not mean that the Development Team are left to flounder. I mentioned that the Scrum Master is responsible for making sure that the Development Team has the Knowledge and Skills necessary to allow that Development Team to resolve things themselves.
 
@@ -61,5 +61,3 @@ The Development Team must be empowered to come up with resolutions to the proble
 - [Scrum Guide 2011](http://www.scrum.org/scrumguides)
 - [Why Group Dynamics and Interpersonal Skills Matter](http://www.estherderby.com/weblog/2009/07/why-group-dynamics-and-interpersonal.html)
 - [Scrum As A Framework](http://kenschwaber.wordpress.com/2010/09/08/scrum-as-a-framework/)
-
-

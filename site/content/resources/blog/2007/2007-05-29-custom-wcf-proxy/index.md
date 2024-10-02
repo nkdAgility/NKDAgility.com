@@ -2,7 +2,7 @@
 id: "394"
 title: "Custom WCF Proxy"
 date: "2007-05-29"
-tags: 
+tags:
   - "ml"
   - "service-oriented-architecture"
   - "tools"
@@ -20,14 +20,11 @@ I decided to solve the problem by creating custom proxies for my Windows Communi
 > Friend Class SubscriptionsClient  
 >       Inherits System.ServiceModel.DuplexClientBase(Of Services.Contracts.ISubscriptions)  
 >       Implements Services.Contracts.ISubscriptions
-> 
+>
 > ...
-> 
+>
 > End Class
 
 This way you have no need of a convertors or adapters between object types. Obviously this only works for .NET to .NET implementations of servers, you Java guys are still on your own, but it a usefully tool to add to your arsenal.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [WCF](http://technorati.com/tags/WCF)
-
-
-

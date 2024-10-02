@@ -2,10 +2,10 @@
 id: "42"
 title: "Guidance: How to layout you files for an Ideal Solution"
 date: "2010-05-17"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "configuration"
@@ -34,15 +34,14 @@ slug: "guidance-how-to-layout-you-files-for-an-ideal-solution"
 
 For setting up the Areas to run Multiple projects under one solution see my post on  [When should I use Areas in TFS instead of Team Projects](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) and for an explanation of branching see [Guidance: A Branching strategy for Scrum Teams](http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx).
 
-  
- 
+
 
 - Update 17th May 2010 – We are currently trialling running a single Sprint branch to improve our history.
 - Update 20th May 2010 – Fixing Images
 - Updated 4th August 2010 – There is now best practice guidance around this that supersedes this post.  
-    [How To: Structure Your Source Control Folders in Team Foundation Server](http://msdn.microsoft.com/en-us/library/bb668992.aspx)
+   [How To: Structure Your Source Control Folders in Team Foundation Server](http://msdn.microsoft.com/en-us/library/bb668992.aspx)
 
-* * *
+---
 
 Whenever I setup a new Team Project I implement the basic version control structure. I put “readme.txt” files in the folder structure explaining the different levels, and a solution file called “\[Client\].\[Product\].sln” located at “$/\[Client\]/\[Product\]/DEV/Main” within version control.
 
@@ -84,13 +83,13 @@ This protects the serviceability of of our released code allowing developers to 
 
 ![image](images/7129adaece20_EC32-image_-9-9.png)  
 { .post-img }
-**Figure: All bugs found on a release are fixed on the release.** 
+**Figure: All bugs found on a release are fixed on the release.**
 
-All bugs found in a release are fixed on the release and a new deployment is created. After the deployment is created the bug fixes are then merged (Reverse Integration) into the Main branch. We do this so that we separate out our development from our production ready code. 
+All bugs found in a release are fixed on the release and a new deployment is created. After the deployment is created the bug fixes are then merged (Reverse Integration) into the Main branch. We do this so that we separate out our development from our production ready code.
 
 ![clip_image010[4]](images/7129adaece20_EC32-clip_image0104_-6-6.jpg)  
 { .post-img }
-**Figure: SAFE or RTM is a read only record of what you actually released. Labels are not immutable so are useless in this circumstance.** 
+**Figure: SAFE or RTM is a read only record of what you actually released. Labels are not immutable so are useless in this circumstance.**
 
 When we have completed stabilisation of the release branch and we are ready to deploy to production we create a read-only copy of the code for reference. In some cases this could be a regulatory concern, but in most cases it protects the company building the product from legal entanglements based on what you did or did not release.
 
@@ -113,6 +112,3 @@ This makes it easier for Automated build and improves the discoverability of you
 Send me your feedback!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFBS](http://technorati.com/tags/TFBS) [Scrum](http://technorati.com/tags/Scrum) [Branching](http://technorati.com/tags/Branching) [TFS](http://technorati.com/tags/TFS)
-
-
-

@@ -2,7 +2,7 @@
 id: "8"
 title: "Installing Visual Studio Team Foundation Server Service Pack 1"
 date: "2011-03-10"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -15,11 +15,9 @@ slug: "installing-visual-studio-team-foundation-server-service-pack-1"
 [![vs2010logo](images/Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb-14-14.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!
 { .post-img }
 
-  
-
 - Update 2011-03-10 – Running the Team Foundation Server 2010 Service Pack 1 install a second time worked
 
-* * *
+---
 
 As per [Brian's post](http://blogs.msdn.com/b/bharry/archive/2011/03/09/installing-all-the-new-stuff.aspx) I am installing the Team Foundation Server Service Pack first and indeed as this is a single server local deployment I need to install both. If I only install one it will leave the other product broken.
 
@@ -123,7 +121,7 @@ Entering Function: BaseMspInstallerT >::PerformAction
 Action: Performing Install on MSP: c:757fe6efe9f065130d4838081911VS10-KB2182621.msp targetting Product: Microsoft Team Foundation Server 2010 - ENU
 Returning IDOK. INSTALLMESSAGE_ERROR [Error 1935.An error occurred during the installation of assembly 'Microsoft.TeamFoundation.WebAccess.WorkItemTracking,version="10.0.0.0",publicKeyToken="b03f5f7f11d50a3a",processorArchitecture="MSIL",fileVersion="10.0.40219.1",culture="neutral"'. Please refer to Help and Support for more information. HRESULT: 0x80070005. ]
 Returning IDOK. INSTALLMESSAGE_ERROR [Error 1712.One or more of the files required to restore your computer to its previous state could not be found. Restoration will not be possible.]
-Patch (c:757fe6efe9f065130d4838081911VS10-KB2182621.msp) Install failed on product (Microsoft Team Foundation Server 2010 - ENU). Msi Log: 
+Patch (c:757fe6efe9f065130d4838081911VS10-KB2182621.msp) Install failed on product (Microsoft Team Foundation Server 2010 - ENU). Msi Log:
 MSI returned 0x643
 Entering Function: MspInstallerT >::Rollback
 
@@ -142,7 +140,6 @@ As there is really no information in this log as to why the installation failed 
 [![image](images/Installing-Visual-Studio-Team-Foundatio_6DBD-image_thumb_3-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-image_9.png)
 { .post-img }
 
-  
 **Figure: There are hundreds of errors and it actually looks like there are more problems than a failed Service Pack**
 
 I am going to just run it again and see if it was because the netbook was slow to catch on to the update. Hears hoping, but even if it fails, I would question the installation of Windows (PDC laptop original install) before I question the Service Pack ![Smile](images/Installing-Visual-Studio-Team-Foundatio_6DBD-wlEmoticon-smile_2-15-15.png)
@@ -151,7 +148,6 @@ I am going to just run it again and see if it was because the netbook was slow t
 [![SNAGHTML1874adc](images/Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-SNAGHTML1874adc.png)
 { .post-img }
 
-  
 **Figure: Second run through was successful**
 
 I don’t know if the laptop was just slow, or what…
@@ -159,5 +155,3 @@ I don’t know if the laptop was just slow, or what…
 **Did you get this error?**
 
 If you did I will push this to the product team as a problem, but unless more people have this sort of error, I will just look to write this off as a corrupted install of Windows and reinstall.
-
-

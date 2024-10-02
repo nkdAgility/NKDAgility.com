@@ -2,7 +2,7 @@
 id: "312"
 title: "Uber-Dorky Nerd King"
 date: "2007-09-14"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -20,6 +20,3 @@ Does this make me a Nerd?
 Just a little!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

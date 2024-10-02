@@ -2,9 +2,9 @@
 id: "191"
 title: "Creating a WPF Work Item Control"
 date: "2008-09-19"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "tfs"
@@ -40,7 +40,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-   4:  
+   4: 
 ```
 
 ```
@@ -48,7 +48,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-   6:  
+   6: 
 ```
 
 ```
@@ -60,7 +60,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-   9:  
+   9: 
 ```
 
 ```
@@ -68,7 +68,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  11:  
+  11: 
 ```
 
 ```
@@ -80,7 +80,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  14:  
+  14: 
 ```
 
 ```
@@ -100,11 +100,11 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  19:  
+  19: 
 ```
 
 ```
-  20:  
+  20: 
 ```
 
 ```
@@ -140,7 +140,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  29:  
+  29: 
 ```
 
 ```
@@ -156,7 +156,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  33:  
+  33: 
 ```
 
 ```
@@ -216,7 +216,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  48:  
+  48: 
 ```
 
 ```
@@ -252,7 +252,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  57:  
+  57: 
 ```
 
 ```
@@ -288,7 +288,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  66:  
+  66: 
 ```
 
 ```
@@ -296,7 +296,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  68:  
+  68: 
 ```
 
 ```
@@ -304,7 +304,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  70:  
+  70: 
 ```
 
 ```
@@ -312,7 +312,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  72:  
+  72: 
 ```
 
 ```
@@ -320,7 +320,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  74:  
+  74: 
 ```
 
 ```
@@ -328,7 +328,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  76:  
+  76: 
 ```
 
 ```
@@ -336,7 +336,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  78:  
+  78: 
 ```
 
 ```
@@ -344,11 +344,11 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  80:  
+  80: 
 ```
 
 ```
-  81:  
+  81: 
 ```
 
 ```
@@ -356,7 +356,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  83:  
+  83: 
 ```
 
 ```
@@ -364,7 +364,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  85:  
+  85: 
 ```
 
 ```
@@ -372,7 +372,7 @@ Here is an example WPF Work Item Control:
 ```
 
 ```
-  87:  
+  87: 
 ```
 
 ```
@@ -431,7 +431,7 @@ here is an example “stub” which is created as a simple class:
 ```
 
 ```
-   2:  
+   2: 
 ```
 
 ```
@@ -443,7 +443,7 @@ here is an example “stub” which is created as a simple class:
 ```
 
 ```
-   5:  
+   5: 
 ```
 
 ```
@@ -451,7 +451,7 @@ here is an example “stub” which is created as a simple class:
 ```
 
 ```
-   7:  
+   7: 
 ```
 
 ```
@@ -459,9 +459,9 @@ here is an example “stub” which is created as a simple class:
 ```
 
 > _note: although this inherits from user control you will not be able to view it in the designer because of the generic nature of its inheritance. This is OK and does not hamper development._
-> 
+>
 > [](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_4.png)[![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_4.png)
-{ .post-img }
+> { .post-img }
 
 All the heavy lifting for this control is done in the WitCustomControlBase and the generic type passed needs to meet the requirements of New, UIElement and IWorkItemControl. This ensures that it is a WPF control that inherits from IWorkItemControl.
 
@@ -480,7 +480,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-   3:  
+   3: 
 ```
 
 ```
@@ -496,7 +496,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-   7:  
+   7: 
 ```
 
 ```
@@ -544,7 +544,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-  19:  
+  19: 
 ```
 
 ```
@@ -556,7 +556,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-  22:  
+  22: 
 ```
 
 ```
@@ -564,7 +564,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-  24:     'It can be modified using the Windows Form Designer.  
+  24:     'It can be modified using the Windows Form Designer.
 ```
 
 ```
@@ -668,7 +668,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-  50:  
+  50: 
 ```
 
 ```
@@ -684,7 +684,7 @@ Then we need to make the designer generic.
 ```
 
 ```
-  54:  
+  54: 
 ```
 
 ```
@@ -694,9 +694,9 @@ Then we need to make the designer generic.
 As you can see the only changes that have been made are to the class to add the generic type (line 5) and to the type used on the control instance (lines 29, 53).
 
 > note: Once you have made these and the following changes to the designer, you will no longer be able to view the designer in VS because we have made modifications for the designer.
-> 
+>
 > [](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_6.png)[![image](images/CreatingaWPFWorkItemControl_914D-image_thumb_2-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingaWPFWorkItemControl_914D-image_6.png)
-{ .post-img }
+> { .post-img }
 
 Now we have changed the designer, we need to move on to the main control code and change it to pass all calls and implementation of the IWorkItemControl interface to the WPF control.
 
@@ -715,11 +715,11 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-   4:  
+   4: 
 ```
 
 ```
-   5:  
+   5: 
 ```
 
 ```
@@ -731,7 +731,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-   8:  
+   8: 
 ```
 
 ```
@@ -739,7 +739,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  10:  
+  10: 
 ```
 
 ```
@@ -751,7 +751,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  13:  
+  13: 
 ```
 
 ```
@@ -787,7 +787,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  22:  
+  22: 
 ```
 
 ```
@@ -803,7 +803,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  26:  
+  26: 
 ```
 
 ```
@@ -839,7 +839,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  35:  
+  35: 
 ```
 
 ```
@@ -875,7 +875,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  44:  
+  44: 
 ```
 
 ```
@@ -911,7 +911,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  53:  
+  53: 
 ```
 
 ```
@@ -927,7 +927,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  57:  
+  57: 
 ```
 
 ```
@@ -943,7 +943,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  61:  
+  61: 
 ```
 
 ```
@@ -959,7 +959,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  65:  
+  65: 
 ```
 
 ```
@@ -967,7 +967,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  67:  
+  67: 
 ```
 
 ```
@@ -983,7 +983,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  71:  
+  71: 
 ```
 
 ```
@@ -999,7 +999,7 @@ Now we have changed the designer, we need to move on to the main control code an
 ```
 
 ```
-  75:  
+  75: 
 ```
 
 ```
@@ -1051,6 +1051,3 @@ The result?
 You will notice that this control is marked as read-only, but not bad for a first pass…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-
-
-

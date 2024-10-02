@@ -2,7 +2,7 @@
 id: "97"
 title: "Log Elmah errors in Team Foundation Server"
 date: "2009-07-26"
-tags: 
+tags:
   - "aggreko"
   - "code"
   - "codeproject"
@@ -625,5 +625,3 @@ End Class
 ```
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-
-

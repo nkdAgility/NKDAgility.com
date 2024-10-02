@@ -2,9 +2,9 @@
 id: "290"
 title: "AD Update-O-Matic"
 date: "2007-11-20"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "moss2007"
@@ -28,6 +28,3 @@ One of the guys from infrastructure are coming over this afternoon to run the ap
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

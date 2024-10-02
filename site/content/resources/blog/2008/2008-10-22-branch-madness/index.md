@@ -2,7 +2,7 @@
 id: "186"
 title: "Branch madness!"
 date: "2008-10-22"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
@@ -45,6 +45,3 @@ A long way for a short cut :)
 Well, at least the lesson is learned…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

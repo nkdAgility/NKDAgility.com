@@ -2,9 +2,9 @@
 id: "25"
 title: "Team Foundation Server 2010 Event Handling with Subscribers"
 date: "2010-09-16"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "modern-alm"
@@ -21,7 +21,7 @@ slug: "team-foundation-server-2010-event-handling-with-subscribers"
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.
 { .post-img }
 
-* * *
+---
 
 In Team Foundation Server (TFS) 2010 you can write event subscribers that are called and run within the context of the TFS server itself. This means that you have access to all the goodies within TFS directly without having to call back to the TFS server.
 
@@ -240,7 +240,7 @@ All I am doing here is writing an event received acknowledgements to a text file
 Now lets look into the output file:
 
 ```
-Recieved WorkItemChangedEvent 
+Recieved WorkItemChangedEvent
 ```
 
 As you can see we received the event with our event receiver, handled it successfully and wrote some useless text to a file.
@@ -252,7 +252,3 @@ This is a heck of a lot easier than subscribing to events through web services, 
 **Which method will you be using?**
 
 Technorati Tags: [TFS Customisation](http://technorati.com/tags/TFS+Customisation),[TFS 2010](http://technorati.com/tags/TFS+2010),[CodeProject](http://technorati.com/tags/CodeProject)
-
-
-
-

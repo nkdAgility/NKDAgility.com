@@ -59,9 +59,9 @@ Warm regards,
 
 **Principal Agile Consultant and Professional Scrum Trainer**
 
- 
 
-* * *
+
+---
 
 ## What have we been up to?
 

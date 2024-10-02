@@ -2,9 +2,9 @@
 id: "8834"
 title: "Visual Studio 2012 Launch RoadShows around the World"
 date: "2012-09-21"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "events-and-presentations"
   - "modern-alm"
   - "tfs"
@@ -33,7 +33,7 @@ Organizations need to be aware that the New Normal is a world where the Consumer
 { .post-img }
 **Figure: Evolve: Rediscover Relevancy**
 
-Have you adapted your development practices and strategies to ensure you are maintaining your relevancy? 
+Have you adapted your development practices and strategies to ensure you are maintaining your relevancy?
 
 ### Session – Revolution: The Agile Developer
 
@@ -46,5 +46,3 @@ With this new normal the quality level expected of engineers is much higher than
 The engineering half of the Agile Developer needs tools to help them make life that much easier on their tester alter ego and on the businesses pocket book.
 
 Join me on [9th/10th of October in San Diego or Irvine](http://blog.hinshelwood.com/events/) to usher in a new era of software quality and delivery…
-
-

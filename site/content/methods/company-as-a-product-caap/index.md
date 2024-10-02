@@ -10,5 +10,5 @@ card:
   button:
     content: More info
 ---
-Description of Company as a Product (CaaP)
 
+Description of Company as a Product (CaaP)

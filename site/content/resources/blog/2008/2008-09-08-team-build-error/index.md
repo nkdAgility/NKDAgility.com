@@ -2,7 +2,7 @@
 id: "197"
 title: "Team Build Error"
 date: "2008-09-08"
-tags: 
+tags:
   - "aggreko"
   - "tfs-build"
   - "tools"
@@ -44,6 +44,3 @@ Sources:
 [http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/](http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/ "http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/")
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

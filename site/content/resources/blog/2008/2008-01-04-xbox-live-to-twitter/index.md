@@ -2,9 +2,9 @@
 id: "271"
 title: "Xbox Live To Twitter"
 date: "2008-01-04"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-1-1.png"
 author: "MrHinsh"
@@ -22,6 +22,3 @@ if you have any problems, please create or vote for Issues via the interface![sm
 { .post-img }
 
 Technorati Tags: [RDdotNet](http://technorati.com/tags/RDdotNet) [Xbox](http://technorati.com/tags/Xbox)
-
-
-

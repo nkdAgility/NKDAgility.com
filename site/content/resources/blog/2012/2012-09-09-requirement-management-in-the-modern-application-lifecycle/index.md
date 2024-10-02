@@ -2,9 +2,9 @@
 id: "8700"
 title: "Requirement management in the modern application lifecycle with TFS"
 date: "2012-09-09"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "define"
   - "infrastructure"
   - "modern-application-lifecycle"
@@ -79,11 +79,11 @@ Because everyone is authenticated the same across all parts of the system you ha
 So the Key Integration Points are:
 
 - **Linking**  
-    One or more work items in TFS link by unique identifier to one or more items in the partner system but no sync of data takes place or a one-time only sync occurs (copy). This is the
+   One or more work items in TFS link by unique identifier to one or more items in the partner system but no sync of data takes place or a one-time only sync occurs (copy). This is the
 - **Syncing**  
-    A copy of the work item data resides in both TFS and the Partner system allowing for tight bi-directional integration.
+   A copy of the work item data resides in both TFS and the Partner system allowing for tight bi-directional integration.
 - **Loading**  
-    The partner system does not store any data directly but instead exclusively stores all of its data in TFS.
+   The partner system does not store any data directly but instead exclusively stores all of its data in TFS.
 
 These integration points represent a tightening of the gap between products and as partner products move from Lining through Synching to Loading they become able to provide a much richer feature set to their users. Products that get all the way to Loading can concentrate on adding value to their customers while not having to build all of the infrastructure required to deliver it.
 
@@ -191,5 +191,3 @@ More and more organisations are moving towards a more agile approach in order to
 Just look at [Brian Harry’s](http://blogs.msdn.com/b/bharry) recent post on the new [TFS Shipping Cadence](http://blogs.msdn.com/b/bharry/archive/2012/08/28/tfs-shipping-cadence.aspx) and I hope you will see that continuous deliver and the pursuit of tighter feedback loops is an inevitability not an optional exercise or a tend that will go away.
 
 The partners and products above will help you on that road to agility and bridge that gap between what you need to do and what the product does in your particular circumstances. Think of the tools above as extensions of Team Foundation Server tailored to fit a niche and indeed all of the above partner products are shipping simultaneously with Visual Studio 2012.
-
-

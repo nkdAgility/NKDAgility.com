@@ -2,9 +2,9 @@
 id: "4223"
 title: "An adoption strategy for testing with Visual Studio 2010"
 date: "2012-01-25"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "mtm"
   - "nwcadence"
   - "practices"
@@ -39,16 +39,14 @@ Adding those agile practices is easy with [Professional Scrum Developer](http://
 { .post-img }
 **Figure: 5 day PSD at a glance and there is also a 3 day**
 
-So if you are looking for an adoption strategy for Microsoft Test Manager then: 
+So if you are looking for an adoption strategy for Microsoft Test Manager then:
 
 1. **Overview:** [**Visual Studio 2010 Overview Webcasts**](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/)  
-    If you want a custom set of sessions as part of [Microsoft's ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program you can request them through this site. 
+   If you want a custom set of sessions as part of [Microsoft's ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program you can request them through this site.
 2. **Hands-on Lab:** [**Testing with Test Professional 2010 and Visual Studio 2010 Ultimate**](http://www.eventbrite.com/event/2754206907)  
     note: You can get a **25% discount** through Feb. 24th for those who register using the **discount code “MrHinsh**”  
     note: You also get a copy of Jeff Levinson’s [Software Testing with Visual Studio 2010](http://www.amazon.com/gp/product/0321734483/ref=as_li_ss_tl?ie=UTF8&tag=mrhinsh-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321734483)![](http://www.assoc-amazon.com/e/ir?t=mrhinsh-20&l=as2&o=1&a=0321734483) when you attend.
-{ .post-img }
+   { .post-img }
 3. **Training:** [**Professional Scrum Developer**](http://nwcadence.com/PSDTraining)  
-    Although we don’t have any public PSD’s scheduled, which is why you will not find it on our site, we do provide it as part of private engagements.
+   Although we don’t have any public PSD’s scheduled, which is why you will not find it on our site, we do provide it as part of private engagements.
 4. **Start building awesome software…**
-
-

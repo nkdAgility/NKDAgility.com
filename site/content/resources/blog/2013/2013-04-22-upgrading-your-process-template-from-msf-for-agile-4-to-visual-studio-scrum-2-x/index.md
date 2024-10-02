@@ -2,10 +2,10 @@
 id: "9456"
 title: "Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x"
 date: "2013-04-22"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
-tags: 
+tags:
   - "code"
   - "configuration"
   - "infrastructure"
@@ -135,5 +135,3 @@ There are however a few thins that we did not change that might be part of the p
 ## Conclusion
 
 If you are willing to accept the limitations then changing your process template is a fairly strait forward exercise ( unless of course you are using the Scrum for Team System templates: sorry)  and is easily achievable even across many Team Projects.
-
-

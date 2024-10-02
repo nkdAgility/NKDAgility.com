@@ -2,10 +2,10 @@
 id: "45309"
 title: "Product Goal is an Intermediate Strategic Goal"
 date: "2020-12-21"
-categories: 
+categories:
   - "discovery-ideation"
   - "measure-and-learn"
-tags: 
+tags:
   - "ebm"
   - "evidence-based-management"
   - "intermediate-goal"
@@ -35,8 +35,8 @@ _Reaching strategic goals requires experimenting, inspecting, and adapting_
 
 The key to realising an agile mindset within the business is the idea of experimentation and that we don't know where we want to get to, largely because the future of our business is clouded in the fog of war. There is always a high degree of uncertainty of the future and nothing has illustrated that more in recent times than the COVID-19 pandemic. Every business had to reassess its Strategic objectives more than normal, and normal is often a lot.
 
-> The **fog of war** (German: _Nebel des Krieges_) is the uncertainty in situational awareness experienced by participants in military operations. The term seeks to capture the uncertainty regarding one's own capability, adversary capability, and adversary intent during an engagement, operation, or campaign. Military forces try to reduce the fog of war through military intelligence and friendly force tracking systems.
-> 
+> The **fog of war** (German: *Nebel des Krieges*) is the uncertainty in situational awareness experienced by participants in military operations. The term seeks to capture the uncertainty regarding one's own capability, adversary capability, and adversary intent during an engagement, operation, or campaign. Military forces try to reduce the fog of war through military intelligence and friendly force tracking systems.
+>
 > Wikipedia
 
 Since presenting [Evolution not Transformation: This is the Inevitability of change](https://nkdagility.com/blog/evolution-not-transformation-this-is-the-inevitability-of-change/) I have come to realise more and more that it is the Business and Executive leadership that is holding back the [retirement of the traditional practices that were developed to manage factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/) in favour of those needed to manage cognitive work. Even a cursory look at many of the modern organisations that are able to adapt to business changes shows a far greater success than other more traditionally run businesses. Think Spotify, Zappos, Microsoft, Apple, Google.
@@ -49,5 +49,3 @@ We need to adopt the key practices of [Product Discovery](https://nkdagility.com
 - **Hypothesis Driven** - To understand the outcome of the experiment we need some sort of hypothesis. This is like an assumption, but with one important distinction; We have a measure that will tell us if our assumption is true. It is the accountability of Product Management (likely as a Product Owner) to validate their assumptions using data and minimise the spend to get there. Running many small experiments where the Delivery Teams create small valuable outcomes that you can test with real users and validate is imperative.
 
 We need to reassess the use of the terms Scope & Failure in light of this new reality and evolve into a lean data-driven organisation based on experimentation and discovery that allows us to adapt to business changes as they arise!
-
-

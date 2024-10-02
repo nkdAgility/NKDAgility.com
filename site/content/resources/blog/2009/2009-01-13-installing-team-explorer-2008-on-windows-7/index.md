@@ -2,7 +2,7 @@
 id: "145"
 title: "Installing Team Explorer 2008 on Windows 7"
 date: "2009-01-13"
-tags: 
+tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
@@ -50,6 +50,3 @@ Ewww, and check out that nasty logo…
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [TFS](http://technorati.com/tags/TFS)
-
-
-

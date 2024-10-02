@@ -2,9 +2,9 @@
 id: "10682"
 title: "Yorkhill Ice Bucket Challenge"
 date: "2014-08-24"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "charity"
 coverImage: "yorkhill-ice-bucket-challange-5-5.png"
 author: "MrHinsh"
@@ -38,5 +38,3 @@ We went on a mission to find ice and to my surprise many of then shops were all 
 You will notice that evil Eva bided her time and when I thought that all the water had been pored, when in fact it was only Kai's, she got her turn. If you listen carefully at the start of the video you can hear her manic and decidedly malevolent excitement at the prospect...
 
 As I said, I am giving my £100 to the Yorkhill Childress Charity to the benefit of the new Yorkhill Hospital for Sick Children. To carry on I nominate [David Starr](http://courses.scrum.org/about/david-starr) from Scrum.org, David Hinshelwood, and [Iain Frame](http://uk.linkedin.com/pub/iain-frame/0/558/b77).
-
-

@@ -13,9 +13,9 @@ isShort: False
 
 # Famine! 7 Harbingers agile apocalypse
 
-*Addressing Organizational Famine: Insights from Ancient Wisdom* - Explore the parallels of "famine" in organisations to the Aztec's Fourth Sun, Nahui-Atl, highlighting the catastrophic effects of resource deprivation. Dive deep into the challenges organisations face and the cost of inaction.
+_Addressing Organizational Famine: Insights from Ancient Wisdom_ - Explore the parallels of "famine" in organisations to the Aztec's Fourth Sun, Nahui-Atl, highlighting the catastrophic effects of resource deprivation. Dive deep into the challenges organisations face and the cost of inaction.
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🎤 dives deep into the organisational challenges posed by lack of resources, drawing inspiration from Aztec mythology. Delve into real-world scenarios, the cost of inaction, and solutions that empower employees. 🌍💼🔍
 
@@ -38,7 +38,7 @@ Part 5: https://youtu.be/vhBsAXev014
 Part 6: https://youtu.be/FdQpGx-FW-0
 Part 7: https://youtu.be/UeisJt8U2_0
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the kinds of challenges that lean-agile practitioners love and most folks dread. If you struggle to address organizational roadblocks effectively, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can. If challenges are undermining the effectiveness of your value delivery, it's paramount to seek assistance promptly!
 

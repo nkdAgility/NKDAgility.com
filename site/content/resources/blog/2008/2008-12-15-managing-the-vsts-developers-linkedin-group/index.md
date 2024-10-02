@@ -2,9 +2,9 @@
 id: "153"
 title: "Managing the “VSTS Developers” LinkedIn group."
 date: "2008-12-15"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog
@@ -24,5 +24,3 @@ Thanks guys for giving up a little bit of your valuable time….
 Hopefully, this will give members more information and a faster response time to requests…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

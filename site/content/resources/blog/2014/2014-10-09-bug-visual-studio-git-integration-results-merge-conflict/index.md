@@ -2,9 +2,9 @@
 id: "10734"
 title: "Bug in the Visual Studio Git integration that results in a merge conflict"
 date: "2014-10-09"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "git"
   - "mergeconflict"
   - "visual-studio-2013"
@@ -62,12 +62,10 @@ One of the nice features of Git is that I you made a bunch of changes and have n
 If they only figure it out after they have committed one or more times to the branch then they have a few extra steps to resolve the committed bits on the published branch.
 
 1. Create a new "feature-\[name\]" or "hotfix-\[name\]" unpublished branch - This will take a copy of the commits that have not yet been pushed to the server. This preserving the changes they have already made.
-    1. Checkout the branch you want to rollback
-    2. Use "git reset --hard HEAD~\[n\]" where \[n\] is the number of commits you want to back peddle
+   1. Checkout the branch you want to rollback
+   2. Use "git reset --hard HEAD~\[n\]" where \[n\] is the number of commits you want to back peddle
 2. Pull from origin\\branch to bring it up to date
 
 After that they can happily Pull to the published branch and continue to code away on the unpublished local branch. Yes this means that every developer effectively has one or more (they may have more than one set of work on the go) personal branches. While this was a bad practice in a Server Version Control System (SVCS) it is a perfectly good practice for a Distributed Version Control System (DVCS) where merging and branching is cheap and easy.
 
 If you can you should install the Visual Studio 2013.4 CTP that fixes this issue and you can carry on as normal.
-
-

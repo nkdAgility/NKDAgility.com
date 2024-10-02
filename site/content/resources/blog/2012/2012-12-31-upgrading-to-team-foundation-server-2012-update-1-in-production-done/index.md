@@ -2,10 +2,10 @@
 id: "9211"
 title: "Upgrading to Team Foundation Server 2012 Update 1 in production – DONE"
 date: "2012-12-31"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tfs"
@@ -52,11 +52,11 @@ For the satellite systems:
 Things you will need:
 
 - **Disk space**  
-    You should make sure that you have at least 20GB of free space at any time on your primary partition. This usually looks like 100GB primary and 100GB secondary depending on how big your data is.
+   You should make sure that you have at least 20GB of free space at any time on your primary partition. This usually looks like 100GB primary and 100GB secondary depending on how big your data is.
 - **Accounts**  
-    Make sure that you have access to all of the usernames and passwords that you may be using in your environment. This means the TFS Setup, TFS Service & TFS Reports as well as any Build, Test or Lab management accounts that were used
+   Make sure that you have access to all of the usernames and passwords that you may be using in your environment. This means the TFS Setup, TFS Service & TFS Reports as well as any Build, Test or Lab management accounts that were used
 - **Media**  
-    Depending on what you have installed you will need all of the media that correlates to that installation. You may be thinking that you can just download it on the fly, but what if the internet goes down or is just slow. I have been onsite with very slow connections.
+   Depending on what you have installed you will need all of the media that correlates to that installation. You may be thinking that you can just download it on the fly, but what if the internet goes down or is just slow. I have been onsite with very slow connections.
 
 Once you have all of these things ready and confirmed you can run the upgrade. Refer to the more detailed documentation for previous version of TFS, here I am doing a Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 upgrade only.
 
@@ -65,13 +65,13 @@ Once you have all of these things ready and confirmed you can run the upgrade. R
 I always like to have a short measurable checklist
 
 1. DONE **Free up disk space for Team Foundation Server 2012 Update 1 (added 1.5 hours to Upgrade)**
-    
-    This server has limited disk space so I had to uninstall a bunch of things that did not need to be there… like Visual Studio 2012 Ultimate.
-    
-2. DONE **Backup before Team Foundation Server 2012 Update 1 (15 minutes)** 
-    
-    This is imperative and not optional in any way. Even better take the backup off server!
-    
+
+   This server has limited disk space so I had to uninstall a bunch of things that did not need to be there… like Visual Studio 2012 Ultimate.
+
+2. DONE **Backup before Team Foundation Server 2012 Update 1 (15 minutes)**
+
+   This is imperative and not optional in any way. Even better take the backup off server!
+
 3. DONE **Upgrade Application Tier to Team Foundation Server 2012 Update 1 (30 minutes)**
 4. DONE **Configure Application Tier and upgrade Schema to Team Foundation Server 2012 Update 1 (30 minutes)**
 5. DONE **Upgrade Build Server to Team Foundation Build 2012 Update 1 (XX minutes)**
@@ -216,5 +216,3 @@ Now you go through the same configuration that you would for creating a new set 
 Upgrading from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 is a fairly strait forward task but as with anything to do with TFS there can be a lot of moving parts. I would describe this as a simple installation and there were few gotchas.
 
 Other installations and upgrade are not quite so simple…
-
-

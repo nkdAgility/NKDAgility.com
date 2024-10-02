@@ -2,9 +2,9 @@
 id: "11944"
 title: "VSTS Sync Migration Tool Update and Bugfix"
 date: "2017-06-21"
-categories: 
+categories:
   - "devops"
-tags: 
+tags:
   - "migration"
   - "sync"
   - "tfs"
@@ -39,5 +39,3 @@ We are working on the documentation, and folks struggle with the concept of the 
 { .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
-
-

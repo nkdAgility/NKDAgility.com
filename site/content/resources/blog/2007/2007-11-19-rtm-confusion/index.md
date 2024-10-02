@@ -2,9 +2,9 @@
 id: "292"
 title: "RTM Confusion"
 date: "2007-11-19"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "tfs"
   - "visual-studio"
   - "vs2008"
@@ -37,6 +37,3 @@ And where is the .NET 3.5 redistributable... I have applications that are hot to
 Ah well, I will stow my impatience and wait...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-
-
-

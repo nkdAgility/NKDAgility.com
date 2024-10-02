@@ -1,9 +1,9 @@
 ---
 categories:
-- code-and-complexity
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+  - code-and-complexity
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
 type: courses
 card:
   content: ""
@@ -75,53 +75,32 @@ delivery:
     [Read more](https://www.scrum.org/scrumorg-applying-professional-scrum-training-student-reviews-and-feedback "Scrum.org Applying Professional Scrum Training Student Reviews and Feedback") about our APS student surveys and their feedback
   type: Scrum
   brand:
-    colour: '#db8e74'
+    colour: "#db8e74"
     vendor: scrum-org
-  lead: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework   
+  lead: Enables all members of the Scrum Team to learn Scrum while doing it, experiencing what it is like to deliver products using the Scrum framework
   courseIcon: Scrumorg-Course-APS-400x-1.png
 tags:
-- agile
-- agility
-- business-agility
-- certification
-- professional-scrum
-- scrum
-- scrum-org
-- team
-- teams
+  - agile
+  - agility
+  - business-agility
+  - certification
+  - professional-scrum
+  - scrum
+  - scrum-org
+  - team
+  - teams
 aliases:
-- professional-scrum-foundations
-- professional-scrum-foundations-psf-training
-- applying-professional-scrum-aps-training
-- applying-professional-scrum-training-with-certification
-- applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-- applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - professional-scrum-foundations
+  - professional-scrum-foundations-psf-training
+  - applying-professional-scrum-aps-training
+  - applying-professional-scrum-training-with-certification
+  - applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+  - applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
 slug: applying-professional-scrum-aps-with-certification
 date: 2017-01-01
 id: "10045"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Welcome to the \[wpv-post-link\] course. This transformative learning journey is designed specifically for Team Members, Scrum Masters, Product Owners, and Managers keen to grasp and infuse Scrum values and principles into their work through practical case studies leveraging the engaging medium of Minecraft.
 
@@ -155,23 +134,3 @@ Join the \[wpv-post-link\] with Minecraft course and arm yourself with the knowl
 To create a level playing field while maintaining a complex environment for teams to experience Sprints in the context of Scrum, we use Minecraft for Education. Minecraft allows team members to practice Scrum in the complex and chaotic environment of Minecraft to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
 
 The course also includes two free attempts at the globally recognized Professional Scrum Master I certification exam (PSM I)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

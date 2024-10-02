@@ -22,6 +22,3 @@ Solution:
 If at any point you have a problem. You can always uninstall SP1 from both of the tiers and get the system working again. There are a number of solutions out there, including this one, which can fix the problems you have with TFS SP1... None of them worked for me...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

@@ -2,10 +2,10 @@
 id: "6202"
 title: "Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform"
 date: "2012-07-17"
-categories: 
+categories:
   - "code-and-complexity"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tfs"
@@ -22,16 +22,16 @@ As part of my current engagement I will be moving data from FogBugz via a custom
 This post is part of a series of posts that document a Upgrade of TFS 2010 to TFS 2012 with a VSS Migration, Process Template consolidation, Team Project consolidation and a FogBugz migration:
 
 1. **Part 1:** [**Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation**](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/)
-    1. [VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper](http://blog.hinshelwood.com/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper/)
-    2. [VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly](http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/)
+   1. [VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper](http://blog.hinshelwood.com/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper/)
+   2. [VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly](http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/)
 2. **Part 2:** [**One Team Project Collection to rule them all–Consolidating Team Projects**](http://blog.hinshelwood.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/)
-    1. [TFS Integration Tools – Issue: Access denied to Program Files](http://blog.hinshelwood.com/tfs-integration-platform-issue-access-denied-to-program-files/)
-    2. [TFS Integration Tools – Issue: Error occurred during the code review of change group](http://blog.hinshelwood.com/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group/)
-    3. [TFS Integration Tools – Issue: “unable to find a unique local path”](http://blog.nwcadence.com/tfs-integration-tools-issue-unable-to-find-a-unique-local-path/)
-    4. [TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/)
+   1. [TFS Integration Tools – Issue: Access denied to Program Files](http://blog.hinshelwood.com/tfs-integration-platform-issue-access-denied-to-program-files/)
+   2. [TFS Integration Tools – Issue: Error occurred during the code review of change group](http://blog.hinshelwood.com/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group/)
+   3. [TFS Integration Tools – Issue: “unable to find a unique local path”](http://blog.nwcadence.com/tfs-integration-tools-issue-unable-to-find-a-unique-local-path/)
+   4. [TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/)
 3. **[Part 3: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform](http://blog.hinshelwood.com/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform/)**
-    1. [TFS Integration Tools–Issue: AnalysisProvider not found](http://blog.hinshelwood.com/tfs-integration-toolsissue-analysisprovider-not-found/)
-    2. [TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item](http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/)
+   1. [TFS Integration Tools–Issue: AnalysisProvider not found](http://blog.hinshelwood.com/tfs-integration-toolsissue-analysisprovider-not-found/)
+   2. [TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item](http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/)
 
 ![](images/image_thumb-1-1.png)  
 { .post-img }
@@ -63,48 +63,40 @@ Next you need to create a Solution and Project to hold your custom adapter. Use 
 
 Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation Server Integration Tools”. But in order to go through a debug cycle (the TFS Integration Platform has no Unit Tests) you need to provide a little magic.
 
-1. **Select "Right Click Project | Compile | Build Events"**
-    
-    [![image](images/image_thumb24-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image24.png)  
-{ .post-img }
+1.  **Select "Right Click Project | Compile | Build Events"**
+        [![image](images/image_thumb24-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image24.png)
+    { .post-img }
     **Figure: Open the project properties**
-    
-2. **Then in the post build events enter some xcopy statements**
-    
-    [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)  
-{ .post-img }
+2.  **Then in the post build events enter some xcopy statements**
+        [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)
+    { .post-img }
     **Figure: Edit the build events**
-    
-    ```
-    xcopy "$(TargetDir)$(TargetName)*" "$(SolutionDir)..BinariesMyAdapterPlugins*" /y
-    xcopy "$(ProjectDir)Configuration*" "$(SolutionDir)..BinariesMyAdapterConfigurations*" /y /s
-    xcopy "$(SolutionDir)..BinariesMyAdapter*" "%ProgramFiles(x86)%Microsoft Team Foundation Server Integration Tools*" /y /s
-    
-    ```
-    
-    **Figure: Add some xcopy statements** 
-    
-3. Select the Debug Tab
-    
-    [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)  
-{ .post-img }
+        ```
+        xcopy "$(TargetDir)$(TargetName)*" "$(SolutionDir)..BinariesMyAdapterPlugins*" /y
+        xcopy "$(ProjectDir)Configuration*" "$(SolutionDir)..BinariesMyAdapterConfigurations*" /y /s
+        xcopy "$(SolutionDir)..BinariesMyAdapter*" "%ProgramFiles(x86)%Microsoft Team Foundation Server Integration Tools*" /y /s
+
+        ```
+
+        **Figure: Add some xcopy statements** 
+3.  Select the Debug Tab
+        [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)
+    { .post-img }
     Figure:
-    
-4. **Select “Start external Program” and enter the path to the Migration Console**
-    
+4.  **Select “Start external Program” and enter the path to the Migration Console**
+
     ```
     C:Program Files (x86)Microsoft Team Foundation Server Integration ToolsMigrationConsole.exe
-    
+
     ```
-    
-5. **Add a command line argument of the xml config file to run**
-6. **Add a working directory**
-    
+
+5.  **Add a command line argument of the xml config file to run**
+6.  **Add a working directory**
+
     ```
     C:Program Files (x86)Microsoft Team Foundation Server Integration Tools
-    
+
     ```
-    
 
 Now when you debug your Class Library it will open MigrationConsole.exe with the correct test configuration and attach to the process allowing you to step through your code.
 
@@ -121,273 +113,273 @@ There is some interesting code in the Configuration file to achieve this, and a 
 ```
 < ?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 
-  
-    
-    
-  
-  
-    
-    
-      
-        
-          
-        
-        
-          
-          
-          
-          
-          
-          
-        
-      
-      
-      
-        
-          
-          
-          
-        
-      
-    
-    
-      
-        
 
-        
-          
-            
-              
-                
-                
-                
-                
-                
-                
-              
-              
-                
-                  
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                  
-                  
-                    
-                      
-                      
-                    
-                    
-                      
-                      
-                    
-                  
-                
-                
-                  
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                  
-                  
-                    
-                      
-                      
-                    
-                    
-                      
-                      
-                    
-                  
-                
-                
-                  
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                  
-                  
-                    
-                      
-                      
-                    
-                    
-                      
-                      
-                    
-                  
-                
-              
-              
-                
-                  
-                  
-                
-                
-                  
-                  
-                
-                
-                  
-                  
-                
-                
-                  
-                  
-                  
-                  
-                  
-                
-                
-                  
-                  
-                  
-                  
-                  
-                
-                
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                
 
-                
-                  
-                  
-                  
-                  
-                
 
-                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                
-                
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                
 
-                
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                
-                
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                  
-                    
-                  
-                
 
-              
-            
-          
-        
-        
-          
-            
-            
-          
-        
-      
-    
-    
-      
-      
-    
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
@@ -508,5 +500,3 @@ This is the easiest part now that we have our data format and our configuration 
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
 { .post-img }
-
-

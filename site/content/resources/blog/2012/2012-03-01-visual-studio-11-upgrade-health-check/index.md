@@ -2,10 +2,10 @@
 id: "4747"
 title: "Visual Studio 11 Upgrade Health Check"
 date: "2012-03-01"
-categories: 
+categories:
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "nwcadence"
@@ -37,5 +37,3 @@ We can help you make sure that you will be able to:
 - e.t.c.
 
 Let us help you get the most out of the tools…
-
-

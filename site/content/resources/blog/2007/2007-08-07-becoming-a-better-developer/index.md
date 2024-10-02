@@ -2,9 +2,9 @@
 id: "339"
 title: "Becoming a better developer..."
 date: "2007-08-07"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "dyslexia"
   - "ml"
   - "tools"
@@ -26,6 +26,3 @@ slug: "becoming-a-better-developer"
 Well I think that I am done...yes, I'm done...Now all that is left is to tag some people. I think I would tag Sandy Cormie and Ajay Patwari if they had blogs, but I will tag [Jason Franks](http://geekswithblogs.net/jasonfranks/archive/2007/08/12/Better.Dev.aspx) because he makes me laugh, [Mickey Gousset](http://teamsystemrocks.com/blogs/mickey_gousset/) because TFS is cool, and [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/) because he is an inspired speaker who can also write code...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-
-
-

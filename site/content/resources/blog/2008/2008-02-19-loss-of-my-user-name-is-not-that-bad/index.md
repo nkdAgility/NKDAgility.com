@@ -2,9 +2,9 @@
 id: "245"
 title: "Loss of My.User.Name is not that bad..."
 date: "2008-02-19"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "develop"
   - "wpf"
@@ -32,7 +32,7 @@ You can create a link to your local Active Directory  by calling:
 > ```
 >  Dim ctx As New PrincipalContext(ContextType.Domain)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 The options for conencting are:
@@ -48,7 +48,7 @@ These options allow for most security authentications in your .NET applications,
 > ```
 > Dim u As UserPrincipal = UserPrincipal.FindByIdentity(ctx, IdentityType.Sid, WindowsIdentity.GetCurrent.User.Value)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 I really like this as often I have has to build and Google (more the later than the former) class library for manipulating Active Directory objects, and you need not just use the Sid. You can use:
@@ -71,6 +71,3 @@ Well thats my find of the day ![smile_nerd](images/smile_nerd-3-3.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-
-
-

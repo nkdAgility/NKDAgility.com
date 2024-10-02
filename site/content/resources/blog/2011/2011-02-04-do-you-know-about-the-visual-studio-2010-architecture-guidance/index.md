@@ -2,7 +2,7 @@
 id: "16"
 title: "Do you know about the Visual Studio 2010 Architecture Guidance?"
 date: "2011-02-04"
-tags: 
+tags:
   - "nwcadence"
   - "tools"
   - "visual-studio"
@@ -19,9 +19,7 @@ slug: "do-you-know-about-the-visual-studio-2010-architecture-guidance"
 
 If you have not seen the Visual Studio 2010 Architectural Guidance from the Visual Studio ALM Rangers then you are missing out.
 
-  
-
-* * *
+---
 
 I have been spelunking the TFS Guidance recently and I discovered the Visual Studio 2010 Architectural Guidance. This is not an in-depth look at the capabilities of the architectural tools that shipped with Visual Studio 2010 Ultimate, but is instead a set of samples that lead you by example through real world scenarios. There is practical guidance and checklists to help guide lead developers and architects through the common challenges in understanding both existing and new applications. The content concentrates on practical guidance for Visual Studio 2010 Ultimate and is focused on modelling tools.
 
@@ -49,5 +47,3 @@ This is a big help when you just want to figure out how to do something and can�
 I’m sold! Where can i get my hands on this fantastic content?
 
 Download the [Visual Studio 2010 Architecture Tooling Guidance](http://vsarchitectureguide.codeplex.com/) and if you like it don’t forget to [add a review](http://vsarchitectureguide.codeplex.com/releases/view/47828?RateReview=true) to make the team that put it together in their spare time feel all the mere loved.
-
-

@@ -3,7 +3,7 @@ title: Definition of Ready (DoR)
 description: Definition of Ready can result in significant anti-patterns in teams.
 type: practice
 recommendedContent:
- - practices/Definition-of-Ready-DoR.html
+  - practices/Definition-of-Ready-DoR.html
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -13,6 +13,7 @@ card:
   title: Definition of Ready (DoR)
 aliases:
 ---
+
 From the perspective of Scrum, the idea of Ready, as applied to a Backlog Item, represents everyone's (Developers, Product Owner, & Stakeholders) understanding of what is needed to implement that Backlog Item. Since this is subjective and not objective, having a definition of what constitutes ready is not possible.
 
 The danger of having a defined definition of Ready (DoR) is:
@@ -30,14 +31,14 @@ Every candidate Backlog Item should have:
 - has a clear outcome or objective.
 - contains a clear hypothesis.
 - defignes clear telemetry to be collected.
-  
+
 Once candidacy is achieved then the Team & Stakehodlers can determin Ready with conversation.
 
 ## Rule of Thumb
 
 _As a general rule Developers should not take Backlog Item into a Sprint that they do not fully understand and agree, as a team, that there is a reasonable likelihood of being successful._
 
-## INVEST 
+## INVEST
 
 - I (Independent). The PBI should be self-contained and it should be possible to bring it into progress without a dependency upon another PBI or an external resource.
 - N (Negotiable). A good PBI should leave room for discussion regarding its optimal implementation.
@@ -45,4 +46,3 @@ _As a general rule Developers should not take Backlog Item into a Sprint that th
 - E (Estimable). A PBI must have a size relative to other PBIs.
 - S (Small). PBIs should be small enough to estimate with reasonable accuracy and to plan into a time-box such as a Sprint.
 - T (Testable). Each PBI should have clear acceptance criteria which allow its satisfaction to be tested.
-

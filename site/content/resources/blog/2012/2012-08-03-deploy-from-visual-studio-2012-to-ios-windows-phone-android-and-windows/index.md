@@ -2,9 +2,9 @@
 id: "6950"
 title: "Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows"
 date: "2012-08-03"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "develop"
   - "tfs"
@@ -29,12 +29,12 @@ This solves that problem and although their marketing concentrates on mobile dev
 There seams to be two main ways they allow you to implement :
 
 - **Generic UI**  
-    You can let them handle the UI and define how your application should look in  a generic manor but loose the ability to use that nifty feature that only Android supports.. or…
+   You can let them handle the UI and define how your application should look in  a generic manor but loose the ability to use that nifty feature that only Android supports.. or…
 - **Platform Specific UI  
-    **You can code specific UI logic for each platform to take advantage of the differences.  
-    [![image](images/image_thumb13-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image14.png)  
-{ .post-img }
-    **Figure: Application Specific UI if you want**
+   **You can code specific UI logic for each platform to take advantage of the differences.  
+   [![image](images/image_thumb13-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image14.png)  
+  { .post-img }
+  **Figure: Application Specific UI if you want**
 
 So if you have an application with only a few pages and lots of logic you can have full control, however if you have thousands of views to write across tens of application than you should probably think of using the more generic, but less sexy, approch to ge the job done.
 
@@ -79,5 +79,3 @@ If you are a user wanting to build line of business application for your organis
 This is a demonstration of what can be done in the ALM space to solve a real need for customer and allow them to deliver more value more quickly to their customers.
 
 **Do you build mobile applications? Would this help you?**
-
-

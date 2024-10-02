@@ -2,10 +2,10 @@
 id: "418"
 title: "Introduction to .NET Framework 3.0 for Developers Event"
 date: "2007-04-04"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -26,6 +26,3 @@ I was especially interested in a class property manager thingy that is used in w
 Mike, if you are listening, and can decipher my cryptic description, can you answer this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-
-
-

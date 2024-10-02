@@ -2,7 +2,7 @@
 id: "410"
 title: "Selling the benefits of Team System"
 date: "2007-04-27"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog

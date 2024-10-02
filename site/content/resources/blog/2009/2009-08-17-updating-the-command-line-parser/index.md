@@ -2,10 +2,10 @@
 id: "91"
 title: "Updating the Command Line Parser"
 date: "2009-08-17"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "tools"
@@ -22,7 +22,7 @@ So, staring from the original [Command Line Parser v1.0](http://hinshlabs.codepl
 [![image](images/UpdatingtheCommandLineParser_AC5D-image_thumb_1-1-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UpdatingtheCommandLineParser_AC5D-image_4.png)
 { .post-img }
 
- 
+
 
 Using this model I can create a simple command…
 
@@ -147,7 +147,7 @@ End Function
 
 This parser then populates the CommandLine object with values from the CommandLine passed in. For example:
 
- 
+
 
 ```
 Imports Hinshlabs.CommandLineParser
@@ -287,13 +287,10 @@ With the values coming from the relevant places:
 
 It will also support inherited CommandLine objects to minimize duplication.
 
- 
+
 
 I hope that if you are building command line apps that you will have a look, just remember not to spend too much effort on cmd, when Power Shell is much more suitable and accessible to non developers.
 
 Get [Command Line Parser v2.0](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31651)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
-
-
-

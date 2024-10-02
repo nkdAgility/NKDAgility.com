@@ -2,12 +2,12 @@
 id: "49360"
 title: "Are office spaces dead"
 date: "2023-06-01"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
 type: "nkdresources"
 slug: "are-office-spaces-dead"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

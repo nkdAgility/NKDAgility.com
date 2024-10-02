@@ -2,7 +2,7 @@
 id: "124"
 title: "The Hinshelwood Family Portrait"
 date: "2009-05-03"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
@@ -18,5 +18,3 @@ John Johnston at [Perfect Expressions](http://www.perfectexpressions.co.uk) was 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

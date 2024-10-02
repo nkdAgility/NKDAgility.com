@@ -2,7 +2,7 @@
 id: "460"
 title: "RDdotNET Project Created"
 date: "2006-11-22"
-tags: 
+tags:
   - "service-oriented-architecture"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ The whole system will be fully extensable in teh same vain as the current WhiteL
 This is a big chalange for me and will take some time. I will not be giving up... I may write some documentation as well.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
-
-
-

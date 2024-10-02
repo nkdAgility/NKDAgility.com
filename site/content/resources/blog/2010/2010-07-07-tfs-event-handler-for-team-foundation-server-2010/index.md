@@ -2,10 +2,10 @@
 id: "33"
 title: "TFS Event Handler for Team Foundation Server 2010"
 date: "2010-07-07"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
   - "tfs"
   - "tfs2010"
@@ -62,5 +62,3 @@ The Email handlers would not work so well in the Scrum environment, but what wou
 \[[Request an event handler](http://tfseventhandler.codeplex.com/WorkItem/Create.aspx?ProjectName=TFSEventHandler)\]
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Custom](http://technorati.com/tags/TFS+Custom)
-
-

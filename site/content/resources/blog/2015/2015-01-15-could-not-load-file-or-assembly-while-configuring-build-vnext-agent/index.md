@@ -2,9 +2,9 @@
 id: "11072"
 title: "Could not load file or assembly while configuring Build vNext Agent"
 date: "2015-01-15"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "build"
   - "build-agent"
   - "build-vnext"
@@ -50,5 +50,3 @@ I am fairly sure that this is a time limited error and once VS 2015 comes out of
 You need to run "sn -Vr \*,\*" on the server to disable strong signing. This should only be the case as part of the current preview program. I would expect this issue to go away with the next release, at least on Server 2012 R2.
 
 This is only required when you are running Visual Studio 2015 Preview on the Build vNext Agent.
-
-

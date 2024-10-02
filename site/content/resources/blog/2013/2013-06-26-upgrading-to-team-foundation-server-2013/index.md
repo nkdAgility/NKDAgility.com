@@ -2,9 +2,9 @@
 id: "9907"
 title: "Upgrading to Team Foundation Server 2013"
 date: "2013-06-26"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "configuration"
   - "tf255193"
   - "tfs"
@@ -85,7 +85,7 @@ Most of these screens are just validation and while I am restoring to the same s
 
 Once you have validated all of the details and entered the Report Reader account password (did you get all green ticks) you can move on to the upgrade validation step (remember I have no SharePoint here.)
 
- ![image](images/image21-10-10.png "image")  
+![image](images/image21-10-10.png "image")  
 { .post-img }
 Figure: Validate that the settings are correct for Team Foundation Server 2013
 
@@ -117,7 +117,7 @@ How long does it take to upgrade to TFS 2013?
 | #1 - Sandbox | 2012.3 RC2 | Configuration | 1054.88 MB | <1 |
 | Tfs01 (Collection) | 727.06 MB | <2 |
 | Tfs02 (Collection) | 142.63 MB | <1 |
-| Tfs\_MTest (Collection) | 217.31 MB | <1 |
+| Tfs_MTest (Collection) | 217.31 MB | <1 |
 | Collection #4 | 156.63 MB | <1 |
 | #2 - Customer | 2012.2 | Configuration | 100GB | <2 |
 | Collection #1 | 1GB | <1 |
@@ -157,5 +157,3 @@ I would definitely recommend that you move to Team Foundation Server 2013 as soo
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Go download it now and be a kid again…
-
-

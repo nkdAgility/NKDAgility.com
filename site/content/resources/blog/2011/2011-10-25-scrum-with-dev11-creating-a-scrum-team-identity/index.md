@@ -2,9 +2,9 @@
 id: "3831"
 title: "Scrum with Visual Studio 11: Creating a Scrum team identity"
 date: "2011-10-25"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "nwcadence"
   - "process"
   - "scrum"
@@ -25,5 +25,3 @@ I have been getting to grips with dev11 recently and I want to share a couple of
 **Video: Scrum with dev11: Creating a Scrum team identity**
 
 dev 11 is due out sometime next year and looks to be a major revamp of the TFS and Visual Studio ALM UI.
-
-

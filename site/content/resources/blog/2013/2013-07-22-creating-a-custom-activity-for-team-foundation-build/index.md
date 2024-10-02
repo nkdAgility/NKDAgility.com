@@ -2,10 +2,10 @@
 id: "9769"
 title: "Creating a custom Activity for Team Foundation Build"
 date: "2013-07-22"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
-tags: 
+tags:
   - "code"
   - "configuration"
   - "custom-activity"
@@ -54,5 +54,3 @@ If you set the visibility of the parameter to allow it to be shown on the Queue 
 ## Conclusion
 
 While there are many complex things that we could go into this is a simple example of how to organise your development environment to make it easy to build and test custom build activities for your build workflows.
-
-

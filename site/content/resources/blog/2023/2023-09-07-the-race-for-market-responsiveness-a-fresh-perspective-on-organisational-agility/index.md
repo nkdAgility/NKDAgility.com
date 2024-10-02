@@ -2,9 +2,9 @@
 id: "49732"
 title: "The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility"
 date: "2023-09-07"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "betacodex"
   - "featured"
   - "homepage"
@@ -24,7 +24,7 @@ The crux of the matter is this: the goal isn't to be 'agile' or to implement SAF
 
 ### **The Misconception of the Agile-Waterfall Hybrid**
 
-I've often heard that an agile-waterfall hybrid model is the way forward for organisations that aren't particularly keen on removing the policies and procedures that would enable them to respond rapidly to market changes. I can't help but face-palm at this. It's like trying to fit a square peg into a round hole - it just doesn't work. 
+I've often heard that an agile-waterfall hybrid model is the way forward for organisations that aren't particularly keen on removing the policies and procedures that would enable them to respond rapidly to market changes. I can't help but face-palm at this. It's like trying to fit a square peg into a round hole - it just doesn't work.
 
 The point isn't to be 'agile' or to implement SAFe, Nexus, or Scrum@Scale. These are means to an end, not the end itself. The true goal is to seize opportunities faster than our competitors, pivot more swiftly, and handle surprises with more agility. It's about being the hare in a world full of tortoises.
 
@@ -33,7 +33,7 @@ Every successful large organisation has built its processes and practices from t
 The world is moving at a breakneck pace, and those niches within which your organisation was successful are now constantly changing. The old rules and procedures need to be revised.
 
 > **No one has to change**. Survival is optional.
-> 
+>
 > \- Dr. Deming
 
 Around 99% of all animal species that ever existed are extinct. What percentage of all "companies" that ever existed are, too? We know that 70% of all startups fail in the first year, 50% don't last 5.
@@ -41,5 +41,3 @@ Around 99% of all animal species that ever existed are extinct. What percentage 
 Many of the big companies seem is repeatedly unable to adapt to the ever-changing markets, but their existing cash reserves protect them from failure. It will not last forever...
 
 It's time for organisations to wake up and smell the coffee. The race for market responsiveness is on, and those who adapt will be kept up. It's not about being 'agile' or implementing SAFe - it's about being able to seize opportunities, pivot, and handle surprises faster than our competitors. It's about survival of the fittest.
-
-

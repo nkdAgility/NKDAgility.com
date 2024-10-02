@@ -2,9 +2,9 @@
 id: "37"
 title: "Professional Scrum Developer (.NET) Training in London"
 date: "2010-06-18"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "agile"
   - "events-and-presentations"
   - "process"
@@ -22,13 +22,11 @@ slug: "professional-scrum-developer-net-training-in-london"
 ![SSWLogo](images/ProfessionalScrumDeveloperTraininginLond_CC39-SSWLogo_-7-7.png)On the 26th - 30th July in Microsoft’s offices in London [Adam Cogan](http://courses.scrum.org/about/adam-cogan) from SSW will be presenting the first [Professional Scrum Developer](http://www.scrum.org/professionalscrumdeveloper/) course in the UK. I will be teaching this course along side Adam and it is a fantastic experience. You are split into teams and go head-to-head to deliver units of potentially shippable work in four two hour sprints.
 { .post-img }
 
-  
-
 Update 18th June 2010 – SSW Is offering a massive 50% discount to make this 5 day course only £1,168 but I have been told that this depends on availability so it may go back up.
 
 Update 05th July 2010 – One lucky attendee will be getting a copy of MSDN Ultimate.
 
-* * *
+---
 
 ![ProfessionalScrumDeveloper_200px[3]](images/ProfessionalScrumDeveloperTraininginLond_CC39-ProfessionalScrumDeveloper_200px3_-6-6.png)
 { .post-img }
@@ -36,7 +34,6 @@ Update 05th July 2010 – One lucky attendee will be getting a copy of MSDN Ulti
 The Professional Scrum Developer course is the only course endorsed by both Microsoft and [Ken Schwaber](http://en.wikipedia.org/wiki/Ken_Schwaber) and they have worked together very effectively in brining this course to fruition. This course is the brain child of [Richard Hundhausen](http://blog.hundhausen.com/), a Microsoft Regional Director, and both Adam and I attending the Trainer Prep in Sydney when he was there earlier this year. He is a fantastic trainer and no matter where you do this course you can be safe in the knowledge that he has trained and vetted all of the teachers. A tools version of Ken if you will ![Wink](images/ProfessionalScrumDeveloperTraininginLond_CC39-wlEmoticon-wink_2-10-10.png)
 { .post-img }
 
-  
 [![LondonCallToAction[1]](images/ProfessionalScrumDeveloperTraininginLond_CC39-LondonCallToAction1_-4-4.png)](http://www.ssw.com.au/ssw/events/Scrum-Training-Course.aspx?utm_source=MrHinsh&utm_medium=blog&utm_campaign=STLO01)
 { .post-img }
 
@@ -45,7 +42,7 @@ If you are outside the UK you can find out where this [course is being run near 
 With the launch of Visual Studio 2010 in April we have been furnished with a copy of MSDN Ultimate that will be given to the PSD that gets the highest score on the PSD ![Smile](images/ProfessionalScrumDeveloperTraininginLond_CC39-wlEmoticon-smile_2-9-9.png) Now there is an incentive to do well…
 { .post-img }
 
-* * *
+---
 
 # What is the Professional Scrum Developer course all about?
 
@@ -162,7 +159,7 @@ In this module the team is introduced to their problem domain for the week. A ki
 
 ### Module 5: HOTFIX
 
-This module drops the team directly into a [Brownfield](http://en.wikipedia.org/wiki/Brownfield_(software_development)) (legacy) experience by forcing them to analyze the existing application’s architecture and code in order to locate and fix the Product Owner’s high-priority bug(s). The team will learn best practices around finding, testing, fixing, validating, and closing a bug.
+This module drops the team directly into a [Brownfield](<http://en.wikipedia.org/wiki/Brownfield_(software_development)>) (legacy) experience by forcing them to analyze the existing application’s architecture and code in order to locate and fix the Product Owner’s high-priority bug(s). The team will learn best practices around finding, testing, fixing, validating, and closing a bug.
 
 - How to use Architecture Explorer to visualize and explore
 - Create a unit test to validate the existence of a bug
@@ -247,8 +244,6 @@ This module introduces the many types of people, process, and tool dysfunctions 
 
 ## What will be expected of you and you team?
 
-  
-
 This is a unique course in that it’s technically-focused, team-based, and employs [timeboxes](http://en.wikipedia.org/wiki/Timeboxing). It demands that the members of the teams self-organize and self-manage their own work to collaboratively develop increments of software.
 
 All attendees must commit to:
@@ -263,7 +258,7 @@ All teams should have these skills:
 
 - Understanding of Scrum
 - Familiarity with Visual Studio 201
-- C#, .NET 4.0 & ASP.NET 4.0 experience\* 
+- C#, .NET 4.0 & ASP.NET 4.0 experience\*
 - SQL Server 2008 development experience
 - Software testing experience
 
@@ -283,17 +278,11 @@ Because of the nature of this course, as explained above, certain types of peopl
 - Students who don’t have any skill in any of the software development disciplines
 - Students who are unable to commit fully to their team – not only will this diminish the student’s learning experience, but it will also impact their team’s learning experience
 
-* * *
+---
 
 [![LondonCallToAction[1]](images/ProfessionalScrumDeveloperTraininginLond_CC39-LondonCallToAction1_-5-5.png)](http://www.ssw.com.au/ssw/events/Scrum-Training-Course.aspx?utm_source=MrHinsh&utm_medium=blog&utm_campaign=STLO01)
 { .post-img }
 
-If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).  
-  
+If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum),[SSW](http://technorati.com/tags/SSW),[Pro Scrum Dev](http://technorati.com/tags/Pro+Scrum+Dev)
-
-
-
-
-

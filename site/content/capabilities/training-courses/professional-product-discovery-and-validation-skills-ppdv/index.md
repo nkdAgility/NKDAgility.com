@@ -3,7 +3,7 @@ coverImage: NKDAgility-Courses-PSVS-16x9-1.png
 author: MrHinsh
 title: Professional Product Discovery and Validation Skills (PPDV)
 aliases:
-- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 delivery:
   audience: ""
   skilllevel: beginner
@@ -36,7 +36,7 @@ delivery:
   details: ""
   type: Scrum
   brand:
-    colour: '#624d93'
+    colour: "#624d93"
     vendor: scrum-org
   lead: This one-day skills course on product discovery and validation offers hands-on training to participants, enabling them to enhance value creation through practical application of discovery and validation skills in product development. This course covers core skills, equally essential for both greenfield scenarios but also the enhancement of existing products.  Experimentation and collecting evidence are more and more important in today’s ever-changing business environments. Thus, learning becomes a first-class citizen and this course teaches the essential skills needed to drive targeted learning. With these skills, you will delight customers while achieving company impacts and controlling risk exposure, thus optimizing Return on Investment (ROI). Throughout the class, students learn a number of discovery and validation practices that they can use once they leave the classroom.  In this skills-building course, students use an ongoing case study as a way of applying techniques learned throughout the class and preparing to take what they learn back to their workplace. This course is designed for Product Owners, Product Managers, and product teams to enable them to better incorporate discovery and validation into their product development process. Product discovery and validation focuses the team toward achieving customer outcomes and company impacts. Teams learn how to work in iterative cycles to assess what works best for the user. Leveraging product discovery and validation techniques, the course takes a user-centric approach, illustrating how this comes together with development and delivery. Students learn how discovery, delivery, and validation fit together to lead to an end-to-end empirical approach to product development
   courseIcon: PPDV-BETA-logo.png
@@ -49,47 +49,4 @@ card:
   button:
     content: ""
 type: courses
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

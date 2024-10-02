@@ -2,9 +2,9 @@
 id: "327"
 title: "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2"
 date: "2007-08-20"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "sharepoint"
   - "sp2007"
   - "spf2010"
@@ -17,9 +17,9 @@ slug: "team-foundation-server-error-tf30177-team-project-creation-failed-part-2"
 If you are trying to get team server to talk to another Sharepoint farm this is something to watch out for. I fell into this one myself, and now my American colleagues have hot the same problem (I have changed things like server, account and company names to protect the, erm, servers?). The key things to look for in the log file are the creation details:
 
 > 2007-08-17 13:06:33Z | Module: WSS | Thread: 7 | Language id: 1033  
-> 2007-08-17 13:06:36Z | Module: WSS | Thread: 7 | Verifying site template exists on the server using [http://rddotnettech.amrs.win.rddotnet.com:21617/\_vti\_bin/Sites.asmx](http://XXtech.amrs.win.XX.com:21617/_vti_bin/Sites.asmx)  
+> 2007-08-17 13:06:36Z | Module: WSS | Thread: 7 | Verifying site template exists on the server using [http://rddotnettech.amrs.win.rddotnet.com:21617/\_vti_bin/Sites.asmx](http://XXtech.amrs.win.XX.com:21617/_vti_bin/Sites.asmx)  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Creating site with the following parameters  
-> 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Admin Url: [http://rddotnettech.amrs.win.rddotnet.com:21617/\_vti\_adm/admin.asmx](http://XXtech.amrs.win.XX.com:21617/_vti_adm/admin.asmx)  
+> 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Admin Url: [http://rddotnettech.amrs.win.rddotnet.com:21617/\_vti_adm/admin.asmx](http://XXtech.amrs.win.XX.com:21617/_vti_adm/admin.asmx)  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Site Url: http://rddotnettech.amrs.win.rddotnet.com/sites/SDLC-QA/Test RD 08-17-2007 1305  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Site Title: Test RD 08-17-2007 1305  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Site Description: This team project was created based on the 'RD SDLC Process Template for CMMI Process Improvement - v2.0' process template.  
@@ -27,7 +27,7 @@ If you are trying to get team server to talk to another Sharepoint farm this is 
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Template: \_GLOBAL\_#2  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Owner Login: AMRSaperson  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Owner Name: Person, Any(CT)  
-> 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Owner Email: [Any\_Person@rddotnet.com](mailto:Any_Person@rddotnet.com)  
+> 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Owner Email: [Any_Person@rddotnet.com](mailto:Any_Person@rddotnet.com)  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Portal Url:  
 > 2007-08-17 13:06:45Z | Module: WSS | Thread: 7 | Portal Name:
 
@@ -39,7 +39,7 @@ These details will help you debug the error. As you can see above there are deta
 >    at Microsoft.TeamFoundation.Proxy.Portal.Admin.CreateSite(String Url, String Title, String Description, Int32 Lcid, String WebTemplate, String OwnerLogin, String OwnerName, String OwnerEmail, String PortalUrl, String PortalName)  
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.CreateSite(WssSiteData siteCreationData, ProjectCreationContext context)  
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.Execute(ProjectCreationContext context, XmlNode taskXml)  
-> \---begin Exception entry--- 
+> \---begin Exception entry---
 > Time: 2007-08-17 13:06:46Z  
 > Module: Engine  
 > Event Description: **TF30162: Task "SharePointPortal" from Group "Portal" failed  
@@ -54,7 +54,7 @@ These details will help you debug the error. As you can see above there are deta
 >    at Microsoft.VisualStudio.TeamFoundation.WssSiteCreator.Execute(ProjectCreationContext context, XmlNode taskXml)  
 >    at Microsoft.VisualStudio.TeamFoundation.ProjectCreationEngine.TaskExecutor.PerformTask(IProjectComponentCreator componentCreator, ProjectCreationContext context, XmlNode taskXml)  
 >    at Microsoft.VisualStudio.TeamFoundation.ProjectCreationEngine.RunTask(Object taskObj)  
-> \--   Inner Exception   -- 
+> \--   Inner Exception   --
 > Exception Type: System.Web.Services.Protocols.SoapException  
 > Exception Message: Exception of type 'Microsoft.SharePoint.SoapServer.SoapServerException' was thrown.  
 > SoapException Details: <detail><errorstring xmlns="[http://schemas.microsoft.com/sharepoint/soap/"](http://schemas.microsoft.com/sharepoint/soap/")\>**Another site already exists at** [**http://rddotnettech.amrs.win.rddotnet.com**](http://mltech.amrs.win.ml.com)**. Delete this site before attempting to create a new site with the same URL, choose a new URL, or create a new inclusion at the path you originally specified.**</errorstring></detail>
@@ -83,7 +83,3 @@ Once you have added this Managed Path you will need to modify TFS to create site
 Well that's it, debugging team server errors is fun, but not for the faint hearted...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-
-

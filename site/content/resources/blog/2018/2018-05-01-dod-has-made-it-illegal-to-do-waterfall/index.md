@@ -2,10 +2,10 @@
 id: "10204"
 title: "DOD has made it illegal to do waterfall"
 date: "2018-05-01"
-categories: 
+categories:
   - "people-and-process"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "agile"
   - "lean"
   - "lean-agile"
@@ -33,7 +33,7 @@ In the UK we have government-wide lean-agile initiatives that are producing awes
 > - **Incremental and Iterative Development and Testing** - This principle embraces the concept that incremental and iterative development and testing, including the use of prototyping, yield better outcomes than trying to deploy large complex IT network systems in one "Big Bang."
 > - **Rationalized Requirements** - User involvement is critical to the ultimate success of any IT implementation, and user needs must be met. However, this principle also recognizes the need for users and requirements developers to embrace an enterprise focus across a portfolio of capabilities with established standards and open modular platforms vice customized solutions to ensure interoperability and seamless integration.
 > - **Flexible/Tailored Processes** - The Department's IT needs range from modernizing nuclear command and control systems to updating word processing systems on office computers. This principle acknowledges unique types of IT acquisition and embraces flexible and tailored-and risk-appropriate-IT paths based on the characteristics of the proposed IT acquisition.
-> 
+>
 > [A new approach for delivering Information Technology capabilities in the Department of Defence](http://www.afei.org/WorkingGroups/section804tf/Documents/OSD_Sec_804_Report.pdf)
 
 So with the radical change in approach from two western governments, these positive messages should filter down through anyone who does business with them. The tides are changing…
@@ -45,15 +45,15 @@ You may be thinking “But who gives a crap what the DOD does?”. In the USA th
 The DOD has influenced Universities by requiring that they create engineers that work within their model and by providing and creating jobs that function this way. How can one learn to be agile in a world governed by waterfall. Indeed our own Ministry of Defence (MOD) has had the same influence, maybe from their own rules but also as a result of working with the Americans and within their rules; like how airports in Europe require you to take your shoes off or go through those big scanners even though you are not flying to the USA.
 
 > (2) be designed to include—
-> 
+>
 > (A) early and continual involvement of the user;
-> 
+>
 > (B) multiple, rapidly executed increments or releases of capability;
-> 
+>
 > (C) early, successive prototyping to support an evolutionary approach; and
-> 
+>
 > (D) a modular, open-systems approach.
-> 
+>
 > [804: Implementation of new acquisition process for information technology systems](http://www.afei.org/news/Documents/2010%20NDAA%20Section%20804.pdf)
 
 With the new rules, there is now freedom to deliver more frequently and iteratively throughout the western world and this effect can be seen in recent UK projects as well as in the US.  There is no better government site than [http://gov.uk](http://gov.uk)! It is quickly becoming the envy of other governments in its simplicity and ones ability to quickly and easily find the information you need.
@@ -109,5 +109,3 @@ Unfortunately the project had taken so long that the hardware that had been boug
 { .post-img }
 
 In early 2012 the FBI shipped to production on the new refreshed hardware and saw significant improvements for a much lower cost.
-
-

@@ -2,7 +2,7 @@
 id: "39"
 title: "Ghost build controllers in Team Foundation Server"
 date: "2010-06-15"
-tags: 
+tags:
   - "ssw"
   - "tfs-build"
   - "tfs"
@@ -17,7 +17,6 @@ slug: "ghost-team-foundation-build-controllers"
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.
 
 - Update Ulf Jonson pointed out that the value for 'canceled' should be 16 and not 2 as I had stated. Thanks Ulf, updated.
-    
 
 Most of the time they are easy to delete, but sometimes it takes a little effort. Even rarer are those times when something just will not go away no matter how much you try. Indeed we have had a ghost (phantom) team build controller hanging around for a while now, and it had defeated my best efforts to get rid of it.
 
@@ -30,7 +29,7 @@ The build controller was from our old TFS server from before our [TFS 2010 beta 
 { .post-img }
 **Figure: Deleting a ghost controller does not always work.**
 
-I ended up checking all of our 172 Team Projects for the build that was queued, but did not find anything. [Jim Lamb](http://blogs.msdn.com/b/jimlamb/) pointed me to the “tbl\_BuildQueue” table in the team Project Collection database and sure enough there was the nasty little beggar.
+I ended up checking all of our 172 Team Projects for the build that was queued, but did not find anything. [Jim Lamb](http://blogs.msdn.com/b/jimlamb/) pointed me to the “tbl_BuildQueue” table in the team Project Collection database and sure enough there was the nasty little beggar.
 
 ![image](images/Gettingridofghostteamfoundationbuildcont_9102-image_-1-1.png)  
 { .post-img }
@@ -44,7 +43,7 @@ Well, there are a number of things that led me to suspect it:
 
 - QueueId is very low: Look at the other items, they are in the thousands not single digits
 - ControllerId: I know there is only one legitimate controller, and I am assuming that 6 relates to “zzUnicorn”
-- DefinitionId: This is a very low number and I looked it up in “tbl\_BuildDefinition” and it did not exist
+- DefinitionId: This is a very low number and I looked it up in “tbl_BuildDefinition” and it did not exist
 - QueueTime: As we did not upgrade to TFS 2010 until late 2009 a date of 2008 for a queued build is very suspect
 - Status: A status of 216 means that it is still queued
 
@@ -53,9 +52,9 @@ This build must have been queued long ago when we were using TFS 2008, probably 
 Now that the ghost build has been identified there are two options:
 
 - **Delete the row**  
-    I would not recommend ever deleting anything from the database to achieve something in TFS. It is _really_ not supported.
+   I would not recommend ever deleting anything from the database to achieve something in TFS. It is _really_ not supported.
 - **Set the Status to cancelled** (Recommended)  
-    This is the best option as TFS will then clean it up itself
+   This is the best option as TFS will then clean it up itself
 
 So I set the Status of this build to 2 (cancelled) and sure enough it disappeared after a couple of minutes and I was then able to then delete the “zzUnicorn” controller.
 
@@ -64,6 +63,3 @@ So I set the Status of this build to 2 (cancelled) and sure enough it disappeare
 **Figure: Almost completely clean**
 
 Now all I have to do is get rid of that untidy “zzBunyip” agent, but that will require rewriting one of our build scripts which will have to wait for now.
-
-
-

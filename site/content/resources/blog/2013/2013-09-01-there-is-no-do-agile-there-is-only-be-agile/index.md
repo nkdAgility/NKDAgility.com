@@ -1,10 +1,10 @@
 ---
 id: "10058"
-title: "There is no \"do agile\" there is only \"be agile\""
+title: 'There is no "do agile" there is only "be agile"'
 date: "2013-09-01"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "lean"
   - "scrum"
@@ -30,7 +30,7 @@ If you want to be agile you will need to embrace:
 > - stopping sequential lifecycle practices and mind-set
 > - empirical process control
 > - replacing cube farms with team rooms and visual management
-> 
+>
 > \-from [Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum](http://www.amazon.com/gp/product/0321636406/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0321636406&linkCode=as2&tag=martinhinshe-20)
 
 I do not believe that is it possible to sell a company agile, they must come to the realisation of what it entails themselves. Oh, you can introduce them to many of the practices and encourage them to experiment. You can teach individuals TDD and other test first methods but all you are doing is priming the pan and creating an environment where that spark of agility can smoulder. Then they will come to you.
@@ -48,5 +48,3 @@ There are a great many thing that we can look at but until I can ‘go see’ ho
 If we can get some amount of time onsite to investigate and work on some of these things then that would make me happy. I am really looking forward to seeing how they have been getting on and how many of the issues we identified in the last engagement have changed.
 
 Here is looking forward to future collaboration and experimentation.
-
-

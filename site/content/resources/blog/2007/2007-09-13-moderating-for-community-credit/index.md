@@ -2,7 +2,7 @@
 id: "313"
 title: "Moderating for Community-Credit"
 date: "2007-09-13"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -28,6 +28,3 @@ You can view the credits I have attained by going to [http://community-credit.mu
 [Sign up and start collecting your credit.](http://www.community-credit.com/Login/CreateMember.aspx) Oh, and win prizes!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

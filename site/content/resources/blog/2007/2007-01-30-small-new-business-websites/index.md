@@ -2,9 +2,9 @@
 id: "441"
 title: "Small / New business websites"
 date: "2007-01-30"
-categories: 
+categories:
   - "updated2019"
-tags: 
+tags:
   - "off-topic"
   - "seo"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -89,6 +89,3 @@ WARNING: I have worked for companies that look like they can do you a good job b
 Just my 50p, please feel free to comment below...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

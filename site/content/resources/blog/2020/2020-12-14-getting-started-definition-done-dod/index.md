@@ -2,10 +2,10 @@
 id: "38238"
 title: "Getting started with a Definition of Done (DoD)"
 date: "2020-12-14"
-categories: 
+categories:
   - "agility"
   - "devops"
-tags: 
+tags:
   - "agile"
   - "definition-of-done"
   - "engineering-excellence"
@@ -32,7 +32,7 @@ Your [Developers](/the-2020-scrum-guide/#developers) are ultimately responsible 
 [Developers](/the-2020-scrum-guide/#developers) needs to decide what Done means within the organisational context and the product domain. They need to sit down and create a list of things that must be true for every Increment of software that they deliver. Working Software is not specific to a PBI; it's applied regardless of PBI to the entire delivery. Not just for each PBI.
 
 > "The Definition of Done creates transparency by providing everyone a shared understanding of what work was completed as part of the Increment. If a Product Backlog item does not meet the Definition of Done, it cannot be released or even presented at the Sprint Review. Instead, it returns to the Product Backlog for future consideration."
-> 
+>
 > \-[The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)
 
 If you can't ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by "working" continuously, and at least on a regular cadence.
@@ -83,5 +83,3 @@ If it is a significant issue that results in you not having working software, th
 If it is less significant, you might want to keep working and add what you need to your [Product Backlog](/the-2020-scrum-guide/#product-backlog). You can then deliver improvements over the next few Sprints that mitigate and then resolve the identified issue. Once you have resolved it, you can then pin the outcome by adding something to your DoD.
 
 **Always look for ways that you can increase your quality. What does your definition of done look like today?**
-
-

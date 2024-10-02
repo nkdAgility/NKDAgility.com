@@ -2,9 +2,9 @@
 id: "415"
 title: "Serialize Assembly for Service calls over Http"
 date: "2007-04-24"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "ml"
   - "tfs-event-handler"
@@ -36,6 +36,3 @@ I have tralled the web for a while now, trying to find a solution. I have even d
 Does anyone have a solution for this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

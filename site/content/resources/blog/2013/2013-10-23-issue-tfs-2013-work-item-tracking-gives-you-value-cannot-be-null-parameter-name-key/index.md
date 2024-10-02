@@ -2,11 +2,11 @@
 id: "10221"
 title: "Issue [ TFS 2013 ] Value cannot be null. Parameter name: key"
 date: "2013-10-23"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "argumentnullexception"
   - "bug"
   - "process-template"
@@ -37,7 +37,7 @@ Figure: Value cannot be null. Parameter name: key
 
 When one of the team was creating sub tasks of an existing work item using the “Tasks” tab on the PBI or Bug then this is what happened. I was then again able to replicate the issue, but only when creating sub work item’s from an existing one. If I used the Agile Planning Tools and clicked the green plus then it would work, wired. I let the product team know and they decided a remote debugging session would be required…
 
-The first thing that they did, which I did not know was even there, was to do a fiddler like session in Internet Explorer. 
+The first thing that they did, which I did not know was even there, was to do a fiddler like session in Internet Explorer.
 
 ![image](images/image11-2-2.png "image")  
 { .post-img }
@@ -58,5 +58,3 @@ Obviously there is a server side coding assumption, which is bad, but there is a
 ## Conclusion
 
 If you are using Team Field then you need to make sure that you make the field that you use for it a required field in the work item definition. Don’t make my mistake and end up scratching your and the product teams head trying to figure it out.
-
-

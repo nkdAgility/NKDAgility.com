@@ -2,9 +2,9 @@
 id: "10372"
 title: "Building a release pipeline with Release Management with Visual Studio 2013"
 date: "2014-02-18"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "continious"
   - "continious-value-delivery"
   - "release"
@@ -87,5 +87,3 @@ Hopefully you are in the process of merging your operations and development team
 When you put these together, sometimes with a little overlap depending on how progressive your teams are, you get a release pipeline that is, and should be, a challenging gauntlet for your software. Software that makes it through the trial by fire should be stable, and scalable as well as functional.
 
 In other words… Quality.
-
-

@@ -2,9 +2,9 @@
 id: "5415"
 title: "Installing Eclipse on Windows 8 and connecting to TFS 2012"
 date: "2012-06-02"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "eclipse"
   - "infrastructure"
@@ -24,14 +24,14 @@ I will be running a bunch of demos on a couple of weeks with TFS & Eclipse worki
 So I have to get familiar with the interface and what better way to start than to get everything working on Windows 8.
 
 - **Java Developer Kit**  
-    [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+   [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - **Eclipse**  
-    [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/)  
-    I will go with Eclipse Classic, basically because I have little idea of the deference and this is the one I was told to use ![Smile](images/wlEmoticon-smile-13-13.png)
-{ .post-img }
+   [http://www.eclipse.org/downloads/](http://www.eclipse.org/downloads/)  
+   I will go with Eclipse Classic, basically because I have little idea of the deference and this is the one I was told to use ![Smile](images/wlEmoticon-smile-13-13.png)
+  { .post-img }
 - **TFS Plugin for Eclipse**  
-    [http://dl.microsoft.com/eclipse/tfs/preview](http://dl.microsoft.com/eclipse/tfs/preview)  
-    Note: Don’t download this one… you will see why later.
+   [http://dl.microsoft.com/eclipse/tfs/preview](http://dl.microsoft.com/eclipse/tfs/preview)  
+   Note: Don’t download this one… you will see why later.
 
 I have pre-downloaded Java and Eclipse so I just need to copy them to my VM to begin. The JDK is first as nothing will work without it.
 
@@ -41,7 +41,7 @@ I have pre-downloaded Java and Eclipse so I just need to copy them to my VM to b
 
 Its a really uneventful install that involved lots of “Next” clicking…
 
- [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/06/image1.png)  
+[![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2012/06/image1.png)  
 { .post-img }
 **Figure: Unpack Eclipse**
 
@@ -66,7 +66,7 @@ To make sure that everything is in the right place I want to start Eclipse and c
 I don’t know how Martin Woodward did it but he managed to get Microsoft to host an update site for the Eclipse plugin. I am loading the latest Team Explorer Everywhere preview, but you can get the released version as well.
 
 - **Team Explorer Everywhere 2010 SP1  
-    **[http://dl.microsoft.com/eclipse/tfs](http://dl.microsoft.com/eclipse/tfs)
+   **[http://dl.microsoft.com/eclipse/tfs](http://dl.microsoft.com/eclipse/tfs)
 - **Team Explorer Everywhere 2012** [http://dl.microsoft.com/eclipse/tfs/preview](http://dl.microsoft.com/eclipse/tfs/preview)
 
 The new version works against Team Foundation Service, TFS 2008, TFS 2010 and TFS 2012 so I feel no compulsion to load anything but the latest and greatest.
@@ -113,5 +113,3 @@ And that's about it. I am no Java expert, but it is like any other Version Contr
 So really its way better than just Version Control…
 
 _\-Don't leave your Java developers out of your Application Life-cycle Management (ALM) strategy. According to Gartner Visual Studio ALM is the best, most feature-full ALM platform and it supports Java just as well as .NET. Contact [info@nwcadence.com](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Installing Eclipse on Windows 8 and connecting to TFS 2012) today..._
-
-

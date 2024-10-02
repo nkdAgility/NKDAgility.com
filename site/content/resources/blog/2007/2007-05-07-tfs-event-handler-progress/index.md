@@ -2,9 +2,9 @@
 id: "402"
 title: "TFS Event Handler Progress"
 date: "2007-05-07"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tfs-event-handler"
   - "wcf"
@@ -32,6 +32,3 @@ I have been reading up on these FaultException thingies, here is the article I 
 This makes for good reading, and although a little scary on the output side, does highlight the problem and the solution!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [WCF](http://technorati.com/tags/WCF)
-
-
-

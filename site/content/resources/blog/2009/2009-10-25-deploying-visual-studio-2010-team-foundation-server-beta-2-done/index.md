@@ -2,7 +2,7 @@
 id: "81"
 title: "Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done"
 date: "2009-10-25"
-tags: 
+tags:
   - "ssw"
   - "tfs"
   - "tfs2005"
@@ -20,9 +20,9 @@ slug: "deploying-visual-studio-2010-team-foundation-server-beta-2-done"
 
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.
 
-Update #1 20th January 2010: Have a look at our [Rules to better TFS2010 Migration](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx) 
+Update #1 20th January 2010: Have a look at our [Rules to better TFS2010 Migration](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/default.aspx)
 
-* * *
+---
 
 Adam put a few guys together:
 
@@ -42,7 +42,7 @@ We started at 2:30am (GMT+1) on Saturday morning and we did it in 5 major steps:
 
 We completed the migration at 9:15am (GMT+1) on Saturday morning so all in the migration took just less than 7 hours.
 
- [![image](images/SSWGoLivewithVisualStudio2010Beta2_15047-image_thumb-2-2.png)  
+[![image](images/SSWGoLivewithVisualStudio2010Beta2_15047-image_thumb-2-2.png)  
 { .post-img }
 ](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SSWGoLivewithVisualStudio2010Beta2_15047-image_2.png)**Figure: Web Access – Working**
 
@@ -55,6 +55,3 @@ Well done to the SSW team.
 Well done also to the guys involved in the TFS team, the same migration from TFS 2005 to TFS 2008 was a much more painful experience taking days of work, but the guys from SSW made this process easy and straight forward…Preparation does that for a project…
 
 A possible claim to fame: In addition we might have been the first company (SSW is a company of 52 employees and contractors) to migrate. So far I have not seen any blog posts about other companies migrating everything over to Beta 2. I am a TFS MVP and no-one on that list has posted about a migration yet (I can just imagine Justin King having another fit when he finds that out).
-
-
-

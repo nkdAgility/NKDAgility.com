@@ -2,7 +2,7 @@
 id: "24"
 title: "Database corruption in TFS 2005 causes TF246017 during upgrade"
 date: "2010-09-29"
-tags: 
+tags:
   - "modern-alm"
   - "tf246017"
   - "tfs"
@@ -18,14 +18,12 @@ slug: "database-corruption-in-tfs-2005-causes-tf246017-during-upgrade"
 ![ErrorOcurred](images/UpgradingTFS2005toTFS2010_10E2E-ErrorOcurred_-2-2.jpg)Today I was on-site to do a test upgrade of TFS 2005 to TFS 2010 and we encountered an error that would have caused major delays while we investigated and perhaps requiring additional help from Microsoft.
 { .post-img }
 
-  
-
-* * *
+---
 
 Everything progressed smoothly until we tried to run the actual upgrade command and I encountered a message I had not seen before.
 
 ```
-Warning Message: 
+Warning Message:
 [2010-09-29 10:05:26Z] Servicing step Upgrade Version Control database to V2 failed. (ServicingOperation: UpgradePreTfs2010Databases; Step group: AttachPreTFS2010Databases.VersionControlWhidbeyToOrcas)
 ```
 
@@ -34,7 +32,6 @@ This perplexing message talks about not being able to connect to the SQL Server 
 ![image](images/UpgradingTFS2005toTFS2010_10E2E-image_-3-3.png)
 { .post-img }
 
-  
 **Figure: At least it got to step 4**
 
 At the beginning of the command you can see the location of the log file that will be used during the running of the command. Looking in that log file we see the actual error that occurred.
@@ -82,6 +79,3 @@ dbcc checkdb ('TfsVersionControl',repair)
 Having identified the problem running the command again with the “repair” will fix the issue. With the upgrade successful we are good to go for a production upgrade on Monday.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2005](http://technorati.com/tags/TFS+2005),[TFS 2010](http://technorati.com/tags/TFS+2010)
-
-
-

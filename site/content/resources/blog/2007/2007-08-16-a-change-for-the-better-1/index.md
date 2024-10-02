@@ -2,9 +2,9 @@
 id: "331"
 title: "A change for the better #1 - Merrill Lynch to Aggreko"
 date: "2007-08-16"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "aggreko"
   - "change"
   - "change-for-the-better"
@@ -24,6 +24,3 @@ I think that this will be a pivotal move for me that will allow me to expand my 
 I will let you know how I get on, but for now I have a months notice to work and many handover documents to write!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

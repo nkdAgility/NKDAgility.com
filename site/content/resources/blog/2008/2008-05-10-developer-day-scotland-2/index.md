@@ -2,7 +2,7 @@
 id: "230"
 title: "Developer day Scotland!"
 date: "2008-05-10"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -20,6 +20,3 @@ If you have not already signed up, well, its probably too late...but if you are 
 If you are up for it there is a [Developer Day Scotland Geek Dinner](http://www.zimakki.com/wiki/DeveloperDayScotlandGeekDinner.ashx) on afterwards and some drinking before that.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

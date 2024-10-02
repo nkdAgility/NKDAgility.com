@@ -2,9 +2,9 @@
 id: "63"
 title: "Adventures in Scrum: Lesson 1 – The failed Sprint"
 date: "2010-03-15"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "develop"
   - "people"
   - "practices"
@@ -17,13 +17,13 @@ type: blog
 slug: "adventures-in-scrum-lesson-1-the-failed-sprint"
 ---
 
-I recently had a conversation with a product owner that wanted to have the Scrum team broken up into smaller units so that less time was wasted on the Scrum Ceremonies! Their complaint was around the need in Scrum to have the entire “Team” (7+-2) involved in the sizing of the work during the “Sprint Planning Meeting”. 
+I recently had a conversation with a product owner that wanted to have the Scrum team broken up into smaller units so that less time was wasted on the Scrum Ceremonies! Their complaint was around the need in Scrum to have the entire “Team” (7+-2) involved in the sizing of the work during the “Sprint Planning Meeting”.
 
 Update 16th March 2010
 
 - [Kane Mar](http://kanemar.com/), the man who taught me Scrum, made a fantastic comment after reading this and I have added it in.
 
-* * *
+---
 
 The standard flippant answer of all Scrum professionals, “_Well that's not Scrum_”, does not get you any brownie points in these situations. The response could be “_Well we are not doing Scrum then_” which in turn leads to “_We are doing Scrum…But, we have split the scrum team into units of 2/3 so that they can concentrate on a specific area of work_”. While this may work, it is not Scrum and should not be called so… It is just a form of Agile. Don’t get me wrong at this stage, there is nothing wrong with Agile, just don’t call it Scrum.
 
@@ -57,7 +57,7 @@ I will be brining all of these things up at the Sprint Retrospective and we will
 
 Do, Inspect then Adapt…
 
-* * *
+---
 
 ## Need Help?
 
@@ -66,8 +66,6 @@ Do, Inspect then Adapt…
 [![Professional Scrum Developer Training](images/PSD%20Announcement%20Graphic.jpg)](http://www.scrum.org/scrumdeveloper/) SSW has six [Professional Scrum Developer Trainers](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.
 { .post-img }
 
-* * *
+---
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW](http://technorati.com/tags/SSW)
-
-

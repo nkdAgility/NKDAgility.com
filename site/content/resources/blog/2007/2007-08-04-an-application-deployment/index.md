@@ -2,7 +2,7 @@
 id: "349"
 title: "An Application Deployment"
 date: "2007-08-04"
-tags: 
+tags:
   - "fail"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -21,6 +21,3 @@ We are trying to follow cryptic documentation for an application that is not com
 Hmm... Fun.
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-
-

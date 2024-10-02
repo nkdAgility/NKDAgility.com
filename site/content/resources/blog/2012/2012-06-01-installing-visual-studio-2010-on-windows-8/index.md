@@ -2,9 +2,9 @@
 id: "5388"
 title: "Installing Visual Studio 2010 on Windows 8"
 date: "2012-06-01"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "nwcadence"
@@ -85,5 +85,3 @@ Now with no extra patch I will preform the miraculous feet of connecting to TFS 
 Running Visual Studio 2010 on Windows 8 not only works, but works well. Don’t be afraid of Windows 8 for Visual Studio’s sake… just jump in and get going…
 
 _\-Are you still deploying software to older OS's? Did you know that that you can flip between VS 2010 SP1 and VS 2012 with no problems? Well we do and we know how. Contact [info@nwcadence.com](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Installing Visual Studio 2010 on Windows 8) today..._
-
-

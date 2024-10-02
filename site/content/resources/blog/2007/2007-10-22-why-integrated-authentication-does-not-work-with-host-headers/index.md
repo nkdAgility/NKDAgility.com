@@ -2,9 +2,9 @@
 id: "296"
 title: "Why Integrated Authentication does not work with host headers!"
 date: "2007-10-22"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog
@@ -31,6 +31,3 @@ After some testing I found that it was indeed fixed. Now, I had this exact same 
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-
-

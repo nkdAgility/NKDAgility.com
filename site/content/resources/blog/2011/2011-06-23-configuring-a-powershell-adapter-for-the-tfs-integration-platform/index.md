@@ -2,7 +2,7 @@
 id: "3652"
 title: "Configuring a PowerShell Adapter for the TFS Integration Platform"
 date: "2011-06-23"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -25,7 +25,7 @@ Updates
 
 - **2011-06-27** – I have added two new operating modes to increase the versatility (_RuleThemAll_ | _ForEachAction_). These new modes do not run any .NET code at all and you have to do everything in PowerShell. I expect that PowerShell user will love RuleThemAll as all you need is one PowerShell per ChangeSet.
 
-* * *
+---
 
 We have to have some way of getting each of the check-ins out of TFS in order and writing them to the other system on a regular basis without having to write an Adapter for each new system. This will obviously not be a perfect scenario as it will not be tailored directly for the other system, but it should suffice for 90% of cases that I will encounter.
 
@@ -73,21 +73,21 @@ In the configuration for the Adapter I have added a bunch of keys that translate
 
 ```
 <CustomSettings>
-  <!-- 
+  <!--
     Powershell Arguments
-    
+
     $IpChangeGroup = Microsoft.TeamFoundation.Migration.Toolkit.ChangeGroup
     $IpConversionResult = Microsoft.TeamFoundation.Migration.Toolkit.ConversionResult
     $IpMigrationAction = Microsoft.TeamFoundation.Migration.Toolkit.MigrationAction
     $IpNewPath = c:TempOutputFolderImportRun1{localpath}
     $IpLocalRoot = c:TempOutputFolderImportRun1
-    
+
     PowerShell Execution Mode:
-    
+
     RuleThemAll = Lets just have a single PowerShell that does everything. Don't forget to update the IpConversionResult with all of the results.
     ForEachAction = Calls a PowerShell script for each action as below
     WithLocalCache = Original mode that maintains a local copy of the files and calls powershell for each Action
-    
+
   -->
   <CustomSetting SettingKey="PowerShellExecutionMove" SettingValue="WithLocalCache" />
   <CustomSetting SettingKey="ImportChangeGroup" SettingValue="" />
@@ -251,20 +251,16 @@ Figure: Configuration for the Powershell Adapter
 I have highlighted the important parts above and we have already described some of the important bits above, but there are only really three important things to configure:
 
 - **Tfs Source folder** \- (e.g. $/TeamProject1/Folder1)
-    
-    The TFS Source Folder defines where in TFS you want to get the data. The Adapter does not currently support branches so it would be best to pick a folder that does not contain any.
-    
+
+  The TFS Source Folder defines where in TFS you want to get the data. The Adapter does not currently support branches so it would be best to pick a folder that does not contain any.
 
 - **Local Output Folder** - (e.g. c:Enlistment1995Depot)
-    
-    This is the folder where the system will write out the files and folders before calling PowerShell. This would usually be the actual Workspace folder for the other system, or could be anywhere.
-    
+
+  This is the folder where the system will write out the files and folders before calling PowerShell. This would usually be the actual Workspace folder for the other system, or could be anywhere.
 
 - **Power Shell File** - (e.g. c:Enlistment1995SyncPerforceEditsWithDepot.ps1)
-    
-    The PowerShell files are easily configured as described. Remember that for every change “Add”, “Edit” or “Delete” a respective PowerShell can be configured to be called.  
-    note: You can call a single PowerShell or have it call the individuals, but not manage the file space.
-    
+  The PowerShell files are easily configured as described. Remember that for every change “Add”, “Edit” or “Delete” a respective PowerShell can be configured to be called.  
+   note: You can call a single PowerShell or have it call the individuals, but not manage the file space.
 
 Now that you are able to configure the config file, it is time to setup the run.
 
@@ -321,5 +317,3 @@ Although this process can take a while, the fact that you can configure the Powe
 If you need a copy of your TFS Version Control data somewhere other than TFS for posterity, or you need a migration from [Test Track Pro to TFS](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then just ping me and see how we can help.
 
 [Request for Services](http://nwcadence.com/#)
-
-

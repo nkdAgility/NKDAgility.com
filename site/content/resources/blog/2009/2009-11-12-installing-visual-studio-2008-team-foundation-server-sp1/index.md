@@ -2,7 +2,7 @@
 id: "79"
 title: "Installing Visual Studio 2008 Team Foundation Server SP1"
 date: "2009-11-12"
-tags: 
+tags:
   - "moss2007"
   - "sharepoint"
   - "sp2007"
@@ -34,20 +34,20 @@ We have a single virtual server instance of TFS with the only architectural cust
 
 1. Turn off remote access to TFS websites  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-6-6.png)
-{ .post-img }
+   { .post-img }
 2. Verify access to TFS is not possible remotely  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-7-7.png)
-{ .post-img }
+   { .post-img }
 3. Run full SQL backup  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-8-8.png)
-{ .post-img }
+   { .post-img }
 4. Take a snapshot (VM Ware) of the TFS server \[Infrastructure Team\]
 5. Install VS2008 SP1 if client installed  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-1-1.png)
-{ .post-img }
+   { .post-img }
 6. Install TFS2008 Service Pack 1  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-4-4.png)If any problems are encountered refer to Brian Harry’s post on resolving SP1 install issues: [http://blogs.msdn.com/bharry/comments/1627061.aspx](http://blogs.msdn.com/bharry/comments/1627061.aspx)
-{ .post-img }
+   { .post-img }
 7. Follow test plan
 8. If tests fail, follow back out plan
 9. Done
@@ -56,16 +56,16 @@ We have a single virtual server instance of TFS with the only architectural cust
 
 1. Check event log for errors  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-9-9.png)
-{ .post-img }
+   { .post-img }
 2. Check all services are running  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-2-2.png)
-{ .post-img }
+   { .post-img }
 3. Test web access  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-3-3.png)
-{ .post-img }
+   { .post-img }
 4. Test Visual Studio Access  
     ![image](images/InstallingVisualStudio2008TeamFoundation_95A1-image_-5-5.png)
-{ .post-img }
+   { .post-img }
 
 ### Back out Plan
 
@@ -82,6 +82,3 @@ We have a single virtual server instance of TFS with the only architectural cust
 Although there seemed to be a lot of noise around the time that SP1 was released, the great god Murphy left me alone in this instance. It just goes to show, simpler is better...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

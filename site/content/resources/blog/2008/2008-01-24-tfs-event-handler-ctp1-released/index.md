@@ -2,9 +2,9 @@
 id: "261"
 title: "TFS Event Handler CTP1 Released"
 date: "2008-01-24"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "tfs"
@@ -32,7 +32,7 @@ I will probably not be doing any documentation for this version, but I will be u
 
 The Client application allows you to connect to any TFS Event Handler and see what the status is. Please note that there is a bug that occurs when you add a new team server that means that it never authenticates. Once you have added it, close the UI and reopen it to solve the problem. Oh, and don't click the "refresh" button (I said the UI was rough).
 
- [![image](images/TFSEventHandlerCTP1Released_F2A4-image_thumb_1-1-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_4.png)
+[![image](images/TFSEventHandlerCTP1Released_F2A4-image_thumb_1-1-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSEventHandlerCTP1Released_F2A4-image_4.png)
 { .post-img }
 
 It will take time to augment the UI and I have quite a few ideas in that regard. One of my goals is to allow the upload of "Packages" that contain all the files  necessary to run en Event Handler that might well have supporting files, like html templates for emails...
@@ -50,6 +50,3 @@ Well, that's the plan... ![smile_nerd](images/smile_nerd-5-2.gif)
 Edited for bad English and down right sloppiness... Made me sound like English was not my first language...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

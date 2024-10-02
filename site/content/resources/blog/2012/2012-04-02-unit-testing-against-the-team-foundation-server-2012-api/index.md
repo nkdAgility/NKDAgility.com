@@ -2,10 +2,10 @@
 id: "5112"
 title: "Unit Testing against the Team Foundation Server 2012 API"
 date: "2012-04-02"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "code"
   - "configuration"
   - "infrastructure"
@@ -83,49 +83,48 @@ namespace TfsWitAnnotateField.UI.Infra
 Having this interface lets me have two implementation of a concrete class.
 
 1. CollectionSelector – With the call to TeamProjectPicker UI
-    
-    ```
-    namespace TfsWitAnnotateField.UI.Infra
-    {
-        class CollectionSelector : ICollectionSelector
-        {
-            public TfsTeamProjectCollection SelectCollection()
-            {
-                using (TeamProjectPicker tpp = new TeamProjectPicker(TeamProjectPickerMode.NoProject, false))
-                {
-                    DialogResult result = tpp.ShowDialog();
-                    if (result == DialogResult.OK)
-                    {
-                        return tpp.SelectedTeamProjectCollection;
-                    }
-                    return null;
-                }
-            }
-        }
-    }
-    ```
-    
-    **Figure: Calling the TeamProjectPicker  
-    **
-    
+
+   ```
+   namespace TfsWitAnnotateField.UI.Infra
+   {
+       class CollectionSelector : ICollectionSelector
+       {
+           public TfsTeamProjectCollection SelectCollection()
+           {
+               using (TeamProjectPicker tpp = new TeamProjectPicker(TeamProjectPickerMode.NoProject, false))
+               {
+                   DialogResult result = tpp.ShowDialog();
+                   if (result == DialogResult.OK)
+                   {
+                       return tpp.SelectedTeamProjectCollection;
+                   }
+                   return null;
+               }
+           }
+       }
+   }
+   ```
+
+   **Figure: Calling the TeamProjectPicker  
+   **
+
 2. MockCollectionSelector – With an explicit Collection to tests against and no UI
-    
-    ```
-    namespace TfsWitAnnotateField.UI.Tests
-    {
-        class MockCollectionSelector : ICollectionSelector
-        {
-            public TfsTeamProjectCollection SelectCollection()
-            {
-                return new TfsTeamProjectCollection(new Uri("https://mrhinsh.tfspreview.com/"));
-            }
-        }
-    }
-    
-    ```
-    
-    **Figure: Calling TfsTeamProjectCollection explicitly**
-    
+
+   ```
+   namespace TfsWitAnnotateField.UI.Tests
+   {
+       class MockCollectionSelector : ICollectionSelector
+       {
+           public TfsTeamProjectCollection SelectCollection()
+           {
+               return new TfsTeamProjectCollection(new Uri("https://mrhinsh.tfspreview.com/"));
+           }
+       }
+   }
+
+   ```
+
+   **Figure: Calling TfsTeamProjectCollection explicitly**
 
 Now here in #2 we have a problem. How do we authenticate?
 
@@ -203,5 +202,3 @@ Woot, they all pass… now to write some more.
 ### Conclusion
 
 If you are using a Behaviour Driven Development (BDD) framework to tests your scenarios (SpecFlow works well with Visual Studio 2012) then you will need to load your service credentials so that we can test without having a user enter credentials…
-
-

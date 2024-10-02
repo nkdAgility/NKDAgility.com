@@ -2,9 +2,9 @@
 id: "455"
 title: "Windows Vista: windows mobile device center"
 date: "2006-11-18"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -19,6 +19,3 @@ Update 2006-12-20
 Although [Daniel Moth](http://www.danielmoth.com/Blog) made a comment about doing a windows update while the phone is connected, this did not work. As the "Windows Mobile Device Center" is not out of beta, you need to download it manually.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-
-

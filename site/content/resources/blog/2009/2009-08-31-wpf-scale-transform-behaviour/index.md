@@ -2,9 +2,9 @@
 id: "87"
 title: "Wpf Scale Transform Behaviour"
 date: "2009-08-31"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "mvvm"
@@ -70,25 +70,25 @@ As you can see, there is an attached dependency Boolean property defined with a 
 This works grate and you can manipulate the list of controls at runtime by changing the dependency property.
 
 ```
-<igWindows:TabItemEx 
-    xmlns:igDP="http://infragistics.com/DataPresenter"     
+<igWindows:TabItemEx
+    xmlns:igDP="http://infragistics.com/DataPresenter"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:local="clr-namespace:Hinshlabs.WpfHeatItsmDashboard"
     xmlns:igWindows="http://infragistics.com/Windows"
     xmlns:igDock="http://infragistics.com/DockManager"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
-    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:diag="clr-namespace:System.Diagnostics;assembly=WindowsBase"
-    mc:Ignorable="d" 
+    mc:Ignorable="d"
     xmlns:igEditors="http://infragistics.com/Editors"
-    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" 
-    xmlns:ic="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions" 
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    xmlns:ic="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions"
     x:Class="CallsView" x:Name="CallsView" MinWidth="30" MinHeight="50">
     <igWindows:TabItemEx.Resources>
-        <local:NinjectDataProvider  
-        x:Key="ViewModel" 
-        d:IsDataSource="True" ObjectType="{x:Type local:CallsViewModel}"  
+        <local:NinjectDataProvider
+        x:Key="ViewModel"
+        d:IsDataSource="True" ObjectType="{x:Type local:CallsViewModel}"
         />
        <local:DateTimeSecondsToBooleanConverter x:Key="DateTimeSecondsToBooleanConverter" />
     </igWindows:TabItemEx.Resources>
@@ -242,9 +242,9 @@ This value is stored so we can set new controls, and then applied to all of the 
     xmlns:local="clr-namespace:Hinshlabs.WpfHeatItsmDashboard"
     Title="Heat Itsm Dashboard" MinHeight="600" MinWidth="800" Icon="/Hinshlabs.WpfHeatItsmDashboard;component/HeatItsm.ico">
     <igRibbon:XamRibbonWindow.Resources>
-        <local:NinjectDataProvider 
-        x:Key="ViewModel" 
-        ObjectType="{x:Type local:MainWindowViewModel}" 
+        <local:NinjectDataProvider
+        x:Key="ViewModel"
+        ObjectType="{x:Type local:MainWindowViewModel}"
         />
     </igRibbon:XamRibbonWindow.Resources>
     <igRibbon:RibbonWindowContentHost DataContext="{StaticResource ViewModel}">
@@ -307,6 +307,3 @@ As you can see I am heavily utilizing the Infragistics controls, but that would 
 krsu46zvpt
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM)
-
-
-

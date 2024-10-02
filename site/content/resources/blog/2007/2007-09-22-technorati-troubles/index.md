@@ -2,7 +2,7 @@
 id: "308"
 title: "Technorati Troubles"
 date: "2007-09-22"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -26,6 +26,3 @@ _UPDATE:_
 _Nope, not working._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

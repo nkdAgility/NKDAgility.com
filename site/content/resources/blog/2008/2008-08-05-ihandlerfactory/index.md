@@ -2,9 +2,9 @@
 id: "214"
 title: "IHandlerFactory"
 date: "2008-08-05"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tools"
 coverImage: "metro-binary-vb-128-link-1-1.png"
@@ -103,6 +103,3 @@ End Namespace
 Then all we need to do is call our IsValidToRun method and either run the base (default) GetHandler or return our new handler…
 
 > Technorati Tags: [.NET 3.5](http://technorati.com/tags/.NET+3.5),[.NET 2.0](http://technorati.com/tags/.NET)
-
-
-

@@ -2,9 +2,9 @@
 id: "9892"
 title: "My first Scrum team in the wild"
 date: "2011-04-03"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "develop"
   - "nwcadence"
@@ -21,15 +21,13 @@ slug: "my-first-scrum-team-in-the-wild"
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!
 { .post-img }
 
-  
-
-* * *
+---
 
 Although I was unable to be the teams Scrum Coach (paperwork relating to citizenship issues) one of my very experienced colleagues (Rennie Araucto) took up the challenge. This was Rennie’s first foray into serious Scrum and he attended the same training course; well I honestly could not have asked for a better person to take this team through its first sprint.
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_4.png)  
 { .post-img }
-**Figure: Pretty much the best sprint 1 burn down I have ever seen** 
+**Figure: Pretty much the best sprint 1 burn down I have ever seen**
 
 This is probably the very best Sprint 1 burndown I have ever seen. Usually a team will over commit on at least the first, second and third sprints as well as having a tendency to remain oblivious to the _opportunities_ they have in the Scrum process to correct their mistakes. This is usually through no fault of the individuals, but of a IT industry that has consistently taught and rewarded people for anti-patterns to delivering better software.
 
@@ -86,5 +84,3 @@ Rule: Never leave uncompleted work in a sprint. Its untidy and causes confusion
 
 This team has made some fantastic efforts for their first sprint, but should not get complacent. I am very impressed of the work that Rennie has put in and I really enjoyed our long Scrum conversations ![Smile](images/GWB-Windows-Live-Writer3cf46226a54f_DA4FwlEmoticon-smile_2-5-5.png)
 { .post-img }
-
-

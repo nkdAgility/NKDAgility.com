@@ -17,7 +17,6 @@ In this video, discover the transformative power of visualizing workflows using 
 
 Best practices for effectively visualizing workflow using #kanban.
 
-
 Could you share some best practices or strategies for effectively visualizing workflow using Kanban?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=SLZmpwEWxD4)

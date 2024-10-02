@@ -2,9 +2,9 @@
 id: "9908"
 title: "Installing Visual Studio 2013 on Server 2012"
 date: "2013-06-26"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "configuration"
   - "microsoft-id"
   - "tools"
@@ -88,5 +88,3 @@ The new UI looks fairly clean and the new Team Explorer interaction looks a lot 
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Go download it now and be a kid again…
-
-

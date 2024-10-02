@@ -2,7 +2,7 @@
 id: "171"
 title: "TFS Data Manager"
 date: "2008-11-10"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -25,6 +25,3 @@ Looks like the feature mix will be fabulous…
 **Updated: Added missing links… Thanks for spotting it :)**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

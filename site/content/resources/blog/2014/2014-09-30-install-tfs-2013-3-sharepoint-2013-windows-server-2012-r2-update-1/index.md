@@ -2,9 +2,9 @@
 id: "10727"
 title: "Install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1"
 date: "2014-09-30"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "windows-server-2012"
   - "sharepoint-2013"
   - "sharepoint-2013-sp1"
@@ -59,7 +59,7 @@ In the advanced configuration wizard you get to pick extras like choosing to not
 ![clip_image007](images/clip-image0071-7-7.png "clip_image007")
 { .post-img }
 
-When you pick your SQL server you will get options to prefix your databases. This allows you to co-host multiple TFS instances on the same SQL server. You would get "tfs\_inst2\_Configuration" and so forth. You can also configure 'always-on'. If you don’t know what it is then don’t tick it… but it can give you much better availability by automatically failing over. Its kind of like a cluster, but without the pain and suffering.
+When you pick your SQL server you will get options to prefix your databases. This allows you to co-host multiple TFS instances on the same SQL server. You would get "tfs_inst2_Configuration" and so forth. You can also configure 'always-on'. If you don’t know what it is then don’t tick it… but it can give you much better availability by automatically failing over. Its kind of like a cluster, but without the pain and suffering.
 
 ![clip_image008](images/clip-image0081-8-8.png "clip_image008")
 { .post-img }
@@ -171,5 +171,3 @@ Flip back to the TFS configuration wizard and re-run the readiness checks to mak
 And that’s it. When you click "Configure" TFS will go off and create all the bits it needs and setup your default collection. At the end of this process, if you get a green tick, you have a fully operational TFS Instance.
 
 Good luck with your install…
-
-

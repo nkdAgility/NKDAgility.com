@@ -2,9 +2,9 @@
 id: "335"
 title: "Service Manager Factory"
 date: "2007-08-11"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "develop"
   - "practices"
@@ -20,9 +20,6 @@ You can download from:
 
 [http://servicemanager.codeplex.com/](http://www.rddotnet.com/Release/ProjectReleases.aspx?ReleaseId=6366 "http://www.rddotnet.com/Release/ProjectReleases.aspx?ReleaseId=6366")
 
- 
+
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [RDdotNet](http://technorati.com/tags/RDdotNet) [ALM](http://technorati.com/tags/ALM)
-
-
-

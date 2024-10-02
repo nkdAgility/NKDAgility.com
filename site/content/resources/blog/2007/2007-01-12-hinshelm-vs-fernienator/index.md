@@ -2,9 +2,9 @@
 id: "443"
 title: "hinshelm vs fernienator"
 date: "2007-01-12"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "answers"
   - "xbox"
 coverImage: "metro-xbox-360-link-2-2.png"
@@ -21,6 +21,3 @@ Or me vs my brother-in-law!
 I think that I am winning!
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-
-
-

@@ -2,9 +2,9 @@
 id: "7176"
 title: "TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade"
 date: "2012-08-16"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs"
   - "tfs2008"
@@ -37,15 +37,15 @@ You need to make sure that you are in the appropriate groups first. This could b
 
 1. I am in the Administration Console Users list… (yes I reapplied)[  
     ![image](images/image_thumb51-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image51.png)  
-{ .post-img }
-    **Figure: Administration Console User List**
+   { .post-img }
+   **Figure: Administration Console User List**
 2. I am in the Team Foundation Server Administrators group…[  
     ![image](images/image_thumb52-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image52.png)  
-{ .post-img }
-    **Figure: Team Foundation Server Administrators** 
+   { .post-img }
+   **Figure: Team Foundation Server Administrators**
 3. I am in the Project Collection Administrators group…[![image](images/image_thumb53-4-4.png "image")](http://blog.hinshelwood.com/files/2012/08/image53.png)  
-{ .post-img }
-    **Figure: Project Collection Administrators**
+   { .post-img }
+   **Figure: Project Collection Administrators**
 
 If you have checked all of the permissions then we have a problem. Log in as the “TFS Service” account that you are using and see if you still can’t change things.
 
@@ -56,12 +56,12 @@ Now I can delete users from the Contributors group, woot… but why can’t othe
 You need to add the permissions that you need as they were not part of the upgrade. To do this you need to call TFS Security and this is where things get a little complicated.
 
 ```
-tfssecurity.exe /a+ Identity vstfs:///Classification/TeamProject/PROJECT_GUID 
-        ManageMembership adm:vstfs:///Classification/TeamProject/PROJECT_GUID ALLOW 
+tfssecurity.exe /a+ Identity vstfs:///Classification/TeamProject/PROJECT_GUID
+        ManageMembership adm:vstfs:///Classification/TeamProject/PROJECT_GUID ALLOW
         /collection:http://tfsserver01:8080/tfs/Tfs01
 
-tfssecurity.exe /a+ Identity vstfs:///Classification/TeamProject/PROJECT_GUID 
-        ManageMembership domainusername ALLOW 
+tfssecurity.exe /a+ Identity vstfs:///Classification/TeamProject/PROJECT_GUID
+        ManageMembership domainusername ALLOW
         /collection:http://tfsserver01:8080/tfs/Tfs01
 
 ```
@@ -70,7 +70,7 @@ tfssecurity.exe /a+ Identity vstfs:///Classification/TeamProject/PROJECT_GUID
 
 In order to call TFS Security to add permissions to the Project Administrators group for the Team Project you need the Team Project GUID. Now in Visual Studio 2010 you can just right-click on the project node and you will see the GUID in the properties. But what if, like me, you don’t have 2010 to hand…
 
-If you connect to the TFS Server and view the tbl\_project table in the Collection you will see the Project Uri, which contains the GUID.
+If you connect to the TFS Server and view the tbl_project table in the Collection you will see the Project Uri, which contains the GUID.
 
 [![image](images/image_thumb54-5-5.png "image")](http://blog.hinshelwood.com/files/2012/08/image54.png)  
 { .post-img }
@@ -85,5 +85,3 @@ Now that you have the GUID for the Team Project you can execute the command abov
 Hopefully there will be a better way to get the Team Project GUID once the RTM version of the Power Tools becomes available and that there will be a hotfix for this annoying bug in the upgrade.
 
 **Did this fix your problem?**
-
-

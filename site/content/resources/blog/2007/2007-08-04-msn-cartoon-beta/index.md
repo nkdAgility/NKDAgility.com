@@ -2,9 +2,9 @@
 id: "347"
 title: "MSN Cartoon (Beta)"
 date: "2007-08-04"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "answers"
 coverImage: "nakedalm-logo-128-link-25-25.png"
 author: "MrHinsh"
@@ -20,7 +20,7 @@ First, learn Chinese...or just click buttons until it works, like me..
 
 Click the start button
 
- [![image](images/CreatingCustomAvatars_147F7-image_thumb_9-23-23.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingCustomAvatars_147F7-image_9.png)
+[![image](images/CreatingCustomAvatars_147F7-image_thumb_9-23-23.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-CreatingCustomAvatars_147F7-image_9.png)
 { .post-img }
 
 You will need to install an application called MSN Cartoons Beta (which is the middle button) and then click next (the bottom button) and install the active-x component.
@@ -78,6 +78,3 @@ Here are my pictures, but I am not sure how much they look like me!
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-
-

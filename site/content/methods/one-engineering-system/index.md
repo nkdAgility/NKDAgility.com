@@ -23,17 +23,16 @@ going to cause friction. Rethink your ways of working to suit the tool in use.
 
 Currently, as [Company] the primary tools for 1ES are:
 
--   [Azure
-    Boards]
-    \- This feature provides Agile Planning tools and Work Item Tracking.
+- [Azure
+  Boards]
+  \- This feature provides Agile Planning tools and Work Item Tracking.
 
--   Azure Repos
+- Azure Repos
 
--   Azure Pipelines
+- Azure Pipelines
 
 \#\#Other Tools
 
--   Jira
+- Jira
 
--   Bitbucket
-
+- Bitbucket

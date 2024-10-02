@@ -2,9 +2,9 @@
 id: "9275"
 title: "Chicago Visual Studio ALM User Group 27th March"
 date: "2013-03-12"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tfs2012-2"
@@ -34,5 +34,3 @@ I want to cover three things and I only have 30 minutes so it will be tight:
 Wow… if we can get through all of that this session then the Chicago Visual Studio ALM User Group looks to be steeped in geek goodness. So if you are in Chicago on Wednesday the 27th of March, are a geek and want a beer then head on over to the Aon Centre at 18:30…
 
 **Warning: Be sure to register as Aon Centre security will NOT allow individuals to access the building without being pre-registered:** **[http://chicagoalmug.org/](http://chicagoalmug.org/)**
-
-

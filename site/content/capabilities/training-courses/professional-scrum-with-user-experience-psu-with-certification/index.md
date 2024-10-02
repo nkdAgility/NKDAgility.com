@@ -1,6 +1,6 @@
 ---
 categories:
-- agility
+  - agility
 type: courses
 card:
   content: ""
@@ -81,43 +81,22 @@ delivery:
     [Read more](https://www.scrum.org/scrumorg-professional-scrum-user-experience-training-student-reviews-and-feedback "Scrum.org Professional Scrum Foundations Training Student Reviews and Feedback") about our PSU student surveys and their feedback
   type: Scrum
   brand:
-    colour: '#e31a65'
+    colour: "#e31a65"
     vendor: scrum-org
   lead: Professional Scrum with User Experience (PSU) is a 14h hands-on course, delivered over 4 half-days, where students who already have a fundamental understanding of Scrum and some experience using it will learn how to integrate modern UX practices into the way they are working in Scrum and how to work most effectively within Scrum Teams.
   courseIcon: Scrumorg-Course-PSU-400x.png
 tags:
-- certification
-- product-discovery
+  - certification
+  - product-discovery
 aliases:
-- professional-scrum-with-user-experience-psu-training
-- professional-scrum-with-user-experience-training-with-certification
-- professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+  - professional-scrum-with-user-experience-psu-training
+  - professional-scrum-with-user-experience-training-with-certification
+  - professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+  - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
 slug: professional-scrum-with-user-experience-psu-with-certification
 date: 2019-05-25
 id: "38640"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Should UX be part of the Scrum Team?
 
@@ -132,23 +111,3 @@ The course also includes a complimentary attempt at the globally recognized Prof
 View the different [Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) covered within this class and others.
 
 _This course is generally delivered over two consecutive days when offered in person. However, when offered as a Live Virtual Class, the course may be broken up into more, shorter days._
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

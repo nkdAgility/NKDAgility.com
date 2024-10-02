@@ -13,7 +13,7 @@ isShort: False
 
 # What is Agile?
 
-This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights! 
+This is a video about applying agile philosophy to foster change and growth in both personal and professional realms. Dive in for transformative insights!
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 

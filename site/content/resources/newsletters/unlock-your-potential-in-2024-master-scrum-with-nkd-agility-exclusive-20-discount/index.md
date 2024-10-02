@@ -45,9 +45,9 @@ _P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! 
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 
- 
 
-* * *
+
+---
 
 ## Upcoming Training Classes
 

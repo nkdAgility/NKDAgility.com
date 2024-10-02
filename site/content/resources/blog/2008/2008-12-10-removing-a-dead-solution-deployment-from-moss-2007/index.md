@@ -2,7 +2,7 @@
 id: "155"
 title: "Removing a dead Solution Deployment from MOSS 2007"
 date: "2008-12-10"
-tags: 
+tags:
   - "moss2007"
   - "sharepoint"
   - "tools"
@@ -36,6 +36,3 @@ Click the title to bring up the job definition and status and you should have th
 Once killed you can check the deployments page and you will see that there is nothing trying to “deploy”.
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

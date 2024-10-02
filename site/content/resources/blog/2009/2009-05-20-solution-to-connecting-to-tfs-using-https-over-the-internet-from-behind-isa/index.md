@@ -2,7 +2,7 @@
 id: "112"
 title: "Solution to connecting to TFS using HTTPS over the Internet from behind ISA"
 date: "2009-05-20"
-tags: 
+tags:
   - "aggreko"
   - "tools"
   - "visual-studio"
@@ -36,8 +36,6 @@ HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftTeamFoundationServer10.0RequestSet
 HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftVisualStudio10.0TeamFoundationRequestSettings
 ```
 
-You can find out more on the “[How to: Change the BypassProxyOnLocal Configuration](http://msdn.microsoft.com/en-us/library/bb909716(loband).aspx)” documentation on MSDN.
+You can find out more on the “[How to: Change the BypassProxyOnLocal Configuration](<http://msdn.microsoft.com/en-us/library/bb909716(loband).aspx>)” documentation on MSDN.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
-
-

@@ -2,10 +2,10 @@
 id: "5032"
 title: "TFS Service Credential Viewer"
 date: "2012-03-30"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "azure"
   - "code"
   - "configuration"
@@ -52,23 +52,17 @@ http://youtu.be/Fkn6V0\_zz28
 
 If you are using Windows 8 Consumer Preview you will not get an automatic launch of the application due to an extra security check for applications that come from the internet.
 
-1. Click or Press “Start” and Scroll all the way to the right
-2. Select the TFS Service Credential Viewer
-3. When the security dialog pops up click “More Info”
-    
-    [![image](images/image_thumb22-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image22.png)  
-{ .post-img }
+1.  Click or Press “Start” and Scroll all the way to the right
+2.  Select the TFS Service Credential Viewer
+3.  When the security dialog pops up click “More Info”
+        [![image](images/image_thumb22-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image22.png)
+    { .post-img }
     **Figure: Select More Info  
-    **
-    
-4. Click “Run anyway” to launch the application and add it to the safe list
-    
-    [![image](images/image_thumb23-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image23.png)  
-{ .post-img }
+     **
+4.  Click “Run anyway” to launch the application and add it to the safe list
+        [![image](images/image_thumb23-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image23.png)
+    { .post-img }
     Figure;
-    
-5. Done
+5.  Done
 
 If you encounter an exception when clicking "Connect" the most likely cause if that you do not have Team Explorer 2012 installed
-
-

@@ -2,10 +2,10 @@
 id: "9103"
 title: "Project Server 2013 Issue – TF294026: The following work item field does not exist"
 date: "2012-11-02"
-categories: 
+categories:
   - "code-and-complexity"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "project-server"
@@ -61,7 +61,7 @@ Warning The documentation on MSDN is currently out of date and misses two fields
    The number of units of work that have been spent on this task
 
 
-   Initial value for Remaining Work - set once, when work begins. 
+   Initial value for Remaining Work - set once, when work begins.
 
 
 
@@ -71,5 +71,3 @@ Warning The documentation on MSDN is currently out of date and misses two fields
 **Figure: Add both Original Estimate and Completed Work**
 
 Although we are adding these fields to the Task type we are not necessarily adding them to the UI for users to fill out. We can leave them available for Project Server, while out Team Members of a Scrum Team would be blissfully ignorant of their existence.
-
-

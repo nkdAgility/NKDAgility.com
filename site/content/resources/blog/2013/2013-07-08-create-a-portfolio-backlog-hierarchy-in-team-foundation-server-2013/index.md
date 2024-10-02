@@ -2,10 +2,10 @@
 id: "9731"
 title: "Create a Portfolio Backlog hierarchy in Team Foundation Server 2013"
 date: "2013-07-08"
-categories: 
+categories:
   - "install-and-configuration"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile-planning-tools"
   - "agile-portfolio-management"
   - "code"
@@ -197,7 +197,7 @@ A simple category that holds a single work item type is fairly easy to create. J
 </cat:CATEGORIES>
 ```
 
- Once we have the new category and the new Goal work item type we are ready to use them to create the portfolio backlog.
+Once we have the new category and the new Goal work item type we are ready to use them to create the portfolio backlog.
 
 ## Add new Portfolio Backlog to the Agile Portfolio Tools
 
@@ -314,5 +314,3 @@ Customising the hierarchy for Portfolio Backlogs is easy and the hard part is ma
 > \-Me
 
 Make sure you always make the right changes to Team Foundation Server to improve your process and never enshrine dysfunctions…
-
-

@@ -2,9 +2,9 @@
 id: "232"
 title: "Another day another Codeplex Project"
 date: "2008-05-07"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "moss2007"
   - "sharepoint"
   - "sp2007"
@@ -24,7 +24,3 @@ Well I found a wee problem. The "**[Lookup user info](http://www.codeplex.com/SP
 This one Activity will alleviate my immediate need, but I can see many more in the future...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-
-

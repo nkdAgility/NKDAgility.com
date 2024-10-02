@@ -2,9 +2,9 @@
 id: "9161"
 title: "Upgrading to Team Foundation Server 2012 Update 1"
 date: "2012-11-30"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tfs"
@@ -67,7 +67,7 @@ As I mentioned before if you are upgrading from a previous version it will prese
 
 However with an existing TFS 2012 instance you will automatically be presented with the Upgrade wizard as it can kina guess what you want…
 
- ![Choosing your database for upgrade to Team Foundation Server 2012 Update 1](images/image61-6-6.png "Choosing your database for upgrade to Team Foundation Server 2012 Update 1")  
+![Choosing your database for upgrade to Team Foundation Server 2012 Update 1](images/image61-6-6.png "Choosing your database for upgrade to Team Foundation Server 2012 Update 1")  
 { .post-img }
 **Figure: Choosing your database for upgrade to Team Foundation Server 2012 Update 1**
 
@@ -88,5 +88,3 @@ In the real world I dought that many folks will be changing their settings as pa
 This is an easy update with very low risk and can be done in place if you are upgrading from the 2012 RTM.
 
 It takes a little more planning to go from 2008 or 2010 to 2012, but it is ultimately just as easy.
-
-

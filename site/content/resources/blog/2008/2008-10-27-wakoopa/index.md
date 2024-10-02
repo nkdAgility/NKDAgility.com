@@ -2,9 +2,9 @@
 id: "180"
 title: "Wakoopa"
 date: "2008-10-27"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "answers"
   - "tfs"
   - "tfs-sticky-buddy"

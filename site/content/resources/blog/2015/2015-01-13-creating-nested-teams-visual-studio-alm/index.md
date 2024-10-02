@@ -2,9 +2,9 @@
 id: "11068"
 title: "Creating nested teams in Visual Studio ALM"
 date: "2015-01-13"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "team-field"
   - "teams"
   - "tfs"
@@ -110,5 +110,3 @@ If we select "Omniworks Team 1" we get only the work that has been assigned to t
 This format gives us a huge amount of flexibility to create and manage work within any agile process as well as supporting non-agile processes as well. If you know your way around the configuration there are many ways to organise and visualise the work that you are doing and still work predominantly within the bounds of the tools.
 
 This is an fantastically flexible system and I encourage you to play around and figure out what the best configuration for you is.
-
-

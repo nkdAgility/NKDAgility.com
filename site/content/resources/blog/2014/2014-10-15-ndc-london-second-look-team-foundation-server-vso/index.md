@@ -2,9 +2,9 @@
 id: "10811"
 title: "NDC London: Second Look, Team Foundation Server &amp; VSO"
 date: "2014-10-15"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "backlog-management"
   - "code-sense"
   - "codedui"
@@ -36,7 +36,7 @@ The main reason that IBM scores a little higher on completeness is that they hav
 With the time constraint and the amount of things I want to show my session will need to be demo heavy. The type of person that I am gearing this session towards are the hard core who tried TFS prior to 2012 and don’t believe the marketing. Do demos it is… but I just looked back at what I submitted:
 
 > You may have looked at Team Foundation Server before and if it was before 2012 then you should have another look. It is not the same product it used to be. Come and see Martin do an end to end walk through from Ideation through Coding, Testing and Release with monitoring and feedback. Martin will cover some of the new advances with Storyboarding, Agile Project Management, and Agile Portfolio Management. He will then delve into the new ALM features added since 2010 for coders like My Work, Code Sense, and Local Workspaces and even Git. With the new Test Management tools in the web complimented with Microsoft Test Manager your testers can easily manage, execute and report on your test plans. All the while we will be using the new Release Management tools to push our application to each environment and ultimately to production. Once there we can monitor our application for usage and performance with rich statistics.
-> 
+>
 > All in all TFS is a world premier ALM solution that provides everything that you need to manage the Application Lifecycle of your application.
 
 Oh my… look what I signed myself up to!
@@ -57,11 +57,11 @@ There will however need to be trade-offs so I am looking for your help to see wh
 I am not yet sure if I will be using green field or brownfield as each have their pros and cons. In my flying time deliberations I have been contemplating three main scenarios:
 
 1. Greenfield  
-    Start with an empty team project and build everything up from scratch. That would mean getting the code in, creating a backlog, writing some code, followed by some testing and then an automated build. I would then get a few minutes while the build executes to create a release management pipeline and push to the environments.
+   Start with an empty team project and build everything up from scratch. That would mean getting the code in, creating a backlog, writing some code, followed by some testing and then an automated build. I would then get a few minutes while the build executes to create a release management pipeline and push to the environments.
 2. Greenfield TFS / brownfield project  
-    Again, start with an empty team project but import from somewhere else. Maybe pull in a Github project and do the same as above.
+   Again, start with an empty team project but import from somewhere else. Maybe pull in a Github project and do the same as above.
 3. Brownfield  
-    Have an existing end to end setup and just walk through adding a feature or fixing a bug and the interactions involved.
+   Have an existing end to end setup and just walk through adding a feature or fixing a bug and the interactions involved.
 
 I guess it depends how long my session is with brownfield being the easiest to pull off. A plan then would be to get brownfield working and then, if there is time, look into the other options. So let's see what the scenarios are that I plan on tackling:
 
@@ -127,5 +127,3 @@ I am really looking forward to this session as it will give me a chance to direc
 Please provide me with some feedback on the polls above. I am very interested in focusing on what will solve the most problems for attendees. I will also be around for the full 3 days and would be happy to do add-hock demos and problem solving sessions… Unless there is a supper interesting session on the go I would be happy to provide free TFS consulting for any and all attendees of NDC London on the days.
 
 If you are on a tight schedule I would be happy to have you pre-book some time. Email info@nakedalm.com to get some free TFS & VSO consulting at NDC London.
-
-

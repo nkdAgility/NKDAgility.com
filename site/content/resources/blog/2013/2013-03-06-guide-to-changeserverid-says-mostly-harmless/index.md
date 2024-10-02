@@ -2,9 +2,9 @@
 id: "9249"
 title: "Guide to ChangeServerId says mostly harmless"
 date: "2013-03-06"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "2012-2"
   - "configuration"
   - "infrastructure"
@@ -80,5 +80,3 @@ Running RegisterDB command will update setting in the "C:Program FilesMicrosoft 
 To save time I went ahead and updated it manually and WOW everything worked again.
 
 **Lesson: Heed all Team Foundation warnings**
-
-

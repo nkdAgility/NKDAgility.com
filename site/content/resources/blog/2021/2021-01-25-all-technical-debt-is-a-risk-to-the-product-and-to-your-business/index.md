@@ -2,10 +2,10 @@
 id: "45521"
 title: "All technical debt is a risk to the product and to your business."
 date: "2021-01-25"
-categories: 
+categories:
   - "code-and-complexity"
   - "transparency-commitment"
-tags: 
+tags:
   - "continuous-quality"
   - "definition-of-done"
   - "featured"
@@ -146,5 +146,3 @@ I just don’t believe that if the business (read CFO) of the receiving entity r
 - Have no idea what even needs to be done
 
 **It’s a Roadkill Burger! It may indeed be tasty at the moment, but you will eventually get sick and die.**
-
-

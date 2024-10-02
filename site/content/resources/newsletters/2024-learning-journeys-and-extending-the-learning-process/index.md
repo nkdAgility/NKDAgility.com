@@ -14,7 +14,7 @@ We have already had great success with our immersive learning classes, with the 
 
 Five of the participants were from this one company, and the message above was from the CEO! I loved the experience, but I love the feedback even more.
 
-Below, you will find our 24Q1 schedule and the awesome classes and bundles that we are bringing and _we have added a 20% discount on all classes until April 2024!_
+Below, you will find our 24Q1 schedule and the awesome classes and bundles that we are bringing and *we have added a 20% discount on all classes until April 2024!*
 
 **Extending the Learning Process**
 
@@ -44,7 +44,7 @@ Yours in agile excellence,
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 
-* * *
+---
 
 ## Upcoming Training Classes
 

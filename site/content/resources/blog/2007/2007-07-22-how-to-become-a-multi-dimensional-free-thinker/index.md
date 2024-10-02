@@ -2,7 +2,7 @@
 id: "364"
 title: "How to become a Multi-Dimensional Free Thinker"
 date: "2007-07-22"
-tags: 
+tags:
   - "dyslexia"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -23,6 +23,3 @@ Professions for such talented people include but is not limited to:
 engineers, architects, designers, artists and craftspeople, mathematicians, physicists, physicians (esp. surgeons and orthopedists), dentists, it professionals (esp. Software Development Engineers, Developer Evangelists and Software Architects).
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

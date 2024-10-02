@@ -2,11 +2,11 @@
 id: "46138"
 title: "Hiring a Professional Product Owner"
 date: "2021-05-17"
-categories: 
+categories:
   - "discovery-ideation"
   - "news-and-reviews"
   - "people-and-process"
-tags: 
+tags:
   - "featured"
   - "product-discovery"
   - "product-owner"
@@ -40,9 +40,9 @@ Professional Scrum Product Owner Stances
 In general, I do not see companies hiring for a [Product Owner](https://nkdagility.com/training/audiences/product-owners/) but instead promoting from within. Maximizing the value in the product requires intimate knowledge of the business context, the existing state of the market, and the things that make your business distinctive. They need not only these understandings but also the ability to communicate effectively with Developers and Stakeholders.
 
 > My take on the above…I am seeing the opposite.  I’m seeing more companies valuing Product Ownership as a skill and going outside for it.  I think this is a positive trend and will probably have the benefit of bringing an outside perspective to a company which may be exactly what a product needs.
-> 
+>
 > **Data:** LinkedIn has 12,894 jobs for “Product Owner just in the US right now and 25,520 for “Product Manager”.  Didn’t look at global numbers.
-> 
+>
 > \- [Jim Sammons | Scrum.org](https://www.scrum.org/jim-sammons)
 
 Adding to Jim's data:
@@ -50,19 +50,17 @@ Adding to Jim's data:
 <figure>
 
 | Country / Job Title | Product Owner | Product Manager |
-| --- | --- | --- |
-| USA | 12,894 | 25,520 |
-| UK | 9,256 | 23,241 |
-| EU | 25,254 | 35,626 |
-| Worldwide | 119,808 | 300,060 |
+| ------------------- | ------------- | --------------- |
+| USA                 | 12,894        | 25,520          |
+| UK                  | 9,256         | 23,241          |
+| EU                  | 25,254        | 35,626          |
+| Worldwide           | 119,808       | 300,060         |
 
 <figcaption>
 
 Data of Jobs posted on LinkedIn!
 
 </figcaption>
-
-
 
 </figure>
 
@@ -97,53 +95,42 @@ The [Product Owner](https://nkdagility.com/training/audiences/product-owners/)�
 This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is a key position that sets the tone for product leadership and the definition of success in the organization. As such, modern product management practices and mindset are expected to be put into practice daily. This [Product Owner](https://nkdagility.com/training/audiences/product-owners/) is accountable for and has the authority to maximize the value of the product and the effectiveness of the Product Backlog by using, but not limited to, these 6 key stances:
 
 - The Visionary
-    
-    - Articulating the strategic vision of the product;
-    
-    - Developing and explicitly communicating intermediate strategic goals;
-    
-    - Propose how the product can tactically increase its value each Sprint;
-    
-    - Understand and shape the impact of the product on our company;
-    
-    - Each Sprint ensuring that the Scrum Team is prepared to discuss the **most important** Product Backlog items;
+
+  - Articulating the strategic vision of the product;
+  - Developing and explicitly communicating intermediate strategic goals;
+  - Propose how the product can tactically increase its value each Sprint;
+  - Understand and shape the impact of the product on our company;
+  - Each Sprint ensuring that the Scrum Team is prepared to discuss the **most important** Product Backlog items;
 
 - The Influencer
-    - Actively manage stakeholders, their desires, expectations, and outcomes;
-    
-    - Create an effective communication strategy;
-    
-    - Influence the Developers during Backlog Items Sizing by helping them select and understand trade-offs;
-    
-    - Work with Developers daily to clarify and renegotiate the Scope of the Sprint;
+
+  - Actively manage stakeholders, their desires, expectations, and outcomes;
+  - Create an effective communication strategy;
+  - Influence the Developers during Backlog Items Sizing by helping them select and understand trade-offs;
+  - Work with Developers daily to clarify and renegotiate the Scope of the Sprint;
 
 - The Collaborator
-    - Collaborating closely with the Developers & Stakeholders daily;
-    
-    - Developing and communicating budget, investments, roadmaps, vision, & strategy;
-    
-    - Developing controls for a change, risk, quality, & incident management to enable professional Scrum;
-    
-    - Developing and influencing commercial contracts that align with the agile values and principles;
+
+  - Collaborating closely with the Developers & Stakeholders daily;
+  - Developing and communicating budget, investments, roadmaps, vision, & strategy;
+  - Developing controls for a change, risk, quality, & incident management to enable professional Scrum;
+  - Developing and influencing commercial contracts that align with the agile values and principles;
 
 - The Customer Representative
-    - Understand the desired outcomes of customers within the bounds of the business constraints
-    
-    - Defining our product(s) and services and how customers will interact with them
+
+  - Understand the desired outcomes of customers within the bounds of the business constraints
+  - Defining our product(s) and services and how customers will interact with them
 
 - The Decision Maker
-    - Ensuring that the Product Backlog is transparent, visible and understood;
-    
-    - Ordering Product Backlog items;
-    
-    - Choosing what and when to release;
+
+  - Ensuring that the Product Backlog is transparent, visible and understood;
+  - Ordering Product Backlog items;
+  - Choosing what and when to release;
 
 - The Experimenter
-    - Using evidence-based management techniques to optimise outcomes and value delivered;
-    
-    - Create hypothesis and craft experiments to test that hypothesis quickly;
-    
-    - Tracking product use and impact on end-users and drive consistent approaches across all Product Verticals;
+  - Using evidence-based management techniques to optimise outcomes and value delivered;
+  - Create hypothesis and craft experiments to test that hypothesis quickly;
+  - Tracking product use and impact on end-users and drive consistent approaches across all Product Verticals;
 
 The [Product Owner](https://nkdagility.com/training/audiences/product-owners/) may do the above work or may delegate the responsibility to others. Regardless, the [Product Owner](https://nkdagility.com/training/audiences/product-owners/) remains accountable.
 
@@ -224,5 +211,3 @@ The key point in the above is the delegation point; we are not thinking that a s
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
-
-

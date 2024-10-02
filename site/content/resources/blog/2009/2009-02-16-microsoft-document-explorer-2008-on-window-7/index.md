@@ -2,7 +2,7 @@
 id: "138"
 title: "Microsoft Document Explorer 2008 on Window 7"
 date: "2009-02-16"
-tags: 
+tags:
   - "tools"
   - "visual-studio"
   - "vs2008"
@@ -20,6 +20,3 @@ This was my second attempt at installing Visual Studio 2008 on Windows 7 and I r
 It failed when trying to install the Microsoft Document Explorer 2008. A quick check found the file in WCUDExplore of your installation media, and running the install manually solved that problem…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Windows](http://technorati.com/tags/Windows) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

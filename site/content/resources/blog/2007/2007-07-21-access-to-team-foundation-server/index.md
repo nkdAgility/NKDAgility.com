@@ -2,7 +2,7 @@
 id: "366"
 title: "Access to Team Foundation Server"
 date: "2007-07-21"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog
@@ -13,6 +13,6 @@ With my lack of time to work with TFS at work in anything but a server maintenan
 
 The other problem is that the only current hosted TFS solution is CodePlex and the guys at CP, in an effort to reduce load, have disabled almost all of the functionality.
 
- I will need to get up and running at home. This will allow me to hone my TFS skills and improve my knowledge even better than at work as I can do anything I need to the server.
+I will need to get up and running at home. This will allow me to hone my TFS skills and improve my knowledge even better than at work as I can do anything I need to the server.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)

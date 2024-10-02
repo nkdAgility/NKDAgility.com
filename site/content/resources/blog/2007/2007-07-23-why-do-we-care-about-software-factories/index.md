@@ -2,9 +2,9 @@
 id: "362"
 title: "Why do we care about software factories?"
 date: "2007-07-23"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "develop"
   - "patterns"
@@ -22,6 +22,3 @@ This sort of work will go a long way to making software factories more accessibl
 Plus, I like the pretty pictures...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-
-

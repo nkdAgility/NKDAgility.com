@@ -2,9 +2,9 @@
 id: "406"
 title: "TFS Event Handler: Coverage & Comments"
 date: "2007-05-02"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs2005"
   - "tfs-event-handler"
@@ -30,6 +30,3 @@ Although not for this version of the application, I would like to use a zip form
 I have raised both of these issues on CodePlex and you can vote for them there. If anyone has any other issues that they would like to point out, please don't hesitate to let me know...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Personal](http://technorati.com/tags/Personal) [TFS](http://technorati.com/tags/TFS)
-
-
-

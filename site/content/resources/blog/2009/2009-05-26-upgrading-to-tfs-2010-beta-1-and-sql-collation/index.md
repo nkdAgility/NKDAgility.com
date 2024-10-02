@@ -2,7 +2,7 @@
 id: "109"
 title: "Upgrading to TFS 2010 Beta 1 and SQL Collation"
 date: "2009-05-26"
-tags: 
+tags:
   - "tfs"
   - "tfs2008"
   - "tfs2010"
@@ -17,9 +17,9 @@ I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsyste
 
 Due to a collation mismatch between my original SQL Server 2005 and my new SQL Server 2008 I received an error when upgrading…
 
-> \[Error  @13:57:23.665\] TF255184: An error occurred during operation.  Message=Cannot resolve the collation conflict between "SQL\_Latin1\_General\_CP1\_CI\_AS" and "Latin1\_General\_CI\_AS" in the equal to operation.  
+> \[Error  @13:57:23.665\] TF255184: An error occurred during operation.  Message=Cannot resolve the collation conflict between "SQL_Latin1_General_CP1_CI_AS" and "Latin1_General_CI_AS" in the equal to operation.  
 > Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1.. Exception=.  
-> \[Error  @13:57:23.681\] TF254026: An error occurred during the following operation: Upgrade. The error occurred during the following step group: Upgrade.TfsTeamBuild. It occurred on the following step: Check In Build Process Templates. The following message was returned: Cannot resolve the collation conflict between "SQL\_Latin1\_General\_CP1\_CI\_AS" and "Latin1\_General\_CI\_AS" in the equal to operation.  
+> \[Error  @13:57:23.681\] TF254026: An error occurred during the following operation: Upgrade. The error occurred during the following step group: Upgrade.TfsTeamBuild. It occurred on the following step: Check In Build Process Templates. The following message was returned: Cannot resolve the collation conflict between "SQL_Latin1_General_CP1_CI_AS" and "Latin1_General_CI_AS" in the equal to operation.  
 > Transaction count after EXECUTE indicates a mismatching number of BEGIN and COMMIT statements. Previous count = 0, current count = 1..  
 > \[Info   @13:57:23.681\] CollectionServicingMonitor - \[5/25/2009 2:56:55 PM\] Servicing step Check In Build Process Templates failed. (ServicingOperation: Upgrade; Step group: Upgrade.TfsTeamBuild)
 
@@ -36,6 +36,3 @@ My client has it listed but with a TF31001 error.…
 Solution? Suck it up and reinstall everything, including SQL and change the collation to the same on both servers. :(
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
-
-
-

@@ -13,7 +13,7 @@ isShort: True
 
 # 6 things you didn't know about Agile Product Management but really should Part 6
 
-Visit https://www.nkdagility.com Think your company is Agile just because your development teams use Scrum?  Think again!  This video challenges you to assess your ENTIRE product development ecosystem to ensure you're truly maximizing agility and value.
+Visit https://www.nkdagility.com Think your company is Agile just because your development teams use Scrum? Think again! This video challenges you to assess your ENTIRE product development ecosystem to ensure you're truly maximizing agility and value.
 
 Why You Should Watch:
 

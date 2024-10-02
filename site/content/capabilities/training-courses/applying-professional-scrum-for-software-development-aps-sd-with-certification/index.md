@@ -1,7 +1,7 @@
 ---
 categories:
-- agility
-- tools-and-techniques
+  - agility
+  - tools-and-techniques
 type: courses
 card:
   content: ""
@@ -73,88 +73,67 @@ delivery:
       
   type: Scrum
   brand:
-    colour: '#c75129'
+    colour: "#c75129"
     vendor: scrum-org
-  lead: 'Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise.'
+  lead: "Experience APS-SD: Hands-on Scrum training for delivering quality software. Gain practical skills in Agile, DevOps, and Scrum principles. Free PSD I certification exam included. Enhance your software development expertise."
   courseIcon: Scrumorg-Course-APSSD-400x.png
 tags:
-- agile
-- agile-estimation
-- agile-testing
-- agility
-- automated-builds
-- bugs
-- build
-- business-agility
-- code-analysis
-- code-clone-analysis
-- code-complexity
-- code-coverage
-- code-metrics
-- code-quality
-- continious-integration
-- definition-of-done
-- development
-- development-team
-- done
-- emergent-architecture
-- engineering-practices
-- feedback
-- invest
-- mtm
-- professional-scrum
-- reporting
-- retrospective
-- scrum-team
-- scrum-org
-- self-organisation
-- software-engineering
-- solid
-- sprint
-- sprint-backlog
-- sprint-planning
-- tdd
-- team
-- teams
-- test-driven-development
-- unit-testing
-- version-control
+  - agile
+  - agile-estimation
+  - agile-testing
+  - agility
+  - automated-builds
+  - bugs
+  - build
+  - business-agility
+  - code-analysis
+  - code-clone-analysis
+  - code-complexity
+  - code-coverage
+  - code-metrics
+  - code-quality
+  - continious-integration
+  - definition-of-done
+  - development
+  - development-team
+  - done
+  - emergent-architecture
+  - engineering-practices
+  - feedback
+  - invest
+  - mtm
+  - professional-scrum
+  - reporting
+  - retrospective
+  - scrum-team
+  - scrum-org
+  - self-organisation
+  - software-engineering
+  - solid
+  - sprint
+  - sprint-backlog
+  - sprint-planning
+  - tdd
+  - team
+  - teams
+  - test-driven-development
+  - unit-testing
+  - version-control
 aliases:
-- professional-scrum-developer
-- applying-professional-scrum-with-certification
-- professional-scrum-development-team-training
-- professional-scrum-developer-training
-- professional-software-delivery-with-scrum-training
-- applying-professional-scrum-for-software-development-training
-- applying-professional-scrum-for-software-delivery-training-with-certification
-- applying-professional-scrum-for-software-development-training-with-certification
-- applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
-- /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
+  - professional-scrum-developer
+  - applying-professional-scrum-with-certification
+  - professional-scrum-development-team-training
+  - professional-scrum-developer-training
+  - professional-software-delivery-with-scrum-training
+  - applying-professional-scrum-for-software-development-training
+  - applying-professional-scrum-for-software-delivery-training-with-certification
+  - applying-professional-scrum-for-software-development-training-with-certification
+  - applying-professional-scrum-for-software-development-aps-sd-training-experience-with-certification-practices-for-scrum-teams-to-deliver-quality-software-frequently
+  - /training-courses/scrum-training-courses/applying-professional-scrum-for-software-development-aps-sd-with-certification/
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification
 date: 2017-01-01
 id: "10046"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Experience the Power of Applying Professional Scrum™ for Software Development (APS-SD) in our immersive course. Get ready to embark on a hands-on journey where you'll learn firsthand how to deliver top-notch software using Scrum, Agile, and DevOps practices.
 
@@ -163,23 +142,3 @@ In this dynamic course, you won't just study theory but actively participate in 
 As a bonus, the course includes a complimentary attempt at the globally recognized Professional Scrum Developer I certification exam (PSD I), adding a valuable credential to your professional profile.
 
 Join us on this transformative journey, where you'll gain the skills, knowledge, and practical experience to excel in software development using Scrum.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

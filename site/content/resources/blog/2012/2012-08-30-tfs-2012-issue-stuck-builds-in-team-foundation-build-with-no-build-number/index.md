@@ -2,9 +2,9 @@
 id: "7760"
 title: "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number"
 date: "2012-08-30"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs-build"
   - "tfs"
@@ -83,7 +83,7 @@ Process ID: 4756
 
 ```
 
-**Figure: WebHost failed to process a request** 
+**Figure: WebHost failed to process a request**
 
 The error message talks of “This collection already contains an address with scheme http”, dam but it is pulling a Highlander on me (There can be only one). So lets take a look at the IIS settings…
 
@@ -117,5 +117,3 @@ Kicking of a build results in… a build number and a failed build. (elation)
 While this may be a failed build it is a success for this exercise of getting the build server working…
 
 Thanks to Patrick Carnahan for his help on this one.
-
-

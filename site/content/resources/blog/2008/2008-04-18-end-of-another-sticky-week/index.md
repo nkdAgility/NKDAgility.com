@@ -2,9 +2,9 @@
 id: "237"
 title: "End of another Sticky week..."
 date: "2008-04-18"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs-sticky-buddy"
   - "wit"
   - "wpf"
@@ -28,9 +28,6 @@ One of the major improvements is the ability to add skins for different TFS life
 
 If you want a go of these features you will need to [download the source](http://www.codeplex.com/TFSStickyBuddy/SourceControl/ListDownloadableCommits.aspx) and build the main folder code... but there will be a release soon..
 
- 
+
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-
-
-

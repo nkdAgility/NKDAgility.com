@@ -2,9 +2,9 @@
 id: "248"
 title: "TFS Sticky Buddy POC (WinForms) release"
 date: "2008-02-11"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "tfs"
@@ -36,12 +36,8 @@ When the sample starts you will need to select a team foundation server from the
 
 Give it a go, and let me know how you get on....[WPF version](http://hinshelwood.com/archive/2008/02/11/tfs-sticky-buddy-poc-wpf-release.aspx "TFS Sticky Buddy POC (WPF) release") to follow...
 
- 
 
- 
+
+
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [WPF](http://technorati.com/tags/WPF) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-
-
-
-

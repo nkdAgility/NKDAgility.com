@@ -2,7 +2,7 @@
 id: "363"
 title: "Deployment documentation"
 date: "2007-07-23"
-categories: 
+categories:
   - "code-and-complexity"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -33,6 +33,3 @@ I want the vendor to provide MSI or EXE's for all releases of each of the compon
 **Has anyone been successfully?**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

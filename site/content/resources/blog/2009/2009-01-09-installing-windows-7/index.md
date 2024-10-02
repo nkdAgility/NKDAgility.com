@@ -2,7 +2,7 @@
 id: "148"
 title: "Installing Windows 7"
 date: "2009-01-09"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-18-18.png"
 author: "MrHinsh"
@@ -90,5 +90,3 @@ All in all, a very nice experience so far… I will probably be running at home 
 My computer at home is a P4 3.1Ghz with 1GB of ram… :(
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

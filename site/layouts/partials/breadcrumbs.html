@@ -4,24 +4,37 @@
     <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
 
     <!-- Walk through parent pages and build breadcrumbs in reverse order -->
-    {{ $currentPage := . }} {{ $parents := slice }} {{ $parent := $currentPage.Parent }}
+    {{ $currentPage := . }} {{ $parents := slice }}
+    {{ $parent := $currentPage.Parent }}
+
 
     <!-- Collect all parent pages -->
-    {{ with $parent }} {{ $parentPage := . }}
+    {{ with $parent }}
+      {{ $parentPage := . }}
 
-    <!-- Traverse parent pages up the hierarchy -->
-    {{ range (seq 10) }}
-    <!-- Arbitrary large number to handle deep hierarchy -->
-    {{ if $parentPage }}
-    <!-- Prepend parent to the slice -->
-    {{ $parents = union (slice $parentPage) $parents }} {{ $parentPage = $parentPage.Parent }} {{ else }} {{ break }} {{ end }} {{ end }} {{ end }}
+
+      <!-- Traverse parent pages up the hierarchy -->
+      {{ range (seq 10) }}
+        <!-- Arbitrary large number to handle deep hierarchy -->
+        {{ if $parentPage }}
+          <!-- Prepend parent to the slice -->
+          {{ $parents = union (slice $parentPage) $parents }} {{ $parentPage = $parentPage.Parent }}
+        {{ else }}
+          {{ break }}
+        {{ end }}
+
+      {{ end }}
+
+    {{ end }}
+
 
     <!-- Output the breadcrumb trail in correct order -->
     {{ range $parents }}
-    <li class="breadcrumb-item">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+      <li class="breadcrumb-item">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
     {{ end }}
+
 
     <!-- Current page (without a link) -->
     <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
@@ -41,7 +54,7 @@
   }
 
   .breadcrumb-item::after {
-    content: '>';
+    content: ">";
     margin-left: 10px;
   }
 

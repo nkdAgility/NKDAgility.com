@@ -18,6 +18,3 @@ The current capabilities of TFS are sorely under utilized as any system that use
 At the moment the licensing model is prohibitive for this, but with an enterprise edition of Team Foundation Server _likely_ to be in the works ;) I would think that this would change...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

@@ -2,11 +2,11 @@
 id: "10746"
 title: "Agility and Windows 10: Upgrading my Surface Pro 2"
 date: "2014-10-02"
-categories: 
+categories:
   - "install-and-configuration"
   - "measure-and-learn"
   - "news-and-reviews"
-tags: 
+tags:
   - "agility"
   - "dell-venue-8"
   - "surface-2-pro"
@@ -45,17 +45,17 @@ If you want to help them shape Windows 10, the last big Windows release, then yo
 You do however need to be wary and if you are not comfortable with participating in preview programs or will be unhappy if it all blows up then you should stay away.
 
 > A preview for PC experts
-> 
+>
 > Windows Technical Preview is here today, but it’s a long way from done. We’re going to make it faster, better, more fun at parties...you get the idea. [Join the Windows Insider Program](http://go.microsoft.com/fwlink/?LinkId=507619) to make sure you get all the new features that are on the way. If you’re okay with a moving target and don’t want to miss out on the latest stuff, keep reading. Technical Preview could be just your thing.
-> 
+>
 > Download and install the preview only if you
-> 
+>
 > - Want to try out software that’s still in development and like sharing your opinion about it.
 > - Don’t mind lots of updates or a UI design that might change significantly over time.
 > - Really know your way around a PC and feel comfortable troubleshooting problems, backing up data, formatting a hard drive, installing an operating system from scratch, or restoring your old one if necessary.
 > - Know what an ISO file is and how to use it.
 > - Aren't installing it on your everyday computer.
-> 
+>
 > We're not kidding about the expert thing. So if you think BIOS is a new plant-based fuel, Tech Preview may not be right for you.
 
 That said, even my dad loves being part of the early adopter programs and playing with the new bits. He is my sanity test for the non-technical user and has already been part of the Windows 8 Consumer Preview and the Windows Phone 8.1 beta program. If you do want to participate in the program you do need to understand that there is limited ability to go back. However unlike the Windows Phone preview program you can wipe your computer and start over.
@@ -120,5 +120,3 @@ That’s all I got from a first play, except to say that all my day job things w
 While I take no responsibility for any issues that you may have if you install Windows 10 I would recommend that anyone technically minded does so. And that they run it on their main computer. Take a little risk and provide feedback. The worst that can happen is that you need to reinstall Windows 8 / 7.
 
 Go on… be a kid again…
-
-

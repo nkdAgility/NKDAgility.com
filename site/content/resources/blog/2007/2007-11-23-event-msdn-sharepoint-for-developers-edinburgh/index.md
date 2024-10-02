@@ -2,9 +2,9 @@
 id: "288"
 title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
 date: "2007-11-23"
-categories: 
+categories:
   - "events-and-presentations"
-tags: 
+tags:
   - "infrastructure"
   - "moss2007"
   - "sharepoint"
@@ -38,9 +38,9 @@ I found Martin's incite into SharePoint Services 2007 very informative and inter
 - SharePoint workflow with VS2008
 
 > _The new SharePoint 2007 Workflow projects within Visual Studio 2008 look very impressive and beats the previous method in VS2005 hands down. You can find the new projects under the "Office" section of your chosen language in VS2008._
-> 
+>
 > [_![image](images/EventMSDNSharePointforDevelopers_F0A9-image_thumb-1-1.png)_](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-EventMSDNSharePointforDevelopers_F0A9-image_2.png)
-{ .post-img }
+> { .post-img }
 
 **An introduction to MOSS 2007** - [David Gristwood](http://blogs.msdn.com/david_gristwood/)
 
@@ -61,7 +61,3 @@ This was the first time I had seen David perform on stage and I was quite impres
 I found the whole thing very informative and I would recommend it to both novices and experts as it helped me fill in some of the blanks and gain incite into future improvements.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-
-

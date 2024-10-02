@@ -2,9 +2,9 @@
 id: "7744"
 title: "TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied"
 date: "2012-08-28"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs"
   - "tfs-integration-platform"
@@ -30,18 +30,16 @@ If you altered WorkSpaceRoot  in MigrationToolServers.config because you encoun
 
 [![image](images/image_thumb107-2-2.png "image")](http://blog.hinshelwood.com/files/2012/08/image108.png)  
 { .post-img }
-**Figure: Permission for TFSIPEXEC\_WPG is missing**
+**Figure: Permission for TFSIPEXEC_WPG is missing**
 
 This is because when you changed the path the TFS Integration Platform did not add the required permissions to it.
 
 ### Solution
 
-Add the TFSIPEXEC\_WPG permission to the folder with full rights.
+Add the TFSIPEXEC_WPG permission to the folder with full rights.
 
 [![image](images/image_thumb108-3-3.png "image")](http://blog.hinshelwood.com/files/2012/08/image109.png)  
 { .post-img }
 **Figure: Model dialog galore**
 
 Once you have added permissions you will be able to resolve the conflicts…
-
-

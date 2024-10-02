@@ -2,10 +2,10 @@
 id: "9446"
 title: "TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition"
 date: "2013-04-18"
-categories: 
+categories:
   - "code-and-complexity"
   - "problems-and-puzzles"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tactical"
@@ -27,7 +27,7 @@ When you are running a build you get a “TF215097 an error occurred while initi
 And you get the following nasty long error.
 
 ```
-TF215097: An error occurred while initializing a build for build definition NWCTfsCommandLine.Compile: 
+TF215097: An error occurred while initializing a build for build definition NWCTfsCommandLine.Compile:
 Exception Message: Cannot create unknown type '{clr-namespace:TfsBuildExtensions.Activities.TeamFoundationServer;assembly=TfsBuildExtensions.Activities}TfsVersion'. (type XamlObjectWriterException)
 Exception Data Dictionary:
 MS.TF.Diagnostics.Logged = True
@@ -89,5 +89,3 @@ You need to load those assemblies into Source Control and set a reference to tha
 To do this, go to your “**Build**” page in the new Team Explore. So Go to “**Team Explorer| Build | Actions | Manage Build Controllers**” and look at your list of Controllers. You should be able to figure out which controller your build is going through from your build settings and if you are on Team Foundation Service it will be called “Hosted Build Controller (Hosted)”.
 
 Select your desired controller and click “**Properties**” to see the settings that are configured. The one that we care about is the “**Version control path to custom assemblies**”. Here we need to select a single source folder from which our controller will load any custom assemblies referenced.
-
-

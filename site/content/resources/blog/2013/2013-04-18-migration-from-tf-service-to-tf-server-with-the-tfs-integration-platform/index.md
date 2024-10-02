@@ -2,9 +2,9 @@
 id: "9443"
 title: "Migration from TF Service to TF Server with the TFS Integration Platform"
 date: "2013-04-18"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "migration"
   - "tfs-integration-platform"
@@ -61,7 +61,7 @@ Work Item tracking is, if anything, easier to configure. You can use the built i
 
 In this scenario you need have both a “FieldMap” and “ValueMap” to push them together based on the value you would select in the work item Assigned To drop-down.
 
-You will need to collect the _exact_ display name of each person and ask them not to change them until you have pushed across the work items. 
+You will need to collect the _exact_ display name of each person and ask them not to change them until you have pushed across the work items.
 
 ## Conclusion
 
@@ -70,5 +70,3 @@ While you can move from Team Foundation Service to Team Foundation Server it wil
 It is not however for the faint of heart… it took us a few hours to figure out the solution above and about 12-15 failed migrations to get it right…
 
 All of this is in the documentation for the TFS Integration Platform…
-
-

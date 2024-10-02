@@ -2,7 +2,7 @@
 id: "371"
 title: "The future of software development"
 date: "2007-07-14"
-tags: 
+tags:
   - "service-oriented-architecture"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -35,6 +35,3 @@ The product team concentrates on delivering effective business solutions quickly
 The responsibility of the developer evangelist in this instance (although they have other roles) is to help the developers get to grips with the software factories and to take any feedback from the product team back to the to the factory team for them to incorporate into the next version of the factory. In addition to this they should make sure that any developmental production problems are communicated effectively to the factory team. This is probably the most important role, encompassing trainer, developer, diplomat and negotiator into one role for the aim of producing more value to the business, be it internal or external projects. The developer evangelist should be aware of, and be conversant in all of the new technologies to be able to alert the factory team in new factory opportunities and to train the product team in them. They should have good links with the vendor of the products to be able to prepare the entire development and management teams in the advantages that can be gained by the new features.
 
 With this model your business will be able to effectively deliver solutions that will provide your, or your clients, business with an advantage over the competition. Yes, it takes dedication and perseverance to start this approach as it takes time to build your initial software factories. Obviously if you already have  a development team that is currently producing solutions then it will be all but impossible to change, but if you are starting out and have the freedom to construct a development team from scratch...
-
-
-

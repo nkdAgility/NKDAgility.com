@@ -2,9 +2,9 @@
 id: "436"
 title: "Some thoughts on .NET 3.0 from LinkedIn"
 date: "2007-02-06"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -15,13 +15,13 @@ slug: "some-thoughts-on-net-3-0-from-linkedin"
 I was asked on LinkedIn:
 
 > "Are you planning to adopt .NET 3.0 in H1 2007?
-> 
+>
 > Several clients have asked me if their existing web systems can be upgraded to .NET 3.0. After some investigation, it seems that much of .NET 3.0 is available in other forms. For example, Windows Workflow looks like Biztalk in new clothes while Windows Communication Foundation does not improve on the performance of existing Web Services (though could be useful when setting up new ones). Windows Presentation Foundation/E is still only in CTP form and may require the end user to install a plugin (which removes the main advantage it may have over Flex 2/Flash 9) while I still don't see the USP for Cardspace.  
 > Are your companies using .NET 3.0 purely for new applications?  
 > Is it being used in place of other comparable technologies (e.g. Biztalk)? If so, how does .NET 3.0 compare?  
 > Have you found .NET 3.0's XML-based approach simpler to use?  
 > I am personally waiting for the official .NET 3.0 (Visual Studio "Orcas" + C# 3.0 including LINQ) release later this year before recommending .NET 3.0-based systems."
-> 
+>
 > By [Franco Milazzo](http://www.linkedin.com/in/eyetie)
 
 I answered:
@@ -45,6 +45,3 @@ I also sugested an expert:
 [Daniel Moth](http://www.danielmoth.com/Blog/ "The Moth")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-
-
-

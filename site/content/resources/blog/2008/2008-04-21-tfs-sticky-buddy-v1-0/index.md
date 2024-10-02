@@ -2,9 +2,9 @@
 id: "236"
 title: "TFS Sticky Buddy v1.0"
 date: "2008-04-21"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tfs"
   - "tfs-sticky-buddy"
   - "visual-studio"
@@ -36,13 +36,10 @@ Use the "Queries" menu to select which work items that you want loaded into your
 
 .NET Framework 3.5 Visual Studio 2008 Team Explorer (not forced) Access to a Team Foundation Server (not provided)
 
- 
+
 
 If you already have CTP1 or CTP2 you should [update](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) to the [full release now](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)...
 
- 
+
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-
-
-

@@ -2,7 +2,7 @@
 id: "329"
 title: "About Me"
 date: "2007-08-20"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -24,6 +24,3 @@ Ahh well, Scott is a much better writer than me, or he just has more patience...
 I am sure that I will adapt it over time to better reflect my experience.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

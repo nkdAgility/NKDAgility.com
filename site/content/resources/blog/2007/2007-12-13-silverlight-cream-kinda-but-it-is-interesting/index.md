@@ -2,9 +2,9 @@
 id: "278"
 title: "Silverlight cream, kinda, but it is interesting!"
 date: "2007-12-13"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "infrastructure"
   - "silverlight"
   - "sp2007"
@@ -28,7 +28,3 @@ Good luck ![smile_thinking](images/smile_thinking-3-3.gif)
 I have been finding it interesting the even recent additions to Microsoft's web content has been in Flash and I am glad to see some movement towards [dogfooding](http://www.panopticoncentral.net/archive/2004/12/10/2828.aspx) Silverlight...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [Silverlight](http://technorati.com/tags/Silverlight)
-
-
-
-

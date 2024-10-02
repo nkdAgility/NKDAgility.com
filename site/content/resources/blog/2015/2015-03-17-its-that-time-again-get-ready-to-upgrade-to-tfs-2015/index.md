@@ -2,9 +2,9 @@
 id: "11241"
 title: "It's that time again; get ready to upgrade to TFS 2015"
 date: "2015-03-17"
-categories: 
+categories:
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "tfs"
   - "tfs2005"
   - "tfs2008"
@@ -32,5 +32,3 @@ Indeed with [mainstream support for TFS 2010 scheduled to stop in July](http://s
 If you are on a version of TFS prior to 2010 you are so far out of support that a strait upgrade is no longer possible and you will need to stage through TFS 2012. No
 
 Don’t get caught short with no support for your TFS server! Get ready to upgrade to TFS 2015…
-
-

@@ -2,7 +2,7 @@
 id: "119"
 title: "Installing Visual Studio 2010 Team Suit Beta 1"
 date: "2009-05-18"
-tags: 
+tags:
   - "tools"
   - "visual-studio"
   - "vs2010"
@@ -51,6 +51,3 @@ And what does the new welcome page look like?
 Mmmmmm…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
-
-
-

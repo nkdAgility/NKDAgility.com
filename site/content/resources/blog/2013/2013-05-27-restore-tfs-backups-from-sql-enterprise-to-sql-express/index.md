@@ -2,12 +2,12 @@
 id: "9902"
 title: "Restore TFS backups from SQL Enterprise to SQL Express"
 date: "2013-05-27"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
   - "problems-and-puzzles"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "2012-2"
   - "backups"
   - "code"
@@ -34,16 +34,14 @@ You can get an error when trying to restore TFS backups that certain features ar
 If you try to restore a SQL Server database that you backed up from an Enterprise version of SQL Server (and that includes Developer Edition) you may encounter an error when trying to restore that database to another SQL Server that is Standard or Express edition.
 
 - Update I got an email from [Grant Holiday](http://blogs.msdn.com/b/granth/) with a little titbit of information.
-    
-    > Instead of running a bunch of ALTER INDEX commands, you can just follow the instructions at http://support.microsoft.com/kb/2712111, which is what the error message refers to. Essentially, run this command in each of the TFS Configuration & Collection databases:
-    > 
-    > ```
-    > EXEC [dbo].[prc_EnablePrefixCompression] @online = 0, @disable = 1
-    > 
-    > ```
-    > 
-    > \-[Grant Holiday](http://blogs.msdn.com/b/granth/)
-    
+  > Instead of running a bunch of ALTER INDEX commands, you can just follow the instructions at http://support.microsoft.com/kb/2712111, which is what the error message refers to. Essentially, run this command in each of the TFS Configuration & Collection databases:
+  >
+  > ```
+  > EXEC [dbo].[prc_EnablePrefixCompression] @online = 0, @disable = 1
+  >
+  > ```
+  >
+  > \-[Grant Holiday](http://blogs.msdn.com/b/granth/)
 
 ![Error restoring databases that uses compression to SQL Express](images/image16-1-1.png "Error restoring databases that uses compression to SQL Express")  
 { .post-img }
@@ -95,17 +93,17 @@ This collection has SQL Enterprise features enabled. If you are moving the colle
 Now that we know what the problem is we need to take steps to remove the compression that is enabled on the objects within our collection. When you create a collection with the enterprise features enabled TFS enabled the compression automatically so we will always need to down-level our databases if we encounter this issue. But first we need to find the objects…
 
 ```
-SELECT 
-SCHEMA_NAME(sys.objects.schema_id) AS [SchemaName] 
-,OBJECT_NAME(sys.objects.object_id) AS [ObjectName] 
-,[rows] 
-,[data_compression_desc] 
+SELECT
+SCHEMA_NAME(sys.objects.schema_id) AS [SchemaName]
+,OBJECT_NAME(sys.objects.object_id) AS [ObjectName]
+,[rows]
+,[data_compression_desc]
 ,[index_id] as [IndexID_on_Table]
-FROM sys.partitions 
-INNER JOIN sys.objects 
-ON sys.partitions.object_id = sys.objects.object_id 
-WHERE data_compression > 0 
-AND SCHEMA_NAME(sys.objects.schema_id) <> 'SYS' 
+FROM sys.partitions
+INNER JOIN sys.objects
+ON sys.partitions.object_id = sys.objects.object_id
+WHERE data_compression > 0
+AND SCHEMA_NAME(sys.objects.schema_id) <> 'SYS'
 ORDER BY SchemaName, ObjectName
 
 ```
@@ -153,5 +151,3 @@ Woot.. now that I have removed that enterprise only feature SQL Express now no l
 ## Conclusion
 
 Although the enterprise features are useful at scale they can get in the way when you are tinkering or if your instance is just that small. If your TFS instance is small enough to go into SQL Express I would recommend using [http://tfs.visualstudio.com](http://tfs.visualstudio.com) instead as you will always have the latest features and someone else maintains your server.
-
-

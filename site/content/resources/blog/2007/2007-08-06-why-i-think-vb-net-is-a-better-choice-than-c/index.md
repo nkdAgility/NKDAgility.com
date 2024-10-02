@@ -2,9 +2,9 @@
 id: "340"
 title: "Why I think VB.NET is a better choice than C#"
 date: "2007-08-06"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "dyslexia"
   - "tools"
   - "visual-basic"
@@ -31,13 +31,11 @@ The readability of VB.NTE is what makes it more popular. Take these pieces of co
 or (thanks [Mihir Solanki](http://www.mihirsolanki.com/) for the timely translation)
 
 > NorthwindDataContext ctx = new NorthwindDataContext();
-> 
->   
+>
 > var query = from c in ctx.Customers  
 >                   where c.Country == "UK"  
 >                   select new { Name = c.ContactTitle + " " + c.ContactName };
-> 
->   
+>
 > foreach (var c in query.Skip(2).Take(3))  
 > {  
 > Console.WriteLine(c.Name);  
@@ -76,6 +74,3 @@ Lets all try to make our code more accessible and use VB.NET.
 P.S. I don't know what I am doing wrong, I can't seems to 'smell' any of my code, neither VB.NET or C#. Hmm...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

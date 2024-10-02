@@ -2,9 +2,9 @@
 id: "6758"
 title: "Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013"
 date: "2012-07-26"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "office"
   - "office-2013"
   - "puzzles"
@@ -109,5 +109,3 @@ You can do this through Outlook:
 Or you can do this through the Mail settings in the control panel.
 
 **Did this help with you issue?**
-
-

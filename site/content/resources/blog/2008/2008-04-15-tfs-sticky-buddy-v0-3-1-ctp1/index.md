@@ -2,11 +2,11 @@
 id: "239"
 title: "TFS Sticky Buddy v0.3.1 CTP1"
 date: "2008-04-15"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
   - "tools-and-techniques"
-tags: 
+tags:
   - "code"
   - "tfs-sticky-buddy"
   - "wit"
@@ -27,23 +27,20 @@ Please remember that this is a CTP and is not fully functional. With this versio
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_3-2-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_8.png)
 { .post-img }
 
- 
+
 
 I have yet to skin the whole application so you will see some bitts that look exactly like the [Family.Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com)... yes I know.. I am a lazy developer...
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-
-
-

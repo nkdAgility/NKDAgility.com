@@ -2,9 +2,9 @@
 id: "62"
 title: "Adventures in Scrum: Lesson 2 - For the record"
 date: "2010-03-15"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "develop"
   - "people"
   - "practices"
@@ -24,7 +24,7 @@ Update 16th March 2010
 
 - [Kane Mar](http://kanemar.com/), suggested a fantastic quote from Kent Beck.
 
-* * *
+---
 
 We have been running with a “Proxy Product Owner” for the last two weeks, but a simple mistake occurred either during the “Product Planning Meeting” or the “Sprint Planning Meeting” that could have prevented this Sprint from failing. We has a heated discussion on the vision of someone not in the room which ended with the assertion that the Product Owner would be quizzed again on their vision. This did not happen and we ran with the “Proxy Product Owner’s vision for two weeks.
 
@@ -45,16 +45,14 @@ But, what is this amazing rule I hear you shout..
 Its simple, as per our rule I should have sent the following email:
 
 > “ Dear Proxy Product Owner,
-> 
+>
 > For the record, I disagree that the Product Owner wants us to ‘Update Product A to Silverlight’ as I still think that he wants us to ‘Update Component A of Product A to Silverlight’ and not the entire application.
-> 
+>
 > Regards
-> 
+>
 > Martin”  
 > \- [‘For the record’ - Rules to being Software Consultants - Dealing with Clients](http://www.ssw.com.au/ssw/Standards/Rules/RulesToBeingSoftwareConsultantsDealingWithClients.aspx#RecordDisagree)
 
 This email should have been copied to the entire Scrum Team, which would have included the Product Owner, who would have nipped this misunderstanding in the bud and we would have had one less impediment.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [Silverlight](http://technorati.com/tags/Silverlight)
-
-

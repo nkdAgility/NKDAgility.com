@@ -1,8 +1,8 @@
 ---
 id: "219"
-title: "TFS Error: MSB4018 The \"BuildShadowTask\" task failed unexpectedly"
+title: 'TFS Error: MSB4018 The "BuildShadowTask" task failed unexpectedly'
 date: "2008-07-03"
-tags: 
+tags:
   - "tfs-build"
   - "tfs"
   - "tfs2008"
@@ -51,7 +51,3 @@ Reference:
 [BuildShadowTask Failed unexpectedly - Accessor Problem (Upconvert VS 2005 to 2008) – URGENT](http://forums.microsoft.com/msdn/ShowPost.aspx?PostID=2941701&SiteID=1)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [TFS 2008](http://technorati.com/tags/TFS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-
-

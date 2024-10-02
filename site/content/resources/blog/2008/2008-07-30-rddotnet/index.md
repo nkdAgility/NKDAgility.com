@@ -2,9 +2,9 @@
 id: "216"
 title: "RDdotNET"
 date: "2008-07-30"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "off-topic"
   - "wit"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -20,6 +20,3 @@ Eventually all my bits and bobs will be up [there](http://rddotnet.com) with my 
 Hopefully you will find the ClickOnce hosting useful, if not the site content…
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [.NET](http://technorati.com/tags/.NET) [TFS](http://technorati.com/tags/TFS)
-
-
-

@@ -2,9 +2,9 @@
 id: "10558"
 title: "TFS Process Template migration script updated"
 date: "2014-06-11"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "process-template"
   - "scrum"
@@ -26,8 +26,8 @@ There are five simple steps that we need to follow:
 1. **Select** - Pick the process template that is closest to where you want to be (I recommend the Scrum template is all scenarios)
 2. **Customise** - Re-implement any customisations that you made to your old template to the new one taking into account advances in design , new features, and implementation changes. You may need to have duplicate fields to access old data.
 3. **Import** - simply overwrite the existing work item types, categories, and process configuration with your new one.  
-    _note: if you are changing the names of Work Items (for example User Story or Requirement to Product Backlog Item) then you should do this before you do the import.  
-    note: Make sure that you backup your existing work item types by exporting them from your team project._
+   _note: if you are changing the names of Work Items (for example User Story or Requirement to Product Backlog Item) then you should do this before you do the import.  
+   note: Make sure that you backup your existing work item types by exporting them from your team project._
 4. **Migrate data** - Push some data around… for example Stack Rank field is now Backlog Priority and the Story Points field is now Effort. You may also have done that DescriptionHTML in 2010 that you will want to get rid of.
 5. **Housekeeping** - if you had to keep some old fields to migrate data you can now remove them
 
@@ -169,5 +169,3 @@ The final piece of the puzzle is to update the datetime file we tried to load at
 And there you have it. Contrary to popular belief you can upgrade or migrate from one process template to another in TFS. It may be because you want to use the new features or it may be because you are radically changing you process, it can be done.
 
 Good luck with your changes…
-
-

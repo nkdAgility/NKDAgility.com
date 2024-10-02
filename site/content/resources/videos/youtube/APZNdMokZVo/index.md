@@ -13,15 +13,15 @@ isShort: False
 
 # What is a definition of done? Why is it so important?
 
-*Unlocking the Power of Definition of Done in Scrum: A Deep Dive*
+_Unlocking the Power of Definition of Done in Scrum: A Deep Dive_
 
-Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management. 
+Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the core of Scrum and Agile practices 🚀. He discusses the 'Definition of Done' and its critical importance in ensuring the highest quality of product delivery. You'll learn how this key concept not only defines product quality but also serves as the cornerstone for risk mitigation and transparency in project management. 📈 From the Agile Manifesto to practical application in Scrum, get ready for a thorough exploration! 🛠️
 
-*Overview*
+_Overview_
 
 00:00:00 Importance of 'Definition of Done'
 00:00:53 Working Product in Agile and Scrum
@@ -29,7 +29,7 @@ In this video, Martin delves into the core of Scrum and Agile practices 🚀. He
 00:02:57 Clarity in 'Definition of Done'
 00:03:37 Applying 'Definition of Done' Effectively
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to effectively implement the 'Definition of Done' in your Agile and Scrum practices, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

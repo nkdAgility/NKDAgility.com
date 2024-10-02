@@ -2,7 +2,7 @@
 id: "4140"
 title: "Visual Studio 2010 Overview - IntelliTrace and Test Impact Analysis"
 date: "2012-01-26"
-tags: 
+tags:
   - "modern-alm"
   - "nwcadence"
   - "tfs"
@@ -36,5 +36,3 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 \[screencast url="http://www.screencast.com/t/U3avnnl5" width="640" height="480"\] **Screencast: Visual Studio 2010 Overview - IntelliTrace and Test Impact Analysis**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts.If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of the [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program._
-
-

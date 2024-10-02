@@ -2,9 +2,9 @@
 id: "5368"
 title: "Installing TFS 2012 on Server 2012 with SQL 2012"
 date: "2012-06-01"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "nwcadence"
@@ -88,36 +88,28 @@ It takes very little time to get to a login , but remember that there are still 
 It may be a siney new server, but it does not have a name I would like nor can I connect over Remote Desktop. You might be wondering why I want to use RDP! Well, it has to do with configuration. I get way more options and I don’t have to settle for an ugly 4x3 display. I want everything to be a nice HD 16x9 ![Smile](images/wlEmoticon-smile-36-36.png). To achieve that I need to:
 { .post-img }
 
-1. **Enable Remote Desktop**
-    
-    By default you do not have RDP enabled. It is easy to enable.
-    
-    [![image](images/image_thumb10-1-1.png "image")](http://blog.hinshelwood.com/files/2012/05/image13.png)  
-{ .post-img }
+1.  **Enable Remote Desktop**
+        By default you do not have RDP enabled. It is easy to enable.
+
+        [![image](images/image_thumb10-1-1.png "image")](http://blog.hinshelwood.com/files/2012/05/image13.png)
+    { .post-img }
     **Figure: Enable Remote Desktop**
-    
-    Note: If you are going to connect from a pre Windows 7 computer then you will need to un-tick the “Network Level Authentication” box.
-    
-2. **Set an IP Address (no DHCP on Windows 8 client)**
-    
-    As I do not run DHCP on my Windows 8 box I need to set the IP, this is the way you want to do it anyway for demo boxes so you remember what to connect to.
-    
-    [![image](images/image_thumb11-2-2.png "image")](http://blog.hinshelwood.com/files/2012/05/image14.png)  
-{ .post-img }
+        Note: If you are going to connect from a pre Windows 7 computer then you will need to un-tick the “Network Level Authentication” box.
+2.  **Set an IP Address (no DHCP on Windows 8 client)**
+        As I do not run DHCP on my Windows 8 box I need to set the IP, this is the way you want to do it anyway for demo boxes so you remember what to connect to.
+
+        [![image](images/image_thumb11-2-2.png "image")](http://blog.hinshelwood.com/files/2012/05/image14.png)
+    { .post-img }
     **Figure: Set a static IP for your Private network**
-    
-    Note: I cheat and don’t really remember. I put the IP in the name
-    
-    [![image](images/image_thumb12-3-3.png "image")](http://blog.hinshelwood.com/files/2012/05/image15.png)  
-{ .post-img }
+        Note: I cheat and don’t really remember. I put the IP in the name
+
+        [![image](images/image_thumb12-3-3.png "image")](http://blog.hinshelwood.com/files/2012/05/image15.png)
+    { .post-img }
     **Figure: Put the IP in the name**
-    
-3. **Give my server a real name like “Kraken”**
-    
-    [![image](images/image_thumb13-4-4.png "image")](http://blog.hinshelwood.com/files/2012/05/image16.png)  
-{ .post-img }
+3.  **Give my server a real name like “Kraken”**
+        [![image](images/image_thumb13-4-4.png "image")](http://blog.hinshelwood.com/files/2012/05/image16.png)
+    { .post-img }
     **Figure: New name, then reboot**
-    
 
 Now I can access my new server by name or by IP. I tend to use IP as the name can sometimes go awry as it often can with no Active Directory.
 
@@ -165,31 +157,24 @@ I should also point out that I am a vanilla kind of guy that believes that there
 
 So, here are the small changes to the default configuration that I do specify:
 
-1. **Change default accounts for Active Directory ones**
-    
-    If you are wanting to use Kerberos or you have more than one server in your environment then you need AD Accounts. In this case I am leaving it alone and trusting that they guys that wrote the product kew what they were doing.
-    
-    [![image](images/image_thumb19-10-10.png "image")](http://blog.hinshelwood.com/files/2012/05/image22.png)  
-{ .post-img }
+1.  **Change default accounts for Active Directory ones**
+        If you are wanting to use Kerberos or you have more than one server in your environment then you need AD Accounts. In this case I am leaving it alone and trusting that they guys that wrote the product kew what they were doing.
+
+        [![image](images/image_thumb19-10-10.png "image")](http://blog.hinshelwood.com/files/2012/05/image22.png)
+    { .post-img }
     **Figure: If you are part of an AD environment use AD accounts**
-    
-    _note: I cant stress this enough: **Never change the collation… ever…  
-    **_
-    
-2. **Add Administrators or some other group to SQL**
-    
-    This is a long painful experience one. Many time I have seen SQL become inaccessible cox and account got changed. Add a group in here…
-    
-    [![image](images/image_thumb20-11-11.png "image")](http://blog.hinshelwood.com/files/2012/05/image23.png)  
-{ .post-img }
+        _note: I cant stress this enough: **Never change the collation… ever…
+        **_
+2.  **Add Administrators or some other group to SQL**
+        This is a long painful experience one. Many time I have seen SQL become inaccessible cox and account got changed. Add a group in here…
+
+        [![image](images/image_thumb20-11-11.png "image")](http://blog.hinshelwood.com/files/2012/05/image23.png)
+    { .post-img }
     **Figure: Add permissions to SQL**
-    
-    [![image](images/image_thumb21-12-12.png "image")](http://blog.hinshelwood.com/files/2012/05/image24.png)  
-{ .post-img }
+        [![image](images/image_thumb21-12-12.png "image")](http://blog.hinshelwood.com/files/2012/05/image24.png)
+    { .post-img }
     **Figure: Add permissions to Analysis Services**
-    
-    If you forgot to add permissions go back now and add them in manually. You will kick yourself if you do not.
-    
+        If you forgot to add permissions go back now and add them in manually. You will kick yourself if you do not.
 
 [![image](images/image_thumb22-13-13.png "image")](http://blog.hinshelwood.com/files/2012/05/image25.png)  
 { .post-img }
@@ -304,5 +289,3 @@ So, no SharePoint on Server 2012. Can’t say I am going to miss it. I have been
 Good luck with your 2012 deployments, I have a bunch of production upgrades this month (none with Server 2012 as well) so I will keep you posted to any issues or problems.
 
 _\-Are you deploying or upgrading to tfs 2012? Northwest Cadence has experts ready to help you with all possible configurations. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
-
-

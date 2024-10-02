@@ -2,9 +2,9 @@
 id: "10892"
 title: "Join a machine to your azure hosted domain controller"
 date: "2014-12-31"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "active-directory"
   - "azure"
 coverImage: "nakedalm-windows-logo-6-6.png"
@@ -43,5 +43,3 @@ If you right-click on the start button and select "System" you will see the curr
 Set the radio-button to "Domain" and enter the name of the domain that you want to join. As I setup "env.nakedalmweb.wpengine.com" that is what I need to enter. Once you click "OK" you will be asked for a domain administrator account to join the machine.
 
 After that a simple reboot will allow you to login to the domain with any of the domain accounts that you have configured.
-
-

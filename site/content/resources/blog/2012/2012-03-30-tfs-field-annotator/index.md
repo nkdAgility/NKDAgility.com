@@ -2,9 +2,9 @@
 id: "5061"
 title: "TFS Field Annotator"
 date: "2012-03-30"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "azure"
   - "code"
   - "infrastructure"
@@ -25,7 +25,7 @@ if you have, then the TFS Field Annotate is for you. Connect to TFS, select a Wo
 
 - Update 2013-01-16 - Now with added [James Tupper](http://blog.nwcadence.com/author/jamestupper/) features. James updated my code to include the ability to select multiple fields from TFS.
 
-* * *
+---
 
 [![image](images/image_thumb24-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image24.png)
 { .post-img }
@@ -55,21 +55,15 @@ Once you have connected to Your TFS 2010 or TFS 11 Collection you enter a Work I
 
 If you are using Windows 8 Consumer Preview you will not get an automatic launch of the application due to an extra security check for applications that come from the internet.
 
-1. Click or Press “Start” and Scroll all the way to the right
-2. Select the TFS Field Annotator
-3. When the security dialog pops up click “More Info”
-    
-    [![image](images/image_thumb25-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image25.png)  
-{ .post-img }
+1.  Click or Press “Start” and Scroll all the way to the right
+2.  Select the TFS Field Annotator
+3.  When the security dialog pops up click “More Info”
+        [![image](images/image_thumb25-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image25.png)
+    { .post-img }
     **Figure: Select More Info  
-    **
-    
-4. Click “Run anyway” to launch the application and add it to the safe list
-    
-    [![image](images/image_thumb26-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image26.png)  
-{ .post-img }
+     **
+4.  Click “Run anyway” to launch the application and add it to the safe list
+        [![image](images/image_thumb26-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image26.png)
+    { .post-img }
     Figure: Just run it anyway… no sweat…
-    
-5. Done
-
-
+5.  Done

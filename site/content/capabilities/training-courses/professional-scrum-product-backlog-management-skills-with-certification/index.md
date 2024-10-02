@@ -1,10 +1,10 @@
 ---
 categories:
-- agility
+  - agility
 author: MrHinsh
 title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
 coverImage: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 delivery:
   audience: If you're a Product Owner keen on honing your skills, or perhaps a Scrum Master aiming to support your Product Owners better, this course is for you. Product Managers and Business Analysts eager to elevate their Product Backlog management skills will also find immense value here.
@@ -55,28 +55,7 @@ card:
   button:
     content: ""
 type: courses
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Welcome to a comprehensive journey into the world of Scrum's Product Backlog Management. This course is meticulously designed to equip participants with the expertise to understand their product's essence, master the Product Backlog, engage effectively with stakeholders, promote transparency, and make data-driven decisions. With sessions ranging from stakeholder motivations to the intricacies of the Product Backlog and empirical decision-making, attendees will gain invaluable insights, irrespective of whether they're Product Owners, Scrum Masters, or Product Managers.
 
@@ -89,23 +68,3 @@ Our curriculum, rooted in real-world scenarios, ensures immediate applicability 
 3. **Stakeholder Engagement Mastery:** Stakeholders are the compass by which a product navigates. Master the art of identifying, understanding, and communicating with them, ensuring their needs and insights are woven into the fabric of the Product Backlog.
 4. **Championing Transparency:** In the world of Scrum, transparency isn't just a value; it's a guiding principle. Discover how to make your Product Backlog a beacon of clarity, ensuring all involved parties have a clear and unified vision.
 5. **Empirical Decision Making:** In an ever-evolving market, decisions grounded in empirical data can be the difference between success and stagnation. Learn to harness this data, turning it into a competitive advantage.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

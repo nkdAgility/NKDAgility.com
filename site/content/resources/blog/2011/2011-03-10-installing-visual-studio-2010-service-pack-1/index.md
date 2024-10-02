@@ -2,7 +2,7 @@
 id: "9893"
 title: "Installing Visual Studio 2010 Service Pack 1"
 date: "2011-03-10"
-tags: 
+tags:
   - "nwcadence"
   - "tools"
   - "visual-studio"
@@ -16,9 +16,7 @@ slug: "installing-visual-studio-2010-service-pack-1"
 [![vs2010logo_thumb[1]](images/Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_thumb-11-11.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-2010-Service-Pa_77C9-vs2010logo_thumb1_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. This post seams almost redundant as I had no problems, but I think that is as valuable to other thinking of installing the Service Pack as all the problems that we sometimes get.
 { .post-img }
 
-  
-
-* * *
+---
 
 As per [Brian's post](http://blogs.msdn.com/b/bharry/archive/2011/03/09/installing-all-the-new-stuff.aspx) I am [Installing Visual Studio Team Foundation Server Service Pack 1](http://blog.hinshelwood.com/archive/2011/03/10/installing-visual-studio-team-foundation-server-service-pack-1.aspx) first and indeed as this is a single server local deployment I need to install both. If I only install one it will leave the other product broken.
 
@@ -68,5 +66,3 @@ This was an easy experience even if the SP was over 1.5GB’s to download ![Smil
 { .post-img }
 
 **What were your experiences of installing Visual Studio 2010 Service pack 1?**
-
-

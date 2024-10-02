@@ -2,9 +2,9 @@
 id: "9075"
 title: "Integrating Project Server 2013 with Team Foundation Server 2012"
 date: "2012-11-02"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "project-server"
@@ -230,10 +230,10 @@ Now all we need to do is take both the names and stick them together with the ke
 Why Bug you might ask… well the Product Owners are going to be ordering Bugs along with PBI’s to reflect what needs to be done so they should be part of the rollup. Even if you are not pushing these Bugs to Project Server you do need the system to roll up any sub data. For other Process Template and for custom ones check the “Requirements Category” and the “Task Category” in the categories XML file for the full lists.
 
 ```
-TfsAdmin ProjectServer  /MapPlanToTeamProject 
-                        /collection:http://win-eo45n4fnsoc:8080/tfs/tfs01/ 
-                        /enterpriseproject:MyFirstEP 
-                        /teamproject:MyFirstTP 
+TfsAdmin ProjectServer  /MapPlanToTeamProject
+                        /collection:http://win-eo45n4fnsoc:8080/tfs/tfs01/
+                        /enterpriseproject:MyFirstEP
+                        /teamproject:MyFirstTP
                         /workitemtypes:"Product Backlog Item,Bug,Task"
 
 ```
@@ -264,5 +264,3 @@ This completely blocked me for a while as the documentation is rather confusing 
 Just because I am blocked on my test environment does not mean that while not encompassing all of the options this should give you a start into creating Enterprise Project Plans in Project Server 2013 and syncing data between it and Team Projects in Team Foundation Server 2012.
 
 It is not the easiest thing in the world to integrate Project Server 2013 with Team Foundation Server 2012 but the benefits, when coupled with solid agile processes can be powerful. Leaving the Tasks to the Development Team and the low level PBI’s to the Product Owner and concentrating on organising and ordering the big rocks can be hard for many PMO offices that are use to task down management, but it is necessary. Your teams can and will surprise you.
-
-

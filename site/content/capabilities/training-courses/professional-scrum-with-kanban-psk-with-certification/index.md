@@ -1,6 +1,6 @@
 ---
 categories:
-- agility
+  - agility
 type: courses
 card:
   content: ""
@@ -45,72 +45,31 @@ delivery:
     [Read more](https://www.scrum.org/scrumorg-professional-scrum-kanban-training-student-reviews-and-feedback "Scrum.org Professional Scrum Foundations Training Student Reviews and Feedback") about our PSK student surveys and their feedback
   type: Scrum
   brand:
-    colour: '#65073a'
+    colour: "#65073a"
     vendor: scrum-org
   lead: Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum practitioners how to apply Kanban practices to their work. Through theory, case studies, and hands-on exercises, participants will understand the importance of transparency and flow as it pertains to the Scrum framework."
   courseIcon: Scrumorg-Course-PSK-400x.png
 tags:
-- agile
-- certification
-- flow
-- kanban
-- professional-kanban
-- professional-scrum
-- professional-scrum-with-kanban
-- scrum-org
+  - agile
+  - certification
+  - flow
+  - kanban
+  - professional-kanban
+  - professional-scrum
+  - professional-scrum-with-kanban
+  - scrum-org
 aliases:
-- professional-scrum-with-kanban-psk
-- professional-scrum-with-kanban-psk-training
-- professional-scrum-with-kanban-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
+  - professional-scrum-with-kanban-psk
+  - professional-scrum-with-kanban-psk-training
+  - professional-scrum-with-kanban-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
 slug: professional-scrum-with-kanban-psk-with-certification
 date: 2018-02-26
 id: "38325"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [Professional Scrum with Kanban™ (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. It helps experienced Scrum practitioners implement a **Kanban strategy** within the context of Scrum to help actively improve the effectiveness of their team.The course goes beyond the topics explored in the [Professional Scrum Master (PSM)](https://nkdagility.com/training/courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it/) & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants' understanding by introducing lean practices.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the APS, PSM, or PSPO class is recommended but not required.
 
 - Session 1: 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗦𝗰𝗿𝘂𝗺 𝗣𝗿𝗶𝗺𝗲𝗿Session 2: 𝗞𝗮𝗻𝗯𝗮𝗻 𝗶𝗻 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲Session 3: 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗳 𝗩𝗶𝘀𝘂𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻𝘀Session 4: 𝗜𝗺𝗽𝗮𝗰𝘁 𝗼𝗻 𝗘𝘃𝗲𝗻𝘁𝘀, 𝗔𝗰𝗰𝗼𝘂𝗻𝘁𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀, & 𝗔𝗿𝘁𝗲𝗳𝗮𝗰𝘁𝘀
 
 Each session includes STARTUP activities before and WRAPUP activities to be completed after each session. Before, during, and after the class, students can interact with other students and thought leaders in our Lean-Agile Community.The course also includes a free attempt at the globally recognised Professional Scrum with Kanban I (PSK I) certification exam.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

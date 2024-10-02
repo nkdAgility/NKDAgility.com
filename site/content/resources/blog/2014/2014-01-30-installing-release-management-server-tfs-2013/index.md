@@ -2,9 +2,9 @@
 id: "10351"
 title: "Installing Release Management Server for TFS 2013"
 date: "2014-01-30"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "inrelease"
   - "install"
   - "release-management"
@@ -28,7 +28,7 @@ Note: If you want to take the public download offline you can run "setup.exe /la
 { .post-img }
 Figure: ISO for Release Management for Visual Studio 2013
 
-Here I am simply running the rm\_server.exe in the 'Server' folder on the ISO.
+Here I am simply running the rm_server.exe in the 'Server' folder on the ISO.
 
 ![clip_image002](images/clip_image0022-2-2.png "clip_image002")  
 { .post-img }
@@ -63,5 +63,3 @@ Now all we have to do is apply the changes..
 Figure: All Configuration tasks have completed successfully
 
 And low… we have a Release Management Server for Team Foundation Server 2013… First configuration is a little tricky and I covered that in [Installing Release Management Client for Visual Studio 2013](http://nkdagility.com/installing-release-management-client-visual-studio-2013/)…
-
-

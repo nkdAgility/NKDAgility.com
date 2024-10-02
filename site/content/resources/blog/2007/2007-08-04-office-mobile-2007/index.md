@@ -2,9 +2,9 @@
 id: "346"
 title: "Office Mobile 2007"
 date: "2007-08-04"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "answers"
   - "windows-mobile-6"
 coverImage: "metro-office-128-link-1-1.png"
@@ -22,6 +22,3 @@ I had already installed OneNote to assist with my note taking in the Office as 
 It is good that this is a free update...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-
-
-

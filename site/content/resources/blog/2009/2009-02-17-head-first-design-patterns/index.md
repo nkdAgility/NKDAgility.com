@@ -2,9 +2,9 @@
 id: "137"
 title: "Head First Design Patterns"
 date: "2009-02-17"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "code"
   - "develop"
   - "dyslexia"
@@ -30,6 +30,3 @@ The [Head First](http://www.headfirstlabs.com/) series uses pictures and concept
 I would recommend this book to any budding and exiting author of technical books…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-
-

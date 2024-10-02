@@ -2,9 +2,9 @@
 id: "9714"
 title: "Release planning and predictable delivery"
 date: "2020-11-24"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "backlog-management"
   - "company-culture"
   - "continuous-quality"
@@ -79,16 +79,16 @@ The only way to handle technical debt is to stop creating it, and then pay a lit
 1. Create a **[short measurable checklist](/blog/getting-started-definition-done-dod/)** that mirrors minimum releasable product ([Defenition of Done](/blog/getting-started-definition-done-dod/))
 2. Stop adding new features and **make your product meet that checklist** and release your product
 3. While you have an increment of working software ([Sprint](/the-2020-scrum-guide/#the-sprint))
-    1. **Work to create something of value ([Increment](/the-2020-scrum-guide/#increment))**
-        1. Work towards a new goal while meeting the DOD ([Sprint Goal](/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog/))
-        2. Leave things better than you found them (Engineering Excellence)
-    2. **Review that thing of value with your stakeholders ([Sprint Review](/the-2020-scrum-guide/#sprint-review), Backlog Adaption)**
-        1. Get feedback on at least one new thing for stakeholders
-        2. Update the Backlog to reflect this new information
-    3. **Reflect on how you worked with your entire team ([Sprint Retrospective](/the-2020-scrum-guide/#sprint-retrospective), Kaizen)**
-        1. Is quality increasing?
-        2. Is the DOD increasing?
-        3. What can we change to make things better?
+   1. **Work to create something of value ([Increment](/the-2020-scrum-guide/#increment))**
+      1. Work towards a new goal while meeting the DOD ([Sprint Goal](/blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog/))
+      2. Leave things better than you found them (Engineering Excellence)
+   2. **Review that thing of value with your stakeholders ([Sprint Review](/the-2020-scrum-guide/#sprint-review), Backlog Adaption)**
+      1. Get feedback on at least one new thing for stakeholders
+      2. Update the Backlog to reflect this new information
+   3. **Reflect on how you worked with your entire team ([Sprint Retrospective](/the-2020-scrum-guide/#sprint-retrospective), Kaizen)**
+      1. Is quality increasing?
+      2. Is the DOD increasing?
+      3. What can we change to make things better?
 4. Go to #1
 
 You can call the activity that results from dropping out of the while loop of working software to be a **Scrumble**; You need to stop piling more features on top of the features that don’t work and fix things so that you can make new things. Ultimately [professional teams build software that works](/blog/professional-scrum-teams-build-software-works/).
@@ -105,5 +105,3 @@ There are a number of strategies that can help you both stop creating and start 
 - **Use a modern source control system** - A [modern source control system is more than just code management](/blog/getting-started-with-modern-source-control-system-and-devops/), it should include all of the goodies talked about in DevOps practices and beyond.
 
 If you can, do them all, and many more…
-
-

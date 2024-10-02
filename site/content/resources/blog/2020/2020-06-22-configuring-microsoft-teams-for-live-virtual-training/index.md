@@ -2,7 +2,7 @@
 id: "44452"
 title: "Configuring Microsoft Teams for Live Virtual Training"
 date: "2020-06-22"
-categories: 
+categories:
   - "agility"
   - "tools-and-techniques"
 coverImage: "image-14-4-4.png"
@@ -39,8 +39,6 @@ https://www.meetup.com/the-future-of-work-in-Scotland/
 Future of Work Scotland
 
 </figcaption>
-
-
 
 </figure>
 
@@ -132,7 +130,7 @@ There is a feature that is currently in preview called [one-time passcode authen
 If a guest has not accepted the invitation when they hit one of your authenticated URL's, for example, the Team URL, then they are instead sent a one-time passcode to their email address and they can use that to log in for 30 minutes. After which they will automatically be sent a new passcode. Simples!
 
 > One-time passcodes are valid for 30 minutes. After 30 minutes, that specific one-time passcode is no longer valid, and the user must request a new one. User sessions expire after 24 hours.
-> 
+>
 > [one-time passcode authentication](https://docs.microsoft.com/en-gb/azure/active-directory/b2b/one-time-passcode)
 
 When one of your guests try's to use either the invitation link that was sent to them or the link to the secure resource and:
@@ -174,5 +172,3 @@ Branding and Custom Domain in action
 ## Conclusion to Configuring Microsoft Teams for Live Virtual Training
 
 While there is a lot of setup and configuration before you can run your first class the holistic experience for students is far better than any of the other platforms that I have used or participated in.
-
-

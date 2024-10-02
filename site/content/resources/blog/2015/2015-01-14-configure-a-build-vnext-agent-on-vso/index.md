@@ -2,9 +2,9 @@
 id: "11021"
 title: "Configure a Build vNext Agent"
 date: "2015-01-14"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "build"
   - "tfs"
   - "tfs-2015"
@@ -120,7 +120,7 @@ PS C:\VsoWinAgent>
 
 ```
 
- At this point we then have the agent configured as a service and it should start automatically with the server.
+At this point we then have the agent configured as a service and it should start automatically with the server.
 
 [![clip_image012](images/clip_image012_thumb-23-23.png "clip_image012")](http://nkdagility.com/wp-content/uploads/2014/12/clip_image0121-24-24.png)
 { .post-img }
@@ -135,5 +135,3 @@ The new build system promises to be both versatile and much simpler than its pre
 { .post-img }
 
 …thanks Chris!
-
-

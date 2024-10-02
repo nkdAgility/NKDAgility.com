@@ -13,13 +13,13 @@ isShort: False
 
 # 5 ghosts of agile past. certification
 
-*_Debunking Agile Certifications: A Realistic Look at Their Impact_* - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world. 
+_*Debunking Agile Certifications: A Realistic Look at Their Impact*_ - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 🎬 In this video, Martin takes a deep dive into the controversial topic of agile certifications. 🤔 He challenges common perceptions and sheds light on how these certifications might be hindering rather than helping. Watch as he provides a unique perspective on the actual value of certifications in professional development and learning within the agile field. 🌟
 
-*Key Takeaways:*
+_Key Takeaways:_
 00:00:00 Introduction to Agile Certifications
 00:00:22 Impact of Certifications on Learning
 00:01:02 Certifications as a Starting Point
@@ -27,7 +27,7 @@ isShort: False
 00:03:01 Becoming a Scrum Master
 00:05:21 Overcoming the Agile Certification Ghost
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to understand the real value of agile certifications_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

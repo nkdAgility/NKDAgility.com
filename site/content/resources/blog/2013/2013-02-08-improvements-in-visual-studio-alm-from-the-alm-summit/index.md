@@ -2,10 +2,10 @@
 id: "9239"
 title: "Improvements in Visual Studio ALM from the ALM Summit"
 date: "2013-02-08"
-categories: 
+categories:
   - "events-and-presentations"
   - "tools-and-techniques"
-tags: 
+tags:
   - "define"
   - "dvcs"
   - "git"
@@ -88,5 +88,3 @@ There were so many new features that it is hard to pick out a clear favourite. I
 **Figure: Traceability in Team Foundation Server**
 
 We are starting to see the enablement of the traceability story for a wider audience and across more platforms.
-
-

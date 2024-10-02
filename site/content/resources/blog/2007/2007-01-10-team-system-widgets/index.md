@@ -2,7 +2,7 @@
 id: "445"
 title: "Team System Widgets"
 date: "2007-01-10"
-tags: 
+tags:
   - "tfs"
 author: "MrHinsh"
 type: blog

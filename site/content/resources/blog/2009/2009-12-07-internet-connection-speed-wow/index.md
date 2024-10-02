@@ -2,7 +2,7 @@
 id: "78"
 title: "Internet connection speed, WOW"
 date: "2009-12-07"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-5-1.png"
 author: "MrHinsh"
@@ -37,7 +37,7 @@ Here is the speed in your flavour of choice:
 \=**3.201** MB/sec \[Megabyte-per-second\]  
 \=**3201** KB/sec \[Kilobyte-per-second\]
 
-[](http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/ "http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/")[http://www.mediaroad.com/products/speedcheck/free\_tools/unit\_convert/](http://bit.ly/5QF2HG "http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/")
+[](http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/ "http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/")[http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/](http://bit.ly/5QF2HG "http://www.mediaroad.com/products/speedcheck/free_tools/unit_convert/")
 
 And that's not the fastest it was ripping Project from the Microsoft site, it was just the speed when my PrtScr kicked in… it was up around the 4.xx mark!
 
@@ -63,5 +63,3 @@ it just gets better and better:
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SSW](http://technorati.com/tags/SSW)
-
-

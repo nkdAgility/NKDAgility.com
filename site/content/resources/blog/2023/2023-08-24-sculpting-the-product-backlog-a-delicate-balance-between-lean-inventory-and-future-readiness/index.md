@@ -2,10 +2,10 @@
 id: "49523"
 title: "Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness"
 date: "2023-08-24"
-categories: 
+categories:
   - "measure-and-learn"
   - "people-and-process"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "image-1.jpg"
@@ -37,9 +37,3 @@ _Perhaps it would be a good idea to meet regularly and reflect on the work done,
 Finally, it’s essential to recognize that the Product Backlog is not a static artefact. It's akin to a sculpture that is continuously refined. As product managers and team members, we are the sculptors. Our chisels and hammers are the insights we gain from continuous reflection and learning. The final sculpture is a Product Backlog that embodies disciplined elegance – lean, sufficient, and just forward-looking enough to be helpful.
 
 **_Is your product backlog a lean inventory of your team's best guess at the unreleased value your product needs to maximise the ROI for your stakeholders?_**
-
-
-
-
-
-

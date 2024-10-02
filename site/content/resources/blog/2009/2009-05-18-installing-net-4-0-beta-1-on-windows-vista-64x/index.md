@@ -2,9 +2,9 @@
 id: "120"
 title: "Installing .NET 4.0 Beta 1 on Windows Vista 64x"
 date: "2009-05-18"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tools"
 coverImage: "metro-binary-vb-128-link-4-4.png"
@@ -35,6 +35,3 @@ You can find out what is new in the framework  from these blogs:
 [http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx](http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx "http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
-
-
-

@@ -1,7 +1,7 @@
 ---
 title: Product Increment
 type: practice
- - practices/product-increment.html
+  - practices/product-increment.html
 recommendedContent:
 date: 2024-09-17
 author: MrHinsh
@@ -14,4 +14,3 @@ aliases:
 ---
 
 ## What is a Product Increment?
-

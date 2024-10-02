@@ -2,10 +2,10 @@
 id: "3692"
 title: "Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!"
 date: "2011-07-22"
-categories: 
+categories:
   - "events-and-presentations"
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "develop"
   - "kanban"
@@ -35,7 +35,7 @@ Hopefully [Steve1](http://blog.nwcadence.com/author/stevenborg/) can do a better
 - **2011-07-29 – The Recording** -  For those that attended the recording will be made available to you now through Northwest Cadence, I am working on making it available here as well.
 - **2011-10-27 – The Recording** - I have added the recording
 
-* * *
+---
 
 If you missed todays bout then you are in for a treat as Steve Borg and I go head to head again for a second round of [Scrum vs Kanban](http://scrumvskanbanrematch.eventbrite.com/) … here is what one of the attendees said about the first session:
 
@@ -49,11 +49,8 @@ Am I willing to make a prediction?
 If however you have had your fill of one process battering lumps out of the other and you have chosen you path, or even if you are still on the fence, you can come and see the rest of the sessions:
 
 - [**Coffee Talk: Scrum vs Kanban (re-match)**](http://scrumvskanbanrematch.eventbrite.com/) - 2011-7-28 (high noon– 12PM PST) - [**Join NOW**](https://www103.livemeeting.com/cc/nwcadence/join?id=CoffeeTalk72811&pw=NWCadence) Scrum versus Kanban   Scrum is a process model that promotes highly iterative, value driven development and has been successfully..
-    
-    \[wpvideo Wbd7WBd2\]
-    
-    **Figure: Coffee talk: Scrum vs Kanban**
-    
+  \[wpvideo Wbd7WBd2\]
+  **Figure: Coffee talk: Scrum vs Kanban**
 - [**Coffee Talk: Introduction to Kanban**](http://introtokanban-eorg.eventbrite.com/) \- 2011-8-5  (9AM – 10AM PST) Introduction to Kanban Kanban is a Lean-inspired approach to software development.  Although the rules of Kanban are simple, they...
 - [**Coffee Talk: Introduction to Scrum**](http://introtoscrum-eorg.eventbrite.com/)  **-** 2011-8-19 (9AM – 10AM PST) Introduction to Scrum   Scrum is the most adopted agile methodology.  Time and again, it has transformed low performing development teams...
 - [**Coffee Talk: Visualize Work – The Power of Big Visible Displays**](http://visualizework-eorg.eventbrite.com/)  **-** 2011-09-09 (9AM – 10AM PST) Visualize Work: The Power of Big Visible Displays Visible work has a profound impact on a team.  By making work visible, teams can...
@@ -63,5 +60,3 @@ If however you have had your fill of one process battering lumps out of the othe
 - [**Coffee Talk: Limit Work in Process (WIP) –**](http://limitwip2-eorg.eventbrite.com/) 2011-11-04 (9AM – 10AM PST) Limit Work in Process (WIP)  Overloaded individuals and teams suffer from bad multitasking. they are also cursed with long lead times,...
 
 The sessions are deliberately split so you can see Scrum, Kanban and some of the practices that benefit both separately.
-
-

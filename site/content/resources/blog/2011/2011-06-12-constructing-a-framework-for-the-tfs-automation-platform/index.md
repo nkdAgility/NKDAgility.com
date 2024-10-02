@@ -2,7 +2,7 @@
 id: "3641"
 title: "Constructing a framework for the TFS Automation Platform"
 date: "2011-06-12"
-tags: 
+tags:
   - "nwcadence"
   - "tfs"
   - "tfs2010"
@@ -16,9 +16,7 @@ slug: "constructing-a-framework-for-the-tfs-automation-platform"
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.
 { .post-img }
 
-  
-
-* * *
+---
 
 I have been working on a framework that will allow the developers to get started building for the TFS Automation Platform and specifically to meet the goals for Release 1. I should note that I am not writing any code at this time I am putting together the jigsaw and selecting some technologies.
 
@@ -30,7 +28,7 @@ This method also allows us to both version and release the Automations separatel
 
 While I intend to keep the Automation Platform as simple as possible, that does not mean that it actually is simple. There are really three parts to the Platform that need to be installed separately, but Mike’s help we should be able to have a unified installer.
 
- [![image](images/image_thumb12-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image12.png)  
+[![image](images/image_thumb12-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image12.png)  
 { .post-img }
 **Figure: The Platform needs to be very structured**
 
@@ -54,7 +52,7 @@ This handles all of the grunt work of downloading, installing, Deploying, retrac
 { .post-img }
 **Figure: Very Similar to the Store for now**
 
-The Admin section handles all of the magic of configuring and auctioning all of the Plugins. 
+The Admin section handles all of the magic of configuring and auctioning all of the Plugins.
 
 ### **Client**
 
@@ -76,8 +74,6 @@ Now that everything is checked in, I will be encouraging my team mates to explor
 
 [![SNAGHTML5342ea](images/SNAGHTML5342ea_thumb-6-6.png "SNAGHTML5342ea")](http://blog.hinshelwood.com/files/2011/06/SNAGHTML5342ea.png)  
 { .post-img }
-**Figure: Lots of lovely places to put code**  
+**Figure: Lots of lovely places to put code**
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.
-
-

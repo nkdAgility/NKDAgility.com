@@ -2,9 +2,9 @@
 id: "7104"
 title: "TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled"
 date: "2012-08-09"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tfs"
   - "tfs-integration-platform"
@@ -20,24 +20,26 @@ When you run the TFS Integration Platform for the first time with TFS WIT bypass
 { .post-img }
 **Figure: A Runtime Error**
 
-> Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.PermissionException: TFS WIT bypass-rule submission is enabled. However, the migration service account 'TFSService' is not in the Service Accounts Group on server 'http://tfsserver:8080/tfs/msf\_migrate'.
-> 
->    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.VersionSpecificUtils.CheckBypassRulePermission(TfsTeamProjectCollection tfs)
-> 
->    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsCore.CheckBypassRulePermission()
-> 
->    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsWITMigrationProvider.InitializeTfsClient()
-> 
->    at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsWITMigrationProvider.InitializeClient()
-> 
->    at Microsoft.TeamFoundation.Migration.Toolkit.MigrationEngine.Initialize(Int32 sessionRunId)
+> Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.PermissionException: TFS WIT bypass-rule submission is enabled. However, the migration service account 'TFSService' is not in the Service Accounts Group on server 'http://tfsserver:8080/tfs/msf_migrate'.
+>
+> at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.VersionSpecificUtils.CheckBypassRulePermission(TfsTeamProjectCollection tfs)
+>
+> at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsCore.CheckBypassRulePermission()
+>
+> at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsWITMigrationProvider.InitializeTfsClient()
+>
+> at Microsoft.TeamFoundation.Migration.Tfs2010WitAdapter.TfsWITMigrationProvider.InitializeClient()
+>
+> at Microsoft.TeamFoundation.Migration.Toolkit.MigrationEngine.Initialize(Int32 sessionRunId)
 
 ### ![](images/metro-applies-to-label-3-3.png)Applies To
+
 { .post-img }
 
 - TFS Integration Platform
 
 ### ![](images/metro-findings-label-4-4.png)Findings
+
 { .post-img }
 
 Only accounts in the Team Foundation Service Accounts are aloud to access the web services directly. By default the account used to install TFS is not added to this group.
@@ -54,6 +56,7 @@ You need to use the the command line ![Sad smile](images/wlEmoticon-sadsmile-7-7
 { .post-img }
 
 ### ![](images/metro-solution-label-6-6.png)Solution
+
 { .post-img }
 
 Use the tfssecurity.exe tool to update the Service Accounts Group and add the “TfsAdmin”.
@@ -72,5 +75,3 @@ tfssecurity /g+ "Team Foundation Service Accounts" n:domainusername ALLOW /serve
 Now you have that sorted you are ready to rock…
 
 **Did this help you?**
-
-

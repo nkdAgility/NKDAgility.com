@@ -2,9 +2,9 @@
 id: "44418"
 title: "Live Virtual Classroom's and the new normal"
 date: "2020-06-18"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "leadership-track"
 coverImage: "image-1-1-1.png"
 author: "MrHinsh"
@@ -17,7 +17,7 @@ With the change in business model in the current crisis, many training organizat
 **We were Wrong!**
 
 > In-person pass rates are slightly higher 6% looking only at students from 2020.
-> 
+>
 > Scrum.org Assessment Result
 
 When Scrum and Agile were first conceptualized the idea of colocation meant that we had to have everyone in the same place in order to get that extra 80% of communication that is non-verbal.
@@ -58,5 +58,3 @@ I think this especially makes sense for the world of product delivery. Why go to
 **Welcome the New Normal**
 
 I am sure that an extrovert might have a different opinion initially, however, once we are out of lockdown and able to socialize in-person again I am sure that they can find their fix. For those of us in the knowledge industry, this is a new era. Embrace it, adapt to it, or it may just leave you behind!
-
-

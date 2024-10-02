@@ -13,20 +13,20 @@ isShort: False
 
 # Why is Scrum so easy to understand but incredibly hard to master?
 
-*Unraveling the Complexity of Mastering Scrum: Insights and Strategies* - Discover the nuances of mastering Scrum in our latest video, where we delve into why this framework is easy to understand yet challenging to master. Tune in for insightful strategies!
+_Unraveling the Complexity of Mastering Scrum: Insights and Strategies_ - Discover the nuances of mastering Scrum in our latest video, where we delve into why this framework is easy to understand yet challenging to master. Tune in for insightful strategies!
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 🎬 In this video, Martin explores the intriguing paradox of Scrum: its deceptive simplicity and the challenges in mastering it. 🤔 He draws comparisons to sports, discusses organizational impacts, and emphasizes the importance of transparency and adaptability in Scrum implementation. 🚀 Join us as we uncover the layers behind successful Scrum practices and how to navigate its complexities in your organization. 💡
 
-*Key Takeaways:*
+_Key Takeaways:_
 00:00:10 Scrum's Easy Understanding vs. Mastery
 00:00:32 Sports Analogy & Individual Capabilities
 00:01:05 Organizational Impact on Scrum
 00:01:28 Role of Transparency in Scrum
 00:02:52 Common Misapplications in Scrum Events
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _find it hard to master Scrum or struggle with implementing its principles effectively_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

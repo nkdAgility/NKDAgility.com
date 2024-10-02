@@ -2,9 +2,9 @@
 id: "26"
 title: "Calculating the Rank of your blog posts or pages"
 date: "2010-09-10"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "ssw"
@@ -19,9 +19,7 @@ slug: "calculating-the-rank-of-your-blog-posts-or-pages"
 ![WeeManWithQuestions](images/e72c59b050ae_D1D8-WeeManWithQuestions_-9-9.png)I had an idea to have blog posts, or Rules listed not in date order, or an arbitrary order, but in some sort of calculated order. For this I would need to get data from somewhere and I fancied using; Number of Comments, Number of Trackbacks, Reddit, Digg, FriendFeed Twitter and Google Page rank. In this sample I use the term Rangler as a cross between Wrangler and Rank, but they are really Data Collectors.
 { .post-img }
 
-  
-
-* * *
+---
 
 This is really an exploratory brain dump and proof-of-concept, so please excuse any bad code or practices ![Smile](images/e72c59b050ae_D1D8-wlEmoticon-smile_2-10-10.png)
 { .post-img }
@@ -47,7 +45,6 @@ I built a really simple interface that I could use to test the concept with all 
 ![image](images/e72c59b050ae_D1D8-image_-7-7.png)
 { .post-img }
 
-  
 **Figure: This blog post gets a rank of 2460**
 
 As you can see my UI skills are fantastic ![Smile](images/e72c59b050ae_D1D8-wlEmoticon-smile_2-10-10.png)
@@ -56,7 +53,6 @@ As you can see my UI skills are fantastic ![Smile](images/e72c59b050ae_D1D8-wlEm
 ![image](images/e72c59b050ae_D1D8-image_-4-4.png)
 { .post-img }
 
-  
 **Figure: Only 1 tweet for this rule**
 
 If you rank your pages this way then you can see which pages are lost causes and which it is worth spending some time keeping up to date and augmenting. Or visa-versa if you are looking for content that has not had much love in a while and you want to try and increase its standing.
@@ -68,7 +64,6 @@ It was implemented as a WPF application that calls a web service to get the data
 ![image](images/e72c59b050ae_D1D8-image_-6-6.png)
 { .post-img }
 
-  
 **Figure: Adding a new “Rangler” is a matter of adding a new assembly to the bin folder. No need to touch existing code.**
 
 As you can see I don’t have many tests and I really just used them to test each layer prior to getting the UI up and running. I think I wrote 4 tests in total.
@@ -76,7 +71,6 @@ As you can see I don’t have many tests and I really just used them to test eac
 ![image](images/e72c59b050ae_D1D8-image_-8-8.png)
 { .post-img }
 
-  
 **Figure: Ranglers are loaded dynamically if they are placed in the Bin directory of the website.**
 
 I wanted a rudimentarily extensible platform even at this stage as I like to switch code in and out to see which performs best. One of the first improvements I would use at this stage is to hand the calculating of the score over to the individual Ranglers as you may want to have some crazy calculation changes at a later date.
@@ -117,7 +111,6 @@ The web service calls the RanglerManager which is responsible for looking after 
 ![clip_image014](images/e72c59b050ae_D1D8-clip_image014_-1-1.jpg)
 { .post-img }
 
-  
 **Figure: The BackType Rangler pulls back an XML feed from BackType’s servers with lots of data**
 
 The BackType Rangler calls the BackType API and parses out the returned statistics in a custom data class.
@@ -138,19 +131,19 @@ Although this is just a small proof-of-concept you can imagine this applied to h
 Calculation for [http://www.ssw.com.au/SSW/Standards/Rules/RulestoBetterEmail.aspx](http://www.ssw.com.au/SSW/Standards/Rules/RulestoBetterEmail.aspx) (yes I know it is not one rule, but it is one page) would be based on:
 
 - Facebook Likes: 0  
-    ([http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx](http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx))
+   ([http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx](http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx))
 
 - Tweets: 9  
-    ([http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx](http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx))
+   ([http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx](http://www.backtype.com/page/www.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx))
 
 - Digs: 16  
-    ([http://digg.com/tech\_news/SSW\_Rules\_to\_Better\_Email)](http://digg.com/tech_news/SSW_Rules_to_Better_Email))
+   ([http://digg.com/tech_news/SSW_Rules_to_Better_Email)](http://digg.com/tech_news/SSW_Rules_to_Better_Email))
 
 - Links: 56  
-    ([http://www.google.co.uk/#hl=en&source=hp&q=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&btnG=Google+Search&rlz=1R2GGLL\_enAU343&aq=f&aqi=&aql=&oq=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&gs\_rfai=&fp=abea52fcfe603f61)](http://www.google.co.uk/#hl=en&source=hp&q=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&btnG=Google+Search&rlz=1R2GGLL_enAU343&aq=f&aqi=&aql=&oq=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&gs_rfai=&fp=abea52fcfe603f61))
+   ([http://www.google.co.uk/#hl=en&source=hp&q=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&btnG=Google+Search&rlz=1R2GGLL_enAU343&aq=f&aqi=&aql=&oq=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&gs_rfai=&fp=abea52fcfe603f61)](http://www.google.co.uk/#hl=en&source=hp&q=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&btnG=Google+Search&rlz=1R2GGLL_enAU343&aq=f&aqi=&aql=&oq=links%3Ahttp%3A%2F%2Fwww.ssw.com.au%2FSSW%2FStandards%2FRules%2FRulestoBetterEmail.aspx&gs_rfai=&fp=abea52fcfe603f61))
 
 - Google: **3/10  
-    ([http://www.prchecker.info/check\_page\_rank.php](http://www.prchecker.info/check_page_rank.php))**
+   ([http://www.prchecker.info/check_page_rank.php](http://www.prchecker.info/check_page_rank.php))**
 
 The whole purpose of this is to surface content on your site that is popular, and to identify where you should spend your time; be it at the bottom or the top.
 
@@ -159,6 +152,3 @@ The whole purpose of this is to surface content on your site that is popular, an
 - **What other data collectors would you like to see?**
 
 Technorati Tags: [Links](http://technorati.com/tags/Links),[.NET](http://technorati.com/tags/.NET),[WCF](http://technorati.com/tags/WCF)
-
-
-

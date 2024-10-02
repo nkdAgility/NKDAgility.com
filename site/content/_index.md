@@ -1,12 +1,12 @@
 ---
 title: "naked Agility"
 url: "/"
-headline: 
+headline:
   title: "Our Value Proposition"
   subtitle: "We help companies deliver real value through working products, empowering teams, and providing expert guidance."
   content: |
     By prioritizing evidence-based decisions, measurable impact, and continuous improvement, we ensure that our strategies are tailored to your unique needs. With a focus on collaboration, transparency, and social responsibility, we are committed to driving sustainable success for your business. 
-    
+
     Our core values—courage, commitment, focus, respect, and openness—guide everything we do, putting your customers and outcomes first.
   cards:
     - title: "Technical Leadership & Engineering Excellence"
@@ -20,12 +20,12 @@ headline:
     - title: "Training & Mentoring"
       content: |
         At NKD Agility, we provide a comprehensive suite of training and mentoring programs aimed at empowering teams and individuals to excel in todays dynamic business environment. Our focus spans a variety of key technologies and practices, including Lean Agile methodologies like Scrum and Kanban, as well as technical expertise in DevOps, Azure DevOps, GitHub, and the latest innovations in AI with Copilot. These programs are designed to drive productivity, innovation, and operational excellence across all levels of your organization. 
-        
+
         Our mentoring and training offerings emphasize the integration of modern practices such as platform engineering and Agile leadership, ensuring that teams are equipped to tackle the challenges of the evolving digital landscape. By focusing on both strategic leadership development and hands-on tools training, we provide the skills necessary to foster engineering excellence and guide organizations toward continuous improvement and success.
       image: ~
     - title: "Azure DevOps & Team Foundation Server"
-      content: "." 
+      content: "."
       image: ~
-    
 ---
+
 Welcome to our website. We specialize in helping teams become more productive, agile, and aligned with their business goals. Test

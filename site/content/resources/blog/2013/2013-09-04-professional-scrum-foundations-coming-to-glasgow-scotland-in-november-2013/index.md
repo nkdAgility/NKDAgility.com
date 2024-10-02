@@ -2,10 +2,10 @@
 id: "10094"
 title: "Professional Scrum Foundations coming to Glasgow, Scotland in November 2013"
 date: "2013-09-04"
-categories: 
+categories:
   - "events-and-presentations"
   - "people-and-process"
-tags: 
+tags:
   - "psd"
   - "psf"
   - "psm"
@@ -72,5 +72,3 @@ These courses are awesome and can really help with a Scrum adoption especially e
 For all your Scrum needs you should head on over to [http://scrum.org](http://scrum.org) and check out the forums and and other offerings.
 
 If however you are in Europe then you can [find an expert](http://nkdagility.com/company/general-inquiries/) closer to home.
-
-

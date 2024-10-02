@@ -42,7 +42,7 @@ Every team should define what is required, what criteria must be met, for a prod
 
 If you can’t ship working software at least every 30 days then by its very definition, you are not yet doing Scrum. Since [Professional Scrum Teams build software that works](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/), stop, create a working increment of software that meets your definition of done (DoD), and then start Sprinting, and review what you mean by “working” continuously, and at least on a regular cadence.
 
-**The purpose of the definition of done is to provide transparency of what has been done!** This provides the team with focus on whats needed and commitment to the minimum level of quality needed. Every team has full control over the level of quality that they provide. 
+**The purpose of the definition of done is to provide transparency of what has been done!** This provides the team with focus on whats needed and commitment to the minimum level of quality needed. Every team has full control over the level of quality that they provide.
 
 A clear shared definition of done allows us to:
 
@@ -53,7 +53,7 @@ A clear shared definition of done allows us to:
 
 > Live and in production, collecting telemetry supporting or diminishing the starting hypothesis.\\
 > --<cite>from Definition of Done (DoD) for the Azure DevOps Product Teams</cite>
-{: .blockquote}
+> {: .blockquote}
 
 ## What is Done?
 
@@ -74,7 +74,7 @@ Before you cut a single line of code, you need to decide what done means for you
 - **Mirrors shippable** – While you might not have shipped your product, [although we recommended it](https://nkdagility.com/blog/continuous-deliver-sprint/), you should have that choice. Your [Product Owner](./../_guides/scrum-guide.md#product-owner) should be able to say, at the [Sprint Review](./../_guides/scrum-guide.md#sprint-review): “That’s Awesome… lets ship it.”.
 - **No further work** – There should be no further work required from the [Developers](./../_guides/scrum-guide.md#developers) to ship your product to production. Any additional work means that you were not Done, and it takes away from the [Product Owner](./../_guides/scrum-guide.md#product-owner) capacity for the next iteration. Ideally, you have a fully automated process for delivering software, and [never use staggered iterations for delivery](https://nkdagility.com/blog/a-better-way-than-staggered-iterations-for-delivery/).
 
-A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Scrum Team." 
+A simple definition of DOD from Scrum: "a shared understanding of expectations that the Increment must live up to in order to be releasable into production. Managed by the Scrum Team."
 
 _Your short, measurable checklist that mirrors usable and results in no further work required to ship your product needs to be defined._ A great way to do this is to get the Scrum Team (the Product Owner plus the Developers and any relevant Stakeholders) into a [facilitated DoD Workshop](./../_workshops/definition-of-done.md). Without a Definition of Done we don’t understand what working software means, and without working software we cant have predictable delivery. Your Product Owner can’t reject a Backlog Item, only whether the Increment is working or not.
 
@@ -93,10 +93,10 @@ An explicit and concrete definition of done may seem small, but it can be the mo
 
 A releasable product is one that has been designed, developed and tested and is therefore ready for distribution to anyone in the organisation for review or even to any external stakeholder. This isn't a prototype or a demo-only release. This is ready for production. Adhering to a list of acceptance criteria ensures that the Increment is truly releasable, meaning:
 
--   All aspects of quality are ready
--   No corners were cut during development
--   All acceptance criteria were met and verified
--   The Product Owner accepts it
+- All aspects of quality are ready
+- No corners were cut during development
+- All acceptance criteria were met and verified
+- The Product Owner accepts it
 
 The Product Owner can accept the work at any time during the Sprint. The Sprint Review should not be an "acceptance meeting", but rather an opportunity to inspect the Increment and adapt the Product Backlog.
 
@@ -104,16 +104,16 @@ The Product Owner can accept the work at any time during the Sprint. The Sprint 
 
 Your Definition of Done does not just magically appear, and your software does not magically comply with it once it has been created. Making your Software comply with your definition of done is hard work, and while your definition of done should organically grow, you need to create the seed that you can build on.
 
-I recommend that you [run a DoD Workshop](./../_workshops/definition-of-done.md) with the entire Scrum Team, and likely some other domain experts or interested parties. If there are *stage gates* that your software has to pass after Developers are Done, then you need representatives from those gates to participate in the workshop. Regardless of your product you likely need representatives with the following expertise; Code, Test, Security, UX, UI, Architecture, etc. You may have this expertise on your team, or you may need to bring in an expert from your organisation, or even external to your organisation.
+I recommend that you [run a DoD Workshop](./../_workshops/definition-of-done.md) with the entire Scrum Team, and likely some other domain experts or interested parties. If there are _stage gates_ that your software has to pass after Developers are Done, then you need representatives from those gates to participate in the workshop. Regardless of your product you likely need representatives with the following expertise; Code, Test, Security, UX, UI, Architecture, etc. You may have this expertise on your team, or you may need to bring in an expert from your organisation, or even external to your organisation.
 
 Here is a list of things that you should consider for your DoD:
 
--   **Quality code base (clean, readable, naming conventions)** - Agree with Stakeholder(s) / Developers
--   **Architectural conventions respected** - Agree with Stakeholder(s) / Developers
--   **According to design/style guide** - Agree with Stakeholder(s) / Developers
--   **Documented** - Agree with Stakeholder(s) / Developers
--   **Service levels guaranteed (uptime, performance, response time)** - Agree with Stakeholder(s) / Developers
--   **Tested** - Agree with Stakeholder(s) / Developers on the amount of Testing with regard to Integration, Performance, Stability, & Regression
+- **Quality code base (clean, readable, naming conventions)** - Agree with Stakeholder(s) / Developers
+- **Architectural conventions respected** - Agree with Stakeholder(s) / Developers
+- **According to design/style guide** - Agree with Stakeholder(s) / Developers
+- **Documented** - Agree with Stakeholder(s) / Developers
+- **Service levels guaranteed (uptime, performance, response time)** - Agree with Stakeholder(s) / Developers
+- **Tested** - Agree with Stakeholder(s) / Developers on the amount of Testing with regard to Integration, Performance, Stability, & Regression
 
 Ultimately ask your self: *"Would you be happy to release this increment to production and support it? You are on call tonight!"*.
 
@@ -139,7 +139,7 @@ Some examples of things for a software team to put on their definition of done:
 There are 4 key layers to your DOD that you should consider:
 
 1.  **Meets organizational DOD** - what is minimum quality level required by your organization to protect its brand and reputation.
-2.  **Meets Practice DOD** - Your practice may add additional elements to DONE based on the technical domain within which you are working. 
+2.  **Meets Practice DOD** - Your practice may add additional elements to DONE based on the technical domain within which you are working.
 3.  **Meets Customer DOD** - Additional quality standards required by the customer.
 4.  **Your Teams DOD** - Run a DOD workshop to identify what you need from 1,2, & 3 as well as anything that your Scrum Team feels that they need to add.
 
@@ -161,58 +161,56 @@ Here are some examples of Done from various teams, real and fictitious.
 
 ### Azure DevOps
 
--   Live in production, collecting telemetry supporting or diminishing the starting hypothesis.
-
-
+- Live in production, collecting telemetry supporting or diminishing the starting hypothesis.
 
 ### FABRIKAM TEAM
 
--   A new feature is driven by one or more tests
--   No known duplication
--   No known bugs
--   Continuous build between DEV and STAGE
--   All available data in the system has been imported into STAGE database
+- A new feature is driven by one or more tests
+- No known duplication
+- No known bugs
+- Continuous build between DEV and STAGE
+- All available data in the system has been imported into STAGE database
 
 ### CONTOSO TEAM
 
--   Coding is complete
--   Code review performed
--   Coding standards met
--   All tests pass
--   Release notes created
--   User manual updated
--   Developers OK with work
--   Product Owner OK with work
+- Coding is complete
+- Code review performed
+- Coding standards met
+- All tests pass
+- Release notes created
+- User manual updated
+- Developers OK with work
+- Product Owner OK with work
 
 ### NORTHWIND TEAM
 
--   Peer reviewed
--   All test cases pass (including security and performance tests)
--   No open blocking, critical, high or medium bugs
--   Automated tests have been created (unit or integration depending on what is more relevant) and the conditional coverage is at least 50+% for UI, 60+% for services, and 80+% for utility classes.
--   Documentation completed
--   Included in the installer
--   Reviewed by the Product Owner
--   Deployed to the DEMO environment
--   Remaining hours for the task set to zero and the story/task is closed in JIRA.
+- Peer reviewed
+- All test cases pass (including security and performance tests)
+- No open blocking, critical, high or medium bugs
+- Automated tests have been created (unit or integration depending on what is more relevant) and the conditional coverage is at least 50+% for UI, 60+% for services, and 80+% for utility classes.
+- Documentation completed
+- Included in the installer
+- Reviewed by the Product Owner
+- Deployed to the DEMO environment
+- Remaining hours for the task set to zero and the story/task is closed in JIRA.
 
 ### TAILSPIN TEAM
 
--   Documentation has been created/updated
--   Documentation has been peer-reviewed
--   Code has been checked-in to Subversion
--   Code/solution has been reviewed by peer
--   Code is written according to guidelines
--   Code has sufficient comments
--   Code runs without errors in DEV
--   No errors are detected in TEST during normal test operations
--   New functionality has been tested
--   Sample/test data has been created
--   Ad-hoc, exploratory Testing has been performed
--   Best-effort unit tests have been created, executed, and return no warnings or errors
--   Best-effort integration tests have been created, executed, and return no warnings or errors
--   Best-effort user Acceptance tests have been created, executed, and return no warnings or errors
--   Best-effort regression testing has been performed and returns no warnings or errors
--   All rework and retest work has been completed
--   Functionality has been promoted from DEV/TEST to STAGE
--   Functionality has been approved by the Product Owner
+- Documentation has been created/updated
+- Documentation has been peer-reviewed
+- Code has been checked-in to Subversion
+- Code/solution has been reviewed by peer
+- Code is written according to guidelines
+- Code has sufficient comments
+- Code runs without errors in DEV
+- No errors are detected in TEST during normal test operations
+- New functionality has been tested
+- Sample/test data has been created
+- Ad-hoc, exploratory Testing has been performed
+- Best-effort unit tests have been created, executed, and return no warnings or errors
+- Best-effort integration tests have been created, executed, and return no warnings or errors
+- Best-effort user Acceptance tests have been created, executed, and return no warnings or errors
+- Best-effort regression testing has been performed and returns no warnings or errors
+- All rework and retest work has been completed
+- Functionality has been promoted from DEV/TEST to STAGE
+- Functionality has been approved by the Product Owner

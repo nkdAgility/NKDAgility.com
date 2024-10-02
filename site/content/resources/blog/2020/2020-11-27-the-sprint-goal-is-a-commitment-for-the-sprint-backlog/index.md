@@ -2,9 +2,9 @@
 id: "45088"
 title: "The Sprint Goal is a commitment for the Sprint Backlog"
 date: "2020-11-27"
-categories: 
+categories:
   - "transparency-commitment"
-tags: 
+tags:
   - "sprint-goal"
 coverImage: "naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg"
 author: "MrHinsh"
@@ -16,7 +16,7 @@ In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and 
 
 > The Sprint Goal is the single objective for the Sprint. Although the [Sprint Goa](/the-2020-scrum-guide/#commitment-sprint-goal)l is a commitment by the Developers, it provides flexibility in terms of the exact work needed to achieve it. The Sprint Goal also creates coherence and focus, encouraging the Scrum Team to work together rather than on separate initiatives.  
 > The Sprint Goal is created during the Sprint Planning event and then added to the Sprint Backlog. As the Developers work during the Sprint, they keep the Sprint Goal in mind. If the work turns out to be different than they expected, they collaborate with the Product Owner to negotiate the scope of the Sprint Backlog within the Sprint without affecting the Sprint Goal.
-> 
+>
 > [The 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal)
 
 The Sprint Goal is a short term mission that can be achieved in service to the [Product Goal](https://nkdagility.com/the-product-goal-is-a-commitment-for-the-product-backlog). The Sprint Goal should describe the idea of "Why are we doing this Sprint" and should encapsulate a step towards that desired outcome. There should only be one per Sprint, to give the team focus.
@@ -34,5 +34,3 @@ Some Good Examples of a Product Goal:
 The Sprint Goal should represent the next most valuable outcome towards the [Product Goal](https://nkdagility.com/the-product-goal-is-a-commitment-for-the-product-backlog), and is part of the Sprint Backlog. It is the commitment that is made by the Developers towards a valuable outcome. It help the Developers understand the purpose, and should give them enough information to help them make the right choices during the Sprint.
 
 Does your team have a Sprint Goal?
-
-

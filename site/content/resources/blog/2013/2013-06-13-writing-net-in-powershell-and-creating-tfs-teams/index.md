@@ -2,10 +2,10 @@
 id: "9903"
 title: "Writing .NET in PowerShell and creating TFS Teams"
 date: "2013-06-13"
-categories: 
+categories:
   - "code-and-complexity"
   - "install-and-configuration"
-tags: 
+tags:
   - "api"
   - "code"
   - "configuration"
@@ -70,7 +70,7 @@ So… my final script to add a new Team to TFS looked something like.
 
 ```
  Param(
-       [string] $CollectionUrlParam = $(Read-Host -prompt "Collection"), 
+       [string] $CollectionUrlParam = $(Read-Host -prompt "Collection"),
        [string] $TeamName = $(Read-Host -prompt "Team"),
        [string] $project = $(Read-Host -prompt "Project")
        )
@@ -126,5 +126,3 @@ catch
 Now we begin to get a picture of what is possible inside PowerShell. Would the above be easier if  there were nice easy commands like “Add-Team” or “Add-TeamProject” existed? Well yes it would, but that they don’t is not going to cripple us. We can get buy without them..
 
 In short, anything you can do in code you can do in PowerShell.
-
-

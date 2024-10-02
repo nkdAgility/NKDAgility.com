@@ -2,9 +2,9 @@
 id: "10990"
 title: "Why should I use Visual Studio ALM"
 date: "2015-01-07"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "analytics-management"
   - "build-management"
   - "change-management"
@@ -84,5 +84,3 @@ You can even start as small as a single project in Visual Studio Online (TFS in 
 Do you want to maintain your own hybrid solution? Coz it’s a lot of work to get what Visual Studio ALM provides out of the box to hand together effectively. For me, I am happy to use TFS and VSO for both small simple solutions, and for large complicated ones.
 
 **What is your ALM story?**
-
-

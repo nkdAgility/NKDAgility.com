@@ -2,9 +2,9 @@
 id: "142"
 title: "Reformat your CSS on the fly"
 date: "2009-01-27"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "aggreko"
   - "code"
   - "codeproject"
@@ -29,9 +29,9 @@ Thus I have [http://site/](http://site/) and [http://site-dev/1345](http://site-
 This means that all of your css like this…
 
 ```
-.down {  
-   padding-right:14px;  
-   background: url('/UI/Resources/Images/arrow_down.gif') no-repeat 100% 50%;   
+.down {
+   padding-right:14px;
+   background: url('/UI/Resources/Images/arrow_down.gif') no-repeat 100% 50%;
 }
 ```
 
@@ -44,7 +44,7 @@ The first thing you need to do is get .NET to handle ALL of your requests, and n
 [![image](images/ReformatyourCSSonthefly_E44D-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ReformatyourCSSonthefly_E44D-image_2.png)
 { .post-img }
 
-Add a “Wildcard application mapping” to the “aspnet\_isapi.dll” and you are good to go…
+Add a “Wildcard application mapping” to the “aspnet_isapi.dll” and you are good to go…
 
 To process the css we need an HttpHandler, this is dead easy to implement and action so:
 
@@ -131,6 +131,3 @@ Now add the Handler to you web.config
 And you are done :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows) [CodeProject](http://technorati.com/tags/CodeProject)
-
-
-

@@ -2,11 +2,11 @@
 id: "238"
 title: "TFS Stick Buddy v0.4.0 CTP2 released"
 date: "2008-04-17"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
   - "tools-and-techniques"
-tags: 
+tags:
   - "code"
   - "tfs-sticky-buddy"
   - "wit"
@@ -46,13 +46,13 @@ The application will load all of your Areas and their hierarchy by default and d
 [](/Documents%20and%20Settings/martihins/Application%20Data/Windows%20Live%20Writer/PostSupportingFiles/2ff3b0d5-a59c-458f-bfa4-db62663069a7/image22.png)
 
 - Proposed = Blue [![image_thumb22](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb22_thumb-7-7.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb22_2.png)
-{ .post-img }
+  { .post-img }
 - Active = Red [![image_thumb20](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb20_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb20_2.png)
-{ .post-img }
+  { .post-img }
 - Resolved = Amber [![image_thumb21](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb21_thumb-6-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb21_2.png)
-{ .post-img }
+  { .post-img }
 - Closed = Green [![image_thumb19](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb19_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb19_2.png)
-{ .post-img }
+  { .post-img }
 
 [](/Documents%20and%20Settings/martihins/Application%20Data/Windows%20Live%20Writer/PostSupportingFiles/2ff3b0d5-a59c-458f-bfa4-db62663069a7/image22.png)
 
@@ -61,20 +61,16 @@ I plan to have other options, but I will need to make some changes to the skinin
 [![image_thumb18](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb18_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb18_2.png)
 { .post-img }
 
- 
+
 
 I hope everyone "team servery" has a go, and don't be shy about [reporting bugs](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx) and [requesting features](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx).
 
 You can even use the [discussion forums](http://www.codeplex.com/TFSStickyBuddy/Thread/List.aspx)...
 
- 
+
 
 [**Download TFS Stick Buddy v0.4.0 CTP2 Now**](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)**...**
 
- 
+
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-
-
-
-

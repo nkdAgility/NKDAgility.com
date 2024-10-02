@@ -1,11 +1,11 @@
 ---
 categories:
-- agility
+  - agility
 author: MrHinsh
 title: Scrum for Executives Training
 aliases:
-- scrum-for-executives
-- /training-courses/scrum-for-executives-training/
+  - scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
 delivery:
   audience: |2+
 
@@ -42,7 +42,7 @@ delivery:
     *This course consistently receives rave reviews from managers and executives. See for yourself!*
   type: Azure DevOps
   brand:
-    colour: 
+    colour:
     vendor: accentient
   lead: |2+
 
@@ -57,47 +57,6 @@ card:
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: _What is Scrum? Why should I care?_ and _What will be expected of me to properly adopt Scrum?_ Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.

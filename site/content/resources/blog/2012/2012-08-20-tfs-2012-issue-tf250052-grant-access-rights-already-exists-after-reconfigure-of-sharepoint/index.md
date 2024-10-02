@@ -2,9 +2,9 @@
 id: "7247"
 title: "TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint"
 date: "2012-08-20"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "sharepoint"
   - "tf250052"
@@ -35,5 +35,3 @@ Although it is not displayed the previous listing is still there. If you click �
 Just click “OK” and then “Cancel”. Your display will then refresh with the entry listed! Phew..
 
 **Did this help you?**
-
-

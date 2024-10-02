@@ -2,9 +2,9 @@
 id: "9452"
 title: "New un-versioned repository in TFS 2012"
 date: "2013-04-18"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tactical"
@@ -37,7 +37,7 @@ It allowed us to remove the dependency on a network share to store our drop file
 
 Unfortunately it also meant that  we clogged up our version control repository with files and sometimes big files. When files are added to a versioned repository there are a lot of computing power used to figure out versions and deltas and other need things, but for a drop folder we don't need those.
 
-Worse when you want to remove old stuff you need to call a “[destroy](http://msdn.microsoft.com/en-us/library/bb386005(v=vs.100).aspx)” command to be sure that you don’t leave all of those files taking up space forever.
+Worse when you want to remove old stuff you need to call a “[destroy](<http://msdn.microsoft.com/en-us/library/bb386005(v=vs.100).aspx>)” command to be sure that you don’t leave all of those files taking up space forever.
 
 ## Using the new un-versioned repository in TFS 2012
 
@@ -79,5 +79,3 @@ While heavy handed it does clean up things nicely.
 ## Conclusion
 
 We can only hope that this will be a feature of dev12! And what else might the product team decide to do with an un-versioned store? Symbols; Nuget Packages… the options are endless…
-
-

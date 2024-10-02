@@ -2,10 +2,10 @@
 id: "6109"
 title: "One Team Project Collection to rule them all - Consolidating Team Projects"
 date: "2012-07-12"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "one-team-project-seriese"
@@ -31,10 +31,10 @@ This post is part of a series of posts that document a Upgrade of TFS 2010 to TF
 
 1. **Part 1:** [**Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation**](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/)
 2. **Part 2: One Team Project Collection to rule them all–Consolidating Team Projects**
-    - [TFS Integration Tools – Issue: Access denied to Program Files](http://blog.hinshelwood.com/tfs-integration-platform-issue-access-denied-to-program-files/)
-    - [TFS Integration Tools – Issue: Error occurred during the code review of change group](http://blog.hinshelwood.com/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group/)
-    - [TFS Integration Tools – Issue: “unable to find a unique local path”](http://blog.nwcadence.com/tfs-integration-tools-issue-unable-to-find-a-unique-local-path/)
-    - [TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/)
+   - [TFS Integration Tools – Issue: Access denied to Program Files](http://blog.hinshelwood.com/tfs-integration-platform-issue-access-denied-to-program-files/)
+   - [TFS Integration Tools – Issue: Error occurred during the code review of change group](http://blog.hinshelwood.com/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group/)
+   - [TFS Integration Tools – Issue: “unable to find a unique local path”](http://blog.nwcadence.com/tfs-integration-tools-issue-unable-to-find-a-unique-local-path/)
+   - [TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/)
 3. **[Part 3: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform](http://blog.hinshelwood.com/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform/)**
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2012/07/image.png)  
@@ -160,85 +160,85 @@ A final configuration would include some mapping or transformation of the Area P
 ```
 < ?xml version="1.0" encoding="utf-16"?>
 
-  
-    
-  
-  
-  
-    
-      
-        
-          
-          
-          
-        
-        
-          
-        
-        
-      
-      
-        
-          
-          
-          
-        
-        
-          
-        
-        
-      
-    
-    
-      
-        
-        
-          
-            
-              
-              
-                
-              
-              
-                
-                  
-                    
-                  
-                  
-                    
-                      
-                      
-                    
-                  
-                
-              
-              
-            
-          
-          
-        
-        
-          
-            
-            
-          
-        
-      
-    
-    
-      
-      
-    
-    
-    
-    
-      
-    
-    
-      
-      
-    
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
@@ -284,5 +284,3 @@ While it is difficult to migrate data or move data around in Team Foundation Ser
 - Did you mistakenly create multiple Team Project Collections?
 
 If so then give us a call and we can help you fix it…
-
-

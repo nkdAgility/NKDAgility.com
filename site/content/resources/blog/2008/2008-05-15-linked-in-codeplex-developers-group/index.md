@@ -2,7 +2,7 @@
 id: "227"
 title: "Linked in Codeplex developers group"
 date: "2008-05-15"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
@@ -29,7 +29,3 @@ All members must be a Coordinator of at least one Codeplex project.
 **NOTE: All requests to join these groups will be checked before they will be approved. Please provide a link to your Codeplex profile.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-
-

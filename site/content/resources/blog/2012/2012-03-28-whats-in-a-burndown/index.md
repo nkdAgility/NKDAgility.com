@@ -2,10 +2,10 @@
 id: "5002"
 title: "What's in a burndown?"
 date: "2012-03-28"
-categories: 
+categories:
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "configuration"
   - "develop"
@@ -35,43 +35,40 @@ During Sprint Planning the Development Team forecast what work it thinks it coul
 So in order to identify actions we need to look at some things we might identify as a problem.
 
 - **We get a flat burndown**  
-    [![SNAGHTMLc5b675a](images/SNAGHTMLc5b675a_thumb-2-2.png "SNAGHTMLc5b675a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5b675a.png)  
-{ .post-img }
-    **Figure: What does a flat burndown mean?**
-    
-    This might be because we just forgot, or it might be representative of a tooling issue or even a team issue that exists.
-    
-    - Action: Update our Remaining Work
-        
-    - Action: Get better at filling it out in time for the Daily Scrum
-        
-    - Action: Raise an impediment to the Scrum Master to improve the tools
-        
-    - Action: Raise an impediment to the Scrum Master to help the Development Team improve
-        
+   [![SNAGHTMLc5b675a](images/SNAGHTMLc5b675a_thumb-2-2.png "SNAGHTMLc5b675a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5b675a.png)  
+  { .post-img }
+  **Figure: What does a flat burndown mean?**
+      This might be because we just forgot, or it might be representative of a tooling issue or even a team issue that exists.
+
+      - Action: Update our Remaining Work
+
+      - Action: Get better at filling it out in time for the Daily Scrum
+
+      - Action: Raise an impediment to the Scrum Master to improve the tools
+
+      - Action: Raise an impediment to the Scrum Master to help the Development Team improve
+
 - **We get a perfect burndown, but delivered nothing**  
-    [![SNAGHTMLc5cb8e3](images/SNAGHTMLc5cb8e3_thumb-3-3.png "SNAGHTMLc5cb8e3")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5cb8e3.png)  
-{ .post-img }
-    **Figure: All of the Tasks were complete**
-    
-    This is likely to be because we have too much work in progress at any one time. We have 10 Stories in progress and get to the end of the Sprint with all of our Stories 90% complete.
-    
-    - Action: Raise an impediment with the Scrum Master for review at the Retrospective
-        
-    - Action: Limit work in progress
-        
-        _"Given an ordered list of user stories, **you’re either working on the top item, or else you’d better have a good reason not to**. You don’t proceed with another story until your current story is done."  
-        _\-[The Task Burn Down Trap: everything finished, nothing done](http://blog.xebia.com/2008/09/19/the-task-burn-down-trap-everything-finished-nothing-done/)
-        
+   [![SNAGHTMLc5cb8e3](images/SNAGHTMLc5cb8e3_thumb-3-3.png "SNAGHTMLc5cb8e3")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5cb8e3.png)  
+  { .post-img }
+  **Figure: All of the Tasks were complete**
+      This is likely to be because we have too much work in progress at any one time. We have 10 Stories in progress and get to the end of the Sprint with all of our Stories 90% complete.
+
+      - Action: Raise an impediment with the Scrum Master for review at the Retrospective
+
+      - Action: Limit work in progress
+
+          _"Given an ordered list of user stories, **you’re either working on the top item, or else you’d better have a good reason not to**. You don’t proceed with another story until your current story is done."
+          _\-[The Task Burn Down Trap: everything finished, nothing done](http://blog.xebia.com/2008/09/19/the-task-burn-down-trap-everything-finished-nothing-done/)
+
 - We will not get done on time  
-    [![SNAGHTMLc5fc66a](images/SNAGHTMLc5fc66a_thumb-4-4.png "SNAGHTMLc5fc66a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5fc66a.png)  
-{ .post-img }
-    **Figure: When will we be done?**
-    
-    This can be because we do not know everything at the start of the Sprint. Can a lawyer tell you exactly how long your case will take and what it will cost? No, so why would you expect something like software to?
-    
-    - Action: Speak to the Product Owner and decide what can be removed from the Sprint Backlog to still allow the team to be done.
-        
+   [![SNAGHTMLc5fc66a](images/SNAGHTMLc5fc66a_thumb-4-4.png "SNAGHTMLc5fc66a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5fc66a.png)  
+  { .post-img }
+  **Figure: When will we be done?**
+      This can be because we do not know everything at the start of the Sprint. Can a lawyer tell you exactly how long your case will take and what it will cost? No, so why would you expect something like software to?
+
+      - Action: Speak to the Product Owner and decide what can be removed from the Sprint Backlog to still allow the team to be done.
+
 
 These are just some ideas of what might be found and are not indicative of all possible options and there are other lists of [Bad Smells of the Sprint Backlog](http://scrumcrazy.wordpress.com/2010/10/07/bad-smells-of-the-sprint-backlog/) that you can find online.
 
@@ -96,5 +93,3 @@ Also a good indicator of what is going on from a delivery perspective. If you ar
 ## Conclusion
 
 You will need to experiment with your Scrum Teams to see which burndown is right for you, but I would suggest that you want to be able to plot all of them so that your Development Team’s have all of the relevant information for their Daily Scrum to  help them identify any issues as early as possible.
-
-

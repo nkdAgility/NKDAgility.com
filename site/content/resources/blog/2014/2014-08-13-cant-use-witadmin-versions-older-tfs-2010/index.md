@@ -2,9 +2,9 @@
 id: "10667"
 title: "You can't use WITADMIN on versions older than TFS 2010"
 date: "2014-08-13"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "tfs"
   - "tfs2010"
   - "tfs-2010-sp1"
@@ -44,5 +44,3 @@ And after the upgrade?
 Now I can run WITADMIN commands again.
 
 You should always make sure that you have the latest version of whatever software that you want to use to make sure that you get compatibility with the tools. Even if you can't upgrade a full version you should never have less than TFS 2010 SP1, TFS 2012.4, or TFS 2013.2.
-
-

@@ -2,9 +2,9 @@
 id: "9164"
 title: "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade"
 date: "2012-12-03"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "tf246017"
@@ -44,7 +44,7 @@ The only way to figure out what went wrong it to look at the log. You can see th
 On examining the logs the first thing that I found was a SQL Server communication error.
 
 ```
-[Error  @16:22:24.739] 
+[Error  @16:22:24.739]
 Exception Message: TF246017: Team Foundation Server could not connect to the database. Verify that the server that is hosting the database is operational, and that network problems are not blocking communication with the server. (type DatabaseConnectionException)
 Exception Stack Trace:    at Microsoft.TeamFoundation.Framework.Server.TeamFoundationSqlResourceComponent.TranslateException(Int32 errorNumber, SqlException sqlException, SqlError sqlError)
    at Microsoft.TeamFoundation.Framework.Server.TeamFoundationSqlResourceComponent.TranslateException(SqlException sqlException)
@@ -63,9 +63,9 @@ Inner Exception Details:
 Exception Message: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) (type SqlException)
 SQL Exception Class: 20
 SQL Exception Number: 2
-SQL Exception Procedure: 
+SQL Exception Procedure:
 SQL Exception Line Number: 0
-SQL Exception Server: 
+SQL Exception Server:
 SQL Exception State: 0
 SQL Error(s):
 
@@ -129,7 +129,7 @@ The second thing that I found was
 
 ```
 
-**Figure: TF400670: Error encountered when creating connection to Analysis Services** 
+**Figure: TF400670: Error encountered when creating connection to Analysis Services**
 
 It looks like this might be the culprit as it is followed by an “UpgradeConfigDB: Error” statement. Again it looks like a network glitch trying to open a connection to the SQL Server that was hosting Analysis Services. With these two errors I would surmise that there might be an intermittent network problem that while a running server would be resilient to it an upgrade is a much longer transactional process and thus hit the issue.
 
@@ -144,20 +144,18 @@ In this case we restored the collection, re-ran the update and all was well.
 If you are installing any updates to Team Foundation Server follow these simple steps:
 
 1. **Analyse  
-    **Run the Best Practices Analyser to make sure that your TFS Server is healthy and highlight any problems that you can fix first
+   **Run the Best Practices Analyser to make sure that your TFS Server is healthy and highlight any problems that you can fix first
 2. **Quiesce  
-    **Make your TFS and SharePoint environments inaccessible so that the backups are all at the same version
+   **Make your TFS and SharePoint environments inaccessible so that the backups are all at the same version
 3. **Backup**  
-    Backup all data using the Team Foundation Server backup tool from the power tools
+   Backup all data using the Team Foundation Server backup tool from the power tools
 4. **Snapshot**  
-    Make sure that you take a Snapshot of both your application tier and data tier at the same time index.
+   Make sure that you take a Snapshot of both your application tier and data tier at the same time index.
 5. **Update**  
-    You should make sure that all of the components of your Team Foundation Server environment are up to data. That means installing ALL Microsoft Updates for both Windows and other products.
+   You should make sure that all of the components of your Team Foundation Server environment are up to data. That means installing ALL Microsoft Updates for both Windows and other products.
 6. **Upgrade**  
-    Then run the upgrade with the knowledge that you have done everything possible to make sure things go smoothly.
+   Then run the upgrade with the knowledge that you have done everything possible to make sure things go smoothly.
 
 These simple steps should mitigate any future issues and should find any communication issues as well…
 
 _\-Do you want help with this? Contact Northwest Cadence to get a Quarterly Healthcheck and Upgrade on [info@nwcadence.com](mailto:info@nwcadence.com?subject=Recommended through MrHinsh (TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade)) and to schedule all of your TFS Upgrades for the coming year._
-
-

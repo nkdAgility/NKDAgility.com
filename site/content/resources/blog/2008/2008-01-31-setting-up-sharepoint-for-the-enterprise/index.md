@@ -2,10 +2,10 @@
 id: "252"
 title: "Setting up SharePoint for the Enterprise"
 date: "2008-01-31"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
-tags: 
+tags:
   - "develop"
   - "infrastructure"
   - "sharepoint"
@@ -25,6 +25,3 @@ I knew roughly how to do this, but a post by [Jose Barreto](http://blogs.technet
 I have found many of his [posts](http://blogs.technet.com/josebda/archive/tags/sharepoint/default.aspx) to be invaluable in my SharePoint planning and you should have a look if you are doing the same...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

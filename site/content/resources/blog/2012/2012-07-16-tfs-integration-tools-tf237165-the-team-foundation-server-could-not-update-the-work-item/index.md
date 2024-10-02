@@ -2,9 +2,9 @@
 id: "6179"
 title: "TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item"
 date: "2012-07-16"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tf237165"
   - "tfs"
@@ -45,5 +45,3 @@ You can see on lines 2 and 3 of the code above I had incorrectly specified the m
 The mentioned field either needs removed from the mapping or added to the work item. In this case I will be removing it from the mapping as I don’t need that field on the Task WIT.
 
 **Did this solve your problem?**
-
-

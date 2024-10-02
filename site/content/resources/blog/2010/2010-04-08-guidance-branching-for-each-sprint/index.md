@@ -2,9 +2,9 @@
 id: "56"
 title: "Guidance - Branching for each Sprint"
 date: "2010-04-08"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "develop"
   - "infrastructure"
@@ -55,17 +55,14 @@ Don’t Like:
 
 - Additional DB space for the branches
 - Baseless merging between sprint branches when changes are directly ported  
-    Note: I do not think we will ever attempt this!
+   Note: I do not think we will ever attempt this!
 - Maybe a bit tougher to see the history between sprint branches since the changes go up through Main and down to another sprint branch  
-    Note: What you would have to do is see which Sprint the changes were made in and then check the history he same file in that Sprint. A little bit of added complexity that you would have to do anyway with multiple teams.
+   Note: What you would have to do is see which Sprint the changes were made in and then check the history he same file in that Sprint. A little bit of added complexity that you would have to do anyway with multiple teams.
 - Over time, you can end up with a lot of old unused sprint branches. Perhaps destroy with /keephistory can help in this case.  
-    Note: We ALWAYS delete the Sprint branch after it has been merged into Main. That is the theory anyway, and as you can see from the images Sprint2 has already been deleted.
+   Note: We ALWAYS delete the Sprint branch after it has been merged into Main. That is the theory anyway, and as you can see from the images Sprint2 has already been deleted.
 
 **Why take the chance of having a problem rolling back or wanting to keep some of the code, when you can just abandon a branch and start a new one?**
 
 It just seems easier and less painful to use a branch to me! What do you think?
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW](http://technorati.com/tags/SSW) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [Branching](http://technorati.com/tags/Branching) [Version Control](http://technorati.com/tags/Version+Control)
-
-
-

@@ -2,10 +2,10 @@
 id: "39856"
 title: "Should the Scrum Master always remove impediments?"
 date: "2019-09-23"
-categories: 
+categories:
   - "agility"
   - "people-and-process"
-tags: 
+tags:
   - "scrum-master"
 coverImage: "PSX_20190823_113052-1-1.jpg"
 author: "MrHinsh"
@@ -25,21 +25,11 @@ Yes, the Scrum Master should always remove Impediments. That is their responsibi
 
 Both parts of this are critical. Often the Scrum Master will head off on a mission to solve an impediment that is not really an impediment. They need to stop and ask themselves:
 
-  
-
-- **Is this something the Scrum Team _can_ solve on their own?**  
-      
-    If so, do nothing, and only help the Team resolve it. Hopefully over time the Team will learn to resolve this issue without having to raise it to the Scrum Master at all.  
-      
-    
-- **Is this something that the Scrum Team _should_ be able to solve on their own?**  
-      
-    If this is the case then the Scrum Masters focus should be on helping the Team learn a new skill or build a new relationship that will allow them to solve this on their own. The Scrum Master is not a problem solver, and refraining from solving problems is one of the most powerful tool in their adrenal.  
-      
-    
+- **Is this something the Scrum Team _can_ solve on their own?**
+  If so, do nothing, and only help the Team resolve it. Hopefully over time the Team will learn to resolve this issue without having to raise it to the Scrum Master at all.
+- **Is this something that the Scrum Team _should_ be able to solve on their own?**
+  If this is the case then the Scrum Masters focus should be on helping the Team learn a new skill or build a new relationship that will allow them to solve this on their own. The Scrum Master is not a problem solver, and refraining from solving problems is one of the most powerful tool in their adrenal.
 
 If after both of these questions have been fully explored the item still looks like an Impediment then the Scrum Master should work to resolve it, all the while thinking about what they could do to enable the Team to be able to solve them on their own. The future of the Scrum Master is to make the Scrum Team as self-sufficient as posible, within the bounds of their organisation, so that they can go tackle some of those organisational impediments that are preventing even more maturity.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
-
-

@@ -2,7 +2,7 @@
 id: "355"
 title: "Simpsonize Me!"
 date: "2007-07-30"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-1.png"
 author: "MrHinsh"
@@ -18,6 +18,3 @@ slug: "simpsonize-me"
 Me as a Simpson!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

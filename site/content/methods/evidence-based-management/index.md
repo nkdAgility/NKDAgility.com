@@ -14,4 +14,3 @@ card:
 ---
 
 Coming soon!
-

@@ -1,16 +1,17 @@
 ---
 title: Customer Working Agreement
 aliase:
- - workshops/Customer-Working-Agreement.html
+  - workshops/Customer-Working-Agreement.html
 date: 2024-09-17
 author: MrHinsh
 card:
   button:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
-  title: 
+  title:
 aliases:
 ---
+
 ## Customer Working Agreement
 
 ### Duration
@@ -41,7 +42,6 @@ The Working Agreement would result in both a Statement of Work and agreement on 
 
 ### Useful Files
 
-
 # NOTES
 
 Duration
@@ -60,8 +60,7 @@ While the working agreement should be run as a workshop
 
 Perhaps we need to look at an early conversation with customers around a working agreement to understand the trade-offs and ramifications…
 
-
 ### Working Agreement Workshop
 
 1. **Agree Type of Work** - Present the Cynefin model and ask customers to specify what sort of work they do.
-2. 
+2.

@@ -2,9 +2,9 @@
 id: "385"
 title: "HTC Touch"
 date: "2007-06-07"
-categories: 
+categories:
   - "products-and-books"
-tags: 
+tags:
   - "answers"
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -20,6 +20,3 @@ Well HTC has come up with a first step competitor for the iPhone, and they call 
 My only question is: **When will this be available on orange?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-
-
-

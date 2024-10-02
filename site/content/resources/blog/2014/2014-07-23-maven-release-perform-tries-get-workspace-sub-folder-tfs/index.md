@@ -2,10 +2,10 @@
 id: "10620"
 title: "Maven release perform tries to do a Get to a workspace sub folder in TFS"
 date: "2014-07-23"
-categories: 
+categories:
   - "problems-and-puzzles"
   - "tools-and-techniques"
-tags: 
+tags:
   - "java"
   - "jenkins"
   - "maven"
@@ -29,15 +29,15 @@ Anyway, this issue was about the maven release perform stage where my build that
 [INFO] Scheme - https
 [INFO] files: /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace
 [INFO] Command line - /bin/sh -c cd /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace && tf checkin -login:hinshelwoodmjh,****** -noprompt '-comment:[maven-release-plugin] prepare for next development iteration' /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/pom.xml /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/TestProjectLibrary/pom.xml /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/TestProjectWeb/pom.xml /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/TestProjectEar/pom.xml /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/TestProjectDistribution/pom.xml
-[INFO] err - 
+[INFO] err -
 [INFO] Release preparation complete.
-[INFO] 
+[INFO]
 [INFO] --- maven-release-plugin:2.5:perform (default-cli) @ TestProject ---
 [INFO] Checking out the project to perform the release ...
 [INFO] scmUrl - https://tfs.comapny.com/tfs/DefaultCollection::$/MainProject/VisualStudioALM/JavaTestProject
 [INFO] Scheme - https
 [INFO] Command line - /bin/sh -c cd /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/target/checkout && tf get -login:hinshelwoodmjh,********** -recursive -force -version:LTestProject-1.4.10 /appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/target/checkout
-[INFO] err - 
+[INFO] err -
 [INFO] Executing goals 'javadoc:jar deploy'...
 [INFO] [INFO] Scanning for projects...
 [INFO] [INFO] ------------------------------------------------------------------------
@@ -48,15 +48,15 @@ Anyway, this issue was about the maven release perform stage where my build that
 [INFO] [INFO] Final Memory: 5M/10M
 [INFO] [INFO] ------------------------------------------------------------------------
 [INFO] [ERROR] The goal you specified requires a project to execute but there is no POM in this directory (/appl/data/ci-test/jenkins/jobs/TFS-TestProject/workspace/target/checkout). Please verify you invoked Maven from the correct directory. -> [Help 1]
-[INFO] [ERROR] 
+[INFO] [ERROR]
 [INFO] [ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
 [INFO] [ERROR] Re-run Maven using the -X switch to enable full debug logging.
-[INFO] [ERROR] 
+[INFO] [ERROR]
 [INFO] [ERROR] For more information about the errors and possible solutions, please read the following articles:
 [INFO] [ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
 [INFO] ------------------------------------------------------------------------
 [INFO] Reactor Summary:
-[INFO] 
+[INFO]
 [INFO] Test Project ...................................... FAILURE [42.119s]
 [INFO] Test Project - Common Library ..................... SKIPPED
 [INFO] Test project - Web Application .................... SKIPPED
@@ -89,5 +89,3 @@ Multiple users is an easier issue to solve. We added pre-build commands to creat
 This got the build working. Our only outstanding issue now is that build from SVN have a Tag created. In TFS this is done as a label, however labels are mutable. They can be changed after the fact with no audit record. We will likely solve this by creating a read-only branch instead of a label.
 
 Let me know how you get on with your migrations to TFS.
-
-

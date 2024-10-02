@@ -14,11 +14,8 @@ I have been waiting for this for a while and [Brian Harry](http://blogs.msdn.com
 
 [Bug fixes in TFS SP1](http://blogs.msdn.com/bharry/archive/2006/09/28/775891.aspx)
 
-* * *
+---
 
 More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEntryEditor/FCKeditor/editor/) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

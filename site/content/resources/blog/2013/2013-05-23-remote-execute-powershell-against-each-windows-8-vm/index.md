@@ -2,9 +2,9 @@
 id: "9901"
 title: "Remote Execute PowerShell against each Windows 8 VM"
 date: "2013-05-23"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "hyper-v"
   - "powershell"
@@ -45,7 +45,7 @@ You can combat this by doing a check for elevated privileges and starting a new 
 
 ```
 If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
-{   
+{
     $arguments = "& '" + $myinvocation.mycommand.definition + "'"
     Start-Process powershell -Verb runAs -ArgumentList $arguments
     Break
@@ -94,7 +94,7 @@ Just run the above on the VM to prep it or you can explicitly trust the host nam
 Now we can loop through the VM’s and execute a remote script against them. This then sounds like we are nearly done, however what happens when the VM’s are off or saved or paused. Well… nothing as you can’t execute a script against a machine that is not running. I needed to find a way to start the machines and luckily hyper-v can be totally managed by PowerShell and thus there is a command for that. The current state of the machine is stored in “$vm.State” which has a number of vaues that we need to do different things for.
 
 ```
-switch ($vm.State) 
+switch ($vm.State)
 {
      default {
           Write-Host  " Don't need to do anything with $($compName) as it is $($vm.State) "
@@ -126,7 +126,7 @@ So there is one last thing to do. When you change the state of  VM using “Sta
 do {
      Start-Sleep -milliseconds 100
      Write-Progress -activity "Waiting for VM to become responsive" -SecondsRemaining -1
-} 
+}
 until ((Get-VMIntegrationService $vm | ?{$_.name -eq "Heartbeat"}).PrimaryStatusDescription -eq "OK")
 Write-Progress -activity "Waiting for VM to become responsive" -SecondsRemaining -1 -Completed
 
@@ -141,7 +141,7 @@ $nameRegex = "[d*][(?.*)](?.*)[(?.*)]"
 $RemoteScript = D:DataUsersMrHinshDesktopcmdService-VM.ps1
 #------------------------------------------------------------------------
 If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
-{   
+{
     $arguments = "&amp; '" + $myinvocation.mycommand.definition + "'"
     Start-Process powershell -Verb runAs -ArgumentList $arguments
     Break
@@ -159,12 +159,12 @@ foreach ($vm in $VMs)
     if ($matches.count -gt 0)
     {
         $compName = $matches[0].groups["name"].value.Trim()
-   
+
         $startState = $vm.State
-        switch ($vm.State) 
+        switch ($vm.State)
         {
             default {
-   
+
                Write-Host  " Don't need to do anything with $($compName) as it is $($vm.State) "
             }
             "Paused"
@@ -188,7 +188,7 @@ foreach ($vm in $VMs)
         do {
                 Start-Sleep -milliseconds 100
                 Write-Progress -activity "Waiting for VM to become responsive" -SecondsRemaining -1
-            } 
+            }
         until ((Get-VMIntegrationService $vm | ?{$_.name -eq "Heartbeat"}).PrimaryStatusDescription -eq "OK")
         Write-Progress -activity "Waiting for VM to become responsive" -SecondsRemaining -1 -Completed
 
@@ -205,7 +205,7 @@ foreach ($vm in $VMs)
             $error[0]
         }
 
-         switch ($startState) 
+         switch ($startState)
         {
             "Off"
             {
@@ -220,11 +220,11 @@ foreach ($vm in $VMs)
                 Save-VM –Name *$compName* -Confirm:$false
             }
             default {
-   
+
                 Write-Host  " Leaving $($compName) running $startState "
             }
         }
-        
+
     }
     else
     {
@@ -248,7 +248,7 @@ If (!(Test-Path C:Chocolatey))
     Write-Host  " Install Chocolatey "
     iex ((new-object net.webclient).DownloadString("http://bit.ly/psChocInstall"))
 }
-Else 
+Else
 {
     chocolatey update
 }
@@ -279,5 +279,3 @@ This may change and I want to test out some hierarchical PowerShell script optio
 Although I have tinkered with PowerShell now and then this is the first executable script that I have written. I am still in copy/paste mode but I can sure see the value of learning and using PowerShell for everything from installing applications to configuring systems.
 
 You can just about do anything with PowerShell that you like.
-
-

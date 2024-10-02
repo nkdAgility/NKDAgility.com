@@ -1,11 +1,11 @@
 ---
 categories:
-- devops
+  - devops
 author: MrHinsh
 title: Practicing Kanban Using Azure Boards Training
 aliases:
-- practicing-kanban-using-azure-boards
-- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+  - practicing-kanban-using-azure-boards
+  - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 date: 2020-08-31
 delivery:
   audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
@@ -73,55 +73,14 @@ delivery:
 slug: practicing-kanban-using-azure-boards-training
 id: "44723"
 tags:
-- development
-- team
+  - development
+  - team
 card:
   content: ""
   title: ""
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

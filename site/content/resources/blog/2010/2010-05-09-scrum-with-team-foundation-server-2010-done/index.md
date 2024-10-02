@@ -2,10 +2,10 @@
 id: "43"
 title: "Scrum with Team Foundation Server 2010 Done"
 date: "2010-05-09"
-categories: 
+categories:
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "agile"
   - "develop"
   - "events-and-presentations"
@@ -26,9 +26,7 @@ slug: "scrum-with-team-foundation-server-2010-done"
 
 So, with some apprehension I submitted two session as Part A and Part B.
 
-  
-
-* * *
+---
 
 **Download** [**DDD Scotland -  Scrum with Team Foundation Server 2010**](http://cid-57599e234f1ebc1c.skydrive.live.com/self.aspx/Public/Presentations/SSW^_Scrum%20with%20TFS%202010^_DDDScotland^_v1.1.pptx)
 
@@ -48,8 +46,4 @@ I mentioned quite a few of SSW’s [Rules to better Scrum Using TFS](http://shar
 
 **Download** [**DDD Scotland -  Scrum with Team Foundation Server 2010**](http://cid-57599e234f1ebc1c.skydrive.live.com/self.aspx/Public/Presentations/SSW^_Scrum%20with%20TFS%202010^_DDDScotland^_v1.1.pptx)
 
-  
-
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [DDD Scot](http://technorati.com/tags/DDD+Scot) [Live](http://technorati.com/tags/Live) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

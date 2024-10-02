@@ -3,7 +3,7 @@ coverImage: NKDAgility-Courses-SPK-16x9-1.jpg
 author: MrHinsh
 title: Applying Scaled Portfolio Kanban
 aliases:
-- /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+  - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
 delivery:
   audience: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
   skilllevel: intermediate
@@ -50,47 +50,6 @@ card:
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

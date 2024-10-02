@@ -2,7 +2,7 @@
 id: "12146"
 title: "Round up for 2017 and beyond: Agility, DevOps, and Everything In-between"
 date: "2017-11-28"
-categories: 
+categories:
   - "agility"
   - "devops"
 coverImage: "-1-1.jpg"
@@ -44,17 +44,15 @@ Figure: Professional Scrum Foundations training for the Ghana Police Service
 The stories I could tell! And I do… if you come to one of my courses you can find out that your practices and processes are not that bad after all…
 
 - [Professional Agile Retreat](https://nkdagility.com/training/courses/professional-agile-retreat-with-psm-pal/) – 3 days of training in Professional Scrum with a two day Professional Scrum Master and a 1-day Professional Agile Leadership. Here is the rub, it's in Cancun.. come for the week and spend the rest on the beach, maybe we will spend all of it on the beach.
-    - [January 29th, 2018 | Cancun, Mexico \[PAL-e + PSM\]](https://nkdagility.com/training/scheduled/professional-agile-retreat-with-psm-pal-in-cancun-mexico-on-29th-january-2018/)
+  - [January 29th, 2018 | Cancun, Mexico \[PAL-e + PSM\]](https://nkdagility.com/training/scheduled/professional-agile-retreat-with-psm-pal-in-cancun-mexico-on-29th-january-2018/)
 - [Professional Scrum Master Training](https://nkdagility.com/training/courses/professional-scrum-master/) – Everyone wants to be a Scrum Master…
-    - [December 4, 2017 | Oslo, Norway](https://nkdagility.com/training/scheduled/professional-scrum-master-oslo-december-2017/)
-    - [January 8th, 2018 | Edinburgh, Scotland](https://nkdagility.com/training/scheduled/professional-scrum-master-edinburgh-scotland-8th-january-2018/)
-    - [January 15th, 2018 | Oslo, Norway](https://nkdagility.com/training/scheduled/professional-scrum-master-oslo-norway-15th-january-2018/)
+  - [December 4, 2017 | Oslo, Norway](https://nkdagility.com/training/scheduled/professional-scrum-master-oslo-december-2017/)
+  - [January 8th, 2018 | Edinburgh, Scotland](https://nkdagility.com/training/scheduled/professional-scrum-master-edinburgh-scotland-8th-january-2018/)
+  - [January 15th, 2018 | Oslo, Norway](https://nkdagility.com/training/scheduled/professional-scrum-master-oslo-norway-15th-january-2018/)
 - [Professional Scrum Developer Training](https://nkdagility.com/training/courses/professional-scrum-developer-training/) – Engineering teams learn what engineering excellence really means for the engineering practices that one requires for outstanding agility.
-    - [December 11, 2017 | Accra, Ghana](https://nkdagility.com/training/scheduled/professional-scrum-developer-accra-ghana-11th-december-2017/)
-    - [January 10th, 2018 | Edinburgh, Scotland](https://nkdagility.com/training/scheduled/professional-scrum-developer-edinburgh-scotland-january-2018/)
+  - [December 11, 2017 | Accra, Ghana](https://nkdagility.com/training/scheduled/professional-scrum-developer-accra-ghana-11th-december-2017/)
+  - [January 10th, 2018 | Edinburgh, Scotland](https://nkdagility.com/training/scheduled/professional-scrum-developer-edinburgh-scotland-january-2018/)
 
 That's just a few of the classes that I have already booked for 2018, and you can find more on the [training](https://nkdagility.com/training) page.
 
 I think that 2018 is going to be more training than consulting, although now I have booked a bunch of training I have customers looking for consulting time… ho hum… that's the way it is I guess…
-
-

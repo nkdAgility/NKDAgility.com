@@ -2,7 +2,7 @@
 id: "45"
 title: "Upgrading Team Foundation Server 2008 to 2010"
 date: "2010-05-03"
-tags: 
+tags:
   - "scrum"
   - "sharepoint"
   - "spf2010"
@@ -25,8 +25,7 @@ slug: "upgrading-team-foundation-server-2008-to-2010"
 ![vs2010alm](images/UpgradingtoTeamFoundationServer2010_C1D3-vs2010alm_-13-13.png)I am sure you will have seen my [posts on upgrading](http://blog.hinshelwood.com/archive/2010/04/12/_upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done.aspx) our internal Team Foundation Server from TFS2008 to TFS2010 Beta 2, RC and RTM, but what about a fresh upgrade of TFS2008 to TFS2010 using the RTM version of TFS. One of our clients is taking the plunge with TFS2010, so I have the job of doing the upgrade.
 { .post-img }
 
-  
- 
+
 
 Update 4th May 2010
 
@@ -34,7 +33,7 @@ Update 4th May 2010
 - [Allan Zhou](http://translate.google.com/translate?js=y&prev=_t&hl=en&ie=UTF-8&layout=1&eotf=1&u=http%3A%2F%2Fzlgcool.cnblogs.com%2F&sl=zh-CN&tl=en) – I am going to cover the project upgrade process in a future post, but suffice to say you can not remove a template once it has been used. That data will be floating around in the warehouse and cube forever. You can do a certain amount of clean up, but that would require you to “destroy” all of the work item types and projects that use an old template and you would loose history.
 - [Sam Abraham](http://www.geekswithblogs.net/wildturtle) – You can indeed connect just fine from Visual Studio 2010 to a Team Foundation Server 2008.
 
-* * *
+---
 
 It is sometimes very useful to have a team member that starts work when most of the Sydney workers are heading home as I can do the upgrade without impacting them. The down side is that if you have any blockers then you can be pretty sure that everyone that can deal with your problem is asleep ![Sad](images/UpgradingtoTeamFoundationServer2010_C1D3-wlEmoticon-sad_2-14-14.png)
 { .post-img }
@@ -71,11 +70,12 @@ It is good to leave a little time between taking the TFS 2008 server offline and
 >   TFS 2008 has been started  
 > John Liu \[SSW\] said:  
 >   I love you!
-> 
+>
 > \-IM conversation at TFS Upgrade +25 minutes
 
-After John confirmed that he had everything done I turned IIS off again and made a cup of tea. There were no more screams so the upgrade can continue.  
- 
+After John confirmed that he had everything done I turned IIS off again and made a cup of tea. There were no more screams so the upgrade can continue.
+
+
 
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-7-10.png)  
 { .post-img }
@@ -90,13 +90,13 @@ Once you have your backups, you need to copy them to your new TFS2010 server and
 As per the rules, you should [record the number of files and the total number of areas and iterations](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/DogfoodStatsBefore.aspx) before the upgrade so you have something to compare to:
 
 > TFS2008
-> 
+>
 > File count:
-> 
+>
 > <table border="0" cellspacing="0" cellpadding="2" width="400"><tbody><tr><td valign="top" width="200"><strong>Type</strong></td><td valign="top" width="200"><strong>Count</strong></td></tr><tr><td valign="top" width="200">1</td><td valign="top" width="200">1845</td></tr><tr><td valign="top" width="200">2</td><td valign="top" width="200">15770</td></tr></tbody></table>
-> 
+>
 > Areas & Iterations:
-> 
+>
 > 139
 
 You can use this to verify that the upgrade was successful. it should however be noted that the numbers in TFS 2010 will be bigger. This is due to some of the sorting out that TFS does during the upgrade process.
@@ -109,7 +109,7 @@ Restoring the databases is much more time consuming than just attaching them as 
 { .post-img }
 **Figure: Restore each of the databases to either a latest or specific point in time.**
 
- ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-10-2.png)  
+![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-10-2.png)  
 { .post-img }
 **Figure: Restore all of the required databases**
 
@@ -126,24 +126,24 @@ To kick of the upgrade you need to open a command prompt and change the path to 
 > TfsConfig import /sqlinstance:<Previous TFS Data Tier>  
 >                  /collectionName:<Collection Name>  
 >                  /confirmed
-> 
+>
 > Imports a TFS 2005 or 2008 data tier as a new project collection.
-> 
+>
 > Important: This command should only be executed after adequate backups have been performed.
-> 
+>
 > After you import, you will need to configure portal and reporting settings via the administration console.
-> 
+>
 > EXAMPLES  
-> \-------- 
+> \--------
 > TfsConfig import /sqlinstance:tfs2008sql /collectionName:imported /confirmed  
 > TfsConfig import /sqlinstance:tfs2008sqlInstance /collectionName:imported /confirmed
-> 
+>
 > OPTIONS:  
-> \-------- 
+> \--------
 > sqlinstance         The sql instance of the TFS 2005 or 2008 data tier. The TFS databases at that location will be modified directly and will no longer be usable as previous version databases.  Ensure you have back-ups.
-> 
+>
 > collectionName      The name of the new Team Project Collection.
-> 
+>
 > confirmed           Confirm that you have backed-up databases before importing.
 
 This command will automatically look for the TfsIntegration database and verify that all the other required databases exist.
@@ -175,25 +175,25 @@ You will now be able to start the new upgraded collection and you are ready for 
 Do you remember the stats we took off the TFS 2008 server?
 
 > TFS2008
-> 
+>
 > File count:
-> 
+>
 > <table border="0" cellspacing="0" cellpadding="2" width="400"><tbody><tr><td valign="top" width="200"><strong>Type</strong></td><td valign="top" width="200"><strong>Count</strong></td></tr><tr><td valign="top" width="200">1</td><td valign="top" width="200">1845</td></tr><tr><td valign="top" width="200">2</td><td valign="top" width="200">15770</td></tr></tbody></table>
-> 
+>
 > Areas & Iterations:
-> 
+>
 > 139
 
 Well, now we need to [compare them to the TFS 2010 stats](http://sharepoint.ssw.com.au/Standards/TFS/RulesToBetterTFS2010Migration/Pages/RunDogFoodStatsAfter.aspx), remembering that there will probably be more files under source control.
 
 > TFS2010
-> 
+>
 > File count:
-> 
+>
 > <table border="0" cellspacing="0" cellpadding="2" width="400"><tbody><tr><td valign="top" width="200"><strong>Type</strong></td><td valign="top" width="200"><strong>Count</strong></td></tr><tr><td valign="top" width="200">1</td><td valign="top" width="200">19288</td></tr></tbody></table>
-> 
+>
 > Areas & Iterations:
-> 
+>
 > 139
 
 Lovely, the number of iterations are the same, and the number of files is bigger. Just what we were looking for.
@@ -210,7 +210,6 @@ Can we connect to the new collection and project?
 { .post-img }
 **Figure: make sure you can connect to The upgraded projects and that you can see all of the files.**
 
-  
 ![image](images/UpgradingtoTeamFoundationServer2010_C1D3-image_-11-3.png)  
 { .post-img }
 **Figure: Team Web Access is there and working.**
@@ -223,19 +222,10 @@ With Visual Studio 2005 you will only be able to connect to the Default collecti
 
 - [Visual Studio Team System 2005 Service Pack 1 Forward Compatibility Update for Team Foundation Server 2010](http://www.microsoft.com/downloads/details.aspx?FamilyID=22215e4c-af6f-4e2f-96df-20e94d762689&displaylang=en)
 - [Visual Studio Team System 2008 Service Pack 1 Forward Compatibility Update for Team Foundation Server 2010](http://www.microsoft.com/downloads/details.aspx?familyid=CF13EA45-D17B-4EDC-8E6C-6C5B208EC54D&displaylang=en)
-    
-    To make sure that you have everything up to date, make sure that you run [SSW Diagnostics](http://www.ssw.com.au/ssw/Diagnostics) and get all green ticks.
-    
-    **Upgrade Done!**
-    
-    At this point you can send out a notice to everyone that the upgrade is complete and and give them the connection details. You need to remember that at this stage we have 2008 project upgraded to run under TFS 2010 but it is still running under that same process template that it was running before. You can only “enable” 2010 features in a process template you can’t upgrade. So what to do? Well, you need to create a new project and migrate things you want to keep across.
-    
-    Souse code is easy, you can move or Branch, but Work Items are more difficult as you can’t move them between projects. This instance is complicated more as the old project uses the Conchango/EMC Scrum for Team System template and I will need to write a script/application to get the work items across with their attachments in tact.
-    
-    That is my next task!
-    
+  To make sure that you have everything up to date, make sure that you run [SSW Diagnostics](http://www.ssw.com.au/ssw/Diagnostics) and get all green ticks.
+  **Upgrade Done!**
+  At this point you can send out a notice to everyone that the upgrade is complete and and give them the connection details. You need to remember that at this stage we have 2008 project upgraded to run under TFS 2010 but it is still running under that same process template that it was running before. You can only “enable” 2010 features in a process template you can’t upgrade. So what to do? Well, you need to create a new project and migrate things you want to keep across.
+  Souse code is easy, you can move or Branch, but Work Items are more difficult as you can’t move them between projects. This instance is complicated more as the old project uses the Conchango/EMC Scrum for Team System template and I will need to write a script/application to get the work items across with their attachments in tact.
+  That is my next task!
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [ALM](http://technorati.com/tags/ALM) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [TFS 2005](http://technorati.com/tags/TFS+2005) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

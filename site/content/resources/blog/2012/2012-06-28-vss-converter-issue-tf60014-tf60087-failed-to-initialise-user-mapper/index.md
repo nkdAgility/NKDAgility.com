@@ -2,9 +2,9 @@
 id: "6124"
 title: "VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper"
 date: "2012-06-28"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "kb"
   - "puzzles"
   - "tf60014"
@@ -41,5 +41,3 @@ Adding the mapped users to the Contributors group on the target server will remo
 > \-Suggestion to TFS Team
 
 **Did this deal with your problem?**
-
-

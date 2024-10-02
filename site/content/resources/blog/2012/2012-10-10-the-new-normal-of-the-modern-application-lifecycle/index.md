@@ -2,11 +2,11 @@
 id: "8885"
 title: "The new normal of the modern application lifecycle"
 date: "2012-10-10"
-categories: 
+categories:
   - "measure-and-learn"
   - "people-and-process"
   - "tools-and-techniques"
-tags: 
+tags:
   - "agile"
   - "improve"
   - "measure"
@@ -48,7 +48,7 @@ But there are companies out there that are actually changing and being hugely su
 ![The main character from Despicable Me gets an idea and utters "Light Bulb"](images/lightbulb1-despicableme1-27-27.jpg "Despicable Me: Light Bulb")Its not just Microsoft that are benefiting for this shift, indeed it is much harder for them than nearly every company on earth as they are a behemoth of and entity. Look at products like Google Chrome that ships continuously to production. I am calling out these apps as they are large applications delivered as thick client apps to local computers that need to work and upgrade seamlessly. Can you do that?
 { .post-img }
 
-The frustrating thing is that the understanding of what needs to be done to achieve agility is still niche knowledge and for many folks the light bulb has not yet gone on. 
+The frustrating thing is that the understanding of what needs to be done to achieve agility is still niche knowledge and for many folks the light bulb has not yet gone on.
 
 So instead of talking to companies about agile or lean or even Scrum we need to express upon them the understanding of what in now normal for software and IT teams in this brave new world of consumerisation post iPhone and how it will affect them.
 
@@ -300,5 +300,3 @@ Now is the time to Rise up and begin the evolution to the new normal
 ### Conclusion
 
 It has been an interesting journey learning this content and exploring the Launch in a Box and I hope that I can do it justice tomorrow at the [Visual Studio 2012 Launch Roadshow](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/). I will have this in my session tomorrow as well, but you can [sign up to get the decks](http://eepurl.com/qhsTn) that I will be presenting. I will be doing both the “Keynote: Evolve - Rediscover Relevancy” and the “Revolution: The Agile Developer” both in San Diego and Irvine.
-
-

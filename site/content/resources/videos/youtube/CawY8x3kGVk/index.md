@@ -15,7 +15,7 @@ isShort: False
 
 Dive into the heart of Scrum myths and how organizations can truly harness its power. Debunking myths, one sprint at a time! 💡
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin tackles the common misconceptions around Scrum. Ever heard of the micromanagement myth? 🤔 Or wondered who really should decide what tasks to tackle during a Sprint? 🏃 Find out as we explore the core principles of Scrum, the role of developers, and the challenges many organizations face when trying to implement it. 🛠️
 
@@ -28,7 +28,7 @@ In this video, Martin tackles the common misconceptions around Scrum. Ever heard
 00:02:58 Developers as Technical Experts
 00:03:24 Organizational Challenges in Adopting Scrum
 
-*Scrum is like communism, I does not work:*
+_Scrum is like communism, I does not work:_
 
 Myth 1: https://youtu.be/7O-LmzmxUkE
 Myth 2: https://youtu.be/l3NhlbM2gKM
@@ -36,7 +36,7 @@ Myth 3: https://youtu.be/CawY8x3kGVk
 Myth 4: https://youtu.be/J3Z2xU5ditc
 Myth 5: https://youtu.be/kORUKHu-64A
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 These are the kinds of issues lean-agile practitioners relish, and if you struggle to grasp the real essence of Scrum, my team at NKDAgility can provide guidance. Don't let misconceptions hold back your value delivery; seek assistance promptly!
 
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_

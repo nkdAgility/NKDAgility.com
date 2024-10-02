@@ -20,7 +20,7 @@ To the local hosts file, which you can find at:
 
 > c:windowssystem32driversetchost
 
-This will solve the problem on teh local box, but your users will still be unable to access TFS. You require to rename teh server using the instructions: [How to: Rename an Application-Tier Server](http://msdn2.microsoft.com/en-us/library/ms252469(VS.80).aspx "Rename an Application-Tier Server") but make sure that you do not actualy rename the physical box.
+This will solve the problem on teh local box, but your users will still be unable to access TFS. You require to rename teh server using the instructions: [How to: Rename an Application-Tier Server](<http://msdn2.microsoft.com/en-us/library/ms252469(VS.80).aspx> "Rename an Application-Tier Server") but make sure that you do not actualy rename the physical box.
 
 You will probably need to rename the server to your fully qualified domain name.
 
@@ -29,6 +29,3 @@ You will probably need to rename TFS to the fully qualified domain name of your 
 Have fun...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

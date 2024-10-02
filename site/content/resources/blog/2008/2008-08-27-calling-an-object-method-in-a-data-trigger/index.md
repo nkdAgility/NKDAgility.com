@@ -2,9 +2,9 @@
 id: "205"
 title: "Calling an object method in a data trigger"
 date: "2008-08-27"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "tools"
   - "wpf"
@@ -27,19 +27,19 @@ Say you have a DataTemplate that renders a WorkItemType as a button that is sele
 ```
 
 ```
-   3:         <Image DockPanel.Dock="Left" 
+   3:         <Image DockPanel.Dock="Left"
 ```
 
 ```
-   4:                x:Name="wiImage" 
+   4:                x:Name="wiImage"
 ```
 
 ```
-   5:                Width="16" 
+   5:                Width="16"
 ```
 
 ```
-   6:                Height="16" 
+   6:                Height="16"
 ```
 
 ```
@@ -51,19 +51,19 @@ Say you have a DataTemplate that renders a WorkItemType as a button that is sele
 ```
 
 ```
-   9:         <Button x:Name="wiButton" 
+   9:         <Button x:Name="wiButton"
 ```
 
 ```
-  10:                 Content="{Binding Name}" 
+  10:                 Content="{Binding Name}"
 ```
 
 ```
-  11:                 Style="{DynamicResource WelcomeButtonStyle}" 
+  11:                 Style="{DynamicResource WelcomeButtonStyle}"
 ```
 
 ```
-  12:                 CommandParameter="{Binding}" 
+  12:                 CommandParameter="{Binding}"
 ```
 
 ```
@@ -93,19 +93,19 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-   3:         <Image DockPanel.Dock="Left" 
+   3:         <Image DockPanel.Dock="Left"
 ```
 
 ```
-   4:                x:Name="wiImage" 
+   4:                x:Name="wiImage"
 ```
 
 ```
-   5:                Width="16" 
+   5:                Width="16"
 ```
 
 ```
-   6:                Height="16" 
+   6:                Height="16"
 ```
 
 ```
@@ -117,19 +117,19 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-   9:         <Button x:Name="wiButton" 
+   9:         <Button x:Name="wiButton"
 ```
 
 ```
-  10:                 Content="{Binding Name}" 
+  10:                 Content="{Binding Name}"
 ```
 
 ```
-  11:                 Style="{DynamicResource WelcomeButtonStyle}" 
+  11:                 Style="{DynamicResource WelcomeButtonStyle}"
 ```
 
 ```
-  12:                 CommandParameter="{Binding}" 
+  12:                 CommandParameter="{Binding}"
 ```
 
 ```
@@ -165,7 +165,7 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-  21:                         <ObjectDataProvider ObjectType="{x:Type tfswitc:WorkItemType}" 
+  21:                         <ObjectDataProvider ObjectType="{x:Type tfswitc:WorkItemType}"
 ```
 
 ```
@@ -177,7 +177,7 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-  24:                 </Binding>                        
+  24:                 </Binding>
 ```
 
 ```
@@ -185,11 +185,11 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-  26:             <Setter TargetName="wiButton" 
+  26:             <Setter TargetName="wiButton"
 ```
 
 ```
-  27:                     Property="IsEnabled" 
+  27:                     Property="IsEnabled"
 ```
 
 ```
@@ -197,11 +197,11 @@ Now, if I wanted to call a method on an instance of that WorkItemType and perfor
 ```
 
 ```
-  29:             <Setter TargetName="wiButton" 
+  29:             <Setter TargetName="wiButton"
 ```
 
 ```
-  30:                     Property="ToolTip" 
+  30:                     Property="ToolTip"
 ```
 
 ```
@@ -229,7 +229,7 @@ Now, this should work, but my SupportedByHeat method is an Extension method defi
 ```
 
 ```
-   2:  
+   2: 
 ```
 
 ```
@@ -237,11 +237,11 @@ Now, this should work, but my SupportedByHeat method is an Extension method defi
 ```
 
 ```
-   4:  
+   4: 
 ```
 
 ```
-   5:  
+   5: 
 ```
 
 ```
@@ -249,7 +249,7 @@ Now, this should work, but my SupportedByHeat method is an Extension method defi
 ```
 
 ```
-   7:  
+   7: 
 ```
 
 ```
@@ -277,7 +277,7 @@ Now, this should work, but my SupportedByHeat method is an Extension method defi
 ```
 
 ```
-  14:  
+  14: 
 ```
 
 ```
@@ -285,7 +285,7 @@ Now, this should work, but my SupportedByHeat method is an Extension method defi
 ```
 
 ```
-  16:  
+  16: 
 ```
 
 ```
@@ -303,11 +303,11 @@ And this does not seam to work even if I import the namespace in the XAML:
 ```
 
 ```
-   3:   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+   3:   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
 ```
 
 ```
-   4:   xmlns:d="http://schemas.microsoft.com/expression/blend/2006" 
+   4:   xmlns:d="http://schemas.microsoft.com/expression/blend/2006"
 ```
 
 ```
@@ -315,7 +315,7 @@ And this does not seam to work even if I import the namespace in the XAML:
 ```
 
 ```
-   6:   xmlns:tfswitc="clr-namespace:Microsoft.TeamFoundation.WorkItemTracking.Client;assembly=Microsoft.TeamFoundation.WorkItemTracking.Client"    
+   6:   xmlns:tfswitc="clr-namespace:Microsoft.TeamFoundation.WorkItemTracking.Client;assembly=Microsoft.TeamFoundation.WorkItemTracking.Client"
 ```
 
 ```
@@ -331,7 +331,7 @@ And this does not seam to work even if I import the namespace in the XAML:
 ```
 
 ```
-  10:   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+  10:   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
 ```
 
 ```
@@ -342,11 +342,10 @@ The error message that is received is:
 
 > _System.Windows.Data Error: 34 : ObjectDataProvider: Failure trying to invoke method on type; Method='SupportedByHeat'; Type='WorkItemType'; Error='No method was found with matching parameter signature.' MissingMethodException:'System.MissingMethodException: Method 'Microsoft.TeamFoundation.WorkItemTracking.Client.WorkItemType.SupportedByHeat' not found.  
 >    at System.RuntimeType.InvokeMember(String name, BindingFlags bindingFlags, Binder binder, Object target, Object\[\] providedArgs, ParameterModifier\[\] modifiers, CultureInfo culture, String\[\] namedParams)_
-> 
->    _at System.Type.InvokeMember(String name, BindingFlags invokeAttr, Binder binder, Object target, Object\[\] args, CultureInfo culture)
-> 
->   
->    at System.Windows.Data.ObjectDataProvider.InvokeMethodOnInstance(Exception& e)'_
+>
+> \_at System.Type.InvokeMember(String name, BindingFlags invokeAttr, Binder binder, Object target, Object\[\] args, CultureInfo culture)
+>
+> at System.Windows.Data.ObjectDataProvider.InvokeMethodOnInstance(Exception& e)'\_
 
 As you can see, during the binding the extension method is not evaluated.
 
@@ -355,6 +354,3 @@ During my investigation I came across [WPFix Part 3 (Extension Methods)](http://
 I am looking for an easy solution :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
-
-
-

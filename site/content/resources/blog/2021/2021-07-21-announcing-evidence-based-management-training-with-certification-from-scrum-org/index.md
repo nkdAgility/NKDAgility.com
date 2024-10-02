@@ -2,9 +2,9 @@
 id: "46257"
 title: "Announcing Professional Agile Leadership with Evidence-Based Management Training  (PAL-EBM) from Scrum.org"
 date: "2021-07-21"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "annoucement"
 coverImage: "Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg"
 author: "MrHinsh"
@@ -38,15 +38,15 @@ Just as the PAL gets you to think about how you lead an organisation, the PAL-EB
 
 ## Overview of the \[types field='code' item='46220'\]\[/types\] 
 
-\[wpv-post-body view\_template="None" suppress\_filters="true" item="46220"\]
+\[wpv-post-body view_template="None" suppress_filters="true" item="46220"\]
 
 ## Who is the \[types field='code' item='46220'\]\[/types\] for?
 
-\[types field='cource-target-audience' suppress\_filters='true' item='46220'\]\[/types\]
+\[types field='cource-target-audience' suppress_filters='true' item='46220'\]\[/types\]
 
 ## What will you learn in the \[types field='code' item='46220'\]\[/types\]?
 
-\[types field='course-objectives' suppress\_filters='true' item='46220'\]\[/types\]
+\[types field='course-objectives' suppress_filters='true' item='46220'\]\[/types\]
 
 ![](images/image-1-1133x720-1-1.png)
 { .post-img }
@@ -58,5 +58,3 @@ Just as the PAL gets you to think about how you lead an organisation, the PAL-EB
 ## Our upcomming classes!
 
 \[wpv-view name="2021-coursescheduleforposts"\]
-
-

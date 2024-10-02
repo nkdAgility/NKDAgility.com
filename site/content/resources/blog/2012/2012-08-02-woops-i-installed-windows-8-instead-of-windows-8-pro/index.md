@@ -2,7 +2,7 @@
 id: "6938"
 title: "Woops I installed Windows 8 instead of Windows 8 Pro!"
 date: "2012-08-02"
-tags: 
+tags:
   - "tools"
   - "win8"
   - "windows"
@@ -66,5 +66,3 @@ I was quite happy not to have to reinstall, but you can choose what you want to 
 **Did you install the wrong version of Windows?**
 
 **How easy was it for you to fix it?**
-
-

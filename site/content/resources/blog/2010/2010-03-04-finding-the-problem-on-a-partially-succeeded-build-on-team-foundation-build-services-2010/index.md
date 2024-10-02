@@ -2,7 +2,7 @@
 id: "66"
 title: "Finding the problem on a partially succeeded build on Team Foundation Build Services 2010"
 date: "2010-03-04"
-tags: 
+tags:
   - "automated-build"
   - "scrum"
   - "ssw"
@@ -27,7 +27,7 @@ First, lets open that build list. On Team Explorer Expand your Team Project Coll
 { .post-img }
 Figure: Opening the Build list is a key way to see what the current state of your software is.
 
- ![image](images/Findingtheproblemonapartiallysucceededbu_D7AC-image_-5-5.png)  
+![image](images/Findingtheproblemonapartiallysucceededbu_D7AC-image_-5-5.png)  
 { .post-img }
 **Figure: A test is failing, but we can now view the Test Results to find the problem**
 
@@ -41,7 +41,7 @@ Its a FaultException so it is most likely coming from the Service and not the cl
 
 ```
 bool IProfileService.SaveDefaultProjectFile(string strComputerName)
-{            
+{
     ProjectFile file = new ProjectFile()
     {
         ProjectFileName = strComputerName + "_" + System.DateTime.Now.ToString("yyyyMMddhhmmsss") + ".xml",
@@ -72,7 +72,7 @@ bool IProfileService.SaveDefaultProjectFile(string strComputerName)
         }
     }
     catch (Exception ex)
-    { 
+    {
         //TODO: Log the exception
         throw ex;
         return false;
@@ -92,7 +92,7 @@ What is wrong with this code? What assumptions mistakes could the developer have
 
 lets solve each of these problems:
 
-1. We are in a web service… lets store data within the web root. So we can call “Server.MapPath(“~/App\_Data/SSW SQL DeploySampleData”) instead.
+1. We are in a web service… lets store data within the web root. So we can call “Server.MapPath(“~/App_Data/SSW SQL DeploySampleData”) instead.
 2. Never reference an explicit path. If you need some storage for your application use IsolatedStorage.
 3. Shelve your code instead.
 
@@ -111,20 +111,20 @@ The correct things to do is to add a Bug to the backlog, but as this is probably
 
 1. Right click on the failing test Select “Create Work Item | Bug”  
     ![image](images/Findingtheproblemonapartiallysucceededbu_D7AC-image_-5-5.png)  
-{ .post-img }
-    **Figure: Create an associated bug to add to the backlog.**  
-     
+   { .post-img }
+   **Figure: Create an associated bug to add to the backlog.**  
+
 2. Set the values for the Bug making sure that it goes into the right sprint and Area. Make your steps to reproduce as explicit as possible, but “See test” is valid under these circumstances.  
      ![image](images/Findingtheproblemonapartiallysucceededbu_D7AC-image_-5-5.png)  
-{ .post-img }
-    Figure: Add it to the correct Area and set the Iteration to the Area name or the Sprint if you think it will be fixed in Sprint and make sure you bring it up at the next Scrum Meeting.  
+   { .post-img }
+   Figure: Add it to the correct Area and set the Iteration to the Area name or the Sprint if you think it will be fixed in Sprint and make sure you bring it up at the next Scrum Meeting.  
     Note: make sure you leave the “Assigned To” field blank as in Scrum team members sign up for work, you do not give it to them. The developer who broke the test will most likely either sign up for the bug, or say that they are stuck and need help.  
     Note: Visual Studio has taken care of associating the failing test with the Bug.  
-     
-3. Save…  
-     
 
-* * *
+3. Save…  
+
+
+---
 
 ## Need Help?
 
@@ -144,9 +144,3 @@ The correct things to do is to add a Bug to the backlog, but as this is probably
 { .post-img }
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [Design](http://technorati.com/tags/Design) [Developing](http://technorati.com/tags/Developing) [Testing](http://technorati.com/tags/Testing) [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
-
-
-
-
-
-

@@ -2,11 +2,11 @@
 id: "7067"
 title: "Install SharePoint 2013 on Windows Server 2012 without a domain"
 date: "2012-08-07"
-categories: 
+categories:
   - "code-and-complexity"
   - "tools-and-techniques"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "windows-server-2012"
@@ -23,7 +23,7 @@ Any setup of Team Foundation Server is not complete until you have at least trie
 note: To really use SharePoint effectively you have to buy into it as “the” solution or your internal network.
 
 > The questions is irrelevant, the answer is SharePoint
-> 
+>
 > \-[Adam Cogan](http://www.adamcogan.com/)
 
 SharePoint 2013 Preview is fully supported by Visual Studio 2012 Team Foundation Server, but I do not know what the Office teams take on Go-Live or actually using SharePoint 2013 is.
@@ -52,7 +52,7 @@ It may seam like a small thing, but make sure that you run Windows Update both b
 - **Windows 2012**
 - **SQL Server 2012**
 - **SQL Server 2008 R2**  
-    There are some dependencies in there for 2008 R2 components
+   There are some dependencies in there for 2008 R2 components
 - **Visual Studio 2012**
 
 Its a long list, but lacking a windows update can make you life incredibly painful with often little understanding as to why.
@@ -63,7 +63,7 @@ Its a long list, but lacking a windows update can make you life incredibly painf
 
 Most of the new generation of Microsoft products do as much auto detection of potential problems before they become a problem. How well they do depends on the product team, but so far SharePoint 2013 is doing ok.
 
- [![SNAGHTML3eb21c6](images/SNAGHTML3eb21c6_thumb-24-24.png "SNAGHTML3eb21c6")](http://blog.hinshelwood.com/files/2012/08/SNAGHTML3eb21c6.png)  
+[![SNAGHTML3eb21c6](images/SNAGHTML3eb21c6_thumb-24-24.png "SNAGHTML3eb21c6")](http://blog.hinshelwood.com/files/2012/08/SNAGHTML3eb21c6.png)  
 { .post-img }
 **Figure: You need the Key from TechNet**
 
@@ -155,41 +155,41 @@ I am going to configure everything as it will give me a chance to play, but note
 Here is a list of the available services and what they do:
 
 - **Access Services 2010**  
-    Allows viewing, editing, and interacting with Access Services 2010 databases in a browser.
+   Allows viewing, editing, and interacting with Access Services 2010 databases in a browser.
 - **Access Services**  
-    Allows viewing, editing, and interacting with Access Services databases in a browser.
+   Allows viewing, editing, and interacting with Access Services databases in a browser.
 - **App Management Service**  
-    Allows you to add SharePoint Apps from the SharePoint Store or the App Catalog.
+   Allows you to add SharePoint Apps from the SharePoint Store or the App Catalog.
 - **Business Data Connectivity Service**  
-    Enabling this service provides the SharePoint farm with the ability to upload BDC models that describe the interfaces of your enterprises' line of business systems and thereby access the data within these systems.
+   Enabling this service provides the SharePoint farm with the ability to upload BDC models that describe the interfaces of your enterprises' line of business systems and thereby access the data within these systems.
 - **Excel Services Application**  
-    Allows viewing and interactivity with Excel files in a browser.
+   Allows viewing and interactivity with Excel files in a browser.
 - **Lotus Notes Connector**  
-    Search connector to crawl the data in the Lotus Notes server.
+   Search connector to crawl the data in the Lotus Notes server.
 - **Machine Translation Service**  
-    Performs automated machine translation.
+   Performs automated machine translation.
 - **Managed Metadata Service**  
-    This service provides access to managed taxonomy hierarchies, keywords and social tagging infrastructure as well as Content Type publishing across site collections.
+   This service provides access to managed taxonomy hierarchies, keywords and social tagging infrastructure as well as Content Type publishing across site collections.
 - **PerformancePoint Service Application**  
-    Supports the monitoring and analytic capabilities of PerformancePoint Services such as the storage and publication of dashboards and related content.
+   Supports the monitoring and analytic capabilities of PerformancePoint Services such as the storage and publication of dashboards and related content.
 - **PowerPoint Conversion Service Application**  
-    Enables the conversion of PowerPoint presentations to various formats.
+   Enables the conversion of PowerPoint presentations to various formats.
 - **Search Service Application**  
-    Index content and serve search queries.
+   Index content and serve search queries.
 - **Secure Store Service**  
-    Provides capability to store data (e.g. credential set) securely and associate it to a specific identity or group of identities.
+   Provides capability to store data (e.g. credential set) securely and associate it to a specific identity or group of identities.
 - **State Service**  
-    Provides temporary storage of user session data for SharePoint Server components.
+   Provides temporary storage of user session data for SharePoint Server components.
 - **Usage and Health data collection**  
-    This service collects farm wide usage and health data and provides the ability to view various usage and health reports.
+   This service collects farm wide usage and health data and provides the ability to view various usage and health reports.
 - **User Profile Service Application**  
-    Adds support for My Sites, Profiles pages, Social Tagging and other social computing features. Some of the features offered by this service require Search Service Application and Managed Metadata Services to be provisioned.
+   Adds support for My Sites, Profiles pages, Social Tagging and other social computing features. Some of the features offered by this service require Search Service Application and Managed Metadata Services to be provisioned.
 - **Visio Graphics Service**  
-    Enables viewing and refreshing of Visio Web Drawings.
+   Enables viewing and refreshing of Visio Web Drawings.
 - **Word Automation Services**  
-    Provides a framework for performing automated document conversions.
+   Provides a framework for performing automated document conversions.
 - **Work Management Service Application**  
-    This service provides task aggregation across work management systems.
+   This service provides task aggregation across work management systems.
 
 Everything except the “Lotus Notes” connector are of use ![Smile](images/wlEmoticon-smile-25-25.png)
 { .post-img }
@@ -225,5 +225,3 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
-
-

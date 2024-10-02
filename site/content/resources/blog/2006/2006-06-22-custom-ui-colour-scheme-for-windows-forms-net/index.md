@@ -2,9 +2,9 @@
 id: "466"
 title: "Custom UI colour scheme for Windows Forms .NET"
 date: "2006-06-22"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
@@ -185,6 +185,3 @@ Once you have done this, all you need now is to add it to your contols:
 All done! If you have problems you can inherit from the ToolStrip control and change the renderer in the constructor...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-
-

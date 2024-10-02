@@ -2,7 +2,7 @@
 id: "67"
 title: "Microsoft, please help me diagnose TFS Administration permission issues!"
 date: "2010-03-04"
-tags: 
+tags:
   - "ssw"
   - "tfs"
   - "tfs2010"
@@ -17,7 +17,7 @@ I recently had a fun time trying to debug a permission issue I ran into using TF
 
 Update 5th March 2010 – In its style of true excellence my company has added rant to its “[Suggestions for Better TFS](http://www.ssw.com.au/ssw/Standards/BetterSoftwareSuggestions/TeamFoundationServer.aspx#PermissionIssues)”.
 
-* * *
+---
 
 <rant>
 
@@ -30,32 +30,32 @@ This message made me think that it was something to do with the Install permissi
 So I proceeded to do some checking:
 
 - Am I in the administrators group on the server?  
-    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    **Figure: Yes, I am in the administrators group on the server  
-    **
+   ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  **Figure: Yes, I am in the administrators group on the server  
+   **
 - Am I in the Administration Console users list?  
-    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    **Figure: Yes, I am in** **the Administration Console users list**
+   ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  **Figure: Yes, I am in** **the Administration Console users list**
 - Have I reapplied the permissions in the Administration Console users list ticking all the options?  
-    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    **Figure: Make sure you check all of the boxed if you want to have all the admin options  
-    **  
-    **![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    Figure: Yes, I have made sure that all my options are correct.**  
-     
+   ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  **Figure: Make sure you check all of the boxed if you want to have all the admin options  
+   **  
+   **![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  Figure: Yes, I have made sure that all my options are correct.**  
+
 - Am I in the Team Foundation administrators group?  
-    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    **Figure: Yes, I am in the Team Foundation Administrators group  
-    **
+   ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  **Figure: Yes, I am in the Team Foundation Administrators group  
+   **
 - Is my account explicitly SysAdmin on the Database server?  
-    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
-{ .post-img }
-    **Figure: Yes, I do have explicit SysAdmin on the database**
+   ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
+  { .post-img }
+  **Figure: Yes, I do have explicit SysAdmin on the database**
 
 Can you guess what the problem was?
 
@@ -70,9 +70,3 @@ This would have saved me 30 minutes, although I agree that I should change my na
 </rant>
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010)
-
-
-
-
-
-

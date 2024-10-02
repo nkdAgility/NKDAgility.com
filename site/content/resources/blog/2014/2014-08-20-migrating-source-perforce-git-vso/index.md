@@ -2,9 +2,9 @@
 id: "10677"
 title: "Migrating source from Perforce to Git on VSO"
 date: "2014-08-20"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "git"
   - "microsoft-id"
   - "migration"
@@ -47,9 +47,9 @@ In their VSO account we created a single Team Project called 'main' within which
 6. **Get your Solution to build** - Again, now that we have all of the dependencies replaced you may have broken our solution. We did, a bunch, and found that building after every change helped identify issues, and their cause, early.
 7. **Commit and Push** - now that we have the solution building we can check in. This is done in Git with a Commit to your local repository and then a Push to the TFS Git Repository.
 8. **Create CI Build** - With code now in the repository we can create a CI build to make sure we have everything right, and keep it right. We quickly used up the 50 minutes of build for free a month so we configured a private build server in an Azure VM. This is just like setting up an on-premises build server except the machine runs on Azure. Just remote desktop in and install the bits and dependencies. You may have to do this if you have custom components that you need to install on the build server. These guys use InstalliShield so they would always have had to go down this road.
-    
-    _Note: if your vendor does not provide a 'no-install' version for build servers you should put pressure on them to change their ways. If they will not then consider changing vendor. WIX is an open source installer product that is used by Microsoft to build its own installers. It will build on a build server out-of-the-box._
-    
+
+   _Note: if your vendor does not provide a 'no-install' version for build servers you should put pressure on them to change their ways. If they will not then consider changing vendor. WIX is an open source installer product that is used by Microsoft to build its own installers. It will build on a build server out-of-the-box._
+
 9. **Get your solution to build on the build server** - Build servers can be a little more... Unforgiving... Than local builds. Paths are different and if things that are installed locally on the developer workstation don't exist in source you can hit issues. Remember that NuGet and Chocolatey are your friends. NuGet for internal dependencies and Chocolaty for the external ones.
 10. **DONE**
 
@@ -64,5 +64,3 @@ There are huge benefits from moving to VSO and Git from an on-premises TFS that 
 _Note: If you are in Europe and concerned about the patriot act look up the recent court cases with Microsoft going to bat, all in, for data privacy in Europe on this exact issue. Microsoft has vowed (along with the other cloud providers) to fight the US state department on this with the assertion (correct in my opinion) that US law ends at US borders._
 
 All in I would recommend any organisation that can move to VSO to do so.
-
-

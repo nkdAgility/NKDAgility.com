@@ -2,9 +2,9 @@
 id: "10538"
 title: "Mask password in Jenkins when calling TEE"
 date: "2014-05-21"
-categories: 
+categories:
   - "tools-and-techniques"
-tags: 
+tags:
   - "jenkins"
   - "maven"
   - "tfs"
@@ -53,5 +53,3 @@ Eventually I looked in the build configuration and I found this…
 { .post-img }
 
 So for each specific job you can activate the "Mask passwords" option in the Build Environment section and all passwords are magically hidden in your builds. Awesome! How did I miss that…
-
-

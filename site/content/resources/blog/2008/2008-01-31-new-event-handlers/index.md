@@ -2,9 +2,9 @@
 id: "258"
 title: "New Event Handlers"
 date: "2008-01-31"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "code"
   - "infrastructure"
   - "tfs-event-handler"
@@ -53,6 +53,3 @@ And if you want the Reassigned handler to work add the following line:
 If you want both to work...then add both...easy.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-
-
-

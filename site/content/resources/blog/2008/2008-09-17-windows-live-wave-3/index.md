@@ -2,9 +2,9 @@
 id: "192"
 title: "Windows Live Wave 3"
 date: "2008-09-17"
-categories: 
+categories:
   - "news-and-reviews"
-tags: 
+tags:
   - "live"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -28,6 +28,3 @@ I am only really interested in Messenger and Writer, but all the
 application are there.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-
-

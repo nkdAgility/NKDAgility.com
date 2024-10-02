@@ -1,11 +1,11 @@
 ---
 categories:
-- devops
+  - devops
 author: MrHinsh
 title: Mastering Azure Repos Training
 aliases:
-- mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
 date: 2020-08-31
 delivery:
   audience: This course is appropriate for all software developers who are using or considering using Azure Repos for Git version control. Having some experience with version control is recommended. Experience with Git, Visual Studio, and C# are also helpful, but not required.
@@ -40,54 +40,13 @@ delivery:
 slug: mastering-azure-repos-training
 id: "44724"
 tags:
-- development
+  - development
 card:
   content: ""
   title: ""
   button:
     content: ""
 type: courses
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 id: "374"
 title: "The Delivery"
 date: "2007-06-25"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -12,7 +12,7 @@ slug: "the-delivery"
 
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...
 
-My daughter, Evangelina Jade Hinshelwood was born yesterday (24th June 2007) at the Southern General Hospital. Her due date was the 23rd June 2007. 
+My daughter, Evangelina Jade Hinshelwood was born yesterday (24th June 2007) at the Southern General Hospital. Her due date was the 23rd June 2007.
 
 My wife is someone who does not seam to have contractions until the last minute, so we were happily sitting at home when her waters broke on Saturday (23rd June 2007). We waited, and we waited, but no baby. The midwifes booked us in for my wife to be induced at 8am on Sunday.
 
@@ -52,6 +52,3 @@ _(gory details omitted)_
 I would just like to thank the Midwifes of the Southern General Hospital, Glasgow for there fantastic efforts and exemplary service dealing with my wife, the workmen for their speedy response, and mostly my wife, for giving me such a gorgeous girl.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

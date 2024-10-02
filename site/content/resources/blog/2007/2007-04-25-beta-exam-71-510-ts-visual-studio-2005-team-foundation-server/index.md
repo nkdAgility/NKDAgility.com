@@ -16,7 +16,3 @@ Just got my exam result for the [exam](http://hinshelwood.com/archive/2007/02/08
 The next step to embark on my MCPD: Enterprise which I am lookign forward to. Its strange to be looking forward to studying, but I study every day anyway to just do my job, and there is a prize at the end!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-
-

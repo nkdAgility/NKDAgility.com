@@ -2,9 +2,9 @@
 id: "50979"
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
 date: "2023-12-14"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg"
@@ -129,7 +129,7 @@ Starting in 2024, we will be running immersive classes in bundles as Learning Jo
 
 - [Professional Agile Leadership Essentials & Evidence-Based Management (PAL-EBM)](https://nkdagility.com/training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/pal-ebm-2024-03-08-50867/?ref=scrumorg)
 
-**_On top of a discount of 20% that has been applied to all prices until 31st May 2024, we offer a price-by-country model that has additional discounts automatically applied to all of our classes based on your location._** 
+**_On top of a discount of 20% that has been applied to all prices until 31st May 2024, we offer a price-by-country model that has additional discounts automatically applied to all of our classes based on your location._**
 
 [BOOK TODAY](https://nkdagility.com/training-courses/course-schedule/?ref=scrumorg) <– Regional pricing, bulk discounts, & and alumni discounts are available!
 
@@ -146,5 +146,3 @@ _If you are underemployed, we can also create custom payment plans to help you o
 - [Is homework a necessary evil? (](https://www.apa.org/monitor/2016/03/homework)[apa.org](http://apa.org/)[)](https://www.apa.org/monitor/2016/03/homework)
 
 - [Immersive Learning Overview - naked Agility with Martin Hinshelwood (](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)[nkdagility.com](http://nkdagility.com/)[)](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)
-
-

@@ -15,6 +15,3 @@ Well, here it is:
 [http://blogs.msdn.com/ukvsts/default.aspx](http://blogs.msdn.com/ukvsts/default.aspx)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

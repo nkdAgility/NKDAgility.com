@@ -2,9 +2,9 @@
 id: "11456"
 title: "Getting started with a modern source control system and DevOps"
 date: "2017-11-10"
-categories: 
+categories:
   - "measure-and-learn"
-tags: 
+tags:
   - "developers"
   - "devops"
   - "engineering-excellence"
@@ -20,7 +20,7 @@ slug: "getting-started-with-modern-source-control-system-and-devops"
 There are a number of things that you have to think about when selecting a modern source control system. Some of that is purely about code, but modern source control systems are about way more than code. They are about your entire application lifecycle and supporting DevOps practices, they are about the metadata that you use to understand and manage your development processes and deliver great software. The tools you choose should compliment the professional people and practices that you use.
 
 > DevOps is the union of people, processes, and practices to enable continious delivery of value to your end users
-> 
+>
 > Donovan Brown
 
 ## TL;DR
@@ -63,5 +63,3 @@ In order to support these things, I use VSTS as my software development platform
 **Don’t get locked into a limited set of technologies, VSTS supports every technology on every platform.**
 
 Find out more on [Visual Studio Team Services](https://nkdagility.com/training/) from [naked Agility - Martin Hinshelwood](https://nkdagility.com/company/about-martin-hinshelwood/).
-
-

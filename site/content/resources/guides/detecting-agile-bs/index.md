@@ -4,21 +4,21 @@ description: The purpose of this document is to provide guidance to DoD program 
 type: guide
 image: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png
 references:
- - title: DIB Guide - Detecting Agile BS
-   url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
- - title: Defense Innovation Board Ten Commandments of Software
-   url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
- - title: Defense Innovation Board Metrics for Software Development
-   url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
- - title: Defense Innovation Board Do’s and Don’ts for Software
-   url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
+  - title: DIB Guide - Detecting Agile BS
+    url: https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF
+  - title: Defense Innovation Board Ten Commandments of Software
+    url: https://media.defense.gov/2018/Apr/22/2001906836/-1/-1/0/DEFENSEINNOVATIONBOARD_TEN_COMMANDMENTS_OF_SOFTWARE_2018.04.20.PDF
+  - title: Defense Innovation Board Metrics for Software Development
+    url: https://media.defense.gov/2018/Jul/10/2001940937/-1/-1/0/DIB_METRICS_FOR_SOFTWARE_DEVELOPMENT_V0.9_2018.07.10.PDF
+  - title: Defense Innovation Board Do’s and Don’ts for Software
+    url: https://media.defense.gov/2018/Oct/09/2002049593/-1/-1/0/DIB_DOS_DONTS_SOFTWARE_2018.10.05.PDF
 videos:
- - title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
-   embed: https://www.youtube.com/embed/OJ-7YVekG2s
- - title: "stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too"
-   embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
- - title: "Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps"
-   embed: https://www.youtube.com/embed/5bgcpPqcGlw
+  - title: stackconf 2021 | The Tyranny of Taylorism and how to spot Agile BS
+    embed: https://www.youtube.com/embed/OJ-7YVekG2s
+  - title: "stackconf online 2020 | Agile Evolution: An Enterprise transformation that shows that you can too"
+    embed: https://www.youtube.com/embed/6D7ZC5Yq8rU
+  - title: "Agile Evolution: Live Site Culture & Site Reliability at Azure DevOps"
+    embed: https://www.youtube.com/embed/5bgcpPqcGlw
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -26,8 +26,8 @@ card:
     content: Learn More
   content: Discover more about Detecting Agile BS and how it can help you in your Agile journey!
   title: Detecting Agile BS
-aliases: 
-- /Guides/Detecting-Agile-BS.html
+aliases:
+  - /Guides/Detecting-Agile-BS.html
 ---
 
 Agile is a buzzword of software development, and so all DoD software development projects are, almost by default, now declared to be “agile.” The purpose of this document is to provide guidance to DoD program executives and acquisition professionals on how to detect software projects that are really using agile development versus those that are simply waterfall or spiral development in agile clothing (“agile-scrum-fall”).
@@ -40,12 +40,13 @@ Experts and devotees profess certain key “values” to characterize the cultur
 agile development. In its work, the DIB has developed its own guiding maxims that roughly map
 to these true agile values:
 
-| Agile value      | DIB maxim |
-| ----------- | ----------- |
-| Individuals and interactions over processes and tools      | “Competence trumps process”       |
-| Working software over comprehensive documentation   | “Minimize time from program launch to deployment of simplest useful functionality”        |
-| Customer collaboration over contract negotiation   | “Adopt a DevSecOps culture for software systems”        |
-| Responding to change over following a plan   | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly”        |	
+| Agile value                                           | DIB maxim                                                                                             |
+| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| Individuals and interactions over processes and tools | “Competence trumps process”                                                                           |
+| Working software over comprehensive documentation     | “Minimize time from program launch to deployment of simplest useful functionality”                    |
+| Customer collaboration over contract negotiation      | “Adopt a DevSecOps culture for software systems”                                                      |
+| Responding to change over following a plan            | “Software programs should start small, be iterative, and build on success ‒ or be terminated quickly” |
+
 {: .table .table-striped .table-bordered .d-none .d-md-block}
 
 Key flags that a project is not really agile:
@@ -88,7 +89,7 @@ Graphical version:
 - What are your management metrics for development and operations; how are they used to inform priorities, detect problems; how often are they accessed and used by leadership?
 - What have you learned in your past three sprint cycles and what did you do about it? (Wrong answers: “what’s a sprint cycle?,” “we are waiting to get approval from management”)
 - Who are the users that you deliver value to each sprint cycle? Can we talk to them? (Wrong answers: “we don’t directly deploy our code to users”)
-  
+
 ## Questions for Customers and Users
 
 - How do you communicate with the developers? Did they observe your relevant teams working and ask questions that indicated a deep understanding of your needs? When is the last time they sat with you and talked about features you would like to see implemented?

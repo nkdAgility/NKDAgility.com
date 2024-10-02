@@ -2,9 +2,9 @@
 id: "38334"
 title: "Introducing Kanban for Professional Scrum Teams"
 date: "2018-02-26"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "kanban"
   - "professioal-scrum"
   - "professional-kanban"
@@ -61,5 +61,3 @@ This is an implementation of Kanban within the context of Scrum and as such has 
 Working with [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/) has opened my eyes to throughput and how it can replace velocity and help answer many of the questions that I have been asking for some time. His training and this class made so much sense that I don't know why we have not yet adopted these practices in mainstream Scrum. I think that is time for a change.
 
 If you are interested in the same revelations that I had you can read the Guide, and if you like what you see then attend a [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class with [Chris McDermott](https://www.linkedin.com/in/chrisvmcd/) and I.
-
-

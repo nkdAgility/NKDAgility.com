@@ -2,7 +2,7 @@
 id: "287"
 title: "Mozy Backup"
 date: "2007-11-26"
-categories: 
+categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
@@ -31,6 +31,3 @@ And speaking of data size, did you notice that I don't have enough space for a f
 Only 11 hours to go till I have a full backup :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-
-

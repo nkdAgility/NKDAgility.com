@@ -2,7 +2,7 @@
 id: "408"
 title: "TFS EventHandler: Now on CodePlex"
 date: "2007-04-30"
-tags: 
+tags:
   - "tfs-event-handler"
   - "wit"
 coverImage: "nakedalm-logo-128-link-1-1.png"
@@ -20,6 +20,3 @@ With that in mind, I will be doing some level of documentation for the system.
 Fancy joining in then give me a shout over at the [forum](http://www.codeplex.com/TFSEventHandler/Thread/View.aspx?ThreadId=9761).
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
-
-
-

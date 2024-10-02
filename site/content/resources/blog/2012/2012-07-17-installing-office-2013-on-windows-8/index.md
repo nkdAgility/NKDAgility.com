@@ -2,9 +2,9 @@
 id: "6306"
 title: "Installing Office 2013 on Windows 8"
 date: "2012-07-17"
-categories: 
+categories:
   - "code-and-complexity"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "office"
@@ -72,5 +72,3 @@ I love the new feature of Office 2013 and its the spit and polish that makes me 
 { .post-img }
 
 **What do you think of Office 2013?**
-
-

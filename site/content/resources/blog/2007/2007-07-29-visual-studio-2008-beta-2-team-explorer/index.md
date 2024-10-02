@@ -2,7 +2,7 @@
 id: "356"
 title: "Visual Studio 2008 Beta 2 Team Explorer"
 date: "2007-07-29"
-tags: 
+tags:
   - "visual-studio"
   - "vs2005"
   - "vs2008"
@@ -19,6 +19,3 @@ I think that Team Explorer should be included as an optional install for Visual 
 I will get back to you once I have VSTE installed...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
-
-
-

@@ -2,9 +2,9 @@
 id: "10446"
 title: "What my father taught me about Evidence-based Management (34 years before it was invented!)"
 date: "2014-03-20"
-categories: 
+categories:
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "ebmgt"
   - "evidence-based-management"
@@ -29,7 +29,7 @@ There is lots of help for these organisation but how can they be sure not only t
 
 Evidence-based Management (EBM or EBMgt)'s roots are in Evidence-based Medicine and evidence based policy. The idea is to bring scientific methods to the front of the way we do things and EBM's goal is to bring it front and centre in management of organisations.
 
-> Evidence-based management entails managerial decisions and organizational practices informed by the best available scientific evidence.[http://en.wikipedia.org/wiki/Evidence-based\_management](http://en.wikipedia.org/wiki/Evidence-based_management)
+> Evidence-based management entails managerial decisions and organizational practices informed by the best available scientific evidence.[http://en.wikipedia.org/wiki/Evidence-based_management](http://en.wikipedia.org/wiki/Evidence-based_management)
 
 In order to even begin to understand where we need to go we need to understand where we are right now. If management can effectively understand where we currently are then you can much more easily prevent backsliding to the old ways once you improve. This is in essence why scientific and proven practices should replace the more traditional 'gut feeling' used prolifically in management.
 
@@ -70,9 +70,7 @@ Using the circumstantial evidence or organisational maturity from the practice b
 { .post-img }
 
 > Evidence-based Management for Software Organisations: A framework within which people can address complex organizational change, while productively and creatively improving the enterprise and its products.
-> 
+>
 > You can find out more about Evidence-based Management for Software Organisations on [http://ebmgt.org](http://ebmgt.org)
 
 Your organisation probably has metrics that you use now. However ask yourself if these metrics can tell you how much value that their projects delivered last year. If not the should focus on value… and agility path includes a bunch of tools that are optimised to help you to understand and optimise that value.
-
-

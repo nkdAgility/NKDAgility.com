@@ -2,9 +2,9 @@
 id: "10975"
 title: "Create log entries in Release Management"
 date: "2014-12-12"
-categories: 
+categories:
   - "install-and-configuration"
-tags: 
+tags:
   - "deploy"
   - "powershell"
   - "release-management"
@@ -35,7 +35,7 @@ Set-Content $destinationPathweb.config $config
 Write-Host "Updated web.config"
 ```
 
- Well lets try "Write-Host"…
+Well lets try "Write-Host"…
 
 ![clip_image002](images/clip_image0021-2-2.png "clip_image002")
 { .post-img }
@@ -54,7 +54,7 @@ Moo.. That’s just a nasty error that should never happen. SO lets try a simple
 Write-Output "applicationAnalyticsKey: $applicationAnalyticsKey"
 ```
 
- ![clip_image003](images/clip_image0031-3-3.png "clip_image003")
+![clip_image003](images/clip_image0031-3-3.png "clip_image003")
 { .post-img }
 
 Dam… "Write-Output" just disappears into the ether. It really should end up in the output but… well… it does not.. And "Write-Verbose" also end up nowhere, but that is a little more expected. At this point I am at a loss and ping the product team. Really, if I write something to the output and I would see it if running from the command line I want to see it in the log file. However for RM you need to explicitly declare output by using the "-verbose" command to tell PowerShell to actually write the verbose statements.
@@ -63,9 +63,7 @@ Dam… "Write-Output" just disappears into the ether. It really should end up in
 Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 ```
 
- ![clip_image004](images/clip_image0041-4-4.png "clip_image004")
+![clip_image004](images/clip_image0041-4-4.png "clip_image004")
 { .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
-
-

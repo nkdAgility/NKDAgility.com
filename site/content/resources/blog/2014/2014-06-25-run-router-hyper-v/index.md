@@ -2,11 +2,11 @@
 id: "10617"
 title: "Run a router on Hyper-V"
 date: "2014-06-25"
-categories: 
+categories:
   - "install-and-configuration"
   - "problems-and-puzzles"
   - "tools-and-techniques"
-tags: 
+tags:
   - "hootoo-tripmate"
   - "hyper-v"
   - "network"
@@ -51,7 +51,7 @@ Above you can see how you create the VHD and apply the settings on Windows 8. Ma
 Once you have created your empty VHD you need to take note only of the disk number. In this case it is "Disk 2". This is where we will write the image from our firmware and we need a couple of things to move forward:
 
 - [physdiskwrite](onenote:#CHECK%20Using%20a%20router%20to%20support%20Hyper-V&section-id={965C1CBE-C6B3-4425-B140-4B0EC0671288}&page-id={0F6DF006-4E9F-4670-8535-309194E75A43}&object-id={16DD4318-D6AD-0B9C-02B0-146BB0E9AA87}&77&base-path=https://nakedalm-my.sharepoint.com/personal/martin_nakedalm_com/Documents/nakedALMBlog/Blog/In%20Progress.one) - This is tool with both UI and Command line for taking an image and writing it to our VHD
-- [DD-WRT image for x86](http://www.dd-wrt.com/site/support/router-database) - In the search box type x86 to see a list of downloads. Look for the one called dd-wrt\_public\_vga.image. At the time of writing the latest version was 3744 and available from [http://www.dd-wrt.com/routerdb/de/download/X86/X86///dd-wrt\_public\_vga.image/3744](http://www.dd-wrt.com/routerdb/de/download/X86/X86/dd-wrt_public_vga.image/3744)
+- [DD-WRT image for x86](http://www.dd-wrt.com/site/support/router-database) - In the search box type x86 to see a list of downloads. Look for the one called dd-wrt_public_vga.image. At the time of writing the latest version was 3744 and available from [http://www.dd-wrt.com/routerdb/de/download/X86/X86///dd-wrt_public_vga.image/3744](http://www.dd-wrt.com/routerdb/de/download/X86/X86/dd-wrt_public_vga.image/3744)
 
 And that’s all you need to get going. You can call physdiskwrite from the command line or you can use the UI. Either way works however the UI is in German and I have found that the command line give better feedback.
 
@@ -134,5 +134,3 @@ It should be as simple as enabling the WAN port, and configuring the Public Virt
 However I can't seem to figure out how to get the router online without taking me out with it so its the HooToo TripMate for now.. It’s a little difficult to debug when I am always on hotel and corporate networks with goodness knows what restrictions. I think I will need a couple of days on a non-limited network to figure out this last bit… I get a couple of days off next week so we will see.
 
 Have you managed to get this working?
-
-

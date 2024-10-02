@@ -2,7 +2,7 @@
 id: "4104"
 title: "SSRS vs SCVMM - The Kerberos token dispute"
 date: "2011-12-29"
-tags: 
+tags:
   - "kerberos"
   - "nwcadence"
   - "ssrs"
@@ -59,7 +59,7 @@ They will still need to follow "[Always prompted for credentials in TFS 2010?](h
 
 Then, after solving the SSRS issue we went to add the second Hyper-V host to SCVMM and the Job erred out. I looked at the error and as usual it was no help, so after a few tries I rebooted all of the servers and tried again. This time I got a nasty Kerberos error that there were duplicate entries competing for tokens.
 
-> The Kerberos client received a KRB\_AP\_ERR\_MODIFIED error from the server tfs01. The target name used was HTTP/tfs01. This indicates that the target server failed to decrypt the ticket provided by the client. This can occur when the target server principal name (SPN) is registered on an account other than the account the target service is using. Please ensure that the target SPN is registered on, and only registered on, the account used by the server. This error can also happen when the target service is using a different password for the target service account than what the Kerberos Key Distribution Center (KDC) has for the target service account. Please ensure that the service on the server and the KDC are both updated to use the current password. If the server name is not fully qualified, and the target domain (DOMAIN.COM) is different from the client domain (DOMAIN.COM), check if there are identically named server accounts in these two domains, or use the fully-qualified name to identify the server.
+> The Kerberos client received a KRB_AP_ERR_MODIFIED error from the server tfs01. The target name used was HTTP/tfs01. This indicates that the target server failed to decrypt the ticket provided by the client. This can occur when the target server principal name (SPN) is registered on an account other than the account the target service is using. Please ensure that the target SPN is registered on, and only registered on, the account used by the server. This error can also happen when the target service is using a different password for the target service account than what the Kerberos Key Distribution Center (KDC) has for the target service account. Please ensure that the service on the server and the KDC are both updated to use the current password. If the server name is not fully qualified, and the target domain (DOMAIN.COM) is different from the client domain (DOMAIN.COM), check if there are identically named server accounts in these two domains, or use the fully-qualified name to identify the server.
 
 Figure: [http://support.microsoft.com/kb/970923](http://support.microsoft.com/kb/970923)
 
@@ -82,5 +82,3 @@ There is NO way that you can have SCVMM and RS running under AD Credentials to c
 As my mother used to do with my brother and I: i separated them.
 
 Simples!
-
-

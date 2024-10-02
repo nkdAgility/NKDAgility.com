@@ -2,9 +2,9 @@
 id: "9895"
 title: "Should GeeksWithBlogs move to the Wordpress Platform?"
 date: "2011-02-16"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "wordpress"
 coverImage: "nakedalm-logo-128-link-4-4.png"
 author: "MrHinsh"
@@ -19,9 +19,9 @@ Geekswithblogs was my first ever blog and my first post was on 22nd June 2006. S
 
 Vote now for a migration of the awesome Geekswithblogs content from SubText to Wordpress.
 
-**Update 2011-01-06 - Due to some friction and lack of interest in the wants of users over technology I have moved my blog to Wordpress anyway. [Do you want to know how?](http://gwbtowp.codeplex.com/)** 
+**Update 2011-01-06 - Due to some friction and lack of interest in the wants of users over technology I have moved my blog to Wordpress anyway. [Do you want to know how?](http://gwbtowp.codeplex.com/)**
 
-* * *
+---
 
 Having been a long time user of GWB I have been worried of late by my envy of other blogging platforms. I made a number of requests around 10 months ago for things that almost all blogging platforms provide, but which are not available on GWB.
 
@@ -47,7 +47,7 @@ I realise that it is difficult to find time to add all of the features that all 
 
 This could be a turning point in the legendary history of Geeks With Blogs, be part of it…
 
- 
+
 
 ### What can I do to make this happen?
 
@@ -56,5 +56,3 @@ This could be a turning point in the legendary history of Geeks With Blogs, be p
 
 - [**Vote for it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 - [**Discuss it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
-
-

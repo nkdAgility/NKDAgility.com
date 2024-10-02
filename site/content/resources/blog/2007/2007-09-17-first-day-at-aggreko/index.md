@@ -2,9 +2,9 @@
 id: "310"
 title: "First day at Aggreko"
 date: "2007-09-17"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "aggreko"
   - "sp2007"
 coverImage: "metro-aggreko-128-link-1-1.png"
@@ -24,6 +24,3 @@ Hmm, I think I [blogged](http://blog.hinshelwood.com/archive/2007/08/24/Sharepoi
 They already have a wicked farm setup, but with nothing on it. And there are masses of propriatory workflow and applciations to migrate...Thisis not a small job.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [Personal](http://technorati.com/tags/Personal)
-
-
-

@@ -1,6 +1,6 @@
 ---
 categories:
-- agility
+  - agility
 type: courses
 card:
   content: ""
@@ -70,61 +70,20 @@ delivery:
     <!-- /wp:paragraph -->
   courseIcon: APK@2x.png
 tags:
-- certification
-- kanban
-- lean
-- team
-- teams
+  - certification
+  - kanban
+  - lean
+  - team
+  - teams
 aliases:
-- applying-professional-kanban
-- applying-professional-kanban-training-with-certification
-- /training-courses/kanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - applying-professional-kanban
+  - applying-professional-kanban-training-with-certification
+  - /training-courses/kanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
 slug: applying-professional-kanban-apk-training-experience-with-certification
 date: 2020-12-17
 id: "45447"
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Embark on a continuous learning journey with our updated 'Applying Professional Kanban' course, now offered as an [Immersion Training experience](https://nkdagility.com/blog/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving/). This innovative format extends the learning over several weeks with concise, live sessions, blending real-world application with reflective practice for a truly effective learning journey.
 
 With incremental classroom learning, outcome-based assignments, and facilitated reflections, this course offers a practical approach to mastering Kanban. Ideal for those who thrive on applying and experimenting in real-time work environments, this immersive strategy ensures deeper understanding, collaborative growth, and the ability to make an immediate positive impact in your professional setting.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

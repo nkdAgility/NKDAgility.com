@@ -2,9 +2,9 @@
 id: "7161"
 title: "TFS Preview - Issue: TF400898 The underlying connection was closed"
 date: "2012-08-16"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tf400898"
   - "tfs2012"
@@ -56,15 +56,15 @@ If you find something like this then you need to contact the product team throug
 I escalated this to the Product Team and after a few questions and screenshots they investigated and identified a bug in VC subsystem which under certain circumstances can result in deleting files.  Here are the technical details:
 
 > A call to the Upload server call in Dev11 consists of three database calls. Version control is the orchestrator of the operation and it controls these three steps. Steps 1 and 3 are VC steps. Step 2 is owned by the file service.
-> 
-> 1. Pre-upload (prc\_PreUploadFile) – checks to make sure the server item ($/…) for which the user is calling is eligible for upload (existence check, etc.)
-> 2. Upload – this phase is delegated to the file service. At the end of this call, the row in tbl\_File is created and its OwnerId is set to 1.
-> 3. Post-upload (prc\_PostUploadFile). The row for this item in tbl\_PendingChange is modified to get the FileId for the row in tbl\_File.
-> 
-> There is no overarching transaction for these three steps. If prc\_DeleteUnusedContent runs between steps 2 and 3 above then it will garbage collect the file ID it just created because it appears the file ID is unrooted in VC.
-> 
+>
+> 1. Pre-upload (prc_PreUploadFile) – checks to make sure the server item ($/…) for which the user is calling is eligible for upload (existence check, etc.)
+> 2. Upload – this phase is delegated to the file service. At the end of this call, the row in tbl_File is created and its OwnerId is set to 1.
+> 3. Post-upload (prc_PostUploadFile). The row for this item in tbl_PendingChange is modified to get the FileId for the row in tbl_File.
+>
+> There is no overarching transaction for these three steps. If prc_DeleteUnusedContent runs between steps 2 and 3 above then it will garbage collect the file ID it just created because it appears the file ID is unrooted in VC.
+>
 > I applied a temporary mitigation to your account through which you should be able to access the file.  Can you please re-try accessing the file and let me know if you still are able to repro the issue now?
-> 
+>
 > We already ported a fix into RTM & will be working on deploying a hotfix to the service on Friday or Monday.  
 > \-Madhu Kavikondala
 
@@ -72,5 +72,3 @@ This had now been fixed not just for me, but across both the hosted service and 
 { .post-img }
 
 **Are you having problems with TFS Preview? Don’t sit and fizz… Check the [TFS Preview status](https://tfspreview.com/en-us/support/current-service-status/ "TFS Preview status") or [raise a bug](https://connect.microsoft.com/VisualStudio/feedback/CreateFeedback.aspx).**
-
-

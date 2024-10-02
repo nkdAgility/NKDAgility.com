@@ -2,9 +2,9 @@
 id: "7402"
 title: "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure"
 date: "2012-08-22"
-categories: 
+categories:
   - "problems-and-puzzles"
-tags: 
+tags:
   - "puzzles"
   - "tf10141"
   - "tf14080"
@@ -49,7 +49,7 @@ After which you will be greeted with a “your migration was successful”, but 
 
 You need to look at the logs now, and low and behold:
 
-> Checkin failed - TF14080: The item '$/XXX XXXX/XXX/Version4\_0-Next\_Build/XXXAdmin/App\_WebReferences/XXXXXXXWCF/Reference.svcmap' has a pending merge / rollback conflict, run resolve before checking in.
+> Checkin failed - TF14080: The item '$/XXX XXXX/XXX/Version4_0-Next_Build/XXXAdmin/App_WebReferences/XXXXXXXWCF/Reference.svcmap' has a pending merge / rollback conflict, run resolve before checking in.
 
 To start moving forward we need to move back… delete the rule (“View Conflicts | View Rules”) and click “Start” again.
 
@@ -124,5 +124,3 @@ After Jameson pointed this out to me I was muttering like a Pirate that has stub
 <warning>
 
 **Did this solve your conflict?**
-
-

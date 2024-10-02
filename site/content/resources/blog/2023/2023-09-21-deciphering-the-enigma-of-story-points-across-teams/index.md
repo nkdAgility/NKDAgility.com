@@ -2,9 +2,9 @@
 id: "49888"
 title: "Deciphering the Enigma of Story Points Across Teams"
 date: "2023-09-21"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "featured"
   - "homepage"
 coverImage: "naked-agility-technically-flow-not-velocity-5-5.jpg"
@@ -27,13 +27,13 @@ The essence of agile frameworks like Scrum is value delivery, and the correlatio
 
 **But is there any value in Story Points?**
 
-Aye, there is. In my experience, Story Points can be a great tool during backlog item refinement. They foster discussions, highlighting what's known and, more importantly, what's not: Outliers during planning poker often signal gaps in understanding. 
+Aye, there is. In my experience, Story Points can be a great tool during backlog item refinement. They foster discussions, highlighting what's known and, more importantly, what's not: Outliers during planning poker often signal gaps in understanding.
 
 Tools like Story Points and Planning Poker can be invaluable in understanding when to dissect items further and spark discussions during refinement. I would expect teams to shift more towards right-sizing, ensuring that backlog items are feasible within a Sprint, as they gain more experience and understanding of the product, its domain, and the technology used.
 
 ### A Story of Flow and Value
 
-The crux of this discourse lies in two vectors: throughput and value. 
+The crux of this discourse lies in two vectors: throughput and value.
 
 - **Throughput** is a tangible measure of items delivered over time.
 
@@ -68,5 +68,3 @@ Simultaneously, to truly maximise team output, we must also focus on the value o
 { .post-img }
 
 The ultimate goal is to enhance both throughput and value concurrently. Striking a balance is crucial; we neither want sluggish excellence nor a barrage of mediocrity.
-
-

@@ -2,7 +2,7 @@
 id: "86"
 title: "Visual Studio 2010 Beta 2 is available Now!"
 date: "2009-10-19"
-tags: 
+tags:
   - "aggreko"
   - "tfs"
   - "tfs2010"
@@ -56,6 +56,3 @@ Check out the new channel 9 videos:
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[Visual Studio ALM](http://technorati.com/tags/Visual+Studio+ALM)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Testing](http://technorati.com/tags/Testing) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [Visual Studio](http://technorati.com/tags/Visual+Studio) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
-
-
-

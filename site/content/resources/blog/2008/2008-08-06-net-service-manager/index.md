@@ -2,9 +2,9 @@
 id: "213"
 title: ".NET Service Manager"
 date: "2008-08-06"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "tools"
   - "wcf"
 coverImage: "nakedalm-logo-128-link-2-2.png"
@@ -25,6 +25,3 @@ It is quite simple, but has a plethora of uses… One of the best is creating Cl
 { .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
-
-
-

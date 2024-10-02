@@ -2,7 +2,7 @@
 id: "218"
 title: "Error creating listener in Team Build"
 date: "2008-07-04"
-tags: 
+tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
@@ -19,6 +19,3 @@ I first tried giving the service account administrator rights, and this did not 
 Happy now…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-
-

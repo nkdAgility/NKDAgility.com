@@ -2,9 +2,9 @@
 id: "294"
 title: "Where am I?"
 date: "2007-11-09"
-categories: 
+categories:
   - "me"
-tags: 
+tags:
   - "ml"
   - "wcf"
 coverImage: "metro-merilllynch-128-link-5-1.png"
@@ -55,13 +55,13 @@ Which produces this crazy SQL:
 > ```
 > SELECT [t2].[Country], [t2].[Name], [t1].[Data]
 > FROM [dbo].[WhereAmI_UserIP] AS [t0]
-> INNER JOIN [dbo].[WhereAmI_IPMask] AS [t1] ON SUBSTRING([t0].[CurrentIP], @p0 + 1, 
->     (CASE 
+> INNER JOIN [dbo].[WhereAmI_IPMask] AS [t1] ON SUBSTRING([t0].[CurrentIP], @p0 + 1,
+>     (CASE
 >         WHEN (CONVERT(Int,DATALENGTH(@p1) / 2)) = 0 THEN (CONVERT(Int,DATALENGTH([t0].[CurrentIP]) / 2)) - 1
 >         WHEN CHARINDEX(@p1, [t0].[CurrentIP]) = 0 THEN -1
 >         ELSE 1 + ((CONVERT(Int,DATALENGTH([t0].[CurrentIP]) / 2)) - ((CONVERT(Int,DATALENGTH(@p1) / 2)) + CHARINDEX(REVERSE(@p1), REVERSE([t0].[CurrentIP]))))
->      END)) = SUBSTRING([t1].[Data], @p2 + 1, 
->     (CASE 
+>      END)) = SUBSTRING([t1].[Data], @p2 + 1,
+>     (CASE
 >         WHEN (CONVERT(Int,DATALENGTH(@p3) / 2)) = 0 THEN (CONVERT(Int,DATALENGTH([t1].[Data]) / 2)) - 1
 >         WHEN CHARINDEX(@p3, [t1].[Data]) = 0 THEN -1
 >         ELSE 1 + ((CONVERT(Int,DATALENGTH([t1].[Data]) / 2)) - ((CONVERT(Int,DATALENGTH(@p3) / 2)) + CHARINDEX(REVERSE(@p3), REVERSE([t1].[Data]))))
@@ -69,13 +69,10 @@ Which produces this crazy SQL:
 > INNER JOIN [dbo].[WhereAmI_Office] AS [t2] ON [t1].[OfficeID] = [t2].[OfficeID]
 > WHERE [t0].[UserID] = @p4',N'@p0 int,@p1 nvarchar(1),@p2 int,@p3 nvarchar(1),@p4 nvarchar(20)
 > ```
-> 
+>
 > [](http://11011.net/software/vspaste)
 
 Now that is nuts ![smile_omg](images/smile_omg-6-2.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-
-
-

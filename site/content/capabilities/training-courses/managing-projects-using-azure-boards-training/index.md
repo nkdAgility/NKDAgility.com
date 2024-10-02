@@ -1,6 +1,6 @@
 ---
 categories:
-- devops
+  - devops
 type: courses
 card:
   content: ""
@@ -72,54 +72,13 @@ delivery:
   lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
   courseIcon: A-MPAB.png
 tags:
-- team
+  - team
 aliases:
-- managing-projects-using-azure-boards
-- /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
+  - managing-projects-using-azure-boards
+  - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
 slug: managing-projects-using-azure-boards-training
 date: 2020-08-31
 id: "44721"
-
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

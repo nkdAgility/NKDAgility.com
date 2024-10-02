@@ -2,10 +2,10 @@
 id: "10367"
 title: "Metrics that matter with evidence-based management"
 date: "2014-02-25"
-categories: 
+categories:
   - "events-and-presentations"
   - "people-and-process"
-tags: 
+tags:
   - "agile"
   - "ebmgt"
   - "evidence-based-management"
@@ -52,7 +52,7 @@ Circumstantial evidence is data that we use to support our analysis and with Tea
 ![image17](images/image171-1-1.png "image17")
 { .post-img }
 
- 
+
 
 …always check the data with the source.
 
@@ -181,7 +181,7 @@ The dataset that is the outcome of collecting the previous stats are then rolled
 There are really two types of evidence available to us:
 
 > Evidence, broadly construed, is anything presented in support of an assertion:
-> 
+>
 > - Strongest type of evidence is that which provides direct proof of the validity of the assertion.
 > - Weakest type of evidence is that which is merely consistent with the assertion, but doesn’t rule out contradictory assertions, as in circumstantial evidence.
 
@@ -222,5 +222,3 @@ The Agility Index calculator rolls all of the gathered evidence up and aggregate
 This is a game changer for the software industry at large and create a credible set of metrics for the first time that can be used to guide process improvement initiatives regardless of the framework used to deliver that improvement. Agility Path, SAFe, or Kanban can be measured equally.
 
 Do you want to use Evidence-based Management to improve your processes?
-
-

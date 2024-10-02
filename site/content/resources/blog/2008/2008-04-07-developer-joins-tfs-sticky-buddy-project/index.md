@@ -2,10 +2,10 @@
 id: "242"
 title: "Developer joins TFS Sticky Buddy project"
 date: "2008-04-07"
-categories: 
+categories:
   - "news-and-reviews"
   - "products-and-books"
-tags: 
+tags:
   - "infrastructure"
   - "tfs"
   - "tfs-sticky-buddy"
@@ -22,6 +22,6 @@ Well, hopefully that is about to change with the addition of [Eric Willeke](http
 
 Eric, I hope you are good a deciphering convoluted and complicated code that at times borders on the nasty!
 
- 
+
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)

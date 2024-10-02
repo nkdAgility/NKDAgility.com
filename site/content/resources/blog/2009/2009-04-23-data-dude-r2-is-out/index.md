@@ -2,7 +2,7 @@
 id: "130"
 title: "Data Dude R2 is out!"
 date: "2009-04-23"
-tags: 
+tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"

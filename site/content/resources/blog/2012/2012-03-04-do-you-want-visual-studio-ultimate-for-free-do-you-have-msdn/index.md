@@ -2,10 +2,10 @@
 id: "4828"
 title: "Do you have MSDN at work? Use Visual Studio Ultimate for free at home?"
 date: "2012-03-04"
-categories: 
+categories:
   - "me"
   - "tools-and-techniques"
-tags: 
+tags:
   - "configuration"
   - "develop"
   - "msdn"
@@ -27,7 +27,7 @@ Are you a professional developer? Do you get an MSDN from your organisation? Did
 
 That's right, the MSDN that you company bought you entitles you to run Windows, Office & Visual Studio in production at home. Its a licence for YOU and not just for them.
 
- [![image](images/image_thumb12-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image12.png)  
+[![image](images/image_thumb12-1-1.png "image")](http://blog.hinshelwood.com/files/2012/03/image12.png)  
 { .post-img }
 **Figure: Over 11 terabytes of data on MSDN**
 
@@ -60,5 +60,3 @@ And just in case you were worries about buying licences for your business accept
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 MSDN has one of the most flexible licencing terms in the industry and you should be using it to its full potential and not leaving it on a shelf! It will make some of your developers more valuable if they can exercise the tools in their spare time and the others just will not take advantage of it.
-
-

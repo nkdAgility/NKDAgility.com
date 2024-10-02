@@ -2,10 +2,10 @@
 id: "253"
 title: "Installing MOSS 2007 from scratch"
 date: "2008-01-31"
-categories: 
+categories:
   - "code-and-complexity"
   - "upgrade-and-maintenance"
-tags: 
+tags:
   - "configuration"
   - "infrastructure"
   - "moss"
@@ -86,6 +86,3 @@ Well that's it all installed, just waiting for my SPN's so I can start adding si
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
-

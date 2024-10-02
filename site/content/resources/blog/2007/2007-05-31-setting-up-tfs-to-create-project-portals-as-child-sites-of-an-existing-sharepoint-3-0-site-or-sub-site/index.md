@@ -2,7 +2,7 @@
 id: "390"
 title: "Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)"
 date: "2007-05-31"
-tags: 
+tags:
   - "sp2007"
   - "tfs"
 author: "MrHinsh"

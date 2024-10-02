@@ -2,7 +2,7 @@
 id: "3606"
 title: "A working Test Track Pro Adapter for the TFS Integration Platform"
 date: "2011-06-06"
-tags: 
+tags:
   - "nwcadence"
   - "ttp"
   - "tfs"
@@ -18,42 +18,37 @@ slug: "a-working-test-track-pro-adapter-for-the-tfs-integration-platform"
 
 Well, it has been a long road from [misery](http://blog.hinshelwood.com/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history/) to [hope](http://blog.hinshelwood.com/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details/) with a little [disbelief](http://blog.hinshelwood.com/test-track-pro-and-the-case-of-the-missing-data/) thrown in for good measure, but I finally have a working Adapter for the TFS Integration Platform.
 
-  
-
 ### Acknowledgements
 
 - [Jose Luis Soria Teruel](http://geeks.ms/blogs/jlsoria/ "http://geeks.ms/blogs/jlsoria/") – For his excellent advice and some sample code. I only used some of his code, but knowing that it can be done is the first step to achieving the goal.
 
 ### Updates
 
-- 2011-06-06 11:00 – I found a last minute bug where by the adapter thinks that a work item that was created before the high water mark but was not in scope before it was edited was converted to an “Edit” Change Action instead of a “Add”. I updated lines 89 and 102 of the source. The result is a WorkItemHistoryNotFound conflict  
-    
-    ```
-    [06/06/2011 10:12:14] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing ChangeGroup #3214, change 3143:2 
-    [06/06/2011 10:12:15] MigrationConsole.exe Information: 0 : WorkItemTracking: Unresolved conflict:  
-    [06/06/2011 10:12:15]   Session: adea805d-51df-489a-b2fd-9717b4af3703 
-    [06/06/2011 10:12:15]   Source: 6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857 
-    [06/06/2011 10:12:15]   Message: Cannot find applicable resolution rule. 
-    [06/06/2011 10:12:15]   Conflict Type: TFS WIT history not found conflict type 
-    [06/06/2011 10:12:15]   Conflict Type Reference Name: 1722df87-ab61-4ad0-8b41-531d3d804089 
-    [06/06/2011 10:12:15]   Conflict Details: <?xml version="1.0"?> 
-    [06/06/2011 10:12:15] <WorkItemHistoryNotFoundConflictTypeDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"> 
-    [06/06/2011 10:12:15]   <SourceWorkItemID>3143</SourceWorkItemID> 
-    [06/06/2011 10:12:15]   <SourceWorkItemRevision>2</SourceWorkItemRevision> 
-    [06/06/2011 10:12:15]   <SourceMigrationSourceId>c513f930-2602-400d-a0bf-a2a3ab434df5</SourceMigrationSourceId> 
-    [06/06/2011 10:12:15]   <TargetMigrationSourceId>6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857</TargetMigrationSourceId> 
-    [06/06/2011 10:12:15] </WorkItemHistoryNotFoundConflictTypeDetails> 
-    ```
-    
+- 2011-06-06 11:00 – I found a last minute bug where by the adapter thinks that a work item that was created before the high water mark but was not in scope before it was edited was converted to an “Edit” Change Action instead of a “Add”. I updated lines 89 and 102 of the source. The result is a WorkItemHistoryNotFound conflict
+  ```
+  [06/06/2011 10:12:14] MigrationConsole.exe Information: 0 : WorkItemTracking: Processing ChangeGroup #3214, change 3143:2
+  [06/06/2011 10:12:15] MigrationConsole.exe Information: 0 : WorkItemTracking: Unresolved conflict:
+  [06/06/2011 10:12:15]   Session: adea805d-51df-489a-b2fd-9717b4af3703
+  [06/06/2011 10:12:15]   Source: 6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857
+  [06/06/2011 10:12:15]   Message: Cannot find applicable resolution rule.
+  [06/06/2011 10:12:15]   Conflict Type: TFS WIT history not found conflict type
+  [06/06/2011 10:12:15]   Conflict Type Reference Name: 1722df87-ab61-4ad0-8b41-531d3d804089
+  [06/06/2011 10:12:15]   Conflict Details: <?xml version="1.0"?>
+  [06/06/2011 10:12:15] <WorkItemHistoryNotFoundConflictTypeDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  [06/06/2011 10:12:15]   <SourceWorkItemID>3143</SourceWorkItemID>
+  [06/06/2011 10:12:15]   <SourceWorkItemRevision>2</SourceWorkItemRevision>
+  [06/06/2011 10:12:15]   <SourceMigrationSourceId>c513f930-2602-400d-a0bf-a2a3ab434df5</SourceMigrationSourceId>
+  [06/06/2011 10:12:15]   <TargetMigrationSourceId>6e3bdf70-f1ae-4cd5-8ee4-133c8aee0857</TargetMigrationSourceId>
+  [06/06/2011 10:12:15] </WorkItemHistoryNotFoundConflictTypeDetails>
+  ```
 
-* * *
+---
 
 With the new code, which has gone through many refactors for the sake of last ditch efforts to figure out the bug I am now able to update TFS from TTP in an incremental fashion.
 
 [![image](images/image_thumb8-3-3.png "image")](http://blog.hinshelwood.com/files/2011/06/image8.png)
 { .post-img }
 
-  
 **Figure: Work Items are now being updated**
 
 ```
@@ -481,7 +476,6 @@ It is now a mater of configuration, but I am creating a table with all of the va
 [![image](images/image_thumb10-2-2.png "image")](http://blog.hinshelwood.com/files/2011/06/image10.png)
 { .post-img }
 
-  
 **Figure: Loooong history built from TTP Data**
 
 This history shows all of the values for the fields at the point in time that the data was migrated.
@@ -489,5 +483,3 @@ This history shows all of the values for the fields at the point in time that th
 All in, I am quite happy with the process and will be implementing in production really soon. Still some testing to do, but all looks good so far.
 
 - **Can you share your experiences of creating a TFS Integration Platform Adapter?**
-
-

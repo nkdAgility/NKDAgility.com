@@ -2,10 +2,10 @@
 id: "95"
 title: "Creating a Data Access layer using Unity"
 date: "2009-07-30"
-categories: 
+categories:
   - "code-and-complexity"
   - "me"
-tags: 
+tags:
   - "code"
   - "codeproject"
   - "dependency-injection"
@@ -27,7 +27,7 @@ I am going to use Unity only as a mapping frame work for now, I want to be able 
 The plan is to meet the diagram on the left. Only the factory and the interfaces are accessible, but are all set to “friend” which will require an assembly tag to be added to both the Factory and the Interfaces assemblies to allow explicit access.
 
 ```
-<Assembly: InternalsVisibleTo("Hinshlabs.TfsDynamicPolicy.Services.Server")> 
+<Assembly: InternalsVisibleTo("Hinshlabs.TfsDynamicPolicy.Services.Server")>
 ```
 
 This allows classes in the named assembly to access all classes and methods that have been prefaced with the “Friend” access level. Its a sneaky way of helping to maintain your layer integrity. So with this reference added only the Services.Server assembly, the one with the web service implementation, can access the factory and the interfaces, making them un-callable from any other assembly.
@@ -51,7 +51,7 @@ End Interface
 I also have a more specific Interface that allows for the loading of Artefacts. I have not yet implemented anything more than get and add, but you can see that it inherits (yes an interface and inherits in the same sentence) from the IDataAccess interface so we can pass it as a generic type that complies with IDataAccess.
 
 ```
-'Assembly: Hinshlabs.TfsDynamicPolicy.DataAccess.Common 
+'Assembly: Hinshlabs.TfsDynamicPolicy.DataAccess.Common
 Imports Hinshlabs.TfsDynamicPolicy.Common
 
 Public Interface IArtifactDataAccess(Of T As Artifact)
@@ -232,6 +232,3 @@ Dim dal As IHypotheticalDataBits = DataAccessFactory.Instance.GetDataAccess(Of I
 Any easier and it would be writing for you :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [Version Control](http://technorati.com/tags/Version+Control) [CodeProject](http://technorati.com/tags/CodeProject)
-
-
-

@@ -2,9 +2,9 @@
 id: "12011"
 title: "Professional Organisational Change at the Ghana Police Service"
 date: "2017-09-04"
-categories: 
+categories:
   - "agility"
-tags: 
+tags:
   - "ghana"
   - "organisational-change"
   - "police"
@@ -26,17 +26,17 @@ In order to create any lasting and permanent change, a transformation is require
 As it stands, public confidence has been eroded to record levels. New management plans to change that, and not by nibbling around the edges. The new Inspector General of Police (IGP) is leading the charge to transform the service into a world class police service with radical, and much needed change.
 
 > Only when an organisation has completely and utterly failed to deliver will it contemplate radical change.
-> 
+>
 > \-Ken Schwaber
 
 I have been working with [Akaditi](http://www.akaditi.com) and [Nana Abban](https://www.linkedin.com/in/nana-abban-2a43b460/) on the Ghana Police Service's organisational transformation, one of the first in the world, and I have never seen a clearer vision, nor a more empirical approach. The key to any transformation at the organisational level is leadership and vision. Even more so in a public sector organisation. The Ghana Police Service already have top down buy-in for the transformation, which is rare in any organisation. And when I say top down, you need to understand that not just the IGP, but his boss, the President of Ghana, are all bought in for change.
 
 > #### VISION
-> 
+>
 > The Ghana Police Service seeks to become a world class Police Service capable of delivering planned, democratic, protective, and peaceful services up to the standards of international best practice
-> 
+>
 > #### MISSION
-> 
+>
 > The mission of the Police Service is to ensure crime prevention and detection, apprehension and prosecution of offenders, consistent with the expectations of Ghanaians for safe, secure and peaceful communities.
 
 The question has always been, how do you adopt Scrum & Organisational Transformation in an empirical manner rather than a defined and traditional one. Oh the arguments that Steven Borg and I have had. A few years ago Scrum.org quietly released the Agility Path Guide as a way to do just that. It has been slowly gaining traction as more folks have had success.
@@ -63,5 +63,3 @@ Hell, the military realised that command and control was a losing strategy when 
 In any Agile organisation management changes from a 'telling people what to do' role, to one of servant leadership. They change from giving instructions to setting goals. They stop being a planner and become a teacher, coach, and leader.
 
 Leadership has very little to do with giving instructions and barking commands.
-
-
