@@ -1,7 +1,8 @@
 ---
 title: Customer Working Agreement
-aliase:
+aliases:
   - workshops/Customer-Working-Agreement.html
+  - learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -9,7 +10,6 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title:
-aliases:
 ---
 
 ## Customer Working Agreement

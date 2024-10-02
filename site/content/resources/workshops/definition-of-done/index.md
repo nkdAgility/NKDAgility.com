@@ -1,7 +1,8 @@
 ---
 title: Definition of Done
-aliase:
+aliases:
   - workshops/Definition-Of-Done.html
+  - learn/agile-delivery-kit/workshops/Definition-Of-Done
 date: 2024-09-17
 author: MrHinsh
 card:
@@ -9,7 +10,6 @@ card:
     content: Learn More
   content: Discover more about  and how it can help you in your Agile journey!
   title:
-aliases:
 ---
 
 # What is the Definition of Done (DoD)
