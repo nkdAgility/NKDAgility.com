@@ -2,7 +2,6 @@
 title: "Why we do it?"
 description: "Our principles are the foundation of our work. They guide our decisions, actions, and interactions. They are the essence of who we are and what we stand for. They are the reason we do what we do."
 url: "/principles/"
-layout: sectionList
 headline:
   title: "Why we do it?"
   subtitle: "Our Principles"
