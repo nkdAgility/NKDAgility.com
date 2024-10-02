@@ -12,7 +12,8 @@ tags:
   - "tools"
 coverImage: "puzzle-issue-problem-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-integration-tools-issue-unable-to-find-a-unique-local-path"
 ---
 

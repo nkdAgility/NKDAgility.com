@@ -9,7 +9,8 @@ tags:
   - "scrum-theory"
 coverImage: "Siren-mermaids-25084952-1378-1045-6-5.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "many-organisations-are-lured-to-safe-by-the-song-of-the-sirens"
 ---
 

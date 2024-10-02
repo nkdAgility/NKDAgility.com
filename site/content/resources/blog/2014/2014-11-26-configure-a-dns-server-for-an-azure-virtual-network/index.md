@@ -10,7 +10,8 @@ tags:
   - "virtual-network"
 coverImage: "nakedalm-windows-logo-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configure-a-dns-server-for-an-azure-virtual-network"
 ---
 

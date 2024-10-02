@@ -17,7 +17,8 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-14-14.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "you-cant-stack-rank-hierarchical-work-items"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "teams"
 coverImage: "nakedalm-experts-professional-scrum-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "organisation-project-mangers-well-product-owners"
 ---
 

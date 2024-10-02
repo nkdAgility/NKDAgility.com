@@ -13,7 +13,8 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-windows-sharepoint-services-3-0-service-pack-1-sp1"
 ---
 

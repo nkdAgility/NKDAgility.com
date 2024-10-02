@@ -15,7 +15,8 @@ tags:
   - "tf-service"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "connect-a-test-controller-to-team-foundation-service"
 ---
 

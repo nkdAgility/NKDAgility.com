@@ -12,7 +12,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "multi-targeting-in-visual-studio-2010"
 ---
 

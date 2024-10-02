@@ -10,7 +10,8 @@ tags:
   - "tfs"
   - "tfs-2013"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "integrate-sharepoint-2013-with-team-foundation-server-2013"
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "serialize-assembly-for-service-calls-over-http"
 ---
 

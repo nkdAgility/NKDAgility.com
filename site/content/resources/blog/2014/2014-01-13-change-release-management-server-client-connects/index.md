@@ -14,7 +14,8 @@ tags:
   - "tfs-2013"
   - "visual-studio-2013"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "change-release-management-server-client-connects"
 ---
 

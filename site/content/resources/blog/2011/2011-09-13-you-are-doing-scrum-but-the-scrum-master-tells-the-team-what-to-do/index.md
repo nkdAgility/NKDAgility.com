@@ -13,7 +13,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do"
 ---
 

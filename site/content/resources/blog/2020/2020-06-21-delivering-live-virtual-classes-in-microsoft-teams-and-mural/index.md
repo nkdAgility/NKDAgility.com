@@ -6,7 +6,8 @@ categories:
   - "agility"
 coverImage: "class-colage-2-8-8.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "delivering-live-virtual-classes-in-microsoft-teams-and-mural"
 ---
 

@@ -17,7 +17,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "scrum-is-hard-to-adopt-and-disruptive-to-your-organisation"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "sharepoint"
 coverImage: "metro-problem-icon-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "qa"
 coverImage: "2020-03-27_21-33-56-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020"
 ---
 

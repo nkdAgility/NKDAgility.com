@@ -8,7 +8,8 @@ tags:
   - "code"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "custom-ui-colour-scheme-for-windows-forms-net"
 ---
 

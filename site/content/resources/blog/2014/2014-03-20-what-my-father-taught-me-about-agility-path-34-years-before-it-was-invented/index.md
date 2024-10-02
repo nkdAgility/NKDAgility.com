@@ -12,7 +12,8 @@ tags:
   - "scrum-org"
 coverImage: "nakedalm-agility-index-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented"
 ---
 

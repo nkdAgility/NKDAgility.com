@@ -9,7 +9,8 @@ tags:
   - "iscotland"
 coverImage: "metro-yes-scotland-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-value-of-an-independent-scotland"
 ---
 

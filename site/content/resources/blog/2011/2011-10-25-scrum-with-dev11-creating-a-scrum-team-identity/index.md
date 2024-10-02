@@ -14,7 +14,8 @@ tags:
   - "webcast-2"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "scrum-with-dev11-creating-a-scrum-team-identity"
 ---
 

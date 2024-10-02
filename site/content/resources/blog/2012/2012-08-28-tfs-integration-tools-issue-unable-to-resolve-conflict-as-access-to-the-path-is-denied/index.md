@@ -10,7 +10,8 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied"
 ---
 

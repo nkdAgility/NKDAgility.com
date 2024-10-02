@@ -5,7 +5,8 @@ date: "2007-01-10"
 tags:
   - "tfs"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-system-widgets"
 ---
 

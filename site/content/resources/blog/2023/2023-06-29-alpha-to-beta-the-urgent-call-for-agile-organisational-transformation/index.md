@@ -9,7 +9,8 @@ tags:
   - "homepage"
 coverImage: "1686217267121-1-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "alpha-to-beta-the-urgent-call-for-agile-organisational-transformation"
 ---
 

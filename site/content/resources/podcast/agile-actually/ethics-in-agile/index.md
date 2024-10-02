@@ -5,7 +5,7 @@ date: "2023-10-26"
 categories:
   - "agility"
 author: "MrHinsh"
-type: podcast
+resourceType: podcast
 layout: resources/single
 slug: "ethics-in-agile"
 resourceType:

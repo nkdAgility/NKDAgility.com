@@ -9,7 +9,8 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-3-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-great-xbox-update"
 ---
 

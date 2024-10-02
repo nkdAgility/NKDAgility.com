@@ -10,7 +10,8 @@ tags:
   - "release-management"
 coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "create-log-entries-release-management"
 ---
 

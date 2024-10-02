@@ -13,7 +13,8 @@ tags:
   - "scrum-at-scale"
 coverImage: "clip_image003-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "big-scrum-all-you-need-and-not-enough"
 ---
 

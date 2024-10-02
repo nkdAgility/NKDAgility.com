@@ -10,7 +10,8 @@ tags:
   - "tfs-2015"
 coverImage: "clip_image0041-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "how-to-rename-a-team-project-in-tfs-2015"
 ---
 

@@ -7,7 +7,8 @@ categories:
 tags:
   - "tfs"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "hosted-team-foundation-server"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "wcf"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "net-service-manager"
 ---
 

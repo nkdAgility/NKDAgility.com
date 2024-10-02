@@ -7,7 +7,8 @@ tags:
   - "tfs2005"
 coverImage: "metro-visual-studio-2005-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-system-web-access-finally-released"
 ---
 

@@ -4,7 +4,8 @@ title: "Microsoft UK Team System Blog"
 date: "2007-03-08"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "microsoft-uk-team-system-blog"
 ---
 

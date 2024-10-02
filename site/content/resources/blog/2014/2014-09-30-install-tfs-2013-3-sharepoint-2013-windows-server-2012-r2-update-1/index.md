@@ -16,7 +16,8 @@ tags:
   - "windows-server-2012-r2"
 coverImage: "nakedalm-experts-visual-studio-alm-27-27.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1"
 ---
 

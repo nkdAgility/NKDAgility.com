@@ -10,7 +10,8 @@ tags:
   - "sp2007"
 coverImage: "metro-sharepoint-128-link-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "major-deadline"
 ---
 

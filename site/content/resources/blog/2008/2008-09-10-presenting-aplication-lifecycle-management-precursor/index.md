@@ -9,7 +9,8 @@ tags:
   - "windows-mobile-6"
 coverImage: "metro-aggreko-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "presenting-aplication-lifecycle-management-precursor"
 ---
 

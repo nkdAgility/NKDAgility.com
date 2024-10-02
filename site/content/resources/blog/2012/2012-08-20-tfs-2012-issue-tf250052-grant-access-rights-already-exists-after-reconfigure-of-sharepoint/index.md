@@ -11,7 +11,8 @@ tags:
   - "tfs2012"
 coverImage: "metro-problem-icon-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint"
 ---
 

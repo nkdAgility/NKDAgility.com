@@ -11,7 +11,8 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "testing-with-test-professional-2010-and-visual-studio-2010-ultimate"
 ---
 

@@ -8,7 +8,8 @@ tags:
   - "charity"
 coverImage: "yorkhill-ice-bucket-challange-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "yorkhill-ice-bucket-challenge"
 ---
 

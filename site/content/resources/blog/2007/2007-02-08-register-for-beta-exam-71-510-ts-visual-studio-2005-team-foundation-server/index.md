@@ -6,7 +6,8 @@ tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server"
 ---
 

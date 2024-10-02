@@ -8,7 +8,8 @@ tags:
   - "product-goal"
 coverImage: "naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-product-goal-is-a-commitment-for-the-product-backlog"
 ---
 

@@ -12,7 +12,8 @@ tags:
   - "tfs2010"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "an-adoption-strategy-for-testing-with-visual-studio-2010"
 ---
 

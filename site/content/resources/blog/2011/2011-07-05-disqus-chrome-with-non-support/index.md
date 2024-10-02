@@ -8,7 +8,8 @@ tags:
   - "off-topic"
 coverImage: "nakedalm-logo-128-link-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "disqus-chrome-with-non-support"
 ---
 

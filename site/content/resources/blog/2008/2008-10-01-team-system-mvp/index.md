@@ -9,7 +9,8 @@ tags:
   - "tfs"
 coverImage: "metro-award-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-system-mvp"
 ---
 

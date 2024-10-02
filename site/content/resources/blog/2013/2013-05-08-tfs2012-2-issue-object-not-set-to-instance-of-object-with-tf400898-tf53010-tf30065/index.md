@@ -14,7 +14,8 @@ tags:
   - "tfs-2012-3"
 coverImage: "puzzle-issue-problem-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065"
 ---
 

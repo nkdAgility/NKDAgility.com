@@ -14,7 +14,8 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number"
 ---
 

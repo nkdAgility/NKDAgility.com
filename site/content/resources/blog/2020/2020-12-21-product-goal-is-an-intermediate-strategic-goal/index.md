@@ -14,7 +14,8 @@ tags:
   - "product-goal"
 coverImage: "naked-agility-hypothesis-driven-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "product-goal-is-an-intermediate-strategic-goal"
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "waterfall"
 coverImage: "naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg"
 ---
 

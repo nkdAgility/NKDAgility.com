@@ -16,7 +16,8 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-10-10.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-2008-team-foundation-server-sp1"
 ---
 

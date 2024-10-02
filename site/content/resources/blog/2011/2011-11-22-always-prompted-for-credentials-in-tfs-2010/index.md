@@ -11,7 +11,8 @@ tags:
   - "webcast-2"
 coverImage: "metro-visual-studio-2005-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "always-prompted-for-credentials-in-tfs-2010"
 ---
 

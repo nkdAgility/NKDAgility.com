@@ -6,7 +6,8 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate"
 ---
 

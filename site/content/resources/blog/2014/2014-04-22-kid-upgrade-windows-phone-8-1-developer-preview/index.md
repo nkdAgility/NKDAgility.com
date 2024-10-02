@@ -11,7 +11,8 @@ tags:
   - "windows-phone"
 coverImage: "nakedalm-windows-logo-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "kid-upgrade-windows-phone-8-1-developer-preview"
 ---
 

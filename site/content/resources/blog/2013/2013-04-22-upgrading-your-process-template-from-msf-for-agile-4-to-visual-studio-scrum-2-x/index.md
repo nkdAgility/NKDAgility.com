@@ -16,7 +16,8 @@ tags:
   - "tools"
   - "upgrade"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x"
 ---
 

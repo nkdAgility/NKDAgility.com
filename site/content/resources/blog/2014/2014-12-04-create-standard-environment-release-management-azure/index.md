@@ -18,7 +18,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-windows-logo-16-16.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "create-standard-environment-release-management-azure"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "visual-studio"
   - "vs2012"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "announcing-visual-studio-11-beta-will-launch-on-february-29th"
 ---
 

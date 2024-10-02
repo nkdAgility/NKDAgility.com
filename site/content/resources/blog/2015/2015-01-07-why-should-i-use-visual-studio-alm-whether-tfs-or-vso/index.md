@@ -19,7 +19,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "why-should-i-use-visual-studio-alm-whether-tfs-or-vso"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "tools"
 coverImage: "metro-nwc-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "caffeinating-your-development-lifecycle-in-bellevue-on-october-13th"
 ---
 

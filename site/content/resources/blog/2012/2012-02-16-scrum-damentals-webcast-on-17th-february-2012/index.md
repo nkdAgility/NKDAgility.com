@@ -16,7 +16,8 @@ tags:
   - "webcast-2"
 coverImage: "metro-event-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "scrum-damentals-webcast-on-17th-february-2012"
 ---
 

@@ -6,7 +6,8 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "developer-day-scotland-2"
 ---
 

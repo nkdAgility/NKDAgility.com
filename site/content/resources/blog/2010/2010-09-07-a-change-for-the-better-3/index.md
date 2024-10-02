@@ -16,7 +16,8 @@ tags:
   - "tfs2010"
 coverImage: "metro-nwc-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "a-change-for-the-better-3"
 ---
 

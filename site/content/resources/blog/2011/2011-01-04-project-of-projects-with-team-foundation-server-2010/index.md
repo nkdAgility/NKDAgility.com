@@ -19,7 +19,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "project-of-projects-with-team-foundation-server-2010"
 ---
 

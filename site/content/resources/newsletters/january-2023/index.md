@@ -4,7 +4,7 @@ title: "January 2023 NKDAgility: What is the difference between traditional and 
 date: "2023-01-03"
 coverImage: "naked-agility-technically-agile-1280×720-Jan2023.jpg"
 author: "MrHinsh"
-type: newsletters
+resourceType: newsletter
 layout: resources/single
 slug: "january-2023"
 ---

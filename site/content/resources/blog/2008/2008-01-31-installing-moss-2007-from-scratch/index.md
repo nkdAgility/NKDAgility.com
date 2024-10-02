@@ -14,7 +14,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-moss-2007-from-scratch"
 ---
 

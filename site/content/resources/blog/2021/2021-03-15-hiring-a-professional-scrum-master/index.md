@@ -11,7 +11,8 @@ tags:
   - "scrum-masters"
 coverImage: "Wide-screen-scrum-master-3-3.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "hiring-a-professional-scrum-master"
 ---
 

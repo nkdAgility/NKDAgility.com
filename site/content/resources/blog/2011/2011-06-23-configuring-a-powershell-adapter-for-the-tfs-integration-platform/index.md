@@ -8,7 +8,8 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configuring-a-powershell-adapter-for-the-tfs-integration-platform"
 ---
 

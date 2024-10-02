@@ -14,7 +14,8 @@ tags:
   - "sharepoint-2013"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working"
 ---
 

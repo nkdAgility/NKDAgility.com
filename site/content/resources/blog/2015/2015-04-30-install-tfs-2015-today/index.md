@@ -11,7 +11,8 @@ tags:
   - "tfs-2015"
 coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "install-tfs-2015-today"
 ---
 

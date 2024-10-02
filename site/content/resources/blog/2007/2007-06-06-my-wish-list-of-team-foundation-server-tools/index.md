@@ -8,7 +8,8 @@ tags:
   - "wit"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "my-wish-list-of-team-foundation-server-tools"
 ---
 

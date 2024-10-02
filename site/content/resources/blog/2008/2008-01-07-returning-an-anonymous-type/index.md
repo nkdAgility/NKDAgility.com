@@ -9,7 +9,8 @@ tags:
   - "process"
 coverImage: "metro-binary-vb-128-link-2-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "returning-an-anonymous-type"
 ---
 

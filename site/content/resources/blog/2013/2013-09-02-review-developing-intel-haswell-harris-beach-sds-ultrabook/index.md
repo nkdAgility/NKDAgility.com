@@ -12,7 +12,8 @@ tags:
   - "review"
 coverImage: "Web-Intel-Metro-icon-21-21.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "review-developing-intel-haswell-harris-beach-sds-ultrabook"
 ---
 

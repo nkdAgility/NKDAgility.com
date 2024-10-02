@@ -10,7 +10,8 @@ tags:
   - "wpf"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "vote-for-your-feature"
 ---
 

@@ -17,7 +17,8 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "visual-studio-2012-rtm-available-installed"
 ---
 

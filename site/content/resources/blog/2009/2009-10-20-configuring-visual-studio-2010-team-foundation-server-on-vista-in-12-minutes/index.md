@@ -9,7 +9,8 @@ tags:
   - "tools"
 coverImage: "metro-aggreko-128-link-17-17.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes"
 ---
 

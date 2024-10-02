@@ -15,7 +15,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "silverlight-4-mvvm-and-test-driven-development"
 ---
 

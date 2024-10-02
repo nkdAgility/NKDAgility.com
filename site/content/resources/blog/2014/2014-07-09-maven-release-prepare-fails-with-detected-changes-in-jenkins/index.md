@@ -11,7 +11,8 @@ tags:
   - "tfignore"
 coverImage: "naked-alm-jenkins-logo-9-9.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "maven-release-prepare-fails-with-detected-changes-in-jenkins"
 ---
 

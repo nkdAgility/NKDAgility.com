@@ -10,7 +10,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "assembly-version-does-not-change-in-visual-basic-workflow-projects"
 ---
 

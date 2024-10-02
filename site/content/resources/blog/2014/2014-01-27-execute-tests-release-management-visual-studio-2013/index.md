@@ -14,7 +14,8 @@ tags:
   - "standard-environments"
 coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "execute-tests-release-management-visual-studio-2013"
 ---
 

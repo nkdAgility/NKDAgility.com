@@ -13,7 +13,8 @@ tags:
   - "visual-studio-2013"
   - "visual-studio"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-release-management-client-visual-studio-2013"
 ---
 

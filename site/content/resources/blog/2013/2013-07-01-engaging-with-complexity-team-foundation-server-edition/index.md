@@ -15,7 +15,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "engaging-with-complexity-team-foundation-server-edition"
 ---
 

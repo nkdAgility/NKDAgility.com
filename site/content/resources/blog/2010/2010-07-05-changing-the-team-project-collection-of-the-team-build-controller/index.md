@@ -10,7 +10,8 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "changing-the-team-project-collection-of-the-team-build-controller"
 ---
 

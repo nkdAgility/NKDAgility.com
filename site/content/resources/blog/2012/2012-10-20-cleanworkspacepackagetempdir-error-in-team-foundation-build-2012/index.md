@@ -18,7 +18,8 @@ tags:
   - "web"
 coverImage: "metro-problem-icon-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "cleanworkspacepackagetempdir-error-in-team-foundation-build-2012"
 ---
 

@@ -8,7 +8,8 @@ tags:
   - "visual-studio"
   - "vs2012"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-11-beta-on-windows-7"
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "scaled-professional-scrum"
 coverImage: "2020-03-27_21-36-13-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method"
 ---
 

@@ -16,7 +16,8 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-23-23.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "integrating-project-server-2013-with-team-foundation-server-2012"
 ---
 

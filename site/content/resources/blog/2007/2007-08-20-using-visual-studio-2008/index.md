@@ -13,7 +13,8 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-8-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "using-visual-studio-2008"
 ---
 

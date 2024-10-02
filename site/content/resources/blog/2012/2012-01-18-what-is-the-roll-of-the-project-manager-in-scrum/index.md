@@ -11,7 +11,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "what-is-the-roll-of-the-project-manager-in-scrum"
 ---
 

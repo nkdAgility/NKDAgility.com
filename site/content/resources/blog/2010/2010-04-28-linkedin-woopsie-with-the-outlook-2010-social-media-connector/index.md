@@ -10,7 +10,8 @@ tags:
   - "outlook-2010"
 coverImage: "nakedalm-logo-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "linkedin-woopsie-with-the-outlook-2010-social-media-connector"
 ---
 

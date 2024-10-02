@@ -8,7 +8,8 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-team-foundation-server-service-pack-1"
 ---
 

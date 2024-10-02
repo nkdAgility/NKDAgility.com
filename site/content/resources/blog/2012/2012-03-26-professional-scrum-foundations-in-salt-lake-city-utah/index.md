@@ -15,7 +15,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "professional-scrum-foundations-in-salt-lake-city-utah"
 ---
 

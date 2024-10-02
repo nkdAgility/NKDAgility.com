@@ -1,7 +1,7 @@
 ---
 title: Service Level Expectation (SLE)
 description: A service level expectation (SLE) forecasts how long it should take a given item to flow from start to finish within the Scrum Team's Workflow.
-type: practice
+resourceType: practice
 layout: resources/single
 aliases:
  - learn/agile-delivery-kit/practices/service-level-expectation-sle

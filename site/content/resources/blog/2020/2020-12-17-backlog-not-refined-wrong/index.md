@@ -12,7 +12,8 @@ tags:
   - "refinement"
 coverImage: "naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "backlog-not-refined-wrong"
 ---
 

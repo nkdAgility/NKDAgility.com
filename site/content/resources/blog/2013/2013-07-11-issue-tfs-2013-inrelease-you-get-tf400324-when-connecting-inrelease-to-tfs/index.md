@@ -12,7 +12,8 @@ tags:
   - "tfs-2013"
 coverImage: "puzzle-issue-problem-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs"
 ---
 

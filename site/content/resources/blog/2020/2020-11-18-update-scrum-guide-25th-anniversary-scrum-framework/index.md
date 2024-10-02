@@ -9,7 +9,8 @@ tags:
   - "scrum-theory"
 coverImage: "naked-Agility-Scrum-Framework-3-2.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "update-scrum-guide-25th-anniversary-scrum-framework"
 ---
 

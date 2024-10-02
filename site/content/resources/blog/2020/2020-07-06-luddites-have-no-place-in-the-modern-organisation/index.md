@@ -10,7 +10,8 @@ tags:
   - "scrum-theory"
 coverImage: "image-3-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "luddites-have-no-place-in-the-modern-organisation"
 ---
 

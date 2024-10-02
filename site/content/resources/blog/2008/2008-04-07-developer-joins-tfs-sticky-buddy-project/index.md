@@ -12,7 +12,8 @@ tags:
   - "tools"
   - "wit"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "developer-joins-tfs-sticky-buddy-project"
 ---
 

@@ -12,7 +12,8 @@ tags:
   - "organisational-transformational-mastery"
 coverImage: "naked-agility-technically-survivalisoptional-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility"
 ---
 

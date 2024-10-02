@@ -23,7 +23,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-14-14.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "get-visual-studio-2013-team-foundation-server-while-its-hot"
 ---
 

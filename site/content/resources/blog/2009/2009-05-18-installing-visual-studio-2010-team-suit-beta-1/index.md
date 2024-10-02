@@ -8,7 +8,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-9-9.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-2010-team-suit-beta-1"
 ---
 

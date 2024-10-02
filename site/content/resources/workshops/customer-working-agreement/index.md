@@ -1,5 +1,6 @@
 ---
 title: Customer Working Agreement
+resourceType: workshop
 aliases:
   - workshops/Customer-Working-Agreement.html
   - learn/agile-delivery-kit/workshops/Customer-Working-Agreement

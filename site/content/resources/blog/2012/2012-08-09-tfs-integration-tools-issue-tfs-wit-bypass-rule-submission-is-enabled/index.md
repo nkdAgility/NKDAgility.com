@@ -10,7 +10,8 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled"
 ---
 

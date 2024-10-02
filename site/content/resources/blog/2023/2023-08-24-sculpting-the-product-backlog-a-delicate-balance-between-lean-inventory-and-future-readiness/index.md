@@ -10,7 +10,8 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness"
 ---
 

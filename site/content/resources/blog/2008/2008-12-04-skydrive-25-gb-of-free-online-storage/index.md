@@ -8,7 +8,8 @@ tags:
   - "live"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "skydrive-25-gb-of-free-online-storage"
 ---
 

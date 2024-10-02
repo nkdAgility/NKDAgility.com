@@ -12,7 +12,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-27-27.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configure-a-build-vnext-agent-on-vso"
 ---
 

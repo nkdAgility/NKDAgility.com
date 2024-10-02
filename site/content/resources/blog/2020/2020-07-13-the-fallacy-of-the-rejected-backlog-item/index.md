@@ -9,7 +9,8 @@ tags:
   - "sprint-review"
 coverImage: "nkdAgility-backlog-item-approve-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-fallacy-of-the-rejected-backlog-item"
 ---
 

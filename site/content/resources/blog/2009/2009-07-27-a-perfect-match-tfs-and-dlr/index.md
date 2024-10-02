@@ -13,7 +13,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "a-perfect-match-tfs-and-dlr"
 ---
 

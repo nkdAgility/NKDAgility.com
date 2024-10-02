@@ -12,7 +12,8 @@ tags:
   - "tfs2010"
 coverImage: "metro-visual-studio-2005-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "linked-in-vsts-group"
 ---
 

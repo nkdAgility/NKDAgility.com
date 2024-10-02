@@ -20,7 +20,8 @@ tags:
   - "vs2012"
 coverImage: "metro-lab-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "virtual-labs-in-the-modern-application-lifecycle"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "homepage"
 coverImage: "naked-agility-technically-agile-Blog-EmbraceUniqueness-1-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success"
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "wpf"
 coverImage: "metro-visual-studio-2005-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "heat-itsm"
 ---
 

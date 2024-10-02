@@ -7,7 +7,8 @@ tags:
   - "tfs2008"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question"
 ---
 

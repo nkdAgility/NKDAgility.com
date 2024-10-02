@@ -11,7 +11,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "do-you-know-the-minimum-builds-to-create-on-any-branch"
 ---
 

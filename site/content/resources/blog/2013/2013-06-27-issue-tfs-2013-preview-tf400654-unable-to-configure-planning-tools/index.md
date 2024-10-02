@@ -11,7 +11,8 @@ tags:
   - "tfs-2013"
 coverImage: "puzzle-issue-problem-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools"
 ---
 

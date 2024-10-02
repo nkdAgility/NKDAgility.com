@@ -13,7 +13,8 @@ tags:
   - "vs2012"
 coverImage: "metro-problem-icon-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "office-2013-issue-installing-office-2013-breaks-visual-studio-2012"
 ---
 

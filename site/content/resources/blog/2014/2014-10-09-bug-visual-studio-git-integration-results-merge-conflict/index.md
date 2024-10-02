@@ -13,7 +13,8 @@ tags:
   - "visual-studio"
 coverImage: "naked-alm-git-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "bug-visual-studio-git-integration-results-merge-conflict"
 ---
 

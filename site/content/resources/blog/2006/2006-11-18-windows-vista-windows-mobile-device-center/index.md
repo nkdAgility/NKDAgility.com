@@ -8,7 +8,8 @@ tags:
   - "windows-mobile-6"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "windows-vista-windows-mobile-device-center"
 ---
 

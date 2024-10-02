@@ -12,7 +12,8 @@ tags:
   - "tfs-2012-4"
 coverImage: "naked-alm-jenkins-logo-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "mask-password-in-jenkins-when-calling-tee"
 ---
 

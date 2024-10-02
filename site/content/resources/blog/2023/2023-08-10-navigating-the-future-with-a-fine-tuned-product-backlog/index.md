@@ -10,7 +10,8 @@ tags:
   - "homepage"
 coverImage: "naked-agility-technically-NavigatingtheFuturewithaFine-TunedProductBacklog-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "navigating-the-future-with-a-fine-tuned-product-backlog"
 ---
 

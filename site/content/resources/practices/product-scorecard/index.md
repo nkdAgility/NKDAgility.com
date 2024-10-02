@@ -1,6 +1,6 @@
 ---
 title: Product Scorecard
-type: practice
+resourceType: practice
 layout: resources/single
 aliases:
  - learn/agile-delivery-kit/practices/product-scorecard

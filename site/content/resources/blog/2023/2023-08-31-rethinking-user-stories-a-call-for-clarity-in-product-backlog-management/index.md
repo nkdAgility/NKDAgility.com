@@ -13,7 +13,8 @@ tags:
   - "user-stories"
 coverImage: "naked-agility-technically-rethinkinguserstories-1-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "rethinking-user-stories-a-call-for-clarity-in-product-backlog-management"
 ---
 

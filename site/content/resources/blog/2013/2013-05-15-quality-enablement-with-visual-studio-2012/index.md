@@ -14,7 +14,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-18-18.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "quality-enablement-with-visual-studio-2012"
 ---
 

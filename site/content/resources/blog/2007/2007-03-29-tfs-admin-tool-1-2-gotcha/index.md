@@ -5,7 +5,8 @@ date: "2007-03-29"
 tags:
   - "tfs"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-admin-tool-1-2-gotcha"
 ---
 

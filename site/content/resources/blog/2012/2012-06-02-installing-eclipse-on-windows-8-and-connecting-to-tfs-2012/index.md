@@ -15,7 +15,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-12-12.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-eclipse-on-windows-8-and-connecting-to-tfs-2012"
 ---
 

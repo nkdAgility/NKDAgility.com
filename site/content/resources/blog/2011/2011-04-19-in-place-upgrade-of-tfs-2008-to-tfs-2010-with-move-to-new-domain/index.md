@@ -14,7 +14,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-24-24.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain"
 ---
 

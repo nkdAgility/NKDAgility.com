@@ -7,7 +7,8 @@ categories:
   - "devops"
 coverImage: "2020-06-17_13-06-30-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "live-site-culture-site-reliability-engineering"
 ---
 

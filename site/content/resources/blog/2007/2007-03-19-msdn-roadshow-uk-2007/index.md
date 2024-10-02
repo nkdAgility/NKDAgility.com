@@ -9,7 +9,8 @@ tags:
   - "msdn"
 coverImage: "metro-event-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "msdn-roadshow-uk-2007"
 ---
 

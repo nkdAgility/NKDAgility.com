@@ -13,7 +13,8 @@ tags:
   - "vsalmrangers"
 coverImage: "metro-visual-studio-2010-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform"
 ---
 

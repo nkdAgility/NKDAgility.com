@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "database-corruption-in-tfs-2005-causes-tf246017-during-upgrade"
 ---
 

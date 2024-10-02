@@ -6,7 +6,8 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "ddd-scotland-v2-0-2nd-of-may-2009"
 ---
 

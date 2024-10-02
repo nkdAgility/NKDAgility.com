@@ -10,7 +10,8 @@ tags:
   - "scrum-day"
 coverImage: "clip_image001-1-2-2.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "agile-africa-2016"
 ---
 

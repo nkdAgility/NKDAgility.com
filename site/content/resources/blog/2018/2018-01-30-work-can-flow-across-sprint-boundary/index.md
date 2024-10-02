@@ -11,7 +11,8 @@ tags:
   - "the-sprint"
 coverImage: "nkdagility-cross-sprint-boundary-2-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "work-can-flow-across-sprint-boundary"
 ---
 

@@ -12,7 +12,8 @@ tags:
   - "tools"
 coverImage: "metro-binary-vb-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "what-do-you-do-with-a-work-item-history-not-found-conflict-type-details"
 ---
 

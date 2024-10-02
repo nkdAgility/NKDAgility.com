@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "sharepoint-3-0-and-moss-2007-service-pack-1-update"
 ---
 

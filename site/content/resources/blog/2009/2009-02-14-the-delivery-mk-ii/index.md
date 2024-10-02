@@ -6,7 +6,8 @@ categories:
   - "me"
 coverImage: "nakedalm-logo-128-link-4-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-delivery-mk-ii"
 ---
 

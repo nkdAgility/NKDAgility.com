@@ -12,7 +12,8 @@ tags:
   - "sp2013"
 coverImage: "metro-sharepoint-128-link-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "vs2012"
 coverImage: "puzzle-issue-problem-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010"
 ---
 

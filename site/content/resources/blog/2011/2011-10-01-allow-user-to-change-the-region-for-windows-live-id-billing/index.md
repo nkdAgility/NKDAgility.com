@@ -11,7 +11,8 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "allow-user-to-change-the-region-for-windows-live-id-billing"
 ---
 

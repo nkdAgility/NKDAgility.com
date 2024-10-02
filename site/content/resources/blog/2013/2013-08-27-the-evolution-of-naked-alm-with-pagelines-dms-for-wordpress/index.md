@@ -13,7 +13,8 @@ tags:
   - "wordpress"
 coverImage: "metro-pagelines-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress"
 ---
 

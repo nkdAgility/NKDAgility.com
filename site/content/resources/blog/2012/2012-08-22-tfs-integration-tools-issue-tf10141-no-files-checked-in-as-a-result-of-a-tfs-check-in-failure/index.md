@@ -13,7 +13,8 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-12-12.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure"
 ---
 

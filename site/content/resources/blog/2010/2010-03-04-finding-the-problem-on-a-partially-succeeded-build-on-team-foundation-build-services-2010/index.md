@@ -15,7 +15,8 @@ tags:
   - "wcf"
 coverImage: "metro-visual-studio-2010-128-link-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "finding-the-problem-on-a-partially-succeeded-build-on-team-foundation-build-services-2010"
 ---
 

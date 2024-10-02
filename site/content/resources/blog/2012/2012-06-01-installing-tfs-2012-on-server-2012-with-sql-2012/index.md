@@ -19,7 +19,8 @@ tags:
   - "windows-server"
 coverImage: "nakedalm-experts-visual-studio-alm-31-31.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-tfs-2012-on-server-2012-with-sql-2012"
 ---
 

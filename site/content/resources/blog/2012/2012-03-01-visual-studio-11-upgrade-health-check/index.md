@@ -15,7 +15,8 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "visual-studio-11-upgrade-health-check"
 ---
 

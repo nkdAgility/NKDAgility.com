@@ -7,7 +7,8 @@ tags:
   - "tools"
 coverImage: "metro-office-128-link-7-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "office-2010-install"
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "wpf"
 coverImage: "metro-visual-studio-2010-128-link-2-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "scott-guthrie-in-glasgow"
 ---
 

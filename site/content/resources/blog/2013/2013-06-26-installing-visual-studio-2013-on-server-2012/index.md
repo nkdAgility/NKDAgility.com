@@ -11,7 +11,8 @@ tags:
   - "visual-studio"
   - "vs-2013"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-2013-on-server-2012"
 ---
 

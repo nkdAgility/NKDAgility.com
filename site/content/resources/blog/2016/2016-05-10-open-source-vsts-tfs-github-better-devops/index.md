@@ -12,7 +12,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-14-14.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "open-source-vsts-tfs-github-better-devops"
 ---
 

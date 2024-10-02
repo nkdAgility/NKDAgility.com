@@ -7,7 +7,8 @@ categories:
   - "tools-and-techniques"
 coverImage: "image-14-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configuring-microsoft-teams-for-live-virtual-training"
 ---
 

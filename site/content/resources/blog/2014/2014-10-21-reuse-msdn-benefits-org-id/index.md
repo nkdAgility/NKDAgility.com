@@ -10,7 +10,8 @@ tags:
   - "subscription"
 coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "reuse-msdn-benefits-org-id"
 ---
 

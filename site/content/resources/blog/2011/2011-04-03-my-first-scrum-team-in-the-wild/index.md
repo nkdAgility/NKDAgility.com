@@ -14,7 +14,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-logo-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "my-first-scrum-team-in-the-wild"
 ---
 

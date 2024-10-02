@@ -1,7 +1,7 @@
 ---
 title: Kanban Guide for Scrum Teams
 description: The flow-based perspective of Kanban can enhance and complement the Scrum framework and its implementation.
-type: guide
+resourceType: guide
 aliases:
   - /guides/Kanban-Guide-for-Scrum-Teams.html
   - learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams

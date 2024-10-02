@@ -15,7 +15,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-10-10.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "one-team-project-collection-to-rule-them-allconsolidating-team-projects"
 ---
 

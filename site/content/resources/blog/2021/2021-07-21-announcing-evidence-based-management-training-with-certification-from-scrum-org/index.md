@@ -8,7 +8,8 @@ tags:
   - "annoucement"
 coverImage: "Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "announcing-evidence-based-management-training-with-certification-from-scrum-org"
 ---
 

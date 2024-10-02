@@ -14,7 +14,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "use-corporate-identities-existing-vso-accounts"
 ---
 

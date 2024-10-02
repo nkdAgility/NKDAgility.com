@@ -10,7 +10,8 @@ tags:
   - "tfs-integration-platform"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform"
 ---
 

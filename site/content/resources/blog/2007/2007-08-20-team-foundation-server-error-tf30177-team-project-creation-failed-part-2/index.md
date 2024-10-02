@@ -10,7 +10,8 @@ tags:
   - "spf2010"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-foundation-server-error-tf30177-team-project-creation-failed-part-2"
 ---
 

@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "connecting-to-sql-server-using-dns"
 ---
 

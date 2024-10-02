@@ -17,7 +17,8 @@ tags:
   - "wcf"
 coverImage: "metro-visual-studio-2010-128-link-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-5-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "wpf-drag-drop-behaviour"
 ---
 

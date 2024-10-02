@@ -16,7 +16,8 @@ tags:
   - "tfs-2013"
 coverImage: "IC749984-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "choosing-a-process-template-for-your-team-project"
 ---
 

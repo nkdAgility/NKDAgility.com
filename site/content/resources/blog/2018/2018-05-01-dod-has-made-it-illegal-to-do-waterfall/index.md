@@ -13,7 +13,8 @@ tags:
   - "scrum-definition"
 coverImage: "nkdAgility-dod-change-procurement-agile-wide-15-15.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "dod-has-made-it-illegal-to-do-waterfall"
 ---
 

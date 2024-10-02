@@ -11,7 +11,8 @@ tags:
   - "technical-mastery"
 coverImage: "1029723898-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "are-technical-skills-required-to-be-a-scrum-master"
 ---
 

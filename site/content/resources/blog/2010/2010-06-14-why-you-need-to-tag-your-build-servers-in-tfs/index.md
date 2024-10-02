@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "metro-SSWLogo-128-link-10-10.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "why-you-need-to-tag-your-build-servers-in-tfs"
 ---
 

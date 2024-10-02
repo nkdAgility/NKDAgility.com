@@ -21,7 +21,8 @@ tags:
   - "vs2012"
 coverImage: "metro-test-icon-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "testing-in-the-modern-application-lifecycle"
 ---
 

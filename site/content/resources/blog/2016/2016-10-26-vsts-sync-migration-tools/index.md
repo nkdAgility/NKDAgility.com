@@ -9,7 +9,8 @@ tags:
   - "vsteamservices"
 coverImage: "image_thumb-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "vsts-sync-migration-tools"
 ---
 

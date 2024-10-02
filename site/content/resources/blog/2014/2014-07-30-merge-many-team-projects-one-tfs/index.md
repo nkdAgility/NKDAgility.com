@@ -14,7 +14,8 @@ tags:
   - "workitemtracking"
 coverImage: "nakedalm-experts-visual-studio-alm-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "merge-many-team-projects-one-tfs"
 ---
 

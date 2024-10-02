@@ -12,7 +12,8 @@ tags:
   - "wcf"
 coverImage: "metro-binary-vb-128-link-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "calculating-the-rank-of-your-blog-posts-or-pages"
 ---
 

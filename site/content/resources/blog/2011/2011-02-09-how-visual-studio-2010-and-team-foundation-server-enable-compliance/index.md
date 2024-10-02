@@ -21,7 +21,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-30-30.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "how-visual-studio-2010-and-team-foundation-server-enable-compliance"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "training"
 coverImage: "clip_image001-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "professional-scrum-courses-2016-oslo-norway"
 ---
 

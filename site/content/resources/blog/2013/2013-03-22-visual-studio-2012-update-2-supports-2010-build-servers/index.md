@@ -17,7 +17,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "visual-studio-2012-update-2-supports-2010-build-servers"
 ---
 

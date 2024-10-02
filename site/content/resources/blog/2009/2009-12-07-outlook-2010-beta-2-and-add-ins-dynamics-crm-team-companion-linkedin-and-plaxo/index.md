@@ -8,7 +8,8 @@ tags:
   - "tools"
 coverImage: "metro-office-128-link-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo"
 ---
 

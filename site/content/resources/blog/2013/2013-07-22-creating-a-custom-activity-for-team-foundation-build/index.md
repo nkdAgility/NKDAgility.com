@@ -13,7 +13,8 @@ tags:
   - "tools"
   - "workflow"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "creating-a-custom-activity-for-team-foundation-build"
 ---
 

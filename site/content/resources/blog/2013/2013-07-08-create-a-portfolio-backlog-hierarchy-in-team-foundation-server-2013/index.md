@@ -16,7 +16,8 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013"
 ---
 

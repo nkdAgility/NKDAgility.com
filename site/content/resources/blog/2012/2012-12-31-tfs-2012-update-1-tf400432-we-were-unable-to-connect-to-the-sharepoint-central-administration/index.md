@@ -16,7 +16,8 @@ tags:
   - "tools"
 coverImage: "metro-problem-icon-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration"
 ---
 

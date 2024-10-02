@@ -9,7 +9,8 @@ tags:
   - "tfs"
 coverImage: "clip_image004-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "access-denied-orchestration-plan-build"
 ---
 

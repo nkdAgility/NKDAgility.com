@@ -7,7 +7,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "finding-features-conversations"
 ---
 

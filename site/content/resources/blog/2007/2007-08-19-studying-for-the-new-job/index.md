@@ -8,7 +8,8 @@ tags:
   - "sp2007"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "studying-for-the-new-job"
 ---
 

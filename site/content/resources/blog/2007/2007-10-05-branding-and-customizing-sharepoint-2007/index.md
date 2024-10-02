@@ -6,7 +6,8 @@ tags:
   - "sp2007"
 coverImage: "nakedalm-logo-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "branding-and-customizing-sharepoint-2007"
 ---
 

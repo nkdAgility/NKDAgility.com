@@ -12,7 +12,8 @@ tags:
   - "tfs"
 coverImage: "naked-alm-jenkins-logo-9-9.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "configuring-jenkins-talk-tfs-2013"
 ---
 

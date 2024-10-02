@@ -14,7 +14,8 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-23-23.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "install-sharepoint-2013-on-windows-server-2012-without-a-domain"
 ---
 

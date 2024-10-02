@@ -9,7 +9,8 @@ tags:
   - "devops"
 coverImage: "image-2-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "branch-policies-tfvc"
 ---
 

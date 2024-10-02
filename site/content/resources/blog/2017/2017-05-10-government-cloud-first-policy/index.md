@@ -13,7 +13,8 @@ tags:
   - "digital-transformation"
 coverImage: "government-cloud-640x400-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "government-cloud-first-policy"
 ---
 

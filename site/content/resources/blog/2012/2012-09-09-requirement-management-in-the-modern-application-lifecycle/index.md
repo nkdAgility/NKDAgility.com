@@ -17,7 +17,8 @@ tags:
   - "wit"
 coverImage: "metro-requirements-icon-14-14.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "requirement-management-in-the-modern-application-lifecycle"
 ---
 

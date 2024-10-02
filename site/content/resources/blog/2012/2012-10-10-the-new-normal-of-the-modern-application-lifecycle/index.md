@@ -18,7 +18,8 @@ tags:
   - "the-new-normal"
 coverImage: "metro-new-normal-icon-28-28.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-new-normal-of-the-modern-application-lifecycle"
 ---
 

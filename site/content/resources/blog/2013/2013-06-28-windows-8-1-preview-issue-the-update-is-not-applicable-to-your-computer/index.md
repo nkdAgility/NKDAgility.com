@@ -9,7 +9,8 @@ tags:
   - "win8-1"
 coverImage: "nakedalm-windows-logo-12-12.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer"
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "tf50620"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "guide-to-changeserverid-says-mostly-harmless"
 ---
 

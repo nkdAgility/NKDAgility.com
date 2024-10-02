@@ -9,7 +9,8 @@ tags:
   - "windows-mobile-6"
 coverImage: "metro-office-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "office-mobile-2007"
 ---
 

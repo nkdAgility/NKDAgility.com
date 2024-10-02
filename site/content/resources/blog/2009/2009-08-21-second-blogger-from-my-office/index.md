@@ -8,7 +8,8 @@ tags:
   - "aggreko"
 coverImage: "metro-aggreko-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "second-blogger-from-my-office"
 ---
 

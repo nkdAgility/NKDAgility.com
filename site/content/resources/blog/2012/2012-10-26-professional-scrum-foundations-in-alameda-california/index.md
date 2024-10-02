@@ -16,7 +16,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "professional-scrum-foundations-in-alameda-california"
 ---
 

@@ -10,7 +10,8 @@ tags:
   - "sp2007"
 coverImage: "metro-sharepoint-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "another-day-another-codeplex-project"
 ---
 

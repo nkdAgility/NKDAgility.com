@@ -17,7 +17,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-experts-visual-studio-alm-16-16.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-foundation-server-2012-teams-without-areas"
 ---
 

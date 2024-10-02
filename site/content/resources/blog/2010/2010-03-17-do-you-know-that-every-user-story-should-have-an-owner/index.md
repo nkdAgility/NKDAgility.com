@@ -13,7 +13,8 @@ tags:
   - "user-stories"
 coverImage: "metro-SSWLogo-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "do-you-know-that-every-user-story-should-have-an-owner"
 ---
 

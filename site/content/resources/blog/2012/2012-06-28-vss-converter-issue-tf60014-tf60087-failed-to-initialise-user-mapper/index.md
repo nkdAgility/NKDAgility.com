@@ -14,7 +14,8 @@ tags:
   - "visual-sourcesafe"
 coverImage: "metro-problem-icon-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper"
 ---
 

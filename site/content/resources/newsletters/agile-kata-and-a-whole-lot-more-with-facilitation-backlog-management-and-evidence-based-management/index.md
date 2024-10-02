@@ -4,7 +4,7 @@ title: "Agile Kata and a whole lot more with facilitation, backlog management, a
 date: "2024-02-13"
 coverImage: "naked-agility-technically-agile-1280×720-24Q1-Feb24.jpg"
 author: "MrHinsh"
-type: newsletters
+resourceType: newsletter
 layout: resources/single
 slug: "agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management"
 ---

@@ -8,7 +8,8 @@ tags:
   - "live"
 coverImage: "nakedalm-logo-128-link-7-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "windows-live-id-and-openid"
 ---
 

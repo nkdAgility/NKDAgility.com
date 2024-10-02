@@ -8,7 +8,8 @@ tags:
   - "windows"
 coverImage: "nakedalm-windows-logo-7-7.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "woops-i-installed-windows-8-instead-of-windows-8-pro"
 ---
 

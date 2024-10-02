@@ -11,7 +11,8 @@ tags:
   - "windows"
 coverImage: "metro-problem-icon-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "windows-8-issue-local-network-is-detected-as-public"
 ---
 

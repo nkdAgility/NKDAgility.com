@@ -12,7 +12,8 @@ tags:
   - "vs2005"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "free-online-training-from-microsoft"
 ---
 

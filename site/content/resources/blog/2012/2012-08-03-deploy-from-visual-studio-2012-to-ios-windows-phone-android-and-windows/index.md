@@ -15,7 +15,8 @@ tags:
   - "vsip"
 coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows"
 ---
 

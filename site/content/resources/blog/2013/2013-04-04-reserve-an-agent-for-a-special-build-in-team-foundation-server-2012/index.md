@@ -22,7 +22,8 @@ tags:
   - "vm"
 coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "reserve-an-agent-for-a-special-build-in-team-foundation-server-2012"
 ---
 

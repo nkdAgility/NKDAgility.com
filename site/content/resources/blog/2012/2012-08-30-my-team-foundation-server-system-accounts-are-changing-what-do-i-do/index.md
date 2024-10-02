@@ -11,7 +11,8 @@ tags:
   - "tfs2012"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "my-team-foundation-server-system-accounts-are-changing-what-do-i-do"
 ---
 

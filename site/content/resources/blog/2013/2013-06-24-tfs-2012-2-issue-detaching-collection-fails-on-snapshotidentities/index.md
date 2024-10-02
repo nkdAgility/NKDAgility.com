@@ -17,7 +17,8 @@ tags:
   - "tfs-2013"
 coverImage: "puzzle-issue-problem-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities"
 ---
 

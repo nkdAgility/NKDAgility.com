@@ -8,7 +8,8 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "some-thoughts-on-net-3-0-from-linkedin"
 ---
 

@@ -8,7 +8,8 @@ tags:
   - "answers"
 coverImage: "nakedalm-logo-128-link-25-25.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "msn-cartoon-beta"
 ---
 

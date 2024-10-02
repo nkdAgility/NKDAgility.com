@@ -13,7 +13,8 @@ tags:
   - "refinement"
 coverImage: "iStock-847664136-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it"
 ---
 

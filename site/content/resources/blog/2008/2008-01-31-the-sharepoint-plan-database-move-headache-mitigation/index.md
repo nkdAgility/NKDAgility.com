@@ -14,7 +14,8 @@ tags:
   - "tools"
 coverImage: "metro-sharepoint-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-sharepoint-plan-database-move-headache-mitigation"
 ---
 

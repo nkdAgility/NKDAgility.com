@@ -1,6 +1,6 @@
 ---
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-type: guide
+resourceType: guide
 date: 2024-09-17
 author: MrHinsh
 aliases:

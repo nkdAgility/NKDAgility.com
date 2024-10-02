@@ -23,7 +23,8 @@ tags:
   - "xcode"
 coverImage: "nakedalm-experts-visual-studio-alm-26-26.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "create-a-build-vnext-build-definition-on-vso"
 ---
 

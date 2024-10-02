@@ -12,7 +12,8 @@ tags:
   - "tfs-integration-platform"
 coverImage: "metro-problem-icon-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item"
 ---
 

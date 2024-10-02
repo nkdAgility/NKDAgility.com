@@ -17,7 +17,8 @@ tags:
   - "tools"
 coverImage: "metro-event-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "scrum-with-team-foundation-server-2010-done"
 ---
 

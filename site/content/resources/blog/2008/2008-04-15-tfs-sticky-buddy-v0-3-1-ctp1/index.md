@@ -13,7 +13,8 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-3-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-sticky-buddy-v0-3-1-ctp1"
 ---
 

@@ -8,7 +8,8 @@ tags:
   - "fail"
 coverImage: "nakedalm-logo-128-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "experts-exchange-hell-the-slowest-site-in-the-world"
 ---
 

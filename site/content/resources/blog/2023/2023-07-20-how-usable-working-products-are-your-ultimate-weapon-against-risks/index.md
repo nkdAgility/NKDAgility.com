@@ -10,7 +10,8 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "how-usable-working-products-are-your-ultimate-weapon-against-risks"
 ---
 

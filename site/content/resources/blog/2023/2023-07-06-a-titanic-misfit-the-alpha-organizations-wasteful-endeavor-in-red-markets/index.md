@@ -9,7 +9,8 @@ tags:
   - "homepage"
 coverImage: "image-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "a-titanic-misfit-the-alpha-organizations-wasteful-endeavor-in-red-markets"
 ---
 

@@ -10,7 +10,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "professional-scrum-immingham-uk"
 ---
 

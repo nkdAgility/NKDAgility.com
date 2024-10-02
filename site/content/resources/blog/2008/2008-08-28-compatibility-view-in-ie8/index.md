@@ -8,7 +8,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "compatibility-view-in-ie8"
 ---
 

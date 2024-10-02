@@ -11,7 +11,8 @@ tags:
   - "tfs"
 coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "tfs-process-template-migration-script-updated"
 ---
 

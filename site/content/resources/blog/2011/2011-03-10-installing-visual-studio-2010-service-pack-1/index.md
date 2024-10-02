@@ -9,7 +9,8 @@ tags:
   - "vs2010"
 coverImage: "metro-visual-studio-2010-128-link-13-13.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-visual-studio-2010-service-pack-1"
 ---
 

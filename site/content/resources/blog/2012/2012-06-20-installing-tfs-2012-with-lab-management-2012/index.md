@@ -20,7 +20,8 @@ tags:
   - "vs2012"
 coverImage: "nakedalm-experts-visual-studio-alm-42-42.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "installing-tfs-2012-with-lab-management-2012"
 ---
 

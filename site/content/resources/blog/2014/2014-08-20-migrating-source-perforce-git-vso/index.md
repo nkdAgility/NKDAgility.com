@@ -12,7 +12,8 @@ tags:
   - "vsteamservices"
 coverImage: "naked-alm-git-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "migrating-source-perforce-git-vso"
 ---
 

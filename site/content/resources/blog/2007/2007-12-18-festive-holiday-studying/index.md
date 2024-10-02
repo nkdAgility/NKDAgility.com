@@ -12,7 +12,8 @@ tags:
   - "xbox"
 coverImage: "metro-xbox-360-link-3-3.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "festive-holiday-studying"
 ---
 

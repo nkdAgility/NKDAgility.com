@@ -8,7 +8,8 @@ tags:
   - "wordpress"
 coverImage: "nakedalm-logo-128-link-4-4.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "should-geekswithblogs-move-to-the-wordpress-platform"
 ---
 

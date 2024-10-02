@@ -10,7 +10,8 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "calling-an-object-method-in-a-data-trigger"
 ---
 

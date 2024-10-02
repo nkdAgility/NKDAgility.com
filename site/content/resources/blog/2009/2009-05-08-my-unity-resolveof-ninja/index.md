@@ -11,7 +11,8 @@ tags:
   - "wpf"
 coverImage: "metro-binary-vb-128-link-4-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "my-unity-resolveof-ninja"
 ---
 

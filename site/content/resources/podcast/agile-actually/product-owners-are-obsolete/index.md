@@ -5,7 +5,7 @@ date: "2023-04-27"
 categories:
   - "agility"
 author: "MrHinsh"
-type: podcast
+resourceType: podcast
 layout: resources/single
 slug: "product-owners-are-obsolete"
 resourceType:

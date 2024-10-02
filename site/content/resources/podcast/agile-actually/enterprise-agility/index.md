@@ -5,7 +5,7 @@ date: "2024-01-25"
 categories:
   - "agility"
 author: "MrHinsh"
-type: podcast
+resourceType: podcast
 layout: resources/single
 slug: "enterprise-agility"
 resourceType:

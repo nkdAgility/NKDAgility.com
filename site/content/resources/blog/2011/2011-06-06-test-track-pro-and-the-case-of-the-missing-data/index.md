@@ -9,7 +9,8 @@ tags:
   - "tfs2010"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "test-track-pro-and-the-case-of-the-missing-data"
 ---
 

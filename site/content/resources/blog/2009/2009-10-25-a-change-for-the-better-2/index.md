@@ -11,7 +11,8 @@ tags:
   - "ssw"
 coverImage: "metro-SSWLogo-128-link-3-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "a-change-for-the-better-2"
 ---
 

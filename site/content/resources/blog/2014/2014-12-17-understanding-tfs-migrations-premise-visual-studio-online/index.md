@@ -10,7 +10,8 @@ tags:
   - "vsteamservices"
 coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "understanding-tfs-migrations-premise-visual-studio-online"
 ---
 

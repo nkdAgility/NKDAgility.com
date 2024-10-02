@@ -11,7 +11,8 @@ tags:
   - "whats-new"
 coverImage: "nakedalm-experts-visual-studio-alm-13-13.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "whats-new-in-visual-studio-2013-rc-with-team-foundation-server"
 ---
 

@@ -9,7 +9,8 @@ tags:
   - "tfsap"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "constructing-a-framework-for-the-tfs-automation-platform"
 ---
 

@@ -13,7 +13,8 @@ tags:
   - "tfs-2012-3"
   - "tfs-2013"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "team-foundation-server-2013-is-production-ready"
 ---
 

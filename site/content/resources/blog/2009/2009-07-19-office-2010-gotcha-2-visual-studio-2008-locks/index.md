@@ -10,7 +10,8 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-2-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "office-2010-gotcha-2-visual-studio-2008-locks"
 ---
 

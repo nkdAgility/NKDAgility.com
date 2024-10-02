@@ -11,7 +11,8 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2010-128-link-8-8.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010"
 ---
 

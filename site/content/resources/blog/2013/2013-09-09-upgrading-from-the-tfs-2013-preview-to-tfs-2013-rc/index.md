@@ -10,7 +10,8 @@ tags:
   - "tfs-2013"
   - "upgrade"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc"
 ---
 

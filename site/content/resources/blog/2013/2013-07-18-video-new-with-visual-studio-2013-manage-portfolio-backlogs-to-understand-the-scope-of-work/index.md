@@ -14,7 +14,8 @@ tags:
   - "tfs-2013"
 coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work"
 ---
 

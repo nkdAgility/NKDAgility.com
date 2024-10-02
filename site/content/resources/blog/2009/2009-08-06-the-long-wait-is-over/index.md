@@ -8,7 +8,8 @@ tags:
   - "tools"
 coverImage: "nakedalm-logo-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-long-wait-is-over"
 ---
 

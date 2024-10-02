@@ -10,7 +10,8 @@ tags:
   - "scrum"
 coverImage: "nakedalm-experts-professional-scrum-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "bruce-lee-on-scrum-and-agile"
 ---
 

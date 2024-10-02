@@ -5,7 +5,7 @@ date: "2024-04-25"
 categories:
   - "agility"
 author: "MrHinsh"
-type: podcast
+resourceType: podcast
 layout: resources/single
 slug: "agile-at-microsoft"
 resourceType:

@@ -15,7 +15,8 @@ tags:
   - "vs2008"
 coverImage: "metro-visual-studio-2005-128-link-2-2.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "event-msdn-sharepoint-for-developers-edinburgh"
 ---
 

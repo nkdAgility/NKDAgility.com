@@ -8,7 +8,8 @@ tags:
   - "outlook"
 coverImage: "metro-office-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "outlook-2007-users-angry-well-maybe-not-users"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "visual-studio"
   - "vs2012"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production"
 ---
 

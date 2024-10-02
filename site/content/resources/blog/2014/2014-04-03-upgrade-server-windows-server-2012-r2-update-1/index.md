@@ -11,7 +11,8 @@ tags:
   - "windows-server"
 coverImage: "nakedalm-windows-logo-6-6.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "upgrade-server-windows-server-2012-r2-update-1"
 ---
 

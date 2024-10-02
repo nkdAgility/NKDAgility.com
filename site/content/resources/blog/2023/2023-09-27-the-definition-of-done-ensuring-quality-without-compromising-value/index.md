@@ -9,7 +9,8 @@ tags:
   - "homepage"
 coverImage: "NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "the-definition-of-done-ensuring-quality-without-compromising-value"
 ---
 

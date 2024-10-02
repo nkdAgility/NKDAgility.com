@@ -1,5 +1,6 @@
 ---
 title: Definition of Done
+resourceType: workshop
 aliases:
   - workshops/Definition-Of-Done.html
   - learn/agile-delivery-kit/workshops/Definition-Of-Done

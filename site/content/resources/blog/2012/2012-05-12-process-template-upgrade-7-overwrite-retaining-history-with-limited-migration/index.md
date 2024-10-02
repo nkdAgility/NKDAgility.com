@@ -11,7 +11,8 @@ tags:
   - "tfs"
   - "tools"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "process-template-upgrade-7-overwrite-retaining-history-with-limited-migration"
 ---
 

@@ -14,7 +14,8 @@ tags:
   - "workitemtracking"
 coverImage: "metro-powershell-logo-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "powershell-tfs-2013-api-1-get-tfscollection-and-tfs-services"
 ---
 

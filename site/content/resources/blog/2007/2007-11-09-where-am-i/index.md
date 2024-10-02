@@ -9,7 +9,8 @@ tags:
   - "wcf"
 coverImage: "metro-merilllynch-128-link-5-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "where-am-i"
 ---
 

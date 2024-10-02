@@ -9,7 +9,8 @@ tags:
   - "tools"
 coverImage: "metro-visual-studio-2005-128-link-1-1.png"
 author: "MrHinsh"
-type: blog
+layout: blog
+resourceType: blog
 slug: "upgrading-to-tfs-2010-beta-1-and-sql-collation"
 ---
 
