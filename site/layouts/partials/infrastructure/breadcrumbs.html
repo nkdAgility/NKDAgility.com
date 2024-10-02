@@ -1,10 +1,8 @@
 <nav aria-label="breadcrumb">
   <ul class="breadcrumb">
-    <!-- Home link -->
-    <li class="breadcrumb-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
-
     <!-- Walk through parent pages and build breadcrumbs in reverse order -->
-    {{ $currentPage := . }} {{ $parents := slice }}
+    {{ $currentPage := . }}
+    {{ $parents := slice }}
     {{ $parent := $currentPage.Parent }}
 
 
@@ -18,7 +16,8 @@
         <!-- Arbitrary large number to handle deep hierarchy -->
         {{ if $parentPage }}
           <!-- Prepend parent to the slice -->
-          {{ $parents = union (slice $parentPage) $parents }} {{ $parentPage = $parentPage.Parent }}
+          {{ $parents = union (slice $parentPage) $parents }}
+          {{ $parentPage = $parentPage.Parent }}
         {{ else }}
           {{ break }}
         {{ end }}
