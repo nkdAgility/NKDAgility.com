@@ -4,11 +4,12 @@ title: "Seasons Greetings & Upcoming Professional Scrum training classes"
 date: "2022-12-21"
 coverImage: "naked-agility-technically-agile-1280×720-Holiday2022.jpg"
 author: "MrHinsh"
-type: "newsletters"
+resourceType: newsletter
+layout: resources/single
 slug: "seasons-greetings-upcoming-professional-scrum-training-classes"
 ---
 
-\[caption id="attachment\_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
+\[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]
 
 ## News for 2023
 

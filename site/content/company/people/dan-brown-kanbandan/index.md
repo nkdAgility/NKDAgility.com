@@ -4,7 +4,7 @@ coverImage: kanban-dan.png
 author: MrHinsh
 title: Dan Brown (KanbanDan)
 aliases:
-- /company/people/dan-brown-kanbandan/
+  - /company/people/dan-brown-kanbandan/
 date: 2023-06-20
 id: "49463"
 type: people
@@ -16,17 +16,4 @@ card:
     Enhancing Delivery ✪ Agile Trainer &amp; Coach ✪ Expert in Lean Kanban &amp; Agile Transformation ✪ Passionate Coach, Teacher, &amp; Speaker
   button:
     content: More info
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-

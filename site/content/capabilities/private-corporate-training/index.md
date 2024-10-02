@@ -5,7 +5,7 @@ date: 2024-06-12
 author: MrHinsh
 draft: true
 aliases:
-- /capabilities/private-corporate-training/
+  - /capabilities/private-corporate-training/
 type: capabilities
 slug: private-corporate-training
 card:
@@ -14,26 +14,6 @@ card:
   content: Elevate your team's performance with our Private Corporate Training and public offerings! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
   title: Professional Training
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Elevate Your Team's Performance with NKDAgility's Agile & DevOps Training!
 
@@ -48,23 +28,3 @@ We offer unmatched flexibility in learning formats, providing both online and in
 By participating in our Agile and DevOps training, your team will not only master these frameworks but also learn to apply them effectively, enhancing teamwork, and operational efficiency, and driving forward-thinking innovation.
 
 Invest in your team's success and stay ahead in the game with NKDAgility's Agile and DevOps training programs. Sign up today and transform your team into a powerhouse of efficiency and innovation!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

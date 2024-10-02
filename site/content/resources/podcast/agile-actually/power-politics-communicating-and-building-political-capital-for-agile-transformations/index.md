@@ -2,12 +2,13 @@
 id: "51413"
 title: "Power & Politics! Communicating and Building Political Capital for Agile Transformations!"
 date: "2024-06-04"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "power-politics-communicating-and-building-political-capital-for-agile-transformations"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

@@ -1,0 +1,19 @@
+{{ $site := .Site }} {{ range $index, $section := .Params.sections }}
+<!-- Title and Content (always shown) -->
+<section class="container my-5">
+  <div class="section">
+    <h2>{{ $section.title | markdownify }}</h2>
+    <p>{{ $section.content | markdownify }}</p>
+    <!-- Conditional rendering based on section type -->
+    {{ if eq $section.type "features" }}
+    <!-- Render features -->
+    {{ partial "sections-features.html" . }} {{ else if eq $section.type "courses" }} {{ partial "sections-courses.html" (dict "site" $site "context" .) }} {{ else if eq $section.type "videos" }}
+    <!-- Videos specific rendering -->{{ partial "sections-videos.html" (dict "site" $site "context" .) }} {{ else }}
+    <!-- Default rendering for other types if needed -->
+    <div class="default-section">
+      <p>Other section type content.</p>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</section>

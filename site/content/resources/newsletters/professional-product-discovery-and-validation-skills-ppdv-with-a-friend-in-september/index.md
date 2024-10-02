@@ -3,7 +3,8 @@ id: "51722"
 title: "Professional Product Discovery and Validation Skills (PPDV) with a friend in September!"
 date: "2024-08-29"
 author: "MrHinsh"
-type: "newsletters"
+resourceType: newsletter
+layout: resources/single
 slug: "professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september"
 ---
 
@@ -13,15 +14,15 @@ slug: "professional-product-discovery-and-validation-skills-ppdv-with-a-friend-i
 
 If you’ve been waiting for the perfect opportunity to elevate your product development skills, this is it—and we’re offering an exclusive **50% discount for our members** so you can invite a friend for the same price..
 
- 
 
- 
+
+
 
 <table style="background-color: #6a0dad !important;" border="0" cellspacing="0" cellpadding="10" align="center" bgcolor="#6a0dad"><tbody><tr><td align="center"><p style="color: #ffffff; text-decoration: none; font-size: 16px; display: block;">Use code: <strong>yarnagile50-94qyfhqg</strong> in the cart!</p></td></tr></tbody></table>
 
 \[wpv-view name="2022-CourseSchedule-Newsletter" limit="20" course="51412"\]
 
- 
+
 
 ### Why You Can't Miss This Workshop
 
@@ -64,9 +65,9 @@ Warm regards,
 
 **Principal Agile Consultant and Professional Scrum Trainer**
 
- 
 
-* * *
+
+---
 
 ## What have we been up to?
 

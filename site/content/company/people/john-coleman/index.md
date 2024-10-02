@@ -4,7 +4,7 @@ coverImage: John-Coleman-glow.png
 author: MrHinsh
 title: John Coleman
 aliases:
-- /company/people/john-coleman/
+  - /company/people/john-coleman/
 date: 2022-10-26
 id: "48228"
 type: people
@@ -18,17 +18,4 @@ card:
     &nbsp;
   button:
     content: More info
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-

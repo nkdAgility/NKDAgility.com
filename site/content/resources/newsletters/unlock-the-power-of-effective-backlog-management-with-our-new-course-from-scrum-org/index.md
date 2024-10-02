@@ -4,7 +4,8 @@ title: "Unlock the Power of Effective Backlog Management with our new course fro
 date: "2023-10-09"
 coverImage: "NKDAgility-technically-DOD-Not-AC-3-2.jpg"
 author: "MrHinsh"
-type: "newsletters"
+resourceType: newsletter
+layout: resources/single
 slug: "unlock-the-power-of-effective-backlog-management-with-our-new-course-from-scrum-org"
 ---
 
@@ -28,7 +29,7 @@ Yours in agile excellence,
 
 Martin Hinshelwood
 
-* * *
+---
 
 ## Upcoming Training Classes
 

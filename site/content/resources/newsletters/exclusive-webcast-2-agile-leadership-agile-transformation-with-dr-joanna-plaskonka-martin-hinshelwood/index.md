@@ -1,13 +1,14 @@
 ---
 id: "50131"
-title: "Exclusive Webcast #2: \"Agile Leadership & Agile Transformation\" with Dr. Joanna Płaskonka & Martin Hinshelwood"
+title: 'Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood'
 date: "2023-10-01"
 author: "MrHinsh"
-type: "newsletters"
+resourceType: newsletter
+layout: resources/single
 slug: "exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood"
 ---
 
-**🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**  
+**🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**
 
 Dive into the world of Agile with two of the industry's foremost experts, Dr. Joanna Płaskonka and Martin Hinshelwood, in an enlightening 18-minute webcast that promises to reshape your understanding of Agile Leadership and Transformation.
 
@@ -36,7 +37,7 @@ Yours in agile excellence,
 
 Martin Hinshelwood
 
-* * *
+---
 
 ## Upcoming Training Classes for Leaders
 

@@ -2,12 +2,13 @@
 id: "49092"
 title: "Product owners are obsolete!"
 date: "2023-04-27"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "product-owners-are-obsolete"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

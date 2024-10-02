@@ -2,12 +2,13 @@
 id: "51008"
 title: "Agile Alchemy"
 date: "2023-12-19"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "agile-alchemy"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

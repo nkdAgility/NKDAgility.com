@@ -4,7 +4,8 @@ title: "Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 
 date: "2024-01-04"
 coverImage: "naked-agility-technically-agile-1280×720-January2024.jpg"
 author: "MrHinsh"
-type: "newsletters"
+resourceType: newsletter
+layout: resources/single
 slug: "unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount"
 ---
 
@@ -45,9 +46,9 @@ _P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! 
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
 
- 
 
-* * *
+
+---
 
 ## Upcoming Training Classes
 

@@ -24,3 +24,15 @@ rss:
   name: "RSS Feed"
   description: "Subscribe to our RSS feed"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Allows raw HTML in Markdown
+    extensions:
+      table: true
+      linkify: true
+      typographer: true
+    parser:
+      attribute:
+        block: true
+        title: true

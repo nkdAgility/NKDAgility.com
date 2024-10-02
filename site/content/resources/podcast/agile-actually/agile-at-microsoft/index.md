@@ -2,12 +2,13 @@
 id: "51398"
 title: "Agile at Microsoft"
 date: "2024-04-25"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "agile-at-microsoft"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

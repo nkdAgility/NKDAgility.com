@@ -10,5 +10,5 @@ card:
   button:
     content: More info
 ---
-Description of Agile Product Operating Model.
 
+Description of Agile Product Operating Model.

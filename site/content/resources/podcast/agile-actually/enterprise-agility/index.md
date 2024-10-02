@@ -2,12 +2,13 @@
 id: "51188"
 title: "Enterprise Agility"
 date: "2024-01-25"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "enterprise-agility"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

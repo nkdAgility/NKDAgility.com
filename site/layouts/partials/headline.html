@@ -1,0 +1,43 @@
+{{ if .Params.headline }}
+  <section class="container my-5">
+    <div class="row p-5">
+      <div class="col-md-6">
+        <h1 class="mb-4 nkda-heading-primary">{{ .Params.headline.title | markdownify }}</h1>
+        <h1 class="mb-4 nkda-heading-secondary">{{ .Params.headline.subtitle | markdownify }}</h1>
+      </div>
+      <div class="col-md-6">
+        <p class="nkda-heading-primary-content">{{ .Params.headline.content | markdownify }}</p>
+      </div>
+    </div>
+    <div class="row">
+      {{ range .Params.headline.cards }}
+        <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+          <!-- prettier-ignore -->
+          {{ partial "card.html" (dict "class" "herocards" "title" .title "content" .content) }}
+        </div>
+      {{ end }}
+    </div>
+  </section>
+{{ else }}
+  {{ if .Params.card }}
+    <section class="container my-5">
+      <div class="row p-5">
+        <div class="col-md-6">
+          <h1 class="mb-4 nkda-heading-primary">{{ .Params.card.title | markdownify }}</h1>
+        </div>
+        <div class="col-md-6">
+          <p class="nkda-heading-primary-content">{{ .Params.card.content | markdownify }}</p>
+        </div>
+      </div>
+    </section>
+  {{ else }}
+    <section class="container my-5">
+      <div class="row p-5">
+        <div class="col-12">
+          <h1 class="mb-4 nkda-heading-primary">{{ .Title | markdownify }}</h1>
+          <h2 class="mb-4 nkda-heading-secondary">{{ .Params.author }} | {{ .Params.tags }} | {{ .Date.Format "2nd January 2006" }}</h2>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}

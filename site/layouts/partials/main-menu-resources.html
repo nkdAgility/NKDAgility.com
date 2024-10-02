@@ -1,0 +1,35 @@
+{{ $resources := .Site.GetPage "section" "resources" }}
+<li class="nav-item dropdown dropdown-mega position-static">
+  <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $resources.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $resources.Title }}</a>
+  <div class="dropdown-menu shadow">
+    <div class="mega-content px-4">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-2">
+            <h5>{{ $resources.Title }}</h5>
+            <p>{{ $resources.Description }}</p>
+          </div>
+          <div class="col-md-10">
+            <div class="row">
+              {{ range $resources.Pages }} {{ if not .Draft }}
+              <div class="col-md-4">
+                <h6>{{ .Title }}</h6>
+                <ul class="list-group">
+                  <li class="list-group-item">
+                    <a href="{{ .Permalink }}">Overview</a>
+                  </li>
+                  {{ range first 5 .Pages }} {{ if not .Draft }}
+                  <li class="list-group-item">
+                    <a href="{{ .Permalink }}">{{ with .Params.card }} {{ .title }} {{ else }} {{ .Title }} {{ end }}</a>
+                  </li>
+                  {{ end }} {{ end }}
+                </ul>
+              </div>
+              {{ end }} {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</li>

@@ -2,12 +2,13 @@
 id: "51014"
 title: "Ethics in Agile"
 date: "2023-10-26"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "ethics-in-agile"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 

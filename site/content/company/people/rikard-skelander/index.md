@@ -4,7 +4,7 @@ coverImage: nkdagility-rikard-skelander.png
 author: MrHinsh
 title: Rikard Skelander
 aliases:
-- /company/people/rikard-skelander/
+  - /company/people/rikard-skelander/
 date: 2024-01-11
 id: "50829"
 type: people
@@ -20,17 +20,4 @@ card:
     &nbsp;
   button:
     content: More info
-
 ---
-
-
-
-
-
-
-
-
-
-
-
-

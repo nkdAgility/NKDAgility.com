@@ -1,0 +1,82 @@
+[
+  {
+    "enabled": true,
+    "name": "Category A (USD)",
+    "countries": "BM, KY, MO, QA, SG, AE",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": 0
+  },
+  {
+    "enabled": true,
+    "name": "Category A.USA (USD)",
+    "countries": "US",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": -10
+  },
+  {
+    "enabled": false,
+    "name": "Category A (EUR)",
+    "countries": "NO, MC, LI, CH",
+    "currency": "EUR",
+    "auto_exchange_rate": "yes",
+    "discount": 0
+  },
+  {
+    "enabled": true,
+    "name": "Category B (EUR)",
+    "countries": "AT, BE, DK, FI, FR, DE, IS, IE, LU, NL, SM, BG, RO, SE",
+    "currency": "EUR",
+    "auto_exchange_rate": "yes",
+    "discount": -10
+  },
+  {
+    "enabled": true,
+    "name": "Category B (GBP)",
+    "countries": "GB, IM, FK",
+    "currency": "GBP",
+    "auto_exchange_rate": "yes",
+    "discount": -10
+  },
+  {
+    "enabled": true,
+    "name": "Category B (USD)",
+    "countries": "AD, AU, BH, BN, CA, GI, GG, HK, JE, KW, PM, SA, KR, TW",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": -10
+  },
+  {
+    "enabled": true,
+    "name": "Category C (EUR)",
+    "countries": "HR, CY, CZ, EE, GR, HU, IT, LV, LT, MT, PL, PT, SK, SI, ES",
+    "currency": "EUR",
+    "auto_exchange_rate": "yes",
+    "discount": -20
+  },
+  {
+    "enabled": true,
+    "name": "Category C (USD) ",
+    "countries": "AW, BS, FO, GL, GU, IL, JP, MY, NC, NZ, OM, PA, PR, RU, SC, SX, TR, VG, VI",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": -20
+  },
+  {
+    "enabled": true,
+    "name": "Category D (USD)",
+    "countries": "AL, DZ, AS, AI, AG, AR, AM, AZ, BB, BY, BT, BO, BA, BW, BR, CL, CN, CO, CK, CR, CU, CW, DM, DO, EC, EG, SV, GQ, SZ, PF, GA, GE, GD, GY, ID, IR, IQ, JM, JO, KZ, XK, LB, LY, MV, MU, MX, MD, MN, ME, NA, NR, MK, MP, PW, PY, PE, PH, KN, LC, MF, VC, RS, ZA, LK, SR, TH, TT, TN, TM, TC, UA, UY, VN",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": -40
+  },
+  {
+    "enabled": true,
+    "name": "Category E (USD)",
+    "countries": "AF, AO, BD, BZ, BJ, BF, BI, CV, KH, CM, CF, TD, KM, CG, CI, CD, DJ, ER, ET, GM, GH, GT, GN, GW, HT, HN, IN, KE, KI, KG, LA, LS, LR, MG, MW, ML, MH, MR, FM, MA, MZ, MM, NP, NI, NE, NG, NU, KP, PK, PS, PG, RW, WS, ST, SN, SL, SB, SO, SS, SD, SY, TJ, TZ, TL, TG, TK, TO, TV, UG, UZ, VU, VE, WF, YE, ZM, ZW",
+    "currency": "USD",
+    "auto_exchange_rate": "yes",
+    "discount": -60
+  }
+]

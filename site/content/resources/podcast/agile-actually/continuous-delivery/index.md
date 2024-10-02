@@ -2,12 +2,13 @@
 id: "50836"
 title: "Continuous Delivery"
 date: "2023-11-23"
-categories: 
+categories:
   - "agility"
 author: "MrHinsh"
-type: "nkdresources"
+resourceType: podcast
+layout: resources/single
 slug: "continuous-delivery"
-resourceType: 
+resourceType:
   - "podcast"
 ---
 
