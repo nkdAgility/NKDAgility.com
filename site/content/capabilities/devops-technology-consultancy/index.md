@@ -9,7 +9,7 @@ type: capabilities
 slug: devops-technology-consultancy
 headline:
   title: "DevOps Technology Consultancy"
-  content: "?"
+  content: 
   cards:
     - title: "Deep Technical Knowledge"
       content: "Our team has extensive experience with agile within the context of many diferent team settings."
