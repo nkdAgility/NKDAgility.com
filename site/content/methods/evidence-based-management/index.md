@@ -2,6 +2,7 @@
 slug: evidence-based-management
 author: MrHinsh
 title: Evidence-Based Management
+Draft: true
 aliases:
   - /methods/ebm/
 date: 2024-09-17

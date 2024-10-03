@@ -2,6 +2,7 @@
 title: "Scrum Framework"
 url: "/methods/scrum-framework/"
 weight: 1
+Draft: true
 card:
   title: Scrum Framework
   content: |-

@@ -1,8 +1,9 @@
 ---
 title: "Company as a Product (CaaP)"
 url: "/methods/company-as-a-product/"
-alias: "/APOM"
+alias: "/CaaP"
 weight: 1
+Draft: true
 card:
   title: Company as a Product (CaaP)
   content: |-

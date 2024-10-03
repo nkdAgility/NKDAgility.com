@@ -1,6 +1,7 @@
 {{ $sectionName := .SectionName }}
 {{ $section := .context.Site.GetPage "section" $sectionName }}
-<li class="nav-item dropdown dropdown-mega position-static">
+{{ if not $section.Draft }}
+<li class="nav-item dropdown dropdown-mega position-static"></li>
   <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $section.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $section.Title }}</a>
   <div class="dropdown-menu shadow">
     <div class="mega-content px-4">
@@ -27,3 +28,5 @@
     </div>
   </div>
 </li>
+{{ end }}
+
