@@ -26,6 +26,17 @@ rss:
   name: "RSS Feed"
   description: "Subscribe to our RSS feed"
 
+outputs:
+  home:
+    - HTML
+    - JSON
+
+outputFormats:
+  JSON:
+    mediaType: "application/json"
+    baseName: "pages"
+
+
 permalinks:
   page:
     resources: /:sections/:slug/
