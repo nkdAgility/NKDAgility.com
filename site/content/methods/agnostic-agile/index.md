@@ -3,6 +3,7 @@ title: "Agnostic Agile"
 url: "/methods/agnostic-agile/"
 alias: "/APOM"
 weight: 1
+Draft: true
 card:
   title: Agnostic Agile
   content: |-

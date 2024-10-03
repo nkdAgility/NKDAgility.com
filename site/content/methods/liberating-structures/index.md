@@ -6,6 +6,7 @@ aliases:
   - /methods/liberating-structures/
 date: 2024-09-17
 type: methods
+Draft: true
 card:
   title: Liberating Structures
   content: Unlock creativity and innovation through Liberating Structures. Engage your team in dynamic, inclusive conversations that drive impactful outcomes.

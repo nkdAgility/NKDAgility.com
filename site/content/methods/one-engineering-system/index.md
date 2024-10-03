@@ -7,6 +7,7 @@ aliases:
   - /methods/1es/
 date: 2024-09-17
 type: methods
+Draft: true
 card:
   title: One Engineering System
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
