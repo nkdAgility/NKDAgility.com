@@ -4,7 +4,10 @@
 <meta name="keywords" content="{{ .Site.Params.keywords }}" />
 <meta name="author" content="{{ .Site.Params.author }}" />
 <title>{{ .Title }} | {{ .Site.Title }}</title>
-<link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon"> <meta name="copyright" content="{{ printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" /> <meta name="license" content="© {{ now.Format "2006" }}
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{ printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
+<meta
+  name="license"
+  content="© {{ now.Format "2006" }}
 naked Agility Limited. All content is copyrighted. No reproduction or distribution without permission." />
 
 <!-- Open Graph -->
@@ -26,12 +29,15 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <!--Font Awesome -->
 <script data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="anonymous"></script>
 
+<!-- algolia.com -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css" integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ=" crossorigin="anonymous" />
+
 <!-- Main css-->
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}" />
 <!-- navbar -->
-<link rel="stylesheet" href="{{ "css/main-menu.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/main-menu.css" | relURL }}" />
 <!-- cards -->
-<link rel="stylesheet" href="{{ "css/cards.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/cards.css" | relURL }}" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-44XG57BE28"></script>
 <script>
@@ -39,6 +45,6 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
   function gtag() {
     dataLayer.push(arguments);
   }
-  gtag('js', new Date());
-  gtag('config', 'G-44XG57BE28');
+  gtag("js", new Date());
+  gtag("config", "G-44XG57BE28");
 </script>
