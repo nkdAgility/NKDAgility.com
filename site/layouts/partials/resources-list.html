@@ -1,12 +1,9 @@
 <div class="row">
-  {{ range $index, $resource := .Paginator.Pages }}
+  {{ $sortedResources := .Pages.ByDate.Reverse }}
+  {{ $paginator := .Paginate $sortedResources }}
+  {{ range $index, $resource := $paginator.Pages }}
     <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-      {{ if $resource }}
-        {{ partial "resources-card.html" $resource }}
-      {{ else }}
-        <p>Resource `{{ $resource }}` not found.</p>
-      {{ end }}
+      {{ partial "resources-card.html" $resource }}
     </div>
   {{ end }}
 </div>
-{{ .Paginator.Pages }}
