@@ -6,7 +6,8 @@
       "url" .Permalink
       "date" .Date
       "summary" .Summary
-      "type" "resource" 
+      "contentCatagory" .Section
+      "contentType" .CurrentSection.Params.resourceType 
     ) -}}
   {{- else }}
     {{- $.Scratch.Add "pages" (dict
@@ -14,6 +15,8 @@
       "url" .Permalink
       "date" .Date
       "summary" .Summary
+      "contentCatagory" .Type
+      "contentType" "page"
     ) -}}
   {{- end -}}
 {{- end -}}
