@@ -56,41 +56,6 @@ function Get-OAuthToken {
     return $tokenResponse.access_token
 }
 
-# Function to get list of videos from your YouTube channel with total results limit
-function Get-YouTubeVideos {
-    param (
-        [string]$accessToken,
-        [int]$maxResults = 50,
-        [int]$totalResultsLimit
-    )
-
-    $videos = @()
-    $nextPageToken = $null
-    $totalResultsFetched = 0  # Track the total number of results fetched
-
-    do {
-        # If the total number of fetched results will exceed the limit, adjust maxResults
-        if (($totalResultsLimit - $totalResultsFetched) -lt $maxResults) {
-            $maxResults = $totalResultsLimit - $totalResultsFetched
-        }
-
-        $videosApiUrl = "https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
-        $headers = @{"Authorization" = "Bearer $accessToken" }
-
-        $response = Invoke-RestMethod -Uri $videosApiUrl -Headers $headers -Method Get
-        $videos += $response.items
-        $totalResultsFetched += $response.items.Count
-        $nextPageToken = $response.nextPageToken
-
-        # Stop fetching if we've reached the total results limit
-        if ($totalResultsFetched -ge $totalResultsLimit) {
-            break
-        }
-    } while ($nextPageToken -and $totalResultsFetched -lt $totalResultsLimit)
-
-    return $videos
-}
-
 # Function to get captions for a video
 function Get-YouTubeCaptions {
     param (
@@ -98,7 +63,7 @@ function Get-YouTubeCaptions {
         [string]$accessToken
     )
 
-    $captionsApiUrl = "https://www.googleapis.com/youtube/v3/captions?part=snippet&videoId=$videoId"
+    $captionsApiUrl = "https://www.googleapis.com/youtube/v3/captions?part=id,snippet&videoId=$videoId"
     $headers = @{"Authorization" = "Bearer $accessToken" }
 
     $response = Invoke-RestMethod -Uri $captionsApiUrl -Headers $headers -Method Get
@@ -114,14 +79,16 @@ function Download-YouTubeCaption {
     )
 
     # Specify the format as SRT by adding 'tfmt=srt' to the URL
-    $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId?tfmt=srt"
+    $downloadUrl = "https://www.googleapis.com/youtube/v3/captions/$captionId/?tfmt=srt"
     $headers = @{"Authorization" = "Bearer $accessToken" }
 
-    $captionContent = Invoke-RestMethod -Uri $downloadUrl -Headers $headers -Method Get
+    # Use Invoke-WebRequest for binary or non-JSON/XML responses
+    $response = Invoke-WebRequest -Uri $downloadUrl -Headers $headers -Method Get
 
-    # Check if $captionContent is empty
-    if (-not [string]::IsNullOrEmpty($captionContent)) {
-        Set-Content -Path $outputPath -Value $captionContent
+    # Check if the response has content
+    if (-not [string]::IsNullOrEmpty($response.Content)) {
+        # Save the caption content to a file
+        [System.IO.File]::WriteAllBytes($outputPath, $response.Content)
         Write-Host "Caption saved to: $outputPath"
     }
     else {
@@ -129,36 +96,36 @@ function Download-YouTubeCaption {
     }
 }
 
-# Function to iterate through videos and download captions
+# Function to loop through outputDir folders and download captions based on folder names (which are video IDs)
+# It will only download the caption if the transcript file does not already exist
 function Download-AllYouTubeCaptions {
     param ([string]$accessToken)
 
-    # Get list of videos with the total results limit
-    $videos = Get-YouTubeVideos -accessToken $accessToken -maxResults $maxResults -totalResultsLimit $totalResultsLimit
-    foreach ($video in $videos) {
-        $videoId = $video.id.videoId
-        $title = $video.snippet.title
-        Write-Host "Processing video: $title"
+    # Get all folders in $outputDir
+    $videoFolders = Get-ChildItem -Path $outputDir -Directory
 
-        # Create a folder for the video using its ID
-        $videoFolder = Join-Path $outputDir $videoId
-        if (-not (Test-Path $videoFolder)) {
-            New-Item -Path $videoFolder -ItemType Directory
-        }
+    foreach ($folder in $videoFolders) {
+        $videoId = $folder.Name  # The folder name is assumed to be the videoId
+        Write-Host "Processing video ID: $videoId"
 
-        # Get captions for the video
         $captions = Get-YouTubeCaptions -videoId $videoId -accessToken $accessToken
 
-        if ($captions.Count -gt 0) {
-            $captionId = $captions[0].id
-            $outputPath = Join-Path $videoFolder "transcript.srt"
+        foreach ($caption in $captions) {
+            $captionId = $caption.id
+            $language = $caption.snippet.language
+           
+            $outputPath = Join-Path $folder.FullName "transcript.$language.srt"
+            # Check if the transcript already exists
+            if (-not (Test-Path $outputPath)) {
+                Write-Host "Downloading Transcript in $language for $captionId"
+                Download-YouTubeCaption -captionId $captionId -accessToken $accessToken -outputPath $outputPath
+            }
+            else {
+                Write-Host "Transcript in $language for $captionId already exists"
+            }
+        }
 
-            # Download the caption
-            Download-YouTubeCaption -captionId $captionId -accessToken $accessToken -outputPath $outputPath
-        }
-        else {
-            Write-Host "No captions available for video: $title"
-        }
+       
     }
 }
 
@@ -167,5 +134,6 @@ function Download-AllYouTubeCaptions {
 # Step 1: Get OAuth token
 $accessToken = Get-OAuthToken -clientId $clientId -clientSecret $clientSecret -redirectUri $redirectUri -scope $scope
 
-# Step 2: Download captions for all videos (as before)
+# Step 2: Download captions for all videos by iterating over folder names (which represent video IDs),
+# only downloading the transcript if it does not already exist
 Download-AllYouTubeCaptions -accessToken $accessToken

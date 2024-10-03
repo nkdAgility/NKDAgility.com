@@ -1,0 +1,1004 @@
+1
+00:00:00,520 --> 00:00:07,319
+agile product management differs
+
+2
+00:00:05,080 --> 00:00:09,559
+from product management that has been
+
+3
+00:00:07,319 --> 00:00:13,599
+done for many
+
+4
+00:00:09,559 --> 00:00:16,400
+years in actually very subtle ways so
+
+5
+00:00:13,599 --> 00:00:19,199
+you could say it doesn't differ at all
+
+6
+00:00:16,400 --> 00:00:20,920
+as well because all of the tools and
+
+7
+00:00:19,199 --> 00:00:23,119
+techniques that you would use in product
+
+8
+00:00:20,920 --> 00:00:25,960
+management um and you have been using in
+
+9
+00:00:23,119 --> 00:00:28,359
+product management for many years is the
+
+10
+00:00:25,960 --> 00:00:30,240
+same tools that you would use in agile
+
+11
+00:00:28,359 --> 00:00:33,200
+product management
+
+12
+00:00:30,240 --> 00:00:36,000
+but the way that you approach the
+
+13
+00:00:33,200 --> 00:00:37,960
+context of the tools and which tools
+
+14
+00:00:36,000 --> 00:00:40,719
+make more sense and which tools make
+
+15
+00:00:37,960 --> 00:00:43,480
+less sense is the bit where where it
+
+16
+00:00:40,719 --> 00:00:45,480
+differs because of we're we're we're
+
+17
+00:00:43,480 --> 00:00:48,760
+changing the underlying principles of
+
+18
+00:00:45,480 --> 00:00:51,359
+what it is we're trying to achieve so in
+
+19
+00:00:48,760 --> 00:00:54,520
+the traditional traditional
+
+20
+00:00:51,359 --> 00:00:56,559
+World we're probably going quite a long
+
+21
+00:00:54,520 --> 00:00:58,719
+time between actual
+
+22
+00:00:56,559 --> 00:01:00,640
+releases very much at least to get the
+
+23
+00:00:58,719 --> 00:01:03,160
+first release
+
+24
+00:01:00,640 --> 00:01:05,680
+um and then between releases were're
+
+25
+00:01:03,160 --> 00:01:08,439
+probably taking a long time I'm thinking
+
+26
+00:01:05,680 --> 00:01:10,320
+about um the Azure devops team at
+
+27
+00:01:08,439 --> 00:01:13,560
+Microsoft when it was team Foundation
+
+28
+00:01:10,320 --> 00:01:18,159
+server um and visual studio right that
+
+29
+00:01:13,560 --> 00:01:22,320
+era around the 2010 era um they were on
+
+30
+00:01:18,159 --> 00:01:24,640
+a two-year two-year cycle right so they
+
+31
+00:01:22,320 --> 00:01:26,799
+were um delivering a new version of the
+
+32
+00:01:24,640 --> 00:01:29,560
+product every two years halfway they
+
+33
+00:01:26,799 --> 00:01:31,960
+would do a service pack and then halfway
+
+34
+00:01:29,560 --> 00:01:33,799
+into to roughly about the same I guess
+
+35
+00:01:31,960 --> 00:01:36,320
+it was roughly about the same time they
+
+36
+00:01:33,799 --> 00:01:40,159
+would have a a beta of the next version
+
+37
+00:01:36,320 --> 00:01:42,079
+of the of of the product um and what
+
+38
+00:01:40,159 --> 00:01:45,640
+what really
+
+39
+00:01:42,079 --> 00:01:48,399
+happened was that when you're thinking
+
+40
+00:01:45,640 --> 00:01:50,640
+about product management you're thinking
+
+41
+00:01:48,399 --> 00:01:52,479
+about how do we make a product that
+
+42
+00:01:50,640 --> 00:01:54,000
+maximizes the value for our business
+
+43
+00:01:52,479 --> 00:01:54,960
+right that makes the most money that's
+
+44
+00:01:54,000 --> 00:01:57,200
+that's what we're talking about with
+
+45
+00:01:54,960 --> 00:01:59,280
+product management we have a product we
+
+46
+00:01:57,200 --> 00:02:01,159
+need to manage what we put into that
+
+47
+00:01:59,280 --> 00:02:03,840
+product what we take out of that product
+
+48
+00:02:01,159 --> 00:02:06,360
+how we uh ship that product how we
+
+49
+00:02:03,840 --> 00:02:08,239
+Market that product in order to maximize
+
+50
+00:02:06,360 --> 00:02:09,239
+the return of investment right that's
+
+51
+00:02:08,239 --> 00:02:13,920
+that's ultimately what we're talking
+
+52
+00:02:09,239 --> 00:02:16,879
+about and in in that um world of
+
+53
+00:02:13,920 --> 00:02:19,360
+releasing long releases right long time
+
+54
+00:02:16,879 --> 00:02:20,200
+between releases they found that they
+
+55
+00:02:19,360 --> 00:02:24,120
+really
+
+56
+00:02:20,200 --> 00:02:25,959
+struggled to um to maximize that value
+
+57
+00:02:24,120 --> 00:02:28,959
+for a number of reasons it just took too
+
+58
+00:02:25,959 --> 00:02:30,599
+long to advertise the value that they
+
+59
+00:02:28,959 --> 00:02:33,040
+thought their customer wanted
+
+60
+00:02:30,599 --> 00:02:36,400
+so the first one is you have to build
+
+61
+00:02:33,040 --> 00:02:38,640
+the whole thing right you have to
+
+62
+00:02:36,400 --> 00:02:42,080
+customer wants XYZ feature you have to
+
+63
+00:02:38,640 --> 00:02:44,959
+build XYZ feature because when you ship
+
+64
+00:02:42,080 --> 00:02:48,560
+XYZ feature you're not technically
+
+65
+00:02:44,959 --> 00:02:50,800
+you're not shipping again for two years
+
+66
+00:02:48,560 --> 00:02:53,239
+so if there's something wrong with X XYZ
+
+67
+00:02:50,800 --> 00:02:56,400
+feature or XYZ feature doesn't have some
+
+68
+00:02:53,239 --> 00:02:58,400
+capability right
+
+69
+00:02:56,400 --> 00:03:00,720
+um
+
+70
+00:02:58,400 --> 00:03:02,920
+then the customer customers going to be
+
+71
+00:03:00,720 --> 00:03:04,239
+frustrated and may go to another product
+
+72
+00:03:02,920 --> 00:03:08,000
+right may go to your competitor because
+
+73
+00:03:04,239 --> 00:03:10,319
+they do have have that feature
+
+74
+00:03:08,000 --> 00:03:15,239
+so that
+
+75
+00:03:10,319 --> 00:03:16,200
+idea of um shipping once every two years
+
+76
+00:03:15,239 --> 00:03:20,519
+actually
+
+77
+00:03:16,200 --> 00:03:23,360
+means that you can't take
+
+78
+00:03:20,519 --> 00:03:26,519
+feedback and get it in front of your
+
+79
+00:03:23,360 --> 00:03:29,920
+customers for four years
+
+80
+00:03:26,519 --> 00:03:31,920
+generally there may be circumstances
+
+81
+00:03:29,920 --> 00:03:35,000
+where you can change what you're working
+
+82
+00:03:31,920 --> 00:03:36,920
+on but then it becomes a big issue right
+
+83
+00:03:35,000 --> 00:03:39,439
+because you've planned all of this stuff
+
+84
+00:03:36,920 --> 00:03:40,840
+over two years and somebody makes a
+
+85
+00:03:39,439 --> 00:03:42,760
+change to what it is they want to
+
+86
+00:03:40,840 --> 00:03:45,040
+deliver what is the impact across all of
+
+87
+00:03:42,760 --> 00:03:47,920
+the things um that you're that you're
+
+88
+00:03:45,040 --> 00:03:49,920
+working on so that's why we have change
+
+89
+00:03:47,920 --> 00:03:53,000
+change requests right we make a
+
+90
+00:03:49,920 --> 00:03:57,720
+complicated convoluted change request
+
+91
+00:03:53,000 --> 00:03:59,439
+policy system in order to reduce the
+
+92
+00:03:57,720 --> 00:04:01,480
+change coming in because change coming
+
+93
+00:03:59,439 --> 00:04:03,319
+in is high cost because we have to
+
+94
+00:04:01,480 --> 00:04:05,239
+change all of the things that are going
+
+95
+00:04:03,319 --> 00:04:09,519
+on in order to accommodate that that
+
+96
+00:04:05,239 --> 00:04:15,040
+that change so um you've got this this
+
+97
+00:04:09,519 --> 00:04:18,959
+long cycle you've got that I I mentioned
+
+98
+00:04:15,040 --> 00:04:20,519
+that it was twice the iteration it's
+
+99
+00:04:18,959 --> 00:04:22,360
+twice the iteration length to
+
+100
+00:04:20,519 --> 00:04:24,720
+incorporate feedback from your customer
+
+101
+00:04:22,360 --> 00:04:28,800
+quite often um and the reason for that
+
+102
+00:04:24,720 --> 00:04:31,560
+is that you you get your product in
+
+103
+00:04:28,800 --> 00:04:34,000
+front of your customer
+
+104
+00:04:31,560 --> 00:04:36,199
+um at this point and then in two years
+
+105
+00:04:34,000 --> 00:04:38,160
+we're going to do another ship but we've
+
+106
+00:04:36,199 --> 00:04:41,000
+already had to plan what we're going to
+
+107
+00:04:38,160 --> 00:04:42,880
+put into that two years right so when we
+
+108
+00:04:41,000 --> 00:04:44,800
+get feedback on version one of our
+
+109
+00:04:42,880 --> 00:04:47,240
+product that's going to end up in
+
+110
+00:04:44,800 --> 00:04:49,639
+version three of our product if it's
+
+111
+00:04:47,240 --> 00:04:51,320
+small enough or important enough it
+
+112
+00:04:49,639 --> 00:04:53,000
+might end up in version two but we'll
+
+113
+00:04:51,320 --> 00:04:55,720
+have to kick something out that we were
+
+114
+00:04:53,000 --> 00:04:57,680
+going to deliver um so that's that's
+
+115
+00:04:55,720 --> 00:04:59,039
+that's risk right because we're not
+
+116
+00:04:57,680 --> 00:05:00,840
+delivering something that we think the
+
+117
+00:04:59,039 --> 00:05:04,960
+market needs
+
+118
+00:05:00,840 --> 00:05:07,960
+and we end up with that twice the
+
+119
+00:05:04,960 --> 00:05:10,479
+Cadence right twice our Cadence is the
+
+120
+00:05:07,960 --> 00:05:12,360
+amount of time it generally takes to get
+
+121
+00:05:10,479 --> 00:05:15,400
+features new features and feedback that
+
+122
+00:05:12,360 --> 00:05:17,280
+the that the market desires so what's
+
+123
+00:05:15,400 --> 00:05:19,039
+the cost of delay what's the cost to our
+
+124
+00:05:17,280 --> 00:05:21,759
+customer of not delivering a feature
+
+125
+00:05:19,039 --> 00:05:23,479
+that they need in order to service their
+
+126
+00:05:21,759 --> 00:05:26,400
+business and we're not going to deliver
+
+127
+00:05:23,479 --> 00:05:29,000
+it to them for up to four years probably
+
+128
+00:05:26,400 --> 00:05:32,800
+a little bit less but up to four years
+
+129
+00:05:29,000 --> 00:05:35,560
+that is a m massive impact on not only
+
+130
+00:05:32,800 --> 00:05:37,759
+your customer ability to to to innovate
+
+131
+00:05:35,560 --> 00:05:42,680
+and do things differently or or fulfill
+
+132
+00:05:37,759 --> 00:05:44,800
+their their needs um but on your team
+
+133
+00:05:42,680 --> 00:05:47,520
+and the people doing the work's ability
+
+134
+00:05:44,800 --> 00:05:49,120
+to see the value that they create being
+
+135
+00:05:47,520 --> 00:05:50,880
+used by the customers because the delay
+
+136
+00:05:49,120 --> 00:05:53,080
+is just too low they're not working on
+
+137
+00:05:50,880 --> 00:05:56,039
+that feature anymore by the time uh uh
+
+138
+00:05:53,080 --> 00:05:58,520
+the customer gets it so one of the
+
+139
+00:05:56,039 --> 00:06:01,919
+fundamental premises that we talk about
+
+140
+00:05:58,520 --> 00:06:04,880
+in ag product management the agile piece
+
+141
+00:06:01,919 --> 00:06:08,360
+versus the just product management piece
+
+142
+00:06:04,880 --> 00:06:13,280
+is that we're going to have much shorter
+
+143
+00:06:08,360 --> 00:06:15,919
+Cycles much radically shorter Cycles so
+
+144
+00:06:13,280 --> 00:06:18,520
+for example the Azure devops team went
+
+145
+00:06:15,919 --> 00:06:21,120
+almost overnight some false starts but
+
+146
+00:06:18,520 --> 00:06:24,039
+almost overnight uh from a two-year
+
+147
+00:06:21,120 --> 00:06:25,520
+delivery cycle um down to a 3-we
+
+148
+00:06:24,039 --> 00:06:28,039
+delivery cycle so delivering to
+
+149
+00:06:25,520 --> 00:06:31,440
+production every 3 weeks delivering to
+
+150
+00:06:28,039 --> 00:06:34,520
+real users out in the world every 3
+
+151
+00:06:31,440 --> 00:06:37,960
+weeks and that enabled them to get
+
+152
+00:06:34,520 --> 00:06:40,720
+closer to the customer right so even if
+
+153
+00:06:37,960 --> 00:06:43,160
+we still had that same at twice the
+
+154
+00:06:40,720 --> 00:06:45,400
+iteration length you're talking six
+
+155
+00:06:43,160 --> 00:06:48,000
+weeks to get something new in front of
+
+156
+00:06:45,400 --> 00:06:49,960
+your customer that they need or tell you
+
+157
+00:06:48,000 --> 00:06:52,039
+that they need and six weeks is much
+
+158
+00:06:49,960 --> 00:06:54,479
+shorter than two years four years right
+
+159
+00:06:52,039 --> 00:06:57,960
+up to four years so up to six weeks
+
+160
+00:06:54,479 --> 00:07:00,639
+instead of up to four years and that
+
+161
+00:06:57,960 --> 00:07:02,759
+fundamental change
+
+162
+00:07:00,639 --> 00:07:04,639
+means that a lot of the practices that
+
+163
+00:07:02,759 --> 00:07:07,759
+you might use in product management then
+
+164
+00:07:04,639 --> 00:07:10,319
+become a little bit of irrelevant right
+
+165
+00:07:07,759 --> 00:07:13,400
+so I'm think practices I'm thinking of
+
+166
+00:07:10,319 --> 00:07:16,840
+that become become irrelevant um would
+
+167
+00:07:13,400 --> 00:07:19,000
+be change requests right they they they
+
+168
+00:07:16,840 --> 00:07:21,120
+pretty much become irrelevant because
+
+169
+00:07:19,000 --> 00:07:23,720
+change requests were there to protect
+
+170
+00:07:21,120 --> 00:07:27,440
+the plan and protect the investment in
+
+171
+00:07:23,720 --> 00:07:30,840
+the plan but since our plan is now only
+
+172
+00:07:27,440 --> 00:07:33,560
+3 weeks um we don't need to protect it
+
+173
+00:07:30,840 --> 00:07:36,919
+so much because the risk of something
+
+174
+00:07:33,560 --> 00:07:39,120
+derailing that plan is much smaller
+
+175
+00:07:36,919 --> 00:07:41,199
+right because we and we can correct much
+
+176
+00:07:39,120 --> 00:07:42,720
+more often so we don't don't need that
+
+177
+00:07:41,199 --> 00:07:45,599
+change request
+
+178
+00:07:42,720 --> 00:07:47,000
+system um and we would look at portfolio
+
+179
+00:07:45,599 --> 00:07:48,199
+investment like how much time are we
+
+180
+00:07:47,000 --> 00:07:49,840
+investing in different features
+
+181
+00:07:48,199 --> 00:07:51,560
+different parts of the product or do we
+
+182
+00:07:49,840 --> 00:07:54,960
+want to move people and we can move
+
+183
+00:07:51,560 --> 00:07:58,280
+people in a 3-we Cadence um rather than
+
+184
+00:07:54,960 --> 00:08:00,639
+on a two-yearly Cadence but then we're
+
+185
+00:07:58,280 --> 00:08:05,560
+also because we're
+
+186
+00:08:00,639 --> 00:08:08,479
+um delivering more frequently we're able
+
+187
+00:08:05,560 --> 00:08:09,599
+to um then remove other things right
+
+188
+00:08:08,479 --> 00:08:11,039
+that are going to get in the way of
+
+189
+00:08:09,599 --> 00:08:13,560
+delivering more frequently can you can
+
+190
+00:08:11,039 --> 00:08:17,479
+you imagine having to do uat for your
+
+191
+00:08:13,560 --> 00:08:18,960
+entire product every three weeks right U
+
+192
+00:08:17,479 --> 00:08:21,039
+doesn't make sense user acceptance
+
+193
+00:08:18,960 --> 00:08:24,800
+testing doesn't make sense there's a
+
+194
+00:08:21,039 --> 00:08:26,360
+famous quote from Brian Harry uh um I I
+
+195
+00:08:24,800 --> 00:08:28,159
+love that presentation of his that he
+
+196
+00:08:26,360 --> 00:08:31,880
+did and he had a a picture of the the
+
+197
+00:08:28,159 --> 00:08:34,800
+slippers from the the red glittery
+
+198
+00:08:31,880 --> 00:08:37,159
+slippers um from Wizard of Oz and it was
+
+199
+00:08:34,800 --> 00:08:39,760
+like there's no place like production no
+
+200
+00:08:37,159 --> 00:08:43,039
+matter how much testing you do no matter
+
+201
+00:08:39,760 --> 00:08:45,480
+how much uh uh validation you do you're
+
+202
+00:08:43,039 --> 00:08:48,519
+always going to find production issues
+
+203
+00:08:45,480 --> 00:08:51,279
+and that's where uat came in right uat
+
+204
+00:08:48,519 --> 00:08:53,320
+was trying to protect production from
+
+205
+00:08:51,279 --> 00:08:55,279
+issues introduced by the engineering
+
+206
+00:08:53,320 --> 00:08:57,800
+teams
+
+207
+00:08:55,279 --> 00:08:59,160
+but if the engineering teams are
+
+208
+00:08:57,800 --> 00:09:01,079
+delivering new versions of the product
+
+209
+00:08:59,160 --> 00:09:04,600
+every 3 weeks where's the time to do
+
+210
+00:09:01,079 --> 00:09:06,600
+that uat so one of the things we need to
+
+211
+00:09:04,600 --> 00:09:08,920
+fix one of the agile practices we need
+
+212
+00:09:06,600 --> 00:09:11,560
+to bring in is much higher quality
+
+213
+00:09:08,920 --> 00:09:14,000
+product much higher quality code much
+
+214
+00:09:11,560 --> 00:09:18,000
+higher quality Engineering in order to
+
+215
+00:09:14,000 --> 00:09:20,720
+not have those issues in uat your uat
+
+216
+00:09:18,000 --> 00:09:23,959
+should be a cost center anyway it should
+
+217
+00:09:20,720 --> 00:09:25,839
+not be a Value Center if uat finds
+
+218
+00:09:23,959 --> 00:09:30,079
+something that shows a failure of
+
+219
+00:09:25,839 --> 00:09:34,000
+quality in the engineering system um U
+
+220
+00:09:30,079 --> 00:09:37,480
+should never ever find anything um so if
+
+221
+00:09:34,000 --> 00:09:40,560
+you build up quality to the point where
+
+222
+00:09:37,480 --> 00:09:43,399
+uat is a cost center not a Value Center
+
+223
+00:09:40,560 --> 00:09:47,040
+then the people that fund the uat that
+
+224
+00:09:43,399 --> 00:09:48,560
+desire the uat because they find stuff
+
+225
+00:09:47,040 --> 00:09:51,079
+that will start to erode that because
+
+226
+00:09:48,560 --> 00:09:52,959
+you're demonstrating the quality of your
+
+227
+00:09:51,079 --> 00:09:55,959
+product you're demonstrating that that
+
+228
+00:09:52,959 --> 00:09:59,640
+uat is unnecessary because it never
+
+229
+00:09:55,959 --> 00:10:02,240
+finds a problem um so that that you have
+
+230
+00:09:59,640 --> 00:10:04,720
+to apply that thinking to all of the
+
+231
+00:10:02,240 --> 00:10:07,600
+practices that we have in product
+
+232
+00:10:04,720 --> 00:10:09,760
+management do they make sense in agile
+
+233
+00:10:07,600 --> 00:10:13,240
+product management versus the way we
+
+234
+00:10:09,760 --> 00:10:15,640
+always used to do things right so can we
+
+235
+00:10:13,240 --> 00:10:17,480
+do it quickly is it getting in the way
+
+236
+00:10:15,640 --> 00:10:19,920
+of actually getting our product in front
+
+237
+00:10:17,480 --> 00:10:21,560
+of users because that's how we validate
+
+238
+00:10:19,920 --> 00:10:25,680
+that we've built something that's
+
+239
+00:10:21,560 --> 00:10:28,279
+valuable how do we um enable that
+
+240
+00:10:25,680 --> 00:10:31,000
+continuous delivery of high quality
+
+241
+00:10:28,279 --> 00:10:34,000
+usable product into the hands of our
+
+242
+00:10:31,000 --> 00:10:36,519
+users and what of our practices that we
+
+243
+00:10:34,000 --> 00:10:39,120
+use right now in product management make
+
+244
+00:10:36,519 --> 00:10:40,680
+sense in that space and which don't make
+
+245
+00:10:39,120 --> 00:10:42,839
+sense right and they maybe don't make
+
+246
+00:10:40,680 --> 00:10:44,240
+sense because they become irrelevant or
+
+247
+00:10:42,839 --> 00:10:46,600
+they don't make sense because they take
+
+248
+00:10:44,240 --> 00:10:50,200
+too long um and what are we going to
+
+249
+00:10:46,600 --> 00:10:53,560
+replace them with um in order to
+
+250
+00:10:50,200 --> 00:10:57,079
+effectively maximize the ROI of our
+
+251
+00:10:53,560 --> 00:10:57,079
+product in the market
+
