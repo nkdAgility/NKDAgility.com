@@ -10,6 +10,15 @@
   content="© {{ now.Format "2006" }}
 naked Agility Limited. All content is copyrighted. No reproduction or distribution without permission." />
 
+{{ if .Params.canonicalUrl }}
+  <link rel="canonical" href="{{ .Params.canonicalUrl }}" />
+{{ else if .Params.external_url }}
+  <link rel="canonical" href="{{ .Params.external_url }}" />
+{{ else }}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{ end }}
+
+
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ .Site.Params.description }}" />
