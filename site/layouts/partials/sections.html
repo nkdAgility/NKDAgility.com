@@ -13,7 +13,8 @@
     {{ else if eq $section.type "courses" }} 
     {{ partial "sections-courses.html" (dict "site" $site "context" .) }} 
     {{ else if eq $section.type "videos" }}
-    <!-- Videos specific rendering -->{{ partial "sections-videos.html" (dict "site" $site "context" .) }} {{ else }}
+    <!-- Videos specific rendering -->{{ partial "sections-videos.html" (dict "site" $site "context" .) }}
+     {{ else }}
     <!-- Default rendering for other types if needed -->
     <div class="default-section">
       <p>Other section type content.</p>
