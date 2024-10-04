@@ -65,9 +65,7 @@ delivery:
     colour: ""
     vendor: prokanban-org
   lead: |-
-    <!-- wp:heading -->
     Revolutionize Your Team's Performance with Kanban: Join our Immersion Training Course for a deep, practical dive into Kanban principles, designed to seamlessly integrate into your work life and foster continuous improvement and real-world application. Transform the way you deliver value today!
-    <!-- /wp:paragraph -->
   courseIcon: APK@2x.png
 tags:
   - certification
