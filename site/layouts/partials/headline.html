@@ -1,71 +1,69 @@
-<section class="container my-5">
-  <div class="row p-5">
-    <div class="col-md-6">
-      <h1 class="mb-4 nkda-heading-primary">
-        {{ if .Params.headline }}
-          {{ .Params.headline.title | markdownify }}
-        {{ else if .Params.card }}
-          {{ .Params.card.title | markdownify }}
-        {{ else }}
-          {{ .Title | markdownify }}
-        {{ end }}
-      </h1>
-      <h2 class="mb-4 nkda-heading-secondary">
-        {{ if .Params.headline }}
-          {{ .Params.headline.subtitle | markdownify }}
-        {{ else if .Params.card }}
-          {{ .Params.card.subtitle | markdownify }}
-        {{ else }}
-          {{ .Params.subtitle | markdownify }}
-        {{ end }}
-      </h2>
-      {{ if .Params.headline.buttons }}
-        <div class="mb-4">
-          {{ range .Params.headline.buttons }}
-            {{ $isExternal := strings.HasPrefix .link "http" -}}
-            {{ if $isExternal }}
-              <a href="{{ .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
-                {{ .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
-              </a>
-            {{ else }}
-              <a href="{{ .link | safeURL }}" class="btn btn-nkdprimary p-2">{{ .content }}</a>
-            {{ end }}
+<div class="row p-5">
+  <div class="col-md-6">
+    <h1 class="mb-4 nkda-heading-primary">
+      {{ if .Params.headline }}
+        {{ .Params.headline.title | markdownify }}
+      {{ else if .Params.card }}
+        {{ .Params.card.title | markdownify }}
+      {{ else }}
+        {{ .Title | markdownify }}
+      {{ end }}
+    </h1>
+    <h2 class="mb-4 nkda-heading-secondary">
+      {{ if .Params.headline }}
+        {{ .Params.headline.subtitle | markdownify }}
+      {{ else if .Params.card }}
+        {{ .Params.card.subtitle | markdownify }}
+      {{ else }}
+        {{ .Params.subtitle | markdownify }}
+      {{ end }}
+    </h2>
+    {{ if .Params.headline.buttons }}
+      <div class="mb-4">
+        {{ range .Params.headline.buttons }}
+          {{ $isExternal := strings.HasPrefix .link "http" -}}
+          {{ if $isExternal }}
+            <a href="{{ .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
+              {{ .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
+            </a>
+          {{ else }}
+            <a href="{{ .link | safeURL }}" class="btn btn-nkdprimary p-2">{{ .content }}</a>
           {{ end }}
-        </div>
-      {{ end }}
-    </div>
-    <div class="col-md-6">
-      <p class="nkda-heading-primary-content">
-        {{ if .Params.headline }}
-          {{ .Params.headline.content | markdownify }}
-        {{ else if .Params.card }}
-          {{ .Params.card.content | markdownify }}
-        {{ else }}
         {{ end }}
-      </p>
-    </div>
-  </div>
-  <div class="row">
-    {{ with .Params.headline.cards }}
-      {{ range . }}
-        <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
-          <!-- prettier-ignore -->
-          {{ partial "card.html" (dict "class" "herocards" "title" .title "content" .content) }}
-        </div>
-      {{ end }}
-    {{ else }}
-      <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
-        <!-- prettier-ignore -->
-        {{ partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many diferent team settings.") }}
-      </div>
-      <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
-        <!-- prettier-ignore -->
-        {{ partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experiance.") }}
-      </div>
-      <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
-        <!-- prettier-ignore -->
-        {{ partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly.") }}
       </div>
     {{ end }}
   </div>
-</section>
+  <div class="col-md-6">
+    <p class="nkda-heading-primary-content">
+      {{ if .Params.headline }}
+        {{ .Params.headline.content | markdownify }}
+      {{ else if .Params.card }}
+        {{ .Params.card.content | markdownify }}
+      {{ else }}
+      {{ end }}
+    </p>
+  </div>
+</div>
+<div class="row">
+  {{ with .Params.headline.cards }}
+    {{ range . }}
+      <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+        <!-- prettier-ignore -->
+        {{ partial "card.html" (dict "class" "herocards" "title" .title "content" .content) }}
+      </div>
+    {{ end }}
+  {{ else }}
+    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+      <!-- prettier-ignore -->
+      {{ partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many diferent team settings.") }}
+    </div>
+    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+      <!-- prettier-ignore -->
+      {{ partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experiance.") }}
+    </div>
+    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+      <!-- prettier-ignore -->
+      {{ partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly.") }}
+    </div>
+  {{ end }}
+</div>
