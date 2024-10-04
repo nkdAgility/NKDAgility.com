@@ -129,7 +129,7 @@ title: "$title"
 date: $publishedAt
 videoId: $videoId
 url: /resources/videos/$urlSafeTitle
-external_url: $externalUrl
+canonicalUrl: $externalUrl
 coverImage: $thumbnailUrl
 duration: $durationInSeconds
 isShort: $isShort
