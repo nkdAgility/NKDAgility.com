@@ -6,4 +6,15 @@
       {{ partial "resources-card.html" $resource }}
     </div>
   {{ end }}
+  <div class="text-center">
+    <!-- Pagination -->
+    <nav>
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}">Previous</a>
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}">Next</a>
+      {{ end }}
+    </nav>
+  </div>
 </div>
