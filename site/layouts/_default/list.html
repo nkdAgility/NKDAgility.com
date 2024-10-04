@@ -1,1 +1,13 @@
-{{ define "main"}} {{ .Content }} {{ end}}
+{{ define "main" }}
+  <section class="container my-2" style="max-width: 700px !important">_default/list | {{ .Section }} | {{ .CurrentSection }}</section>
+  <section class="container my-2" style="max-width: 700px !important"><!-- headline -->{{ partial "infrastructure/breadcrumbs.html" . }}</section>
+  {{ partial "headline.html" . }}
+  <section class="container my-2">
+    {{ .Content }}
+  </section>
+  {{ partial "connect.html" . }}
+  {{ partial "our-customers.html" . }}
+{{ end }}
+{{ define "template" }}
+  _default/list.html
+{{ end }}
