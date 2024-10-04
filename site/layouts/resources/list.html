@@ -3,34 +3,6 @@
   <section class="container my-2" style="max-width: 700px !important"><!-- headline -->{{ partial "infrastructure/breadcrumbs.html" . }}</section>
   {{ partial "headline.html" . }}
   <section class="container my-2">{{ partial "resources-list.html" . }}</section>
-  <section class="container my-2">
-    <div class="text-center">
-      <!-- Pagination -->
-      <nav>
-        {{ if .Paginator.HasPrev }}
-          <a href="{{ .Paginator.Prev.URL }}">Previous</a>
-        {{ end }}
-        {{ if .Paginator.HasNext }}
-          <a href="{{ .Paginator.Next.URL }}">Next</a>
-        {{ end }}
-      </nav>
-    </div>
-  </section>
-  {{ if and .IsSection .Parent }}
-    <p>This is a subsection (child section of {{ .Parent.Title }}).</p>
-  {{ else if .IsSection }}
-    <p>This is a top-level section.</p>
-  {{ end }}
-  {{ if gt (len .Sections) 0 }}
-    <p>This section has child sections.</p>
-    <ul>
-      {{ range .Sections }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    </ul>
-  {{ else }}
-    <p>This section has no child sections.</p>
-  {{ end }}
 {{ end }}
 {{ define "template" }}
   resources/list.html
