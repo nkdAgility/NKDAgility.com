@@ -1,32 +1,31 @@
 {{ $sectionName := .SectionName }}
 {{ $section := .context.Site.GetPage "section" $sectionName }}
 {{ if not $section.Draft }}
-<li class="nav-item dropdown dropdown-mega position-static"></li>
-  <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $section.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $section.Title }}</a>
-  <div class="dropdown-menu shadow">
-    <div class="mega-content px-4">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-4">
-            <h5>{{ $section.Title }}</h5>
-            <p>{{ $section.Description }}</p>
-            <a href="{{ $section.Permalink }}">Overview</a>
-          </div>
-          <div class="col-md-8">
-            <ul class="list-group">
-              {{ range $section.Pages }}
-                {{ if not .Draft }}
-                  <li class="list-group-item">
-                    <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
-                  </li>
+  <li class="nav-item dropdown dropdown-mega position-static">
+    <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $section.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $section.Title }}</a>
+    <div class="dropdown-menu shadow">
+      <div class="mega-content px-4">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-md-4">
+              <h5>{{ $section.Title }}</h5>
+              <p>{{ $section.Description }}</p>
+              <a href="{{ $section.Permalink }}">Overview</a>
+            </div>
+            <div class="col-md-8">
+              <ul class="list-group">
+                {{ range $section.Pages }}
+                  {{ if not .Draft }}
+                    <li class="list-group-item">
+                      <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
+                    </li>
+                  {{ end }}
                 {{ end }}
-              {{ end }}
-            </ul>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</li>
+  </li>
 {{ end }}
-

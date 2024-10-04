@@ -10,7 +10,7 @@ layout: capabilities
 slug: azure-devops-migration-tools-consulting
 headline:
   title: "Azure DevOps Migration Services"
-  content: "*NKD Agility* is your trusted partner for Azure DevOps migrations. With extensive experience and a proven track record, we ensure your transition to Azure DevOps is smooth, efficient, and tailored to your unique needs."
+  content: "**NKD Agility** is your trusted partner for Azure DevOps migrations. With extensive experience and a proven track record, we ensure your transition to Azure DevOps is smooth, efficient, and tailored to your unique needs."
   cards:
     - title: "Personalized Service"
       content: "Our experts provide training and consulting to help your team make the most of Azure DevOps."
