@@ -19,5 +19,47 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <!-- Lightbox -->
     <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
+    <section class="container my-2">
+      <h3>Debug Data</h3>
+      <table class="table table-striped table-bordered">
+          <thead>
+            <tr>
+              <th>Node</th>
+              <th>Value</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>debug</td>
+              <td><pre>{{ debug . }}</pre></td>
+            </tr>
+            <tr>
+              <td>This Page</td>
+              <td>{{ block "template" . }} not set {{ end }}</td>
+            </tr>
+            <tr>
+              <td>Section</td>
+              <td>{{ .Section }}</td>
+            </tr>
+            <tr>
+              <td>CurrentSection</td>
+              <td>{{ .CurrentSection }}</td>
+            </tr>
+            <tr>
+              <td>Layout</td>
+              <td>{{ .Layout }}</td>
+            </tr>
+            <tr>
+              <td>Kind</td>
+              <td>{{ .Kind }}</td>
+            </tr>
+            <tr>
+              <td>Type</td>
+              <td>{{ .Type }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
   </body>
 </html>
