@@ -49,12 +49,6 @@
     {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
   </section>
   <section class="container my-5">
-    <h2 title="methods - How we do it?">How we do it?</h2>
-    <p>ssdsd.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "methods") . }}
-  </section>
-
-  <section class="container my-5">
     <h2 title="People - Who are we?">Who are we?</h2>
     <p>
       At NKD Agility, we unite a team of the world’s most seasoned and dynamic Agile coaches, consultants, Professional Scrum Trainers, and Kanban experts, who are globally respected for mastering Agile in some of the most challenging Agile environments
@@ -62,11 +56,4 @@
     </p>
     {{ partial "cards-section.html" (dict "context" . "SectionName" "company/people") . }}
   </section>
-  <hr />
-  <h1>List of Sections</h1>
-  <ul>
-    {{ range .Site.Sections }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .RelPermalink }}</li>
-    {{ end }}
-  </ul>
 {{ end }}
