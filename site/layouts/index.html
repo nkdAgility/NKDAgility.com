@@ -1,8 +1,8 @@
-{{ define "main" }}
+{{ define "headline" }}
   <section class="container my-5">
     <div class="row p-5">
       <div class="col-md-6">
-        <h1 class="mb-4 nkda-heading-primary">The home of technical leadership and engneering excelance for software developmen teams.</h1>
+        <h1 class="mb-4 nkda-heading-primary">The home of technical leadership and engneering excelance for software development teams.</h1>
         <h2 class="mb-4 nkda-heading-secondary">We emphasize first principles over process dogma and demonstrate value through measurable outcomes.</h2>
         <p class="mb-4"><strong>We are internationally recognized experts who help companies become more effective at building software.</strong></p>
         <p class="mb-4">We will guide you in moving to a multi-method approach to agility that goes beyond a simple defined process, evolving into something more co-adaptive, providing a better flow of value for your stakeholders.</p>
@@ -30,7 +30,11 @@
       </div>
     </div>
   </section>
-  {{ partial "headline.html" . }}
+  <section class="container my-5">
+    {{ partial "headline.html" . }}
+  </section>
+{{ end }}
+{{ define "main" }}
   {{ partial "connect.html" . }}
   <section class="container my-5">
     <h2 title="Capabilities - What we do?">What we do?</h2>
