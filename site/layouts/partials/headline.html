@@ -1,4 +1,4 @@
-<div class="row p-5">
+<div class="row p-2 p-lg-5">
   <div class="col-md-6">
     <h1 class="mb-4 nkda-heading-primary">
       {{ if .Params.headline }}
@@ -48,24 +48,24 @@
   {{ if and (isset .Params.headline "cards") (not (eq .Params.headline.cards nil)) }}
     {{ if gt (len .Params.headline.cards) 0 }}
       {{ range .Params.headline.cards }}
-        <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+        <div class="col-12 col-sm-6 col-lg-4 d-flex">
           <!-- prettier-ignore -->
-          {{ partial "card.html" (dict "class" "herocards" "title" .title "content" .content) }}
+          {{ partial "card.html" (dict "class" "herocards p-3" "title" .title "content" .content) }}
         </div>
       {{ end }}
     {{ else }}
     {{ end }}
   {{ else }}
     {{/* If headline.cards is null or not set, display the default cards */}}
-    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+    <div class="col-12 col-sm-12 col-lg-4 d-flex">
       <!-- prettier-ignore -->
       {{ partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many different team settings.") }}
     </div>
-    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+    <div class="col-12 col-sm-12 col-lg-4 d-flex d-flex">
       <!-- prettier-ignore -->
       {{ partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experience.") }}
     </div>
-    <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+    <div class="col-12 col-sm-12 col-lg-4 d-flex">
       <!-- prettier-ignore -->
       {{ partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the engagement process, including post-engagement assistance to ensure everything runs smoothly.") }}
     </div>
