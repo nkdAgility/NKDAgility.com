@@ -1,0 +1,420 @@
+1
+00:00:00,040 --> 00:00:04,640
+there are lots of reasons why companies
+
+2
+00:00:02,560 --> 00:00:08,519
+come to us to help them with an Azure
+
+3
+00:00:04,640 --> 00:00:11,080
+devops migration um mostly it's
+
+4
+00:00:08,519 --> 00:00:13,639
+knowledge so we've done a lot of
+
+5
+00:00:11,080 --> 00:00:16,880
+migrations I've done hundreds of
+
+6
+00:00:13,639 --> 00:00:19,039
+migrations I've done um migrations up to
+
+7
+00:00:16,880 --> 00:00:22,080
+Azure devops I've done upgrades to
+
+8
+00:00:19,039 --> 00:00:27,560
+servers over the years beta servers
+
+9
+00:00:22,080 --> 00:00:29,599
+included um I've written code to move
+
+10
+00:00:27,560 --> 00:00:31,920
+data in a custom way from one
+
+11
+00:00:29,599 --> 00:00:34,879
+environment to another environment and
+
+12
+00:00:31,920 --> 00:00:37,719
+I've written an support code that allows
+
+13
+00:00:34,879 --> 00:00:40,680
+you to standardize that process as well
+
+14
+00:00:37,719 --> 00:00:45,280
+so the main reasons that that that
+
+15
+00:00:40,680 --> 00:00:47,399
+companies come to us is uh we've got a
+
+16
+00:00:45,280 --> 00:00:49,680
+department or a product that we've sold
+
+17
+00:00:47,399 --> 00:00:51,960
+to somebody else so we need to get it
+
+18
+00:00:49,680 --> 00:00:58,079
+out of the rest of our stuff and move it
+
+19
+00:00:51,960 --> 00:01:02,280
+over here that's one um we created one
+
+20
+00:00:58,079 --> 00:01:04,879
+big project um I think I coined the term
+
+21
+00:01:02,280 --> 00:01:07,080
+many many years ago one project to rule
+
+22
+00:01:04,879 --> 00:01:09,360
+them all right so they created one
+
+23
+00:01:07,080 --> 00:01:11,640
+massive project um and they actually
+
+24
+00:01:09,360 --> 00:01:14,960
+realized that they need to split it into
+
+25
+00:01:11,640 --> 00:01:17,560
+two so take one thing and split into two
+
+26
+00:01:14,960 --> 00:01:19,200
+or they created 20 projects and they
+
+27
+00:01:17,560 --> 00:01:22,960
+realized that they're all interconnected
+
+28
+00:01:19,200 --> 00:01:25,720
+and they should all be in one one bucket
+
+29
+00:01:22,960 --> 00:01:28,400
+um those are probably the main ones I've
+
+30
+00:01:25,720 --> 00:01:30,960
+sold part of my company I created too
+
+31
+00:01:28,400 --> 00:01:33,720
+many things and I want less things I've
+
+32
+00:01:30,960 --> 00:01:36,360
+created uh not enough things and I want
+
+33
+00:01:33,720 --> 00:01:39,320
+more things so moving that that data
+
+34
+00:01:36,360 --> 00:01:42,320
+around um but
+
+35
+00:01:39,320 --> 00:01:45,040
+also we we don't know what to do right
+
+36
+00:01:42,320 --> 00:01:48,920
+we this is our current state of what
+
+37
+00:01:45,040 --> 00:01:51,040
+we've got we want this how do we get
+
+38
+00:01:48,920 --> 00:01:53,040
+from here to there because it is really
+
+39
+00:01:51,040 --> 00:01:55,920
+complicated to do some of the migrations
+
+40
+00:01:53,040 --> 00:01:59,960
+and upgrades that people want really
+
+41
+00:01:55,920 --> 00:02:02,240
+depending on their context um so we do a
+
+42
+00:01:59,960 --> 00:02:05,039
+lot of migrations where there's many
+
+43
+00:02:02,240 --> 00:02:08,119
+many steps to get all the way to Azure
+
+44
+00:02:05,039 --> 00:02:10,280
+devops because the servers that they
+
+45
+00:02:08,119 --> 00:02:13,160
+environments are on are crusty and old
+
+46
+00:02:10,280 --> 00:02:15,840
+and that's the best reason to do it
+
+47
+00:02:13,160 --> 00:02:18,480
+right if if your servers and your
+
+48
+00:02:15,840 --> 00:02:21,879
+environments are crusty and old then
+
+49
+00:02:18,480 --> 00:02:25,879
+your teams that support them are not
+
+50
+00:02:21,879 --> 00:02:27,680
+able to support them right um so you
+
+51
+00:02:25,879 --> 00:02:29,160
+don't want to be running them yourself
+
+52
+00:02:27,680 --> 00:02:31,160
+you certainly don't want to be running
+
+53
+00:02:29,160 --> 00:02:35,239
+all of your Cod your organizational
+
+54
+00:02:31,160 --> 00:02:38,640
+asset which is your code um in a in a a
+
+55
+00:02:35,239 --> 00:02:41,159
+crusty falling apart barely
+
+56
+00:02:38,640 --> 00:02:42,720
+functions uh doesn't get any support
+
+57
+00:02:41,159 --> 00:02:47,360
+anymore right because the environments
+
+58
+00:02:42,720 --> 00:02:49,400
+are old um version of of anything um so
+
+59
+00:02:47,360 --> 00:02:51,840
+if you can get it get it up to the cloud
+
+60
+00:02:49,400 --> 00:02:54,360
+get it into that um fully supported
+
+61
+00:02:51,840 --> 00:02:56,879
+fully maintained environment where in
+
+62
+00:02:54,360 --> 00:02:59,159
+this case Microsoft do all the updates
+
+63
+00:02:56,879 --> 00:03:00,760
+do all they take it Forward they
+
+64
+00:02:59,159 --> 00:03:03,519
+engineer the proc product they do the
+
+65
+00:03:00,760 --> 00:03:06,840
+support and maintenance and uh load load
+
+66
+00:03:03,519 --> 00:03:09,680
+and everything Disaster Recovery just
+
+67
+00:03:06,840 --> 00:03:12,840
+everything they take care of it um and
+
+68
+00:03:09,680 --> 00:03:15,920
+it cost you what $4 per user per month
+
+69
+00:03:12,840 --> 00:03:17,959
+to get that it's a total no-brainer um
+
+70
+00:03:15,920 --> 00:03:19,959
+so getting up to the cloud doing those
+
+71
+00:03:17,959 --> 00:03:24,239
+things um we've also done a lot of
+
+72
+00:03:19,959 --> 00:03:27,120
+migrations from TFS to git um from G to
+
+73
+00:03:24,239 --> 00:03:30,319
+TF sorry GitHub GitHub TFS to GitHub
+
+74
+00:03:27,120 --> 00:03:33,360
+GitHub to TFS um I even did migration
+
+75
+00:03:30,319 --> 00:03:34,840
+once from Azure devops to TFS I assume
+
+76
+00:03:33,360 --> 00:03:38,080
+somebody in the
+
+77
+00:03:34,840 --> 00:03:40,000
+organization went without permission and
+
+78
+00:03:38,080 --> 00:03:42,200
+took all the stuff up to your devops and
+
+79
+00:03:40,000 --> 00:03:46,319
+there's no way back from Microsoft's
+
+80
+00:03:42,200 --> 00:03:49,640
+perspective um so yeah there's loads of
+
+81
+00:03:46,319 --> 00:03:52,640
+reasons why companies ask me to do
+
+82
+00:03:49,640 --> 00:03:55,840
+migrations some of them are good reasons
+
+83
+00:03:52,640 --> 00:03:58,480
+some of them are not so good reasons and
+
+84
+00:03:55,840 --> 00:04:01,439
+sometimes we we'll we'll push back quite
+
+85
+00:03:58,480 --> 00:04:04,079
+heavily and say look the this is not I I
+
+86
+00:04:01,439 --> 00:04:06,519
+get a lot of calls for backup right you
+
+87
+00:04:04,079 --> 00:04:08,519
+don't need to back up as your devops
+
+88
+00:04:06,519 --> 00:04:10,360
+Microsoft back it up for you they have
+
+89
+00:04:08,519 --> 00:04:12,720
+Disaster Recovery they have copies off
+
+90
+00:04:10,360 --> 00:04:16,560
+the tape they have all of that stuff for
+
+91
+00:04:12,720 --> 00:04:19,840
+you and they're all the isos compliant
+
+92
+00:04:16,560 --> 00:04:22,440
+for uh uh uh uh the level of recovery
+
+93
+00:04:19,840 --> 00:04:24,160
+that that that you're you're paying for
+
+94
+00:04:22,440 --> 00:04:26,600
+so there's no need for you to do that so
+
+95
+00:04:24,160 --> 00:04:28,520
+we push back really heavily on that but
+
+96
+00:04:26,600 --> 00:04:31,039
+we've also done it because the customer
+
+97
+00:04:28,520 --> 00:04:33,560
+really insists that they want want a a a
+
+98
+00:04:31,039 --> 00:04:37,080
+backup and sometimes you're you're
+
+99
+00:04:33,560 --> 00:04:39,600
+you're going to do that um so there's
+
+100
+00:04:37,080 --> 00:04:42,199
+lots of good reasons lots of bad reasons
+
+101
+00:04:39,600 --> 00:04:45,080
+to move data around and is your devops
+
+102
+00:04:42,199 --> 00:04:47,919
+um but it's irrelevant people want stuff
+
+103
+00:04:45,080 --> 00:04:50,560
+done the way they want it done um and
+
+104
+00:04:47,919 --> 00:04:54,080
+sometimes you need to do that and uh
+
+105
+00:04:50,560 --> 00:04:54,080
+yeah we help them out doing that
+

@@ -4,6 +4,8 @@ title: naked Agility Limted
 
 publishDir: ../public
 
+summaryLength: 30
+
 # Site-wide parameters
 params:
   description: "A brief description of your site"
@@ -23,6 +25,21 @@ rss:
   filename: "rss.xml"
   name: "RSS Feed"
   description: "Subscribe to our RSS feed"
+
+outputs:
+  home:
+    - HTML
+    - JSON
+
+outputFormats:
+  JSON:
+    mediaType: "application/json"
+    baseName: "pages"
+
+
+permalinks:
+  page:
+    resources: /:sections/:slug/
 
 markup:
   goldmark:

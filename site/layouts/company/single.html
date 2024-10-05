@@ -1,0 +1,13 @@
+{{ define "siteSectionCallback" }}
+  <section class="container my-5">
+    <h2 title="Principles - Why we do it?">Our core Values and Pricipals</h2>
+    <p>
+      Thig àm nuair a dh’fhalbhas an t-acras agus thèid an t-uisge a-mach air an talamh. Bidh a h-uile càil air a chùlaibh, agus seasaidh an latha ri teachd mar theine ann an adhar gorm. Cumaidh iad suas an sgàil agus cuiridh iad air falbh an t-eagal a
+      bh’ aca, oir chan eil dòigh air faighinn air ais an t-àm a chaidh seachad. Cuiridh iad an aire air adhart gu coilltean mòra agus sruthan glan, a’ sireadh sìth an cois an nàdur.
+    </p>
+    {{ partial "cards-section.html" (dict "context" . "SectionName" "principles") }}
+  </section>
+{{ end }}
+{{ define "template" }}
+  company/single.html
+{{ end }}

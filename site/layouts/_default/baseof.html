@@ -5,11 +5,105 @@
   </head>
   <body>
     {{ partial "infrastructure/header.html" . }}
-    <main>{{ block "main" . }}{{ end }}</main>
+
+    {{ block "breadcrumbs" . }}
+      <section class="container my-2">
+        {{ partial "infrastructure/breadcrumbs.html" . }}
+      </section>
+    {{ end }}
+
+    {{ block "headline" . }}
+      <section class="container my-2">
+        {{ partial "headline.html" . }}
+      </section>
+    {{ end }}
+
+    {{ block "main" . }}
+    <section class="container my-2">
+    {{ partial "sections.html" . }}
+    </section>
+    {{ end }}
+
+    {{ partial "connect.html" . }}
+
+    {{ block "siteSectionCallback" . }}
+    <section class="container my-2 siteSectionCallback">
+
+    </section>
+    {{ end }}
+
+    {{ partial "our-customers.html" . }}
+
     {{ partial "infrastructure/footer.html" . }}
-    <!-- Bootsrap -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <!-- Lightbox -->
-    <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
+    
+    {{ if eq hugo.Environment "development" }}
+<section class="container my-2">
+<p>This is content visible only in development.</p>
+  <table class="table table-striped table-bordered">
+      <thead>
+        <tr>
+          <th>Node</th>
+          <th>Value</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>debug</td>
+          <td><pre>{{ debug.Dump .Params }}</pre></td>
+        </tr>
+        <tr>
+          <td>This Page</td>
+          <td>{{ block "template" . }} not set {{ end }}</td>
+        </tr>
+        <tr>
+          <td>Section</td>
+          <td>{{ .Section }}</td>
+        </tr>
+        <tr>
+          <td>CurrentSection</td>
+          <td>{{ .CurrentSection }}</td>
+        </tr>
+        <tr>
+          <td>Template</td>
+          <td>{{ block "template" . }}{{ end }}</td>
+        </tr>
+        <tr>
+          <td>Layout</td>
+          <td>{{ .Layout }}</td>
+        </tr>
+        <tr>
+          <td>Kind</td>
+          <td>{{ .Kind }}</td>
+        </tr>
+        <tr>
+          <td>Type</td>
+          <td>{{ .Type }}</td>
+        </tr>
+        <tr>
+          <td>Section Info</td>
+          <td>{{ if and .IsSection .Parent }}
+            <p>This is a subsection (child section of {{ .Parent.Title }}).</p>
+          {{ else if .IsSection }}
+            <p>This is a top-level section.</p>
+          {{ end }}</td>
+        </tr>
+        <tr>
+          <td>Child Sections</td>
+          <td>{{ if gt (len .Sections) 0 }}
+            <p>This section has child sections.</p>
+            <ul>
+              {{ range .Sections }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+              {{ end }}
+            </ul>
+          {{ else }}
+            <p>This section has no child sections.</p>
+          {{ end }}</td>
+        </tr>
+      </tbody>
+    </table>      
+  </div>
+</section>
+{{ end }}
   </body>
 </html>

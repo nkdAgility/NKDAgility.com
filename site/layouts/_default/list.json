@@ -1,0 +1,23 @@
+{{- $.Scratch.Add "pages" slice -}}
+{{- range .Site.RegularPages -}}
+  {{- if eq .Section "resources" }}
+    {{- $.Scratch.Add "pages" (dict
+      "title" .Title
+      "url" .Permalink
+      "date" .Date
+      "summary" .Summary
+      "contentCatagory" .Section
+      "contentType" .CurrentSection.Params.resourceType 
+    ) -}}
+  {{- else }}
+    {{- $.Scratch.Add "pages" (dict
+      "title" .Title
+      "url" .Permalink
+      "date" .Date
+      "summary" .Summary
+      "contentCatagory" .Type
+      "contentType" "page"
+    ) -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "pages" | jsonify -}}

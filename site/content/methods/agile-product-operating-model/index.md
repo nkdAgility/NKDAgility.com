@@ -2,6 +2,7 @@
 title: "Agile Product Operating Model"
 url: "/methods/agile-product-operating-model/"
 alias: "/APOM"
+Draft: true
 weight: 1
 card:
   title: Agile Product Operating Model

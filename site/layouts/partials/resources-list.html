@@ -1,0 +1,20 @@
+<div class="row">
+  {{ $sortedResources := .Pages.ByDate.Reverse }}
+  {{ $paginator := .Paginate $sortedResources }}
+  {{ range $index, $resource := $paginator.Pages }}
+    <div class="col-lg-6 col-sm-12 col-md-12 p-2">
+      {{ partial "resources-card.html" $resource }}
+    </div>
+  {{ end }}
+  <div class="text-center">
+    <!-- Pagination -->
+    <nav>
+      {{ if .Paginator.HasPrev }}
+        <a href="{{ .Paginator.Prev.URL }}">Previous</a>
+      {{ end }}
+      {{ if .Paginator.HasNext }}
+        <a href="{{ .Paginator.Next.URL }}">Next</a>
+      {{ end }}
+    </nav>
+  </div>
+</div>

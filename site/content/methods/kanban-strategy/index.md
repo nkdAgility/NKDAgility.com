@@ -5,6 +5,7 @@ title: Kanban Strategy
 aliases:
   - /methods/kanban-strategy/
 date: 2024-09-17
+Draft: true
 type: methods
 card:
   title: Kanban Strategy
