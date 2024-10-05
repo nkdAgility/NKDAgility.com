@@ -44,3 +44,59 @@ color: white;
 .card-left-border {
   border-left: 8px solid var(--secondary-color)
 }
+
+  .card-text p {
+    margin: 0;
+  }
+
+  .card-text {
+    max-height: 100px; /* Limit the text's initial height */
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  .card.expanded .card-text {
+    max-height: none; /* Remove the max-height when expanded */
+  }
+
+  .show-more {
+    cursor: pointer;
+    color: #007bff; /* Bootstrap primary color */
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 10px;
+  }
+
+  /* Hide all paragraphs except the first */
+  .card-text p:not(:first-child) {
+    display: none;
+  }
+
+  /* When expanded, show all paragraphs */
+  .card.expanded .card-text p {
+    display: block;
+  }
+
+  /* Limit the initial height */
+  .card-text-container {
+    overflow: hidden;
+  }
+  
+  /* Expand when the card is clicked */
+  .card.expanded .card-text-container {
+    max-height: none; /* Remove height restriction when expanded */
+  }
+
+    /* Hide all paragraphs except the first */
+    .card:not(.expanded) .card-text-container p:not(:first-child) {
+      display: none;
+    }
+  
+  
+  .show-more {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 10px;
+  }
