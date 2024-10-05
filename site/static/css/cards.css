@@ -45,32 +45,6 @@ color: white;
   border-left: 8px solid var(--secondary-color)
 }
 
-  .card-text p {
-    margin: 0;
-  }
-
-  .card-text {
-    max-height: 100px; /* Limit the text's initial height */
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-  }
-
-  .card.expanded .card-text {
-    max-height: none; /* Remove the max-height when expanded */
-  }
-
-  .show-more {
-    cursor: pointer;
-    color: #007bff; /* Bootstrap primary color */
-    text-decoration: underline;
-    display: inline-block;
-    margin-top: 10px;
-  }
-
-  /* Hide all paragraphs except the first */
-  .card-text p:not(:first-child) {
-    display: none;
-  }
 
   /* When expanded, show all paragraphs */
   .card.expanded .card-text p {
@@ -78,17 +52,17 @@ color: white;
   }
 
   /* Limit the initial height */
-  .card-text-container {
+  .card-text-expander {
     overflow: hidden;
   }
   
   /* Expand when the card is clicked */
-  .card.expanded .card-text-container {
+  .card.expanded .card-text-expander {
     max-height: none; /* Remove height restriction when expanded */
   }
 
     /* Hide all paragraphs except the first */
-    .card:not(.expanded) .card-text-container p:not(:first-child) {
+    .card:not(.expanded) .card-text-expander p:not(:first-child) {
       display: none;
     }
   
