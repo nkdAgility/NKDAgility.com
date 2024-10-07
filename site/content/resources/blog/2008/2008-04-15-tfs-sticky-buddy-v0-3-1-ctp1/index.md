@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-v0-3-1-ctp1"
+
+aliases:
+  - /blog/tfs-sticky-buddy-v0-3-1-ctp1
 ---
 
 [![image](images/TFSStickyBuddyv0.3.1CTP1_FB78-image_thumb_2-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyv0.3.1CTP1_FB78-image_6.png) There is a Community Technology Preview release of the [Team Foundation Server Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) digital dashboard project that is built using Windows Presentation Foundation (WPF). I have used the source code from the Family.Show project to create functionality and a look that is appealing.
@@ -45,3 +48,4 @@ I have yet to skin the whole application so you will see some bitts that look ex
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

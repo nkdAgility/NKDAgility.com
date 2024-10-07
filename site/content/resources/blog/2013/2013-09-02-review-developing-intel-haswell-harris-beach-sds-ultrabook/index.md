@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "review-developing-intel-haswell-harris-beach-sds-ultrabook"
+
+aliases:
+  - /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
 ---
 
 It has just over a month since I received my Intel Haswell Harris Beach SDS Ultrabook from Intel to review and I have to say that I love this little laptop. I have been trying to use it exclusively and have done pretty well.
@@ -166,3 +169,4 @@ I have basically replaced my Acer Iconia W520 with this laptop and while I would
 If you are a developer working on Window 8 or Windows 8.1 apps then I wholeheartedly recommend this laptop for building them on. If you just need an [Ultrabook](http://www.intel.com/content/www/us/en/ultrabook/shop-ultrabook.html) then make really sure that you get a Haswell processor to get the battery life and I would recommend the hybrids that are also tablets.
 
 Disclosure of Material Connection: I received one or more of the products or services mentioned above for free in the hope that I would mention it on my blog. Regardless, I only recommend products or services I use personally and believe my readers will enjoy. I am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: "[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html)."
+

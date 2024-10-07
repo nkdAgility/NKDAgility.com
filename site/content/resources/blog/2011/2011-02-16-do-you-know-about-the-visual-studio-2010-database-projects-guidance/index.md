@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "do-you-know-about-the-visual-studio-2010-database-projects-guidance"
+
+aliases:
+  - /blog/do-you-know-about-the-visual-studio-2010-database-projects-guidance
 ---
 
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_thumb-1-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_D160-vs2010almRanger_2.png)Early on in the Team System (now Visual Studio ALM) cycle a new product surfaced within Team System that was affectionately called “Data Dude”, but had the more formal name of “Visual Studio 2005 Team Edition for Database Professionals”. The purpose of this product was to try and make the database a “first class citizen” in the development world.
@@ -53,3 +56,4 @@ If you need assistance and no one else can help, then you may need to call the V
 The Visual Studio ALM Rangers have the mission to provide out of band solutions for missing features or guidance. They are supported by Microsoft Product Group, Microsoft Consulting Services, Microsoft Most Valued Professionals (MVPs) and technical specialists from technology communities around the globe, giving you a real-world view from the field, where the technology has been tested and used.
 
 For more information on the Rangers please visit [http://msdn.microsoft.com/en-us/vstudio/ee358786.aspx](http://msdn.microsoft.com/en-us/vstudio/ee358786.aspx) and for more a list of other Rangers projects please see [http://msdn.microsoft.com/en-us/vstudio/ee358787.aspx](http://msdn.microsoft.com/en-us/vstudio/ee358787.aspx).
+

@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "there-is-no-do-agile-there-is-only-be-agile"
+
+aliases:
+  - /blog/there-is-no-do-agile-there-is-only-be-agile
 ---
 
 I commented on [Scrum is hard to adopt and disruptive to your organisation](http://nkdagility.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/) before and I think that for most companies this is just beyond their comprehension. They are fundamentally misunderstanding agile and trying to do agile rather than be agile.
@@ -49,3 +52,4 @@ There are a great many thing that we can look at but until I can ‘go see’ ho
 If we can get some amount of time onsite to investigate and work on some of these things then that would make me happy. I am really looking forward to seeing how they have been getting on and how many of the issues we identified in the last engagement have changed.
 
 Here is looking forward to future collaboration and experimentation.
+

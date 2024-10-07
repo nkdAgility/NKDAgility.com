@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-eventhandler-now-on-codeplex"
+
+aliases:
+  - /blog/tfs-eventhandler-now-on-codeplex
 ---
 
 I have now added my [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") EventHandler to [CodePlex](http://www.codeplex.com "CodePlex"), but don't get too exited as I am currently mid refractor. I am moving to the more reliable Message Queuing for the system, and probably moving it to a Windows Service instead of the current Website. I did actually start with web services but I found it more complicated to setup and create an install.
@@ -21,3 +24,4 @@ With that in mind, I will be doing some level of documentation for the system.
 Fancy joining in then give me a shout over at the [forum](http://www.codeplex.com/TFSEventHandler/Thread/View.aspx?ThreadId=9761).
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
+

@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-team-test-quick-reference-guide-1-0"
+
+aliases:
+  - /blog/visual-studio-team-test-quick-reference-guide-1-0
 ---
 
 If you are in any way involved in or thinking bout Testing code, Websites or Web Services then you should have a look at the [VSTT Quick Reference Guide 1.0](http://vstt2008qrg.codeplex.com/) which the [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") Rangers team has published on [CodePlex](http://www.codeplex.com "CodePlex").
@@ -47,3 +50,4 @@ As you can see this document is not a theoretical document, but a real world pro
 Well done Rangers…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [TFS](http://technorati.com/tags/TFS)
+

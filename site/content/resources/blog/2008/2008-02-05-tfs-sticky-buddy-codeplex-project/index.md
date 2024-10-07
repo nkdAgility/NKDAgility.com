@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-codeplex-project"
+
+aliases:
+  - /blog/tfs-sticky-buddy-codeplex-project
 ---
 
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...
@@ -36,3 +39,4 @@ The resultant Digital Whiteboard will be displayed in our main offices so we wil
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

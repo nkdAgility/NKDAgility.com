@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "naming-your-servers-in-an-enterprise-environment"
+
+aliases:
+  - /blog/naming-your-servers-in-an-enterprise-environment
 ---
 
 This is an issue of contention in many companies, but I am firmly of the belief that server names should be at least consistent and at most should be able impart a large amount of information at a glance. Information should include:
@@ -55,3 +58,4 @@ Do you see the problem. If you now want to add another web server to your produc
 This method just does not work in an enterprise environment...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

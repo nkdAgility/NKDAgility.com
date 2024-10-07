@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "reuse-msdn-benefits-org-id"
+
+aliases:
+  - /blog/reuse-msdn-benefits-org-id
 ---
 
 If you are trying to reuse your MSDN benefits with your Org ID but you previously activated against your Microsoft ID then you will need to cancel your subscription to reuse it.
@@ -48,3 +51,4 @@ Head back to [https://msdn.microsoft.com/subscriptions](https://msdn.microsoft.c
 { .post-img }
 
 Now on my organisational account I have a nice $150 per month subscription right where I can use it. Single-sign-on and no faffing around with InPrivate or having to log-out all the time.
+

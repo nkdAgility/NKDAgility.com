@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "information-sync"
+
+aliases:
+  - /blog/information-sync
 ---
 
 [![image](images/InformationSync_1CD-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_8.png)
@@ -86,3 +89,4 @@ There are a number of features I would like to see in Plaxo as, although they ar
 - Adding the ability to sync RSS feed lists with Outlook, IE, Google and others....
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
+

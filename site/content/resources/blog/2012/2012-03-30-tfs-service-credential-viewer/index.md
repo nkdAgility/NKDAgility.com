@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-service-credential-viewer"
+
+aliases:
+  - /blog/tfs-service-credential-viewer
 ---
 
 If you want to connect to the Team Foundation Service (TFS Preview) API you are going to need some credentials in order to connect. That's right, where do you expect to store your Live ID for connecting? Do you expect to add it to the windows credentials store? What about having the user manually add it? Both these options suck… so introducing the TFS Service Credential Viewer.
@@ -67,3 +70,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
 5.  Done
 
 If you encounter an exception when clicking "Connect" the most likely cause if that you do not have Team Explorer 2012 installed
+

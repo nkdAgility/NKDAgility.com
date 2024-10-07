@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-delivery-mk-ii"
+
+aliases:
+  - /blog/the-delivery-mk-ii
 ---
 
 We have just had another addition to the family… Kaiden Ryan William Hinshelwood was born at 12:01 on 5th February 2009.
@@ -27,3 +30,4 @@ Kaiden is getting on well with his sister, but she does keep trying to shove his
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

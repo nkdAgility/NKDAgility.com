@@ -2,7 +2,7 @@
 $blogPath = "site\content\resources\blog"
 
 # Limit the number of files to update (set this to the desired number)
-$fileLimit = 10
+$fileLimit = 900
 
 # Get all index.md files under the blogPath recursively
 $indexFiles = Get-ChildItem -Path $blogPath -Recurse -Filter "index.md" | Select-Object -First $fileLimit
@@ -51,14 +51,17 @@ foreach ($indexFile in $indexFiles) {
         )
 
         # Insert the alias right after the front matter
-        $frontMatterEndIndex = $content.IndexOf("---", 0)
-        if ($frontMatterEndIndex -ne -1) {
-            $updatedContent = $content.Insert($frontMatterEndIndex + 3, "`n" + ($aliasesSection -join "`n") + "`n")
+        # Find the position of the slug field
+        $slugIndex = $content.IndexOf("slug:", 0)
+        if ($slugIndex -ne -1) {
+            # Insert the alias right after the slug
+            $updatedContent = $content.Insert($slugIndex + $content.Substring($slugIndex).IndexOf("`n") + 1, "`n" + ($aliasesSection -join "`n") + "`n")
             Set-Content -Path $indexFile.FullName -Value $updatedContent -Force
             Write-Host "Added aliases section for $($indexFile.FullName)"
         }
         else {
-            Write-Host "No front matter found for $($indexFile.FullName), skipping..."
+            Write-Host "No slug found for $($indexFile.FullName), skipping..."
         }
+
     }
 }

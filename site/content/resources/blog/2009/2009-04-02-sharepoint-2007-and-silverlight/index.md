@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "sharepoint-2007-and-silverlight"
+
+aliases:
+  - /blog/sharepoint-2007-and-silverlight
 ---
 
 I have looked at this topic before but I just got my hands on a new Wrox book called “[Professional Microsoft Sharepoint 2007 Development using Microsoft Silverlight 2](http://www.amazon.co.uk/gp/product/0470434007?ie=UTF8&tag=marthinssblog-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=0470434007)”, phew, could that title be any longer!
@@ -22,3 +25,4 @@ At only £16 pounds don't expect a 1000 pager, but at just under 300 pages the c
 The book takes you through all of the essentials, creating Custom Field types, Branding and custom web parts with Silverlight along with data interaction to produce a slick little training site. There are even some bits on deploying solutions and debugging against Sharepoint. Not bad for the price…
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Silverlight](http://technorati.com/tags/Silverlight) [SharePoint](http://technorati.com/tags/SharePoint)
+

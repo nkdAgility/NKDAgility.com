@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "scrum-is-hard-to-adopt-and-disruptive-to-your-organisation"
+
+aliases:
+  - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 ---
 
 Before the "[Professional Scrum Foundations](http://www.scrum.org/professionalscrumfoundations/)" course ever existed I was tasked with delivering a practical Scrum foundation course for our customers. I came up with a 2 day “Scrum Foundation” course that included lots of practical exercises and leveraged the existing [Scrum Open](http://www.scrum.org/scrumopen/) exam. But why would you want it and is that all you need?
@@ -107,3 +110,4 @@ During a Scrum adoption **expect to fail early and often**. No, its more than th
 Remember it is HARD to do Scrum, your teams are not used to this process and your business is only beginning to understand the benefits. This is usually when IT management get cold feet and try to pull out. Remember that it is the Business that pays the bills and that they are usually on-board by now. The team may not have had a successful sprint but they will have been able to show "something" and the Product Owner will have been able to give feedback.
 
 - **How do you think the business will react if you suddenly take that feedback loop away from them?**
+

@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform"
+
+aliases:
+  - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)
@@ -95,3 +98,4 @@ This particular automation is a very short run thing, but there may be others th
 This process will be a welcome first addition to the TFS Automation Platform and it looks like it is going to exercise at least the UI, Configuration and TFS Job Service sections that we plan on building.
 
 I am really looking forward to getting started on this…
+

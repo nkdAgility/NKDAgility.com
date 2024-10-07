@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "developer-joins-tfs-sticky-buddy-project"
+
+aliases:
+  - /blog/developer-joins-tfs-sticky-buddy-project
 ---
 
 I was pleasantly surprised to see a lot of interest in the [Sticky Buddy project](http://blog.hinshelwood.com/archive/2008/02/05/tfs-sticky-buddy-codeplex-project.aspx). I was particularly exited when Siddharth Bhatia contacted me, but disappointed that he could not get the proof of concept versions to work.
@@ -26,3 +29,4 @@ Eric, I hope you are good a deciphering convoluted and complicated code that at 
 
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

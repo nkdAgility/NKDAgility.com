@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm"
+
+aliases:
+  - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 ---
 
 I received the following error box after installing VS2008 SP1 RTM:
@@ -38,3 +41,4 @@ If the reinstall of the SP fixes my problem, I will update there…
 **Update 2008-08-15: I have installed SP1 sucessfully on 3 other computers.... Even ones that already had SP1 Beta1... Must just have been my workstation... double humph!**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

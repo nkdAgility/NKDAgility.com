@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "setting-up-sharepoint-for-the-enterprise"
+
+aliases:
+  - /blog/setting-up-sharepoint-for-the-enterprise
 ---
 
 I currently have the task of setting up SharePoint Portal for my company. But here is the kicker, they have users in almost every country in the world, so how to structure the deployment.
@@ -26,3 +29,4 @@ I knew roughly how to do this, but a post by [Jose Barreto](http://blogs.technet
 I have found many of his [posts](http://blogs.technet.com/josebda/archive/tags/sharepoint/default.aspx) to be invaluable in my SharePoint planning and you should have a look if you are doing the same...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-team-explorer-2008-on-windows-7"
+
+aliases:
+  - /blog/installing-team-explorer-2008-on-windows-7
 ---
 
 I was a little lazy last time and did not install either Team Explorer, or SP1 on my visual studio instance. So, lets get to it…
@@ -51,3 +54,4 @@ Ewww, and check out that nasty logo…
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [TFS](http://technorati.com/tags/TFS)
+

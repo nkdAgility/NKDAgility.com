@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "who-broke-the-build"
+
+aliases:
+  - /blog/who-broke-the-build
 ---
 
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)
@@ -114,3 +117,4 @@ I have had builds fail because one developer had a “d” drive, but the build 
 If you want to know what builds to create and why I wrote a post on “[Do you know the minimum builds to create on any branch?](http://blog.hinshelwood.com/archive/2010/03/18/do-you-know-the-minimum-builds-to-create-on-any.aspx)”
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [TFBS](http://technorati.com/tags/TFBS) [Silverlight](http://technorati.com/tags/Silverlight) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

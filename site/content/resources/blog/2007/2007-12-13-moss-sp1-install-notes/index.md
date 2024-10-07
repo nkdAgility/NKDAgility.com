@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "moss-sp1-install-notes"
+
+aliases:
+  - /blog/moss-sp1-install-notes
 ---
 
 I thought I should create this blog as I am going along because I usually forget some critical item that gubs my server if I try it again ![smile_nerd](images/smile_nerd-2-2.gif)
@@ -32,3 +35,4 @@ I thought I should create this blog as I am going along because I usually forget
 You will need to install Windows SharePoint Services 3.0 Service Pack 1 (SP1) first....
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

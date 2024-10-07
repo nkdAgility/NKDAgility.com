@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "test-track-pro-and-the-case-of-the-missing-data"
+
+aliases:
+  - /blog/test-track-pro-and-the-case-of-the-missing-data
 ---
 
 [![ttp2011_1](images/ttp2011_1_thumb-6-6.gif "ttp2011_1")](http://blog.hinshelwood.com/files/2011/06/ttp2011_1.gif)
@@ -103,3 +106,4 @@ As you can see on lines 6 and 16 we do a query based on the High Water Mark to m
 So, if you are using “last day” in your query then by the time the data is returned in the query then all the dates are before the high water mark. Not good as all of this data gets missed and you will not get any updates after the first run.
 
 The solution is to use the number of “hours” since, rather than days…
+

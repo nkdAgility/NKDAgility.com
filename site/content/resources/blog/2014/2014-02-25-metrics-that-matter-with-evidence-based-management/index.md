@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "metrics-that-matter-with-evidence-based-management"
+
+aliases:
+  - /blog/metrics-that-matter-with-evidence-based-management
 ---
 
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.
@@ -223,3 +226,4 @@ The Agility Index calculator rolls all of the gathered evidence up and aggregate
 This is a game changer for the software industry at large and create a credible set of metrics for the first time that can be used to guide process improvement initiatives regardless of the framework used to deliver that improvement. Agility Path, SAFe, or Kanban can be measured equally.
 
 Do you want to use Evidence-based Management to improve your processes?
+

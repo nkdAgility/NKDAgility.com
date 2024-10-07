@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "do-you-know-when-to-send-a-done-email-in-scrum"
+
+aliases:
+  - /blog/do-you-know-when-to-send-a-done-email-in-scrum
 ---
 
 ![RulestoBetter](images/DoyouknowwhentosendadoneemailinScrum_CE5F-RulestoBetter_-2-2.gif)At SSW we have always sent done emails to the owner/requestor to let them know that it is done. Others who are dependent on that tasks are CC’ed so they know they can proceed. But how does that fit into Scrum?
@@ -58,3 +61,4 @@ This is all designed to help you Scrum Team members (Product Owner, ScrumMaster 
 
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

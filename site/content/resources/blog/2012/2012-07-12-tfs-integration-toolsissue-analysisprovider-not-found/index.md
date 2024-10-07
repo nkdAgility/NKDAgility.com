@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-integration-toolsissue-analysisprovider-not-found"
+
+aliases:
+  - /blog/tfs-integration-toolsissue-analysisprovider-not-found
 ---
 
 When you are trying to load your custom Adapter you receive a message stating that it does not exist.
@@ -54,3 +57,4 @@ This problem is easily solved by changing the application settings from .NET Fra
 Now we are cooking.
 
 **Did this solve your problem?**
+

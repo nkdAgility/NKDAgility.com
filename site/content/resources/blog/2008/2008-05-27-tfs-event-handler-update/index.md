@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-event-handler-update"
+
+aliases:
+  - /blog/tfs-event-handler-update
 ---
 
 The [TFS Event Handler](http://www.codeplex.com/TFSEventHandler "TFS Event Handler") project on [CodePlex](http://www.codeplex.com "CodePlex") has been updated today to take care of a number of bugs that were introduced in the last update. These have all been fixed and we are currently dogfooding with the new release. The Event Handlers have also been updated to take care of some issues that we found when using them in anger...
@@ -25,3 +28,4 @@ The [TFS Event Handler](http://www.codeplex.com/TFSEventHandler "TFS Event Handl
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

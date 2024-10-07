@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "scaling-professional-scrum-visual-studio-team-services"
+
+aliases:
+  - /blog/scaling-professional-scrum-visual-studio-team-services
 ---
 
 Last week I was teaching a Professional Scrum Foundations in Farnborough and I had to make sure that I got a hotel with awesome internet access. As well as teaching the class I Have two additional tasks for the week. The first was to have the honour of talking on ScrumPulse, Scrum.org's webcast, and the second was to talk at the prestigious Dutch ALM Meetup.
@@ -54,3 +57,4 @@ This time no other than Martin Hinshelwood will join us for an interesting eveni
 While there are many tools out there to support Scrum only Visual Studio Team Services really support scaling scrum to the enterprise. If you have many teams working together on a single product then there is no better tool at scale than Visual Studio Team Services.
 
 Get in touch if you want me to speak at a User Group, if [I am going to be in your area](https://nkdagility.com/company/about-martin-hinshelwood/) then let me know!
+

@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "create-log-entries-release-management"
+
+aliases:
+  - /blog/create-log-entries-release-management
 ---
 
 I have been working through my demos for NDC London next week. And I found it almost impossible to create log entries in Release Management where I wanted.
@@ -68,3 +71,4 @@ Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 { .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
+

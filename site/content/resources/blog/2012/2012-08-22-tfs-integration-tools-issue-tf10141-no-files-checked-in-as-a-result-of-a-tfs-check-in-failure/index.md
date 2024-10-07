@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure"
+
+aliases:
+  - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 ---
 
 If you encounter a TFS check-in failure conflict type and you try the first option of “Retry the action”.
@@ -125,3 +128,4 @@ After Jameson pointed this out to me I was muttering like a Pirate that has stub
 <warning>
 
 **Did this solve your conflict?**
+

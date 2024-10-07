@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-visual-studio-2008-team-suite-on-windows-7"
+
+aliases:
+  - /blog/installing-visual-studio-2008-team-suite-on-windows-7
 ---
 
 I am installing VS2008 in a virtual environment, so this may not be exactly what you would get, but the purpose is to identify if VS2008 does indeed work on Windows 7 and what the experience is like.
@@ -60,3 +63,4 @@ I now have Visual Studio 2008 Team Suit installed…
 I will need to service pack it and check functionality, probably by working on the [TFS Sticky Buddy](http://codeplex.com/tfsstickybuddy) project on it and making sure that I an still deploy and run on other platforms! That is for another day though…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+

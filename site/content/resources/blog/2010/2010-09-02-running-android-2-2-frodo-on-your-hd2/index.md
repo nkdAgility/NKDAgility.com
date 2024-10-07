@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "running-android-2-2-frodo-on-your-hd2"
+
+aliases:
+  - /blog/running-android-2-2-frodo-on-your-hd2
 ---
 
 ![image](images/RunningAndroid2.2FroDoonyourHD2_89C9-image_-6-6.png)While my HD2 was away getting fixed I had to slum it using an Android phone from Vodafone. It was a small cheap Vodafone 845 running Android 2.1 and you know what… I loved it.
@@ -84,3 +87,4 @@ I really do like Android, and if Windows Phone 7 does not live up to its expecta
 Running Android on my HD2 is such a superior experience that Windows Phone 7 will need to be almost perfect beat it; I really hope it is…
 
 Technorati Tags: [Android](http://technorati.com/tags/Android),[HD2](http://technorati.com/tags/HD2),[WM6](http://technorati.com/tags/WM6)
+

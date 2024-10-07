@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "coffee-talk-introduction-to-scrum-webcast-event-this-friday"
+
+aliases:
+  - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
 ---
 
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-3-3.png "NWC tagline logo_transparent")
@@ -42,3 +45,4 @@ I am hoping that we can we can have some serious discussion on the agile practic
 - [**Join Northwest Cadence for this Free Webcast Event**](http://introtoscrum.eventbrite.com/)
 
 I don't know how many people have already signed up as I have been onsite for two weeks. My current customer is giving me a little time on Friday to talk to you folks about Scrum.
+

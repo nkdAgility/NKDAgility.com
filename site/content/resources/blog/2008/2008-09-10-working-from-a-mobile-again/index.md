@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "working-from-a-mobile-again"
+
+aliases:
+  - /blog/working-from-a-mobile-again
 ---
 
 As I am traveling today and I am not taking a laptop, I want to be able to do a little personal work from my mobile..
@@ -21,3 +24,4 @@ What I would realy like is to be able to monitor and edit my [CodePlex](http://w
 If only the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") API, excellent though it is, could be used without the need for Team Explorer to be installed.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [ALM](http://technorati.com/tags/ALM) [Answers](http://technorati.com/tags/Answers)
+

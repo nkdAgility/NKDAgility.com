@@ -7,6 +7,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "teamplain-error-tf14002"
+
+aliases:
+  - /blog/teamplain-error-tf14002
 ---
 
 Some prople have encountered this error when viewing the source control tab in TeamPlain:
@@ -30,3 +33,4 @@ This has only hapened to one of my users sos far and not to me at all.
 We will see...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

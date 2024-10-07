@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs"
+
+aliases:
+  - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 ---
 
 ​
@@ -38,3 +41,4 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 ​
+

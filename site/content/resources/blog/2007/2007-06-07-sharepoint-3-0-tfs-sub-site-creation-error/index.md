@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "sharepoint-3-0-tfs-sub-site-creation-error"
+
+aliases:
+  - /blog/sharepoint-3-0-tfs-sub-site-creation-error
 ---
 
 As you will know from my previous [post](http://blog.hinshelwood.com/archive/2007/05/31/Setting-up-TFS-to-create-project-portals-as-child-sites.aspx "Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)") I have been trying to get TFS to create sub sites in SharePoint 3.0.
@@ -94,3 +97,4 @@ I have 3 question that you may be able to help me with:
 - **Or, even, what is the problem?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

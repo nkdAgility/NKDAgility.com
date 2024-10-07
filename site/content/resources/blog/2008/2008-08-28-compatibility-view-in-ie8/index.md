@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "compatibility-view-in-ie8"
+
+aliases:
+  - /blog/compatibility-view-in-ie8
 ---
 
 If you were worried about your pages viewing correctly in IE8 Beta 1 you had to restart your browser to enable "IE7 Compatibility mode". Now it is easy:
@@ -25,3 +28,4 @@ For example Microsoft.com and Google.com do not get the little button.
 But Gmail does :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-suite-on-the-cheap"
+
+aliases:
+  - /blog/team-suite-on-the-cheap
 ---
 
 ![](images/vs_mainlogo-3-3.png)
@@ -25,3 +28,4 @@ Ok, so I lied a little. It is not that cheap, but 30% off an upgrade from a team
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

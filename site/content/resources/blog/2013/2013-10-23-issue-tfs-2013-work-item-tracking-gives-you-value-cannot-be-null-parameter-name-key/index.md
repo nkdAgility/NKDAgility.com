@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key"
+
+aliases:
+  - /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 ---
 
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.
@@ -59,3 +62,4 @@ Obviously there is a server side coding assumption, which is bad, but there is a
 ## Conclusion
 
 If you are using Team Field then you need to make sure that you make the field that you use for it a required field in the work item definition. Don’t make my mistake and end up scratching your and the product teams head trying to figure it out.
+

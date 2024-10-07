@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "unboxing-the-intel-haswell-harris-beach-sds-ultrabook"
+
+aliases:
+  - /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 ---
 
 I was contacted just over a week ago and asked if I would like to review the new developer Ultrabook from Intel, a “Harris Beach SDS Ultrabook SDP - PVT2 ISV”. Geek stuff, wohoo… (composure) … Why sure, I would love to review your new device.
@@ -59,3 +62,4 @@ So that you can figure out where you are there are GPS, Gyromiter, Acceleriomite
 It is not going to replace the beast but it is a nice machine to developed Windows 8.1 apps on. Now all I need is ideas….
 
 Disclosure of Material Connection: I received one or more of the products or services mentioned above for free in the hope that I would mention it on my blog. Regardless, I only recommend products or services I use personally and believe my readers will enjoy. I am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: "[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html)."
+

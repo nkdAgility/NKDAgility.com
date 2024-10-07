@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "advanced-email-content"
+
+aliases:
+  - /blog/advanced-email-content
 ---
 
 Does anyone remember the early video presentations for Vista? Specifically the one about the students collaborating on coursework? The bit I am interested in is the emails with advanced content... Can we do that now?
@@ -24,3 +27,4 @@ I guess my question is:
 Has anyone ever sent an xbap to anyone via email? Not a link, actually running in the email window. And if so, how?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

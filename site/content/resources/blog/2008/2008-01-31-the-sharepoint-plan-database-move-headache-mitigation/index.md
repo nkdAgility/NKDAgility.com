@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-sharepoint-plan-database-move-headache-mitigation"
+
+aliases:
+  - /blog/the-sharepoint-plan-database-move-headache-mitigation
 ---
 
 SharePoint requires SQL Server. That's a given, but what if you want to move the SQL Server databases to another server? [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is easy enough to move between servers, but SharePoint is NOT. The only answer I can find is to do a full backup and restore from SharePoint, which takes time and effort.
@@ -32,3 +35,4 @@ probability possibility...
 Microsoft: if you are listening, please make moving a SharePoint database as easy as TFS!
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007)
+

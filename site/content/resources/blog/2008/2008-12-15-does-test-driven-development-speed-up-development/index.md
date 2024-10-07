@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "does-test-driven-development-speed-up-development"
+
+aliases:
+  - /blog/does-test-driven-development-speed-up-development
 ---
 
 If only I could be as eloquent as Scott. His recent post on “[Does test-driven development speed up development?](http://blog.scottbellware.com/2008/12/does-test-driven-development-speed-up.html)” really gets to the crux of an endemic problem in the Software Development industry, especially in companies for whom Software Development is not their core business.
@@ -36,3 +39,4 @@ If only I could be as eloquent as Scott. His recent post on “[Does test-driven
 This is a must read for any Software Professional… unless you are already using TDD :)
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development)
+

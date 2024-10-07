@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "migrating-source-code-with-history-to-tfs-2012-with-git-tf"
+
+aliases:
+  - /blog/migrating-source-code-with-history-to-tfs-2012-with-git-tf
 ---
 
 Its hard to migrate source code even from one Visual Studio 2012 Team Foundation Server to another, especially when you also want to have your history. We have been forced in the past to use some hokie migration tools that only really partially work.
@@ -62,3 +65,4 @@ git checkin
 The result of this is a move from my Team Foundation Service cloud account to my local test Team Foundation Server virtual machine.
 
 If you are trying to move your source code from anything to Team Foundation Server this may be a good option. Its robust and will bring history across. I have not tested this at load but it should support reasonable sized repositories, large however will need some testing…
+

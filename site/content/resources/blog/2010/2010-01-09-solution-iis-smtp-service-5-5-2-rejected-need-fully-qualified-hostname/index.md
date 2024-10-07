@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname"
+
+aliases:
+  - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 ---
 
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.
@@ -68,3 +71,4 @@ To fix:
 You should now be able to send emails from your site without any problems.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
+

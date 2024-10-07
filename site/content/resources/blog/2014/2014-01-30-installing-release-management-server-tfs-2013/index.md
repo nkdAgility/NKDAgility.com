@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-release-management-server-tfs-2013"
+
+aliases:
+  - /blog/installing-release-management-server-tfs-2013
 ---
 
 Unless you have been living under a rock you might have noticed that Microsoft has added a Release Management tool to its Visual Studio product line. I have been playing with it for a while now and I think I have it figured out. However as this is a new addition to the product it is extremely poorly documented.
@@ -64,3 +67,4 @@ Now all we have to do is apply the changes..
 Figure: All Configuration tasks have completed successfully
 
 And low… we have a Release Management Server for Team Foundation Server 2013… First configuration is a little tricky and I covered that in [Installing Release Management Client for Visual Studio 2013](http://nkdagility.com/installing-release-management-client-visual-studio-2013/)…
+

@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "codeplex-project-rddotnet-white-label"
+
+aliases:
+  - /blog/codeplex-project-rddotnet-white-label
 ---
 
 I have created a codeplex project for one of my solutions. View it here:
@@ -18,3 +21,4 @@ I have created a codeplex project for one of my solutions. View it here:
 [http://www.codeplex.com/Wiki/View.aspx?ProjectName=RDdotNETWhiteLabel](http://www.codeplex.com/Wiki/View.aspx?ProjectName=RDdotNETWhiteLabel)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
+

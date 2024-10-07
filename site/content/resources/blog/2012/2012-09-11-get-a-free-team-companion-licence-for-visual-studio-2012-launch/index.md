@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "get-a-free-team-companion-licence-for-visual-studio-2012-launch"
+
+aliases:
+  - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
 ---
 
 [![team-companion-logo](images/team-companion-logo_thumb-1-1.png "team-companion-logo")](http://blog.hinshelwood.com/files/2012/09/team-companion-logo.png)I recently posted on [Requirement management in the modern application lifecycle](http://blog.hinshelwood.com/requirement-management-in-the-modern-application-lifecycle/) and in that post I mentioned a product called Team Companion from Ekobit. Well, to celebrate its 5th anniversary and the launch of Visual Studio 2012 the awesome folks at Ekobit have decided to give away a whole bunch of licences for that fantastic tool completely free! Starting 8am (PDT) tomorrow you will have 3 days to claim your personal copy…
@@ -41,3 +44,4 @@ Once you have completed the aforementioned task you will be contacted by the nic
 Wither you have a licence or not you can download Team Companion for a 90 day trial (3 months is enough time to get addicted to anything) and they have released [TeamCompanion v4.7](http://ow.ly/dCOhp) today.
 
 Team Companion is a fantastic product that I have been using for years in production. It makes that email communication with the customer slick and integrated to TFS with features like “Reply to Work Item” and “Done”. I love it…
+

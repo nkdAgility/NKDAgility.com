@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "service-manager-factory"
+
+aliases:
+  - /blog/service-manager-factory
 ---
 
 I have upgraded and [release](http://servicemanager.codeplex.com/) some code for the [managed service factory](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx) that I wrote about earlier in the year. I have started the internal documentation process and the installer will install it to the GAC so you can use it in any of your applications... More to follow.
@@ -24,3 +27,4 @@ You can download from:
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [RDdotNet](http://technorati.com/tags/RDdotNet) [ALM](http://technorati.com/tags/ALM)
+

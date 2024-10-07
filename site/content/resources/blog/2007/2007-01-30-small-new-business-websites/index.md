@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "small-new-business-websites"
+
+aliases:
+  - /blog/small-new-business-websites
 ---
 
 There are a number of challenges to overcome when developing a new business. One of the hardest to get right is your web presence. I have been involved with [Scottish Enterprise](http://www.scottish-enterprise.com/) before and recently got a question from my sister-in-law who has a new job over at [Islington Enterprise](http://www.islingtonenterprise.co.uk/), and questions are always asked about Websites, SEO, DNS, Blogs, Accessibility and other things that most Internet users just do not understand. The may appreciate the results, but they do not understand the complexities of producing it. I will answer a few questions here for all to see...
@@ -90,3 +93,4 @@ WARNING: I have worked for companies that look like they can do you a good job b
 Just my 50p, please feel free to comment below...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

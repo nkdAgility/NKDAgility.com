@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-live-skydrive-beta"
+
+aliases:
+  - /blog/windows-live-skydrive-beta
 ---
 
 I was reading Mike Tautly's post on SkyDrive so I thought I should have a look.
@@ -22,3 +25,4 @@ I have a link to my [SkyDrive](http://cid-57599e234f1ebc1c.skydrive.live.com/bro
 What I would like to see on the SkyDrive is more Sharepoint style interaction so I can edit my files directly on the online drive.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "wpf-drag-drop-behaviour"
+
+aliases:
+  - /blog/wpf-drag-drop-behaviour
 ---
 
 A colleague of mine was having a bit of trouble getting drag and drop working in a way that fitted well with the MVVM pattern. This is really quite simple once you have a certain level of understanding of Patterns, but is a complete nightmare if you do not.
@@ -146,3 +149,4 @@ I have highlighted the two main classes, and we have already discussed the Check
 I have put this [up on Codeplex](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504), and both the [source](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79055) and [binaries](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79056) are available.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [Silverlight](http://technorati.com/tags/Silverlight)
+

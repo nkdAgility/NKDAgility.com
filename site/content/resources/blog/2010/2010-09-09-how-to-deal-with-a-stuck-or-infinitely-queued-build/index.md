@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-to-deal-with-a-stuck-or-infinitely-queued-build"
+
+aliases:
+  - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
 ---
 
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)
@@ -99,3 +102,4 @@ Then we need to queue another build.
 Done
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

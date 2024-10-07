@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-event-handler-gets-3-stars-from-accentient"
+
+aliases:
+  - /blog/tfs-event-handler-gets-3-stars-from-accentient
 ---
 
 All be it it is only popularity, but they are stars non the less...
@@ -24,3 +27,4 @@ Its even second from the top ![smile_omg](images/smile_omg-2-2.gif)... makes me 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

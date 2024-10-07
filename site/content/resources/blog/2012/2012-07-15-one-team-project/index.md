@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "one-team-project"
+
+aliases:
+  - /blog/one-team-project
 ---
 
 [![image](images/image16-2-2.png "image")](http://nkdagility.com/wp-content/uploads/2012/07/image16-2-2.png)I have talked often of the idea of a [Project of Projects in Team Foundation Server](http://blog.hinshelwood.com/project-of-projects-with-team-foundation-server-2010/) and with the new feature in Visual Studio 2012 Team Foundation Server I though it would make sense to revisit. I will talk a little of the idea of the [Master or Hierarchical Backlogs](http://blogs.msdn.com/b/greggboer/archive/2012/01/27/tfs-vnext-configuring-your-project-to-have-a-master-backlog-and-sub-teams.aspx) using the new Agile Planning tools and I always find an example help with understanding so I will be using a recent engagement as a base. But first lets dispel a few myths.
@@ -115,3 +118,4 @@ Remember that whatever process template that you pick it is but a starting point
 Not only is larger Team Projects the recommendation of [almost all of the experts in the field](http://blog.hinshelwood.com/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010/), it is also the recommendation and expectation of the product team for mature teams and organisations using Team Foundation Server.
 
 **How are Team Projects used at your organisation?**
+

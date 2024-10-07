@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "install-sharepoint-2013-on-windows-server-2012-without-a-domain"
+
+aliases:
+  - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
 ---
 
 Any setup of Team Foundation Server is not complete until you have at least tried t work with SharePoint. While I have many customers that like to stay away from  SharePoint I also have many that make it an integral part of not just their TFS install, but their corporate network, offerings and culture.
@@ -226,3 +229,4 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
+

@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "rtm-confusion"
+
+aliases:
+  - /blog/rtm-confusion
 ---
 
 I am a little confused by the RTM release of VS2008. I cant find a copy of the Team Explorer RTM or wither it is bundled with Team Suit. This would be a problem if I uninstalled everything only to find that I can't get my source control...
@@ -38,3 +41,4 @@ And where is the .NET 3.5 redistributable... I have applications that are hot to
 Ah well, I will stow my impatience and wait...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+

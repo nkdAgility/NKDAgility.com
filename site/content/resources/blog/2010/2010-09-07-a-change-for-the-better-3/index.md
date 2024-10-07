@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "a-change-for-the-better-3"
+
+aliases:
+  - /blog/a-change-for-the-better-3
 ---
 
 Over the last 11 months, I have worked for a fantastic group of people at SSW and on a fantastic array of projects. However, the time has now come to specialise in one specific area. I have worked with Visual Studio ALM since its launch in 2005 and more recently with Scrum and the Professional Scrum Developer course that launched in April. Therefore, to this end I am leaving my job as a Solution Architect at [SSW](http://ssw.com.au) for an ALM Consultant role at [Northwest Cadence](http://nwcadence.com).   
@@ -128,3 +131,4 @@ I will have a couple of months between leaving SSW and starting at Northwest Cad
 **If you know of anyone who is looking for a TFS/ALM Consultant and no one else can help, if you can find me. Then call… (doot do dodoot doooo, do doot doooo…)**
 
 Technorati Tags: [Northwest Cadence](http://technorati.com/tags/Northwest+Cadence),[ALM](http://technorati.com/tags/ALM),[SSW](http://technorati.com/tags/SSW),[TFS 2010](http://technorati.com/tags/TFS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
+

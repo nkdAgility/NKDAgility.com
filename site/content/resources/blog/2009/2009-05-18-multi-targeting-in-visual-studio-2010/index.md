@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "multi-targeting-in-visual-studio-2010"
+
+aliases:
+  - /blog/multi-targeting-in-visual-studio-2010
 ---
 
 ![VS-TS_rgb_thumb[2][5][5][5]](images/MultiTargetinginVisualStudio2010_EBFB-VSTS_rgb_thumb2555-4-4.png)We thought that we had it good in Visual Studio 2008, being able to target .NET 2.0, 3.0 and 3.5, but in reality they were all running on the .NET 2.0 Runtime, just with a different set of available libraries. Well Visual Studio 2010 take it that little bit further by being able to target .NET 2.0, 3.0, 3.5 and 4.0.
@@ -31,3 +34,4 @@ But I guess we can’t have everything, and some features will be dropped for th
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

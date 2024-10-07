@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "uncommitted-changes-messing-sync-git-visual-studio"
+
+aliases:
+  - /blog/uncommitted-changes-messing-sync-git-visual-studio
 ---
 
 Sometimes when you try to Pull changes from the server to your local repository you get a "cannot pull because there are uncommitted changes". This is uncommitted changes messing up your sync
@@ -33,3 +36,4 @@ In our server based scenario we have no choice but to do a merge from the server
 Git blocks this potential loss of code by forcing you to choose wither you want to lose the changes or persist them. Once they are persisted they can't be lost without deliberately resetting the repository or deleting it. Although your workflow is changing it is for the better as you are less likely to have a frustrating issue.
 
 DVCS is just better than SVCS…
+

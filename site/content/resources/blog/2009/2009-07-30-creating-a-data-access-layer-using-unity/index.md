@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "creating-a-data-access-layer-using-unity"
+
+aliases:
+  - /blog/creating-a-data-access-layer-using-unity
 ---
 
 I am always pulling out the Unity assemblies. Maybe it is just because I am lazy, but I really can’t be bothered rolling my own dependency injection and mapping framework!
@@ -233,3 +236,4 @@ Dim dal As IHypotheticalDataBits = DataAccessFactory.Instance.GetDataAccess(Of I
 Any easier and it would be writing for you :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [Version Control](http://technorati.com/tags/Version+Control) [CodeProject](http://technorati.com/tags/CodeProject)
+

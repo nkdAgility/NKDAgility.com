@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-vista-windows-mobile-device-center"
+
+aliases:
+  - /blog/windows-vista-windows-mobile-device-center
 ---
 
 If you are trying to get windows mobile device center running on Vista 6000 RTM then you will need to install the beta as it is not actively released.
@@ -20,3 +23,4 @@ Update 2006-12-20
 Although [Daniel Moth](http://www.danielmoth.com/Blog) made a comment about doing a windows update while the phone is connected, this did not work. As the "Windows Mobile Device Center" is not out of beta, you need to download it manually.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

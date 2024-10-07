@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "falling-of-the-tfs-rehabilitation-wagon"
+
+aliases:
+  - /blog/falling-of-the-tfs-rehabilitation-wagon
 ---
 
 And here I though I was waving good buy to [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") in the short term, but here I am Installing it for [Aggreko](http://www.aggreko.co.uk). My boss came to me a couple of days ago and asked for a Work Item Tracking system in SharePoint 2007. I did my best, but as the requirements got more complicated and the metrics that they wanted to report on exploded, I said that TFS was the answer...
@@ -32,3 +35,4 @@ And just when the cost of Team Suit was getting me down I got an email from my g
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [TFS 2005](http://technorati.com/tags/TFS+2005)
+

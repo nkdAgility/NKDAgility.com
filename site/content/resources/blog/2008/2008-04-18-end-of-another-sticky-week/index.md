@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "end-of-another-sticky-week"
+
+aliases:
+  - /blog/end-of-another-sticky-week
 ---
 
 As you have probably noticed I have been soldiering on with the [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project, and I though I would share.
@@ -32,3 +35,4 @@ If you want a go of these features you will need to [download the source](http:/
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

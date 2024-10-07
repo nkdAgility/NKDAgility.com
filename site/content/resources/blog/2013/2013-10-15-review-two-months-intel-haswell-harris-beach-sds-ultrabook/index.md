@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "review-two-months-intel-haswell-harris-beach-sds-ultrabook"
+
+aliases:
+  - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
 ---
 
 Now that I have had two months with the Intel Haswell Harris Beach SDS Ultrabook I thought that it would be a good idea to give you an update. You can check out Part #1 & #2 below however in this post I want to concentrate on Windows 8.1 with the SDS.
@@ -43,3 +46,4 @@ I have also used it on a few engagements where I don’t need virtual machines t
 If I was looking for a laptop to really work on I would likely go with the top spec Lenovo Helix with a Haswell processor. This would give me i7, 8GB RAM and the hybrid capability to transform it into a tablet. That would replace my actual tablet  (Acer Ionia W520) and this computer in one. However as money does not yet grow on trees this awesome Haswell developer platform will serve the same purpose admirably.
 
 Disclosure of Material Connection: I received one or more of the products or services mentioned above for free in the hope that I would mention it on my blog. Regardless, I only recommend products or services I use personally and believe my readers will enjoy. I am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: “[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html).”
+

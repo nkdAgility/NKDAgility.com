@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "branch-policies-tfvc"
+
+aliases:
+  - /blog/branch-policies-tfvc
 ---
 
 I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.
@@ -50,3 +53,4 @@ This is a start and you are welcome to send feedback to \[bla\] in the form of i
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 
 You should also feel free to [contribute to this policy on GitHub](https://github.com/nkdAgility/TfvcBranchPolicy) where I will be happy to take pull requests.
+
