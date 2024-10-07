@@ -30,7 +30,7 @@ sections:
   - title: "Courses that Martin Teaches"
     content: ~
     source: related
-    type: courses
+    type: course
     related:
       - /capabilities/training-courses/agile-requirements-workshop
       - /capabilities/training-courses/applying-professional-kanban-apk-training-experience-with-certification

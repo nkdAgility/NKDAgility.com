@@ -13,15 +13,15 @@
               <a href="{{ $section.Permalink }}">Overview</a>
             </div>
             <div class="col-md-8">
-              <ul class="list-group">
+              <div class="row">
                 {{ range $section.Pages }}
                   {{ if not .Draft }}
-                    <li class="list-group-item">
+                    <div class="col-lg-4 col-sm-12 col-md-12 p-2">
                       <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
-                    </li>
+                    </div>
                   {{ end }}
                 {{ end }}
-              </ul>
+              </div>
             </div>
           </div>
         </div>

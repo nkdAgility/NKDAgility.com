@@ -9,18 +9,30 @@
           <div class="col-md-4">
             <h5>{{ $company.Title }}</h5>
             <p>{{ $company.Description }}</p>
-            <a href="{{ $company.Permalink }}">Overview</a>
-          </div>
-          <div class="col-md-8">
             <ul class="list-group">
-              {{ range $people.Pages }}
+              <li class="list-group-item">
+                <a href="{{ $company.Permalink }}">Overview</a>
+              </li>
+              {{ range $company.Pages }}
                 {{ if not .Draft }}
                   <li class="list-group-item">
-                    <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
                   </li>
                 {{ end }}
               {{ end }}
             </ul>
+          </div>
+          <div class="col-md-8">
+            <h6>Our People</h6>
+            <div class="row">
+              {{ range $people.Pages }}
+                {{ if not .Draft }}
+                  <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+                    <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
+                  </div>
+                {{ end }}
+              {{ end }}
+            </div>
           </div>
         </div>
       </div>
