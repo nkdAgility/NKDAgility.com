@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-visual-studio-2005-on-windows-vista"
+
+aliases:
+  - /blog/installing-visual-studio-2005-on-windows-vista
 ---
 
 I have just installed VS2005 on vista. Although I was setup for a whole host of problems, I had relatively few. There were some errors during the instalation. But all seams well...
@@ -16,3 +19,4 @@ I have just installed VS2005 on vista. Although I was setup for a whole host of 
 Role on SP1
 
 Technorati Tags: [VS 2005](http://technorati.com/tags/VS+2005)
+

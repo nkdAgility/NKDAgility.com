@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-foundation-server-2010-event-handling-with-subscribers"
+
+aliases:
+  - /blog/team-foundation-server-2010-event-handling-with-subscribers
 ---
 
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.
@@ -253,3 +256,4 @@ This is a heck of a lot easier than subscribing to events through web services, 
 **Which method will you be using?**
 
 Technorati Tags: [TFS Customisation](http://technorati.com/tags/TFS+Customisation),[TFS 2010](http://technorati.com/tags/TFS+2010),[CodeProject](http://technorati.com/tags/CodeProject)
+

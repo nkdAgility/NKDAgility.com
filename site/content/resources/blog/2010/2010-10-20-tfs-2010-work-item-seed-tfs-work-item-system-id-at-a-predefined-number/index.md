@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number"
+
+aliases:
+  - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 ---
 
 This week my customer had a requirement to have all new work items created to have an ID greater than 40,000. They have another system that stores tickets and they don’t want any conflict.
@@ -298,3 +301,4 @@ You can get your work item ID from 0 to 40000 in around 40 minutes with this app
 { .post-img }
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[API](http://technorati.com/tags/API)
+

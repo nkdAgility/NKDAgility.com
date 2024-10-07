@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments"
+
+aliases:
+  - /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 ---
 
 If you try to add any servers to Standard Environments in Visual Studio 2012 Lab Management you get a message that you need to enable file and printer sharing and you are unable to configure or communicate with those machines.
@@ -85,3 +88,4 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
+

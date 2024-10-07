@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "deep-vein-thrombosis-dvt"
+
+aliases:
+  - /blog/deep-vein-thrombosis-dvt
 ---
 
 As most of my friends know a very good friend of mine, Katie McPherson died 4 years ago of DVT. I would like to share a letter I received from her brother, another very good friend of mine, and I would ask you to sign the petition.
@@ -45,3 +48,4 @@ Investagation into DVT death reveals case of 'bad luck'
 ](http://news.scotsman.com/topics.cfm?tid=633&id=1180472004)Technorati tags: [DVT](http://technorati.com/tags/DVT), [Katie%20McPherson](http://technorati.com/tags/Katie%20McPherson), [Deep vein thrombosis](http://technorati.com/tags/Deep%20vein%20thrombosis)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

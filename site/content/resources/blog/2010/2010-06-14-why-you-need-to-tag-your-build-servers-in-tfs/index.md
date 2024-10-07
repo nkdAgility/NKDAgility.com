@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "why-you-need-to-tag-your-build-servers-in-tfs"
+
+aliases:
+  - /blog/why-you-need-to-tag-your-build-servers-in-tfs
 ---
 
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.
@@ -94,3 +97,4 @@ This flexibility will allow you to build better software by reducing the likelih
 Used in combination there is a lot of power here to coordinate tens of build servers for multiple projects across multiple regions so your developers get the most out of your environment.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Admin](http://technorati.com/tags/TFS+Admin)
+

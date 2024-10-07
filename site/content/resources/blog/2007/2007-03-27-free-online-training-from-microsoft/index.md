@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "free-online-training-from-microsoft"
+
+aliases:
+  - /blog/free-online-training-from-microsoft
 ---
 
 Check out this blog from Steve. You will need to use the code in the comments as the other one is maxed out!
@@ -33,3 +36,4 @@ I picked:
 Just for fun!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2005](http://technorati.com/tags/VS+2005)
+

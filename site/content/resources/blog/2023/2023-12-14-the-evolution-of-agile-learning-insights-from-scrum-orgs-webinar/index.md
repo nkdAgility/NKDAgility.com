@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar"
+
+aliases:
+  - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 ---
 
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love (Scrum.org Product Owner) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.
@@ -147,3 +150,4 @@ _If you are underemployed, we can also create custom payment plans to help you o
 - [Is homework a necessary evil? (](https://www.apa.org/monitor/2016/03/homework)[apa.org](http://apa.org/)[)](https://www.apa.org/monitor/2016/03/homework)
 
 - [Immersive Learning Overview - naked Agility with Martin Hinshelwood (](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)[nkdagility.com](http://nkdagility.com/)[)](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)
+

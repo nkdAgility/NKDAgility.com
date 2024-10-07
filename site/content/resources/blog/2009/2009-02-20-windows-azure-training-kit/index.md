@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-azure-training-kit"
+
+aliases:
+  - /blog/windows-azure-training-kit
 ---
 
 Microsoft has just released a new [Training Kit](http://go.microsoft.com/fwlink/?LinkID=130354)  for [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) that updates the one released at the PDC. Not since [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") and WPF have I been so exited about a new technology, but [Windows Azure](http://www.microsoft.com/azure/windowsazure.mspx) is it.
@@ -35,3 +38,4 @@ The Azure Services Training Kit February update now includes the following conte
 [http://go.microsoft.com/fwlink/?LinkID=130354](http://go.microsoft.com/fwlink/?LinkID=130354 "http://go.microsoft.com/fwlink/?LinkID=130354")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Azure](http://technorati.com/tags/Azure) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
+

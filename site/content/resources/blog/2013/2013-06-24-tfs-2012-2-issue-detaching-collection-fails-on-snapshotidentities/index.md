@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities"
+
+aliases:
+  - /blog/tfs-2012-2-issue-detaching-collection-fails-on-snapshotidentities
 ---
 
 When you try to detach a Team Project Collection in Team Foundation Server the process fails on SnapshotIdentities with an "object reference not set to an instance of an object" error. While this does not inhibit the execution of TFS there is likely a good reason that you wanted to detach and found this issue.
@@ -92,3 +95,4 @@ If you get results from this query then you have this problem and you should imm
 You need to remove all of the orphaned identities from your server in order to fix this. To achieve that you should work with Microsoft by raising a support ticket and cleaning the instance.  If an invalid backup has been restored there are likely other things that need to happen to get into a supported state and changing the database yourself will not get you there.
 
 Raise a ticket and get your server into a supported state…
+

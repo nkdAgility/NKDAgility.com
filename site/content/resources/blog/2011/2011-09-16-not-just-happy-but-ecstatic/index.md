@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "not-just-happy-but-ecstatic"
+
+aliases:
+  - /blog/not-just-happy-but-ecstatic
 ---
 
 ![VS2008Upgraded_4](images/VS2008Upgraded_4-1-1.png "VS2008Upgraded_4")As a consultant I have customers. Unfortunately being a **consultant** rather than a **contractor** has the down side that I hardly ever here from my customers after my engagement ends.
@@ -40,3 +43,4 @@ I can fly to the UK from Seattle for $733 (£464.00) return! That is cheaper tha
 Not saying I am going to, but I am a little more inclined to seek clients in Europe as well.
 
 p.s. The metaphorical **Rolled Up Newspaper** approach works very well for developers.
+

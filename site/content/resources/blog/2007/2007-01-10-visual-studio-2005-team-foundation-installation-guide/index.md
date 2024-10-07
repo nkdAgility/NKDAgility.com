@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-2005-team-foundation-installation-guide"
+
+aliases:
+  - /blog/visual-studio-2005-team-foundation-installation-guide
 ---
 
 The TFS guys have just updated the [Visual Studio 2005 Team Foundation Installation Guide](http://www.microsoft.com/downloads/details.aspx?familyid=E54BF6FF-026B-43A4-ADE4-A690388F310E&displaylang=en "Visual Studio 2005 Team Foundation Installation Guide") to a new version released on 4/1/2007 and it incorporates all of the SP1 updates.
@@ -22,3 +25,4 @@ I am looking forward to the Admin Guide being updated as well!
 How has everyone got on with their TFS implementations?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

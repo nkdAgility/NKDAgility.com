@@ -25,6 +25,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "scrum-for-team-foundation-server-2010"
+
+aliases:
+  - /blog/scrum-for-team-foundation-server-2010
 ---
 
 ![image](images/ScrumforTFS2010_951A-image_-3-2.png)I will be presenting a session on “Scrum for TFS2010” not once, but twice!
@@ -65,3 +68,4 @@ If you want to know more about how to do Scrum with TFS then there is a new cour
 SSW has [Professional Scrum Developer Trainers](http://www.ssw.com.au/ssw/Events/Scrum-Training-Course.aspx) who specialise in training your developers in implementing Scrum with Microsoft's Visual Studio ALM tools.
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2010](http://technorati.com/tags/TFS+2010) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

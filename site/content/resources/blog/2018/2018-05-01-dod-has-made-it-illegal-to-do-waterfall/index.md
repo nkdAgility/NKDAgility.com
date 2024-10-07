@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "dod-has-made-it-illegal-to-do-waterfall"
+
+aliases:
+  - /blog/dod-has-made-it-illegal-to-do-waterfall
 ---
 
 Did you know that the DOD has made it illegal to do waterfall? Well, kind of... For the first time in many years, the Department of Defence (DOD) in the United States had made a major update to its procurement rules. They can no longer be held accountable for holding up our industry, and being culpable for its inability to move towards agility. The last vestiges of the old ways are gone.
@@ -110,3 +113,4 @@ Unfortunately the project had taken so long that the hardware that had been boug
 { .post-img }
 
 In early 2012 the FBI shipped to production on the new refreshed hardware and saw significant improvements for a much lower cost.
+

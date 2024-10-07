@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "ddd-scotland-v2-0-2nd-of-may-2009"
+
+aliases:
+  - /blog/ddd-scotland-v2-0-2nd-of-may-2009
 ---
 
 It seams that the event of the year is back! [Developer Day Scotland](http://developerdayscotland.com/) returns for a second year as [posted](http://idunno.org/archive/2008/11/12/hoots-mon-ddd-scotland-isnae-deed.aspx) by [Barry Dorrans](http://twitter.com/blowdart) in Glaswegien :)
@@ -19,3 +22,4 @@ It seams that the event of the year is back! [Developer Day Scotland](http://dev
 Last year was a fantastic event that I enjoyed immensely :) I will be there… will you?
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

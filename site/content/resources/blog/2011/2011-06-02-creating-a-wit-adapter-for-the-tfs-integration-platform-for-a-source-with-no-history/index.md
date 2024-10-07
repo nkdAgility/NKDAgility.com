@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history"
+
+aliases:
+  - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 ---
 
 [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2011/06/image.png)I have recently been working on a TFS Integration Platform Adapter for integrating with Test Track Pro. The problem with TTP is that it does not contain any history.
@@ -1368,3 +1371,4 @@ During the production run the “Created by \[account\]” will be the service a
 Once I got rid of the duplicate mappings I started getting data through and I can now get back to the route problem of “Edit” now that “Add” is working again.
 
 Woot…
+

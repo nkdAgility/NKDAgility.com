@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-alm-mvp-of-the-year-2011"
+
+aliases:
+  - /blog/visual-studio-alm-mvp-of-the-year-2011
 ---
 
 [![trophy](images/Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_2.jpg)
@@ -45,3 +48,4 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
+

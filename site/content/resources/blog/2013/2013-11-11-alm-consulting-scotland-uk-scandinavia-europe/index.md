@@ -30,6 +30,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "alm-consulting-scotland-uk-scandinavia-europe"
+
+aliases:
+  - /blog/alm-consulting-scotland-uk-scandinavia-europe
 ---
 
 Well, that's me started ALM Consulting in Scotland, UK & Europe as naked ALM Consulting – Martin Hinshelwood. As I write this I am on a train on my way to my first engagement in the north of England is what looks to be and awesome group of folks to talk a little Scrum and Team Foundation Build.
@@ -55,3 +58,4 @@ If you are still asking, “But what can you do Martin?” then by all means rea
 I only tried to hit the highlights as I have had almost 80 customer engagements in the last 3 years with Northwest Cadence and every customer has unique problems and situations that are representative of their size or complexity. Its sometimes just about rolling up your sleeves and getting stuck in.
 
 Wither you are looking for an ALM Consultant or you are a consulting company looking for an ALM Partner or even just an overflow valve (lol) for those busy periods then  I can help you out. If you need to understand what your organisation needs to do to improve their process then give me a call, and remember: Every company deserves working software on a regular cadence.
+

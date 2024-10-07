@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "whats-in-a-burndown"
+
+aliases:
+  - /blog/whats-in-a-burndown
 ---
 
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:
@@ -94,3 +97,4 @@ Also a good indicator of what is going on from a delivery perspective. If you ar
 ## Conclusion
 
 You will need to experiment with your Scrum Teams to see which burndown is right for you, but I would suggest that you want to be able to plot all of them so that your Development Team’s have all of the relevant information for their Daily Scrum to  help them identify any issues as early as possible.
+

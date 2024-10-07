@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "if-you-had-a-choice"
+
+aliases:
+  - /blog/if-you-had-a-choice
 ---
 
 I would be interested to find out what platform you .NET developers prefer to use as your main Visual Studio 2008 box?
@@ -25,3 +28,4 @@ I would be interested to find out what platform you .NET developers prefer to us
 **Let me know!**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [VS 2008](http://technorati.com/tags/VS+2008)
+

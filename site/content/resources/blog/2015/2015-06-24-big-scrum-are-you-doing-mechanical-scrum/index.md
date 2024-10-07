@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "big-scrum-are-you-doing-mechanical-scrum"
+
+aliases:
+  - /blog/big-scrum-are-you-doing-mechanical-scrum
 ---
 
 Last month I created an article for NDC Magazine on Scaling Scrum. The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional Scrum Team, why we need it, and how we can scale it.
@@ -44,3 +47,4 @@ It beggars belief that so many organisations only practice flaccid Scrum and was
 Is your organisation paying lip service to the values and principals? Does it feel more like 'yeeha', or a group of professionals?
 
 Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
+

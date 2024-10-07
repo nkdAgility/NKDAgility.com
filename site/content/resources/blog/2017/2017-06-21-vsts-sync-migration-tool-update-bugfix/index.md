@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "vsts-sync-migration-tool-update-bugfix"
+
+aliases:
+  - /blog/vsts-sync-migration-tool-update-bugfix
 ---
 
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.
@@ -40,3 +43,4 @@ We are working on the documentation, and folks struggle with the concept of the 
 { .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
+

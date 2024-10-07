@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "creating-a-sharepoint-solution"
+
+aliases:
+  - /blog/creating-a-sharepoint-solution
 ---
 
 Over the next few weeks I will be blogging my escapades in developing an application solution for Microsoft Office SharePoint Server. I have entitled the application "_MOSS Time Off Management_" and it will be up on [CodePlex](http://www.codeplex.com "CodePlex") for all to follow @ [http://www.codeplex.com/mosstom](http://www.codeplex.com/mosstom) (coming soon).
@@ -30,3 +33,4 @@ Although this application will not stand alone (although I may have to build a s
 Now I am scared....
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+

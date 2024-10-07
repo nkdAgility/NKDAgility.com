@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method"
+
+aliases:
+  - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 ---
 
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.
@@ -29,3 +32,4 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
+

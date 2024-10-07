@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "all-technical-debt-is-a-risk-to-the-product-and-to-your-business"
+
+aliases:
+  - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 ---
 
 If you were buying a car, or a TV, you as the purchaser would do your best to understand the product that you are buying, the quality tradeoffs, and the capabilities.
@@ -147,3 +150,4 @@ I just don’t believe that if the business (read CFO) of the receiving entity r
 - Have no idea what even needs to be done
 
 **It’s a Roadkill Burger! It may indeed be tasty at the moment, but you will eventually get sick and die.**
+

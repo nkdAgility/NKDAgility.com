@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-integration-platform-issue-access-denied-to-program-files"
+
+aliases:
+  - /blog/tfs-integration-platform-issue-access-denied-to-program-files
 ---
 
 You get a Unauthorised Access Exception when the TFS Integration Platform tries to write a file to the ‘C:Program Files (x86)Microsoft Team Foundation Server Integration Tools2768.txt’ folder.
@@ -41,3 +44,4 @@ Just in case the Integration Platform throws a “Conflict” that needs to be r
 ### Workaround
 
 Right click on the “Microsoft Team Foundation Server Integration Tools” and add permission for the account that you are running the TFS Integration Tools under.
+

@@ -24,6 +24,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "commit-to-visual-studio-alm-on-area51"
+
+aliases:
+  - /blog/commit-to-visual-studio-alm-on-area51
 ---
 
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)
@@ -93,3 +96,4 @@ We now have question overload and need to concentrate on getting those top 5 On 
 
 [Visual Studio ALM StackExchange Proposal](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
 You have 5 on-topic and 5 off-topic votes to cast.
+

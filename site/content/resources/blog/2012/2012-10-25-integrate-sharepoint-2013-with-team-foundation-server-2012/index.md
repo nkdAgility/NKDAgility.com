@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "integrate-sharepoint-2013-with-team-foundation-server-2012"
+
+aliases:
+  - /blog/integrate-sharepoint-2013-with-team-foundation-server-2012
 ---
 
 Now that SharePoint 2013 is out I want to make sure that I can integrate SharePoint 2013 with Team Foundation Server 2012 without any trouble. I and some of my customers have been holding off on deploying SharePoint; waiting for this release.
@@ -242,3 +245,4 @@ And that's us done… we have installed and configured SharePoint 2013. We have 
 Note: If you create a new Team Project the SharePoint 2013 portal will be created for you and pre-actived.
 
 Awesome… go forth and 2013!
+

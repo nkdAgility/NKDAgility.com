@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-future-of-software-development"
+
+aliases:
+  - /blog/the-future-of-software-development
 ---
 
 I have been thinking a lot recently about the future of software development and where I see it going. I have worked for seven companies since leaving university (two design studios, two software studios, one community startup, one Internet bank and one investment bank), and my conclusion is that all of the SSADM (Structured Systems Analysis and Design Methodologies), or Development Lifecycle, that I learned in university does not work in the real world. Yes, if you can charge your customers two million for an intranet that you will deliver over two years you can do what you like, but these days your customers business moves too quickly for this to work. A solution that was started last year, or the year before in my current company, is obsolete and has to be binned and started again. Or if the business has had its fingers in your specification from the get-go and if they have no idea what "signed-off" means you will get only one result; you will never finish and what you do finish will not meet the business need (80% syndrome).
@@ -36,3 +39,4 @@ The product team concentrates on delivering effective business solutions quickly
 The responsibility of the developer evangelist in this instance (although they have other roles) is to help the developers get to grips with the software factories and to take any feedback from the product team back to the to the factory team for them to incorporate into the next version of the factory. In addition to this they should make sure that any developmental production problems are communicated effectively to the factory team. This is probably the most important role, encompassing trainer, developer, diplomat and negotiator into one role for the aim of producing more value to the business, be it internal or external projects. The developer evangelist should be aware of, and be conversant in all of the new technologies to be able to alert the factory team in new factory opportunities and to train the product team in them. They should have good links with the vendor of the products to be able to prepare the entire development and management teams in the advantages that can be gained by the new features.
 
 With this model your business will be able to effectively deliver solutions that will provide your, or your clients, business with an advantage over the competition. Yes, it takes dedication and perseverance to start this approach as it takes time to build your initial software factories. Obviously if you already have  a development team that is currently producing solutions then it will be all but impossible to change, but if you are starting out and have the freedom to construct a development team from scratch...
+

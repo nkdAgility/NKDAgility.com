@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-process-template-migration-script-updated"
+
+aliases:
+  - /blog/tfs-process-template-migration-script-updated
 ---
 
 Did you know that you can quite easily to do a TFS process template migration? Did you notice I used the "quite" in there. Well if you think of the Process Template as the blueprints then the Team Project that you create is the concrete instance of that blueprint.
@@ -170,3 +173,4 @@ The final piece of the puzzle is to update the datetime file we tried to load at
 And there you have it. Contrary to popular belief you can upgrade or migrate from one process template to another in TFS. It may be because you want to use the new features or it may be because you are radically changing you process, it can be done.
 
 Good luck with your changes…
+

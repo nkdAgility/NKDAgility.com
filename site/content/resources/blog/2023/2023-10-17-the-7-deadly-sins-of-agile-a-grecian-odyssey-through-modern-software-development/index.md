@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development"
+
+aliases:
+  - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 ---
 
 In the rich tapestry of ancient Greek philosophy, the concept of the seven deadly sins stands out as a profound exploration of human nature and morality. Deeply rooted in Greek thought, these sins were not seen as fleeting transgressions. Instead, they were formidable obstacles, barriers between individuals and a virtuous, fulfilling life.
@@ -99,3 +102,4 @@ These issues are the kind that lean-agile practitioners are passionate about. If
 It's vital to seek early help if challenges hinder your value delivery. You can request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) or sign up for one of our [upcoming professional Scrum classes.](https://nkdagility.com/training-courses/course-schedule/?scope=Public)
 
 After all, you don't just need agility; you need Naked Agility.
+

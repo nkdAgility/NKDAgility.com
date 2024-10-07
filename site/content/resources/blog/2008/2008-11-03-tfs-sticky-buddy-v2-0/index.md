@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-v2-0"
+
+aliases:
+  - /blog/tfs-sticky-buddy-v2-0
 ---
 
 I will be working on some new features to the Sticky Buddy application. Improvements in the interface, along with a more modular structure and more diagram offering are in the mix. I have been working on some of the enhancements and their implementation in my other lesser known project [TFS Heat ITSM](http://hinshelwood.com/TFSHeatITSM.aspx)…
@@ -30,3 +33,4 @@ Head over to [Codeplex](http://codeplex.com) and vote for your favourite feature
 
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

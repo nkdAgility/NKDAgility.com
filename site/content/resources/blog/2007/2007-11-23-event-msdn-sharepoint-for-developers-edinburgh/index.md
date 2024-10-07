@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "event-msdn-sharepoint-for-developers-edinburgh"
+
+aliases:
+  - /blog/event-msdn-sharepoint-for-developers-edinburgh
 ---
 
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:
@@ -62,3 +65,4 @@ This was the first time I had seen David perform on stage and I was quite impres
 I found the whole thing very informative and I would recommend it to both novices and experts as it helped me fill in some of the blanks and gain incite into future improvements.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

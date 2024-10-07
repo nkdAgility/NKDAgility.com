@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-v1-0"
+
+aliases:
+  - /blog/tfs-sticky-buddy-v1-0
 ---
 
 This is the first [full release](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) of the [TFS Sticky Buddy application](http://www.codeplex.com/TFSStickyBuddy) written in VB.NET 9 and WPF with Visual Studio 2008 Team Suit.
@@ -44,3 +47,4 @@ If you already have CTP1 or CTP2 you should [update](http://www.codeplex.com/TFS
 
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+

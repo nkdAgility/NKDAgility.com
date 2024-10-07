@@ -7,6 +7,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-feature-wish-tfs-checkin-notifier"
+
+aliases:
+  - /blog/tfs-feature-wish-tfs-checkin-notifier
 ---
 
 One of the annoying things about Source-Control is that someone else can have that file you really need checked out! This can be annoying if they are not in the same building or even country.
@@ -24,3 +27,4 @@ Possible [CodePlex](http://www.codeplex.com "CodePlex") project "TFSCheckinNotif
 Could be cool, what do you think?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

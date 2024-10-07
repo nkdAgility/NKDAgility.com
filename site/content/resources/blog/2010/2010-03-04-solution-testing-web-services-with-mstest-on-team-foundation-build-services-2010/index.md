@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010"
+
+aliases:
+  - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 ---
 
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!
@@ -228,3 +231,4 @@ Although this looks convoluted and complicated there are real problems being sol
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [Visual Studio](http://technorati.com/tags/Visual+Studio) [SSW](http://technorati.com/tags/SSW) [Testing](http://technorati.com/tags/Testing) [TFS 2010](http://technorati.com/tags/TFS+2010) [WCF](http://technorati.com/tags/WCF) [Silverlight](http://technorati.com/tags/Silverlight) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
+

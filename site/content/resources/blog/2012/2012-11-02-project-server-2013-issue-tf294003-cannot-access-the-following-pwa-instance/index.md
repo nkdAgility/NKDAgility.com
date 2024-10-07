@@ -22,6 +22,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance"
+
+aliases:
+  - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 ---
 
 When you try to call the binding command to map a Team Project Collection in Team Foundation Server 2012 to a Project Server 2013 Web Instance you can get a “TF294003” error.
@@ -78,3 +81,4 @@ I can almost hear generations of SharePoint administrator rolling over in their 
 **Figure: The mapping of Collection to Project Server 2013 Instance now works**
 
 This was a simple solution to a confusing problem…
+

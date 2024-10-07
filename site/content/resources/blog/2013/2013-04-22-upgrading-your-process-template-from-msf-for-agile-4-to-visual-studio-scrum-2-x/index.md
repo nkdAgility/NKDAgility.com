@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x"
+
+aliases:
+  - /blog/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x
 ---
 
 Upgrading your process template from MSF for Agile 4 to Visual Studio Scrum 2.x can be a daunting and scary task. While you do need to be careful it is relatively simple to achieve safely.
@@ -136,3 +139,4 @@ There are however a few thins that we did not change that might be part of the p
 ## Conclusion
 
 If you are willing to accept the limitations then changing your process template is a fairly strait forward exercise ( unless of course you are using the Scrum for Team System templates: sorry)  and is easily achievable even across many Team Projects.
+

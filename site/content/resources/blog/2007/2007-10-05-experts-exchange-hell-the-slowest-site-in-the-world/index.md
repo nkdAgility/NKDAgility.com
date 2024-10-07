@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "experts-exchange-hell-the-slowest-site-in-the-world"
+
+aliases:
+  - /blog/experts-exchange-hell-the-slowest-site-in-the-world
 ---
 
 I know a couple of people who have been complaining that Experts Exchange was getting rather slow, and I had noticed the same. So I thought I would investigate how big the pages really are.
@@ -48,3 +51,4 @@ Click [![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb_
 { .post-img }
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

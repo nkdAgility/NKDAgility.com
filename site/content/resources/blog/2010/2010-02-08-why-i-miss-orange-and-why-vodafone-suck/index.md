@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "why-i-miss-orange-and-why-vodafone-suck"
+
+aliases:
+  - /blog/why-i-miss-orange-and-why-vodafone-suck
 ---
 
 <rant>
@@ -38,3 +41,4 @@ If you are thinking of going with Vodafone… stop, think and go somewhere else!
 </rant>
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

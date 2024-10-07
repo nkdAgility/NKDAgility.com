@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "upgrading-to-tfs-2010-beta-1-and-sql-collation"
+
+aliases:
+  - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
 ---
 
 I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 beta 1 and doing an upgrade of out TFS 2008 data. This did not go well…
@@ -37,3 +40,4 @@ My client has it listed but with a TF31001 error.…
 Solution? Suck it up and reinstall everything, including SQL and change the collation to the same on both servers. :(
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

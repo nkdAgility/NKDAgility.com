@@ -22,6 +22,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-tfs-2012-on-server-2012-with-sql-2012"
+
+aliases:
+  - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
 ---
 
 I need a TFS environment to use for demos and what better time to do a full upgrade than when we get some nice prizes from Microsoft. Today the Release Candidate for both Windows and for Visual Studio was released to the public. You can download it off the public sites or you can use you MSDN account to get all of the goodies.
@@ -290,3 +293,4 @@ So, no SharePoint on Server 2012. Can’t say I am going to miss it. I have been
 Good luck with your 2012 deployments, I have a bunch of production upgrades this month (none with Server 2012 as well) so I will keep you posted to any issues or problems.
 
 _\-Are you deploying or upgrading to tfs 2012? Northwest Cadence has experts ready to help you with all possible configurations. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
+

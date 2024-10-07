@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "get-your-twitter-feed-as-a-badge-on-your-email"
+
+aliases:
+  - /blog/get-your-twitter-feed-as-a-badge-on-your-email
 ---
 
 Or anywhere you can put some HTML. This is really easy and allows you to have something like:
@@ -21,3 +24,4 @@ As Twitter publish your twit list as an RSS feed you can just add it to FeedBurn
 So easy it hurts...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

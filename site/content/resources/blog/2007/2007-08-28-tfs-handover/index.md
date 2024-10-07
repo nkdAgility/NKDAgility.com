@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-handover"
+
+aliases:
+  - /blog/tfs-handover
 ---
 
 I am just writing some handover documentation for our [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") deployment in the office. Thank goodness that I wrote installation and disaster recovery documents when I originally deployed the system, other wise this would have been a very long process.
@@ -24,3 +27,4 @@ TFS 2005 is a pain to install, but it is just fine to manage and over the last 
 I would always rather a painfully install than painfully management...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS 2005](http://technorati.com/tags/TFS+2005)
+

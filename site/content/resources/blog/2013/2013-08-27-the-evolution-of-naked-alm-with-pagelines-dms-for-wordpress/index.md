@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress"
+
+aliases:
+  - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 ---
 
 The evolution of naked ALM with Pagelines DMS for Wordpress is a story of successful change. All you have to do is learn to compromise and aspire to the easy 80%.
@@ -137,3 +140,4 @@ If you are building a website or blog you will be hard pushed to do better than 
 **What blogging platform do you use?**
 
 **How would you compare it to Pagelines on Wordpress?**
+

@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "full-fidelity-history-and-data-migration-are-mutually-exclusive"
+
+aliases:
+  - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
 ---
 
 If you have ever had to migrate data from any system that contains lots of data and especially history then you will have run into this problem. Effectively you have two choices:
@@ -71,3 +74,4 @@ If you need help deciding then there is some Rangers guidance and my aforementio
 **Figure: TFS Integration Platform - Migration Guidance Poster**
 
 There are a bunch of other workarounds to this that I have discussed on many occasions with customers but they still need to choose … which do you want? Make sure that you look at all of the pros and cons carefully and decide what you want to do. An additional thing to note is that migration is very expensive in time and expertise, so choose carefully.
+

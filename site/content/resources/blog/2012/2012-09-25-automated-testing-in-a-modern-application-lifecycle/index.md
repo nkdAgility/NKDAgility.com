@@ -23,6 +23,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "automated-testing-in-a-modern-application-lifecycle"
+
+aliases:
+  - /blog/automated-testing-in-a-modern-application-lifecycle
 ---
 
 If we are building software in a modern application lifecycle there is no way that we would be able to deliver modern applications without some form of automated testing. Automated testing is the one thing that makes sure that we are able to deliver working software that meets the quality bar while still keeping the cycle time at an acceptable level.
@@ -100,3 +103,4 @@ Just as the modern professional engineer does Unit Testing the modern Test Engin
 ### Conclusion
 
 Automated Testing is something that is no longer the purview of the larger development shops but part of the basic needs of any organisation building modern software. There is also no one tool to fit all of your scenarios and you may find yourself working with many of the products and solutions listed above. However all of these solutions integrate with both the Visual Studio IDE or Team Foundation Server to give you a consistency of design, execution and reporting that can’t be surpassed by any other product. If you have created your own tools for automated testing for your software then they can be easily incorporated by crating a simple Test Adapter.
+

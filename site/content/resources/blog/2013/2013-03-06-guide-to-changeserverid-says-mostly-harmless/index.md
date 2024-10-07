@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "guide-to-changeserverid-says-mostly-harmless"
+
+aliases:
+  - /blog/guide-to-changeserverid-says-mostly-harmless
 ---
 
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.
@@ -81,3 +84,4 @@ Running RegisterDB command will update setting in the "C:Program FilesMicrosoft 
 To save time I went ahead and updated it manually and WOW everything worked again.
 
 **Lesson: Heed all Team Foundation warnings**
+

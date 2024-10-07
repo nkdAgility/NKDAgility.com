@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "do-you-know-about-the-visual-studio-alm-rangers-guidance"
+
+aliases:
+  - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
 ---
 
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)
@@ -34,3 +37,4 @@ I will be creating a series of posts on the different guidance options as many p
 - More coming soon…
 
 These solutions took a very long time to put together and I wanted to make sure that we all understand the value of the free time that member of The Product Team, Visual Studio ALM MVP’s and partners put in to make them happen.
+

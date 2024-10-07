@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "reformat-your-css-on-the-fly"
+
+aliases:
+  - /blog/reformat-your-css-on-the-fly
 ---
 
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).
@@ -132,3 +135,4 @@ Now add the Handler to you web.config
 And you are done :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows) [CodeProject](http://technorati.com/tags/CodeProject)
+

@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "simpsonize-me"
+
+aliases:
+  - /blog/simpsonize-me
 ---
 
 [Scott Miller](http://geekswithblogs.net/appsguild) alerted my to this with his [post](http://geekswithblogs.net/appsguild/archive/2007/07/18/114038.aspx "Simpsonize Me!") about 4 days ago, and I have finally got it working:
@@ -19,3 +22,4 @@ slug: "simpsonize-me"
 Me as a Simpson!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

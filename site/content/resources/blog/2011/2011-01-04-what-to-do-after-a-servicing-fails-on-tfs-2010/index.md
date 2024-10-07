@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "what-to-do-after-a-servicing-fails-on-tfs-2010"
+
+aliases:
+  - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
 ---
 
 [![vs2010alm](images/7e1d3e9df51b_12C53-vs2010alm_thumb-8-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-7e1d3e9df51b_12C53-vs2010alm_2.png)What do you do if you run a couple of hotfixes against your [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 server and you start to see seem odd behaviour?
@@ -112,3 +115,4 @@ So with 40+ hours invested in getting this new database ready the customer threw
 
 - What would you do?
 - Would you take the “cut and shut” to production and hope for the best?
+

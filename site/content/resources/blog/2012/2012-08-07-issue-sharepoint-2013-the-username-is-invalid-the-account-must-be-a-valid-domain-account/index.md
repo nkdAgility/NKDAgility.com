@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account"
+
+aliases:
+  - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 ---
 
 When configuring SharePoint 2013 in “Complete” mode you get a “The username is invalid. The account mist be a valid domain account” when using a local account to configure the farm…
@@ -56,3 +59,4 @@ Use a PowerShell command to create the initial configuration of the farm with a 
 This works just fine with SQL Server 2012.
 
 **Did this help you?**
+

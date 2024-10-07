@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "access-denied-user-needs-label-permission-tfs"
+
+aliases:
+  - /blog/access-denied-user-needs-label-permission-tfs
 ---
 
 There is always something new to learn with TFS and today I learned something old. I had a user today that was constantly getting the message "Access denied user needs label permission in TFS".
@@ -40,3 +43,4 @@ Mind blown…
 { .post-img }
 
 My solution was to just give contributors access only to labels at the root. This stops that pesky error from occurring in the IDE and really does not pose a security risk.
+

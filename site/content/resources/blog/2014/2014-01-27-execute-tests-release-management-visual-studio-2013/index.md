@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "execute-tests-release-management-visual-studio-2013"
+
+aliases:
+  - /blog/execute-tests-release-management-visual-studio-2013
 ---
 
 Last week I was onsite with a customer who was trying to do automated release and test with Lab Management. I showed him a better way by execute Tests with Release Management for Visual Studio 2013.
@@ -74,3 +77,4 @@ Figure: Configuring the Automated Tests component
 One of the final variables that we need to set is that of the Test Environment that you want to execute the tests against. If you pop over to Lab Manager and create a Standard Environment, as noted above, that is actually the same environment that has been configured in Release Management you can fill out the environment name here.
 
 Now you can have automated tests executed as part of your deployment… carry on testing.
+

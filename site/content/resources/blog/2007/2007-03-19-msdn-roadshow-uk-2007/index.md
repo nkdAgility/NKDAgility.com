@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "msdn-roadshow-uk-2007"
+
+aliases:
+  - /blog/msdn-roadshow-uk-2007
 ---
 
 I have been very lazy of late with my blogging. But I am now getting a spurt so I thought I should mention that I attended the Roadshow at the Glasgow Science Center.
@@ -27,3 +30,4 @@ If you get a chance to get to the roadshow, then do so...
 [Resources from the Roadshow](http://blogs.msdn.com/ukdevteam/archive/2007/02/15/uk-msdn-roadshow-2007-resources.aspx)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

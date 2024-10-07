@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine"
+
+aliases:
+  - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 ---
 
 [![WPEngine-Logo-300x125](images/WPEngine-Logo-300x125_thumb-11-11.jpg "WPEngine-Logo-300x125")](http://www.shareasale.com/r.cfm?b=394686&u=687520&m=41388&urllink=&afftrack=)You may have noticed a little down time today. Thanks to the folks who emails to let me now of problems, some I was already on top of… others needed a good poking. The downtime was due to me moving my hosting provider. This blog has had a few homes over the years (my goodness…6 years!) and as it has grown so it has slowed. My site is image heavy and I also make poor choice of plugins in favour of features. It has been a constant annoyance for me that my blog has had abysmal loading times of late.
@@ -91,3 +94,4 @@ And I picked a significantly large post with lots of images to get 6s before and
 
 But its not the number that matter. My blog now feels responsive and I don’t roll my eyes every time I want to view another page. This is what I am happy with…and all of the pain of moving was worth the result..so far ![Smile](images/wlEmoticon-smile-10-10.png)
 { .post-img }
+

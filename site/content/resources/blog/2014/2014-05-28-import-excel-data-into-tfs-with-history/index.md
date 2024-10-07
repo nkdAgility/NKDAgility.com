@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "import-excel-data-into-tfs-with-history"
+
+aliases:
+  - /blog/import-excel-data-into-tfs-with-history
 ---
 
 Have you ever tried to push data into TFS with Excel? I have, and it can often be the opposite of sweetness and light. The idea is to import Excel data into TFS with History.
@@ -113,3 +116,4 @@ And you are done.
 The only thing I do not like about this method over the CSV adapter for the Integration Platform is that all of the new work items have to go through the official flow of the process template. With the CSV adapter I can bypass the work item rules and just write what data I want into there. That way I can progress the states to whatever I want even if they don't exist and fix the data afterwards… better integrity, but more effort.
 
 Using Excel to import data into TFS is quick and easy. Took me about an hour to import the data and another hour to create and tests the data manipulation above.
+

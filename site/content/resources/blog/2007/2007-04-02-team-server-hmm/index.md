@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-server-hmm"
+
+aliases:
+  - /blog/team-server-hmm
 ---
 
 I got an interesting question from our SQL Server DBA team in London today. They asked if you can integrate team server with Microsoft SQL Server Management Studio. I had a look at the software and could not see TFS source control in the list, so I did a little google and found:
@@ -30,3 +33,4 @@ Which allows you to connect the following software to team servfer:
   Ahh, they think of everything!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

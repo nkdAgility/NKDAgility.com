@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "professional-scrum-courses-2016-oslo-norway"
+
+aliases:
+  - /blog/professional-scrum-courses-2016-oslo-norway
 ---
 
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.
@@ -47,3 +50,4 @@ In just 3 days this course uses practical experiance to explore DevOps and Agile
 [](http://programutvikling.no/course/professional-scrum-master/)[](http://programutvikling.no/course/professional-scrum-master/)
 
 NOTE: Although the course can be taught with any programming language, this one will be .NET and C#. Feel free to request any language verient that you would like to see, however we would need at least 8 students to make it worth creating a custom version.
+

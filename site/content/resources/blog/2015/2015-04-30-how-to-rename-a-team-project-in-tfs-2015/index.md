@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-to-rename-a-team-project-in-tfs-2015"
+
+aliases:
+  - /blog/how-to-rename-a-team-project-in-tfs-2015
 ---
 
 By the launch of TFS 2010 we had given up on getting rename in TFS. 5 years of no rename had taken its toll. Now, as a surprise present with TFS 2015 (and on VSO) and I have a bunch of projects to "zz". Did you know that you should always "zz" something before you delete it. If you delete something then its gone. If you prefix it with "zz" then it falls to the bottom of any list and you can ignore it until later… but if someone complains… you can easily recover it.
@@ -55,3 +58,4 @@ Once you click "close" the page will refresh and the new team project name will 
 { .post-img }
 
 You can see the four renames I have done so far and the additional three proposed for the end of the week. We will be picking a lightly used one first so that we can gauge the impact, and then roll on with the rest.
+

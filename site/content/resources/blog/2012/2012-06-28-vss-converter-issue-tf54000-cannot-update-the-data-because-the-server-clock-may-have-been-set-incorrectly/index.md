@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly"
+
+aliases:
+  - /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 ---
 
 ### Issue
@@ -40,3 +43,4 @@ What looks to have happened is that the scheduled time synchronisation just happ
 ### Workaround
 
 Just wait for a minute (or so) and resume (thanks Cheryl) the migration by re-running the command.
+

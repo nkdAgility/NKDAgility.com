@@ -23,6 +23,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done"
+
+aliases:
+  - /blog/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done
 ---
 
 I was actually a little surprised by one of my customers this week. I was there to help them finalise their deployment of TFS 2010 (that they were currently using only for Source Control) and to present the features to them and ended up upgrading them to TFS 2012 as well!
@@ -90,3 +93,4 @@ So I had a full half day to present to their senior management so I talked about
 So if you are presenting TFS to your management there is a lot for them to like. So much so, that if done right you should have no trouble convicting them that TFS will provide them with value. You do however need to remember that if your processes suck then TFS will not magically make them all better unless you also change your processes.
 
 Good luck with your convincing…
+

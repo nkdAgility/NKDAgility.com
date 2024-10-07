@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "professional-scrum-teams-build-software-works"
+
+aliases:
+  - /blog/professional-scrum-teams-build-software-works
 ---
 
 I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!
@@ -71,3 +74,4 @@ If the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) are
 Every organisation needs to focus on delivering quality working software that is of use to its customers. The entire [Scrum Team](/the-2020-scrum-guide/#scrum-team) is accountable and then works together over many iterations, experimenting and continuously improving, to deliver the best possible outcome in the circumstances. So instead of being an amateur team, be a team of Professionals that deliver working software because that is what your organisation and your customers deserve. If you are having a hard time delivering then discuss your options anytime, but especially at your Sprint Retrospective, and figure out what actionable improvement you can make that will help you pay back some of your technical debt and move forward. Once such step could be making sure that your [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/training/audiences/developers/) at least understand this with a [Professional Scrum Developer](https://nkdagility.com/training/courses/professional-scrum-developer-training/) course.
 
 Use empiricism to Inspect and Adapt with Scrum.
+

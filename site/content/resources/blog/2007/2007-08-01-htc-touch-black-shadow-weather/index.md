@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "htc-touch-black-shadow-weather"
+
+aliases:
+  - /blog/htc-touch-black-shadow-weather
 ---
 
 If you want to have you city displayed in the HTC Weather Home screen then you need to do some editing!
@@ -26,3 +29,4 @@ If you have a Black OS / Other HTC: [HTC Homeplug Weather fix - get your LOCAL w
 The registry edit is easier if you have an official Touch, but I was able to simply edit the xml file and save it without any extra complicatedness...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

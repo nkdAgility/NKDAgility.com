@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-new-clustermaps-neoworx"
+
+aliases:
+  - /blog/the-new-clustermaps-neoworx
 ---
 
 I came across this amazing new service which is very similar to [ClusterMaps](http://www.clustermaps.com/), [NeoWORX](http://www.neoworx.net/). It is a bit of a pain in Flash as the system resources required for flash these days seams a little excessive, but I would like to see it running as a WPF XBAP.
@@ -22,3 +25,4 @@ I think that the globe above , while cool, is a wee bit to gimmicky for that pur
 All it needs is for [NeoWORX](http://www.neoworx.net/) to provide some sort of SDK with a local install of the engine for corporate customers to send their application any Geo tagged data :) With, hopefully, the ability to control what appears in the popup's :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF)
+
