@@ -1,5 +1,6 @@
 ---
 title: "What you get?"
+description: Boost Productivity, Collaboration, and Quality – Our Agile and DevOps solutions deliver measurable improvements in team efficiency and faster value delivery, helping CTOs stay competitive.
 url: "/outcomes/"
 layout: "section" # Hugo will use section.html to render the list of pages
 headline:
