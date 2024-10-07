@@ -3,7 +3,7 @@ title: "6 things you didn't know about Agile Product Management but really shoul
 date: 2024-07-10T06:45:01Z
 videoId: OZt-5iszx-I
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
-external_url: https://www.youtube.com/watch?v=OZt-5iszx-I
+canonicalUrl: https://www.youtube.com/watch?v=OZt-5iszx-I
 coverImage: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 isShort: True
@@ -26,6 +26,6 @@ Key Takeaways (Timestamps):
 (00:00:00 - 00:45:19): The Importance of Fast Feedback Loops: Why you need to turn user feedback into concrete actions within a month.
 (00:45:21 - 00:53:18): Maximize Product Value: Discover how acting on user feedback can drive innovation and customer satisfaction.
 
-Don't let valuable user insights go to waste! Click play to unlock the secrets of agile feedback loops and revolutionize your product development process.
+Don't let valuable user insights go to waste!  Click play to unlock the secrets of agile feedback loops and revolutionize your product development process.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OZt-5iszx-I)

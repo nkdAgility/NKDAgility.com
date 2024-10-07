@@ -3,7 +3,7 @@ title: "How Top Teams Use Pull Systems!"
 date: 2024-03-08T07:00:31Z
 videoId: pw_8gbaWZC4
 url: /resources/videos/how-top-teams-use-pull-systems!
-external_url: https://www.youtube.com/watch?v=pw_8gbaWZC4
+canonicalUrl: https://www.youtube.com/watch?v=pw_8gbaWZC4
 coverImage: https://i.ytimg.com/vi/pw_8gbaWZC4/maxresdefault.jpg
 duration: 294
 isShort: False

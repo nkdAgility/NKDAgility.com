@@ -3,7 +3,7 @@ title: "What is a scrum master? Why are they essential?"
 date: 2023-05-22T14:00:41Z
 videoId: wjYFdWaWfOA
 url: /resources/videos/what-is-a-scrum-master-why-are-they-essential-
-external_url: https://www.youtube.com/watch?v=wjYFdWaWfOA
+canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
 coverImage: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: False
@@ -13,11 +13,11 @@ isShort: False
 
 # What is a scrum master? Why are they essential?
 
-_Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership_
+*Unlocking the Secrets of the Scrum Master: A Guide to Agile Leadership*
 
 Unlock the full potential of your team with the insights from a Scrum Master expert. Learn the crucial role they play in guiding teams towards high efficiency and value delivery in Agile environments.
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🎬 dives deep into the essence of the Scrum Master role. Discover how a Scrum Master acts as a pivotal figure in Agile project management, serving not just as a guide, but as a linchpin in facilitating team decisions, ensuring product relevance, and driving organizational change. 🚀 Get ready to explore the multifaceted responsibilities of a Scrum Master and how they contribute to successful product development and team dynamics. 😌✨
 
@@ -27,7 +27,7 @@ In this video, Martin 🎬 dives deep into the essence of the Scrum Master role.
 00:03:56 Team Effectiveness
 00:04:25 Delivering Customer Value
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 If you _struggle to fully grasp the Scrum Master's impact_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

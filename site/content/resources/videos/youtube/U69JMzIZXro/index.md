@@ -3,7 +3,7 @@ title: "Installing TFS 2013 Standard"
 date: 2014-01-15T13:38:13Z
 videoId: U69JMzIZXro
 url: /resources/videos/installing-tfs-2013-standard
-external_url: https://www.youtube.com/watch?v=U69JMzIZXro
+canonicalUrl: https://www.youtube.com/watch?v=U69JMzIZXro
 coverImage: https://i.ytimg.com/vi/U69JMzIZXro/maxresdefault.jpg
 duration: 1219
 isShort: False

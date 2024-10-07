@@ -3,7 +3,7 @@ title: "Agile Product Management vs. Product Development - Understanding the Cru
 date: 2024-07-25T06:45:02Z
 videoId: YGBrayIqm7k
 url: /resources/videos/agile-product-management-vs-product-development-understanding-the-crucial-partnership-for-success
-external_url: https://www.youtube.com/watch?v=YGBrayIqm7k
+canonicalUrl: https://www.youtube.com/watch?v=YGBrayIqm7k
 coverImage: https://i.ytimg.com/vi/YGBrayIqm7k/maxresdefault.jpg
 duration: 539
 isShort: False

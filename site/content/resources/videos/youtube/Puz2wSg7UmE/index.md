@@ -3,7 +3,7 @@ title: " shorts 5 reasons why you need EBM in your environment. Part 4"
 date: 2024-01-25T11:00:18Z
 videoId: Puz2wSg7UmE
 url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
-external_url: https://www.youtube.com/watch?v=Puz2wSg7UmE
+canonicalUrl: https://www.youtube.com/watch?v=Puz2wSg7UmE
 coverImage: https://i.ytimg.com/vi/Puz2wSg7UmE/maxresdefault.jpg
 duration: 54
 isShort: True
@@ -11,7 +11,7 @@ isShort: True
 
 {{< youtube Puz2wSg7UmE >}}
 
-# shorts 5 reasons why you need EBM in your environment. Part 4
+#  shorts 5 reasons why you need EBM in your environment. Part 4
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your #agile environment. Part 4.
 

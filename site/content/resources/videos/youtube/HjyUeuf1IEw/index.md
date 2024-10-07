@@ -3,7 +3,7 @@ title: "20th May 2020 - Office Hours \ Ask Me Anything"
 date: 2020-05-21T05:26:17Z
 videoId: HjyUeuf1IEw
 url: /resources/videos/20th-may-2020-office-hours-ask-me-anything
-external_url: https://www.youtube.com/watch?v=HjyUeuf1IEw
+canonicalUrl: https://www.youtube.com/watch?v=HjyUeuf1IEw
 coverImage: https://i.ytimg.com/vi/HjyUeuf1IEw/maxresdefault.jpg
 duration: 1331
 isShort: False

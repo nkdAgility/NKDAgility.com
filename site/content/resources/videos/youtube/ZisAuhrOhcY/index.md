@@ -3,7 +3,7 @@ title: "My journey with Kanban and why I actively recommend it to consulting cli
 date: 2024-02-23T07:00:12Z
 videoId: ZisAuhrOhcY
 url: /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-external_url: https://www.youtube.com/watch?v=ZisAuhrOhcY
+canonicalUrl: https://www.youtube.com/watch?v=ZisAuhrOhcY
 coverImage: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
 isShort: False

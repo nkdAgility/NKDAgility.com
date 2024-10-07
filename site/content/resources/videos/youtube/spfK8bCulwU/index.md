@@ -3,7 +3,7 @@ title: "Why do you think the Advanced PSPO course is a perfect fit for entrepren
 date: 2023-05-08T07:00:15Z
 videoId: spfK8bCulwU
 url: /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
-external_url: https://www.youtube.com/watch?v=spfK8bCulwU
+canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 coverImage: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: False
@@ -23,15 +23,15 @@ In this short video, Martin Hinshelwood talks about the value of a PSPO-A course
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

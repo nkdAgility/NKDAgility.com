@@ -3,7 +3,7 @@ title: "3 best ways to wreck your Kanban adoption Using vanity metrics."
 date: 2024-02-29T07:00:09Z
 videoId: S4zWfPiLAmc
 url: /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
-external_url: https://www.youtube.com/watch?v=S4zWfPiLAmc
+canonicalUrl: https://www.youtube.com/watch?v=S4zWfPiLAmc
 coverImage: https://i.ytimg.com/vi/S4zWfPiLAmc/maxresdefault.jpg
 duration: 226
 isShort: False

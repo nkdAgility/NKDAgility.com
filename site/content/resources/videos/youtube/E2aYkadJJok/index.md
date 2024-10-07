@@ -3,7 +3,7 @@ title: "Kanban Boards for Campaign Success - The Ultimate Guide to Visualizing Y
 date: 2024-07-08T06:00:07Z
 videoId: E2aYkadJJok
 url: /resources/videos/kanban-boards-for-campaign-success-the-ultimate-guide-to-visualizing-your-workflow
-external_url: https://www.youtube.com/watch?v=E2aYkadJJok
+canonicalUrl: https://www.youtube.com/watch?v=E2aYkadJJok
 coverImage: https://i.ytimg.com/vi/E2aYkadJJok/maxresdefault.jpg
 duration: 57
 isShort: True
