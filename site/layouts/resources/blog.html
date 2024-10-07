@@ -1,6 +1,4 @@
-{{ define "main" }}
-  <section class="container my-2" style="max-width: 700px !important">blog/single |{{ .Section }}|</section>
-  <section class="container my-2" style="max-width: 700px !important"><!-- headline -->{{ partial "infrastructure/breadcrumbs.html" . }}</section>
+{{ define "headline" }}
   <section class="container my-3" style="max-width: 900px !important">
     <div class="row p-5">
       <div class="col-12">
@@ -9,6 +7,8 @@
       </div>
     </div>
   </section>
+{{ end }}
+{{ define "main" }}
   <section class="container my-5" style="max-width: 700px !important">{{ .Content }}</section>
   <section>
     <div class="share-links">

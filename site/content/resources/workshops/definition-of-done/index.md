@@ -6,6 +6,7 @@ aliases:
   - learn/agile-delivery-kit/workshops/Definition-Of-Done
 date: 2024-09-17
 author: MrHinsh
+draft: true
 card:
   button:
     content: Learn More
