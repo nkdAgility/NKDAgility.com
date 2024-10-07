@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "application-owner"
+
+aliases:
+  - /blog/application-owner
 ---
 
 In my company it is the job of someone in business technology to manage production applications. Personally I think that this is a job for a Project Manager, not a developer, as it is about management and is not particularly technical. You do not actually have to carry out any of the work on the application, just:
@@ -38,3 +41,4 @@ I am performing a SOX audit on our general ledger application and all of our Mor
 Fixing these problems, or managing the solutions is slow and painfully. At least my company has just implemented a SOX audit management system that is taking the audit from two months last year to only a few weeks this year.
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

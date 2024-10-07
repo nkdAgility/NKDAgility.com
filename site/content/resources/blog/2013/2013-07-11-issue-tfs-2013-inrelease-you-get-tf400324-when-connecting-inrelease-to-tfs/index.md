@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs"
+
+aliases:
+  - /blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 ---
 
 If you follow the documentation for the new InRelease 3 for Team Foundation Server 2013 “TF400324: Team Foundation Services are not available from server” with a remote server error of 404.
@@ -101,3 +104,4 @@ $regsvc.SetValue("/Configuration/DefaultCollection", $tfs.InstanceId)
 This PowerShell will first ask you to select the collection that you would like to be the default and then apply that to TFS. You should then be able to connect InRelease correctly to TFS.
 
 I still think that this is a silly requirement of the product and at the very least it should ask which collection that you want to be the default and set it for you...
+

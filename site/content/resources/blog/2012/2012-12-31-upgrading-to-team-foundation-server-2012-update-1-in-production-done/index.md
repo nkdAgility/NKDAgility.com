@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "upgrading-to-team-foundation-server-2012-update-1-in-production-done"
+
+aliases:
+  - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
 ---
 
 Although many of my customers have been having a go at installing Visual Studio Team Foundation Server 2012 Update 1 themselves one or two have had issues. While these issues are easily resolved it is sometimes nice to have someone else who has done the same thing a bunch of times take the rains.
@@ -217,3 +220,4 @@ Now you go through the same configuration that you would for creating a new set 
 Upgrading from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 is a fairly strait forward task but as with anything to do with TFS there can be a lot of moving parts. I would describe this as a simple installation and there were few gotchas.
 
 Other installations and upgrade are not quite so simple…
+

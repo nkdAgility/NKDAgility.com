@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "office-2010-first-run"
+
+aliases:
+  - /blog/office-2010-first-run
 ---
 
 I will need to be quick, I have a dentists appointment (arg!), but I could not leave without at least a peek at Office 2010, so Outlook being my weapon of necessity, that the choice:
@@ -44,3 +47,4 @@ Nice… It does a little conversation stuff and from what I can see its a LOT be
 Well, its dentist time, so that's all I have time for… Will try to install on Windows 7 tonight…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
+

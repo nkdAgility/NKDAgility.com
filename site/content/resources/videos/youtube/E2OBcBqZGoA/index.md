@@ -3,7 +3,7 @@ title: "05 October 2023 Agile Leadership Webinar"
 date: 2023-09-28T11:09:12Z
 videoId: E2OBcBqZGoA
 url: /resources/videos/05-october-2023-agile-leadership-webinar
-external_url: https://www.youtube.com/watch?v=E2OBcBqZGoA
+canonicalUrl: https://www.youtube.com/watch?v=E2OBcBqZGoA
 coverImage: https://i.ytimg.com/vi/E2OBcBqZGoA/maxresdefault.jpg
 duration: 46
 isShort: True

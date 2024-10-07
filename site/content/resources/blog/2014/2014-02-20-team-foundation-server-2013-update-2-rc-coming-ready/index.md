@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-foundation-server-2013-update-2-rc-coming-ready"
+
+aliases:
+  - /blog/team-foundation-server-2013-update-2-rc-coming-ready
 ---
 
 While naked ALM Consulting can help you install and configure TFS you may want to take advantage of the upcoming TFS Upgrade Weekend from Microsoft for free.
@@ -34,3 +37,4 @@ In case you are asking yourself why you would want to update to Update 2 RC you 
 - **Annotate for Git** - The blame tool comes to Git
 
 In addition the team has been working on a bunch of performance improvements for the backlog and other tools. There are many more features but these are the ones that I felt most relevant.
+

@@ -3,7 +3,7 @@ title: "How much of an impact can a strong, skilled product owner have?"
 date: 2023-01-30T07:30:06Z
 videoId: S3Xq6gCp7Hw
 url: /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
-external_url: https://www.youtube.com/watch?v=S3Xq6gCp7Hw
+canonicalUrl: https://www.youtube.com/watch?v=S3Xq6gCp7Hw
 coverImage: https://i.ytimg.com/vi/S3Xq6gCp7Hw/maxresdefault.jpg
 duration: 353
 isShort: False
@@ -23,15 +23,15 @@ In this short video, Martin Hinshelwood explains why a great #productowner is su
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
 If you are interested in #agiletraining, visit https://nkdagility.com/training/
+ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
-
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

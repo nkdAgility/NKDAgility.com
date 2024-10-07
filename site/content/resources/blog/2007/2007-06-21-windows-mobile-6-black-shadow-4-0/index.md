@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-mobile-6-black-shadow-4-0"
+
+aliases:
+  - /blog/windows-mobile-6-black-shadow-4-0
 ---
 
 I know that you are not supposed to do it, but I updated my phone to [Windows Mobile 6 Black](http://wmblack.info/), specifically Black 4 (Shadow). This is a fantastic ROM and, if you are not that technical, much better than trying to cook your own! It is described as a Hybrid OEM of [HTC Hermes](http://www.europe.htc.com/products/htctytn.html) and [Touch](http://www.htctouch.com/) designed specifically for the Hermes. This is good as the current [HTC Touch](http://www.europe.htc.com/products/htctouch.html) phone does not have 3G or a keyboard, it looks fantastic though. I knew the iPhone would be good for something, pushing HTC to advance the interface!
@@ -24,3 +27,4 @@ Having performed a successful update I am happy with the result and will probabl
 **How have your updates gone?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

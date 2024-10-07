@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "microsoft-surface-3-unable-boot-usb"
+
+aliases:
+  - /blog/microsoft-surface-3-unable-boot-usb
 ---
 
 Recently I had a crash of Windows 10 and while usually you can boot into recovery mode, Windows was uncooperative. This was when I found my Microsoft Surface 3 unable to boot from USB!
@@ -102,3 +105,4 @@ In not a single one of these methods does the USB get named "BOOTME". Ahh, wellâ
 { .post-img }
 
 So if you are wanting to boot your Surface Pro 3 from a USB you need to make sure that the device you want to boot from is labelled "BOOTME".
+

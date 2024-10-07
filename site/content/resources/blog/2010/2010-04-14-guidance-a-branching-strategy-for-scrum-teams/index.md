@@ -24,6 +24,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "guidance-a-branching-strategy-for-scrum-teams"
+
+aliases:
+  - /blog/guidance-a-branching-strategy-for-scrum-teams
 ---
 
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!
@@ -298,3 +301,4 @@ Branching is a tool; it is not a silver bullet. Don’t over use it, and avoid �
 > \-[Chris Birmele](http://blogs.msdn.com/chrisbirmele/), Visual Studio ALM Ranger, Microsoft
 
 Technorati Tags: [Branching](http://technorati.com/tags/Branching) [Scrum](http://technorati.com/tags/Scrum) [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

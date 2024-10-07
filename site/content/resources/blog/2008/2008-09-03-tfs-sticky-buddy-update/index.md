@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-update"
+
+aliases:
+  - /blog/tfs-sticky-buddy-update
 ---
 
 The Sticky Buddy has been updated to fix the following problems:
@@ -26,3 +29,4 @@ I don't as our Proxy is a bit crap and does not detect the changes in .applicati
 
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+

@@ -35,11 +35,6 @@
 {{ define "main" }}
   {{ partial "connect.html" . }}
   <section class="container my-5">
-    <h2 title="Capabilities - What we do?">What we do?</h2>
-    <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
-  </section>
-  <section class="container my-5">
     <h2 title="Outcomes - What you get?">What you get?</h2>
     <p>
       We empower organizations to achieve unparalleled success in today's dynamic market. Our proven strategies enhance Team Effectiveness, deliver Higher Quality Products, and foster a culture of Continuous Improvement. Discover how our tailored
@@ -47,6 +42,11 @@
       competitive environments.
     </p>
     {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
+  </section>
+  <section class="container my-5">
+    <h2 title="Capabilities - What we do?">What we do?</h2>
+    <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
+    {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
   </section>
   <section class="container my-5">
     <h2 title="People - Who are we?">Who are we?</h2>

@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-to-allow-other-users-to-interact-with-workflow-on-your-mysite"
+
+aliases:
+  - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 ---
 
 If you want to be able to use workflow on you're my site that will allow you to assign tasks to your colleagues, then you need to take a couple of thing into consideration. The most important is to give any users assigned tasks access to the tasks list that you are using for your workflow.
@@ -98,3 +101,4 @@ Make sure that you have the correct users listed in the "Users/Groups" box and t
 Easy J
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Answers](http://technorati.com/tags/Answers) [SharePoint](http://technorati.com/tags/SharePoint)
+

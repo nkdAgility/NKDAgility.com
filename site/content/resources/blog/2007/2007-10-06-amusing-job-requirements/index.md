@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "amusing-job-requirements"
+
+aliases:
+  - /blog/amusing-job-requirements
 ---
 
 I recently received a job spec that had the most ridiculous "Required" skill set for an "Analyst Programmer". I though I should share it with you as I have just spent the last 10 minutes cleaning tea out of my keyboard with cotton bud's. Here is how it was presented in the email:
@@ -84,3 +87,4 @@ Especially:
 > - [Writing a programmer job description](http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=24706)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
+

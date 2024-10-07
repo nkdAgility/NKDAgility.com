@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "ghost-team-foundation-build-controllers"
+
+aliases:
+  - /blog/ghost-team-foundation-build-controllers
 ---
 
 Have you ever seen ghost build controllers in Team Foundation Server that you just can't seam to delete no matter what you do? Sometime there are builds left over in the system that were queued but never completed.
@@ -64,3 +67,4 @@ So I set the Status of this build to 2 (cancelled) and sure enough it disappeare
 **Figure: Almost completely clean**
 
 Now all I have to do is get rid of that untidy “zzBunyip” agent, but that will require rewriting one of our build scripts which will have to wait for now.
+

@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness"
+
+aliases:
+  - /blog/blocked-columns-on-kanban-boards-obfuscate-workflow-and-undermine-effectiveness
 ---
 
 The Boards in Azure DevOps are a powerful tool that your teams can leverage to enable transparent visualization of the current state of value delivery.
@@ -70,3 +73,4 @@ You can also increase the transparency by enabling a colour for the tag. Just be
 - [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
 
 - [When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question by Daniel S. Vacanti | Goodreads](https://www.goodreads.com/book/show/40681093-when-will-it-be-done)
+

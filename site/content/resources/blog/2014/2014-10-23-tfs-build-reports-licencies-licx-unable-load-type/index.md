@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-build-reports-licencies-licx-unable-load-type"
+
+aliases:
+  - /blog/tfs-build-reports-licencies-licx-unable-load-type
 ---
 
 When you do a build you can get an "unable to resolve type" message from the licencies.licx file that you have checked in. This prevents you from having a successful build in Team Build.
@@ -43,3 +46,4 @@ At some point a newer version of 2012.2 was downloaded and dropped onto the netw
 If only it was easy to reimage developer workstations overnight so that they only had the current versions of all the components. These problems would be found quickly and fixed often.
 
 Moral of the story… always either reimage your workstation often, or uninstall components you don’t need any more. Ideally setup and configure an automated build now if you don’t have one. If its hard then suck it up and take the time to get it working.
+

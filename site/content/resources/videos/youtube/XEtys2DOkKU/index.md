@@ -3,7 +3,7 @@ title: "Considerations for your Azure DevOps migration. Excerpt 1"
 date: 2024-09-18T11:59:33Z
 videoId: XEtys2DOkKU
 url: /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
-external_url: https://www.youtube.com/watch?v=XEtys2DOkKU
+canonicalUrl: https://www.youtube.com/watch?v=XEtys2DOkKU
 coverImage: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: True

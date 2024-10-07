@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "process-template-upgrade-7-overwrite-retaining-history-with-limited-migration"
+
+aliases:
+  - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 ---
 
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…
@@ -340,3 +343,4 @@ I will try to catalogue any problems here, so add them in the comments and I wil
     **Figure: TF400508 is about Agile Planning boards**
         You forgot to update #7 above. Go back and do it now!
 2.  **\[TBA\] Let me know what errors you find…**
+

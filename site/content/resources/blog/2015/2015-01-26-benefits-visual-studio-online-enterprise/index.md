@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "benefits-visual-studio-online-enterprise"
+
+aliases:
+  - /blog/benefits-visual-studio-online-enterprise
 ---
 
 I last posted on [why you should use Visual Studio ALM](http://nkdagility.com/why-should-i-use-visual-studio-alm-whether-tfs-or-vso/) due to a customer ask, and now I have been asked to justify a move to Visual Studio Online for a company looking to use it for about 5,000 people.
@@ -138,3 +141,4 @@ These options and support levels allow you to be sure that if you have an issue 
 If you can get over the cultural issues to moving towards the cloud then there is really no substantiative reason not to be moving towards VSO no matter how large your organisation is. You will save money on licencing and support and drastically reduce the complexity of connecting and keeping the product up to date.
 
 Take the plunge today and get your [\[company\].visualstudio.com](http://tfs.visualstudio.com) URL today…
+

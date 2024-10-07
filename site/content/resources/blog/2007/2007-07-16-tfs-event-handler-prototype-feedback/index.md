@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-event-handler-prototype-feedback"
+
+aliases:
+  - /blog/tfs-event-handler-prototype-feedback
 ---
 
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.
@@ -31,3 +34,4 @@ I am looking for the answer to the following questions:
 **Let me know!**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WIT](http://technorati.com/tags/WIT)
+

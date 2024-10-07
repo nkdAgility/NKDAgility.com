@@ -7,6 +7,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-gotcha-sp1"
+
+aliases:
+  - /blog/tfs-gotcha-sp1
 ---
 
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...
@@ -23,3 +26,4 @@ Solution:
 If at any point you have a problem. You can always uninstall SP1 from both of the tiers and get the system working again. There are a number of solutions out there, including this one, which can fix the problems you have with TFS SP1... None of them worked for me...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-most-usefull-net-tool-on-the-face-of-the-planet"
+
+aliases:
+  - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
 ---
 
 Reflector!
@@ -18,3 +21,4 @@ Reflector!
 If the site is down, it will be back...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

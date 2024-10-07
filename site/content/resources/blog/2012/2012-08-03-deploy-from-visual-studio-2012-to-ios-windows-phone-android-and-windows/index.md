@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows"
+
+aliases:
+  - /blog/deploy-from-visual-studio-2012-to-ios-windows-phone-android-and-windows
 ---
 
 Today I saw a demonstration by [ITR Mobility](http://itr-mobility.com/) of their line of business application support for having one code base, written in C# that can be deployed to practically any platform you like. Does that should like it would be of use to you? Coz it sure as hell sounds like I could use it. I want to build an app… but I want to build in Visual Studio and that would limit me to Windows Phone and I really don’t want to lead Objective C!
@@ -80,3 +83,4 @@ If you are a user wanting to build line of business application for your organis
 This is a demonstration of what can be done in the ALM space to solve a real need for customer and allow them to deliver more value more quickly to their customers.
 
 **Do you build mobile applications? Would this help you?**
+

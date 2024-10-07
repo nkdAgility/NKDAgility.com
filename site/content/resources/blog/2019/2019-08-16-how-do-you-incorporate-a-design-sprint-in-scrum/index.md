@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-do-you-incorporate-a-design-sprint-in-scrum"
+
+aliases:
+  - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
@@ -40,3 +43,4 @@ Ultimately no work should be done in a vacuum or away from the scrutiny of the e
 Linking Team of Teams and Communities of Practice are critical for incorporating all of the skills required to build awesome software.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+

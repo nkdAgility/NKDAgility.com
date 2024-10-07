@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "hiring-a-professional-scrum-master"
+
+aliases:
+  - /blog/hiring-a-professional-scrum-master
 ---
 
 One of my customers is hiring for the Scrum Master Role and asked if I had a handy-dandy Scrum Master Job Spec that they could use. I did not, but there have been a few good ones floating around in the ether so I thought that pulling one together would be a good idea anyway. Here is my best effort to use the existing job postings, and combine them with the latest version of the Scrum Guide.
@@ -125,3 +128,4 @@ Sources:
 - [Scrum Master job description | Scrum.org](https://www.scrum.org/forum/scrum-forum/5366/scrum-master-job-description)
 
 - [Scrum Master job description - The Ultimate Description (luis-goncalves.com)](https://luis-goncalves.com/scrum-master-job-description/)
+

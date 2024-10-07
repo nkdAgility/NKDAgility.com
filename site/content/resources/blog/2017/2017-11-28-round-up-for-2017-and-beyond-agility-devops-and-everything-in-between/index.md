@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "round-up-for-2017-and-beyond-agility-devops-and-everything-in-between"
+
+aliases:
+  - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 ---
 
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.
@@ -57,3 +60,4 @@ The stories I could tell! And I do… if you come to one of my courses you can f
 That's just a few of the classes that I have already booked for 2018, and you can find more on the [training](https://nkdagility.com/training) page.
 
 I think that 2018 is going to be more training than consulting, although now I have booked a bunch of training I have customers looking for consulting time… ho hum… that's the way it is I guess…
+

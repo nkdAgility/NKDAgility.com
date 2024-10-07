@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "dyslexia-awareness-week"
+
+aliases:
+  - /blog/dyslexia-awareness-week
 ---
 
 Its "Dyslexia Awareness Week" here in the UK, and as a person that benefits from being a [Dyslexic developer](http://blog.hinshelwood.com/Tags/dyslexia/default.aspx), I thought I should highlight the specific strengths to programmers of being dyslexic...
@@ -28,3 +31,4 @@ If only our education systems would take advantage of these differences...
 { .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
+

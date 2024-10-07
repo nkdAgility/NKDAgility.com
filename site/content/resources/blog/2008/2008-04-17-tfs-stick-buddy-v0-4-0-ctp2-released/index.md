@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-stick-buddy-v0-4-0-ctp2-released"
+
+aliases:
+  - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 ---
 
 All to soon and it is that time again...I have been developing, hell bent on getting a [working sticky buddy](http://www.codeplex.com/TFSStickyBuddy) online, and here it is...
@@ -75,3 +78,4 @@ You can even use the [discussion forums](http://www.codeplex.com/TFSStickyBuddy/
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "merge-many-team-projects-one-tfs"
+
+aliases:
+  - /blog/merge-many-team-projects-one-tfs
 ---
 
 In TFS 2012 the product team introduced the concept of Teams into TFS. Before this many organisations created multiple Team Projects and now want to merge Team Projects into one, or at least fewer. There are many reasons you might have done this in the past but there is no reason to live with this.
@@ -152,3 +155,4 @@ You may have noticed the "Neglect" attribute. Well it’s a little reverse socio
 And that’s really all there is to it. Don’t expect to get a successful migration the first time. Or the second, or even the third. But if you persevere you can do many migrations quickly. I have [migrated 20-30 small projects](http://nkdagility.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/) into one in only a few days, however I was luckily with the low complexity and small check-ins.
 
 Go fourth and consolidate your Team Projects….
+

@@ -7,6 +7,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-sp1-and-team-system-sp1-are-released"
+
+aliases:
+  - /blog/visual-studio-sp1-and-team-system-sp1-are-released
 ---
 
 I have been waiting for this for a while and [Brian Harry](http://blogs.msdn.com/bharry/) has some comments and notes on the topic. I will be installing this as soon as its mammoth 450mb download completes.
@@ -20,3 +23,4 @@ I have been waiting for this for a while and [Brian Harry](http://blogs.msdn.com
 More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEntryEditor/FCKeditor/editor/) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

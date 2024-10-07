@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "coffee-talk-scrum-versus-kanban"
+
+aliases:
+  - /blog/coffee-talk-scrum-versus-kanban
 ---
 
 ![Coffee Talk: Scrum versus Kanban ](images/1475243493-2.png)
@@ -42,3 +45,4 @@ Both models have proven track records, and **in this session [Martin Hinshelwood
 - **[Join Northwest Cadence for this Free Webcast Event](http://scrumvskanban.eventbrite.com/)**
 
 I think that we have around 50 folks already signed up, but the more the merrier…
+

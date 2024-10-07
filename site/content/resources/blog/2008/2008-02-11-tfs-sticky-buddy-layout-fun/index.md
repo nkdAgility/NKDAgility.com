@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-sticky-buddy-layout-fun"
+
+aliases:
+  - /blog/tfs-sticky-buddy-layout-fun
 ---
 
 [![TFS Sticky Buddy (WinForms) Screenshot](images/TFSStickyBuddylayoutfun_782F-image_thumb-2-8.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddylayoutfun_782F-image_2.png) I had a lot of fun trying to lay out my [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project using Windows Forms, and eventually decided that it was way to fiddle doing it in a Forms based application. It was not just that tables and panels don't work as I expected, but that there were way to many bits that were more difficult than they should be. This is mostly down to my inexperience and down right ineptitude with graphics and UI's, but it still should not be this hard. ![smile_baringteeth](images/smile_baringteeth-4-2.gif)
@@ -51,3 +54,4 @@ I want to have nice little callouts of information when you move your mouse over
 [Technorati Profile](http://technorati.com/claim/vbgrtargkp)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [WPF](http://technorati.com/tags/WPF)
+

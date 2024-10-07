@@ -3,7 +3,7 @@ title: "Don’t put down to malevolence what can be explained by incompetence"
 date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
-external_url: https://www.youtube.com/watch?v=LxM_F_JJLeg
+canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
 coverImage: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: False
@@ -13,15 +13,15 @@ isShort: False
 
 # Don’t put down to malevolence what can be explained by incompetence
 
-_Don't Let Incompetence Mask as Malevolence_
+*Don't Let Incompetence Mask as Malevolence*
 
 We often mistake incompetence for malevolence in our agile journeys. Dive deep into how the system's incompetence can overshadow our efforts. 🚀 #productvision #agile #scrumtraining #scrumorg
 
-_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the common misconception that challenges faced in agile environments are due to malevolence. Instead, he suggests that it's often the system's incompetence that's the real culprit. 🤔💡 Martin highlights how traditional project mindsets can hinder agility and emphasizes the importance of changing the system to achieve true agility. 🔄🌟
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 If you find it hard to navigate the challenges of agile systems, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can.
 

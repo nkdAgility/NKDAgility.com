@@ -25,6 +25,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "reserve-an-agent-for-a-special-build-in-team-foundation-server-2012"
+
+aliases:
+  - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 ---
 
 By the time you hit the AgentScope activity in a TF Build workflow you are already running on the agent and if you have things you need to configure you need to figure out some way to reserve an agent before you get there.
@@ -296,3 +299,4 @@ This process while requiring the customisation of your build process can allow y
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.
+

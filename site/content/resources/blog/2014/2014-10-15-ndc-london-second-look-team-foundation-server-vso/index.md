@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "ndc-london-second-look-team-foundation-server-vso"
+
+aliases:
+  - /blog/ndc-london-second-look-team-foundation-server-vso
 ---
 
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.
@@ -128,3 +131,4 @@ I am really looking forward to this session as it will give me a chance to direc
 Please provide me with some feedback on the polls above. I am very interested in focusing on what will solve the most problems for attendees. I will also be around for the full 3 days and would be happy to do add-hock demos and problem solving sessions… Unless there is a supper interesting session on the go I would be happy to provide free TFS consulting for any and all attendees of NDC London on the days.
 
 If you are on a tight schedule I would be happy to have you pre-book some time. Email info@nakedalm.com to get some free TFS & VSO consulting at NDC London.
+

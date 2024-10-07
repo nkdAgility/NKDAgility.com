@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-2008-and-the-gdr-ctp16"
+
+aliases:
+  - /blog/visual-studio-2008-and-the-gdr-ctp16
 ---
 
 Well we have been having a few problems with the [GDR](http://blogs.msdn.com/gertd/archive/2008/08/20/vstsdb-2008-gdr-ctp16-is-here.aspx). Essentially when we import our database it complains about dependencies.
@@ -23,3 +26,4 @@ I tried uninstalling the GDR, but that left me with NO data dude :(
 SO I have reinstalled and will try again....
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

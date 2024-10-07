@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied"
+
+aliases:
+  - /blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 ---
 
 If you change the WorkSpaceRoot in “C:Program Files (x86)Microsoft Team Foundation Server Integration ToolsMigrationToolServers.config” you may get an access to path is denied when manually resolving conflicts as per [TFS Integration Tools – Issue: TF10141 No Files checked in as a result of a TFS check-in failure](http://blog.hinshelwood.com/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure/).
@@ -44,3 +47,4 @@ Add the TFSIPEXEC_WPG permission to the folder with full rights.
 **Figure: Model dialog galore**
 
 Once you have added permissions you will be able to resolve the conflicts…
+

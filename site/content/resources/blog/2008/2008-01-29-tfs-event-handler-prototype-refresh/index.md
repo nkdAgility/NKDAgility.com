@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-event-handler-prototype-refresh"
+
+aliases:
+  - /blog/tfs-event-handler-prototype-refresh
 ---
 
 I found a couple of bugs in the [TFS Event Handler Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057). As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.
@@ -39,3 +42,4 @@ Some ideas for Event Handlers:
 **Can you think of any more you would like?** [Send them on a postcard to...](https://www.codeplex.com/Thread/View.aspx?ProjectName=TFSEventHandler&ThreadId=21219 "Send me your ideas for new Event Handlers")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
+

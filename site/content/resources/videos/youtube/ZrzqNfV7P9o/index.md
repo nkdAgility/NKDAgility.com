@@ -3,7 +3,7 @@ title: "Why does Minecraft make the APS course so awesome?"
 date: 2023-01-10T07:48:02Z
 videoId: ZrzqNfV7P9o
 url: /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
-external_url: https://www.youtube.com/watch?v=ZrzqNfV7P9o
+canonicalUrl: https://www.youtube.com/watch?v=ZrzqNfV7P9o
 coverImage: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
 duration: 261
 isShort: False
@@ -23,13 +23,13 @@ In this short video, Martin Hinshelwood explains why he uses #minecraft to help 
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
 We would love to work with you.
 

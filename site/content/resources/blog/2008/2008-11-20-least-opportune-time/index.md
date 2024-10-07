@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "least-opportune-time"
+
+aliases:
+  - /blog/least-opportune-time
 ---
 
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)
@@ -37,3 +40,4 @@ Hats off to the [CodePlex](http://www.codeplex.com "CodePlex") team, but get the
 [](http://www.codeplex.com/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

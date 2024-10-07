@@ -3,9 +3,9 @@ title: "Is Your ENTIRE Development Ecosystem Truly Agile? | The Agile Reality Ch
 date: 2024-08-02T06:45:02Z
 videoId: kVt5KP9dg8Q
 url: /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
-external_url: https://www.youtube.com/watch?v=kVt5KP9dg8Q
+canonicalUrl: https://www.youtube.com/watch?v=kVt5KP9dg8Q
 coverImage: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
-duration: 345
+duration: 346
 isShort: False
 ---
 
@@ -13,7 +13,7 @@ isShort: False
 
 # Is Your ENTIRE Development Ecosystem Truly Agile? | The Agile Reality Check [6/6]
 
-Think your Agile development teams make your organization Agile? 🤔 The U.S. Department of Defense disagrees! This video dives into the critical question of whether your entire product development ecosystem – from coding to deployment – is truly Agile. Spoiler alert: You might not be as agile as you think!
+Think your Agile development teams make your organization Agile? 🤔 The U.S. Department of Defense disagrees!  This video dives into the critical question of whether your entire product development ecosystem – from coding to deployment – is truly Agile.  Spoiler alert: You might not be as agile as you think!
 
 Why You Should Watch:
 

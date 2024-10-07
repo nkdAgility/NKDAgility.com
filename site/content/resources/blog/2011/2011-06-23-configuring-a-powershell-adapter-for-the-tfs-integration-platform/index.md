@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "configuring-a-powershell-adapter-for-the-tfs-integration-platform"
+
+aliases:
+  - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
 ---
 
 ![](images/image_thumb-1-1.png)
@@ -318,3 +321,4 @@ Although this process can take a while, the fact that you can configure the Powe
 If you need a copy of your TFS Version Control data somewhere other than TFS for posterity, or you need a migration from [Test Track Pro to TFS](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then just ping me and see how we can help.
 
 [Request for Services](http://nwcadence.com/#)
+

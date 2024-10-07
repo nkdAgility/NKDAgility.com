@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "why-integrated-authentication-does-not-work-with-host-headers"
+
+aliases:
+  - /blog/why-integrated-authentication-does-not-work-with-host-headers
 ---
 
 **You receive error 401.1 when you browse a [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Web site that uses Integrated Authentication and is hosted on IIS 5.1 or IIS 6**
@@ -32,3 +35,4 @@ After some testing I found that it was indeed fixed. Now, I had this exact same 
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

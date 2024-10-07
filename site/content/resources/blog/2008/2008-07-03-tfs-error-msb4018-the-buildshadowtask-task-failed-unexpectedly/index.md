@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly"
+
+aliases:
+  - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 ---
 
 There seams to be a problem in MSBuild when you add an “Accessor” as part of a Unit Test project.
@@ -52,3 +55,4 @@ Reference:
 [BuildShadowTask Failed unexpectedly - Accessor Problem (Upconvert VS 2005 to 2008) – URGENT](http://forums.microsoft.com/msdn/ShowPost.aspx?PostID=2941701&SiteID=1)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [TFS 2008](http://technorati.com/tags/TFS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

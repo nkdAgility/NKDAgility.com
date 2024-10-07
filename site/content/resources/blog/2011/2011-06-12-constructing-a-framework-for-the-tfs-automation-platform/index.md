@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "constructing-a-framework-for-the-tfs-automation-platform"
+
+aliases:
+  - /blog/constructing-a-framework-for-the-tfs-automation-platform
 ---
 
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.
@@ -78,3 +81,4 @@ Now that everything is checked in, I will be encouraging my team mates to explor
 **Figure: Lots of lovely places to put code**
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.
+

@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "delete-work-items-tfs-vso"
+
+aliases:
+  - /blog/delete-work-items-tfs-vso
 ---
 
 Have you ever created a bunch of work items that you decided later that you had to delete. Well I have… especially as a user of the TFS Integration Platform. And when things go wrong there they can really go wrong.
@@ -82,3 +85,4 @@ namespace ConsoleApplication1
 The first thing that you may notice is that I search for items in a specific area path. I use \_TOBEDELETED as it is obvious what is going to happen to things that end up there. Although I did work with a user who complained that all his files had gone missing. When asked where he kept them he pointed at the recycle bin on his desktop!
 
 Anyhoo… just in case you made a mistake it will let you know how many work items that you are deleting. It’s a simple check but I have had it say "100,000" work items… AS you can imagine I very carefully terminated the program (never trust the 'no' option).
+

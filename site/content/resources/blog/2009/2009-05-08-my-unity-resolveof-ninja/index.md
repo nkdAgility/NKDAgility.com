@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "my-unity-resolveof-ninja"
+
+aliases:
+  - /blog/my-unity-resolveof-ninja
 ---
 
 I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.
@@ -144,3 +147,4 @@ End Class
 Although this example in no way demonstrates the power of the Unity Application Block, and is a bit silly, I think it demonstartes the use of the “My” namespace.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Software Development](http://technorati.com/tags/Software+Development) [CodeProject](http://technorati.com/tags/CodeProject) [WPF](http://technorati.com/tags/WPF)
+

@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-visual-studio-2010-on-windows-8"
+
+aliases:
+  - /blog/installing-visual-studio-2010-on-windows-8
 ---
 
 As I [have mentioned before I run all of my heavy weight software in a VM](http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/). That is one of the reasons that I love Windows 8… I can run Hyper-V. I want to be able to reinstall my local computer quickly, and to get back up and running fast.
@@ -86,3 +89,4 @@ Now with no extra patch I will preform the miraculous feet of connecting to TFS 
 Running Visual Studio 2010 on Windows 8 not only works, but works well. Don’t be afraid of Windows 8 for Visual Studio’s sake… just jump in and get going…
 
 _\-Are you still deploying software to older OS's? Did you know that that you can flip between VS 2010 SP1 and VS 2012 with no problems? Well we do and we know how. Contact [info@nwcadence.com](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Installing Visual Studio 2010 on Windows 8) today..._
+

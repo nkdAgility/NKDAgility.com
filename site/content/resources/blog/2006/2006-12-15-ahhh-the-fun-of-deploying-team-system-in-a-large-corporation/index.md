@@ -7,6 +7,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "ahhh-the-fun-of-deploying-team-system-in-a-large-corporation"
+
+aliases:
+  - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 ---
 
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.
@@ -27,3 +30,4 @@ More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEnt
 More on [**TFS Deployment**](/hinshelm/category/5992.aspx) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

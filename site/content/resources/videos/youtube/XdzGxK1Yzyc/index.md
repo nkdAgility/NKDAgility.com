@@ -3,7 +3,7 @@ title: "Why have a Product Owner?"
 date: 2023-05-23T14:00:19Z
 videoId: XdzGxK1Yzyc
 url: /resources/videos/why-have-a-product-owner-
-external_url: https://www.youtube.com/watch?v=XdzGxK1Yzyc
+canonicalUrl: https://www.youtube.com/watch?v=XdzGxK1Yzyc
 coverImage: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: False
@@ -31,8 +31,8 @@ If you are struggling with agile product ownership, my team at NKDAgility can he
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses
 
-#ProductOwner, #ScrumTeam, #ScrumAccountabilities, #CustomerCollaboration, #StrategicLeadership, #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+#ProductOwner, #ScrumTeam, #ScrumAccountabilities, #CustomerCollaboration, #StrategicLeadership, #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
 
-What is a product owner? Why are they essential?
+What is a product owner?  Why are they essential?
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XdzGxK1Yzyc)

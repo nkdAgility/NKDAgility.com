@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "composite-wpf-and-merged-dictionaries"
+
+aliases:
+  - /blog/composite-wpf-and-merged-dictionaries
 ---
 
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the
@@ -233,3 +236,4 @@ So instead of bombing out when you try to add a region of the same name, it will
 
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
+

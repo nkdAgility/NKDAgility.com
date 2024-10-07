@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "southparkify-simpsonize-better-with-both"
+
+aliases:
+  - /blog/southparkify-simpsonize-better-with-both
 ---
 
 [![image](images/SouthparkifySimposonizebetterwithboth_DA8A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SouthparkifySimposonizebetterwithboth_DA8A-image.png)
@@ -20,3 +23,4 @@ slug: "southparkify-simpsonize-better-with-both"
 [This](http://www.sp-studio.de/) is a little more representative of me than the Simpsonize one! Thanks [Will](http://geekswithblogs.net/MOSSParadox/archive/2007/07/30/Simpsonize-Me-Bah.aspx "Southparkify / Simposonize : better with both!")...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

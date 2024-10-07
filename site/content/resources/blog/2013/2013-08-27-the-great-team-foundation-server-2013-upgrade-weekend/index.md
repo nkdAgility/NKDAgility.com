@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "the-great-team-foundation-server-2013-upgrade-weekend"
+
+aliases:
+  - /blog/the-great-team-foundation-server-2013-upgrade-weekend
 ---
 
 The product team have put some more engineering resources where their mouth is and the great Team Foundation Server 2013 Upgrade Weekend will be on September 13-15.
@@ -35,3 +38,4 @@ By registering early you can make sure that Microsoft has the appropriate number
 - [Register for the TFS 2013 Upgrade Weekend](http://aka.ms/TFSUpgradeWeekend "http://aka.ms/TFSUpgradeWeekend")
 
 Whatever option that you choose you will be happy with the results…
+

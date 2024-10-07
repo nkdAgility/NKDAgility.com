@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "professional-scrum-developer-net-training-in-london"
+
+aliases:
+  - /blog/professional-scrum-developer-net-training-in-london
 ---
 
 ![SSWLogo](images/ProfessionalScrumDeveloperTraininginLond_CC39-SSWLogo_-7-7.png)On the 26th - 30th July in Microsoft’s offices in London [Adam Cogan](http://courses.scrum.org/about/adam-cogan) from SSW will be presenting the first [Professional Scrum Developer](http://www.scrum.org/professionalscrumdeveloper/) course in the UK. I will be teaching this course along side Adam and it is a fantastic experience. You are split into teams and go head-to-head to deliver units of potentially shippable work in four two hour sprints.
@@ -287,3 +290,4 @@ Because of the nature of this course, as explained above, certain types of peopl
 If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum),[SSW](http://technorati.com/tags/SSW),[Pro Scrum Dev](http://technorati.com/tags/Pro+Scrum+Dev)
+

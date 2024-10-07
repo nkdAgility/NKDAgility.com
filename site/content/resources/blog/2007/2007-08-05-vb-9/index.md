@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "vb-9"
+
+aliases:
+  - /blog/vb-9
 ---
 
 Yet more [evidence](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/archive/2007/08/02/9556.aspx "VB is better than C#") that VB is superior to C# from [Mike Taulty](http://mtaulty.com)...
@@ -20,3 +23,4 @@ Yet more [evidence](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/a
 :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

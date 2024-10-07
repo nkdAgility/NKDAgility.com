@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "powerpointissue-i-spell-it-as-favourite-and-you-as-favorite"
+
+aliases:
+  - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 ---
 
 On of the issues that we have had in the office recently is that the rest of the Office, through no fault of their own, speaks and uses American English. I however along with the majority of the English speaking world use British English.
@@ -103,3 +106,4 @@ This will help me greatly as I can then write all of my things in the English th
 **Figure: My keyboard settings**
 
 What do you think are my chances at getting the world to switch to Gaelic?
+

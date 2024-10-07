@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-usage-statistics"
+
+aliases:
+  - /blog/tfs-usage-statistics
 ---
 
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.
@@ -52,3 +55,4 @@ Uploads: 454
 Shelves: unknown
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -3,7 +3,7 @@ title: "14th April 2020 - Office Hours \ Ask me Anything"
 date: 2020-04-14T19:09:07Z
 videoId: ZPRvjlp9i0A
 url: /resources/videos/14th-april-2020-office-hours-ask-me-anything
-external_url: https://www.youtube.com/watch?v=ZPRvjlp9i0A
+canonicalUrl: https://www.youtube.com/watch?v=ZPRvjlp9i0A
 coverImage: https://i.ytimg.com/vi/ZPRvjlp9i0A/hqdefault.jpg
 duration: 2112
 isShort: False

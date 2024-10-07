@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "interview-with-my-favourite-author"
+
+aliases:
+  - /blog/interview-with-my-favourite-author
 ---
 
 My favourite author, David Webber, has an interview on you tube.
@@ -16,3 +19,4 @@ My favourite author, David Webber, has an interview on you tube.
 I have read every one of his books, and I just love the Military Sci-Fi genre…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013"
+
+aliases:
+  - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 ---
 
 There are many reasons that you would want to Create a Portfolio Backlog hierarchy in Team Foundation Server 2013 not least of which is modelling your existing processes.
@@ -315,3 +318,4 @@ Customising the hierarchy for Portfolio Backlogs is easy and the hard part is ma
 > \-Me
 
 Make sure you always make the right changes to Team Foundation Server to improve your process and never enshrine dysfunctions…
+

@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "what-is-the-roll-of-the-project-manager-in-scrum"
+
+aliases:
+  - /blog/what-is-the-roll-of-the-project-manager-in-scrum
 ---
 
 I get a lot of questions about the role of the Project Manger in the world of Scrum and there is usually a lot of hemming and hawing from consultants and Scrum coaches that want to take the touchy-feely approach.
@@ -52,3 +55,4 @@ The Scrum Master has a hard job as well. They are the torch bearer within their 
 ### Conclusion
 
 While this may well turn out be like the posts of 5 years ago about the "death of the Tester" only to have it return I do think that will not be the case here. I believe that we are not getting rid of the Project Manager we are just moving that role back to the Business / Customer side of the story where it belongs.
+

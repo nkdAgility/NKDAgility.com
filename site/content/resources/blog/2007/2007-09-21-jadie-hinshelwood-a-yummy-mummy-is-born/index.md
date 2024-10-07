@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "jadie-hinshelwood-a-yummy-mummy-is-born"
+
+aliases:
+  - /blog/jadie-hinshelwood-a-yummy-mummy-is-born
 ---
 
 My wife, Jadie Hinshelwood, has just started [blogging](http://jadie.hinshelwood.com/2007/09/story-so-far.html) about our journey to get pregnant, miscarriage via [A Yummy Mummy is Born](http://jadie.hinshelwood.com), I hope you will give her some support.
@@ -22,3 +25,4 @@ It was a hard and long journey, but we [got there in the end](http://jadie.hinsh
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

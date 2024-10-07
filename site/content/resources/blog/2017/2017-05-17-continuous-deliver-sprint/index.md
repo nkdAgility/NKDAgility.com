@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "continuous-deliver-sprint"
+
+aliases:
+  - /blog/continuous-deliver-sprint
 ---
 
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_
@@ -60,3 +63,4 @@ A Sprint is a container for planning rather than releasing and while Scrum requi
 Scrum.org recently changed its mantra from "Improve the profession of software development" to "Improve the profession of software delivery" to start to enshrine the idea that delivery, to your customers, is no longer optional to get significant actionable feedback that you can reflect on.
 
 In short, while the Scrum Guide does not explicitly state it, it is no longer optional to ship your software to production at least every 30 days if you want to stay competitive and build the software that your users deserve.
+

@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "rangers-shipped-visual-studio-2010-database-guide"
+
+aliases:
+  - /blog/rangers-shipped-visual-studio-2010-database-guide
 ---
 
 **![vs2010almRanger](images/RangersshippedVisualStudio2010DatabaseGu_C070-vs2010almRanger_-2-2.png)**
@@ -77,3 +80,4 @@ Obviously this type of work would not be possible without many people contributi
 - **Reviewers:** Christian Bitter (MSFT), Regis Gimenis (MSFT), Rob Jarrat (MSFT), Bijan Javidi (MSFT), [Mathias Olausson (MVP)](http://msmvps.com/blogs/molausson/), Willy-Peter Schaub (MSFT)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFS 2010](http://technorati.com/tags/TFS+2010),[VS 2010](http://technorati.com/tags/VS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
+

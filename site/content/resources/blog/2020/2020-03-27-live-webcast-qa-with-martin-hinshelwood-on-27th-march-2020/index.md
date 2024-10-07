@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020"
+
+aliases:
+  - /blog/live-webcast-qa-with-martin-hinshelwood-on-27th-march-2020
 ---
 
 After my last webcast I received a question from a good friend of mine about how to incorporate UX into a Scrum Team. Since I have been teaching the Professional Scrum with UX class I thought I would share the gist of what might be a good place to start.
@@ -19,3 +22,4 @@ After my last webcast I received a question from a good friend of mine about how
 <iframe width="504" height="284" title="Embedded post" src="https://www.linkedin.com/video/embed/live/urn:li:ugcPost:6649305613501284353" frameborder="0" allowfullscreen style="width: 2010px; height: 860px;"></iframe>
 
 [https://www.linkedin.com/video/live/urn:li:ugcPost:6649305613501284353/](https://www.linkedin.com/video/live/urn:li:ugcPost:6649305613501284353/)
+

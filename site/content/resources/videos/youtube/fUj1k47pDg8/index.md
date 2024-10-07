@@ -3,7 +3,7 @@ title: "PPDV course overview with Dr Joanna Plaskonka"
 date: 2024-08-13T07:14:40Z
 videoId: fUj1k47pDg8
 url: /resources/videos/ppdv-course-overview-with-dr-joanna-plaskonka
-external_url: https://www.youtube.com/watch?v=fUj1k47pDg8
+canonicalUrl: https://www.youtube.com/watch?v=fUj1k47pDg8
 coverImage: https://i.ytimg.com/vi/fUj1k47pDg8/maxresdefault.jpg
 duration: 355
 isShort: False

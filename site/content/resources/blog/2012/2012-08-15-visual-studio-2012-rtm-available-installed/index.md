@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "visual-studio-2012-rtm-available-installed"
+
+aliases:
+  - /blog/visual-studio-2012-rtm-available-installed
 ---
 
 With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.microsoft.com/en-US/vstudio/) I wanted to let you know that Northwest Cadence just completed its first Production RTM installation for a customer.
@@ -109,3 +112,4 @@ Forget the unbelievably cool features that made it into TFS 2010, these are the 
 With all of these things built into the product there is even fewer excuses for Development Teams to be unable to deliver high quality product within an agile process that provides value to the customer…
 
 **Are you thinking of installing or upgrading to Visual Studio 2012 Team Foundation Server? Do you need help?**
+

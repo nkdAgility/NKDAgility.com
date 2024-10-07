@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "microsoft-please-help-me-diagnose-tfs-administration-permission-issues"
+
+aliases:
+  - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 ---
 
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.
@@ -71,3 +74,4 @@ This would have saved me 30 minutes, although I agree that I should change my na
 </rant>
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010)
+

@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "i-always-wanted-to-be-an-admiral"
+
+aliases:
+  - /blog/i-always-wanted-to-be-an-admiral
 ---
 
 [Which Battlestar Galactica Character Are You?  
@@ -20,3 +23,4 @@ Having just watched the entire 3rd series and waiting with bated breath for the 
 I know...I'm a bit sad...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
