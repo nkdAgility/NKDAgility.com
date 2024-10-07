@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-foundation-server-error-28936"
+
+aliases:
+  - /blog/team-foundation-server-error-28936
 ---
 
 Some of my colleagues in New York have been working on deploying Team Foundation Server as a change management system and they ran into a little error while installing to the QA (UAT) environment.
@@ -39,3 +42,4 @@ Remove this, and the error goes away!
 _This is from memory, I will fix any memory lapses tomorrow...Fixed_
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

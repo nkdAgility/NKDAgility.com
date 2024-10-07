@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "integrating-project-server-2013-with-team-foundation-server-2012"
+
+aliases:
+  - /blog/integrating-project-server-2013-with-team-foundation-server-2012
 ---
 
 I have recently been playing a lot with the new Office 2013 release and part of that is Project Server 2013. With the new Project Server Extensions being an integral part of any enterprise Team Foundation Server deployment I thought that I should kick the tires.
@@ -265,3 +268,4 @@ This completely blocked me for a while as the documentation is rather confusing 
 Just because I am blocked on my test environment does not mean that while not encompassing all of the options this should give you a start into creating Enterprise Project Plans in Project Server 2013 and syncing data between it and Team Projects in Team Foundation Server 2012.
 
 It is not the easiest thing in the world to integrate Project Server 2013 with Team Foundation Server 2012 but the benefits, when coupled with solid agile processes can be powerful. Leaving the Tasks to the Development Team and the low level PBI’s to the Product Owner and concentrating on organising and ordering the big rocks can be hard for many PMO offices that are use to task down management, but it is necessary. Your teams can and will surprise you.
+

@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions"
+
+aliases:
+  - /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 ---
 
 No matter what permissions you set or what permissions you have you get a “TF30063: You are not authorized to access /Services/v3.0/LocationService.asmx” in SharePoint 2010.
@@ -65,3 +68,4 @@ I can’t imagine what was trying to be achieved by this… so I will leave you 
 
 [![ImpliedFacePalm](images/ImpliedFacePalm_thumb-6-6.jpg "ImpliedFacePalm")](http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg)
 { .post-img }
+

@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "writing-net-in-powershell-and-creating-tfs-teams"
+
+aliases:
+  - /blog/writing-net-in-powershell-and-creating-tfs-teams
 ---
 
 Did you know that you could be writing .NET in PowerShell? PowerShell can be used to instanciate and call any .NET object and that includes the TFS API.
@@ -127,3 +130,4 @@ catch
 Now we begin to get a picture of what is possible inside PowerShell. Would the above be easier if  there were nice easy commands like “Add-Team” or “Add-TeamProject” existed? Well yes it would, but that they don’t is not going to cripple us. We can get buy without them..
 
 In short, anything you can do in code you can do in PowerShell.
+

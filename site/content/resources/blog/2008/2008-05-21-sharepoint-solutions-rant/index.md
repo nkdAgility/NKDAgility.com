@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "sharepoint-solutions-rant"
+
+aliases:
+  - /blog/sharepoint-solutions-rant
 ---
 
 <Rant>
@@ -30,3 +33,4 @@ Oh, and you should be able to do it remotely! On a workstation!
 </Rant>
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+

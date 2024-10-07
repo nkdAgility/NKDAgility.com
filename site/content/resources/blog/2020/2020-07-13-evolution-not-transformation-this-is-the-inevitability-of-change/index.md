@@ -19,6 +19,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "evolution-not-transformation-this-is-the-inevitability-of-change"
+
+aliases:
+  - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
 ---
 
 There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).
@@ -178,3 +181,4 @@ Agile in Nigeria 2020: The Inevitability of change
 </figcaption>
 
 </figure>
+

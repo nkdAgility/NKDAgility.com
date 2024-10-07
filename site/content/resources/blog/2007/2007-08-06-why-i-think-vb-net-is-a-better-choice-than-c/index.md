@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "why-i-think-vb-net-is-a-better-choice-than-c"
+
+aliases:
+  - /blog/why-i-think-vb-net-is-a-better-choice-than-c
 ---
 
 The reasons I think that VB.NET is better than C# are many, but I will try to put some of them down in a coherent manor unlike the usual C# developer that can only come up with "[vb is a language for mediocre programmers...anyway looks ugly and smells ugly..](http://blog.hinshelwood.com/archive/2007/08/05/114415.aspx#140605)" (Hmm, he must have thought long and hard to come up with that).
@@ -75,3 +78,4 @@ Lets all try to make our code more accessible and use VB.NET.
 P.S. I don't know what I am doing wrong, I can't seems to 'smell' any of my code, neither VB.NET or C#. Hmm...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Dyslexia](http://technorati.com/tags/Dyslexia)
+

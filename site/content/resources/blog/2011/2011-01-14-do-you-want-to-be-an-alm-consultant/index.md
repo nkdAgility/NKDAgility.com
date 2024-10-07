@@ -39,6 +39,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "do-you-want-to-be-an-alm-consultant"
+
+aliases:
+  - /blog/do-you-want-to-be-an-alm-consultant
 ---
 
 [![northwestCadenceLogo](images/Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_2.png)
@@ -92,3 +95,4 @@ _Engagement Responsibilities:_
 · Have effective interpersonal skills and ability to work in a team environment.
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
+

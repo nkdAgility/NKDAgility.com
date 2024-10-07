@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "windows-7-beta-is-live"
+
+aliases:
+  - /blog/windows-7-beta-is-live
 ---
 
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.
@@ -24,3 +27,4 @@ I am still downloading the beta as we speak, but I will do a little blogging on 
 **UPDATE: Windows 7 Beta will be available to the general public from Friday 9th January 2009 (today), but there will only be 2.5 million licences issued.**
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

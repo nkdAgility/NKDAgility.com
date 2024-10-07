@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "connect-a-test-controller-to-team-foundation-service"
+
+aliases:
+  - /blog/connect-a-test-controller-to-team-foundation-service
 ---
 
 Did you know that you can connect a Test Controller to Team Foundation Service? And if you can do that, can you create [standard environments for automated deployment and testing](http://blog.hinshelwood.com/standard-environments-for-automated-deployment-and-testing/ "Standard Environments for Automated Deployment and Testing") against the cloud?
@@ -85,3 +88,4 @@ However after a little perseverance and clicking at just the right time to get o
 Now that we are configured we can head over to Microsoft Test Manager, switch to the Lab Centre and configure an environment.
 
 What did you do with your environments connected to TF Service?
+

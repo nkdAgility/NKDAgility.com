@@ -22,6 +22,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "project-of-projects-with-team-foundation-server-2010"
+
+aliases:
+  - /blog/project-of-projects-with-team-foundation-server-2010
 ---
 
 It is pretty much [accepted that you should use Areas](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.
@@ -128,3 +131,4 @@ It is really easy to both achieve and to stick to this format if you take the ti
 run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.
 
 **Let me know if you can think of any other things to make this easier.**
+

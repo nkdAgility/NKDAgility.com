@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "introducing-kanban-professional-scrum-teams"
+
+aliases:
+  - /blog/introducing-kanban-professional-scrum-teams
 ---
 
 A few weeks ago I was in Boston to visit the Scrum.org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new Professional Scrum training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the Kanban Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).
@@ -62,3 +65,4 @@ This is an implementation of Kanban within the context of Scrum and as such has 
 Working with [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/) has opened my eyes to throughput and how it can replace velocity and help answer many of the questions that I have been asking for some time. His training and this class made so much sense that I don't know why we have not yet adopted these practices in mainstream Scrum. I think that is time for a change.
 
 If you are interested in the same revelations that I had you can read the Guide, and if you like what you see then attend a [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class with [Chris McDermott](https://www.linkedin.com/in/chrisvmcd/) and I.
+

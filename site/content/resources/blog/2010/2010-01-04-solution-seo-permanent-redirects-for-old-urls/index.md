@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "solution-seo-permanent-redirects-for-old-urls"
+
+aliases:
+  - /blog/solution-seo-permanent-redirects-for-old-urls
 ---
 
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.
@@ -771,3 +774,4 @@ It may make more sense to return a single record and perform the replaces based 
 Caching is a difficult thing as it depends on the amount of data returned, but it can improve the speed.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [.NET](http://technorati.com/tags/.NET) [Software Development](http://technorati.com/tags/Software+Development) [CodeProject](http://technorati.com/tags/CodeProject) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "no-love-between-mcafee-enterprise-and-moss-2007"
+
+aliases:
+  - /blog/no-love-between-mcafee-enterprise-and-moss-2007
 ---
 
 Well I think I have found the root of the problem with my Microsoft office SharePoint Server 2007 dev box! It was McAfee  plain and simple.
@@ -41,3 +44,4 @@ Now, McAfee say that they support SharePoint Services 3.0, but MOSS has a bunch 
 Hopefully I can get this sorted soon.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

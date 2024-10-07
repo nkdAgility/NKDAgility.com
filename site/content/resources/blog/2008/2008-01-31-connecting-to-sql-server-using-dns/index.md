@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "connecting-to-sql-server-using-dns"
+
+aliases:
+  - /blog/connecting-to-sql-server-using-dns
 ---
 
 If you want to connect to a SQL server using DNS you will need to have both the "_SQL Server Browser_" service and an SPN setup in your domain to allow authentication.
@@ -55,3 +58,4 @@ I'm off to make a request for infrastructure to run this...![smile_speedy](image
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
+

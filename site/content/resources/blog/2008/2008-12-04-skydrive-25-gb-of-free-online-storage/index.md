@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "skydrive-25-gb-of-free-online-storage"
+
+aliases:
+  - /blog/skydrive-25-gb-of-free-online-storage
 ---
 
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)
@@ -72,3 +75,4 @@ Here is a comprehensive list of all [Windows Live services](http://home.live.com
    Store and share your business documents online—it’s quick, easy, and free.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

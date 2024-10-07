@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "linked-in-codeplex-developers-group"
+
+aliases:
+  - /blog/linked-in-codeplex-developers-group
 ---
 
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.
@@ -30,3 +33,4 @@ All members must be a Coordinator of at least one Codeplex project.
 **NOTE: All requests to join these groups will be checked before they will be approved. Please provide a link to your Codeplex profile.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

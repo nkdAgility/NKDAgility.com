@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london"
+
+aliases:
+  - /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 ---
 
 ![thumb_SharePoint_and_TFS_2010](images/SSWBrainQuestTeamFoundationServerandShar_955C-thumb_SharePoint_and_TFS_2010_-4-4.jpg)If you are unable to commit to the 5 day [Professional Scrum Developer](http://blog.hinshelwood.com/archive/2010/06/18/professional-scrum-developer-.net-training-in-london.aspx) course we are holding in London, [Adam Cogan](http://www.ssw.com.au/ssw/Employees/EmployeesProfile.aspx?EmpID=AC) is running his famous [Brain Quest](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx) 1 day session on Wednesday 21st July.
@@ -117,3 +120,4 @@ This is a good chance for you to consider new ways of using Office in your compa
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
 { .post-img }
+

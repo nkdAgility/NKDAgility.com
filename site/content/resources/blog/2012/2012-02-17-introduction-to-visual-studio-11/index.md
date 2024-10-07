@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "introduction-to-visual-studio-11"
+
+aliases:
+  - /blog/introduction-to-visual-studio-11
 ---
 
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).
@@ -51,3 +54,4 @@ And this just the beginning…
 - **Follow** [**http://blog.nwcadence.com**](http://blog.nwcadence.com) **for more posts…**
 
 There will be plenty more this month and after the [2012 MVP Global Summit](http://www.2012mvpsummit.com/) in a couple of weeks...
+

@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "testing-with-test-professional-2010-and-visual-studio-2010-ultimate"
+
+aliases:
+  - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 ---
 
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-1-1.png "NWC tagline logo_transparent")On Monday 24th October one of our consultants, Dan Wood, is presenting our course on Testing with Visual Studio ALM. The course is running on **Monday 24th October** and I managed to get NWC to provide 10 additional seats for you guys at the discounted rate.
@@ -63,3 +66,4 @@ Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 Remote Course Offering in Remote Course Offering  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=1210319097)](http://nwcadencetestcourse201110.eventbrite.com?ref=MrHinshBlog&discount=MrHinsh)
 
 This is a really worth while course that will help you get the most out of Test Professional. Dan is a fantastic teacher and will be giving energising sessions.
+

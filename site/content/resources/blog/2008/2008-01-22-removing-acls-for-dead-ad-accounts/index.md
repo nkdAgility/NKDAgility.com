@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "removing-acls-for-dead-ad-accounts"
+
+aliases:
+  - /blog/removing-acls-for-dead-ad-accounts
 ---
 
 [![image](images/RemovingACLsfordeadADaccounts_C3E6-image_thumb-5-5.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-RemovingACLsfordeadADaccounts_C3E6-image_2.png) I have run into a very vexing problem with one of my applications. I was asked to provide an application that would fin all of the permissions set against Active Directory accounts that have been since removed. These normally show up in the permissions dialogs for folders as the full SID of the account as there is no longer nay way to look it up in Active Directory.
@@ -57,3 +60,4 @@ This code should work, and I have used a similar piece to add permissions, so wh
 **UPDATE:** [**I have added a question about this to the MSDN Forums**](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2722189&SiteID=1&mode=1)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "requirement-management-in-the-modern-application-lifecycle"
+
+aliases:
+  - /blog/requirement-management-in-the-modern-application-lifecycle
 ---
 
 Managing requirements is hard and no single tool can tell you how to achieve that within your organisation. To that end, Visual Studio 2012 TFS stays out of the “where do your requirements come from” world and firmly in the “i have my requirements.. .what now?” world and indeed the tools built on top of the requirement management system stay in one niche.
@@ -192,3 +195,4 @@ More and more organisations are moving towards a more agile approach in order to
 Just look at [Brian Harry’s](http://blogs.msdn.com/b/bharry) recent post on the new [TFS Shipping Cadence](http://blogs.msdn.com/b/bharry/archive/2012/08/28/tfs-shipping-cadence.aspx) and I hope you will see that continuous deliver and the pursuit of tighter feedback loops is an inevitability not an optional exercise or a tend that will go away.
 
 The partners and products above will help you on that road to agility and bridge that gap between what you need to do and what the product does in your particular circumstances. Think of the tools above as extensions of Team Foundation Server tailored to fit a niche and indeed all of the above partner products are shipping simultaneously with Visual Studio 2012.
+

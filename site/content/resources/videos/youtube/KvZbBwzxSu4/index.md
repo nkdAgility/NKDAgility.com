@@ -3,7 +3,7 @@ title: "Unlocking Organizational Success - The Power of Shared Vision and Clear 
 date: 2024-08-08T06:45:00Z
 videoId: KvZbBwzxSu4
 url: /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
-external_url: https://www.youtube.com/watch?v=KvZbBwzxSu4
+canonicalUrl: https://www.youtube.com/watch?v=KvZbBwzxSu4
 coverImage: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: False

@@ -20,6 +20,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "do-you-have-a-contract-between-the-product-owner-and-the-team"
+
+aliases:
+  - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
 ---
 
 ![RulestoBetter](images/SSWScrumRules_C6B7-RulestoBetter_-3-3.gif)Working in Scrum it is useful to define a Sprint Contract between the Product Owner (PO) and the implementation Team. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.
@@ -44,3 +47,4 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 **Figure: Good Example, the product owner should reply to the team and commit to the contract**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

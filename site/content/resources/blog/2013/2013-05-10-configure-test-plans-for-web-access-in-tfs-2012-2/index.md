@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "configure-test-plans-for-web-access-in-tfs-2012-2"
+
+aliases:
+  - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
 ---
 
 Configure Test Plans for web access in TFS 2012.2 is a little tricky and we need to be very specific on how we configure it so that our Team can see the right test Plans.
@@ -148,3 +151,4 @@ I am finding fewer and fewer companies that are able to use Area Path for Team. 
 Note I am really hoping that the product team can fix Test Manager so that it supports ‘team field’ by the time that the [Blue wave of updates](http://www.zdnet.com/are-microsoft-updates-like-blue-really-more-than-service-packs-7000015219/) comes along. I don’t expect anything but a dirty fix (so we don’t have to edit the database) in the Update 3 timeframe,  but I am really hoping for a proper fix in Blue.
 
 Get used to the idea that you will likely need to work with a Team drop-down even though it adds come complexity.
+

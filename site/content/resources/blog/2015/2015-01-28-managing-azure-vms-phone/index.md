@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "managing-azure-vms-phone"
+
+aliases:
+  - /blog/managing-azure-vms-phone
 ---
 
 I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.
@@ -63,3 +66,4 @@ They will even try to figure out what the machines contained within the group wi
 This application is just perfect for what I am doing and I think if you have any azure assets it can be of use to you. If you are regularly stopping and starting machines or cloud services you can.
 
 I was able to turn all my D2 VM's that I used for a training session (7 machines) off on the way to the airport and saved more than the cost of the application.
+

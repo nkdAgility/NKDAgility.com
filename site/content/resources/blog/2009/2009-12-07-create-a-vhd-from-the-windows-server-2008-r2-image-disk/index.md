@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "create-a-vhd-from-the-windows-server-2008-r2-image-disk"
+
+aliases:
+  - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
 ---
 
 Previously I created this [the manual way](http://blog.hinshelwood.com/archive/2009/12/07/create-a-vhd-from-the-windows-7-image-disk.aspx), but if you have a fast internet connection and can take the 1.6gb download of the AIK, then this is a much easier way of getting started.
@@ -69,3 +72,4 @@ CSCRIPT WIM2VHD.WSF /WIM:I:sourcesinstall.wim /SKU:SERVERSTANDARD /VHD:D:WimBuil
 Make a copy of this file, and attach it to your boot list, and boot…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [SSW](http://technorati.com/tags/SSW)
+

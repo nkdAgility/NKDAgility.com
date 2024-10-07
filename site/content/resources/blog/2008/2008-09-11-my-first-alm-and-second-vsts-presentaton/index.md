@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "my-first-alm-and-second-vsts-presentaton"
+
+aliases:
+  - /blog/my-first-alm-and-second-vsts-presentaton
 ---
 
 It seams as if they went well! The plan of under preparing and over delivering worked a treat... Because I know the topics the lack of a prepared script allowed me to concentrate more on emparting knowlage and less on keeping to a set of arbitrary notes the go to pot as soon as the first question is asked.
@@ -24,3 +27,4 @@ Well, it has a lot more sales focus that I thought it did! This is not a bad thi
 We will see, I should here by early next week...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal)
+

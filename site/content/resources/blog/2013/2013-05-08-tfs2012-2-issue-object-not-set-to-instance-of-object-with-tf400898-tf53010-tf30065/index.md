@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065"
+
+aliases:
+  - /blog/tfs2012-2-issue-object-not-set-to-instance-of-object-with-tf400898-tf53010-tf30065
 ---
 
 You may get an exception when working with Areas or Teams in Team Foundation Server 2012.2 that results in an Object not set to instance of object with TF51011, TF400898, TF53010 & TF30065 errors.
@@ -140,3 +143,4 @@ As I had encountered this error before I knew there was a fix so I asked around 
 I have absolutely no problems recommending that my customer install [Visual Studio 2012 Update 3 RC 1 (KB2835600)](http://support.microsoft.com/kb/2835600). I have been using the go-live licence with customers for many years with few, but not no, issues. In fact I would say that I have had fewer issues with a TFS go-live version than with most other RTM’ed products.
 
 If you are installing the [Visual Studio 2012.3 (Update 3) “go-live” CTP](http://blogs.msdn.com/b/bharry/archive/2013/05/07/visual-studio-2012-3-update-3-go-live-ctp-is-now-available.aspx) then you just want to make sure that you test it first on a pre-production system and that you install the RTM upgrade as soon as it is available.
+

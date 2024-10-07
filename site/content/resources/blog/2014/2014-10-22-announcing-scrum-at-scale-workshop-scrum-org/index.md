@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "announcing-scrum-at-scale-workshop-scrum-org"
+
+aliases:
+  - /blog/announcing-scrum-at-scale-workshop-scrum-org
 ---
 
 If you are scaling agility in the enterprise through scrum then you will understand when I say that this can be a very difficult problem. And it's mostly about people and about culture and the [Scrum at Scale Workshop](http://nkdagility.com/training/courses/scrum-at-scale-workshop/) can help you.
@@ -36,3 +39,4 @@ This is why Scrum.org (Ken Schwaber) & Scrum Inc. (Jeff Sutherland) have joined 
 { .post-img }
 
 The first two ever public courses for Scrum at Scale is available: [https://www.scrum.org/courses/scrum-at-scale](https://www.scrum.org/courses/scrum-at-scale)
+

@@ -21,6 +21,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "i-messed-up-my-work-items-from-excel-what-now"
+
+aliases:
+  - /blog/i-messed-up-my-work-items-from-excel-what-now
 ---
 
 When you do a lot of editing in Excel you will sometimes make mistakes. If you are in the unfortunate situation that ended up publishing back changes to 100+ work items that you did not want to change then you can be in a world of hurt. I have a customer who has done just that and I thought some guidance on how to fix (mitigate) this situation will help everyone.
@@ -217,3 +220,4 @@ This is I guess of of the dangers of bulk editing in Excel and I really only use
 Oh, and I never use “Tree View”, and I have even more reason not to now.
 
 I hope this helps my customer and others who might end up in the same situation.
+

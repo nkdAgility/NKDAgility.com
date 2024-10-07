@@ -3,7 +3,7 @@ title: "Do you think we are on the slope of enlightenment in Gartner's Hype Cycl
 date: 2023-07-07T07:00:03Z
 videoId: 3NtGxZfuBnU
 url: /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
-external_url: https://www.youtube.com/watch?v=3NtGxZfuBnU
+canonicalUrl: https://www.youtube.com/watch?v=3NtGxZfuBnU
 coverImage: https://i.ytimg.com/vi/3NtGxZfuBnU/maxresdefault.jpg
 duration: 219
 isShort: False
@@ -13,11 +13,11 @@ isShort: False
 
 # Do you think we are on the slope of enlightenment in Gartner's Hype Cycle
 
-_Unveiling the True Path to Agile Enlightenment: Overcoming Disillusionment_
+*Unveiling the True Path to Agile Enlightenment: Overcoming Disillusionment*
 
 _Dive into the depths of Agile's transformative journey, discovering the real trajectory beyond the disillusionment and towards true enlightenment in our latest exploration._
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves deep into the Agile realm, addressing the pivotal question: are we truly ascending the slope of enlightenment, or are we still caught in the trough of disillusionment? 🤔💡🚀 With candid insights and real-world experiences, he dissects the fabric of Agile perceptions, debunking myths and setting realistic expectations. From the critique of popular frameworks like Scrum and SAFe to the promises of Agile 2.0, Martin engages in a frank conversation about the hard work required to achieve genuine Agile transformation.
 
@@ -27,7 +27,7 @@ In this video, Martin delves deep into the Agile realm, addressing the pivotal q
 00:01:37 People Over Tools: The Essence of Problem-Solving
 00:02:20 The Gradual Rise From Disillusionment to Enlightenment
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 Struggling to navigate through Agile's challenging landscape? My team at NKDAgility is poised to assist. Whether you're seeking expertise in Agile transformation, project management, or simply need a fresh perspective, we can connect you with the right consultant, coach, or trainer tailored to your needs. Don't let your organizational effectiveness be compromised by unresolved Agile challenges—find the support you need today!
 

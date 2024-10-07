@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "issue-tfs2012-2-tf30063-you-are-not-authorized-to-access"
+
+aliases:
+  - /blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 ---
 
 If you have TFS 2012 Update 2 (2012.2) installed you might get an error after you [move Team Foundation Server from one environment to another](http://msdn.microsoft.com/en-us/library/ms404883.aspx) (change domain.)
@@ -44,3 +47,4 @@ This is not one that I have encountered before and was at a loss to help the cus
 This bug is fixed in Team Foundation Server 2012.3. 2012.3 is currently  at RC2 but it does come with a Go-Live licence meaning that it is fully supported in production. After installing 2012.3 all of the problems went away and the server started functioning normally.
 
 Woot… yet another reason for 2012.3 and Go-Live…
+

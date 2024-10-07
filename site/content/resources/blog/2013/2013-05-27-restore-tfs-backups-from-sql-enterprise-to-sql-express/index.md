@@ -28,6 +28,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "restore-tfs-backups-from-sql-enterprise-to-sql-express"
+
+aliases:
+  - /blog/restore-tfs-backups-from-sql-enterprise-to-sql-express
 ---
 
 You can get an error when trying to restore TFS backups that certain features are only supported on SQL Server Enterprise Edition.
@@ -152,3 +155,4 @@ Woot.. now that I have removed that enterprise only feature SQL Express now no l
 ## Conclusion
 
 Although the enterprise features are useful at scale they can get in the way when you are tinkering or if your instance is just that small. If your TFS instance is small enough to go into SQL Express I would recommend using [http://tfs.visualstudio.com](http://tfs.visualstudio.com) instead as you will always have the latest features and someone else maintains your server.
+

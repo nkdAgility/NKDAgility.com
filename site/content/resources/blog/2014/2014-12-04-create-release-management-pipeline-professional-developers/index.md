@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "create-release-management-pipeline-professional-developers"
+
+aliases:
+  - /blog/create-release-management-pipeline-professional-developers
 ---
 
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.
@@ -330,3 +333,4 @@ Although it took me about 6-12 hours to get this all configured much of it was w
 Once you are done, however, there is a great sense of achievement of getting your application to deploy end to end. For my demo I plan to do a local change, test, and commit that triggers a release to feedback1. Then the tester verifies that what I have done is correct before the development team approve the release to feedback2. At this point the Product Owner solicits feedback from his stakeholders.
 
 I am looking forward to the demo and hope all goes well… my backup is the Brian Keller VM that can do end to end Fabrikam Fibre all built in… but not as much fun as VSO and RMO…
+

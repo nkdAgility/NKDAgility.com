@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-office-2013-on-windows-8"
+
+aliases:
+  - /blog/installing-office-2013-on-windows-8
 ---
 
 If you have not already seen the Office 2013 Preview has been made available on MSDN and on the Microsoft site. The install is ridiculously easy and includes Outlook 2013, Word 2013 and Communicator 2013. These tend to be the only parts of Office that I use, unless I an connecting to work item tracking in which case I would add Excel 2013 to that list.
@@ -73,3 +76,4 @@ I love the new feature of Office 2013 and its the spit and polish that makes me 
 { .post-img }
 
 **What do you think of Office 2013?**
+

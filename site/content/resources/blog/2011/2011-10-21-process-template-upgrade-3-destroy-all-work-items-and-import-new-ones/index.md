@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones"
+
+aliases:
+  - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 ---
 
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")
@@ -166,3 +169,4 @@ This will allow you to move from one process template to another, but there are 
        **Figure: Link Types only need to be added once**
 
 And you are done.
+

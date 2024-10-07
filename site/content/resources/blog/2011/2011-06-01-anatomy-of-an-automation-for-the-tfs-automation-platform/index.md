@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "anatomy-of-an-automation-for-the-tfs-automation-platform"
+
+aliases:
+  - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?
@@ -192,3 +195,4 @@ It should be possible for you to create iSubscribers, ITeamFoundationJobExtensio
 
 There is no reason not to extend TFS now and once the TFS Automation Platform releases there will be no need to ever install another extension again ![Smile](images/wlEmoticon-smile2-4-4.png) apart from the TFS Automation Platform itself…
 { .post-img }
+

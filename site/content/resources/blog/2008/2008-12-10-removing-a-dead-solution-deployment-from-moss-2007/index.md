@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "removing-a-dead-solution-deployment-from-moss-2007"
+
+aliases:
+  - /blog/removing-a-dead-solution-deployment-from-moss-2007
 ---
 
 If, like me, you tried to deploy a solution to Microsoft Office SharePoint Server 2007 and it ether failed or hung you will need to remove it somehow. But once the status has moved to “deploying”, if you receive an error like this:
@@ -37,3 +40,4 @@ Click the title to bring up the job definition and status and you should have th
 Once killed you can check the deployments page and you will see that there is nothing trying to “deploy”.
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "bug-in-observablecollection"
+
+aliases:
+  - /blog/bug-in-observablecollection
 ---
 
 I seam to be having a little problem. Now, this may be me being stupid, but I can't get an ObservableCollection to work if you pass it a generic type!
@@ -82,3 +85,4 @@ And then pass that class in it does work:
 Although this is a work around, it causes other problems in my code... Ahh well... worth a try...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "finding-features-conversations"
+
+aliases:
+  - /blog/finding-features-conversations
 ---
 
 Hey, well the dentist was fun! And I have had time to install Office 2010 on my wife's Windows 7 laptop. I will try to put together some of the interesting features…
@@ -39,3 +42,4 @@ And expanded
 Like I said… Nice…
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
+

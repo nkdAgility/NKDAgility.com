@@ -21,6 +21,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "release-management-with-team-foundation-server-2012"
+
+aliases:
+  - /blog/release-management-with-team-foundation-server-2012
 ---
 
 Northwest Cadence has been working hard with customers to improve their release management in Team Foundation Server 2012. While on the surface it looks like TFS 2012 has little in the way of support for release management, you would be wrong. There are many features in Team Foundation Server, many of them added in TFS 2010 that can aid you in creating a release management strategy.
@@ -128,3 +131,4 @@ This flow of building once and then repeated validation will help weed out those
 **How long is your release process?**
 
 **How sure are you of your quality?**
+

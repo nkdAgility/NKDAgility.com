@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work"
+
+aliases:
+  - /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 ---
 
 New with Visual Studio 2013 is the ability to manage portfolio backlogs to help you understand the scope of work that you have to do.
@@ -34,3 +37,4 @@ Don’t forget to [Get Visual Studio 2013 Team Foundation Server while its hot!]
 Go on.. be a kid again…
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://nkdagility.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/video-new-with-visual-studio-2013-manage-project-portfolios-to-understand-the-scope-of-work/))_
+

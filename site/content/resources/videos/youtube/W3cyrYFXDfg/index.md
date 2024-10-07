@@ -3,7 +3,7 @@ title: "Why is training such a critical element in a manager or leader's journey
 date: 2023-11-29T07:00:23Z
 videoId: W3cyrYFXDfg
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
-external_url: https://www.youtube.com/watch?v=W3cyrYFXDfg
+canonicalUrl: https://www.youtube.com/watch?v=W3cyrYFXDfg
 coverImage: https://i.ytimg.com/vi/W3cyrYFXDfg/maxresdefault.jpg
 duration: 205
 isShort: False
@@ -19,14 +19,14 @@ In this short video, Martin Hinshelwood explains why #training is critical for m
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

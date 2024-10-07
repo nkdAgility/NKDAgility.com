@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "scrum-tapas-scrum-continuous-delivery"
+
+aliases:
+  - /blog/scrum-tapas-scrum-continuous-delivery
 ---
 
 I get asked a lot at conferences and at customers how Scrum and Continuous Delivery can work together. The reality is that they complement each other and at the last Scrum.org F2F I sat down to make a little video on the way I think that it works.
@@ -29,3 +32,4 @@ Scrum Tapas is a series of short videos that give you a bite sized look into the
 \[[More Scrum Tapas](https://www.youtube.com/playlist?list=PLgDaZD8y4z0B4s9rR8-LtyA18DurYu-51)\]
 
 Also join me at [Agile In Africa 2017](http://agileinafrica.com/) in Ghana on October 23, 2017 for an awesome event.
+

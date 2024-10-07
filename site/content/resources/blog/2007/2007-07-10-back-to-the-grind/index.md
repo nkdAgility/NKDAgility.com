@@ -9,6 +9,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "back-to-the-grind"
+
+aliases:
+  - /blog/back-to-the-grind
 ---
 
 Well that's my paternity leave over, I cant believe that it has been two weeks! Well I got a gorgeous  baby girl out of it:
@@ -19,3 +22,4 @@ Well that's my paternity leave over, I cant believe that it has been two weeks! 
 But now it is time to get back to work...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

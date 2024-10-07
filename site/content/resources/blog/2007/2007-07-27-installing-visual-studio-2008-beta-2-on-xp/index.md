@@ -10,6 +10,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "installing-visual-studio-2008-beta-2-on-xp"
+
+aliases:
+  - /blog/installing-visual-studio-2008-beta-2-on-xp
 ---
 
 The first problem I have encountered in that in the past I have had various version of Office 2007 beta and other bits and bobs. You will need to remove these to install Visual Studio 2008 Beta 2.
@@ -35,3 +38,4 @@ Min resolution of 1900+
 **Any ideas?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

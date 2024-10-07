@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain"
+
+aliases:
+  - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 ---
 
 [![vs2010logo](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_thumb-22-22.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_2.png)I had a particularly complicated upgrade this time that required me to do two things:
@@ -171,3 +174,4 @@ After trying a while bunch of options including re-running everything from scrat
 - [Move Team Foundation Server from One Environment to Another](<http://msdn.microsoft.com/en-us/library/ms404883(v=VS.100).aspx>)
 
 BNX4P3AT2EP3
+

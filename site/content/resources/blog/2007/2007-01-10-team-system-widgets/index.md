@@ -8,6 +8,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "team-system-widgets"
+
+aliases:
+  - /blog/team-system-widgets
 ---
 
 I have found a site with a list of many of the [applications](http://accentient.com/widgets.aspx "Team System Widgets") available for Team System. It seams to be updated regularly and should help with some of the v1 shortcomings of team Foundation Server.
@@ -19,3 +22,4 @@ I am particularly interested in the [TeamPlain](http://www.devbiz.com/teamplain/
 Has anyone used TeamPain?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

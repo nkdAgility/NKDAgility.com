@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-event-handler-for-team-foundation-server-2010"
+
+aliases:
+  - /blog/tfs-event-handler-for-team-foundation-server-2010
 ---
 
 I am looking at re-working the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler and I was hoping that you would help me decide what handlers to build!
@@ -63,3 +66,4 @@ The Email handlers would not work so well in the Scrum environment, but what wou
 \[[Request an event handler](http://tfseventhandler.codeplex.com/WorkItem/Create.aspx?ProjectName=TFSEventHandler)\]
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Custom](http://technorati.com/tags/TFS+Custom)
+

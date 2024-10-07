@@ -3,6 +3,7 @@ $apiKey = $env:google_apiKey
 $channelId = "UCkYqhFNmhCzkefHsHS652hw"
 $outputDir = "site\content\resources\videos\youtube"
 $dataDirectory = ".\site\data"
+$refreshData = $false
 
 $maxResults = 50
 
@@ -24,7 +25,7 @@ function Update-YoutubeDataFiles {
         # Fetch video list
         $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
 
-        $dataFilePath = Join-Path $videoDir "youtube.json"
+        $dataFilePath = Join-Path $dataDirectory "youtube.json"
         $searchResponse | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
 
         foreach ($video in $searchResponse.items) {
@@ -39,14 +40,18 @@ function Update-YoutubeDataFiles {
             # File path for data.json
             $jsonFilePath = Join-Path $videoDir "data.json"
 
-            # Fetch full video details from YouTube API
-            $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?key=$apiKey&id=$videoId&part=snippet,contentDetails"
-            $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get
-            $videoData = $videoDetails.items[0]
+            if ($refreshData -or -not (Test-Path $jsonFilePath)) {
+                # Fetch full video details from YouTube API
+                $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?key=$apiKey&id=$videoId&part=snippet,contentDetails"
+                $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get
+                $videoData = $videoDetails.items[0]
 
-            # Save updated video data to data.json
-            $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePath
-            Write-Host "Updated data.json for video: $videoId"
+                # Save updated video data to data.json
+                $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePath
+                Write-Host "Updated data.json for video: $videoId"
+            } 
+
+           
         }
 
         # Get the nextPageToken to continue fetching more videos
@@ -58,33 +63,75 @@ function Update-YoutubeDataFiles {
 }
 
 # Function to generate markdown files from existing data.json files
-function Update-YoutubeMarkdownFiles {
+# Function to fetch video details from YouTube API and update data.json files for all videos
+function Update-YoutubeDataFiles {
     param ()
 
-    # Iterate through each video folder
-    Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
-        $videoDir = $_.FullName
-        $jsonFilePath = Join-Path $videoDir "data.json"
+    $nextPageToken = $null
 
-        if (Test-Path $jsonFilePath) {
-            # Load the video data from data.json
-            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
-            $videoId = $videoData.id
+    do {
+        # YouTube API endpoint to get videos from a channel, including nextPageToken
+        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
 
-            # Generate markdown content
-            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
+        # Fetch video list
+        $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
 
-            # Markdown file path inside the video ID folder
-            $filePath = Join-Path $videoDir "index.md"
+        $dataFilePath = Join-Path $dataDirectory "youtube.json"
+        $searchResponse | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
 
-            # Write the markdown content
-            Set-Content -Path $filePath -Value $markdownContent
-            Write-Host "Markdown created for video: $($videoData.snippet.title)"
+        foreach ($video in $searchResponse.items) {
+            $videoId = $video.id.videoId
+
+            # Call the new function to update the data for a single video
+            Update-YoutubeDataFile -videoId $videoId -outputDir $outputDir -refreshData $refreshData
         }
+
+        # Get the nextPageToken to continue fetching more videos
+        $nextPageToken = $searchResponse.nextPageToken
+
+    } while ($nextPageToken)
+
+    Write-Host "All video data files updated."
+}
+
+# Function to update data.json for a single video
+function Update-YoutubeDataFile {
+    param (
+        [string]$videoId
+
+    )
+
+    # Create the directory named after the video ID
+    $videoDir = Join-Path $outputDir $videoId
+    if (-not (Test-Path $videoDir)) {
+        New-Item -Path $videoDir -ItemType Directory
     }
 
-    Write-Host "All markdown files updated."
+    # File path for data.json
+    $jsonFilePath = Join-Path $videoDir "data.json"
+
+    # Only update if $refreshData is true or data.json doesn't exist
+    if ($refreshData -or -not (Test-Path $jsonFilePath)) {
+        # Fetch full video details from YouTube API
+        $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?key=$apiKey&id=$videoId&part=snippet,contentDetails"
+        $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get
+        $videoData = $videoDetails.items[0]
+
+        if ($videoData) {
+            # Save updated video data to data.json
+            $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePath
+            Write-Host "Updated data.json for video: $videoId"
+        }
+        else {
+            Write-Host "No data found for video: $videoId"
+        }
+    }
+    else {
+        Write-Host "Data for video $videoId is already up to date."
+    }
 }
+
+
 
 # Function to generate markdown content for a video
 function Get-NewMarkdownContents {
@@ -145,6 +192,10 @@ $fullDescription
 "@
 }
 
+
+
 # Main calls
-#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+#Update-YoutubeDataFile ""
+
+Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

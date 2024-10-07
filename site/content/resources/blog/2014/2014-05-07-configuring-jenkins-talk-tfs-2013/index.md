@@ -15,6 +15,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "configuring-jenkins-talk-tfs-2013"
+
+aliases:
+  - /blog/configuring-jenkins-talk-tfs-2013
 ---
 
 I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.
@@ -95,3 +98,4 @@ Things we loose by not using TF Build:
 - **Manual Tests associated with a Build** – If test results are associated with a build you can see, dynamically, the current state of your test plan, build on build.
 
 If you only get your Source into TFS then that is just the first step. A necessary one, but only the first.
+

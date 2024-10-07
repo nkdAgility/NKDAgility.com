@@ -3,7 +3,7 @@ title: "Silence! 7 Harbingers agile apocalypse."
 date: 2023-10-23T11:00:23Z
 videoId: YuKD3WWFJNQ
 url: /resources/videos/silence!-7-harbingers-agile-apocalypse-
-external_url: https://www.youtube.com/watch?v=YuKD3WWFJNQ
+canonicalUrl: https://www.youtube.com/watch?v=YuKD3WWFJNQ
 coverImage: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 isShort: False
@@ -13,9 +13,9 @@ isShort: False
 
 # Silence! 7 Harbingers agile apocalypse.
 
-_Breaking the silence in agile teams!_ Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews.
+Breaking the silence in agile teams! Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews. 
 
-_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🧔 delves into the world of agile teams, unearthing the pitfalls of silence and the art of effective stakeholder communication. 🗣️🤝 Join him as he shares insights on avoiding misdirection and ensuring alignment with business objectives. 🎯
 
@@ -41,12 +41,12 @@ Part 5: https://youtu.be/vhBsAXev014
 Part 6: https://youtu.be/FdQpGx-FW-0
 Part 7: https://youtu.be/UeisJt8U2_0
 
-_NKDAgility can help!_
+NKD Agility can help!
 
-Facing challenges with stakeholder engagement or navigating the complexities of Sprint reviews? My team at NKDAgility can offer solutions tailored to your needs, ensuring your team remains on track. Don't let these issues undermine your value delivery. Take action now!
+Facing challenges with stakeholder engagement or navigating the complexities of Sprint reviews? My team at NKD Agility can offer solutions tailored to your needs, ensuring your team remains on track. Don't let these issues undermine your value delivery. Take action now!
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses_
+You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
+Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
 
 Because you don't just need agility, you need Naked Agility.
 

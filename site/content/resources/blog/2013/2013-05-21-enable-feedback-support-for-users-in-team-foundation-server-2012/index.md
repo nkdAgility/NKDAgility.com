@@ -18,6 +18,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "enable-feedback-support-for-users-in-team-foundation-server-2012"
+
+aliases:
+  - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
 ---
 
 The focus of this article is to show you how to easily enable feedback support for users in Team Foundation Server 2012 with a few simple permissions. This works great with Team Foundation Server and even better with Team Foundation Service.
@@ -112,3 +115,4 @@ With the added bonus of zero licensing requirements in order to provide feedback
 **Warning: always back up your data before attempting any changes.**
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/enable-feedback-support-for-users-in-team-foundation-server-2012/))_
+

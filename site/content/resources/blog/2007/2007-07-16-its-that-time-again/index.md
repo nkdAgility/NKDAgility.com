@@ -11,6 +11,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "its-that-time-again"
+
+aliases:
+  - /blog/its-that-time-again
 ---
 
 With a new baby, new mortgage rate and declining job satisfaction I am getting that itchy feeling in my feet. There was a time that I was allowed to Code for a living and not just support applications and document deployment strategies. I have ended up filling my free time with my love of Coding and now, with the new baby, I find that my free time is drying up.
@@ -26,3 +29,4 @@ Is anyone out there on the look out for a Senior .NET Developer with the skills 
 **How did you get into contracting?**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007)
+

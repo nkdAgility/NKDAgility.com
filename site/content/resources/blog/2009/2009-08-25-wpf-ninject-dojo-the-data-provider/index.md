@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "wpf-ninject-dojo-the-data-provider"
+
+aliases:
+  - /blog/wpf-ninject-dojo-the-data-provider
 ---
 
 You have probably heard me go on about Unity a couple of times:
@@ -137,3 +140,4 @@ To get this working I needed to add an instance of an IKernel object to the “A
 Start your [Ninja training](http://dojo.ninject.org/) today!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
+

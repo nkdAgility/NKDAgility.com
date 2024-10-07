@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes"
+
+aliases:
+  - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 ---
 
 It is finally here… just a short time ago Google enabled the ability to have Google Profiles and by extension Google+ on your customer Google Apps domain. However, you first need to enable it before you can use it.
@@ -43,3 +46,4 @@ Here are the same steps that I show in the video in more detail.
 Go fourth and circle your friends, and remember that [Dustin Hoffman first posited the idea of circles](http://www.youtube.com/watch?v=Kznd0zrSJ2c).
 
 http://www.youtube.com/watch?v=Kznd0zrSJ2c
+

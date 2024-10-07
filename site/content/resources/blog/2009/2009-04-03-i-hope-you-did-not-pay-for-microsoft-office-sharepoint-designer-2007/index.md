@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007"
+
+aliases:
+  - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 ---
 
 Coz its now free…
@@ -23,3 +26,4 @@ Head over to the Microsoft Download site and get your copy:
 Well, no more problems trying to persuade the business to buy it for users :)
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+

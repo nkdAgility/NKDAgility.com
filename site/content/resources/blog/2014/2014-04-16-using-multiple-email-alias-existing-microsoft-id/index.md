@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "using-multiple-email-alias-existing-microsoft-id"
+
+aliases:
+  - /blog/using-multiple-email-alias-existing-microsoft-id
 ---
 
 Did you know that you can have multiple email alias associated with an existing Microsoft ID (formally Live ID). The first thing that you should do if you receive a new email address, wither corporate or personal, is associate it with your current Microsoft ID.
@@ -65,3 +68,4 @@ I have not determined how long it takes to 'close account' but so far I can't re
 ## Conclusion
 
 There is now no reason to end up in the multi-account nightmare that many of my colleagues have allowed to happen. You can maintain the minimum you need to get the job done and even switch the primary email.
+

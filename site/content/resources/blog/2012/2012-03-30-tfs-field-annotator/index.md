@@ -16,6 +16,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "tfs-field-annotator"
+
+aliases:
+  - /blog/tfs-field-annotator
 ---
 
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…
@@ -68,3 +71,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
+

@@ -12,6 +12,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "xbox-360-elite"
+
+aliases:
+  - /blog/xbox-360-elite
 ---
 
 Wohoo, I traded my sometimes crashing Xbox 360 in for an Xbox 360 Elite in Saturday. Over the last two weeks I have been playing Bioshock to death, but the crashing finaly anoyed me enough to get it sorted.
@@ -23,3 +26,4 @@ To sweeten the deal, I got Medal of Honor: Airbourn for a tenner and ponied up f
 I love my Xbox :)
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
+

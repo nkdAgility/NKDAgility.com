@@ -24,6 +24,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "how-visual-studio-2010-and-team-foundation-server-enable-compliance"
+
+aliases:
+  - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
 ---
 
 [![Visual Studio 2010 ALM with the word Audit stamped accross it](images/Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_thumb-5-29-29.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Deep-traceability-in-Team-Foundation-Ser_7737-vs2010AuditLogo_2.png)
@@ -286,3 +289,4 @@ Although there is some crossover there are still rolls or “hats” that are wo
 
 - **Do you thing this is all achievable?**
 - **Have I missed anything that you think should be there?**
+

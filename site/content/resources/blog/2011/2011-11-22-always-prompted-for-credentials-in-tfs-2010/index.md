@@ -14,6 +14,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "always-prompted-for-credentials-in-tfs-2010"
+
+aliases:
+  - /blog/always-prompted-for-credentials-in-tfs-2010
 ---
 
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)
@@ -75,3 +78,4 @@ But, sometimes you get a less than prompt response. How can I solve this in the 
 6. Close all instances of Internet Explorer
 
 Now when you open IE and go to any address that contains your company domain it will automatically pass through your Active Directory identity.
+

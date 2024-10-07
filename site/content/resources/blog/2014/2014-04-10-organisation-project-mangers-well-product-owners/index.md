@@ -17,6 +17,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "organisation-project-mangers-well-product-owners"
+
+aliases:
+  - /blog/organisation-project-mangers-well-product-owners
 ---
 
 This is the dysfunction of teams with Project Managers as well as Product Owners. Does your organisation have both Project Mangers as well as Product Owners? If so, to whom do your teams report? What does it depend on? Because if it does depend then you are doing a disservice to your teams and will have difficulty moving towards greater agility. I have a customer right now that has this situation with cross application teams however there are additional complications.
@@ -46,3 +49,4 @@ Figure: Product Owner provides a single point of order
 The only way to combat this is to reorganise the organisation so that the issue does not exist. You should reform the Teams around the Product Owners (and thus the products.) The Project Managers then become another set of stakeholders that the Product Owner must listen to. This is the only way to reach agility with all of those voices pulling the team is different directions.
 
 However the customer is large, which is no excuse. However in large organisations these kinds of things do not change quickly. It will eventually, but that may take many years and a lot of courage from management to achieve. In the mean time you, like me, may still need still need to model this is TFS to allow Teams and Product Owners to work together and for Project Managers to understand the work that they are doing.
+

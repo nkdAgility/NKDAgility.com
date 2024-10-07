@@ -3,7 +3,7 @@ title: "5 things you would teach a productowner apprentice. Part 2"
 date: 2023-12-14T06:45:02Z
 videoId: Tye_-FY7boo
 url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-2
-external_url: https://www.youtube.com/watch?v=Tye_-FY7boo
+canonicalUrl: https://www.youtube.com/watch?v=Tye_-FY7boo
 coverImage: https://i.ytimg.com/vi/Tye_-FY7boo/maxresdefault.jpg
 duration: 293
 isShort: False

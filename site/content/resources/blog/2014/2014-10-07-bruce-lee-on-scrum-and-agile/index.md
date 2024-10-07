@@ -13,6 +13,9 @@ author: "MrHinsh"
 layout: blog
 resourceType: blog
 slug: "bruce-lee-on-scrum-and-agile"
+
+aliases:
+  - /blog/bruce-lee-on-scrum-and-agile
 ---
 
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.
@@ -35,3 +38,4 @@ There are wise people in this world and that wisdom often transcends the topic t
 This is almost the quantification of what Scrum and Agile should mean to the people within your organization. Use it as a tool to aid in your movement towards a state within which you have your own tailored and adaptive process.
 
 A process that allows your organization to continuously delight your customers.
+
