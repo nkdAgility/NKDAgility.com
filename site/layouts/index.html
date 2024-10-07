@@ -1,15 +1,15 @@
 {{ define "headline" }}
   <section class="container my-5">
-    <div class="row p-5">
-      <div class="col-md-6">
+    <div class="row p-2 p-lg-6">
+      <div class="col-md-6 p-lg-3">
         <h1 class="mb-4 nkda-heading-primary">The home of technical leadership and engneering excelance for software development teams.</h1>
         <h2 class="mb-4 nkda-heading-secondary">We emphasize first principles over process dogma and demonstrate value through measurable outcomes.</h2>
-        <p class="mb-4"><strong>We are internationally recognized experts who help companies become more effective at building software.</strong></p>
-        <p class="mb-4">We will guide you in moving to a multi-method approach to agility that goes beyond a simple defined process, evolving into something more co-adaptive, providing a better flow of value for your stakeholders.</p>
+        <p class="mb-4 d-none d-sm-block"><strong>We are internationally recognized experts who help companies become more effective at building software.</strong></p>
+        <p class="mb-4 d-none d-sm-block">We will guide you in moving to a multi-method approach to agility that goes beyond a simple defined process, evolving into something more co-adaptive, providing a better flow of value for your stakeholders.</p>
         <p>Our expertise in Lean, Agile, DevOps, Scrum, and Kanban helps you optimize value for your customers and maximize your revenue. Our deep technical knowledge of Azure DevOps, .NET, Azure, and AI enables better decision-making and support.</p>
       </div>
-      <div class="col-md-6">
-        <div class="row p-5">
+      <div class="col-md-6 p-lg-3 d-none d-sm-block">
+        <div class="row">
           <div class="col-12">
             <div class="card text-center card-left-border">
               <div class="card-body">
@@ -23,14 +23,12 @@
           </div>
         </div>
         <div class="row p-5">
-          <div class="col-4 p-2"><img src="images/PST-Badge-v2-web-transparent.webp" width="100%" /></div>
-          <div class="col-4 p-2"><img src="images/MVP_Horizontal_FullColor.webp" width="100%" /></div>
-          <div class="col-4 p-2"><img src="images/PK-Email@0.5x-1.png" width="100%" /></div>
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="images/PST-Badge-v2-web-transparent.webp" width="100%" /></div>
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="images/MVP_Horizontal_FullColor.webp" width="100%" /></div>
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="images/PK-Email@0.5x-1.png" width="100%" /></div>
         </div>
       </div>
     </div>
-  </section>
-  <section class="container my-5">
     {{ partial "headline.html" . }}
   </section>
 {{ end }}
@@ -51,12 +49,6 @@
     {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") . }}
   </section>
   <section class="container my-5">
-    <h2 title="methods - How we do it?">How we do it?</h2>
-    <p>ssdsd.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "methods") . }}
-  </section>
-
-  <section class="container my-5">
     <h2 title="People - Who are we?">Who are we?</h2>
     <p>
       At NKD Agility, we unite a team of the world’s most seasoned and dynamic Agile coaches, consultants, Professional Scrum Trainers, and Kanban experts, who are globally respected for mastering Agile in some of the most challenging Agile environments
@@ -64,11 +56,4 @@
     </p>
     {{ partial "cards-section.html" (dict "context" . "SectionName" "company/people") . }}
   </section>
-  <hr />
-  <h1>List of Sections</h1>
-  <ul>
-    {{ range .Site.Sections }}
-      <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .RelPermalink }}</li>
-    {{ end }}
-  </ul>
 {{ end }}

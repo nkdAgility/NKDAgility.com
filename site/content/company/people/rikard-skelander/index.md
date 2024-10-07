@@ -40,13 +40,9 @@ sections:
 card:
   title: Rikard Skelander
   content: |-
-    <strong>Trainer &amp; Coach</strong>
+    **Scrum Master, Trainer, & Coach**
 
     (Professional) Scrum Master | Agile Coach | Agile Kata Pro Trainer
-
-    &nbsp;
-
-    &nbsp;
   button:
     content: More info
 ---

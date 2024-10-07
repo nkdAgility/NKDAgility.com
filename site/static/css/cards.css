@@ -44,3 +44,34 @@ color: white;
 .card-left-border {
   border-left: 8px solid var(--secondary-color)
 }
+
+
+  /* When expanded, show all paragraphs */
+  .card.expanded .card-text p {
+    display: block;
+  }
+
+  /* Limit the initial height */
+  .card-text-expander {
+    overflow: hidden;
+  }
+  
+  /* Expand when the card is clicked */
+  .card.expanded .card-text-expander {
+    max-height: none; /* Remove height restriction when expanded */
+  }
+
+    /* Hide all paragraphs except the first */
+    .card:not(.expanded) .card-text-expander p:not(:first-child) {
+      display: none;
+    }
+  
+  
+  .show-more {
+    cursor: pointer;
+    color: #007bff;
+    text-decoration: underline;
+    display: inline-block;
+    margin-top: 10px;
+    display: none;
+  }
