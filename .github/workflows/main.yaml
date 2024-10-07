@@ -106,11 +106,6 @@ jobs:
               }
               default {
                   $Ring = "Canary";
-                  if ($env:GITHUB_EVENT_NAME -eq "pull_request") {
-                    Write-Host "This is a Pull Request"
-                  } else {
-                    Write-Host "This is NOT a Pull Request"
-                  }
                   $AzureSitesEnvironment = "canary-" ${{ github.event.pull_request.number }}
                   $docs_baseURL = "/canary/$branchSafeName"
               }
