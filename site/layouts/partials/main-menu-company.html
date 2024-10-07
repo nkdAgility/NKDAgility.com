@@ -1,4 +1,5 @@
-{{ $people := .Site.GetPage "section" "company/people" }} {{ $company := .Site.GetPage "section" "company" }}
+{{ $people := .Site.GetPage "section" "company/people" }}
+{{ $company := .Site.GetPage "section" "company" }}
 <li class="nav-item dropdown dropdown-mega position-static">
   <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $company.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $company.Title }}</a>
   <div class="dropdown-menu shadow">
@@ -8,14 +9,17 @@
           <div class="col-md-4">
             <h5>{{ $company.Title }}</h5>
             <p>{{ $company.Description }}</p>
+            <a href="{{ $company.Permalink }}">Overview</a>
           </div>
           <div class="col-md-8">
             <ul class="list-group">
-              {{ range $people.Pages }} {{ if not .Draft }}
-              <li class="list-group-item">
-                <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
-              </li>
-              {{ end }} {{ end }}
+              {{ range $people.Pages }}
+                {{ if not .Draft }}
+                  <li class="list-group-item">
+                    <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
+                  </li>
+                {{ end }}
+              {{ end }}
             </ul>
           </div>
         </div>
