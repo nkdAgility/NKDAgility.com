@@ -11,9 +11,9 @@ id: "51494"
 type: outcomes
 card:
   title: Increase Team Effectiveness
-  content: <p>Elevate your project management and operational efficiency with our top-tier Agile and DevOps strategies. Streamline your workflows, reduce time to deployment, and ensure superior product quality through continuous feedback and adaptive planning. Ready to transform your team into a high-performing powerhouse? Our tools and methodologies are your gateway to enhanced productivity and innovation.</p>
+  content: Elevate your project management and operational efficiency with our top-tier Agile and DevOps strategies. Streamline your workflows, reduce time to deployment, and ensure superior product quality through continuous feedback and adaptive planning. Ready to transform your team into a high-performing powerhouse? Our tools and methodologies are your gateway to enhanced productivity and innovation.
   button:
-    content: <p>Start Optimizing Now</p>
+    content: Start Optimizing Now
 headline:
   title: Improve your team effectiveness continuously!
   cards:
