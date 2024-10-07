@@ -3,7 +3,7 @@ title: "Business Agility Raw! - Ask me Anything Lean Coffee with Martin Hinshelw
 date: 2022-07-27T18:45:14Z
 videoId: bvCU_N6iY_4
 url: /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
-external_url: https://www.youtube.com/watch?v=bvCU_N6iY_4
+canonicalUrl: https://www.youtube.com/watch?v=bvCU_N6iY_4
 coverImage: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: True
@@ -25,6 +25,6 @@ Topics from the last session:
 ♦ When do you split a Scrum team? When do you merge Scrum teams?
 ♦ Any advice on how to write good PBIs?
 
-RSVP, Join the Community, and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z
+RSVP, Join the Community,  and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bvCU_N6iY_4)

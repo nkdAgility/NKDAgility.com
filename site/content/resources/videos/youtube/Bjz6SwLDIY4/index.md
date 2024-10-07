@@ -3,7 +3,7 @@ title: "The art of life lies in a constant readjustment to our surroundings"
 date: 2024-01-19T06:08:37Z
 videoId: Bjz6SwLDIY4
 url: /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
-external_url: https://www.youtube.com/watch?v=Bjz6SwLDIY4
+canonicalUrl: https://www.youtube.com/watch?v=Bjz6SwLDIY4
 coverImage: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
 duration: 344
 isShort: False
@@ -13,18 +13,18 @@ isShort: False
 
 # The art of life lies in a constant readjustment to our surroundings
 
-_Adapting to Change: The Key to Business Success_ - In today's fast-paced world, it's essential for businesses to constantly adapt to their surroundings in order to succeed. 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+Adapting to Change: The Key to Business Success - In today's fast-paced world, it's essential for businesses to constantly adapt to their surroundings in order to succeed. 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
 In this video, we discuss the importance of adaptation and how it applies to both individuals and businesses. We explore how change is a constant factor in our lives and how we, as humans, have a default behaviour to adapt to these changes. 🌎
 
-_Key Takeaways:_
+Key Takeaways:
 00:00:03 Adaptation
 00:00:19 Change
 00:00:42 Business Ecosystem
 00:01:30 Competition
 00:02:18 COVID-19 Impact
 
-_NKDAgility can help!_
+NKDAgility can help!
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to adapt to change, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

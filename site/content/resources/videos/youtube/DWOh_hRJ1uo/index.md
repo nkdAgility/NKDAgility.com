@@ -3,7 +3,7 @@ title: "What is your best advice for becoming a scrum master outside of software
 date: 2023-03-08T07:00:04Z
 videoId: DWOh_hRJ1uo
 url: /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
-external_url: https://www.youtube.com/watch?v=DWOh_hRJ1uo
+canonicalUrl: https://www.youtube.com/watch?v=DWOh_hRJ1uo
 coverImage: https://i.ytimg.com/vi/DWOh_hRJ1uo/maxresdefault.jpg
 duration: 202
 isShort: False
@@ -13,20 +13,20 @@ isShort: False
 
 # What is your best advice for becoming a scrum master outside of software engineering?
 
-_Mastering Scrum Mastery: Beyond Software Engineering_ - Discover the journey to becoming a Scrum Master in any field, not just software. Dive into the essentials of understanding and leading teams effectively. 🚀
+*Mastering Scrum Mastery: Beyond Software Engineering* - Discover the journey to becoming a Scrum Master in any field, not just software. Dive into the essentials of understanding and leading teams effectively. 🚀 
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the intriguing world of Scrum Mastership beyond the realm of software engineering. 🌍 He shares insightful tips and strategies for those aspiring to lead teams in various sectors, emphasizing the importance of understanding the team's work and domain experience. 🛠️ Whether you're from accounting, marketing, or any other field, this video is your guide to excelling in Scrum leadership roles. 📈
 
-_Key Takeaways:_
+*Key Takeaways:*
 00:00:09 Becoming a Scrum Master Outside Software
 00:00:25 Understanding Your Team's Work
 00:00:42 The Role of Domain Experience
 00:01:23 Transitioning from Accounting to Scrum Master
 00:02:31 Building Leadership in Your Field
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to adapt Scrum principles outside the IT world, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

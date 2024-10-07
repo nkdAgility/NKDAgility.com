@@ -3,7 +3,7 @@ title: "How good is the PSPO-A course in helping determine product direction?"
 date: 2023-03-22T07:00:17Z
 videoId: nTxn_izPBFQ
 url: /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
-external_url: https://www.youtube.com/watch?v=nTxn_izPBFQ
+canonicalUrl: https://www.youtube.com/watch?v=nTxn_izPBFQ
 coverImage: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: False
@@ -21,15 +21,15 @@ How do you become a product leader rather than a process leader? In this short v
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

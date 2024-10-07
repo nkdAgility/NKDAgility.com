@@ -3,7 +3,7 @@ title: "The Kanban Key - How Continuous Improvement Transforms Your Workflow"
 date: 2024-08-19T06:45:02Z
 videoId: hBw4ouNB1U0
 url: /resources/videos/the-kanban-key-how-continuous-improvement-transforms-your-workflow
-external_url: https://www.youtube.com/watch?v=hBw4ouNB1U0
+canonicalUrl: https://www.youtube.com/watch?v=hBw4ouNB1U0
 coverImage: https://i.ytimg.com/vi/hBw4ouNB1U0/maxresdefault.jpg
 duration: 50
 isShort: True

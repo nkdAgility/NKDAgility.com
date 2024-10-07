@@ -146,5 +146,5 @@ $fullDescription
 }
 
 # Main calls
-#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
 Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

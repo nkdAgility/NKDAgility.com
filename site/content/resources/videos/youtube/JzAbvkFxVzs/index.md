@@ -3,7 +3,7 @@ title: "5 ghosts of agile past - dogma"
 date: 2024-01-03T07:00:13Z
 videoId: JzAbvkFxVzs
 url: /resources/videos/5-ghosts-of-agile-past-dogma
-external_url: https://www.youtube.com/watch?v=JzAbvkFxVzs
+canonicalUrl: https://www.youtube.com/watch?v=JzAbvkFxVzs
 coverImage: https://i.ytimg.com/vi/JzAbvkFxVzs/maxresdefault.jpg
 duration: 299
 isShort: False
@@ -13,20 +13,20 @@ isShort: False
 
 # 5 ghosts of agile past - dogma
 
-_Agility Unleashed: Embracing Pragmatism Over Dogmatism in Agile Teams_ - Discover the crucial balance between pragmatism and pedantry in Agile practices. Dive into real-world insights and stories for effective team management.
+Agility Unleashed: Embracing Pragmatism Over Dogmatism in Agile Teams - Discover the crucial balance between pragmatism and pedantry in Agile practices. Dive into real-world insights and stories for effective team management.
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin explores the often-overlooked aspect of Agile practices – the tension between dogmatic adherence and pragmatic flexibility. 🔄 He shares compelling stories, including one about a Scrum Master who learned the hard way the importance of adaptability over rigid rules. 📜🤔 Martin emphasizes the value of understanding and applying Agile principles contextually, ensuring that teams are not just following rules, but are genuinely agile and responsive to their unique circumstances. 💡👥
 
-_Key Takeaways:_
+Key Takeaways:
 00:00:00 Introduction to Agility's Ghosts
 00:00:20 Pragmatism vs Dogmatism in Agile
 00:01:47 Story of a Fired Scrum Master
 00:02:56 The Importance of Flexibility in Agile
 00:03:49 Pedantic vs Pragmatic Approaches
 
-_NKDAgility can help!_
+NKDAgility can help!
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to balance dogmatism and pragmatism in Agile, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

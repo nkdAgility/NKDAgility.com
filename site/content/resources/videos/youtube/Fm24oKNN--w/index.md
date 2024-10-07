@@ -3,7 +3,7 @@ title: "nkdAgility Healthgrades Interview CJSingh"
 date: 2017-07-27T18:16:30Z
 videoId: Fm24oKNN--w
 url: /resources/videos/nkdagility-healthgrades-interview-cjsingh
-external_url: https://www.youtube.com/watch?v=Fm24oKNN--w
+canonicalUrl: https://www.youtube.com/watch?v=Fm24oKNN--w
 coverImage: https://i.ytimg.com/vi/Fm24oKNN--w/maxresdefault.jpg
 duration: 279
 isShort: False

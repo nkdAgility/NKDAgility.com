@@ -3,23 +3,23 @@ title: "5 ghosts of agile past. certification"
 date: 2023-12-28T08:40:54Z
 videoId: _5daB0lJpdc
 url: /resources/videos/5-ghosts-of-agile-past-certification
-external_url: https://www.youtube.com/watch?v=_5daB0lJpdc
+canonicalUrl: https://www.youtube.com/watch?v=_5daB0lJpdc
 coverImage: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 isShort: False
 ---
 
-# 5 ghosts of agile past. certification
-
 {{< youtube _5daB0lJpdc >}}
 
-_*Debunking Agile Certifications: A Realistic Look at Their Impact*_ - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world.
+# 5 ghosts of agile past. certification
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+Debunking Agile Certifications: A Realistic Look at Their Impact - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world. 
+
+Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 🎬 In this video, Martin takes a deep dive into the controversial topic of agile certifications. 🤔 He challenges common perceptions and sheds light on how these certifications might be hindering rather than helping. Watch as he provides a unique perspective on the actual value of certifications in professional development and learning within the agile field. 🌟
 
-_Key Takeaways:_
+Key Takeaways:
 00:00:00 Introduction to Agile Certifications
 00:00:22 Impact of Certifications on Learning
 00:01:02 Certifications as a Starting Point
@@ -27,7 +27,7 @@ _Key Takeaways:_
 00:03:01 Becoming a Scrum Master
 00:05:21 Overcoming the Agile Certification Ghost
 
-_NKDAgility can help!_
+NKDAgility can help!
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to understand the real value of agile certifications_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

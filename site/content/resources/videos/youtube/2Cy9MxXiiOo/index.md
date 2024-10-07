@@ -3,7 +3,7 @@ title: "What is a sprint goal?"
 date: 2023-05-31T11:00:01Z
 videoId: 2Cy9MxXiiOo
 url: /resources/videos/what-is-a-sprint-goal-
-external_url: https://www.youtube.com/watch?v=2Cy9MxXiiOo
+canonicalUrl: https://www.youtube.com/watch?v=2Cy9MxXiiOo
 coverImage: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
 duration: 47
 isShort: True
@@ -19,15 +19,15 @@ In this short video, Martin Hinshelwood explains what a sprint goal is, why it m
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

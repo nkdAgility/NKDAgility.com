@@ -3,7 +3,7 @@ title: "Slaying the dragons and how to successfully descale at scale with BCS & 
 date: 2020-03-25T21:07:01Z
 videoId: i_DglXgaePM
 url: /resources/videos/slaying-the-dragons-and-how-to-successfully-descale-at-scale-with-bcs-&-fows
-external_url: https://www.youtube.com/watch?v=i_DglXgaePM
+canonicalUrl: https://www.youtube.com/watch?v=i_DglXgaePM
 coverImage: https://i.ytimg.com/vi/i_DglXgaePM/maxresdefault.jpg
 duration: 5631
 isShort: False

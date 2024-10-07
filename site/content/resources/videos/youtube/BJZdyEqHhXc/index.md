@@ -3,7 +3,7 @@ title: "NKD Agility Consulting Approach"
 date: 2024-05-09T06:45:00Z
 videoId: BJZdyEqHhXc
 url: /resources/videos/nkd-agility-consulting-approach
-external_url: https://www.youtube.com/watch?v=BJZdyEqHhXc
+canonicalUrl: https://www.youtube.com/watch?v=BJZdyEqHhXc
 coverImage: https://i.ytimg.com/vi/BJZdyEqHhXc/maxresdefault.jpg
 duration: 271
 isShort: False

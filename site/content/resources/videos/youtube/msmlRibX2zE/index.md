@@ -3,7 +3,7 @@ title: "Harris Beach SDS Ultrabook Unbox"
 date: 2013-07-25T19:42:35Z
 videoId: msmlRibX2zE
 url: /resources/videos/harris-beach-sds-ultrabook-unbox
-external_url: https://www.youtube.com/watch?v=msmlRibX2zE
+canonicalUrl: https://www.youtube.com/watch?v=msmlRibX2zE
 coverImage: https://i.ytimg.com/vi/msmlRibX2zE/maxresdefault.jpg
 duration: 19
 isShort: True
