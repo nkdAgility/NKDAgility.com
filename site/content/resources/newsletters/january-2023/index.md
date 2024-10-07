@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "january-2023"
+aliases:
+  - /newsletters/january-2023/
+  - /resources/newsletters/january-2023/
 ---
 
 Welcome to this month's edition of NKDAgility.

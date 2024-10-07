@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "naked-agility-training-schedule-2021-q4-2022-q1"
+aliases:
+  - /newsletters/naked-agility-training-schedule-2021-q4-2022-q1
+  - /resources/newsletters/naked-agility-training-schedule-2021-q4-2022-q1
 ---
 
 I have been working on perfecting my techniques by incorporating Liberating Structures, Training from the Back of the Room, and Organization and Relationship Systems Coaching into my deliveries. I have found, along with many other trainers, that live-virtual delivery of classes can be more powerful, and more engaging.

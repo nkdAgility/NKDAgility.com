@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance"
+aliases:
+  - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
+  - /resources/newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/
 ---
 
 The Agile 2023 Scotland Experience is almost upon us, and NKDAgility proudly sponsors the event!

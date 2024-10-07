@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "seasons-greetings-upcoming-professional-scrum-training-classes"
+aliases:
+  - /newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
+  - /resources/newsletters/seasons-greetings-upcoming-professional-scrum-training-classes/
 ---
 
 \[caption id="attachment_48602" align="alignnone" width="800"\]![Seasons greetings and a happy new year for 2023](images/Copy-of-Gold-and-Black-Elegant-Holiday-Party-Instagram-Story-Banner-Landscape-800x400.jpg) Seasons greetings and a happy new year for 2023\[/caption\]

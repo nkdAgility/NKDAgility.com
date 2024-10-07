@@ -6,6 +6,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum"
+aliases:
+  - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
+  - /resources/newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/
 ---
 
 The world is spinning faster than ever, with more players than ever.

@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "march-2023-nkdagility-the-magic-of-immersive-classes"
+aliases:
+  - /newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
+  - /resources/newsletters/march-2023-nkdagility-the-magic-of-immersive-classes/
 ---
 
 While all of our courses are centred around valuable learning outcomes achieved through experiential learning within a classroom environment, they are most often delivered as intense consecutive 2-day or 4-half-day experiences.

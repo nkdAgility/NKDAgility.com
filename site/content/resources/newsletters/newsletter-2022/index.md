@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "newsletter-2022"
+aliases:
+  - /newsletters/newsletter-2022/
+  - /resources/newsletters/newsletter-2022/
 ---
 
 As a fellow agilist, you’ll know that agility is critical to success in the volatile, uncertain, complex and ambiguous 21st-century marketplace.

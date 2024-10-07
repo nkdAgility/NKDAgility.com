@@ -6,6 +6,9 @@ coverImage: "naked-agility-technically-agile-1280×720-December2023.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 slug: "2024-learning-journeys-and-extending-the-learning-process"
+aliases:
+  - /newsletters/2024-learning-journeys-and-extending-the-learning-process/
+  - /resources/newsletters/2024-learning-journeys-and-extending-the-learning-process/
 ---
 
 We have already had great success with our immersive learning classes, with the 8-week Professional Scrum Product Owner gaining high acclaim not only from the students but also from their managers and leaders:

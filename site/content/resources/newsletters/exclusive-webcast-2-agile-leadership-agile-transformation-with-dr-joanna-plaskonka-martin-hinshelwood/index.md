@@ -6,6 +6,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood"
+aliases:
+  - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/
+  - /resources/newsletters/exclusive-webcast-2-agile
 ---
 
 **🌟 Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood 🌟**
