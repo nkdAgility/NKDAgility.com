@@ -44,6 +44,21 @@
           "type": "categories"
         },
         {
+          "title": "aliases",
+          "name": "aliases",
+          "type": "list"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
           "title": "card",
           "type": "fields",
           "name": "card",
@@ -73,6 +88,172 @@
               ]
             }
           ]
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "headline",
+          "name": "headline",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "content",
+              "name": "content",
+              "type": "string"
+            },
+            {
+              "title": "cards",
+              "name": "cards",
+              "type": "block",
+              "fieldGroup": [
+                "cards_group"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "marketingPages",
+      "pageBundle": true,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "card",
+          "type": "fields",
+          "name": "card",
+          "fields": [
+            {
+              "title": "Title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "Content",
+              "name": "content",
+              "type": "string",
+              "wysiwyg": true
+            },
+            {
+              "title": "button",
+              "type": "fields",
+              "name": "button",
+              "fields": [
+                {
+                  "title": "Content",
+                  "name": "content",
+                  "type": "string",
+                  "wysiwyg": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "id",
+          "name": "id",
+          "type": "datetime"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "aliases",
+          "name": "aliases",
+          "type": "choice",
+          "choices": [
+            "/capabilities/azure-devops-migration-services/"
+          ]
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "headline",
+          "name": "headline",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "content",
+              "name": "content",
+              "type": "string"
+            },
+            {
+              "title": "cards",
+              "name": "cards",
+              "type": "block",
+              "fieldGroup": [
+                "cards_group"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "sections",
+          "name": "sections",
+          "type": "block",
+          "fieldGroup": [
+            "sections_group"
+          ]
         }
       ]
     }
@@ -84,22 +265,26 @@
     {
       "title": "principles",
       "path": "[[workspace]]/site/content/principles",
-      "previewPath": "/principles"
+      "previewPath": "/principles",
+      "contentTypes": ["marketingPages"]
     },
     {
       "title": "capabilities",
       "path": "[[workspace]]/site/content/capabilities",
-      "previewPath": "/capabilities"
+      "previewPath": "/capabilities",
+      "contentTypes": ["marketingPages"]
     },
     {
       "title": "outcomes",
       "path": "[[workspace]]/site/content/outcomes",
-      "previewPath": "/outcomes"
+      "previewPath": "/outcomes",
+      "contentTypes": ["marketingPages"]
     },
     {
       "title": "methods",
       "path": "[[workspace]]/site/content/methods",
-      "previewPath": "/methods"
+      "previewPath": "/methods",
+      "contentTypes": ["marketingPages"]
     },
     {
       "title": "workshops",
@@ -147,5 +332,88 @@
       "previewPath": "/resources/guides"
     }
   ],
-  "frontMatter.git.enabled": false
+  "frontMatter.git.enabled": false,
+  "frontMatter.taxonomy.fieldGroups": [
+    {
+      "id": "cards_group",
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "content",
+          "name": "content",
+          "type": "string"
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "id": "features_group",
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "content",
+          "name": "content",
+          "type": "string"
+        },
+        {
+          "title": "media",
+          "name": "media",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "id": "sections_group",
+      "fields": [
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "content",
+          "name": "content",
+          "type": "string"
+        },
+        {
+          "title": "source",
+          "name": "source",
+          "type": "string"
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "features",
+          "name": "features",
+          "type": "block",
+          "fieldGroup": [
+            "features_group"
+          ]
+        },
+        {
+          "title": "related",
+          "name": "related",
+          "type": "choice",
+          "choices": [
+            "/capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training"
+          ]
+        }
+      ]
+    }
+  ]
 }
