@@ -48,7 +48,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 In today's dynamic business landscape, the ability to provide accurate project timelines, minimize risk, and make data-driven decisions is crucial. Our immersive 8-week course, "Applying Metrics for Predictability," empowers you to master agile metrics and forecasting, transforming your approach to project management. Unlike traditional 2-day workshops, our extended format allows for deeper understanding and practical application.

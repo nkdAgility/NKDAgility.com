@@ -52,7 +52,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.

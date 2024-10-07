@@ -1,7 +1,7 @@
 ---
 categories:
   - devops
-type: courses
+type: course
 card:
   content: ""
   title: ""

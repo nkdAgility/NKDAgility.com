@@ -2,7 +2,7 @@
 categories:
   - agility
   - measure-and-learn
-type: courses
+type: course
 card:
   content: ""
   title: ""

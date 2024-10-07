@@ -52,7 +52,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.

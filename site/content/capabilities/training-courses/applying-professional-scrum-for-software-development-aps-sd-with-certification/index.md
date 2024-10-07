@@ -2,7 +2,7 @@
 categories:
   - agility
   - tools-and-techniques
-type: courses
+type: course
 card:
   content: ""
   title: ""

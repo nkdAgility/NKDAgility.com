@@ -49,7 +49,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.

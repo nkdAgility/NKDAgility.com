@@ -32,7 +32,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.

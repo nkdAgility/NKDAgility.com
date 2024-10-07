@@ -34,7 +34,7 @@ sections:
   - title: "Courses For Azure DevOps"
     content: "Here is a list of courses related to Azure DevOps."
     source: data
-    type: courses
+    type: course
     related:
       - /capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training
   - title:
