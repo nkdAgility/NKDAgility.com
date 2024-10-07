@@ -1,0 +1,151 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": true,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "card",
+          "type": "fields",
+          "name": "card",
+          "fields": [
+            {
+              "title": "Title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "Content",
+              "name": "content",
+              "type": "string",
+              "wysiwyg": true
+            },
+            {
+              "title": "button",
+              "type": "fields",
+              "name": "button",
+              "fields": [
+                {
+                  "title": "Content",
+                  "name": "content",
+                  "type": "string",
+                  "wysiwyg": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "principles",
+      "path": "[[workspace]]/site/content/principles",
+      "previewPath": "/principles"
+    },
+    {
+      "title": "capabilities",
+      "path": "[[workspace]]/site/content/capabilities",
+      "previewPath": "/capabilities"
+    },
+    {
+      "title": "outcomes",
+      "path": "[[workspace]]/site/content/outcomes",
+      "previewPath": "/outcomes"
+    },
+    {
+      "title": "methods",
+      "path": "[[workspace]]/site/content/methods",
+      "previewPath": "/methods"
+    },
+    {
+      "title": "workshops",
+      "path": "[[workspace]]/site/content/resources/workshops",
+      "previewPath": "/resources/workshops"
+    },
+    {
+      "title": "videos",
+      "path": "[[workspace]]/site/content/resources/videos",
+      "previewPath": "/resources/videos"
+    },
+    {
+      "title": "recipes",
+      "path": "[[workspace]]/site/content/resources/recipes",
+      "previewPath": "/resources/recipes"
+    },
+    {
+      "title": "practices",
+      "path": "[[workspace]]/site/content/resources/practices",
+      "previewPath": "/resources/practices"
+    },
+    {
+      "title": "podcast",
+      "path": "[[workspace]]/site/content/resources/podcast",
+      "previewPath": "/resources/podcast"
+    },
+    {
+      "title": "newsletters",
+      "path": "[[workspace]]/site/content/resources/newsletters",
+      "previewPath": "/resources/newsletters"
+    },
+    {
+      "title": "learning-series",
+      "path": "[[workspace]]/site/content/resources/learning-series",
+      "previewPath": "/resources/learning-series"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/site/content/resources/blog",
+      "previewPath": "/resources/blog"
+    },
+    {
+      "title": "guides",
+      "path": "[[workspace]]/site/content/resources/guides",
+      "previewPath": "/resources/guides"
+    }
+  ],
+  "frontMatter.git.enabled": false
+}
