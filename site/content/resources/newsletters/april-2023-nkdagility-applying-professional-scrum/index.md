@@ -6,6 +6,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "april-2023-nkdagility-applying-professional-scrum"
+aliases:
+  - /newsletters/april-2023-nkdagility-applying-professional-scrum/
+  - /resources/newsletters/april-2023-nkdagility-applying-professional-scrum/
 ---
 
 Learning about scrum is important, but growing your capability to deploy and implement scrum effectively is way more important.

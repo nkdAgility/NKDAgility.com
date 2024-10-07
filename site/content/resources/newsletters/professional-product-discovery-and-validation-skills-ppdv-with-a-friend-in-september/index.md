@@ -6,6 +6,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september"
+aliases:
+  - /newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
+  - /resources/newsletters/professional-product-discovery-and-validation-skills-ppdv-with-a-friend-in-september/
 ---
 
 **Dear Innovators and Product Enthusiasts,**

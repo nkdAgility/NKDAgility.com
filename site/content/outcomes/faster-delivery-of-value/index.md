@@ -9,9 +9,9 @@ type: methods
 draft: true
 card:
   title: Faster Delivery of Value
-  content: Accelerate the delivery of value by adopting agile practices that reduce time-to-market and improve responsiveness to change.
+  content: <p>Accelerate the delivery of value by adopting agile practices that reduce time-to-market and improve responsiveness to change.</p>
   button:
-    content: Start Optimizing Now
+    content: <p><br></p>
 ---
 
 Coming soon!

@@ -1,14 +1,29 @@
 {
-    "name": "My Codespace Environment",
+    "name": "nkdAgility Website Codespace",
     "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",  // or your preferred Docker image
-    "extensions": [
-      "eliostruyf.vscode-front-matter",  
+    "customizations": {
+		"vscode": {
+			"extensions": [
+				"eliostruyf.vscode-front-matter",  
       "budparr.language-hugo-vscode", 
       "esbenp.prettier-vscode",
-      "kaellarkin.hugo-shortcode-syntax",
-      "akmittal.hugofy"
+      "kaellarkin.hugo-shortcode-syntax"
+			]
+		}
+	}
+    // Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
 
-    ],
-    "postCreateCommand": "npm install"  // Run a command after setting up the Codespace, if needed
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "forwardPorts": [],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "uname -a",
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
   }
   

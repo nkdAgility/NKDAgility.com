@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management"
+aliases:
+  - /newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
+  - /resources/newsletters/agile-kata-and-a-whole-lot-more-with-facilitation-backlog-management-and-evidence-based-management/
 ---
 
 The new year is now fully underway, and the immersive 8-week PSPO, PSM, and PAL are all running... we have a full house! next up is the set of complimentary Skills classes from Scrum.org as well as the new Agile Kata class and we have them all.

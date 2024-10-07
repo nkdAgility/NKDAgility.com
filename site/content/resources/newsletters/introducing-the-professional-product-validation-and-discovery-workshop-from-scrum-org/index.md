@@ -6,6 +6,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org"
+aliases:
+  - /newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
+  - /resources/newsletters/introducing-the-professional-product-validation-and-discovery-workshop-from-scrum-org/
 ---
 
 **Dear Innovators and Product Enthusiasts,**

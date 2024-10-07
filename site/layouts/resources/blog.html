@@ -10,31 +10,21 @@
 {{ end }}
 {{ define "main" }}
   <section class="container my-5" style="max-width: 700px !important">{{ .Content }}</section>
-  <section>
-    <div class="share-links">
+  <section class="container my-5">
+    <div class="share-links text-center">
       <h3>Share this post:</h3>
-      <ul>
+      <div class="d-flex justify-content-center">
         <!-- LinkedIn -->
-        <li>
-          <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> LinkedIn </a>
-        </li>
+        <a class="btn btn-primary mx-2" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-linkedin"></i> LinkedIn </a>
         <!-- WhatsApp -->
-        <li>
-          <a href="https://api.whatsapp.com/send?text={{ .Title }}%20{{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
-        </li>
+        <a class="btn btn-success mx-2" href="https://api.whatsapp.com/send?text={{ .Title }}%20{{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-whatsapp"></i> WhatsApp </a>
         <!-- Twitter -->
-        <li>
-          <a href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter"></i> Twitter </a>
-        </li>
+        <a class="btn btn-info mx-2" href="https://twitter.com/intent/tweet?text={{ .Title }}&url={{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-twitter"></i> Twitter </a>
         <!-- Facebook -->
-        <li>
-          <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> Facebook </a>
-        </li>
+        <a class="btn btn-primary mx-2" href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener noreferrer"> <i class="fab fa-facebook"></i> Facebook </a>
         <!-- Email -->
-        <li>
-          <a href="mailto:?subject={{ .Title }}&body={{ .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
-        </li>
-      </ul>
+        <a class="btn btn-secondary mx-2" href="mailto:?subject={{ .Title }}&body={{ .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
+      </div>
     </div>
   </section>
 {{ end }}

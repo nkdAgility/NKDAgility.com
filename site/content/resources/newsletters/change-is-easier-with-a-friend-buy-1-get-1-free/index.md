@@ -7,6 +7,9 @@ author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
 slug: "change-is-easier-with-a-friend-buy-1-get-1-free"
+aliases:
+  - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
+  - /resources/newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/
 ---
 
 **Kickstart 2024 with Our Unmissable Scrum Training Offer: Buy 1, Get 1 FREE!**
