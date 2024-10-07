@@ -1,0 +1,14 @@
+{
+    "name": "My Codespace Environment",
+    "image": "mcr.microsoft.com/vscode/devcontainers/base:ubuntu",  // or your preferred Docker image
+    "extensions": [
+      "eliostruyf.vscode-front-matter",  
+      "budparr.language-hugo-vscode", 
+      "esbenp.prettier-vscode",
+      "kaellarkin.hugo-shortcode-syntax",
+      "akmittal.hugofy"
+
+    ],
+    "postCreateCommand": "npm install"  // Run a command after setting up the Codespace, if needed
+  }
+  
