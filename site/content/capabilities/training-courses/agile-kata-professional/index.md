@@ -49,7 +49,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 The current track record of agile transformations is not very promising. 75% of all agile transformations fail to achieve their goals and therefore missing out on the huge positive impact it has on employee engagement, customer satisfaction, operational performance and time-to-market (McKinsey 2022). Is it because companies see Agile as a business process update and not as a cultural shift?

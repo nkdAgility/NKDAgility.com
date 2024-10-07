@@ -44,5 +44,5 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---

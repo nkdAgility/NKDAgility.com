@@ -56,7 +56,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.

@@ -45,7 +45,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 In the "Applying Flow Metrics for Scrum" course, participants embark on an immersive learning journey, uniquely designed to integrate flow metrics into their Scrum practices. This course delves deeply into the vital flow metrics such as Work in Progress (WIP), Cycle Time, Work Item Age, and Throughput, unraveling their significance and application in the Scrum framework. Over several weeks, the course unfolds in an interactive, engaging format, blending theoretical understanding with practical, real-world application. Each session is tailored to not just impart knowledge but also to enable participants to directly apply these insights into their ongoing Scrum projects, ensuring immediate applicability and relevance.

@@ -72,7 +72,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master™ (PSM) and Professional Scrum Product Owner™ (PSPO) courses. Merging PSM and PSPO together enables side-by-side learning in a way that is not possible when Scrum Masters and Product Owners are trained separately. These learners greatly benefit from having a shared understanding for one another and by blending the content, students avoid duplicate foundational content and have more space to focus on learning together. This course includes free attempts at both the Professional Scrum Master I (PSM I) and Professional Scrum Product Owner I (PSPO I) globally recognized certification exams.

@@ -54,7 +54,7 @@ card:
   title: ""
   button:
     content: ""
-type: courses
+type: course
 ---
 
 Welcome to a comprehensive journey into the world of Scrum's Product Backlog Management. This course is meticulously designed to equip participants with the expertise to understand their product's essence, master the Product Backlog, engage effectively with stakeholders, promote transparency, and make data-driven decisions. With sessions ranging from stakeholder motivations to the intricacies of the Product Backlog and empirical decision-making, attendees will gain invaluable insights, irrespective of whether they're Product Owners, Scrum Masters, or Product Managers.

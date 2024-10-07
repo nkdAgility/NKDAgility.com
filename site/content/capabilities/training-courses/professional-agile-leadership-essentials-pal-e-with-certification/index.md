@@ -1,7 +1,7 @@
 ---
 categories:
   - agility
-type: courses
+type: course
 card:
   content: ""
   title: ""

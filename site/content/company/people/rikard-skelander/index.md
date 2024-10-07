@@ -34,7 +34,7 @@ sections:
   - title: "Courses that Rikard Teaches"
     content: ~
     source: data
-    type: courses
+    type: course
     related:
       - /capabilities/training-courses/agile-kata-professional
 card:

@@ -4,7 +4,7 @@ categories:
   - measure-and-learn
   - people-and-process
   - tools-and-techniques
-type: courses
+type: course
 card:
   content: ""
   title: ""

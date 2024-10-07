@@ -2,7 +2,7 @@
 categories:
   - measure-and-learn
   - people-and-process
-type: courses
+type: course
 card:
   content: ""
   title: ""
