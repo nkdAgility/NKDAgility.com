@@ -106,7 +106,7 @@ jobs:
               }
               default {
                   $Ring = "Canary";
-                  $AzureSitesEnvironment = "canary-" ${{ github.event.pull_request.number }}
+                  $AzureSitesEnvironment = "canary-${{ github.event.pull_request.number }}"
                   $docs_baseURL = "/canary/$branchSafeName"
               }
           }
