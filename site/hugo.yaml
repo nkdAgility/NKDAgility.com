@@ -28,11 +28,11 @@ rss:
   description: "Subscribe to our RSS feed"
 
 outputs:
-  home: ["html", "json"]
-  section: ["html", "json"]
-  taxonomy: ["html", "json"]
-  term: ["html", "json"]
-  page: ["html", "json"]
+  home: [html, json, rss]
+  section: [html, rss]
+  taxonomy: [html, rss]
+  term: [html, rss]
+  page: [html, rss]
 
 outputFormats:
   json:
