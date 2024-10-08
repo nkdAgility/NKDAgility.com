@@ -1,18 +1,20 @@
 ---
 title: Business Agility Consultancy
-id: "49856"
 date: 2023-08-12
 author: MrHinsh
-aliases:
-  - /capabilities/lean-agile-consultancy/
+id: "49856"
 type: capabilities
 slug: lean-agile-consultancy
+aliases:
+- /capabilities/lean-agile-consultancy/
 card:
   button:
     content: Transform Your Organization
-  content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
   title: Business Agility Consulting
+  content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
+
 ---
+
 
 Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
 
@@ -43,3 +45,4 @@ Expertly trained [Scrum Masters](https://nkdagility.com/training/audiences/scru
 #### [Agile Coaching](https://nkdagility.com/agile-consultancy/)
 
 Our [Agile and Leadership coaches](https://nkdagility.com/agile-consulting-coaching) help leaders and teams create clear organisational strategies with goals for success. We have access to over 350+ Professional Scrum trainers, 60+ Professional Kanban trainers, and 60+ DevOps experts.
+

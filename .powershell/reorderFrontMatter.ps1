@@ -3,16 +3,13 @@ Import-Module powershell-yaml
 
 # Define the custom order for front matter keys
 $desiredOrder = @(
-    "title",
-    "date",
-    "id",
-    "type",
-    "layout",
-    "slug",
-    "url",
-    "aliases",
-    "tags",
-    "categories",
+    "title", "date", "author", "weight",
+    "id", "canonicalUrl", "externalUrl", "external_url",
+    "type", "layout",
+    "slug", "url", "aliases",
+    "tags", "categories",
+    "coverImage",
+    "videoId", "duration", "isShort",
     "card", "headline", "sections"
 )
 
@@ -46,7 +43,7 @@ function Reorder-FrontMatter {
 
         # Add any remaining keys that were not in $desiredOrder
         foreach ($key in $frontMatterData.Keys) {
-            if (-not $newFrontMatter.ContainsKey($key)) {
+            if (-not $newFrontMatter.Contains($key)) {
                 $newFrontMatter[$key] = $frontMatterData[$key]
             }
         }
