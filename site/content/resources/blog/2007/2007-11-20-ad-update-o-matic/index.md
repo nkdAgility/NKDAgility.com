@@ -1,24 +1,25 @@
 ---
+title: AD Update-O-Matic
+date: 2007-11-20
+author: MrHinsh
 id: "290"
-title: "AD Update-O-Matic"
-date: "2007-11-20"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ad-update-o-matic"
-
+slug: ad-update-o-matic
 aliases:
-  - /blog/ad-update-o-matic
+- /blog/ad-update-o-matic
+tags:
+- code
+- infrastructure
+- moss2007
+- sharepoint
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-sharepoint-128-link-1-1.png
+
 ---
+
 
 In my quest to
 
@@ -32,4 +33,5 @@ One of the guys from infrastructure are coming over this afternoon to run the ap
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

@@ -1,18 +1,19 @@
 ---
+title: Delivering Live Virtual Classes in Microsoft Teams and Mural
+date: 2020-06-21
+author: MrHinsh
 id: "44432"
-title: "Delivering Live Virtual Classes in Microsoft Teams and Mural"
-date: "2020-06-21"
-categories:
-  - "agility"
-coverImage: "class-colage-2-8-8.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "delivering-live-virtual-classes-in-microsoft-teams-and-mural"
-
+slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
-  - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+- /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+categories:
+- agility
+coverImage: class-colage-2-8-8.jpg
+
 ---
+
 
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.
 
@@ -224,4 +225,5 @@ The sample above is the output of a 5-minute working agreement exercise with abo
 I firmly believe that Microsoft Teams, or another similar platform, provides the highest level of interaction and allows for self-organisation that may other platforms do not.
 
 With the ability to provide many different services on the same platform and have students maintain that access over time, I think it wins out over one-time single-shot platforms like Zoom or Webex. In addition, I have a [Scrum Community Team](https://teams.microsoft.com/l/team/19%3a8dbf90ce1aa94d2e92bd6b20df543e03%40thread.skype/conversations?groupId=2e62b46e-194a-4733-a206-603a18bf95f8&tenantId=686c55d4-ab81-4a17-9eef-6472a5633fab) that gives all of my students access to each other as well as some extra goodies. This collaboration and access is the icing on the cake. I have seen other trainers do the same with Slack as an after-class collaboration, but I have not heard of anyone using it to facilitate a class, although I am sure it is possible.
+
 

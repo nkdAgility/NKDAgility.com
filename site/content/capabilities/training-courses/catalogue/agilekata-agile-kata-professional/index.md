@@ -1,23 +1,24 @@
 ---
-categories:
-  - agility
-author: MrHinsh
 title: Agile Kata Professional
+date: 2023-11-24
+author: MrHinsh
+id: "50830"
+type: course
+slug: agile-kata-professional
 aliases:
-  - /training-courses/agile-workshops/agile-kata-professional/
-  - /akp/
+- /training-courses/agile-workshops/agile-kata-professional/
+- /akp/
+categories:
+- agility
 coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
+card:
+  button:
+    content: ""
+  title: ""
+  content: ""
 delivery:
-  audience: |2+
-
-    - Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.
-    - Agile coaches, Scrum Masters , Project Managers and change agents interested to introduce Agile Kata into teams and organizations.
-    - Agile Leaders interested to improve business agility and agile culture.
-    - Business leaders interested in learning about a pattern to increase business agility
-
-  skilllevel: intermediate
-  format: ""
-  courseAssessmentIcon: AgileKataProLevel1.png
+  prerequisites: ""
+  lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
   objectives: |2+
 
     - Understanding and practicing the Agile Kata pattern.
@@ -29,28 +30,32 @@ delivery:
     - Understand the role of an Agile Coach in the Agile Kata.
     - Define a first step to increase business agility in your organization using the Agile Kata.
 
-  certification: ""
-  prerequisites: ""
-  duration: 0
-  code: AKP1
-  topics: ""
-  details: ""
+  courseAssessmentIcon: AgileKataProLevel1.png
+  skilllevel: intermediate
+  audience: |2+
+
+    - Entire Agile Teams (Scrum, Kanban etc.) looking for better/alternative ways of working.
+    - Agile coaches, Scrum Masters , Project Managers and change agents interested to introduce Agile Kata into teams and organizations.
+    - Agile Leaders interested to improve business agility and agile culture.
+    - Business leaders interested in learning about a pattern to increase business agility
+
   type: Kanban (ProKanban.org Certified)
+  details: ""
+  topics: ""
+  format: ""
+  duration: 0
+  certification: ""
   brand:
-    colour: ""
     vendor: agile-kata
-  lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
+    colour: ""
+  code: AKP1
   courseIcon: AgileKataProLevel1.png
-slug: agile-kata-professional
-id: "50830"
-date: 2023-11-24
-card:
-  content: ""
-  title: ""
-  button:
-    content: ""
-type: course
+
 ---
+
+
+
+
 
 The current track record of agile transformations is not very promising. 75% of all agile transformations fail to achieve their goals and therefore missing out on the huge positive impact it has on employee engagement, customer satisfaction, operational performance and time-to-market (McKinsey 2022). Is it because companies see Agile as a business process update and not as a cultural shift?
 
@@ -65,3 +70,7 @@ In this one day class, students are challenged to explore the Agile Kata pattern
 The course, uses a combination of instructor-led and activity-based learning where students work together in pairs or small teams. The certified Agile Kata trainer bring their own experiences and stories to the class and use their skills and knowledge to deliver the material using their own unique delivery style. The result is an engaging, enjoyable learning experience where students gain a deep understanding of the Agile Kata pattern and how it can be applied by an entire agile team or organization.
 
 Students leave this course with an appreciation for the use of the Agile Kata and a starting point for their own professional journey using the Agile Kata. When offered in-person, this course is generally delivered in one full day. When offered as a live instructor-led online course,, it may be broken up into more, shorter segments.
+
+
+
+

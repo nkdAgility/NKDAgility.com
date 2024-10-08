@@ -1,25 +1,26 @@
 ---
+title: Bug in the Visual Studio Git integration that results in a merge conflict
+date: 2014-10-09
+author: MrHinsh
 id: "10734"
-title: "Bug in the Visual Studio Git integration that results in a merge conflict"
-date: "2014-10-09"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "git"
-  - "mergeconflict"
-  - "visual-studio-2013"
-  - "visual-studio-2013-3"
-  - "visual-studio-2013-4"
-  - "visual-studio"
-coverImage: "naked-alm-git-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "bug-visual-studio-git-integration-results-merge-conflict"
-
+slug: bug-visual-studio-git-integration-results-merge-conflict
 aliases:
-  - /blog/bug-visual-studio-git-integration-results-merge-conflict
+- /blog/bug-visual-studio-git-integration-results-merge-conflict
+tags:
+- git
+- mergeconflict
+- visual-studio-2013
+- visual-studio-2013-3
+- visual-studio-2013-4
+- visual-studio
+categories:
+- tools-and-techniques
+coverImage: naked-alm-git-2-2.png
+
 ---
+
 
 When doing a PULL from Git from an origin\\branch but you have changes locally you may encounter a bug in the Visual Studio Git integration that results in a merge conflict fetching the head of the remote Git repository.
 
@@ -73,4 +74,5 @@ If they only figure it out after they have committed one or more times to the br
 After that they can happily Pull to the published branch and continue to code away on the unpublished local branch. Yes this means that every developer effectively has one or more (they may have more than one set of work on the go) personal branches. While this was a bad practice in a Server Version Control System (SVCS) it is a perfectly good practice for a Distributed Version Control System (DVCS) where merging and branching is cheap and easy.
 
 If you can you should install the Visual Studio 2013.4 CTP that fixes this issue and you can carry on as normal.
+
 

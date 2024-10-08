@@ -1,18 +1,19 @@
 ---
+title: Social and Business Networking
+date: 2007-07-25
+author: MrHinsh
 id: "359"
-title: "Social and Business Networking"
-date: "2007-07-25"
-tags:
-  - "service-oriented-architecture"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "social-and-business-networking"
-
+slug: social-and-business-networking
 aliases:
-  - /blog/social-and-business-networking
+- /blog/social-and-business-networking
+tags:
+- service-oriented-architecture
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 In the modern era networking is not just the preview of business men. There have been many sites created over the last few years but they only seam to implement one or maybe two if the strategies for providing either a community or business networking site. A [list of social networking sites](http://en.wikipedia.org/wiki/List_of_social_networking_websites "list of social networking sites") can be found on Wikipedia.
 
@@ -39,4 +40,5 @@ _A possible pricing model:_
 _This model may be complicated but would be fairer to smaller sites, while still charging more for small sites that have a high number of transactions._
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA)
+
 

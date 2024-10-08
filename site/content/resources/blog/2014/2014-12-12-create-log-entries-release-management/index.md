@@ -1,22 +1,23 @@
 ---
+title: Create log entries in Release Management
+date: 2014-12-12
+author: MrHinsh
 id: "10975"
-title: "Create log entries in Release Management"
-date: "2014-12-12"
-categories:
-  - "install-and-configuration"
-tags:
-  - "deploy"
-  - "powershell"
-  - "release-management"
-coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "create-log-entries-release-management"
-
+slug: create-log-entries-release-management
 aliases:
-  - /blog/create-log-entries-release-management
+- /blog/create-log-entries-release-management
+tags:
+- deploy
+- powershell
+- release-management
+categories:
+- install-and-configuration
+coverImage: nakedalm-experts-visual-studio-alm-5-5.png
+
 ---
+
 
 I have been working through my demos for NDC London next week. And I found it almost impossible to create log entries in Release Management where I wanted.
 
@@ -71,4 +72,5 @@ Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 { .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
+
 

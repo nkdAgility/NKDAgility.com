@@ -1,18 +1,19 @@
 ---
+title: The Hinshelwood Family Portrait
+date: 2009-05-03
+author: MrHinsh
 id: "124"
-title: "The Hinshelwood Family Portrait"
-date: "2009-05-03"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-hinshelwood-family-portrait"
-
+slug: the-hinshelwood-family-portrait
 aliases:
-  - /blog/the-hinshelwood-family-portrait
+- /blog/the-hinshelwood-family-portrait
+categories:
+- me
+coverImage: nakedalm-logo-128-link-2-1.png
+
 ---
+
 
 For my wife’s birthday my brother and his wife bought us a professional photo shoot, and the photographer got some [fantastic shots](http://perfectexpressions.co.uk/blog/2009/05/the-hinshelwood-family-portrait-shoot/). I love the one of my daughter jumping. We have had a couple of go’s at this before, but we have always been disappointed in both the photographer and the results.
 
@@ -22,4 +23,5 @@ John Johnston at [Perfect Expressions](http://www.perfectexpressions.co.uk) was 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

@@ -1,26 +1,27 @@
 ---
+title: 'Adventures in Scrum: Lesson 2 - For the record'
+date: 2010-03-15
+author: MrHinsh
 id: "62"
-title: "Adventures in Scrum: Lesson 2 - For the record"
-date: "2010-03-15"
-categories:
-  - "people-and-process"
-tags:
-  - "develop"
-  - "people"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "silverlight"
-  - "ssw"
-coverImage: "metro-SSWLogo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "adventures-in-scrum-lesson-2-for-the-record"
-
+slug: adventures-in-scrum-lesson-2-for-the-record
 aliases:
-  - /blog/adventures-in-scrum-lesson-2-for-the-record
+- /blog/adventures-in-scrum-lesson-2-for-the-record
+tags:
+- develop
+- people
+- practices
+- process
+- scrum
+- silverlight
+- ssw
+categories:
+- people-and-process
+coverImage: metro-SSWLogo-128-link-1-1.png
+
 ---
+
 
 At SSW we have always done Agile. Recently we have started doing Scrum and we have nearly completed our first Sprint ever using Scrum. As you probably guessed from my previous post, it looks like it is going to be a “Failed Sprint”, but the Scrum Team (This includes the ScrumMaster and the Product Owner) has learned a huge amount about working in the Scrum Framework.
 
@@ -60,4 +61,5 @@ Its simple, as per our rule I should have sent the following email:
 This email should have been copied to the entire Scrum Team, which would have included the Product Owner, who would have nipped this misunderstanding in the bud and we would have had one less impediment.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [Silverlight](http://technorati.com/tags/Silverlight)
+
 

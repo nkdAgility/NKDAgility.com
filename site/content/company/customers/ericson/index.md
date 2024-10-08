@@ -1,9 +1,16 @@
 ---
+title: Ericson
+date: 2013-12-08
+author: MrHinsh
 id: "45377"
-title: "Ericson"
-date: "2013-12-08"
-coverImage: "Ericson.png"
-author: "MrHinsh"
-type: "customers"
-slug: "ericson"
+type: customers
+slug: ericson
+coverImage: Ericson.png
+
 ---
+
+
+
+
+
+

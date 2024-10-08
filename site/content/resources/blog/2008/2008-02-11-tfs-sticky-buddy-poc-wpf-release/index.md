@@ -1,29 +1,30 @@
 ---
+title: TFS Sticky Buddy POC (WPF) release
+date: 2008-02-11
+author: MrHinsh
 id: "247"
-title: "TFS Sticky Buddy POC (WPF) release"
-date: "2008-02-11"
-categories:
-  - "news-and-reviews"
-  - "products-and-books"
-tags:
-  - "infrastructure"
-  - "tfs"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs-sticky-buddy"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "wpf"
-coverImage: "metro-visual-studio-2005-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-sticky-buddy-poc-wpf-release"
-
+slug: tfs-sticky-buddy-poc-wpf-release
 aliases:
-  - /blog/tfs-sticky-buddy-poc-wpf-release
+- /blog/tfs-sticky-buddy-poc-wpf-release
+tags:
+- infrastructure
+- tfs
+- tfs2005
+- tfs2008
+- tfs-sticky-buddy
+- tools
+- visual-studio
+- vs2008
+- wpf
+categories:
+- news-and-reviews
+- products-and-books
+coverImage: metro-visual-studio-2005-128-link-2-1.png
+
 ---
+
 
 [![image](images/TFSStickyBuddyPOCWPFrelease_93AA-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickyBuddyPOCWPFrelease_93AA-image_2.png) You can now [Download](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=10642 "TFS Sticky Buddy POC (WPF) release") the [TFS Sticky Buddy windows presentation foundation proof of concept demo](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx "Codeplex RDdotNet TFS Sticky Buddy latest release") from the [Codeplex](http://www.codeplex.com/TFSStickyBuddy "Codeplex RDdotNet TFS Sticky Buddy project") site.
 { .post-img }
@@ -46,4 +47,5 @@ Give it a go, and let me know how you get on.... You can also get a [WinForm](ht
 
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2005](http://technorati.com/tags/TFS+2005) [WPF](http://technorati.com/tags/WPF) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+
 

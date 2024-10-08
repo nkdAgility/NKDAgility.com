@@ -1,25 +1,26 @@
 ---
+title: 'TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure'
+date: 2012-08-22
+author: MrHinsh
 id: "7402"
-title: "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure"
-date: "2012-08-22"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tf10141"
-  - "tf14080"
-  - "tf14092"
-  - "tfs"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-12-12.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure"
-
+slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliases:
-  - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+- /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
+tags:
+- puzzles
+- tf10141
+- tf14080
+- tf14092
+- tfs
+- tfs-integration-platform
+categories:
+- problems-and-puzzles
+coverImage: metro-problem-icon-12-12.png
+
 ---
+
 
 If you encounter a TFS check-in failure conflict type and you try the first option of “Retry the action”.
 
@@ -128,4 +129,5 @@ After Jameson pointed this out to me I was muttering like a Pirate that has stub
 <warning>
 
 **Did this solve your conflict?**
+
 

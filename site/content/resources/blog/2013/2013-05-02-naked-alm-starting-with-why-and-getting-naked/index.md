@@ -1,25 +1,26 @@
 ---
+title: 'Naked ALM: starting with why and getting naked'
+date: 2013-05-02
+author: MrHinsh
 id: "9499"
-title: "Naked ALM: starting with why and getting naked"
-date: "2013-05-02"
-categories:
-  - "me"
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "golden-circle"
-  - "improve"
-  - "measure"
-  - "why"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "naked-alm-starting-with-why-and-getting-naked"
-
+slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
-  - /blog/naked-alm-starting-with-why-and-getting-naked
+- /blog/naked-alm-starting-with-why-and-getting-naked
+tags:
+- golden-circle
+- improve
+- measure
+- why
+categories:
+- me
+- measure-and-learn
+- people-and-process
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 For a long time now I have been searching for that perfect domain that epitomised the vision, the why, of what I am trying to achieve with my customers and the industry at large. Now I have found it in [http://nkdagility.com](http://nkdagility.com)
 
@@ -60,4 +61,5 @@ There is nothing more frustrating as a consumer of software for that software to
 I believe that every company deserves working software that can be delivered on a consistent cadence. That cadence needs to be shorter than 30 day) and they need to get continuous feedback that is fed back into their backlog.
 
 No matter how far away from this desired state your software process is right now, there are things that you can do to create a steady movement towards that dream of better software more frequently. That is what I am trying to achieve with my career and this blog embodies my journey in convincing customers to change and helping them stretch towards agility.
+
 

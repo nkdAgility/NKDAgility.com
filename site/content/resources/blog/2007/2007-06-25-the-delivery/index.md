@@ -1,18 +1,19 @@
 ---
+title: The Delivery
+date: 2007-06-25
+author: MrHinsh
 id: "374"
-title: "The Delivery"
-date: "2007-06-25"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-delivery"
-
+slug: the-delivery
 aliases:
-  - /blog/the-delivery
+- /blog/the-delivery
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...
 
@@ -56,4 +57,5 @@ _(gory details omitted)_
 I would just like to thank the Midwifes of the Southern General Hospital, Glasgow for there fantastic efforts and exemplary service dealing with my wife, the workmen for their speedy response, and mostly my wife, for giving me such a gorgeous girl.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

@@ -1,26 +1,27 @@
 ---
+title: In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain
+date: 2011-04-19
+author: MrHinsh
 id: "5"
-title: "In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain"
-date: "2011-04-19"
-tags:
-  - "nwcadence"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-  - "upgrade"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-24-24.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain"
-
+slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliases:
-  - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+- /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
+tags:
+- nwcadence
+- tfs-build
+- tfs
+- tfs2008
+- tfs2010
+- tools
+- upgrade
+- visual-studio
+- vs2010
+coverImage: metro-visual-studio-2010-128-link-24-24.png
+
 ---
+
 
 [![vs2010logo](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_thumb-22-22.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159vs2010logo_2.png)I had a particularly complicated upgrade this time that required me to do two things:
 { .post-img }
@@ -174,4 +175,5 @@ After trying a while bunch of options including re-running everything from scrat
 - [Move Team Foundation Server from One Environment to Another](<http://msdn.microsoft.com/en-us/library/ms404883(v=VS.100).aspx>)
 
 BNX4P3AT2EP3
+
 

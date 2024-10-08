@@ -1,23 +1,24 @@
 ---
+title: 'Process Template Upgrade #7 – Rename Work Items and Import new ones'
+date: 2012-05-12
+author: MrHinsh
 id: "5277"
-title: "Process Template Upgrade #7 – Rename Work Items and Import new ones"
-date: "2012-05-12"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tf400508"
-  - "tfs"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "process-template-upgrade-7-overwrite-retaining-history-with-limited-migration"
-
+slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliases:
-  - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+- /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
+tags:
+- configuration
+- infrastructure
+- tf400508
+- tfs
+- tools
+categories:
+- upgrade-and-maintenance
+
 ---
+
 
 A little while ago I was looking into the best options for [upgrading a process template but still keep your data intact](http://blog.hinshelwood.com/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact/), but there is still a little bit of ambiguity on how that is achieved. Although the original list had only #6 options lets look at the #7 option…
 
@@ -343,4 +344,5 @@ I will try to catalogue any problems here, so add them in the comments and I wil
     **Figure: TF400508 is about Agile Planning boards**
         You forgot to update #7 above. Go back and do it now!
 2.  **\[TBA\] Let me know what errors you find…**
+
 

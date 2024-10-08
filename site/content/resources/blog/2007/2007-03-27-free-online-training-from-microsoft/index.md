@@ -1,24 +1,25 @@
 ---
+title: Free Online training from Microsoft
+date: 2007-03-27
+author: MrHinsh
 id: "423"
-title: "Free Online training from Microsoft"
-date: "2007-03-27"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "free-online-training-from-microsoft"
-
+slug: free-online-training-from-microsoft
 aliases:
-  - /blog/free-online-training-from-microsoft
+- /blog/free-online-training-from-microsoft
+tags:
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2005
+categories:
+- me
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 Check out this blog from Steve. You will need to use the code in the comments as the other one is maxed out!
 
@@ -36,4 +37,5 @@ I picked:
 Just for fun!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

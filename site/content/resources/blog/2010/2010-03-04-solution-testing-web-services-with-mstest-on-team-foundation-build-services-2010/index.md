@@ -1,29 +1,30 @@
 ---
+title: 'Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010'
+date: 2010-03-04
+author: MrHinsh
 id: "68"
-title: "Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010"
-date: "2010-03-04"
-tags:
-  - "automated-build"
-  - "scrum"
-  - "silverlight"
-  - "ssw"
-  - "testing"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "wcf"
-coverImage: "metro-visual-studio-2010-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010"
-
+slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliases:
-  - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+- /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+tags:
+- automated-build
+- scrum
+- silverlight
+- ssw
+- testing
+- tfs-build
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- wcf
+coverImage: metro-visual-studio-2010-128-link-6-6.png
+
 ---
+
 
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!
 
@@ -231,4 +232,5 @@ Although this looks convoluted and complicated there are real problems being sol
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [Visual Studio](http://technorati.com/tags/Visual+Studio) [SSW](http://technorati.com/tags/SSW) [Testing](http://technorati.com/tags/Testing) [TFS 2010](http://technorati.com/tags/TFS+2010) [WCF](http://technorati.com/tags/WCF) [Silverlight](http://technorati.com/tags/Silverlight) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [TFS](http://technorati.com/tags/TFS)
+
 

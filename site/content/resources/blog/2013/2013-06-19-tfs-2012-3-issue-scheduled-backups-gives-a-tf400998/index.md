@@ -1,26 +1,27 @@
 ---
+title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
+date: 2013-06-19
+author: MrHinsh
 id: "9904"
-title: "TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured"
-date: "2013-06-19"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "puzzles"
-  - "scheduled-backup"
-  - "tf246017"
-  - "tf254027"
-  - "tf400998"
-coverImage: "puzzle-issue-problem-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-3-issue-scheduled-backups-gives-a-tf400998"
-
+slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
-  - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+- /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
+tags:
+- configuration
+- puzzles
+- scheduled-backup
+- tf246017
+- tf254027
+- tf400998
+categories:
+- install-and-configuration
+- problems-and-puzzles
+coverImage: puzzle-issue-problem-128-link-3-3.png
+
 ---
+
 
 After a server migration Scheduled Backups gives a TF400998 when you try to reconfigure it. You may also see timeouts and errors when trying to add Team Foundation Console Users.
 
@@ -115,4 +116,5 @@ If we instead click “Disable Scheduled Backup” and weight for the timout we 
 Figure: Disable results in path not found
 
 If you hit the refresh button above the Scheduled Backup node will return to its un-configured state.
+
 

@@ -1,24 +1,25 @@
 ---
+title: Professional Scrum Training for the Ghana Police Service
+date: 2017-10-30
+author: MrHinsh
 id: "12095"
-title: "Professional Scrum Training for the Ghana Police Service"
-date: "2017-10-30"
-categories:
-  - "agility"
-tags:
-  - "agile"
-  - "introduction-to-scrum"
-  - "professioal-scrum"
-  - "professional-scrum-foundations"
-  - "scrum"
-coverImage: "clip_image006_thumb-3-3.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-training-ghana-police-service"
-
+slug: professional-scrum-training-ghana-police-service
 aliases:
-  - /blog/professional-scrum-training-ghana-police-service
+- /blog/professional-scrum-training-ghana-police-service
+tags:
+- agile
+- introduction-to-scrum
+- professioal-scrum
+- professional-scrum-foundations
+- scrum
+categories:
+- agility
+coverImage: clip_image006_thumb-3-3.jpg
+
 ---
+
 
 Last time I talked about the Ghana Police Service (GPS) I was talking about [Professional Organisational Change](https://nkdagility.com/professional-organisational-change-ghana-police-service/) and the approach the Inspector General of Police (IGP) is taking; using Scrum to incrementally make changes to the organisation. While Nana Abban and the IGP have been focusing on the big picture, I have been in Ghana to start the grass roots adoption of Scrum with two Professional Scrum Foundations (PSF) classes, the first ever run in Ghana.
 
@@ -102,4 +103,5 @@ Some things I would do differently:
 Teaching non techies is hard, especially for a certifiable geek like myself. However I totally enjoyed my time in Ghana teaching Scrum for the Ghana Police Service and am looking forward to doing it again. I'm back in Ghana for the Agile In Africa conference, and again in December to teach a Professional Scrum Developer (this time to techies). More classes are scheduled next year...
 
 If you are in Ghana or anywhere in West Africa you can get in touch with [Akaditi](http://www.akaditi.com/) for both public and private classes for your Organisation.
+
 

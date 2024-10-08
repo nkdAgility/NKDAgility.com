@@ -1,34 +1,35 @@
 ---
+title: Reserve an Agent for a special build in Team Foundation Server 2012
+date: 2013-04-04
+author: MrHinsh
 id: "9359"
-title: "Reserve an Agent for a special build in Team Foundation Server 2012"
-date: "2013-04-04"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "agent-scope"
-  - "build-agent"
-  - "code"
-  - "configuration"
-  - "infrastructure"
-  - "operational"
-  - "snapshot"
-  - "tactical"
-  - "tag"
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-2"
-  - "tools"
-  - "vm"
-coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "reserve-an-agent-for-a-special-build-in-team-foundation-server-2012"
-
+slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
-  - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+- /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
+tags:
+- agent-scope
+- build-agent
+- code
+- configuration
+- infrastructure
+- operational
+- snapshot
+- tactical
+- tag
+- tfs
+- tfs2012
+- tfs2012-2
+- tools
+- vm
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-11-11.png
+
 ---
+
 
 By the time you hit the AgentScope activity in a TF Build workflow you are already running on the agent and if you have things you need to configure you need to figure out some way to reserve an agent before you get there.
 
@@ -299,4 +300,5 @@ This process while requiring the customisation of your build process can allow y
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.
+
 

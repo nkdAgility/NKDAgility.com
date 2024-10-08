@@ -1,23 +1,24 @@
 ---
+title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
+date: 2013-09-24
+author: MrHinsh
 id: "10002"
-title: "Granting access to Team Foundation Server 2012 for diagnostic troubleshooting"
-date: "2013-09-24"
-categories:
-  - "problems-and-puzzles"
-  - "tools-and-techniques"
-tags:
-  - "tfs"
-  - "tfs2012"
-  - "tfs-2013"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "granting-access-team-foundation-server-2012-diagnostic-troubleshooting"
-
+slug: granting-access-team-foundation-server-2012-diagnostic-troubleshooting
 aliases:
-  - /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+- /blog/granting-access-team-foundation-server-2012-diagnostic-troubleshooting
+tags:
+- tfs
+- tfs2012
+- tfs-2013
+categories:
+- problems-and-puzzles
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 In TFS 2012 the product team added a way to get to the tbl_Command information without needing to connect directly to the SQL Server and having access to the tables. This was an awesome add as being able to diagnose server issues and troubleshoot user reported problems makes us a little more efficient.
 
@@ -43,4 +44,5 @@ This gives that group explicit access.
 Figure: Use the command line to grant diagnostic troubleshooting permission
 
 What might be a better and more manageable solution would be to create a group called “Team Foundation Troubleshooters” and instead grant that group permission to that access control. This is done in exactly the same way, you just need to replace the domain account with the TFS Group.
+
 

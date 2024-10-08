@@ -1,23 +1,24 @@
 ---
+title: Professional Kanban Trainer for Applying Professional Kanban
+date: 2021-01-19
+author: MrHinsh
 id: "45694"
-title: "Professional Kanban Trainer for Applying Professional Kanban"
-date: "2021-01-19"
-categories:
-  - "news-and-reviews"
-tags:
-  - "kanban"
-  - "kanban-theory"
-  - "professional-kanban"
-  - "professional-scrum-with-kanban"
-coverImage: "applying-professional-kanban-background-logo-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-kanban-trainer-for-applying-professional-kanban"
-
+slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
-  - /blog/professional-kanban-trainer-for-applying-professional-kanban
+- /blog/professional-kanban-trainer-for-applying-professional-kanban
+tags:
+- kanban
+- kanban-theory
+- professional-kanban
+- professional-scrum-with-kanban
+categories:
+- news-and-reviews
+coverImage: applying-professional-kanban-background-logo-2-2.jpg
+
 ---
+
 
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.
 
@@ -72,4 +73,5 @@ These two are very different classes that are founded on the same core theory, p
 You don't have to take the [Applying Professional Kanban](https://nkdagility.com/training/courses/applying-professional-kanban-training-with-certification/) training to take the assessment. They are decoupled and they have an excellent [Kanban Learning Resources](https://prokanban.org/kanban-learning-resources/) page that will help you get started. I have forked that resource and will be adding some of my own items on the [Study Guide for Professional Kanban](https://nkdagility.com/study-guide-for-professional-kanban/).
 
 **Join us in the world of Professional Kanban!**
+
 

@@ -1,24 +1,25 @@
 ---
+title: Traveling for work and the Dell Venue 8
+date: 2014-07-07
+author: MrHinsh
 id: "10645"
-title: "Traveling for work and the Dell Venue 8"
-date: "2014-07-07"
-categories:
-  - "news-and-reviews"
-tags:
-  - "consulting"
-  - "dell-venue-8"
-  - "surface-2"
-  - "surface-2-pro"
-  - "traveling"
-coverImage: "nakedalm-windows-logo-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "traveling-work-dell-venue-8"
-
+slug: traveling-work-dell-venue-8
 aliases:
-  - /blog/traveling-work-dell-venue-8
+- /blog/traveling-work-dell-venue-8
+tags:
+- consulting
+- dell-venue-8
+- surface-2
+- surface-2-pro
+- traveling
+categories:
+- news-and-reviews
+coverImage: nakedalm-windows-logo-4-4.png
+
 ---
+
 
 I travel a lot and I have been carting around both a Surface 2 Pro and a Surface 2 on my travels. I have been feeling recently that this was a little silly and I wanted to reduce my load and increase my flexibility. So just last week I purchased a Dell Venue 8.
 
@@ -90,4 +91,5 @@ I think that the three things with a '1' after the designation are the core pack
 I have only been using this device over the weekend and so far it has been fantastic. I have even been typing on the screen rather than an external keyboard and found it to be just right. I also have a Microsoft Wedge Keyboard in my pack and so far I have had no reason to bring it out.
 
 I will be using the Dell Venue 8 for all of my note taking over the next wee while and we will see if it stands up to my lack of patience.
+
 

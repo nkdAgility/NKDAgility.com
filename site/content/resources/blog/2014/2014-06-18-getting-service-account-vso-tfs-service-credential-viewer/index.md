@@ -1,21 +1,22 @@
 ---
+title: Getting a service account for VSO with TFS Service Credential Viewer
+date: 2014-06-18
+author: MrHinsh
 id: "10596"
-title: "Getting a service account for VSO with TFS Service Credential Viewer"
-date: "2014-06-18"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "tfs"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "getting-service-account-vso-tfs-service-credential-viewer"
-
+slug: getting-service-account-vso-tfs-service-credential-viewer
 aliases:
-  - /blog/getting-service-account-vso-tfs-service-credential-viewer
+- /blog/getting-service-account-vso-tfs-service-credential-viewer
+tags:
+- tfs
+- vsteamservices
+categories:
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-1-1.png
+
 ---
+
 
 Have you tried to get a service account for Visual Studio Online (VSO)? Did you know that you can use the TFS Service Credential Viewer to get it.
 
@@ -63,4 +64,5 @@ If you are using Windows 8 you will not get an automatic launch of the applicati
 5.  Done
 
 If you encounter an exception when clicking “Connect” the most likely cause if that you do not have Team Explorer 2013 installed (it should also work with 2012).
+
 

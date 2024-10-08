@@ -1,25 +1,26 @@
 ---
+title: Government Cloud First policy
+date: 2017-05-10
+author: MrHinsh
 id: "11882"
-title: "Government Cloud First policy"
-date: "2017-05-10"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "agile"
-  - "business-agility"
-  - "cloud"
-  - "devops"
-  - "digital-transformation"
-coverImage: "government-cloud-640x400-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "government-cloud-first-policy"
-
+slug: government-cloud-first-policy
 aliases:
-  - /blog/government-cloud-first-policy
+- /blog/government-cloud-first-policy
+tags:
+- agile
+- business-agility
+- cloud
+- devops
+- digital-transformation
+categories:
+- agility
+- devops
+coverImage: government-cloud-640x400-1-1.png
+
 ---
+
 
 Why is it that while there is a Government Cloud First policy there are so much fear of cloud in the public sector? I have been working with a number of government and local council agencies in the UK and I found that they are still trying to decide if cloud is a good idea.
 
@@ -50,4 +51,5 @@ I have been working to move many people to Visual Studio Team Services (Microsof
 If you are in any way trying to achieve business agility or embarking on a digital transformation then you really have no option but to use cloud. Where else can you create on demand environments for testing and deployment? Where else can you easily create configuration as code with little effort?
 
 Don’t make life hard on yourself, even the government has adopted cloud…. Do yourself a favour and make your infrastructure problems someone else's problem.
+
 

@@ -1,20 +1,21 @@
 ---
+title: Should GeeksWithBlogs move to the Wordpress Platform?
+date: 2011-02-16
+author: MrHinsh
 id: "9895"
-title: "Should GeeksWithBlogs move to the Wordpress Platform?"
-date: "2011-02-16"
-categories:
-  - "me"
-tags:
-  - "wordpress"
-coverImage: "nakedalm-logo-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "should-geekswithblogs-move-to-the-wordpress-platform"
-
+slug: should-geekswithblogs-move-to-the-wordpress-platform
 aliases:
-  - /blog/should-geekswithblogs-move-to-the-wordpress-platform
+- /blog/should-geekswithblogs-move-to-the-wordpress-platform
+tags:
+- wordpress
+categories:
+- me
+coverImage: nakedalm-logo-128-link-4-4.png
+
 ---
+
 
 [![](https://s3.amazonaws.com/uploads.uservoice.com/logo/subdomain/48516/original/gwb_small.gif?1274098879)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 { .post-img }
@@ -60,4 +61,5 @@ This could be a turning point in the legendary history of Geeks With Blogs, be p
 
 - [**Vote for it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 - [**Discuss it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
+
 

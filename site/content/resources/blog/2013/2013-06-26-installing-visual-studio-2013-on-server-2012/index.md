@@ -1,23 +1,24 @@
 ---
+title: Installing Visual Studio 2013 on Server 2012
+date: 2013-06-26
+author: MrHinsh
 id: "9908"
-title: "Installing Visual Studio 2013 on Server 2012"
-date: "2013-06-26"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "microsoft-id"
-  - "tools"
-  - "visual-studio"
-  - "vs-2013"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-2013-on-server-2012"
-
+slug: installing-visual-studio-2013-on-server-2012
 aliases:
-  - /blog/installing-visual-studio-2013-on-server-2012
+- /blog/installing-visual-studio-2013-on-server-2012
+tags:
+- configuration
+- microsoft-id
+- tools
+- visual-studio
+- vs-2013
+categories:
+- install-and-configuration
+
 ---
+
 
 I will be installing Visual Studio 2013 on Server 2012 side-by-side with Visual Studio 2012 on my development rig.
 
@@ -92,4 +93,5 @@ The new UI looks fairly clean and the new Team Explorer interaction looks a lot 
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Go download it now and be a kid again…
+
 

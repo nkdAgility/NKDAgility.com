@@ -1,20 +1,21 @@
 ---
+title: Configuring a PowerShell Adapter for the TFS Integration Platform
+date: 2011-06-23
+author: MrHinsh
 id: "3652"
-title: "Configuring a PowerShell Adapter for the TFS Integration Platform"
-date: "2011-06-23"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configuring-a-powershell-adapter-for-the-tfs-integration-platform"
-
+slug: configuring-a-powershell-adapter-for-the-tfs-integration-platform
 aliases:
-  - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+- /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+tags:
+- nwcadence
+- tfs
+- tfs2010
+- tools
+
 ---
+
 
 ![](images/image_thumb-1-1.png)
 { .post-img }
@@ -321,4 +322,5 @@ Although this process can take a while, the fact that you can configure the Powe
 If you need a copy of your TFS Version Control data somewhere other than TFS for posterity, or you need a migration from [Test Track Pro to TFS](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then just ping me and see how we can help.
 
 [Request for Services](http://nwcadence.com/#)
+
 

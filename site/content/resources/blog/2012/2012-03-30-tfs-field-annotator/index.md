@@ -1,25 +1,26 @@
 ---
+title: TFS Field Annotator
+date: 2012-03-30
+author: MrHinsh
 id: "5061"
-title: "TFS Field Annotator"
-date: "2012-03-30"
-categories:
-  - "code-and-complexity"
-tags:
-  - "azure"
-  - "code"
-  - "infrastructure"
-  - "tfs"
-  - "tf-service"
-  - "tools"
-coverImage: "metro-cloud-azure-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-field-annotator"
-
+slug: tfs-field-annotator
 aliases:
-  - /blog/tfs-field-annotator
+- /blog/tfs-field-annotator
+tags:
+- azure
+- code
+- infrastructure
+- tfs
+- tf-service
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-cloud-azure-link-4-4.png
+
 ---
+
 
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…
 
@@ -71,4 +72,5 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
+
 

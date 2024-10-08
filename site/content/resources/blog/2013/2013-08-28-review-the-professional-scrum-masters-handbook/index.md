@@ -1,21 +1,22 @@
 ---
+title: 'Review: The Professional Scrum Masters Handbook'
+date: 2013-08-28
+author: MrHinsh
 id: "9967"
-title: "Review: The Professional Scrum Masters Handbook"
-date: "2013-08-28"
-categories:
-  - "news-and-reviews"
-tags:
-  - "scrum"
-  - "scrum-master"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "review-the-professional-scrum-masters-handbook"
-
+slug: review-the-professional-scrum-masters-handbook
 aliases:
-  - /blog/review-the-professional-scrum-masters-handbook
+- /blog/review-the-professional-scrum-masters-handbook
+tags:
+- scrum
+- scrum-master
+categories:
+- news-and-reviews
+coverImage: nakedalm-experts-professional-scrum-1-1.png
+
 ---
+
 
 I was asked recently to review The Professional Scrum Masters Handbook. As I read this book there were times that I shouted at it and I almost stopped reading in disgust around chapter 4.
 
@@ -59,4 +60,5 @@ Sad but true…
 { .post-img }
 
 If you are a Project Manager moving to Scrum then this book will help you with the transition to a new way of thinking. Remembering that this is an embodiment of the mechanics and not the principals.
+
 

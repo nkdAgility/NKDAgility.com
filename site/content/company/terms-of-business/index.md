@@ -2,12 +2,16 @@
 title: Terms of Business
 description: Terms of Business for the services provided by the company.
 aliases:
-    - /terms/
+- /terms/
 headline:
-    content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
-    title: naked Agility Ltd. Terms of Business.
-    cards: []
+  cards: []
+  title: naked Agility Ltd. Terms of Business.
+  content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
+
 ---
+
+
+
 
 # Overview of our Terms
 
@@ -278,3 +282,6 @@ Here’s the revised version in a more readable format:
    Upon completion of services or termination of the agreement, we will cease access to client servers and destroy or return all credentials.
 
 ---
+
+
+

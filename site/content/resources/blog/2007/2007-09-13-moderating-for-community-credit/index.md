@@ -1,18 +1,19 @@
 ---
+title: Moderating for Community-Credit
+date: 2007-09-13
+author: MrHinsh
 id: "313"
-title: "Moderating for Community-Credit"
-date: "2007-09-13"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "moderating-for-community-credit"
-
+slug: moderating-for-community-credit
 aliases:
-  - /blog/moderating-for-community-credit
+- /blog/moderating-for-community-credit
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.
 
@@ -32,4 +33,5 @@ You can view the credits I have attained by going to [http://community-credit.mu
 [Sign up and start collecting your credit.](http://www.community-credit.com/Login/CreateMember.aspx) Oh, and win prizes!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

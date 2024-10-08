@@ -1,22 +1,23 @@
 ---
+title: TFS Sticky Buddy Update
+date: 2008-09-03
+author: MrHinsh
 id: "200"
-title: "TFS Sticky Buddy Update"
-date: "2008-09-03"
-tags:
-  - "aggreko"
-  - "tfs-sticky-buddy"
-  - "tools"
-  - "wit"
-  - "wpf"
-coverImage: "metro-aggreko-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-sticky-buddy-update"
-
+slug: tfs-sticky-buddy-update
 aliases:
-  - /blog/tfs-sticky-buddy-update
+- /blog/tfs-sticky-buddy-update
+tags:
+- aggreko
+- tfs-sticky-buddy
+- tools
+- wit
+- wpf
+coverImage: metro-aggreko-128-link-1-1.png
+
 ---
+
 
 The Sticky Buddy has been updated to fix the following problems:
 
@@ -29,4 +30,5 @@ I don't as our Proxy is a bit crap and does not detect the changes in .applicati
 
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+
 

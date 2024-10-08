@@ -1,18 +1,19 @@
 ---
+title: I always like a good Serenity plug...
+date: 2008-01-07
+author: MrHinsh
 id: "270"
-title: "I always like a good Serenity plug..."
-date: "2008-01-07"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "i-always-like-a-good-serenity-plug"
-
+slug: i-always-like-a-good-serenity-plug
 aliases:
-  - /blog/i-always-like-a-good-serenity-plug
+- /blog/i-always-like-a-good-serenity-plug
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Your results:  
 **You are Dr. Simon Tam (Ship Medic)**
@@ -22,4 +23,5 @@ Your results:
 [Click here to take the "Which Serenity character am I?" quiz...](http://www.seabreezecomputers.com/serenity)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

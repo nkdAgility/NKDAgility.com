@@ -1,33 +1,34 @@
 ---
+title: Commit to Visual Studio ALM on Area51
+date: 2010-08-15
+author: MrHinsh
 id: "31"
-title: "Commit to Visual Studio ALM on Area51"
-date: "2010-08-15"
-categories:
-  - "me"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "define"
-  - "develop"
-  - "infrastructure"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "commit-to-visual-studio-alm-on-area51"
-
+slug: commit-to-visual-studio-alm-on-area51
 aliases:
-  - /blog/commit-to-visual-studio-alm-on-area51
+- /blog/commit-to-visual-studio-alm-on-area51
+tags:
+- configuration
+- define
+- develop
+- infrastructure
+- operate
+- people
+- practices
+- process
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+categories:
+- me
+- tools-and-techniques
+coverImage: metro-visual-studio-2010-128-link-1-1.png
+
 ---
+
 
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)
 { .post-img }
@@ -96,4 +97,5 @@ We now have question overload and need to concentrate on getting those top 5 On 
 
 [Visual Studio ALM StackExchange Proposal](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
 You have 5 on-topic and 5 off-topic votes to cast.
+
 

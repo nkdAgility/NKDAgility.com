@@ -1,28 +1,29 @@
 ---
+title: Professional Scrum Foundations in Alameda, California
+date: 2012-10-26
+author: MrHinsh
 id: "8981"
-title: "Professional Scrum Foundations in Alameda, California"
-date: "2012-10-26"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "improve"
-  - "measure"
-  - "process"
-  - "process-improvement"
-  - "psf"
-  - "s30d"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-foundations-in-alameda-california"
-
+slug: professional-scrum-foundations-in-alameda-california
 aliases:
-  - /blog/professional-scrum-foundations-in-alameda-california
+- /blog/professional-scrum-foundations-in-alameda-california
+tags:
+- agile
+- improve
+- measure
+- process
+- process-improvement
+- psf
+- s30d
+- scrum
+categories:
+- measure-and-learn
+- people-and-process
+coverImage: nakedalm-experts-professional-scrum-1-1.png
+
 ---
+
 
 Professional Scrum Foundations is my favourite course to teach as it balances fun and learning with practical experience.The [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course is from [Scrum.org](http://scrum.org) and, over two days covers all of the core concepts of Scrum.
 
@@ -122,4 +123,5 @@ The actionable backlog is the single most valuable output from the course. With 
 And these are but a few of the items that you may find on this backlog. As long as you take this backlog, which represents the things that your employees see as being required for success, and execute on it then you should have a chance at success.
 
 Nothing in life is guaranteed…
+
 

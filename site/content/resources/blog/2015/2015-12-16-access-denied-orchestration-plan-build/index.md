@@ -1,21 +1,22 @@
 ---
+title: Access denied for orchestration plan on Build
+date: 2015-12-16
+author: MrHinsh
 id: "11411"
-title: "Access denied for orchestration plan on Build"
-date: "2015-12-16"
-categories:
-  - "install-and-configuration"
-tags:
-  - "build"
-  - "tfs"
-coverImage: "clip_image004-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "access-denied-orchestration-plan-build"
-
+slug: access-denied-orchestration-plan-build
 aliases:
-  - /blog/access-denied-orchestration-plan-build
+- /blog/access-denied-orchestration-plan-build
+tags:
+- build
+- tfs
+categories:
+- install-and-configuration
+coverImage: clip_image004-4-4.png
+
 ---
+
 
 I was trying to setup a Build Agent within one of my current customers. They do over 1 million builds a year through Team City and I need to demonstrate that the new TFS build system is awesome before they will consider it. So it never instils confidence when you get an error…
 
@@ -71,4 +72,5 @@ Once there you can see that I only have the "Project Build Service" in the "User
 { .post-img }
 
 Now, even though my build still fails, it fails for better reasons than just exploding. So if you run into the dreaded "Access denied: Project Collection Build Service does not have write permissions for orchestration plan" you will now know where to look and what might be the issue…
+
 

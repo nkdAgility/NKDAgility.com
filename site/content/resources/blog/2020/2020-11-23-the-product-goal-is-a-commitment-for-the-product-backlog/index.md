@@ -1,20 +1,21 @@
 ---
+title: The Product Goal is a commitment for the Product Backlog
+date: 2020-11-23
+author: MrHinsh
 id: "45086"
-title: "The Product Goal is a commitment for the Product Backlog"
-date: "2020-11-23"
-categories:
-  - "transparency-commitment"
-tags:
-  - "product-goal"
-coverImage: "naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-product-goal-is-a-commitment-for-the-product-backlog"
-
+slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
-  - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
+- /blog/the-product-goal-is-a-commitment-for-the-product-backlog
+tags:
+- product-goal
+categories:
+- transparency-commitment
+coverImage: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
+
 ---
+
 
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure transparency and focus against progress.
 
@@ -37,4 +38,5 @@ Some Good Examples of a Product Goal:
 The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) should be a singular Goal that each Sprint Goal can be crafted towards. It should be short, measurable, and easy to understand. Everyone on the Scrum Team and the wider organisation should understand it and how the work that they are doing contributes to it. It is similar to the Visionary Goal that a Business Doctor I engaged helped me create for my business. Every product, every project, and every business should have a Visionary Goal. In Scrum, we call it the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal).
 
 Do you have a Product Goal?
+
 

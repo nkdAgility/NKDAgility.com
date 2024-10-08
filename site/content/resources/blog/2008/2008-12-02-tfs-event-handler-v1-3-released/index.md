@@ -1,19 +1,20 @@
 ---
+title: TFS Event Handler v1.3 released
+date: 2008-12-02
+author: MrHinsh
 id: "158"
-title: "TFS Event Handler v1.3 released"
-date: "2008-12-02"
-tags:
-  - "tfs-event-handler"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-v1-3-released"
-
+slug: tfs-event-handler-v1-3-released
 aliases:
-  - /blog/tfs-event-handler-v1-3-released
+- /blog/tfs-event-handler-v1-3-released
+tags:
+- tfs-event-handler
+- tools
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Updated and improved for Team System 2008.
 
@@ -73,4 +74,5 @@ The Alerts that you no longer need users to individually setup are:
 There is also a framework for [creating and deploying your own event handlers](http://www.codeplex.com/TFSEventHandler/Wiki/View.aspx?title=TFS%20Event%20Handlers%20v1.0&referringTitle=Home) that can do pretty much whatever you want. One of the shipped examples updates “Heat ITSM” whenever a work item that contains a Heat Id is changed.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+
 

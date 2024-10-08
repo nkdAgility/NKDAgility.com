@@ -1,27 +1,28 @@
 ---
+title: VS2008 Update
+date: 2007-11-20
+author: MrHinsh
 id: "291"
-title: "VS2008 Update"
-date: "2007-11-20"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "code"
-  - "infrastructure"
-  - "moss2007"
-  - "process"
-  - "sharepoint"
-  - "sp2007"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vs2008-update"
-
+slug: vs2008-update
 aliases:
-  - /blog/vs2008-update
+- /blog/vs2008-update
+tags:
+- code
+- infrastructure
+- moss2007
+- process
+- sharepoint
+- sp2007
+- visual-studio
+- vs2008
+categories:
+- upgrade-and-maintenance
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 Well it seems that Microsoft took the generally felt community suggestion and bundles Team Explorer with Visual Studio 2008 team Suit. I don't know if they did the same with VS2008 Pro or the other version, but it would seem a good idea.
 
@@ -35,4 +36,5 @@ This afternoon I will be attending a Microsoft event in Edinburgh "[MSDN: ShareP
 A busy couple of days...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

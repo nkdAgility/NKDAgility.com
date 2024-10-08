@@ -1,23 +1,24 @@
 ---
+title: What is your perspective on collocation?
+date: 2019-10-21
+author: MrHinsh
 id: "39960"
-title: "What is your perspective on collocation?"
-date: "2019-10-21"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "collocation"
-  - "scrum-team"
-  - "team-room"
-coverImage: "1026661500-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-is-your-perspective-on-collocation"
-
+slug: what-is-your-perspective-on-collocation
 aliases:
-  - /blog/what-is-your-perspective-on-collocation
+- /blog/what-is-your-perspective-on-collocation
+tags:
+- collocation
+- scrum-team
+- team-room
+categories:
+- agility
+- people-and-process
+coverImage: 1026661500-1-1.jpg
+
 ---
+
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -47,4 +48,5 @@ This type of space provides not only a level of Focus, but a level of self, of o
 Its clear from the data that collocation is best, but its just not always available based on company culture and how things are organised. If you are unable to be collocated then the role of the Scrum Master is to work to minimise the negative impact of the team while working on the organisational impediments that resulted in the problem in the first place. Hopefully we will all be working in team rooms in the future.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
+
 

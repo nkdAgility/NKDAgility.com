@@ -1,18 +1,19 @@
 ---
+title: VS2005 - Signtool requires CAPICOM version 2.1.0.1
+date: 2007-02-07
+author: MrHinsh
 id: "435"
-title: "VS2005 - Signtool requires CAPICOM version 2.1.0.1"
-date: "2007-02-07"
-tags:
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vs2005-signtool-requires-capicom-version-2-1-0-1"
-
+slug: vs2005-signtool-requires-capicom-version-2-1-0-1
 aliases:
-  - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
+- /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
+tags:
+- vs2005
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 If you get the following error publishing a project,
 
@@ -26,4 +27,5 @@ Follow these steps
 5. You should now be able to publish via ClickOnce.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+
 

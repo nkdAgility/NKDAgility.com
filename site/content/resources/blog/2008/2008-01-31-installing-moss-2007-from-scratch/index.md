@@ -1,26 +1,27 @@
 ---
+title: Installing MOSS 2007 from scratch
+date: 2008-01-31
+author: MrHinsh
 id: "253"
-title: "Installing MOSS 2007 from scratch"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "moss"
-  - "moss2007"
-  - "sp2007"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-moss-2007-from-scratch"
-
+slug: installing-moss-2007-from-scratch
 aliases:
-  - /blog/installing-moss-2007-from-scratch
+- /blog/installing-moss-2007-from-scratch
+tags:
+- configuration
+- infrastructure
+- moss
+- moss2007
+- sp2007
+- tools
+categories:
+- code-and-complexity
+- upgrade-and-maintenance
+coverImage: nakedalm-logo-128-link-7-7.png
+
 ---
+
 
 I am having occasion to rebuild my Microsoft Office SharePoint Server (MOSS) development server. In fact, I killed it by adding a Business Data Catalog (BDC) that pointed to a table that had just over a million rows... Now, maybe this would not have caused a problem if I was not using a single server deployment with SQL server on the same box...
 
@@ -90,4 +91,5 @@ Well that's it all installed, just waiting for my SPN's so I can start adding si
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

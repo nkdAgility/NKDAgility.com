@@ -1,22 +1,23 @@
 ---
+title: End of another Sticky week...
+date: 2008-04-18
+author: MrHinsh
 id: "237"
-title: "End of another Sticky week..."
-date: "2008-04-18"
-categories:
-  - "me"
-tags:
-  - "tfs-sticky-buddy"
-  - "wit"
-  - "wpf"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "end-of-another-sticky-week"
-
+slug: end-of-another-sticky-week
 aliases:
-  - /blog/end-of-another-sticky-week
+- /blog/end-of-another-sticky-week
+tags:
+- tfs-sticky-buddy
+- wit
+- wpf
+categories:
+- me
+coverImage: nakedalm-logo-128-link-3-3.png
+
 ---
+
 
 As you have probably noticed I have been soldiering on with the [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project, and I though I would share.
 
@@ -35,4 +36,5 @@ If you want a go of these features you will need to [download the source](http:/
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+
 

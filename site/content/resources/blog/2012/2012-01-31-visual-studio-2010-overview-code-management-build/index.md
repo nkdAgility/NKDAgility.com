@@ -1,25 +1,26 @@
 ---
+title: Visual Studio 2010 Overview - Code Management and Build
+date: 2012-01-31
+author: MrHinsh
 id: "4182"
-title: "Visual Studio 2010 Overview - Code Management and Build"
-date: "2012-01-31"
-tags:
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "webcast-2"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2010-overview-code-management-build"
-
+slug: visual-studio-2010-overview-code-management-build
 aliases:
-  - /blog/visual-studio-2010-overview-code-management-build
+- /blog/visual-studio-2010-overview-code-management-build
+tags:
+- modern-alm
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- webcast-2
+coverImage: metro-visual-studio-2010-128-link-1-1.png
+
 ---
+
 
 Branching Merging and Build are two parts of the overall software development cycle. In the Branching and Merging session, we cover industries standard approaches to branching and merging, the pros and Cons of the standard approaches, and how each strategy might fit your company needs. In the Build section we cover how to setup a build to help teams deliver quality software. We also cover how the build and branching & merging (or Code Lines) are all integrated within Visual Studio 2010. We also cover the new features and tools that Visual Studio has to offer.
 
@@ -51,4 +52,5 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 **Screencast:  Visual Studio 2010 Overview – Code Management & Build**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts_. **_If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2)._**\_\_
+
 

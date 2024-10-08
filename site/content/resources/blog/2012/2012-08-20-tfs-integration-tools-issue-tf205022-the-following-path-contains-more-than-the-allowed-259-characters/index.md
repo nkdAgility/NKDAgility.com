@@ -1,23 +1,24 @@
 ---
+title: 'TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters'
+date: 2012-08-20
+author: MrHinsh
 id: "7255"
-title: "TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters"
-date: "2012-08-20"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tf205022"
-  - "tfs"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters"
-
+slug: tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
 aliases:
-  - /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+- /blog/tfs-integration-tools-issue-tf205022-the-following-path-contains-more-than-the-allowed-259-characters
+tags:
+- puzzles
+- tf205022
+- tfs
+- tfs-integration-platform
+categories:
+- problems-and-puzzles
+coverImage: metro-problem-icon-4-4.png
+
 ---
+
 
 You get error “TF205022: The following path contains more than the allowed 259 characters” when trying to migrate over some folders.
 
@@ -89,4 +90,5 @@ Now that the path has been shortened the Integration Platform should detect that
 In order to proceed I will need to again recreate the session. Remembering to call “tf destroy” on the source that has already been migrated.
 
 **Did this help you save a few characters from your path?**
+
 

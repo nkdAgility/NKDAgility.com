@@ -1,27 +1,28 @@
 ---
+title: Searching for self-organisation
+date: 2013-07-31
+author: MrHinsh
 id: "9741"
-title: "Searching for self-organisation"
-date: "2013-07-31"
-categories:
-  - "people-and-process"
-tags:
-  - "culture"
-  - "development-team"
-  - "improve"
-  - "project-manager"
-  - "self-organisation"
-  - "strategic"
-  - "team"
-  - "teams"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "searching-for-self-organisation"
-
+slug: searching-for-self-organisation
 aliases:
-  - /blog/searching-for-self-organisation
+- /blog/searching-for-self-organisation
+tags:
+- culture
+- development-team
+- improve
+- project-manager
+- self-organisation
+- strategic
+- team
+- teams
+categories:
+- people-and-process
+coverImage: nakedalm-experts-professional-scrum-1-1.png
+
 ---
+
 
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.
 
@@ -55,4 +56,5 @@ Remember that the biggest killer of self-organising teams is a manager who just 
 Without self-organisation, no matter how much we try, all we can ever have is a glorified collection on individuals that think and operate as individuals. Just like with sports teams we want to have those individuals identify as a team, to work together as a team and function as a team. The only way to achieve this is to have them **be a team**. You would not want the coach to swap out players on football game for every match? How effective would that be? So don’t do it to your teams…
 
 If you get really good at self-organising teams you may find your organisations formula to high-performing teams…
+
 

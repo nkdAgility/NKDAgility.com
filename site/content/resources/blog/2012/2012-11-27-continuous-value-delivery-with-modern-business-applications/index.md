@@ -1,34 +1,35 @@
 ---
+title: Continuous value delivery with modern business applications
+date: 2012-11-27
+author: MrHinsh
 id: "9149"
-title: "Continuous value delivery with modern business applications"
-date: "2012-11-27"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "continious-value-delivery"
-  - "define"
-  - "develop"
-  - "improve"
-  - "infrastructure"
-  - "measure"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "tfs2012"
-  - "vs2012"
-  - "vs-2012-1"
-coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "continuous-value-delivery-with-modern-business-applications"
-
+slug: continuous-value-delivery-with-modern-business-applications
 aliases:
-  - /blog/continuous-value-delivery-with-modern-business-applications
+- /blog/continuous-value-delivery-with-modern-business-applications
+tags:
+- continious-value-delivery
+- define
+- develop
+- improve
+- infrastructure
+- measure
+- operate
+- people
+- practices
+- process
+- tfs2012
+- vs2012
+- vs-2012-1
+categories:
+- measure-and-learn
+- people-and-process
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-2-2.png
+
 ---
+
 
 I have talked before on the [new normal for software development](http://blog.hinshelwood.com/the-new-normal-of-the-modern-application-lifecycle/) as part of the Visual Studio 2012 launch events and Microsoft in itself is not immune to this change.
 
@@ -74,4 +75,5 @@ And that is not even the end of the story, with the launch of [Visual Studio Tea
 And not only is this a Visual Studio thing; [Apollo Plus](http://www.zdnet.com/apollo-plus-is-this-microsofts-first-windows-phone-8-update-7000007926/) (Windows Phone 8 Update 1) is due almost exactly 3 months after the RTM of Windows Phone 8.
 
 I for one have high hopes of new features for all of Microsoft's products every quarter but some products have more technical debt to pay of than others…
+
 

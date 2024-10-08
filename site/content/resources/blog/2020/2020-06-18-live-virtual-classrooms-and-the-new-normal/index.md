@@ -1,20 +1,21 @@
 ---
+title: Live Virtual Classroom's and the new normal
+date: 2020-06-18
+author: MrHinsh
 id: "44418"
-title: "Live Virtual Classroom's and the new normal"
-date: "2020-06-18"
-categories:
-  - "agility"
-tags:
-  - "leadership-track"
-coverImage: "image-1-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "live-virtual-classrooms-and-the-new-normal"
-
+slug: live-virtual-classrooms-and-the-new-normal
 aliases:
-  - /blog/live-virtual-classrooms-and-the-new-normal
+- /blog/live-virtual-classrooms-and-the-new-normal
+tags:
+- leadership-track
+categories:
+- agility
+coverImage: image-1-1-1.png
+
 ---
+
 
 With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.
 
@@ -62,4 +63,5 @@ I think this especially makes sense for the world of product delivery. Why go to
 **Welcome the New Normal**
 
 I am sure that an extrovert might have a different opinion initially, however, once we are out of lockdown and able to socialize in-person again I am sure that they can find their fix. For those of us in the knowledge industry, this is a new era. Embrace it, adapt to it, or it may just leave you behind!
+
 

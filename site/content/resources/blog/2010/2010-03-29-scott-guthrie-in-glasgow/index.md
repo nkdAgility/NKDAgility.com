@@ -1,25 +1,26 @@
 ---
+title: Scott Guthrie in Glasgow
+date: 2010-03-29
+author: MrHinsh
 id: "58"
-title: "Scott Guthrie in Glasgow"
-date: "2010-03-29"
-categories:
-  - "events-and-presentations"
-  - "me"
-tags:
-  - "silverlight"
-  - "visual-studio"
-  - "vs2010"
-  - "wp7"
-  - "wpf"
-coverImage: "metro-visual-studio-2010-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "scott-guthrie-in-glasgow"
-
+slug: scott-guthrie-in-glasgow
 aliases:
-  - /blog/scott-guthrie-in-glasgow
+- /blog/scott-guthrie-in-glasgow
+tags:
+- silverlight
+- visual-studio
+- vs2010
+- wp7
+- wpf
+categories:
+- events-and-presentations
+- me
+coverImage: metro-visual-studio-2010-128-link-2-1.png
+
 ---
+
 
 ![redshirt[1]](images/ScottGuthrieinGlagsow_8765-redshirt1_-3-2.jpg)Last week Scott Guthrie was in Glasgow for his new [Guathon](http://developerdeveloperdeveloper.com/guglas/) tour, which was a roaring success. Scott did talks on the new features in Visual Studio 2010, Silverlight 4, ASP.NET MVC 2 and Windows Phone 7. Scott talked from 10am till 4pm, so this can only contain what I remember and I am sure lots of things he discussed just went in one ear and out another, however I have tried to capture at least all of my Ohh’s and Ahh’s.
 { .post-img }
@@ -84,4 +85,5 @@ What _was_ Scott working on on his flight back to the US? ![Tongue out](images/S
 Follow: [@CAMURPHY](http://twitter.com/CAMURPHY "http://twitter.com/CAMURPHY"), [@ColinMackay](http://twitter.com/ColinMackay "http://twitter.com/ColinMackay"), [@plip](http://twitter.com/plip "http://twitter.com/plip") and of course [@ScottGu](http://twitter.com/ScottGu)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2010](http://technorati.com/tags/VS+2010) [WP7](http://technorati.com/tags/WP7) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight)
+
 

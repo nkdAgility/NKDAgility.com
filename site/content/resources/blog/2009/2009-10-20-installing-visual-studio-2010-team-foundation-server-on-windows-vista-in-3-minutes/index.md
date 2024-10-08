@@ -1,24 +1,25 @@
 ---
+title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes
+date: 2009-10-20
+author: MrHinsh
 id: "84"
-title: "Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes"
-date: "2009-10-20"
-tags:
-  - "aggreko"
-  - "codeproject"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes"
-
+slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliases:
-  - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+- /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+tags:
+- aggreko
+- codeproject
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+coverImage: metro-visual-studio-2010-128-link-7-7.png
+
 ---
+
 
 New in Visual Studio 2010 is the ability to install TFS on XP, Vista and Windows 7. You can use SQL 2008 Express, so no large overhead, and the Basic version you use for this does have the reporting and SharePoint requirement that the main install does. That does not mean that you can't upgrade later :)
 
@@ -51,4 +52,5 @@ Total install time: 3 minutes (which includes the time to take these screenshots
 Now that I have TFS2010 installed I will need to [configure](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) it...
 
 Technorati Tags: [CodeProject](http://technorati.com/tags/CodeProject) [ALM](http://technorati.com/tags/ALM) [Visual Studio](http://technorati.com/tags/Visual+Studio) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2010](http://technorati.com/tags/TFS+2010)
+
 

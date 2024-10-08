@@ -1,26 +1,27 @@
 ---
+title: Install SharePoint 2013 on Windows Server 2012 without a domain
+date: 2012-08-07
+author: MrHinsh
 id: "7067"
-title: "Install SharePoint 2013 on Windows Server 2012 without a domain"
-date: "2012-08-07"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "windows-server-2012"
-  - "sharepoint"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-23-23.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "install-sharepoint-2013-on-windows-server-2012-without-a-domain"
-
+slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliases:
-  - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
+- /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
+tags:
+- configuration
+- infrastructure
+- windows-server-2012
+- sharepoint
+- tools
+categories:
+- code-and-complexity
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: metro-sharepoint-128-link-23-23.png
+
 ---
+
 
 Any setup of Team Foundation Server is not complete until you have at least tried t work with SharePoint. While I have many customers that like to stay away from  SharePoint I also have many that make it an integral part of not just their TFS install, but their corporate network, offerings and culture.
 
@@ -229,4 +230,5 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
+
 

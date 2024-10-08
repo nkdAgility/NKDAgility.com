@@ -1,20 +1,21 @@
 ---
+title: Am I a stoner hippy?
+date: 2009-01-12
+author: MrHinsh
 id: "146"
-title: "Am I a stoner hippy?"
-date: "2009-01-12"
-categories:
-  - "me"
-tags:
-  - "dyslexia"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "am-i-a-stoner-hippy"
-
+slug: am-i-a-stoner-hippy
 aliases:
-  - /blog/am-i-a-stoner-hippy
+- /blog/am-i-a-stoner-hippy
+tags:
+- dyslexia
+categories:
+- me
+coverImage: nakedalm-logo-128-link-3-3.png
+
 ---
+
 
 In my email signature, and in the title of my blog, I have the phrase “multi-dimensional free thinker”, and I was recently pulled up for it…
 
@@ -49,4 +50,5 @@ I have heard of a number of companies who will only employ dyslexic people for p
 There are many famous dyslexic people the world over, including: Walt Disney, Tom Cruise, Thomas Edison, Babe Ruth, Alexander Graham Bell, and John F. Kennedy and Agatha Christi who reportedly could not spell to save herself… thank god for good editors…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
+
 

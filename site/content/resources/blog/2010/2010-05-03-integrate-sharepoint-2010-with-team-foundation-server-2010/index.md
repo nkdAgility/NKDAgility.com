@@ -1,32 +1,33 @@
 ---
+title: Integrate SharePoint 2010 with Team Foundation Server 2010
+date: 2010-05-03
+author: MrHinsh
 id: "44"
-title: "Integrate SharePoint 2010 with Team Foundation Server 2010"
-date: "2010-05-03"
-categories:
-  - "code-and-complexity"
-  - "upgrade-and-maintenance"
-tags:
-  - "codeproject"
-  - "configuration"
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "ssw"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2010-128-link-15-15.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "integrate-sharepoint-2010-with-team-foundation-server-2010"
-
+slug: integrate-sharepoint-2010-with-team-foundation-server-2010
 aliases:
-  - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+- /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
+tags:
+- codeproject
+- configuration
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- spf2010
+- ssw
+- tfs
+- tfs2008
+- tfs2010
+- tools
+categories:
+- code-and-complexity
+- upgrade-and-maintenance
+coverImage: metro-visual-studio-2010-128-link-15-15.png
+
 ---
+
 
 Our client is using a brand new shiny installation of SharePoint 2010, so now we need to integrate SharePoint 2010 our upgraded Team Foundation Server 2010 instance into it.
 
@@ -153,4 +154,5 @@ You will need to add all of the users that will be creating Team Projects to be 
 You can now go forth and multiple your Team Projects for this Team Project Collection or you can continue to add portals to your other Collections.
 
 _\-Are you having trouble integrating TFS with Sharepoint? Northwest Cadence can help you integrate these two systems together. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
+
 

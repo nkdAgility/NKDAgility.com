@@ -1,27 +1,28 @@
 ---
+title: One Team Project Collection to rule them all - Consolidating Team Projects
+date: 2012-07-12
+author: MrHinsh
 id: "6109"
-title: "One Team Project Collection to rule them all - Consolidating Team Projects"
-date: "2012-07-12"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "one-team-project-seriese"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-integration-platform"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-10-10.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "one-team-project-collection-to-rule-them-allconsolidating-team-projects"
-
+slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects
 aliases:
-  - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
+- /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
+tags:
+- configuration
+- infrastructure
+- one-team-project-seriese
+- tfs
+- tfs2012
+- tfs-integration-platform
+- tools
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-10-10.png
+
 ---
+
 
 Following on from last weeks successful [Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) I finished off the last of the 20-30 Team Project Process Template migration/upgrades to a customised form on the Visual Studio Scrum 2.0. We only added a couple of fields, but we also defined a process and strategy for use of the Template within the organisation.
 
@@ -288,4 +289,5 @@ While it is difficult to migrate data or move data around in Team Foundation Ser
 - Did you mistakenly create multiple Team Project Collections?
 
 If so then give us a call and we can help you fix it…
+
 

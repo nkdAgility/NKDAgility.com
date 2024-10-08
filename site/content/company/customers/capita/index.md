@@ -1,11 +1,18 @@
 ---
+title: Capita Secure Information Solutions Ltd
+date: 2019-05-10
+author: MrHinsh
 id: "38426"
-title: "Capita Secure Information Solutions Ltd"
-date: "2019-05-10"
+type: customers
+slug: capita
 tags:
-  - "homepage"
-coverImage: "nkdagility-customer-capita.png"
-author: "MrHinsh"
-type: "customers"
-slug: "capita"
+- homepage
+coverImage: nkdagility-customer-capita.png
+
 ---
+
+
+
+
+
+

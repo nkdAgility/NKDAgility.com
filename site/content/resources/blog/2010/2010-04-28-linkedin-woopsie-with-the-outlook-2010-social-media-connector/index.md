@@ -1,22 +1,23 @@
 ---
+title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
+date: 2010-04-28
+author: MrHinsh
 id: "47"
-title: "LinkedIn Woopsie with the Outlook 2010 Social Media Connector"
-date: "2010-04-28"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "linkedin"
-  - "outlook-2010"
-coverImage: "nakedalm-logo-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "linkedin-woopsie-with-the-outlook-2010-social-media-connector"
-
+slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
-  - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+- /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
+tags:
+- fail
+- linkedin
+- outlook-2010
+categories:
+- me
+coverImage: nakedalm-logo-128-link-4-4.png
+
 ---
+
 
 ![linkedin-logo](images/LinkedInAccountSuspended_F8E0-linkedin-logo_-2-2.jpg)I have always used the LinkedIn toolbar for Outlook to sort out, upload and sync my contacts. Because of this I have over 2000 contacts in my contacts list that I sync with my phone, Plaxo, live, Google and others.
 { .post-img }
@@ -66,4 +67,5 @@ It only tool another hour after I explained where I thought the problem was for 
 Credit to LinkedIn for solving it quickly..
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [LinkedIn](http://technorati.com/tags/LinkedIn) [Outlook 2010](http://technorati.com/tags/Outlook+2010)
+
 

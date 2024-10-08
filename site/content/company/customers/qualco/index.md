@@ -1,9 +1,16 @@
 ---
+title: Qualco
+date: 2020-10-24
+author: MrHinsh
 id: "11845"
-title: "Qualco"
-date: "2020-10-24"
-coverImage: "nkdagility-customer-qualco-200x75.png"
-author: "MrHinsh"
-type: "customers"
-slug: "qualco"
+type: customers
+slug: qualco
+coverImage: nkdagility-customer-qualco-200x75.png
+
 ---
+
+
+
+
+
+

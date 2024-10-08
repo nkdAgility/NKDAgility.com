@@ -1,26 +1,27 @@
 ---
+title: How do you make a good Forecast?
+date: 2019-09-09
+author: MrHinsh
 id: "39852"
-title: "How do you make a good Forecast?"
-date: "2019-09-09"
-categories:
-  - "agility"
-  - "measure-and-learn"
-tags:
-  - "budget"
-  - "forcast"
-  - "roadmap"
-  - "scrum"
-  - "scrum-team"
-  - "sprint-review"
-coverImage: "993957510-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-do-you-make-a-good-forecast"
-
+slug: how-do-you-make-a-good-forecast
 aliases:
-  - /blog/how-do-you-make-a-good-forecast
+- /blog/how-do-you-make-a-good-forecast
+tags:
+- budget
+- forcast
+- roadmap
+- scrum
+- scrum-team
+- sprint-review
+categories:
+- agility
+- measure-and-learn
+coverImage: 993957510-1-1.jpg
+
 ---
+
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -43,4 +44,5 @@ If you have 5 people on a Scrum Team then the cost of running that team is known
 The pushback you get from this transition is generally due to those deep-seated tayloristic ideas and fear of what your company is going to do with all of those Project Managers, Accountants, and HR, as well as those Managers that have to justify their headcount. Don’t surprise them, involve them. Help them understand what the new world will eventually look like, a rough transition timeline, and what other options are open to the folks that you no longer need in their current role. Have them join and form Scrum Teams to solve complex problems and some folks will embrace change and others will not; That's OK.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+
 

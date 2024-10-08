@@ -1,21 +1,22 @@
 ---
+title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
+date: 2008-08-12
+author: MrHinsh
 id: "210"
-title: "Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM"
-date: "2008-08-12"
-tags:
-  - "aggreko"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm"
-
+slug: problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
 aliases:
-  - /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+- /blog/problems-with-team-explorer-after-installed-visual-studio-2008-sp1-rtm
+tags:
+- aggreko
+- tools
+- visual-studio
+- vs2008
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 I received the following error box after installing VS2008 SP1 RTM:
 
@@ -41,4 +42,5 @@ If the reinstall of the SP fixes my problem, I will update there…
 **Update 2008-08-15: I have installed SP1 sucessfully on 3 other computers.... Even ones that already had SP1 Beta1... Must just have been my workstation... double humph!**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+
 

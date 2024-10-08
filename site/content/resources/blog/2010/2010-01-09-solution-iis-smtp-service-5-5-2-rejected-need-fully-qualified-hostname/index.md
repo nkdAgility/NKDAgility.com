@@ -1,20 +1,21 @@
 ---
+title: 'Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname'
+date: 2010-01-09
+author: MrHinsh
 id: "72"
-title: "Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname"
-date: "2010-01-09"
-tags:
-  - "network"
-  - "ssw"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname"
-
+slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 aliases:
-  - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+- /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
+tags:
+- network
+- ssw
+- tools
+coverImage: metro-SSWLogo-128-link-5-5.png
+
 ---
+
 
 We had a small problem today with a new site we were going live with. It was refusing to send emails in 90% of cases. Problems like these are always difficult to identify, but your first step is always to enable logging.
 
@@ -71,4 +72,5 @@ To fix:
 You should now be able to send emails from your site without any problems.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
+
 

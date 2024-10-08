@@ -1,40 +1,49 @@
 ---
-author: MrHinsh
 title: Engineering Practices Workshop
-aliases:
-  - /training-courses/engineering-practices-workshop/
 date: 2013-09-06
-delivery:
-  audience: ""
-  skilllevel: Unknown
-  format: ""
-  courseAssessmentIcon: ""
-  objectives: ""
-  certification: ""
-  prerequisites: ""
-  duration: 8
-  code: NKD-ENG
-  topics: ""
-  details: ""
-  type: Agile Philosophy
-  brand:
-    colour:
-    vendor: naked-alm
-  lead: ""
-  courseIcon: NKD-Eng.png
-slug: engineering-practices-workshop
+author: MrHinsh
 id: "10108"
+type: course
+slug: engineering-practices-workshop
+aliases:
+- /training-courses/engineering-practices-workshop/
 tags:
-  - development
-  - workshop
+- development
+- workshop
 card:
-  content: ""
-  title: ""
   button:
     content: ""
-type: course
+  title: ""
+  content: ""
+delivery:
+  prerequisites: ""
+  lead: ""
+  objectives: ""
+  courseAssessmentIcon: ""
+  skilllevel: Unknown
+  audience: ""
+  type: Agile Philosophy
+  details: ""
+  topics: ""
+  format: ""
+  duration: 8
+  certification: ""
+  brand:
+    vendor: naked-alm
+    colour: 
+  code: NKD-ENG
+  courseIcon: NKD-Eng.png
+
 ---
+
+
+
+
 
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.
 
 [Request Course](/company/general-inquiries/) [Download Syllabus](#)
+
+
+
+

@@ -1,21 +1,22 @@
 ---
+title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country
+date: 2012-08-26
+author: MrHinsh
 id: "7712"
-title: "Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country"
-date: "2012-08-26"
-categories:
-  - "me"
-tags:
-  - "teamviewer"
-  - "win8"
-coverImage: "nakedalm-logo-128-link-15-15.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country"
-
+slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
-  - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+- /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
+tags:
+- teamviewer
+- win8
+categories:
+- me
+coverImage: nakedalm-logo-128-link-15-15.png
+
 ---
+
 
 Do you have parents that could not install an application let alone and operating system? Do they live in a country other than the one that you are currently in? Well mine do and the thing that helps me most in helping them is a little app called Team Viewer.
 
@@ -131,4 +132,5 @@ The first thing that you need to do is check for updates and validate that all o
 … Now to get her some apps, uninstall office 2007 in favour of Office 365 Preview…
 
 **How did you get on updating your remote family members?**
+
 

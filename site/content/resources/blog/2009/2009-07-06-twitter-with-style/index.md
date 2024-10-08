@@ -1,20 +1,21 @@
 ---
+title: Twitter with style
+date: 2009-07-06
+author: MrHinsh
 id: "105"
-title: "Twitter with style"
-date: "2009-07-06"
-categories:
-  - "me"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "twitter-with-style"
-
+slug: twitter-with-style
 aliases:
-  - /blog/twitter-with-style
+- /blog/twitter-with-style
+tags:
+- windows-mobile-6
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I have been using an excellent piece of software for twittering form my Windows Mobile. [Twikini](http://www.trinketsoftware.com/Twikini) has all of the features you would expect, as well as working fantastically with the IPhone like features of Windows Mobile 6.5.
 
@@ -26,4 +27,5 @@ I had used a few of the other apps that are available, but I think this is the b
 Ahh well, can’t have everything…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Windows](http://technorati.com/tags/Windows)
+
 

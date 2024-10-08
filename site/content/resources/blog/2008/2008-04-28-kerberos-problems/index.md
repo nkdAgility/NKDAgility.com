@@ -1,24 +1,25 @@
 ---
+title: Kerberos problems
+date: 2008-04-28
+author: MrHinsh
 id: "235"
-title: "Kerberos problems"
-date: "2008-04-28"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "infrastructure"
-  - "kerberos"
-  - "off-topic"
-  - "security"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "kerberos-problems"
-
+slug: kerberos-problems
 aliases:
-  - /blog/kerberos-problems
+- /blog/kerberos-problems
+tags:
+- infrastructure
+- kerberos
+- off-topic
+- security
+- tools
+categories:
+- problems-and-puzzles
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I have been having a lot of Kerberos double hop problems on the network at work, and although I have not yet managed to fix them... I did find these useful pages:
 
@@ -29,4 +30,5 @@ I have been having a lot of Kerberos double hop problems on the network at work,
 I will keep you updated on my progress...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+
 

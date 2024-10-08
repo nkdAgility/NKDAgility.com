@@ -1,21 +1,22 @@
 ---
+title: 'Process Template Upgrade #3 - Destroy all Work Items and Import new ones'
+date: 2011-10-21
+author: MrHinsh
 id: "3951"
-title: "Process Template Upgrade #3 - Destroy all Work Items and Import new ones"
-date: "2011-10-21"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones"
-
+slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
-  - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+- /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+tags:
+- tfs
+- tfs2008
+- tfs2010
+- tools
+coverImage: metro-visual-studio-2005-128-link-5-5.png
+
 ---
+
 
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")
 { .post-img }
@@ -169,4 +170,5 @@ This will allow you to move from one process template to another, but there are 
        **Figure: Link Types only need to be added once**
 
 And you are done.
+
 

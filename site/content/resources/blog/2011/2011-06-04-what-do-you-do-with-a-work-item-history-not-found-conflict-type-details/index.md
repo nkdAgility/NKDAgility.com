@@ -1,24 +1,25 @@
 ---
+title: What do you do with a Work Item History Not Found Conflict Type Details
+date: 2011-06-04
+author: MrHinsh
 id: "3460"
-title: "What do you do with a Work Item History Not Found Conflict Type Details"
-date: "2011-06-04"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-do-you-do-with-a-work-item-history-not-found-conflict-type-details"
-
+slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
-  - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+- /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+tags:
+- code
+- nwcadence
+- tfs
+- tfs2010
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-binary-vb-128-link-4-4.png
+
 ---
+
 
 ![](images/image_thumb-1-1.png)
 { .post-img }
@@ -680,4 +681,5 @@ The data that comes back all has a status of 5 and a backlog value of 1:
 **Figure: What this means is anyone's guess**
 
 This is a blocking issue from me and I have no idea how to “un-backlog” these items….
+
 

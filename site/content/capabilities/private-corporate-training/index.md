@@ -18,6 +18,13 @@ card:
 
 
 
+
+
+
+
+
+
+
 Elevate Your Team's Performance with NKDAgility's Agile & DevOps Training!
 
 At NKDAgility.com, we're committed to driving efficiency, collaboration, and innovation in your organization through our specialized Agile and DevOps training. Our programs are expertly designed to elevate your team's performance in the rapidly evolving business world.
@@ -31,5 +38,12 @@ We offer unmatched flexibility in learning formats, providing both online and in
 By participating in our Agile and DevOps training, your team will not only master these frameworks but also learn to apply them effectively, enhancing teamwork, and operational efficiency, and driving forward-thinking innovation.
 
 Invest in your team's success and stay ahead in the game with NKDAgility's Agile and DevOps training programs. Sign up today and transform your team into a powerhouse of efficiency and innovation!
+
+
+
+
+
+
+
 
 

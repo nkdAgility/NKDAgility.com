@@ -1,22 +1,23 @@
 ---
+title: Developing Peer-To-Peer Applications With WCF
+date: 2007-09-06
+author: MrHinsh
 id: "317"
-title: "Developing Peer-To-Peer Applications With WCF"
-date: "2007-09-06"
-categories:
-  - "me"
-tags:
-  - "service-oriented-architecture"
-  - "tfs"
-  - "tools"
-  - "wcf"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developing-peer-to-peer-applications-with-wcf"
-
+slug: developing-peer-to-peer-applications-with-wcf
 aliases:
-  - /blog/developing-peer-to-peer-applications-with-wcf
+- /blog/developing-peer-to-peer-applications-with-wcf
+tags:
+- service-oriented-architecture
+- tfs
+- tools
+- wcf
+categories:
+- me
+
 ---
+
 
 I recently had the need to create and deliver a presentation on [Developing Peer-To-Peer Applications With WCF](http://presentations.multidimensionalfreethinking.co.uk/Developing%20Peer-To-Peer%20Applications%20With%20WCF.pptx). Although the technical content was good, my delivery was not. I got stage fright...
 
@@ -33,4 +34,5 @@ Anyway, here it is...
 I owe a lot of thanks to the authors of [Pro WCF: Practical Microsoft SOA Implementation](http://www.amazon.co.uk/Pro-WCF-Practical-Microsoft-Implementation/dp/1590597028) without which I would not have been able to put the presentation together in three days at all.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [SOA](http://technorati.com/tags/SOA) [WCF](http://technorati.com/tags/WCF) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+
 

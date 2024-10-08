@@ -1,22 +1,23 @@
 ---
+title: 'TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled'
+date: 2012-08-09
+author: MrHinsh
 id: "7104"
-title: "TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled"
-date: "2012-08-09"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tfs"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled"
-
+slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
-  - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+- /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
+tags:
+- puzzles
+- tfs
+- tfs-integration-platform
+categories:
+- problems-and-puzzles
+coverImage: metro-problem-icon-5-5.png
+
 ---
+
 
 When you run the TFS Integration Platform for the first time with TFS WIT bypass-rule submission enabled you will likely get the following error:
 
@@ -79,4 +80,5 @@ tfssecurity /g+ "Team Foundation Service Accounts" n:domainusername ALLOW /serve
 Now you have that sorted you are ready to rock…
 
 **Did this help you?**
+
 

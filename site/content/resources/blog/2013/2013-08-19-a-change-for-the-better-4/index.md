@@ -1,23 +1,24 @@
 ---
+title: 'A change for the better #4 - Homecoming'
+date: 2013-08-19
+author: MrHinsh
 id: "9951"
-title: "A change for the better #4 - Homecoming"
-date: "2013-08-19"
-categories:
-  - "news-and-reviews"
-tags:
-  - "change"
-  - "change-for-the-better"
-  - "modern-alm"
-  - "northwest-cadence"
-coverImage: "nakedalm-logo-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "a-change-for-the-better-4"
-
+slug: a-change-for-the-better-4
 aliases:
-  - /blog/a-change-for-the-better-4
+- /blog/a-change-for-the-better-4
+tags:
+- change
+- change-for-the-better
+- modern-alm
+- northwest-cadence
+categories:
+- news-and-reviews
+coverImage: nakedalm-logo-128-link-4-4.png
+
 ---
+
 
 Yet another change for the better as I move in a few months back to Scotland to join my family. My flights are booked.
 
@@ -70,4 +71,5 @@ I want to try and find the bulk of my work in Glasgow and the surrounding area b
 As with my continuing work with Northwest Cadence in the USA I will be providing consulting, coaching, and mentoring around lean-agile, Scrum, and Visual Studio ALM in the United Kingdom and Europe.
 
 **Are you in Scotland? Do you have a need to improve your current practices? Get in touch so that I can start helping you out.**
+
 

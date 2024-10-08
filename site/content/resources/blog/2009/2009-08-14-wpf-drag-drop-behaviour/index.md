@@ -1,26 +1,27 @@
 ---
+title: Wpf Drag & Drop behaviour
+date: 2009-08-14
+author: MrHinsh
 id: "92"
-title: "Wpf Drag & Drop behaviour"
-date: "2009-08-14"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "codeproject"
-  - "mvvm"
-  - "silverlight"
-  - "tools"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "wpf-drag-drop-behaviour"
-
+slug: wpf-drag-drop-behaviour
 aliases:
-  - /blog/wpf-drag-drop-behaviour
+- /blog/wpf-drag-drop-behaviour
+tags:
+- code
+- codeproject
+- mvvm
+- silverlight
+- tools
+- wpf
+categories:
+- code-and-complexity
+- me
+coverImage: metro-binary-vb-128-link-5-1.png
+
 ---
+
 
 A colleague of mine was having a bit of trouble getting drag and drop working in a way that fitted well with the MVVM pattern. This is really quite simple once you have a certain level of understanding of Patterns, but is a complete nightmare if you do not.
 
@@ -149,4 +150,5 @@ I have highlighted the two main classes, and we have already discussed the Check
 I have put this [up on Codeplex](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504), and both the [source](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79055) and [binaries](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79056) are available.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [Silverlight](http://technorati.com/tags/Silverlight)
+
 

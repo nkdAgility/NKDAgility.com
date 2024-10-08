@@ -1,21 +1,22 @@
 ---
+title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
+date: 2016-02-10
+author: MrHinsh
 id: "11430"
-title: "Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup"
-date: "2016-02-10"
-categories:
-  - "install-and-configuration"
-tags:
-  - "onedrive"
-  - "windows"
-coverImage: "clip_image001-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mapping-windows-special-folders-onedrive-business-ultimate-backup"
-
+slug: mapping-windows-special-folders-onedrive-business-ultimate-backup
 aliases:
-  - /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+- /blog/mapping-windows-special-folders-onedrive-business-ultimate-backup
+tags:
+- onedrive
+- windows
+categories:
+- install-and-configuration
+coverImage: clip_image001-1-1.png
+
 ---
+
 
 Do you worry that you will lose files on your computer? Well you should! At any time your harddrive can fail, or your house could be hit by a meteor, or stolen. I keep everything on my computer encrypted with BitLocker and can remote wipe any of my data, however I want to be able to access it from anywhere. Everything needs to be in at least two locations to be called a backup, a local separate disk is only partial backup and realis on being at home to backup leading to stale data. That means that the only viable place to securely store your data is the cloud.
 
@@ -45,4 +46,5 @@ I configured this for most of my family and while they don’t need to worry or 
 Once you have changed the folder you will be asked to move all of the files, which I recommend, and then you will be asked if you are really sure that you want to merge the files. Merging can't really be undone as the folders will be intermixed so make sure you have both locations in order before you just squish them together.
 
 Now go do it for your other special folders, including Desktop, and everything you save will always be safe as long as you have an internet connection.
+
 

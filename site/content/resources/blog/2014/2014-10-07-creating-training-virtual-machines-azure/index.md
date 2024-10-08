@@ -1,26 +1,27 @@
 ---
+title: Creating training virtual machines in Azure
+date: 2014-10-07
+author: MrHinsh
 id: "10771"
-title: "Creating training virtual machines in Azure"
-date: "2014-10-07"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "azure"
-  - "hyper-v"
-  - "training"
-  - "vhd"
-  - "visual-studio-2013"
-  - "visual-studio-alm"
-coverImage: "nakedalm-windows-logo-16-16.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-training-virtual-machines-azure"
-
+slug: creating-training-virtual-machines-azure
 aliases:
-  - /blog/creating-training-virtual-machines-azure
+- /blog/creating-training-virtual-machines-azure
+tags:
+- azure
+- hyper-v
+- training
+- vhd
+- visual-studio-2013
+- visual-studio-alm
+categories:
+- install-and-configuration
+- tools-and-techniques
+coverImage: nakedalm-windows-logo-16-16.png
+
 ---
+
 
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.
 
@@ -287,4 +288,5 @@ With all the hassle of setting up and configuring local computers this service i
 This is the monthly cost for the fast SSD D-Series virtual machines and for 16 of them (one for each student) it looks like it would be around £2207.60 per month. That’s £2.97 per hour for all 16. The course is 16 hours so if I am careful it will be about £50 for a two day course. Of course if I forget to turn them off in the evening then it could hit £142.56 for 48 hours.
 
 The future is cloud…
+
 
