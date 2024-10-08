@@ -1,15 +1,19 @@
+# Load the required module to handle YAML
+Import-Module powershell-yaml
+
 # Define the custom order for front matter keys
 $desiredOrder = @(
     "title",
     "date",
     "id",
     "type",
+    "layout",
     "slug",
     "url",
     "aliases",
     "tags",
     "categories",
-    "card"
+    "card", "headline", "sections"
 )
 
 # Function to reorder front matter keys based on the desired order
@@ -23,44 +27,40 @@ function Reorder-FrontMatter {
     $content = Get-Content $filePath -Raw
 
     # Extract the front matter (between '---')
-    if ($content -match "(?s)^---\n(.*?)\n---\n(.*)$") {
+    if ($content -match "(?s)^---(.*?)---") {
         $frontMatter = $matches[1]
-        $remainingContent = $matches[2]
+        $markdownBody = $content -replace "(?s)^---(.*?)---", ""
 
         # Convert the front matter to a hashtable
-        $frontMatterHash = ConvertFrom-Yaml -Yaml $frontMatter
+        $frontMatterData = ConvertFrom-Yaml -Yaml $frontMatter
 
-        # Split the front matter into keys and reorder them
-        $orderedKeys = @()
-        $unorderedKeys = @()
+        # Create new ordered front matter
+        $newFrontMatter = [ordered]@{}
 
-        foreach ($key in $frontMatterHash.PSObject.Properties.Name) {
-            if ($order -contains $key) {
-                $orderedKeys += $key
-            }
-            else {
-                $unorderedKeys += $key
+        # Reorder the keys according to $desiredOrder
+        foreach ($key in $order) {
+            if ($frontMatterData.ContainsKey($key)) {
+                $newFrontMatter[$key] = $frontMatterData[$key]
             }
         }
 
-        # Sort unordered keys alphabetically
-        $unorderedKeys = $unorderedKeys | Sort-Object
-
-        # Merge the keys with the desired order first, then alphabetically
-        $finalOrder = $orderedKeys + $unorderedKeys
-
-        # Rebuild the front matter in the correct order
-        $newFrontMatter = @()
-        foreach ($key in $finalOrder) {
-            $value = $frontMatterHash.$key
-            $newFrontMatter += "${$key}: $value"
+        # Add any remaining keys that were not in $desiredOrder
+        foreach ($key in $frontMatterData.Keys) {
+            if (-not $newFrontMatter.ContainsKey($key)) {
+                $newFrontMatter[$key] = $frontMatterData[$key]
+            }
         }
 
-        # Rebuild the full file with the reordered front matter
-        $newContent = @("---", ($newFrontMatter -join "`n"), "---", $remainingContent) -join "`n"
+        # Convert the updated front matter back to YAML
+        $updatedFrontMatter = ConvertTo-Yaml -Data $newFrontMatter
 
-        # Write the updated content back to the file
-        Set-Content $filePath $newContent
+        # Rebuild the Markdown file with the updated front matter and the original content
+        $updatedMarkdownContent = "---`n$updatedFrontMatter`n---`n$markdownBody"
+
+        # Write the updated Markdown content back to the file
+        Set-Content -Path $filePath -Value $updatedMarkdownContent
+
+        Write-Host "Updated front matter for $filePath"
     }
     else {
         Write-Host "No front matter found in $filePath"
@@ -68,10 +68,9 @@ function Reorder-FrontMatter {
 }
 
 # Define the path where the files are located
-$rootPath = "C:\path\to\your\files"
+$rootPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content"
 
 # Recursively process all files
 Get-ChildItem -Path $rootPath -Recurse -Include "*.md" | ForEach-Object {
     Reorder-FrontMatter -filePath $_.FullName -order $desiredOrder
 }
-
