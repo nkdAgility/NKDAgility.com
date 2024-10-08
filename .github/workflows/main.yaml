@@ -181,6 +181,20 @@ jobs:
         id: spellcheck
         name: Spellcheck
 
+      - name: Check if folder size exceeds 500MB
+        shell: pwsh
+        run: |
+          $folder = "path/to/your/folder"
+          $size = (Get-ChildItem -Recurse -File -Path $folder | Measure-Object -Property Length -Sum).Sum
+
+          # Example: Perform an action if the folder is larger than 500MB (524288000 bytes)
+          if ($size -gt 524288000 ) {
+            Write-Host "Folder is larger than 500MB"
+            # Add additional actions or logic here
+          } else {
+            Write-Host "Folder is under 500MB"
+          }
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
