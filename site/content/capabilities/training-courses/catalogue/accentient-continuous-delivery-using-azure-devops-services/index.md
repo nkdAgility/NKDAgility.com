@@ -2,6 +2,12 @@
 coverImage: pipelines-icon-80.png
 author: MrHinsh
 title: Continuous Delivery Using Azure DevOps Services Training
+type: course
+slug: continuous-delivery-using-azure-devops-services-training
+url:  /capabilities/training-courses/azure-devops-training-courses/:slug/
+tags:
+  - development
+id: "38573"
 aliases:
   - continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
@@ -33,14 +39,9 @@ delivery:
     vendor: accentient
   lead: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
   courseIcon: A-CDADS.png
-slug: continuous-delivery-using-azure-devops-services-training
-id: "38573"
-tags:
-  - development
 card:
   content: ""
   title: ""
   button:
     content: ""
-type: course
 ---
