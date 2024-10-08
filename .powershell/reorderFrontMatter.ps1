@@ -5,8 +5,8 @@ Import-Module powershell-yaml
 $desiredOrder = @(
     "title", "description", "summary", "date", "author", "weight", "draft", 
     "id", "canonicalUrl", "externalUrl", "external_url",
-    "type", "layout",
-    "slug", "url", "aliases",
+    "type", "layout", "resourceType"
+    "slug", "url", "aliases", "outputs",
     "tags", "categories"
     "coverImage",
     "videoId", "duration", "isShort",
@@ -36,15 +36,15 @@ function Reorder-FrontMatter {
 
         # Reorder the keys according to $desiredOrder
         foreach ($key in $order) {
-            if ($frontMatterData.ContainsKey($key)) {
-                $newFrontMatter[$key] = $frontMatterData[$key]
+            if ($frontMatterData.ContainsKey($key.Trim())) {
+                $newFrontMatter[$key.Trim()] = $frontMatterData[$key.Trim()]
             }
         }
 
         # Add any remaining keys that were not in $desiredOrder
         foreach ($key in $frontMatterData.Keys) {
-            if (-not ($newFrontMatter.Keys -contains $key)) {
-                $newFrontMatter[$key] = $frontMatterData[$key]
+            if (-not ($newFrontMatter.Keys -contains $key.Trim())) {
+                $newFrontMatter[$key.Trim()] = $frontMatterData[$key.Trim()]
             }
         }
 
