@@ -2,9 +2,13 @@
 categories:
   - devops
 author: MrHinsh
-title: Practicing Kanban Using Azure Boards Training
+title: Practicing Kanban Using Azure Boards
+url:  /capabilities/training-courses/azure-devops-training-courses/:slug/
+slug: practicing-kanban-using-azure-boards
+catagories:
+  - Azure DevOps
 aliases:
-  - practicing-kanban-using-azure-boards
+  - /pkab/
   - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
 date: 2020-08-31
 delivery:
@@ -70,7 +74,7 @@ delivery:
     vendor: accentient
   lead: ""
   courseIcon: A-PKAB.png
-slug: practicing-kanban-using-azure-boards-training
+
 id: "44723"
 tags:
   - development

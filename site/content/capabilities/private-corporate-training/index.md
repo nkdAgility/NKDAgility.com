@@ -10,8 +10,8 @@ type: capabilities
 slug: private-corporate-training
 card:
   button:
-    content: Transform Your Team
-  content: Elevate your team's performance with our Private Corporate Training and public offerings! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
+    content: <p>Transform Your Team</p>
+  content: <p>Elevate your team's performance with our Private Corporate Training and public offerings! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.</p>
   title: Professional Training
 ---
 
