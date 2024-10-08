@@ -19,4 +19,5 @@ headline:
     Maybe you just want a chat!
 
     Whatever the occasion you can use the menu to the right to set up a call right in your calander."
+  cards: []
 ---
