@@ -15,24 +15,24 @@ card:
   content: <p>Ready to transform your development environment with Azure DevOps? Trust NKD Agility to guide you through a seamless migration process. Contact us today for a consultation and take the first step towards a more efficient and productive development&nbsp;workflow.</p>
 headline:
   cards:
-  - image: 
+  - content: Our experts provide training and consulting to help your team make the most of Azure DevOps.
     title: Personalized Service
-    content: Our experts provide training and consulting to help your team make the most of Azure DevOps.
-  - image: 
+    image: 
+  - content: We offer continuous support throughout the migration process, including post-migration assistance to ensure everything runs smoothly.
     title: Comprehensive Support
-    content: We offer continuous support throughout the migration process, including post-migration assistance to ensure everything runs smoothly.
-  - image: 
+    image: 
+  - content: From initial assessment to final implementation, we manage every aspect of your migration, ensuring a seamless transition.
     title: Full-Service Migration
-    content: From initial assessment to final implementation, we manage every aspect of your migration, ensuring a seamless transition.
-  - image: 
+    image: 
+  - content: Whether you need to consolidate multiple projects, split a large project, or migrate specific components, we provide solutions tailored to your requirements.
     title: Tailored Migration Strategies
-    content: Whether you need to consolidate multiple projects, split a large project, or migrate specific components, we provide solutions tailored to your requirements.
-  - image: 
+    image: 
+  - content: Our team has extensive experience with both Azure DevOps and older systems like TFS, ensuring we can handle any migration scenario.
     title: Deep Technical Knowledge
-    content: Our team has extensive experience with both Azure DevOps and older systems like TFS, ensuring we can handle any migration scenario.
-  - image: 
+    image: 
+  - content: We’ve successfully handled a wide range of migrations, from simple upgrades to complex transitions involving legacy systems.
     title: Hundreds of Migrations Completed
-    content: We’ve successfully handled a wide range of migrations, from simple upgrades to complex transitions involving legacy systems.
+    image: 
   title: Azure DevOps Migration Services
   content: '**NKD Agility** is your trusted partner for Azure DevOps migrations. With extensive experience and a proven track record, we ensure your transition to Azure DevOps is smooth, efficient, and tailored to your unique needs.'
 sections:
@@ -76,6 +76,9 @@ sections:
 ---
 
 
+
+
+
 naked Agility is the creator and principal contributor of the [Azure DevOps Migration Tools.](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration)
 
 ## Consulting & Coaching for Azure DevOps Migration Tools
@@ -97,4 +100,7 @@ If you would like to discuss how this tool might work for you or how we might he
 We can support your migration with either ad-hoc consulting or full migration support. You can book a few hours below, or you can book a discovery to setup a larger engagement.
 
 [](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration)
+
+
+
 

@@ -16,6 +16,9 @@ card:
 ---
 
 
+
+
+
 Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
 
 We conduct health-checks to assess the current State of Agility within your organisation. We meld this discovery with our experience to advise changes to the existing ways of working, culture and tooling to achieve the objectives. We design training programs to educate teams and help them change. Following training, we can coach and mentor during the evolution that follows as everyone works towards achieving the outcomes.
@@ -45,4 +48,7 @@ Expertly trained [Scrum Masters](https://nkdagility.com/training/audiences/scru
 #### [Agile Coaching](https://nkdagility.com/agile-consultancy/)
 
 Our [Agile and Leadership coaches](https://nkdagility.com/agile-consulting-coaching) help leaders and teams create clear organisational strategies with goals for success. We have access to over 350+ Professional Scrum trainers, 60+ Professional Kanban trainers, and 60+ DevOps experts.
+
+
+
 
