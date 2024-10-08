@@ -59,14 +59,6 @@
     margin-left: 10px;
   }
 
-  .breadcrumb-item:last-child {
-    display: none; /* Hide the last breadcrumb item */
-  }
-
-  .breadcrumb-item:nth-last-child(2)::after {
-    content: none; /* Remove the arrow after the second-to-last item */
-  }
-
   .icon::before {
     display: none;
   }
@@ -75,17 +67,27 @@
     display: none;
   }
 
+  .breadcrumb-item:nth-last-child(1)::after {
+    content: none; /* Remove the arrow after the second-to-last item */
+  }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: none !important; /* Removes the default slash separator */
+  }
+
+  /*
+      .breadcrumb-item:last-child {
+        display: none; /* Hide the last breadcrumb item
+      }
+  */
+
   .breadcrumb-item a {
     text-decoration: none;
     color: #3498db;
   }
 
   .breadcrumb-item.active {
-    font-weight: bold;
+    font-weight: lighter;
     color: #333;
-  }
-
-  .breadcrumb-item + .breadcrumb-item::before {
-    content: none !important; /* Removes the default slash separator */
   }
 </style>
