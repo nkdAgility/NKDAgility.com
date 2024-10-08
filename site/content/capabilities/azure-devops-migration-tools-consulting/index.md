@@ -21,7 +21,7 @@ headline:
     - title: Full-Service Migration
       content: From initial assessment to final implementation, we manage every aspect of your migration, ensuring a seamless transition.
       image: null
-    - title: Tailored Migration Strategies
+    - title: Tailored Migration Strategies 2
       content: Whether you need to consolidate multiple projects, split a large project, or migrate specific components, we provide solutions tailored to your requirements.
       image: null
     - title: Deep Technical Knowledge
