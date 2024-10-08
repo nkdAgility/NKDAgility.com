@@ -192,10 +192,38 @@ $fullDescription
 "@
 }
 
+# Function to generate markdown files from existing data.json files
+function Update-YoutubeMarkdownFiles {
+    param ()
+
+    # Iterate through each video folder
+    Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
+        $videoDir = $_.FullName
+        $jsonFilePath = Join-Path $videoDir "data.json"
+
+        if (Test-Path $jsonFilePath) {
+            # Load the video data from data.json
+            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
+            $videoId = $videoData.id
+
+            # Generate markdown content
+            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
+
+            # Markdown file path inside the video ID folder
+            $filePath = Join-Path $videoDir "index.md"
+
+            # Write the markdown content
+            Set-Content -Path $filePath -Value $markdownContent
+            Write-Host "Markdown created for video: $($videoData.snippet.title)"
+        }
+    }
+
+    Write-Host "All markdown files updated."
+}
 
 
 # Main calls
 #Update-YoutubeDataFile ""
 
-Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
