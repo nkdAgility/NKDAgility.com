@@ -1,22 +1,23 @@
 ---
+title: Configure a DNS server for an Azure Virtual Network
+date: 2014-11-26
+author: MrHinsh
 id: "10878"
-title: "Configure a DNS server for an Azure Virtual Network"
-date: "2014-11-26"
-categories:
-  - "install-and-configuration"
-tags:
-  - "azure"
-  - "dns"
-  - "virtual-network"
-coverImage: "nakedalm-windows-logo-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configure-a-dns-server-for-an-azure-virtual-network"
-
+slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
-  - /blog/configure-a-dns-server-for-an-azure-virtual-network
+- /blog/configure-a-dns-server-for-an-azure-virtual-network
+tags:
+- azure
+- dns
+- virtual-network
+categories:
+- install-and-configuration
+coverImage: nakedalm-windows-logo-4-4.png
+
 ---
+
 
 I just got done [configuring a DC in Azure for AAD integrated Release Management](http://nkdagility.com/configuring-dc-azure-aad-integrated-release-management/) and I need to now Configure a DNS server for an Azure Virtual Network. This will tell Azure that any servers that are added to this virtual network should use this DNS server. This should allow any machine added to this virtual network to be able to join the domain that we have configured.
 
@@ -44,4 +45,5 @@ We first need to create a DNS server definition that we can select later. Here w
 We then need to go to the virtual network that we created and tell it that the DNS server should be the one to use. If we had a large network we may set more than one DNS server, but in this case we are just pottering around with the configuration for demos. Select the network and go to the configuration tab. Here we can select our pre-created DNS server.
 
 If you create new machines, or reboot the existing machines in the virtual network, they will then be given this DNS server when DHCP assigns configuration. In this way you can create quite complicated network configurations and even create backup domains controllers to allow you to extend your local network to the cloud.
+
 

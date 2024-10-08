@@ -1,31 +1,32 @@
 ---
+title: Upgrading your Process Template in Team Foundation Server
+date: 2011-07-28
+author: MrHinsh
 id: "3717"
-title: "Upgrading your Process Template in Team Foundation Server"
-date: "2011-07-28"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "nwcadence"
-  - "process"
-  - "tfs"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs2010"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact"
-
+slug: do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
 aliases:
-  - /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+- /blog/do-you-know-how-to-upgrade-a-process-template-but-still-keep-your-data-intact
+tags:
+- configuration
+- infrastructure
+- nwcadence
+- process
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
+- tfs2012
+- tfs2012-1
+- tools
+categories:
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: nakedalm-experts-visual-studio-alm-4-4.png
+
 ---
+
 
 Upgrading your Process Template in Team Foundation Server regardless of the version is pretty hard to achieve. Think of it like changing your mind on the blueprints of a building after you have finished construction. If you are making a small change, like adding a field, then this will be easy. But if you want to fundamentally change the structure of your work items and their workflow then you are looking at a bigger and much more complicated solution.
 
@@ -141,4 +142,5 @@ How-To [Process Template Upgrade #7 – Overwrite retaining history with limited
 ## Conclusion
 
 For me options #7 is the most appropriate for most circumstances and is part of my default arsenal. The rest I only use if I have to, but if a customer is happy with #1, #2 or #3 then I am unlikely to argue as they are easy to implement.
+
 

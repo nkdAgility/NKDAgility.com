@@ -1,23 +1,24 @@
 ---
+title: Advanced Email Content addendum
+date: 2007-03-24
+author: MrHinsh
 id: "432"
-title: "Advanced Email Content addendum"
-date: "2007-03-24"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "ml"
-  - "tools"
-  - "wpf"
-coverImage: "metro-merilllynch-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "advanced-email-content-addendum"
-
+slug: advanced-email-content-addendum
 aliases:
-  - /blog/advanced-email-content-addendum
+- /blog/advanced-email-content-addendum
+tags:
+- fail
+- ml
+- tools
+- wpf
+categories:
+- me
+coverImage: metro-merilllynch-128-link-1-1.png
+
 ---
+
 
 [RE: What I Hate About XBAPs](http://nerddawg.blogspot.com/2006/11/re-what-i-hat...)
 
@@ -34,4 +35,5 @@ Why would you not want to send XBAP's via email:
 Need I say more...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Fail](http://technorati.com/tags/Fail) [WPF](http://technorati.com/tags/WPF)
+
 

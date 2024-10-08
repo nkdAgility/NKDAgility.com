@@ -1,24 +1,25 @@
 ---
+title: How do you incorporate a Design Sprint in Scrum?
+date: 2019-08-16
+author: MrHinsh
 id: "39682"
-title: "How do you incorporate a Design Sprint in Scrum?"
-date: "2019-08-16"
-categories:
-  - "agility"
-  - "discovery-ideation"
-tags:
-  - "design-sprint"
-  - "product-discovery"
-  - "refinement"
-  - "the-sprint"
-coverImage: "1130646316-1-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-do-you-incorporate-a-design-sprint-in-scrum"
-
+slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
-  - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+- /blog/how-do-you-incorporate-a-design-sprint-in-scrum
+tags:
+- design-sprint
+- product-discovery
+- refinement
+- the-sprint
+categories:
+- agility
+- discovery-ideation
+coverImage: 1130646316-1-1-1.jpg
+
 ---
+
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -43,4 +44,5 @@ Ultimately no work should be done in a vacuum or away from the scrutiny of the e
 Linking Team of Teams and Communities of Practice are critical for incorporating all of the skills required to build awesome software.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+
 

@@ -1,23 +1,24 @@
 ---
+title: Connecting to SQL Server using DNS update
+date: 2008-01-31
+author: MrHinsh
 id: "255"
-title: "Connecting to SQL Server using DNS update"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "sp2007"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "connecting-to-sql-server-using-dns-update"
-
+slug: connecting-to-sql-server-using-dns-update
 aliases:
-  - /blog/connecting-to-sql-server-using-dns-update
+- /blog/connecting-to-sql-server-using-dns-update
+tags:
+- configuration
+- infrastructure
+- sp2007
+- tools
+categories:
+- code-and-complexity
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 OK, I now have the additional SPN's added to AD that I mentioned in [my post](http://blog.hinshelwood.com/archive/2008/01/31/connecting-to-sql-server-using-dns.aspx "Connecting to SQL Server using DNS") and a listing returns:
 
@@ -39,4 +40,5 @@ When I try moving the databases I will need to move this SPN to the new SQL Clus
 Here's hoping...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
+
 

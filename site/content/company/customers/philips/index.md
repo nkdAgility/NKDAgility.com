@@ -1,9 +1,16 @@
 ---
+title: Philips
+date: 2011-12-08
+author: MrHinsh
 id: "45366"
-title: "Philips"
-date: "2011-12-08"
-coverImage: "Philips.png"
-author: "MrHinsh"
-type: "customers"
-slug: "philips"
+type: customers
+slug: philips
+coverImage: Philips.png
+
 ---
+
+
+
+
+
+

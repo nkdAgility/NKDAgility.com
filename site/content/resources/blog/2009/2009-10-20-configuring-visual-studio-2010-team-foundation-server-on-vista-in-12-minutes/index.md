@@ -1,21 +1,22 @@
 ---
+title: Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes
+date: 2009-10-20
+author: MrHinsh
 id: "83"
-title: "Configuring Visual Studio 2010 Team Foundation Server on Vista in 12 minutes"
-date: "2009-10-20"
-tags:
-  - "aggreko"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-aggreko-128-link-17-17.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes"
-
+slug: configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
 aliases:
-  - /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+- /blog/configuring-visual-studio-2010-team-foundation-server-on-vista-in-12-minutes
+tags:
+- aggreko
+- tfs
+- tfs2010
+- tools
+coverImage: metro-aggreko-128-link-17-17.png
+
 ---
+
 
 As Microsoft have separated Install with configuration, so I have separated my posts! You will need TFS2010 [installed](http://blog.hinshelwood.com/archive/2009/10/20/configuring-visual-studio-2010-team-foundation-server-on-vista-in.aspx) prior to the steps below.
 
@@ -118,4 +119,5 @@ P.S. Visual Studio 2005 and Visual Studio 2008 any version without the Team Foun
 I should note that you should not complain about the limited support for 2005. Microsoft expects the install base to be less than 5% by the time Visual Studio 2010 is released, and they were not going to support it at all. That there is any support at all is due to the lobbying of the Team System MVP community and TAP customers and excelent communication with the product teams...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [CodeProject](http://technorati.com/tags/CodeProject) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

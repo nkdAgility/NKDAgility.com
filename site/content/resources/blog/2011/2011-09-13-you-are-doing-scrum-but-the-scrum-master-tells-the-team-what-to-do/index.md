@@ -1,25 +1,26 @@
 ---
+title: You are doing Scrum but the Scrum Master tells the team what to do!
+date: 2011-09-13
+author: MrHinsh
 id: "3778"
-title: "You are doing Scrum but the Scrum Master tells the team what to do!"
-date: "2011-09-13"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do"
-
+slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
-  - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+- /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+tags:
+- agile
+- develop
+- nwcadence
+- people
+- process
+- scrum
+categories:
+- people-and-process
+coverImage: nakedalm-experts-professional-scrum-1-1.png
+
 ---
+
 
 If you are doing Scrum but the Scrum Master tells the team what to do then you may be missing the point.
 
@@ -65,4 +66,5 @@ The Development Team must be empowered to come up with resolutions to the proble
 - [Scrum Guide 2011](http://www.scrum.org/scrumguides)
 - [Why Group Dynamics and Interpersonal Skills Matter](http://www.estherderby.com/weblog/2009/07/why-group-dynamics-and-interpersonal.html)
 - [Scrum As A Framework](http://kenschwaber.wordpress.com/2010/09/08/scrum-as-a-framework/)
+
 

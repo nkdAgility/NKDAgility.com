@@ -1,25 +1,26 @@
 ---
+title: What's in a burndown?
+date: 2012-03-28
+author: MrHinsh
 id: "5002"
-title: "What's in a burndown?"
-date: "2012-03-28"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "configuration"
-  - "develop"
-  - "practices"
-  - "scrum"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "whats-in-a-burndown"
-
+slug: whats-in-a-burndown
 aliases:
-  - /blog/whats-in-a-burndown
+- /blog/whats-in-a-burndown
+tags:
+- agile
+- configuration
+- develop
+- practices
+- scrum
+categories:
+- people-and-process
+- tools-and-techniques
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:
 
@@ -97,4 +98,5 @@ Also a good indicator of what is going on from a delivery perspective. If you ar
 ## Conclusion
 
 You will need to experiment with your Scrum Teams to see which burndown is right for you, but I would suggest that you want to be able to plot all of them so that your Development Team’s have all of the relevant information for their Daily Scrum to  help them identify any issues as early as possible.
+
 

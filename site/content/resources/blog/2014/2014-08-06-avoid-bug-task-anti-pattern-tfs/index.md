@@ -1,23 +1,24 @@
 ---
+title: Avoid the Bug as Task anti-pattern in Azure DevOps
+date: 2014-08-06
+author: MrHinsh
 id: "10662"
-title: "Avoid the Bug as Task anti-pattern in Azure DevOps"
-date: "2014-08-06"
-categories:
-  - "people-and-process"
-tags:
-  - "anti-pattern"
-  - "bug"
-  - "task"
-  - "workitemtracking"
-coverImage: "NKDAgility-technically-BugAsATask-5-5.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "avoid-bug-task-anti-pattern-tfs"
-
+slug: avoid-bug-task-anti-pattern-tfs
 aliases:
-  - /blog/avoid-bug-task-anti-pattern-tfs
+- /blog/avoid-bug-task-anti-pattern-tfs
+tags:
+- anti-pattern
+- bug
+- task
+- workitemtracking
+categories:
+- people-and-process
+coverImage: NKDAgility-technically-BugAsATask-5-5.jpg
+
 ---
+
 
 For the last few months, I have been working with an enterprise customer that has been steadily adopting Work Item Tracking in TFS. I have learned that you should avoid the Bug as a Task anti-pattern.
 
@@ -73,4 +74,5 @@ By forcing the teams to treat all bugs as backlog items you force them to take a
 ## Conclusion
 
 Avoid the Bug as a Task anti-pattern in TFS at all costs. It promotes dysfunctional teams and will create friction for your teams that are doing agile. If you are still trying to [decide in the process template](http://nkdagility.com/agile-vs-scrum-process-templates-team-foundation-server/) or you have realised your mistake and [want to fix your process template](http://nkdagility.com/upgrading-your-process-template-from-msf-for-agile-4-to-visual-studio-scrum-2-x/) I have some posts to help. If you are on the right path, then awesome; however, resist all pressure to create Bug as a Task and focus instead on creating awesome agile requirements that include tests written upfront.
+
 

@@ -1,26 +1,27 @@
 ---
+title: Visual Studio ALM MVP of the Year 2011
+date: 2011-03-06
+author: MrHinsh
 id: "9"
-title: "Visual Studio ALM MVP of the Year 2011"
-date: "2011-03-06"
-categories:
-  - "me"
-tags:
-  - "awards"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-award-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-alm-mvp-of-the-year-2011"
-
+slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
-  - /blog/visual-studio-alm-mvp-of-the-year-2011
+- /blog/visual-studio-alm-mvp-of-the-year-2011
+tags:
+- awards
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+categories:
+- me
+coverImage: metro-award-link-2-2.png
+
 ---
+
 
 [![trophy](images/Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Visual-Studio-ALM-MVP-of-the-Year-2011_DD0A-trophy_2.jpg)
 { .post-img }
@@ -48,4 +49,5 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
+
 

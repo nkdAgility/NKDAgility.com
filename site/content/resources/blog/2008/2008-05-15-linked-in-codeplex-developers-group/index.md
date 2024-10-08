@@ -1,18 +1,19 @@
 ---
+title: Linked in Codeplex developers group
+date: 2008-05-15
+author: MrHinsh
 id: "227"
-title: "Linked in Codeplex developers group"
-date: "2008-05-15"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "linked-in-codeplex-developers-group"
-
+slug: linked-in-codeplex-developers-group
 aliases:
-  - /blog/linked-in-codeplex-developers-group
+- /blog/linked-in-codeplex-developers-group
+categories:
+- me
+coverImage: nakedalm-logo-128-link-3-3.png
+
 ---
+
 
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.
 
@@ -33,4 +34,5 @@ All members must be a Coordinator of at least one Codeplex project.
 **NOTE: All requests to join these groups will be checked before they will be approved. Please provide a link to your Codeplex profile.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

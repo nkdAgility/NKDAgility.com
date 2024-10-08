@@ -1,16 +1,17 @@
 ---
+title: Ahhh, the fun of deploying Team System in a large corporation
+date: 2006-12-15
+author: MrHinsh
 id: "447"
-title: "Ahhh, the fun of deploying Team System in a large corporation"
-date: "2006-12-15"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ahhh-the-fun-of-deploying-team-system-in-a-large-corporation"
-
+slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
-  - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+- /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I can see that this project is going to be fun. I need to deploy team system within the investment bank that I work for. The DBA's will not let me access their servers! And the TFS installation needs to be run on them.
 
@@ -30,4 +31,5 @@ More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEnt
 More on [**TFS Deployment**](/hinshelm/category/5992.aspx) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+
 

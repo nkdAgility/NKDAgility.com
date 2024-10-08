@@ -1,27 +1,28 @@
 ---
+title: 'NDC London 2014: Why TFS no longer sucks and VSO is awesome'
+date: 2014-12-10
+author: MrHinsh
 id: "10980"
-title: "NDC London 2014: Why TFS no longer sucks and VSO is awesome"
-date: "2014-12-10"
-categories:
-  - "news-and-reviews"
-tags:
-  - "agile-planning-tools"
-  - "feedback-client"
-  - "git"
-  - "mtm"
-  - "ndc"
-  - "test-management"
-  - "tfs"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome"
-
+slug: ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
 aliases:
-  - /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+- /blog/ndc-london-2014-why-tfs-no-longer-sucks-and-vso-is-awesome
+tags:
+- agile-planning-tools
+- feedback-client
+- git
+- mtm
+- ndc
+- test-management
+- tfs
+- vsteamservices
+categories:
+- news-and-reviews
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 I was in London last week to do a talk on why TFS no longer sucks entitled “[Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/)”. I had a tone of preparatory work to do too make the demos smooth. The great god Murphy was however not smiling, but he was not angry. Some errors occurred, but no blue screens.
 
@@ -91,4 +92,5 @@ As part of prepping for this demo I did a bunch of work around release managemen
 Most of which became irrelevant when Release Management for VSO became available and I no longer had to configure a release management server myself. With the new release cadence from the TFS team, things can only get better…
 
 My slides are available on Slide Share: [http://www.slideshare.net/MrHinsh/ndclondon2014](http://www.slideshare.net/MrHinsh/ndclondon2014)
+
 

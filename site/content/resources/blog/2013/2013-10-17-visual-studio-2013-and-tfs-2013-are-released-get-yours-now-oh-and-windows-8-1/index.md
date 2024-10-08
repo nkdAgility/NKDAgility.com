@@ -1,33 +1,34 @@
 ---
+title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;
+date: 2013-10-17
+author: MrHinsh
 id: "10214"
-title: "Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;"
-date: "2013-10-17"
-categories:
-  - "code-and-complexity"
-  - "install-and-configuration"
-  - "news-and-reviews"
-  - "products-and-books"
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "release"
-  - "rtm"
-  - "tfs"
-  - "tfs-2013"
-  - "visual-studio-2013"
-  - "visual-studio"
-  - "windows"
-  - "windows-8"
-  - "windows-8-1"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1"
-
+slug: visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
 aliases:
-  - /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
+- /blog/visual-studio-2013-and-tfs-2013-are-released-get-yours-now-oh-and-windows-8-1
+tags:
+- release
+- rtm
+- tfs
+- tfs-2013
+- visual-studio-2013
+- visual-studio
+- windows
+- windows-8
+- windows-8-1
+categories:
+- code-and-complexity
+- install-and-configuration
+- news-and-reviews
+- products-and-books
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 Microsoft just made both Visual Studio 2013 and Windows 8.1 available for download on MSDN and on [http://visualstudio.com](http://visualstudio.com). This release includes [Visual Studio 2013, .NET 4.5.1, and Team Foundation Server 2013](http://go.microsoft.com/fwlink/p/?LinkId=306566) as well as making [Windows 8.1 available on Windows Update](http://blogs.windows.com/windows/b/bloggingwindows/archive/2013/10/17/windows-8-1-now-available.aspx).
 
@@ -79,4 +80,5 @@ So far I have done 8 upgrades for customers in production with TFS 2013 and alre
 - [Upgrading from the TFS 2013 Preview to TFS 2013 RC](http://nkdagility.com/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc/)
 
 I have literally had two issues in ~8 installations, neither of which were of any real import and are described in the posts above. I have had no problems recommending  the upgrade, even to the preview, for even the most conservative of customers. That does not mean that they always listened, but now that the RTM is released I have upgrades to do and I expect many more to come over the next year…
+
 

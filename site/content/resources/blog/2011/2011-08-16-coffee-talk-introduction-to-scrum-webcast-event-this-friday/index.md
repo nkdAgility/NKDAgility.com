@@ -1,26 +1,27 @@
 ---
+title: 'Coffee Talk: Introduction to Scrum - webcast event this Friday!'
+date: 2011-08-16
+author: MrHinsh
 id: "3728"
-title: "Coffee Talk: Introduction to Scrum - webcast event this Friday!"
-date: "2011-08-16"
-categories:
-  - "events-and-presentations"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "develop"
-  - "events-and-presentations"
-  - "nwcadence"
-  - "practices"
-  - "scrum"
-coverImage: "metro-event-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "coffee-talk-introduction-to-scrum-webcast-event-this-friday"
-
+slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
-  - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+- /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
+tags:
+- agile
+- develop
+- events-and-presentations
+- nwcadence
+- practices
+- scrum
+categories:
+- events-and-presentations
+- people-and-process
+coverImage: metro-event-128-link-2-2.png
+
 ---
+
 
 ![NWC tagline logo_transparent](images/NWC-tagline-logo_transparent-3-3.png "NWC tagline logo_transparent")
 { .post-img }
@@ -45,4 +46,5 @@ I am hoping that we can we can have some serious discussion on the agile practic
 - [**Join Northwest Cadence for this Free Webcast Event**](http://introtoscrum.eventbrite.com/)
 
 I don't know how many people have already signed up as I have been onsite for two weeks. My current customer is giving me a little time on Friday to talk to you folks about Scrum.
+
 

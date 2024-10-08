@@ -1,23 +1,24 @@
 ---
+title: Upgrading to Team Foundation Server 2013
+date: 2013-06-26
+author: MrHinsh
 id: "9907"
-title: "Upgrading to Team Foundation Server 2013"
-date: "2013-06-26"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "tf255193"
-  - "tfs"
-  - "tfs-2013"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-to-team-foundation-server-2013"
-
+slug: upgrading-to-team-foundation-server-2013
 aliases:
-  - /blog/upgrading-to-team-foundation-server-2013
+- /blog/upgrading-to-team-foundation-server-2013
+tags:
+- configuration
+- tf255193
+- tfs
+- tfs-2013
+- tools
+categories:
+- install-and-configuration
+
 ---
+
 
 With the release of Team Foundation Server 2013 I need to upgrade all of my servers. I have a few customer installs getting prepped and I wanted to get a look see.
 
@@ -161,4 +162,5 @@ I would definitely recommend that you move to Team Foundation Server 2013 as soo
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Go download it now and be a kid again…
+
 

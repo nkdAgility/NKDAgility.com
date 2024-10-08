@@ -1,18 +1,19 @@
 ---
+title: TFS Usage Statistics
+date: 2008-10-22
+author: MrHinsh
 id: "187"
-title: "TFS Usage Statistics"
-date: "2008-10-22"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-usage-statistics"
-
+slug: tfs-usage-statistics
 aliases:
-  - /blog/tfs-usage-statistics
+- /blog/tfs-usage-statistics
+tags:
+- tools
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Stats on out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Instance. Not much but growing.
 
@@ -55,4 +56,5 @@ Uploads: 454
 Shelves: unknown
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+
 

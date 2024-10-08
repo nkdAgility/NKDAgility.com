@@ -1,22 +1,23 @@
 ---
+title: How Usable Working Products Are Your Ultimate Weapon Against Risks
+date: 2023-07-20
+author: MrHinsh
 id: "49501"
-title: "How Usable Working Products Are Your Ultimate Weapon Against Risks"
-date: "2023-07-20"
-categories:
-  - "measure-and-learn"
-  - "transparency-commitment"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "image-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-usable-working-products-are-your-ultimate-weapon-against-risks"
-
+slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
-  - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+- /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
+tags:
+- featured
+- homepage
+categories:
+- measure-and-learn
+- transparency-commitment
+coverImage: image-1.jpg
+
 ---
+
 
 It baffles me how some agile teams, who claim to be the pioneers of modernity, are living in archaic times where usable working products are as rare as unicorns! Just a heads-up, my dear agile practitioners: the linchpin of Agile is a Usable Working Product. Yes, you read it right!
 
@@ -65,4 +66,5 @@ So create a usable working product on a regular cadence, close the feedback loop
 Stay connected to the market and business demands and create a usable working product of the highest possible value!
 
 This is the way!
+
 

@@ -1,22 +1,23 @@
 ---
+title: 'Studying for Exam 70-536: MCTS Application Development Foundation'
+date: 2007-05-04
+author: MrHinsh
 id: "404"
-title: "Studying for Exam 70-536: MCTS Application Development Foundation"
-date: "2007-05-04"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "studying-for-exam-70-536-mcts-application-development-foundation"
-
+slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
-  - /blog/studying-for-exam-70-536-mcts-application-development-foundation
+- /blog/studying-for-exam-70-536-mcts-application-development-foundation
+tags:
+- fail
+- visual-studio
+- vs2005
+categories:
+- me
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 After my success with [Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server](http://hinshelwood.com/archive/2007/04/25/Beta-Exam-71-510-TS-Visual-Studio-2005-Team-Foundation-Server.aspx) I now find myself thinking that I should get my developer exams sorted. I had never done them before as I would have had to pay for them myself. Which sucks...
 
@@ -37,4 +38,5 @@ Ah well, back to the book!
 _An excelent resource for 71-510 can be found on the dotnetfun site @ [Prepare for the 70-536 Certification Exam: Microsoft .NET Framework 2.0 - Application Development Foundation](http://www.dotnetfun.com/articles/certifications/Passing70536Certification.aspx)._
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

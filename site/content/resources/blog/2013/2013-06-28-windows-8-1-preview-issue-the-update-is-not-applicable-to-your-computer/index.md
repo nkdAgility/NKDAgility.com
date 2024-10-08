@@ -1,21 +1,22 @@
 ---
+title: Windows 8.1 Preview Issue - The update is not applicable to your computer
+date: 2013-06-28
+author: MrHinsh
 id: "9914"
-title: "Windows 8.1 Preview Issue - The update is not applicable to your computer"
-date: "2013-06-28"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "win8"
-  - "win8-1"
-coverImage: "nakedalm-windows-logo-12-12.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer"
-
+slug: windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
 aliases:
-  - /blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
+- /blog/windows-8-1-preview-issue-the-update-is-not-applicable-to-your-computer
+tags:
+- win8
+- win8-1
+categories:
+- problems-and-puzzles
+coverImage: nakedalm-windows-logo-12-12.png
+
 ---
+
 
 Some system are receiving an error when trying to install the Windows 8.1 Update patch (“Windows8-RT-KB2849636-x64.msu”) and they get a “The update is not applicable to your computer” error.
 
@@ -131,4 +132,5 @@ You can however only keep your personal files this way and you will have to rein
 ## Conclusion
 
 Windows 8.1 is awesome but I was only able to use the Windows 8.1 Store Update option on my Tablet that was a US device. My Desktop and my VM’s had to be done with #3 above and nether #1 or #2 worked with an en-GB version of the OS.
+
 

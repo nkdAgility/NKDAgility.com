@@ -1,24 +1,25 @@
 ---
+title: Application lifecycle management with Office 2013 on Windows 8
+date: 2012-10-23
+author: MrHinsh
 id: "8967"
-title: "Application lifecycle management with Office 2013 on Windows 8"
-date: "2012-10-23"
-categories:
-  - "code-and-complexity"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "office-2013"
-  - "storyboarding"
-  - "tools"
-coverImage: "metro-office-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "application-lifecycle-management-with-office-2013-on-windows-8"
-
+slug: application-lifecycle-management-with-office-2013-on-windows-8
 aliases:
-  - /blog/application-lifecycle-management-with-office-2013-on-windows-8
+- /blog/application-lifecycle-management-with-office-2013-on-windows-8
+tags:
+- configuration
+- infrastructure
+- office-2013
+- storyboarding
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-office-128-link-5-5.png
+
 ---
+
 
 Because of the compatibility with ARM and the new Windows 8 touchscreen experience you would imagine that Office has undergone a rather complete overall and you would be right. With Office 2013 you get a fully touch capable immersive experience that is designed to work well on both the Tablet and the Desktop.
 
@@ -78,4 +79,5 @@ This makes Excel 2013 a premier reporting and data manipulation tool in the ALM 
 ### Conclusion
 
 The new Office 2013 gives us the same awesome tool is a slicker faster package and there is no way that I will be complaining about that…
+
 

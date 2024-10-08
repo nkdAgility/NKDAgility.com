@@ -1,20 +1,21 @@
 ---
+title: Windows Live ID and OpenID
+date: 2008-11-19
+author: MrHinsh
 id: "165"
-title: "Windows Live ID and OpenID"
-date: "2008-11-19"
-categories:
-  - "me"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-7-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-live-id-and-openid"
-
+slug: windows-live-id-and-openid
 aliases:
-  - /blog/windows-live-id-and-openid
+- /blog/windows-live-id-and-openid
+tags:
+- live
+categories:
+- me
+coverImage: nakedalm-logo-128-link-7-1.png
+
 ---
+
 
 It seams that Microsoft is making an attempt to integrate with OpenID. With the announcement that “[Windows Live ID commits to support of OpenID](http://winliveid.spaces.live.com/Blog/cns!AEE1BB0D86E23AAC!1745.entry)” I thought a little investigation would be in order.
 
@@ -53,4 +54,5 @@ You need to setup a new Live ID on the Live-INT service, you can use any email, 
       It is a dream I have…
 
       Technorati Tags: [Windows Live](http://technorati.com/tags/Windows+Live),[OpenID](http://technorati.com/tags/OpenID)
+
 

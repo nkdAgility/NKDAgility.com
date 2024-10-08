@@ -1,28 +1,29 @@
 ---
+title: Batched domain migration with TFS while maintaining Identity
+date: 2013-03-20
+author: MrHinsh
 id: "9324"
-title: "Batched domain migration with TFS while maintaining Identity"
-date: "2013-03-20"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "active-directory"
-  - "configuration"
-  - "infrastructure"
-  - "operational"
-  - "tactical"
-  - "tfs"
-  - "tfs2012-2"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "batched-domain-migration-with-tfs-while-maintaining-identity"
-
+slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
-  - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+- /blog/batched-domain-migration-with-tfs-while-maintaining-identity
+tags:
+- active-directory
+- configuration
+- infrastructure
+- operational
+- tactical
+- tfs
+- tfs2012-2
+- tools
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-5-5.png
+
 ---
+
 
 If you are moving from one domain to another, but you have lots of users you may do a batched domain migration with Visual Studio 2012 Team Foundation Server. Make suer that you read all of the fine print and don't get caught with duplicate Identities and no traceability.
 
@@ -86,4 +87,5 @@ Either of these two workflows for moving users will work. It depends on how your
 - [In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain](http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/ "http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/")
 
 Hopefully your domain move goes more smoothly and that you watch out for the pitfalls.
+
 

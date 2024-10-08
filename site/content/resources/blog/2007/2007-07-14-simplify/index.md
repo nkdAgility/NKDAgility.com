@@ -1,18 +1,19 @@
 ---
+title: Simplify
+date: 2007-07-14
+author: MrHinsh
 id: "372"
-title: "Simplify"
-date: "2007-07-14"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "simplify"
-
+slug: simplify
 aliases:
-  - /blog/simplify
+- /blog/simplify
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Well I just got through simplifying my blog categories! I just though they were, well... rubbish,  and there were too many of them. I have toned them down and added a full description for them all with links to the relevant Wikipedia pages...
 
@@ -29,4 +30,5 @@ How about the digg this links on the blog pages as well as on the main feed?
 Just some thoughts! Don't ask, don't get.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

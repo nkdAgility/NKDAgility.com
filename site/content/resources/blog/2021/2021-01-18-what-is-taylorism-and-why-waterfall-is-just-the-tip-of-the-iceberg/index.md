@@ -1,23 +1,24 @@
 ---
+title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
+date: 2021-01-18
+author: MrHinsh
 id: "45392"
-title: "What is Taylorism, and why Waterfall is just the tip of the iceberg!"
-date: "2021-01-18"
-categories:
-  - "people-and-process"
-tags:
-  - "featured"
-  - "taylorism"
-  - "traditional-project-management"
-  - "waterfall"
-coverImage: "naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg"
-
+slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
-  - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+- /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
+tags:
+- featured
+- taylorism
+- traditional-project-management
+- waterfall
+categories:
+- people-and-process
+coverImage: naked-agility-with-martin-hinshelwood-iceberg-11-10.jpg
+
 ---
+
 
 For many people the traditional project management methodologies (see PMI / PRINCE2) are the root of the problems that birthed Waterfall. I assert that this is the tip of the iceberg. These methodologies are just a symptom of a greater problem that has its roots in the changes made during the industrial revolution. These changes, while they generated great amounts of wealth and many jobs around the world,  dehumanised work and destroyed the essence of value and discovery that brought humanity to where it is now. It created processes that turned people into little more than sophisticated robots and enshrined that thinking into the very core of how we do things.
 
@@ -350,4 +351,5 @@ These Tayloristic practices worked well for employers during the industrial revo
 - [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
 
 **Foster ingenuity, focus, and enthusiasm and stop killing it with Taylorism. Bring the soul back to the work.**
+
 

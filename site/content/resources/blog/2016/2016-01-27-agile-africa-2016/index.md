@@ -1,22 +1,23 @@
 ---
+title: Agile in Africa 2016
+date: 2016-01-27
+author: MrHinsh
 id: "11450"
-title: "Agile in Africa 2016"
-date: "2016-01-27"
-categories:
-  - "events-and-presentations"
-tags:
-  - "agile-in-africa"
-  - "scrum"
-  - "scrum-day"
-coverImage: "clip_image001-1-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "agile-africa-2016"
-
+slug: agile-africa-2016
 aliases:
-  - /blog/agile-africa-2016
+- /blog/agile-africa-2016
+tags:
+- agile-in-africa
+- scrum
+- scrum-day
+categories:
+- events-and-presentations
+coverImage: clip_image001-1-2-2.jpg
+
 ---
+
 
 When someone comes to you with an opportunity in the developing world you better have a good reason to say no. For the last few years Nana Abana had been trying to achieve the impossible, conduct a high profile Agile event in West Africa. It's not just the holding of the event that seemed impossible, but getting together a group of people that can really bring agility to Africa. Up until now many of the endeavours  into agility in west africa have been pushed by sharlotons that are intent only in profiting from Africa and not improving development practices. Making money and not helping people. It is posible to do both, but you will need to invest up front to get there.
 
@@ -53,4 +54,5 @@ There was a lot of press coverage of the event, with radio interviews and even a
 I am looking forward to this year's event, have you signed up yet?
 
 [http://agileinafrica.com](http://agileinafrica.com)
+
 

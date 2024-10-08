@@ -1,20 +1,21 @@
 ---
+title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
+date: 2019-09-30
+author: MrHinsh
 id: "39855"
-title: "In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?"
-date: "2019-09-30"
-categories:
-  - "measure-and-learn"
-tags:
-  - "product-owner"
-coverImage: "146713119-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events"
-
+slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
-  - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+- /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+tags:
+- product-owner
+categories:
+- measure-and-learn
+coverImage: 146713119-1-1.jpg
+
 ---
+
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -51,4 +52,5 @@ In this case they have ~42 teams that roll up to ~6 Product Areas, and is just o
 If you do implement some kind of hierarchy I recommend focusing on keeping it as flat as posible and understanding that each of these folks, Product Owner, Area Owner, & Team Owner are fulfilling the role of the Product Owner as per the Scrum Guide as part of a Scrum Team. For the question above I would likely start with a dedicated Team Owner for each team that is the representative that attends the Nexus Sprint Planning and that works closely with the Product Owner. This will likely need close monitoring and a skilled Scrum Master to help coach the teams to maintain communication and not loose focus.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
+
 

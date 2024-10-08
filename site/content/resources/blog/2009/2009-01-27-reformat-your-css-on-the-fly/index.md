@@ -1,23 +1,24 @@
 ---
+title: Reformat your CSS on the fly
+date: 2009-01-27
+author: MrHinsh
 id: "142"
-title: "Reformat your CSS on the fly"
-date: "2009-01-27"
-categories:
-  - "code-and-complexity"
-tags:
-  - "aggreko"
-  - "code"
-  - "codeproject"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "reformat-your-css-on-the-fly"
-
+slug: reformat-your-css-on-the-fly
 aliases:
-  - /blog/reformat-your-css-on-the-fly
+- /blog/reformat-your-css-on-the-fly
+tags:
+- aggreko
+- code
+- codeproject
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-binary-vb-128-link-2-1.png
+
 ---
+
 
 Have you ever, when developing a website, been frustrated when you get a different result when you deploy your application to [http://site/](http://site/) and [http://site/app/](http://site/app/).
 
@@ -135,4 +136,5 @@ Now add the Handler to you web.config
 And you are done :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows) [CodeProject](http://technorati.com/tags/CodeProject)
+
 

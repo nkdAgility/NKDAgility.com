@@ -1,20 +1,21 @@
 ---
+title: The High of Release
+date: 2015-12-05
+author: MrHinsh
 id: "11398"
-title: "The High of Release"
-date: "2015-12-05"
-categories:
-  - "news-and-reviews"
-tags:
-  - "developers"
-coverImage: "2016-01-04_15-52-31-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-high-of-release"
-
+slug: the-high-of-release
 aliases:
-  - /blog/the-high-of-release
+- /blog/the-high-of-release
+tags:
+- developers
+categories:
+- news-and-reviews
+coverImage: 2016-01-04_15-52-31-1-1.png
+
 ---
+
 
 Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new Release Management tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on DevOps and the focus of my session was on both Build and Release.
 
@@ -29,4 +30,5 @@ The new Release Management tools are completely web based and allow you to creat
 Many of my larger customers might still be working on being able to put their code in the cloud, but they have no problems with deploying the output of their builds to cloud environments on Azure or elsewhere.
 
 Over the next few months I am hoping to get some local build output deployed to Azure where I can spin up 100 servers to deploy my application for the local testers. I will let you know how I get on...
+
 

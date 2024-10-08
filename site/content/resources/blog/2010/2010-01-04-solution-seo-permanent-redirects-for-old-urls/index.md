@@ -1,25 +1,26 @@
 ---
+title: Solution - SEO permanent redirects for old URL’s?
+date: 2010-01-04
+author: MrHinsh
 id: "73"
-title: "Solution - SEO permanent redirects for old URL’s?"
-date: "2010-01-04"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "solution-seo-permanent-redirects-for-old-urls"
-
+slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
-  - /blog/solution-seo-permanent-redirects-for-old-urls
+- /blog/solution-seo-permanent-redirects-for-old-urls
+tags:
+- code
+- codeproject
+- sharepoint
+- spf2010
+- ssw
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-sharepoint-128-link-1-1.png
+
 ---
+
 
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.
 
@@ -774,4 +775,5 @@ It may make more sense to return a single record and perform the replaces based 
 Caching is a difficult thing as it depends on the amount of data returned, but it can improve the speed.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [.NET](http://technorati.com/tags/.NET) [Software Development](http://technorati.com/tags/Software+Development) [CodeProject](http://technorati.com/tags/CodeProject) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

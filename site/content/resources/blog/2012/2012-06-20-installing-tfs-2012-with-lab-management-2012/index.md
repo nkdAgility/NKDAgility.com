@@ -1,32 +1,33 @@
 ---
+title: Installing TFS 2012 with Lab Management 2012
+date: 2012-06-20
+author: MrHinsh
 id: "5496"
-title: "Installing TFS 2012 with Lab Management 2012"
-date: "2012-06-20"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "modern-alm"
-  - "tf22022"
-  - "tf255484"
-  - "tf259641"
-  - "tfs"
-  - "tfs2012"
-  - "tfslab"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-42-42.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-tfs-2012-with-lab-management-2012"
-
+slug: installing-tfs-2012-with-lab-management-2012
 aliases:
-  - /blog/installing-tfs-2012-with-lab-management-2012
+- /blog/installing-tfs-2012-with-lab-management-2012
+tags:
+- configuration
+- infrastructure
+- modern-alm
+- tf22022
+- tf255484
+- tf259641
+- tfs
+- tfs2012
+- tfslab
+- tools
+- visual-studio
+- vs2012
+categories:
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: nakedalm-experts-visual-studio-alm-42-42.png
+
 ---
+
 
 I have been onsite this week in California to deploy TFS 2012 and Lab Management for a company in the computer game industry. Because of limited time I am doing the full install in one day and thus will not be getting any of their builds or environments to work today. This is purely an install and test of the happy paths. I have loads of time over the rest of the week running workshops for the customer to bring their guys up to speed on how to do everything else.
 
@@ -293,4 +294,5 @@ DONE.
 I have emailed the product team as I followed the steps, but there may have been something missed and indeed there was. I had neglected to enable File and Print Sharing which is required by Lab/p>
 
 How have you been getting on with your 2012 Lab setups?
+
 

@@ -1,23 +1,24 @@
 ---
+title: How to Set and Achieve Effective Sprint Goals
+date: 2023-09-29
+author: MrHinsh
 id: "50115"
-title: "How to Set and Achieve Effective Sprint Goals"
-date: "2023-09-29"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-  - "scrum"
-  - "sprint-goal"
-coverImage: "NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-to-set-and-achieve-effective-sprint-goals"
-
+slug: how-to-set-and-achieve-effective-sprint-goals
 aliases:
-  - /blog/how-to-set-and-achieve-effective-sprint-goals
+- /blog/how-to-set-and-achieve-effective-sprint-goals
+tags:
+- featured
+- homepage
+- scrum
+- sprint-goal
+categories:
+- agility
+coverImage: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
+
 ---
+
 
 Many teams grapple with the intricacies of Scrum, and one of the most pivotal components is the Sprint Goal. It's not just a fleeting thought or a mere list of tasks; it's a commitment, a promise, and a clear direction.
 
@@ -232,4 +233,5 @@ If you find it hard to craft effective Sprint Goals or struggle to align your te
 Don't let these issues undermine the effectiveness of your value delivery. It's paramount to seek assistance sooner rather than later!
 
 Take action now. Request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) with my team or enrol in one of our [upcoming professional Scrum classes](https://nkdagility.com/training-courses/). Because you don't just need agility, you need Naked Agility.
+
 

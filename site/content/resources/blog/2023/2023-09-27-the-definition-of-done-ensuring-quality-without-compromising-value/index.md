@@ -1,21 +1,22 @@
 ---
+title: 'The Definition of Done: Ensuring Quality without Compromising Value'
+date: 2023-09-27
+author: MrHinsh
 id: "50083"
-title: "The Definition of Done: Ensuring Quality without Compromising Value"
-date: "2023-09-27"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-definition-of-done-ensuring-quality-without-compromising-value"
-
+slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
-  - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+- /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+tags:
+- featured
+- homepage
+categories:
+- agility
+coverImage: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
+
 ---
+
 
 The Definition of Done (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.
 
@@ -46,4 +47,5 @@ The DoD aims to ensure transparency, confirming that all showcased work meets ou
 These are the intricacies that lean-agile aficionados thrive on, but most find daunting. If you find it hard to distinguish between the Definition of Done and Acceptance Criteria, my team at NKDAgility is here to assist. Don't let these issues undermine your value delivery. Seek help sooner rather than later.
 
 Right now, you can request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) with my team or enrol in one of our [upcoming professional Scrum classes](https://nkdagility.com/training-courses/). Because you don't just need agility, you need Naked Agility.
+
 

@@ -1,18 +1,19 @@
 ---
+title: Internet connection speed, WOW
+date: 2009-12-07
+author: MrHinsh
 id: "78"
-title: "Internet connection speed, WOW"
-date: "2009-12-07"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "internet-connection-speed-wow"
-
+slug: internet-connection-speed-wow
 aliases:
-  - /blog/internet-connection-speed-wow
+- /blog/internet-connection-speed-wow
+categories:
+- me
+coverImage: nakedalm-logo-128-link-5-1.png
+
 ---
+
 
 I have been a cable customer in the UK since day one when it was Cable & Wireless.
 
@@ -67,4 +68,5 @@ it just gets better and better:
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SSW](http://technorati.com/tags/SSW)
+
 

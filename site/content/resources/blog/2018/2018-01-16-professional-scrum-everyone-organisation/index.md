@@ -1,25 +1,26 @@
 ---
+title: Professional Scrum is for everyone in your organisation
+date: 2018-01-16
+author: MrHinsh
 id: "38287"
-title: "Professional Scrum is for everyone in your organisation"
-date: "2018-01-16"
-categories:
-  - "agility"
-tags:
-  - "agile"
-  - "evidence-based-management"
-  - "professioal-scrum"
-  - "scrum"
-  - "scrum-definition"
-  - "training"
-coverImage: "nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-everyone-organisation"
-
+slug: professional-scrum-everyone-organisation
 aliases:
-  - /blog/professional-scrum-everyone-organisation
+- /blog/professional-scrum-everyone-organisation
+tags:
+- agile
+- evidence-based-management
+- professioal-scrum
+- scrum
+- scrum-definition
+- training
+categories:
+- agility
+coverImage: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
+
 ---
+
 
 Recently I worked with a new customer in Denver to help them move towards a greater degree of Scrum in their software development. The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.
 
@@ -75,4 +76,5 @@ One of the outcomes of the Professional Scrum Foundations, along with the new kn
 **Healthgrades now has a Backlog of things that need to change in order to facilitate meaningful change.**
 
 With these two things, agile torchbearers who feel empowered and a list of changes, I am hoping that Healthgrades can change their organisation and increase their ability to take advantage of market opportunities as they arise, and out-manoeuvre their competitors with ease. Refine backlog facilitate meaningful change.
+
 

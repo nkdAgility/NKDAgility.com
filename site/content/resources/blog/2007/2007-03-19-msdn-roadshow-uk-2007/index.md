@@ -1,21 +1,22 @@
 ---
+title: MSDN Roadshow UK 2007
+date: 2007-03-19
+author: MrHinsh
 id: "430"
-title: "MSDN Roadshow UK 2007"
-date: "2007-03-19"
-categories:
-  - "events-and-presentations"
-tags:
-  - "events-and-presentations"
-  - "msdn"
-coverImage: "metro-event-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "msdn-roadshow-uk-2007"
-
+slug: msdn-roadshow-uk-2007
 aliases:
-  - /blog/msdn-roadshow-uk-2007
+- /blog/msdn-roadshow-uk-2007
+tags:
+- events-and-presentations
+- msdn
+categories:
+- events-and-presentations
+coverImage: metro-event-128-link-1-1.png
+
 ---
+
 
 I have been very lazy of late with my blogging. But I am now getting a spurt so I thought I should mention that I attended the Roadshow at the Glasgow Science Center.
 
@@ -30,4 +31,5 @@ If you get a chance to get to the roadshow, then do so...
 [Resources from the Roadshow](http://blogs.msdn.com/ukdevteam/archive/2007/02/15/uk-msdn-roadshow-2007-resources.aspx)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+
 

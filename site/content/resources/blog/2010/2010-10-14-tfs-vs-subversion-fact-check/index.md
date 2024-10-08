@@ -1,22 +1,23 @@
 ---
+title: TFS vs. Subversion fact check
+date: 2010-10-14
+author: MrHinsh
 id: "22"
-title: "TFS vs. Subversion fact check"
-date: "2010-10-14"
-tags:
-  - "codeproject"
-  - "nwcadence"
-  - "svn"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-vs-subversion-fact-check"
-
+slug: tfs-vs-subversion-fact-check
 aliases:
-  - /blog/tfs-vs-subversion-fact-check
+- /blog/tfs-vs-subversion-fact-check
+tags:
+- codeproject
+- nwcadence
+- svn
+- tfs
+- tfs2010
+- tools
+
 ---
+
 
 ![subversion](images/32ab51073e36_8B5F-subversion_-6-6.png)I spotted a good comparison of [TFS vs. Subversion](http://dotnet.dzone.com/news/tfs-vs-subversion) by [Jarosław Dobrzański](http://dobrzanski.net) on DZone (you can also read the [original post](http://dobrzanski.net/2010/04/17/tfs-subversion/)) but I feel that a couple of the points were either out of date, or borne out of a lack of knowledge of the product, or even more likely I just missed the point. This article was taken from the perspective of an SVN user who has moved to TFS, and I am not in that category.
 { .post-img }
@@ -187,4 +188,5 @@ We can all make mistakes and it could not be easier for a TFS Admin to undo a de
 I really liked this post by [Jarosław Dobrzański](http://dobrzanski.net), and I hope my response clears up some of the misconceptions surrounding TFS. It is always good when people that have had to move from SVN to TFS describe the differences once they have worked with it for a while.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[Version Control](http://technorati.com/tags/Version+Control)
+
 

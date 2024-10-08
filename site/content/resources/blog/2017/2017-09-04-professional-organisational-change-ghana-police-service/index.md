@@ -1,23 +1,24 @@
 ---
+title: Professional Organisational Change at the Ghana Police Service
+date: 2017-09-04
+author: MrHinsh
 id: "12011"
-title: "Professional Organisational Change at the Ghana Police Service"
-date: "2017-09-04"
-categories:
-  - "agility"
-tags:
-  - "ghana"
-  - "organisational-change"
-  - "police"
-  - "scrum"
-coverImage: "nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-organisational-change-ghana-police-service"
-
+slug: professional-organisational-change-ghana-police-service
 aliases:
-  - /blog/professional-organisational-change-ghana-police-service
+- /blog/professional-organisational-change-ghana-police-service
+tags:
+- ghana
+- organisational-change
+- police
+- scrum
+categories:
+- agility
+coverImage: nkdagility-akaditi-ghana-police-scrum-board-4-3.jpg
+
 ---
+
 
 The [Ghana Police Service](http://police.gov.gh/) is in trouble. Over the last few last few decades each new Police organisation and government has tried in various ways to carry out some change but most changes have been ad-hoc, temporary, not robust enough or strategic. The old problems return to haunt new administrations and many police officers and the Public have lost hope.
 
@@ -67,4 +68,5 @@ Hell, the military realised that command and control was a losing strategy when 
 In any Agile organisation management changes from a 'telling people what to do' role, to one of servant leadership. They change from giving instructions to setting goals. They stop being a planner and become a teacher, coach, and leader.
 
 Leadership has very little to do with giving instructions and barking commands.
+
 

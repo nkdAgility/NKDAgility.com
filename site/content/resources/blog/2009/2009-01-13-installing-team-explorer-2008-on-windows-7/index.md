@@ -1,18 +1,19 @@
 ---
+title: Installing Team Explorer 2008 on Windows 7
+date: 2009-01-13
+author: MrHinsh
 id: "145"
-title: "Installing Team Explorer 2008 on Windows 7"
-date: "2009-01-13"
-tags:
-  - "tfs"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-team-explorer-2008-on-windows-7"
-
+slug: installing-team-explorer-2008-on-windows-7
 aliases:
-  - /blog/installing-team-explorer-2008-on-windows-7
+- /blog/installing-team-explorer-2008-on-windows-7
+tags:
+- tfs
+- tools
+
 ---
+
 
 I was a little lazy last time and did not install either Team Explorer, or SP1 on my visual studio instance. So, lets get to it…
 
@@ -54,4 +55,5 @@ Ewww, and check out that nasty logo…
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [TFS](http://technorati.com/tags/TFS)
+
 

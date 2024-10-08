@@ -1,26 +1,27 @@
 ---
+title: Getting started with a Definition of Done (DoD)
+date: 2020-12-14
+author: MrHinsh
 id: "38238"
-title: "Getting started with a Definition of Done (DoD)"
-date: "2020-12-14"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "agile"
-  - "definition-of-done"
-  - "engineering-excellence"
-  - "homepage"
-  - "scrum"
-  - "scrumble"
-coverImage: "naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "getting-started-definition-done-dod"
-
+slug: getting-started-definition-done-dod
 aliases:
-  - /blog/getting-started-definition-done-dod
+- /blog/getting-started-definition-done-dod
+tags:
+- agile
+- definition-of-done
+- engineering-excellence
+- homepage
+- scrum
+- scrumble
+categories:
+- agility
+- devops
+coverImage: naked-Agility-Scrum-Framework-Definition-of-Done-2-1.jpg
+
 ---
+
 
 In my last post about [Professional software teams creating working software](https://nkdagility.com/blog/professional-scrum-teams-build-software-works/) [David Corbin](https://www.scrum.org/david-corbin) made a good point. How do you determining what "Free from fault or defect" means? Since that is different for each Product and may change over time you need to focus on Quality and reflecting that quality in a Definition of Done (DoD).
 
@@ -87,4 +88,5 @@ If it is a significant issue that results in you not having working software, th
 If it is less significant, you might want to keep working and add what you need to your [Product Backlog](/the-2020-scrum-guide/#product-backlog). You can then deliver improvements over the next few Sprints that mitigate and then resolve the identified issue. Once you have resolved it, you can then pin the outcome by adding something to your DoD.
 
 **Always look for ways that you can increase your quality. What does your definition of done look like today?**
+
 

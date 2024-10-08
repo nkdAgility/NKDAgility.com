@@ -1,25 +1,26 @@
 ---
+title: A perfect match TFS and DLR
+date: 2009-07-27
+author: MrHinsh
 id: "96"
-title: "A perfect match TFS and DLR"
-date: "2009-07-27"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "tfs-event-handler"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "a-perfect-match-tfs-and-dlr"
-
+slug: a-perfect-match-tfs-and-dlr
 aliases:
-  - /blog/a-perfect-match-tfs-and-dlr
+- /blog/a-perfect-match-tfs-and-dlr
+tags:
+- code
+- tfs-event-handler
+- tools
+- visual-studio
+- vs2010
+categories:
+- code-and-complexity
+- me
+coverImage: metro-visual-studio-2010-128-link-3-3.png
+
 ---
+
 
 [![ConfigurationRequired](images/Aperfictmatch_701B-ConfigurationRequired_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Aperfictmatch_701B-ConfigurationRequired_2.jpg) I have always been annoyed with the mechanics of the Team Foundation Server check-in policies. I understand the limitations, but having to have a specific policy installed on every developers computer before you can use it is slightly ridicules and practically unmanageable. Why is there not a way to have a single installation that allows you to select any policy you want and have it execute in the desired manor on every client, including web clients?
 { .post-img }
@@ -34,4 +35,5 @@ I am currently working on the Web Services and how to pass and store the data I 
 I might need to learn a little Ruby :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [Developing](http://technorati.com/tags/Developing) [WIT](http://technorati.com/tags/WIT) [Version Control](http://technorati.com/tags/Version+Control) [WCF](http://technorati.com/tags/WCF) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
+
 

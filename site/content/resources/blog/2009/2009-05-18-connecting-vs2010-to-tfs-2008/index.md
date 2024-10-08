@@ -1,23 +1,24 @@
 ---
+title: Connecting VS2010 to TFS 2008
+date: 2009-05-18
+author: MrHinsh
 id: "118"
-title: "Connecting VS2010 to TFS 2008"
-date: "2009-05-18"
-tags:
-  - "aggreko"
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "connecting-vs2010-to-tfs-2008"
-
+slug: connecting-vs2010-to-tfs-2008
 aliases:
-  - /blog/connecting-vs2010-to-tfs-2008
+- /blog/connecting-vs2010-to-tfs-2008
+tags:
+- aggreko
+- tfs
+- tfs2008
+- tools
+- visual-studio
+- vs2010
+coverImage: metro-visual-studio-2010-128-link-5-5.png
+
 ---
+
 
 ![VS-TS_rgb_thumb[2][5][5][5]](images/ConnectingVS2010toTFS2008_EA90-VSTS_rgb_thumb2555-4-4.png)Connecting Visual Studio 2010 to Team Foundation Server 2008 is a snitch… If you have done it from VS200x to TFS200x then you will have no problems understanding what is going on…
 { .post-img }
@@ -36,4 +37,5 @@ As you can see, when connecting to a TFS 2008 server you can see a single Team P
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
+
 

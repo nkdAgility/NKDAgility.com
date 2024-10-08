@@ -1,21 +1,22 @@
 ---
+title: Microsoft, please help me diagnose TFS Administration permission issues!
+date: 2010-03-04
+author: MrHinsh
 id: "67"
-title: "Microsoft, please help me diagnose TFS Administration permission issues!"
-date: "2010-03-04"
-tags:
-  - "ssw"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-please-help-me-diagnose-tfs-administration-permission-issues"
-
+slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliases:
-  - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+- /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+tags:
+- ssw
+- tfs
+- tfs2010
+- tools
+coverImage: metro-SSWLogo-128-link-1-1.png
+
 ---
+
 
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.
 
@@ -74,4 +75,5 @@ This would have saved me 30 minutes, although I agree that I should change my na
 </rant>
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010)
+
 

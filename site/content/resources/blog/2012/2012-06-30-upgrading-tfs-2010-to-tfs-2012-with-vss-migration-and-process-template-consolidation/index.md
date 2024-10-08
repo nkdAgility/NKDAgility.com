@@ -1,29 +1,30 @@
 ---
+title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
+date: 2012-06-30
+author: MrHinsh
 id: "5702"
-title: "Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation"
-date: "2012-06-30"
-categories:
-  - "code-and-complexity"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tf54000"
-  - "tf60014"
-  - "tf60087"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation"
-
+slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliases:
-  - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+- /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
+tags:
+- configuration
+- infrastructure
+- tf54000
+- tf60014
+- tf60087
+- tfs
+- tfs2012
+- tools
+- visual-studio
+- vs2012
+categories:
+- code-and-complexity
+- upgrade-and-maintenance
+
 ---
+
 
 Back in Seattle and another awesome engagement, this time with a local company to upgrade their version of TFS from 2010 to 2012 and migrate all of their legacy VSS databases. Additional they want to take advantage of the new team features of TFS 2012 and need to consolidate all of their team projects
 
@@ -400,4 +401,5 @@ That was this week….next week we will be looking at completing the Process Tem
 One project to rule them all…
 
 _\-Are you upgrading tfs from one version to another? Northwest Cadence has experts ready to help you upgrade from any system to TFS. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
+
 

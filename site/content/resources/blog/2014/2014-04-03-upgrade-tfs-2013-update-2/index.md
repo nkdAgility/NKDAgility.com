@@ -1,27 +1,28 @@
 ---
+title: Should I upgrade to TFS 2013 Update 2?
+date: 2014-04-03
+author: MrHinsh
 id: "10479"
-title: "Should I upgrade to TFS 2013 Update 2?"
-date: "2014-04-03"
-categories:
-  - "news-and-reviews"
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "backlog-management"
-  - "release-management"
-  - "test-management"
-  - "tfs"
-  - "tfs-2013"
-  - "tfs-2013-2"
-coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrade-tfs-2013-update-2"
-
+slug: upgrade-tfs-2013-update-2
 aliases:
-  - /blog/upgrade-tfs-2013-update-2
+- /blog/upgrade-tfs-2013-update-2
+tags:
+- backlog-management
+- release-management
+- test-management
+- tfs
+- tfs-2013
+- tfs-2013-2
+categories:
+- news-and-reviews
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: nakedalm-experts-visual-studio-alm-7-7.png
+
 ---
+
 
 With the launch at Build of Team Foundation Server 2013 Update 2 I wanted to make sure that the update goes seamlessly. So I am upgrading my demo box to both [Windows Server 2012 R2 Update 1](http://nkdagility.com/upgrade-server-windows-server-2012-r2-update-1/) and Team Foundation Server 2013 Update 2.
 
@@ -134,4 +135,5 @@ While a full list of features in both Visual Studio and Team Foundation Server f
 For those that do not know what Go-Live is it means that the TFS team are happy to fully support its use in production but they don’t guarantee beyond RC quality. This is usually when these components have not seen a large enough install base for them to be as sue as they can be that there are no issues. Don;t be afraid of Go-Live… embrace it and go for it.
 
 You should go ahead and install TSF 2013 Update 2 today. If you have any issues or you want to know more about how to make the most of the new and existing features then give us a shout.
+
 

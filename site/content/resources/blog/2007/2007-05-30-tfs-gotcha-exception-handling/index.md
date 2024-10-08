@@ -1,17 +1,18 @@
 ---
+title: TFS Gotcha (Exception Handling)
+date: 2007-05-30
+author: MrHinsh
 id: "392"
-title: "TFS Gotcha (Exception Handling)"
-date: "2007-05-30"
-tags:
-  - "tfs"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-gotcha-exception-handling"
-
+slug: tfs-gotcha-exception-handling
 aliases:
-  - /blog/tfs-gotcha-exception-handling
+- /blog/tfs-gotcha-exception-handling
+tags:
+- tfs
+
 ---
+
 
 When coding against team foundation server you must be aware that some of the exceptions thrown by [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") are not Serilisable! I think that this was an oversite by Microsoft, but it is there none the less.
 
@@ -41,4 +42,5 @@ End Try
 This will allow you to handle [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") exceptions for your [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service application on the client.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+
 

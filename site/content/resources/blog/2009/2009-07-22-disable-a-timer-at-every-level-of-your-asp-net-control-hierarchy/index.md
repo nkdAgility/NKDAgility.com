@@ -1,24 +1,25 @@
 ---
+title: Disable a timer at every level of your ASP.NET control hierarchy
+date: 2009-07-22
+author: MrHinsh
 id: "98"
-title: "Disable a timer at every level of your ASP.NET control hierarchy"
-date: "2009-07-22"
-categories:
-  - "code-and-complexity"
-tags:
-  - "aggreko"
-  - "code"
-  - "codeproject"
-  - "tools"
-  - "web"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy"
-
+slug: disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
 aliases:
-  - /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+- /blog/disable-a-timer-at-every-level-of-your-asp-net-control-hierarchy
+tags:
+- aggreko
+- code
+- codeproject
+- tools
+- web
+categories:
+- code-and-complexity
+coverImage: metro-binary-vb-128-link-1-1.png
+
 ---
+
 
 Even though this sounds like a really simple thing, what if you do not know the name of the controls, and you do not want to have to add a bit of code that you, or another may developer may forget to every piece of code with a timer in it. The problem I have is that if you have a DropDownList on the same page as a update panel that updates based on a timer, you get a little interference.
 
@@ -85,4 +86,5 @@ The FindControls method can find a list of all instances of a control type from 
 UPDATE: OK, so you have probably guessed that I am a complete **_muppet_**.. I have changes my UpdatePanels to UpdateMode=“Conditional” and with a few extra lines of code solved my problem the correct way! I will be keeping this little bit of code as you never know when you need to find all instances of a type of control :)… I am such a donkey…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
+
 

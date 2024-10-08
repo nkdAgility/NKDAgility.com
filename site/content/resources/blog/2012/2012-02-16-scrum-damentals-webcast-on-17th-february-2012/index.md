@@ -1,28 +1,29 @@
 ---
+title: Scrum-damentals Webcast on 17th February 2012
+date: 2012-02-16
+author: MrHinsh
 id: "4389"
-title: "Scrum-damentals Webcast on 17th February 2012"
-date: "2012-02-16"
-categories:
-  - "events-and-presentations"
-  - "news-and-reviews"
-tags:
-  - "agile"
-  - "develop"
-  - "events-and-presentations"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "webcast"
-  - "webcast-2"
-coverImage: "metro-event-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "scrum-damentals-webcast-on-17th-february-2012"
-
+slug: scrum-damentals-webcast-on-17th-february-2012
 aliases:
-  - /blog/scrum-damentals-webcast-on-17th-february-2012
+- /blog/scrum-damentals-webcast-on-17th-february-2012
+tags:
+- agile
+- develop
+- events-and-presentations
+- practices
+- process
+- scrum
+- webcast
+- webcast-2
+categories:
+- events-and-presentations
+- news-and-reviews
+coverImage: metro-event-128-link-1-1.png
+
 ---
+
 
 We often speak about the basics of scrum and rarely get into the problems and I wanted a session that represented the “next steps” after deciding that this Scrum thing was a good idea. I will, hopefully, be hitting this session at those that already understand Scrum, but are looking for a little implementation knowledge and guidance before they get stuck in.
 
@@ -47,4 +48,5 @@ While I will try to cover many aspects of individual problems that are raised, t
 > Scrum is the most adopted and recognized agile methodology framework. However, there are still challenges to Scrum adoption. This Event will dive into several Scrum adoption pitfalls and how an organization can avoid them. In particular, we will highlight some of the proven practices that have worked for diverse sets of teams. We will also leave time for questions and encourage attendees to bring your most challenging problems. -[Extract from Scrum-damentals on 17th February 2012](https://www.clicktoattend.com/invitation.aspx?code=158652)
 
 Make sure that you sign up as I am looking forward to this one.
+
 

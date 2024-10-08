@@ -1,21 +1,22 @@
 ---
+title: The great Xbox update
+date: 2008-11-18
+author: MrHinsh
 id: "166"
-title: "The great Xbox update"
-date: "2008-11-18"
-categories:
-  - "me"
-tags:
-  - "live"
-  - "xbox"
-coverImage: "metro-xbox-360-link-3-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-great-xbox-update"
-
+slug: the-great-xbox-update
 aliases:
-  - /blog/the-great-xbox-update
+- /blog/the-great-xbox-update
+tags:
+- live
+- xbox
+categories:
+- me
+coverImage: metro-xbox-360-link-3-2.png
+
 ---
+
 
 [![xbox live](images/ThegreatXboxupdate_AEC7-xbox-live_thumb-2-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-ThegreatXboxupdate_AEC7-xbox-live_2.jpg)
 { .post-img }
@@ -30,4 +31,5 @@ I never made it into the [Preview](http://majornelson.com/archive/2008/10/24/the
 { .post-img }
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers)
+
 

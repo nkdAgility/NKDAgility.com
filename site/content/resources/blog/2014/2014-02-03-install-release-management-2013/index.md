@@ -1,27 +1,28 @@
 ---
+title: Install Release Management 2013
+date: 2014-02-03
+author: MrHinsh
 id: "10353"
-title: "Install Release Management 2013"
-date: "2014-02-03"
-categories:
-  - "install-and-configuration"
-tags:
-  - "microsoft-deployment-agent"
-  - "release"
-  - "release-management"
-  - "release-management-client"
-  - "release-management-server"
-  - "tfs"
-  - "tfs-2013"
-  - "videos"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "install-release-management-2013"
-
+slug: install-release-management-2013
 aliases:
-  - /blog/install-release-management-2013
+- /blog/install-release-management-2013
+tags:
+- microsoft-deployment-agent
+- release
+- release-management
+- release-management-client
+- release-management-server
+- tfs
+- tfs-2013
+- videos
+categories:
+- install-and-configuration
+coverImage: nakedalm-experts-visual-studio-alm-1-1.png
+
 ---
+
 
 Just recently I have been doing a lot of work in Release Management 2013 and noticed the lack of documentation. I have done a number of installs and documented them is posts like [Installing Release Management Client for Visual Studio 2013](http://nkdagility.com/installing-release-management-client-visual-studio-2013/ "Installing Release Management Client for Visual Studio 2013") and [Installing Release Management Server for TFS 2013](http://nkdagility.com/installing-release-management-server-tfs-2013/ "http://nkdagility.com/installing-release-management-server-tfs-2013/") however there is always things that don’t quite join up. I often have to head off an fix problems or get support as part of my posts an while I almost always blog those issues there is no joined up experience.
 
@@ -34,4 +35,5 @@ Have you seen how easy it is to install Release Management 2013 and configure a 
 - Microsoft Deployment Agent 2013
 
 Have you been using Release Management in Visual Studio 2013? How have you been getting on?
+
 

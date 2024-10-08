@@ -1,32 +1,33 @@
 ---
+title: Virtual Labs in the modern application lifecycle
+date: 2012-09-22
+author: MrHinsh
 id: "8803"
-title: "Virtual Labs in the modern application lifecycle"
-date: "2012-09-22"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "infrastructure"
-  - "modern-application-lifecycle"
-  - "practices"
-  - "process"
-  - "s30d"
-  - "tfs"
-  - "tfs2012"
-  - "the-new-normal"
-  - "tools"
-  - "virtual-labs"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "metro-lab-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "virtual-labs-in-the-modern-application-lifecycle"
-
+slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
-  - /blog/virtual-labs-in-the-modern-application-lifecycle
+- /blog/virtual-labs-in-the-modern-application-lifecycle
+tags:
+- agile
+- infrastructure
+- modern-application-lifecycle
+- practices
+- process
+- s30d
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- virtual-labs
+- visual-studio
+- vs2012
+categories:
+- tools-and-techniques
+coverImage: metro-lab-5-5.png
+
 ---
+
 
 In the world of modern application development we have many more moving parts than we ever did before and it has become increasingly difficult for organisations to effectively simulate their environments with virtual labs.
 
@@ -192,4 +193,5 @@ This allows us to integrate both the Development and Operations teams to achieve
 I hope that in the near future all of the products above will be able to be plugged into Visual Studio 2012 Team Foundation Server’s Lab Management capability to make them seamless to the development teams. I want to be able to create an environment in Lab Manager and have the backing store be any of the above services.
 
 Are you ready to rise to the challenge of building modern applications?
+
 

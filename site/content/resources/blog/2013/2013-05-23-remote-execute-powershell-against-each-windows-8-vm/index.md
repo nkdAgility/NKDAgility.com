@@ -1,25 +1,26 @@
 ---
+title: Remote Execute PowerShell against each Windows 8 VM
+date: 2013-05-23
+author: MrHinsh
 id: "9901"
-title: "Remote Execute PowerShell against each Windows 8 VM"
-date: "2013-05-23"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "hyper-v"
-  - "powershell"
-  - "remote-execute"
-  - "virtual-machines"
-  - "vm"
-coverImage: "image11-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "remote-execute-powershell-against-each-windows-8-vm"
-
+slug: remote-execute-powershell-against-each-windows-8-vm
 aliases:
-  - /blog/remote-execute-powershell-against-each-windows-8-vm
+- /blog/remote-execute-powershell-against-each-windows-8-vm
+tags:
+- code
+- hyper-v
+- powershell
+- remote-execute
+- virtual-machines
+- vm
+categories:
+- code-and-complexity
+coverImage: image11-1-1.png
+
 ---
+
 
 Running a remote execute PowerShell against each Windows 8 VM on your Hyper-V host can help you maintain the guest VM's in a minimal amount of time.
 
@@ -283,4 +284,5 @@ This may change and I want to test out some hierarchical PowerShell script optio
 Although I have tinkered with PowerShell now and then this is the first executable script that I have written. I am still in copy/paste mode but I can sure see the value of learning and using PowerShell for everything from installing applications to configuring systems.
 
 You can just about do anything with PowerShell that you like.
+
 

@@ -1,22 +1,23 @@
 ---
+title: Luddites have no place in the modern organisation
+date: 2020-07-06
+author: MrHinsh
 id: "44507"
-title: "Luddites have no place in the modern organisation"
-date: "2020-07-06"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "leadership-track"
-  - "scrum-theory"
-coverImage: "image-3-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "luddites-have-no-place-in-the-modern-organisation"
-
+slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
-  - /blog/luddites-have-no-place-in-the-modern-organisation
+- /blog/luddites-have-no-place-in-the-modern-organisation
+tags:
+- leadership-track
+- scrum-theory
+categories:
+- agility
+- people-and-process
+coverImage: image-3-3-3.png
+
 ---
+
 
 In our [Professional Agile Leadership training](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-training/), we talk about changing your organisations hiring practices to hire more of the right sort of people to create the company that you want, not the company that you have. Hire the right people also implies that you will have to, within your cultural constraints, de-hire the wrong people.
 
@@ -79,4 +80,5 @@ If you go into Microsoft today and ask them what has changed since they were a t
 The world operates at a much higher frequency than it ever did before and a [lack of learning, innovation, and evolution of our processes, practices, and tools](https://nkdagility.com/blog/bureaucracy-is-the-enemy-of-agility/) is the realm of the Luddite.
 
 **Luddites have no place in the modern organisation #daretochange. Don't be a Luddite!**
+
 

@@ -1,25 +1,26 @@
 ---
+title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
+date: 2011-06-01
+author: MrHinsh
 id: "3383"
-title: "How might we implement the Change Iteration Automation for the Tfs Automation Platform"
-date: "2011-06-01"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfsap"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform"
-
+slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
-  - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+- /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
+tags:
+- nwcadence
+- tfs
+- tfs2010
+- tfsap
+- tools
+- visual-studio
+- vs2010
+- vsalmrangers
+coverImage: metro-visual-studio-2010-128-link-4-4.png
+
 ---
+
 
 [![Turk-Automaton](images/Turk-Automaton_thumb-5-5.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton.gif)
 { .post-img }
@@ -98,4 +99,5 @@ This particular automation is a very short run thing, but there may be others th
 This process will be a welcome first addition to the TFS Automation Platform and it looks like it is going to exercise at least the UI, Configuration and TFS Job Service sections that we plan on building.
 
 I am really looking forward to getting started on this…
+
 

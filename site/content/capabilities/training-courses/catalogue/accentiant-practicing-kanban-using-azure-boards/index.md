@@ -1,21 +1,26 @@
 ---
-categories:
-  - devops
-author: MrHinsh
-title: Practicing Kanban Using Azure Boards
-url:  /capabilities/training-courses/azure-devops-training-courses/:slug/
-slug: practicing-kanban-using-azure-boards
-catagories:
-  - Azure DevOps
-aliases:
-  - /pkab/
-  - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+title: Practicing Kanban Using Azure Boards Training
 date: 2020-08-31
+author: MrHinsh
+id: "44723"
+type: course
+slug: practicing-kanban-using-azure-boards-training
+aliases:
+- practicing-kanban-using-azure-boards
+- /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
+tags:
+- development
+- team
+categories:
+- devops
+card:
+  button:
+    content: ""
+  title: ""
+  content: ""
 delivery:
-  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
-  skilllevel: intermediate
-  format: ""
-  courseAssessmentIcon: ""
+  prerequisites: For more information, read the [Kanban guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams).
+  lead: ""
   objectives: |+
     This course contains several modules, progressively explaining Kanban’s principles and practices and how to use Azure Boards to support them. 
     1. INTRODUCTION TO KANBAN
@@ -53,10 +58,14 @@ delivery:
         - Monte Carlo simulation
         - Achieving flow and predictability - Hands-on
 
-  certification: There is no assessment for this workshop.
-  prerequisites: For more information, read the [Kanban guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams).
-  duration: 8
-  code: PKAB
+  courseAssessmentIcon: ""
+  skilllevel: intermediate
+  audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
+  type: Engineering
+  details: |2-
+
+    ### Course Designer
+     This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
   topics: |2+
 
     1. Introduction to Kanban
@@ -64,27 +73,23 @@ delivery:
     3. Limiting WIP
     4. Managing for Flow
 
-  details: |2-
-
-    ### Course Designer
-     This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
-  type: Engineering
+  format: ""
+  duration: 8
+  certification: There is no assessment for this workshop.
   brand:
-    colour: ""
     vendor: accentient
-  lead: ""
+    colour: ""
+  code: PKAB
   courseIcon: A-PKAB.png
 
-id: "44723"
-tags:
-  - development
-  - team
-card:
-  content: ""
-  title: ""
-  button:
-    content: ""
-type: course
 ---
 
+
+
+
+
 All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
+
+
+
+

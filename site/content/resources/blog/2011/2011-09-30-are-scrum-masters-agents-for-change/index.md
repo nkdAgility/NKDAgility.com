@@ -1,27 +1,28 @@
 ---
+title: Are Scrum Masters agents for change?
+date: 2011-09-30
+author: MrHinsh
 id: "3823"
-title: "Are Scrum Masters agents for change?"
-date: "2011-09-30"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "define"
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "psm"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "are-scrum-masters-agents-for-change"
-
+slug: are-scrum-masters-agents-for-change
 aliases:
-  - /blog/are-scrum-masters-agents-for-change
+- /blog/are-scrum-masters-agents-for-change
+tags:
+- agile
+- define
+- develop
+- nwcadence
+- people
+- process
+- psm
+- scrum
+categories:
+- people-and-process
+coverImage: nakedalm-experts-professional-scrum-6-6.png
+
 ---
+
 
 ![nwc_logo_tagline](images/nwc_logo_tagline3-7-7.png "nwc_logo_tagline")![PSM Logo 2](images/PSM-Logo-2.png "PSM Logo 2")If you are interested in finding out more about Scrum and how to implement it you might be interested in the Professional Scrum Master certification. Think of it not as becoming a “Master” of anything, but just making sure that you are not going to be a danger to those around you.
 { .post-img }
@@ -55,4 +56,5 @@ Ultimately the Professional Scrum Master course is primarily targeted at those r
 If you are still interested then check out the syllabus for the course and see if it is right for you…
 
 <table border="0" cellspacing="0" cellpadding="2"><tbody><tr><td valign="top" width="200"><strong>Date</strong></td><td valign="top" width="200"><strong>Location</strong></td><td valign="top" width="200"><strong>Title</strong></td><td valign="top" width="210"></td></tr><tr><td valign="top">29th November 2011</td><td valign="top">Minneapolis, United States</td><td valign="top">Professional Scrum Master</td><td valign="top"><a href="http://courses.scrum.org/classes/show/449" target="_blank"><img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="images/image1-3-3.png" alt="image" width="79" height="25" border="0"></a></td></tr><tr><td valign="top">1st December 2011</td><td valign="top">Minneapolis, United States</td><td valign="top">Professional Scrum Master</td><td valign="top"><a href="http://courses.scrum.org/classes/show/450" target="_blank"><img style="background-image: none; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="images/image2-4-4.png" alt="image" width="79" height="25" border="0"></a></td></tr><tr><td valign="top">6th December 2011</td><td valign="top">Kirkland, United States</td><td valign="top">Professional Scrum Master</td><td valign="top"><a href="http://courses.scrum.org/classes/show/434" target="_blank"><img style="background-image: none; padding-left: 0px; padding-right: 0px; display: inline; padding-top: 0px; border: 0px;" title="image" src="images/image3-5-5.png" alt="image" width="79" height="25" border="0"></a></td></tr></tbody></table>
+
 

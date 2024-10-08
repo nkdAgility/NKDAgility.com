@@ -1,25 +1,26 @@
 ---
+title: 'TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts'
+date: 2012-08-07
+author: MrHinsh
 id: "7074"
-title: "TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts"
-date: "2012-08-07"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "sql-server"
-  - "sql-server-2012"
-  - "tf255507"
-  - "tfs"
-  - "tfs2012"
-coverImage: "metro-problem-icon-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts"
-
+slug: tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
 aliases:
-  - /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+- /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
+tags:
+- puzzles
+- sql-server
+- sql-server-2012
+- tf255507
+- tfs
+- tfs2012
+categories:
+- problems-and-puzzles
+coverImage: metro-problem-icon-3-3.png
+
 ---
+
 
 ### Issue
 
@@ -79,4 +80,5 @@ sqlcmd -E -S "Kraken" -Q "ALTER LOGIN [WIN-EO45N4FNSOCAdministrator] WITH NAME =
 Once you have run the command you can “rerun Readiness Checks” to clear out the error.
 
 **Did this fix your problem?**
+
 

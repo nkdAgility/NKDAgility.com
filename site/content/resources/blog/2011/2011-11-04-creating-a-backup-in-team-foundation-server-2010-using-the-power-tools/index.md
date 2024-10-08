@@ -1,22 +1,23 @@
 ---
+title: Creating a backup in Team Foundation Server 2010 using the Power Tools
+date: 2011-11-04
+author: MrHinsh
 id: "4025"
-title: "Creating a backup in Team Foundation Server 2010 using the Power Tools"
-date: "2011-11-04"
-tags:
-  - "nwcadence"
-  - "tf254027"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "webcast-2"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-backup-in-team-foundation-server-2010-using-the-power-tools"
-
+slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
-  - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+- /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+tags:
+- nwcadence
+- tf254027
+- tfs
+- tfs2010
+- tools
+- webcast-2
+
 ---
+
 
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?
 
@@ -194,4 +195,5 @@ After I have hastily changed the service account back to the original value and 
 - [Dynamically Set SPN's for SQL Service Accounts](http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html)
 
 So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.
+
 

@@ -1,23 +1,24 @@
 ---
+title: Maven release prepare fails with detected changes in Jenkins
+date: 2014-07-09
+author: MrHinsh
 id: "10579"
-title: "Maven release prepare fails with detected changes in Jenkins"
-date: "2014-07-09"
-categories:
-  - "problems-and-puzzles"
-  - "upgrade-and-maintenance"
-tags:
-  - "jenkins"
-  - "maven"
-  - "tfignore"
-coverImage: "naked-alm-jenkins-logo-9-9.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "maven-release-prepare-fails-with-detected-changes-in-jenkins"
-
+slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
-  - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+- /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+tags:
+- jenkins
+- maven
+- tfignore
+categories:
+- problems-and-puzzles
+- upgrade-and-maintenance
+coverImage: naked-alm-jenkins-logo-9-9.png
+
 ---
+
 
 If you are using Team Explorer Everywhere 2012 or 2013 your Maven release prepare fails with detected changes, however it worked when you were using SVN.
 
@@ -86,4 +87,5 @@ target/
 ```
 
 All we need to do now is execute a new build and see that light turn green. This is however a "dry run" build and we still have some work to do to get the rest of the process working, however this is progress. At least I don’t have generated files ruining my day.
+
 

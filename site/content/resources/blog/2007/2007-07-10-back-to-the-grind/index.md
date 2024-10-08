@@ -1,18 +1,19 @@
 ---
+title: Back to the grind
+date: 2007-07-10
+author: MrHinsh
 id: "373"
-title: "Back to the grind"
-date: "2007-07-10"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "back-to-the-grind"
-
+slug: back-to-the-grind
 aliases:
-  - /blog/back-to-the-grind
+- /blog/back-to-the-grind
+categories:
+- me
+coverImage: nakedalm-logo-128-link-2-2.png
+
 ---
+
 
 Well that's my paternity leave over, I cant believe that it has been two weeks! Well I got a gorgeous  baby girl out of it:
 
@@ -22,4 +23,5 @@ Well that's my paternity leave over, I cant believe that it has been two weeks! 
 But now it is time to get back to work...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

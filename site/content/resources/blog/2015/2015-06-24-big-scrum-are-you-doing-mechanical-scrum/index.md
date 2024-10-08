@@ -1,24 +1,25 @@
 ---
+title: 'Big Scrum: Are you doing mechanical Scrum'
+date: 2015-06-24
+author: MrHinsh
 id: "11355"
-title: "Big Scrum: Are you doing mechanical Scrum"
-date: "2015-06-24"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "big-scrum"
-  - "scaled-agile"
-  - "scrum"
-  - "scrum-at-scale"
-coverImage: "clip_image001-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "big-scrum-are-you-doing-mechanical-scrum"
-
+slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
-  - /blog/big-scrum-are-you-doing-mechanical-scrum
+- /blog/big-scrum-are-you-doing-mechanical-scrum
+tags:
+- agile
+- big-scrum
+- scaled-agile
+- scrum
+- scrum-at-scale
+categories:
+- people-and-process
+coverImage: clip_image001-1-1.png
+
 ---
+
 
 Last month I created an article for NDC Magazine on Scaling Scrum. The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional Scrum Team, why we need it, and how we can scale it.
 
@@ -47,4 +48,5 @@ It beggars belief that so many organisations only practice flaccid Scrum and was
 Is your organisation paying lip service to the values and principals? Does it feel more like 'yeeha', or a group of professionals?
 
 Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
+
 

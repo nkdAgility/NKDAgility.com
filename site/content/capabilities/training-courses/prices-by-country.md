@@ -1,4 +1,10 @@
 ---
-title: "Prices by Country"
+title: Prices by Country
 layout: price-by-country
+
 ---
+
+
+
+
+

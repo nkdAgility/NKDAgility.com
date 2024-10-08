@@ -1,27 +1,28 @@
 ---
+title: 'VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly'
+date: 2012-06-28
+author: MrHinsh
 id: "6127"
-title: "VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly"
-date: "2012-06-28"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "kb"
-  - "tf54000"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-sourcesafe"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly"
-
+slug: vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 aliases:
-  - /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+- /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+tags:
+- configuration
+- infrastructure
+- kb
+- tf54000
+- tfs
+- tfs2010
+- tools
+- visual-sourcesafe
+categories:
+- code-and-complexity
+- problems-and-puzzles
+
 ---
+
 
 ### Issue
 
@@ -43,4 +44,5 @@ What looks to have happened is that the scheduled time synchronisation just happ
 ### Workaround
 
 Just wait for a minute (or so) and resume (thanks Cheryl) the migration by re-running the command.
+
 

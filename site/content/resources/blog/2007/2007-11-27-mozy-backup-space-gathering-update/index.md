@@ -1,18 +1,19 @@
 ---
+title: Mozy Backup Space Gathering update
+date: 2007-11-27
+author: MrHinsh
 id: "286"
-title: "Mozy Backup Space Gathering update"
-date: "2007-11-27"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mozy-backup-space-gathering-update"
-
+slug: mozy-backup-space-gathering-update
 aliases:
-  - /blog/mozy-backup-space-gathering-update
+- /blog/mozy-backup-space-gathering-update
+categories:
+- me
+coverImage: nakedalm-logo-128-link-2-2.png
+
 ---
+
 
 Well, I currently have two referrals :)
 
@@ -42,4 +43,5 @@ I only need another 300MB...so...
 ...**_My quest for more free backup space continues..._**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

@@ -1,23 +1,24 @@
 ---
+title: Updating the Command Line Parser
+date: 2009-08-17
+author: MrHinsh
 id: "91"
-title: "Updating the Command Line Parser"
-date: "2009-08-17"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "codeproject"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "updating-the-command-line-parser"
-
+slug: updating-the-command-line-parser
 aliases:
-  - /blog/updating-the-command-line-parser
+- /blog/updating-the-command-line-parser
+tags:
+- code
+- codeproject
+- tools
+categories:
+- code-and-complexity
+- me
+coverImage: metro-binary-vb-128-link-2-1.png
+
 ---
+
 
 I had previously created a Command Line Parser from [Ray Hayes](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7917) codeproject article [Automatic Command Line Parsing in C#](http://www.codeproject.com/KB/recipes/commandlineparser.aspx). I had adapted it to VB.NET and upgraded it to .NET 3.5 but I recently ran into the problem with wanting a single command prompt application to handle multiple processes and multiple parameters. This would allow you to group all of a particular tasks commands into a single application. With the advent of Power Shell this format is increasingly less relevant, but with the proliferation of Power Shell many people still prefer to use the good old command line.
 
@@ -298,4 +299,5 @@ I hope that if you are building command line apps that you will have a look, jus
 Get [Command Line Parser v2.0](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31651)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
+
 

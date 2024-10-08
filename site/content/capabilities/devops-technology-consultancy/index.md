@@ -14,15 +14,15 @@ card:
   content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
 headline:
   cards:
-  - content: Our team has extensive experience with agile within the context of many diferent team settings.
+  - image: 
     title: Deep Technical Knowledge
-    image: 
-  - content: Whatever your needs we can provide a tailored experiance.
+    content: Our team has extensive experience with agile within the context of many diferent team settings.
+  - image: 
     title: Tailored Strategies
-    image: 
-  - content: We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly.
+    content: Whatever your needs we can provide a tailored experiance.
+  - image: 
     title: Comprehensive Support
-    image: 
+    content: We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly.
   title: DevOps Technology Consultancy
   content: 
 sections:
@@ -49,6 +49,13 @@ sections:
   source: data
 
 ---
+
+
+
+
+
+
+
 
 
 
@@ -81,6 +88,13 @@ Your transition to DevOps is augmented by our DevOps consultants, with their Dev
 #### Azure DevOps Migration Services
 
 We are the original creators and primary contributors to the [Azure DevOps Migration Tools](https://github.com/nkdAgility/azure-devops-migration-tools), and we can provide custom [Azure DevOps Migration Tools Consulting](https://nkdagility.com/global-devops-technology-consultancy-services/azure-devops-migration-tools-consulting/) services.
+
+
+
+
+
+
+
 
 
 

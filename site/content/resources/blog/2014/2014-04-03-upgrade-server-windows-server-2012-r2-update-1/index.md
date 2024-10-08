@@ -1,23 +1,24 @@
 ---
+title: Upgrade your server to Windows Server 2012 R2 Update 1
+date: 2014-04-03
+author: MrHinsh
 id: "10472"
-title: "Upgrade your server to Windows Server 2012 R2 Update 1"
-date: "2014-04-03"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "windows"
-  - "windows-8-1"
-  - "windows-server"
-coverImage: "nakedalm-windows-logo-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrade-server-windows-server-2012-r2-update-1"
-
+slug: upgrade-server-windows-server-2012-r2-update-1
 aliases:
-  - /blog/upgrade-server-windows-server-2012-r2-update-1
+- /blog/upgrade-server-windows-server-2012-r2-update-1
+tags:
+- windows
+- windows-8-1
+- windows-server
+categories:
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: nakedalm-windows-logo-6-6.png
+
 ---
+
 
 With the release of Windows Server 2012 R2 Update 2 I wanted to make sure that all of my demo machines are up to date. I have a Domain Controller and a TFS server that are separate boxes but which are both running Windows Server 2012 R2.
 
@@ -63,4 +64,5 @@ After you have completed all of the updates restart your server and wait for a w
 Figure: Windows Server 2012 R2 Update 1
 
 Not only did all of the updates install with no issues, all of the machines came back up and all services (those I changes anyway) are functional. Now that I have my Domain Controller and Team Foundation Server upgraded to Windows Server 2012 R2 Update 1 I can continue to updating TFS to Visual Studio Team Foundation Server 2013 Update 2 which was also released yesterday.
+
 

@@ -1,21 +1,22 @@
 ---
+title: Where am I?
+date: 2007-11-09
+author: MrHinsh
 id: "294"
-title: "Where am I?"
-date: "2007-11-09"
-categories:
-  - "me"
-tags:
-  - "ml"
-  - "wcf"
-coverImage: "metro-merilllynch-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "where-am-i"
-
+slug: where-am-i
 aliases:
-  - /blog/where-am-i
+- /blog/where-am-i
+tags:
+- ml
+- wcf
+categories:
+- me
+coverImage: metro-merilllynch-128-link-5-1.png
+
 ---
+
 
 I decided that I should have a go at this LINQ thing, so as .NET 3.5 will be RTM at the end of the month I am using LINQ and .NET 3.5 in my new Locator project.
 
@@ -80,4 +81,5 @@ Now that is nuts ![smile_omg](images/smile_omg-6-2.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+
 

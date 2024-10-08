@@ -1,21 +1,22 @@
 ---
+title: hinshelm vs fernienator
+date: 2007-01-12
+author: MrHinsh
 id: "443"
-title: "hinshelm vs fernienator"
-date: "2007-01-12"
-categories:
-  - "me"
-tags:
-  - "answers"
-  - "xbox"
-coverImage: "metro-xbox-360-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "hinshelm-vs-fernienator"
-
+slug: hinshelm-vs-fernienator
 aliases:
-  - /blog/hinshelm-vs-fernienator
+- /blog/hinshelm-vs-fernienator
+tags:
+- answers
+- xbox
+categories:
+- me
+coverImage: metro-xbox-360-link-2-2.png
+
 ---
+
 
 Or me vs my brother-in-law!
 
@@ -25,4 +26,5 @@ Or me vs my brother-in-law!
 I think that I am winning!
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
+
 

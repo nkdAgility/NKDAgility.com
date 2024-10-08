@@ -1,23 +1,24 @@
 ---
+title: TFS Event Handler prototype Configuration Demystified
+date: 2007-06-18
+author: MrHinsh
 id: "379"
-title: "TFS Event Handler prototype Configuration Demystified"
-date: "2007-06-18"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs-event-handler"
-  - "tools"
-  - "wit"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-prototype-configuration-demystified"
-
+slug: tfs-event-handler-prototype-configuration-demystified
 aliases:
-  - /blog/tfs-event-handler-prototype-configuration-demystified
+- /blog/tfs-event-handler-prototype-configuration-demystified
+tags:
+- code
+- tfs-event-handler
+- tools
+- wit
+categories:
+- code-and-complexity
+coverImage: metro-binary-vb-128-link-1-1.png
+
 ---
+
 
 There are a number of config options for the [TFS Event Handler Prototype](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057). I will describe all of them in depth here. The first step is to set the [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service options, which really only requires you to change one value.
 
@@ -150,4 +151,5 @@ If you are using friendly server names or TeamPlain the you can change the  TF
 This works by replacing values within the URL in the events. You specify the event type, what to look for and what to replace it by. This allows grater control and the integration of TeamPlain into your world. If a task is assigned to someone outside of your departmental sphere who you have given permission to TFS but who know nothing about it, they will still get an email that will link them through to TeamPlain.
 
 And that is you all set. if you have installed the service and set the account that is used to run the service you should get no errors when starting. No guarantees though :)
+
 

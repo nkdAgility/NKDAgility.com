@@ -1,24 +1,25 @@
 ---
+title: If your backlog is not refined then you are doing it wrong
+date: 2020-12-17
+author: MrHinsh
 id: "38243"
-title: "If your backlog is not refined then you are doing it wrong"
-date: "2020-12-17"
-categories:
-  - "agility"
-  - "discovery-ideation"
-  - "people-and-process"
-tags:
-  - "product-backlog"
-  - "product-discovery"
-  - "refinement"
-coverImage: "naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "backlog-not-refined-wrong"
-
+slug: backlog-not-refined-wrong
 aliases:
-  - /blog/backlog-not-refined-wrong
+- /blog/backlog-not-refined-wrong
+tags:
+- product-backlog
+- product-discovery
+- refinement
+categories:
+- agility
+- discovery-ideation
+- people-and-process
+coverImage: naked-Agility-Scrum-Framework-Product-Backlog-2-1.jpg
+
 ---
+
 
 Most [Scrum Teams](/the-2020-scrum-guide/#scrum-team) that I encounter don’t do refinement of their [Product Backlog](/the-2020-scrum-guide/#product-backlog) and try to work on things that they don’t understand correctly. However, if you get to the Sprint Planning event and your backlog is not ready, then you are doing it wrong. If what you build is not of good quality then you should [read about Defenition of Done](/blog/getting-started-definition-done-dod/).
 
@@ -67,4 +68,5 @@ This enables your [Product Owner to be able to plan future releases](/blog/relea
 During the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event, your [Developers](/the-2020-scrum-guide/#developers) should be able to quickly select many Product Backlog Items that go towards the chosen [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) and agree that they fit. If you can do this, and most of the time you get most (not all) of the Items delivered, then you are probably doing enough refinement. If you can't, then you need to focus a little more on Refinement and making your Product Backlog ready.
 
 If at your [Sprint Review](/the-2020-scrum-guide/#sprint-review) the [Product Owner is always wanting to reject that Backlog Items are complete](/blog/the-fallacy-of-the-rejected-backlog-item/) then there is unlikely to be enough refinement for the Development Team to understand what they are expected to do.
+
 

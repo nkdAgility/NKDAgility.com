@@ -1,25 +1,26 @@
 ---
+title: Maven release perform tries to do a Get to a workspace sub folder in TFS
+date: 2014-07-23
+author: MrHinsh
 id: "10620"
-title: "Maven release perform tries to do a Get to a workspace sub folder in TFS"
-date: "2014-07-23"
-categories:
-  - "problems-and-puzzles"
-  - "tools-and-techniques"
-tags:
-  - "java"
-  - "jenkins"
-  - "maven"
-  - "release"
-  - "tfs"
-coverImage: "naked-alm-jenkins-logo-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "maven-release-perform-tries-get-workspace-sub-folder-tfs"
-
+slug: maven-release-perform-tries-get-workspace-sub-folder-tfs
 aliases:
-  - /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+- /blog/maven-release-perform-tries-get-workspace-sub-folder-tfs
+tags:
+- java
+- jenkins
+- maven
+- release
+- tfs
+categories:
+- problems-and-puzzles
+- tools-and-techniques
+coverImage: naked-alm-jenkins-logo-2-2.png
+
 ---
+
 
 If you are using TFS and specifically switching from SVN to TFS then you might run into the issue that your Maven release perform tries to do a Get to a workspace sub folder. This will not work as TFS has a validation exception to trying to map a sub folder inside an existing workspace. That could be disastrous in a real situation.
 
@@ -93,4 +94,5 @@ Multiple users is an easier issue to solve. We added pre-build commands to creat
 This got the build working. Our only outstanding issue now is that build from SVN have a Tag created. In TFS this is done as a label, however labels are mutable. They can be changed after the fact with no audit record. We will likely solve this by creating a read-only branch instead of a label.
 
 Let me know how you get on with your migrations to TFS.
+
 
