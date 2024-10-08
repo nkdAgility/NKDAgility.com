@@ -1,15 +1,12 @@
 ---
-title: "Training Courses"
-url: "/capabilities/training-courses/"
+title: "Training Courses Catalogue"
+url: "/capabilities/training-courses/catalogue"
 date: 2024-06-12
+type: course
 weight: 2
-type: capabilities
-layout: training-courses
-outputs:
+outputs: 
   - html
-  - json
-aliases:
-  - /capabilities/private-corporate-training/ 
+  - coursesJson
 card:
   button:
     content: Training Courses

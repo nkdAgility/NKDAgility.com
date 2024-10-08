@@ -1,6 +1,8 @@
 ---
 author: MrHinsh
 title: Assuring Quality Using Azure Test Plans Training
+catagories:
+  - Azure DevOps
 aliases:
   - assuring-quality-using-azure-test-plans
   - /training-courses/azure-devops-training-courses/assuring-quality-using-azure-test-plans-training/

@@ -1,3 +1,4 @@
 ---
-title: "Retraining Program"
+title: "refer-a=-friend"
+layout: refer-a-friend
 ---

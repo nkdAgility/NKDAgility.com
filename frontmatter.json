@@ -118,6 +118,185 @@
               ]
             }
           ]
+        },
+        {
+          "title": "id",
+          "name": "id",
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "name": "course",
+      "pageBundle": true,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "aliases",
+          "name": "aliases",
+          "type": "choice",
+          "choices": [
+            "practicing-kanban-using-azure-boards",
+            "/training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/"
+          ]
+        },
+        {
+          "title": "date",
+          "name": "date",
+          "type": "datetime"
+        },
+        {
+          "title": "delivery",
+          "name": "delivery",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "audience",
+              "name": "audience",
+              "type": "string"
+            },
+            {
+              "title": "skilllevel",
+              "name": "skilllevel",
+              "type": "string"
+            },
+            {
+              "title": "format",
+              "name": "format",
+              "type": "string"
+            },
+            {
+              "title": "courseAssessmentIcon",
+              "name": "courseAssessmentIcon",
+              "type": "string"
+            },
+            {
+              "title": "objectives",
+              "name": "objectives",
+              "type": "string"
+            },
+            {
+              "title": "certification",
+              "name": "certification",
+              "type": "string"
+            },
+            {
+              "title": "prerequisites",
+              "name": "prerequisites",
+              "type": "string"
+            },
+            {
+              "title": "duration",
+              "name": "duration",
+              "type": "number"
+            },
+            {
+              "title": "code",
+              "name": "code",
+              "type": "string"
+            },
+            {
+              "title": "topics",
+              "name": "topics",
+              "type": "string"
+            },
+            {
+              "title": "details",
+              "name": "details",
+              "type": "string"
+            },
+            {
+              "title": "type",
+              "name": "type",
+              "type": "string"
+            },
+            {
+              "title": "brand",
+              "name": "brand",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "colour",
+                  "name": "colour",
+                  "type": "string"
+                },
+                {
+                  "title": "vendor",
+                  "name": "vendor",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "lead",
+              "name": "lead",
+              "type": "string"
+            },
+            {
+              "title": "courseIcon",
+              "name": "courseIcon",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "title": "id",
+          "name": "id",
+          "type": "datetime"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "card",
+          "name": "card",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "content",
+              "name": "content",
+              "type": "string"
+            },
+            {
+              "title": "title",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "title": "button",
+              "name": "button",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "content",
+                  "name": "content",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "type",
+          "name": "type",
+          "type": "string"
         }
       ]
     },
@@ -266,25 +445,38 @@
       "title": "principles",
       "path": "[[workspace]]/site/content/principles",
       "previewPath": "/principles",
-      "contentTypes": ["marketingPages"]
+      "contentTypes": [
+        "marketingPages"
+      ]
     },
     {
       "title": "capabilities",
       "path": "[[workspace]]/site/content/capabilities",
       "previewPath": "/capabilities",
-      "contentTypes": ["marketingPages"]
+      "contentTypes": [
+        "marketingPages"
+      ]
+    },
+    {
+      "title": "courses",
+      "path": "[[workspace]]/site/content/capabilities/training-courses/catalogue",
+      "previewPath": "/capabilities/training-courses/"
     },
     {
       "title": "outcomes",
       "path": "[[workspace]]/site/content/outcomes",
       "previewPath": "/outcomes",
-      "contentTypes": ["marketingPages"]
+      "contentTypes": [
+        "marketingPages"
+      ]
     },
     {
       "title": "methods",
       "path": "[[workspace]]/site/content/methods",
       "previewPath": "/methods",
-      "contentTypes": ["marketingPages"]
+      "contentTypes": [
+        "marketingPages"
+      ]
     },
     {
       "title": "workshops",
