@@ -1,15 +1,19 @@
 ---
-title: "Agile Product Operating Model"
-url: "/methods/agile-product-operating-model/"
-alias: "/APOM"
-Draft: true
+title: Agile Product Operating Model
 weight: 1
+draft: true
+url: /methods/agile-product-operating-model/
+aliases: /APOM
 card:
-  title: Agile Product Operating Model
-  content: |-
-    Agile Product Operating Model
   button:
     content: More info
+  title: Agile Product Operating Model
+  content: Agile Product Operating Model
+
 ---
 
+
+
 Description of Agile Product Operating Model.
+
+
