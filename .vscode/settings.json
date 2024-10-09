@@ -1,4 +1,11 @@
 {
     "[markdown]": {
-    }
+    },
+    "recommendations": [
+    "esbenp.prettier-vscode",    // Prettier extension
+    "eliostruyf.vscode-front-matter",          // Python extension
+    "budparr.language-hugo-vscode",    // ESLint extension
+    "kaellarkin.hugo-shortcode-syntax", // Docker extension
+    "ms-vscode.powershell" // PowerShell extension
+  ]
 }
