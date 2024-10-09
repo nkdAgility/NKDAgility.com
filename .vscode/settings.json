@@ -1,11 +1,72 @@
 {
-    "[markdown]": {
+    // GitHub Copilot configuration
+    "github.copilot.enable": {
+        "*": true,                 // Enable Copilot for all languages by default
+        "plaintext": false,         // Disable Copilot for plain text files
+        "markdown": true,           // Enable Copilot for Markdown files
+        "scminput": false,          // Disable Copilot for Source Control input
+        "yaml": true                // Enable Copilot for YAML files
     },
+
+    // Automatically fetch updates from remote Git repositories
+    "git.autofetch": true,
+
+    // Default formatter configuration for specific languages
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Prettier as the default HTML formatter
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Prettier as the default JSON formatter
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Prettier as the default JavaScript formatter
+    },
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Prettier as the default Markdown formatter
+    },
+
+    // Disable word wrap in diff editor
+    "diffEditor.wordWrap": "off",
+
+    // Associate .ps1 files with PowerShell language
+    "files.associations": {
+        "*.ps1": "powershell"
+    },
+
+    // Set the spelling language to British English
+    "cSpell.language": "en-GB",
+
+    // Prettier configuration
+    "prettier.bracketSameLine": false, // Ensure the `>` in HTML elements is not on the next line (only applies to non-self-closing elements)
+    "prettier.bracketSpacing": true,  // Print spaces inside object literals
+    "prettier.enable": true,          // Enable Prettier globally
+    "prettier.printWidth": 255,       // Set the maximum line length to 255 characters
+    "prettier.proseWrap": "never",    // Never wrap prose (Markdown/text inside HTML elements)
+    "prettier.configPath": ".prettierrc", // Path to the Prettier configuration file
+
+    // Format files on save
+    "editor.formatOnSave": true,
+
+    // Exclude the 'public' folder from file watching (useful for avoiding unnecessary performance impact)
+    "files.watcherExclude": {
+        "**/public/**": true
+    },
+
+    // Recommended extensions for the project
     "recommendations": [
-    "esbenp.prettier-vscode",    // Prettier extension
-    "eliostruyf.vscode-front-matter",          // Python extension
-    "budparr.language-hugo-vscode",    // ESLint extension
-    "kaellarkin.hugo-shortcode-syntax", // Docker extension
-    "ms-vscode.powershell" // PowerShell extension
-  ]
+        "esbenp.prettier-vscode",         // Prettier extension for code formatting
+        "eliostruyf.vscode-front-matter", // Front Matter CMS extension
+        "budparr.language-hugo-vscode",   // Hugo language support for VSCode
+        "kaellarkin.hugo-shortcode-syntax", // Syntax highlighting for Hugo shortcodes
+        "ms-vscode.powershell"            // PowerShell extension for VSCode
+    ],
+
+    // Grammarly configuration for spell checking
+    "grammarly.config.documentDialect": "british", // Set Grammarly to British English dialect
+    "grammarly.files.include": [                   // Apply Grammarly to specific file types
+        "**/readme.md",
+        "**/README.md",
+        "**/*.txt",
+        "**/*.md"
+    ]
 }
