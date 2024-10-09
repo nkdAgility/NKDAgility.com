@@ -7,10 +7,11 @@ type: course
 slug: continuous-delivery-using-azure-devops-services-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- continuous-delivery-using-azure-devops-services
-- /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+  - continuous-delivery-using-azure-devops-services
+  - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
+course-topic: Azure DevOps
 tags:
-- development
+  - development
 coverImage: pipelines-icon-80.png
 card:
   button:
@@ -20,7 +21,7 @@ card:
 delivery:
   prerequisites: ""
   lead: This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback.
-  objectives: 'This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>'
+  objectives: "This two-day course provides students with the DevOps principles and related hands-on practices to work better as a team, scale their agility, share and integrate their work, and deliver working software continuously in order to enable faster delivery of value and receive early and valuable feedback. To maximize learning, students will work in teams, in a common team project, on a common case study. <small>Note: This course was previously called Continuously Delivery Using Visual Studio Team Services (CDVSTS).</small>"
   courseAssessmentIcon: ""
   skilllevel: intermediate
   audience: This course is intended for experienced software development professionals who want to learn about DevOps in order to achieve Continuous Integration, Continuous Delivery, Continuous Feedback, and Continuous Learning in a technical value stream as supported by Azure DevOps Services, Visual Studio, and Azure in order to continually deliver working software at scale. Students will also install and evaluate several extensions from the Azure DevOps Marketplace. Those who use the on-premises version of Azure DevOps Server (Team Foundation Server/TFS) will also benefit from this course. Attendees should be familiar with Visual Studio, Scrum, and have basic experience with Azure DevOps Services, Visual Studio Team Services or Team Foundation Server.
@@ -44,13 +45,4 @@ delivery:
     colour: ""
   code: cdads
   courseIcon: A-CDADS.png
-
 ---
-
-
-
-
-
-
-
-

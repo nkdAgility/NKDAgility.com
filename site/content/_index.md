@@ -2,7 +2,7 @@
 title: "naked Agility"
 url: "/"
 headline:
-  title: "Our Value Proposition"
+  title: "Our Services"
   subtitle: "We help companies deliver real value through working products, empowering teams, and providing expert guidance."
   content: |
     By prioritizing evidence-based decisions, measurable impact, and continuous improvement, we ensure that our strategies are tailored to your unique needs. With a focus on collaboration, transparency, and social responsibility, we are committed to driving sustainable success for your business. 
