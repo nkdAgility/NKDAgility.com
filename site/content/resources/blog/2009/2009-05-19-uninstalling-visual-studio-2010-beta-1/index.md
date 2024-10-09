@@ -1,25 +1,26 @@
 ---
+title: Uninstalling Visual Studio 2010 Beta 1
+date: 2009-05-19
+author: MrHinsh
 id: "115"
-title: "Uninstalling Visual Studio 2010 Beta 1"
-date: "2009-05-19"
-categories:
-  - "code-and-complexity"
-tags:
-  - "aggreko"
-  - "code"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "uninstalling-visual-studio-2010-beta-1"
-
+slug: uninstalling-visual-studio-2010-beta-1
 aliases:
-  - /blog/uninstalling-visual-studio-2010-beta-1
+- /blog/uninstalling-visual-studio-2010-beta-1
+tags:
+- aggreko
+- code
+- tools
+- visual-studio
+- vs2008
+- vs2010
+categories:
+- code-and-complexity
+coverImage: metro-visual-studio-2010-128-link-1-1.png
+
 ---
+
 
 You may think, why is he uninstalling VS2010? Well, apart from proving that it works…And that it plays well with VS2008 I need to remove the pre-beta beta that I have installed.
 
@@ -75,4 +76,5 @@ Now to VS2010… And if my infrastructure team get me my VPC there will be [TFS]
 So the end result is that although I have not uninstalled .NET 4.0, I do have the latest version which is what I wanted…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+
 

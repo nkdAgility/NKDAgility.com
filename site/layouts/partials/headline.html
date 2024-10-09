@@ -50,7 +50,7 @@
       {{ range .Params.headline.cards }}
         <div class="col-12 col-sm-6 col-lg-4 d-flex">
           <!-- prettier-ignore -->
-          {{ partial "card.html" (dict "class" "herocards" "isExpandable" true "title" .title "content" .content) }}
+          {{ partial "card.html" (dict "class" "herocards" "isExpandable" true "title" .title "content" .content "link" .link) }}
         </div>
       {{ end }}
     {{ else }}

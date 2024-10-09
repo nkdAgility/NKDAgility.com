@@ -1,23 +1,24 @@
 ---
+title: TFS Sticky Buddy Codeplex project
+date: 2008-02-05
+author: MrHinsh
 id: "250"
-title: "TFS Sticky Buddy Codeplex project"
-date: "2008-02-05"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "tfs-sticky-buddy"
-  - "wit"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-sticky-buddy-codeplex-project"
-
+slug: tfs-sticky-buddy-codeplex-project
 aliases:
-  - /blog/tfs-sticky-buddy-codeplex-project
+- /blog/tfs-sticky-buddy-codeplex-project
+tags:
+- code
+- tfs-sticky-buddy
+- wit
+categories:
+- code-and-complexity
+- me
+coverImage: metro-binary-vb-128-link-1-1.png
+
 ---
+
 
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...
 
@@ -39,4 +40,5 @@ The resultant Digital Whiteboard will be displayed in our main offices so we wil
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+
 

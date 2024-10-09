@@ -1,21 +1,22 @@
 ---
+title: Kalabule or a Professional at Agile in Africa
+date: 2016-10-27
+author: MrHinsh
 id: "11642"
-title: "Kalabule or a Professional at Agile in Africa"
-date: "2016-10-27"
-categories:
-  - "agility"
-tags:
-  - "agile-in-africa"
-  - "professional-scrum"
-coverImage: "clip_image001-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "kalabule-or-a-professional-at-agile-in-africa"
-
+slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
-  - /blog/kalabule-or-a-professional-at-agile-in-africa
+- /blog/kalabule-or-a-professional-at-agile-in-africa
+tags:
+- agile-in-africa
+- professional-scrum
+categories:
+- agility
+coverImage: clip_image001-2-2.png
+
 ---
+
 
 I have been honoured by being asked to speak at [Agile in Africa](http://agileinafrica.com/) today on the topic of [Kalabule or a Professional at Agile in Africa](http://agileinafrica.com/speaker/martin-hinshelwood/). I was a little disappointed when Nana asked me, as I had already booked a customer on those dates in Houston, Texas. Nana asked if I could do remote, so I could attend anyway :). This is my second presentation at Agile In Africa, and it sounds like this years event is just as awesome as the last.
 
@@ -49,4 +50,5 @@ I talked a lot about why we are kalabule in the software industry and that neith
 If these values are not something that you want, not just building software, but simply interacting with others on a daily bases, then you have no business interacting with them.
 
 As an industry we need to step up and refuse to be kalabule (cowboys) and instead strive to be Professionals and embody the Values that we want to be known for. Its time to clean the unprofessional muck from our industry and reinvent ourselves…
+
 

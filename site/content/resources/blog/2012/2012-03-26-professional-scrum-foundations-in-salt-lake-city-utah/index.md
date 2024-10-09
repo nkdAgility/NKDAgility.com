@@ -1,27 +1,28 @@
 ---
+title: Professional Scrum Foundations in Salt Lake City, Utah
+date: 2012-03-26
+author: MrHinsh
 id: "4980"
-title: "Professional Scrum Foundations in Salt Lake City, Utah"
-date: "2012-03-26"
-categories:
-  - "events-and-presentations"
-  - "measure-and-learn"
-  - "news-and-reviews"
-tags:
-  - "agile"
-  - "define"
-  - "develop"
-  - "process"
-  - "psf"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-8-8.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-foundations-in-salt-lake-city-utah"
-
+slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
-  - /blog/professional-scrum-foundations-in-salt-lake-city-utah
+- /blog/professional-scrum-foundations-in-salt-lake-city-utah
+tags:
+- agile
+- define
+- develop
+- process
+- psf
+- scrum
+categories:
+- events-and-presentations
+- measure-and-learn
+- news-and-reviews
+coverImage: nakedalm-experts-professional-scrum-8-8.png
+
 ---
+
 
 This week I have been filling in for [David Starr](http://elegantcode.com/author/dstarr/) at a customer and it has been an experience. David had a family emergency and tapped me of all people to take the gig from him. So not only did [Northwest Cadence](http://blog.hinshelwood.com) have to rearrange my schedule to make sure that I could do this, but I had to brave Salt Lake City and Utah…
 
@@ -92,4 +93,5 @@ I thoroughly enjoyed my time in Utah and I look forward to going back and helpin
 **Figure: Utah was nice, but it is good to be home**
 
 Well it is so long to Utah, another state ticked of my list, and I hope to be back soon…
+
 

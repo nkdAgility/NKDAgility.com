@@ -1,21 +1,22 @@
 ---
+title: Search just got better
+date: 2007-08-21
+author: MrHinsh
 id: "323"
-title: "Search just got better"
-date: "2007-08-21"
-categories:
-  - "products-and-books"
-tags:
-  - "dyslexia"
-  - "live"
-coverImage: "nakedalm-logo-128-link-6-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "search-just-got-better"
-
+slug: search-just-got-better
 aliases:
-  - /blog/search-just-got-better
+- /blog/search-just-got-better
+tags:
+- dyslexia
+- live
+categories:
+- products-and-books
+coverImage: nakedalm-logo-128-link-6-1.png
+
 ---
+
 
 I just had to pick my jaw up off the floor. What made me gawk! [Tafiti](http://www.tafiti.com/) that's what.
 
@@ -51,4 +52,5 @@ The screen shot does not really do it justice, but this is an fantastic way to s
 I will be keeping my eye on this and I hope that even after continued use I am still using it as my main search engine: Oh, I just thought, we have Virtual Workstations in the office and I will need to see if it even works on them: I know that video, flash and big Powerpoint presentations do not.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+
 

@@ -1,24 +1,25 @@
 ---
+title: Using the Build vNext capabilities and demands system
+date: 2015-03-11
+author: MrHinsh
 id: "11081"
-title: "Using the Build vNext capabilities and demands system"
-date: "2015-03-11"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "build"
-  - "build-vnext"
-  - "tfs"
-  - "tfs-2015"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "using-build-vnext-capabilities-demands-system"
-
+slug: using-build-vnext-capabilities-demands-system
 aliases:
-  - /blog/using-build-vnext-capabilities-demands-system
+- /blog/using-build-vnext-capabilities-demands-system
+tags:
+- build
+- build-vnext
+- tfs
+- tfs-2015
+- vsteamservices
+categories:
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-7-7.png
+
 ---
+
 
 Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.
 
@@ -75,4 +76,5 @@ If there is no matching build agent then you will be warned when you try to queu
 The new capabilities and demands system in Build vNext gives us the same features as the old tagging system but makes a lot more sense in context. Additionally with the new web interface and the auto detection on the agent of many of the needed values the whole process gets a lot simpler.
 
 I am looking forward to more cool features in Build vNext.
+
 

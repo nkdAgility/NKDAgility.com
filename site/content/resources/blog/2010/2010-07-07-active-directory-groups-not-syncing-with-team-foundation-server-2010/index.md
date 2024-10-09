@@ -1,22 +1,23 @@
 ---
+title: Active Directory Groups not Syncing with Team Foundation Server 2010
+date: 2010-07-07
+author: MrHinsh
 id: "32"
-title: "Active Directory Groups not Syncing with Team Foundation Server 2010"
-date: "2010-07-07"
-tags:
-  - "codeproject"
-  - "ssw"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "active-directory-groups-not-syncing-with-team-foundation-server-2010"
-
+slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
-  - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+- /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
+tags:
+- codeproject
+- ssw
+- tfs
+- tfs2010
+- tools
+coverImage: metro-SSWLogo-128-link-7-7.png
+
 ---
+
 
 ![](images/symbol-error.png)For a little while now I had been investigating an odd occurrence in Team Foundation Server. Users added to Active Directory groups have not been filtering back into the Team Foundation Server groups cache. The meant that we had to add users directly to Team Foundation Server in order to give them permission. While this was not ideal, it did not really inconvenience us that much, but we are now trying to streamline our security and need it fixed.
 { .post-img }
@@ -181,4 +182,5 @@ If you remove the “BUILTINAdministrators” group from the “Team Foundation 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+
 

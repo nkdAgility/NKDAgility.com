@@ -1,19 +1,20 @@
 ---
+title: Create a VHD from the Windows 7 Image disk
+date: 2009-12-07
+author: MrHinsh
 id: "77"
-title: "Create a VHD from the Windows 7 Image disk"
-date: "2009-12-07"
-tags:
-  - "ssw"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-16-16.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "create-a-vhd-from-the-windows-7-image-disk"
-
+slug: create-a-vhd-from-the-windows-7-image-disk
 aliases:
-  - /blog/create-a-vhd-from-the-windows-7-image-disk
+- /blog/create-a-vhd-from-the-windows-7-image-disk
+tags:
+- ssw
+- tools
+coverImage: metro-SSWLogo-128-link-16-16.png
+
 ---
+
 
 This being my first week at [SSW](http://ssw.com.au "SSW - Sydney's Leading Custom Software Consultants - .NET, SQL Server, Web, Windows and SharePoint and Database Development"), and still waiting for my nice shiny new laptop to arrive, I am sitting here at my Wife’s laptop (which is PINK, a requirement to keep the [WAF](http://en.wikipedia.org/wiki/Woman_acceptance_factor) high), until it arrives.
 
@@ -97,4 +98,5 @@ In order to achieve this there are a number of things that need done:
 Although this took a long time with 3 long running processes, it will be a lot faster next time as I can start from step #9…
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Windows](http://technorati.com/tags/Windows)
+
 

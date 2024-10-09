@@ -1,22 +1,23 @@
 ---
+title: 'Team Foundation Server Error TF30177 : Team Project Creation Failed'
+date: 2007-08-14
+author: MrHinsh
 id: "332"
-title: "Team Foundation Server Error TF30177 : Team Project Creation Failed"
-date: "2007-08-14"
-tags:
-  - "ml"
-  - "tfs"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-foundation-server-error-tf30177-team-project-creation-failed"
-
+slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
-  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
+- /blog/team-foundation-server-error-tf30177-team-project-creation-failed
+tags:
+- ml
+- tfs
+- tools
+- visual-studio
+- vs2005
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 When you create your first project, you may get an error during the creation process. When you look at the log file and see a "proxy error" message detail it may be to do with the way that TFS installs.
 
@@ -80,4 +81,5 @@ You can repeat this for the WSS (Windows Sharepoint Services) section.
 All done and TFS should work. Although it is worth noting that in my company environment I could then no longer create projects from the TFS App server itself as \[serverName\] works but the FQDN did not. Typical...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

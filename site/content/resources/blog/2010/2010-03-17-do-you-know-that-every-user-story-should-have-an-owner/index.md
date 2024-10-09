@@ -1,25 +1,26 @@
 ---
+title: Do you know that every user story should have an owner?
+date: 2010-03-17
+author: MrHinsh
 id: "61"
-title: "Do you know that every user story should have an owner?"
-date: "2010-03-17"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "define"
-  - "develop"
-  - "practices"
-  - "ssw"
-  - "user-stories"
-coverImage: "metro-SSWLogo-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-know-that-every-user-story-should-have-an-owner"
-
+slug: do-you-know-that-every-user-story-should-have-an-owner
 aliases:
-  - /blog/do-you-know-that-every-user-story-should-have-an-owner
+- /blog/do-you-know-that-every-user-story-should-have-an-owner
+tags:
+- define
+- develop
+- practices
+- ssw
+- user-stories
+categories:
+- people-and-process
+- tools-and-techniques
+coverImage: metro-SSWLogo-128-link-4-4.png
+
 ---
+
 
 ![RulestoBetter](images/4190b47a081e_B7FB-RulestoBetter_-3-3.gif)When you are building complicated software and working with customers it is always nice for them to have some idea on who to speak to about a particular story during a sprint.
 { .post-img }
@@ -41,4 +42,5 @@ In order to achieve this one of the Team takes responsibility for “looking aft
 **Figure: Good example, the product owner can now see who he should speak to and developers know where to send done emails.**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

@@ -1,24 +1,25 @@
 ---
+title: Composite WPF and Merged Dictionaries
+date: 2008-11-12
+author: MrHinsh
 id: "170"
-title: "Composite WPF and Merged Dictionaries"
-date: "2008-11-12"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs-sticky-buddy"
-  - "tools"
-  - "wpf"
-  - "xaml"
-coverImage: "metro-binary-vb-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "composite-wpf-and-merged-dictionaries"
-
+slug: composite-wpf-and-merged-dictionaries
 aliases:
-  - /blog/composite-wpf-and-merged-dictionaries
+- /blog/composite-wpf-and-merged-dictionaries
+tags:
+- code
+- tfs-sticky-buddy
+- tools
+- wpf
+- xaml
+categories:
+- code-and-complexity
+coverImage: metro-binary-vb-128-link-2-2.png
+
 ---
+
 
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the
 
@@ -236,4 +237,5 @@ So instead of bombing out when you try to add a region of the same name, it will
 
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
+
 

@@ -1,15 +1,19 @@
 ---
-title: "Agnostic Agile"
-url: "/methods/agnostic-agile/"
-alias: "/APOM"
+title: Agnostic Agile
 weight: 1
-Draft: true
+draft: true
+url: /methods/agnostic-agile/
+aliases: /APOM
 card:
-  title: Agnostic Agile
-  content: |-
-    Agnostic Agile
   button:
     content: More info
+  title: Agnostic Agile
+  content: Agnostic Agile
+
 ---
 
+
+
 Description of Agnostic Agile.
+
+

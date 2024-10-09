@@ -1,27 +1,28 @@
 ---
+title: It's that time again; get ready to upgrade to TFS 2015
+date: 2015-03-17
+author: MrHinsh
 id: "11241"
-title: "It's that time again; get ready to upgrade to TFS 2015"
-date: "2015-03-17"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "tfs"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs2010"
-  - "tfs2012"
-  - "tfs-2013"
-  - "tfs-2015"
-  - "upgrade"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "its-that-time-again-get-ready-to-upgrade-to-tfs-2015"
-
+slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
-  - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+- /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
+tags:
+- tfs
+- tfs2005
+- tfs2008
+- tfs2010
+- tfs2012
+- tfs-2013
+- tfs-2015
+- upgrade
+categories:
+- upgrade-and-maintenance
+coverImage: nakedalm-experts-visual-studio-alm-1-1.png
+
 ---
+
 
 With the release of Team Foundation Server 2015 CTP you should be starting to plan your upgrade strategy. It's going to be a tough one but you should get ready to upgrade to TFS 2015 now.
 
@@ -36,4 +37,5 @@ Indeed with [mainstream support for TFS 2010 scheduled to stop in July](http://s
 If you are on a version of TFS prior to 2010 you are so far out of support that a strait upgrade is no longer possible and you will need to stage through TFS 2012. No
 
 Don’t get caught short with no support for your TFS server! Get ready to upgrade to TFS 2015…
+
 

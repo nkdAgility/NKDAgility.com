@@ -1,14 +1,18 @@
 ---
-title: "Scrum Framework"
-url: "/methods/scrum-framework/"
+title: Scrum Framework
 weight: 1
-Draft: true
+draft: true
+url: /methods/scrum-framework/
 card:
-  title: Scrum Framework
-  content: |-
-    Scrum Framework
   button:
     content: More info
+  title: Scrum Framework
+  content: Scrum Framework
+
 ---
 
+
+
 Description of Scrum Framework.
+
+

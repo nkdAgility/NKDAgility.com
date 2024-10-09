@@ -1,17 +1,18 @@
 ---
+title: TFS Admin Tool 1.2 Gotcha
+date: 2007-03-29
+author: MrHinsh
 id: "422"
-title: "TFS Admin Tool 1.2 Gotcha"
-date: "2007-03-29"
-tags:
-  - "tfs"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-admin-tool-1-2-gotcha"
-
+slug: tfs-admin-tool-1-2-gotcha
 aliases:
-  - /blog/tfs-admin-tool-1-2-gotcha
+- /blog/tfs-admin-tool-1-2-gotcha
+tags:
+- tfs
+
 ---
+
 
 I ran into a small problem with the tfs admin tool.
 
@@ -25,4 +26,5 @@ This is in fact wrong and should also add "Reader" otherwise you get lots of ema
 This is a minor problem to fix, unless you only notice it after you have created 100 projects... Doh!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+
 

@@ -1,18 +1,19 @@
 ---
+title: 'Microsoft Surface: Wow'
+date: 2007-06-07
+author: MrHinsh
 id: "387"
-title: "Microsoft Surface: Wow"
-date: "2007-06-07"
-tags:
-  - "off-topic"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-surface-wow"
-
+slug: microsoft-surface-wow
 aliases:
-  - /blog/microsoft-surface-wow
+- /blog/microsoft-surface-wow
+tags:
+- off-topic
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I have just looked at the [Surface first look](http://www.microsoft.com/surface/) site and I am truly amazed! I want one, really badly...
 
@@ -21,4 +22,5 @@ I have been envisioning something like this for years and I am delighted that Mi
 Can't wait for winter!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+
 

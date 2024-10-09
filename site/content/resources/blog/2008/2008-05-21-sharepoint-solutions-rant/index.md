@@ -1,25 +1,26 @@
 ---
+title: SharePoint Solutions Rant
+date: 2008-05-21
+author: MrHinsh
 id: "222"
-title: "SharePoint Solutions Rant"
-date: "2008-05-21"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "develop"
-  - "fail"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "sharepoint-solutions-rant"
-
+slug: sharepoint-solutions-rant
 aliases:
-  - /blog/sharepoint-solutions-rant
+- /blog/sharepoint-solutions-rant
+tags:
+- develop
+- fail
+- moss2007
+- sharepoint
+- sp2007
+- tools
+categories:
+- tools-and-techniques
+coverImage: metro-sharepoint-128-link-2-1.png
+
 ---
+
 
 <Rant>
 
@@ -33,4 +34,5 @@ Oh, and you should be able to do it remotely! On a workstation!
 </Rant>
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

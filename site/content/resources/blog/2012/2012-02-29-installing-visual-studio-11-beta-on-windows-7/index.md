@@ -1,20 +1,21 @@
 ---
+title: Installing Visual Studio 11 on Windows 7
+date: 2012-02-29
+author: MrHinsh
 id: "4727"
-title: "Installing Visual Studio 11 on Windows 7"
-date: "2012-02-29"
-tags:
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-11-beta-on-windows-7"
-
+slug: installing-visual-studio-11-beta-on-windows-7
 aliases:
-  - /blog/installing-visual-studio-11-beta-on-windows-7
+- /blog/installing-visual-studio-11-beta-on-windows-7
+tags:
+- nwcadence
+- tools
+- visual-studio
+- vs2012
+
 ---
+
 
 With the launch of Visual Studio 11 beta and that it is [fully supported in production](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) I wanted to update my laptop with the bits. I have a presentation on Friday of [what's new in Visual Studio 11](http://blog.hinshelwood.com/events/) and I will show some of the new features there.
 
@@ -69,4 +70,5 @@ I LOVE the new team Explorer, but it will take a little getting used to…
 Remember that there is [Go-Live for Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
+
 

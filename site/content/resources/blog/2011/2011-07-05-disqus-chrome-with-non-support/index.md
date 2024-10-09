@@ -1,20 +1,21 @@
 ---
+title: Disqus & Chrome with non-support
+date: 2011-07-05
+author: MrHinsh
 id: "3686"
-title: "Disqus & Chrome with non-support"
-date: "2011-07-05"
-categories:
-  - "me"
-tags:
-  - "off-topic"
-coverImage: "nakedalm-logo-128-link-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "disqus-chrome-with-non-support"
-
+slug: disqus-chrome-with-non-support
 aliases:
-  - /blog/disqus-chrome-with-non-support
+- /blog/disqus-chrome-with-non-support
+tags:
+- off-topic
+categories:
+- me
+coverImage: nakedalm-logo-128-link-7-7.png
+
 ---
+
 
 ![](images/disqus-logo-3-3.png)
 { .post-img }
@@ -103,4 +104,5 @@ Please do not hesitate to contact me if you have any further problems extracting
 **<RESPONCE>**
 
 Let see if I get any help… I can’t think I am the only one who's blog does not work with Chrome.
+
 

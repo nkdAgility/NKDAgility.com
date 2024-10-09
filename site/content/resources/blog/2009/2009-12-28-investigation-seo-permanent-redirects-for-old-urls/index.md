@@ -1,24 +1,25 @@
 ---
+title: Investigation - SEO permanent redirects for old URL’s?
+date: 2009-12-28
+author: MrHinsh
 id: "74"
-title: "Investigation - SEO permanent redirects for old URL’s?"
-date: "2009-12-28"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "investigation-seo-permanent-redirects-for-old-urls"
-
+slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
-  - /blog/investigation-seo-permanent-redirects-for-old-urls
+- /blog/investigation-seo-permanent-redirects-for-old-urls
+tags:
+- code
+- sharepoint
+- spf2010
+- ssw
+- tools
+categories:
+- code-and-complexity
+coverImage: metro-sharepoint-128-link-4-4.png
+
 ---
+
 
 On the project I am currently working on we want to change the nasty [http://northwind.com/products.aspx?ProductId=1](http://northwind.com/products.aspx?ProductId=1) to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like [http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx](http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx).
 
@@ -72,4 +73,5 @@ The conclusion is that neither the SEO Toolkit, nor the URL Rewrite Module are o
 Even though it has not been updated since April 2009, I think this is the best option. The source code is provided on the site, and I am familiar with the component. It supports a rule provider model that will allow me to achieve the goal I am aiming for and is very easy to setup.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SSW](http://technorati.com/tags/SSW) [Software Development](http://technorati.com/tags/Software+Development) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

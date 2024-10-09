@@ -1,21 +1,22 @@
 ---
+title: Should the Scrum Master always remove impediments?
+date: 2019-09-23
+author: MrHinsh
 id: "39856"
-title: "Should the Scrum Master always remove impediments?"
-date: "2019-09-23"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "scrum-master"
-coverImage: "PSX_20190823_113052-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "should-the-scrum-master-always-remove-impediments"
-
+slug: should-the-scrum-master-always-remove-impediments
 aliases:
-  - /blog/should-the-scrum-master-always-remove-impediments
+- /blog/should-the-scrum-master-always-remove-impediments
+tags:
+- scrum-master
+categories:
+- agility
+- people-and-process
+coverImage: PSX_20190823_113052-1-1.jpg
+
 ---
+
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -37,4 +38,5 @@ Both parts of this are critical. Often the Scrum Master will head off on a missi
 If after both of these questions have been fully explored the item still looks like an Impediment then the Scrum Master should work to resolve it, all the while thinking about what they could do to enable the Team to be able to solve them on their own. The future of the Scrum Master is to make the Scrum Team as self-sufficient as posible, within the bounds of their organisation, so that they can go tackle some of those organisational impediments that are preventing even more maturity.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
+
 

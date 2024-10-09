@@ -1,26 +1,27 @@
 ---
+title: 'TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010'
+date: 2013-05-06
+author: MrHinsh
 id: "9496"
-title: "TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010"
-date: "2013-05-06"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "kb"
-  - "puzzles"
-  - "tfs2012"
-  - "tools"
-  - "vs2008"
-  - "vs2010"
-  - "vs2012"
-coverImage: "puzzle-issue-problem-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010"
-
+slug: tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 aliases:
-  - /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
+- /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
+tags:
+- kb
+- puzzles
+- tfs2012
+- tools
+- vs2008
+- vs2010
+- vs2012
+categories:
+- problems-and-puzzles
+coverImage: puzzle-issue-problem-128-link-1-1.png
+
 ---
+
 
 You may get a "workspace already exists" when you have VS 2008 or VS 2010 installed as well as VS 2012 and you try to connect them to TFS 2012.
 
@@ -56,4 +57,5 @@ Figure: Create a new Workspace with a new Name
 You can now connect to Source Control..
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/))_
+
 

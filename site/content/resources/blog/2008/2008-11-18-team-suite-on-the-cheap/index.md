@@ -1,18 +1,19 @@
 ---
+title: Team Suite on the cheap
+date: 2008-11-18
+author: MrHinsh
 id: "168"
-title: "Team Suite on the cheap"
-date: "2008-11-18"
-tags:
-  - "tfs"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-suite-on-the-cheap"
-
+slug: team-suite-on-the-cheap
 aliases:
-  - /blog/team-suite-on-the-cheap
+- /blog/team-suite-on-the-cheap
+tags:
+- tfs
+- tools
+
 ---
+
 
 ![](images/vs_mainlogo-3-3.png)
 { .post-img }
@@ -28,4 +29,5 @@ Ok, so I lied a little. It is not that cheap, but 30% off an upgrade from a team
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+
 

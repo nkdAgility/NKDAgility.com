@@ -1,25 +1,26 @@
 ---
+title: Visual Studio 2012 Launch RoadShows around the World
+date: 2012-09-21
+author: MrHinsh
 id: "8834"
-title: "Visual Studio 2012 Launch RoadShows around the World"
-date: "2012-09-21"
-categories:
-  - "events-and-presentations"
-tags:
-  - "events-and-presentations"
-  - "modern-alm"
-  - "tfs"
-  - "tfs2012"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "metro-event-icon-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2012-launch-roadshow-in-san-diego-and-irvine"
-
+slug: visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
 aliases:
-  - /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+- /blog/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine
+tags:
+- events-and-presentations
+- modern-alm
+- tfs
+- tfs2012
+- visual-studio
+- vs2012
+categories:
+- events-and-presentations
+coverImage: metro-event-icon-3-3.png
+
 ---
+
 
 Unless you have been living under a rock you might have noticed [a little launch event](http://www.microsoft.com/visualstudio) recently. Well to complement the launch Microsoft is running a bunch of Visual Studio 2012 Launch RoadShows around the world:
 
@@ -50,4 +51,5 @@ With this new normal the quality level expected of engineers is much higher than
 The engineering half of the Agile Developer needs tools to help them make life that much easier on their tester alter ego and on the businesses pocket book.
 
 Join me on [9th/10th of October in San Diego or Irvine](http://blog.hinshelwood.com/events/) to usher in a new era of software quality and delivery…
+
 

@@ -1,35 +1,36 @@
 ---
+title: What's new in Visual Studio 2013 Team Foundation Server Preview
+date: 2013-06-26
+author: MrHinsh
 id: "9677"
-title: "What's new in Visual Studio 2013 Team Foundation Server Preview"
-date: "2013-06-26"
-categories:
-  - "news-and-reviews"
-  - "people-and-process"
-  - "products-and-books"
-  - "tools-and-techniques"
-tags:
-  - "agile-portfolio-management"
-  - "define"
-  - "improve"
-  - "infrastructure"
-  - "operational"
-  - "practices"
-  - "process"
-  - "strategic"
-  - "tactical"
-  - "team-rooms"
-  - "test-hub"
-  - "tfs-2013"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-14-14.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "get-visual-studio-2013-team-foundation-server-while-its-hot"
-
+slug: get-visual-studio-2013-team-foundation-server-while-its-hot
 aliases:
-  - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+- /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
+tags:
+- agile-portfolio-management
+- define
+- improve
+- infrastructure
+- operational
+- practices
+- process
+- strategic
+- tactical
+- team-rooms
+- test-hub
+- tfs-2013
+- tools
+categories:
+- news-and-reviews
+- people-and-process
+- products-and-books
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-14-14.png
+
 ---
+
 
 Steve Ballmer just announced the Visual Studio 2013 Go-Live preview at the Build summit not more than an hour ago so get Visual Studio 2013 Team Foundation Server while its hot! Remember that this Preview is covered by a Go-Live licence and is fully supported for production use.
 
@@ -176,4 +177,5 @@ These are but a few of the new features in Team Foundation Server 2013 let alone
 { .post-img }
 
 I have already done one upgrade of a customers two terabyte TFS 2012 instance with no issues and I am hopefully working on my next one as you read this… Download, install & Play… be a kid again with Team Foundation Server 2013.
+
 

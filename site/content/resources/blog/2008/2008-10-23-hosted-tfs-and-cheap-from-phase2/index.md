@@ -1,21 +1,22 @@
 ---
+title: Hosted TFS, and cheap….from Phase2
+date: 2008-10-23
+author: MrHinsh
 id: "183"
-title: "Hosted TFS, and cheap….from Phase2"
-date: "2008-10-23"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "tfs"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "hosted-tfs-and-cheap-from-phase2"
-
+slug: hosted-tfs-and-cheap-from-phase2
 aliases:
-  - /blog/hosted-tfs-and-cheap-from-phase2
+- /blog/hosted-tfs-and-cheap-from-phase2
+tags:
+- moss2007
+- sharepoint
+- tfs
+- tools
+coverImage: metro-sharepoint-128-link-2-2.png
+
 ---
+
 
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)
 { .post-img }
@@ -57,4 +58,5 @@ The guys over at Phase 2 provided me a [TFS server](http://www.phase2.com/hosted
 So, a fantastic offering. It should be pointed out that I was using a http connection to the server and not https, but I am sure that it will be available. The costs are very reasonable and a lot better than [TFS Now](http://www.tfsnow.com/), which I was going to compare to, but alas their site is down at the time of writing.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [MOSS](http://technorati.com/tags/MOSS) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

@@ -1,18 +1,19 @@
 ---
+title: Technorati Troubles
+date: 2007-09-22
+author: MrHinsh
 id: "308"
-title: "Technorati Troubles"
-date: "2007-09-22"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "technorati-troubles"
-
+slug: technorati-troubles
 aliases:
-  - /blog/technorati-troubles
+- /blog/technorati-troubles
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Recently I have been having real trouble with Technorati. I have been trying to mop up my loose blog claims and I have been having a problem. Technorati seems unable to get a lock on redirected URL's, I don't see why that would be an issue, but it is. In a effort to try to remedy this problem I have put all of my claim codes here:
 
@@ -30,4 +31,5 @@ _UPDATE:_
 _Nope, not working._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

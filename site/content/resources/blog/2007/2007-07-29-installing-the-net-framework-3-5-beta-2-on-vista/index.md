@@ -1,21 +1,22 @@
 ---
+title: Installing the .NET Framework 3.5 Beta 2 on Vista
+date: 2007-07-29
+author: MrHinsh
 id: "357"
-title: "Installing the .NET Framework 3.5 Beta 2 on Vista"
-date: "2007-07-29"
-categories:
-  - "code-and-complexity"
-tags:
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-the-net-framework-3-5-beta-2-on-vista"
-
+slug: installing-the-net-framework-3-5-beta-2-on-vista
 aliases:
-  - /blog/installing-the-net-framework-3-5-beta-2-on-vista
+- /blog/installing-the-net-framework-3-5-beta-2-on-vista
+tags:
+- visual-studio
+- vs2008
+categories:
+- code-and-complexity
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 As you may have seen from my previous [post](http://blog.hinshelwood.com/archive/2007/07/27/Installing-Visual-Studio-2008-Beta-2.aspx "Installing Visual Studio 2008 Beta 2 on XP"), I have just installed VS2008B2 onto my old work computer, well it is now time to hit my Vista laptop with it:
 
@@ -48,4 +49,5 @@ I did however find more that one hotfix with the same KB number, so I got rid of
 After this I tried VS2008 again...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+
 

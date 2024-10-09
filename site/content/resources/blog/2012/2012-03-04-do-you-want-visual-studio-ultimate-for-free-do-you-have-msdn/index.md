@@ -1,28 +1,29 @@
 ---
+title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
+date: 2012-03-04
+author: MrHinsh
 id: "4828"
-title: "Do you have MSDN at work? Use Visual Studio Ultimate for free at home?"
-date: "2012-03-04"
-categories:
-  - "me"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "msdn"
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn"
-
+slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 aliases:
-  - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+- /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+tags:
+- configuration
+- develop
+- msdn
+- nwcadence
+- tools
+- visual-studio
+- vs2010
+- vs2012
+categories:
+- me
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!
 
@@ -64,4 +65,5 @@ And just in case you were worries about buying licences for your business accept
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 MSDN has one of the most flexible licencing terms in the industry and you should be using it to its full potential and not leaving it on a shelf! It will make some of your developers more valuable if they can exercise the tools in their spare time and the others just will not take advantage of it.
+
 

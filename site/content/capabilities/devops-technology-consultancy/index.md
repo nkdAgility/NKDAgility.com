@@ -1,53 +1,65 @@
 ---
 title: DevOps Technology Consultancy
-id: "49868"
 date: 2023-08-12
 author: MrHinsh
-aliases:
-  - /capabilities/devops-technology-consultancy/
+id: "49868"
 type: capabilities
 slug: devops-technology-consultancy
-headline:
-  title: "DevOps Technology Consultancy"
-  content: 
-  cards:
-    - title: "Deep Technical Knowledge"
-      content: "Our team has extensive experience with agile within the context of many diferent team settings."
-      image: ~
-    - title: "Tailored Strategies"
-      content: "Whatever your needs we can provide a tailored experiance."
-      image: ~
-    - title: "Comprehensive Support"
-      content: "We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly."
-      image: ~
-sections:
-  - title: "Our DevOps Technology Consultancy Services"
-    content: |
-      At NKD Agility, we take pride in offering a diverse range of services designed to meet your needs and exceed your expectations. Our commitment to excellence is reflected in every aspect of what we do, ensuring that you receive the highest quality solutions tailored specifically to your requirements.
-
-      Whether you're seeking DevOps Technology Consultancy, our team of experienced professionals is here to guide you every step of the way. We understand that each client is unique, and that's why we offer a flexible, client-centered approach to deliver results that align perfectly with your goals.
-
-      Explore our array of services below, and discover how we can help you achieve success:
-    source: inline
-    type: features
-    features:
-  - title: "Courses For Azure DevOps"
-    content: "Here is a list of courses related to Azure DevOps."
-    source: data
-    type: course
-    related:
-      - /capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training
-  - title:
-    content:
-    source: data
-    type: videos
-    related:
+aliases:
+- /capabilities/devops-technology-consultancy/
 card:
   button:
     content: Optimize Your DevOps Strategy
-  content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
   title: DevOps Technology Consulting
+  content: Struggling with your Azure DevOps setup? Whether you're debating a single project or multiple small ones, don't let architecture complexities slow you down. Click here to discover how our DevOps Technology Consulting can simplify your processes and boost your efficiency!
+headline:
+  cards:
+  - image: 
+    title: Deep Technical Knowledge
+    content: Our team has extensive experience with agile within the context of many diferent team settings.
+  - image: 
+    title: Tailored Strategies
+    content: Whatever your needs we can provide a tailored experiance.
+  - image: 
+    title: Comprehensive Support
+    content: We offer continuous support throughout the enguagement process, including post-enguagement assistance to ensure everything runs smoothly.
+  title: DevOps Technology Consultancy
+  content: 
+sections:
+- title: Our DevOps Technology Consultancy Services
+  content: |
+    At NKD Agility, we take pride in offering a diverse range of services designed to meet your needs and exceed your expectations. Our commitment to excellence is reflected in every aspect of what we do, ensuring that you receive the highest quality solutions tailored specifically to your requirements.
+
+    Whether you're seeking DevOps Technology Consultancy, our team of experienced professionals is here to guide you every step of the way. We understand that each client is unique, and that's why we offer a flexible, client-centered approach to deliver results that align perfectly with your goals.
+
+    Explore our array of services below, and discover how we can help you achieve success:
+  type: features
+  features: 
+  source: inline
+- title: Courses For Azure DevOps
+  content: Here is a list of courses related to Azure DevOps.
+  type: course
+  related:
+  - /capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training
+  source: data
+- title: 
+  content: 
+  type: videos
+  related: 
+  source: data
+
 ---
+
+
+
+
+
+
+
+
+
+
+
 
 Our DevOps consultants work with organisations to help them get the most out of their DevOps strategy and maximise its effectiveness.
 
@@ -76,3 +88,14 @@ Your transition to DevOps is augmented by our DevOps consultants, with their Dev
 #### Azure DevOps Migration Services
 
 We are the original creators and primary contributors to the [Azure DevOps Migration Tools](https://github.com/nkdAgility/azure-devops-migration-tools), and we can provide custom [Azure DevOps Migration Tools Consulting](https://nkdagility.com/global-devops-technology-consultancy-services/azure-devops-migration-tools-consulting/) services.
+
+
+
+
+
+
+
+
+
+
+

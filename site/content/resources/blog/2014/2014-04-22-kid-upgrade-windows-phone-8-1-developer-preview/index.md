@@ -1,23 +1,24 @@
 ---
+title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
+date: 2014-04-22
+author: MrHinsh
 id: "10515"
-title: "Be a kid again and upgrade to Windows Phone 8.1 Developer Preview"
-date: "2014-04-22"
-categories:
-  - "news-and-reviews"
-tags:
-  - "windows"
-  - "windows-phone-8"
-  - "windows-phone-8-1"
-  - "windows-phone"
-coverImage: "nakedalm-windows-logo-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "kid-upgrade-windows-phone-8-1-developer-preview"
-
+slug: kid-upgrade-windows-phone-8-1-developer-preview
 aliases:
-  - /blog/kid-upgrade-windows-phone-8-1-developer-preview
+- /blog/kid-upgrade-windows-phone-8-1-developer-preview
+tags:
+- windows
+- windows-phone-8
+- windows-phone-8-1
+- windows-phone
+categories:
+- news-and-reviews
+coverImage: nakedalm-windows-logo-6-6.png
+
 ---
+
 
 I love new things not just because they are new but because they are exiting. Discovery is something that we lose as we get older but it should be nurtured so be a kid again and upgrade to Windows Phone 8.1.
 
@@ -74,4 +75,5 @@ If you update your phone to Windows Phone 8.1 Preview today you will at least ge
 For me the downsides are worth it and I love the new features and home screen. I [agree with Scott Hanselman](http://www.hanselman.com/blog/WindowsPhone81HasMyAttentionNow.aspx) that this not only brings Windows Phone up to the level of iOS and Android but takes it beyond.
 
 Go on, get Windows Phone 8.1 Preview today and influence it.
+
 

@@ -1,28 +1,29 @@
 ---
+title: The TFS Automation Platform is dead, long live the TfPlugable
+date: 2013-01-31
+author: MrHinsh
 id: "9229"
-title: "The TFS Automation Platform is dead, long live the TfPlugable"
-date: "2013-01-31"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "operate"
-  - "tfget"
-  - "tfplugable"
-  - "tfsap"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-tfs-automation-platform-is-dead-long-live-the-tfplugable"
-
+slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
-  - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+- /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+tags:
+- configuration
+- develop
+- infrastructure
+- operate
+- tfget
+- tfplugable
+- tfsap
+- tools
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-logo-128-link-3-3.png
+
 ---
+
 
 The TFS Automation Platform is dead, long live the TfPlugable! It has been a long time since I have talked about the [TFS Automation Platform](http://blog.hinshelwood.com/what-is-the-tfs-automation-platform/) that I had almost forgotten about it myself. It was almost two years ago that I spoke to [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) about an ALM Rangers project to build a solution to dynamically deploy plug-ins for TFS, kind of like Nuget for TFS Extensions.
 
@@ -79,4 +80,5 @@ I have a couple of folks helping me on this little project and we are always loo
   Andrew Clear**, ALM Developer
 
 I am open for others to join and you would only need to contribute around 2 hours a week to participate.
+
 

@@ -1,33 +1,34 @@
 ---
+title: Testing in the modern application lifecycle
+date: 2012-09-25
+author: MrHinsh
 id: "8829"
-title: "Testing in the modern application lifecycle"
-date: "2012-09-25"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "develop"
-  - "infrastructure"
-  - "manual-test"
-  - "modern-alm"
-  - "modern-application-lifecycle"
-  - "practices"
-  - "process"
-  - "s30d"
-  - "tfs"
-  - "tfs2012"
-  - "the-new-normal"
-  - "tools"
-  - "vs2012"
-coverImage: "metro-test-icon-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "testing-in-the-modern-application-lifecycle"
-
+slug: testing-in-the-modern-application-lifecycle
 aliases:
-  - /blog/testing-in-the-modern-application-lifecycle
+- /blog/testing-in-the-modern-application-lifecycle
+tags:
+- agile
+- develop
+- infrastructure
+- manual-test
+- modern-alm
+- modern-application-lifecycle
+- practices
+- process
+- s30d
+- tfs
+- tfs2012
+- the-new-normal
+- tools
+- vs2012
+categories:
+- tools-and-techniques
+coverImage: metro-test-icon-7-7.png
+
 ---
+
 
 Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.
 
@@ -178,4 +179,5 @@ There are still some rough edges, but Sela shows what can be done for testers le
 Even if you are only interested in moving away from Excel and Word for your test management Microsoft Test Manager is the best Manual Testing Management system. The integration that it has with build and Work Item Tracking will make it invaluable for those teams seeking to increase their agility. Do not think that these are in any way silver bullets and while the features are fantastic you may need to make subtle changes to your workflow or your software to take advantage of all of the awesomeness.
 
 The ultimate goal is to try and reduce the all to common scenario that we have not met the requirements or that we have not met the users expectations. The Manual Testing tools in Team Foundation Server can help you be providing a framework to have acceptance criteria begin to drive your engineering efforts and more frequently meet your customers expectations and reduce the waste inherent in software development.
+
 

@@ -1,23 +1,24 @@
 ---
+title: Envisioning vs Provisioning
+date: 2007-05-03
+author: MrHinsh
 id: "405"
-title: "Envisioning vs Provisioning"
-date: "2007-05-03"
-categories:
-  - "people-and-process"
-tags:
-  - "define"
-  - "develop"
-  - "fail"
-  - "practices"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "envisioning-vs-provisioning"
-
+slug: envisioning-vs-provisioning
 aliases:
-  - /blog/envisioning-vs-provisioning
+- /blog/envisioning-vs-provisioning
+tags:
+- define
+- develop
+- fail
+- practices
+categories:
+- people-and-process
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Developers fall into two categories with regard to building solutions:
 
@@ -36,4 +37,5 @@ In the realm of the software development industrial revolution, envisioners woul
 _What do you think and which are you?_
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+
 

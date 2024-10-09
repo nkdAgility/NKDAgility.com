@@ -1,35 +1,36 @@
 ---
+title: Create a Build vNext build definition
+date: 2015-03-04
+author: MrHinsh
 id: "11047"
-title: "Create a Build vNext build definition"
-date: "2015-03-04"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "android"
-  - "build"
-  - "cmake"
-  - "jake"
-  - "msbuild"
-  - "powershell"
-  - "preview"
-  - "tf-build"
-  - "tfs"
-  - "tfs-2015"
-  - "vnext"
-  - "visual-studio"
-  - "vsteamservices"
-  - "vstest"
-  - "xcode"
-coverImage: "nakedalm-experts-visual-studio-alm-26-26.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "create-a-build-vnext-build-definition-on-vso"
-
+slug: create-a-build-vnext-build-definition-on-vso
 aliases:
-  - /blog/create-a-build-vnext-build-definition-on-vso
+- /blog/create-a-build-vnext-build-definition-on-vso
+tags:
+- android
+- build
+- cmake
+- jake
+- msbuild
+- powershell
+- preview
+- tf-build
+- tfs
+- tfs-2015
+- vnext
+- visual-studio
+- vsteamservices
+- vstest
+- xcode
+categories:
+- install-and-configuration
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-26-26.png
+
 ---
+
 
 I am going to show how to create a Build vNext build definition on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alfa of the service available for that program and I have been giving it a spin.
 
@@ -156,4 +157,5 @@ You now have a build definition configured and you can queue a new build. You ca
 ### Conclusion
 
 All in all I am very impressed with the current system. My only issue, as you see the build failed above, is that I get a PowerShell version miss match during execution. This may be due to me using Windows Server Technical Preview as by build platform and I have reached out to the awesome build guys to find out what the issue is. In the mean time I will likely build out a Server 2012 R2 to do more testing…
+
 

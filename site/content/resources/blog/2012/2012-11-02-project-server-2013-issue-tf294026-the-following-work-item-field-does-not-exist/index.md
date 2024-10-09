@@ -1,31 +1,32 @@
 ---
+title: 'Project Server 2013 Issue – TF294026: The following work item field does not exist'
+date: 2012-11-02
+author: MrHinsh
 id: "9103"
-title: "Project Server 2013 Issue – TF294026: The following work item field does not exist"
-date: "2012-11-02"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "project-server"
-  - "ps2013"
-  - "puzzles"
-  - "sharepoint"
-  - "sp2013"
-  - "tf294026"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-coverImage: "metro-problem-icon-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist"
-
+slug: project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
 aliases:
-  - /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+- /blog/project-server-2013-issue-tf294026-the-following-work-item-field-does-not-exist
+tags:
+- configuration
+- infrastructure
+- project-server
+- ps2013
+- puzzles
+- sharepoint
+- sp2013
+- tf294026
+- tfs
+- tfs2012
+- tools
+categories:
+- code-and-complexity
+- problems-and-puzzles
+coverImage: metro-problem-icon-3-3.png
+
 ---
+
 
 When you try to upload the default field mappings for Project Server 2013 integration with Team Foundation Server 2012 you can encounter a TF294026: The following work item field does not exist error.
 
@@ -75,4 +76,5 @@ Warning The documentation on MSDN is currently out of date and misses two fields
 **Figure: Add both Original Estimate and Completed Work**
 
 Although we are adding these fields to the Task type we are not necessarily adding them to the UI for users to fill out. We can leave them available for Project Server, while out Team Members of a Scrum Team would be blissfully ignorant of their existence.
+
 

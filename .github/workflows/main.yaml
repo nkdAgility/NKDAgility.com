@@ -196,6 +196,20 @@ jobs:
           Get-ChildItem -Path "${{ github.workspace }}" -Directory | Select-Object -ExpandProperty FullName
           Copy-Item -Path "./staticwebapp.config.json" -Destination ./public/
 
+      - name: Check if folder size exceeds 500MB
+        shell: pwsh
+        run: |
+            $folder = "./public/"
+            $size = (Get-ChildItem -Recurse -File -Path $folder | Measure-Object -Property Length -Sum).Sum
+  
+            # Example: Perform an action if the folder is larger than 500MB (524288000 bytes)
+            if ($size -gt 524288000 ) {
+              Write-Host "Folder is larger than 500MB"
+              # Add additional actions or logic here
+            } else {
+              Write-Host "Folder is under 500MB"
+            }
+
       - uses: actions/upload-artifact@v4
         with:
           name: Site

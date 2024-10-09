@@ -1,25 +1,26 @@
 ---
+title: 'Big Scrum: All you need and not enough'
+date: 2015-07-01
+author: MrHinsh
 id: "11361"
-title: "Big Scrum: All you need and not enough"
-date: "2015-07-01"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "ndc"
-  - "scaled-agile"
-  - "scaled-professional-scrum"
-  - "scrum"
-  - "scrum-at-scale"
-coverImage: "clip_image003-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "big-scrum-all-you-need-and-not-enough"
-
+slug: big-scrum-all-you-need-and-not-enough
 aliases:
-  - /blog/big-scrum-all-you-need-and-not-enough
+- /blog/big-scrum-all-you-need-and-not-enough
+tags:
+- agile
+- ndc
+- scaled-agile
+- scaled-professional-scrum
+- scrum
+- scrum-at-scale
+categories:
+- people-and-process
+coverImage: clip_image003-3-3.png
+
 ---
+
 
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big Scrum: All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.
 
@@ -45,4 +46,5 @@ At the end of the session I highlighted a small number of additional, but option
 > ## Big Scrum: All you need and not enough
 >
 > The proliferation of scaling frameworks shows there are real challenges in scaling agility, and the solutions don’t seem to involve inventing yet more frameworks or formal processes. So then, why is it so hard to find success in agility at scale? Large scale agility can be found in exploiting Scrum’s simplicity while emerging and sustaining technical excellence. Something that sounds so easy shouldn't be so hard, and for some it isn't. This session highlights successes in growing large scale agility using Big Scrum while maintaining technical excellence to deliver value faster.
+
 

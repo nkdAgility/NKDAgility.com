@@ -1,11 +1,18 @@
 ---
+title: Boeing
+date: 2011-12-08
+author: MrHinsh
 id: "45362"
-title: "Boeing"
-date: "2011-12-08"
+type: customers
+slug: boeing
 tags:
-  - "homepage"
-coverImage: "Boeing.jpg"
-author: "MrHinsh"
-type: "customers"
-slug: "boeing"
+- homepage
+coverImage: Boeing.jpg
+
 ---
+
+
+
+
+
+

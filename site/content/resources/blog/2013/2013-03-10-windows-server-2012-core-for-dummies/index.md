@@ -1,24 +1,25 @@
 ---
+title: Windows Server 2012 Core for dummies
+date: 2013-03-10
+author: MrHinsh
 id: "9255"
-title: "Windows Server 2012 Core for dummies"
-date: "2013-03-10"
-categories:
-  - "code-and-complexity"
-tags:
-  - "configuration"
-  - "core"
-  - "infrastructure"
-  - "tools"
-  - "windows-server"
-coverImage: "metro-server-instances-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-server-2012-core-for-dummies"
-
+slug: windows-server-2012-core-for-dummies
 aliases:
-  - /blog/windows-server-2012-core-for-dummies
+- /blog/windows-server-2012-core-for-dummies
+tags:
+- configuration
+- core
+- infrastructure
+- tools
+- windows-server
+categories:
+- code-and-complexity
+coverImage: metro-server-instances-7-7.png
+
 ---
+
 
 This is a short idiots guide to setting up Windows Server 2012 Core. Windows Server 2012 Core allows you to use less memory by getting rid of some peskie UI bits and bobs. Setting it up however is a little more challenging.
 
@@ -245,4 +246,5 @@ There are many things in Windows Server 2012 Core that you have to do via the co
 Good luck with your server configurations…
 
 _\-Do you need help deploying & configuring Team Foundation Server? Get in touch on_ [_info@nwcadence.com_](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Windows Server 2012 Core for dummies) _so that we can get started._
+
 

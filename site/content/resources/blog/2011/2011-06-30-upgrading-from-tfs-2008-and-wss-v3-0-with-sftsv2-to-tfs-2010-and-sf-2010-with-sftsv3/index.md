@@ -1,35 +1,36 @@
 ---
+title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
+date: 2011-06-30
+author: MrHinsh
 id: "3279"
-title: "Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3"
-date: "2011-06-30"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "agile"
-  - "code"
-  - "configuration"
-  - "infrastructure"
-  - "nwcadence"
-  - "process"
-  - "scrum"
-  - "sfts"
-  - "sharepoint"
-  - "spf2010"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-33-33.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3"
-
+slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
-  - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+- /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+tags:
+- agile
+- code
+- configuration
+- infrastructure
+- nwcadence
+- process
+- scrum
+- sfts
+- sharepoint
+- spf2010
+- tfs
+- tfs2008
+- tfs2010
+- tools
+categories:
+- code-and-complexity
+- tools-and-techniques
+- upgrade-and-maintenance
+coverImage: metro-visual-studio-2005-128-link-33-33.png
+
 ---
+
 
 [![VS2008Upgrade](images/VS2008Upgrade_thumb-36-36.gif "VS2008Upgrade")](http://blog.hinshelwood.com/files/2011/05/VS2008Upgrade.gif)
 { .post-img }
@@ -761,4 +762,5 @@ As the Export Migration is the chosen route of least friction we need to follow 
 - [XPath + Namespace Driving me crazy](http://stackoverflow.com/questions/536441/xpath-namespace-driving-me-crazy)
 
 - [XPath Examples](https://www.w3schools.com/xml/xpath_examples.asp)
+
 

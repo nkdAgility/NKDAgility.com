@@ -1,31 +1,32 @@
 ---
+title: Standard Environments for Automated Deployment and Testing
+date: 2013-03-17
+author: MrHinsh
 id: "9308"
-title: "Standard Environments for Automated Deployment and Testing"
-date: "2013-03-17"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "lab"
-  - "operational"
-  - "practices"
-  - "process"
-  - "standard-environments"
-  - "tactical"
-  - "testing"
-  - "tfs"
-  - "tfs2012-2"
-coverImage: "nakedalm-experts-visual-studio-alm-17-17.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "standard-environments-for-automated-deployment-and-testing"
-
+slug: standard-environments-for-automated-deployment-and-testing
 aliases:
-  - /blog/standard-environments-for-automated-deployment-and-testing
+- /blog/standard-environments-for-automated-deployment-and-testing
+tags:
+- configuration
+- develop
+- infrastructure
+- lab
+- operational
+- practices
+- process
+- standard-environments
+- tactical
+- testing
+- tfs
+- tfs2012-2
+categories:
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-17-17.png
+
 ---
+
 
 Standard Environments in Visual Studio 2012 Team Foundation Server make it possible to have an automated deployment of your software to a development or QA environment. You can then have a bunch of automated tests run in those environments, collecting data all the while.
 
@@ -157,4 +158,5 @@ I need to spend a bunch of time creating the PowerShell scripts that I need to d
 So, not only can I now deploy my code, but I can have this happen automatically and have my existing regression UI automation run as part of it. Now, I do not want to do that for every checking, or maybe I do, but I may want to run a nightly build and full regression. Or if I have thousands of automation then maybe I have a permanently  rolling build that runs to the side of my core work and validates my full regression. I then only have to delve in when there is a failure.
 
 In combination with some other mechanism to deploy to our pre-production and production environments we now have the makings of a standard deployment pipeline that obfuses the complexity of individual application deployment from SCM and DevOps teams while leaving the developers with the capability and versatility to deploy how they like.
+
 

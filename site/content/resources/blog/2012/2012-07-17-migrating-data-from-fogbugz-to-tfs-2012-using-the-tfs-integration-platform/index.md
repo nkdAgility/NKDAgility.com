@@ -1,25 +1,26 @@
 ---
+title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
+date: 2012-07-17
+author: MrHinsh
 id: "6202"
-title: "Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform"
-date: "2012-07-17"
-categories:
-  - "code-and-complexity"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-integration-platform"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform"
-
+slug: migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliases:
-  - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+- /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+tags:
+- configuration
+- infrastructure
+- tfs
+- tfs2012
+- tfs-integration-platform
+- tools
+categories:
+- code-and-complexity
+- upgrade-and-maintenance
+
 ---
+
 
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.
 
@@ -504,4 +505,5 @@ This is the easiest part now that we have our data format and our configuration 
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
 { .post-img }
+
 

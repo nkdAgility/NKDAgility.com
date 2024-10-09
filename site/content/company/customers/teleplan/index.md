@@ -1,9 +1,16 @@
 ---
+title: Teleplan
+date: 2017-04-24
+author: MrHinsh
 id: "11808"
-title: "Teleplan"
-date: "2017-04-24"
-coverImage: "teleplan.png"
-author: "MrHinsh"
-type: "customers"
-slug: "teleplan"
+type: customers
+slug: teleplan
+coverImage: teleplan.png
+
 ---
+
+
+
+
+
+

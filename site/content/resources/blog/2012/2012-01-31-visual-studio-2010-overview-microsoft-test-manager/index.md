@@ -1,25 +1,26 @@
 ---
+title: Visual Studio 2010 Overview - Microsoft Test Manager
+date: 2012-01-31
+author: MrHinsh
 id: "4189"
-title: "Visual Studio 2010 Overview - Microsoft Test Manager"
-date: "2012-01-31"
-tags:
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "webcast-2"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2010-overview-microsoft-test-manager"
-
+slug: visual-studio-2010-overview-microsoft-test-manager
 aliases:
-  - /blog/visual-studio-2010-overview-microsoft-test-manager
+- /blog/visual-studio-2010-overview-microsoft-test-manager
+tags:
+- modern-alm
+- nwcadence
+- tfs
+- tfs2010
+- tools
+- visual-studio
+- vs2010
+- webcast-2
+coverImage: metro-visual-studio-2010-128-link-1-1.png
+
 ---
+
 
 Microsoft Test Manager (MTM), AKA Test Professional, is a new testing system that team can use to create manual and Automation test quickly. The real advantage and strength of MTM is the integration with TFS and Visual Studio 2010 and how it can leverage the ALM tools and practices. In the demo, we show:
 
@@ -49,4 +50,5 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts._
 
 **_If you want a custom set of sessions as part of [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program you can request them through this Microsoft site._**
+
 

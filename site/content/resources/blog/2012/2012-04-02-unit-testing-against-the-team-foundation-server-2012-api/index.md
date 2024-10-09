@@ -1,31 +1,32 @@
 ---
+title: Unit Testing against the Team Foundation Server 2012 API
+date: 2012-04-02
+author: MrHinsh
 id: "5112"
-title: "Unit Testing against the Team Foundation Server 2012 API"
-date: "2012-04-02"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "code"
-  - "configuration"
-  - "infrastructure"
-  - "practices"
-  - "tdd"
-  - "tfs2012"
-  - "tf-service"
-  - "tools"
-  - "unit-testing"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "unit-testing-against-the-team-foundation-server-2012-api"
-
+slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
-  - /blog/unit-testing-against-the-team-foundation-server-2012-api
+- /blog/unit-testing-against-the-team-foundation-server-2012-api
+tags:
+- code
+- configuration
+- infrastructure
+- practices
+- tdd
+- tfs2012
+- tf-service
+- tools
+- unit-testing
+- visual-studio
+- vs2012
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 I have been working a lot recently with the new Team Foundation Service (TFS Preview) that Microsoft is providing in Azure. I was building an application called TFS Field Annotate that allows you to spelunk a fields changes. One of the problems I ran into is how to Unit Test this. I have been doing a lot of work in Test Driven Development (TDD) recently and after running a Bowling Kata (thanks David Starr) for the last month I don’t want to work any other way.
 
@@ -206,4 +207,5 @@ Woot, they all pass… now to write some more.
 ### Conclusion
 
 If you are using a Behaviour Driven Development (BDD) framework to tests your scenarios (SpecFlow works well with Visual Studio 2012) then you will need to load your service credentials so that we can test without having a user enter credentials…
+
 

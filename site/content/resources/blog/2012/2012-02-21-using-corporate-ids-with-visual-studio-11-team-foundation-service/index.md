@@ -1,29 +1,30 @@
 ---
+title: Using Corporate ID's with Visual Studio 2012 Team Foundation Service
+date: 2012-02-21
+author: MrHinsh
 id: "4474"
-title: "Using Corporate ID's with Visual Studio 2012 Team Foundation Service"
-date: "2012-02-21"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs2012"
-  - "tf-service"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "using-corporate-ids-with-visual-studio-11-team-foundation-service"
-
+slug: using-corporate-ids-with-visual-studio-11-team-foundation-service
 aliases:
-  - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
+- /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
+tags:
+- configuration
+- infrastructure
+- modern-alm
+- nwcadence
+- tfs2012
+- tf-service
+- tools
+- visual-studio
+- vs2012
+categories:
+- code-and-complexity
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-3-3.png
+
 ---
+
 
 ![](images/image_thumb1.png)It has been noted by a few that there is currently no way to corporately control Live ID's and their use with Visual Studio 2012 Team Foundation Service. These folks are only partially right as there is a work around, which I use myself. I have had a custom Live ID for the last 10 years and for the last few I have used the Live Custom Domain service to provide a little consistency and to make sure that I do not get any… erroneous users entering the fray.
 { .post-img }
@@ -81,4 +82,5 @@ With only a few clicks you can now add your corporate emails to Visual Studio 20
 It is very frustrating to have to log into more than one Live ID as it requires much strife with logging out. But if you have users that don’t have live ID’s or have rudely named or cryptic live ID’s then it can be a solution.
 
 Simples...
+
 

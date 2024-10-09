@@ -1,21 +1,22 @@
 ---
+title: Avoid the pick-n-mix branching anti-pattern
+date: 2014-07-14
+author: MrHinsh
 id: "10649"
-title: "Avoid the pick-n-mix branching anti-pattern"
-date: "2014-07-14"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "anti-pattern"
-  - "branching"
-coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "avoid-pick-n-mix-branching-anti-pattern"
-
+slug: avoid-pick-n-mix-branching-anti-pattern
 aliases:
-  - /blog/avoid-pick-n-mix-branching-anti-pattern
+- /blog/avoid-pick-n-mix-branching-anti-pattern
+tags:
+- anti-pattern
+- branching
+categories:
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-4-4.png
+
 ---
+
 
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.
 
@@ -69,4 +70,5 @@ Once you are there you should look at implementing the engineering necessary in 
 Even while in a single branching model with binary promotion you may find the need to have a stepped model where you need to support multiple versions of your product. This can be achieved without crippling your teams by having your branching flow forward from parent to child as you move through major releases of your software.
 
 Ultimately there is no excuse for using the pick-n-mix branching anti-pattern for branching. Step up, be professional, and fix this one for good.
+
 

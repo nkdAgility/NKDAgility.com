@@ -1,25 +1,26 @@
 ---
+title: Move an Azure storage blob to another store
+date: 2014-10-14
+author: MrHinsh
 id: "10778"
-title: "Move an Azure storage blob to another store"
-date: "2014-10-14"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "azure"
-  - "blob"
-  - "start-azurestorageblobcopy"
-  - "storage"
-  - "vhd"
-coverImage: "nakedalm-windows-logo-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "move-azure-storage-blob-another-store"
-
+slug: move-azure-storage-blob-another-store
 aliases:
-  - /blog/move-azure-storage-blob-another-store
+- /blog/move-azure-storage-blob-another-store
+tags:
+- azure
+- blob
+- start-azurestorageblobcopy
+- storage
+- vhd
+categories:
+- install-and-configuration
+- problems-and-puzzles
+coverImage: nakedalm-windows-logo-4-4.png
+
 ---
+
 
 Move an Azure storage blob to another store took a little bit longer than I thought that it would. All I wanted to do was move a VHD from one storage account to another. However this is a little more complicated than it seems on the surface.
 
@@ -76,4 +77,5 @@ Why we can't do this with URL's and an authenticated account I do not know… bu
 { .post-img }
 
 Now that I have my VHD over here I can change my default store and create my Virtual Machines from this VHD instead of the other one. Not the easiest task, but now I have some lovely PowerShell I should be able to move VHD's between Azure Storage Accounts any time I like.
+
 

@@ -1,27 +1,28 @@
 ---
+title: 'Event: MSDN: SharePoint for Developers (Edinburgh)'
+date: 2007-11-23
+author: MrHinsh
 id: "288"
-title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
-date: "2007-11-23"
-categories:
-  - "events-and-presentations"
-tags:
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "event-msdn-sharepoint-for-developers-edinburgh"
-
+slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
-  - /blog/event-msdn-sharepoint-for-developers-edinburgh
+- /blog/event-msdn-sharepoint-for-developers-edinburgh
+tags:
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- tools
+- visual-studio
+- vs2005
+- vs2008
+categories:
+- events-and-presentations
+coverImage: metro-visual-studio-2005-128-link-2-2.png
+
 ---
+
 
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:
 
@@ -65,4 +66,5 @@ This was the first time I had seen David perform on stage and I was quite impres
 I found the whole thing very informative and I would recommend it to both novices and experts as it helped me fill in some of the blanks and gain incite into future improvements.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

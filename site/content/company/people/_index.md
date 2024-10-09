@@ -1,7 +1,14 @@
 ---
-title: "Our People"
-url: "/company/people/"
-layout: "section" # Hugo will use section.html to render the list of pages
+title: Our People
+layout: section
+url: /company/people/
+
 ---
 
+
+
+
 Overview of all People.
+
+
+

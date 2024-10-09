@@ -1,22 +1,23 @@
 ---
+title: Do you know about the Visual Studio 2010 Architecture Guidance?
+date: 2011-02-04
+author: MrHinsh
 id: "16"
-title: "Do you know about the Visual Studio 2010 Architecture Guidance?"
-date: "2011-02-04"
-tags:
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-know-about-the-visual-studio-2010-architecture-guidance"
-
+slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
-  - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+- /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+tags:
+- nwcadence
+- tools
+- visual-studio
+- vs2010
+- vsalmrangers
+coverImage: metro-visual-studio-2010-128-link-4-4.png
+
 ---
+
 
 [![image](images/Do-you-know-about-the-Visual-Studio-2010_E583-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_E583-image_2.png)
 { .post-img }
@@ -51,4 +52,5 @@ This is a big help when you just want to figure out how to do something and can�
 I’m sold! Where can i get my hands on this fantastic content?
 
 Download the [Visual Studio 2010 Architecture Tooling Guidance](http://vsarchitectureguide.codeplex.com/) and if you like it don’t forget to [add a review](http://vsarchitectureguide.codeplex.com/releases/view/47828?RateReview=true) to make the team that put it together in their spare time feel all the mere loved.
+
 

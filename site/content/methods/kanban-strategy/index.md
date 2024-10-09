@@ -1,17 +1,22 @@
 ---
-slug: kanban-strategy
-author: MrHinsh
 title: Kanban Strategy
-aliases:
-  - /methods/kanban-strategy/
 date: 2024-09-17
-Draft: true
+author: MrHinsh
+draft: true
 type: methods
+slug: kanban-strategy
+aliases:
+- /methods/kanban-strategy/
 card:
-  title: Kanban Strategy
-  content: Optimize your workflow with Kanban strategies tailored for your team. Visualize work, limit work-in-progress, and enhance overall efficiency.
   button:
     content: Start Optimizing Now
+  title: Kanban Strategy
+  content: Optimize your workflow with Kanban strategies tailored for your team. Visualize work, limit work-in-progress, and enhance overall efficiency.
+
 ---
 
+
+
 Coming soon!
+
+

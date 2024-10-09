@@ -1,29 +1,30 @@
 ---
+title: Do you have a contract between the Product Owner and the Team?
+date: 2010-04-14
+author: MrHinsh
 id: "52"
-title: "Do you have a contract between the Product Owner and the Team?"
-date: "2010-04-14"
-categories:
-  - "people-and-process"
-tags:
-  - "configuration"
-  - "define"
-  - "develop"
-  - "people"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-have-a-contract-between-the-product-owner-and-the-team"
-
+slug: do-you-have-a-contract-between-the-product-owner-and-the-team
 aliases:
-  - /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+- /blog/do-you-have-a-contract-between-the-product-owner-and-the-team
+tags:
+- configuration
+- define
+- develop
+- people
+- practices
+- process
+- scrum
+- sharepoint
+- spf2010
+- ssw
+categories:
+- people-and-process
+coverImage: metro-sharepoint-128-link-1-1.png
+
 ---
+
 
 ![RulestoBetter](images/SSWScrumRules_C6B7-RulestoBetter_-3-3.gif)Working in Scrum it is useful to define a Sprint Contract between the Product Owner (PO) and the implementation Team. Doing this helps to improve common understanding in, and sometimes to enforce, the relationship between the PO and the Team.
 { .post-img }
@@ -47,4 +48,5 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 **Figure: Good Example, the product owner should reply to the team and commit to the contract**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

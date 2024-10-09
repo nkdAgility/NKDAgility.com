@@ -1,25 +1,26 @@
 ---
+title: What about hosting the Tfs Automation Platform
+date: 2011-05-31
+author: MrHinsh
 id: "3365"
-title: "What about hosting the Tfs Automation Platform"
-date: "2011-05-31"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfsap"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-about-hosting-the-tfs-automation-platform-2"
-
+slug: what-about-hosting-the-tfs-automation-platform-2
 aliases:
-  - /blog/what-about-hosting-the-tfs-automation-platform-2
+- /blog/what-about-hosting-the-tfs-automation-platform-2
+tags:
+- nwcadence
+- tfs
+- tfs2010
+- tfsap
+- tools
+- visual-studio
+- vs2010
+- vsalmrangers
+coverImage: metro-visual-studio-2010-128-link-1-1.png
+
 ---
+
 
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:
 { .post-img }
@@ -57,4 +58,5 @@ What functionality would we loose if we settled for client ony:
 - **more…**
 
 What do you think, are the features above important?
+
 

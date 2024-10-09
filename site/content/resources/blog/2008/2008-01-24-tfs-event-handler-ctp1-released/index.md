@@ -1,27 +1,28 @@
 ---
+title: TFS Event Handler CTP1 Released
+date: 2008-01-24
+author: MrHinsh
 id: "261"
-title: "TFS Event Handler CTP1 Released"
-date: "2008-01-24"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "infrastructure"
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-4-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-ctp1-released"
-
+slug: tfs-event-handler-ctp1-released
 aliases:
-  - /blog/tfs-event-handler-ctp1-released
+- /blog/tfs-event-handler-ctp1-released
+tags:
+- code
+- infrastructure
+- tfs
+- tfs2008
+- tools
+- visual-studio
+- vs2008
+- wit
+categories:
+- code-and-complexity
+coverImage: metro-visual-studio-2005-128-link-4-1.png
+
 ---
+
 
 I have just released a [new version](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=3910) of the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Event Handler. This is a really rough version and you should not be used in a production environment.
 
@@ -54,4 +55,5 @@ Well, that's the plan... ![smile_nerd](images/smile_nerd-5-2.gif)
 Edited for bad English and down right sloppiness... Made me sound like English was not my first language...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
+
 

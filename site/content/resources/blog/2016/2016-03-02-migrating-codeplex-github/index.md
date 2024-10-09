@@ -1,23 +1,24 @@
 ---
+title: Migrating from Codeplex to Github
+date: 2016-03-02
+author: MrHinsh
 id: "11465"
-title: "Migrating from Codeplex to Github"
-date: "2016-03-02"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "codeplex"
-  - "git"
-  - "github"
-  - "migration"
-coverImage: "clip_image001-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "migrating-codeplex-github"
-
+slug: migrating-codeplex-github
 aliases:
-  - /blog/migrating-codeplex-github
+- /blog/migrating-codeplex-github
+tags:
+- codeplex
+- git
+- github
+- migration
+categories:
+- tools-and-techniques
+coverImage: clip_image001-1-1.png
+
 ---
+
 
 I have a repository on Codeplex that was the result of the code that I had to write to move my blog from GeeksWithBlogs many moons ago over to Wordpress. This was a very difficult process and recently quite a few of my friends have had to go through it as well. Since GeeksWithBlogs has been sold to 'the man' many bugs have crept into the system and features are sparse. With the most recent request for access I decided it was time to ditch Codeplex and move to Github. If you have not seen the writing on the wall yet the only Open Source host of any note is GitHub. All my private repositories are in VSTS ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) but anything Open Source will be moved to GitHub.
 
@@ -78,4 +79,5 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
 And that’t it, you might want to look at migrating other stuff like Releases and Issues, but really this is good enough for most people. Once you are happy you can go mark your CodePlex project as migrated..
 
 Check out my migration on [https://github.com/MrHinsh/gwb-to-wordpress](https://github.com/MrHinsh/gwb-to-wordpress)
+
 

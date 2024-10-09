@@ -1,24 +1,25 @@
 ---
+title: Festive holiday studying
+date: 2007-12-18
+author: MrHinsh
 id: "273"
-title: "Festive holiday studying"
-date: "2007-12-18"
-categories:
-  - "me"
-tags:
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "wpf"
-  - "xbox"
-coverImage: "metro-xbox-360-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "festive-holiday-studying"
-
+slug: festive-holiday-studying
 aliases:
-  - /blog/festive-holiday-studying
+- /blog/festive-holiday-studying
+tags:
+- sharepoint
+- sp2007
+- spf2010
+- wpf
+- xbox
+categories:
+- me
+coverImage: metro-xbox-360-link-3-3.png
+
 ---
+
 
 [![020](images/Festiveholidaystudying_12D57-020_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Festiveholidaystudying_12D57-020.jpg)
 { .post-img }
@@ -39,4 +40,5 @@ I will leave you with the "[Hinshelwood family Christmas elf's](http://www.elfyo
 P.S. Yippee, 200 posts...Just in time for the New Year...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [Xbox](http://technorati.com/tags/Xbox) [WPF](http://technorati.com/tags/WPF) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

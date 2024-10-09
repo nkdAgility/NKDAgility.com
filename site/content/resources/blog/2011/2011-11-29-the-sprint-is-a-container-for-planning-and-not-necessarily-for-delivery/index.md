@@ -1,21 +1,22 @@
 ---
+title: The Sprint is a container for Planning and not necessarily for Delivery
+date: 2011-11-29
+author: MrHinsh
 id: "4092"
-title: "The Sprint is a container for Planning and not necessarily for Delivery"
-date: "2011-11-29"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "sprint-planning"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery"
-
+slug: the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
 aliases:
-  - /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+- /blog/the-sprint-is-a-container-for-planning-and-not-necessarily-for-delivery
+tags:
+- sprint-planning
+categories:
+- people-and-process
+- tools-and-techniques
+coverImage: nakedalm-logo-128-link-2-2.png
+
 ---
+
 
 I have been told time and again in the office that Scrum is an inflexible platform for developing software as it is way too prescriptive. This is far from reality and represents an invalid interpretation in the rules of the game. This fault lies not with those that have been turned away from the light, but with the fanatics that have brandished the burning torch and pitchfork at your door chanting "that is not Scrum because...".
 
@@ -64,4 +65,5 @@ Only once you have all of these thing should you then be thinking of what more d
 I never tell teams that you MUST do a thing but instead encourage them to do the right thing for their organisation in a journey to build better software.
 
 Now, that is something that we can all aspire to.
+
 

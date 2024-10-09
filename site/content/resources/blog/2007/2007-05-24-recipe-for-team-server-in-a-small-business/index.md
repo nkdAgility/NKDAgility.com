@@ -1,19 +1,20 @@
 ---
+title: Recipe for Team Server in a small business
+date: 2007-05-24
+author: MrHinsh
 id: "399"
-title: "Recipe for Team Server in a small business"
-date: "2007-05-24"
-tags:
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "recipe-for-team-server-in-a-small-business"
-
+slug: recipe-for-team-server-in-a-small-business
 aliases:
-  - /blog/recipe-for-team-server-in-a-small-business
+- /blog/recipe-for-team-server-in-a-small-business
+tags:
+- visual-studio
+- vs2005
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.
 
@@ -49,4 +50,5 @@ If you want to go down the full route you will need for for out a further £7500
 note: if you only have 5 people that you want to use [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") then you can get the whole lot for the price of an MSDN Universal licence (£2000) or Join the Empower program and get 2 years MSDN universal for £260 per year.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+
 

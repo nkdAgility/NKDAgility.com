@@ -1,18 +1,19 @@
 ---
+title: Mozy update
+date: 2007-12-02
+author: MrHinsh
 id: "281"
-title: "Mozy update"
-date: "2007-12-02"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mozy-update"
-
+slug: mozy-update
 aliases:
-  - /blog/mozy-update
+- /blog/mozy-update
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!
 
@@ -31,4 +32,5 @@ Again I would like to thank a few guys for their mega byte support:
 [Andrew Stifora](http://stifora.com/), [Garrett Hoofman](http://geekswithblogs.net/gambit_sunob/Default.aspx), [Peter Benschop](http://www.linkedin.com/pub/2/56A/667), chan pen, Jeroen te Strake, Thomas Williams, Jim Calder, [Stuart McVicar](http://stuartmcvicar.net/2007/08/26/charging-membership-for-forums/), John Hinshelwood
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
 

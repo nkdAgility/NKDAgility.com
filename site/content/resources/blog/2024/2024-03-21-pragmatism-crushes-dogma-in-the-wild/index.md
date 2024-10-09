@@ -1,18 +1,19 @@
 ---
+title: Pragmatism crushes Dogma in the wild
+date: 2024-03-21
+author: MrHinsh
 id: "51362"
-title: "Pragmatism crushes Dogma in the wild"
-date: "2024-03-21"
-categories:
-  - "agility"
-coverImage: "NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "pragmatism-crushes-dogma-in-the-wild"
-
+slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
-  - /blog/pragmatism-crushes-dogma-in-the-wild
+- /blog/pragmatism-crushes-dogma-in-the-wild
+categories:
+- agility
+coverImage: NKDAgility-technically-PragamtismCrushesDogma-1-1.jpg
+
 ---
+
 
 In my journey of delivering an immersive [Product Development Mentor Program](https://nkdagility.com/global-consultancy-services/product-development-mentoring-program/) over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team.
 
@@ -49,4 +50,5 @@ Here are the MUST elements from the Scrum Guide:
 As I reflect on the past sessions and the growth observed in the participants, it's clear that Scrum is not a methodology but a philosophy. A philosophy that empowers teams to embrace complexity, adapt to changes, and continuously seek improvements. It's about understanding that the path to success in an ever-changing environment is not through rigid rules but through adaptability and resilience.
 
 **How has pragmatically embracing the philosophy of Scrum enabled you to navigate complexity and adapt to change in your projects?**
+
 

@@ -1,22 +1,23 @@
 ---
+title: Vote for your feature
+date: 2008-04-30
+author: MrHinsh
 id: "234"
-title: "Vote for your feature"
-date: "2008-04-30"
-categories:
-  - "me"
-tags:
-  - "tfs-sticky-buddy"
-  - "wit"
-  - "wpf"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vote-for-your-feature"
-
+slug: vote-for-your-feature
 aliases:
-  - /blog/vote-for-your-feature
+- /blog/vote-for-your-feature
+tags:
+- tfs-sticky-buddy
+- wit
+- wpf
+categories:
+- me
+coverImage: nakedalm-logo-128-link-1-1.png
+
 ---
+
 
 I am currently taking votes for which features will make it into the next version of the [TFS Sticky Buddy](https://www.codeplex.com/TFSStickyBuddy) ([v1.1 CTP 1](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=12982)), which will move towards v2.0. The current list of features is slim, but specific.
 
@@ -33,4 +34,5 @@ If you are interested [TFS Sticky Buddy v1.0](https://www.codeplex.com/Release/P
 
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+
 

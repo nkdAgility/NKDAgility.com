@@ -1,24 +1,25 @@
 ---
+title: Blogging about...
+date: 2007-09-12
+author: MrHinsh
 id: "314"
-title: "Blogging about..."
-date: "2007-09-12"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "visual-studio"
-  - "vs2008"
-  - "wcf"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "blogging-about"
-
+slug: blogging-about
 aliases:
-  - /blog/blogging-about
+- /blog/blogging-about
+tags:
+- tfs
+- tfs2008
+- visual-studio
+- vs2008
+- wcf
+categories:
+- me
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)
 
@@ -40,4 +41,5 @@ Well, in the last month (yes I know I said I would do this every week) I have:
 That's about it for now...Back to my unemployment :), and enjoying the rare Scottish sun...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WCF](http://technorati.com/tags/WCF) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS)
+
 

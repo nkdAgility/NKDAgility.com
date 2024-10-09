@@ -1,25 +1,26 @@
 ---
+title: Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again...
+date: 2007-12-13
+author: MrHinsh
 id: "276"
-title: "Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again..."
-date: "2007-12-13"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "tools"
-coverImage: "metro-office-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again"
-
+slug: installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
 aliases:
-  - /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+- /blog/installing-the-2007-microsoft-office-servers-service-pack-1-sp1-again
+tags:
+- infrastructure
+- moss2007
+- sharepoint
+- sp2007
+- spf2010
+- tools
+categories:
+- upgrade-and-maintenance
+coverImage: metro-office-128-link-1-1.png
+
 ---
+
 
 So far it is exactly the same show as with the WSS update. Installing updates before moving onto the main feature... And it did not ask me to install WSS SP1 this time.. That is another one of those mixed signs...
 
@@ -149,4 +150,5 @@ UPDATE:
 Check out [this post](http://blog.hinshelwood.com/archive/2007/12/31/sharepoint-3.0-and-moss-2007-service-pack-1-update.aspx "Click To View Entry") for a solution that fixed my problems...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+
 

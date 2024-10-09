@@ -1,20 +1,21 @@
 ---
+title: Yorkhill Ice Bucket Challenge
+date: 2014-08-24
+author: MrHinsh
 id: "10682"
-title: "Yorkhill Ice Bucket Challenge"
-date: "2014-08-24"
-categories:
-  - "me"
-tags:
-  - "charity"
-coverImage: "yorkhill-ice-bucket-challange-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "yorkhill-ice-bucket-challenge"
-
+slug: yorkhill-ice-bucket-challenge
 aliases:
-  - /blog/yorkhill-ice-bucket-challenge
+- /blog/yorkhill-ice-bucket-challenge
+tags:
+- charity
+categories:
+- me
+coverImage: yorkhill-ice-bucket-challange-5-5.png
+
 ---
+
 
 Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als-ice-bucket-challenge.aspx) took the ALS Ice Bucket Challenge. He was challenged by [Brian Harry](http://blogs.msdn.com/b/bharry/archive/2014/08/19/als-ice-bucket-challenge.aspx) who was in turn by [Adam Cogan](https://www.youtube.com/watch?v=P_4FM9laAl0). As I know all three of these folks it was only a matter of time before I got nominated. My torturer of the day is Buck. Really… how bad can it be? I did Tough Mudder this weekend my favourite obstacle is [Arctic Enema](https://toughmudder.co.uk/obstacles/arctic-enema) :p!!
 
@@ -42,4 +43,5 @@ We went on a mission to find ice and to my surprise many of then shops were all 
 You will notice that evil Eva bided her time and when I thought that all the water had been pored, when in fact it was only Kai's, she got her turn. If you listen carefully at the start of the video you can hear her manic and decidedly malevolent excitement at the prospect...
 
 As I said, I am giving my £100 to the Yorkhill Childress Charity to the benefit of the new Yorkhill Hospital for Sick Children. To carry on I nominate [David Starr](http://courses.scrum.org/about/david-starr) from Scrum.org, David Hinshelwood, and [Iain Frame](http://uk.linkedin.com/pub/iain-frame/0/558/b77).
+
 

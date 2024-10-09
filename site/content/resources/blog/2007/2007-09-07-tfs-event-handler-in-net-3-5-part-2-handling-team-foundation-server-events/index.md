@@ -1,21 +1,22 @@
 ---
+title: TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events
+date: 2007-09-07
+author: MrHinsh
 id: "3469"
-title: "TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events"
-date: "2007-09-07"
-tags:
-  - "tfs"
-  - "tfs2005"
-  - "tfs-event-handler"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events"
-
+slug: tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
 aliases:
-  - /blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+- /blog/tfs-event-handler-in-net-3-5-part-2-handling-team-foundation-server-events
+tags:
+- tfs
+- tfs2005
+- tfs-event-handler
+- tools
+coverImage: metro-visual-studio-2005-128-link-1-1.png
+
 ---
+
 
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me.
 
@@ -264,4 +265,5 @@ As you can see it is just a case of parsing the URL to get the last bit after th
 All of the objects are now ready to pass over MSMQ to the TFS Event Processor, which will be the subject of the next article in this series...
 
 Technorati Tags: [Visual Studio Team System](http://technorati.com/tags/Visual%20Studio%20Team%20System), [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008), [Team Edition for Architects](http://technorati.com/tags/Team%20Edition%20for%20Architects), [TFSEventHandler](http://technorati.com/tags/TFSEventHandler), [Microsoft .NET Framework](http://technorati.com/tags/Microsoft%20.NET%20Framework), [Software Industrial Revolution](http://technorati.com/tags/Software%20Industrial%20Revolution), [WCF](http://technorati.com/tags/WCF), [TFS Event Handler](http://technorati.com/tags/TFS%20Event%20Handler)
+
 

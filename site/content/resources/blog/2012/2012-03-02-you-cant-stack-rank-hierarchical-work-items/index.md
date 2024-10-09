@@ -1,29 +1,30 @@
 ---
+title: You can't stack rank hierarchical work items?
+date: 2012-03-02
+author: MrHinsh
 id: "4773"
-title: "You can't stack rank hierarchical work items?"
-date: "2012-03-02"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "nwcadence"
-  - "process"
-  - "tfs2012"
-  - "tf-service"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-14-14.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-cant-stack-rank-hierarchical-work-items"
-
+slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
-  - /blog/you-cant-stack-rank-hierarchical-work-items
+- /blog/you-cant-stack-rank-hierarchical-work-items
+tags:
+- configuration
+- infrastructure
+- nwcadence
+- process
+- tfs2012
+- tf-service
+- tools
+- visual-studio
+- vs2012
+categories:
+- people-and-process
+- tools-and-techniques
+coverImage: nakedalm-experts-visual-studio-alm-14-14.png
+
 ---
+
 
 At the MVP Summit I was appalled by the number of people who asked questions about new features for supporting hierarchical _tasks_! I shared a disgusted look with [Peter Provost](https://www.linkedin.com/in/peterprovost/) and we had a quick (and I mean really quick) conversation that resulted in this post. it really comes down to one thing:
 
@@ -116,4 +117,5 @@ I am always interested in finding out what other scenarios there are out there:
 Do you agree?
 
 What reasons do you have for using hierarchy's?
+
 

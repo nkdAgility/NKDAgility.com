@@ -1,9 +1,16 @@
 ---
+title: Lockheed Martin
+date: 2014-12-08
+author: MrHinsh
 id: "45375"
-title: "Lockheed Martin"
-date: "2014-12-08"
-coverImage: "Lockheed-Martin.png"
-author: "MrHinsh"
-type: "customers"
-slug: "lockheed-martin"
+type: customers
+slug: lockheed-martin
+coverImage: Lockheed-Martin.png
+
 ---
+
+
+
+
+
+
