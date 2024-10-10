@@ -6,8 +6,8 @@ id: "49463"
 type: people
 slug: dan-brown-kanbandan
 aliases:
-- /company/people/dan-brown-kanbandan/
-coverImage: kanban-dan.png
+  - /company/people/dan-brown-kanbandan/
+preview: kanban-dan.png
 card:
   button:
     content: More info
@@ -16,11 +16,4 @@ card:
     <strong>Agile Trainer &amp; Coach</strong>
 
     Enhancing Delivery ✪ Agile Trainer &amp; Coach ✪ Expert in Lean Kanban &amp; Agile Transformation ✪ Passionate Coach, Teacher, &amp; Speaker
-
 ---
-
-
-
-
-
-

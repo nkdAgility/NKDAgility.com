@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 aliases:
-- /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
+  - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 tags:
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
-- upgrade
-- visual-studio
-- vs2008
-- vs2010
-coverImage: metro-visual-studio-2010-128-link-3-3.png
-
+  - spf2010
+  - ssw
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+  - upgrade
+  - visual-studio
+  - vs2008
+  - vs2010
+preview: metro-visual-studio-2010-128-link-3-3.png
 ---
-
 
 Visual Studio Team Foundation Server 2010 RC was released yesterday on MSDN. I am happy to report that today we successfully completed upgrading our production TFS 2010 Beta 2 server, to the new TFS 2010 RC. wow.
 
@@ -53,7 +51,7 @@ All of our 52 developers are now up and running on TFS 2010 RC. Well…almost al
      ![clip_image002](images/UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image002_-5-5.jpg)  
     { .post-img }
     Figure: Error TF31001 or TF253022, but why is that link not clickable.
-        ![clip_image001](images/UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image001_-4-4.jpg)
+    ![clip_image001](images/UpgradingfromTFS2010Beta2toTFS2010RC_B2CD-clip_image001_-4-4.jpg)
     { .post-img }
     Figure:  Check that you have the update so you can connect to TFS 2010 via “Help | About Microsoft Visual Studio”
 
@@ -83,5 +81,3 @@ We were the [first company on Beta 2 in production](http://blog.hinshelwood.com/
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

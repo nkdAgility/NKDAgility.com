@@ -7,14 +7,19 @@ type: course
 slug: managing-projects-using-azure-boards-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- managing-projects-using-azure-boards
-- /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
-- /A-MPAB/
+  - /training-courses/managing-projects-using-azure-boards
+  - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
+  - /A-MPAB/
+  - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
+course-topics:
+  - Azure DevOps Training  Courses
+course-vendors:
+  - Accentient
 tags:
-- team
+  - team
 categories:
-- devops
-coverImage: naked-agility-Accentiant-MPAB-1600x900-1.jpg
+  - devops
+preview: naked-agility-Accentient-MPAB-1600x900-1.jpg
 card:
   button:
     content: ""
@@ -81,15 +86,6 @@ delivery:
     colour: ""
   code: A-MPAB
   courseIcon: A-MPAB.png
-
 ---
 
-
-
-
-
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
-
-
-
-

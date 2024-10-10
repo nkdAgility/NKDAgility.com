@@ -4,7 +4,7 @@ date: 2020-06-24T17:48:17Z
 videoId: 56nUC8jR2v8
 url: /resources/videos/the-tyranny-of-taylorism-and-how-to-spot-agile-lies
 canonicalUrl: https://www.youtube.com/watch?v=56nUC8jR2v8
-coverImage: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/56nUC8jR2v8/maxresdefault.jpg
 duration: 51
 isShort: True
 ---

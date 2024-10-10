@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: msn-cartoon-beta
 aliases:
-- /blog/msn-cartoon-beta
+  - /blog/msn-cartoon-beta
 tags:
-- answers
+  - answers
 categories:
-- me
-coverImage: nakedalm-logo-128-link-25-25.png
-
+  - me
+preview: nakedalm-logo-128-link-25-25.png
 ---
-
 
 I just got a comment from Reto Winter to let me know about a [post](http://www.liveside.net/blogs/main/archive/2007/08/03/creating-custom-avatars-a-microsoft-tool-and-others.aspx "Creating custom avatars") regarding a new [Microsoft Avatar service](http://cartoon.msn.com.cn/) on MSN China, so as I am sitting here writing some posts anyway, I will have a look. It is in the same vain as the [Southparkify](http://blog.hinshelwood.com/archive/2007/07/31/Southparkify--Simposonize--better-with-both.aspx) and [Simpsonize me](http://blog.hinshelwood.com/archive/2007/07/30/Simpsonize-Me.aspx) options that I have blogged before.
 
@@ -83,5 +81,3 @@ Here are my pictures, but I am not sure how much they look like me!
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-

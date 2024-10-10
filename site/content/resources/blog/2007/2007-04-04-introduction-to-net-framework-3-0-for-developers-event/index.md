@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
-- /blog/introduction-to-net-framework-3-0-for-developers-event
+  - /blog/introduction-to-net-framework-3-0-for-developers-event
 tags:
-- code
+  - code
 categories:
-- code-and-complexity
-- me
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 Yesterday I visited the Strathclyde University campus to see a half day session from Microsoft's [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/default.aspx).
 
@@ -31,5 +29,3 @@ I was especially interested in a class property manager thingy that is used in w
 Mike, if you are listening, and can decipher my cryptic description, can you answer this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-
-

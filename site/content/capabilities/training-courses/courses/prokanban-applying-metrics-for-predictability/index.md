@@ -5,9 +5,16 @@ author: MrHinsh
 id: "51140"
 type: course
 slug: applying-metrics-for-predictability
+url: /training-courses/kanban-training-courses/:slug/
 aliases:
-- /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-coverImage: NKDAgility-Courses-AMP-16x9-1.jpg
+  - /training-courses/applying-metrics-for-predictability/
+  - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
+course-topics:
+  - Kanban Training Courses
+course-vendors:
+  - ProKanban.org
+preview: NKDAgility-Courses-AMP-16x9-1.jpg
 card:
   button:
     content: ""
@@ -49,19 +56,10 @@ delivery:
     colour: ""
   code: AMP
   courseIcon: Course-logo-AMP@1x.png
-
 ---
-
-
-
-
 
 In today's dynamic business landscape, the ability to provide accurate project timelines, minimize risk, and make data-driven decisions is crucial. Our immersive 8-week course, "Applying Metrics for Predictability," empowers you to master agile metrics and forecasting, transforming your approach to project management. Unlike traditional 2-day workshops, our extended format allows for deeper understanding and practical application.
 
 Over eight weeks, you'll delve into the world of flow metrics, exploring concepts such as Work in Progress (WIP), Cycle Time, and Throughput. You'll gain hands-on experience in utilizing flow analytics, including Cumulative Flow Diagrams (CFDs), Scatterplots, and Histograms, to enhance predictability. Through Monte Carlo Simulation and statistical sampling, you'll learn to answer complex questions like "When will it be done?" while quantifying and managing risk effectively.
 
 By the end of this course, you'll have the expertise needed to provide accurate forecasts, optimize your processes, and make informed decisions, ultimately boosting your project's success. Whether you're an executive, manager, or team member, our immersive learning experience will equip you with valuable skills for today's competitive environment.
-
-
-
-

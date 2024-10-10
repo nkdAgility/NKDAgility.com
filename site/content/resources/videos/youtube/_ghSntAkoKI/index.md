@@ -4,7 +4,7 @@ date: 2021-10-22T10:56:51Z
 videoId: _ghSntAkoKI
 url: /resources/videos/live-virtual-professional-agile-leadership-in-5-minutes!
 canonicalUrl: https://www.youtube.com/watch?v=_ghSntAkoKI
-coverImage: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_ghSntAkoKI/maxresdefault.jpg
 duration: 289
 isShort: False
 ---

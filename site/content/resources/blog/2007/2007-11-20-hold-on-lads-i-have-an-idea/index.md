@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: hold-on-lads-i-have-an-idea
 aliases:
-- /blog/hold-on-lads-i-have-an-idea
+  - /blog/hold-on-lads-i-have-an-idea
 tags:
-- code
-- infrastructure
-- tfs-sticky-buddy
-- tools
+  - code
+  - infrastructure
+  - tfs-sticky-buddy
+  - tools
 categories:
-- code-and-complexity
-coverImage: nakedalm-logo-128-link-3-3.png
-
+  - code-and-complexity
+preview: nakedalm-logo-128-link-3-3.png
 ---
-
 
 ![lightbulb](images/lightbulb-2-2.gif) Something occured to me after seeing the [Family Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com). If you have not seen this application it is definitely worth a look. What I want to achieve would be to display and allow the edit of company Higherarchical data through a similar interface to the one presented in Family Show.
 { .post-img }
@@ -36,5 +34,3 @@ The data would be fed into a database after workflow on authorising the updates 
 It should be possible to get the project off the ground by providing a single point of truth for information on staff. This in conjunction with technologies like SharePoint and Communication Server should provide substantial business benefit to companies  holding data about its staff in multiple systems geographically.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-

@@ -5,12 +5,5 @@ author: MrHinsh
 id: "46204"
 type: customers
 slug: genus-breeding-ltd
-coverImage: genus-logo.jpeg
-
+preview: genus-logo.jpeg
 ---
-
-
-
-
-
-

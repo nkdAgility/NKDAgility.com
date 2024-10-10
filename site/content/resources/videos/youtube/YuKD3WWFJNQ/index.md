@@ -4,7 +4,7 @@ date: 2023-10-23T11:00:23Z
 videoId: YuKD3WWFJNQ
 url: /resources/videos/silence!-7-harbingers-agile-apocalypse-
 canonicalUrl: https://www.youtube.com/watch?v=YuKD3WWFJNQ
-coverImage: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/YuKD3WWFJNQ/maxresdefault.jpg
 duration: 436
 isShort: False
 ---
@@ -13,7 +13,7 @@ isShort: False
 
 # Silence! 7 Harbingers agile apocalypse.
 
-Breaking the silence in agile teams! Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews. 
+Breaking the silence in agile teams! Dive into the challenges of stakeholder engagement and discover how to foster better communication in Sprint reviews.
 
 Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 

@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: net-service-manager
 aliases:
-- /blog/net-service-manager
+  - /blog/net-service-manager
 tags:
-- tools
-- wcf
+  - tools
+  - wcf
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 A while a go I create a [Service Manager](http://blog.hinshelwood.com/articles/Creating-a-managed-service-factory-Article.aspx). A way of wrapping local and remote services (widgets, bits, things) for use in any application within your business or just in your own code…
 
@@ -30,5 +28,3 @@ It is quite simple, but has a plethora of uses… One of the best is creating Cl
 { .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
-
-

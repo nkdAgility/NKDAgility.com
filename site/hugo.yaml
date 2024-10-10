@@ -12,8 +12,8 @@ params:
   description: "A brief description of your site"
   keywords: "keyword1, keyword2, keyword3"
   author: "Your Name"
-  og_image: "/images/og-image.jpg"  # URL to the default Open Graph image
-  twitter_handle: "@yourhandle"  # Your Twitter handle for Twitter cards
+  og_image: "/images/og-image.jpg" # URL to the default Open Graph image
+  twitter_handle: "@yourhandle" # Your Twitter handle for Twitter cards
 
 # Enable sitemap and robots.txt
 sitemap:
@@ -43,8 +43,19 @@ outputFormats:
     mediaType: "application/json"
     isPlainText: true
 
+taxonomies:
+  category: categories
+  tag: tags
+  course-topic: course-topics
+  course-vendor: course-vendors
 
 permalinks:
+  taxonomy:
+    course-topics: "/capabilities/training-courses/topics/"
+    course-vendors: "/capabilities/training-courses/vendors/"
+  term:
+    course-topics: "/capabilities/training-courses/:slug/"
+    course-vendors: "/capabilities/training-courses/:slug/"
   page:
     resources: /:sections/:slug/
     course: /:sections/:slug/
@@ -52,7 +63,7 @@ permalinks:
 markup:
   goldmark:
     renderer:
-      unsafe: true  # Allows raw HTML in Markdown
+      unsafe: true # Allows raw HTML in Markdown
     extensions:
       table: true
       linkify: true

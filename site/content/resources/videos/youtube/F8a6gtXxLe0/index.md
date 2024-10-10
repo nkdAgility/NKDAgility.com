@@ -4,7 +4,7 @@ date: 2017-07-27T19:14:11Z
 videoId: F8a6gtXxLe0
 url: /resources/videos/nkdagility-healthgrades-interview-dave-frisch
 canonicalUrl: https://www.youtube.com/watch?v=F8a6gtXxLe0
-coverImage: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/F8a6gtXxLe0/maxresdefault.jpg
 duration: 101
 isShort: False
 ---

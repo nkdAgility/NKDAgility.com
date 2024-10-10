@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45350"
 type: customers
 slug: hubtel-ghana
-coverImage: hubtelghana.png
-
+preview: hubtelghana.png
 ---
-
-
-
-
-
-

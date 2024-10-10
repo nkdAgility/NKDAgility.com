@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: can-the-definition-of-done-change-per-sprint
 aliases:
-- /blog/can-the-definition-of-done-change-per-sprint
+  - /blog/can-the-definition-of-done-change-per-sprint
 tags:
-- definition-of-done
+  - definition-of-done
 categories:
-- agility
-- code-and-complexity
-- devops
-- measure-and-learn
-- tools-and-techniques
-coverImage: 20190906_152025-2-2.gif
-
+  - agility
+  - code-and-complexity
+  - devops
+  - measure-and-learn
+  - tools-and-techniques
+preview: 20190906_152025-2-2.gif
 ---
-
 
 I was asked this question today and I think there is a clear answer, however it may change depending on the context of the question.
 
@@ -60,5 +58,3 @@ If we keep changing the goal posts how can:
 On a brownfield project that moves to Scrum, I would expect your DoD to start week, and not reflect releasable. Each Sprint Retrospective, your Scrum Team, should review your DoD and get it closer to releasable. As you make the changes, you will discover more technical debt, and it may take some time to pay it off. Keep improving until your definition of Done mirrors shippable. On a Greenfield project, you should always start with a definition of Done that mirrors shippable and have shippable product every Sprint, including the first one.
 
 There are no right answers, only things that you try to discover if they are right for your Team.
-
-

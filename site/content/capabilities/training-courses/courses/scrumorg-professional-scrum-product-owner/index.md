@@ -5,17 +5,23 @@ author: MrHinsh
 id: "41711"
 type: course
 slug: professional-scrum-product-owner-pspo-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-scrum-product-owner-pspo
-- professional-scrum-product-owner-pspo-training
-- professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - /training-courses/professional-scrum-product-owner-pspo
+  - /training-courses/professional-scrum-product-owner-pspo-training
+  - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
-- certification
-- product-owner
+  - certification
+  - product-owner
 categories:
-- agility
-coverImage: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
+  - agility
+preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
   button:
     content: ""
@@ -71,15 +77,10 @@ delivery:
      Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum Master (PSPO) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at https://ccrs.pmi.org.  Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
   brand:
     vendor: scrum-org
-    colour: '#749335'
+    colour: "#749335"
   code: PSPO
   courseIcon: PSPO-400x.png
-
 ---
-
-
-
-
 
 Welcome to the Professional Scrum Product Owner (PSPO) course. This transformative learning journey is designed specifically for Product Owners, Leaders, Entrepreneurs, and Managers eager to deeply understand and incorporate Scrum values and principles into their work. The course offers practical case studies and engaging exercises to ensure a hands-on learning experience.
 
@@ -110,7 +111,3 @@ This course aims to help participants:
 This course goes beyond a mere introduction to Agile Product Management; it's a comprehensive exploration of Scrum's potential to transform your product delivery approach, team dynamics, and overall organizational performance through empirical practices.
 
 Join the Professional Scrum Product Owner (PSPO) course and equip yourself with the knowledge, skills, and mindset needed to excel in Agile.
-
-
-
-

@@ -6,9 +6,9 @@ id: "48545"
 type: people
 slug: joanna-plaskonka-phd
 aliases:
-- joanna-plaskonka-ph-d
-- /company/people/joanna-plaskonka-phd/
-coverImage: 1651952183458.jpg
+  - joanna-plaskonka-ph-d
+  - /company/people/joanna-plaskonka-phd/
+preview: 1651952183458.jpg
 card:
   button:
     content: More info
@@ -17,11 +17,4 @@ card:
     <strong>Trainer &amp; Coach</strong>
 
     Agile Coach, Consultant, Professional Scrum Trainer (PST), Agile Kata Trainer, Action Learning Coach
-
 ---
-
-
-
-
-
-

@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45358"
 type: customers
 slug: washington-department-of-enterprise-services
-coverImage: Washington-Department-of-Enterprise-Services.jpg
-
+preview: Washington-Department-of-Enterprise-Services.jpg
 ---
-
-
-
-
-
-

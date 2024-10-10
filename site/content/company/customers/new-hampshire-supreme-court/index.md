@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45356"
 type: customers
 slug: new-hampshire-supreme-court
-coverImage: New-Hampshire-Supreme-Court.jpg
-
+preview: New-Hampshire-Supreme-Court.jpg
 ---
-
-
-
-
-
-

@@ -6,8 +6,8 @@ id: "44798"
 type: people
 slug: glaudia-califano
 aliases:
-- /company/people/glaudia-califano/
-coverImage: 0.png
+  - /company/people/glaudia-califano/
+preview: 0.png
 card:
   button:
     content: More info
@@ -16,11 +16,4 @@ card:
     <strong>Trainer &amp; Coach</strong>
 
     Passionate Change Leader Focused on Sustainable Customer Value ✪ Leader, Author, &amp; Speaker ✪ Scrum (PST) &amp; Kanban (PKT) Trainer
-
 ---
-
-
-
-
-
-

@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: whats-the-best-way-to-work-around-multiple-po
 aliases:
-- /blog/whats-the-best-way-to-work-around-multiple-po
+  - /blog/whats-the-best-way-to-work-around-multiple-po
 tags:
-- product-owner
+  - product-owner
 categories:
-- agility
-- people-and-process
-coverImage: 495173592-1-1.jpg
-
+  - agility
+  - people-and-process
+preview: 495173592-1-1.jpg
 ---
-
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -38,5 +36,3 @@ Find the right Product Owner, or select someone from your team to take that resp
 The industry average is that we spend 65% (Source: Standish Group) of our time working on the wrong feature. The Product Owners job is to minimise this figure. What does your CEO think is the cost of not having anyone at the helm?
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-
-

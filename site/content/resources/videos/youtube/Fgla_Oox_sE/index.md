@@ -4,7 +4,7 @@ date: 2023-12-15T07:00:05Z
 videoId: Fgla_Oox_sE
 url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-3
 canonicalUrl: https://www.youtube.com/watch?v=Fgla_Oox_sE
-coverImage: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Fgla_Oox_sE/maxresdefault.jpg
 duration: 227
 isShort: False
 ---
@@ -35,7 +35,7 @@ Insightful Content: Our channel offers a wealth of knowledge for product owners 
 Continuous Learning: Stay updated with our latest videos packed with expert advice and industry best practices.
 Community Interaction: Join a network of professionals sharing their experiences and learning from each other.
 
-🔗 Get Involved: Visit https://www.nkdagility.com 
+🔗 Get Involved: Visit https://www.nkdagility.com
 
 Struggling with stakeholder engagement or marketing your product effectively? Naked Agility is here to assist you or connect you with someone who can. Don't let these challenges limit your ability to deliver value. Reach out through the links in the description for support and guidance.
 

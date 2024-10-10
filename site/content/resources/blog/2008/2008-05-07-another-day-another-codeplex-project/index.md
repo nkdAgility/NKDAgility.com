@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: another-day-another-codeplex-project
 aliases:
-- /blog/another-day-another-codeplex-project
+  - /blog/another-day-another-codeplex-project
 tags:
-- moss2007
-- sharepoint
-- sp2007
+  - moss2007
+  - sharepoint
+  - sp2007
 categories:
-- me
-coverImage: metro-sharepoint-128-link-2-2.png
-
+  - me
+preview: metro-sharepoint-128-link-2-2.png
 ---
-
 
 I have been using the [Useful Sharepoint Designer Custom Workflow Activities](http://www.codeplex.com/SPDActivities/) project on [CodePlex](http://www.codeplex.com "CodePlex") to augment the capabilities of SharePoint Designer to add such features as "Start another workflow" which is very useful for compartmentalising your workflow so as to not make it too complicated.
 
@@ -29,5 +27,3 @@ Well I found a wee problem. The "**[Lookup user info](http://www.codeplex.com/SP
 This one Activity will alleviate my immediate need, but I can see many more in the future...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

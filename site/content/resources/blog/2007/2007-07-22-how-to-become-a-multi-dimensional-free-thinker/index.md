@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: how-to-become-a-multi-dimensional-free-thinker
 aliases:
-- /blog/how-to-become-a-multi-dimensional-free-thinker
+  - /blog/how-to-become-a-multi-dimensional-free-thinker
 tags:
-- dyslexia
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 All you have to do to become a multi-dimensional free thinker is to change the way you think of your dyslexia. The benefits of having dyslexia far outweigh the negatives: The concepts of multi-dimensional thinking are incredibly difficult to learn if you have not been born with the ability, and if you are dyslexic, you have.
 
@@ -28,5 +26,3 @@ Professions for such talented people include but is not limited to:
 engineers, architects, designers, artists and craftspeople, mathematicians, physicists, physicians (esp. surgeons and orthopedists), dentists, it professionals (esp. Software Development Engineers, Developer Evangelists and Software Architects).
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

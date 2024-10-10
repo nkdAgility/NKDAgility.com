@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: kaiden-and-the-arachnoid-cyst
 aliases:
-- /blog/kaiden-and-the-arachnoid-cyst
+  - /blog/kaiden-and-the-arachnoid-cyst
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.com/archive/2009/02/14/the-delivery-mk-ii.aspx) I posted pictures of him and his sister. Kaiden is now 15 months old and is progressing perfectly in every area except that we had been worried that he was not walking yet. We were only really concerned because his sister was walking at 8 months.
 
@@ -42,5 +40,3 @@ Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.c
 [Read more…](http://kaiden.hinshelwood.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

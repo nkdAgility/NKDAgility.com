@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: delivering-live-virtual-classes-in-microsoft-teams-and-mural
 aliases:
-- /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
+  - /blog/delivering-live-virtual-classes-in-microsoft-teams-and-mural
 categories:
-- agility
-coverImage: class-colage-2-8-8.jpg
-
+  - agility
+preview: class-colage-2-8-8.jpg
 ---
-
 
 With the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/), I have been delivering all of my [Professional Scrum classes](https://nkdagility.com/training/scrum-training/) and consulting online. I have tried many tools from Zoom and Webex to Miro and Word. The combination that I have found gives the most security, flexibility, and features are Microsoft Teams with Mural.
 
@@ -32,9 +30,9 @@ Both Virtual and In-Person Classrooms
 
 I have delivered six [training events in Team with Mural and 3 in Zoom with Mural](https://nkdagility.com/training/course-schedule/?training-scope=Private&wpv_aux_current_post_id=10752&wpv_view_count=44353-TCPID10752). Something that I, and the [other trainers that I work with](https://nkdagility.com/training/trainers/), have found is that to grease the facilitation wheels it is a good idea to make sure that the start of the class is not the first time the students have seen the technology within which you are running the course. To that end, I always now run a Tech Check the week before the class. This services several purposes:
 
-- **Connection Issues** - If you have 20 students, you can lose a lot of time to these issues and frustrate the other students.  
+- **Connection Issues** - If you have 20 students, you can lose a lot of time to these issues and frustrate the other students.
 
-- **General familiarisation** \- It surprising up much time is lost to fumbling on the first day when students can find the most basic of options.  
+- **General familiarisation** \- It surprising up much time is lost to fumbling on the first day when students can find the most basic of options.
 
 - **Setting expectations** - We can use a little bit of time to set the expectations that we, as trainers have of the students—pre-Reading, Engagement, & participation.
 
@@ -138,7 +136,7 @@ I prefer to have students create a Channel for each of the Teams that they forme
 - **Files** \- While you can add Box, DropBox, Google Files, or any other platform files as a Tab out-of-the-box Teams uses OneDrive and gives you significant storage just for this team.  
    ![](images/image-10-9-9.png)  
   { .post-img }
-  You can add a tab for any of the known platforms.  
+  You can add a tab for any of the known platforms.
 
 - **Tabs** - You can add many different types of tabs to help students out, you can see above that I add at least the link to Mural, Scrum Guide, and the Scrum Open. Below you can see a list of a few of the available apps. There are tabs, bots, and integrations.  
    ![](images/image-11-10-10.png)  
@@ -210,20 +208,17 @@ The sample above is the output of a 5-minute working agreement exercise with abo
 ## Answering Some Commonly Raised Issues
 
 - **Do I require an Account to join a Meeting in Teams?**
-  **NO.** To [join a meeting,](https://support.microsoft.com/en-gb/office/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4) your students do not need to authenticate and can join anonymously, just like Zoom. However, Anonymous users do not get to see Channels, Teams, Files, or Apps. They only get to participate in a meeting. I use this as a backup link for students that are having difficulty so that they can always join, and then I sort out whatever issue with them in the first break or activity.  
+  **NO.** To [join a meeting,](https://support.microsoft.com/en-gb/office/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4) your students do not need to authenticate and can join anonymously, just like Zoom. However, Anonymous users do not get to see Channels, Teams, Files, or Apps. They only get to participate in a meeting. I use this as a backup link for students that are having difficulty so that they can always join, and then I sort out whatever issue with them in the first break or activity.
 
 - **Do I require a Microsoft Account to Authenticate**?
   **NO.** Previously there was some resistance from the trainer community for Microsoft Teams that mostly revolved around authentication. In the past, someone entering a Team (not a meeting) has to authenticate with either a Microsoft Account or an Azure AD account. If they did not have one, they had to create a Microsoft Account from their invited email. This is no longer the case; as well as adding [Google identity federation](https://docs.microsoft.com/en-gb/azure/active-directory/b2b/google-federation), Microsoft has also added [One-Time passcode authentication](https://docs.microsoft.com/en-gb/azure/active-directory/b2b/one-time-passcode) for signing in.
-  When you try to sign-in to a Team with an email that is not Azure AD, MSA, or Google, then you are emailed a code to enter without one. Simple, Secure, and alleviates that need to create a Microsoft Account.  
+  When you try to sign-in to a Team with an email that is not Azure AD, MSA, or Google, then you are emailed a code to enter without one. Simple, Secure, and alleviates that need to create a Microsoft Account.
 
 - **Do I need to wait 48h when setting up Teams?**
-  For now, **yes**. When you first set up your Azure AD and your Office 365 account it has Guests (how students join) disabled by default. This is for your security and safety. When you [enable Guest access](https://docs.microsoft.com/en-us/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide), it can take up to 48h for it to be active. This is a COVID load issue and was not present before. In any case, I do not recommend trying to set up Teams for Scrum Training the day before your class. There is some amount of work in getting all of the things lined up so that it is a smooth and seamless experience for your students. Take your time, and send me an email if you need help! Once it is set up, it rocks.  
-
+  For now, **yes**. When you first set up your Azure AD and your Office 365 account it has Guests (how students join) disabled by default. This is for your security and safety. When you [enable Guest access](https://docs.microsoft.com/en-us/microsoft-365/solutions/collaborate-as-team?view=o365-worldwide), it can take up to 48h for it to be active. This is a COVID load issue and was not present before. In any case, I do not recommend trying to set up Teams for Scrum Training the day before your class. There is some amount of work in getting all of the things lined up so that it is a smooth and seamless experience for your students. Take your time, and send me an email if you need help! Once it is set up, it rocks.
 
 ## Conclusion: Microsoft Teams & Mural
 
 I firmly believe that Microsoft Teams, or another similar platform, provides the highest level of interaction and allows for self-organisation that may other platforms do not.
 
 With the ability to provide many different services on the same platform and have students maintain that access over time, I think it wins out over one-time single-shot platforms like Zoom or Webex. In addition, I have a [Scrum Community Team](https://teams.microsoft.com/l/team/19%3a8dbf90ce1aa94d2e92bd6b20df543e03%40thread.skype/conversations?groupId=2e62b46e-194a-4733-a206-603a18bf95f8&tenantId=686c55d4-ab81-4a17-9eef-6472a5633fab) that gives all of my students access to each other as well as some extra goodies. This collaboration and access is the icing on the cake. I have seen other trainers do the same with Slack as an after-class collaboration, but I have not heard of anyone using it to facilitate a class, although I am sure it is possible.
-
-

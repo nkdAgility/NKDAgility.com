@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
-- /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+  - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 tags:
-- nwcadence
-- tools
+  - nwcadence
+  - tools
 categories:
-- events-and-presentations
-coverImage: metro-nwc-128-link-3-3.png
-
+  - events-and-presentations
+preview: metro-nwc-128-link-3-3.png
 ---
-
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")Northwest Cadence has decided that while online events are good, nothing beats in-person. If you’re in the area and available, we would love to have you attend our inaugural event at the Microsoft Store in Bellevue in a few weeks!
 { .post-img }
@@ -67,5 +65,3 @@ We are starting with the Coffee Talks, and did I say… they are early! You can 
 > **Questions\*\***?\*\* Email [Amanda.Jaworski@nwcadence.com](mailto:Amanda.Jaworski@nwcadence.com)
 
 I look forward to helping _Caffeinate Your Development Lifecycle_ on October 13th! I am hoping to actually be there myself along with [Cheryl Hammond](http://blog.bsktcase.com/) & [Steven Borg](http://blog.nwcadence.com/author/stevenborg/) who will actually be presenting.
-
-

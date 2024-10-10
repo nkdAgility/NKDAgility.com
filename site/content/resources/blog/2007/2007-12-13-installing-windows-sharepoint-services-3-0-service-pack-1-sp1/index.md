@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 aliases:
-- /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
+  - /blog/installing-windows-sharepoint-services-3-0-service-pack-1-sp1
 tags:
-- configuration
-- infrastructure
-- sharepoint
-- sp2007
-- tools
+  - configuration
+  - infrastructure
+  - sharepoint
+  - sp2007
+  - tools
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
-coverImage: metro-sharepoint-128-link-6-6.png
-
+  - code-and-complexity
+  - upgrade-and-maintenance
+preview: metro-sharepoint-128-link-6-6.png
 ---
-
 
 - wssv3sp1-kb936988-x86-fullfile-en-us.exe
 
@@ -58,5 +56,3 @@ UPDATE:
 Check out [this post](http://blog.hinshelwood.com/archive/2007/12/31/sharepoint-3.0-and-moss-2007-service-pack-1-update.aspx "Click To View Entry") for a solution that fixed my problems...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

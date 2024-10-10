@@ -1,0 +1,15 @@
+{{ $site := .site }}
+{{ $context := .context }}
+<!-- Courses specific rendering -->
+<div class="row">
+  {{ range $taxonomyName, $terms := .site.Taxonomies }}
+    {{ if eq $taxonomyName $context.source }}
+      <!-- Do something specific for tags -->
+      {{ range $terms.ByCount }}
+        <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+          {{ partial "sections-taxonomies-card.html" (dict "site" $site "context" .) }}
+        </div>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</div>

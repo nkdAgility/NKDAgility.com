@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: quality-enablement-with-visual-studio-2012
 aliases:
-- /blog/quality-enablement-with-visual-studio-2012
+  - /blog/quality-enablement-with-visual-studio-2012
 tags:
-- continious
-- develop
-- improve
-- practices
-- quality-enablement
-- strategic
-- tools
+  - continious
+  - develop
+  - improve
+  - practices
+  - quality-enablement
+  - strategic
+  - tools
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-18-18.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-18-18.png
 ---
-
 
 In the modern application lifecycle one of the key messages is one of quality enablement. Quality will be the key differentiator between you and your competitors over the next few years and the old excuses are just that… old.
 
@@ -222,5 +220,3 @@ For each hat that your users may wear that equates to roles there are separate t
 With these continuous quality practices, coupled with tools that are tailored for each role we are able to more easily and effectively achieve continuous value delivery at least every 30 days.
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/quality-enablement-with-microsoft-visual-studio-2012/))_
-
-

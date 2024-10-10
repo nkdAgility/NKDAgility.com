@@ -6,8 +6,8 @@ id: "46982"
 type: people
 slug: ana-pujana-jimenez
 aliases:
-- /company/people/ana-pujana-jimenez/
-coverImage: Ana.jpg
+  - /company/people/ana-pujana-jimenez/
+preview: Ana.jpg
 card:
   button:
     content: More info
@@ -16,11 +16,4 @@ card:
     <strong>Associate Coach</strong>
 
     Maximising Agile Practices for Software Products ✪ Acclaimed Agile Expert, Trainer, &amp; Speaker with 10+ yrs in IT Industry ✪ Scrum (PSM, PSPO) &amp; Kanban Advocate ✪ Product Management Specialist ✪ Continuous Improvement Enthusiast
-
 ---
-
-
-
-
-
-

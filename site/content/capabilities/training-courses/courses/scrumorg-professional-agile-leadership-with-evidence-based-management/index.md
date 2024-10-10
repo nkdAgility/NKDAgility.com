@@ -5,17 +5,23 @@ author: MrHinsh
 id: "46220"
 type: course
 slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-agile-leadership-with-evidence-based-management-training-with-certification
-- professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
-- /training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
+  - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
+  - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
-- certification
-- evidence-based-management
+  - certification
+  - evidence-based-management
 categories:
-- agility
-- measure-and-learn
-coverImage: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
+  - agility
+  - measure-and-learn
+preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 card:
   button:
     content: ""
@@ -62,15 +68,10 @@ delivery:
   certification: All participants completing this course will receive a password to attempt the Professional Agile Leadership - Evidence Based Management (PAL-EBM) assessment. The industry-recognized PAL-EBM certification requires a minimum passing score of 85%. PAL-EBM class participants who attempt the PAL-EBM assessment within 14 days of receiving their free password and do not score at least 85% will be granted a 2nd attempt at no additional cost.
   brand:
     vendor: scrum-org
-    colour: '#097151'
+    colour: "#097151"
   code: PAL-EBM
   courseIcon: Scrumorg-Course-PALEBM-400x.png
-
 ---
-
-
-
-
 
 [Professional Agile Leadership with Evidence-Based Management (PAL-EBM)](https://nkdagility.com/training/courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification/) training experience uses a unique blend of **self-paced** learning, **live classroom** hands-on activity-based exercises, and **community-based** aftercare. With markets and customer needs constantly changing, organizations need information and evidence that helps them adapt quickly to new challenges and opportunities so that they can deliver greater value and achieve true business agility.The course goes beyond the topics explored in the [Professional Agile Leadership Essentials](https://nkdagility.com/training/courses/professional-agile-leadership-essentials-pal-e-training-experience-with-certification-helping-leaders-understand-their-role-in-enabling-agile-transformation/)  & [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) classes and deepens participants’ understanding by introducing the four key-value areas and a number of suggested key-value metrics that can help leaders guide their teams toward continuously improving customer outcomes, organizational capabilities, and business results. EBM focuses on customer value and intentional experimentation to systematically improve an organization’s performance and achieve its strategic goals.Students should already have at least one year of product development experience and practical knowledge of Scrum to participate in and benefit from these exercises. Having previously taken the PAL class is recommended but not required.
 
@@ -78,7 +79,3 @@ delivery:
 - Session 2: **Key-value Areas & Key-value Metrics**
 
 Each session includes STARTUP activities before and WRAPUP activities to be completed after each session. Before, during, and after the class, students can interact with other students and thought leaders in our Lean-Agile Community.The course also includes a free attempt at the globally recognised Professional Agile Leadership - Evidence-Based Management (PAL-EBM) certification exam.
-
-
-
-

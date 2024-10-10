@@ -4,7 +4,7 @@ date: 2020-05-02T16:34:05Z
 videoId: _bjNHN4PI9s
 url: /resources/videos/ep-007-running-a-live-virtual-classroom
 canonicalUrl: https://www.youtube.com/watch?v=_bjNHN4PI9s
-coverImage: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_bjNHN4PI9s/maxresdefault.jpg
 duration: 1496
 isShort: False
 ---

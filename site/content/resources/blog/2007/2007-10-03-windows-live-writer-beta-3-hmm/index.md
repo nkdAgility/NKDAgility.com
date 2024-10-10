@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: windows-live-writer-beta-3-hmm
 aliases:
-- /blog/windows-live-writer-beta-3-hmm
+  - /blog/windows-live-writer-beta-3-hmm
 tags:
-- live
+  - live
 categories:
-- products-and-books
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I submitted a trouble ticket about my previous [post](http://blog.hinshelwood.com/archive/2007/10/02/Windows-Live-Writer-Beta-3.aspx) on [http://support.live.com](http://support.live.com) and got a prompt reply from Microsoft support giving me some directions for cleaning up beta bits of my system, and a URL for a direct download:
 
@@ -36,5 +34,3 @@ UPDATE:
 But not Beta 3: dough!
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-

@@ -6,13 +6,6 @@ id: "45381"
 type: customers
 slug: jack-links
 tags:
-- homepage
-coverImage: Jack_links_logo.png
-
+  - homepage
+preview: Jack_links_logo.png
 ---
-
-
-
-
-
-

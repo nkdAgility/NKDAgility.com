@@ -4,7 +4,7 @@ date: 2024-01-10T07:00:11Z
 videoId: EoInrPvjBHo
 url: /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 canonicalUrl: https://www.youtube.com/watch?v=EoInrPvjBHo
-coverImage: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 isShort: False
 ---
@@ -18,7 +18,6 @@ Unlocking Agile Success: Evading the Pitfalls of Rigid Product Ownership - Disco
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
 In this video, Martin tackles the critical issue of inflexible product ownership in Agile environments. 🚀 He shares a personal anecdote about a product owner who was overly fixated on detailed plans and Gantt charts, mistaking these tools for the essence of success. 📊 Martin argues that the true essence of Agile lies in vision, value, and validation, not in rigid task management. 🌟 He emphasizes the importance of enabling teams to be engaged and happy, as this leads to the creation of great products. 👥 Martin's insights provide valuable lessons on avoiding 'Agile Banditry' and fostering a productive, motivated Agile team.
-
 
 Key Takeaways:
 00:00:00 Introduction to Agile Challenges

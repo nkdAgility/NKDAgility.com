@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: an-adoption-strategy-for-testing-with-visual-studio-2010
 aliases:
-- /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
+  - /blog/an-adoption-strategy-for-testing-with-visual-studio-2010
 tags:
-- mtm
-- nwcadence
-- practices
-- tfs
-- tfs2010
+  - mtm
+  - nwcadence
+  - practices
+  - tfs
+  - tfs2010
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-3-3.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
-
 
 Its hard for developers to work with testers and its hard for testers to work with developers. There are many tools out there to help teams break down those barriers between them and I really like both the features and workflow of Microsoft Test Manager (MTM). While I am not a tester, I am a developer and the rich bugs that are produced by MTM help me reproduce that evasive bug and improves my relationship with what should be my teammates.
 
@@ -55,5 +53,3 @@ So if you are looking for an adoption strategy for Microsoft Test Manager then:
 3. **Training:** [**Professional Scrum Developer**](http://nwcadence.com/PSDTraining)  
    Although we don’t have any public PSD’s scheduled, which is why you will not find it on our site, we do provide it as part of private engagements.
 4. **Start building awesome software…**
-
-

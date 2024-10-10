@@ -4,7 +4,7 @@ date: 2022-07-27T18:45:17Z
 videoId: 5ZRMBfV9zpI
 url: /resources/videos/professional-scrum-master-(psm)-training-class-from-naked-agility-with-martin-hinshelwood-[mktng]
 canonicalUrl: https://www.youtube.com/watch?v=5ZRMBfV9zpI
-coverImage: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5ZRMBfV9zpI/maxresdefault.jpg
 duration: 74
 isShort: False
 ---

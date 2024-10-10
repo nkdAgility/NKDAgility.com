@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: team-build-error
 aliases:
-- /blog/team-build-error
+  - /blog/team-build-error
 tags:
-- aggreko
-- tfs-build
-- tools
-- visual-studio
-- vs2005
-coverImage: metro-visual-studio-2005-128-link-3-1.png
-
+  - aggreko
+  - tfs-build
+  - tools
+  - visual-studio
+  - vs2005
+preview: metro-visual-studio-2005-128-link-3-1.png
 ---
-
 
 I received a confusing error from MS Build on Friday. I assumed that it was a GDR version issue for the top level message:
 
@@ -49,5 +47,3 @@ Sources:
 [http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/](http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/ "http://ozgrant.com/2008/02/28/testcontainer-in-team-build-2008-doesnt-work-for-load-tests-or-web-tests/")
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-

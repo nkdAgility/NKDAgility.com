@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: mvvm-for-dummies
 aliases:
-- /blog/mvvm-for-dummies
+  - /blog/mvvm-for-dummies
 tags:
-- code
-- mvvm
-- silverlight
-- ssw
-- tools
-- wpf
+  - code
+  - mvvm
+  - silverlight
+  - ssw
+  - tools
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I think that I have found one of the best articles on MVVM that I have ever read:
 
@@ -85,5 +83,3 @@ End Class
 **Figure: This is a compromise, but the best you can do without Dependency Injection**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM)
-
-

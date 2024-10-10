@@ -4,7 +4,7 @@ date: 2024-08-14T07:04:17Z
 videoId: V44iUwv0Jcg
 url: /resources/videos/continuous-improvement-with-kanban
 canonicalUrl: https://www.youtube.com/watch?v=V44iUwv0Jcg
-coverImage: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/V44iUwv0Jcg/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

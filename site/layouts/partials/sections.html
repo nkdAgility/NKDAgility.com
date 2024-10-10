@@ -12,8 +12,14 @@
           {{ partial "sections-features.html" . }}
         {{ else if eq $section.type "courses" }}
           {{ partial "sections-courses.html" (dict "site" $site "context" .) }}
+        {{ else if eq $section.type "taxonomies" }}
+          {{ partial "sections-taxonomies.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "videos" }}
           {{ partial "sections-videos.html" (dict "site" $site "context" .) }}
+        {{ else if eq $section.type "cards" }}
+          {{ partial "sections-cards.html" (dict "site" $site "context" .) }}
+        {{ else if eq $section.type "counters" }}
+          {{ partial "sections-counters.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "none" }}
         {{ else }}
           <!-- Default rendering for other types if needed -->

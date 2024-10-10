@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: what-is-dyslexia
 aliases:
-- /blog/what-is-dyslexia
+  - /blog/what-is-dyslexia
 tags:
-- dyslexia
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") is many thing to many people, but it always involves reading. Some people are heavily dyslexic to the point where the are unable to function at all in normal schooling. Many people think of [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") as a disability, but the only time I think of it that way is if I can get something:
 
@@ -33,5 +31,3 @@ Despite this I can actually read very fast, around a hundred pages in an hour of
 This is how dyslexic people see the words that are written on the page, and why they are so poor at spelling.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

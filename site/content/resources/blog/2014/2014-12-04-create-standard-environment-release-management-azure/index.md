@@ -7,25 +7,23 @@ layout: blog
 resourceType: blog
 slug: create-standard-environment-release-management-azure
 aliases:
-- /blog/create-standard-environment-release-management-azure
+  - /blog/create-standard-environment-release-management-azure
 tags:
-- application-insights
-- azure
-- cloud-service
-- continious-value-delivery
-- iaas
-- release-management
-- resource-group
-- standard-environments
-- virtual-network
-- vsteamservices
+  - application-insights
+  - azure
+  - cloud-service
+  - continious-value-delivery
+  - iaas
+  - release-management
+  - resource-group
+  - standard-environments
+  - virtual-network
+  - vsteamservices
 categories:
-- install-and-configuration
-- tools-and-techniques
-coverImage: nakedalm-windows-logo-16-16.png
-
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-windows-logo-16-16.png
 ---
-
 
 Next week I will be [speaking at NDC London 2014](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I have been working on my demo. Since Connect() everything for a little bit easier and I need to create an environment for Release Management for Visual Studio 2013.
 
@@ -127,5 +125,3 @@ This environment contains:
 - **Application Insights (nkd-ff-f2-AI)** - Collects the application analytics that we will push into our application. If you are deploying multiple applications on the same hardware you may want to separate the data.
 
 Next time I will be deploying an application to this environment that we created.
-
-

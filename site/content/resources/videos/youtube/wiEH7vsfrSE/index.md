@@ -4,7 +4,7 @@ date: 2024-07-04T06:45:04Z
 videoId: wiEH7vsfrSE
 url: /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
 canonicalUrl: https://www.youtube.com/watch?v=wiEH7vsfrSE
-coverImage: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/wiEH7vsfrSE/maxresdefault.jpg
 duration: 1046
 isShort: False
 ---

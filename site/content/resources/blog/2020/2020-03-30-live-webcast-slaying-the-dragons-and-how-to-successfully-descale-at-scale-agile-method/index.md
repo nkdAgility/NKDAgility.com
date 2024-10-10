@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliases:
-- /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
+  - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 tags:
-- agile
-- live-webcast
-- scaled-agile
-- scaled-professional-scrum
+  - agile
+  - live-webcast
+  - scaled-agile
+  - scaled-professional-scrum
 categories:
-- agility
-coverImage: 2020-03-27_21-36-13-1-1.jpg
-
+  - agility
+preview: 2020-03-27_21-36-13-1-1.jpg
 ---
-
 
 Many organisations don't really want to change how they do business and believe that they can continue in the way they always have while still getting better at delivering software.
 
@@ -33,5 +31,3 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
-
-

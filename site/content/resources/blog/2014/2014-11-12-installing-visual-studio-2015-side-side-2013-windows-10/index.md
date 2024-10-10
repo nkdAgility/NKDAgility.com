@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: installing-visual-studio-2015-side-side-2013-windows-10
 aliases:
-- /blog/installing-visual-studio-2015-side-side-2013-windows-10
+  - /blog/installing-visual-studio-2015-side-side-2013-windows-10
 tags:
-- android
-- cross-platform
-- visual-studio-2013
-- visual-studio-2015
-- windows-10
+  - android
+  - cross-platform
+  - visual-studio-2013
+  - visual-studio-2015
+  - windows-10
 categories:
-- install-and-configuration
-- news-and-reviews
-- products-and-books
-coverImage: nakedalm-experts-visual-studio-alm-8-8.png
-
+  - install-and-configuration
+  - news-and-reviews
+  - products-and-books
+preview: nakedalm-experts-visual-studio-alm-8-8.png
 ---
-
 
 You know that I like nothing better than taking a few risks and I have been very happy in the past running MSFT preview bits on bare metal. As Microsoft has just announced Visual Studio 2015 Ultimate Preview I need to be running it on my local computer for demos.
 
@@ -86,5 +84,3 @@ Awesome. I now have both Visual Studio 2013 and Visual Studio 2015 installed sid
 - [Download Visual Studio 2015 Preview](http://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs)
 
 Its presents from Microsoft time. Go on be a kid again and install Visual Studio 2015.
-
-

@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: developer-vindication
 aliases:
-- /blog/developer-vindication
+  - /blog/developer-vindication
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...
 
@@ -28,5 +26,3 @@ As I understand it, I would require a [H1B](http://en.wikipedia.org/wiki/H1B_vis
 I am not giving up on this, but there are few other options...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

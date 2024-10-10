@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
-- /blog/how-do-you-handle-conflict-in-a-scrum-team
+  - /blog/how-do-you-handle-conflict-in-a-scrum-team
 tags:
-- scrum-master
+  - scrum-master
 categories:
-- agility
-- people-and-process
-coverImage: 1061204442-1-1.jpg
-
+  - agility
+  - people-and-process
+preview: 1061204442-1-1.jpg
 ---
-
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -43,5 +41,3 @@ If after all of those avenues have been exhausted then maybe the Team Member is 
 There is nothing wrong with not being a good fit for a team. A team is a group of people, and people don’t always get along and no matters how much you focus on professionalism; there are always individuals that should not be in the same circles. Maybe you need to look for a way to place that person elsewhere in an environment that more suits their personality.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
-
-

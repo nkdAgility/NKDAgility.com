@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: creating-a-custom-proxy-class
 aliases:
-- /blog/creating-a-custom-proxy-class
+  - /blog/creating-a-custom-proxy-class
 tags:
-- code
-- service-oriented-architecture
-- tools
+  - code
+  - service-oriented-architecture
+  - tools
 categories:
-- code-and-complexity
-- me
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 Instead of using the proxy generation features of Visual Studio you can create a custom proxy in .NET 3.0 to handle all of your needs in a more maintainable manor and with less code. This method works best when you have access to the interfaces that created the service.
 
@@ -62,5 +60,3 @@ Because your classes implements the service's interface when that interface chan
 This particular class is a duplex proxy, so communication can go both ways. You can download the source code for this from [here](http://www.codeplex.com/TFSEventHandler/SourceControl/DownloadSourceCode.aspx?changeSetId=8644).
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
-
-

@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: error-creating-listener-in-team-build
 aliases:
-- /blog/error-creating-listener-in-team-build
+  - /blog/error-creating-listener-in-team-build
 tags:
-- tools
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 If, like me you are trying to run tests against your web services and you the error below, you will need to give permission to the service account that runs your Build Agent to create listeners in IIS.
 
@@ -24,5 +22,3 @@ I first tried giving the service account administrator rights, and this did not 
 Happy now…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-

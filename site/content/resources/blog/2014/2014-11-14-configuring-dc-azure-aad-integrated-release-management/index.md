@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: configuring-dc-azure-aad-integrated-release-management
 aliases:
-- /blog/configuring-dc-azure-aad-integrated-release-management
+  - /blog/configuring-dc-azure-aad-integrated-release-management
 tags:
-- active-directory
-- azure
-- azure-active-directory
-- release-management
-- release-management-server
+  - active-directory
+  - azure
+  - azure-active-directory
+  - release-management
+  - release-management-server
 categories:
-- install-and-configuration
-coverImage: nakedalm-windows-logo-22-22.png
-
+  - install-and-configuration
+preview: nakedalm-windows-logo-22-22.png
 ---
-
 
 I will be [speaking at NDC London: Second Look, Team Foundation Server & VSO](http://nkdagility.com/ndc-london-second-look-team-foundation-server-vso/) and I am planning to be a little adventurous with the demo. For this I will be configuring a DC in Azure for AAD integrated Release Management so that I can do cloud demos.
 
@@ -171,5 +169,3 @@ Now that you have completed the install you can drop the server down to the A0 m
 { .post-img }
 
 We effectively drop down to 11p per day for the server. I am sure that if we started hitting it with loads of domain joined machines then I expect the price to go up, however this minimalist cost can be easily supported with your MSDN benefits…
-
-

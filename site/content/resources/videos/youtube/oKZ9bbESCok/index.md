@@ -4,7 +4,7 @@ date: 2024-01-05T07:00:28Z
 videoId: oKZ9bbESCok
 url: /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
 canonicalUrl: https://www.youtube.com/watch?v=oKZ9bbESCok
-coverImage: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/oKZ9bbESCok/maxresdefault.jpg
 duration: 411
 isShort: False
 ---

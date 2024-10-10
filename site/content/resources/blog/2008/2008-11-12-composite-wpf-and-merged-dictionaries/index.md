@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: composite-wpf-and-merged-dictionaries
 aliases:
-- /blog/composite-wpf-and-merged-dictionaries
+  - /blog/composite-wpf-and-merged-dictionaries
 tags:
-- code
-- tfs-sticky-buddy
-- tools
-- wpf
-- xaml
+  - code
+  - tfs-sticky-buddy
+  - tools
+  - wpf
+  - xaml
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-2-2.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
-
 
 If, like me, you like to have changeable resource files in your application. Wither it is for changing the Theme, or interchanging templates you will need to take special care when using the
 
@@ -47,8 +45,6 @@ I am using the built in Infragistics theme system, and the first time you select
 ```
    4: End If
 ```
-
-
 
 This causes an error in the ItemsControlRegionAdapter as WPF seams to redo the region adapters and you get a ItemsControlHasItemsSourceException. You need to change the code to the following (notice the commented out areas):
 
@@ -144,8 +140,6 @@ This causes an error in the ItemsControlRegionAdapter as WPF seams to redo the r
   23: }
 ```
 
-
-
 You will notice that I had to comment out the exception for existing controls as well as the Items.Clear (which is replaced by setting the ItemsSource to nothing). This solves the problem I I have not noticed any adverse reactions.
 
 The second problem occurs when you do you second set of the theme. at this point you need to remove the existing theme:
@@ -161,8 +155,6 @@ The second problem occurs when you do you second set of the theme. at this point
 ```
    3: End If
 ```
-
-
 
 When this happens the region management is redone and you get a further RegionNameExistsException from the RegionManager. Then can be solved by changing the code in the AttachNewRegion method:
 
@@ -230,12 +222,6 @@ When this happens the region management is redone and you get a further RegionNa
   16: }
 ```
 
-
-
 So instead of bombing out when you try to add a region of the same name, it will just ignore it. Not ideal, but necessary.
 
-
-
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
-
-

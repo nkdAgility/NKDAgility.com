@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: woops-i-installed-windows-8-instead-of-windows-8-pro
 aliases:
-- /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+  - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
 tags:
-- tools
-- win8
-- windows
-coverImage: nakedalm-windows-logo-7-7.png
-
+  - tools
+  - win8
+  - windows
+preview: nakedalm-windows-logo-7-7.png
 ---
-
 
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.
 
@@ -71,5 +69,3 @@ I was quite happy not to have to reinstall, but you can choose what you want to 
 **Did you install the wrong version of Windows?**
 
 **How easy was it for you to fix it?**
-
-

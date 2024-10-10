@@ -1,5 +1,5 @@
 ---
-title: 'Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo'
+title: "Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo"
 date: 2009-12-07
 author: MrHinsh
 id: "76"
@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliases:
-- /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
+  - /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 tags:
-- office
-- ssw
-- tools
-coverImage: metro-office-128-link-7-7.png
-
+  - office
+  - ssw
+  - tools
+preview: metro-office-128-link-7-7.png
 ---
-
 
 At SSW we are extensive users of Dynamics CRM. I wanted to give Office 2010 a go, but I had to make sure that the Dynamics CRM plug-in, and my other plug-ins worked.
 
@@ -81,5 +79,3 @@ Please can you:
    { .post-img }
 
 Technorati Tags: [Office](http://technorati.com/tags/Office) [ALM](http://technorati.com/tags/ALM) [CRM](http://technorati.com/tags/CRM) [SSW](http://technorati.com/tags/SSW)
-
-

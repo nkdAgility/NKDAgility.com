@@ -1,0 +1,31 @@
+<!-- layouts/partials/card.html -->
+{{ $context := .context }}
+<div class="p-2">
+  <div class="card sectioncards flex-fill m-3 shadow text-start flex-fill small border-0 h-100 position-relative">
+    <div class="card-body p-4 px-20">
+      <h3 class="ttl-nkdagility h5 text-start" title="{{ $context.Page.Title }}">{{ $context.Page.Title }}</h3>
+      <div class="card-text text-muted">
+        {{ .content | markdownify }}
+      </div>
+    </div>
+    <ul class="list-group list-group-flush">
+      {{ range $item := first 5 (.context.Pages.ByWeight) }}
+        <li class="list-group-item d-flex align-items-center">
+          {{ if $item.Params.delivery.courseIcon }}
+            {{ $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.delivery.courseIcon) }}
+            {{ if $courseIcon }}
+              {{ $resized := $courseIcon.Fit "25x25 webp" }}
+              <img class="shadowfilter me-2" src="{{ $resized.RelPermalink }}" alt="{{ $item.Params.Title }}" />
+            {{ end }}
+          {{ end }}
+          <a href="{{ $item.Permalink }}" class="text-decoration-none">{{ $item.Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+    {{ if $context.Page.RelPermalink }}
+      <div class="card-footer border-transparent bg-white p-3 text-end border-0">
+        <a href="{{ $context.Page.RelPermalink }}" class="btn btn-nkdagility p-2" title="More information on {{ $context.Page.Title }}">See all courses <i class="fa-solid fa-arrow-right"></i></a>
+      </div>
+    {{ end }}
+  </div>
+</div>

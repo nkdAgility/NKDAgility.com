@@ -4,7 +4,7 @@ date: 2024-06-24T06:48:02Z
 videoId: BFDB04_JIhg
 url: /resources/videos/introduction-to-kanban
 canonicalUrl: https://www.youtube.com/watch?v=BFDB04_JIhg
-coverImage: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/BFDB04_JIhg/maxresdefault.jpg
 duration: 37
 isShort: True
 ---

@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: team-system-web-access-finally-released
 aliases:
-- /blog/team-system-web-access-finally-released
+  - /blog/team-system-web-access-finally-released
 tags:
-- tfs
-- tfs2005
-coverImage: metro-visual-studio-2005-128-link-3-3.png
-
+  - tfs
+  - tfs2005
+preview: metro-visual-studio-2005-128-link-3-3.png
 ---
-
 
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.
 
@@ -37,5 +35,3 @@ I use my [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team F
 I think that this form of access will not become popular until an Enterprise version of TFS is released and business users can access without a CAL.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

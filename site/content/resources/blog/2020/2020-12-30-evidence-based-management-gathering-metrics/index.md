@@ -1,5 +1,5 @@
 ---
-title: 'Evidence-based Management: Gathering the metrics'
+title: "Evidence-based Management: Gathering the metrics"
 date: 2020-12-30
 author: MrHinsh
 id: "10528"
@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: evidence-based-management-gathering-metrics
 aliases:
-- /blog/evidence-based-management-gathering-metrics
+  - /blog/evidence-based-management-gathering-metrics
 tags:
-- ebmgt
-- evidence
-- evidence-based-management
-- featured
-- leadership-track
-- merics
+  - ebmgt
+  - evidence
+  - evidence-based-management
+  - featured
+  - leadership-track
+  - merics
 categories:
-- measure-and-learn
-- people-and-process
-coverImage: naked-agility-evidence-based-management-1-1.jpg
-
+  - measure-and-learn
+  - people-and-process
+preview: naked-agility-evidence-based-management-1-1.jpg
 ---
-
 
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.
 
@@ -100,5 +98,3 @@ Scrum.org suggests aggregating these into one, easy to track metric – the Agil
 ## Conclusion
 
 For the first time we can now, as consultants, monitor the improvements we are making in organisations. Even better, organisations can use these metrics to demonstrate the value that their investments in agility with training and consulting are bringing them. This is a fabulous step forward in our understanding of software delivery. An easy, simple way of measuring our progress towards process improvement.
-
-

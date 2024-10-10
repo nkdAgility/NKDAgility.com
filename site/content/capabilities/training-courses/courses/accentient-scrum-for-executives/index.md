@@ -6,10 +6,15 @@ id: "44726"
 type: course
 slug: scrum-for-executives-training
 aliases:
-- scrum-for-executives
-- /training-courses/scrum-for-executives-training/
+  - /training-courses/scrum-for-executives
+  - /training-courses/scrum-for-executives-training/
+  - /capabilities/training-courses/accentient/scrum-for-executives
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Accentient
 categories:
-- agility
+  - agility
 card:
   button:
     content: ""
@@ -54,18 +59,9 @@ delivery:
   certification: ""
   brand:
     vendor: accentient
-    colour: 
+    colour:
   code: S4E
   courseIcon: A-S4E.png
-
 ---
 
-
-
-
-
 This instructor-led class is intended to answer three questions commonly asked by executives, managers, and other decision-makers: *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities, attendees will further experience these truths.
-
-
-
-

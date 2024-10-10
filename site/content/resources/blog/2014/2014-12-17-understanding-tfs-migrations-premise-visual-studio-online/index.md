@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: understanding-tfs-migrations-premise-visual-studio-online
 aliases:
-- /blog/understanding-tfs-migrations-premise-visual-studio-online
+  - /blog/understanding-tfs-migrations-premise-visual-studio-online
 tags:
-- migration
-- tfs
-- vsteamservices
+  - migration
+  - tfs
+  - vsteamservices
 categories:
-- news-and-reviews
-coverImage: nakedalm-experts-visual-studio-alm-5-5.png
-
+  - news-and-reviews
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 ---
-
 
 I have recently been doing a lot of migrations and [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) asked me to write a white-paper about understanding TFS migrations from on-premise to Visual Studio Online.
 
@@ -46,5 +44,3 @@ Like I said the story is not currently that good but you can read about each of 
 - PDF: [Understanding TFS migrations from on-premise to Visual Studio Online](https://vsarguidance.codeplex.com/releases/view/178488)
 
 The ALM Rangers will also be releasing a walk-through for the simplest of migrations which is to use Excel for work items and do a tip migration of code. That will be coming real soon.
-
-

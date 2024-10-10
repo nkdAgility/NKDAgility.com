@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: a-better-way-than-staggered-iterations-for-delivery
 aliases:
-- /blog/a-better-way-than-staggered-iterations-for-delivery
+  - /blog/a-better-way-than-staggered-iterations-for-delivery
 tags:
-- asynchronous-development
-- cross-functional-teams
-- culture
-- cycle
-- improve
-- increment
-- strategic
-- test-first
-- working-software
+  - asynchronous-development
+  - cross-functional-teams
+  - culture
+  - cycle
+  - improve
+  - increment
+  - strategic
+  - test-first
+  - working-software
 categories:
-- people-and-process
-coverImage: staggered-iterations-for-delivery1-2-2.png
-
+  - people-and-process
+preview: staggered-iterations-for-delivery1-2-2.png
 ---
-
 
 There is a better way than staggered iterations for delivery that will keep you on the path to agility. Staggered iterations lead to more technical debt and lower quality software.
 
@@ -75,5 +73,3 @@ We need to foster teams over individuals and make those teams responsible for th
 - **Quality Assurance requires no testing** – If you consider that all testing is done as part of the sprint, then the only thing that needs to be done as part of the QA gate is to review the test results and coverage and determine the sufficiency of those results and coverage. If you are taking more than four hours to QA two weeks of development then I would suggest that the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) work is not sufficient.
 
 These things will all individually help and if you are doing all of them together your value delivery and quality should start to increase over time. Make sure that you focus on automating everything from the moment a Software Engineer checks in code, to it being [continuously delivered to production](https://nkdagility.com/continuous-deliver-sprint/). In the age of agility giving you a competitive advantage in whatever marketplace you are in, any manual work is a risk.
-
-

@@ -5,15 +5,21 @@ author: MrHinsh
 id: "45563"
 type: course
 slug: professional-scrum-product-owner-advanced-pspo-a-online-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-scrum-product-owner-advanced
-- professional-scrum-product-owner-advanced-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /training-courses/professional-scrum-product-owner-advanced
+  - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
-- product-owner
+  - product-owner
 categories:
-- agility
-coverImage: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
+  - agility
+preview: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
 card:
   button:
     content: ""
@@ -21,7 +27,7 @@ card:
   content: ""
 delivery:
   prerequisites: ""
-  lead: 'Mastering the Product Owner Stances: Professional Scrum Product Owner™ - Advanced (PSPO-A) is a hands-on, activity-based course that focuses on helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders.'
+  lead: "Mastering the Product Owner Stances: Professional Scrum Product Owner™ - Advanced (PSPO-A) is a hands-on, activity-based course that focuses on helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders."
   objectives: |2+
 
     - Experienced Product Owners will learn different stances a Product Owner takes in order to navigate everyday challenges
@@ -92,15 +98,10 @@ delivery:
      Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum Master (PSPO) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third party providers” category. You can claim your PDUs online at https://ccrs.pmi.org.  Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
   brand:
     vendor: scrum-org
-    colour: '#749335'
+    colour: "#749335"
   code: PSPO-A
   courseIcon: PSPOA-400x.png
-
 ---
-
-
-
-
 
 Professional Scrum Product Owner™ - Advanced (PSPO-A) training experience uses a unique blend of self-paced learning, live classroom hands-on activity-based exercises, and community-based aftercare helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders. The course goes beyond the topics explored in the [Professional Scrum Product Owner (PSPO)](https://nkdagility.com/training/scheduled/professional-scrum-product-owner-pspo-experience-on-8th-august-2022-live-virtual-class-over-4-half-days/) class deepening the attendee's understanding of the role by exploring the many stances of a professional Product Owner. Students should have at least one year of Product Owner experience and practical knowledge of Scrum in order to participate in and benefit from these exercises. Having previously taken the PSPO class is recommended but not required.
 
@@ -112,7 +113,3 @@ Professional Scrum Product Owner™ - Advanced (PSPO-A) training experience uses
 Each session includes STARTUP activities before the session and WRAPUP activities to be completed after each session. Before, during, and after the class students can interact with other students and thought leaders in our Lean-Agile Community.
 
 The course also includes a free attempt at the globally recognised Professional Scrum Product Owner II (PSPO II) certification exam.
-
-
-
-

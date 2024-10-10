@@ -1,5 +1,5 @@
 ---
-title: 'The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development'
+title: "The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development"
 date: 2023-10-17
 author: MrHinsh
 id: "50309"
@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 aliases:
-- /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
+  - /blog/the-7-deadly-sins-of-agile-a-grecian-odyssey-through-modern-software-development
 tags:
-- homepage
+  - homepage
 categories:
-- agility
-coverImage: NKDAgility-technically-7DeadlySins-16-15.jpg
-
+  - agility
+preview: NKDAgility-technically-7DeadlySins-16-15.jpg
 ---
-
 
 In the rich tapestry of ancient Greek philosophy, the concept of the seven deadly sins stands out as a profound exploration of human nature and morality. Deeply rooted in Greek thought, these sins were not seen as fleeting transgressions. Instead, they were formidable obstacles, barriers between individuals and a virtuous, fulfilling life.
 
@@ -79,10 +77,10 @@ These sins promised personal suffering, societal decay, and eventual destruction
         In the ancient Greek ethos, Acedia or Sloth was a warning against a lack of motivation and interest in life. In the agile realm, Martin highlights how Sloth manifests in various forms across teams, organisations, and leadership. A common manifestation is the sheer reluctance or, as he puts it, "not bothering our arse" to do what's promised. Teams might claim they're "doing Agile," yet they don't deliver a working product at the end of a Sprint, or they might have convoluted deployment processes out of the developers' control. The absence of an ordered backlog is another telltale sign. This lethargy might stem from a top-down directive to "do agile" in environments not suited for it, perhaps due to legacy systems like mainframes. Martin emphasises the importance of honesty and transparency, urging teams to be forthright about their capabilities and limitations.
 
 7.  **Wrath (Thymos):**
-        [![](images/NKDAgility-7DeadlySins-Wrath-600x338-13-14.webp)
+    [![](images/NKDAgility-7DeadlySins-Wrath-600x338-13-14.webp)
     { .post-img }
     Watch the video](https://youtu.be/U18nA0YFgu0)
-        In the ancient Greek ethos, Thumos, or Wrath, was a caution against unchecked anger and its potential to lead to destruction. It was a reminder of the dangers of letting emotions, especially anger, dictate actions without reason. In the agile context, Martin highlights how wrath manifests in organisations. It's often seen in the inability to accept mistakes or the reluctance to take accountability. This wrathful behaviour can lead to a blame culture, where individuals or teams are more concerned about deflecting blame instead of addressing the root cause of an issue. For instance, when stakeholders question a decision, they might deflect the blame onto the team instead of the product owner taking responsibility. Such environments stifle innovation and growth as teams become more risk-averse, fearing the repercussions of making mistakes. This lack of accountability and a blame culture is indicative of an organisation's wrath, preventing it from truly embracing the agile mindset.
+    In the ancient Greek ethos, Thumos, or Wrath, was a caution against unchecked anger and its potential to lead to destruction. It was a reminder of the dangers of letting emotions, especially anger, dictate actions without reason. In the agile context, Martin highlights how wrath manifests in organisations. It's often seen in the inability to accept mistakes or the reluctance to take accountability. This wrathful behaviour can lead to a blame culture, where individuals or teams are more concerned about deflecting blame instead of addressing the root cause of an issue. For instance, when stakeholders question a decision, they might deflect the blame onto the team instead of the product owner taking responsibility. Such environments stifle innovation and growth as teams become more risk-averse, fearing the repercussions of making mistakes. This lack of accountability and a blame culture is indicative of an organisation's wrath, preventing it from truly embracing the agile mindset.
 
 In reflecting upon these seven cardinal sins of agile, it becomes evident that the challenges faced in modern software development are not just technical but deeply human. Drawing from this rich tapestry of Greek wisdom and Martin's insightful videos, this exploration serves as both a cautionary tale and a guide. It's a journey of introspection, ensuring that as we navigate the agile seas, we remain true to its core principles, fostering innovation, collaboration, and genuine value delivery. 🚀🛤️
 
@@ -103,5 +101,3 @@ These issues are the kind that lean-agile practitioners are passionate about. If
 It's vital to seek early help if challenges hinder your value delivery. You can request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) or sign up for one of our [upcoming professional Scrum classes.](https://nkdagility.com/training-courses/course-schedule/?scope=Public)
 
 After all, you don't just need agility; you need Naked Agility.
-
-

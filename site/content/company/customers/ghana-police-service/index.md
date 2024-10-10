@@ -6,13 +6,6 @@ id: "12008"
 type: customers
 slug: ghana-police-service
 tags:
-- homepage
-coverImage: ghana-police-service.jpg
-
+  - homepage
+preview: ghana-police-service.jpg
 ---
-
-
-
-
-
-

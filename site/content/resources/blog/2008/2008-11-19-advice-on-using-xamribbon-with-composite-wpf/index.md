@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
-- /blog/advice-on-using-xamribbon-with-composite-wpf
+  - /blog/advice-on-using-xamribbon-with-composite-wpf
 tags:
-- code
-- codeproject
-- tfs-sticky-buddy
-- tools
-- wpf
+  - code
+  - codeproject
+  - tfs-sticky-buddy
+  - tools
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-2-2.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
-
 
 [![image](images/AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-AdviceonusingXamRibbonwithCompositeWPF_EBA6-image_2.png)
 { .post-img }
@@ -78,8 +76,6 @@ Note: You will need to be familiar with the Composite WPF bits for this all to m
 ```
   10: </igRibbon:XamRibbon>
 ```
-
-
 
 As you can see there are a number of regions here, for the Tabs, the Application Menu and the FooterToolbar. You will need both a XamRibbon and a RibbonTabItem adapter.
 
@@ -215,14 +211,6 @@ As you can see there are a number of regions here, for the Tabs, the Application
   33: End Class
 ```
 
-
-
-
-
-
-
-
-
 ```
    1: Public Class RibbonTabItemRegionAdapter
 ```
@@ -355,12 +343,8 @@ As you can see there are a number of regions here, for the Tabs, the Application
   33: End Class
 ```
 
-
-
 I am pretty sure that these can be augmented, and I can think of a few Ideas already, including adding a re-parenting ability to allow menu items to be added to the XAML as well as programmatically added.
 
 I think I might have to go away and try this…
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject)
-
-

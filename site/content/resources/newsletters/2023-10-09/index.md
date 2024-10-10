@@ -2,7 +2,7 @@
 id: "50103"
 title: "Unlock the Power of Effective Backlog Management with our new course from Scrum.org"
 date: "2023-10-09"
-coverImage: "NKDAgility-technically-DOD-Not-AC-3-2.jpg"
+preview: "NKDAgility-technically-DOD-Not-AC-3-2.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

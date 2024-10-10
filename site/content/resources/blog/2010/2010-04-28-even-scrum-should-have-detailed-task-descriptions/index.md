@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: even-scrum-should-have-detailed-task-descriptions
 aliases:
-- /blog/even-scrum-should-have-detailed-task-descriptions
+  - /blog/even-scrum-should-have-detailed-task-descriptions
 tags:
-- agile
-- people
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
+  - agile
+  - people
+  - process
+  - scrum
+  - sharepoint
+  - spf2010
+  - ssw
+  - tfs
+  - tfs2010
 categories:
-- people-and-process
-coverImage: metro-sharepoint-128-link-1-1.png
-
+  - people-and-process
+preview: metro-sharepoint-128-link-1-1.png
 ---
-
 
 ![RulestoBetter](images/SSWScrumRuleDoyou_E91A-RulestoBetter_-5-5.gif)When you create tasks in Scrum you are doing this within a time box and you tend to add only the information you need to remember what the task is. And the entire Team was at the meeting and were involved in the discussions around the task, so why do you need more?
 { .post-img }
@@ -54,5 +52,3 @@ If you need to add rich text and images you can do this by [attaching an email t
 _This has been published as_ [_Do you know to ensure that relevant emails are attached to tasks_](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/EnsureRelevantEmails.aspx) _in our_ [_Rules to Better Scrum using TFS_](http://sharepoint.ssw.com.au/Standards/Management/RulesToBetterScrumUsingTFS/Pages/default.aspx)_._
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [TFS 2010](http://technorati.com/tags/TFS+2010) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

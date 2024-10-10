@@ -4,7 +4,7 @@ date: 2023-01-04T14:35:57Z
 videoId: uJaBPyixNlc
 url: /resources/videos/how-does-naked-agility-select-scrum-trainers-
 canonicalUrl: https://www.youtube.com/watch?v=uJaBPyixNlc
-coverImage: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/uJaBPyixNlc/maxresdefault.jpg
 duration: 270
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-06-28T06:45:01Z
 videoId: O6rYL3EDUxM
 url: /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
 canonicalUrl: https://www.youtube.com/watch?v=O6rYL3EDUxM
-coverImage: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
 duration: 426
 isShort: False
 ---
@@ -13,7 +13,7 @@ isShort: False
 
 # 6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]
 
-Think your company is Agile? 🤔  Are you sure?
+Think your company is Agile? 🤔 Are you sure?
 
 This video reveals the surprising source of a 6-question litmus test to determine if your organization is truly Agile: the U.S. Department of Defense!
 

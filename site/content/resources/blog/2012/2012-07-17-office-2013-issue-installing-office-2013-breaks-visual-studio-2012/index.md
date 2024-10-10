@@ -1,5 +1,5 @@
 ---
-title: 'Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012'
+title: "Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012"
 date: 2012-07-17
 author: MrHinsh
 id: "6288"
@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 aliases:
-- /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
+  - /blog/office-2013-issue-installing-office-2013-breaks-visual-studio-2012
 tags:
-- _atomic_fetch_sub_4
-- office
-- office-2013
-- office14
-- puzzles
-- vs2012
+  - _atomic_fetch_sub_4
+  - office
+  - office-2013
+  - office14
+  - puzzles
+  - vs2012
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-4-4.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-4-4.png
 ---
-
 
 After installing Office 2013 on a machine with Visual Studio 2012 you get a “The procedure entry point \_Atomic_fetch_sub_4 could not be located in the dynamic link library c:Program Files (x86)Microsoft Visual Studio 11.0Common7IDEdevenv.exe” error when trying to load Visual Studio 2012.
 
@@ -61,5 +59,3 @@ If you did not install it first and you are unable to launch Visual Studio 2012 
 I found that this does not affect Visual Studio 2012 installs that already have a previous update on Windows 8, but does affect vanilla Release Candidate installs.
 
 **Did this fix your problem?**
-
-

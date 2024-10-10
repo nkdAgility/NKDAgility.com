@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
-- /blog/deciphering-the-enigma-of-story-points-across-teams
+  - /blog/deciphering-the-enigma-of-story-points-across-teams
 tags:
-- featured
-- homepage
+  - featured
+  - homepage
 categories:
-- agility
-coverImage: naked-agility-technically-flow-not-velocity-5-5.jpg
-
+  - agility
+preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 ---
-
 
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.
 
@@ -73,5 +71,3 @@ Simultaneously, to truly maximise team output, we must also focus on the value o
 { .post-img }
 
 The ultimate goal is to enhance both throughput and value concurrently. Striking a balance is crucial; we neither want sluggish excellence nor a barrage of mediocrity.
-
-

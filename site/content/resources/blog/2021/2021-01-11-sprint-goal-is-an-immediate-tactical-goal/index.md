@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: sprint-goal-is-an-immediate-tactical-goal
 aliases:
-- /blog/sprint-goal-is-an-immediate-tactical-goal
+  - /blog/sprint-goal-is-an-immediate-tactical-goal
 tags:
-- intermediate-tactical-goal
-- leadership-track
-- product-owner
-- sprint-goal
+  - intermediate-tactical-goal
+  - leadership-track
+  - product-owner
+  - sprint-goal
 categories:
-- discovery-ideation
-- measure-and-learn
-coverImage: naked-agility-hypothesis-driven-2-2.jpg
-
+  - discovery-ideation
+  - measure-and-learn
+preview: naked-agility-hypothesis-driven-2-2.jpg
 ---
-
 
 In the [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) we talk about the [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) and I likened that to the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) in the [2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide). If we also think of each Sprint as a tactical move towards fulfilling that [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) then the [Sprint Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-sprint-goal) becomes an Intermediate Tactical Goal that moves us towards our current Intermediate Strategic Goal.
 
@@ -58,5 +56,3 @@ We should always be working to engage with our users; users don't engage when yo
 ### A great Product Owner will anticipate the features that customers need now.
 
 The trick for any [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is to figure out where the market is going and build features that drive it, rather than just following it. Having a vision and entrepreneurially iterating towards that vision empirically with many small hypotheses is key to unlocking this level up of Product Ownership.
-
-

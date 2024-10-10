@@ -7,26 +7,24 @@ layout: blog
 resourceType: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy
 aliases:
-- /blog/the-insufficiency-of-scrum-is-a-fallacy
+  - /blog/the-insufficiency-of-scrum-is-a-fallacy
 tags:
-- agile
-- develop
-- improve
-- kanban
-- people
-- practices
-- process
-- scaled-agile
-- scrum
-- strategic
-- tactical
+  - agile
+  - develop
+  - improve
+  - kanban
+  - people
+  - practices
+  - process
+  - scaled-agile
+  - scrum
+  - strategic
+  - tactical
 categories:
-- people-and-process
-- tools-and-techniques
-coverImage: nakedalm-experts-professional-scrum-3-3.png
-
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-experts-professional-scrum-3-3.png
 ---
-
 
 The insufficiency of Scrum is a fallacy perpetrated by teams that don’t step up their practices in concert with their planning and don't really want to make it work anyway. You can fail doing Kanban, XP, Merise and SSADM just as easily unless you have good engineering practices as well.
 
@@ -91,5 +89,3 @@ Remember that the software that you are building is an organisational asset and 
 Don’t be incompetent. Don't commit fraud.
 
 **Be a professional…**
-
-

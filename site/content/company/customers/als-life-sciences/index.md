@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11817"
 type: customers
 slug: als-life-sciences
-coverImage: nkdagility-customer-als-life-sciences-200x75.png
-
+preview: nkdagility-customer-als-life-sciences-200x75.png
 ---
-
-
-
-
-
-

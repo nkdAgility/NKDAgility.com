@@ -1,3 +1,10 @@
+---
+{
+  "delivery": {
+    "topics": "1. The Scrum Framework\n2. Scrum in Action\n3. Adopting Scrum\n4. The Team Project\n5. The Product Backlog\n6. Planning and Tracking a Sprint\n7. Collaborating as a Team\n8. Agile Software Testing\n9. Agile Software Development\n10. Reporting\n"
+  }
+}
+---
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.contentTypes": [
@@ -72,7 +79,7 @@
               "title": "Content",
               "name": "content",
               "type": "string",
-              "wysiwyg": true
+              "wysiwyg": "markdown"
             },
             {
               "title": "button",
@@ -83,7 +90,7 @@
                   "title": "Content",
                   "name": "content",
                   "type": "string",
-                  "wysiwyg": true
+              "wysiwyg": "markdown"
                 }
               ]
             }
@@ -107,7 +114,8 @@
             {
               "title": "content",
               "name": "content",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "cards",
@@ -188,17 +196,20 @@
             {
               "title": "objectives",
               "name": "objectives",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "certification",
               "name": "certification",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "prerequisites",
               "name": "prerequisites",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "duration",
@@ -213,12 +224,14 @@
             {
               "title": "topics",
               "name": "topics",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "details",
               "name": "details",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "type",
@@ -272,7 +285,8 @@
             {
               "title": "content",
               "name": "content",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "title",
@@ -287,7 +301,8 @@
                 {
                   "title": "content",
                   "name": "content",
-                  "type": "string"
+                  "type": "string",
+                  "wysiwyg": "markdown"
                 }
               ]
             }
@@ -356,7 +371,7 @@
               "title": "Content",
               "name": "content",
               "type": "string",
-              "wysiwyg": true
+              "wysiwyg": "markdown"
             },
             {
               "title": "button",
@@ -367,7 +382,7 @@
                   "title": "Content",
                   "name": "content",
                   "type": "string",
-                  "wysiwyg": true
+                  "wysiwyg": "markdown"
                 }
               ]
             }
@@ -414,7 +429,8 @@
             {
               "title": "content",
               "name": "content",
-              "type": "string"
+              "type": "string",
+              "wysiwyg": "markdown"
             },
             {
               "title": "cards",
@@ -532,7 +548,8 @@
         {
           "title": "content",
           "name": "content",
-          "type": "string"
+          "type": "string",
+          "wysiwyg": "markdown"
         },
         {
           "title": "image",
@@ -552,7 +569,8 @@
         {
           "title": "content",
           "name": "content",
-          "type": "string"
+          "type": "string",
+          "wysiwyg": "markdown"
         },
         {
           "title": "media",
@@ -572,7 +590,8 @@
         {
           "title": "content",
           "name": "content",
-          "type": "string"
+          "type": "string",
+          "wysiwyg": "markdown"
         },
         {
           "title": "source",

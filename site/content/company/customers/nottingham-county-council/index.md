@@ -6,13 +6,6 @@ id: "11825"
 type: customers
 slug: nottingham-county-council
 tags:
-- homepage
-coverImage: nkdagility-customer-Nottingham-County-Council-200x75.png
-
+  - homepage
+preview: nkdagility-customer-Nottingham-County-Council-200x75.png
 ---
-
-
-
-
-
-

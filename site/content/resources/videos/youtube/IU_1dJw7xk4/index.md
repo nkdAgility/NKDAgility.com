@@ -4,7 +4,7 @@ date: 2024-02-16T07:00:10Z
 videoId: IU_1dJw7xk4
 url: /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
 canonicalUrl: https://www.youtube.com/watch?v=IU_1dJw7xk4
-coverImage: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/IU_1dJw7xk4/maxresdefault.jpg
 duration: 438
 isShort: False
 ---

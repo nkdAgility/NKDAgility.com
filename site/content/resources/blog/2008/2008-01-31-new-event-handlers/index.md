@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: new-event-handlers
 aliases:
-- /blog/new-event-handlers
+  - /blog/new-event-handlers
 tags:
-- code
-- infrastructure
-- tfs-event-handler
-- tools
-- wit
+  - code
+  - infrastructure
+  - tfs-event-handler
+  - tools
+  - wit
 categories:
-- code-and-complexity
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - code-and-complexity
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I have added an extra event handler to the [TFS Event Handler (Prototype)](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057), and this makes two.
 
@@ -58,5 +56,3 @@ And if you want the Reassigned handler to work add the following line:
 If you want both to work...then add both...easy.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-
-

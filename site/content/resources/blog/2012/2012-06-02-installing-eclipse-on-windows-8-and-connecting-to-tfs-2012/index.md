@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 aliases:
-- /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+  - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 tags:
-- configuration
-- eclipse
-- infrastructure
-- nwcadence
-- tfs
-- tfs2010
-- tfs2012
-- tools
+  - configuration
+  - eclipse
+  - infrastructure
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfs2012
+  - tools
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-12-12.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-12-12.png
 ---
-
 
 I will be running a bunch of demos on a couple of weeks with TFS & Eclipse working together. Although I have a cloud instance that I can connect to, what about when I have no network.
 
@@ -118,5 +116,3 @@ And that's about it. I am no Java expert, but it is like any other Version Contr
 So really its way better than just Version Control…
 
 _\-Don't leave your Java developers out of your Application Life-cycle Management (ALM) strategy. According to Gartner Visual Studio ALM is the best, most feature-full ALM platform and it supports Java just as well as .NET. Contact [info@nwcadence.com](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Installing Eclipse on Windows 8 and connecting to TFS 2012) today..._
-
-

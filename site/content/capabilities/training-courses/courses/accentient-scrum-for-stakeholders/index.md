@@ -6,10 +6,15 @@ id: "44728"
 type: course
 slug: scrum-for-stakeholders-training
 aliases:
-- scrum-for-stakeholders
-- /training-courses/scrum-for-stakeholders-training/
+  - /training-courses/scrum-for-stakeholders
+  - /training-courses/scrum-for-stakeholders-training/
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Accentient
 categories:
-- agility
+  - agility
 card:
   button:
     content: ""
@@ -50,18 +55,9 @@ delivery:
   certification: ""
   brand:
     vendor: accentient
-    colour: 
+    colour:
   code: S4S
   courseIcon: A-S4S.png
-
 ---
 
-
-
-
-
 This instructor-led class is intended to answer three questions commonly asked by Stakeholders: *What is Scrum? Why will Scrum be better for me? How will I work differently going forward.* Through presentation and discussion, attendees will learn the answers to these questions. By forming into teams and collaborating on activities and discussions, attendees will experience and see the truth behind those answers.
-
-
-
-

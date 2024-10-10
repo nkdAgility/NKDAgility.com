@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: office-mobile-2007
 aliases:
-- /blog/office-mobile-2007
+  - /blog/office-mobile-2007
 tags:
-- answers
-- windows-mobile-6
+  - answers
+  - windows-mobile-6
 categories:
-- products-and-books
-coverImage: metro-office-128-link-1-1.png
-
+  - products-and-books
+preview: metro-office-128-link-1-1.png
 ---
-
 
 This week I installed Office Mobile 2007 on my Windows Mobile 6 ([Black Shadow](http://blog.martin.hinshelwood.com/archive/2007/06/21/Windows-Mobile-6-Black-Shadow-4.0.aspx)) SPV M3100, and I have to say, what changed?
 
@@ -27,5 +25,3 @@ I had already installed OneNote to assist with my note taking in the Office as 
 It is good that this is a free update...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-
-

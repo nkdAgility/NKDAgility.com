@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: choosing-a-process-template-for-your-team-project
 aliases:
-- /blog/choosing-a-process-template-for-your-team-project
+  - /blog/choosing-a-process-template-for-your-team-project
 tags:
-- microsoft-visual-studio-scrum
-- msf
-- msf-for-agile-software-development
-- msf-for-cmmi-process-improvement
-- process-template
-- tfs
-- tfs2012
-- tfs-2013
+  - microsoft-visual-studio-scrum
+  - msf
+  - msf-for-agile-software-development
+  - msf-for-cmmi-process-improvement
+  - process-template
+  - tfs
+  - tfs2012
+  - tfs-2013
 categories:
-- devops
-- tools-and-techniques
-coverImage: IC749984-1-1.png
-
+  - devops
+  - tools-and-techniques
+preview: IC749984-1-1.png
 ---
-
 
 Over the years I have had many discussions about Agile vs Scrum process templates with both TFS and VSTS and migrated many Team Projects from Agile or CMMI templates to the Scrum Template.
 
@@ -95,5 +93,3 @@ These customisations are non-intrusive and have a limited impact on reporting an
 ## Conclusion
 
 Choose the Microsoft Visual Studio Scrum process template if you don't want to be limited by MSF. What other customisations do you make to your Scrum template to support your lean-agile process?
-
-

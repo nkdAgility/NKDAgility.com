@@ -1,5 +1,5 @@
 ---
-title: 'A change for the better #2 - Aggreko to SSW'
+title: "A change for the better #2 - Aggreko to SSW"
 date: 2009-10-25
 author: MrHinsh
 id: "82"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: a-change-for-the-better-2
 aliases:
-- /blog/a-change-for-the-better-2
+  - /blog/a-change-for-the-better-2
 tags:
-- aggreko
-- change
-- change-for-the-better
-- ssw
+  - aggreko
+  - change
+  - change-for-the-better
+  - ssw
 categories:
-- me
-coverImage: metro-SSWLogo-128-link-3-1.png
-
+  - me
+preview: metro-SSWLogo-128-link-3-1.png
 ---
-
 
 In the last 2+ years at Aggreko I have worked with Visual Studio 2008 Team Foundation Server, Office SharePoint Server 2007 and a number of WPF, Silverlight and ASP.NET projects.
 
@@ -67,5 +65,3 @@ If you get a chance, check out SSW’s Rules. I am sure you will find something 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2005](http://technorati.com/tags/TFS+2005)
-
-

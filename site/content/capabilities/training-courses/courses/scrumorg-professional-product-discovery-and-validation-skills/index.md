@@ -5,9 +5,17 @@ author: MrHinsh
 id: "51412"
 type: course
 slug: professional-product-discovery-and-validation-skills-ppdv
+url: /capabilities/training-courses/product-training-courses/:slug/
 aliases:
-- /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-coverImage: NKDAgility-Courses-PSVS-16x9-1.png
+  - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+course-topics:
+  - Scrum Training Courses
+  - Product Training Courses
+course-vendors:
+  - Scrum.org
+preview: NKDAgility-Courses-PSVS-16x9-1.png
 card:
   button:
     content: ""
@@ -46,16 +54,7 @@ delivery:
   certification: none
   brand:
     vendor: scrum-org
-    colour: '#624d93'
+    colour: "#624d93"
   code: PPDV
   courseIcon: PPDV-BETA-logo.png
-
 ---
-
-
-
-
-
-
-
-

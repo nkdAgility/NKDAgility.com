@@ -1,5 +1,5 @@
 ---
-title: 'Finding features: Calendar preview'
+title: "Finding features: Calendar preview"
 date: 2009-07-30
 author: MrHinsh
 id: "94"
@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: finding-features-calendar-preview
 aliases:
-- /blog/finding-features-calendar-preview
+  - /blog/finding-features-calendar-preview
 tags:
-- office
-- tools
+  - office
+  - tools
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 Another nice feature of Outlook 2010 that I like is the Calendar preview:
 
@@ -26,5 +24,3 @@ Another nice feature of Outlook 2010 that I like is the Calendar preview:
 Very effective for seeing quickly wither you can attend :)
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
-
-

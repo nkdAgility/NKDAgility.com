@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: journey-professional-scrum
 aliases:
-- /blog/journey-professional-scrum
+  - /blog/journey-professional-scrum
 tags:
-- agile
-- business-agility
-- psd
-- psf
-- psm
-- scrum
-- sps
+  - agile
+  - business-agility
+  - psd
+  - psf
+  - psm
+  - scrum
+  - sps
 categories:
-- people-and-process
-coverImage: nakedalm-experts-professional-scrum-5-5.png
-
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-5-5.png
 ---
-
 
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.
 
@@ -67,5 +65,3 @@ What works well for the team does not necessarily work well for the rest of the 
 Scrum is but a framework around which your team can build the processes, practices, and tools that best suit your organisation, its strategy, its people, and its customers. That’s why it’s a framework and not a methodology. That same framework, along with evidence-based techniques can be used at the organisational level to incrementally and continuously move your organisation down the path to greater business agility. This is not a path along which we know our destination, but with a rough strategic vision we can keep moving in the right direction and occasionally consulting the compass. I recently attended the trainer-prep of the Scaling Professional Scrum workshop and found it enlightening in enshrining that understanding of "no one size fits all" when it comes to agility.
 
 These are the things that I have learned with Professional Scrum. What have you learned?
-
-

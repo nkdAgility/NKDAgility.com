@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: flashing-your-windows-phone-6-for-dummies
 aliases:
-- /blog/flashing-your-windows-phone-6-for-dummies
+  - /blog/flashing-your-windows-phone-6-for-dummies
 tags:
-- mobile
-- tools
-- windows-mobile-6
+  - mobile
+  - tools
+  - windows-mobile-6
 categories:
-- me
-coverImage: nakedalm-logo-128-link-3-3.png
-
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
-
 
 ![image](images/FlashingyourHTCHD2withWindow.5forDummies_A588-image_-1-1.png)
 { .post-img }
@@ -106,5 +104,3 @@ If you have gotten this far then you are probably a pro by now ![Smile](images/F
 While updating your ROM is not for the faint hearted it provides more options than the Stock ROM’s and quicker feature updates than waiting…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-
-

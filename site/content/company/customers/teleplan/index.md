@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11808"
 type: customers
 slug: teleplan
-coverImage: teleplan.png
-
+preview: teleplan.png
 ---
-
-
-
-
-
-

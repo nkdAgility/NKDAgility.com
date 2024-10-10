@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: office-2010-install
 aliases:
-- /blog/office-2010-install
+  - /blog/office-2010-install
 tags:
-- office
-- tools
-coverImage: metro-office-128-link-7-1.png
-
+  - office
+  - tools
+preview: metro-office-128-link-7-1.png
 ---
-
 
 Now I have [uninstalled Office 2007 32bit](http://blog.hinshelwood.com/archive/2009/07/16/installing-office-2010-gotcha-1.aspx) I am ready to get this 2010 thing going…
 
@@ -45,7 +43,6 @@ Woo, little smiles:
 
 [![image](images/Office2010Install_D5D5-image_thumb_5-5-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010Install_D5D5-image_12.png) 
 { .post-img }
+{ .post-img }
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
-
-

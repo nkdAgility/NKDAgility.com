@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: what-is-the-tfs-automation-platform
 aliases:
-- /blog/what-is-the-tfs-automation-platform
+  - /blog/what-is-the-tfs-automation-platform
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- tfsap
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
-coverImage: metro-visual-studio-2010-128-link-2-2.png
-
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfsap
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
+preview: metro-visual-studio-2010-128-link-2-2.png
 ---
-
 
 [![Turk-Automaton](images/Turk-Automaton_thumb2-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton2.gif)The TFS Automation Platform is a project that will be developed initially as the [TFS Iteration Automation](http://blogs.msdn.com/b/willy-peter_schaub/archive/2011/02/20/new-rangers-project-tfs-iteration-automation.aspx) project for the Rangers, but which has a grander  vision to solve a need for customers to have things just happen within TFS.
 { .post-img }
@@ -187,5 +185,3 @@ When the user renames an iteration then a job needs to be kicked off that will f
 ## Conclusion
 
 This poses to be a very interesting project if we can get the resource together to be effective. The idea is to start small, so expect to see some smaller, more focused architectures coming down the line.
-
-

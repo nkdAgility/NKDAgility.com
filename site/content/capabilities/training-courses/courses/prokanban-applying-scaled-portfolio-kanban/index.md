@@ -6,8 +6,13 @@ id: "51143"
 type: course
 slug: applying-scaled-portfolio-kanban
 aliases:
-- /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
-coverImage: NKDAgility-Courses-SPK-16x9-1.jpg
+  - /training-courses/kanban-training-courses/applying-scaled-portfolio-kanban/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-scaled-portfolio-kanban/
+course-topics:
+  - Kanban Training Courses
+course-vendors:
+  - ProKanban.org
+preview: NKDAgility-Courses-SPK-16x9-1.jpg
 card:
   button:
     content: ""
@@ -50,15 +55,6 @@ delivery:
     colour: ""
   code: ASPK
   courseIcon: SPK@600.png
-
 ---
 
-
-
-
-
 Our 'Applying Scaled Portfolio Kanban' course is a game-changer for organizations seeking to enhance their efficiency and effectiveness. With a focus on practical outcomes, this course guides you through setting up transparent systems, aligning work with strategic goals, and managing portfolios effectively. You'll quickly grasp the reasons hindering progress, predict higher-level objectives, and identify opportunities for continuous improvement. By the course's end, you'll validate your organization's effectiveness in delivering the right outcomes. Whether you're a department head, Agile coach, project manager, or product owner, this course empowers you to make a tangible impact.
-
-
-
-

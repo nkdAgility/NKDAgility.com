@@ -4,7 +4,7 @@ date: 2024-02-15T07:00:31Z
 videoId: zltmMb2EbDE
 url: /resources/videos/does-kanban-integrate-with-a-scrum-environment-
 canonicalUrl: https://www.youtube.com/watch?v=zltmMb2EbDE
-coverImage: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/zltmMb2EbDE/maxresdefault.jpg
 duration: 343
 isShort: False
 ---
@@ -40,7 +40,6 @@ Any professional interested in maximizing efficiency and effectiveness in projec
 Stay at the forefront of Agile methodology enhancements and integration strategies.
 Transform your project management approach with actionable insights from Kanban.
 Join a community committed to continuous improvement and operational excellence.
-
 
 Like and Subscribe for more expert content on integrating Kanban with Scrum and other methodologies.
 Visit https://www.nkdagility.com for in-depth resources on Kanban, Scrum, and how to blend them effectively.

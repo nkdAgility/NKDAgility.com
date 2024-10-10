@@ -1,5 +1,5 @@
 ---
-title: 'TFS Preview - Issue: TF400898 The underlying connection was closed'
+title: "TFS Preview - Issue: TF400898 The underlying connection was closed"
 date: 2012-08-16
 author: MrHinsh
 id: "7161"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliases:
-- /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
+  - /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 tags:
-- puzzles
-- tf400898
-- tfs2012
-- vsteamservices
+  - puzzles
+  - tf400898
+  - tfs2012
+  - vsteamservices
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-4-4.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-4-4.png
 ---
-
 
 When you try to do a “Get” from TFS Preview you receive a “underlying connection was closed” and often a TF400898.
 
@@ -77,5 +75,3 @@ This had now been fixed not just for me, but across both the hosted service and 
 { .post-img }
 
 **Are you having problems with TFS Preview? Don’t sit and fizz… Check the [TFS Preview status](https://tfspreview.com/en-us/support/current-service-status/ "TFS Preview status") or [raise a bug](https://connect.microsoft.com/VisualStudio/feedback/CreateFeedback.aspx).**
-
-

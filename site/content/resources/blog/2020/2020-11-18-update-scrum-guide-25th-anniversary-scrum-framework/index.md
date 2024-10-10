@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: update-scrum-guide-25th-anniversary-scrum-framework
 aliases:
-- /blog/update-scrum-guide-25th-anniversary-scrum-framework
+  - /blog/update-scrum-guide-25th-anniversary-scrum-framework
 tags:
-- leadership-track
-- scrum-theory
+  - leadership-track
+  - scrum-theory
 categories:
-- news-and-reviews
-coverImage: naked-Agility-Scrum-Framework-3-2.jpg
-
+  - news-and-reviews
+preview: naked-Agility-Scrum-Framework-3-2.jpg
 ---
-
 
 It has been 25 years since Scrum was first created by Ken Schwaber and Jeff Sutherland and it has gone through many revisions. The last major revision was in 2017 and this update represents a simplification for 2020.
 
@@ -43,5 +41,3 @@ There are lots of awesome changes so let's see if I can highlight the things I n
 I hope that that get as much from this new revision of the Scrum Guide as I have.
 
 Get your copy of the **[new version of the Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)**!
-
-

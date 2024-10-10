@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: live-site-culture-site-reliability-engineering
 aliases:
-- /blog/live-site-culture-site-reliability-engineering
+  - /blog/live-site-culture-site-reliability-engineering
 categories:
-- agility
-- devops
-coverImage: 2020-06-17_13-06-30-1-1.jpg
-
+  - agility
+  - devops
+preview: 2020-06-17_13-06-30-1-1.jpg
 ---
-
 
 As more and more organisations move towards a higher degree of agility, they inevitably also move towards DevOps practices like Continuous Delivery to facilitate shortening the feedback loops.
 
@@ -52,5 +50,3 @@ The following presentation represents mearly a point in time of their evolution 
 https://youtu.be/5bgcpPqcGlw
 
 Presentation: [https://nkdagility.net/3edOLPi](https://nkdagility.net/3edOLPi)
-
-

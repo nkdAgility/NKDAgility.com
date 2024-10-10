@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
-- /blog/rangers-shipped-visual-studio-2010-database-guide
+  - /blog/rangers-shipped-visual-studio-2010-database-guide
 tags:
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- vsalmrangers
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
 categories:
-- me
-coverImage: metro-visual-studio-2010-128-link-1-1.png
-
+  - me
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
-
 
 **![vs2010almRanger](images/RangersshippedVisualStudio2010DatabaseGu_C070-vs2010almRanger_-2-2.png)**
 { .post-img }
@@ -81,5 +79,3 @@ Obviously this type of work would not be possible without many people contributi
 - **Reviewers:** Christian Bitter (MSFT), Regis Gimenis (MSFT), Rob Jarrat (MSFT), Bijan Javidi (MSFT), [Mathias Olausson (MVP)](http://msmvps.com/blogs/molausson/), Willy-Peter Schaub (MSFT)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFS 2010](http://technorati.com/tags/TFS+2010),[VS 2010](http://technorati.com/tags/VS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
-
-

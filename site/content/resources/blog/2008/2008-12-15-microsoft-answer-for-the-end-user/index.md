@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: microsoft-answer-for-the-end-user
 aliases:
-- /blog/microsoft-answer-for-the-end-user
+  - /blog/microsoft-answer-for-the-end-user
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Up until now the only avenue for your average Vista user for support was to trawl the MSDN Forums, Technet Forums and the Support site for some elusive piece of information that is buried among all that technical BS that we teckies like to call help.
 
@@ -92,5 +90,3 @@ These forums are specifically targeted at Vista, but if they are successful, the
 Lets get [Answering](http://social.answers.microsoft.com/)…but remember, no techno-babble!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

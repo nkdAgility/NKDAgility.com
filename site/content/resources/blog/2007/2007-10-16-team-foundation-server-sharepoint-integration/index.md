@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: team-foundation-server-sharepoint-integration
 aliases:
-- /blog/team-foundation-server-sharepoint-integration
+  - /blog/team-foundation-server-sharepoint-integration
 tags:
-- fail
-- sharepoint
-- sp2007
-- tfs
-- tfs2005
+  - fail
+  - sharepoint
+  - sp2007
+  - tfs
+  - tfs2005
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - code-and-complexity
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 Why is there not more integration found in Team Foundation Server "out-of-the-box" with SharePoint 2007. It seams obvious to me that you would want to show your Work Items in SharePoint and integrate SharePoint Workflow into Team Foundation Server. It only make sense to be able to initially create a SharePoint Work item that is a request from a user into SharePoint, have some sort of approval workflow before assigning it to a project within [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").
 
@@ -33,5 +31,3 @@ As a start, instead of releasing "Web access for Team Foundation Server" as a po
 Microsoft, if you are listening to either Mike or myself...please do not forget the Workflow integration too....
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM)
-
-

@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
-- /blog/i-always-like-a-good-serenity-plug
+  - /blog/i-always-like-a-good-serenity-plug
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Your results:  
 **You are Dr. Simon Tam (Ship Medic)**
@@ -23,5 +21,3 @@ Your results:
 [Click here to take the "Which Serenity character am I?" quiz...](http://www.seabreezecomputers.com/serenity)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

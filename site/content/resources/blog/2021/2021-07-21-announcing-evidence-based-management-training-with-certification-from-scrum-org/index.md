@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliases:
-- /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
+  - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
 tags:
-- annoucement
+  - annoucement
 categories:
-- agility
-coverImage: Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
-
+  - agility
+preview: Professional-Agile-Leadership-Evidence-Based-Management-6-6.jpg
 ---
-
 
 I have been an [accredited Evidence-based Management Expert with Scrum.org](https://www.scrum.org/ebm-experts) for the last 7 years and I have been using the [Evidence-based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) to encourage leaders to make decisions based on evidence instead of gut feel.
 
@@ -63,5 +61,3 @@ Just as the PAL gets you to think about how you lead an organisation, the PAL-EB
 ## Our upcomming classes!
 
 \[wpv-view name="2021-coursescheduleforposts"\]
-
-

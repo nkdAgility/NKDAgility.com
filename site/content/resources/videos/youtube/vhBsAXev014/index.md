@@ -4,7 +4,7 @@ date: 2023-10-23T07:00:21Z
 videoId: vhBsAXev014
 url: /resources/videos/chaos!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=vhBsAXev014
-coverImage: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
 duration: 525
 isShort: False
 ---
@@ -15,13 +15,13 @@ isShort: False
 
 Navigate the realm of agile transformation without falling into the pitfalls of chaos! Discover how communication, direction, and alignment play crucial roles. 🌟
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🎙 dives deep into the challenges and nuances of agile implementation. He underscores the significance of clarity in goals, communication, and strategic alignment. Ever wondered how measures and incentives guide behaviors? Martin has got insights for you! 🚀
 
 00:00:05 The Signs of a Failed Agile Implementation
 00:00:10 Chaos in Agile
-00:00:20 The Role of Product Ownership 
+00:00:20 The Role of Product Ownership
 00:00:30 Communication in Agile
 00:00:40 The Importance of Goals and Direction
 00:00:50 Measures and Incentives in Agile
@@ -38,9 +38,9 @@ Part 5: https://youtu.be/vhBsAXev014
 Part 6: https://youtu.be/FdQpGx-FW-0
 Part 7: https://youtu.be/UeisJt8U2_0
 
-*NKDAgility can help!*  
+_NKDAgility can help!_
 
-Facing challenges in maintaining clear communication and alignment in agile? Struggle to find the right balance between goals and incentives? My team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can. 
+Facing challenges in maintaining clear communication and alignment in agile? Struggle to find the right balance between goals and incentives? My team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can.
 
 If these issues undermine the effectiveness of your value delivery, act now!
 

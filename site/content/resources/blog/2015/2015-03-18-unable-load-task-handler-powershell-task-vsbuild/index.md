@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: unable-load-task-handler-powershell-task-vsbuild
 aliases:
-- /blog/unable-load-task-handler-powershell-task-vsbuild
+  - /blog/unable-load-task-handler-powershell-task-vsbuild
 tags:
-- agent
-- build-vnext
-- powershell
-- tfs
-- tfs-2015
-- vsbuild
-- vsteamservices
+  - agent
+  - build-vnext
+  - powershell
+  - tfs
+  - tfs-2015
+  - vsbuild
+  - vsteamservices
 categories:
-- problems-and-puzzles
-coverImage: puzzle-issue-problem-128-link-7-7.png
-
+  - problems-and-puzzles
+preview: puzzle-issue-problem-128-link-7-7.png
 ---
-
 
 If you are setting up to run Team Foundation Server's vNext build system that Microsoft is previewing on VSO you may hit a "Unable to load task handler PowerShell for task VSBuild with version 1.0.1" error when you try to build on Windows Server Technical Preview.
 
@@ -82,5 +80,3 @@ So if you are downloading a Zip file from the internet you may need to unblock t
 { .post-img }
 
 Woohoo… A successful build on the new Build vNext…
-
-

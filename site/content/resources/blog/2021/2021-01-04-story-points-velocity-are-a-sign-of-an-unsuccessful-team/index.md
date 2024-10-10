@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
-- /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
+  - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
 tags:
-- daily-scrum
-- featured
-- leadership-track
+  - daily-scrum
+  - featured
+  - leadership-track
 categories:
-- agility
-- measure-and-learn
-coverImage: image-9-14-14.png
-
+  - agility
+  - measure-and-learn
+preview: image-9-14-14.png
 ---
-
 
 Story Points and velocity have been used for many years in the Scrum community and have been engrained so much in the way that things are done that most folks believe that they are part of Scrum. The accepted wisdom is that Scrum Teams are supposed to use User Stories, Story Points, and Velocity to measure their work.
 
@@ -159,5 +157,3 @@ Using a cycle time scatter plot we can assess and find our confidence levels, an
 You can use this range of confidence levels to determine your current levels of predictability, and monitor the effect of changes that you make to your system on it. If you have an 85% confidence level of 16 days and you're on 2-week Sprints then you have a problem.
 
 This data is not hard to collect and find a full list of awesome metrics in the [Kanban Guide for Scrum Teams](https://nkdagility.com/the-kanban-guide-for-scrum-teams/) from Scrum.org.
-
-

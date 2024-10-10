@@ -6,13 +6,6 @@ id: "11821"
 type: customers
 slug: bistech
 tags:
-- homepage
-coverImage: nkdagility-customer-bistech-200x75.png
-
+  - homepage
+preview: nkdagility-customer-bistech-200x75.png
 ---
-
-
-
-
-
-

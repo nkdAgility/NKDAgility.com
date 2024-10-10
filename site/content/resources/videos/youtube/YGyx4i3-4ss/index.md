@@ -4,7 +4,7 @@ date: 2024-08-09T05:39:57Z
 videoId: YGyx4i3-4ss
 url: /resources/videos/ppdv-course-overview
 canonicalUrl: https://www.youtube.com/watch?v=YGyx4i3-4ss
-coverImage: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/YGyx4i3-4ss/maxresdefault.jpg
 duration: 53
 isShort: True
 ---

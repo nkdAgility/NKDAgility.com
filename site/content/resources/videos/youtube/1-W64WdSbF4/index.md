@@ -4,7 +4,7 @@ date: 2021-09-18T13:32:34Z
 videoId: 1-W64WdSbF4
 url: /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
 canonicalUrl: https://www.youtube.com/watch?v=1-W64WdSbF4
-coverImage: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/1-W64WdSbF4/maxresdefault.jpg
 duration: 5769
 isShort: False
 ---

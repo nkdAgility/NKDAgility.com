@@ -4,7 +4,7 @@ date: 2024-01-19T06:08:37Z
 videoId: Bjz6SwLDIY4
 url: /resources/videos/the-art-of-life-lies-in-a-constant-readjustment-to-our-surroundings
 canonicalUrl: https://www.youtube.com/watch?v=Bjz6SwLDIY4
-coverImage: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Bjz6SwLDIY4/maxresdefault.jpg
 duration: 344
 isShort: False
 ---

@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 aliases:
-- /blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
+  - /blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 tags:
-- windows-server-2012
-- sharepoint-2013
-- sharepoint-2013-sp1
-- starteam
-- tfs
-- tfs-2013
-- tfs-2013-3
-- windows-server
-- windows-server-2012-r2
+  - windows-server-2012
+  - sharepoint-2013
+  - sharepoint-2013-sp1
+  - starteam
+  - tfs
+  - tfs-2013
+  - tfs-2013-3
+  - windows-server
+  - windows-server-2012-r2
 categories:
-- install-and-configuration
-coverImage: nakedalm-experts-visual-studio-alm-27-27.png
-
+  - install-and-configuration
+preview: nakedalm-experts-visual-studio-alm-27-27.png
 ---
-
 
 I have been onsite in Athens for the last month to do a migration from StarTeam to TFS. We did an install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1. This was my first install of TFS 2013.3 from scratch so I thought that it would be a good idea to walk through the process.
 
@@ -176,5 +174,3 @@ Flip back to the TFS configuration wizard and re-run the readiness checks to mak
 And that’s it. When you click "Configure" TFS will go off and create all the bits it needs and setup your default collection. At the end of this process, if you get a green tick, you have a fully operational TFS Instance.
 
 Good luck with your install…
-
-

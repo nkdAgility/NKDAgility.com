@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: ooooh-rtm-delight
 aliases:
-- /blog/ooooh-rtm-delight
+  - /blog/ooooh-rtm-delight
 tags:
-- tfs
-- tfs2008
-- tools
-- visual-studio
-- vs2008
-- wpf
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - tfs
+  - tfs2008
+  - tools
+  - visual-studio
+  - vs2008
+  - wpf
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 Well, MSDN will be busy today… Visual Studio 2008 Beta 1, Team Foundation Server 2008 Beta 1 and .NET Framework Beta 1 have all been released today. This is grate news as I have been using the Beta for about as long as it has been available and all those applications I have waiting in the wings can now go live :), Or at least get into the final phase of development.
 
@@ -29,5 +27,3 @@ The .NET Framework 3.5 SP1 and Visual Studio 2008 SP1 has improvements and optim
 There are tones of performance and minor [improvements in Team Foundation Server](http://blogs.msdn.com/bharry/archive/2008/04/28/team-foundation-server-2008-sp1.aspx) as well…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WCF](http://technorati.com/tags/WCF) [TFS Admin](http://technorati.com/tags/TFS+Admin) [WPF](http://technorati.com/tags/WPF) [VS 2008](http://technorati.com/tags/VS+2008)
-
-

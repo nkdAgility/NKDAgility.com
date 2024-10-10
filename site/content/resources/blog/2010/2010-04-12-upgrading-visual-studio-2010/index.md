@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: upgrading-visual-studio-2010
 aliases:
-- /blog/upgrading-visual-studio-2010
+  - /blog/upgrading-visual-studio-2010
 tags:
-- ssw
-- tools
-- visual-studio
-- vs2010
-coverImage: metro-visual-studio-2010-128-link-3-1.png
-
+  - ssw
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-3-1.png
 ---
-
 
 ![vs2010_ultimate_web](images/UpgradingVisualStudio2010_D9B8-vs2010_ultimate_web_-8-6.jpg)I have been running Visual Studio 2010 as my main development studio on my development computer since the RC was released. I need to upgrade that to the RTM, but first I need to remove it. Microsoft have done a lot of work to make this easy, and it works. Its as easy as uninstalling from the control panel.
 { .post-img }
@@ -48,5 +46,3 @@ If you have just uninstalled the .NET 4 RC then you will probably be asked to re
 **Now go forth and develop! Preferably in VB.NET…**
 
 Technorati Tags: [VS 2010](http://technorati.com/tags/VS+2010) [Visual Studio](http://technorati.com/tags/Visual+Studio)
-
-

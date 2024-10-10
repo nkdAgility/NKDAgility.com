@@ -6,13 +6,6 @@ id: "45373"
 type: customers
 slug: deliotte
 tags:
-- homepage
-coverImage: deloit.jpg
-
+  - homepage
+preview: deloit.jpg
 ---
-
-
-
-
-
-

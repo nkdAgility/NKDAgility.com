@@ -7,11 +7,9 @@ layout: blog
 resourceType: blog
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
-- /blog/sharepoint-content-request-what-would-you-like-to-see
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - /blog/sharepoint-content-request-what-would-you-like-to-see
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 [Jeff Julian](//geekswithblogs.net/jjulian/) who kindly provides my blog has been [blogging](http://geekswithblogs.net/jjulian/archive/2007/06/22/113388.aspx "SharePoint Content Request | What would you like to see?") about what features would be good in Sharepoint.
 
@@ -23,5 +21,3 @@ The current capabilities of TFS are sorely under utilized as any system that use
 At the moment the licensing model is prohibitive for this, but with an enterprise edition of Team Foundation Server _likely_ to be in the works ;) I would think that this would change...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-

@@ -7,11 +7,9 @@ layout: blog
 resourceType: blog
 slug: time-that-task-vsts-check-in-policy
 aliases:
-- /blog/time-that-task-vsts-check-in-policy
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - /blog/time-that-task-vsts-check-in-policy
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I have found this interesting policy for TFS.
 
@@ -33,5 +31,3 @@ Has anyone tried this tool in a production enviroment?
 More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEntryEditor/FCKeditor/editor/) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-

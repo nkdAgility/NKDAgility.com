@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: live-framework
 aliases:
-- /blog/live-framework
+  - /blog/live-framework
 tags:
-- azure
-- tools
-- wit
-- wpf
-coverImage: metro-cloud-azure-link-2-2.png
-
+  - azure
+  - tools
+  - wit
+  - wpf
+preview: metro-cloud-azure-link-2-2.png
 ---
-
 
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.
 
@@ -36,5 +34,3 @@ For example, if I was to think of a couple of simple things that I would like th
 Coool…..
 
 Technorati Tags: [Azure](http://technorati.com/tags/Azure) [Live](http://technorati.com/tags/Live) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

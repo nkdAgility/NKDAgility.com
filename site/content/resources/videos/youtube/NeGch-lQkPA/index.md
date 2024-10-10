@@ -4,7 +4,7 @@ date: 2024-02-19T07:00:09Z
 videoId: NeGch-lQkPA
 url: /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
 canonicalUrl: https://www.youtube.com/watch?v=NeGch-lQkPA
-coverImage: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/NeGch-lQkPA/maxresdefault.jpg
 duration: 125
 isShort: False
 ---

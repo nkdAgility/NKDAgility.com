@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: find-mappings-states-defined-test-suit-work-item-type
 aliases:
-- /blog/find-mappings-states-defined-test-suit-work-item-type
+  - /blog/find-mappings-states-defined-test-suit-work-item-type
 tags:
-- mtm
-- test-management
-- tf400860
-- tfs2010
-- tfs2012
-- tfs-2013
+  - mtm
+  - test-management
+  - tf400860
+  - tfs2010
+  - tfs2012
+  - tfs-2013
 categories:
-- problems-and-puzzles
-coverImage: nakedalm-experts-visual-studio-alm-3-3.png
-
+  - problems-and-puzzles
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
-
 
 After upgrading to TFS 2013.3 you get some reports of errors in MTM from your users. Specifically they get a "Could not find mappings for all states defined in 'Test Suit' work item type" error when connecting. I have also seen "TF400860: TestManagement: Version 19, MinVersion: 19" in some cases in the web access.
 
@@ -66,5 +64,3 @@ Once added you should not have an issue.
 These entries are only required when connecting from older clients. From Visual Studio 2013.3 onwards this is a non-issue so it might be your chance to get all of your users to update to the latest and greatest.
 
 Remember that this issue only affects older clients, and when you have miss typed the casing of the states in your custom process template. Most folks should not run into this and it is a simple fix if you do.
-
-

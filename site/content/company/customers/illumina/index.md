@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45364"
 type: customers
 slug: illumina
-coverImage: Illumina.jpg
-
+preview: Illumina.jpg
 ---
-
-
-
-
-
-

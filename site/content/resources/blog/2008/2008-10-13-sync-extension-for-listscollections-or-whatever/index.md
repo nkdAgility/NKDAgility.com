@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: sync-extension-for-listscollections-or-whatever
 aliases:
-- /blog/sync-extension-for-listscollections-or-whatever
+  - /blog/sync-extension-for-listscollections-or-whatever
 tags:
-- code
-- tools
+  - code
+  - tools
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I recently found the need to Sync two lists. I have one list that is used for display, and I want to dynamically sync that list with a new one by applying a delta.
 
@@ -165,5 +163,3 @@ I thought that this would be difficult, but I was surprised at its ease.
 You need to remember to lock the object while you sync. This is to allow your threading to take place without incident. The nitty gritty is just a case of comparing the two lists and building a list of changes to make and then removing them :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-

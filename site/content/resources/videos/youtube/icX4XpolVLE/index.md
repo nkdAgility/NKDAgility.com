@@ -4,7 +4,7 @@ date: 2024-04-04T11:34:59Z
 videoId: icX4XpolVLE
 url: /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 canonicalUrl: https://www.youtube.com/watch?v=icX4XpolVLE
-coverImage: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: False
 ---
@@ -26,7 +26,6 @@ Discover the evolution of application lifecycle management into DevOps, emphasiz
 DevOps Origins and Evolution: Understand the personal journey of a developer through the early days of web development to the structured environment of Merrill Lynch, highlighting the need for DevOps.
 Automation and Efficiency: Learn about the shift from manual processes to automated solutions in large organizations, reducing deployment times and increasing reliability.
 Strategic Integration of DevOps: Discover how integrating DevOps practices enhances predictability, value delivery, and stakeholder satisfaction in Scrum environments.
-
 
 00:00:00 Introduction to DevOps from Personal Experience
 00:05:07 Transitioning to Formal DevOps Practices
@@ -54,7 +53,7 @@ Like and Subscribe to delve deeper into the world of DevOps and learn how to rev
 Need to integrate DevOps into your operations? Click the link below for expert guidance and support in implementing effective DevOps strategies.
 Share this video with peers and colleagues to spread the knowledge and benefits of adopting DevOps practices in your organization.
 
-#DevOpsJourney #ContinuousDelivery #SoftwareDevelopment #OperationalEfficiency #techinnovation 
+#DevOpsJourney #ContinuousDelivery #SoftwareDevelopment #OperationalEfficiency #techinnovation
 
 Talks us through your journey with DevOps and how NKD Agility intends to help DevOps teams.
 

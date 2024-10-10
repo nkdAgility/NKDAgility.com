@@ -4,7 +4,7 @@ date: 2024-05-07T11:02:49Z
 videoId: EyqLSLHk_Ik
 url: /resources/videos/product-development-mentoring-program
 canonicalUrl: https://www.youtube.com/watch?v=EyqLSLHk_Ik
-coverImage: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/EyqLSLHk_Ik/maxresdefault.jpg
 duration: 423
 isShort: False
 ---

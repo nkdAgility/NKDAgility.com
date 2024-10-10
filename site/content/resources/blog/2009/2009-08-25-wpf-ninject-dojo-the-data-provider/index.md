@@ -1,5 +1,5 @@
 ---
-title: 'Wpf Ninject Dojo: The Data Provider'
+title: "Wpf Ninject Dojo: The Data Provider"
 date: 2009-08-25
 author: MrHinsh
 id: "88"
@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: wpf-ninject-dojo-the-data-provider
 aliases:
-- /blog/wpf-ninject-dojo-the-data-provider
+  - /blog/wpf-ninject-dojo-the-data-provider
 tags:
-- code
-- codeproject
-- mvvm
-- tools
-- visual-studio
-- vs2010
-- wpf
+  - code
+  - codeproject
+  - mvvm
+  - tools
+  - visual-studio
+  - vs2010
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-visual-studio-2010-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
-
 
 You have probably heard me go on about Unity a couple of times:
 
@@ -141,5 +139,3 @@ To get this working I needed to add an instance of an IKernel object to the “A
 Start your [Ninja training](http://dojo.ninject.org/) today!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
-
-

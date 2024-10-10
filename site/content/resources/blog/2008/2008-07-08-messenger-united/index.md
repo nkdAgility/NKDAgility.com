@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: messenger-united
 aliases:
-- /blog/messenger-united
+  - /blog/messenger-united
 tags:
-- answers
-- tools
-coverImage: nakedalm-logo-128-link-3-3.png
-
+  - answers
+  - tools
+preview: nakedalm-logo-128-link-3-3.png
 ---
-
 
 Although the site is a little skewed today…
 
@@ -33,5 +31,3 @@ This it seams is part of Microsoft's Connected Systems initiative that Bill has 
 For those that do not use Hotmail (perish the thought) the only sync / import available is the Facebook one.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-

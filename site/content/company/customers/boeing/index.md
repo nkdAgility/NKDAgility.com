@@ -6,13 +6,6 @@ id: "45362"
 type: customers
 slug: boeing
 tags:
-- homepage
-coverImage: Boeing.jpg
-
+  - homepage
+preview: Boeing.jpg
 ---
-
-
-
-
-
-

@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: quality-centre-to-team-foundation-server-in-one-complex-step
 aliases:
-- /blog/quality-centre-to-team-foundation-server-in-one-complex-step
+  - /blog/quality-centre-to-team-foundation-server-in-one-complex-step
 tags:
-- configuration
-- infrastructure
-- opshub
-- qc
-- scrat
-- tasktop
-- tfs
-- tools
+  - configuration
+  - infrastructure
+  - opshub
+  - qc
+  - scrat
+  - tasktop
+  - tfs
+  - tools
 categories:
-- code-and-complexity
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-7-7.png
-
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 ---
-
 
 We have had a large number of customers over the years that desperately want to move from Quality Centre (now HP ALM) to… well… anything else to be honest. The current leader in the ALM space just happens to be my favourite tool, Team Foundation Server, and so I am continuously on the lookout for tools that can help us migrate from whatever the customer is using to Team Foundation Server.
 
@@ -136,5 +134,3 @@ Lets try and break this down into some sort of capability grid:
 **Figure: Comparison of products**
 
 So if you just want to synchronise I would recommend starting with “**HP ALM Synchronizer**” and verifying if the features meet you needs. If not then push out to “**OpsHub”** as it looks to have the better feature set and widest support for tools. If you are Migrating your Quality Centre implementation to TFS then the only choice is **Scrat**.
-
-

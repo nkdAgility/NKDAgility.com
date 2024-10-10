@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
-- /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+  - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 tags:
-- code
-- codeproject
-- tfs2008
-- tools
+  - code
+  - codeproject
+  - tfs2008
+  - tools
 categories:
-- code-and-complexity
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 This is a lot harder than it sounds. At first you think there will be a built in option with the [Read Identities](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.readidentities.aspx) method on the [IGroupSecurityService](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.aspx) Interface, but you would be wrong!
 
@@ -864,5 +862,3 @@ As you can see there was a lot of research, which does not include all the stuff
 I think that this was an unnecessary complexity and there should be an additional option for the [Search Factor](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.searchfactor.aspx) enumeration should be added to make this easier.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-
-

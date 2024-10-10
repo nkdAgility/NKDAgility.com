@@ -1,5 +1,5 @@
 ---
-title: 'Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item'
+title: "Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item"
 date: 2011-08-26
 author: MrHinsh
 id: "3769"
@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 aliases:
-- /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
+  - /blog/subversion-to-tfs-2010-the-migration-engine-is-unable-to-resolve-a-conflict-where-two-changes-have-the-same-target-item
 tags:
-- nwcadence
-- tfs
-- tfs2010
-- timely-migration
-- tools
-- visual-studio
-- vs2010
-coverImage: image-1.png
-
+  - nwcadence
+  - tfs
+  - tfs2010
+  - timely-migration
+  - tools
+  - visual-studio
+  - vs2010
+preview: image-1.png
 ---
-
 
 [![subversion](images/subversion_thumb-17-17.png "subversion")](http://blog.hinshelwood.com/files/2011/08/subversion1.png)
 { .post-img }
@@ -40,8 +38,6 @@ For the smaller sets that I migrated to test this tool it worked just fine, but 
 
 [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/08/image6.png) **Figure: Unable to resolve conflict where two changes have the same target item**
 { .post-img }
-
-
 
 Dam, but conflicts suck. This particular conflict is due to two changes from Subversion are being applied to the same file in a single changes. We need to be able to resolve this as you will not be able to make changes to what is migrated and then rerun that portion.
 
@@ -121,8 +117,6 @@ So what I decided to do was install the Snagit 10 trial and use the “Capture T
 
 **Figure: Snagit Capture text function gives you grab the entire vertical area in one go**
 
-
-
 [![image](images/image_thumb8-12-12.png "image")](http://blog.hinshelwood.com/files/2011/08/image12.png)
 { .post-img }
 
@@ -155,11 +149,7 @@ While this would remove the conflicts, it would poise the real risk of loosing d
 **![o_Error-icon](images/o_Error-icon-15-15.png "o_Error-icon")Figure: Risky option, change setting to ignore Existing Items**
 { .post-img }
 
-
-
 - **Remove each conflict (Recommended)**
-
-
 
 For each item in the list, determine which one is in conflict and remove it manually. This is likely to happen ever time a large number of changes is checked in or reorgs of code happen.
 
@@ -172,5 +162,3 @@ For each item in the list, determine which one is in conflict and remove it manu
 It would be really nice if Timely could add the ability to view the conflicts only and be able to bulk apply the resolution as I am looking at 300+ conflicts in a single check-in. At least we are 68% of the way through this particular migration and the chances are (fingers crossed) that there will only be a few conflicts.
 
 **Let me know how you get on with your own migrations!**
-
-

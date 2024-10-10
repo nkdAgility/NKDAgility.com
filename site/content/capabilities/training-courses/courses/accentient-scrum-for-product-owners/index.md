@@ -6,10 +6,15 @@ id: "44729"
 type: course
 slug: scrum-for-product-owners-training
 aliases:
-- scrum-for-product-owners
-- /training-courses/scrum-for-product-owners-training/
+  - /training-courses/scrum-for-product-owners
+  - /training-courses/scrum-for-product-owners-training/
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Accentient
 categories:
-- agility
+  - agility
 card:
   button:
     content: ""
@@ -50,18 +55,9 @@ delivery:
   certification: ""
   brand:
     vendor: accentient
-    colour: 
+    colour:
   code: S4PO
   courseIcon: A-S4PO.png
-
 ---
 
-
-
-
-
 This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
-
-
-
-

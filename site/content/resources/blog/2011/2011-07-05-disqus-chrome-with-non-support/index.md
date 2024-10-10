@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: disqus-chrome-with-non-support
 aliases:
-- /blog/disqus-chrome-with-non-support
+  - /blog/disqus-chrome-with-non-support
 tags:
-- off-topic
+  - off-topic
 categories:
-- me
-coverImage: nakedalm-logo-128-link-7-7.png
-
+  - me
+preview: nakedalm-logo-128-link-7-7.png
 ---
-
 
 ![](images/disqus-logo-3-3.png)
 { .post-img }
@@ -79,7 +77,7 @@ All pages as describes. Go to any single blog post page, but the one depicted in
 1.  Go to individual post page on site
     _e.g._ [_http://blog.hinshelwood.com/ahaaaa/_](http://blog.hinshelwood.com/ahaaaa/) _(as depicted in the screenshot)_
 2.  See problem that is demonstrated in this screenshot
-        [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/07/image2.png)
+    [![image](images/image_thumb2-6-6.png "image")](http://blog.hinshelwood.com/files/2011/07/image2.png)
     { .post-img }
     **Figure: Same problem exists in this screenshot**
 
@@ -104,5 +102,3 @@ Please do not hesitate to contact me if you have any further problems extracting
 **<RESPONCE>**
 
 Let see if I get any help… I can’t think I am the only one who's blog does not work with Chrome.
-
-

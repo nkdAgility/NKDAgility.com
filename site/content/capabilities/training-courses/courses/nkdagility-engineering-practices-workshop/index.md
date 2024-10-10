@@ -6,10 +6,14 @@ id: "10108"
 type: course
 slug: engineering-practices-workshop
 aliases:
-- /training-courses/engineering-practices-workshop/
+  - /training-courses/engineering-practices-workshop/
+course-topics:
+  - Engineering Training Courses
+course-vendors:
+  - NKDAgility
 tags:
-- development
-- workshop
+  - development
+  - workshop
 card:
   button:
     content: ""
@@ -30,20 +34,11 @@ delivery:
   certification: ""
   brand:
     vendor: naked-alm
-    colour: 
+    colour:
   code: NKD-ENG
   courseIcon: NKD-Eng.png
-
 ---
-
-
-
-
 
 This workshop includes instructor demo and guided discussion focusing on agile software engineering practices. The instructor will cover relevant engineering and ALM (Application Lifecycle Management) practices.
 
 [Request Course](/company/general-inquiries/) [Download Syllabus](#)
-
-
-
-

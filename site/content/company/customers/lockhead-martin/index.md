@@ -6,13 +6,6 @@ id: "11815"
 type: customers
 slug: lockhead-martin
 tags:
-- homepage
-coverImage: Lockheed-Martin.png
-
+  - homepage
+preview: Lockheed-Martin.png
 ---
-
-
-
-
-
-

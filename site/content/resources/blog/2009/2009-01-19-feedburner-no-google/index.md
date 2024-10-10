@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: feedburner-no-google
 aliases:
-- /blog/feedburner-no-google
+  - /blog/feedburner-no-google
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 As some of you may know, Feedburner ([http://feedburner.com](http://feedburner.com)) was acquired some time ago by Google… But they are now actively migrating their content to Google servers ([http://feedburner.google.com](http://feedburner.google.com "http://feedburner.google.com")) and I have taken the plunge… if you are having any problems with my feeds then please let me know so I can rectify it…
 
@@ -29,5 +27,3 @@ Although you do get less options, Google has promised that more functionality wi
 We will see…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

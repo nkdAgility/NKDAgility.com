@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: delving-into-sharepoint-3-0
 aliases:
-- /blog/delving-into-sharepoint-3-0
+  - /blog/delving-into-sharepoint-3-0
 tags:
-- sp2007
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - sp2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Well, I have spent the afternoon delving into the features of SharePoint 3.0. As an extensive [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") user I have had a lot of exposure to SharePoint 2.0 and I always found it kinda _crap_...
 
@@ -22,5 +20,3 @@ I was very surprised to find  that this new version is quite good. I will event
 I will let you know how I get on with the rest of the configuration. I am really looking forward to WF in SharePoint...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
-
-

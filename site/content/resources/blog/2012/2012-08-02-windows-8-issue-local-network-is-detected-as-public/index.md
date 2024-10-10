@@ -1,5 +1,5 @@
 ---
-title: 'Windows 8 Issue: Local network is detected as public'
+title: "Windows 8 Issue: Local network is detected as public"
 date: 2012-08-02
 author: MrHinsh
 id: "6924"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: windows-8-issue-local-network-is-detected-as-public
 aliases:
-- /blog/windows-8-issue-local-network-is-detected-as-public
+  - /blog/windows-8-issue-local-network-is-detected-as-public
 tags:
-- puzzles
-- vsip
-- win8
-- windows
+  - puzzles
+  - vsip
+  - win8
+  - windows
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-5-5.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-5-5.png
 ---
-
 
 When you are running hyper-v you get the option to create private virtual switches to compartmentalise your network coms. if however you are using Windows 8 it may define those networks as “Public Networks” and tighten up your security so much that you cant communicate with other computers.
 
@@ -64,5 +62,3 @@ location.
 Note: If you cant launch the “Local Computer Policy” then you are running Windows 8 and you need Windows 8 Pro to do this.
 
 **Did this help you?**
-
-

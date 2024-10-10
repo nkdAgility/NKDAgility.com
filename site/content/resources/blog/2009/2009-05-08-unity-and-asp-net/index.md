@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: unity-and-asp-net
 aliases:
-- /blog/unity-and-asp-net
+  - /blog/unity-and-asp-net
 tags:
-- code
-- codeproject
-- dependency-injection
-- tools
-- wpf
+  - code
+  - codeproject
+  - dependency-injection
+  - tools
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 Using Dependency Injection in a website can get a little dodgy, but in my ASP.NET site use the same base code as my WPF app, I needed a little dependency injection to resolve references at runtime when the application type is known. Now in your ASP.NET page just like in your WPF application you need a little extra bit to get it all going. Finding this for WPF is easy, not so much in ASP.
 
@@ -126,5 +124,3 @@ The site will then load your new code and you can test the only functionality th
 P.S. Works with MVC… shhhh…
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [WPF](http://technorati.com/tags/WPF)
-
-

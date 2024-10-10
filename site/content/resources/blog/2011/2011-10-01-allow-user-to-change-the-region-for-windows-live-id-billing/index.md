@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: allow-user-to-change-the-region-for-windows-live-id-billing
 aliases:
-- /blog/allow-user-to-change-the-region-for-windows-live-id-billing
+  - /blog/allow-user-to-change-the-region-for-windows-live-id-billing
 tags:
-- tfs
-- win8
-- wp7
-- xbox
+  - tfs
+  - win8
+  - wp7
+  - xbox
 categories:
-- me
-coverImage: metro-xbox-360-link-2-2.png
-
+  - me
+preview: metro-xbox-360-link-2-2.png
 ---
-
 
 ![img_33742_microsoft-windows-live-logo_450x360](images/img_33742_microsoft-windows-live-logo_450x360-1-1.jpg "img_33742_microsoft-windows-live-logo_450x360")Recently I was burned rather heavily be Microsoft Billing due to their inability to change the region (country) of an account. Yes, you heard me right, there is NO way to change your billing region and the ONLY solution Microsoft can offer is to create a new account.
 { .post-img }
@@ -118,5 +116,3 @@ The only way to even attempt to fix this is to make sure that Microsoft realises
 - **User Voice (Windows Phone):** [**Allow changing your windows id location**](http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no "http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no")
 
 While your vote here, or rants on your own blog may not help, it is the best we can do….
-
-

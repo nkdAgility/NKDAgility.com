@@ -5,24 +5,30 @@ author: MrHinsh
 id: "10049"
 type: course
 slug: professional-scrum-master-psm-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-scrum-master
-- professional-scrum-master-psm-training
-- professional-scrum-master-training-with-certification
-- professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
-- /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+  - /training-courses/professional-scrum-master
+  - /training-courses/professional-scrum-master-psm-training
+  - /training-courses/professional-scrum-master-training-with-certification
+  - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
+  - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
+course-topics:
+  - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
-- agile
-- agility
-- business-agility
-- certification
-- professional-scrum
-- professional-scrum-master
-- scrum-org
+  - agile
+  - agility
+  - business-agility
+  - certification
+  - professional-scrum
+  - professional-scrum-master
+  - scrum-org
 categories:
-- measure-and-learn
-- people-and-process
-coverImage: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
+  - measure-and-learn
+  - people-and-process
+preview: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
 card:
   button:
     content: ""
@@ -73,15 +79,10 @@ delivery:
   certification: Upon completion of our signature Professional Scrum Master course, all attendees will receive a password to attempt the prestigious [Professional Scrum Master I (PSM I) assessment](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments). Additionally, we are pleased to offer a special discount for the [Professional Scrum Master II (PSM II) assessment](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments) as a token of our commitment to your continuous learning journey.  The PSM certifications, recognized and respected across the industry, do require a minimum passing score, reflecting their rigorous standards and the high level of competence they signify.  For those affiliated with the Project Management Institute (PMI), we're delighted to inform you that our courses are eligible for PDU credit. Specifically, you can claim 14 PDUs after attending our two-day Professional Scrum Master (PSM) course. Please be aware that PMI PDUs are awarded for course attendance, not for passing a Scrum.org assessment.  To claim your PDUs, you can do so under PMI’s “Education courses provided by other third party providers” category. Simply visit https://ccrs.pmi.org to register your PDUs.  We're excited to be part of your Scrum and Agile journey, and we're committed to providing you with the knowledge, skills, and credentials you need to excel in this dynamic field.
   brand:
     vendor: scrum-org
-    colour: '#3a7c9a'
+    colour: "#3a7c9a"
   code: PSM
   courseIcon: PSM-400x.png
-
 ---
-
-
-
-
 
 Welcome to the Professional Scrum Master (PSM) course. This transformative learning journey is designed specifically for Agile Leaders, Product Owners, and Managers eager to understand and incorporate Scrum values and principles into their leadership repertoire.
 
@@ -114,7 +115,3 @@ Course Features:
 This course is more than just an introduction to Scrum; it's a comprehensive exploration of Scrum's potential to transform your leadership style, team, and entire organization. Training for those wishing to leverage the power of Scrum is essential to enhance their effectiveness and adaptability in an increasingly complex business environment.
 
 Join the Professional Scrum Master course and equip yourself with the knowledge, skills, and mindset needed to lead in the Scrum world.
-
-
-
-

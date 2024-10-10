@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: microsofts-internal-uptake-of-team-foundation-server
 aliases:
-- /blog/microsofts-internal-uptake-of-team-foundation-server
+  - /blog/microsofts-internal-uptake-of-team-foundation-server
 tags:
-- tfs
-- tfs2008
-- visual-studio
-- vs2008
+  - tfs
+  - tfs2008
+  - visual-studio
+  - vs2008
 categories:
-- news-and-reviews
-- products-and-books
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - news-and-reviews
+  - products-and-books
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 I am very encouraged by [Brain Harry's blog](http://blogs.msdn.com/bharry/archive/2007/07/24/update-on-adoption-of-tfs-at-microsoft.aspx "update on adoption of tfs at microsoft") on [dogfooding](http://en.wikipedia.org/wiki/Dogfooding) at Microsoft. In my battles to get my company to use Team Foundation Server I recently contacted the manager of the most highly regarded development team in the company.
 
@@ -34,5 +32,3 @@ This internal use seams to be encouraging Microsoft to put a lot of effort into 
 The future is bright, the future is [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System")...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-
-

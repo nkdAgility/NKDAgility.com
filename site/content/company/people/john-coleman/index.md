@@ -6,8 +6,8 @@ id: "48228"
 type: people
 slug: john-coleman
 aliases:
-- /company/people/john-coleman/
-coverImage: John-Coleman-glow.png
+  - /company/people/john-coleman/
+preview: John-Coleman-glow.png
 card:
   button:
     content: More info
@@ -18,11 +18,4 @@ card:
     Maximizing Agile Transformation and Value Delivery ✪ Renowned Scrum &amp; Agile Coach, Trainer, &amp; Speaker with 15+ yrs in Agile Methodologies ✪ Lean &amp; EBMgt Advocate ✪ Executive Agile Advisor ✪ Professional Scrum Trainer (PST) &amp; Kanban Trainer (PKT)
 
     &nbsp;
-
 ---
-
-
-
-
-
-

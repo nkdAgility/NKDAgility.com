@@ -2,7 +2,7 @@
 id: "48577"
 title: "Futureproof Yourself With Skills, Capabilities And Certifications That Companies Care About"
 date: "2022-11-28"
-coverImage: "naked-agility-technically-agile-1280×720-December2022.jpg"
+preview: "naked-agility-technically-agile-1280×720-December2022.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

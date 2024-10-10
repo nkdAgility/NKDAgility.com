@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11831"
 type: customers
 slug: flowmaster-mentor-graphics-company
-coverImage: nkdagility-customer-flowmaster-200x75.png
-
+preview: nkdagility-customer-flowmaster-200x75.png
 ---
-
-
-
-
-
-

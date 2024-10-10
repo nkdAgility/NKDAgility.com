@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: visual-studio-2010-overview-reporting-process
 aliases:
-- /blog/visual-studio-2010-overview-reporting-process
+  - /blog/visual-studio-2010-overview-reporting-process
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-- webcast-2
-coverImage: metro-visual-studio-2010-128-link-1-1.png
-
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - webcast-2
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
-
 
 The Process Template governs nearly all aspects of how the team interacts with Visual Studio and TFS (e.g., the structure and flow of work items). Whether a team has a well-established development process or needs to define one, proper template selection and practice are critical.
 
@@ -45,5 +43,3 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 **Screencast: Visual Studio 2010 Overview - Reporting & Process**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts._
-
-

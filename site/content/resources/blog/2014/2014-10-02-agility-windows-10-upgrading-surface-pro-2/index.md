@@ -1,5 +1,5 @@
 ---
-title: 'Agility and Windows 10: Upgrading my Surface Pro 2'
+title: "Agility and Windows 10: Upgrading my Surface Pro 2"
 date: 2014-10-02
 author: MrHinsh
 id: "10746"
@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: agility-windows-10-upgrading-surface-pro-2
 aliases:
-- /blog/agility-windows-10-upgrading-surface-pro-2
+  - /blog/agility-windows-10-upgrading-surface-pro-2
 tags:
-- agility
-- dell-venue-8
-- surface-2-pro
-- windows
-- windows-10
+  - agility
+  - dell-venue-8
+  - surface-2-pro
+  - windows
+  - windows-10
 categories:
-- install-and-configuration
-- measure-and-learn
-- news-and-reviews
-coverImage: nakedalm-windows-logo-12-12.png
-
+  - install-and-configuration
+  - measure-and-learn
+  - news-and-reviews
+preview: nakedalm-windows-logo-12-12.png
 ---
-
 
 You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.
 
@@ -125,5 +123,3 @@ That’s all I got from a first play, except to say that all my day job things w
 While I take no responsibility for any issues that you may have if you install Windows 10 I would recommend that anyone technically minded does so. And that they run it on their main computer. Take a little risk and provide feedback. The worst that can happen is that you need to reinstall Windows 8 / 7.
 
 Go on… be a kid again…
-
-

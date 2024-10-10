@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: simpsonize-me
 aliases:
-- /blog/simpsonize-me
+  - /blog/simpsonize-me
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-1.png
-
+  - me
+preview: nakedalm-logo-128-link-2-1.png
 ---
-
 
 [Scott Miller](http://geekswithblogs.net/appsguild) alerted my to this with his [post](http://geekswithblogs.net/appsguild/archive/2007/07/18/114038.aspx "Simpsonize Me!") about 4 days ago, and I have finally got it working:
 
@@ -23,5 +21,3 @@ coverImage: nakedalm-logo-128-link-2-1.png
 Me as a Simpson!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

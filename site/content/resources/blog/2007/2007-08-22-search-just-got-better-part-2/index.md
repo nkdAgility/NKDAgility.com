@@ -1,5 +1,5 @@
 ---
-title: 'Search just got better: Part 2'
+title: "Search just got better: Part 2"
 date: 2007-08-22
 author: MrHinsh
 id: "322"
@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: search-just-got-better-part-2
 aliases:
-- /blog/search-just-got-better-part-2
+  - /blog/search-just-got-better-part-2
 tags:
-- dyslexia
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 After my post on the new [Tafiti](http://www.tafiti.com/) search engine a fellow by the name of [Anselm](http://www.searchcrystal.com/) pointed out [Search Crystal](http://www.searchcrystal.com "http://www.searchcrystal.com"), another visual search engine that produces some good result. I did not get he same Wow that I did from Tafiti, but the amount of information that is provided through the interface is extensive.
 
@@ -26,5 +24,3 @@ Below you can see an example of the search results, and you should be able to pl
 Have you seen any other search visualization website's? Let me know...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

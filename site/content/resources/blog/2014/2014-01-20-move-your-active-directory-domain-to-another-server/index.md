@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: move-your-active-directory-domain-to-another-server
 aliases:
-- /blog/move-your-active-directory-domain-to-another-server
+  - /blog/move-your-active-directory-domain-to-another-server
 tags:
-- active-directory
-- domain
-- server-2012-r2
-- tf255435
+  - active-directory
+  - domain
+  - server-2012-r2
+  - tf255435
 categories:
-- install-and-configuration
-coverImage: metro-server-instances_thumb-2-2.png
-
+  - install-and-configuration
+preview: metro-server-instances_thumb-2-2.png
 ---
-
 
 I was trying to install TFS 2013 yesterday and I found that my local demo domain was not working. After a little investigation It looks like I was running Windows Server 2012 R2 Preview and it had just expired.
 
@@ -44,5 +42,3 @@ And lets not forget the Global Catalogue.
 The video documents my journey of moving my demo domain from one server to another and it currently looks like everything is working. Job done…
 
 How did you get on moving your domain?
-
-

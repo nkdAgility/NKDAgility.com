@@ -7,25 +7,23 @@ layout: blog
 resourceType: blog
 slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
-- /blog/the-new-normal-of-the-modern-application-lifecycle
+  - /blog/the-new-normal-of-the-modern-application-lifecycle
 tags:
-- agile
-- improve
-- measure
-- modern-alm
-- process
-- process-improvement
-- s30d
-- series-modern-application-lifecycle
-- the-new-normal
+  - agile
+  - improve
+  - measure
+  - modern-alm
+  - process
+  - process-improvement
+  - s30d
+  - series-modern-application-lifecycle
+  - the-new-normal
 categories:
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
-coverImage: metro-new-normal-icon-28-28.png
-
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
+preview: metro-new-normal-icon-28-28.png
 ---
-
 
 The new normal for software development is the theme for the keynote at the [Visual Studio Launch Roadshows](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/) that I will be speaking at this week I have been doing a little research.
 
@@ -305,5 +303,3 @@ Now is the time to Rise up and begin the evolution to the new normal
 ### Conclusion
 
 It has been an interesting journey learning this content and exploring the Launch in a Box and I hope that I can do it justice tomorrow at the [Visual Studio 2012 Launch Roadshow](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/). I will have this in my session tomorrow as well, but you can [sign up to get the decks](http://eepurl.com/qhsTn) that I will be presenting. I will be doing both the “Keynote: Evolve - Rediscover Relevancy” and the “Revolution: The Agile Developer” both in San Diego and Irvine.
-
-

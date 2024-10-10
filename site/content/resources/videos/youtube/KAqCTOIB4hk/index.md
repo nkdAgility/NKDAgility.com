@@ -4,7 +4,7 @@ date: 2024-08-12T10:03:43Z
 videoId: KAqCTOIB4hk
 url: /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
 canonicalUrl: https://www.youtube.com/watch?v=KAqCTOIB4hk
-coverImage: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KAqCTOIB4hk/maxresdefault.jpg
 duration: 574
 isShort: False
 ---
@@ -20,21 +20,27 @@ You'll learn how outcome-based assignments encourage you to take what you've lea
 **Chapters:**
 
 1. **Introduction to Immersive Learning (00:00-00:31)**
+
    - Discover how our immersive learning program goes beyond traditional content delivery to drive real-world application.
 
 2. **Learning and Application Through Outcome-Based Assignments (00:31-01:31)**
+
    - Learn how structured assignments help you apply new knowledge in your organization, leading to practical outcomes.
 
 3. **Focusing on Value and Evidence-Based Management (01:31-02:55)**
+
    - Understand how to measure and enhance value through evidence-based techniques, and how to engage in meaningful conversations about metrics.
 
 4. **Encouraging Organizational Change Through Conversations (02:55-04:02)**
+
    - Explore how the program fosters change by encouraging participants to have critical conversations within their organizations.
 
 5. **Reflective Sessions and Continuous Learning (04:02-06:26)**
+
    - See how regular reflection and feedback sessions help reinforce learning and guide the next steps in your organizational journey.
 
 6. **Overcoming Challenges in Product Management (06:26-08:29)**
+
    - Learn how to navigate challenges like organizational resistance and how to position product management as a key driver of value.
 
 7. **Enabling Long-Term Organizational Impact (08:29-End)**

@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
-- /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+  - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 tags:
-- Scrum Masters
+  - Scrum Masters
 categories:
-- agility
-coverImage: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
-
+  - agility
+preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 ---
-
 
 As a DevOps consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software product development. It’s astonishing how many Scrum Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.
 
@@ -89,5 +87,3 @@ Reference
 - \*\* Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 
 - \*\*\* System of Profound Knowledge by W. Edwards Deming
-
-

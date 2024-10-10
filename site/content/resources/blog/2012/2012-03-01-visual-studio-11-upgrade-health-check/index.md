@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: visual-studio-11-upgrade-health-check
 aliases:
-- /blog/visual-studio-11-upgrade-health-check
+  - /blog/visual-studio-11-upgrade-health-check
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- tfs2012
-- tools
-- visual-studio
-- vs2012
+  - configuration
+  - infrastructure
+  - nwcadence
+  - tfs2012
+  - tools
+  - visual-studio
+  - vs2012
 categories:
-- tools-and-techniques
-- upgrade-and-maintenance
-coverImage: nakedalm-experts-visual-studio-alm-2-2.png
-
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
-
 
 With the launch of [Visual Studio 11 Team Foundation Server Beta](http://blog.hinshelwood.com/announcing-visual-studio-11-beta-will-launch-on-february-29th/) and the Go-Live licencing model you can go into production now. But what if you are not quite ready?
 
@@ -42,5 +40,3 @@ We can help you make sure that you will be able to:
 - e.t.c.
 
 Let us help you get the most out of the tools…
-
-

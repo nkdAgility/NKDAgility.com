@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: can-you-really-commit-to-delivering-work
 aliases:
-- /blog/can-you-really-commit-to-delivering-work
+  - /blog/can-you-really-commit-to-delivering-work
 tags:
-- develop
-- nwcadence
-- people
-- practices
-- process
-- scrum
+  - develop
+  - nwcadence
+  - people
+  - practices
+  - process
+  - scrum
 categories:
-- people-and-process
-coverImage: nakedalm-experts-professional-scrum-5-5.png
-
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-5-5.png
 ---
-
 
 [![PST Logo 2](images/PST-Logo-2_thumb-8-8.png "PST Logo 2")](http://blog.hinshelwood.com/files/2011/11/PST-Logo-2.png) There has been a subtle but targeted change in the wording used as part of Scrum. There has bee a move away from commitment towards forecasting what will be completed. Why is this happening and what does it mean to my team?
 { .post-img }
@@ -78,5 +76,3 @@ The result should be higher levels of trust between all parties that should resu
 **Are you going to make the change from Commitment to Forecast?**
 
 If not, let me know why this will not make sense in your organisation!
-
-

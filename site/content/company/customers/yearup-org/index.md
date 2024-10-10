@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45247"
 type: customers
 slug: yearup-org
-coverImage: yearup.png
-
+preview: yearup.png
 ---
-
-
-
-
-
-

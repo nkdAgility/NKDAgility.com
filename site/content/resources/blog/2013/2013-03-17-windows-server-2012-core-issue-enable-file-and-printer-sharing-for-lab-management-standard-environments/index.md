@@ -1,5 +1,5 @@
 ---
-title: 'Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments'
+title: "Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments"
 date: 2013-03-17
 author: MrHinsh
 id: "9288"
@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 aliases:
-- /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
+  - /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 tags:
-- configuration
-- core
-- infrastructure
-- tfs
-- tfs2012-2
-- tools
-- windows-server
+  - configuration
+  - core
+  - infrastructure
+  - tfs
+  - tfs2012-2
+  - tools
+  - windows-server
 categories:
-- code-and-complexity
-coverImage: puzzle-issue-problem-128-link-6-6.png
-
+  - code-and-complexity
+preview: puzzle-issue-problem-128-link-6-6.png
 ---
-
 
 If you try to add any servers to Standard Environments in Visual Studio 2012 Lab Management you get a message that you need to enable file and printer sharing and you are unable to configure or communicate with those machines.
 
@@ -58,11 +56,11 @@ In both Windows 8 and Windows Server 2012 the File and Printer Sharing ports are
 You need to open the ports required for File & Print Sharing. This is roughly the same for doing the same on Windows Server 2012 through the UI.
 
 1.  **Start | type “Fire” | click “Settings” | press “Enter” key**
-        ![image](images/image12-2-2.png "image")
+    ![image](images/image12-2-2.png "image")
     { .post-img }
     **Figure: Open the Windows Firewall Settings**
 2.  **Change Settings | check “File and Printer Sharing” | OK**
-        ![image](images/image13-3-3.png "image")
+    ![image](images/image13-3-3.png "image")
     { .post-img }
     **Figure: Enable File and Printer Sharing on your Windows 8 firewall**
 
@@ -89,5 +87,3 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
-
-

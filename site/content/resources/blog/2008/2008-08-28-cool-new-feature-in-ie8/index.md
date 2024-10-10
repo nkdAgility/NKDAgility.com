@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: cool-new-feature-in-ie8
 aliases:
-- /blog/cool-new-feature-in-ie8
+  - /blog/cool-new-feature-in-ie8
 tags:
-- ie8
-- off-topic
-- tools
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - ie8
+  - off-topic
+  - tools
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 It may be simple, and it may be small, but the feature that hit me first and greatest in IE8 was the address bar enhancements. This feature alone would have me upgrading:
 
@@ -25,5 +23,3 @@ It may be simple, and it may be small, but the feature that hit me first and gre
 This feature alone has improved my efficientcy :) I can find stuff again....
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-

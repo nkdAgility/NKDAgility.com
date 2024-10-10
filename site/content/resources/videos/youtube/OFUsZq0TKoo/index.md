@@ -4,7 +4,7 @@ date: 2024-08-27T07:07:18Z
 videoId: OFUsZq0TKoo
 url: /resources/videos/what-you-will-be-able-to-do-after-the-ppdv-course
 canonicalUrl: https://www.youtube.com/watch?v=OFUsZq0TKoo
-coverImage: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/OFUsZq0TKoo/maxresdefault.jpg
 duration: 269
 isShort: False
 ---

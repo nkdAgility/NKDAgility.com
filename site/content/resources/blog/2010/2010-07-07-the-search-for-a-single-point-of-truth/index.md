@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: the-search-for-a-single-point-of-truth
 aliases:
-- /blog/the-search-for-a-single-point-of-truth
+  - /blog/the-search-for-a-single-point-of-truth
 tags:
-- linkedin
-- off-topic
-- tools
+  - linkedin
+  - off-topic
+  - tools
 categories:
-- me
-coverImage: nakedalm-logo-128-link-19-19.png
-
+  - me
+preview: nakedalm-logo-128-link-19-19.png
 ---
-
 
 ![image](images/7b88707dd37e_F009-image_-8-11.png)It may be a trivial matter to get your contacts on your phone, but if you do the social network thing, then you need to do a little jiggery pokery to get everything to sync so you have the same contacts everywhere. Over the last couple of weeks I have vowed to get them sorted.
 { .post-img }
@@ -193,5 +191,3 @@ I am very happy with my contact syncing setup ![Smile](images/7b88707dd37e_F009-
 { .post-img }
 
 Technorati Tags: [Sync](http://technorati.com/tags/Sync),[LinkedIn](http://technorati.com/tags/LinkedIn),[Live](http://technorati.com/tags/Live)
-
-

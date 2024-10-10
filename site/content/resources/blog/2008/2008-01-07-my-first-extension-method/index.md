@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: my-first-extension-method
 aliases:
-- /blog/my-first-extension-method
+  - /blog/my-first-extension-method
 tags:
-- code
+  - code
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...
 
@@ -47,5 +45,3 @@ You can add extension methods randomly within your code, but it makes sense to p
 Have fun...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-
-

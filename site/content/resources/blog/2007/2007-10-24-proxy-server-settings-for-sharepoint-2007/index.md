@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: proxy-server-settings-for-sharepoint-2007
 aliases:
-- /blog/proxy-server-settings-for-sharepoint-2007
+  - /blog/proxy-server-settings-for-sharepoint-2007
 tags:
-- sharepoint
-- sp2007
-- spf2010
+  - sharepoint
+  - sp2007
+  - spf2010
 categories:
-- problems-and-puzzles
-coverImage: metro-sharepoint-128-link-1-1.png
-
+  - problems-and-puzzles
+preview: metro-sharepoint-128-link-1-1.png
 ---
-
 
 Well this was fun... All the [examples](http://dotnet.org.za/jpfouche/archive/2007/03/23/sharepoint-2007-rss-viewer-and-proxy-configuration.aspx "Missing details") of how to connect through a proxy from SharePoint are missing a crucial piece of information!
 
@@ -49,5 +47,3 @@ The required bit of which is the useDefaultCredentials parameter that passes the
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

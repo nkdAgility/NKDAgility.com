@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11845"
 type: customers
 slug: qualco
-coverImage: nkdagility-customer-qualco-200x75.png
-
+preview: nkdagility-customer-qualco-200x75.png
 ---
-
-
-
-
-
-

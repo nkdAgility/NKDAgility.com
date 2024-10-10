@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: tfs-stick-buddy-v0-4-0-ctp2-released
 aliases:
-- /blog/tfs-stick-buddy-v0-4-0-ctp2-released
+  - /blog/tfs-stick-buddy-v0-4-0-ctp2-released
 tags:
-- code
-- tfs-sticky-buddy
-- wit
-- wpf
+  - code
+  - tfs-sticky-buddy
+  - wit
+  - wpf
 categories:
-- code-and-complexity
-- me
-- tools-and-techniques
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+  - tools-and-techniques
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 All to soon and it is that time again...I have been developing, hell bent on getting a [working sticky buddy](http://www.codeplex.com/TFSStickyBuddy) online, and here it is...
 
@@ -66,18 +64,10 @@ I plan to have other options, but I will need to make some changes to the skinin
 [![image_thumb18](images/TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb18_thumb-3-3.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-TFSStickBuddyv0.4.0CTP2released_12E38-image_thumb18_2.png)
 { .post-img }
 
-
-
 I hope everyone "team servery" has a go, and don't be shy about [reporting bugs](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx) and [requesting features](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx).
 
 You can even use the [discussion forums](http://www.codeplex.com/TFSStickyBuddy/Thread/List.aspx)...
 
-
-
 [**Download TFS Stick Buddy v0.4.0 CTP2 Now**](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)**...**
 
-
-
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-
-

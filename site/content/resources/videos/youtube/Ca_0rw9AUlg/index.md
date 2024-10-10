@@ -4,7 +4,7 @@ date: 2024-01-21T07:00:06Z
 videoId: Ca_0rw9AUlg
 url: /resources/videos/there's-no-such-thing-as-an-agile-transformation-it's-a-culture-transformation-michael-sahota
 canonicalUrl: https://www.youtube.com/watch?v=Ca_0rw9AUlg
-coverImage: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Ca_0rw9AUlg/maxresdefault.jpg
 duration: 195
 isShort: False
 ---
@@ -13,13 +13,13 @@ isShort: False
 
 # There's no such thing as an Agile Transformation. It's a Culture Transformation - Michael Sahota
 
-Transforming Culture: It's Not What You Think - Discover the truth about agile and cultural transformation in this thought-provoking video. 
+Transforming Culture: It's Not What You Think - Discover the truth about agile and cultural transformation in this thought-provoking video.
 
 🔔 Subscribe to our channel: https://www.youtube.com/@nakedAgility
 
 Join me as I delve into the concept of transformation and its impact on culture. Is it really possible to change an organisation's culture directly? Or is there more to it than meets the eye? 🤔
 
-*Key Takeaways:*
+_Key Takeaways:_
 [chapters]
 00:00:04.799 Agile transformation is not a thing
 00:00:26.439 Culture cannot be changed directly
@@ -27,7 +27,7 @@ Join me as I delve into the concept of transformation and its impact on culture.
 02:29:920 Change the system to change the culture
 02:49:879 Monitor the outcomes and keep shifting the system
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 If you struggle to understand the relationship between transformation and culture, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

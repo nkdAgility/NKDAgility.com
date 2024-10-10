@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: linq-to-xsd
 aliases:
-- /blog/linq-to-xsd
+  - /blog/linq-to-xsd
 tags:
-- code
-- tfs-build
-- tools
+  - code
+  - tfs-build
+  - tools
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-2-2.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
-
 
 Absolutely brilliant. That's what I think of Linq to XSD. Disappointed that is only works in C#, but having to use C# for a single project out of a solution it is a small price to pay to get the functionality.
 
@@ -51,5 +49,3 @@ note: if you are using MSBuild or Team Build you will need to install this add o
 Now that you have a project, when you add an XSD you will have extra Build Actions available. Once you have set all of your XSD files to this Action and build, you will have classes for all of your XSD's. On down side is that it created a single file ("/obj/debug/LinqToXsdSource.cs"), bit it does work.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [TFBS](http://technorati.com/tags/TFBS)
-
-

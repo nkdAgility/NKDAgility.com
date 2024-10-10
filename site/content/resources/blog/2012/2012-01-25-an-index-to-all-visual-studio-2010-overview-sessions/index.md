@@ -7,26 +7,22 @@ layout: blog
 resourceType: blog
 slug: an-index-to-all-visual-studio-2010-overview-sessions
 aliases:
-- /blog/an-index-to-all-visual-studio-2010-overview-sessions
+  - /blog/an-index-to-all-visual-studio-2010-overview-sessions
 tags:
-- modern-alm
-- nwcadence
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
-coverImage: metro-visual-studio-2010-128-link-1-1.png
-
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
-
 
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-2-2.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2012/01/VisualStudioALMLogo.png)
 { .post-img }
 
 Over the last year I have delivered a variety of high-level overviews of Visual Studio ALM and the features that are available within it. These are all high level overviews even when talking about specific topics, and I have occasionally had to hand wave where things did not go well (Cough… Sharepoint Dev… cough) but these sessions make up the core features of Visual Studio 2010 and Team Foundation Server 2010.
-
-
 
 As we are getting closer to a better understanding of Dev11 and with an overriding need to clean up my hard drive I wanted to post one of each of the public webcast that I delivered. This does not always represent the best session, but the ones with the least technical hickups along the way ![Smile](images/wlEmoticon-smile-3-3.png)
 { .post-img }
@@ -55,5 +51,3 @@ While not part of the original series of webcast there was need for a 2 hours 
 - **[Visual Studio 2010 Overview – A day in the life of...Plan, Code & Test](http://blog.hinshelwood.com/visual-studio-2010-overview-a-day-in-the-life-of/ "Visual Studio 2010 Overview – A day in the life of")**The "Day in the life of" session was put together to show how users work interact with Visual Studio ALM on a daily basis. It shows planning, coding (not TDD) to fix a bug and a testers verification of that bug.
 
 _If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of the [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program._
-
-
