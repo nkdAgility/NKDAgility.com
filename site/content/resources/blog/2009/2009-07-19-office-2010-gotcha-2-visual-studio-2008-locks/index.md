@@ -27,6 +27,7 @@ If you get this problem then there is a simple solution, well, one that worked f
 
 [![image](images/Office2010gotcha2_876A-image_thumb-1-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010gotcha2_876A-image_2.png)
 { .post-img }
+{ .post-img }
 
 You can find the setup in the following locations:
 
@@ -43,5 +44,3 @@ My guess is that when Office 2010 is installed it has a new version of this comp
 It was a frustrating couple of hours this morning to figure it out with the bulk of the time taken up with an ineffectual repair of Visual Studio 2008 SP1, ahh well, now I know…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Office](http://technorati.com/tags/Office) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2008](http://technorati.com/tags/VS+2008)
-
-

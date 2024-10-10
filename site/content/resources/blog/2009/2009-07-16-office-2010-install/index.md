@@ -45,7 +45,6 @@ Woo, little smiles:
 
 [![image](images/Office2010Install_D5D5-image_thumb_5-5-6.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Office2010Install_D5D5-image_12.png) 
 { .post-img }
+{ .post-img }
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
-
-

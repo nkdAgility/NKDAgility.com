@@ -37,7 +37,6 @@ This should be fun...
 
 ![](images/smile.gif)
 { .post-img }
+{ .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-
