@@ -5,18 +5,25 @@ author: MrHinsh
 id: "45447"
 type: course
 slug: applying-professional-kanban-apk-training-experience-with-certification
+url: /capabilities/training-courses/kanban-training-courses/:slug/
 aliases:
-- applying-professional-kanban
-- applying-professional-kanban-training-with-certification
-- /training-courses/kanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - /apk/
+  - /training-courses/apk/
+  - /training-courses/applying-professional-kanban/
+  - /training-courses/applying-professional-kanban-training-with-certification/
+  - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - /capabilities/training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+course-topics:
+  - Kanban Training Courses
+  - ProKanban Training Courses
 tags:
-- certification
-- kanban
-- lean
-- team
-- teams
+  - certification
+  - kanban
+  - lean
+  - team
+  - teams
 categories:
-- agility
+  - agility
 coverImage: NKDAgility-Courses-APK-16x9-1.jpg
 card:
   button:
@@ -79,17 +86,8 @@ delivery:
     colour: ""
   code: APK
   courseIcon: APK@2x.png
-
 ---
-
-
-
-
 
 Embark on a continuous learning journey with our updated 'Applying Professional Kanban' course, now offered as an [Immersion Training experience](https://nkdagility.com/blog/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving/). This innovative format extends the learning over several weeks with concise, live sessions, blending real-world application with reflective practice for a truly effective learning journey.
 
 With incremental classroom learning, outcome-based assignments, and facilitated reflections, this course offers a practical approach to mastering Kanban. Ideal for those who thrive on applying and experimenting in real-time work environments, this immersive strategy ensures deeper understanding, collaborative growth, and the ability to make an immediate positive impact in your professional setting.
-
-
-
-

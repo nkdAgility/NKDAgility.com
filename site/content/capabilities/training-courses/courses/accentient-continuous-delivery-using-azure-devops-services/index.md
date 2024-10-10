@@ -7,9 +7,12 @@ type: course
 slug: continuous-delivery-using-azure-devops-services-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-  - continuous-delivery-using-azure-devops-services
+  - /training-courses/continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-course-topic: Azure DevOps
+  - /capabilities/training-courses/accentient-training-courses/continuous-delivery-using-azure-devops-services-training/
+course-topics:
+  - Azure DevOps Training  Courses
+  - Accentient Training Courses
 tags:
   - development
 coverImage: pipelines-icon-80.png

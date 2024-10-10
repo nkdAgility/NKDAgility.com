@@ -5,16 +5,21 @@ author: MrHinsh
 id: "11878"
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-agile-leadership
-- professional-agile-leadership-essentials-training
-- professional-agile-leadership-essentials-training-with-certification
-- /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+  - /training-courses/professional-agile-leadership
+  - /training-courses/professional-agile-leadership-essentials-training
+  - /training-courses/professional-agile-leadership-essentials-training-with-certification
+  - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+  - /capabilities/training-courses/Scrum.org-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- certification
-- leadership
+  - certification
+  - leadership
 categories:
-- agility
+  - agility
 coverImage: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 card:
   button:
@@ -78,15 +83,10 @@ delivery:
     Students of [Scrum.org](http://scrum.org/) courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Agile Leadership (PAL) Essentials course. Please note that PMI PDUs are earned for course attendance and not for passing a [Scrum.org](http://scrum.org/) assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org/). Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
   brand:
     vendor: scrum-org
-    colour: '#097151'
+    colour: "#097151"
   code: PAL-e
   courseIcon: Scrumorg-Course-PALE-400x.png
-
 ---
-
-
-
-
 
 Professional Agile Leadership (PAL-e) Essentials is a modular workshop, adaptable up to 2-days in length based on the needs of your organization. The workshop provides a foundation for the role that leaders play in creating the conditions for a successful agile transformation. Leaders and managers are critical enablers in helping their organizations be successful, yet the role of leaders and managers in an agile organization can be quite different from what they are used to. This workshop uses a combination of instruction and team-based exercises to help participants learn how to form and support agile teams to achieve better results, and how to lead the cultural and behavioural changes that organizations must make to reap the benefits of an agile product delivery approach.
 
@@ -109,7 +109,3 @@ To succeed in a changing world, organizations need to become more agile, more re
 - An understanding of how to measure the benefits and impacts of agility in your organization
 
 [View](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) the different Focus Areas covered within this class and others.
-
-
-
-

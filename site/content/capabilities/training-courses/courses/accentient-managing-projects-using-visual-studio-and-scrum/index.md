@@ -7,10 +7,14 @@ type: course
 slug: managing-projects-using-visual-studio-and-scrum-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-- managing-projects-using-visual-studio-and-scrum
-- /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
+  - /training-courses/managing-projects-using-visual-studio-and-scrum
+  - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
+  - /capabilities/training-courses/accentient-training-courses/managing-projects-using-visual-studio-and-scrum
+course-topics:
+  - Azure DevOps Training  Courses
+  - Accentient Training Courses
 tags:
-- development
+  - development
 card:
   button:
     content: ""
@@ -46,13 +50,4 @@ delivery:
     colour: ""
   code: MPVS
   courseIcon: A-MPVS.png
-
 ---
-
-
-
-
-
-
-
-

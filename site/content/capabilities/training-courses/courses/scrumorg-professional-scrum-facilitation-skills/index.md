@@ -5,12 +5,17 @@ author: MrHinsh
 id: "48025"
 type: course
 slug: professional-scrum-facilitation-skills-psfs-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /capabilities/training-courses/scrum.org-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- facilitation
+  - facilitation
 categories:
-- agility
+  - agility
 coverImage: naked-agility-Professional-Scrum-PSFS-1600x900-1.jpg
 card:
   button:
@@ -47,15 +52,10 @@ delivery:
   certification: All participants completing the Professional Scrum Facilitation Skills course will receive a password to attempt the Professional Scrum Facilitation Skills assessment. PSFS class participants who attempt the PSFS assessment within 14 days of the class and do not score at least 85% will be granted a 2nd attempt at no additional cost.
   brand:
     vendor: scrum-org
-    colour: '#f6572c'
+    colour: "#f6572c"
   code: PSFS
   courseIcon: Scrumorg-Course-PSFS-400x.png
-
 ---
-
-
-
-
 
 \[wpv-post-link\] is an interactive course designed to help teams and individuals develop proficiency in facilitation skills, so that they can help teams better solve problems, build consensus and foster transparency.
 
@@ -64,7 +64,3 @@ Great Scrum Teams are self-managing, cross-functional and have the ability and s
 In this skills-building course, participants will learn how to become better facilitators to create better interactions with their Scrum Teams, stakeholders and customers. They will learn how to adopt facilitation as a stance and enable the Scrum Values. Students will have the opportunity to address a series of common Scrum-related scenarios by applying several facilitation techniques that they can add to their collection of agile practices. They will create and leave with their own facilitation “plan” to improve their next team discussion or Sprint event.
 
 This class will be delivered over two half-days in Microsoft Teams & Mural, with additional support provided through the [League of Xtraordinary Lean-Agile Practitioners](https://community.nkdagility.com) in the form of collaboration, events, and 1on1 sessions.
-
-
-
-

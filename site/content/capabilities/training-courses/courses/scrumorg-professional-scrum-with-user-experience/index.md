@@ -5,16 +5,21 @@ author: MrHinsh
 id: "38640"
 type: course
 slug: professional-scrum-with-user-experience-psu-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-scrum-with-user-experience-psu-training
-- professional-scrum-with-user-experience-training-with-certification
-- professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
-- /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+  - /training-courses/professional-scrum-with-user-experience-psu-training
+  - /training-courses/professional-scrum-with-user-experience-training-with-certification
+  - /training-courses/professional-scrum-with-user-experience-psu-training-with-certification-unifying-the-team-to-deliver-value-together
+  - /training-courses/scrum-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-with-user-experience-psu-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- certification
-- product-discovery
+  - certification
+  - product-discovery
 categories:
-- agility
+  - agility
 coverImage: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 card:
   button:
@@ -93,15 +98,10 @@ delivery:
      Students of [Scrum.org](http://scrum.org/) courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum with User Experience (PSU) course. Please note that PMI PDUs are earned for course attendance and not for passing a [Scrum.org](http://scrum.org/) assessment. Students can claim PDUs under PMI's "Education courses provided by other third party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org/).
   brand:
     vendor: scrum-org
-    colour: '#e31a65'
+    colour: "#e31a65"
   code: PSU
   courseIcon: Scrumorg-Course-PSU-400x.png
-
 ---
-
-
-
-
 
 ### Should UX be part of the Scrum Team?
 
@@ -116,7 +116,3 @@ The course also includes a complimentary attempt at the globally recognized Prof
 View the different [Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping) covered within this class and others.
 
 _This course is generally delivered over two consecutive days when offered in person. However, when offered as a Live Virtual Class, the course may be broken up into more, shorter days._
-
-
-
-

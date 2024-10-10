@@ -6,10 +6,13 @@ id: "50830"
 type: course
 slug: agile-kata-professional
 aliases:
-- /training-courses/agile-workshops/agile-kata-professional/
-- /akp/
+  - /training-courses/agile-workshops/agile-kata-professional/
+  - /akp/
+course-topics:
+  - Agile Kata Training Courses
+  - Agile Training Courses
 categories:
-- agility
+  - agility
 coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
 card:
   button:
@@ -50,12 +53,7 @@ delivery:
     colour: ""
   code: AKP1
   courseIcon: AgileKataProLevel1.png
-
 ---
-
-
-
-
 
 The current track record of agile transformations is not very promising. 75% of all agile transformations fail to achieve their goals and therefore missing out on the huge positive impact it has on employee engagement, customer satisfaction, operational performance and time-to-market (McKinsey 2022). Is it because companies see Agile as a business process update and not as a cultural shift?
 
@@ -70,7 +68,3 @@ In this one day class, students are challenged to explore the Agile Kata pattern
 The course, uses a combination of instructor-led and activity-based learning where students work together in pairs or small teams. The certified Agile Kata trainer bring their own experiences and stories to the class and use their skills and knowledge to deliver the material using their own unique delivery style. The result is an engaging, enjoyable learning experience where students gain a deep understanding of the Agile Kata pattern and how it can be applied by an entire agile team or organization.
 
 Students leave this course with an appreciation for the use of the Agile Kata and a starting point for their own professional journey using the Agile Kata. When offered in-person, this course is generally delivered in one full day. When offered as a live instructor-led online course,, it may be broken up into more, shorter segments.
-
-
-
-

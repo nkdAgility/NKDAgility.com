@@ -5,17 +5,22 @@ author: MrHinsh
 id: "38638"
 type: course
 slug: professional-scrum-master-advanced-psm-a-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- advanced-scrum-master-psm-ii-training
-- professional-scrum-master-ii-psmii-training
-- advanced-professional-scrum-master-psm-a-training
-- professional-scrum-master-ii-training-with-certification
-- professional-scrum-master-advanced-training-with-certification
-- /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+  - /training-courses/advanced-scrum-master-psm-ii-training
+  - /training-courses/professional-scrum-master-ii-psmii-training
+  - /training-courses/advanced-professional-scrum-master-psm-a-training
+  - /training-courses/professional-scrum-master-ii-training-with-certification
+  - /training-courses/professional-scrum-master-advanced-training-with-certification
+  - /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- certification
+  - certification
 categories:
-- agility
+  - agility
 coverImage: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 card:
   button:
@@ -75,20 +80,11 @@ delivery:
      Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Advanced Professional Scrum Master II (PSM-A) class. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org/).
   brand:
     vendor: scrum-org
-    colour: '#3a7c9a'
+    colour: "#3a7c9a"
   code: PSM-A
   courseIcon: Scrumorg-Course-PSMII-400x.png
-
 ---
-
-
-
-
 
 The Professional Scrum Master II (PSM-A) course is a 2-day advanced Scrum Master class designed to support Scrum Masters in their professional development.  The PSM II course is intended for Scrum Masters with at least one year of experience who are looking to grow their knowledge and abilities as a Scrum Master. This course is one step in that journey. The course also includes a free attempt at the globally recognized [Professional Scrum Master II (PSM II) certification](https://www.scrum.org/professional-scrum-master-ii-certification) exam.
 
 Unlike the [Professional Scrum Master (PSM) course](https://nkdagility.com/training/courses/professional-scrum-master/) which focuses on how to use Scrum, the Scrum framework and the role of the Scrum Master, PSM-A is an advanced course helping students to understand the stances that characterize an effective Scrum Master and servant-leader while diving deep into how they serve the Development Team, Product Owner and organization. The course then teaches students about related practices and skills to enable them to have the right types of conversations and how to apply them to become better Scrum Masters.
-
-
-
-

@@ -6,12 +6,16 @@ id: "44724"
 type: course
 slug: mastering-azure-repos-training
 aliases:
-- mastering-azure-repos
-- /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /training-courses/mastering-azure-repos
+  - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
+  - /capabilities/training-courses/accentient-training-courses/mastering-azure-repos-training
+course-topics:
+  - Azure DevOps Training  Courses
+  - Accentient Training Courses
 tags:
-- development
+  - development
 categories:
-- devops
+  - devops
 card:
   button:
     content: ""
@@ -47,15 +51,6 @@ delivery:
     colour: ""
   code: MARS
   courseIcon: A-MARS.png
-
 ---
 
-
-
-
-
 Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
-
-
-
-

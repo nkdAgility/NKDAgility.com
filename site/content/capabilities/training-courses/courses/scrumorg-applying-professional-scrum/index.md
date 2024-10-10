@@ -5,29 +5,34 @@ author: MrHinsh
 id: "10045"
 type: course
 slug: applying-professional-scrum-aps-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- professional-scrum-foundations
-- professional-scrum-foundations-psf-training
-- applying-professional-scrum-aps-training
-- applying-professional-scrum-training-with-certification
-- applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
-- applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
-- /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - /training-courses/professional-scrum-foundations
+  - /training-courses/professional-scrum-foundations-psf-training
+  - /training-courses/applying-professional-scrum-aps-training
+  - /training-courses/applying-professional-scrum-training-with-certification
+  - /training-courses/applying-professional-scrum-aps-training-experience-with-certification-solidify-your-knowledge-through-practice
+  - /training-courses/applying-professional-scrum-aps-online-flipped-learning-experience-with-certification-working-together-in-scrum-teams
+  - /training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/
+  - /capabilities/training-courses/Scrum.org-training-courses/applying-professional-scrum-aps-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- agile
-- agility
-- business-agility
-- certification
-- professional-scrum
-- scrum
-- scrum-org
-- team
-- teams
+  - agile
+  - agility
+  - business-agility
+  - certification
+  - professional-scrum
+  - scrum
+  - scrum-org
+  - team
+  - teams
 categories:
-- code-and-complexity
-- measure-and-learn
-- people-and-process
-- tools-and-techniques
+  - code-and-complexity
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
 coverImage: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 card:
   button:
@@ -97,15 +102,10 @@ delivery:
   certification: All participants completing the [wpv-post-link] course will receive a password to attempt the Professional Scrum Master I (PSM I) assessment. The industry-recognized PSM I certification requires a minimum passing score of 85%. [types field='code'][/types] class participants who attempt the PSM I assessment within 14 days of receiving their free password and do not score at least 85% will be granted a 2nd attempt at no additional cost. You are also entitled to a discount on the PSM II assessment once passing PSM I.
   brand:
     vendor: scrum-org
-    colour: '#db8e74'
+    colour: "#db8e74"
   code: APS
   courseIcon: Scrumorg-Course-APS-400x-1.png
-
 ---
-
-
-
-
 
 Welcome to the \[wpv-post-link\] course. This transformative learning journey is designed specifically for Team Members, Scrum Masters, Product Owners, and Managers keen to grasp and infuse Scrum values and principles into their work through practical case studies leveraging the engaging medium of Minecraft.
 
@@ -139,7 +139,3 @@ Join the \[wpv-post-link\] with Minecraft course and arm yourself with the knowl
 To create a level playing field while maintaining a complex environment for teams to experience Sprints in the context of Scrum, we use Minecraft for Education. Minecraft allows team members to practice Scrum in the complex and chaotic environment of Minecraft to experience the high-variance world of complex product development. We use Minecraft Education Edition to bring complexity to life in a scenario everyone can experience regardless of their technical ability.
 
 The course also includes two free attempts at the globally recognized Professional Scrum Master I certification exam (PSM I)
-
-
-
-

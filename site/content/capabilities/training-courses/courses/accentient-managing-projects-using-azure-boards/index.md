@@ -7,15 +7,18 @@ type: course
 slug: managing-projects-using-azure-boards-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
-  - managing-projects-using-azure-boards
+  - /training-courses/managing-projects-using-azure-boards
   - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
   - /A-MPAB/
-course-topic: Azure DevOps
+  - /capabilities/training-courses/accentient-training-courses/managing-projects-using-azure-boards-training/
+course-topics:
+  - Azure DevOps Training  Courses
+  - Accentient Training Courses
 tags:
   - team
 categories:
   - devops
-coverImage: naked-agility-Accentiant-MPAB-1600x900-1.jpg
+coverImage: naked-agility-Accentient-MPAB-1600x900-1.jpg
 card:
   button:
     content: ""

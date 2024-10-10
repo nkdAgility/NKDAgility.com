@@ -5,26 +5,31 @@ author: MrHinsh
 id: "10814"
 type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification
+url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- scrum-at-scale-workshop
-- scaling-professional-scrum
-- scaled-professional-scrum-sps
-- scaled-professional-scrum-sps-with-nexus
-- scaled-professional-scrum-with-nexus-training-with-certification
-- /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /training-courses/scrum-at-scale-workshop
+  - /training-courses/scaling-professional-scrum
+  - /training-courses/scaled-professional-scrum-sps
+  - /training-courses/scaled-professional-scrum-sps-with-nexus
+  - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
+  - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /capabilities/training-courses/Scrum.org-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+course-topics:
+  - Scrum.org Training Courses
+  - Scrum Training Courses
 tags:
-- agile
-- agility
-- business-agility
-- certification
-- ebmgt
-- professional-scrum
-- scrum
-- scrum-at-scale
-- scrum-org
+  - agile
+  - agility
+  - business-agility
+  - certification
+  - ebmgt
+  - professional-scrum
+  - scrum
+  - scrum-at-scale
+  - scrum-org
 categories:
-- measure-and-learn
-- people-and-process
+  - measure-and-learn
+  - people-and-process
 coverImage: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 card:
   button:
@@ -83,15 +88,10 @@ delivery:
      Students of [Scrum.org](http://scrum.org/) courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Scaled Professional Scrum (SPS) course. Please note that PMI PDUs are earned for course attendance and not for passing a [Scrum.org](http://scrum.org/) assessment. Students can claim PDUs under PMI's "Education courses provided by other third party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org/). Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
   brand:
     vendor: scrum-org
-    colour: '#1494af'
+    colour: "#1494af"
   code: SPS
   courseIcon: Scrumorg-Course-SPS-400x.png
-
 ---
-
-
-
-
 
 The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. Even after achieving success with Scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand, or scale, to a group of Scrum Teams working together on the same product. When doing so, they often encounter common challenges with cross-team dependencies, self-management, transparency and accountability.
 
@@ -107,7 +107,3 @@ Our training is delivered as an interactive, activity-based course over half-day
 - Session 4: Managing the Nexus
 
 After the conclusion of the class, we provide access to a community of peers and continued access to the trainer through office hours, quarterly catchups, and constant engagement. To maximise validated learning, all students are given a password to take the SPS assessment, and if they take it within 14 days and are unsuccessful, they will be granted a second attempt. As part of our validated learning experience, we provide a 30-minute learning review, a 1h coaching session, and access to future courses at a 30% discount on future classes.
-
-
-
-

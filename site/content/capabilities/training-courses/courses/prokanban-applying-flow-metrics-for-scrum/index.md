@@ -5,8 +5,14 @@ author: MrHinsh
 id: "51135"
 type: course
 slug: applying-flow-metrics-for-scrum
+url: /training-courses/kanban-training-courses/:slug/
 aliases:
+  - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban-training-courses/applying-flow-metrics-for-scrum/
+course-topics:
+  - Kanban Training Courses
+  - ProKanban Training Courses
 coverImage: NKDAgility-Courses-AFMS-16x9-1.jpg
 course-topic: Professional Kanban
 card:
