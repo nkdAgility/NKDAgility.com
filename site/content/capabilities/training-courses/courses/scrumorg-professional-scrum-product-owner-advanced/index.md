@@ -10,10 +10,11 @@ aliases:
   - /training-courses/professional-scrum-product-owner-advanced
   - /training-courses/professional-scrum-product-owner-advanced-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-advanced-pspo-a-online-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - product-owner
 categories:

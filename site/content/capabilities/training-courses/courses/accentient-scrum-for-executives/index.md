@@ -8,10 +8,11 @@ slug: scrum-for-executives-training
 aliases:
   - /training-courses/scrum-for-executives
   - /training-courses/scrum-for-executives-training/
-  - /capabilities/training-courses/accentient-training-courses/scrum-for-executives
+  - /capabilities/training-courses/accentient/scrum-for-executives
 course-topics:
   - Scrum Training Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 categories:
   - agility
 card:

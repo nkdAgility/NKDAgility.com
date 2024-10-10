@@ -11,10 +11,11 @@ aliases:
   - /training-courses/professional-agile-leadership-essentials-training
   - /training-courses/professional-agile-leadership-essentials-training-with-certification
   - /training-courses/scrum-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-agile-leadership-essentials-pal-e-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-essentials-pal-e-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - certification
   - leadership

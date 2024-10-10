@@ -59,9 +59,9 @@ sections:
     source: inline
   - title: Courses For Azure DevOps
     content: Here is a list of courses related to Azure DevOps.
-    type: course
+    type: courses
     related:
-      - /capabilities/training-courses/managing-projects-using-visual-studio-and-scrum-training
+      - /capabilities/training-courses/courses/accentient-managing-projects-using-visual-studio-and-scrum
     source: data
   - title: null
     content: null

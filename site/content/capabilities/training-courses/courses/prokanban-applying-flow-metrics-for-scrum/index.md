@@ -9,10 +9,11 @@ url: /training-courses/kanban-training-courses/:slug/
 aliases:
   - /training-courses/applying-flow-metrics-for-scrum/
   - /training-courses/kanban-training-courses/applying-flow-metrics-for-scrum/
-  - /capabilities/training-courses/prokanban-training-courses/applying-flow-metrics-for-scrum/
+  - /capabilities/training-courses/prokanban.org/applying-flow-metrics-for-scrum/
 course-topics:
   - Kanban Training Courses
-  - ProKanban Training Courses
+course-vendors:
+  - ProKanban.org
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg
 course-topic: Professional Kanban
 card:

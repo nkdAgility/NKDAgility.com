@@ -13,10 +13,11 @@ aliases:
   - /training-courses/professional-scrum-master-ii-training-with-certification
   - /training-courses/professional-scrum-master-advanced-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-master-advanced-psm-a-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-master-advanced-psm-a-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - certification
 categories:

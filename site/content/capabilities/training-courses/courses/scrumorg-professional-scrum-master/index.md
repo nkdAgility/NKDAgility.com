@@ -12,10 +12,11 @@ aliases:
   - /training-courses/professional-scrum-master-training-with-certification
   - /training-courses/professional-scrum-master-psm-training-experience-with-certification-learn-scrum-from-those-who-created-and-maintain-it
   - /training-courses/scrum-training-courses/professional-scrum-master-psm-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-master-psm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-master-psm-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - agile
   - agility

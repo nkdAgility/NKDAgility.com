@@ -8,10 +8,11 @@ slug: mastering-azure-repos-training
 aliases:
   - /training-courses/mastering-azure-repos
   - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
-  - /capabilities/training-courses/accentient-training-courses/mastering-azure-repos-training
+  - /capabilities/training-courses/accentient/mastering-azure-repos-training
 course-topics:
   - Azure DevOps Training  Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 tags:
   - development
 categories:

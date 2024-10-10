@@ -8,10 +8,11 @@ slug: professional-scrum-master-and-product-owner-psmp-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
   - /training-courses/scrum-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-master-and-product-owner-psmp-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-master-and-product-owner-psmp-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - certification
   - hidden

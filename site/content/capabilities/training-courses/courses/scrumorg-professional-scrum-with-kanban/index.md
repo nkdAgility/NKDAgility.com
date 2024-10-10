@@ -11,10 +11,11 @@ aliases:
   - /training-courses/professional-scrum-with-kanban-psk-training
   - /training-courses/professional-scrum-with-kanban-training-with-certification
   - /training-courses/scrum-training-courses/professional-scrum-with-kanban-psk-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-with-kanban-psk-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-with-kanban-psk-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - agile
   - certification

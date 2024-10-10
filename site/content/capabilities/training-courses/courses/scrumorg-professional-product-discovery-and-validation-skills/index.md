@@ -8,12 +8,13 @@ slug: professional-product-discovery-and-validation-skills-ppdv
 url: /capabilities/training-courses/product-training-courses/:slug/
 aliases:
   - /training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-product-discovery-and-validation-skills-ppdv/
+  - /capabilities/training-courses/scrum.org/professional-product-discovery-and-validation-skills-ppdv/
   - /capabilities/training-courses/scrum-training-courses/professional-product-discovery-and-validation-skills-ppdv/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
   - Product Training Courses
+course-vendors:
+  - Scrum.org
 preview: NKDAgility-Courses-PSVS-16x9-1.png
 card:
   button:

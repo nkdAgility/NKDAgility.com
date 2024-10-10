@@ -9,10 +9,11 @@ url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
   - /training-courses/continuous-delivery-using-azure-devops-services
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
-  - /capabilities/training-courses/accentient-training-courses/continuous-delivery-using-azure-devops-services-training/
+  - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 course-topics:
   - Azure DevOps Training  Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 tags:
   - development
 preview: pipelines-icon-80.png

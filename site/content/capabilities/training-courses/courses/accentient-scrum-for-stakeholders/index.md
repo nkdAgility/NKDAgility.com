@@ -8,10 +8,11 @@ slug: scrum-for-stakeholders-training
 aliases:
   - /training-courses/scrum-for-stakeholders
   - /training-courses/scrum-for-stakeholders-training/
-  - /capabilities/training-courses/accentient-training-courses/scrum-for-stakeholders-training
+  - /capabilities/training-courses/accentient/scrum-for-stakeholders-training
 course-topics:
   - Scrum Training Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 categories:
   - agility
 card:

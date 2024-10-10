@@ -4,16 +4,16 @@ date: 2018-11-28
 author: MrHinsh
 id: "38576"
 type: course
-preview: A-MPVS.png
 slug: managing-projects-using-visual-studio-and-scrum-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
   - /training-courses/managing-projects-using-visual-studio-and-scrum
   - /training-courses/azure-devops-training-courses/managing-projects-using-visual-studio-and-scrum-training/
-  - /capabilities/training-courses/accentient-training-courses/managing-projects-using-visual-studio-and-scrum
+  - /capabilities/training-courses/accentient/managing-projects-using-visual-studio-and-scrum
 course-topics:
   - Azure DevOps Training  Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 tags:
   - development
 card:

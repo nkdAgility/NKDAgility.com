@@ -1,8 +1,8 @@
 <div class="card flex-fill m-2 shadow text-center flex-fill small h-100">
   <h3 class="card-header h6 p-2 text-white text-start" style="font-size:0.8em;background-color: {{ if .context.Params.brand.colour }}{{ .context.Params.brand.colour }}{{ else }}#713183{{ end }}" title="{{ .context.Title }}">{{ .context.Title }}</h3>
   <div class="card-header mb-3 p-0 d-none d-lg-block position-relative clearfix">
-    {{ if .context.Params.coverImage }}
-      {{ $image := .context.Resources.GetMatch (printf "images/%s" .context.Params.coverImage) }}
+    {{ if .context.Params.preview }}
+      {{ $image := .context.Resources.GetMatch (printf "images/%s" .context.Params.preview) }}
       <img class="img-fluid" src="{{ $image.RelPermalink }}" alt="{{ .context.Params.Title }}" />
     {{ else }}
       {{ $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}

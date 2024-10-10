@@ -10,10 +10,11 @@ aliases:
   - /PKAB/
   - /training-courses/practicing-kanban-using-azure-boards
   - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
-  - /capabilities/training-courses/accentient-training-courses/practicing-kanban-using-azure-boards/
+  - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
 course-topics:
   - Azure DevOps Training  Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 tags:
   - development
   - team

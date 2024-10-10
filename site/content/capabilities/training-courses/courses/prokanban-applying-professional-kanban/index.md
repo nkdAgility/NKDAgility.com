@@ -12,10 +12,11 @@ aliases:
   - /training-courses/applying-professional-kanban/
   - /training-courses/applying-professional-kanban-training-with-certification/
   - /training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
-  - /capabilities/training-courses/prokanban-training-courses/applying-professional-kanban-apk-training-experience-with-certification/
+  - /capabilities/training-courses/prokanban.org/applying-professional-kanban-apk-training-experience-with-certification/
 course-topics:
   - Kanban Training Courses
-  - ProKanban Training Courses
+course-vendors:
+  - ProKanban.org
 tags:
   - certification
   - kanban

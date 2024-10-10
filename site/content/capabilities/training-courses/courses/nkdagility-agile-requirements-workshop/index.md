@@ -9,8 +9,9 @@ aliases:
   - agile-requirements-workshop-1-day
   - /training-courses/agile-requirements-workshop/
 course-topics:
-  - NKDAgility Training Courses
   - Agile Training Courses
+course-vendors:
+  - NKDAgility
 tags:
   - agile
   - agility

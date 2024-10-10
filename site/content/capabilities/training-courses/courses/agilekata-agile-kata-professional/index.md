@@ -9,8 +9,9 @@ aliases:
   - /training-courses/agile-workshops/agile-kata-professional/
   - /akp/
 course-topics:
-  - Agile Kata Training Courses
   - Agile Training Courses
+course-vendors:
+  - Agile Kata
 categories:
   - agility
 preview: NKDAgility-Courses-AKP-16x9-1.jpg

@@ -8,10 +8,11 @@ slug: professional-scrum-product-backlog-management-skills-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
   - /training-courses/scrum-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-scrum-product-backlog-management-skills-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-backlog-management-skills-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 categories:
   - agility
 preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg

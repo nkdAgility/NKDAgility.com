@@ -10,10 +10,11 @@ aliases:
   - /training-courses/managing-projects-using-azure-boards
   - /training-courses/azure-devops-training-courses/managing-projects-using-azure-boards-training/
   - /A-MPAB/
-  - /capabilities/training-courses/accentient-training-courses/managing-projects-using-azure-boards-training/
+  - /capabilities/training-courses/accentient/managing-projects-using-azure-boards-training/
 course-topics:
   - Azure DevOps Training  Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 tags:
   - team
 categories:

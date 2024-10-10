@@ -60,6 +60,15 @@ sections:
         content: The personalized nature of our training enhances retention, leading to a more profound and lasting organizational impact.
       - title: Higher ROI
         content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
+  - title: Find Courses by Accountability
+    type: audiences
+    source: data
+  - title: Courses by Context
+    type: taxonomies
+    source: course-topics
+  - title: Courses by Vendor
+    type: taxonomies
+    source: course-vendors
   - title:
     type: counters
     counters:
@@ -72,9 +81,6 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
-  - title: Find Courses by Accountability
-    type: audiences
-    source: data
   - title:
     content:
     type: videos

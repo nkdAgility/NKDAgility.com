@@ -8,10 +8,11 @@ slug: scrum-for-product-owners-training
 aliases:
   - /training-courses/scrum-for-product-owners
   - /training-courses/scrum-for-product-owners-training/
-  - /capabilities/training-courses/accentient-training-courses/scrum-for-product-owners-training
+  - /capabilities/training-courses/accentient/scrum-for-product-owners-training
 course-topics:
   - Scrum Training Courses
-  - Accentient Training Courses
+course-vendors:
+  - Accentient
 categories:
   - agility
 card:

@@ -9,10 +9,11 @@ url: /training-courses/kanban-training-courses/:slug/
 aliases:
   - /training-courses/applying-metrics-for-predictability/
   - /training-courses/kanban-training-courses/applying-metrics-for-predictability/
-  - /capabilities/training-courses/prokanban-training-courses/prokanban-applying-metrics-for-predictability/
+  - /capabilities/training-courses/prokanban.org/prokanban-applying-metrics-for-predictability/
 course-topics:
   - Kanban Training Courses
-  - ProKanban Training Courses
+course-vendors:
+  - ProKanban.org
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
 card:
   button:

@@ -8,10 +8,11 @@ slug: professional-scrum-facilitation-skills-psfs-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
   - /training-courses/scrum-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
-  - /capabilities/training-courses/scrum.org-training-courses/professional-scrum-facilitation-skills-psfs-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-facilitation-skills-psfs-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - facilitation
 categories:

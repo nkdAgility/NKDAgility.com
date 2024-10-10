@@ -13,10 +13,11 @@ aliases:
   - /training-courses/scaled-professional-scrum-sps-with-nexus
   - /training-courses/scaled-professional-scrum-with-nexus-training-with-certification
   - /training-courses/scrum-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/scaled-professional-scrum-with-nexus-sps-with-certification/
+  - /capabilities/training-courses/scrum.org/scaled-professional-scrum-with-nexus-sps-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - agile
   - agility

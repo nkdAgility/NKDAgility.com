@@ -47,12 +47,15 @@ taxonomies:
   category: categories
   tag: tags
   course-topic: course-topics
+  course-vendor: course-vendors
 
 permalinks:
   taxonomy:
     course-topics: "/capabilities/training-courses/topics/"
+    course-vendors: "/capabilities/training-courses/vendors/"
   term:
     course-topics: "/capabilities/training-courses/:slug/"
+    course-vendors: "/capabilities/training-courses/:slug/"
   page:
     resources: /:sections/:slug/
     course: /:sections/:slug/

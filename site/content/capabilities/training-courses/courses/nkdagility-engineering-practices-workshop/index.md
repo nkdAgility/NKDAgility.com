@@ -8,8 +8,9 @@ slug: engineering-practices-workshop
 aliases:
   - /training-courses/engineering-practices-workshop/
 course-topics:
-  - NKDAgility Training Courses
   - Engineering Training Courses
+course-vendors:
+  - NKDAgility
 tags:
   - development
   - workshop

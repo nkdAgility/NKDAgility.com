@@ -10,10 +10,11 @@ aliases:
   - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
   - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
   - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
-  - /capabilities/training-courses/Scrum.org-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
 course-topics:
-  - Scrum.org Training Courses
   - Scrum Training Courses
+course-vendors:
+  - Scrum.org
 tags:
   - certification
   - evidence-based-management
