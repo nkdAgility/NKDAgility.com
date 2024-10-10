@@ -7,26 +7,24 @@ layout: blog
 resourceType: blog
 slug: combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 aliases:
-- /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
+  - /blog/combining-scrum-tfs2010-and-email-to-keep-everyone-in-the-loop
 tags:
-- agile
-- people
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2008
-- tfs2010
-- tools
+  - agile
+  - people
+  - process
+  - scrum
+  - sharepoint
+  - spf2010
+  - ssw
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
 categories:
-- people-and-process
-- tools-and-techniques
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - people-and-process
+  - tools-and-techniques
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 ![RulestoBetter](images/SSWScrumRuleDoyouknow_D4DD-RulestoBetter_-3-3.gif)Often you will receive rich information from your Product Owner (Customer) about tasks. That information can be in the form of Word documents, HTML Emails and Pictures, but you generally receive them in the context of an Email.
 { .post-img }
@@ -79,5 +77,3 @@ This would not currently deal with email “forks” well, but I think it would 
 It would be nice if we could find time to implement this, but currently it is but a pipe dream. Maybe Microsoft could implement something in the next version of Team Foundation Server, and in the mean time we have a process that works well.
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

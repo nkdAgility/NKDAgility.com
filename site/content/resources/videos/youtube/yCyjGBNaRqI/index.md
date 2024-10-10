@@ -4,7 +4,7 @@ date: 2024-05-10T06:45:01Z
 videoId: yCyjGBNaRqI
 url: /resources/videos/nkd-agility-mission-and-purpose
 canonicalUrl: https://www.youtube.com/watch?v=yCyjGBNaRqI
-coverImage: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/yCyjGBNaRqI/maxresdefault.jpg
 duration: 174
 isShort: False
 ---

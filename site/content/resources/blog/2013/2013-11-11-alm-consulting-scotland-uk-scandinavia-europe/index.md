@@ -7,34 +7,32 @@ layout: blog
 resourceType: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
 aliases:
-- /blog/alm-consulting-scotland-uk-scandinavia-europe
+  - /blog/alm-consulting-scotland-uk-scandinavia-europe
 tags:
-- automated-build
-- automation
-- build
-- consulting
-- dps
-- europe
-- lean
-- lean-agile
-- migration
-- modern-alm
-- scandinavia
-- scotland
-- tfs
-- training
-- uk
-- upgrade
+  - automated-build
+  - automation
+  - build
+  - consulting
+  - dps
+  - europe
+  - lean
+  - lean-agile
+  - migration
+  - modern-alm
+  - scandinavia
+  - scotland
+  - tfs
+  - training
+  - uk
+  - upgrade
 categories:
-- events-and-presentations
-- install-and-configuration
-- me
-- news-and-reviews
-- tools-and-techniques
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - events-and-presentations
+  - install-and-configuration
+  - me
+  - news-and-reviews
+  - tools-and-techniques
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Well, that's me started ALM Consulting in Scotland, UK & Europe as naked ALM Consulting – Martin Hinshelwood. As I write this I am on a train on my way to my first engagement in the north of England is what looks to be and awesome group of folks to talk a little Scrum and Team Foundation Build.
 
@@ -47,7 +45,7 @@ If you are still asking, “But what can you do Martin?” then by all means rea
 - **Lean-Agile Training\\Coaching** – Delivering PSD, PSF and PSM for customers across the USA including two major defence contractors, US government departments, and many other companies across the spectrum of industries. In some cases I have also provided additional Agile Engineering and Agile Requirements days to help jump start the process.
   - [Professional Scrum Foundations in Salt Lake City, Utah](http://nkdagility.com/professional-scrum-foundations-in-salt-lake-city-utah/)
   - [Professional Scrum Foundations in Alameda, California](http://nkdagility.com/professional-scrum-foundations-in-alameda-california/)
-  While training is easy to quantify, coaching is a little more difficult. Suffice to say I have worked with many companies and teams in that capacity, and not just .NET teams, and hope to work with many more.
+    While training is easy to quantify, coaching is a little more difficult. Suffice to say I have worked with many companies and teams in that capacity, and not just .NET teams, and hope to work with many more.
 - **ALM Assessment** – Delivering ALM Assessments are fun and require a lot of focus. The goal is to understand, in a short space of time, the current state of a companies software lifecycle and where they can improve. Sometimes they are very tools focused, but we all know that tools don’t solve problems. Tools only support the process that solves problems. Having conducted ALM Assessments for financial and medial institutions as well as commercial, land management, port management and even retail I feel that I can get a handle on any companies situation and goals.
 - **TFS Training** – I have created and delivered targeted TFS training for major biopharmaceutical, airline manufacturing, defence and government as well as investment capital, and auction organisations. Training is a fine art and one needs to balance learning with comedy (thanks Rennie) to create something that is more like a Enter-trainer rather than a monotonous drone.  Having lots of real world experience in both delivering and using the tools helps a lot with making sure that students really understand how to get the most out of the tools for their situation. Most training I have done was delivered privately where it is easier to target the companies needs, but public courses in ALM and TFS also benefit from that knowledge.
 - **DPS Tools & Test** – Deployment Planning Services (DPS) is a funny old beast. If you have DPS vouchers from Microsoft you can trade them in to have a consultant come onsite and assess your organisation for deployment of, or increased usage of, the features of Visual Studio ALM. There are currently two flavours of DPS. You can have a DPS Tools where one would look at implementing Team Foundation Server (TFS) in general, and there is a DPS Test where I would look at a companies adoption and usage of Microsoft Test Manager and other Testing capabilities of Visual Studio ALM. Think of DPS as a very targeted mini ALM Assessment that Microsoft pays for. Loads of companies have leveraged DPS from me and they have been fortune 500, government and small local shops. If you have the vouchers then you should use them.
@@ -59,5 +57,3 @@ If you are still asking, “But what can you do Martin?” then by all means rea
 I only tried to hit the highlights as I have had almost 80 customer engagements in the last 3 years with Northwest Cadence and every customer has unique problems and situations that are representative of their size or complexity. Its sometimes just about rolling up your sleeves and getting stuck in.
 
 Wither you are looking for an ALM Consultant or you are a consulting company looking for an ALM Partner or even just an overflow valve (lol) for those busy periods then  I can help you out. If you need to understand what your organisation needs to do to improve their process then give me a call, and remember: Every company deserves working software on a regular cadence.
-
-

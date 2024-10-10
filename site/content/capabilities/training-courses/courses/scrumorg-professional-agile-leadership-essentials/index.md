@@ -20,7 +20,7 @@ tags:
   - leadership
 categories:
   - agility
-coverImage: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
+preview: naked-agility-Professional-Scrum-PALE-1600x900-2.jpg
 card:
   button:
     content: ""

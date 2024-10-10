@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: hiring-a-professional-product-owner
 aliases:
-- /blog/hiring-a-professional-product-owner
+  - /blog/hiring-a-professional-product-owner
 tags:
-- featured
-- product-discovery
-- product-owner
+  - featured
+  - product-discovery
+  - product-owner
 categories:
-- discovery-ideation
-- news-and-reviews
-- people-and-process
-coverImage: image-3-3.png
-
+  - discovery-ideation
+  - news-and-reviews
+  - people-and-process
+preview: image-3-3.png
 ---
-
 
 One of my customers is asking me about the accountabilities of a Product Owner and how they break down. While I had seen many things around the Scrum Master for my post on [Hiring a Professional Scrum Master](https://nkdagility.com/blog/hiring-a-professional-scrum-master/), this was a little bit more of a discovery session, which is why I asked some of my trusted colleagues at Scrum.org to help out.
 
@@ -216,5 +214,3 @@ The key point in the above is the delegation point; we are not thinking that a s
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
-
-

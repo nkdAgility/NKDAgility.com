@@ -1,5 +1,5 @@
 ---
-title: 'The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility'
+title: "The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility"
 date: 2023-09-07
 author: MrHinsh
 id: "49732"
@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 aliases:
-- /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
+  - /blog/the-race-for-market-responsiveness-a-fresh-perspective-on-organisational-agility
 tags:
-- betacodex
-- featured
-- homepage
-- organisational-physics
-- organisational-transformational-mastery
+  - betacodex
+  - featured
+  - homepage
+  - organisational-physics
+  - organisational-transformational-mastery
 categories:
-- agility
-coverImage: naked-agility-technically-survivalisoptional-1-1.jpg
-
+  - agility
+preview: naked-agility-technically-survivalisoptional-1-1.jpg
 ---
-
 
 As I sit here, sipping my morning cup of tea, I ponder the current state of organisational agility. I've been in this game long enough to have seen the rise and fall of various methodologies, each promising to be the silver bullet that will solve all of an organisation's woes. I was initially an ALM consultant, then DevOps. But, as I've often found, the reality is far from the promise.
 
@@ -46,5 +44,3 @@ Around 99% of all animal species that ever existed are extinct. What percentage 
 Many of the big companies seem is repeatedly unable to adapt to the ever-changing markets, but their existing cash reserves protect them from failure. It will not last forever...
 
 It's time for organisations to wake up and smell the coffee. The race for market responsiveness is on, and those who adapt will be kept up. It's not about being 'agile' or implementing SAFe - it's about being able to seize opportunities, pivot, and handle surprises faster than our competitors. It's about survival of the fittest.
-
-

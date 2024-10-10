@@ -7,21 +7,19 @@ layout: blog
 resourceType: blog
 slug: my-first-scrum-team-in-the-wild
 aliases:
-- /blog/my-first-scrum-team-in-the-wild
+  - /blog/my-first-scrum-team-in-the-wild
 tags:
-- agile
-- develop
-- nwcadence
-- people
-- practices
-- process
-- scrum
+  - agile
+  - develop
+  - nwcadence
+  - people
+  - practices
+  - process
+  - scrum
 categories:
-- people-and-process
-coverImage: nakedalm-logo-128-link-6-6.png
-
+  - people-and-process
+preview: nakedalm-logo-128-link-6-6.png
 ---
-
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!
 { .post-img }
@@ -89,5 +87,3 @@ Rule: Never leave uncompleted work in a sprint. Its untidy and causes confusion
 
 This team has made some fantastic efforts for their first sprint, but should not get complacent. I am very impressed of the work that Rennie has put in and I really enjoyed our long Scrum conversations ![Smile](images/GWB-Windows-Live-Writer3cf46226a54f_DA4FwlEmoticon-smile_2-5-5.png)
 { .post-img }
-
-

@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: updating-the-command-line-parser
 aliases:
-- /blog/updating-the-command-line-parser
+  - /blog/updating-the-command-line-parser
 tags:
-- code
-- codeproject
-- tools
+  - code
+  - codeproject
+  - tools
 categories:
-- code-and-complexity
-- me
-coverImage: metro-binary-vb-128-link-2-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-2-1.png
 ---
-
 
 I had previously created a Command Line Parser from [Ray Hayes](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7917) codeproject article [Automatic Command Line Parsing in C#](http://www.codeproject.com/KB/recipes/commandlineparser.aspx). I had adapted it to VB.NET and upgraded it to .NET 3.5 but I recently ran into the problem with wanting a single command prompt application to handle multiple processes and multiple parameters. This would allow you to group all of a particular tasks commands into a single application. With the advent of Power Shell this format is increasingly less relevant, but with the proliferation of Power Shell many people still prefer to use the good old command line.
 
@@ -26,8 +24,6 @@ So, staring from the original [Command Line Parser v1.0](http://hinshlabs.codepl
 
 [![image](images/UpdatingtheCommandLineParser_AC5D-image_thumb_1-1-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UpdatingtheCommandLineParser_AC5D-image_4.png)
 { .post-img }
-
-
 
 Using this model I can create a simple command…
 
@@ -151,8 +147,6 @@ End Function
 ```
 
 This parser then populates the CommandLine object with values from the CommandLine passed in. For example:
-
-
 
 ```
 Imports Hinshlabs.CommandLineParser
@@ -292,12 +286,8 @@ With the values coming from the relevant places:
 
 It will also support inherited CommandLine objects to minimize duplication.
 
-
-
 I hope that if you are building command line apps that you will have a look, just remember not to spend too much effort on cmd, when Power Shell is much more suitable and accessible to non developers.
 
 Get [Command Line Parser v2.0](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31651)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
-
-

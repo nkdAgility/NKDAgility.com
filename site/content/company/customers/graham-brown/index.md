@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11835"
 type: customers
 slug: graham-brown
-coverImage: nkdagility-customer-graham-brown-200x75.png
-
+preview: nkdagility-customer-graham-brown-200x75.png
 ---
-
-
-
-
-
-

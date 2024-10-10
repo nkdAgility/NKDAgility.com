@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: becoming-a-better-developer
 aliases:
-- /blog/becoming-a-better-developer
+  - /blog/becoming-a-better-developer
 tags:
-- dyslexia
-- ml
-- tools
+  - dyslexia
+  - ml
+  - tools
 categories:
-- me
-coverImage: metro-merilllynch-128-link-1-1.png
-
+  - me
+preview: metro-merilllynch-128-link-1-1.png
 ---
-
 
 [Steve Clements](http://geekswithblogs.net/steveclements/archive/2007/07/26/114182.aspx "Becoming a better developer...") has tagged me (thanks Steve) about how to become a [better developer](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx), he thinks tagging me 'would make an interesting read'..Hmm, no pressure:
 
@@ -31,5 +29,3 @@ coverImage: metro-merilllynch-128-link-1-1.png
 Well I think that I am done...yes, I'm done...Now all that is left is to tag some people. I think I would tag Sandy Cormie and Ajay Patwari if they had blogs, but I will tag [Jason Franks](http://geekswithblogs.net/jasonfranks/archive/2007/08/12/Better.Dev.aspx) because he makes me laugh, [Mickey Gousset](http://teamsystemrocks.com/blogs/mickey_gousset/) because TFS is cool, and [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/) because he is an inspired speaker who can also write code...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-
-

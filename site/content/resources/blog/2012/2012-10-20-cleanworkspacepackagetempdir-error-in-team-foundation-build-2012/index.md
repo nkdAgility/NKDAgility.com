@@ -7,25 +7,23 @@ layout: blog
 resourceType: blog
 slug: cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 aliases:
-- /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
+  - /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 tags:
-- azure
-- infrastructure
-- mvc
-- puzzles
-- tfs-build
-- tfs
-- tfs2012
-- tools
-- visual-studio
-- vs2010
-- web
+  - azure
+  - infrastructure
+  - mvc
+  - puzzles
+  - tfs-build
+  - tfs
+  - tfs2012
+  - tools
+  - visual-studio
+  - vs2010
+  - web
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-6-6.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-6-6.png
 ---
-
 
 When you execute a build of a MVC3 or MVC2 project from 2010 in Team Foundation Build 2012 you get an error of “The target ‘CleanWorkspacePackageTempDir’ does not exist in the project”.
 
@@ -101,5 +99,3 @@ It looks like the CleanWorkspacePackage, CleanWorkspacePackageTempDir and CleanW
 So we can now use the following without the “DependsOnTargets” directive:
 
 This should solve the problem permanently, but make sure you test your application thoroughly…
-
-

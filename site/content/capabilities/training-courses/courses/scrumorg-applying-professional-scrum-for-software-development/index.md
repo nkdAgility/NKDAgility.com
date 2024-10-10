@@ -66,7 +66,7 @@ tags:
 categories:
   - agility
   - tools-and-techniques
-coverImage: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-APSSD-1600x900-1.jpg
 card:
   button:
     content: ""

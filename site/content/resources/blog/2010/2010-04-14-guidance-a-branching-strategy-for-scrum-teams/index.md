@@ -1,5 +1,5 @@
 ---
-title: 'Guidance: A Branching strategy for Scrum Teams'
+title: "Guidance: A Branching strategy for Scrum Teams"
 date: 2010-04-14
 author: MrHinsh
 id: "50"
@@ -7,28 +7,26 @@ layout: blog
 resourceType: blog
 slug: guidance-a-branching-strategy-for-scrum-teams
 aliases:
-- /blog/guidance-a-branching-strategy-for-scrum-teams
+  - /blog/guidance-a-branching-strategy-for-scrum-teams
 tags:
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- process
-- scrum
-- sharepoint
-- spf2010
-- ssw
-- tfs
-- tfs2010
-- visual-studio
-- vs2010
+  - codeproject
+  - configuration
+  - develop
+  - infrastructure
+  - practices
+  - process
+  - scrum
+  - sharepoint
+  - spf2010
+  - ssw
+  - tfs
+  - tfs2010
+  - visual-studio
+  - vs2010
 categories:
-- tools-and-techniques
-coverImage: metro-visual-studio-2010-128-link-18-18.png
-
+  - tools-and-techniques
+preview: metro-visual-studio-2010-128-link-18-18.png
 ---
-
 
 ![vs2010alm](images/ABranchingstrategyfor_E931-vs2010alm_-16-16.png)![image](images/ABranchingstrategyfor_E931-image_-5-10.png)Having a good branching strategy will save your bacon, or at least your code. Be careful when deviating from your branching strategy because if you do, you may be worse off than when you started!
 { .post-img }
@@ -216,8 +214,6 @@ Bill’s comments are quite pertinent here as you may think it is a good idea to
 
 Where the Sprint Review and Retrospective meetings mark the end of the Sprint, the Sprint Planning meeting marks the beginning. After you have completed your Sprint Planning and you know what you are trying to achieve in Sprint 2 you can create your new Branch to develop in.
 
-
-
 ---
 
 ## How do we handle a bug(s) in production that can’t wait?
@@ -253,9 +249,6 @@ You can read about how to conduct a Test Please on our [Rules to Successful Proj
 
 - [Do you conduct an internal "test please" prior to releasing a version to a client?](http://www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#TestPlease "http://www.ssw.com.au/ssw/Standards/Rules/RulestoSuccessfulProjects.aspx#TestPlease")
 
-
-
-
 ![image](images/ABranchingstrategyfor_E931-image_-8-13.png)  
 { .post-img }
 **Figure: After you have fixed the bug you need to ship again.**
@@ -267,8 +260,6 @@ You then need to again create an RTM branch to hold the version of the code you 
 **Figure: Main is now out of sync with your Release.**
 
 We now need to get these new changes back up into the Main branch. Do a reverse and then forward merge again to get the new code into Main. But what about the branch, are developers not working on Sprint 2? Does Sprint 2 now have changes that are not in Main and Main now have changes that are not in Sprint 2? Well, yes… and this is part of the hit you take doing branching. But would this scenario even have been possible without branching?
-
-
 
 ![image](images/ABranchingstrategyfor_E931-image_-11-3.png)  
 { .post-img }
@@ -302,5 +293,3 @@ Branching is a tool; it is not a silver bullet. Don’t over use it, and avoid �
 > \-[Chris Birmele](http://blogs.msdn.com/chrisbirmele/), Visual Studio ALM Ranger, Microsoft
 
 Technorati Tags: [Branching](http://technorati.com/tags/Branching) [Scrum](http://technorati.com/tags/Scrum) [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

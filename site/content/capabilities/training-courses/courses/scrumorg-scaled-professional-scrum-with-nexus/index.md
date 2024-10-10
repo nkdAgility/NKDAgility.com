@@ -30,7 +30,7 @@ tags:
 categories:
   - measure-and-learn
   - people-and-process
-coverImage: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
 card:
   button:
     content: ""

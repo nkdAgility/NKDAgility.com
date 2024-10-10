@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: my-wish-list-of-team-foundation-server-tools
 aliases:
-- /blog/my-wish-list-of-team-foundation-server-tools
+  - /blog/my-wish-list-of-team-foundation-server-tools
 tags:
-- visual-studio
-- vs2005
-- wit
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - visual-studio
+  - vs2005
+  - wit
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 **TFS Event Handler**
 
@@ -58,5 +56,3 @@ I have already [blogged](http://blog.hinshelwood.com/archive/2007/05/24/TFS-Feat
 **Does anyone have anything else on your wish lists?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-

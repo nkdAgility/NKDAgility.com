@@ -4,7 +4,7 @@ date: 2024-02-28T07:00:19Z
 videoId: qWHCBUwpOZk
 url: /resources/videos/3-core-practices-of-kanban-improving-a-workflow
 canonicalUrl: https://www.youtube.com/watch?v=qWHCBUwpOZk
-coverImage: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
 duration: 307
 isShort: False
 ---

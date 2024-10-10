@@ -4,7 +4,7 @@ date: 2023-11-30T11:00:31Z
 videoId: R8Ris5quXb8
 url: /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
 canonicalUrl: https://www.youtube.com/watch?v=R8Ris5quXb8
-coverImage: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/R8Ris5quXb8/maxresdefault.jpg
 duration: 18
 isShort: True
 ---

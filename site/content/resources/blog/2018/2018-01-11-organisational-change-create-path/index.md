@@ -7,25 +7,23 @@ layout: blog
 resourceType: blog
 slug: organisational-change-create-path
 aliases:
-- /blog/organisational-change-create-path
+  - /blog/organisational-change-create-path
 tags:
-- agile
-- agility
-- business-agility
-- ebm
-- ebmgt
-- evidence
-- evidence-based-management
-- homepage
-- organisational-change-team
-- scrum
-- scrum-definition
+  - agile
+  - agility
+  - business-agility
+  - ebm
+  - ebmgt
+  - evidence
+  - evidence-based-management
+  - homepage
+  - organisational-change-team
+  - scrum
+  - scrum-definition
 categories:
-- people-and-process
-coverImage: nkdagility-create-your-own-path-to-agility-3-3.jpg
-
+  - people-and-process
+preview: nkdagility-create-your-own-path-to-agility-3-3.jpg
 ---
-
 
 Other scaled agile frameworks employ a cookie-cutter approach to organisational agility. While I accept that they may have worked somewhere once, the likelihood that the same approach will work in your organisation is small. They were created to get a unique company from their existing state to their personal vision of where they wanted to be. To increase the likelihood of success you need a framework that guides you to change your organisation in an incremental and custom fashion towards your own vision. Cookie-cutter approaches will not work for you.
 
@@ -109,5 +107,3 @@ The most effective agile transformations I have encountered have all got consist
 The other outcome of the Professional Scrum Foundations class is as a feeder into the organisational change backlog. Who better than the people that are actually doing the work, at all levels, and who have just learned about Scrum, to create Backlog Items? With the learnings of Scrum fresh in their mind, they are eminently perfect for identifying the Impediments in your current organisation to moving towards the new model. The last few hours of the class is dedicated to a workshop that gets all of your [stakeholders](https://nkdagility.com/training/audiences/stakeholders/) thinking about what needs to change to move to the new way.
 
 How do you create Backlog Items for your Organisational Change Backlog when every employee is a stakeholder?
-
-

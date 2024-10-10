@@ -1,5 +1,5 @@
 ---
-title: 'TFS EventHandler: MSMQ Refactor'
+title: "TFS EventHandler: MSMQ Refactor"
 date: 2007-04-30
 author: MrHinsh
 id: "407"
@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: tfs-eventhandler-msmq-refactor
 aliases:
-- /blog/tfs-eventhandler-msmq-refactor
+  - /blog/tfs-eventhandler-msmq-refactor
 tags:
-- tfs-event-handler
-- wit
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - tfs-event-handler
+  - wit
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I am half way through the MSMQ Refactor of my [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project and thing are starting to come together. I have changed it so that instead of one big solution I will have three smaller ones. This will allow me to cross reference the different services.
 
@@ -25,5 +23,3 @@ This should be pretty neat once it is complete, and the interface should allow u
 Still a long way to go... But I hope to have a working version by the end of the week...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
-
-

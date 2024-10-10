@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: interviewing-for-microsoft
 aliases:
-- /blog/interviewing-for-microsoft
+  - /blog/interviewing-for-microsoft
 tags:
-- wcf
+  - wcf
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I was not sure wither I was going to post this, but I am pretty crazy anyway, so...what the hell.
 
@@ -95,5 +93,3 @@ Suffice to say that CLR was critical to getting the job, so I didn't. They did h
 So not a total loss. I have learned where my knowledge is deficient and how to rectify it...not a NO, but a NO for now...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WCF](http://technorati.com/tags/WCF)
-
-

@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: the-cause-of-dyslexia
 aliases:
-- /blog/the-cause-of-dyslexia
+  - /blog/the-cause-of-dyslexia
 tags:
-- dyslexia
+  - dyslexia
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Rather than confuse the issue with my verbal dexterity (or excrement from my brain is more likely) I will quote from a source on the web:
 
@@ -34,5 +32,3 @@ As a result of this dyslexic children often start with a lack of  [phonetic awa
 I hope from this you can see that although dyslexic people start with a disadvantage caused by the way we are taught in school, if they manage to get past that hurdle then the tend to end up with an advantage in the long run...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

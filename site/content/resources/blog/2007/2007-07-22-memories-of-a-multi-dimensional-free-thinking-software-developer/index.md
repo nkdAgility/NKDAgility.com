@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer
 aliases:
-- /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
+  - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
 tags:
-- dyslexia
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I thought I should blog about my gift and how it has impacted my skills as a software developer. I want to do this for a number of reasons:
 
@@ -28,5 +26,3 @@ I will add more, but for now here are a couple of resources to get you started i
 [http://www.dyslexia.com/](http://www.dyslexia.com/ "http://www.dyslexia.com/")
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

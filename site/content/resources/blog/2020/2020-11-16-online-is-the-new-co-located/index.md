@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: online-is-the-new-co-located
 aliases:
-- /blog/online-is-the-new-co-located
+  - /blog/online-is-the-new-co-located
 tags:
-- featured
-- leadership-track
-- scrum-theory
+  - featured
+  - leadership-track
+  - scrum-theory
 categories:
-- agility
-- people-and-process
-coverImage: image-21-3-3.png
-
+  - agility
+  - people-and-process
+preview: image-21-3-3.png
 ---
-
 
 In light of the [new normal](https://nkdagility.com/blog/live-virtual-classrooms-and-the-new-normal/) and the last 20 years of technological progress, we need to [re-define co-location](https://nkdagility.com/blog/what-is-your-perspective-on-collocation/) as we no longer need to be in the same room as each other to get the [80% of communication that is non-verbal](https://journals.lww.com/thehearingjournal/Fulltext/2016/05000/The_Art_of_Nonverbal_Communication_in_Practice.5.aspx). If we are participating in an online event, we should try our best to keep our cameras on so that we can all read those non-verbal queues.
 
@@ -187,5 +185,3 @@ So if you are participating in a video conference:
 All of this together will create the transparency required by your host and co-participants to see your participation, how you are reacting, and modify the event to make it better.
 
 If you don't want or can't have your camera on it would be better for you and the facilitator that you attend an in-person event.
-
-

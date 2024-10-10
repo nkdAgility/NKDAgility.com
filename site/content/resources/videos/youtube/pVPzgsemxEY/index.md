@@ -4,7 +4,7 @@ date: 2024-08-25T22:00:34Z
 videoId: pVPzgsemxEY
 url: /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
 canonicalUrl: https://www.youtube.com/watch?v=pVPzgsemxEY
-coverImage: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/pVPzgsemxEY/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

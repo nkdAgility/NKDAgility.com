@@ -4,7 +4,7 @@ date: 2024-07-29T06:45:02Z
 videoId: Psc6nDD7Q9g
 url: /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
 canonicalUrl: https://www.youtube.com/watch?v=Psc6nDD7Q9g
-coverImage: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Psc6nDD7Q9g/maxresdefault.jpg
 duration: 57
 isShort: True
 ---
@@ -27,7 +27,7 @@ Agility: Enable faster, more informed decision-making and adaptation.
 (00:43:17 - 00:52:17): How Kanban empowers your team:
 Increased Ability to Change: Adapt quickly to new challenges and requirements.
 Shared Agreement: Build consensus on how to improve your workflow.
-Don't let unpredictable processes derail your software development projects. 
+Don't let unpredictable processes derail your software development projects.
 
 Embrace Kanban and unlock a new level of clarity, control, and continuous improvement. Watch this video to learn how to harness the power of Kanban for your software engineering team.
 

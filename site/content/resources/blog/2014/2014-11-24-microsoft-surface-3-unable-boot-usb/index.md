@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: microsoft-surface-3-unable-boot-usb
 aliases:
-- /blog/microsoft-surface-3-unable-boot-usb
+  - /blog/microsoft-surface-3-unable-boot-usb
 tags:
-- surface
-- surface-3-pro
-- windows-10
+  - surface
+  - surface-3-pro
+  - windows-10
 categories:
-- install-and-configuration
-coverImage: nakedalm-windows-logo-5-5.png
-
+  - install-and-configuration
+preview: nakedalm-windows-logo-5-5.png
 ---
-
 
 Recently I had a crash of Windows 10 and while usually you can boot into recovery mode, Windows was uncooperative. This was when I found my Microsoft Surface 3 unable to boot from USB!
 
@@ -71,10 +69,10 @@ When I got home I broke out the second Surface that Microsoft shipped me by acci
 So, this time I did not install Windows 10. I spent all week this week on Windows 8.1 and missing lots of features from 10:
 
 - **Modern in a Window** - On a small tablet this sucks (re Dell Venue 8) but on a desktop replacement that I mostly use with keyboard and mouse.
-      ![clip_image002](images/clip-image0026-2-2.png "clip_image002")
+  ![clip_image002](images/clip-image0026-2-2.png "clip_image002")
   { .post-img }
 - **Mini modern start menu** - This is touch and go. I really like the full screen start menu, but the largest screen I use is my Surface 3. I have seen folks using it on a 32" screen and it is more like a punch in the face.
-      ![clip_image003](images/clip-image0035-3-3.png "clip_image003")
+  ![clip_image003](images/clip-image0035-3-3.png "clip_image003")
   { .post-img }
 
 At the beginning of the week I reached out to some contacts in MSFT to see if we could not figure out the USB issue. I found that \[Clement\] also had the same issue and while was able to use Recovery Mode was unable to get his surface to boot from USB either. So thatâ€™s 3 for 3.
@@ -106,5 +104,3 @@ In not a single one of these methods does the USB get named "BOOTME". Ahh, wellâ
 { .post-img }
 
 So if you are wanting to boot your Surface Pro 3 from a USB you need to make sure that the device you want to boot from is labelled "BOOTME".
-
-

@@ -20,7 +20,7 @@ tags:
 categories:
   - agility
   - measure-and-learn
-coverImage: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
 card:
   button:
     content: ""

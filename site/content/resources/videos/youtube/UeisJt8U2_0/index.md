@@ -4,7 +4,7 @@ date: 2023-10-20T07:00:23Z
 videoId: UeisJt8U2_0
 url: /resources/videos/plague!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=UeisJt8U2_0
-coverImage: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
 duration: 422
 isShort: False
 ---

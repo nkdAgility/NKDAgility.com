@@ -25,7 +25,7 @@ tags:
   - workshop
 categories:
   - tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm.png
+preview: nakedalm-experts-visual-studio-alm.png
 card:
   button:
     content: ""

@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
-- /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
+  - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
 tags:
-- automated-build
-- ssw
-- tfs-build
-- tools
-- visual-studio
-- vs2010
-coverImage: metro-visual-studio-2010-128-link-6-6.png
-
+  - automated-build
+  - ssw
+  - tfs-build
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-6-6.png
 ---
-
 
 ![BuildIcon_Large](images/Doyouknowtheminimumbuildstocreate_CABD-BuildIcon_Large_-1-1.png)
 { .post-img }
@@ -58,5 +56,3 @@ Note: If you had a really large project with thousands of tests including long r
 **Figure: Good example, you know exactly what project, branch and type of build these are for.**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [SSW Rules](http://technorati.com/tags/SSW+Rules) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [VS 2010](http://technorati.com/tags/VS+2010)
-
-

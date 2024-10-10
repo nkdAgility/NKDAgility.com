@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45337"
 type: customers
 slug: lean-sa
-coverImage: leansa.png
-
+preview: leansa.png
 ---
-
-
-
-
-
-

@@ -4,7 +4,7 @@ date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
-coverImage: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: False
 ---
@@ -13,22 +13,22 @@ isShort: False
 
 # Scrum Value, Openness, What does it mean and why does it matter?
 
-*Unlocking Team Potential: The Power of Openness in Scrum*
+_Unlocking Team Potential: The Power of Openness in Scrum_
 
 Discover how openness revolutionizes team dynamics and drives success in Scrum. Dive deep into the vital role of transparency and trust in this insightful discussion. 🔐🌀💡
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* 
+_Enjoy this video? 🔔 Like and subscribe to our channel:_
 https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the essence of Scrum values, focusing on the pivotal role of openness. 🗝️💬 He articulates how this fundamental value not only enhances transparency but also nurtures trust within teams. Through real-world examples and practical insights, Martin reveals how openness can transform project management and team collaboration. 🤝📈 Whether you're a Scrum Master, Product Owner, or just keen on improving team dynamics, this video is a must-watch! 🌟
 
-*Key Takeaways*
+_Key Takeaways_
 00:00:05 Openness in Scrum Values  
 00:00:28 Relationship Between Openness and Trust  
 00:00:46 Practicality of Openness  
-00:01:42 Emotional Aspects of Openness  
+00:01:42 Emotional Aspects of Openness
 
- *NKDAgility can help!*
+_NKDAgility can help!_
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to integrate openness and trust within your Scrum teams, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!

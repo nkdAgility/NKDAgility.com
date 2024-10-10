@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: tfs-field-annotator
 aliases:
-- /blog/tfs-field-annotator
+  - /blog/tfs-field-annotator
 tags:
-- azure
-- code
-- infrastructure
-- tfs
-- tf-service
-- tools
+  - azure
+  - code
+  - infrastructure
+  - tfs
+  - tf-service
+  - tools
 categories:
-- code-and-complexity
-coverImage: metro-cloud-azure-link-4-4.png
-
+  - code-and-complexity
+preview: metro-cloud-azure-link-4-4.png
 ---
-
 
 Do you make lots of edits to your TFS Work Items? Do you ever look at a field in the UI and think…
 
@@ -63,14 +61,12 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
 1.  Click or Press “Start” and Scroll all the way to the right
 2.  Select the TFS Field Annotator
 3.  When the security dialog pops up click “More Info”
-        [![image](images/image_thumb25-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image25.png)
+    [![image](images/image_thumb25-2-2.png "image")](http://blog.hinshelwood.com/files/2012/03/image25.png)
     { .post-img }
     **Figure: Select More Info  
      **
 4.  Click “Run anyway” to launch the application and add it to the safe list
-        [![image](images/image_thumb26-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image26.png)
+    [![image](images/image_thumb26-3-3.png "image")](http://blog.hinshelwood.com/files/2012/03/image26.png)
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
-
-

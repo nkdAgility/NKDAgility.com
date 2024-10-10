@@ -4,7 +4,7 @@ date: 2023-01-11T07:00:02Z
 videoId: BE6E5tV8130
 url: /resources/videos/how-is-agile-product-development-different-to-waterfall-project-management-
 canonicalUrl: https://www.youtube.com/watch?v=BE6E5tV8130
-coverImage: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/BE6E5tV8130/maxresdefault.jpg
 duration: 385
 isShort: False
 ---
@@ -23,7 +23,7 @@ In this short video, Martin Hinshelwood describes the difference between #projec
 
 About NKD Agility
 
-If you’re thinking of adopting #agile for your #productdevelopment and #projectmanagement needs, consider #SAFe aka #scaledagileframework. One of the most popular scaling frameworks for #agile in the world. 
+If you’re thinking of adopting #agile for your #productdevelopment and #projectmanagement needs, consider #SAFe aka #scaledagileframework. One of the most popular scaling frameworks for #agile in the world.
 
 Connect with Nader Talai on LinkedIn at https://www.linkedin.com/in/nadertalai/
 

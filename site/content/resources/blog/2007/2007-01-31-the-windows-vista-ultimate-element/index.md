@@ -7,18 +7,14 @@ layout: blog
 resourceType: blog
 slug: the-windows-vista-ultimate-element
 aliases:
-- /blog/the-windows-vista-ultimate-element
+  - /blog/the-windows-vista-ultimate-element
 tags:
-- off-topic
-- vista
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - off-topic
+  - vista
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 [![The Windows Vista Ultimate Element](images/070130_the_vista_ultimate-1-1.gif)](http://blaugh.com/2007/01/30/the-windows-vista-ultimate-element)
 { .post-img }
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-

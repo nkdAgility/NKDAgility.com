@@ -1,5 +1,5 @@
 ---
-title: 'Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013'
+title: "Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013"
 date: 2012-07-26
 author: MrHinsh
 id: "6758"
@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 aliases:
-- /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
+  - /blog/office-2013-issue-there-is-not-enough-free-memory-to-run-this-program-in-outlook-2013
 tags:
-- office
-- office-2013
-- puzzles
+  - office
+  - office-2013
+  - puzzles
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-7-7.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-7-7.png
 ---
-
 
 You get a “There is not enough free memory to run this program. Quit one or more programs, and try again.” when trying to do activities in Outlook 2013.
 
@@ -114,5 +112,3 @@ You can do this through Outlook:
 Or you can do this through the Mail settings in the control panel.
 
 **Did this help with you issue?**
-
-

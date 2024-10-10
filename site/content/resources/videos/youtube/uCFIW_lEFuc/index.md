@@ -4,7 +4,7 @@ date: 2023-10-20T16:01:48Z
 videoId: uCFIW_lEFuc
 url: /resources/videos/sloth!-7-deadly-sins-of-agile-
 canonicalUrl: https://www.youtube.com/watch?v=uCFIW_lEFuc
-coverImage: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/uCFIW_lEFuc/maxresdefault.jpg
 duration: 498
 isShort: False
 ---
@@ -15,7 +15,7 @@ isShort: False
 
 Navigating the Sin of Sloth in Agile
 
-Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership. In this video, Martin 🎥 delves deep into the pitfalls of not genuinely committing to Agile principles, even when we claim to be following them. 
+Sloth, one of the seven deadly sins of Agile, can manifest in various ways across teams, organisations, and leadership. In this video, Martin 🎥 delves deep into the pitfalls of not genuinely committing to Agile principles, even when we claim to be following them.
 
 From failing to deliver a working product at the end of a Sprint to having convoluted deployment processes, Martin highlights the common indicators of Sloth in Agile practices. 🚫🐌 He emphasises the importance of honesty and transparency, urging teams to be upfront about their capabilities within the Agile framework.
 

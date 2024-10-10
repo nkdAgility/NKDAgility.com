@@ -1,5 +1,5 @@
 ---
-title: 'Presenting Aplication Lifecycle Management: Precursor'
+title: "Presenting Aplication Lifecycle Management: Precursor"
 date: 2008-09-10
 author: MrHinsh
 id: "194"
@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: presenting-aplication-lifecycle-management-precursor
 aliases:
-- /blog/presenting-aplication-lifecycle-management-precursor
+  - /blog/presenting-aplication-lifecycle-management-precursor
 tags:
-- aggreko
-- tfs
-- tools
-- windows-mobile-6
-coverImage: metro-aggreko-128-link-1-1.png
-
+  - aggreko
+  - tfs
+  - tools
+  - windows-mobile-6
+preview: metro-aggreko-128-link-1-1.png
 ---
-
 
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!
 
@@ -39,5 +37,3 @@ I am going to have to use my slides as vague pointers and try to create a presen
 If you are going for an interview at Microsoft make sure you lock yourself away for however amount of preperation time you need, with no distractions! That means no Tv, Xbox, children, wifes, family events of any kind. Preferably you should go to a cabin in the mountins with only your internet connection to keep you company... ;) Wish me luck....
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

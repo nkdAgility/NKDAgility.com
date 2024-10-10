@@ -21,7 +21,7 @@ tags:
   - certification
 categories:
   - agility
-coverImage: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-PSMA-1600x900-1.jpg
 card:
   button:
     content: ""

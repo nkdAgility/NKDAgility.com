@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: does-your-company-culture-resemble-survivor
 aliases:
-- /blog/does-your-company-culture-resemble-survivor
+  - /blog/does-your-company-culture-resemble-survivor
 tags:
-- company-culture
-- development-team
-- improve
-- people
-- strategic
-- team
-- teams
+  - company-culture
+  - development-team
+  - improve
+  - people
+  - strategic
+  - team
+  - teams
 categories:
-- measure-and-learn
-- people-and-process
-coverImage: nakedalm-experts-professional-scrum-1-1.png
-
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
-
 
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?
 
@@ -58,5 +56,3 @@ This has the effect of stretching the amount of time that each thing takes as it
 ## Conclusion
 
 Don’t have a company culture that resembles Survivor and instead opt for one of Teams. These Teams will be a force multiplier to your ability to deliver software and this will give you a competitive advantage. Don’t wait until your competition figure this out!
-
-

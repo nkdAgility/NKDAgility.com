@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-event-handler-progress
 aliases:
-- /blog/tfs-event-handler-progress
+  - /blog/tfs-event-handler-progress
 tags:
-- code
-- tfs-event-handler
-- wcf
-- wit
+  - code
+  - tfs-event-handler
+  - wcf
+  - wit
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I am making lots of progress with this project and I have only a couple of work items left for CTP1:
 
@@ -37,5 +35,3 @@ I have been reading up on these FaultException thingies, here is the article I 
 This makes for good reading, and although a little scary on the output side, does highlight the problem and the solution!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [WCF](http://technorati.com/tags/WCF)
-
-

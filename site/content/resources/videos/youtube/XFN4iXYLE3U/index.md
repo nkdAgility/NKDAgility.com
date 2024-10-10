@@ -4,7 +4,7 @@ date: 2024-07-22T06:00:19Z
 videoId: XFN4iXYLE3U
 url: /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
 canonicalUrl: https://www.youtube.com/watch?v=XFN4iXYLE3U
-coverImage: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XFN4iXYLE3U/maxresdefault.jpg
 duration: 54
 isShort: True
 ---

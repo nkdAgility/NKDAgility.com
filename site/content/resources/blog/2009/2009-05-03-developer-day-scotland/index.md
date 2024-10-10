@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: developer-day-scotland
 aliases:
-- /blog/developer-day-scotland
+  - /blog/developer-day-scotland
 tags:
-- code
-- events-and-presentations
-- mvvm
-- wpf
+  - code
+  - events-and-presentations
+  - mvvm
+  - wpf
 categories:
-- code-and-complexity
-- events-and-presentations
-- me
-coverImage: metro-event-128-link-1-1.png
-
+  - code-and-complexity
+  - events-and-presentations
+  - me
+preview: metro-event-128-link-1-1.png
 ---
-
 
 The [Developer Developer Developer](http://developerdayscotland.com) event held at [Glasgow Caledonian University](http://www.gcal.ac.uk/) (my University) yesterday was excellent. Kudos to [Colin Angus Mackay](http://blog.colinmackay.net/) and the other organisers for all of the effort they have put in once again.
 
@@ -55,5 +53,3 @@ Taking a different approach than Gary's session on code debt [Mark Dalgarno](htt
 Although I was in the room, I could not say that I attended this session as I was suffering from a late night and an early rise, and by the time this session started I was starting to drift off. Sorry [Mike](http://mikeo.co.uk/), it was not you, it was me...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Software Development](http://technorati.com/tags/Software+Development) [Windows](http://technorati.com/tags/Windows) [WPF](http://technorati.com/tags/WPF) [MVVM](http://technorati.com/tags/MVVM)
-
-

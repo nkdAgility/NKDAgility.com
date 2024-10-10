@@ -4,7 +4,7 @@ date: 2020-04-25T02:29:57Z
 videoId: p3D5RjM5grA
 url: /resources/videos/ep-006-live-virtual-retrospective-on-pal-e-with-russell-miller
 canonicalUrl: https://www.youtube.com/watch?v=p3D5RjM5grA
-coverImage: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/p3D5RjM5grA/maxresdefault.jpg
 duration: 2961
 isShort: False
 ---

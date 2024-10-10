@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: blogging-2500-meters
 aliases:
-- /blog/blogging-2500-meters
+  - /blog/blogging-2500-meters
 categories:
-- news-and-reviews
-coverImage: nakedalm-logo-260-7-7.png
-
+  - news-and-reviews
+preview: nakedalm-logo-260-7-7.png
 ---
-
 
 I am currently 2k meters up the side of a mountain in the French Alps and while skiing is fun it takes its toll on my knees that are already a bit dodgy. Thus I have been Skiing in the mornings and sunning myself in the afternoons. It is about 25 degrees Celsius here during the day and tad sunny.
 
@@ -50,5 +48,3 @@ After publishing my most resent post it took about 10 minutes sitting editing th
 Don't get me wrong, if you look at the HTML generated from Word from even 5 years ago it would be far worse. It's better to the point it is even worth editing it to post rather than writing from scratch and drawing the pictures by hand.
 
 Word: You can do better.
-
-

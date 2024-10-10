@@ -6,13 +6,6 @@ id: "46075"
 type: customers
 slug: royal-air-force
 tags:
-- homepage
-coverImage: Logo_of_the_Royal_Air_Force.svg_.png
-
+  - homepage
+preview: Logo_of_the_Royal_Air_Force.svg_.png
 ---
-
-
-
-
-
-

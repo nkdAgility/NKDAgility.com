@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
-- /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+  - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 tags:
-- cycle-time
-- flow
-- product-backlog
-- refinement
+  - cycle-time
+  - flow
+  - product-backlog
+  - refinement
 categories:
-- agility
-- measure-and-learn
-- people-and-process
-coverImage: iStock-847664136-1-1.jpg
-
+  - agility
+  - measure-and-learn
+  - people-and-process
+preview: iStock-847664136-1-1.jpg
 ---
-
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
 
@@ -46,5 +44,3 @@ My feeling is that #NoEstimated is one way to do boolean estimation. You can rea
 Read the [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) and [Actionable Agile Metrics for Predictability from Daniel Vacanti](https://actionableagile.com/publications).
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-
-

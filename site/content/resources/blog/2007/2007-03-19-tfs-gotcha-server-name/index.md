@@ -7,11 +7,9 @@ layout: blog
 resourceType: blog
 slug: tfs-gotcha-server-name
 aliases:
-- /blog/tfs-gotcha-server-name
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - /blog/tfs-gotcha-server-name
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..
 
@@ -34,5 +32,3 @@ You will probably need to rename TFS to the fully qualified domain name of your 
 Have fun...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
-

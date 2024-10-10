@@ -1,5 +1,5 @@
 ---
-title: 'TFS EventHandler: Message Queuing'
+title: "TFS EventHandler: Message Queuing"
 date: 2007-04-27
 author: MrHinsh
 id: "411"
@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: tfs-eventhandler-message-queuing
 aliases:
-- /blog/tfs-eventhandler-message-queuing
+  - /blog/tfs-eventhandler-message-queuing
 tags:
-- tfs-event-handler
-- wit
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - tfs-event-handler
+  - wit
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").
 
@@ -23,5 +21,3 @@ I am currently toying with the idea of re-engineering to two system services. Th
 This can be easily achievable in .NET 3.0 and will not require much work to implement...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Windows](http://technorati.com/tags/Windows)
-
-

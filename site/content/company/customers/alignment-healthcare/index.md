@@ -5,12 +5,5 @@ author: MrHinsh
 id: "12123"
 type: customers
 slug: alignment-healthcare
-coverImage: AlignmentHealthCare.png
-
+preview: AlignmentHealthCare.png
 ---
-
-
-
-
-
-

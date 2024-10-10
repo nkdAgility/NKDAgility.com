@@ -4,7 +4,7 @@ date: 2024-09-18T11:59:33Z
 videoId: XEtys2DOkKU
 url: /resources/videos/considerations-for-your-azure-devops-migration-excerpt-1
 canonicalUrl: https://www.youtube.com/watch?v=XEtys2DOkKU
-coverImage: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XEtys2DOkKU/maxresdefault.jpg
 duration: 36
 isShort: True
 ---

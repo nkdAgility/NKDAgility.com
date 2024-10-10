@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11837"
 type: customers
 slug: higher-education-statistics-agency
-coverImage: nkdagility-customer-hesa-200x75.png
-
+preview: nkdagility-customer-hesa-200x75.png
 ---
-
-
-
-
-
-

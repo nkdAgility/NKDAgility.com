@@ -4,7 +4,7 @@ date: 2024-02-04T11:00:23Z
 videoId: HjumLIMTefA
 url: /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
 canonicalUrl: https://www.youtube.com/watch?v=HjumLIMTefA
-coverImage: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/HjumLIMTefA/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

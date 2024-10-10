@@ -2,7 +2,7 @@
 id: "46514"
 title: "Training Schedule 2021 Q4/2022 Q1"
 date: "2021-08-30"
-coverImage: "class-marketing-Q32021.jpg"
+preview: "class-marketing-Q32021.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

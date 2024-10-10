@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: why-i-miss-orange-and-why-vodafone-suck
 aliases:
-- /blog/why-i-miss-orange-and-why-vodafone-suck
+  - /blog/why-i-miss-orange-and-why-vodafone-suck
 tags:
-- fail
-- mobile
+  - fail
+  - mobile
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 <rant>
 
@@ -42,5 +40,3 @@ If you are thinking of going with Vodafone… stop, think and go somewhere else!
 </rant>
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-

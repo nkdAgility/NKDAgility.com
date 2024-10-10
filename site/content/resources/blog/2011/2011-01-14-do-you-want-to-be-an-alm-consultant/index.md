@@ -7,43 +7,41 @@ layout: blog
 resourceType: blog
 slug: do-you-want-to-be-an-alm-consultant
 aliases:
-- /blog/do-you-want-to-be-an-alm-consultant
+  - /blog/do-you-want-to-be-an-alm-consultant
 tags:
-- agile
-- code
-- configuration
-- define
-- develop
-- infrastructure
-- jobs
-- kanban
-- modern-alm
-- nwcadence
-- operate
-- operational
-- people
-- practices
-- process
-- scrum
-- strategic
-- tactical
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+  - agile
+  - code
+  - configuration
+  - define
+  - develop
+  - infrastructure
+  - jobs
+  - kanban
+  - modern-alm
+  - nwcadence
+  - operate
+  - operational
+  - people
+  - practices
+  - process
+  - scrum
+  - strategic
+  - tactical
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
 categories:
-- alm
-- code-and-complexity
-- events-and-presentations
-- people-and-process
-- problems-and-puzzles
-- tools-and-techniques
-- upgrade-and-maintenance
-coverImage: metro-visual-studio-2010-128-link-3-3.png
-
+  - alm
+  - code-and-complexity
+  - events-and-presentations
+  - people-and-process
+  - problems-and-puzzles
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2010-128-link-3-3.png
 ---
-
 
 [![northwestCadenceLogo](images/Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-want-to-be-an-ALM-Consultant_A55E-northwestCadenceLogo_2.png)
 { .post-img }
@@ -96,5 +94,3 @@ _Engagement Responsibilities:_
 · Have effective interpersonal skills and ability to work in a team environment.
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
-
-

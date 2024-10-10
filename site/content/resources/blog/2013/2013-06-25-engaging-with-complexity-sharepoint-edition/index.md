@@ -7,24 +7,22 @@ layout: blog
 resourceType: blog
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
-- /blog/engaging-with-complexity-sharepoint-edition
+  - /blog/engaging-with-complexity-sharepoint-edition
 tags:
-- advfirewall
-- code
-- configuration
-- mount-spcontentdatabase
-- move-spuser
-- netsh
-- sharepoint
-- sharepoint-2013
-- tools
+  - advfirewall
+  - code
+  - configuration
+  - mount-spcontentdatabase
+  - move-spuser
+  - netsh
+  - sharepoint
+  - sharepoint-2013
+  - tools
 categories:
-- install-and-configuration
-- tools-and-techniques
-coverImage: metro-sharepoint-128-link-2-2.png
-
+  - install-and-configuration
+  - tools-and-techniques
+preview: metro-sharepoint-128-link-2-2.png
 ---
-
 
 I have been working with a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen. Just to pile on the complexity they also threw a SharePoint consolidation at me so I caught that as well.
 
@@ -123,5 +121,3 @@ This PowerShell will map each of the users across to the new domain and allow th
 ## Conclusion
 
 Upgrading SharePoint 2012 to SharePoint 2013 is not quite as easy as it is with Team Foundation Server. There are quite a few pitfalls and it took some amount of research to get the above all working.
-
-

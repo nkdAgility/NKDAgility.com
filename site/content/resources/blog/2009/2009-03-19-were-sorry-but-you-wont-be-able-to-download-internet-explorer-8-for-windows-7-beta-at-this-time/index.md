@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
-- /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
+  - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 tags:
-- tools
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - tools
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 Although if you are a Windows 7 user like me, you will not be able to download the newly released [Internet Explorer 8](http://www.microsoft.com/ie8), if you have XP or Vista you can dive into the experience that many people have been using for a while now.
 
@@ -27,5 +25,3 @@ This is, as you would expect, the best browser from Microsoft to date. And yes, 
 UPDATE (2009-03-23): Apparently an independent study study by Microsoft has shown that IE8 is faster than Firefox and Chrome! I will be using IE8 even if that is not true :)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

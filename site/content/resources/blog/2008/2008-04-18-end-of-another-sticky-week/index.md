@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: end-of-another-sticky-week
 aliases:
-- /blog/end-of-another-sticky-week
+  - /blog/end-of-another-sticky-week
 tags:
-- tfs-sticky-buddy
-- wit
-- wpf
+  - tfs-sticky-buddy
+  - wit
+  - wpf
 categories:
-- me
-coverImage: nakedalm-logo-128-link-3-3.png
-
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
-
 
 As you have probably noticed I have been soldiering on with the [TFS Sticky Buddy](http://www.codeplex.com/TFSStickyBuddy) project, and I though I would share.
 
@@ -33,8 +31,4 @@ One of the major improvements is the ability to add skins for different TFS life
 
 If you want a go of these features you will need to [download the source](http://www.codeplex.com/TFSStickyBuddy/SourceControl/ListDownloadableCommits.aspx) and build the main folder code... but there will be a release soon..
 
-
-
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-
-

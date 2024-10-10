@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: identity-crisis
 aliases:
-- /blog/identity-crisis
+  - /blog/identity-crisis
 tags:
-- infrastructure
-- off-topic
-- tools
+  - infrastructure
+  - off-topic
+  - tools
 categories:
-- code-and-complexity
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - code-and-complexity
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I am having a look at Microsoft's [Identity Lifecycle Manager 2007](http://www.microsoft.com/windowsserver/ilm2007/default.mspx) as a solution to our disparate user identity problem. Some of the bigger companies out there have solved this problem, and in many of the smaller companies it just does not exist, but we have many system that hold meta data about our employees. From HR systems to Active Directory and custom web based address books. Because of Aggreko's unprecedented growth these systems have outgrown our capacity to maintain the consistency of the data, with small groups responsible for each repository and everyone not knowing where ALL the repository's are or who controls them.
 
@@ -97,5 +95,3 @@ propaganda marketing:
 We will see! I am currently installing a dev box and I will evaluate it according to the specific needs of our business...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-

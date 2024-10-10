@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11827"
 type: customers
 slug: dfds
-coverImage: nkdagility-customer-dfds-200x75.png
-
+preview: nkdagility-customer-dfds-200x75.png
 ---
-
-
-
-
-
-

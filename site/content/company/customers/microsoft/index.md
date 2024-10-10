@@ -6,13 +6,6 @@ id: "11843"
 type: customers
 slug: microsoft
 tags:
-- homepage
-coverImage: nkdagility-customer-microsoft-200x75.png
-
+  - homepage
+preview: nkdagility-customer-microsoft-200x75.png
 ---
-
-
-
-
-
-

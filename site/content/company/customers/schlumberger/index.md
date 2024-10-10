@@ -6,13 +6,6 @@ id: "11807"
 type: customers
 slug: schlumberger
 tags:
-- homepage
-coverImage: nkdagility-customer-schlumberger-200x75.png
-
+  - homepage
+preview: nkdagility-customer-schlumberger-200x75.png
 ---
-
-
-
-
-
-

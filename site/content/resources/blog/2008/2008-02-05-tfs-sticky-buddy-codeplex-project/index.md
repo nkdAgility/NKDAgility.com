@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
-- /blog/tfs-sticky-buddy-codeplex-project
+  - /blog/tfs-sticky-buddy-codeplex-project
 tags:
-- code
-- tfs-sticky-buddy
-- wit
+  - code
+  - tfs-sticky-buddy
+  - wit
 categories:
-- code-and-complexity
-- me
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I hade been looking with envy at the [digital whiteboard experiment](http://www.agilemanagement.net/Articles/Weblog/DigitalWhiteboardExperime.html), and with dismay at the lack of open source for the project. So...
 
@@ -37,8 +35,4 @@ A set of rules will determine the colour or icons associated with each item base
 
 The resultant Digital Whiteboard will be displayed in our main offices so we will be dogfooding :)
 
-
-
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-
-

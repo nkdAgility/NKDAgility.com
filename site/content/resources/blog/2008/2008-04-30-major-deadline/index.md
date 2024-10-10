@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: major-deadline
 aliases:
-- /blog/major-deadline
+  - /blog/major-deadline
 tags:
-- moss2007
-- sharepoint
-- sp2007
+  - moss2007
+  - sharepoint
+  - sp2007
 categories:
-- me
-coverImage: metro-sharepoint-128-link-5-5.png
-
+  - me
+preview: metro-sharepoint-128-link-5-5.png
 ---
-
 
 ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...
 { .post-img }
@@ -52,5 +50,3 @@ In the immortal words of the Windows 2003 Active Directory Installer:
 > _This may take some time, or considerably longer..._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

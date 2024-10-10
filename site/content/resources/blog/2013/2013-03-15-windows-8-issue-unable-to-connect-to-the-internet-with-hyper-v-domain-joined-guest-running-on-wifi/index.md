@@ -1,5 +1,5 @@
 ---
-title: 'Windows 8 Issue: Unable to connect to the internet with Hyper-V domain joined guest running on WiFi'
+title: "Windows 8 Issue: Unable to connect to the internet with Hyper-V domain joined guest running on WiFi"
 date: 2013-03-15
 author: MrHinsh
 id: "9281"
@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 aliases:
-- /blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
+  - /blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 tags:
-- configuration
-- infrastructure
+  - configuration
+  - infrastructure
 categories:
-- code-and-complexity
-coverImage: puzzle-issue-problem-128-link-5-5.png
-
+  - code-and-complexity
+preview: puzzle-issue-problem-128-link-5-5.png
 ---
-
 
 I have recently created my own local domain and now I am unable to connect to the internet with Hyper-V domain joined guest running. It gets weirder as it only affects me when I am on a Wi-Fi connection.
 
@@ -79,5 +77,3 @@ The solution is to make sure that all of the features for your Network Bridge ar
 **Figure: Default Network Bridge**
 
 Now I want all of those things when I am on a corporate network, so I just ticked all the boxes and OK’ed the warning and wow… everything now works…
-
-

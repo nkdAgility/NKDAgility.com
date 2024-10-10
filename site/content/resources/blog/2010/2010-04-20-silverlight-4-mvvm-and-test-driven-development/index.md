@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: silverlight-4-mvvm-and-test-driven-development
 aliases:
-- /blog/silverlight-4-mvvm-and-test-driven-development
+  - /blog/silverlight-4-mvvm-and-test-driven-development
 tags:
-- code
-- mvvm
-- patterns
-- silverlight
-- ssw
-- tools
-- visual-studio
-- vs2010
+  - code
+  - mvvm
+  - patterns
+  - silverlight
+  - ssw
+  - tools
+  - visual-studio
+  - vs2010
 categories:
-- code-and-complexity
-coverImage: metro-visual-studio-2010-128-link-2-2.png
-
+  - code-and-complexity
+preview: metro-visual-studio-2010-128-link-2-2.png
 ---
-
 
 ![622512953[1]](images/68e63ada9c60_D045-6225129531_-1-1.jpg)
 { .post-img }
@@ -62,5 +60,3 @@ We are meeting at Microsoft's offices in Edinburgh in Waterloo Place. This is th
 \[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]
 
 Technorati Tags: [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM) [VS 2010](http://technorati.com/tags/VS+2010)
-
-

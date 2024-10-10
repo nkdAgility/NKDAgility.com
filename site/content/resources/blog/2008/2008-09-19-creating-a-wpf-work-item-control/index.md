@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: creating-a-wpf-work-item-control
 aliases:
-- /blog/creating-a-wpf-work-item-control
+  - /blog/creating-a-wpf-work-item-control
 tags:
-- code
-- codeproject
-- tfs
-- tfs2008
-- tools
-- wpf
+  - code
+  - codeproject
+  - tfs
+  - tfs2008
+  - tools
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-visual-studio-2005-128-link-6-6.png
-
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-6-6.png
 ---
-
 
 I have a little custom control I need added to my [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") projects. This control will allow specific groups of users as representatives of Advocacy groups with in the life cycle model to sign off a Requirement or Change Request from within Visual Studio.
 
@@ -1056,5 +1054,3 @@ The result?
 You will notice that this control is marked as read-only, but not bad for a first pass…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-
-

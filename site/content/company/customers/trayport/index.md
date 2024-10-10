@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11849"
 type: customers
 slug: trayport
-coverImage: nkdagility-customer-trayport-200x75.png
-
+preview: nkdagility-customer-trayport-200x75.png
 ---
-
-
-
-
-
-

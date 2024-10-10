@@ -6,8 +6,8 @@ id: "45557"
 type: people
 slug: fredrik-wendt
 aliases:
-- /company/people/fredrik-wendt/
-coverImage: Fredrik.png
+  - /company/people/fredrik-wendt/
+preview: Fredrik.png
 card:
   button:
     content: More info
@@ -16,11 +16,4 @@ card:
     <strong>Product Leadership Coach</strong>
 
     Maximizing Agile Development Skills ✪ Product Leadership Coach ✪ Expert in Pair &amp; Mob Programming, Clean Code, OO Analysis, Refactoring, &amp; TDD ✪ Scrum Pulse Methodology ✪ System Developer Focused on Automation, DevOps, &amp; Continuous Delivery
-
 ---
-
-
-
-
-
-

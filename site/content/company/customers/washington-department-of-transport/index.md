@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45353"
 type: customers
 slug: washington-department-of-transport
-coverImage: washington-state-DOT.jpg
-
+preview: washington-state-DOT.jpg
 ---
-
-
-
-
-
-

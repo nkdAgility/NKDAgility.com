@@ -1,5 +1,5 @@
 ---
-title: 'Coffee Talk: Scrum versus Kanban'
+title: "Coffee Talk: Scrum versus Kanban"
 date: 2011-07-19
 author: MrHinsh
 id: "3688"
@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: coffee-talk-scrum-versus-kanban
 aliases:
-- /blog/coffee-talk-scrum-versus-kanban
+  - /blog/coffee-talk-scrum-versus-kanban
 tags:
-- agile
-- events-and-presentations
-- kanban
-- lean
-- nwcadence
-- people
-- process
-- scrum
+  - agile
+  - events-and-presentations
+  - kanban
+  - lean
+  - nwcadence
+  - people
+  - process
+  - scrum
 categories:
-- events-and-presentations
-- people-and-process
-coverImage: metro-event-128-link-1-1.png
-
+  - events-and-presentations
+  - people-and-process
+preview: metro-event-128-link-1-1.png
 ---
-
 
 ![Coffee Talk: Scrum versus Kanban ](images/1475243493-2.png)
 { .post-img }
@@ -46,5 +44,3 @@ Both models have proven track records, and **in this session [Martin Hinshelwood
 - **[Join Northwest Cadence for this Free Webcast Event](http://scrumvskanban.eventbrite.com/)**
 
 I think that we have around 50 folks already signed up, but the more the merrier…
-
-

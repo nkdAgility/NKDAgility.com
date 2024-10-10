@@ -7,24 +7,22 @@ layout: blog
 resourceType: blog
 slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
-- /blog/you-cant-stack-rank-hierarchical-work-items
+  - /blog/you-cant-stack-rank-hierarchical-work-items
 tags:
-- configuration
-- infrastructure
-- nwcadence
-- process
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+  - configuration
+  - infrastructure
+  - nwcadence
+  - process
+  - tfs2012
+  - tf-service
+  - tools
+  - visual-studio
+  - vs2012
 categories:
-- people-and-process
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-14-14.png
-
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-14-14.png
 ---
-
 
 At the MVP Summit I was appalled by the number of people who asked questions about new features for supporting hierarchical _tasks_! I shared a disgusted look with [Peter Provost](https://www.linkedin.com/in/peterprovost/) and we had a quick (and I mean really quick) conversation that resulted in this post. it really comes down to one thing:
 
@@ -39,19 +37,19 @@ If you want to continue to be competitive in the world of modern software develo
 No really! Lets look at a couple of specific questions:
 
 - **What do you expect to happen when you reorder “PBI 3” above?**
-      [![image](images/image_thumb2-4-4.png "image")](http://blog.hinshelwood.com/files/2012/03/image2.png)
+  [![image](images/image_thumb2-4-4.png "image")](http://blog.hinshelwood.com/files/2012/03/image2.png)
   { .post-img }
   **Figure: If you said they all move then you get a prize**
 
 This has to be the expected out come because of that pesky parent / child relationship.
 
 - **What would you expect to happen when you drag “PBI 8” to be between “PBI 1”  and “PBI 2”?**
-      [![image](images/image_thumb3-5-5.png "image")](http://blog.hinshelwood.com/files/2012/03/image3.png)
+  [![image](images/image_thumb3-5-5.png "image")](http://blog.hinshelwood.com/files/2012/03/image3.png)
   { .post-img }
   **Figure: Was that what you expected?  
    **  
    If you said that it would move to the right location then you also get a prise, but what do you think happened to the parent relationship with “PBI 3”? Thats right, it was removed as that item can no longer exist as a child or “PBI 3”…
-      _Note: You can keep the relationship by creating it as a “related” relationship, or you could add a custom one._
+  _Note: You can keep the relationship by creating it as a “related” relationship, or you could add a custom one._
 
 So what is the expected behaviour when you discover a PBI that is too large (for whatever reason) and you want to break it down into two smaller ones. Once you have broken a PBI down into two smaller ones that encompass all of the things we need to make the larger one what purpous does it solve… have we not just replaced it? Well then, lets remove it.
 
@@ -77,7 +75,7 @@ Let me jus say that I am not suggesting that you do not use linking, there are m
 1.  **Tasks with a Parent / Child relationship with a PBI  
      **  
      You need for your team to be able to keep track of the work that they are doing to achieve a single PBI and this is that. There are other options, but this is the best one.
-        [![image](images/image_thumb7-9-9.png "image")](http://blog.hinshelwood.com/files/2012/03/image7.png)
+    [![image](images/image_thumb7-9-9.png "image")](http://blog.hinshelwood.com/files/2012/03/image7.png)
     { .post-img }
     **Figure: ![](images/metro-icon-tick-13-13.png) Good example, You can have Task as a child of  
     { .post-img }
@@ -98,9 +96,10 @@ Let me jus say that I am not suggesting that you do not use linking, there are m
   { .post-img }
 
 - **Bugs that have a Tests / Tested By**
-      I would expect this to be a no-brainer as you can’t have a bug unless you can prove that it exists. Bugs have “steps to reproduce2 after all and in the post MTM world this is the result of a failing Test Case.
+  I would expect this to be a no-brainer as you can’t have a bug unless you can prove that it exists. Bugs have “steps to reproduce2 after all and in the post MTM world this is the result of a failing Test Case.
 
       [![image](images/image_thumb9-11-11.png "image")](http://blog.hinshelwood.com/files/2012/03/image9.png)
+
   { .post-img }
   **Figure: ![](images/metro-icon-tick-13-13.png) Good example, Bugs have test Cases too**
   { .post-img }
@@ -117,5 +116,3 @@ I am always interested in finding out what other scenarios there are out there:
 Do you agree?
 
 What reasons do you have for using hierarchy's?
-
-

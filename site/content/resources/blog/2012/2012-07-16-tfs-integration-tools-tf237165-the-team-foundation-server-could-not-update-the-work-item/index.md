@@ -1,5 +1,5 @@
 ---
-title: 'TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item'
+title: "TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item"
 date: 2012-07-16
 author: MrHinsh
 id: "6179"
@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliases:
-- /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+  - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 tags:
-- puzzles
-- tf237165
-- tfs
-- tfs2012
-- tfs-integration-platform
+  - puzzles
+  - tf237165
+  - tfs
+  - tfs2012
+  - tfs-integration-platform
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-2-2.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-2-2.png
 ---
-
 
 While running an integration platform import you get a “TF237165: The Team Foundation Server could not update the work item because of a validation error on the server. This may happen because the work item has been modified or destroyed, or that you do not have permission to update that work item.”
 
@@ -50,5 +48,3 @@ You can see on lines 2 and 3 of the code above I had incorrectly specified the m
 The mentioned field either needs removed from the mapping or added to the work item. In this case I will be removing it from the mapping as I don’t need that field on the Task WIT.
 
 **Did this solve your problem?**
-
-

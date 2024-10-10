@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: teamplain-install-and-initial-views
 aliases:
-- /blog/teamplain-install-and-initial-views
+  - /blog/teamplain-install-and-initial-views
 tags:
-- vs2005
+  - vs2005
 categories:
-- install-and-configuration
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - install-and-configuration
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 Well, I got TeamPlain installed in about 30 seconds on my dev servers. In fact, it went so well that after about 10 minutes of messing around with it, I installed it in production as well.
 
@@ -25,5 +23,3 @@ This is a fantastic piece of web work, it has all of the features that you could
 I am still trying to work out how you control access to projects! Even though users have no permissions for a particular project: I am thinking that removing "Team Foundation Valid Users" from the project will work, I just have not had time to test it...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-

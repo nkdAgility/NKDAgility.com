@@ -1,5 +1,5 @@
 ---
-title: 'TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions'
+title: "TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions"
 date: 2012-08-30
 author: MrHinsh
 id: "8018"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 aliases:
-- /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
+  - /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 tags:
-- puzzles
-- tf30063
-- tfs
-- tfs2012
+  - puzzles
+  - tf30063
+  - tfs
+  - tfs2012
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-7-7.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-7-7.png
 ---
-
 
 No matter what permissions you set or what permissions you have you get a “TF30063: You are not authorized to access /Services/v3.0/LocationService.asmx” in SharePoint 2010.
 
@@ -69,5 +67,3 @@ I can’t imagine what was trying to be achieved by this… so I will leave you 
 
 [![ImpliedFacePalm](images/ImpliedFacePalm_thumb-6-6.jpg "ImpliedFacePalm")](http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg)
 { .post-img }
-
-

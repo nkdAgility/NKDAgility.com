@@ -1,5 +1,5 @@
 ---
-title: 'TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade'
+title: "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade"
 date: 2012-12-03
 author: MrHinsh
 id: "9164"
@@ -7,27 +7,25 @@ layout: blog
 resourceType: blog
 slug: tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 aliases:
-- /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
+  - /blog/tfs-2012-update-1-tf255430-the-database-was-partially-upgraded-during-a-failed-upgrade
 tags:
-- configuration
-- infrastructure
-- tf246017
-- tf254027
-- tf255356
-- tf255375
-- tf255430
-- tf400670
-- tf400711
-- tfs
-- tfs2012
-- tfs2012-1
-- tools
+  - configuration
+  - infrastructure
+  - tf246017
+  - tf254027
+  - tf255356
+  - tf255375
+  - tf255430
+  - tf400670
+  - tf400711
+  - tfs
+  - tfs2012
+  - tfs2012-1
+  - tools
 categories:
-- code-and-complexity
-coverImage: metro-problem-icon-2-2.png
-
+  - code-and-complexity
+preview: metro-problem-icon-2-2.png
 ---
-
 
 You get an error while upgrading Team Foundation Server 2012 to Update 1 with a “TF254027: You must correct all errors before you continue”, “TF255375: the configuration database that you specified cannot be used” and a “TF255430: the database was partially upgraded during a failed upgrade”.
 
@@ -164,5 +162,3 @@ If you are installing any updates to Team Foundation Server follow these simple 
 These simple steps should mitigate any future issues and should find any communication issues as well…
 
 _\-Do you want help with this? Contact Northwest Cadence to get a Quarterly Healthcheck and Upgrade on [info@nwcadence.com](mailto:info@nwcadence.com?subject=Recommended through MrHinsh (TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade)) and to schedule all of your TFS Upgrades for the coming year._
-
-

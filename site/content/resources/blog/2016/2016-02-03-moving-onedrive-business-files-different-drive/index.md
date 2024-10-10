@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: moving-onedrive-business-files-different-drive
 aliases:
-- /blog/moving-onedrive-business-files-different-drive
+  - /blog/moving-onedrive-business-files-different-drive
 tags:
-- onedrive
+  - onedrive
 categories:
-- install-and-configuration
-coverImage: clip_image001-1-1-1.png
-
+  - install-and-configuration
+preview: clip_image001-1-1-1.png
 ---
-
 
 I recent ran into a problem where my OneDrive files were taking up too much space on my main drive and preventing Windows 10 updates on the Insider Program. This works for both OneDrive consumer application and the new OnDrive for Business beta application.
 
@@ -64,5 +62,3 @@ So, in order to move your OneDrive location you need to first "Unlink" your OneD
    { .post-img }
 
 And that’s it… your OneDrive files are not in a new location, and in my case, on a new disk. That’s 80GB freed up from my Windows drive…
-
-

@@ -6,13 +6,6 @@ id: "38426"
 type: customers
 slug: capita
 tags:
-- homepage
-coverImage: nkdagility-customer-capita.png
-
+  - homepage
+preview: nkdagility-customer-capita.png
 ---
-
-
-
-
-
-

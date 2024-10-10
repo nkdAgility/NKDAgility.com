@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45377"
 type: customers
 slug: ericson
-coverImage: Ericson.png
-
+preview: Ericson.png
 ---
-
-
-
-
-
-

@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
-- /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+  - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 tags:
-- agile
-- ebmgt
-- evidence-based-management
-- scrum
-- scrum-org
+  - agile
+  - ebmgt
+  - evidence-based-management
+  - scrum
+  - scrum-org
 categories:
-- people-and-process
-coverImage: nakedalm-agility-index-7-7.png
-
+  - people-and-process
+preview: nakedalm-agility-index-7-7.png
 ---
-
 
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.
 
@@ -79,5 +77,3 @@ Using the circumstantial evidence or organisational maturity from the practice b
 > You can find out more about Evidence-based Management for Software Organisations on [http://ebmgt.org](http://ebmgt.org)
 
 Your organisation probably has metrics that you use now. However ask yourself if these metrics can tell you how much value that their projects delivered last year. If not the should focus on value… and agility path includes a bunch of tools that are optimised to help you to understand and optimise that value.
-
-

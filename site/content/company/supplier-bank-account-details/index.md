@@ -1,16 +1,19 @@
 ---
 robots: noindex
-title: "Supplier & Bank Account Details"
+title: Supplier & Bank Account Details
 date: 2024-10-10
-author: "naked Agility Ltd"
-description: "Details about supplier, corporate registration, banking, and insurance for naked Agility Ltd."
+author: naked Agility Ltd
+description: Details about supplier, corporate registration, banking, and insurance for naked Agility Ltd.
 aliases:
   - /accounts/
 headline:
   cards: []
-  title: "Supplier & Bank Account Details"
+  title: Supplier & Bank Account Details
   subtitle: Comprehensive Supplier, Corporate, and Banking Information for naked Agility Ltd
   content: Invoice instructions, corporate account downloads, tax details, banking information, and insurance coverage details for naked Agility Ltd.
+keywords:
+  - supplier
+  - Bank Account
 ---
 
 # Supplier & Bank Account Details

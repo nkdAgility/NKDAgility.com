@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: building-release-pipeline-release-management-visual-studio-2013
 aliases:
-- /blog/building-release-pipeline-release-management-visual-studio-2013
+  - /blog/building-release-pipeline-release-management-visual-studio-2013
 tags:
-- continious
-- continious-value-delivery
-- release
-- release-management
-- release-pipline
-- tfs
-- tfs-2013
-- visual-studio-alm
+  - continious
+  - continious-value-delivery
+  - release
+  - release-management
+  - release-pipline
+  - tfs
+  - tfs-2013
+  - visual-studio-alm
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-4-4.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 ---
-
 
 With the release of Visual Studio 2013 we now have release management built right into the product that we can use to build a scalable release pipeline. It's not perfect but it does hit the spot.
 
@@ -92,5 +90,3 @@ Hopefully you are in the process of merging your operations and development team
 When you put these together, sometimes with a little overlap depending on how progressive your teams are, you get a release pipeline that is, and should be, a challenging gauntlet for your software. Software that makes it through the trial by fire should be stable, and scalable as well as functional.
 
 In other words… Quality.
-
-

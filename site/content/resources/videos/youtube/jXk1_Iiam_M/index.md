@@ -4,7 +4,7 @@ date: 2023-11-22T07:00:18Z
 videoId: jXk1_Iiam_M
 url: /resources/videos/do-you-think-training-departments-get-a-lot-more-bang-for-their-buck-with-immersive-learning-
 canonicalUrl: https://www.youtube.com/watch?v=jXk1_Iiam_M
-coverImage: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/jXk1_Iiam_M/maxresdefault.jpg
 duration: 331
 isShort: False
 ---

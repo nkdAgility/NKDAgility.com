@@ -4,7 +4,7 @@ date: 2023-01-26T07:00:04Z
 videoId: Cgy1ccX7e7Y
 url: /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 canonicalUrl: https://www.youtube.com/watch?v=Cgy1ccX7e7Y
-coverImage: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 isShort: False
 ---
@@ -27,15 +27,15 @@ In this short video, Martin Hinshelwood provides some examples of valuable outco
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
 
 If you are interested in #agiletraining, visit https://nkdagility.com/training/
- 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you. 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

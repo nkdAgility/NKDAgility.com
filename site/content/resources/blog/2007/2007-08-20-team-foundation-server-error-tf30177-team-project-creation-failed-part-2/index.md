@@ -1,5 +1,5 @@
 ---
-title: 'Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2'
+title: "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2"
 date: 2007-08-20
 author: MrHinsh
 id: "327"
@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 aliases:
-- /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
+  - /blog/team-foundation-server-error-tf30177-team-project-creation-failed-part-2
 tags:
-- sharepoint
-- sp2007
-- spf2010
+  - sharepoint
+  - sp2007
+  - spf2010
 categories:
-- problems-and-puzzles
-coverImage: metro-sharepoint-128-link-1-1.png
-
+  - problems-and-puzzles
+preview: metro-sharepoint-128-link-1-1.png
 ---
-
 
 If you are trying to get team server to talk to another Sharepoint farm this is something to watch out for. I fell into this one myself, and now my American colleagues have hot the same problem (I have changed things like server, account and company names to protect the, erm, servers?). The key things to look for in the log file are the creation details:
 
@@ -88,5 +86,3 @@ Once you have added this Managed Path you will need to modify TFS to create site
 Well that's it, debugging team server errors is fun, but not for the faint hearted...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

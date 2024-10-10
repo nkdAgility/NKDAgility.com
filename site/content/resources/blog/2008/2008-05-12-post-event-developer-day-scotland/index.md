@@ -1,5 +1,5 @@
 ---
-title: 'Post event: Developer Day Scotland...'
+title: "Post event: Developer Day Scotland..."
 date: 2008-05-12
 author: MrHinsh
 id: "229"
@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: post-event-developer-day-scotland
 aliases:
-- /blog/post-event-developer-day-scotland
+  - /blog/post-event-developer-day-scotland
 categories:
-- me
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...
 
@@ -26,5 +24,3 @@ After lunch when you normally start to fall asleep we got a session on Continuou
 If I took anything away from this day, it was that although I know a lot, I know very little....
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
-

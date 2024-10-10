@@ -20,7 +20,7 @@ tags:
   - product-discovery
 categories:
   - agility
-coverImage: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
+preview: naked-agility-Professional-Scrum-PSU-1600x900-2.jpg
 card:
   button:
     content: ""

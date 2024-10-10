@@ -18,7 +18,7 @@ tags:
   - product-owner
 categories:
   - agility
-coverImage: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
+preview: naked-agility-Professional-Scrum-PSPOA-1600x900-2.jpg
 card:
   button:
     content: ""

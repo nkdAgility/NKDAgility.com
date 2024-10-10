@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: windows-live-wave-3
 aliases:
-- /blog/windows-live-wave-3
+  - /blog/windows-live-wave-3
 tags:
-- live
+  - live
 categories:
-- news-and-reviews
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - news-and-reviews
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 With the new Windows Live Wave 3 betas now available I am looking forward to many of the features I have already previewed in the beta of Windows Live Messenger 9.
 
@@ -33,5 +31,3 @@ I am only really interested in Messenger and Writer, but all the
 application are there.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-
-

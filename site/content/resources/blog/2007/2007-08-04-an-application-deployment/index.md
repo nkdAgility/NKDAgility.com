@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: an-application-deployment
 aliases:
-- /blog/an-application-deployment
+  - /blog/an-application-deployment
 tags:
-- fail
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - fail
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 Why is it that vendors insist on developers staying up all night to write installation documentation for a 40 component on 19 server installation? Do they not realize that this is not the best way to have your documentation produced? What about the image that it presents to the customer, or the impact of someone actually following said documentation!
 
@@ -26,5 +24,3 @@ We are trying to follow cryptic documentation for an application that is not com
 Hmm... Fun.
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-
-

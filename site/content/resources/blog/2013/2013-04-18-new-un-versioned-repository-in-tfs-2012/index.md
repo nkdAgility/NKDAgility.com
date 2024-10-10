@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: new-un-versioned-repository-in-tfs-2012
 aliases:
-- /blog/new-un-versioned-repository-in-tfs-2012
+  - /blog/new-un-versioned-repository-in-tfs-2012
 tags:
-- configuration
-- infrastructure
-- tactical
-- tfs
-- tfs2012-2
-- tools
+  - configuration
+  - infrastructure
+  - tactical
+  - tfs
+  - tfs2012-2
+  - tools
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-6-6.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 ---
-
 
 In the last wave of updates to Team Foundation Service the product team has added a new “staging location” and we now have an un-versioned repository in TFS 2012.
 
@@ -84,5 +82,3 @@ While heavy handed it does clean up things nicely.
 ## Conclusion
 
 We can only hope that this will be a feature of dev12! And what else might the product team decide to do with an un-versioned store? Symbols; Nuget Packages… the options are endless…
-
-

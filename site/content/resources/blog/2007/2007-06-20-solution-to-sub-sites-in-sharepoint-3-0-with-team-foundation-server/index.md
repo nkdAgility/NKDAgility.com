@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
-- /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+  - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 tags:
-- sp2007
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - sp2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 This subject goes back over a number of posts:
 
@@ -56,5 +54,3 @@ This works for us for a number of reasons; firstly only two users have permissio
 Works for us: Would it work for you?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
-
-

@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45343"
 type: customers
 slug: workday
-coverImage: workday.png
-
+preview: workday.png
 ---
-
-
-
-
-
-

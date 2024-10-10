@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: should-geekswithblogs-move-to-the-wordpress-platform
 aliases:
-- /blog/should-geekswithblogs-move-to-the-wordpress-platform
+  - /blog/should-geekswithblogs-move-to-the-wordpress-platform
 tags:
-- wordpress
+  - wordpress
 categories:
-- me
-coverImage: nakedalm-logo-128-link-4-4.png
-
+  - me
+preview: nakedalm-logo-128-link-4-4.png
 ---
-
 
 [![](https://s3.amazonaws.com/uploads.uservoice.com/logo/subdomain/48516/original/gwb_small.gif?1274098879)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 { .post-img }
@@ -52,8 +50,6 @@ I realise that it is difficult to find time to add all of the features that all 
 
 This could be a turning point in the legendary history of Geeks With Blogs, be part of it…
 
-
-
 ### What can I do to make this happen?
 
 [![We-Need-You1-324x500[1]](images/Do-you-want-to-be-an-ALM-Consultant_A55E-We-Need-You1-324x5001_thumb-1-1.jpg)](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)I need your help to make this happen:
@@ -61,5 +57,3 @@ This could be a turning point in the legendary history of Geeks With Blogs, be p
 
 - [**Vote for it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 - [**Discuss it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
-
-

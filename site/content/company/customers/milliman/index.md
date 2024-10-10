@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45368"
 type: customers
 slug: milliman
-coverImage: Milliman.jpg
-
+preview: Milliman.jpg
 ---
-
-
-
-
-
-

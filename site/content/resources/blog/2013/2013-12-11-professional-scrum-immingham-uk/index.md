@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: professional-scrum-immingham-uk
 aliases:
-- /blog/professional-scrum-immingham-uk
+  - /blog/professional-scrum-immingham-uk
 tags:
-- professioal-scrum
-- psf
-- scrum
+  - professioal-scrum
+  - psf
+  - scrum
 categories:
-- people-and-process
-coverImage: nakedalm-experts-professional-scrum-6-6.png
-
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-6-6.png
 ---
-
 
 As my first engagement as naked ALM Consulting in the UK I got to work with the fantastic team at DFDS Seaways and teach the Professional Scrum course from Scrum.org.
 
@@ -64,5 +62,3 @@ Figure: Greek dinner with the multi-national group
 After a long two days training and interacting the entire group got together for a well-earned meal and interaction. The software teams at DFDS were some of the most capable that I have worked with and their camaraderie was intense. I got a lot of value in training them and it was very refreshing to teach Europeans rather than Americans. There are many cultural differences with language being just one…
 
 I really enjoyed my time with DFDS and hopefully they enjoyed the course as well.
-
-

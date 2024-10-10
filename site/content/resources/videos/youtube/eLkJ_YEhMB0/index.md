@@ -4,7 +4,7 @@ date: 2024-01-02T07:00:20Z
 videoId: eLkJ_YEhMB0
 url: /resources/videos/5-ghosts-of-agile-past-3-questions
 canonicalUrl: https://www.youtube.com/watch?v=eLkJ_YEhMB0
-coverImage: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/eLkJ_YEhMB0/maxresdefault.jpg
 duration: 371
 isShort: False
 ---

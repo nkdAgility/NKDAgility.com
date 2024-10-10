@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: chicago-visual-studio-alm-user-group-27th-march
 aliases:
-- /blog/chicago-visual-studio-alm-user-group-27th-march
+  - /blog/chicago-visual-studio-alm-user-group-27th-march
 tags:
-- configuration
-- infrastructure
-- tfs2012-2
-- tools
-- user-groups
+  - configuration
+  - infrastructure
+  - tfs2012-2
+  - tools
+  - user-groups
 categories:
-- tools-and-techniques
-coverImage: metro-UserGroup-128-2-2.png
-
+  - tools-and-techniques
+preview: metro-UserGroup-128-2-2.png
 ---
-
 
 It has been a while since I was at the [Visual Studio ALM User Group in Chicago](http://chicagoalmug.org/). This time I will be giving a demonstration of the new Work Item Tracking features of Visual Studio 2012 Update 2 which includes Kanban Columns & Work Item Tags as well as a peek at Teams without Areas.
 
@@ -39,5 +37,3 @@ I want to cover three things and I only have 30 minutes so it will be tight:
 Wow… if we can get through all of that this session then the Chicago Visual Studio ALM User Group looks to be steeped in geek goodness. So if you are in Chicago on Wednesday the 27th of March, are a geek and want a beer then head on over to the Aon Centre at 18:30…
 
 **Warning: Be sure to register as Aon Centre security will NOT allow individuals to access the building without being pre-registered:** **[http://chicagoalmug.org/](http://chicagoalmug.org/)**
-
-

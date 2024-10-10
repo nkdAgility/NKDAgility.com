@@ -1,5 +1,5 @@
 ---
-title: 'Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server'
+title: "Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
 date: 2007-02-08
 author: MrHinsh
 id: "434"
@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
-- /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
+  - /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 tags:
-- vs2005
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - vs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 Exam 70-510: TS: Visual Studio 2005 Team Foundation Server counts as credit towards the following certification.
 
@@ -42,5 +40,3 @@ Receiving this invitation does not guarantee you a seat in the beta; we recommen
 •VUE: [http://www.vue.com/ms/](http://www.vue.com/ms/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-
-

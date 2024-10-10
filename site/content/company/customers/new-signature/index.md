@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45378"
 type: customers
 slug: new-signature
-coverImage: new-signature.jpg
-
+preview: new-signature.jpg
 ---
-
-
-
-
-
-

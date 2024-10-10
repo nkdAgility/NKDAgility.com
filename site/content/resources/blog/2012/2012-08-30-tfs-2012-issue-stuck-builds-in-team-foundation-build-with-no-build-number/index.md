@@ -1,5 +1,5 @@
 ---
-title: 'TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number'
+title: "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number"
 date: 2012-08-30
 author: MrHinsh
 id: "7760"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 aliases:
-- /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
+  - /blog/tfs-2012-issue-stuck-builds-in-team-foundation-build-with-no-build-number
 tags:
-- puzzles
-- tfs-build
-- tfs
-- tfs2012
+  - puzzles
+  - tfs-build
+  - tfs
+  - tfs2012
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-7-7.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-7-7.png
 ---
-
 
 When you queue a build you never get a build number and the build never completes. [![image](images/image_thumb109-1-1.png "image")](http://blog.hinshelwood.com/files/2012/08/image110.png)  
 { .post-img }
@@ -122,5 +120,3 @@ Kicking of a build results in… a build number and a failed build. (elation)
 While this may be a failed build it is a success for this exercise of getting the build server working…
 
 Thanks to Patrick Carnahan for his help on this one.
-
-

@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 aliases:
-- /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - /blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 tags:
-- professional-scrum
-- professionalism
+  - professional-scrum
+  - professionalism
 categories:
-- people-and-process
-- transparency-commitment
-coverImage: naked-agility-technically-agile-1280×720-19-1-1.jpg
-
+  - people-and-process
+  - transparency-commitment
+preview: naked-agility-technically-agile-1280×720-19-1-1.jpg
 ---
-
 
 In Scrum Events across the world, I hear repeated the phrase "that's how agile works" when describing behaviours that are both unprofessional and the very opposite of an agile mindset. These behaviours will inhibit agility and are a result of a lack of understanding of the underlying principles.
 
@@ -48,5 +46,3 @@ Think about the lead software engineer at Volkswagen that got a 3-year prison se
 Think about the engineers at Boeing that dont yet know their fate over the 737 Max.
 
 When you don't know that these behaviours have a negative impact on our ability to deliver its ignorance, once you know and do it anyway, it's incompetence. We have a moral and ethical responsibility to do the right thing, to protect our customer, our company, and ourselves.
-
-

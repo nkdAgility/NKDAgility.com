@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: branding-and-customizing-sharepoint-2007
 aliases:
-- /blog/branding-and-customizing-sharepoint-2007
+  - /blog/branding-and-customizing-sharepoint-2007
 tags:
-- sp2007
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - sp2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I have been delving into the black art of SharePoint Branding, and I have been finding it a grueling process. Don't get me wrong it is a vast improvement over SharePoint 2003 and I have already built 2 Features (but not for public consumption yet).
 
@@ -28,5 +26,3 @@ XFN:
 P.S. Although Greg Fyans CSS and HTML skills are beyond guru(Savant I think) his DotNetNuke skills are still being honed: I look forward to seeing his site up again.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-
-

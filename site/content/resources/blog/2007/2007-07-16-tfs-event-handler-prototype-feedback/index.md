@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-event-handler-prototype-feedback
 aliases:
-- /blog/tfs-event-handler-prototype-feedback
+  - /blog/tfs-event-handler-prototype-feedback
 tags:
-- ml
-- tfs-event-handler
-- tools
-- wit
+  - ml
+  - tfs-event-handler
+  - tools
+  - wit
 categories:
-- me
-coverImage: metro-merilllynch-128-link-1-1.png
-
+  - me
+preview: metro-merilllynch-128-link-1-1.png
 ---
-
 
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.
 
@@ -35,5 +33,3 @@ I am looking for the answer to the following questions:
 **Let me know!**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WIT](http://technorati.com/tags/WIT)
-
-

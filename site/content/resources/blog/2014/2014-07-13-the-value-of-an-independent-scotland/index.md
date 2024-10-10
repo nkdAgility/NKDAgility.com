@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: the-value-of-an-independent-scotland
 aliases:
-- /blog/the-value-of-an-independent-scotland
+  - /blog/the-value-of-an-independent-scotland
 tags:
-- indyref
-- iscotland
+  - indyref
+  - iscotland
 categories:
-- me
-coverImage: metro-yes-scotland-128-link-1-1.png
-
+  - me
+preview: metro-yes-scotland-128-link-1-1.png
 ---
-
 
 For the last wee while some of you may have noticed some news coverage about Scottish independence. This post is about the value of an independent Scotland for me, so if you are not interested in politics then move along. It will all be over in a few months and you will likely never have to hear about it outside of history again.
 
@@ -61,5 +59,3 @@ How about a little exercise?
 I get asked, time and again, by both Europeans and Americans, which way I think it will go. While I support [Yes Scotland](http://www.yesscotland.com) (with money not just with platitudes and 'likes') I really do not know. The polls are so close, 3-5 points in it, with a large group of undecided and it is really hard to tell. This is a contest that will go to the wire, and have both sides pulling out the stops as we get closer to a result. It will either be a vista of democratic beauty or a brawl of epic proportions. I know what I am expecting, and we all need to be aware of the dangers ahead as well as the values.
 
 I don't expect it to be pretty, but I am looking forward to Alex Salmond, the First Minister of Scotland, debating Alistair Darling, the chairman on the No campaign. Whatever happens on September 18th there will be a lot of unhappy people above and below the border.
-
-

@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: creating-wcf-service-host-programmatically
 aliases:
-- /blog/creating-wcf-service-host-programmatically
+  - /blog/creating-wcf-service-host-programmatically
 tags:
-- code
-- ml
-- service-oriented-architecture
-- tools
-- wcf
+  - code
+  - ml
+  - service-oriented-architecture
+  - tools
+  - wcf
 categories:
-- code-and-complexity
-- me
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 If you want to create a [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") Service Host on the fly then you will need to first create a base address. I would recommend using the DNS host entry instead of the My.Computer.Name as I had many problems on the corporate network with \[computername\] not working with our proxy settings.
 
@@ -85,5 +83,3 @@ Binding.BypassProxyOnLocal = True
 Using this in conjunction with the custom proxy creation will allow you to build versatile integrated services on the .NET platform.
 
 You can find all of the code listed above @ [http://www.codeplex.com/TFSEventHandler](http://www.codeplex.com/TFSEventHandler)
-
-

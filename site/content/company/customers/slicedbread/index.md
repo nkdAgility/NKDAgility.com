@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11847"
 type: customers
 slug: slicedbread
-coverImage: nkdagility-customer-slicedbread-200x75.png
-
+preview: nkdagility-customer-slicedbread-200x75.png
 ---
-
-
-
-
-
-

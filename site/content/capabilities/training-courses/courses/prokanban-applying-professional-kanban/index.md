@@ -24,7 +24,7 @@ tags:
   - teams
 categories:
   - agility
-coverImage: NKDAgility-Courses-APK-16x9-1.jpg
+preview: NKDAgility-Courses-APK-16x9-1.jpg
 card:
   button:
     content: ""

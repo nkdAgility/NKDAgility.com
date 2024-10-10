@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 aliases:
-- /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
+  - /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 tags:
-- pendingfilerenameoperations
-- tf254027
-- tf255466
-- tfs
-- tfs-2013
+  - pendingfilerenameoperations
+  - tf254027
+  - tf255466
+  - tfs
+  - tfs-2013
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-4-4.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-4-4.png
 ---
-
 
 After you have installed SQL Server 2012 Service Pack 1 you may encounter the error “TF255466 A previous update or installation requires a restart” when trying to install TFS 2013.
 
@@ -73,5 +71,3 @@ If think this is the issue you can head on over here and download the [Non Secur
 Figure: All readiness checks complete
 
 For me this fixed my issue…
-
-

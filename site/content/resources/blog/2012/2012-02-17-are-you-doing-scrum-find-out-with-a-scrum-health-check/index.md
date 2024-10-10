@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: are-you-doing-scrum-find-out-with-a-scrum-health-check
 aliases:
-- /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
+  - /blog/are-you-doing-scrum-find-out-with-a-scrum-health-check
 tags:
-- agile
-- define
-- develop
-- process
-- scrum
+  - agile
+  - define
+  - develop
+  - process
+  - scrum
 categories:
-- people-and-process
-- products-and-books
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - people-and-process
+  - products-and-books
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 I posted before about [how you know that you are doing Scrum, or not](http://blog.hinshelwood.com/are-you-doing-scrum-really/), but how do you! This is something that has been banded about both in the Scrum.org community and within Northwest Cadence for a while and we have come to the conclusion that we need to check!
 
@@ -43,5 +41,3 @@ To get the ball rolling we are offering our first 10 Health Checks in March at 4
 - You are using the right sort of gas!
 
 We will identify a bunch of “Opportunities” for improvement and highlight where you would be best to spend your effort. If you come back for more we will also check your progress and be able to better predict how close you are to your goals.
-
-

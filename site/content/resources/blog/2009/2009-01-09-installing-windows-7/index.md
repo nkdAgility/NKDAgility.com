@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: installing-windows-7
 aliases:
-- /blog/installing-windows-7
+  - /blog/installing-windows-7
 tags:
-- tools
-coverImage: nakedalm-logo-128-link-18-18.png
-
+  - tools
+preview: nakedalm-logo-128-link-18-18.png
 ---
-
 
 Installing Windows 7 is so similar to the Vista install it almost does not deserve a post on it, but as I did not do a Vista install post, and I am waiting for the install to complete, I though you should see, erm…. the nice new colours…
 
@@ -95,5 +93,3 @@ All in all, a very nice experience so far… I will probably be running at home 
 My computer at home is a P4 3.1Ghz with 1GB of ram… :(
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: loss-of-my-user-name-is-not-that-bad
 aliases:
-- /blog/loss-of-my-user-name-is-not-that-bad
+  - /blog/loss-of-my-user-name-is-not-that-bad
 tags:
-- code
-- develop
-- wpf
+  - code
+  - develop
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-2-2.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
-
 
 ```
 Imports System.DirectoryServices.AccountManagement
@@ -76,5 +74,3 @@ Well thats my find of the day ![smile_nerd](images/smile_nerd-3-3.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-
-

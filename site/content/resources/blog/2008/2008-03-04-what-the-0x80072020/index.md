@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: what-the-0x80072020
 aliases:
-- /blog/what-the-0x80072020
+  - /blog/what-the-0x80072020
 tags:
-- code
-- wcf
+  - code
+  - wcf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 I have found a small bug (as in, "Not working as expected!") in the new .NET 3.5 PrincipalContext classes. When you are running on an ASP.NET site in impersonation mode you cannot retrieve information from active directory without the following error:
 
@@ -33,5 +31,3 @@ This is not so good! What if I wanted to use the current users credentials to up
 Ahh well, I will live with it for now, but if anyone has another suggestion...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-
-

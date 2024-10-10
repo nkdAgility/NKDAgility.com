@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11823"
 type: customers
 slug: boxit-document-solutions
-coverImage: nkdagility-customer-boxit-200x75.png
-
+preview: nkdagility-customer-boxit-200x75.png
 ---
-
-
-
-
-
-

@@ -1,5 +1,5 @@
 ---
-title: 'Solution: Getting Silverlight to build on Team Foundation Build Services 2010'
+title: "Solution: Getting Silverlight to build on Team Foundation Build Services 2010"
 date: 2010-03-03
 author: MrHinsh
 id: "69"
@@ -7,28 +7,26 @@ layout: blog
 resourceType: blog
 slug: solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 aliases:
-- /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
+  - /blog/solution-getting-silverlight-to-build-on-team-foundation-build-services-2010
 tags:
-- automated-build
-- code
-- codeproject
-- scrum
-- sharepoint
-- silverlight
-- spf2010
-- ssw
-- tfs-build
-- tfs
-- tfs2010
-- tools
-- visual-studio
-- vs2010
+  - automated-build
+  - code
+  - codeproject
+  - scrum
+  - sharepoint
+  - silverlight
+  - spf2010
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
 categories:
-- code-and-complexity
-coverImage: metro-visual-studio-2010-128-link-3-3.png
-
+  - code-and-complexity
+preview: metro-visual-studio-2010-128-link-3-3.png
 ---
-
 
 This is SSW’s first time using Team Build 2010 to automatically create a Silverlight application. In the past the guys have used Cruse Control, but we want to move to a pure TFS 2010 solution. When one of our developers ([Allan](http://sharepoint.ssw.com.au/AboutUs/Employees/Pages/Allan.aspx)) added a Silverlight 3 project to the Solution our build server spat it out.
 
@@ -135,5 +133,3 @@ The options you should set for any Build that has 32-bit dependencies that are c
 { .post-img }
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [ALM](http://technorati.com/tags/ALM) [Silverlight](http://technorati.com/tags/Silverlight) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS 2010](http://technorati.com/tags/TFS+2010) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-
-

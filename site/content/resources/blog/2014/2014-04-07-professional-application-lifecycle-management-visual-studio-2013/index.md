@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: professional-application-lifecycle-management-visual-studio-2013
 aliases:
-- /blog/professional-application-lifecycle-management-visual-studio-2013
+  - /blog/professional-application-lifecycle-management-visual-studio-2013
 tags:
-- modern-alm
-- tfs
-- tfs-2013
-- visual-studio-2013
-- visual-studio
+  - modern-alm
+  - tfs
+  - tfs-2013
+  - visual-studio-2013
+  - visual-studio
 categories:
-- news-and-reviews
-coverImage: nakedalm-experts-visual-studio-alm-2-2.png
-
+  - news-and-reviews
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
-
 
 About 6 months ago I was approached by Mickey to help him on the third edition of Professional Application Lifecycle Management with Visual Studio 2013. I jumped at the chance, only to be in dismay at the amount of work, and now relieved that it is all over. I could not believe the amount of work that goes into producing a book of the calibre and while fun, deadlines were not...
 
@@ -42,5 +40,3 @@ It really was hard going mapping the new features in the 2013 version of the pro
 > _Professional Application Lifecycle Management with Visual Studio 2013_ provides a complete framework for using ALM to streamline software design and deployment processes using well-developed Microsoft tools and methodologies. _Professional Application Lifecycle Management with Visual Studio 2013_ is your guide to make use of newly-available ALM features to take your enterprise software development to the next level
 
 If you liked the previous editions then this new revision has been updated for 2013 with new chapters on Git and Release Management. You can [buy on Amazon.com](http://nkdalm.net/ProALMwithVS13 "Buy Professional Application Lifecycle Management with Visual Studio 2013 on Amazon.com") if you are in the US (Kindle version available as well.) If you are in the UK you can [pre-order on Amazon.co.uk](http://nkdalm.net/ProALMwithVS13uk "Buy Professional Application Lifecycle Management with Visual Studio 2013 on Amazon.co.uk") for a 30th April release.
-
-

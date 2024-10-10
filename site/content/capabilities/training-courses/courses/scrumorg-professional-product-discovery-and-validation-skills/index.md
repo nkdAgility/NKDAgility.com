@@ -14,7 +14,7 @@ course-topics:
   - Scrum.org Training Courses
   - Scrum Training Courses
   - Product Training Courses
-coverImage: NKDAgility-Courses-PSVS-16x9-1.png
+preview: NKDAgility-Courses-PSVS-16x9-1.png
 card:
   button:
     content: ""

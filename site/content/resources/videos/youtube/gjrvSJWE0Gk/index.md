@@ -4,7 +4,7 @@ date: 2024-02-20T07:00:27Z
 videoId: gjrvSJWE0Gk
 url: /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
 canonicalUrl: https://www.youtube.com/watch?v=gjrvSJWE0Gk
-coverImage: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/gjrvSJWE0Gk/maxresdefault.jpg
 duration: 124
 isShort: False
 ---
@@ -40,7 +40,6 @@ Any professional involved in project planning and delivery looking for methods t
 Stay updated on cutting-edge techniques for improving project predictability and efficiency.
 Transform your project management approach with actionable insights from Kanban experts.
 Be part of a community dedicated to Agile excellence and continuous improvement.
-
 
 Like and Subscribe for more content on harnessing Kanban metrics for enhancing predictability in your projects. Visit https://www.nkdagility.com for comprehensive resources, courses, and support on Kanban, Agile, and Scrum methodologies.
 

@@ -4,7 +4,7 @@ date: 2023-10-17T11:00:23Z
 videoId: c0ncdBixyfo
 url: /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
 canonicalUrl: https://www.youtube.com/watch?v=c0ncdBixyfo
-coverImage: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
 isShort: False
 ---
@@ -29,7 +29,7 @@ Discover the keys to fostering a positive culture and motivated team. Don't let 
 
 #Scrum #Agile #AgileCulture #ProductTeams #Leadership #TeamEngagement #NKDAgility #AgileConsultant #ScrumMaster #ProductOwner #DevOps
 
-*NKDAgility can help!* 🚀
+_NKDAgility can help!_ 🚀
 
 If you're struggling with similar issues, our experienced team at NKDAgility can provide the guidance and support you need. Request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses/

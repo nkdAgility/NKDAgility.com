@@ -2,7 +2,7 @@
 id: "48593"
 title: "Seasons Greetings & Upcoming Professional Scrum training classes"
 date: "2022-12-21"
-coverImage: "naked-agility-technically-agile-1280×720-Holiday2022.jpg"
+preview: "naked-agility-technically-agile-1280×720-Holiday2022.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

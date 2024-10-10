@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11853"
 type: customers
 slug: slaughter-and-may
-coverImage: nkdagility-customer-slaughterandmay-200x75.png
-
+preview: nkdagility-customer-slaughterandmay-200x75.png
 ---
-
-
-
-
-
-

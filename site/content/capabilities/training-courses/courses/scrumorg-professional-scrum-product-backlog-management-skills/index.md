@@ -14,7 +14,7 @@ course-topics:
   - Scrum Training Courses
 categories:
   - agility
-coverImage: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-PSPBMS-1600x900-1.jpg
 card:
   button:
     content: ""

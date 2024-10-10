@@ -18,7 +18,7 @@ tags:
   - team
 categories:
   - devops
-coverImage: naked-agility-Accentient-MPAB-1600x900-1.jpg
+preview: naked-agility-Accentient-MPAB-1600x900-1.jpg
 card:
   button:
     content: ""

@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: wpf-scale-transform-behaviour
 aliases:
-- /blog/wpf-scale-transform-behaviour
+  - /blog/wpf-scale-transform-behaviour
 tags:
-- code
-- codeproject
-- mvvm
-- tools
-- wpf
+  - code
+  - codeproject
+  - mvvm
+  - tools
+  - wpf
 categories:
-- code-and-complexity
-coverImage: metro-binary-vb-128-link-1-1.png
-
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
-
 
 Although this post is called Scale Transform Behaviour you could use any transform / animation in its place. The purpose is to have a slider control in a menu be able to alter the scale of any number of controls within [MVVM](http://joshsmithonwpf.wordpress.com/2008/12/01/the-philosophies-of-mvvm/) views.
 
@@ -312,5 +310,3 @@ As you can see I am heavily utilizing the Infragistics controls, but that would 
 krsu46zvpt
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM)
-
-

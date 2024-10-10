@@ -13,7 +13,7 @@ course-topics:
   - Agile Training Courses
 categories:
   - agility
-coverImage: NKDAgility-Courses-AKP-16x9-1.jpg
+preview: NKDAgility-Courses-AKP-16x9-1.jpg
 card:
   button:
     content: ""

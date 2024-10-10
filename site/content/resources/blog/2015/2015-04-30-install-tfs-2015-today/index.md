@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: install-tfs-2015-today
 aliases:
-- /blog/install-tfs-2015-today
+  - /blog/install-tfs-2015-today
 tags:
-- configuration
-- install
-- tfs
-- tfs-2015
+  - configuration
+  - install
+  - tfs
+  - tfs-2015
 categories:
-- install-and-configuration
-coverImage: nakedalm-experts-visual-studio-alm-11-11.png
-
+  - install-and-configuration
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 ---
-
 
 It has been a while since I had to install, configure, or upgrade TFS. Most of my customers have been moving to Visual Studio Online (VSO) which is effectively TFS in the cloud, and that requires "migration" of data rather than "upgrade". Although there are [great reasons to pick VSO over TFS, even for enterprise](http://nkdagility.com/benefits-visual-studio-online-enterprise/), many companies have a cultural issue with the cloud and are not ready to go there yet. For this we still have TFS and all of its fantastic features are updated and improved for 2015.
 
@@ -104,5 +102,3 @@ When done you will have a nice new TFS server to start working in.
 { .post-img }
 
 Creating a new Team Project is the test of a TFS server and this can still only be done in Visual Studio (Team Explorer). TFS, unlike VSO, still depends on Reporting Services, and optionally SharePoint for some of its services and the server work required to get the Team Project wizard running server side is just silly work. So time to pop open Visual Studio and create your first team project.
-
-

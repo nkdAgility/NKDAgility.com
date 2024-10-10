@@ -1,5 +1,5 @@
 ---
-title: 'TFS Integration Tools – Issue: Error occurred during the code review of change group'
+title: "TFS Integration Tools – Issue: Error occurred during the code review of change group"
 date: 2012-07-11
 author: MrHinsh
 id: "6117"
@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 aliases:
-- /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
+  - /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 tags:
-- kb
-- puzzles
-- tfs2012
-- tfs-integration-platform
+  - kb
+  - puzzles
+  - tfs2012
+  - tfs-integration-platform
 categories:
-- problems-and-puzzles
-coverImage: metro-problem-icon-2-2.png
-
+  - problems-and-puzzles
+preview: metro-problem-icon-2-2.png
 ---
-
 
 As part of the Migration process the TFS Integration Platform does a whole bunch of checks to make sure that what is being written in indeed what we want to write and what the destination is excepting. as a result, on occasion you will get a “Error occurred during the code review of change group”.
 

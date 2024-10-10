@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: move-azure-vm-virtual-network
 aliases:
-- /blog/move-azure-vm-virtual-network
+  - /blog/move-azure-vm-virtual-network
 tags:
-- azure
-- release-management
-- virtual-machines
-- virtual-network
+  - azure
+  - release-management
+  - virtual-machines
+  - virtual-network
 categories:
-- install-and-configuration
-coverImage: nakedalm-windows-logo-8-8.png
-
+  - install-and-configuration
+preview: nakedalm-windows-logo-8-8.png
 ---
-
 
 When I first completed [configuring a DC in Azure for AAD integrated Release Management](http://nkdagility.com/configuring-dc-azure-aad-integrated-release-management/) I did not add my virtual machine to a virtual network. And I really should have and in the usual poopyness that is servers you can't move it. You effectively need to delete your VM leaving the disks and create a new machine definition that is correctly configured.
 
@@ -62,5 +60,3 @@ You should now see your domain controller as part of your virtual network that w
 - [http://azure.microsoft.com/en-us/documentation/articles/active-directory-new-forest-virtual-machine/#createvnet](http://azure.microsoft.com/en-us/documentation/articles/active-directory-new-forest-virtual-machine/#createvnet)
 - [http://msdn.microsoft.com/library/azure/dn630228.aspx](http://msdn.microsoft.com/library/azure/dn630228.aspx)
 - [http://blogs.msdn.com/b/walterm/archive/2013/05/29/moving-a-virtual-machine-from-one-virtual-network-to-another.aspx](http://blogs.msdn.com/b/walterm/archive/2013/05/29/moving-a-virtual-machine-from-one-virtual-network-to-another.aspx)
-
-

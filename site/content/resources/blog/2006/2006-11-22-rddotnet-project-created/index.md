@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: rddotnet-project-created
 aliases:
-- /blog/rddotnet-project-created
+  - /blog/rddotnet-project-created
 tags:
-- service-oriented-architecture
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - service-oriented-architecture
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.
 
@@ -30,5 +28,3 @@ The whole system will be fully extensable in teh same vain as the current WhiteL
 This is a big chalange for me and will take some time. I will not be giving up... I may write some documentation as well.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
-
-

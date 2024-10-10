@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: alm-events-and-public-courses-in-2015-q2
 aliases:
-- /blog/alm-events-and-public-courses-in-2015-q2
+  - /blog/alm-events-and-public-courses-in-2015-q2
 tags:
-- agile-portfolio-management
-- configuration
-- devops
-- project-management
+  - agile-portfolio-management
+  - configuration
+  - devops
+  - project-management
 categories:
-- events-and-presentations
-coverImage: metro-event-icon-1-1.png
-
+  - events-and-presentations
+preview: metro-event-icon-1-1.png
 ---
-
 
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.
 
@@ -42,5 +40,3 @@ Well, this very weekend that is resolved as I move into a new house that does in
   Fancy taking the continuous delivery challenge? This introductory course to build and release with Visual Studio ALM will set you up to successfully create a professional release pipeline that will allow you to run rings around your competitors.
 
 Over the next 6 months I will be busy with both onsite consulting for Visual Studio ALM and Scrum, with some public live online events. If the events prove popular I will add more.
-
-

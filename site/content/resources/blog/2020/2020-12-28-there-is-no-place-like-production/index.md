@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: there-is-no-place-like-production
 aliases:
-- /blog/there-is-no-place-like-production
+  - /blog/there-is-no-place-like-production
 tags:
-- hypothesis-driven-development
-- product-discovery
-- product-owner
+  - hypothesis-driven-development
+  - product-discovery
+  - product-owner
 categories:
-- discovery-ideation
-coverImage: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
-
+  - discovery-ideation
+preview: wizard-of-oz-ruby-slippers-2018-billboard-1548-2-2.jpg
 ---
-
 
 Value is such a subjective thing that we will often be wrong, and there is no way around that wrongness. In order to minimise the wrongness and maximise the amount of value that we deliver we need to have a clear understanding of what our users need, how they are using the product, and validate our new value as soon as we can. Without validation we only have assumptions and assumptions can be dangerous.
 
@@ -50,5 +48,3 @@ My favourite quote is from Brian Harry, the product unit manager at Microsoft an
 > \-Brian Harry
 
 No mater how much testing, UX discovery, and UAT, that you do there will always be more things that you discover once you get into production. It is just not possible to simulate a production environment. We are much more likely to be successful and create value by getting the smallest piece of value into production and validating that it is indeed as valuable as we thought.
-
-

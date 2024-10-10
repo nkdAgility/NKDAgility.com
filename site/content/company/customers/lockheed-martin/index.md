@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45375"
 type: customers
 slug: lockheed-martin
-coverImage: Lockheed-Martin.png
-
+preview: Lockheed-Martin.png
 ---
-
-
-
-
-
-

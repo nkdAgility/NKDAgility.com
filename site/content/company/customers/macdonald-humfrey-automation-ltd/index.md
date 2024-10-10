@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11841"
 type: customers
 slug: macdonald-humfrey-automation-ltd
-coverImage: nkdagility-customer-MacDonald-Humfrey-Automation-200x75.png
-
+preview: nkdagility-customer-MacDonald-Humfrey-Automation-200x75.png
 ---
-
-
-
-
-
-

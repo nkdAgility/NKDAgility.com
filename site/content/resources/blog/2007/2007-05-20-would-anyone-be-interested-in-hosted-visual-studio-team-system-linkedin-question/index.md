@@ -7,14 +7,12 @@ layout: blog
 resourceType: blog
 slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
-- /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+  - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 tags:
-- tfs
-- tfs2008
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - tfs
+  - tfs2008
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)
 
@@ -39,5 +37,3 @@ External access on [Team Foundation Server](http://msdn2.microsoft.com/en-us/tea
 You can view the answers that prompted the clarifications from LinkedIn question [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [TFS](http://technorati.com/tags/TFS)
-
-

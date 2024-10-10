@@ -2,7 +2,7 @@
 id: "49803"
 title: "September 2023 NKDAgility: Empower Your Learning Journey with Our Referral Programme"
 date: "2023-08-28"
-coverImage: "naked-agility-technically-agile-1280×720-September-2023.jpg"
+preview: "naked-agility-technically-agile-1280×720-September-2023.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

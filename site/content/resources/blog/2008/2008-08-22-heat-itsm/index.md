@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: heat-itsm
 aliases:
-- /blog/heat-itsm
+  - /blog/heat-itsm
 tags:
-- tfs
-- tfs2008
-- tools
-- wpf
+  - tfs
+  - tfs2008
+  - tools
+  - wpf
 categories:
-- me
-coverImage: metro-visual-studio-2005-128-link-4-4.png
-
+  - me
+preview: metro-visual-studio-2005-128-link-4-4.png
 ---
-
 
 [![Heat ITSM Logo](images/HeatITSM_78C9-Logo_heat_thumb-3-3.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-HeatITSM_78C9-Logo_heat_2.jpg)In Aggreko we use a product called Heat ITSM to manage our support calls.  Now all of these calls are tracked using its tracking system, but we (Group Development) want to track using Team System. We need some way of moving and syncing items between these two systems.
 { .post-img }
@@ -36,5 +34,3 @@ As you can see from the screen shots I am using the [TFS Sticky Buddy](http://hi
 Well, Back to the code face :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS)
-
-

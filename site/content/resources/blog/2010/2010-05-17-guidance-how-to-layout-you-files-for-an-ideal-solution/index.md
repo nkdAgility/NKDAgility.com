@@ -1,5 +1,5 @@
 ---
-title: 'Guidance: How to layout you files for an Ideal Solution'
+title: "Guidance: How to layout you files for an Ideal Solution"
 date: 2010-05-17
 author: MrHinsh
 id: "42"
@@ -7,39 +7,35 @@ layout: blog
 resourceType: blog
 slug: guidance-how-to-layout-you-files-for-an-ideal-solution
 aliases:
-- /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
+  - /blog/guidance-how-to-layout-you-files-for-an-ideal-solution
 tags:
-- code
-- codeproject
-- configuration
-- develop
-- infrastructure
-- practices
-- scrum
-- ssw
-- tfs-build
-- tfs
-- tfs2005
-- tfs2008
-- tfs2010
-- tools
-- visual-studio
-- vs2008
-- vs2010
+  - code
+  - codeproject
+  - configuration
+  - develop
+  - infrastructure
+  - practices
+  - scrum
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2005
+  - tfs2008
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2008
+  - vs2010
 categories:
-- code-and-complexity
-- tools-and-techniques
-coverImage: metro-visual-studio-2010-128-link-11-11.png
-
+  - code-and-complexity
+  - tools-and-techniques
+preview: metro-visual-studio-2010-128-link-11-11.png
 ---
-
 
 ![vs2010alm](images/7129adaece20_EC32-vs2010alm_-10-10.png)Creating a solution and having it maintainable over time is an art and not a science. I like being pedantic and having a place for everything, no matter how small.
 { .post-img }
 
 For setting up the Areas to run Multiple projects under one solution see my post on  [When should I use Areas in TFS instead of Team Projects](http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx) and for an explanation of branching see [Guidance: A Branching strategy for Scrum Teams](http://blog.hinshelwood.com/archive/2010/04/14/guidance-a-branching-strategy-for-scrum-teams.aspx).
-
-
 
 - Update 17th May 2010 – We are currently trialling running a single Sprint branch to improve our history.
 - Update 20th May 2010 – Fixing Images
@@ -117,5 +113,3 @@ This makes it easier for Automated build and improves the discoverability of you
 Send me your feedback!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFBS](http://technorati.com/tags/TFBS) [Scrum](http://technorati.com/tags/Scrum) [Branching](http://technorati.com/tags/Branching) [TFS](http://technorati.com/tags/TFS)
-
-

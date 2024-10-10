@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
-- /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
+  - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 tags:
-- agile
-- agile-bs
-- live-webcast
-- scrum-definition
-- taylorism
+  - agile
+  - agile-bs
+  - live-webcast
+  - scrum-definition
+  - taylorism
 categories:
-- agility
-coverImage: 2020-03-27_21-31-11-1-1.jpg
-
+  - agility
+preview: 2020-03-27_21-31-11-1-1.jpg
 ---
-
 
 ​
 
@@ -42,5 +40,3 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 ​
-
-

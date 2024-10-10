@@ -7,13 +7,11 @@ layout: blog
 resourceType: blog
 slug: stuck-with-vista
 aliases:
-- /blog/stuck-with-vista
+  - /blog/stuck-with-vista
 tags:
-- tools
-coverImage: nakedalm-logo-128-link-7-1.png
-
+  - tools
+preview: nakedalm-logo-128-link-7-1.png
 ---
-
 
 If, like me, you are stuck with the old and decrepit version of Windows that is Vista SP1 at work then you may be interested in Service Pack 2 which became available on the MS Download site today.
 
@@ -56,5 +54,3 @@ You can find out loads about what is in it from:
 Hopefully this will work…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

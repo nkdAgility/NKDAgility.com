@@ -4,7 +4,7 @@ date: 2024-07-12T06:45:00Z
 videoId: CPYTApf0Ibs
 url: /resources/videos/secret-to-unlocking-team-potential-and-product-success-🚀-the-agile-reality-check-[2-6]
 canonicalUrl: https://www.youtube.com/watch?v=CPYTApf0Ibs
-coverImage: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/CPYTApf0Ibs/maxresdefault.jpg
 duration: 411
 isShort: False
 ---

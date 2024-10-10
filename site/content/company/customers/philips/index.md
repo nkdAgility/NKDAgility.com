@@ -5,12 +5,5 @@ author: MrHinsh
 id: "45366"
 type: customers
 slug: philips
-coverImage: Philips.png
-
+preview: Philips.png
 ---
-
-
-
-
-
-

@@ -4,6 +4,7 @@ date: 2018-11-28
 author: MrHinsh
 id: "38576"
 type: course
+preview: A-MPVS.png
 slug: managing-projects-using-visual-studio-and-scrum-training
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
@@ -29,8 +30,7 @@ delivery:
   audience: Product Owners, Scrum Masters, developers, testers, architects, business analysts, team leaders, and managers who want to improve the way their software is delivered should attend this class. Both technical and non‐technical people will benefit from the discussions. Having some project management and software development experience, either as a team member or as a project manager, is preferred. Experience with Agile software development, Scrum and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](https://scrumguides.com).
   type: Engineering
   details: ""
-  topics: |2+
-
+  topics: |
     1. The Scrum Framework
     2. Scrum in Action
     3. Adopting Scrum
@@ -41,7 +41,6 @@ delivery:
     8. Agile Software Testing
     9. Agile Software Development
     10. Reporting
-
   format: ""
   duration: 24
   certification: n/a

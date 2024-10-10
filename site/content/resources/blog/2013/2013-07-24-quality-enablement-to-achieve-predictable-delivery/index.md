@@ -7,23 +7,21 @@ layout: blog
 resourceType: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
-- /blog/quality-enablement-to-achieve-predictable-delivery
+  - /blog/quality-enablement-to-achieve-predictable-delivery
 tags:
-- definition-of-done
-- develop
-- improve
-- measure
-- predictable-quality
-- quality-enablement
-- strategic
-- testing
+  - definition-of-done
+  - develop
+  - improve
+  - measure
+  - predictable-quality
+  - quality-enablement
+  - strategic
+  - testing
 categories:
-- measure-and-learn
-- people-and-process
-coverImage: nakedalm-experts-professional-scrum-2-2.png
-
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-2-2.png
 ---
-
 
 You need quality enablement to achieve predictable delivery for your organisation which takes effort to achieve.
 
@@ -53,5 +51,3 @@ Doing all of these things will serve to make quality the goal not the lack of it
 The way that we have traditionally measured our development teams have finely tuned them to fluctuate quality in order to meet aggressive delivery schedules. However this fluctuating quality only serves to reduce our ability to deliver and annoy our customers when they find the resulting bugs.
 
 The goal is to increase quality not reduce it but first we need to be able to measure that quality and enforce it.
-
-

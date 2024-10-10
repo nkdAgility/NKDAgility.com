@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side
 aliases:
-- /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
+  - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
 tags:
-- caveat-utilitor
-- office
-- nwcadence
-- tools
-coverImage: nakedalm-logo-128-link-5-5.png
-
+  - caveat-utilitor
+  - office
+  - nwcadence
+  - tools
+preview: nakedalm-logo-128-link-5-5.png
 ---
-
 
 [![image](images/Can_84C0-image_thumb_1-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Can_84C0-image_4.png)
 { .post-img }
@@ -43,9 +41,9 @@ There are a number of negative behaviours (or bugs) that can occur in this confi
   - for inserted projects where a Master project contains sub-projects and each sub-project resides in its own MPP file
   - shared resource pools where multiple MPP files share a common resource pool kept in a single MPP file
   - cross-project links where a task or milestone in one MPP file has a  predecessor/successor relationship with a task or milestone in a different MPP file
-  > What I’ve seen happen before is that if you are running in a version of Project that is not associated with the MPP extension and then try and activate an OLE link then Project tries to launch the other version of Project.  Things start getting very confused since different MPP files are being controlled by different versions of Project running at the same time.  I haven’t tried this in awhile so I can’t give you exact symptoms but I suspect that if Project 2010 is involved the symptoms will be different then in a Project 2003/2007 scenario.  I’ve noticed that Project 2010 gives different error messages for the exact same problem when it occurs in Project 2003 or 2007.   
-  > \-Anonymous
-  The recommendation would be either not to use this feature if you have to have multiple versions of Project installed or to use only a single version of Project.
+    > What I’ve seen happen before is that if you are running in a version of Project that is not associated with the MPP extension and then try and activate an OLE link then Project tries to launch the other version of Project.  Things start getting very confused since different MPP files are being controlled by different versions of Project running at the same time.  I haven’t tried this in awhile so I can’t give you exact symptoms but I suspect that if Project 2010 is involved the symptoms will be different then in a Project 2003/2007 scenario.  I’ve noticed that Project 2010 gives different error messages for the exact same problem when it occurs in Project 2003 or 2007.   
+    > \-Anonymous
+    > The recommendation would be either not to use this feature if you have to have multiple versions of Project installed or to use only a single version of Project.
 
 You may get unexpected negative behaviours if you are using shared resource pools or resource pools even when you are not running multiple versions as I have found that they can get broken very easily. If you need these thing then it is probably best to use Project Server as it was created to solve many of these specific issues.
 
@@ -68,5 +66,3 @@ Windows normally only lists the last version installed for a particular extensio
 ### Conclusion
 
 Although it is possible to run multiple versions of Project on one system in the main it does not really make sense.
-
-

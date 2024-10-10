@@ -4,7 +4,7 @@ date: 2023-09-28T09:01:38Z
 videoId: UW26aDoBVbQ
 url: /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 canonicalUrl: https://www.youtube.com/watch?v=UW26aDoBVbQ
-coverImage: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
 isShort: True
 ---

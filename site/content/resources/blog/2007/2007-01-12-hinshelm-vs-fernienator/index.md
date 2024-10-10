@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: hinshelm-vs-fernienator
 aliases:
-- /blog/hinshelm-vs-fernienator
+  - /blog/hinshelm-vs-fernienator
 tags:
-- answers
-- xbox
+  - answers
+  - xbox
 categories:
-- me
-coverImage: metro-xbox-360-link-2-2.png
-
+  - me
+preview: metro-xbox-360-link-2-2.png
 ---
-
 
 Or me vs my brother-in-law!
 
@@ -26,5 +24,3 @@ Or me vs my brother-in-law!
 I think that I am winning!
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-
-

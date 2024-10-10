@@ -7,24 +7,22 @@ layout: blog
 resourceType: blog
 slug: introduction-to-visual-studio-11
 aliases:
-- /blog/introduction-to-visual-studio-11
+  - /blog/introduction-to-visual-studio-11
 tags:
-- configuration
-- develop
-- infrastructure
-- modern-alm
-- nwcadence
-- tfs2012
-- tf-service
-- tools
-- visual-studio
-- vs2012
+  - configuration
+  - develop
+  - infrastructure
+  - modern-alm
+  - nwcadence
+  - tfs2012
+  - tf-service
+  - tools
+  - visual-studio
+  - vs2012
 categories:
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-2-2.png
-
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
-
 
 [![image](images/image_thumb1.png)](http://blog.nwcadence.com/wp-content/uploads/2012/02/image1.png)Over on the Northwest Cadence blog we are doing a big push on Visual Studio 11 (dev11) content.  I and my colleagues will be delivering content on Visual Studio 11,  Visual Studio 11 Team Foundation Server & Visual Studio Team Foundation Service (AKA TFS Preview).
 { .post-img }
@@ -55,5 +53,3 @@ And this just the beginning…
 - **Follow** [**http://blog.nwcadence.com**](http://blog.nwcadence.com) **for more posts…**
 
 There will be plenty more this month and after the [2012 MVP Global Summit](http://www.2012mvpsummit.com/) in a couple of weeks...
-
-

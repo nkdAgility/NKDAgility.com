@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11851"
 type: customers
 slug: supercontrol
-coverImage: nkdagility-customer-supercontrol-200x75.png
-
+preview: nkdagility-customer-supercontrol-200x75.png
 ---
-
-
-
-
-
-

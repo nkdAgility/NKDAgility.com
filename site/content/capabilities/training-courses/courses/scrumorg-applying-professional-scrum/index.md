@@ -33,7 +33,7 @@ categories:
   - measure-and-learn
   - people-and-process
   - tools-and-techniques
-coverImage: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
+preview: naked-agility-Professional-Scrum-APS-Minecraft-1600x900-1.jpg
 card:
   button:
     content: ""

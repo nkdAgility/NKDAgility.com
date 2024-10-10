@@ -7,20 +7,18 @@ layout: blog
 resourceType: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
-- /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
+  - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 tags:
-- psd
-- psf
-- psm
-- scrum
-- scrum-org
+  - psd
+  - psf
+  - psm
+  - scrum
+  - scrum-org
 categories:
-- events-and-presentations
-- people-and-process
-coverImage: PSF_Badges-2-2.png
-
+  - events-and-presentations
+  - people-and-process
+preview: PSF_Badges-2-2.png
 ---
-
 
 ![PST-Badge-v2-web-transparent](images/PST-Badge-v2-web-transparent-4-4.png "PST-Badge-v2-web-transparent")For too long has Scotland been ignored in Professional  Scrum Training. I am not sure if there has ever been a Scrum.org course held here as I could not find one and the last time Ken was here was way back in 2004.
 { .post-img }
@@ -77,5 +75,3 @@ These courses are awesome and can really help with a Scrum adoption especially e
 For all your Scrum needs you should head on over to [http://scrum.org](http://scrum.org) and check out the forums and and other offerings.
 
 If however you are in Europe then you can [find an expert](http://nkdagility.com/company/general-inquiries/) closer to home.
-
-

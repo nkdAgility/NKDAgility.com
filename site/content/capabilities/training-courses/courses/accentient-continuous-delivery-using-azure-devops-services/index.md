@@ -15,7 +15,7 @@ course-topics:
   - Accentient Training Courses
 tags:
   - development
-coverImage: pipelines-icon-80.png
+preview: pipelines-icon-80.png
 card:
   button:
     content: ""

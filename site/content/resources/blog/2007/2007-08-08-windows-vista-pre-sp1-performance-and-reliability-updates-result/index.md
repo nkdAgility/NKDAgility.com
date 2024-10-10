@@ -7,16 +7,14 @@ layout: blog
 resourceType: blog
 slug: windows-vista-pre-sp1-performance-and-reliability-updates-result
 aliases:
-- /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
+  - /blog/windows-vista-pre-sp1-performance-and-reliability-updates-result
 tags:
-- ml
-- off-topic
-- tools
-- vista
-coverImage: metro-merilllynch-128-link-1-1.png
-
+  - ml
+  - off-topic
+  - tools
+  - vista
+preview: metro-merilllynch-128-link-1-1.png
 ---
-
 
 I had spotted these updates last night in a [post](http://www.windows-now.com/blogs/robert/archive/2007/08/07/windows-vista-pre-sp1-performance-and-reliability-updates-released.aspx "Windows Vista Pre-SP1 Performance and Reliability Updates Released") by [Robert McLaws](http://www.windows-now.com/blogs/robert/) and decided, what the heck, I'll give it a go...
 
@@ -29,5 +27,3 @@ Now, thanks to the updates, its faster, leaner and meaner! All the better to run
 Robert: Are you "barely old enough to legally buy alcohol" by US or UK standards? If its US, then you could have been drinking legally here for 3+years and illegally for 5+ years depending on your 5 o'clock shadow :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [VS 2008](http://technorati.com/tags/VS+2008)
-
-

@@ -4,7 +4,7 @@ date: 2023-05-09T09:30:04Z
 videoId: L6opxb0FYcU
 url: /resources/videos/worst-agile-advice-heard-
 canonicalUrl: https://www.youtube.com/watch?v=L6opxb0FYcU
-coverImage: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 isShort: True
 ---
@@ -21,15 +21,15 @@ In this short video, Martin Hinshelwood provides an example of one of the worst 
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+If you are interested in #agiletraining, visit https://nkdagility.com/training/
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
 
-We would love to work with you. 
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

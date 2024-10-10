@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11939"
 type: customers
 slug: healthgrades
-coverImage: image-healthgrades-logo.png
-
+preview: image-healthgrades-logo.png
 ---
-
-
-
-
-
-

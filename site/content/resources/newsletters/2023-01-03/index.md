@@ -2,7 +2,7 @@
 id: "48616"
 title: "January 2023 NKDAgility: What is the difference between traditional and empirical approaches"
 date: "2023-01-03"
-coverImage: "naked-agility-technically-agile-1280×720-Jan2023.jpg"
+preview: "naked-agility-technically-agile-1280×720-Jan2023.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

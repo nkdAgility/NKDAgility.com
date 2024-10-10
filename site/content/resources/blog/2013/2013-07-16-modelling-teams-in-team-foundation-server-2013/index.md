@@ -7,26 +7,24 @@ layout: blog
 resourceType: blog
 slug: modelling-teams-in-team-foundation-server-2013
 aliases:
-- /blog/modelling-teams-in-team-foundation-server-2013
+  - /blog/modelling-teams-in-team-foundation-server-2013
 tags:
-- area-path
-- branching
-- configuration
-- permissions
-- process
-- source-control
-- teams
-- tfs
-- tfs-2013
-- tools
-- version-control
+  - area-path
+  - branching
+  - configuration
+  - permissions
+  - process
+  - source-control
+  - teams
+  - tfs
+  - tfs-2013
+  - tools
+  - version-control
 categories:
-- install-and-configuration
-- tools-and-techniques
-coverImage: nakedalm-experts-visual-studio-alm-6-6.png
-
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 ---
-
 
 Do you know what to do with Areas, Iteration, Teams, Source Control, and Security when modelling Teams in Team Foundation Server 2013?
 
@@ -105,5 +103,3 @@ Each of these actions has a number of identified steps and all steps can be orch
 Creating structure in Team Foundation Server 2013 that model not only your organisation but your ideal structure within your organisation is what makes Team Foundation Server my preferred tool for Application Lifecycle Management. These are things that I have been doing in TFS since TFS 205 but now the product team have added features that directly provide those capabilities.
 
 Are you getting the most our of your Team Foundation Server deployment?
-
-

@@ -13,7 +13,7 @@ aliases:
 course-topics:
   - Kanban Training Courses
   - ProKanban Training Courses
-coverImage: NKDAgility-Courses-AMP-16x9-1.jpg
+preview: NKDAgility-Courses-AMP-16x9-1.jpg
 card:
   button:
     content: ""

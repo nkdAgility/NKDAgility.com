@@ -7,22 +7,20 @@ layout: blog
 resourceType: blog
 slug: list-all-files-changed-under-an-iteration
 aliases:
-- /blog/list-all-files-changed-under-an-iteration
+  - /blog/list-all-files-changed-under-an-iteration
 tags:
-- code
-- iteration
-- tfs
-- tfs2008
-- tools
-- version-control
-- wit
+  - code
+  - iteration
+  - tfs
+  - tfs2008
+  - tools
+  - version-control
+  - wit
 categories:
-- code-and-complexity
-- me
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - code-and-complexity
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 I was asked by a colleague to provide a list of all files that were changed under a particular iteration. Rather than delving into the data, I made a couple of API calls to TFS to output a text file with the list.
 
@@ -76,5 +74,3 @@ End If
 As you can see I have very bad naming and layout, but this is a one time use version of the code, so quick and dirty. If I am asked to do this again I would create a proper command line utility, or even a WPF interface to display the data prettily.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Version Control](http://technorati.com/tags/Version+Control) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
-
-

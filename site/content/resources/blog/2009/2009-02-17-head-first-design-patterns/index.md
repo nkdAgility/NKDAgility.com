@@ -7,18 +7,16 @@ layout: blog
 resourceType: blog
 slug: head-first-design-patterns
 aliases:
-- /blog/head-first-design-patterns
+  - /blog/head-first-design-patterns
 tags:
-- code
-- develop
-- dyslexia
-- practices
+  - code
+  - develop
+  - dyslexia
+  - practices
 categories:
-- products-and-books
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - products-and-books
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 [![HadFirstDesignPatterns](images/HeadFirstDesignPatterns_91E0-HadFirstDesignPatterns_thumb-1-1.jpg)](http://www.amazon.co.uk/gp/product/0596007124?ie=UTF8&tag=dyslexicdev-21&linkCode=as2&camp=1634&creative=6738&creativeASIN=0596007124)![](http://www.assoc-amazon.co.uk/e/ir?t=dyslexicdev-21&l=as2&o=2&a=0596007124)
 { .post-img }
@@ -35,5 +33,3 @@ The [Head First](http://www.headfirstlabs.com/) series uses pictures and concept
 I would recommend this book to any budding and exiting author of technical books…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-
-

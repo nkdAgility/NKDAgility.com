@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: the-long-wait-is-over
 aliases:
-- /blog/the-long-wait-is-over
+  - /blog/the-long-wait-is-over
 tags:
-- tools
+  - tools
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 Have you been waiting for a long time for [Windows 7](http://www.microsoft.com/windows/windows-7/)? Well I have.. I have been able to use Beta 1 and the RC for a good while now, and it surprised me that the Windows 7 Beta 1 was more stable, responsive and cleaner than Vista was after Service Pack 3.
 
@@ -30,5 +28,3 @@ Today (06/08/2009) [Windows 7](http://www.microsoft.com/windows/windows-7/) RTM 
 If you have not yet seen [Windows 7](http://www.microsoft.com/windows/windows-7/) then head on over to the [Windows 7](http://www.microsoft.com/windows/windows-7/) site, if you have then it will not be long until it is available. September will be the official “buy it in the shops” day, but many new PC’s already come with an automatic upgrade.
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-
-

@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11809"
 type: customers
 slug: programutvikling
-coverImage: programutvikling.png
-
+preview: programutvikling.png
 ---
-
-
-
-
-
-

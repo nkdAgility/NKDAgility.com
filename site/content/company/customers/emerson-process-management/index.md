@@ -5,12 +5,5 @@ author: MrHinsh
 id: "11829"
 type: customers
 slug: emerson-process-management
-coverImage: nkdagility-customer-emerson-process-management-200x75.png
-
+preview: nkdagility-customer-emerson-process-management-200x75.png
 ---
-
-
-
-
-
-

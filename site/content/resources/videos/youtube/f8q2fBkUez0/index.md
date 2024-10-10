@@ -4,7 +4,7 @@ date: 2024-09-03T03:33:58Z
 videoId: f8q2fBkUez0
 url: /resources/videos/should-companies-take-money-off-the-table-with-martin-,-michael-,-&-rijon
 canonicalUrl: https://www.youtube.com/watch?v=f8q2fBkUez0
-coverImage: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/f8q2fBkUez0/maxresdefault.jpg
 duration: 4859
 isShort: False
 ---
@@ -15,11 +15,12 @@ isShort: False
 
 ### Panel Description: "Should Companies Take Money Off the Table? Exploring Motivation Beyond Financial Incentives"
 
-In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever. Join us for an engaging panel discussion where we dive deep into the idea of "taking money off the table" as a motivator and explore the principles outlined in Dan Pink's groundbreaking work, *Drive*.
+In today's fast-paced business environment, the debate over the role of financial incentives in driving employee motivation is more relevant than ever. Join us for an engaging panel discussion where we dive deep into the idea of "taking money off the table" as a motivator and explore the principles outlined in Dan Pink's groundbreaking work, _Drive_.
 
 Dan Pink argues that traditional reward systems based on financial incentives often fail to motivate people effectively, especially in complex, creative, or knowledge-based work. Instead, Pink suggests that true motivation comes from the intrinsic drivers of Autonomy, Mastery, and Purpose. But how practical is it for companies to shift away from financial rewards, and what are the potential impacts on employee performance, satisfaction, and retention?
 
 Our panel of experts will discuss:
+
 - **The Psychological Impact of Financial Incentives**: How do bonuses, raises, and other monetary rewards influence behavior? Are they as effective as we think?
 - **Dan Pink’s Framework**: A deeper look into Autonomy, Mastery, and Purpose as the real drivers of motivation.
 - **Practical Applications**: How can companies realistically "take money off the table" and still maintain a motivated workforce?

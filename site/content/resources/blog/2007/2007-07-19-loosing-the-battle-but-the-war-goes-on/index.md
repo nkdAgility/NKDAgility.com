@@ -7,17 +7,15 @@ layout: blog
 resourceType: blog
 slug: loosing-the-battle-but-the-war-goes-on
 aliases:
-- /blog/loosing-the-battle-but-the-war-goes-on
+  - /blog/loosing-the-battle-but-the-war-goes-on
 tags:
-- fail
-- tfs
-- tfs2005
-- visual-studio
-- vs2005
-coverImage: metro-visual-studio-2005-128-link-1-1.png
-
+  - fail
+  - tfs
+  - tfs2005
+  - visual-studio
+  - vs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
-
 
 Well in my current war to get my company to use [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server"), I am loosing the battle for Visual Studio Team System adoption. I have fought many battles, against Jira, Confluence and Subversion, but they are currently wining. I cant seam to get the Architecture & Strategy guys to get behind the project. They are sitting on the sidelines encouraging me, but with no active participation.
 
@@ -30,5 +28,3 @@ The call has now come down from on high to have all Risks and Issues stored in J
 Thus, I have created a [CodePlex](http://www.codeplex.com "CodePlex") project for [TFS Work Item Tracking to Jira Synchronization](http://www.codeplex.com/TfsWitToJiraSync) in the hopes that some enterprising developers would be interested in working on the code. I will not have time to work directly on the code as all development projects are now being outsourced to our Indian development team or to external companies, and I have been relegated to the bench of release management  documentation...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-
-

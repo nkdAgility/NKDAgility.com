@@ -4,7 +4,7 @@ date: 2024-02-14T07:00:19Z
 videoId: kTszGsXPLXY
 url: /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
 canonicalUrl: https://www.youtube.com/watch?v=kTszGsXPLXY
-coverImage: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
 isShort: False
 ---

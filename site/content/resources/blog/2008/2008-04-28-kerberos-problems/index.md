@@ -7,19 +7,17 @@ layout: blog
 resourceType: blog
 slug: kerberos-problems
 aliases:
-- /blog/kerberos-problems
+  - /blog/kerberos-problems
 tags:
-- infrastructure
-- kerberos
-- off-topic
-- security
-- tools
+  - infrastructure
+  - kerberos
+  - off-topic
+  - security
+  - tools
 categories:
-- problems-and-puzzles
-coverImage: nakedalm-logo-128-link-1-1.png
-
+  - problems-and-puzzles
+preview: nakedalm-logo-128-link-1-1.png
 ---
-
 
 I have been having a lot of Kerberos double hop problems on the network at work, and although I have not yet managed to fix them... I did find these useful pages:
 
@@ -30,5 +28,3 @@ I have been having a lot of Kerberos double hop problems on the network at work,
 I will keep you updated on my progress...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-
-

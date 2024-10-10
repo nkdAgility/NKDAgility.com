@@ -7,15 +7,13 @@ layout: blog
 resourceType: blog
 slug: microsoft-myphone-service-available-to-the-public
 aliases:
-- /blog/microsoft-myphone-service-available-to-the-public
+  - /blog/microsoft-myphone-service-available-to-the-public
 tags:
-- windows-mobile-6
+  - windows-mobile-6
 categories:
-- me
-coverImage: nakedalm-logo-128-link-2-2.png
-
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
-
 
 Microsoft recently opened up there beta of the MyPhone service to the general public. The service syncs your Mobile phone with the web and allows access to your Contacts Calendar tasks, pictures and more.
 
@@ -29,5 +27,3 @@ I do not know what the bandwidth is like, but the fact that you cant set the syn
 Setup you phone by going to [http://myphone.microsoft.com](http://myphone.microsoft.com "http://myphone.microsoft.com")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
-
-
