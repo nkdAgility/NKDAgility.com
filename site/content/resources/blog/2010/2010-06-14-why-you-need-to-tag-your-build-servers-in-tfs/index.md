@@ -1,22 +1,21 @@
 ---
+title: Why you need to tag your build servers in TFS
+date: 2010-06-14
+creator: Martin Hinshelwood
 id: "40"
-title: "Why you need to tag your build servers in TFS"
-date: "2010-06-14"
-tags:
-  - "automated-build"
-  - "ssw"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-10-10.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "why-you-need-to-tag-your-build-servers-in-tfs"
-
+slug: why-you-need-to-tag-your-build-servers-in-tfs
 aliases:
   - /blog/why-you-need-to-tag-your-build-servers-in-tfs
+tags:
+  - automated-build
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+preview: metro-SSWLogo-128-link-10-10.png
 ---
 
 ![vs2010alm](images/e6d297adc9ef_12485-vs2010alm_-4-8.png)At SSW we use gated check-in for all of our projects. The benefits are based on the number of developers you have working on your project.

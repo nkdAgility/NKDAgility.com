@@ -1,25 +1,24 @@
 ---
+title: Setting up SharePoint for the Enterprise
+date: 2008-01-31
+creator: Martin Hinshelwood
 id: "252"
-title: "Setting up SharePoint for the Enterprise"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "develop"
-  - "infrastructure"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "setting-up-sharepoint-for-the-enterprise"
-
+slug: setting-up-sharepoint-for-the-enterprise
 aliases:
   - /blog/setting-up-sharepoint-for-the-enterprise
+tags:
+  - develop
+  - infrastructure
+  - sharepoint
+  - sp2007
+  - spf2010
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 I currently have the task of setting up SharePoint Portal for my company. But here is the kicker, they have users in almost every country in the world, so how to structure the deployment.

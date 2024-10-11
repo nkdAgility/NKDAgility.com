@@ -1,24 +1,23 @@
 ---
+title: Government Cloud First policy
+date: 2017-05-10
+creator: Martin Hinshelwood
 id: "11882"
-title: "Government Cloud First policy"
-date: "2017-05-10"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "agile"
-  - "business-agility"
-  - "cloud"
-  - "devops"
-  - "digital-transformation"
-coverImage: "government-cloud-640x400-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "government-cloud-first-policy"
-
+slug: government-cloud-first-policy
 aliases:
   - /blog/government-cloud-first-policy
+tags:
+  - agile
+  - business-agility
+  - cloud
+  - devops
+  - digital-transformation
+categories:
+  - agility
+  - devops
+preview: government-cloud-640x400-1-1.png
 ---
 
 Why is it that while there is a Government Cloud First policy there are so much fear of cloud in the public sector? I have been working with a number of government and local council agencies in the UK and I found that they are still trying to decide if cloud is a good idea.

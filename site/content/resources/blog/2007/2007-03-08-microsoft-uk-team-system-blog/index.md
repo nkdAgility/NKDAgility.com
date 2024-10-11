@@ -1,15 +1,14 @@
 ---
+title: Microsoft UK Team System Blog
+date: 2007-03-08
+creator: Martin Hinshelwood
 id: "429"
-title: "Microsoft UK Team System Blog"
-date: "2007-03-08"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-uk-team-system-blog"
-
+slug: microsoft-uk-team-system-blog
 aliases:
   - /blog/microsoft-uk-team-system-blog
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 The TFS guys in the UK are blogging! They started late last year, but in the time honored tradition of blogging, "Don't tell anyone you have one until there is something to read."

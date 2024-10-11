@@ -4,7 +4,7 @@ date: 2023-06-28T07:00:21Z
 videoId: uGIhajIO3pQ
 url: /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
 canonicalUrl: https://www.youtube.com/watch?v=uGIhajIO3pQ
-coverImage: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
 isShort: False
 ---

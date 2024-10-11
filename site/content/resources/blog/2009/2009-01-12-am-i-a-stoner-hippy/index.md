@@ -1,19 +1,18 @@
 ---
+title: Am I a stoner hippy?
+date: 2009-01-12
+creator: Martin Hinshelwood
 id: "146"
-title: "Am I a stoner hippy?"
-date: "2009-01-12"
-categories:
-  - "me"
-tags:
-  - "dyslexia"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "am-i-a-stoner-hippy"
-
+slug: am-i-a-stoner-hippy
 aliases:
   - /blog/am-i-a-stoner-hippy
+tags:
+  - dyslexia
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 In my email signature, and in the title of my blog, I have the phrase “multi-dimensional free thinker”, and I was recently pulled up for it…

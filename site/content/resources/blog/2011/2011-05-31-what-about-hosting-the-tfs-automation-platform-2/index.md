@@ -1,24 +1,23 @@
 ---
+title: What about hosting the Tfs Automation Platform
+date: 2011-05-31
+creator: Martin Hinshelwood
 id: "3365"
-title: "What about hosting the Tfs Automation Platform"
-date: "2011-05-31"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfsap"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-about-hosting-the-tfs-automation-platform-2"
-
+slug: what-about-hosting-the-tfs-automation-platform-2
 aliases:
   - /blog/what-about-hosting-the-tfs-automation-platform-2
+tags:
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfsap
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 [![](images/4810.TFSonAzure.jpg)](http://blogs.msdn.com/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-01-44-14/4810.TFSonAzure.jpg)I have been asked what would be the process or support for hosting the Tfs Automation Platform either from a hosting provider, or in the cloud if we have server side components. If you are not familiar with TFS on Azure make sure you read:
@@ -28,8 +27,6 @@ aliases:
 - [“To the cloud” with TFS](http://blogs.msdn.com/b/bryang/archive/2011/05/20/to-the-cloud-with-tfs.aspx) from [Bryan Group](http://blogs.msdn.com/b/bryang)
 - [The Future of Microsoft Visual Studio Application Lifecycle Management](http://channel9.msdn.com/Events/TechEd/NorthAmerica/2011/FDN03) on [Channel 9](http://channel9.msdn.com/)
 - [Team Foundation Server on Windows Azure Preview](http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview "http://www.microsoft.com/visualstudio/en-us/team-foundation-server-on-windows-azure-preview")
-
-
 
 **note: This product is still under development and this document is subject to change. There is also the strong possibility that these are just rambling fantasies of a mad programmer with an architect complex.**
 

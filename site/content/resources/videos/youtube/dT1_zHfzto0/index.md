@@ -4,7 +4,7 @@ date: 2023-10-06T07:00:16Z
 videoId: dT1_zHfzto0
 url: /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
 canonicalUrl: https://www.youtube.com/watch?v=dT1_zHfzto0
-coverImage: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/dT1_zHfzto0/maxresdefault.jpg
 duration: 38
 isShort: True
 ---

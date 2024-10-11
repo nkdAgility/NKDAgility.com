@@ -1,21 +1,20 @@
 ---
-id: "49523"
 title: "Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness"
-date: "2023-08-24"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "image-1.jpg"
-author: "MrHinsh"
+date: 2023-08-24
+creator: Martin Hinshelwood
+id: "49523"
 layout: blog
 resourceType: blog
-slug: "sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness"
-
+slug: sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
 aliases:
   - /blog/sculpting-the-product-backlog-a-delicate-balance-between-lean-inventory-and-future-readiness
+tags:
+  - featured
+  - homepage
+categories:
+  - measure-and-learn
+  - people-and-process
+preview: image-1.jpg
 ---
 
 In the realm of product development, crafting an efficient Product Backlog is an endeavour akin to sculpting a masterpiece. Just as sculptors chisel away the excess marble to reveal the form within, product managers must carefully mould their backlog, ensuring it's a lean inventory that reflects the unrealized value of the product. The Product Backlog must encapsulate our current aspirations for the product while being transparent and understandable to all stakeholders. It’s a living artefact that dynamically evolves with the product. However, we must also resist the temptation to create an overwhelming catalogue that loses its sharpness and becomes a weight dangling around the team's neck.

@@ -1,19 +1,18 @@
 ---
+title: The long wait is over
+date: 2009-08-06
+creator: Martin Hinshelwood
 id: "93"
-title: "The long wait is over"
-date: "2009-08-06"
-categories:
-  - "me"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-long-wait-is-over"
-
+slug: the-long-wait-is-over
 aliases:
   - /blog/the-long-wait-is-over
+tags:
+  - tools
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 Have you been waiting for a long time for [Windows 7](http://www.microsoft.com/windows/windows-7/)? Well I have.. I have been able to use Beta 1 and the RC for a good while now, and it surprised me that the Windows 7 Beta 1 was more stable, responsive and cleaner than Vista was after Service Pack 3.

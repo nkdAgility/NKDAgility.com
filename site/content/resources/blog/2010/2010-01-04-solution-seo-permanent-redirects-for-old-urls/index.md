@@ -1,24 +1,23 @@
 ---
+title: Solution - SEO permanent redirects for old URL’s?
+date: 2010-01-04
+creator: Martin Hinshelwood
 id: "73"
-title: "Solution - SEO permanent redirects for old URL’s?"
-date: "2010-01-04"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "solution-seo-permanent-redirects-for-old-urls"
-
+slug: solution-seo-permanent-redirects-for-old-urls
 aliases:
   - /blog/solution-seo-permanent-redirects-for-old-urls
+tags:
+  - code
+  - codeproject
+  - sharepoint
+  - spf2010
+  - ssw
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 From time to time, your website structure may change. When this happens, you do not want to have to start from scratch with your Google rankings, so you need to map all of your Old URLs to new ones.
@@ -65,8 +64,6 @@ Response.End();
 
 Figure: Bad example, Write it right into the old page.
 
-
-
 Why is this not a good approach?
 
 - The old page may not exist, you may be building a whole new version of the site
@@ -93,8 +90,6 @@ protected void Application_BeginRequest(object sender, EventArgs e)
 
 Figure: Bad example, ASP.NET 2.0 solution in the global.asax file for redirects
 
-
-
 ```
 protected void Application_BeginRequest(object sender, EventArgs e)
 {
@@ -110,8 +105,6 @@ protected void Application_BeginRequest(object sender, EventArgs e)
 ```
 
 Figure: Bad example, ASP.NET 4.0 solution in the global.asax file for redirects, less code.
-
-
 
 Using the global.asax has its draw backs.
 
@@ -161,8 +154,6 @@ To add UrlRewritingNet.UrlRewriter to our site you need to add UrlRewritingNet.U
 
 Figure: Boilerplate URLRewriting config.
 
-
-
 Create a new blank file called "urlrewriting.config" and insert the code above. As you can see you can add numerous providers and rules. Lookup the documentation for the built in rules model that uses the same method we will be using to capture URL's, but has a regular expression based replace implementation that lets you reform any URL into any other URL, provided all the values you need are either static, or included in the incoming URL.
 
 ```
@@ -177,8 +168,6 @@ Create a new blank file called "urlrewriting.config" and insert the code above. 
 
 Figure: ASP.NET Section definition for URLRewriting.
 
-
-
 In your "web.config" add this section.
 
 ```
@@ -186,8 +175,6 @@ In your "web.config" add this section.
 ```
 
 Figure: You can use an external file or inline.
-
-
 
 After the sections definition, but NOT inside any other section, add the section implementation, but use the "configSource" tag to map it to the "urlrewriting.config" file you created previously. You could also just add the contents of "urlrewriting.config" under "urlrewritingnet" element and remove the need for the additional file, but I think this is neater.
 
@@ -202,8 +189,6 @@ After the sections definition, but NOT inside any other section, add the section
 
 Figure: HttpModules make it all work in IIS6.
 
-
-
 We need IIS to know that it needs to do some processing, but there are some key differences between IIS6 and IIS7, to make sure that both load your rewrite correctly, especially if you still have developers on Windows XP, you will need to add both of them. Add this one to the "HttpModules" element, before any other rewriting modules, it tells IIS6 that it needs to load the module.
 
 ```
@@ -216,8 +201,6 @@ We need IIS to know that it needs to do some processing, but there are some key 
 ```
 
 Figure: Modules make it all work in IIS7.
-
-
 
 II7 does things a little differently, so add the above to the "modules" element of "system.webServer". This does exactly the same thing, but slots it into the IIS7 pipeline.
 
@@ -241,8 +224,6 @@ End Class
 ```
 
 Figure: Simple code for the provider.
-
-
 
 All you need to do in the Provider is override the “CreateRewriteRule” and pass back an instance of your custom rule.
 
@@ -270,8 +251,6 @@ End Class
 ```
 
 Figure: Boilerplate Rule.
-
-
 
 This is a skeleton of a new rule. It does nothing now, and in fact will not run as long as the “IsRewrite” function returns false.
 
@@ -317,8 +296,6 @@ End Class
 ```
 
 Figure: Retrieving values from the config is easy.
-
-
 
 In order to capture these values we just add two fields to our class, and parse out the data from “rewriteSettings” for these two fields in the Initialize method.
 
@@ -366,8 +343,6 @@ End Class
 
 Figure: Creating an instance of a regular expression and using that is always faster than creating one each time.
 
-
-
 We now have all of the information we need to create a regular expression and call "IsMatch" in the "IsRewrite" method. Therefore, we add another field for the regular expression and add a “CreateRegEx” method to create our regular expression using the built in “Ignorecase” option as well as our “RegexOptions” value. This creates a single compiled copy of our regular expression so it will operate as quickly as possible. Remember that this code will now be called for EVERY incoming URL request.
 
 ### Step #4 - Rewrite the URL with data from the database
@@ -398,8 +373,6 @@ End If
 
 Figure: Make sure that you check wither values are correct.
 
-
-
 There are two ways for a connection string to be stored in ASP.NET, inline and shared. We don’t want to be fixed to a specific type, so we need to assume shared and if we can’t find a shared string, assume that the string provided in the connection string and not a key for the shared string.
 
 The stored procedure is just a string, but the input parameters, now that is a quandary. Where can we get them from and now can we configure them. Although it would probably be best if we could have sub elements to the rule definition in the “web.config” we can’t, so all we have is a set of name value pairs.
@@ -409,8 +382,6 @@ The stored procedure is just a string, but the input parameters, now that is a q
 ```
 
 Figure: Follow the rule: [Do you test your regular expressions?](http://www.ssw.com.au/ssw/standards/Rules/RulesToBetterRegularExpressions.aspx#testregex)
-
-
 
 The solution I went for was to use Named groups in the regular expression. The only input parameter with this expression would be “@ProductId” and should be populated by the data in the capture group for the regular expression.
 
@@ -427,8 +398,6 @@ Next
 ```
 
 Figure: Retrieving the named groups is easier than you think, but remember that it also contains the unnamed groups as a number.
-
-
 
 So for each of the group names found in the regular expression I will be adding a SqlParameter to the SqlCommand object with the value that is returned. Again, a better solution would be to have meta data along with this that would identify the input parameters as well as data types and where to get them from, but alas it is not possible in this context.
 
@@ -501,8 +470,6 @@ End Function
 
 Figure: Always encapsulate your more complicated logic, especially database calls.
 
-
-
 The SQL is called and the first, and only the first, returned record is parsed into a name value collection allowing for multiple values to be returned.
 
 Now that we have the relevant data, we can rewrite the URL.
@@ -533,8 +500,6 @@ End Function
 
 Figure: Make sure that there is a backup plan for your rewrites.
 
-
-
 As you can see all we do once we have the replacement values is replace the keys from the “DestinationUrl” value with the new values. One additional test is done to check that we have not miss-configured and left some values out, so check to see if there are any “{“ left and redirect to the  “redirectOnFailed” location if we did. This will be caught if either we did not get any data back, or we just messed up the configuration.
 
 Lets setup the rule in the config.
@@ -563,8 +528,6 @@ Lets setup the rule in the config.
 ```
 
 Figure: You can configure as many rules as you like.
-
-
 
 The final config entry for the rule looks complicated, but it should all make sense to you now that all the logic has been explained. There are some additional propertied here that are part of the Rewriting engine, but you will find them all in the documentation.
 
@@ -731,8 +694,6 @@ End Class
 
 Figure: Full source listing for the rule.
 
-
-
 \----------
 
 ## TODO
@@ -760,8 +721,6 @@ The lack of meta data will lead to limitations in the future and ultimately the 
 ```
 
 Figure: Good Example, code from the ASP.NET 2.0 SqlDataSource.
-
-
 
 You should be able to configure any set of input and output parameters.
 

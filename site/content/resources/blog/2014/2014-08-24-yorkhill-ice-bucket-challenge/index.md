@@ -1,19 +1,18 @@
 ---
+title: Yorkhill Ice Bucket Challenge
+date: 2014-08-24
+creator: Martin Hinshelwood
 id: "10682"
-title: "Yorkhill Ice Bucket Challenge"
-date: "2014-08-24"
-categories:
-  - "me"
-tags:
-  - "charity"
-coverImage: "yorkhill-ice-bucket-challange-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "yorkhill-ice-bucket-challenge"
-
+slug: yorkhill-ice-bucket-challenge
 aliases:
   - /blog/yorkhill-ice-bucket-challenge
+tags:
+  - charity
+categories:
+  - me
+preview: yorkhill-ice-bucket-challange-5-5.png
 ---
 
 Yesterday [Buck Hodges](http://blogs.msdn.com/b/buckh/archive/2014/08/21/the-als-ice-bucket-challenge.aspx) took the ALS Ice Bucket Challenge. He was challenged by [Brian Harry](http://blogs.msdn.com/b/bharry/archive/2014/08/19/als-ice-bucket-challenge.aspx) who was in turn by [Adam Cogan](https://www.youtube.com/watch?v=P_4FM9laAl0). As I know all three of these folks it was only a matter of time before I got nominated. My torturer of the day is Buck. Really… how bad can it be? I did Tough Mudder this weekend my favourite obstacle is [Arctic Enema](https://toughmudder.co.uk/obstacles/arctic-enema) :p!!

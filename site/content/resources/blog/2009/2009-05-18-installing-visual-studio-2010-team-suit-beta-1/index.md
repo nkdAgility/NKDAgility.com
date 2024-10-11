@@ -1,19 +1,18 @@
 ---
+title: Installing Visual Studio 2010 Team Suit Beta 1
+date: 2009-05-18
+creator: Martin Hinshelwood
 id: "119"
-title: "Installing Visual Studio 2010 Team Suit Beta 1"
-date: "2009-05-18"
-tags:
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-9-9.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-2010-team-suit-beta-1"
-
+slug: installing-visual-studio-2010-team-suit-beta-1
 aliases:
   - /blog/installing-visual-studio-2010-team-suit-beta-1
+tags:
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-9-9.png
 ---
 
 ![VS-TS_rgb_thumb[2]](images/InstallingVisualStudio2010TeamSuitBeta1_EA00-VSTS_rgb_thumb2-8-8.png)It’s here, [Visual Studio 2010 Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx). This is probably the most exciting product to come out of Microsoft since…well… Visual Studio 2008 ;).

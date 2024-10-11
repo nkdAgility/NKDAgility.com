@@ -3,14 +3,14 @@ title: Metrics and Reports
 resourceType: practice
 layout: resources/single
 aliases:
- - learn/agile-delivery-kit/practices/metrics-reports
+  - learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
   - practices/Metrics-Reports/
   - practices/Metrics-Reports.html
   - metrics-reports
   - metrics-reports.html
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

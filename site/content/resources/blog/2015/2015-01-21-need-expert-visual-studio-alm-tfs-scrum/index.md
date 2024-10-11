@@ -1,23 +1,22 @@
 ---
+title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
+date: 2015-01-21
+creator: Martin Hinshelwood
 id: "11120"
-title: "Do you need an expert in Visual Studio ALM, TFS, or Scrum?"
-date: "2015-01-21"
-categories:
-  - "news-and-reviews"
-tags:
-  - "agile"
-  - "consulting"
-  - "scrum"
-  - "tfs"
-  - "training"
-coverImage: "nakedalm-logo-260-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "need-expert-visual-studio-alm-tfs-scrum"
-
+slug: need-expert-visual-studio-alm-tfs-scrum
 aliases:
   - /blog/need-expert-visual-studio-alm-tfs-scrum
+tags:
+  - agile
+  - consulting
+  - scrum
+  - tfs
+  - training
+categories:
+  - news-and-reviews
+preview: nakedalm-logo-260-5-5.png
 ---
 
 Due to the decimation of the oil prices one of my larger customers has had to cancel our engagement for February. I am suddenly and surprisingly available in February!

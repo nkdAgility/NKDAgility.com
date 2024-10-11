@@ -4,7 +4,7 @@ date: 2023-06-07T07:00:14Z
 videoId: N3LSpL-N3kY
 url: /resources/videos/2-day-pspo-versus-8-week-pspo
 canonicalUrl: https://www.youtube.com/watch?v=N3LSpL-N3kY
-coverImage: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/N3LSpL-N3kY/maxresdefault.jpg
 duration: 52
 isShort: True
 ---

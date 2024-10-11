@@ -4,7 +4,7 @@ date: 2022-10-18T16:13:02Z
 videoId: Q2Fo3sM6BVo
 url: /resources/videos/the-scrum-framework!
 canonicalUrl: https://www.youtube.com/watch?v=Q2Fo3sM6BVo
-coverImage: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Q2Fo3sM6BVo/maxresdefault.jpg
 duration: 891
 isShort: False
 ---

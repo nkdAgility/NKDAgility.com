@@ -1,17 +1,16 @@
 ---
+title: CafeMSN Prize
+date: 2006-08-01
+creator: Martin Hinshelwood
 id: "465"
-title: "CafeMSN Prize"
-date: "2006-08-01"
-tags:
-  - "off-topic"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "cafemsn-prize"
-
+slug: cafemsn-prize
 aliases:
   - /blog/cafemsn-prize
+tags:
+  - off-topic
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I managed to win an amazon voucher from Microsoft for my answers on cafemsn, not once but twice!

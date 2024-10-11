@@ -1,19 +1,18 @@
 ---
+title: Windows Mobile 6 Black Shadow (4.0)
+date: 2007-06-21
+creator: Martin Hinshelwood
 id: "375"
-title: "Windows Mobile 6 Black Shadow (4.0)"
-date: "2007-06-21"
-categories:
-  - "products-and-books"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-mobile-6-black-shadow-4-0"
-
+slug: windows-mobile-6-black-shadow-4-0
 aliases:
   - /blog/windows-mobile-6-black-shadow-4-0
+tags:
+  - windows-mobile-6
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I know that you are not supposed to do it, but I updated my phone to [Windows Mobile 6 Black](http://wmblack.info/), specifically Black 4 (Shadow). This is a fantastic ROM and, if you are not that technical, much better than trying to cook your own! It is described as a Hybrid OEM of [HTC Hermes](http://www.europe.htc.com/products/htctytn.html) and [Touch](http://www.htctouch.com/) designed specifically for the Hermes. This is good as the current [HTC Touch](http://www.europe.htc.com/products/htctouch.html) phone does not have 3G or a keyboard, it looks fantastic though. I knew the iPhone would be good for something, pushing HTC to advance the interface!

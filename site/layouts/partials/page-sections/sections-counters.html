@@ -1,0 +1,17 @@
+{{ $site := .site }}
+<!-- Courses specific rendering -->
+<div class="row">
+  {{ if and (not (eq .context.counters nil)) (gt (len .context.counters) 0) }}
+    {{ range $index, $counter := .context.counters }}
+      <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+        <!-- e -->
+        {{ $combined := printf "%v%v" $counter.counter $counter.counterAfter }}
+        {{ partial "card.html" (dict "class" "sectioncards" "title" $combined "content" $counter.content ) }}
+      </div>
+    {{ end }}
+  {{ else }}
+    <div class="row">
+      <div class="col-12 p-2">No counters</div>
+    </div>
+  {{ end }}
+</div>

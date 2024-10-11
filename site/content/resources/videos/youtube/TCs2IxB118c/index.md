@@ -4,7 +4,7 @@ date: 2024-09-02T07:00:19Z
 videoId: TCs2IxB118c
 url: /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
 canonicalUrl: https://www.youtube.com/watch?v=TCs2IxB118c
-coverImage: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TCs2IxB118c/maxresdefault.jpg
 duration: 540
 isShort: False
 ---

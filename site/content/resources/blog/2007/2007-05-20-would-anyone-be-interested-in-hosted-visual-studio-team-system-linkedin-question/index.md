@@ -1,18 +1,17 @@
 ---
+title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
+date: 2007-05-20
+creator: Martin Hinshelwood
 id: "400"
-title: "Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)"
-date: "2007-05-20"
-tags:
-  - "tfs"
-  - "tfs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question"
-
+slug: would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
 aliases:
   - /blog/would-anyone-be-interested-in-hosted-visual-studio-team-system-linkedin-question
+tags:
+  - tfs
+  - tfs2008
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 View Full Question and Answers: [Would anyone be interested in hosted Visual Studio Team System](http://www.linkedin.com/answers/technology/software-development/TCH_SFT/46649-1363184)

@@ -4,7 +4,7 @@ date: 2024-08-02T06:45:02Z
 videoId: kVt5KP9dg8Q
 url: /resources/videos/is-your-entire-development-ecosystem-truly-agile-the-agile-reality-check-[6-6]
 canonicalUrl: https://www.youtube.com/watch?v=kVt5KP9dg8Q
-coverImage: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/kVt5KP9dg8Q/maxresdefault.jpg
 duration: 346
 isShort: False
 ---

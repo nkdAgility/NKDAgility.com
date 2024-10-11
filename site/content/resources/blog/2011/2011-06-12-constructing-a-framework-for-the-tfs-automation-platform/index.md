@@ -1,20 +1,19 @@
 ---
+title: Constructing a framework for the TFS Automation Platform
+date: 2011-06-12
+creator: Martin Hinshelwood
 id: "3641"
-title: "Constructing a framework for the TFS Automation Platform"
-date: "2011-06-12"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfsap"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "constructing-a-framework-for-the-tfs-automation-platform"
-
+slug: constructing-a-framework-for-the-tfs-automation-platform
 aliases:
   - /blog/constructing-a-framework-for-the-tfs-automation-platform
+tags:
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfsap
+  - tools
 ---
 
 ![ALMRangersLogo_Small](images/ALMRangersLogo_Small-1-1.png "ALMRangersLogo_Small")As Lead developer for the TFS Iteration Automation my goal this weekend is to provide a framework for the developers to give both architectural and development guidance for the tools and methods we are going to be using to construct the Platform.

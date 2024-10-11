@@ -1,21 +1,20 @@
 ---
+title: A problem with Diarist 2!
+date: 2008-09-10
+creator: Martin Hinshelwood
 id: "195"
-title: "A problem with Diarist 2!"
-date: "2008-09-10"
-categories:
-  - "me"
-tags:
-  - "answers"
-  - "fail"
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "a-problem-with-diarist-2"
-
+slug: a-problem-with-diarist-2
 aliases:
   - /blog/a-problem-with-diarist-2
+tags:
+  - answers
+  - fail
+  - windows-mobile-6
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 {Rant}

@@ -1,22 +1,21 @@
 ---
+title: Anatomy of an Automation for the Tfs Automation Platform
+date: 2011-06-01
+creator: Martin Hinshelwood
 id: "3361"
-title: "Anatomy of an Automation for the Tfs Automation Platform"
-date: "2011-06-01"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfsap"
-  - "tools"
-  - "visual-studio"
-  - "vsalmrangers"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "anatomy-of-an-automation-for-the-tfs-automation-platform"
-
+slug: anatomy-of-an-automation-for-the-tfs-automation-platform
 aliases:
   - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
+tags:
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfsap
+  - tools
+  - visual-studio
+  - vsalmrangers
 ---
 
 [![Turk-Automaton](images/Turk-Automaton_thumb1-3-3.gif "Turk-Automaton")](http://blog.hinshelwood.com/files/2011/06/Turk-Automaton1.gif)If you can’t wait for the Tfs Automation Platform, but you still want to eventually deploy your extensions using it, what can you do?

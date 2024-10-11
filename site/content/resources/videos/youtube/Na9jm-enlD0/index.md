@@ -4,7 +4,7 @@ date: 2023-09-25T07:00:08Z
 videoId: Na9jm-enlD0
 url: /resources/videos/where-is-consensus-valuable-and-where-does-it-kill-great-product-development-
 canonicalUrl: https://www.youtube.com/watch?v=Na9jm-enlD0
-coverImage: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Na9jm-enlD0/maxresdefault.jpg
 duration: 777
 isShort: False
 ---

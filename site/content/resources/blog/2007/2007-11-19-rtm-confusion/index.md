@@ -1,21 +1,20 @@
 ---
+title: RTM Confusion
+date: 2007-11-19
+creator: Martin Hinshelwood
 id: "292"
-title: "RTM Confusion"
-date: "2007-11-19"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "tfs"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "rtm-confusion"
-
+slug: rtm-confusion
 aliases:
   - /blog/rtm-confusion
+tags:
+  - tfs
+  - visual-studio
+  - vs2008
+categories:
+  - tools-and-techniques
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I am a little confused by the RTM release of VS2008. I cant find a copy of the Team Explorer RTM or wither it is bundled with Team Suit. This would be a problem if I uninstalled everything only to find that I can't get my source control...

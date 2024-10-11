@@ -4,7 +4,7 @@ date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
 url: /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
-coverImage: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
 isShort: True
 ---

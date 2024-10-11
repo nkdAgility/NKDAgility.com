@@ -1,17 +1,16 @@
 ---
+title: Why is the VS2010 iso so small?
+date: 2009-05-19
+creator: Martin Hinshelwood
 id: "114"
-title: "Why is the VS2010 iso so small?"
-date: "2009-05-19"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "why-is-the-vs2010-iso-so-small"
-
+slug: why-is-the-vs2010-iso-so-small
 aliases:
   - /blog/why-is-the-vs2010-iso-so-small
+tags:
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 The reason is simple, it has no MSDN documentation in it. I for one never install the MSDN documentation and just use the online version and have always found it a pain to have it inside the same installation, but may people find it useful.

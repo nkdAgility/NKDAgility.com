@@ -1,17 +1,17 @@
 ---
 title: Business Agility Consultancy
-id: "49856"
 date: 2023-08-12
-author: MrHinsh
-aliases:
-  - /capabilities/lean-agile-consultancy/
+creator: Martin Hinshelwood
+id: "49856"
 type: capabilities
 slug: lean-agile-consultancy
+aliases:
+  - /capabilities/lean-agile-consultancy/
 card:
   button:
     content: Transform Your Organization
-  content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
   title: Business Agility Consulting
+  content: Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.
 ---
 
 Our Agile consultants work with organisations to resolve problems and seize opportunities. We collaborate with leaders to identify what successful outcomes look like.

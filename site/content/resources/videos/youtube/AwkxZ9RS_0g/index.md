@@ -4,7 +4,7 @@ date: 2023-06-21T07:00:03Z
 videoId: AwkxZ9RS_0g
 url: /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
 canonicalUrl: https://www.youtube.com/watch?v=AwkxZ9RS_0g
-coverImage: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg
 duration: 264
 isShort: False
 ---

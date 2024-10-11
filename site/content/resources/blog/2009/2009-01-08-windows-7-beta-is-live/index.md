@@ -1,17 +1,16 @@
 ---
+title: Windows 7 Beta is Live!
+date: 2009-01-08
+creator: Martin Hinshelwood
 id: "149"
-title: "Windows 7 Beta is Live!"
-date: "2009-01-08"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-7-beta-is-live"
-
+slug: windows-7-beta-is-live
 aliases:
   - /blog/windows-7-beta-is-live
+tags:
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you have an [MSDN](https://msdn.microsoft.com) account you will be able to download [Windows 7](http://www.microsoft.com/windows/windows-7/default.aspx) Beta today, but it should be available for anyone by the end of next week.

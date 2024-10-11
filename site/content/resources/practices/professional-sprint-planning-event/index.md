@@ -4,7 +4,7 @@ description: Professional Sprint Planning is a practice that helps teams to plan
 resourceType: practice
 layout: resources/single
 aliases:
- - learn/agile-delivery-kit/practices/sprint-planning-event
+  - learn/agile-delivery-kit/practices/sprint-planning-event
 references:
 recommendedContent:
   - collection: recipes
@@ -23,7 +23,7 @@ videos:
   - title: "How does a scrum team plan and prioritize work effectively?"
     embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

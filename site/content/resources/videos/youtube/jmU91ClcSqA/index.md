@@ -4,7 +4,7 @@ date: 2023-05-22T07:00:14Z
 videoId: jmU91ClcSqA
 url: /resources/videos/what-is-project-management-
 canonicalUrl: https://www.youtube.com/watch?v=jmU91ClcSqA
-coverImage: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/jmU91ClcSqA/maxresdefault.jpg
 duration: 52
 isShort: True
 ---

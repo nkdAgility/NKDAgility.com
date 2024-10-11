@@ -1,19 +1,18 @@
 ---
+title: Windows Live Wave 3
+date: 2008-09-17
+creator: Martin Hinshelwood
 id: "192"
-title: "Windows Live Wave 3"
-date: "2008-09-17"
-categories:
-  - "news-and-reviews"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-live-wave-3"
-
+slug: windows-live-wave-3
 aliases:
   - /blog/windows-live-wave-3
+tags:
+  - live
+categories:
+  - news-and-reviews
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 With the new Windows Live Wave 3 betas now available I am looking forward to many of the features I have already previewed in the beta of Windows Live Messenger 9.

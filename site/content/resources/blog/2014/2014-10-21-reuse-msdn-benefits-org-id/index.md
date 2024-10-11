@@ -1,21 +1,20 @@
 ---
+title: Reuse your MSDN benefits with your Org ID
+date: 2014-10-21
+creator: Martin Hinshelwood
 id: "10786"
-title: "Reuse your MSDN benefits with your Org ID"
-date: "2014-10-21"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "azure"
-  - "msdn"
-  - "subscription"
-coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "reuse-msdn-benefits-org-id"
-
+slug: reuse-msdn-benefits-org-id
 aliases:
   - /blog/reuse-msdn-benefits-org-id
+tags:
+  - azure
+  - msdn
+  - subscription
+categories:
+  - problems-and-puzzles
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 ---
 
 If you are trying to reuse your MSDN benefits with your Org ID but you previously activated against your Microsoft ID then you will need to cancel your subscription to reuse it.

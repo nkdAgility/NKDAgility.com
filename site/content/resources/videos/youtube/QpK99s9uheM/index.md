@@ -4,7 +4,7 @@ date: 2023-05-24T07:00:23Z
 videoId: QpK99s9uheM
 url: /resources/videos/is-a-scrum-master-an-agile-project-manager-
 canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
-coverImage: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
 isShort: True
 ---

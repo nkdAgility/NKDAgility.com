@@ -1,19 +1,18 @@
 ---
+title: The cause of dyslexia
+date: 2007-08-11
+creator: Martin Hinshelwood
 id: "334"
-title: "The cause of dyslexia"
-date: "2007-08-11"
-categories:
-  - "me"
-tags:
-  - "dyslexia"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-cause-of-dyslexia"
-
+slug: the-cause-of-dyslexia
 aliases:
   - /blog/the-cause-of-dyslexia
+tags:
+  - dyslexia
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Rather than confuse the issue with my verbal dexterity (or excrement from my brain is more likely) I will quote from a source on the web:

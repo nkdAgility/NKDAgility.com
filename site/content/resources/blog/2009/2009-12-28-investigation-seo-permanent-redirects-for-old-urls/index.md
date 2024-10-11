@@ -1,23 +1,22 @@
 ---
+title: Investigation - SEO permanent redirects for old URL’s?
+date: 2009-12-28
+creator: Martin Hinshelwood
 id: "74"
-title: "Investigation - SEO permanent redirects for old URL’s?"
-date: "2009-12-28"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "investigation-seo-permanent-redirects-for-old-urls"
-
+slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
   - /blog/investigation-seo-permanent-redirects-for-old-urls
+tags:
+  - code
+  - sharepoint
+  - spf2010
+  - ssw
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-sharepoint-128-link-4-4.png
 ---
 
 On the project I am currently working on we want to change the nasty [http://northwind.com/products.aspx?ProductId=1](http://northwind.com/products.aspx?ProductId=1) to a nice friendly URL on the website. This is pretty easy and can result in nice URL’s like [http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx](http://northwind.com/products/BigGreenTeddyBaresFromParis.aspx).

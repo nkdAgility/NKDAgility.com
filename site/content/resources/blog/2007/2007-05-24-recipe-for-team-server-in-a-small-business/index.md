@@ -1,18 +1,17 @@
 ---
+title: Recipe for Team Server in a small business
+date: 2007-05-24
+creator: Martin Hinshelwood
 id: "399"
-title: "Recipe for Team Server in a small business"
-date: "2007-05-24"
-tags:
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "recipe-for-team-server-in-a-small-business"
-
+slug: recipe-for-team-server-in-a-small-business
 aliases:
   - /blog/recipe-for-team-server-in-a-small-business
+tags:
+  - visual-studio
+  - vs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 If you have a small company, say 6 to 30 people, you will look at team server and think, cool...But what does it cost.

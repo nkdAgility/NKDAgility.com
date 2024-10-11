@@ -1,15 +1,19 @@
 ---
-title: "Company as a Product (CaaP)"
-url: "/methods/company-as-a-product/"
-alias: "/CaaP"
+title: Company as a Product (CaaP)
 weight: 1
-Draft: true
+draft: true
+url: /methods/company-as-a-product/
+aliases: /CaaP
 card:
-  title: Company as a Product (CaaP)
-  content: |-
-    Company as a Product (CaaP)
   button:
     content: More info
+  title: Company as a Product (CaaP)
+  content: Company as a Product (CaaP)
+
 ---
 
+
+
 Description of Company as a Product (CaaP)
+
+

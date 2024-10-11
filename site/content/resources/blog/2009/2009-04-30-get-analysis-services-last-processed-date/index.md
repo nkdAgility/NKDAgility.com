@@ -1,18 +1,17 @@
 ---
+title: Get Analysis Services last processed date
+date: 2009-04-30
+creator: Martin Hinshelwood
 id: "129"
-title: "Get Analysis Services last processed date"
-date: "2009-04-30"
-tags:
-  - "ssas"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "get-analysis-services-last-processed-date"
-
+slug: get-analysis-services-last-processed-date
 aliases:
   - /blog/get-analysis-services-last-processed-date
+tags:
+  - ssas
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I need a little bit of code to get the last processed date for the cube that my site connects to:

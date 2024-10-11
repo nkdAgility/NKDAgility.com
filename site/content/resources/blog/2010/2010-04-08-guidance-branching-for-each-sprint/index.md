@@ -1,29 +1,28 @@
 ---
+title: Guidance - Branching for each Sprint
+date: 2010-04-08
+creator: Martin Hinshelwood
 id: "56"
-title: "Guidance - Branching for each Sprint"
-date: "2010-04-08"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "ssw"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "version-control"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "guidance-branching-for-each-sprint"
-
+slug: guidance-branching-for-each-sprint
 aliases:
   - /blog/guidance-branching-for-each-sprint
+tags:
+  - configuration
+  - develop
+  - infrastructure
+  - practices
+  - process
+  - scrum
+  - ssw
+  - tfs
+  - tfs2008
+  - tfs2010
+  - version-control
+categories:
+  - tools-and-techniques
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 There are a lot of developers using version control these days, but a feature of version control called branching is very poorly understood and remains unused by most developers in favour of Labels. Most developers think that branching is hard and complicated. Its not!

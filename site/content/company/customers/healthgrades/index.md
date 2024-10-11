@@ -1,9 +1,9 @@
 ---
+title: Healthgrades
+date: 2017-05-30
+creator: Martin Hinshelwood
 id: "11939"
-title: "Healthgrades"
-date: "2017-05-30"
-coverImage: "image-healthgrades-logo.png"
-author: "MrHinsh"
-type: "customers"
-slug: "healthgrades"
+type: customers
+slug: healthgrades
+preview: image-healthgrades-logo.png
 ---

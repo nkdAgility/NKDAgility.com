@@ -1,19 +1,18 @@
 ---
+title: Installing Visual Studio Team Foundation Server Service Pack 1
+date: 2011-03-10
+creator: Martin Hinshelwood
 id: "8"
-title: "Installing Visual Studio Team Foundation Server Service Pack 1"
-date: "2011-03-10"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-team-foundation-server-service-pack-1"
-
+slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
   - /blog/installing-visual-studio-team-foundation-server-service-pack-1
+tags:
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
 ---
 
 [![vs2010logo](images/Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_thumb-14-14.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Installing-Visual-Studio-Team-Foundatio_6DBD-vs2010logo_2.png)As has become customary when the product team releases a new patch, SP or version I like to document the install. Although I had no errors on my main computer, my netbook did have problems. Although I am not ready to call it a Service Pack problem just yet!

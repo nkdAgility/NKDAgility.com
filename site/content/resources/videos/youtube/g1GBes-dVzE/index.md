@@ -4,7 +4,7 @@ date: 2023-08-31T07:00:17Z
 videoId: g1GBes-dVzE
 url: /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
 canonicalUrl: https://www.youtube.com/watch?v=g1GBes-dVzE
-coverImage: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
 isShort: True
 ---

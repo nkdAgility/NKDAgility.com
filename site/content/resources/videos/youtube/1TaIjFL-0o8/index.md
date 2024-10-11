@@ -4,7 +4,7 @@ date: 2023-04-27T07:00:00Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 canonicalUrl: https://www.youtube.com/watch?v=1TaIjFL-0o8
-coverImage: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
 isShort: False
 ---

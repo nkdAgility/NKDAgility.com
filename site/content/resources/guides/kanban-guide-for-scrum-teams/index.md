@@ -16,7 +16,7 @@ recommendedContent:
   - collection: practices
     path: _practices/service-level-expectation-sle.md
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

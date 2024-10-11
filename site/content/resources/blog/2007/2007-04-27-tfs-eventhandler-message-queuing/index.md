@@ -1,18 +1,17 @@
 ---
-id: "411"
 title: "TFS EventHandler: Message Queuing"
-date: "2007-04-27"
-tags:
-  - "tfs-event-handler"
-  - "wit"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-04-27
+creator: Martin Hinshelwood
+id: "411"
 layout: blog
 resourceType: blog
-slug: "tfs-eventhandler-message-queuing"
-
+slug: tfs-eventhandler-message-queuing
 aliases:
   - /blog/tfs-eventhandler-message-queuing
+tags:
+  - tfs-event-handler
+  - wit
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 As I mentioned in my previous post I am currently building an [EventHandler](http://blog.hinshelwood.com/archive/2007/04/27/Team-Server-Event-Handlers-made-easy.aspx) infrastructure for [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server").

@@ -1,20 +1,19 @@
 ---
+title: Become the leader that you were meant to to be
+date: 2021-02-04
+creator: Martin Hinshelwood
 id: "45806"
-title: "Become the leader that you were meant to to be"
-date: "2021-02-04"
-categories:
-  - "news-and-reviews"
-tags:
-  - "featured"
-  - "leadership-track"
-coverImage: "image-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "become-the-leader-that-you-were-meant-to-to-be"
-
+slug: become-the-leader-that-you-were-meant-to-to-be
 aliases:
   - /blog/become-the-leader-that-you-were-meant-to-to-be
+tags:
+  - featured
+  - leadership-track
+categories:
+  - news-and-reviews
+preview: image-2-2.png
 ---
 
 Leadership is not about control, but about inspiring those around you.

@@ -1,22 +1,21 @@
 ---
+title: A new day, a new week, a new Team Server
+date: 2007-08-13
+creator: Martin Hinshelwood
 id: "333"
-title: "A new day, a new week, a new Team Server"
-date: "2007-08-13"
-tags:
-  - "ml"
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "a-new-day-a-new-week-a-new-team-server"
-
+slug: a-new-day-a-new-week-a-new-team-server
 aliases:
   - /blog/a-new-day-a-new-week-a-new-team-server
+tags:
+  - ml
+  - tfs
+  - tfs2008
+  - tools
+  - visual-studio
+  - vs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I have just finished upgrading out [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Development environment to TFS2008 and I have to say it was a totally painless procedure...

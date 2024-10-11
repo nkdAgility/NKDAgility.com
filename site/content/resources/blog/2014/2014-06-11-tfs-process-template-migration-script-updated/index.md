@@ -1,22 +1,21 @@
 ---
+title: TFS Process Template migration script updated
+date: 2014-06-11
+creator: Martin Hinshelwood
 id: "10558"
-title: "TFS Process Template migration script updated"
-date: "2014-06-11"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "process-template"
-  - "scrum"
-  - "tfs"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-process-template-migration-script-updated"
-
+slug: tfs-process-template-migration-script-updated
 aliases:
   - /blog/tfs-process-template-migration-script-updated
+tags:
+  - agile
+  - process-template
+  - scrum
+  - tfs
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 ---
 
 Did you know that you can quite easily to do a TFS process template migration? Did you notice I used the "quite" in there. Well if you think of the Process Template as the blueprints then the Team Project that you create is the concrete instance of that blueprint.

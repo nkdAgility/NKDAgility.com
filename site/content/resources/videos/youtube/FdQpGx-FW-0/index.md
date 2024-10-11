@@ -4,7 +4,7 @@ date: 2023-10-20T11:00:13Z
 videoId: FdQpGx-FW-0
 url: /resources/videos/judgement!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=FdQpGx-FW-0
-coverImage: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/FdQpGx-FW-0/maxresdefault.jpg
 duration: 535
 isShort: False
 ---
@@ -39,7 +39,7 @@ Part 7: https://youtu.be/UeisJt8U2_0
 
 NKD Agility can help!
 
-If you find it hard navigating the complexities of Agile without getting bogged down by strict rules, my team at NKD Agility can assist you or guide you to a consultant, coach, or trainer who can. 
+If you find it hard navigating the complexities of Agile without getting bogged down by strict rules, my team at NKD Agility can assist you or guide you to a consultant, coach, or trainer who can.
 
 Addressing issues that might hinder your value delivery is crucial. Don't wait!
 

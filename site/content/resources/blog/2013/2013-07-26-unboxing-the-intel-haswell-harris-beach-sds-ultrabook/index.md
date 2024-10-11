@@ -1,22 +1,21 @@
 ---
-id: "9918"
 title: "Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook"
-date: "2013-07-26"
-categories:
-  - "news-and-reviews"
-tags:
-  - "hardware"
-  - "harris-beach"
-  - "intel"
-  - "review"
-coverImage: "Web-Intel-Metro-icon-4-4.png"
-author: "MrHinsh"
+date: 2013-07-26
+creator: Martin Hinshelwood
+id: "9918"
 layout: blog
 resourceType: blog
-slug: "unboxing-the-intel-haswell-harris-beach-sds-ultrabook"
-
+slug: unboxing-the-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /blog/unboxing-the-intel-haswell-harris-beach-sds-ultrabook
+tags:
+  - hardware
+  - harris-beach
+  - intel
+  - review
+categories:
+  - news-and-reviews
+preview: Web-Intel-Metro-icon-4-4.png
 ---
 
 I was contacted just over a week ago and asked if I would like to review the new developer Ultrabook from Intel, a “Harris Beach SDS Ultrabook SDP - PVT2 ISV”. Geek stuff, wohoo… (composure) … Why sure, I would love to review your new device.

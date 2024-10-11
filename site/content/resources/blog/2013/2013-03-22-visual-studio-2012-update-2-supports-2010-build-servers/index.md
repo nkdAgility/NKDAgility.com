@@ -1,28 +1,27 @@
 ---
+title: Visual Studio 2012 Update 2 supports 2010 Build Servers
+date: 2013-03-22
+creator: Martin Hinshelwood
 id: "9336"
-title: "Visual Studio 2012 Update 2 supports 2010 Build Servers"
-date: "2013-03-22"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "operational"
-  - "tactical"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tfs2012-2"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2012-update-2-supports-2010-build-servers"
-
+slug: visual-studio-2012-update-2-supports-2010-build-servers
 aliases:
   - /blog/visual-studio-2012-update-2-supports-2010-build-servers
+tags:
+  - configuration
+  - infrastructure
+  - operational
+  - tactical
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tfs2012-2
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 ---
 
 Did you know that Visual Studio 2012 Update 2 supports 2010 Build Servers? Being able to connect TF Build 2010 Controllers to TFS 2012 is opening up upgrade paths for customers that are currently blocked from upgrading to TFS 2012.

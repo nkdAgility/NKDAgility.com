@@ -4,7 +4,7 @@ date: 2013-08-17T07:27:19Z
 videoId: XCwb2-h8pZg
 url: /resources/videos/kanban-with-team-foundation-service
 canonicalUrl: https://www.youtube.com/watch?v=XCwb2-h8pZg
-coverImage: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XCwb2-h8pZg/maxresdefault.jpg
 duration: 254
 isShort: False
 ---

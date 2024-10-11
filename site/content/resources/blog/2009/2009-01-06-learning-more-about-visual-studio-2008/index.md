@@ -1,19 +1,18 @@
 ---
+title: Learning more about Visual Studio 2008
+date: 2009-01-06
+creator: Martin Hinshelwood
 id: "150"
-title: "Learning more about Visual Studio 2008"
-date: "2009-01-06"
-tags:
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "learning-more-about-visual-studio-2008"
-
+slug: learning-more-about-visual-studio-2008
 aliases:
   - /blog/learning-more-about-visual-studio-2008
+tags:
+  - tools
+  - visual-studio
+  - vs2008
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well, that's me well and truly back from my holidays, a nice relaxing couple of weeks spent at home with my family.

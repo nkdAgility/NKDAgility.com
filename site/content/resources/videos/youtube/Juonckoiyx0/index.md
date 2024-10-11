@@ -4,7 +4,7 @@ date: 2023-09-04T07:00:13Z
 videoId: Juonckoiyx0
 url: /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 canonicalUrl: https://www.youtube.com/watch?v=Juonckoiyx0
-coverImage: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Juonckoiyx0/maxresdefault.jpg
 duration: 155
 isShort: False
 ---

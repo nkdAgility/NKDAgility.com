@@ -1,20 +1,19 @@
 ---
+title: First day at Aggreko
+date: 2007-09-17
+creator: Martin Hinshelwood
 id: "310"
-title: "First day at Aggreko"
-date: "2007-09-17"
-categories:
-  - "me"
-tags:
-  - "aggreko"
-  - "sp2007"
-coverImage: "metro-aggreko-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "first-day-at-aggreko"
-
+slug: first-day-at-aggreko
 aliases:
   - /blog/first-day-at-aggreko
+tags:
+  - aggreko
+  - sp2007
+categories:
+  - me
+preview: metro-aggreko-128-link-1-1.png
 ---
 
 Well, its my first day at Aggreko, and I am loving their efficiency...I was handed a laptop uplon entering the office, and they had my login ready :)

@@ -4,7 +4,7 @@ date: 2023-06-06T07:00:04Z
 videoId: 96iDY11yOjc
 url: /resources/videos/what-makes-the-top-10-of-developers-good-agile-developer-to-great-agile-developer
 canonicalUrl: https://www.youtube.com/watch?v=96iDY11yOjc
-coverImage: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/96iDY11yOjc/maxresdefault.jpg
 duration: 349
 isShort: False
 ---

@@ -1,18 +1,17 @@
 ---
+title: Windows Communication Framework Evaluation
+date: 2006-08-09
+creator: Martin Hinshelwood
 id: "464"
-title: "Windows Communication Framework Evaluation"
-date: "2006-08-09"
-tags:
-  - "code"
-  - "wcf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-communication-framework-evaluation"
-
+slug: windows-communication-framework-evaluation
 aliases:
   - /blog/windows-communication-framework-evaluation
+tags:
+  - code
+  - wcf
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I am currently evaluating WCF for my company. Now, ML has some pretty strong polocies on beta software, but they seam to be missing something with WinFX. I can find information on the company intranet on Vista and Office 2007, I can even request them to be installed on my desktop as part of an internal beta program, but nothing on WinFX or WCF!

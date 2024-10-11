@@ -1,21 +1,20 @@
 ---
+title: LINQ to XSD
+date: 2008-08-28
+creator: Martin Hinshelwood
 id: "203"
-title: "LINQ to XSD"
-date: "2008-08-28"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs-build"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "linq-to-xsd"
-
+slug: linq-to-xsd
 aliases:
   - /blog/linq-to-xsd
+tags:
+  - code
+  - tfs-build
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
 
 Absolutely brilliant. That's what I think of Linq to XSD. Disappointed that is only works in C#, but having to use C# for a single project out of a solution it is a small price to pay to get the functionality.

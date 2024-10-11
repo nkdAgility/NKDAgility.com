@@ -4,7 +4,7 @@ date: 2023-04-13T14:25:06Z
 videoId: AaCM_pmZb4k
 url: /resources/videos/what-are-hierarchies-of-competence-vs-control-
 canonicalUrl: https://www.youtube.com/watch?v=AaCM_pmZb4k
-coverImage: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
 isShort: False
 ---

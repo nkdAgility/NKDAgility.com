@@ -1,19 +1,18 @@
 ---
+title: Application Owner
+date: 2007-08-04
+creator: Martin Hinshelwood
 id: "348"
-title: "Application Owner"
-date: "2007-08-04"
-tags:
-  - "fail"
-  - "tfs"
-  - "tfs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "application-owner"
-
+slug: application-owner
 aliases:
   - /blog/application-owner
+tags:
+  - fail
+  - tfs
+  - tfs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 In my company it is the job of someone in business technology to manage production applications. Personally I think that this is a job for a Project Manager, not a developer, as it is about management and is not particularly technical. You do not actually have to carry out any of the work on the application, just:

@@ -4,7 +4,7 @@ date: 2023-07-28T07:00:14Z
 videoId: cFVvgI3Girg
 url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 canonicalUrl: https://www.youtube.com/watch?v=cFVvgI3Girg
-coverImage: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
 isShort: False
 ---

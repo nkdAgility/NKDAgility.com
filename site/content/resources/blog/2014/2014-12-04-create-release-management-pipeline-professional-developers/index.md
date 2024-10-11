@@ -1,26 +1,25 @@
 ---
+title: Create a Release Management pipeline for Professional Developers
+date: 2014-12-04
+creator: Martin Hinshelwood
 id: "10970"
-title: "Create a Release Management pipeline for Professional Developers"
-date: "2014-12-04"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "development-team"
-  - "devops"
-  - "release-management"
-  - "release-pipline"
-  - "tf-build"
-  - "tfs"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-46-46.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "create-release-management-pipeline-professional-developers"
-
+slug: create-release-management-pipeline-professional-developers
 aliases:
   - /blog/create-release-management-pipeline-professional-developers
+tags:
+  - development-team
+  - devops
+  - release-management
+  - release-pipline
+  - tf-build
+  - tfs
+  - vsteamservices
+categories:
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-46-46.png
 ---
 
 Now that I have [it configured](http://nkdagility.com/create-standard-environment-release-management-azure/) I want to show how to create a Release Management pipeline for Professional Developers and Development Teams.

@@ -1,17 +1,16 @@
 ---
+title: Programmer personality type
+date: 2007-06-16
+creator: Martin Hinshelwood
 id: "382"
-title: "Programmer personality type"
-date: "2007-06-16"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "programmer-personality-type"
-
+slug: programmer-personality-type
 aliases:
   - /blog/programmer-personality-type
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Get yours [here](http://www.doolwind.com/index.php?page=11 "Programmer Personality Test").

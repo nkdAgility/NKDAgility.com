@@ -4,7 +4,7 @@ date: 2023-01-25T07:30:02Z
 videoId: 9HxMS_fg6Kw
 url: /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=9HxMS_fg6Kw
-coverImage: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/9HxMS_fg6Kw/maxresdefault.jpg
 duration: 402
 isShort: False
 ---

@@ -1,23 +1,22 @@
 ---
+title: Configuring Jenkins to talk to TFS 2013
+date: 2014-05-07
+creator: Martin Hinshelwood
 id: "10526"
-title: "Configuring Jenkins to talk to TFS 2013"
-date: "2014-05-07"
-categories:
-  - "install-and-configuration"
-tags:
-  - "java"
-  - "jenkins"
-  - "migration"
-  - "svn"
-  - "tfs"
-coverImage: "naked-alm-jenkins-logo-9-9.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configuring-jenkins-talk-tfs-2013"
-
+slug: configuring-jenkins-talk-tfs-2013
 aliases:
   - /blog/configuring-jenkins-talk-tfs-2013
+tags:
+  - java
+  - jenkins
+  - migration
+  - svn
+  - tfs
+categories:
+  - install-and-configuration
+preview: naked-alm-jenkins-logo-9-9.png
 ---
 
 I am working quite a lot with some Java teams at the moment who are using SVN and Jenkins. We are moving them over to TFS and TF Build and we wanted to make sure that we were minimally disruptive to first I need to configuring Jenkins to talk to TFS 2013.

@@ -1,22 +1,21 @@
 ---
+title: Are technical skills required to be a Scrum Master?
+date: 2019-09-01
+creator: Martin Hinshelwood
 id: "39894"
-title: "Are technical skills required to be a Scrum Master?"
-date: "2019-09-01"
-categories:
-  - "agility"
-tags:
-  - "business-mastery"
-  - "organisational-transformational-mastery"
-  - "scrum-master"
-  - "technical-mastery"
-coverImage: "1029723898-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "are-technical-skills-required-to-be-a-scrum-master"
-
+slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
   - /blog/are-technical-skills-required-to-be-a-scrum-master
+tags:
+  - business-mastery
+  - organisational-transformational-mastery
+  - scrum-master
+  - technical-mastery
+categories:
+  - agility
+preview: 1029723898-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.
@@ -49,7 +48,7 @@ I think that while you can be a non-technical Scrum Master, you can be a better 
   > - Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
   >
   > \-[The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
-  Without technical mastery, I think it would be very difficult to help the development team build high-value products.
+  > Without technical mastery, I think it would be very difficult to help the development team build high-value products.
 - **Business Mastery** – The Scrum Team, and especially the Product Owner need to understand the business, and how they can optimise the product they are delivering to best support it. Does everyone understand the product qualities that are required within their context? Do you have Quality code base (clean, readable, naming conventions), Valuable functionality only, Architectural conventions respected, According to design/style guide, According to usability standards, Documented, Service levels guaranteed (uptime, performance, response time)? How would you help the Scrum Team get better at meeting the business goals without a keen understanding of what those are?
   > **Scrum Master Service to the Product Owner**
   >
@@ -64,7 +63,7 @@ I think that while you can be a non-technical Scrum Master, you can be a better 
   > - Facilitating Scrum events as requested or needed.
   >
   > \-[The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
-  Without business mastery how could the Scrum Master ensure that the backlog maximizes value; without the context of the business how can they ensure that everyone understands the goals, scope, and domain?
+  > Without business mastery how could the Scrum Master ensure that the backlog maximizes value; without the context of the business how can they ensure that everyone understands the goals, scope, and domain?
 - **Organisational Transformational Mastery** – Have you ever tried to change an organization without really understanding the structure, people, and history that led to the current culture and organisation? This is why so many organisational transformations fail. If the Scrum Master really understands the organisation, the people, and the key players that need to come together to effect real change then they can make a difference. Without that knowledge, they have little hope of success.
   > **Scrum Master Service to the Organization**
   >
@@ -77,7 +76,7 @@ I think that while you can be a non-technical Scrum Master, you can be a better 
   > - _Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization_.
   >
   > \-[The Scrum Master, Scrum Guide](https://scrumguides.org/scrum-guide.html#team-sm)
-  Without organisational transformational mastery, and the context of the organisation there is very little likelihood of real lasting change.
+  > Without organisational transformational mastery, and the context of the organisation there is very little likelihood of real lasting change.
 
 These masteries for me mean that a Scrum Master needs to be fully familiar with the Technical, Business, and Organisational context within which they are operating and how and when to encourage the Scrum Team to particular practices based on the Scrum Teams and the Organisational maturity.
 

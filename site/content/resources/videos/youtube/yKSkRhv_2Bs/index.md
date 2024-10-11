@@ -4,7 +4,7 @@ date: 2023-07-10T14:30:31Z
 videoId: yKSkRhv_2Bs
 url: /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
 canonicalUrl: https://www.youtube.com/watch?v=yKSkRhv_2Bs
-coverImage: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/yKSkRhv_2Bs/maxresdefault.jpg
 duration: 53
 isShort: True
 ---

@@ -4,7 +4,7 @@ date: 2023-06-17T07:30:02Z
 videoId: 82_yTGt9pLM
 url: /resources/videos/agile-consulting-services-overview
 canonicalUrl: https://www.youtube.com/watch?v=82_yTGt9pLM
-coverImage: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
 isShort: False
 ---

@@ -1,25 +1,24 @@
 ---
+title: Product Goal is an Intermediate Strategic Goal
+date: 2020-12-21
+creator: Martin Hinshelwood
 id: "45309"
-title: "Product Goal is an Intermediate Strategic Goal"
-date: "2020-12-21"
-categories:
-  - "discovery-ideation"
-  - "measure-and-learn"
-tags:
-  - "ebm"
-  - "evidence-based-management"
-  - "intermediate-goal"
-  - "intermediate-strategic-goal"
-  - "product-discovery"
-  - "product-goal"
-coverImage: "naked-agility-hypothesis-driven-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "product-goal-is-an-intermediate-strategic-goal"
-
+slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
   - /blog/product-goal-is-an-intermediate-strategic-goal
+tags:
+  - ebm
+  - evidence-based-management
+  - intermediate-goal
+  - intermediate-strategic-goal
+  - product-discovery
+  - product-goal
+categories:
+  - discovery-ideation
+  - measure-and-learn
+preview: naked-agility-hypothesis-driven-1-1.jpg
 ---
 
 The [Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/) describes not only a [Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) but also an [Intermediate Strategic Goal](https://nkdagility.com/blog/product-goal-is-an-intermediate-strategic-goal/) that is needed to evaluate and adapt your progress towards your intended visions of your product.

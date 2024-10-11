@@ -1,26 +1,25 @@
 ---
+title: Are you doing Scrum? Really?
+date: 2011-11-19
+creator: Martin Hinshelwood
 id: "4049"
-title: "Are you doing Scrum? Really?"
-date: "2011-11-19"
-categories:
-  - "people-and-process"
-tags:
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "psd"
-  - "psf"
-  - "psm"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "are-you-doing-scrum-really"
-
+slug: are-you-doing-scrum-really
 aliases:
   - /blog/are-you-doing-scrum-really
+tags:
+  - develop
+  - nwcadence
+  - people
+  - process
+  - psd
+  - psf
+  - psm
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-3-3.png
 ---
 
 [![PSM Front Logo 1](images/Scrum.org-Logo_500x118_thumb-4-4.png "PSM Front Logo 1")](http://blog.hinshelwood.com/files/2011/11/Scrum.org-Logo_500x118.png)This week I was at the ALM Summit in Redmond. There was a very interesting talk from David Starr of Scrum.org going over the recent changes in Scrum. These changes are, I think, designed to battle the things that have made Scrum unpalatable to many people.

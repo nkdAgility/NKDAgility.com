@@ -4,7 +4,7 @@ date: 2023-02-16T07:00:01Z
 videoId: 2I3S32Sk8-c
 url: /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
 canonicalUrl: https://www.youtube.com/watch?v=2I3S32Sk8-c
-coverImage: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2I3S32Sk8-c/maxresdefault.jpg
 duration: 182
 isShort: False
 ---

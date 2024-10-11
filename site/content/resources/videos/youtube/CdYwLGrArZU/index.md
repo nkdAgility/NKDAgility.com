@@ -4,7 +4,7 @@ date: 2023-06-29T11:00:18Z
 videoId: CdYwLGrArZU
 url: /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
 canonicalUrl: https://www.youtube.com/watch?v=CdYwLGrArZU
-coverImage: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

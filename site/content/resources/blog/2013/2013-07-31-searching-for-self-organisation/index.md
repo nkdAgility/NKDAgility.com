@@ -1,26 +1,25 @@
 ---
+title: Searching for self-organisation
+date: 2013-07-31
+creator: Martin Hinshelwood
 id: "9741"
-title: "Searching for self-organisation"
-date: "2013-07-31"
-categories:
-  - "people-and-process"
-tags:
-  - "culture"
-  - "development-team"
-  - "improve"
-  - "project-manager"
-  - "self-organisation"
-  - "strategic"
-  - "team"
-  - "teams"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "searching-for-self-organisation"
-
+slug: searching-for-self-organisation
 aliases:
   - /blog/searching-for-self-organisation
+tags:
+  - culture
+  - development-team
+  - improve
+  - project-manager
+  - self-organisation
+  - strategic
+  - team
+  - teams
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 Many companies have started searching for self-organisation. That ideal or nirvana where teams can figure out how to work together effectively with limited or little direction to solve problems.

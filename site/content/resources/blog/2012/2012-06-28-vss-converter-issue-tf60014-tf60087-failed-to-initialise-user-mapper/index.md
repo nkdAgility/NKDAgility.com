@@ -1,25 +1,24 @@
 ---
-id: "6124"
 title: "VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper"
-date: "2012-06-28"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "kb"
-  - "puzzles"
-  - "tf60014"
-  - "tf60087"
-  - "tfs"
-  - "tfs2010"
-  - "visual-sourcesafe"
-coverImage: "metro-problem-icon-2-2.png"
-author: "MrHinsh"
+date: 2012-06-28
+creator: Martin Hinshelwood
+id: "6124"
 layout: blog
 resourceType: blog
-slug: "vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper"
-
+slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliases:
   - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
+tags:
+  - kb
+  - puzzles
+  - tf60014
+  - tf60087
+  - tfs
+  - tfs2010
+  - visual-sourcesafe
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-2-2.png
 ---
 
 When running a VSS to TFS import using the VSSConverter.exe you may recieve a “TFTF60014: The username domainusername in the user map file c:tempusermap.xml is invalid”.

@@ -1,17 +1,16 @@
 ---
+title: Linked in Codeplex developers group
+date: 2008-05-15
+creator: Martin Hinshelwood
 id: "227"
-title: "Linked in Codeplex developers group"
-date: "2008-05-15"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "linked-in-codeplex-developers-group"
-
+slug: linked-in-codeplex-developers-group
 aliases:
   - /blog/linked-in-codeplex-developers-group
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 If you are a developer on Codeplex then there are now two Codeplex LinkedIn groups for you to join.

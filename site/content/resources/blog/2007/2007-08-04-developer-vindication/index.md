@@ -1,17 +1,16 @@
 ---
+title: Developer vindication
+date: 2007-08-04
+creator: Martin Hinshelwood
 id: "350"
-title: "Developer vindication"
-date: "2007-08-04"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developer-vindication"
-
+slug: developer-vindication
 aliases:
   - /blog/developer-vindication
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 The biggest vindication of your .Net developer status would be if Microsoft wanted to employ you! And it happened to me...

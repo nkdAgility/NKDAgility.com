@@ -1,24 +1,23 @@
 ---
+title: Team Foundation Server 2013 is production ready
+date: 2013-07-23
+creator: Martin Hinshelwood
 id: "9917"
-title: "Team Foundation Server 2013 is production ready"
-date: "2013-07-23"
-categories:
-  - "news-and-reviews"
-  - "products-and-books"
-tags:
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tfs2012-2"
-  - "tfs-2012-3"
-  - "tfs-2013"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-foundation-server-2013-is-production-ready"
-
+slug: team-foundation-server-2013-is-production-ready
 aliases:
   - /blog/team-foundation-server-2013-is-production-ready
+tags:
+  - tfs
+  - tfs2012
+  - tfs2012-1
+  - tfs2012-2
+  - tfs-2012-3
+  - tfs-2013
+categories:
+  - news-and-reviews
+  - products-and-books
 ---
 
 Did you know that Team Foundation Server 2013 is production ready?

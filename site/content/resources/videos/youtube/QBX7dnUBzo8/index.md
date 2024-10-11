@@ -4,7 +4,7 @@ date: 2024-01-24T07:00:16Z
 videoId: QBX7dnUBzo8
 url: /resources/videos/agile-techniques-that-boost-startups!
 canonicalUrl: https://www.youtube.com/watch?v=QBX7dnUBzo8
-coverImage: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
 isShort: False
 ---

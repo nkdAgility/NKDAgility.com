@@ -1,20 +1,19 @@
 ---
-id: "353"
 title: "Southparkify / Simpsonize : better with both!"
-date: "2007-07-31"
-categories:
-  - "me"
-tags:
-  - "moss2007"
-  - "sharepoint"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-07-31
+creator: Martin Hinshelwood
+id: "353"
 layout: blog
 resourceType: blog
-slug: "southparkify-simpsonize-better-with-both"
-
+slug: southparkify-simpsonize-better-with-both
 aliases:
   - /blog/southparkify-simpsonize-better-with-both
+tags:
+  - moss2007
+  - sharepoint
+categories:
+  - me
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 [![image](images/SouthparkifySimposonizebetterwithboth_DA8A-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-SouthparkifySimposonizebetterwithboth_DA8A-image.png)

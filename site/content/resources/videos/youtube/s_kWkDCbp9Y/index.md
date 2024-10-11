@@ -4,7 +4,7 @@ date: 2023-11-17T11:00:55Z
 videoId: s_kWkDCbp9Y
 url: /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-5
 canonicalUrl: https://www.youtube.com/watch?v=s_kWkDCbp9Y
-coverImage: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/s_kWkDCbp9Y/maxresdefault.jpg
 duration: 69
 isShort: False
 ---

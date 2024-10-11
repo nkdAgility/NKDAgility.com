@@ -4,7 +4,7 @@ date: 2023-01-26T07:00:04Z
 videoId: Cgy1ccX7e7Y
 url: /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
 canonicalUrl: https://www.youtube.com/watch?v=Cgy1ccX7e7Y
-coverImage: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
 isShort: False
 ---

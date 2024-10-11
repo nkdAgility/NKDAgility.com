@@ -1,21 +1,20 @@
 ---
+title: Major deadline
+date: 2008-04-30
+creator: Martin Hinshelwood
 id: "233"
-title: "Major deadline"
-date: "2008-04-30"
-categories:
-  - "me"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-coverImage: "metro-sharepoint-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "major-deadline"
-
+slug: major-deadline
 aliases:
   - /blog/major-deadline
+tags:
+  - moss2007
+  - sharepoint
+  - sp2007
+categories:
+  - me
+preview: metro-sharepoint-128-link-5-5.png
 ---
 
 ![image](images/Majordeadline_13060-image_thumb_6-4-4.png)Well the faeces hit the fan at work today...let me explain...

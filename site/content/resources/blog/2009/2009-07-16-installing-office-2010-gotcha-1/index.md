@@ -1,18 +1,17 @@
 ---
+title: Installing Office 2010 gotcha 1
+date: 2009-07-16
+creator: Martin Hinshelwood
 id: "104"
-title: "Installing Office 2010 gotcha 1"
-date: "2009-07-16"
-tags:
-  - "office"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-office-2010-gotcha-1"
-
+slug: installing-office-2010-gotcha-1
 aliases:
   - /blog/installing-office-2010-gotcha-1
+tags:
+  - office
+  - tools
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 I am installing office 2010, and I ran into my first gotcha!

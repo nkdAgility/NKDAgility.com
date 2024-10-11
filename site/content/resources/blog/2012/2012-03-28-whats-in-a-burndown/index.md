@@ -1,24 +1,23 @@
 ---
+title: What's in a burndown?
+date: 2012-03-28
+creator: Martin Hinshelwood
 id: "5002"
-title: "What's in a burndown?"
-date: "2012-03-28"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "configuration"
-  - "develop"
-  - "practices"
-  - "scrum"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "whats-in-a-burndown"
-
+slug: whats-in-a-burndown
 aliases:
   - /blog/whats-in-a-burndown
+tags:
+  - agile
+  - configuration
+  - develop
+  - practices
+  - scrum
+categories:
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I was recently in [Park City, Utah to teach](http://blog.hinshelwood.com/professional-scrum-foundations-in-salt-lake-city-utah/) the [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course and i just got an email from one of the students. As I want to help everyone I will answer here:
@@ -42,7 +41,7 @@ So in order to identify actions we need to look at some things we might identify
    [![SNAGHTMLc5b675a](images/SNAGHTMLc5b675a_thumb-2-2.png "SNAGHTMLc5b675a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5b675a.png)  
   { .post-img }
   **Figure: What does a flat burndown mean?**
-      This might be because we just forgot, or it might be representative of a tooling issue or even a team issue that exists.
+  This might be because we just forgot, or it might be representative of a tooling issue or even a team issue that exists.
 
       - Action: Update our Remaining Work
 
@@ -56,7 +55,7 @@ So in order to identify actions we need to look at some things we might identify
    [![SNAGHTMLc5cb8e3](images/SNAGHTMLc5cb8e3_thumb-3-3.png "SNAGHTMLc5cb8e3")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5cb8e3.png)  
   { .post-img }
   **Figure: All of the Tasks were complete**
-      This is likely to be because we have too much work in progress at any one time. We have 10 Stories in progress and get to the end of the Sprint with all of our Stories 90% complete.
+  This is likely to be because we have too much work in progress at any one time. We have 10 Stories in progress and get to the end of the Sprint with all of our Stories 90% complete.
 
       - Action: Raise an impediment with the Scrum Master for review at the Retrospective
 
@@ -69,10 +68,9 @@ So in order to identify actions we need to look at some things we might identify
    [![SNAGHTMLc5fc66a](images/SNAGHTMLc5fc66a_thumb-4-4.png "SNAGHTMLc5fc66a")](http://blog.hinshelwood.com/files/2012/03/SNAGHTMLc5fc66a.png)  
   { .post-img }
   **Figure: When will we be done?**
-      This can be because we do not know everything at the start of the Sprint. Can a lawyer tell you exactly how long your case will take and what it will cost? No, so why would you expect something like software to?
+  This can be because we do not know everything at the start of the Sprint. Can a lawyer tell you exactly how long your case will take and what it will cost? No, so why would you expect something like software to?
 
       - Action: Speak to the Product Owner and decide what can be removed from the Sprint Backlog to still allow the team to be done.
-
 
 These are just some ideas of what might be found and are not indicative of all possible options and there are other lists of [Bad Smells of the Sprint Backlog](http://scrumcrazy.wordpress.com/2010/10/07/bad-smells-of-the-sprint-backlog/) that you can find online.
 

@@ -4,7 +4,7 @@ date: 2023-05-25T14:00:20Z
 videoId: JVZzJZ5q0Hw
 url: /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
 canonicalUrl: https://www.youtube.com/watch?v=JVZzJZ5q0Hw
-coverImage: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
 isShort: False
 ---

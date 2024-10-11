@@ -1,20 +1,19 @@
 ---
+title: MSDN Roadshow UK 2007
+date: 2007-03-19
+creator: Martin Hinshelwood
 id: "430"
-title: "MSDN Roadshow UK 2007"
-date: "2007-03-19"
-categories:
-  - "events-and-presentations"
-tags:
-  - "events-and-presentations"
-  - "msdn"
-coverImage: "metro-event-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "msdn-roadshow-uk-2007"
-
+slug: msdn-roadshow-uk-2007
 aliases:
   - /blog/msdn-roadshow-uk-2007
+tags:
+  - events-and-presentations
+  - msdn
+categories:
+  - events-and-presentations
+preview: metro-event-128-link-1-1.png
 ---
 
 I have been very lazy of late with my blogging. But I am now getting a spurt so I thought I should mention that I attended the Roadshow at the Glasgow Science Center.

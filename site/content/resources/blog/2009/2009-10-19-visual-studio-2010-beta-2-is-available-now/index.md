@@ -1,22 +1,21 @@
 ---
+title: Visual Studio 2010 Beta 2 is available Now!
+date: 2009-10-19
+creator: Martin Hinshelwood
 id: "86"
-title: "Visual Studio 2010 Beta 2 is available Now!"
-date: "2009-10-19"
-tags:
-  - "aggreko"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2010-beta-2-is-available-now"
-
+slug: visual-studio-2010-beta-2-is-available-now
 aliases:
   - /blog/visual-studio-2010-beta-2-is-available-now
+tags:
+  - aggreko
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 Visual Studio 2010 Beta 2 is now available on MSDN for download!

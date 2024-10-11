@@ -4,7 +4,7 @@ date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/-shorts-7-virtues-of-agile-chastity
 canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
-coverImage: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
 isShort: True
 ---

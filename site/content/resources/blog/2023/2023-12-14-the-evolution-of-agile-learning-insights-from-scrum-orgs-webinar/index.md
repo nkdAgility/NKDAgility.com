@@ -1,20 +1,19 @@
 ---
-id: "50979"
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
-date: "2023-12-14"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg"
-author: "MrHinsh"
+date: 2023-12-14
+creator: Martin Hinshelwood
+id: "50979"
 layout: blog
 resourceType: blog
-slug: "the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar"
-
+slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliases:
   - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
+tags:
+  - featured
+  - homepage
+categories:
+  - agility
+preview: NKDAgility-technically-TheEvolutionofAgileLearning-1-1-16-16.jpg
 ---
 
 This week, I participated in a [Scrum.org](http://scrum.org/) Webinar hosted by Sabrina Love (Scrum.org Product Owner) as well as my colleagues, [Joanna Płaskonka, Ph.D.](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) and [Alex Ballarin](https://www.linkedin.com/article/edit/7140678898370928640/?author=urn%3Ali%3Afsd_profile%3AACoAAAAUzPABQyVbo7yoAY7fK8HpaEwXfTa5iCY#) to discuss the state of learning and how immersive learning is the future of training.

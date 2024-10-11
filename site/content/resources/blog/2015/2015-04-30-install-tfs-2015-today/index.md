@@ -1,22 +1,21 @@
 ---
+title: Install TFS 2015 today
+date: 2015-04-30
+creator: Martin Hinshelwood
 id: "11286"
-title: "Install TFS 2015 today"
-date: "2015-04-30"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "install"
-  - "tfs"
-  - "tfs-2015"
-coverImage: "nakedalm-experts-visual-studio-alm-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "install-tfs-2015-today"
-
+slug: install-tfs-2015-today
 aliases:
   - /blog/install-tfs-2015-today
+tags:
+  - configuration
+  - install
+  - tfs
+  - tfs-2015
+categories:
+  - install-and-configuration
+preview: nakedalm-experts-visual-studio-alm-11-11.png
 ---
 
 It has been a while since I had to install, configure, or upgrade TFS. Most of my customers have been moving to Visual Studio Online (VSO) which is effectively TFS in the cloud, and that requires "migration" of data rather than "upgrade". Although there are [great reasons to pick VSO over TFS, even for enterprise](http://nkdagility.com/benefits-visual-studio-online-enterprise/), many companies have a cultural issue with the cloud and are not ready to go there yet. For this we still have TFS and all of its fantastic features are updated and improved for 2015.

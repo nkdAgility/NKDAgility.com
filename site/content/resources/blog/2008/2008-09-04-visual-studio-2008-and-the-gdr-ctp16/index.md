@@ -1,20 +1,19 @@
 ---
+title: Visual Studio 2008 and the GDR CTP16
+date: 2008-09-04
+creator: Martin Hinshelwood
 id: "199"
-title: "Visual Studio 2008 and the GDR CTP16"
-date: "2008-09-04"
-tags:
-  - "aggreko"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2008-and-the-gdr-ctp16"
-
+slug: visual-studio-2008-and-the-gdr-ctp16
 aliases:
   - /blog/visual-studio-2008-and-the-gdr-ctp16
+tags:
+  - aggreko
+  - tools
+  - visual-studio
+  - vs2008
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well we have been having a few problems with the [GDR](http://blogs.msdn.com/gertd/archive/2008/08/20/vstsdb-2008-gdr-ctp16-is-here.aspx). Essentially when we import our database it complains about dependencies.

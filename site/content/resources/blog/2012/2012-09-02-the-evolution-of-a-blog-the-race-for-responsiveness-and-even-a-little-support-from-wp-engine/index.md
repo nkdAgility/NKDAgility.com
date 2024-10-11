@@ -1,17 +1,16 @@
 ---
+title: The evolution of a blog, the race for responsiveness and even a little support from WP Engine
+date: 2012-09-02
+creator: Martin Hinshelwood
 id: "8617"
-title: "The evolution of a blog, the race for responsiveness and even a little support from WP Engine"
-date: "2012-09-02"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-9-9.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine"
-
+slug: the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
 aliases:
   - /blog/the-evolution-of-a-blog-the-race-for-responsiveness-and-even-a-little-support-from-wp-engine
+categories:
+  - me
+preview: nakedalm-logo-128-link-9-9.png
 ---
 
 [![WPEngine-Logo-300x125](images/WPEngine-Logo-300x125_thumb-11-11.jpg "WPEngine-Logo-300x125")](http://www.shareasale.com/r.cfm?b=394686&u=687520&m=41388&urllink=&afftrack=)You may have noticed a little down time today. Thanks to the folks who emails to let me now of problems, some I was already on top of… others needed a good poking. The downtime was due to me moving my hosting provider. This blog has had a few homes over the years (my goodness…6 years!) and as it has grown so it has slowed. My site is image heavy and I also make poor choice of plugins in favour of features. It has been a constant annoyance for me that my blog has had abysmal loading times of late.
@@ -46,7 +45,7 @@ While there are many awesome plugins you can often have a little trouble with in
 The nice folks over at WP Engine have a list of [disallowed plugins](http://support.wpengine.com/disallowed-plugins/?SSAID=687520) that they absolutely will delete from the site of anyone that implements them. These are plugins that they have identified as just plain sucking form a performance standpoint and I salute them for laying down those terms… we users need protection from the evils that we do not fully understand and this helps a little. So what do I get at WP Engine that I did not get elsewhere?
 
 1.  **Dedicated support for word press and most plugins**
-        In the 3-4 hours it took to get all my ducks in a row for moving my site I had 5 support tickets knocked off. Each and every one was answered within 15 minutes and dealt with within 60. Not bad ![Smile](images/wlEmoticon-smile-10-10.png)
+    In the 3-4 hours it took to get all my ducks in a row for moving my site I had 5 support tickets knocked off. Each and every one was answered within 15 minutes and dealt with within 60. Not bad ![Smile](images/wlEmoticon-smile-10-10.png)
     { .post-img }
 2.  **Snapshots**
 

@@ -4,7 +4,7 @@ date: 2023-06-02T11:00:12Z
 videoId: AY35ys1uQOY
 url: /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
 canonicalUrl: https://www.youtube.com/watch?v=AY35ys1uQOY
-coverImage: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

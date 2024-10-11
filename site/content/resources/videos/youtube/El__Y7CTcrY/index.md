@@ -4,7 +4,7 @@ date: 2024-01-31T14:44:15Z
 videoId: El__Y7CTcrY
 url: /resources/videos/5-reasons-why-i-love-the-immersive-learning-experience-for-students-part-1
 canonicalUrl: https://www.youtube.com/watch?v=El__Y7CTcrY
-coverImage: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/El__Y7CTcrY/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

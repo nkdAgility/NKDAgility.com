@@ -4,7 +4,7 @@ date: 2024-08-08T06:45:00Z
 videoId: KvZbBwzxSu4
 url: /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
 canonicalUrl: https://www.youtube.com/watch?v=KvZbBwzxSu4
-coverImage: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KvZbBwzxSu4/maxresdefault.jpg
 duration: 591
 isShort: False
 ---

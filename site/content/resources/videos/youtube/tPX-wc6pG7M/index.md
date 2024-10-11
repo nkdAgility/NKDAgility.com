@@ -4,7 +4,7 @@ date: 2023-09-28T10:27:47Z
 videoId: tPX-wc6pG7M
 url: /resources/videos/5-october-2023-agile-leader-webinar
 canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
-coverImage: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
 isShort: False
 ---

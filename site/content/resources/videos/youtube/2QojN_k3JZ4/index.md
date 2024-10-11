@@ -4,7 +4,7 @@ date: 2023-12-07T11:00:05Z
 videoId: 2QojN_k3JZ4
 url: /resources/videos/-shorts-7-virtues-of-agile-diligence
 canonicalUrl: https://www.youtube.com/watch?v=2QojN_k3JZ4
-coverImage: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2QojN_k3JZ4/maxresdefault.jpg
 duration: 25
 isShort: True
 ---

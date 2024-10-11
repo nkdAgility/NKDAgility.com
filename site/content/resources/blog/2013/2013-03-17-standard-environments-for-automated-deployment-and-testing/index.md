@@ -1,30 +1,29 @@
 ---
+title: Standard Environments for Automated Deployment and Testing
+date: 2013-03-17
+creator: Martin Hinshelwood
 id: "9308"
-title: "Standard Environments for Automated Deployment and Testing"
-date: "2013-03-17"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "lab"
-  - "operational"
-  - "practices"
-  - "process"
-  - "standard-environments"
-  - "tactical"
-  - "testing"
-  - "tfs"
-  - "tfs2012-2"
-coverImage: "nakedalm-experts-visual-studio-alm-17-17.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "standard-environments-for-automated-deployment-and-testing"
-
+slug: standard-environments-for-automated-deployment-and-testing
 aliases:
   - /blog/standard-environments-for-automated-deployment-and-testing
+tags:
+  - configuration
+  - develop
+  - infrastructure
+  - lab
+  - operational
+  - practices
+  - process
+  - standard-environments
+  - tactical
+  - testing
+  - tfs
+  - tfs2012-2
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-17-17.png
 ---
 
 Standard Environments in Visual Studio 2012 Team Foundation Server make it possible to have an automated deployment of your software to a development or QA environment. You can then have a bunch of automated tests run in those environments, collecting data all the while.

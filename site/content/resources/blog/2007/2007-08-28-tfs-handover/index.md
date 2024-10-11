@@ -1,21 +1,20 @@
 ---
+title: TFS Handover
+date: 2007-08-28
+creator: Martin Hinshelwood
 id: "319"
-title: "TFS Handover"
-date: "2007-08-28"
-categories:
-  - "me"
-tags:
-  - "sp2007"
-  - "tfs"
-  - "tfs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-handover"
-
+slug: tfs-handover
 aliases:
   - /blog/tfs-handover
+tags:
+  - sp2007
+  - tfs
+  - tfs2005
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I am just writing some handover documentation for our [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") deployment in the office. Thank goodness that I wrote installation and disaster recovery documents when I originally deployed the system, other wise this would have been a very long process.

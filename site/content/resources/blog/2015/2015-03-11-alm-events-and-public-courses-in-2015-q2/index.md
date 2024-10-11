@@ -1,22 +1,21 @@
 ---
+title: ALM Events and public courses in 2015 Q2
+date: 2015-03-11
+creator: Martin Hinshelwood
 id: "11248"
-title: "ALM Events and public courses in 2015 Q2"
-date: "2015-03-11"
-categories:
-  - "events-and-presentations"
-tags:
-  - "agile-portfolio-management"
-  - "configuration"
-  - "devops"
-  - "project-management"
-coverImage: "metro-event-icon-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "alm-events-and-public-courses-in-2015-q2"
-
+slug: alm-events-and-public-courses-in-2015-q2
 aliases:
   - /blog/alm-events-and-public-courses-in-2015-q2
+tags:
+  - agile-portfolio-management
+  - configuration
+  - devops
+  - project-management
+categories:
+  - events-and-presentations
+preview: metro-event-icon-1-1.png
 ---
 
 I have had a lot of folks asking for dates of the public courses that I will be running in the next few months.

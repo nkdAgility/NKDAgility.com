@@ -1,19 +1,18 @@
 ---
+title: The High of Release
+date: 2015-12-05
+creator: Martin Hinshelwood
 id: "11398"
-title: "The High of Release"
-date: "2015-12-05"
-categories:
-  - "news-and-reviews"
-tags:
-  - "developers"
-coverImage: "2016-01-04_15-52-31-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-high-of-release"
-
+slug: the-high-of-release
 aliases:
   - /blog/the-high-of-release
+tags:
+  - developers
+categories:
+  - news-and-reviews
+preview: 2016-01-04_15-52-31-1-1.png
 ---
 
 Just a week or so ago I was at Microsoft Future Decoded event in London to talk about the new Release Management tools that will be made available at [Connect()](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2015/) and that might make it in to TFS 2015 Update 2. Here is hoping! The focus of the track was on DevOps and the focus of my session was on both Build and Release.

@@ -4,7 +4,7 @@ date: 2023-10-12T08:32:45Z
 videoId: HrJMsZZQl_g
 url: /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
 canonicalUrl: https://www.youtube.com/watch?v=HrJMsZZQl_g
-coverImage: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/HrJMsZZQl_g/maxresdefault.jpg
 duration: 234
 isShort: False
 ---

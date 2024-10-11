@@ -4,7 +4,7 @@ date: 2024-07-31T09:21:03Z
 videoId: isU2kPc5HFw
 url: /resources/videos/talk-us-through-your-experience-with-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=isU2kPc5HFw
-coverImage: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
 isShort: False
 ---

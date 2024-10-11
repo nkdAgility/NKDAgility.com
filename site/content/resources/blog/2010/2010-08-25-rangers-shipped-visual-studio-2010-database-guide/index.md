@@ -1,24 +1,23 @@
 ---
+title: Rangers shipped Visual Studio 2010 Database Guide
+date: 2010-08-25
+creator: Martin Hinshelwood
 id: "30"
-title: "Rangers shipped Visual Studio 2010 Database Guide"
-date: "2010-08-25"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "rangers-shipped-visual-studio-2010-database-guide"
-
+slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
   - /blog/rangers-shipped-visual-studio-2010-database-guide
+tags:
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
+categories:
+  - me
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 **![vs2010almRanger](images/RangersshippedVisualStudio2010DatabaseGu_C070-vs2010almRanger_-2-2.png)**

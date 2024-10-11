@@ -1,25 +1,24 @@
 ---
+title: TFS Event Handler in .NET 3.5
+date: 2007-08-21
+creator: Martin Hinshelwood
 id: "325"
-title: "TFS Event Handler in .NET 3.5"
-date: "2007-08-21"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "ml"
-  - "service-oriented-architecture"
-  - "tfs-event-handler"
-  - "tools"
-  - "wit"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-in-net-3-5"
-
+slug: tfs-event-handler-in-net-3-5
 aliases:
   - /blog/tfs-event-handler-in-net-3-5
+tags:
+  - code
+  - ml
+  - service-oriented-architecture
+  - tfs-event-handler
+  - tools
+  - wit
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I have decided to have a little go at creating a Team Foundation Server Event Handler in .NET 3.5 that is resilient and scaleable. I will be using as many of the features of Team Suit as I can, but bear with me as there are a few things that are new to me.

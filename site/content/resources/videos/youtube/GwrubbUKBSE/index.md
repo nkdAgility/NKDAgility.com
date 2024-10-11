@@ -4,7 +4,7 @@ date: 2020-04-10T18:32:34Z
 videoId: GwrubbUKBSE
 url: /resources/videos/30th-march-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=GwrubbUKBSE
-coverImage: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
+preview: https://i.ytimg.com/vi/GwrubbUKBSE/hqdefault.jpg
 duration: 2127
 isShort: False
 ---

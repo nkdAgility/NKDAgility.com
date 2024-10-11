@@ -1,20 +1,19 @@
 ---
+title: If you had a choice!
+date: 2008-08-13
+creator: Martin Hinshelwood
 id: "209"
-title: "If you had a choice!"
-date: "2008-08-13"
-categories:
-  - "me"
-tags:
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "if-you-had-a-choice"
-
+slug: if-you-had-a-choice
 aliases:
   - /blog/if-you-had-a-choice
+tags:
+  - visual-studio
+  - vs2008
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I would be interested to find out what platform you .NET developers prefer to use as your main Visual Studio 2008 box?

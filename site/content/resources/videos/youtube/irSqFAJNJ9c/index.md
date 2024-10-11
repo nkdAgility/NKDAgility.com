@@ -4,7 +4,7 @@ date: 2023-01-27T07:00:16Z
 videoId: irSqFAJNJ9c
 url: /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
 canonicalUrl: https://www.youtube.com/watch?v=irSqFAJNJ9c
-coverImage: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/irSqFAJNJ9c/maxresdefault.jpg
 duration: 390
 isShort: False
 ---

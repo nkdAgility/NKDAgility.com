@@ -1,19 +1,18 @@
 ---
+title: Windows Live Writer Beta 3 Hmm!
+date: 2007-10-03
+creator: Martin Hinshelwood
 id: "305"
-title: "Windows Live Writer Beta 3 Hmm!"
-date: "2007-10-03"
-categories:
-  - "products-and-books"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-live-writer-beta-3-hmm"
-
+slug: windows-live-writer-beta-3-hmm
 aliases:
   - /blog/windows-live-writer-beta-3-hmm
+tags:
+  - live
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I submitted a trouble ticket about my previous [post](http://blog.hinshelwood.com/archive/2007/10/02/Windows-Live-Writer-Beta-3.aspx) on [http://support.live.com](http://support.live.com) and got a prompt reply from Microsoft support giving me some directions for cleaning up beta bits of my system, and a URL for a direct download:

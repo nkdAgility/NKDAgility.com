@@ -1,23 +1,22 @@
 ---
+title: Calculating the Rank of your blog posts or pages
+date: 2010-09-10
+creator: Martin Hinshelwood
 id: "26"
-title: "Calculating the Rank of your blog posts or pages"
-date: "2010-09-10"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "ssw"
-  - "tools"
-  - "wcf"
-coverImage: "metro-binary-vb-128-link-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "calculating-the-rank-of-your-blog-posts-or-pages"
-
+slug: calculating-the-rank-of-your-blog-posts-or-pages
 aliases:
   - /blog/calculating-the-rank-of-your-blog-posts-or-pages
+tags:
+  - code
+  - codeproject
+  - ssw
+  - tools
+  - wcf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-11-11.png
 ---
 
 ![WeeManWithQuestions](images/e72c59b050ae_D1D8-WeeManWithQuestions_-9-9.png)I had an idea to have blog posts, or Rules listed not in date order, or an arbitrary order, but in some sort of calculated order. For this I would need to get data from somewhere and I fancied using; Number of Comments, Number of Trackbacks, Reddit, Digg, FriendFeed Twitter and Google Page rank. In this sample I use the term Rangler as a cross between Wrangler and Rank, but they are really Data Collectors.

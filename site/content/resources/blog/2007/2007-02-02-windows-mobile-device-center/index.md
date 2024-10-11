@@ -1,19 +1,18 @@
 ---
+title: Windows Mobile Device Center
+date: 2007-02-02
+creator: Martin Hinshelwood
 id: "437"
-title: "Windows Mobile Device Center"
-date: "2007-02-02"
-categories:
-  - "products-and-books"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-mobile-device-center"
-
+slug: windows-mobile-device-center
 aliases:
   - /blog/windows-mobile-device-center
+tags:
+  - windows-mobile-6
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Well, its about time: The WMDC is out of beta and is available to [download](http://www.microsoft.com/windowsmobile/devicecenter.mspx "Windows Mobile Device Center Download"). WMDC is the replacement for ActiveSync on Vista and I would have expected it to be available for the business release of Vista. Up until now users have had to make do with the beta version that was originally released for Vista RC1, and I can tell you it was a little flaky in places. Not anything really problematic, just the usual beta unfinishedness, though it was usable.

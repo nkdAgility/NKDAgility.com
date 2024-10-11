@@ -4,7 +4,7 @@ date: 2024-08-22T07:00:08Z
 videoId: DvW-xwxufa0
 url: /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
 canonicalUrl: https://www.youtube.com/watch?v=DvW-xwxufa0
-coverImage: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/DvW-xwxufa0/maxresdefault.jpg
 duration: 339
 isShort: False
 ---

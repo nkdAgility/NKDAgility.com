@@ -4,7 +4,7 @@ date: 2023-03-03T07:15:03Z
 videoId: klBiNFvxuy0
 url: /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
 canonicalUrl: https://www.youtube.com/watch?v=klBiNFvxuy0
-coverImage: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/klBiNFvxuy0/maxresdefault.jpg
 duration: 301
 isShort: False
 ---

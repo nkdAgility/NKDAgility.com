@@ -1,23 +1,22 @@
 ---
+title: Introducing Kanban for Professional Scrum Teams
+date: 2018-02-26
+creator: Martin Hinshelwood
 id: "38334"
-title: "Introducing Kanban for Professional Scrum Teams"
-date: "2018-02-26"
-categories:
-  - "agility"
-tags:
-  - "kanban"
-  - "professioal-scrum"
-  - "professional-kanban"
-  - "professional-scrum-with-kanban"
-  - "scrum"
-coverImage: "nkdagility-scrum-and-kanban-1900-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "introducing-kanban-professional-scrum-teams"
-
+slug: introducing-kanban-professional-scrum-teams
 aliases:
   - /blog/introducing-kanban-professional-scrum-teams
+tags:
+  - kanban
+  - professioal-scrum
+  - professional-kanban
+  - professional-scrum-with-kanban
+  - scrum
+categories:
+  - agility
+preview: nkdagility-scrum-and-kanban-1900-2-1.png
 ---
 
 A few weeks ago I was in Boston to visit the Scrum.org offices and learn to teach the [Professional Scrum with Kanban (PSK)](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/) training class co-taught by Steve Porter and [Daniel Vacanti](https://www.linkedin.com/in/danielvacanti/). This is a new Professional Scrum training course created by Ken Schwaber, Scrum.org, the Professional Scrum Trainer Community and Daniel Vacanti who helped to develop the Kanban Method for knowledge work. The new class was [just announced by Ken & Scrum.org](https://www.scrum.org/resources/scrumorg-introduces-scrum-kanban-course-enabling-greater-transparency-among-development) and includes a [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) that describes Kanban within the context of the [Scrum Framework](http://scrumguides.org).

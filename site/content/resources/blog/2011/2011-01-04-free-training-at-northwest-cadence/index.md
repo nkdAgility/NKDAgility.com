@@ -1,20 +1,19 @@
 ---
+title: Free training at Northwest Cadence
+date: 2011-01-04
+creator: Martin Hinshelwood
 id: "19"
-title: "Free training at Northwest Cadence"
-date: "2011-01-04"
-categories:
-  - "events-and-presentations"
-tags:
-  - "events-and-presentations"
-  - "nwcadence"
-coverImage: "metro-event-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "free-training-at-northwest-cadence"
-
+slug: free-training-at-northwest-cadence
 aliases:
   - /blog/free-training-at-northwest-cadence
+tags:
+  - events-and-presentations
+  - nwcadence
+categories:
+  - events-and-presentations
+preview: metro-event-128-link-3-3.png
 ---
 
 **[![NWCadence-Logo](images/d8a99e5b9476_9304-NWCadence-Logo_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-d8a99e5b9476_9304-NWCadence-Logo_2.png)**

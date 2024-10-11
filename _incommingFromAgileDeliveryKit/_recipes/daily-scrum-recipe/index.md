@@ -2,7 +2,7 @@
 title: Daily Scrum Recipe
 type: recipe
 image: ./../assets/images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
-author: mrhinsh
+creator: Martin Hinshelwood
  - /recipes/Daily-Scrum-Recipe.html
 recommendedContent:
  - collection: guides
@@ -23,7 +23,7 @@ references:
    url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -86,8 +86,8 @@ The Developers review their progress towards the Sprint Goal. They should
 actively manage the work that is in progress and maintain transparency of the
 present as reflected in the Sprint Backlog.
 
-*The Developers should own this event and facilitate it, although Scrum Masters
-may certainly facilitate as requested or as needed.*
+_The Developers should own this event and facilitate it, although Scrum Masters
+may certainly facilitate as requested or as needed._
 
 ### Why recipe?
 
@@ -111,29 +111,29 @@ data in ways that allow us to identify those interesting items.
 
 You can use the following visualisations:
 
--   **Work Item Aging Graph** - A very effective way to review the work that is
-    in progress is to use a Work Item Aging graph and pay particular attention
-    to the oldest items. By actively managing based on the age of items, the
-    Developers can see clearly which items need the most focus, what is blocked,
-    and how long they have been in progress.  
-    ![Work Item Aging Graph at the Daily
-    Scrum](../../assets/images/naked-agility-DailyScrum-WorkItemAging.jpg) An
-    advanced form of this is shown here, where we are also overlaying the 50th,
-    70th, 85th, and 95th percentiles for each of the columns in our process.
-    Highlighted are 5 anomalies to discuss at this team's Daily Scrum in the
-    order of risk to delivery.
+- **Work Item Aging Graph** - A very effective way to review the work that is
+  in progress is to use a Work Item Aging graph and pay particular attention
+  to the oldest items. By actively managing based on the age of items, the
+  Developers can see clearly which items need the most focus, what is blocked,
+  and how long they have been in progress.  
+  ![Work Item Aging Graph at the Daily
+Scrum](../../assets/images/naked-agility-DailyScrum-WorkItemAging.jpg) An
+  advanced form of this is shown here, where we are also overlaying the 50th,
+  70th, 85th, and 95th percentiles for each of the columns in our process.
+  Highlighted are 5 anomalies to discuss at this team's Daily Scrum in the
+  order of risk to delivery.
 
--   **Review the Boards** - Another critical visualisation for the Daily Scrum
-    is of the work currently in progress using a Board that shows the movement
-    of the smallest unit of value, a Backlog Item.   
-    ![image.png](../../assets/images/nkdAgility-ProductValueBoard.png)  
-    In this visualisation, the work in progress is everything that is within the
-    bounds of the red box. We can immediately see that validation and
-    development are both at capacity, so neither can take on any additional
-    work. Using WIP Limits in this way, and inspecting them at the Daily Scrum
-    allows teams to easily see constraints and identify bottlenecks in this
-    process. In this case, we may need to focus on validation to get things into
-    done to free up space further “upriver”.
+- **Review the Boards** - Another critical visualisation for the Daily Scrum
+  is of the work currently in progress using a Board that shows the movement
+  of the smallest unit of value, a Backlog Item.  
+  ![image.png](../../assets/images/nkdAgility-ProductValueBoard.png)  
+  In this visualisation, the work in progress is everything that is within the
+  bounds of the red box. We can immediately see that validation and
+  development are both at capacity, so neither can take on any additional
+  work. Using WIP Limits in this way, and inspecting them at the Daily Scrum
+  allows teams to easily see constraints and identify bottlenecks in this
+  process. In this case, we may need to focus on validation to get things into
+  done to free up space further “upriver”.
 
 ### Part 2: Create an Actionable Plan for 24h [\~10 min]
 
@@ -147,7 +147,7 @@ We should leave the Daily Scrum with a plan for the next 24 hours!
 
 #### Facilitation Options
 
--   Create a Plan [10 min]
+- Create a Plan [10 min]
 
 # Some Common Anti-patterns
 

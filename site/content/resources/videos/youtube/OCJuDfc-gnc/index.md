@@ -4,7 +4,7 @@ date: 2020-03-25T16:17:15Z
 videoId: OCJuDfc-gnc
 url: /resources/videos/25th-march-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
-coverImage: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: False
 ---

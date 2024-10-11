@@ -1,24 +1,23 @@
 ---
+title: Run a router on Hyper-V
+date: 2014-06-25
+creator: Martin Hinshelwood
 id: "10617"
-title: "Run a router on Hyper-V"
-date: "2014-06-25"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-  - "tools-and-techniques"
-tags:
-  - "hootoo-tripmate"
-  - "hyper-v"
-  - "network"
-  - "router"
-coverImage: "naked-alm-hyper-v-17-17.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "run-router-hyper-v"
-
+slug: run-router-hyper-v
 aliases:
   - /blog/run-router-hyper-v
+tags:
+  - hootoo-tripmate
+  - hyper-v
+  - network
+  - router
+categories:
+  - install-and-configuration
+  - problems-and-puzzles
+  - tools-and-techniques
+preview: naked-alm-hyper-v-17-17.png
 ---
 
 I want to run a router on Hyper-V so that I can run many VM's, each with internet access, on corporate and hotel networks. Microsoft touts Routing and Remote Access but there is no way I will go there. First it’s a total pain to setup and run. Second I need to run a whole Windows Server just to have basic DHCP and internet access. Overkill much! There must be a better way.

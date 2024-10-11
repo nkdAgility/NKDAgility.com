@@ -1,24 +1,23 @@
 ---
+title: Unique ID in SharePoint list
+date: 2008-01-11
+creator: Martin Hinshelwood
 id: "265"
-title: "Unique ID in SharePoint list"
-date: "2008-01-11"
-categories:
-  - "code-and-complexity"
-tags:
-  - "answers"
-  - "configuration"
-  - "infrastructure"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-2-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "unique-id-in-sharepoint-list"
-
+slug: unique-id-in-sharepoint-list
 aliases:
   - /blog/unique-id-in-sharepoint-list
+tags:
+  - answers
+  - configuration
+  - infrastructure
+  - sharepoint
+  - sp2007
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-sharepoint-128-link-2-1.png
 ---
 
 [This seams to be a common problem, and one that I get many calls from users about:](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-UniqueIDinSharePointlist_7B3D-image_2.png)

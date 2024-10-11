@@ -4,7 +4,7 @@ date: 2023-06-23T07:00:11Z
 videoId: ItnQxg3Q4Fc
 url: /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
 canonicalUrl: https://www.youtube.com/watch?v=ItnQxg3Q4Fc
-coverImage: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ItnQxg3Q4Fc/maxresdefault.jpg
 duration: 285
 isShort: False
 ---

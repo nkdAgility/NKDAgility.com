@@ -1,20 +1,19 @@
 ---
+title: Deciphering the Enigma of Story Points Across Teams
+date: 2023-09-21
+creator: Martin Hinshelwood
 id: "49888"
-title: "Deciphering the Enigma of Story Points Across Teams"
-date: "2023-09-21"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "naked-agility-technically-flow-not-velocity-5-5.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "deciphering-the-enigma-of-story-points-across-teams"
-
+slug: deciphering-the-enigma-of-story-points-across-teams
 aliases:
   - /blog/deciphering-the-enigma-of-story-points-across-teams
+tags:
+  - featured
+  - homepage
+categories:
+  - agility
+preview: naked-agility-technically-flow-not-velocity-5-5.jpg
 ---
 
 Over the past decade, a recurring query has been echoing in my ears: "How can we normalise Story Points across teams so that we can look across and maybe compare teams?" It's high time we address this.

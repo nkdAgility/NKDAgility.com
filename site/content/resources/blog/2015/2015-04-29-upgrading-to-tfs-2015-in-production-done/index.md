@@ -1,22 +1,21 @@
 ---
+title: Upgrading to TFS 2015 in production - DONE
+date: 2015-04-29
+creator: Martin Hinshelwood
 id: "11308"
-title: "Upgrading to TFS 2015 in production - DONE"
-date: "2015-04-29"
-categories:
-  - "install-and-configuration"
-tags:
-  - "tfs"
-  - "tfs-2013-4"
-  - "tfs-2015"
-  - "upgrade"
-coverImage: "nakedalm-experts-visual-studio-alm-22-22.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-to-tfs-2015-in-production-done"
-
+slug: upgrading-to-tfs-2015-in-production-done
 aliases:
   - /blog/upgrading-to-tfs-2015-in-production-done
+tags:
+  - tfs
+  - tfs-2013-4
+  - tfs-2015
+  - upgrade
+categories:
+  - install-and-configuration
+preview: nakedalm-experts-visual-studio-alm-22-22.png
 ---
 
 I am onsite today with a customer in London to do an upgrade of their production system to TFS 2015. We have a backup of the databases and a snapshot of the VM and are good to go.

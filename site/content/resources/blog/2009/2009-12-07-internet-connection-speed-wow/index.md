@@ -1,17 +1,16 @@
 ---
+title: Internet connection speed, WOW
+date: 2009-12-07
+creator: Martin Hinshelwood
 id: "78"
-title: "Internet connection speed, WOW"
-date: "2009-12-07"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "internet-connection-speed-wow"
-
+slug: internet-connection-speed-wow
 aliases:
   - /blog/internet-connection-speed-wow
+categories:
+  - me
+preview: nakedalm-logo-128-link-5-1.png
 ---
 
 I have been a cable customer in the UK since day one when it was Cable & Wireless.

@@ -1,32 +1,27 @@
 ---
+title: Always prompted for credentials in TFS 2010?
+date: 2011-11-22
+creator: Martin Hinshelwood
 id: "4071"
-title: "Always prompted for credentials in TFS 2010?"
-date: "2011-11-22"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-  - "webcast-2"
-coverImage: "metro-visual-studio-2005-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "always-prompted-for-credentials-in-tfs-2010"
-
+slug: always-prompted-for-credentials-in-tfs-2010
 aliases:
   - /blog/always-prompted-for-credentials-in-tfs-2010
+tags:
+  - nwcadence
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+  - webcast-2
+preview: metro-visual-studio-2005-128-link-6-6.png
 ---
 
 [![VisualStudioALMLogo](images/VisualStudioALMLogo_thumb-10-10.png "VisualStudioALMLogo")](http://blog.hinshelwood.com/files/2011/11/VisualStudioALMLogo.png)
 { .post-img }
 
 Sometimes when you setup TFS you find that your users, or just some of them, are being prompted for credentials. While manageable this is annoying and is not really related to TFS. This is an Active Directory thing and yes, there is a workaround…
-
-
-
-
 
 ---
 

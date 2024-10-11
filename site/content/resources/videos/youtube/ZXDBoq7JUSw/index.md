@@ -4,7 +4,7 @@ date: 2023-08-03T07:00:11Z
 videoId: ZXDBoq7JUSw
 url: /resources/videos/3-reasons-why-you-should-level-up-your-knowledge-and-skills
 canonicalUrl: https://www.youtube.com/watch?v=ZXDBoq7JUSw
-coverImage: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ZXDBoq7JUSw/maxresdefault.jpg
 duration: 37
 isShort: True
 ---

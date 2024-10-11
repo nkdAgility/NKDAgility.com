@@ -4,7 +4,7 @@ date: 2024-02-12T07:00:11Z
 videoId: LMmKDlcIvWs
 url: /resources/videos/what-is-kanban-
 canonicalUrl: https://www.youtube.com/watch?v=LMmKDlcIvWs
-coverImage: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/LMmKDlcIvWs/maxresdefault.jpg
 duration: 553
 isShort: False
 ---

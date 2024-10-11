@@ -4,7 +4,7 @@ date: 2023-05-23T14:00:19Z
 videoId: XdzGxK1Yzyc
 url: /resources/videos/why-have-a-product-owner-
 canonicalUrl: https://www.youtube.com/watch?v=XdzGxK1Yzyc
-coverImage: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XdzGxK1Yzyc/maxresdefault.jpg
 duration: 319
 isShort: False
 ---

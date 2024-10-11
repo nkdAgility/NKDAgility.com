@@ -4,7 +4,7 @@ date: 2022-07-27T18:45:14Z
 videoId: bvCU_N6iY_4
 url: /resources/videos/business-agility-raw!-ask-me-anything-lean-coffee-with-martin-hinshelwood-[mktng]
 canonicalUrl: https://www.youtube.com/watch?v=bvCU_N6iY_4
-coverImage: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/bvCU_N6iY_4/maxresdefault.jpg
 duration: 21
 isShort: True
 ---

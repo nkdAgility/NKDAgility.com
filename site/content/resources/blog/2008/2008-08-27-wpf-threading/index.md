@@ -1,21 +1,20 @@
 ---
+title: WPF Threading
+date: 2008-08-27
+creator: Martin Hinshelwood
 id: "206"
-title: "WPF Threading"
-date: "2008-08-27"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tools"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "wpf-threading"
-
+slug: wpf-threading
 aliases:
   - /blog/wpf-threading
+tags:
+  - code
+  - tools
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I was having a problem getting multi threading working with the ObservableCollection, and struggled to find a solution. So I asked my friend Google and after a while it directed me to [Kevin's](http://blog.quantumbitdesigns.com/) blog and specifically to his post on [WPF Cross-Thread Collection Binding - Part 4 - The Grand Solution](http://blog.quantumbitdesigns.com/2008/07/22/wpf-cross-thread-collection-binding-part-4-the-grand-solution/).

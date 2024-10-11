@@ -1,19 +1,18 @@
 ---
+title: The Product Goal is a commitment for the Product Backlog
+date: 2020-11-23
+creator: Martin Hinshelwood
 id: "45086"
-title: "The Product Goal is a commitment for the Product Backlog"
-date: "2020-11-23"
-categories:
-  - "transparency-commitment"
-tags:
-  - "product-goal"
-coverImage: "naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-product-goal-is-a-commitment-for-the-product-backlog"
-
+slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
   - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
+tags:
+  - product-goal
+categories:
+  - transparency-commitment
+preview: naked-Agility-Scrum-Framework-Product-Goal-2-1.jpg
 ---
 
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff introduces the idea of the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal). The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) is a commitment to ensure transparency and focus against progress.

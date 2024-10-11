@@ -1,18 +1,17 @@
 ---
+title: TFS Event Handler v1.3 released
+date: 2008-12-02
+creator: Martin Hinshelwood
 id: "158"
-title: "TFS Event Handler v1.3 released"
-date: "2008-12-02"
-tags:
-  - "tfs-event-handler"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-v1-3-released"
-
+slug: tfs-event-handler-v1-3-released
 aliases:
   - /blog/tfs-event-handler-v1-3-released
+tags:
+  - tfs-event-handler
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Updated and improved for Team System 2008.

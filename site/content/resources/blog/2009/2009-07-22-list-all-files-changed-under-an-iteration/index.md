@@ -1,26 +1,25 @@
 ---
+title: List all files changed under an Iteration
+date: 2009-07-22
+creator: Martin Hinshelwood
 id: "99"
-title: "List all files changed under an Iteration"
-date: "2009-07-22"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "iteration"
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "version-control"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "list-all-files-changed-under-an-iteration"
-
+slug: list-all-files-changed-under-an-iteration
 aliases:
   - /blog/list-all-files-changed-under-an-iteration
+tags:
+  - code
+  - iteration
+  - tfs
+  - tfs2008
+  - tools
+  - version-control
+  - wit
+categories:
+  - code-and-complexity
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I was asked by a colleague to provide a list of all files that were changed under a particular iteration. Rather than delving into the data, I made a couple of API calls to TFS to output a text file with the list.

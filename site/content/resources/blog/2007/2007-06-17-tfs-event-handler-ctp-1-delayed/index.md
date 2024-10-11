@@ -1,20 +1,19 @@
 ---
-id: "381"
 title: "TFS Event Handler: CTP 1 Delayed"
-date: "2007-06-17"
-categories:
-  - "me"
-tags:
-  - "tfs-event-handler"
-  - "wit"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-06-17
+creator: Martin Hinshelwood
+id: "381"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-ctp-1-delayed"
-
+slug: tfs-event-handler-ctp-1-delayed
 aliases:
   - /blog/tfs-event-handler-ctp-1-delayed
+tags:
+  - tfs-event-handler
+  - wit
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Due to a number of reasons:

@@ -1,24 +1,23 @@
 ---
-id: "49726"
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
-date: "2023-08-31"
-categories:
-  - "agility"
-  - "discovery-ideation"
-tags:
-  - "featured"
-  - "homepage"
-  - "product-backlog-item"
-  - "product-backlog-management"
-  - "user-stories"
-coverImage: "naked-agility-technically-rethinkinguserstories-1-1-1.jpg"
-author: "MrHinsh"
+date: 2023-08-31
+creator: Martin Hinshelwood
+id: "49726"
 layout: blog
 resourceType: blog
-slug: "rethinking-user-stories-a-call-for-clarity-in-product-backlog-management"
-
+slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliases:
   - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
+tags:
+  - featured
+  - homepage
+  - product-backlog-item
+  - product-backlog-management
+  - user-stories
+categories:
+  - agility
+  - discovery-ideation
+preview: naked-agility-technically-rethinkinguserstories-1-1-1.jpg
 ---
 
 As someone who has spent a fair amount of time in the trenches of product development, I've realised that the language we use to describe our work can profoundly shape our approach to it. One term that I believe has been misused and misunderstood to the point of causing more harm than good is "User Stories".

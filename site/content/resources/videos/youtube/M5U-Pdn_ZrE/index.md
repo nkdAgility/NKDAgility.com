@@ -4,7 +4,7 @@ date: 2023-12-18T11:00:15Z
 videoId: M5U-Pdn_ZrE
 url: /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-4
 canonicalUrl: https://www.youtube.com/watch?v=M5U-Pdn_ZrE
-coverImage: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: True
 ---

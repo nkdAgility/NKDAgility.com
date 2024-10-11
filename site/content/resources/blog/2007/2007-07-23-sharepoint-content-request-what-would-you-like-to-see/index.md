@@ -1,15 +1,14 @@
 ---
+title: SharePoint Content Request | What would you like to see?
+date: 2007-07-23
+creator: Martin Hinshelwood
 id: "361"
-title: "SharePoint Content Request | What would you like to see?"
-date: "2007-07-23"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "sharepoint-content-request-what-would-you-like-to-see"
-
+slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
   - /blog/sharepoint-content-request-what-would-you-like-to-see
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 [Jeff Julian](//geekswithblogs.net/jjulian/) who kindly provides my blog has been [blogging](http://geekswithblogs.net/jjulian/archive/2007/06/22/113388.aspx "SharePoint Content Request | What would you like to see?") about what features would be good in Sharepoint.

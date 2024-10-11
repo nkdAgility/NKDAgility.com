@@ -1,23 +1,22 @@
 ---
+title: Creating a SharePoint Solution
+date: 2008-05-19
+creator: Martin Hinshelwood
 id: "225"
-title: "Creating a SharePoint Solution"
-date: "2008-05-19"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "develop"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-sharepoint-solution"
-
+slug: creating-a-sharepoint-solution
 aliases:
   - /blog/creating-a-sharepoint-solution
+tags:
+  - develop
+  - moss2007
+  - sharepoint
+  - sp2007
+  - tools
+categories:
+  - tools-and-techniques
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 Over the next few weeks I will be blogging my escapades in developing an application solution for Microsoft Office SharePoint Server. I have entitled the application "_MOSS Time Off Management_" and it will be up on [CodePlex](http://www.codeplex.com "CodePlex") for all to follow @ [http://www.codeplex.com/mosstom](http://www.codeplex.com/mosstom) (coming soon).

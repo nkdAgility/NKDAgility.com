@@ -1,25 +1,24 @@
 ---
-id: "62"
 title: "Adventures in Scrum: Lesson 2 - For the record"
-date: "2010-03-15"
-categories:
-  - "people-and-process"
-tags:
-  - "develop"
-  - "people"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "silverlight"
-  - "ssw"
-coverImage: "metro-SSWLogo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2010-03-15
+creator: Martin Hinshelwood
+id: "62"
 layout: blog
 resourceType: blog
-slug: "adventures-in-scrum-lesson-2-for-the-record"
-
+slug: adventures-in-scrum-lesson-2-for-the-record
 aliases:
   - /blog/adventures-in-scrum-lesson-2-for-the-record
+tags:
+  - develop
+  - people
+  - practices
+  - process
+  - scrum
+  - silverlight
+  - ssw
+categories:
+  - people-and-process
+preview: metro-SSWLogo-128-link-1-1.png
 ---
 
 At SSW we have always done Agile. Recently we have started doing Scrum and we have nearly completed our first Sprint ever using Scrum. As you probably guessed from my previous post, it looks like it is going to be a “Failed Sprint”, but the Scrum Team (This includes the ScrumMaster and the Product Owner) has learned a huge amount about working in the Scrum Framework.

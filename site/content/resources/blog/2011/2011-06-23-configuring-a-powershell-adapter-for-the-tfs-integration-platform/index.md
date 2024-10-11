@@ -1,19 +1,18 @@
 ---
+title: Configuring a PowerShell Adapter for the TFS Integration Platform
+date: 2011-06-23
+creator: Martin Hinshelwood
 id: "3652"
-title: "Configuring a PowerShell Adapter for the TFS Integration Platform"
-date: "2011-06-23"
-tags:
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configuring-a-powershell-adapter-for-the-tfs-integration-platform"
-
+slug: configuring-a-powershell-adapter-for-the-tfs-integration-platform
 aliases:
   - /blog/configuring-a-powershell-adapter-for-the-tfs-integration-platform
+tags:
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
 ---
 
 ![](images/image_thumb-1-1.png)

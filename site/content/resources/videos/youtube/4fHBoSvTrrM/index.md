@@ -4,7 +4,7 @@ date: 2023-04-03T07:00:03Z
 videoId: 4fHBoSvTrrM
 url: /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
 canonicalUrl: https://www.youtube.com/watch?v=4fHBoSvTrrM
-coverImage: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
 duration: 383
 isShort: False
 ---

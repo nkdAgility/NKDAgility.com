@@ -4,7 +4,7 @@ date: 2023-03-15T07:00:19Z
 videoId: wa4A_KQ-YGg
 url: /resources/videos/what-are-immersive-training-scrum-courses-
 canonicalUrl: https://www.youtube.com/watch?v=wa4A_KQ-YGg
-coverImage: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
 isShort: False
 ---

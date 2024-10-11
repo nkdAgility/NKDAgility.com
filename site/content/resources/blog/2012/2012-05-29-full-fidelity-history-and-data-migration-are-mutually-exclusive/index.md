@@ -1,26 +1,25 @@
 ---
+title: Full-fidelity history and data migration are mutually exclusive
+date: 2012-05-29
+creator: Martin Hinshelwood
 id: "5288"
-title: "Full-fidelity history and data migration are mutually exclusive"
-date: "2012-05-29"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "nwcadence"
-  - "tfs"
-  - "tfs-integration-platform"
-  - "tools"
-  - "upgrade"
-coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "full-fidelity-history-and-data-migration-are-mutually-exclusive"
-
+slug: full-fidelity-history-and-data-migration-are-mutually-exclusive
 aliases:
   - /blog/full-fidelity-history-and-data-migration-are-mutually-exclusive
+tags:
+  - configuration
+  - infrastructure
+  - nwcadence
+  - tfs
+  - tfs-integration-platform
+  - tools
+  - upgrade
+categories:
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
 
 If you have ever had to migrate data from any system that contains lots of data and especially history then you will have run into this problem. Effectively you have two choices:

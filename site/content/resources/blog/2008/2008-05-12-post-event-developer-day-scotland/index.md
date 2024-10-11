@@ -1,17 +1,16 @@
 ---
-id: "229"
 title: "Post event: Developer Day Scotland..."
-date: "2008-05-12"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2008-05-12
+creator: Martin Hinshelwood
+id: "229"
 layout: blog
 resourceType: blog
-slug: "post-event-developer-day-scotland"
-
+slug: post-event-developer-day-scotland
 aliases:
   - /blog/post-event-developer-day-scotland
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 What a fantastic day... Thanks to [Colin Mackay](http://blog.colinmackay.net/) for the fantastic job he did organising this event and I hope that there will be more events like this in Glasgow in the future...

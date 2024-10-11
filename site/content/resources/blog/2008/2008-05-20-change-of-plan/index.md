@@ -1,22 +1,21 @@
 ---
+title: Change of plan
+date: 2008-05-20
+creator: Martin Hinshelwood
 id: "224"
-title: "Change of plan"
-date: "2008-05-20"
-categories:
-  - "me"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "wf"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "change-of-plan"
-
+slug: change-of-plan
 aliases:
   - /blog/change-of-plan
+tags:
+  - moss2007
+  - sharepoint
+  - sp2007
+  - wf
+categories:
+  - me
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 After having thought about it for a while I think that my idea not to create a separate TOM system independent of MOSS was a bit of a silly idea. The whole point of the system is to exist in any environment, so the first version will exist separate of SharePoint. The main advantage of this will be debugging and testing....

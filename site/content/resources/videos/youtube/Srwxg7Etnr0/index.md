@@ -4,7 +4,7 @@ date: 2023-06-02T07:00:09Z
 videoId: Srwxg7Etnr0
 url: /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
 canonicalUrl: https://www.youtube.com/watch?v=Srwxg7Etnr0
-coverImage: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Srwxg7Etnr0/maxresdefault.jpg
 duration: 152
 isShort: False
 ---

@@ -1,26 +1,25 @@
 ---
+title: Configure Test Plans for web access in TFS 2012.2
+date: 2013-05-10
+creator: Martin Hinshelwood
 id: "9900"
-title: "Configure Test Plans for web access in TFS 2012.2"
-date: "2013-05-10"
-categories:
-  - "install-and-configuration"
-tags:
-  - "area-path"
-  - "configuration"
-  - "mtm"
-  - "team-field"
-  - "teams"
-  - "test-hub"
-  - "test-plan"
-  - "tf26204"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configure-test-plans-for-web-access-in-tfs-2012-2"
-
+slug: configure-test-plans-for-web-access-in-tfs-2012-2
 aliases:
   - /blog/configure-test-plans-for-web-access-in-tfs-2012-2
+tags:
+  - area-path
+  - configuration
+  - mtm
+  - team-field
+  - teams
+  - test-hub
+  - test-plan
+  - tf26204
+  - tools
+categories:
+  - install-and-configuration
 ---
 
 Configure Test Plans for web access in TFS 2012.2 is a little tricky and we need to be very specific on how we configure it so that our Team can see the right test Plans.

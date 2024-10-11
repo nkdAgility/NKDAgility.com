@@ -4,7 +4,7 @@ date: 2023-05-12T14:00:02Z
 videoId: 3YBrq-cle_w
 url: /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 canonicalUrl: https://www.youtube.com/watch?v=3YBrq-cle_w
-coverImage: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
 isShort: False
 ---

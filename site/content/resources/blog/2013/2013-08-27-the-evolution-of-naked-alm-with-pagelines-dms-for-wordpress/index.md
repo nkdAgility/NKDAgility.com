@@ -1,24 +1,23 @@
 ---
+title: The evolution of naked ALM with Pagelines DMS for Wordpress
+date: 2013-08-27
+creator: Martin Hinshelwood
 id: "9964"
-title: "The evolution of naked ALM with Pagelines DMS for Wordpress"
-date: "2013-08-27"
-categories:
-  - "news-and-reviews"
-tags:
-  - "css"
-  - "dms"
-  - "multisite"
-  - "pagelines"
-  - "theme"
-  - "wordpress"
-coverImage: "metro-pagelines-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress"
-
+slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
   - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
+tags:
+  - css
+  - dms
+  - multisite
+  - pagelines
+  - theme
+  - wordpress
+categories:
+  - news-and-reviews
+preview: metro-pagelines-11-11.png
 ---
 
 The evolution of naked ALM with Pagelines DMS for Wordpress is a story of successful change. All you have to do is learn to compromise and aspire to the easy 80%.

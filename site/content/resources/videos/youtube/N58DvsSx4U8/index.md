@@ -4,7 +4,7 @@ date: 2023-04-18T07:00:08Z
 videoId: N58DvsSx4U8
 url: /resources/videos/what-is-your-favourite-devops-consulting-outcome-
 canonicalUrl: https://www.youtube.com/watch?v=N58DvsSx4U8
-coverImage: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/N58DvsSx4U8/maxresdefault.jpg
 duration: 497
 isShort: False
 ---

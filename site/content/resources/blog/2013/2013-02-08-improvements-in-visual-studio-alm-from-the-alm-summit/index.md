@@ -1,31 +1,30 @@
 ---
+title: Improvements in Visual Studio ALM from the ALM Summit
+date: 2013-02-08
+creator: Martin Hinshelwood
 id: "9239"
-title: "Improvements in Visual Studio ALM from the ALM Summit"
-date: "2013-02-08"
-categories:
-  - "events-and-presentations"
-  - "tools-and-techniques"
-tags:
-  - "define"
-  - "dvcs"
-  - "git"
-  - "infrastructure"
-  - "kanban"
-  - "modern-alm"
-  - "operate"
-  - "practices"
-  - "test-hub"
-  - "tfs2012-2"
-  - "tools"
-  - "wit-tagging"
-coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "improvements-in-visual-studio-alm-from-the-alm-summit"
-
+slug: improvements-in-visual-studio-alm-from-the-alm-summit
 aliases:
   - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
+tags:
+  - define
+  - dvcs
+  - git
+  - infrastructure
+  - kanban
+  - modern-alm
+  - operate
+  - practices
+  - test-hub
+  - tfs2012-2
+  - tools
+  - wit-tagging
+categories:
+  - events-and-presentations
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 ---
 
 There were many new improvements in Visual Studio ALM that were announced at this years ALM Summit event that I can only pick a few to highlight as my favourites. [Brian Harry did the keynote](http://channel9.msdn.com/Events/ALM-Summit/ALM-Summit-3/Building-an-Engineering-Organization-for-Continuous-Delivery) on the second day and almost immediately announced Visual Studio 2012.2 CTP 2  and a bunch of new features some of which were made available in TF Service ([http://tfs.visualstudio.com](http://tfs.visualstudio.com)) immediately.

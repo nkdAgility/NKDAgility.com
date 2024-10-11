@@ -4,7 +4,7 @@ date: 2023-11-21T07:00:21Z
 videoId: _WplvWtaxtQ
 url: /resources/videos/why-do-you-think-the-psm-immersive-learning-experience-is-a-great-fit-for-aspiring-scrum-masters
 canonicalUrl: https://www.youtube.com/watch?v=_WplvWtaxtQ
-coverImage: https://i.ytimg.com/vi/_WplvWtaxtQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_WplvWtaxtQ/maxresdefault.jpg
 duration: 130
 isShort: False
 ---

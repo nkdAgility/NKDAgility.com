@@ -4,7 +4,7 @@ date: 2023-06-30T07:00:18Z
 videoId: uYm_wb1sHJE
 url: /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
 canonicalUrl: https://www.youtube.com/watch?v=uYm_wb1sHJE
-coverImage: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/uYm_wb1sHJE/maxresdefault.jpg
 duration: 158
 isShort: False
 ---

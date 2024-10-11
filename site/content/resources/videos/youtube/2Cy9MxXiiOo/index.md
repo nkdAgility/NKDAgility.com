@@ -4,7 +4,7 @@ date: 2023-05-31T11:00:01Z
 videoId: 2Cy9MxXiiOo
 url: /resources/videos/what-is-a-sprint-goal-
 canonicalUrl: https://www.youtube.com/watch?v=2Cy9MxXiiOo
-coverImage: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2Cy9MxXiiOo/maxresdefault.jpg
 duration: 47
 isShort: True
 ---

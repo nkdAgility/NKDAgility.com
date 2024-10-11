@@ -1,27 +1,26 @@
 ---
+title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
+date: 2012-12-31
+creator: Martin Hinshelwood
 id: "9196"
-title: "TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration"
-date: "2012-12-31"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "puzzles"
-  - "tf400432"
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tools"
-coverImage: "metro-problem-icon-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration"
-
+slug: tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
 aliases:
   - /blog/tfs-2012-update-1-tf400432-we-were-unable-to-connect-to-the-sharepoint-central-administration
+tags:
+  - configuration
+  - infrastructure
+  - puzzles
+  - tf400432
+  - tfs
+  - tfs2012
+  - tfs2012-1
+  - tools
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: metro-problem-icon-3-3.png
 ---
 
 When running the upgrade from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 you get a TF400432 error stating that the Team Foundation Server configuration was unable to connect to SharePoint administration site.

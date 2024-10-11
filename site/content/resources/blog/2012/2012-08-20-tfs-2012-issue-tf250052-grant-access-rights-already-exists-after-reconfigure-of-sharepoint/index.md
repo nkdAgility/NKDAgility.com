@@ -1,22 +1,21 @@
 ---
-id: "7247"
 title: "TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint"
-date: "2012-08-20"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "sharepoint"
-  - "tf250052"
-  - "tfs2012"
-coverImage: "metro-problem-icon-2-2.png"
-author: "MrHinsh"
+date: 2012-08-20
+creator: Martin Hinshelwood
+id: "7247"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint"
-
+slug: tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 aliases:
   - /blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
+tags:
+  - puzzles
+  - sharepoint
+  - tf250052
+  - tfs2012
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-2-2.png
 ---
 
 If for some reason you need to re-install SharePoint 2010 as part of your TFS deployment you may get a “TF250052: Grant access rights already exists for the following Team Foundation Server URL: [http://tfs01:8080/tfs](http://tfs01:8080/tfs). You should modify the existing access” but you don’t see anything in the existing list!

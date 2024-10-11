@@ -2,7 +2,7 @@
 id: "51110"
 title: "Change is easier with a friend: Buy 1, Get 1 FREE!"
 date: "2024-01-11"
-coverImage: "naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg"
+preview: "naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single
@@ -36,8 +36,6 @@ _P.S. Hurry, the exclusive 20% discount offer is valid for a limited time only! 
 **Martin Hinshelwood** Professional Scrum Trainer, Professional Kanban Trainer, & Microsoft MVP: DevOps
 
 naked Agility with Martin Hinshelwood | [https://nkdagility.com](https://nkdagility.com/) +44 7493 404 468| [https://wa.me/447493404468](https://wa.me/447493404468)
-
-
 
 ---
 

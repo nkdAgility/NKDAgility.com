@@ -1,24 +1,23 @@
 ---
-id: "11361"
 title: "Big Scrum: All you need and not enough"
-date: "2015-07-01"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "ndc"
-  - "scaled-agile"
-  - "scaled-professional-scrum"
-  - "scrum"
-  - "scrum-at-scale"
-coverImage: "clip_image003-3-3.png"
-author: "MrHinsh"
+date: 2015-07-01
+creator: Martin Hinshelwood
+id: "11361"
 layout: blog
 resourceType: blog
-slug: "big-scrum-all-you-need-and-not-enough"
-
+slug: big-scrum-all-you-need-and-not-enough
 aliases:
   - /blog/big-scrum-all-you-need-and-not-enough
+tags:
+  - agile
+  - ndc
+  - scaled-agile
+  - scaled-professional-scrum
+  - scrum
+  - scrum-at-scale
+categories:
+  - people-and-process
+preview: clip_image003-3-3.png
 ---
 
 I was in Norway for NDC Oslo 2015 and I was there to talk about "Big Scrum: All you need and not enough" which is a kind of oxymoron as it really is enough, you just need to apply the values and principals at scale. I tried to cover what for me is a total 100% requirement for Scale.

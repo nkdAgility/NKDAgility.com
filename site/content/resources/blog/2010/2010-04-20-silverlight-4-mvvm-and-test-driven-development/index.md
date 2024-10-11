@@ -1,26 +1,25 @@
 ---
+title: Silverlight 4, MVVM and Test-Driven Development
+date: 2010-04-20
+creator: Martin Hinshelwood
 id: "49"
-title: "Silverlight 4, MVVM and Test-Driven Development"
-date: "2010-04-20"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "mvvm"
-  - "patterns"
-  - "silverlight"
-  - "ssw"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "silverlight-4-mvvm-and-test-driven-development"
-
+slug: silverlight-4-mvvm-and-test-driven-development
 aliases:
   - /blog/silverlight-4-mvvm-and-test-driven-development
+tags:
+  - code
+  - mvvm
+  - patterns
+  - silverlight
+  - ssw
+  - tools
+  - visual-studio
+  - vs2010
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2010-128-link-2-2.png
 ---
 
 ![622512953[1]](images/68e63ada9c60_D045-6225129531_-1-1.jpg)

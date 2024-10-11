@@ -4,7 +4,7 @@ date: 2024-08-17T19:03:52Z
 videoId: 220tyMrhSFE
 url: /resources/videos/kanban-principles
 canonicalUrl: https://www.youtube.com/watch?v=220tyMrhSFE
-coverImage: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/220tyMrhSFE/maxresdefault.jpg
 duration: 49
 isShort: True
 ---

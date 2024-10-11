@@ -4,7 +4,7 @@ date: 2023-03-22T07:00:17Z
 videoId: nTxn_izPBFQ
 url: /resources/videos/how-good-is-the-pspo-a-course-in-helping-determine-product-direction-
 canonicalUrl: https://www.youtube.com/watch?v=nTxn_izPBFQ
-coverImage: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/nTxn_izPBFQ/maxresdefault.jpg
 duration: 378
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-08-11T22:00:33Z
 videoId: m4KNGw5p4Go
 url: /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
 canonicalUrl: https://www.youtube.com/watch?v=m4KNGw5p4Go
-coverImage: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/m4KNGw5p4Go/maxresdefault.jpg
 duration: 269
 isShort: False
 ---

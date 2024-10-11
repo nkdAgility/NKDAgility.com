@@ -19,7 +19,7 @@ videos:
   - title: Overview of The Scrum Framework with Martin Hinshelwood
     embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -143,7 +143,6 @@ The Nexus Daily Scrum is not the only time Scrum Teams in the Nexus are allowed 
 
 The Nexus Sprint Review is held at the end of the Sprint to provide feedback on the done Integrated Increment that the Nexus has built over the Sprint and determine future adaptations.
 
-  
 Since the entire Integrated Increment is the focus for capturing feedback from stakeholders, a Nexus Sprint Review replaces individual Scrum Team Sprint Reviews. During the event, the Nexus presents the results of their work to key stakeholders and progress toward the Product Goal is discussed, although it may not be possible to show all completed work in detail. Based on this information, attendees collaborate on what the Nexus should do to address the feedback. The Product Backlog may be adjusted to reflect these discussions.
 
 ## Nexus Sprint Retrospective

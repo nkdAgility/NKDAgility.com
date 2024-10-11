@@ -4,7 +4,7 @@ date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
-coverImage: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
 isShort: False
 ---

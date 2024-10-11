@@ -1,17 +1,16 @@
 ---
+title: Stuck with Vista?
+date: 2009-05-26
+creator: Martin Hinshelwood
 id: "107"
-title: "Stuck with Vista?"
-date: "2009-05-26"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-7-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "stuck-with-vista"
-
+slug: stuck-with-vista
 aliases:
   - /blog/stuck-with-vista
+tags:
+  - tools
+preview: nakedalm-logo-128-link-7-1.png
 ---
 
 If, like me, you are stuck with the old and decrepit version of Windows that is Vista SP1 at work then you may be interested in Service Pack 2 which became available on the MS Download site today.

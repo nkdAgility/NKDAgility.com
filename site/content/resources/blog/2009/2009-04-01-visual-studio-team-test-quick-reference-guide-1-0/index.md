@@ -1,18 +1,17 @@
 ---
+title: Visual Studio Team Test Quick Reference Guide 1.0
+date: 2009-04-01
+creator: Martin Hinshelwood
 id: "133"
-title: "Visual Studio Team Test Quick Reference Guide 1.0"
-date: "2009-04-01"
-tags:
-  - "testing"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-team-test-quick-reference-guide-1-0"
-
+slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
   - /blog/visual-studio-team-test-quick-reference-guide-1-0
+tags:
+  - testing
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you are in any way involved in or thinking bout Testing code, Websites or Web Services then you should have a look at the [VSTT Quick Reference Guide 1.0](http://vstt2008qrg.codeplex.com/) which the [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") Rangers team has published on [CodePlex](http://www.codeplex.com "CodePlex").

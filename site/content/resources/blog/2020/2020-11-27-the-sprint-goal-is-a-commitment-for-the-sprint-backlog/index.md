@@ -1,19 +1,18 @@
 ---
+title: The Sprint Goal is a commitment for the Sprint Backlog
+date: 2020-11-27
+creator: Martin Hinshelwood
 id: "45088"
-title: "The Sprint Goal is a commitment for the Sprint Backlog"
-date: "2020-11-27"
-categories:
-  - "transparency-commitment"
-tags:
-  - "sprint-goal"
-coverImage: "naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-sprint-goal-is-a-commitment-for-the-sprint-backlog"
-
+slug: the-sprint-goal-is-a-commitment-for-the-sprint-backlog
 aliases:
   - /blog/the-sprint-goal-is-a-commitment-for-the-sprint-backlog
+tags:
+  - sprint-goal
+categories:
+  - transparency-commitment
+preview: naked-Agility-Scrum-Framework-Sprint-Goal-1-1.jpg
 ---
 
 In [the 2020 Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) Ken and Jeff augmented the idea of the [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal). The [](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal)[Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) is a commitment to ensure transparency and focus against progress during a Sprint.

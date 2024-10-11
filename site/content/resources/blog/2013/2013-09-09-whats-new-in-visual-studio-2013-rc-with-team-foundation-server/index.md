@@ -1,22 +1,21 @@
 ---
+title: What's new in Visual Studio 2013 and TFS 2013 RC
+date: 2013-09-09
+creator: Martin Hinshelwood
 id: "10019"
-title: "What's new in Visual Studio 2013 and TFS 2013 RC"
-date: "2013-09-09"
-categories:
-  - "products-and-books"
-  - "tools-and-techniques"
-tags:
-  - "tfs"
-  - "tfs-2013"
-  - "whats-new"
-coverImage: "nakedalm-experts-visual-studio-alm-13-13.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "whats-new-in-visual-studio-2013-rc-with-team-foundation-server"
-
+slug: whats-new-in-visual-studio-2013-rc-with-team-foundation-server
 aliases:
   - /blog/whats-new-in-visual-studio-2013-rc-with-team-foundation-server
+tags:
+  - tfs
+  - tfs-2013
+  - whats-new
+categories:
+  - products-and-books
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-13-13.png
 ---
 
 As you may have noticed the Visual Studio team has just put out a Release Candidate to the log awaited Visual Studio 2013 and TFS 2013.

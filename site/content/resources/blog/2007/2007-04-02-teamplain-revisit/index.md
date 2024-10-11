@@ -1,15 +1,14 @@
 ---
+title: TeamPlain - Revisit
+date: 2007-04-02
+creator: Martin Hinshelwood
 id: "419"
-title: "TeamPlain - Revisit"
-date: "2007-04-02"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "teamplain-revisit"
-
+slug: teamplain-revisit
 aliases:
   - /blog/teamplain-revisit
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I ran into some problems that I blogged on in my [TeamPlain - Install and initial views](http://team.worldnet-dev.ml.com/workitem.aspx?id=185) post. I have got a work around for the long project name problem, but it only works when you really daft project names like ours:

@@ -1,23 +1,22 @@
 ---
+title: What do you do with a Work Item History Not Found Conflict Type Details
+date: 2011-06-04
+creator: Martin Hinshelwood
 id: "3460"
-title: "What do you do with a Work Item History Not Found Conflict Type Details"
-date: "2011-06-04"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-do-you-do-with-a-work-item-history-not-found-conflict-type-details"
-
+slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
   - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
+tags:
+  - code
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-4-4.png
 ---
 
 ![](images/image_thumb-1-1.png)

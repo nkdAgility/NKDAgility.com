@@ -4,7 +4,7 @@ date: 2024-07-26T06:45:00Z
 videoId: 5H9rOGhTB88
 url: /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
 canonicalUrl: https://www.youtube.com/watch?v=5H9rOGhTB88
-coverImage: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5H9rOGhTB88/maxresdefault.jpg
 duration: 488
 isShort: False
 ---

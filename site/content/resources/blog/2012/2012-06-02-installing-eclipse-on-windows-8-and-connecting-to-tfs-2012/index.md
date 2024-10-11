@@ -1,26 +1,25 @@
 ---
+title: Installing Eclipse on Windows 8 and connecting to TFS 2012
+date: 2012-06-02
+creator: Martin Hinshelwood
 id: "5415"
-title: "Installing Eclipse on Windows 8 and connecting to TFS 2012"
-date: "2012-06-02"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "eclipse"
-  - "infrastructure"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tfs2012"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-12-12.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-eclipse-on-windows-8-and-connecting-to-tfs-2012"
-
+slug: installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
 aliases:
   - /blog/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012
+tags:
+  - configuration
+  - eclipse
+  - infrastructure
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tfs2012
+  - tools
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-12-12.png
 ---
 
 I will be running a bunch of demos on a couple of weeks with TFS & Eclipse working together. Although I have a cloud instance that I can connect to, what about when I have no network.

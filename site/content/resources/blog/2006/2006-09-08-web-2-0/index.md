@@ -1,18 +1,17 @@
 ---
+title: Web 2.0
+date: 2006-09-08
+creator: Martin Hinshelwood
 id: "463"
-title: "Web 2.0"
-date: "2006-09-08"
-tags:
-  - "off-topic"
-  - "web"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "web-2-0"
-
+slug: web-2-0
 aliases:
   - /blog/web-2-0
+tags:
+  - off-topic
+  - web
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Over the last wee while I have been seeing a lot of talk of “Web 2.0” and I wondered what the hell it was! Was it .NET related? No. (Well kind of) So I set out on the onerous task of finding out. So I Googled it, and low and behold, the first result!

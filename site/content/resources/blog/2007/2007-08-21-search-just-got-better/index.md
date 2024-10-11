@@ -1,20 +1,19 @@
 ---
+title: Search just got better
+date: 2007-08-21
+creator: Martin Hinshelwood
 id: "323"
-title: "Search just got better"
-date: "2007-08-21"
-categories:
-  - "products-and-books"
-tags:
-  - "dyslexia"
-  - "live"
-coverImage: "nakedalm-logo-128-link-6-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "search-just-got-better"
-
+slug: search-just-got-better
 aliases:
   - /blog/search-just-got-better
+tags:
+  - dyslexia
+  - live
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-6-1.png
 ---
 
 I just had to pick my jaw up off the floor. What made me gawk! [Tafiti](http://www.tafiti.com/) that's what.

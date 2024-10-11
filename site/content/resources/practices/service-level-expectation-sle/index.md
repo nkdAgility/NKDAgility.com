@@ -9,7 +9,7 @@ recommendedContent:
   - practices/Service-Level-Expectation-SLE.html
   - practices/Service-Level-Expectation-SLE/
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

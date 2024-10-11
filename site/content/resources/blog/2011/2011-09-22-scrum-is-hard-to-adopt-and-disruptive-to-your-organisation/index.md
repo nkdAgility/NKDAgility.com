@@ -1,28 +1,27 @@
 ---
+title: Scrum is hard to adopt and disruptive to your organisation
+date: 2011-09-22
+creator: Martin Hinshelwood
 id: "3789"
-title: "Scrum is hard to adopt and disruptive to your organisation"
-date: "2011-09-22"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "define"
-  - "develop"
-  - "nwcadence"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "pst"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "scrum-is-hard-to-adopt-and-disruptive-to-your-organisation"
-
+slug: scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
 aliases:
   - /blog/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation
+tags:
+  - agile
+  - define
+  - develop
+  - nwcadence
+  - operate
+  - people
+  - practices
+  - process
+  - pst
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-4-4.png
 ---
 
 Before the "[Professional Scrum Foundations](http://www.scrum.org/professionalscrumfoundations/)" course ever existed I was tasked with delivering a practical Scrum foundation course for our customers. I came up with a 2 day “Scrum Foundation” course that included lots of practical exercises and leveraged the existing [Scrum Open](http://www.scrum.org/scrumopen/) exam. But why would you want it and is that all you need?

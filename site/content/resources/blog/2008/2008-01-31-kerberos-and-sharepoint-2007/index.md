@@ -1,27 +1,26 @@
 ---
+title: Kerberos and SharePoint 2007
+date: 2008-01-31
+creator: Martin Hinshelwood
 id: "254"
-title: "Kerberos and SharePoint 2007"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "tfs"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "kerberos-and-sharepoint-2007"
-
+slug: kerberos-and-sharepoint-2007
 aliases:
   - /blog/kerberos-and-sharepoint-2007
+tags:
+  - configuration
+  - infrastructure
+  - moss2007
+  - sharepoint
+  - sp2007
+  - spf2010
+  - tfs
+  - tools
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 If you want to use Kerberos authentication and not NTLM with SharePoint then there are some extra tasks that you need to get someone with Domain Admin privileges to perform. For EVERY dns / port combination a SPN needs to be added to Active Directory to tell it that it  is allowed to use Kerberos to authenticate a specific account or server to that URL. In a production environment with a farm of multiple server you will need to use the account option.

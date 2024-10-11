@@ -1,25 +1,24 @@
 ---
-id: "10746"
 title: "Agility and Windows 10: Upgrading my Surface Pro 2"
-date: "2014-10-02"
-categories:
-  - "install-and-configuration"
-  - "measure-and-learn"
-  - "news-and-reviews"
-tags:
-  - "agility"
-  - "dell-venue-8"
-  - "surface-2-pro"
-  - "windows"
-  - "windows-10"
-coverImage: "nakedalm-windows-logo-12-12.png"
-author: "MrHinsh"
+date: 2014-10-02
+creator: Martin Hinshelwood
+id: "10746"
 layout: blog
 resourceType: blog
-slug: "agility-windows-10-upgrading-surface-pro-2"
-
+slug: agility-windows-10-upgrading-surface-pro-2
 aliases:
   - /blog/agility-windows-10-upgrading-surface-pro-2
+tags:
+  - agility
+  - dell-venue-8
+  - surface-2-pro
+  - windows
+  - windows-10
+categories:
+  - install-and-configuration
+  - measure-and-learn
+  - news-and-reviews
+preview: nakedalm-windows-logo-12-12.png
 ---
 
 You know me, I am always willing to take a little risk to get some gain. As such I will be upgrading my Surface Pro 2 to Windows 10 Technical Preview on the train on the way back from teaching the Professional Scrum Foundations in Cheltenham.

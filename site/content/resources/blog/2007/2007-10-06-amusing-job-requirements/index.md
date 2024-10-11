@@ -1,21 +1,20 @@
 ---
+title: Amusing job requirements
+date: 2007-10-06
+creator: Martin Hinshelwood
 id: "301"
-title: "Amusing job requirements"
-date: "2007-10-06"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "amusing-job-requirements"
-
+slug: amusing-job-requirements
 aliases:
   - /blog/amusing-job-requirements
+tags:
+  - fail
+  - visual-studio
+  - vs2005
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I recently received a job spec that had the most ridiculous "Required" skill set for an "Analyst Programmer". I though I should share it with you as I have just spent the last 10 minutes cleaning tea out of my keyboard with cotton bud's. Here is how it was presented in the email:

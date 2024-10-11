@@ -4,7 +4,7 @@ date: 2023-06-28T11:00:24Z
 videoId: h5TG3MbP0QY
 url: /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
 canonicalUrl: https://www.youtube.com/watch?v=h5TG3MbP0QY
-coverImage: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

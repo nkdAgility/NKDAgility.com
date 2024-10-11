@@ -1,20 +1,19 @@
 ---
-id: "50083"
 title: "The Definition of Done: Ensuring Quality without Compromising Value"
-date: "2023-09-27"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg"
-author: "MrHinsh"
+date: 2023-09-27
+creator: Martin Hinshelwood
+id: "50083"
 layout: blog
 resourceType: blog
-slug: "the-definition-of-done-ensuring-quality-without-compromising-value"
-
+slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
   - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
+tags:
+  - featured
+  - homepage
+categories:
+  - agility
+preview: NKDAgility-technically-DOD-Not-AC-3-1-1-1.jpg
 ---
 
 The Definition of Done (DoD) is a sacrosanct measure of quality, ensuring that every piece of work meets the standards necessary for release. On the other hand, acceptance criteria focus on the work's content. Merging the two can risk the integrity of a working, usable product. This article delves into the nuances of maintaining the sanctity of the DoD while ensuring the delivery of valuable increments.

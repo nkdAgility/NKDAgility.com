@@ -1,26 +1,25 @@
 ---
-id: "11946"
 title: "Scrum Tapas: Scrum and Continuous Delivery"
-date: "2017-06-28"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "continious-delivery"
-  - "continious-value-delivery"
-  - "developers"
-  - "increment"
-  - "scrum"
-  - "scrum-tapas"
-  - "the-sprint"
-coverImage: "nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png"
-author: "MrHinsh"
+date: 2017-06-28
+creator: Martin Hinshelwood
+id: "11946"
 layout: blog
 resourceType: blog
-slug: "scrum-tapas-scrum-continuous-delivery"
-
+slug: scrum-tapas-scrum-continuous-delivery
 aliases:
   - /blog/scrum-tapas-scrum-continuous-delivery
+tags:
+  - continious-delivery
+  - continious-value-delivery
+  - developers
+  - increment
+  - scrum
+  - scrum-tapas
+  - the-sprint
+categories:
+  - agility
+  - devops
+preview: nkdagility-martin-hinshelwood-scrum-tapas-continious-delivery-1-1.png
 ---
 
 I get asked a lot at conferences and at customers how Scrum and Continuous Delivery can work together. The reality is that they complement each other and at the last Scrum.org F2F I sat down to make a little video on the way I think that it works.

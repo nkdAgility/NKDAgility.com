@@ -4,7 +4,7 @@ date: 2023-12-06T07:00:08Z
 videoId: BCWiKTm8hjg
 url: /resources/videos/7-virtues-of-agile-charity
 canonicalUrl: https://www.youtube.com/watch?v=BCWiKTm8hjg
-coverImage: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/BCWiKTm8hjg/maxresdefault.jpg
 duration: 162
 isShort: False
 ---

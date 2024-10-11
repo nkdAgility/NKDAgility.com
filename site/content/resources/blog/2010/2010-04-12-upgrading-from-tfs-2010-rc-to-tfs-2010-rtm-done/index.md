@@ -1,29 +1,28 @@
 ---
+title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
+date: 2010-04-12
+creator: Martin Hinshelwood
 id: "53"
-title: "Upgrading from TFS 2010 RC to TFS 2010 RTM done"
-date: "2010-04-12"
-tags:
-  - "codeproject"
-  - "sharepoint"
-  - "spf2010"
-  - "ssw"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-  - "upgrade"
-  - "visual-studio"
-  - "vs2005"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-36-36.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done"
-
+slug: upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
 aliases:
   - /blog/upgrading-from-tfs-2010-rc-to-tfs-2010-rtm-done
+tags:
+  - codeproject
+  - sharepoint
+  - spf2010
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+  - upgrade
+  - visual-studio
+  - vs2005
+  - vs2010
+preview: metro-visual-studio-2010-128-link-36-36.png
 ---
 
 ![vs2010alm](images/09437a6f5f9c_A38D-vs2010alm_-34-34.png)Today is the big day, with the Launch of Visual Studio 2010 already done in Asia, and rolling around the world towards us, we are getting ready for the RTM.
@@ -105,8 +104,6 @@ Turn your server on and wait for it to boot in anticipation of all the nice shin
 { .post-img }
 **Figure: Most of the heavy lifting is done by the Uninstaller, but make sure you have removed any of the client bits first. Specifically Visual Studio 2010 or Team Explorer 2010.**
 
-
-
 Once the uninstall is complete, this took around 5 minutes for me, you can begin the install of the RTM. Running the 64 bit OS will allow the application to use more than 2GB RAM, which while not common may be of use in heavy load situations.
 
 ![image](images/09437a6f5f9c_A38D-image_-30-24.png)  
@@ -130,8 +127,6 @@ It is worth noting that if you have a lot of builds kicking off, and hence a lot
 ![image](images/09437a6f5f9c_A38D-image_-22-15.png)  
 { .post-img }
 **Figure: Installing Microsoft .NET Framework 4 takes the most time.**
-
-
 
 ![image](images/09437a6f5f9c_A38D-image_-15-7.png)  
 { .post-img }

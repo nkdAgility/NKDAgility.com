@@ -1,21 +1,20 @@
 ---
+title: Creating a Work Item with defaults in Team Foundation Server
+date: 2013-06-24
+creator: Martin Hinshelwood
 id: "9686"
-title: "Creating a Work Item with defaults in Team Foundation Server"
-date: "2013-06-24"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "tfs"
-  - "tfs-2013"
-  - "web-access"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-work-item-with-defaults-in-team-foundation-server"
-
+slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
   - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
+tags:
+  - configuration
+  - tfs
+  - tfs-2013
+  - web-access
+categories:
+  - install-and-configuration
 ---
 
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.

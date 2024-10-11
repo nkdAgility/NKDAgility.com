@@ -4,7 +4,7 @@ date: 2024-07-31T06:45:01Z
 videoId: cGOa0rg_L-8
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
 canonicalUrl: https://www.youtube.com/watch?v=cGOa0rg_L-8
-coverImage: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/cGOa0rg_L-8/maxresdefault.jpg
 duration: 46
 isShort: True
 ---

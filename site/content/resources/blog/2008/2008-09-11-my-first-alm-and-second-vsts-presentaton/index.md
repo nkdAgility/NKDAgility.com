@@ -1,17 +1,16 @@
 ---
+title: My first ALM and second VSTS presentaton!
+date: 2008-09-11
+creator: Martin Hinshelwood
 id: "193"
-title: "My first ALM and second VSTS presentaton!"
-date: "2008-09-11"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "my-first-alm-and-second-vsts-presentaton"
-
+slug: my-first-alm-and-second-vsts-presentaton
 aliases:
   - /blog/my-first-alm-and-second-vsts-presentaton
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 It seams as if they went well! The plan of under preparing and over delivering worked a treat... Because I know the topics the lack of a prepared script allowed me to concentrate more on emparting knowlage and less on keeping to a set of arbitrary notes the go to pot as soon as the first question is asked.

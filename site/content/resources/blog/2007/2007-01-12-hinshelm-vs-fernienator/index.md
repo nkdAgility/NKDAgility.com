@@ -1,20 +1,19 @@
 ---
+title: hinshelm vs fernienator
+date: 2007-01-12
+creator: Martin Hinshelwood
 id: "443"
-title: "hinshelm vs fernienator"
-date: "2007-01-12"
-categories:
-  - "me"
-tags:
-  - "answers"
-  - "xbox"
-coverImage: "metro-xbox-360-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "hinshelm-vs-fernienator"
-
+slug: hinshelm-vs-fernienator
 aliases:
   - /blog/hinshelm-vs-fernienator
+tags:
+  - answers
+  - xbox
+categories:
+  - me
+preview: metro-xbox-360-link-2-2.png
 ---
 
 Or me vs my brother-in-law!

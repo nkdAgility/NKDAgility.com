@@ -4,7 +4,7 @@ date: 2023-05-11T12:00:02Z
 videoId: 3XsOseKG57g
 url: /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
 canonicalUrl: https://www.youtube.com/watch?v=3XsOseKG57g
-coverImage: https://i.ytimg.com/vi/3XsOseKG57g/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/3XsOseKG57g/maxresdefault.jpg
 duration: 121
 isShort: False
 ---

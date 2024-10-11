@@ -1,24 +1,23 @@
 ---
+title: MOSS SP1 Install Notes
+date: 2007-12-13
+creator: Martin Hinshelwood
 id: "277"
-title: "MOSS SP1 Install Notes"
-date: "2007-12-13"
-categories:
-  - "products-and-books"
-  - "upgrade-and-maintenance"
-tags:
-  - "infrastructure"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "moss-sp1-install-notes"
-
+slug: moss-sp1-install-notes
 aliases:
   - /blog/moss-sp1-install-notes
+tags:
+  - infrastructure
+  - sharepoint
+  - sp2007
+  - spf2010
+  - tools
+categories:
+  - products-and-books
+  - upgrade-and-maintenance
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 I thought I should create this blog as I am going along because I usually forget some critical item that gubs my server if I try it again ![smile_nerd](images/smile_nerd-2-2.gif)

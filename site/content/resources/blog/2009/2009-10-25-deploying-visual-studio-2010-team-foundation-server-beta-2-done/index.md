@@ -1,25 +1,24 @@
 ---
+title: Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done
+date: 2009-10-25
+creator: Martin Hinshelwood
 id: "81"
-title: "Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done"
-date: "2009-10-25"
-tags:
-  - "ssw"
-  - "tfs"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-  - "upgrade"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "deploying-visual-studio-2010-team-foundation-server-beta-2-done"
-
+slug: deploying-visual-studio-2010-team-foundation-server-beta-2-done
 aliases:
   - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
+tags:
+  - ssw
+  - tfs
+  - tfs2005
+  - tfs2008
+  - tfs2010
+  - tools
+  - upgrade
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 Well, nothing like hitting the ground running, my first job at SSW was to join the TFS Migration Team, it was a fun experience, let me tell you how it went.

@@ -1,25 +1,24 @@
 ---
-id: "9718"
 title: "Video: New with Visual Studio 2013: Manage portfolio backlogs to understand the scope of work"
-date: "2013-07-18"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "define"
-  - "improve"
-  - "operational"
-  - "portfolio-management"
-  - "practices"
-  - "process"
-  - "tfs-2013"
-coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
-author: "MrHinsh"
+date: 2013-07-18
+creator: Martin Hinshelwood
+id: "9718"
 layout: blog
 resourceType: blog
-slug: "video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work"
-
+slug: video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
 aliases:
   - /blog/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work
+tags:
+  - define
+  - improve
+  - operational
+  - portfolio-management
+  - practices
+  - process
+  - tfs-2013
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
 
 New with Visual Studio 2013 is the ability to manage portfolio backlogs to help you understand the scope of work that you have to do.

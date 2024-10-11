@@ -4,7 +4,7 @@ date: 2023-06-22T07:00:15Z
 videoId: MutnPwNzyXM
 url: /resources/videos/most-valuable-lesson-you-learned-as-an-agile-consultant
 canonicalUrl: https://www.youtube.com/watch?v=MutnPwNzyXM
-coverImage: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/MutnPwNzyXM/maxresdefault.jpg
 duration: 263
 isShort: False
 ---

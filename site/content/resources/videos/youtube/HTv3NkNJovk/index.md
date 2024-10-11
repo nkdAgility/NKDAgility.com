@@ -4,7 +4,7 @@ date: 2023-02-01T07:00:10Z
 videoId: HTv3NkNJovk
 url: /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
 canonicalUrl: https://www.youtube.com/watch?v=HTv3NkNJovk
-coverImage: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
 duration: 487
 isShort: False
 ---

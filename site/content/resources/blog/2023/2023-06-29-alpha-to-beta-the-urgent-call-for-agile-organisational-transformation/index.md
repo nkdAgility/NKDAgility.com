@@ -1,20 +1,19 @@
 ---
+title: The Urgent Call for Agile Organisational Transformation
+date: 2023-06-29
+creator: Martin Hinshelwood
 id: "49485"
-title: "The Urgent Call for Agile Organisational Transformation"
-date: "2023-06-29"
-categories:
-  - "organisational-change"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "1686217267121-1-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "alpha-to-beta-the-urgent-call-for-agile-organisational-transformation"
-
+slug: alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 aliases:
   - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
+tags:
+  - featured
+  - homepage
+categories:
+  - organisational-change
+preview: 1686217267121-1-1-1.jpg
 ---
 
 As we progress deeper into the dynamic landscape of the 21st century, our long-established organisations, born of the Industrial Age and infused with a DNA of strict command and control, stand on shaky ground. These organisations strut with command-and-control bravado, erecting clear hierarchies in their stable inert markets where bureaucracy reigns supreme. However, they are feeling the tremors of a rapidly evolving, technologically charged dynamic markets and are plagued by sluggish responses and missed opportunities, which are their Achilles heel in these new fast-paced markets. Not since the 1970s has the classic hierarchical model, rooted in the stagnant waters of stable markets, been a viable proposition for companies seeking to thrive in an era of unprecedented change and unpredictability. Clearly, we cannot continue to coat deep-seated hierarchical practices with a thin veneer of modern innovation and expect sustainable transformation.

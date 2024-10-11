@@ -1,19 +1,18 @@
 ---
+title: Windows Live SkyDrive Beta
+date: 2007-08-11
+creator: Martin Hinshelwood
 id: "336"
-title: "Windows Live SkyDrive Beta"
-date: "2007-08-11"
-categories:
-  - "me"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-live-skydrive-beta"
-
+slug: windows-live-skydrive-beta
 aliases:
   - /blog/windows-live-skydrive-beta
+tags:
+  - live
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I was reading Mike Tautly's post on SkyDrive so I thought I should have a look.

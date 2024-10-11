@@ -4,7 +4,7 @@ date: 2024-01-20T07:00:00Z
 videoId: 17qTGonSsbM
 url: /resources/videos/“if-you-do-not-change-direction,-you-may-end-up-where-you-are-heading-”-–-lao-tzu
 canonicalUrl: https://www.youtube.com/watch?v=17qTGonSsbM
-coverImage: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/17qTGonSsbM/maxresdefault.jpg
 duration: 312
 isShort: False
 ---

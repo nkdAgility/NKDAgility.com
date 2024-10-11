@@ -1,19 +1,18 @@
 ---
+title: Mobile Device Center
+date: 2007-04-04
+creator: Martin Hinshelwood
 id: "417"
-title: "Mobile Device Center"
-date: "2007-04-04"
-categories:
-  - "products-and-books"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mobile-device-center"
-
+slug: mobile-device-center
 aliases:
   - /blog/mobile-device-center
+tags:
+  - windows-mobile-6
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 The one thing I do not like about the mobile device center is that it can't sync with the built in windows vista components (Contacts, Calendar and email). This is, I think, a deficiency in the product.

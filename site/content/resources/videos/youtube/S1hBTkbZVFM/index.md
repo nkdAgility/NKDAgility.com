@@ -4,7 +4,7 @@ date: 2023-11-20T11:00:30Z
 videoId: S1hBTkbZVFM
 url: /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
 canonicalUrl: https://www.youtube.com/watch?v=S1hBTkbZVFM
-coverImage: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/S1hBTkbZVFM/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

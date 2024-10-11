@@ -4,7 +4,7 @@ date: 2023-08-04T07:00:03Z
 videoId: 5s9vi8PiFM4
 url: /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 canonicalUrl: https://www.youtube.com/watch?v=5s9vi8PiFM4
-coverImage: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
 duration: 47
 isShort: True
 ---

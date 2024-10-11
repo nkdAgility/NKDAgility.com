@@ -4,7 +4,7 @@ date: 2023-07-11T14:00:32Z
 videoId: faoWuCkKC0U
 url: /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
 canonicalUrl: https://www.youtube.com/watch?v=faoWuCkKC0U
-coverImage: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/faoWuCkKC0U/maxresdefault.jpg
 duration: 46
 isShort: True
 ---

@@ -4,7 +4,7 @@ date: 2023-03-06T07:00:14Z
 videoId: QGXlCm_B5zA
 url: /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
-coverImage: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
 isShort: False
 ---

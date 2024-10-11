@@ -4,7 +4,7 @@ date: 2023-02-20T07:00:10Z
 videoId: XOaAKJpfHIo
 url: /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
 canonicalUrl: https://www.youtube.com/watch?v=XOaAKJpfHIo
-coverImage: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XOaAKJpfHIo/maxresdefault.jpg
 duration: 186
 isShort: False
 ---

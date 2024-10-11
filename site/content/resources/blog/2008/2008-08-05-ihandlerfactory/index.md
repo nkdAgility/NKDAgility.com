@@ -1,20 +1,19 @@
 ---
+title: IHandlerFactory
+date: 2008-08-05
+creator: Martin Hinshelwood
 id: "214"
-title: "IHandlerFactory"
-date: "2008-08-05"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ihandlerfactory"
-
+slug: ihandlerfactory
 aliases:
   - /blog/ihandlerfactory
+tags:
+  - code
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 As you have probably noticed I have moved URL’s (sorry to all you feed readers with the duplicate entries). The reason I moved my blog was to free up the [http://hinshelwood.com](http://hinshelwood.com) URL for use as a personal site that then links to my blog. When you do this you need to consider all of your current users, bookmarks, feeds, links and all that malarkey.

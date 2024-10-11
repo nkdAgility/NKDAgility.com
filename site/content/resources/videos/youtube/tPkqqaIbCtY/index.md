@@ -4,7 +4,7 @@ date: 2023-12-11T11:00:47Z
 videoId: tPkqqaIbCtY
 url: /resources/videos/-shorts-7-virtues-of-agile-kindness
 canonicalUrl: https://www.youtube.com/watch?v=tPkqqaIbCtY
-coverImage: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
 isShort: True
 ---

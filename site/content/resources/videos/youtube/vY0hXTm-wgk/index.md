@@ -4,7 +4,7 @@ date: 2022-09-09T14:17:04Z
 videoId: vY0hXTm-wgk
 url: /resources/videos/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
 canonicalUrl: https://www.youtube.com/watch?v=vY0hXTm-wgk
-coverImage: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vY0hXTm-wgk/maxresdefault.jpg
 duration: 142
 isShort: False
 ---

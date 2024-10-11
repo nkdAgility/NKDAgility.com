@@ -4,7 +4,7 @@ date: 2023-04-04T07:00:16Z
 videoId: sKYVNHcf1jg
 url: /resources/videos/what-was-your-worst-day-as-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=sKYVNHcf1jg
-coverImage: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/sKYVNHcf1jg/maxresdefault.jpg
 duration: 280
 isShort: False
 ---

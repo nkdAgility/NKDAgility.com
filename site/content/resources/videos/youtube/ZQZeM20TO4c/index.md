@@ -4,7 +4,7 @@ date: 2023-05-02T09:30:14Z
 videoId: ZQZeM20TO4c
 url: /resources/videos/agile-leader-vs-traditional-manager
 canonicalUrl: https://www.youtube.com/watch?v=ZQZeM20TO4c
-coverImage: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
 isShort: False
 ---

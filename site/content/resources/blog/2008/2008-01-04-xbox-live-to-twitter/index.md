@@ -1,19 +1,18 @@
 ---
+title: Xbox Live To Twitter
+date: 2008-01-04
+creator: Martin Hinshelwood
 id: "271"
-title: "Xbox Live To Twitter"
-date: "2008-01-04"
-categories:
-  - "me"
-tags:
-  - "xbox"
-coverImage: "metro-xbox-360-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "xbox-live-to-twitter"
-
+slug: xbox-live-to-twitter
 aliases:
   - /blog/xbox-live-to-twitter
+tags:
+  - xbox
+categories:
+  - me
+preview: metro-xbox-360-link-1-1.png
 ---
 
 I had been trying to find an application that provided updates to twitter from my Xbox. There is such an application written by [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx), but I could not get it to work. I tried everything and ended up decompiling the application to see what was wrong. Well, it seamed that the guts of the application was missing! The source code has all of the UI elements, but none of the bit to do the updates.

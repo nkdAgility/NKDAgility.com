@@ -1,17 +1,16 @@
 ---
+title: Interview with Scottish Developers
+date: 2009-10-20
+creator: Martin Hinshelwood
 id: "85"
-title: "Interview with Scottish Developers"
-date: "2009-10-20"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "interview-with-scottish-developers"
-
+slug: interview-with-scottish-developers
 aliases:
   - /blog/interview-with-scottish-developers
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the chairman of [Scottish Developers](http://scottishdevelopers.com) about doing an interview with them. Colin has been pestering me for a while now to do some speaking engagements, but I am still not comfortable with that! (Yes, I am too chicken), so I capitulated…

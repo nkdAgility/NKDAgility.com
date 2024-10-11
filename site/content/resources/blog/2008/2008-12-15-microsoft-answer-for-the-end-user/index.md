@@ -1,17 +1,16 @@
 ---
+title: Microsoft Answer for the end-user
+date: 2008-12-15
+creator: Martin Hinshelwood
 id: "151"
-title: "Microsoft Answer for the end-user"
-date: "2008-12-15"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-answer-for-the-end-user"
-
+slug: microsoft-answer-for-the-end-user
 aliases:
   - /blog/microsoft-answer-for-the-end-user
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Up until now the only avenue for your average Vista user for support was to trawl the MSDN Forums, Technet Forums and the Support site for some elusive piece of information that is buried among all that technical BS that we teckies like to call help.

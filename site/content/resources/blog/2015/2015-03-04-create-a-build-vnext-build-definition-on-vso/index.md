@@ -1,34 +1,33 @@
 ---
+title: Create a Build vNext build definition
+date: 2015-03-04
+creator: Martin Hinshelwood
 id: "11047"
-title: "Create a Build vNext build definition"
-date: "2015-03-04"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "android"
-  - "build"
-  - "cmake"
-  - "jake"
-  - "msbuild"
-  - "powershell"
-  - "preview"
-  - "tf-build"
-  - "tfs"
-  - "tfs-2015"
-  - "vnext"
-  - "visual-studio"
-  - "vsteamservices"
-  - "vstest"
-  - "xcode"
-coverImage: "nakedalm-experts-visual-studio-alm-26-26.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "create-a-build-vnext-build-definition-on-vso"
-
+slug: create-a-build-vnext-build-definition-on-vso
 aliases:
   - /blog/create-a-build-vnext-build-definition-on-vso
+tags:
+  - android
+  - build
+  - cmake
+  - jake
+  - msbuild
+  - powershell
+  - preview
+  - tf-build
+  - tfs
+  - tfs-2015
+  - vnext
+  - visual-studio
+  - vsteamservices
+  - vstest
+  - xcode
+categories:
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-26-26.png
 ---
 
 I am going to show how to create a Build vNext build definition on VSO. Microsoft recently announced the creation of a brand new build system for TFS and VSO at the Connect event last year. This new build system will eventually replace the current one and be much more modular and friendly. Happily I am in the early adopter program and the product team just made an early alfa of the service available for that program and I have been giving it a spin.
@@ -60,43 +59,43 @@ This has not yet been saved, so the first thing I am going to do is save my dete
 Back at the "Task" list you can click "Add new task" to get a list of all of the available tasks. This is probably pretty close to the list of tasks that we will see initially when the preview becomes more generally available and it is extensive:
 
 - **Android Build** - Run an Android build using Gradle and optionally start the emulator for unit tests.
-      ![clip_image005](images/clip_image005-5-5.png "clip_image005")
+  ![clip_image005](images/clip_image005-5-5.png "clip_image005")
   { .post-img }
 - **CMake** - Cross platform build system. I have never used it but it really does sound handy.
-      ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+  ![clip_image006](images/clip_image006-6-6.png "clip_image006")
   { .post-img }
 - **Cmd Script** - Run a Windows cmd or batch script and optionally allow it to change the environment
-      ![clip_image007](images/clip_image007-7-7.png "clip_image007")
+  ![clip_image007](images/clip_image007-7-7.png "clip_image007")
   { .post-img }
 - **Jake** - Javascript build tool, similar to Make or Rake. Built to work with Node.js
-      ![clip_image008](images/clip_image008-8-8.png "clip_image008")
+  ![clip_image008](images/clip_image008-8-8.png "clip_image008")
   { .post-img }
 - **MSBuild** - Build with MSBuild; In the pre-2010 builds everything was done in MSBuild and in 2010+ (XAML Builds) these build types were only supported in the legacy build template, "UpgradeTemnplate.xaml". You do not need Visual Studio installed to execute this, but your compilation might.
-      ![clip_image009](images/clip_image009-9-9.png "clip_image009")
+  ![clip_image009](images/clip_image009-9-9.png "clip_image009")
   { .post-img }
 - **Visual Studio Build** - This build is executed through Visual Studio and should run in the same way that it would locally.
-      ![clip_image010](images/clip_image010-10-10.png "clip_image010")
+  ![clip_image010](images/clip_image010-10-10.png "clip_image010")
   { .post-img }
 - **VSTest** - You can run tests using the Visual Studio Test Runner. This runner will load tests from any framework that has a test adapter so it supports; MS Test, jUnit, xUnit, mbUnit, and others.
-      ![clip_image011](images/clip_image011-11-11.png "clip_image011")
+  ![clip_image011](images/clip_image011-11-11.png "clip_image011")
   { .post-img }
 - **Xcode Build** - This task allows you to build an Xcode project with the xcodebuild tool. Microsoft has had a new strategy for a while to support everyone else's stuff and as they release new versions of their products is it becoming more and more obvious that this is no longer a case of lip service.
-      ![clip_image012](images/clip_image012-12-12.png "clip_image012")
+  ![clip_image012](images/clip_image012-12-12.png "clip_image012")
   { .post-img }
 - **PowerShell** - Need to run a PowerShell? In TFS 2013 the build workflows were simplified to allow PowerShell both post and pre build as well as post and pre-test. Now you can insert a task any place you like in the build process. PowerShell will let you do anything from moving files around to manipulating the build numbers.
-      ![clip_image013](images/clip_image013-13-13.png "clip_image013")
+  ![clip_image013](images/clip_image013-13-13.png "clip_image013")
   { .post-img }
 - **Process Runner** - Is the logic that you need to run wrapped up in an executable? Use the Process Runner to execute any executable process.
-      ![clip_image014](images/clip_image014-14-14.png "clip_image014")
+  ![clip_image014](images/clip_image014-14-14.png "clip_image014")
   { .post-img }
 - **Azure Cloud Service Deployment via PowerShell** – Just like the old Xaml templates to do the same job here is a pre-configured PowerShell command to do the deployment. You can always create a customer PowerShell is you need it, but this is a helper.
-      ![clip_image015](images/clip_image015-15-15.png "clip_image015")
+  ![clip_image015](images/clip_image015-15-15.png "clip_image015")
   { .post-img }
 - **Azure PowerShell** – Do you ever feel the need to run some PowerShell on one of your servers as part of a build? I don't, as I use Release Management for environmental bits, but if you have an immature build process you may need this.
-      ![clip_image016](images/clip_image016-16-16.png "clip_image016")
+  ![clip_image016](images/clip_image016-16-16.png "clip_image016")
   { .post-img }
 - **Azure Web Site Deployment via PowerShell** – I just want to deploy my website to azure! Well here you you go.
-      ![clip_image017](images/clip_image017-17-17.png "clip_image017")
+  ![clip_image017](images/clip_image017-17-17.png "clip_image017")
   { .post-img }
 
 This is just the list that is available in the preview, which is alfa. The plan, as I currently understand it, is to make this extensible so that you can create any sort of tasks that you like and have them listed in the system. At the moment however there is no way to do this and I am not sure when this will happen.

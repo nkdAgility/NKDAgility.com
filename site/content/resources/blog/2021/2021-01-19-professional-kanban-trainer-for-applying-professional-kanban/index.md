@@ -1,22 +1,21 @@
 ---
+title: Professional Kanban Trainer for Applying Professional Kanban
+date: 2021-01-19
+creator: Martin Hinshelwood
 id: "45694"
-title: "Professional Kanban Trainer for Applying Professional Kanban"
-date: "2021-01-19"
-categories:
-  - "news-and-reviews"
-tags:
-  - "kanban"
-  - "kanban-theory"
-  - "professional-kanban"
-  - "professional-scrum-with-kanban"
-coverImage: "applying-professional-kanban-background-logo-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-kanban-trainer-for-applying-professional-kanban"
-
+slug: professional-kanban-trainer-for-applying-professional-kanban
 aliases:
   - /blog/professional-kanban-trainer-for-applying-professional-kanban
+tags:
+  - kanban
+  - kanban-theory
+  - professional-kanban
+  - professional-scrum-with-kanban
+categories:
+  - news-and-reviews
+preview: applying-professional-kanban-background-logo-2-2.jpg
 ---
 
 The [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) only contains the minimum necessary to create an e**mpirical process control system for managing risk**. The new [Kanban Guide](https://nkdagility.com/the-kanban-guide/) reflects the minimum that you need to do to create a **strategy for optimizing the flow of value through a visual, pull-based system**.

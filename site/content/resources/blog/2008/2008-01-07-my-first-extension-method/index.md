@@ -1,19 +1,18 @@
 ---
+title: My first Extension method...
+date: 2008-01-07
+creator: Martin Hinshelwood
 id: "269"
-title: "My first Extension method..."
-date: "2008-01-07"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "my-first-extension-method"
-
+slug: my-first-extension-method
 aliases:
   - /blog/my-first-extension-method
+tags:
+  - code
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I decided as part of my .NET 3.5 learning curve to rebuild [Duncan Mackenzie](http://duncanmackenzie.net/blog/connect-your-xbox-360-gamertag-to-twitter/default.aspx)'s [Xbox to Twitter application](http://www.duncanmackenzie.net/blog/using-the-xbox-to-twitter-app-please-update-your-client/default.aspx) just for fun...

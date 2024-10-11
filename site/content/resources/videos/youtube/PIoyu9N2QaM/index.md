@@ -4,7 +4,7 @@ date: 2023-04-06T07:00:08Z
 videoId: PIoyu9N2QaM
 url: /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
 canonicalUrl: https://www.youtube.com/watch?v=PIoyu9N2QaM
-coverImage: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
 duration: 363
 isShort: False
 ---

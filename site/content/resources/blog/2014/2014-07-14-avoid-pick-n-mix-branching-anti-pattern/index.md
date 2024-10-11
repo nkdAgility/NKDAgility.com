@@ -1,20 +1,19 @@
 ---
+title: Avoid the pick-n-mix branching anti-pattern
+date: 2014-07-14
+creator: Martin Hinshelwood
 id: "10649"
-title: "Avoid the pick-n-mix branching anti-pattern"
-date: "2014-07-14"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "anti-pattern"
-  - "branching"
-coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "avoid-pick-n-mix-branching-anti-pattern"
-
+slug: avoid-pick-n-mix-branching-anti-pattern
 aliases:
   - /blog/avoid-pick-n-mix-branching-anti-pattern
+tags:
+  - anti-pattern
+  - branching
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 ---
 
 For the last few days I have been working with a customer in the UK on a grass roots engagement to help them solve their source control issues. They have ended up with a pick-n-mix branching anti-pattern and could not see the way out.

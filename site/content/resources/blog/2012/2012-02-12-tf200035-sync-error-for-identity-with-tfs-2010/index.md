@@ -1,20 +1,19 @@
 ---
+title: TF200035 Sync error for identity with TFS 2010
+date: 2012-02-12
+creator: Martin Hinshelwood
 id: "4309"
-title: "TF200035 Sync error for identity with TFS 2010"
-date: "2012-02-12"
-tags:
-  - "nwcadence"
-  - "tf200035"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tf200035-sync-error-for-identity-with-tfs-2010"
-
+slug: tf200035-sync-error-for-identity-with-tfs-2010
 aliases:
   - /blog/tf200035-sync-error-for-identity-with-tfs-2010
+tags:
+  - nwcadence
+  - tf200035
+  - tfs
+  - tfs2010
+  - tools
 ---
 
 I recently ran into an odd problem at a customer where the local computer accounts of a computer joined to a domain started showing the SID periodically. For those not in the know, this is BAD.

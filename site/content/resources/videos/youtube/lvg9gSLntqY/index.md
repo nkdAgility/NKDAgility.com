@@ -4,7 +4,7 @@ date: 2023-05-23T07:00:30Z
 videoId: lvg9gSLntqY
 url: /resources/videos/why-does-project-management-not-work-in-complex-environments-
 canonicalUrl: https://www.youtube.com/watch?v=lvg9gSLntqY
-coverImage: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
 duration: 53
 isShort: True
 ---

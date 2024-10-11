@@ -1,18 +1,17 @@
 ---
+title: Infragistics WPF
+date: 2008-10-28
+creator: Martin Hinshelwood
 id: "179"
-title: "Infragistics WPF"
-date: "2008-10-28"
-tags:
-  - "tfs"
-  - "tools"
-  - "wpf"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "infragistics-wpf"
-
+slug: infragistics-wpf
 aliases:
   - /blog/infragistics-wpf
+tags:
+  - tfs
+  - tools
+  - wpf
 ---
 
 ![](images/logo-1-1.gif) 

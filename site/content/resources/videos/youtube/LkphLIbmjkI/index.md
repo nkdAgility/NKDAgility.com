@@ -4,7 +4,7 @@ date: 2023-06-26T07:00:07Z
 videoId: LkphLIbmjkI
 url: /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
 canonicalUrl: https://www.youtube.com/watch?v=LkphLIbmjkI
-coverImage: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
 duration: 340
 isShort: False
 ---

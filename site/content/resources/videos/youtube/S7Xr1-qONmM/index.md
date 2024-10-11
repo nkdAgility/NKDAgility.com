@@ -4,7 +4,7 @@ date: 2023-02-21T07:00:07Z
 videoId: S7Xr1-qONmM
 url: /resources/videos/why-do-you-think-the-psu-course-has-become-so-popular-for-product-development-
 canonicalUrl: https://www.youtube.com/watch?v=S7Xr1-qONmM
-coverImage: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/S7Xr1-qONmM/maxresdefault.jpg
 duration: 294
 isShort: False
 ---

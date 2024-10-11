@@ -1,23 +1,22 @@
 ---
+title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes
+date: 2009-10-20
+creator: Martin Hinshelwood
 id: "84"
-title: "Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes"
-date: "2009-10-20"
-tags:
-  - "aggreko"
-  - "codeproject"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes"
-
+slug: installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
 aliases:
   - /blog/installing-visual-studio-2010-team-foundation-server-on-windows-vista-in-3-minutes
+tags:
+  - aggreko
+  - codeproject
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-7-7.png
 ---
 
 New in Visual Studio 2010 is the ability to install TFS on XP, Vista and Windows 7. You can use SQL 2008 Express, so no large overhead, and the Basic version you use for this does have the reporting and SharePoint requirement that the main install does. That does not mean that you can't upgrade later :)

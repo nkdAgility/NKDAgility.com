@@ -4,7 +4,7 @@ date: 2023-08-19T07:00:06Z
 videoId: 7VBtGTlkAdM
 url: /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 canonicalUrl: https://www.youtube.com/watch?v=7VBtGTlkAdM
-coverImage: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
 isShort: True
 ---

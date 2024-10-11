@@ -4,7 +4,7 @@ date: 2023-04-19T07:00:06Z
 videoId: Dl5v4j1f-WE
 url: /resources/videos/how-would-you-like-to-be-remembered-as-a-professional-scrum-trainer-
 canonicalUrl: https://www.youtube.com/watch?v=Dl5v4j1f-WE
-coverImage: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Dl5v4j1f-WE/maxresdefault.jpg
 duration: 537
 isShort: False
 ---

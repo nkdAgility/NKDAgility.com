@@ -4,7 +4,7 @@ date: 2024-07-31T12:00:49Z
 videoId: 3jYFD-6_kZk
 url: /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=3jYFD-6_kZk
-coverImage: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
 isShort: False
 ---

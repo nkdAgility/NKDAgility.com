@@ -4,7 +4,7 @@ date: 2023-04-27T09:30:06Z
 videoId: TNnpe02_RiU
 url: /resources/videos/pet-peeve-in-devops
 canonicalUrl: https://www.youtube.com/watch?v=TNnpe02_RiU
-coverImage: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TNnpe02_RiU/maxresdefault.jpg
 duration: 31
 isShort: True
 ---

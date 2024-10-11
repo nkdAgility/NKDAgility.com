@@ -1,24 +1,23 @@
 ---
+title: Developer Day Scotland
+date: 2009-05-03
+creator: Martin Hinshelwood
 id: "125"
-title: "Developer Day Scotland"
-date: "2009-05-03"
-categories:
-  - "code-and-complexity"
-  - "events-and-presentations"
-  - "me"
-tags:
-  - "code"
-  - "events-and-presentations"
-  - "mvvm"
-  - "wpf"
-coverImage: "metro-event-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developer-day-scotland"
-
+slug: developer-day-scotland
 aliases:
   - /blog/developer-day-scotland
+tags:
+  - code
+  - events-and-presentations
+  - mvvm
+  - wpf
+categories:
+  - code-and-complexity
+  - events-and-presentations
+  - me
+preview: metro-event-128-link-1-1.png
 ---
 
 The [Developer Developer Developer](http://developerdayscotland.com) event held at [Glasgow Caledonian University](http://www.gcal.ac.uk/) (my University) yesterday was excellent. Kudos to [Colin Angus Mackay](http://blog.colinmackay.net/) and the other organisers for all of the effort they have put in once again.

@@ -1,26 +1,25 @@
 ---
-id: "6127"
 title: "VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly"
-date: "2012-06-28"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "kb"
-  - "tf54000"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-sourcesafe"
-author: "MrHinsh"
+date: 2012-06-28
+creator: Martin Hinshelwood
+id: "6127"
 layout: blog
 resourceType: blog
-slug: "vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly"
-
+slug: vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
 aliases:
   - /blog/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly
+tags:
+  - configuration
+  - infrastructure
+  - kb
+  - tf54000
+  - tfs
+  - tfs2010
+  - tools
+  - visual-sourcesafe
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
 ---
 
 ### Issue

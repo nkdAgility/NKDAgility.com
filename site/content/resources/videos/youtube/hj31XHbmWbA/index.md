@@ -4,7 +4,7 @@ date: 2023-10-13T11:00:40Z
 videoId: hj31XHbmWbA
 url: /resources/videos/quotes-you-can't-connect-the-dots-looking-forward;-you-can-only-connect-them-looking-backwards
 canonicalUrl: https://www.youtube.com/watch?v=hj31XHbmWbA
-coverImage: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/hj31XHbmWbA/maxresdefault.jpg
 duration: 46
 isShort: True
 ---

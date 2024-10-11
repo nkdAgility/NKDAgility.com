@@ -4,7 +4,7 @@ date: 2024-08-21T07:00:19Z
 videoId: KXvd_oyLe3Q
 url: /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
 canonicalUrl: https://www.youtube.com/watch?v=KXvd_oyLe3Q
-coverImage: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KXvd_oyLe3Q/maxresdefault.jpg
 duration: 832
 isShort: False
 ---

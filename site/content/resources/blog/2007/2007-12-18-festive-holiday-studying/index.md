@@ -1,23 +1,22 @@
 ---
+title: Festive holiday studying
+date: 2007-12-18
+creator: Martin Hinshelwood
 id: "273"
-title: "Festive holiday studying"
-date: "2007-12-18"
-categories:
-  - "me"
-tags:
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "wpf"
-  - "xbox"
-coverImage: "metro-xbox-360-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "festive-holiday-studying"
-
+slug: festive-holiday-studying
 aliases:
   - /blog/festive-holiday-studying
+tags:
+  - sharepoint
+  - sp2007
+  - spf2010
+  - wpf
+  - xbox
+categories:
+  - me
+preview: metro-xbox-360-link-3-3.png
 ---
 
 [![020](images/Festiveholidaystudying_12D57-020_thumb-1-1.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Festiveholidaystudying_12D57-020.jpg)

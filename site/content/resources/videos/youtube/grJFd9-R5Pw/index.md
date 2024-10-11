@@ -4,7 +4,7 @@ date: 2023-01-18T08:57:16Z
 videoId: grJFd9-R5Pw
 url: /resources/videos/how-does-the-aps-course-help-people-apply-scrum-effectively-
 canonicalUrl: https://www.youtube.com/watch?v=grJFd9-R5Pw
-coverImage: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/grJFd9-R5Pw/maxresdefault.jpg
 duration: 416
 isShort: False
 ---

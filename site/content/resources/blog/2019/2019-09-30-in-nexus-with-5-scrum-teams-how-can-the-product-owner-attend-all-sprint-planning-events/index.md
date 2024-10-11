@@ -1,19 +1,18 @@
 ---
+title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
+date: 2019-09-30
+creator: Martin Hinshelwood
 id: "39855"
-title: "In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?"
-date: "2019-09-30"
-categories:
-  - "measure-and-learn"
-tags:
-  - "product-owner"
-coverImage: "146713119-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events"
-
+slug: in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
 aliases:
   - /blog/in-nexus-with-5-scrum-teams-how-can-the-product-owner-attend-all-sprint-planning-events
+tags:
+  - product-owner
+categories:
+  - measure-and-learn
+preview: 146713119-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

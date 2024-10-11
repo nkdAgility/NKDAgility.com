@@ -1,19 +1,18 @@
 ---
+title: It's nice to be appreciated!
+date: 2007-11-29
+creator: Martin Hinshelwood
 id: "283"
-title: "It's nice to be appreciated!"
-date: "2007-11-29"
-categories:
-  - "me"
-tags:
-  - "silverlight"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "its-nice-to-be-appreciated"
-
+slug: its-nice-to-be-appreciated
 aliases:
   - /blog/its-nice-to-be-appreciated
+tags:
+  - silverlight
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 A few months ago I found a cool site called [Community Credit](http://www.community-credit.com). I did not understand the premise at first, but after seeing the prizes page, I thought, what the heak! Community Credit is the brain child of one David Silverlight, and yes, it is quite possible that "Silverlight" was named after him :). What is this wondrous site you may ask...Well, its part bragging, part recognition, and part prizes :)

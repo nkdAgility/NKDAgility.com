@@ -1,24 +1,23 @@
 ---
+title: Guide to ChangeServerId says mostly harmless
+date: 2013-03-06
+creator: Martin Hinshelwood
 id: "9249"
-title: "Guide to ChangeServerId says mostly harmless"
-date: "2013-03-06"
-categories:
-  - "code-and-complexity"
-tags:
-  - "2012-2"
-  - "configuration"
-  - "infrastructure"
-  - "tf30046"
-  - "tf31001"
-  - "tf50620"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "guide-to-changeserverid-says-mostly-harmless"
-
+slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
   - /blog/guide-to-changeserverid-says-mostly-harmless
+tags:
+  - 2012-2
+  - configuration
+  - infrastructure
+  - tf30046
+  - tf31001
+  - tf50620
+  - tools
+categories:
+  - code-and-complexity
 ---
 
 If you are cloning your TFS collection then you have to run ChangeServerId. It is reasonably well documented for this senario but what other reasons might you have to run it.

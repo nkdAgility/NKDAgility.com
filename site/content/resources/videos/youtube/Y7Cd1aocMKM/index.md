@@ -4,7 +4,7 @@ date: 2023-01-31T07:00:08Z
 videoId: Y7Cd1aocMKM
 url: /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
 canonicalUrl: https://www.youtube.com/watch?v=Y7Cd1aocMKM
-coverImage: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Y7Cd1aocMKM/maxresdefault.jpg
 duration: 384
 isShort: False
 ---

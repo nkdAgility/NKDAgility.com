@@ -4,7 +4,7 @@ date: 2024-08-01T06:45:01Z
 videoId: XF-yQmPdUME
 url: /resources/videos/the-product-owner's-role-in-maximizing-value
 canonicalUrl: https://www.youtube.com/watch?v=XF-yQmPdUME
-coverImage: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XF-yQmPdUME/maxresdefault.jpg
 duration: 601
 isShort: False
 ---
@@ -13,7 +13,7 @@ isShort: False
 
 # The Product Owner's Role in Maximizing Value
 
-Confused about the difference between a Product Owner and Product Manager in Scrum?  This in-depth discussion busts common myths and reveals how the Product Owner is a crucial linchpin in delivering maximum value within Agile teams.
+Confused about the difference between a Product Owner and Product Manager in Scrum? This in-depth discussion busts common myths and reveals how the Product Owner is a crucial linchpin in delivering maximum value within Agile teams.
 
 Why You Should Watch:
 

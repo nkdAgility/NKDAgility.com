@@ -1,19 +1,18 @@
 ---
-id: "157"
 title: "SkyDrive: 25 GB of free online storage"
-date: "2008-12-04"
-categories:
-  - "products-and-books"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2008-12-04
+creator: Martin Hinshelwood
+id: "157"
 layout: blog
 resourceType: blog
-slug: "skydrive-25-gb-of-free-online-storage"
-
+slug: skydrive-25-gb-of-free-online-storage
 aliases:
   - /blog/skydrive-25-gb-of-free-online-storage
+tags:
+  - live
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 [![SkyDrive25](images/SkyDrive25GBoffreeonlinestorage_7F5A-SkyDrive25_3-6-6.png)](http://skydrive.live.com)

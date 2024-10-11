@@ -4,7 +4,7 @@ date: 2023-12-19T07:00:11Z
 videoId: XKmWMXagVgQ
 url: /resources/videos/5-things-you-would-teach-a-productowner-apprentice-part-5
 canonicalUrl: https://www.youtube.com/watch?v=XKmWMXagVgQ
-coverImage: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XKmWMXagVgQ/maxresdefault.jpg
 duration: 267
 isShort: False
 ---

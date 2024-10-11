@@ -1,21 +1,20 @@
 ---
+title: Bruce Lee on Scrum and Agile
+date: 2014-10-07
+creator: Martin Hinshelwood
 id: "10800"
-title: "Bruce Lee on Scrum and Agile"
-date: "2014-10-07"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "philosophy"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "bruce-lee-on-scrum-and-agile"
-
+slug: bruce-lee-on-scrum-and-agile
 aliases:
   - /blog/bruce-lee-on-scrum-and-agile
+tags:
+  - agile
+  - philosophy
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-2-2.png
 ---
 
 There are wise people in this world and that wisdom often transcends the topic that they are intentionality addressing. Good philosophy can be applied beyond those bounds.

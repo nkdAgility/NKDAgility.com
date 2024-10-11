@@ -1,21 +1,20 @@
 ---
+title: Professional Scrum in Immingham, UK
+date: 2013-12-11
+creator: Martin Hinshelwood
 id: "10301"
-title: "Professional Scrum in Immingham, UK"
-date: "2013-12-11"
-categories:
-  - "people-and-process"
-tags:
-  - "professioal-scrum"
-  - "psf"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-immingham-uk"
-
+slug: professional-scrum-immingham-uk
 aliases:
   - /blog/professional-scrum-immingham-uk
+tags:
+  - professioal-scrum
+  - psf
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-6-6.png
 ---
 
 As my first engagement as naked ALM Consulting in the UK I got to work with the fantastic team at DFDS Seaways and teach the Professional Scrum course from Scrum.org.

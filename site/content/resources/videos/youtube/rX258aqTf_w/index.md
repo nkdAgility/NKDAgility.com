@@ -4,7 +4,7 @@ date: 2023-01-06T04:52:40Z
 videoId: rX258aqTf_w
 url: /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
 canonicalUrl: https://www.youtube.com/watch?v=rX258aqTf_w
-coverImage: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/rX258aqTf_w/maxresdefault.jpg
 duration: 318
 isShort: False
 ---

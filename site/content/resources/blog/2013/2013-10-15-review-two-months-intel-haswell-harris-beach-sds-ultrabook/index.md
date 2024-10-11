@@ -1,22 +1,21 @@
 ---
-id: "10209"
 title: "Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook"
-date: "2013-10-15"
-categories:
-  - "news-and-reviews"
-tags:
-  - "hardware"
-  - "harris-beach"
-  - "intel"
-  - "review"
-coverImage: "Web-Intel-Metro-icon-3-3.png"
-author: "MrHinsh"
+date: 2013-10-15
+creator: Martin Hinshelwood
+id: "10209"
 layout: blog
 resourceType: blog
-slug: "review-two-months-intel-haswell-harris-beach-sds-ultrabook"
-
+slug: review-two-months-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /blog/review-two-months-intel-haswell-harris-beach-sds-ultrabook
+tags:
+  - hardware
+  - harris-beach
+  - intel
+  - review
+categories:
+  - news-and-reviews
+preview: Web-Intel-Metro-icon-3-3.png
 ---
 
 Now that I have had two months with the Intel Haswell Harris Beach SDS Ultrabook I thought that it would be a good idea to give you an update. You can check out Part #1 & #2 below however in this post I want to concentrate on Windows 8.1 with the SDS.

@@ -4,7 +4,7 @@ date: 2023-02-27T07:00:01Z
 videoId: 5EryGepZu8o
 url: /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
 canonicalUrl: https://www.youtube.com/watch?v=5EryGepZu8o
-coverImage: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5EryGepZu8o/maxresdefault.jpg
 duration: 204
 isShort: False
 ---

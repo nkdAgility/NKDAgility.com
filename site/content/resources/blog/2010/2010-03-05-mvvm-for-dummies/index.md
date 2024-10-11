@@ -1,24 +1,23 @@
 ---
+title: MVVM for Dummies
+date: 2010-03-05
+creator: Martin Hinshelwood
 id: "65"
-title: "MVVM for Dummies"
-date: "2010-03-05"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "mvvm"
-  - "silverlight"
-  - "ssw"
-  - "tools"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mvvm-for-dummies"
-
+slug: mvvm-for-dummies
 aliases:
   - /blog/mvvm-for-dummies
+tags:
+  - code
+  - mvvm
+  - silverlight
+  - ssw
+  - tools
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I think that I have found one of the best articles on MVVM that I have ever read:

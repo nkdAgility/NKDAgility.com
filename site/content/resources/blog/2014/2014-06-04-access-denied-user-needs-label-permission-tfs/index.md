@@ -1,25 +1,24 @@
 ---
+title: Access denied user needs label permission in TFS
+date: 2014-06-04
+creator: Martin Hinshelwood
 id: "10546"
-title: "Access denied user needs label permission in TFS"
-date: "2014-06-04"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "label"
-  - "one-team-project-seriese"
-  - "permissions"
-  - "tf14098"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-2012-4"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "access-denied-user-needs-label-permission-tfs"
-
+slug: access-denied-user-needs-label-permission-tfs
 aliases:
   - /blog/access-denied-user-needs-label-permission-tfs
+tags:
+  - label
+  - one-team-project-seriese
+  - permissions
+  - tf14098
+  - tfs
+  - tfs2012
+  - tfs-2012-4
+categories:
+  - problems-and-puzzles
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
 
 There is always something new to learn with TFS and today I learned something old. I had a user today that was constantly getting the message "Access denied user needs label permission in TFS".

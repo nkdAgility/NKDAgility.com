@@ -1,27 +1,26 @@
 ---
-id: "3692"
 title: "Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!"
-date: "2011-07-22"
-categories:
-  - "events-and-presentations"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "develop"
-  - "kanban"
-  - "lean"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "scrum"
-coverImage: "metro-nwc-128-link-2-2.png"
-author: "MrHinsh"
+date: 2011-07-22
+creator: Martin Hinshelwood
+id: "3692"
 layout: blog
 resourceType: blog
-slug: "coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon"
-
+slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliases:
   - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
+tags:
+  - agile
+  - develop
+  - kanban
+  - lean
+  - nwcadence
+  - people
+  - process
+  - scrum
+categories:
+  - events-and-presentations
+  - people-and-process
+preview: metro-nwc-128-link-2-2.png
 ---
 
 ![Chaparral%2BHigh[1]](images/Chaparral2BHigh12-1-1.jpg "Chaparral%2BHigh[1]")

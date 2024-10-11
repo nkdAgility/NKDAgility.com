@@ -1,15 +1,15 @@
 ---
 title: How can you tell if you are agile?
 type: faq
-discussionId: 
+discussionId:
 references:
- - title: Scrum Glossary - Scrum.org
-   url: https://www.scrum.org/resources/scrum-glossary
+  - title: Scrum Glossary - Scrum.org
+    url: https://www.scrum.org/resources/scrum-glossary
 recommendedContent:
- - collection: guides
-   path: _guides/detecting-agile-bs.md
+  - collection: guides
+    path: _guides/detecting-agile-bs.md
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

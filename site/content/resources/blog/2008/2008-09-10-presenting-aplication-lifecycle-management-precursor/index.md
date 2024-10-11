@@ -1,20 +1,19 @@
 ---
-id: "194"
 title: "Presenting Aplication Lifecycle Management: Precursor"
-date: "2008-09-10"
-tags:
-  - "aggreko"
-  - "tfs"
-  - "tools"
-  - "windows-mobile-6"
-coverImage: "metro-aggreko-128-link-1-1.png"
-author: "MrHinsh"
+date: 2008-09-10
+creator: Martin Hinshelwood
+id: "194"
 layout: blog
 resourceType: blog
-slug: "presenting-aplication-lifecycle-management-precursor"
-
+slug: presenting-aplication-lifecycle-management-precursor
 aliases:
   - /blog/presenting-aplication-lifecycle-management-precursor
+tags:
+  - aggreko
+  - tfs
+  - tools
+  - windows-mobile-6
+preview: metro-aggreko-128-link-1-1.png
 ---
 
 I am doing a presentation this afternoon on Application Lifecycle Management (ALM). This is the first time that I have ever presented on this topic, and I found out that I was doing it on Friday!

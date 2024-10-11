@@ -4,7 +4,7 @@ date: 2023-10-16T11:00:31Z
 videoId: U18nA0YFgu0
 url: /resources/videos/wrath!-7-deadly-sins-of-agile
 canonicalUrl: https://www.youtube.com/watch?v=U18nA0YFgu0
-coverImage: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
 isShort: False
 ---

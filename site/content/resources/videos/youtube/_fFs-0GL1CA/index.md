@@ -4,7 +4,7 @@ date: 2023-03-07T07:00:09Z
 videoId: _fFs-0GL1CA
 url: /resources/videos/why-do-you-encourage-people-to-follow-a-certification-path-in-their-career-journey-
 canonicalUrl: https://www.youtube.com/watch?v=_fFs-0GL1CA
-coverImage: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_fFs-0GL1CA/maxresdefault.jpg
 duration: 372
 isShort: False
 ---

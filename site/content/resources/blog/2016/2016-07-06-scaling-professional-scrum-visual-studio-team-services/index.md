@@ -1,26 +1,25 @@
 ---
+title: Scaling Professional Scrum with Visual Studio Team Services
+date: 2016-07-06
+creator: Martin Hinshelwood
 id: "11563"
-title: "Scaling Professional Scrum with Visual Studio Team Services"
-date: "2016-07-06"
-categories:
-  - "agility"
-  - "events-and-presentations"
-tags:
-  - "homepage"
-  - "nexus-framework"
-  - "scaled-agile"
-  - "scaled-professional-scrum"
-  - "scrum"
-  - "tfs"
-  - "vsteamservices"
-coverImage: "Scalled-Professional-Scrum-1280-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "scaling-professional-scrum-visual-studio-team-services"
-
+slug: scaling-professional-scrum-visual-studio-team-services
 aliases:
   - /blog/scaling-professional-scrum-visual-studio-team-services
+tags:
+  - homepage
+  - nexus-framework
+  - scaled-agile
+  - scaled-professional-scrum
+  - scrum
+  - tfs
+  - vsteamservices
+categories:
+  - agility
+  - events-and-presentations
+preview: Scalled-Professional-Scrum-1280-2-2.jpg
 ---
 
 Last week I was teaching a Professional Scrum Foundations in Farnborough and I had to make sure that I got a hotel with awesome internet access. As well as teaching the class I Have two additional tasks for the week. The first was to have the honour of talking on ScrumPulse, Scrum.org's webcast, and the second was to talk at the prestigious Dutch ALM Meetup.

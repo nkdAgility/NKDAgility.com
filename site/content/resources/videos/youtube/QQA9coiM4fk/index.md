@@ -4,7 +4,7 @@ date: 2023-06-16T07:00:14Z
 videoId: QQA9coiM4fk
 url: /resources/videos/devops-consulting-overview-
 canonicalUrl: https://www.youtube.com/watch?v=QQA9coiM4fk
-coverImage: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/QQA9coiM4fk/maxresdefault.jpg
 duration: 356
 isShort: False
 ---

@@ -1,22 +1,21 @@
 ---
+title: TFS Event Handler Prototype Feedback
+date: 2007-07-16
+creator: Martin Hinshelwood
 id: "369"
-title: "TFS Event Handler Prototype Feedback"
-date: "2007-07-16"
-categories:
-  - "me"
-tags:
-  - "ml"
-  - "tfs-event-handler"
-  - "tools"
-  - "wit"
-coverImage: "metro-merilllynch-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-prototype-feedback"
-
+slug: tfs-event-handler-prototype-feedback
 aliases:
   - /blog/tfs-event-handler-prototype-feedback
+tags:
+  - ml
+  - tfs-event-handler
+  - tools
+  - wit
+categories:
+  - me
+preview: metro-merilllynch-128-link-1-1.png
 ---
 
 I would be interested in finding out if anyone is using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) I created on [CodePlex](http://www.codeplex.com "CodePlex"). The main reason for this is to solicit feedback for the process and integration capabilities.

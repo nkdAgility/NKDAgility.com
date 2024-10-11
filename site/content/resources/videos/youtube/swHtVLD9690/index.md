@@ -4,7 +4,7 @@ date: 2024-08-20T08:04:38Z
 videoId: swHtVLD9690
 url: /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
 canonicalUrl: https://www.youtube.com/watch?v=swHtVLD9690
-coverImage: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/swHtVLD9690/maxresdefault.jpg
 duration: 438
 isShort: False
 ---

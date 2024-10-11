@@ -4,7 +4,7 @@ date: 2023-04-17T07:00:17Z
 videoId: vI_qQ7-1z2E
 url: /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
 canonicalUrl: https://www.youtube.com/watch?v=vI_qQ7-1z2E
-coverImage: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vI_qQ7-1z2E/maxresdefault.jpg
 duration: 330
 isShort: False
 ---

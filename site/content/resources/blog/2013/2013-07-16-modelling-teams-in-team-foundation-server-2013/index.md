@@ -1,30 +1,29 @@
 ---
+title: Modelling Teams in Team Foundation Server 2013
+date: 2013-07-16
+creator: Martin Hinshelwood
 id: "9777"
-title: "Modelling Teams in Team Foundation Server 2013"
-date: "2013-07-16"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "area-path"
-  - "branching"
-  - "configuration"
-  - "permissions"
-  - "process"
-  - "source-control"
-  - "teams"
-  - "tfs"
-  - "tfs-2013"
-  - "tools"
-  - "version-control"
-coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "modelling-teams-in-team-foundation-server-2013"
-
+slug: modelling-teams-in-team-foundation-server-2013
 aliases:
   - /blog/modelling-teams-in-team-foundation-server-2013
+tags:
+  - area-path
+  - branching
+  - configuration
+  - permissions
+  - process
+  - source-control
+  - teams
+  - tfs
+  - tfs-2013
+  - tools
+  - version-control
+categories:
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 ---
 
 Do you know what to do with Areas, Iteration, Teams, Source Control, and Security when modelling Teams in Team Foundation Server 2013?

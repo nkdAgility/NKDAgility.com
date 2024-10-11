@@ -1,27 +1,26 @@
 ---
-id: "3688"
 title: "Coffee Talk: Scrum versus Kanban"
-date: "2011-07-19"
-categories:
-  - "events-and-presentations"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "events-and-presentations"
-  - "kanban"
-  - "lean"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "scrum"
-coverImage: "metro-event-128-link-1-1.png"
-author: "MrHinsh"
+date: 2011-07-19
+creator: Martin Hinshelwood
+id: "3688"
 layout: blog
 resourceType: blog
-slug: "coffee-talk-scrum-versus-kanban"
-
+slug: coffee-talk-scrum-versus-kanban
 aliases:
   - /blog/coffee-talk-scrum-versus-kanban
+tags:
+  - agile
+  - events-and-presentations
+  - kanban
+  - lean
+  - nwcadence
+  - people
+  - process
+  - scrum
+categories:
+  - events-and-presentations
+  - people-and-process
+preview: metro-event-128-link-1-1.png
 ---
 
 ![Coffee Talk: Scrum versus Kanban ](images/1475243493-2.png)

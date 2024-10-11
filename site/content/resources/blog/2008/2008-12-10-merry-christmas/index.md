@@ -1,17 +1,16 @@
 ---
+title: Merry Christmas
+date: 2008-12-10
+creator: Martin Hinshelwood
 id: "154"
-title: "Merry Christmas"
-date: "2008-12-10"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "merry-christmas"
-
+slug: merry-christmas
 aliases:
   - /blog/merry-christmas
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 With many people skipping off early for their holly bags, me included.. I thought I should send this out now…

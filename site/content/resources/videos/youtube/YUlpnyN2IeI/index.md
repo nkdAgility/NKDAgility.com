@@ -4,7 +4,7 @@ date: 2023-06-05T07:00:20Z
 videoId: YUlpnyN2IeI
 url: /resources/videos/unlocking-scrum's-potential-avoiding-dogma-and-embracing-flexibility
 canonicalUrl: https://www.youtube.com/watch?v=YUlpnyN2IeI
-coverImage: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/YUlpnyN2IeI/maxresdefault.jpg
 duration: 298
 isShort: False
 ---

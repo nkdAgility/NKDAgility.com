@@ -1,18 +1,17 @@
 ---
+title: Performance Research, Browser Cache Usage - Exposed!
+date: 2007-01-05
+creator: Martin Hinshelwood
 id: "452"
-title: "Performance Research, Browser Cache Usage - Exposed!"
-date: "2007-01-05"
-tags:
-  - "off-topic"
-  - "web"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "performance-research-browser-cache-usage-exposed"
-
+slug: performance-research-browser-cache-usage-exposed
 aliases:
   - /blog/performance-research-browser-cache-usage-exposed
+tags:
+  - off-topic
+  - web
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 "Since browsers spend 80% of the time fetching external components including scripts, stylesheets and images, reducing the number of HTTP requests has the biggest impact on reducing response time. But shouldn ’t everything be saved in the browser’s cache anyway?"

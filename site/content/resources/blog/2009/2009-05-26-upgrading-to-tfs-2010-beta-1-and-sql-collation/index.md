@@ -1,20 +1,19 @@
 ---
+title: Upgrading to TFS 2010 Beta 1 and SQL Collation
+date: 2009-05-26
+creator: Martin Hinshelwood
 id: "109"
-title: "Upgrading to TFS 2010 Beta 1 and SQL Collation"
-date: "2009-05-26"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-to-tfs-2010-beta-1-and-sql-collation"
-
+slug: upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliases:
   - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
+tags:
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I have just finished installing [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") 2010 beta 1 and doing an upgrade of out TFS 2008 data. This did not go well…

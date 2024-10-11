@@ -1,20 +1,19 @@
 ---
-id: "49783"
 title: "Decoding Scrum Team Work: Balancing Sprint and Refinement Work"
-date: "2023-09-14"
-categories:
-  - "agility"
-tags:
-  - "featured"
-  - "homepage"
-coverImage: "NKDAgility-technically-SprintRefignementBallance-6-6.jpg"
-author: "MrHinsh"
+date: 2023-09-14
+creator: Martin Hinshelwood
+id: "49783"
 layout: blog
 resourceType: blog
-slug: "decoding-scrum-team-work-balancing-sprint-and-refinement-work"
-
+slug: decoding-scrum-team-work-balancing-sprint-and-refinement-work
 aliases:
   - /blog/decoding-scrum-team-work-balancing-sprint-and-refinement-work
+tags:
+  - featured
+  - homepage
+categories:
+  - agility
+preview: NKDAgility-technically-SprintRefignementBallance-6-6.jpg
 ---
 
 **Software Development** is not just a systematic process but a dynamic interplay of critical work that shapes the progress of your product. A **Scrum** team's work can be classified into **Sprint** work and **Refinement**. To steer your **Scrum Team** towards success, it's essential to understand, manage, and balance these two types of work. This article dives deep into the heart of Scrum team operations, offering clear-cut strategies and innovative visualisation techniques to help you understand and manage your Sprint work and Refinement processes effectively. Decode the intricacies of Scrum teamwork and unlock the path to achieving your product goals with increased efficiency.

@@ -1,18 +1,17 @@
 ---
+title: Team System Web Access finally released
+date: 2007-07-31
+creator: Martin Hinshelwood
 id: "354"
-title: "Team System Web Access finally released"
-date: "2007-07-31"
-tags:
-  - "tfs"
-  - "tfs2005"
-coverImage: "metro-visual-studio-2005-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-system-web-access-finally-released"
-
+slug: team-system-web-access-finally-released
 aliases:
   - /blog/team-system-web-access-finally-released
+tags:
+  - tfs
+  - tfs2005
+preview: metro-visual-studio-2005-128-link-3-3.png
 ---
 
 [Brian Harry](http://blogs.msdn.com/bharry/) has just [announced](http://blogs.msdn.com/bharry/archive/2007/07/30/team-system-web-access-power-tool-available.aspx "Team System Web Access Power Tool Available") the release of Team System Web Access the next incarnation of DevBiz's TeamPlain product.

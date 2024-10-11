@@ -1,20 +1,19 @@
 ---
+title: Xbox 360 Elite
+date: 2007-09-17
+creator: Martin Hinshelwood
 id: "311"
-title: "Xbox 360 Elite"
-date: "2007-09-17"
-categories:
-  - "me"
-tags:
-  - "live"
-  - "xbox"
-coverImage: "metro-xbox-360-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "xbox-360-elite"
-
+slug: xbox-360-elite
 aliases:
   - /blog/xbox-360-elite
+tags:
+  - live
+  - xbox
+categories:
+  - me
+preview: metro-xbox-360-link-1-1.png
 ---
 
 Wohoo, I traded my sometimes crashing Xbox 360 in for an Xbox 360 Elite in Saturday. Over the last two weeks I have been playing Bioshock to death, but the crashing finaly anoyed me enough to get it sorted.

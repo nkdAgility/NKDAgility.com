@@ -1,19 +1,18 @@
 ---
+title: My Wish List of Team Foundation Server Tools
+date: 2007-06-06
+creator: Martin Hinshelwood
 id: "389"
-title: "My Wish List of Team Foundation Server Tools"
-date: "2007-06-06"
-tags:
-  - "visual-studio"
-  - "vs2005"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "my-wish-list-of-team-foundation-server-tools"
-
+slug: my-wish-list-of-team-foundation-server-tools
 aliases:
   - /blog/my-wish-list-of-team-foundation-server-tools
+tags:
+  - visual-studio
+  - vs2005
+  - wit
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 **TFS Event Handler**

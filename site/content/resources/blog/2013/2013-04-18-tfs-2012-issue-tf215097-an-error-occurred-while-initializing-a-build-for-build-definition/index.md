@@ -1,25 +1,24 @@
 ---
-id: "9446"
 title: "TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition"
-date: "2013-04-18"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tactical"
-  - "tf215097"
-  - "tfs-build"
-  - "tools"
-coverImage: "puzzle-issue-problem-128-link-3-3.png"
-author: "MrHinsh"
+date: 2013-04-18
+creator: Martin Hinshelwood
+id: "9446"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition"
-
+slug: tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
 aliases:
   - /blog/tfs-2012-issue-tf215097-an-error-occurred-while-initializing-a-build-for-build-definition
+tags:
+  - configuration
+  - infrastructure
+  - tactical
+  - tf215097
+  - tfs-build
+  - tools
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: puzzle-issue-problem-128-link-3-3.png
 ---
 
 When you are running a build you get a “TF215097 an error occurred while initializing a build for build definition” message and you don’t even get a build number.

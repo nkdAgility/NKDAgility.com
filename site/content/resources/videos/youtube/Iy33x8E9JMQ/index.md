@@ -4,7 +4,7 @@ date: 2023-08-11T07:00:08Z
 videoId: Iy33x8E9JMQ
 url: /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
 canonicalUrl: https://www.youtube.com/watch?v=Iy33x8E9JMQ
-coverImage: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
 isShort: True
 ---

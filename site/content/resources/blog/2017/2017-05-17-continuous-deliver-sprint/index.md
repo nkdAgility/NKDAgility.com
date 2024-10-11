@@ -1,21 +1,20 @@
 ---
+title: I do continuous deliver, why should I Sprint?
+date: 2017-05-17
+creator: Martin Hinshelwood
 id: "11885"
-title: "I do continuous deliver, why should I Sprint?"
-date: "2017-05-17"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "continious-delivery"
-  - "the-sprint"
-coverImage: "Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "continuous-deliver-sprint"
-
+slug: continuous-deliver-sprint
 aliases:
   - /blog/continuous-deliver-sprint
+tags:
+  - continious-delivery
+  - the-sprint
+categories:
+  - agility
+  - devops
+preview: Continous_Delivery_by_Jez_Humble_and_David_Farley-1-1.jpg
 ---
 
 Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; _"Why would I limit myself to shipping only once every two weeks?"_

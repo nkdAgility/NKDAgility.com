@@ -1,19 +1,18 @@
 ---
-id: "459"
 title: "Codeplex Project: RDdotNET White Label"
-date: "2006-10-31"
-categories:
-  - "me"
-tags:
-  - "code"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
+date: 2006-10-31
+creator: Martin Hinshelwood
+id: "459"
 layout: blog
 resourceType: blog
-slug: "codeplex-project-rddotnet-white-label"
-
+slug: codeplex-project-rddotnet-white-label
 aliases:
   - /blog/codeplex-project-rddotnet-white-label
+tags:
+  - code
+categories:
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I have created a codeplex project for one of my solutions. View it here:

@@ -1,28 +1,27 @@
 ---
+title: Is ALM a useful term?
+date: 2012-02-25
+creator: Martin Hinshelwood
 id: "4576"
-title: "Is ALM a useful term?"
-date: "2012-02-25"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "define"
-  - "develop"
-  - "infrastructure"
-  - "modern-alm"
-  - "operate"
-  - "practices"
-  - "process"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "is-alm-a-useful-term"
-
+slug: is-alm-a-useful-term
 aliases:
   - /blog/is-alm-a-useful-term
+tags:
+  - configuration
+  - define
+  - develop
+  - infrastructure
+  - modern-alm
+  - operate
+  - practices
+  - process
+  - tools
+categories:
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I was asked this question by [Robert Myers](http://www.linkedin.com/pub/robert-myers/5/316/746) for a “paper” and I think that it is an important one. I started to answer in that little textbox that LinkedIn give you and I got a little carried away. I guess I am an writing mode ![Smile](images/wlEmoticon-smile2-2-2.png)

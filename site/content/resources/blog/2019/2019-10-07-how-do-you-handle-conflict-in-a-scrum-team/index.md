@@ -1,20 +1,19 @@
 ---
+title: How do you handle conflict in a Scrum Team?
+date: 2019-10-07
+creator: Martin Hinshelwood
 id: "39851"
-title: "How do you handle conflict in a Scrum Team?"
-date: "2019-10-07"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "scrum-master"
-coverImage: "1061204442-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-do-you-handle-conflict-in-a-scrum-team"
-
+slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
   - /blog/how-do-you-handle-conflict-in-a-scrum-team
+tags:
+  - scrum-master
+categories:
+  - agility
+  - people-and-process
+preview: 1061204442-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

@@ -1,19 +1,18 @@
 ---
+title: Information Sync
+date: 2007-12-13
+creator: Martin Hinshelwood
 id: "279"
-title: "Information Sync"
-date: "2007-12-13"
-categories:
-  - "me"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "information-sync"
-
+slug: information-sync
 aliases:
   - /blog/information-sync
+tags:
+  - windows-mobile-6
+categories:
+  - me
+preview: nakedalm-logo-128-link-6-6.png
 ---
 
 [![image](images/InformationSync_1CD-image_thumb_3-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-InformationSync_1CD-image_8.png)

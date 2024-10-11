@@ -5,7 +5,7 @@ aliases:
   - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
   - learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

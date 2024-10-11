@@ -4,7 +4,7 @@ date: 2024-01-10T07:00:11Z
 videoId: EoInrPvjBHo
 url: /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
 canonicalUrl: https://www.youtube.com/watch?v=EoInrPvjBHo
-coverImage: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/EoInrPvjBHo/maxresdefault.jpg
 duration: 197
 isShort: False
 ---

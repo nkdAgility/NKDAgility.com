@@ -1,25 +1,24 @@
 ---
+title: SharePoint 2013 Issue - After migration from 2010 user permission not working
+date: 2013-06-21
+creator: Martin Hinshelwood
 id: "9906"
-title: "SharePoint 2013 Issue - After migration from 2010 user permission not working"
-date: "2013-06-21"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "code"
-  - "configuration"
-  - "powershell"
-  - "puzzles"
-  - "sharepoint"
-  - "sharepoint-2013"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working"
-
+slug: sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
 aliases:
   - /blog/sharepoint-2013-issue-after-migration-from-2010-user-permission-not-working
+tags:
+  - code
+  - configuration
+  - powershell
+  - puzzles
+  - sharepoint
+  - sharepoint-2013
+categories:
+  - install-and-configuration
+  - problems-and-puzzles
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 Users coming from a SharePoint 2010 system that try to access SharePoint 2013 after a migration receive a “this site has not been shared with you” message. This mean that they are not able to authenticate to SharePoint 2013.

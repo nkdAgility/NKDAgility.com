@@ -4,7 +4,7 @@ date: 2023-02-17T07:00:30Z
 videoId: y0dg0Sqs4xw
 url: /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
 canonicalUrl: https://www.youtube.com/watch?v=y0dg0Sqs4xw
-coverImage: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/y0dg0Sqs4xw/maxresdefault.jpg
 duration: 114
 isShort: False
 ---

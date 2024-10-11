@@ -1,18 +1,18 @@
 ---
+title: Why Most Scrum Masters Are Failing and What They Should Know
+date: 2024-09-05
+creator: Martin Hinshelwood
 id: "51730"
-title: "Why Most Scrum Masters Are Failing and What They Should Know"
-date: "2024-09-05"
-tags: ["Scrum Masters"]
-categories:
-  - "agility"
-coverImage: "NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know"
-
+slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
   - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
+tags:
+  - Scrum Masters
+categories:
+  - agility
+preview: NKDAgility-technically-whymostscrummastersarefailing-2-2.jpg
 ---
 
 As a DevOps consultant, Agile consultant, and trainer, I’ve worked with hundreds of companies to improve their software product development. It’s astonishing how many Scrum Masters lack even a basic understanding of Scrum, let alone the expertise required to support the teams they work with.

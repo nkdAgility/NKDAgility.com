@@ -1,15 +1,14 @@
 ---
+title: Time That Task VSTS Check-In Policy
+date: 2006-12-19
+creator: Martin Hinshelwood
 id: "446"
-title: "Time That Task VSTS Check-In Policy"
-date: "2006-12-19"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "time-that-task-vsts-check-in-policy"
-
+slug: time-that-task-vsts-check-in-policy
 aliases:
   - /blog/time-that-task-vsts-check-in-policy
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have found this interesting policy for TFS.

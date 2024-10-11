@@ -1,22 +1,21 @@
 ---
+title: Creating a custom proxy class
+date: 2007-08-20
+creator: Martin Hinshelwood
 id: "326"
-title: "Creating a custom proxy class"
-date: "2007-08-20"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "service-oriented-architecture"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-custom-proxy-class"
-
+slug: creating-a-custom-proxy-class
 aliases:
   - /blog/creating-a-custom-proxy-class
+tags:
+  - code
+  - service-oriented-architecture
+  - tools
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 Instead of using the proxy generation features of Visual Studio you can create a custom proxy in .NET 3.0 to handle all of your needs in a more maintainable manor and with less code. This method works best when you have access to the interfaces that created the service.

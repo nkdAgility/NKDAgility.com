@@ -1,19 +1,18 @@
 ---
+title: Visual Studio Team System 2010 Beta 1 Ships
+date: 2009-05-18
+creator: Martin Hinshelwood
 id: "121"
-title: "Visual Studio Team System 2010 Beta 1 Ships"
-date: "2009-05-18"
-tags:
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-team-system-2010-beta-1-ships"
-
+slug: visual-studio-team-system-2010-beta-1-ships
 aliases:
   - /blog/visual-studio-team-system-2010-beta-1-ships
+tags:
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
 ---
 
 [Visual Studio 2010 Team Suit Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) and [Visual Studio 2010 Team Foundation Server Beta 1](http://www.microsoft.com/visualstudio/en-gb/products/2010/default.mspx) will be available to download from MSDN today at 5pm (GMT) and to the general public on Wednesday.

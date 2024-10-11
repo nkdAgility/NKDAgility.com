@@ -1,23 +1,22 @@
 ---
+title: Using the Build vNext capabilities and demands system
+date: 2015-03-11
+creator: Martin Hinshelwood
 id: "11081"
-title: "Using the Build vNext capabilities and demands system"
-date: "2015-03-11"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "build"
-  - "build-vnext"
-  - "tfs"
-  - "tfs-2015"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "using-build-vnext-capabilities-demands-system"
-
+slug: using-build-vnext-capabilities-demands-system
 aliases:
   - /blog/using-build-vnext-capabilities-demands-system
+tags:
+  - build
+  - build-vnext
+  - tfs
+  - tfs-2015
+  - vsteamservices
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 ---
 
 Using the Build vNext capabilities and demands in VSO is one of the new cool features of the vNext build system being developed by Microsoft on VSO.

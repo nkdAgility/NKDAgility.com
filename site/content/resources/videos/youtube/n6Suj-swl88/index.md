@@ -4,7 +4,7 @@ date: 2023-09-06T07:00:15Z
 videoId: n6Suj-swl88
 url: /resources/videos/who-should-lead-the-sprint-review-
 canonicalUrl: https://www.youtube.com/watch?v=n6Suj-swl88
-coverImage: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
 isShort: False
 ---

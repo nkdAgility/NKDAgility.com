@@ -4,7 +4,7 @@ date: 2023-11-10T06:45:01Z
 videoId: WpsGLkTXalE
 url: /resources/videos/7-signs-of-the-agile-apocalypse-silence
 canonicalUrl: https://www.youtube.com/watch?v=WpsGLkTXalE
-coverImage: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/WpsGLkTXalE/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

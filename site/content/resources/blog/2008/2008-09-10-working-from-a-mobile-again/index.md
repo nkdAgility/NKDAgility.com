@@ -1,20 +1,19 @@
 ---
+title: Working from a Mobile again!
+date: 2008-09-10
+creator: Martin Hinshelwood
 id: "196"
-title: "Working from a Mobile again!"
-date: "2008-09-10"
-categories:
-  - "me"
-tags:
-  - "answers"
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "working-from-a-mobile-again"
-
+slug: working-from-a-mobile-again
 aliases:
   - /blog/working-from-a-mobile-again
+tags:
+  - answers
+  - windows-mobile-6
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 As I am traveling today and I am not taking a laptop, I want to be able to do a little personal work from my mobile..

@@ -4,7 +4,7 @@ date: 2023-05-25T07:00:06Z
 videoId: HcoTwjPnLC0
 url: /resources/videos/is-a-product-owner-an-agile-project-manager-
 canonicalUrl: https://www.youtube.com/watch?v=HcoTwjPnLC0
-coverImage: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
 duration: 48
 isShort: True
 ---

@@ -4,7 +4,7 @@ date: 2023-02-07T07:00:06Z
 videoId: 8uPjXXt5lo4
 url: /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
 canonicalUrl: https://www.youtube.com/watch?v=8uPjXXt5lo4
-coverImage: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/8uPjXXt5lo4/maxresdefault.jpg
 duration: 166
 isShort: False
 ---

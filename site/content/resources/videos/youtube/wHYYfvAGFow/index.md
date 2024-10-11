@@ -4,7 +4,7 @@ date: 2023-02-22T07:00:28Z
 videoId: wHYYfvAGFow
 url: /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
 canonicalUrl: https://www.youtube.com/watch?v=wHYYfvAGFow
-coverImage: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/wHYYfvAGFow/maxresdefault.jpg
 duration: 483
 isShort: False
 ---

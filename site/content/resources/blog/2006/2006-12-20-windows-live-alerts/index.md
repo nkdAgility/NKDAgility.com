@@ -1,19 +1,18 @@
 ---
+title: Windows Live Alerts
+date: 2006-12-20
+creator: Martin Hinshelwood
 id: "454"
-title: "Windows Live Alerts"
-date: "2006-12-20"
-categories:
-  - "products-and-books"
-tags:
-  - "live"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "windows-live-alerts"
-
+slug: windows-live-alerts
 aliases:
   - /blog/windows-live-alerts
+tags:
+  - live
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Just got my Live alerts for this blog setup. If you sign up for it you should get notified whenever I post! Cool...

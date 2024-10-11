@@ -4,7 +4,7 @@ date: 2023-06-17T11:00:32Z
 videoId: c6R8wo04LK4
 url: /resources/videos/hardest-part-of-adopting-scrum
 canonicalUrl: https://www.youtube.com/watch?v=c6R8wo04LK4
-coverImage: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
 isShort: True
 ---

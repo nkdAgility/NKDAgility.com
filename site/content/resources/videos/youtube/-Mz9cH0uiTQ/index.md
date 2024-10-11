@@ -4,7 +4,7 @@ date: 2023-03-01T07:00:00Z
 videoId: -Mz9cH0uiTQ
 url: /resources/videos/does-a-client-tell-an-agile-consultant-what-they-need-or-does-it-work-the-other-way-around-
 canonicalUrl: https://www.youtube.com/watch?v=-Mz9cH0uiTQ
-coverImage: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/-Mz9cH0uiTQ/maxresdefault.jpg
 duration: 351
 isShort: False
 ---

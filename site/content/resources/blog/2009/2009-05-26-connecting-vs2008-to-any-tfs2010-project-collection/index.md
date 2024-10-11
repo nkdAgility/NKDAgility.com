@@ -1,21 +1,20 @@
 ---
+title: Connecting VS2008 to any TFS2010 Project Collection
+date: 2009-05-26
+creator: Martin Hinshelwood
 id: "108"
-title: "Connecting VS2008 to any TFS2010 Project Collection"
-date: "2009-05-26"
-tags:
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "connecting-vs2008-to-any-tfs2010-project-collection"
-
+slug: connecting-vs2008-to-any-tfs2010-project-collection
 aliases:
   - /blog/connecting-vs2008-to-any-tfs2010-project-collection
+tags:
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2008
+preview: metro-visual-studio-2005-128-link-3-3.png
 ---
 
 Easy peasy, all you need is the full URL from the project collection and you will be able to connect directly to it as if it was a different Team Server. This functionality was added with Visual Studio 2008 Service Pack 1, so if you don’t have SP1 installed yet you had better get it:

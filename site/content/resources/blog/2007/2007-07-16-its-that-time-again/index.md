@@ -1,19 +1,18 @@
 ---
+title: Its that time again
+date: 2007-07-16
+creator: Martin Hinshelwood
 id: "370"
-title: "Its that time again"
-date: "2007-07-16"
-categories:
-  - "me"
-tags:
-  - "sp2007"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "its-that-time-again"
-
+slug: its-that-time-again
 aliases:
   - /blog/its-that-time-again
+tags:
+  - sp2007
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 With a new baby, new mortgage rate and declining job satisfaction I am getting that itchy feeling in my feet. There was a time that I was allowed to Code for a living and not just support applications and document deployment strategies. I have ended up filling my free time with my love of Coding and now, with the new baby, I find that my free time is drying up.

@@ -1,17 +1,16 @@
 ---
-id: "387"
 title: "Microsoft Surface: Wow"
-date: "2007-06-07"
-tags:
-  - "off-topic"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-06-07
+creator: Martin Hinshelwood
+id: "387"
 layout: blog
 resourceType: blog
-slug: "microsoft-surface-wow"
-
+slug: microsoft-surface-wow
 aliases:
   - /blog/microsoft-surface-wow
+tags:
+  - off-topic
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have just looked at the [Surface first look](http://www.microsoft.com/surface/) site and I am truly amazed! I want one, really badly...

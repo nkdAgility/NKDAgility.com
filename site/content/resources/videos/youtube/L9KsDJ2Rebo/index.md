@@ -4,7 +4,7 @@ date: 2023-07-13T07:45:48Z
 videoId: L9KsDJ2Rebo
 url: /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
-coverImage: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
 isShort: False
 ---

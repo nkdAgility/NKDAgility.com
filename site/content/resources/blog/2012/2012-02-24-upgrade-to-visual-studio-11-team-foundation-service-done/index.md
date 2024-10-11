@@ -1,26 +1,25 @@
 ---
+title: Upgrade to Visual Studio 11 Team Foundation Service - Done
+date: 2012-02-24
+creator: Martin Hinshelwood
 id: "4573"
-title: "Upgrade to Visual Studio 11 Team Foundation Service - Done"
-date: "2012-02-24"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrade-to-visual-studio-11-team-foundation-service-done"
-
+slug: upgrade-to-visual-studio-11-team-foundation-service-done
 aliases:
   - /blog/upgrade-to-visual-studio-11-team-foundation-service-done
+tags:
+  - configuration
+  - infrastructure
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2012
+  - tools
+  - visual-studio
+  - vs2012
+categories:
+  - upgrade-and-maintenance
 ---
 
 Jason Zander has just announced that the Visual Studio 11 & Visual Studio 11 Team Foundation Server Beta **will be available on the 29th February 2012**. I am really looking forward to this launch as it embodies the phrase “spit & polish” and really lowers the bar for entry into the Team Foundation Server world.
@@ -53,24 +52,25 @@ So I said “You guys need a cloud solution?” and they said “Yipee! Lets go!
 - **Rearrange your Source  
    **  
    Importing source into any source control system is hard as you want to be sure of your layout. So we had a couple of session on [how to layout your source code](http://blog.hinshelwood.com/guidance-how-to-layout-you-files-for-an-ideal-solution/) (note: I need to update that) and settled on a model that worked. They studiously went away and mapped some of their projects into that format and imported it into a Trial project in TFS.
-      [![image](images/image_thumb7-1-1.png "image")](http://blog.hinshelwood.com/files/2012/02/image7.png)
+  [![image](images/image_thumb7-1-1.png "image")](http://blog.hinshelwood.com/files/2012/02/image7.png)
   { .post-img }
   **Figure: Have a common folder layout to make builds easy**
-      [![SNAGHTMLc3e69a](images/SNAGHTMLc3e69a_thumb-2-2.png "SNAGHTMLc3e69a")](http://blog.hinshelwood.com/files/2012/02/SNAGHTMLc3e69a.png)
+  [![SNAGHTMLc3e69a](images/SNAGHTMLc3e69a_thumb-2-2.png "SNAGHTMLc3e69a")](http://blog.hinshelwood.com/files/2012/02/SNAGHTMLc3e69a.png)
   { .post-img }
   \*\*Figure: Visual Studio 2010 Connected to Team Foundation Service
-      **Note: If you have existing code and history you can use the [TFS Integration Platform](http://tfsintegration.codeplex.com/) to move all of your Source and Work Items to the cloud.
+  \*\*Note: If you have existing code and history you can use the [TFS Integration Platform](http://tfsintegration.codeplex.com/) to move all of your Source and Work Items to the cloud.
 - **Adding source control bindings**
-      You can easily import whole folders full of source by setting a mapping in TFS and dropping the folders to import under it. Then when you open the solution in Visual Studio 2010 you will first have to Upgrade it then manage the Bindings to source control so that the files know that they should be talking toTFS.
+  You can easily import whole folders full of source by setting a mapping in TFS and dropping the folders to import under it. Then when you open the solution in Visual Studio 2010 you will first have to Upgrade it then manage the Bindings to source control so that the files know that they should be talking toTFS.
 
       [![SNAGHTMLcbc094](images/SNAGHTMLcbc094_thumb-3-3.png "SNAGHTMLcbc094")](http://blog.hinshelwood.com/files/2012/02/SNAGHTMLcbc094.png)
+
   { .post-img }
-  **Figure: manage the bindings to put the Solution under source control**  
+  **Figure: manage the bindings to put the Solution under source control**
 
 - **Figure out Work Items**
-      Work Items are a little easier as all the have to do is enter them as they don’t currently have any ![Smile](images/wlEmoticon-smile1-5-5.png). I did an overview of Agile Product Planning the features of the tool to get them started, but it will take time before they are fully up to speed.
+  Work Items are a little easier as all the have to do is enter them as they don’t currently have any ![Smile](images/wlEmoticon-smile1-5-5.png). I did an overview of Agile Product Planning the features of the tool to get them started, but it will take time before they are fully up to speed.
   { .post-img }
-      [![SNAGHTMLcd22cf](images/SNAGHTMLcd22cf_thumb-4-4.png "SNAGHTMLcd22cf")](http://blog.hinshelwood.com/files/2012/02/SNAGHTMLcd22cf.png)
+  [![SNAGHTMLcd22cf](images/SNAGHTMLcd22cf_thumb-4-4.png "SNAGHTMLcd22cf")](http://blog.hinshelwood.com/files/2012/02/SNAGHTMLcd22cf.png)
   { .post-img }
   **Figure: New UI provides a low barrier for entry**
 

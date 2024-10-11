@@ -1,23 +1,22 @@
 ---
+title: What to do when you dont have a working computer!
+date: 2008-08-16
+creator: Martin Hinshelwood
 id: "208"
-title: "What to do when you dont have a working computer!"
-date: "2008-08-16"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "answers"
-  - "visual-studio"
-  - "vs2005"
-  - "vs2008"
-  - "windows-mobile-6"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-to-do-when-you-dont-have-a-working-computer"
-
+slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
   - /blog/what-to-do-when-you-dont-have-a-working-computer
+tags:
+  - answers
+  - visual-studio
+  - vs2005
+  - vs2008
+  - windows-mobile-6
+categories:
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I have a little problem...I don't have a computer at home at the moment :( So I am writing this post from my Pocket PC using Diarist 2. I will come back to that, but first...

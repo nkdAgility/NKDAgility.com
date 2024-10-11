@@ -1,19 +1,18 @@
 ---
+title: Studying for the new job
+date: 2007-08-19
+creator: Martin Hinshelwood
 id: "330"
-title: "Studying for the new job"
-date: "2007-08-19"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "studying-for-the-new-job"
-
+slug: studying-for-the-new-job
 aliases:
   - /blog/studying-for-the-new-job
+tags:
+  - moss2007
+  - sharepoint
+  - sp2007
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 I will be [starting a new job](http://blog.hinshelwood.com/archive/2007/08/16/A-change-for-the-better.aspx) in around a month and I wanted to get up-to-speed with the technologies that the new company want to be using. To start with I have had a look at a number of certifications:

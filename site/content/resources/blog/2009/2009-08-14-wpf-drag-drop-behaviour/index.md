@@ -1,25 +1,24 @@
 ---
+title: Wpf Drag & Drop behaviour
+date: 2009-08-14
+creator: Martin Hinshelwood
 id: "92"
-title: "Wpf Drag & Drop behaviour"
-date: "2009-08-14"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "codeproject"
-  - "mvvm"
-  - "silverlight"
-  - "tools"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "wpf-drag-drop-behaviour"
-
+slug: wpf-drag-drop-behaviour
 aliases:
   - /blog/wpf-drag-drop-behaviour
+tags:
+  - code
+  - codeproject
+  - mvvm
+  - silverlight
+  - tools
+  - wpf
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-5-1.png
 ---
 
 A colleague of mine was having a bit of trouble getting drag and drop working in a way that fitted well with the MVVM pattern. This is really quite simple once you have a certain level of understanding of Patterns, but is a complete nightmare if you do not.

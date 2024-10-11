@@ -4,7 +4,7 @@ date: 2023-05-18T07:00:16Z
 videoId: _Eer3X3Z_LE
 url: /resources/videos/what-is-a-product-backlog-
 canonicalUrl: https://www.youtube.com/watch?v=_Eer3X3Z_LE
-coverImage: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

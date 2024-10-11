@@ -1,22 +1,21 @@
 ---
+title: Retrieving an identity from Team Foundation Server using only the display name
+date: 2008-12-01
+creator: Martin Hinshelwood
 id: "159"
-title: "Retrieving an identity from Team Foundation Server using only the display name"
-date: "2008-12-01"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "tfs2008"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "retrieving-an-identity-from-team-foundation-server-using-only-the-display-name"
-
+slug: retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
 aliases:
   - /blog/retrieving-an-identity-from-team-foundation-server-using-only-the-display-name
+tags:
+  - code
+  - codeproject
+  - tfs2008
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 This is a lot harder than it sounds. At first you think there will be a built in option with the [Read Identities](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.readidentities.aspx) method on the [IGroupSecurityService](http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.server.igroupsecurityservice.aspx) Interface, but you would be wrong!

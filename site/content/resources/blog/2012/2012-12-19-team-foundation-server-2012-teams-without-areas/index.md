@@ -1,28 +1,27 @@
 ---
+title: Teams without areas using a team field in TFS
+date: 2012-12-19
+creator: Martin Hinshelwood
 id: "9188"
-title: "Teams without areas using a team field in TFS"
-date: "2012-12-19"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "area-path"
-  - "configuration"
-  - "infrastructure"
-  - "team-field"
-  - "tf400512"
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-16-16.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-foundation-server-2012-teams-without-areas"
-
+slug: team-foundation-server-2012-teams-without-areas
 aliases:
   - /blog/team-foundation-server-2012-teams-without-areas
+tags:
+  - area-path
+  - configuration
+  - infrastructure
+  - team-field
+  - tf400512
+  - tfs
+  - tfs2012
+  - tfs2012-1
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-16-16.png
 ---
 
 Did you know that you can use Teams without areas using a team field in TFS? There are numerous reasons to do this but the decision should not be taken lightly.

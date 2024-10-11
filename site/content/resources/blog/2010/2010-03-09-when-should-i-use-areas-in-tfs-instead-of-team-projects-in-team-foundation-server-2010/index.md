@@ -1,22 +1,21 @@
 ---
+title: When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010
+date: 2010-03-09
+creator: Martin Hinshelwood
 id: "64"
-title: "When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010"
-date: "2010-03-09"
-tags:
-  - "codeproject"
-  - "one-team-project-seriese"
-  - "ssw"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2010-128-link-8-8.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010"
-
+slug: when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
 aliases:
   - /blog/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010
+tags:
+  - codeproject
+  - one-team-project-seriese
+  - ssw
+  - tfs
+  - tfs2010
+  - tools
+preview: metro-visual-studio-2010-128-link-8-8.png
 ---
 
 Well, it depends… If you are a small company that creates a finite number of internal projects then you will find it easier to create a single project for each of your products and have TFS do the heavy lifting with reporting, SharePoint sites and Version Control.

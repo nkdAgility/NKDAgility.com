@@ -4,7 +4,7 @@ date: 2023-10-23T07:00:21Z
 videoId: vhBsAXev014
 url: /resources/videos/chaos!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=vhBsAXev014
-coverImage: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vhBsAXev014/maxresdefault.jpg
 duration: 525
 isShort: False
 ---

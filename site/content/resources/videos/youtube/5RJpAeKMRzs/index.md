@@ -4,7 +4,7 @@ date: 2024-04-14T12:17:16Z
 videoId: 5RJpAeKMRzs
 url: /resources/videos/the-7-deadly-sins-of-agile!
 canonicalUrl: https://www.youtube.com/watch?v=5RJpAeKMRzs
-coverImage: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5RJpAeKMRzs/maxresdefault.jpg
 duration: 2299
 isShort: False
 ---
@@ -26,7 +26,7 @@ Key Takeaways:
 00:27:55 Envy
 00:34:26 Pride
 
-*NKDAgility can help!*
+_NKDAgility can help!_
 
 If you are struggling with navigating the challenges of agile transformation, my team at NKDAgility can assist you or connect you with a consultant, coach, or trainer suited to your needs. Don't wait any longer, reach out today for a brighter, more agile future!
 

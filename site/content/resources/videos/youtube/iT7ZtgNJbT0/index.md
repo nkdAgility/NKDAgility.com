@@ -4,7 +4,7 @@ date: 2023-03-27T07:00:30Z
 videoId: iT7ZtgNJbT0
 url: /resources/videos/what-was-your-best-day-as-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=iT7ZtgNJbT0
-coverImage: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
 isShort: False
 ---

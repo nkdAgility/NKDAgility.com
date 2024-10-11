@@ -4,7 +4,7 @@ date: 2023-12-29T07:00:14Z
 videoId: beR21RHTUvo
 url: /resources/videos/5-ghosts-of-agile-past-story-points
 canonicalUrl: https://www.youtube.com/watch?v=beR21RHTUvo
-coverImage: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
 isShort: False
 ---

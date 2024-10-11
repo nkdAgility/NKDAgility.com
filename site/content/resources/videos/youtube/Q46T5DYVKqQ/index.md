@@ -4,7 +4,7 @@ date: 2023-08-17T07:00:09Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/what-is-empiricism
 canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
-coverImage: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
 isShort: True
 ---

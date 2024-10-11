@@ -2,27 +2,27 @@
 title: The Hero
 description: The Hero takes it upon him or herself to be the saviour.
 type: anti-pattern
-catagorys: 
- - scrum
- - five-dysfunction-of-a-team
-discussionId: 
+catagorys:
+  - scrum
+  - five-dysfunction-of-a-team
+discussionId:
 references:
- - title: "APS Secret Agent: The Hero"
-   url: https://nkdagility.com/resources/aps-secret-agent-the-hero/
+  - title: "APS Secret Agent: The Hero"
+    url: https://nkdagility.com/resources/aps-secret-agent-the-hero/
 recommendedContent:
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
- - collection: guides
-   path: _guides/kanban-guide-for-scrum-teams.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/kanban-guide-for-scrum-teams.md
 videos:
- - title: Overview of The Scrum Framework
-   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
- - title: What is Professional Scrum?
-   embed: https://www.youtube.com/embed/BYlv7eP9zgg
+  - title: Overview of The Scrum Framework
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: What is Professional Scrum?
+    embed: https://www.youtube.com/embed/BYlv7eP9zgg
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -43,5 +43,4 @@ Examples of the Hero Behaviour
 
 - The Team may actually rely on the Hero, allowing this vocal person to drive outcomes
 - Trust on the Team dissolves as Team members become divested of ownership
-- Quality suffers as the Hero does not actually meet the Team’s Definition of Done, offering convincing arguments as to why this doesn’t matter 
-
+- Quality suffers as the Hero does not actually meet the Team’s Definition of Done, offering convincing arguments as to why this doesn’t matter

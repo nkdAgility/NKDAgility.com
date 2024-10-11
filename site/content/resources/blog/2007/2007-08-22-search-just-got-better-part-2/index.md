@@ -1,17 +1,16 @@
 ---
-id: "322"
 title: "Search just got better: Part 2"
-date: "2007-08-22"
-tags:
-  - "dyslexia"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-08-22
+creator: Martin Hinshelwood
+id: "322"
 layout: blog
 resourceType: blog
-slug: "search-just-got-better-part-2"
-
+slug: search-just-got-better-part-2
 aliases:
   - /blog/search-just-got-better-part-2
+tags:
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 After my post on the new [Tafiti](http://www.tafiti.com/) search engine a fellow by the name of [Anselm](http://www.searchcrystal.com/) pointed out [Search Crystal](http://www.searchcrystal.com "http://www.searchcrystal.com"), another visual search engine that produces some good result. I did not get he same Wow that I did from Tafiti, but the amount of information that is provided through the interface is extensive.

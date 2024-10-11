@@ -1,19 +1,18 @@
 ---
+title: NetIDme
+date: 2007-06-15
+creator: Martin Hinshelwood
 id: "384"
-title: "NetIDme"
-date: "2007-06-15"
-tags:
-  - "service-oriented-architecture"
-  - "sharepoint"
-  - "spf2010"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "netidme"
-
+slug: netidme
 aliases:
   - /blog/netidme
+tags:
+  - service-oriented-architecture
+  - sharepoint
+  - spf2010
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 I have just been made aware of a [new ('ish) service.](http://www.netidme.net/ "netidme") It allows you to verify the identity of those users you interact with online. This is a very usefully service for any online site or community where users are under 18, but is there any value for those of us that are not?

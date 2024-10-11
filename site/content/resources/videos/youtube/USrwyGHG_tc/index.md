@@ -4,7 +4,7 @@ date: 2023-04-24T07:00:18Z
 videoId: USrwyGHG_tc
 url: /resources/videos/is-a-scrum-master-an-agile-micro-manager-
 canonicalUrl: https://www.youtube.com/watch?v=USrwyGHG_tc
-coverImage: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/USrwyGHG_tc/maxresdefault.jpg
 duration: 45
 isShort: True
 ---

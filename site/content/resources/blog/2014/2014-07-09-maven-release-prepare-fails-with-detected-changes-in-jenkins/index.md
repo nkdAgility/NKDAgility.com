@@ -1,22 +1,21 @@
 ---
+title: Maven release prepare fails with detected changes in Jenkins
+date: 2014-07-09
+creator: Martin Hinshelwood
 id: "10579"
-title: "Maven release prepare fails with detected changes in Jenkins"
-date: "2014-07-09"
-categories:
-  - "problems-and-puzzles"
-  - "upgrade-and-maintenance"
-tags:
-  - "jenkins"
-  - "maven"
-  - "tfignore"
-coverImage: "naked-alm-jenkins-logo-9-9.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "maven-release-prepare-fails-with-detected-changes-in-jenkins"
-
+slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
   - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
+tags:
+  - jenkins
+  - maven
+  - tfignore
+categories:
+  - problems-and-puzzles
+  - upgrade-and-maintenance
+preview: naked-alm-jenkins-logo-9-9.png
 ---
 
 If you are using Team Explorer Everywhere 2012 or 2013 your Maven release prepare fails with detected changes, however it worked when you were using SVN.

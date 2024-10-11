@@ -1,20 +1,19 @@
 ---
+title: What the 0x80072020?
+date: 2008-03-04
+creator: Martin Hinshelwood
 id: "243"
-title: "What the 0x80072020?"
-date: "2008-03-04"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "wcf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-the-0x80072020"
-
+slug: what-the-0x80072020
 aliases:
   - /blog/what-the-0x80072020
+tags:
+  - code
+  - wcf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I have found a small bug (as in, "Not working as expected!") in the new .NET 3.5 PrincipalContext classes. When you are running on an ASP.NET site in impersonation mode you cannot retrieve information from active directory without the following error:

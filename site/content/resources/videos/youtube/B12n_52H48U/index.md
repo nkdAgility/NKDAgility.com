@@ -4,7 +4,7 @@ date: 2023-09-13T13:59:54Z
 videoId: B12n_52H48U
 url: /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
 canonicalUrl: https://www.youtube.com/watch?v=B12n_52H48U
-coverImage: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/B12n_52H48U/maxresdefault.jpg
 duration: 313
 isShort: False
 ---

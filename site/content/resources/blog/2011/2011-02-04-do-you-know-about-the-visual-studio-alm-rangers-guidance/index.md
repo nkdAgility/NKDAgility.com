@@ -1,21 +1,20 @@
 ---
+title: Do you know about the Visual Studio ALM Rangers Guidance?
+date: 2011-02-04
+creator: Martin Hinshelwood
 id: "15"
-title: "Do you know about the Visual Studio ALM Rangers Guidance?"
-date: "2011-02-04"
-tags:
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-know-about-the-visual-studio-alm-rangers-guidance"
-
+slug: do-you-know-about-the-visual-studio-alm-rangers-guidance
 aliases:
   - /blog/do-you-know-about-the-visual-studio-alm-rangers-guidance
+tags:
+  - nwcadence
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
+preview: metro-visual-studio-2010-128-link-3-3.png
 ---
 
 [![vs2010almRanger](images/Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_thumb-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-ALM-_D18D-vs2010almRanger_2.png)

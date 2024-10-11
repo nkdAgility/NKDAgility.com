@@ -1,33 +1,32 @@
 ---
+title: Continuous value delivery with modern business applications
+date: 2012-11-27
+creator: Martin Hinshelwood
 id: "9149"
-title: "Continuous value delivery with modern business applications"
-date: "2012-11-27"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "continious-value-delivery"
-  - "define"
-  - "develop"
-  - "improve"
-  - "infrastructure"
-  - "measure"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "tfs2012"
-  - "vs2012"
-  - "vs-2012-1"
-coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "continuous-value-delivery-with-modern-business-applications"
-
+slug: continuous-value-delivery-with-modern-business-applications
 aliases:
   - /blog/continuous-value-delivery-with-modern-business-applications
+tags:
+  - continious-value-delivery
+  - define
+  - develop
+  - improve
+  - infrastructure
+  - measure
+  - operate
+  - people
+  - practices
+  - process
+  - tfs2012
+  - vs2012
+  - vs-2012-1
+categories:
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
 
 I have talked before on the [new normal for software development](http://blog.hinshelwood.com/the-new-normal-of-the-modern-application-lifecycle/) as part of the Visual Studio 2012 launch events and Microsoft in itself is not immune to this change.

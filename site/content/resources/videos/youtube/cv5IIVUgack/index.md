@@ -4,7 +4,7 @@ date: 2023-06-22T11:00:25Z
 videoId: cv5IIVUgack
 url: /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
 canonicalUrl: https://www.youtube.com/watch?v=cv5IIVUgack
-coverImage: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/cv5IIVUgack/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

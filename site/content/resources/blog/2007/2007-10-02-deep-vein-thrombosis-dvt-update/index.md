@@ -1,17 +1,16 @@
 ---
+title: Deep vein thrombosis (DVT) Update
+date: 2007-10-02
+creator: Martin Hinshelwood
 id: "306"
-title: "Deep vein thrombosis (DVT) Update"
-date: "2007-10-02"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "deep-vein-thrombosis-dvt-update"
-
+slug: deep-vein-thrombosis-dvt-update
 aliases:
   - /blog/deep-vein-thrombosis-dvt-update
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Back in March I [posted](http://blog.hinshelwood.com/archive/2007/03/03/Deep_vein_thrombosis_DVT.aspx) about my friend Katie McPherson that died of DVT and her family's [petition](http://epetitions.scottish.parliament.uk/view_petition.asp?PetitionID=155) calling for the Scottish Executive to [introduce mandatory assessment](http://news.bbc.co.uk/1/hi/scotland/glasgow_and_west/7024788.stm) tools for all health boards for the diagnosis of deep vein thrombosis and to get all newborn babies tested for the "Factor V" gene that increases their susceptibility to the condition.

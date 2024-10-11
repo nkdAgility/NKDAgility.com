@@ -1,21 +1,20 @@
 ---
+title: Understanding TFS migrations from on-premise to Visual Studio Online
+date: 2014-12-17
+creator: Martin Hinshelwood
 id: "10987"
-title: "Understanding TFS migrations from on-premise to Visual Studio Online"
-date: "2014-12-17"
-categories:
-  - "news-and-reviews"
-tags:
-  - "migration"
-  - "tfs"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "understanding-tfs-migrations-premise-visual-studio-online"
-
+slug: understanding-tfs-migrations-premise-visual-studio-online
 aliases:
   - /blog/understanding-tfs-migrations-premise-visual-studio-online
+tags:
+  - migration
+  - tfs
+  - vsteamservices
+categories:
+  - news-and-reviews
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 ---
 
 I have recently been doing a lot of migrations and [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) asked me to write a white-paper about understanding TFS migrations from on-premise to Visual Studio Online.

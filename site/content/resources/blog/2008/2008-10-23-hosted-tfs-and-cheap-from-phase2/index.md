@@ -1,20 +1,19 @@
 ---
+title: Hosted TFS, and cheap….from Phase2
+date: 2008-10-23
+creator: Martin Hinshelwood
 id: "183"
-title: "Hosted TFS, and cheap….from Phase2"
-date: "2008-10-23"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "tfs"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "hosted-tfs-and-cheap-from-phase2"
-
+slug: hosted-tfs-and-cheap-from-phase2
 aliases:
   - /blog/hosted-tfs-and-cheap-from-phase2
+tags:
+  - moss2007
+  - sharepoint
+  - tfs
+  - tools
+preview: metro-sharepoint-128-link-2-2.png
 ---
 
 [![image](images/21c33c4198cb_76CA-image_thumb_2-1-1.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-21c33c4198cb_76CA-image_6.png)

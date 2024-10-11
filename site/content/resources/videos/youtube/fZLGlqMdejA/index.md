@@ -4,7 +4,7 @@ date: 2023-10-11T12:00:36Z
 videoId: fZLGlqMdejA
 url: /resources/videos/greed!-7-deadly-sins-of-agile
 canonicalUrl: https://www.youtube.com/watch?v=fZLGlqMdejA
-coverImage: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/fZLGlqMdejA/maxresdefault.jpg
 duration: 380
 isShort: False
 ---

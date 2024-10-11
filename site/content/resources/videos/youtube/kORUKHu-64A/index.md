@@ -4,7 +4,7 @@ date: 2023-10-26T07:00:29Z
 videoId: kORUKHu-64A
 url: /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
 canonicalUrl: https://www.youtube.com/watch?v=kORUKHu-64A
-coverImage: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/kORUKHu-64A/maxresdefault.jpg
 duration: 235
 isShort: False
 ---

@@ -1,9 +1,9 @@
 ---
+title: Genus Breeding Ltd
+date: 2021-05-26
+creator: Martin Hinshelwood
 id: "46204"
-title: "Genus Breeding Ltd"
-date: "2021-05-26"
-coverImage: "genus-logo.jpeg"
-author: "MrHinsh"
-type: "customers"
-slug: "genus-breeding-ltd"
+type: customers
+slug: genus-breeding-ltd
+preview: genus-logo.jpeg
 ---

@@ -1,24 +1,23 @@
 ---
+title: Professional Scrum is for everyone in your organisation
+date: 2018-01-16
+creator: Martin Hinshelwood
 id: "38287"
-title: "Professional Scrum is for everyone in your organisation"
-date: "2018-01-16"
-categories:
-  - "agility"
-tags:
-  - "agile"
-  - "evidence-based-management"
-  - "professioal-scrum"
-  - "scrum"
-  - "scrum-definition"
-  - "training"
-coverImage: "nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-everyone-organisation"
-
+slug: professional-scrum-everyone-organisation
 aliases:
   - /blog/professional-scrum-everyone-organisation
+tags:
+  - agile
+  - evidence-based-management
+  - professioal-scrum
+  - scrum
+  - scrum-definition
+  - training
+categories:
+  - agility
+preview: nkdagility-professional-scrum-is-for-everyone-1-2-2.jpg
 ---
 
 Recently I worked with a new customer in Denver to help them move towards a greater degree of Scrum in their software development. The idea that Scrum is for everyone in your organisation is kind of new, but it reflects the modern understanding of the way people work, and the rejection of Taylorism and command and control. You [cant use someone else approaches to get to agility](https://nkdagility.com/organisational-change-create-path/), but you can learn from it.

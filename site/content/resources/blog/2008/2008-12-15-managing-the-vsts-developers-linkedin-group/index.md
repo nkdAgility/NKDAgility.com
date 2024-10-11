@@ -1,18 +1,17 @@
 ---
+title: Managing the “VSTS Developers” LinkedIn group.
+date: 2008-12-15
+creator: Martin Hinshelwood
 id: "153"
-title: "Managing the “VSTS Developers” LinkedIn group."
-date: "2008-12-15"
-categories:
-  - "me"
-tags:
-  - "tfs"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "managing-the-vsts-developers-linkedin-group"
-
+slug: managing-the-vsts-developers-linkedin-group
 aliases:
   - /blog/managing-the-vsts-developers-linkedin-group
+tags:
+  - tfs
+categories:
+  - me
 ---
 
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)

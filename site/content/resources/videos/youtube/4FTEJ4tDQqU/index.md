@@ -4,7 +4,7 @@ date: 2023-03-02T07:00:01Z
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 canonicalUrl: https://www.youtube.com/watch?v=4FTEJ4tDQqU
-coverImage: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
 isShort: False
 ---

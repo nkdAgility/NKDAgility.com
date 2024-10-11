@@ -4,7 +4,7 @@ date: 2023-05-04T07:00:19Z
 videoId: sb9RsFslUfU
 url: /resources/videos/how-did-you-know-you-were-ready-to-transition-from-devops-practitioner-to-devops-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=sb9RsFslUfU
-coverImage: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/sb9RsFslUfU/maxresdefault.jpg
 duration: 186
 isShort: False
 ---

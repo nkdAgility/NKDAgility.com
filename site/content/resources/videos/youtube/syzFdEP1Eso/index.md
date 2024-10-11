@@ -4,7 +4,7 @@ date: 2023-11-14T07:00:30Z
 videoId: syzFdEP1Eso
 url: /resources/videos/how-do-you-define-a-definition-of-done-if-you-aren't-100-sure-what-the-solution-is-
 canonicalUrl: https://www.youtube.com/watch?v=syzFdEP1Eso
-coverImage: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/syzFdEP1Eso/maxresdefault.jpg
 duration: 352
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-08-10T07:00:32Z
 videoId: j-mPdGP7BiU
 url: /resources/videos/ppdv-learning-outcomes
 canonicalUrl: https://www.youtube.com/watch?v=j-mPdGP7BiU
-coverImage: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/j-mPdGP7BiU/maxresdefault.jpg
 duration: 302
 isShort: False
 ---

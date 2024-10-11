@@ -4,7 +4,7 @@ date: 2024-02-21T07:00:11Z
 videoId: ZQu2uSt1xxk
 url: /resources/videos/overview-of-applying-professional-kanban-course-1
 canonicalUrl: https://www.youtube.com/watch?v=ZQu2uSt1xxk
-coverImage: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ZQu2uSt1xxk/maxresdefault.jpg
 duration: 104
 isShort: False
 ---

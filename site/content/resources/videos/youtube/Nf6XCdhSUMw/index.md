@@ -4,7 +4,7 @@ date: 2024-08-14T07:12:45Z
 videoId: Nf6XCdhSUMw
 url: /resources/videos/introduction-to-evidence-based-management
 canonicalUrl: https://www.youtube.com/watch?v=Nf6XCdhSUMw
-coverImage: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Nf6XCdhSUMw/maxresdefault.jpg
 duration: 414
 isShort: False
 ---

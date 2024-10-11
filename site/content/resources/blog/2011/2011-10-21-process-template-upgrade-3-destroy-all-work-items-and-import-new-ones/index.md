@@ -1,20 +1,19 @@
 ---
-id: "3951"
 title: "Process Template Upgrade #3 - Destroy all Work Items and Import new ones"
-date: "2011-10-21"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-5-5.png"
-author: "MrHinsh"
+date: 2011-10-21
+creator: Martin Hinshelwood
+id: "3951"
 layout: blog
 resourceType: blog
-slug: "process-template-upgrade-3-destroy-all-work-items-and-import-new-ones"
-
+slug: process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
 aliases:
   - /blog/process-template-upgrade-3-destroy-all-work-items-and-import-new-ones
+tags:
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+preview: metro-visual-studio-2005-128-link-5-5.png
 ---
 
 ![VisualStudioALMLogo](images/VisualStudioALMLogo-6-6.png "VisualStudioALMLogo")
@@ -38,6 +37,7 @@ We have a couple of things to do, and yes, the order does matter:
 This will allow you to move from one process template to another, but there are other things that might be of importance. Maybe you want to upgrade your SharePoint site as well. That however if outside the scope of this post.
 
 1.  #### **Fix Queries**
+
         Because we want to keep the old queries around, and you can do nothing but delete them once you delete the Work item Types we need to move them before we do anything to the Team Project. it may be that some of the teams spent a long time getting their queries “just right” and we don’t just want to delete that hard work.
 
         1. ##### **Create a folder called “\_2008Archive”**
@@ -45,31 +45,36 @@ This will allow you to move from one process template to another, but there are 
             TFS 2010 added the ability to have Query folders. Here is hoping that we get them on Builds as well in the future.
 
             [![image](images/image_thumb6-1-1.png "image")](http://blog.hinshelwood.com/files/2011/05/image8.png)
+
     { .post-img }
-            **Figure: The folder will store all of the old queries**
+    **Figure: The folder will store all of the old queries**
 
         2. ##### **Move all of the existing Queries into this folder**
 
             Luckily we can drag and drop Queries within the same Team Project.
 
             [![image](images/image_thumb7-2-2.png "image")](http://blog.hinshelwood.com/files/2011/05/image9.png)
+
     { .post-img }
-            **Figure: All of your queries are now saved**
+    **Figure: All of your queries are now saved**
 
         3. ##### **Copy all of the new queries into the team project**
 
             We have at least one Team Project that was created with the new template (TfsCustomisations), and even more luckily we can drag and drop Queries between Team Projects.
 
             [![image](images/image_thumb8-3-3.png "image")](http://blog.hinshelwood.com/files/2011/05/image11.png)
+
     { .post-img }
-            **Figure: Shiny new Queries are now waiting for the team**
+    **Figure: Shiny new Queries are now waiting for the team**
 
 2.  #### **Fix Reports**
+
         You will need to add the new reports to TFS, but unfortunately while there is drag and drop support for moving reports within a Team Project there is no way to drag them _into_ a Team Project, but there his a command line tool to support this. However, prior to running it you should again create a “\_2008Archive” folder to load all of the existing reports into. Again there may be a bunch of custom reports in there that the team does not want to loose. Once you have done that you can call the command line option to install the new templates
 
         ![image](images/image1-4-4.png "image")
+
     { .post-img }
-        **Figure: Put all existing reports under “\_2008Archive”**
+    **Figure: Put all existing reports under “\_2008Archive”**
 
         ```
         tfpt addprojectreports /collection:%tpc% /teamproject:%tp% /processtemplate:"Scrum for Team System v3.0.3784.03" /force
@@ -80,6 +85,7 @@ This will allow you to move from one process template to another, but there are 
         **
 
         note: You will need to have permission to add reports to Reporting Services. Make sure that you are in the Team Foundation Content Manger” role.
+
 3.  #### **Tare down old Process Template**
 
     This is where the demolition expert in you gets to have a little fun. It is very complicated to build things, and not so much to destroy them. Now that we have all of our data exported and transformed we can go ahead and destroy all of the Work Item Type Definitions (WITD) that are in that Team Project.

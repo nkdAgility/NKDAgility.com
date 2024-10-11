@@ -1,22 +1,21 @@
 ---
+title: What is your perspective on collocation?
+date: 2019-10-21
+creator: Martin Hinshelwood
 id: "39960"
-title: "What is your perspective on collocation?"
-date: "2019-10-21"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "collocation"
-  - "scrum-team"
-  - "team-room"
-coverImage: "1026661500-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-is-your-perspective-on-collocation"
-
+slug: what-is-your-perspective-on-collocation
 aliases:
   - /blog/what-is-your-perspective-on-collocation
+tags:
+  - collocation
+  - scrum-team
+  - team-room
+categories:
+  - agility
+  - people-and-process
+preview: 1026661500-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

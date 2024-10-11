@@ -1,25 +1,24 @@
 ---
-id: "10528"
 title: "Evidence-based Management: Gathering the metrics"
-date: "2020-12-30"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "ebmgt"
-  - "evidence"
-  - "evidence-based-management"
-  - "featured"
-  - "leadership-track"
-  - "merics"
-coverImage: "naked-agility-evidence-based-management-1-1.jpg"
-author: "MrHinsh"
+date: 2020-12-30
+creator: Martin Hinshelwood
+id: "10528"
 layout: blog
 resourceType: blog
-slug: "evidence-based-management-gathering-metrics"
-
+slug: evidence-based-management-gathering-metrics
 aliases:
   - /blog/evidence-based-management-gathering-metrics
+tags:
+  - ebmgt
+  - evidence
+  - evidence-based-management
+  - featured
+  - leadership-track
+  - merics
+categories:
+  - measure-and-learn
+  - people-and-process
+preview: naked-agility-evidence-based-management-1-1.jpg
 ---
 
 Gathering the metrics for Evidence-based Management in software organisations can be a strenuous task and I have a number of customers that are fretting on what to collect and from where. Here I try to create an understanding of the 'what' that we need to collect.

@@ -4,7 +4,7 @@ date: 2024-05-08T06:45:02Z
 videoId: VOUmfpB-d88
 url: /resources/videos/nkd-agility-training-approach
 canonicalUrl: https://www.youtube.com/watch?v=VOUmfpB-d88
-coverImage: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/VOUmfpB-d88/maxresdefault.jpg
 duration: 430
 isShort: False
 ---

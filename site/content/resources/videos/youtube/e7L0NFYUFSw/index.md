@@ -4,7 +4,7 @@ date: 2023-02-02T07:00:13Z
 videoId: e7L0NFYUFSw
 url: /resources/videos/does-scrum-really-allow-you-to-do-twice-the-work-in-half-the-time-
 canonicalUrl: https://www.youtube.com/watch?v=e7L0NFYUFSw
-coverImage: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/e7L0NFYUFSw/maxresdefault.jpg
 duration: 205
 isShort: False
 ---

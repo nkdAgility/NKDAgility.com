@@ -1,11 +1,11 @@
 ---
+title: Boeing
+date: 2011-12-08
+creator: Martin Hinshelwood
 id: "45362"
-title: "Boeing"
-date: "2011-12-08"
+type: customers
+slug: boeing
 tags:
-  - "homepage"
-coverImage: "Boeing.jpg"
-author: "MrHinsh"
-type: "customers"
-slug: "boeing"
+  - homepage
+preview: Boeing.jpg
 ---

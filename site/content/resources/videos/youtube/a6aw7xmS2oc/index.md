@@ -4,7 +4,7 @@ date: 2023-09-20T07:00:00Z
 videoId: a6aw7xmS2oc
 url: /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 canonicalUrl: https://www.youtube.com/watch?v=a6aw7xmS2oc
-coverImage: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2023-06-26T11:00:14Z
 videoId: I5YoOAai-m4
 url: /resources/videos/agile-coach-versus-professional-coach
 canonicalUrl: https://www.youtube.com/watch?v=I5YoOAai-m4
-coverImage: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/I5YoOAai-m4/maxresdefault.jpg
 duration: 57
 isShort: True
 ---

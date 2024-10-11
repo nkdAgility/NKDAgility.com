@@ -1,21 +1,20 @@
 ---
+title: Developing Peer-To-Peer Applications With WCF
+date: 2007-09-06
+creator: Martin Hinshelwood
 id: "317"
-title: "Developing Peer-To-Peer Applications With WCF"
-date: "2007-09-06"
-categories:
-  - "me"
-tags:
-  - "service-oriented-architecture"
-  - "tfs"
-  - "tools"
-  - "wcf"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developing-peer-to-peer-applications-with-wcf"
-
+slug: developing-peer-to-peer-applications-with-wcf
 aliases:
   - /blog/developing-peer-to-peer-applications-with-wcf
+tags:
+  - service-oriented-architecture
+  - tfs
+  - tools
+  - wcf
+categories:
+  - me
 ---
 
 I recently had the need to create and deliver a presentation on [Developing Peer-To-Peer Applications With WCF](http://presentations.multidimensionalfreethinking.co.uk/Developing%20Peer-To-Peer%20Applications%20With%20WCF.pptx). Although the technical content was good, my delivery was not. I got stage fright...

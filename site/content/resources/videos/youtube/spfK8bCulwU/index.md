@@ -4,7 +4,7 @@ date: 2023-05-08T07:00:15Z
 videoId: spfK8bCulwU
 url: /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
-coverImage: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
 isShort: False
 ---

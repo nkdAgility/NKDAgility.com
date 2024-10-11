@@ -4,7 +4,7 @@ date: 2024-07-11T06:45:01Z
 videoId: b3HFBlCcomk
 url: /resources/videos/debunking-the-myth-agile-is-not-about-speed
 canonicalUrl: https://www.youtube.com/watch?v=b3HFBlCcomk
-coverImage: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/b3HFBlCcomk/maxresdefault.jpg
 duration: 494
 isShort: False
 ---

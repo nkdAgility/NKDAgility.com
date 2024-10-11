@@ -1,19 +1,18 @@
 ---
+title: Woops I installed Windows 8 instead of Windows 8 Pro!
+date: 2012-08-02
+creator: Martin Hinshelwood
 id: "6938"
-title: "Woops I installed Windows 8 instead of Windows 8 Pro!"
-date: "2012-08-02"
-tags:
-  - "tools"
-  - "win8"
-  - "windows"
-coverImage: "nakedalm-windows-logo-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "woops-i-installed-windows-8-instead-of-windows-8-pro"
-
+slug: woops-i-installed-windows-8-instead-of-windows-8-pro
 aliases:
   - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
+tags:
+  - tools
+  - win8
+  - windows
+preview: nakedalm-windows-logo-7-7.png
 ---
 
 After installing Windows 8 I tried to do a couple of things that I normally do to set up my computer.

@@ -1,23 +1,22 @@
 ---
+title: AD Update-O-Matic
+date: 2007-11-20
+creator: Martin Hinshelwood
 id: "290"
-title: "AD Update-O-Matic"
-date: "2007-11-20"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ad-update-o-matic"
-
+slug: ad-update-o-matic
 aliases:
   - /blog/ad-update-o-matic
+tags:
+  - code
+  - infrastructure
+  - moss2007
+  - sharepoint
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 In my quest to

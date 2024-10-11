@@ -4,7 +4,7 @@ date: 2023-05-17T07:00:14Z
 videoId: cR4D4qQe9ps
 url: /resources/videos/-1-tip-for-a-scrum-master
 canonicalUrl: https://www.youtube.com/watch?v=cR4D4qQe9ps
-coverImage: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
 isShort: True
 ---

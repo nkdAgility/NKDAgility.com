@@ -4,7 +4,7 @@ date: 2023-06-23T11:00:09Z
 videoId: F0jOj6ql330
 url: /resources/videos/most-rewarding-part-of-being-a-scrum-developer-
 canonicalUrl: https://www.youtube.com/watch?v=F0jOj6ql330
-coverImage: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/F0jOj6ql330/maxresdefault.jpg
 duration: 46
 isShort: True
 ---

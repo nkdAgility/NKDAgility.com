@@ -1,21 +1,20 @@
 ---
+title: TFS for cross team and cross business line work item tracking
+date: 2014-03-04
+creator: Martin Hinshelwood
 id: "10378"
-title: "TFS for cross team and cross business line work item tracking"
-date: "2014-03-04"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "team-field"
-  - "tfs"
-  - "tfs-2013"
-coverImage: "nakedalm-experts-visual-studio-alm-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-cross-team-cross-business-line-work-item-tracking"
-
+slug: tfs-cross-team-cross-business-line-work-item-tracking
 aliases:
   - /blog/tfs-cross-team-cross-business-line-work-item-tracking
+tags:
+  - team-field
+  - tfs
+  - tfs-2013
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-4-4.png
 ---
 
 I was asked by current customer to come up with a solution, within TFS, to allow an entire division to work together in delivering software for a bank. This divisions made up of over 10 teams than work on many pieces of software. Some have simple requirements while others require harsh security and compliance. This is a standard problem and not unique to this company, however the perception still prevails with both TFS users and administrators, that one must have a single Team Project for each \[Project | Team | Product\] under way. This perception is not only incorrect but Team Foundation Server was designed to be used differently. The Developer Division (DevDiv) at Microsoft, who built the product, uses a single 20+ terabyte Team Project for their Work Items, Source Code and Builds for over 2k people. Team Foundation Server was designed and built to be used with fewer large Team Projects rather than many small Team Projects.

@@ -1,20 +1,19 @@
 ---
+title: I hope you did not pay for Microsoft Office Sharepoint Designer 2007
+date: 2009-04-03
+creator: Martin Hinshelwood
 id: "131"
-title: "I hope you did not pay for Microsoft Office Sharepoint Designer 2007"
-date: "2009-04-03"
-tags:
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007"
-
+slug: i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
 aliases:
   - /blog/i-hope-you-did-not-pay-for-microsoft-office-sharepoint-designer-2007
+tags:
+  - moss2007
+  - sharepoint
+  - sp2007
+  - tools
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 Coz its now free…

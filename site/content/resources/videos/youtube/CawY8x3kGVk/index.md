@@ -4,7 +4,7 @@ date: 2023-10-25T07:00:09Z
 videoId: CawY8x3kGVk
 url: /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
 canonicalUrl: https://www.youtube.com/watch?v=CawY8x3kGVk
-coverImage: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/CawY8x3kGVk/maxresdefault.jpg
 duration: 234
 isShort: False
 ---

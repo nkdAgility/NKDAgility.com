@@ -1,17 +1,16 @@
 ---
+title: Branding and Customizing SharePoint 2007
+date: 2007-10-05
+creator: Martin Hinshelwood
 id: "303"
-title: "Branding and Customizing SharePoint 2007"
-date: "2007-10-05"
-tags:
-  - "sp2007"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "branding-and-customizing-sharepoint-2007"
-
+slug: branding-and-customizing-sharepoint-2007
 aliases:
   - /blog/branding-and-customizing-sharepoint-2007
+tags:
+  - sp2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have been delving into the black art of SharePoint Branding, and I have been finding it a grueling process. Don't get me wrong it is a vast improvement over SharePoint 2003 and I have already built 2 Features (but not for public consumption yet).

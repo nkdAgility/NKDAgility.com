@@ -1,18 +1,17 @@
 ---
-id: "198"
 title: "Found GDR Bug: At least I think it is."
-date: "2008-09-04"
-tags:
-  - "aggreko"
-  - "tools"
-coverImage: "metro-aggreko-128-link-1-1.png"
-author: "MrHinsh"
+date: 2008-09-04
+creator: Martin Hinshelwood
+id: "198"
 layout: blog
 resourceType: blog
-slug: "found-gdr-bug-at-least-i-think-it-is"
-
+slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
   - /blog/found-gdr-bug-at-least-i-think-it-is
+tags:
+  - aggreko
+  - tools
+preview: metro-aggreko-128-link-1-1.png
 ---
 
 This is not isolated to GDR, but seams to exist in Data Dude as well. If you create the following SQL:

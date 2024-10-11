@@ -4,7 +4,7 @@ date: 2023-03-28T07:00:21Z
 videoId: y0yIAIqOv-Q
 url: /resources/videos/when-should-an-organization-consider-a-professional-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=y0yIAIqOv-Q
-coverImage: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/y0yIAIqOv-Q/maxresdefault.jpg
 duration: 258
 isShort: False
 ---

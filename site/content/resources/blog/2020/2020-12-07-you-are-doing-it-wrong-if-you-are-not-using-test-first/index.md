@@ -1,27 +1,26 @@
 ---
+title: You are doing it wrong if you are not using test first
+date: 2020-12-07
+creator: Martin Hinshelwood
 id: "9469"
-title: "You are doing it wrong if you are not using test first"
-date: "2020-12-07"
-categories:
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "atdd"
-  - "bdd"
-  - "develop"
-  - "developers"
-  - "operational"
-  - "practices"
-  - "tdd"
-  - "test-first"
-coverImage: "nkdAgility-PSD-Krakow-0-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-are-doing-it-wrong-if-you-are-not-using-test-first"
-
+slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
   - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
+tags:
+  - atdd
+  - bdd
+  - develop
+  - developers
+  - operational
+  - practices
+  - tdd
+  - test-first
+categories:
+  - people-and-process
+  - tools-and-techniques
+preview: nkdAgility-PSD-Krakow-0-1-1.jpg
 ---
 
 Many teams are struggling with delivering modern software because they are not building with Test First Principals. Test First gives us the assurance that we have built the correct thing, that what we built is what the customer asked for and that when we change things we don’t break anything inadvertently.

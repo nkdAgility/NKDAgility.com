@@ -1,24 +1,23 @@
 ---
+title: You are doing Scrum but the Scrum Master tells the team what to do!
+date: 2011-09-13
+creator: Martin Hinshelwood
 id: "3778"
-title: "You are doing Scrum but the Scrum Master tells the team what to do!"
-date: "2011-09-13"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do"
-
+slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
   - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
+tags:
+  - agile
+  - develop
+  - nwcadence
+  - people
+  - process
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 If you are doing Scrum but the Scrum Master tells the team what to do then you may be missing the point.

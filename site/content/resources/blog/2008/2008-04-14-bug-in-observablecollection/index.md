@@ -1,22 +1,21 @@
 ---
+title: Bug in ObservableCollection?
+date: 2008-04-14
+creator: Martin Hinshelwood
 id: "240"
-title: "Bug in ObservableCollection?"
-date: "2008-04-14"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "code"
-  - "develop"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "bug-in-observablecollection"
-
+slug: bug-in-observablecollection
 aliases:
   - /blog/bug-in-observablecollection
+tags:
+  - code
+  - develop
+  - wpf
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: metro-binary-vb-128-link-2-2.png
 ---
 
 I seam to be having a little problem. Now, this may be me being stupid, but I can't get an ObservableCollection to work if you pass it a generic type!
@@ -71,8 +70,6 @@ If you create a fixed class type:
 > End Class
 >
 > ```
->
->
 
 And then pass that class in it does work:
 

@@ -1,25 +1,24 @@
 ---
+title: Creating training virtual machines in Azure
+date: 2014-10-07
+creator: Martin Hinshelwood
 id: "10771"
-title: "Creating training virtual machines in Azure"
-date: "2014-10-07"
-categories:
-  - "install-and-configuration"
-  - "tools-and-techniques"
-tags:
-  - "azure"
-  - "hyper-v"
-  - "training"
-  - "vhd"
-  - "visual-studio-2013"
-  - "visual-studio-alm"
-coverImage: "nakedalm-windows-logo-16-16.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-training-virtual-machines-azure"
-
+slug: creating-training-virtual-machines-azure
 aliases:
   - /blog/creating-training-virtual-machines-azure
+tags:
+  - azure
+  - hyper-v
+  - training
+  - vhd
+  - visual-studio-2013
+  - visual-studio-alm
+categories:
+  - install-and-configuration
+  - tools-and-techniques
+preview: nakedalm-windows-logo-16-16.png
 ---
 
 I am teaching the [Managing Projects with Microsoft Visual Studio Team Foundation Server 2013](http://nkdagility.com/training/courses/managing-projects-microsoft-visual-studio-team-foundation-server-2013/) class next week in Cheltenham and for that I need 16 VM's based on the [Visual Studio 2013 Update 3 ALM Virtual Machine](http://aka.ms/vs13almvm). To make life easier I will be creating training virtual machines in Azure.

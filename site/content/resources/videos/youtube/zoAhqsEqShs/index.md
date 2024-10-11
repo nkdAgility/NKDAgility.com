@@ -4,7 +4,7 @@ date: 2023-03-20T07:00:20Z
 videoId: zoAhqsEqShs
 url: /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=zoAhqsEqShs
-coverImage: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/zoAhqsEqShs/maxresdefault.jpg
 duration: 558
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2023-06-27T07:00:06Z
 videoId: 4kqM1U7y1ZM
 url: /resources/videos/what-would-you-look-to-achieve-with-a-new-scrum-team-in-the-first-90-days-
 canonicalUrl: https://www.youtube.com/watch?v=4kqM1U7y1ZM
-coverImage: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/4kqM1U7y1ZM/maxresdefault.jpg
 duration: 239
 isShort: False
 ---

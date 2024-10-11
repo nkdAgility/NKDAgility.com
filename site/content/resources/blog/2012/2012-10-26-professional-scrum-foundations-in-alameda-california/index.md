@@ -1,27 +1,26 @@
 ---
+title: Professional Scrum Foundations in Alameda, California
+date: 2012-10-26
+creator: Martin Hinshelwood
 id: "8981"
-title: "Professional Scrum Foundations in Alameda, California"
-date: "2012-10-26"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "improve"
-  - "measure"
-  - "process"
-  - "process-improvement"
-  - "psf"
-  - "s30d"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-foundations-in-alameda-california"
-
+slug: professional-scrum-foundations-in-alameda-california
 aliases:
   - /blog/professional-scrum-foundations-in-alameda-california
+tags:
+  - agile
+  - improve
+  - measure
+  - process
+  - process-improvement
+  - psf
+  - s30d
+  - scrum
+categories:
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 Professional Scrum Foundations is my favourite course to teach as it balances fun and learning with practical experience.The [Professional Scrum Foundations](http://blog.hinshelwood.com/training/) course is from [Scrum.org](http://scrum.org) and, over two days covers all of the core concepts of Scrum.

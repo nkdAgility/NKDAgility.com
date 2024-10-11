@@ -1,25 +1,24 @@
 ---
+title: My journey into Professional Scrum
+date: 2015-02-04
+creator: Martin Hinshelwood
 id: "11115"
-title: "My journey into Professional Scrum"
-date: "2015-02-04"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "business-agility"
-  - "psd"
-  - "psf"
-  - "psm"
-  - "scrum"
-  - "sps"
-coverImage: "nakedalm-experts-professional-scrum-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "journey-professional-scrum"
-
+slug: journey-professional-scrum
 aliases:
   - /blog/journey-professional-scrum
+tags:
+  - agile
+  - business-agility
+  - psd
+  - psf
+  - psm
+  - scrum
+  - sps
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-5-5.png
 ---
 
 It has been just over a year since I returned from 3 years in the USA and started naked ALM Consulting, and things are going well.. So far. The key to success in software development is, I believe, Professional Scrum.

@@ -4,7 +4,7 @@ date: 2024-09-20T11:04:29Z
 videoId: Bi4ToMME8Xs
 url: /resources/videos/advanced-psm-ii-immersive-learning-classes
 canonicalUrl: https://www.youtube.com/watch?v=Bi4ToMME8Xs
-coverImage: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Bi4ToMME8Xs/maxresdefault.jpg
 duration: 20
 isShort: True
 ---

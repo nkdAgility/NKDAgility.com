@@ -1,24 +1,23 @@
 ---
+title: Visual Studio 2010 Overview - Introduction
+date: 2012-01-25
+creator: Martin Hinshelwood
 id: "4131"
-title: "Visual Studio 2010 Overview - Introduction"
-date: "2012-01-25"
-tags:
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "webcast-2"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2010-overview-introduction"
-
+slug: visual-studio-2010-overview-introduction
 aliases:
   - /blog/visual-studio-2010-overview-introduction
+tags:
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - webcast-2
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 A high-level overview of ALM and how the features in Visual Studio 2010 support ALM. This presentation touches on all the features shown in the rest of the deeper-dive sessions. If attendees don't know which other sessions they want, watching this presentation might help them decide.

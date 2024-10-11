@@ -1,26 +1,25 @@
 ---
+title: Does your company culture resemble Survivor?
+date: 2013-07-10
+creator: Martin Hinshelwood
 id: "9716"
-title: "Does your company culture resemble Survivor?"
-date: "2013-07-10"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "company-culture"
-  - "development-team"
-  - "improve"
-  - "people"
-  - "strategic"
-  - "team"
-  - "teams"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "does-your-company-culture-resemble-survivor"
-
+slug: does-your-company-culture-resemble-survivor
 aliases:
   - /blog/does-your-company-culture-resemble-survivor
+tags:
+  - company-culture
+  - development-team
+  - improve
+  - people
+  - strategic
+  - team
+  - teams
+categories:
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 Does your company culture resemble Survivor? Do you have a culture in your organisation where individuals that help others are considered slackers for not getting their own assignments complete?

@@ -1,25 +1,24 @@
 ---
+title: Issue [ TFS2012.2 ] TF30063 You are not authorized to access
+date: 2013-06-23
+creator: Martin Hinshelwood
 id: "9910"
-title: "Issue [ TFS2012.2 ] TF30063 You are not authorized to access"
-date: "2013-06-23"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "puzzles"
-  - "tf30063"
-  - "tfs"
-  - "tfs2012-2"
-  - "tfs-2012-3"
-coverImage: "puzzle-issue-problem-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "issue-tfs2012-2-tf30063-you-are-not-authorized-to-access"
-
+slug: issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 aliases:
   - /blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
+tags:
+  - configuration
+  - puzzles
+  - tf30063
+  - tfs
+  - tfs2012-2
+  - tfs-2012-3
+categories:
+  - install-and-configuration
+  - problems-and-puzzles
+preview: puzzle-issue-problem-128-link-3-3.png
 ---
 
 If you have TFS 2012 Update 2 (2012.2) installed you might get an error after you [move Team Foundation Server from one environment to another](http://msdn.microsoft.com/en-us/library/ms404883.aspx) (change domain.)

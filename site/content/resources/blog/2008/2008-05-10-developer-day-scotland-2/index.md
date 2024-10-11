@@ -1,17 +1,16 @@
 ---
+title: Developer day Scotland!
+date: 2008-05-10
+creator: Martin Hinshelwood
 id: "230"
-title: "Developer day Scotland!"
-date: "2008-05-10"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developer-day-scotland-2"
-
+slug: developer-day-scotland-2
 aliases:
   - /blog/developer-day-scotland-2
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 [![](images/GetReady1-large.png)](http://developerdayscotland.com/main/Default.aspx) Its the main event tomorrow...

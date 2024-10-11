@@ -1,15 +1,14 @@
 ---
-id: "424"
 title: "TeamPlain Error: TF14002"
-date: "2007-03-27"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-03-27
+creator: Martin Hinshelwood
+id: "424"
 layout: blog
 resourceType: blog
-slug: "teamplain-error-tf14002"
-
+slug: teamplain-error-tf14002
 aliases:
   - /blog/teamplain-error-tf14002
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Some prople have encountered this error when viewing the source control tab in TeamPlain:

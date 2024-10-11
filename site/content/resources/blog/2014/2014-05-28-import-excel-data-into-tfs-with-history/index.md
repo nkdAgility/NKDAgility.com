@@ -1,26 +1,25 @@
 ---
+title: Import Excel data into TFS with History
+date: 2014-05-28
+creator: Martin Hinshelwood
 id: "10541"
-title: "Import Excel data into TFS with History"
-date: "2014-05-28"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "excel"
-  - "import"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-2012-4"
-  - "tfs-2013"
-  - "vba"
-coverImage: "metro-office-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "import-excel-data-into-tfs-with-history"
-
+slug: import-excel-data-into-tfs-with-history
 aliases:
   - /blog/import-excel-data-into-tfs-with-history
+tags:
+  - excel
+  - import
+  - tfs
+  - tfs2012
+  - tfs-2012-4
+  - tfs-2013
+  - vba
+categories:
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: metro-office-128-link-3-3.png
 ---
 
 Have you ever tried to push data into TFS with Excel? I have, and it can often be the opposite of sweetness and light. The idea is to import Excel data into TFS with History.

@@ -1,25 +1,24 @@
 ---
+title: TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear
+date: 2012-10-14
+creator: Martin Hinshelwood
 id: "8936"
-title: "TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear"
-date: "2012-10-14"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "agile"
-  - "agile-planning-tools"
-  - "process"
-  - "puzzles"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-coverImage: "metro-problem-icon-8-8.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear"
-
+slug: tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
 aliases:
   - /blog/tfs-2012-agile-planning-tools-issue-nested-tasks-makes-the-parent-task-disappear
+tags:
+  - agile
+  - agile-planning-tools
+  - process
+  - puzzles
+  - tfs
+  - tfs2012
+  - tools
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-8-8.png
 ---
 
 You should use nested PBI’s and never nested Tasks when you are using the Visual Studio 2012 Team Foundation Server Agile Planning Tools and here is why.
@@ -56,12 +55,12 @@ You can replicate this fairly easily by following these steps to reproduce:
 1.  Add PBI called “PBI 1”
 2.  Add child Task to “PBI 1” called “Task 1”
 3.  Add child Task to “PBI 1” called ‘Task 2”
-        ![clip_image001](images/clip_image001-1-1.png "clip_image001")
+    ![clip_image001](images/clip_image001-1-1.png "clip_image001")
     { .post-img }
     **Figure: Result as expected with “Task 1” and “Task 2” visible  
      **
 4.  Add child Task to “Task 2” called “Task 3”
-        ![clip_image002](images/clip_image002-2-2.png "clip_image002")
+    ![clip_image002](images/clip_image002-2-2.png "clip_image002")
     { .post-img }
     **Figure: Not expected to see “Task 1” & “Task 3”**
 

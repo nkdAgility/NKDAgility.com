@@ -1,25 +1,24 @@
 ---
-id: "21"
 title: "TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number"
-date: "2010-10-20"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "mvvm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-5-5.png"
-author: "MrHinsh"
+date: 2010-10-20
+creator: Martin Hinshelwood
+id: "21"
 layout: blog
 resourceType: blog
-slug: "tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number"
-
+slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
   - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
+tags:
+  - code
+  - codeproject
+  - mvvm
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-5-5.png
 ---
 
 This week my customer had a requirement to have all new work items created to have an ID greater than 40,000. They have another system that stores tickets and they don’t want any conflict.

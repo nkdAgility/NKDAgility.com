@@ -1,17 +1,16 @@
 ---
+title: Moderating for Community-Credit
+date: 2007-09-13
+creator: Martin Hinshelwood
 id: "313"
-title: "Moderating for Community-Credit"
-date: "2007-09-13"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "moderating-for-community-credit"
-
+slug: moderating-for-community-credit
 aliases:
   - /blog/moderating-for-community-credit
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Well, today I started a new part time job that I do not get paid for, but put just as much professional interest into as may main job.

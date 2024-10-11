@@ -1,20 +1,19 @@
 ---
+title: The value of an independent Scotland for me
+date: 2014-07-13
+creator: Martin Hinshelwood
 id: "10655"
-title: "The value of an independent Scotland for me"
-date: "2014-07-13"
-categories:
-  - "me"
-tags:
-  - "indyref"
-  - "iscotland"
-coverImage: "metro-yes-scotland-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-value-of-an-independent-scotland"
-
+slug: the-value-of-an-independent-scotland
 aliases:
   - /blog/the-value-of-an-independent-scotland
+tags:
+  - indyref
+  - iscotland
+categories:
+  - me
+preview: metro-yes-scotland-128-link-1-1.png
 ---
 
 For the last wee while some of you may have noticed some news coverage about Scottish independence. This post is about the value of an independent Scotland for me, so if you are not interested in politics then move along. It will all be over in a few months and you will likely never have to hear about it outside of history again.

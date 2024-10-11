@@ -1,21 +1,20 @@
 ---
-id: "7377"
 title: "TFS Integration Tools - Issue: Sequence contains no elements"
-date: "2012-08-22"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tfs"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-3-3.png"
-author: "MrHinsh"
+date: 2012-08-22
+creator: Martin Hinshelwood
+id: "7377"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-issue-sequence-contains-no-elements"
-
+slug: tfs-integration-tools-issue-sequence-contains-no-elements
 aliases:
   - /blog/tfs-integration-tools-issue-sequence-contains-no-elements
+tags:
+  - puzzles
+  - tfs
+  - tfs-integration-platform
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-3-3.png
 ---
 
 According to [TFS Integration Tools – March 2012 Release](http://blogs.msdn.com/b/willy-peter_schaub/archive/2012/03/20/tfs-integration-tools-march-2012-release.aspx) there was a fix for “Resolving VC namespace conflicts results in System.InvalidOperationException: Sequence contains no elements” in the March release. I am using the March release and:

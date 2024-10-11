@@ -4,7 +4,7 @@ date: 2023-06-09T11:00:46Z
 videoId: ypVIcgSEvMc
 url: /resources/videos/30-discount-for-existing-alumni-overview
 canonicalUrl: https://www.youtube.com/watch?v=ypVIcgSEvMc
-coverImage: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

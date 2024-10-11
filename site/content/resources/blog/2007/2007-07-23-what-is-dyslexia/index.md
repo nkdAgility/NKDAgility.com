@@ -1,17 +1,16 @@
 ---
+title: What is dyslexia?
+date: 2007-07-23
+creator: Martin Hinshelwood
 id: "360"
-title: "What is dyslexia?"
-date: "2007-07-23"
-tags:
-  - "dyslexia"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-is-dyslexia"
-
+slug: what-is-dyslexia
 aliases:
   - /blog/what-is-dyslexia
+tags:
+  - dyslexia
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") is many thing to many people, but it always involves reading. Some people are heavily dyslexic to the point where the are unable to function at all in normal schooling. Many people think of [Dyslexia](http://www.dyslexia.tv/ "Multi-dimensional FreeThinking") as a disability, but the only time I think of it that way is if I can get something:

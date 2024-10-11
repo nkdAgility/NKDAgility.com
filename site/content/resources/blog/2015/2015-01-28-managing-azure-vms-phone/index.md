@@ -1,20 +1,19 @@
 ---
+title: Managing your Azure VM's with your Phone
+date: 2015-01-28
+creator: Martin Hinshelwood
 id: "11152"
-title: "Managing your Azure VM's with your Phone"
-date: "2015-01-28"
-categories:
-  - "products-and-books"
-tags:
-  - "azure"
-  - "windows-phone"
-coverImage: "nakedalm-windows-logo-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "managing-azure-vms-phone"
-
+slug: managing-azure-vms-phone
 aliases:
   - /blog/managing-azure-vms-phone
+tags:
+  - azure
+  - windows-phone
+categories:
+  - products-and-books
+preview: nakedalm-windows-logo-7-7.png
 ---
 
 I have been doing quite a bit of [ALM Training](http://nkdagility.com/training/) recently and have been trying to figure out how best to manage my training VM's.

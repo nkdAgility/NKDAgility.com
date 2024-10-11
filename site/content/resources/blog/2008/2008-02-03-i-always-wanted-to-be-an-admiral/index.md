@@ -1,17 +1,16 @@
 ---
+title: I always wanted to be an Admiral!
+date: 2008-02-03
+creator: Martin Hinshelwood
 id: "251"
-title: "I always wanted to be an Admiral!"
-date: "2008-02-03"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "i-always-wanted-to-be-an-admiral"
-
+slug: i-always-wanted-to-be-an-admiral
 aliases:
   - /blog/i-always-wanted-to-be-an-admiral
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 [Which Battlestar Galactica Character Are You?  

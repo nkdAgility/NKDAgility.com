@@ -1,23 +1,22 @@
 ---
+title: Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013
+date: 2013-07-08
+creator: Martin Hinshelwood
 id: "9724"
-title: "Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013"
-date: "2013-07-08"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "manage-process-template"
-  - "tf50309"
-  - "tfs"
-  - "tfs-2013"
-coverImage: "puzzle-issue-problem-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013"
-
+slug: issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
 aliases:
   - /blog/issue-tfs-2013-tf50309-when-configuring-features-in-team-foundation-server-2013
+tags:
+  - configuration
+  - manage-process-template
+  - tf50309
+  - tfs
+  - tfs-2013
+categories:
+  - install-and-configuration
+preview: puzzle-issue-problem-128-link-5-5.png
 ---
 
 You may get a TF50309 when [configuring features in Team Foundation Server 2013](http://nkdagility.com/configure-features-in-team-foundation-server-2013) and you are unable to complete the configuration.

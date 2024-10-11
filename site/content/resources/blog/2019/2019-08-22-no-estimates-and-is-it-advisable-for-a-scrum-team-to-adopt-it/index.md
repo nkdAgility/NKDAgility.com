@@ -1,24 +1,23 @@
 ---
+title: No Estimates and is it advisable for a Scrum Team to adopt it?
+date: 2019-08-22
+creator: Martin Hinshelwood
 id: "39684"
-title: "No Estimates and is it advisable for a Scrum Team to adopt it?"
-date: "2019-08-22"
-categories:
-  - "agility"
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "cycle-time"
-  - "flow"
-  - "product-backlog"
-  - "refinement"
-coverImage: "iStock-847664136-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it"
-
+slug: no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
 aliases:
   - /blog/no-estimates-and-is-it-advisable-for-a-scrum-team-to-adopt-it
+tags:
+  - cycle-time
+  - flow
+  - product-backlog
+  - refinement
+categories:
+  - agility
+  - measure-and-learn
+  - people-and-process
+preview: iStock-847664136-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

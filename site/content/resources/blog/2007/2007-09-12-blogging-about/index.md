@@ -1,23 +1,22 @@
 ---
+title: Blogging about...
+date: 2007-09-12
+creator: Martin Hinshelwood
 id: "314"
-title: "Blogging about..."
-date: "2007-09-12"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "visual-studio"
-  - "vs2008"
-  - "wcf"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "blogging-about"
-
+slug: blogging-about
 aliases:
   - /blog/blogging-about
+tags:
+  - tfs
+  - tfs2008
+  - visual-studio
+  - vs2008
+  - wcf
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well, I have not done one of these is a while...I could say that I have been busy, but I have not been :)

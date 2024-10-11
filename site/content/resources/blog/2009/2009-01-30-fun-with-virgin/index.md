@@ -1,17 +1,16 @@
 ---
+title: Fun with Virgin+
+date: 2009-01-30
+creator: Martin Hinshelwood
 id: "141"
-title: "Fun with Virgin+"
-date: "2009-01-30"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "fun-with-virgin"
-
+slug: fun-with-virgin
 aliases:
   - /blog/fun-with-virgin
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 We are getting a new carpet tomorrow… my wife is 8 and a half months pregnant and she’s nesting…

@@ -1,23 +1,22 @@
 ---
+title: Linked in VSTS Group
+date: 2008-05-15
+creator: Martin Hinshelwood
 id: "226"
-title: "Linked in VSTS Group"
-date: "2008-05-15"
-categories:
-  - "me"
-tags:
-  - "linkedin"
-  - "tfs"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs2010"
-coverImage: "metro-visual-studio-2005-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "linked-in-vsts-group"
-
+slug: linked-in-vsts-group
 aliases:
   - /blog/linked-in-vsts-group
+tags:
+  - linkedin
+  - tfs
+  - tfs2005
+  - tfs2008
+  - tfs2010
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-2-2.png
 ---
 
 If you are a developer who customises or extends Visual Studio Team System then this LinkedIn group is for you...

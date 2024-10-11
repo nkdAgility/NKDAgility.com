@@ -4,7 +4,7 @@ date: 2023-10-12T07:00:12Z
 videoId: RBZFAxEUQC4
 url: /resources/videos/lust!-7-deadly-sins-of-agile
 canonicalUrl: https://www.youtube.com/watch?v=RBZFAxEUQC4
-coverImage: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
 isShort: False
 ---

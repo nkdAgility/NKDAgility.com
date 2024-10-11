@@ -1,32 +1,29 @@
 ---
+title: Are Scrum Masters agents for change?
+date: 2011-09-30
+creator: Martin Hinshelwood
 id: "3823"
-title: "Are Scrum Masters agents for change?"
-date: "2011-09-30"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "define"
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "process"
-  - "psm"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "are-scrum-masters-agents-for-change"
-
+slug: are-scrum-masters-agents-for-change
 aliases:
   - /blog/are-scrum-masters-agents-for-change
+tags:
+  - agile
+  - define
+  - develop
+  - nwcadence
+  - people
+  - process
+  - psm
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-6-6.png
 ---
 
 ![nwc_logo_tagline](images/nwc_logo_tagline3-7-7.png "nwc_logo_tagline")![PSM Logo 2](images/PSM-Logo-2.png "PSM Logo 2")If you are interested in finding out more about Scrum and how to implement it you might be interested in the Professional Scrum Master certification. Think of it not as becoming a “Master” of anything, but just making sure that you are not going to be a danger to those around you.
 { .post-img }
-
-
 
 ---
 

@@ -1,9 +1,9 @@
 ---
+title: DFDS
+date: 2017-04-24
+creator: Martin Hinshelwood
 id: "11827"
-title: "DFDS"
-date: "2017-04-24"
-coverImage: "nkdagility-customer-dfds-200x75.png"
-author: "MrHinsh"
-type: "customers"
-slug: "dfds"
+type: customers
+slug: dfds
+preview: nkdagility-customer-dfds-200x75.png
 ---

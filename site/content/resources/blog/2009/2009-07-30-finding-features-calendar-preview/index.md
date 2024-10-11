@@ -1,20 +1,19 @@
 ---
-id: "94"
 title: "Finding features: Calendar preview"
-date: "2009-07-30"
-categories:
-  - "me"
-tags:
-  - "office"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
+date: 2009-07-30
+creator: Martin Hinshelwood
+id: "94"
 layout: blog
 resourceType: blog
-slug: "finding-features-calendar-preview"
-
+slug: finding-features-calendar-preview
 aliases:
   - /blog/finding-features-calendar-preview
+tags:
+  - office
+  - tools
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 Another nice feature of Outlook 2010 that I like is the Calendar preview:

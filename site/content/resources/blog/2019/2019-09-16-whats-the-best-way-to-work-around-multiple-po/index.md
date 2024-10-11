@@ -1,20 +1,19 @@
 ---
+title: What's the best way to work around multiple PO?
+date: 2019-09-16
+creator: Martin Hinshelwood
 id: "39853"
-title: "What's the best way to work around multiple PO?"
-date: "2019-09-16"
-categories:
-  - "agility"
-  - "people-and-process"
-tags:
-  - "product-owner"
-coverImage: "495173592-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "whats-the-best-way-to-work-around-multiple-po"
-
+slug: whats-the-best-way-to-work-around-multiple-po
 aliases:
   - /blog/whats-the-best-way-to-work-around-multiple-po
+tags:
+  - product-owner
+categories:
+  - agility
+  - people-and-process
+preview: 495173592-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

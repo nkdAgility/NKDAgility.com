@@ -4,7 +4,7 @@ date: 2023-04-25T07:00:15Z
 videoId: kEywzkMhWl0
 url: /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=kEywzkMhWl0
-coverImage: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/kEywzkMhWl0/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

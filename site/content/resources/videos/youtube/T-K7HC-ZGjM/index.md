@@ -4,7 +4,7 @@ date: 2023-05-29T12:01:04Z
 videoId: T-K7HC-ZGjM
 url: /resources/videos/what-is-a-sprint-backlog-
 canonicalUrl: https://www.youtube.com/watch?v=T-K7HC-ZGjM
-coverImage: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/T-K7HC-ZGjM/maxresdefault.jpg
 duration: 296
 isShort: False
 ---

@@ -1,20 +1,19 @@
 ---
+title: Green to Orange–Joining the VSIP team as a Technical Product Manager
+date: 2012-08-02
+creator: Martin Hinshelwood
 id: "6914"
-title: "Green to Orange–Joining the VSIP team as a Technical Product Manager"
-date: "2012-08-02"
-categories:
-  - "me"
-tags:
-  - "nwcadence"
-  - "visual-studio"
-  - "vsip"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "green-to-orangejoining-the-vsip-team-as-a-technical-product-manager"
-
+slug: green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliases:
   - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
+tags:
+  - nwcadence
+  - visual-studio
+  - vsip
+categories:
+  - me
 ---
 
 ![image](images/image-3-3.png "image")No I am not leaving Northwest Cadence.

@@ -4,7 +4,7 @@ date: 2024-01-08T07:00:06Z
 videoId: EfogGslFkBQ
 url: /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
 canonicalUrl: https://www.youtube.com/watch?v=EfogGslFkBQ
-coverImage: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/EfogGslFkBQ/maxresdefault.jpg
 duration: 293
 isShort: False
 ---
@@ -15,7 +15,7 @@ isShort: False
 
 Avoiding Agile Banditry: The Story Point Trap and Better Alternatives - Discover how to escape the story point trap in Agile teams! Learn about better metrics for success and why focusing on story points and velocity can hinder your team's progress.
 
-Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+Enjoy this video? 🔔 Like and subscribe to our channel:\* https://www.youtube.com/@nakedAgility
 
 In this video, Martin 🎤 dives deep into the common pitfalls of Agile teams obsessed with story points and velocity. He explains why these metrics often lead to Agile banditry, negatively impacting teams' ability to deliver real value. 🚀 Martin shares insights on alternative metrics like throughput and cycle time, emphasizing customer value over points. Join us for an eye-opening discussion on transforming your Agile practices for better outcomes! 🌟
 

@@ -4,7 +4,7 @@ date: 2023-06-14T14:30:02Z
 videoId: 2AJ2JHdMRCc
 url: /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
 canonicalUrl: https://www.youtube.com/watch?v=2AJ2JHdMRCc
-coverImage: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg
 duration: 35
 isShort: True
 ---

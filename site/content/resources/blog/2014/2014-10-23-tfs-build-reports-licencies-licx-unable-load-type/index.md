@@ -1,20 +1,19 @@
 ---
-id: "10730"
 title: "TFS Build reports Licencies.licx: unable to load type"
-date: "2014-10-23"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "build"
-  - "tf-build"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
+date: 2014-10-23
+creator: Martin Hinshelwood
+id: "10730"
 layout: blog
 resourceType: blog
-slug: "tfs-build-reports-licencies-licx-unable-load-type"
-
+slug: tfs-build-reports-licencies-licx-unable-load-type
 aliases:
   - /blog/tfs-build-reports-licencies-licx-unable-load-type
+tags:
+  - build
+  - tf-build
+categories:
+  - problems-and-puzzles
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
 
 When you do a build you can get an "unable to resolve type" message from the licencies.licx file that you have checked in. This prevents you from having a successful build in Team Build.

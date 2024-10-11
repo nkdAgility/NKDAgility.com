@@ -1,27 +1,26 @@
 ---
-id: "44511"
 title: "Evolution not Transformation: This is the Inevitability of change"
-date: "2020-07-13"
-categories:
-  - "discovery-ideation"
-  - "measure-and-learn"
-  - "people-and-process"
-  - "transparency-commitment"
-tags:
-  - "agileleadership"
-  - "daretochange"
-  - "featured"
-  - "leadership"
-  - "leadership-track"
-  - "scrum-theory"
-coverImage: "image-15-5-4.png"
-author: "MrHinsh"
+date: 2020-07-13
+creator: Martin Hinshelwood
+id: "44511"
 layout: blog
 resourceType: blog
-slug: "evolution-not-transformation-this-is-the-inevitability-of-change"
-
+slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
   - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
+tags:
+  - agileleadership
+  - daretochange
+  - featured
+  - leadership
+  - leadership-track
+  - scrum-theory
+categories:
+  - discovery-ideation
+  - measure-and-learn
+  - people-and-process
+  - transparency-commitment
+preview: image-15-5-4.png
 ---
 
 There is no such thing as an Agile Transformation, Digital Transformation, DevOps Transformation, or any of the Whatever Transformation that you can think of or have been sold. You can’t buy agility, and you certainly can't install it. There is no end state, no optimal outcome, No best practices. [We are no longer factory workers](https://nkdagility.com/blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs/).

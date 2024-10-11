@@ -4,7 +4,7 @@ date: 2023-10-27T07:00:14Z
 videoId: _2ZH7vbKu7Y
 url: /resources/videos/3-key-elements-for-an-agile-leader-to-consider-if-the-team-are-incompetent
 canonicalUrl: https://www.youtube.com/watch?v=_2ZH7vbKu7Y
-coverImage: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_2ZH7vbKu7Y/maxresdefault.jpg
 duration: 412
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-03-07T07:00:10Z
 videoId: SLZmpwEWxD4
 url: /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
 canonicalUrl: https://www.youtube.com/watch?v=SLZmpwEWxD4
-coverImage: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/SLZmpwEWxD4/maxresdefault.jpg
 duration: 267
 isShort: False
 ---

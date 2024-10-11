@@ -4,7 +4,7 @@ date: 2023-10-11T15:00:13Z
 videoId: ArVDYRCKpOE
 url: /resources/videos/quotes,-fake-it-until-you-make-it
 canonicalUrl: https://www.youtube.com/watch?v=ArVDYRCKpOE
-coverImage: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
 isShort: False
 ---

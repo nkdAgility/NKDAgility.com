@@ -4,7 +4,7 @@ date: 2023-03-10T07:00:27Z
 videoId: jFU_4xtHzng
 url: /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
 canonicalUrl: https://www.youtube.com/watch?v=jFU_4xtHzng
-coverImage: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/jFU_4xtHzng/maxresdefault.jpg
 duration: 197
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-08-23T07:00:12Z
 videoId: L2u9Qojrvb8
 url: /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
 canonicalUrl: https://www.youtube.com/watch?v=L2u9Qojrvb8
-coverImage: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/L2u9Qojrvb8/maxresdefault.jpg
 duration: 198
 isShort: False
 ---

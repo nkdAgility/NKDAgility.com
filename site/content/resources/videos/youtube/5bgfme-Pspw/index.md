@@ -4,7 +4,7 @@ date: 2023-05-16T07:00:02Z
 videoId: 5bgfme-Pspw
 url: /resources/videos/momentum
 canonicalUrl: https://www.youtube.com/watch?v=5bgfme-Pspw
-coverImage: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/5bgfme-Pspw/maxresdefault.jpg
 duration: 59
 isShort: True
 ---

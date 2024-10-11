@@ -1,22 +1,21 @@
 ---
-id: "82"
 title: "A change for the better #2 - Aggreko to SSW"
-date: "2009-10-25"
-categories:
-  - "me"
-tags:
-  - "aggreko"
-  - "change"
-  - "change-for-the-better"
-  - "ssw"
-coverImage: "metro-SSWLogo-128-link-3-1.png"
-author: "MrHinsh"
+date: 2009-10-25
+creator: Martin Hinshelwood
+id: "82"
 layout: blog
 resourceType: blog
-slug: "a-change-for-the-better-2"
-
+slug: a-change-for-the-better-2
 aliases:
   - /blog/a-change-for-the-better-2
+tags:
+  - aggreko
+  - change
+  - change-for-the-better
+  - ssw
+categories:
+  - me
+preview: metro-SSWLogo-128-link-3-1.png
 ---
 
 In the last 2+ years at Aggreko I have worked with Visual Studio 2008 Team Foundation Server, Office SharePoint Server 2007 and a number of WPF, Silverlight and ASP.NET projects.

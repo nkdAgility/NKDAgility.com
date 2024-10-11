@@ -1,20 +1,19 @@
 ---
+title: Get your RTM here!
+date: 2007-11-19
+creator: Martin Hinshelwood
 id: "293"
-title: "Get your RTM here!"
-date: "2007-11-19"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "get-your-rtm-here"
-
+slug: get-your-rtm-here
 aliases:
   - /blog/get-your-rtm-here
+tags:
+  - visual-studio
+  - vs2008
+categories:
+  - tools-and-techniques
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well, its official. Visual Studio 2008 and .NET 3.5 went RTM this morning....

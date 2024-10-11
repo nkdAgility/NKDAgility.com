@@ -1,27 +1,26 @@
 ---
+title: Quality enablement to achieve predictable delivery
+date: 2013-07-24
+creator: Martin Hinshelwood
 id: "9737"
-title: "Quality enablement to achieve predictable delivery"
-date: "2013-07-24"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "definition-of-done"
-  - "develop"
-  - "improve"
-  - "measure"
-  - "predictable-quality"
-  - "quality-enablement"
-  - "strategic"
-  - "testing"
-coverImage: "nakedalm-experts-professional-scrum-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "quality-enablement-to-achieve-predictable-delivery"
-
+slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
   - /blog/quality-enablement-to-achieve-predictable-delivery
+tags:
+  - definition-of-done
+  - develop
+  - improve
+  - measure
+  - predictable-quality
+  - quality-enablement
+  - strategic
+  - testing
+categories:
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-2-2.png
 ---
 
 You need quality enablement to achieve predictable delivery for your organisation which takes effort to achieve.

@@ -2,7 +2,7 @@
 id: "50074"
 title: "Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Dive Deep into Product Ownership & Lean Product Development!"
 date: "2023-09-28"
-coverImage: "NKDAgility-Webinar.jpg"
+preview: "NKDAgility-Webinar.jpg"
 author: "MrHinsh"
 resourceType: newsletter
 layout: resources/single

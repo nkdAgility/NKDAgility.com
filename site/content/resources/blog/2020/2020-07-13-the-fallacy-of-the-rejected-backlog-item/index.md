@@ -1,20 +1,19 @@
 ---
+title: The fallacy of the rejected backlog item
+date: 2020-07-13
+creator: Martin Hinshelwood
 id: "9876"
-title: "The fallacy of the rejected backlog item"
-date: "2020-07-13"
-categories:
-  - "people-and-process"
-tags:
-  - "featured"
-  - "sprint-review"
-coverImage: "nkdAgility-backlog-item-approve-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-fallacy-of-the-rejected-backlog-item"
-
+slug: the-fallacy-of-the-rejected-backlog-item
 aliases:
   - /blog/the-fallacy-of-the-rejected-backlog-item
+tags:
+  - featured
+  - sprint-review
+categories:
+  - people-and-process
+preview: nkdAgility-backlog-item-approve-1-1.jpg
 ---
 
 There is a frustrating misunderstanding of reality when one thinks that the Product Owner can reject a single story at the Sprint Review. This is the fallacy of the rejected backlog item and the misguided belief that this backlog item can just be left out of this delivery. That backlog item that was chosen by the Development Team at the Sprint Planning event to help them achieve the Sprint Goal. The Sprint Goal that created focus and has the entire Development Team working in the same area of the codebase.

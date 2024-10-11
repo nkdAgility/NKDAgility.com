@@ -4,7 +4,7 @@ date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
 url: /resources/videos/7-signs-of-the-agile-apocalypse-famine
 canonicalUrl: https://www.youtube.com/watch?v=ARhXjid0zSE
-coverImage: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
 isShort: True
 ---

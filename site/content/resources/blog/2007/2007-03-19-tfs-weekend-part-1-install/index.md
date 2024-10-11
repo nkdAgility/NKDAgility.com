@@ -1,15 +1,14 @@
 ---
+title: TFS Weekend Part 1 - Install
+date: 2007-03-19
+creator: Martin Hinshelwood
 id: "426"
-title: "TFS Weekend Part 1 - Install"
-date: "2007-03-19"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-weekend-part-1-install"
-
+slug: tfs-weekend-part-1-install
 aliases:
   - /blog/tfs-weekend-part-1-install
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I got a call from a friend of mine (Neil Ramsay) who was installing TFS for his company ([http://www.quantad.com](http://www.quantad.com)). Needless to say, he had a few problems, as everyone does when installing TFS. So he gave me a call and I road to the resque.

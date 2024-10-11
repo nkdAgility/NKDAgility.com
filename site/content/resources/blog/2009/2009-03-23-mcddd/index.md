@@ -1,17 +1,16 @@
 ---
+title: McDDD
+date: 2009-03-23
+creator: Martin Hinshelwood
 id: "134"
-title: "McDDD"
-date: "2009-03-23"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mcddd"
-
+slug: mcddd
 aliases:
   - /blog/mcddd
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 Its that time again and you should all be in Glasgow on the 2nd May for [Developer Day Scotland 2](http://developerdayscotland.com). There are some excellent speakers, some we saw last time and some new.

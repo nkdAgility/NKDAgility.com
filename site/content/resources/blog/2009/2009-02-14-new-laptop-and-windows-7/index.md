@@ -1,17 +1,16 @@
 ---
+title: New laptop and Windows 7
+date: 2009-02-14
+creator: Martin Hinshelwood
 id: "139"
-title: "New laptop and Windows 7"
-date: "2009-02-14"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-3-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "new-laptop-and-windows-7"
-
+slug: new-laptop-and-windows-7
 aliases:
   - /blog/new-laptop-and-windows-7
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-1.png
 ---
 
 We have needed a new laptop in the Hinshelwood household for a while now. My old laptop was 8 years old, and although it was a mobile desktop, it ran Vista like a dog… Now the main use of a laptop in our household is for internet and pictures, but I defiantly wanted to run Windows 7.

@@ -1,21 +1,20 @@
 ---
+title: Loss of My.User.Name is not that bad...
+date: 2008-02-19
+creator: Martin Hinshelwood
 id: "245"
-title: "Loss of My.User.Name is not that bad..."
-date: "2008-02-19"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "develop"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "loss-of-my-user-name-is-not-that-bad"
-
+slug: loss-of-my-user-name-is-not-that-bad
 aliases:
   - /blog/loss-of-my-user-name-is-not-that-bad
+tags:
+  - code
+  - develop
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-2-2.png
 ---
 
 ```

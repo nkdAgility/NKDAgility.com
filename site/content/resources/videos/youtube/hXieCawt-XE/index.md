@@ -4,7 +4,7 @@ date: 2024-03-05T07:00:18Z
 videoId: hXieCawt-XE
 url: /resources/videos/work-less,-do-more-with-pull-in-kanban
 canonicalUrl: https://www.youtube.com/watch?v=hXieCawt-XE
-coverImage: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/hXieCawt-XE/maxresdefault.jpg
 duration: 599
 isShort: False
 ---

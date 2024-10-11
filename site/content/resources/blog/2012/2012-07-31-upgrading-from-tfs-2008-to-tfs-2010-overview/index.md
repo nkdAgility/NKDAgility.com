@@ -1,26 +1,25 @@
 ---
+title: Upgrading from TFS 2008 to TFS 2010 Overview
+date: 2012-07-31
+creator: Martin Hinshelwood
 id: "6905"
-title: "Upgrading from TFS 2008 to TFS 2010 Overview"
-date: "2012-07-31"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tfs2005"
-  - "tfs2008"
-  - "tfs2010"
-  - "tfs2012"
-  - "tools"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-from-tfs-2008-to-tfs-2010-overview"
-
+slug: upgrading-from-tfs-2008-to-tfs-2010-overview
 aliases:
   - /blog/upgrading-from-tfs-2008-to-tfs-2010-overview
+tags:
+  - configuration
+  - infrastructure
+  - tfs2005
+  - tfs2008
+  - tfs2010
+  - tfs2012
+  - tools
+categories:
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 I have not thought about an upgrade from TFS 2008 to TFS 2010 is quite a while as most if not all of my customers have already made the move to 2010. However one of my colleagues asked if I had done one recently and well… not in a while.

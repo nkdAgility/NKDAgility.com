@@ -4,7 +4,7 @@ date: 2023-10-09T11:17:10Z
 videoId: 4mkwTMMtKls
 url: /resources/videos/envy!-one-of-the-7-deadly-sins-of-agile
 canonicalUrl: https://www.youtube.com/watch?v=4mkwTMMtKls
-coverImage: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/4mkwTMMtKls/maxresdefault.jpg
 duration: 407
 isShort: False
 ---

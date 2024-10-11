@@ -4,7 +4,7 @@ date: 2023-01-19T07:00:14Z
 videoId: zqwHUwnw0hg
 url: /resources/videos/what-will-you-learn-on-the-professional-scrum-master-course-
 canonicalUrl: https://www.youtube.com/watch?v=zqwHUwnw0hg
-coverImage: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/zqwHUwnw0hg/maxresdefault.jpg
 duration: 326
 isShort: False
 ---

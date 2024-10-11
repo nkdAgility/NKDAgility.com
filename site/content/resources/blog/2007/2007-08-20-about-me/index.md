@@ -1,17 +1,16 @@
 ---
+title: About Me
+date: 2007-08-20
+creator: Martin Hinshelwood
 id: "329"
-title: "About Me"
-date: "2007-08-20"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "about-me"
-
+slug: about-me
 aliases:
   - /blog/about-me
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I thought I should take a leaf out of [Scott Dorman's](http://geekswithblogs.net/sdorman/archive/2007/08/15/About.aspx "About Scott Dorman") book and post some information about me:

@@ -4,7 +4,7 @@ date: 2023-10-15T07:00:31Z
 videoId: utI-1HVpeSU
 url: /resources/videos/quotes-dictatorship-vs-democracy
 canonicalUrl: https://www.youtube.com/watch?v=utI-1HVpeSU
-coverImage: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/utI-1HVpeSU/maxresdefault.jpg
 duration: 57
 isShort: True
 ---

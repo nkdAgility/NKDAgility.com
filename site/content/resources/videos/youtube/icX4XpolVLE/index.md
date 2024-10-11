@@ -4,7 +4,7 @@ date: 2024-04-04T11:34:59Z
 videoId: icX4XpolVLE
 url: /resources/videos/my-journey-into-devops!-from-web-developer-to-author,-speaker,-&-thought-leader-
 canonicalUrl: https://www.youtube.com/watch?v=icX4XpolVLE
-coverImage: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/icX4XpolVLE/maxresdefault.jpg
 duration: 2018
 isShort: False
 ---

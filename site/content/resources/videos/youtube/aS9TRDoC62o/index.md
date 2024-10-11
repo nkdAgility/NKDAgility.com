@@ -4,7 +4,7 @@ date: 2023-08-21T07:00:01Z
 videoId: aS9TRDoC62o
 url: /resources/videos/if-a-client-hasn't-considered-devops-consulting-as-part-of-their-agile-consulting-needs,-why-should
 canonicalUrl: https://www.youtube.com/watch?v=aS9TRDoC62o
-coverImage: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/aS9TRDoC62o/maxresdefault.jpg
 duration: 198
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2023-11-09T10:45:01Z
 videoId: ItvOiaC32Hs
 url: /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 canonicalUrl: https://www.youtube.com/watch?v=ItvOiaC32Hs
-coverImage: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

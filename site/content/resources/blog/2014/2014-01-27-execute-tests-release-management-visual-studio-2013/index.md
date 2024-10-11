@@ -1,25 +1,24 @@
 ---
+title: Execute Tests with Release Management for Visual Studio 2013
+date: 2014-01-27
+creator: Martin Hinshelwood
 id: "10342"
-title: "Execute Tests with Release Management for Visual Studio 2013"
-date: "2014-01-27"
-categories:
-  - "install-and-configuration"
-  - "test-and-validation"
-  - "tools-and-techniques"
-tags:
-  - "automated-testing"
-  - "release"
-  - "release-management"
-  - "release-pipline"
-  - "standard-environments"
-coverImage: "nakedalm-experts-visual-studio-alm-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "execute-tests-release-management-visual-studio-2013"
-
+slug: execute-tests-release-management-visual-studio-2013
 aliases:
   - /blog/execute-tests-release-management-visual-studio-2013
+tags:
+  - automated-testing
+  - release
+  - release-management
+  - release-pipline
+  - standard-environments
+categories:
+  - install-and-configuration
+  - test-and-validation
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-7-7.png
 ---
 
 Last week I was onsite with a customer who was trying to do automated release and test with Lab Management. I showed him a better way by execute Tests with Release Management for Visual Studio 2013.

@@ -1,19 +1,18 @@
 ---
+title: Advanced Email Content
+date: 2007-03-24
+creator: Martin Hinshelwood
 id: "431"
-title: "Advanced Email Content"
-date: "2007-03-24"
-categories:
-  - "code-and-complexity"
-tags:
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "advanced-email-content"
-
+slug: advanced-email-content
 aliases:
   - /blog/advanced-email-content
+tags:
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 Does anyone remember the early video presentations for Vista? Specifically the one about the students collaborating on coursework? The bit I am interested in is the emails with advanced content... Can we do that now?

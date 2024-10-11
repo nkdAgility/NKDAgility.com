@@ -4,7 +4,7 @@ date: 2024-08-16T07:18:10Z
 videoId: sXmXT_MDXTo
 url: /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
 canonicalUrl: https://www.youtube.com/watch?v=sXmXT_MDXTo
-coverImage: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/sXmXT_MDXTo/maxresdefault.jpg
 duration: 584
 isShort: False
 ---

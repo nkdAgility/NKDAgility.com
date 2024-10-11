@@ -4,7 +4,7 @@ date: 2023-09-27T07:00:29Z
 videoId: Ys0dWfKVSeA
 url: /resources/videos/scrum-the-mirror-to-organizational-challenges-🪞
 canonicalUrl: https://www.youtube.com/watch?v=Ys0dWfKVSeA
-coverImage: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Ys0dWfKVSeA/maxresdefault.jpg
 duration: 584
 isShort: False
 ---

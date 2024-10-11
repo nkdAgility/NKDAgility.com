@@ -1,20 +1,19 @@
 ---
+title: Microsoft, please help me diagnose TFS Administration permission issues!
+date: 2010-03-04
+creator: Martin Hinshelwood
 id: "67"
-title: "Microsoft, please help me diagnose TFS Administration permission issues!"
-date: "2010-03-04"
-tags:
-  - "ssw"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-please-help-me-diagnose-tfs-administration-permission-issues"
-
+slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliases:
   - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
+tags:
+  - ssw
+  - tfs
+  - tfs2010
+  - tools
+preview: metro-SSWLogo-128-link-1-1.png
 ---
 
 I recently had a fun time trying to debug a permission issue I ran into using TFS 2010’s TfsConfig.
@@ -49,7 +48,7 @@ So I proceeded to do some checking:
    **  
    **![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  
   { .post-img }
-  Figure: Yes, I have made sure that all my options are correct.**  
+  Figure: Yes, I have made sure that all my options are correct.**
 
 - Am I in the Team Foundation administrators group?  
    ![image](images/MicrosoftpleasehelpmediagnoseTFSAdminist_E8E5-image_-7-7.png)  

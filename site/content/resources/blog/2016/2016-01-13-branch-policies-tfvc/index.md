@@ -1,20 +1,19 @@
 ---
+title: Branch Policies for TFVC
+date: 2016-01-13
+creator: Martin Hinshelwood
 id: "11424"
-title: "Branch Policies for TFVC"
-date: "2016-01-13"
-categories:
-  - "code-and-complexity"
-  - "install-and-configuration"
-tags:
-  - "devops"
-coverImage: "image-2-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "branch-policies-tfvc"
-
+slug: branch-policies-tfvc
 aliases:
   - /blog/branch-policies-tfvc
+tags:
+  - devops
+categories:
+  - code-and-complexity
+  - install-and-configuration
+preview: image-2-2-2.png
 ---
 
 I have been working with a large customer in Norway that is moving to TFS whole sale and also needs to continue using a server based source control system for the time being. It would be awesome for them to be able to move to Git, however the codebase is currently incompatible. Work is ongoing to remove this issue, and many components will be able to move as soon as we can add Git repositories to a TFVC Team Project (in TFS 2015 Update 1). SO in the mean time we need a way to apply policies to particular branches.

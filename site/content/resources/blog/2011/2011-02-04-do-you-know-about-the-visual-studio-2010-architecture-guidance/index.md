@@ -1,21 +1,20 @@
 ---
+title: Do you know about the Visual Studio 2010 Architecture Guidance?
+date: 2011-02-04
+creator: Martin Hinshelwood
 id: "16"
-title: "Do you know about the Visual Studio 2010 Architecture Guidance?"
-date: "2011-02-04"
-tags:
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vsalmrangers"
-coverImage: "metro-visual-studio-2010-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-know-about-the-visual-studio-2010-architecture-guidance"
-
+slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
   - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
+tags:
+  - nwcadence
+  - tools
+  - visual-studio
+  - vs2010
+  - vsalmrangers
+preview: metro-visual-studio-2010-128-link-4-4.png
 ---
 
 [![image](images/Do-you-know-about-the-Visual-Studio-2010_E583-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-about-the-Visual-Studio-2010_E583-image_2.png)

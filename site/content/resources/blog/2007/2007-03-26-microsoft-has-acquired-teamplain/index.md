@@ -1,19 +1,18 @@
 ---
+title: Microsoft has acquired TeamPlain
+date: 2007-03-26
+creator: Martin Hinshelwood
 id: "425"
-title: "Microsoft has acquired TeamPlain"
-date: "2007-03-26"
-tags:
-  - "tfs"
-  - "tfs2005"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-has-acquired-teamplain"
-
+slug: microsoft-has-acquired-teamplain
 aliases:
   - /blog/microsoft-has-acquired-teamplain
+tags:
+  - tfs
+  - tfs2005
+  - vs2005
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Have you looked at the features of TeamPlain and wished that you could convince your company to buy it for all those users that look at VS2005 and balk! Now you can, for free...

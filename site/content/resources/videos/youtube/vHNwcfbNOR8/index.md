@@ -4,7 +4,7 @@ date: 2023-03-17T07:00:21Z
 videoId: vHNwcfbNOR8
 url: /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
 canonicalUrl: https://www.youtube.com/watch?v=vHNwcfbNOR8
-coverImage: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vHNwcfbNOR8/maxresdefault.jpg
 duration: 251
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-07-10T06:45:01Z
 videoId: OZt-5iszx-I
 url: /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
 canonicalUrl: https://www.youtube.com/watch?v=OZt-5iszx-I
-coverImage: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/OZt-5iszx-I/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

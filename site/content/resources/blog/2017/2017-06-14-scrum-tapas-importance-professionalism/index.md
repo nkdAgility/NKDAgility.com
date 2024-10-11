@@ -1,22 +1,21 @@
 ---
-id: "11942"
 title: "Scrum Tapas: The Importance of Professionalism"
-date: "2017-06-14"
-categories:
-  - "agility"
-  - "devops"
-tags:
-  - "engineering-excellence"
-  - "scrum-rules"
-  - "scrum-values"
-coverImage: "nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png"
-author: "MrHinsh"
+date: 2017-06-14
+creator: Martin Hinshelwood
+id: "11942"
 layout: blog
 resourceType: blog
-slug: "scrum-tapas-importance-professionalism"
-
+slug: scrum-tapas-importance-professionalism
 aliases:
   - /blog/scrum-tapas-importance-professionalism
+tags:
+  - engineering-excellence
+  - scrum-rules
+  - scrum-values
+categories:
+  - agility
+  - devops
+preview: nkdagility-martin-hinshelwood-scrum-tapas-professional-1-1.png
 ---
 
 I believe that to create great software you need to have Professional Teams and not just amateur Teams. However most software teams are amateurs that don't follow the rules, don’t subscribe to engineering excellence, and don't follow the values and principals

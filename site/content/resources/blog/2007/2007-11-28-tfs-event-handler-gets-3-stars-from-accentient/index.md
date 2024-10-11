@@ -1,22 +1,21 @@
 ---
+title: TFS Event Handler gets 3 stars from Accentient
+date: 2007-11-28
+creator: Martin Hinshelwood
 id: "284"
-title: "TFS Event Handler gets 3 stars from Accentient"
-date: "2007-11-28"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tfs-event-handler"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-gets-3-stars-from-accentient"
-
+slug: tfs-event-handler-gets-3-stars-from-accentient
 aliases:
   - /blog/tfs-event-handler-gets-3-stars-from-accentient
+tags:
+  - tfs
+  - tfs2008
+  - tfs-event-handler
+  - wit
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 All be it it is only popularity, but they are stars non the less...

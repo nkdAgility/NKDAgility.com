@@ -4,7 +4,7 @@ date: 2023-07-10T07:00:18Z
 videoId: qEaiA_m8Vyg
 url: /resources/videos/why-have-you-decided-to-go-all-in-on-immersive-learning-experiences
 canonicalUrl: https://www.youtube.com/watch?v=qEaiA_m8Vyg
-coverImage: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/qEaiA_m8Vyg/maxresdefault.jpg
 duration: 345
 isShort: False
 ---

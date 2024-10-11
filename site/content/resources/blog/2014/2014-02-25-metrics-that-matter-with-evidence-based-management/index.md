@@ -1,26 +1,25 @@
 ---
+title: Metrics that matter with evidence-based management
+date: 2014-02-25
+creator: Martin Hinshelwood
 id: "10367"
-title: "Metrics that matter with evidence-based management"
-date: "2014-02-25"
-categories:
-  - "events-and-presentations"
-  - "people-and-process"
-tags:
-  - "agile"
-  - "ebmgt"
-  - "evidence-based-management"
-  - "kpi"
-  - "merics"
-  - "scrum"
-  - "tfs"
-coverImage: "nakedalm-agility-index-24-24.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "metrics-that-matter-with-evidence-based-management"
-
+slug: metrics-that-matter-with-evidence-based-management
 aliases:
   - /blog/metrics-that-matter-with-evidence-based-management
+tags:
+  - agile
+  - ebmgt
+  - evidence-based-management
+  - kpi
+  - merics
+  - scrum
+  - tfs
+categories:
+  - events-and-presentations
+  - people-and-process
+preview: nakedalm-agility-index-24-24.png
 ---
 
 I was recently asked to speak at ALM Days in Dusseldorf and more specifically to create a talk on Metrics and KPI’s for Quality. As I have been working a lot recently with evidence-based management. I am pretty sure that my session title translates as “Test management and reporting – KIP’s for better decisions” so I am going to concentrate on reporting and KPI's as the session before mine is on Agile Testing.
@@ -55,8 +54,6 @@ Circumstantial evidence is data that we use to support our analysis and with Tea
 
 ![image17](images/image171-1-1.png "image17")
 { .post-img }
-
-
 
 …always check the data with the source.
 

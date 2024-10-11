@@ -1,22 +1,21 @@
 ---
+title: Silverlight cream, kinda, but it is interesting!
+date: 2007-12-13
+creator: Martin Hinshelwood
 id: "278"
-title: "Silverlight cream, kinda, but it is interesting!"
-date: "2007-12-13"
-categories:
-  - "news-and-reviews"
-tags:
-  - "infrastructure"
-  - "silverlight"
-  - "sp2007"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "silverlight-cream-kinda-but-it-is-interesting"
-
+slug: silverlight-cream-kinda-but-it-is-interesting
 aliases:
   - /blog/silverlight-cream-kinda-but-it-is-interesting
+tags:
+  - infrastructure
+  - silverlight
+  - sp2007
+  - tools
+categories:
+  - news-and-reviews
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Well, I was browsing the Microsoft downloads site looking for SP1 for SharePoint and a wee popup asked if I would like to see the [http://download.microsoft.com](http://download.microsoft.com) beta...

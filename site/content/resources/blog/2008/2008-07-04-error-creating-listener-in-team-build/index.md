@@ -1,17 +1,16 @@
 ---
+title: Error creating listener in Team Build
+date: 2008-07-04
+creator: Martin Hinshelwood
 id: "218"
-title: "Error creating listener in Team Build"
-date: "2008-07-04"
-tags:
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "error-creating-listener-in-team-build"
-
+slug: error-creating-listener-in-team-build
 aliases:
   - /blog/error-creating-listener-in-team-build
+tags:
+  - tools
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If, like me you are trying to run tests against your web services and you the error below, you will need to give permission to the service account that runs your Build Agent to create listeners in IIS.

@@ -1,18 +1,17 @@
 ---
-id: "403"
 title: "TFS Event Handler: CTP1 Imminent"
-date: "2007-05-06"
-tags:
-  - "tfs-event-handler"
-  - "wit"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-05-06
+creator: Martin Hinshelwood
+id: "403"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-ctp1-imminent"
-
+slug: tfs-event-handler-ctp1-imminent
 aliases:
   - /blog/tfs-event-handler-ctp1-imminent
+tags:
+  - tfs-event-handler
+  - wit
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have decided to go the same root as MS and use the Community Technology Preview (CTP) structure for my releases as there are quite a few people interested in using the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler).

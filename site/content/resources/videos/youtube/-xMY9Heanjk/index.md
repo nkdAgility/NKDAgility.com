@@ -4,7 +4,7 @@ date: 2023-02-03T07:00:00Z
 videoId: -xMY9Heanjk
 url: /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
 canonicalUrl: https://www.youtube.com/watch?v=-xMY9Heanjk
-coverImage: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/-xMY9Heanjk/maxresdefault.jpg
 duration: 263
 isShort: False
 ---

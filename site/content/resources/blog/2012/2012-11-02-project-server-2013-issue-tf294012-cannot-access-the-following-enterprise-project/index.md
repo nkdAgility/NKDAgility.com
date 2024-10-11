@@ -1,28 +1,27 @@
 ---
-id: "9138"
 title: "Project Server 2013 Issue - TF294012: Cannot access the following enterprise project"
-date: "2012-11-02"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "infrastructure"
-  - "project-server"
-  - "ps2013"
-  - "puzzles"
-  - "sharepoint"
-  - "sp2013"
-  - "tf294012"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-coverImage: "metro-problem-icon-8-8.png"
-author: "MrHinsh"
+date: 2012-11-02
+creator: Martin Hinshelwood
+id: "9138"
 layout: blog
 resourceType: blog
-slug: "project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project"
-
+slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliases:
   - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
+tags:
+  - infrastructure
+  - project-server
+  - ps2013
+  - puzzles
+  - sharepoint
+  - sp2013
+  - tf294012
+  - tfs
+  - tfs2012
+  - tools
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-8-8.png
 ---
 
 When you try to map an individual Enterprise Project to a specific Team Project you get a TF294012: Cannot access the following enterprise project error that you can’t resolve.

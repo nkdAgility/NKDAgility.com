@@ -1,18 +1,18 @@
 ---
-slug: one-engineering-system
-author: MrHinsh
 title: One Engineering System
+date: 2024-09-17
+creator: Martin Hinshelwood
+draft: true
+type: methods
+slug: one-engineering-system
 aliases:
   - /methods/one-engineering-system/
   - /methods/1es/
-date: 2024-09-17
-type: methods
-Draft: true
 card:
-  title: One Engineering System
-  content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
   button:
     content: Start Optimizing Now
+  title: One Engineering System
+  content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
 ---
 
 We have a number of tools that are in use and each one is different and provides

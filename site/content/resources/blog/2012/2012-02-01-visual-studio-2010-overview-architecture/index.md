@@ -1,24 +1,23 @@
 ---
+title: Visual Studio 2010 Overview - Architecture
+date: 2012-02-01
+creator: Martin Hinshelwood
 id: "4191"
-title: "Visual Studio 2010 Overview - Architecture"
-date: "2012-02-01"
-tags:
-  - "modern-alm"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "webcast-2"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2010-overview-architecture"
-
+slug: visual-studio-2010-overview-architecture
 aliases:
   - /blog/visual-studio-2010-overview-architecture
+tags:
+  - modern-alm
+  - nwcadence
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - webcast-2
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 How Visual Studio helps teams explore, understand, maintain, and uphold their project's architecture. Introduction to some basic architecture & design concepts and common trouble spots for teams.

@@ -1,21 +1,20 @@
 ---
-id: "6136"
 title: "TFS Integration Tools–Issue: AnalysisProvider not found"
-date: "2012-07-12"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "kb"
-  - "puzzles"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-3-3.png"
-author: "MrHinsh"
+date: 2012-07-12
+creator: Martin Hinshelwood
+id: "6136"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-toolsissue-analysisprovider-not-found"
-
+slug: tfs-integration-toolsissue-analysisprovider-not-found
 aliases:
   - /blog/tfs-integration-toolsissue-analysisprovider-not-found
+tags:
+  - kb
+  - puzzles
+  - tfs-integration-platform
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-3-3.png
 ---
 
 When you are trying to load your custom Adapter you receive a message stating that it does not exist.

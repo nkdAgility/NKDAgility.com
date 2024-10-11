@@ -4,7 +4,7 @@ date: 2023-06-08T11:00:05Z
 videoId: 8F3SK4sPj3M
 url: /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
 canonicalUrl: https://www.youtube.com/watch?v=8F3SK4sPj3M
-coverImage: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/8F3SK4sPj3M/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

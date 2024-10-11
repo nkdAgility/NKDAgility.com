@@ -1,36 +1,73 @@
-{{ if not .IsHome }}
-
-<nav aria-label="breadcrumb">
+<nav aria-label="breadcrumb" nkdMeta="[Kind:={{ .Kind }}][Type:={{ .Type }}]">
   <ul class="breadcrumb">
-    <!-- Walk through parent pages and build breadcrumbs in reverse order -->
-    {{ $currentPage := . }}
-    {{ $parents := slice }}
-    {{ $parent := $currentPage.Parent }}
-    <!-- Collect all parent pages -->
-    {{ with $parent }}
-      {{ $parentPage := . }}
-      <!-- Traverse parent pages up the hierarchy -->
-      {{ range (seq 10) }}
-        <!-- Arbitrary large number to handle deep hierarchy -->
-        {{ if $parentPage }}
-          <!-- Prepend parent to the slice -->
-          {{ $parents = union (slice $parentPage) $parents }}
-          {{ $parentPage = $parentPage.Parent }}
+    {{ $breadcrumbs := slice }}
+    {{ $built := false }}
+
+
+    <!-- Custom breadcrumb for taxonomy terms like 'course-topic' -->
+    {{ if or (eq .Type "course") (eq .Type "course-topics") (eq .Type "course-vendors") }}
+      <!-- Manually construct the parent hierarchy for taxonomies -->
+      {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
+      {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
+      {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities/training-courses") }}
+      {{ if eq .Type "course" }}
+        {{ $urlParts := split .Params.url "/" }}
+        {{ $courseTopic := index $urlParts 3 }}
+        {{ $search := (printf "term/course-topics/%s" $courseTopic) }}
+        |{{ $search }}|
+        {{ $termPage := site.GetPage $search }}
+        {{ $termPage }}
+        {{ if $termPage }}
+          <!-- Add the term page to the breadcrumbs -->
+          {{ $breadcrumbs = $breadcrumbs | append $termPage }}
+        {{ end }}
+      {{ end }}
+      {{ $breadcrumbs = $breadcrumbs | append . }}
+      {{ $built = true }}
+    {{ end }}
+
+
+    <!-- Default Build of breadcrumbs -->
+    {{ if not $built }}
+      <!-- Manually construct the parent hierarchy for taxonomies -->
+      {{ $currentPage := . }}
+      {{ $breadcrumbs = $breadcrumbs | append $currentPage }}
+
+
+      <!-- Traverse up the hierarchy through sections and parent pages -->
+      {{ $parent := .Parent }}
+      {{ range (seq 1 10) }}
+        <!-- Use seq to loop, with an arbitrary limit -->
+        {{ if $parent }}
+          <!-- Append parent to the slice -->
+          {{ $breadcrumbs = $breadcrumbs | append $parent }}
+          {{ $parent = $parent.Parent }}
         {{ else }}
           {{ break }}
         {{ end }}
       {{ end }}
+
+
+      <!-- Reverse the breadcrumb order -->
+      {{ $breadcrumbs = $breadcrumbs.Reverse }}
     {{ end }}
-    <!-- Output the breadcrumb trail in correct order -->
-    {{ range $parents }}
+
+
+    <!-- Output breadcrumb trail -->
+    {{ range $index, $page := $breadcrumbs }}
       <li class="breadcrumb-item">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        {{ if eq $index (sub (len $breadcrumbs) 1) }}
+          <!-- Current page (no link) -->
+          <span class="active">{{ $page.Title }}</span>
+        {{ else }}
+          <!-- Linked breadcrumb items -->
+          <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>
+        {{ end }}
       </li>
     {{ end }}
-    <!-- Current page (without a link) -->
-    <li class="breadcrumb-item active" aria-current="page">{{ .Title }}</li>
   </ul>
 </nav>
+
 <style>
   .breadcrumb {
     list-style: none;

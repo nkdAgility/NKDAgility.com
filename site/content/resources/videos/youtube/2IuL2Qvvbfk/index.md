@@ -4,7 +4,7 @@ date: 2023-06-13T11:32:18Z
 videoId: 2IuL2Qvvbfk
 url: /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
 canonicalUrl: https://www.youtube.com/watch?v=2IuL2Qvvbfk
-coverImage: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2IuL2Qvvbfk/maxresdefault.jpg
 duration: 452
 isShort: False
 ---

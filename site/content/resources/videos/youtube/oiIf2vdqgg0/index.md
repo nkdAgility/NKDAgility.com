@@ -4,7 +4,7 @@ date: 2023-05-29T14:00:36Z
 videoId: oiIf2vdqgg0
 url: /resources/videos/what-is-a-product-vision-
 canonicalUrl: https://www.youtube.com/watch?v=oiIf2vdqgg0
-coverImage: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
 isShort: True
 ---

@@ -1,33 +1,32 @@
 ---
+title: Release planning and predictable delivery
+date: 2020-11-24
+creator: Martin Hinshelwood
 id: "9714"
-title: "Release planning and predictable delivery"
-date: "2020-11-24"
-categories:
-  - "people-and-process"
-tags:
-  - "backlog-management"
-  - "company-culture"
-  - "continuous-quality"
-  - "define"
-  - "devops"
-  - "dod"
-  - "forcast"
-  - "homepage"
-  - "improve"
-  - "iteration"
-  - "product-backlog"
-  - "product-planning"
-  - "release-planning"
-  - "strategic"
-  - "the-sprint"
-coverImage: "nkdAgility-habits-16x9-1280-2-2.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "release-planning-and-predictable-delivery"
-
+slug: release-planning-and-predictable-delivery
 aliases:
   - /blog/release-planning-and-predictable-delivery
+tags:
+  - backlog-management
+  - company-culture
+  - continuous-quality
+  - define
+  - devops
+  - dod
+  - forcast
+  - homepage
+  - improve
+  - iteration
+  - product-backlog
+  - product-planning
+  - release-planning
+  - strategic
+  - the-sprint
+categories:
+  - people-and-process
+preview: nkdAgility-habits-16x9-1280-2-2.jpg
 ---
 
 Many organisations wrestle with the seeming incompatibility between agile and release management, and they struggle with release planning and predictable delivery.

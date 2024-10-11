@@ -4,7 +4,7 @@ date: 2023-05-19T07:00:31Z
 videoId: o-wVeh3CIVI
 url: /resources/videos/what-is-scrum-
 canonicalUrl: https://www.youtube.com/watch?v=o-wVeh3CIVI
-coverImage: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/o-wVeh3CIVI/maxresdefault.jpg
 duration: 51
 isShort: True
 ---

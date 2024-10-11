@@ -1,11 +1,11 @@
 ---
+title: Sage
+date: 2011-12-08
+creator: Martin Hinshelwood
 id: "45371"
-title: "Sage"
-date: "2011-12-08"
+type: customers
+slug: sage
 tags:
-  - "homepage"
-coverImage: "Sage_Group_logo.svg_.png"
-author: "MrHinsh"
-type: "customers"
-slug: "sage"
+  - homepage
+preview: Sage_Group_logo.svg_.png
 ---

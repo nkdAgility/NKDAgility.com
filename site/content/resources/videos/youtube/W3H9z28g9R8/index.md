@@ -4,7 +4,7 @@ date: 2023-10-19T15:00:30Z
 videoId: W3H9z28g9R8
 url: /resources/videos/famine!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=W3H9z28g9R8
-coverImage: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/W3H9z28g9R8/maxresdefault.jpg
 duration: 448
 isShort: False
 ---

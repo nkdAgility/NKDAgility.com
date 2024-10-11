@@ -4,7 +4,7 @@ date: 2023-10-14T07:00:13Z
 videoId: V88FjP9f7_0
 url: /resources/videos/quotes-less-is-more-true-or-false-
 canonicalUrl: https://www.youtube.com/watch?v=V88FjP9f7_0
-coverImage: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/V88FjP9f7_0/maxresdefault.jpg
 duration: 37
 isShort: True
 ---

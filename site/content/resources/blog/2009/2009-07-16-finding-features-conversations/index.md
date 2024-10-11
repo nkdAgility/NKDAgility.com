@@ -1,18 +1,17 @@
 ---
-id: "101"
 title: "Finding features: Conversations"
-date: "2009-07-16"
-tags:
-  - "office"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-5-5.png"
-author: "MrHinsh"
+date: 2009-07-16
+creator: Martin Hinshelwood
+id: "101"
 layout: blog
 resourceType: blog
-slug: "finding-features-conversations"
-
+slug: finding-features-conversations
 aliases:
   - /blog/finding-features-conversations
+tags:
+  - office
+  - tools
+preview: nakedalm-logo-128-link-5-5.png
 ---
 
 Hey, well the dentist was fun! And I have had time to install Office 2010 on my wife's Windows 7 laptop. I will try to put together some of the interesting features…

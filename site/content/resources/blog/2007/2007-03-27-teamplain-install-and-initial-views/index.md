@@ -1,19 +1,18 @@
 ---
+title: TeamPlain - Install and initial views
+date: 2007-03-27
+creator: Martin Hinshelwood
 id: "421"
-title: "TeamPlain - Install and initial views"
-date: "2007-03-27"
-categories:
-  - "install-and-configuration"
-tags:
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "teamplain-install-and-initial-views"
-
+slug: teamplain-install-and-initial-views
 aliases:
   - /blog/teamplain-install-and-initial-views
+tags:
+  - vs2005
+categories:
+  - install-and-configuration
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well, I got TeamPlain installed in about 30 seconds on my dev servers. In fact, it went so well that after about 10 minutes of messing around with it, I installed it in production as well.

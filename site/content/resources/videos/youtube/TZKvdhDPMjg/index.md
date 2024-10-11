@@ -4,7 +4,7 @@ date: 2023-05-05T07:00:10Z
 videoId: TZKvdhDPMjg
 url: /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
 canonicalUrl: https://www.youtube.com/watch?v=TZKvdhDPMjg
-coverImage: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TZKvdhDPMjg/maxresdefault.jpg
 duration: 56
 isShort: True
 ---

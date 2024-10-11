@@ -1,23 +1,22 @@
 ---
+title: What my father taught me about Evidence-based Management (34 years before it was invented!)
+date: 2014-03-20
+creator: Martin Hinshelwood
 id: "10446"
-title: "What my father taught me about Evidence-based Management (34 years before it was invented!)"
-date: "2014-03-20"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "ebmgt"
-  - "evidence-based-management"
-  - "scrum"
-  - "scrum-org"
-coverImage: "nakedalm-agility-index-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented"
-
+slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
   - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
+tags:
+  - agile
+  - ebmgt
+  - evidence-based-management
+  - scrum
+  - scrum-org
+categories:
+  - people-and-process
+preview: nakedalm-agility-index-7-7.png
 ---
 
 A few weeks ago I headed out to the Scrum.org offices in Boston to participate in training to hone my skills as an Evidence-based Management Consultant. I was talking to my father about it when I got back and was surprised that he recognised many of the practices and tools.

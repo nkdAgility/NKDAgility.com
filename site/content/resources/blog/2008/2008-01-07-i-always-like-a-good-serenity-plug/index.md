@@ -1,17 +1,16 @@
 ---
+title: I always like a good Serenity plug...
+date: 2008-01-07
+creator: Martin Hinshelwood
 id: "270"
-title: "I always like a good Serenity plug..."
-date: "2008-01-07"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "i-always-like-a-good-serenity-plug"
-
+slug: i-always-like-a-good-serenity-plug
 aliases:
   - /blog/i-always-like-a-good-serenity-plug
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Your results:  

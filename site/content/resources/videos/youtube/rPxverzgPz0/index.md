@@ -4,7 +4,7 @@ date: 2023-03-23T07:00:15Z
 videoId: rPxverzgPz0
 url: /resources/videos/would-you-recommend-the-aps-course-to-a-newbie-scrum-team-
 canonicalUrl: https://www.youtube.com/watch?v=rPxverzgPz0
-coverImage: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/rPxverzgPz0/maxresdefault.jpg
 duration: 304
 isShort: False
 ---

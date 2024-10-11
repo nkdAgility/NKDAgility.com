@@ -1,21 +1,20 @@
 ---
+title: Migration from TF Service to TF Server with the TFS Integration Platform
+date: 2013-04-18
+creator: Martin Hinshelwood
 id: "9443"
-title: "Migration from TF Service to TF Server with the TFS Integration Platform"
-date: "2013-04-18"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "migration"
-  - "tfs-integration-platform"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform"
-
+slug: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 aliases:
   - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
+tags:
+  - code
+  - migration
+  - tfs-integration-platform
+  - tools
+categories:
+  - code-and-complexity
 ---
 
 Are you worried that you will not be able to migrate from [http://tfs.visualstudio.com](http://tfs.visualstudio.com) when they start charging for it and you don’t want to pay? Fear not as we have the technology to migration from TF Service to TF Server with the TFS Integration Platform.

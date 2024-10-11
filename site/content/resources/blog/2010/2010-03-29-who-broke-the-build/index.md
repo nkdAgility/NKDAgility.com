@@ -1,27 +1,26 @@
 ---
+title: Who broke the build?
+date: 2010-03-29
+creator: Martin Hinshelwood
 id: "59"
-title: "Who broke the build?"
-date: "2010-03-29"
-tags:
-  - "automated-build"
-  - "sharepoint"
-  - "silverlight"
-  - "spf2010"
-  - "ssw"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-10-10.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "who-broke-the-build"
-
+slug: who-broke-the-build
 aliases:
   - /blog/who-broke-the-build
+tags:
+  - automated-build
+  - sharepoint
+  - silverlight
+  - spf2010
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+preview: metro-visual-studio-2010-128-link-10-10.png
 ---
 
 ![BuildIcon_Large](images/114db5acbf63_EDD8-BuildIcon_Large_-1-1.png)

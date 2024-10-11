@@ -1,17 +1,16 @@
 ---
+title: You can't stop the signal! But you can ignore it!
+date: 2024-04-17
+creator: Martin Hinshelwood
 id: "51389"
-title: "You can't stop the signal! But you can ignore it!"
-date: "2024-04-17"
-categories:
-  - "agility"
-coverImage: "NKDAgility-technically-YouCantStopTheSignal-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-cant-stop-the-signal-but-you-can-ignore-it"
-
+slug: you-cant-stop-the-signal-but-you-can-ignore-it
 aliases:
   - /blog/you-cant-stop-the-signal-but-you-can-ignore-it
+categories:
+  - agility
+preview: NKDAgility-technically-YouCantStopTheSignal-1-1.jpg
 ---
 
 In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization's processes, effectively saying, "This is wrong, go fix it!" when a team struggles to produce a working product due to various obstacles. These are clear signals!

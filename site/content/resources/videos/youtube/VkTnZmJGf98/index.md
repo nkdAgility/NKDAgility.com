@@ -4,7 +4,7 @@ date: 2024-01-26T07:00:25Z
 videoId: VkTnZmJGf98
 url: /resources/videos/why-evidence-based-management-how-has-it-improved-agile-
 canonicalUrl: https://www.youtube.com/watch?v=VkTnZmJGf98
-coverImage: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/VkTnZmJGf98/maxresdefault.jpg
 duration: 323
 isShort: False
 ---

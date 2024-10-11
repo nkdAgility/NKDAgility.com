@@ -4,7 +4,7 @@ date: 2024-07-01T07:00:24Z
 videoId: nfTAYRLAaYI
 url: /resources/videos/kanban-principles
 canonicalUrl: https://www.youtube.com/watch?v=nfTAYRLAaYI
-coverImage: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/nfTAYRLAaYI/maxresdefault.jpg
 duration: 49
 isShort: True
 ---

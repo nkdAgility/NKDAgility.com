@@ -4,7 +4,7 @@ date: 2023-07-06T07:08:30Z
 videoId: TzhiftXOJdw
 url: /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 canonicalUrl: https://www.youtube.com/watch?v=TzhiftXOJdw
-coverImage: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TzhiftXOJdw/maxresdefault.jpg
 duration: 240
 isShort: False
 ---

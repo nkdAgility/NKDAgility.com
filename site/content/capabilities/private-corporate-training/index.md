@@ -1,18 +1,18 @@
 ---
 title: Professional Training
-id: "51447"
 date: 2024-06-12
-author: MrHinsh
+creator: Martin Hinshelwood
 draft: true
-aliases:
-  - /capabilities/private-corporate-training/
+id: "51447"
 type: capabilities
 slug: private-corporate-training
+aliases:
+  - /capabilities/private-corporate-training/
 card:
   button:
     content: <p>Transform Your Team</p>
-  content: <p>Elevate your team's performance with our Private Corporate Training and public offerings! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.</p>
   title: Professional Training
+  content: <p>Elevate your team's performance with our Private Corporate Training and public offerings! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.</p>
 ---
 
 Elevate Your Team's Performance with NKDAgility's Agile & DevOps Training!

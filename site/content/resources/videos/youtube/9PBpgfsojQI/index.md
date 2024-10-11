@@ -4,7 +4,7 @@ date: 2023-02-13T22:00:04Z
 videoId: 9PBpgfsojQI
 url: /resources/videos/2023-is-predicted-to-be-a-very-tough-year-what-do-you-think-will-be-needed-to-win-and-improve-
 canonicalUrl: https://www.youtube.com/watch?v=9PBpgfsojQI
-coverImage: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/9PBpgfsojQI/maxresdefault.jpg
 duration: 288
 isShort: False
 ---

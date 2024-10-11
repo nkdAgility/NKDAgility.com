@@ -1,21 +1,20 @@
 ---
+title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
+date: 2014-02-20
+creator: Martin Hinshelwood
 id: "10381"
-title: "Team Foundation server 2013 Update 2 RC is coming, are you ready?"
-date: "2014-02-20"
-categories:
-  - "upgrade-and-maintenance"
-tags:
-  - "tfs"
-  - "tfs-2013"
-  - "upgrade"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-foundation-server-2013-update-2-rc-coming-ready"
-
+slug: team-foundation-server-2013-update-2-rc-coming-ready
 aliases:
   - /blog/team-foundation-server-2013-update-2-rc-coming-ready
+tags:
+  - tfs
+  - tfs-2013
+  - upgrade
+categories:
+  - upgrade-and-maintenance
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 ---
 
 While naked ALM Consulting can help you install and configure TFS you may want to take advantage of the upcoming TFS Upgrade Weekend from Microsoft for free.

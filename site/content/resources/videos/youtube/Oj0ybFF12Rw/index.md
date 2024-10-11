@@ -4,7 +4,7 @@ date: 2023-10-09T14:30:08Z
 videoId: Oj0ybFF12Rw
 url: /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
 canonicalUrl: https://www.youtube.com/watch?v=Oj0ybFF12Rw
-coverImage: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

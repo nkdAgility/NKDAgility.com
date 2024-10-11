@@ -4,7 +4,7 @@ date: 2024-08-26T07:44:38Z
 videoId: Qzw3FSl6hy4
 url: /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
 canonicalUrl: https://www.youtube.com/watch?v=Qzw3FSl6hy4
-coverImage: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Qzw3FSl6hy4/maxresdefault.jpg
 duration: 711
 isShort: False
 ---
@@ -24,14 +24,18 @@ What is Product Discovery and Why It’s Crucial?
 🔍 Key Concepts in Product Discovery
 
 1. 🔄 Continuous Exploration:
+
+1. 🔄 Continuous Exploration:
    - Product discovery isn’t a one-time task; it’s an ongoing process of exploring and identifying both the known and unknown elements that could improve the product.
    - It includes everything from research and design to collaboration with other teams to ensure a holistic understanding of what’s needed.
 
 2. 🧠 Expanding Beyond the Obvious:
+
    - Discovery isn’t just about what you know you need; it’s also about uncovering needs and opportunities you didn’t realize were there.
    - This proactive approach can lead to better user experiences, new market opportunities, and increased user base.
 
 3. 📊 Strategic Direction & Alignment:
+
    - At scale, discovery involves setting strategic directions and aligning various teams and departments to work towards common goals.
    - For example, large organizations like Microsoft engage in discovery to coordinate across numerous teams, ensuring everyone is moving towards the same objectives.
 
@@ -40,6 +44,8 @@ What is Product Discovery and Why It’s Crucial?
    - It’s not just about fine-tuning; it’s about exploring new possibilities and ensuring that every decision aligns with the overall vision.
 
 🚀 Real-World Examples of Product Discovery
+
+1. Azure DevOps Example:
 
 1. Azure DevOps Example:
    - With over 90 teams working on a single product, Azure DevOps illustrates the scale and complexity of product discovery.
@@ -52,6 +58,8 @@ What is Product Discovery and Why It’s Crucial?
 🎯 The Importance of Product Discovery
 
 - Why It Matters:
+
+- Why It Matters:
   - Without a strong discovery process, even the best engineering teams can fail to deliver real value.
   - Discovery ensures that the team’s efforts are focused on the right problems, leading to better outcomes for the business.
 
@@ -59,6 +67,8 @@ What is Product Discovery and Why It’s Crucial?
   - Discovery aligns everyone from the lowest-level team members to the highest-level executives, ensuring that all efforts contribute to the organization’s strategic goals.
 
 Conclusion: The Power of Deliberate Discovery
+
+- Product Discovery is Underserved:
 
 - Product Discovery is Underserved:
   - Despite its importance, many organizations don’t give enough attention to deliberate discovery.

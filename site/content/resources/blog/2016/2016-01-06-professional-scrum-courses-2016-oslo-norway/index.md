@@ -1,25 +1,24 @@
 ---
+title: Professional Scrum Courses for 2016 in Oslo, Norway
+date: 2016-01-06
+creator: Martin Hinshelwood
 id: "11426"
-title: "Professional Scrum Courses for 2016 in Oslo, Norway"
-date: "2016-01-06"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "agility"
-  - "professioal-scrum"
-  - "psd"
-  - "psf"
-  - "psm"
-  - "training"
-coverImage: "clip_image001-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-courses-2016-oslo-norway"
-
+slug: professional-scrum-courses-2016-oslo-norway
 aliases:
   - /blog/professional-scrum-courses-2016-oslo-norway
+tags:
+  - agile
+  - agility
+  - professioal-scrum
+  - psd
+  - psf
+  - psm
+  - training
+categories:
+  - people-and-process
+preview: clip_image001-1-1.jpg
 ---
 
 Just before the end of the year I taught my [first Professional Scrum Master course in Norway](http://nkdagility.com/training/courses/professional-scrum-master/) and it was a resounding success. We had 30 students from some of the largest and most successful companies in Norway. The feedback was incredible and I had an awesome time teaching it.

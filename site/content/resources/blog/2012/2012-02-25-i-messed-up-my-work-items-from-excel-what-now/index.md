@@ -1,29 +1,28 @@
 ---
+title: I messed up my work items from Excel! What now?
+date: 2012-02-25
+creator: Martin Hinshelwood
 id: "4609"
-title: "I messed up my work items from Excel! What now?"
-date: "2012-02-25"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "define"
-  - "excel"
-  - "infrastructure"
-  - "puzzles"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "i-messed-up-my-work-items-from-excel-what-now"
-
+slug: i-messed-up-my-work-items-from-excel-what-now
 aliases:
   - /blog/i-messed-up-my-work-items-from-excel-what-now
+tags:
+  - configuration
+  - define
+  - excel
+  - infrastructure
+  - puzzles
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: metro-visual-studio-2010-128-link-4-4.png
 ---
 
 When you do a lot of editing in Excel you will sometimes make mistakes. If you are in the unfortunate situation that ended up publishing back changes to 100+ work items that you did not want to change then you can be in a world of hurt. I have a customer who has done just that and I thought some guidance on how to fix (mitigate) this situation will help everyone.
@@ -93,19 +92,22 @@ This is the easiest thing to do. Father than looking at the “State Changed” 
     Note: This will pick up all of the changes even if they have since been changed by someone else.
 
 3.  **Change sort order**
-        Add the “Changed Date” column and order by Descending
+    Add the “Changed Date” column and order by Descending
 
         Note: This will make sure that all of the most recent changes are at the top
 
         [![image](images/image_thumb8-2-2.png "image")](http://blog.hinshelwood.com/files/2012/02/image8.png)
+
     { .post-img }
     **Figure: Add the first two fields to find the right data**
+
 4.  **Add date range**
-        Add a clause to the “Changed Date”  field to show changes between “2/24/2012 11:30:00 AM” and “2/24/2012 12:10:00 PM”
+    Add a clause to the “Changed Date”  field to show changes between “2/24/2012 11:30:00 AM” and “2/24/2012 12:10:00 PM”
 
         Note: If you know the date/time range of the erroneous changes then you can add a filter to reduce your data set, of you don’t you can use the work item history to find it. Just look on the history tab to see when the changes in question occurred.
 
         ![clip_image002](images/clip_image002_thumb-1-1.jpg "clip_image002")
+
     { .post-img }
     **Figure: You will see all of the history values**
 
@@ -134,56 +136,68 @@ _**WARNING: TFS does not understand time as part of a query as it runs them in [
 But we have a little problem. You can’t add as of to a query in Visual Studio, so we need to edit it manually.
 
 1.  **Save the new query to disk**
-        Open the query in edit mode and select “**File | Save \[query\] As…**”
+    Open the query in edit mode and select “**File | Save \[query\] As…**”
 
         [![image](images/image_thumb9-3-3.png "image")](http://blog.hinshelwood.com/files/2012/02/image9.png)
+
     { .post-img }
     **Figure: Save the query locally**
+
 2.  **Open the Query in notepad**
-        Right click on the saved query and “**Open with… | Select notepad | Un-tick the Always open | Ok**”
+    Right click on the saved query and “**Open with… | Select notepad | Un-tick the Always open | Ok**”
 
         [![SNAGHTML3295022](images/SNAGHTML3295022_thumb-5-5.png "SNAGHTML3295022")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3295022.png)
+
     { .post-img }
     **Figure: Open the query in notepad**
+
 3.  **Edit the query**
-        Once you have the query open, find the end and add “asof ‘2/24/2012 11:30:00 AM’”. the end of the query is “” so just add it just before that.
+    Once you have the query open, find the end and add “asof ‘2/24/2012 11:30:00 AM’”. the end of the query is “” so just add it just before that.
 
         [![SNAGHTML35eba79](images/SNAGHTML35eba79_thumb-6-6.png "SNAGHTML35eba79")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML35eba79.png)
+
     { .post-img }
     **Figure: add the Asof to the end of the query and save**
+
 4.  **Open the Query in Visual Studio**
-        [![SNAGHTML36b7752](images/SNAGHTML36b7752_thumb-7-7.png "SNAGHTML36b7752")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML36b7752.png)
+    [![SNAGHTML36b7752](images/SNAGHTML36b7752_thumb-7-7.png "SNAGHTML36b7752")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML36b7752.png)
     { .post-img }
     **Figure: New Query is a window into the past**
-        Note: You will see things in here that are not from the past. It will show visible field data for all work items as they were at that point in time. You may see stuff that was added after that matched the criteria and obviously it cant go back in time as it di not exist. Think of it as an anti-paradox check so you can’t edit a work item before it even existed.
+    Note: You will see things in here that are not from the past. It will show visible field data for all work items as they were at that point in time. You may see stuff that was added after that matched the criteria and obviously it cant go back in time as it di not exist. Think of it as an anti-paradox check so you can’t edit a work item before it even existed.
 5.  **Save the query to your My Queries**
-        [![SNAGHTML3705745](images/SNAGHTML3705745_thumb-8-8.png "SNAGHTML3705745")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3705745.png)
+    [![SNAGHTML3705745](images/SNAGHTML3705745_thumb-8-8.png "SNAGHTML3705745")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3705745.png)
     { .post-img }
     **Figure: Save the query to your My Queries  
      **
 6.  **Open the query in Excel**
-        Open both your new query that shows the old values and the original query that shows the current values in Excel. Make sure that you have the same columns and the same number of rows. If you don’t then you will need to tweak both queries to show the same data.
+    Open both your new query that shows the old values and the original query that shows the current values in Excel. Make sure that you have the same columns and the same number of rows. If you don’t then you will need to tweak both queries to show the same data.
 
         [![SNAGHTML3728ab3](images/SNAGHTML3728ab3_thumb-9-9.png "SNAGHTML3728ab3")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3728ab3.png)
+
     { .post-img }
     **Figure: Excel now shows your old data  
      **
+
 7.  **Order by ID**
-        Order both of your Excel sheets by the Work Item ID so that they are in the same order.
+    Order both of your Excel sheets by the Work Item ID so that they are in the same order.
 
         [![SNAGHTML375e2a2](images/SNAGHTML375e2a2_thumb-10-10.png "SNAGHTML375e2a2")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML375e2a2.png)
+
     { .post-img }
     **Figure: You MUST have the same order and columns**
+
 8.  **Past “old” over “new” data**
-        Copy the “Old” data from the “new” query over the top of the “new” data from the “old” query and then thoroughly check the data to make sure that it is what you expect.
+    Copy the “Old” data from the “new” query over the top of the “new” data from the “old” query and then thoroughly check the data to make sure that it is what you expect.
 
         [![SNAGHTML37ad00c](images/SNAGHTML37ad00c_thumb-11-11.png "SNAGHTML37ad00c")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML37ad00c.png)
+
     { .post-img }
     **Figure: Copy the data you want and past over the data you don't**
+
 9.  **Check your data**
 10. **Check it again!**
 11. **Make really sure and the Publish back to TFS**
-        [![SNAGHTML37d56b9](images/SNAGHTML37d56b9_thumb-12-12.png "SNAGHTML37d56b9")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML37d56b9.png)
+    [![SNAGHTML37d56b9](images/SNAGHTML37d56b9_thumb-12-12.png "SNAGHTML37d56b9")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML37d56b9.png)
     { .post-img }
     **Figure: Overwrite the new data with the old in TFS**
 
@@ -194,20 +208,21 @@ If all has gone well then you are back to the data that you wanted. However, ple
 Well, you can’t… that kind of how databases work. if you bulk edit then really make sure of your changes. However if you want to have a little bit of protection you can save your Excel documents to SharePoint and open and edit them from there. You can enable versioning on the Document library and you would have been able to just open the old version of the Excel sheet and overwrite the data in a couple of minutes.
 
 1.  **Open your document library settings**
-        Once you have it open select “Library | Library Settings” coz we need to enable versioning.
-        [![SNAGHTML3869b09](images/SNAGHTML3869b09_thumb-13-13.png "SNAGHTML3869b09")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3869b09.png)
+    Once you have it open select “Library | Library Settings” coz we need to enable versioning.
+    [![SNAGHTML3869b09](images/SNAGHTML3869b09_thumb-13-13.png "SNAGHTML3869b09")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3869b09.png)
     { .post-img }
     **Figure: Enabling is easy  
      **
 2.  **Select the “versioning Settings”**
-        [![SNAGHTML3873361](images/SNAGHTML3873361_thumb-14-14.png "SNAGHTML3873361")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3873361.png)
+    [![SNAGHTML3873361](images/SNAGHTML3873361_thumb-14-14.png "SNAGHTML3873361")](http://blog.hinshelwood.com/files/2012/02/SNAGHTML3873361.png)
     { .post-img }
     **Figure: Versioning is a fantastic feature  
      **
 3.  **Setup versioning**
-        I would suggest to solve this issue we only really need one or two versions back, but you may want more for posterity
+    I would suggest to solve this issue we only really need one or two versions back, but you may want more for posterity
 
         ![SNAGHTML38800ae](images/SNAGHTML38800ae_thumb-15-15.png "SNAGHTML38800ae")
+
     { .post-img }
     **Figure: Setup versioning to be a little safer**
 

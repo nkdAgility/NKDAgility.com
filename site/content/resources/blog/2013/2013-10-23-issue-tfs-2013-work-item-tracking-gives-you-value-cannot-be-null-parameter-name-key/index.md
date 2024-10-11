@@ -1,28 +1,27 @@
 ---
-id: "10221"
 title: "Issue [ TFS 2013 ] Value cannot be null. Parameter name: key"
-date: "2013-10-23"
-categories:
-  - "code-and-complexity"
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "argumentnullexception"
-  - "bug"
-  - "process-template"
-  - "team"
-  - "team-field"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-2013"
-  - "work-item-type"
-author: "MrHinsh"
+date: 2013-10-23
+creator: Martin Hinshelwood
+id: "10221"
 layout: blog
 resourceType: blog
-slug: "issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key"
-
+slug: issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
 aliases:
   - /blog/issue-tfs-2013-work-item-tracking-gives-you-value-cannot-be-null-parameter-name-key
+tags:
+  - argumentnullexception
+  - bug
+  - process-template
+  - team
+  - team-field
+  - tfs
+  - tfs2012
+  - tfs-2013
+  - work-item-type
+categories:
+  - code-and-complexity
+  - install-and-configuration
+  - problems-and-puzzles
 ---
 
 When customising your process template work item tracking gives you an “ArgumentNullException: Value cannot be null. Parameter name: key” exception with no more details.

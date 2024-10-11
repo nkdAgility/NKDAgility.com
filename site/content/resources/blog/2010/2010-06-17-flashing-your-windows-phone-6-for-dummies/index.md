@@ -1,21 +1,20 @@
 ---
+title: Flashing your Windows Phone 6 for Dummies
+date: 2010-06-17
+creator: Martin Hinshelwood
 id: "38"
-title: "Flashing your Windows Phone 6 for Dummies"
-date: "2010-06-17"
-categories:
-  - "me"
-tags:
-  - "mobile"
-  - "tools"
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "flashing-your-windows-phone-6-for-dummies"
-
+slug: flashing-your-windows-phone-6-for-dummies
 aliases:
   - /blog/flashing-your-windows-phone-6-for-dummies
+tags:
+  - mobile
+  - tools
+  - windows-mobile-6
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 ![image](images/FlashingyourHTCHD2withWindow.5forDummies_A588-image_-1-1.png)

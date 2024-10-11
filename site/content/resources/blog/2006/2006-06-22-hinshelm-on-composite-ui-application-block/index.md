@@ -1,20 +1,19 @@
 ---
+title: Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block
+date: 2006-06-22
+creator: Martin Hinshelwood
 id: "467"
-title: "Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block"
-date: "2006-06-22"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "hinshelm-on-composite-ui-application-block"
-
+slug: hinshelm-on-composite-ui-application-block
 aliases:
   - /blog/hinshelm-on-composite-ui-application-block
+tags:
+  - code
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I was very surprised to find that CAB did not support a higher-level component like the ToolStrip in its basic implementation. I resolved to fix this and added an adapter and factory for the ToolStripPanel initially, but I encountered issues with the ToolStripContainer. As my first post, here is the ToolStripPanel code.
@@ -108,4 +107,3 @@ LocalWorkItem.UIExtensionSites.RegisterSite("MyCustomToolStripSitename", objTool
 Don't forget the second registration that allows you to add a button to the `ToolStrip`.
 
 All done! You should now be able to create dynamic tool strips and populate them. If you want to customize commands, you will need to create a command adapter for the `ToolStripPanel` and add it to CAB.
-

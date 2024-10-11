@@ -1,25 +1,24 @@
 ---
+title: Does your organisation have both Project Mangers as well as Product Owners?
+date: 2014-04-10
+creator: Martin Hinshelwood
 id: "10489"
-title: "Does your organisation have both Project Mangers as well as Product Owners?"
-date: "2014-04-10"
-categories:
-  - "people-and-process"
-tags:
-  - "backlog-management"
-  - "management"
-  - "organisation"
-  - "product-owner"
-  - "project-management"
-  - "project-manager"
-  - "teams"
-coverImage: "nakedalm-experts-professional-scrum-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "organisation-project-mangers-well-product-owners"
-
+slug: organisation-project-mangers-well-product-owners
 aliases:
   - /blog/organisation-project-mangers-well-product-owners
+tags:
+  - backlog-management
+  - management
+  - organisation
+  - product-owner
+  - project-management
+  - project-manager
+  - teams
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-5-5.png
 ---
 
 This is the dysfunction of teams with Project Managers as well as Product Owners. Does your organisation have both Project Mangers as well as Product Owners? If so, to whom do your teams report? What does it depend on? Because if it does depend then you are doing a disservice to your teams and will have difficulty moving towards greater agility. I have a customer right now that has this situation with cross application teams however there are additional complications.

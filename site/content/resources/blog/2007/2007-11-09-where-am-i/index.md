@@ -1,20 +1,19 @@
 ---
+title: Where am I?
+date: 2007-11-09
+creator: Martin Hinshelwood
 id: "294"
-title: "Where am I?"
-date: "2007-11-09"
-categories:
-  - "me"
-tags:
-  - "ml"
-  - "wcf"
-coverImage: "metro-merilllynch-128-link-5-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "where-am-i"
-
+slug: where-am-i
 aliases:
   - /blog/where-am-i
+tags:
+  - ml
+  - wcf
+categories:
+  - me
+preview: metro-merilllynch-128-link-5-1.png
 ---
 
 I decided that I should have a go at this LINQ thing, so as .NET 3.5 will be RTM at the end of the month I am using LINQ and .NET 3.5 in my new Locator project.

@@ -4,7 +4,7 @@ date: 2023-04-26T07:00:00Z
 videoId: -pW6YDYEO20
 url: /resources/videos/worst-trait-in-unskilled-scrum-masters-
 canonicalUrl: https://www.youtube.com/watch?v=-pW6YDYEO20
-coverImage: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/-pW6YDYEO20/maxresdefault.jpg
 duration: 54
 isShort: True
 ---

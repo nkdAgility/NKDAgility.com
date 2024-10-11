@@ -1,9 +1,9 @@
 ---
 title: OpenSpace Agile
 type: technology
-discussionId: 
+discussionId:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -18,4 +18,4 @@ card:
 - Lack of COmmitment Buy In
 - No sprint goals#
 - non-complex environment
-- 
+-

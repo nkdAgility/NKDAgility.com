@@ -1,23 +1,22 @@
 ---
+title: Team Server Event Handlers made easy...
+date: 2007-04-27
+creator: Martin Hinshelwood
 id: "412"
-title: "Team Server Event Handlers made easy..."
-date: "2007-04-27"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs"
-  - "tfs2005"
-  - "tfs-event-handler"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-server-event-handlers-made-easy"
-
+slug: team-server-event-handlers-made-easy
 aliases:
   - /blog/team-server-event-handlers-made-easy
+tags:
+  - code
+  - tfs
+  - tfs2005
+  - tfs-event-handler
+  - wit
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Will, not really...

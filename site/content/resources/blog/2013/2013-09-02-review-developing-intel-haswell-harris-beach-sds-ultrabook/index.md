@@ -1,23 +1,22 @@
 ---
-id: "10081"
 title: "Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook"
-date: "2013-09-02"
-categories:
-  - "news-and-reviews"
-tags:
-  - "develop"
-  - "hardware"
-  - "harris-beach"
-  - "intel"
-  - "review"
-coverImage: "Web-Intel-Metro-icon-21-21.png"
-author: "MrHinsh"
+date: 2013-09-02
+creator: Martin Hinshelwood
+id: "10081"
 layout: blog
 resourceType: blog
-slug: "review-developing-intel-haswell-harris-beach-sds-ultrabook"
-
+slug: review-developing-intel-haswell-harris-beach-sds-ultrabook
 aliases:
   - /blog/review-developing-intel-haswell-harris-beach-sds-ultrabook
+tags:
+  - develop
+  - hardware
+  - harris-beach
+  - intel
+  - review
+categories:
+  - news-and-reviews
+preview: Web-Intel-Metro-icon-21-21.png
 ---
 
 It has just over a month since I received my Intel Haswell Harris Beach SDS Ultrabook from Intel to review and I have to say that I love this little laptop. I have been trying to use it exclusively and have done pretty well.

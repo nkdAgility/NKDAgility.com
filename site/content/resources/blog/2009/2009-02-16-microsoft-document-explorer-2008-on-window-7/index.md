@@ -1,19 +1,18 @@
 ---
+title: Microsoft Document Explorer 2008 on Window 7
+date: 2009-02-16
+creator: Martin Hinshelwood
 id: "138"
-title: "Microsoft Document Explorer 2008 on Window 7"
-date: "2009-02-16"
-tags:
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "microsoft-document-explorer-2008-on-window-7"
-
+slug: microsoft-document-explorer-2008-on-window-7
 aliases:
   - /blog/microsoft-document-explorer-2008-on-window-7
+tags:
+  - tools
+  - visual-studio
+  - vs2008
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 [![image](images/MicrosoftDocumentExplorer2008onWindow7_3CC7-image_thumb-2-2.png)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-MicrosoftDocumentExplorer2008onWindow7_3CC7-image_2.png)

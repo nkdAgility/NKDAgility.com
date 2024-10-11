@@ -1,18 +1,17 @@
 ---
+title: Configuring Microsoft Teams for Live Virtual Training
+date: 2020-06-22
+creator: Martin Hinshelwood
 id: "44452"
-title: "Configuring Microsoft Teams for Live Virtual Training"
-date: "2020-06-22"
-categories:
-  - "agility"
-  - "tools-and-techniques"
-coverImage: "image-14-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "configuring-microsoft-teams-for-live-virtual-training"
-
+slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
   - /blog/configuring-microsoft-teams-for-live-virtual-training
+categories:
+  - agility
+  - tools-and-techniques
+preview: image-14-4-4.png
 ---
 
 Like most tools, if you want to run successful training in Microsoft Teams you need to do some homework and some configuration before your class. You can just jump in and wing it, but that will not provide a good experience for your students. Currently, I have run more than 6 Live Virtual Training in Microsoft Teams and in a few hours, my 7th will start. I have also recently had to set up Microsoft Teams for my good friend and colleague [Russell Miller](https://nkdagility.com/training/trainers/russell-miller/) so that he can also run classes on the platform.

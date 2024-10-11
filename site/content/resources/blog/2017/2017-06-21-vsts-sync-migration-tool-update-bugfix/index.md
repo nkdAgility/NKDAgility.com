@@ -1,22 +1,21 @@
 ---
+title: VSTS Sync Migration Tool Update and Bugfix
+date: 2017-06-21
+creator: Martin Hinshelwood
 id: "11944"
-title: "VSTS Sync Migration Tool Update and Bugfix"
-date: "2017-06-21"
-categories:
-  - "devops"
-tags:
-  - "migration"
-  - "sync"
-  - "tfs"
-  - "vsts"
-coverImage: "nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vsts-sync-migration-tool-update-bugfix"
-
+slug: vsts-sync-migration-tool-update-bugfix
 aliases:
   - /blog/vsts-sync-migration-tool-update-bugfix
+tags:
+  - migration
+  - sync
+  - tfs
+  - vsts
+categories:
+  - devops
+preview: nkdagility-martin-hinshelwood-vsts-sync-migration-1-1.png
 ---
 
 The [VSTS Sync Migration tools](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration) have been updated with new features and bug fixes for common issues reported by users.

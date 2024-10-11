@@ -4,7 +4,7 @@ date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
-coverImage: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
 isShort: False
 ---

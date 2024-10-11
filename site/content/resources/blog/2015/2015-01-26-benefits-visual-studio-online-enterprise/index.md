@@ -1,22 +1,21 @@
 ---
+title: The benefits of Visual Studio Online for the Enterprise
+date: 2015-01-26
+creator: Martin Hinshelwood
 id: "11158"
-title: "The benefits of Visual Studio Online for the Enterprise"
-date: "2015-01-26"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "enterprise"
-  - "tfs"
-  - "value"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "benefits-visual-studio-online-enterprise"
-
+slug: benefits-visual-studio-online-enterprise
 aliases:
   - /blog/benefits-visual-studio-online-enterprise
+tags:
+  - enterprise
+  - tfs
+  - value
+  - vsteamservices
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-6-6.png
 ---
 
 I last posted on [why you should use Visual Studio ALM](http://nkdagility.com/why-should-i-use-visual-studio-alm-whether-tfs-or-vso/) due to a customer ask, and now I have been asked to justify a move to Visual Studio Online for a company looking to use it for about 5,000 people.

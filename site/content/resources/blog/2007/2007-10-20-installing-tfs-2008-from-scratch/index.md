@@ -1,22 +1,21 @@
 ---
+title: Installing TFS 2008 from scratch
+date: 2007-10-20
+creator: Martin Hinshelwood
 id: "297"
-title: "Installing TFS 2008 from scratch"
-date: "2007-10-20"
-categories:
-  - "code-and-complexity"
-  - "upgrade-and-maintenance"
-tags:
-  - "sp2007"
-  - "tfs"
-  - "tfs2008"
-coverImage: "metro-visual-studio-2005-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-tfs-2008-from-scratch"
-
+slug: installing-tfs-2008-from-scratch
 aliases:
   - /blog/installing-tfs-2008-from-scratch
+tags:
+  - sp2007
+  - tfs
+  - tfs2008
+categories:
+  - code-and-complexity
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2005-128-link-4-4.png
 ---
 
 Well, setting up TFS 2008 is pretty easy. I have done an upgrade before, but I have now deployed my first pure TFS 2008 server to a clean environment. I have Reporting Services, SQL and TFS on one box and SharePoint 2007 in my Farm. Word of warning:

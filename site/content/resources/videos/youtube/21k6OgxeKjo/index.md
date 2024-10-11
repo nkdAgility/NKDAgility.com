@@ -4,7 +4,7 @@ date: 2024-01-10T11:00:01Z
 videoId: 21k6OgxeKjo
 url: /resources/videos/-shorts-5-kinds-of-agile-bandits-5th-kind
 canonicalUrl: https://www.youtube.com/watch?v=21k6OgxeKjo
-coverImage: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/21k6OgxeKjo/maxresdefault.jpg
 duration: 38
 isShort: True
 ---

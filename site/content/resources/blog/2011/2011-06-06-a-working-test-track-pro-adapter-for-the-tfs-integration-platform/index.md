@@ -1,20 +1,19 @@
 ---
+title: A working Test Track Pro Adapter for the TFS Integration Platform
+date: 2011-06-06
+creator: Martin Hinshelwood
 id: "3606"
-title: "A working Test Track Pro Adapter for the TFS Integration Platform"
-date: "2011-06-06"
-tags:
-  - "nwcadence"
-  - "ttp"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "a-working-test-track-pro-adapter-for-the-tfs-integration-platform"
-
+slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
   - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
+tags:
+  - nwcadence
+  - ttp
+  - tfs
+  - tfs2010
+  - tools
 ---
 
 [![ALMRangersLogo_Tiny](images/ALMRangersLogo_Tiny_thumb-1-1.png "ALMRangersLogo_Tiny")](http://blog.hinshelwood.com/files/2011/06/ALMRangersLogo_Tiny.png)

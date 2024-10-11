@@ -1,28 +1,27 @@
 ---
-id: "68"
 title: "Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010"
-date: "2010-03-04"
-tags:
-  - "automated-build"
-  - "scrum"
-  - "silverlight"
-  - "ssw"
-  - "testing"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "wcf"
-coverImage: "metro-visual-studio-2010-128-link-6-6.png"
-author: "MrHinsh"
+date: 2010-03-04
+creator: Martin Hinshelwood
+id: "68"
 layout: blog
 resourceType: blog
-slug: "solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010"
-
+slug: solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
 aliases:
   - /blog/solution-testing-web-services-with-mstest-on-team-foundation-build-services-2010
+tags:
+  - automated-build
+  - scrum
+  - silverlight
+  - ssw
+  - testing
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+  - wcf
+preview: metro-visual-studio-2010-128-link-6-6.png
 ---
 
 Guess what. About 20 minutes after I fixed the build, Allan broke it again!

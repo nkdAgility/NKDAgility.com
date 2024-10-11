@@ -4,7 +4,7 @@ date: 2024-09-19T11:05:27Z
 videoId: KzNbrrBCmdE
 url: /resources/videos/compromises-you-need-to-think-about-for-your-azuredevops-migration-excerpt-2
 canonicalUrl: https://www.youtube.com/watch?v=KzNbrrBCmdE
-coverImage: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KzNbrrBCmdE/maxresdefault.jpg
 duration: 52
 isShort: True
 ---

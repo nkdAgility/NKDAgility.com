@@ -1,22 +1,21 @@
 ---
+title: How to deal with a stuck or infinitely queued build
+date: 2010-09-09
+creator: Martin Hinshelwood
 id: "27"
-title: "How to deal with a stuck or infinitely queued build"
-date: "2010-09-09"
-tags:
-  - "codeproject"
-  - "ssw"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-11-11.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-to-deal-with-a-stuck-or-infinitely-queued-build"
-
+slug: how-to-deal-with-a-stuck-or-infinitely-queued-build
 aliases:
   - /blog/how-to-deal-with-a-stuck-or-infinitely-queued-build
+tags:
+  - codeproject
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+preview: metro-SSWLogo-128-link-11-11.png
 ---
 
 ![BuildIcon_Large](images/Howtodealwithastuckorinfinitelyqueuedbui_D645-BuildIcon_Large_-1-1.png)

@@ -1,20 +1,19 @@
 ---
+title: Many organisations are lured to SAFe by the song of the Sirens
+date: 2020-07-01
+creator: Martin Hinshelwood
 id: "44502"
-title: "Many organisations are lured to SAFe by the song of the Sirens"
-date: "2020-07-01"
-categories:
-  - "agility"
-tags:
-  - "leadership-track"
-  - "scrum-theory"
-coverImage: "Siren-mermaids-25084952-1378-1045-6-5.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "many-organisations-are-lured-to-safe-by-the-song-of-the-sirens"
-
+slug: many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
 aliases:
   - /blog/many-organisations-are-lured-to-safe-by-the-song-of-the-sirens
+tags:
+  - leadership-track
+  - scrum-theory
+categories:
+  - agility
+preview: Siren-mermaids-25084952-1378-1045-6-5.jpg
 ---
 
 These Sirens take advantage of the lack of understanding of what business agility is trying to change and lures unsuspecting C-suite executives into parting with their cash for what is effectively someone else's business process. They are changing their entire organisation, not because of a business challenge, but because they are told to.

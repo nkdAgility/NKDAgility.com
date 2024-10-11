@@ -4,7 +4,7 @@ date: 2023-09-26T07:00:02Z
 videoId: 79M9edUp_5c
 url: /resources/videos/5-tools-that-scrum-masters-love-part-4
 canonicalUrl: https://www.youtube.com/watch?v=79M9edUp_5c
-coverImage: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
 isShort: True
 ---

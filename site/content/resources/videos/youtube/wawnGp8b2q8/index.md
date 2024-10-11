@@ -4,7 +4,7 @@ date: 2023-07-13T12:20:07Z
 videoId: wawnGp8b2q8
 url: /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 canonicalUrl: https://www.youtube.com/watch?v=wawnGp8b2q8
-coverImage: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
 isShort: False
 ---

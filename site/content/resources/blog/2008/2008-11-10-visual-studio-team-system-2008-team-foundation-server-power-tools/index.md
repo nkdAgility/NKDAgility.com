@@ -1,19 +1,18 @@
 ---
+title: Visual Studio Team System 2008 Team Foundation Server Power Tools
+date: 2008-11-10
+creator: Martin Hinshelwood
 id: "172"
-title: "Visual Studio Team System 2008 Team Foundation Server Power Tools"
-date: "2008-11-10"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-team-system-2008-team-foundation-server-power-tools"
-
+slug: visual-studio-team-system-2008-team-foundation-server-power-tools
 aliases:
   - /blog/visual-studio-team-system-2008-team-foundation-server-power-tools
+tags:
+  - tfs
+  - tfs2008
+  - tools
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 There is a new release of the Power Tools for team system. As an MVP I was involved in the trial that started early this month, and I can tell you that a LOT of work has gone into these :)

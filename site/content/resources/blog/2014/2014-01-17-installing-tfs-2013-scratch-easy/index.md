@@ -1,22 +1,21 @@
 ---
+title: Installing TFS 2013 from scratch is easy
+date: 2014-01-17
+creator: Martin Hinshelwood
 id: "10332"
-title: "Installing TFS 2013 from scratch is easy"
-date: "2014-01-17"
-categories:
-  - "install-and-configuration"
-tags:
-  - "configuration"
-  - "install"
-  - "tfs"
-  - "tfs-2013"
-  - "videos"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "installing-tfs-2013-scratch-easy"
-
+slug: installing-tfs-2013-scratch-easy
 aliases:
   - /blog/installing-tfs-2013-scratch-easy
+tags:
+  - configuration
+  - install
+  - tfs
+  - tfs-2013
+  - videos
+categories:
+  - install-and-configuration
 ---
 
 It had been a while since I installed TFS from scratch and I had a few questions from a customer on the subject. So instead of creating yet another installing TFS post I decided to create a couple of videos instead.

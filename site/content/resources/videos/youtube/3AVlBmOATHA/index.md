@@ -4,7 +4,7 @@ date: 2023-02-08T07:15:00Z
 videoId: 3AVlBmOATHA
 url: /resources/videos/how-would-you-help-organizations-pitch-the-opportunity-of-agile-internally-
 canonicalUrl: https://www.youtube.com/watch?v=3AVlBmOATHA
-coverImage: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/3AVlBmOATHA/maxresdefault.jpg
 duration: 371
 isShort: False
 ---

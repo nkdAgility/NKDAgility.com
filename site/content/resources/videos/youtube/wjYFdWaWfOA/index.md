@@ -4,7 +4,7 @@ date: 2023-05-22T14:00:41Z
 videoId: wjYFdWaWfOA
 url: /resources/videos/what-is-a-scrum-master-why-are-they-essential-
 canonicalUrl: https://www.youtube.com/watch?v=wjYFdWaWfOA
-coverImage: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/wjYFdWaWfOA/maxresdefault.jpg
 duration: 299
 isShort: False
 ---

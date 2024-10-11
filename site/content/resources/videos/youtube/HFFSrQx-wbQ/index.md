@@ -4,7 +4,7 @@ date: 2023-11-01T09:42:43Z
 videoId: HFFSrQx-wbQ
 url: /resources/videos/plague-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=HFFSrQx-wbQ
-coverImage: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/HFFSrQx-wbQ/maxresdefault.jpg
 duration: 64
 isShort: False
 ---

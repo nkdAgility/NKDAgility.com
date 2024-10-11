@@ -1,22 +1,21 @@
 ---
+title: Serialize Assembly for Service calls over Http
+date: 2007-04-24
+creator: Martin Hinshelwood
 id: "415"
-title: "Serialize Assembly for Service calls over Http"
-date: "2007-04-24"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "ml"
-  - "tfs-event-handler"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "serialize-assembly-for-service-calls-over-http"
-
+slug: serialize-assembly-for-service-calls-over-http
 aliases:
   - /blog/serialize-assembly-for-service-calls-over-http
+tags:
+  - code
+  - ml
+  - tfs-event-handler
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I want to send a .NET assembly as either an System.Reflection.Assembly or as a string over the wire through a [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") web service. It seems that the class System.Reflection.Assembly can serialize, but is unable to deserialize at the other end. How can this be achieved without sending as a straem of Byte.

@@ -4,7 +4,7 @@ date: 2023-01-10T07:48:02Z
 videoId: ZrzqNfV7P9o
 url: /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
 canonicalUrl: https://www.youtube.com/watch?v=ZrzqNfV7P9o
-coverImage: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ZrzqNfV7P9o/maxresdefault.jpg
 duration: 261
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2023-04-28T07:00:30Z
 videoId: gRnYXuxo9_w
 url: /resources/videos/scrum-value,-openness,-what-does-it-mean-and-why-does-it-matter-
 canonicalUrl: https://www.youtube.com/watch?v=gRnYXuxo9_w
-coverImage: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/gRnYXuxo9_w/maxresdefault.jpg
 duration: 171
 isShort: False
 ---

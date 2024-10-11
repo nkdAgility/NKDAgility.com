@@ -4,7 +4,7 @@ date: 2023-08-25T07:00:00Z
 videoId: -xrtaW5NlP0
 url: /resources/videos/why-is-kanban-such-a-popular-approach-for-people-in-creative-industries
 canonicalUrl: https://www.youtube.com/watch?v=-xrtaW5NlP0
-coverImage: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/-xrtaW5NlP0/maxresdefault.jpg
 duration: 245
 isShort: False
 ---

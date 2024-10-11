@@ -4,7 +4,7 @@ date: 2023-05-24T14:00:36Z
 videoId: nMkit8zBxG0
 url: /resources/videos/what-is-sprint-planning-
 canonicalUrl: https://www.youtube.com/watch?v=nMkit8zBxG0
-coverImage: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
 isShort: False
 ---

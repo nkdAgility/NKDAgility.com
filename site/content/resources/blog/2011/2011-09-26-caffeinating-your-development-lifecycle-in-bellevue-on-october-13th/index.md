@@ -1,20 +1,19 @@
 ---
+title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
+date: 2011-09-26
+creator: Martin Hinshelwood
 id: "3796"
-title: "Caffeinating Your Development Lifecycle in Bellevue on October 13th"
-date: "2011-09-26"
-categories:
-  - "events-and-presentations"
-tags:
-  - "nwcadence"
-  - "tools"
-coverImage: "metro-nwc-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "caffeinating-your-development-lifecycle-in-bellevue-on-october-13th"
-
+slug: caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
 aliases:
   - /blog/caffeinating-your-development-lifecycle-in-bellevue-on-october-13th
+tags:
+  - nwcadence
+  - tools
+categories:
+  - events-and-presentations
+preview: metro-nwc-128-link-3-3.png
 ---
 
 ![clip_image001](images/clip_image001-1-1.jpg "clip_image001")Northwest Cadence has decided that while online events are good, nothing beats in-person. If you’re in the area and available, we would love to have you attend our inaugural event at the Microsoft Store in Bellevue in a few weeks!

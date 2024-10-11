@@ -1,22 +1,21 @@
 ---
+title: Ooooh, RTM Delight
+date: 2008-08-12
+creator: Martin Hinshelwood
 id: "212"
-title: "Ooooh, RTM Delight"
-date: "2008-08-12"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "wpf"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "ooooh-rtm-delight"
-
+slug: ooooh-rtm-delight
 aliases:
   - /blog/ooooh-rtm-delight
+tags:
+  - tfs
+  - tfs2008
+  - tools
+  - visual-studio
+  - vs2008
+  - wpf
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 Well, MSDN will be busy today… Visual Studio 2008 Beta 1, Team Foundation Server 2008 Beta 1 and .NET Framework Beta 1 have all been released today. This is grate news as I have been using the Beta for about as long as it has been available and all those applications I have waiting in the wings can now go live :), Or at least get into the final phase of development.

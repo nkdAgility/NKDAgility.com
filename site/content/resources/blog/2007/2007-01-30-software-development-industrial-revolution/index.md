@@ -1,31 +1,30 @@
 ---
+title: Software Development Industrial Revolution
+date: 2007-01-30
+creator: Martin Hinshelwood
 id: "416"
-title: "Software Development Industrial Revolution"
-date: "2007-01-30"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "code"
-  - "configuration"
-  - "define"
-  - "develop"
-  - "fail"
-  - "infrastructure"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "software-development-industrial-revolution"
-
+slug: software-development-industrial-revolution
 aliases:
   - /blog/software-development-industrial-revolution
+tags:
+  - code
+  - configuration
+  - define
+  - develop
+  - fail
+  - infrastructure
+  - operate
+  - people
+  - practices
+  - process
+  - tools
+categories:
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I found out the other day that there is another implementation of TFS in the company. Not even the principal UK Architect, who recently visited the US knew of this. I do not think that it has been communicated outside of the department. That is an inevitable aspect of such a large company. The only way to get things working is to keep your head down until you have a viable solution, otherwise you get blown out of the water as soon as department z resizes that you product my do away with their solution for one part of of a larger system. Sillyness...

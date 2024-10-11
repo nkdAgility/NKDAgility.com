@@ -4,7 +4,7 @@ date: 2023-03-21T07:00:18Z
 videoId: oBnvr7vOkg8
 url: /resources/videos/how-does-someone-become-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=oBnvr7vOkg8
-coverImage: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/oBnvr7vOkg8/maxresdefault.jpg
 duration: 400
 isShort: False
 ---

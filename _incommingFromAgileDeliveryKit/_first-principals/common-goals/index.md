@@ -3,7 +3,7 @@ title: Common Goals
 description: All participants and stakeholders should understand the overall strategic goals and be able to see how the work contributes to it
 recommendedContent:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -25,8 +25,6 @@ Overall, ensuring that all participants and stakeholders understand the overall 
 
 ## What sort of goals do we have?
 
-
 - Sprint Goal: Each Sprint should have a clear goal that defines what the team intends to achieve during that period. This goal should align with the product vision and contribute to the development of the product.
 - Product Goal: The Product Owner should define a long-term product goal that provides direction for the team and guides the prioritization of the Product Backlog.
 - Nexus Sprint Goal: This goal defines the focus for all the Scrum teams during a Nexus Sprint. The Nexus Sprint Goal should align with the Product Goal and contribute to the development of the product.
-

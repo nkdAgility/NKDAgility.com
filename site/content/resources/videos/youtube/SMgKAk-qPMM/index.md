@@ -4,7 +4,7 @@ date: 2023-12-05T07:00:10Z
 videoId: SMgKAk-qPMM
 url: /resources/videos/7-virtues-of-agile-temperance
 canonicalUrl: https://www.youtube.com/watch?v=SMgKAk-qPMM
-coverImage: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/SMgKAk-qPMM/maxresdefault.jpg
 duration: 154
 isShort: False
 ---

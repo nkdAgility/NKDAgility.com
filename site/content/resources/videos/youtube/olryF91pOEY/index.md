@@ -4,7 +4,7 @@ date: 2023-03-29T07:00:17Z
 videoId: olryF91pOEY
 url: /resources/videos/can-organizations-run-an-applying-professional-scrum-workshop-how-will-that-help-them-
 canonicalUrl: https://www.youtube.com/watch?v=olryF91pOEY
-coverImage: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/olryF91pOEY/maxresdefault.jpg
 duration: 479
 isShort: False
 ---

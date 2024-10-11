@@ -1,21 +1,20 @@
 ---
+title: The search for a single point of truth
+date: 2010-07-07
+creator: Martin Hinshelwood
 id: "34"
-title: "The search for a single point of truth"
-date: "2010-07-07"
-categories:
-  - "me"
-tags:
-  - "linkedin"
-  - "off-topic"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-19-19.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-search-for-a-single-point-of-truth"
-
+slug: the-search-for-a-single-point-of-truth
 aliases:
   - /blog/the-search-for-a-single-point-of-truth
+tags:
+  - linkedin
+  - off-topic
+  - tools
+categories:
+  - me
+preview: nakedalm-logo-128-link-19-19.png
 ---
 
 ![image](images/7b88707dd37e_F009-image_-8-11.png)It may be a trivial matter to get your contacts on your phone, but if you do the social network thing, then you need to do a little jiggery pokery to get everything to sync so you have the same contacts everywhere. Over the last couple of weeks I have vowed to get them sorted.

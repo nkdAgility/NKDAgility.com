@@ -1,17 +1,16 @@
 ---
-id: "169"
 title: "DDD Scotland v2.0: 2nd of May 2009"
-date: "2008-11-14"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
+date: 2008-11-14
+creator: Martin Hinshelwood
+id: "169"
 layout: blog
 resourceType: blog
-slug: "ddd-scotland-v2-0-2nd-of-may-2009"
-
+slug: ddd-scotland-v2-0-2nd-of-may-2009
 aliases:
   - /blog/ddd-scotland-v2-0-2nd-of-may-2009
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 It seams that the event of the year is back! [Developer Day Scotland](http://developerdayscotland.com/) returns for a second year as [posted](http://idunno.org/archive/2008/11/12/hoots-mon-ddd-scotland-isnae-deed.aspx) by [Barry Dorrans](http://twitter.com/blowdart) in Glaswegien :)

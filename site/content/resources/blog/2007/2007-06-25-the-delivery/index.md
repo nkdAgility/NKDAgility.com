@@ -1,17 +1,16 @@
 ---
+title: The Delivery
+date: 2007-06-25
+creator: Martin Hinshelwood
 id: "374"
-title: "The Delivery"
-date: "2007-06-25"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-delivery"
-
+slug: the-delivery
 aliases:
   - /blog/the-delivery
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Well, this being my hundredth post I thought I should mention something special... Something that will change my world forever... Something that will keep me up at night...

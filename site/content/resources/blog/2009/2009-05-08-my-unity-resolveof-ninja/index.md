@@ -1,22 +1,21 @@
 ---
+title: My.Unity.Resolve(Of Ninja)
+date: 2009-05-08
+creator: Martin Hinshelwood
 id: "123"
-title: "My.Unity.Resolve(Of Ninja)"
-date: "2009-05-08"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "tools"
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-4-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "my-unity-resolveof-ninja"
-
+slug: my-unity-resolveof-ninja
 aliases:
   - /blog/my-unity-resolveof-ninja
+tags:
+  - code
+  - codeproject
+  - tools
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-4-1.png
 ---
 
 I have been attempting to integrate the Unity Application Block into my website to allow me to share the same base object code between a WPF and an ASP.NET application. I will let you know how I am getting along later as I am still knee deep in refactoring, but I have found something a little useful.

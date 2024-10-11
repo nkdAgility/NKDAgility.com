@@ -1,27 +1,26 @@
 ---
+title: Developing for SharePoint on your local computer
+date: 2008-05-20
+creator: Martin Hinshelwood
 id: "223"
-title: "Developing for SharePoint on your local computer"
-date: "2008-05-20"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "develop"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "spf2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "wf"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "developing-for-sharepoint-on-your-local-computer"
-
+slug: developing-for-sharepoint-on-your-local-computer
 aliases:
   - /blog/developing-for-sharepoint-on-your-local-computer
+tags:
+  - develop
+  - moss2007
+  - sharepoint
+  - sp2007
+  - spf2010
+  - tools
+  - visual-studio
+  - vs2008
+  - wf
+categories:
+  - tools-and-techniques
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 If you are wanting to developer solutions for SharePoint in Visual Studio 2008 then you need a couple of things to get started:

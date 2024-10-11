@@ -4,7 +4,7 @@ date: 2023-07-26T04:03:17Z
 videoId: EOs5kZv_7tg
 url: /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
 canonicalUrl: https://www.youtube.com/watch?v=EOs5kZv_7tg
-coverImage: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/EOs5kZv_7tg/maxresdefault.jpg
 duration: 131
 isShort: False
 ---

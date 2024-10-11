@@ -1,23 +1,22 @@
 ---
+title: Can the Definition of Done change per Sprint?
+date: 2019-10-14
+creator: Martin Hinshelwood
 id: "40168"
-title: "Can the Definition of Done change per Sprint?"
-date: "2019-10-14"
-categories:
-  - "agility"
-  - "code-and-complexity"
-  - "devops"
-  - "measure-and-learn"
-  - "tools-and-techniques"
-tags:
-  - "definition-of-done"
-coverImage: "20190906_152025-2-2.gif"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "can-the-definition-of-done-change-per-sprint"
-
+slug: can-the-definition-of-done-change-per-sprint
 aliases:
   - /blog/can-the-definition-of-done-change-per-sprint
+tags:
+  - definition-of-done
+categories:
+  - agility
+  - code-and-complexity
+  - devops
+  - measure-and-learn
+  - tools-and-techniques
+preview: 20190906_152025-2-2.gif
 ---
 
 I was asked this question today and I think there is a clear answer, however it may change depending on the context of the question.

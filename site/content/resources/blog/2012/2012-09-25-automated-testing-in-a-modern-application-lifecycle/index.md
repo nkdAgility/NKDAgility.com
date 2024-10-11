@@ -1,31 +1,30 @@
 ---
+title: Automated Testing in a modern application lifecycle
+date: 2012-09-25
+creator: Martin Hinshelwood
 id: "8868"
-title: "Automated Testing in a modern application lifecycle"
-date: "2012-09-25"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "automated-testing"
-  - "develop"
-  - "infrastructure"
-  - "modern-alm"
-  - "modern-application-lifecycle"
-  - "practices"
-  - "s30d"
-  - "tfs"
-  - "tfs2012"
-  - "the-new-normal"
-  - "tools"
-  - "vs2012"
-coverImage: "metro-automated-test-icon-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "automated-testing-in-a-modern-application-lifecycle"
-
+slug: automated-testing-in-a-modern-application-lifecycle
 aliases:
   - /blog/automated-testing-in-a-modern-application-lifecycle
+tags:
+  - agile
+  - automated-testing
+  - develop
+  - infrastructure
+  - modern-alm
+  - modern-application-lifecycle
+  - practices
+  - s30d
+  - tfs
+  - tfs2012
+  - the-new-normal
+  - tools
+  - vs2012
+categories:
+  - tools-and-techniques
+preview: metro-automated-test-icon-4-4.png
 ---
 
 If we are building software in a modern application lifecycle there is no way that we would be able to deliver modern applications without some form of automated testing. Automated testing is the one thing that makes sure that we are able to deliver working software that meets the quality bar while still keeping the cycle time at an acceptable level.

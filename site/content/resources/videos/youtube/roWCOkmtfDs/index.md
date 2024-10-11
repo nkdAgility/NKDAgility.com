@@ -4,7 +4,7 @@ date: 2024-09-02T15:30:15Z
 videoId: roWCOkmtfDs
 url: /resources/videos/what-is-product-validation-and-why-does-it-matter
 canonicalUrl: https://www.youtube.com/watch?v=roWCOkmtfDs
-coverImage: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
 duration: 843
 isShort: False
 ---

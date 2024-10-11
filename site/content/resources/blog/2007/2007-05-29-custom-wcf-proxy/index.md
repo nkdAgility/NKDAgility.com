@@ -1,20 +1,19 @@
 ---
+title: Custom WCF Proxy
+date: 2007-05-29
+creator: Martin Hinshelwood
 id: "394"
-title: "Custom WCF Proxy"
-date: "2007-05-29"
-tags:
-  - "ml"
-  - "service-oriented-architecture"
-  - "tools"
-  - "wcf"
-coverImage: "metro-merilllynch-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "custom-wcf-proxy"
-
+slug: custom-wcf-proxy
 aliases:
   - /blog/custom-wcf-proxy
+tags:
+  - ml
+  - service-oriented-architecture
+  - tools
+  - wcf
+preview: metro-merilllynch-128-link-1-1.png
 ---
 
 The think that always annoys me with web services is that when you connect to it and generate the proxy it always generates proxies for all of the extra classes and interfaces as well, even when you have them available. This means that you always have to write convertors or adapters to convert one object type to another even though they are the same object (only core class and proxy of that class).

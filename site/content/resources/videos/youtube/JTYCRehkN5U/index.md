@@ -4,7 +4,7 @@ date: 2024-06-27T06:45:00Z
 videoId: JTYCRehkN5U
 url: /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
 canonicalUrl: https://www.youtube.com/watch?v=JTYCRehkN5U
-coverImage: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/JTYCRehkN5U/maxresdefault.jpg
 duration: 1219
 isShort: False
 ---

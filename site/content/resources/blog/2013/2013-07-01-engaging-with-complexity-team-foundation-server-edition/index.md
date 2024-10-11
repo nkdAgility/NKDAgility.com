@@ -1,26 +1,25 @@
 ---
+title: Engaging with complexity - Team Foundation Server Edition
+date: 2013-07-01
+creator: Martin Hinshelwood
 id: "9703"
-title: "Engaging with complexity - Team Foundation Server Edition"
-date: "2013-07-01"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "infrastructure"
-  - "operational"
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-2"
-  - "tfs-2012-3"
-  - "tfs-2013"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "engaging-with-complexity-team-foundation-server-edition"
-
+slug: engaging-with-complexity-team-foundation-server-edition
 aliases:
   - /blog/engaging-with-complexity-team-foundation-server-edition
+tags:
+  - infrastructure
+  - operational
+  - tfs
+  - tfs2012
+  - tfs2012-2
+  - tfs-2012-3
+  - tfs-2013
+  - tools
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-2-2.png
 ---
 
 I have been engaging with complexity for a company in Silicon Valley that is doing one of the most complex Team Foundation Server migrations that I think I have ever seen.

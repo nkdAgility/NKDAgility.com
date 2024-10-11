@@ -1,20 +1,19 @@
 ---
+title: Sync extension for Lists/Collections or whatever
+date: 2008-10-13
+creator: Martin Hinshelwood
 id: "188"
-title: "Sync extension for Lists/Collections or whatever"
-date: "2008-10-13"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "sync-extension-for-listscollections-or-whatever"
-
+slug: sync-extension-for-listscollections-or-whatever
 aliases:
   - /blog/sync-extension-for-listscollections-or-whatever
+tags:
+  - code
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I recently found the need to Sync two lists. I have one list that is used for display, and I want to dynamically sync that list with a new one by applying a delta.

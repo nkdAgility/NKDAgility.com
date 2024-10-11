@@ -1,24 +1,23 @@
 ---
-id: "63"
 title: "Adventures in Scrum: Lesson 1 – The failed Sprint"
-date: "2010-03-15"
-categories:
-  - "people-and-process"
-tags:
-  - "develop"
-  - "people"
-  - "practices"
-  - "process"
-  - "scrum"
-  - "ssw"
-coverImage: "metro-SSWLogo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2010-03-15
+creator: Martin Hinshelwood
+id: "63"
 layout: blog
 resourceType: blog
-slug: "adventures-in-scrum-lesson-1-the-failed-sprint"
-
+slug: adventures-in-scrum-lesson-1-the-failed-sprint
 aliases:
   - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
+tags:
+  - develop
+  - people
+  - practices
+  - process
+  - scrum
+  - ssw
+categories:
+  - people-and-process
+preview: metro-SSWLogo-128-link-1-1.png
 ---
 
 I recently had a conversation with a product owner that wanted to have the Scrum team broken up into smaller units so that less time was wasted on the Scrum Ceremonies! Their complaint was around the need in Scrum to have the entire “Team” (7+-2) involved in the sizing of the work during the “Sprint Planning Meeting”.

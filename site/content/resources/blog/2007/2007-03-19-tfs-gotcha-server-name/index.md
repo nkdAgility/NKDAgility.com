@@ -1,15 +1,14 @@
 ---
+title: TFS Gotcha (server name)
+date: 2007-03-19
+creator: Martin Hinshelwood
 id: "427"
-title: "TFS Gotcha (server name)"
-date: "2007-03-19"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-gotcha-server-name"
-
+slug: tfs-gotcha-server-name
 aliases:
   - /blog/tfs-gotcha-server-name
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you are installing TFS in a large network that utilises proxy servers, especialy those that strip network credentials for what it thinks are internet sites, then you may run into problems..

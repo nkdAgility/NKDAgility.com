@@ -1,24 +1,23 @@
 ---
-id: "9499"
 title: "Naked ALM: starting with why and getting naked"
-date: "2013-05-02"
-categories:
-  - "me"
-  - "measure-and-learn"
-  - "people-and-process"
-tags:
-  - "golden-circle"
-  - "improve"
-  - "measure"
-  - "why"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2013-05-02
+creator: Martin Hinshelwood
+id: "9499"
 layout: blog
 resourceType: blog
-slug: "naked-alm-starting-with-why-and-getting-naked"
-
+slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
   - /blog/naked-alm-starting-with-why-and-getting-naked
+tags:
+  - golden-circle
+  - improve
+  - measure
+  - why
+categories:
+  - me
+  - measure-and-learn
+  - people-and-process
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 For a long time now I have been searching for that perfect domain that epitomised the vision, the why, of what I am trying to achieve with my customers and the industry at large. Now I have found it in [http://nkdagility.com](http://nkdagility.com)

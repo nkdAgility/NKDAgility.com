@@ -1,27 +1,26 @@
 ---
+title: TFS Event Handler (Prototype) Refresh
+date: 2008-01-29
+creator: Martin Hinshelwood
 id: "259"
-title: "TFS Event Handler (Prototype) Refresh"
-date: "2008-01-29"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "infrastructure"
-  - "tfs"
-  - "tfs2008"
-  - "tfs-event-handler"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-prototype-refresh"
-
+slug: tfs-event-handler-prototype-refresh
 aliases:
   - /blog/tfs-event-handler-prototype-refresh
+tags:
+  - code
+  - infrastructure
+  - tfs
+  - tfs2008
+  - tfs-event-handler
+  - tools
+  - visual-studio
+  - vs2008
+  - wit
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 I found a couple of bugs in the [TFS Event Handler Prototype release](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057). As I am still supporting this release (many people use it in production) I have fixed the bugs and uploaded new installers.

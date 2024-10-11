@@ -1,27 +1,26 @@
 ---
+title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
+date: 2012-12-31
+creator: Martin Hinshelwood
 id: "9211"
-title: "Upgrading to Team Foundation Server 2012 Update 1 in production – DONE"
-date: "2012-12-31"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-15-15.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-to-team-foundation-server-2012-update-1-in-production-done"
-
+slug: upgrading-to-team-foundation-server-2012-update-1-in-production-done
 aliases:
   - /blog/upgrading-to-team-foundation-server-2012-update-1-in-production-done
+tags:
+  - configuration
+  - infrastructure
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tfs2012
+  - tfs2012-1
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-15-15.png
 ---
 
 Although many of my customers have been having a go at installing Visual Studio Team Foundation Server 2012 Update 1 themselves one or two have had issues. While these issues are easily resolved it is sometimes nice to have someone else who has done the same thing a bunch of times take the rains.

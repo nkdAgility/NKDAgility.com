@@ -1,18 +1,17 @@
 ---
-id: "12146"
 title: "Round up for 2017 and beyond: Agility, DevOps, and Everything In-between"
-date: "2017-11-28"
-categories:
-  - "agility"
-  - "devops"
-coverImage: "-1-1.jpg"
-author: "MrHinsh"
+date: 2017-11-28
+creator: Martin Hinshelwood
+id: "12146"
 layout: blog
 resourceType: blog
-slug: "round-up-for-2017-and-beyond-agility-devops-and-everything-in-between"
-
+slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
   - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
+categories:
+  - agility
+  - devops
+preview: -1-1.jpg
 ---
 
 This year has been relatively busy for conferences. Which is unusual since I usually forget until after the call for papers and wonder what's going on. Well, this time I got some submissions in on time. It does, however, baffle me which papers are selected. I always submit around 6 papers for workshops and talks, and always the one I would least like to present is picked.

@@ -1,11 +1,11 @@
 ---
+title: Kongsberg Maritime
+date: 2017-04-24
+creator: Martin Hinshelwood
 id: "11839"
-title: "Kongsberg Maritime"
-date: "2017-04-24"
+type: customers
+slug: kongsberg-maritime
 tags:
-  - "homepage"
-coverImage: "nkdagility-customer-kongsberg-200x75.png"
-author: "MrHinsh"
-type: "customers"
-slug: "kongsberg-maritime"
+  - homepage
+preview: nkdagility-customer-kongsberg-200x75.png
 ---

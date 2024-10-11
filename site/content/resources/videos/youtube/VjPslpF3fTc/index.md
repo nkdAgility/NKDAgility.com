@@ -4,7 +4,7 @@ date: 2023-08-01T07:00:19Z
 videoId: VjPslpF3fTc
 url: /resources/videos/how-will-the-immersive-learning-experience-change-the-game-for-people-with-a-few-years-experience
 canonicalUrl: https://www.youtube.com/watch?v=VjPslpF3fTc
-coverImage: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/VjPslpF3fTc/maxresdefault.jpg
 duration: 122
 isShort: False
 ---

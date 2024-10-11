@@ -1,22 +1,21 @@
 ---
-id: "9911"
 title: "Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools"
-date: "2013-06-27"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "process-template"
-  - "puzzles"
-  - "tf400654"
-  - "tfs-2013"
-coverImage: "puzzle-issue-problem-128-link-2-2.png"
-author: "MrHinsh"
+date: 2013-06-27
+creator: Martin Hinshelwood
+id: "9911"
 layout: blog
 resourceType: blog
-slug: "issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools"
-
+slug: issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
 aliases:
   - /blog/issue-tfs-2013-preview-tf400654-unable-to-configure-planning-tools
+tags:
+  - process-template
+  - puzzles
+  - tf400654
+  - tfs-2013
+categories:
+  - problems-and-puzzles
+preview: puzzle-issue-problem-128-link-2-2.png
 ---
 
 If you have the ‘team field’ enabled you will receive a “TF400654: Unable to configure Planning Tools” when you try to use the automatic configuration.

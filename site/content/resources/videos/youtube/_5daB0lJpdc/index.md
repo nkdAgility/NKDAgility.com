@@ -4,7 +4,7 @@ date: 2023-12-28T08:40:54Z
 videoId: _5daB0lJpdc
 url: /resources/videos/5-ghosts-of-agile-past-certification
 canonicalUrl: https://www.youtube.com/watch?v=_5daB0lJpdc
-coverImage: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/_5daB0lJpdc/maxresdefault.jpg
 duration: 372
 isShort: False
 ---
@@ -13,9 +13,9 @@ isShort: False
 
 # 5 ghosts of agile past. certification
 
-Debunking Agile Certifications: A Realistic Look at Their Impact - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world. 
+Debunking Agile Certifications: A Realistic Look at Their Impact - Explore the truth behind agile certifications in this eye-opening discussion. Uncover how they affect learning and professional growth in the agile world.
 
-Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+Enjoy this video? 🔔 Like and subscribe to our channel:\* https://www.youtube.com/@nakedAgility
 
 🎬 In this video, Martin takes a deep dive into the controversial topic of agile certifications. 🤔 He challenges common perceptions and sheds light on how these certifications might be hindering rather than helping. Watch as he provides a unique perspective on the actual value of certifications in professional development and learning within the agile field. 🌟
 

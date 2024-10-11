@@ -4,7 +4,7 @@ date: 2023-06-20T12:00:28Z
 videoId: KjSRjkK6OL0
 url: /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
 canonicalUrl: https://www.youtube.com/watch?v=KjSRjkK6OL0
-coverImage: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KjSRjkK6OL0/maxresdefault.jpg
 duration: 45
 isShort: True
 ---

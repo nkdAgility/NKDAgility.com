@@ -4,7 +4,7 @@ date: 2023-05-30T11:00:40Z
 videoId: qXsjLuss22Y
 url: /resources/videos/what-is-a-product-goal-
 canonicalUrl: https://www.youtube.com/watch?v=qXsjLuss22Y
-coverImage: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
 isShort: True
 ---

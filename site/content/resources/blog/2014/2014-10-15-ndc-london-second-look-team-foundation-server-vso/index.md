@@ -1,28 +1,27 @@
 ---
-id: "10811"
 title: "NDC London: Second Look, Team Foundation Server &amp; VSO"
-date: "2014-10-15"
-categories:
-  - "events-and-presentations"
-tags:
-  - "backlog-management"
-  - "code-sense"
-  - "codedui"
-  - "feedback-client"
-  - "my-work"
-  - "portfolio-management"
-  - "release-management"
-  - "storyboarding"
-  - "tfs-2013-3"
-  - "vsteamservices"
-coverImage: "metro-event-icon-7-7.png"
-author: "MrHinsh"
+date: 2014-10-15
+creator: Martin Hinshelwood
+id: "10811"
 layout: blog
 resourceType: blog
-slug: "ndc-london-second-look-team-foundation-server-vso"
-
+slug: ndc-london-second-look-team-foundation-server-vso
 aliases:
   - /blog/ndc-london-second-look-team-foundation-server-vso
+tags:
+  - backlog-management
+  - code-sense
+  - codedui
+  - feedback-client
+  - my-work
+  - portfolio-management
+  - release-management
+  - storyboarding
+  - tfs-2013-3
+  - vsteamservices
+categories:
+  - events-and-presentations
+preview: metro-event-icon-7-7.png
 ---
 
 While I have spoken at many events in the USA while I lived there, and even did a few keynotes for the Visual Studio 2012 launch, I have been trying to figure out the scene here in Europe. As such I submitted to a few events and got accepted to speak at NDC London.

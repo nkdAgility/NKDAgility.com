@@ -1,20 +1,19 @@
 ---
+title: Getting a service account for VSO with TFS Service Credential Viewer
+date: 2014-06-18
+creator: Martin Hinshelwood
 id: "10596"
-title: "Getting a service account for VSO with TFS Service Credential Viewer"
-date: "2014-06-18"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "tfs"
-  - "vsteamservices"
-coverImage: "nakedalm-experts-visual-studio-alm-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "getting-service-account-vso-tfs-service-credential-viewer"
-
+slug: getting-service-account-vso-tfs-service-credential-viewer
 aliases:
   - /blog/getting-service-account-vso-tfs-service-credential-viewer
+tags:
+  - tfs
+  - vsteamservices
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-1-1.png
 ---
 
 Have you tried to get a service account for Visual Studio Online (VSO)? Did you know that you can use the TFS Service Credential Viewer to get it.
@@ -52,12 +51,12 @@ If you are using Windows 8 you will not get an automatic launch of the applicati
 1.  Click or Press “Start” and Scroll all the way to the right
 2.  Select the TFS Service Credential Viewer
 3.  When the security dialog pops up click “More Info”
-        [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb22.png?zoom=1.5&resize=640%2C268 "image")](http://i1.wp.com/blog.hinshelwood.com/files/2012/03/image22.png)
+    [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb22.png?zoom=1.5&resize=640%2C268 "image")](http://i1.wp.com/blog.hinshelwood.com/files/2012/03/image22.png)
     { .post-img }
     **Figure: Select More Info  
      **
 4.  Click “Run anyway” to launch the application and add it to the safe list
-        [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb23.png?zoom=1.5&resize=640%2C270 "image")](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image23.png)
+    [![image](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image_thumb23.png?zoom=1.5&resize=640%2C270 "image")](http://i2.wp.com/blog.hinshelwood.com/files/2012/03/image23.png)
     { .post-img }
     Figure;
 5.  Done

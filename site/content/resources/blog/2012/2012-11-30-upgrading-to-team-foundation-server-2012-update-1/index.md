@@ -1,24 +1,23 @@
 ---
+title: Upgrading to Team Foundation Server 2012 Update 1
+date: 2012-11-30
+creator: Martin Hinshelwood
 id: "9161"
-title: "Upgrading to Team Foundation Server 2012 Update 1"
-date: "2012-11-30"
-categories:
-  - "code-and-complexity"
-tags:
-  - "configuration"
-  - "infrastructure"
-  - "tfs"
-  - "tfs2012"
-  - "tfs2012-1"
-  - "tools"
-  - "upgrade"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-to-team-foundation-server-2012-update-1"
-
+slug: upgrading-to-team-foundation-server-2012-update-1
 aliases:
   - /blog/upgrading-to-team-foundation-server-2012-update-1
+tags:
+  - configuration
+  - infrastructure
+  - tfs
+  - tfs2012
+  - tfs2012-1
+  - tools
+  - upgrade
+categories:
+  - code-and-complexity
 ---
 
 As usual I am going to update my local Team Foundation Server environment to Team Foundation Server 2012 Update 1 first and with Windows 8 and Hyper-V that is easy. If you are creating a new Team Foundation Server 2012 instance you can just install directly from the Update 1 media. Its all there…

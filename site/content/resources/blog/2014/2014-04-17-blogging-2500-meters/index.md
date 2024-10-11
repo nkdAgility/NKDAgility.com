@@ -1,17 +1,16 @@
 ---
+title: Blogging from 2500 meters
+date: 2014-04-17
+creator: Martin Hinshelwood
 id: "10509"
-title: "Blogging from 2500 meters"
-date: "2014-04-17"
-categories:
-  - "news-and-reviews"
-coverImage: "nakedalm-logo-260-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "blogging-2500-meters"
-
+slug: blogging-2500-meters
 aliases:
   - /blog/blogging-2500-meters
+categories:
+  - news-and-reviews
+preview: nakedalm-logo-260-7-7.png
 ---
 
 I am currently 2k meters up the side of a mountain in the French Alps and while skiing is fun it takes its toll on my knees that are already a bit dodgy. Thus I have been Skiing in the mornings and sunning myself in the afternoons. It is about 25 degrees Celsius here during the day and tad sunny.

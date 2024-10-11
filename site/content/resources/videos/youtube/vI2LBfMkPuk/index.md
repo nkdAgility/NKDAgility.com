@@ -4,7 +4,7 @@ date: 2023-01-09T12:36:53Z
 videoId: vI2LBfMkPuk
 url: /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=vI2LBfMkPuk
-coverImage: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
 isShort: False
 ---

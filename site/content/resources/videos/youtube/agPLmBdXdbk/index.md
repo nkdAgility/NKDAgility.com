@@ -4,7 +4,7 @@ date: 2023-05-01T09:30:00Z
 videoId: agPLmBdXdbk
 url: /resources/videos/must-have-trait-in-an-agile-consultant
 canonicalUrl: https://www.youtube.com/watch?v=agPLmBdXdbk
-coverImage: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
 isShort: True
 ---

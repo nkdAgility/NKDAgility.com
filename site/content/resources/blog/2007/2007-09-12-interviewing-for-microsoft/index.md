@@ -1,19 +1,18 @@
 ---
+title: Interviewing for Microsoft
+date: 2007-09-12
+creator: Martin Hinshelwood
 id: "315"
-title: "Interviewing for Microsoft"
-date: "2007-09-12"
-categories:
-  - "me"
-tags:
-  - "wcf"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "interviewing-for-microsoft"
-
+slug: interviewing-for-microsoft
 aliases:
   - /blog/interviewing-for-microsoft
+tags:
+  - wcf
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I was not sure wither I was going to post this, but I am pretty crazy anyway, so...what the hell.

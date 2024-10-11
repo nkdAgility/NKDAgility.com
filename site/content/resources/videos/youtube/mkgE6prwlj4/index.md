@@ -4,7 +4,7 @@ date: 2023-05-26T07:00:16Z
 videoId: mkgE6prwlj4
 url: /resources/videos/best-application-of-scrum-in-the-world-
 canonicalUrl: https://www.youtube.com/watch?v=mkgE6prwlj4
-coverImage: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
 isShort: True
 ---

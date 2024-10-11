@@ -1,25 +1,24 @@
 ---
-id: "257"
 title: "The SharePoint Plan: Database move headache mitigation"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-  - "problems-and-puzzles"
-tags:
-  - "configuration"
-  - "fail"
-  - "infrastructure"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
+date: 2008-01-31
+creator: Martin Hinshelwood
+id: "257"
 layout: blog
 resourceType: blog
-slug: "the-sharepoint-plan-database-move-headache-mitigation"
-
+slug: the-sharepoint-plan-database-move-headache-mitigation
 aliases:
   - /blog/the-sharepoint-plan-database-move-headache-mitigation
+tags:
+  - configuration
+  - fail
+  - infrastructure
+  - sharepoint
+  - sp2007
+  - tools
+categories:
+  - code-and-complexity
+  - problems-and-puzzles
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 SharePoint requires SQL Server. That's a given, but what if you want to move the SQL Server databases to another server? [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") is easy enough to move between servers, but SharePoint is NOT. The only answer I can find is to do a full backup and restore from SharePoint, which takes time and effort.

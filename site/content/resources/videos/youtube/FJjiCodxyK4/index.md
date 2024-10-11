@@ -4,7 +4,7 @@ date: 2023-03-14T07:00:05Z
 videoId: FJjiCodxyK4
 url: /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
 canonicalUrl: https://www.youtube.com/watch?v=FJjiCodxyK4
-coverImage: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/FJjiCodxyK4/maxresdefault.jpg
 duration: 213
 isShort: False
 ---

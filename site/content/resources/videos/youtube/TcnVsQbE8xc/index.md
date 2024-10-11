@@ -4,7 +4,7 @@ date: 2023-07-12T14:00:30Z
 videoId: TcnVsQbE8xc
 url: /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
 canonicalUrl: https://www.youtube.com/watch?v=TcnVsQbE8xc
-coverImage: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

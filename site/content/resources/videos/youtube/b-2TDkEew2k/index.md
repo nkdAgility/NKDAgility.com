@@ -4,7 +4,7 @@ date: 2023-12-05T11:00:27Z
 videoId: b-2TDkEew2k
 url: /resources/videos/-shorts-7-virtues-of-agile-temperance
 canonicalUrl: https://www.youtube.com/watch?v=b-2TDkEew2k
-coverImage: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
 isShort: True
 ---

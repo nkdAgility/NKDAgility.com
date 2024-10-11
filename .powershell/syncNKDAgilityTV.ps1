@@ -177,7 +177,7 @@ date: $publishedAt
 videoId: $videoId
 url: /resources/videos/$urlSafeTitle
 canonicalUrl: $externalUrl
-coverImage: $thumbnailUrl
+preview: $thumbnailUrl
 duration: $durationInSeconds
 isShort: $isShort
 ---

@@ -4,7 +4,7 @@ date: 2023-10-05T07:00:04Z
 videoId: AJ8-c0l7oRQ
 url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 canonicalUrl: https://www.youtube.com/watch?v=AJ8-c0l7oRQ
-coverImage: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/AJ8-c0l7oRQ/maxresdefault.jpg
 duration: 43
 isShort: True
 ---

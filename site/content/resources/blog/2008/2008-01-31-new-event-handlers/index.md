@@ -1,23 +1,22 @@
 ---
+title: New Event Handlers
+date: 2008-01-31
+creator: Martin Hinshelwood
 id: "258"
-title: "New Event Handlers"
-date: "2008-01-31"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "infrastructure"
-  - "tfs-event-handler"
-  - "tools"
-  - "wit"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "new-event-handlers"
-
+slug: new-event-handlers
 aliases:
   - /blog/new-event-handlers
+tags:
+  - code
+  - infrastructure
+  - tfs-event-handler
+  - tools
+  - wit
+categories:
+  - code-and-complexity
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have added an extra event handler to the [TFS Event Handler (Prototype)](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSEventHandler&ReleaseId=5057), and this makes two.

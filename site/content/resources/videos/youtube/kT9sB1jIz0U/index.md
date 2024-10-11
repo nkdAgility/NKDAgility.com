@@ -4,7 +4,7 @@ date: 2023-05-03T09:30:09Z
 videoId: kT9sB1jIz0U
 url: /resources/videos/why-i-love-hierarchies-of-competence
 canonicalUrl: https://www.youtube.com/watch?v=kT9sB1jIz0U
-coverImage: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/kT9sB1jIz0U/maxresdefault.jpg
 duration: 62
 isShort: False
 ---

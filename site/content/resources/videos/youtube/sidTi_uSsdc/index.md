@@ -4,7 +4,7 @@ date: 2023-05-15T07:00:21Z
 videoId: sidTi_uSsdc
 url: /resources/videos/discipline-versus-motivation
 canonicalUrl: https://www.youtube.com/watch?v=sidTi_uSsdc
-coverImage: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/sidTi_uSsdc/maxresdefault.jpg
 duration: 28
 isShort: True
 ---

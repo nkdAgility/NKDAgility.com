@@ -1,21 +1,20 @@
 ---
+title: Changing the Team Project Collection of the Team Build Controller
+date: 2010-07-05
+creator: Martin Hinshelwood
 id: "35"
-title: "Changing the Team Project Collection of the Team Build Controller"
-date: "2010-07-05"
-tags:
-  - "ssw"
-  - "tfs-build"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-SSWLogo-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "changing-the-team-project-collection-of-the-team-build-controller"
-
+slug: changing-the-team-project-collection-of-the-team-build-controller
 aliases:
   - /blog/changing-the-team-project-collection-of-the-team-build-controller
+tags:
+  - ssw
+  - tfs-build
+  - tfs
+  - tfs2010
+  - tools
+preview: metro-SSWLogo-128-link-6-6.png
 ---
 
 ![BuildIcon_Large](images/ab2235c2ab06_E4A0-BuildIcon_Large_-1-1.png)

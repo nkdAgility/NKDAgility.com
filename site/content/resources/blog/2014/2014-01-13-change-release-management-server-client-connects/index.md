@@ -1,25 +1,24 @@
 ---
+title: Change the Release Management Server that your Client connects to
+date: 2014-01-13
+creator: Martin Hinshelwood
 id: "10329"
-title: "Change the Release Management Server that your Client connects to"
-date: "2014-01-13"
-categories:
-  - "install-and-configuration"
-  - "upgrade-and-maintenance"
-tags:
-  - "inrelease"
-  - "release"
-  - "release-management"
-  - "release-management-client"
-  - "tfs"
-  - "tfs-2013"
-  - "visual-studio-2013"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "change-release-management-server-client-connects"
-
+slug: change-release-management-server-client-connects
 aliases:
   - /blog/change-release-management-server-client-connects
+tags:
+  - inrelease
+  - release
+  - release-management
+  - release-management-client
+  - tfs
+  - tfs-2013
+  - visual-studio-2013
+categories:
+  - install-and-configuration
+  - upgrade-and-maintenance
 ---
 
 As a consultant I am onsite at a different customer every week and as I use my own laptop for most engagements I need to be able to change the Release Management Server that I connect to from the thick client.

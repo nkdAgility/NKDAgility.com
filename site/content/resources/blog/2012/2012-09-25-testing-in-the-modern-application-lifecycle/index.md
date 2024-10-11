@@ -1,32 +1,31 @@
 ---
+title: Testing in the modern application lifecycle
+date: 2012-09-25
+creator: Martin Hinshelwood
 id: "8829"
-title: "Testing in the modern application lifecycle"
-date: "2012-09-25"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "develop"
-  - "infrastructure"
-  - "manual-test"
-  - "modern-alm"
-  - "modern-application-lifecycle"
-  - "practices"
-  - "process"
-  - "s30d"
-  - "tfs"
-  - "tfs2012"
-  - "the-new-normal"
-  - "tools"
-  - "vs2012"
-coverImage: "metro-test-icon-7-7.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "testing-in-the-modern-application-lifecycle"
-
+slug: testing-in-the-modern-application-lifecycle
 aliases:
   - /blog/testing-in-the-modern-application-lifecycle
+tags:
+  - agile
+  - develop
+  - infrastructure
+  - manual-test
+  - modern-alm
+  - modern-application-lifecycle
+  - practices
+  - process
+  - s30d
+  - tfs
+  - tfs2012
+  - the-new-normal
+  - tools
+  - vs2012
+categories:
+  - tools-and-techniques
+preview: metro-test-icon-7-7.png
 ---
 
 Manual Testing in this new age of the modern application lifecycle has taken on new complexities that make it even more difficult to track and identify which tests are passing, which are failing and to which environment that data should be associated.

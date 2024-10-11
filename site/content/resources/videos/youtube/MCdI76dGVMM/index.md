@@ -4,7 +4,7 @@ date: 2023-08-02T07:00:12Z
 videoId: MCdI76dGVMM
 url: /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
 canonicalUrl: https://www.youtube.com/watch?v=MCdI76dGVMM
-coverImage: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/MCdI76dGVMM/maxresdefault.jpg
 duration: 32
 isShort: True
 ---

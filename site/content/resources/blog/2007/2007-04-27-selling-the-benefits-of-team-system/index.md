@@ -1,16 +1,15 @@
 ---
+title: Selling the benefits of Team System
+date: 2007-04-27
+creator: Martin Hinshelwood
 id: "410"
-title: "Selling the benefits of Team System"
-date: "2007-04-27"
-tags:
-  - "tfs"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "selling-the-benefits-of-team-system"
-
+slug: selling-the-benefits-of-team-system
 aliases:
   - /blog/selling-the-benefits-of-team-system
+tags:
+  - tfs
 ---
 
 I have found that there is very little content available on the art of selling Team System for developers that want to use it. Developers need to sell it not only to their manager, but to a hole host of people, and it is no small expense to implement it.

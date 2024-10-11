@@ -1,22 +1,21 @@
 ---
+title: Advanced Email Content addendum
+date: 2007-03-24
+creator: Martin Hinshelwood
 id: "432"
-title: "Advanced Email Content addendum"
-date: "2007-03-24"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "ml"
-  - "tools"
-  - "wpf"
-coverImage: "metro-merilllynch-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "advanced-email-content-addendum"
-
+slug: advanced-email-content-addendum
 aliases:
   - /blog/advanced-email-content-addendum
+tags:
+  - fail
+  - ml
+  - tools
+  - wpf
+categories:
+  - me
+preview: metro-merilllynch-128-link-1-1.png
 ---
 
 [RE: What I Hate About XBAPs](http://nerddawg.blogspot.com/2006/11/re-what-i-hat...)

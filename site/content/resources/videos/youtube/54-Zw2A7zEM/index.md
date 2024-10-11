@@ -4,7 +4,7 @@ date: 2023-06-27T11:00:03Z
 videoId: 54-Zw2A7zEM
 url: /resources/videos/scrum-master-versus-seasoned-agile-coach-
 canonicalUrl: https://www.youtube.com/watch?v=54-Zw2A7zEM
-coverImage: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/54-Zw2A7zEM/maxresdefault.jpg
 duration: 55
 isShort: True
 ---

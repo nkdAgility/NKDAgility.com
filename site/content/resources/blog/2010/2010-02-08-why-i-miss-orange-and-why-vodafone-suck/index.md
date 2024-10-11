@@ -1,20 +1,19 @@
 ---
+title: Why I miss Orange and why Vodafone suck!
+date: 2010-02-08
+creator: Martin Hinshelwood
 id: "71"
-title: "Why I miss Orange and why Vodafone suck!"
-date: "2010-02-08"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "mobile"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "why-i-miss-orange-and-why-vodafone-suck"
-
+slug: why-i-miss-orange-and-why-vodafone-suck
 aliases:
   - /blog/why-i-miss-orange-and-why-vodafone-suck
+tags:
+  - fail
+  - mobile
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 <rant>

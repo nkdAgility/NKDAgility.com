@@ -4,7 +4,7 @@ date: 2023-06-05T11:00:38Z
 videoId: o9Qc_NLmtok
 url: /resources/videos/8-week-immersive-learning-course-in-60-seconds
 canonicalUrl: https://www.youtube.com/watch?v=o9Qc_NLmtok
-coverImage: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

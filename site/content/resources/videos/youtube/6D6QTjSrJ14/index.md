@@ -4,7 +4,7 @@ date: 2023-08-28T07:00:05Z
 videoId: 6D6QTjSrJ14
 url: /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
 canonicalUrl: https://www.youtube.com/watch?v=6D6QTjSrJ14
-coverImage: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/6D6QTjSrJ14/maxresdefault.jpg
 duration: 222
 isShort: False
 ---

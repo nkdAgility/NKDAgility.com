@@ -1,17 +1,16 @@
 ---
+title: You May Be a Tech Whiz, but Are You Certifiable?
+date: 2009-05-21
+creator: Martin Hinshelwood
 id: "110"
-title: "You May Be a Tech Whiz, but Are You Certifiable?"
-date: "2009-05-21"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "you-may-be-a-tech-whiz-but-are-you-certifiable"
-
+slug: you-may-be-a-tech-whiz-but-are-you-certifiable
 aliases:
   - /blog/you-may-be-a-tech-whiz-but-are-you-certifiable
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 A little fun game from Microsoft to test your knowledge. Going to see if I get on the leader board, but I do not hold out much any hope…

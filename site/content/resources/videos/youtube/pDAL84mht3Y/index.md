@@ -4,7 +4,7 @@ date: 2023-11-08T11:00:53Z
 videoId: pDAL84mht3Y
 url: /resources/videos/7-signs-of-the-agile-apocalypse-plague
 canonicalUrl: https://www.youtube.com/watch?v=pDAL84mht3Y
-coverImage: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
 isShort: True
 ---

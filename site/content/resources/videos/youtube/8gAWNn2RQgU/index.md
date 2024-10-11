@@ -4,7 +4,7 @@ date: 2023-08-22T07:00:03Z
 videoId: 8gAWNn2RQgU
 url: /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 canonicalUrl: https://www.youtube.com/watch?v=8gAWNn2RQgU
-coverImage: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/8gAWNn2RQgU/maxresdefault.jpg
 duration: 45
 isShort: True
 ---

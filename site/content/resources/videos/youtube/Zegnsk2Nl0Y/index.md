@@ -4,7 +4,7 @@ date: 2023-09-28T07:00:22Z
 videoId: Zegnsk2Nl0Y
 url: /resources/videos/5-tools-that-scrum-masters-love-part-5
 canonicalUrl: https://www.youtube.com/watch?v=Zegnsk2Nl0Y
-coverImage: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Zegnsk2Nl0Y/maxresdefault.jpg
 duration: 44
 isShort: True
 ---

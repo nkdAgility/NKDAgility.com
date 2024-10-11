@@ -4,7 +4,7 @@ date: 2024-01-27T07:00:19Z
 videoId: m2Z4UV4OQlI
 url: /resources/videos/why-do-you-recommend-the-pal-ebm-course-
 canonicalUrl: https://www.youtube.com/watch?v=m2Z4UV4OQlI
-coverImage: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/m2Z4UV4OQlI/maxresdefault.jpg
 duration: 373
 isShort: False
 ---

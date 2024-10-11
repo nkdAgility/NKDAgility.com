@@ -4,7 +4,7 @@ date: 2023-12-12T11:00:04Z
 videoId: 2cSsuEzGkvU
 url: /resources/videos/-shorts-7-virtues-of-agile-humility
 canonicalUrl: https://www.youtube.com/watch?v=2cSsuEzGkvU
-coverImage: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
 isShort: True
 ---

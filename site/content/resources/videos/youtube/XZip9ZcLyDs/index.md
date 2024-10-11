@@ -4,7 +4,7 @@ date: 2023-03-30T07:00:10Z
 videoId: XZip9ZcLyDs
 url: /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
 canonicalUrl: https://www.youtube.com/watch?v=XZip9ZcLyDs
-coverImage: https://i.ytimg.com/vi/XZip9ZcLyDs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/XZip9ZcLyDs/maxresdefault.jpg
 duration: 193
 isShort: False
 ---

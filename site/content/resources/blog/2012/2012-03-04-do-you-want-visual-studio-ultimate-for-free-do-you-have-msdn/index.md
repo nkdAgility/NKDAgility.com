@@ -1,27 +1,26 @@
 ---
+title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
+date: 2012-03-04
+creator: Martin Hinshelwood
 id: "4828"
-title: "Do you have MSDN at work? Use Visual Studio Ultimate for free at home?"
-date: "2012-03-04"
-categories:
-  - "me"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "msdn"
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn"
-
+slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 aliases:
   - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
+tags:
+  - configuration
+  - develop
+  - msdn
+  - nwcadence
+  - tools
+  - visual-studio
+  - vs2010
+  - vs2012
+categories:
+  - me
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
 
 Are you a professional developer? Do you get an MSDN from your organisation? Did you know that you can use it at home on both commercial and open source projects of your own!

@@ -1,21 +1,20 @@
 ---
+title: There is no "do agile" there is only "be agile"
+date: 2013-09-01
+creator: Martin Hinshelwood
 id: "10058"
-title: 'There is no "do agile" there is only "be agile"'
-date: "2013-09-01"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "lean"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "there-is-no-do-agile-there-is-only-be-agile"
-
+slug: there-is-no-do-agile-there-is-only-be-agile
 aliases:
   - /blog/there-is-no-do-agile-there-is-only-be-agile
+tags:
+  - agile
+  - lean
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 I commented on [Scrum is hard to adopt and disruptive to your organisation](http://nkdagility.com/scrum-is-hard-to-adopt-and-disruptive-to-your-organisation/) before and I think that for most companies this is just beyond their comprehension. They are fundamentally misunderstanding agile and trying to do agile rather than be agile.

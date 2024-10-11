@@ -1,17 +1,16 @@
 ---
+title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
+date: 2007-06-20
+creator: Martin Hinshelwood
 id: "376"
-title: "Solution to sub sites in Sharepoint 3.0 with Team Foundation Server"
-date: "2007-06-20"
-tags:
-  - "sp2007"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server"
-
+slug: solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
 aliases:
   - /blog/solution-to-sub-sites-in-sharepoint-3-0-with-team-foundation-server
+tags:
+  - sp2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 This subject goes back over a number of posts:

@@ -1,25 +1,24 @@
 ---
+title: Team Foundation Server 2010 Event Handling with Subscribers
+date: 2010-09-16
+creator: Martin Hinshelwood
 id: "25"
-title: "Team Foundation Server 2010 Event Handling with Subscribers"
-date: "2010-09-16"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "modern-alm"
-  - "tfs"
-  - "tfs2010"
-  - "tfs-event-handler"
-  - "tools"
-coverImage: "metro-binary-vb-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-foundation-server-2010-event-handling-with-subscribers"
-
+slug: team-foundation-server-2010-event-handling-with-subscribers
 aliases:
   - /blog/team-foundation-server-2010-event-handling-with-subscribers
+tags:
+  - code
+  - codeproject
+  - modern-alm
+  - tfs
+  - tfs2010
+  - tfs-event-handler
+  - tools
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-4-4.png
 ---
 
 ![ConfigurationRequired](images/d85ca9bb3b8b_B971-ConfigurationRequired_-1-1.jpg)There is a lot of references and blog posts on how to handle SOAP events raised by Team Foundation Server 2005, 2008 and 2010 but is there anything new in 2010 that supersedes this? Even though I knew it was there, n o amount of google-fu brought back any results relevant to anything new, so hopefully this will fill that gap.

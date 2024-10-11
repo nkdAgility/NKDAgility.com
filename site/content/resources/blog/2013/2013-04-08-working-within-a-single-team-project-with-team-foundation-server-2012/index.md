@@ -1,36 +1,35 @@
 ---
+title: Working within a single Team Project with Team Foundation Server 2012
+date: 2013-04-08
+creator: Martin Hinshelwood
 id: "9431"
-title: "Working within a single Team Project with Team Foundation Server 2012"
-date: "2013-04-08"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "area-hierarchy"
-  - "configuration"
-  - "excel"
-  - "improve"
-  - "infrastructure"
-  - "iteration-hierarchy"
-  - "process"
-  - "product"
-  - "project"
-  - "project-administrator"
-  - "tactical"
-  - "team-project"
-  - "teams"
-  - "tfs"
-  - "tfs2012"
-  - "tfvc"
-  - "tools"
-  - "wiql"
-coverImage: "nakedalm-experts-visual-studio-alm-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "working-within-a-single-team-project-with-team-foundation-server-2012"
-
+slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
   - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
+tags:
+  - area-hierarchy
+  - configuration
+  - excel
+  - improve
+  - infrastructure
+  - iteration-hierarchy
+  - process
+  - product
+  - project
+  - project-administrator
+  - tactical
+  - team-project
+  - teams
+  - tfs
+  - tfs2012
+  - tfvc
+  - tools
+  - wiql
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-5-5.png
 ---
 
 Working within a single Team Project with Team Foundation Server 2012 provides a lot of benefits. There are however many design consideration for working within a single team project and we need to consider all of the complexities that is entails.

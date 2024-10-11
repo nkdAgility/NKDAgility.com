@@ -1,23 +1,22 @@
 ---
-id: "7240"
 title: "TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source"
-date: "2012-08-20"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tf14009"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-5-5.png"
-author: "MrHinsh"
+date: 2012-08-20
+creator: Martin Hinshelwood
+id: "7240"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source"
-
+slug: tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
 aliases:
   - /blog/tfs-integration-tools-issue-tf14009-cannot-merge-source-into-target-because-the-target-is-underneath-source
+tags:
+  - puzzles
+  - tf14009
+  - tfs
+  - tfs2012
+  - tfs-integration-platform
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-5-5.png
 ---
 
 If you are moving source from one team project to another (I am doing a migration of Source Code from “TeamProjectA” to “TeamProjectBTeamProjectA” in the same collection) you can get a TF14009 if there is a bad check-in in TFS from a previous version. In this case  a folder was branched from itself into a sub folder.

@@ -1,26 +1,25 @@
 ---
-id: "288"
 title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
-date: "2007-11-23"
-categories:
-  - "events-and-presentations"
-tags:
-  - "infrastructure"
-  - "moss2007"
-  - "sharepoint"
-  - "sp2007"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-2-2.png"
-author: "MrHinsh"
+date: 2007-11-23
+creator: Martin Hinshelwood
+id: "288"
 layout: blog
 resourceType: blog
-slug: "event-msdn-sharepoint-for-developers-edinburgh"
-
+slug: event-msdn-sharepoint-for-developers-edinburgh
 aliases:
   - /blog/event-msdn-sharepoint-for-developers-edinburgh
+tags:
+  - infrastructure
+  - moss2007
+  - sharepoint
+  - sp2007
+  - tools
+  - visual-studio
+  - vs2005
+  - vs2008
+categories:
+  - events-and-presentations
+preview: metro-visual-studio-2005-128-link-2-2.png
 ---
 
 Better late than never, but I [attended](http://blog.hinshelwood.com/archive/2007/11/20/VS2008-Update.aspx) a [MSDN event](https://msevents.microsoft.com/cui/EventDetail.aspx?culture=en-GB&eventid=1032355353) on Tuesday night in Edinburgh. Although I eagerly signed up for it, I did not expect to learn a lot:

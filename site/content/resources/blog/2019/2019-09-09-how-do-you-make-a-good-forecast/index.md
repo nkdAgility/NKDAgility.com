@@ -1,25 +1,24 @@
 ---
+title: How do you make a good Forecast?
+date: 2019-09-09
+creator: Martin Hinshelwood
 id: "39852"
-title: "How do you make a good Forecast?"
-date: "2019-09-09"
-categories:
-  - "agility"
-  - "measure-and-learn"
-tags:
-  - "budget"
-  - "forcast"
-  - "roadmap"
-  - "scrum"
-  - "scrum-team"
-  - "sprint-review"
-coverImage: "993957510-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-do-you-make-a-good-forecast"
-
+slug: how-do-you-make-a-good-forecast
 aliases:
   - /blog/how-do-you-make-a-good-forecast
+tags:
+  - budget
+  - forcast
+  - roadmap
+  - scrum
+  - scrum-team
+  - sprint-review
+categories:
+  - agility
+  - measure-and-learn
+preview: 993957510-1-1.jpg
 ---
 
 As part of the Scrum.org webinar “Ask a Professional Scrum Trainer - Martin Hinshelwood - Answering Your Most Pressing Scrum Questions” I was asked a number of questions. Since not only was I on the spot and live, I thought that I should answer each question that was asked again here, as well as those questions I did not get to.

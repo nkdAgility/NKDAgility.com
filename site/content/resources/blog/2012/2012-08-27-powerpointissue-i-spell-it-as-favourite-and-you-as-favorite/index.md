@@ -1,24 +1,23 @@
 ---
+title: I spell it as Favourite and you as Favorite
+date: 2012-08-27
+creator: Martin Hinshelwood
 id: "7735"
-title: "I spell it as Favourite and you as Favorite"
-date: "2012-08-27"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "language"
-  - "macro"
-  - "powerpoint"
-  - "visual-basic"
-coverImage: "metro-binary-vb-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "powerpointissue-i-spell-it-as-favourite-and-you-as-favorite"
-
+slug: powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 aliases:
   - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
+tags:
+  - code
+  - language
+  - macro
+  - powerpoint
+  - visual-basic
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-6-6.png
 ---
 
 On of the issues that we have had in the office recently is that the rest of the Office, through no fault of their own, speaks and uses American English. I however along with the majority of the English speaking world use British English.

@@ -4,7 +4,7 @@ date: 2023-09-07T07:00:08Z
 videoId: GS2If-vQ9ng
 url: /resources/videos/agile-training-versus-agile-consulting
 canonicalUrl: https://www.youtube.com/watch?v=GS2If-vQ9ng
-coverImage: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
 isShort: True
 ---

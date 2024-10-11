@@ -4,7 +4,7 @@ date: 2023-08-07T07:00:10Z
 videoId: Ye016yOxvcs
 url: /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
 canonicalUrl: https://www.youtube.com/watch?v=Ye016yOxvcs
-coverImage: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
 duration: 51
 isShort: True
 ---

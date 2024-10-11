@@ -4,7 +4,7 @@ date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
-coverImage: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
 isShort: False
 ---

@@ -4,7 +4,7 @@ date: 2024-07-31T11:58:11Z
 videoId: Wvdh1lJfcLM
 url: /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=Wvdh1lJfcLM
-coverImage: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Wvdh1lJfcLM/maxresdefault.jpg
 duration: 188
 isShort: False
 ---

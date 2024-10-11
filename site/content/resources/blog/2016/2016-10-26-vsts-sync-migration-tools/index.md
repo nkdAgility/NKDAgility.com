@@ -1,20 +1,19 @@
 ---
+title: VSTS Sync Migration Tools
+date: 2016-10-26
+creator: Martin Hinshelwood
 id: "11634"
-title: "VSTS Sync Migration Tools"
-date: "2016-10-26"
-categories:
-  - "devops"
-tags:
-  - "migration"
-  - "vsteamservices"
-coverImage: "image_thumb-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "vsts-sync-migration-tools"
-
+slug: vsts-sync-migration-tools
 aliases:
   - /blog/vsts-sync-migration-tools
+tags:
+  - migration
+  - vsteamservices
+categories:
+  - devops
+preview: image_thumb-1-1.png
 ---
 
 I have been working with a number of customers in the last year that want to move to VSTS. While many of them want to do the full Collection import, many do not.

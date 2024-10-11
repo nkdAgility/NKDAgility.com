@@ -1,25 +1,24 @@
 ---
+title: Quality enablement with Visual Studio 2012
+date: 2013-05-15
+creator: Martin Hinshelwood
 id: "9487"
-title: "Quality enablement with Visual Studio 2012"
-date: "2013-05-15"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "continious"
-  - "develop"
-  - "improve"
-  - "practices"
-  - "quality-enablement"
-  - "strategic"
-  - "tools"
-coverImage: "nakedalm-experts-visual-studio-alm-18-18.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "quality-enablement-with-visual-studio-2012"
-
+slug: quality-enablement-with-visual-studio-2012
 aliases:
   - /blog/quality-enablement-with-visual-studio-2012
+tags:
+  - continious
+  - develop
+  - improve
+  - practices
+  - quality-enablement
+  - strategic
+  - tools
+categories:
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-18-18.png
 ---
 
 In the modern application lifecycle one of the key messages is one of quality enablement. Quality will be the key differentiator between you and your competitors over the next few years and the old excuses are just that… old.

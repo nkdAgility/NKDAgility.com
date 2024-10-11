@@ -4,7 +4,7 @@ date: 2024-08-05T06:45:00Z
 videoId: PaUciBmqCsU
 url: /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
 canonicalUrl: https://www.youtube.com/watch?v=PaUciBmqCsU
-coverImage: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/PaUciBmqCsU/maxresdefault.jpg
 duration: 50
 isShort: True
 ---

@@ -4,7 +4,7 @@ date: 2023-05-02T07:00:00Z
 videoId: 0fz91w-_6vE
 url: /resources/videos/what-is-your-primary-role-in-a-devops-consulting-gig-
 canonicalUrl: https://www.youtube.com/watch?v=0fz91w-_6vE
-coverImage: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/0fz91w-_6vE/maxresdefault.jpg
 duration: 138
 isShort: False
 ---

@@ -1,21 +1,20 @@
 ---
+title: Becoming a better developer...
+date: 2007-08-07
+creator: Martin Hinshelwood
 id: "339"
-title: "Becoming a better developer..."
-date: "2007-08-07"
-categories:
-  - "me"
-tags:
-  - "dyslexia"
-  - "ml"
-  - "tools"
-coverImage: "metro-merilllynch-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "becoming-a-better-developer"
-
+slug: becoming-a-better-developer
 aliases:
   - /blog/becoming-a-better-developer
+tags:
+  - dyslexia
+  - ml
+  - tools
+categories:
+  - me
+preview: metro-merilllynch-128-link-1-1.png
 ---
 
 [Steve Clements](http://geekswithblogs.net/steveclements/archive/2007/07/26/114182.aspx "Becoming a better developer...") has tagged me (thanks Steve) about how to become a [better developer](http://graysmatter.codivation.com/HowIAmBecomingABetterDeveloperPart1OfInfinity.aspx), he thinks tagging me 'would make an interesting read'..Hmm, no pressure:

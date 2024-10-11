@@ -1,23 +1,22 @@
 ---
+title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
+date: 2013-07-11
+creator: Martin Hinshelwood
 id: "9749"
-title: "Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS"
-date: "2013-07-11"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "inrelease"
-  - "puzzles"
-  - "tf400324"
-  - "tfs"
-  - "tfs-2013"
-coverImage: "puzzle-issue-problem-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs"
-
+slug: issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
 aliases:
   - /blog/issue-tfs-2013-inrelease-you-get-tf400324-when-connecting-inrelease-to-tfs
+tags:
+  - inrelease
+  - puzzles
+  - tf400324
+  - tfs
+  - tfs-2013
+categories:
+  - problems-and-puzzles
+preview: puzzle-issue-problem-128-link-3-3.png
 ---
 
 If you follow the documentation for the new InRelease 3 for Team Foundation Server 2013 “TF400324: Team Foundation Services are not available from server” with a remote server error of 404.

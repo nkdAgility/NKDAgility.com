@@ -4,7 +4,7 @@ date: 2023-09-29T07:00:14Z
 videoId: LxM_F_JJLeg
 url: /resources/videos/don’t-put-down-to-malevolence-what-can-be-explained-by-incompetence
 canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
-coverImage: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: False
 ---

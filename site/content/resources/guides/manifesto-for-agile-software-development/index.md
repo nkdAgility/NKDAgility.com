@@ -10,13 +10,12 @@ references:
     url: https://agilemanifesto.org/
 recommendedContent:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Manifesto for Agile Software Development and how it can help you in your Agile journey!
   title: Manifesto for Agile Software Development
-aliases:
 ---
 
 We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:

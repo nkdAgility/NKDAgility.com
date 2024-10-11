@@ -1,27 +1,26 @@
 ---
+title: The TFS Automation Platform is dead, long live the TfPlugable
+date: 2013-01-31
+creator: Martin Hinshelwood
 id: "9229"
-title: "The TFS Automation Platform is dead, long live the TfPlugable"
-date: "2013-01-31"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "operate"
-  - "tfget"
-  - "tfplugable"
-  - "tfsap"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-tfs-automation-platform-is-dead-long-live-the-tfplugable"
-
+slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
   - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
+tags:
+  - configuration
+  - develop
+  - infrastructure
+  - operate
+  - tfget
+  - tfplugable
+  - tfsap
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 The TFS Automation Platform is dead, long live the TfPlugable! It has been a long time since I have talked about the [TFS Automation Platform](http://blog.hinshelwood.com/what-is-the-tfs-automation-platform/) that I had almost forgotten about it myself. It was almost two years ago that I spoke to [Willy](http://blogs.msdn.com/b/willy-peter_schaub/) about an ALM Rangers project to build a solution to dynamically deploy plug-ins for TFS, kind of like Nuget for TFS Extensions.
@@ -51,17 +50,21 @@ I want to be able to go to a webpage on my Team Foundation Server that allows me
 This sounds simple, but in-fact it can be fairly complex. We plan to create this delivery mechanism and create documentation on how to create packages to do all of these things… will we have everything from day-one? No way… we will be iteratively adding functionality  we get feedback on what we have delivered and changing our roadmap to incorporate that feedback.
 
 1.  **DONE - Create ability to publish and manage packages**
-        We decided to use myget as it provides a lot of services including permissions and a web UI that we do not need to build.
+    We decided to use myget as it provides a lot of services including permissions and a web UI that we do not need to build.
 
         [![image](images/image_thumb-1-1.png "image")](http://blog.hinshelwood.com/files/2013/01/image.png)
+
     { .post-img }
     **Figure: Using MyGet to provide hosted NuGet-as-a-service**
+
 2.  **DONE - Create ability to search for and install packages**
-        We have already added some features to the application and it will already allow installs of packages and pass the information required for deployment to the packages.
+    We have already added some features to the application and it will already allow installs of packages and pass the information required for deployment to the packages.
 
         [![image](images/image_thumb1-2-2.png "image")](http://blog.hinshelwood.com/files/2013/01/image1.png)
+
     { .post-img }
     **Figure: Search for Team Foundation Server extensions**
+
 3.  **Create ability to customise configuration**
 4.  **Create ability to create custom configurations**
 

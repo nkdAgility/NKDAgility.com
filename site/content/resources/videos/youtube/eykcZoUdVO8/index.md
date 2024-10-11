@@ -4,7 +4,7 @@ date: 2023-08-09T07:00:14Z
 videoId: eykcZoUdVO8
 url: /resources/videos/most-influential-person-in-agile-for-you-personally-
 canonicalUrl: https://www.youtube.com/watch?v=eykcZoUdVO8
-coverImage: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/eykcZoUdVO8/maxresdefault.jpg
 duration: 39
 isShort: True
 ---

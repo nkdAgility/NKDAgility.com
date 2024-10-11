@@ -4,7 +4,7 @@ date: 2023-12-19T11:00:00Z
 videoId: -T1e8hjLt24
 url: /resources/videos/-shorts-5-things-you-would-teach-a-produtowner-apprentice-part-5
 canonicalUrl: https://www.youtube.com/watch?v=-T1e8hjLt24
-coverImage: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/-T1e8hjLt24/maxresdefault.jpg
 duration: 58
 isShort: True
 ---

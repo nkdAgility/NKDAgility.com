@@ -1,25 +1,24 @@
 ---
-id: "88"
 title: "Wpf Ninject Dojo: The Data Provider"
-date: "2009-08-25"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "mvvm"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-  - "wpf"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
+date: 2009-08-25
+creator: Martin Hinshelwood
+id: "88"
 layout: blog
 resourceType: blog
-slug: "wpf-ninject-dojo-the-data-provider"
-
+slug: wpf-ninject-dojo-the-data-provider
 aliases:
   - /blog/wpf-ninject-dojo-the-data-provider
+tags:
+  - code
+  - codeproject
+  - mvvm
+  - tools
+  - visual-studio
+  - vs2010
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 You have probably heard me go on about Unity a couple of times:

@@ -4,7 +4,7 @@ date: 2014-01-16T20:22:36Z
 videoId: yrpAYB2yIZU
 url: /resources/videos/install-&-configure-301-move-your-active-directory-domain-to-another-server
 canonicalUrl: https://www.youtube.com/watch?v=yrpAYB2yIZU
-coverImage: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/yrpAYB2yIZU/maxresdefault.jpg
 duration: 922
 isShort: False
 ---

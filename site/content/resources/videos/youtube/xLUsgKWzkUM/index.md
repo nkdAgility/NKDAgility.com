@@ -4,7 +4,7 @@ date: 2023-11-27T11:00:56Z
 videoId: xLUsgKWzkUM
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-productowner-journey
 canonicalUrl: https://www.youtube.com/watch?v=xLUsgKWzkUM
-coverImage: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/xLUsgKWzkUM/maxresdefault.jpg
 duration: 36
 isShort: True
 ---

@@ -41,7 +41,7 @@ videos:
   - title: Overview of The Scrum Framework with Martin Hinshelwood
     embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

@@ -4,7 +4,7 @@ date: 2023-11-23T08:30:06Z
 videoId: Frqfd0EPj_4
 url: /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
 canonicalUrl: https://www.youtube.com/watch?v=Frqfd0EPj_4
-coverImage: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Frqfd0EPj_4/maxresdefault.jpg
 duration: 134
 isShort: False
 ---

@@ -1,22 +1,21 @@
 ---
+title: TFS Event Handler prototype Configuration Demystified
+date: 2007-06-18
+creator: Martin Hinshelwood
 id: "379"
-title: "TFS Event Handler prototype Configuration Demystified"
-date: "2007-06-18"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs-event-handler"
-  - "tools"
-  - "wit"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-prototype-configuration-demystified"
-
+slug: tfs-event-handler-prototype-configuration-demystified
 aliases:
   - /blog/tfs-event-handler-prototype-configuration-demystified
+tags:
+  - code
+  - tfs-event-handler
+  - tools
+  - wit
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 There are a number of config options for the [TFS Event Handler Prototype](http://www.codeplex.com/TFSEventHandler/Release/ProjectReleases.aspx?ReleaseId=5057). I will describe all of them in depth here. The first step is to set the [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service options, which really only requires you to change one value.
@@ -25,8 +24,6 @@ There are a number of config options for the [TFS Event Handler Prototype](http:
 <system.serviceModel>         <services>             <service name="RDdotNet.TeamFoundation.NotificationService">                 <endpoint address="http://[LocalMacheneName]:8677" binding="basicHttpBinding"
                     bindingConfiguration="" contract="RDdotNet.TeamFoundation.INotificationService" />             </service>         </services>     </system.serviceModel>
 ```
-
-
 
 The important one is the \[LocalMacheneName\] variable, which should be set to the local machine name, or the domain name that points to your computer if you have a crazy proxy.
 
@@ -51,15 +48,11 @@ Again you need to set the machine name, but make sure that the port is different
                         eventLogPath="C:tempTFSEventHandler">             </TeamServer>         </TeamServers>
 ```
 
-
-
 In the Team Servers section you need to list all of the team servers that you are going to be handling events for. The system will automatically add the event subscriptions for all team servers added here, but I have only tested with two and I now always run the service on the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") server.
 
 TeamServer Options
 
 <table border="1" cellspacing="0" cellpadding="2" width="577"><tbody><tr><td width="138" valign="top"><strong>Name</strong></td><td width="144" valign="top"><strong>Type</strong></td><td width="293" valign="top"><strong>Description</strong></td></tr><tr><td width="141" valign="top">name</td><td width="145" valign="top">System.String</td><td width="291" valign="top">This should be a friendly name for the team foundation server</td></tr><tr><td width="142" valign="top">url</td><td width="145" valign="top">System.Uri</td><td width="290" valign="top">The URI for the TFS server you wish to connect to including protocol and port.</td></tr><tr><td width="144" valign="top">mailFromAddress</td><td width="145" valign="top">System.String</td><td width="289" valign="top">The address from which you want all emails sent by the system to say that they are sent.</td></tr><tr><td width="145" valign="top">mailFromName</td><td width="145" valign="top">System.String</td><td width="288" valign="top">The display name of the from&nbsp;email address</td></tr><tr><td width="146" valign="top">mailServer</td><td width="145" valign="top">System.String</td><td width="287" valign="top">The mail server that you have permission for to send emails</td></tr><tr><td width="147" valign="top">logEvents</td><td width="145" valign="top">System.Boolean</td><td width="287" valign="top">A true or false value that enables logging of all events within that system. Excellent for debugging...</td></tr><tr><td width="147" valign="top">testMode</td><td width="145" valign="top">System.Boolean</td><td width="287" valign="top">When in test mode all emails sent by the system will only be sent to email address defined by testEmail. Set to false for production.</td></tr><tr><td width="147" valign="top">testEmail</td><td width="145" valign="top">System.String</td><td width="287" valign="top">The email address that, when testMode is enabled will receive all emails sent from the system.</td></tr><tr><td width="147" valign="top">eventLogPath</td><td width="145" valign="top">System.String</td><td width="287" valign="top">the location that the event logs will be written to. All events received get assigned a System.Guid and all logs pertaining to that event get saved in the corresponding folder.</td></tr><tr><td width="147" valign="top">subscriber</td><td width="145" valign="top">System.String</td><td width="287" valign="top">The AD account name of the account that is writing the events. Set to the name of your TFSSetup or TFSService accounts.</td></tr></tbody></table>
-
-
 
 Now you are ready to set the event handlers. These are defined within the "Events" section:
 

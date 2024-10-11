@@ -1,22 +1,21 @@
 ---
+title: TFS Event Handler Progress
+date: 2007-05-07
+creator: Martin Hinshelwood
 id: "402"
-title: "TFS Event Handler Progress"
-date: "2007-05-07"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "tfs-event-handler"
-  - "wcf"
-  - "wit"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-event-handler-progress"
-
+slug: tfs-event-handler-progress
 aliases:
   - /blog/tfs-event-handler-progress
+tags:
+  - code
+  - tfs-event-handler
+  - wcf
+  - wit
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I am making lots of progress with this project and I have only a couple of work items left for CTP1:

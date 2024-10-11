@@ -1,23 +1,22 @@
 ---
-id: "10151"
 title: "PowerShell TFS 2013 API #2 - Adding to a GlobalList"
-date: "2013-10-16"
-categories:
-  - "code-and-complexity"
-tags:
-  - "globallist"
-  - "powershell"
-  - "tfs"
-  - "tfs-2013"
-  - "workitemstore"
-coverImage: "metro-powershell-logo-1-1.png"
-author: "MrHinsh"
+date: 2013-10-16
+creator: Martin Hinshelwood
+id: "10151"
 layout: blog
 resourceType: blog
-slug: "powershell-tfs-2013-api-2-adding-to-a-globallist"
-
+slug: powershell-tfs-2013-api-2-adding-to-a-globallist
 aliases:
   - /blog/powershell-tfs-2013-api-2-adding-to-a-globallist
+tags:
+  - globallist
+  - powershell
+  - tfs
+  - tfs-2013
+  - workitemstore
+categories:
+  - code-and-complexity
+preview: metro-powershell-logo-1-1.png
 ---
 
 Using the TFS 2013 API along with a little PowerShell we can add a ‘team field’ to our global list.

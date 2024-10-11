@@ -1,17 +1,16 @@
 ---
+title: Team Suite on the cheap
+date: 2008-11-18
+creator: Martin Hinshelwood
 id: "168"
-title: "Team Suite on the cheap"
-date: "2008-11-18"
-tags:
-  - "tfs"
-  - "tools"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "team-suite-on-the-cheap"
-
+slug: team-suite-on-the-cheap
 aliases:
   - /blog/team-suite-on-the-cheap
+tags:
+  - tfs
+  - tools
 ---
 
 ![](images/vs_mainlogo-3-3.png)

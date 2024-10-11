@@ -1,28 +1,27 @@
 ---
+title: Visual Studio 2012 RTM available & installed
+date: 2012-08-15
+creator: Martin Hinshelwood
 id: "7149"
-title: "Visual Studio 2012 RTM available & installed"
-date: "2012-08-15"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "develop"
-  - "nwcadence"
-  - "tfs"
-  - "tfs2012"
-  - "tools"
-  - "upgrade"
-  - "visual-studio"
-  - "vs2012"
-coverImage: "nakedalm-experts-visual-studio-alm-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "visual-studio-2012-rtm-available-installed"
-
+slug: visual-studio-2012-rtm-available-installed
 aliases:
   - /blog/visual-studio-2012-rtm-available-installed
+tags:
+  - configuration
+  - develop
+  - nwcadence
+  - tfs
+  - tfs2012
+  - tools
+  - upgrade
+  - visual-studio
+  - vs2012
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+preview: nakedalm-experts-visual-studio-alm-3-3.png
 ---
 
 With the availability of [Visual Studio 2012 RTM today on MSDN](http://msdn.microsoft.com/en-US/vstudio/) I wanted to let you know that Northwest Cadence just completed its first Production RTM installation for a customer.
@@ -44,10 +43,9 @@ In addition while it will work out-of-the-box you may want to think about [how y
 
 Even the Beta release came with a go-live licence and while this provided full support from Microsoft we only had one customer take up the Beta mantel and they moved to the Team Foundation Service Preview and not an on-premises install.
 
-- [Upgrading from TFS2010 to Visual Studio 2012 Team Foundation Server in production](http://blog.hinshelwood.com/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production/) (Northwest Cadence)  
+- [Upgrading from TFS2010 to Visual Studio 2012 Team Foundation Server in production](http://blog.hinshelwood.com/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production/) (Northwest Cadence)
 
-- [Upgrade to Visual Studio 11 Team Foundation Service – Done](http://blog.hinshelwood.com/upgrade-to-visual-studio-11-team-foundation-service-done/) (Customer)  
-
+- [Upgrade to Visual Studio 11 Team Foundation Service – Done](http://blog.hinshelwood.com/upgrade-to-visual-studio-11-team-foundation-service-done/) (Customer)
 
 Moving to the Beta was a leap of faith, but it paid off for anyone that tried it…
 
@@ -58,16 +56,15 @@ Moving to the Beta was a leap of faith, but it paid off for anyone that tried it
 
 The RC was provided with a go-live licence as well and many of our customers took advantage of it. Here are the documented scenarios within which I participated although it does not represent all of the installs that Northwest Cadence completed.
 
-- [Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) (Customer)  
+- [Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation](http://blog.hinshelwood.com/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation/) (Customer)
 
-- [Installing TFS 2012 with Lab Management 2012](http://blog.hinshelwood.com/installing-tfs-2012-with-lab-management-2012/) (Customer)  
+- [Installing TFS 2012 with Lab Management 2012](http://blog.hinshelwood.com/installing-tfs-2012-with-lab-management-2012/) (Customer)
 
-- [Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done](http://blog.hinshelwood.com/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done/) (Customer)  
+- [Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done](http://blog.hinshelwood.com/presenting-visual-studio-alm-upgrading-tfs-2010-to-tfs-2012-in-production-done/) (Customer)
 
-- [Installing TFS 2012 on Server 2012 with SQL 2012](http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/) (just for me)  
+- [Installing TFS 2012 on Server 2012 with SQL 2012](http://blog.hinshelwood.com/installing-tfs-2012-on-server-2012-with-sql-2012/) (just for me)
 
-- [Installing Eclipse on Windows 8 and connecting to TFS 2012](http://blog.hinshelwood.com/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012/) (just for me)  
-
+- [Installing Eclipse on Windows 8 and connecting to TFS 2012](http://blog.hinshelwood.com/installing-eclipse-on-windows-8-and-connecting-to-tfs-2012/) (just for me)
 
 Moving from the RC to the RTM will be as easy as running the new install and having the upgrade take place automatically. Simples…
 
@@ -78,11 +75,11 @@ Moving from the RC to the RTM will be as easy as running the new install and hav
 
 While I had very few issues while installing, configuring and upgrading to Visual Studio 2012 Team Foundation Server you can never get away without having at least some issues. Here are the main things that I documented:
 
-- [Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012](http://blog.hinshelwood.com/office-2013-issue-installing-office-2013-breaks-visual-studio-2012/)  
+- [Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012](http://blog.hinshelwood.com/office-2013-issue-installing-office-2013-breaks-visual-studio-2012/)
 
-- [TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item](http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/)  
+- [TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item](http://blog.hinshelwood.com/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item/)
 
-- [VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly](http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/)  
+- [VSS Converter – Issue: TF54000: Cannot update the data because the server clock may have been set incorrectly](http://blog.hinshelwood.com/vss-converter-issue-tf54000-cannot-update-the-data-because-the-server-clock-may-have-been-set-incorrectly/)
 
 - [VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper](http://blog.hinshelwood.com/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper/)
 

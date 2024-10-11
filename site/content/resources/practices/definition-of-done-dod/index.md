@@ -2,7 +2,7 @@
 title: Definition of Done (DoD)
 description: Getting Started with the Definition of Done (DoD). Every team should define what is required, what criteria must be met, for a product increment to be considered releasable.
 subtitle: Getting Started with the Definition of Done (DoD)
-author: mrhinsh
+creator: Martin Hinshelwood
 resourceType: practice
 layout: resources/single
 aliases:
@@ -24,7 +24,7 @@ videos:
  - title: Agile Evolution - An Enterprise transformation that shows that you can too - Martin Hinshelwood
    embed: https://www.youtube.com/embed/QA2QdBG5uLE
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

@@ -4,7 +4,7 @@ date: 2023-06-14T07:00:18Z
 videoId: UeGdC6GRyq4
 url: /resources/videos/under-employed-pay-30-up-front-and-the-balance-when-you-are-employed-
 canonicalUrl: https://www.youtube.com/watch?v=UeGdC6GRyq4
-coverImage: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/UeGdC6GRyq4/maxresdefault.jpg
 duration: 257
 isShort: False
 ---

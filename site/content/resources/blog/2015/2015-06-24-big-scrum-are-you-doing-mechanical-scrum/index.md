@@ -1,23 +1,22 @@
 ---
-id: "11355"
 title: "Big Scrum: Are you doing mechanical Scrum"
-date: "2015-06-24"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "big-scrum"
-  - "scaled-agile"
-  - "scrum"
-  - "scrum-at-scale"
-coverImage: "clip_image001-1-1.png"
-author: "MrHinsh"
+date: 2015-06-24
+creator: Martin Hinshelwood
+id: "11355"
 layout: blog
 resourceType: blog
-slug: "big-scrum-are-you-doing-mechanical-scrum"
-
+slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
   - /blog/big-scrum-are-you-doing-mechanical-scrum
+tags:
+  - agile
+  - big-scrum
+  - scaled-agile
+  - scrum
+  - scrum-at-scale
+categories:
+  - people-and-process
+preview: clip_image001-1-1.png
 ---
 
 Last month I created an article for NDC Magazine on Scaling Scrum. The guys at NDC must have liked it as they decided to put it on the cover. This article is a discussion and investigation into what it means to be a Professional Scrum Team, why we need it, and how we can scale it.

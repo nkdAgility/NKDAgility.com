@@ -4,7 +4,7 @@ date: 2023-05-09T07:00:19Z
 videoId: yEu8Fw4JQWM
 url: /resources/videos/in-wip,-less-is-more,-why-
 canonicalUrl: https://www.youtube.com/watch?v=yEu8Fw4JQWM
-coverImage: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
 isShort: False
 ---

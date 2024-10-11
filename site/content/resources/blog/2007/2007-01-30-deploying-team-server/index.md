@@ -1,18 +1,17 @@
 ---
+title: Deploying Team Server
+date: 2007-01-30
+creator: Martin Hinshelwood
 id: "440"
-title: "Deploying Team Server"
-date: "2007-01-30"
-tags:
-  - "service-oriented-architecture"
-  - "tfs-build"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "deploying-team-server"
-
+slug: deploying-team-server
 aliases:
   - /blog/deploying-team-server
+tags:
+  - service-oriented-architecture
+  - tfs-build
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Sorry that I have not posted on this subject in a while, but I am lazy. After that last elongated post I am in the mood to write again...

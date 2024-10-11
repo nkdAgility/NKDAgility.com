@@ -1,20 +1,19 @@
 ---
+title: Live Framework
+date: 2008-12-04
+creator: Martin Hinshelwood
 id: "156"
-title: "Live Framework"
-date: "2008-12-04"
-tags:
-  - "azure"
-  - "tools"
-  - "wit"
-  - "wpf"
-coverImage: "metro-cloud-azure-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "live-framework"
-
+slug: live-framework
 aliases:
   - /blog/live-framework
+tags:
+  - azure
+  - tools
+  - wit
+  - wpf
+preview: metro-cloud-azure-link-2-2.png
 ---
 
 I have been getting very interested in the new [Azure Services Platform](http://www.microsoft.com/azure/register.mspx) and how I can use it to facilitate WPF development.

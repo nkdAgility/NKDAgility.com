@@ -4,7 +4,7 @@ date: 2023-05-31T07:00:05Z
 videoId: 6cczVAbOMao
 url: /resources/videos/how-critical-is-a-product-owner-in-developing-a-great-product-backlog-
 canonicalUrl: https://www.youtube.com/watch?v=6cczVAbOMao
-coverImage: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/6cczVAbOMao/maxresdefault.jpg
 duration: 192
 isShort: False
 ---

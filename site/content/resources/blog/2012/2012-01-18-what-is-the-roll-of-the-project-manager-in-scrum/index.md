@@ -1,22 +1,21 @@
 ---
+title: What is the roll of the Project Manager in Scrum?
+date: 2012-01-18
+creator: Martin Hinshelwood
 id: "4116"
-title: "What is the roll of the Project Manager in Scrum?"
-date: "2012-01-18"
-categories:
-  - "people-and-process"
-tags:
-  - "develop"
-  - "people"
-  - "process"
-  - "scrum"
-coverImage: "nakedalm-experts-professional-scrum-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "what-is-the-roll-of-the-project-manager-in-scrum"
-
+slug: what-is-the-roll-of-the-project-manager-in-scrum
 aliases:
   - /blog/what-is-the-roll-of-the-project-manager-in-scrum
+tags:
+  - develop
+  - people
+  - process
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-experts-professional-scrum-1-1.png
 ---
 
 I get a lot of questions about the role of the Project Manger in the world of Scrum and there is usually a lot of hemming and hawing from consultants and Scrum coaches that want to take the touchy-feely approach.

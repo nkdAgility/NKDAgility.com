@@ -1,22 +1,21 @@
 ---
+title: Upgrade your server to Windows Server 2012 R2 Update 1
+date: 2014-04-03
+creator: Martin Hinshelwood
 id: "10472"
-title: "Upgrade your server to Windows Server 2012 R2 Update 1"
-date: "2014-04-03"
-categories:
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "windows"
-  - "windows-8-1"
-  - "windows-server"
-coverImage: "nakedalm-windows-logo-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrade-server-windows-server-2012-r2-update-1"
-
+slug: upgrade-server-windows-server-2012-r2-update-1
 aliases:
   - /blog/upgrade-server-windows-server-2012-r2-update-1
+tags:
+  - windows
+  - windows-8-1
+  - windows-server
+categories:
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: nakedalm-windows-logo-6-6.png
 ---
 
 With the release of Windows Server 2012 R2 Update 2 I wanted to make sure that all of my demo machines are up to date. I have a Domain Controller and a TFS server that are separate boxes but which are both running Windows Server 2012 R2.

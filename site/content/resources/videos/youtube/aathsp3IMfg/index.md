@@ -4,7 +4,7 @@ date: 2023-04-11T07:00:00Z
 videoId: aathsp3IMfg
 url: /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
 canonicalUrl: https://www.youtube.com/watch?v=aathsp3IMfg
-coverImage: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/aathsp3IMfg/maxresdefault.jpg
 duration: 194
 isShort: False
 ---

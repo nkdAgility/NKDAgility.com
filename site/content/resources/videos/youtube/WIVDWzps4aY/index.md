@@ -4,7 +4,7 @@ date: 2023-09-05T07:00:12Z
 videoId: WIVDWzps4aY
 url: /resources/videos/favourite-scrum-course-to-teach-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=WIVDWzps4aY
-coverImage: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/WIVDWzps4aY/maxresdefault.jpg
 duration: 24
 isShort: True
 ---

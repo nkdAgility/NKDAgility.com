@@ -1,17 +1,16 @@
 ---
+title: RDdotNET Project Created
+date: 2006-11-22
+creator: Martin Hinshelwood
 id: "460"
-title: "RDdotNET Project Created"
-date: "2006-11-22"
-tags:
-  - "service-oriented-architecture"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "rddotnet-project-created"
-
+slug: rddotnet-project-created
 aliases:
   - /blog/rddotnet-project-created
+tags:
+  - service-oriented-architecture
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have now created a new project within [CodePlex](http://www.codeplex.com "CodePlex") that encompases all of the features of WhiteLabel, but with a whole host of extras. The WhiteLabel project is now complete and a release will be uploaded as soon as [CodePlex](http://www.codeplex.com "CodePlex") starts working again.

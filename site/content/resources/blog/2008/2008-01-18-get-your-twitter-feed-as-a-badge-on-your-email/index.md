@@ -1,17 +1,16 @@
 ---
+title: Get your Twitter feed as a badge on your email!
+date: 2008-01-18
+creator: Martin Hinshelwood
 id: "263"
-title: "Get your Twitter feed as a badge on your email!"
-date: "2008-01-18"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "get-your-twitter-feed-as-a-badge-on-your-email"
-
+slug: get-your-twitter-feed-as-a-badge-on-your-email
 aliases:
   - /blog/get-your-twitter-feed-as-a-badge-on-your-email
+categories:
+  - me
+preview: nakedalm-logo-128-link-2-2.png
 ---
 
 Or anywhere you can put some HTML. This is really easy and allows you to have something like:

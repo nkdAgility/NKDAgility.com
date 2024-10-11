@@ -1,28 +1,27 @@
 ---
+title: Requirement management in the modern application lifecycle with TFS
+date: 2012-09-09
+creator: Martin Hinshelwood
 id: "8700"
-title: "Requirement management in the modern application lifecycle with TFS"
-date: "2012-09-09"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "define"
-  - "infrastructure"
-  - "modern-application-lifecycle"
-  - "practices"
-  - "process"
-  - "tfs"
-  - "tfs2012"
-  - "the-new-normal"
-  - "tools"
-  - "wit"
-coverImage: "metro-requirements-icon-14-14.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "requirement-management-in-the-modern-application-lifecycle"
-
+slug: requirement-management-in-the-modern-application-lifecycle
 aliases:
   - /blog/requirement-management-in-the-modern-application-lifecycle
+tags:
+  - define
+  - infrastructure
+  - modern-application-lifecycle
+  - practices
+  - process
+  - tfs
+  - tfs2012
+  - the-new-normal
+  - tools
+  - wit
+categories:
+  - tools-and-techniques
+preview: metro-requirements-icon-14-14.png
 ---
 
 Managing requirements is hard and no single tool can tell you how to achieve that within your organisation. To that end, Visual Studio 2012 TFS stays out of the “where do your requirements come from” world and firmly in the “i have my requirements.. .what now?” world and indeed the tools built on top of the requirement management system stay in one niche.

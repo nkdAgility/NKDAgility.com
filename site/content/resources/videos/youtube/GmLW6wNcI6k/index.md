@@ -4,7 +4,7 @@ date: 2023-06-19T10:00:25Z
 videoId: GmLW6wNcI6k
 url: /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
 canonicalUrl: https://www.youtube.com/watch?v=GmLW6wNcI6k
-coverImage: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/GmLW6wNcI6k/maxresdefault.jpg
 duration: 275
 isShort: False
 ---

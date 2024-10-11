@@ -1,25 +1,24 @@
 ---
+title: My first Scrum team in the wild
+date: 2011-04-03
+creator: Martin Hinshelwood
 id: "9892"
-title: "My first Scrum team in the wild"
-date: "2011-04-03"
-categories:
-  - "people-and-process"
-tags:
-  - "agile"
-  - "develop"
-  - "nwcadence"
-  - "people"
-  - "practices"
-  - "process"
-  - "scrum"
-coverImage: "nakedalm-logo-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "my-first-scrum-team-in-the-wild"
-
+slug: my-first-scrum-team-in-the-wild
 aliases:
   - /blog/my-first-scrum-team-in-the-wild
+tags:
+  - agile
+  - develop
+  - nwcadence
+  - people
+  - practices
+  - process
+  - scrum
+categories:
+  - people-and-process
+preview: nakedalm-logo-128-link-6-6.png
 ---
 
 [![image](images/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer3cf46226a54f_DA4Fimage_2.png)Over the last year I have invested a lot in Scrum. A few months ago I was assigned to teach a two day Scrum course for which I had to build and deliver the material. The team that received the _beta_ of the course has now just finished their first sprint!

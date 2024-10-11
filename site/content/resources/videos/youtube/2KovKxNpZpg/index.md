@@ -4,7 +4,7 @@ date: 2023-04-28T09:30:00Z
 videoId: 2KovKxNpZpg
 url: /resources/videos/pet-peeve-in-scrum
 canonicalUrl: https://www.youtube.com/watch?v=2KovKxNpZpg
-coverImage: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2KovKxNpZpg/maxresdefault.jpg
 duration: 32
 isShort: True
 ---

@@ -1,24 +1,23 @@
 ---
+title: Using Visual Studio 2008
+date: 2007-08-20
+creator: Martin Hinshelwood
 id: "328"
-title: "Using Visual Studio 2008"
-date: "2007-08-20"
-categories:
-  - "me"
-tags:
-  - "ml"
-  - "tfs"
-  - "tools"
-  - "visual-studio"
-  - "vs2005"
-  - "vs2008"
-coverImage: "metro-visual-studio-2005-128-link-8-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "using-visual-studio-2008"
-
+slug: using-visual-studio-2008
 aliases:
   - /blog/using-visual-studio-2008
+tags:
+  - ml
+  - tfs
+  - tools
+  - visual-studio
+  - vs2005
+  - vs2008
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-8-1.png
 ---
 
 I have been tinkering with VS2008 for a week now, but I had not had time to really look at it.

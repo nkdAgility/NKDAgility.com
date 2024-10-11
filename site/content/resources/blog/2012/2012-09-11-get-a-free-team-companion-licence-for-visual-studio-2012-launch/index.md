@@ -1,25 +1,24 @@
 ---
+title: Get a free Team Companion licence for Visual Studio 2012 Launch?
+date: 2012-09-11
+creator: Martin Hinshelwood
 id: "8715"
-title: "Get a free Team Companion licence for Visual Studio 2012 Launch?"
-date: "2012-09-11"
-tags:
-  - "events-and-presentations"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tfs2012"
-  - "tools"
-  - "visual-studio"
-  - "vs2008"
-  - "vs2010"
-  - "vs2012"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "get-a-free-team-companion-licence-for-visual-studio-2012-launch"
-
+slug: get-a-free-team-companion-licence-for-visual-studio-2012-launch
 aliases:
   - /blog/get-a-free-team-companion-licence-for-visual-studio-2012-launch
+tags:
+  - events-and-presentations
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tfs2012
+  - tools
+  - visual-studio
+  - vs2008
+  - vs2010
+  - vs2012
 ---
 
 [![team-companion-logo](images/team-companion-logo_thumb-1-1.png "team-companion-logo")](http://blog.hinshelwood.com/files/2012/09/team-companion-logo.png)I recently posted on [Requirement management in the modern application lifecycle](http://blog.hinshelwood.com/requirement-management-in-the-modern-application-lifecycle/) and in that post I mentioned a product called Team Companion from Ekobit. Well, to celebrate its 5th anniversary and the launch of Visual Studio 2012 the awesome folks at Ekobit have decided to give away a whole bunch of licences for that fantastic tool completely free! Starting 8am (PDT) tomorrow you will have 3 days to claim your personal copy…

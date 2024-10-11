@@ -4,7 +4,7 @@ date: 2023-03-16T07:00:16Z
 videoId: TabMnJpXFVA
 url: /resources/videos/why-are-you-going-the-immersive-scrum-training-route-
 canonicalUrl: https://www.youtube.com/watch?v=TabMnJpXFVA
-coverImage: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TabMnJpXFVA/maxresdefault.jpg
 duration: 287
 isShort: False
 ---

@@ -1,34 +1,33 @@
 ---
+title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
+date: 2011-06-30
+creator: Martin Hinshelwood
 id: "3279"
-title: "Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3"
-date: "2011-06-30"
-categories:
-  - "code-and-complexity"
-  - "tools-and-techniques"
-  - "upgrade-and-maintenance"
-tags:
-  - "agile"
-  - "code"
-  - "configuration"
-  - "infrastructure"
-  - "nwcadence"
-  - "process"
-  - "scrum"
-  - "sfts"
-  - "sharepoint"
-  - "spf2010"
-  - "tfs"
-  - "tfs2008"
-  - "tfs2010"
-  - "tools"
-coverImage: "metro-visual-studio-2005-128-link-33-33.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3"
-
+slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
   - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
+tags:
+  - agile
+  - code
+  - configuration
+  - infrastructure
+  - nwcadence
+  - process
+  - scrum
+  - sfts
+  - sharepoint
+  - spf2010
+  - tfs
+  - tfs2008
+  - tfs2010
+  - tools
+categories:
+  - code-and-complexity
+  - tools-and-techniques
+  - upgrade-and-maintenance
+preview: metro-visual-studio-2005-128-link-33-33.png
 ---
 
 [![VS2008Upgrade](images/VS2008Upgrade_thumb-36-36.gif "VS2008Upgrade")](http://blog.hinshelwood.com/files/2011/05/VS2008Upgrade.gif)
@@ -316,6 +315,7 @@ This common section represents all the work that relates
         9. DONE - Upgrade Team Foundation Server 2008 to Visual Studio 2010 Team Foundation Server
 
 5.  ### **House keeping**
+
         1. #### Tfs Customisations (1 hour)
 
             I always tend to create a team Project to hold all of the
@@ -329,9 +329,9 @@ This common section represents all the work that relates
             7. Modify to support upgraded template and checkin
 
             [![image](images/image28_thumb-26-26.png "image")](http://blog.hinshelwood.com/files/2011/05/image28.png)
-    { .post-img }
-            **Figure: TfsCustomisations has all of the Scripts and Process Template customisation for the upgrade and beyond**
 
+    { .post-img }
+    **Figure: TfsCustomisations has all of the Scripts and Process Template customisation for the upgrade and beyond**
 
         3. #### Clean unused customisations
 
@@ -382,7 +382,6 @@ This common section represents all the work that relates
                 ```
 
                 **Figure: You can only delete fields that are not in use**
-
 
 ## Upgrade each Team Project (~4 hours)
 
@@ -510,7 +509,6 @@ As the Export Migration is the chosen route of least friction we need to follow 
 
             I really should not have to do this and I can only think that it is some bug in the SfTSv3 Migration tool that is stopping it creating these for me.
 
-
 4.  #### **Fix Queries**
 
         Because we want to keep the old queries around, and you can do nothing but delete them once you delete the Work item Types we need to move them before we do anything to the Team Project. it may be that some of the teams spent a long time getting their queries “just right” and we don’t just want to delete that hard work.
@@ -546,7 +544,6 @@ As the Export Migration is the chosen route of least friction we need to follow 
     { .post-img }
 
             **Figure: Shiny new Queries are now waiting for the team**
-
 
 5.  #### **Fix Reports**
 
@@ -714,7 +711,6 @@ As the Export Migration is the chosen route of least friction we need to follow 
     { .post-img }
 
             **Figure: You need to run a recalculation on all of the work items**
-
 
 9.  #### **Rebuild the Warehouse**
 

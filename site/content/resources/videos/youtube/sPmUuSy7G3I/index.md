@@ -4,7 +4,7 @@ date: 2023-03-24T07:00:30Z
 videoId: sPmUuSy7G3I
 url: /resources/videos/how-does-a-scrum-team-plan-and-prioritize-work-effectively-
 canonicalUrl: https://www.youtube.com/watch?v=sPmUuSy7G3I
-coverImage: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/sPmUuSy7G3I/maxresdefault.jpg
 duration: 312
 isShort: False
 ---

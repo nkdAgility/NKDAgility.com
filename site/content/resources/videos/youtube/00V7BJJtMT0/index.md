@@ -4,7 +4,7 @@ date: 2023-02-23T07:00:00Z
 videoId: 00V7BJJtMT0
 url: /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
 canonicalUrl: https://www.youtube.com/watch?v=00V7BJJtMT0
-coverImage: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
 duration: 181
 isShort: False
 ---

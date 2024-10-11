@@ -4,7 +4,7 @@ date: 2019-10-17T19:16:03Z
 videoId: RCJsST0xBCE
 url: /resources/videos/mastering-azure-devops-migration-a-comprehensive-guide-by-nkdagility
 canonicalUrl: https://www.youtube.com/watch?v=RCJsST0xBCE
-coverImage: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/RCJsST0xBCE/maxresdefault.jpg
 duration: 2399
 isShort: False
 ---

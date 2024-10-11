@@ -5,7 +5,7 @@ aliases:
   - workshops/Customer-Working-Agreement.html
   - learn/agile-delivery-kit/workshops/Customer-Working-Agreement
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 draft: true
 card:
   button:

@@ -1,32 +1,31 @@
 ---
+title: Commit to Visual Studio ALM on Area51
+date: 2010-08-15
+creator: Martin Hinshelwood
 id: "31"
-title: "Commit to Visual Studio ALM on Area51"
-date: "2010-08-15"
-categories:
-  - "me"
-  - "tools-and-techniques"
-tags:
-  - "configuration"
-  - "define"
-  - "develop"
-  - "infrastructure"
-  - "operate"
-  - "people"
-  - "practices"
-  - "process"
-  - "tfs"
-  - "tfs2010"
-  - "tools"
-  - "visual-studio"
-  - "vs2010"
-coverImage: "metro-visual-studio-2010-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "commit-to-visual-studio-alm-on-area51"
-
+slug: commit-to-visual-studio-alm-on-area51
 aliases:
   - /blog/commit-to-visual-studio-alm-on-area51
+tags:
+  - configuration
+  - define
+  - develop
+  - infrastructure
+  - operate
+  - people
+  - practices
+  - process
+  - tfs
+  - tfs2010
+  - tools
+  - visual-studio
+  - vs2010
+categories:
+  - me
+  - tools-and-techniques
+preview: metro-visual-studio-2010-128-link-1-1.png
 ---
 
 ![image](images/VisualStudioALMonArea51_98A3-image_-3-3.png)
@@ -35,8 +34,7 @@ aliases:
 A few weeks ago I proposed a new community for StackExchange and it has been growing at an exponential rate. We are about half way there, but we need **your** help to make this community a success.
 
 - Update 16th August 2010 – The Proposal has now moved from Proposed to the Committed stage and we need your commitment.  
-   [http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")  
-
+   [http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2](http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2 "http://area51.stackexchange.com/proposals/15894/visual-studio-alm?referrer=vtx1N5_bjYysH8mQCaDCxQ2")
 
 ---
 

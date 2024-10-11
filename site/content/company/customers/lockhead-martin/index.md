@@ -1,11 +1,11 @@
 ---
+title: Lockhead Martin
+date: 2017-04-24
+creator: Martin Hinshelwood
 id: "11815"
-title: "Lockhead Martin"
-date: "2017-04-24"
+type: customers
+slug: lockhead-martin
 tags:
-  - "homepage"
-coverImage: "Lockheed-Martin.png"
-author: "MrHinsh"
-type: "customers"
-slug: "lockhead-martin"
+  - homepage
+preview: Lockheed-Martin.png
 ---

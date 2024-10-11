@@ -4,7 +4,7 @@ date: 2023-10-19T11:00:06Z
 videoId: 56hWAHhbrvs
 url: /resources/videos/antichrist!-7-harbingers-agile-apocalypse
 canonicalUrl: https://www.youtube.com/watch?v=56hWAHhbrvs
-coverImage: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/56hWAHhbrvs/maxresdefault.jpg
 duration: 241
 isShort: False
 ---

@@ -1,15 +1,14 @@
 ---
+title: TFS Gotcha (SP1)
+date: 2007-03-15
+creator: Martin Hinshelwood
 id: "428"
-title: "TFS Gotcha (SP1)"
-date: "2007-03-15"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-gotcha-sp1"
-
+slug: tfs-gotcha-sp1
 aliases:
   - /blog/tfs-gotcha-sp1
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you are out there and you have installed SP1 for Team Foundation Server you probably went through as much pain as I did...

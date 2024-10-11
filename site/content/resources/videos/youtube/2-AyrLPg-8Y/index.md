@@ -4,7 +4,7 @@ date: 2023-11-29T11:00:03Z
 videoId: 2-AyrLPg-8Y
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader-journey-
 canonicalUrl: https://www.youtube.com/watch?v=2-AyrLPg-8Y
-coverImage: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/2-AyrLPg-8Y/maxresdefault.jpg
 duration: 17
 isShort: True
 ---

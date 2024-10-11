@@ -4,7 +4,7 @@ date: 2023-11-13T06:56:47Z
 videoId: APZNdMokZVo
 url: /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
-coverImage: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
 isShort: False
 ---
@@ -36,7 +36,7 @@ These are the kinds of issues that lean-agile practitioners love and most folks 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
 
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
-Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses/
+Sign up for one of our upcoming professional Scrum classes:\_ https://nkdagility.com/training-courses/
 
 Because you don't just need agility, you need Naked Agility.
 

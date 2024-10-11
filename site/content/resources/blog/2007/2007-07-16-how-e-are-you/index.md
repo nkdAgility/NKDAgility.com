@@ -1,20 +1,19 @@
 ---
+title: How 'e' are you?
+date: 2007-07-16
+creator: Martin Hinshelwood
 id: "368"
-title: "How 'e' are you?"
-date: "2007-07-16"
-categories:
-  - "me"
-tags:
-  - "moss2007"
-  - "sharepoint"
-coverImage: "metro-sharepoint-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "how-e-are-you"
-
+slug: how-e-are-you
 aliases:
   - /blog/how-e-are-you
+tags:
+  - moss2007
+  - sharepoint
+categories:
+  - me
+preview: metro-sharepoint-128-link-1-1.png
 ---
 
 [Will Pritchard](http://geekswithblogs.net/MOSSParadox/) posted an interesting blog entry about this and I though I would give it a go...

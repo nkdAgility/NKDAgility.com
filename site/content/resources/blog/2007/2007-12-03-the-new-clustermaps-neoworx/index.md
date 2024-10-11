@@ -1,19 +1,18 @@
 ---
-id: "280"
 title: "The new ClusterMaps: NeoWORX"
-date: "2007-12-03"
-categories:
-  - "me"
-tags:
-  - "wpf"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-12-03
+creator: Martin Hinshelwood
+id: "280"
 layout: blog
 resourceType: blog
-slug: "the-new-clustermaps-neoworx"
-
+slug: the-new-clustermaps-neoworx
 aliases:
   - /blog/the-new-clustermaps-neoworx
+tags:
+  - wpf
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I came across this amazing new service which is very similar to [ClusterMaps](http://www.clustermaps.com/), [NeoWORX](http://www.neoworx.net/). It is a bit of a pain in Flash as the system resources required for flash these days seams a little excessive, but I would like to see it running as a WPF XBAP.

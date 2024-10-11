@@ -1,19 +1,18 @@
 ---
+title: Live Virtual Classroom's and the new normal
+date: 2020-06-18
+creator: Martin Hinshelwood
 id: "44418"
-title: "Live Virtual Classroom's and the new normal"
-date: "2020-06-18"
-categories:
-  - "agility"
-tags:
-  - "leadership-track"
-coverImage: "image-1-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "live-virtual-classrooms-and-the-new-normal"
-
+slug: live-virtual-classrooms-and-the-new-normal
 aliases:
   - /blog/live-virtual-classrooms-and-the-new-normal
+tags:
+  - leadership-track
+categories:
+  - agility
+preview: image-1-1-1.png
 ---
 
 With the change in business model in the current crisis, many training organizations have had to do the unthinkable and move to Live Virtual training options. Existing wisdom was that training online, just as running teams virtually would be a disaster and reduce the student's experience.

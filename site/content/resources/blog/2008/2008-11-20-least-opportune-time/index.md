@@ -1,21 +1,20 @@
 ---
+title: Least opportune time.
+date: 2008-11-20
+creator: Martin Hinshelwood
 id: "163"
-title: "Least opportune time."
-date: "2008-11-20"
-categories:
-  - "me"
-tags:
-  - "tfs"
-  - "tfs2008"
-  - "wit"
-coverImage: "metro-visual-studio-2005-128-link-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "least-opportune-time"
-
+slug: least-opportune-time
 aliases:
   - /blog/least-opportune-time
+tags:
+  - tfs
+  - tfs2008
+  - wit
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-4-4.png
 ---
 
 [![codeplex](images/Leastopportunetime_CCCD-codeplex_thumb-2-2.jpg)](http://blog.hinshelwood.com/files/2011/05/GWB-WindowsLiveWriter-Leastopportunetime_CCCD-codeplex_2.jpg)

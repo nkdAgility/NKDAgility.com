@@ -1,29 +1,28 @@
 ---
+title: The new normal of the modern application lifecycle
+date: 2012-10-10
+creator: Martin Hinshelwood
 id: "8885"
-title: "The new normal of the modern application lifecycle"
-date: "2012-10-10"
-categories:
-  - "measure-and-learn"
-  - "people-and-process"
-  - "tools-and-techniques"
-tags:
-  - "agile"
-  - "improve"
-  - "measure"
-  - "modern-alm"
-  - "process"
-  - "process-improvement"
-  - "s30d"
-  - "series-modern-application-lifecycle"
-  - "the-new-normal"
-coverImage: "metro-new-normal-icon-28-28.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "the-new-normal-of-the-modern-application-lifecycle"
-
+slug: the-new-normal-of-the-modern-application-lifecycle
 aliases:
   - /blog/the-new-normal-of-the-modern-application-lifecycle
+tags:
+  - agile
+  - improve
+  - measure
+  - modern-alm
+  - process
+  - process-improvement
+  - s30d
+  - series-modern-application-lifecycle
+  - the-new-normal
+categories:
+  - measure-and-learn
+  - people-and-process
+  - tools-and-techniques
+preview: metro-new-normal-icon-28-28.png
 ---
 
 The new normal for software development is the theme for the keynote at the [Visual Studio Launch Roadshows](http://blog.hinshelwood.com/visual-studio-2012-launch-roadshow-in-san-diego-and-irvine/) that I will be speaking at this week I have been doing a little research.

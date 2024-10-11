@@ -4,7 +4,7 @@ date: 2024-05-06T14:12:53Z
 videoId: 4YixczaREUw
 url: /resources/videos/many-folks-say-scrum-is-like-communism;-it-does-not-work!-are-they-right-
 canonicalUrl: https://www.youtube.com/watch?v=4YixczaREUw
-coverImage: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/4YixczaREUw/maxresdefault.jpg
 duration: 1373
 isShort: False
 ---

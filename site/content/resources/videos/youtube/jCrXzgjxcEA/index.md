@@ -4,7 +4,7 @@ date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/kanban-with-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
-coverImage: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
 isShort: False
 ---

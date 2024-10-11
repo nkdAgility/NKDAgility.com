@@ -4,7 +4,7 @@ date: 2023-11-24T07:00:00Z
 videoId: 1VzbtRspOsM
 url: /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
 canonicalUrl: https://www.youtube.com/watch?v=1VzbtRspOsM
-coverImage: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/1VzbtRspOsM/maxresdefault.jpg
 duration: 239
 isShort: False
 ---

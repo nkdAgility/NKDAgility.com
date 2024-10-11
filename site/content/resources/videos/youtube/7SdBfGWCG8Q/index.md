@@ -4,7 +4,7 @@ date: 2024-02-06T07:00:03Z
 videoId: 7SdBfGWCG8Q
 url: /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
 canonicalUrl: https://www.youtube.com/watch?v=7SdBfGWCG8Q
-coverImage: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/7SdBfGWCG8Q/maxresdefault.jpg
 duration: 38
 isShort: True
 ---

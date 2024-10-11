@@ -1,11 +1,11 @@
 ---
+title: Schlumberger
+date: 2019-04-24
+creator: Martin Hinshelwood
 id: "11807"
-title: "Schlumberger"
-date: "2019-04-24"
+type: customers
+slug: schlumberger
 tags:
-  - "homepage"
-coverImage: "nkdagility-customer-schlumberger-200x75.png"
-author: "MrHinsh"
-type: "customers"
-slug: "schlumberger"
+  - homepage
+preview: nkdagility-customer-schlumberger-200x75.png
 ---

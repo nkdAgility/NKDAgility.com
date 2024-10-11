@@ -1,17 +1,16 @@
 ---
+title: Mozy Backup
+date: 2007-11-26
+creator: Martin Hinshelwood
 id: "287"
-title: "Mozy Backup"
-date: "2007-11-26"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mozy-backup"
-
+slug: mozy-backup
 aliases:
   - /blog/mozy-backup
+categories:
+  - me
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 I was looking for an online backup solution and [Scott Hanselman](http://www.hanselman.com/blog/OnLosingDataAndAFamilyBackupStrategy.aspx) provided it for me: Thanks Scott and good luck with all the [new stuff](http://www.hanselman.com/blog/NewJobNewHouseNewBabyAndDesigningATotallyNewHomeOffice.aspx) :).

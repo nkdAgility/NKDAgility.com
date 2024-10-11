@@ -4,7 +4,7 @@ date: 2023-10-18T07:00:23Z
 videoId: vubnDXYXiL0
 url: /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
 canonicalUrl: https://www.youtube.com/watch?v=vubnDXYXiL0
-coverImage: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
 isShort: False
 ---

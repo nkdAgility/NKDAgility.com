@@ -1,17 +1,16 @@
 ---
+title: Mozy update
+date: 2007-12-02
+creator: Martin Hinshelwood
 id: "281"
-title: "Mozy update"
-date: "2007-12-02"
-categories:
-  - "me"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "mozy-update"
-
+slug: mozy-update
 aliases:
   - /blog/mozy-update
+categories:
+  - me
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 Well, due to my campaign to get lots of free bandwidth I now have an additional 2.3 GB on top of my initial free 2GB bringing the grand total to 4.3 GB of online storage with [Mozy](https://mozy.com/?code=8R96AG)!

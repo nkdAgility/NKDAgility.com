@@ -1,28 +1,27 @@
 ---
+title: Professional Scrum teams build software that works
+date: 2020-12-03
+creator: Martin Hinshelwood
 id: "22774"
-title: "Professional Scrum teams build software that works"
-date: "2020-12-03"
-categories:
-  - "agility"
-tags:
-  - "agile"
-  - "increment"
-  - "leadership-track"
-  - "lean"
-  - "professional-scrum"
-  - "professional-scrum-developer"
-  - "scrum"
-  - "scrum-masters"
-  - "scrum-team"
-  - "taylorism"
-coverImage: "nkdAgility-PSD-Krakow-02-1-1.jpg"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "professional-scrum-teams-build-software-works"
-
+slug: professional-scrum-teams-build-software-works
 aliases:
   - /blog/professional-scrum-teams-build-software-works
+tags:
+  - agile
+  - increment
+  - leadership-track
+  - lean
+  - professional-scrum
+  - professional-scrum-developer
+  - scrum
+  - scrum-masters
+  - scrum-team
+  - taylorism
+categories:
+  - agility
+preview: nkdAgility-PSD-Krakow-02-1-1.jpg
 ---
 
 I am always surprised at the number of teams that release undone work to production. I understand that one may need a few sprints, or many if you inherited something nasty, to pay back that debt, but if it's more then you are not a [Professional Scrum Team](/blog/scrum-tapas-importance-professionalism/). The sheer amount of software that I have that is buggy, slow, or just not finished makes me think that there are few professional [Scrum Teams](/the-2020-scrum-guide/#scrum-team) out there!

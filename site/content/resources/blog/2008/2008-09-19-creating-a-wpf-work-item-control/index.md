@@ -1,24 +1,23 @@
 ---
+title: Creating a WPF Work Item Control
+date: 2008-09-19
+creator: Martin Hinshelwood
 id: "191"
-title: "Creating a WPF Work Item Control"
-date: "2008-09-19"
-categories:
-  - "code-and-complexity"
-tags:
-  - "code"
-  - "codeproject"
-  - "tfs"
-  - "tfs2008"
-  - "tools"
-  - "wpf"
-coverImage: "metro-visual-studio-2005-128-link-6-6.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-wpf-work-item-control"
-
+slug: creating-a-wpf-work-item-control
 aliases:
   - /blog/creating-a-wpf-work-item-control
+tags:
+  - code
+  - codeproject
+  - tfs
+  - tfs2008
+  - tools
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-visual-studio-2005-128-link-6-6.png
 ---
 
 I have a little custom control I need added to my [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") projects. This control will allow specific groups of users as representatives of Advocacy groups with in the life cycle model to sign off a Requirement or Change Request from within Visual Studio.

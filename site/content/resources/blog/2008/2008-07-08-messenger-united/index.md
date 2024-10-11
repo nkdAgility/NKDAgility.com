@@ -1,18 +1,17 @@
 ---
+title: Messenger United
+date: 2008-07-08
+creator: Martin Hinshelwood
 id: "217"
-title: "Messenger United"
-date: "2008-07-08"
-tags:
-  - "answers"
-  - "tools"
-coverImage: "nakedalm-logo-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "messenger-united"
-
+slug: messenger-united
 aliases:
   - /blog/messenger-united
+tags:
+  - answers
+  - tools
+preview: nakedalm-logo-128-link-3-3.png
 ---
 
 Although the site is a little skewed today…

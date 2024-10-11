@@ -1,20 +1,19 @@
 ---
+title: Introduction to .NET Framework 3.0 for Developers Event
+date: 2007-04-04
+creator: Martin Hinshelwood
 id: "418"
-title: "Introduction to .NET Framework 3.0 for Developers Event"
-date: "2007-04-04"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "introduction-to-net-framework-3-0-for-developers-event"
-
+slug: introduction-to-net-framework-3-0-for-developers-event
 aliases:
   - /blog/introduction-to-net-framework-3-0-for-developers-event
+tags:
+  - code
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 Yesterday I visited the Strathclyde University campus to see a half day session from Microsoft's [Mike Taulty](http://mtaulty.com/communityserver/blogs/mike_taultys_blog/default.aspx).

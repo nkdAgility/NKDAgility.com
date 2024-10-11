@@ -4,7 +4,7 @@ date: 2023-02-15T07:00:07Z
 videoId: QgPlMxGNIzs
 url: /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
 canonicalUrl: https://www.youtube.com/watch?v=QgPlMxGNIzs
-coverImage: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
 isShort: False
 ---

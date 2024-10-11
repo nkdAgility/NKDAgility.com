@@ -1,17 +1,16 @@
 ---
+title: Sharepoint planning
+date: 2007-08-24
+creator: Martin Hinshelwood
 id: "320"
-title: "Sharepoint planning"
-date: "2007-08-24"
-tags:
-  - "moss2007"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "sharepoint-planning"
-
+slug: sharepoint-planning
 aliases:
   - /blog/sharepoint-planning
+tags:
+  - moss2007
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 I have been asking one of my colleagues for information on Sharepoint and how to deploy it to large organizations. He intoned that he new how not to do it and pointed me towards a particular [post](http://blogs.msdn.com/sharepoint/archive/2007/04/09/investing-in-logical-architecture-design-samples.aspx "Sharepoint planning") that defines a very effective deployment method.

@@ -4,7 +4,7 @@ date: 2023-08-14T07:00:01Z
 videoId: 221BbTUqw7Q
 url: /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
 canonicalUrl: https://www.youtube.com/watch?v=221BbTUqw7Q
-coverImage: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
 duration: 241
 isShort: False
 ---

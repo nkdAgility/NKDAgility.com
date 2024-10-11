@@ -4,7 +4,7 @@ date: 2023-12-01T07:00:11Z
 videoId: TYpgtgaOXv4
 url: /resources/videos/why-is-product-backlog-management-getting-so-much-attention-right-now
 canonicalUrl: https://www.youtube.com/watch?v=TYpgtgaOXv4
-coverImage: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/TYpgtgaOXv4/maxresdefault.jpg
 duration: 75
 isShort: False
 ---

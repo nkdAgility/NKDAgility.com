@@ -4,7 +4,7 @@ date: 2024-01-31T14:26:11Z
 videoId: 8aIUldVDtGw
 url: /resources/videos/stop-starting-and-start-finishing!
 canonicalUrl: https://www.youtube.com/watch?v=8aIUldVDtGw
-coverImage: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/8aIUldVDtGw/maxresdefault.jpg
 duration: 496
 isShort: False
 ---

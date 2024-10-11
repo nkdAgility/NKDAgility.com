@@ -1,24 +1,23 @@
 ---
+title: Creating a Data Access layer using Unity
+date: 2009-07-30
+creator: Martin Hinshelwood
 id: "95"
-title: "Creating a Data Access layer using Unity"
-date: "2009-07-30"
-categories:
-  - "code-and-complexity"
-  - "me"
-tags:
-  - "code"
-  - "codeproject"
-  - "dependency-injection"
-  - "tools"
-  - "version-control"
-coverImage: "metro-binary-vb-128-link-5-5.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-data-access-layer-using-unity"
-
+slug: creating-a-data-access-layer-using-unity
 aliases:
   - /blog/creating-a-data-access-layer-using-unity
+tags:
+  - code
+  - codeproject
+  - dependency-injection
+  - tools
+  - version-control
+categories:
+  - code-and-complexity
+  - me
+preview: metro-binary-vb-128-link-5-5.png
 ---
 
 I am always pulling out the Unity assemblies. Maybe it is just because I am lazy, but I really can’t be bothered rolling my own dependency injection and mapping framework!

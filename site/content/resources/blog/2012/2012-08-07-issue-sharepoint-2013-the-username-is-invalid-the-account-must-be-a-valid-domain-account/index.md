@@ -1,20 +1,19 @@
 ---
-id: "7015"
 title: "Issue SharePoint 2013: The username is invalid. The account must be a valid domain account"
-date: "2012-08-07"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "sharepoint"
-coverImage: "metro-problem-icon-5-5.png"
-author: "MrHinsh"
+date: 2012-08-07
+creator: Martin Hinshelwood
+id: "7015"
 layout: blog
 resourceType: blog
-slug: "issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account"
-
+slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 aliases:
   - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
+tags:
+  - puzzles
+  - sharepoint
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-5-5.png
 ---
 
 When configuring SharePoint 2013 in “Complete” mode you get a “The username is invalid. The account mist be a valid domain account” when using a local account to configure the farm…
@@ -45,14 +44,15 @@ Use a PowerShell command to create the initial configuration of the farm with a 
 
 1.  **Start the SharePoint PowerShell**
 2.  **Run “New-SPConfigurationDatabase” from the command line and follow the instructions**
-        [![image_thumb[16]](images/image_thumb16_thumb-2-2.png "image_thumb[16]")](http://blog.hinshelwood.com/files/2012/08/image_thumb161.png)
+    [![image_thumb[16]](images/image_thumb16_thumb-2-2.png "image_thumb[16]")](http://blog.hinshelwood.com/files/2012/08/image_thumb161.png)
     { .post-img }
     Figure: New-SPConfigurationDatabase creates the farm for you
-        This will create the farm and configure the necessary accounts.
+    This will create the farm and configure the necessary accounts.
 3.  **Rerun the Configurtion wizard**
-        After it finishes start the Config Wizard (interactive or not) and configure your server with all components
+    After it finishes start the Config Wizard (interactive or not) and configure your server with all components
 
         [![image_thumb[17]](images/image_thumb17_thumb-4-4.png "image_thumb[17]")](http://blog.hinshelwood.com/files/2012/08/image_thumb17.png)
+
     { .post-img }
     **Figure: Just don’t disconnect from this server farm**
 

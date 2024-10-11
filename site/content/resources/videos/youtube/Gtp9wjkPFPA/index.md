@@ -4,7 +4,7 @@ date: 2023-06-13T14:30:08Z
 videoId: Gtp9wjkPFPA
 url: /resources/videos/how-do-devops-and-agile-integrate-
 canonicalUrl: https://www.youtube.com/watch?v=Gtp9wjkPFPA
-coverImage: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
 isShort: True
 ---

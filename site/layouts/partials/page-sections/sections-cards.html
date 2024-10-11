@@ -1,0 +1,16 @@
+{{ $site := .site }}
+<!-- Courses specific rendering -->
+<div class="row">
+  {{ if and (not (eq .context.cards nil)) (gt (len .context.cards) 0) }}
+    {{ range $index, $card := .context.cards }}
+      <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+        <!-- e -->
+        {{ partial "card.html" (dict "class" "sectioncards" "title" $card.title "content" $card.content "buttonContent" $card.button.content "permalink" $card.button.link ) }}
+      </div>
+    {{ end }}
+  {{ else }}
+    <div class="row">
+      <div class="col-12 p-2">No courses</div>
+    </div>
+  {{ end }}
+</div>

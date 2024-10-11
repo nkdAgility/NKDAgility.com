@@ -4,7 +4,7 @@ date: 2023-05-09T09:30:04Z
 videoId: L6opxb0FYcU
 url: /resources/videos/worst-agile-advice-heard-
 canonicalUrl: https://www.youtube.com/watch?v=L6opxb0FYcU
-coverImage: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
 isShort: True
 ---

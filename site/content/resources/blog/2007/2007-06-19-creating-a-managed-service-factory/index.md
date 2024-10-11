@@ -1,21 +1,20 @@
 ---
+title: Creating a managed service factory
+date: 2007-06-19
+creator: Martin Hinshelwood
 id: "377"
-title: "Creating a managed service factory"
-date: "2007-06-19"
-categories:
-  - "me"
-tags:
-  - "ml"
-  - "service-oriented-architecture"
-  - "tools"
-coverImage: "metro-merilllynch-128-link-3-3.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "creating-a-managed-service-factory"
-
+slug: creating-a-managed-service-factory
 aliases:
   - /blog/creating-a-managed-service-factory
+tags:
+  - ml
+  - service-oriented-architecture
+  - tools
+categories:
+  - me
+preview: metro-merilllynch-128-link-3-3.png
 ---
 
 I had a plan. I wanted to create a way of accessing services in multiple locations from any location. Each location could have one or more services which may be duplications or different. That is a really abstract way of thing about it, but I eventually came up with a solution.
@@ -53,10 +52,6 @@ Subscriptions = Server.GetService(Of Clients.SubscriptionsService)()
 Dim TeamServers As Clients.TeamServersService
 TeamServers = Server.GetService(Of Clients.TeamServersService)()
 ```
-
-
-
-
 
 As I hope you can see this makes it easier to implement many features with an enterprise enviroment. All you have to know is what services are available where. There is also the possibility that a lookup service could be implemented that would allow the Factory to bring you services when you do not even know here they are!
 

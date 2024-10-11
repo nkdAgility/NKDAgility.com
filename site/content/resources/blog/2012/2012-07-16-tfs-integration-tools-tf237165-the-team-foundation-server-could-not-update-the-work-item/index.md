@@ -1,23 +1,22 @@
 ---
-id: "6179"
 title: "TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item"
-date: "2012-07-16"
-categories:
-  - "problems-and-puzzles"
-tags:
-  - "puzzles"
-  - "tf237165"
-  - "tfs"
-  - "tfs2012"
-  - "tfs-integration-platform"
-coverImage: "metro-problem-icon-2-2.png"
-author: "MrHinsh"
+date: 2012-07-16
+creator: Martin Hinshelwood
+id: "6179"
 layout: blog
 resourceType: blog
-slug: "tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item"
-
+slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliases:
   - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
+tags:
+  - puzzles
+  - tf237165
+  - tfs
+  - tfs2012
+  - tfs-integration-platform
+categories:
+  - problems-and-puzzles
+preview: metro-problem-icon-2-2.png
 ---
 
 While running an integration platform import you get a “TF237165: The Team Foundation Server could not update the work item because of a validation error on the server. This may happen because the work item has been modified or destroyed, or that you do not have permission to update that work item.”

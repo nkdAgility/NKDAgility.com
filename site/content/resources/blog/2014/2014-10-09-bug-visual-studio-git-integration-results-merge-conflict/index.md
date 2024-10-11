@@ -1,24 +1,23 @@
 ---
+title: Bug in the Visual Studio Git integration that results in a merge conflict
+date: 2014-10-09
+creator: Martin Hinshelwood
 id: "10734"
-title: "Bug in the Visual Studio Git integration that results in a merge conflict"
-date: "2014-10-09"
-categories:
-  - "tools-and-techniques"
-tags:
-  - "git"
-  - "mergeconflict"
-  - "visual-studio-2013"
-  - "visual-studio-2013-3"
-  - "visual-studio-2013-4"
-  - "visual-studio"
-coverImage: "naked-alm-git-2-2.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "bug-visual-studio-git-integration-results-merge-conflict"
-
+slug: bug-visual-studio-git-integration-results-merge-conflict
 aliases:
   - /blog/bug-visual-studio-git-integration-results-merge-conflict
+tags:
+  - git
+  - mergeconflict
+  - visual-studio-2013
+  - visual-studio-2013-3
+  - visual-studio-2013-4
+  - visual-studio
+categories:
+  - tools-and-techniques
+preview: naked-alm-git-2-2.png
 ---
 
 When doing a PULL from Git from an origin\\branch but you have changes locally you may encounter a bug in the Visual Studio Git integration that results in a merge conflict fetching the head of the remote Git repository.

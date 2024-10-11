@@ -1,16 +1,15 @@
 ---
+title: TFS Admin Tool 1.2 Gotcha
+date: 2007-03-29
+creator: Martin Hinshelwood
 id: "422"
-title: "TFS Admin Tool 1.2 Gotcha"
-date: "2007-03-29"
-tags:
-  - "tfs"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "tfs-admin-tool-1-2-gotcha"
-
+slug: tfs-admin-tool-1-2-gotcha
 aliases:
   - /blog/tfs-admin-tool-1-2-gotcha
+tags:
+  - tfs
 ---
 
 I ran into a small problem with the tfs admin tool.

@@ -4,7 +4,7 @@ date: 2023-06-20T07:00:10Z
 videoId: RLxGdd7nEZE
 url: /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
 canonicalUrl: https://www.youtube.com/watch?v=RLxGdd7nEZE
-coverImage: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
 duration: 134
 isShort: False
 ---

@@ -1,19 +1,18 @@
 ---
-id: "455"
 title: "Windows Vista: windows mobile device center"
-date: "2006-11-18"
-categories:
-  - "products-and-books"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
+date: 2006-11-18
+creator: Martin Hinshelwood
+id: "455"
 layout: blog
 resourceType: blog
-slug: "windows-vista-windows-mobile-device-center"
-
+slug: windows-vista-windows-mobile-device-center
 aliases:
   - /blog/windows-vista-windows-mobile-device-center
+tags:
+  - windows-mobile-6
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you are trying to get windows mobile device center running on Vista 6000 RTM then you will need to install the beta as it is not actively released.

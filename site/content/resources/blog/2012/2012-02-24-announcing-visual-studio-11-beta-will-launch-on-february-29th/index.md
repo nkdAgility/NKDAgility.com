@@ -1,25 +1,24 @@
 ---
+title: Announcing Visual Studio 11 Beta will launch on February 29th
+date: 2012-02-24
+creator: Martin Hinshelwood
 id: "4560"
-title: "Announcing Visual Studio 11 Beta will launch on February 29th"
-date: "2012-02-24"
-categories:
-  - "news-and-reviews"
-tags:
-  - "configuration"
-  - "develop"
-  - "infrastructure"
-  - "modern-alm"
-  - "nwcadence"
-  - "tools"
-  - "visual-studio"
-  - "vs2012"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "announcing-visual-studio-11-beta-will-launch-on-february-29th"
-
+slug: announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliases:
   - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
+tags:
+  - configuration
+  - develop
+  - infrastructure
+  - modern-alm
+  - nwcadence
+  - tools
+  - visual-studio
+  - vs2012
+categories:
+  - news-and-reviews
 ---
 
 Its that time again where the Visual Studio and team Foundation Server teams are pushing out their next version of their tools, Visual Studio 11. [Steven & Lori Borg](http://nwcadence.com) teamed up to present a video on [why you would want to Go-Live with Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/). I used the Go-Live with many companies with the Visual Studio 2010 launch with no problems. Its as safe as a “RTM” product from most other teams.

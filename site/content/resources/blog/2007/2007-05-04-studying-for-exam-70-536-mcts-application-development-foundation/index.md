@@ -1,21 +1,20 @@
 ---
-id: "404"
 title: "Studying for Exam 70-536: MCTS Application Development Foundation"
-date: "2007-05-04"
-categories:
-  - "me"
-tags:
-  - "fail"
-  - "visual-studio"
-  - "vs2005"
-coverImage: "metro-visual-studio-2005-128-link-1-1.png"
-author: "MrHinsh"
+date: 2007-05-04
+creator: Martin Hinshelwood
+id: "404"
 layout: blog
 resourceType: blog
-slug: "studying-for-exam-70-536-mcts-application-development-foundation"
-
+slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
   - /blog/studying-for-exam-70-536-mcts-application-development-foundation
+tags:
+  - fail
+  - visual-studio
+  - vs2005
+categories:
+  - me
+preview: metro-visual-studio-2005-128-link-1-1.png
 ---
 
 After my success with [Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server](http://hinshelwood.com/archive/2007/04/25/Beta-Exam-71-510-TS-Visual-Studio-2005-Team-Foundation-Server.aspx) I now find myself thinking that I should get my developer exams sorted. I had never done them before as I would have had to pay for them myself. Which sucks...

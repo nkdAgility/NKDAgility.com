@@ -2,7 +2,7 @@
 title: Sprint Planning Recipe
 type: recipe
 image: ./../assets/images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
-author: mrhinsh
+creator: Martin Hinshelwood
 recommendedContent:
  - collection: practices
    path: _practices/professional-sprint-planning.md
@@ -20,7 +20,7 @@ videos:
  - title: "How does a scrum team plan and prioritize work effectively?"
    embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -36,16 +36,15 @@ See [Professional Sprint Planning](../_practices/professional-sprint-planning-ev
 
 ## What is a recipe?
 
-This recipe serves as an example of how to run a Sprint Planning. 
+This recipe serves as an example of how to run a Sprint Planning.
 
 ## An example flow for a Sprint Planning
 
 When designing a flow, it is hugely important to be clear on the purpose. For the Sprint Planning, the purpose is to inspect the Product Backlog, taking into account your [Definition of Done](./../_practices/definition-of-done-dod.md) and Team History, and craft a Sprint Goal, Select backlog Items, and an implementation plan for at least the first 24h.
 
-Sprint Planning is about answering the question: “Based on the Product Goal and the current Product Backlog what can we tactically do to make progress?”. 
+Sprint Planning is about answering the question: “Based on the Product Goal and the current Product Backlog what can we tactically do to make progress?”.
 
 ![naked Agility Scrum Framework Sprint Planning](./../assets/images/naked-agility-scrum-framework-sprint-planning.jpg)
-
 
 ## Overview of Flow for Sprint Planning
 
@@ -56,7 +55,6 @@ The Product Owner presents the Product Goal, and the Scrum Team reviews the draf
 Once the Scrum Team has a Sprint Backlog they should ask themselves **"Do they feel, as a team, that there is a reasonable degree of certainty that they can achieve the Sprint Goal?"**
 
 ![naked Agility Scrum Framework Sprint Planning Flow](./../assets/images/naked-agility-scrum-framework-sprint-planning-flow.jpg)
-
 
 _Although Scrum Masters can certainly facilitate the Sprint Planning, there is nothing holding others back from facilitating. Since Sprint Planning is particularly important for the Developers, as they will be doing the work, it makes sense for them to also play a role;_
 
@@ -78,12 +76,11 @@ Use the Sprint Planning to make the Sprint Goal clear with "[Nine Whys](./../_te
 #### Part 3: Select Backlog Items [~60 mins]
 
 - **Step 1: Review the current Throughput Run Chart & Monte Carlo How Many** - This will give the team an indication of the number of items that they can expect to deliver during this Sprint.
-- 
-![naked Agility Scrum Framework Sprint Planning Forecast](./../assets/images/naked-agility-scrum-framework-sprint-planning-forecast.jpg)
+- ![naked Agility Scrum Framework Sprint Planning Forecast](./../assets/images/naked-agility-scrum-framework-sprint-planning-forecast.jpg)
 
 - **Step 2: Review Team Capacity for this Sprint** - Take into account vacation, as well as known pre-booked events
 
-- **Step 3: Select Backlog Items for the current Sprint Goal** - Try “Min Specs” to help the team discover the essential work for this first day of the new Sprint. The Sprint Backlog, as defined during Sprint Planning, can be considered as the ‘Max Specs': all the work, currently known, necessary to achieve the Sprint Goal. 
+- **Step 3: Select Backlog Items for the current Sprint Goal** - Try “Min Specs” to help the team discover the essential work for this first day of the new Sprint. The Sprint Backlog, as defined during Sprint Planning, can be considered as the ‘Max Specs': all the work, currently known, necessary to achieve the Sprint Goal.
 
 ##### Facilitation Options
 

@@ -4,7 +4,7 @@ date: 2023-11-16T12:47:09Z
 videoId: Qt1Ywu_KLrc
 url: /resources/videos/basic-work-item-migration-with-the-azure-devops-migration-tools
 canonicalUrl: https://www.youtube.com/watch?v=Qt1Ywu_KLrc
-coverImage: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/Qt1Ywu_KLrc/maxresdefault.jpg
 duration: 2020
 isShort: False
 ---

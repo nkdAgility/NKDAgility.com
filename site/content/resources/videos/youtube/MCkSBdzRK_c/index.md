@@ -4,7 +4,7 @@ date: 2024-01-25T07:00:13Z
 videoId: MCkSBdzRK_c
 url: /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 canonicalUrl: https://www.youtube.com/watch?v=MCkSBdzRK_c
-coverImage: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
 isShort: False
 ---

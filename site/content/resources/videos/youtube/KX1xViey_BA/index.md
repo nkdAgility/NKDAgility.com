@@ -4,7 +4,7 @@ date: 2023-10-12T11:00:15Z
 videoId: KX1xViey_BA
 url: /resources/videos/quotes-in-the-past-the-man-has-been-first;-in-the-future-the-system-must-be-first-frederick-taylor
 canonicalUrl: https://www.youtube.com/watch?v=KX1xViey_BA
-coverImage: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/KX1xViey_BA/maxresdefault.jpg
 duration: 48
 isShort: True
 ---

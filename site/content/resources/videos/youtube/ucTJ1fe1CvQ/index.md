@@ -4,7 +4,7 @@ date: 2024-08-09T05:27:35Z
 videoId: ucTJ1fe1CvQ
 url: /resources/videos/ppdv-course-overview
 canonicalUrl: https://www.youtube.com/watch?v=ucTJ1fe1CvQ
-coverImage: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
 isShort: False
 ---

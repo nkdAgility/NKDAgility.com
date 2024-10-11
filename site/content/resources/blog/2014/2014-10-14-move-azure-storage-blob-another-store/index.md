@@ -1,24 +1,23 @@
 ---
+title: Move an Azure storage blob to another store
+date: 2014-10-14
+creator: Martin Hinshelwood
 id: "10778"
-title: "Move an Azure storage blob to another store"
-date: "2014-10-14"
-categories:
-  - "install-and-configuration"
-  - "problems-and-puzzles"
-tags:
-  - "azure"
-  - "blob"
-  - "start-azurestorageblobcopy"
-  - "storage"
-  - "vhd"
-coverImage: "nakedalm-windows-logo-4-4.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "move-azure-storage-blob-another-store"
-
+slug: move-azure-storage-blob-another-store
 aliases:
   - /blog/move-azure-storage-blob-another-store
+tags:
+  - azure
+  - blob
+  - start-azurestorageblobcopy
+  - storage
+  - vhd
+categories:
+  - install-and-configuration
+  - problems-and-puzzles
+preview: nakedalm-windows-logo-4-4.png
 ---
 
 Move an Azure storage blob to another store took a little bit longer than I thought that it would. All I wanted to do was move a VHD from one storage account to another. However this is a little more complicated than it seems on the surface.

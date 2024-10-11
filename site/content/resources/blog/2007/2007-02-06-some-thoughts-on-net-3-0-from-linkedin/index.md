@@ -1,19 +1,18 @@
 ---
+title: Some thoughts on .NET 3.0 from LinkedIn
+date: 2007-02-06
+creator: Martin Hinshelwood
 id: "436"
-title: "Some thoughts on .NET 3.0 from LinkedIn"
-date: "2007-02-06"
-categories:
-  - "code-and-complexity"
-tags:
-  - "wpf"
-coverImage: "metro-binary-vb-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "some-thoughts-on-net-3-0-from-linkedin"
-
+slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
   - /blog/some-thoughts-on-net-3-0-from-linkedin
+tags:
+  - wpf
+categories:
+  - code-and-complexity
+preview: metro-binary-vb-128-link-1-1.png
 ---
 
 I was asked on LinkedIn:

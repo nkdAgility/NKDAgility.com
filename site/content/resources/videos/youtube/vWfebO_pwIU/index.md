@@ -4,7 +4,7 @@ date: 2023-04-07T07:00:20Z
 videoId: vWfebO_pwIU
 url: /resources/videos/why-most-scrum-masters-only-have-psmi!
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
-coverImage: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
+preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
 isShort: False
 ---

@@ -1,19 +1,18 @@
 ---
+title: HTC Touch / Black Shadow Weather
+date: 2007-08-01
+creator: Martin Hinshelwood
 id: "351"
-title: "HTC Touch / Black Shadow Weather"
-date: "2007-08-01"
-categories:
-  - "products-and-books"
-tags:
-  - "windows-mobile-6"
-coverImage: "nakedalm-logo-128-link-1-1.png"
-author: "MrHinsh"
 layout: blog
 resourceType: blog
-slug: "htc-touch-black-shadow-weather"
-
+slug: htc-touch-black-shadow-weather
 aliases:
   - /blog/htc-touch-black-shadow-weather
+tags:
+  - windows-mobile-6
+categories:
+  - products-and-books
+preview: nakedalm-logo-128-link-1-1.png
 ---
 
 If you want to have you city displayed in the HTC Weather Home screen then you need to do some editing!
