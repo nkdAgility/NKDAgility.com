@@ -79,3 +79,4 @@ Well, that's it.
 My first customer has moved Source Control & Work Item Tracking to Visual Studio 11 Team Foundation **Service**. Granted it was an easy one, and not all are. But I just wanted to show how easy it can be. The barrier for entry on this one was practically nil and it was an awesome and painless experience for both the customer and me.
 
 In a couple of weeks I will loop back with that customer to see how they are getting on and to setup Automated Build for them…
+

@@ -67,3 +67,4 @@ I can’t imagine what was trying to be achieved by this… so I will leave you 
 
 [![ImpliedFacePalm](images/ImpliedFacePalm_thumb-6-6.jpg "ImpliedFacePalm")](http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg)
 { .post-img }
+

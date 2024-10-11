@@ -29,3 +29,4 @@ I was especially interested in a class property manager thingy that is used in w
 Mike, if you are listening, and can decipher my cryptic description, can you answer this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
+

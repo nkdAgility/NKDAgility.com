@@ -192,3 +192,4 @@ Remember that [Team Foundation Server 2013 is production ready](http://nkdagilit
 If you have the Preview you should upgrade and anyone on 2010or 2012 should seriously consider the features available. Remember also that you can still use VS 2010 and VS 2012 with TFS 2013.
 
 Originally posted on The Microsoft Award Program Blog as Visual Studio 2013 RC Released ([source](http://blogs.msdn.com/b/mvpawardprogram/archive/2013/09/09/visual-studio-2013-rc-released.aspx))
+

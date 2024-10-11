@@ -82,17 +82,33 @@
   }
 
   .breadcrumb-item::after {
-    content: ">";
+    font-family: "Font Awesome 6 Pro";
+    content: "\f054"; /* Unicode for FontAwesome chevron-right */
+    font-weight: 900; /* Ensures the solid style of the FontAwesome icon */
     margin-left: 10px;
   }
 
-  .breadcrumb-item:last-child {
-    display: none; /* Hide the last breadcrumb item */
+  .icon::before {
+    display: none;
   }
 
-  .breadcrumb-item:nth-last-child(2)::after {
+  .icon::after {
+    display: none;
+  }
+
+  .breadcrumb-item:nth-last-child(1)::after {
     content: none; /* Remove the arrow after the second-to-last item */
   }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: none !important; /* Removes the default slash separator */
+  }
+
+  /*
+      .breadcrumb-item:last-child {
+        display: none; /* Hide the last breadcrumb item
+      }
+  */
 
   .breadcrumb-item a {
     text-decoration: none;
@@ -100,11 +116,7 @@
   }
 
   .breadcrumb-item.active {
-    font-weight: bold;
+    font-weight: lighter;
     color: #333;
-  }
-
-  .breadcrumb-item + .breadcrumb-item::before {
-    content: none !important; /* Removes the default slash separator */
   }
 </style>

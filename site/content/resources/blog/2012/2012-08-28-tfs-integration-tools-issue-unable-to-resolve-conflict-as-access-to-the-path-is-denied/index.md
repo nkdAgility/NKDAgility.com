@@ -46,3 +46,4 @@ Add the TFSIPEXEC_WPG permission to the folder with full rights.
 **Figure: Model dialog galore**
 
 Once you have added permissions you will be able to resolve the conflicts…
+

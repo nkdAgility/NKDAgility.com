@@ -88,3 +88,4 @@ There are a number of features I would like to see in Plaxo as, although they ar
 - Adding the ability to sync RSS feed lists with Outlook, IE, Google and others....
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
+

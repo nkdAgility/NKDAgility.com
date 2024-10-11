@@ -178,3 +178,4 @@ If you remove the “BUILTINAdministrators” group from the “Team Foundation 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

@@ -26,3 +26,4 @@ I have upgraded my CodePlex project to use WCF, and what a difference it makes:
 It is amazing what a few attribute tags can make.
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+

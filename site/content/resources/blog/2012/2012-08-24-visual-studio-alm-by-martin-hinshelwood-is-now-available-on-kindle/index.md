@@ -22,3 +22,4 @@ preview: nakedalm-logo-128-link-2-2.png
 **Figure: My blogs amazon page**
 
 If you think that this is useful you can [get this blog delivered wirelessly to your Kindle](http://www.amazon.com/gp/product/B0091KW2GK/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0091KW2GK&linkCode=as2&tag=martinhinshe-20)…
+

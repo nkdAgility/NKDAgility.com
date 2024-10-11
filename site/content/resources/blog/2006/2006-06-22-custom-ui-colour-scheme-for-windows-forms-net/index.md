@@ -188,3 +188,4 @@ Once you have done this, all you need now is to add it to your contols:
 All done! If you have problems you can inherit from the ToolStrip control and change the renderer in the constructor...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

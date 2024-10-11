@@ -78,3 +78,4 @@ If you go into Microsoft today and ask them what has changed since they were a t
 The world operates at a much higher frequency than it ever did before and a [lack of learning, innovation, and evolution of our processes, practices, and tools](https://nkdagility.com/blog/bureaucracy-is-the-enemy-of-agility/) is the realm of the Luddite.
 
 **Luddites have no place in the modern organisation #daretochange. Don't be a Luddite!**
+

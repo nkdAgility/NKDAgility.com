@@ -60,3 +60,4 @@ We are meeting at Microsoft's offices in Edinburgh in Waterloo Place. This is th
 \[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]
 
 Technorati Tags: [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM) [VS 2010](http://technorati.com/tags/VS+2010)
+

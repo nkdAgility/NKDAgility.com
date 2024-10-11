@@ -26,3 +26,4 @@ That is the advantage of using SharePoint. It can do pretty much anything: If no
 Its all about standards...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

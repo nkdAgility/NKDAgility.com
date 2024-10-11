@@ -155,3 +155,4 @@ You now have a build definition configured and you can queue a new build. You ca
 ### Conclusion
 
 All in all I am very impressed with the current system. My only issue, as you see the build failed above, is that I get a PowerShell version miss match during execution. This may be due to me using Windows Server Technical Preview as by build platform and I have reached out to the awesome build guys to find out what the issue is. In the mean time I will likely build out a Server 2012 R2 to do more testing…
+

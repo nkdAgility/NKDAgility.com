@@ -47,3 +47,4 @@ And after the upgrade?
 Now I can run WITADMIN commands again.
 
 You should always make sure that you have the latest version of whatever software that you want to use to make sure that you get compatibility with the tools. Even if you can't upgrade a full version you should never have less than TFS 2010 SP1, TFS 2012.4, or TFS 2013.2.
+

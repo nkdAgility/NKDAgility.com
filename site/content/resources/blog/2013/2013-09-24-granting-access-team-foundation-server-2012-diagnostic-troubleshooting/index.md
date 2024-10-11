@@ -42,3 +42,4 @@ This gives that group explicit access.
 Figure: Use the command line to grant diagnostic troubleshooting permission
 
 What might be a better and more manageable solution would be to create a group called “Team Foundation Troubleshooters” and instead grant that group permission to that access control. This is done in exactly the same way, you just need to replace the domain account with the TFS Group.
+

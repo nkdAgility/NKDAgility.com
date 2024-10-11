@@ -33,3 +33,4 @@ Figure: Install & Configure 101 - TFS 2013 Standard Single Server Install
 This should give you some idea on how to install and configure TFS and how easy it is. Managing TFS is mostly, apart from configuring a backup, a leave alone statement. It mostly manages and maintains itself until you get to large database sizes. And by large I mean terabytes :)
 
 How did you get on with your TFS installs?
+

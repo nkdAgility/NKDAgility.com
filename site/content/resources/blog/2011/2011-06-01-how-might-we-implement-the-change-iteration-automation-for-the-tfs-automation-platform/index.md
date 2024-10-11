@@ -97,3 +97,4 @@ This particular automation is a very short run thing, but there may be others th
 This process will be a welcome first addition to the TFS Automation Platform and it looks like it is going to exercise at least the UI, Configuration and TFS Job Service sections that we plan on building.
 
 I am really looking forward to getting started on this…
+

@@ -38,3 +38,4 @@ This is why Scrum.org (Ken Schwaber) & Scrum Inc. (Jeff Sutherland) have joined 
 { .post-img }
 
 The first two ever public courses for Scrum at Scale is available: [https://www.scrum.org/courses/scrum-at-scale](https://www.scrum.org/courses/scrum-at-scale)
+

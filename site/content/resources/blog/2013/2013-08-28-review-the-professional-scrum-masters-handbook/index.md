@@ -58,3 +58,4 @@ Sad but true…
 { .post-img }
 
 If you are a Project Manager moving to Scrum then this book will help you with the transition to a new way of thinking. Remembering that this is an embodiment of the mechanics and not the principals.
+

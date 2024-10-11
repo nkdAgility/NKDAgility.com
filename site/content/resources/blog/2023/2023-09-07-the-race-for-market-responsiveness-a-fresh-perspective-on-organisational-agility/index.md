@@ -44,3 +44,4 @@ Around 99% of all animal species that ever existed are extinct. What percentage 
 Many of the big companies seem is repeatedly unable to adapt to the ever-changing markets, but their existing cash reserves protect them from failure. It will not last forever...
 
 It's time for organisations to wake up and smell the coffee. The race for market responsiveness is on, and those who adapt will be kept up. It's not about being 'agile' or implementing SAFe - it's about being able to seize opportunities, pivot, and handle surprises faster than our competitors. It's about survival of the fittest.
+

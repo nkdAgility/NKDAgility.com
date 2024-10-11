@@ -67,3 +67,4 @@ I have not determined how long it takes to 'close account' but so far I can't re
 ## Conclusion
 
 There is now no reason to end up in the multi-account nightmare that many of my colleagues have allowed to happen. You can maintain the minimum you need to get the job done and even switch the primary email.
+

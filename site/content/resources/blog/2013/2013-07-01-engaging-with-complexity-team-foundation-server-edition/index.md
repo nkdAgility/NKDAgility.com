@@ -420,3 +420,4 @@ All you need is a mapping CSV with a column for the old and new account names.
 ## Conclusion and more to come
 
 This is the first stage of a large complicated move that [involves SharePoint](http://nkdagility.com/engaging-with-complexity-sharepoint-edition/) as well, which I am helping the customer with.  The folks there are awesome and I hope to be back helping them out soon. For now they have lots of practice of this process to do and I wish them lots of luck…
+

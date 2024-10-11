@@ -84,3 +84,4 @@ Awesome. I now have both Visual Studio 2013 and Visual Studio 2015 installed sid
 - [Download Visual Studio 2015 Preview](http://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs)
 
 Its presents from Microsoft time. Go on be a kid again and install Visual Studio 2015.
+

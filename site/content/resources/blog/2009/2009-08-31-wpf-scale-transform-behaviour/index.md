@@ -310,3 +310,4 @@ As you can see I am heavily utilizing the Infragistics controls, but that would 
 krsu46zvpt
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM)
+

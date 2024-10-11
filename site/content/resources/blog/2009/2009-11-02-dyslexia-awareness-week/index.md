@@ -30,3 +30,4 @@ If only our education systems would take advantage of these differences...
 { .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
+

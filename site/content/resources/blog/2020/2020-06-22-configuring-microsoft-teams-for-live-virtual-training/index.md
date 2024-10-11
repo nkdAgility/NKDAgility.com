@@ -175,3 +175,4 @@ Branding and Custom Domain in action
 ## Conclusion to Configuring Microsoft Teams for Live Virtual Training
 
 While there is a lot of setup and configuration before you can run your first class the holistic experience for students is far better than any of the other platforms that I have used or participated in.
+

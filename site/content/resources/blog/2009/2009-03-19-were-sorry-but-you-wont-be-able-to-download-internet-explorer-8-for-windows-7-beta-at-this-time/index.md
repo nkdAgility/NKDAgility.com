@@ -25,3 +25,4 @@ This is, as you would expect, the best browser from Microsoft to date. And yes, 
 UPDATE (2009-03-23): Apparently an independent study study by Microsoft has shown that IE8 is faster than Firefox and Chrome! I will be using IE8 even if that is not true :)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

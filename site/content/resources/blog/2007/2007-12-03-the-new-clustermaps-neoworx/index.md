@@ -24,3 +24,4 @@ I think that the globe above , while cool, is a wee bit to gimmicky for that pur
 All it needs is for [NeoWORX](http://www.neoworx.net/) to provide some sort of SDK with a local install of the engine for corporate customers to send their application any Geo tagged data :) With, hopefully, the ability to control what appears in the popup's :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF)
+

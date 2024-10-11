@@ -28,3 +28,4 @@ If you want to [suggest another feature](http://www.codeplex.com/TFSStickyBuddy/
 If you are interested [TFS Sticky Buddy v1.0](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=12683) has been downloaded 256 times since Apr 21 2008... No I am not making it up....
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+

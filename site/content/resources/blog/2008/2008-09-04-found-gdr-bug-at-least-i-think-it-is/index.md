@@ -83,3 +83,4 @@ I have submitted a [Bug](https://connect.microsoft.com/VisualStudio/feedback/Vie
 Bug: [GDR - derived tables](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=366059)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

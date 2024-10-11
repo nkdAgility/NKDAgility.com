@@ -71,3 +71,4 @@ Simultaneously, to truly maximise team output, we must also focus on the value o
 { .post-img }
 
 The ultimate goal is to enhance both throughput and value concurrently. Striking a balance is crucial; we neither want sluggish excellence nor a barrage of mediocrity.
+

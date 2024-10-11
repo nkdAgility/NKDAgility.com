@@ -53,3 +53,4 @@ So if you are looking for an adoption strategy for Microsoft Test Manager then:
 3. **Training:** [**Professional Scrum Developer**](http://nwcadence.com/PSDTraining)  
    Although we don’t have any public PSD’s scheduled, which is why you will not find it on our site, we do provide it as part of private engagements.
 4. **Start building awesome software…**
+

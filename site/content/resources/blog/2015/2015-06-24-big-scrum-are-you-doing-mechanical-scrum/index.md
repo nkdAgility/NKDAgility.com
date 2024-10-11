@@ -46,3 +46,4 @@ It beggars belief that so many organisations only practice flaccid Scrum and was
 Is your organisation paying lip service to the values and principals? Does it feel more like 'yeeha', or a group of professionals?
 
 Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
+

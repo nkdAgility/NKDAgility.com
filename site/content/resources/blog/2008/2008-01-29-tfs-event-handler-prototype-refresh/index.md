@@ -41,3 +41,4 @@ Some ideas for Event Handlers:
 **Can you think of any more you would like?** [Send them on a postcard to...](https://www.codeplex.com/Thread/View.aspx?ProjectName=TFSEventHandler&ThreadId=21219 "Send me your ideas for new Event Handlers")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
+

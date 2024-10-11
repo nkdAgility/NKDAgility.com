@@ -35,3 +35,4 @@ I have been reading up on these FaultException thingies, here is the article I 
 This makes for good reading, and although a little scary on the output side, does highlight the problem and the solution!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [WCF](http://technorati.com/tags/WCF)
+

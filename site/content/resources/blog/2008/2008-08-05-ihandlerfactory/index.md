@@ -106,3 +106,4 @@ End Namespace
 Then all we need to do is call our IsValidToRun method and either run the base (default) GetHandler or return our new handler…
 
 > Technorati Tags: [.NET 3.5](http://technorati.com/tags/.NET+3.5),[.NET 2.0](http://technorati.com/tags/.NET)
+

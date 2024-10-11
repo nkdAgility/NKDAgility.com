@@ -46,3 +46,4 @@ Each of the Sprints in a Scrum project can be considered a mini-project that has
 **Figure: Good Example, the product owner should reply to the team and commit to the contract**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

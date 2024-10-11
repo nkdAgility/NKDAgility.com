@@ -220,3 +220,4 @@ For each hat that your users may wear that equates to roles there are separate t
 With these continuous quality practices, coupled with tools that are tailored for each role we are able to more easily and effectively achieve continuous value delivery at least every 30 days.
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/quality-enablement-with-microsoft-visual-studio-2012/))_
+

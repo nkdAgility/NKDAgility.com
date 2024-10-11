@@ -87,3 +87,4 @@ Reference
 - \*\* Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 
 - \*\*\* System of Profound Knowledge by W. Edwards Deming
+

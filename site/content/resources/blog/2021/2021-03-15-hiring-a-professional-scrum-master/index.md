@@ -127,3 +127,4 @@ Sources:
 - [Scrum Master job description | Scrum.org](https://www.scrum.org/forum/scrum-forum/5366/scrum-master-job-description)
 
 - [Scrum Master job description - The Ultimate Description (luis-goncalves.com)](https://luis-goncalves.com/scrum-master-job-description/)
+

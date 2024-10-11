@@ -85,3 +85,4 @@ There is NO way that you can have SCVMM and RS running under AD Credentials to c
 As my mother used to do with my brother and I: i separated them.
 
 Simples!
+

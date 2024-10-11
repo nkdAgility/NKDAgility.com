@@ -24,3 +24,4 @@ From the early propaganda on Vista I had though that this was the point! But it 
 Hopefully Microsoft will rectify this over time...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

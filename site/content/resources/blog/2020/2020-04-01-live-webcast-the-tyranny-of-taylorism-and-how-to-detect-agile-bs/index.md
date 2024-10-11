@@ -40,3 +40,4 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 ​
+

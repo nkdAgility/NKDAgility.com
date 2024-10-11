@@ -30,3 +30,4 @@ Head over to [Codeplex](http://codeplex.com) and vote for your favourite feature
 [Issue Tracker](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx "Issue Tracker")
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

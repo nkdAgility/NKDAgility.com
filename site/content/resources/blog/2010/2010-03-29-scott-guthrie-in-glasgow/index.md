@@ -83,3 +83,4 @@ What _was_ Scott working on on his flight back to the US? ![Tongue out](images/S
 Follow: [@CAMURPHY](http://twitter.com/CAMURPHY "http://twitter.com/CAMURPHY"), [@ColinMackay](http://twitter.com/ColinMackay "http://twitter.com/ColinMackay"), [@plip](http://twitter.com/plip "http://twitter.com/plip") and of course [@ScottGu](http://twitter.com/ScottGu)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2010](http://technorati.com/tags/VS+2010) [WP7](http://technorati.com/tags/WP7) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight)
+

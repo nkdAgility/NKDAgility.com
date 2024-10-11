@@ -42,3 +42,4 @@ HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftVisualStudio10.0TeamFoundationRequ
 You can find out more on the “[How to: Change the BypassProxyOnLocal Configuration](<http://msdn.microsoft.com/en-us/library/bb909716(loband).aspx>)” documentation on MSDN.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

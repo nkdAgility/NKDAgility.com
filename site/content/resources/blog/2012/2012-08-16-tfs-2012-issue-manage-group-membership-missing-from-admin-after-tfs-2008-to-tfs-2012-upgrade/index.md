@@ -88,3 +88,4 @@ Now that you have the GUID for the Team Project you can execute the command abov
 Hopefully there will be a better way to get the Team Project GUID once the RTM version of the Power Tools becomes available and that there will be a hotfix for this annoying bug in the upgrade.
 
 **Did this fix your problem?**
+

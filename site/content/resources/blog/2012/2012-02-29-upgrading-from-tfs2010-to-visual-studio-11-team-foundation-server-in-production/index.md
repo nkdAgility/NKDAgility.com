@@ -259,3 +259,4 @@ You will want to do lots of exercising of the features to make sure that everyth
 Remember that there is [Go-Live for Visual Studio 11 Team Foundation Server](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
+

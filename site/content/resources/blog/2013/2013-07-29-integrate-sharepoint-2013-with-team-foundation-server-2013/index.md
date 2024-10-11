@@ -202,3 +202,4 @@ Figure: No longer blank
 Now we have a lovely TFS integrated SharePoint dashboard with first level document integration from Visual Studio.
 
 Phew… Done…
+

@@ -13,20 +13,20 @@ isShort: False
 
 # If you could teach just one thing about Scrum, what would it be?
 
-_Empiricism & Complexity: Unlocking True Scrum Potential_ - Explore the core of Scrum beyond mechanics: Empiricism and Complexity. Understand how these principles drive successful outcomes and empower teams. #Scrum #Empiricism
+*Empiricism & Complexity: Unlocking True Scrum Potential* - Explore the core of Scrum beyond mechanics: Empiricism and Complexity. Understand how these principles drive successful outcomes and empower teams. #Scrum #Empiricism
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the heart of Scrum, highlighting the significance of _empiricism_ and _complexity_. He challenges conventional teaching, advocating for a deeper understanding of these principles to adapt Scrum to varying circumstances. 🧐🔄 Martin's insights will enlighten teams and leaders alike, reshaping their approach to Scrum and project management. 🚀
 
-_Key Takeaways:_
+*Key Takeaways:*
 00:00:20 Importance of Empiricism and Complexity in Scrum
 00:00:59 Understanding Variability in Outcomes
 00:01:58 Empowering Teams in Methodology Choice
 00:02:32 Critical Analysis of Standard Scrum Teachings
 00:02:47 Value of Each Element in Scrum
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _find it hard to integrate empiricism and complexity in your Scrum practices_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

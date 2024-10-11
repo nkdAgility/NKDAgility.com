@@ -27,3 +27,4 @@ I do not know what the bandwidth is like, but the fact that you cant set the syn
 Setup you phone by going to [http://myphone.microsoft.com](http://myphone.microsoft.com "http://myphone.microsoft.com")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
+

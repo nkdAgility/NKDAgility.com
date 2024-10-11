@@ -71,3 +71,4 @@ These two are very different classes that are founded on the same core theory, p
 You don't have to take the [Applying Professional Kanban](https://nkdagility.com/training/courses/applying-professional-kanban-training-with-certification/) training to take the assessment. They are decoupled and they have an excellent [Kanban Learning Resources](https://prokanban.org/kanban-learning-resources/) page that will help you get started. I have forked that resource and will be adding some of my own items on the [Study Guide for Professional Kanban](https://nkdagility.com/study-guide-for-professional-kanban/).
 
 **Join us in the world of Professional Kanban!**
+

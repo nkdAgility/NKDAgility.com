@@ -93,3 +93,4 @@ These customisations are non-intrusive and have a limited impact on reporting an
 ## Conclusion
 
 Choose the Microsoft Visual Studio Scrum process template if you don't want to be limited by MSF. What other customisations do you make to your Scrum template to support your lean-agile process?
+

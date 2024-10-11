@@ -82,3 +82,4 @@ While heavy handed it does clean up things nicely.
 ## Conclusion
 
 We can only hope that this will be a feature of dev12! And what else might the product team decide to do with an un-versioned store? Symbols; Nuget Packages… the options are endless…
+

@@ -48,3 +48,4 @@ The Release Management team however have created a handy utility that may make i
 > C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Release Management\\bin\\ReleaseManagementConsoleAdjustConfigFile.exe –configfilename   .\\Microsoft.TeamFoundation.Release.Data.dll.config -newwebserverurl http://bvtirserverpod1:1000
 
 In this way you can update the server when you move from site to site. If you switch between client sites often it might be useful to create batch files on your desktop for launching the client with the right connection. Just call the connection change and then launch the app. Simples...
+

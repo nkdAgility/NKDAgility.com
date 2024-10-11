@@ -116,3 +116,4 @@ Once you have made your changes you can save and remember to check in to see the
 In this case all of the Register tags with the TagPrefix of "WpNs\*" needs to be removed and any associated controls removed.
 
 This will fix any issues with the pages loading.
+

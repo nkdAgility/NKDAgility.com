@@ -18,3 +18,4 @@ I have just installed VS2005 on vista. Although I was setup for a whole host of 
 Role on SP1
 
 Technorati Tags: [VS 2005](http://technorati.com/tags/VS+2005)
+

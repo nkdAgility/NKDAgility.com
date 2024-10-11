@@ -109,3 +109,4 @@ Forget the unbelievably cool features that made it into TFS 2010, these are the 
 With all of these things built into the product there is even fewer excuses for Development Teams to be unable to deliver high quality product within an agile process that provides value to the customer…
 
 **Are you thinking of installing or upgrading to Visual Studio 2012 Team Foundation Server? Do you need help?**
+

@@ -93,3 +93,4 @@ And I picked a significantly large post with lots of images to get 6s before and
 
 But its not the number that matter. My blog now feels responsive and I don’t roll my eyes every time I want to view another page. This is what I am happy with…and all of the pain of moving was worth the result..so far ![Smile](images/wlEmoticon-smile-10-10.png)
 { .post-img }
+

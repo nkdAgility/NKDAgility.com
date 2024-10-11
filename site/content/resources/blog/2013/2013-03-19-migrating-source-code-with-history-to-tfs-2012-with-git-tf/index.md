@@ -64,3 +64,4 @@ git checkin
 The result of this is a move from my Team Foundation Service cloud account to my local test Team Foundation Server virtual machine.
 
 If you are trying to move your source code from anything to Team Foundation Server this may be a good option. Its robust and will bring history across. I have not tested this at load but it should support reasonable sized repositories, large however will need some testing…
+

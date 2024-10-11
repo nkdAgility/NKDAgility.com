@@ -42,3 +42,4 @@ Mind blown…
 { .post-img }
 
 My solution was to just give contributors access only to labels at the root. This stops that pesky error from occurring in the IDE and really does not pose a security risk.
+

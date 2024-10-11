@@ -175,3 +175,4 @@ This will allow you to move from one process template to another, but there are 
        **Figure: Link Types only need to be added once**
 
 And you are done.
+

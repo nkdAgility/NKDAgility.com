@@ -125,3 +125,4 @@ This environment contains:
 - **Application Insights (nkd-ff-f2-AI)** - Collects the application analytics that we will push into our application. If you are deploying multiple applications on the same hardware you may want to separate the data.
 
 Next time I will be deploying an application to this environment that we created.
+

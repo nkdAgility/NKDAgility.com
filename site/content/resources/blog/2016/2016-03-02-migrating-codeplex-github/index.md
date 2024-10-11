@@ -79,3 +79,4 @@ Git push -u github master`
 And that’t it, you might want to look at migrating other stuff like Releases and Issues, but really this is good enough for most people. Once you are happy you can go mark your CodePlex project as migrated..
 
 Check out my migration on [https://github.com/MrHinsh/gwb-to-wordpress](https://github.com/MrHinsh/gwb-to-wordpress)
+

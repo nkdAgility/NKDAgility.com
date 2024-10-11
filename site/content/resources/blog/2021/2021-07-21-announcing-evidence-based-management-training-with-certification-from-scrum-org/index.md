@@ -61,3 +61,4 @@ Just as the PAL gets you to think about how you lead an organisation, the PAL-EB
 ## Our upcomming classes!
 
 \[wpv-view name="2021-coursescheduleforposts"\]
+

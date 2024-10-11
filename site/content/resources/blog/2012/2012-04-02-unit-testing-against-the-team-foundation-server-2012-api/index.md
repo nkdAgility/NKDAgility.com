@@ -205,3 +205,4 @@ Woot, they all pass… now to write some more.
 ### Conclusion
 
 If you are using a Behaviour Driven Development (BDD) framework to tests your scenarios (SpecFlow works well with Visual Studio 2012) then you will need to load your service credentials so that we can test without having a user enter credentials…
+

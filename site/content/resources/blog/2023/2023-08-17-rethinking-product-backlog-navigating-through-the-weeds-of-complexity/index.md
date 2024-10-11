@@ -75,3 +75,4 @@ The relationship between strategy and the Product Backlog is subtle. The strateg
 Ultimately, the goal is to create a resilient, adaptable ecosystem capable of thriving amidst the uncertainties of complex product development. This involves creating flexible structures, fostering a culture that values learning and adaptation, and equipping teams with the autonomy to make decisions.
 
 **_What's in your backlog?_**
+

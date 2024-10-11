@@ -25,3 +25,4 @@ This is excellent and everyone should have some sort of [backup](http://mozy.com
 Really, [Mozy](http://mozy.com/?ref=8R96AG) is a good backup solution and I have been using it for my family and me for a good wee while. In fact, with 2gb for free, if anyone asks me to setup their computer (“No I will not fix yours!”) then I always add it as it makes it way easier to reload from a crash…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

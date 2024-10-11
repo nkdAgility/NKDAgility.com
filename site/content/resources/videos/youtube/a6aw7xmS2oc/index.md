@@ -15,11 +15,11 @@ isShort: False
 
 The Entrepreneurial Stance: Key Considerations for Product Owners! Dive into the entrepreneurial mindset of product owners! Discover how to connect teams to value and make evidence-based decisions. 🎯📊
 
-_Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility_
+*Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility*
 
 In this video, Martin delves into the essence of the entrepreneurial stance for product owners. 🚀🧠 He paints a vivid picture of the visionary role of product owners, emphasizing the importance of looking forward and anticipating the future. The first crucial element Martin touches upon is the connection between the team's daily work and the overarching value being created. Does every team member see the bigger picture? 🌌🔗
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate. If you find it hard to connect your team to value or make evidence-based decisions, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can.
 
@@ -30,6 +30,6 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 
 Because you don't just need agility, you need Naked Agility.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)

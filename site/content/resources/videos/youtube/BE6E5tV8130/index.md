@@ -23,7 +23,7 @@ In this short video, Martin Hinshelwood describes the difference between #projec
 
 About NKD Agility
 
-If you’re thinking of adopting #agile for your #productdevelopment and #projectmanagement needs, consider #SAFe aka #scaledagileframework. One of the most popular scaling frameworks for #agile in the world.
+If you’re thinking of adopting #agile for your #productdevelopment and #projectmanagement needs, consider #SAFe aka #scaledagileframework. One of the most popular scaling frameworks for #agile in the world. 
 
 Connect with Nader Talai on LinkedIn at https://www.linkedin.com/in/nadertalai/
 

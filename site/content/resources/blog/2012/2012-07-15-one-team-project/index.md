@@ -117,3 +117,4 @@ Remember that whatever process template that you pick it is but a starting point
 Not only is larger Team Projects the recommendation of [almost all of the experts in the field](http://blog.hinshelwood.com/when-should-i-use-areas-in-tfs-instead-of-team-projects-in-team-foundation-server-2010/), it is also the recommendation and expectation of the product team for mature teams and organisations using Team Foundation Server.
 
 **How are Team Projects used at your organisation?**
+

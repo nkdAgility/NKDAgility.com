@@ -114,3 +114,4 @@ So with 40+ hours invested in getting this new database ready the customer threw
 
 - What would you do?
 - Would you take the “cut and shut” to production and hope for the best?
+

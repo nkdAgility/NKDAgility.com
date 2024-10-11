@@ -154,3 +154,4 @@ While you can use the Process configuration above to change the process template
 ## Conclusion
 
 Have you been playing with the TFS API in PowerShell? The advantage of a scripting language is obvious in the versatility of both edit-ability and runtime execution of commands to figure out what you need to do. I would have loved for TFS to have built in commands, but with access to the API’s there really is no need. You can do whatever you want.
+

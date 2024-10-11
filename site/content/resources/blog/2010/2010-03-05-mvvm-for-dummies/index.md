@@ -83,3 +83,4 @@ End Class
 **Figure: This is a compromise, but the best you can do without Dependency Injection**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM)
+

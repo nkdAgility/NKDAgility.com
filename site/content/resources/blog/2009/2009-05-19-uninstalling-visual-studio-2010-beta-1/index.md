@@ -74,3 +74,4 @@ Now to VS2010… And if my infrastructure team get me my VPC there will be [TFS]
 So the end result is that although I have not uninstalled .NET 4.0, I do have the latest version which is what I wanted…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

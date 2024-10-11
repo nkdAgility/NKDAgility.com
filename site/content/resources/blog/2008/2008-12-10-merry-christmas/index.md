@@ -25,3 +25,4 @@ Merry Christmas from the Hinshelwood family.
 If you are having problems accessing or see a blank box, try ([http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=cgijAPrn4DOVeeOU&service=sendables.jibjab.com&partnerID=ElfYourself](http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=cgijAPrn4DOVeeOU&service=sendables.jibjab.com&partnerID=ElfYourself "http://aka.zero.jibjab.com/client/zero/ClientZero_EmbedViewer.swf?external_make_id=cgijAPrn4DOVeeOU&service=sendables.jibjab.com&partnerID=ElfYourself")). It is most likely a proxy problem…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

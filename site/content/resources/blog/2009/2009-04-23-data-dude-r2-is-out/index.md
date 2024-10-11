@@ -22,3 +22,4 @@ If you are an avid [Data Dude](http://www.microsoft.com/downloads/details.aspx?F
 Have you ever wanted to be able to deploy a new version of your database from a USB memory stick and have it automatically produce a differencing script and run it against the target :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Software Development](http://technorati.com/tags/Software+Development) [TFS](http://technorati.com/tags/TFS)
+

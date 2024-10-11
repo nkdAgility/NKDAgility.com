@@ -66,3 +66,4 @@ So I set the Status of this build to 2 (cancelled) and sure enough it disappeare
 **Figure: Almost completely clean**
 
 Now all I have to do is get rid of that untidy “zzBunyip” agent, but that will require rewriting one of our build scripts which will have to wait for now.
+

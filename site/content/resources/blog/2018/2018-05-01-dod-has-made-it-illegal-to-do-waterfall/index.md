@@ -112,3 +112,4 @@ Unfortunately the project had taken so long that the hardware that had been boug
 { .post-img }
 
 In early 2012 the FBI shipped to production on the new refreshed hardware and saw significant improvements for a much lower cost.
+

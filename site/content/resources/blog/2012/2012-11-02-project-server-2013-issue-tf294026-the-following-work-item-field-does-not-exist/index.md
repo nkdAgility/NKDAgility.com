@@ -74,3 +74,4 @@ Warning The documentation on MSDN is currently out of date and misses two fields
 **Figure: Add both Original Estimate and Completed Work**
 
 Although we are adding these fields to the Task type we are not necessarily adding them to the UI for users to fill out. We can leave them available for Project Server, while out Team Members of a Scrum Team would be blissfully ignorant of their existence.
+

@@ -47,3 +47,4 @@ Moving the Cache is pretty easy and should allow you to organise your server spa
 4.  The app pool will automatically recycle and Team Web Access will start using the new location.
 
 If you then download a file (not via a proxy) a folder with a GUID should be created immediately in the folder from #1.  If the folder doesn’t appear, then you probably don’t have permissions set up properly.
+

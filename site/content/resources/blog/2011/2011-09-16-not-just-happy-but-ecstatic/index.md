@@ -42,3 +42,4 @@ I can fly to the UK from Seattle for $733 (£464.00) return! That is cheaper tha
 Not saying I am going to, but I am a little more inclined to seek clients in Europe as well.
 
 p.s. The metaphorical **Rolled Up Newspaper** approach works very well for developers.
+

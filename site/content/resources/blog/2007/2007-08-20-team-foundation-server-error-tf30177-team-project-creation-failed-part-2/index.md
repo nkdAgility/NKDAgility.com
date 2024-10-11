@@ -86,3 +86,4 @@ Once you have added this Managed Path you will need to modify TFS to create site
 Well that's it, debugging team server errors is fun, but not for the faint hearted...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

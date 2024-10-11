@@ -31,3 +31,4 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
+

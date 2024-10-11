@@ -77,3 +77,4 @@ This makes Excel 2013 a premier reporting and data manipulation tool in the ALM 
 ### Conclusion
 
 The new Office 2013 gives us the same awesome tool is a slicker faster package and there is no way that I will be complaining about that…
+

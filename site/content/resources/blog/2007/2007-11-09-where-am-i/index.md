@@ -79,3 +79,4 @@ Now that is nuts ![smile_omg](images/smile_omg-6-2.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+

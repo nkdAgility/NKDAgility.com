@@ -91,3 +91,4 @@ When you execute the command TFS will go off and add the account to the group. Y
 Figure: Green tick for account that now has make requests on behalf of others
 
 I could have given explicit permission to that account or even created a special group with just that permission but this is the recommended option to solving the problem.
+

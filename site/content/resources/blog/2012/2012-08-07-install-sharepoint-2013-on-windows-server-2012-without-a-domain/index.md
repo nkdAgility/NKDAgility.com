@@ -228,3 +228,4 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
+

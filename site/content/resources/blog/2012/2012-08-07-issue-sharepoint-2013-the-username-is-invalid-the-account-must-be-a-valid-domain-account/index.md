@@ -59,3 +59,4 @@ Use a PowerShell command to create the initial configuration of the farm with a 
 This works just fine with SQL Server 2012.
 
 **Did this help you?**
+

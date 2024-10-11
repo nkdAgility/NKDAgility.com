@@ -36,3 +36,4 @@ I will be creating a series of posts on the different guidance options as many p
 - More coming soon…
 
 These solutions took a very long time to put together and I wanted to make sure that we all understand the value of the free time that member of The Product Team, Visual Studio ALM MVP’s and partners put in to make them happen.
+

@@ -134,3 +134,4 @@ You should now have not just ‘enabled features’ but we have architected and 
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Enjoy…
+

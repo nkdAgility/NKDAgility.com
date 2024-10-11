@@ -60,3 +60,4 @@ The rest, as they say, is just logic. The "Run" method calls the "IsValid" and t
 Hopefully with this knowledge you will be able to make many many event handlers!
 
 _For the delayed CTP 1 of the [TFS Event Handler](http://www.codeplex.com/TFSEventHandler/) I have changed the logic quite a lot but the same IsValid and Run methods exist. The parameters are, however slightly different. I have taken into account security and you will have to make your own connection to the TFS server using your own username and password. I have changed this to protect the security of the application as I want developers to be able to upload event handler assemblies and WF workflow without having to get access to the server. I ahve also changed it so the service that captures the events is not the same one that runs the handlers. This allows me to send the events between these services using MSMQ, thus giving the service some much needed redundancy._
+

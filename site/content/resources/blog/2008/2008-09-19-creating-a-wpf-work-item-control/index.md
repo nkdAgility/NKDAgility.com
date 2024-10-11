@@ -1054,3 +1054,4 @@ The result?
 You will notice that this control is marked as read-only, but not bad for a first pass…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
+

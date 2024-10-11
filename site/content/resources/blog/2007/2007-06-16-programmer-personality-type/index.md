@@ -28,3 +28,4 @@ A good group is better than the sum of it's parts. The only thing better than a 
 Programming is a complex task and you should use white space and comments as freely as possible to help simplify the task. We're not writing on paper anymore so we can take up as much room as we need.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

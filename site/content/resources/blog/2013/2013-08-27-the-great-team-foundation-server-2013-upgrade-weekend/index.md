@@ -37,3 +37,4 @@ By registering early you can make sure that Microsoft has the appropriate number
 - [Register for the TFS 2013 Upgrade Weekend](http://aka.ms/TFSUpgradeWeekend "http://aka.ms/TFSUpgradeWeekend")
 
 Whatever option that you choose you will be happy with the results…
+

@@ -357,3 +357,4 @@ During my investigation I came across [WPFix Part 3 (Extension Methods)](http://
 I am looking for an easy solution :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

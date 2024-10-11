@@ -49,3 +49,4 @@ With this new normal the quality level expected of engineers is much higher than
 The engineering half of the Agile Developer needs tools to help them make life that much easier on their tester alter ego and on the businesses pocket book.
 
 Join me on [9th/10th of October in San Diego or Irvine](http://blog.hinshelwood.com/events/) to usher in a new era of software quality and delivery…
+

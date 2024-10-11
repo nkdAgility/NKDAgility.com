@@ -64,3 +64,4 @@ So create a usable working product on a regular cadence, close the feedback loop
 Stay connected to the market and business demands and create a usable working product of the highest possible value!
 
 This is the way!
+

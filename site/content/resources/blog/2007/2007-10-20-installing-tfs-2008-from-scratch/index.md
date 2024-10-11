@@ -46,3 +46,4 @@ But I still have the old issue of not being able to authenticate when I am on th
 This is no problem as that was how it worked in my previous environment. I think it is a proxy server issue, but I am not sure. Not much of a problem though...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

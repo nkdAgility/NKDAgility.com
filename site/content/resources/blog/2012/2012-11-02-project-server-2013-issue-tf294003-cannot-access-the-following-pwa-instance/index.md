@@ -80,3 +80,4 @@ I can almost hear generations of SharePoint administrator rolling over in their 
 **Figure: The mapping of Collection to Project Server 2013 Instance now works**
 
 This was a simple solution to a confusing problem…
+

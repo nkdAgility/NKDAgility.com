@@ -45,3 +45,4 @@ You can add extension methods randomly within your code, but it makes sense to p
 Have fun...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

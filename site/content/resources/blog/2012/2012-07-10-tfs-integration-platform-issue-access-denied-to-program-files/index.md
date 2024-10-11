@@ -43,3 +43,4 @@ Just in case the Integration Platform throws a “Conflict” that needs to be r
 ### Workaround
 
 Right click on the “Microsoft Team Foundation Server Integration Tools” and add permission for the account that you are running the TFS Integration Tools under.
+

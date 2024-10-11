@@ -42,3 +42,4 @@ We are working on the documentation, and folks struggle with the concept of the 
 { .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
+

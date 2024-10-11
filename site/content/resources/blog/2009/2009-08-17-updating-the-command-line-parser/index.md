@@ -291,3 +291,4 @@ I hope that if you are building command line apps that you will have a look, jus
 Get [Command Line Parser v2.0](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31651)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject)
+

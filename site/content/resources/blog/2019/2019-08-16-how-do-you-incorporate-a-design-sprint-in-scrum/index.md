@@ -42,3 +42,4 @@ Ultimately no work should be done in a vacuum or away from the scrutiny of the e
 Linking Team of Teams and Communities of Practice are critical for incorporating all of the skills required to build awesome software.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+

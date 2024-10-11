@@ -86,3 +86,4 @@ Especially:
 > - [Writing a programmer job description](http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=24706)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
+

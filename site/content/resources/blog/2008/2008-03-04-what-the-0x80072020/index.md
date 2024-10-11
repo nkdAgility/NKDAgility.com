@@ -31,3 +31,4 @@ This is not so good! What if I wanted to use the current users credentials to up
 Ahh well, I will live with it for now, but if anyone has another suggestion...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+

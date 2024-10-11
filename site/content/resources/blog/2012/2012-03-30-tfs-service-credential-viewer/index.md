@@ -69,3 +69,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
 5.  Done
 
 If you encounter an exception when clicking "Connect" the most likely cause if that you do not have Team Explorer 2012 installed
+

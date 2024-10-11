@@ -37,3 +37,4 @@ The Azure Services Training Kit February update now includes the following conte
 [http://go.microsoft.com/fwlink/?LinkID=130354](http://go.microsoft.com/fwlink/?LinkID=130354 "http://go.microsoft.com/fwlink/?LinkID=130354")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Azure](http://technorati.com/tags/Azure) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
+

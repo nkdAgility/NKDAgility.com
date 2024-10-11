@@ -87,3 +87,4 @@ However after a little perseverance and clicking at just the right time to get o
 Now that we are configured we can head over to Microsoft Test Manager, switch to the Lab Centre and configure an environment.
 
 What did you do with your environments connected to TF Service?
+

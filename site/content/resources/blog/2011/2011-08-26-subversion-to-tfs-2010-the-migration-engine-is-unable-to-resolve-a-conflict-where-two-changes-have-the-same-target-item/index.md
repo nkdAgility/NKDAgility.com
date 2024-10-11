@@ -162,3 +162,4 @@ For each item in the list, determine which one is in conflict and remove it manu
 It would be really nice if Timely could add the ability to view the conflicts only and be able to bulk apply the resolution as I am looking at 300+ conflicts in a single check-in. At least we are 68% of the way through this particular migration and the chances are (fingers crossed) that there will only be a few conflicts.
 
 **Let me know how you get on with your own migrations!**
+

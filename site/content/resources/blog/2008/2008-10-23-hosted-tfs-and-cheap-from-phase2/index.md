@@ -56,3 +56,4 @@ The guys over at Phase 2 provided me a [TFS server](http://www.phase2.com/hosted
 So, a fantastic offering. It should be pointed out that I was using a http connection to the server and not https, but I am sure that it will be available. The costs are very reasonable and a lot better than [TFS Now](http://www.tfsnow.com/), which I was going to compare to, but alas their site is down at the time of writing.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [MOSS](http://technorati.com/tags/MOSS) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

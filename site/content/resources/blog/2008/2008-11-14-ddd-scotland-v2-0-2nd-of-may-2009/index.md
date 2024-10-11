@@ -21,3 +21,4 @@ It seams that the event of the year is back! [Developer Day Scotland](http://dev
 Last year was a fantastic event that I enjoyed immensely :) I will be there… will you?
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

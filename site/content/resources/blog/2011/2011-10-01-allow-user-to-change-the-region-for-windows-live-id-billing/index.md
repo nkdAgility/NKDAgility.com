@@ -116,3 +116,4 @@ The only way to even attempt to fix this is to make sure that Microsoft realises
 - **User Voice (Windows Phone):** [**Allow changing your windows id location**](http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no "http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no")
 
 While your vote here, or rants on your own blog may not help, it is the best we can do….
+

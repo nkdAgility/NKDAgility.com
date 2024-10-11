@@ -72,3 +72,4 @@ Do, Inspect then Adapt…
 ---
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW](http://technorati.com/tags/SSW)
+

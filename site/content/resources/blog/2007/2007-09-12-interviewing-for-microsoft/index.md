@@ -93,3 +93,4 @@ Suffice to say that CLR was critical to getting the job, so I didn't. They did h
 So not a total loss. I have learned where my knowledge is deficient and how to rectify it...not a NO, but a NO for now...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WCF](http://technorati.com/tags/WCF)
+

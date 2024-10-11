@@ -66,3 +66,4 @@ Hell, the military realised that command and control was a losing strategy when 
 In any Agile organisation management changes from a 'telling people what to do' role, to one of servant leadership. They change from giving instructions to setting goals. They stop being a planner and become a teacher, coach, and leader.
 
 Leadership has very little to do with giving instructions and barking commands.
+

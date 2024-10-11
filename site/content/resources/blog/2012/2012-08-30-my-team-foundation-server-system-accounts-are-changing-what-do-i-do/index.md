@@ -63,3 +63,4 @@ Here is what you need to do:
 You will need to go round all of your Team Foundation Application Tiers, Team Foundation Build, Team Foundation Proxy, System Centre Virtual Machine Manager, SharePoint Farms, SQL Server Instances, SQL Server Reporting Services instances and SQL Server Analysis Services instances and make sure that you have changed all of the accounts.
 
 Phew…
+

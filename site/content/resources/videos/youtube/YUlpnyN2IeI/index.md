@@ -13,11 +13,11 @@ isShort: False
 
 # Unlocking Scrum's Potential - Avoiding Dogma and Embracing Flexibility
 
-_Best scrum advice you ever received?_
+*Best scrum advice you ever received?*
 
-Discover the power of adaptive Scrum practices! Dive into a journey of understanding how to use Scrum tools effectively without being rigidly dogmatic.
+Discover the power of adaptive Scrum practices! Dive into a journey of understanding how to use Scrum tools effectively without being rigidly dogmatic.  
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility  
 
 In this video, Martin 🧔 delves deep into the essence of Scrum, stressing the importance of flexibility and adaptability. Through a captivating discussion, he highlights the pitfalls of strict adherence and the beauty of iterative, empirical processes. 🚀
 
@@ -25,14 +25,14 @@ In this video, Martin 🧔 delves deep into the essence of Scrum, stressing the 
 00:01:00 Scrum Guide's Struggles  
 00:01:58 Recipe Analogy: Adapting Scrum  
 00:02:53 People over Tools  
-00:03:12 Importance of Adaptation
+00:03:12 Importance of Adaptation  
 
-_NKDAgility can help!_
+*NKDAgility can help!*  
 
 If you struggle to harness the full potential of Scrum or adapt its practices to your unique needs, my team at NKDAgility is here to guide you. Don't let challenges undermine your value delivery; seek expert guidance now!
 
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_  
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_  
 
 Because you don't just need agility, you need Naked Agility.
 

@@ -47,3 +47,4 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
+

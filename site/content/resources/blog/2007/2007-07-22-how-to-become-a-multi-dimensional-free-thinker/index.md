@@ -26,3 +26,4 @@ Professions for such talented people include but is not limited to:
 engineers, architects, designers, artists and craftspeople, mathematicians, physicists, physicians (esp. surgeons and orthopedists), dentists, it professionals (esp. Software Development Engineers, Developer Evangelists and Software Architects).
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

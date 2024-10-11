@@ -54,3 +54,4 @@ The Scrum Master has a hard job as well. They are the torch bearer within their 
 ### Conclusion
 
 While this may well turn out be like the posts of 5 years ago about the "death of the Tester" only to have it return I do think that will not be the case here. I believe that we are not getting rid of the Project Manager we are just moving that role back to the Business / Customer side of the story where it belongs.
+

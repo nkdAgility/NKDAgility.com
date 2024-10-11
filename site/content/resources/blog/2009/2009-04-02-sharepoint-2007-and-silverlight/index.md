@@ -24,3 +24,4 @@ At only £16 pounds don't expect a 1000 pager, but at just under 300 pages the c
 The book takes you through all of the essentials, creating Custom Field types, Branding and custom web parts with Silverlight along with data interaction to produce a slick little training site. There are even some bits on deploying solutions and debugging against Sharepoint. Not bad for the price…
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Silverlight](http://technorati.com/tags/Silverlight) [SharePoint](http://technorati.com/tags/SharePoint)
+

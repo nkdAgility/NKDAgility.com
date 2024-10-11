@@ -69,3 +69,4 @@ This was an easy experience even if the SP was over 1.5GB’s to download ![Smil
 { .post-img }
 
 **What were your experiences of installing Visual Studio 2010 Service pack 1?**
+

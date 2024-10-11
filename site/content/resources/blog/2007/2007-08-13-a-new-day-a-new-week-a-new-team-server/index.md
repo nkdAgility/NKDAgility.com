@@ -27,3 +27,4 @@ I now need to look at the Sharepoint integration and I will probably need to wri
 Ah, well. At least I get to play with 2008!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

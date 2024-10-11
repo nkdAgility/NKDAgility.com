@@ -67,3 +67,4 @@ There are huge benefits from moving to VSO and Git from an on-premises TFS that 
 _Note: If you are in Europe and concerned about the patriot act look up the recent court cases with Microsoft going to bat, all in, for data privacy in Europe on this exact issue. Microsoft has vowed (along with the other cloud providers) to fight the US state department on this with the assertion (correct in my opinion) that US law ends at US borders._
 
 All in I would recommend any organisation that can move to VSO to do so.
+

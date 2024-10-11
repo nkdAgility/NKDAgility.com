@@ -28,3 +28,4 @@ The second problem was that he was using a proxy server that was an appliance (i
 So all problems solved, well theoretically... David still need to try them out side of my little home lab.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

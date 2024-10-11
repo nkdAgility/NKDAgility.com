@@ -170,3 +170,4 @@ This will configure your collection to look for a folder of the name displayed a
 Unfortunately enabling the reporting does not go an add the correct reports to the server. You would need to download the correct reports from the Process Template and import them manually to the location specified above with the addition of the Team Project name. If the power tools for 2013 were available there is a “AddReporting” command line to do this for you.
 
 Give me a shout if you have any questions or get into trouble…
+

@@ -23,3 +23,4 @@ It seams that Web 2.0 or “The Internet 2.0” is more of an ethos than a singl
 I mention it as “Web 2.0” is becoming a buzz word for middle management, and so when asked if your project is “Web 2.0” you will be able to answer!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

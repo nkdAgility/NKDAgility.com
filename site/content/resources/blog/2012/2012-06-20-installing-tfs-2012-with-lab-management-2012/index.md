@@ -335,3 +335,4 @@ DONE.
 I have emailed the product team as I followed the steps, but there may have been something missed and indeed there was. I had neglected to enable File and Print Sharing which is required by Lab/p>
 
 How have you been getting on with your 2012 Lab setups?
+

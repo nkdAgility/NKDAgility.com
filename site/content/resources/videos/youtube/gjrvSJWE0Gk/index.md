@@ -41,6 +41,7 @@ Stay updated on cutting-edge techniques for improving project predictability and
 Transform your project management approach with actionable insights from Kanban experts.
 Be part of a community dedicated to Agile excellence and continuous improvement.
 
+
 Like and Subscribe for more content on harnessing Kanban metrics for enhancing predictability in your projects. Visit https://www.nkdagility.com for comprehensive resources, courses, and support on Kanban, Agile, and Scrum methodologies.
 
 Share this video with your team and network to spread the knowledge of boosting project predictability through Kanban.

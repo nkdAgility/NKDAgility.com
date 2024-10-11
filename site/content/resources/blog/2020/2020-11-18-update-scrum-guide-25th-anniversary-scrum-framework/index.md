@@ -41,3 +41,4 @@ There are lots of awesome changes so let's see if I can highlight the things I n
 I hope that that get as much from this new revision of the Scrum Guide as I have.
 
 Get your copy of the **[new version of the Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)**!
+

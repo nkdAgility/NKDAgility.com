@@ -69,3 +69,4 @@ I was quite happy not to have to reinstall, but you can choose what you want to 
 **Did you install the wrong version of Windows?**
 
 **How easy was it for you to fix it?**
+

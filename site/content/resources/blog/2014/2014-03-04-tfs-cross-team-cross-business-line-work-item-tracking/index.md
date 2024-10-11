@@ -87,3 +87,4 @@ Things are not all good and there are a few caveats to this approach:
 These issues however are small in comparison to the benefits that are gained by the single Team Project and Team Field approaches detailed above.
 
 How have you solved your organisational requirements in Team Foundation Server?
+

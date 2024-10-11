@@ -40,3 +40,4 @@ Neglecting to deliver a usable product at the end of each iteration breeds an ec
 Usable working product, every iteration, including the first, is the bedrock upon which we build the pillars of trust, alignment, adaptability, and quality. It is the very foundation of inspection and adaptation. Without it, we have no transparency, inspection, or adaptation!
 
 Without it, we are not agile.
+

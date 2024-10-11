@@ -50,3 +50,4 @@ The following presentation represents mearly a point in time of their evolution 
 https://youtu.be/5bgcpPqcGlw
 
 Presentation: [https://nkdagility.net/3edOLPi](https://nkdagility.net/3edOLPi)
+

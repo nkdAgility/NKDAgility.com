@@ -130,3 +130,4 @@ You can however only keep your personal files this way and you will have to rein
 ## Conclusion
 
 Windows 8.1 is awesome but I was only able to use the Windows 8.1 Store Update option on my Tablet that was a US device. My Desktop and my VM’s had to be done with #3 above and nether #1 or #2 worked with an en-GB version of the OS.
+

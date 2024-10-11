@@ -83,3 +83,4 @@ Running RegisterDB command will update setting in the "C:Program FilesMicrosoft 
 To save time I went ahead and updated it manually and WOW everything worked again.
 
 **Lesson: Heed all Team Foundation warnings**
+

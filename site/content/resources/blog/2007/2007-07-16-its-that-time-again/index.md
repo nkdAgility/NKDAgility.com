@@ -28,3 +28,4 @@ Is anyone out there on the look out for a Senior .NET Developer with the skills 
 **How did you get into contracting?**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007)
+

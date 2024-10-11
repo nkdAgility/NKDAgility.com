@@ -23,3 +23,4 @@ This is a fantastic piece of web work, it has all of the features that you could
 I am still trying to work out how you control access to projects! Even though users have no permissions for a particular project: I am thinking that removing "Team Foundation Valid Users" from the project will work, I just have not had time to test it...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

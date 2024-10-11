@@ -56,3 +56,4 @@ We should always be working to engage with our users; users don't engage when yo
 ### A great Product Owner will anticipate the features that customers need now.
 
 The trick for any [Product Owner](https://nkdagility.com/the-2020-scrum-guide/#product-owner) is to figure out where the market is going and build features that drive it, rather than just following it. Having a vision and entrepreneurially iterating towards that vision empirically with many small hypotheses is key to unlocking this level up of Product Ownership.
+

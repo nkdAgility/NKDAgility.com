@@ -30,3 +30,4 @@ You will need to open this diagram in a new window to get the effect, but it is 
 This is not currently designed to be an editable object, but inheriting from the [ItemWrapper](http://www.codeplex.com/TFSStickyBuddy/SourceControl/FileView.aspx?itemId=157013&changeSetId=10168) class would allow this, but would require a modification to the framework to handle the inherited type. Maybe v2...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing)
+

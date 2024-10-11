@@ -13,7 +13,7 @@ isShort: False
 
 # Is Your ENTIRE Development Ecosystem Truly Agile? | The Agile Reality Check [6/6]
 
-Think your Agile development teams make your organization Agile? 🤔 The U.S. Department of Defense disagrees! This video dives into the critical question of whether your entire product development ecosystem – from coding to deployment – is truly Agile. Spoiler alert: You might not be as agile as you think!
+Think your Agile development teams make your organization Agile? 🤔 The U.S. Department of Defense disagrees!  This video dives into the critical question of whether your entire product development ecosystem – from coding to deployment – is truly Agile.  Spoiler alert: You might not be as agile as you think!
 
 Why You Should Watch:
 

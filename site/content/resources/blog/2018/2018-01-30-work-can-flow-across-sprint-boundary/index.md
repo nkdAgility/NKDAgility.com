@@ -70,3 +70,4 @@ I have found that reading the Scrum Guide carefully, turns up all sorts of miss 
 At the end of every Sprint, you should have working Software that meets your definition of Done and you should have met your Sprint Goal.
 
 **UPDATE: To find out how to allow work to flow across the Sprint boundary you can read the** **[Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)\*\***, and schedule a\*\* **[Professional Scrum with Kanban](https://nkdagility.com/training/courses/professional-scrum-with-kanban-psk/)** **class.**
+

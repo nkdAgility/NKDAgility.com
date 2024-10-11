@@ -56,3 +56,4 @@ This has the effect of stretching the amount of time that each thing takes as it
 ## Conclusion
 
 Don’t have a company culture that resembles Survivor and instead opt for one of Teams. These Teams will be a force multiplier to your ability to deliver software and this will give you a competitive advantage. Don’t wait until your competition figure this out!
+

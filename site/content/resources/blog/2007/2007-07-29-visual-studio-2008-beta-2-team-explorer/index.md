@@ -22,3 +22,4 @@ I think that Team Explorer should be included as an optional install for Visual 
 I will get back to you once I have VSTE installed...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

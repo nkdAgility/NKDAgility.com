@@ -86,3 +86,4 @@ Typically you have three options:
 - Reject
 
 If you select “**_(p)ermenantly_**” you will then be able to run the migration tools successfully. You will need to do this for every Subversion Repository you want to migrate from. Or, you can fix the certificate or just remove it.
+

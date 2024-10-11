@@ -33,3 +33,4 @@ I think Paul Slater will be posting a more detailed list, but you get the pictur
 I would like to thank [Paul Slater](http://geekswithblogs.net/MMaI/Default.aspx) for his incite into the black art of "Marketing TFS" and [Jim Lamb](http://blogs.msdn.com/jimlamb) for continually answering stupid questions...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [TFS 2005](http://technorati.com/tags/TFS+2005)
+

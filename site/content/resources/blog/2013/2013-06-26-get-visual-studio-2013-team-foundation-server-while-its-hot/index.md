@@ -175,3 +175,4 @@ These are but a few of the new features in Team Foundation Server 2013 let alone
 { .post-img }
 
 I have already done one upgrade of a customers two terabyte TFS 2012 instance with no issues and I am hopefully working on my next one as you read this… Download, install & Play… be a kid again with Team Foundation Server 2013.
+

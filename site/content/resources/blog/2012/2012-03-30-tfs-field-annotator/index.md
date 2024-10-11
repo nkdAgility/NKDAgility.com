@@ -70,3 +70,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
+

@@ -32,3 +32,4 @@ This internal use seams to be encouraging Microsoft to put a lot of effort into 
 The future is bright, the future is [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System")...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+

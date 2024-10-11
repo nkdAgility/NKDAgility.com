@@ -31,3 +31,4 @@ Nurturing a Culture of Ownership: Creating our own scaling practices encourages 
 In the fast-paced and ever-evolving business landscape, scaling our organisation is critical. While adopting pre-established frameworks and methodologies may be tempting, it is vital to recognise the value of creating our own scaling practices that emerge over time. By preserving our unique DNA, tailoring solutions to our context, fostering agility, learning from others, and nurturing a culture of ownership, we position ourselves for sustainable success.
 
 Let's embrace our distinctiveness, leverage our strengths, and carve our own path towards scaling greatness.
+

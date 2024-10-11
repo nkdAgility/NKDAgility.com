@@ -63,3 +63,4 @@ Only once you have all of these thing should you then be thinking of what more d
 I never tell teams that you MUST do a thing but instead encourage them to do the right thing for their organisation in a journey to build better software.
 
 Now, that is something that we can all aspire to.
+

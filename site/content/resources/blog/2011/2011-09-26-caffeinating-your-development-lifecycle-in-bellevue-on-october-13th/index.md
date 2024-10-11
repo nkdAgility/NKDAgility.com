@@ -65,3 +65,4 @@ We are starting with the Coffee Talks, and did I say… they are early! You can 
 > **Questions\*\***?\*\* Email [Amanda.Jaworski@nwcadence.com](mailto:Amanda.Jaworski@nwcadence.com)
 
 I look forward to helping _Caffeinate Your Development Lifecycle_ on October 13th! I am hoping to actually be there myself along with [Cheryl Hammond](http://blog.bsktcase.com/) & [Steven Borg](http://blog.nwcadence.com/author/stevenborg/) who will actually be presenting.
+

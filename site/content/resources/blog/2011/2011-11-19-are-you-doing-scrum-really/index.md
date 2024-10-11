@@ -70,3 +70,4 @@ Then what else do you need?
 Well, you will find it hard to continue to deliver working software each sprint (#10) without things like Automated Testing and Automated Build. You will also find it hard to start climbing that hill towards High Performing Scrum without visualising your work (Kanban), limiting work in progress, and concentrating on optimising Flow both at the micro (inside of the Sprint) and at the macro (wrapping Scrum).
 
 There are many more things that will help and many of them will become Scrum Extensions on Scrum.org as they are submitted and approved. This results in the replacement of the phrase "I am doing Scrum but...<shame>" with "I am doing Scrum and...<happiness>" and hopefully a wider and more positive adoption profile for Scrum.
+

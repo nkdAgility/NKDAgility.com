@@ -156,3 +156,4 @@ Creating it was easy, it just a cse of copying the OOB IIS and making sure that 
 Although TFS 2015 is currently only in RC it does have a Go-Live licence. Go-Live licences are somewhat of a tradition of the Developer Division that allows them to release a fully supported version of the product early so that more folks try it. The reality for CTP's is that no one will really put it through its paces until its supported and can be installed in production. Go-Live enables this..
 
 Go on, be a kid again and install Team Foundation Server 2015 RC in production. Its fully supported and has some awesome new features…
+

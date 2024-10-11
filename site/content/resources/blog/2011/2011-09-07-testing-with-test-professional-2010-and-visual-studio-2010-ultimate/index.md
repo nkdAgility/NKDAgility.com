@@ -65,3 +65,4 @@ Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 Remote Course Offering in Remote Course Offering  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=1210319097)](http://nwcadencetestcourse201110.eventbrite.com?ref=MrHinshBlog&discount=MrHinsh)
 
 This is a really worth while course that will help you get the most out of Test Professional. Dan is a fantastic teacher and will be giving energising sessions.
+

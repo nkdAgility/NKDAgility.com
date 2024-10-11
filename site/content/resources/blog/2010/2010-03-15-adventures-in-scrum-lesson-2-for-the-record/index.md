@@ -59,3 +59,4 @@ Its simple, as per our rule I should have sent the following email:
 This email should have been copied to the entire Scrum Team, which would have included the Product Owner, who would have nipped this misunderstanding in the bud and we would have had one less impediment.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [Silverlight](http://technorati.com/tags/Silverlight)
+

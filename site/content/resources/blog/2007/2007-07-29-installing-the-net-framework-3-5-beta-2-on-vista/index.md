@@ -47,3 +47,4 @@ I did however find more that one hotfix with the same KB number, so I got rid of
 After this I tried VS2008 again...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

@@ -21,3 +21,4 @@ I am realy looking forward to the new maps! Hopefully the update will fix some o
 [read more](http://gearsforums.epicgames.com/showthread.php?t=560548) | [digg story](http://digg.com/gaming_news/Gears_of_War_Update_starting_9_Jan_2007)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

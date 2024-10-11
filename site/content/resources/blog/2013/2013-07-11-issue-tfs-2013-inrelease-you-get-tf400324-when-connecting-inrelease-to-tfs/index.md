@@ -103,3 +103,4 @@ $regsvc.SetValue("/Configuration/DefaultCollection", $tfs.InstanceId)
 This PowerShell will first ask you to select the collection that you would like to be the default and then apply that to TFS. You should then be able to connect InRelease correctly to TFS.
 
 I still think that this is a silly requirement of the product and at the very least it should ask which collection that you want to be the default and set it for you...
+

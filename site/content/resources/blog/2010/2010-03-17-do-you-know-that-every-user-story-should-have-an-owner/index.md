@@ -40,3 +40,4 @@ In order to achieve this one of the Team takes responsibility for “looking aft
 **Figure: Good example, the product owner can now see who he should speak to and developers know where to send done emails.**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

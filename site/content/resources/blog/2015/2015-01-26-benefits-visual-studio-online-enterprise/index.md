@@ -140,3 +140,4 @@ These options and support levels allow you to be sure that if you have an issue 
 If you can get over the cultural issues to moving towards the cloud then there is really no substantiative reason not to be moving towards VSO no matter how large your organisation is. You will save money on licencing and support and drastically reduce the complexity of connecting and keeping the product up to date.
 
 Take the plunge today and get your [\[company\].visualstudio.com](http://tfs.visualstudio.com) URL today…
+

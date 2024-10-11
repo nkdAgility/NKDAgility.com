@@ -44,3 +44,4 @@ Like I said the story is not currently that good but you can read about each of 
 - PDF: [Understanding TFS migrations from on-premise to Visual Studio Online](https://vsarguidance.codeplex.com/releases/view/178488)
 
 The ALM Rangers will also be releasing a walk-through for the simplest of migrations which is to use Excel for work items and do a tip migration of code. That will be coming real soon.
+

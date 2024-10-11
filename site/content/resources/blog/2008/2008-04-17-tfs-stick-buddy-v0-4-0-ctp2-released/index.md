@@ -71,3 +71,4 @@ You can even use the [discussion forums](http://www.codeplex.com/TFSStickyBuddy/
 [**Download TFS Stick Buddy v0.4.0 CTP2 Now**](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)**...**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

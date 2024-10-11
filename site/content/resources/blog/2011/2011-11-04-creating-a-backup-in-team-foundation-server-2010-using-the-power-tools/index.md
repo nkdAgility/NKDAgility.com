@@ -189,3 +189,4 @@ After I have hastily changed the service account back to the original value and 
 - [Dynamically Set SPN's for SQL Service Accounts](http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html)
 
 So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.
+

@@ -25,3 +25,4 @@ The first version will use simple web pages as stubs to the SharePoint bits, but
 This project will give me an idea of how complicated it will be to produce SharePoint features and how much time will be spent in bug fixing...
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [WF](http://technorati.com/tags/WF) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -46,3 +46,4 @@ While I will try to cover many aspects of individual problems that are raised, t
 > Scrum is the most adopted and recognized agile methodology framework. However, there are still challenges to Scrum adoption. This Event will dive into several Scrum adoption pitfalls and how an organization can avoid them. In particular, we will highlight some of the proven practices that have worked for diverse sets of teams. We will also leave time for questions and encourage attendees to bring your most challenging problems. -[Extract from Scrum-damentals on 17th February 2012](https://www.clicktoattend.com/invitation.aspx?code=158652)
 
 Make sure that you sign up as I am looking forward to this one.
+

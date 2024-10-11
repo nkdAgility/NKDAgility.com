@@ -44,3 +44,4 @@ _f you would like to attend, please email Nathan Davies on [a-ndavie@microsoft.c
 { .post-img }
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [Developing](http://technorati.com/tags/Developing) [WP7](http://technorati.com/tags/WP7)
+

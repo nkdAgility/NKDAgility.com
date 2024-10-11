@@ -40,3 +40,4 @@ Receiving this invitation does not guarantee you a seat in the beta; we recommen
 •VUE: [http://www.vue.com/ms/](http://www.vue.com/ms/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

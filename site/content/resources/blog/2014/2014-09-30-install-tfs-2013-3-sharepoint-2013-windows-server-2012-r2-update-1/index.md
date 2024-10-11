@@ -174,3 +174,4 @@ Flip back to the TFS configuration wizard and re-run the readiness checks to mak
 And that’s it. When you click "Configure" TFS will go off and create all the bits it needs and setup your default collection. At the end of this process, if you get a green tick, you have a fully operational TFS Instance.
 
 Good luck with your install…
+

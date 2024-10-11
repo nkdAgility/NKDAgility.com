@@ -74,3 +74,4 @@ End If
 As you can see I have very bad naming and layout, but this is a one time use version of the code, so quick and dirty. If I am asked to do this again I would create a proper command line utility, or even a WPF interface to display the data prettily.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Version Control](http://technorati.com/tags/Version+Control) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
+

@@ -28,3 +28,4 @@ It is quite simple, but has a plethora of uses… One of the best is creating Cl
 { .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
+

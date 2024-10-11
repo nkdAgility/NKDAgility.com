@@ -80,3 +80,4 @@ Now that everything is checked in, I will be encouraging my team mates to explor
 **Figure: Lots of lovely places to put code**
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.
+

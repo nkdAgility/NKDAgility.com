@@ -90,3 +90,4 @@ As part of prepping for this demo I did a bunch of work around release managemen
 Most of which became irrelevant when Release Management for VSO became available and I no longer had to configure a release management server myself. With the new release cadence from the TFS team, things can only get better…
 
 My slides are available on Slide Share: [http://www.slideshare.net/MrHinsh/ndclondon2014](http://www.slideshare.net/MrHinsh/ndclondon2014)
+

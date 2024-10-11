@@ -33,3 +33,4 @@ The [Head First](http://www.headfirstlabs.com/) series uses pictures and concept
 I would recommend this book to any budding and exiting author of technical books…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

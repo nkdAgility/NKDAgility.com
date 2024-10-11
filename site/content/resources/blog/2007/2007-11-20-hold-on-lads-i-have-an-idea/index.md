@@ -34,3 +34,4 @@ The data would be fed into a database after workflow on authorising the updates 
 It should be possible to get the project off the ground by providing a single point of truth for information on staff. This in conjunction with technologies like SharePoint and Communication Server should provide substantial business benefit to companies  holding data about its staff in multiple systems geographically.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

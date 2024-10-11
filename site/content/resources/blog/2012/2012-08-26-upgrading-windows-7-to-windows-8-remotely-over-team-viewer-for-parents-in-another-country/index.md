@@ -130,3 +130,4 @@ The first thing that you need to do is check for updates and validate that all o
 … Now to get her some apps, uninstall office 2007 in favour of Office 365 Preview…
 
 **How did you get on updating your remote family members?**
+

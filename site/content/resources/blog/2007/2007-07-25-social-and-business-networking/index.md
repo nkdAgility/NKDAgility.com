@@ -38,3 +38,4 @@ _A possible pricing model:_
 _This model may be complicated but would be fairer to smaller sites, while still charging more for small sites that have a high number of transactions._
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA)
+

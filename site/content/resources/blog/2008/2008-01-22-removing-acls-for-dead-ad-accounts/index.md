@@ -59,3 +59,4 @@ This code should work, and I have used a similar piece to add permissions, so wh
 **UPDATE:** [**I have added a question about this to the MSDN Forums**](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2722189&SiteID=1&mode=1)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

@@ -121,3 +121,4 @@ This PowerShell will map each of the users across to the new domain and allow th
 ## Conclusion
 
 Upgrading SharePoint 2012 to SharePoint 2013 is not quite as easy as it is with Team Foundation Server. There are quite a few pitfalls and it took some amount of research to get the above all working.
+

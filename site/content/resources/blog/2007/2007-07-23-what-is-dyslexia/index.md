@@ -31,3 +31,4 @@ Despite this I can actually read very fast, around a hundred pages in an hour of
 This is how dyslexic people see the words that are written on the page, and why they are so poor at spelling.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

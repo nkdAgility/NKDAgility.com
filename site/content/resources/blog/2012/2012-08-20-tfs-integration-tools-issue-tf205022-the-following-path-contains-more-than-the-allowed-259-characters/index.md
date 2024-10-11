@@ -88,3 +88,4 @@ Now that the path has been shortened the Integration Platform should detect that
 In order to proceed I will need to again recreate the session. Remembering to call “tf destroy” on the source that has already been migrated.
 
 **Did this help you save a few characters from your path?**
+

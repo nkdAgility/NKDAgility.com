@@ -76,3 +76,4 @@ The result should be higher levels of trust between all parties that should resu
 **Are you going to make the change from Commitment to Forecast?**
 
 If not, let me know why this will not make sense in your organisation!
+

@@ -85,3 +85,4 @@ We have a single virtual server instance of TFS with the only architectural cust
 Although there seemed to be a lot of noise around the time that SP1 was released, the great god Murphy left me alone in this instance. It just goes to show, simpler is better...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

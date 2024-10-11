@@ -255,3 +255,4 @@ This is a heck of a lot easier than subscribing to events through web services, 
 **Which method will you be using?**
 
 Technorati Tags: [TFS Customisation](http://technorati.com/tags/TFS+Customisation),[TFS 2010](http://technorati.com/tags/TFS+2010),[CodeProject](http://technorati.com/tags/CodeProject)
+

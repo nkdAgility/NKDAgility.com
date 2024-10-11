@@ -282,3 +282,4 @@ This may change and I want to test out some hierarchical PowerShell script optio
 Although I have tinkered with PowerShell now and then this is the first executable script that I have written. I am still in copy/paste mode but I can sure see the value of learning and using PowerShell for everything from installing applications to configuring systems.
 
 You can just about do anything with PowerShell that you like.
+

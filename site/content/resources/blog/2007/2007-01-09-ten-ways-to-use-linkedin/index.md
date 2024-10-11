@@ -19,3 +19,4 @@ Most people use LinkedIn to “get to someone” to make a sale, form a partners
 [read more](http://blog.guykawasaki.com/2007/01/ten_ways_to_use.html) | [digg story](http://digg.com/software/Ten_Ways_to_Use_LinkedIn)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

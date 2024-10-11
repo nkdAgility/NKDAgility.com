@@ -46,3 +46,4 @@ If you have just uninstalled the .NET 4 RC then you will probably be asked to re
 **Now go forth and develop! Preferably in VB.NET…**
 
 Technorati Tags: [VS 2010](http://technorati.com/tags/VS+2010) [Visual Studio](http://technorati.com/tags/Visual+Studio)
+

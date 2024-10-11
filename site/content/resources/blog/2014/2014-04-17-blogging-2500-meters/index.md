@@ -48,3 +48,4 @@ After publishing my most resent post it took about 10 minutes sitting editing th
 Don't get me wrong, if you look at the HTML generated from Word from even 5 years ago it would be far worse. It's better to the point it is even worth editing it to post rather than writing from scratch and drawing the pictures by hand.
 
 Word: You can do better.
+

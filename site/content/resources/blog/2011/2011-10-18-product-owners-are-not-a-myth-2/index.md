@@ -69,3 +69,4 @@ My current customer has one product with over 900 items in their backlog. This w
 Although the Product Owner has accountability and responsibility for the “what” that the team is  creating they will often need help. This help can come in many forms. It may be the Development Team that helps the Product Owner in small organisations, or a more formal dedicated team that helps them at the enterprise level.
 
 **How does your Product Owner organise their time?**
+

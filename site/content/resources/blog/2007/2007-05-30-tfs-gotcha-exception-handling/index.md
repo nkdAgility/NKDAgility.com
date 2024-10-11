@@ -40,3 +40,4 @@ End Try
 This will allow you to handle [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") exceptions for your [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service application on the client.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

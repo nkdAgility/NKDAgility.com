@@ -23,3 +23,4 @@ Well HTC has come up with a first step competitor for the iPhone, and they call 
 My only question is: **When will this be available on orange?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
+

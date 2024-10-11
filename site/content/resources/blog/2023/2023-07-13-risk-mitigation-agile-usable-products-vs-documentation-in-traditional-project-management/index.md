@@ -54,3 +54,4 @@ The agile philosophy does not say that documentation or planning is useless. Thi
 **Documentation does not solve a business problem; it merely describes it or a solution for it.**
 
 To the professional teams, don’t be afraid to embrace Agile’s working products as a lifeline for risk mitigation. Simultaneously, weave in the essential strands of documentation, but with the agility to adapt.
+

@@ -76,3 +76,4 @@ At this point you should now have access to the new awesome features. Now go pla
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Be a kid again…
+

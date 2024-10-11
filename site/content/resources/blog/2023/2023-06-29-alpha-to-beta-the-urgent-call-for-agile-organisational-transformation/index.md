@@ -69,3 +69,4 @@ Here is a list of the books, blogs, and content that may have influenced my idea
 - [OpenSpace Beta](https://www.redforty2.com/openspacebeta)
 
 - [BetaCodex Network - Learn about the Alternative to Management!](https://betacodex.org/home)
+

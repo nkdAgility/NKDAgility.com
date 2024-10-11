@@ -227,3 +227,4 @@ The key point in the above is the delegation point; we are not thinking that a s
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
+

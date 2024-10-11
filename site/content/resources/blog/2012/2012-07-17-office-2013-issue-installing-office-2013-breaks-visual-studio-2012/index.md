@@ -59,3 +59,4 @@ If you did not install it first and you are unable to launch Visual Studio 2012 
 I found that this does not affect Visual Studio 2012 installs that already have a previous update on Windows 8, but does affect vanilla Release Candidate installs.
 
 **Did this fix your problem?**
+

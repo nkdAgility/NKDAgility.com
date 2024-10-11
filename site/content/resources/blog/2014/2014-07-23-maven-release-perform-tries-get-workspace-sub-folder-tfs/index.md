@@ -92,3 +92,4 @@ Multiple users is an easier issue to solve. We added pre-build commands to creat
 This got the build working. Our only outstanding issue now is that build from SVN have a Tag created. In TFS this is done as a label, however labels are mutable. They can be changed after the fact with no audit record. We will likely solve this by creating a read-only branch instead of a label.
 
 Let me know how you get on with your migrations to TFS.
+

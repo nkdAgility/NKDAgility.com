@@ -240,3 +240,4 @@ This has merit when the situation dictates and I have recommended it twice now w
 And remember that any changes to your process template should be well thought out as you don’t want to end up with fragmented templates if you have more than one Team Project or worse, end up with a frankin-template that no one wants to use.
 
 Just be careful out there…
+

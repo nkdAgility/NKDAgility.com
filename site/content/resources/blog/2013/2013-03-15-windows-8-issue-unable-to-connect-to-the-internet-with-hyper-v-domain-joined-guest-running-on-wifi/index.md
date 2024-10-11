@@ -77,3 +77,4 @@ The solution is to make sure that all of the features for your Network Bridge ar
 **Figure: Default Network Bridge**
 
 Now I want all of those things when I am on a corporate network, so I just ticked all the boxes and OK’ed the warning and wow… everything now works…
+

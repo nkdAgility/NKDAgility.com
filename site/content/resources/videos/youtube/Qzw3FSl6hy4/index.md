@@ -25,6 +25,7 @@ What is Product Discovery and Why It’s Crucial?
 
 1. 🔄 Continuous Exploration:
 
+1. 🔄 Continuous Exploration:
    - Product discovery isn’t a one-time task; it’s an ongoing process of exploring and identifying both the known and unknown elements that could improve the product.
    - It includes everything from research and design to collaboration with other teams to ensure a holistic understanding of what’s needed.
 
@@ -46,6 +47,7 @@ What is Product Discovery and Why It’s Crucial?
 
 1. Azure DevOps Example:
 
+1. Azure DevOps Example:
    - With over 90 teams working on a single product, Azure DevOps illustrates the scale and complexity of product discovery.
    - Strategic direction is set at a high level, and discovery is essential at every stage to ensure that all teams are aligned and contributing to the overall goal.
 
@@ -57,6 +59,7 @@ What is Product Discovery and Why It’s Crucial?
 
 - Why It Matters:
 
+- Why It Matters:
   - Without a strong discovery process, even the best engineering teams can fail to deliver real value.
   - Discovery ensures that the team’s efforts are focused on the right problems, leading to better outcomes for the business.
 
@@ -67,6 +70,7 @@ Conclusion: The Power of Deliberate Discovery
 
 - Product Discovery is Underserved:
 
+- Product Discovery is Underserved:
   - Despite its importance, many organizations don’t give enough attention to deliberate discovery.
   - Shifting focus towards this can unlock new market opportunities and enhance the value delivered to customers.
 

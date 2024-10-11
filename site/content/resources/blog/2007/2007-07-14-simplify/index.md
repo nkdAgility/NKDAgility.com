@@ -28,3 +28,4 @@ How about the digg this links on the blog pages as well as on the main feed?
 Just some thoughts! Don't ask, don't get.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

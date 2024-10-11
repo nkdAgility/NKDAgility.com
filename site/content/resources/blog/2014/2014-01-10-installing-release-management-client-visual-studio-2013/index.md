@@ -47,3 +47,4 @@ When you first launch the Release Management client you will be asked to select 
 One thing that you should make sure of is that you add users to Release Management as soon as you can. The only user that is added initially is the account of the user that installed the server. This will be under the heading of 'Admin' in "Administration | Users". Don't get caught short and unable to access your server if you used another account to install the Server and the client.
 
 You should now be ready to go...
+

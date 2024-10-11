@@ -28,3 +28,4 @@ Today (06/08/2009) [Windows 7](http://www.microsoft.com/windows/windows-7/) RTM 
 If you have not yet seen [Windows 7](http://www.microsoft.com/windows/windows-7/) then head on over to the [Windows 7](http://www.microsoft.com/windows/windows-7/) site, if you have then it will not be long until it is available. September will be the official “buy it in the shops” day, but many new PC’s already come with an automatic upgrade.
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

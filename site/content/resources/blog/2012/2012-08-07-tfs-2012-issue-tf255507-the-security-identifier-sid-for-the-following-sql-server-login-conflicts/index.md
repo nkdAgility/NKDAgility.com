@@ -78,3 +78,4 @@ sqlcmd -E -S "Kraken" -Q "ALTER LOGIN [WIN-EO45N4FNSOCAdministrator] WITH NAME =
 Once you have run the command you can “rerun Readiness Checks” to clear out the error.
 
 **Did this fix your problem?**
+

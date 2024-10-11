@@ -21,3 +21,4 @@ I am working this week on getting [TFS Event Handler CTP1](http://www.codeplex.
 Here is where I find out that I can't connect to the CodePlex [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") Servers!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
+

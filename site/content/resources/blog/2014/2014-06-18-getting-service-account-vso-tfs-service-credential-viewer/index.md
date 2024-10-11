@@ -62,3 +62,4 @@ If you are using Windows 8 you will not get an automatic launch of the applicati
 5.  Done
 
 If you encounter an exception when clicking “Connect” the most likely cause if that you do not have Team Explorer 2013 installed (it should also work with 2012).
+

@@ -32,3 +32,4 @@ Anyway, here it is...
 I owe a lot of thanks to the authors of [Pro WCF: Practical Microsoft SOA Implementation](http://www.amazon.co.uk/Pro-WCF-Practical-Microsoft-Implementation/dp/1590597028) without which I would not have been able to put the presentation together in three days at all.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [SOA](http://technorati.com/tags/SOA) [WCF](http://technorati.com/tags/WCF) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

@@ -28,7 +28,7 @@ Key Takeaways:
 
 NKDAgility can help!
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to balance detailed planning with agility in your sprints, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to balance detailed planning with agility in your sprints, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can. 
 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
 

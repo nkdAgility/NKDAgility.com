@@ -87,3 +87,4 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
+

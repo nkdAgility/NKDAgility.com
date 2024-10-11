@@ -97,3 +97,4 @@ Things we loose by not using TF Build:
 - **Manual Tests associated with a Build** – If test results are associated with a build you can see, dynamically, the current state of your test plan, build on build.
 
 If you only get your Source into TFS then that is just the first step. A necessary one, but only the first.
+

@@ -101,3 +101,4 @@ Some things I would do differently:
 Teaching non techies is hard, especially for a certifiable geek like myself. However I totally enjoyed my time in Ghana teaching Scrum for the Ghana Police Service and am looking forward to doing it again. I'm back in Ghana for the Agile In Africa conference, and again in December to teach a Professional Scrum Developer (this time to techies). More classes are scheduled next year...
 
 If you are in Ghana or anywhere in West Africa you can get in touch with [Akaditi](http://www.akaditi.com/) for both public and private classes for your Organisation.
+

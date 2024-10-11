@@ -26,3 +26,4 @@ I guess my question is:
 Has anyone ever sent an xbap to anyone via email? Not a link, actually running in the email window. And if so, how?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

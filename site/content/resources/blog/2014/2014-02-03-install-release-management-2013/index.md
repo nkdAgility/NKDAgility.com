@@ -33,3 +33,4 @@ Have you seen how easy it is to install Release Management 2013 and configure a 
 - Microsoft Deployment Agent 2013
 
 Have you been using Release Management in Visual Studio 2013? How have you been getting on?
+

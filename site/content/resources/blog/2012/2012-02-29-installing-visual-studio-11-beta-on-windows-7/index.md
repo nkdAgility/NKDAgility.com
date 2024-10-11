@@ -68,3 +68,4 @@ I LOVE the new team Explorer, but it will take a little getting used to…
 Remember that there is [Go-Live for Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
+

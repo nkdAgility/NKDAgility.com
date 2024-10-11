@@ -62,3 +62,4 @@ So, in order to move your OneDrive location you need to first "Unlink" your OneD
    { .post-img }
 
 And that’s it… your OneDrive files are not in a new location, and in my case, on a new disk. That’s 80GB freed up from my Windows drive…
+

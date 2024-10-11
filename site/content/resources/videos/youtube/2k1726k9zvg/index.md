@@ -13,20 +13,20 @@ isShort: False
 
 # What is the difference between a newbie scrum master and a professional scrum master?
 
-_Unraveling the Scrum Master Role: Insights and Misconceptions_
+*Unraveling the Scrum Master Role: Insights and Misconceptions*
 
 Discover the true essence of a Scrum Master's role in our latest video. Uncover the myths and realities of what it takes to lead effectively in a Scrum environment. First 120 characters: Dive into the Scrum Master role - myth vs. reality, effective leadership, and team dynamics.
 
 In this video, Martin delves deep into the often misunderstood world of Scrum Masters. 🌐 He tackles common misconceptions, shedding light on what distinguishes a true Scrum Master from mere labels. 🚀 Join us as we explore the core competencies, responsibilities, and the real impact of a Scrum Master in a team. 🌀 Whether you're a budding Scrum enthusiast or a seasoned professional, this video is a treasure trove of insights! 💡
 
-_Key Takeaways:_
+*Key Takeaways:*
 00:00:04 Newbie vs. Professional Scrum Master Concept
 00:00:27 Becoming a Scrum Master: Demonstrating Competence
 00:01:00 Professional Scrum Master Branding by scrum.org
 00:01:39 Real Role of a Scrum Master
 00:03:43 Professional Conduct in Scrum Master Role
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to understand the Scrum Master role, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

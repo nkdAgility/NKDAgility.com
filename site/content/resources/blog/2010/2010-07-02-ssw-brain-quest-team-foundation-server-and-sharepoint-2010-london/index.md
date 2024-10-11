@@ -119,3 +119,4 @@ This is a good chance for you to consider new ways of using Office in your compa
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
 { .post-img }
+

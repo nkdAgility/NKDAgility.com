@@ -73,3 +73,4 @@ If you update your phone to Windows Phone 8.1 Preview today you will at least ge
 For me the downsides are worth it and I love the new features and home screen. I [agree with Scott Hanselman](http://www.hanselman.com/blog/WindowsPhone81HasMyAttentionNow.aspx) that this not only brings Windows Phone up to the level of iOS and Android but takes it beyond.
 
 Go on, get Windows Phone 8.1 Preview today and influence it.
+

@@ -82,3 +82,4 @@ dbcc checkdb ('TfsVersionControl',repair)
 Having identified the problem running the command again with the “repair” will fix the issue. With the upgrade successful we are good to go for a production upgrade on Monday.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2005](http://technorati.com/tags/TFS+2005),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

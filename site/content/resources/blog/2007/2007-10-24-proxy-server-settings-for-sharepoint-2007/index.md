@@ -47,3 +47,4 @@ The required bit of which is the useDefaultCredentials parameter that passes the
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

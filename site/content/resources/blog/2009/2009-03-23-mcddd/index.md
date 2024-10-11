@@ -21,3 +21,4 @@ Its that time again and you should all be in Glasgow on the 2nd May for [Develop
 [Colin Mackay](http://blog.colinmackay.net/archive/2009/03/21/Update.aspx) hosted an amazing event last time, and I expect this year to be at least as good…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

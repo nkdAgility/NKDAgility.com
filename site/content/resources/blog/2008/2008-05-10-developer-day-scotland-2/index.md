@@ -23,3 +23,4 @@ If you have not already signed up, well, its probably too late...but if you are 
 If you are up for it there is a [Developer Day Scotland Geek Dinner](http://www.zimakki.com/wiki/DeveloperDayScotlandGeekDinner.ashx) on afterwards and some drinking before that.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

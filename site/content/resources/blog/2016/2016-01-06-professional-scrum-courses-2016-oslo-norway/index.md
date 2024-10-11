@@ -49,3 +49,4 @@ In just 3 days this course uses practical experiance to explore DevOps and Agile
 [](http://programutvikling.no/course/professional-scrum-master/)[](http://programutvikling.no/course/professional-scrum-master/)
 
 NOTE: Although the course can be taught with any programming language, this one will be .NET and C#. Feel free to request any language verient that you would like to see, however we would need at least 8 students to make it worth creating a custom version.
+

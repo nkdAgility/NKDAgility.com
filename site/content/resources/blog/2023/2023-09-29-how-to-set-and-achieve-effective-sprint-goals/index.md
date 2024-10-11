@@ -231,3 +231,4 @@ If you find it hard to craft effective Sprint Goals or struggle to align your te
 Don't let these issues undermine the effectiveness of your value delivery. It's paramount to seek assistance sooner rather than later!
 
 Take action now. Request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) with my team or enrol in one of our [upcoming professional Scrum classes](https://nkdagility.com/training-courses/). Because you don't just need agility, you need Naked Agility.
+

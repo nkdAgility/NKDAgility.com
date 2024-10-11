@@ -94,3 +94,4 @@ If you get results from this query then you have this problem and you should imm
 You need to remove all of the orphaned identities from your server in order to fix this. To achieve that you should work with Microsoft by raising a support ticket and cleaning the instance.  If an invalid backup has been restored there are likely other things that need to happen to get into a supported state and changing the database yourself will not get you there.
 
 Raise a ticket and get your server into a supported state…
+
