@@ -7,6 +7,7 @@ layout: training-courses
 url: /capabilities/training-courses/
 aliases:
   - /capabilities/private-corporate-training/
+  - /capabilities/training-courses/course-schedule/
 outputs:
   - html
   - json
