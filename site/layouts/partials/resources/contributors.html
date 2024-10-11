@@ -1,6 +1,6 @@
 Written by
 {{ $creator := .Params.creator }}
-{{ with site.GetPage "people" (anchorize $creator) }}
+{{ with site.GetPage "company/people" (anchorize $creator) }}
   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
 {{ else }}
   {{ $creator }}
@@ -9,7 +9,7 @@ Written by
 {{ if (and .Params.contributors (gt (len .Params.contributors) 0)) }}
   and contributed to by
   {{ range $index, $contributor := .Params.contributors }}
-    {{ with site.GetPage "people" (anchorize $contributor.name) }}
+    {{ with site.GetPage "company/people" (anchorize $contributor.name) }}
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     {{ else }}
       {{ if $contributor.external }}
