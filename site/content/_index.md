@@ -12,7 +12,9 @@ headline:
     - title: "Technical Leadership & Engineering Excellence"
       isExpandable: true
       content: |
-        At NKD Agility, we believe that technical leadership is the foundation for driving successful, high-performing teams. By focusing on architecture, development, and engineering best practices, we empower your developers to build high-quality, maintainable software that aligns with business goals and scales with growth. Our approach integrates DevOps, Agile methodologies, and platform engineering to ensure that your development processes are streamlined, collaborative, and efficient.
+        Technical leadership is the foundation for driving successful, high-performing teams. 
+
+        By focusing on architecture, development, and engineering best practices, we empower your developers to build high-quality, maintainable software that aligns with business goals and scales with growth. Our approach integrates DevOps, Agile methodologies, and platform engineering to ensure that your development processes are streamlined, collaborative, and efficient.
 
         We help your teams adopt a proactive mindset where quality is embedded into every phase of the development lifecycle—ensuring that testing, architecture, and development decisions are aligned from the outset. Through hands-on mentorship and guidance, we transform software testing from a reactive afterthought into a core discipline that drives excellence throughout your organization.
 
@@ -21,7 +23,9 @@ headline:
     - title: "Evidence-based Decision Making"
       isExpandable: true
       content: |
-        At NKD Agility, we believe that the best decisions are informed by data, not assumptions. Our evidence-based approach ensures that every strategic decision is backed by measurable insights, enabling your teams to act with confidence. By leveraging key metrics, real-time feedback, and performance data, we help you navigate complex business challenges and align your decisions with your long-term goals.
+        The best decisions are informed by data, not assumptions. 
+
+        Our evidence-based approach ensures that every strategic decision is backed by measurable insights, enabling your teams to act with confidence. By leveraging key metrics, real-time feedback, and performance data, we help you navigate complex business challenges and align your decisions with your long-term goals.
 
         Through continuous assessment and refinement, we focus on learning what works and what doesn’t—so your organization can adapt quickly, reduce risks, and seize new opportunities. Whether you’re optimizing processes, scaling your teams, or launching new products, our commitment to data-driven strategies ensures that every move you make is one that will drive measurable impact.
 
@@ -30,7 +34,9 @@ headline:
     - title: "Training & Mentoring"
       isExpandable: true
       content: |
-        At NKD Agility, we provide a comprehensive suite of training and mentoring programs aimed at empowering teams and individuals to excel in todays dynamic business environment. Our focus spans a variety of key technologies and practices, including Lean Agile methodologies like Scrum and Kanban, as well as technical expertise in DevOps, Azure DevOps, GitHub, and the latest innovations in AI with Copilot. These programs are designed to drive productivity, innovation, and operational excellence across all levels of your organization. 
+        We provide a comprehensive suite of training and mentoring programs aimed at empowering teams and individuals to excel in todays dynamic business environment. 
+
+        Our focus spans a variety of key technologies and practices, including Lean Agile methodologies like Scrum and Kanban, as well as technical expertise in DevOps, Azure DevOps, GitHub, and the latest innovations in AI with Copilot. These programs are designed to drive productivity, innovation, and operational excellence across all levels of your organization. 
 
         Our mentoring and training offerings emphasize the integration of modern practices such as platform engineering and Agile leadership, ensuring that teams are equipped to tackle the challenges of the evolving digital landscape. By focusing on both strategic leadership development and hands-on tools training, we provide the skills necessary to foster engineering excellence and guide organizations toward continuous improvement and success.
       image: ~
