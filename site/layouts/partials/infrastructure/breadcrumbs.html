@@ -10,6 +10,18 @@
       {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
       {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
       {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities/training-courses") }}
+      {{ if eq .Type "course" }}
+        {{ $urlParts := split .Params.url "/" }}
+        {{ $courseTopic := index $urlParts 3 }}
+        {{ $search := (printf "term/course-topics/%s" $courseTopic) }}
+        |{{ $search }}|
+        {{ $termPage := site.GetPage $search }}
+        {{ $termPage }}
+        {{ if $termPage }}
+          <!-- Add the term page to the breadcrumbs -->
+          {{ $breadcrumbs = $breadcrumbs | append $termPage }}
+        {{ end }}
+      {{ end }}
       {{ $breadcrumbs = $breadcrumbs | append . }}
       {{ $built = true }}
     {{ end }}
