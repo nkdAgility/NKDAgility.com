@@ -1,7 +1,7 @@
 ---
 title: Managing Projects Using Azure Boards Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44721"
 type: course
 slug: managing-projects-using-azure-boards-training

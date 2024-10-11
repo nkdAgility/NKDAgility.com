@@ -1,7 +1,7 @@
 ---
 title: Requirement management in the modern application lifecycle with TFS
 date: 2012-09-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8700"
 layout: blog
 resourceType: blog

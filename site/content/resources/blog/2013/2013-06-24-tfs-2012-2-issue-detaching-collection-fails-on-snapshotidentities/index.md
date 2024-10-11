@@ -1,7 +1,7 @@
 ---
 title: Issue [ TFS 2012.2 ] Detaching collection fails on SnapshotIdentities with object reference not set to an instance of an object
 date: 2013-06-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9661"
 layout: blog
 resourceType: blog

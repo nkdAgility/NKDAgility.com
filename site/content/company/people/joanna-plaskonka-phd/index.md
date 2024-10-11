@@ -1,7 +1,7 @@
 ---
 title: Joanna Płaskonka, Ph.D.
 date: 2022-12-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48545"
 type: people
 slug: joanna-plaskonka-phd

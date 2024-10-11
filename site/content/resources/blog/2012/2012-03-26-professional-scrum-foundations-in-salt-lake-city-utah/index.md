@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Foundations in Salt Lake City, Utah
 date: 2012-03-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4980"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: TFS WIT invalid submission conflict type"
 date: 2012-09-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8781"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Xbox  Live to Twitter Update (v0.2.3)
 date: 2008-01-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "267"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: TF205022: The following path contains more than the allowed 259 characters"
 date: 2012-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7255"
 layout: blog
 resourceType: blog

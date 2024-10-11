@@ -1,7 +1,7 @@
 ---
 title: Woops I installed Windows 8 instead of Windows 8 Pro!
 date: 2012-08-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6938"
 layout: blog
 resourceType: blog

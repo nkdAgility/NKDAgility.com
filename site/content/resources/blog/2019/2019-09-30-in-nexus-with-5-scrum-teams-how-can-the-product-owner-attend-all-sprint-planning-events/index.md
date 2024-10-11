@@ -1,7 +1,7 @@
 ---
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
 date: 2019-09-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39855"
 layout: blog
 resourceType: blog

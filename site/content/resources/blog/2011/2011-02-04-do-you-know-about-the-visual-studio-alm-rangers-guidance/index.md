@@ -1,7 +1,7 @@
 ---
 title: Do you know about the Visual Studio ALM Rangers Guidance?
 date: 2011-02-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "15"
 layout: blog
 resourceType: blog

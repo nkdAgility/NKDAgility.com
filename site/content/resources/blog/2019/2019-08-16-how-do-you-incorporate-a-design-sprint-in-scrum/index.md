@@ -1,7 +1,7 @@
 ---
 title: How do you incorporate a Design Sprint in Scrum?
 date: 2019-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39682"
 layout: blog
 resourceType: blog

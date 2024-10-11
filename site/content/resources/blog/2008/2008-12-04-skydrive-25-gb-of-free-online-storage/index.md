@@ -1,7 +1,7 @@
 ---
 title: "SkyDrive: 25 GB of free online storage"
 date: 2008-12-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "157"
 layout: blog
 resourceType: blog

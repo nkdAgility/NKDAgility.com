@@ -1,7 +1,7 @@
 ---
 title: "Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments"
 date: 2013-03-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9288"
 layout: blog
 resourceType: blog

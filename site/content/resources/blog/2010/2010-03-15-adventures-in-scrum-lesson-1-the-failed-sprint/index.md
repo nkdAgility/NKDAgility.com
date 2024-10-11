@@ -1,7 +1,7 @@
 ---
 title: "Adventures in Scrum: Lesson 1 – The failed Sprint"
 date: 2010-03-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "63"
 layout: blog
 resourceType: blog

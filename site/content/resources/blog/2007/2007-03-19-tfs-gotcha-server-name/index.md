@@ -1,7 +1,7 @@
 ---
 title: TFS Gotcha (server name)
 date: 2007-03-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "427"
 layout: blog
 resourceType: blog

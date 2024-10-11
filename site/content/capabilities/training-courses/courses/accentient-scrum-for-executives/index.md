@@ -1,7 +1,7 @@
 ---
 title: Scrum for Executives Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44726"
 type: course
 slug: scrum-for-executives-training

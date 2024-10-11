@@ -1,7 +1,7 @@
 ---
 title: Should I upgrade to TFS 2013 Update 2?
 date: 2014-04-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10479"
 layout: blog
 resourceType: blog

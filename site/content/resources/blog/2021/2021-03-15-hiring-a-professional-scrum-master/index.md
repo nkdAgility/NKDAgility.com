@@ -1,7 +1,7 @@
 ---
 title: Hiring a Professional Scrum Master
 date: 2021-03-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46053"
 layout: blog
 resourceType: blog

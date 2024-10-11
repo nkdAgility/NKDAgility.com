@@ -1,7 +1,7 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
 date: 2011-02-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9895"
 layout: blog
 resourceType: blog

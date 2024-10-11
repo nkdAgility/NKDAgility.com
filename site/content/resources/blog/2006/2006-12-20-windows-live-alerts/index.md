@@ -1,7 +1,7 @@
 ---
 title: Windows Live Alerts
 date: 2006-12-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "454"
 layout: blog
 resourceType: blog

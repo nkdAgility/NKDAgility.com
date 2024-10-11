@@ -1,7 +1,7 @@
 ---
 title: In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain
 date: 2011-04-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5"
 layout: blog
 resourceType: blog
@@ -68,8 +68,7 @@ The best way to do a domain migration of TFS 2008 and upgrade to TFS 2010 is to 
 10. Test new environment (Create Team Project | Connect to Source Control | Connect to Work Item Tracking | Run a Build)[![image](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159image_thumb_5-18-18.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159image_12.png)  
     { .post-img }
     **Figure: Agile 5 sandbox**
-11. Backup Team Project Collection\*This is just a precautionary backup so I can get back to this point if I need to. I also have backups for the Team Foundation Server 2008 databases.
-    -
+11. ## Backup Team Project Collection\*This is just a precautionary backup so I can get back to this point if I need to. I also have backups for the Team Foundation Server 2008 databases.
 12. Run Best Practices Analyser 2010[![image](images/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159image_thumb_7-19-19.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-WriterIn-Place-upgrade-of-TFS-2008-to-TFS-2010_A159image_16.png)  
     { .post-img }
     **Figure: Acceptable errors**

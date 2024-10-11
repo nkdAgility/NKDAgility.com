@@ -1,7 +1,7 @@
 ---
 title: Healthgrades
 date: 2017-05-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11939"
 type: customers
 slug: healthgrades

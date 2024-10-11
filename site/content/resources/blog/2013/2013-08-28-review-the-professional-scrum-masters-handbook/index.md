@@ -1,7 +1,7 @@
 ---
 title: "Review: The Professional Scrum Masters Handbook"
 date: 2013-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9967"
 layout: blog
 resourceType: blog

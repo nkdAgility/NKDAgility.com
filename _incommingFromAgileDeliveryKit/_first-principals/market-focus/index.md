@@ -3,7 +3,7 @@ title: Market Focus
 description: Update the work based on market and user feedback on timelines shorter than one month
 recommendedContent:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

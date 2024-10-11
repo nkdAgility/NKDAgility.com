@@ -1,7 +1,7 @@
 ---
 title: VSTS Sync Migration Tools
 date: 2016-10-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11634"
 layout: blog
 resourceType: blog

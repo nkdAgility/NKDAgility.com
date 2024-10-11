@@ -1,7 +1,7 @@
 ---
 title: Yorkhill Ice Bucket Challenge
 date: 2014-08-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10682"
 layout: blog
 resourceType: blog

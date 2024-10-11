@@ -1,7 +1,7 @@
 ---
 title: "The Definition of Done: Ensuring Quality without Compromising Value"
 date: 2023-09-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50083"
 layout: blog
 resourceType: blog

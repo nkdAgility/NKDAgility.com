@@ -1,7 +1,7 @@
 ---
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
 date: 2013-06-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9905"
 layout: blog
 resourceType: blog

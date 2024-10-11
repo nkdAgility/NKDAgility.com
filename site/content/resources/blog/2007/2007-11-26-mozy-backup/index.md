@@ -1,7 +1,7 @@
 ---
 title: Mozy Backup
 date: 2007-11-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "287"
 layout: blog
 resourceType: blog

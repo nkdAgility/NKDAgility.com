@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2008 Team Suite on Windows 7
 date: 2009-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "147"
 layout: blog
 resourceType: blog

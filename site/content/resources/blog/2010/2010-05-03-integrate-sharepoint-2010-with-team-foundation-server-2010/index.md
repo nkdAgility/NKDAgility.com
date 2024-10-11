@@ -1,7 +1,7 @@
 ---
 title: Integrate SharePoint 2010 with Team Foundation Server 2010
 date: 2010-05-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Hosted Sticky Buddy
 date: 2008-08-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "215"
 layout: blog
 resourceType: blog

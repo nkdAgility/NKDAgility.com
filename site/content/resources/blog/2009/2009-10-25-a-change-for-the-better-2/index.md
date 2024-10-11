@@ -1,7 +1,7 @@
 ---
 title: "A change for the better #2 - Aggreko to SSW"
 date: 2009-10-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "82"
 layout: blog
 resourceType: blog

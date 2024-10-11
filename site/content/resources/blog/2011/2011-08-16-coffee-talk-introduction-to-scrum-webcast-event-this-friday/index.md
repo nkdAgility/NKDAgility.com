@@ -1,7 +1,7 @@
 ---
 title: "Coffee Talk: Introduction to Scrum - webcast event this Friday!"
 date: 2011-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3728"
 layout: blog
 resourceType: blog

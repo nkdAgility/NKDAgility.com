@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Introduction
 date: 2012-01-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4131"
 layout: blog
 resourceType: blog

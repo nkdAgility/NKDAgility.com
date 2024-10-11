@@ -1,7 +1,7 @@
 ---
 title: Lockheed Martin
 date: 2014-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45375"
 type: customers
 slug: lockheed-martin

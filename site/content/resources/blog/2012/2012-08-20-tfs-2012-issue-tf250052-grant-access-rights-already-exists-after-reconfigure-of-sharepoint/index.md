@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint"
 date: 2012-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7247"
 layout: blog
 resourceType: blog

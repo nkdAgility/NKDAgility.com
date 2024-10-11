@@ -1,7 +1,7 @@
 ---
 title: Advice on using XamRibbon with Composite WPF
 date: 2008-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "164"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "The new ClusterMaps: NeoWORX"
 date: 2007-12-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "280"
 layout: blog
 resourceType: blog

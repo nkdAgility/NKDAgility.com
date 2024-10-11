@@ -1,7 +1,7 @@
 ---
 title: Workflow
 date: 2007-05-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "401"
 layout: blog
 resourceType: blog

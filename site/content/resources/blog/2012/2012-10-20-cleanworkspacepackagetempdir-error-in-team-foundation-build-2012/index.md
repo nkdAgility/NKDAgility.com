@@ -1,7 +1,7 @@
 ---
 title: Team Foundation Build 2012 Issue - The target CleanWorkspacePackageTempDir does not exist
 date: 2012-10-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8949"
 layout: blog
 resourceType: blog

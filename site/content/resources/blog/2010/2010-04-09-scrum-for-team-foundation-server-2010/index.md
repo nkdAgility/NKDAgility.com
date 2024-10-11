@@ -1,7 +1,7 @@
 ---
 title: Scrum for Team Foundation Server 2010
 date: 2010-04-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "55"
 layout: blog
 resourceType: blog

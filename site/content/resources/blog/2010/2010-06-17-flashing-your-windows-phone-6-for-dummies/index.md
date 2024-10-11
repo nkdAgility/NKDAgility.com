@@ -1,7 +1,7 @@
 ---
 title: Flashing your Windows Phone 6 for Dummies
 date: 2010-06-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38"
 layout: blog
 resourceType: blog

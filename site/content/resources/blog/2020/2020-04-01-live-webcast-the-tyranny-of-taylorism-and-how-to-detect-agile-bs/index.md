@@ -1,7 +1,7 @@
 ---
 title: The Tyranny of Taylorism and how to detect Agile BS
 date: 2020-04-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44208"
 layout: blog
 resourceType: blog

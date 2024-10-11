@@ -1,12 +1,12 @@
 ---
 title: Does the theory of Open Systems result in an inability to ever find a route cause?
 type: faq
-discussionId: 
+discussionId:
 references:
- - title: Redesigning the Future - A Systems Approach to Societal Problems - Russell Ackoff
-   url: https://en.wikipedia.org/wiki/Russell_L._Ackoff
+  - title: Redesigning the Future - A Systems Approach to Societal Problems - Russell Ackoff
+    url: https://en.wikipedia.org/wiki/Russell_L._Ackoff
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

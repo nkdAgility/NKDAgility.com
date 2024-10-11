@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy POC (WinForms) release
 date: 2008-02-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "248"
 layout: blog
 resourceType: blog

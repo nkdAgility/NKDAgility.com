@@ -1,7 +1,7 @@
 ---
 title: Interview with Scottish Developers
 date: 2009-10-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "85"
 layout: blog
 resourceType: blog

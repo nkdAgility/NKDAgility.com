@@ -1,7 +1,7 @@
 ---
 title: SharePoint 2013 Issue - After migration from 2010 user permission not working
 date: 2013-06-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9906"
 layout: blog
 resourceType: blog

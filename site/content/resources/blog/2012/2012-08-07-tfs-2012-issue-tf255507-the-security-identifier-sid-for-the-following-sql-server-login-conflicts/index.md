@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 Issue: TF255507: The security identifier (SID) for the following SQL Server login conflicts"
 date: 2012-08-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7074"
 layout: blog
 resourceType: blog

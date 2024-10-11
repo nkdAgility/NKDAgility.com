@@ -1,7 +1,7 @@
 ---
 title: "Post Event: MSDN Roadshow (Glasgow)"
 date: 2008-05-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "228"
 layout: blog
 resourceType: blog

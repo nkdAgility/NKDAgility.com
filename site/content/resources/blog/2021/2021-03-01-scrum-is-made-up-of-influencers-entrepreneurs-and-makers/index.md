@@ -1,7 +1,7 @@
 ---
 title: Scrum is made up of Influencers, Entrepreneurs, and Makers
 date: 2021-03-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45946"
 layout: blog
 resourceType: blog

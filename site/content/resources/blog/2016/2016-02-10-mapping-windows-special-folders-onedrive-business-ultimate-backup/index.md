@@ -1,7 +1,7 @@
 ---
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
 date: 2016-02-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11430"
 layout: blog
 resourceType: blog

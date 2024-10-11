@@ -1,7 +1,7 @@
 ---
 title: "Jadie Hinshelwood: A yummy mummy is born!"
 date: 2007-09-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "309"
 layout: blog
 resourceType: blog

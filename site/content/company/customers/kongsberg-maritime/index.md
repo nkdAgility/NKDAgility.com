@@ -1,7 +1,7 @@
 ---
 title: Kongsberg Maritime
 date: 2017-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11839"
 type: customers
 slug: kongsberg-maritime

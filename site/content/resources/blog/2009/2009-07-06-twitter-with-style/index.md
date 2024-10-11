@@ -1,7 +1,7 @@
 ---
 title: Twitter with style
 date: 2009-07-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "105"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Creating training virtual machines in Azure
 date: 2014-10-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10771"
 layout: blog
 resourceType: blog

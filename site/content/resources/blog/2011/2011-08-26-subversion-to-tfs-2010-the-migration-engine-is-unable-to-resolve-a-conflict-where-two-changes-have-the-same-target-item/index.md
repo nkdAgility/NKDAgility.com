@@ -1,7 +1,7 @@
 ---
 title: "Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item"
 date: 2011-08-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3769"
 layout: blog
 resourceType: blog

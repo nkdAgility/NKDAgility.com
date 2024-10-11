@@ -1,7 +1,7 @@
 ---
 title: Messenger United
 date: 2008-07-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "217"
 layout: blog
 resourceType: blog

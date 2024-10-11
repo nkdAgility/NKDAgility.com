@@ -1,7 +1,7 @@
 ---
 title: Connecting to SQL Server using DNS
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "256"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "NDC London 2014: Why TFS no longer sucks and VSO is awesome"
 date: 2014-12-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10980"
 layout: blog
 resourceType: blog

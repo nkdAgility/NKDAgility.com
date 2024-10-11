@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Training for the Ghana Police Service
 date: 2017-10-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "12095"
 layout: blog
 resourceType: blog

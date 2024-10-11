@@ -1,7 +1,7 @@
 ---
 title: Sharepoint 3.0 TFS Sub-Site creation investigation result
 date: 2007-06-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "383"
 layout: blog
 resourceType: blog

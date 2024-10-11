@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Developer (.NET) Training in London
 date: 2010-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "37"
 layout: blog
 resourceType: blog

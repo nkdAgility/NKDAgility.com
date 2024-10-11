@@ -1,7 +1,7 @@
 ---
 title: Installing Office 2010 gotcha 1
 date: 2009-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "104"
 layout: blog
 resourceType: blog

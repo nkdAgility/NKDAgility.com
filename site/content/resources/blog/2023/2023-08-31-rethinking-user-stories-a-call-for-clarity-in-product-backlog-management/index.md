@@ -1,7 +1,7 @@
 ---
 title: "Rethinking 'User Stories': A Call for Clarity in Product Backlog Management"
 date: 2023-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49726"
 layout: blog
 resourceType: blog

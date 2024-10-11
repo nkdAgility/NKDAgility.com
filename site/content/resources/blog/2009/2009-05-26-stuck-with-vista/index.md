@@ -1,7 +1,7 @@
 ---
 title: Stuck with Vista?
 date: 2009-05-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "107"
 layout: blog
 resourceType: blog

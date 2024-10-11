@@ -1,7 +1,7 @@
 ---
 title: Merge Team Projects into one in TFS
 date: 2014-07-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10638"
 layout: blog
 resourceType: blog

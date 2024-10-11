@@ -1,7 +1,7 @@
 ---
 title: Integrate SharePoint 2013 with Team Foundation Server 2012
 date: 2012-10-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8998"
 layout: blog
 resourceType: blog

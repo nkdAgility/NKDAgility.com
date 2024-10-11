@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Foundations coming to Glasgow, Scotland in November 2013
 date: 2013-09-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10094"
 layout: blog
 resourceType: blog

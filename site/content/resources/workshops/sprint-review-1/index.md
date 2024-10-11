@@ -5,7 +5,7 @@ description: The purpose of the Sprint Review is to maintain transparency of the
 aliases:
   - workshops/Sprint-Review-1.html
   - learn/agile-delivery-kit/workshops/Sprint-Review-1
-author: mrhinsh
+creator: Martin Hinshelwood
 references:
 recommendedContent:
  - collection: guides
@@ -24,7 +24,7 @@ videos:
  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
    embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

@@ -1,7 +1,7 @@
 ---
 title: Using the Build vNext capabilities and demands system
 date: 2015-03-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11081"
 layout: blog
 resourceType: blog

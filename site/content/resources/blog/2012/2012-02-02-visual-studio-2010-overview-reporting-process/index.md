@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Reporting & Process
 date: 2012-02-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4138"
 layout: blog
 resourceType: blog

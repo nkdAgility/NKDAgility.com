@@ -1,7 +1,7 @@
 ---
 title: Microsoft MyPhone service available to the public
 date: 2009-05-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "111"
 layout: blog
 resourceType: blog

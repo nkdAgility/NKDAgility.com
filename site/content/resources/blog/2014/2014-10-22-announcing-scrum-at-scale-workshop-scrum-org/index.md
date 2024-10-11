@@ -1,7 +1,7 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
 date: 2014-10-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10824"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Solution to connecting to TFS using HTTPS over the Internet from behind ISA
 date: 2009-05-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "112"
 layout: blog
 resourceType: blog

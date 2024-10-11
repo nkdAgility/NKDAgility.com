@@ -1,7 +1,7 @@
 ---
 title: "Studying for Exam 70-536: MCTS Application Development Foundation"
 date: 2007-05-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "404"
 layout: blog
 resourceType: blog

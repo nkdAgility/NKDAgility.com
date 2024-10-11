@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Architecture
 date: 2012-02-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4191"
 layout: blog
 resourceType: blog

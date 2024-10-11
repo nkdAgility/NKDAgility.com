@@ -1,7 +1,7 @@
 ---
 title: "Evolution not Transformation: This is the Inevitability of change"
 date: 2020-07-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44511"
 layout: blog
 resourceType: blog

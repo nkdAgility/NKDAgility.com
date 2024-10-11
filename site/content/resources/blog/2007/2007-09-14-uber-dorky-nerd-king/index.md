@@ -1,7 +1,7 @@
 ---
 title: Uber-Dorky Nerd King
 date: 2007-09-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "312"
 layout: blog
 resourceType: blog

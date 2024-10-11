@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler Update
 date: 2008-05-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "221"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Introducing Kanban for Professional Scrum Teams
 date: 2018-02-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38334"
 layout: blog
 resourceType: blog

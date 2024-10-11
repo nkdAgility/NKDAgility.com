@@ -1,7 +1,7 @@
 ---
 title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
 date: 2007-11-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "288"
 layout: blog
 resourceType: blog

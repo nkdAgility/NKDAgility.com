@@ -1,7 +1,7 @@
 ---
 title: What's new in Visual Studio 2013 and TFS 2013 RC
 date: 2013-09-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10019"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Kanban Trainer for Applying Professional Kanban
 date: 2021-01-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45694"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR Installation
 date: 2008-11-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "161"
 layout: blog
 resourceType: blog

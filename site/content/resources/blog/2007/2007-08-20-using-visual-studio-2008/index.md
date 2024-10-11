@@ -1,7 +1,7 @@
 ---
 title: Using Visual Studio 2008
 date: 2007-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "328"
 layout: blog
 resourceType: blog

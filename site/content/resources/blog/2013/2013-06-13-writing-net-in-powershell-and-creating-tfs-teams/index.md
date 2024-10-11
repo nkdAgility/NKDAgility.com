@@ -1,7 +1,7 @@
 ---
 title: Writing .NET in PowerShell and creating TFS Teams
 date: 2013-06-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9903"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Product Backlog Management Skills (PSPBMS) Course with Certification
 date: 2023-09-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49829"
 type: course
 slug: professional-scrum-product-backlog-management-skills-with-certification

@@ -1,7 +1,7 @@
 ---
 title: "Solution: Testing Web Services with MSTest on Team Foundation Build Services 2010"
 date: 2010-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "68"
 layout: blog
 resourceType: blog

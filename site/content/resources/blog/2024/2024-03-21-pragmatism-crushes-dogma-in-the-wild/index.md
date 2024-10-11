@@ -1,7 +1,7 @@
 ---
 title: Pragmatism crushes Dogma in the wild
 date: 2024-03-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51362"
 layout: blog
 resourceType: blog

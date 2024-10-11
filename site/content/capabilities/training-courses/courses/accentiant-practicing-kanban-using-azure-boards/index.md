@@ -1,7 +1,7 @@
 ---
 title: Practicing Kanban Using Azure Boards Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44723"
 type: course
 slug: practicing-kanban-using-azure-boards-training

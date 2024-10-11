@@ -1,7 +1,7 @@
 ---
 title: "TFS Event Handler: Coverage & Comments"
 date: 2007-05-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "406"
 layout: blog
 resourceType: blog

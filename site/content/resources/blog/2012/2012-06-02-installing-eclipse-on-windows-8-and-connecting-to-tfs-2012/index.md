@@ -1,7 +1,7 @@
 ---
 title: Installing Eclipse on Windows 8 and connecting to TFS 2012
 date: 2012-06-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5415"
 layout: blog
 resourceType: blog

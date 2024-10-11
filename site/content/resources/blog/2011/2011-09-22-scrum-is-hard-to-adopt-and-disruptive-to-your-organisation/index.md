@@ -1,7 +1,7 @@
 ---
 title: Scrum is hard to adopt and disruptive to your organisation
 date: 2011-09-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3789"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied"
 date: 2012-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7744"
 layout: blog
 resourceType: blog

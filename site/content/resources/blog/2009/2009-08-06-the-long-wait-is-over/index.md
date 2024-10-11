@@ -1,7 +1,7 @@
 ---
 title: The long wait is over
 date: 2009-08-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "93"
 layout: blog
 resourceType: blog

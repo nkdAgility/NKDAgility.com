@@ -1,23 +1,21 @@
 ---
 title: Upgrading from the TFS 2013 Preview to TFS 2013 RC
 date: 2013-09-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10041"
 layout: blog
 resourceType: blog
 slug: upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 aliases:
-- /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
+  - /blog/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc
 tags:
-- tfs
-- tfs-2013
-- upgrade
+  - tfs
+  - tfs-2013
+  - upgrade
 categories:
-- install-and-configuration
-- upgrade-and-maintenance
-
+  - install-and-configuration
+  - upgrade-and-maintenance
 ---
-
 
 With the [TFS 2013 RC](http://nkdagility.com/whats-new-in-visual-studio-2013-rc-with-team-foundation-server/) being made available I need to upgrade one of my main customers from the TFS 2013 Preview.
 
@@ -171,5 +169,3 @@ If you are on the Preview then it is a no brainer and simple task to go to the R
 Figure: Primary Team Dashboard in action
 
 I recommend that you check out this [walkthrough of the ALM features in Team Foundation Server 2013](http://nkdagility.com/video-new-with-visual-studio-2013-manage-portfolio-backlogs-to-understand-the-scope-of-work/). I have never shown users the features of 2013 and not had them immediately upgrade to the Preview. Lets see if I can keep that up with the RC.
-
-

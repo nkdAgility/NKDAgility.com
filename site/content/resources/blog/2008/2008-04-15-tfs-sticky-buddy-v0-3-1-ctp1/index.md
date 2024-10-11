@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy v0.3.1 CTP1
 date: 2008-04-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "239"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Continuous value delivery with modern business applications
 date: 2012-11-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9149"
 layout: blog
 resourceType: blog

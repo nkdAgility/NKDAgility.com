@@ -1,7 +1,7 @@
 ---
 title: When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010
 date: 2010-03-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "64"
 layout: blog
 resourceType: blog

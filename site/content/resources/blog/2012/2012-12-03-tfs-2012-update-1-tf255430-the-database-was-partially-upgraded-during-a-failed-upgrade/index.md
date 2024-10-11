@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade"
 date: 2012-12-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9164"
 layout: blog
 resourceType: blog

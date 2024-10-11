@@ -1,7 +1,7 @@
 ---
 title: Error creating listener in Team Build
 date: 2008-07-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "218"
 layout: blog
 resourceType: blog

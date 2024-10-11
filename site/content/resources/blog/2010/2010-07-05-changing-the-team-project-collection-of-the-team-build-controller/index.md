@@ -1,7 +1,7 @@
 ---
 title: Changing the Team Project Collection of the Team Build Controller
 date: 2010-07-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "35"
 layout: blog
 resourceType: blog

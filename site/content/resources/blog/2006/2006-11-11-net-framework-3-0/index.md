@@ -1,7 +1,7 @@
 ---
 title: .NET Framework 3.0
 date: 2006-11-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "462"
 layout: blog
 resourceType: blog

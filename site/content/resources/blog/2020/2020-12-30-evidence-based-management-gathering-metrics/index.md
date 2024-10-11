@@ -1,7 +1,7 @@
 ---
 title: "Evidence-based Management: Gathering the metrics"
 date: 2020-12-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10528"
 layout: blog
 resourceType: blog

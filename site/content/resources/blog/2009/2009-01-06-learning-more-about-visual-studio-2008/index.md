@@ -1,7 +1,7 @@
 ---
 title: Learning more about Visual Studio 2008
 date: 2009-01-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "150"
 layout: blog
 resourceType: blog

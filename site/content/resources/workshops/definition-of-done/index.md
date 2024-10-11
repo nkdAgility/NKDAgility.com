@@ -5,7 +5,7 @@ aliases:
   - workshops/Definition-Of-Done.html
   - learn/agile-delivery-kit/workshops/Definition-Of-Done
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 draft: true
 card:
   button:

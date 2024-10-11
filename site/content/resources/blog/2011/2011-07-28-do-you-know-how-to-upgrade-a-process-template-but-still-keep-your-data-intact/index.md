@@ -1,7 +1,7 @@
 ---
 title: Upgrading your Process Template in Team Foundation Server
 date: 2011-07-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3717"
 layout: blog
 resourceType: blog

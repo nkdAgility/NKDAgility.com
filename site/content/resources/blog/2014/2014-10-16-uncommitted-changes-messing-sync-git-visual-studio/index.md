@@ -1,7 +1,7 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
 date: 2014-10-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10732"
 layout: blog
 resourceType: blog

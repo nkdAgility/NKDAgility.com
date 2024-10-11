@@ -1,7 +1,7 @@
 ---
 title: "Solution: Getting Silverlight to build on Team Foundation Build Services 2010"
 date: 2010-03-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "69"
 layout: blog
 resourceType: blog

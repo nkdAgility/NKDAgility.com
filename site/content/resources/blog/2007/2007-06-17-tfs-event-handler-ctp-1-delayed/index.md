@@ -1,7 +1,7 @@
 ---
 title: "TFS Event Handler: CTP 1 Delayed"
 date: 2007-06-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "381"
 layout: blog
 resourceType: blog

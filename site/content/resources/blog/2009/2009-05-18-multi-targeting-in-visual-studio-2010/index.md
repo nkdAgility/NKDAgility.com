@@ -1,7 +1,7 @@
 ---
 title: Multi-Targeting in Visual Studio 2010
 date: 2009-05-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "117"
 layout: blog
 resourceType: blog

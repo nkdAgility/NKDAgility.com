@@ -1,7 +1,7 @@
 ---
 title: Moderating for Community-Credit
 date: 2007-09-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "313"
 layout: blog
 resourceType: blog

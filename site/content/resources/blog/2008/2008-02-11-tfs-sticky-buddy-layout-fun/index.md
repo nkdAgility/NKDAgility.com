@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy layout fun...
 date: 2008-02-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "249"
 layout: blog
 resourceType: blog

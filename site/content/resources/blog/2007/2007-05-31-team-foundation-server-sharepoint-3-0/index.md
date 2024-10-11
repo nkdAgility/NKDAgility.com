@@ -1,7 +1,7 @@
 ---
 title: Team Foundation Server & SharePoint 3.0
 date: 2007-05-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "391"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: What the 0x80072020?
 date: 2008-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "243"
 layout: blog
 resourceType: blog

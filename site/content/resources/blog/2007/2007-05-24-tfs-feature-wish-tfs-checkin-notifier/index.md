@@ -1,7 +1,7 @@
 ---
 title: TFS Feature Wish (TFS Checkin Notifier)
 date: 2007-05-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "397"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012"
 date: 2012-07-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6288"
 layout: blog
 resourceType: blog

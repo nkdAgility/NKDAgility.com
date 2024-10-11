@@ -1,7 +1,7 @@
 ---
 title: TFS Field Annotator
 date: 2012-03-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5061"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Live Virtual Classroom's and the new normal
 date: 2020-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44418"
 layout: blog
 resourceType: blog

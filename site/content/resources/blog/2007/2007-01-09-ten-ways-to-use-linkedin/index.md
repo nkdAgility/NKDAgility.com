@@ -1,7 +1,7 @@
 ---
 title: Ten Ways to Use LinkedIn
 date: 2007-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "451"
 layout: blog
 resourceType: blog

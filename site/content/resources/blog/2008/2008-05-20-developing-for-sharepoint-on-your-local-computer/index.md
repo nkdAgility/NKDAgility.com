@@ -1,7 +1,7 @@
 ---
 title: Developing for SharePoint on your local computer
 date: 2008-05-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "223"
 layout: blog
 resourceType: blog

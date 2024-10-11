@@ -1,7 +1,7 @@
 ---
 title: I always like a good Serenity plug...
 date: 2008-01-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "270"
 layout: blog
 resourceType: blog

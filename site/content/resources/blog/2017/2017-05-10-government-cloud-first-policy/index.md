@@ -1,7 +1,7 @@
 ---
 title: Government Cloud First policy
 date: 2017-05-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11882"
 layout: blog
 resourceType: blog

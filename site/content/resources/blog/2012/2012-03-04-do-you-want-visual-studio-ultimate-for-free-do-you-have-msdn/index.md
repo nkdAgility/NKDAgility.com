@@ -1,7 +1,7 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
 date: 2012-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4828"
 layout: blog
 resourceType: blog

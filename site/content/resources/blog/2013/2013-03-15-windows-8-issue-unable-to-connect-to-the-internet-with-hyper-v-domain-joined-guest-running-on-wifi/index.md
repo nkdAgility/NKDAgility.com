@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Issue: Unable to connect to the internet with Hyper-V domain joined guest running on WiFi"
 date: 2013-03-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9281"
 layout: blog
 resourceType: blog

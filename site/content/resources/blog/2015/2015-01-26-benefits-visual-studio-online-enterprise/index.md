@@ -1,7 +1,7 @@
 ---
 title: The benefits of Visual Studio Online for the Enterprise
 date: 2015-01-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11158"
 layout: blog
 resourceType: blog

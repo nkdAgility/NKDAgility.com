@@ -1,7 +1,7 @@
 ---
 title: Silverlight 3
 date: 2009-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "90"
 layout: blog
 resourceType: blog

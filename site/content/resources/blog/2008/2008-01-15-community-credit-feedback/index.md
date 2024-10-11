@@ -1,7 +1,7 @@
 ---
 title: Community-Credit feedback
 date: 2008-01-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "264"
 layout: blog
 resourceType: blog

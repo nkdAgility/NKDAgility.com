@@ -1,7 +1,7 @@
 ---
 title: Project of Projects with team Foundation Server 2010
 date: 2011-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "18"
 layout: blog
 resourceType: blog

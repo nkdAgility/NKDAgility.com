@@ -1,7 +1,7 @@
 ---
 title: If you had a choice!
 date: 2008-08-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "209"
 layout: blog
 resourceType: blog

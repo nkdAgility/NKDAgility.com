@@ -1,7 +1,7 @@
 ---
 title: Loss of My.User.Name is not that bad...
 date: 2008-02-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "245"
 layout: blog
 resourceType: blog

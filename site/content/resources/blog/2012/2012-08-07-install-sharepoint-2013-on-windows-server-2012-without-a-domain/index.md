@@ -1,7 +1,7 @@
 ---
 title: Install SharePoint 2013 on Windows Server 2012 without a domain
 date: 2012-08-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7067"
 layout: blog
 resourceType: blog

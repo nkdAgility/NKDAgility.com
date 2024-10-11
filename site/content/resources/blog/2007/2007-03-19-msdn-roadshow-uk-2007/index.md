@@ -1,7 +1,7 @@
 ---
 title: MSDN Roadshow UK 2007
 date: 2007-03-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "430"
 layout: blog
 resourceType: blog

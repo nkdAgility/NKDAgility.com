@@ -1,7 +1,7 @@
 ---
 title: Scott Guthrie in Glasgow
 date: 2010-03-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "58"
 layout: blog
 resourceType: blog

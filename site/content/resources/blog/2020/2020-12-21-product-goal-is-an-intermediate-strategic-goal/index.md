@@ -1,7 +1,7 @@
 ---
 title: Product Goal is an Intermediate Strategic Goal
 date: 2020-12-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45309"
 layout: blog
 resourceType: blog

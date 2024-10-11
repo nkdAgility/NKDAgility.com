@@ -1,7 +1,7 @@
 ---
 title: How Visual Studio 2010 and Team Foundation Server enable Compliance
 date: 2011-02-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "14"
 layout: blog
 resourceType: blog

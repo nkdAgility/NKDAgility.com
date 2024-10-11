@@ -1,7 +1,7 @@
 ---
 title: How to become a Multi-Dimensional Free Thinker
 date: 2007-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "364"
 layout: blog
 resourceType: blog

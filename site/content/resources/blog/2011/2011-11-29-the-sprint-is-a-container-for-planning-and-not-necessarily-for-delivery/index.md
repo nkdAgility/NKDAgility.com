@@ -1,7 +1,7 @@
 ---
 title: The Sprint is a container for Planning and not necessarily for Delivery
 date: 2011-11-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4092"
 layout: blog
 resourceType: blog

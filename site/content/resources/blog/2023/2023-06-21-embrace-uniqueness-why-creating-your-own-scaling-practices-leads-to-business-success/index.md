@@ -1,7 +1,7 @@
 ---
 title: "Embrace Uniqueness: Why Creating Your Own Scaling Practices Leads to Business Success"
 date: 2023-06-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49480"
 layout: blog
 resourceType: blog

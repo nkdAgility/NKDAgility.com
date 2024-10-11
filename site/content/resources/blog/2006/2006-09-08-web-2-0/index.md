@@ -1,7 +1,7 @@
 ---
 title: Web 2.0
 date: 2006-09-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "463"
 layout: blog
 resourceType: blog

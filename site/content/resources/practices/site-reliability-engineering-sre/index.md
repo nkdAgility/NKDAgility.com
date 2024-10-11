@@ -4,7 +4,7 @@ description: Site Reliability Engineering (SRE), part of the shift-left movement
 resourceType: practice
 layout: resources/single
 aliases:
- - learn/agile-delivery-kit/practices/site-reliability-engineering-sre
+  - learn/agile-delivery-kit/practices/site-reliability-engineering-sre
 references:
   - title: "NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood (PDF)"
     url: https://nkdagility.net/ndcoslo19-LiveSiteCulture
@@ -15,7 +15,7 @@ videos:
   - title: "NDC Conferences: Live Site Culture & Site Reliability at Azure DevOps - Martin Hinshelwood"
     embed: https://www.youtube.com/embed/CIDFB6XfoCg
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

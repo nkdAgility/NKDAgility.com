@@ -1,7 +1,7 @@
 ---
 title: It's nice to be appreciated!
 date: 2007-11-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "283"
 layout: blog
 resourceType: blog

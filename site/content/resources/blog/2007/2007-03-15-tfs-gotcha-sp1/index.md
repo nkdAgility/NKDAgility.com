@@ -1,7 +1,7 @@
 ---
 title: TFS Gotcha (SP1)
 date: 2007-03-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "428"
 layout: blog
 resourceType: blog

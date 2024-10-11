@@ -1,7 +1,7 @@
 ---
 title: Fun with Virgin+
 date: 2009-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "141"
 layout: blog
 resourceType: blog

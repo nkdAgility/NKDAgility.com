@@ -1,7 +1,7 @@
 ---
 title: Uninstalling Visual Studio 2010 Beta 1
 date: 2009-05-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "115"
 layout: blog
 resourceType: blog

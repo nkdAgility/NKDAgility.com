@@ -1,7 +1,7 @@
 ---
 title: "Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook"
 date: 2013-07-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9918"
 layout: blog
 resourceType: blog

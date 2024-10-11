@@ -1,19 +1,17 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR has been released!
 date: 2008-11-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "162"
 layout: blog
 resourceType: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
-- /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
+  - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
 tags:
-- tfs
-- tools
-
+  - tfs
+  - tools
 ---
-
 
 What a mouthful! Has there ever been any products with names as long as the Team System toolset ;), Maybe thats why it is just called [Data Dude](http://www.microsoft.com/downloads/details.aspx?FamilyID=bb3ad767-5f69-4db9-b1c9-8f55759846ed&displaylang=en).
 
@@ -54,5 +52,3 @@ Get it now :)
 >    [http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip](http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

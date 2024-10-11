@@ -1,7 +1,7 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
 date: 2014-02-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10381"
 layout: blog
 resourceType: blog

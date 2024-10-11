@@ -1,7 +1,7 @@
 ---
 title: Managing your Azure VM's with your Phone
 date: 2015-01-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11152"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: OutSync with proxy servers
 date: 2008-06-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "220"
 layout: blog
 resourceType: blog

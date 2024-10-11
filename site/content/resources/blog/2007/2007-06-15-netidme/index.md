@@ -1,7 +1,7 @@
 ---
 title: NetIDme
 date: 2007-06-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "384"
 layout: blog
 resourceType: blog

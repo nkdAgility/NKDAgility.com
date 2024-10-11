@@ -51,8 +51,8 @@ taxonomies:
 
 permalinks:
   taxonomy:
-    course-topics: "/capabilities/training-courses/topics/"
-    course-vendors: "/capabilities/training-courses/vendors/"
+    course-topics: "/capabilities/training-courses/course-topics"
+    course-vendors: "/capabilities/training-courses/course-vendors"
   term:
     course-topics: "/capabilities/training-courses/:slug/"
     course-vendors: "/capabilities/training-courses/:slug/"

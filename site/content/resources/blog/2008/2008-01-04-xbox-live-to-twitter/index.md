@@ -1,7 +1,7 @@
 ---
 title: Xbox Live To Twitter
 date: 2008-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "271"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Upgrading Visual Studio 2010
 date: 2010-04-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "54"
 layout: blog
 resourceType: blog

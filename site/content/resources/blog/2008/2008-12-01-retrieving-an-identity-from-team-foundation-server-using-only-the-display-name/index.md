@@ -1,7 +1,7 @@
 ---
 title: Retrieving an identity from Team Foundation Server using only the display name
 date: 2008-12-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "159"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Application Owner
 date: 2007-08-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "348"
 layout: blog
 resourceType: blog

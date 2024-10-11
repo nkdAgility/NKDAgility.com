@@ -1,7 +1,7 @@
 ---
 title: Always prompted for credentials in TFS 2010?
 date: 2011-11-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4071"
 layout: blog
 resourceType: blog

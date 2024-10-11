@@ -1,7 +1,7 @@
 ---
 title: DOD has made it illegal to do waterfall
 date: 2018-05-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10204"
 layout: blog
 resourceType: blog

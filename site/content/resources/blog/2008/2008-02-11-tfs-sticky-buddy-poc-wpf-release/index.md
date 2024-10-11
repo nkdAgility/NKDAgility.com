@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy POC (WPF) release
 date: 2008-02-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "247"
 layout: blog
 resourceType: blog

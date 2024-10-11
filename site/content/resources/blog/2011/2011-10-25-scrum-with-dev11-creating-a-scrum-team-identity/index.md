@@ -1,7 +1,7 @@
 ---
 title: "Scrum with Visual Studio 11: Creating a Scrum team identity"
 date: 2011-10-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3831"
 layout: blog
 resourceType: blog

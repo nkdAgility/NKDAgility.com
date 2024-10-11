@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade"
 date: 2012-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7176"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Sprint Goal is an Immediate Tactical Goal
 date: 2021-01-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45310"
 layout: blog
 resourceType: blog

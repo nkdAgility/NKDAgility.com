@@ -1,7 +1,7 @@
 ---
 title: "Microsoft: forget about PayPal, how about a MasterCard killer?"
 date: 2007-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "439"
 layout: blog
 resourceType: blog

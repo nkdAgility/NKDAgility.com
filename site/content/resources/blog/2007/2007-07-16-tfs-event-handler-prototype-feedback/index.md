@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler Prototype Feedback
 date: 2007-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "369"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Create a VHD from the Windows 7 Image disk
 date: 2009-12-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "77"
 layout: blog
 resourceType: blog

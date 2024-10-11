@@ -1,7 +1,7 @@
 ---
 title: Configuring Microsoft Teams for Live Virtual Training
 date: 2020-06-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44452"
 layout: blog
 resourceType: blog

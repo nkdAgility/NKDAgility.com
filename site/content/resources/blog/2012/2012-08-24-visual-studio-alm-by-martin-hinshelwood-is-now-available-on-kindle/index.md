@@ -1,7 +1,7 @@
 ---
 title: Visual Studio ALM by Martin Hinshelwood is now available on Kindle
 date: 2012-08-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7619"
 layout: blog
 resourceType: blog

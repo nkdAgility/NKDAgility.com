@@ -1,7 +1,7 @@
 ---
 title: Deploying Visual Studio 2010 Team Foundation Server Beta 2 - Done
 date: 2009-10-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "81"
 layout: blog
 resourceType: blog

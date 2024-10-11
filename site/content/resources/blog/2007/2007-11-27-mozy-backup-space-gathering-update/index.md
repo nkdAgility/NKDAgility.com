@@ -1,7 +1,7 @@
 ---
 title: Mozy Backup Space Gathering update
 date: 2007-11-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "286"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Using multiple email alias with your existing Microsoft ID
 date: 2014-04-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10496"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
 date: 2010-02-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "70"
 layout: blog
 resourceType: blog

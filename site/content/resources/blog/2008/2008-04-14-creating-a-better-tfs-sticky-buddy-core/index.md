@@ -1,7 +1,7 @@
 ---
 title: Creating a better TFS Sticky Buddy (Core)
 date: 2008-04-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "241"
 layout: blog
 resourceType: blog

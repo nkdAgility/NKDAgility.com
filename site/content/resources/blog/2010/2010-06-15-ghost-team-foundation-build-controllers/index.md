@@ -1,7 +1,7 @@
 ---
 title: Ghost build controllers in Team Foundation Server
 date: 2010-06-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39"
 layout: blog
 resourceType: blog

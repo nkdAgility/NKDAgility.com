@@ -1,7 +1,7 @@
 ---
 title: ALM Consulting in Scotland, UK, Scandinavia &amp; Europe
 date: 2013-11-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10226"
 layout: blog
 resourceType: blog

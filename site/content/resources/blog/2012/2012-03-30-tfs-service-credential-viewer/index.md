@@ -1,7 +1,7 @@
 ---
 title: TFS Service Credential Viewer
 date: 2012-03-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5032"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2012 RTM available & installed
 date: 2012-08-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7149"
 layout: blog
 resourceType: blog

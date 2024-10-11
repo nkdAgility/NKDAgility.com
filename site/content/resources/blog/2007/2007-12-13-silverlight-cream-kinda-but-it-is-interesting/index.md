@@ -1,7 +1,7 @@
 ---
 title: Silverlight cream, kinda, but it is interesting!
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "278"
 layout: blog
 resourceType: blog

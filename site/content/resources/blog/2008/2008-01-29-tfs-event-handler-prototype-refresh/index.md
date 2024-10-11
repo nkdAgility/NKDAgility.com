@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler (Prototype) Refresh
 date: 2008-01-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "259"
 layout: blog
 resourceType: blog

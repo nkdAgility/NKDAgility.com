@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 11 Upgrade Health Check
 date: 2012-03-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4747"
 layout: blog
 resourceType: blog

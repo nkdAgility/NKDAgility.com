@@ -1,7 +1,7 @@
 ---
 title: Team System MVP
 date: 2008-10-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "189"
 layout: blog
 resourceType: blog

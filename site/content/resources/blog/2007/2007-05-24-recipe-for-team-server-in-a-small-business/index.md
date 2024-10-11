@@ -1,7 +1,7 @@
 ---
 title: Recipe for Team Server in a small business
 date: 2007-05-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "399"
 layout: blog
 resourceType: blog

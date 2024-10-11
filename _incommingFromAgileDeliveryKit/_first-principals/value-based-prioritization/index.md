@@ -3,7 +3,7 @@ title: Value-based Prioritization
 description: Focus on delivering value to the stakeholders
 recommendedContent:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -14,4 +14,3 @@ card:
 Value-based Prioritization: Focus on delivering value to the stakeholders. The product backlog is prioritized based on the value it delivers, and the Scrum team works on the highest-priority items first.
 
 ## Value Creation vs Revenue Extraction
-

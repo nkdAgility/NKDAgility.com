@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler CTP 2 Released
 date: 2008-01-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "260"
 layout: blog
 resourceType: blog

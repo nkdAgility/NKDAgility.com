@@ -1,7 +1,7 @@
 ---
 title: What is the roll of the Project Manager in Scrum?
 date: 2012-01-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4116"
 layout: blog
 resourceType: blog

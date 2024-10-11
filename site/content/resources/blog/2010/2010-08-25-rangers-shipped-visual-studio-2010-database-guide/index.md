@@ -1,7 +1,7 @@
 ---
 title: Rangers shipped Visual Studio 2010 Database Guide
 date: 2010-08-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "30"
 layout: blog
 resourceType: blog

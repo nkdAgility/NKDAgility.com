@@ -1,7 +1,7 @@
 ---
 title: Issue [ TFS 2013 ] TF255466 A previous update or installation requires a restart
 date: 2013-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10006"
 layout: blog
 resourceType: blog

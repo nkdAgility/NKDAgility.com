@@ -1,7 +1,7 @@
 ---
 title: The Insufficiency of Scrum is a fallacy
 date: 2013-03-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9338"
 layout: blog
 resourceType: blog

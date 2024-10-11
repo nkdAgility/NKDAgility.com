@@ -1,7 +1,7 @@
 ---
 title: I messed up my work items from Excel! What now?
 date: 2012-02-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4609"
 layout: blog
 resourceType: blog

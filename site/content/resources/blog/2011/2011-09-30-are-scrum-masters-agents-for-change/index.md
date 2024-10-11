@@ -1,7 +1,7 @@
 ---
 title: Are Scrum Masters agents for change?
 date: 2011-09-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3823"
 layout: blog
 resourceType: blog

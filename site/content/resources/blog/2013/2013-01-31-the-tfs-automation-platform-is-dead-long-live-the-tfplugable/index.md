@@ -1,7 +1,7 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
 date: 2013-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9229"
 layout: blog
 resourceType: blog

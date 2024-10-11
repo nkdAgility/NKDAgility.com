@@ -1,7 +1,7 @@
 ---
 title: Does your company culture resemble Survivor?
 date: 2013-07-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9716"
 layout: blog
 resourceType: blog

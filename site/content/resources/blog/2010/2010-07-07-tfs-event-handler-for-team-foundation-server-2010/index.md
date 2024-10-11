@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler for Team Foundation Server 2010
 date: 2010-07-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "33"
 layout: blog
 resourceType: blog

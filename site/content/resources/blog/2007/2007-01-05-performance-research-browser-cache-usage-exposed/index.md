@@ -1,7 +1,7 @@
 ---
 title: Performance Research, Browser Cache Usage - Exposed!
 date: 2007-01-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "452"
 layout: blog
 resourceType: blog

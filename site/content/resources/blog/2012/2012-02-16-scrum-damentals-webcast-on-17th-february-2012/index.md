@@ -1,7 +1,7 @@
 ---
 title: Scrum-damentals Webcast on 17th February 2012
 date: 2012-02-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4389"
 layout: blog
 resourceType: blog

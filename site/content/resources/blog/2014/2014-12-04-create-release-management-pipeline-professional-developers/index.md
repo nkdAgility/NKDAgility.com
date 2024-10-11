@@ -1,7 +1,7 @@
 ---
 title: Create a Release Management pipeline for Professional Developers
 date: 2014-12-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10970"
 layout: blog
 resourceType: blog

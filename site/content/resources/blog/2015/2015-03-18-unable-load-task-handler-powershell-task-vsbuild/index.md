@@ -1,7 +1,7 @@
 ---
 title: Unable to load task handler PowerShell for task VSBuild
 date: 2015-03-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11097"
 layout: blog
 resourceType: blog

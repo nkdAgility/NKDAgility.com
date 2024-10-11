@@ -1,7 +1,7 @@
 ---
 title: Experts Exchange Hell - The slowest site in the world.
 date: 2007-10-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "302"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Team Foundation Server Error 28936
 date: 2007-08-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "337"
 layout: blog
 resourceType: blog

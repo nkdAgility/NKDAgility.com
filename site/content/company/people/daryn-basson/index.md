@@ -1,7 +1,7 @@
 ---
 title: Daryn Basson
 date: 2022-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48506"
 type: people
 slug: daryn-basson

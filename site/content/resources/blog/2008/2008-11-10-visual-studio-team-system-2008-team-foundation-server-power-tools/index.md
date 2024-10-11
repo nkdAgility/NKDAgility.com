@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Team System 2008 Team Foundation Server Power Tools
 date: 2008-11-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "172"
 layout: blog
 resourceType: blog

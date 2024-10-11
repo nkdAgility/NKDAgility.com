@@ -1,7 +1,7 @@
 ---
 title: Configure a DNS server for an Azure Virtual Network
 date: 2014-11-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10878"
 layout: blog
 resourceType: blog

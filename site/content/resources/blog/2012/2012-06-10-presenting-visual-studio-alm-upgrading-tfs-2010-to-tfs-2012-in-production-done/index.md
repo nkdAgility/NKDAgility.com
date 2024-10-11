@@ -1,7 +1,7 @@
 ---
 title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done
 date: 2012-06-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5432"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Dyslexia Awareness Week
 date: 2009-11-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "80"
 layout: blog
 resourceType: blog

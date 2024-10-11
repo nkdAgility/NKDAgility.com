@@ -1,7 +1,7 @@
 ---
 title: Luddites have no place in the modern organisation
 date: 2020-07-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44507"
 layout: blog
 resourceType: blog

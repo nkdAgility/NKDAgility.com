@@ -1,20 +1,18 @@
 ---
 title: Infragistics WPF
 date: 2008-10-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "179"
 layout: blog
 resourceType: blog
 slug: infragistics-wpf
 aliases:
-- /blog/infragistics-wpf
+  - /blog/infragistics-wpf
 tags:
-- tfs
-- tools
-- wpf
-
+  - tfs
+  - tools
+  - wpf
 ---
-
 
 ![](images/logo-1-1.gif) 
 { .post-img }
@@ -142,5 +140,3 @@ This should have displayed what I wanted, but it seams to be ignored.
 To allow this to work, all I needed to do was remove the x:Key from the template. But why can't I specify a template by name. What if I wanted to have two templates and choose which one was displayed…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
-
-

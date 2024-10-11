@@ -1,7 +1,7 @@
 ---
 title: Online is the new co-located
 date: 2020-11-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44487"
 layout: blog
 resourceType: blog

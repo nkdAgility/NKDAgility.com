@@ -1,7 +1,7 @@
 ---
 title: Kaiden and the Arachnoid Cyst
 date: 2010-05-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "41"
 layout: blog
 resourceType: blog

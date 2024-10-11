@@ -1,7 +1,7 @@
 ---
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
 date: 2020-11-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45077"
 layout: blog
 resourceType: blog

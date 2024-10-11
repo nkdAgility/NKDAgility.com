@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler v1.1 released
 date: 2008-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "160"
 layout: blog
 resourceType: blog

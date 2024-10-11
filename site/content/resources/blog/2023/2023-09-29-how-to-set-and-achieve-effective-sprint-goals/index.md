@@ -1,7 +1,7 @@
 ---
 title: How to Set and Achieve Effective Sprint Goals
 date: 2023-09-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50115"
 layout: blog
 resourceType: blog

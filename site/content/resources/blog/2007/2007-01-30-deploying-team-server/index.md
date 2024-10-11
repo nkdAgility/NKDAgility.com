@@ -1,7 +1,7 @@
 ---
 title: Deploying Team Server
 date: 2007-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "440"
 layout: blog
 resourceType: blog

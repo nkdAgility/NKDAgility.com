@@ -1,7 +1,7 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
 date: 2011-06-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3460"
 layout: blog
 resourceType: blog

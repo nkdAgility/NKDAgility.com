@@ -1,7 +1,7 @@
 ---
 title: Access denied user needs label permission in TFS
 date: 2014-06-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10546"
 layout: blog
 resourceType: blog

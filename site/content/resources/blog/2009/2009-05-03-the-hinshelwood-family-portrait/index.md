@@ -1,7 +1,7 @@
 ---
 title: The Hinshelwood Family Portrait
 date: 2009-05-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "124"
 layout: blog
 resourceType: blog

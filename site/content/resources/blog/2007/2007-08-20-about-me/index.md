@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2007-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "329"
 layout: blog
 resourceType: blog

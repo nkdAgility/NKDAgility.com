@@ -6,7 +6,7 @@ aliases:
   - learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team
 recommendedContent:
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

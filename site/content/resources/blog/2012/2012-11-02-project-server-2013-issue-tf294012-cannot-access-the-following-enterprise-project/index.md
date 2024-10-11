@@ -1,7 +1,7 @@
 ---
 title: "Project Server 2013 Issue - TF294012: Cannot access the following enterprise project"
 date: 2012-11-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9138"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: I spell it as Favourite and you as Favorite
 date: 2012-08-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7735"
 layout: blog
 resourceType: blog

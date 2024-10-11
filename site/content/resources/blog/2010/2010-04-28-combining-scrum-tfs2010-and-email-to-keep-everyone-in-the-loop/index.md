@@ -1,7 +1,7 @@
 ---
 title: Combining Scrum, TFS2010 and Email to keep everyone in the loop
 date: 2010-04-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48"
 layout: blog
 resourceType: blog

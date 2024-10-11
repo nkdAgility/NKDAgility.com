@@ -1,7 +1,7 @@
 ---
 title: Avoid the Bug as Task anti-pattern in Azure DevOps
 date: 2014-08-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10662"
 layout: blog
 resourceType: blog

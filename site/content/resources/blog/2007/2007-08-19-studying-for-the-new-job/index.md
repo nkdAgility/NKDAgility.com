@@ -1,7 +1,7 @@
 ---
 title: Studying for the new job
 date: 2007-08-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "330"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Use corporate identities with existing VSO accounts
 date: 2014-10-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10797"
 layout: blog
 resourceType: blog

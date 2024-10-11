@@ -1,7 +1,7 @@
 ---
 title: Back to the grind
 date: 2007-07-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "373"
 layout: blog
 resourceType: blog

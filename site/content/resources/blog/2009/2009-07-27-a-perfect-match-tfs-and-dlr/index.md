@@ -1,7 +1,7 @@
 ---
 title: A perfect match TFS and DLR
 date: 2009-07-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "96"
 layout: blog
 resourceType: blog

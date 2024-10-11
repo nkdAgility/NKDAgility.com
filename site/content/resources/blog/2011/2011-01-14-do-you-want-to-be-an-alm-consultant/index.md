@@ -1,7 +1,7 @@
 ---
 title: Do you want to be an ALM Consultant?
 date: 2011-01-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "17"
 layout: blog
 resourceType: blog

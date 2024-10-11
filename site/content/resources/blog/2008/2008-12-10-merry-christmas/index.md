@@ -1,7 +1,7 @@
 ---
 title: Merry Christmas
 date: 2008-12-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "154"
 layout: blog
 resourceType: blog

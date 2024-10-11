@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2010 Service Pack 1
 date: 2011-03-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9893"
 layout: blog
 resourceType: blog

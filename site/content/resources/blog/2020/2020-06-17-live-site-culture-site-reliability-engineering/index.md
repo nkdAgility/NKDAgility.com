@@ -1,7 +1,7 @@
 ---
 title: Live Site Culture & Site Reliability Engineering
 date: 2020-06-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44414"
 layout: blog
 resourceType: blog

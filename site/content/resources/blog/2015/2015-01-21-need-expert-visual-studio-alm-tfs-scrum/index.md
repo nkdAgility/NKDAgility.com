@@ -1,7 +1,7 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
 date: 2015-01-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11120"
 layout: blog
 resourceType: blog

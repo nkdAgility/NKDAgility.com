@@ -1,7 +1,7 @@
 ---
 title: Windows 7 RC
 date: 2009-05-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "128"
 layout: blog
 resourceType: blog

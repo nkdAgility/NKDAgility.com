@@ -1,7 +1,7 @@
 ---
 title: Philips
 date: 2011-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45366"
 type: customers
 slug: philips

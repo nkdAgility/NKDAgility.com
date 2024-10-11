@@ -1,7 +1,7 @@
 ---
 title: Introduction to .NET Framework 3.0 for Developers Event
 date: 2007-04-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "418"
 layout: blog
 resourceType: blog

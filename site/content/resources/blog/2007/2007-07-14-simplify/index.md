@@ -1,7 +1,7 @@
 ---
 title: Simplify
 date: 2007-07-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "372"
 layout: blog
 resourceType: blog

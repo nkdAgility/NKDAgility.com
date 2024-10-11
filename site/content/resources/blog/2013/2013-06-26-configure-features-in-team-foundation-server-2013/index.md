@@ -1,24 +1,22 @@
 ---
 title: Configure features in Team Foundation Server 2013
 date: 2013-06-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9912"
 layout: blog
 resourceType: blog
 slug: configure-features-in-team-foundation-server-2013
 aliases:
-- /blog/configure-features-in-team-foundation-server-2013
+  - /blog/configure-features-in-team-foundation-server-2013
 tags:
-- configuration
-- process-template
-- tfs
-- tfs-2013
-- tools
+  - configuration
+  - process-template
+  - tfs
+  - tfs-2013
+  - tools
 categories:
-- install-and-configuration
-
+  - install-and-configuration
 ---
-
 
 So you have upgraded to Team Foundation Server 2013 but you still don’t have some of the features that you upgraded for. There is a wizard for that but it is not supper discoverable that allows you to configure features in Team Foundation Server 2013.
 
@@ -78,5 +76,3 @@ At this point you should now have access to the new awesome features. Now go pla
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Be a kid again…
-
-

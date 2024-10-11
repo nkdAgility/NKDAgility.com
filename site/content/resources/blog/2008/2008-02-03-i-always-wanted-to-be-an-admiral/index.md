@@ -1,7 +1,7 @@
 ---
 title: I always wanted to be an Admiral!
 date: 2008-02-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "251"
 layout: blog
 resourceType: blog

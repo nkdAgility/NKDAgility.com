@@ -1,7 +1,7 @@
 ---
 title: Solution - SEO permanent redirects for old URL’s?
 date: 2010-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "73"
 layout: blog
 resourceType: blog

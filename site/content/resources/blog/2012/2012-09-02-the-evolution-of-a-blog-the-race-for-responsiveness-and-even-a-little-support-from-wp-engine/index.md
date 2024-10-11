@@ -1,7 +1,7 @@
 ---
 title: The evolution of a blog, the race for responsiveness and even a little support from WP Engine
 date: 2012-09-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8617"
 layout: blog
 resourceType: blog

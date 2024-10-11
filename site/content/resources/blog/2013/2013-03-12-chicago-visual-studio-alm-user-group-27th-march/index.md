@@ -1,7 +1,7 @@
 ---
 title: Chicago Visual Studio ALM User Group 27th March
 date: 2013-03-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9275"
 layout: blog
 resourceType: blog

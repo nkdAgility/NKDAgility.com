@@ -1,7 +1,7 @@
 ---
 title: "Wpf Ninject Dojo: The Data Provider"
 date: 2009-08-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "88"
 layout: blog
 resourceType: blog

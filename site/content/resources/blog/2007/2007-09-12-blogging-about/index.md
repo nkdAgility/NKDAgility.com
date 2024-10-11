@@ -1,7 +1,7 @@
 ---
 title: Blogging about...
 date: 2007-09-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "314"
 layout: blog
 resourceType: blog

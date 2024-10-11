@@ -1,7 +1,7 @@
 ---
 title: Using Corporate ID's with Visual Studio 2012 Team Foundation Service
 date: 2012-02-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4474"
 layout: blog
 resourceType: blog

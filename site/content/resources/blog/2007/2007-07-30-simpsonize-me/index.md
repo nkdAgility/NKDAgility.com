@@ -1,7 +1,7 @@
 ---
 title: Simpsonize Me!
 date: 2007-07-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "355"
 layout: blog
 resourceType: blog

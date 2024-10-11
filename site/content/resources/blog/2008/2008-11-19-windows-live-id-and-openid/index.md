@@ -1,7 +1,7 @@
 ---
 title: Windows Live ID and OpenID
 date: 2008-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "165"
 layout: blog
 resourceType: blog

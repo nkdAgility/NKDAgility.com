@@ -1,7 +1,7 @@
 ---
 title: Applying Metrics for Predictability
 date: 2024-01-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51140"
 type: course
 slug: applying-metrics-for-predictability

@@ -1,7 +1,7 @@
 ---
 title: Advanced Professional Scrum Product Owner (PSPO-A) Course with Certification
 date: 2021-01-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45563"
 type: course
 slug: professional-scrum-product-owner-advanced-pspo-a-online-with-certification

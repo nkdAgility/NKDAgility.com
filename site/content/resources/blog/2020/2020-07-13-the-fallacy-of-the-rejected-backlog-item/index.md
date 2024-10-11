@@ -1,7 +1,7 @@
 ---
 title: The fallacy of the rejected backlog item
 date: 2020-07-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9876"
 layout: blog
 resourceType: blog

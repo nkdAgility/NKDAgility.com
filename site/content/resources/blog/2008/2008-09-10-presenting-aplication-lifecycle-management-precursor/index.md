@@ -1,7 +1,7 @@
 ---
 title: "Presenting Aplication Lifecycle Management: Precursor"
 date: 2008-09-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "194"
 layout: blog
 resourceType: blog

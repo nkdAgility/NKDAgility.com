@@ -1,7 +1,7 @@
 ---
 title: TFS Process Templates
 date: 2007-06-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "386"
 layout: blog
 resourceType: blog

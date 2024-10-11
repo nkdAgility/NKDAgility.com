@@ -1,7 +1,7 @@
 ---
 title: TeamPlain - Revisit
 date: 2007-04-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "419"
 layout: blog
 resourceType: blog

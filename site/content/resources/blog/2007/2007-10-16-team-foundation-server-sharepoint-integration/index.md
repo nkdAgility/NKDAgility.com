@@ -1,7 +1,7 @@
 ---
 title: Team Foundation Server SharePoint Integration
 date: 2007-10-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "300"
 layout: blog
 resourceType: blog

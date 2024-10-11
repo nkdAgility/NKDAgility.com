@@ -1,7 +1,7 @@
 ---
 title: Upgrading from TFS 2008 to TFS 2010 Overview
 date: 2012-07-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6905"
 layout: blog
 resourceType: blog

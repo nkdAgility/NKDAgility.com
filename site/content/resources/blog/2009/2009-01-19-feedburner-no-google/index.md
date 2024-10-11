@@ -1,7 +1,7 @@
 ---
 title: Feedburner, no Google…
 date: 2009-01-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "144"
 layout: blog
 resourceType: blog

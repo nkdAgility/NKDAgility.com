@@ -1,7 +1,7 @@
 ---
 title: "Windows Vista: windows mobile device center"
 date: 2006-11-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "455"
 layout: blog
 resourceType: blog

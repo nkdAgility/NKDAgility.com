@@ -1,7 +1,7 @@
 ---
 title: Are you doing Scrum? Find out with a Scrum Health Check!
 date: 2012-02-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4406"
 layout: blog
 resourceType: blog

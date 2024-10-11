@@ -1,7 +1,7 @@
 ---
 title: Team Server Hmm!
 date: 2007-04-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "420"
 layout: blog
 resourceType: blog

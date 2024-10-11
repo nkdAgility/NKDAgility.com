@@ -1,7 +1,7 @@
 ---
 title: Technorati Troubles
 date: 2007-09-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "308"
 layout: blog
 resourceType: blog

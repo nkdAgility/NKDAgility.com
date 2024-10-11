@@ -1,7 +1,7 @@
 ---
 title: My Wish List of Team Foundation Server Tools
 date: 2007-06-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "389"
 layout: blog
 resourceType: blog

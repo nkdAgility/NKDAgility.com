@@ -1,7 +1,7 @@
 ---
 title: End of another Sticky week...
 date: 2008-04-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "237"
 layout: blog
 resourceType: blog

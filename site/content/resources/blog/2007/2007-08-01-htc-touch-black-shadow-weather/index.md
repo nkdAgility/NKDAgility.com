@@ -1,7 +1,7 @@
 ---
 title: HTC Touch / Black Shadow Weather
 date: 2007-08-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "351"
 layout: blog
 resourceType: blog

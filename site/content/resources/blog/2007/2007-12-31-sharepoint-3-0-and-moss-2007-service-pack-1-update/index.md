@@ -1,7 +1,7 @@
 ---
 title: SharePoint 3.0 and MOSS 2007 Service Pack 1 Update
 date: 2007-12-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "272"
 layout: blog
 resourceType: blog

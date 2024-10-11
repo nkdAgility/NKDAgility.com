@@ -1,7 +1,7 @@
 ---
 title: Database corruption in TFS 2005 causes TF246017 during upgrade
 date: 2010-09-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "24"
 layout: blog
 resourceType: blog

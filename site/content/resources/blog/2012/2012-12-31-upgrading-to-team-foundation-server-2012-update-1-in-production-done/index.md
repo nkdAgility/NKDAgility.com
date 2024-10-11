@@ -1,7 +1,7 @@
 ---
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
 date: 2012-12-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9211"
 layout: blog
 resourceType: blog

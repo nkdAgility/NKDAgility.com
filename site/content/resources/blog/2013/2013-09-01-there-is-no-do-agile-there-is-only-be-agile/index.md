@@ -1,7 +1,7 @@
 ---
 title: There is no "do agile" there is only "be agile"
 date: 2013-09-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10058"
 layout: blog
 resourceType: blog

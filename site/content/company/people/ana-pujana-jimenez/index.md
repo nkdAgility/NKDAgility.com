@@ -1,7 +1,7 @@
 ---
 title: Ana Pujana Jiménez
 date: 2021-10-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46982"
 type: people
 slug: ana-pujana-jimenez

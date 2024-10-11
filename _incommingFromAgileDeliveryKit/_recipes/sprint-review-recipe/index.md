@@ -3,7 +3,7 @@ title: Sprint Review Recipe
 description: A starter recipe for a Sprint Planning event with suggested facilitation options.
 type: recipe
 image: ./../assets/images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
-author: mrhinsh
+creator: Martin Hinshelwood
 recommendedContent:
  - collection: guides
    path: _guides/manifesto-for-agile-software-development.md
@@ -23,7 +23,7 @@ videos:
  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
    embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -33,7 +33,7 @@ card:
 
 When designing a flow for an event, it is hugely important to be clear on the purpose. For the Sprint Review, the purpose is to inspect the increment that was created during the Sprint as well as to adapt the Product Backlog based on new insights, ideas, and changes that result from this inspection. The Sprint Review is about answering the question: “Based on what we learned this Sprint, what are the next steps?”. This provides valuable input for Sprint Planning.
 
-*This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe*
+_This recipe is an example and starting point with a number of different facilitation examples provided. Please inherit from it and make it your own. If you have a great idea please submit a new recipe_
 
 ![Scrum Framework Sprint Review](./../assets/images/naked-agility-scrum-framework-sprint-review.jpg)
 
@@ -41,7 +41,7 @@ When designing a flow for an event, it is hugely important to be clear on the pu
 
 This workshop leverages a simple flow and consists of the following:
 
-The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting. 
+The Product Owner presents the vision and goals, followed by a summary of what happened, and a review of the product increment. Update the product backlog and discuss likely release dates and budgeting.
 
 Although Scrum Masters can certainly facilitate the Sprint Review, there is nothing holding others back from facilitating. Since the Sprint Review is particularly important for the Product Owner, as he or she will be sharing the increment with stakeholders, it makes sense for him or her to also play a role.
 
@@ -82,12 +82,11 @@ Share what is the rough draft plan for the next Sprint. Share your teams [Servic
 
 ![Throughput Run Chart.png](./../assets/images/naked-agility-kanban-throughput-run-chart.jpg)
 
-You can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels._
+You can use a **Throughput Run Chart** to present predictions based on empirical data with your expected confidence levels.\_
 
 ### Part 6: Release Projections & Budgeting [10 mins]
 
 Based on our historical data and our [Service Level Expectation (SLE)](../_practices/service-level-expectation-sle.md) you should be able to answer any Stakeholder questions on "When will I get feature A?" or "When will Feature B ship?". Express all your predictions coupled with your confidence level of achieving it.
-
 
 ![image.png](./../assets/images/naked-agility-kanban-cycle-time-scatter-plot.jpg)
 
@@ -100,5 +99,3 @@ Do you have architectural reviews, technology overviews or legal compliance? Dis
 ### Part 8: Any Other Business
 
 Just as it says!
-
-

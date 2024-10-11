@@ -1,7 +1,7 @@
 ---
 title: Windows Live Wave 3
 date: 2008-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "192"
 layout: blog
 resourceType: blog

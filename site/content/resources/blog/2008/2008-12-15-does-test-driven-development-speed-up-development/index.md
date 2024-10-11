@@ -1,7 +1,7 @@
 ---
 title: Does test-driven development speed up development?
 date: 2008-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "152"
 layout: blog
 resourceType: blog

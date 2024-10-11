@@ -1,7 +1,7 @@
 ---
 title: Am I a stoner hippy?
 date: 2009-01-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "146"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Bruce Lee on Scrum and Agile
 date: 2014-10-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10800"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Linked in VSTS Group
 date: 2008-05-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "226"
 layout: blog
 resourceType: blog

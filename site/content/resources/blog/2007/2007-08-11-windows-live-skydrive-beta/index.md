@@ -1,7 +1,7 @@
 ---
 title: Windows Live SkyDrive Beta
 date: 2007-08-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "336"
 layout: blog
 resourceType: blog

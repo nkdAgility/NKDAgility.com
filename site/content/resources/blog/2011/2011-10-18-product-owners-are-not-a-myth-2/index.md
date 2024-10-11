@@ -1,7 +1,7 @@
 ---
 title: Product Owners are not a myth
 date: 2011-10-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3909"
 layout: blog
 resourceType: blog

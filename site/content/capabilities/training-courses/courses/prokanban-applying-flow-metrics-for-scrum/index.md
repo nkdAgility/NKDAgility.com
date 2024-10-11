@@ -1,7 +1,7 @@
 ---
 title: Applying Flow Metrics for Scrum
 date: 2024-01-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51135"
 type: course
 slug: applying-flow-metrics-for-scrum

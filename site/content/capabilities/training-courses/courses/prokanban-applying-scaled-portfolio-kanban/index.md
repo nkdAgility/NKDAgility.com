@@ -1,7 +1,7 @@
 ---
 title: Applying Scaled Portfolio Kanban
 date: 2024-01-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51143"
 type: course
 slug: applying-scaled-portfolio-kanban

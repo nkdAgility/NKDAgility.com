@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Courses for 2016 in Oslo, Norway
 date: 2016-01-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11426"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Modelling Teams in Team Foundation Server 2013
 date: 2013-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9777"
 layout: blog
 resourceType: blog

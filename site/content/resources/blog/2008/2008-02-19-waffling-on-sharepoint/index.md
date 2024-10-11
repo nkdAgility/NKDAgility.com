@@ -1,7 +1,7 @@
 ---
 title: Waffling on SharePoint...
 date: 2008-02-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "246"
 layout: blog
 resourceType: blog

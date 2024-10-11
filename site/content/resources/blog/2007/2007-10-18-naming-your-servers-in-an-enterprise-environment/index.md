@@ -1,7 +1,7 @@
 ---
 title: Naming your servers in an enterprise environment
 date: 2007-10-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "299"
 layout: blog
 resourceType: blog

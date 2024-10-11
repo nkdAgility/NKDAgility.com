@@ -1,7 +1,7 @@
 ---
 title: Choosing a Process Template for your Team Project
 date: 2017-05-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10356"
 layout: blog
 resourceType: blog

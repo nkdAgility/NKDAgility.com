@@ -1,7 +1,7 @@
 ---
 title: My first ALM and second VSTS presentaton!
 date: 2008-09-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "193"
 layout: blog
 resourceType: blog

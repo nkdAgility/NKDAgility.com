@@ -1,7 +1,7 @@
 ---
 title: Virtual Labs in the modern application lifecycle
 date: 2012-09-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8803"
 layout: blog
 resourceType: blog

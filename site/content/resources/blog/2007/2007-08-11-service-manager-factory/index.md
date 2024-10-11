@@ -1,7 +1,7 @@
 ---
 title: Service Manager Factory
 date: 2007-08-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "335"
 layout: blog
 resourceType: blog

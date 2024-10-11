@@ -1,7 +1,7 @@
 ---
 title: Application lifecycle management with Office 2013 on Windows 8
 date: 2012-10-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8967"
 layout: blog
 resourceType: blog

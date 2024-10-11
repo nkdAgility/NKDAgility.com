@@ -1,7 +1,7 @@
 ---
 title: Windows Live Writer Beta 3
 date: 2007-10-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "307"
 layout: blog
 resourceType: blog

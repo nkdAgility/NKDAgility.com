@@ -1,7 +1,7 @@
 ---
 title: Social and Business Networking
 date: 2007-07-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "359"
 layout: blog
 resourceType: blog

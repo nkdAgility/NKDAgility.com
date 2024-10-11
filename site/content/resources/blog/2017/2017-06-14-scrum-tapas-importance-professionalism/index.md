@@ -1,7 +1,7 @@
 ---
 title: "Scrum Tapas: The Importance of Professionalism"
 date: 2017-06-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11942"
 layout: blog
 resourceType: blog

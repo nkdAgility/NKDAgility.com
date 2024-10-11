@@ -1,7 +1,7 @@
 ---
 title: LINQ to XSD
 date: 2008-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "203"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM) Course with Certification
 date: 2021-07-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46220"
 type: course
 slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification

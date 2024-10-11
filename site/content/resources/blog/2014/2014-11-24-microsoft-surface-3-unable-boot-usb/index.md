@@ -1,7 +1,7 @@
 ---
 title: Microsoft Surface 3 unable to boot from USB
 date: 2014-11-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10907"
 layout: blog
 resourceType: blog

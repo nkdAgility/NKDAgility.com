@@ -1,7 +1,7 @@
 ---
 title: Mozy update
 date: 2007-12-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "281"
 layout: blog
 resourceType: blog

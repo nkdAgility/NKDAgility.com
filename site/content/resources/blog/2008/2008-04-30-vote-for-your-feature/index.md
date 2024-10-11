@@ -1,7 +1,7 @@
 ---
 title: Vote for your feature
 date: 2008-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "234"
 layout: blog
 resourceType: blog

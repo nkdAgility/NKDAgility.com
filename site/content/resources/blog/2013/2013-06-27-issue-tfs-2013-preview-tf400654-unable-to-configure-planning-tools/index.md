@@ -1,7 +1,7 @@
 ---
 title: "Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools"
 date: 2013-06-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9911"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Preview - Issue: TF400898 The underlying connection was closed"
 date: 2012-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7161"
 layout: blog
 resourceType: blog

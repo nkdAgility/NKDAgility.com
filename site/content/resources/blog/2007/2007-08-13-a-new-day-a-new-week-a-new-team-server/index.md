@@ -1,7 +1,7 @@
 ---
 title: A new day, a new week, a new Team Server
 date: 2007-08-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "333"
 layout: blog
 resourceType: blog

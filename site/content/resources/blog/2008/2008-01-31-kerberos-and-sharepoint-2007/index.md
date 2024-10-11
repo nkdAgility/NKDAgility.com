@@ -1,7 +1,7 @@
 ---
 title: Kerberos and SharePoint 2007
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "254"
 layout: blog
 resourceType: blog

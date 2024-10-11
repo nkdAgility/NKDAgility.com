@@ -1,7 +1,7 @@
 ---
 title: Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows
 date: 2012-08-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6950"
 layout: blog
 resourceType: blog

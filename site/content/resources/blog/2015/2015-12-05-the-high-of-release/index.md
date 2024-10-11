@@ -1,7 +1,7 @@
 ---
 title: The High of Release
 date: 2015-12-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11398"
 layout: blog
 resourceType: blog

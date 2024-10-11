@@ -1,7 +1,7 @@
 ---
 title: You can't stop the signal! But you can ignore it!
 date: 2024-04-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51389"
 layout: blog
 resourceType: blog

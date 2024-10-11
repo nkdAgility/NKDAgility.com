@@ -1,7 +1,7 @@
 ---
 title: Join a machine to your azure hosted domain controller
 date: 2014-12-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10892"
 layout: blog
 resourceType: blog

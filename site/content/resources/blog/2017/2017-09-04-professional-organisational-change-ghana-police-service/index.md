@@ -1,7 +1,7 @@
 ---
 title: Professional Organisational Change at the Ghana Police Service
 date: 2017-09-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "12011"
 layout: blog
 resourceType: blog

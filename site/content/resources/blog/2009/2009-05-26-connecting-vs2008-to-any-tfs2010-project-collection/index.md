@@ -1,7 +1,7 @@
 ---
 title: Connecting VS2008 to any TFS2010 Project Collection
 date: 2009-05-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "108"
 layout: blog
 resourceType: blog

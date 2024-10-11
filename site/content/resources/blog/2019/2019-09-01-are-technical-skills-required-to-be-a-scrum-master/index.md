@@ -1,7 +1,7 @@
 ---
 title: Are technical skills required to be a Scrum Master?
 date: 2019-09-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39894"
 layout: blog
 resourceType: blog

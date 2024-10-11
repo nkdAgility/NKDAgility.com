@@ -1,26 +1,24 @@
 ---
 title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
 date: 2012-07-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6202"
 layout: blog
 resourceType: blog
 slug: migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliases:
-- /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
+  - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 tags:
-- configuration
-- infrastructure
-- tfs
-- tfs2012
-- tfs-integration-platform
-- tools
+  - configuration
+  - infrastructure
+  - tfs
+  - tfs2012
+  - tfs-integration-platform
+  - tools
 categories:
-- code-and-complexity
-- upgrade-and-maintenance
-
+  - code-and-complexity
+  - upgrade-and-maintenance
 ---
-
 
 As part of my current engagement I will be moving data from FogBugz via a custom CSV Tip Adapter for the TFS Integration Platform. This an adapter I wrote a while ago to facilitate moving data from Excel to TFS and I just ant to reuse it. The first thing I need is a development environment as I may need to tweak this ancient code.
 
@@ -69,23 +67,24 @@ Next you need to create a Solution and Project to hold your custom adapter. Use 
 Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation Server Integration Tools”. But in order to go through a debug cycle (the TFS Integration Platform has no Unit Tests) you need to provide a little magic.
 
 1.  **Select "Right Click Project | Compile | Build Events"**
-        [![image](images/image_thumb24-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image24.png)
+    [![image](images/image_thumb24-2-2.png "image")](http://blog.hinshelwood.com/files/2012/07/image24.png)
     { .post-img }
     **Figure: Open the project properties**
 2.  **Then in the post build events enter some xcopy statements**
-        [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)
+    [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)
     { .post-img }
     **Figure: Edit the build events**
-        ```
-        xcopy "$(TargetDir)$(TargetName)*" "$(SolutionDir)..BinariesMyAdapterPlugins*" /y
-        xcopy "$(ProjectDir)Configuration*" "$(SolutionDir)..BinariesMyAdapterConfigurations*" /y /s
-        xcopy "$(SolutionDir)..BinariesMyAdapter*" "%ProgramFiles(x86)%Microsoft Team Foundation Server Integration Tools*" /y /s
+    ```
+    xcopy "$(TargetDir)$(TargetName)_" "$(SolutionDir)..BinariesMyAdapterPlugins_" /y
+    xcopy "$(ProjectDir)Configuration*" "$(SolutionDir)..BinariesMyAdapterConfigurations*" /y /s
+    xcopy "$(SolutionDir)..BinariesMyAdapter*" "%ProgramFiles(x86)%Microsoft Team Foundation Server Integration Tools\*" /y /s
 
         ```
 
         **Figure: Add some xcopy statements** 
+
 3.  Select the Debug Tab
-        [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)
+    [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)
     { .post-img }
     Figure:
 4.  **Select “Start external Program” and enter the path to the Migration Console**
@@ -505,5 +504,3 @@ This is the easiest part now that we have our data format and our configuration 
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
 { .post-img }
-
-

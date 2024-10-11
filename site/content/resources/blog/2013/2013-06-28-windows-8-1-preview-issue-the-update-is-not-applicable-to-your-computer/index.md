@@ -1,7 +1,7 @@
 ---
 title: Windows 8.1 Preview Issue - The update is not applicable to your computer
 date: 2013-06-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9914"
 layout: blog
 resourceType: blog

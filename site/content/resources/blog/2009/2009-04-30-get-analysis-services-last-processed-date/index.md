@@ -1,7 +1,7 @@
 ---
 title: Get Analysis Services last processed date
 date: 2009-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "129"
 layout: blog
 resourceType: blog

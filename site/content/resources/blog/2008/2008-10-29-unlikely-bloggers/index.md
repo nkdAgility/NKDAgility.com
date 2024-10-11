@@ -1,7 +1,7 @@
 ---
 title: Unlikely bloggers…
 date: 2008-10-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "177"
 layout: blog
 resourceType: blog

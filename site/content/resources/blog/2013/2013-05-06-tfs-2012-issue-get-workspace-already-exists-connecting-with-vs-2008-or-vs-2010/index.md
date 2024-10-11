@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 Issue: Get Workspace already exists connecting with VS 2008 or VS 2010"
 date: 2013-05-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9496"
 layout: blog
 resourceType: blog

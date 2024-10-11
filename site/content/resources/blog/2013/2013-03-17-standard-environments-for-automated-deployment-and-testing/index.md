@@ -1,7 +1,7 @@
 ---
 title: Standard Environments for Automated Deployment and Testing
 date: 2013-03-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9308"
 layout: blog
 resourceType: blog

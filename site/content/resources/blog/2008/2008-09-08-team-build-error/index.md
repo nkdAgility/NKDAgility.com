@@ -1,7 +1,7 @@
 ---
 title: Team Build Error
 date: 2008-09-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "197"
 layout: blog
 resourceType: blog

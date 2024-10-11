@@ -1,7 +1,7 @@
 ---
 title: Moving OneDrive for Business files to a different drive
 date: 2016-02-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11440"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Memories of a multi-dimensional free thinking software developer
 date: 2007-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "365"
 layout: blog
 resourceType: blog

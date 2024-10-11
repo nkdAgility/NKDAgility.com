@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Master Advanced (PSM-A) with Certification
 date: 2019-05-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38638"
 type: course
 slug: professional-scrum-master-advanced-psm-a-with-certification

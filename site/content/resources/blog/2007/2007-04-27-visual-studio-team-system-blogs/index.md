@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Team System Blogs
 date: 2007-04-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "413"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Mozy Backup providing extra space this month
 date: 2008-10-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "176"
 layout: blog
 resourceType: blog

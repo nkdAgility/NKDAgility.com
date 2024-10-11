@@ -1,7 +1,7 @@
 ---
 title: Getting started with a modern source control system and DevOps
 date: 2017-11-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11456"
 layout: blog
 resourceType: blog

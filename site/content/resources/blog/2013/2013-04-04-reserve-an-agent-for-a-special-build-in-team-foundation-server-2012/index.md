@@ -1,7 +1,7 @@
 ---
 title: Reserve an Agent for a special build in Team Foundation Server 2012
 date: 2013-04-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9359"
 layout: blog
 resourceType: blog

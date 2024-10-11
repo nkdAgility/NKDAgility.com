@@ -1,7 +1,7 @@
 ---
 title: Agile in Africa 2016
 date: 2016-01-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11450"
 layout: blog
 resourceType: blog

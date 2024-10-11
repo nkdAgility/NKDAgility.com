@@ -1,7 +1,7 @@
 ---
 title: "PowerShell TFS 2013 API #2 - Adding to a GlobalList"
 date: 2013-10-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10151"
 layout: blog
 resourceType: blog

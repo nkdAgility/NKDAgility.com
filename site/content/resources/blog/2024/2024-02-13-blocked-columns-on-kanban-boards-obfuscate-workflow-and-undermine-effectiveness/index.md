@@ -1,7 +1,7 @@
 ---
 title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
 date: 2024-02-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51208"
 layout: blog
 resourceType: blog

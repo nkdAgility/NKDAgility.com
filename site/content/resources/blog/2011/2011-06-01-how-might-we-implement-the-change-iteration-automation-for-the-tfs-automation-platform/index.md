@@ -1,7 +1,7 @@
 ---
 title: How might we implement the Change Iteration Automation for the Tfs Automation Platform
 date: 2011-06-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3383"
 layout: blog
 resourceType: blog

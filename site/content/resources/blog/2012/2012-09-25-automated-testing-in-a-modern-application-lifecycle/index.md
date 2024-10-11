@@ -1,7 +1,7 @@
 ---
 title: Automated Testing in a modern application lifecycle
 date: 2012-09-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8868"
 layout: blog
 resourceType: blog

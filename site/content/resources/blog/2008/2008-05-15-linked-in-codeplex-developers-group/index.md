@@ -1,7 +1,7 @@
 ---
 title: Linked in Codeplex developers group
 date: 2008-05-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "227"
 layout: blog
 resourceType: blog

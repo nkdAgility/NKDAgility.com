@@ -1,7 +1,7 @@
 ---
 title: "Process Template Upgrade #3 - Destroy all Work Items and Import new ones"
 date: 2011-10-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3951"
 layout: blog
 resourceType: blog

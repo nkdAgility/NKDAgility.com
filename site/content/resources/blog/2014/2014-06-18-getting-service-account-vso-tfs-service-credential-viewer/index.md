@@ -1,7 +1,7 @@
 ---
 title: Getting a service account for VSO with TFS Service Credential Viewer
 date: 2014-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10596"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Removing ACL's for dead AD accounts
 date: 2008-01-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "262"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item"
 date: 2012-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6179"
 layout: blog
 resourceType: blog

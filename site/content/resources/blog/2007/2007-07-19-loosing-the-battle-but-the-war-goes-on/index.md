@@ -1,7 +1,7 @@
 ---
 title: Loosing the battle, but the war goes on
 date: 2007-07-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "367"
 layout: blog
 resourceType: blog

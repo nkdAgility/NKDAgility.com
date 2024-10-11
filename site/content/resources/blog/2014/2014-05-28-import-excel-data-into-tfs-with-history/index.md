@@ -1,7 +1,7 @@
 ---
 title: Import Excel data into TFS with History
 date: 2014-05-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10541"
 layout: blog
 resourceType: blog

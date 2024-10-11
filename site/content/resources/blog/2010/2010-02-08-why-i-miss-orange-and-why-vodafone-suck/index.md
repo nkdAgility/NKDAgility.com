@@ -1,7 +1,7 @@
 ---
 title: Why I miss Orange and why Vodafone suck!
 date: 2010-02-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "71"
 layout: blog
 resourceType: blog

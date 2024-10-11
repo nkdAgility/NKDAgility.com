@@ -1,7 +1,7 @@
 ---
 title: Visual Studio SP1 and Team System SP1 are Released!
 date: 2006-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "453"
 layout: blog
 resourceType: blog

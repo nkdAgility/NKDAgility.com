@@ -1,7 +1,7 @@
 ---
 title: Mobile Device Center
 date: 2007-04-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "417"
 layout: blog
 resourceType: blog

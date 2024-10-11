@@ -1,7 +1,7 @@
 ---
 title: Quality enablement to achieve predictable delivery
 date: 2013-07-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9737"
 layout: blog
 resourceType: blog

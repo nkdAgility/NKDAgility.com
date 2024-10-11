@@ -1,7 +1,7 @@
 ---
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
 date: 2011-06-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3279"
 layout: blog
 resourceType: blog

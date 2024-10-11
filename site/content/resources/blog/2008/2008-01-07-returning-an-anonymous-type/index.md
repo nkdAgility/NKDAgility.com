@@ -1,7 +1,7 @@
 ---
 title: Returning an Anonymous type...
 date: 2008-01-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "268"
 layout: blog
 resourceType: blog

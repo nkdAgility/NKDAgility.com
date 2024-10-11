@@ -1,7 +1,7 @@
 ---
 title: Connecting VS2010 to TFS 2008
 date: 2009-05-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "118"
 layout: blog
 resourceType: blog

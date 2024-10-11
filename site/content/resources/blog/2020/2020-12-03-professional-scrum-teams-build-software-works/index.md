@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum teams build software that works
 date: 2020-12-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "22774"
 layout: blog
 resourceType: blog

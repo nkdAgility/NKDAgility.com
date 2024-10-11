@@ -1,7 +1,7 @@
 ---
 title: Get your RTM here!
 date: 2007-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "293"
 layout: blog
 resourceType: blog

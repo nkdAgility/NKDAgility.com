@@ -1,7 +1,7 @@
 ---
 title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
 date: 2011-09-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3796"
 layout: blog
 resourceType: blog

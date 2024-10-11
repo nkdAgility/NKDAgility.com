@@ -1,7 +1,7 @@
 ---
 title: The Product Goal is a commitment for the Product Backlog
 date: 2020-11-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45086"
 layout: blog
 resourceType: blog

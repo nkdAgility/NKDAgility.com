@@ -1,7 +1,7 @@
 ---
 title: Issue [ TFS 2013 ] You get TF400324 when connecting InRelease to TFS
 date: 2013-07-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9749"
 layout: blog
 resourceType: blog

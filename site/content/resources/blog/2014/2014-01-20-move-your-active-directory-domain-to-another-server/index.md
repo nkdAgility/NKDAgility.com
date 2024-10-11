@@ -1,7 +1,7 @@
 ---
 title: Move your Active Directory domain to another server
 date: 2014-01-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10334"
 layout: blog
 resourceType: blog

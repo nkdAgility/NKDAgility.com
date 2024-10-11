@@ -1,7 +1,7 @@
 ---
 title: Interview with my favourite author
 date: 2008-11-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "175"
 layout: blog
 resourceType: blog

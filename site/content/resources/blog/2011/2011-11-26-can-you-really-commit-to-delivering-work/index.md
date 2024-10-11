@@ -1,7 +1,7 @@
 ---
 title: Can you really commit to delivering work?
 date: 2011-11-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4089"
 layout: blog
 resourceType: blog

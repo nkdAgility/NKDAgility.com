@@ -1,7 +1,7 @@
 ---
 title: Create a Portfolio Backlog hierarchy in Team Foundation Server 2013
 date: 2013-07-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9731"
 layout: blog
 resourceType: blog

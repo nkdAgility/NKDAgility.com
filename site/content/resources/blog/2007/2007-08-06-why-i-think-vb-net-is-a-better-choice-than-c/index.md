@@ -1,7 +1,7 @@
 ---
 title: Why I think VB.NET is a better choice than C#
 date: 2007-08-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "340"
 layout: blog
 resourceType: blog

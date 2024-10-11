@@ -1,7 +1,7 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
 date: 2010-09-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "29"
 layout: blog
 resourceType: blog

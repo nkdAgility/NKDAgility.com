@@ -1,7 +1,7 @@
 ---
 title: What is your perspective on collocation?
 date: 2019-10-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39960"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Product Owner (PSPO) Course with Certification
 date: 2019-11-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "41711"
 type: course
 slug: professional-scrum-product-owner-pspo-with-certification

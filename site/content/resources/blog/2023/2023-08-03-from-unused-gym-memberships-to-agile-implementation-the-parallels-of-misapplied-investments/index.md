@@ -1,7 +1,7 @@
 ---
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
 date: 2023-08-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49507"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Guidance - Branching for each Sprint
 date: 2010-04-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "56"
 layout: blog
 resourceType: blog

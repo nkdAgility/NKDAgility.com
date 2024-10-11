@@ -1,7 +1,7 @@
 ---
 title: "TFS Build reports Licencies.licx: unable to load type"
 date: 2014-10-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10730"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Least opportune time.
 date: 2008-11-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "163"
 layout: blog
 resourceType: blog

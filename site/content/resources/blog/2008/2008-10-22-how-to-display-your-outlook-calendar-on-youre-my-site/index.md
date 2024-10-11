@@ -1,7 +1,7 @@
 ---
 title: "How-To: Display your Outlook calendar on you’re My Site"
 date: 2008-10-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "184"
 layout: blog
 resourceType: blog

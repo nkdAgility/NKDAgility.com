@@ -1,7 +1,7 @@
 ---
 title: Wpf Scale Transform Behaviour
 date: 2009-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "87"
 layout: blog
 resourceType: blog

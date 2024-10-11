@@ -1,7 +1,7 @@
 ---
 title: "Agility and Windows 10: Upgrading my Surface Pro 2"
 date: 2014-10-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10746"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Unit Testing against the Team Foundation Server 2012 API
 date: 2012-04-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5112"
 layout: blog
 resourceType: blog

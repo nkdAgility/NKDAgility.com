@@ -1,7 +1,7 @@
 ---
 title: A problem with Diarist 2!
 date: 2008-09-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "195"
 layout: blog
 resourceType: blog

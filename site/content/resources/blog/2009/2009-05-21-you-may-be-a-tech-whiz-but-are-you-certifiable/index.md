@@ -1,7 +1,7 @@
 ---
 title: You May Be a Tech Whiz, but Are You Certifiable?
 date: 2009-05-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "110"
 layout: blog
 resourceType: blog

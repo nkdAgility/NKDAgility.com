@@ -1,7 +1,7 @@
 ---
 title: Install Release Management 2013
 date: 2014-02-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10353"
 layout: blog
 resourceType: blog

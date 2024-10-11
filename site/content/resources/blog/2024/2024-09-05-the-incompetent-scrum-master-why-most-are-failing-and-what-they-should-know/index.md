@@ -1,7 +1,7 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
 date: 2024-09-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51730"
 layout: blog
 resourceType: blog

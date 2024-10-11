@@ -1,7 +1,7 @@
 ---
 title: The Delivery
 date: 2007-06-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "374"
 layout: blog
 resourceType: blog

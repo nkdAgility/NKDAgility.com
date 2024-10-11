@@ -1,7 +1,7 @@
 ---
 title: Working within a single Team Project with Team Foundation Server 2012
 date: 2013-04-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9431"
 layout: blog
 resourceType: blog

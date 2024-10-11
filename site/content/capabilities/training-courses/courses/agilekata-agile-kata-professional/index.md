@@ -1,7 +1,7 @@
 ---
 title: Agile Kata Professional
 date: 2023-11-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50830"
 type: course
 slug: agile-kata-professional

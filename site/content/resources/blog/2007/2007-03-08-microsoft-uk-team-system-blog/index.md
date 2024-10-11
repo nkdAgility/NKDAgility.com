@@ -1,7 +1,7 @@
 ---
 title: Microsoft UK Team System Blog
 date: 2007-03-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "429"
 layout: blog
 resourceType: blog

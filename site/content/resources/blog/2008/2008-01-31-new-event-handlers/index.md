@@ -1,7 +1,7 @@
 ---
 title: New Event Handlers
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "258"
 layout: blog
 resourceType: blog

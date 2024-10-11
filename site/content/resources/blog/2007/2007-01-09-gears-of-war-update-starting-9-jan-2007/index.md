@@ -1,7 +1,7 @@
 ---
 title: Gears of War Update starting 9-Jan-2007
 date: 2007-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "449"
 layout: blog
 resourceType: blog

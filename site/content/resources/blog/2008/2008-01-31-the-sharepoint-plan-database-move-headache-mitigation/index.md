@@ -1,7 +1,7 @@
 ---
 title: "The SharePoint Plan: Database move headache mitigation"
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "257"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: New un-versioned repository in TFS 2012
 date: 2013-04-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9452"
 layout: blog
 resourceType: blog

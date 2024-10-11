@@ -1,7 +1,7 @@
 ---
 title: Stop normalizing unprofessional behaviour in the name of agility
 date: 2021-04-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46108"
 layout: blog
 resourceType: blog

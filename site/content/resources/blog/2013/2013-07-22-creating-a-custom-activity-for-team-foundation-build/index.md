@@ -1,26 +1,24 @@
 ---
 title: Creating a custom Activity for Team Foundation Build
 date: 2013-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9769"
 layout: blog
 resourceType: blog
 slug: creating-a-custom-activity-for-team-foundation-build
 aliases:
-- /blog/creating-a-custom-activity-for-team-foundation-build
+  - /blog/creating-a-custom-activity-for-team-foundation-build
 tags:
-- code
-- configuration
-- custom-activity
-- tfs-build
-- tools
-- workflow
+  - code
+  - configuration
+  - custom-activity
+  - tfs-build
+  - tools
+  - workflow
 categories:
-- code-and-complexity
-- install-and-configuration
-
+  - code-and-complexity
+  - install-and-configuration
 ---
-
 
 You can be creating a custom activity for Team Foundation Build in a few simple steps. There are always advanced steps but this will get you started.
 
@@ -59,5 +57,3 @@ If you set the visibility of the parameter to allow it to be shown on the Queue 
 ## Conclusion
 
 While there are many complex things that we could go into this is a simple example of how to organise your development environment to make it easy to build and test custom build activities for your build workflows.
-
-

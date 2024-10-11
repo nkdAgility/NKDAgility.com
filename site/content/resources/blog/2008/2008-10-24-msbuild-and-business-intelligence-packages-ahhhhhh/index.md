@@ -1,7 +1,7 @@
 ---
 title: MSBuild and Business Intelligence Packages, Ahhhhhh!
 date: 2008-10-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "182"
 layout: blog
 resourceType: blog

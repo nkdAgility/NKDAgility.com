@@ -1,7 +1,7 @@
 ---
 title: Soapbox Beta
 date: 2007-07-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "352"
 layout: blog
 resourceType: blog

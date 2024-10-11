@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - A day in the life of ... Plan, Code & Test
 date: 2012-01-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4142"
 layout: blog
 resourceType: blog

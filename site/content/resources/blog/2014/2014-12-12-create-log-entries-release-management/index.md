@@ -1,7 +1,7 @@
 ---
 title: Create log entries in Release Management
 date: 2014-12-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10975"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Why do we care about software factories?
 date: 2007-07-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "362"
 layout: blog
 resourceType: blog

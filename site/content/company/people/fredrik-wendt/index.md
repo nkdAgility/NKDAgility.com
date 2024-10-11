@@ -1,7 +1,7 @@
 ---
 title: Fredrik Wendt
 date: 2021-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45557"
 type: people
 slug: fredrik-wendt

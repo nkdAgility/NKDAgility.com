@@ -1,7 +1,7 @@
 ---
 title: Kerberos problems
 date: 2008-04-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "235"
 layout: blog
 resourceType: blog

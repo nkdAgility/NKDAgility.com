@@ -1,7 +1,7 @@
 ---
 title: Kalabule or a Professional at Agile in Africa
 date: 2016-10-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11642"
 layout: blog
 resourceType: blog

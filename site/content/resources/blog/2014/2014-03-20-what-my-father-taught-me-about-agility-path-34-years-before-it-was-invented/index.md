@@ -1,7 +1,7 @@
 ---
 title: What my father taught me about Evidence-based Management (34 years before it was invented!)
 date: 2014-03-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10446"
 layout: blog
 resourceType: blog

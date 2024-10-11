@@ -1,7 +1,7 @@
 ---
 title: "TFS EventHandler: Message Queuing"
 date: 2007-04-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "411"
 layout: blog
 resourceType: blog

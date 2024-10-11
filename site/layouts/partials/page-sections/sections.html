@@ -5,21 +5,25 @@
     <section class="container my-5">
       <div class="section">
         <h2>{{ $section.title | markdownify }}</h2>
-        <p>{{ $section.content | markdownify }}</p>
+        <div class="{{ $section.contentClass }}">
+          <p>{{ $section.content | markdownify }}</p>
+        </div>
         <!-- Conditional rendering based on section type -->
         {{ if eq $section.type "features" }}
           <!-- Render features -->
-          {{ partial "sections-features.html" . }}
+          {{ partial "page-sections/sections-features.html" . }}
         {{ else if eq $section.type "courses" }}
-          {{ partial "sections-courses.html" (dict "site" $site "context" .) }}
+          {{ partial "page-sections/sections-courses.html" (dict "site" $site "context" .) }}
+        {{ else if eq $section.type "audiences" }}
+          {{ partial "page-sections/sections-audiences.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "taxonomies" }}
-          {{ partial "sections-taxonomies.html" (dict "site" $site "context" $section) }}
+          {{ partial "page-sections/sections-taxonomies.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "videos" }}
-          {{ partial "sections-videos.html" (dict "site" $site "context" .) }}
+          {{ partial "page-sections/sections-videos.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "cards" }}
-          {{ partial "sections-cards.html" (dict "site" $site "context" .) }}
+          {{ partial "page-sections/sections-cards.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "counters" }}
-          {{ partial "sections-counters.html" (dict "site" $site "context" .) }}
+          {{ partial "page-sections/sections-counters.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "none" }}
         {{ else }}
           <!-- Default rendering for other types if needed -->

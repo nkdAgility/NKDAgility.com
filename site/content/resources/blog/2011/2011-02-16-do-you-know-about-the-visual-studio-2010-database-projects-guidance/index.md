@@ -1,7 +1,7 @@
 ---
 title: Do you know about the Visual Studio 2010 Database Projects Guidance?
 date: 2011-02-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9896"
 layout: blog
 resourceType: blog

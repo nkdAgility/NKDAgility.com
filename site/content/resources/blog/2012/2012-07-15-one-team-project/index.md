@@ -1,7 +1,7 @@
 ---
 title: One Team Project to rule them all
 date: 2012-07-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6160"
 layout: blog
 resourceType: blog

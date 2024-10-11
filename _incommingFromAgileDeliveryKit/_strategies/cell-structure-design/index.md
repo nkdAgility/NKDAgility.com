@@ -1,10 +1,10 @@
 ---
 title: Cell Structure Design
 references:
- - title: "CELL STRUCTURE DESIGN: READY FOR NO-LIMITS VALUE CREATION?"
-   url: https://www.redforty2.com/cellstructuredesign
+  - title: "CELL STRUCTURE DESIGN: READY FOR NO-LIMITS VALUE CREATION?"
+    url: https://www.redforty2.com/cellstructuredesign
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

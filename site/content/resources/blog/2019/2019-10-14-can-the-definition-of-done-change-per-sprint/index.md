@@ -1,7 +1,7 @@
 ---
 title: Can the Definition of Done change per Sprint?
 date: 2019-10-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "40168"
 layout: blog
 resourceType: blog

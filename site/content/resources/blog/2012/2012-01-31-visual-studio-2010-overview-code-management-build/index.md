@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Code Management and Build
 date: 2012-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4182"
 layout: blog
 resourceType: blog
