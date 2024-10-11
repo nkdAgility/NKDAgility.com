@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler CTP1 Released
 date: 2008-01-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "261"
 layout: blog
 resourceType: blog

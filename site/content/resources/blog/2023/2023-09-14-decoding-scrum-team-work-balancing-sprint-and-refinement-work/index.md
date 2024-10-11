@@ -1,7 +1,7 @@
 ---
 title: "Decoding Scrum Team Work: Balancing Sprint and Refinement Work"
 date: 2023-09-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49783"
 layout: blog
 resourceType: blog

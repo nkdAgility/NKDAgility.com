@@ -1,7 +1,7 @@
 ---
 title: "Coffee Talk: Scrum versus Kanban (re-match) ... Thursday at High Noon!"
 date: 2011-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3692"
 layout: blog
 resourceType: blog

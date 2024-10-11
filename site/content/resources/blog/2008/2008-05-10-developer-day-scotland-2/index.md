@@ -1,7 +1,7 @@
 ---
 title: Developer day Scotland!
 date: 2008-05-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "230"
 layout: blog
 resourceType: blog

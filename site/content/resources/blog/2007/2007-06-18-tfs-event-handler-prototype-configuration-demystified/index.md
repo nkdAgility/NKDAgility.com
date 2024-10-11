@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler prototype Configuration Demystified
 date: 2007-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "379"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler Progress
 date: 2007-05-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "402"
 layout: blog
 resourceType: blog

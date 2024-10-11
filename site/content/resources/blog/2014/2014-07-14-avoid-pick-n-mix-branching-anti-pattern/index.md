@@ -1,7 +1,7 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
 date: 2014-07-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10649"
 layout: blog
 resourceType: blog

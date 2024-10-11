@@ -1,7 +1,7 @@
 ---
 title: Assuring Quality Using Azure Test Plans Training
 date: 2020-09-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44766"
 type: course
 slug: assuring-quality-using-azure-test-plans-training

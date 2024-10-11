@@ -1,7 +1,7 @@
 ---
 title: "TFS EventHandler: MSMQ Refactor"
 date: 2007-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "407"
 layout: blog
 resourceType: blog

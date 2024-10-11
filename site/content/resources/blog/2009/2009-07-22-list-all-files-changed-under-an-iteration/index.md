@@ -1,7 +1,7 @@
 ---
 title: List all files changed under an Iteration
 date: 2009-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "99"
 layout: blog
 resourceType: blog

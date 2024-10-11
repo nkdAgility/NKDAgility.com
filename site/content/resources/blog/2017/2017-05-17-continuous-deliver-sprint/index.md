@@ -1,7 +1,7 @@
 ---
 title: I do continuous deliver, why should I Sprint?
 date: 2017-05-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11885"
 layout: blog
 resourceType: blog

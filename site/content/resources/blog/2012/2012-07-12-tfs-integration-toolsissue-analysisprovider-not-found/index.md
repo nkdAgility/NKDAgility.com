@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools–Issue: AnalysisProvider not found"
 date: 2012-07-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6136"
 layout: blog
 resourceType: blog

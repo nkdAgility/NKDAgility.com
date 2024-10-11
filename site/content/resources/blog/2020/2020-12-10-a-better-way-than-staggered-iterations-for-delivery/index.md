@@ -1,7 +1,7 @@
 ---
 title: A better way than staggered iterations for delivery
 date: 2020-12-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9915"
 layout: blog
 resourceType: blog

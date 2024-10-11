@@ -1,7 +1,7 @@
 ---
 title: Its that time again
 date: 2007-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "370"
 layout: blog
 resourceType: blog

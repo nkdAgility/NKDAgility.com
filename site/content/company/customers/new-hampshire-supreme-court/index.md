@@ -1,7 +1,7 @@
 ---
 title: New Hampshire Supreme Court
 date: 2011-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45356"
 type: customers
 slug: new-hampshire-supreme-court

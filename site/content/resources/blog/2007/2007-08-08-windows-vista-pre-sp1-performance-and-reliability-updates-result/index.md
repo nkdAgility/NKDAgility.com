@@ -1,7 +1,7 @@
 ---
 title: Windows Vista Pre-SP1 Performance and Reliability Updates Result
 date: 2007-08-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "338"
 layout: blog
 resourceType: blog

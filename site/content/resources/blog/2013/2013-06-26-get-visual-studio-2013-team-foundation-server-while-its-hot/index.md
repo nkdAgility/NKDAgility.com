@@ -1,7 +1,7 @@
 ---
 title: What's new in Visual Studio 2013 Team Foundation Server Preview
 date: 2013-06-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9677"
 layout: blog
 resourceType: blog

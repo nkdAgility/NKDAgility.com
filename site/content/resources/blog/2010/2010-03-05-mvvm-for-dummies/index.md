@@ -1,7 +1,7 @@
 ---
 title: MVVM for Dummies
 date: 2010-03-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "65"
 layout: blog
 resourceType: blog

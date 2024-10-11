@@ -1,7 +1,7 @@
 ---
 title: SharePoint Content Request | What would you like to see?
 date: 2007-07-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "361"
 layout: blog
 resourceType: blog

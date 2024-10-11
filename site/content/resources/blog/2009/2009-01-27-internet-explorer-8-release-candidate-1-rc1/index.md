@@ -1,7 +1,7 @@
 ---
 title: Internet Explorer 8 Release Candidate 1 (RC1)
 date: 2009-01-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "143"
 layout: blog
 resourceType: blog

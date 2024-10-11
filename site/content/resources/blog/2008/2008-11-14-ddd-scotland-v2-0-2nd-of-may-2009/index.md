@@ -1,7 +1,7 @@
 ---
 title: "DDD Scotland v2.0: 2nd of May 2009"
 date: 2008-11-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "169"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Do you have a contract between the Product Owner and the Team?
 date: 2010-04-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "52"
 layout: blog
 resourceType: blog

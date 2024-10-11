@@ -1,7 +1,7 @@
 ---
 title: Slaying the Dragons and How to Successfully Descale at Scale
 date: 2020-03-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44209"
 layout: blog
 resourceType: blog

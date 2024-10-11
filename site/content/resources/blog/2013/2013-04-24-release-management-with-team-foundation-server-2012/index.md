@@ -1,7 +1,7 @@
 ---
 title: Release Management with Team Foundation Server 2012
 date: 2013-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9468"
 layout: blog
 resourceType: blog

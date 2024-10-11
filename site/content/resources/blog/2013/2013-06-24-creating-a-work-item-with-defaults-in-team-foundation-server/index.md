@@ -1,23 +1,21 @@
 ---
 title: Creating a Work Item with defaults in Team Foundation Server
 date: 2013-06-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9686"
 layout: blog
 resourceType: blog
 slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
-- /blog/creating-a-work-item-with-defaults-in-team-foundation-server
+  - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
 tags:
-- configuration
-- tfs
-- tfs-2013
-- web-access
+  - configuration
+  - tfs
+  - tfs-2013
+  - web-access
 categories:
-- install-and-configuration
-
+  - install-and-configuration
 ---
-
 
 In some cases you want to be creating a Work Item with defaults in Team Foundation Server so that you can give access to users but also give them guidance on what to fill out.
 
@@ -46,5 +44,3 @@ Figure: New PBI form with custom defaults
 If you drop that URL into a browser you will see the new work item page with your work item pre-populated. Now if you want you can now create a simple html page that has a list of predefined links to create work items of different types and defaults…
 
 Simples…
-
-

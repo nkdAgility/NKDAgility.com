@@ -1,7 +1,7 @@
 ---
 title: Removing a dead Solution Deployment from MOSS 2007
 date: 2008-12-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "155"
 layout: blog
 resourceType: blog

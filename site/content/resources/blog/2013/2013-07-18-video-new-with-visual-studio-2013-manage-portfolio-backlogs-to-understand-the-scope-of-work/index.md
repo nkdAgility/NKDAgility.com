@@ -1,7 +1,7 @@
 ---
 title: "Video: New with Visual Studio 2013: Manage portfolio backlogs to understand the scope of work"
 date: 2013-07-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9718"
 layout: blog
 resourceType: blog

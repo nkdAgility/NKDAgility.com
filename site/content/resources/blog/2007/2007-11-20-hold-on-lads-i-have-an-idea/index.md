@@ -1,7 +1,7 @@
 ---
 title: Hold on lads, I have an idea!
 date: 2007-11-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "289"
 layout: blog
 resourceType: blog

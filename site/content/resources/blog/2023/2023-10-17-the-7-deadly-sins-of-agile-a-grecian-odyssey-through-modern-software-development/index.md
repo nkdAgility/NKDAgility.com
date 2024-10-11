@@ -1,7 +1,7 @@
 ---
 title: "The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development"
 date: 2023-10-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50309"
 layout: blog
 resourceType: blog

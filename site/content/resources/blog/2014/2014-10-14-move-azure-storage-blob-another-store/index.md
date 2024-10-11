@@ -1,7 +1,7 @@
 ---
 title: Move an Azure storage blob to another store
 date: 2014-10-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10778"
 layout: blog
 resourceType: blog

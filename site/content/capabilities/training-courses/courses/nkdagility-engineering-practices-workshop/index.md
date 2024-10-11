@@ -1,7 +1,7 @@
 ---
 title: Engineering Practices Workshop
 date: 2013-09-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10108"
 type: course
 slug: engineering-practices-workshop

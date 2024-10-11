@@ -1,7 +1,7 @@
 ---
 title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country
 date: 2012-08-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7712"
 layout: blog
 resourceType: blog

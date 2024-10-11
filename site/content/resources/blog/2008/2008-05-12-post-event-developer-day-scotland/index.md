@@ -1,7 +1,7 @@
 ---
 title: "Post event: Developer Day Scotland..."
 date: 2008-05-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "229"
 layout: blog
 resourceType: blog

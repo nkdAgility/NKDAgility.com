@@ -1,7 +1,7 @@
 ---
 title: What to do when you dont have a working computer!
 date: 2008-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "208"
 layout: blog
 resourceType: blog

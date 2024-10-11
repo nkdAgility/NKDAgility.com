@@ -1,7 +1,7 @@
 ---
 title: MOSS SP1 Install Notes
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "277"
 layout: blog
 resourceType: blog

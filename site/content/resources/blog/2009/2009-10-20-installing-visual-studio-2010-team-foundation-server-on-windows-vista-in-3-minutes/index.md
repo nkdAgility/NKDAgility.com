@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2010 Team Foundation Server on Windows Vista in 3 minutes
 date: 2009-10-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "84"
 layout: blog
 resourceType: blog

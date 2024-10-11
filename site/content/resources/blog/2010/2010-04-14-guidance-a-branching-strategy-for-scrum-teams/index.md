@@ -1,7 +1,7 @@
 ---
 title: "Guidance: A Branching strategy for Scrum Teams"
 date: 2010-04-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50"
 layout: blog
 resourceType: blog

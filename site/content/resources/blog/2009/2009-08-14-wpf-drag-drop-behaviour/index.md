@@ -1,7 +1,7 @@
 ---
 title: Wpf Drag & Drop behaviour
 date: 2009-08-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "92"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Change of plan
 date: 2008-05-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "224"
 layout: blog
 resourceType: blog

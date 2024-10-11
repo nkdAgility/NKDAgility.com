@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Foundations in Alameda, California
 date: 2012-10-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8981"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Installing the .NET Framework 3.5 Beta 2 on Vista
 date: 2007-07-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "357"
 layout: blog
 resourceType: blog

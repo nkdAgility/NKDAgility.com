@@ -1,7 +1,7 @@
 ---
 title: Is ALM a useful term?
 date: 2012-02-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4576"
 layout: blog
 resourceType: blog

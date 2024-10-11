@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;
 date: 2013-10-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10214"
 layout: blog
 resourceType: blog

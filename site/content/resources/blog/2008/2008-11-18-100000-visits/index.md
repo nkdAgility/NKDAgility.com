@@ -1,7 +1,7 @@
 ---
 title: 100,000 Visits
 date: 2008-11-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "167"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: .NET Service Manager
 date: 2008-08-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "213"
 layout: blog
 resourceType: blog

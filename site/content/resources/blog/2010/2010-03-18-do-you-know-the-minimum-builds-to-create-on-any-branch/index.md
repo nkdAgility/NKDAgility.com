@@ -1,7 +1,7 @@
 ---
 title: Do you know the minimum builds to create on any branch?
 date: 2010-03-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "60"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Document Explorer 2008 on Window 7
 date: 2009-02-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "138"
 layout: blog
 resourceType: blog

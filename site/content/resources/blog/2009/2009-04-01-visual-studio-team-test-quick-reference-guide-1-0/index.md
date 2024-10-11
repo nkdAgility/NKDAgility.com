@@ -1,7 +1,7 @@
 ---
 title: Visual Studio Team Test Quick Reference Guide 1.0
 date: 2009-04-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "133"
 layout: blog
 resourceType: blog

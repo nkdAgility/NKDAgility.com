@@ -1,7 +1,7 @@
 ---
 title: The new normal of the modern application lifecycle
 date: 2012-10-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8885"
 layout: blog
 resourceType: blog

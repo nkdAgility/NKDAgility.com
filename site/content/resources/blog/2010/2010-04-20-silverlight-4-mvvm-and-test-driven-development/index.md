@@ -1,7 +1,7 @@
 ---
 title: Silverlight 4, MVVM and Test-Driven Development
 date: 2010-04-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Would anyone be interested in hosted Visual Studio Team System (LinkedIn Question)
 date: 2007-05-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "400"
 layout: blog
 resourceType: blog

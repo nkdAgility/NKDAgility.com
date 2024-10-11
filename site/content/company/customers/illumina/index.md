@@ -1,7 +1,7 @@
 ---
 title: Illumina
 date: 2011-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45364"
 type: customers
 slug: illumina

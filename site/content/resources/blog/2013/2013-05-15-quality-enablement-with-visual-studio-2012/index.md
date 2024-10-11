@@ -1,7 +1,7 @@
 ---
 title: Quality enablement with Visual Studio 2012
 date: 2013-05-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9487"
 layout: blog
 resourceType: blog

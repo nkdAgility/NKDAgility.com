@@ -1,20 +1,18 @@
 ---
 title: Managing the “VSTS Developers” LinkedIn group.
 date: 2008-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "153"
 layout: blog
 resourceType: blog
 slug: managing-the-vsts-developers-linkedin-group
 aliases:
-- /blog/managing-the-vsts-developers-linkedin-group
+  - /blog/managing-the-vsts-developers-linkedin-group
 tags:
-- tfs
+  - tfs
 categories:
-- me
-
+  - me
 ---
-
 
 [![n2381079695_7151](images/eb4ca28d54bb_77F8-n2381079695_7151_3-1-1.jpg)](//www.linkedin.com/e/gis/104499)
 { .post-img }
@@ -29,5 +27,3 @@ Thanks guys for giving up a little bit of your valuable time….
 Hopefully, this will give members more information and a faster response time to requests…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-
-

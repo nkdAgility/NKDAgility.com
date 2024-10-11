@@ -1,7 +1,7 @@
 ---
 title: Investigation - SEO permanent redirects for old URL’s?
 date: 2009-12-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "74"
 layout: blog
 resourceType: blog

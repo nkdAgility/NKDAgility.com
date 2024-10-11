@@ -1,7 +1,7 @@
 ---
 title: Another day another Codeplex Project
 date: 2008-05-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "232"
 layout: blog
 resourceType: blog

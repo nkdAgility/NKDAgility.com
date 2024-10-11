@@ -1,7 +1,7 @@
 ---
 title: Cognizant Microsoft Business Group (MBG)
 date: 2021-03-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46077"
 type: customers
 slug: cognizant-microsoft-business-group-mbg

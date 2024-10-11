@@ -1,7 +1,7 @@
 ---
 title: "Windows 8 Issue: Local network is detected as public"
 date: 2012-08-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6924"
 layout: blog
 resourceType: blog

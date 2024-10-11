@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2012 Launch RoadShows around the World
 date: 2012-09-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8834"
 layout: blog
 resourceType: blog

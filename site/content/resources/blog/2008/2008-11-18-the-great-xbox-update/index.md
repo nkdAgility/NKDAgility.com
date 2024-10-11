@@ -1,7 +1,7 @@
 ---
 title: The great Xbox update
 date: 2008-11-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "166"
 layout: blog
 resourceType: blog

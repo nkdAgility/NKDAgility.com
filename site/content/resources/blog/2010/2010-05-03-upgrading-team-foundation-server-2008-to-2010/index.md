@@ -1,7 +1,7 @@
 ---
 title: Upgrading Team Foundation Server 2008 to 2010
 date: 2010-05-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45"
 layout: blog
 resourceType: blog

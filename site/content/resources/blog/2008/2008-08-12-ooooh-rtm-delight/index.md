@@ -1,7 +1,7 @@
 ---
 title: Ooooh, RTM Delight
 date: 2008-08-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "212"
 layout: blog
 resourceType: blog

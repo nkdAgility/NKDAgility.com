@@ -1,7 +1,7 @@
 ---
 title: Microsoft's internal uptake of Team Foundation Server
 date: 2007-08-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "343"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview Webcasts
 date: 2012-01-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4128"
 layout: blog
 resourceType: blog

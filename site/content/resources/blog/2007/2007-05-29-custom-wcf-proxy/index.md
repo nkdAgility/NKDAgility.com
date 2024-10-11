@@ -1,7 +1,7 @@
 ---
 title: Custom WCF Proxy
 date: 2007-05-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "394"
 layout: blog
 resourceType: blog

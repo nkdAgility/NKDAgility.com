@@ -1,7 +1,7 @@
 ---
 title: Could not find mappings for all states defined in 'Test Suit' work item type
 date: 2014-11-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10899"
 layout: blog
 resourceType: blog

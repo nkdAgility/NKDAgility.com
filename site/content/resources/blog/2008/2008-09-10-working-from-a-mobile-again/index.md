@@ -1,7 +1,7 @@
 ---
 title: Working from a Mobile again!
 date: 2008-09-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "196"
 layout: blog
 resourceType: blog

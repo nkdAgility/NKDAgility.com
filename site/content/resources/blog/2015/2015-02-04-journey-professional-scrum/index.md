@@ -1,7 +1,7 @@
 ---
 title: My journey into Professional Scrum
 date: 2015-02-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11115"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Installing Office 2013 on Windows 8
 date: 2012-07-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6306"
 layout: blog
 resourceType: blog

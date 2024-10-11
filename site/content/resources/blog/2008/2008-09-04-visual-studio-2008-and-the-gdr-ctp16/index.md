@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2008 and the GDR CTP16
 date: 2008-09-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "199"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2008 Team Foundation Server SP1
 date: 2009-11-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "79"
 layout: blog
 resourceType: blog

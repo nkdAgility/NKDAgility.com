@@ -1,7 +1,7 @@
 ---
 title: Installing TFS 2012 with Lab Management 2012
 date: 2012-06-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5496"
 layout: blog
 resourceType: blog

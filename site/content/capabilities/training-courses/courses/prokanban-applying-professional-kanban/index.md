@@ -1,7 +1,7 @@
 ---
 title: Applying Professional Kanban (APK) Course with Certification
 date: 2020-12-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45447"
 type: course
 weight: 100

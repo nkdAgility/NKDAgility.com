@@ -59,7 +59,7 @@ function Move-And-ConvertJekyllToHugo {
 
         # Add additional fields for Hugo
         $hugoFrontMatter += "date: $(Get-Date -Format yyyy-MM-dd)"
-        $hugoFrontMatter += "author: MrHinsh"
+        $hugoFrontMatter += "creator: Martin Hinshelwood"
 
         # Add the card section with dynamic title and content
         $hugoFrontMatter += "card:"

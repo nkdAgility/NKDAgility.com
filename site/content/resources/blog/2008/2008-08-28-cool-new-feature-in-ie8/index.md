@@ -1,7 +1,7 @@
 ---
 title: Cool new feature in IE8
 date: 2008-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "202"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Installing TFS 2008 from scratch
 date: 2007-10-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "297"
 layout: blog
 resourceType: blog

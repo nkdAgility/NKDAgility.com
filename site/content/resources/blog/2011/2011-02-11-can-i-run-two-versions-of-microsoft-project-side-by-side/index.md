@@ -1,7 +1,7 @@
 ---
 title: Can I run two versions of Microsoft Project side-by-side?
 date: 2011-02-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "13"
 layout: blog
 resourceType: blog

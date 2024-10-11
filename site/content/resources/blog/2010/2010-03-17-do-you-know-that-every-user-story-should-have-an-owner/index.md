@@ -1,7 +1,7 @@
 ---
 title: Do you know that every user story should have an owner?
 date: 2010-03-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "61"
 layout: blog
 resourceType: blog

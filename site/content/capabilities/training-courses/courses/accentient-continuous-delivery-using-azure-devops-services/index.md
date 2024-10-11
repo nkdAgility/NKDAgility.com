@@ -1,7 +1,7 @@
 ---
 title: Continuous Delivery Using Azure DevOps Services Training
 date: 2018-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38573"
 type: course
 slug: continuous-delivery-using-azure-devops-services-training

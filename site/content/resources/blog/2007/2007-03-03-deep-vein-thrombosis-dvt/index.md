@@ -1,7 +1,7 @@
 ---
 title: Deep vein thrombosis (DVT)
 date: 2007-03-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "433"
 layout: blog
 resourceType: blog

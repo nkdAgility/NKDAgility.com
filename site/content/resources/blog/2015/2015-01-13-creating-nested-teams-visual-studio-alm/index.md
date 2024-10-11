@@ -1,7 +1,7 @@
 ---
 title: Creating nested teams in Visual Studio ALM
 date: 2015-01-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11068"
 layout: blog
 resourceType: blog

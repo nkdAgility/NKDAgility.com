@@ -1,7 +1,7 @@
 ---
 title: "TFS EventHandler: Now on CodePlex"
 date: 2007-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "408"
 layout: blog
 resourceType: blog

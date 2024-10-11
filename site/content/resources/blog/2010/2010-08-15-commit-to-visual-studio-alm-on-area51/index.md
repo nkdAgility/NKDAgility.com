@@ -1,7 +1,7 @@
 ---
 title: Commit to Visual Studio ALM on Area51
 date: 2010-08-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "31"
 layout: blog
 resourceType: blog

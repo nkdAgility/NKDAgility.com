@@ -1,7 +1,7 @@
 ---
 title: Integrating Project Server 2013 with Team Foundation Server 2012
 date: 2012-11-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9075"
 layout: blog
 resourceType: blog

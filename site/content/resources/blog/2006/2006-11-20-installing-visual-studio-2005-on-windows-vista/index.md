@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2005 on Windows vista
 date: 2006-11-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "461"
 layout: blog
 resourceType: blog

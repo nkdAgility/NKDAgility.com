@@ -1,7 +1,7 @@
 ---
 title: Migrating from Codeplex to Github
 date: 2016-03-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11465"
 layout: blog
 resourceType: blog
@@ -53,8 +53,7 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
     You may find that you get errors when using "git tf". I am not sure where that rabbit hole goes, but you can use "git-tf" to access the same commands nad they work. I would suggest that this is a bug in the software.
 
 3.  **Clone your TFVC repository to Git -** Now that we have all of the tools installed we need to get our code over. Now as I suggested with "Git-TF" you are able to select the folder that you want to clone. I made a new directory and navigated to that folder in PowerShell.
-    `     Git-tf clone https://tfs.codeplex.com:443/tfs/TFS32 $/gwbtowp/MAIN --deep
-    `
+    `    Git-tf clone https://tfs.codeplex.com:443/tfs/TFS32 $/gwbtowp/MAIN --deep`
 
         ![clip_image005](images/clip_image005-5-5.png "clip_image005")
 
@@ -64,9 +63,8 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
         If you need to make changes to the repository you can do it now and checkin… after that all we have to do is push the changes back to GitHub. For this I am going to add an origin and then push to that location.
 
 4.  **Add Github remote and Push** – Now that we have a copy of the code locally we can easily add a second remote and deliberately push our new master branch to GitHub.
-    `     Git remote add github https://github.com/MrHinsh/gwb-to-wordpress.git
-    Git push -u github master
-    `
+    `    Git remote add github https://github.com/MrHinsh/gwb-to-wordpress.git
+Git push -u github master`
 
         ![clip_image006](images/clip_image006-6-6.png "clip_image006")
 

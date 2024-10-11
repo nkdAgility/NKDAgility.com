@@ -1,7 +1,7 @@
 ---
 title: Allow user to change the region for Windows Live ID billing
 date: 2011-10-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3830"
 layout: blog
 resourceType: blog

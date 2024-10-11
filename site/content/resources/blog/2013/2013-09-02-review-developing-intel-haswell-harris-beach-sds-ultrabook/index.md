@@ -1,7 +1,7 @@
 ---
 title: "Review Part 2: Developing with Intel Haswell Harris Beach SDS Ultrabook"
 date: 2013-09-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10081"
 layout: blog
 resourceType: blog

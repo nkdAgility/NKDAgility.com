@@ -1,7 +1,7 @@
 ---
 title: The trouble with IIS6, .pac files and DNS
 date: 2007-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "448"
 layout: blog
 resourceType: blog

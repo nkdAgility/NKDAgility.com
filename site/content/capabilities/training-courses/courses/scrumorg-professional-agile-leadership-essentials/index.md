@@ -1,7 +1,7 @@
 ---
 title: Professional Agile Leadership Essentials (PAL-e) with Certification
 date: 2017-05-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11878"
 type: course
 slug: professional-agile-leadership-essentials-pal-e-with-certification

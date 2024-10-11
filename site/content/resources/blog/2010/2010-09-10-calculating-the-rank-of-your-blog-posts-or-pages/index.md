@@ -1,7 +1,7 @@
 ---
 title: Calculating the Rank of your blog posts or pages
 date: 2010-09-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "26"
 layout: blog
 resourceType: blog

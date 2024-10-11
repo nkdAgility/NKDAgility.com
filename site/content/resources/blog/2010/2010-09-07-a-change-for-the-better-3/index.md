@@ -1,7 +1,7 @@
 ---
 title: "A change for the better #3 - SSW to Northwest Cadence"
 date: 2010-09-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "28"
 layout: blog
 resourceType: blog

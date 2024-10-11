@@ -1,7 +1,7 @@
 ---
 title: Unity and ASP.NET
 date: 2009-05-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "122"
 layout: blog
 resourceType: blog

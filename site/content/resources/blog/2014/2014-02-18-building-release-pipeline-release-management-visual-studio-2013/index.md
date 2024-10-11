@@ -1,7 +1,7 @@
 ---
 title: Building a release pipeline with Release Management with Visual Studio 2013
 date: 2014-02-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10372"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "How-To: Allow other users to interact with workflow on your MySite"
 date: 2008-10-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "185"
 layout: blog
 resourceType: blog

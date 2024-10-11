@@ -1,7 +1,7 @@
 ---
 title: TFS Process Template migration script updated
 date: 2014-06-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10558"
 layout: blog
 resourceType: blog

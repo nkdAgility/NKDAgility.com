@@ -1,7 +1,7 @@
 ---
 title: Dan Brown (KanbanDan)
 date: 2023-06-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49463"
 type: people
 slug: dan-brown-kanbandan

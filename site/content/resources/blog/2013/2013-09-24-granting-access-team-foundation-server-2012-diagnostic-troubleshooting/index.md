@@ -1,7 +1,7 @@
 ---
 title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
 date: 2013-09-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10002"
 layout: blog
 resourceType: blog

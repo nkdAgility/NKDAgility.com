@@ -1,7 +1,7 @@
 ---
 title: Updating the Command Line Parser
 date: 2009-08-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "91"
 layout: blog
 resourceType: blog

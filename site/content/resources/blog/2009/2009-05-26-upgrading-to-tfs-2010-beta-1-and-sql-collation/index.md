@@ -1,7 +1,7 @@
 ---
 title: Upgrading to TFS 2010 Beta 1 and SQL Collation
 date: 2009-05-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "109"
 layout: blog
 resourceType: blog

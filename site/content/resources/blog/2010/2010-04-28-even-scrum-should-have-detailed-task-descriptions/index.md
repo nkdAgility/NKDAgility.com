@@ -1,7 +1,7 @@
 ---
 title: Even Scrum should have detailed Task descriptions
 date: 2010-04-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46"
 layout: blog
 resourceType: blog

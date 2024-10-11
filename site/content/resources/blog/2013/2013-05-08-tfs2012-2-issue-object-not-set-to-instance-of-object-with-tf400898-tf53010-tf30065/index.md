@@ -1,7 +1,7 @@
 ---
 title: "TFS2012.2 - Issue: Object not set to instance of object with TF400898, TF53010 & TF30065"
 date: 2013-05-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9899"
 layout: blog
 resourceType: blog

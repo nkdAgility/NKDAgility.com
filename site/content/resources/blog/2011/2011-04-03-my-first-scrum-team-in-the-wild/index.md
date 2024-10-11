@@ -1,7 +1,7 @@
 ---
 title: My first Scrum team in the wild
 date: 2011-04-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9892"
 layout: blog
 resourceType: blog

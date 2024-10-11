@@ -1,7 +1,7 @@
 ---
 title: TeamPlain - Install and initial views
 date: 2007-03-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "421"
 layout: blog
 resourceType: blog

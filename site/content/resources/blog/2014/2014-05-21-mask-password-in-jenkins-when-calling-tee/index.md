@@ -1,7 +1,7 @@
 ---
 title: Mask password in Jenkins when calling TEE
 date: 2014-05-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10538"
 layout: blog
 resourceType: blog

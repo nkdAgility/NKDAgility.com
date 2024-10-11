@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Master (PSM) Course with Certification
 date: 2017-01-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10049"
 type: course
 slug: professional-scrum-master-psm-with-certification

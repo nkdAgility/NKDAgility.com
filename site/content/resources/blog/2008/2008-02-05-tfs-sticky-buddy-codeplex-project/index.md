@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy Codeplex project
 date: 2008-02-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "250"
 layout: blog
 resourceType: blog

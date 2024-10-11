@@ -1,7 +1,7 @@
 ---
 title: Reformat your CSS on the fly
 date: 2009-01-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "142"
 layout: blog
 resourceType: blog

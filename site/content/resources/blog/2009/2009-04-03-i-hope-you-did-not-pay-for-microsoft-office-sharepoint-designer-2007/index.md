@@ -1,7 +1,7 @@
 ---
 title: I hope you did not pay for Microsoft Office Sharepoint Designer 2007
 date: 2009-04-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "131"
 layout: blog
 resourceType: blog

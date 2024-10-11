@@ -1,7 +1,7 @@
 ---
 title: Are you doing Scrum? Really?
 date: 2011-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4049"
 layout: blog
 resourceType: blog

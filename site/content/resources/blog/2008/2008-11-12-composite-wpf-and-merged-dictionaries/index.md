@@ -1,7 +1,7 @@
 ---
 title: Composite WPF and Merged Dictionaries
 date: 2008-11-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "170"
 layout: blog
 resourceType: blog

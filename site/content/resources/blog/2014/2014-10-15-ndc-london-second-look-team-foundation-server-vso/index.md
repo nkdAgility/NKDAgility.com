@@ -1,7 +1,7 @@
 ---
 title: "NDC London: Second Look, Team Foundation Server &amp; VSO"
 date: 2014-10-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10811"
 layout: blog
 resourceType: blog

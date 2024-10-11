@@ -1,7 +1,7 @@
 ---
 title: "Project Server 2013 Issue – TF294026: The following work item field does not exist"
 date: 2012-11-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9103"
 layout: blog
 resourceType: blog

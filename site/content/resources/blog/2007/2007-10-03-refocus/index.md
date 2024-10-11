@@ -1,7 +1,7 @@
 ---
 title: Refocus...
 date: 2007-10-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "304"
 layout: blog
 resourceType: blog

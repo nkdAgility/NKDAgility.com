@@ -1,7 +1,7 @@
 ---
 title: SharePoint 3.0 TFS Sub-Site creation error.
 date: 2007-06-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "388"
 layout: blog
 resourceType: blog

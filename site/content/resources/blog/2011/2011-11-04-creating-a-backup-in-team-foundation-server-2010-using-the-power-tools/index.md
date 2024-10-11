@@ -1,23 +1,21 @@
 ---
 title: Creating a backup in Team Foundation Server 2010 using the Power Tools
 date: 2011-11-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4025"
 layout: blog
 resourceType: blog
 slug: creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 aliases:
-- /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
+  - /blog/creating-a-backup-in-team-foundation-server-2010-using-the-power-tools
 tags:
-- nwcadence
-- tf254027
-- tfs
-- tfs2010
-- tools
-- webcast-2
-
+  - nwcadence
+  - tf254027
+  - tfs
+  - tfs2010
+  - tools
+  - webcast-2
 ---
-
 
 Over the last few years the product team has been putting their finishing touches on a backup module for the Team Foundation Server Administration Console. Why you might ask do you need another way to backup? Surely you can just backup the bits?
 
@@ -63,8 +61,6 @@ I initially got an error because the accounts did not really have full control o
 ![image](images/image1-1-1.png "image") **Figure: TF254027 is caused by permission issues**
 { .post-img }
 
-
-
 ```
 [Info   @16:36:34.342] Granting account ROOT_COMPANYtfssqlbox$ permission on folder <a href="file://fileserver1folderTFSBackups[Info">fileserver1ShareTFSBackups [Info</a>   @16:36:34.348] System.UnauthorizedAccessException: Attempted to perform an unauthorized operation.
    at System.Security.AccessControl.Win32.SetSecurityInfo(ResourceType type, String name, SafeHandle handle, SecurityInfos securityInformation, SecurityIdentifier owner, SecurityIdentifier group, GenericAcl sacl, GenericAcl dacl)
@@ -89,8 +85,6 @@ Lets try this again with a share that we control. I will create a backup share o
 
 ![image](images/image2-2-2.png "image") **Figure: The next Error looks the same, but it is subtly different**
 { .post-img }
-
-
 
 ```
 [Info   @18:12:05.813] "Verify: Grant Backup Plan PermissionsRootVerifyBackupPathPermissionsGrantedSuccessfully(VerifyBackupPathPermissionsGrantedSuccessfully): Exiting Verification with state Completed and result Success"
@@ -195,5 +189,3 @@ After I have hastily changed the service account back to the original value and 
 - [Dynamically Set SPN's for SQL Service Accounts](http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html)
 
 So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.
-
-

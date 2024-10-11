@@ -1,22 +1,19 @@
 ---
 title: One Engineering System
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 draft: true
 type: methods
 slug: one-engineering-system
 aliases:
-- /methods/one-engineering-system/
-- /methods/1es/
+  - /methods/one-engineering-system/
+  - /methods/1es/
 card:
   button:
     content: Start Optimizing Now
   title: One Engineering System
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
-
 ---
-
-
 
 We have a number of tools that are in use and each one is different and provides
 unique features. Don't try to use each tool the way that you would use another.
@@ -40,5 +37,3 @@ Currently, as [Company] the primary tools for 1ES are:
 - Jira
 
 - Bitbucket
-
-

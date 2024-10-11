@@ -1,7 +1,7 @@
 ---
 title: CafeMSN Prize
 date: 2006-08-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "465"
 layout: blog
 resourceType: blog

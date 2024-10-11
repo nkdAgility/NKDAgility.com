@@ -1,7 +1,7 @@
 ---
 title: Creating a managed service factory
 date: 2007-06-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "377"
 layout: blog
 resourceType: blog

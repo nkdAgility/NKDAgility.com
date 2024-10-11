@@ -1,7 +1,7 @@
 ---
 title: Schlumberger
 date: 2019-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11807"
 type: customers
 slug: schlumberger

@@ -1,7 +1,7 @@
 ---
 title: Fail a build if tests fail
 date: 2009-05-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "127"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Upgrade your server to Windows Server 2012 R2 Update 1
 date: 2014-04-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10472"
 layout: blog
 resourceType: blog

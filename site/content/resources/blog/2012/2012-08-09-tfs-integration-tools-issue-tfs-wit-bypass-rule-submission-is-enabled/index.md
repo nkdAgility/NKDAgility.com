@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled"
 date: 2012-08-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7104"
 layout: blog
 resourceType: blog

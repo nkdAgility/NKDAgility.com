@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure"
 date: 2012-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7402"
 layout: blog
 resourceType: blog

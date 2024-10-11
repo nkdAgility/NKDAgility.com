@@ -1,7 +1,7 @@
 ---
 title: "Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
 date: 2007-02-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "434"
 layout: blog
 resourceType: blog

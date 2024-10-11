@@ -1,7 +1,7 @@
 ---
 title: "Southparkify / Simpsonize : better with both!"
 date: 2007-07-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "353"
 layout: blog
 resourceType: blog

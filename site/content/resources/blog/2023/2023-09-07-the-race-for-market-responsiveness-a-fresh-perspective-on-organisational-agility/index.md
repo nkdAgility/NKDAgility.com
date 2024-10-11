@@ -1,7 +1,7 @@
 ---
 title: "The Race for Market Responsiveness: A Fresh Perspective on Organisational Agility"
 date: 2023-09-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49732"
 layout: blog
 resourceType: blog

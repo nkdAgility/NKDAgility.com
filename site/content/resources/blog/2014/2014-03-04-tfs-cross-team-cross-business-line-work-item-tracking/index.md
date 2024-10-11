@@ -1,7 +1,7 @@
 ---
 title: TFS for cross team and cross business line work item tracking
 date: 2014-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10378"
 layout: blog
 resourceType: blog

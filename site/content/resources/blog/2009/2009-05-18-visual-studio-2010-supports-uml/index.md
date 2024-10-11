@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Supports UML
 date: 2009-05-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "116"
 layout: blog
 resourceType: blog

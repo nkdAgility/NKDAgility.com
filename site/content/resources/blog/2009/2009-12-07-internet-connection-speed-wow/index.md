@@ -1,7 +1,7 @@
 ---
 title: Internet connection speed, WOW
 date: 2009-12-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "78"
 layout: blog
 resourceType: blog

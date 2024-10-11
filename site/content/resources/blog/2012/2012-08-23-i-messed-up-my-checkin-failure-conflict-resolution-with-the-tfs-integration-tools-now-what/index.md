@@ -1,24 +1,22 @@
 ---
 title: I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?
 date: 2012-08-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7610"
 layout: blog
 resourceType: blog
 slug: i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 aliases:
-- /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
+  - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 tags:
-- code
-- configuration
-- tfs
-- tfs-integration-platform
-- tools
+  - code
+  - configuration
+  - tfs
+  - tfs-integration-platform
+  - tools
 categories:
-- code-and-complexity
-
+  - code-and-complexity
 ---
-
 
 If you say my post on “TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure” which I just updated you will know that I messed up the conflict resolution by mixing up the “Source Version” and “Target Version”.
 
@@ -96,5 +94,3 @@ Wooohooooo…
 **Figure: All of the left over changesets have been migrated**
 
 And thus the padawan becomes the master… or at least… erm… more competent!
-
-

@@ -1,7 +1,7 @@
 ---
 title: Bug in the Visual Studio Git integration that results in a merge conflict
 date: 2014-10-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10734"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Migrating to office 365 from Google Mail
 date: 2014-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10502"
 layout: blog
 resourceType: blog

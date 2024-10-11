@@ -1,7 +1,7 @@
 ---
 title: Amusing job requirements
 date: 2007-10-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "301"
 layout: blog
 resourceType: blog

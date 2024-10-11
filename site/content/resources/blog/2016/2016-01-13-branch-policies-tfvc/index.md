@@ -1,7 +1,7 @@
 ---
 title: Branch Policies for TFVC
 date: 2016-01-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11424"
 layout: blog
 resourceType: blog

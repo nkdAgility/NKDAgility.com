@@ -1,7 +1,7 @@
 ---
 title: Free training at Northwest Cadence
 date: 2011-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "19"
 layout: blog
 resourceType: blog

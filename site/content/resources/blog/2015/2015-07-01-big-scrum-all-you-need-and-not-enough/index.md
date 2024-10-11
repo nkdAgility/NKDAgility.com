@@ -1,7 +1,7 @@
 ---
 title: "Big Scrum: All you need and not enough"
 date: 2015-07-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11361"
 layout: blog
 resourceType: blog

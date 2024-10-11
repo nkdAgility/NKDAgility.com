@@ -1,7 +1,7 @@
 ---
 title: "Guidance: How to layout you files for an Ideal Solution"
 date: 2010-05-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "42"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Search just got better
 date: 2007-08-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "323"
 layout: blog
 resourceType: blog

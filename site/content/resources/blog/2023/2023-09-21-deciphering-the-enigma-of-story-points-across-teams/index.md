@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
 date: 2023-09-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49888"
 layout: blog
 resourceType: blog

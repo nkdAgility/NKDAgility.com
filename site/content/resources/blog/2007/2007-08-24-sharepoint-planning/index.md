@@ -1,7 +1,7 @@
 ---
 title: Sharepoint planning
 date: 2007-08-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "320"
 layout: blog
 resourceType: blog

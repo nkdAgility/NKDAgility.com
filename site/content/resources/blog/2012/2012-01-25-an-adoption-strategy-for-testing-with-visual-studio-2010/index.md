@@ -1,7 +1,7 @@
 ---
 title: An adoption strategy for testing with Visual Studio 2010
 date: 2012-01-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4223"
 layout: blog
 resourceType: blog

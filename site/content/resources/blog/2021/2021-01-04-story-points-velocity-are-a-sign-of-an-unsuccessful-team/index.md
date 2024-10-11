@@ -1,7 +1,7 @@
 ---
 title: Story Points & Velocity are a sign of an unsuccessful team
 date: 2021-01-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44532"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: TFS Weekend Part 1 - Install
 date: 2007-03-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "426"
 layout: blog
 resourceType: blog

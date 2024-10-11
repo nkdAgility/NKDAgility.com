@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2008 Team Edition for Architects
 date: 2007-08-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "324"
 layout: blog
 resourceType: blog

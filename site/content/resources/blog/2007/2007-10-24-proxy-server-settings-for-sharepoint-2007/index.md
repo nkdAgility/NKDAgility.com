@@ -1,7 +1,7 @@
 ---
 title: Proxy server settings for SharePoint 2007
 date: 2007-10-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "295"
 layout: blog
 resourceType: blog

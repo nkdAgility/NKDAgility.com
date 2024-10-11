@@ -1,7 +1,7 @@
 ---
 title: Release planning and predictable delivery
 date: 2020-11-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9714"
 layout: blog
 resourceType: blog

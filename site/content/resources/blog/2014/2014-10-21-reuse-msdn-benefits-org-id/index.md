@@ -1,7 +1,7 @@
 ---
 title: Reuse your MSDN benefits with your Org ID
 date: 2014-10-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10786"
 layout: blog
 resourceType: blog

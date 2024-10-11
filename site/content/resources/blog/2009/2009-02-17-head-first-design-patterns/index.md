@@ -1,7 +1,7 @@
 ---
 title: Head First Design Patterns
 date: 2009-02-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "137"
 layout: blog
 resourceType: blog

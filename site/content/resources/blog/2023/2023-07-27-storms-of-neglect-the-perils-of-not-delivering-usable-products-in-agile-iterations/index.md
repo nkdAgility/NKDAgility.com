@@ -1,7 +1,7 @@
 ---
 title: Storms of Neglect The Perils of Not Delivering Usable Products in Agile Iterations
 date: 2023-07-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49502"
 layout: blog
 resourceType: blog

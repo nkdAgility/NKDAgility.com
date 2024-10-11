@@ -1,7 +1,7 @@
 ---
 title: Open-source with VSTS or TFS and Github for better DevOps
 date: 2016-05-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11491"
 layout: blog
 resourceType: blog

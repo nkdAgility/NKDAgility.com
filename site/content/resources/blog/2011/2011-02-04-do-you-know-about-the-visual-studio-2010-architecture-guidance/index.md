@@ -1,7 +1,7 @@
 ---
 title: Do you know about the Visual Studio 2010 Architecture Guidance?
 date: 2011-02-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "16"
 layout: blog
 resourceType: blog

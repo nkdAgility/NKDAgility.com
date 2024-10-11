@@ -1,7 +1,7 @@
 ---
 title: Disqus & Chrome with non-support
 date: 2011-07-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3686"
 layout: blog
 resourceType: blog

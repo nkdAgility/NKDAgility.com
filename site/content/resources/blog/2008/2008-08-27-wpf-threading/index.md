@@ -1,7 +1,7 @@
 ---
 title: WPF Threading
 date: 2008-08-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "206"
 layout: blog
 resourceType: blog

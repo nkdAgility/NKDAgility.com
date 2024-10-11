@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2010 on Windows 8
 date: 2012-06-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5388"
 layout: blog
 resourceType: blog

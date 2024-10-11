@@ -1,7 +1,7 @@
 ---
 title: Create your own path to Organisational Agility
 date: 2018-01-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11214"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum Facilitation Skills (PSFS) with Certification
 date: 2022-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48025"
 type: course
 slug: professional-scrum-facilitation-skills-psfs-with-certification

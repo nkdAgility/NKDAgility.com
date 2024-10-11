@@ -1,7 +1,7 @@
 ---
 title: Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013
 date: 2013-07-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9724"
 layout: blog
 resourceType: blog

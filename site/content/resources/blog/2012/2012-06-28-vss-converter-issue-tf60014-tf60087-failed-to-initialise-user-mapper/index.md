@@ -1,7 +1,7 @@
 ---
 title: "VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper"
 date: 2012-06-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6124"
 layout: blog
 resourceType: blog

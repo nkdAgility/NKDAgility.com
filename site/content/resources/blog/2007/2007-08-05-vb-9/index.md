@@ -1,7 +1,7 @@
 ---
 title: VB 9
 date: 2007-08-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "341"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Martin Hinshelwood
 date: 2020-05-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44264"
 type: people
 slug: martin-hinshelwood

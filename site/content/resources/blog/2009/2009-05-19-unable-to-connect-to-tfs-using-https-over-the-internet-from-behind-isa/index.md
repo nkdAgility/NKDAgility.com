@@ -1,7 +1,7 @@
 ---
 title: Unable to connect to TFS using HTTPS over the Internet from behind ISA
 date: 2009-05-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "113"
 layout: blog
 resourceType: blog

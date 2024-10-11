@@ -1,7 +1,7 @@
 ---
 title: hinshelm vs fernienator
 date: 2007-01-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "443"
 layout: blog
 resourceType: blog

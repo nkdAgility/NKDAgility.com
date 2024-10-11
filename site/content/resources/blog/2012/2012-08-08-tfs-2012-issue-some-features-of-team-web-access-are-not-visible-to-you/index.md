@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 Issue: Some features of Team Web Access are not visible to you"
 date: 2012-08-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7094"
 layout: blog
 resourceType: blog

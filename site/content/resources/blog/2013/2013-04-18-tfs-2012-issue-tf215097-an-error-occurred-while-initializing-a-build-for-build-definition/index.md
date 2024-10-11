@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 Issue: TF215097 an error occurred while initializing a build for build definition"
 date: 2013-04-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9446"
 layout: blog
 resourceType: blog

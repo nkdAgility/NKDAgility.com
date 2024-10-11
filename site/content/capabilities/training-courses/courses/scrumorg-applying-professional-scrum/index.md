@@ -1,7 +1,7 @@
 ---
 title: Applying Professional Scrum (APS) Course with Certification
 date: 2017-01-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10045"
 type: course
 slug: applying-professional-scrum-aps-with-certification

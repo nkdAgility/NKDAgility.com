@@ -1,7 +1,7 @@
 ---
 title: "Project Server 2013 Issue - TF294003: Cannot access the following PWA instance"
 date: 2012-11-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9096"
 layout: blog
 resourceType: blog

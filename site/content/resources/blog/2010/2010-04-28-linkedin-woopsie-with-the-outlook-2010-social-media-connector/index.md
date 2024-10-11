@@ -1,7 +1,7 @@
 ---
 title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
 date: 2010-04-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "47"
 layout: blog
 resourceType: blog

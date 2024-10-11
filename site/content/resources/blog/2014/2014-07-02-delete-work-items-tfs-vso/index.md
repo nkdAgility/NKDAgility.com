@@ -1,7 +1,7 @@
 ---
 title: How to delete work items from TFS or VSO
 date: 2014-07-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10597"
 layout: blog
 resourceType: blog

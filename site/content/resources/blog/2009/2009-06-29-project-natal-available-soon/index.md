@@ -1,7 +1,7 @@
 ---
 title: Project Natal available soon
 date: 2009-06-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "106"
 layout: blog
 resourceType: blog

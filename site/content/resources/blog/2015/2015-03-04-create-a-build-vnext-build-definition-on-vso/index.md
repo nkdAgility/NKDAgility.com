@@ -1,7 +1,7 @@
 ---
 title: Create a Build vNext build definition
 date: 2015-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11047"
 layout: blog
 resourceType: blog

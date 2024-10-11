@@ -1,7 +1,7 @@
 ---
 title: An Application Deployment
 date: 2007-08-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "349"
 layout: blog
 resourceType: blog

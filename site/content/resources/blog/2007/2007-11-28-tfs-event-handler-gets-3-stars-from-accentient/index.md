@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler gets 3 stars from Accentient
 date: 2007-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "284"
 layout: blog
 resourceType: blog

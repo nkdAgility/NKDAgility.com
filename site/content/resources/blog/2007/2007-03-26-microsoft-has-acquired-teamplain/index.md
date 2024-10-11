@@ -1,7 +1,7 @@
 ---
 title: Microsoft has acquired TeamPlain
 date: 2007-03-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "425"
 layout: blog
 resourceType: blog

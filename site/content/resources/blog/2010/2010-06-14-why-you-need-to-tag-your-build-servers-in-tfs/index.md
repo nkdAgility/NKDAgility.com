@@ -1,7 +1,7 @@
 ---
 title: Why you need to tag your build servers in TFS
 date: 2010-06-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "40"
 layout: blog
 resourceType: blog

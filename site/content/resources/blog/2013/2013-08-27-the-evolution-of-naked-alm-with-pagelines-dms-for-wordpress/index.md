@@ -1,7 +1,7 @@
 ---
 title: The evolution of naked ALM with Pagelines DMS for Wordpress
 date: 2013-08-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9964"
 layout: blog
 resourceType: blog

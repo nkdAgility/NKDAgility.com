@@ -1,7 +1,7 @@
 ---
 title: Issue [ TFS 2013 ] InRelease account requires make requests on behalf of others
 date: 2013-07-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9759"
 layout: blog
 resourceType: blog

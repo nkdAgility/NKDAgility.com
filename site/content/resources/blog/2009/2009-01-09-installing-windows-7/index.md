@@ -1,7 +1,7 @@
 ---
 title: Installing Windows 7
 date: 2009-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "148"
 layout: blog
 resourceType: blog

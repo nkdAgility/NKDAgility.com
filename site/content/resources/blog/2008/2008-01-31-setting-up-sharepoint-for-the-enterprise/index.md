@@ -1,7 +1,7 @@
 ---
 title: Setting up SharePoint for the Enterprise
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "252"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Becoming a better developer...
 date: 2007-08-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "339"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Installing TFS 2012 on Server 2012 with SQL 2012
 date: 2012-06-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5368"
 layout: blog
 resourceType: blog

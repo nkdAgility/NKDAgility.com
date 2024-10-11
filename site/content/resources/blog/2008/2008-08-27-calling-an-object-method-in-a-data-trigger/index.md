@@ -1,7 +1,7 @@
 ---
 title: Calling an object method in a data trigger
 date: 2008-08-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "205"
 layout: blog
 resourceType: blog

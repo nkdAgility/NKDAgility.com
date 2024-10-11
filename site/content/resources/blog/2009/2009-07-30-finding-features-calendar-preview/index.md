@@ -1,7 +1,7 @@
 ---
 title: "Finding features: Calendar preview"
 date: 2009-07-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "94"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS Event Handler: Prototype Released"
 date: 2007-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "380"
 layout: blog
 resourceType: blog

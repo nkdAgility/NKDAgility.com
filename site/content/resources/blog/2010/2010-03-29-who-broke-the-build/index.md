@@ -1,7 +1,7 @@
 ---
 title: Who broke the build?
 date: 2010-03-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "59"
 layout: blog
 resourceType: blog

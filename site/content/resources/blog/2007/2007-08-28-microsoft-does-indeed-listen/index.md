@@ -1,7 +1,7 @@
 ---
 title: Microsoft does indeed listen
 date: 2007-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "318"
 layout: blog
 resourceType: blog

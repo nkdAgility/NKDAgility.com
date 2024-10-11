@@ -1,7 +1,7 @@
 ---
 title: Branch madness!
 date: 2008-10-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "186"
 layout: blog
 resourceType: blog

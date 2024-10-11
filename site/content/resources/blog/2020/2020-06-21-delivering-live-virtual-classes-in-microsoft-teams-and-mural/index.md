@@ -1,7 +1,7 @@
 ---
 title: Delivering Live Virtual Classes in Microsoft Teams and Mural
 date: 2020-06-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44432"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Development and Database combined
 date: 2008-10-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "190"
 layout: blog
 resourceType: blog

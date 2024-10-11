@@ -1,7 +1,7 @@
 ---
 title: Managing Projects Using Visual Studio and Scrum Training
 date: 2018-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38576"
 type: course
 slug: managing-projects-using-visual-studio-and-scrum-training

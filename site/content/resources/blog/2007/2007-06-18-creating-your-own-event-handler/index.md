@@ -1,7 +1,7 @@
 ---
 title: Creating your own Event Handler
 date: 2007-06-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "378"
 layout: blog
 resourceType: blog

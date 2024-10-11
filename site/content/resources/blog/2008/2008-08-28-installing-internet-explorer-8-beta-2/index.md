@@ -1,7 +1,7 @@
 ---
 title: Installing Internet Explorer 8 Beta 2
 date: 2008-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "204"
 layout: blog
 resourceType: blog

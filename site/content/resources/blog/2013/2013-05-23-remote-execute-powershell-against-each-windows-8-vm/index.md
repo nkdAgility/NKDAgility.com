@@ -1,7 +1,7 @@
 ---
 title: Remote Execute PowerShell against each Windows 8 VM
 date: 2013-05-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9901"
 layout: blog
 resourceType: blog

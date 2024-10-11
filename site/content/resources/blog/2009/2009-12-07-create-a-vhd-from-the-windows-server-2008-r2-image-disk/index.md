@@ -1,7 +1,7 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
 date: 2009-12-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "75"
 layout: blog
 resourceType: blog

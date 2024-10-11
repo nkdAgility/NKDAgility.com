@@ -1,7 +1,7 @@
 ---
 title: Deployment documentation
 date: 2007-07-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "363"
 layout: blog
 resourceType: blog

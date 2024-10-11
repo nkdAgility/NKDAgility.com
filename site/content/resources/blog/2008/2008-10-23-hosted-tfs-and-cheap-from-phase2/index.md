@@ -1,7 +1,7 @@
 ---
 title: Hosted TFS, and cheap….from Phase2
 date: 2008-10-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "183"
 layout: blog
 resourceType: blog

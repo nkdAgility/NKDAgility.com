@@ -1,7 +1,7 @@
 ---
 title: Identity crisis
 date: 2007-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "285"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Configuring a DC in Azure for AAD integrated Release Management
 date: 2014-11-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10865"
 layout: blog
 resourceType: blog

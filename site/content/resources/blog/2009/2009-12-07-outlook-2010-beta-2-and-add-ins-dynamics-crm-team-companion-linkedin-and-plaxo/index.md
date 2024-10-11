@@ -1,7 +1,7 @@
 ---
 title: "Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo"
 date: 2009-12-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "76"
 layout: blog
 resourceType: blog

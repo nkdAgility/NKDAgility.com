@@ -1,7 +1,7 @@
 ---
 title: RDdotNET Project Created
 date: 2006-11-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "460"
 layout: blog
 resourceType: blog

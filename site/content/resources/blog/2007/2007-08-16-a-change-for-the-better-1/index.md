@@ -1,7 +1,7 @@
 ---
 title: "A change for the better #1 - Merrill Lynch to Aggreko"
 date: 2007-08-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "331"
 layout: blog
 resourceType: blog

@@ -23,7 +23,7 @@ function Create-StubIndexForSection {
             $content = @"
 ---
 slug: $($section["slug"])
-author: MrHinsh
+creator: Martin Hinshelwood
 title: $($section["title"])
 aliases:
   - $($section["aliases"])

@@ -1,7 +1,7 @@
 ---
 title: RTM Confusion
 date: 2007-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "292"
 layout: blog
 resourceType: blog

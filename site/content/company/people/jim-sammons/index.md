@@ -1,7 +1,7 @@
 ---
 title: Jim Sammons
 date: 2020-06-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44407"
 type: people
 slug: jim-sammons

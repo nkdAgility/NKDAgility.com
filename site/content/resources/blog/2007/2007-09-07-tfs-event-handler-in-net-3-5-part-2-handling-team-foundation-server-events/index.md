@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events
 date: 2007-09-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3469"
 layout: blog
 resourceType: blog

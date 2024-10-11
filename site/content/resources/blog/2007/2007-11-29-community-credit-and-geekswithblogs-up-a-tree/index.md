@@ -1,7 +1,7 @@
 ---
 title: Community Credit and GeeksWithBlogs up a tree...
 date: 2007-11-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "282"
 layout: blog
 resourceType: blog

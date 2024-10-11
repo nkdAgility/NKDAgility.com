@@ -1,7 +1,7 @@
 ---
 title: Upgrading to TFS 2015 in production - DONE
 date: 2015-04-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11308"
 layout: blog
 resourceType: blog

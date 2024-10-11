@@ -1,7 +1,7 @@
 ---
 title: Windows Mobile Device Center
 date: 2007-02-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "437"
 layout: blog
 resourceType: blog

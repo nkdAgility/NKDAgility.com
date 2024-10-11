@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: Sequence contains no elements"
 date: 2012-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7377"
 layout: blog
 resourceType: blog

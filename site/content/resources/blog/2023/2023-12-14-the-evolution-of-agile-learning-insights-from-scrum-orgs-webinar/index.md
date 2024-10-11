@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
 date: 2023-12-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50979"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: The cause of dyslexia
 date: 2007-08-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "334"
 layout: blog
 resourceType: blog

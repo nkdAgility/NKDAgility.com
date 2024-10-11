@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2015 side by side with 2013 on Windows 10
 date: 2014-11-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10886"
 layout: blog
 resourceType: blog

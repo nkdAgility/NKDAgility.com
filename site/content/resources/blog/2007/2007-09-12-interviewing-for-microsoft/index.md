@@ -1,7 +1,7 @@
 ---
 title: Interviewing for Microsoft
 date: 2007-09-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "315"
 layout: blog
 resourceType: blog

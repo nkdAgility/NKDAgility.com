@@ -1,7 +1,7 @@
 ---
 title: Disable a timer at every level of your ASP.NET control hierarchy
 date: 2009-07-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "98"
 layout: blog
 resourceType: blog

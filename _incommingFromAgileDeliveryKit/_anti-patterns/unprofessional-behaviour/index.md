@@ -2,26 +2,26 @@
 title: Unprofessional Behaviour
 description: We need to stop normalising unprofessional behaviour and call it out whenever we hear it.
 type: anti-pattern
-catagorys: 
- - agile
-discussionId: 
+catagorys:
+  - agile
+discussionId:
 references:
- - title: Stop normalizing unprofessional behaviour in the name of agility
-   url: https://nkdagility.com/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility/
- - title: Stop normalizing unprofessional behaviour in the name of agility | nkdAgilty Community
-   url: https://community.nkdagility.com/posts/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
+  - title: Stop normalizing unprofessional behaviour in the name of agility
+    url: https://nkdagility.com/blog/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility/
+  - title: Stop normalizing unprofessional behaviour in the name of agility | nkdAgilty Community
+    url: https://community.nkdagility.com/posts/stop-normalizing-unprofessional-behaviour-in-the-name-of-agility
 recommendedContent:
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 videos:
- - title: Overview of The Scrum Framework
-   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
- - title: What is Professional Scrum?
-   embed: https://www.youtube.com/embed/BYlv7eP9zgg
+  - title: Overview of The Scrum Framework
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: What is Professional Scrum?
+    embed: https://www.youtube.com/embed/BYlv7eP9zgg
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -35,7 +35,7 @@ In Scrum Events across the world, I hear repeated the phrase “that’s how agi
 
 We need to stop normalising unprofessional behaviour and call it out whenever we hear it.
 
-In order for agility to function, we need professionalism; a focus on doing things right so that we don’t end up with our beards caught in the mailbox (Norwegian saying). Agility requires more planning, more knowledge, more diligence, more discipline, and more competence… not less! It’s harder to use agile practices as we are expected to have a usable product at all times, well, at least every iteration of a few weeks. 
+In order for agility to function, we need professionalism; a focus on doing things right so that we don’t end up with our beards caught in the mailbox (Norwegian saying). Agility requires more planning, more knowledge, more diligence, more discipline, and more competence… not less! It’s harder to use agile practices as we are expected to have a usable product at all times, well, at least every iteration of a few weeks.
 
 ## Symptoms
 

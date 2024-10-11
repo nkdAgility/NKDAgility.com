@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2005 Team Foundation Installation Guide
 date: 2007-01-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "444"
 layout: blog
 resourceType: blog

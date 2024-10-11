@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: unable to find a unique local path"
 date: 2013-05-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9495"
 layout: blog
 resourceType: blog

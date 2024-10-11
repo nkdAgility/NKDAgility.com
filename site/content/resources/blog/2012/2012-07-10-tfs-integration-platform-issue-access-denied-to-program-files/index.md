@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools – Issue: Access denied to Program Files"
 date: 2012-07-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6113"
 layout: blog
 resourceType: blog

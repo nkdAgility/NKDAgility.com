@@ -1,7 +1,7 @@
 ---
 title: Maven release perform tries to do a Get to a workspace sub folder in TFS
 date: 2014-07-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10620"
 layout: blog
 resourceType: blog

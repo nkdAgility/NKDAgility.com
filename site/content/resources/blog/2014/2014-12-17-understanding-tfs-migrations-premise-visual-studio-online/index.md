@@ -1,7 +1,7 @@
 ---
 title: Understanding TFS migrations from on-premise to Visual Studio Online
 date: 2014-12-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10987"
 layout: blog
 resourceType: blog

@@ -1,25 +1,23 @@
 ---
 title: Integrate reporting and analyses services with Team Foundation Server 2013
 date: 2013-08-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9875"
 layout: blog
 resourceType: blog
 slug: integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 aliases:
-- /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
+  - /blog/integrate-reporting-and-analyses-services-with-team-foundation-server-2013
 tags:
-- analysis-services
-- reporting-services
-- sql-server
-- sql-server-2012
-- tfs
-- tfs-2013
+  - analysis-services
+  - reporting-services
+  - sql-server
+  - sql-server-2012
+  - tfs
+  - tfs-2013
 categories:
-- install-and-configuration
-
+  - install-and-configuration
 ---
-
 
 Did you skip reporting and now you want to integrate reporting and analyses services with Team Foundation Server 2013?
 
@@ -172,5 +170,3 @@ This will configure your collection to look for a folder of the name displayed a
 Unfortunately enabling the reporting does not go an add the correct reports to the server. You would need to download the correct reports from the Process Template and import them manually to the location specified above with the addition of the Team Project name. If the power tools for 2013 were available there is a “AddReporting” command line to do this for you.
 
 Give me a shout if you have any questions or get into trouble…
-
-

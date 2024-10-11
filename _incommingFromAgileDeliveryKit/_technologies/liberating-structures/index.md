@@ -2,15 +2,15 @@
 title: Liberating Structures
 description: Liberating Structures are a collection of 33 different structures that can be strung together to create engaging experiences for participants.
 type: technology
- - guides/Liberating-Structures.html
- - guides/Liberating-Structures/
- - technologies/Liberating-Structures.html
- - technologies/Liberating-Structures/
+  - guides/Liberating-Structures.html
+  - guides/Liberating-Structures/
+  - technologies/Liberating-Structures.html
+  - technologies/Liberating-Structures/
 references:
- - title: Liberating Structures
-   url: https://www.liberatingstructures.com/
+  - title: Liberating Structures
+    url: https://www.liberatingstructures.com/
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

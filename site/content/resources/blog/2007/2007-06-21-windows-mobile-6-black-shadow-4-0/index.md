@@ -1,7 +1,7 @@
 ---
 title: Windows Mobile 6 Black Shadow (4.0)
 date: 2007-06-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "375"
 layout: blog
 resourceType: blog

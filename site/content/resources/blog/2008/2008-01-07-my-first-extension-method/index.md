@@ -1,7 +1,7 @@
 ---
 title: My first Extension method...
 date: 2008-01-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "269"
 layout: blog
 resourceType: blog

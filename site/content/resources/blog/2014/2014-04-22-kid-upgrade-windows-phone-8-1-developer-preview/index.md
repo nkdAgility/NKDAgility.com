@@ -1,7 +1,7 @@
 ---
 title: Be a kid again and upgrade to Windows Phone 8.1 Developer Preview
 date: 2014-04-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10515"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: We’re sorry, but you won’t be able to download Internet Explorer 8 for Windows 7 Beta at this time
 date: 2009-03-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "135"
 layout: blog
 resourceType: blog

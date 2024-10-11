@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum with Kanban (PSK) with Certification
 date: 2018-02-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38325"
 type: course
 slug: professional-scrum-with-kanban-psk-with-certification

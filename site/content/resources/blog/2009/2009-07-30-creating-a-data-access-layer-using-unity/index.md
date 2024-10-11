@@ -1,7 +1,7 @@
 ---
 title: Creating a Data Access layer using Unity
 date: 2009-07-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "95"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: The Urgent Call for Agile Organisational Transformation
 date: 2023-06-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49485"
 layout: blog
 resourceType: blog

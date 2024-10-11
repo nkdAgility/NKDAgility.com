@@ -1,7 +1,7 @@
 ---
 title: All technical debt is a risk to the product and to your business.
 date: 2021-01-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45521"
 layout: blog
 resourceType: blog

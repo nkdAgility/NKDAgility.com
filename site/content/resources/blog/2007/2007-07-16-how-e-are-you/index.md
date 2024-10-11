@@ -1,7 +1,7 @@
 ---
 title: How 'e' are you?
 date: 2007-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "368"
 layout: blog
 resourceType: blog

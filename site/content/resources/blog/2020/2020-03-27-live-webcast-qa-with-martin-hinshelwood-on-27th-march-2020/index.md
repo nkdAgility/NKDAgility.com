@@ -1,7 +1,7 @@
 ---
 title: "Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020"
 date: 2020-03-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44210"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Scrum for Product Owners Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44729"
 type: course
 slug: scrum-for-product-owners-training

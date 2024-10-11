@@ -1,7 +1,7 @@
 ---
 title: Developer vindication
 date: 2007-08-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "350"
 layout: blog
 resourceType: blog

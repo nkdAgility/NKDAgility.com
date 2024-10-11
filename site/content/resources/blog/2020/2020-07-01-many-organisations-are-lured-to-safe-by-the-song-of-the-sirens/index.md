@@ -1,7 +1,7 @@
 ---
 title: Many organisations are lured to SAFe by the song of the Sirens
 date: 2020-07-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44502"
 layout: blog
 resourceType: blog

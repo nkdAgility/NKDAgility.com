@@ -1,7 +1,7 @@
 ---
 title: Migrating source from Perforce to Git on VSO
 date: 2014-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10677"
 layout: blog
 resourceType: blog

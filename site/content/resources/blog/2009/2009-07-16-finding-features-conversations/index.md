@@ -1,7 +1,7 @@
 ---
 title: "Finding features: Conversations"
 date: 2009-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "101"
 layout: blog
 resourceType: blog

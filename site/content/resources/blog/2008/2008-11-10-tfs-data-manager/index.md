@@ -1,7 +1,7 @@
 ---
 title: TFS Data Manager
 date: 2008-11-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "171"
 layout: blog
 resourceType: blog

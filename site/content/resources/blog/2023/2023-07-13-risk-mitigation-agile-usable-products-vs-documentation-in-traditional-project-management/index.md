@@ -1,7 +1,7 @@
 ---
 title: "Risk Mitigation: Agile Usable Products vs Documentation in Traditional Project Management"
 date: 2023-07-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49495"
 layout: blog
 resourceType: blog

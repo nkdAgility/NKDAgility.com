@@ -1,7 +1,7 @@
 ---
 title: My.Unity.Resolve(Of Ninja)
 date: 2009-05-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "123"
 layout: blog
 resourceType: blog

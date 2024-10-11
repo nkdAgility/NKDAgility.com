@@ -1,7 +1,7 @@
 ---
 title: TFS Handover
 date: 2007-08-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "319"
 layout: blog
 resourceType: blog

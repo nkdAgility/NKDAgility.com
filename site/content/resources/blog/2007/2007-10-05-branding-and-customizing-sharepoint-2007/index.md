@@ -1,7 +1,7 @@
 ---
 title: Branding and Customizing SharePoint 2007
 date: 2007-10-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "303"
 layout: blog
 resourceType: blog

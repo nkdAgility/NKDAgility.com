@@ -1,7 +1,7 @@
 ---
 title: "Office 2010 gotcha 2: Visual Studio 2008 Locks"
 date: 2009-07-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "100"
 layout: blog
 resourceType: blog

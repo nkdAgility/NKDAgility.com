@@ -1,7 +1,7 @@
 ---
 title: VS2005 - Signtool requires CAPICOM version 2.1.0.1
 date: 2007-02-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "435"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "Issue SharePoint 2013: The username is invalid. The account must be a valid domain account"
 date: 2012-08-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7015"
 layout: blog
 resourceType: blog

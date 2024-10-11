@@ -1,7 +1,7 @@
 ---
 title: Creating a custom proxy class
 date: 2007-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "326"
 layout: blog
 resourceType: blog

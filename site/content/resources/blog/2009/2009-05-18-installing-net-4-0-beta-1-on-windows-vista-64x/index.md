@@ -1,7 +1,7 @@
 ---
 title: Installing .NET 4.0 Beta 1 on Windows Vista 64x
 date: 2009-05-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "120"
 layout: blog
 resourceType: blog

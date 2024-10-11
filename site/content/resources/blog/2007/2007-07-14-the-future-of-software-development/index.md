@@ -1,7 +1,7 @@
 ---
 title: The future of software development
 date: 2007-07-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "371"
 layout: blog
 resourceType: blog

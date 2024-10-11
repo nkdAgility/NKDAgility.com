@@ -1,7 +1,7 @@
 ---
 title: Ahaaaa!
 date: 2006-06-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "469"
 layout: blog
 resourceType: blog

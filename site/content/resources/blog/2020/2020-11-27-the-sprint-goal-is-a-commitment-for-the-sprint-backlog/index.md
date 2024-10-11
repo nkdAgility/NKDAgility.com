@@ -1,7 +1,7 @@
 ---
 title: The Sprint Goal is a commitment for the Sprint Backlog
 date: 2020-11-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45088"
 layout: blog
 resourceType: blog

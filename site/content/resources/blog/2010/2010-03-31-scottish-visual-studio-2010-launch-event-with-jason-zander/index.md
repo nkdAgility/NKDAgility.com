@@ -1,7 +1,7 @@
 ---
 title: Scottish Visual Studio 2010 Launch event with Jason Zander
 date: 2010-03-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "57"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Free Online training from Microsoft
 date: 2007-03-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "423"
 layout: blog
 resourceType: blog

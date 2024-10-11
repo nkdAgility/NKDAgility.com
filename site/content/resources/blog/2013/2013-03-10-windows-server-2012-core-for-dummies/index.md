@@ -1,7 +1,7 @@
 ---
 title: Windows Server 2012 Core for dummies
 date: 2013-03-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9255"
 layout: blog
 resourceType: blog

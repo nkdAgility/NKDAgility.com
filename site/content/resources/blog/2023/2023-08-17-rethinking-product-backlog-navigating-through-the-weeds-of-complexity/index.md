@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Product Backlog: Navigating Through the Weeds of Complexity"
 date: 2023-08-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49515"
 layout: blog
 resourceType: blog

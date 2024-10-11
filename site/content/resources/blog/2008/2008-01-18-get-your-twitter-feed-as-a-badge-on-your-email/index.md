@@ -1,7 +1,7 @@
 ---
 title: Get your Twitter feed as a badge on your email!
 date: 2008-01-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "263"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number"
 date: 2012-08-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7760"
 layout: blog
 resourceType: blog

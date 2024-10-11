@@ -1,7 +1,7 @@
 ---
 title: Navigating the Future with a Fine-Tuned Product Backlog
 date: 2023-08-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49510"
 layout: blog
 resourceType: blog

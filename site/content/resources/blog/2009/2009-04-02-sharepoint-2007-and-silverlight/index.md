@@ -1,7 +1,7 @@
 ---
 title: Sharepoint 2007 and Silverlight
 date: 2009-04-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "132"
 layout: blog
 resourceType: blog

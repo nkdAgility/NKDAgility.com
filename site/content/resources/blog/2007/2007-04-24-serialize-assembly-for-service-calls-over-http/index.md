@@ -1,7 +1,7 @@
 ---
 title: Serialize Assembly for Service calls over Http
 date: 2007-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "415"
 layout: blog
 resourceType: blog

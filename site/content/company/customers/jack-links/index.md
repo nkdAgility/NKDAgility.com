@@ -1,7 +1,7 @@
 ---
 title: Jack Links
 date: 2020-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45381"
 type: customers
 slug: jack-links

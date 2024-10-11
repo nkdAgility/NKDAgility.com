@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Beta 2 is available Now!
 date: 2009-10-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "86"
 layout: blog
 resourceType: blog

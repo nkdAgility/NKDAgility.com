@@ -1,7 +1,7 @@
 ---
 title: How to deal with a stuck or infinitely queued build
 date: 2010-09-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "27"
 layout: blog
 resourceType: blog

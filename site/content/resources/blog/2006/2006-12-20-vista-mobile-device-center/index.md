@@ -1,7 +1,7 @@
 ---
 title: Vista Mobile Device Center
 date: 2006-12-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "456"
 layout: blog
 resourceType: blog

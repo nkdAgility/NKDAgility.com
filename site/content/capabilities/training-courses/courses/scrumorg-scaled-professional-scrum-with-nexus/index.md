@@ -1,7 +1,7 @@
 ---
 title: Scaled Professional Scrum with Nexus (SPS) with Certification
 date: 2017-01-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10814"
 type: course
 slug: scaled-professional-scrum-with-nexus-sps-with-certification

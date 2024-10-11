@@ -1,7 +1,7 @@
 ---
 title: The value of an independent Scotland for me
 date: 2014-07-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10655"
 layout: blog
 resourceType: blog

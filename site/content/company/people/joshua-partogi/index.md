@@ -1,7 +1,7 @@
 ---
 title: Joshua Partogi
 date: 2022-05-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "47636"
 type: people
 slug: joshua-partogi

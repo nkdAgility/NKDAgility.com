@@ -1,7 +1,7 @@
 ---
 title: "Search just got better: Part 2"
 date: 2007-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "322"
 layout: blog
 resourceType: blog

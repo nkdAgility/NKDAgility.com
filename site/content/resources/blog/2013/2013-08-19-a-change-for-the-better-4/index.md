@@ -1,7 +1,7 @@
 ---
 title: "A change for the better #4 - Homecoming"
 date: 2013-08-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9951"
 layout: blog
 resourceType: blog

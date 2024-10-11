@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface: Wow"
 date: 2007-06-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "387"
 layout: blog
 resourceType: blog

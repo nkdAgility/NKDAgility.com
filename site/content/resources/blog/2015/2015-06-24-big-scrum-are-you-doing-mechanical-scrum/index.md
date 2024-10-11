@@ -1,7 +1,7 @@
 ---
 title: "Big Scrum: Are you doing mechanical Scrum"
 date: 2015-06-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11355"
 layout: blog
 resourceType: blog

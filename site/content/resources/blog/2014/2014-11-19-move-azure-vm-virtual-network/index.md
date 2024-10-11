@@ -1,7 +1,7 @@
 ---
 title: Move your Azure VM to a Virtual Network
 date: 2014-11-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10874"
 layout: blog
 resourceType: blog

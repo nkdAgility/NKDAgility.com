@@ -1,7 +1,7 @@
 ---
 title: Batched domain migration with TFS while maintaining Identity
 date: 2013-03-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9324"
 layout: blog
 resourceType: blog

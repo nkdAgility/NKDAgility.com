@@ -1,7 +1,7 @@
 ---
 title: Maven release prepare fails with detected changes in Jenkins
 date: 2014-07-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10579"
 layout: blog
 resourceType: blog

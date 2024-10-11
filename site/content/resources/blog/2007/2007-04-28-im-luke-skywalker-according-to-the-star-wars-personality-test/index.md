@@ -1,7 +1,7 @@
 ---
 title: I'm Luke Skywalker according to the Star Wars personality test.
 date: 2007-04-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "409"
 layout: blog
 resourceType: blog

@@ -1,22 +1,20 @@
 ---
 title: Wakoopa
 date: 2008-10-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "180"
 layout: blog
 resourceType: blog
 slug: wakoopa
 aliases:
-- /blog/wakoopa
+  - /blog/wakoopa
 tags:
-- answers
-- tfs
-- tfs-sticky-buddy
+  - answers
+  - tfs
+  - tfs-sticky-buddy
 categories:
-- me
-
+  - me
 ---
-
 
 I am having a little bit of fun with this application and I though I would share. it logs all of the applications that you are using and gives you stats on it. How about joining the [Microsoft MVP](http://wakoopa.com/teams/MicrosoftMVP) (MVP’s only please) team, or creating your own…
 
@@ -38,5 +36,3 @@ And my very own paltry [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBuddy.
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers) [TFS](http://technorati.com/tags/TFS)
-
-

@@ -1,7 +1,7 @@
 ---
 title: Benefits of remote access for Team System
 date: 2007-05-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "398"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Glaudia Califano
 date: 2020-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44798"
 type: people
 slug: glaudia-califano

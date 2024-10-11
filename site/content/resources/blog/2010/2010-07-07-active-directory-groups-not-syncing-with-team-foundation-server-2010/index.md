@@ -1,7 +1,7 @@
 ---
 title: Active Directory Groups not Syncing with Team Foundation Server 2010
 date: 2010-07-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "32"
 layout: blog
 resourceType: blog

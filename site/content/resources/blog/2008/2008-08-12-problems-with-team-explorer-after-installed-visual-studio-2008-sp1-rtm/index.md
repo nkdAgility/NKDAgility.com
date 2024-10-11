@@ -1,7 +1,7 @@
 ---
 title: Problems with Team Explorer after installed Visual Studio 2008 SP1 RTM
 date: 2008-08-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "210"
 layout: blog
 resourceType: blog

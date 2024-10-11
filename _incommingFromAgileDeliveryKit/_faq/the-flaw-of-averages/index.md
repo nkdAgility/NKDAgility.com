@@ -1,15 +1,15 @@
 ---
 title: Should we use averages to make decisions?
 type: faq
-discussionId: 
+discussionId:
 references:
- - title: "The flaw of Averages"
-   url: https://www.flawofaverages.com/
+  - title: "The flaw of Averages"
+    url: https://www.flawofaverages.com/
 recommendedContent:
- - collection: guides
-   path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

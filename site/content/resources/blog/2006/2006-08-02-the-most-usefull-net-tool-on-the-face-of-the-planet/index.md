@@ -1,7 +1,7 @@
 ---
 title: The most usefull .NET tool on the face of the planet!
 date: 2006-08-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "468"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Ericson
 date: 2013-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45377"
 type: customers
 slug: ericson

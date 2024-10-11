@@ -1,7 +1,7 @@
 ---
 title: Configuring Jenkins to talk to TFS 2013
 date: 2014-05-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10526"
 layout: blog
 resourceType: blog

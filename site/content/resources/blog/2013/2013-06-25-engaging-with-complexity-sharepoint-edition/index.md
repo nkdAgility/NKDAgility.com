@@ -1,7 +1,7 @@
 ---
 title: Engaging with complexity - SharePoint Edition
 date: 2013-06-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9909"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: "TFS 2010 Work Item Seed: TFS Work Item system.id at a predefined number"
 date: 2010-10-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "21"
 layout: blog
 resourceType: blog

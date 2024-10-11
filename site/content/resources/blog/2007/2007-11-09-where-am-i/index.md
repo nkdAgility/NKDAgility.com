@@ -1,7 +1,7 @@
 ---
 title: Where am I?
 date: 2007-11-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "294"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Introduction to Visual Studio 11
 date: 2012-02-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4393"
 layout: blog
 resourceType: blog

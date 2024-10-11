@@ -1,7 +1,7 @@
 ---
 title: IHandlerFactory
 date: 2008-08-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "214"
 layout: blog
 resourceType: blog

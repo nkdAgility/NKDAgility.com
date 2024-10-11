@@ -1,7 +1,7 @@
 ---
 title: Quality Centre to Team Foundation Server in one complex step
 date: 2012-12-05
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9170"
 layout: blog
 resourceType: blog

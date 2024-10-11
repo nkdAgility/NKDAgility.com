@@ -1,7 +1,7 @@
 ---
 title: Installing The 2007 Microsoft Office Servers Service Pack 1 (SP1) ...Again...
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "276"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Should the Scrum Master always remove impediments?
 date: 2019-09-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39856"
 layout: blog
 resourceType: blog

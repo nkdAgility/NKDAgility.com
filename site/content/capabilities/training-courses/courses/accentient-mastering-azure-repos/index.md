@@ -1,7 +1,7 @@
 ---
 title: Mastering Azure Repos Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44724"
 type: course
 slug: mastering-azure-repos-training

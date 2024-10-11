@@ -1,7 +1,7 @@
 ---
 title: Team Server Event Handlers made easy...
 date: 2007-04-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "412"
 layout: blog
 resourceType: blog

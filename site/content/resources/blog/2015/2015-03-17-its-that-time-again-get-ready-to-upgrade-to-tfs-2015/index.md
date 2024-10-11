@@ -1,7 +1,7 @@
 ---
 title: It's that time again; get ready to upgrade to TFS 2015
 date: 2015-03-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11241"
 layout: blog
 resourceType: blog

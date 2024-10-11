@@ -1,7 +1,7 @@
 ---
 title: Programmer personality type
 date: 2007-06-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "382"
 layout: blog
 resourceType: blog

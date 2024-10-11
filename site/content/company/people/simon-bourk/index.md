@@ -1,7 +1,7 @@
 ---
 title: Simon Bourk
 date: 2022-12-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48499"
 type: people
 slug: simon-bourk

@@ -1,7 +1,7 @@
 ---
 title: Team Foundation Server 2010 Event Handling with Subscribers
 date: 2010-09-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "25"
 layout: blog
 resourceType: blog

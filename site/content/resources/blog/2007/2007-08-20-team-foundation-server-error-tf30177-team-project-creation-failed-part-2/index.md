@@ -1,7 +1,7 @@
 ---
 title: "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2"
 date: 2007-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "327"
 layout: blog
 resourceType: blog

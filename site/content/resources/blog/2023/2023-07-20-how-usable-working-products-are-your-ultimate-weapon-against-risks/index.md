@@ -1,7 +1,7 @@
 ---
 title: How Usable Working Products Are Your Ultimate Weapon Against Risks
 date: 2023-07-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49501"
 layout: blog
 resourceType: blog

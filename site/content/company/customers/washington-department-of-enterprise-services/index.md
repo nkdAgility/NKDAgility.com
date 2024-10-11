@@ -1,7 +1,7 @@
 ---
 title: Washington Department of Enterprise Services
 date: 2011-12-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45358"
 type: customers
 slug: washington-department-of-enterprise-services

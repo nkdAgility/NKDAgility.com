@@ -1,7 +1,7 @@
 ---
 title: VSTS Sync Migration Tool Update and Bugfix
 date: 2017-06-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11944"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: SharePoint Solutions Rant
 date: 2008-05-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "222"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: One Team Project Collection to rule them all - Consolidating Team Projects
 date: 2012-07-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6109"
 layout: blog
 resourceType: blog

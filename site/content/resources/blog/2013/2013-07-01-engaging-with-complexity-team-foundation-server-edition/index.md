@@ -1,7 +1,7 @@
 ---
 title: Engaging with complexity - Team Foundation Server Edition
 date: 2013-07-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9703"
 layout: blog
 resourceType: blog

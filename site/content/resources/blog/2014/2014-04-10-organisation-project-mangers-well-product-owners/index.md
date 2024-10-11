@@ -1,7 +1,7 @@
 ---
 title: Does your organisation have both Project Mangers as well as Product Owners?
 date: 2014-04-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10489"
 layout: blog
 resourceType: blog

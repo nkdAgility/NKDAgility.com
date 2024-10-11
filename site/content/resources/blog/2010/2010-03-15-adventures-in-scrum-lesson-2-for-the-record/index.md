@@ -1,7 +1,7 @@
 ---
 title: "Adventures in Scrum: Lesson 2 - For the record"
 date: 2010-03-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "62"
 layout: blog
 resourceType: blog

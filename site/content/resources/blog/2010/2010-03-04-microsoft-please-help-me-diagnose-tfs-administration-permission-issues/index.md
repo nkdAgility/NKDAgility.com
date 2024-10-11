@@ -1,7 +1,7 @@
 ---
 title: Microsoft, please help me diagnose TFS Administration permission issues!
 date: 2010-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "67"
 layout: blog
 resourceType: blog

@@ -1,15 +1,15 @@
 ---
 title: Should a Scrum Master be as knowledgeable as a Product Owner?
 type: faq
-discussionId: 
+discussionId:
 references:
- - title: Vibhor Chandel on Scrum Master Skills with Boris Steiner reply | LinkedIn
-   url: https://www.linkedin.com/posts/vibhorchandel_agile-agilecoaching-scrum-activity-7056635473774985216-Q1MI/?utm_source=share&utm_medium=member_android
+  - title: Vibhor Chandel on Scrum Master Skills with Boris Steiner reply | LinkedIn
+    url: https://www.linkedin.com/posts/vibhorchandel_agile-agilecoaching-scrum-activity-7056635473774985216-Q1MI/?utm_source=share&utm_medium=member_android
 recommendedContent:
- - collection: guides
-   path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

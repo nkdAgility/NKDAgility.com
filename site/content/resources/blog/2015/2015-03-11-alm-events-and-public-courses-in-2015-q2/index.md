@@ -1,7 +1,7 @@
 ---
 title: ALM Events and public courses in 2015 Q2
 date: 2015-03-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11248"
 layout: blog
 resourceType: blog

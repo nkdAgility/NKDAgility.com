@@ -1,7 +1,7 @@
 ---
 title: Time That Task VSTS Check-In Policy
 date: 2006-12-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "446"
 layout: blog
 resourceType: blog

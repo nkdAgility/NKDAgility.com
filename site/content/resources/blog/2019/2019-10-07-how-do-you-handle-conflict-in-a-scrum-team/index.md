@@ -1,7 +1,7 @@
 ---
 title: How do you handle conflict in a Scrum Team?
 date: 2019-10-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39851"
 layout: blog
 resourceType: blog

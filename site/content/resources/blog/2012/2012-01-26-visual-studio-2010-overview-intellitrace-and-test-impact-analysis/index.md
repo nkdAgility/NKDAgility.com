@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - IntelliTrace and Test Impact Analysis
 date: 2012-01-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4140"
 layout: blog
 resourceType: blog

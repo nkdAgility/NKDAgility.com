@@ -1,7 +1,7 @@
 ---
 title: No love between McAfee Enterprise and MOSS 2007
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "274"
 layout: blog
 resourceType: blog

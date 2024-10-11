@@ -1,7 +1,7 @@
 ---
 title: Capita Secure Information Solutions Ltd
 date: 2019-05-10
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38426"
 type: customers
 slug: capita

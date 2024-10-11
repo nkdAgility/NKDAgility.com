@@ -1,7 +1,7 @@
 ---
 title: Envisioning vs Provisioning
 date: 2007-05-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "405"
 layout: blog
 resourceType: blog

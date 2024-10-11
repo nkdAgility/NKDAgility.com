@@ -1,7 +1,7 @@
 ---
 title: "TFS Integration Tools - Issue: TF14009: Cannot merge source into target because the target is underneath source"
 date: 2012-08-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "7240"
 layout: blog
 resourceType: blog

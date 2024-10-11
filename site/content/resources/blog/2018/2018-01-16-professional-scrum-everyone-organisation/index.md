@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum is for everyone in your organisation
 date: 2018-01-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38287"
 layout: blog
 resourceType: blog

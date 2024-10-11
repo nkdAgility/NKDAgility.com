@@ -1,7 +1,7 @@
 ---
 title: TFS Sticky Buddy v1.0
 date: 2008-04-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "236"
 layout: blog
 resourceType: blog

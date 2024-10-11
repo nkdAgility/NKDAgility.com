@@ -1,7 +1,7 @@
 ---
 title: Software Development Industrial Revolution
 date: 2007-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "416"
 layout: blog
 resourceType: blog

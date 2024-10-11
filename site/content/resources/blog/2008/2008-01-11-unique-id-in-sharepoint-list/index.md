@@ -1,7 +1,7 @@
 ---
 title: Unique ID in SharePoint list
 date: 2008-01-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "265"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: TFS Stick Buddy v0.4.0 CTP2 released
 date: 2008-04-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "238"
 layout: blog
 resourceType: blog

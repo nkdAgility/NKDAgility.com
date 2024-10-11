@@ -1,7 +1,7 @@
 ---
 title: Become the leader that you were meant to to be
 date: 2021-02-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45806"
 layout: blog
 resourceType: blog

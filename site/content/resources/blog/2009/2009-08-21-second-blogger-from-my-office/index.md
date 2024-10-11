@@ -1,7 +1,7 @@
 ---
 title: Second blogger from my office
 date: 2009-08-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "89"
 layout: blog
 resourceType: blog

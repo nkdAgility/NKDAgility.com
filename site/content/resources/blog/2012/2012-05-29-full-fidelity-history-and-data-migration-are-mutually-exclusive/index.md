@@ -1,7 +1,7 @@
 ---
 title: Full-fidelity history and data migration are mutually exclusive
 date: 2012-05-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5288"
 layout: blog
 resourceType: blog

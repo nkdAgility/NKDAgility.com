@@ -1,7 +1,7 @@
 ---
 title: Outlook 2007 users angry? Well maybe not users.
 date: 2007-01-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "442"
 layout: blog
 resourceType: blog

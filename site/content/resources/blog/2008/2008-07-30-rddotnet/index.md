@@ -1,7 +1,7 @@
 ---
 title: RDdotNET
 date: 2008-07-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "216"
 layout: blog
 resourceType: blog

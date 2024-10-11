@@ -1,7 +1,7 @@
 ---
 title: Office 2010 First run
 date: 2009-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "102"
 layout: blog
 resourceType: blog

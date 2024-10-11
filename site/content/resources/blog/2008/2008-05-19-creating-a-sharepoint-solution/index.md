@@ -1,7 +1,7 @@
 ---
 title: Creating a SharePoint Solution
 date: 2008-05-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "225"
 layout: blog
 resourceType: blog

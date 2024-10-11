@@ -1,7 +1,7 @@
 ---
 title: Restore TFS backups from SQL Enterprise to SQL Express
 date: 2013-05-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9902"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: 'TFS Error: MSB4018 The "BuildShadowTask" task failed unexpectedly'
 date: 2008-07-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "219"
 layout: blog
 resourceType: blog

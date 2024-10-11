@@ -1,7 +1,7 @@
 ---
 title: "Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013"
 date: 2012-07-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "6758"
 layout: blog
 resourceType: blog

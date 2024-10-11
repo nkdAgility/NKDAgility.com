@@ -1,7 +1,7 @@
 ---
 title: AD Update-O-Matic
 date: 2007-11-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "290"
 layout: blog
 resourceType: blog

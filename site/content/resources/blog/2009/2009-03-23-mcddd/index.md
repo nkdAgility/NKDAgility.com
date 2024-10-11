@@ -1,7 +1,7 @@
 ---
 title: McDDD
 date: 2009-03-23
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "134"
 layout: blog
 resourceType: blog

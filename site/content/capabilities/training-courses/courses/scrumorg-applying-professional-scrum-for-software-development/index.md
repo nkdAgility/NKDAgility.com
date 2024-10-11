@@ -1,7 +1,7 @@
 ---
 title: Applying Professional Scrum for Software Development (APS-SD) with Certification
 date: 2017-01-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10046"
 type: course
 slug: applying-professional-scrum-for-software-development-aps-sd-with-certification

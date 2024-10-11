@@ -1,7 +1,7 @@
 ---
 title: What about hosting the Tfs Automation Platform
 date: 2011-05-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3365"
 layout: blog
 resourceType: blog

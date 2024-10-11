@@ -1,7 +1,7 @@
 ---
 title: Visual Studio ALM MVP of the Year 2011
 date: 2011-03-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9"
 layout: blog
 resourceType: blog

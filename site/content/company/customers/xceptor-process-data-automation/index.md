@@ -1,7 +1,7 @@
 ---
 title: Xceptor - Process and Data Automation
 date: 2018-02-01
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38305"
 type: customers
 slug: xceptor-process-data-automation

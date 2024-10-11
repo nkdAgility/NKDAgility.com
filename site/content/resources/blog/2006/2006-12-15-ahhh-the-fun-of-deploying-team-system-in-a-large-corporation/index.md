@@ -1,7 +1,7 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
 date: 2006-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "447"
 layout: blog
 resourceType: blog

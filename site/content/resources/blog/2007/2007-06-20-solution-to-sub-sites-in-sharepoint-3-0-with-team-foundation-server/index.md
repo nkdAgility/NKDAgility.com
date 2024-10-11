@@ -1,7 +1,7 @@
 ---
 title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
 date: 2007-06-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "376"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Windows Azure Training Kit
 date: 2009-02-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "136"
 layout: blog
 resourceType: blog

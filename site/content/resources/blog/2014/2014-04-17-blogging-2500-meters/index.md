@@ -1,7 +1,7 @@
 ---
 title: Blogging from 2500 meters
 date: 2014-04-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10509"
 layout: blog
 resourceType: blog

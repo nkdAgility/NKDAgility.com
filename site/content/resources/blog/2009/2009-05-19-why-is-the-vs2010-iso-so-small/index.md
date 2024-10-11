@@ -1,7 +1,7 @@
 ---
 title: Why is the VS2010 iso so small?
 date: 2009-05-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "114"
 layout: blog
 resourceType: blog

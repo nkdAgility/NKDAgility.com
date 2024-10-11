@@ -1,7 +1,7 @@
 ---
 title: Rikard Skelander
 date: 2024-01-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "50829"
 type: people
 slug: rikard-skelander

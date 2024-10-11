@@ -1,7 +1,7 @@
 ---
 title: "SSW Brain Quest: Team Foundation Server and SharePoint 2010 (London)"
 date: 2010-07-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "36"
 layout: blog
 resourceType: blog

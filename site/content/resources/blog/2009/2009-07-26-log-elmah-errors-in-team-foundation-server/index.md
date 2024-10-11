@@ -1,7 +1,7 @@
 ---
 title: Log Elmah errors in Team Foundation Server
 date: 2009-07-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "97"
 layout: blog
 resourceType: blog

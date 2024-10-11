@@ -1,7 +1,7 @@
 ---
 title: If your backlog is not refined then you are doing it wrong
 date: 2020-12-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38243"
 layout: blog
 resourceType: blog

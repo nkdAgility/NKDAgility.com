@@ -1,7 +1,7 @@
 ---
 title: Windows Live Writer
 date: 2006-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "457"
 layout: blog
 resourceType: blog

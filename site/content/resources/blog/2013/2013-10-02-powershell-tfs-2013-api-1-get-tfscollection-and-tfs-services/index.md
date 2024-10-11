@@ -1,7 +1,7 @@
 ---
 title: "PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services"
 date: 2013-10-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10149"
 layout: blog
 resourceType: blog

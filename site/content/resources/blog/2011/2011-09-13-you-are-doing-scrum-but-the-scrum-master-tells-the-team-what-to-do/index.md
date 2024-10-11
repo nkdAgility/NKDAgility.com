@@ -1,7 +1,7 @@
 ---
 title: You are doing Scrum but the Scrum Master tells the team what to do!
 date: 2011-09-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3778"
 layout: blog
 resourceType: blog

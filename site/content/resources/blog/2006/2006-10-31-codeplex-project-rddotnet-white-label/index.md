@@ -1,7 +1,7 @@
 ---
 title: "Codeplex Project: RDdotNET White Label"
 date: 2006-10-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "459"
 layout: blog
 resourceType: blog

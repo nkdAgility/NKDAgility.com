@@ -8,760 +8,760 @@ post:
     _: >-
       http://geekswithblogs.net/hinshelm/archive/2011/01/04/project-of-projects-with-team-foundation-server-2010.aspx
     $:
-      isPermaLink: 'false'
-  description: ''
+      isPermaLink: "false"
+  description: ""
   encoded:
-  - "<p class=\"lead\">It is pretty much <a href=\"http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx\">accepted that you should use Areas</a> instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.</p>\r\n<div id=\"accordion2\" class=\"accordion\">\r\n<div class=\"accordion-group\">\r\n<div class=\"accordion-heading\"><a class=\"accordion-toggle\" href=\"#collapseOne\" data-parent=\"#accordion2\" data-toggle=\"collapse\">Updated 2012-08-06 </a></div>\r\n<div id=\"collapseOne\" class=\"accordion-body collapse in\">\r\n<div class=\"accordion-inner\">I have updated this as <a title=\"One Team Project with Visual Studio 2012\" href=\"http://blog.hinshelwood.com/one-team-project/\" target=\"_blank\">One Team Project for Visual Studio 2012</a>. </div>\r\n</div>\r\n</div>\r\n</div>\r\n<p>If like me you work with many customers you will find that you get into a grove for how to set these things up to make them as easily understandable for everyone, while giving the best functionality. The trick is in making it as intuitive as possible for both you and the developers that need to work with it.</p>\r\n<p>There are five main places where you need to have the Product or Project name in prominence of any other value.</p>\r\n<ul>\r\n<li>Area  </li>\r\n<li>Iteration  </li>\r\n<li>Source Code  </li>\r\n<li>Work Item Queries  </li>\r\n<li>Build </li>\r\n</ul>\r\n<p>Once you decide how you are doing this in each of these places you need to keep to it religiously. Evan if you have one source code file to keep, make sure it is in the right place. This makes your developers and others working with the format familiar with where everything should go, as well as building up mussel memory. This prevents the neat system degenerating into a nasty mess.</p>\r\n<h3>Areas</h3>\r\n<p>Areas are traditionally used to separate out parts of your product / project so that you can see how much effort has gone into each.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML1016b83.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML1016b83\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML1016b83_thumb.png\" width=\"634\" height=\"604\"/></a> <br /><strong>Figure: The top level areas are for reporting and work item separation</strong></p>\r\n<p>There are massive advantages of using this method. You can:</p>\r\n<ul>\r\n<li>move work from one project to another  </li>\r\n<li>rename a project / product </li>\r\n</ul>\r\n<p>It is far more likely that a project or product gets renamed than a department.</p>\r\n<p>Tip: If you have many projects, over 100, you should consider categorising them here, but make sure that the actual project name always sits at the same level so you know which is which.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML14f8cca.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML14f8cca\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML14f8cca_thumb.png\" width=\"598\" height=\"604\"/></a> <br /><strong>Figure: Always keep things that are the same at the same level</strong></p>\r\n<p>Note: You may use these categories only at the Area/Iteration level to make it easier to select on drop down lists. You may not want to use them everywhere. On the other hand, for consistency it would be better to.</p>\r\n<h3>Iterations</h3>\r\n<p>Iterations are usually used to some sort of time based consideration. Here I am splitting into Iterations with periodic releases.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML102871e.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML102871e\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML102871e_thumb.png\" width=\"634\" height=\"604\"/></a> <br /><strong>Figure: Each product needs to be able to have its own cadence</strong></p>\r\n<p>The ability to have each project run at its own pace and to enable them to have their own release schedule is often of paramount importance and you don’t want to fix your 100+ projects to all be released on the same date.</p>\r\n<h3>Source Code</h3>\r\n<p>Having a good structure for your source even if you are not branching or having multiple products under the same structure is always a good idea.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_2.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb.png\" width=\"611\" height=\"604\"/></a> <br /><strong>Figure: Separate out your products source</strong></p>\r\n<p>You need to think about both your branches as well as the structure of your source. All your code should be under “Source” and everything you need to build your solution including Build Scripts and 3rd party tools should be under your “Main” (branch) folder. This should them be branched by “Quality”, “Release” or both to get the most out of your branching structure.</p>\r\n<p>The important thing is to make sure you branch (or be able to branch) everything you need to build, test and deploy your application to an environment. That environment may be development, test or even production, but I can’t stress the importance of having everything your need.</p>\r\n<p><em>Note: You usually will not be able to install custom software on your build server. Store any *.dll’s or *.exe’s that you need under the “ToolsTool1” folder.</em></p>\r\n<p><em>Note: Consult the </em><a href=\"http://tfsbranchingguideiii.codeplex.com/\"><em>Branching Guidance for Team Foundation Server 2010</em></a><em> for more on branching</em></p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_10.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_4.png\" width=\"593\" height=\"604\"/></a> <br /><strong>Figure: Adding category may be a necessary evil</strong></p>\r\n<p>Even if you have to have a couple of categories called “Default”, it is better than not knowing the difference between a folder, Product and Branch.</p>\r\n<h3>Work Item Queries</h3>\r\n<p>Queries are used to load lists of Work Items out of TFS so you can see what work you have. This means that you want to also separate queries out by Product / project to make it easier to find the correct data for a particular product.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_6.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_2.png\" width=\"479\" height=\"604\"/></a> <br /><strong>Figure: Again you have the same first level structure</strong></p>\r\n<p>Having Folders also in Work Item Tracking we do the same thing. We put all the queries under a folder named for the Product / Project and change each query to have “AreaPath=[TeamProject][ProductX]” in the query instead of the standard <a href=\"mailto:&ldquo;Project=@Project\">“Project=@Project</a>”.</p>\r\n<p><em>Tip: Don’t have a folder with new queries for each iteration. Instead have a single “Current” folder that has queries that point to the current iteration. Just change the queries as you move from one iteration to another.</em></p>\r\n<p><em>Tip: You can ctrl+drag the “Product1” folder to create your “Product2” folder.</em></p>\r\n<h3>Builds</h3>\r\n<p>You may have many builds both for individual products but also for different quality's. This can be further complicated by having some builds that action “Gated Check-In” and others that are specifically for “Release”, “Test” or another purpose.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_4.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_1.png\" width=\"804\" height=\"557\"/></a> <br /><strong>Figure: There are no folders, yet, for the builds so you need a good naming convention</strong></p>\r\n<p>Its a pity that there are no folders under builds, some way to categorise would be nice. In lue of that at the moment you can use a functional naming convention that at least allows you to find what you want.</p>\r\n<h3>Conclusion</h3>\r\n<p>It is really easy to both achieve and to stick to this format if you take the time to do it. Unless you have 1000+ builds or 100+ Products you are unlikely</p>\r\n<p>run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.</p>\r\n<p><strong>Let me know if you can think of any other things to make this easier.</strong></p>"
-  - ''
-  post_id: '18'
-  post_date: '2011-01-04 23:51:49'
-  post_date_gmt: '2011-01-04 23:51:49'
-  post_modified: '2014-05-16 13:32:43'
-  post_modified_gmt: '2014-05-16 12:32:43'
+    - "<p class=\"lead\">It is pretty much <a href=\"http://blog.hinshelwood.com/archive/2010/03/09/when-should-i-use-areas-in-tfs-instead-of-team.aspx\">accepted that you should use Areas</a> instead of having many small Team Projects when you are using Team Foundation Server 2010. I have implemented this scenario many times and this is the current iteration of layout and considerations.</p>\r\n<div id=\"accordion2\" class=\"accordion\">\r\n<div class=\"accordion-group\">\r\n<div class=\"accordion-heading\"><a class=\"accordion-toggle\" href=\"#collapseOne\" data-parent=\"#accordion2\" data-toggle=\"collapse\">Updated 2012-08-06 </a></div>\r\n<div id=\"collapseOne\" class=\"accordion-body collapse in\">\r\n<div class=\"accordion-inner\">I have updated this as <a title=\"One Team Project with Visual Studio 2012\" href=\"http://blog.hinshelwood.com/one-team-project/\" target=\"_blank\">One Team Project for Visual Studio 2012</a>. </div>\r\n</div>\r\n</div>\r\n</div>\r\n<p>If like me you work with many customers you will find that you get into a grove for how to set these things up to make them as easily understandable for everyone, while giving the best functionality. The trick is in making it as intuitive as possible for both you and the developers that need to work with it.</p>\r\n<p>There are five main places where you need to have the Product or Project name in prominence of any other value.</p>\r\n<ul>\r\n<li>Area  </li>\r\n<li>Iteration  </li>\r\n<li>Source Code  </li>\r\n<li>Work Item Queries  </li>\r\n<li>Build </li>\r\n</ul>\r\n<p>Once you decide how you are doing this in each of these places you need to keep to it religiously. Evan if you have one source code file to keep, make sure it is in the right place. This makes your developers and others working with the format familiar with where everything should go, as well as building up mussel memory. This prevents the neat system degenerating into a nasty mess.</p>\r\n<h3>Areas</h3>\r\n<p>Areas are traditionally used to separate out parts of your product / project so that you can see how much effort has gone into each.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML1016b83.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML1016b83\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML1016b83_thumb.png\" width=\"634\" height=\"604\"/></a> <br /><strong>Figure: The top level areas are for reporting and work item separation</strong></p>\r\n<p>There are massive advantages of using this method. You can:</p>\r\n<ul>\r\n<li>move work from one project to another  </li>\r\n<li>rename a project / product </li>\r\n</ul>\r\n<p>It is far more likely that a project or product gets renamed than a department.</p>\r\n<p>Tip: If you have many projects, over 100, you should consider categorising them here, but make sure that the actual project name always sits at the same level so you know which is which.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML14f8cca.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML14f8cca\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML14f8cca_thumb.png\" width=\"598\" height=\"604\"/></a> <br /><strong>Figure: Always keep things that are the same at the same level</strong></p>\r\n<p>Note: You may use these categories only at the Area/Iteration level to make it easier to select on drop down lists. You may not want to use them everywhere. On the other hand, for consistency it would be better to.</p>\r\n<h3>Iterations</h3>\r\n<p>Iterations are usually used to some sort of time based consideration. Here I am splitting into Iterations with periodic releases.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML102871e.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"SNAGHTML102871e\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-SNAGHTML102871e_thumb.png\" width=\"634\" height=\"604\"/></a> <br /><strong>Figure: Each product needs to be able to have its own cadence</strong></p>\r\n<p>The ability to have each project run at its own pace and to enable them to have their own release schedule is often of paramount importance and you don’t want to fix your 100+ projects to all be released on the same date.</p>\r\n<h3>Source Code</h3>\r\n<p>Having a good structure for your source even if you are not branching or having multiple products under the same structure is always a good idea.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_2.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb.png\" width=\"611\" height=\"604\"/></a> <br /><strong>Figure: Separate out your products source</strong></p>\r\n<p>You need to think about both your branches as well as the structure of your source. All your code should be under “Source” and everything you need to build your solution including Build Scripts and 3rd party tools should be under your “Main” (branch) folder. This should them be branched by “Quality”, “Release” or both to get the most out of your branching structure.</p>\r\n<p>The important thing is to make sure you branch (or be able to branch) everything you need to build, test and deploy your application to an environment. That environment may be development, test or even production, but I can’t stress the importance of having everything your need.</p>\r\n<p><em>Note: You usually will not be able to install custom software on your build server. Store any *.dll’s or *.exe’s that you need under the “ToolsTool1” folder.</em></p>\r\n<p><em>Note: Consult the </em><a href=\"http://tfsbranchingguideiii.codeplex.com/\"><em>Branching Guidance for Team Foundation Server 2010</em></a><em> for more on branching</em></p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_10.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_4.png\" width=\"593\" height=\"604\"/></a> <br /><strong>Figure: Adding category may be a necessary evil</strong></p>\r\n<p>Even if you have to have a couple of categories called “Default”, it is better than not knowing the difference between a folder, Product and Branch.</p>\r\n<h3>Work Item Queries</h3>\r\n<p>Queries are used to load lists of Work Items out of TFS so you can see what work you have. This means that you want to also separate queries out by Product / project to make it easier to find the correct data for a particular product.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_6.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_2.png\" width=\"479\" height=\"604\"/></a> <br /><strong>Figure: Again you have the same first level structure</strong></p>\r\n<p>Having Folders also in Work Item Tracking we do the same thing. We put all the queries under a folder named for the Product / Project and change each query to have “AreaPath=[TeamProject][ProductX]” in the query instead of the standard <a href=\"mailto:&ldquo;Project=@Project\">“Project=@Project</a>”.</p>\r\n<p><em>Tip: Don’t have a folder with new queries for each iteration. Instead have a single “Current” folder that has queries that point to the current iteration. Just change the queries as you move from one iteration to another.</em></p>\r\n<p><em>Tip: You can ctrl+drag the “Product1” folder to create your “Product2” folder.</em></p>\r\n<h3>Builds</h3>\r\n<p>You may have many builds both for individual products but also for different quality's. This can be further complicated by having some builds that action “Gated Check-In” and others that are specifically for “Release”, “Test” or another purpose.</p>\r\n<p><a href=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_4.png\"><img style=\"border-left-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; padding-right: 0px; border-top-width: 0px\" border=\"0\" alt=\"image\" src=\"http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-43a228bc7013_C558-image_thumb_1.png\" width=\"804\" height=\"557\"/></a> <br /><strong>Figure: There are no folders, yet, for the builds so you need a good naming convention</strong></p>\r\n<p>Its a pity that there are no folders under builds, some way to categorise would be nice. In lue of that at the moment you can use a functional naming convention that at least allows you to find what you want.</p>\r\n<h3>Conclusion</h3>\r\n<p>It is really easy to both achieve and to stick to this format if you take the time to do it. Unless you have 1000+ builds or 100+ Products you are unlikely</p>\r\n<p>run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.</p>\r\n<p><strong>Let me know if you can think of any other things to make this easier.</strong></p>"
+    - ""
+  post_id: "18"
+  post_date: "2011-01-04 23:51:49"
+  post_date_gmt: "2011-01-04 23:51:49"
+  post_modified: "2014-05-16 13:32:43"
+  post_modified_gmt: "2014-05-16 12:32:43"
   comment_status: open
   ping_status: open
   post_name: project-of-projects-with-team-foundation-server-2010
   status: publish
-  post_parent: '0'
-  menu_order: '0'
+  post_parent: "0"
+  menu_order: "0"
   post_type: post
-  post_password: ''
-  is_sticky: '0'
+  post_password: ""
+  is_sticky: "0"
   category: {}
   postmeta:
-  - meta_key: authorsure_include_css
-    meta_value: ''
-  - meta_key: dsq_thread_id
-    meta_value: '311359264'
-  - meta_key: _flattr_post_language
-    meta_value: ''
-  - meta_key: _flattr_post_category
-    meta_value: ''
-  - meta_key: _flattr_post_hidden
-    meta_value: ''
-  - meta_key: _flattr_btn_disabled
-    meta_value: ''
-  - meta_key: _thumbnail_id
-    meta_value: '8622'
-  - meta_key: _edit_last
-    meta_value: '3'
-  - meta_key: _views_template
-    meta_value: '0'
-  - meta_key: authorsure_include_css
-    meta_value: ''
-  - meta_key: _wpbitly
-    meta_value: http://nkdalm.net/1b3fV4H
-  - meta_key: _syn_old_sitegroups
-    meta_value: a:0:{}
-  - meta_key: _syn_selected_sitegroups
-    meta_value: ''
-  - meta_key: _mab_post_meta
-    meta_value: >-
-      a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
-  - meta_key: _syn_slave_post_states
-    meta_value: a:0:{}
-  - meta_key: _jetpack_related_posts_cache
-    meta_value: >-
-      a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474918201;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5702;}i:1;a:1:{s:2:"id";i:9431;}i:2;a:1:{s:2:"id";i:6160;}}}}
-  - meta_key: _wpghs_github_path
-    meta_value: _posts/2011-01-04-project-of-projects-with-team-foundation-server-2010.md
-  - meta_key: _sha
-    meta_value: ''
-  - meta_key: _wpml_media_has_media
-    meta_value: '1'
-  - meta_key: _tribe_ticket_capacity
-    meta_value: '0'
-  - meta_key: _tribe_ticket_version
-    meta_value: 4.12.1.2
-  - meta_key: ekit_post_views_count
-    meta_value: '2348'
+    - meta_key: authorsure_include_css
+      meta_value: ""
+    - meta_key: dsq_thread_id
+      meta_value: "311359264"
+    - meta_key: _flattr_post_language
+      meta_value: ""
+    - meta_key: _flattr_post_category
+      meta_value: ""
+    - meta_key: _flattr_post_hidden
+      meta_value: ""
+    - meta_key: _flattr_btn_disabled
+      meta_value: ""
+    - meta_key: _thumbnail_id
+      meta_value: "8622"
+    - meta_key: _edit_last
+      meta_value: "3"
+    - meta_key: _views_template
+      meta_value: "0"
+    - meta_key: authorsure_include_css
+      meta_value: ""
+    - meta_key: _wpbitly
+      meta_value: http://nkdalm.net/1b3fV4H
+    - meta_key: _syn_old_sitegroups
+      meta_value: a:0:{}
+    - meta_key: _syn_selected_sitegroups
+      meta_value: ""
+    - meta_key: _mab_post_meta
+      meta_value: >-
+        a:2:{s:15:"post-action-box";s:7:"default";s:25:"post-action-box-placement";s:6:"bottom";}
+    - meta_key: _syn_slave_post_states
+      meta_value: a:0:{}
+    - meta_key: _jetpack_related_posts_cache
+      meta_value: >-
+        a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1474918201;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:5702;}i:1;a:1:{s:2:"id";i:9431;}i:2;a:1:{s:2:"id";i:6160;}}}}
+    - meta_key: _wpghs_github_path
+      meta_value: _posts/2011-01-04-project-of-projects-with-team-foundation-server-2010.md
+    - meta_key: _sha
+      meta_value: ""
+    - meta_key: _wpml_media_has_media
+      meta_value: "1"
+    - meta_key: _tribe_ticket_capacity
+      meta_value: "0"
+    - meta_key: _tribe_ticket_version
+      meta_value: 4.12.1.2
+    - meta_key: ekit_post_views_count
+      meta_value: "2348"
   comment:
-  - comment_id: '926'
-    comment_author: Ed Blankenship
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2011-01-05 22:26:20'
-    comment_date_gmt: '2011-01-05 22:26:20'
-    comment_content: >-
-      I like to call them "product families."  You may have multiple products in
-      a product family be on the same release/iteration cycle so you would want
-      to them to all use the same Iteration Paths.<br /><br />It's really about
-      figuring out the release cadence and then grouping products in their
-      relevant product families.  Definitely more of an art instead of a
-      science.
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '209969288'
-  - comment_id: '927'
-    comment_author: Alan Low
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2011-02-25 16:04:08'
-    comment_date_gmt: '2011-02-25 16:04:08'
-    comment_content: >-
-      I like the ideas mentioned within this article, but I have a question
-      about what to do in situations where you have a main product and addtional
-      products that have references to c# library projects in the main product?
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '209969289'
-  - comment_id: '928'
-    comment_author: Dan McQ
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2011-04-04 12:58:28'
-    comment_date_gmt: '2011-04-04 12:58:28'
-    comment_content: >-
-      Brian Harry posted this link recently about build folders:
-      http://blogs.msdn.com/b/bharry/archive/2011/04/01/build-folders.aspx
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '209969292'
-  - comment_id: '929'
-    comment_author: Dennis
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2011-04-28 17:13:07'
-    comment_date_gmt: '2011-04-28 17:13:07'
-    comment_content: >-
-      Ever tried printing any of your posts? It doesn't not look too good, any
-      chance of a fix?
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '209969293'
-  - comment_id: '930'
-    comment_author: MrHinsh
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com
-    comment_author_IP: 24.16.136.33
-    comment_date: '2011-06-03 06:52:53'
-    comment_date_gmt: '2011-06-03 13:52:53'
-    comment_content: |-
-      What is this printing thing you are talking about? :)
-      This should now be fixed... let me know if it is still broken.
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '929'
-    comment_user_id: '3'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:15:"1307109173.7385";s:7:"message";s:28:"Akismet
-        cleared this
-        comment";s:5:"event";s:9:"check-ham";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '931'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com
-    comment_author_IP: ''
-    comment_date: '2011-08-13 18:05:00'
-    comment_date_gmt: '2011-08-13 18:05:00'
-    comment_content: >-
-      This should now be fixed with the move to Wordpress... let me know if
-      there are still problems.
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '929'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '209969293'
-    - meta_key: dsq_post_id
-      meta_value: '285519365'
-  - comment_id: '932'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com
-    comment_author_IP: ''
-    comment_date: '2011-08-13 18:06:00'
-    comment_date_gmt: '2011-08-13 18:06:00'
-    comment_content: Yea, this is fantastic and really helps the case :)
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '928'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '209969292'
-    - meta_key: dsq_post_id
-      meta_value: '285519792'
-  - comment_id: '933'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com
-    comment_author_IP: ''
-    comment_date: '2011-08-13 18:08:00'
-    comment_date_gmt: '2011-08-13 18:08:00'
-    comment_content: "Anything\_that is not part of your solution should be\_treated\_as a third-party product. Link to\_version'ed assemblies that have passed whatever release management\_criteria you have.\n\nnote: Never, ever share code between projects... There was a reason that the TFS team did not implement Sharing from VSS and it was not technical."
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '927'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '209969289'
-    - meta_key: dsq_post_id
-      meta_value: '285522463'
-  - comment_id: '934'
-    comment_author: ''
-    comment_author_email: davidkrethallen@gmail.com
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2011-12-28 14:40:00'
-    comment_date_gmt: '2011-12-28 22:40:00'
-    comment_content: "Why do you say\_\"never share code between projects?\""
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '933'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '285522463'
-    - meta_key: dsq_post_id
-      meta_value: '396042856'
-  - comment_id: '935'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: ''
-    comment_date: '2011-12-30 10:04:00'
-    comment_date_gmt: '2011-12-30 18:04:00'
-    comment_content: "Mainly because it is always a bad idea :)\n\n\nI am not talking about using \"linked files\" between projects in VS, but instead\_sharping\_code rather than DLL's between the VS Solutions that represent\_high level\_deliverable.\ni.e. \"Anything\_that is not part of your solution should be\_treated\_as a third-party product.\_\""
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '934'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '396042856'
-    - meta_key: dsq_post_id
-      meta_value: '397440277'
-  - comment_id: '936'
-    comment_author: ''
-    comment_author_email: davidkrethallen@gmail.com
-    comment_author_url: ''
-    comment_author_IP: ''
-    comment_date: '2012-01-03 07:14:00'
-    comment_date_gmt: '2012-01-03 15:14:00'
-    comment_content: "That clarification helps. For a moment, I thought you were opposed to code reuse of any kind through shared libraries. That did not make sense.\_ \_So it is the sharing for code at the main application level\_to which you have objection. But\_you still did not explain why you object to that. Only to reiterate that \"it is always a bad idea.\"\_ \_Can you give me a scenario to illustrate the harm that comes from sharing code in this way?"
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '935'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '397440277'
-    - meta_key: dsq_post_id
-      meta_value: '399582922'
-  - comment_id: '937'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: ''
-    comment_date: '2012-01-04 16:58:00'
-    comment_date_gmt: '2012-01-05 00:58:00'
-    comment_content: "I very much in favour of code reuse.\_\n\nBottom line: Code Sharing is BAD and leads to code duplication and not code reuse.\_It is the method of code reuse that is the point of\_contention. You should be dependant only on the \"output\" of the shared library and not on the source files. As to\_scenarios, I can think of no\_scenarios\_where it is advisable to share source files between products/solutions.The reason being is that things can get complicated an\_unwieldy\_very quickly. What if you have move than one dependant to a shared\_library\_that all make\_changed\_to the same code and they\_alternately\_break each other. The only way around that is to start\_branching\_your common code into the other projects which now adds a level of complexity and integration that will never get handled in the long run and you will end up with three or more versions of the same code\_base\_over time.What you should do is have a single core component that is\_changed\_and build to produce output. This output can then be pulled on demand into the other\_projects that depend on those\_changes\_or not. This results in fewer\_breakages,\_better architecture\_and less technical debt. You can even introduce NuGet into the\_equation\_using either a hosted on in-house server to publish your common component and notify each of the consumers\_when\_a new version is available."
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '936'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '399582922'
-    - meta_key: dsq_post_id
-      meta_value: '400878567'
-  - comment_id: '938'
-    comment_author: ''
-    comment_author_email: davidkrethallen@gmail.com
-    comment_author_url: ''
-    comment_author_IP: 207.218.69.162
-    comment_date: '2012-01-05 11:41:00'
-    comment_date_gmt: '2012-01-05 19:41:00'
-    comment_content: "Thanks for the detailed scenario, Martin. I have shared code libraries between two applications before and it was not so bad as you describe. Yes, occasionally, we might make an improvement to serve one solution, and that would break the other solution. But our CI builds found that pretty quickly. Then the affected team could\_adjust their software to utilize the newer, better version. \_ The alternative would be for the other team to take a frozen copy of our DLL and periodically update it on a schedule that fits their convenience. Then, if we had made breaking changes, they could deal with them at the time of their choice instead of being forced to deal with it when we made the breaking change.\_\n\n\_It does not seem to me that one approach is inherently right and the other wrong. Rather, I see tradeoffs. By sharing source code, we were forcing the other team to integrate to our changes as quickly as possible. If they used DLLs, then they might forget or neglect to update all external dependencies and deploy software with older versions of software with known defects, even though our latest version was up-to-date.\_ Yet I can see the value in the approach you advocate. To me it depends on the context.\_\_ My context is an enterprise application with two solutions that should be kept integrated with the very latest stuff when they deploy. Any annoyance they encounter during changes is a sign of early integration and well worth it. But\_I can certainly imagine scenarios when\_I might adopt another approach.\_ I will try to keep an open mind on this in the future to ensure that we make a deliberate choice one way or the other, for a good reason, rather than just assuming that one way is always the best. But that is as far as I am ready to go at this time. I am not yet ready to say I will NEVER share source code libraries among solutions. \n\nOh, and I almost forgot to thank you for this post.\_It is one of the most valuable posts I have seen for a TFS team."
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '937'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '400878567'
-    - meta_key: dsq_post_id
-      meta_value: '401465197'
-  - comment_id: '939'
-    comment_author: stian.danielsen
-    comment_author_email: stian.danielsen@me.com
-    comment_author_url: ''
-    comment_author_IP: 153.110.137.15
-    comment_date: '2012-01-12 06:05:00'
-    comment_date_gmt: '2012-01-12 14:05:00'
-    comment_content: >-
-      Hi there Martin and thanks for your insightful post!
+    - comment_id: "926"
+      comment_author: Ed Blankenship
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2011-01-05 22:26:20"
+      comment_date_gmt: "2011-01-05 22:26:20"
+      comment_content: >-
+        I like to call them "product families."  You may have multiple products in
+        a product family be on the same release/iteration cycle so you would want
+        to them to all use the same Iteration Paths.<br /><br />It's really about
+        figuring out the release cadence and then grouping products in their
+        relevant product families.  Definitely more of an art instead of a
+        science.
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "209969288"
+    - comment_id: "927"
+      comment_author: Alan Low
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2011-02-25 16:04:08"
+      comment_date_gmt: "2011-02-25 16:04:08"
+      comment_content: >-
+        I like the ideas mentioned within this article, but I have a question
+        about what to do in situations where you have a main product and addtional
+        products that have references to c# library projects in the main product?
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "209969289"
+    - comment_id: "928"
+      comment_author: Dan McQ
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2011-04-04 12:58:28"
+      comment_date_gmt: "2011-04-04 12:58:28"
+      comment_content: >-
+        Brian Harry posted this link recently about build folders:
+        http://blogs.msdn.com/b/bharry/archive/2011/04/01/build-folders.aspx
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "209969292"
+    - comment_id: "929"
+      comment_author: Dennis
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2011-04-28 17:13:07"
+      comment_date_gmt: "2011-04-28 17:13:07"
+      comment_content: >-
+        Ever tried printing any of your posts? It doesn't not look too good, any
+        chance of a fix?
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "209969293"
+    - comment_id: "930"
+      comment_creator: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com
+      comment_author_IP: 24.16.136.33
+      comment_date: "2011-06-03 06:52:53"
+      comment_date_gmt: "2011-06-03 13:52:53"
+      comment_content: |-
+        What is this printing thing you are talking about? :)
+        This should now be fixed... let me know if it is still broken.
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "929"
+      comment_user_id: "3"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:15:"1307109173.7385";s:7:"message";s:28:"Akismet
+            cleared this
+            comment";s:5:"event";s:9:"check-ham";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "931"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com
+      comment_author_IP: ""
+      comment_date: "2011-08-13 18:05:00"
+      comment_date_gmt: "2011-08-13 18:05:00"
+      comment_content: >-
+        This should now be fixed with the move to Wordpress... let me know if
+        there are still problems.
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "929"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "209969293"
+        - meta_key: dsq_post_id
+          meta_value: "285519365"
+    - comment_id: "932"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com
+      comment_author_IP: ""
+      comment_date: "2011-08-13 18:06:00"
+      comment_date_gmt: "2011-08-13 18:06:00"
+      comment_content: Yea, this is fantastic and really helps the case :)
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "928"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "209969292"
+        - meta_key: dsq_post_id
+          meta_value: "285519792"
+    - comment_id: "933"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com
+      comment_author_IP: ""
+      comment_date: "2011-08-13 18:08:00"
+      comment_date_gmt: "2011-08-13 18:08:00"
+      comment_content: "Anything\_that is not part of your solution should be\_treated\_as a third-party product. Link to\_version'ed assemblies that have passed whatever release management\_criteria you have.\n\nnote: Never, ever share code between projects... There was a reason that the TFS team did not implement Sharing from VSS and it was not technical."
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "927"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "209969289"
+        - meta_key: dsq_post_id
+          meta_value: "285522463"
+    - comment_id: "934"
+      comment_author: ""
+      comment_author_email: davidkrethallen@gmail.com
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2011-12-28 14:40:00"
+      comment_date_gmt: "2011-12-28 22:40:00"
+      comment_content: "Why do you say\_\"never share code between projects?\""
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "933"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "285522463"
+        - meta_key: dsq_post_id
+          meta_value: "396042856"
+    - comment_id: "935"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: ""
+      comment_date: "2011-12-30 10:04:00"
+      comment_date_gmt: "2011-12-30 18:04:00"
+      comment_content: "Mainly because it is always a bad idea :)\n\n\nI am not talking about using \"linked files\" between projects in VS, but instead\_sharping\_code rather than DLL's between the VS Solutions that represent\_high level\_deliverable.\ni.e. \"Anything\_that is not part of your solution should be\_treated\_as a third-party product.\_\""
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "934"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "396042856"
+        - meta_key: dsq_post_id
+          meta_value: "397440277"
+    - comment_id: "936"
+      comment_author: ""
+      comment_author_email: davidkrethallen@gmail.com
+      comment_author_url: ""
+      comment_author_IP: ""
+      comment_date: "2012-01-03 07:14:00"
+      comment_date_gmt: "2012-01-03 15:14:00"
+      comment_content: "That clarification helps. For a moment, I thought you were opposed to code reuse of any kind through shared libraries. That did not make sense.\_ \_So it is the sharing for code at the main application level\_to which you have objection. But\_you still did not explain why you object to that. Only to reiterate that \"it is always a bad idea.\"\_ \_Can you give me a scenario to illustrate the harm that comes from sharing code in this way?"
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "935"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "397440277"
+        - meta_key: dsq_post_id
+          meta_value: "399582922"
+    - comment_id: "937"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: ""
+      comment_date: "2012-01-04 16:58:00"
+      comment_date_gmt: "2012-01-05 00:58:00"
+      comment_content: "I very much in favour of code reuse.\_\n\nBottom line: Code Sharing is BAD and leads to code duplication and not code reuse.\_It is the method of code reuse that is the point of\_contention. You should be dependant only on the \"output\" of the shared library and not on the source files. As to\_scenarios, I can think of no\_scenarios\_where it is advisable to share source files between products/solutions.The reason being is that things can get complicated an\_unwieldy\_very quickly. What if you have move than one dependant to a shared\_library\_that all make\_changed\_to the same code and they\_alternately\_break each other. The only way around that is to start\_branching\_your common code into the other projects which now adds a level of complexity and integration that will never get handled in the long run and you will end up with three or more versions of the same code\_base\_over time.What you should do is have a single core component that is\_changed\_and build to produce output. This output can then be pulled on demand into the other\_projects that depend on those\_changes\_or not. This results in fewer\_breakages,\_better architecture\_and less technical debt. You can even introduce NuGet into the\_equation\_using either a hosted on in-house server to publish your common component and notify each of the consumers\_when\_a new version is available."
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "936"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "399582922"
+        - meta_key: dsq_post_id
+          meta_value: "400878567"
+    - comment_id: "938"
+      comment_author: ""
+      comment_author_email: davidkrethallen@gmail.com
+      comment_author_url: ""
+      comment_author_IP: 207.218.69.162
+      comment_date: "2012-01-05 11:41:00"
+      comment_date_gmt: "2012-01-05 19:41:00"
+      comment_content: "Thanks for the detailed scenario, Martin. I have shared code libraries between two applications before and it was not so bad as you describe. Yes, occasionally, we might make an improvement to serve one solution, and that would break the other solution. But our CI builds found that pretty quickly. Then the affected team could\_adjust their software to utilize the newer, better version. \_ The alternative would be for the other team to take a frozen copy of our DLL and periodically update it on a schedule that fits their convenience. Then, if we had made breaking changes, they could deal with them at the time of their choice instead of being forced to deal with it when we made the breaking change.\_\n\n\_It does not seem to me that one approach is inherently right and the other wrong. Rather, I see tradeoffs. By sharing source code, we were forcing the other team to integrate to our changes as quickly as possible. If they used DLLs, then they might forget or neglect to update all external dependencies and deploy software with older versions of software with known defects, even though our latest version was up-to-date.\_ Yet I can see the value in the approach you advocate. To me it depends on the context.\_\_ My context is an enterprise application with two solutions that should be kept integrated with the very latest stuff when they deploy. Any annoyance they encounter during changes is a sign of early integration and well worth it. But\_I can certainly imagine scenarios when\_I might adopt another approach.\_ I will try to keep an open mind on this in the future to ensure that we make a deliberate choice one way or the other, for a good reason, rather than just assuming that one way is always the best. But that is as far as I am ready to go at this time. I am not yet ready to say I will NEVER share source code libraries among solutions. \n\nOh, and I almost forgot to thank you for this post.\_It is one of the most valuable posts I have seen for a TFS team."
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "937"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "400878567"
+        - meta_key: dsq_post_id
+          meta_value: "401465197"
+    - comment_id: "939"
+      comment_author: stian.danielsen
+      comment_author_email: stian.danielsen@me.com
+      comment_author_url: ""
+      comment_author_IP: 153.110.137.15
+      comment_date: "2012-01-12 06:05:00"
+      comment_date_gmt: "2012-01-12 14:05:00"
+      comment_content: >-
+        Hi there Martin and thanks for your insightful post!
 
 
-      In my company we have 10+ different products and developer teams and are
-      now reevaluating how to best organize it all in TFS.
+        In my company we have 10+ different products and developer teams and are
+        now reevaluating how to best organize it all in TFS.
 
 
-      Here is a question for you:
+        Here is a question for you:
 
-      We would like to use a single Team Project and separate the products using
-      Areas. In some cases, several teams do development on the same product.
+        We would like to use a single Team Project and separate the products using
+        Areas. In some cases, several teams do development on the same product.
 
-      How would you resolve this so that each teams work items don't get mixed
-      up with other teams working on the same product (each team has different
-      releases/iterations)?
-
-
-      This is the structure we initially go for in Areas:
+        How would you resolve this so that each teams work items don't get mixed
+        up with other teams working on the same product (each team has different
+        releases/iterations)?
 
 
-
-      ...considering multiple teams working on the same product we could maybe
-      structure it like this:
+        This is the structure we initially go for in Areas:
 
 
 
-      What do you think of that?
-
-
-      Alternatively, we could lump everything into  and then separate stuff
-      using Iterations...so the Iterations structure would look like this:
+        ...considering multiple teams working on the same product we could maybe
+        structure it like this:
 
 
 
-
-      Which solution would you suggest?
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '408617972'
-  - comment_id: '940'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: 50.135.56.181
-    comment_date: '2012-01-12 19:44:00'
-    comment_date_gmt: '2012-01-13 03:44:00'
-    comment_content: "Well it depends :) If all of your teams are on the same cadence then use AreaProductTeam, but if they are on\_different\_cadences you should use IterationProductReleaseTeamSprint or\_\nIterationProduct\nTeam\_ReleaseSprint. In DEV11 this problem goes away as it has the idea of teams built in. Ho, another option would be to put a drop-down-list on your PBI for team...\n\nAll options suck... fixed in dev11"
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '939'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '408617972'
-    - meta_key: dsq_post_id
-      meta_value: '409269848'
-  - comment_id: '941'
-    comment_author: stian.danielsen
-    comment_author_email: stian.danielsen@me.com
-    comment_author_url: ''
-    comment_author_IP: 153.110.137.15
-    comment_date: '2012-01-13 00:44:00'
-    comment_date_gmt: '2012-01-13 08:44:00'
-    comment_content: >-
-      Thanks a lot, Martin!
+        What do you think of that?
 
 
-      I think we are leaning towards a product-focused structure, avoiding
-      putting in TeamName.
+        Alternatively, we could lump everything into  and then separate stuff
+        using Iterations...so the Iterations structure would look like this:
 
 
-      So, the areas will look like:
-
-      ProductFamilyProductFeature
 
 
-      ...and the iterations will look like:
+        Which solution would you suggest?
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "408617972"
+    - comment_id: "940"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: 50.135.56.181
+      comment_date: "2012-01-12 19:44:00"
+      comment_date_gmt: "2012-01-13 03:44:00"
+      comment_content: "Well it depends :) If all of your teams are on the same cadence then use AreaProductTeam, but if they are on\_different\_cadences you should use IterationProductReleaseTeamSprint or\_\nIterationProduct\nTeam\_ReleaseSprint. In DEV11 this problem goes away as it has the idea of teams built in. Ho, another option would be to put a drop-down-list on your PBI for team...\n\nAll options suck... fixed in dev11"
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "939"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "408617972"
+        - meta_key: dsq_post_id
+          meta_value: "409269848"
+    - comment_id: "941"
+      comment_author: stian.danielsen
+      comment_author_email: stian.danielsen@me.com
+      comment_author_url: ""
+      comment_author_IP: 153.110.137.15
+      comment_date: "2012-01-13 00:44:00"
+      comment_date_gmt: "2012-01-13 08:44:00"
+      comment_content: >-
+        Thanks a lot, Martin!
 
-      ProductFamilyProductFeatureReleaseSprint
+
+        I think we are leaning towards a product-focused structure, avoiding
+        putting in TeamName.
 
 
-      Feature would be a new version, maintenance, a new gui etc.
+        So, the areas will look like:
+
+        ProductFamilyProductFeature
 
 
-      I think this setup will work very well for us - with the benefits of
-      having all within the same Team Project.
+        ...and the iterations will look like:
+
+        ProductFamilyProductFeatureReleaseSprint
 
 
-      With the upcoming TFS 11 in mind, would you still advocate keeping all in
-      the same Team Project?
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '940'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '409269848'
-    - meta_key: dsq_post_id
-      meta_value: '409619019'
-  - comment_id: '942'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: 50.135.56.181
-    comment_date: '2012-01-18 08:42:00'
-    comment_date_gmt: '2012-01-18 16:42:00'
-    comment_content: >-
-      I still advocate for a Project of Projects with the upcoming TFS11, Dev11
-      and TFS Service (TFS Azure)
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '941'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '409619019'
-    - meta_key: dsq_post_id
-      meta_value: '414469561'
-  - comment_id: '943'
-    comment_author: MARKUS POEHLER
-    comment_author_email: markus.poehler@web.de
-    comment_author_url: ''
-    comment_author_IP: 87.234.222.22
-    comment_date: '2012-01-24 04:43:00'
-    comment_date_gmt: '2012-01-24 12:43:00'
-    comment_content: "\"Instead have a single “Current” folder that has queries that point to the current iteration. Just change the queries as you move from one iteration to another.\"\n\nWhat exactly does this mean? As soon I move on to the next iteration, the Current Folder holds all items assigned to the Iteration \"cutrrent\", what to do then?\_ Rename the iteration and reassign all items as well? Should it be this work intensive...? What is best practice here?"
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '419490139'
-  - comment_id: '944'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: 50.135.56.181
-    comment_date: '2012-02-11 11:34:00'
-    comment_date_gmt: '2012-02-11 19:34:00'
-    comment_content: "In order to not have to change all of the queries in \"Current\" then you should create the following:\n\n\n..Release 1CurrentSprint 1\n..Release 1Sprint 2\n..Release 1Sprint n\n\nChange all of your queries to point to \"Under\" \"..Release 1Current\" which will\_automatically\_include \"Sprint 1\".\_\nWhen you move to \"Sprint 2\" just move \"Sprint 1\" out of \"Current\" and move \"Sprint 2\" under \"Current\".\n\nSimples...."
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '943'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '419490139'
-    - meta_key: dsq_post_id
-      meta_value: '436283183'
-  - comment_id: '945'
-    comment_author: John Balch
-    comment_author_email: jmbalch2012@gmail.com
-    comment_author_url: ''
-    comment_author_IP: 12.153.111.252
-    comment_date: '2012-05-16 13:47:00'
-    comment_date_gmt: '2012-05-16 20:47:00'
-    comment_content: >-
-      I am working with a big company that develops some internal applications,
-      supports many external applications. We are currently starting to use TFS
-      2010, each department or entity has its own applications of both internal
-      and external. Each entity can create its own team projects and basically
-      setup anyway they would like. I am trying to find what would work best for
-      the setting up of team projects as whether 1 is best for all projects or 1
-      for internal, and 1 for external supported applications. Mostly the
-      external applications do not require development, but we have to schedule
-      upgrades, testing of their changes, UAT, etc. So I would like to be able
-      to provide the best solution on how to best do this. My guess after
-      reading everything I can find, would be to have a team project for all
-      external facing applications even the ones we host here on premises and
-      use ‘Areas’ to separate each application. Then another team project for
-      internal applications and use ‘Areas’ to separate those out. Any
-      assistance would be greatly appreciated.
+        Feature would be a new version, maintenance, a new gui etc.
 
-      John
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '530624716'
-  - comment_id: '946'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: 173.14.255.1
-    comment_date: '2012-05-16 14:11:00'
-    comment_date_gmt: '2012-05-16 21:11:00'
-    comment_content: "Lumping your groups\_together sounds like a double edged sword! I would rather\_suggest\_that you create one team project per Group/Department and split the areas out.\n\nExample 1: \"TeamProject1InternalProjectA\"\_and\_\_\"TeamProject1ExternalProjectB\"\nExample 2: \"TeamProject1ProjectA-I\" and\_\n\_\"TeamProject1ProjectB-E\"\n\n\_The only value in having Internal and External as\_separate\_entities is if you want to more easily report on \"All External\" or query based on that.Example 3: \"TeamProject1ProjectA\" but create a \"Project Info\" work item type that associates metadata with your\_project\_and has a drop-down-list for \"Internal/External\""
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '945'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '530624716'
-    - meta_key: dsq_post_id
-      meta_value: '530641626'
-  - comment_id: '947'
-    comment_author: John Balch
-    comment_author_email: jmbalch2012@gmail.com
-    comment_author_url: ''
-    comment_author_IP: 12.153.111.252
-    comment_date: '2012-05-16 14:21:00'
-    comment_date_gmt: '2012-05-16 21:21:00'
-    comment_content: >-
-      Hi Martin,
 
-      Thank you for such a fast response. I agree with your statements.
-      Currently before I started here, a month ago, the department i work in has
-      a 3 or Team projects, 1 for applications, 1 for reports, 1 for interfaces,
-      etc. I just need to have some concrete data when i go to my boss to
-      suggest just 1 team project is best. 
+        I think this setup will work very well for us - with the benefits of
+        having all within the same Team Project.
 
-      Thank you again, and I am sure I will need to reach out to you again..
 
-      John
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '946'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: '530641626'
-    - meta_key: dsq_post_id
-      meta_value: '530649217'
-  - comment_id: '948'
-    comment_author: >-
-      Visual Studio ALM with Team Foundation Server, Visual Studio &amp; Scrum |
-      One Team Project
-    comment_author_email: ''
-    comment_author_url: http://blog.hinshelwood.com/one-team-project/
-    comment_author_IP: 184.168.230.128
-    comment_date: '2012-07-14 20:58:00'
-    comment_date_gmt: '2012-07-15 03:58:00'
-    comment_content: >-
-      [...] 2012-07-14 &middot; Add Comment &middot; In Practices, Tools  I have
-      talked often of the idea of a Project of Projects in Team Foundation
-      Server and with the new feature in Visual Studio 2012 Team Foundation
-      Server I though it would make sense [...]
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1342324680.81";s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1342325089.38";s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '949'
-    comment_author: Martin Hinshelwood
-    comment_author_email: martin@hinshelwood.com
-    comment_author_url: http://blog.hinshelwood.com/
-    comment_author_IP: 50.135.56.181
-    comment_date: '2012-07-14 21:02:00'
-    comment_date_gmt: '2012-07-15 04:02:00'
-    comment_content: >-
-      I have created an updated post for TFS 2012 that addresses the addition of
-      the "Team" entity. http://blog.hinshelwood.com/one-team-project/
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '588287339'
-  - comment_id: '950'
-    comment_author: >-
-      One Team Project Collection to rule them all&ndash;Consolidating Team
-      Projects - Visual Studio ALM
-    comment_author_email: ''
-    comment_author_url: >-
-      http://blog.hinshelwood.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/
-    comment_author_IP: 96.126.104.162
-    comment_date: '2012-09-21 23:25:11'
-    comment_date_gmt: '2012-09-22 06:25:11'
-    comment_content: >-
-      [...] I have often mentioned before there are a number of reasons that you
-      would want to be on a single Team Project Collection and [...]
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1348295111.21";s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1348295224.38";s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '951'
-    comment_author: >-
-      Why should I consider merging my Team Projects in TFS 2010 | Vincent
-      Labatut&#039;s Quest
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: 108.175.153.21
-    comment_date: '2012-09-30 14:14:19'
-    comment_date_gmt: '2012-09-30 13:14:19'
-    comment_content: '[...] then How do I implement big projects : projects of projects [...]'
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1349039659.38";s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";s:13:"1349191603.54";s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '952'
-    comment_author: Buying into the Team concept of TFS 2012 | Urban Turtle&#039;s blog
-    comment_author_email: ''
-    comment_author_url: >-
-      http://urbanturtle.com/blog/2013/04/17/buying-into-the-team-concept-of-tfs-2012/
-    comment_author_IP: 50.116.62.164
-    comment_date: '2013-04-17 11:53:05'
-    comment_date_gmt: '2013-04-17 18:53:05'
-    comment_content: >-
-      [...] we actually had to come up with our own implementation of such a
-      concept to support the practice of using one Team Project to manage
-      multiple teams. I say some because our implementation has never been quite
-      obvious with regards to its [...]
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1366224786.033313;s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1366255795.738152;s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '2064'
-    comment_author: Why You Should Use a Single TFS Team Project | Imaginet Blog
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: 64.90.38.134
-    comment_date: '2014-01-09 15:07:42'
-    comment_date_gmt: '2014-01-09 15:07:42'
-    comment_content: '[&#8230;] Project of Projects with TFS 2010 [&#8230;]'
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1389280062.088334;s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1389280661.995248;s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '11524'
-    comment_author: Why You Should Use a Single TFS Team Project - Imaginet
-    comment_author_email: ''
-    comment_author_url: ''
-    comment_author_IP: 209.177.108.59
-    comment_date: '2015-03-19 17:33:39'
-    comment_date_gmt: '2015-03-19 17:33:39'
-    comment_content: '[&#8230;] Project of Projects with TFS 2010 [&#8230;]'
-    comment_approved: '1'
-    comment_type: pingback
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: akismet_result
-      meta_value: 'false'
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1426786419.61931;s:7:"message";s:28:"Akismet cleared
-        this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
-    - meta_key: akismet_history
-      meta_value: >-
-        a:4:{s:4:"time";d:1427193328.526361;s:7:"message";s:46:"MrHinsh changed
-        the comment status to
-        approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
-  - comment_id: '13986'
-    comment_author: Johnny Boldt
-    comment_author_email: johnny.boldt@gmail.com
-    comment_author_url: ''
-    comment_author_IP: 65.110.165.179
-    comment_date: '2016-05-24 21:48:00'
-    comment_date_gmt: '2016-05-24 20:48:00'
-    comment_content: >-
-      Q: Does a single team project still make sense with TFS2015, or has new
-      functionality made it unnecessary?
+        With the upcoming TFS 11 in mind, would you still advocate keeping all in
+        the same Team Project?
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "940"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "409269848"
+        - meta_key: dsq_post_id
+          meta_value: "409619019"
+    - comment_id: "942"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: 50.135.56.181
+      comment_date: "2012-01-18 08:42:00"
+      comment_date_gmt: "2012-01-18 16:42:00"
+      comment_content: >-
+        I still advocate for a Project of Projects with the upcoming TFS11, Dev11
+        and TFS Service (TFS Azure)
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "941"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "409619019"
+        - meta_key: dsq_post_id
+          meta_value: "414469561"
+    - comment_id: "943"
+      comment_author: MARKUS POEHLER
+      comment_author_email: markus.poehler@web.de
+      comment_author_url: ""
+      comment_author_IP: 87.234.222.22
+      comment_date: "2012-01-24 04:43:00"
+      comment_date_gmt: "2012-01-24 12:43:00"
+      comment_content: "\"Instead have a single “Current” folder that has queries that point to the current iteration. Just change the queries as you move from one iteration to another.\"\n\nWhat exactly does this mean? As soon I move on to the next iteration, the Current Folder holds all items assigned to the Iteration \"cutrrent\", what to do then?\_ Rename the iteration and reassign all items as well? Should it be this work intensive...? What is best practice here?"
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "419490139"
+    - comment_id: "944"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: 50.135.56.181
+      comment_date: "2012-02-11 11:34:00"
+      comment_date_gmt: "2012-02-11 19:34:00"
+      comment_content: "In order to not have to change all of the queries in \"Current\" then you should create the following:\n\n\n..Release 1CurrentSprint 1\n..Release 1Sprint 2\n..Release 1Sprint n\n\nChange all of your queries to point to \"Under\" \"..Release 1Current\" which will\_automatically\_include \"Sprint 1\".\_\nWhen you move to \"Sprint 2\" just move \"Sprint 1\" out of \"Current\" and move \"Sprint 2\" under \"Current\".\n\nSimples...."
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "943"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "419490139"
+        - meta_key: dsq_post_id
+          meta_value: "436283183"
+    - comment_id: "945"
+      comment_author: John Balch
+      comment_author_email: jmbalch2012@gmail.com
+      comment_author_url: ""
+      comment_author_IP: 12.153.111.252
+      comment_date: "2012-05-16 13:47:00"
+      comment_date_gmt: "2012-05-16 20:47:00"
+      comment_content: >-
+        I am working with a big company that develops some internal applications,
+        supports many external applications. We are currently starting to use TFS
+        2010, each department or entity has its own applications of both internal
+        and external. Each entity can create its own team projects and basically
+        setup anyway they would like. I am trying to find what would work best for
+        the setting up of team projects as whether 1 is best for all projects or 1
+        for internal, and 1 for external supported applications. Mostly the
+        external applications do not require development, but we have to schedule
+        upgrades, testing of their changes, UAT, etc. So I would like to be able
+        to provide the best solution on how to best do this. My guess after
+        reading everything I can find, would be to have a team project for all
+        external facing applications even the ones we host here on premises and
+        use ‘Areas’ to separate each application. Then another team project for
+        internal applications and use ‘Areas’ to separate those out. Any
+        assistance would be greatly appreciated.
 
-      A:
-      https://nkdagility.com/working-within-a-single-team-project-with-team-foundation-server-2012/#comment-2693447557
-    comment_approved: '1'
-    comment_type: comment
-    comment_parent: '0'
-    comment_user_id: '0'
-    commentmeta:
-    - meta_key: dsq_parent_post_id
-      meta_value: ''
-    - meta_key: dsq_post_id
-      meta_value: '2693477384'
+        John
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "530624716"
+    - comment_id: "946"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: 173.14.255.1
+      comment_date: "2012-05-16 14:11:00"
+      comment_date_gmt: "2012-05-16 21:11:00"
+      comment_content: "Lumping your groups\_together sounds like a double edged sword! I would rather\_suggest\_that you create one team project per Group/Department and split the areas out.\n\nExample 1: \"TeamProject1InternalProjectA\"\_and\_\_\"TeamProject1ExternalProjectB\"\nExample 2: \"TeamProject1ProjectA-I\" and\_\n\_\"TeamProject1ProjectB-E\"\n\n\_The only value in having Internal and External as\_separate\_entities is if you want to more easily report on \"All External\" or query based on that.Example 3: \"TeamProject1ProjectA\" but create a \"Project Info\" work item type that associates metadata with your\_project\_and has a drop-down-list for \"Internal/External\""
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "945"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "530624716"
+        - meta_key: dsq_post_id
+          meta_value: "530641626"
+    - comment_id: "947"
+      comment_author: John Balch
+      comment_author_email: jmbalch2012@gmail.com
+      comment_author_url: ""
+      comment_author_IP: 12.153.111.252
+      comment_date: "2012-05-16 14:21:00"
+      comment_date_gmt: "2012-05-16 21:21:00"
+      comment_content: >-
+        Hi Martin,
+
+        Thank you for such a fast response. I agree with your statements.
+        Currently before I started here, a month ago, the department i work in has
+        a 3 or Team projects, 1 for applications, 1 for reports, 1 for interfaces,
+        etc. I just need to have some concrete data when i go to my boss to
+        suggest just 1 team project is best. 
+
+        Thank you again, and I am sure I will need to reach out to you again..
+
+        John
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "946"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: "530641626"
+        - meta_key: dsq_post_id
+          meta_value: "530649217"
+    - comment_id: "948"
+      comment_author: >-
+        Visual Studio ALM with Team Foundation Server, Visual Studio &amp; Scrum |
+        One Team Project
+      comment_author_email: ""
+      comment_author_url: http://blog.hinshelwood.com/one-team-project/
+      comment_author_IP: 184.168.230.128
+      comment_date: "2012-07-14 20:58:00"
+      comment_date_gmt: "2012-07-15 03:58:00"
+      comment_content: >-
+        [...] 2012-07-14 &middot; Add Comment &middot; In Practices, Tools  I have
+        talked often of the idea of a Project of Projects in Team Foundation
+        Server and with the new feature in Visual Studio 2012 Team Foundation
+        Server I though it would make sense [...]
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1342324680.81";s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1342325089.38";s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "949"
+      comment_author: Martin Hinshelwood
+      comment_author_email: martin@hinshelwood.com
+      comment_author_url: http://blog.hinshelwood.com/
+      comment_author_IP: 50.135.56.181
+      comment_date: "2012-07-14 21:02:00"
+      comment_date_gmt: "2012-07-15 04:02:00"
+      comment_content: >-
+        I have created an updated post for TFS 2012 that addresses the addition of
+        the "Team" entity. http://blog.hinshelwood.com/one-team-project/
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "588287339"
+    - comment_id: "950"
+      comment_author: >-
+        One Team Project Collection to rule them all&ndash;Consolidating Team
+        Projects - Visual Studio ALM
+      comment_author_email: ""
+      comment_author_url: >-
+        http://blog.hinshelwood.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/
+      comment_author_IP: 96.126.104.162
+      comment_date: "2012-09-21 23:25:11"
+      comment_date_gmt: "2012-09-22 06:25:11"
+      comment_content: >-
+        [...] I have often mentioned before there are a number of reasons that you
+        would want to be on a single Team Project Collection and [...]
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1348295111.21";s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1348295224.38";s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "951"
+      comment_author: >-
+        Why should I consider merging my Team Projects in TFS 2010 | Vincent
+        Labatut&#039;s Quest
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: 108.175.153.21
+      comment_date: "2012-09-30 14:14:19"
+      comment_date_gmt: "2012-09-30 13:14:19"
+      comment_content: "[...] then How do I implement big projects : projects of projects [...]"
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1349039659.38";s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";s:13:"1349191603.54";s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "952"
+      comment_author: Buying into the Team concept of TFS 2012 | Urban Turtle&#039;s blog
+      comment_author_email: ""
+      comment_author_url: >-
+        http://urbanturtle.com/blog/2013/04/17/buying-into-the-team-concept-of-tfs-2012/
+      comment_author_IP: 50.116.62.164
+      comment_date: "2013-04-17 11:53:05"
+      comment_date_gmt: "2013-04-17 18:53:05"
+      comment_content: >-
+        [...] we actually had to come up with our own implementation of such a
+        concept to support the practice of using one Team Project to manage
+        multiple teams. I say some because our implementation has never been quite
+        obvious with regards to its [...]
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1366224786.033313;s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1366255795.738152;s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "2064"
+      comment_author: Why You Should Use a Single TFS Team Project | Imaginet Blog
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: 64.90.38.134
+      comment_date: "2014-01-09 15:07:42"
+      comment_date_gmt: "2014-01-09 15:07:42"
+      comment_content: "[&#8230;] Project of Projects with TFS 2010 [&#8230;]"
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1389280062.088334;s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1389280661.995248;s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "11524"
+      comment_author: Why You Should Use a Single TFS Team Project - Imaginet
+      comment_author_email: ""
+      comment_author_url: ""
+      comment_author_IP: 209.177.108.59
+      comment_date: "2015-03-19 17:33:39"
+      comment_date_gmt: "2015-03-19 17:33:39"
+      comment_content: "[&#8230;] Project of Projects with TFS 2010 [&#8230;]"
+      comment_approved: "1"
+      comment_type: pingback
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: akismet_result
+          meta_value: "false"
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1426786419.61931;s:7:"message";s:28:"Akismet cleared
+            this comment";s:5:"event";s:9:"check-ham";s:4:"user";s:0:"";}
+        - meta_key: akismet_history
+          meta_value: >-
+            a:4:{s:4:"time";d:1427193328.526361;s:7:"message";s:46:"MrHinsh changed
+            the comment status to
+            approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"MrHinsh";}
+    - comment_id: "13986"
+      comment_author: Johnny Boldt
+      comment_author_email: johnny.boldt@gmail.com
+      comment_author_url: ""
+      comment_author_IP: 65.110.165.179
+      comment_date: "2016-05-24 21:48:00"
+      comment_date_gmt: "2016-05-24 20:48:00"
+      comment_content: >-
+        Q: Does a single team project still make sense with TFS2015, or has new
+        functionality made it unnecessary?
+
+        A:
+        https://nkdagility.com/working-within-a-single-team-project-with-team-foundation-server-2012/#comment-2693447557
+      comment_approved: "1"
+      comment_type: comment
+      comment_parent: "0"
+      comment_user_id: "0"
+      commentmeta:
+        - meta_key: dsq_parent_post_id
+          meta_value: ""
+        - meta_key: dsq_post_id
+          meta_value: "2693477384"

@@ -1,7 +1,7 @@
 ---
 title: "The Delivery: Mk II"
 date: 2009-02-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "140"
 layout: blog
 resourceType: blog

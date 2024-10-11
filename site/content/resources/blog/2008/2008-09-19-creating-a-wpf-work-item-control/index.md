@@ -1,7 +1,7 @@
 ---
 title: Creating a WPF Work Item Control
 date: 2008-09-19
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "191"
 layout: blog
 resourceType: blog

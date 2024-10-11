@@ -1,7 +1,7 @@
 ---
 title: ALS Life Sciences
 date: 2017-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11817"
 type: customers
 slug: als-life-sciences

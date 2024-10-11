@@ -1,7 +1,7 @@
 ---
 title: Installing Windows SharePoint Services 3.0 Service Pack 1 (SP1)
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "275"
 layout: blog
 resourceType: blog

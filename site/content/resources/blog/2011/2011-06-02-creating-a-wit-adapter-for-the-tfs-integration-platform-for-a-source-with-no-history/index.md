@@ -1,7 +1,7 @@
 ---
 title: Creating a WIT Adapter for the TFS Integration Platform for a source with no history
 date: 2011-06-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3408"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Screenshots of Vista from 2002 to Today
 date: 2007-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "450"
 layout: blog
 resourceType: blog

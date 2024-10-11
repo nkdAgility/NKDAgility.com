@@ -1,7 +1,7 @@
 ---
 title: VS2008 Update
 date: 2007-11-20
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "291"
 layout: blog
 resourceType: blog

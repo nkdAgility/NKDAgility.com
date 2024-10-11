@@ -1,7 +1,7 @@
 ---
 title: Professional Application Lifecycle Management with Visual Studio 2013
 date: 2014-04-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10482"
 layout: blog
 resourceType: blog

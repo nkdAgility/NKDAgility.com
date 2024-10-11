@@ -1,7 +1,7 @@
 ---
 title: You can't stack rank hierarchical work items?
 date: 2012-03-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4773"
 layout: blog
 resourceType: blog

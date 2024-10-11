@@ -1,7 +1,7 @@
 ---
 title: TFS Event Handler in .NET 3.5 Part 1 - The Architecture
 date: 2007-08-21
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3487"
 layout: blog
 resourceType: blog

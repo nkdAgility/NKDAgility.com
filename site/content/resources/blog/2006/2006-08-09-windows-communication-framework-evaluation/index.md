@@ -1,7 +1,7 @@
 ---
 title: Windows Communication Framework Evaluation
 date: 2006-08-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "464"
 layout: blog
 resourceType: blog

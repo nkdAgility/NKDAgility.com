@@ -1,7 +1,7 @@
 ---
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
 date: 2011-11-03
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4016"
 layout: blog
 resourceType: blog

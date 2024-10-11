@@ -1,7 +1,7 @@
 ---
 title: "Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname"
 date: 2010-01-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "72"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Scaling Professional Scrum with Visual Studio Team Services
 date: 2016-07-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11563"
 layout: blog
 resourceType: blog

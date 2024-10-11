@@ -1,7 +1,7 @@
 ---
 title: Custom UI colour scheme for Windows Forms .NET
 date: 2006-06-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "466"
 layout: blog
 resourceType: blog

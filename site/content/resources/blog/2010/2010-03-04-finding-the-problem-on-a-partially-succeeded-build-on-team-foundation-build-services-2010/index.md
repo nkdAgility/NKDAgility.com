@@ -1,7 +1,7 @@
 ---
 title: Finding the problem on a partially succeeded build on Team Foundation Build Services 2010
 date: 2010-03-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "66"
 layout: blog
 resourceType: blog

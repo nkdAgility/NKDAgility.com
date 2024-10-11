@@ -1,7 +1,7 @@
 ---
 title: Do you know when to send a done email in Scrum?
 date: 2010-04-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51"
 layout: blog
 resourceType: blog

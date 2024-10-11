@@ -1,7 +1,7 @@
 ---
 title: Microsoft Answer for the end-user
 date: 2008-12-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "151"
 layout: blog
 resourceType: blog

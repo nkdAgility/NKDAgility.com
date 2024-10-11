@@ -1,7 +1,7 @@
 ---
 title: Agile Requirements Workshop
 date: 2013-09-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10107"
 type: course
 slug: agile-requirements-workshop

@@ -1,7 +1,7 @@
 ---
 title: "Found GDR Bug: At least I think it is."
 date: 2008-09-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "198"
 layout: blog
 resourceType: blog

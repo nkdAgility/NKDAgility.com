@@ -1,7 +1,7 @@
 ---
 title: Information Sync
 date: 2007-12-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "279"
 layout: blog
 resourceType: blog

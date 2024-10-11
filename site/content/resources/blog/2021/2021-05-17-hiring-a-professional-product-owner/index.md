@@ -1,7 +1,7 @@
 ---
 title: Hiring a Professional Product Owner
 date: 2021-05-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "46138"
 layout: blog
 resourceType: blog

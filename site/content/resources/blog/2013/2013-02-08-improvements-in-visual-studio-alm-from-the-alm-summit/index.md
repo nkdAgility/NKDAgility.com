@@ -1,7 +1,7 @@
 ---
 title: Improvements in Visual Studio ALM from the ALM Summit
 date: 2013-02-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9239"
 layout: blog
 resourceType: blog

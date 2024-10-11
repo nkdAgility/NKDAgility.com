@@ -1,7 +1,7 @@
 ---
 title: Big Data for Humans
 date: 2017-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11819"
 type: customers
 slug: big-data-humans

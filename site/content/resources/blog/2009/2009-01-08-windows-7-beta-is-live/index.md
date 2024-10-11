@@ -1,7 +1,7 @@
 ---
 title: Windows 7 Beta is Live!
 date: 2009-01-08
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "149"
 layout: blog
 resourceType: blog

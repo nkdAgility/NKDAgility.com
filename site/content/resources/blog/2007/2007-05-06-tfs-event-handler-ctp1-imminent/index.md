@@ -1,7 +1,7 @@
 ---
 title: "TFS Event Handler: CTP1 Imminent"
 date: 2007-05-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "403"
 layout: blog
 resourceType: blog

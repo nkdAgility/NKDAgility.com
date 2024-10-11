@@ -1,7 +1,7 @@
 ---
 title: John Coleman
 date: 2022-10-26
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "48228"
 type: people
 slug: john-coleman

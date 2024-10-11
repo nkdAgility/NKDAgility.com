@@ -1,7 +1,7 @@
 ---
 title: "Sculpting the Product Backlog: A Delicate Balance Between Lean Inventory and Future Readiness"
 date: 2023-08-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49523"
 layout: blog
 resourceType: blog

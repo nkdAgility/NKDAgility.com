@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2008 Beta 2 Team Explorer
 date: 2007-07-29
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "356"
 layout: blog
 resourceType: blog

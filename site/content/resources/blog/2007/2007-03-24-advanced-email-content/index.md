@@ -1,7 +1,7 @@
 ---
 title: Advanced Email Content
 date: 2007-03-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "431"
 layout: blog
 resourceType: blog

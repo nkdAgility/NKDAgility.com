@@ -1,7 +1,7 @@
 ---
 title: Office 2010 Install
 date: 2009-07-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "103"
 layout: blog
 resourceType: blog

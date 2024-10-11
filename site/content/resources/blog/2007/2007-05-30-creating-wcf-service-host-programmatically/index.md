@@ -1,7 +1,7 @@
 ---
 title: Creating WCF Service Host Programmatically
 date: 2007-05-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "393"
 layout: blog
 resourceType: blog

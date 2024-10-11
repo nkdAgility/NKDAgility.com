@@ -1,7 +1,7 @@
 ---
 title: Assembly Version does not change in Visual Basic Workflow projects
 date: 2008-05-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "231"
 layout: blog
 resourceType: blog

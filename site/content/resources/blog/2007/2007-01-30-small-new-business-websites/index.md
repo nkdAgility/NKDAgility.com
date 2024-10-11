@@ -1,7 +1,7 @@
 ---
 title: Small / New business websites
 date: 2007-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "441"
 layout: blog
 resourceType: blog

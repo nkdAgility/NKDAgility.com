@@ -1,7 +1,7 @@
 ---
 title: Traveling for work and the Dell Venue 8
 date: 2014-07-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10645"
 layout: blog
 resourceType: blog

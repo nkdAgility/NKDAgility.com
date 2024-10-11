@@ -1,7 +1,7 @@
 ---
 title: Create a Standard Environment for Release Management in Azure
 date: 2014-12-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10923"
 layout: blog
 resourceType: blog

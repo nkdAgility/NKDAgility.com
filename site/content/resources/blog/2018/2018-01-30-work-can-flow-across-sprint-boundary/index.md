@@ -1,7 +1,7 @@
 ---
 title: Work can flow across the Sprint boundary
 date: 2018-01-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38300"
 layout: blog
 resourceType: blog

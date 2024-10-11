@@ -1,7 +1,7 @@
 ---
 title: Nottingham County Council
 date: 2017-04-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11825"
 type: customers
 slug: nottingham-county-council

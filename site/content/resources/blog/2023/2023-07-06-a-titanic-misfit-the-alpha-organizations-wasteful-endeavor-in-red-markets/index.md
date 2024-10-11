@@ -1,7 +1,7 @@
 ---
 title: "A Titanic Misfit: The Alpha Organization's Wasteful Endeavor in Red Markets"
 date: 2023-07-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "49490"
 layout: blog
 resourceType: blog

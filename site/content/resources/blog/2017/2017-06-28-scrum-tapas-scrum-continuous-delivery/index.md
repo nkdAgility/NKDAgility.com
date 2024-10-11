@@ -1,7 +1,7 @@
 ---
 title: "Scrum Tapas: Scrum and Continuous Delivery"
 date: 2017-06-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11946"
 layout: blog
 resourceType: blog

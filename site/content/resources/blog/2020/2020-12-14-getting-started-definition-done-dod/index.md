@@ -1,7 +1,7 @@
 ---
 title: Getting started with a Definition of Done (DoD)
 date: 2020-12-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38238"
 layout: blog
 resourceType: blog

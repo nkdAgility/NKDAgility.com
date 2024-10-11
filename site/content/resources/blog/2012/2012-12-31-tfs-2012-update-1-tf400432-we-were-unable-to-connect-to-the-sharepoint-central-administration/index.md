@@ -1,7 +1,7 @@
 ---
 title: TFS 2012 Update 1 - TF400432 We were unable to connect to the SharePoint Central Administration
 date: 2012-12-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9196"
 layout: blog
 resourceType: blog

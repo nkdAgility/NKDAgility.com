@@ -1,7 +1,7 @@
 ---
 title: Delving into SharePoint 3.0
 date: 2007-05-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "396"
 layout: blog
 resourceType: blog

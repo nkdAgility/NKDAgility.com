@@ -1,7 +1,7 @@
 ---
 title: Why should I use Visual Studio ALM
 date: 2015-01-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10990"
 layout: blog
 resourceType: blog

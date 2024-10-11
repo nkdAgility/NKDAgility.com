@@ -1,7 +1,7 @@
 ---
 title: Bug in ObservableCollection?
 date: 2008-04-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "240"
 layout: blog
 resourceType: blog

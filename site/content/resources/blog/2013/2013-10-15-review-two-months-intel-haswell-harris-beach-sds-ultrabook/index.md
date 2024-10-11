@@ -1,7 +1,7 @@
 ---
 title: "Review Part 3: Two Months with Intel Haswell Harris Beach SDS Ultrabook"
 date: 2013-10-15
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10209"
 layout: blog
 resourceType: blog

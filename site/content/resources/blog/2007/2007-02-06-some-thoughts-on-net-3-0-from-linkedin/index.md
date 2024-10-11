@@ -1,7 +1,7 @@
 ---
 title: Some thoughts on .NET 3.0 from LinkedIn
 date: 2007-02-06
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "436"
 layout: blog
 resourceType: blog

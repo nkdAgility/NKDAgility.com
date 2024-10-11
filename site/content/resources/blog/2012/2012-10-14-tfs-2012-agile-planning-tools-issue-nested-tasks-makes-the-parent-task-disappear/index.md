@@ -1,7 +1,7 @@
 ---
 title: TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear
 date: 2012-10-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "8936"
 layout: blog
 resourceType: blog

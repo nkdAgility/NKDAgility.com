@@ -1,7 +1,7 @@
 ---
 title: TFS Speed Problems
 date: 2007-05-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "395"
 layout: blog
 resourceType: blog

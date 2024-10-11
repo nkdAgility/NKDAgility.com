@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2008 Beta 2 on XP
 date: 2007-07-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "358"
 layout: blog
 resourceType: blog

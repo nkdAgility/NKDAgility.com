@@ -1,7 +1,7 @@
 ---
 title: Adding ToolStripPanel UI Adapter Support to the Composite UI Application Block
 date: 2006-06-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "467"
 layout: blog
 resourceType: blog

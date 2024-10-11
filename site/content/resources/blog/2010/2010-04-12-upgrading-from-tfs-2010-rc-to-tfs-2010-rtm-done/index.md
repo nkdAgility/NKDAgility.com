@@ -1,7 +1,7 @@
 ---
 title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
 date: 2010-04-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "53"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Major deadline
 date: 2008-04-30
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "233"
 layout: blog
 resourceType: blog

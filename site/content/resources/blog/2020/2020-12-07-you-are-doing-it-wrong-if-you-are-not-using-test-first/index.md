@@ -1,7 +1,7 @@
 ---
 title: You are doing it wrong if you are not using test first
 date: 2020-12-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9469"
 layout: blog
 resourceType: blog

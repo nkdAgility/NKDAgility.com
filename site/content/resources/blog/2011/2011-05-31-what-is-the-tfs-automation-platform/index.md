@@ -1,7 +1,7 @@
 ---
 title: What is the Tfs Automation Platform
 date: 2011-05-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "3373"
 layout: blog
 resourceType: blog

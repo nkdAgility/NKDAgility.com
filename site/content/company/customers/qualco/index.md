@@ -1,7 +1,7 @@
 ---
 title: Qualco
 date: 2020-10-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11845"
 type: customers
 slug: qualco

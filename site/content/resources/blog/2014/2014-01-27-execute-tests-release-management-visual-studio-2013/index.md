@@ -1,7 +1,7 @@
 ---
 title: Execute Tests with Release Management for Visual Studio 2013
 date: 2014-01-27
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10342"
 layout: blog
 resourceType: blog

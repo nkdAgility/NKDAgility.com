@@ -1,7 +1,7 @@
 ---
 title: First day at Aggreko
 date: 2007-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "310"
 layout: blog
 resourceType: blog

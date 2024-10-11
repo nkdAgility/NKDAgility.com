@@ -1,7 +1,7 @@
 ---
 title: Metrics that matter with evidence-based management
 date: 2014-02-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10367"
 layout: blog
 resourceType: blog

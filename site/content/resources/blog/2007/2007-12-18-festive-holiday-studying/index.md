@@ -1,7 +1,7 @@
 ---
 title: Festive holiday studying
 date: 2007-12-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "273"
 layout: blog
 resourceType: blog

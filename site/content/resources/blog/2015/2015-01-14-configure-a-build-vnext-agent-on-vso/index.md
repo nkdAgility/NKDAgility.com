@@ -1,7 +1,7 @@
 ---
 title: Configure a Build vNext Agent
 date: 2015-01-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "11021"
 layout: blog
 resourceType: blog

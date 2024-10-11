@@ -1,7 +1,7 @@
 ---
 title: Installing MOSS 2007 from scratch
 date: 2008-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "253"
 layout: blog
 resourceType: blog

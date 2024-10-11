@@ -1,7 +1,7 @@
 ---
 title: What's the best way to work around multiple PO?
 date: 2019-09-16
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39853"
 layout: blog
 resourceType: blog

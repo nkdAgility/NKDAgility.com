@@ -1,7 +1,7 @@
 ---
 title: Sync extension for Lists/Collections or whatever
 date: 2008-10-13
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "188"
 layout: blog
 resourceType: blog

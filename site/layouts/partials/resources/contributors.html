@@ -1,0 +1,24 @@
+Written by
+{{ $creator := .Params.creator }}
+{{ with site.GetPage "people" (anchorize $creator) }}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{ else }}
+  {{ $creator }}
+{{ end }}
+
+{{ if (and .Params.contributors (gt (len .Params.contributors) 0)) }}
+  and contributed to by
+  {{ range $index, $contributor := .Params.contributors }}
+    {{ with site.GetPage "people" (anchorize $contributor.name) }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ else }}
+      {{ if $contributor.external }}
+        <a href="{{ $contributor.external }}">{{ $contributor.name }}</a>
+      {{ else }}
+        {{ $contributor.name }}
+      {{ end }}
+    {{ end }}
+
+    {{ if lt (add $index 1) (len $.Params.contributors) }},{{ end }}
+  {{ end }}
+{{ end }}

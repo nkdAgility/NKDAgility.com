@@ -1,7 +1,7 @@
 ---
 title: How do you make a good Forecast?
 date: 2019-09-09
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39852"
 layout: blog
 resourceType: blog

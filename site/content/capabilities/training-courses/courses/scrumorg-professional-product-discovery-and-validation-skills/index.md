@@ -1,7 +1,7 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV)
 date: 2024-07-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "51412"
 type: course
 slug: professional-product-discovery-and-validation-skills-ppdv

@@ -1,7 +1,7 @@
 ---
 title: What's in a burndown?
 date: 2012-03-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "5002"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum in Immingham, UK
 date: 2013-12-11
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10301"
 layout: blog
 resourceType: blog

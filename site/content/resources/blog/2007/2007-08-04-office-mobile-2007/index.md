@@ -1,7 +1,7 @@
 ---
 title: Office Mobile 2007
 date: 2007-08-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "346"
 layout: blog
 resourceType: blog

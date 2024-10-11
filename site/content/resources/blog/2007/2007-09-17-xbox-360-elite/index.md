@@ -1,7 +1,7 @@
 ---
 title: Xbox 360 Elite
 date: 2007-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "311"
 layout: blog
 resourceType: blog

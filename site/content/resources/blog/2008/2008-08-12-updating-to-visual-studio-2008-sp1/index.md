@@ -1,7 +1,7 @@
 ---
 title: Updating to Visual Studio 2008 SP1
 date: 2008-08-12
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "211"
 layout: blog
 resourceType: blog

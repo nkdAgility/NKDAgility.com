@@ -1,7 +1,7 @@
 ---
 title: Run a router on Hyper-V
 date: 2014-06-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "10617"
 layout: blog
 resourceType: blog

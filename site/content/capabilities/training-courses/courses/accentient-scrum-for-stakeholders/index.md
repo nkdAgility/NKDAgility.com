@@ -1,7 +1,7 @@
 ---
 title: Scrum for Stakeholders Training
 date: 2020-08-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "44728"
 type: course
 slug: scrum-for-stakeholders-training

@@ -1,7 +1,7 @@
 ---
 title: The search for a single point of truth
 date: 2010-07-07
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "34"
 layout: blog
 resourceType: blog

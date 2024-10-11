@@ -1,7 +1,7 @@
 ---
 title: What is Taylorism, and why Waterfall is just the tip of the iceberg!
 date: 2021-01-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "45392"
 layout: blog
 resourceType: blog

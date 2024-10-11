@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2010 Overview - Microsoft Test Manager
 date: 2012-01-31
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "4189"
 layout: blog
 resourceType: blog

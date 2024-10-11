@@ -1,7 +1,7 @@
 ---
 title: Branch Compare…A Life saver
 date: 2008-10-24
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "181"
 layout: blog
 resourceType: blog

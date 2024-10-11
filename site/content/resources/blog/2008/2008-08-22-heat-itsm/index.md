@@ -1,7 +1,7 @@
 ---
 title: Heat ITSM
 date: 2008-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "207"
 layout: blog
 resourceType: blog

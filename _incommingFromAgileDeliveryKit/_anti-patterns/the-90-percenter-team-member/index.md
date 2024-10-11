@@ -2,27 +2,27 @@
 title: The 90 Percenter
 description: The 90 Percenter is frequently “almost done” with whatever they are working on.
 type: anti-pattern
-catagorys: 
- - scrum
- - five-dysfunction-of-a-team
-discussionId: 
+catagorys:
+  - scrum
+  - five-dysfunction-of-a-team
+discussionId:
 references:
- - title: "APS Secret Agent: The 90 Percenter"
-   url: https://nkdagility.com/resources/aps-secret-agent-the-90-percenter/
+  - title: "APS Secret Agent: The 90 Percenter"
+    url: https://nkdagility.com/resources/aps-secret-agent-the-90-percenter/
 recommendedContent:
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
- - collection: guides
-   path: _guides/kanban-guide-for-scrum-teams.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/kanban-guide-for-scrum-teams.md
 videos:
- - title: Overview of The Scrum Framework
-   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
- - title: What is Professional Scrum?
-   embed: https://www.youtube.com/embed/BYlv7eP9zgg
+  - title: Overview of The Scrum Framework
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: What is Professional Scrum?
+    embed: https://www.youtube.com/embed/BYlv7eP9zgg
 date: 2024-09-17
-author: MrHinsh
+creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
@@ -42,5 +42,4 @@ Examples of The 90 Percenter Behaviour:
 ## Typical impact
 
 - Other Team members become blocked in finishing their own work
-Ultimately, the Team fails to deliver a Product Backlog Item or a Sprint Goal.
-
+  Ultimately, the Team fails to deliver a Product Backlog Item or a Sprint Goal.

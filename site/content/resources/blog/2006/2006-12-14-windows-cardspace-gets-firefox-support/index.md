@@ -1,7 +1,7 @@
 ---
 title: Windows CardSpace gets Firefox support
 date: 2006-12-14
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "458"
 layout: blog
 resourceType: blog

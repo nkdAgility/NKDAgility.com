@@ -1,7 +1,7 @@
 ---
 title: Live Framework
 date: 2008-12-04
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "156"
 layout: blog
 resourceType: blog

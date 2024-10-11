@@ -1,7 +1,7 @@
 ---
 title: Professional Scrum with User Experience (PSU) with Certification
 date: 2019-05-25
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "38640"
 type: course
 slug: professional-scrum-with-user-experience-psu-with-certification

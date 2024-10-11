@@ -1,7 +1,7 @@
 ---
 title: "Round up for 2017 and beyond: Agility, DevOps, and Everything In-between"
 date: 2017-11-28
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "12146"
 layout: blog
 resourceType: blog

@@ -1,7 +1,7 @@
 ---
 title: Visual Studio 2012 Update 2 supports 2010 Build Servers
 date: 2013-03-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9336"
 layout: blog
 resourceType: blog

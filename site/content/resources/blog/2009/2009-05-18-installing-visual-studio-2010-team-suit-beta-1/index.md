@@ -1,7 +1,7 @@
 ---
 title: Installing Visual Studio 2010 Team Suit Beta 1
 date: 2009-05-18
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "119"
 layout: blog
 resourceType: blog

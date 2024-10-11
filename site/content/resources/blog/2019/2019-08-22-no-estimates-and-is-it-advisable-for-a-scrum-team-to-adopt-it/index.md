@@ -1,7 +1,7 @@
 ---
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
 date: 2019-08-22
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "39684"
 layout: blog
 resourceType: blog

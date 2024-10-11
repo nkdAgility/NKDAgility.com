@@ -1,7 +1,7 @@
 ---
 title: "Naked ALM: starting with why and getting naked"
 date: 2013-05-02
-author: MrHinsh
+creator: Martin Hinshelwood
 id: "9499"
 layout: blog
 resourceType: blog
