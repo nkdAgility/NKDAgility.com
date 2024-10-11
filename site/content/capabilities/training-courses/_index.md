@@ -34,6 +34,7 @@ headline:
       content: NKDAgility has proven expertise in working with Visual Studio & Azure DevOps.
 sections:
   - title: Our training aproach
+    contentClass: two-column-text
     content: |
       Our trainers are all accredited from Scrum.org, ProKanban.org, or Accentient and have the expertise backing it through long experience in delivering valuable outcomes to customers through an immersive learning philosophy.
 

@@ -4,6 +4,7 @@ date: 2020-12-17
 author: MrHinsh
 id: "45447"
 type: course
+weight: 100
 slug: applying-professional-kanban-apk-training-experience-with-certification
 url: /capabilities/training-courses/kanban-training-courses/:slug/
 aliases:
