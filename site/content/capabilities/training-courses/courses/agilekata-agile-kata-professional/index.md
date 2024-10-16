@@ -20,7 +20,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: Transform your agile journey with our 1-day Agile Kata course, designed to overcome the common challenges in agile transformations. Learn through a mix of instructor-led and hands-on activities, tailoring the Agile Kata pattern to fit your team's unique needs and drive real organizational change.
   objectives: |2+
@@ -34,7 +35,7 @@ delivery:
     - Understand the role of an Agile Coach in the Agile Kata.
     - Define a first step to increase business agility in your organization using the Agile Kata.
 
-  courseAssessmentIcon: AgileKataProLevel1.png
+  assessmentIcon: AgileKataProLevel1.png
   skilllevel: intermediate
   audience: |2+
 

@@ -73,7 +73,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |-
     Before participating in the APS-SD class, it would be beneficial for students to have a basic understanding of the following topics: 
     - [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) (**required**): Familiarize yourself with the Scrum framework's core concepts, roles, and ceremonies.
@@ -91,7 +92,7 @@ delivery:
     - Leverage DevOps Tools: Utilize supportive DevOps tools to streamline development and delivery processes. Learn how to integrate and automate workflows for faster and more reliable software delivery.
     - Comprehend the Synergy: Understand the interplay between different elements of Scrum and complementary practices. Gain insights into how they work together to enable agility and maximize outcomes.
 
-  courseAssessmentIcon: PSD-I_400.png
+  assessmentIcon: PSD-I_400.png
   skilllevel: intermediate
   audience: The Applying Professional Scrum for Software Development (APS-SD) course is designed for various roles within a Scrum Team, including architects, analysts, programmers, database developers, testers, managers, IT-Operations, Scrum Masters, and Product Owners. It is recommended that the entire Scrum Team, consisting of Developers, Scrum Master, and Product Owner, attend the course together to experience the benefits of teamwork fully. Attending as a team allows for immediate application of learned concepts and the ability to draw upon classroom experiences during challenging situations.  However, individuals attending without their entire team can still derive significant value from the course. They will have the opportunity to work within a Scrum Team during the training and can transfer their learnings to their teammates. This often leads to convincing their colleagues of the advantages of utilizing Scrum, Agile, and DevOps practices.
   type: Scrum

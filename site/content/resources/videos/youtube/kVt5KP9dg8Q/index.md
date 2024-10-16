@@ -26,7 +26,8 @@ Key Takeaways (Timestamps):
 
 (00:00:00 - 01:23): The Department of Defense's "Detecting Agile BS" Guide: Learn how they assess vendors' Agile capabilities and why you should care.
 (01:23 - 03:37): The Importance of a Fully Agile Ecosystem: Understand why Agile development alone isn't enough and how bureaucratic deployment can undermine your efforts.
-(03:37 - 05:45): Engineering Excellence and Continuous Delivery: Discover how prioritizing quality can eliminate the need for extensive UAT and enable seamless deployments.
+(03:37 - 05:45): Engineering Excellence and Continuous offering:
+offeringType: training-course Discover how prioritizing quality can eliminate the need for extensive UAT and enable seamless deployments.
 (05:45 - end): The 6 Key Questions of the Agile Litmus Test: Use this framework to assess your organization's agility and identify areas for improvement.
 
 Check out the rest of the https://www.youtube.com/playlist?list=PLQEC_R53iJWPLip-EbKCOq48JBPE_tnDy videos!

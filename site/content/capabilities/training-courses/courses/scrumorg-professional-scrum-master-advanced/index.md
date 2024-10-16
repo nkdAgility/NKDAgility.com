@@ -28,7 +28,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: Professional Scrum MasterTM II (PSM II) course is a 14h advanced Scrum Master class designed to support Scrum Masters in their professional development.  The PSM II course is intended for Scrum Masters with at least one year of experience who are looking to grow their knowledge and abilities as a Scrum Master. This course is one step in that journey.
   objectives: |2+
@@ -40,7 +41,7 @@ delivery:
     - Ways that the Scrum Master can help to change the environment making it more conducive for Scrum Teams to be successful with greater agility
     - Provide tips and techniques for the Scrum Master to work with the rest of the organization in support of their Scrum Teams
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSM-II.png
+  assessmentIcon: Scrumorg-Assessment-PSM-II.png
   skilllevel: advanced
   audience: The Advanced Professional Scrum Master course is an advanced course specifically designed for experienced Scrum Masters who have a thorough understanding of the Scrum framework.  It is particularly beneficial for those people with at least one year of Scrum Master experience.
   type: Scrum

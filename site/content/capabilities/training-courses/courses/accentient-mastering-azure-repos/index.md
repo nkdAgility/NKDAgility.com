@@ -22,11 +22,12 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: None
   lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use to quickly plan, develop, test, and deliver value in the form of working software. Azure Repos provide public or private Git repositories that enable better collaboration and cleaner code. To maximize learning, students will work in teams, in a common team project, on a common codebase.
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: intermediate
   audience: This course is appropriate for all software developers who are using or considering using Azure Repos for Git version control. Having some experience with version control is recommended. Experience with Git, Visual Studio, and C# are also helpful, but not required.
   type: Engineering

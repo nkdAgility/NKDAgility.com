@@ -25,7 +25,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: "Mastering the Product Owner Stances: Professional Scrum Product Owner™ - Advanced (PSPO-A) is a hands-on, activity-based course that focuses on helping experienced Product Owners and Product Managers expand their ability to establish a vision, validate their hypotheses, and ultimately deliver more value to their stakeholders."
   objectives: |2+
@@ -35,7 +36,7 @@ delivery:
     - Students will leave with a clear understanding of Agile Product Management as they continue on their Product Owner journey
     - Learn about the various types of stakeholders that Product Owners represent and how to best work with them.
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSPO-II.png
+  assessmentIcon: Scrumorg-Assessment-PSPO-II.png
   skilllevel: advanced
   audience: |+
     This course is designed for Product Owners, Product Managers, and Business Analysts focusing heavily on Product Management skills, tools, techniques, and knowledge as part of their work on the Scrum Team. The course does not address the Scrum framework (much), and we assume people have a proper understanding of the Scrum framework. Participants should have at least one year of experience as a Product Owner or Product Manager, while multiple years of experience and having attended the [Professional Scrum Product Owner](https://nkdagility.com/training/courses/professional-scrum-product-owner-pspo-training/ "Professional Scrum Product Owner™ Training") course and passing [PSPO](https://www.scrum.org/professional-scrum-product-owner-i-certification "Professional Scrum Product Owner™ I")is preferred, but not mandatory. Other people that might benefit from the PSPO-A course include: 

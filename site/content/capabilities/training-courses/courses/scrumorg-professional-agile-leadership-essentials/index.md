@@ -27,7 +27,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: |2
 
@@ -39,7 +40,7 @@ delivery:
     - Professional introduction and establishment of Agile techniques
     - Role management plays in the Agile change of an organization
 
-  courseAssessmentIcon: Scrumorg-Assessment-PAL-I.png
+  assessmentIcon: Scrumorg-Assessment-PAL-I.png
   skilllevel: intermediate
   audience: |2
 

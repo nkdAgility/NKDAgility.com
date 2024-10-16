@@ -33,7 +33,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: Before you take this course you should have a solid understanding of Professional Scrum.
   lead: Professional ScrumTM with Kanban (PSK) is a 2-day course that teaches Scrum practitioners how to apply Kanban practices to their work. Through theory, case studies, and hands-on exercises, participants will understand the importance of transparency and flow as it pertains to the Scrum framework."
   objectives: |+
@@ -43,7 +44,7 @@ delivery:
     - Understand how to effectively use the appropriate Kanban practices without changing Scrum.
     - Learn a practical approach to improving transparency and visibility for their work.
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSK.png
+  assessmentIcon: Scrumorg-Assessment-PSK.png
   skilllevel: advanced
   audience: The Professional Scrum with Kanban course is an advanced course designed for experienced Scrum Practitioners who have a good understanding of the Scrum framework. It is particularly beneficial for Scrum Masters.
   type: Scrum

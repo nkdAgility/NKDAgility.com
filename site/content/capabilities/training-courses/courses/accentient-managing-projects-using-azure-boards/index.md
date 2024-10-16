@@ -25,7 +25,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: Attendees should read and be familiar with the Scrum Guide prior to class.
   lead: Azure DevOps Services provide a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software. Azure Boards enable an agile team to plan, track, and discuss work across the entire development effort. This one day course will demonstrate how an agile team can configure and use Azure Boards effectively. To maximize learning, students will work in teams, in a common team project, on a common case study.
   objectives: |2+
@@ -64,7 +65,7 @@ delivery:
         12. Splitting an unfinished item
         13. Hands-on
 
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: intermediate
   audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing work within a sprint. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Boards. Having some project management and software development experience, either as a team member or as a manager, is recommended. Experience with Agile software development, Scrum, and Visual Studio are also helpful, but not required. Attendees should read and be familiar with the [Scrum Guide](http://www.scrumguides.org/) prior to class.
   type: Engineering

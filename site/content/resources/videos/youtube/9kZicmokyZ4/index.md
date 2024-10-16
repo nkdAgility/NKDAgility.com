@@ -26,7 +26,8 @@ Evidence-based management is a strategic approach that focuses on gathering data
 The Impact on Success
 
 Measuring Change: By integrating evidence-based management, you can clearly understand and measure the impact of alterations made to your system.
-Value Delivery: This approach ensures that your efforts are aligned with delivering value to the business in the most efficient way possible.
+Value offering:
+offeringType: training-course This approach ensures that your efforts are aligned with delivering value to the business in the most efficient way possible.
 Success Evaluation: It allows you to determine whether the changes made are moving the needle in the right direction.
 
 The Need for Measurement in Agile
@@ -47,7 +48,8 @@ Real-World Examples
 
 Enhanced Decision-Making: In one instance, a team struggling with delivery timelines implemented specific metrics for tracking progress. This data-driven approach enabled them to pinpoint bottlenecks and streamline their process.
 
-Increased Value Delivery: Another team focused on measuring customer satisfaction. By adjusting their strategies based on customer feedback data, they significantly increased value delivery.
+Increased Value offering:
+offeringType: training-course Another team focused on measuring customer satisfaction. By adjusting their strategies based on customer feedback data, they significantly increased value delivery.
 
 Actionable Recommendations
 

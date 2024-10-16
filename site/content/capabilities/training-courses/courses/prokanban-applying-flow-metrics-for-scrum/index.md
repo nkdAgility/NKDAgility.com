@@ -21,7 +21,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: There are no specific prerequisites for this course, making it accessible to participants at various levels of Scrum experience. However, a basic understanding of Scrum principles and Agile practices would be beneficial to fully grasp the content.
   lead: "Elevate Your Scrum Mastery with 'Applying Flow Metrics for Scrum': Transform your Agile practices with our immersive, hands-on course. Dive deep into the world of flow metrics and emerge with the skills to enhance your team's efficiency and delivery. Join us for a journey of practical learning and real-world application – it's time to turn data into action!"
   objectives: |-
@@ -33,7 +34,7 @@ delivery:
     5. **Product Backlog Item Refinement**: Acquire practical tools and techniques for refining Product Backlog Items to increase workflow efficiency. Participants will learn how to optimize the flow of work items through effective backlog refinement practices, ultimately boosting productivity and delivery speed.
 
      By mastering these objectives, participants will be well-prepared to apply flow metrics effectively within their Scrum teams, leading to more efficient planning, enhanced daily Scrum activities, improved progress tracking, measurable team enhancements, and streamlined Product Backlog Item refinement processes.
-  courseAssessmentIcon: PAM-1.png
+  assessmentIcon: PAM-1.png
   skilllevel: intermediate
   audience: This course is suitable for Scrum Masters, Product Owners, Development Team Members, Agile Coaches, Leaders, Managers, Scrum Enthusiasts, and anyone interested in data-driven Scrum practices, aiming to optimize their Scrum processes through the application of flow metrics.
   type: Unknown

@@ -37,7 +37,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |+
     Attendees make the most of the class if they: 
     - Have studied the [Nexus Guide](https://nkdagility.com/resources/the-nexus-guide/) (required).
@@ -55,7 +56,7 @@ delivery:
     - Optimize team productivity
     - Understand how to identify, minimize and remove dependencies
 
-  courseAssessmentIcon: Scrumorg-Assessment-SPS.png
+  assessmentIcon: Scrumorg-Assessment-SPS.png
   skilllevel: advanced
   audience: |+
     SPS is targeted at development leads and managers and anyone else involved in formulating, participating or managing scaled Scrum product development. Organizations are encouraged to send a team of people that will be (or already are) running large Scrum initiatives. It is especially oriented to those who: 

@@ -1,10 +1,10 @@
 ---
-title: Practicing Kanban Using Azure Boards Training
+title: Practicing Kanban Using Azure Boards
 date: 2020-08-31
 creator: Martin Hinshelwood
 id: "44723"
 type: course
-slug: practicing-kanban-using-azure-boards-training
+slug: practicing-kanban-using-azure-boards
 url: /capabilities/training-courses/azure-devops-training-courses/:slug/
 aliases:
   - /PKAB/
@@ -25,7 +25,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: For more information, read the [Kanban guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams).
   lead: ""
   objectives: |+
@@ -65,7 +66,7 @@ delivery:
         - Monte Carlo simulation
         - Achieving flow and predictability - Hands-on
 
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: intermediate
   audience: This course is appropriate for all members of a software development team, especially those who are actively involved with creating and refining a product backlog as well as planning and executing the work. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who are interested in establishing and improving flow for their team. Even teams currently practicing Scrum should consider attending this course, as Kanban is a great complementary practice for managing and improving their flow.
   type: Engineering

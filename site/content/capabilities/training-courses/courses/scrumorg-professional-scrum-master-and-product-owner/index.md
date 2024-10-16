@@ -25,7 +25,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
   lead: Scrum Teams flourish when the Scrum Master and Product Owner accountabilities are well fulfilled. The 3-day Professional Scrum Master and Product Owner (PSMPO) course combines the key learning objectives from both the Scrum.org Professional Scrum Master (PSM) and Professional Scrum Product Owner (PSPO) courses.
   objectives: |2+
@@ -41,7 +42,7 @@ delivery:
     - Solidify the importance of done and discerning what is done and what is undone
     - Gain appreciation for the art of working with self-managing teams and building a sustaining capability for solving complex problems
 
-  courseAssessmentIcon: Scrumorg-PSMPO_certification-1000.png
+  assessmentIcon: Scrumorg-PSMPO_certification-1000.png
   skilllevel: intermediate
   audience: The Professional Scrum Master and Product Owner course is designed for Scrum Masters and Product Owners to learn together. This is especially important as they collectively provide leadership that Scrum Teams need to satisfy stakeholders,  including customers and users through the early and continuous delivery of value. When bringing this course into your organization, take care to include participants that will be working on teams together. We suggest participants read through the [PSM Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") as well as the [PSPO Focus Areas](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") before the class.
   type: Scrum

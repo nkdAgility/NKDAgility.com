@@ -1,5 +1,6 @@
 ---
-title: "The Delivery: Mk II"
+title: "The offering:
+  offeringType: training-course Mk II"
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "140"
