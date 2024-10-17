@@ -11,7 +11,7 @@ aliases:
   - /training-courses/azure-devops-training-courses/continuous-delivery-using-azure-devops-services-training/
   - /capabilities/training-courses/accentient/continuous-delivery-using-azure-devops-services-training/
 course-topics:
-  - Azure DevOps Training  Courses
+  - Azure DevOps Training Courses
 course-vendors:
   - Accentient
 tags:

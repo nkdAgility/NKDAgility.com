@@ -10,7 +10,7 @@ aliases:
   - /training-courses/azure-devops-training-courses/mastering-azure-repos-training/
   - /capabilities/training-courses/accentient/mastering-azure-repos-training
 course-topics:
-  - Azure DevOps Training  Courses
+  - Azure DevOps Training Courses
 course-vendors:
   - Accentient
 tags:

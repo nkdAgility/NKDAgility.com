@@ -12,7 +12,7 @@ aliases:
   - /training-courses/azure-devops-training-courses/practicing-kanban-using-azure-boards-training/
   - /capabilities/training-courses/accentient/practicing-kanban-using-azure-boards/
 course-topics:
-  - Azure DevOps Training  Courses
+  - Azure DevOps Training Courses
 course-vendors:
   - Accentient
 tags:

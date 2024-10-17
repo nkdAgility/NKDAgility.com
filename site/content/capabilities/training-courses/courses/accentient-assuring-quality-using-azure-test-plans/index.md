@@ -12,7 +12,7 @@ aliases:
   - /AD-QA/
   - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
 course-topics:
-  - Azure DevOps Training  Courses
+  - Azure DevOps Training Courses
 course-vendors:
   - Accentient
 tags:

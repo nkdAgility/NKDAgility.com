@@ -1,13 +1,13 @@
 const msalConfig = {
   auth: {
-    clientId: "f18a31b9-50fb-45ea-ae5a-d904d0b19c67", // From your B2C App Registration
-    authority: "https://mynakedagility.ciamlogin.com/mynakedagility.onmicrosoft.com/B2C_1_signup_signin_1", // Replace <USER_FLOW> with your user flow (e.g., B2C_1_signupsignin)
-    knownAuthorities: ["mynakedagility.ciamlogin.com", "login.nkdagility.com"],
-    redirectUri: "/auth/login", // URL after login
+    clientId: "f18a31b9-50fb-45ea-ae5a-d904d0b19c67", // Application (client) ID from your CIAM tenant
+    authority: "https://login.ciamlogin.com/login.nkdagility.com/", // Authority URL for Microsoft Entra External ID (CIAM)
+    knownAuthorities: ["login.ciamlogin.com", "login.nkdagility.com"], // Domain of the authority (without paths)
+    redirectUri: "/auth/login", // Redirect URI after login
   },
   cache: {
-    cacheLocation: "sessionStorage", // or localStorage
-    storeAuthStateInCookie: false, // Recommended for browsers with strict cookies
+    cacheLocation: "sessionStorage", // Store tokens in sessionStorage
+    storeAuthStateInCookie: false, // Set to true for legacy browser support if needed
   },
 };
 
@@ -15,7 +15,7 @@ const msalInstance = new msal.PublicClientApplication(msalConfig);
 
 function login() {
   const loginRequest = {
-    scopes: ["openid", "profile", "email"], // Adjust based on what data you want
+    scopes: ["openid", "profile", "email"], // Scopes needed for authentication
   };
 
   msalInstance
