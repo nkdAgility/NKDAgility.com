@@ -14,11 +14,15 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-1 order-sm-1 order-md-1 order-lg-1">
                   {{ if .media }}
                     {{ if strings.HasPrefix .media "/images/" }}
-                      <img class="hard-coded-image" src="{{ .media }}" width="80%" />
+                      <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                        <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                      </a>
                     {{ else }}
                       {{ $image := $Page.Resources.GetMatch .media }}
                       {{ if $image }}
-                        <img class="dynamic-image" src="{{ $image.RelPermalink }}" width="100%" />
+                        <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                          <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                        </a>
                       {{ else }}
                         failed to get image
                         {{ .media }}
@@ -49,11 +53,15 @@
                 <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-2 order-sm-1 order-md-1 order-lg-2">
                   {{ if .media }}
                     {{ if strings.HasPrefix .media "/images/" }}
-                      <img class="hard-coded-image" src="{{ .media }}" width="80%" />
+                      <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                        <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                      </a>
                     {{ else }}
                       {{ $image := $Page.Resources.GetMatch .media }}
                       {{ if $image }}
-                        <img class="dynamic-image" src="{{ $image.RelPermalink }}" width="100%" />
+                        <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                          <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                        </a>
                       {{ else }}
                         failed to get image
                         {{ .media }}

@@ -3,9 +3,19 @@
 <div class="p-2">
   <div class="card sectioncards flex-fill m-3 shadow text-start flex-fill small border-0 h-100 position-relative">
     <div class="card-body p-4 px-20">
-      <h3 class="ttl-nkdagility h5 text-start" title="{{ $context.Page.Title }}">{{ $context.Page.Title }}</h3>
+      <h3 class="ttl-nkdagility h5 text-start" title="{{ $context.Page.Title }}">
+        {{ if $context.Page.Params.card }}
+          {{ $context.Page.Params.card.title }}
+        {{ else }}
+          {{ $context.Page.Title }}
+        {{ end }}
+      </h3>
       <div class="card-text text-muted">
-        {{ .content | markdownify }}
+        {{ if $context.Page.Params.card }}
+          {{ $context.Page.Params.card.content | markdownify }}
+        {{ else }}
+          {{ .content | markdownify }}
+        {{ end }}
       </div>
     </div>
     <ul class="list-group list-group-flush">

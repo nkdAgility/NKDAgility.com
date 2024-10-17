@@ -4,11 +4,9 @@ description:
 card:
   button:
     content: ""
-  title: "NKDAgility are experts in Scrum training"
+  title: Scrum Training Courses
   content: |
-    Scrum is the most popular of all of the Agile frameworks and is one of the most flexible with only five values, three accountabilities, three artefacts with their respective commitments, and five events. The best place to read about Scrum is through the Scrum Guide. 
-
-    The best place to learn about Scrum is right here.
+    Scrum is the most popular of all of the Agile frameworks and is one of the most flexible with only five values, three accountabilities, three artefacts with their respective commitments, and five events.
 headline:
   title: NKDAgility are experts in Scrum training
   subtitle: We are Professional Scrum Trainers and have been training Scrum for over 15 years.
