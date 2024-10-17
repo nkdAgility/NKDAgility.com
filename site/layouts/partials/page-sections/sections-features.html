@@ -1,5 +1,9 @@
+{{ $context := .context }}
+{{ $Page := .Page }}
+
+
 <div class="row">
-  {{ with .features }}
+  {{ with $context.features }}
     {{ if gt (len .) 0 }}
       {{ range $index, $features := . }}
         {{ if modBool $index 2 }}
@@ -8,7 +12,23 @@
             <div class="card flex-fill m-2 border-0">
               <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-1 order-sm-1 order-md-1 order-lg-1">
-                  <img src="./{{ .media }}" width="100%" />
+                  {{ if .media }}
+                    {{ if strings.HasPrefix .media "/images/" }}
+                      <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                        <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                      </a>
+                    {{ else }}
+                      {{ $image := $Page.Resources.GetMatch .media }}
+                      {{ if $image }}
+                        <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                          <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                        </a>
+                      {{ else }}
+                        failed to get image
+                        {{ .media }}
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 order-2 order-sm-2 order-md-2 order-lg-2">
                   <div class="card-body">
@@ -31,7 +51,23 @@
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-2 order-sm-1 order-md-1 order-lg-2">
-                  <img src="./{{ .media }}" width="100%" />
+                  {{ if .media }}
+                    {{ if strings.HasPrefix .media "/images/" }}
+                      <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                        <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                      </a>
+                    {{ else }}
+                      {{ $image := $Page.Resources.GetMatch .media }}
+                      {{ if $image }}
+                        <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
+                          <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                        </a>
+                      {{ else }}
+                        failed to get image
+                        {{ .media }}
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
                 </div>
               </div>
             </div>

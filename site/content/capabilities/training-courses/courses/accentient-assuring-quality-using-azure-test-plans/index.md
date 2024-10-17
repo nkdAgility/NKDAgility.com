@@ -12,7 +12,7 @@ aliases:
   - /AD-QA/
   - /capabilities/training-courses/accentient/assuring-quality-using-azure-test-plans-training
 course-topics:
-  - Azure DevOps Training  Courses
+  - Azure DevOps Training Courses
 course-vendors:
   - Accentient
 tags:
@@ -24,11 +24,12 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: Azure DevOps provides a set of cloud-hosted tools that software teams can use as an end-to-end solution to plan, develop, test, and deliver value in the form of working software.
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: intermediate
   audience: This course is appropriate for all members of a software development team, especially those who are actively involved in defining, assuring, and increasing the overall quality of their software products. This course will also provide value for individuals outside the development team (managers, Scrum Masters, coaches, and other stakeholders) who want hands-on exposure to the capabilities of Azure Test Plans.
   type: Engineering

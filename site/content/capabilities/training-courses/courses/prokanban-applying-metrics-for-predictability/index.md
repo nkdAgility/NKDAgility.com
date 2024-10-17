@@ -20,7 +20,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
   lead: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
   objectives: |+
@@ -33,7 +34,7 @@ delivery:
     6. Apply course techniques to real-world projects for immediate impact.
     7. Validate your knowledge through an online assessment, receiving guidance on areas for improvement.
 
-  courseAssessmentIcon: PAM-1.png
+  assessmentIcon: PAM-1.png
   skilllevel: intermediate
   audience: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
   type: Unknown

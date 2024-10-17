@@ -27,7 +27,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |+
     Course attendees do not need experience or knowledge of Scrum, though a connection to the various aspects of Scrum (Product Goal, Sprint Goal, empiricism) is made. Ideally, the attendees will have familiarity with Agile principles and are proponents of using Agile methods at their organization. For the best outcome of the class I recommended that you read: 
     - Read: [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
@@ -42,7 +43,7 @@ delivery:
     - Correlate market leadership and sustainability to curiosity, adaptation, and empiricism
     - Understand how to use EBM and its KVAs to focus measurements on improving market value and operational capabilities
 
-  courseAssessmentIcon: Scrumorg-Assessment-PAL-EBM.png
+  assessmentIcon: Scrumorg-Assessment-PAL-EBM.png
   skilllevel: advanced
   audience: |-
     PAL-EBM is for professionals in leadership roles (including executives, managers, Scrum Masters, Product Owners, coaches, and consultants) who: 

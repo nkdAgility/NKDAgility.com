@@ -23,7 +23,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |2+
 
     - Be familiar with Scrum and the Scrum Guide
@@ -37,7 +38,7 @@ delivery:
     - Apply facilitation principles and techniques to improve the Scrum events and other interactions
     - Improve team collaboration and participatory decision making using a facilitator stance and toolbox of techniques
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSFS.png
+  assessmentIcon: Scrumorg-Assessment-PSFS.png
   skilllevel: advanced
   audience: |+
     This course is most suitable for professionals with Scrum knowledge and experience that are interested in learning how to use facilitation to enhance team collaboration and reduce conflict. It is ideal for: 

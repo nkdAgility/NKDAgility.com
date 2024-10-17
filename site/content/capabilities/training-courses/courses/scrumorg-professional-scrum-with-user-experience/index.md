@@ -27,7 +27,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |+
     Before attending you should: 
     - Join our [The League of Extraordinary Lean-Agile Practitioners](https://community.nkdagility.com/)
@@ -54,7 +55,7 @@ delivery:
     - Learn the value of testing hypotheses with experiments
     - Understand how to design experiments to be as low-cost, low-risk as possible, and how to make them “ride the Truth Curve” as you increase investment
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSU.png
+  assessmentIcon: Scrumorg-Assessment-PSU.png
   skilllevel: advanced
   audience: |2+
 

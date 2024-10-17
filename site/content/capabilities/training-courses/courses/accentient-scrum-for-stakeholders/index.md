@@ -20,11 +20,12 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: ""
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: beginner
   audience: |2
 

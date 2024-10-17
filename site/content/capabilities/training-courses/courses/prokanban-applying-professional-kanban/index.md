@@ -32,7 +32,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |-
     the best learning experience and outcomes, the following are recommended: 
     1. **Basic Understanding of Agile Principles**: Familiarity with agile concepts and methodologies can be beneficial, as Kanban is often used within an agile context. This background helps in grasping Kanban principles more quickly.
@@ -54,7 +55,7 @@ delivery:
     7. **Discuss How Tooling Impacts Your Implementation**: Gain insights into the role of various tools and technologies in implementing Kanban and how they can influence the efficiency and success of your Kanban system.
 
      These learning outcomes equip participants with a holistic understanding of Kanban, from its core principles to practical application, ensuring they are well-prepared to implement and sustain effective Kanban practices in their organizations.
-  courseAssessmentIcon: PK-PK1@2x-1.png
+  assessmentIcon: PK-PK1@2x-1.png
   skilllevel: intermediate
   audience: |2-
 

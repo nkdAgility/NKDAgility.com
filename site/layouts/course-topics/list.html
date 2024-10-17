@@ -1,5 +1,9 @@
 {{ define "main" }}
+  <section class="container my-2">
+    {{ partial "page-sections/sections.html" . }}
+  </section>
   <section class="container my-5">
+    <h2>All Our {{ .Title }}</h2>
     <div class="row">
       {{ range $taxonomyName, $page := .Pages }}
         <div class="col-lg-4 col-sm-12 col-md-12 p-2">

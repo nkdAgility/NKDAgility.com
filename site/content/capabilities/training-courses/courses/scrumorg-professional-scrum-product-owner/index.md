@@ -27,7 +27,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: Being a professional Product Owner encompasses more than writing requirements or managing a Product Backlog. Product Owners need to have a concrete understanding of all product management aspects, including but not limited to product ownership, that drives value from their products.
   objectives: |2+
@@ -44,7 +45,7 @@ delivery:
     - Identify metrics that can be used to track value creation, and successful product delivery
     - Discover techniques to interact with stakeholders, customers, and the members of the Scrum Team
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSPO-I.png
+  assessmentIcon: Scrumorg-Assessment-PSPO-I.png
   skilllevel: intermediate
   audience: |-
     This course is appropriate for students in any industry where teams are working to solve complex problems. The Professional Scrum Product Owner course is for: 

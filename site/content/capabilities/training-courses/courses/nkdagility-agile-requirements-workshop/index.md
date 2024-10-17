@@ -32,11 +32,12 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: ""
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: intermediate
   audience: ""
   type: Kanban (ProKanban.org Certified)

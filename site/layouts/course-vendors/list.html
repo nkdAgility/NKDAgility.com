@@ -6,7 +6,7 @@
           {{ if eq .Type "course-vendors" }}
             TOPIC|{{ .Title }}
           {{ end }}
-          {{ if eq .Type "course3" }}
+          {{ if eq .Type "course" }}
             {{ partial "cards-course.html" (dict "context" .) }}
           {{ end }}
         </div>

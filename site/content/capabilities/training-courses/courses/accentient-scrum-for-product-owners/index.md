@@ -20,13 +20,14 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: |2
 
     This instructor-led class is intended to help *Product Owners* be more effective in their role. Through a combination of presentation, discussion, and hands-on activities, attendees will learn the responsibilities and preferred practices of being the member of the Scrum Team who drives the value.
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: beginner
   audience: |2
 

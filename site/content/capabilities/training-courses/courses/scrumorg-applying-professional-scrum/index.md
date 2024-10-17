@@ -40,7 +40,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: |+
     Attendees make the most of the class if they: 
     - Have studied the [Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/) (**required**)
@@ -59,7 +60,7 @@ delivery:
     - Students use a set of proven practices throughout the class that can be used to enhance their application of Scrum
     - Leave with tools that help Identify the first steps in applying Professional Scrum with your team
 
-  courseAssessmentIcon: Scrumorg-Assessment-PSM-I.png
+  assessmentIcon: Scrumorg-Assessment-PSM-I.png
   skilllevel: beginner
   audience: |-
     The [wpv-post-link] course is the perfect introduction, reboot or refresher to Scrum. It is excellent training for organizations, teams, and individuals wanting to experience the benefits of Scrum, or for those interested in continuing their learning with more advanced training. 

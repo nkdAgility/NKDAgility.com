@@ -13,7 +13,7 @@
       {{ if eq .Type "course" }}
         {{ $urlParts := split .Params.url "/" }}
         {{ $courseTopic := index $urlParts 3 }}
-        {{ $search := (printf "term/course-topics/%s" $courseTopic) }}
+        {{ $search := (printf "course-topics/%s" $courseTopic) }}
         |{{ $search }}|
         {{ $termPage := site.GetPage $search }}
         {{ $termPage }}
@@ -87,10 +87,14 @@
   }
 
   .breadcrumb-item:last-child {
-    display: none; /* Hide the last breadcrumb item */
+    /* display: none;  Hide the last breadcrumb item */
   }
 
   .breadcrumb-item:nth-last-child(2)::after {
+    /* content: none; Remove the arrow after the second-to-last item */
+  }
+
+  .breadcrumb-item:nth-last-child(1)::after {
     content: none; /* Remove the arrow after the second-to-last item */
   }
 

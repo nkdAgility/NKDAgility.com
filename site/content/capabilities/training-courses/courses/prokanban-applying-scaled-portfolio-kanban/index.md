@@ -18,7 +18,8 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: Discover the transformative 'Applying Scaled Portfolio Kanban' course, equipping you with the tools to positively influence your organization. From setting up transparent systems to managing portfolios effectively, gain actionable skills for real-world impact.
   objectives: |+
@@ -32,7 +33,7 @@ delivery:
     7. Validate the organization's effectiveness in delivering the right outcomes.
     8. Obtain the "Scaled Portfolio Kanban" (SPK) certification through assessment.
 
-  courseAssessmentIcon: SPK@1x1.png
+  assessmentIcon: SPK@1x1.png
   skilllevel: intermediate
   audience: Professionals in leadership and project management roles, including Heads of Departments, Agile Coaches, Project Managers, Development Leaders, Product Owners, Scrum Masters, and Product Managers, seeking to enhance their organization's efficiency, effectiveness, and predictability through the application of Scaled Portfolio Kanban principles.
   type: Unknown

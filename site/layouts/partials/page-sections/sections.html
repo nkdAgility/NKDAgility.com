@@ -1,4 +1,6 @@
 {{ $site := .Site }}
+{{ $Resources := .Resources }}
+{{ $page := . }}
 {{ if .Params.sections }}
   {{ range $index, $section := .Params.sections }}
     <!-- Title and Content (always shown) -->
@@ -11,7 +13,7 @@
         <!-- Conditional rendering based on section type -->
         {{ if eq $section.type "features" }}
           <!-- Render features -->
-          {{ partial "page-sections/sections-features.html" . }}
+          {{ partial "page-sections/sections-features.html" (dict "Page" $page "context" . ) }}
         {{ else if eq $section.type "courses" }}
           {{ partial "page-sections/sections-courses.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "audiences" }}

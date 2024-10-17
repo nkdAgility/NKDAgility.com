@@ -20,13 +20,14 @@ card:
     content: ""
   title: ""
   content: ""
-delivery:
+offering:
+  offeringType: training-course
   prerequisites: ""
   lead: |2
 
     *What is Scrum? Why should I care?* and *What will be expected of me to properly adopt Scrum?* Through presentation and discussion, attendees will learn the answers to these questions.
   objectives: ""
-  courseAssessmentIcon: ""
+  assessmentIcon: ""
   skilllevel: beginner
   audience: |2
 
