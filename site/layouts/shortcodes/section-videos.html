@@ -1,0 +1,58 @@
+{{ $cleanedString := .Inner | replaceRE "(?s).*```(.*)```.*" "$1" }}
+{{ $data :=  transform.Unmarshal (trim $cleanedString "`") }}
+<section class="container my-5">
+  <div class="row">
+    {{ if and (not (eq $data.items nil)) (gt (len $data.items) 0) }}
+      {{ range $index, $videos := $data.items }}
+        <div class="col-lg-6 col-sm-12 col-md-12 p-2">
+          <!-- e -->
+          {{ $videoItem := $.Page.Site.GetPage $videos }}
+          {{ if $videoItem }}
+            <div class="p-4 bg-white">
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/{{ $videoItem.Params.videoId }}"
+                title="{{ $videoItem.Params.title }}"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen></iframe>
+            </div>
+          {{ else }}
+            <p>Video `{{ $videos }}` not found.</p>
+          {{ end }}
+        </div>
+      {{ end }}
+    {{ else }}
+      <div class="row">
+        <div class="col-lg-6 col-sm-12 col-md-12 p-2">
+          <div class="p-4 bg-white">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/yCyjGBNaRqI"
+              title="NKD Agility Mission and Purpose"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+        <div class="col-lg-6 col-sm-12 col-md-12 p-2">
+          <div class="p-4 bg-white">
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/BJZdyEqHhXc"
+              title=""
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</section>

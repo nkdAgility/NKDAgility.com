@@ -1,9 +1,9 @@
 <!-- -->
-{{ $section := .Site.GetPage "section" "company/customers" }}<!-- -->
+{{ $customers := where .Site.RegularPages "Type" "customers" }}<!-- -->
 <div class="container p-5 text-center">
   <h4>Trusted by companies like</h3>
   <div class="row">
-    {{ range first 18  ( shuffle $section.Pages) }}
+    {{ range first 18 ( shuffle $customers) }}
     <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex">
       <div class="card flex-fill m-1 justify-content-center align-items-center" title="">
         <div class="card-body justify-content-center align-items-center">

@@ -74,6 +74,18 @@ sections:
     source: data
 ---
 
+{{< section-videos >}}
+
+```YAML
+items:
+- resources/videos/youtube/isU2kPc5HFw
+- resources/videos/youtube/_rJoehoYIVA
+- resources/videos/youtube/Wvdh1lJfcLM
+- resources/videos/youtube/3jYFD-6_kZk
+```
+
+{{< /section-videos >}}
+
 naked Agility is the creator and principal contributor of the [Azure DevOps Migration Tools.](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration)
 
 ## Consulting & Coaching for Azure DevOps Migration Tools
