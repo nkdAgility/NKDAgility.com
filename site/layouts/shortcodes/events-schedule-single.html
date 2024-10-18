@@ -1,0 +1,44 @@
+<section class="container my-5">
+  <hr />
+  <h2>Upcoming Dates</h2>
+  <div class="row">
+    {{ if and (not (eq .Page.Params.events nil)) (gt (len .Page.Params.events) 0) }}
+      {{ range $index, $card := .Page.Params.events }}
+        <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+          <!-- Card -->
+          <div class="card flex-fill shadow mb-2 flex-fill" style="font-size: 0.8rem;">
+            <div class="card-body p-2">
+              <div class="row">
+                <div class="col-12">
+                  <a class="text-nowrap" href="{{ $.Page.Permalink }}" title="{{ $.Page.Title }}"><i class="fa-thin fa-calendar-days"></i> {{ .start_date }} <i class="fa-light fa-clock"></i> </a>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-6">
+                  <span class="badge text-bg-warning" title="There are no longer any seats available.">SOLD OUT</span>
+                  <span class="badge text-bg-success" title="There are seats available">SEATS</span>
+                  <span class="badge rounded-pill bg-secondary">learning experiance</span>
+                </div>
+                <div class="col-6">
+                  <div class="btn-group float-end" role="group" aria-label="Basic example">
+                    <a class="btn btn-sm btn-outline-secondary text-nowrap" href="" title="Course Details - Overview of the course"><i class="fa-solid fa-file"></i></a>
+                    <a class="btn btn-sm btn-outline-danger text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"><i class="fa-solid fa-ticket"></i> Book</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- Card END -->
+        </div>
+      {{ end }}
+    {{ else }}
+      <div class="col-12 p-2">
+        We dont have any dates for public events for {{ .Page.Title }} right now. <a href="/subscribe-newsletter/">Sign-up to be the first to know</a>, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.
+      </div>
+    {{ end }}
+    <div class="col-12 p-2">
+      <p>If we dont have dates that suit you then please <a href="/subscribe-newsletter/">sign-up to be the first</a> to know, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.</p>
+    </div>
+  </div>
+  <hr />
+</section>

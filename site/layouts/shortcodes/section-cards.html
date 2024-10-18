@@ -1,0 +1,15 @@
+{{ $data := transform.Unmarshal .Inner }}
+<section class="container my-5">
+  <div class="row">
+    {{ if and (not (eq $data nil)) (gt (len $data) 0) }}
+      {{ range $index, $card := $data }}
+        <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+          <!-- e -->
+          {{ partial "card.html" (dict "class" "sectioncards" "title" $card.title "content" $card.content "buttonContent" $card.button.content "permalink" $card.button.link ) }}
+        </div>
+      {{ end }}
+    {{ else }}
+      <div class="col-12 p-2">No cards</div>
+    {{ end }}
+  </div>
+</section>
