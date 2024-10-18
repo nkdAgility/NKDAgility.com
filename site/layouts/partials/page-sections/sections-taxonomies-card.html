@@ -21,8 +21,15 @@
     <ul class="list-group list-group-flush">
       {{ range $item := first 5 (.context.Pages.ByWeight) }}
         <li class="list-group-item d-flex align-items-center">
-          {{ if $item.Params.delivery.courseIcon }}
-            {{ $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.delivery.courseIcon) }}
+          {{ if $item.Params.previewIcon }}
+            {{ $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.previewIcon) }}
+            {{ if $courseIcon }}
+              {{ $resized := $courseIcon.Fit "25x25 webp" }}
+              <img class="shadowfilter me-2" src="{{ $resized.RelPermalink }}" alt="{{ $item.Params.Title }}" />
+            {{ end }}
+          {{ end }}
+          {{ if $item.Params.offering.courseIcon }}
+            {{ $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.offering.courseIcon) }}
             {{ if $courseIcon }}
               {{ $resized := $courseIcon.Fit "25x25 webp" }}
               <img class="shadowfilter me-2" src="{{ $resized.RelPermalink }}" alt="{{ $item.Params.Title }}" />

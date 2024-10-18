@@ -5,7 +5,7 @@
   <div class="row">
     {{ range first 18 ( shuffle $customers) }}
     <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex">
-      <div class="card flex-fill m-1 justify-content-center align-items-center" title="">
+      <div class="card flex-fill m-1 justify-content-center align-items-center" title="{{.Title}}">
         <div class="card-body justify-content-center align-items-center">
           {{ if .Params.preview }} {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }} {{ if $image }}
           {{ $resized := $image.Fit "150x50 webp" }}
