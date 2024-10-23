@@ -113,16 +113,16 @@ syllabus:
     overview: "Post course catchup and questions"
     details:
 events:
-  - start_date: "2025-10-23"
+  - start_date: "2025-01-23"
     location: "Virtual"
     registration_link: ""
     sessions:
-      - start_datetime: 2025-10-01T09:00:00
+      - start_datetime: 2025-01-23T09:00:00
         end_datetime: 2025-10-23T17:00:00
         timezone: America/Los_Angeles
         syllabus_ids: [1, 2, 3, 4]
-      - start_datetime: 2025-10-02T09:00:00
-        end_datetime: 2025-10-02T17:00:00
+      - start_datetime: 2025-01-24T09:00:00
+        end_datetime: 2025-01-02T17:00:00
         timezone: America/Los_Angeles
         syllabus_ids: [5, 6, 7]
 ---
