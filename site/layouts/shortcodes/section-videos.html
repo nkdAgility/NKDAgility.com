@@ -1,4 +1,4 @@
-{{ $cleanedString := .Inner | replaceRE "(?s).*```(.*)```.*" "$1" }}
+{{ $cleanedString := .Inner | replaceRE "(?s).*```YAML(.*)```.*" "$1" }}
 {{ $data :=  transform.Unmarshal (trim $cleanedString "`") }}
 <section class="container my-5">
   <div class="row">

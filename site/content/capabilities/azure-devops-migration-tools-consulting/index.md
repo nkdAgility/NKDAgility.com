@@ -78,10 +78,10 @@ sections:
 
 ```YAML
 items:
-- resources/videos/youtube/isU2kPc5HFw
-- resources/videos/youtube/_rJoehoYIVA
-- resources/videos/youtube/Wvdh1lJfcLM
-- resources/videos/youtube/3jYFD-6_kZk
+  - resources/videos/youtube/isU2kPc5HFw
+  - resources/videos/youtube/_rJoehoYIVA
+  - resources/videos/youtube/Wvdh1lJfcLM
+  - resources/videos/youtube/3jYFD-6_kZk
 ```
 
 {{< /section-videos >}}
