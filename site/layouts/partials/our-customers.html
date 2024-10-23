@@ -1,21 +1,25 @@
-<!-- -->
-{{ $customers := where .Site.RegularPages "Type" "customers" }}<!-- -->
 <div class="container p-5 text-center">
-  <h4>Trusted by companies like</h3>
+  {{ $customers := where .Site.RegularPages "Type" "customers" }}<!-- -->
+  <h4>Trusted by companies like</h4>
   <div class="row">
     {{ range first 18 ( shuffle $customers) }}
-    <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex">
-      <div class="card flex-fill m-1 justify-content-center align-items-center" title="{{.Title}}">
-        <div class="card-body justify-content-center align-items-center">
-          {{ if .Params.preview }} {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }} {{ if $image }}
-          {{ $resized := $image.Fit "150x50 webp" }}
-          <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
-          {{ else }} ??? {{ end }} {{ else }}
-          <p class="fs-6 align-items-center">{{.Title}}</p>
-          {{ end}}
+      <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex">
+        <div class="card flex-fill m-1 justify-content-center align-items-center" title="{{ .Title }}">
+          <div class="card-body justify-content-center align-items-center">
+            {{ if .Params.preview }}
+              {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
+              {{ if $image }}
+                {{ $resized := $image.Fit "150x50 webp" }}
+                <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+              {{ else }}
+                ???
+              {{ end }}
+            {{ else }}
+              <p class="fs-6 align-items-center">{{ .Title }}</p>
+            {{ end }}
+          </div>
         </div>
       </div>
-    </div>
     {{ end }}
   </div>
 </div>
