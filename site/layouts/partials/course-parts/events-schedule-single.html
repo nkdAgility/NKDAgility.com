@@ -5,23 +5,48 @@
     {{/* Define the number of months for future events */}}
     {{ $numMonths := 5 }}
     {{ $fakeEvents := slice }}
-    {{ if gt $numMonths 0 }}
-      {{/* Generate dynamic events starting from the current month */}}
-      {{ range seq 0 (sub $numMonths 1) }}
-        {{ $startDate := now.AddDate 0 0 1 | time.Format "2006-01-07" }}
-        {{ $event := dict "start_date" $startDate "location" "Virtual" "registration_link" "" "sessions" (slice
+
+    {{/* Collect months that already have real events */}}
+    {{ $existingMonths := slice }}
+    {{ if .Page.Params.events }}
+      {{ range .Page.Params.events }}
+        {{ $month := .start_date | time.Format "2006-01" }}
+        {{ $existingMonths = $existingMonths | append $month }}
+      {{ end }}
+    {{ end }}
+
+    {{/* Generate dynamic events starting from the current month */}}
+    {{ $generatedCount := 0 }}
+    {{ range seq 0 12 }}
+      <!-- Limit range to avoid infinite loop -->
+      {{ if eq (int $generatedCount) $numMonths }}
+        {{ break }}
+      {{ end }}
+
+      {{ $startDate := now.AddDate 0 (int .) 0 | time.Format "2006-01-02" }}
+      {{ $monthKey := now.AddDate 0 (int .) 0 | time.Format "2006-01" }}
+
+      {{/* Check if this month already has a real event */}}
+      {{ if not (in $existingMonths $monthKey) }}
+        {{/* Create a new fake event for this month */}}
+        {{ $event := dict "start_date" $startDate "location" "Virtual" "type" "preorder" "registration_link" "" "sessions" (slice
           (dict "start_datetime" (printf "%sT09:00:00" $startDate) "end_datetime" (printf "%sT17:00:00" $startDate) "timezone" "Europe/London" "syllabus_ids" (slice 1 2 3))
-          (dict "start_datetime" (printf "%sT09:00:00" (now.AddDate 0 0 1 | time.Format "2006-01-08")) "end_datetime" (printf "%sT17:00:00" (now.AddDate 0 0 1 | time.Format "2006-01-08")) "timezone" "Europe/London" "syllabus_ids" (slice 4 5 6))
+          (dict "start_datetime" (printf "%sT09:00:00" (now.AddDate 0 (int .) 1 | time.Format "2006-01-08")) "end_datetime" (printf "%sT17:00:00" (now.AddDate 0 (int .) 1 | time.Format "2006-01-08")) "timezone" "Europe/London" "syllabus_ids" (slice 4 5 6))
           )
         }}
         {{ $fakeEvents = $fakeEvents | append $event }}
+        {{ $generatedCount = add (int $generatedCount) 1 }}
       {{ end }}
     {{ end }}
-    {{/* Merge with existing events or use only fake events if none exist */}}
+
+    {{/* Combine existing events with the fake events */}}
     {{ $allEvents := $fakeEvents }}
     {{ if .Page.Params.events }}
       {{ $allEvents = $allEvents | append .Page.Params.events }}
     {{ end }}
+
+    {{/* Sort events by start_date in descending order (latest first) */}}
+    {{ $allEvents = sort $allEvents "start_date" "asc" }}
 
     {{ if gt (len $allEvents) 0 }}
       {{ range $index, $card := $allEvents }}
@@ -42,10 +67,15 @@
                 </div>
                 <div class="col-6">
                   <div class="btn-group float-end" role="group" aria-label="Basic example">
-                    <a class="btn btn-sm btn-outline-secondary text-nowrap" href="" title="Course Details - Overview of the course">
+                    {{/* <a class="btn btn-sm btn-outline-secondary text-nowrap" href="" title="Course Details - Overview of the course">
                       <i class="fa-solid fa-file"></i>
-                    </a>
-                    <a class="btn btn-sm btn-outline-danger text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"> <i class="fa-solid fa-ticket"></i> Book </a>
+                      </a>
+                    */}}
+                    {{ if eq .type "preorder" }}
+                      <a class="btn btn-sm btn-outline-danger text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"> <i class="fa-solid fa-ticket"></i> Preorder </a>
+                    {{ else }}
+                      <a class="btn btn-sm btn-outline-success text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"> <i class="fa-solid fa-ticket"></i> Book </a>
+                    {{ end }}
                   </div>
                 </div>
               </div>
