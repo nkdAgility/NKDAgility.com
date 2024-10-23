@@ -6,7 +6,7 @@
     {{ range $section.Pages }}
       {{ if not .Draft }}
         {{ if ne .Permalink $PagePermalink }}
-          <div class="col-12 col-sm-6 col-lg-4 d-flex d-flex">
+          <div class="col-12 col-sm-6 col-lg-4 d-flex">
             <!-- prettier-ignore -->
             {{ partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
           </div>

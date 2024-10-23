@@ -1,5 +1,7 @@
 ---
 title: Professional Scrum Master (PSM) Course with Certification
+shortTitle: Professional Scrum Master
+weight: 100
 date: 2017-01-01
 creator: Martin Hinshelwood
 id: "10049"
@@ -47,7 +49,7 @@ objectives: |
   - Act as Scrum Masters for Scrum Teams and stakeholders from an in-depth understanding of servant-leadership
   - Effectively start using Scrum
   - Increase the effectiveness of Scrum underway
-previewIcon: PSM-400x.png
+previewIcon: Scrumorg-Course-PSM 400x.png
 brandColour: "#3a7c9a"
 prerequisites: |+
   Attendees make the most of the class if they: 

@@ -6,7 +6,7 @@
     {{ if eq $taxonomyName $context.source }}
       <!-- Do something specific for tags -->
       {{ range $terms.ByCount }}
-        <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+        <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
           {{ partial "page-sections/sections-taxonomies-card.html" (dict "site" $site "context" .) }}
         </div>
       {{ end }}

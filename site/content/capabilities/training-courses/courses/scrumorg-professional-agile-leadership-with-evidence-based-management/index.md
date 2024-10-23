@@ -1,5 +1,5 @@
 ---
-title: Professional Agile Leadership - Evidence-Based Management (PAL-EBM) Course with Certification
+title: "Professional Agile Leadership - Evidence-Based Management (PAL-EBM)"
 date: 2021-07-21
 creator: Martin Hinshelwood
 id: "46220"
@@ -7,6 +7,8 @@ type: course
 slug: professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
+  - /ebm
+  - /pal-ebm
   - /training-courses/professional-agile-leadership-with-evidence-based-management-training-with-certification
   - /training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-training-experience-with-certification
   - /training-courses/professional-scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/
@@ -22,6 +24,7 @@ categories:
   - agility
   - measure-and-learn
 preview: naked-agility-Professional-Scrum-PALEBM-1600x900-1.jpg
+shortTitle: "Evidence-Based Management"
 card:
   button:
     content: ""

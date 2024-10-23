@@ -1,5 +1,7 @@
 ---
 title: Professional Scrum Product Owner (PSPO) Course with Certification
+shortTitle: Professional Scrum Product Owner
+weight: 50
 date: 2019-11-07
 creator: Martin Hinshelwood
 id: "41711"
@@ -23,64 +25,90 @@ categories:
   - agility
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
-  button:
-    content: ""
-  title: ""
-  content: ""
-offering:
-  offeringType: training-course
-  prerequisites: ""
-  lead: Being a professional Product Owner encompasses more than writing requirements or managing a Product Backlog. Product Owners need to have a concrete understanding of all product management aspects, including but not limited to product ownership, that drives value from their products.
-  objectives: |2+
-
-    - Increase business agility through the proper execution of the Product Owner role
-    - Recognize the value of a *product over a project* mindset
-    - Learn how to bridge business strategy to product execution using Scrum
-    - Understand that the Product Owner is an Agile Product Manager
-    - Understand the Scrum Principles and Empiricism
-    - Understand the Product Owner accountabilities on the Scrum Team
-    - Learn how to align the team around the business strategy, product vision, Product Goal, and Sprint Goal
-    - Find ways to effectively communicate the business strategy, product vision, and Product Goal
-    - Learn techniques for Product Backlog Management, Release Management, and Forecasting
-    - Identify metrics that can be used to track value creation, and successful product delivery
-    - Discover techniques to interact with stakeholders, customers, and the members of the Scrum Team
-
-  assessmentIcon: Scrumorg-Assessment-PSPO-I.png
-  skilllevel: intermediate
-  audience: |-
-    This course is appropriate for students in any industry where teams are working to solve complex problems. The Professional Scrum Product Owner course is for: 
-    - Professionals interested in starting a career as a Product Owner
-    - Product Owners with some experience in the role that are looking to improve their understanding or fix their misconceptions of Scrum and the Product Owner role
-    - Scrum Masters wishing to be an effective coach to Product Owners will also find valuable insights in this course
-
-     While this course covers an introduction to the Scrum framework, it’s primarily from the perspective of the Product Owner. Therefore, it’s best if the students come to the course with an understanding of the fundamentals of Scrum, ideally as demonstrated by passing the Scrum Open.
-  type: Scrum
-  details: |2-
-
-    ### What Professional Scrum Product Owner Students Say
-
-    <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;schemaType=Organization&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Apspo&amp;theme=light" data-mce-fragment="1"></iframe>
-    [Read more](https://www.scrum.org/scrumorg-professional-scrum-product-owner-training-student-reviews-and-feedback "Scrum.org Professional Scrum Master Training Student Reviews and Feedback") about our PSPO student surveys and their feedback
-  topics: |2+
-
-    - Agile Product Management
-    - Value-Driven Development
-    - Scrum Principles & Empiricism
-    - The Scrum Framework
-    - Product Backlog Management
-    - Release Management
-
-  format: ""
-  duration: 16
-  certification: |-
-    All participants completing the Professional Scrum Product Owner course receive a password to take the Professional Scrum Product Owner I (PSPO I) assessment. The industry-recognized PSPO I certification requires a minimum passing score of 85%. PSPO class participants who attempt the PSPO I assessment within 14 days of receiving their free password and do not score at least 85% will be granted a second attempt at no additional cost. You are also entitled to a discount on the PSPO II assessment once passing PSPO I. 
-    #### PMI PDU Credits
-     Students of Scrum.org courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Professional Scrum Master (PSPO) course. Please note that PMI PDUs are earned for course attendance and not for passing a Scrum.org assessment. Students can claim PDUs under PMI's "Education courses provided by other third-party providers” category. You can claim your PDUs online at https://ccrs.pmi.org.  Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
-  brand:
-    vendor: scrum-org
-    colour: "#749335"
-  code: PSPO
-  courseIcon: PSPO-400x.png
+  title: "Professional Scrum Product Owner"
+  content: "Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum."
+code: PSPO
+level: intermediate
+assessment:
+  icon: Scrumorg-Assessment-PSPO-I.png
+  content: |
+    Upon completion of the Professional Scrum Product Owner course, participants receive a password to attempt the [Professional Scrum Product Owner I (PSPO I) assessment](https://www.scrum.org/Assessments/Professional-Scrum-Product-Owner-Assessments). Achieving a minimum passing score of 85% qualifies for PSPO I certification. Participants who fail the first attempt within 14 days can retake the assessment at no additional cost. We also offer a discount on the PSPO II assessment for those who pass PSPO I. PMI PDUs can be claimed under the "Education courses provided by other third-party providers" category. Visit https://ccrs.pmi.org to register your PDUs.
+objectives: |
+  - Increase business agility through proper execution of the Product Owner role.
+  - Adopt a product mindset over a traditional project-based approach.
+  - Bridge business strategy to product execution using Scrum.
+  - Understand the Product Owner as an Agile Product Manager.
+  - Master the core principles of Scrum and Empiricism.
+  - Define and execute the Product Owner accountabilities within the Scrum Team.
+  - Align teams around the business strategy, product vision, and goals.
+  - Communicate the business strategy, product vision, and goals effectively.
+  - Manage Product Backlog, release management, and forecasting.
+  - Track value creation with meaningful metrics.
+  - Engage stakeholders, customers, and team members effectively.
+previewIcon: PSPO-400x.png
+brandColour: "#749335"
+prerequisites: |+
+  Participants will benefit most from the course if they:
+  - Have studied the [Scrum Guide](https://www.scrumguides.org/).
+  - Passed the [Scrum Open assessment](https://www.scrum.org/Assessments/Open-Assessments/Scrum-Open-Assessment).
+  - Have some experience as a Product Owner or Scrum Team member.
+  - Familiarity with Agile and Scrum basics is recommended.
+audience:
+  overview: The Professional Scrum Product Owner course is suitable for professionals across various industries looking to refine their Product Ownership skills, including Product Owners, Scrum Masters, managers, and those seeking a deeper understanding of Agile Product Management.
+  personas:
+    - capabilities/training-courses/audiences/product-owners.md
+trainers:
+  - /company/people/martin-hinshelwood/
+syllabus:
+  - id: 1
+    title: "Introduction to Agile Product Management"
+    duration: 90
+    overview: "Understanding the importance of a product-centric approach in Agile environments."
+    assignement: "Product vs Project Mindset"
+    details:
+  - id: 2
+    title: "Scrum Framework Essentials"
+    duration: 120
+    overview: "Dive deep into the principles of Scrum and Empiricism, focusing on the Product Owner role."
+    assignement: "Scrum Roles & Accountabilities"
+    details:
+  - id: 3
+    title: "Product Backlog Management"
+    duration: 90
+    overview: "Learn techniques for managing the Product Backlog, including prioritization and stakeholder engagement."
+    assignement: "Effective Backlog Refinement"
+    details:
+  - id: 4
+    title: "Release Planning & Forecasting"
+    duration: 60
+    overview: "Approaches to release management, estimation, and forecasting in Agile projects."
+    assignement: "Release Planning Exercise"
+    details:
+  - id: 5
+    title: "Metrics & Value Delivery"
+    duration: 60
+    overview: "Identify and use metrics to measure success and track value creation."
+    assignement: "Value-driven Metrics Workshop"
+    details:
+  - id: 6
+    title: "Closing & Certification Preparation"
+    duration: 30
+    overview: "Wrap up and final preparation for the PSPO I assessment."
+    assignement: "PSPO I Assessment Simulation"
+    details:
+events:
+  - start_date: "2025-11-07"
+    location: "Virtual"
+    registration_link: ""
+    sessions:
+      - start_datetime: 2025-11-07T09:00:00
+        end_datetime: 2025-11-07T17:00:00
+        timezone: Europe/London
+        syllabus_ids: [1, 2, 3]
+      - start_datetime: 2025-11-08T09:00:00
+        end_datetime: 2025-11-08T17:00:00
+        timezone: Europe/London
+        syllabus_ids: [4, 5, 6]
 ---
 
 Welcome to the Professional Scrum Product Owner (PSPO) course. This transformative learning journey is designed specifically for Product Owners, Leaders, Entrepreneurs, and Managers eager to deeply understand and incorporate Scrum values and principles into their work. The course offers practical case studies and engaging exercises to ensure a hands-on learning experience.
