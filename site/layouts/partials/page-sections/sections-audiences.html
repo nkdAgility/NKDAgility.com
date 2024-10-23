@@ -3,7 +3,7 @@
 <!-- Courses specific rendering -->
 <div class="row">
   {{ range where $site.RegularPages "Type" "audience" }}
-    <div class="col-lg-4 col-sm-12 col-md-12 p-2">
+    <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
       {{ partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .RelPermalink ) }}
     </div>
   {{ end }}

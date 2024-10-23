@@ -14,9 +14,7 @@
         {{ $urlParts := split .Params.url "/" }}
         {{ $courseTopic := index $urlParts 3 }}
         {{ $search := (printf "course-topics/%s" $courseTopic) }}
-        |{{ $search }}|
         {{ $termPage := site.GetPage $search }}
-        {{ $termPage }}
         {{ if $termPage }}
           <!-- Add the term page to the breadcrumbs -->
           {{ $breadcrumbs = $breadcrumbs | append $termPage }}
@@ -55,10 +53,16 @@
 
     <!-- Output breadcrumb trail -->
     {{ range $index, $page := $breadcrumbs }}
-      <li class="breadcrumb-item">
+      <li class="breadcrumb-item" title="{{ $page.Title }}">
         {{ if eq $index (sub (len $breadcrumbs) 1) }}
           <!-- Current page (no link) -->
-          <span class="active">{{ $page.Title }}</span>
+          <span class="active">
+            {{ if $page.Params.code }}
+              {{ $page.Params.code }}
+            {{ else }}
+              {{ $page.Title }}
+            {{ end }}
+          </span>
         {{ else }}
           <!-- Linked breadcrumb items -->
           <a href="{{ $page.Permalink }}">{{ $page.Title }}</a>

@@ -1,5 +1,6 @@
 ---
 title: Professional Product Discovery and Validation Skills (PPDV)
+shortTitle: Product Discovery and Validation
 date: 2024-07-11
 creator: Martin Hinshelwood
 id: "51412"

@@ -1,7 +1,9 @@
 ---
 title: Professional Scrum Master and Product Owner (PSMPO) with Certification
+shortTitle: Scrum Master & Product Owner
 date: 2021-04-06
 creator: Martin Hinshelwood
+weight: 0
 id: "46100"
 type: course
 slug: professional-scrum-master-and-product-owner-psmp-with-certification

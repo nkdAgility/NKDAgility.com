@@ -1,5 +1,7 @@
 ---
 title: Professional Scrum Master (PSM) Course with Certification
+shortTitle: Professional Scrum Master
+weight: 100
 date: 2017-01-01
 creator: Martin Hinshelwood
 id: "10049"
@@ -30,8 +32,6 @@ categories:
   - people-and-process
 preview: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
 card:
-  button:
-    content: ""
   title: "Professional Scrum Master"
   content: "Our Professional Scrum Master Training Program contains the Professional Scrum Master Training (PSM) from Scrum.org and is composed of 16h live with an instructor and additional offline exercises and materials that covers the principles and theory of the Scrum framework and the Scrum Master role."
 code: PSM
@@ -49,7 +49,7 @@ objectives: |
   - Act as Scrum Masters for Scrum Teams and stakeholders from an in-depth understanding of servant-leadership
   - Effectively start using Scrum
   - Increase the effectiveness of Scrum underway
-previewIcon: PSM-400x.png
+previewIcon: Scrumorg-Course-PSM 400x.png
 brandColour: "#3a7c9a"
 prerequisites: |+
   Attendees make the most of the class if they: 
@@ -62,6 +62,8 @@ audience:
   overview: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
   personas:
     - capabilities/training-courses/audiences/lean-agile-practitioners.md
+trainers:
+  - /company/people/martin-hinshelwood/
 syllabus:
   - id: 1
     title: "Theory & First Principles"
@@ -105,7 +107,29 @@ syllabus:
     overview: "Wrapup and final questions"
     assignement: "Take the PSM I assessment."
     details:
+  - id: 8
+    title: "Catchup"
+    duration: 120
+    overview: "Post course catchup and questions"
+    details:
+events:
+  - start_date: "2025-01-23"
+    location: "Virtual"
+    registration_link: ""
+    sessions:
+      - start_datetime: 2025-01-23T09:00:00
+        end_datetime: 2025-10-23T17:00:00
+        timezone: America/Los_Angeles
+        syllabus_ids: [1, 2, 3, 4]
+      - start_datetime: 2025-01-24T09:00:00
+        end_datetime: 2025-01-02T17:00:00
+        timezone: America/Los_Angeles
+        syllabus_ids: [5, 6, 7]
 ---
+
+{{< events-schedule-single >}}
+
+{{< syllabus-single >}}
 
 Welcome to the Professional Scrum Master (PSM) course. This transformative learning journey is designed specifically for Agile Leaders, Product Owners, and Managers eager to understand and incorporate Scrum values and principles into their leadership repertoire.
 
