@@ -64,6 +64,11 @@ audience:
     - capabilities/training-courses/audiences/lean-agile-practitioners.md
 trainers:
   - /company/people/martin-hinshelwood/
+roadmap:
+  next:
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master-ii-psm-ii-with-certification/
+  previous:
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-foundations/
 syllabus:
   - id: 1
     title: "Theory & First Principles"
