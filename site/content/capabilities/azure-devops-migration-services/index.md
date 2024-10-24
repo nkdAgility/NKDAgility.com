@@ -8,6 +8,7 @@ layout: capabilities
 slug: azure-devops-migration-tools-consulting
 aliases:
   - /capabilities/azure-devops-migration-tools-consulting/
+  - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
 card:
   button:
     content: <p>Migrate your data</p>

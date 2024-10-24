@@ -416,7 +416,7 @@ $outcomesDir = "site\content\outcomes"
 
 
 # # Run each update function sequentially for both directories
-Update-MarkdownWithCourseData -baseDirectory $courseDirectory
+# Update-MarkdownWithCourseData -baseDirectory $courseDirectory
 #Update-MarkdownWithCard -baseDirectory $courseDirectory
 #Update-OldSlugsAsAliases -baseDirectory $courseDirectory
 
