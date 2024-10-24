@@ -19,40 +19,23 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         $oldYaml = $oldFrontMatter -replace '^---\s*\n', '' -replace '\n---$', ''
         $frontmatterData = ConvertFrom-Yaml $oldYaml -Ordered
 
-        # Step 1: Add new fields if they do not exist in the source data
-        if (-not $frontmatterData['card']) {
-            $frontmatterData['card'] = @{
-                title   = "Course Title"
-                content = "Course introduction content."
+        # Desired key order
+        $orderedKeys = @('title', 'date', 'creator', 'id', 'type', 'slug', 'url', 'aliases', 'course-topics', 'course-vendors', 'tags', 'categories', 'preview', 'previewIcon', 'brandColour', 'card', 'code', 'level', 'assessment', 'objectives', 'prerequisites', 'audience', 'trainers', 'roadmap', 'syllabus', 'events')
+
+        # Loop through desired keys and insert missing keys at the appropriate position
+        $previousIndex = -1
+        foreach ($key in $orderedKeys) {
+            if (-not $frontmatterData.Contains($key)) {
+                $insertIndex = if ($previousIndex -eq -1) { 0 } else { $previousIndex + 1 }
+                $frontmatterData.Insert($insertIndex, $key, $null)
             }
+            $previousIndex = $frontmatterData.Keys.IndexOf($key)
         }
-        if (-not $frontmatterData['code']) { $frontmatterData['code'] = $null }
-        if (-not $frontmatterData['level']) { $frontmatterData['level'] = $null }
-        if (-not $frontmatterData['assessment']) {
-            $frontmatterData['assessment'] = @{
-                icon    = "Scrumorg-Assessment-PSPO-I.png"
-                content = "Certification content."
-            }
-        }
-        if (-not $frontmatterData['introduction']) { $frontmatterData['introduction'] = $null }
-        if (-not $frontmatterData['overview']) { $frontmatterData['overview'] = $null }
-        if (-not $frontmatterData['outcomes']) { $frontmatterData['outcomes'] = $null }
-        if (-not $frontmatterData['objectives']) { $frontmatterData['objectives'] = $null }
-        if (-not $frontmatterData['previewIcon']) { $frontmatterData['previewIcon'] = $null }
-        if (-not $frontmatterData['brandColour']) { $frontmatterData['brandColour'] = $null }
-        if (-not $frontmatterData['prerequisites']) { $frontmatterData['prerequisites'] = $null }
-        if (-not $frontmatterData['audience']) {
-            $frontmatterData['audience'] = @{
-                overview = $null
-                personas = @("capabilities/training-courses/audiences/product-owners.md")
-            }
-        }
-        if (-not $frontmatterData['trainers']) { $frontmatterData['trainers'] = @("/company/people/martin-hinshelwood/") }
 
         # Step 2: Update new data with information from "offering" if available
         $offering = $frontmatterData.offering
         if ($offering) {
-            if ($offering.type) { $frontmatterData.card.title = $offering.type }
+            if ($offering.type) { $frontmatterData.card.title = $frontmatterData.Title }
             if ($offering.lead) { $frontmatterData.card.content = $offering.lead }
             if ($offering.code) { $frontmatterData.code = $offering.code }
             if ($offering.skilllevel) { $frontmatterData.level = $offering.skilllevel }
