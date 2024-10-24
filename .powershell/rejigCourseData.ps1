@@ -1,6 +1,8 @@
 # Define the directory containing the courses
 Import-Module PowerShell-Yaml
 
+Import-Module PowerShell-Yaml
+
 $courseDir = "site\content\capabilities\training-courses\courses"
 
 # Loop through each course's index.md file
@@ -20,6 +22,24 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         $frontmatterData = ConvertFrom-Yaml $oldYaml
 
         # Step 1: Add new fields if they do not exist in the source data
+
+        # Convert the front matter data to an ordered hashtable
+        $frontmatterData = [ordered]@{
+            card          = $frontmatterData.card
+            code          = $frontmatterData.code
+            level         = $frontmatterData.level
+            assessment    = $frontmatterData.assessment
+            introduction  = $frontmatterData.introduction
+            overview      = $frontmatterData.overview
+            outcomes      = $frontmatterData.outcomes
+            objectives    = $frontmatterData.objectives
+            previewIcon   = $frontmatterData.previewIcon
+            brandColour   = $frontmatterData.brandColour
+            prerequisites = $frontmatterData.prerequisites
+            audience      = $frontmatterData.audience
+            trainers      = $frontmatterData.trainers
+        }
+
         if (-not $frontmatterData.ContainsKey('card')) {
             $frontmatterData.card = @{
                 title   = "Course Title"
@@ -67,7 +87,7 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         }
 
         # Convert merged data back to YAML
-        $newYaml = ConvertTo-Yaml $frontmatterData
+        $newYaml = ConvertTo-Yaml -Force $frontmatterData
 
         # Write the updated content back to the file
         $updatedContent = "---`n$newYaml`n---`n$bodyContent"
