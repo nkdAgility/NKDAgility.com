@@ -1,73 +1,96 @@
-# Load the required module to handle YAML
-Import-Module powershell-yaml
+# Define the directory containing the courses
+$courseDir = "site\content\capabilities\training-courses\courses"
 
-# Define the custom order for front matter keys
-$desiredOrder = @(
-    "title", "description", "summary", "date", "author", "weight", "draft", 
-    "id", "canonicalUrl", "externalUrl", "external_url",
-    "type", "layout", "resourceType"
-    "slug", "url", "aliases", "outputs",
-    "tags", "categories"
-    "coverImage",
-    "videoId", "duration", "isShort",
-    "card", "headline", "sections", "delivery"
-)
+# Loop through each course's index.md file
+Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
+    $courseFile = $_.FullName
 
-# Function to reorder front matter keys based on the desired order
-function Reorder-FrontMatter {
-    param (
-        [string]$filePath,
-        [array]$order
-    )
+    # Read the content of the file
+    $content = Get-Content $courseFile -Raw
 
-    # Read the file content
-    $content = Get-Content $filePath -Raw
-
-    # Extract the front matter (between '---')
+    # Separate the front matter from the content
     if ($content -match "(?s)^---(.*?)---") {
-        $frontMatter = $matches[1]
-        $markdownBody = $content -replace "(?s)^---(.*?)---", ""
+        $oldFrontMatter = $matches[1]
+        $bodyContent = $content -replace "(?s)^---(.*?)---", ''
 
-        # Convert the front matter to a hashtable
-        $frontMatterData = ConvertFrom-Yaml -Yaml $frontMatter
+        # Convert the old front matter to a hashtable
+        $oldYaml = $oldFrontMatter -replace '^---\s*\n', '' -replace '\n---$', ''
+        $frontmatterData = ConvertFrom-Yaml $oldYaml
 
-        # Create new ordered front matter
-        $newFrontMatter = [ordered]@{}
-
-        # Reorder the keys according to $desiredOrder
-        foreach ($key in $order) {
-            if ($frontMatterData.ContainsKey($key.Trim())) {
-                $newFrontMatter[$key.Trim()] = $frontMatterData[$key.Trim()]
+        # Step 1: Add new fields if they do not exist in the source data
+        if (-not $frontmatterData.ContainsKey('card')) {
+            $frontmatterData.card = @{
+                title   = "Course Title"
+                content = "Course introduction content."
             }
         }
-
-        # Add any remaining keys that were not in $desiredOrder
-        foreach ($key in $frontMatterData.Keys) {
-            if (-not ($newFrontMatter.Keys -contains $key.Trim())) {
-                $newFrontMatter[$key.Trim()] = $frontMatterData[$key.Trim()]
+        if (-not $frontmatterData.ContainsKey('code')) { $frontmatterData.code = "PSPO" }
+        if (-not $frontmatterData.ContainsKey('level')) { $frontmatterData.level = "intermediate" }
+        if (-not $frontmatterData.ContainsKey('assessment')) {
+            $frontmatterData.assessment = @{
+                icon    = "Scrumorg-Assessment-PSPO-I.png"
+                content = "Certification content."
             }
         }
+        if (-not $frontmatterData.ContainsKey('introduction')) { $frontmatterData.introduction = "Introduction content." }
+        if (-not $frontmatterData.ContainsKey('overview')) { $frontmatterData.overview = "Overview content." }
+        if (-not $frontmatterData.ContainsKey('outcomes')) { $frontmatterData.outcomes = "Outcomes content." }
+        if (-not $frontmatterData.ContainsKey('objectives')) { $frontmatterData.objectives = "Objectives content." }
+        if (-not $frontmatterData.ContainsKey('previewIcon')) { $frontmatterData.previewIcon = "unknown.png" }
+        if (-not $frontmatterData.ContainsKey('brandColour')) { $frontmatterData.brandColour = "#713183" }
+        if (-not $frontmatterData.ContainsKey('prerequisites')) { $frontmatterData.prerequisites = "Prerequisites content." }
+        if (-not $frontmatterData.ContainsKey('audience')) {
+            $frontmatterData.audience = @{
+                overview = "Audience overview."
+                personas = @("capabilities/training-courses/audiences/product-owners.md")
+            }
+        }
+        if (-not $frontmatterData.ContainsKey('trainers')) { $frontmatterData.trainers = @("/company/people/martin-hinshelwood/") }
 
-        # Convert the updated front matter back to YAML
-        $updatedFrontMatter = ConvertTo-Yaml -Data $newFrontMatter
+        # Step 2: Update new data with information from "offering" if available
+        $offering = $frontmatterData.offering
+        if ($offering) {
+            if ($offering.type) { $frontmatterData.card.title = $offering.type }
+            if ($offering.lead) { $frontmatterData.card.content = $offering.lead }
+            if ($offering.code) { $frontmatterData.code = $offering.code }
+            if ($offering.skilllevel) { $frontmatterData.level = $offering.skilllevel }
+            if ($offering.assessmentIcon) { $frontmatterData.assessment.icon = $offering.assessmentIcon }
+            if ($offering.certification) { $frontmatterData.assessment.content = $offering.certification }
+            if ($offering.details) { $frontmatterData.introduction = $offering.details }
+            if ($offering.audience) { $frontmatterData.overview = $offering.audience }
+            if ($offering.topics) { $frontmatterData.outcomes = $offering.topics }
+            if ($offering.objectives) { $frontmatterData.objectives = $offering.objectives }
+            if ($offering.courseIcon) { $frontmatterData.previewIcon = $offering.courseIcon }
+            if ($offering.prerequisites) { $frontmatterData.prerequisites = $offering.prerequisites }
+        }
 
-        # Rebuild the Markdown file with the updated front matter and the original content
-        $updatedMarkdownContent = "---`n$updatedFrontMatter`n---`n$markdownBody"
+        # Convert merged data back to YAML
+        $newYaml = ConvertTo-Yaml $frontmatterData
 
-        # Write the updated Markdown content back to the file
-        Set-Content -Path $filePath -Value $updatedMarkdownContent
+        # Write the updated content back to the file
+        $updatedContent = "---`n$newYaml`n---`n$bodyContent"
+        Set-Content -Path $courseFile -Value $updatedContent
 
-        Write-Host "Updated front matter for $filePath"
-    }
-    else {
-        Write-Host "No front matter found in $filePath"
+        Write-Output "Updated $courseFile"
     }
 }
 
-# Define the path where the files are located
-$rootPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content"
+# Helper function to convert from YAML
+function ConvertFrom-Yaml {
+    param (
+        [string]$yaml
+    )
+    # Parse YAML to hashtable
+    $serializer = [YamlDotNet.Serialization.Deserializer]::new()
+    return $serializer.Deserialize([string]$yaml)
+}
 
-# Recursively process all files
-Get-ChildItem -Path $rootPath -Recurse -Include "*.md" | ForEach-Object {
-    Reorder-FrontMatter -filePath $_.FullName -order $desiredOrder
+# Helper function to convert to YAML
+function ConvertTo-Yaml {
+    param (
+        [object]$data
+    )
+    # Convert hashtable to YAML
+    $serializer = [YamlDotNet.Serialization.Serializer]::new()
+    return $serializer.Serialize([object]$data)
 }

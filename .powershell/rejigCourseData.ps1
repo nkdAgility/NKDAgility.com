@@ -1,4 +1,6 @@
 # Define the directory containing the courses
+Import-Module PowerShell-Yaml
+
 $courseDir = "site\content\capabilities\training-courses\courses"
 
 # Loop through each course's index.md file
@@ -9,42 +11,63 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
     $content = Get-Content $courseFile -Raw
 
     # Separate the front matter from the content
-    if ($content -match '^(---\s*\n.*?\n---)') {
+    if ($content -match "(?s)^---(.*?)---") {
         $oldFrontMatter = $matches[1]
-        $bodyContent = $content -replace '^(---\s*\n.*?\n---)', ''
+        $bodyContent = $content -replace "(?s)^---(.*?)---", ''
 
         # Convert the old front matter to a hashtable
         $oldYaml = $oldFrontMatter -replace '^---\s*\n', '' -replace '\n---$', ''
-        $oldData = ConvertFrom-Yaml $oldYaml
+        $frontmatterData = ConvertFrom-Yaml $oldYaml
 
-        # Define the new structure and preserve existing values
-        $newData = @{
-            card          = @{
-                title   = if ($oldData.Title?) { $oldData.Title } else { "Course Title" }
-                content = if ($oldData.offering?.lead) { $oldData.offering.lead } else { "Course introduction content." }
+        # Step 1: Add new fields if they do not exist in the source data
+        if (-not $frontmatterData.ContainsKey('card')) {
+            $frontmatterData.card = @{
+                title   = "Course Title"
+                content = "Course introduction content."
             }
-            code          = if ($oldData.offering?.code) { $oldData.offering.code } else { "PSPO" }
-            level         = if ($oldData.offering?.skilllevel) { $oldData.offering.skilllevel } else { "intermediate" }
-            assessment    = @{
-                icon    = if ($oldData.offering?.assessmentIcon) { $oldData.offering.assessmentIcon } else { "Scrumorg-Assessment-PSPO-I.png" }
-                content = if ($oldData.offering?.certification) { $oldData.offering.certification } else { "Certification content." }
+        }
+        if (-not $frontmatterData.ContainsKey('code')) { $frontmatterData.code = "PSPO" }
+        if (-not $frontmatterData.ContainsKey('level')) { $frontmatterData.level = "intermediate" }
+        if (-not $frontmatterData.ContainsKey('assessment')) {
+            $frontmatterData.assessment = @{
+                icon    = "Scrumorg-Assessment-PSPO-I.png"
+                content = "Certification content."
             }
-            introduction  = if ($oldData.offering?.details) { $oldData.offering.details } else { "Introduction content." }
-            overview      = if ($oldData.offering?.audience) { $oldData.offering.audience } else { "Overview content." }
-            outcomes      = if ($oldData.offering?.topics) { $oldData.offering.topics } else { "Outcomes content." }
-            objectives    = if ($oldData.offering?.objectives) { $oldData.offering.objectives } else { "Objectives content." }
-            previewIcon   = if ($oldData.offering?.courseIcon) { $oldData.offering.courseIcon } else { "PSPO-400x.png" }
-            brandColour   = if ($oldData.brand?.colour) { $oldData.brand.colour } else { "#749335" }
-            prerequisites = if ($oldData.offering?.prerequisites) { $oldData.offering.prerequisites } else { "Prerequisites content." }
-            audience      = @{
-                overview = if ($oldData.offering?.audience) { $oldData.offering.audience } else { "Audience overview." }
+        }
+        if (-not $frontmatterData.ContainsKey('introduction')) { $frontmatterData.introduction = "Introduction content." }
+        if (-not $frontmatterData.ContainsKey('overview')) { $frontmatterData.overview = "Overview content." }
+        if (-not $frontmatterData.ContainsKey('outcomes')) { $frontmatterData.outcomes = "Outcomes content." }
+        if (-not $frontmatterData.ContainsKey('objectives')) { $frontmatterData.objectives = "Objectives content." }
+        if (-not $frontmatterData.ContainsKey('previewIcon')) { $frontmatterData.previewIcon = "unknown.png" }
+        if (-not $frontmatterData.ContainsKey('brandColour')) { $frontmatterData.brandColour = "#713183" }
+        if (-not $frontmatterData.ContainsKey('prerequisites')) { $frontmatterData.prerequisites = "Prerequisites content." }
+        if (-not $frontmatterData.ContainsKey('audience')) {
+            $frontmatterData.audience = @{
+                overview = "Audience overview."
                 personas = @("capabilities/training-courses/audiences/product-owners.md")
             }
-            trainers      = @("/company/people/martin-hinshelwood/")
+        }
+        if (-not $frontmatterData.ContainsKey('trainers')) { $frontmatterData.trainers = @("/company/people/martin-hinshelwood/") }
+
+        # Step 2: Update new data with information from "offering" if available
+        $offering = $frontmatterData.offering
+        if ($offering) {
+            if ($offering.type) { $frontmatterData.card.title = $offering.type }
+            if ($offering.lead) { $frontmatterData.card.content = $offering.lead }
+            if ($offering.code) { $frontmatterData.code = $offering.code }
+            if ($offering.skilllevel) { $frontmatterData.level = $offering.skilllevel }
+            if ($offering.assessmentIcon) { $frontmatterData.assessment.icon = $offering.assessmentIcon }
+            if ($offering.certification) { $frontmatterData.assessment.content = $offering.certification }
+            if ($offering.details) { $frontmatterData.introduction = $offering.details }
+            if ($offering.audience) { $frontmatterData.overview = $offering.audience }
+            if ($offering.topics) { $frontmatterData.outcomes = $offering.topics }
+            if ($offering.objectives) { $frontmatterData.objectives = $offering.objectives }
+            if ($offering.courseIcon) { $frontmatterData.previewIcon = $offering.courseIcon }
+            if ($offering.prerequisites) { $frontmatterData.prerequisites = $offering.prerequisites }
         }
 
-        # Convert new structure back to YAML
-        $newYaml = $newData | ConvertTo-Yaml
+        # Convert merged data back to YAML
+        $newYaml = ConvertTo-Yaml $frontmatterData
 
         # Write the updated content back to the file
         $updatedContent = "---`n$newYaml`n---`n$bodyContent"
@@ -54,22 +77,6 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
     }
 }
 
-# Helper function to convert from YAML
-function ConvertFrom-Yaml {
-    param (
-        [string]$yaml
-    )
-    # Parse YAML to hashtable
-    $serializer = [YamlDotNet.Serialization.Deserializer]::new()
-    return $serializer.Deserialize([string]$yaml)
-}
 
-# Helper function to convert to YAML
-function ConvertTo-Yaml {
-    param (
-        [object]$data
-    )
-    # Convert hashtable to YAML
-    $serializer = [YamlDotNet.Serialization.Serializer]::new()
-    return $serializer.Serialize([object]$data)
-}
+
+
