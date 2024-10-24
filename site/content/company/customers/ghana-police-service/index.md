@@ -8,4 +8,5 @@ slug: ghana-police-service
 tags:
   - homepage
 preview: ghana-police-service.jpg
+customer-industries: Government
 ---
