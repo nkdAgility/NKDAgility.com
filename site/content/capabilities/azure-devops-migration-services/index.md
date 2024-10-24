@@ -11,9 +11,9 @@ aliases:
   - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
 card:
   button:
-    content: <p>Migrate your data</p>
+    content: Migrate your data with confidence
   title: Azure DevOps Migration Services
-  content: <p>Ready to transform your development environment with Azure DevOps? Trust NKD Agility to guide you through a seamless migration process. Contact us today for a consultation and take the first step towards a more efficient and productive development&nbsp;workflow.</p>
+  content: Ready to transform your development environment with Azure DevOps? Trust NKD Agility to guide you through a seamless migration process. Contact us today for a consultation and take the first step towards a more efficient and productive development&nbsp;workflow.
 headline:
   cards:
     - image: null

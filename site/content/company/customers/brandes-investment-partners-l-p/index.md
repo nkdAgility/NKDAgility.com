@@ -5,4 +5,5 @@ creator: Martin Hinshelwood
 id: "45346"
 type: customers
 slug: brandes-investment-partners-l-p
+preview: logo.png
 ---

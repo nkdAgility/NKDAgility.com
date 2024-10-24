@@ -6,4 +6,5 @@ id: "46204"
 type: customers
 slug: genus-breeding-ltd
 preview: genus-logo.jpeg
+customer-industries: Medical
 ---

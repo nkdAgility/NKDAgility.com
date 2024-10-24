@@ -5,4 +5,5 @@ creator: Martin Hinshelwood
 id: "12009"
 type: customers
 slug: akaditi
+preview: Akaditi-logo-03-e1545146217836.png
 ---

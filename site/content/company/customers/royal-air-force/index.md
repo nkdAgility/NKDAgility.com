@@ -8,4 +8,5 @@ slug: royal-air-force
 tags:
   - homepage
 preview: Logo_of_the_Royal_Air_Force.svg_.png
+customer-industries: Defence
 ---

@@ -14,7 +14,7 @@ outputs:
 card:
   button:
     content: Training Courses
-  title: Professional Training
+  title: Training Programs
   content: Elevate your team's performance with our Private Corporate Training! Tailored specifically to your organization's needs, our courses cover everything from Lean Agile practices such as Scrum, Kanban, and DevOps to hands-on tools training in Azure DevOps, GitHub, and Copilot AI.
 headline:
   title: Professional Training Programs
@@ -34,6 +34,20 @@ headline:
       title: Azure DevOps Training Courses
       content: NKDAgility has proven expertise in working with Visual Studio & Azure DevOps.
 sections:
+  - title: Our Proven Track Record​
+    content: |
+      Our training courses have been designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.
+    type: counters
+    counters:
+      - counterAfter: +
+        content: Students
+        counter: 2600
+      - counterAfter: +
+        content: Classes
+        counter: 176
+      - counterAfter: +
+        content: Countries
+        counter: 34
   - title: Our training aproach
     contentClass: two-column-text
     hideOnMobile: true
@@ -73,18 +87,6 @@ sections:
   - title: Courses by Vendor
     type: taxonomies
     source: course-vendors
-  - title:
-    type: counters
-    counters:
-      - counterAfter: +
-        content: Students
-        counter: 2385
-      - counterAfter: +
-        content: Classes
-        counter: 176
-      - counterAfter: +
-        content: Countries
-        counter: 34
   - title:
     content:
     type: videos
