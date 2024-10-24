@@ -1,5 +1,5 @@
 ---
-title: Training Courses
+title: Training Programs
 date: 2024-06-12
 weight: 2
 type: capabilities
@@ -36,6 +36,7 @@ headline:
 sections:
   - title: Our training aproach
     contentClass: two-column-text
+    hideOnMobile: true
     content: |
       Our trainers are all accredited from Scrum.org, ProKanban.org, or Accentient and have the expertise backing it through long experience in delivering valuable outcomes to customers through an immersive learning philosophy.
 
@@ -48,6 +49,7 @@ sections:
   - title: Corporate Training – Private, In-House Courses
     content: Our private corporate training courses provide a customised and bespoke experinace that is tailored for your orgnaisaton to maximise value.
     type: cards
+    hideOnMobile: true
     source: inline
     cards:
       - title: Customized Learning Experience

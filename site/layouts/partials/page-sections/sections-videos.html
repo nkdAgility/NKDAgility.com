@@ -3,17 +3,15 @@
 <div class="row">
   {{ if and (not (eq .context.related nil)) (gt (len .context.related) 0) }}
     {{ range $index, $videos := .context.related }}
-      <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-        <!-- e -->
+      <div class="col-lg-6 col-sm-12 col-md-12 p-4">
+        <!-- Video rendering -->
         {{ $videoItem := $site.GetPage $videos }}
         {{ if $videoItem }}
-          <div class="p-4 bg-white">
+          <div class="bg-white ratio ratio-16x9">
             <iframe
-              width="560"
-              height="315"
+              class="w-100"
               src="https://www.youtube.com/embed/{{ $videoItem.Params.videoId }}"
               title="{{ $videoItem.Params.title }}"
-              frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"
               allowfullscreen></iframe>
@@ -25,27 +23,23 @@
     {{ end }}
   {{ else }}
     <div class="row">
-      <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-        <div class="p-4 bg-white">
+      <div class="col-lg-6 col-sm-12 col-md-12 p-4">
+        <div class="p-4 bg-white ratio ratio-16x9">
           <iframe
-            width="560"
-            height="315"
+            class="w-100"
             src="https://www.youtube.com/embed/yCyjGBNaRqI"
             title="NKD Agility Mission and Purpose"
-            frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-lg-6 col-sm-12 col-md-12 p-2">
-        <div class="p-4 bg-white">
+        <div class="p-4 bg-white ratio ratio-16x9">
           <iframe
-            width="560"
-            height="315"
+            class="w-100"
             src="https://www.youtube.com/embed/BJZdyEqHhXc"
             title=""
-            frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen></iframe>
