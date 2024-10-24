@@ -1,8 +1,6 @@
 # Define the directory containing the courses
 Import-Module PowerShell-Yaml
 
-Import-Module PowerShell-Yaml
-
 $courseDir = "site\content\capabilities\training-courses\courses"
 
 # Loop through each course's index.md file
@@ -17,57 +15,39 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         $oldFrontMatter = $matches[1]
         $bodyContent = $content -replace "(?s)^---(.*?)---", ''
 
-        # Convert the old front matter to a hashtable
+        # Convert the old front matter to an ordered hashtable
         $oldYaml = $oldFrontMatter -replace '^---\s*\n', '' -replace '\n---$', ''
-        $frontmatterData = ConvertFrom-Yaml $oldYaml
+        $frontmatterData = ConvertFrom-Yaml $oldYaml -Ordered
 
         # Step 1: Add new fields if they do not exist in the source data
-
-        # Convert the front matter data to an ordered hashtable
-        $frontmatterData = [ordered]@{
-            card          = $frontmatterData.card
-            code          = $frontmatterData.code
-            level         = $frontmatterData.level
-            assessment    = $frontmatterData.assessment
-            introduction  = $frontmatterData.introduction
-            overview      = $frontmatterData.overview
-            outcomes      = $frontmatterData.outcomes
-            objectives    = $frontmatterData.objectives
-            previewIcon   = $frontmatterData.previewIcon
-            brandColour   = $frontmatterData.brandColour
-            prerequisites = $frontmatterData.prerequisites
-            audience      = $frontmatterData.audience
-            trainers      = $frontmatterData.trainers
-        }
-
-        if (-not $frontmatterData.ContainsKey('card')) {
-            $frontmatterData.card = @{
+        if (-not $frontmatterData['card']) {
+            $frontmatterData['card'] = @{
                 title   = "Course Title"
                 content = "Course introduction content."
             }
         }
-        if (-not $frontmatterData.ContainsKey('code')) { $frontmatterData.code = "PSPO" }
-        if (-not $frontmatterData.ContainsKey('level')) { $frontmatterData.level = "intermediate" }
-        if (-not $frontmatterData.ContainsKey('assessment')) {
-            $frontmatterData.assessment = @{
+        if (-not $frontmatterData['code']) { $frontmatterData['code'] = $null }
+        if (-not $frontmatterData['level']) { $frontmatterData['level'] = $null }
+        if (-not $frontmatterData['assessment']) {
+            $frontmatterData['assessment'] = @{
                 icon    = "Scrumorg-Assessment-PSPO-I.png"
                 content = "Certification content."
             }
         }
-        if (-not $frontmatterData.ContainsKey('introduction')) { $frontmatterData.introduction = "Introduction content." }
-        if (-not $frontmatterData.ContainsKey('overview')) { $frontmatterData.overview = "Overview content." }
-        if (-not $frontmatterData.ContainsKey('outcomes')) { $frontmatterData.outcomes = "Outcomes content." }
-        if (-not $frontmatterData.ContainsKey('objectives')) { $frontmatterData.objectives = "Objectives content." }
-        if (-not $frontmatterData.ContainsKey('previewIcon')) { $frontmatterData.previewIcon = "unknown.png" }
-        if (-not $frontmatterData.ContainsKey('brandColour')) { $frontmatterData.brandColour = "#713183" }
-        if (-not $frontmatterData.ContainsKey('prerequisites')) { $frontmatterData.prerequisites = "Prerequisites content." }
-        if (-not $frontmatterData.ContainsKey('audience')) {
-            $frontmatterData.audience = @{
-                overview = "Audience overview."
+        if (-not $frontmatterData['introduction']) { $frontmatterData['introduction'] = $null }
+        if (-not $frontmatterData['overview']) { $frontmatterData['overview'] = $null }
+        if (-not $frontmatterData['outcomes']) { $frontmatterData['outcomes'] = $null }
+        if (-not $frontmatterData['objectives']) { $frontmatterData['objectives'] = $null }
+        if (-not $frontmatterData['previewIcon']) { $frontmatterData['previewIcon'] = $null }
+        if (-not $frontmatterData['brandColour']) { $frontmatterData['brandColour'] = $null }
+        if (-not $frontmatterData['prerequisites']) { $frontmatterData['prerequisites'] = $null }
+        if (-not $frontmatterData['audience']) {
+            $frontmatterData['audience'] = @{
+                overview = $null
                 personas = @("capabilities/training-courses/audiences/product-owners.md")
             }
         }
-        if (-not $frontmatterData.ContainsKey('trainers')) { $frontmatterData.trainers = @("/company/people/martin-hinshelwood/") }
+        if (-not $frontmatterData['trainers']) { $frontmatterData['trainers'] = @("/company/people/martin-hinshelwood/") }
 
         # Step 2: Update new data with information from "offering" if available
         $offering = $frontmatterData.offering
@@ -94,9 +74,6 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         Set-Content -Path $courseFile -Value $updatedContent
 
         Write-Output "Updated $courseFile"
+        exit
     }
 }
-
-
-
-
