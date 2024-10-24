@@ -6,4 +6,5 @@ id: "11808"
 type: customers
 slug: teleplan
 preview: teleplan.png
+customer-industries: Defence
 ---

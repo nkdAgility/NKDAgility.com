@@ -2,11 +2,29 @@
 <!-- Courses specific rendering -->
 <div class="row">
   {{ if and (not (eq .context.counters nil)) (gt (len .context.counters) 0) }}
+    {{ $numCounters := len .context.counters }}
+    {{ $colSize := math.Floor (div 12 $numCounters) }}
+
+
+    <!-- Default to col-2 if the calculated colSize is less than 2 -->
+    {{ if lt $colSize 2 }}
+      {{ $colSize = 2 }}
+    {{ end }}
+
+
+    <!-- Determine base font size using clamp, adjust for column count -->
+    {{ $headingFontSize := printf "clamp(1.4rem, %v.5vw, 4rem)" $colSize }}
+    {{ $subFontSize := printf "clamp(1.0rem, %v.5vw, 2rem)" $colSize }}
+
     {{ range $index, $counter := .context.counters }}
-      <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-        <!-- e -->
-        {{ $combined := printf "%v%v" $counter.counter $counter.counterAfter }}
-        {{ partial "card.html" (dict "class" "sectioncards" "title" $combined "content" $counter.content ) }}
+      {{ $combined := printf "%v%v" $counter.counter $counter.counterAfter }}
+      <div class="col-{{ $colSize }}">
+        <h2 class="text-modern text-center" style="font-size: {{ $headingFontSize | safeCSS }};">
+          {{ $combined }}
+        </h2>
+        <p class="text-modern text-center" style="font-size: {{ $subFontSize | safeCSS }};">
+          {{ $counter.content | markdownify }}
+        </p>
       </div>
     {{ end }}
   {{ else }}

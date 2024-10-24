@@ -4,7 +4,7 @@
 {{ if .Params.sections }}
   {{ range $index, $section := .Params.sections }}
     <!-- Title and Content (always shown) -->
-    <section class="container my-5">
+    <section class="container my-5 {{ if $section.hideOnMobile }}d-none d-md-block{{ end }}">
       <div class="section">
         <h2>{{ $section.title | markdownify }}</h2>
         <div class="{{ $section.contentClass }}">

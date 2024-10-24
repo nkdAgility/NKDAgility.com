@@ -6,4 +6,5 @@ id: "45358"
 type: customers
 slug: washington-department-of-enterprise-services
 preview: Washington-Department-of-Enterprise-Services.jpg
+customer-industries: Government
 ---

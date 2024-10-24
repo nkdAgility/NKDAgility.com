@@ -32,67 +32,60 @@ categories:
   - measure-and-learn
   - people-and-process
 preview: naked-agility-Professional-Scrum-SPS-1600x900-1.jpg
+previewIcon: Scrumorg-Course-SPS-400x.png
+brandColour:
 card:
   button:
     content: ""
-  title: ""
-  content: ""
-offering:
-  offeringType: training-course
-  prerequisites: |+
-    Attendees make the most of the class if they: 
-    - Have studied the [Nexus Guide](https://nkdagility.com/resources/the-nexus-guide/) (required).
-    - Have a solid understanding of Scrum either through working with a Scrum Team or through taking a [wpv-post-link item="10045"], [wpv-post-link item="10049"] or similar course.
-    - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
-    - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
+  title: Scaled Professional Scrum with Nexus (SPS) with Certification
+  content: Scaled Professional Scrum (SPS) with Nexus is a course that is designed as an experiential workshop where students learn how to scale Scrum using the Nexus Framework.
+code: SPS
+level: advanced
+introduction: |2-
 
-  lead: Scaled Professional Scrum (SPS) with Nexus is a course that is designed as an experiential workshop where students learn how to scale Scrum using the Nexus Framework.
-  objectives: |2+
+  ### What Scaled Professional Scrum Students Say
+     
+  <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Asps&amp;theme=light" data-mce-fragment="1"></iframe>
+  [Read more](https://www.scrum.org/scrumorg-scaled-professional-scrum-training-student-reviews-and-feedback "Scrum.org Scaled Professional Scrum Training Student Reviews and Feedback") about our SPS student surveys and their feedback
+overview: |+
+  SPS is targeted at development leads and managers and anyone else involved in formulating, participating or managing scaled Scrum product development. Organizations are encouraged to send a team of people that will be (or already are) running large Scrum initiatives. It is especially oriented to those who: 
+  - Already are effectively running small Scrum projects
+  - Want to apply multiple Scrum teams to develop a large system or product
+  - Managing scaled projects
+  - Struggling with scaled projects
 
-    - Learn how to Scale Scrum using the Nexus framework
-    - Learn how to overcome challenges in large-scale development initiatives
-    - Keep development initiatives on track
-    - Experience organizing several teams working on the same product
-    - Optimize team productivity
-    - Understand how to identify, minimize and remove dependencies
+outcomes: |2+
 
-  assessmentIcon: Scrumorg-Assessment-SPS.png
-  skilllevel: advanced
-  audience: |+
-    SPS is targeted at development leads and managers and anyone else involved in formulating, participating or managing scaled Scrum product development. Organizations are encouraged to send a team of people that will be (or already are) running large Scrum initiatives. It is especially oriented to those who: 
-    - Already are effectively running small Scrum projects
-    - Want to apply multiple Scrum teams to develop a large system or product
-    - Managing scaled projects
-    - Struggling with scaled projects
+  - Scaled Scrum is still Scrum
+  - Introduction to the Nexus Framework
+  - New role, artifacts and events
+  - Organizing teams & work
+  - Managing the Nexus & Nexus+
+  - Dealing with common challenges
+  - Practices to help teams efficiently build an integrated software product
 
-  type: Scrum
-  details: |2-
+assessment:
+objectives: |2+
 
-    ### What Scaled Professional Scrum Students Say
-       
-    <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=140px&amp;styleWidth=250%25&amp;tags=classtype%3Asps&amp;theme=light" data-mce-fragment="1"></iframe>
-    [Read more](https://www.scrum.org/scrumorg-scaled-professional-scrum-training-student-reviews-and-feedback "Scrum.org Scaled Professional Scrum Training Student Reviews and Feedback") about our SPS student surveys and their feedback
-  topics: |2+
+  - Learn how to Scale Scrum using the Nexus framework
+  - Learn how to overcome challenges in large-scale development initiatives
+  - Keep development initiatives on track
+  - Experience organizing several teams working on the same product
+  - Optimize team productivity
+  - Understand how to identify, minimize and remove dependencies
 
-    - Scaled Scrum is still Scrum
-    - Introduction to the Nexus Framework
-    - New role, artifacts and events
-    - Organizing teams & work
-    - Managing the Nexus & Nexus+
-    - Dealing with common challenges
-    - Practices to help teams efficiently build an integrated software product
+prerequisites: |+
+  Attendees make the most of the class if they: 
+  - Have studied the [Nexus Guide](https://nkdagility.com/resources/the-nexus-guide/) (required).
+  - Have a solid understanding of Scrum either through working with a Scrum Team or through taking a [wpv-post-link item="10045"], [wpv-post-link item="10049"] or similar course.
+  - Have an understanding of development techniques, tools, and practices needed to sustain large scale development.
+  - Passed the [Nexus Open](https://www.classmarker.com/online-test/start/?quiz=d49560ebb3d48c4f) assessment.
 
-  format: Over the 2 days, students will simulate a large product development project using the Nexus Framework. The workshop is delivered using an end-to-end case study where students work together to organize and simulate a scaled product development project. Throughout the workshop, students will be introduced to more than 50 practices (find many of the practices [here](https://www.scrum.org/scaled-professional-scrum-nexus-practices "Scaled Professional Scrum with Nexus Practices")) that can be used to help reduce complexity and dependencies at scale. The workshop will provide students with an understanding of how to launch, structure, staff, and manage a large Agile project using Scrum. Throughout the workshop, students will learn the infrastructure, tools and practices needed to successfully scale Scrum to maximize the value of their product development initiative. By taking a hands-on approach, students are fully engaged in the learning process where they see first-hand the challenges in large-scale development initiatives and solutions for getting the work back on track. They will leave the workshop with techniques to detect irregularities and how to address them appropriately. [View](https://www.scrum.org/courses/professional-scrum-training-competency-mapping "Professional Scrum Training Competency Mapping") the different Focus Areas covered within this class and others.
-  duration: 16
-  certification: |-
-    All participants completing the Scaled Professional Scrum course will receive a password to attempt the Scaled Professional Scrum (SPS) assessment. SPS class participants who attempt the SPS assessment within 14 days of receiving their free password and do not score at least 85% will be granted a 2nd attempt at no additional cost.. The industry-recognized SPS certification requires a minimum passing score of 85% and involves understanding of the Nexus Framework, knowledge from the course and of Scrum. 
-    #### PMI PDU Credits
-     Students of [Scrum.org](http://scrum.org/) courses are able to claim Project Management Institute (PMI) PDU credit: 14 PDUs after attending a two-day Scaled Professional Scrum (SPS) course. Please note that PMI PDUs are earned for course attendance and not for passing a [Scrum.org](http://scrum.org/) assessment. Students can claim PDUs under PMI's "Education courses provided by other third party providers” category. You can claim your PDUs online at [https://ccrs.pmi.org](https://ccrs.pmi.org/). Find instructions [here](https://www.scrum.org/support/can-i-claim-pdus-attending-scrumorg-course "Can I Claim PDUs for Attending a Scrum.org Course?").
-  brand:
-    vendor: scrum-org
-    colour: "#1494af"
-  code: SPS
-  courseIcon: Scrumorg-Course-SPS-400x.png
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
 
 The Scaled Professional Scrum is a hands-on, activity-based course where students develop a collection of skills that can be applied to overcome challenges when scaling Scrum. Even after achieving success with Scrum, teams are still limited by the amount of work they can do and the value they can create. They need to expand, or scale, to a group of Scrum Teams working together on the same product. When doing so, they often encounter common challenges with cross-team dependencies, self-management, transparency and accountability.

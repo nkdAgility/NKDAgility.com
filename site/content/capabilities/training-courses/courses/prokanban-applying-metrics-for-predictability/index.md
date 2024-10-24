@@ -14,49 +14,47 @@ course-topics:
   - Kanban Training Courses
 course-vendors:
   - ProKanban.org
+tags:
+categories:
 preview: NKDAgility-Courses-AMP-16x9-1.jpg
+previewIcon: Course-logo-AMP@1x.png
+brandColour:
 card:
   button:
     content: ""
-  title: ""
-  content: ""
-offering:
-  offeringType: training-course
-  prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
-  lead: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
-  objectives: |+
-    After completing the course, participants will achieve the following: 
-    1. Gain a comprehensive understanding of agile metrics and their role in predictability.
-    2. Master flow metrics such as WIP, Cycle Time, and Throughput for improved project management.
-    3. Effectively utilize flow analytics, including CFDs, Scatterplots, and Histograms, to enhance predictability.
-    4. Learn to employ Monte Carlo Simulation to provide accurate forecasts for project timelines.
-    5. Develop proficiency in quantifying and managing risks associated with project outcomes.
-    6. Apply course techniques to real-world projects for immediate impact.
-    7. Validate your knowledge through an online assessment, receiving guidance on areas for improvement.
+  title: Applying Metrics for Predictability
+  content: Join our immersive 8-week course to become an expert in agile metrics and forecasting. Gain the skills to predict project outcomes, reduce uncertainty, and improve your decision-making, all while learning at your own pace.
+code: AMP
+level: intermediate
+introduction:
+overview: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
+outcomes: |2+
 
-  assessmentIcon: PAM-1.png
-  skilllevel: intermediate
-  audience: The course is intended for executives, managers, team members, and anyone involved in Agile or Lean project management, aiming to enhance predictability and data-driven decision-making.
-  type: Unknown
-  details: ""
-  topics: |2+
+  1. Understanding Agile Metrics for Predictability
+  2. Flow Metrics: WIP, Cycle Time, and Throughput
+  3. Flow Analytics: CFDs, Scatterplots, and Histograms
+  4. Forecasting with Monte Carlo Simulation
+  5. Quantifying and Managing Risk
+  6. Applying Techniques to Your Projects
+  7. Validated Learning and Assessment
 
-    1. Understanding Agile Metrics for Predictability
-    2. Flow Metrics: WIP, Cycle Time, and Throughput
-    3. Flow Analytics: CFDs, Scatterplots, and Histograms
-    4. Forecasting with Monte Carlo Simulation
-    5. Quantifying and Managing Risk
-    6. Applying Techniques to Your Projects
-    7. Validated Learning and Assessment
+assessment:
+objectives: |+
+  After completing the course, participants will achieve the following: 
+  1. Gain a comprehensive understanding of agile metrics and their role in predictability.
+  2. Master flow metrics such as WIP, Cycle Time, and Throughput for improved project management.
+  3. Effectively utilize flow analytics, including CFDs, Scatterplots, and Histograms, to enhance predictability.
+  4. Learn to employ Monte Carlo Simulation to provide accurate forecasts for project timelines.
+  5. Develop proficiency in quantifying and managing risks associated with project outcomes.
+  6. Apply course techniques to real-world projects for immediate impact.
+  7. Validate your knowledge through an online assessment, receiving guidance on areas for improvement.
 
-  format: ""
-  duration: 0
-  certification: After taking the course, you will have an opportunity to validate that you understand core Kanban topics. We will invite you to take an online assessment that evaluates your understanding and provides you with guidance on areas to improve. This exclusive assessment is only available to class participants.
-  brand:
-    vendor: prokanban-org
-    colour: ""
-  code: AMP
-  courseIcon: Course-logo-AMP@1x.png
+prerequisites: The course "Applying Metrics for Predictability" does not have specified prerequisites. It is open to a wide range of professionals interested in agile metrics and forecasting, regardless of their prior knowledge or experience. However, participants may benefit from having a basic understanding of Agile or Lean methodologies.
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
 
 In today's dynamic business landscape, the ability to provide accurate project timelines, minimize risk, and make data-driven decisions is crucial. Our immersive 8-week course, "Applying Metrics for Predictability," empowers you to master agile metrics and forecasting, transforming your approach to project management. Unlike traditional 2-day workshops, our extended format allows for deeper understanding and practical application.

@@ -6,4 +6,5 @@ id: "45353"
 type: customers
 slug: washington-department-of-transport
 preview: washington-state-DOT.jpg
+customer-industries: Government
 ---

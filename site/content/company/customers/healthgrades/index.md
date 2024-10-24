@@ -6,4 +6,5 @@ id: "11939"
 type: customers
 slug: healthgrades
 preview: image-healthgrades-logo.png
+customer-industries: Medical
 ---

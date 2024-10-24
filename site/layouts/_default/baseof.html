@@ -30,7 +30,9 @@
       <section class="container my-2 siteSectionCallback"></section>
     {{ end }}
 
-    {{ partial "our-customers.html" . }}
+    {{ if not .IsHome }}
+      {{ partial "our-customers.html" . }}
+    {{ end }}
 
     {{ partial "infrastructure/footer.html" . }}
     {{ if eq hugo.Environment "development" }}

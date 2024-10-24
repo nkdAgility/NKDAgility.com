@@ -5,6 +5,7 @@ creator: Martin Hinshelwood
 id: "10107"
 type: course
 slug: agile-requirements-workshop
+url:
 aliases:
   - agile-requirements-workshop-1-day
   - /training-courses/agile-requirements-workshop/
@@ -27,32 +28,28 @@ tags:
 categories:
   - tools-and-techniques
 preview: nakedalm-experts-visual-studio-alm.png
+previewIcon: NKD-AR.png
+brandColour:
 card:
   button:
     content: ""
-  title: ""
+  title: Agile Requirements Workshop
   content: ""
-offering:
-  offeringType: training-course
-  prerequisites: ""
-  lead: ""
-  objectives: ""
-  assessmentIcon: ""
-  skilllevel: intermediate
-  audience: ""
-  type: Kanban (ProKanban.org Certified)
-  details: |2
+code: NKD-AR
+level: intermediate
+introduction: |2
 
-    In this course we work against your backlog, and your backlog items.
-  topics: ""
-  format: ""
-  duration: 8
-  certification: ""
-  brand:
-    vendor: naked-alm
-    colour:
-  code: NKD-AR
-  courseIcon: NKD-AR.png
+  In this course we work against your backlog, and your backlog items.
+overview:
+outcomes:
+assessment:
+objectives:
+prerequisites:
+audience:
+trainers:
+roadmap:
+syllabus:
+events:
 ---
 
 This workshop includes guided discussion focusing on agile requirements management and planning practices for agile teams, projects, and products. Covers medium and long term planning needs and results in a backlog for the steps needed to establish a solid requirements management practice within your organisation.

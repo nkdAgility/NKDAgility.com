@@ -48,14 +48,17 @@ taxonomies:
   tag: tags
   course-topic: course-topics
   course-vendor: course-vendors
+  customer-industry: customer-industries
 
 permalinks:
   taxonomy:
     course-topics: "/capabilities/training-courses/course-topics"
     course-vendors: "/capabilities/training-courses/course-vendors"
+    customer-industry: "/company/customers/industry"
   term:
     course-topics: "/capabilities/training-courses/:slug/"
     course-vendors: "/capabilities/training-courses/:slug/"
+    customer-industry: "/company/customers/:slug/"
   page:
     resources: /:sections/:slug/
     course: /:sections/:slug/

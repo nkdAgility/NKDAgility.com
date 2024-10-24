@@ -8,4 +8,5 @@ slug: nottingham-county-council
 tags:
   - homepage
 preview: nkdagility-customer-Nottingham-County-Council-200x75.png
+customer-industries: Government
 ---

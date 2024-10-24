@@ -2,12 +2,10 @@
 title: "naked Agility"
 url: "/"
 headline:
-  title: "Our Services"
-  subtitle: "We help companies deliver real value through working products, empowering teams, and providing expert guidance."
+  title: "How Are We Different​"
+  subtitle: "We empower teams to deliver real value by focusing on technical leadership, evidence-based decision-making, and comprehensive training."
   content: |
-    By prioritizing evidence-based decisions, measurable impact, and continuous improvement, we ensure that our strategies are tailored to your unique needs. With a focus on collaboration, transparency, and social responsibility, we are committed to driving sustainable success for your business. 
-
-    Our core values—courage, commitment, focus, respect, and openness—guide everything we do, putting your customers and outcomes first.
+    Our approach integrates Agile and DevOps practices to ensure engineering excellence, while fostering collaboration, transparency, and continuous improvement. With hands-on mentorship and a commitment to measurable impact, we guide your organization toward sustainable success and innovation.
   cards:
     - title: "Technical Leadership & Engineering Excellence"
       isExpandable: true

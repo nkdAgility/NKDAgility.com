@@ -6,4 +6,5 @@ id: "45368"
 type: customers
 slug: milliman
 preview: Milliman.jpg
+customer-industries: Medical
 ---
