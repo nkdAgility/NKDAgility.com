@@ -20,7 +20,10 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         $frontmatterData = ConvertFrom-Yaml $oldYaml -Ordered
 
         # Desired key order
-        $orderedKeys = @('title', 'date', 'creator', 'id', 'type', 'slug', 'url', 'aliases', 'course-topics', 'course-vendors', 'tags', 'categories', 'preview', 'previewIcon', 'brandColour', 'card', 'code', 'level', 'assessment', 'objectives', 'prerequisites', 'audience', 'trainers', 'roadmap', 'syllabus', 'events')
+        $orderedKeys = @('title', 'description', 'date', 'creator', 'id', 'type', 'slug', 'url', 'aliases', 
+            'course-topics', 'course-vendors', 'tags', 'categories', 'preview', 'previewIcon', 'brandColour', 
+            'card', 'code', 'level', 'introduction', 'overview', 'outcomes', 'assessment', 'objectives', 'prerequisites', 'audience', 'trainers', 
+            'roadmap', 'syllabus', 'events')
 
         # Loop through desired keys and insert missing keys at the appropriate position
         $previousIndex = -1
@@ -57,6 +60,5 @@ Get-ChildItem -Path "$courseDir\*\index.md" | ForEach-Object {
         Set-Content -Path $courseFile -Value $updatedContent
 
         Write-Output "Updated $courseFile"
-        exit
     }
 }

@@ -27,6 +27,9 @@ card:
   content: All software development teams aim to enhance flow and throughput. This one-day course combines Kanban principles with Azure Boards, showing agile teams how to configure and effectively use the platform for Kanban practices. Participants will collaborate in teams on a shared project and case study to maximize learning.
 code: PKAB
 level: intermediate
+introduction: 
+overview: 
+outcomes: 
 assessment: 
 objectives: 
 previewIcon: A-PKAB.png
@@ -110,9 +113,11 @@ events:
 ---
 
 
+
 All software development teams have a desire to increase their flow and throughput. With the powerful combination of Kanban and Azure Boards, they can do just that. This one day course will introduce Kanban and demonstrate how an agile team can configure and use Azure Boards to effectively practice Kanban, achieve flow, and begin improving throughput and predictability. To maximize learning, students will work in teams, in a common team project, on a common case study.
 
 ### Course Designer
 
      This course was designed by Richard Hundhausen, Microsoft’s first Visual Studio ALM/DevOps MVP, Professional Scrum Trainer, and an experienced software developer.
+
 
