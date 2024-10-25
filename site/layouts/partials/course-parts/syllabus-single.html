@@ -5,10 +5,17 @@
   </p>
   <ul>
     <li><strong>Traditional Learning Experience:</strong> Engage in full-day or half-day sessions led by expert trainers in an interactive classroom setting. Perfect for those seeking an intensive, focused learning experience.</li>
-    <li><strong>Immersive Learning Experience:</strong> Enjoy a multi-week program that breaks down full-day sessions into shorter, more manageable classes, integrating real-world applications and reflections for continuous improvement.</li>
-    <li><strong>Mentor Programs with Immersive Experiences:</strong> Participate in a series of immersive learning sessions as part of our mentor programs, combining structured learning with personalized guidance and continuous feedback over time.</li>
+    <li>
+      <strong>Immersive Learning Experience:</strong> Enjoy a multi-week program that breaks down full-day sessions into shorter, more manageable classes, integrating real-world applications and reflections for continuous improvement. Assignments are only
+      available as part of this format, encouraging participants to apply their learning practically.
+    </li>
+    <li>
+      <strong>Mentor Programs with Immersive Experiences:</strong> Participate in a series of immersive learning sessions as part of our mentor programs, combining structured learning with personalized guidance and continuous feedback over time. For more
+      information, visit our <a href="/capabilities/mentor-programs/">Mentor Programs</a> page.
+    </li>
   </ul>
   <p>Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment.</p>
+
   <div class="row">
     {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
       {{ range $index, $syllabi := .Page.Params.syllabus }}
@@ -28,53 +35,51 @@
               <div class="card-text text-muted">
                 {{ .content | markdownify }}
               </div>
-              <div class="row">
-                <div class="col-12"></div>
-              </div>
-              <div class="row">
-                <div class="col-6">
-                  {{/* <span class="badge text-bg-warning" title="There are no longer any seats available.">SOLD OUT</span>
-                    <span class="badge text-bg-success" title="There are seats available">SEATS</span>
-                    <span class="badge rounded-pill bg-secondary">learning experience</span>
-                  */}}
-                </div>
-                <div class="col-6">
-                  <div class="btn-group float-end" role="group" aria-label="Basic example">
-                    <!-- Add buttons here if needed -->
+              {{ if .learningResources }}
+                <div class="m-2"></div>
+                <div>
+                  <!-- Toggle buttons -->
+                  <button class="btn btn-link text-start p-0" data-bs-toggle="collapse" data-bs-target="#learningResources-{{ $index }}" aria-expanded="false" aria-controls="learningResources-{{ $index }}">
+                    <h4 class="card-title nkdagility-primary h6 text-start">Learning Resources <i class="fa fa-chevron-down"></i></h4>
+                  </button>
+                  <div id="learningResources-{{ $index }}" class="collapse">
+                    <ul class="list-group list-group-flush">
+                      {{ if and (not (eq .learningResources nil)) (gt (len .learningResources) 0) }}
+                        {{ range sort .learningResources "weight" }}
+                          {{ if not .draft }}
+                            <li class="list-group-item d-flex align-items-center small">
+                              <div class="badge text-bg-secondary me-1">{{ .duration }}m</div>
+                              <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
+                              {{- $isExternal := strings.HasPrefix .link "http" -}}
+                              {{- if $isExternal }}
+                                <a href="{{ .link | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
+                                  {{ .title }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small
+                                ></a>
+                              {{- else }}
+                                <a href="{{ .link | safeURL }}"> {{ .Text }} </a>
+                              {{- end }}
+                            </li>
+                          {{ end }}
+                        {{ end }}
+                      {{ end }}
+                    </ul>
                   </div>
                 </div>
-              </div>
-              <div class="m-2"></div>
-              <h4 class="card-title nkdagility-primary h6 text-start">Learning Resources</h4>
-              <ul class="list-group list-group-flush">
-                {{ if and (not (eq .learningResources nil)) (gt (len .learningResources) 0) }}
-                  {{ range sort .learningResources "weight" }}
-                    {{ if not .draft }}
-                      <li class="list-group-item d-flex align-items-center small">
-                        <div class="badge text-bg-secondary me-1">{{ .duration }}m</div>
-                        <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
-                        {{- $isExternal := strings.HasPrefix .link "http" -}}
-                        {{- if $isExternal }}
-                          <a href="{{ .link | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
-                            {{ .title }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small
-                          ></a>
-                        {{- else }}
-                          <a href="{{ .link | safeURL }}"> {{ .Text }} </a>
-                        {{- end }}
-                      </li>
-                    {{ end }}
-                  {{ end }}
-                {{ end }}
-              </ul>
+              {{ end }}
               {{ if .assignement }}
-                <div class="m-2"></div>
-                <h4 class="card-title nkdagility-primary h6 text-start">Assignement*</h4>
-                <ul class="list-group list-group-flush">
-                  <li class="list-group-item d-flex align-items-center">
-                    <div class="badge text-bg-secondary me-1"><i class="fa-light fa-clipboard-check"></i></div>
-                    {{ .assignement | markdownify }}
-                  </li>
-                </ul>
+                <div>
+                  <button class="btn btn-link text-start p-0 mt-2" data-bs-toggle="collapse" data-bs-target="#assignment-{{ $index }}" aria-expanded="false" aria-controls="assignment-{{ $index }}">
+                    <h4 class="card-title nkdagility-primary h6 text-start">Assignment* <i class="fa fa-chevron-down"></i></h4>
+                  </button>
+                  <div id="assignment-{{ $index }}" class="collapse">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item d-flex align-items-center">
+                        <div class="badge text-bg-secondary me-1"><i class="fa-light fa-clipboard-check"></i></div>
+                        {{ .assignement | markdownify }}
+                      </li>
+                    </ul>
+                  </div>
+                </div>
               {{ end }}
             </div>
           </div>
