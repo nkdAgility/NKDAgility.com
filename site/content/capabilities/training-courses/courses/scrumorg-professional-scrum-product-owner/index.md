@@ -9,20 +9,20 @@ type: course
 slug: professional-scrum-product-owner-pspo-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 aliases:
-- /training-courses/professional-scrum-product-owner-pspo
-- /training-courses/professional-scrum-product-owner-pspo-training
-- /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
-- /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
-- /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
+  - /training-courses/professional-scrum-product-owner-pspo
+  - /training-courses/professional-scrum-product-owner-pspo-training
+  - /training-courses/professional-scrum-product-owner-pspo-training-experience-with-certification-learn-professional-product-ownership
+  - /training-courses/scrum-training-courses/professional-scrum-product-owner-pspo-with-certification/
+  - /capabilities/training-courses/scrum.org/professional-scrum-product-owner-pspo-with-certification/
 course-topics:
-- Scrum Training Courses
+  - Scrum Training Courses
 course-vendors:
-- Scrum.org
+  - Scrum.org
 tags:
-- certification
-- product-owner
+  - certification
+  - product-owner
 categories:
-- agility
+  - agility
 preview: naked-agility-Professional-Scrum-PSPO-I-1600x900-1.jpg
 card:
   title: Professional Scrum Product Owner
@@ -65,7 +65,7 @@ objectives: |
   - Track value creation with meaningful metrics.
   - Engage stakeholders, customers, and team members effectively.
 previewIcon: PSPO-400x.png
-brandColour: '#749335'
+brandColour: "#749335"
 prerequisites: |
   Participants will benefit most from the course if they:
   - Have studied the [Scrum Guide](https://www.scrumguides.org/).
@@ -75,67 +75,70 @@ prerequisites: |
 audience:
   overview: The Professional Scrum Product Owner course is suitable for professionals across various industries looking to refine their Product Ownership skills, including Product Owners, Scrum Masters, managers, and those seeking a deeper understanding of Agile Product Management.
   personas:
-  - capabilities/training-courses/audiences/product-owners.md
+    - capabilities/training-courses/audiences/product-owners.md
 trainers:
-- /company/people/martin-hinshelwood/
-roadmap: 
+  - /company/people/martin-hinshelwood/
+roadmap:
 syllabus:
-- id: 1
-  title: Introduction to Agile Product Management
-  duration: 90
-  overview: Understanding the importance of a product-centric approach in Agile environments.
-  assignement: Product vs Project Mindset
-  details: 
-- id: 2
-  title: Scrum Framework Essentials
-  duration: 120
-  overview: Dive deep into the principles of Scrum and Empiricism, focusing on the Product Owner role.
-  assignement: Scrum Roles & Accountabilities
-  details: 
-- id: 3
-  title: Product Backlog Management
-  duration: 90
-  overview: Learn techniques for managing the Product Backlog, including prioritization and stakeholder engagement.
-  assignement: Effective Backlog Refinement
-  details: 
-- id: 4
-  title: Release Planning & Forecasting
-  duration: 60
-  overview: Approaches to release management, estimation, and forecasting in Agile projects.
-  assignement: Release Planning Exercise
-  details: 
-- id: 5
-  title: Metrics & Value Delivery
-  duration: 60
-  overview: Identify and use metrics to measure success and track value creation.
-  assignement: Value-driven Metrics Workshop
-  details: 
-- id: 6
-  title: Closing & Certification Preparation
-  duration: 30
-  overview: Wrap up and final preparation for the PSPO I assessment.
-  assignement: PSPO I Assessment Simulation
-  details: 
+  - id: 1
+    title: Introduction to Agile Product Management
+    duration: 90
+    overview: Understanding the importance of a product-centric approach in Agile environments.
+    assignement:
+      title: Product vs Project Mindset
+    details:
+  - id: 2
+    title: Scrum Framework Essentials
+    duration: 120
+    overview: Dive deep into the principles of Scrum and Empiricism, focusing on the Product Owner role.
+    assignement:
+      title: Scrum Roles & Accountabilities
+    details:
+  - id: 3
+    title: Product Backlog Management
+    duration: 90
+    overview: Learn techniques for managing the Product Backlog, including prioritization and stakeholder engagement.
+    assignement:
+      title: Effective Backlog Refinement
+    details:
+  - id: 4
+    title: Release Planning & Forecasting
+    duration: 60
+    overview: Approaches to release management, estimation, and forecasting in Agile projects.
+    assignement:
+      title: Release Planning Exercise
+    details:
+  - id: 5
+    title: Metrics & Value Delivery
+    duration: 60
+    overview: Identify and use metrics to measure success and track value creation.
+    assignement:
+      title: Value-driven Metrics Workshop
+    details:
+  - id: 6
+    title: Closing & Certification Preparation
+    duration: 30
+    overview: Wrap up and final preparation for the PSPO I assessment.
+    assignement:
+      title: PSPO I Assessment Simulation
+    details:
 events:
-- start_date: 2025-11-07
-  location: Virtual
-  registration_link: '#'
-  sessions:
-  - start_datetime: 2025-11-07T09:00:00
-    end_datetime: 2025-11-07T17:00:00
-    timezone: Europe/London
-    syllabus_ids:
-    - 1
-    - 2
-    - 3
-  - start_datetime: 2025-11-08T09:00:00
-    end_datetime: 2025-11-08T17:00:00
-    timezone: Europe/London
-    syllabus_ids:
-    - 4
-    - 5
-    - 6
-
+  - start_date: 2025-11-07
+    location: Virtual
+    registration_link: "#"
+    sessions:
+      - start_datetime: 2025-11-07T09:00:00
+        end_datetime: 2025-11-07T17:00:00
+        timezone: Europe/London
+        syllabus_ids:
+          - 1
+          - 2
+          - 3
+      - start_datetime: 2025-11-08T09:00:00
+        end_datetime: 2025-11-08T17:00:00
+        timezone: Europe/London
+        syllabus_ids:
+          - 4
+          - 5
+          - 6
 ---
-
-
