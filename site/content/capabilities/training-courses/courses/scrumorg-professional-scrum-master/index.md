@@ -111,7 +111,7 @@ syllabus:
       title: Complexity and Empiricism
       content: |
         **ASK**: _Facilitate a discussion within your organization about how your organization could benefit from Agile and Scrum and what would be potential hindrance tapping the full potential in the current environment. Share results from this discussion with the class and explain how you ensured that everyone had a good understanding of complexity and empiricism._
-      examples:
+      examples: |
         - Explain complexity and empiricism by using the Stacey chart, Cynefin Framework or something else.
         - Use the exercise to identify parameters influencing a product development and how predictable they are.
         - Create a one-pager describing the goals that the organization wants to achieve by using Scrum and Agile.
@@ -239,7 +239,7 @@ syllabus:
       title: Are we doing Scrum?
       content: |
         **ASK**: _Assess the effectiveness of your current progress towards the goals you have defined in the previous assignment. Describe the differences between your current process and Scrum as it is defined in the Scrum Guide. Create a 15% solution about what to change to improve your current situation and gather feedback about these from other people in your organization._
-      examples:
+      examples: |
         - Create ideas of how to improve a specific Scrum event that will be held during the assignment period and run an experiment to find out how these improvements impact the event.
         - Create a list of deviations of your current process from Scrum as defined in the Scrum Guide and how these could impact your ability to achieve the goals defined in the previous assignment.
         - Create ideas of how to improve a specific Scrum artifact and run an experiment to find out how these improvements impact the value of the artifact. Interview team members to find out what they think about the change after it has been applied.
@@ -418,7 +418,6 @@ syllabus:
         **Ask** _Create a plan of various activities that you could do to help your team to grow and become more agile and identify the skills that you should learn and traits that you should exemplify to support your team and your organization on this journey._
 
       examples: |
-
         - Hold a retrospective with your team to understand how they will describe the service you as a Scrum Master are providing for them and their expectations of how you could better support them.
         - Hold a retrospective with the stakeholders of your team to understand how they will describe the service you as a Scrum Master are providing for them and the organization as well as how they think you could help the team and the organization to improve the value delivered to customers.
         - Look back at the learnings from the class and create a “personal growth backlog” that describes topics you want to learn more about and skills that you want to acquire.

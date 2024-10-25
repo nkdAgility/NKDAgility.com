@@ -77,9 +77,33 @@
                       </h4>
                     </button>
                     <div id="assignment-{{ $index }}" class="collapse">
-                      <div class="text-expander">
+                      <div>
                         {{ .assignement.content | markdownify }}
                       </div>
+                      {{ if .assignement.examples }}
+                        <div>
+                          <!-- Button trigger modal -->
+                          <a href="#" class="btn btn-link mt-3" data-bs-toggle="modal" data-bs-target="#examplesModal-{{ $index }}">View Examples</a>
+
+                          <!-- Modal -->
+                          <div class="modal fade" id="examplesModal-{{ $index }}" tabindex="-1" aria-labelledby="examplesModalLabel-{{ $index }}" aria-hidden="true">
+                            <div class="modal-dialog modal-xl">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h5 class="modal-title" id="examplesModalLabel-{{ $index }}">Examples for {{ .assignement.title }}</h5>
+                                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                  {{ .assignement.examples | markdownify }}
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      {{ end }}
                     </div>
                   {{ else }}
                     <h4 class="card-title nkdagility-primary h6 text-start">
@@ -115,5 +139,14 @@
   .btn[aria-expanded="true"] .rotate-icon {
     transform: rotate(180deg);
   }
+
+  /* Hide all paragraphs except the first initially */
+  .text-expander .additional-content {
+    display: none;
+  }
+
+  /* Show all content when expanded */
+  .collapse.show .additional-content {
+    display: block;
+  }
 </style>
-<!-- Remove JavaScript for chevron rotation -->
