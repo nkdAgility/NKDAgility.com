@@ -33,12 +33,41 @@ categories:
 preview: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
 card:
   title: Professional Scrum Master
-  content: Our Professional Scrum Master Training Program contains the Professional Scrum Master Training (PSM) from Scrum.org and is composed of 16h live with an instructor and additional offline exercises and materials that covers the principles and theory of the Scrum framework and the Scrum Master role.
+  content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
 code: PSM
 level: intermediate
-introduction:
-overview:
-outcomes:
+introduction: |
+  **Learn Professional Scrum and Elevate Your Role as a Scrum Master with NKD Agility**
+
+  The Professional Scrum Master™ (PSM) course is an interactive, activity-based training designed to help you master the fundamentals of Professional Scrum and excel as a Scrum Master. At NKD Agility, we believe in technical excellence, and this course empowers you with the skills and knowledge needed to guide your teams and organisations effectively. Through a blend of discussions, hands-on exercises, and real-world examples, you'll gain a comprehensive understanding of the Scrum framework, the Agile mindset, and the vital accountabilities of the Scrum Master role.
+
+  This course includes a free attempt at the globally recognized [Professional Scrum Master I (PSM I) certification](https://www.scrum.org/assessments/professional-scrum-master-i-certification) exam, giving you the opportunity to validate your skills and knowledge.
+overview: |
+  Our immersive classes provide an in-depth exploration of Agile and Scrum principles, designed to help you build a solid understanding of how to implement Scrum effectively. Developed by Scrum.org, the course combines instructor-led sessions with activity-based learning, where participants collaborate in teams to solve problems and practice Scrum in realistic scenarios.
+
+  Professional Scrum Trainers (PSTs) from NKD Agility bring their extensive experience as Scrum Masters, sharing real-life stories and insights. Each PST has a unique delivery style, ensuring the training is engaging and memorable. Throughout the course, students not only gain an understanding of Scrum theory and principles but also develop the practical skills to navigate their Scrum Master accountabilities and appreciate the importance of each element within the Scrum framework.
+
+  At the end of the course, participants leave with:
+
+  A deep appreciation for Professional Scrum and the Agile mindset.
+  Practical insights into overcoming common myths and challenges to agility.
+  The ability to select and apply the most effective practices and techniques for their Scrum Teams.
+  Confidence in leading teams towards continuous improvement and successful Scrum adoption.
+  Note: Our immersive classes are designed for deeper engagement and flexible learning, tailored to suit varying schedules and participant needs. For those requiring a more traditional format, the course can be condensed into shorter sessions across multiple days.
+
+  Explore the various focus areas covered within this class and other courses offered by NKD Agility. If you have any questions or would like to discuss your training needs, please [contact us](/contact/).
+
+outcomes: |
+  - Help Scrum Teams deliver value to their organization
+  - Understand the theory and principles behind Scrum and empiricism
+  - Understand how each part of the Scrum framework ties back to the principles and theory
+  - Understand uncertainty and complexity in product delivery
+  - Understand the meaning and importance of the Scrum values
+  - Learn what Done means and why it is crucial to transparency
+  - Know how to use the Product Backlog to plan with agility
+  - Understand the importance of self-managing teams, interpersonal skills needed, and the Scrum Master role
+  - Clarify the leadership role a Scrum Master plays on the team
+  - Learn the skills and traits and behavior shifts required to be a Scrum Master
 assessment:
   icon: Scrumorg-Assessment-PSM-I.png
   content: |
@@ -76,52 +105,30 @@ syllabus:
   - id: 1
     title: Theory & First Principles
     duration: 120
-    overview: Gain understanding of complexity in software environments; How empiricism controls risk, and provides predictability in complex environments; What is agility and what is Scrum’s place within the Agile discussion?
-    assignement: Complexity and Empiricism
-    details:
-    selfPacedContent:
+    content: |
+      Participants are able to evaluate the concepts of complexity and empiricism in their context and determine with others in their organization whether Scrum is appropriate for their environment.
+    assignement:
+      title: Complexity and Empiricism
+      content: |
+        **ASK**: _Facilitate a discussion within your organization about how your organization could benefit from Agile and Scrum and what would be potential hindrance tapping the full potential in the current environment. Share results from this discussion with the class and explain how you ensured that everyone had a good understanding of complexity and empiricism._
+
+        Examples of what you can try:
+        - Explain complexity and empiricism by using the Stacey chart, Cynefin Framework or something else.
+        - Use the exercise to identify parameters influencing a product development and how predictable they are.
+        - Create a one-pager describing the goals that the organization wants to achieve by using Scrum and Agile.
+        - Compare the evolution of various factors between the current situation and Professional Scrum and give some examples from your organization.
+        - Describe how the group would envision their environment when empiricism is evident.
+        - Collect a list of reservations people have in your organization about Agile and Scrum and how you suggest that these could be resolved.
+        - Find a simulation for complexity on the internet and run the simulation with team members and stakeholders.
+        - Analyze forecasts and plans from past projects or past period of your current project and interview people about their opinion about reasons for deviations from those plans.
+        - Analyze your current plan and identify if it is mostly focused on goals, features or work and how much flexibility it allows to change directions to still being able to deliver value.
+        - Facilitate a discussion with your stakeholders about what are the highest risks in your current project, how you can implement early signals and how you might react to these risks.
+    learningResources:
       - title: The New New Product Development Game
         link: https://hbr.org/1986/01/the-new-new-product-development-game
         duration: 20
-        type: article
+        type: newspaper
         weight: 1
-        content: |
-          **Overview of "The New New Product Development Game"**
-
-          In the 1986 Harvard Business Review article, *The New New Product Development Game* by Hirotaka Takeuchi and Ikujiro Nonaka, the authors introduce a revolutionary approach to product development. This article is widely regarded as a foundational piece for the development of Agile and Scrum methodologies in software development. The key insights from the article are summarised below:
-
-          ### **Traditional vs. New Approach**
-          The authors argue that the traditional, sequential (or "waterfall") approach to product development, where each stage must be completed before moving to the next, often leads to delays and lack of innovation. Instead, they present a new approach, which is more flexible, integrated, and faster. This new approach is often described as a "rugby" style, where teams move the ball up the field together, passing it back and forth as necessary, rather than a "relay race" where each runner waits for the baton.
-
-          ### **Characteristics of the New Approach**
-          The new product development game emphasizes the following characteristics:
-
-          1. **Built-in Instability**  
-            Projects are initiated with broad goals and a high-level vision. This lack of detailed planning and predefined roles creates a dynamic, uncertain environment where creativity thrives. Teams must define their paths, fostering ownership and innovation.
-
-          2. **Self-Organizing Project Teams**  
-            Teams are given the autonomy to manage themselves. Unlike traditional hierarchical structures, these self-organizing teams can decide how to approach their tasks, distribute work, and solve problems, resulting in greater flexibility and faster decision-making.
-
-          3. **Overlapping Development Phases**  
-            In contrast to a sequential approach, development phases (e.g., design, production, testing) overlap significantly. This concurrent engineering ensures that teams work on various aspects of the project simultaneously, leading to faster iterations and product completion.
-
-           4. **"Multilearning"**  
-              Team members are encouraged to learn across multiple domains, acquiring technical, market, and even business skills. This cross-functional skillset allows for more effective collaboration and problem-solving, as well as the ability to adapt quickly to changing needs.
-
-           5. **Subtle Control**  
-              Although teams have autonomy, they are not left to their own devices without any oversight. Management provides subtle, hands-off control by setting broad goals, monitoring progress, and stepping in only when necessary. This balance allows teams to innovate freely while staying aligned with the overall business objectives.
-
-           6. **Organizational Transfer of Learning**  
-              Knowledge and insights gained during product development are shared across the organization. This sharing ensures that teams learn from past projects, leading to continuous improvement and better products over time.
-
-           ### **Case Studies**
-           The article draws on examples from Japanese companies such as Honda, Canon, and Fuji-Xerox to illustrate how these principles lead to successful product development. These companies implemented the rugby-style approach to bring innovative products to market faster and more efficiently than their competitors.
-
-           ### **Impact on Agile Development**
-           The ideas in *The New New Product Development Game* paved the way for what would later become Agile methodologies, particularly Scrum. The emphasis on collaboration, self-organizing teams, and iterative processes aligns closely with Agile principles that promote flexibility, adaptability, and continuous delivery of value.
-
-           ### **Conclusion**
-           Takeuchi and Nonaka's article highlighted a shift from the rigid, traditional approaches to a more dynamic, collaborative, and integrated model for product development. The concepts of self-organizing teams, overlapping phases, and subtle control have since been widely adopted and adapted across various industries, significantly influencing modern Agile frameworks and fostering a culture of innovation and adaptability in product development.
       - title: An Introduction to the Cynefin Model
         link: https://youtu.be/yjXRY0IbJw8
         duration: 5
@@ -130,7 +137,7 @@ syllabus:
       - title: A Leader’s Framework for Decision Making
         link: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
         duration: 20
-        type: article
+        type: newspaper
         weight: 1
       - title: Empiricism is an Essential Element of Scrum
         link: https://youtu.be/q603WTOSYDk
@@ -145,11 +152,17 @@ syllabus:
       - title: Agile is constant change
         link: https://www.scrum.org/resources/blog/agile-constant-change
         duration: 3
-        type: article
+        type: blog
+        weight: 1
+      - title: Transparency in the Trenches
+        link: https://youtu.be/02eU5CEbJRE
+        duration: 60
+        type: video
         weight: 1
       - title: So What is Agile Really About?
         duration: 5
-        type: article
+        type: blog
+        draft: true
         weight: 1
         content: |
           Although the term “Agile” in the context of software development is quite well known, the definitions vary. Therefore I shared the most common descriptions of Agile, for example:
@@ -222,50 +235,232 @@ syllabus:
   - id: 2
     title: The Scrum Framework
     duration: 120
-    overview: " See that each part of Scrum ties back to the principles and theory, while exposing waste; Focus on the accountability of the rolls, the transparency of the artefacts, and the feedback loops of the Events."
-    assignement: Are we doing Scrum?
-    details:
-    selfPacedContent:
+    content: "Participants can interpret the accountabilities, artifacts, and events of the Scrum framework, their purpose, how they are related, and how they collectively enable teams and organizations to solve complex problems."
+    assignement:
+      title: Are we doing Scrum?
+      content: |
+        **ASK**: _Assess the effectiveness of your current progress towards the goals you have defined in the previous assignment. Describe the differences between your current process and Scrum as it is defined in the Scrum Guide. Create a 15% solution about what to change to improve your current situation and gather feedback about these from other people in your organization._
+
+        Examples of what you can try:
+        - Create ideas of how to improve a specific Scrum event that will be held during the assignment period and run an experiment to find out how these improvements impact the event.
+        - Create a list of deviations of your current process from Scrum as defined in the Scrum Guide and how these could impact your ability to achieve the goals defined in the previous assignment.
+        - Create ideas of how to improve a specific Scrum artifact and run an experiment to find out how these improvements impact the value of the artifact. Interview team members to find out what they think about the change after it has been applied.
+        - Evaluate how your current process is supporting empiricism and where there might be opportunities to improve. Identify which elements of the Scrum Framework might help with this improvement and execute at least one experiment to apply one of these changes.
+        - Interview your Product Owner how they would describe their accountability and discuss differences as the Scrum Guide defines the accountabilities.
+        - Facilitate a discussion with your Scrum Team(s) how they see a Scrum Master can support them and how they currently see the accountability of a Scrum Master. 
+        - Discuss with your stakeholders the effectiveness of your Sprint Reviews and how these help with creating transparency to inspect and adapt. 
+        - Facilitate a discussion with your Scrum Team(s) about the Scrum Values and how they might help the team to better collaborate with each other and with people outside the team.
+        - Discuss with your team(s) how effective your Sprint Retrospectives are to apply transparency, inspection and adaptation about self-management and the ability of the team to deliver value. Define and execute at least one experiment to improve the effectiveness of your Sprint Retrospectives.
+        - Discuss with your team(s) how effective your Product Backlog Refinement is to generate a broader picture of what to achieve and if it helps to identify ways to achieve more with less.
+        - Run a Scrum simulation with your team where every element of the Scrum Framework should be used as defined in the Scrum Guide. Research the internet to find good examples for such a simulation or create your own one.
+    learningResources:
       - title: The Scrum Guide
         link: https://scrumguides.org
         duration: 60
-        type: paper
+        type: handshake-angle
+        weight: 1
+      - title: Planning in Scrum
+        link: https://youtu.be/08wArN-Tkhk
+        duration: 5
+        type: video
+        weight: 1
+      - title: The Daily Scrum is NOT a Status Meeting
+        link: https://youtu.be/i7_RPceEIYE
+        duration: 7
+        type: video
+        weight: 1
+      - title: Effective Sprint Planning
+        link: https://youtu.be/syXnhduPxqM
+        duration: 5
+        type: video
+        weight: 1
+      - title: Slaying Technical Debt
+        link: https://youtu.be/vLRH0HCXZek
+        duration: 5
+        type: video
         weight: 1
   - id: 3
     title: Done
     duration: 60
-    overview: It is fundamentally imposible to get transparency without Done
-    assignement: Shift Left
-    details:
+    content: Participants can interpret the relationship between the concept of Done in Scrum and its role in creating transparency for empiricism, and collaborate with their team to identify potential improvements in their current situation.
+    learningResources:
+      - title: The Definition of Done
+        link: https://www.scrum.org/resources/definition-done
+        duration: 20
+        type: blog
+        weight: 1
+      - title: A Typical Sprint, Play-By-Play
+        link: https://www.scrum.org/resources/blog/typical-sprint-play-play
+        duration: 20
+        type: blog
+        weight: 1
+      - title: Getting started with a Definition of Done (DoD)
+        link: /resources/blog/getting-started-definition-done-dod/
+        duration: 10
+        type: blog
+        weight: 1
+      - title: Ethics in Scrum
+        link: https://youtu.be/Tw1gwc7rAVg
+        duration: 13
+        type: video
+        weight: 1
+    assignement:
+      title: Shift Left
+      content: |
+        **Assignment**: _Evaluate how consistently your team delivers a Done Increment and examine the level of uncertainty or surprises that these Increments may still include. Reflect on the current Definition of Done and its effectiveness in achieving consistent delivery. Identify areas for improvement, experiment with at least one change, and share your insights._
+
+        Examples of what you can try:
+        - If your team does not currently use a Definition of Done, facilitate a discussion to raise awareness of its importance. Work with your Scrum Team to establish an initial Definition of Done that can be continuously inspected and adapted.
+        - Add criteria to your Definition of Done to reduce uncertainty and avoid last-minute surprises, ensuring higher quality and consistency.
+        - Remove criteria from your Definition of Done that are not contributing to quality and are creating obstacles to frequent Done Increments.
+        - Assess how transparent your team is about technical debt and undone work. Implement at least one improvement to address the accumulation of technical debt.
+        - During a Daily Scrum, facilitate a discussion to help the team reflect on what is still required to reach a Done Increment based on the Definition of Done. Explore ways to organize work to achieve this as quickly as possible.
+        - Discuss with your team how to achieve a Done Increment earlier in the Sprint. Conduct an experiment to test at least one approach in this direction.
+        - During Sprint Planning or Backlog Refinement, facilitate discussions to slice Product Backlog Items (PBIs) into smaller, more manageable parts. Focus on vertical slicing to help deliver Done Increments earlier.
+        - Run an experiment with Mob-Programming or Pair-Programming to see if it helps achieve a Done Increment more quickly and efficiently.
+        - Try out Swarming to encourage the team to focus on building a Done Increment collaboratively.
+        - Compile a list of reasons why team members struggle to achieve a Done Increment every Sprint. Choose at least one of these reasons and run an experiment to address it.
+        - If QA processes are conducted at the end of the Sprint, run an experiment to start QA earlier and assess its impact.
+        - If QA is handled exclusively by dedicated team members, experiment by involving other team members in the QA process, such as through pairing with QA personnel.
+        - If QA is done outside the team, try conducting QA within the team and within the Sprint, and observe any changes in the process.
+
+        These tasks aim to foster a deeper understanding of what Done means within your team and help drive continuous improvement by refining the Definition of Done.
+
   - id: 4
     title: Product Delivery with Scrum
     duration: 160
-    overview: Understand how to organize Product Backlog; Practical tips to deal with estimates and value on a Product Backlog; Be confronted with ingrained, old habits like calculating, promising certainty, & predicting the future
-    assignement: Empirical vs Waterfall
-    details:
+    content: Participants correlate the benefits of an empirical approach to product development to how the Product Backlog contributes to transparency. The student also understands how frequent inspection and adaptation of the backlog is crucial to achieving goals at various levels.
+    learningResources:
+      - title: "Scrum Myths: There is No Planning in Scrum"
+        link: https://www.scrum.org/resources/blog/scrum-myths-there-no-planning-scrum
+        duration: 20
+        type: blog
+        weight: 1
+      - title: Kanban Guide for Scrum Teams
+        link: /resources/guides/kanban-guide-for-scrum-teams/
+        duration: 20
+        type: handshake-angle
+        weight: 1
+      - title: The Evidence-based Management Guide
+        link: /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
+        duration: 10
+        type: handshake-angle
+        weight: 1
+      - title: Small batch delivery & big batch finance how to speak the language of forecasting
+        link: https://www.scrum.org/resources/blog/small-batch-delivery-big-batch-finance-how-speak-language-forecasting
+        duration: 13
+        type: blog
+        weight: 1
+      - title: When will it be Done - an introduction to probabilistic forecasting
+        link: https://youtu.be/aG5Eet6BJTc
+        duration: 60
+        type: video
+        weight: 1
+      - title: Limiting Work in Progress (WIP) in Scrum with Kanban - What / When / Who / How
+        link: https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how
+        duration: 10
+        type: blog
+        weight: 1
+    assignement:
+      title: Empirical vs Waterfall
+      content: |
+        **Ask**: _Assess how much empiricism your team is using to plan product delivery and apply at least one experiment to make it even more empirical._
+
+        Examples of what you can try:
+        - Assess if your team and your organization is more using a product or a project mindset for the product you are developing with your team. How is unpredictability currently handled? Have a conversation with some stakeholders how you could benefit from moving more towards a product mindset and which objections people have.
+        - Assess if there is a proper Product Goal in place and if the Product Backlog is organized in a way that helps achieving the Product Goal.
+        - Facilitate a Product Backlog refinement to improve understanding, granularity and transparency to help better achieve the Product Goal.
+        - Reflect with your teams how and why you are doing sizing and estimation currently and if there are better options to help with Sprint Planning and forecasts and measuring progress towards goals in a complex environment.
+        - Assess if your Product Backlog Items have a good size to be worked on during a Sprint and slice at least one bigger item into smaller ones by splitting it vertically.
+        - Assess if your Product Backlog Items are structured in a way that they can deliver some business value on their own or if they depend on other items before a business value can be delivered.
+        - Evaluate if your Product Backlog is creating transparency by interviewing various team members and stakeholders about where to focus next.
+        - Interview your Product Owner about the current Product Goal and the next steps toward this by examining the current Product Backlog.
+        - Interview team members about their understanding of the direction and next steps to evaluate if there is enough clarity and transparency provided by the Product Backlog.
+        - Record situations when the team was approached in ways that impede empiricism and how the team handled the situation. Define at least one improvement. 
+        - Evaluate if your Product Backlog is more used like a plan or if it is use to help with empirically achieving your goals. Suggest at least one experiment to the team how this can be improved.
+
   - id: 5
     title: People & Teams
     duration: 90
-    overview: To understand how Scrum Teams are formed and become effective and the productivity and creativity that can be gained through self-organization.
-    assignement: Collaboration is Key
-    details:
+    content: Participant can can defend the significance of collaboration as a key factor for efficiency and quality, and detect the different influencers that may impact collaboration within their Scrum Team.
+    learningResources:
+      - title: The Surprising Truth about what motivates us
+        link: https://youtu.be/aJWH84Nwucc
+        duration: 15
+        type: video
+        weight: 1
+      - title: "From Now to New Right Here: Change-as-Flipping"
+        link: https://www2.slideshare.net/npflaeging/from-now-to-new-right-here-changeasflipping-betacodex16
+        duration: 20
+        type: presentation
+        weight: 1
+    assignement:
+      title: Collaboration is Key
+      content: |
+        **Ask** _Assess together with your team how they currently work together and what could be improved. Run at least one experiment that could help the team to become more collaborative. _
+
+        Examples of what you can try:
+
+        - Facilitate a discussion about autonomy, mastery and purpose with your team(s) and identify how you as a Scram Master can help the team(s) to improve in these areas. Run at least one experiment with one improvement.
+        - Facilitate a discussion with your teams how you could improve “Intrinsic motivation” and run at least one experiment in this area.
+        - Facilitate a discussion with your teams how you could improve “Effective collaboration” and run at least one experiment in this area.
+        - Facilitate a discussion with your teams how you could improve the use of the “Scrum Values” and run at least one experiment in this area.
+        - Facilitate a discussion with your teams how you could improve “Professionalism” and run at least one experiment in this area.
+        - Facilitate a discussion of pros and cons of various working styles and if there is a consensus that a collaborative working style is most beneficial for the team.
+        Identify behaviors and characteristics of a great team together with your Scrum Team and identify areas where your team could improve.
+        - Observe people's work to get a better understanding about the flow of their work and their ability to focus. Identify any interruptions and discuss with the team how those interruptions could be minimized. 
+        - Identify any dependencies that are interrupting the team’s flow and identify experiments that could help reduce those dependencies.
+        - Identify the value-stream of a new functionality to your product and the people that have to be involved to make this happen. Identify hand-offs and create a vision of how a different team-structure could increase the team’s autonomy and collect some feedback about this idea.
+        - Identify a difficult situation and facilitate a discussion with your team where you tie this situation back to the Scrum Values and the assets of a collaborative team to identify potential improvements.
+        - Facilitate a discussion with your team(s) about dependencies they have to other people to get their work done. Run at least one experiment to minimize one of these dependencies.
+        - Facilitate a discussion with your team(s) about dependencies and if restructuring teams might help reducing these dependencies. Run an experiment to have a person from outside of the team to work as a team member for one day and discuss the differences this makes.
+        - Facilitate a discussion with your team(s) how much the assets of a collaborative team are covered and run at least one experiment to improve one of the assets.
+
   - id: 6
     title: The Scrum Master
     duration: 60
-    overview: Skills and traits of a Scrum Master; The challenges for a Scrum Master in helping teams and the organization in using Scrum to become Agile; The behavioural shift in being a Scrum Master.
-    assignement: How to Become a Great Scrum Master
-    details:
+    content: Participant is able to assess their own behavior as a Scrum Master in terms of how they help teams achieve their goals, and assess their own ability to make deliberate choices about how to enable team growth.
+    assignement:
+      title: How to Become a Great Scrum Master
+      content: |
+        **Ask** _Create a plan of various activities that you could do to help your team to grow and become more agile and identify the skills that you should learn and traits that you should exemplify to support your team and your organization on this journey._
+
+        Examples of what you can try:
+
+        - Hold a retrospective with your team to understand how they will describe the service you as a Scrum Master are providing for them and their expectations of how you could better support them.
+        - Hold a retrospective with the stakeholders of your team to understand how they will describe the service you as a Scrum Master are providing for them and the organization as well as how they think you could help the team and the organization to improve the value delivered to customers.
+        - Look back at the learnings from the class and create a “personal growth backlog” that describes topics you want to learn more about and skills that you want to acquire.
+        - Look back at the learnings from the class and create a “team growth backlog” that describes various actions that could help your team and your organization to improve. Refine this “team growth backlog” together with your team.
+        - Describe the Scrum Master that you want to be one year from now and identify first steps that bring you closer to this vision.
+        - Once back at work, you will be busy with so many other things. Develop a strategy that your growth journey will not always take a back-seat and define counter measures how to make sure that you will be able to achieve your growth goals.
+        - Arrange a meeting with your manager to learn more about their expectation how you should serve as a Scrum Master and about your personal development.
+        - Find a local or online Scrum Master community that you can connect with to learn from each other.
+        - Create a community of Scrum Masters and other Scrum enthusiasts within your organization which will meet frequently to share and learn from each other.
+        - Continue the list of skills and traits of an effective Scrum Master and identify the areas where you want to grow.
+        - Create a job description for a Scrum Master for your organization and review it with others to get feedback and identify misconceptions people might have about the Scrum Master accountability.
+
   - id: 7
     title: Closing
     duration: 30
-    overview: Wrapup and final questions
-    assignement: Take the PSM I assessment.
-    details:
+    content: As we conclude the Scrum Master course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
+    assignement:
+      title: Take the PSM I assessment.
+      content: |
+        - Passing score: 85%
+        - Time limit: 60 minutes
+        - Number of Questions: 80
+        - Format: Multiple Choice, Multiple Answer, True/False
+        - Language:
+          - English
+          - 简体中文 (Simplified Chinese) available through www.scrum.org.cn
+        - Free [Credly](https://www.credly.com/users/sign_in) digital credential included
+        - Practice Assessment: [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
+        - Passwords have no expiration date, but are valid for one attempt only
+        - Lifetime certification - no annual renewal fee required
   - id: 8
     title: Catchup
     duration: 120
-    overview: Post course catchup and questions
-    details:
+    content: Two weeks after completing the Scrum Master course, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect on your experiences applying the concepts learned in the course, share insights, and receive additional support.
 events:
   - start_date: 2025-01-23
     location: Virtual

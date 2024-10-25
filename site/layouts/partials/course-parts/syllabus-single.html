@@ -1,41 +1,92 @@
 <section class="container my-5">
   <h2>Syllabus</h2>
+  <p>
+    Our comprehensive syllabus is designed to accommodate various learning styles, whether you prefer a traditional in-depth session, a flexible immersive experience, or a structured mentor program. Each module can be delivered in the following formats:
+  </p>
+  <ul>
+    <li><strong>Traditional Learning Experience:</strong> Engage in full-day or half-day sessions led by expert trainers in an interactive classroom setting. Perfect for those seeking an intensive, focused learning experience.</li>
+    <li>
+      <strong>Immersive Learning Experience:</strong> Enjoy a multi-week program that breaks down full-day sessions into shorter, more manageable classes, integrating real-world applications and reflections for continuous improvement. Assignments are only
+      available as part of this format, encouraging participants to apply their learning practically.
+    </li>
+    <li>
+      <strong>Mentor Programs with Immersive Experiences:</strong> Participate in a series of immersive learning sessions as part of our mentor programs, combining structured learning with personalized guidance and continuous feedback over time. For more
+      information, visit our <a href="/capabilities/mentor-programs/">Mentor Programs</a> page.
+    </li>
+  </ul>
+  <p>Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment.</p>
+
   <div class="row">
     {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
       {{ range $index, $syllabi := .Page.Params.syllabus }}
-        <div class="col-6 p-2">
+        <div class="col-xl-6 p-2">
           <!-- Card -->
-          <div class="card flex-fill shadow mb-2" style="font-size: 0.8rem;">
-            <div class="card-body p-2">
-              <div class="row">
-                <div class="col-12" title="{{ .title }}">
-                  <span class="badge text-bg-primary">Session {{ .id }}</span>
-                  <span class="badge text-bg-primary">
-                    <i class="fa-light fa-clock"></i> {{ .duration }}
-                  </span>
-                  {{ .title }}
-                </div>
-                <div class="col-12">
-                  {{ .overview | markdownify }}
-                </div>
-                <div class="col-12">
-                  Assignement: (optional)
-                  {{ .assignement | markdownify }}
-                </div>
+          <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
+            <div class="card-body p-4 px-20">
+              <h3 class="ttl-nkdagility h5 text-start">
+                {{ .title }}
+              </h3>
+              <div>
+                <span class="badge text-bg-primary">Module {{ .id }}</span>
+                <span class="badge text-bg-primary"> <i class="fa-light fa-clock"></i> {{ .duration }}+ </span>
               </div>
-              <div class="row">
-                <div class="col-6">
-                  {{/* <span class="badge text-bg-warning" title="There are no longer any seats available.">SOLD OUT</span>
-                    <span class="badge text-bg-success" title="There are seats available">SEATS</span>
-                    <span class="badge rounded-pill bg-secondary">learning experience</span>
-                  */}}
-                </div>
-                <div class="col-6">
-                  <div class="btn-group float-end" role="group" aria-label="Basic example">
-                    <!-- Add buttons here if needed -->
+              <div class="card-text text-muted">
+                {{ .content | markdownify }}
+              </div>
+              {{ if .learningResources }}
+                <div class="m-2"></div>
+                <div>
+                  <!-- Toggle buttons with dynamic icons -->
+                  <button class="btn btn-link text-start p-0 toggle-btn" data-bs-toggle="collapse" data-bs-target="#learningResources-{{ $index }}" aria-expanded="false" aria-controls="learningResources-{{ $index }}">
+                    <h4 class="card-title nkdagility-primary h6 text-start">
+                      Learning Resources
+                      <i class="fa fa-chevron-down rotate-icon"></i>
+                    </h4>
+                  </button>
+                  <div id="learningResources-{{ $index }}" class="collapse">
+                    <ul class="list-group list-group-flush">
+                      {{ range sort .learningResources "weight" }}
+                        {{ if not .draft }}
+                          <li class="list-group-item d-flex align-items-center small">
+                            <div class="badge text-bg-secondary me-1">{{ .duration }}m</div>
+                            <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
+                            {{- $isExternal := strings.HasPrefix .link "http" -}}
+                            {{- if $isExternal }}
+                              <a href="{{ .link | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
+                                {{ .title }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
+                              </a>
+                            {{- else }}
+                              <a href="{{ .link | safeURL }}"> {{ .title }} </a>
+                            {{- end }}
+                          </li>
+                        {{ end }}
+                      {{ end }}
+                    </ul>
                   </div>
                 </div>
-              </div>
+              {{ end }}
+              {{ if .assignement }}
+                <div class="m-2"></div>
+                <div>
+                  {{ if .assignement.content }}
+                    <button class="btn btn-link text-start p-0 mt-2 toggle-btn" data-bs-toggle="collapse" data-bs-target="#assignment-{{ $index }}" aria-expanded="false" aria-controls="assignment-{{ $index }}">
+                      <h4 class="card-title nkdagility-primary h6 text-start">
+                        Assignment*:
+                        {{ .assignement.title }}
+                        <i class="fa fa-chevron-down rotate-icon"></i>
+                      </h4>
+                    </button>
+                    <div id="assignment-{{ $index }}" class="collapse">
+                      {{ .assignement.content | markdownify }}
+                    </div>
+                  {{ else }}
+                    <h4 class="card-title nkdagility-primary h6 text-start">
+                      Assignment*:
+                      {{ .assignement.title }}
+                    </h4>
+                  {{ end }}
+                </div>
+              {{ end }}
             </div>
           </div>
           <!-- Card END -->
@@ -44,9 +95,46 @@
     {{ else }}
       <div class="col-12 p-2">The syllabus is available upon request.</div>
     {{ end }}
-    <div class="col-12 p-2">
+    <div class="col-12 p-4">
+      <p>* Assignments are part of our Immersive Training Programs, encouraging participants to apply their learning practically between sessions for a more hands-on experience.</p>
       <p>If we don't have dates that suit you, please <a href="/subscribe-newsletter/">sign up to be the first</a> to know, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.</p>
+      <p>For those looking for a more guided, continuous learning journey, explore our <a href="/capabilities/mentor-programs/">Mentor Programs</a>, where you can engage in a series of immersive learning sessions combined with ongoing mentorship.</p>
     </div>
   </div>
   <hr />
 </section>
+
+<!-- Add CSS for rotating the icon -->
+<style>
+  .rotate-icon {
+    transition: transform 0.3s ease;
+  }
+  .rotate-icon.rotate {
+    transform: rotate(180deg);
+  }
+</style>
+<!-- JavaScript to handle chevron rotation and initial state -->
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Select all collapse toggle buttons
+    document.querySelectorAll(".toggle-btn").forEach((button) => {
+      const icon = button.querySelector(".rotate-icon");
+      const targetId = button.getAttribute("data-bs-target");
+      const targetElement = document.querySelector(targetId);
+
+      // Set the initial state of the icon
+      if (targetElement.classList.contains("show")) {
+        icon.classList.add("rotate");
+      }
+
+      // Add event listeners to handle rotation
+      targetElement.addEventListener("show.bs.collapse", () => {
+        icon.classList.add("rotate");
+      });
+
+      targetElement.addEventListener("hide.bs.collapse", () => {
+        icon.classList.remove("rotate");
+      });
+    });
+  });
+</script>
