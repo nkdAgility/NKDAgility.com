@@ -104,37 +104,14 @@
   <hr />
 </section>
 
-<!-- Add CSS for rotating the icon -->
+<!-- Add CSS for rotating the icon using Bootstrap collapse classes -->
 <style>
   .rotate-icon {
     transition: transform 0.3s ease;
   }
-  .rotate-icon.rotate {
+  .collapse.show + .rotate-icon,
+  .btn[aria-expanded="true"] .rotate-icon {
     transform: rotate(180deg);
   }
 </style>
-<!-- JavaScript to handle chevron rotation and initial state -->
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    // Select all collapse toggle buttons
-    document.querySelectorAll(".toggle-btn").forEach((button) => {
-      const icon = button.querySelector(".rotate-icon");
-      const targetId = button.getAttribute("data-bs-target");
-      const targetElement = document.querySelector(targetId);
-
-      // Set the initial state of the icon
-      if (targetElement.classList.contains("show")) {
-        icon.classList.add("rotate");
-      }
-
-      // Add event listeners to handle rotation
-      targetElement.addEventListener("show.bs.collapse", () => {
-        icon.classList.add("rotate");
-      });
-
-      targetElement.addEventListener("hide.bs.collapse", () => {
-        icon.classList.remove("rotate");
-      });
-    });
-  });
-</script>
+<!-- Remove JavaScript for chevron rotation -->
