@@ -111,8 +111,7 @@ syllabus:
       title: Complexity and Empiricism
       content: |
         **ASK**: _Facilitate a discussion within your organization about how your organization could benefit from Agile and Scrum and what would be potential hindrance tapping the full potential in the current environment. Share results from this discussion with the class and explain how you ensured that everyone had a good understanding of complexity and empiricism._
-
-        Examples of what you can try:
+      examples: |
         - Explain complexity and empiricism by using the Stacey chart, Cynefin Framework or something else.
         - Use the exercise to identify parameters influencing a product development and how predictable they are.
         - Create a one-pager describing the goals that the organization wants to achieve by using Scrum and Agile.
@@ -240,15 +239,14 @@ syllabus:
       title: Are we doing Scrum?
       content: |
         **ASK**: _Assess the effectiveness of your current progress towards the goals you have defined in the previous assignment. Describe the differences between your current process and Scrum as it is defined in the Scrum Guide. Create a 15% solution about what to change to improve your current situation and gather feedback about these from other people in your organization._
-
-        Examples of what you can try:
+      examples: |
         - Create ideas of how to improve a specific Scrum event that will be held during the assignment period and run an experiment to find out how these improvements impact the event.
         - Create a list of deviations of your current process from Scrum as defined in the Scrum Guide and how these could impact your ability to achieve the goals defined in the previous assignment.
         - Create ideas of how to improve a specific Scrum artifact and run an experiment to find out how these improvements impact the value of the artifact. Interview team members to find out what they think about the change after it has been applied.
         - Evaluate how your current process is supporting empiricism and where there might be opportunities to improve. Identify which elements of the Scrum Framework might help with this improvement and execute at least one experiment to apply one of these changes.
         - Interview your Product Owner how they would describe their accountability and discuss differences as the Scrum Guide defines the accountabilities.
-        - Facilitate a discussion with your Scrum Team(s) how they see a Scrum Master can support them and how they currently see the accountability of a Scrum Master. 
-        - Discuss with your stakeholders the effectiveness of your Sprint Reviews and how these help with creating transparency to inspect and adapt. 
+        - Facilitate a discussion with your Scrum Team(s) how they see a Scrum Master can support them and how they currently see the accountability of a Scrum Master.
+        - Discuss with your stakeholders the effectiveness of your Sprint Reviews and how these help with creating transparency to inspect and adapt.
         - Facilitate a discussion with your Scrum Team(s) about the Scrum Values and how they might help the team to better collaborate with each other and with people outside the team.
         - Discuss with your team(s) how effective your Sprint Retrospectives are to apply transparency, inspection and adaptation about self-management and the ability of the team to deliver value. Define and execute at least one experiment to improve the effectiveness of your Sprint Retrospectives.
         - Discuss with your team(s) how effective your Product Backlog Refinement is to generate a broader picture of what to achieve and if it helps to identify ways to achieve more with less.
@@ -308,8 +306,8 @@ syllabus:
       title: Shift Left
       content: |
         **Assignment**: _Evaluate how consistently your team delivers a Done Increment and examine the level of uncertainty or surprises that these Increments may still include. Reflect on the current Definition of Done and its effectiveness in achieving consistent delivery. Identify areas for improvement, experiment with at least one change, and share your insights._
-
-        Examples of what you can try:
+        These tasks aim to foster a deeper understanding of what Done means within your team and help drive continuous improvement by refining the Definition of Done.
+      examples: |
         - If your team does not currently use a Definition of Done, facilitate a discussion to raise awareness of its importance. Work with your Scrum Team to establish an initial Definition of Done that can be continuously inspected and adapted.
         - Add criteria to your Definition of Done to reduce uncertainty and avoid last-minute surprises, ensuring higher quality and consistency.
         - Remove criteria from your Definition of Done that are not contributing to quality and are creating obstacles to frequent Done Increments.
@@ -323,9 +321,6 @@ syllabus:
         - If QA processes are conducted at the end of the Sprint, run an experiment to start QA earlier and assess its impact.
         - If QA is handled exclusively by dedicated team members, experiment by involving other team members in the QA process, such as through pairing with QA personnel.
         - If QA is done outside the team, try conducting QA within the team and within the Sprint, and observe any changes in the process.
-
-        These tasks aim to foster a deeper understanding of what Done means within your team and help drive continuous improvement by refining the Definition of Done.
-
   - id: 4
     title: Product Delivery with Scrum
     duration: 160
@@ -365,8 +360,7 @@ syllabus:
       title: Empirical vs Waterfall
       content: |
         **Ask**: _Assess how much empiricism your team is using to plan product delivery and apply at least one experiment to make it even more empirical._
-
-        Examples of what you can try:
+      examples: |
         - Assess if your team and your organization is more using a product or a project mindset for the product you are developing with your team. How is unpredictability currently handled? Have a conversation with some stakeholders how you could benefit from moving more towards a product mindset and which objections people have.
         - Assess if there is a proper Product Goal in place and if the Product Backlog is organized in a way that helps achieving the Product Goal.
         - Facilitate a Product Backlog refinement to improve understanding, granularity and transparency to help better achieve the Product Goal.
@@ -398,9 +392,7 @@ syllabus:
       title: Collaboration is Key
       content: |
         **Ask** _Assess together with your team how they currently work together and what could be improved. Run at least one experiment that could help the team to become more collaborative. _
-
-        Examples of what you can try:
-
+      examples: |
         - Facilitate a discussion about autonomy, mastery and purpose with your team(s) and identify how you as a Scram Master can help the team(s) to improve in these areas. Run at least one experiment with one improvement.
         - Facilitate a discussion with your teams how you could improve “Intrinsic motivation” and run at least one experiment in this area.
         - Facilitate a discussion with your teams how you could improve “Effective collaboration” and run at least one experiment in this area.
@@ -425,8 +417,7 @@ syllabus:
       content: |
         **Ask** _Create a plan of various activities that you could do to help your team to grow and become more agile and identify the skills that you should learn and traits that you should exemplify to support your team and your organization on this journey._
 
-        Examples of what you can try:
-
+      examples: |
         - Hold a retrospective with your team to understand how they will describe the service you as a Scrum Master are providing for them and their expectations of how you could better support them.
         - Hold a retrospective with the stakeholders of your team to understand how they will describe the service you as a Scrum Master are providing for them and the organization as well as how they think you could help the team and the organization to improve the value delivered to customers.
         - Look back at the learnings from the class and create a “personal growth backlog” that describes topics you want to learn more about and skills that you want to acquire.

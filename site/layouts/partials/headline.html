@@ -48,7 +48,7 @@
   {{ if and (isset .Params.headline "cards") (not (eq .Params.headline.cards nil)) }}
     {{ if gt (len .Params.headline.cards) 0 }}
       {{ range .Params.headline.cards }}
-        <div class="col-12 col-sm-6 col-lg-4 d-flex">
+        <div class="col-xl-4 d-flex">
           <!-- prettier-ignore -->
           {{ partial "card.html" (dict "class" "herocards" "isExpandable" true "title" .title "content" .content "link" .link) }}
         </div>

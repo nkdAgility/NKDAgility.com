@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nkda-heading-secondary {
-    color: var(--primary-color);
+    color: initial;
     font-size: clamp(0.8rem, 2vw + 1rem, 1.2rem);
 }
 
