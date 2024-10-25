@@ -76,14 +76,13 @@ syllabus:
   - id: 1
     title: Theory & First Principles
     duration: 120
-    overview: Gain understanding of complexity in software environments; How empiricism controls risk, and provides predictability in complex environments; What is agility and what is Scrum’s place within the Agile discussion?
+    content: Gain understanding of complexity in software environments; How empiricism controls risk, and provides predictability in complex environments; What is agility and what is Scrum’s place within the Agile discussion?
     assignement: Complexity and Empiricism
-    details:
-    selfPacedContent:
+    learningResources:
       - title: The New New Product Development Game
         link: https://hbr.org/1986/01/the-new-new-product-development-game
         duration: 20
-        type: article
+        type: newspaper
         weight: 1
         content: |
           **Overview of "The New New Product Development Game"**
@@ -130,7 +129,7 @@ syllabus:
       - title: A Leader’s Framework for Decision Making
         link: https://hbr.org/2007/11/a-leaders-framework-for-decision-making
         duration: 20
-        type: article
+        type: newspaper
         weight: 1
       - title: Empiricism is an Essential Element of Scrum
         link: https://youtu.be/q603WTOSYDk
@@ -145,11 +144,12 @@ syllabus:
       - title: Agile is constant change
         link: https://www.scrum.org/resources/blog/agile-constant-change
         duration: 3
-        type: article
+        type: blog
         weight: 1
       - title: So What is Agile Really About?
         duration: 5
-        type: article
+        type: blog
+        draft: true
         weight: 1
         content: |
           Although the term “Agile” in the context of software development is quite well known, the definitions vary. Therefore I shared the most common descriptions of Agile, for example:
@@ -222,10 +222,9 @@ syllabus:
   - id: 2
     title: The Scrum Framework
     duration: 120
-    overview: " See that each part of Scrum ties back to the principles and theory, while exposing waste; Focus on the accountability of the rolls, the transparency of the artefacts, and the feedback loops of the Events."
+    content: " See that each part of Scrum ties back to the principles and theory, while exposing waste; Focus on the accountability of the rolls, the transparency of the artefacts, and the feedback loops of the Events."
     assignement: Are we doing Scrum?
-    details:
-    selfPacedContent:
+    learningResources:
       - title: The Scrum Guide
         link: https://scrumguides.org
         duration: 60
@@ -234,38 +233,32 @@ syllabus:
   - id: 3
     title: Done
     duration: 60
-    overview: It is fundamentally imposible to get transparency without Done
+    content: It is fundamentally imposible to get transparency without Done
     assignement: Shift Left
-    details:
   - id: 4
     title: Product Delivery with Scrum
     duration: 160
-    overview: Understand how to organize Product Backlog; Practical tips to deal with estimates and value on a Product Backlog; Be confronted with ingrained, old habits like calculating, promising certainty, & predicting the future
+    content: Understand how to organize Product Backlog; Practical tips to deal with estimates and value on a Product Backlog; Be confronted with ingrained, old habits like calculating, promising certainty, & predicting the future
     assignement: Empirical vs Waterfall
-    details:
   - id: 5
     title: People & Teams
     duration: 90
-    overview: To understand how Scrum Teams are formed and become effective and the productivity and creativity that can be gained through self-organization.
+    content: To understand how Scrum Teams are formed and become effective and the productivity and creativity that can be gained through self-organization.
     assignement: Collaboration is Key
-    details:
   - id: 6
     title: The Scrum Master
     duration: 60
-    overview: Skills and traits of a Scrum Master; The challenges for a Scrum Master in helping teams and the organization in using Scrum to become Agile; The behavioural shift in being a Scrum Master.
+    content: Skills and traits of a Scrum Master; The challenges for a Scrum Master in helping teams and the organization in using Scrum to become Agile; The behavioural shift in being a Scrum Master.
     assignement: How to Become a Great Scrum Master
-    details:
   - id: 7
     title: Closing
     duration: 30
-    overview: Wrapup and final questions
+    content: Wrapup and final questions
     assignement: Take the PSM I assessment.
-    details:
   - id: 8
     title: Catchup
     duration: 120
-    overview: Post course catchup and questions
-    details:
+    content: Post course catchup and questions
 events:
   - start_date: 2025-01-23
     location: Virtual
