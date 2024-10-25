@@ -107,7 +107,7 @@ syllabus:
     duration: 120
     content: |
       Participants are able to evaluate the concepts of complexity and empiricism in their context and determine with others in their organization whether Scrum is appropriate for their environment.
-    assignement:
+    assignment:
       title: Complexity and Empiricism
       content: |
         **ASK**: _Facilitate a discussion within your organization about how your organization could benefit from Agile and Scrum and what would be potential hindrance tapping the full potential in the current environment. Share results from this discussion with the class and explain how you ensured that everyone had a good understanding of complexity and empiricism._
@@ -232,50 +232,50 @@ syllabus:
 
           *Taken from "So What is Agile Really About?" by Barry Overeem*
   - id: 2
-    title: The Scrum Framework
+    title: "The Scrum Framework"
     duration: 120
-    content: "Participants can interpret the accountabilities, artifacts, and events of the Scrum framework, their purpose, how they are related, and how they collectively enable teams and organizations to solve complex problems."
-    assignement:
-      title: Are we doing Scrum?
+    content: "Participants will learn to interpret the roles, artifacts, and events of the Scrum framework, understand their purpose, how they relate to each other, and how they collectively help teams and organizations address complex problems."
+    assignment:
+      title: "Are We Doing Scrum?"
       content: |
-        **ASK**: _Assess the effectiveness of your current progress towards the goals you have defined in the previous assignment. Describe the differences between your current process and Scrum as it is defined in the Scrum Guide. Create a 15% solution about what to change to improve your current situation and gather feedback about these from other people in your organization._
+        **Ask:** _Evaluate how effectively your current practices align with the goals defined in the previous assignment. Identify differences between your current process and the Scrum framework as described in the Scrum Guide. Develop a '15% solution'—a small, initial change that could improve your current situation—and gather feedback from others in your organization on this proposal._
       examples: |
-        - Create ideas of how to improve a specific Scrum event that will be held during the assignment period and run an experiment to find out how these improvements impact the event.
-        - Create a list of deviations of your current process from Scrum as defined in the Scrum Guide and how these could impact your ability to achieve the goals defined in the previous assignment.
-        - Create ideas of how to improve a specific Scrum artifact and run an experiment to find out how these improvements impact the value of the artifact. Interview team members to find out what they think about the change after it has been applied.
-        - Evaluate how your current process is supporting empiricism and where there might be opportunities to improve. Identify which elements of the Scrum Framework might help with this improvement and execute at least one experiment to apply one of these changes.
-        - Interview your Product Owner how they would describe their accountability and discuss differences as the Scrum Guide defines the accountabilities.
-        - Facilitate a discussion with your Scrum Team(s) how they see a Scrum Master can support them and how they currently see the accountability of a Scrum Master.
-        - Discuss with your stakeholders the effectiveness of your Sprint Reviews and how these help with creating transparency to inspect and adapt.
-        - Facilitate a discussion with your Scrum Team(s) about the Scrum Values and how they might help the team to better collaborate with each other and with people outside the team.
-        - Discuss with your team(s) how effective your Sprint Retrospectives are to apply transparency, inspection and adaptation about self-management and the ability of the team to deliver value. Define and execute at least one experiment to improve the effectiveness of your Sprint Retrospectives.
-        - Discuss with your team(s) how effective your Product Backlog Refinement is to generate a broader picture of what to achieve and if it helps to identify ways to achieve more with less.
-        - Run a Scrum simulation with your team where every element of the Scrum Framework should be used as defined in the Scrum Guide. Research the internet to find good examples for such a simulation or create your own one.
+        - Identify potential improvements to a specific Scrum event that will take place during the assignment period. Run an experiment to test how these changes affect the event's outcome.
+        - Create a list of deviations between your current practices and the Scrum framework as defined in the Scrum Guide. Analyze how these deviations might impact your ability to achieve your goals.
+        - Suggest improvements for a specific Scrum artifact, then run an experiment to assess the impact of these changes. Collect feedback from team members on their experiences with the adjustments.
+        - Evaluate how well your current process supports empiricism and identify areas for improvement. Experiment with incorporating specific elements of the Scrum framework to address these opportunities.
+        - Interview your Product Owner about their understanding of their role and compare it to the responsibilities outlined in the Scrum Guide. Discuss any differences and areas for improvement.
+        - Facilitate a discussion with your Scrum Team(s) on how they perceive the Scrum Master’s role and how it could better support the team. Use this feedback to identify potential improvements.
+        - Engage stakeholders in a discussion about the effectiveness of Sprint Reviews in creating transparency and fostering an environment of inspection and adaptation.
+        - Facilitate a conversation with your Scrum Team(s) about the Scrum Values and how they can enhance collaboration within the team and with external parties. Identify specific actions to reinforce these values.
+        - Assess the effectiveness of your Sprint Retrospectives in supporting transparency, inspection, and adaptation related to self-management and value delivery. Run an experiment to enhance the Retrospectives' effectiveness.
+        - Review your Product Backlog Refinement process to determine if it is helping create a clearer vision of what to achieve. Experiment with new approaches to make the process more efficient and valuable.
+        - Conduct a Scrum simulation with your team, ensuring that every element of the Scrum framework is used as defined in the Scrum Guide. Look for examples of such simulations online or design your own.
     learningResources:
-      - title: The Scrum Guide
+      - title: "The Scrum Guide"
         link: https://scrumguides.org
         duration: 60
-        type: handshake-angle
+        type: "handshake-angle"
         weight: 1
-      - title: Planning in Scrum
+      - title: "Planning in Scrum"
         link: https://youtu.be/08wArN-Tkhk
         duration: 5
-        type: video
+        type: "video"
         weight: 1
-      - title: The Daily Scrum is NOT a Status Meeting
+      - title: "The Daily Scrum is NOT a Status Meeting"
         link: https://youtu.be/i7_RPceEIYE
         duration: 7
-        type: video
+        type: "video"
         weight: 1
-      - title: Effective Sprint Planning
+      - title: "Effective Sprint Planning"
         link: https://youtu.be/syXnhduPxqM
         duration: 5
-        type: video
+        type: "video"
         weight: 1
-      - title: Slaying Technical Debt
+      - title: "Slaying Technical Debt"
         link: https://youtu.be/vLRH0HCXZek
         duration: 5
-        type: video
+        type: "video"
         weight: 1
   - id: 3
     title: Done
@@ -302,7 +302,7 @@ syllabus:
         duration: 13
         type: video
         weight: 1
-    assignement:
+    assignment:
       title: Shift Left
       content: |
         **Assignment**: _Evaluate how consistently your team delivers a Done Increment and examine the level of uncertainty or surprises that these Increments may still include. Reflect on the current Definition of Done and its effectiveness in achieving consistent delivery. Identify areas for improvement, experiment with at least one change, and share your insights._
@@ -356,7 +356,7 @@ syllabus:
         duration: 10
         type: blog
         weight: 1
-    assignement:
+    assignment:
       title: Empirical vs Waterfall
       content: |
         **Ask**: _Assess how much empiricism your team is using to plan product delivery and apply at least one experiment to make it even more empirical._
@@ -388,7 +388,7 @@ syllabus:
         duration: 20
         type: presentation
         weight: 1
-    assignement:
+    assignment:
       title: Collaboration is Key
       content: |
         **Ask** _Assess together with your team how they currently work together and what could be improved. Run at least one experiment that could help the team to become more collaborative. _
@@ -412,7 +412,7 @@ syllabus:
     title: The Scrum Master
     duration: 60
     content: Participant is able to assess their own behavior as a Scrum Master in terms of how they help teams achieve their goals, and assess their own ability to make deliberate choices about how to enable team growth.
-    assignement:
+    assignment:
       title: How to Become a Great Scrum Master
       content: |
         **Ask** _Create a plan of various activities that you could do to help your team to grow and become more agile and identify the skills that you should learn and traits that you should exemplify to support your team and your organization on this journey._
@@ -434,7 +434,7 @@ syllabus:
     title: Closing
     duration: 30
     content: As we conclude the Scrum Master course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
-    assignement:
+    assignment:
       title: Take the PSM I assessment.
       content: |
         - Passing score: 85%
@@ -445,7 +445,7 @@ syllabus:
           - English
           - 简体中文 (Simplified Chinese) available through www.scrum.org.cn
         - Free [Credly](https://www.credly.com/users/sign_in) digital credential included
-        - Practice Assessment: [Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
+        - Practice assignment[Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
         - Passwords have no expiration date, but are valid for one attempt only
         - Lifetime certification - no annual renewal fee required
   - id: 8

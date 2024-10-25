@@ -14,7 +14,11 @@
       information, visit our <a href="/capabilities/mentor-programs/">Mentor Programs</a> page.
     </li>
   </ul>
-  <p>Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment.</p>
+  <p>
+    Our immersive programs empower growth through incremental learning, outcome-based assignments, and facilitated reflections, ensuring that the skills you gain are practical, applicable, and ready to be used in your work environment. Facilitated
+    Reflections are a cornerstone of our immersive approach, allowing participants to engage deeply with the material. In each session, you will have the opportunity to reflect on your learning, discuss challenges and successes with peers, and gain
+    actionable feedback from professional trainers. These reflective sessions enhance understanding, foster continuous improvement, and support your growth in a collaborative environment.
+  </p>
 
   <div class="row">
     {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
@@ -65,22 +69,22 @@
                   </div>
                 </div>
               {{ end }}
-              {{ if .assignement }}
+              {{ if .assignment }}
                 <div class="m-2"></div>
                 <div>
-                  {{ if .assignement.content }}
+                  {{ if .assignment.content }}
                     <button class="btn btn-link text-start p-0 mt-2 toggle-btn" data-bs-toggle="collapse" data-bs-target="#assignment-{{ $index }}" aria-expanded="false" aria-controls="assignment-{{ $index }}">
                       <h4 class="card-title nkdagility-primary h6 text-start">
                         Assignment*:
-                        {{ .assignement.title }}
+                        {{ .assignment.title }}
                         <i class="fa fa-chevron-down rotate-icon"></i>
                       </h4>
                     </button>
                     <div id="assignment-{{ $index }}" class="collapse">
                       <div>
-                        {{ .assignement.content | markdownify }}
+                        {{ .assignment.content | markdownify }}
                       </div>
-                      {{ if .assignement.examples }}
+                      {{ if .assignment.examples }}
                         <div>
                           <!-- Button trigger modal -->
                           <a href="#" class="btn btn-link mt-3" data-bs-toggle="modal" data-bs-target="#examplesModal-{{ $index }}">View Examples</a>
@@ -90,11 +94,11 @@
                             <div class="modal-dialog modal-xl">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="examplesModalLabel-{{ $index }}">Assignement Examples for {{ .assignement.title }}</h5>
+                                  <h5 class="modal-title" id="examplesModalLabel-{{ $index }}">assignment Examples for {{ .assignment.title }}</h5>
                                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                  {{ .assignement.examples | markdownify }}
+                                  {{ .assignment.examples | markdownify }}
                                 </div>
                                 <div class="modal-footer">
                                   <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -108,7 +112,7 @@
                   {{ else }}
                     <h4 class="card-title nkdagility-primary h6 text-start">
                       Assignment*:
-                      {{ .assignement.title }}
+                      {{ .assignment.title }}
                     </h4>
                   {{ end }}
                 </div>
