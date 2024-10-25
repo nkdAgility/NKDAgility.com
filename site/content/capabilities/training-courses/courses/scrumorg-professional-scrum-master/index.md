@@ -57,7 +57,17 @@ overview: |
 
   Explore the various focus areas covered within this class and other courses offered by NKD Agility. If you have any questions or would like to discuss your training needs, please [contact us](/contact/).
 
-outcomes:
+outcomes: |
+  - Help Scrum Teams deliver value to their organization
+  - Understand the theory and principles behind Scrum and empiricism
+  - Understand how each part of the Scrum framework ties back to the principles and theory
+  - Understand uncertainty and complexity in product delivery
+  - Understand the meaning and importance of the Scrum values
+  - Learn what Done means and why it is crucial to transparency
+  - Know how to use the Product Backlog to plan with agility
+  - Understand the importance of self-managing teams, interpersonal skills needed, and the Scrum Master role
+  - Clarify the leadership role a Scrum Master plays on the team
+  - Learn the skills and traits and behavior shifts required to be a Scrum Master
 assessment:
   icon: Scrumorg-Assessment-PSM-I.png
   content: |
