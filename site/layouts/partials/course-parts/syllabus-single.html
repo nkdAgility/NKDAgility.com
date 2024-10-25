@@ -77,7 +77,9 @@
                       </h4>
                     </button>
                     <div id="assignment-{{ $index }}" class="collapse">
-                      {{ .assignement.content | markdownify }}
+                      <div class="text-expander">
+                        {{ .assignement.content | markdownify }}
+                      </div>
                     </div>
                   {{ else }}
                     <h4 class="card-title nkdagility-primary h6 text-start">
