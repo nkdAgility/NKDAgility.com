@@ -16,7 +16,7 @@
 {{ define "main" }}
   <section class="container my-5" style="max-width: 700px !important">{{ .Content }}</section>
   <section class="container my-5 text-center" style="max-width: 700px !important">
-    <!-- LikeBtn.com BEGIN -->
+    {{/*  <!-- LikeBtn.com BEGIN -->
     <span class="likebtn-wrapper" data-ef_voting="push" data-white_label="true" data-identifier="{{ .Permalink }}"></span>
     <script>
       (function (d, e, s) {
@@ -29,7 +29,7 @@
         m.parentNode.insertBefore(a, m);
       })(document, "script", "//w.likebtn.com/js/w/widget.js");
     </script>
-    <!-- LikeBtn.com END -->
+    <!-- LikeBtn.com END -->  */}}
   </section>
   <section class="container my-5">
     <div class="share-links text-center">
@@ -47,6 +47,24 @@
         <a class="btn btn-secondary mx-2" href="mailto:?subject={{ .Title }}&body={{ .Permalink }}"> <i class="fas fa-envelope"></i> Email </a>
       </div>
     </div>
+  </section>
+  <section class="container my-5 p-2" style="max-width: 700px !important">
+    <script
+      src="https://giscus.app/client.js"
+      data-repo="nkdAgility/NKDAgility.com"
+      data-repo-id="R_kgDOMvsNvw"
+      data-category="General"
+      data-category-id="DIC_kwDOMvsNv84CicFE"
+      data-mapping="og:title"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="1"
+      data-input-position="bottom"
+      data-theme="light"
+      data-lang="en"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async></script>
   </section>
 {{ end }}
 {{ define "template" }}
