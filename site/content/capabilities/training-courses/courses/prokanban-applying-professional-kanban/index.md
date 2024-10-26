@@ -18,6 +18,8 @@ course-topics:
   - Kanban Training Courses
 course-vendors:
   - ProKanban.org
+course-learning-experiences:
+  - Traditional
 tags:
   - certification
   - kanban

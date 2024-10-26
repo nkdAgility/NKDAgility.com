@@ -14,6 +14,8 @@ course-topics:
   - Scrum Training Courses
 course-vendors:
   - Accentient
+course-learning-experiences:
+  - Traditional
 tags:
 categories:
   - agility

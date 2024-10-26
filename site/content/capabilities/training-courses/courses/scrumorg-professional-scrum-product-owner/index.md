@@ -18,6 +18,9 @@ course-topics:
   - Scrum Training Courses
 course-vendors:
   - Scrum.org
+course-learning-experiences:
+  - Immersive
+  - Traditional
 tags:
   - certification
   - product-owner
