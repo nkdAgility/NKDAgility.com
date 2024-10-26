@@ -1,20 +1,31 @@
 {{ define "headline" }}
-  <section class="container my-2" style="max-width: 700px !important">
-    <div class="row p-2">
+<section class="container my-2" style="max-width: 700px !important">
+  <div class="row p-2">
+    <div class="col-12">
+      <h1 class="mb-4 nkda-heading-primary">{{ .Title | markdownify }}</h1>
+      </div>
       <div class="col-12">
-        <h1 class="mb-4 nkda-heading-primary">{{ .Title | markdownify }}</h1>
         <div class="text-muted">
           Published <a href="{{ .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time></a>
         </div>
         <div class="text-muted">{{ partial "resources/contributors.html" . }}</div>
+        <div class="text-muted">          
+          {{- $urlPath := strings.Replace .File.Path "\\" "/" -1 -}}
+          Contribute on <a href="{{ site.Params.editURL }}{{ $urlPath }}" target="_blank">GitHub</a>
+        </div>
         <div class="text-muted">{{ .ReadingTime }} minute read</div>
+        
         <hr />
-      </div>
     </div>
-  </section>
+  </div>
+</section>
 {{ end }}
+
 {{ define "main" }}
-  <section class="container my-5" style="max-width: 700px !important">{{ .Content }}</section>
+  <section class="container my-5" style="max-width: 700px !important">
+    {{ .Content }}
+  </section>
+  
   <section class="container my-5 text-center" style="max-width: 700px !important">
     {{/*  <!-- LikeBtn.com BEGIN -->
     <span class="likebtn-wrapper" data-ef_voting="push" data-white_label="true" data-identifier="{{ .Permalink }}"></span>
@@ -31,6 +42,7 @@
     </script>
     <!-- LikeBtn.com END -->  */}}
   </section>
+  
   <section class="container my-5">
     <div class="share-links text-center">
       <h3>Share this post:</h3>
@@ -48,6 +60,7 @@
       </div>
     </div>
   </section>
+  
   <section class="container my-5 p-2" style="max-width: 700px !important">
     <script
       src="https://giscus.app/client.js"
@@ -64,9 +77,11 @@
       data-lang="en"
       data-loading="lazy"
       crossorigin="anonymous"
-      async></script>
+      async>
+    </script>
   </section>
 {{ end }}
+
 {{ define "template" }}
   resources/blog.html
 {{ end }}

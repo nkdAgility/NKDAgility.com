@@ -2,6 +2,9 @@
 title: How to Set and Achieve Effective Sprint Goals
 date: 2023-09-29
 creator: Martin Hinshelwood
+contributors:
+  - name: Ralph Jocham
+    external: https://www.scrum.org/ralph-jocham
 id: "50115"
 layout: blog
 resourceType: blog
@@ -19,8 +22,6 @@ preview: NKDAgility-technically-SetEffectiveSprintGoals-1-1.jpg
 ---
 
 Many teams grapple with the intricacies of Scrum, and one of the most pivotal components is the Sprint Goal. It's not just a fleeting thought or a mere list of tasks; it's a commitment, a promise, and a clear direction.
-
-> Thanks to our reviewers: [Ralph Jocham | Scrum.org](https://www.scrum.org/ralph-jocham)
 
 ## TLDR;
 
@@ -40,7 +41,7 @@ Some folks prefer to watch than to read :), and we have you covered:
 
 <figure>
 
-https://youtu.be/2Cy9MxXiiOo?si=cJo6bTiWRqpJmomk
+{{< youtube 2Cy9MxXiiOo >}}
 
 <figcaption>
 
@@ -52,7 +53,7 @@ This video sheds light on the concept of a Sprint goal in the Scrum context. It 
 
 <figure>
 
-https://youtu.be/GJSBFyoHk8E?si=cmUARrJ3JNliEPrR
+{{< youtube GJSBFyoHk8E >}}
 
 <figcaption>
 
@@ -64,7 +65,7 @@ Here, the process of crafting a Sprint goal is unravelled. Teams can amalgamate 
 
 <figure>
 
-https://youtu.be/Srwxg7Etnr0?si=NFNPGOb318mtvJ8v
+{{< youtube Srwxg7Etnr0 >}}
 
 <figcaption>
 
@@ -76,7 +77,7 @@ Addressing the often-asked question of how a Scrum team decides on a Sprint goal
 
 <figure>
 
-https://youtu.be/AY35ys1uQOY?si=xS11OzGz-MnyDxZv
+{{< youtube AY35ys1uQOY >}}
 
 <figcaption>
 
