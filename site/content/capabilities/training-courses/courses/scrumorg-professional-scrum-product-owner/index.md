@@ -87,6 +87,16 @@ syllabus:
     title: Agile Product Management I (Product vs. Project)
     duration: 120
     content: Students will be able to evaluate their current situation regarding product vs. project mindset and apply changes to move their organization more towards a product mindset.
+    learningResources:
+      - title: "What’s Driving Your Need For Agility?"
+        link: https://www.scrum.org/resources/blog/whats-driving-your-need-agility
+        duration: 11
+        type: blog
+        weight: 1
+      - title: "What is a Product?"
+        link: https://youtu.be/k1BXZk-iCMA
+        duration: 7
+        type: video
     assignment:
       title: How can you move more towards a product mindset?
       content: Create a definition of your product, identify where your organization stands regarding product vs. project mindset and execute at least one experiment to move more towards a product mindset.
@@ -99,12 +109,32 @@ syllabus:
         - Describe how your organization and the success of your product could benefit if you would adopt a product mindset.
         - Propose at least one change that will bring your organization closer to a product mindset and see how others in your organization are reacting to it.
         - Evaluate how you are living the Product Owner accountability and run one experiment that increases your proactiveness.
-    details:
   - id: 2
     title: Agile Product Management II (Business Strategy and Product Vision)
     duration: 120
     content: |
       Students will be able describe their business strategy and their product vision in order to make assumptions more explicit and start a conversation with their stakeholders on alignment.
+    learningResources:
+      - title: Crossing The Chasm – A Quick Summary
+        link: https://www.themarketingstudent.com/crossing-the-chasm-summary/
+        duration: 15
+        type: newspaper
+        weight: 1
+      - title: "Geoffrey Moore, Crossing the Chasm: What's New, What's Not"
+        link: https://youtu.be/Zwh8ThUqeC8
+        duration: 15
+        type: video
+        weight: 1
+      - title: "10 Tips for Product Owners on the Product Vision"
+        link: https://www.scrum.org/resources/blog/10-tips-product-owners-product-vision
+        duration: 20
+        type: blog
+        weight: 1
+      - title: "How great leaders inspire action"
+        link: https://youtu.be/qp0HIF3SfI4
+        duration: 18
+        type: video
+        weight: 1
     assignment:
       title: Making assumptions explicit
       content: Create a vision and business model for your product. Share and discuss with your team and stakeholders and identify which insights this conversation creates.
@@ -119,12 +149,40 @@ syllabus:
         - Identify if there are products in your organization that should better be discontinued. What is stopping you from doing so? How could you use business strategy and technical - strategy to support the case for excel or discontinue that product?
         - Discuss the Product Vision and your Business Strategy with the Scrum Team. Are they surprised? Is this changing their perspective? Are they offering additional insights?
         - Execute at least one experiment to validate underlying assumptions of your Product Vision and Business Strategy.
-
-    details:
   - id: 3
     title: Value-Driven Development
     duration: 120
     content: Students can initiate changes to their organization’s product management by better understanding what the value of their product is and how to measure it.
+    learningResources:
+      - title: The Elements of Value
+        link: https://hbr.org/archive-toc/BR1609
+        duration: 15
+        type: newspaper
+        weight: 1
+      - title: "Empathy Driven Development: Rescuing Value From the Bermuda Triangle"
+        link: https://www.scrum.org/resources/blog/empathy-driven-development-rescuing-value-bermuda-triangle
+        duration: 15
+        type: blog
+        weight: 1
+      - title: The Evidence-based Management Guide
+        link: /resources/guides/the-evidence-based-management-guide-improving-value-delivery-under-conditions-of-uncertainty/
+        duration: 10
+        type: handshake-angle
+      - title: "4 Steps to Optimize Product Value"
+        link: https://www.scrum.org/resources/blog/scrum-mastery-4-steps-optimize-product-value
+        duration: 9
+        type: blog
+        weight: 1
+      - title: "Outcome Mapping & Scrum: The Story of Amazing Decisions"
+        link: https://www.scrum.org/resources/blog/outcome-mapping-scrum-story-amazing-decisions
+        duration: 6
+        type: blog
+        weight: 1
+      - title: "Online Experimentation at Microsoft"
+        link: https://nakedalm-my.sharepoint.com/:b:/g/personal/martin_nkdagility_com/EffbIG8QqBxKrJniI2wYossBSdCS1WVr2bEdTsYsoiFWzQ?e=6baWYU
+        duration: 60
+        type: file-pdf
+        weight: 1
     assignment:
       title: Connect measures to value
       content: Take action towards more value-focused measures.
