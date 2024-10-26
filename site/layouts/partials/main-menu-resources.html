@@ -12,7 +12,7 @@
           <div class="col-md-10">
             <div class="row">
               {{ range $resources.Pages }}
-                {{ if not .Draft }}
+                {{ if and (not .Draft) (gt (len .Pages) 0) }}
                   <div class="col-md-4">
                     <h6>{{ .Title }}</h6>
                     <ul class="list-group">
@@ -29,6 +29,7 @@
                     </ul>
                   </div>
                 {{ end }}
+
               {{ end }}
             </div>
           </div>
