@@ -1,5 +1,10 @@
 ---
 title: "Subscribe to our Newsletter"
+type: section
+aliases:
+  - /subscribe-newsletter
+  - /subscribe
+  - subscribe
 ---
 
 <!-- Begin Mailchimp Signup Form -->
