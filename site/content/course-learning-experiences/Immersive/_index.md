@@ -5,7 +5,7 @@ aliases:
   - /capabilities/training-courses/immersive
 card:
   button:
-    content: ""
+    content: "Empower groath"
   title: "Immersive Learning Experiences"
   content: "Empowering Growth Through Incremental learning, Outcome-Based assignements, and Facilitated Reflections"
 headline:

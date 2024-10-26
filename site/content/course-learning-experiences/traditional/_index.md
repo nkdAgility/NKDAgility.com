@@ -5,7 +5,7 @@ aliases:
   - /capabilities/training-courses/traditional
 card:
   button:
-    content: ""
+    content: "Traditional Classrooms"
   title: "Traditional Classroom Experiences"
   content: "Delivered as intensive consecutive full-days or non-consecutive half-days over one to two weeks!"
 headline:
