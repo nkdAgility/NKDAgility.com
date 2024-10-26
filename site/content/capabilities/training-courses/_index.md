@@ -60,6 +60,9 @@ sections:
 
       To learn and adapt together it is important that all relevant levels of the organisation participate in the same training, as the realisations are profound. All organisations are different in terms of which ways of working are effective for them. Our training will help your people explore those options in an environment within which it is safe to fail.
     type: none
+  - title: Learning Experiances
+    type: taxonomies
+    source: course-learning-experiences
   - title: Corporate Training – Private, In-House Courses
     content: Our private corporate training courses provide a customised and bespoke experinace that is tailored for your orgnaisaton to maximise value.
     type: cards
