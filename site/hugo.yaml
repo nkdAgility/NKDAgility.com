@@ -14,6 +14,7 @@ params:
   author: "Your Name"
   og_image: "/images/og-image.jpg" # URL to the default Open Graph image
   twitter_handle: "@yourhandle" # Your Twitter handle for Twitter cards
+  editURL: "https://github.com/nkdAgility/nkdagility.com/edit/main/site/content/" # URL to edit content on GitHub
 
 # Enable sitemap and robots.txt
 sitemap:
@@ -48,16 +49,19 @@ taxonomies:
   tag: tags
   course-topic: course-topics
   course-vendor: course-vendors
+  course-learning-experience: course-learning-experiences
   customer-industry: customer-industries
 
 permalinks:
   taxonomy:
     course-topics: "/capabilities/training-courses/course-topics"
     course-vendors: "/capabilities/training-courses/course-vendors"
+    course-learning-experiences: "/capabilities/training-courses/course-learning-experiences"
     customer-industry: "/company/customers/industry"
   term:
     course-topics: "/capabilities/training-courses/:slug/"
     course-vendors: "/capabilities/training-courses/:slug/"
+    course-learning-experiences: "/capabilities/training-courses/:slug/"
     customer-industry: "/company/customers/:slug/"
   page:
     resources: /:sections/:slug/

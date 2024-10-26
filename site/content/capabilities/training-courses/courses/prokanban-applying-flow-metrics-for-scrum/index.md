@@ -14,6 +14,8 @@ course-topics:
   - Kanban Training Courses
 course-vendors:
   - ProKanban.org
+course-learning-experiences:
+  - Traditional
 tags:
 categories:
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg

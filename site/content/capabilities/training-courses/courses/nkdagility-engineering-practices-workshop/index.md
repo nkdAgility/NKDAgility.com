@@ -12,6 +12,8 @@ course-topics:
   - Engineering Training Courses
 course-vendors:
   - NKDAgility
+course-learning-experiences:
+  - Traditional
 tags:
   - development
   - workshop

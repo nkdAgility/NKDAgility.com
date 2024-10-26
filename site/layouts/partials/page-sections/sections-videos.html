@@ -3,14 +3,14 @@
 <div class="row">
   {{ if and (not (eq .context.related nil)) (gt (len .context.related) 0) }}
     {{ range $index, $videos := .context.related }}
-      <div class="col-lg-6 col-sm-12 col-md-12 p-4">
+      <div class="col-lg-4 col-sm-12 col-md-12 p-4">
         <!-- Video rendering -->
         {{ $videoItem := $site.GetPage $videos }}
         {{ if $videoItem }}
           <div class="bg-white ratio ratio-16x9">
             <iframe
               class="w-100"
-              src="https://www.youtube.com/embed/{{ $videoItem.Params.videoId }}"
+              src="https://www.youtube.com/embed/{{ $videoItem.Params.videoId }}?controls=0&showinfo=0&modestbranding=1&rel=0&autohide=1"
               title="{{ $videoItem.Params.title }}"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin"

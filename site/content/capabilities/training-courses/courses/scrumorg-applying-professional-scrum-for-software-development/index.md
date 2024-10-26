@@ -22,6 +22,8 @@ course-topics:
   - Scrum Training Courses
 course-vendors:
   - Scrum.org
+course-learning-experiences:
+  - Traditional
 tags:
   - agile
   - agile-estimation

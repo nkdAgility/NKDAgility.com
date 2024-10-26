@@ -13,6 +13,8 @@ course-topics:
   - Agile Training Courses
 course-vendors:
   - Agile Kata
+course-learning-experiences:
+  - Traditional
 tags:
 categories:
   - agility

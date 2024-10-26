@@ -14,6 +14,8 @@ course-topics:
   - Azure DevOps Training Courses
 course-vendors:
   - Accentient
+course-learning-experiences:
+  - Traditional
 tags:
   - development
 categories:

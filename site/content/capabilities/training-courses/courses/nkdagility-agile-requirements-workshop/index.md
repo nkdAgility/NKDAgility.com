@@ -13,6 +13,8 @@ course-topics:
   - Agile Training Courses
 course-vendors:
   - NKDAgility
+course-learning-experiences:
+  - Traditional
 tags:
   - agile
   - agility

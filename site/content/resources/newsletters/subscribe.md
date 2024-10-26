@@ -1,5 +1,14 @@
 ---
 title: "Subscribe to our Newsletter"
+type: section
+aliases:
+  - /subscribe-newsletter
+  - /subscribe
+  - subscribe
+headline:
+  title: Subscribe to our Newsletter
+  content: "While we love helping you individually we provide much of our resultant consulting understanding here for you to use. By writing about our experiences we gain a better understanding of them ourselves. You can get notified of all content that we publish with our weekly newsletter and see exactly what we are doing and how we are doing it."
+  cards: []
 ---
 
 <!-- Begin Mailchimp Signup Form -->
