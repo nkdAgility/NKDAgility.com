@@ -1,5 +1,6 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
+description: Exploring the competency gap among Scrum Masters, this article highlights why many lack the skills needed to support effective teams. It examines common pitfalls like over-reliance on certification and lowering hiring standards, and outlines the essential skills a Scrum Master needs—ranging from Scrum and DevOps knowledge to agile coaching and stakeholder management. This piece calls for a refocus on true competence and measurable impact in the profession.
 date: 2024-09-05
 creator: Martin Hinshelwood
 id: "51730"
