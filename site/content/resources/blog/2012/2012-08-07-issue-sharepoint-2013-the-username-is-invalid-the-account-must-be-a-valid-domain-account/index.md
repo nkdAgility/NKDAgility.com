@@ -1,5 +1,6 @@
 ---
 title: "Issue SharePoint 2013: The username is invalid. The account must be a valid domain account"
+description: "Resolve the SharePoint 2013 username error with our step-by-step guide. Learn how to configure your farm using PowerShell for a smooth setup!"
 date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7015"
@@ -59,3 +60,4 @@ Use a PowerShell command to create the initial configuration of the farm with a 
 This works just fine with SQL Server 2012.
 
 **Did this help you?**
+

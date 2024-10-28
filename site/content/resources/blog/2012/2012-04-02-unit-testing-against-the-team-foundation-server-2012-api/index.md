@@ -1,5 +1,6 @@
 ---
 title: Unit Testing against the Team Foundation Server 2012 API
+description: "Learn how to effectively unit test against the Team Foundation Server 2012 API, tackling authentication challenges and enhancing your TDD practices."
 date: 2012-04-02
 creator: Martin Hinshelwood
 id: "5112"
@@ -205,3 +206,4 @@ Woot, they all pass… now to write some more.
 ### Conclusion
 
 If you are using a Behaviour Driven Development (BDD) framework to tests your scenarios (SpecFlow works well with Visual Studio 2012) then you will need to load your service credentials so that we can test without having a user enter credentials…
+

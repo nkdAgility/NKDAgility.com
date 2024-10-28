@@ -1,5 +1,6 @@
 ---
 title: Enabling Google Plus Profiles for Google Apps users in under 2 minutes
+description: "Learn how to enable Google+ profiles for Google Apps users in just 2 minutes. Follow our simple steps to unlock new features and enhance your experience!"
 date: 2011-11-03
 creator: Martin Hinshelwood
 id: "4016"
@@ -45,3 +46,4 @@ Here are the same steps that I show in the video in more detail.
 Go fourth and circle your friends, and remember that [Dustin Hoffman first posited the idea of circles](http://www.youtube.com/watch?v=Kznd0zrSJ2c).
 
 http://www.youtube.com/watch?v=Kznd0zrSJ2c
+

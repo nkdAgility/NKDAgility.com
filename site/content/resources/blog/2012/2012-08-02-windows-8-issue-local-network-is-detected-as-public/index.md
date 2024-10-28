@@ -1,5 +1,6 @@
 ---
 title: "Windows 8 Issue: Local network is detected as public"
+description: "Discover how to resolve Windows 8's issue of local networks being misidentified as public. Learn effective workarounds for Hyper-V users to enhance connectivity."
 date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6924"
@@ -62,3 +63,4 @@ location.
 Note: If you cant launch the “Local Computer Policy” then you are running Windows 8 and you need Windows 8 Pro to do this.
 
 **Did this help you?**
+

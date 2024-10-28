@@ -1,5 +1,6 @@
 ---
 title: Creating a WIT Adapter for the TFS Integration Platform for a source with no history
+description: "Learn how to create a WIT adapter for the TFS Integration Platform, enabling seamless integration with Test Track Pro, even without historical data."
 date: 2011-06-02
 creator: Martin Hinshelwood
 id: "3408"
@@ -1370,3 +1371,4 @@ During the production run the “Created by \[account\]” will be the service a
 Once I got rid of the duplicate mappings I started getting data through and I can now get back to the route problem of “Edit” now that “Add” is working again.
 
 Woot…
+

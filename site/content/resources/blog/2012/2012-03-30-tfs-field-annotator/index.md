@@ -1,5 +1,6 @@
 ---
 title: TFS Field Annotator
+description: "Discover the TFS Field Annotator to track changes in TFS Work Items effortlessly. Enhance your workflow with easy field history access. Download now!"
 date: 2012-03-30
 creator: Martin Hinshelwood
 id: "5061"
@@ -70,3 +71,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
+

@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - Reporting & Process
+description: "Explore Visual Studio 2010's reporting and process templates to enhance team collaboration and continuous improvement. Unlock your development potential today!"
 date: 2012-02-02
 creator: Martin Hinshelwood
 id: "4138"
@@ -43,3 +44,4 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 **Screencast: Visual Studio 2010 Overview - Reporting & Process**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts._
+

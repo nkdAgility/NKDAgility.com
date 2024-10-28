@@ -1,5 +1,6 @@
 ---
 title: One Team Project Collection to rule them all - Consolidating Team Projects
+description: "Discover strategies for consolidating Team Projects in TFS 2012. Learn how to streamline your workflow and enhance collaboration with expert insights."
 date: 2012-07-12
 creator: Martin Hinshelwood
 id: "6109"
@@ -287,3 +288,4 @@ While it is difficult to migrate data or move data around in Team Foundation Ser
 - Did you mistakenly create multiple Team Project Collections?
 
 If so then give us a call and we can help you fix it…
+

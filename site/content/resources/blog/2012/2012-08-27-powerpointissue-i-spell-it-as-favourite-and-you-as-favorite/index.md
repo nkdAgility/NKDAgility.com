@@ -1,5 +1,6 @@
 ---
 title: I spell it as Favourite and you as Favorite
+description: "Explore the nuances of British vs. American English in PowerPoint. Learn how to use macros for seamless spell-checking adjustments. Embrace your language!"
 date: 2012-08-27
 creator: Martin Hinshelwood
 id: "7735"
@@ -105,3 +106,4 @@ This will help me greatly as I can then write all of my things in the English th
 **Figure: My keyboard settings**
 
 What do you think are my chances at getting the world to switch to Gaelic?
+

@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2012 Launch RoadShows around the World
+description: "Join the Visual Studio 2012 Launch RoadShows in San Diego and Irvine to explore new development practices and elevate your software quality. Don't miss out!"
 date: 2012-09-21
 creator: Martin Hinshelwood
 id: "8834"
@@ -49,3 +50,4 @@ With this new normal the quality level expected of engineers is much higher than
 The engineering half of the Agile Developer needs tools to help them make life that much easier on their tester alter ego and on the businesses pocket book.
 
 Join me on [9th/10th of October in San Diego or Irvine](http://blog.hinshelwood.com/events/) to usher in a new era of software quality and delivery…
+

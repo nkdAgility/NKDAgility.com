@@ -1,5 +1,6 @@
 ---
 title: "Subversion to TFS 2010: Dealing with invalid Subversion SSL certificates and migrations"
+description: "Learn how to tackle invalid Subversion SSL certificates during your migration to TFS 2010. Overcome common errors and streamline your version control process!"
 date: 2011-08-25
 creator: Martin Hinshelwood
 id: "3736"
@@ -86,3 +87,4 @@ Typically you have three options:
 - Reject
 
 If you select “**_(p)ermenantly_**” you will then be able to run the migration tools successfully. You will need to do this for every Subversion Repository you want to migrate from. Or, you can fix the certificate or just remove it.
+

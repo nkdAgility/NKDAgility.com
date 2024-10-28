@@ -1,5 +1,6 @@
 ---
 title: A working Test Track Pro Adapter for the TFS Integration Platform
+description: "Discover a reliable Test Track Pro Adapter for the TFS Integration Platform, enabling seamless updates and efficient work item management. Learn more!"
 date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3606"
@@ -486,3 +487,4 @@ This history shows all of the values for the fields at the point in time that th
 All in, I am quite happy with the process and will be implementing in production really soon. Still some testing to do, but all looks good so far.
 
 - **Can you share your experiences of creating a TFS Integration Platform Adapter?**
+

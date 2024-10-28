@@ -1,5 +1,6 @@
 ---
 title: An adoption strategy for testing with Visual Studio 2010
+description: "Discover effective adoption strategies for Microsoft Test Manager in Visual Studio 2010. Enhance collaboration between developers and testers for better results!"
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4223"
@@ -53,3 +54,4 @@ So if you are looking for an adoption strategy for Microsoft Test Manager then:
 3. **Training:** [**Professional Scrum Developer**](http://nwcadence.com/PSDTraining)  
    Although we don’t have any public PSD’s scheduled, which is why you will not find it on our site, we do provide it as part of private engagements.
 4. **Start building awesome software…**
+

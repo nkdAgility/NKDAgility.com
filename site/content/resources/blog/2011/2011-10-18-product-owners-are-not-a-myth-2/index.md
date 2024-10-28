@@ -1,5 +1,6 @@
 ---
 title: Product Owners are not a myth
+description: "Discover the vital role of Product Owners in Scrum. Learn how they maximize value and manage backlogs effectively for successful agile development."
 date: 2011-10-18
 creator: Martin Hinshelwood
 id: "3909"
@@ -69,3 +70,4 @@ My current customer has one product with over 900 items in their backlog. This w
 Although the Product Owner has accountability and responsibility for the “what” that the team is  creating they will often need help. This help can come in many forms. It may be the Development Team that helps the Product Owner in small organisations, or a more formal dedicated team that helps them at the enterprise level.
 
 **How does your Product Owner organise their time?**
+

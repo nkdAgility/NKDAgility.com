@@ -1,5 +1,6 @@
 ---
 title: "Process Template Upgrade #7 – Rename Work Items and Import new ones"
+description: "Learn how to upgrade your TFS process template while preserving work item history. Follow these essential steps for a smooth transition and minimal disruption."
 date: 2012-05-12
 creator: Martin Hinshelwood
 id: "5277"
@@ -356,3 +357,4 @@ I will try to catalogue any problems here, so add them in the comments and I wil
     You forgot to update #7 above. Go back and do it now!
 
 2.  **\[TBA\] Let me know what errors you find…**
+

@@ -1,5 +1,6 @@
 ---
 title: Can you really commit to delivering work?
+description: "Explore the shift from commitment to forecasting in Scrum. Discover how this change fosters transparency and trust within your development team."
 date: 2011-11-26
 creator: Martin Hinshelwood
 id: "4089"
@@ -76,3 +77,4 @@ The result should be higher levels of trust between all parties that should resu
 **Are you going to make the change from Commitment to Forecast?**
 
 If not, let me know why this will not make sense in your organisation!
+

@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools - Issue: Unable to resolve conflict as Access to the path is denied"
+description: "Resolve TFS Integration Tools conflicts effortlessly! Learn how to fix 'Access to the path is denied' errors by adjusting permissions in your configuration."
 date: 2012-08-28
 creator: Martin Hinshelwood
 id: "7744"
@@ -46,3 +47,4 @@ Add the TFSIPEXEC_WPG permission to the folder with full rights.
 **Figure: Model dialog galore**
 
 Once you have added permissions you will be able to resolve the conflicts…
+

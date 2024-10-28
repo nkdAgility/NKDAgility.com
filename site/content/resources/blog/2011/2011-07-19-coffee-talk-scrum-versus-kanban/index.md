@@ -1,5 +1,6 @@
 ---
 title: "Coffee Talk: Scrum versus Kanban"
+description: "Join Martin Hinshelwood and Steven Borg in a free webcast to explore the key differences between Scrum and Kanban for effective software development."
 date: 2011-07-19
 creator: Martin Hinshelwood
 id: "3688"
@@ -44,3 +45,4 @@ Both models have proven track records, and **in this session [Martin Hinshelwood
 - **[Join Northwest Cadence for this Free Webcast Event](http://scrumvskanban.eventbrite.com/)**
 
 I think that we have around 50 folks already signed up, but the more the merrier…
+

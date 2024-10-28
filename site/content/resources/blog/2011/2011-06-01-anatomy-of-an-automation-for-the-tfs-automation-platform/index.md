@@ -1,5 +1,6 @@
 ---
 title: Anatomy of an Automation for the Tfs Automation Platform
+description: "Explore the anatomy of automations for the TFS Automation Platform. Learn how to integrate and deploy extensions effectively for enhanced productivity."
 date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3361"
@@ -194,3 +195,4 @@ It should be possible for you to create iSubscribers, ITeamFoundationJobExtensio
 
 There is no reason not to extend TFS now and once the TFS Automation Platform releases there will be no need to ever install another extension again ![Smile](images/wlEmoticon-smile2-4-4.png) apart from the TFS Automation Platform itself…
 { .post-img }
+

@@ -1,5 +1,6 @@
 ---
 title: "Office 2013 Issue: Installing Office 2013 breaks Visual Studio 2012"
+description: "Discover how installing Office 2013 can disrupt Visual Studio 2012. Learn about the error, its causes, and essential workarounds to resolve the issue."
 date: 2012-07-17
 creator: Martin Hinshelwood
 id: "6288"
@@ -59,3 +60,4 @@ If you did not install it first and you are unable to launch Visual Studio 2012 
 I found that this does not affect Visual Studio 2012 installs that already have a previous update on Windows 8, but does affect vanilla Release Candidate installs.
 
 **Did this fix your problem?**
+

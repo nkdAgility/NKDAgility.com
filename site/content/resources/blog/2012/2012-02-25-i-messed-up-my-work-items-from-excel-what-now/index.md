@@ -1,5 +1,6 @@
 ---
 title: I messed up my work items from Excel! What now?
+description: "Learn how to recover from Excel mistakes that altered your TFS work items. Discover effective solutions to fix errors and prevent future mishaps!"
 date: 2012-02-25
 creator: Martin Hinshelwood
 id: "4609"
@@ -235,3 +236,4 @@ This is I guess of of the dangers of bulk editing in Excel and I really only use
 Oh, and I never use “Tree View”, and I have even more reason not to now.
 
 I hope this helps my customer and others who might end up in the same situation.
+

@@ -1,5 +1,6 @@
 ---
 title: What do you do with a Work Item History Not Found Conflict Type Details
+description: "Discover solutions for TFS migration conflicts in work item history. Learn how to tackle 'not found' errors and streamline your integration process."
 date: 2011-06-04
 creator: Martin Hinshelwood
 id: "3460"
@@ -679,3 +680,4 @@ The data that comes back all has a status of 5 and a backlog value of 1:
 **Figure: What this means is anyone's guess**
 
 This is a blocking issue from me and I have no idea how to “un-backlog” these items….
+

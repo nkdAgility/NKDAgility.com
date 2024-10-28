@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools: TF237165: The Team Foundation Server could not update the work item"
+description: "Resolve the TF237165 error in TFS Integration Tools with effective troubleshooting tips. Learn how to fix validation issues and streamline your workflow!"
 date: 2012-07-16
 creator: Martin Hinshelwood
 id: "6179"
@@ -48,3 +49,4 @@ You can see on lines 2 and 3 of the code above I had incorrectly specified the m
 The mentioned field either needs removed from the mapping or added to the work item. In this case I will be removing it from the mapping as I don’t need that field on the Task WIT.
 
 **Did this solve your problem?**
+

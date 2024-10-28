@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2012 RTM available & installed
+description: "Discover the benefits of upgrading to Visual Studio 2012 RTM. Learn about new features, installation tips, and how to enhance your development process."
 date: 2012-08-15
 creator: Martin Hinshelwood
 id: "7149"
@@ -109,3 +110,4 @@ Forget the unbelievably cool features that made it into TFS 2010, these are the 
 With all of these things built into the product there is even fewer excuses for Development Teams to be unable to deliver high quality product within an agile process that provides value to the customer…
 
 **Are you thinking of installing or upgrading to Visual Studio 2012 Team Foundation Server? Do you need help?**
+

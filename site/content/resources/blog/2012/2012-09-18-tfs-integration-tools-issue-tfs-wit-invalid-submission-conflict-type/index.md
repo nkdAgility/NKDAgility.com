@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools - Issue: TFS WIT invalid submission conflict type"
+description: "Resolve TFS WIT invalid submission conflicts with expert tips on configuration and permissions. Ensure smooth integration with TFS Integration Tools today!"
 date: 2012-09-18
 creator: Martin Hinshelwood
 id: "8781"
@@ -49,3 +50,4 @@ note: I recommend building and testing all of your scripts/configurations agains
 
 You should now be able to successfully run your configuration although I can’t guarantee further errors ![Smile](images/wlEmoticon-smile1-4-4.png)
 { .post-img }
+
