@@ -1,5 +1,5 @@
 # Set the folder path containing your Markdown files
-$folderPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2024"
+$folderPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2023"
 # Set your OpenAI API key
 $apiKey = $Env:OPEN_AI_KEY
 
@@ -96,7 +96,7 @@ Example Output:
     # Add the meta description to the front matter of the markdown file, after the title
     if ($content -match "^---[\s\S]*?---") {
         $frontMatter = $matches[0]
-        $newFrontMatter = $frontMatter -replace "(?m)(^title:.*$)", "`$1`ndescription: '$metaDescription'"
+        $newFrontMatter = $frontMatter -replace "(?m)(^title:.*$)", "`$1`ndescription: $metaDescription"
         $newContent = $newFrontMatter + $content.Substring($frontMatter.Length)
     }
     else {
