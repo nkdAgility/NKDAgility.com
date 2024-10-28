@@ -51,13 +51,13 @@ card:
 code: APS
 level: beginner
 introduction: |2-
+  Applying Professional Scrum™ (APS) is a hands-on, activity-based course where students experience how Professional Scrum and the Scrum framework enhance their ability to deliver value compared to traditional methods. Scrum offers a superior way of working by emphasizing experimentation, incremental delivery of customer value, frequent feedback loops, and fostering strong team dynamics.
 
-  ### What Applying Professional Scrum Students Say
+  This course provides an active learning environment for students to engage in discussions, team-based exercises, and individual reflection. Throughout the course, students work in Scrum Teams over a series of Sprints, learning Scrum while applying it.
 
-  <iframe title="Customer reviews powered by Trustpilot" src="https://widget.trustpilot.com/trustboxes/53aa8912dec7e10d38f59f36/index.html?businessunitId=5c12d8d7393a0100015d1c3e&amp;templateId=53aa8912dec7e10d38f59f36#locale=en-US&amp;stars=4%2C5&amp;styleHeight=%E2%80%9C140px%22&amp;styleWidth=250%25&amp;tags=classtype%3Aaps&amp;theme=light" data-mce-fragment="1"></iframe>
-  [Read more](https://www.scrum.org/scrumorg-applying-professional-scrum-training-student-reviews-and-feedback "Scrum.org Applying Professional Scrum Training Student Reviews and Feedback") about our APS student surveys and their feedback
+  Additionally, the course includes a free attempt at the globally recognized Professional Scrum Master I (PSM I) certification exam.
 overview: |-
-  The [wpv-post-link] course is the perfect introduction, reboot or refresher to Scrum. It is excellent training for organizations, teams, and individuals wanting to experience the benefits of Scrum, or for those interested in continuing their learning with more advanced training. 
+  The Applying Professional Scrum course is the perfect introduction, reboot or refresher to Scrum. It is excellent training for organizations, teams, and individuals wanting to experience the benefits of Scrum, or for those interested in continuing their learning with more advanced training. 
   - Professionals who are part of a team that currently uses Scrum, but desire a refresher so that they get the most out of their use of Scrum.
   - Professionals who are joining a team that currently uses Scrum.
   - Professionals that don't use Scrum directly but want to learn how to work with colleagues that do use Scrum.
@@ -65,7 +65,7 @@ overview: |-
   - Professionals that are part of an organization that intends to use Scrum in the near future.
   - Teams who are learning to use Scrum together in their organizations
 
-   The course also provides the foundational Scrum knowledge needed for those wishing to continue their education with role-focused (Scrum Master, Product Owner, Developer, Leader) training classes. APS is not recommended for advanced Scrum professionals. This course is designed to be domain-agnostic; it conveys the use of Scrum in any domain or industry with complex problems to solve. Trainers typically have experience in multiple industries and may be able to tailor the course to the needs of your team. Students and teams building software products may want to consider our domain-specific course: [wpv-post-link item="10046"].
+  The course also provides the foundational Scrum knowledge needed for those wishing to continue their education with role-focused (Scrum Master, Product Owner, Developer, Leader) training classes. APS is not recommended for advanced Scrum professionals. This course is designed to be domain-agnostic; it conveys the use of Scrum in any domain or industry with complex problems to solve. Trainers typically have experience in multiple industries and may be able to tailor the course to the needs of your team. Students and teams building software products may want to consider our domain-specific course: Applying Professional Scrum for Software Development.
 outcomes: |2+
 
   - Agility as a new way of working
@@ -74,6 +74,13 @@ outcomes: |2+
   - Getting started with Scrum
 
 assessment:
+  icon: Scrumorg-Assessment-PSM-I.png
+  content: |
+    Upon completion of the Applying Professional Scrum course, all attendees will receive a password to attempt the prestigious [Professional Scrum Master I (PSM I) assessment](https://www.scrum.org/Assessments/Professional-Scrum-Master-Assessments).
+
+    For those affiliated with the Project Management Institute (PMI), we're delighted to inform you that our courses are eligible for PDU credit. Specifically, you can claim 14 PDUs after attending our two-day Professional Scrum Master (PSM) course. Please be aware that PMI PDUs are awarded for course attendance, not for passing a Scrum.org assessment.  
+
+    To claim your PDUs, you can do so under PMI’s “Education courses provided by other third party providers” category. Simply visit https://ccrs.pmi.org to register your PDUs.  We're excited to be part of your Scrum and Agile journey, and we're committed to providing you with the knowledge, skills, and credentials you need to excel in this dynamic field.
 objectives: |2+
 
   - Learn about Agility and how Scrum differs from traditional plan-driven work models
@@ -92,9 +99,25 @@ prerequisites: |+
   - Have been closely involved or have a high interest in a project that builds or enhances a product or application.
 
 audience:
+  overview: |
+    The Applying Professional Scrum course is the ideal starting point for anyone involved in or curious about using Scrum. It is particularly suited for professionals looking to experience the benefits of Scrum firsthand, or those planning to expand their understanding of Scrum with advanced role-specific training. This course is relevant for:
+
+    - Professionals currently working in a Scrum environment who need a refresher.
+    - New team members joining a Scrum team.
+    - Individuals not directly using Scrum but needing insight into Scrum practices for effective collaboration.
+    - Professionals assessing whether Scrum is suitable for them or their organization.
+    - Teams adopting Scrum in their upcoming projects.
+
+    The course is designed for a wide range of industries and is domain-agnostic, providing essential knowledge for continuing education in various Scrum roles, while staying focused on NKD Agility's core values of competence, engineering excellence, and directness.
 trainers:
+  - /company/people/martin-hinshelwood/
 roadmap:
+  next:
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-master/
+    - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
+    - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 syllabus:
+
 events:
 ---
 
