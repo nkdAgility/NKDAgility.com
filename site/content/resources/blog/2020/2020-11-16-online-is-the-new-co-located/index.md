@@ -1,5 +1,6 @@
 ---
 title: Online is the new co-located
+description: "Explore how online participation redefines co-location in agile practices. Embrace video engagement for effective communication and collaboration in virtual events."
 date: 2020-11-16
 creator: Martin Hinshelwood
 id: "44487"
@@ -185,3 +186,4 @@ So if you are participating in a video conference:
 All of this together will create the transparency required by your host and co-participants to see your participation, how you are reacting, and modify the event to make it better.
 
 If you don't want or can't have your camera on it would be better for you and the facilitator that you attend an in-person event.
+

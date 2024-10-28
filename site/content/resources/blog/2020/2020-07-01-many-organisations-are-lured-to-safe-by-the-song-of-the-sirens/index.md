@@ -1,5 +1,6 @@
 ---
 title: Many organisations are lured to SAFe by the song of the Sirens
+description: "Discover why many organizations fall for the allure of SAFe, risking true agility for a rigid framework. Learn to embrace evolution over imitation."
 date: 2020-07-01
 creator: Martin Hinshelwood
 id: "44502"
@@ -89,3 +90,4 @@ SAFe® for Lean Enterprises 5.0
 SAFe does not change the thinking in the organisation, in fact, it solidifies rigidity by saying "this is how you do agile". Thats the very antithesis of the intent behind the agile movement. You cant take someone else's framework that worked in their organisation, like SAFe or Spotify, and install it in your organisation. You end up with fake agile, false security that you are embracing change while enshrining in the bureaucracy of the "way that we do things here".
 
 **Scaled Agile Framework is just replacing one bureaucracy with another. Meet the new boss, same as the old boss.**
+

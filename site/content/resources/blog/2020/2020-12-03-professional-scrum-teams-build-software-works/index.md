@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum teams build software that works
+description: "Discover how Professional Scrum Teams can deliver high-quality software that works. Learn to enhance accountability and trust in your development process."
 date: 2020-12-03
 creator: Martin Hinshelwood
 id: "22774"
@@ -73,3 +74,4 @@ If the [Developers](https://nkdagility.com/the-2020-scrum-guide/#developers) are
 Every organisation needs to focus on delivering quality working software that is of use to its customers. The entire [Scrum Team](/the-2020-scrum-guide/#scrum-team) is accountable and then works together over many iterations, experimenting and continuously improving, to deliver the best possible outcome in the circumstances. So instead of being an amateur team, be a team of Professionals that deliver working software because that is what your organisation and your customers deserve. If you are having a hard time delivering then discuss your options anytime, but especially at your Sprint Retrospective, and figure out what actionable improvement you can make that will help you pay back some of your technical debt and move forward. Once such step could be making sure that your [](https://nkdagility.com/training/courses/professional-scrum-developer-training/)[Developers](https://nkdagility.com/training/audiences/developers/) at least understand this with a [Professional Scrum Developer](https://nkdagility.com/training/courses/professional-scrum-developer-training/) course.
 
 Use empiricism to Inspect and Adapt with Scrum.
+

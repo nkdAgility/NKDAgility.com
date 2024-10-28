@@ -1,5 +1,6 @@
 ---
 title: Slaying the Dragons and How to Successfully Descale at Scale
+description: "Discover how to effectively scale agile practices in your organization. Learn the secrets of successful companies and transform your software delivery!"
 date: 2020-03-30
 creator: Martin Hinshelwood
 id: "44209"
@@ -31,3 +32,4 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
+

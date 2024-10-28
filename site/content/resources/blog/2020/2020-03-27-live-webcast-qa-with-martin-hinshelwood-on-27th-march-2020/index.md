@@ -1,5 +1,6 @@
 ---
 title: "Live Webcast: Q&amp;A with Martin Hinshelwood on 27th March 2020"
+description: "Join Martin Hinshelwood for a live Q&A on incorporating UX into Scrum teams. Discover insights and strategies to enhance your agile practices!"
 date: 2020-03-27
 creator: Martin Hinshelwood
 id: "44210"
@@ -21,3 +22,4 @@ After my last webcast I received a question from a good friend of mine about how
 <iframe width="504" height="284" title="Embedded post" src="https://www.linkedin.com/video/embed/live/urn:li:ugcPost:6649305613501284353" frameborder="0" allowfullscreen style="width: 2010px; height: 860px;"></iframe>
 
 [https://www.linkedin.com/video/live/urn:li:ugcPost:6649305613501284353/](https://www.linkedin.com/video/live/urn:li:ugcPost:6649305613501284353/)
+

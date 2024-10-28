@@ -1,5 +1,6 @@
 ---
 title: There is no place like production
+description: "Discover why real user feedback in production is essential for delivering value. Learn to validate assumptions and enhance product success effectively."
 date: 2020-12-28
 creator: Martin Hinshelwood
 id: "45324"
@@ -48,3 +49,4 @@ My favourite quote is from Brian Harry, the product unit manager at Microsoft an
 > \-Brian Harry
 
 No mater how much testing, UX discovery, and UAT, that you do there will always be more things that you discover once you get into production. It is just not possible to simulate a production environment. We are much more likely to be successful and create value by getting the smallest piece of value into production and validating that it is indeed as valuable as we thought.
+

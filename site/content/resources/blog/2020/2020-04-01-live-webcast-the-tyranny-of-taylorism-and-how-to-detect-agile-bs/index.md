@@ -1,5 +1,6 @@
 ---
 title: The Tyranny of Taylorism and how to detect Agile BS
+description: "Explore the impact of Taylorism on modern management and learn to identify Agile BS. Join Martin Hinshelwood in redefining workplace practices for success."
 date: 2020-04-01
 creator: Martin Hinshelwood
 id: "44208"
@@ -40,3 +41,4 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 ​
+
