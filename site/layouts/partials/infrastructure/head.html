@@ -6,6 +6,7 @@
 <title>{{ .Title }} | {{ .Site.Title }}</title>
 <meta property="og:title" content="{{ .Title | plainify }}" />
 <meta name="giscus:backlink" content="https://nkdagility.com{{ .RelPermalink }}" />
+<meta name="giscus:description" content="{{ .Summary }}" />
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{ printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
 <meta
   name="license"
