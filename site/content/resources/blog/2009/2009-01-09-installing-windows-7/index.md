@@ -1,5 +1,6 @@
 ---
 title: Installing Windows 7
+description: "Discover the step-by-step process of installing Windows 7 in a virtual environment. Join Martin Hinshelwood for tips and insights on a smooth setup experience!"
 date: 2009-01-09
 creator: Martin Hinshelwood
 id: "148"
@@ -93,3 +94,4 @@ All in all, a very nice experience so far… I will probably be running at home 
 My computer at home is a P4 3.1Ghz with 1GB of ram… :(
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

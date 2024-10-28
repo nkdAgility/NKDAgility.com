@@ -1,5 +1,6 @@
 ---
 title: "Post event: Developer Day Scotland..."
+description: "Discover insights from Developer Day Scotland, featuring expert talks on ADO.NET, Anti-Patterns, and Test Driven Development. Join the conversation!"
 date: 2008-05-12
 creator: Martin Hinshelwood
 id: "229"
@@ -24,3 +25,4 @@ After lunch when you normally start to fall asleep we got a session on Continuou
 If I took anything away from this day, it was that although I know a lot, I know very little....
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

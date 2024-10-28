@@ -1,5 +1,6 @@
 ---
 title: "Presenting Aplication Lifecycle Management: Precursor"
+description: "Join Martin Hinshelwood as he shares insights on Application Lifecycle Management (ALM) and his journey preparing for a pivotal presentation. Discover more!"
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "194"
@@ -37,3 +38,4 @@ I am going to have to use my slides as vague pointers and try to create a presen
 If you are going for an interview at Microsoft make sure you lock yourself away for however amount of preperation time you need, with no distractions! That means no Tv, Xbox, children, wifes, family events of any kind. Preferably you should go to a cabin in the mountins with only your internet connection to keep you company... ;) Wish me luck....
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

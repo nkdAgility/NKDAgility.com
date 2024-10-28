@@ -1,5 +1,6 @@
 ---
 title: Connecting VS2010 to TFS 2008
+description: "Learn how to connect Visual Studio 2010 to Team Foundation Server 2008 effortlessly. Discover tips and insights to enhance your development experience!"
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "118"
@@ -35,3 +36,4 @@ As you can see, when connecting to a TFS 2008 server you can see a single Team P
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

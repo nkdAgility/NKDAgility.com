@@ -1,5 +1,6 @@
 ---
 title: 100,000 Visits
+description: "Celebrate the milestone of 100,000 visits! Discover insights on site traffic, browser share, and global reach from a Glasgow developer's perspective."
 date: 2008-11-18
 creator: Martin Hinshelwood
 id: "167"
@@ -47,3 +48,4 @@ But is is the Countries that shows how…”cosmopolitan”… your site is:
 Non to shabby for a wee developer in Glasgow, Scotland :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers)
+

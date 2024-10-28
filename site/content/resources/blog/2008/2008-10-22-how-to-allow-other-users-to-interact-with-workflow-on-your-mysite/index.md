@@ -1,5 +1,6 @@
 ---
 title: "How-To: Allow other users to interact with workflow on your MySite"
+description: "Learn how to enable user interaction with workflows on MySite. This guide covers permissions, task lists, and best practices for effective collaboration."
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "185"
@@ -100,3 +101,4 @@ Make sure that you have the correct users listed in the "Users/Groups" box and t
 Easy J
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Answers](http://technorati.com/tags/Answers) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -1,5 +1,6 @@
 ---
 title: Visual Studio Team Test Quick Reference Guide 1.0
+description: "Discover essential insights in the Visual Studio Team Test Quick Reference Guide 1.0, your go-to resource for troubleshooting and optimizing testing processes."
 date: 2009-04-01
 creator: Martin Hinshelwood
 id: "133"
@@ -49,3 +50,4 @@ As you can see this document is not a theoretical document, but a real world pro
 Well done Rangers…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [TFS](http://technorati.com/tags/TFS)
+

@@ -1,5 +1,6 @@
 ---
 title: TFS Sticky Buddy Update
+description: "Discover the latest updates for TFS Sticky Buddy, including fixes for key issues. Enhance your workflow with version 1.6 and improve your productivity!"
 date: 2008-09-03
 creator: Martin Hinshelwood
 id: "200"
@@ -26,3 +27,4 @@ This means that if you run [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBu
 I don't as our Proxy is a bit crap and does not detect the changes in .application files for a few days :(
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+

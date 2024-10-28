@@ -1,5 +1,6 @@
 ---
 title: Does test-driven development speed up development?
+description: "Explore how test-driven development can enhance software productivity by reducing complexity and rework. A must-read for software professionals!"
 date: 2008-12-15
 creator: Martin Hinshelwood
 id: "152"
@@ -38,3 +39,4 @@ If only I could be as eloquent as Scott. His recent post on “[Does test-driven
 This is a must read for any Software Professional… unless you are already using TDD :)
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development)
+

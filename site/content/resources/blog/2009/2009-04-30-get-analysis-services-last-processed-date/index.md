@@ -1,5 +1,6 @@
 ---
 title: Get Analysis Services last processed date
+description: "Discover how to retrieve the last processed date for your SSAS cubes with this essential code snippet. Enhance your data analysis efficiency today!"
 date: 2009-04-30
 creator: Martin Hinshelwood
 id: "129"
@@ -57,3 +58,4 @@ The only problem I have with this is that while it takes no longer than 5 second
 This makes it a threading only, and more than that, a nice to have only. If this is critical information then you will just have to wait…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

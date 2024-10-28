@@ -1,5 +1,6 @@
 ---
 title: Composite WPF and Merged Dictionaries
+description: "Explore how to effectively manage themes and resource files in WPF applications with practical code solutions and insights from Martin Hinshelwood."
 date: 2008-11-12
 creator: Martin Hinshelwood
 id: "170"
@@ -225,3 +226,4 @@ When this happens the region management is redone and you get a further RegionNa
 So instead of bombing out when you try to add a region of the same name, it will just ignore it. Not ideal, but necessary.
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
+

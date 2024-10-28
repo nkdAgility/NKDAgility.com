@@ -1,5 +1,6 @@
 ---
 title: Compatibility view in IE8
+description: "Discover how to easily enable IE7 Compatibility mode in IE8 for better page viewing. Learn tips and tricks to enhance your browsing experience!"
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "201"
@@ -27,3 +28,4 @@ For example Microsoft.com and Google.com do not get the little button.
 But Gmail does :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

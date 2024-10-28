@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio 2010 Team Suit Beta 1
+description: "Discover how to install Visual Studio 2010 Team Suite Beta 1 with ease. Get tips on options, customization, and enjoy a smoother setup experience!"
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "119"
@@ -54,3 +55,4 @@ And what does the new welcome page look like?
 Mmmmmm…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

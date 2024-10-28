@@ -1,5 +1,6 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR Installation
+description: "Learn how to install Visual Studio Team System 2008 Database Edition GDR with essential tips and resources for a smooth setup. Get started now!"
 date: 2008-11-26
 creator: Martin Hinshelwood
 id: "161"
@@ -79,3 +80,4 @@ If you pick the “Wizard” you will be presented with a set of options for you
 Please be patient with my videos as I am just getting to grips with this.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
+

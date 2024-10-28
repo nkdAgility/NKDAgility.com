@@ -1,5 +1,6 @@
 ---
 title: Installing .NET 4.0 Beta 1 on Windows Vista 64x
+description: "Discover how to install .NET 4.0 Beta 1 on Windows Vista 64x with ease. Explore new features and improvements in this comprehensive guide!"
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "120"
@@ -38,3 +39,4 @@ You can find out what is new in the framework  from these blogs:
 [http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx](http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx "http://blogs.msdn.com/wenlong/archive/2008/09/07/net-4-0-wf-wcf-and-oslo.aspx")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
+

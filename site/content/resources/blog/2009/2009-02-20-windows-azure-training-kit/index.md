@@ -1,5 +1,6 @@
 ---
 title: Windows Azure Training Kit
+description: "Explore the Windows Azure Training Kit, featuring hands-on labs and demos to master Azure services. Elevate your cloud skills with expert guidance!"
 date: 2009-02-20
 creator: Martin Hinshelwood
 id: "136"
@@ -37,3 +38,4 @@ The Azure Services Training Kit February update now includes the following conte
 [http://go.microsoft.com/fwlink/?LinkID=130354](http://go.microsoft.com/fwlink/?LinkID=130354 "http://go.microsoft.com/fwlink/?LinkID=130354")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Azure](http://technorati.com/tags/Azure) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
+

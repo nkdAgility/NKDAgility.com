@@ -1,5 +1,6 @@
 ---
 title: Ooooh, RTM Delight
+description: "Discover the latest in Visual Studio 2008 and Team Foundation Server 2008 with performance boosts and new features that enhance your development experience!"
 date: 2008-08-12
 creator: Martin Hinshelwood
 id: "212"
@@ -27,3 +28,4 @@ The .NET Framework 3.5 SP1 and Visual Studio 2008 SP1 has improvements and optim
 There are tones of performance and minor [improvements in Team Foundation Server](http://blogs.msdn.com/bharry/archive/2008/04/28/team-foundation-server-2008-sp1.aspx) as well…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WCF](http://technorati.com/tags/WCF) [TFS Admin](http://technorati.com/tags/TFS+Admin) [WPF](http://technorati.com/tags/WPF) [VS 2008](http://technorati.com/tags/VS+2008)
+

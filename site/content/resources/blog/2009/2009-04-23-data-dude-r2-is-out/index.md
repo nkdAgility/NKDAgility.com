@@ -1,5 +1,6 @@
 ---
 title: Data Dude R2 is out!
+description: "Discover the new features of Data Dude R2, enhancing SQL 2008 support for database developers. Upgrade now for improved performance and efficiency!"
 date: 2009-04-23
 creator: Martin Hinshelwood
 id: "130"
@@ -22,3 +23,4 @@ If you are an avid [Data Dude](http://www.microsoft.com/downloads/details.aspx?F
 Have you ever wanted to be able to deploy a new version of your database from a USB memory stick and have it automatically produce a differencing script and run it against the target :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Software Development](http://technorati.com/tags/Software+Development) [TFS](http://technorati.com/tags/TFS)
+

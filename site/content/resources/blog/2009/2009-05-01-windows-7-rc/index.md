@@ -1,5 +1,6 @@
 ---
 title: Windows 7 RC
+description: "Discover the Windows 7 Release Candidate, available soon for developers. Get insights, updates, and tips for installation from the Windows Team Blog!"
 date: 2009-05-01
 creator: Martin Hinshelwood
 id: "128"
@@ -20,3 +21,4 @@ I feel a couple of reinstalls coming on :)
 I have not installed it myself yet, that is a task for the weekend, but you visit “[Windows 7 Release Candidate 1 impressions, insights, and expectations](http://www.engadget.com/2009/04/30/windows-7-release-candidate-1-impressions-insights-and-expecta/)” for more information.
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

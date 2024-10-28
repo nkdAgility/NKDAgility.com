@@ -1,5 +1,6 @@
 ---
 title: "How-To: Display your Outlook calendar on you’re My Site"
+description: "Learn how to display your Outlook calendar on your My Site with this step-by-step guide. Enhance your SharePoint experience effortlessly!"
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "184"
@@ -42,3 +43,4 @@ Your calendar items will now be displayed on the page.
 You can add other Outlook Web Access features to your page including "My Contacts" or "My Tasks" and the much more useful "My Email" which can all be configured in the same way.
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Answers](http://technorati.com/tags/Answers) [SharePoint](http://technorati.com/tags/SharePoint)
+

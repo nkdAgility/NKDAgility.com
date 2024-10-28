@@ -1,5 +1,6 @@
 ---
 title: The Hinshelwood Family Portrait
+description: "Discover the joy of family photography with The Hinshelwood Family Portrait. Explore stunning shots and heartfelt moments captured by Perfect Expressions."
 date: 2009-05-03
 creator: Martin Hinshelwood
 id: "124"
@@ -21,3 +22,4 @@ John Johnston at [Perfect Expressions](http://www.perfectexpressions.co.uk) was 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

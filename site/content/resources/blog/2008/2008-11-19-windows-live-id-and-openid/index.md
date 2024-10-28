@@ -1,5 +1,6 @@
 ---
 title: Windows Live ID and OpenID
+description: "Explore how Microsoft integrates Windows Live ID with OpenID, enabling seamless authentication and single sign-on for developers and users alike."
 date: 2008-11-19
 creator: Martin Hinshelwood
 id: "165"
@@ -57,3 +58,4 @@ You need to setup a new Live ID on the Live-INT service, you can use any email, 
       It is a dream I have…
 
       Technorati Tags: [Windows Live](http://technorati.com/tags/Windows+Live),[OpenID](http://technorati.com/tags/OpenID)
+

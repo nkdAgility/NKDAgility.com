@@ -1,5 +1,6 @@
 ---
 title: Sync extension for Lists/Collections or whatever
+description: "Discover how to effortlessly sync two lists in .NET with a simple extension method. Enhance your coding skills and streamline your data management!"
 date: 2008-10-13
 creator: Martin Hinshelwood
 id: "188"
@@ -163,3 +164,4 @@ I thought that this would be difficult, but I was surprised at its ease.
 You need to remember to lock the object while you sync. This is to allow your threading to take place without incident. The nitty gritty is just a case of comparing the two lists and building a list of changes to make and then removing them :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+
