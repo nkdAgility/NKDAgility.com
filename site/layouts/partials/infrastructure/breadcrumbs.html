@@ -22,6 +22,12 @@
       {{ end }}
       {{ $breadcrumbs = $breadcrumbs | append . }}
       {{ $built = true }}
+    {{ else if eq .Type "delivery-audiences" }}
+      <!-- Manually construct the parent hierarchy for taxonomies -->
+      {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
+      {{ $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
+      {{ $breadcrumbs = $breadcrumbs | append . }}
+      {{ $built = true }}
     {{ end }}
 
 

@@ -1,11 +1,7 @@
 {{ define "main" }}
-  <section class="container my-2">
-    {{ partial "page-sections/sections.html" . }}
-  </section>
   <section class="container my-5">
-    <h2>All Our {{ .Title }}</h2>
     <div class="row">
-      {{ range $taxonomyName, $page := .Pages }}
+      {{ range $taxonomyName, $page := .Pages.ByWeight }}
         {{ if eq .Type "course" }}
           <div class="col-xl-4 d-flex p-2">
             {{ partial "cards-course.html" (dict "context" .) }}
@@ -32,5 +28,5 @@
   </section>
 {{ end }}
 {{ define "template" }}
-  course-topics/list.html
+  course-vendors/list.html
 {{ end }}
