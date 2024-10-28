@@ -1,5 +1,6 @@
 ---
 title: Product Management Mentor Program
+weight: 1000
 date: 2024-03-19
 creator: Martin Hinshelwood
 id: "51296"
