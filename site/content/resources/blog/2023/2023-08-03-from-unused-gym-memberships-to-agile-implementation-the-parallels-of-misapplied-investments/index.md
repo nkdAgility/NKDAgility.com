@@ -1,5 +1,6 @@
 ---
 title: From Unused Gym Memberships to Agile Implementation The Parallels of Misapplied Investments
+description: "Explore the parallels between unused gym memberships and agile implementation. Discover how commitment and consistent effort drive true transformation in both realms."
 date: 2023-08-03
 creator: Martin Hinshelwood
 id: "49507"
@@ -39,3 +40,4 @@ To encapsulate, adopting agile methodologies is akin to undertaking a fitness jo
 It’s time to roll up our sleeves and sweat – whether in the gym or agile software development.
 
 I got the idea for this post from [Martijn De Kam](https://www.linkedin.com/in/fuadrachkidi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAK1xtgBNH79B88eHlOOipVUpV1J81vNJs8), who was quoting [Fuad Rachkidi](https://www.linkedin.com/in/fuadrachkidi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAK1xtgBNH79B88eHlOOipVUpV1J81vNJs8)!
+

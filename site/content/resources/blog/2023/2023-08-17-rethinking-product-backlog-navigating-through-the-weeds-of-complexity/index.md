@@ -1,5 +1,6 @@
 ---
 title: "Rethinking Product Backlog: Navigating Through the Weeds of Complexity"
+description: "Explore innovative strategies for managing your Product Backlog in complex environments. Discover how to enhance agility and foster team autonomy today!"
 date: 2023-08-17
 creator: Martin Hinshelwood
 id: "49515"
@@ -75,3 +76,4 @@ The relationship between strategy and the Product Backlog is subtle. The strateg
 Ultimately, the goal is to create a resilient, adaptable ecosystem capable of thriving amidst the uncertainties of complex product development. This involves creating flexible structures, fostering a culture that values learning and adaptation, and equipping teams with the autonomy to make decisions.
 
 **_What's in your backlog?_**
+

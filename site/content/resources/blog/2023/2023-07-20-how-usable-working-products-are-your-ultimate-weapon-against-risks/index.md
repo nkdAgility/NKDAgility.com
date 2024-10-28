@@ -1,5 +1,6 @@
 ---
 title: How Usable Working Products Are Your Ultimate Weapon Against Risks
+description: "Discover how delivering usable working products can mitigate risks in Agile practices. Embrace feedback loops and automation for true agility!"
 date: 2023-07-20
 creator: Martin Hinshelwood
 id: "49501"
@@ -64,3 +65,4 @@ So create a usable working product on a regular cadence, close the feedback loop
 Stay connected to the market and business demands and create a usable working product of the highest possible value!
 
 This is the way!
+

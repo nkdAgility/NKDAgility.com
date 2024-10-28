@@ -1,5 +1,6 @@
 ---
 title: Deciphering the Enigma of Story Points Across Teams
+description: "Explore how to effectively use Story Points in agile teams. Discover better metrics for performance and value delivery to enhance your team's success."
 date: 2023-09-21
 creator: Martin Hinshelwood
 id: "49888"
@@ -71,3 +72,4 @@ Simultaneously, to truly maximise team output, we must also focus on the value o
 { .post-img }
 
 The ultimate goal is to enhance both throughput and value concurrently. Striking a balance is crucial; we neither want sluggish excellence nor a barrage of mediocrity.
+

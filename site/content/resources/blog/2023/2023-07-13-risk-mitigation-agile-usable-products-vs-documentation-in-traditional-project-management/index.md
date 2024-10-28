@@ -1,5 +1,6 @@
 ---
 title: "Risk Mitigation: Agile Usable Products vs Documentation in Traditional Project Management"
+description: "Explore how Agile's focus on usable products enhances risk mitigation compared to traditional documentation methods in project management. Adapt and thrive!"
 date: 2023-07-13
 creator: Martin Hinshelwood
 id: "49495"
@@ -54,3 +55,4 @@ The agile philosophy does not say that documentation or planning is useless. Thi
 **Documentation does not solve a business problem; it merely describes it or a solution for it.**
 
 To the professional teams, don’t be afraid to embrace Agile’s working products as a lifeline for risk mitigation. Simultaneously, weave in the essential strands of documentation, but with the agility to adapt.
+
