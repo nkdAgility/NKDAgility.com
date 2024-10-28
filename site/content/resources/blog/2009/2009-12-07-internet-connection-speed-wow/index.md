@@ -1,5 +1,6 @@
 ---
 title: Internet connection speed, WOW
+description: "Discover the evolution of internet speeds from 56k to 50mbs! Join Martin Hinshelwood as he shares his experience with faster connections and downloads."
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "78"
@@ -66,3 +67,4 @@ it just gets better and better:
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SSW](http://technorati.com/tags/SSW)
+

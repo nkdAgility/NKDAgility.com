@@ -1,5 +1,6 @@
 ---
 title: Installing Office 2010 gotcha 1
+description: "Discover the challenges of installing Office 2010 on a 64-bit system. Learn about upgrade limitations and tips to streamline your setup process."
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "104"
@@ -28,3 +29,4 @@ This will be a 64 bit adoption blocker for companies as this will be difficult t
 I think with the prevalence of 64bit hardware, the release of Windows 7, and the RAM now coming as standard in new computers getting above 3.5GB there will be a lot more 64 bit upgrades and this needs to be looked at… I don’t know if it is possible, but can’t the install just uninstall my previous versions? Maybe this is just a Technology Preview limitation…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
+

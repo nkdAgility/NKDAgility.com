@@ -1,5 +1,6 @@
 ---
 title: Wpf Scale Transform Behaviour
+description: "Discover how to implement WPF Scale Transform Behavior in MVVM applications, allowing dynamic control scaling with ease. Enhance your UI today!"
 date: 2009-08-31
 creator: Martin Hinshelwood
 id: "87"
@@ -310,3 +311,4 @@ As you can see I am heavily utilizing the Infragistics controls, but that would 
 krsu46zvpt
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM)
+

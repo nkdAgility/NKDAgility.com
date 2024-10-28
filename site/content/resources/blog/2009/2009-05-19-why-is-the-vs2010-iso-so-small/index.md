@@ -1,5 +1,6 @@
 ---
 title: Why is the VS2010 iso so small?
+description: "Discover why the VS2010 ISO is surprisingly small—it's all about the absence of MSDN documentation. Learn more about this efficient installation choice!"
 date: 2009-05-19
 creator: Martin Hinshelwood
 id: "114"
@@ -18,3 +19,4 @@ The reason is simple, it has no MSDN documentation in it. I for one never instal
 And, why is there no Offline MSDN documentation? The answer is simple, it is not ready yet…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

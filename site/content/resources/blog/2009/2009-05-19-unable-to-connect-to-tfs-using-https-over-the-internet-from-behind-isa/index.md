@@ -1,5 +1,6 @@
 ---
 title: Unable to connect to TFS using HTTPS over the Internet from behind ISA
+description: "Struggling to connect to TFS via HTTPS behind ISA? Discover workarounds and solutions to proxy authentication issues in Visual Studio 2010. Read more!"
 date: 2009-05-19
 creator: Martin Hinshelwood
 id: "113"
@@ -30,3 +31,4 @@ If you are experiencing this problem, then please add your support to the work i
 [BUG: Unable to connect to TFS using HTTPS over the Internet from behind ISA](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=453677)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010)
+

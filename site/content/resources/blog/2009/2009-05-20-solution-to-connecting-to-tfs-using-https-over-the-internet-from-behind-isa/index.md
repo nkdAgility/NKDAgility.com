@@ -1,5 +1,6 @@
 ---
 title: Solution to connecting to TFS using HTTPS over the Internet from behind ISA
+description: "Discover how to connect to TFS over HTTPS from behind ISA with Visual Studio 2010. Follow our simple registry fix for a seamless experience!"
 date: 2009-05-20
 creator: Martin Hinshelwood
 id: "112"
@@ -42,3 +43,4 @@ HKEY_LOCAL_MACHINESOFTWAREWow6432NodeMicrosoftVisualStudio10.0TeamFoundationRequ
 You can find out more on the “[How to: Change the BypassProxyOnLocal Configuration](<http://msdn.microsoft.com/en-us/library/bb909716(loband).aspx>)” documentation on MSDN.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

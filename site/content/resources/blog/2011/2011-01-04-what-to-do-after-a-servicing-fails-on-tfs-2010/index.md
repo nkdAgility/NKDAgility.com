@@ -1,5 +1,6 @@
 ---
 title: What to do after a servicing fails on TFS 2010
+description: "Discover essential steps to take when a servicing fails on TFS 2010. Learn from real-world challenges and expert solutions to ensure a smooth upgrade."
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "20"
@@ -114,3 +115,4 @@ So with 40+ hours invested in getting this new database ready the customer threw
 
 - What would you do?
 - Would you take the “cut and shut” to production and hope for the best?
+

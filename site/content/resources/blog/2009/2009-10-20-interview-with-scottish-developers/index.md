@@ -1,5 +1,6 @@
 ---
 title: Interview with Scottish Developers
+description: "Join Martin Hinshelwood as he shares insights from his interview with Scottish Developers, exploring the tech scene and personal reflections. Read more!"
 date: 2009-10-20
 creator: Martin Hinshelwood
 id: "85"
@@ -18,3 +19,4 @@ I was recently contacted by [Colin Mackay](http://www.colinmackay.net/), the cha
 My [interview](http://scottishdevelopers.com/2009/10/19/october-newsletter/) appears in the October edition of their [newsletter](http://scottishdevelopers.com/2009/10/19/october-newsletter/) and although I think I rambled a little, understatement of the year, I do think I came across ok, if a little scatter brained…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

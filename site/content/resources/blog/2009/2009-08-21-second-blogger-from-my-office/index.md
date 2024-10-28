@@ -1,5 +1,6 @@
 ---
 title: Second blogger from my office
+description: "Discover the journey of my colleague Roddy as he navigates corporate blogging. Check out his insightful first post on SQL Server functions!"
 date: 2009-08-21
 creator: Martin Hinshelwood
 id: "89"
@@ -20,3 +21,4 @@ One of my colleagues is facing the maelstrom that is corporate blogjection and h
 Welcome [Roddy](http://geekswithblogs.net/RoddyCrossan)… good first post on [SQL Server Function to add working days on to a date](http://geekswithblogs.net/RoddyCrossan/archive/2009/08/21/sql-server-function-to-add-working-days-on-to-a.aspx), I always wanted to know how to do that!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

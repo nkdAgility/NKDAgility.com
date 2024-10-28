@@ -1,5 +1,6 @@
 ---
 title: A perfect match TFS and DLR
+description: "Discover how to streamline TFS check-in policies using the Dynamic Language Runtime. Simplify your development process with innovative solutions in Visual Studio 2010!"
 date: 2009-07-27
 creator: Martin Hinshelwood
 id: "96"
@@ -33,3 +34,4 @@ I am currently working on the Web Services and how to pass and store the data I 
 I might need to learn a little Ruby :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [Developing](http://technorati.com/tags/Developing) [WIT](http://technorati.com/tags/WIT) [Version Control](http://technorati.com/tags/Version+Control) [WCF](http://technorati.com/tags/WCF) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
+

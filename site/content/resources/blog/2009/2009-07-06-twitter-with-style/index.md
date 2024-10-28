@@ -1,5 +1,6 @@
 ---
 title: Twitter with style
+description: "Discover how Twikini enhances your Twitter experience on Windows Mobile 6.5. Learn tips and features that make tweeting stylish and efficient!"
 date: 2009-07-06
 creator: Martin Hinshelwood
 id: "105"
@@ -25,3 +26,4 @@ I had used a few of the other apps that are available, but I think this is the b
 Ahh well, can’t have everything…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Windows](http://technorati.com/tags/Windows)
+

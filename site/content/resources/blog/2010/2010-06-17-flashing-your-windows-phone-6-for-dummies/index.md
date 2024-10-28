@@ -1,5 +1,6 @@
 ---
 title: Flashing your Windows Phone 6 for Dummies
+description: "Unlock your Windows Phone 6 with our step-by-step guide to flashing custom ROMs. Discover tips, tools, and risks to enhance your mobile experience!"
 date: 2010-06-17
 creator: Martin Hinshelwood
 id: "38"
@@ -104,3 +105,4 @@ If you have gotten this far then you are probably a pro by now ![Smile](images/F
 While updating your ROM is not for the faint hearted it provides more options than the Stock ROM’s and quicker feature updates than waiting…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

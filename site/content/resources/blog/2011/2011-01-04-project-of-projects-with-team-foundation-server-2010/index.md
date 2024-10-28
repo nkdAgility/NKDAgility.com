@@ -1,5 +1,6 @@
 ---
 title: Project of Projects with team Foundation Server 2010
+description: "Discover best practices for using Team Foundation Server 2010 effectively. Learn to structure projects intuitively for enhanced collaboration and efficiency."
 date: 2011-01-04
 creator: Martin Hinshelwood
 id: "18"
@@ -130,3 +131,4 @@ It is really easy to both achieve and to stick to this format if you take the ti
 run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.
 
 **Let me know if you can think of any other things to make this easier.**
+

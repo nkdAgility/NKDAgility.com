@@ -1,5 +1,6 @@
 ---
 title: Creating a Data Access layer using Unity
+description: "Learn to create a robust Data Access layer using Unity for efficient dependency injection and mapping. Simplify your coding process with expert insights!"
 date: 2009-07-30
 creator: Martin Hinshelwood
 id: "95"
@@ -235,3 +236,4 @@ Dim dal As IHypotheticalDataBits = DataAccessFactory.Instance.GetDataAccess(Of I
 Any easier and it would be writing for you :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [Version Control](http://technorati.com/tags/Version+Control) [CodeProject](http://technorati.com/tags/CodeProject)
+

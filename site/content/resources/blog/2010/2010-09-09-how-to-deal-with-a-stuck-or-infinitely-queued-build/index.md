@@ -1,5 +1,6 @@
 ---
 title: How to deal with a stuck or infinitely queued build
+description: "Learn how to troubleshoot stuck or infinitely queued builds in Team Foundation Server. Optimize your build process and ensure timely completions with expert tips!"
 date: 2010-09-09
 creator: Martin Hinshelwood
 id: "27"
@@ -101,3 +102,4 @@ Then we need to queue another build.
 Done
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

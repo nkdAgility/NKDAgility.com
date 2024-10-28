@@ -1,5 +1,6 @@
 ---
 title: Log Elmah errors in Team Foundation Server
+description: "Learn how to log Elmah errors in Team Foundation Server effectively. Discover methods to streamline error tracking and enhance your development process."
 date: 2009-07-26
 creator: Martin Hinshelwood
 id: "97"
@@ -628,3 +629,4 @@ End Class
 ```
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
+

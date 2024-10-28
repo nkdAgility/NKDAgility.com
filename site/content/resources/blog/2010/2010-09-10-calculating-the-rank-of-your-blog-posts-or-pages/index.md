@@ -1,5 +1,6 @@
 ---
 title: Calculating the Rank of your blog posts or pages
+description: "Discover how to rank your blog posts using an innovative algorithm that leverages social media metrics and Google Page Rank to enhance content visibility."
 date: 2010-09-10
 creator: Martin Hinshelwood
 id: "26"
@@ -155,3 +156,4 @@ The whole purpose of this is to surface content on your site that is popular, an
 - **What other data collectors would you like to see?**
 
 Technorati Tags: [Links](http://technorati.com/tags/Links),[.NET](http://technorati.com/tags/.NET),[WCF](http://technorati.com/tags/WCF)
+

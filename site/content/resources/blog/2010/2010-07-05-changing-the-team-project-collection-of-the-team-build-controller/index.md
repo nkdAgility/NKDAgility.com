@@ -1,5 +1,6 @@
 ---
 title: Changing the Team Project Collection of the Team Build Controller
+description: "Learn how to change the Team Project Collection of the Team Build Controller in TFS 2010 for seamless builds and efficient project management. Get started now!"
 date: 2010-07-05
 creator: Martin Hinshelwood
 id: "35"
@@ -65,3 +66,4 @@ Now that you have the Build Service configured to work against your new Team Pro
 You can now go forth and create builds…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

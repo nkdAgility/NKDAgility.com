@@ -1,5 +1,6 @@
 ---
 title: Running Android 2.2 (Frodo) on your HD2
+description: "Discover how to run Android 2.2 (Frodo) on your HD2 for a superior mobile experience. Step-by-step guide and tips for optimal performance await!"
 date: 2010-09-02
 creator: Martin Hinshelwood
 id: "29"
@@ -86,3 +87,4 @@ I really do like Android, and if Windows Phone 7 does not live up to its expecta
 Running Android on my HD2 is such a superior experience that Windows Phone 7 will need to be almost perfect beat it; I really hope it is…
 
 Technorati Tags: [Android](http://technorati.com/tags/Android),[HD2](http://technorati.com/tags/HD2),[WM6](http://technorati.com/tags/WM6)
+
