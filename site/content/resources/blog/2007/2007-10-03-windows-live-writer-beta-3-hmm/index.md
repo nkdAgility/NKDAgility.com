@@ -1,5 +1,6 @@
 ---
 title: Windows Live Writer Beta 3 Hmm!
+description: "Explore the quirks of Windows Live Writer Beta 3 as I share my support experience and the hunt for the correct download link. Join the conversation!"
 date: 2007-10-03
 creator: Martin Hinshelwood
 id: "305"
@@ -34,3 +35,4 @@ UPDATE:
 But not Beta 3: dough!
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

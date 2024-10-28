@@ -1,5 +1,6 @@
 ---
 title: TFS Stick Buddy v0.4.0 CTP2 released
+description: "Discover the latest TFS Stick Buddy v0.4.0 CTP2 release! Customize your work item display and enhance your project management experience. Download now!"
 date: 2008-04-17
 creator: Martin Hinshelwood
 id: "238"
@@ -71,3 +72,4 @@ You can even use the [discussion forums](http://www.codeplex.com/TFSStickyBuddy/
 [**Download TFS Stick Buddy v0.4.0 CTP2 Now**](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)**...**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

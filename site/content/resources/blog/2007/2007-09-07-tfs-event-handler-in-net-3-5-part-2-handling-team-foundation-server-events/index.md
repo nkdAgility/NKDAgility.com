@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler in .NET 3.5 Part 2 - Handling Team Foundation Server Events
+description: "Learn to create a resilient TFS Event Handler in .NET 3.5. This guide covers handling events effectively, enhancing your development workflow."
 date: 2007-09-07
 creator: Martin Hinshelwood
 id: "3469"
@@ -263,3 +264,4 @@ As you can see it is just a case of parsing the URL to get the last bit after th
 All of the objects are now ready to pass over MSMQ to the TFS Event Processor, which will be the subject of the next article in this series...
 
 Technorati Tags: [Visual Studio Team System](http://technorati.com/tags/Visual%20Studio%20Team%20System), [Visual Studio 2008](http://technorati.com/tags/Visual%20Studio%202008), [Team Edition for Architects](http://technorati.com/tags/Team%20Edition%20for%20Architects), [TFSEventHandler](http://technorati.com/tags/TFSEventHandler), [Microsoft .NET Framework](http://technorati.com/tags/Microsoft%20.NET%20Framework), [Software Industrial Revolution](http://technorati.com/tags/Software%20Industrial%20Revolution), [WCF](http://technorati.com/tags/WCF), [TFS Event Handler](http://technorati.com/tags/TFS%20Event%20Handler)
+

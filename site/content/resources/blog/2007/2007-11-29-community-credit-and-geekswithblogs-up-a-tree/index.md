@@ -1,5 +1,6 @@
 ---
 title: Community Credit and GeeksWithBlogs up a tree...
+description: "Discover the exciting integration of GeeksWithBlogs and Community Credit! Celebrate this union and explore the benefits for the blogging community."
 date: 2007-11-29
 creator: Martin Hinshelwood
 id: "282"
@@ -26,3 +27,4 @@ A long and happy integration to you both...
 Now all we need is a child component to select the CC category from Windows Live Writer :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [Live](http://technorati.com/tags/Live)
+

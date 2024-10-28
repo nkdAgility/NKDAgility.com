@@ -1,5 +1,6 @@
 ---
 title: Creating a custom proxy class
+description: "Learn to create a custom proxy class in .NET 3.0 for better maintainability and less code. Enhance your service-oriented architecture skills today!"
 date: 2007-08-20
 creator: Martin Hinshelwood
 id: "326"
@@ -60,3 +61,4 @@ Because your classes implements the service's interface when that interface chan
 This particular class is a duplex proxy, so communication can go both ways. You can download the source code for this from [here](http://www.codeplex.com/TFSEventHandler/SourceControl/DownloadSourceCode.aspx?changeSetId=8644).
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
+

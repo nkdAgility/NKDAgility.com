@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler Revisited
+description: "Explore the challenges and solutions in revisiting the TFS Event Handler for Visual Studio 2008. Join Martin Hinshelwood on this coding journey!"
 date: 2008-01-08
 creator: Martin Hinshelwood
 id: "266"
@@ -28,3 +29,4 @@ Hopefully this will not be much work...
 Well, I was wrong... Looks like some language compatibility problems...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
+

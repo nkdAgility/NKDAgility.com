@@ -1,5 +1,6 @@
 ---
 title: Mozy update
+description: "Discover how I expanded my Mozy storage to 4.3 GB and optimized my backup strategy. Learn tips for efficient online storage management!"
 date: 2007-12-02
 creator: Martin Hinshelwood
 id: "281"
@@ -30,3 +31,4 @@ Again I would like to thank a few guys for their mega byte support:
 [Andrew Stifora](http://stifora.com/), [Garrett Hoofman](http://geekswithblogs.net/gambit_sunob/Default.aspx), [Peter Benschop](http://www.linkedin.com/pub/2/56A/667), chan pen, Jeroen te Strake, Thomas Williams, Jim Calder, [Stuart McVicar](http://stuartmcvicar.net/2007/08/26/charging-membership-for-forums/), John Hinshelwood
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

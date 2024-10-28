@@ -1,5 +1,6 @@
 ---
 title: A new day, a new week, a new Team Server
+description: "Discover the seamless upgrade to TFS2008 and explore new project capabilities with Visual Studio 2005. Enhance your development environment today!"
 date: 2007-08-13
 creator: Martin Hinshelwood
 id: "333"
@@ -27,3 +28,4 @@ I now need to look at the Sharepoint integration and I will probably need to wri
 Ah, well. At least I get to play with 2008!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

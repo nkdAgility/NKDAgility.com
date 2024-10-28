@@ -1,5 +1,6 @@
 ---
 title: Experts Exchange Hell - The slowest site in the world.
+description: "Discover the frustrations of navigating Experts Exchange, the slowest site in the world. Join the conversation on web performance and user experience!"
 date: 2007-10-05
 creator: Martin Hinshelwood
 id: "302"
@@ -50,3 +51,4 @@ Click [![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb_
 { .post-img }
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

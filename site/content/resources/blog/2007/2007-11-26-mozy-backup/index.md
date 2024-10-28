@@ -1,5 +1,6 @@
 ---
 title: Mozy Backup
+description: "Discover Mozy Backup, an affordable online backup solution with 2GB free space. Simple setup and reliable service to protect your digital life. Try it now!"
 date: 2007-11-26
 creator: Martin Hinshelwood
 id: "287"
@@ -34,3 +35,4 @@ And speaking of data size, did you notice that I don't have enough space for a f
 Only 11 hours to go till I have a full backup :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

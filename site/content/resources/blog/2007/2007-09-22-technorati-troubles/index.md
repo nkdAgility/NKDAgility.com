@@ -1,5 +1,6 @@
 ---
 title: Technorati Troubles
+description: "Struggling with Technorati? Discover my challenges with URL redirects and invalid tags, and join the conversation on resolving these blogging issues."
 date: 2007-09-22
 creator: Martin Hinshelwood
 id: "308"
@@ -29,3 +30,4 @@ _UPDATE:_
 _Nope, not working._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

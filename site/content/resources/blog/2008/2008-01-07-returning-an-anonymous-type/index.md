@@ -1,5 +1,6 @@
 ---
 title: Returning an Anonymous type...
+description: "Discover how to return an anonymous type in VB.NET and enhance your coding skills. Learn practical examples and improve your development process today!"
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "268"
@@ -57,3 +58,4 @@ The use of this is very simple, although I would like an option other than to re
 There is no intellisense with this, so you have to know what the options are. Hopefully in future versions this will be rectified.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

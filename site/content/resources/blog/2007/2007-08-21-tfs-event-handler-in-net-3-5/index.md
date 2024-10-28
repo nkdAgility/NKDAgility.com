@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler in .NET 3.5
+description: "Explore how to create a resilient TFS Event Handler in .NET 3.5. Learn architecture, event handling, and more in this comprehensive guide by Martin Hinshelwood."
 date: 2007-08-21
 creator: Martin Hinshelwood
 id: "325"
@@ -31,3 +32,4 @@ I have decided to have a little go at creating a Team Foundation Server Event Ha
 4. TFS Event Handler in .NET 3.5 Part 4 - Workflow (Coming soon)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [ALM](http://technorati.com/tags/ALM) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing)
+

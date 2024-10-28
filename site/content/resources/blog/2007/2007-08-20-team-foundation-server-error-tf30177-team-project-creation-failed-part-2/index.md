@@ -1,5 +1,6 @@
 ---
 title: "Team Foundation Server Error TF30177: Team Project Creation Failed  - Part 2"
+description: "Troubleshoot Team Foundation Server error TF30177 with expert insights. Learn to resolve project creation issues in SharePoint effectively. Read more!"
 date: 2007-08-20
 creator: Martin Hinshelwood
 id: "327"
@@ -86,3 +87,4 @@ Once you have added this Managed Path you will need to modify TFS to create site
 Well that's it, debugging team server errors is fun, but not for the faint hearted...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

@@ -1,5 +1,6 @@
 ---
 title: Festive holiday studying
+description: "Join Martin Hinshelwood as he shares his festive holiday plans, Xbox gaming, and insights on mastering WPF for .NET development. Embrace the holiday spirit!"
 date: 2007-12-18
 creator: Martin Hinshelwood
 id: "273"
@@ -38,3 +39,4 @@ I will leave you with the "[Hinshelwood family Christmas elf's](http://www.elfyo
 P.S. Yippee, 200 posts...Just in time for the New Year...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [Xbox](http://technorati.com/tags/Xbox) [WPF](http://technorati.com/tags/WPF) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

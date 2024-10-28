@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler gets 3 stars from Accentient
+description: "Discover how the TFS Event Handler earned 3 stars from Accentient, showcasing its popularity and impact in the TFS community. Explore the details now!"
 date: 2007-11-28
 creator: Martin Hinshelwood
 id: "284"
@@ -26,3 +27,4 @@ Its even second from the top ![smile_omg](images/smile_omg-2-2.gif)... makes me 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

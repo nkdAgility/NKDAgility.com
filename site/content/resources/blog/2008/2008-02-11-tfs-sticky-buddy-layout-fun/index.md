@@ -1,5 +1,6 @@
 ---
 title: TFS Sticky Buddy layout fun...
+description: "Explore the challenges and triumphs of developing the TFS Sticky Buddy with Windows Forms and WPF. Join Martin Hinshelwood on this coding adventure!"
 date: 2008-02-11
 creator: Martin Hinshelwood
 id: "249"
@@ -49,3 +50,4 @@ I want to have nice little callouts of information when you move your mouse over
 [Technorati Profile](http://technorati.com/claim/vbgrtargkp)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [WPF](http://technorati.com/tags/WPF)
+

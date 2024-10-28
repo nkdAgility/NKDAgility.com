@@ -1,5 +1,6 @@
 ---
 title: Installing TFS 2008 from scratch
+description: "Learn how to install TFS 2008 from scratch with expert tips on setup, reporting, and SharePoint integration. Simplify your deployment process today!"
 date: 2007-10-20
 creator: Martin Hinshelwood
 id: "297"
@@ -46,3 +47,4 @@ But I still have the old issue of not being able to authenticate when I am on th
 This is no problem as that was how it worked in my previous environment. I think it is a proxy server issue, but I am not sure. Not much of a problem though...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

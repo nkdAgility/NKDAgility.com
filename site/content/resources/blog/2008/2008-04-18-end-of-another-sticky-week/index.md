@@ -1,5 +1,6 @@
 ---
 title: End of another Sticky week...
+description: "Explore the latest updates on the TFS Sticky Buddy project, featuring new external server connections and customizable skins for enhanced productivity!"
 date: 2008-04-18
 creator: Martin Hinshelwood
 id: "237"
@@ -32,3 +33,4 @@ One of the major improvements is the ability to add skins for different TFS life
 If you want a go of these features you will need to [download the source](http://www.codeplex.com/TFSStickyBuddy/SourceControl/ListDownloadableCommits.aspx) and build the main folder code... but there will be a release soon..
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

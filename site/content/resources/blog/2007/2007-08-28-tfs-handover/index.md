@@ -1,5 +1,6 @@
 ---
 title: TFS Handover
+description: "Explore essential TFS handover documentation by Martin Hinshelwood, detailing installation tips and management insights for a smooth transition in your office."
 date: 2007-08-28
 creator: Martin Hinshelwood
 id: "319"
@@ -26,3 +27,4 @@ TFS 2005 is a pain to install, but it is just fine to manage and over the last 
 I would always rather a painfully install than painfully management...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS 2005](http://technorati.com/tags/TFS+2005)
+

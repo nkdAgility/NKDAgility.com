@@ -1,5 +1,6 @@
 ---
 title: No love between McAfee Enterprise and MOSS 2007
+description: "Discover the issues between McAfee Enterprise and MOSS 2007 that hinder SharePoint performance. Learn how to resolve conflicts for smoother operations."
 date: 2007-12-13
 creator: Martin Hinshelwood
 id: "274"
@@ -43,3 +44,4 @@ Now, McAfee say that they support SharePoint Services 3.0, but MOSS has a bunch 
 Hopefully I can get this sorted soon.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

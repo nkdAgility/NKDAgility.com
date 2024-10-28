@@ -1,5 +1,6 @@
 ---
 title: Search just got better
+description: "Discover Tafiti, a revolutionary search tool designed for dyslexic users. Experience intuitive features that enhance your search efficiency and ease."
 date: 2007-08-21
 creator: Martin Hinshelwood
 id: "323"
@@ -50,3 +51,4 @@ The screen shot does not really do it justice, but this is an fantastic way to s
 I will be keeping my eye on this and I hope that even after continued use I am still using it as my main search engine: Oh, I just thought, we have Virtual Workstations in the office and I will need to see if it even works on them: I know that video, flash and big Powerpoint presentations do not.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

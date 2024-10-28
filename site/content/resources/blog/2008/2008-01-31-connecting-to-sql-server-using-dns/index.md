@@ -1,5 +1,6 @@
 ---
 title: Connecting to SQL Server using DNS
+description: "Learn how to connect to SQL Server using DNS with integrated authentication. Discover essential SPN setup and configuration tips for seamless access."
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "256"
@@ -57,3 +58,4 @@ I'm off to make a request for infrastructure to run this...![smile_speedy](image
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
+

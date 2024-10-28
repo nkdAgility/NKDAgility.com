@@ -1,5 +1,6 @@
 ---
 title: "Team Foundation Server Error TF30177 : Team Project Creation Failed"
+description: "Resolve the TF30177 error in Team Foundation Server with our step-by-step guide. Learn how to fix project creation issues and optimize your TFS setup."
 date: 2007-08-14
 creator: Martin Hinshelwood
 id: "332"
@@ -79,3 +80,4 @@ You can repeat this for the WSS (Windows Sharepoint Services) section.
 All done and TFS should work. Although it is worth noting that in my company environment I could then no longer create projects from the TFS App server itself as \[serverName\] works but the FQDN did not. Typical...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
+

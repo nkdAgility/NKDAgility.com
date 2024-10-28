@@ -1,5 +1,6 @@
 ---
 title: It's nice to be appreciated!
+description: "Discover the joy of recognition with Community Credit! Join Martin Hinshelwood as he shares his journey of tech involvement and the rewards of appreciation."
 date: 2007-11-29
 creator: Martin Hinshelwood
 id: "283"
@@ -24,3 +25,4 @@ In my second month of posting I tore the cartilage in my knee (Ouch!) and so wit
 David just [posted](http://www.community-credit.com/cs/blogs/community_credit_news/archive/2007/11/29/Thanks_2C00_-Martin-Hinshelwood_2C00_-you-Saved-the-Day.aspx) a nice recognition blog about it...thanks David...what about some extra credit :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Silverlight](http://technorati.com/tags/Silverlight)
+

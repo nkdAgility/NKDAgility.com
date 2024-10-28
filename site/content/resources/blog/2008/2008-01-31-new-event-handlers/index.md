@@ -1,5 +1,6 @@
 ---
 title: New Event Handlers
+description: "Discover new event handlers for TFS that enhance work item tracking. Learn how to implement the Assigned To and Reassigned handlers easily!"
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "258"
@@ -56,3 +57,4 @@ And if you want the Reassigned handler to work add the following line:
 If you want both to work...then add both...easy.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+
