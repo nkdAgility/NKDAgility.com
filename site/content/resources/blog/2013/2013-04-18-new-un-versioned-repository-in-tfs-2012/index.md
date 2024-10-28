@@ -1,5 +1,6 @@
 ---
 title: New un-versioned repository in TFS 2012
+description: "Discover the benefits of the new un-versioned repository in TFS 2012, streamlining build drop management and enhancing your development workflow."
 date: 2013-04-18
 creator: Martin Hinshelwood
 id: "9452"
@@ -82,3 +83,4 @@ While heavy handed it does clean up things nicely.
 ## Conclusion
 
 We can only hope that this will be a feature of dev12! And what else might the product team decide to do with an un-versioned store? Symbols; Nuget Packages… the options are endless…
+

@@ -1,5 +1,6 @@
 ---
 title: Choosing a Process Template for your Team Project
+description: "Discover the best process template for your agile team project. Learn why the Scrum template minimizes friction and enhances your development workflow."
 date: 2017-05-16
 creator: Martin Hinshelwood
 id: "10356"
@@ -93,3 +94,4 @@ These customisations are non-intrusive and have a limited impact on reporting an
 ## Conclusion
 
 Choose the Microsoft Visual Studio Scrum process template if you don't want to be limited by MSF. What other customisations do you make to your Scrum template to support your lean-agile process?
+

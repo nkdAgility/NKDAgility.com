@@ -1,5 +1,6 @@
 ---
 title: "Big Scrum: All you need and not enough"
+description: "Explore the challenges of scaling Scrum in 'Big Scrum: All you need and not enough.' Discover essential practices for achieving agility at scale."
 date: 2015-07-01
 creator: Martin Hinshelwood
 id: "11361"
@@ -44,3 +45,4 @@ At the end of the session I highlighted a small number of additional, but option
 > ## Big Scrum: All you need and not enough
 >
 > The proliferation of scaling frameworks shows there are real challenges in scaling agility, and the solutions don’t seem to involve inventing yet more frameworks or formal processes. So then, why is it so hard to find success in agility at scale? Large scale agility can be found in exploiting Scrum’s simplicity while emerging and sustaining technical excellence. Something that sounds so easy shouldn't be so hard, and for some it isn't. This session highlights successes in growing large scale agility using Big Scrum while maintaining technical excellence to deliver value faster.
+

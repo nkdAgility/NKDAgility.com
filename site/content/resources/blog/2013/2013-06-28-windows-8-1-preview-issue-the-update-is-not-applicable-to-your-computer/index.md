@@ -1,5 +1,6 @@
 ---
 title: Windows 8.1 Preview Issue - The update is not applicable to your computer
+description: "Facing the 'update not applicable' error on Windows 8.1? Discover effective solutions to install the update and enhance your system performance!"
 date: 2013-06-28
 creator: Martin Hinshelwood
 id: "9914"
@@ -130,3 +131,4 @@ You can however only keep your personal files this way and you will have to rein
 ## Conclusion
 
 Windows 8.1 is awesome but I was only able to use the Windows 8.1 Store Update option on my Tablet that was a US device. My Desktop and my VM’s had to be done with #3 above and nether #1 or #2 worked with an en-GB version of the OS.
+

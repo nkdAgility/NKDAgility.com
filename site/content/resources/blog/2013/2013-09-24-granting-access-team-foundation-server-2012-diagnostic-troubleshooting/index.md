@@ -1,5 +1,6 @@
 ---
 title: Granting access to Team Foundation Server 2012 for diagnostic troubleshooting
+description: "Learn how to grant access to TFS 2012 for diagnostic troubleshooting without full admin rights. Enhance your efficiency with simple command line solutions!"
 date: 2013-09-24
 creator: Martin Hinshelwood
 id: "10002"
@@ -42,3 +43,4 @@ This gives that group explicit access.
 Figure: Use the command line to grant diagnostic troubleshooting permission
 
 What might be a better and more manageable solution would be to create a group called “Team Foundation Troubleshooters” and instead grant that group permission to that access control. This is done in exactly the same way, you just need to replace the domain account with the TFS Group.
+

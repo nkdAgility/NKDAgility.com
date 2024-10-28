@@ -1,5 +1,6 @@
 ---
 title: TFS 2012 Agile Planning Tools Issue - nested tasks makes the parent task disappear
+description: "Discover why using nested tasks in TFS 2012 Agile Planning Tools can lead to issues. Learn the best practices for effective backlog management."
 date: 2012-10-14
 creator: Martin Hinshelwood
 id: "8936"
@@ -94,3 +95,4 @@ You will find that when you try to drag the parent into a Sprint you will be pre
 This is the same behaviour as we saw on the tasks, but it now makes sense as we no longer care about delivering the parent PBI.
 
 If you break down a Product Backlog Item into more granular Product Backlog Items those sub items should reflect the entirety of the work that needs to be done to achieve the parent and thus rendering the parent superfluous for all but upstream reporting. If you break a Product Backlog Item down into Tasks those Tasks should represent the Development Teams best guess at what actions / work needs to be undertaken to complete that Product Backlog Item.
+

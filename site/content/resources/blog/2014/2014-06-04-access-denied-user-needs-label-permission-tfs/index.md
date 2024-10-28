@@ -1,5 +1,6 @@
 ---
 title: Access denied user needs label permission in TFS
+description: "Learn how to resolve the 'Access denied user needs label permission in TFS' error and optimize your TFS security settings for smoother project management."
 date: 2014-06-04
 creator: Martin Hinshelwood
 id: "10546"
@@ -42,3 +43,4 @@ Mind blown…
 { .post-img }
 
 My solution was to just give contributors access only to labels at the root. This stops that pesky error from occurring in the IDE and really does not pose a security risk.
+

@@ -1,5 +1,6 @@
 ---
 title: Moving OneDrive for Business files to a different drive
+description: "Learn how to efficiently move your OneDrive for Business files to a new drive, freeing up space and ensuring seamless access. Follow these easy steps!"
 date: 2016-02-03
 creator: Martin Hinshelwood
 id: "11440"
@@ -62,3 +63,4 @@ So, in order to move your OneDrive location you need to first "Unlink" your OneD
    { .post-img }
 
 And that’s it… your OneDrive files are not in a new location, and in my case, on a new disk. That’s 80GB freed up from my Windows drive…
+

@@ -1,5 +1,6 @@
 ---
 title: Mapping your Windows Special Folders to OneDrive for Business - Ultimate Backup
+description: "Learn how to map Windows special folders to OneDrive for Business for seamless backup and access across devices. Keep your files safe and synced effortlessly!"
 date: 2016-02-10
 creator: Martin Hinshelwood
 id: "11430"
@@ -44,3 +45,4 @@ I configured this for most of my family and while they don’t need to worry or 
 Once you have changed the folder you will be asked to move all of the files, which I recommend, and then you will be asked if you are really sure that you want to merge the files. Merging can't really be undone as the folders will be intermixed so make sure you have both locations in order before you just squish them together.
 
 Now go do it for your other special folders, including Desktop, and everything you save will always be safe as long as you have an internet connection.
+

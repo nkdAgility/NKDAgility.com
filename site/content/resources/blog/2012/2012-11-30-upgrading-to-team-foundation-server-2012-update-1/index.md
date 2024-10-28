@@ -1,5 +1,6 @@
 ---
 title: Upgrading to Team Foundation Server 2012 Update 1
+description: "Upgrade your Team Foundation Server to 2012 Update 1 effortlessly with our step-by-step guide. Ensure a smooth transition and enhance your development environment!"
 date: 2012-11-30
 creator: Martin Hinshelwood
 id: "9161"
@@ -91,3 +92,4 @@ In the real world I dought that many folks will be changing their settings as pa
 This is an easy update with very low risk and can be done in place if you are upgrading from the 2012 RTM.
 
 It takes a little more planning to go from 2008 or 2010 to 2012, but it is ultimately just as easy.
+

@@ -1,5 +1,6 @@
 ---
 title: Upcomming Scrum at Scale Workshop from Scrum.org
+description: "Join the Scrum at Scale Workshop by Scrum.org to drive agile transformation in your organization. Learn to implement effective change and improve culture!"
 date: 2014-10-22
 creator: Martin Hinshelwood
 id: "10824"
@@ -38,3 +39,4 @@ This is why Scrum.org (Ken Schwaber) & Scrum Inc. (Jeff Sutherland) have joined 
 { .post-img }
 
 The first two ever public courses for Scrum at Scale is available: [https://www.scrum.org/courses/scrum-at-scale](https://www.scrum.org/courses/scrum-at-scale)
+

@@ -1,5 +1,6 @@
 ---
 title: Writing .NET in PowerShell and creating TFS Teams
+description: "Discover how to leverage PowerShell for .NET and TFS API to create teams programmatically. Unlock new coding possibilities with practical insights!"
 date: 2013-06-13
 creator: Martin Hinshelwood
 id: "9903"
@@ -129,3 +130,4 @@ catch
 Now we begin to get a picture of what is possible inside PowerShell. Would the above be easier if  there were nice easy commands like “Add-Team” or “Add-TeamProject” existed? Well yes it would, but that they don’t is not going to cripple us. We can get buy without them..
 
 In short, anything you can do in code you can do in PowerShell.
+

@@ -1,5 +1,6 @@
 ---
 title: Upgrade your server to Windows Server 2012 R2 Update 1
+description: "Upgrade your server to Windows Server 2012 R2 Update 1 with our step-by-step guide. Ensure your systems are up-to-date for optimal performance and security."
 date: 2014-04-03
 creator: Martin Hinshelwood
 id: "10472"
@@ -62,3 +63,4 @@ After you have completed all of the updates restart your server and wait for a w
 Figure: Windows Server 2012 R2 Update 1
 
 Not only did all of the updates install with no issues, all of the machines came back up and all services (those I changes anyway) are functional. Now that I have my Domain Controller and Team Foundation Server upgraded to Windows Server 2012 R2 Update 1 I can continue to updating TFS to Visual Studio Team Foundation Server 2013 Update 2 which was also released yesterday.
+

@@ -1,5 +1,6 @@
 ---
 title: Unable to load task handler PowerShell for task VSBuild
+description: "Resolve the 'Unable to load task handler PowerShell for task VSBuild' error in TFS 2015 with our troubleshooting guide. Get your builds running smoothly!"
 date: 2015-03-18
 creator: Martin Hinshelwood
 id: "11097"
@@ -80,3 +81,4 @@ So if you are downloading a Zip file from the internet you may need to unblock t
 { .post-img }
 
 Woohoo… A successful build on the new Build vNext…
+

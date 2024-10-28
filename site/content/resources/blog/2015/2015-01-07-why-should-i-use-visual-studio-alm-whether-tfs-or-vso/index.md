@@ -1,5 +1,6 @@
 ---
 title: Why should I use Visual Studio ALM
+description: "Discover why Visual Studio ALM is essential for effective application lifecycle management. Learn key considerations for tool selection and maximize your team's potential."
 date: 2015-01-07
 creator: Martin Hinshelwood
 id: "10990"
@@ -87,3 +88,4 @@ You can even start as small as a single project in Visual Studio Online (TFS in 
 Do you want to maintain your own hybrid solution? Coz it’s a lot of work to get what Visual Studio ALM provides out of the box to hand together effectively. For me, I am happy to use TFS and VSO for both small simple solutions, and for large complicated ones.
 
 **What is your ALM story?**
+

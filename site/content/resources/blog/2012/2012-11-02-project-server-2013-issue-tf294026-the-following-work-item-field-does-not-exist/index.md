@@ -1,5 +1,6 @@
 ---
 title: "Project Server 2013 Issue – TF294026: The following work item field does not exist"
+description: "Resolve the TF294026 error in Project Server 2013 with our guide. Learn how to add missing work item fields for seamless Team Foundation Server integration."
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9103"
@@ -74,3 +75,4 @@ Warning The documentation on MSDN is currently out of date and misses two fields
 **Figure: Add both Original Estimate and Completed Work**
 
 Although we are adding these fields to the Task type we are not necessarily adding them to the UI for users to fill out. We can leave them available for Project Server, while out Team Members of a Scrum Team would be blissfully ignorant of their existence.
+

@@ -1,5 +1,6 @@
 ---
 title: Create log entries in Release Management
+description: "Learn how to create effective log entries in Release Management using PowerShell. Enhance your deployment process and ensure success with detailed logs!"
 date: 2014-12-12
 creator: Martin Hinshelwood
 id: "10975"
@@ -70,3 +71,4 @@ Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 { .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
+

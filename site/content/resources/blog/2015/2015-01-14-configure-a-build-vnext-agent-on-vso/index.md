@@ -1,5 +1,6 @@
 ---
 title: Configure a Build vNext Agent
+description: "Learn how to configure a Build vNext Agent on VSO with this comprehensive guide. Simplify your build process and enhance your development workflow today!"
 date: 2015-01-14
 creator: Martin Hinshelwood
 id: "11021"
@@ -138,3 +139,4 @@ The new build system promises to be both versatile and much simpler than its pre
 { .post-img }
 
 …thanks Chris!
+

@@ -1,5 +1,6 @@
 ---
 title: Avoid the pick-n-mix branching anti-pattern
+description: "Discover how to avoid the pick-n-mix branching anti-pattern in software development. Learn effective strategies to enhance code quality and team trust."
 date: 2014-07-14
 creator: Martin Hinshelwood
 id: "10649"
@@ -68,3 +69,4 @@ Once you are there you should look at implementing the engineering necessary in 
 Even while in a single branching model with binary promotion you may find the need to have a stepped model where you need to support multiple versions of your product. This can be achieved without crippling your teams by having your branching flow forward from parent to child as you move through major releases of your software.
 
 Ultimately there is no excuse for using the pick-n-mix branching anti-pattern for branching. Step up, be professional, and fix this one for good.
+

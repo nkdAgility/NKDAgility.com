@@ -1,5 +1,6 @@
 ---
 title: Migration from TF Service to TF Server with the TFS Integration Platform
+description: "Learn how to seamlessly migrate from TF Service to TF Server using the TFS Integration Platform. Ensure compliance and protect your data effectively!"
 date: 2013-04-18
 creator: Martin Hinshelwood
 id: "9443"
@@ -73,3 +74,4 @@ While you can move from Team Foundation Service to Team Foundation Server it wil
 It is not however for the faint of heart… it took us a few hours to figure out the solution above and about 12-15 failed migrations to get it right…
 
 All of this is in the documentation for the TFS Integration Platform…
+

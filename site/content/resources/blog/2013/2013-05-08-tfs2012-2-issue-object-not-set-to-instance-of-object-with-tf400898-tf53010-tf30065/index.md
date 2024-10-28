@@ -1,5 +1,6 @@
 ---
 title: "TFS2012.2 - Issue: Object not set to instance of object with TF400898, TF53010 & TF30065"
+description: "Discover solutions for the 'Object not set to instance of object' error in TFS 2012.2. Learn about known bugs and fixes to enhance your workflow."
 date: 2013-05-08
 creator: Martin Hinshelwood
 id: "9899"
@@ -142,3 +143,4 @@ As I had encountered this error before I knew there was a fix so I asked around 
 I have absolutely no problems recommending that my customer install [Visual Studio 2012 Update 3 RC 1 (KB2835600)](http://support.microsoft.com/kb/2835600). I have been using the go-live licence with customers for many years with few, but not no, issues. In fact I would say that I have had fewer issues with a TFS go-live version than with most other RTM’ed products.
 
 If you are installing the [Visual Studio 2012.3 (Update 3) “go-live” CTP](http://blogs.msdn.com/b/bharry/archive/2013/05/07/visual-studio-2012-3-update-3-go-live-ctp-is-now-available.aspx) then you just want to make sure that you test it first on a pre-production system and that you install the RTM upgrade as soon as it is available.
+

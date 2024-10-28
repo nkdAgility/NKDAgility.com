@@ -1,5 +1,6 @@
 ---
 title: "Lab Management Issue: Enable File and Printer Sharing for Lab Management Standard Environments"
+description: "Resolve file and printer sharing issues in Visual Studio 2012 Lab Management on Windows 8 and Server 2012. Follow our guide for seamless integration!"
 date: 2013-03-17
 creator: Martin Hinshelwood
 id: "9288"
@@ -87,3 +88,4 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
+

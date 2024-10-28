@@ -1,5 +1,6 @@
 ---
 title: Blogging from 2500 meters
+description: "Join Martin Hinshelwood as he blogs from the French Alps, sharing insights on skiing, tech challenges, and creative writing amidst stunning mountain views."
 date: 2014-04-17
 creator: Martin Hinshelwood
 id: "10509"
@@ -48,3 +49,4 @@ After publishing my most resent post it took about 10 minutes sitting editing th
 Don't get me wrong, if you look at the HTML generated from Word from even 5 years ago it would be far worse. It's better to the point it is even worth editing it to post rather than writing from scratch and drawing the pictures by hand.
 
 Word: You can do better.
+

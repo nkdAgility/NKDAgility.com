@@ -1,5 +1,6 @@
 ---
 title: "Windows 8 Issue: Unable to connect to the internet with Hyper-V domain joined guest running on WiFi"
+description: "Struggling with internet connectivity on Hyper-V guests in Windows 8? Discover solutions to fix Wi-Fi issues and optimize your network setup effectively!"
 date: 2013-03-15
 creator: Martin Hinshelwood
 id: "9281"
@@ -77,3 +78,4 @@ The solution is to make sure that all of the features for your Network Bridge ar
 **Figure: Default Network Bridge**
 
 Now I want all of those things when I am on a corporate network, so I just ticked all the boxes and OK’ed the warning and wow… everything now works…
+

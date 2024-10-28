@@ -1,5 +1,6 @@
 ---
 title: Searching for self-organisation
+description: "Explore the journey to self-organisation in teams. Discover strategies to foster accountability, identity, and high performance for agile success."
 date: 2013-07-31
 creator: Martin Hinshelwood
 id: "9741"
@@ -54,3 +55,4 @@ Remember that the biggest killer of self-organising teams is a manager who just 
 Without self-organisation, no matter how much we try, all we can ever have is a glorified collection on individuals that think and operate as individuals. Just like with sports teams we want to have those individuals identify as a team, to work together as a team and function as a team. The only way to achieve this is to have them **be a team**. You would not want the coach to swap out players on football game for every match? How effective would that be? So don’t do it to your teams…
 
 If you get really good at self-organising teams you may find your organisations formula to high-performing teams…
+

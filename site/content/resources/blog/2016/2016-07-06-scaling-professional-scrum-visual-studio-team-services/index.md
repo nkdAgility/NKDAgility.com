@@ -1,5 +1,6 @@
 ---
 title: Scaling Professional Scrum with Visual Studio Team Services
+description: "Discover how to scale Professional Scrum using Visual Studio Team Services. Learn strategies for effective team collaboration and automation in your projects."
 date: 2016-07-06
 creator: Martin Hinshelwood
 id: "11563"
@@ -56,3 +57,4 @@ This time no other than Martin Hinshelwood will join us for an interesting eveni
 While there are many tools out there to support Scrum only Visual Studio Team Services really support scaling scrum to the enterprise. If you have many teams working together on a single product then there is no better tool at scale than Visual Studio Team Services.
 
 Get in touch if you want me to speak at a User Group, if [I am going to be in your area](https://nkdagility.com/company/about-martin-hinshelwood/) then let me know!
+

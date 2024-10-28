@@ -1,5 +1,6 @@
 ---
 title: Create your own path to Organisational Agility
+description: "Discover how to tailor your path to organisational agility with evidence-based strategies. Empower your team and drive meaningful change today!"
 date: 2018-01-11
 creator: Martin Hinshelwood
 id: "11214"
@@ -107,3 +108,4 @@ The most effective agile transformations I have encountered have all got consist
 The other outcome of the Professional Scrum Foundations class is as a feeder into the organisational change backlog. Who better than the people that are actually doing the work, at all levels, and who have just learned about Scrum, to create Backlog Items? With the learnings of Scrum fresh in their mind, they are eminently perfect for identifying the Impediments in your current organisation to moving towards the new model. The last few hours of the class is dedicated to a workshop that gets all of your [stakeholders](https://nkdagility.com/training/audiences/stakeholders/) thinking about what needs to change to move to the new way.
 
 How do you create Backlog Items for your Organisational Change Backlog when every employee is a stakeholder?
+

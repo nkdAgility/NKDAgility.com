@@ -1,5 +1,6 @@
 ---
 title: Engaging with complexity - Team Foundation Server Edition
+description: "Explore the complexities of Team Foundation Server migrations in Silicon Valley. Learn strategies to streamline processes and enhance development efficiency."
 date: 2013-07-01
 creator: Martin Hinshelwood
 id: "9703"
@@ -420,3 +421,4 @@ All you need is a mapping CSV with a column for the old and new account names.
 ## Conclusion and more to come
 
 This is the first stage of a large complicated move that [involves SharePoint](http://nkdagility.com/engaging-with-complexity-sharepoint-edition/) as well, which I am helping the customer with.  The folks there are awesome and I hope to be back helping them out soon. For now they have lots of practice of this process to do and I wish them lots of luck…
+
