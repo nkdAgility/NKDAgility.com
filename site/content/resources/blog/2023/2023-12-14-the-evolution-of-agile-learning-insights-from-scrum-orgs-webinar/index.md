@@ -1,5 +1,6 @@
 ---
 title: "The Evolution of Agile Learning: Insights from Scrum.org's Webinar"
+description: "Discover the future of Agile training with immersive learning insights from Scrum.org's webinar. Enhance your skills and drive real change in your organization!"
 date: 2023-12-14
 creator: Martin Hinshelwood
 id: "50979"
@@ -149,3 +150,4 @@ _If you are underemployed, we can also create custom payment plans to help you o
 - [Is homework a necessary evil? (](https://www.apa.org/monitor/2016/03/homework)[apa.org](http://apa.org/)[)](https://www.apa.org/monitor/2016/03/homework)
 
 - [Immersive Learning Overview - naked Agility with Martin Hinshelwood (](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)[nkdagility.com](http://nkdagility.com/)[)](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)
+
