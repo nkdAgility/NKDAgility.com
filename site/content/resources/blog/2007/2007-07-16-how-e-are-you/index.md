@@ -1,5 +1,6 @@
 ---
 title: How 'e' are you?
+description: "Discover your e-score and see how you rank in the digital world! Join the fun and find out how 'e' you really are with our engaging quiz."
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "368"
@@ -27,3 +28,4 @@ my e-ranking: 413/9654
 [Try it yourself](http://www.howeru.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

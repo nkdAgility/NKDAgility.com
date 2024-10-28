@@ -1,5 +1,6 @@
 ---
 title: TFS Process Templates
+description: "Explore the extensibility of TFS process templates and learn how to configure them effectively for your projects. Enhance your development process today!"
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "386"
@@ -18,3 +19,4 @@ We have been working on our own process template, but developer are the worst pe
 If you are going to configure process templates for Team Foundation Server you should do it centimeter by centimeter and do not bite off more than you can chew.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

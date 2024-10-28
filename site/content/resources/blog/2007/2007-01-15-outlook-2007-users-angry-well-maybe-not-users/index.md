@@ -1,5 +1,6 @@
 ---
 title: Outlook 2007 users angry? Well maybe not users.
+description: "Discover why the uproar over Outlook 2007 changes may not concern users. Embrace the evolution of email as documents for better organization and efficiency."
 date: 2007-01-15
 creator: Martin Hinshelwood
 id: "442"
@@ -24,3 +25,4 @@ It is not the users that are angry. Why would they be, this does not significant
 Are there any USERS out there that are angry? I think not...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

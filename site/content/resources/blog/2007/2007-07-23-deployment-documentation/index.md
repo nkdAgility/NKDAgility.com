@@ -1,5 +1,6 @@
 ---
 title: Deployment documentation
+description: "Explore effective deployment strategies for complex applications across multiple environments. Learn how to gain control and streamline updates with ease."
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "363"
@@ -36,3 +37,4 @@ I want the vendor to provide MSI or EXE's for all releases of each of the compon
 **Has anyone been successfully?**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

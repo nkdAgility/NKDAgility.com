@@ -1,5 +1,6 @@
 ---
 title: Benefits of remote access for Team System
+description: "Discover the advantages of remote access for Team System, enabling seamless collaboration with global teams while ensuring secure and efficient project management."
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "398"
@@ -20,3 +21,4 @@ If you use the work items to track all the tasks you will be able to seamlessly 
 [Do you want to know more?](http://msdn2.microsoft.com/en-gb/teamsystem/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -1,5 +1,6 @@
 ---
 title: "TFS EventHandler: MSMQ Refactor"
+description: "Explore the TFS EventHandler MSMQ Refactor as Martin Hinshelwood shares insights on streamlining event handling with a modular approach. Stay tuned for updates!"
 date: 2007-04-30
 creator: Martin Hinshelwood
 id: "407"
@@ -23,3 +24,4 @@ This should be pretty neat once it is complete, and the interface should allow u
 Still a long way to go... But I hope to have a working version by the end of the week...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
+

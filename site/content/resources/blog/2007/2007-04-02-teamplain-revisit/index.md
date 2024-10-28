@@ -1,5 +1,6 @@
 ---
 title: TeamPlain - Revisit
+description: "Discover a clever workaround for long project names in TeamPlain. Enhance your project management with this practical JavaScript solution. Read more!"
 date: 2007-04-02
 creator: Martin Hinshelwood
 id: "419"
@@ -51,3 +52,4 @@ I know it is ugly, but it is the sort of "Tactical" work around that gets the sh
 I permanent solution would be nested projects (Or and Organizational Unit separator for the project name) from Microsoft, but I don't think it is on the cards in the near future!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

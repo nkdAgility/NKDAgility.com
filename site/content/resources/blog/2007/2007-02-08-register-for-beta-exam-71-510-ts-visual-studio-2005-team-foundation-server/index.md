@@ -1,5 +1,6 @@
 ---
 title: "Register For Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
+description: "Register now for the beta exam 71-510 on Visual Studio 2005 Team Foundation Server. Secure your spot and advance your MCTS certification today!"
 date: 2007-02-08
 creator: Martin Hinshelwood
 id: "434"
@@ -40,3 +41,4 @@ Receiving this invitation does not guarantee you a seat in the beta; we recommen
 •VUE: [http://www.vue.com/ms/](http://www.vue.com/ms/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

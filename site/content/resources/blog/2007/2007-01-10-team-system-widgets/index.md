@@ -1,5 +1,6 @@
 ---
 title: Team System Widgets
+description: "Discover essential applications for Team System to enhance your TFS experience. Explore updates and insights on TeamPlain and more to boost your productivity!"
 date: 2007-01-10
 creator: Martin Hinshelwood
 id: "445"
@@ -21,3 +22,4 @@ I am particularly interested in the [TeamPlain](http://www.devbiz.com/teamplain/
 Has anyone used TeamPain?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

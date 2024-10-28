@@ -1,5 +1,6 @@
 ---
 title: Selling the benefits of Team System
+description: "Master the art of selling Team System to your team and management with practical tips and strategies to ensure successful implementation and buy-in."
 date: 2007-04-27
 creator: Martin Hinshelwood
 id: "410"
@@ -27,3 +28,4 @@ Forget getting Team Suit or even Team Editions, at £7000 and £2500 respectivel
 And Remember: _If you build it, they will come._
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

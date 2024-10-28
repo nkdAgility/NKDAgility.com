@@ -1,5 +1,6 @@
 ---
 title: Advanced Email Content addendum
+description: "Explore the challenges of sending XBAPs via email and discover why this feature is essential for WPF presentations, forms, and demos. Join the discussion!"
 date: 2007-03-24
 creator: Martin Hinshelwood
 id: "432"
@@ -33,3 +34,4 @@ Why would you not want to send XBAP's via email:
 Need I say more...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Fail](http://technorati.com/tags/Fail) [WPF](http://technorati.com/tags/WPF)
+

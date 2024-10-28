@@ -1,5 +1,6 @@
 ---
 title: MSN Cartoon (Beta)
+description: "Explore the MSN Cartoon Beta and learn how to create custom avatars with this fun guide. Unleash your creativity and share your unique cartoon self!"
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "347"
@@ -81,3 +82,4 @@ Here are my pictures, but I am not sure how much they look like me!
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

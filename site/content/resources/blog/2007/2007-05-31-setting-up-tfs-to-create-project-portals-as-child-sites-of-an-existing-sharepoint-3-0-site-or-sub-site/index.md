@@ -1,5 +1,6 @@
 ---
 title: Setting up TFS to create project portals as child sites of an existing SharePoint 3.0 site (or sub site)
+description: "Learn how to set up TFS for project portals as child sites of SharePoint 3.0, enhancing integration and collaboration for your team. Discover best practices!"
 date: 2007-05-31
 creator: Martin Hinshelwood
 id: "390"
@@ -26,3 +27,4 @@ Hopefully it will work...
 _Something to check will be the permissions that are setup! I have the parent site setup to inherit from the root, that gives permission to anyone in our company._
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS](http://technorati.com/tags/TFS)
+

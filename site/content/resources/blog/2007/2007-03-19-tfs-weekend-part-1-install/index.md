@@ -1,5 +1,6 @@
 ---
 title: TFS Weekend Part 1 - Install
+description: "Join Martin Hinshelwood as he shares his TFS installation journey, tackling challenges and solutions for small companies. Discover tips for success!"
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "426"
@@ -24,3 +25,4 @@ Neil then broke the bad news to me...One of his developers had moved to Spain an
 Tune in next week to see how I got on with external SSL!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

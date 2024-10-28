@@ -1,5 +1,6 @@
 ---
 title: Its that time again
+description: "Explore the journey of a developer contemplating a shift to contracting amidst life changes. Discover insights on career growth and overcoming fears."
 date: 2007-07-16
 creator: Martin Hinshelwood
 id: "370"
@@ -28,3 +29,4 @@ Is anyone out there on the look out for a Senior .NET Developer with the skills 
 **How did you get into contracting?**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007)
+

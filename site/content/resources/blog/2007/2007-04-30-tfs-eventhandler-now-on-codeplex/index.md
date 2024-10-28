@@ -1,5 +1,6 @@
 ---
 title: "TFS EventHandler: Now on CodePlex"
+description: "Discover the TFS EventHandler now on CodePlex! Join the development journey as it transitions to a more reliable system. Get involved and share your thoughts!"
 date: 2007-04-30
 creator: Martin Hinshelwood
 id: "408"
@@ -23,3 +24,4 @@ With that in mind, I will be doing some level of documentation for the system.
 Fancy joining in then give me a shout over at the [forum](http://www.codeplex.com/TFSEventHandler/Thread/View.aspx?ThreadId=9761).
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
+

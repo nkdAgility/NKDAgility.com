@@ -1,5 +1,6 @@
 ---
 title: Mobile Device Center
+description: "Explore the limitations of Mobile Device Center and its syncing issues with Windows Vista. Join the discussion on improving Microsoft’s mobile solutions!"
 date: 2007-04-04
 creator: Martin Hinshelwood
 id: "417"
@@ -24,3 +25,4 @@ From the early propaganda on Vista I had though that this was the point! But it 
 Hopefully Microsoft will rectify this over time...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

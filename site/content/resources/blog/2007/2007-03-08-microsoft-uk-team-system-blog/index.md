@@ -1,5 +1,6 @@
 ---
 title: Microsoft UK Team System Blog
+description: "Discover insights from the Microsoft UK Team System Blog, where TFS experts share valuable tips and updates on ALM. Join the conversation today!"
 date: 2007-03-08
 creator: Martin Hinshelwood
 id: "429"
@@ -18,3 +19,4 @@ Well, here it is:
 [http://blogs.msdn.com/ukvsts/default.aspx](http://blogs.msdn.com/ukvsts/default.aspx)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

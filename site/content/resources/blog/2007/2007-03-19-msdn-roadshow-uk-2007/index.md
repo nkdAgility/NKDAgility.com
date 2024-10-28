@@ -1,5 +1,6 @@
 ---
 title: MSDN Roadshow UK 2007
+description: "Discover insights from the MSDN Roadshow UK 2007 at Glasgow Science Center, featuring engaging talks by Daniel Moth and Mike Taulty. Don't miss out!"
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "430"
@@ -29,3 +30,4 @@ If you get a chance to get to the roadshow, then do so...
 [Resources from the Roadshow](http://blogs.msdn.com/ukdevteam/archive/2007/02/15/uk-msdn-roadshow-2007-resources.aspx)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

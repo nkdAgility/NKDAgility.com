@@ -1,5 +1,6 @@
 ---
 title: Microsoft has acquired TeamPlain
+description: "Discover how Microsoft’s acquisition of TeamPlain offers free access to powerful tools for enhancing your Visual Studio 2005 experience. Download now!"
 date: 2007-03-26
 creator: Martin Hinshelwood
 id: "425"
@@ -24,3 +25,4 @@ Microsoft has now bought devbiz, and is offering this fantastic piece of softwar
 [Download TeamPlain](http://www.devbiz.com/teamplain/webaccess/download.aspx) and enjoy... Guess what I will be doing to our dev server tommorow?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2005](http://technorati.com/tags/TFS+2005) [VS 2005](http://technorati.com/tags/VS+2005)
+

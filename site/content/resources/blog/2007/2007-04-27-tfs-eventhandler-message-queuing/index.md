@@ -1,5 +1,6 @@
 ---
 title: "TFS EventHandler: Message Queuing"
+description: "Explore the innovative TFS EventHandler for message queuing, enhancing your Team Foundation Server infrastructure with efficient event management solutions."
 date: 2007-04-27
 creator: Martin Hinshelwood
 id: "411"
@@ -21,3 +22,4 @@ I am currently toying with the idea of re-engineering to two system services. Th
 This can be easily achievable in .NET 3.0 and will not require much work to implement...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Windows](http://technorati.com/tags/Windows)
+

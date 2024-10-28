@@ -1,5 +1,6 @@
 ---
 title: Ten Ways to Use LinkedIn
+description: "Discover ten innovative ways to leverage LinkedIn for networking, job hunting, and partnerships. Unlock the full potential of your professional connections!"
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "451"
@@ -19,3 +20,4 @@ Most people use LinkedIn to “get to someone” to make a sale, form a partners
 [read more](http://blog.guykawasaki.com/2007/01/ten_ways_to_use.html) | [digg story](http://digg.com/software/Ten_Ways_to_Use_LinkedIn)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

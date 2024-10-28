@@ -1,5 +1,6 @@
 ---
 title: "TFS Event Handler: CTP 1 Delayed"
+description: "Discover the delays in the TFS Event Handler CTP 1 and explore enhancements made to improve functionality. Stay updated on development progress!"
 date: 2007-06-17
 creator: Martin Hinshelwood
 id: "381"
@@ -44,3 +45,4 @@ _note:_
 _If I get into work tomorrow I will try my best to upload the installer for the current Alfa version. It is slightly configurable with Event Handlers listed in a config file. Not what I am trying to achieve and you have to restart the service manually when you add a event handler. Oh, and this MUST be installed on the team server and you need to enter a TFS Server Administrator password into the config file. I will call this the "TFS Rubbishy manual Event Handler", and it **will** need some installation instructions..._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WIT](http://technorati.com/tags/WIT)
+
