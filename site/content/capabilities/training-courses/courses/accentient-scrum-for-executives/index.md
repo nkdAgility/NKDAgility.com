@@ -16,6 +16,9 @@ course-vendors:
   - Accentient
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Entrepreneurs
+  - Executives
 tags:
 categories:
   - agility

@@ -17,6 +17,11 @@ course-vendors:
   - Accentient
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Developers
+  - Lean Agile Practitioners
+  - Product Managers
+  - Teams
 tags:
   - development
   - team

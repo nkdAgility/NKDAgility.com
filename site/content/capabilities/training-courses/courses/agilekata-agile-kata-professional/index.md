@@ -15,6 +15,8 @@ course-vendors:
   - Agile Kata
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
 tags:
 categories:
   - agility

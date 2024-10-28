@@ -22,7 +22,12 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
-  - Guided
+  - Self-paced
+delivery-audiences:
+  - Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+delivery-audiences_weight: 100
 tags:
   - agile
   - agility

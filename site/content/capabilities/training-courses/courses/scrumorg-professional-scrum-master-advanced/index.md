@@ -20,6 +20,10 @@ course-vendors:
   - Scrum.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
 tags:
   - certification
 categories:

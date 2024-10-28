@@ -82,8 +82,8 @@ sections:
       - title: Higher ROI
         content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
   - title: Find Courses by Accountability
-    type: audiences
-    source: data
+    type: taxonomies
+    source: delivery-audiences
   - title: Courses by Context
     type: taxonomies
     source: course-topics

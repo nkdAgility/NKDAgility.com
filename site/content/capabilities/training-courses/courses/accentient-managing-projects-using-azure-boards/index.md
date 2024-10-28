@@ -17,6 +17,8 @@ course-vendors:
   - Accentient
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Product managers
 tags:
   - team
 categories:

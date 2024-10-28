@@ -24,6 +24,9 @@ course-vendors:
   - Scrum.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
+  - Developers
 tags:
   - agile
   - agile-estimation

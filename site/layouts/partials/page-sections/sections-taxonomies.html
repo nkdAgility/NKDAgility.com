@@ -4,8 +4,9 @@
 <div class="row">
   {{ range $taxonomyName, $terms := .site.Taxonomies }}
     {{ if eq $taxonomyName $context.source }}
-      <!-- Do something specific for tags -->
-      {{ range $terms.ByCount }}
+      <!-- Sort terms by weight, then limit to 6 -->
+      {{ $sortedTerms := sort $terms.ByCount "Page.Weight" "desc" }}
+      {{ range first 6 $sortedTerms }}
         <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
           {{ partial "page-sections/sections-taxonomies-card.html" (dict "site" $site "context" .) }}
         </div>
