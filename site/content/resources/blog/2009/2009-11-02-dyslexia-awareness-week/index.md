@@ -1,5 +1,6 @@
 ---
 title: Dyslexia Awareness Week
+description: "Explore the strengths of dyslexic developers during Dyslexia Awareness Week. Discover unique skills that enhance programming and creative problem-solving."
 date: 2009-11-02
 creator: Martin Hinshelwood
 id: "80"
@@ -30,3 +31,4 @@ If only our education systems would take advantage of these differences...
 { .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
+

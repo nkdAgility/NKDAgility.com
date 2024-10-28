@@ -1,5 +1,6 @@
 ---
 title: Installing Eclipse on Windows 8 and connecting to TFS 2012
+description: "Learn how to install Eclipse on Windows 8 and connect to TFS 2012 effortlessly. Perfect for Java developers looking to enhance their ALM strategy!"
 date: 2012-06-02
 creator: Martin Hinshelwood
 id: "5415"
@@ -116,3 +117,4 @@ And that's about it. I am no Java expert, but it is like any other Version Contr
 So really its way better than just Version Control…
 
 _\-Don't leave your Java developers out of your Application Life-cycle Management (ALM) strategy. According to Gartner Visual Studio ALM is the best, most feature-full ALM platform and it supports Java just as well as .NET. Contact [info@nwcadence.com](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Installing Eclipse on Windows 8 and connecting to TFS 2012) today..._
+

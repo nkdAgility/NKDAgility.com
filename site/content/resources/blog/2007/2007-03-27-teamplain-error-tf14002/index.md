@@ -1,5 +1,6 @@
 ---
 title: "TeamPlain Error: TF14002"
+description: "Encountering the TF14002 error in TeamPlain? Discover insights and potential solutions to this common issue affecting source control access. Read more!"
 date: 2007-03-27
 creator: Martin Hinshelwood
 id: "424"
@@ -32,3 +33,4 @@ This has only hapened to one of my users sos far and not to me at all.
 We will see...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

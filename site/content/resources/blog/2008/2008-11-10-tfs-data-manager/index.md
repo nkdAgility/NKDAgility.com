@@ -1,5 +1,6 @@
 ---
 title: TFS Data Manager
+description: "Discover TFS Data Manager, a powerful tool for cloning projects and enhancing disaster recovery in TFS. Unlock new capabilities for your development process!"
 date: 2008-11-10
 creator: Martin Hinshelwood
 id: "171"
@@ -28,3 +29,4 @@ Looks like the feature mix will be fabulous…
 **Updated: Added missing links… Thanks for spotting it :)**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

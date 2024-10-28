@@ -1,5 +1,6 @@
 ---
 title: List all files changed under an Iteration
+description: "Discover how to list all files changed under a specific iteration using TFS API calls. Streamline your version control process with this practical guide!"
 date: 2009-07-22
 creator: Martin Hinshelwood
 id: "99"
@@ -74,3 +75,4 @@ End If
 As you can see I have very bad naming and layout, but this is a one time use version of the code, so quick and dirty. If I am asked to do this again I would create a proper command line utility, or even a WPF interface to display the data prettily.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Version Control](http://technorati.com/tags/Version+Control) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
+

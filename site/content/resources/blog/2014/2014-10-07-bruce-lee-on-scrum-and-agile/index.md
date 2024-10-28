@@ -1,5 +1,6 @@
 ---
 title: Bruce Lee on Scrum and Agile
+description: "Explore Bruce Lee's philosophy on Scrum and Agile, emphasizing simplicity and adaptability to enhance your organization's processes and customer satisfaction."
 date: 2014-10-07
 creator: Martin Hinshelwood
 id: "10800"
@@ -37,3 +38,4 @@ There are wise people in this world and that wisdom often transcends the topic t
 This is almost the quantification of what Scrum and Agile should mean to the people within your organization. Use it as a tool to aid in your movement towards a state within which you have your own tailored and adaptive process.
 
 A process that allows your organization to continuously delight your customers.
+

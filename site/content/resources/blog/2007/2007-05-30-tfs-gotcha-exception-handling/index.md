@@ -1,5 +1,6 @@
 ---
 title: TFS Gotcha (Exception Handling)
+description: "Learn how to effectively handle non-serializable exceptions in Team Foundation Server with custom solutions for Windows Communication Foundation. Enhance your coding skills!"
 date: 2007-05-30
 creator: Martin Hinshelwood
 id: "392"
@@ -40,3 +41,4 @@ End Try
 This will allow you to handle [Team Foundation Server](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") exceptions for your [Windows Communication Foundation](http://wcf.netfx3.com "Windows Communication Foundation") service application on the client.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

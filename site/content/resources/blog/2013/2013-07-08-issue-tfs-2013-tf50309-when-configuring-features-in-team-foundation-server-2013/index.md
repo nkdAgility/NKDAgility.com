@@ -1,5 +1,6 @@
 ---
 title: Issue [ TFS 2013 ] TF50309 when configuring features in Team Foundation Server 2013
+description: "Resolve the TF50309 error in TFS 2013 with expert solutions. Learn how to manage permissions and configure features effectively for your projects."
 date: 2013-07-08
 creator: Martin Hinshelwood
 id: "9724"
@@ -63,3 +64,4 @@ Now that we have a group we can select it and set individual permissions. In thi
 Figure: Add users to the new group
 
 Now we need to add each user that we want to have this permission. It would be awesome if we could add a Team Project group in here… you know.. like the “Project Administrators” group but “\[ScrumSandbox\]Project Administrators” fails to resolve. Sad, but the workaround is to just add the users we want to have permission..
+

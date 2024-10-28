@@ -1,5 +1,6 @@
 ---
 title: Access to Team Foundation Server
+description: "Discover how to enhance your TFS skills at home, overcoming limitations of hosted solutions. Unlock the full potential of Team Foundation Server today!"
 date: 2007-07-21
 creator: Martin Hinshelwood
 id: "366"
@@ -19,3 +20,4 @@ The other problem is that the only current hosted TFS solution is CodePlex and t
 I will need to get up and running at home. This will allow me to hone my TFS skills and improve my knowledge even better than at work as I can do anything I need to the server.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

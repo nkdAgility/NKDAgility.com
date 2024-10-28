@@ -1,5 +1,6 @@
 ---
 title: Use corporate identities with existing VSO accounts
+description: "Learn how to configure ADFS for seamless SSO with existing VSO accounts, ensuring continuity and easy access to Azure and Office 365. Get started now!"
 date: 2014-10-28
 creator: Martin Hinshelwood
 id: "10797"
@@ -112,3 +113,4 @@ VSO now identifies me as my Organisational ID and not my Microsoft ID (MSA).  N
 If you configure Active Directory Federated Services (ADFS) to link to your internal domain you can get a completely seamless Single-Sign-on from your local network to the cloud. While there is a little extra configuration to get true SSO internally this is a big step towards truly unique and trusted identities across all of your platforms.
 
 Now if only, for Threshold (Windows 10) Microsoft would allow me to join my computers directly to my Azure Active Directory (AAD) domain I will be a happy man.
+

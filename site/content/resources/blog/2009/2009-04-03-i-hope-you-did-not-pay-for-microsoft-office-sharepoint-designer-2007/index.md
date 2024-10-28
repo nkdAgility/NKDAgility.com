@@ -1,5 +1,6 @@
 ---
 title: I hope you did not pay for Microsoft Office Sharepoint Designer 2007
+description: "Discover how to get Microsoft Office SharePoint Designer 2007 for free! Save money and enhance your business tools without the hassle of purchasing."
 date: 2009-04-03
 creator: Martin Hinshelwood
 id: "131"
@@ -25,3 +26,4 @@ Head over to the Microsoft Download site and get your copy:
 Well, no more problems trying to persuade the business to buy it for users :)
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+

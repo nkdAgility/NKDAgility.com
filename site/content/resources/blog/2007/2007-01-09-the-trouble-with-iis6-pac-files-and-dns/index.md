@@ -1,5 +1,6 @@
 ---
 title: The trouble with IIS6, .pac files and DNS
+description: "Explore the challenges of using IIS6 with .pac files and DNS. Learn practical solutions to common proxy server issues in this insightful blog post."
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "448"
@@ -28,3 +29,4 @@ The second problem was that he was using a proxy server that was an appliance (i
 So all problems solved, well theoretically... David still need to try them out side of my little home lab.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

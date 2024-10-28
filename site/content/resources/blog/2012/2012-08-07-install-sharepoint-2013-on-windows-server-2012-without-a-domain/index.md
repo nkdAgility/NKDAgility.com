@@ -1,5 +1,6 @@
 ---
 title: Install SharePoint 2013 on Windows Server 2012 without a domain
+description: "Learn how to install SharePoint 2013 on Windows Server 2012 without a domain. Follow our expert tips for a smooth setup and configuration process."
 date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7067"
@@ -228,3 +229,4 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
+

@@ -1,5 +1,6 @@
 ---
 title: You are doing Scrum but the Scrum Master tells the team what to do!
+description: "Discover why a Scrum Master shouldn't dictate tasks to the team. Empower self-organization and enhance accountability for better project outcomes."
 date: 2011-09-13
 creator: Martin Hinshelwood
 id: "3778"
@@ -64,3 +65,4 @@ The Development Team must be empowered to come up with resolutions to the proble
 - [Scrum Guide 2011](http://www.scrum.org/scrumguides)
 - [Why Group Dynamics and Interpersonal Skills Matter](http://www.estherderby.com/weblog/2009/07/why-group-dynamics-and-interpersonal.html)
 - [Scrum As A Framework](http://kenschwaber.wordpress.com/2010/09/08/scrum-as-a-framework/)
+

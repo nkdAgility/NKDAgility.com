@@ -1,5 +1,6 @@
 ---
 title: Not just happy, but ecstatic
+description: "Discover how a consultant transformed a challenging deployment process into a streamlined success with TFS 2010, enhancing efficiency and collaboration."
 date: 2011-09-16
 creator: Martin Hinshelwood
 id: "3783"
@@ -42,3 +43,4 @@ I can fly to the UK from Seattle for $733 (£464.00) return! That is cheaper tha
 Not saying I am going to, but I am a little more inclined to seek clients in Europe as well.
 
 p.s. The metaphorical **Rolled Up Newspaper** approach works very well for developers.
+

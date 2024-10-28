@@ -1,5 +1,6 @@
 ---
 title: "The 7 Deadly Sins of Agile: A Grecian Odyssey through Modern Software Development"
+description: "Explore the 7 Deadly Sins of Agile through ancient Greek wisdom. Learn to navigate modern software challenges and foster a culture of growth and collaboration."
 date: 2023-10-17
 creator: Martin Hinshelwood
 id: "50309"
@@ -101,3 +102,4 @@ These issues are the kind that lean-agile practitioners are passionate about. If
 It's vital to seek early help if challenges hinder your value delivery. You can request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) or sign up for one of our [upcoming professional Scrum classes.](https://nkdagility.com/training-courses/course-schedule/?scope=Public)
 
 After all, you don't just need agility; you need Naked Agility.
+

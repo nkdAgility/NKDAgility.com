@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler prototype Configuration Demystified
+description: "Unlock the secrets of TFS Event Handler configuration with this comprehensive guide. Perfect for developers seeking to streamline event management!"
 date: 2007-06-18
 creator: Martin Hinshelwood
 id: "379"
@@ -143,3 +144,4 @@ If you are using friendly server names or TeamPlain the you can change the  TF
 This works by replacing values within the URL in the events. You specify the event type, what to look for and what to replace it by. This allows grater control and the integration of TeamPlain into your world. If a task is assigned to someone outside of your departmental sphere who you have given permission to TFS but who know nothing about it, they will still get an email that will link them through to TeamPlain.
 
 And that is you all set. if you have installed the service and set the account that is used to run the service you should get no errors when starting. No guarantees though :)
+

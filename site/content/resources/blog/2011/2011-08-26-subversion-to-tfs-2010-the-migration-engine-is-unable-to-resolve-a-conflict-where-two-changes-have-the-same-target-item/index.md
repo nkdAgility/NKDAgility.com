@@ -1,5 +1,6 @@
 ---
 title: "Subversion to TFS 2010: The migration engine is unable to resolve a conflict where two changes have the same target item"
+description: "Navigate the challenges of migrating from Subversion to TFS 2010. Discover solutions for resolving conflicts and ensure a smooth transition for your projects."
 date: 2011-08-26
 creator: Martin Hinshelwood
 id: "3769"
@@ -162,3 +163,4 @@ For each item in the list, determine which one is in conflict and remove it manu
 It would be really nice if Timely could add the ability to view the conflicts only and be able to bulk apply the resolution as I am looking at 300+ conflicts in a single check-in. At least we are 68% of the way through this particular migration and the chances are (fingers crossed) that there will only be a few conflicts.
 
 **Let me know how you get on with your own migrations!**
+

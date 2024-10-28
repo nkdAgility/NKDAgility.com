@@ -1,5 +1,6 @@
 ---
 title: Batched domain migration with TFS while maintaining Identity
+description: "Learn how to execute a batched domain migration with TFS while preserving user identities. Avoid pitfalls and ensure a smooth transition for your team."
 date: 2013-03-20
 creator: Martin Hinshelwood
 id: "9324"
@@ -85,3 +86,4 @@ Either of these two workflows for moving users will work. It depends on how your
 - [In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain](http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/ "http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/")
 
 Hopefully your domain move goes more smoothly and that you watch out for the pitfalls.
+

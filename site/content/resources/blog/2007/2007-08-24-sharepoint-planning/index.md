@@ -1,5 +1,6 @@
 ---
 title: Sharepoint planning
+description: "Discover effective SharePoint deployment strategies for large organizations. Learn about its powerful architecture and MySites features to enhance collaboration."
 date: 2007-08-24
 creator: Martin Hinshelwood
 id: "320"
@@ -23,3 +24,4 @@ In reading it I came to a much grater realization of not only the power of Share
 I think I am going to enjoy the Sharepoint thing...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

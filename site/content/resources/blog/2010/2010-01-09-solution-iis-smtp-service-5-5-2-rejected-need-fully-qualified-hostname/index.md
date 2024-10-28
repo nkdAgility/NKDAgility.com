@@ -1,5 +1,6 @@
 ---
 title: "Solution - IIS SMTP Service 5.5.2 rejected: need fully qualified hostname"
+description: "Resolve the IIS SMTP Service 5.5.2 error with our step-by-step guide. Ensure successful email delivery by configuring a fully qualified hostname."
 date: 2010-01-09
 creator: Martin Hinshelwood
 id: "72"
@@ -68,3 +69,4 @@ To fix:
 You should now be able to send emails from your site without any problems.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
+

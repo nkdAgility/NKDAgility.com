@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2005 Team Foundation Installation Guide
+description: "Explore the updated Visual Studio 2005 Team Foundation Installation Guide, featuring SP1 updates and new instructions for Reporting Services. Enhance your TFS setup!"
 date: 2007-01-10
 creator: Martin Hinshelwood
 id: "444"
@@ -24,3 +25,4 @@ I am looking forward to the Admin Guide being updated as well!
 How has everyone got on with their TFS implementations?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

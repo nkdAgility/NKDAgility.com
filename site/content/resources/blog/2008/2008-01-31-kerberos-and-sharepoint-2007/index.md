@@ -1,5 +1,6 @@
 ---
 title: Kerberos and SharePoint 2007
+description: "Learn how to configure Kerberos authentication for SharePoint 2007, including essential SPN setup steps for a secure and efficient environment."
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "254"
@@ -45,3 +46,4 @@ You need to add an SPN for each protocol URL and port combination:
 These SPN's will allow authentication to work on these domains, but it does require Domain Admin to run them. And these are only my initial FQDN for this environment. We will be having a production environment soon and most likely a UAT environment before we start any development work on our Enterprise Portal.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

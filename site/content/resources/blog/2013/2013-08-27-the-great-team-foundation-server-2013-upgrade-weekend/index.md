@@ -1,5 +1,6 @@
 ---
 title: The great Team Foundation Server 2013 Upgrade Weekend
+description: "Join the Team Foundation Server 2013 Upgrade Weekend on Sept 13-15 for expert support in upgrading and configuring TFS 2013. RSVP now for a smooth transition!"
 date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9989"
@@ -37,3 +38,4 @@ By registering early you can make sure that Microsoft has the appropriate number
 - [Register for the TFS 2013 Upgrade Weekend](http://aka.ms/TFSUpgradeWeekend "http://aka.ms/TFSUpgradeWeekend")
 
 Whatever option that you choose you will be happy with the results…
+

@@ -1,5 +1,6 @@
 ---
 title: Hiring a Professional Scrum Master
+description: "Discover essential insights for hiring a Scrum Master. Learn key skills, certifications, and role expectations to find the perfect fit for your team."
 date: 2021-03-15
 creator: Martin Hinshelwood
 id: "46053"
@@ -127,3 +128,4 @@ Sources:
 - [Scrum Master job description | Scrum.org](https://www.scrum.org/forum/scrum-forum/5366/scrum-master-job-description)
 
 - [Scrum Master job description - The Ultimate Description (luis-goncalves.com)](https://luis-goncalves.com/scrum-master-job-description/)
+

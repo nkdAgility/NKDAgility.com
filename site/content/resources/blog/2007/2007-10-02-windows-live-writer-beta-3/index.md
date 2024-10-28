@@ -1,5 +1,6 @@
 ---
 title: Windows Live Writer Beta 3
+description: "Explore the challenges of installing Windows Live Writer Beta 3 in a corporate environment and discover the frustrations of bundled software installations."
 date: 2007-10-02
 creator: Martin Hinshelwood
 id: "307"
@@ -31,3 +32,4 @@ What did it boiler down to? What did they have to do to get it working? Was it p
 **_They rebooted the server!_**
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: "Discover the journey of Martin Hinshelwood, a tech enthusiast sharing insights and experiences while striving to stand out in a world of football fame."
 date: 2007-08-20
 creator: Martin Hinshelwood
 id: "329"
@@ -27,3 +28,4 @@ Ahh well, Scott is a much better writer than me, or he just has more patience...
 I am sure that I will adapt it over time to better reflect my experience.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

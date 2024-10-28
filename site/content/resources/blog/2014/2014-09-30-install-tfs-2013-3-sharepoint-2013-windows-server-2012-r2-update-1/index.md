@@ -1,5 +1,6 @@
 ---
 title: Install of TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2 Update 1
+description: "Learn how to install TFS 2013.3 with SharePoint 2013 on Windows Server 2012 R2. Follow expert tips for a smooth setup and avoid common pitfalls!"
 date: 2014-09-30
 creator: Martin Hinshelwood
 id: "10727"
@@ -174,3 +175,4 @@ Flip back to the TFS configuration wizard and re-run the readiness checks to mak
 And that’s it. When you click "Configure" TFS will go off and create all the bits it needs and setup your default collection. At the end of this process, if you get a green tick, you have a fully operational TFS Instance.
 
 Good luck with your install…
+

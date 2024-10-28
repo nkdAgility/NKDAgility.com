@@ -1,5 +1,6 @@
 ---
 title: TFS Usage Statistics
+description: "Explore TFS usage statistics, including user activity, work items, and version control metrics. Discover insights to enhance your team's productivity!"
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "187"
@@ -54,3 +55,4 @@ Uploads: 454
 Shelves: unknown
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

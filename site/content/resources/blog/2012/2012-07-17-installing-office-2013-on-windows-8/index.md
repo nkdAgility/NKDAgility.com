@@ -1,5 +1,6 @@
 ---
 title: Installing Office 2013 on Windows 8
+description: "Discover how to easily install Office 2013 on Windows 8 with our step-by-step guide. Enjoy new features and a smooth setup experience!"
 date: 2012-07-17
 creator: Martin Hinshelwood
 id: "6306"
@@ -75,3 +76,4 @@ I love the new feature of Office 2013 and its the spit and polish that makes me 
 { .post-img }
 
 **What do you think of Office 2013?**
+

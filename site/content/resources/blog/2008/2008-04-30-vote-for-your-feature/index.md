@@ -1,5 +1,6 @@
 ---
 title: Vote for your feature
+description: "Cast your vote for the next features in TFS Sticky Buddy! Help shape version 2.0 by selecting the enhancements you want to see. Join the discussion now!"
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "234"
@@ -28,3 +29,4 @@ If you want to [suggest another feature](http://www.codeplex.com/TFSStickyBuddy/
 If you are interested [TFS Sticky Buddy v1.0](https://www.codeplex.com/Release/ProjectReleases.aspx?ProjectName=TFSStickyBuddy&ReleaseId=12683) has been downloaded 256 times since Apr 21 2008... No I am not making it up....
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+

@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools – Issue: Access denied to Program Files"
+description: "Resolve the 'Access Denied' error in TFS Integration Tools with our expert tips. Learn how to adjust permissions and keep your integration running smoothly!"
 date: 2012-07-10
 creator: Martin Hinshelwood
 id: "6113"
@@ -43,3 +44,4 @@ Just in case the Integration Platform throws a “Conflict” that needs to be r
 ### Workaround
 
 Right click on the “Microsoft Team Foundation Server Integration Tools” and add permission for the account that you are running the TFS Integration Tools under.
+

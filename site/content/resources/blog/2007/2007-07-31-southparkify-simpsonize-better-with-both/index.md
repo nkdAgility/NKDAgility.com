@@ -1,5 +1,6 @@
 ---
 title: "Southparkify / Simpsonize : better with both!"
+description: "Explore the fun of Southparkify and Simpsonize! Discover how combining these two can create a unique representation of yourself. Join the creative journey!"
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "353"
@@ -22,3 +23,4 @@ preview: metro-sharepoint-128-link-1-1.png
 [This](http://www.sp-studio.de/) is a little more representative of me than the Simpsonize one! Thanks [Will](http://geekswithblogs.net/MOSSParadox/archive/2007/07/30/Simpsonize-Me-Bah.aspx "Southparkify / Simposonize : better with both!")...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

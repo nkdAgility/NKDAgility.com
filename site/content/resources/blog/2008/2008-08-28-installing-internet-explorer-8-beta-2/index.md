@@ -1,5 +1,6 @@
 ---
 title: Installing Internet Explorer 8 Beta 2
+description: "Discover how to install Internet Explorer 8 Beta 2 with essential links and guidance for a smooth setup. Get started on your upgrade today!"
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "204"
@@ -39,3 +40,4 @@ And some updates (Already! :) ) if you are using Real Player and Vista SP1:
 Hopefully this install will go fine :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [VS 2008](http://technorati.com/tags/VS+2008)
+

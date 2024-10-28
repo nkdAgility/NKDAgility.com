@@ -1,5 +1,6 @@
 ---
 title: Silverlight 3
+description: "Discover the insights from 'Silverlight 3 Programmer's Reference' by Wrox. Enhance your coding skills with this concise, colorful guide to Silverlight 3!"
 date: 2009-08-20
 creator: Martin Hinshelwood
 id: "90"
@@ -28,3 +29,4 @@ Because I have been using WPF for a number of years this book is perfect for me,
 Will I be hanging up my WPF hat and replacing it with a Silverlight one? Well, no… but Silverlight 3 is a big step forward…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Silverlight](http://technorati.com/tags/Silverlight) [WPF](http://technorati.com/tags/WPF)
+

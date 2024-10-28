@@ -1,5 +1,6 @@
 ---
 title: Are technical skills required to be a Scrum Master?
+description: "Discover if technical skills are essential for a Scrum Master. Explore key masteries that enhance effectiveness in guiding teams and driving organizational change."
 date: 2019-09-01
 creator: Martin Hinshelwood
 id: "39894"
@@ -83,3 +84,4 @@ These masteries for me mean that a Scrum Master needs to be fully familiar with 
 **Does it sound to you as if the Scrum Master can be awesome if they don’t have technical, business, and organisational change skills?**
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+

@@ -1,5 +1,6 @@
 ---
 title: Microsoft Answer for the end-user
+description: "Discover the new Microsoft Answers forum for Windows Vista users, offering straightforward support and real solutions without the technical jargon. Join now!"
 date: 2008-12-15
 creator: Martin Hinshelwood
 id: "151"
@@ -90,3 +91,4 @@ These forums are specifically targeted at Vista, but if they are successful, the
 Lets get [Answering](http://social.answers.microsoft.com/)…but remember, no techno-babble!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

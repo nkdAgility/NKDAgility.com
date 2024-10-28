@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 Issue: Some features of Team Web Access are not visible to you"
+description: "Discover how to resolve the TFS 2012 issue of missing Team Web Access features. Learn about licensing requirements and enhance your admin experience!"
 date: 2012-08-08
 creator: Martin Hinshelwood
 id: "7094"
@@ -69,3 +70,4 @@ If you are sure that you have Premium, Ultimate or Test Professional for all of 
 If you are going to do this you need to make sure that you have licences, but it will make an administrators life a little easier!
 
 **Did this fix your problem?**
+

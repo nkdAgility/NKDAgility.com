@@ -1,5 +1,6 @@
 ---
 title: Xbox 360 Elite
+description: "Discover my journey trading in a crashing Xbox 360 for the Elite model. Dive into my gaming experiences with Bioshock and more! Join the fun!"
 date: 2007-09-17
 creator: Martin Hinshelwood
 id: "311"
@@ -25,3 +26,4 @@ To sweeten the deal, I got Medal of Honor: Airbourn for a tenner and ponied up f
 I love my Xbox :)
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
+

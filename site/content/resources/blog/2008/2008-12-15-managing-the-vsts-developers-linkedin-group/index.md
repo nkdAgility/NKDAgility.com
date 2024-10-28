@@ -1,5 +1,6 @@
 ---
 title: Managing the “VSTS Developers” LinkedIn group.
+description: "Discover how to effectively manage the VSTS Developers LinkedIn group with insights from MVPs Ed Blankenship and Michael Ruminer for enhanced collaboration."
 date: 2008-12-15
 creator: Martin Hinshelwood
 id: "153"
@@ -27,3 +28,4 @@ Thanks guys for giving up a little bit of your valuable time….
 Hopefully, this will give members more information and a faster response time to requests…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

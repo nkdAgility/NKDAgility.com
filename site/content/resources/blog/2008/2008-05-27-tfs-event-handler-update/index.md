@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler Update
+description: "Discover the latest updates to the TFS Event Handler, fixing bugs and enhancing performance. Download now and improve your development workflow!"
 date: 2008-05-27
 creator: Martin Hinshelwood
 id: "221"
@@ -25,3 +26,4 @@ The [TFS Event Handler](http://www.codeplex.com/TFSEventHandler "TFS Event Handl
 [View the Documentation here](http://www.codeplex.com/TFSEventHandler/Wiki/View.aspx?title=TFS%20Event%20Handler%20%28Prototype%29%3a%20Documentation&referringTitle=Release%20Documentation)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

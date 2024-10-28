@@ -1,5 +1,6 @@
 ---
 title: Integrate SharePoint 2013 with Team Foundation Server 2013
+description: "Learn to seamlessly integrate SharePoint 2013 with Team Foundation Server 2013 for enhanced project management and document handling. Boost your ALM skills!"
 date: 2013-07-29
 creator: Martin Hinshelwood
 id: "9916"
@@ -202,3 +203,4 @@ Figure: No longer blank
 Now we have a lovely TFS integrated SharePoint dashboard with first level document integration from Visual Studio.
 
 Phew… Done…
+

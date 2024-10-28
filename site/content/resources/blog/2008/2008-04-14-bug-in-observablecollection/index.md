@@ -1,5 +1,6 @@
 ---
 title: Bug in ObservableCollection?
+description: "Struggling with ObservableCollection and generics in WPF? Discover the limitations and a workaround to enhance your coding experience. Dive in now!"
 date: 2008-04-14
 creator: Martin Hinshelwood
 id: "240"
@@ -82,3 +83,4 @@ And then pass that class in it does work:
 Although this is a work around, it causes other problems in my code... Ahh well... worth a try...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

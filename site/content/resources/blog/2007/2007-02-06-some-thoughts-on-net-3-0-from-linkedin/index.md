@@ -1,5 +1,6 @@
 ---
 title: Some thoughts on .NET 3.0 from LinkedIn
+description: "Explore insights on adopting .NET 3.0 for new applications, its advantages over existing technologies, and the future of Microsoft’s development tools."
 date: 2007-02-06
 creator: Martin Hinshelwood
 id: "436"
@@ -48,3 +49,4 @@ I also sugested an expert:
 [Daniel Moth](http://www.danielmoth.com/Blog/ "The Moth")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

@@ -1,5 +1,6 @@
 ---
 title: How do you incorporate a Design Sprint in Scrum?
+description: "Discover how to effectively integrate Design Sprints into Scrum. Learn key strategies for collaboration and refinement to enhance your product development process."
 date: 2019-08-16
 creator: Martin Hinshelwood
 id: "39682"
@@ -42,3 +43,4 @@ Ultimately no work should be done in a vacuum or away from the scrutiny of the e
 Linking Team of Teams and Communities of Practice are critical for incorporating all of the skills required to build awesome software.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+

@@ -1,6 +1,6 @@
 ---
-title: "The offering:
-  offeringType: training-course Mk II"
+title: "The delivery Mk II"
+description: "Join us in celebrating the birth of Kaiden Ryan William Hinshelwood! Discover the heartwarming story of his quick arrival and family moments."
 date: 2009-02-14
 creator: Martin Hinshelwood
 id: "140"

@@ -1,5 +1,6 @@
 ---
 title: Linked in VSTS Group
+description: "Join the LinkedIn VSTS Developer group to connect with fellow developers customizing Visual Studio Team System. Share insights and enhance your skills!"
 date: 2008-05-15
 creator: Martin Hinshelwood
 id: "226"
@@ -29,3 +30,4 @@ If you are a developer who customises or extends Visual Studio Team System then 
 **NOTE: All requests to join these groups will be checked before they will be approved. Evidence of your participation in VSTS development.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [Testing](http://technorati.com/tags/Testing) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [TFBS](http://technorati.com/tags/TFBS) [TFS](http://technorati.com/tags/TFS)
+

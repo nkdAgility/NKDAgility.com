@@ -1,5 +1,6 @@
 ---
 title: What to do when you dont have a working computer!
+description: "Discover practical tips for coping without a computer. Learn how to navigate daily tasks using mobile devices and software solutions effectively."
 date: 2008-08-16
 creator: Martin Hinshelwood
 id: "208"
@@ -44,3 +45,4 @@ Now all I need is a version of Visual Studio 2008 and Team Explorer ;)
 Technorati tags: [Windows Mobile](http://technorati.com/tag/Windows+Mobile), [Blogging](http://technorati.com/tag/Blogging)
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

@@ -1,5 +1,6 @@
 ---
 title: Team Foundation Server 2013 is production ready
+description: "Discover why Team Foundation Server 2013 is production-ready! Learn about its agile journey, major improvements, and why you should upgrade now."
 date: 2013-07-23
 creator: Martin Hinshelwood
 id: "9917"
@@ -41,3 +42,4 @@ In addition they made some pretty major database changes in 2012.1. That and som
 And the net result? If you are currently running 2012.1 or 2012.2 then you should move immediately to 2012.3. With 2012.3 the TFS team have finally gotten **on top of the undone work** and have **paid back most of the technical debt** that had been run up. With the Team Foundation Server 2013 Preview they have gotten ahead of the curve and have perhaps some of the best integrated ALM features on the market today.
 
 The latest fully supported version of Team Foundation Server is 2013… [get it now!](http://nkdagility.com/vs2013Preview/)
+

@@ -1,5 +1,6 @@
 ---
 title: Guide to ChangeServerId says mostly harmless
+description: "Discover the importance of ChangeServerId in TFS upgrades. Learn how to avoid GUID issues and ensure a smooth transition to your new environment."
 date: 2013-03-06
 creator: Martin Hinshelwood
 id: "9249"
@@ -83,3 +84,4 @@ Running RegisterDB command will update setting in the "C:Program FilesMicrosoft 
 To save time I went ahead and updated it manually and WOW everything worked again.
 
 **Lesson: Heed all Team Foundation warnings**
+

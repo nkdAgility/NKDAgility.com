@@ -1,5 +1,6 @@
 ---
 title: "Coffee Talk: Introduction to Scrum - webcast event this Friday!"
+description: "Join us this Friday for a free webcast on Scrum! Discover key roles, processes, and tips to enhance your agile practices and boost team performance."
 date: 2011-08-16
 creator: Martin Hinshelwood
 id: "3728"
@@ -44,3 +45,4 @@ I am hoping that we can we can have some serious discussion on the agile practic
 - [**Join Northwest Cadence for this Free Webcast Event**](http://introtoscrum.eventbrite.com/)
 
 I don't know how many people have already signed up as I have been onsite for two weeks. My current customer is giving me a little time on Friday to talk to you folks about Scrum.
+

@@ -1,5 +1,6 @@
 ---
 title: Why Integrated Authentication does not work with host headers!
+description: "Discover why Integrated Authentication fails with host headers in TFS and learn how to resolve the 401.1 error for smoother access. Get insights now!"
 date: 2007-10-22
 creator: Martin Hinshelwood
 id: "296"
@@ -34,3 +35,4 @@ After some testing I found that it was indeed fixed. Now, I had this exact same 
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

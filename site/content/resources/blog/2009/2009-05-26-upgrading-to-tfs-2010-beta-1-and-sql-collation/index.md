@@ -1,5 +1,6 @@
 ---
 title: Upgrading to TFS 2010 Beta 1 and SQL Collation
+description: "Learn how to tackle collation conflicts when upgrading to TFS 2010 Beta 1 from TFS 2008. Discover solutions to ensure a smooth transition!"
 date: 2009-05-26
 creator: Martin Hinshelwood
 id: "109"
@@ -39,3 +40,4 @@ My client has it listed but with a TF31001 error.…
 Solution? Suck it up and reinstall everything, including SQL and change the collation to the same on both servers. :(
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

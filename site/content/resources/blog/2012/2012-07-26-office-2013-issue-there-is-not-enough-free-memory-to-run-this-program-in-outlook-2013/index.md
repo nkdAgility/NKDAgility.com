@@ -1,5 +1,6 @@
 ---
 title: "Office 2013 Issue: There is not enough free memory to run this program in Outlook 2013"
+description: "Struggling with 'not enough free memory' errors in Outlook 2013? Discover effective workarounds and solutions to enhance your email experience!"
 date: 2012-07-26
 creator: Martin Hinshelwood
 id: "6758"
@@ -112,3 +113,4 @@ You can do this through Outlook:
 Or you can do this through the Mail settings in the control panel.
 
 **Did this help with you issue?**
+

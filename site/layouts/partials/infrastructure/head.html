@@ -1,11 +1,13 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="{{ .Site.Params.description }}" />
-<meta name="keywords" content="{{ .Site.Params.keywords }}" />
-<meta name="author" content="{{ .Site.Params.author }}" />
 <title>{{ .Title }} | {{ .Site.Title }}</title>
+<meta name="description" content="{{ .Description | default .Site.Params.description }}" />
+<meta name="keywords" content="{{ .Keywords | default .Site.Params.keywords }}" />
+<meta name="author" content="{{ .Site.Params.author }}" />
+
 <meta property="og:title" content="{{ .Title | plainify }}" />
 <meta name="giscus:backlink" content="https://nkdagility.com{{ .RelPermalink }}" />
+<meta name="giscus:description" content="{{ .Summary }}" />
 <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{ printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
 <meta
   name="license"
@@ -23,7 +25,7 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ .Title }}" />
-<meta property="og:description" content="{{ .Site.Params.description }}" />
+<meta property="og:description" content="{{ .Description }}" />
 <meta property="og:image" content="{{ .Site.Params.og_image }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:type" content="website" />
@@ -31,7 +33,7 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ .Site.Params.description }}" />
+<meta name="twitter:description" content="{{ .Description }}" />
 <meta name="twitter:image" content="{{ .Site.Params.og_image }}" />
 
 <!--Boostrap -->

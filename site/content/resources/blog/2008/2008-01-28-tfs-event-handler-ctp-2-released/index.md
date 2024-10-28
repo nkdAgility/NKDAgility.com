@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler CTP 2 Released
+description: "Discover the newly released TFS Event Handler CTP 2, featuring enhanced functionality and tools for managing TFS events. Get involved and provide feedback!"
 date: 2008-01-28
 creator: Martin Hinshelwood
 id: "260"
@@ -39,3 +40,4 @@ Now I have the engine relatively stable I want to concentrate on building some E
 You can report [issues](http://www.codeplex.com/TFSEventHandler/WorkItem/List.aspx) and enter into [discussions](http://www.codeplex.com/TFSEventHandler/Thread/List.aspx) on the [CodePlex](http://www.codeplex.com "CodePlex") site for the project.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

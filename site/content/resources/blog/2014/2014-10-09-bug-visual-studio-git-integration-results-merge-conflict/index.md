@@ -1,5 +1,6 @@
 ---
 title: Bug in the Visual Studio Git integration that results in a merge conflict
+description: "Discover how to resolve merge conflicts in Visual Studio's Git integration. Learn effective workflows to streamline your development process and enhance collaboration."
 date: 2014-10-09
 creator: Martin Hinshelwood
 id: "10734"
@@ -72,3 +73,4 @@ If they only figure it out after they have committed one or more times to the br
 After that they can happily Pull to the published branch and continue to code away on the unpublished local branch. Yes this means that every developer effectively has one or more (they may have more than one set of work on the go) personal branches. While this was a bad practice in a Server Version Control System (SVCS) it is a perfectly good practice for a Distributed Version Control System (DVCS) where merging and branching is cheap and easy.
 
 If you can you should install the Visual Studio 2013.4 CTP that fixes this issue and you can carry on as normal.
+

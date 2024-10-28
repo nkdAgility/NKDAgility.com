@@ -1,6 +1,6 @@
 ---
 title: Why Most Scrum Masters Are Failing and What They Should Know
-description: Exploring the competency gap among Scrum Masters, this article highlights why many lack the skills needed to support effective teams. It examines common pitfalls like over-reliance on certification and lowering hiring standards, and outlines the essential skills a Scrum Master needs—ranging from Scrum and DevOps knowledge to agile coaching and stakeholder management. This piece calls for a refocus on true competence and measurable impact in the profession.
+description: "Discover why many Scrum Masters fail and learn essential skills for success. Elevate your Agile practices and ensure your team's effectiveness today!"
 date: 2024-09-05
 creator: Martin Hinshelwood
 id: "51730"
@@ -88,3 +88,4 @@ Reference
 - \*\* Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 
 - \*\*\* System of Profound Knowledge by W. Edwards Deming
+

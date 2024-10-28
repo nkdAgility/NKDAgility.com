@@ -1,5 +1,6 @@
 ---
 title: In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain
+description: "Learn how to successfully upgrade TFS 2008 to TFS 2010 while migrating to a new domain. Follow expert tips to avoid common pitfalls and ensure a smooth transition."
 date: 2011-04-19
 creator: Martin Hinshelwood
 id: "5"
@@ -173,3 +174,4 @@ After trying a while bunch of options including re-running everything from scrat
 - [Move Team Foundation Server from One Environment to Another](<http://msdn.microsoft.com/en-us/library/ms404883(v=VS.100).aspx>)
 
 BNX4P3AT2EP3
+

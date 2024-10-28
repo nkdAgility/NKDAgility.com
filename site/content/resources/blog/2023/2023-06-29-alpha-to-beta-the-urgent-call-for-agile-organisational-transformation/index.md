@@ -1,5 +1,6 @@
 ---
 title: The Urgent Call for Agile Organisational Transformation
+description: "Explore the urgent need for agile transformation in organizations. Discover how to break free from outdated hierarchies and thrive in dynamic markets."
 date: 2023-06-29
 creator: Martin Hinshelwood
 id: "49485"
@@ -69,3 +70,4 @@ Here is a list of the books, blogs, and content that may have influenced my idea
 - [OpenSpace Beta](https://www.redforty2.com/openspacebeta)
 
 - [BetaCodex Network - Learn about the Alternative to Management!](https://betacodex.org/home)
+

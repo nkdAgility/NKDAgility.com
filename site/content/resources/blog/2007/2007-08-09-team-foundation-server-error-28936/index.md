@@ -1,5 +1,6 @@
 ---
 title: Team Foundation Server Error 28936
+description: "Discover how to resolve Team Foundation Server Error 28936 with expert tips on IIS configuration and troubleshooting. Get your TFS up and running smoothly!"
 date: 2007-08-09
 creator: Martin Hinshelwood
 id: "337"
@@ -41,3 +42,4 @@ Remove this, and the error goes away!
 _This is from memory, I will fix any memory lapses tomorrow...Fixed_
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

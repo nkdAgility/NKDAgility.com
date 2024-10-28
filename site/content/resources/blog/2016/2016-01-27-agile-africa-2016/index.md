@@ -1,5 +1,6 @@
 ---
 title: Agile in Africa 2016
+description: "Join the Agile in Africa 2016 event in Accra, Ghana, and discover how to enhance development practices while connecting with industry experts. Sign up now!"
 date: 2016-01-27
 creator: Martin Hinshelwood
 id: "11450"
@@ -52,3 +53,4 @@ There was a lot of press coverage of the event, with radio interviews and even a
 I am looking forward to this year's event, have you signed up yet?
 
 [http://agileinafrica.com](http://agileinafrica.com)
+

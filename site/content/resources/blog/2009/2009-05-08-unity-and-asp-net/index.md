@@ -1,5 +1,6 @@
 ---
 title: Unity and ASP.NET
+description: "Discover how to implement Dependency Injection in ASP.NET using Unity, enhancing your web app's flexibility and efficiency without recompiling. Learn more!"
 date: 2009-05-08
 creator: Martin Hinshelwood
 id: "122"
@@ -124,3 +125,4 @@ The site will then load your new code and you can test the only functionality th
 P.S. Works with MVC… shhhh…
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [WPF](http://technorati.com/tags/WPF)
+

@@ -1,5 +1,6 @@
 ---
 title: Xbox  Live to Twitter Update (v0.2.3)
+description: "Discover the latest updates to the Xbox Live to Twitter app! Enhance your gaming experience with new features and customization options. Download now!"
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "267"
@@ -28,3 +29,4 @@ I like this play pen as it allows me to explore some of the .NET 3.5 functionali
 You can [download the application](http://www.codeplex.com/XboxLiveStatus/Release/ProjectReleases.aspx) from [CodePlex](http://www.codeplex.com) along with all the [source code](http://www.codeplex.com/XboxLiveStatus).
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
+

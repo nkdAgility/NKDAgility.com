@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2013 and TFS 2013 are released, get yours now! Oh and Windows 8.1&hellip;
+description: "Discover the powerful features of Visual Studio 2013 and TFS 2013, now available for download! Upgrade your development experience with the latest tools."
 date: 2013-10-17
 creator: Martin Hinshelwood
 id: "10214"
@@ -78,3 +79,4 @@ So far I have done 8 upgrades for customers in production with TFS 2013 and alre
 - [Upgrading from the TFS 2013 Preview to TFS 2013 RC](http://nkdagility.com/upgrading-from-the-tfs-2013-preview-to-tfs-2013-rc/)
 
 I have literally had two issues in ~8 installations, neither of which were of any real import and are described in the posts above. I have had no problems recommending  the upgrade, even to the preview, for even the most conservative of customers. That does not mean that they always listened, but now that the RTM is released I have upgrades to do and I expect many more to come over the next year…
+

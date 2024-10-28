@@ -1,5 +1,6 @@
 ---
 title: Solution to sub sites in Sharepoint 3.0 with Team Foundation Server
+description: "Discover a practical solution for creating sub sites in SharePoint 3.0 with Team Foundation Server. Streamline your project management today!"
 date: 2007-06-20
 creator: Martin Hinshelwood
 id: "376"
@@ -54,3 +55,4 @@ This works for us for a number of reasons; firstly only two users have permissio
 Works for us: Would it work for you?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
+

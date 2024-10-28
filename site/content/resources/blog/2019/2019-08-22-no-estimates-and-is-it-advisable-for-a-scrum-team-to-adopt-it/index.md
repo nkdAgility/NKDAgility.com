@@ -1,5 +1,6 @@
 ---
 title: No Estimates and is it advisable for a Scrum Team to adopt it?
+description: "Explore the pros and cons of adopting No Estimates for Scrum Teams. Discover how to optimize your workflow and enhance team communication effectively."
 date: 2019-08-22
 creator: Martin Hinshelwood
 id: "39684"
@@ -44,3 +45,4 @@ My feeling is that #NoEstimated is one way to do boolean estimation. You can rea
 Read the [Kanban Guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams) and [Actionable Agile Metrics for Predictability from Daniel Vacanti](https://actionableagile.com/publications).
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
+

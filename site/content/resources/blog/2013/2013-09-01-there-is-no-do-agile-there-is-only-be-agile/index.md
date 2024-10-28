@@ -1,5 +1,6 @@
 ---
 title: There is no "do agile" there is only "be agile"
+description: "Discover why true agility is about being, not just doing. Embrace deep organizational change for lasting value in your agile journey. Learn more!"
 date: 2013-09-01
 creator: Martin Hinshelwood
 id: "10058"
@@ -51,3 +52,4 @@ There are a great many thing that we can look at but until I can ‘go see’ ho
 If we can get some amount of time onsite to investigate and work on some of these things then that would make me happy. I am really looking forward to seeing how they have been getting on and how many of the issues we identified in the last engagement have changed.
 
 Here is looking forward to future collaboration and experimentation.
+

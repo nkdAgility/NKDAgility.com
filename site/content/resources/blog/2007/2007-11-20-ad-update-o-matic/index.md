@@ -1,5 +1,6 @@
 ---
 title: AD Update-O-Matic
+description: "Discover how to automate Active Directory updates with a custom VB 9.0 application, enhancing organization for MOSS 2007 users. Dive into the details!"
 date: 2007-11-20
 creator: Martin Hinshelwood
 id: "290"
@@ -31,3 +32,4 @@ One of the guys from infrastructure are coming over this afternoon to run the ap
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

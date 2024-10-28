@@ -1,5 +1,6 @@
 ---
 title: LinkedIn Woopsie with the Outlook 2010 Social Media Connector
+description: "Discover how a LinkedIn account suspension led to insights on the Outlook 2010 Social Media Connector. Learn from my experience and avoid pitfalls!"
 date: 2010-04-28
 creator: Martin Hinshelwood
 id: "47"
@@ -65,3 +66,4 @@ It only tool another hour after I explained where I thought the problem was for 
 Credit to LinkedIn for solving it quickly..
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [LinkedIn](http://technorati.com/tags/LinkedIn) [Outlook 2010](http://technorati.com/tags/Outlook+2010)
+

@@ -1,5 +1,6 @@
 ---
 title: TFS Service Credential Viewer
+description: "Discover the TFS Service Credential Viewer to easily manage your Team Foundation Service credentials for automated connections. Simplify your workflow today!"
 date: 2012-03-30
 creator: Martin Hinshelwood
 id: "5032"
@@ -69,3 +70,4 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
 5.  Done
 
 If you encounter an exception when clicking "Connect" the most likely cause if that you do not have Team Explorer 2012 installed
+

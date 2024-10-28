@@ -1,5 +1,6 @@
 ---
 title: Naming your servers in an enterprise environment
+description: "Discover effective server naming strategies for enterprise environments. Learn how to create meaningful, consistent names that enhance identification and management."
 date: 2007-10-18
 creator: Martin Hinshelwood
 id: "299"
@@ -57,3 +58,4 @@ Do you see the problem. If you now want to add another web server to your produc
 This method just does not work in an enterprise environment...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

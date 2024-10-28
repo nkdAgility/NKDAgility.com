@@ -1,5 +1,6 @@
 ---
 title: Internet Explorer 8 Release Candidate 1 (RC1)
+description: "Discover the features of Internet Explorer 8 Release Candidate 1. Explore performance improvements and fixes that enhance your browsing experience!"
 date: 2009-01-27
 creator: Martin Hinshelwood
 id: "143"
@@ -20,3 +21,4 @@ IT Professionals should visit [http://technet.microsoft.com/ie](http://technet.m
 Developers should visit [http://msdn.microsoft.com/ie](http://msdn.microsoft.com/ie)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

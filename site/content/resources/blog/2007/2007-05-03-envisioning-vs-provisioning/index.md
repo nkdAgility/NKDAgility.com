@@ -1,5 +1,6 @@
 ---
 title: Envisioning vs Provisioning
+description: "Explore the roles of Envisioners and Provisioners in software development. Discover how their unique skills drive innovation and deliver effective solutions."
 date: 2007-05-03
 creator: Martin Hinshelwood
 id: "405"
@@ -35,3 +36,4 @@ In the realm of the software development industrial revolution, envisioners woul
 _What do you think and which are you?_
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

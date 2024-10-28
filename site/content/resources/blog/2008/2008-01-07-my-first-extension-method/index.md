@@ -1,5 +1,6 @@
 ---
 title: My first Extension method...
+description: "Explore how to enhance your .NET skills by creating extension methods in VB.NET. Learn to add functionality to Xbox Live info with practical examples!"
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "269"
@@ -45,3 +46,4 @@ You can add extension methods randomly within your code, but it makes sense to p
 Have fun...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

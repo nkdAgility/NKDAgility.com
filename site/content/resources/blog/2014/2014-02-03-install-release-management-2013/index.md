@@ -1,5 +1,6 @@
 ---
 title: Install Release Management 2013
+description: "Learn to install and configure Release Management 2013 with Visual Studio 2013 in under 10 minutes. Streamline your deployment process effortlessly!"
 date: 2014-02-03
 creator: Martin Hinshelwood
 id: "10353"
@@ -33,3 +34,4 @@ Have you seen how easy it is to install Release Management 2013 and configure a 
 - Microsoft Deployment Agent 2013
 
 Have you been using Release Management in Visual Studio 2013? How have you been getting on?
+

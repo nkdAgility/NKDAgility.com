@@ -1,5 +1,6 @@
 ---
 title: "Jadie Hinshelwood: A yummy mummy is born!"
+description: "Join Jadie Hinshelwood on her heartfelt journey to motherhood, sharing experiences of pregnancy and loss. Support her blog, 'A Yummy Mummy is Born'!"
 date: 2007-09-21
 creator: Martin Hinshelwood
 id: "309"
@@ -24,3 +25,4 @@ It was a hard and long journey, but we [got there in the end](http://jadie.hinsh
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

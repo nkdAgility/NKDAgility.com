@@ -1,5 +1,6 @@
 ---
 title: Advanced Email Content
+description: "Explore the potential of advanced email content with WPF. Discover how to embed interactive elements in emails and enhance communication creatively!"
 date: 2007-03-24
 creator: Martin Hinshelwood
 id: "431"
@@ -26,3 +27,4 @@ I guess my question is:
 Has anyone ever sent an xbap to anyone via email? Not a link, actually running in the email window. And if so, how?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

@@ -1,5 +1,6 @@
 ---
 title: Do you know about the Visual Studio 2010 Database Projects Guidance?
+description: "Discover essential guidance for Visual Studio 2010 Database Projects, enhancing your team's database management and deployment strategies. Unlock your potential!"
 date: 2011-02-16
 creator: Martin Hinshelwood
 id: "9896"
@@ -55,3 +56,4 @@ If you need assistance and no one else can help, then you may need to call the V
 The Visual Studio ALM Rangers have the mission to provide out of band solutions for missing features or guidance. They are supported by Microsoft Product Group, Microsoft Consulting Services, Microsoft Most Valued Professionals (MVPs) and technical specialists from technology communities around the globe, giving you a real-world view from the field, where the technology has been tested and used.
 
 For more information on the Rangers please visit [http://msdn.microsoft.com/en-us/vstudio/ee358786.aspx](http://msdn.microsoft.com/en-us/vstudio/ee358786.aspx) and for more a list of other Rangers projects please see [http://msdn.microsoft.com/en-us/vstudio/ee358787.aspx](http://msdn.microsoft.com/en-us/vstudio/ee358787.aspx).
+

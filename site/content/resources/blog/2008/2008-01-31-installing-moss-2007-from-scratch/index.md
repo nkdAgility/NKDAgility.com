@@ -1,5 +1,6 @@
 ---
 title: Installing MOSS 2007 from scratch
+description: "Learn how to install Microsoft Office SharePoint Server 2007 from scratch, including essential updates and configurations for a successful setup."
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "253"
@@ -89,3 +90,4 @@ Well that's it all installed, just waiting for my SPN's so I can start adding si
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

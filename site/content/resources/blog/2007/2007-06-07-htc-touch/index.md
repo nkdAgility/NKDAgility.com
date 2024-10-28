@@ -1,5 +1,6 @@
 ---
 title: HTC Touch
+description: "Discover the HTC Touch, a groundbreaking competitor to the iPhone, blending functionality and style for mobile enthusiasts. Find out why it's a must-have!"
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "385"
@@ -23,3 +24,4 @@ Well HTC has come up with a first step competitor for the iPhone, and they call 
 My only question is: **When will this be available on orange?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
+

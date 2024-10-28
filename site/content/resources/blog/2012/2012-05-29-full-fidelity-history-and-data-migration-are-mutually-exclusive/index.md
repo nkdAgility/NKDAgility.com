@@ -1,5 +1,6 @@
 ---
 title: Full-fidelity history and data migration are mutually exclusive
+description: "Explore the challenges of data migration vs. full history upgrades in TFS. Learn how to maintain compliance and tractability in your software systems."
 date: 2012-05-29
 creator: Martin Hinshelwood
 id: "5288"
@@ -73,3 +74,4 @@ If you need help deciding then there is some Rangers guidance and my aforementio
 **Figure: TFS Integration Platform - Migration Guidance Poster**
 
 There are a bunch of other workarounds to this that I have discussed on many occasions with customers but they still need to choose … which do you want? Make sure that you look at all of the pros and cons carefully and decide what you want to do. An additional thing to note is that migration is very expensive in time and expertise, so choose carefully.
+

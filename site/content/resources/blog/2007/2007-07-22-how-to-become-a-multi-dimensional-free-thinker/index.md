@@ -1,5 +1,6 @@
 ---
 title: How to become a Multi-Dimensional Free Thinker
+description: "Unlock the power of dyslexia to become a multi-dimensional free thinker. Discover how unique thinking can enhance creativity and problem-solving skills."
 date: 2007-07-22
 creator: Martin Hinshelwood
 id: "364"
@@ -26,3 +27,4 @@ Professions for such talented people include but is not limited to:
 engineers, architects, designers, artists and craftspeople, mathematicians, physicists, physicians (esp. surgeons and orthopedists), dentists, it professionals (esp. Software Development Engineers, Developer Evangelists and Software Architects).
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

@@ -1,5 +1,6 @@
 ---
 title: Windows Live Wave 3
+description: "Explore the features of Windows Live Wave 3, including Messenger 9 and Writer. Download the latest betas and enhance your live experience today!"
 date: 2008-09-17
 creator: Martin Hinshelwood
 id: "192"
@@ -31,3 +32,4 @@ I am only really interested in Messenger and Writer, but all the
 application are there.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

@@ -1,5 +1,6 @@
 ---
 title: Custom WCF Proxy
+description: "Learn how to create custom WCF proxies to streamline your web services and eliminate the need for converters. Enhance your .NET development toolkit today!"
 date: 2007-05-29
 creator: Martin Hinshelwood
 id: "394"
@@ -31,3 +32,4 @@ I decided to solve the problem by creating custom proxies for my Windows Communi
 This way you have no need of a convertors or adapters between object types. Obviously this only works for .NET to .NET implementations of servers, you Java guys are still on your own, but it a usefully tool to add to your arsenal.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [WCF](http://technorati.com/tags/WCF)
+

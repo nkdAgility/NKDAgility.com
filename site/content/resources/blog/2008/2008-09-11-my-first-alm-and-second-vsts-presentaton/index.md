@@ -1,5 +1,6 @@
 ---
 title: My first ALM and second VSTS presentaton!
+description: "Join Martin Hinshelwood as he reflects on his first ALM and VSTS presentations, sharing insights on preparation, delivery, and the evolving tech landscape."
 date: 2008-09-11
 creator: Martin Hinshelwood
 id: "193"
@@ -26,3 +27,4 @@ Well, it has a lot more sales focus that I thought it did! This is not a bad thi
 We will see, I should here by early next week...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal)
+

@@ -1,5 +1,6 @@
 ---
 title: Installing the .NET Framework 3.5 Beta 2 on Vista
+description: "Learn how to successfully install the .NET Framework 3.5 Beta 2 on Vista with step-by-step instructions and troubleshooting tips. Simplify your setup today!"
 date: 2007-07-29
 creator: Martin Hinshelwood
 id: "357"
@@ -47,3 +48,4 @@ I did however find more that one hotfix with the same KB number, so I got rid of
 After this I tried VS2008 again...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

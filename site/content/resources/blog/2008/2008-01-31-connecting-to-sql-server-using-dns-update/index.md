@@ -1,5 +1,6 @@
 ---
 title: Connecting to SQL Server using DNS update
+description: "Learn how to connect to SQL Server using DNS updates and manage SPNs effectively for seamless database access. Enhance your infrastructure setup today!"
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "255"
@@ -38,3 +39,4 @@ When I try moving the databases I will need to move this SPN to the new SQL Clus
 Here's hoping...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
+

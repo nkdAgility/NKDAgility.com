@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2008 and the GDR CTP16
+description: "Explore the challenges of using Visual Studio 2008 with GDR CTP16, including dependency issues and solutions for smoother database imports. Dive in!"
 date: 2008-09-04
 creator: Martin Hinshelwood
 id: "199"
@@ -25,3 +26,4 @@ I tried uninstalling the GDR, but that left me with NO data dude :(
 SO I have reinstalled and will try again....
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

@@ -1,5 +1,6 @@
 ---
 title: Upgrading from TFS 2010 Beta 2 to TFS 2010 RC done
+description: "Discover the smooth upgrade process from TFS 2010 Beta 2 to RC, ensuring your development team is up and running efficiently. Get expert tips and insights!"
 date: 2010-02-10
 creator: Martin Hinshelwood
 id: "70"
@@ -81,3 +82,4 @@ We were the [first company on Beta 2 in production](http://blog.hinshelwood.com/
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

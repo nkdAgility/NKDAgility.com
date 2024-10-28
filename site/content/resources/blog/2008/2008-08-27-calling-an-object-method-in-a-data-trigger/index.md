@@ -1,5 +1,6 @@
 ---
 title: Calling an object method in a data trigger
+description: "Learn how to call object methods in WPF data triggers effectively. This guide simplifies the process, helping you enhance your coding skills with practical examples."
 date: 2008-08-27
 creator: Martin Hinshelwood
 id: "205"
@@ -357,3 +358,4 @@ During my investigation I came across [WPFix Part 3 (Extension Methods)](http://
 I am looking for an easy solution :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

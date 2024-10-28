@@ -1,5 +1,6 @@
 ---
 title: Move your Active Directory domain to another server
+description: "Learn how to successfully move your Active Directory domain to a new server with expert tips and a detailed video guide. Simplify your migration process!"
 date: 2014-01-20
 creator: Martin Hinshelwood
 id: "10334"
@@ -42,3 +43,4 @@ And lets not forget the Global Catalogue.
 The video documents my journey of moving my demo domain from one server to another and it currently looks like everything is working. Job done…
 
 How did you get on moving your domain?
+

@@ -1,5 +1,6 @@
 ---
 title: Advice on using XamRibbon with Composite WPF
+description: "Discover expert advice on integrating XamRibbon with Composite WPF. Enhance your applications with practical tips and code examples from Martin Hinshelwood."
 date: 2008-11-19
 creator: Martin Hinshelwood
 id: "164"
@@ -348,3 +349,4 @@ I am pretty sure that these can be augmented, and I can think of a few Ideas alr
 I think I might have to go away and try this…
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject)
+

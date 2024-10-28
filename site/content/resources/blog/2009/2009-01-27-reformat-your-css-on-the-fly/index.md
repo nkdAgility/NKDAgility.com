@@ -1,5 +1,6 @@
 ---
 title: Reformat your CSS on the fly
+description: "Learn how to dynamically reformat your CSS for different environments using .NET. Simplify your web development process and enhance your workflow today!"
 date: 2009-01-27
 creator: Martin Hinshelwood
 id: "142"
@@ -134,3 +135,4 @@ Now add the Handler to you web.config
 And you are done :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows) [CodeProject](http://technorati.com/tags/CodeProject)
+

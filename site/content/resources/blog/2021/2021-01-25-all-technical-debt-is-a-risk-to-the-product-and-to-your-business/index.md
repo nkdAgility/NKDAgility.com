@@ -1,5 +1,6 @@
 ---
 title: All technical debt is a risk to the product and to your business.
+description: "Discover how technical debt poses risks to your product and business. Learn strategies to manage it effectively and ensure quality delivery. Read more!"
 date: 2021-01-25
 creator: Martin Hinshelwood
 id: "45521"
@@ -149,3 +150,4 @@ I just don’t believe that if the business (read CFO) of the receiving entity r
 - Have no idea what even needs to be done
 
 **It’s a Roadkill Burger! It may indeed be tasty at the moment, but you will eventually get sick and die.**
+

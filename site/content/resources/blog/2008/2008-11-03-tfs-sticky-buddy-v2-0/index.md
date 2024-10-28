@@ -1,5 +1,6 @@
 ---
 title: TFS Sticky Buddy v2.0
+description: "Discover the new features of TFS Sticky Buddy v2.0! Explore its improved interface and modular design, and share your ideas on Codeplex today!"
 date: 2008-11-03
 creator: Martin Hinshelwood
 id: "174"
@@ -30,3 +31,4 @@ Head over to [Codeplex](http://codeplex.com) and vote for your favourite feature
 [Issue Tracker](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx "Issue Tracker")
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
+

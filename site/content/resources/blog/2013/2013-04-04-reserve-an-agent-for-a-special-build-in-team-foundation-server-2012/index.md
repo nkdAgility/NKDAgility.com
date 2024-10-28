@@ -1,5 +1,6 @@
 ---
 title: Reserve an Agent for a special build in Team Foundation Server 2012
+description: "Learn how to reserve a build agent in Team Foundation Server 2012 to streamline your build process and avoid conflicts. Optimize your CI/CD workflow now!"
 date: 2013-04-04
 creator: Martin Hinshelwood
 id: "9359"
@@ -298,3 +299,4 @@ This process while requiring the customisation of your build process can allow y
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.
+

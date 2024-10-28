@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio 2005 on Windows vista
+description: "Learn how to successfully install Visual Studio 2005 on Windows Vista with tips and insights from Martin Hinshelwood. Overcome installation challenges easily!"
 date: 2006-11-20
 creator: Martin Hinshelwood
 id: "461"
@@ -18,3 +19,4 @@ I have just installed VS2005 on vista. Although I was setup for a whole host of 
 Role on SP1
 
 Technorati Tags: [VS 2005](http://technorati.com/tags/VS+2005)
+

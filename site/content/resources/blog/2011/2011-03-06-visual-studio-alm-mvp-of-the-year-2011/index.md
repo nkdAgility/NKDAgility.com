@@ -1,5 +1,6 @@
 ---
 title: Visual Studio ALM MVP of the Year 2011
+description: "Discover Martin Hinshelwood's journey as the Visual Studio ALM MVP of the Year 2011, sharing insights and valuable resources for TFS enthusiasts."
 date: 2011-03-06
 creator: Martin Hinshelwood
 id: "9"
@@ -47,3 +48,4 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
+

@@ -1,5 +1,6 @@
 ---
 title: "Microsoft: forget about PayPal, how about a MasterCard killer?"
+description: "Explore the rise of digital payment alternatives as Microsoft challenges PayPal's dominance. Discover insights on the future of online transactions!"
 date: 2007-01-30
 creator: Martin Hinshelwood
 id: "439"
@@ -18,3 +19,4 @@ Ever since PayPal burst on to the scene, the Nostradamus types have been predict
 [read more](http://arstechnica.com/news.ars/post/20070128-8718.html) | [digg story](http://digg.com/tech_news/Microsoft_forget_about_PayPal_how_about_a_MasterCard_killer)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

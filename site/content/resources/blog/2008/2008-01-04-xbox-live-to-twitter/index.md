@@ -1,5 +1,6 @@
 ---
 title: Xbox Live To Twitter
+description: "Discover how to connect your Xbox Live updates to Twitter with a custom application. Download the source code and enhance your gaming experience!"
 date: 2008-01-04
 creator: Martin Hinshelwood
 id: "271"
@@ -25,3 +26,4 @@ if you have any problems, please create or vote for Issues via the interface![sm
 { .post-img }
 
 Technorati Tags: [RDdotNet](http://technorati.com/tags/RDdotNet) [Xbox](http://technorati.com/tags/Xbox)
+

@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 - Issue: Stuck builds in Team Foundation Build with no build number"
+description: "Resolve stuck builds in TFS 2012 with our troubleshooting guide. Discover key insights and solutions to get your Team Foundation Build back on track!"
 date: 2012-08-30
 creator: Martin Hinshelwood
 id: "7760"
@@ -120,3 +121,4 @@ Kicking of a build results in… a build number and a failed build. (elation)
 While this may be a failed build it is a success for this exercise of getting the build server working…
 
 Thanks to Patrick Carnahan for his help on this one.
+

@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 11 Upgrade Health Check
+description: "Prepare for a smooth transition to Visual Studio 11 with our expert Health Check. Ensure your upgrade is seamless and unlock new features today!"
 date: 2012-03-01
 creator: Martin Hinshelwood
 id: "4747"
@@ -40,3 +41,4 @@ We can help you make sure that you will be able to:
 - e.t.c.
 
 Let us help you get the most out of the tools…
+

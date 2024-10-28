@@ -1,5 +1,6 @@
 ---
 title: If your backlog is not refined then you are doing it wrong
+description: "Ensure your Scrum team's success by refining your Product Backlog. Discover effective strategies to enhance clarity and quality in Sprint Planning."
 date: 2020-12-17
 creator: Martin Hinshelwood
 id: "38243"
@@ -66,3 +67,4 @@ This enables your [Product Owner to be able to plan future releases](/blog/relea
 During the [Sprint Planning](/the-2020-scrum-guide/#sprint-planning) event, your [Developers](/the-2020-scrum-guide/#developers) should be able to quickly select many Product Backlog Items that go towards the chosen [Sprint Goal](/the-2020-scrum-guide/#commitment-sprint-goal) and agree that they fit. If you can do this, and most of the time you get most (not all) of the Items delivered, then you are probably doing enough refinement. If you can't, then you need to focus a little more on Refinement and making your Product Backlog ready.
 
 If at your [Sprint Review](/the-2020-scrum-guide/#sprint-review) the [Product Owner is always wanting to reject that Backlog Items are complete](/blog/the-fallacy-of-the-rejected-backlog-item/) then there is unlikely to be enough refinement for the Development Team to understand what they are expected to do.
+

@@ -1,5 +1,6 @@
 ---
 title: Small / New business websites
+description: "Discover essential tips for building a successful web presence for your small business. Learn about SEO, design, and more to enhance your online visibility!"
 date: 2007-01-30
 creator: Martin Hinshelwood
 id: "441"
@@ -92,3 +93,4 @@ WARNING: I have worked for companies that look like they can do you a good job b
 Just my 50p, please feel free to comment below...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Courses for 2016 in Oslo, Norway
+description: "Join our Professional Scrum courses in Oslo and Kongsberg to master Agile practices and elevate your Scrum skills. Enroll now for a successful 2016!"
 date: 2016-01-06
 creator: Martin Hinshelwood
 id: "11426"
@@ -49,3 +50,4 @@ In just 3 days this course uses practical experiance to explore DevOps and Agile
 [](http://programutvikling.no/course/professional-scrum-master/)[](http://programutvikling.no/course/professional-scrum-master/)
 
 NOTE: Although the course can be taught with any programming language, this one will be .NET and C#. Feel free to request any language verient that you would like to see, however we would need at least 8 students to make it worth creating a custom version.
+

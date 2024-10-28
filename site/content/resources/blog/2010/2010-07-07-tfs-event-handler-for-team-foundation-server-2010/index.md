@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler for Team Foundation Server 2010
+description: "Explore the new TFS Event Handler for Team Foundation Server 2010, designed for efficient event processing and enhanced integration. Join the discussion today!"
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "33"
@@ -65,3 +66,4 @@ The Email handlers would not work so well in the Scrum environment, but what wou
 \[[Request an event handler](http://tfseventhandler.codeplex.com/WorkItem/Create.aspx?ProjectName=TFSEventHandler)\]
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Custom](http://technorati.com/tags/TFS+Custom)
+

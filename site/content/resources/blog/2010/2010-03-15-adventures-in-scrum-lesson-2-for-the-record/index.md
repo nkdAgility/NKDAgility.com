@@ -1,5 +1,6 @@
 ---
 title: "Adventures in Scrum: Lesson 2 - For the record"
+description: "Explore key lessons from our first Scrum Sprint at SSW, uncovering the importance of clear communication and alignment in Agile practices. Join the journey!"
 date: 2010-03-15
 creator: Martin Hinshelwood
 id: "62"
@@ -59,3 +60,4 @@ Its simple, as per our rule I should have sent the following email:
 This email should have been copied to the entire Scrum Team, which would have included the Product Owner, who would have nipped this misunderstanding in the bud and we would have had one less impediment.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [Silverlight](http://technorati.com/tags/Silverlight)
+

@@ -1,5 +1,6 @@
 ---
 title: .NET Service Manager
+description: "Discover the .NET Service Manager, a versatile tool for wrapping local and remote services. Download the source code and enhance your applications today!"
 date: 2008-08-06
 creator: Martin Hinshelwood
 id: "213"
@@ -28,3 +29,4 @@ It is quite simple, but has a plethora of uses… One of the best is creating Cl
 { .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
+

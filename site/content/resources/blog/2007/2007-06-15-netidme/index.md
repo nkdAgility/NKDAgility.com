@@ -1,5 +1,6 @@
 ---
 title: NetIDme
+description: "Explore NetIDme, a service for online identity verification that enhances user interaction and security across platforms like SharePoint and more. Discover the future!"
 date: 2007-06-15
 creator: Martin Hinshelwood
 id: "384"
@@ -30,3 +31,4 @@ Hmm, the future is bright...
 You
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

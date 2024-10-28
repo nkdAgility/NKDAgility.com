@@ -1,5 +1,6 @@
 ---
 title: Deploy from Visual Studio 2012 to iOS, Windows Phone, Android and Windows
+description: "Discover how to deploy apps from Visual Studio 2012 to multiple platforms like iOS, Android, and Windows, streamlining your development process effectively."
 date: 2012-08-03
 creator: Martin Hinshelwood
 id: "6950"
@@ -82,3 +83,4 @@ If you are a user wanting to build line of business application for your organis
 This is a demonstration of what can be done in the ALM space to solve a real need for customer and allow them to deliver more value more quickly to their customers.
 
 **Do you build mobile applications? Would this help you?**
+

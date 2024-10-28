@@ -1,5 +1,6 @@
 ---
 title: First day at Aggreko
+description: "Join me on my first day at Aggreko, where I dive into deploying SharePoint and experience their impressive efficiency. Discover my journey and insights!"
 date: 2007-09-17
 creator: Martin Hinshelwood
 id: "310"
@@ -27,3 +28,4 @@ Hmm, I think I [blogged](http://blog.hinshelwood.com/archive/2007/08/24/Sharepoi
 They already have a wicked farm setup, but with nothing on it. And there are masses of propriatory workflow and applciations to migrate...Thisis not a small job.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [Personal](http://technorati.com/tags/Personal)
+

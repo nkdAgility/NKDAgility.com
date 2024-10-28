@@ -1,5 +1,6 @@
 ---
 title: TFS Admin Tool 1.2 Gotcha
+description: "Discover a crucial TFS Admin Tool 1.2 issue: adding users as 'Contributor' fails to grant 'Reader' access, leading to report visibility problems. Learn more!"
 date: 2007-03-29
 creator: Martin Hinshelwood
 id: "422"
@@ -24,3 +25,4 @@ This is in fact wrong and should also add "Reader" otherwise you get lots of ema
 This is a minor problem to fix, unless you only notice it after you have created 100 projects... Doh!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2008 Beta 2 Team Explorer
+description: "Discover the challenges of installing Visual Studio 2008 Team Explorer and why it should be included in the setup for a smoother development experience."
 date: 2007-07-29
 creator: Martin Hinshelwood
 id: "356"
@@ -22,3 +23,4 @@ I think that Team Explorer should be included as an optional install for Visual 
 I will get back to you once I have VSTE installed...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
+

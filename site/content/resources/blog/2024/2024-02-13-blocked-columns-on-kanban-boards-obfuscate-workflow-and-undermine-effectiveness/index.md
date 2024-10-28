@@ -1,5 +1,6 @@
 ---
 title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effectiveness
+description: "Discover how blocked columns on Kanban boards hinder workflow efficiency. Learn effective strategies to enhance transparency and accountability in your team."
 date: 2024-02-13
 creator: Martin Hinshelwood
 id: "51208"
@@ -72,3 +73,4 @@ You can also increase the transparency by enabling a colour for the tag. Just be
 - [The Principles of Product Development Flow: Second Generation Lean Product Development](https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow)
 
 - [When Will It Be Done?: Lean-Agile Forecasting to Answer Your Customers' Most Important Question by Daniel S. Vacanti | Goodreads](https://www.goodreads.com/book/show/40681093-when-will-it-be-done)
+

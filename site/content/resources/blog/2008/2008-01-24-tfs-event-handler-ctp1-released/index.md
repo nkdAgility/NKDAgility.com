@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler CTP1 Released
+description: "Discover the newly released TFS Event Handler CTP1! Explore its features, limitations, and plans for future updates to enhance your development workflow."
 date: 2008-01-24
 creator: Martin Hinshelwood
 id: "261"
@@ -53,3 +54,4 @@ Well, that's the plan... ![smile_nerd](images/smile_nerd-5-2.gif)
 Edited for bad English and down right sloppiness... Made me sound like English was not my first language...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
+

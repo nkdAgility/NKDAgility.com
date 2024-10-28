@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - A day in the life of ... Plan, Code & Test
+description: "Explore a day in the life of developers, testers, and program managers using TFS 2010. Learn planning, coding, and testing strategies in this insightful overview!"
 date: 2012-01-25
 creator: Martin Hinshelwood
 id: "4142"
@@ -52,3 +53,4 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 Slide deck: [Training - \[DayInTheLife\] - Develope & Test](https://www.sugarsync.com/pf/D057810_8988291_644802 "https://www.sugarsync.com/pf/D057810_8988291_644802")
 
 \[screencast url="http://www.screencast.com/t/cqfQCnis" width="640" height="480"\] **Screencast: Visual Studio 2010 Overview - A day in the life of ... Plan, Code & Test** _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts.If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of the [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program._
+

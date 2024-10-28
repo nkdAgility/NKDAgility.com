@@ -1,5 +1,6 @@
 ---
 title: The Sprint Goal is a commitment for the Sprint Backlog
+description: "Discover the importance of the Sprint Goal in Scrum. Learn how it fosters team focus and transparency, driving valuable outcomes in your projects."
 date: 2020-11-27
 creator: Martin Hinshelwood
 id: "45088"
@@ -37,3 +38,4 @@ Some Good Examples of a Product Goal:
 The Sprint Goal should represent the next most valuable outcome towards the [Product Goal](https://nkdagility.com/the-product-goal-is-a-commitment-for-the-product-backlog), and is part of the Sprint Backlog. It is the commitment that is made by the Developers towards a valuable outcome. It help the Developers understand the purpose, and should give them enough information to help them make the right choices during the Sprint.
 
 Does your team have a Sprint Goal?
+

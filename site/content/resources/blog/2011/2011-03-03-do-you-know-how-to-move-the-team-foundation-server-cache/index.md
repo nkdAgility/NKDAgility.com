@@ -1,5 +1,6 @@
 ---
 title: Do you know how to move the Team Foundation Server cache
+description: "Learn how to efficiently move the Team Foundation Server cache to optimize server space and improve performance with this easy step-by-step guide."
 date: 2011-03-03
 creator: Martin Hinshelwood
 id: "9894"
@@ -47,3 +48,4 @@ Moving the Cache is pretty easy and should allow you to organise your server spa
 4.  The app pool will automatically recycle and Team Web Access will start using the new location.
 
 If you then download a file (not via a proxy) a folder with a GUID should be created immediately in the folder from #1.  If the folder doesn’t appear, then you probably don’t have permissions set up properly.
+

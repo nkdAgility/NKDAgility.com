@@ -1,5 +1,6 @@
 ---
 title: Back to the grind
+description: "Join Martin Hinshelwood as he reflects on his paternity leave and the joy of welcoming his baby girl, before diving back into the work grind."
 date: 2007-07-10
 creator: Martin Hinshelwood
 id: "373"
@@ -21,3 +22,4 @@ Well that's my paternity leave over, I cant believe that it has been two weeks! 
 But now it is time to get back to work...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

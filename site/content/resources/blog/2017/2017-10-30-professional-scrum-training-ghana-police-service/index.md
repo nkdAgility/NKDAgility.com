@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Training for the Ghana Police Service
+description: "Join the Ghana Police Service in pioneering Scrum training for effective organizational change. Discover agile practices that empower officers to innovate!"
 date: 2017-10-30
 creator: Martin Hinshelwood
 id: "12095"
@@ -101,3 +102,4 @@ Some things I would do differently:
 Teaching non techies is hard, especially for a certifiable geek like myself. However I totally enjoyed my time in Ghana teaching Scrum for the Ghana Police Service and am looking forward to doing it again. I'm back in Ghana for the Agile In Africa conference, and again in December to teach a Professional Scrum Developer (this time to techies). More classes are scheduled next year...
 
 If you are in Ghana or anywhere in West Africa you can get in touch with [Akaditi](http://www.akaditi.com/) for both public and private classes for your Organisation.
+

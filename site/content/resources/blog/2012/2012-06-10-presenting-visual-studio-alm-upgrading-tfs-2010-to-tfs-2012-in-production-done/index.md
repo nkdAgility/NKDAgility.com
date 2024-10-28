@@ -1,5 +1,6 @@
 ---
 title: Presenting Visual Studio ALM and upgrading TFS 2010 to TFS 2012 in production – Done
+description: "Discover how to successfully upgrade from TFS 2010 to TFS 2012 and unlock the full potential of Visual Studio ALM for your organization. Learn more!"
 date: 2012-06-10
 creator: Martin Hinshelwood
 id: "5432"
@@ -103,3 +104,4 @@ So I had a full half day to present to their senior management so I talked about
 So if you are presenting TFS to your management there is a lot for them to like. So much so, that if done right you should have no trouble convicting them that TFS will provide them with value. You do however need to remember that if your processes suck then TFS will not magically make them all better unless you also change your processes.
 
 Good luck with your convincing…
+

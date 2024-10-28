@@ -1,5 +1,6 @@
 ---
 title: Cool new feature in IE8
+description: "Discover the game-changing address bar enhancements in IE8 that boost efficiency and make browsing easier. Upgrade your experience today!"
 date: 2008-08-28
 creator: Martin Hinshelwood
 id: "202"
@@ -23,3 +24,4 @@ It may be simple, and it may be small, but the feature that hit me first and gre
 This feature alone has improved my efficientcy :) I can find stuff again....
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

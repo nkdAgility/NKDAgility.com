@@ -1,5 +1,6 @@
 ---
 title: "SkyDrive: 25 GB of free online storage"
+description: "Discover SkyDrive's 25 GB of free online storage, seamlessly integrated with Windows Live services. Share and manage your files effortlessly!"
 date: 2008-12-04
 creator: Martin Hinshelwood
 id: "157"
@@ -74,3 +75,4 @@ Here is a comprehensive list of all [Windows Live services](http://home.live.com
    Store and share your business documents online—it’s quick, easy, and free.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
+

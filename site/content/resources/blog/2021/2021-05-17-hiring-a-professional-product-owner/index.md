@@ -1,5 +1,6 @@
 ---
 title: Hiring a Professional Product Owner
+description: "Discover the essential qualities of a Professional Product Owner. Learn how to maximize product value and enhance team collaboration for success."
 date: 2021-05-17
 creator: Martin Hinshelwood
 contributors:
@@ -227,3 +228,4 @@ The key point in the above is the delegation point; we are not thinking that a s
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
+

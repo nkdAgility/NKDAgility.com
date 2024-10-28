@@ -1,5 +1,6 @@
 ---
 title: .NET Framework 3.0
+description: "Discover the power of .NET Framework 3.0! Learn how WCF enhances code quality and developer productivity with cleaner, more functional applications."
 date: 2006-11-11
 creator: Martin Hinshelwood
 id: "462"
@@ -26,3 +27,4 @@ I have upgraded my CodePlex project to use WCF, and what a difference it makes:
 It is amazing what a few attribute tags can make.
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+

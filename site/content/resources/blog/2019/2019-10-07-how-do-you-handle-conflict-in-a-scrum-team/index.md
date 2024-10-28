@@ -1,5 +1,6 @@
 ---
 title: How do you handle conflict in a Scrum Team?
+description: "Discover effective strategies for resolving conflicts in Scrum teams. Learn from expert Martin Hinshelwood on fostering collaboration and team harmony."
 date: 2019-10-07
 creator: Martin Hinshelwood
 id: "39851"
@@ -41,3 +42,4 @@ If after all of those avenues have been exhausted then maybe the Team Member is 
 There is nothing wrong with not being a good fit for a team. A team is a group of people, and people don’t always get along and no matters how much you focus on professionalism; there are always individuals that should not be in the same circles. Maybe you need to look for a way to place that person elsewhere in an environment that more suits their personality.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
+

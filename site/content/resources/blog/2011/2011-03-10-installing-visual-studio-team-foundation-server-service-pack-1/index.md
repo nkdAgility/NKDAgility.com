@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio Team Foundation Server Service Pack 1
+description: "Learn how to install Visual Studio Team Foundation Server Service Pack 1 smoothly, troubleshoot common issues, and enhance your development environment."
 date: 2011-03-10
 creator: Martin Hinshelwood
 id: "8"
@@ -158,3 +159,4 @@ I don’t know if the laptop was just slow, or what…
 **Did you get this error?**
 
 If you did I will push this to the product team as a problem, but unless more people have this sort of error, I will just look to write this off as a corrupted install of Windows and reinstall.
+

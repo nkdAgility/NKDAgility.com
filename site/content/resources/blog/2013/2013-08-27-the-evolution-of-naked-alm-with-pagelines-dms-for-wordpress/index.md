@@ -1,5 +1,6 @@
 ---
 title: The evolution of naked ALM with Pagelines DMS for Wordpress
+description: "Discover the evolution of naked ALM with Pagelines DMS for WordPress. Learn how to enhance your site’s customization and functionality effortlessly!"
 date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9964"
@@ -139,3 +140,4 @@ If you are building a website or blog you will be hard pushed to do better than 
 **What blogging platform do you use?**
 
 **How would you compare it to Pagelines on Wordpress?**
+

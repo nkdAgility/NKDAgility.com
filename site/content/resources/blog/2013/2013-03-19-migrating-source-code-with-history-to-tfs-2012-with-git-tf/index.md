@@ -1,5 +1,6 @@
 ---
 title: Migrating source code with history to TFS 2012 with Git-Tf
+description: "Learn how to migrate source code with history to TFS 2012 using Git-Tf. Discover robust methods for seamless transitions and efficient version control."
 date: 2013-03-19
 creator: Martin Hinshelwood
 id: "9313"
@@ -64,3 +65,4 @@ git checkin
 The result of this is a move from my Team Foundation Service cloud account to my local test Team Foundation Server virtual machine.
 
 If you are trying to move your source code from anything to Team Foundation Server this may be a good option. Its robust and will bring history across. I have not tested this at load but it should support reasonable sized repositories, large however will need some testing…
+

@@ -1,5 +1,6 @@
 ---
 title: Hosted Team Foundation Server
+description: "Explore the challenges of Hosted Team Foundation Server and discover solutions for project partitioning. Learn about TFS Now and upcoming improvements!"
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "342"
@@ -27,3 +28,4 @@ At this time there is only one commercial hosted team server called [TFS Now](ht
 Check out [TFS Now](http://www.tfsnow.com/ "TFS Now")...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

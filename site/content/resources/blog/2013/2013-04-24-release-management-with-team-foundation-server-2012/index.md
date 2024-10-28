@@ -1,5 +1,6 @@
 ---
 title: Release Management with Team Foundation Server 2012
+description: "Enhance your release management strategy with Team Foundation Server 2012. Discover automation techniques and best practices for seamless deployments."
 date: 2013-04-24
 creator: Martin Hinshelwood
 id: "9468"
@@ -130,3 +131,4 @@ This flow of building once and then repeated validation will help weed out those
 **How long is your release process?**
 
 **How sure are you of your quality?**
+

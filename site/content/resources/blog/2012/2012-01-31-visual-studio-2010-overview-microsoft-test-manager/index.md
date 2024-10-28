@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - Microsoft Test Manager
+description: "Discover how Microsoft Test Manager integrates with Visual Studio 2010 and TFS to streamline manual and automated testing. Enhance your testing efficiency now!"
 date: 2012-01-31
 creator: Martin Hinshelwood
 id: "4189"
@@ -48,3 +49,4 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts._
 
 **_If you want a custom set of sessions as part of [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2) program you can request them through this Microsoft site._**
+

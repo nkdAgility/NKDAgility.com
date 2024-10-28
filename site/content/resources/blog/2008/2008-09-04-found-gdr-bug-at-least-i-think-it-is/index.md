@@ -1,5 +1,6 @@
 ---
 title: "Found GDR Bug: At least I think it is."
+description: "Discover a potential GDR bug affecting SQL views and derived tables. Join the discussion and help improve Data Dude with your insights and votes!"
 date: 2008-09-04
 creator: Martin Hinshelwood
 id: "198"
@@ -83,3 +84,4 @@ I have submitted a [Bug](https://connect.microsoft.com/VisualStudio/feedback/Vie
 Bug: [GDR - derived tables](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=366059)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -1,5 +1,6 @@
 ---
 title: Office 2010 First run
+description: "Discover the exciting first run of Office 2010! Join Martin Hinshelwood as he explores new features and user-friendly enhancements. Dive in now!"
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "102"
@@ -46,3 +47,4 @@ Nice… It does a little conversation stuff and from what I can see its a LOT be
 Well, its dentist time, so that's all I have time for… Will try to install on Windows 7 tonight…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
+

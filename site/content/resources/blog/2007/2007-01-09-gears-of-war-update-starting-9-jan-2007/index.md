@@ -1,5 +1,6 @@
 ---
 title: Gears of War Update starting 9-Jan-2007
+description: "Get ready for the Gears of War update on January 9, 2007! Discover new multiplayer maps and fixes for ranked matches. Don't miss out!"
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "449"
@@ -21,3 +22,4 @@ I am realy looking forward to the new maps! Hopefully the update will fix some o
 [read more](http://gearsforums.epicgames.com/showthread.php?t=560548) | [digg story](http://digg.com/gaming_news/Gears_of_War_Update_starting_9_Jan_2007)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

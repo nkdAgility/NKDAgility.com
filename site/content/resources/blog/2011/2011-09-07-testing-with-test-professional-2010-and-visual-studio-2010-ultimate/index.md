@@ -1,5 +1,6 @@
 ---
 title: Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
+description: "Join our Testing with Test Professional 2010 course to enhance your skills in Visual Studio ALM. Limited seats available for this remote training!"
 date: 2011-09-07
 creator: Martin Hinshelwood
 id: "3776"
@@ -65,3 +66,4 @@ Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 Remote Course Offering in Remote Course Offering  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=1210319097)](http://nwcadencetestcourse201110.eventbrite.com?ref=MrHinshBlog&discount=MrHinsh)
 
 This is a really worth while course that will help you get the most out of Test Professional. Dan is a fantastic teacher and will be giving energising sessions.
+

@@ -1,5 +1,6 @@
 ---
 title: Does your organisation have both Project Mangers as well as Product Owners?
+description: "Explore the challenges of having both Project Managers and Product Owners in your organization. Discover how to achieve true agility and team alignment."
 date: 2014-04-10
 creator: Martin Hinshelwood
 id: "10489"
@@ -48,3 +49,4 @@ Figure: Product Owner provides a single point of order
 The only way to combat this is to reorganise the organisation so that the issue does not exist. You should reform the Teams around the Product Owners (and thus the products.) The Project Managers then become another set of stakeholders that the Product Owner must listen to. This is the only way to reach agility with all of those voices pulling the team is different directions.
 
 However the customer is large, which is no excuse. However in large organisations these kinds of things do not change quickly. It will eventually, but that may take many years and a lot of courage from management to achieve. In the mean time you, like me, may still need still need to model this is TFS to allow Teams and Product Owners to work together and for Project Managers to understand the work that they are doing.
+

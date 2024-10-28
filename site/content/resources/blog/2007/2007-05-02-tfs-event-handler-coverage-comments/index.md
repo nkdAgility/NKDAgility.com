@@ -1,5 +1,6 @@
 ---
 title: "TFS Event Handler: Coverage & Comments"
+description: "Explore the TFS Event Handler project, addressing security and assembly issues for internal teams. Join the discussion and enhance your development process!"
 date: 2007-05-02
 creator: Martin Hinshelwood
 id: "406"
@@ -33,3 +34,4 @@ Although not for this version of the application, I would like to use a zip form
 I have raised both of these issues on CodePlex and you can vote for them there. If anyone has any other issues that they would like to point out, please don't hesitate to let me know...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Personal](http://technorati.com/tags/Personal) [TFS](http://technorati.com/tags/TFS)
+

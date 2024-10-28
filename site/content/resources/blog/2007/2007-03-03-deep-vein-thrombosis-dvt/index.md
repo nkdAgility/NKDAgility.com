@@ -1,5 +1,6 @@
 ---
 title: Deep vein thrombosis (DVT)
+description: "Discover the urgent need for DVT awareness and support a petition for genetic testing to prevent future tragedies. Join the fight for change today!"
 date: 2007-03-03
 creator: Martin Hinshelwood
 id: "433"
@@ -47,3 +48,4 @@ Investagation into DVT death reveals case of 'bad luck'
 ](http://news.scotsman.com/topics.cfm?tid=633&id=1180472004)Technorati tags: [DVT](http://technorati.com/tags/DVT), [Katie%20McPherson](http://technorati.com/tags/Katie%20McPherson), [Deep vein thrombosis](http://technorati.com/tags/Deep%20vein%20thrombosis)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

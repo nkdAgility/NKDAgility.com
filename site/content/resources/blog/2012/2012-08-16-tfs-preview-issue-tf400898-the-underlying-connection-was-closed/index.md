@@ -1,5 +1,6 @@
 ---
 title: "TFS Preview - Issue: TF400898 The underlying connection was closed"
+description: "Encountering TF400898 in TFS Preview? Discover solutions to the 'underlying connection was closed' issue and ensure smooth file management. Read more!"
 date: 2012-08-16
 creator: Martin Hinshelwood
 id: "7161"
@@ -75,3 +76,4 @@ This had now been fixed not just for me, but across both the hosted service and 
 { .post-img }
 
 **Are you having problems with TFS Preview? Don’t sit and fizz… Check the [TFS Preview status](https://tfspreview.com/en-us/support/current-service-status/ "TFS Preview status") or [raise a bug](https://connect.microsoft.com/VisualStudio/feedback/CreateFeedback.aspx).**
+

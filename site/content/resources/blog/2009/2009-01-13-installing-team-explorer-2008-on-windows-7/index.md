@@ -1,5 +1,6 @@
 ---
 title: Installing Team Explorer 2008 on Windows 7
+description: "Learn how to install Team Explorer 2008 on Windows 7, troubleshoot common issues, and enhance your development experience with helpful tips and tools."
 date: 2009-01-13
 creator: Martin Hinshelwood
 id: "145"
@@ -53,3 +54,4 @@ Ewww, and check out that nasty logo…
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [TFS](http://technorati.com/tags/TFS)
+

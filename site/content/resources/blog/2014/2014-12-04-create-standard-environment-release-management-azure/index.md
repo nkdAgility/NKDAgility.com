@@ -1,5 +1,6 @@
 ---
 title: Create a Standard Environment for Release Management in Azure
+description: "Learn to create a standard environment for Release Management in Azure with Visual Studio. Streamline your deployment process and enhance your workflow!"
 date: 2014-12-04
 creator: Martin Hinshelwood
 id: "10923"
@@ -125,3 +126,4 @@ This environment contains:
 - **Application Insights (nkd-ff-f2-AI)** - Collects the application analytics that we will push into our application. If you are deploying multiple applications on the same hardware you may want to separate the data.
 
 Next time I will be deploying an application to this environment that we created.
+

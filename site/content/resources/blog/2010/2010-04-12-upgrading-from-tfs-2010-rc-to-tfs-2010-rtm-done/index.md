@@ -1,5 +1,6 @@
 ---
 title: Upgrading from TFS 2010 RC to TFS 2010 RTM done
+description: "Discover the seamless upgrade process from TFS 2010 RC to RTM. Follow expert tips and insights to ensure a smooth transition for your development environment."
 date: 2010-04-12
 creator: Martin Hinshelwood
 id: "53"
@@ -292,3 +293,4 @@ If you are using Eclipse you can download the new [Team Explorer Everywhere](htt
 Get your developers to check that you have the latest version of your applications with [SSW Diagnostic](http://www.google.co.uk/url?sa=t&source=web&ct=res&cd=1&ved=0CAgQFjAA&url=http%3A%2F%2Fwww.ssw.com.au%2Fssw%2FDiagnostics%2FDefault.aspx&rct=j&q=SSW+diagnostic&ei=bwLDS-DUD8n3-Qam0KDJCA&mk=0&mb=2&usg=AFQjCNH8Q1imMZTTiqT544Zf7wmLd_lj2A&sig2=SC4YIDhaN5qEfUdR3ygcVQ) which will check for Service Packs and hot fixes to Visual Studio as well.
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [SSW](http://technorati.com/tags/SSW) [VS 2010](http://technorati.com/tags/VS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

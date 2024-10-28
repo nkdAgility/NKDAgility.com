@@ -1,5 +1,6 @@
 ---
 title: Wpf Drag & Drop behaviour
+description: "Master WPF drag & drop with MVVM! Discover intuitive techniques and custom solutions to enhance your applications. Perfect for developers seeking efficiency."
 date: 2009-08-14
 creator: Martin Hinshelwood
 id: "92"
@@ -148,3 +149,4 @@ I have highlighted the two main classes, and we have already discussed the Check
 I have put this [up on Codeplex](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504), and both the [source](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79055) and [binaries](http://hinshlabs.codeplex.com/Release/ProjectReleases.aspx?ReleaseId=31504#DownloadId=79056) are available.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [MVVM](http://technorati.com/tags/MVVM) [Silverlight](http://technorati.com/tags/Silverlight)
+

@@ -1,5 +1,6 @@
 ---
 title: Could not find mappings for all states defined in 'Test Suit' work item type
+description: "Resolve the 'Could not find mappings for all states' error in TFS 2013.3 with our expert solutions. Ensure smooth test management and avoid case issues!"
 date: 2014-11-11
 creator: Martin Hinshelwood
 id: "10899"
@@ -64,3 +65,4 @@ Once added you should not have an issue.
 These entries are only required when connecting from older clients. From Visual Studio 2013.3 onwards this is a non-issue so it might be your chance to get all of your users to update to the latest and greatest.
 
 Remember that this issue only affects older clients, and when you have miss typed the casing of the states in your custom process template. Most folks should not run into this and it is a simple fix if you do.
+

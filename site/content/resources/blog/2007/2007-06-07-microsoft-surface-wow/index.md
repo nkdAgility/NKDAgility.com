@@ -1,5 +1,6 @@
 ---
 title: "Microsoft Surface: Wow"
+description: "Discover the excitement of Microsoft Surface technology! Explore how this innovative device could revolutionize entertainment and your digital experience."
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "387"
@@ -20,3 +21,4 @@ I have been envisioning something like this for years and I am delighted that Mi
 Can't wait for winter!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

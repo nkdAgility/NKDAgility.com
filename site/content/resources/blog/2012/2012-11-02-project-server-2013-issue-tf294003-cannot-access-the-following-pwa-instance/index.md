@@ -1,5 +1,6 @@
 ---
 title: "Project Server 2013 Issue - TF294003: Cannot access the following PWA instance"
+description: "Resolve the TF294003 error in Project Server 2013 with our step-by-step guide. Learn how to configure permissions for seamless integration with TFS 2012."
 date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9096"
@@ -80,3 +81,4 @@ I can almost hear generations of SharePoint administrator rolling over in their 
 **Figure: The mapping of Collection to Project Server 2013 Instance now works**
 
 This was a simple solution to a confusing problem…
+

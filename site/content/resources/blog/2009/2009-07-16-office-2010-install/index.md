@@ -1,5 +1,6 @@
 ---
 title: Office 2010 Install
+description: "Discover the step-by-step process for installing Office 2010 on Vista 64. Learn tips and tricks to enhance your productivity with this essential tool!"
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "103"
@@ -46,3 +47,4 @@ Woo, little smiles:
 { .post-img }
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
+

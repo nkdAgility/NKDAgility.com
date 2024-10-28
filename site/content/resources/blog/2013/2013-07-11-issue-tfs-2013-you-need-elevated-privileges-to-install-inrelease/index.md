@@ -1,5 +1,6 @@
 ---
 title: Issue [ TFS 2013 ] You need elevated privileges to install InRelease
+description: "Discover how to resolve the 'elevated privileges' error when installing InRelease 3 on TFS 2013. Follow our step-by-step guide for a smooth installation!"
 date: 2013-07-11
 creator: Martin Hinshelwood
 id: "9753"
@@ -54,3 +55,4 @@ msiexec -i "\dahakd$DataDownloads_SoftwareVisual StudioVisual Studio 2013 Previe
 ```
 
 Now that I have the installer running entirely elevated I can install with no problems…
+

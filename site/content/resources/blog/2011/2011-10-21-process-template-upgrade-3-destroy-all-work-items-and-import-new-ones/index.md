@@ -1,5 +1,6 @@
 ---
 title: "Process Template Upgrade #3 - Destroy all Work Items and Import new ones"
+description: "Learn how to upgrade your process template by removing old work items and importing new ones in TFS. Follow our step-by-step guide for a smooth transition!"
 date: 2011-10-21
 creator: Martin Hinshelwood
 id: "3951"
@@ -175,3 +176,4 @@ This will allow you to move from one process template to another, but there are 
        **Figure: Link Types only need to be added once**
 
 And you are done.
+

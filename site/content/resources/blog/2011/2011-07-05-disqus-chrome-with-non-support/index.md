@@ -1,5 +1,6 @@
 ---
 title: Disqus & Chrome with non-support
+description: "Struggling with Disqus comments not loading in Chrome? Discover troubleshooting tips and share your experiences in this engaging blog post by Martin Hinshelwood."
 date: 2011-07-05
 creator: Martin Hinshelwood
 id: "3686"
@@ -102,3 +103,4 @@ Please do not hesitate to contact me if you have any further problems extracting
 **<RESPONCE>**
 
 Let see if I get any help… I can’t think I am the only one who's blog does not work with Chrome.
+

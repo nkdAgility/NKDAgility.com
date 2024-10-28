@@ -1,5 +1,6 @@
 ---
 title: Run a router on Hyper-V
+description: "Learn how to run a router on Hyper-V for seamless VM internet access in corporate and hotel networks. Discover efficient setup tips and solutions!"
 date: 2014-06-25
 creator: Martin Hinshelwood
 id: "10617"
@@ -137,3 +138,4 @@ It should be as simple as enabling the WAN port, and configuring the Public Virt
 However I can't seem to figure out how to get the router online without taking me out with it so its the HooToo TripMate for now.. It’s a little difficult to debug when I am always on hotel and corporate networks with goodness knows what restrictions. I think I will need a couple of days on a non-limited network to figure out this last bit… I get a couple of days off next week so we will see.
 
 Have you managed to get this working?
+

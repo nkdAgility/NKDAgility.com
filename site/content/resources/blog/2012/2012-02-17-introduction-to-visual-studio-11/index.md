@@ -1,5 +1,6 @@
 ---
 title: Introduction to Visual Studio 11
+description: "Explore the features of Visual Studio 11 and TFS Preview with insights, demos, and tips from Martin Hinshelwood. Stay updated on modern development tools!"
 date: 2012-02-17
 creator: Martin Hinshelwood
 id: "4393"
@@ -53,3 +54,4 @@ And this just the beginning…
 - **Follow** [**http://blog.nwcadence.com**](http://blog.nwcadence.com) **for more posts…**
 
 There will be plenty more this month and after the [2012 MVP Global Summit](http://www.2012mvpsummit.com/) in a couple of weeks...
+

@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools - Issue: TFS WIT bypass-rule submission is enabled"
+description: "Resolve TFS WIT bypass-rule submission errors with our guide. Learn how to add accounts to the Service Accounts Group and streamline your TFS Integration."
 date: 2012-08-09
 creator: Martin Hinshelwood
 id: "7104"
@@ -78,3 +79,4 @@ tfssecurity /g+ "Team Foundation Service Accounts" n:domainusername ALLOW /serve
 Now you have that sorted you are ready to rock…
 
 **Did this help you?**
+

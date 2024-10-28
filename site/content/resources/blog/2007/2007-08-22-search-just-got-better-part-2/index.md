@@ -1,5 +1,6 @@
 ---
 title: "Search just got better: Part 2"
+description: "Explore the evolution of search engines in 'Search just got better: Part 2.' Discover insights on Tafiti and Search Crystal's unique visual interfaces."
 date: 2007-08-22
 creator: Martin Hinshelwood
 id: "322"
@@ -24,3 +25,4 @@ Below you can see an example of the search results, and you should be able to pl
 Have you seen any other search visualization website's? Let me know...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

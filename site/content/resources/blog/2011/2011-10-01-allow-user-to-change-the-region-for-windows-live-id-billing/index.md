@@ -1,5 +1,6 @@
 ---
 title: Allow user to change the region for Windows Live ID billing
+description: "Discover how to navigate the challenges of changing your Windows Live ID billing region. Learn from real experiences and advocate for better solutions!"
 date: 2011-10-01
 creator: Martin Hinshelwood
 id: "3830"
@@ -116,3 +117,4 @@ The only way to even attempt to fix this is to make sure that Microsoft realises
 - **User Voice (Windows Phone):** [**Allow changing your windows id location**](http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no "http://windowsphone.uservoice.com/forums/101801-feature-suggestions/suggestions/2280332-allow-changing-your-windows-id-location-and-no")
 
 While your vote here, or rants on your own blog may not help, it is the best we can do….
+

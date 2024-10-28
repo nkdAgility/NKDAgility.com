@@ -1,5 +1,6 @@
 ---
 title: Installing TFS 2013 from scratch is easy
+description: "Learn how to easily install TFS 2013 from scratch with step-by-step videos. Discover basic and advanced setups for efficient configuration and management."
 date: 2014-01-17
 creator: Martin Hinshelwood
 id: "10332"
@@ -33,3 +34,4 @@ Figure: Install & Configure 101 - TFS 2013 Standard Single Server Install
 This should give you some idea on how to install and configure TFS and how easy it is. Managing TFS is mostly, apart from configuring a backup, a leave alone statement. It mostly manages and maintains itself until you get to large database sizes. And by large I mean terabytes :)
 
 How did you get on with your TFS installs?
+

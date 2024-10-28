@@ -1,5 +1,6 @@
 ---
 title: Error adding Active Directory Group to Release Management Client in Visual Studio 2013
+description: "Discover how to resolve the unhandled exception when adding Active Directory groups in Visual Studio 2013's Release Management Client. Get expert tips now!"
 date: 2014-01-07
 creator: Martin Hinshelwood
 id: "10316"
@@ -70,3 +71,4 @@ While this is annoying and should be easy to fix in the original code it obvious
 Figure: Select exact domain
 
 In this case if I select "env.nakedalmweb.wpengine.com" as the exact domain that the group that I am trying to add exists in then the group is added with no issues.
+

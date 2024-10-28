@@ -1,5 +1,6 @@
 ---
 title: We’re sorry, but you won’t be able to download Internet Explorer 8 for Windows 7 Beta at this time
+description: "Discover why Windows 7 users can't download Internet Explorer 8 yet, and explore the benefits of this powerful browser compared to others. Join the conversation!"
 date: 2009-03-19
 creator: Martin Hinshelwood
 id: "135"
@@ -25,3 +26,4 @@ This is, as you would expect, the best browser from Microsoft to date. And yes, 
 UPDATE (2009-03-23): Apparently an independent study study by Microsoft has shown that IE8 is faster than Firefox and Chrome! I will be using IE8 even if that is not true :)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

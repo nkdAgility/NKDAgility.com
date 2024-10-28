@@ -1,5 +1,6 @@
 ---
 title: A problem with Diarist 2!
+description: "Frustrated with Diarist 2? Discover a rant about a frustrating blog writing experience and share your thoughts on improving Windows Mobile 6 blogging!"
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "195"
@@ -28,3 +29,4 @@ Only 10 minutes of time, but an entire train of thought!
 {Rant}
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Fail](http://technorati.com/tags/Fail) [Answers](http://technorati.com/tags/Answers)
+

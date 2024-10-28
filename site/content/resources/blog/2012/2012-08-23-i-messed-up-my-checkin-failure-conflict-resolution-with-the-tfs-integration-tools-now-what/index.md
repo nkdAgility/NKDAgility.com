@@ -1,5 +1,6 @@
 ---
 title: I messed up my checkin failure conflict resolution with the TFS Integration Tools… Now what?
+description: "Struggling with TFS Integration Tools? Discover how to resolve check-in conflicts and streamline your migration process with expert insights and solutions."
 date: 2012-08-23
 creator: Martin Hinshelwood
 id: "7610"
@@ -94,3 +95,4 @@ Wooohooooo…
 **Figure: All of the left over changesets have been migrated**
 
 And thus the padawan becomes the master… or at least… erm… more competent!
+

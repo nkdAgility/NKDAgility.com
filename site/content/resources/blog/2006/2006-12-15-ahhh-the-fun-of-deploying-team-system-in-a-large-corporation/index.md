@@ -1,5 +1,6 @@
 ---
 title: Ahhh, the fun of deploying Team System in a large corporation
+description: "Discover the challenges and solutions of deploying Team System in a large corporation. Learn tips and tricks to navigate server access issues effectively!"
 date: 2006-12-15
 creator: Martin Hinshelwood
 id: "447"
@@ -29,3 +30,4 @@ More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEnt
 More on [**TFS Deployment**](/hinshelm/category/5992.aspx) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

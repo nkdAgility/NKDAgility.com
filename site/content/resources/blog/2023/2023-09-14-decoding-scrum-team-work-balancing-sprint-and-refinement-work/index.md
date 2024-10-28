@@ -1,5 +1,6 @@
 ---
 title: "Decoding Scrum Team Work: Balancing Sprint and Refinement Work"
+description: "Master the balance between Sprint and Refinement work in Scrum. Discover strategies to enhance team efficiency and achieve your product goals effectively."
 date: 2023-09-14
 creator: Martin Hinshelwood
 id: "49783"
@@ -75,3 +76,4 @@ Understanding and managing the balance between Sprint Work and Refinement is cri
 By dedicating enough time to Refinement, teams gain a comprehensive understanding of what's necessary, preparing them to effectively manage upcoming tasks and potential challenges. Therefore, visualising all work in progress allows for smoother product management and promotes a thorough understanding of the product's needs, fostering more informed, efficient, and successful Scrum operations.
 
 **#Agile** **#TeamWork** **#Productivity**
+

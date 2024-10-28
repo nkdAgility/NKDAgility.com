@@ -1,5 +1,6 @@
 ---
 title: TFS Sticky Buddy 2.0 development started…
+description: "Discover the exciting start of TFS Sticky Buddy 2.0 development! Explore new features and modular design with WPF for enhanced productivity. Stay updated!"
 date: 2008-11-06
 creator: Martin Hinshelwood
 id: "173"
@@ -24,3 +25,4 @@ Lets just say that it will be a while in development. I am trying to implement t
 The current version CTP1 has only those changes to allow for the new Navigation and structure options, but More features are on the way.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
+

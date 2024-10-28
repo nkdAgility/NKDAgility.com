@@ -1,5 +1,6 @@
 ---
 title: Get your Twitter feed as a badge on your email!
+description: "Learn how to easily display your Twitter feed as a badge in your email using FeedBurner. Simple steps to enhance your email signature and engagement!"
 date: 2008-01-18
 creator: Martin Hinshelwood
 id: "263"
@@ -23,3 +24,4 @@ As Twitter publish your twit list as an RSS feed you can just add it to FeedBurn
 So easy it hurts...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+
