@@ -1,5 +1,6 @@
 ---
 title: Branch Compare…A Life saver
+description: "Discover a powerful tool for comparing branches that can simplify your development process. Learn how it can save you time and effort in your projects!"
 date: 2008-10-24
 creator: Martin Hinshelwood
 id: "181"
@@ -19,3 +20,4 @@ In my recent troubles with [branching and merging](http://blog.hinshelwood.com/a
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -1,5 +1,6 @@
 ---
 title: Creating a WPF Work Item Control
+description: "Learn to create a custom WPF Work Item Control for Visual Studio Team System, enhancing user interactions with requirements and change requests effectively."
 date: 2008-09-19
 creator: Martin Hinshelwood
 id: "191"
@@ -1054,3 +1055,4 @@ The result?
 You will notice that this control is marked as read-only, but not bad for a first pass…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
+

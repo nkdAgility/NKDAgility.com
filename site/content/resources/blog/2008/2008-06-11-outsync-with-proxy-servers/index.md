@@ -1,5 +1,6 @@
 ---
 title: OutSync with proxy servers
+description: "Learn how to configure OutSync for Outlook behind a proxy server. Follow our guide to sync your contacts effortlessly and enhance your mobile experience!"
 date: 2008-06-11
 creator: Martin Hinshelwood
 id: "220"
@@ -31,3 +32,4 @@ Open the \[applicationname\].config file in the install location and add:
 Just above the closing </configuration> tags. This will allow your application to authenticate with a proxy server…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
+

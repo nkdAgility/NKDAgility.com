@@ -1,5 +1,6 @@
 ---
 title: Visual Studio Team System 2008 Database Edition GDR RC (release candidate)
+description: "Discover the Visual Studio Team System 2008 Database Edition GDR RC, featuring an upgrade path to RTM and essential documentation for developers. Download now!"
 date: 2008-10-28
 creator: Martin Hinshelwood
 id: "178"
@@ -29,3 +30,4 @@ tags:
 > \* [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") 2008 Database Edition GDR API Reference
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

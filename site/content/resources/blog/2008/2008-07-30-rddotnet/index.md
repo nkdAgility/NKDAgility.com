@@ -1,5 +1,6 @@
 ---
 title: RDdotNET
+description: "Explore RDdotNET, your go-to site for ClickOnce applications like TFS Sticky Buddy. Discover tools and insights to enhance your development experience!"
 date: 2008-07-30
 creator: Martin Hinshelwood
 id: "216"
@@ -23,3 +24,4 @@ Eventually all my bits and bobs will be up [there](http://rddotnet.com) with my 
 Hopefully you will find the ClickOnce hosting useful, if not the site content…
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [.NET](http://technorati.com/tags/.NET) [TFS](http://technorati.com/tags/TFS)
+

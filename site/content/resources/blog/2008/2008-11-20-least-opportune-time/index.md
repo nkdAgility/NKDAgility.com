@@ -1,5 +1,6 @@
 ---
 title: Least opportune time.
+description: "Frustrated by server outages while launching TFS Sticky Buddy v2.0? Join Martin Hinshelwood as he shares his challenges and insights in this engaging blog post!"
 date: 2008-11-20
 creator: Martin Hinshelwood
 id: "163"
@@ -39,3 +40,4 @@ Hats off to the [CodePlex](http://www.codeplex.com "CodePlex") team, but get the
 [](http://www.codeplex.com/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
+

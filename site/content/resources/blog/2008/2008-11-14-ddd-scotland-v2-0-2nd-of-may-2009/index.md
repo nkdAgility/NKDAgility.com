@@ -1,5 +1,6 @@
 ---
 title: "DDD Scotland v2.0: 2nd of May 2009"
+description: "Join us for Developer Day Scotland 2009! Discover insights, connect with peers, and enjoy a fantastic event in Glasgow. Will you be there?"
 date: 2008-11-14
 creator: Martin Hinshelwood
 id: "169"
@@ -21,3 +22,4 @@ It seams that the event of the year is back! [Developer Day Scotland](http://dev
 Last year was a fantastic event that I enjoyed immensely :) I will be there… will you?
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

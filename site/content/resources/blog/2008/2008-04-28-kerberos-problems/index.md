@@ -1,5 +1,6 @@
 ---
 title: Kerberos problems
+description: "Explore common Kerberos double hop issues and discover useful resources for troubleshooting. Join the journey to resolve your network security challenges!"
 date: 2008-04-28
 creator: Martin Hinshelwood
 id: "235"
@@ -28,3 +29,4 @@ I have been having a lot of Kerberos double hop problems on the network at work,
 I will keep you updated on my progress...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

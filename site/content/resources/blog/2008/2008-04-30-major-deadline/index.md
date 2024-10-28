@@ -1,5 +1,6 @@
 ---
 title: Major deadline
+description: "Discover the challenges of managing a SharePoint migration project and the urgent solutions needed to meet a tight deadline. Join the journey of innovation!"
 date: 2008-04-30
 creator: Martin Hinshelwood
 id: "233"
@@ -50,3 +51,4 @@ In the immortal words of the Windows 2003 Active Directory Installer:
 > _This may take some time, or considerably longer..._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

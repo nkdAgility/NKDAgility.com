@@ -1,5 +1,6 @@
 ---
 title: WPF Threading
+description: "Discover effective WPF threading solutions and tips for ObservableCollection. Learn from expert insights to enhance your multi-threading skills in .NET."
 date: 2008-08-27
 creator: Martin Hinshelwood
 id: "206"
@@ -24,3 +25,4 @@ This is a fantastic article, that provided me with the exact solution I was look
 One to watch...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
+

@@ -1,5 +1,6 @@
 ---
 title: Assembly Version does not change in Visual Basic Workflow projects
+description: "Discover how to resolve the assembly version issue in Visual Basic Workflow projects. Learn the manual fix to ensure your changes are applied correctly!"
 date: 2008-05-07
 creator: Martin Hinshelwood
 id: "231"
@@ -33,3 +34,4 @@ Not hard, but annoying...
 This is not a big problem unless you are creating custom assemblies for SharePoint and have a convoluted deployment process before you can test, and can't figure out why you changes are not going through...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SP 2007](http://technorati.com/tags/SP+2007)
+

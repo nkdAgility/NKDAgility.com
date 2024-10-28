@@ -1,5 +1,6 @@
 ---
 title: Multi-Targeting in Visual Studio 2010
+description: "Explore the enhanced multi-targeting capabilities in Visual Studio 2010, allowing seamless development across .NET versions. Upgrade your coding experience!"
 date: 2009-05-18
 creator: Martin Hinshelwood
 id: "117"
@@ -33,3 +34,4 @@ But I guess we can’t have everything, and some features will be dropped for th
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
+

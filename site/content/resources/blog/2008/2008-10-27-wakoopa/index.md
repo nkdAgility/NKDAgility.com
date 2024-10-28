@@ -1,5 +1,6 @@
 ---
 title: Wakoopa
+description: "Explore Wakoopa, an app that tracks your software usage and provides insightful stats. Join the Microsoft MVP team and enhance your productivity today!"
 date: 2008-10-27
 creator: Martin Hinshelwood
 id: "180"
@@ -36,3 +37,4 @@ And my very own paltry [TFS Sticky Buddy](http://hinshelwood.com/TFSStickyBuddy.
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers) [TFS](http://technorati.com/tags/TFS)
+

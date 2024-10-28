@@ -1,5 +1,6 @@
 ---
 title: Developer day Scotland!
+description: "Join Developer Day Scotland on May 10, 2008, at Glasgow Caledonian University for networking, learning, and a fun Geek Dinner. Don't miss out!"
 date: 2008-05-10
 creator: Martin Hinshelwood
 id: "230"
@@ -23,3 +24,4 @@ If you have not already signed up, well, its probably too late...but if you are 
 If you are up for it there is a [Developer Day Scotland Geek Dinner](http://www.zimakki.com/wiki/DeveloperDayScotlandGeekDinner.ashx) on afterwards and some drinking before that.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

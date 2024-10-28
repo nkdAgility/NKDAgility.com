@@ -1,5 +1,6 @@
 ---
 title: Creating a SharePoint Solution
+description: "Join Martin Hinshelwood on a journey to create a SharePoint solution for time off management, exploring .NET, WebParts, and more. Discover the process!"
 date: 2008-05-19
 creator: Martin Hinshelwood
 id: "225"
@@ -32,3 +33,4 @@ Although this application will not stand alone (although I may have to build a s
 Now I am scared....
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
+

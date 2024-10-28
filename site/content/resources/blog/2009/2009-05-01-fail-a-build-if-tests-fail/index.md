@@ -1,5 +1,6 @@
 ---
 title: Fail a build if tests fail
+description: "Learn how to configure TFS2008 to fail builds when tests fail, ensuring quality in your development process. Enhance your build management today!"
 date: 2009-05-01
 creator: Martin Hinshelwood
 id: "127"
@@ -34,3 +35,4 @@ It took me longer than I thought it would to find this, but is you are using TFS
 Very handy…
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008)
+

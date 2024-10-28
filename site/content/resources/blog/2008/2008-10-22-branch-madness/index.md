@@ -1,5 +1,6 @@
 ---
 title: Branch madness!
+description: "Explore the chaos of branching in TFS and learn how to regain control of your source code. Discover essential steps to streamline your development process!"
 date: 2008-10-22
 creator: Martin Hinshelwood
 id: "186"
@@ -48,3 +49,4 @@ A long way for a short cut :)
 Well, at least the lesson is learned…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

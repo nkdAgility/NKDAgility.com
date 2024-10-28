@@ -1,5 +1,6 @@
 ---
 title: "The offering:
+description: "Join us in celebrating the birth of Kaiden Ryan William Hinshelwood! Discover the heartwarming story of his quick arrival and family moments."
   offeringType: training-course Mk II"
 date: 2009-02-14
 creator: Martin Hinshelwood
@@ -30,3 +31,4 @@ Kaiden is getting on well with his sister, but she does keep trying to shove his
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

@@ -1,5 +1,6 @@
 ---
 title: Working from a Mobile again!
+description: "Explore the challenges and solutions of working from a mobile device. Discover how to manage TFS work items offline for seamless productivity on the go!"
 date: 2008-09-10
 creator: Martin Hinshelwood
 id: "196"
@@ -23,3 +24,4 @@ What I would realy like is to be able to monitor and edit my [CodePlex](http://w
 If only the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") API, excellent though it is, could be used without the need for Team Explorer to be installed.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [ALM](http://technorati.com/tags/ALM) [Answers](http://technorati.com/tags/Answers)
+

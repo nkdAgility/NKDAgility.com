@@ -1,5 +1,6 @@
 ---
 title: MSBuild and Business Intelligence Packages, Ahhhhhh!
+description: "Explore the challenges of automating Business Intelligence builds with MSBuild. Discover solutions for SSIS and SSAS package deployment and testing."
 date: 2008-10-24
 creator: Martin Hinshelwood
 id: "182"
@@ -35,3 +36,4 @@ There are some answers. The visual studio team has taken on board the database p
 I am bookmarking my investigation on [delicious](http://delicious.com/hinshelm/MSBuild), but it will be a long slog…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS)
+
