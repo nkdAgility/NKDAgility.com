@@ -18,6 +18,12 @@ course-vendors:
   - Scrum.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 tags:
   - agile
   - certification

@@ -7,6 +7,10 @@ type: capabilities
 slug: product-development-mentoring-program
 aliases:
   - /capabilities/product-development-mentoring-program/
+delivery-audiences:
+  - Developers
+  - Lean Agile Practitioners
+  - Teams
 card:
   button:
     content: Enhance Your Teams Skills

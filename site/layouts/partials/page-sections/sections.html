@@ -16,8 +16,8 @@
           {{ partial "page-sections/sections-features.html" (dict "Page" $page "context" . ) }}
         {{ else if eq $section.type "courses" }}
           {{ partial "page-sections/sections-courses.html" (dict "site" $site "context" .) }}
-        {{ else if eq $section.type "audiences" }}
-          {{ partial "page-sections/sections-audiences.html" (dict "site" $site "context" .) }}
+          {{/* {{ else if eq $section.type "audiences" }}
+          {{ partial "page-sections/sections-audiences.html" (dict "site" $site "context" .) }} */}}
         {{ else if eq $section.type "taxonomies" }}
           {{ partial "page-sections/sections-taxonomies.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "videos" }}

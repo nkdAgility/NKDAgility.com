@@ -22,6 +22,9 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
+  - Self-paced
+delivery-audiences:
+  - Teams
 tags:
   - agile
   - agility

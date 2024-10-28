@@ -18,6 +18,10 @@ course-vendors:
   - Scrum.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Product Owners
+  - Product Managers
+  - Teams
 tags:
 categories:
 preview: NKDAgility-Courses-PSVS-16x9-1.png

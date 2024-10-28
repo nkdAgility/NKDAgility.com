@@ -1,6 +1,6 @@
 ---
 title: Product Managers
-type: audience
+weight: 3
 aliases:
   - product-owners
 card:

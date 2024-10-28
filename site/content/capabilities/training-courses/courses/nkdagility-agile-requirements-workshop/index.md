@@ -15,6 +15,9 @@ course-vendors:
   - NKDAgility
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
+  - Product Owners
 tags:
   - agile
   - agility

@@ -17,6 +17,8 @@ course-vendors:
   - Accentient
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - QA
 tags:
   - development
 categories:

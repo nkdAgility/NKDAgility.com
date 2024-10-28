@@ -15,6 +15,10 @@ course-vendors:
   - ProKanban.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 tags:
 categories:
 preview: NKDAgility-Courses-SPK-16x9-1.jpg

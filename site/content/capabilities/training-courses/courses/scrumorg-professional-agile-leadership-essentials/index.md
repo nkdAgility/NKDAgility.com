@@ -19,6 +19,11 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
+delivery-audiences:
+  - Product Owners
+  - Lean Agile Practitioners
+  - Managers
+  - Entrepreneurs
 tags:
   - certification
   - leadership
