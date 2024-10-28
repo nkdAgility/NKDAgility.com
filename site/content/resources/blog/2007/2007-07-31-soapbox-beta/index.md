@@ -1,5 +1,6 @@
 ---
 title: Soapbox Beta
+description: "Discover Microsoft's Soapbox, a video service similar to YouTube, but with a twist! Learn about its Flash implementation and how it works through firewalls."
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "352"
@@ -23,3 +24,4 @@ Just found a new services from Microsoft called [Soapbox](http://soapbox.msn.com
 Looks good and works through our firewall though!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Silverlight](http://technorati.com/tags/Silverlight)
+

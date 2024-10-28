@@ -1,5 +1,6 @@
 ---
 title: The most usefull .NET tool on the face of the planet!
+description: "Discover Reflector, the ultimate .NET tool that enhances your coding experience. Unlock the power of .NET with this essential resource for developers!"
 date: 2006-08-02
 creator: Martin Hinshelwood
 id: "468"
@@ -20,3 +21,4 @@ Reflector!
 If the site is down, it will be back...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

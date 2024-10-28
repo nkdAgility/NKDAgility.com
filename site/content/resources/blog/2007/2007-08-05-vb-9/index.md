@@ -1,5 +1,6 @@
 ---
 title: VB 9
+description: "Explore the debate on Visual Basic vs. C# with insights from Martin Hinshelwood. Discover why VB 9 is considered superior in this engaging blog post!"
 date: 2007-08-05
 creator: Martin Hinshelwood
 id: "341"
@@ -22,3 +23,4 @@ Yet more [evidence](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/a
 :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

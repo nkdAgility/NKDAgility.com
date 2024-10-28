@@ -1,5 +1,6 @@
 ---
 title: Why do we care about software factories?
+description: "Discover the importance of software factories and how they enhance development practices. Explore insights and visuals that make complex concepts accessible."
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "362"
@@ -25,3 +26,4 @@ This sort of work will go a long way to making software factories more accessibl
 Plus, I like the pretty pictures...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

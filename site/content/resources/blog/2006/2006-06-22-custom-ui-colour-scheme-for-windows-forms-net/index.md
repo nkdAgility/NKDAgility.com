@@ -1,5 +1,6 @@
 ---
 title: Custom UI colour scheme for Windows Forms .NET
+description: "Learn how to customize your Windows Forms UI with a unique color scheme using .NET. Enhance your application's look effortlessly with our step-by-step guide!"
 date: 2006-06-22
 creator: Martin Hinshelwood
 id: "466"
@@ -188,3 +189,4 @@ Once you have done this, all you need now is to add it to your contols:
 All done! If you have problems you can inherit from the ToolStrip control and change the renderer in the constructor...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

@@ -1,5 +1,6 @@
 ---
 title: "Beta Exam 71-510: TS: Visual Studio 2005 Team Foundation Server"
+description: "Discover my journey to passing the Beta Exam 71-510 for Visual Studio 2005 Team Foundation Server and my next steps towards MCPD certification!"
 date: 2007-04-25
 creator: Martin Hinshelwood
 id: "414"
@@ -19,3 +20,4 @@ Just got my exam result for the [exam](http://hinshelwood.com/archive/2007/02/08
 The next step to embark on my MCPD: Enterprise which I am lookign forward to. Its strange to be looking forward to studying, but I study every day anyway to just do my job, and there is a prize at the end!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

@@ -1,5 +1,6 @@
 ---
 title: Team System Web Access finally released
+description: "Discover the release of Team System Web Access, featuring enhanced stability and new features. Learn how it improves TFS usability for developers!"
 date: 2007-07-31
 creator: Martin Hinshelwood
 id: "354"
@@ -35,3 +36,4 @@ I use my [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team F
 I think that this form of access will not become popular until an Enterprise version of TFS is released and business users can access without a CAL.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

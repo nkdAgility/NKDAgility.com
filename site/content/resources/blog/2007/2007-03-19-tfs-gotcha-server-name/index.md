@@ -1,5 +1,6 @@
 ---
 title: TFS Gotcha (server name)
+description: "Discover how to tackle TFS installation issues in large networks with proxy servers. Follow our guide to ensure smooth access and setup for your team!"
 date: 2007-03-19
 creator: Martin Hinshelwood
 id: "427"
@@ -32,3 +33,4 @@ You will probably need to rename TFS to the fully qualified domain name of your 
 Have fun...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

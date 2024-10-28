@@ -1,5 +1,6 @@
 ---
 title: TFS Event Handler Progress
+description: "Discover the latest progress on the TFS Event Handler project, tackling key work items and exploring WCF error handling solutions. Join the journey!"
 date: 2007-05-07
 creator: Martin Hinshelwood
 id: "402"
@@ -35,3 +36,4 @@ I have been reading up on these FaultException thingies, here is the article I 
 This makes for good reading, and although a little scary on the output side, does highlight the problem and the solution!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [WCF](http://technorati.com/tags/WCF)
+

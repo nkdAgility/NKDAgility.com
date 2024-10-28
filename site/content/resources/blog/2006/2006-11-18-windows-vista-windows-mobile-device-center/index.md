@@ -1,5 +1,6 @@
 ---
 title: "Windows Vista: windows mobile device center"
+description: "Learn how to install Windows Mobile Device Center on Vista 6000 RTM. Get essential tips and updates to enhance your mobile experience. Explore now!"
 date: 2006-11-18
 creator: Martin Hinshelwood
 id: "455"
@@ -22,3 +23,4 @@ Update 2006-12-20
 Although [Daniel Moth](http://www.danielmoth.com/Blog) made a comment about doing a windows update while the phone is connected, this did not work. As the "Windows Mobile Device Center" is not out of beta, you need to download it manually.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

@@ -1,5 +1,6 @@
 ---
 title: Web 2.0
+description: "Explore the essence of Web 2.0 and its impact on the internet landscape. Understand this buzzword and enhance your project discussions with confidence!"
 date: 2006-09-08
 creator: Martin Hinshelwood
 id: "463"
@@ -23,3 +24,4 @@ It seams that Web 2.0 or “The Internet 2.0” is more of an ethos than a singl
 I mention it as “Web 2.0” is becoming a buzz word for middle management, and so when asked if your project is “Web 2.0” you will be able to answer!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

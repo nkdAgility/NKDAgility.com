@@ -1,5 +1,6 @@
 ---
 title: SharePoint 3.0 TFS Sub-Site creation error.
+description: "Encountering issues with SharePoint 3.0 TFS sub-site creation? Discover solutions and share your experiences in this insightful blog post by Martin Hinshelwood."
 date: 2007-06-07
 creator: Martin Hinshelwood
 id: "388"
@@ -96,3 +97,4 @@ I have 3 question that you may be able to help me with:
 - **Or, even, what is the problem?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

@@ -1,5 +1,6 @@
 ---
 title: Social and Business Networking
+description: "Explore innovative solutions for social and business networking. Discover how a central system can streamline connections across platforms for enhanced collaboration."
 date: 2007-07-25
 creator: Martin Hinshelwood
 id: "359"
@@ -38,3 +39,4 @@ _A possible pricing model:_
 _This model may be complicated but would be fairer to smaller sites, while still charging more for small sites that have a high number of transactions._
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA)
+

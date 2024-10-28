@@ -1,5 +1,6 @@
 ---
 title: RDdotNET Project Created
+description: "Discover the RD.NET Community Foundation, a powerful new project enhancing service-oriented architecture with globalisation, relationship, and shell services."
 date: 2006-11-22
 creator: Martin Hinshelwood
 id: "460"
@@ -28,3 +29,4 @@ The whole system will be fully extensable in teh same vain as the current WhiteL
 This is a big chalange for me and will take some time. I will not be giving up... I may write some documentation as well.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
+

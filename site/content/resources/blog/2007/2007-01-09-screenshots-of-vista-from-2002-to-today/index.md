@@ -1,5 +1,6 @@
 ---
 title: Screenshots of Vista from 2002 to Today
+description: "Explore the evolution of Vista from its 2002 Alpha release to today's features, showcasing the journey of innovation and design in this engaging visual retrospective."
 date: 2007-01-09
 creator: Martin Hinshelwood
 id: "450"
@@ -19,3 +20,4 @@ An interesting look at Vista (Long Horn) as an Alpha release in 2002, the first 
 [read more](http://www.intelliadmin.com/blog/2007/01/progression-of-vista-through.html?View=Full) | [digg story](http://digg.com/software/Screenshots_of_Vista_from_2002_to_Today)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

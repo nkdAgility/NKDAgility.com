@@ -1,5 +1,6 @@
 ---
 title: SharePoint Content Request | What would you like to see?
+description: "Explore the potential of SharePoint and TFS integration! Share your ideas for features that enhance collaboration and streamline processes in your intranet."
 date: 2007-07-23
 creator: Martin Hinshelwood
 id: "361"
@@ -21,3 +22,4 @@ The current capabilities of TFS are sorely under utilized as any system that use
 At the moment the licensing model is prohibitive for this, but with an enterprise edition of Team Foundation Server _likely_ to be in the works ;) I would think that this would change...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

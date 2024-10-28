@@ -1,5 +1,6 @@
 ---
 title: Delving into SharePoint 3.0
+description: "Explore the features of SharePoint 3.0 with Martin Hinshelwood as he shares insights on setting up an effective intranet and navigating its complexities."
 date: 2007-05-25
 creator: Martin Hinshelwood
 id: "396"
@@ -20,3 +21,4 @@ I was very surprised to find  that this new version is quite good. I will event
 I will let you know how I get on with the rest of the configuration. I am really looking forward to WF in SharePoint...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007)
+

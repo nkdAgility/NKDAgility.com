@@ -1,5 +1,6 @@
 ---
 title: Windows Mobile 6 Black Shadow (4.0)
+description: "Discover the benefits of updating to Windows Mobile 6 Black Shadow (4.0) with expert tips and a step-by-step guide for a smooth installation experience!"
 date: 2007-06-21
 creator: Martin Hinshelwood
 id: "375"
@@ -26,3 +27,4 @@ Having performed a successful update I am happy with the result and will probabl
 **How have your updates gone?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
+

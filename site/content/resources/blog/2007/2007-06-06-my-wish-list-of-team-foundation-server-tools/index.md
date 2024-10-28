@@ -1,5 +1,6 @@
 ---
 title: My Wish List of Team Foundation Server Tools
+description: "Explore essential Team Foundation Server tools in my wish list, designed to enhance workflow and collaboration for developers. Join the conversation!"
 date: 2007-06-06
 creator: Martin Hinshelwood
 id: "389"
@@ -56,3 +57,4 @@ I have already [blogged](http://blog.hinshelwood.com/archive/2007/05/24/TFS-Feat
 **Does anyone have anything else on your wish lists?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
+

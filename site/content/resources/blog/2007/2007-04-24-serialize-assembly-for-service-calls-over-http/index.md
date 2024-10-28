@@ -1,5 +1,6 @@
 ---
 title: Serialize Assembly for Service calls over Http
+description: "Discover how to serialize .NET assemblies for WCF service calls without byte streams. Join the discussion and find solutions to your coding challenges!"
 date: 2007-04-24
 creator: Martin Hinshelwood
 id: "415"
@@ -39,3 +40,4 @@ I have tralled the web for a while now, trying to find a solution. I have even d
 Does anyone have a solution for this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
+

@@ -1,5 +1,6 @@
 ---
 title: Creating WCF Service Host Programmatically
+description: "Learn to create a WCF Service Host programmatically with expert tips on base addresses, service behaviors, and secure bindings for robust .NET services."
 date: 2007-05-30
 creator: Martin Hinshelwood
 id: "393"
@@ -83,3 +84,4 @@ Binding.BypassProxyOnLocal = True
 Using this in conjunction with the custom proxy creation will allow you to build versatile integrated services on the .NET platform.
 
 You can find all of the code listed above @ [http://www.codeplex.com/TFSEventHandler](http://www.codeplex.com/TFSEventHandler)
+

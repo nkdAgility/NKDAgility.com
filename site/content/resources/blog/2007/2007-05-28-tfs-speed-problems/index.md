@@ -1,5 +1,6 @@
 ---
 title: TFS Speed Problems
+description: "Struggling with Team Foundation Server speed issues? Discover tips to diagnose and improve performance for a smoother development experience!"
 date: 2007-05-28
 creator: Martin Hinshelwood
 id: "395"
@@ -26,3 +27,4 @@ If you have a slow team server, check the network and then check the performance
 **Do you have a slow team server?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

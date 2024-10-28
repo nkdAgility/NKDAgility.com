@@ -1,5 +1,6 @@
 ---
 title: Creating a managed service factory
+description: "Discover how to create a managed service factory for seamless access to local and remote services. Enhance your enterprise solutions with this insightful guide!"
 date: 2007-06-19
 creator: Martin Hinshelwood
 id: "377"
@@ -56,3 +57,4 @@ TeamServers = Server.GetService(Of Clients.TeamServersService)()
 As I hope you can see this makes it easier to implement many features with an enterprise enviroment. All you have to know is what services are available where. There is also the possibility that a lookup service could be implemented that would allow the Factory to bring you services when you do not even know here they are!
 
 I hope this helps those trying to find a way to achieve the same goals without being too restrictive. You can download the code from my [CodePlex](http://www.codeplex.com "CodePlex") [TFS Event Handler](http://www.codeplex.com/TFSEventHandler) project.
+

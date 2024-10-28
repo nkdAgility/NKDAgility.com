@@ -1,5 +1,6 @@
 ---
 title: Application Owner
+description: "Explore the role of an Application Owner in managing production applications, vendor relations, and SOX audits. Discover insights for effective tech management."
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "348"
@@ -40,3 +41,4 @@ I am performing a SOX audit on our general ledger application and all of our Mor
 Fixing these problems, or managing the solutions is slow and painfully. At least my company has just implemented a SOX audit management system that is taking the audit from two months last year to only a few weeks this year.
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
+

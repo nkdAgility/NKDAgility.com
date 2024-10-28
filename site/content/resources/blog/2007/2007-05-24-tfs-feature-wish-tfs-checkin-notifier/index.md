@@ -1,5 +1,6 @@
 ---
 title: TFS Feature Wish (TFS Checkin Notifier)
+description: "Discover the TFS Checkin Notifier, an essential add-in for Team Explorer that streamlines file access requests and enhances collaboration in source control."
 date: 2007-05-24
 creator: Martin Hinshelwood
 id: "397"
@@ -26,3 +27,4 @@ Possible [CodePlex](http://www.codeplex.com "CodePlex") project "TFSCheckinNotif
 Could be cool, what do you think?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
+

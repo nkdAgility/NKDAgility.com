@@ -1,5 +1,6 @@
 ---
 title: "Studying for Exam 70-536: MCTS Application Development Foundation"
+description: "Join Martin Hinshelwood on his journey to conquer Exam 70-536 for MCPD certification, sharing insights and resources for aspiring .NET developers."
 date: 2007-05-04
 creator: Martin Hinshelwood
 id: "404"
@@ -36,3 +37,4 @@ Ah well, back to the book!
 _An excelent resource for 71-510 can be found on the dotnetfun site @ [Prepare for the 70-536 Certification Exam: Microsoft .NET Framework 2.0 - Application Development Foundation](http://www.dotnetfun.com/articles/certifications/Passing70536Certification.aspx)._
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
+

@@ -1,5 +1,6 @@
 ---
 title: Simplify
+description: "Discover how I simplified my blog categories for better organization and clarity. Join the conversation and share your thoughts on enhancing user experience!"
 date: 2007-07-14
 creator: Martin Hinshelwood
 id: "372"
@@ -28,3 +29,4 @@ How about the digg this links on the blog pages as well as on the main feed?
 Just some thoughts! Don't ask, don't get.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

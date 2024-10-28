@@ -1,5 +1,6 @@
 ---
 title: Developer vindication
+description: "Discover my journey as a .Net developer and the unexpected opportunity from Microsoft. Join me as I navigate career changes and visa challenges!"
 date: 2007-08-04
 creator: Martin Hinshelwood
 id: "350"
@@ -26,3 +27,4 @@ As I understand it, I would require a [H1B](http://en.wikipedia.org/wiki/H1B_vis
 I am not giving up on this, but there are few other options...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

@@ -1,5 +1,6 @@
 ---
 title: Team Foundation Server & SharePoint 3.0
+description: "Explore how to integrate SharePoint 3.0 with Team Foundation Server for a streamlined project management experience. Discover tips and best practices!"
 date: 2007-05-31
 creator: Martin Hinshelwood
 id: "391"
@@ -81,3 +82,4 @@ My idea is that in the documentation I replace:
 `**Any reason what this should not work?**`
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
+

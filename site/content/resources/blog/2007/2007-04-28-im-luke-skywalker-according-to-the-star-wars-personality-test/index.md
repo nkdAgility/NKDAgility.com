@@ -1,5 +1,6 @@
 ---
 title: I'm Luke Skywalker according to the Star Wars personality test.
+description: "Discover your Star Wars personality with a fun test! Join me as I share my surprising results and thoughts on being Luke Skywalker. May the Force be with you!"
 date: 2007-04-28
 creator: Martin Hinshelwood
 id: "409"
@@ -21,3 +22,4 @@ I was hoping for anything else!
 Thanks [Mickey](http://teamsystemrocks.com/blogs/mickey_gousset/archive/2007/04/19/1596.aspx)...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

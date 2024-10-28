@@ -1,5 +1,6 @@
 ---
 title: Simpsonize Me!
+description: "Discover how to 'Simpsonize' yourself! Join Martin Hinshelwood as he shares his fun experience and tips for creating your own animated character."
 date: 2007-07-30
 creator: Martin Hinshelwood
 id: "355"
@@ -21,3 +22,4 @@ preview: nakedalm-logo-128-link-2-1.png
 Me as a Simpson!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

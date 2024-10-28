@@ -1,5 +1,6 @@
 ---
 title: Team Server Hmm!
+description: "Discover how to integrate Team Server with SQL Server Management Studio and enhance your development workflow. Explore essential tools and tips!"
 date: 2007-04-02
 creator: Martin Hinshelwood
 id: "420"
@@ -32,3 +33,4 @@ Which allows you to connect the following software to team servfer:
   Ahh, they think of everything!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
+

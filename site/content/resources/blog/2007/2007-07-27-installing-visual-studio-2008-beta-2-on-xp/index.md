@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio 2008 Beta 2 on XP
+description: "Learn how to successfully install Visual Studio 2008 Beta 2 on XP, troubleshoot common issues, and optimize your setup for Team Foundation Server."
 date: 2007-07-27
 creator: Martin Hinshelwood
 id: "358"
@@ -37,3 +38,4 @@ Min resolution of 1900+
 **Any ideas?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
+

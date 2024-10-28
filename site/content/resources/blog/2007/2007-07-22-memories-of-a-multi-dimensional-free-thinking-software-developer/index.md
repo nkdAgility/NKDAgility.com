@@ -1,5 +1,6 @@
 ---
 title: Memories of a multi-dimensional free thinking software developer
+description: "Explore the unique journey of a dyslexic software developer and discover insights to empower gifted individuals and their employers. Join the conversation!"
 date: 2007-07-22
 creator: Martin Hinshelwood
 id: "365"
@@ -26,3 +27,4 @@ I will add more, but for now here are a couple of resources to get you started i
 [http://www.dyslexia.com/](http://www.dyslexia.com/ "http://www.dyslexia.com/")
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

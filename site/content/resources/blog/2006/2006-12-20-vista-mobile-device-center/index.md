@@ -1,5 +1,6 @@
 ---
 title: Vista Mobile Device Center
+description: "Explore the challenges of syncing podcasts with Windows Vista Mobile Device Center. Discover insights and solutions for a smoother mobile experience!"
 date: 2006-12-20
 creator: Martin Hinshelwood
 id: "456"
@@ -25,3 +26,4 @@ I hope it is just because the "Mobile Device Center" is currently still in beta,
 Lets hope they fix this so I can listen to my podcasts again!
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
+
