@@ -1,5 +1,6 @@
 ---
 title: "The SharePoint Plan: Database move headache mitigation"
+description: "Discover effective strategies to mitigate database move headaches in SharePoint. Learn how to simplify SQL Server migrations and save time with our expert plan!"
 date: 2008-01-31
 creator: Martin Hinshelwood
 id: "257"
@@ -34,3 +35,4 @@ probability possibility...
 Microsoft: if you are listening, please make moving a SharePoint database as easy as TFS!
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007)
+

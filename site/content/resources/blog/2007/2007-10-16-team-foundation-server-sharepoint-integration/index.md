@@ -1,5 +1,6 @@
 ---
 title: Team Foundation Server SharePoint Integration
+description: "Explore the integration challenges between Team Foundation Server and SharePoint 2007. Discover insights on enhancing workflows and managing work items effectively."
 date: 2007-10-16
 creator: Martin Hinshelwood
 id: "300"
@@ -31,3 +32,4 @@ As a start, instead of releasing "Web access for Team Foundation Server" as a po
 Microsoft, if you are listening to either Mike or myself...please do not forget the Workflow integration too....
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM)
+

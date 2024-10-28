@@ -1,5 +1,6 @@
 ---
 title: The cause of dyslexia
+description: "Explore the genetic and neurological causes of dyslexia, uncovering its unique brain architecture and the strengths it can foster in individuals."
 date: 2007-08-11
 creator: Martin Hinshelwood
 id: "334"
@@ -32,3 +33,4 @@ As a result of this dyslexic children often start with a lack of  [phonetic awa
 I hope from this you can see that although dyslexic people start with a disadvantage caused by the way we are taught in school, if they manage to get past that hurdle then the tend to end up with an advantage in the long run...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
+

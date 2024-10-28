@@ -1,5 +1,6 @@
 ---
 title: Mozy Backup Space Gathering update
+description: "Join my quest for free Mozy backup space! Discover how referrals can boost your storage and get tips on maximizing your online backup experience."
 date: 2007-11-27
 creator: Martin Hinshelwood
 id: "286"
@@ -41,3 +42,4 @@ I only need another 300MB...so...
 ...**_My quest for more free backup space continues..._**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

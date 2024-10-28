@@ -1,5 +1,6 @@
 ---
 title: Falling of the TFS rehabilitation wagon...
+description: "Explore the challenges and solutions of implementing TFS for project management at Aggreko, blending SharePoint 2007 with powerful tracking capabilities."
 date: 2007-10-19
 creator: Martin Hinshelwood
 id: "298"
@@ -34,3 +35,4 @@ And just when the cost of Team Suit was getting me down I got an email from my g
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [TFS 2005](http://technorati.com/tags/TFS+2005)
+

@@ -1,5 +1,6 @@
 ---
 title: Where am I?
+description: "Explore the innovative Locator project using LINQ and .NET 3.5 to track user locations in real-time, enhancing connectivity and efficiency in your workplace."
 date: 2007-11-09
 creator: Martin Hinshelwood
 id: "294"
@@ -79,3 +80,4 @@ Now that is nuts ![smile_omg](images/smile_omg-6-2.gif)
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
+

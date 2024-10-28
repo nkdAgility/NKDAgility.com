@@ -1,5 +1,6 @@
 ---
 title: Identity crisis
+description: "Explore how Microsoft's Identity Lifecycle Manager 2007 can streamline user identity management, enhance security, and boost operational efficiency for your business."
 date: 2007-11-28
 creator: Martin Hinshelwood
 id: "285"
@@ -95,3 +96,4 @@ propaganda marketing:
 We will see! I am currently installing a dev box and I will evaluate it according to the specific needs of our business...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
+

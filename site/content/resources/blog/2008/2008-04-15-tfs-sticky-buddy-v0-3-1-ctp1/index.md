@@ -1,5 +1,6 @@
 ---
 title: TFS Sticky Buddy v0.3.1 CTP1
+description: "Explore the TFS Sticky Buddy v0.3.1 CTP1, a WPF digital dashboard for Team Foundation Server. Download now to visualize your project areas and iterations!"
 date: 2008-04-15
 creator: Martin Hinshelwood
 id: "239"
@@ -33,3 +34,4 @@ Please remember that this is a CTP and is not fully functional. With this versio
 I have yet to skin the whole application so you will see some bitts that look exactly like the [Family.Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com)... yes I know.. I am a lazy developer...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
+

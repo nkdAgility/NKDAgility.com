@@ -1,5 +1,6 @@
 ---
 title: Proxy server settings for SharePoint 2007
+description: "Discover essential proxy server settings for SharePoint 2007 to enhance connectivity and authentication. Simplify your setup with expert guidance!"
 date: 2007-10-24
 creator: Martin Hinshelwood
 id: "295"
@@ -47,3 +48,4 @@ The required bit of which is the useDefaultCredentials parameter that passes the
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

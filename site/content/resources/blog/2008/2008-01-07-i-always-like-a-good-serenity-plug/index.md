@@ -1,5 +1,6 @@
 ---
 title: I always like a good Serenity plug...
+description: "Discover your Serenity character with our fun quiz! Find out if you're more like Dr. Simon Tam or Captain Malcolm Reynolds. Join the adventure now!"
 date: 2008-01-07
 creator: Martin Hinshelwood
 id: "270"
@@ -21,3 +22,4 @@ Your results:
 [Click here to take the "Which Serenity character am I?" quiz...](http://www.seabreezecomputers.com/serenity)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

@@ -1,5 +1,6 @@
 ---
 title: Moderating for Community-Credit
+description: "Join me as I share my experience moderating submissions for Community-Credit, a platform that rewards honesty and community engagement. Sign up and win prizes!"
 date: 2007-09-13
 creator: Martin Hinshelwood
 id: "313"
@@ -31,3 +32,4 @@ You can view the credits I have attained by going to [http://community-credit.mu
 [Sign up and start collecting your credit.](http://www.community-credit.com/Login/CreateMember.aspx) Oh, and win prizes!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

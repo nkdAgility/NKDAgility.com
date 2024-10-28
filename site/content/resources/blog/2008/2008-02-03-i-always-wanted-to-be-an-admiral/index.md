@@ -1,5 +1,6 @@
 ---
 title: I always wanted to be an Admiral!
+description: "Join Martin Hinshelwood as he reflects on his dream of becoming an Admiral, inspired by Battlestar Galactica. Dive into personal insights and fun quizzes!"
 date: 2008-02-03
 creator: Martin Hinshelwood
 id: "251"
@@ -22,3 +23,4 @@ Having just watched the entire 3rd series and waiting with bated breath for the 
 I know...I'm a bit sad...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

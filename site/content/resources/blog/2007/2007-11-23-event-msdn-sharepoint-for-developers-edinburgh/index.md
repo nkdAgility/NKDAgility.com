@@ -1,5 +1,6 @@
 ---
 title: "Event: MSDN: SharePoint for Developers (Edinburgh)"
+description: "Discover insights from the MSDN event on SharePoint for Developers in Edinburgh, featuring key takeaways on WSS3.0 and MOSS 2007 for all skill levels."
 date: 2007-11-23
 creator: Martin Hinshelwood
 id: "288"
@@ -64,3 +65,4 @@ This was the first time I had seen David perform on stage and I was quite impres
 I found the whole thing very informative and I would recommend it to both novices and experts as it helped me fill in some of the blanks and gain incite into future improvements.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint) [VS 2005](http://technorati.com/tags/VS+2005)
+

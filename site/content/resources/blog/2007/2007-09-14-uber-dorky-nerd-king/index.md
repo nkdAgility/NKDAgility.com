@@ -1,5 +1,6 @@
 ---
 title: Uber-Dorky Nerd King
+description: "Discover the fun side of being a nerd with the 'Uber-Dorky Nerd King' post! Join Martin Hinshelwood as he explores personal geekiness and self-identity."
 date: 2007-09-14
 creator: Martin Hinshelwood
 id: "312"
@@ -23,3 +24,4 @@ Does this make me a Nerd?
 Just a little!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

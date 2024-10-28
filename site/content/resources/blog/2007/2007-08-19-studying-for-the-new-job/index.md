@@ -1,5 +1,6 @@
 ---
 title: Studying for the new job
+description: "Prepare for your new job by mastering essential technologies like BizTalk and SharePoint. Discover study tips and resources to enhance your skills!"
 date: 2007-08-19
 creator: Martin Hinshelwood
 id: "330"
@@ -38,3 +39,4 @@ For Sharepoint 2007:
 I know that this is not a MOSS book, but you need to start somewhere and there are no exams for MOSS yet, too new. Although I have asked to be put on the beta list for Sharepoint 2007, MOSS 2007 and .NET 3.0 exams...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
+

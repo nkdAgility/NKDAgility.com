@@ -1,5 +1,6 @@
 ---
 title: Blogging about...
+description: "Join Martin Hinshelwood as he shares insights on TFS, Visual Studio, and personal reflections during his career transition. Discover his journey and tips!"
 date: 2007-09-12
 creator: Martin Hinshelwood
 id: "314"
@@ -39,3 +40,4 @@ Well, in the last month (yes I know I said I would do this every week) I have:
 That's about it for now...Back to my unemployment :), and enjoying the rare Scottish sun...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WCF](http://technorati.com/tags/WCF) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS)
+
