@@ -1,5 +1,6 @@
 ---
 title: In Nexus with 5 Scrum teams, how can the Product Owner attend all Sprint Planning events?
+description: "Discover how a Product Owner can effectively manage Sprint Planning across multiple Scrum teams in a Nexus. Enhance your Agile practices today!"
 date: 2019-09-30
 creator: Martin Hinshelwood
 id: "39855"
@@ -50,3 +51,4 @@ In this case they have ~42 teams that roll up to ~6 Product Areas, and is just o
 If you do implement some kind of hierarchy I recommend focusing on keeping it as flat as posible and understanding that each of these folks, Product Owner, Area Owner, & Team Owner are fulfilling the role of the Product Owner as per the Scrum Guide as part of a Scrum Team. For the question above I would likely start with a dedicated Team Owner for each team that is the representative that attends the Nexus Sprint Planning and that works closely with the Product Owner. This will likely need close monitoring and a skilled Scrum Master to help coach the teams to maintain communication and not loose focus.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
+

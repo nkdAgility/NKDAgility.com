@@ -1,5 +1,6 @@
 ---
 title: Release planning and predictable delivery
+description: "Master release planning and achieve predictable delivery in agile environments. Discover strategies to enhance quality and streamline your software development process."
 date: 2020-11-24
 creator: Martin Hinshelwood
 id: "9714"
@@ -108,3 +109,4 @@ There are a number of strategies that can help you both stop creating and start 
 - **Use a modern source control system** - A [modern source control system is more than just code management](/blog/getting-started-with-modern-source-control-system-and-devops/), it should include all of the goodies talked about in DevOps practices and beyond.
 
 If you can, do them all, and many more…
+

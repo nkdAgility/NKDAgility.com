@@ -1,5 +1,6 @@
 ---
 title: Update to the Scrum Guide on the 25th Anniversary of the Scrum Framework
+description: "Discover the latest updates to the Scrum Guide on its 25th anniversary, simplifying Scrum for better team management and accountability. Read more!"
 date: 2020-11-18
 creator: Martin Hinshelwood
 id: "45077"
@@ -41,3 +42,4 @@ There are lots of awesome changes so let's see if I can highlight the things I n
 I hope that that get as much from this new revision of the Scrum Guide as I have.
 
 Get your copy of the **[new version of the Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)**!
+

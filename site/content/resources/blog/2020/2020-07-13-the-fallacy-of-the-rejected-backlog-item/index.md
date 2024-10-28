@@ -1,5 +1,6 @@
 ---
 title: The fallacy of the rejected backlog item
+description: "Explore the fallacy of rejecting backlog items in Scrum. Understand the impact on development and learn how to enhance collaboration and transparency."
 date: 2020-07-13
 creator: Martin Hinshelwood
 id: "9876"
@@ -84,3 +85,4 @@ There are a few things that can make this as easy as possible:
 - **Feature Flippers/toggles/flags** – The single most valuable thing in your developer's arsenal is the ability to turn the things that you are adding on and off at will. This should be applied both to a feature and the multiple layers of that feature that are added to each pass delivering PBI’s. You may think of each PBI’s as requiring a switch to be able to turn it on or off. It is usually not perfect as there are some things that are iterations of the same feature. More advanced implementations may allow you to enable or disable features by account or user.
 
 **If you can do all of these things as they will all add value by making it easier to give the Product Owner flexibility, give the Scrum Team as much feedback as possible.**
+

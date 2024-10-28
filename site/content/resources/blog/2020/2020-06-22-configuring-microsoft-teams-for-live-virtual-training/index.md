@@ -1,5 +1,6 @@
 ---
 title: Configuring Microsoft Teams for Live Virtual Training
+description: "Master Microsoft Teams for Live Virtual Training with expert tips on setup and configuration to enhance your students' learning experience. Get started now!"
 date: 2020-06-22
 creator: Martin Hinshelwood
 id: "44452"
@@ -175,3 +176,4 @@ Branding and Custom Domain in action
 ## Conclusion to Configuring Microsoft Teams for Live Virtual Training
 
 While there is a lot of setup and configuration before you can run your first class the holistic experience for students is far better than any of the other platforms that I have used or participated in.
+

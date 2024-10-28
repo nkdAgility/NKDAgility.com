@@ -1,5 +1,6 @@
 ---
 title: "Evolution not Transformation: This is the Inevitability of change"
+description: "Discover why true agility is an evolution, not a transformation. Embrace continuous change to thrive in today's fast-paced business landscape."
 date: 2020-07-13
 creator: Martin Hinshelwood
 id: "44511"
@@ -180,3 +181,4 @@ Agile in Nigeria 2020: The Inevitability of change
 </figcaption>
 
 </figure>
+

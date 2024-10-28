@@ -1,5 +1,6 @@
 ---
 title: Live Site Culture & Site Reliability Engineering
+description: "Explore how Live Site Culture and Site Reliability Engineering drive agility and DevOps practices, enabling rapid delivery and enhanced customer satisfaction."
 date: 2020-06-17
 creator: Martin Hinshelwood
 id: "44414"
@@ -50,3 +51,4 @@ The following presentation represents mearly a point in time of their evolution 
 https://youtu.be/5bgcpPqcGlw
 
 Presentation: [https://nkdagility.net/3edOLPi](https://nkdagility.net/3edOLPi)
+
