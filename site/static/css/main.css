@@ -4,6 +4,7 @@
     --secondary-color: #007acc; /* Secondary branding color */
     --accent-color: #e37f01; /* Accent color */
     --background-color: #ecf0f1; /* Background color */
+    --primary-color-text: #ffffff; /* Primary text color */
   }
 
 
@@ -93,3 +94,7 @@ img {
     height: auto; /* Maintains the aspect ratio of the image */
     display: block; /* Removes any inline-block gap */
   }
+
+  .text-bg-nkdagility-primary {
+    background-color: var(--primary-color);
+}

@@ -228,6 +228,46 @@ syllabus:
     title: The Scrum Framework
     duration: 120
     content: The students will be able to explain to stakeholders the influence of uncertainty and complexity on product development risks and effectively communicate the utilization of Scrum and empiricism as strategies to mitigate such risks and improve value.
+    learningResources:
+      - title: The Scrum Guide
+        link: /resources/guides/the-scrum-guide
+        duration: 60
+        type: handshake-angle
+        weight: 1
+      - title: "E5 Powerful Things About the Sprint"
+        link: https://www.scrum.org/resources/blog/5-powerful-things-about-sprint
+        duration: 5
+        type: blog
+        weight: 1
+      - title: Six Reasons Why You Need to Pay More Attention to the Sprint Goal
+        link: https://www.scrum.org/resources/blog/six-reasons-why-you-need-pay-more-attention-sprint-goal
+        duration: 5
+        type: blog
+      - title: "Myth 3: In Scrum, releases are done only at the end of the Sprint"
+        link: https://www.scrum.org/resources/blog/myth-3-scrum-releases-are-done-only-end-sprint
+        duration: 5
+        type: blog
+        weight: 1
+      - title: "The Surprising Truth about what motivates us"
+        link: https://youtu.be/aJWH84Nwucc
+        duration: 2
+        type: video
+        weight: 1
+      - title: "Ethics in Scrum"
+        link: https://youtu.be/Tw1gwc7rAVg
+        duration: 6
+        type: video
+        weight: 1
+      - title: "The Importance of Product Backlog Transparency"
+        link: https://youtu.be/O3tqpvkvnSk
+        duration: 6
+        type: video
+        weight: 1
+      - title: "Myth 2: The Sprint Backlog can’t change during the Sprint "
+        link: https://www.scrum.org/resources/blog/myth-2-sprint-backlog-cant-change-during-sprint
+        duration: 5
+        type: blog
+        weight: 1
     assignment:
       title: Putting Product Owner accountability into action
       content: Inspect and adapt how your current process is helping in achieving your business goals and improve its effectiveness by comparing it to the concepts suggested by the Scrum Framework to identify improvement opportunities.
@@ -243,6 +283,26 @@ syllabus:
     title: Product Backlog Management
     duration: 120
     content: Students will be able to identify opportunities to improve their current product management approach and how they might impact their ability to deliver value and come up with at least one improvement that they tried with their team(s) or stakeholders.
+    learningResources:
+      - title: What is Backlog Refinement?
+        link: https://youtu.be/k0JzDpEwoVA
+        duration: 6
+        type: video
+        weight: 1
+      - title: "Managing Risk"
+        link: https://www.scrum.org/resources/blog/managing-risk
+        duration: 15
+        type: blog
+        weight: 1
+      - title: "Thirty-Five: Exercise for Backlog Prioritization"
+        link: https://www.tastycupcakes.org/2012/10/thirty-five/
+        duration: 5
+        type: excersize
+      - title: "What I’ve learnt about Sponsored Features in Product Management | by Jorge Gómez Sancha"
+        link: https://medium.com/@jorgesancha/what-ive-learnt-about-sponsored-features-in-product-management-3d5d2e7d2612
+        duration: 15
+        type: blog
+        weight: 1
     assignment:
       title: Own your Product Backlog
       content: Inspect your current product management approach and identify opportunities to improve it in order to help better increasing the value of your product. Define experiment and get approval from your Scrum Team(s) and your stakeholders to execute as many of them as possible. Run at least one experiment to improve your product management approach and describe its impact.
@@ -264,6 +324,21 @@ syllabus:
     title: Releases & Forecasting
     duration: 120
     content: Students will be able to have a conversation with their stakeholders about why forecasting should be different in a complex environment and how frequent releases can improve empiricism.
+    learningResources:
+      - title: Limiting Work in Progress (WIP) in Scrum with Kanban - What / When / Who / How
+        link: https://www.scrum.org/resources/blog/limiting-work-progress-wip-scrum-kanban-what-when-who-how
+        duration: 15
+        type: blog
+        weight: 1
+      - title: "The Kanban Guide for Scrum Teams"
+        link: /resources/guides/the-kanban-guide-for-scrum-teams/
+        duration: 15
+        type: blog
+        weight: 1
+      - title: "Work can flow across the Sprint boundary"
+        link: /resources/blog/work-can-flow-across-sprint-boundary/
+        duration: 5
+        type: blog
     assignment:
       title: Strategize your releases
       content: Understand your stakeholders needs in forecasting and improve how to meet these needs in a way that is more in alignment with an empirical approach addressing the specific challenges in a complex environment.
@@ -285,6 +360,25 @@ syllabus:
     title: Closing
     duration: 30
     content: As we conclude the Product Owner course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
+    learningResources:
+      - title: The Scrum Guide
+        link: /resources/guides/the-scrum-guide
+        duration: 60
+        type: handshake-angle
+        weight: 1
+      - title: "The Kanban Guide for Scrum Teams"
+        link: /resources/guides/the-kanban-guide-for-scrum-teams/
+        duration: 15
+        type: handshake-angle
+        weight: 1
+      - title: "Take the Product Owner Open Assessment"
+        link: https://www.classmarker.com/online-test/start/?quiz=r4n5fac77a2b6d40
+        duration: 30
+        type: flask-vial
+      - title: "Product Owner Learning Path"
+        link: https://www.scrum.org/pathway/product-owner-learning-path/
+        duration: 15
+        type: waveform-lines
     assignment:
       title: Take the PSPO I assessment.
       content: |
@@ -299,7 +393,7 @@ syllabus:
         - Practice assignment[Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
         - Passwords have no expiration date, but are valid for one attempt only
         - Lifetime certification - no annual renewal fee required
-  - id: 8
+  - id: 9
     title: Catchup
     duration: 120
     content: Two weeks after completing the Product Owner course, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect on your experiences applying the concepts learned in the course, share insights, and receive additional support.

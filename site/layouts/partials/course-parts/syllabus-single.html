@@ -52,13 +52,14 @@
                       {{ range sort .learningResources "weight" }}
                         {{ if not .draft }}
                           <li class="list-group-item d-flex align-items-center small">
-                            <div class="badge text-bg-secondary me-1">{{ .duration }}m</div>
+                            <div class="badge text-bg-nkdagility-primary me-1">{{ .duration }}m</div>
                             <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
                             {{- $isExternal := strings.HasPrefix .link "http" -}}
                             {{- if $isExternal }}
-                              <a href="{{ .link | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
-                                {{ .title }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
+                              <a href="{{ .link | safeURL }}" class="external-link  text-nowrap overflow-hidden text-truncate" target="_blank" rel="noopener noreferrer">
+                                <span class="">{{ .title }}&nbsp;</span>
                               </a>
+                              <small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
                             {{- else }}
                               <a href="{{ .link | safeURL }}"> {{ .title }} </a>
                             {{- end }}
