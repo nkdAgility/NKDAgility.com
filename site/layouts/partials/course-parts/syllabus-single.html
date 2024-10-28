@@ -47,7 +47,7 @@
                       <i class="fa fa-chevron-down rotate-icon"></i>
                     </h4>
                   </button>
-                  <div id="learningResources-{{ $index }}" class="collapse">
+                  <div id="learningResources-{{ $index }}" class="collapse show">
                     <ul class="list-group list-group-flush">
                       {{ range sort .learningResources "weight" }}
                         {{ if not .draft }}
