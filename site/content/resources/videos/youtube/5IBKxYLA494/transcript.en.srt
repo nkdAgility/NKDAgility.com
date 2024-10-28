@@ -1,0 +1,3912 @@
+1
+00:00:00,799 --> 00:00:05,640
+as your devops was built for agile teams
+
+2
+00:00:03,120 --> 00:00:07,679
+by agile teams but there are many ways
+
+3
+00:00:05,640 --> 00:00:09,960
+you can use it to support your agile
+
+4
+00:00:07,679 --> 00:00:12,200
+practices here I'll show you how to use
+
+5
+00:00:09,960 --> 00:00:14,120
+as your devops to support your scrum
+
+6
+00:00:12,200 --> 00:00:17,160
+process from the perspective of
+
+7
+00:00:14,120 --> 00:00:19,640
+scrum.org and the teams at Microsoft
+
+8
+00:00:17,160 --> 00:00:22,000
+that created it the focus will be on
+
+9
+00:00:19,640 --> 00:00:24,800
+using the scrum framework coupled with
+
+10
+00:00:22,000 --> 00:00:27,519
+value focused hypothesis driven
+
+11
+00:00:24,800 --> 00:00:27,519
+flow-based
+
+12
+00:00:28,960 --> 00:00:32,559
+practices
+
+13
+00:00:30,610 --> 00:00:34,920
+[Music]
+
+14
+00:00:32,559 --> 00:00:37,280
+hi I'm Martin Henwood owner and
+
+15
+00:00:34,920 --> 00:00:39,000
+principal consultant at naked agility
+
+16
+00:00:37,280 --> 00:00:41,559
+I'm a professional scrum trainer with
+
+17
+00:00:39,000 --> 00:00:43,399
+scrum.org a professional camand trainer
+
+18
+00:00:41,559 --> 00:00:46,520
+with Pro camand and I've been a
+
+19
+00:00:43,399 --> 00:00:48,060
+Microsoft MVP in GitHub and aure devops
+
+20
+00:00:46,520 --> 00:00:52,600
+for 15
+
+21
+00:00:48,060 --> 00:00:54,960
+[Music]
+
+22
+00:00:52,600 --> 00:00:58,320
+years would it surprise you that there
+
+23
+00:00:54,960 --> 00:01:01,000
+are no metrics in the scrum guide would
+
+24
+00:00:58,320 --> 00:01:03,640
+it further surprise you if there were no
+
+25
+00:01:01,000 --> 00:01:06,240
+user stories story points planning poker
+
+26
+00:01:03,640 --> 00:01:09,799
+or burndown charts that were part of
+
+27
+00:01:06,240 --> 00:01:13,280
+scrum these are and always we optional
+
+28
+00:01:09,799 --> 00:01:15,000
+practices that many people found value
+
+29
+00:01:13,280 --> 00:01:16,640
+in their way of working but that you
+
+30
+00:01:15,000 --> 00:01:19,520
+don't have to
+
+31
+00:01:16,640 --> 00:01:22,360
+have just because you use a tool or
+
+32
+00:01:19,520 --> 00:01:25,040
+practice in a previous context doesn't
+
+33
+00:01:22,360 --> 00:01:27,600
+mean that it will fit a future context
+
+34
+00:01:25,040 --> 00:01:29,680
+the practices that you use and how you
+
+35
+00:01:27,600 --> 00:01:31,840
+use a tool to support your team's
+
+36
+00:01:29,680 --> 00:01:34,040
+practice practices and behaviors will
+
+37
+00:01:31,840 --> 00:01:36,880
+add or detract from achieving the
+
+38
+00:01:34,040 --> 00:01:40,079
+outcome and impact that you're trying to
+
+39
+00:01:36,880 --> 00:01:42,720
+achieve scrum is just a container for
+
+40
+00:01:40,079 --> 00:01:45,880
+other practices which can be helpful or
+
+41
+00:01:42,720 --> 00:01:48,920
+unhelpful I'm generally pedantic when
+
+42
+00:01:45,880 --> 00:01:50,840
+teaching and pragmatic when implementing
+
+43
+00:01:48,920 --> 00:01:53,880
+so everything you see here would be
+
+44
+00:01:50,840 --> 00:01:56,560
+guidance based on the common cause not
+
+45
+00:01:53,880 --> 00:01:59,159
+just rules to follow with some
+
+46
+00:01:56,560 --> 00:02:00,840
+pragmatism for Azure devops he's own
+
+47
+00:01:59,159 --> 00:02:03,399
+idioms
+
+48
+00:02:00,840 --> 00:02:06,240
+it's important to realize that everyone
+
+49
+00:02:03,399 --> 00:02:08,640
+and every team will have dumb ideas that
+
+50
+00:02:06,240 --> 00:02:11,200
+sound good at the start the most
+
+51
+00:02:08,640 --> 00:02:15,360
+effective teams are the ones that are
+
+52
+00:02:11,200 --> 00:02:19,040
+able to let go of an idea when they find
+
+53
+00:02:15,360 --> 00:02:20,800
+that the evidence does not support it so
+
+54
+00:02:19,040 --> 00:02:23,519
+let's take a look at how we can use
+
+55
+00:02:20,800 --> 00:02:26,280
+Azure devops within the context of
+
+56
+00:02:23,519 --> 00:02:27,519
+professional scrum for teams that build
+
+57
+00:02:26,280 --> 00:02:30,400
+software
+
+58
+00:02:27,519 --> 00:02:31,959
+products so in order to
+
+59
+00:02:30,400 --> 00:02:35,720
+understand
+
+60
+00:02:31,959 --> 00:02:37,519
+how I've got this set up in aure devops
+
+61
+00:02:35,720 --> 00:02:39,879
+we're going to take a look at how Azure
+
+62
+00:02:37,519 --> 00:02:42,319
+devops constructs what it is we're going
+
+63
+00:02:39,879 --> 00:02:44,800
+to be looking at so in as your devops
+
+64
+00:02:42,319 --> 00:02:46,560
+you have a an organization you can see
+
+65
+00:02:44,800 --> 00:02:48,560
+my list of organizations on the left
+
+66
+00:02:46,560 --> 00:02:51,040
+hand side here and inside of each
+
+67
+00:02:48,560 --> 00:02:53,200
+organization you have a set of projects
+
+68
+00:02:51,040 --> 00:02:55,239
+so here's a number of uh projects that I
+
+69
+00:02:53,200 --> 00:02:59,319
+have listed when you create a new
+
+70
+00:02:55,239 --> 00:03:01,400
+project you uh are able to select uh
+
+71
+00:02:59,319 --> 00:03:04,560
+what process process to use now I've got
+
+72
+00:03:01,400 --> 00:03:06,440
+a bunch of custom processes here uh to
+
+73
+00:03:04,560 --> 00:03:08,920
+select from I've created one based on
+
+74
+00:03:06,440 --> 00:03:10,599
+the scrum guide here which I'm going to
+
+75
+00:03:08,920 --> 00:03:13,560
+show you a project that's created with
+
+76
+00:03:10,599 --> 00:03:16,640
+that one um and the way that's
+
+77
+00:03:13,560 --> 00:03:18,879
+constructed you will all be able to see
+
+78
+00:03:16,640 --> 00:03:21,760
+this even if you can't edit it but if
+
+79
+00:03:18,879 --> 00:03:26,239
+you open the organizational settings on
+
+80
+00:03:21,760 --> 00:03:31,239
+the bottom left and go to um
+
+81
+00:03:26,239 --> 00:03:33,879
+process process you'll then see a of all
+
+82
+00:03:31,239 --> 00:03:36,159
+of the processes that are available so
+
+83
+00:03:33,879 --> 00:03:39,360
+out of the box um there are core
+
+84
+00:03:36,159 --> 00:03:41,040
+processes of basic agile scrum and CMI
+
+85
+00:03:39,360 --> 00:03:43,599
+those ones are locked you can't edit
+
+86
+00:03:41,040 --> 00:03:47,400
+them uh but you can create inherited
+
+87
+00:03:43,599 --> 00:03:49,360
+processes you H createed process based
+
+88
+00:03:47,400 --> 00:03:50,720
+on it and this one here I'm actually
+
+89
+00:03:49,360 --> 00:03:52,120
+going to make that one the default CU
+
+90
+00:03:50,720 --> 00:03:54,480
+that should be the default set as
+
+91
+00:03:52,120 --> 00:03:56,159
+default process is my custom process
+
+92
+00:03:54,480 --> 00:03:59,319
+that I've created based on the scrum
+
+93
+00:03:56,159 --> 00:04:01,680
+guide so what I've done in done is I
+
+94
+00:03:59,319 --> 00:04:03,319
+have gone and I have disabled epic and
+
+95
+00:04:01,680 --> 00:04:05,959
+feature I don't want those things I
+
+96
+00:04:03,319 --> 00:04:08,879
+don't want any hierarchy in my backlog a
+
+97
+00:04:05,959 --> 00:04:12,599
+product backlog is a flat list of things
+
+98
+00:04:08,879 --> 00:04:14,760
+to be done and epics and features and
+
+99
+00:04:12,599 --> 00:04:18,160
+user stories are
+
+100
+00:04:14,760 --> 00:04:20,359
+just states of a product backlog item
+
+101
+00:04:18,160 --> 00:04:25,960
+they're things that product backlog item
+
+102
+00:04:20,359 --> 00:04:29,160
+can be um so if you check on the backlog
+
+103
+00:04:25,960 --> 00:04:30,880
+levels I can't remove epic and features
+
+104
+00:04:29,160 --> 00:04:32,400
+on the back log levels I'll show you how
+
+105
+00:04:30,880 --> 00:04:35,560
+I've disabled them but I've disabled the
+
+106
+00:04:32,400 --> 00:04:38,400
+work items um so they can't be created
+
+107
+00:04:35,560 --> 00:04:40,199
+and on here at the same backlog level
+
+108
+00:04:38,400 --> 00:04:43,120
+here I've got backlog product backlog
+
+109
+00:04:40,199 --> 00:04:44,960
+item um and I also have bug which I've
+
+110
+00:04:43,120 --> 00:04:46,479
+put at that level as well I know that
+
+111
+00:04:44,960 --> 00:04:49,919
+that you'll see there somewhere else you
+
+112
+00:04:46,479 --> 00:04:53,520
+set that um I have tasks too if teams
+
+113
+00:04:49,919 --> 00:04:56,039
+want to use tasks uh but in general it's
+
+114
+00:04:53,520 --> 00:04:58,199
+whatever they want to do um each of
+
+115
+00:04:56,039 --> 00:05:01,479
+these backlog items so if I go back to
+
+116
+00:04:58,199 --> 00:05:04,039
+the work items and I open up the actual
+
+117
+00:05:01,479 --> 00:05:06,479
+work item um has a set of fields I've
+
+118
+00:05:04,039 --> 00:05:10,680
+add one custom field you'll see that in
+
+119
+00:05:06,479 --> 00:05:13,840
+a moment um and I've added um one custom
+
+120
+00:05:10,680 --> 00:05:16,280
+State and removed an inherit an existing
+
+121
+00:05:13,840 --> 00:05:19,319
+state uh so I don't want it to say
+
+122
+00:05:16,280 --> 00:05:20,960
+committed I don't think that reflects uh
+
+123
+00:05:19,319 --> 00:05:23,880
+new scrum guide I know it used to say
+
+124
+00:05:20,960 --> 00:05:26,160
+committed in it and it's a little thing
+
+125
+00:05:23,880 --> 00:05:28,639
+but in progress is is a much better
+
+126
+00:05:26,160 --> 00:05:31,199
+State and because I have bugs and put at
+
+127
+00:05:28,639 --> 00:05:34,680
+backlog items at the same level I've
+
+128
+00:05:31,199 --> 00:05:37,160
+also made exactly the same change uh for
+
+129
+00:05:34,680 --> 00:05:38,960
+bug as well so that they're they're
+
+130
+00:05:37,160 --> 00:05:41,960
+they're going to be the same at the same
+
+131
+00:05:38,960 --> 00:05:43,360
+level so that's the custom uh process
+
+132
+00:05:41,960 --> 00:05:46,600
+that I've created so I'm going to click
+
+133
+00:05:43,360 --> 00:05:51,319
+on my scrum demo and open up my um
+
+134
+00:05:46,600 --> 00:05:54,319
+project and what you will um most likely
+
+135
+00:05:51,319 --> 00:05:56,120
+be concerned about if you're whether
+
+136
+00:05:54,319 --> 00:05:57,840
+you're an engineer you you're going if
+
+137
+00:05:56,120 --> 00:05:59,319
+you're an engineer you're going to have
+
+138
+00:05:57,840 --> 00:06:03,199
+want to have access to all of these
+
+139
+00:05:59,319 --> 00:06:04,960
+other things as well um but for most um
+
+140
+00:06:03,199 --> 00:06:06,400
+people that are not engineers and
+
+141
+00:06:04,960 --> 00:06:08,199
+Engineers we're going to be talking
+
+142
+00:06:06,400 --> 00:06:09,880
+about boards so I'm just going to click
+
+143
+00:06:08,199 --> 00:06:12,160
+on that and open
+
+144
+00:06:09,880 --> 00:06:13,599
+boards so by default it's just going to
+
+145
+00:06:12,160 --> 00:06:15,720
+show me all the work items and you can
+
+146
+00:06:13,599 --> 00:06:19,199
+see when I click new work item I have
+
+147
+00:06:15,720 --> 00:06:21,880
+bug impediment product backlog item risk
+
+148
+00:06:19,199 --> 00:06:24,759
+uh task and test case those are just the
+
+149
+00:06:21,880 --> 00:06:30,039
+basic work items I've removed feature uh
+
+150
+00:06:24,759 --> 00:06:32,039
+uh and um epic okay and in asure Ops
+
+151
+00:06:30,039 --> 00:06:34,319
+there's a bunch of tools built on top of
+
+152
+00:06:32,039 --> 00:06:36,280
+the basic work item tracking system so
+
+153
+00:06:34,319 --> 00:06:39,199
+what we're going to take a look at is
+
+154
+00:06:36,280 --> 00:06:43,120
+how we can do some of the things that we
+
+155
+00:06:39,199 --> 00:06:46,400
+would normally expect to do as a scrum
+
+156
+00:06:43,120 --> 00:06:50,120
+team within the context of azure devops
+
+157
+00:06:46,400 --> 00:06:52,759
+so first off um there are some uh
+
+158
+00:06:50,120 --> 00:06:55,120
+Logistics that we want to set up uh
+
+159
+00:06:52,759 --> 00:06:57,280
+before we get started so this is where
+
+160
+00:06:55,120 --> 00:06:59,560
+um you're this is something that maybe
+
+161
+00:06:57,280 --> 00:07:02,199
+your admin will do I prefer that every
+
+162
+00:06:59,560 --> 00:07:03,639
+everybody on the team has permission um
+
+163
+00:07:02,199 --> 00:07:06,440
+to do the things that I'm going to show
+
+164
+00:07:03,639 --> 00:07:08,120
+you but in the context of the project uh
+
+165
+00:07:06,440 --> 00:07:09,919
+there are two things that you definitely
+
+166
+00:07:08,120 --> 00:07:12,479
+want to configure one's area path and
+
+167
+00:07:09,919 --> 00:07:14,280
+one's iteration path um these are very
+
+168
+00:07:12,479 --> 00:07:17,240
+confusing brand new possibly
+
+169
+00:07:14,280 --> 00:07:19,720
+terminologies um but area path is the
+
+170
+00:07:17,240 --> 00:07:23,360
+breakdown of teams and what that looks
+
+171
+00:07:19,720 --> 00:07:25,520
+like and iteration path is a Time based
+
+172
+00:07:23,360 --> 00:07:27,440
+uh uh uh breakdown so I'm going to open
+
+173
+00:07:25,520 --> 00:07:29,680
+project
+
+174
+00:07:27,440 --> 00:07:31,280
+settings just going to pop open there in
+
+175
+00:07:29,680 --> 00:07:32,599
+the top right there we go so we're going
+
+176
+00:07:31,280 --> 00:07:34,840
+to the project settings and you can see
+
+177
+00:07:32,599 --> 00:07:39,080
+the name of the process remember scrum
+
+178
+00:07:34,840 --> 00:07:41,680
+2020 there as well um and on here on the
+
+179
+00:07:39,080 --> 00:07:43,160
+left hand side uh there's project
+
+180
+00:07:41,680 --> 00:07:45,280
+configuration so I'm going to go into
+
+181
+00:07:43,160 --> 00:07:49,520
+project configuration first um and you
+
+182
+00:07:45,280 --> 00:07:52,000
+can see that my uh current Sprint setup
+
+183
+00:07:49,520 --> 00:07:55,360
+which may or may not be a good idea uh
+
+184
+00:07:52,000 --> 00:07:58,440
+but what I have is um a season-based
+
+185
+00:07:55,360 --> 00:08:00,639
+model set up here so I have two halves
+
+186
+00:07:58,440 --> 00:08:02,960
+to the year I have the the first half
+
+187
+00:08:00,639 --> 00:08:06,879
+and the second half of the year and
+
+188
+00:08:02,960 --> 00:08:09,520
+inside of that half I've got um the 11
+
+189
+00:08:06,879 --> 00:08:12,280
+Sprints the 11 3we Sprints that make up
+
+190
+00:08:09,520 --> 00:08:13,879
+that half and then I've just started
+
+191
+00:08:12,280 --> 00:08:15,720
+adding a couple of Sprints in here and
+
+192
+00:08:13,879 --> 00:08:19,440
+you'll see that each of these Sprints
+
+193
+00:08:15,720 --> 00:08:23,039
+has a start and an end date um that's a
+
+194
+00:08:19,440 --> 00:08:25,240
+a subset of this uh higher level item so
+
+195
+00:08:23,039 --> 00:08:26,960
+I've said it up like that might be a bad
+
+196
+00:08:25,240 --> 00:08:30,000
+idea but that's what I've
+
+197
+00:08:26,960 --> 00:08:32,760
+done I then have three team well I
+
+198
+00:08:30,000 --> 00:08:37,039
+technically I have four teams um I have
+
+199
+00:08:32,760 --> 00:08:39,080
+a camman team which this is the area
+
+200
+00:08:37,039 --> 00:08:40,719
+path and this is the team that it's
+
+201
+00:08:39,080 --> 00:08:43,080
+assigned to I'll show you where that
+
+202
+00:08:40,719 --> 00:08:45,920
+happens in a second uh so I've got scrum
+
+203
+00:08:43,080 --> 00:08:48,160
+Team 1 and scrum Team 2 and cand team
+
+204
+00:08:45,920 --> 00:08:52,800
+one and then I've got scrum demo which
+
+205
+00:08:48,160 --> 00:08:54,920
+is the top level uh uh of uh this setup
+
+206
+00:08:52,800 --> 00:08:57,680
+so that's my areas and iterations that I
+
+207
+00:08:54,920 --> 00:08:59,560
+have set up I then go to my team
+
+208
+00:08:57,680 --> 00:09:01,680
+configuration just to validate the that
+
+209
+00:08:59,560 --> 00:09:04,200
+things are all in the right place and
+
+210
+00:09:01,680 --> 00:09:06,360
+this is where um you can see the epics
+
+211
+00:09:04,200 --> 00:09:07,800
+features and backlog items by default
+
+212
+00:09:06,360 --> 00:09:09,079
+when you create a team it's backlog
+
+213
+00:09:07,800 --> 00:09:10,920
+items and features I'm going to take
+
+214
+00:09:09,079 --> 00:09:14,399
+that features out and now that will not
+
+215
+00:09:10,920 --> 00:09:16,480
+be shown uh for this scrum team at all
+
+216
+00:09:14,399 --> 00:09:19,360
+um down the bottom here you can see uh
+
+217
+00:09:16,480 --> 00:09:21,680
+how am I going to work with bugs I
+
+218
+00:09:19,360 --> 00:09:24,279
+always pick bugs are managed with
+
+219
+00:09:21,680 --> 00:09:26,480
+requirements I have a blog post uh
+
+220
+00:09:24,279 --> 00:09:28,720
+called the the bug as a task
+
+221
+00:09:26,480 --> 00:09:30,320
+anti-pattern blog post uh that I'll put
+
+222
+00:09:28,720 --> 00:09:32,560
+in the comments that you should go take
+
+223
+00:09:30,320 --> 00:09:35,480
+a look at and make a decision right I've
+
+224
+00:09:32,560 --> 00:09:37,560
+decided that I want uh bugs managed with
+
+225
+00:09:35,480 --> 00:09:41,279
+requirements you can also choose bugs
+
+226
+00:09:37,560 --> 00:09:43,399
+are managed with tasks um and you can
+
+227
+00:09:41,279 --> 00:09:45,800
+also choose we're not going to manage
+
+228
+00:09:43,399 --> 00:09:48,519
+bugs on the back logger boards at all
+
+229
+00:09:45,800 --> 00:09:50,320
+we're going to keep them separate um
+
+230
+00:09:48,519 --> 00:09:51,839
+don't recommend that either bugs are
+
+231
+00:09:50,320 --> 00:09:54,480
+just backlog items that we need to work
+
+232
+00:09:51,839 --> 00:09:56,399
+with and deliver and and do stuff with
+
+233
+00:09:54,480 --> 00:09:59,079
+but in this context you can see at the
+
+234
+00:09:56,399 --> 00:10:01,279
+top here I've got the context of my team
+
+235
+00:09:59,079 --> 00:10:03,880
+um and what I've got is I've got
+
+236
+00:10:01,279 --> 00:10:06,160
+iterations that are assigned to this
+
+237
+00:10:03,880 --> 00:10:10,720
+team so this is
+
+238
+00:10:06,160 --> 00:10:12,640
+irrespective of um the the iterations
+
+239
+00:10:10,720 --> 00:10:15,600
+that we've created this is which ones
+
+240
+00:10:12,640 --> 00:10:17,440
+are assigned to this team uh so I've
+
+241
+00:10:15,600 --> 00:10:20,079
+gone ahead and I've assigned uh
+
+242
+00:10:17,440 --> 00:10:22,200
+iterations 1 to 10 to this team and you
+
+243
+00:10:20,079 --> 00:10:25,279
+can see the dates don't don't overlap
+
+244
+00:10:22,200 --> 00:10:27,320
+there um and then if I click on areas
+
+245
+00:10:25,279 --> 00:10:29,320
+you'll see I have one area assigned to
+
+246
+00:10:27,320 --> 00:10:31,560
+this team it's the default area and it's
+
+247
+00:10:29,320 --> 00:10:33,680
+for scrum Team 2 which matches the team
+
+248
+00:10:31,560 --> 00:10:38,600
+name so that's very straightforward and
+
+249
+00:10:33,680 --> 00:10:40,160
+very uh very simple in there if I were
+
+250
+00:10:38,600 --> 00:10:42,839
+to
+
+251
+00:10:40,160 --> 00:10:45,880
+switch to the kind of parents team that
+
+252
+00:10:42,839 --> 00:10:47,880
+is looking down uh across everything um
+
+253
+00:10:45,880 --> 00:10:50,839
+I have the main area path which is the
+
+254
+00:10:47,880 --> 00:10:53,360
+same as the project name uh here and
+
+255
+00:10:50,839 --> 00:10:55,560
+I've got sub areas are included so this
+
+256
+00:10:53,360 --> 00:10:58,399
+team will be able to see all of the sub
+
+257
+00:10:55,560 --> 00:11:00,040
+areas and in the iterations instead of
+
+258
+00:10:58,399 --> 00:11:02,360
+adding the individual Sprints cuz this
+
+259
+00:11:00,040 --> 00:11:04,240
+is like the higher level overview I'm
+
+260
+00:11:02,360 --> 00:11:06,680
+adding the seasons so if we're planning
+
+261
+00:11:04,240 --> 00:11:09,120
+the seasons uh we go to this level if
+
+262
+00:11:06,680 --> 00:11:11,839
+we're planning the Sprints uh we go to
+
+263
+00:11:09,120 --> 00:11:14,680
+the lower level um and I'll show you a
+
+264
+00:11:11,839 --> 00:11:17,680
+little bit how how that works maybe if
+
+265
+00:11:14,680 --> 00:11:20,680
+that works out so now you have an
+
+266
+00:11:17,680 --> 00:11:23,120
+understanding of hopefully of where to
+
+267
+00:11:20,680 --> 00:11:24,800
+go look to find the configurations where
+
+268
+00:11:23,120 --> 00:11:27,959
+to set up some of the things that will
+
+269
+00:11:24,800 --> 00:11:31,279
+manage the way your team looks each team
+
+270
+00:11:27,959 --> 00:11:33,839
+has its own area inside of this project
+
+271
+00:11:31,279 --> 00:11:36,160
+um and you can control what columns are
+
+272
+00:11:33,839 --> 00:11:38,800
+available on your backlog what columns
+
+273
+00:11:36,160 --> 00:11:42,720
+are available on your boards uh what how
+
+274
+00:11:38,800 --> 00:11:44,839
+how things are laid out um per team the
+
+275
+00:11:42,720 --> 00:11:47,360
+states on the work items are the same
+
+276
+00:11:44,839 --> 00:11:50,279
+across everybody so if we were doing
+
+277
+00:11:47,360 --> 00:11:52,279
+reporting across bunch of scrum teams we
+
+278
+00:11:50,279 --> 00:11:54,320
+would use the state-based
+
+279
+00:11:52,279 --> 00:11:57,600
+transition if we're doing reporting on
+
+280
+00:11:54,320 --> 00:12:00,200
+one scrum team uh we would just use the
+
+281
+00:11:57,600 --> 00:12:01,839
+column uh based transition
+
+282
+00:12:00,200 --> 00:12:05,839
+uh so I'm going to just go to the
+
+283
+00:12:01,839 --> 00:12:08,279
+backlog first for this uh team which
+
+284
+00:12:05,839 --> 00:12:11,320
+team I am scrum Team 2 perfect that's
+
+285
+00:12:08,279 --> 00:12:13,040
+the one I want to be looking at and the
+
+286
+00:12:11,320 --> 00:12:14,680
+first thing that we're probably going to
+
+287
+00:12:13,040 --> 00:12:17,519
+look at is is
+
+288
+00:12:14,680 --> 00:12:20,680
+refinement how do we do refinement in
+
+289
+00:12:17,519 --> 00:12:23,000
+Azure devops well refinement is all of
+
+290
+00:12:20,680 --> 00:12:26,240
+the work that we do against the product
+
+291
+00:12:23,000 --> 00:12:28,320
+backlog items as opposed to the ins
+
+292
+00:12:26,240 --> 00:12:30,360
+Sprint work which is against the product
+
+293
+00:12:28,320 --> 00:12:33,000
+itself right that results in the
+
+294
+00:12:30,360 --> 00:12:36,240
+increment we're all everybody on the
+
+295
+00:12:33,000 --> 00:12:38,720
+team the product owner the developers
+
+296
+00:12:36,240 --> 00:12:40,839
+perhaps other people um involved in this
+
+297
+00:12:38,720 --> 00:12:43,440
+story are going to be doing both of
+
+298
+00:12:40,839 --> 00:12:44,720
+those things all of the time uh some
+
+299
+00:12:43,440 --> 00:12:47,519
+people will spend more time in
+
+300
+00:12:44,720 --> 00:12:48,760
+refinement and less time in delivery uh
+
+301
+00:12:47,519 --> 00:12:50,760
+some teams we'll spend more time in
+
+302
+00:12:48,760 --> 00:12:52,639
+delivery and less time in refinement and
+
+303
+00:12:50,760 --> 00:12:56,240
+that's and perhaps it will change over
+
+304
+00:12:52,639 --> 00:12:58,680
+time that's just the way it is so during
+
+305
+00:12:56,240 --> 00:13:00,800
+refinement you're going to be um looking
+
+306
+00:12:58,680 --> 00:13:04,399
+at these back log items you're going to
+
+307
+00:13:00,800 --> 00:13:06,320
+be understanding what's coming up next
+
+308
+00:13:04,399 --> 00:13:09,279
+right how far into the future are you
+
+309
+00:13:06,320 --> 00:13:11,199
+looking um you might do some some
+
+310
+00:13:09,279 --> 00:13:14,519
+long-term planning you might do some
+
+311
+00:13:11,199 --> 00:13:18,880
+dependency management around these items
+
+312
+00:13:14,519 --> 00:13:21,399
+and your main friend here is the tagging
+
+313
+00:13:18,880 --> 00:13:23,720
+system this is your your main friend we
+
+314
+00:13:21,399 --> 00:13:28,040
+want to be able to manage this backlog
+
+315
+00:13:23,720 --> 00:13:29,639
+by filtering the items um filtering is
+
+316
+00:13:28,040 --> 00:13:32,720
+hugely important
+
+317
+00:13:29,639 --> 00:13:36,639
+because it allows us to group items that
+
+318
+00:13:32,720 --> 00:13:39,639
+might not be together in importance but
+
+319
+00:13:36,639 --> 00:13:43,079
+are together in another context another
+
+320
+00:13:39,639 --> 00:13:45,880
+type of slicing so for example um in
+
+321
+00:13:43,079 --> 00:13:48,680
+here um I have a bunch of tags uh
+
+322
+00:13:45,880 --> 00:13:51,199
+already added to these items uh so I
+
+323
+00:13:48,680 --> 00:13:53,000
+have a bunch of items that are um
+
+324
+00:13:51,199 --> 00:13:55,279
+associated with a particular product
+
+325
+00:13:53,000 --> 00:13:58,399
+that we're integrating in um so these
+
+326
+00:13:55,279 --> 00:14:00,120
+are these are integration points I have
+
+327
+00:13:58,399 --> 00:14:03,120
+uh uh some
+
+328
+00:14:00,120 --> 00:14:05,680
+different categorizations of work that
+
+329
+00:14:03,120 --> 00:14:08,079
+might be um have have have more
+
+330
+00:14:05,680 --> 00:14:11,360
+importance for certain groups of people
+
+331
+00:14:08,079 --> 00:14:15,759
+in here as well um so they can filter by
+
+332
+00:14:11,360 --> 00:14:18,639
+by their um slice um I have some work in
+
+333
+00:14:15,759 --> 00:14:21,399
+here that is to do with a particular
+
+334
+00:14:18,639 --> 00:14:24,320
+feature that we might be working on um
+
+335
+00:14:21,399 --> 00:14:25,639
+and I have some external stakeholders uh
+
+336
+00:14:24,320 --> 00:14:27,000
+to our team we've got some external
+
+337
+00:14:25,639 --> 00:14:30,040
+stakeholders to our team and some of
+
+338
+00:14:27,000 --> 00:14:32,120
+them are running projects that go across
+
+339
+00:14:30,040 --> 00:14:34,639
+the entire organization and a bunch of
+
+340
+00:14:32,120 --> 00:14:38,079
+different products our product might
+
+341
+00:14:34,639 --> 00:14:41,399
+have some work in it that we're doing to
+
+342
+00:14:38,079 --> 00:14:42,959
+support them um with our product and
+
+343
+00:14:41,399 --> 00:14:45,320
+they want to be able to see what's going
+
+344
+00:14:42,959 --> 00:14:47,000
+on ask us questions we want to
+
+345
+00:14:45,320 --> 00:14:49,120
+collaborate on those items so we want to
+
+346
+00:14:47,000 --> 00:14:50,880
+be able to filter on those items as well
+
+347
+00:14:49,120 --> 00:14:52,800
+so I'm going to show you how I can H do
+
+348
+00:14:50,880 --> 00:14:55,279
+some of those things in here uh right
+
+349
+00:14:52,800 --> 00:14:58,399
+now this is my backlog um this is an
+
+350
+00:14:55,279 --> 00:15:00,880
+ordered list no two have the same order
+
+351
+00:14:58,399 --> 00:15:03,639
+number and I can drag and drop these
+
+352
+00:15:00,880 --> 00:15:06,079
+around and put them in a different area
+
+353
+00:15:03,639 --> 00:15:08,600
+if I have a really big backlog don't
+
+354
+00:15:06,079 --> 00:15:10,680
+have one of those practice lean
+
+355
+00:15:08,600 --> 00:15:13,040
+inventory control but I can select a
+
+356
+00:15:10,680 --> 00:15:14,800
+bunch of items and I can move to a
+
+357
+00:15:13,040 --> 00:15:17,360
+particular position like in send to the
+
+358
+00:15:14,800 --> 00:15:20,120
+top or send it to um somewhere where
+
+359
+00:15:17,360 --> 00:15:21,720
+we're going to then do some fine grained
+
+360
+00:15:20,120 --> 00:15:23,680
+uh uh checking don't have that many
+
+361
+00:15:21,720 --> 00:15:26,240
+items that need to do that if you can't
+
+362
+00:15:23,680 --> 00:15:28,600
+actually grab it and drag it and scroll
+
+363
+00:15:26,240 --> 00:15:31,759
+you probably have too many items in your
+
+364
+00:15:28,600 --> 00:15:35,399
+back that's probably a good limus test
+
+365
+00:15:31,759 --> 00:15:37,480
+there uh so here I'm going to be um
+
+366
+00:15:35,399 --> 00:15:39,639
+filtering so over on the right hand side
+
+367
+00:15:37,480 --> 00:15:41,399
+here there's a filter button you can see
+
+368
+00:15:39,639 --> 00:15:44,040
+that highlighting I'm going to click on
+
+369
+00:15:41,399 --> 00:15:47,240
+filter and I'm going to do refinement
+
+370
+00:15:44,040 --> 00:15:49,720
+and we want to filter um by the thing
+
+371
+00:15:47,240 --> 00:15:52,199
+that we're looking at so uh the the
+
+372
+00:15:49,720 --> 00:15:55,160
+project manager who's running this cross
+
+373
+00:15:52,199 --> 00:15:57,399
+cutting uh a project who's been feeding
+
+374
+00:15:55,160 --> 00:15:59,240
+some items into our backlog is asking us
+
+375
+00:15:57,399 --> 00:16:00,959
+can we collaborate on some items can we
+
+376
+00:15:59,240 --> 00:16:02,399
+figure out if we can you know they need
+
+377
+00:16:00,959 --> 00:16:04,079
+to be different break them down do we
+
+378
+00:16:02,399 --> 00:16:05,759
+have the right thing we want to have a
+
+379
+00:16:04,079 --> 00:16:07,639
+conversation uh so we're going to get in
+
+380
+00:16:05,759 --> 00:16:09,399
+a room do a little bit of refinement and
+
+381
+00:16:07,639 --> 00:16:12,480
+I'm going to click on tags and I'm going
+
+382
+00:16:09,399 --> 00:16:14,319
+to find Project a there it is and I'm
+
+383
+00:16:12,480 --> 00:16:16,199
+going to filter by those items and we're
+
+384
+00:16:14,319 --> 00:16:18,600
+going to have a conversation about them
+
+385
+00:16:16,199 --> 00:16:21,399
+um it will show the actual order
+
+386
+00:16:18,600 --> 00:16:23,920
+relative to right so this is number 11
+
+387
+00:16:21,399 --> 00:16:27,199
+on the total backlog number one and two
+
+388
+00:16:23,920 --> 00:16:31,079
+are not part of this project right um if
+
+389
+00:16:27,199 --> 00:16:34,399
+I turn the filter off po take filter off
+
+390
+00:16:31,079 --> 00:16:36,040
+and take like uh the where's project
+
+391
+00:16:34,399 --> 00:16:38,120
+there's five project a I'm going to put
+
+392
+00:16:36,040 --> 00:16:41,160
+it way down here and then I'm going to
+
+393
+00:16:38,120 --> 00:16:43,519
+filter by project a again there we go H
+
+394
+00:16:41,160 --> 00:16:45,560
+you'll see there's that 24 10 and 24 cuz
+
+395
+00:16:43,519 --> 00:16:47,120
+I just moved that item further down so
+
+396
+00:16:45,560 --> 00:16:49,399
+now we can have a conversation about
+
+397
+00:16:47,120 --> 00:16:51,920
+relative uh to the rest of the backlog
+
+398
+00:16:49,399 --> 00:16:53,959
+where are these things um I can't drag
+
+399
+00:16:51,920 --> 00:16:55,920
+and drop these things around anymore it
+
+400
+00:16:53,959 --> 00:16:58,079
+won't actually let me do that I'll drop
+
+401
+00:16:55,920 --> 00:17:00,120
+it and nothing will happen um but I can
+
+402
+00:16:58,079 --> 00:17:02,519
+have a conversation around these items
+
+403
+00:17:00,120 --> 00:17:06,039
+we can open them up we can edit them we
+
+404
+00:17:02,519 --> 00:17:08,360
+can break one down into smaller ones we
+
+405
+00:17:06,039 --> 00:17:09,880
+can delete that other one we can we can
+
+406
+00:17:08,360 --> 00:17:13,439
+do anything we want at
+
+407
+00:17:09,880 --> 00:17:15,600
+this uh we might do some forward
+
+408
+00:17:13,439 --> 00:17:18,360
+planning um we might assign them to
+
+409
+00:17:15,600 --> 00:17:19,919
+different Sprints so it's quite easy to
+
+410
+00:17:18,360 --> 00:17:22,360
+do that on the right hand side I have a
+
+411
+00:17:19,919 --> 00:17:25,520
+planning panel um if I click on more
+
+412
+00:17:22,360 --> 00:17:28,640
+actions view options I can turn on and
+
+413
+00:17:25,520 --> 00:17:32,559
+off uh planning down here planning um is
+
+414
+00:17:28,640 --> 00:17:36,039
+quite useful um so I might say that uh
+
+415
+00:17:32,559 --> 00:17:38,919
+these two are in Sprint 7 uh these ones
+
+416
+00:17:36,039 --> 00:17:42,559
+here I probably can't oh I can do that
+
+417
+00:17:38,919 --> 00:17:44,679
+there we go are going to be in Sprint 8
+
+418
+00:17:42,559 --> 00:17:48,360
+and these two are going to be in Sprint
+
+419
+00:17:44,679 --> 00:17:49,919
+n um and that's through the conversation
+
+420
+00:17:48,360 --> 00:17:52,720
+uh We've we're working with the whole
+
+421
+00:17:49,919 --> 00:17:55,039
+team we've taken a guess at what these
+
+422
+00:17:52,720 --> 00:17:56,679
+things are so this is not they're not
+
+423
+00:17:55,039 --> 00:17:58,120
+actually going to be in that Sprint the
+
+424
+00:17:56,679 --> 00:17:59,559
+team still has to have a conversation
+
+425
+00:17:58,120 --> 00:18:01,120
+during Sprint plan
+
+426
+00:17:59,559 --> 00:18:02,960
+uh but I might be looking out a little
+
+427
+00:18:01,120 --> 00:18:06,159
+bit into the future seeing what's going
+
+428
+00:18:02,960 --> 00:18:09,159
+on figuring out um figuring out what's
+
+429
+00:18:06,159 --> 00:18:11,400
+happening now my filtering is way more
+
+430
+00:18:09,159 --> 00:18:14,559
+powerful that than that um I'm going to
+
+431
+00:18:11,400 --> 00:18:17,480
+take off uh uh project a uh what I might
+
+432
+00:18:14,559 --> 00:18:20,760
+have is I might say well I want to see
+
+433
+00:18:17,480 --> 00:18:24,400
+feature a and here's uh Feature Feature
+
+434
+00:18:20,760 --> 00:18:26,840
+A here and I want to say and uh comply
+
+435
+00:18:24,400 --> 00:18:29,039
+check there it is there's only one item
+
+436
+00:18:26,840 --> 00:18:30,840
+in feature a for comply check but if I
+
+437
+00:18:29,039 --> 00:18:33,720
+take off itay you can see the rest of
+
+438
+00:18:30,840 --> 00:18:35,799
+the comply check uh uh items here so you
+
+439
+00:18:33,720 --> 00:18:38,720
+can create multiple slices you can do
+
+440
+00:18:35,799 --> 00:18:40,760
+ORS or ands in how you view these slices
+
+441
+00:18:38,720 --> 00:18:42,159
+in your backlog um so that you can
+
+442
+00:18:40,760 --> 00:18:44,440
+decide what it is you're doing what
+
+443
+00:18:42,159 --> 00:18:45,679
+you're opening up what you're editing um
+
+444
+00:18:44,440 --> 00:18:48,000
+and what you're doing in here and you
+
+445
+00:18:45,679 --> 00:18:51,039
+can tag people and have conversations
+
+446
+00:18:48,000 --> 00:18:53,360
+and track uh those things as you're as
+
+447
+00:18:51,039 --> 00:18:57,720
+you're going through this is a really
+
+448
+00:18:53,360 --> 00:19:00,120
+powerful tool for for storing the result
+
+449
+00:18:57,720 --> 00:19:01,679
+of your refinement you still have to do
+
+450
+00:19:00,120 --> 00:19:04,840
+the
+
+451
+00:19:01,679 --> 00:19:07,360
+refinement so the first event uh that
+
+452
+00:19:04,840 --> 00:19:10,120
+you're going to do as a as a scrum team
+
+453
+00:19:07,360 --> 00:19:14,480
+is Sprint planning um and when you're
+
+454
+00:19:10,120 --> 00:19:16,240
+planning your Sprint um just as in
+
+455
+00:19:14,480 --> 00:19:18,280
+refinement you're going to need to look
+
+456
+00:19:16,240 --> 00:19:20,360
+at the contents of your Sprint you're
+
+457
+00:19:18,280 --> 00:19:22,400
+going to need to have a conversation
+
+458
+00:19:20,360 --> 00:19:24,520
+about what your Sprint goal is going to
+
+459
+00:19:22,400 --> 00:19:26,240
+be you're perhaps going to store your
+
+460
+00:19:24,520 --> 00:19:28,720
+Sprint goal somewhere and then you're
+
+461
+00:19:26,240 --> 00:19:30,039
+going to have a conversation about what
+
+462
+00:19:28,720 --> 00:19:32,440
+what do we need to do to fulfill that
+
+463
+00:19:30,039 --> 00:19:34,760
+Sprint goal and then what other sorts of
+
+464
+00:19:32,440 --> 00:19:37,480
+work are we going to take into the into
+
+465
+00:19:34,760 --> 00:19:40,520
+the Sprint as your devops is going to
+
+466
+00:19:37,480 --> 00:19:42,240
+store the outcome of that conversation
+
+467
+00:19:40,520 --> 00:19:43,919
+but you still need to have that
+
+468
+00:19:42,240 --> 00:19:47,320
+conversation facilitate that
+
+469
+00:19:43,919 --> 00:19:51,120
+conversation as a team um we might
+
+470
+00:19:47,320 --> 00:19:54,440
+decide that in order to um facilitate
+
+471
+00:19:51,120 --> 00:19:56,240
+this next uh uh Sprint the most
+
+472
+00:19:54,440 --> 00:19:58,840
+important thing that we can be working
+
+473
+00:19:56,240 --> 00:20:01,880
+on is the group of work that results in
+
+474
+00:19:58,840 --> 00:20:04,280
+feature a um we think we've got enough
+
+475
+00:20:01,880 --> 00:20:07,039
+together to be able to to create some
+
+476
+00:20:04,280 --> 00:20:08,880
+something viable value that we can ship
+
+477
+00:20:07,039 --> 00:20:12,200
+in our product and we think it fits
+
+478
+00:20:08,880 --> 00:20:13,799
+quite snugly into our Sprint with lots
+
+479
+00:20:12,200 --> 00:20:15,679
+of other room for other things that
+
+480
+00:20:13,799 --> 00:20:19,000
+we're going to do um so I'm going to
+
+481
+00:20:15,679 --> 00:20:21,559
+filter to feature a and here are the
+
+482
+00:20:19,000 --> 00:20:23,960
+items um that we're going to do we can
+
+483
+00:20:21,559 --> 00:20:25,640
+see there's a couple of items that are
+
+484
+00:20:23,960 --> 00:20:27,880
+left over from the previous Sprint
+
+485
+00:20:25,640 --> 00:20:29,039
+Sprint six was the last Sprint our our
+
+486
+00:20:27,880 --> 00:20:32,240
+current Sprint that we going to be
+
+487
+00:20:29,039 --> 00:20:34,200
+working on is Sprint 7 um and what I
+
+488
+00:20:32,240 --> 00:20:36,640
+actually want to do is move all of these
+
+489
+00:20:34,200 --> 00:20:38,159
+items into Sprint 7 so I'm just going to
+
+490
+00:20:36,640 --> 00:20:41,200
+drag and drop and you can see that's
+
+491
+00:20:38,159 --> 00:20:45,200
+updated that uh iteration path so you
+
+492
+00:20:41,200 --> 00:20:48,600
+can see there's uh What uh 1 2 3 4 5 6
+
+493
+00:20:45,200 --> 00:20:51,000
+sixish items um but we have 11 items
+
+494
+00:20:48,600 --> 00:20:52,039
+total in the Sprint that's fine these
+
+495
+00:20:51,000 --> 00:20:53,960
+are the things that are going to be our
+
+496
+00:20:52,039 --> 00:20:57,120
+Sprint goal we're going to commit to our
+
+497
+00:20:53,960 --> 00:20:59,360
+Sprint goal if anything happens that's
+
+498
+00:20:57,120 --> 00:21:02,000
+unto we're going to focus on the Sprint
+
+499
+00:20:59,360 --> 00:21:03,919
+goal and other things drop away this is
+
+500
+00:21:02,000 --> 00:21:06,360
+our one most important thing that we're
+
+501
+00:21:03,919 --> 00:21:08,000
+going to do you might have multiple
+
+502
+00:21:06,360 --> 00:21:11,320
+things that you're going to do in a
+
+503
+00:21:08,000 --> 00:21:13,080
+Sprint but pick one as this is the one
+
+504
+00:21:11,320 --> 00:21:15,600
+that we're going to prioritize over all
+
+505
+00:21:13,080 --> 00:21:17,440
+other things if we have to make choices
+
+506
+00:21:15,600 --> 00:21:20,640
+hopefully everything goes great and we
+
+507
+00:21:17,440 --> 00:21:24,080
+don't have to make choices uh but not
+
+508
+00:21:20,640 --> 00:21:26,320
+everything always goes great right um so
+
+509
+00:21:24,080 --> 00:21:28,640
+those have been moved into the Sprint I
+
+510
+00:21:26,320 --> 00:21:31,240
+can actually now click on sprints on the
+
+511
+00:21:28,640 --> 00:21:34,120
+left there and it should default to
+
+512
+00:21:31,240 --> 00:21:36,559
+Sprint 7 which is our current Sprint and
+
+513
+00:21:34,120 --> 00:21:39,320
+now I can see just the work that has
+
+514
+00:21:36,559 --> 00:21:41,480
+been assigned to the Sprint uh these
+
+515
+00:21:39,320 --> 00:21:43,919
+things should be approved I've not
+
+516
+00:21:41,480 --> 00:21:48,799
+actually done that yet so I'm just going
+
+517
+00:21:43,919 --> 00:21:51,279
+to edit that state and move them uh to
+
+518
+00:21:48,799 --> 00:21:55,200
+approved State
+
+519
+00:21:51,279 --> 00:21:57,600
+cuz approved there we go I've just moved
+
+520
+00:21:55,200 --> 00:21:58,760
+them all to approved that works cuz why
+
+521
+00:21:57,600 --> 00:22:00,640
+would you bring stuff that's not
+
+522
+00:21:58,760 --> 00:22:03,799
+approved into the Sprint right that's
+
+523
+00:22:00,640 --> 00:22:05,559
+data cleanliness uh problems creeping in
+
+524
+00:22:03,799 --> 00:22:07,919
+um and we you'll see that a few times as
+
+525
+00:22:05,559 --> 00:22:12,840
+we go through I'll always try and fix it
+
+526
+00:22:07,919 --> 00:22:14,880
+as I go um because the demo Gods right
+
+527
+00:22:12,840 --> 00:22:16,000
+um so we do have a couple of items that
+
+528
+00:22:14,880 --> 00:22:18,360
+were brought over from the previous
+
+529
+00:22:16,000 --> 00:22:20,400
+Sprint this is totally fine if you have
+
+530
+00:22:18,360 --> 00:22:24,120
+a flow focus and you're modeling the
+
+531
+00:22:20,400 --> 00:22:26,559
+flow of work Sprint planning is the end
+
+532
+00:22:24,120 --> 00:22:29,279
+of the Sprint is not like a a hard
+
+533
+00:22:26,559 --> 00:22:31,760
+deadline you're going to have activities
+
+534
+00:22:29,279 --> 00:22:33,279
+you're going to have H changes that are
+
+535
+00:22:31,760 --> 00:22:35,600
+going to take multiple Sprints to be
+
+536
+00:22:33,279 --> 00:22:38,240
+able to deliver and if you're 3 days
+
+537
+00:22:35,600 --> 00:22:40,480
+before the end of a Sprint and there's
+
+538
+00:22:38,240 --> 00:22:41,720
+the next most important thing that's the
+
+539
+00:22:40,480 --> 00:22:43,120
+product owner there we have a
+
+540
+00:22:41,720 --> 00:22:46,360
+conversation the next most important
+
+541
+00:22:43,120 --> 00:22:48,799
+thing is a six- day task um sure we can
+
+542
+00:22:46,360 --> 00:22:51,000
+start it and that's totally fine and it
+
+543
+00:22:48,799 --> 00:22:53,760
+will just flow into the next Sprint that
+
+544
+00:22:51,000 --> 00:22:56,440
+is predicated on us having awesome
+
+545
+00:22:53,760 --> 00:22:58,559
+engineering practices where we can hide
+
+546
+00:22:56,440 --> 00:23:00,600
+that behind feature Flags so we can
+
+547
+00:22:58,559 --> 00:23:02,960
+still continuously shipped to production
+
+548
+00:23:00,600 --> 00:23:06,559
+we still have a usable working increment
+
+549
+00:23:02,960 --> 00:23:09,120
+at least for the Sprint review um while
+
+550
+00:23:06,559 --> 00:23:11,679
+still continuing to do work but maybe we
+
+551
+00:23:09,120 --> 00:23:13,640
+take that cut of the usable working
+
+552
+00:23:11,679 --> 00:23:16,200
+increment if that's how we're working we
+
+553
+00:23:13,640 --> 00:23:17,799
+take that cut uh prior to starting that
+
+554
+00:23:16,200 --> 00:23:19,400
+work and that's the version that we're
+
+555
+00:23:17,799 --> 00:23:21,159
+going to show at the Sprint review and
+
+556
+00:23:19,400 --> 00:23:22,480
+then we're going to start some more work
+
+557
+00:23:21,159 --> 00:23:25,159
+that is going to lead into the next
+
+558
+00:23:22,480 --> 00:23:27,679
+Point that's totally totally fine do it
+
+559
+00:23:25,159 --> 00:23:30,320
+as you as you see fit as long as you
+
+560
+00:23:27,679 --> 00:23:32,000
+have that us working increment that's of
+
+561
+00:23:30,320 --> 00:23:35,799
+value to somebody to show at the Sprint
+
+562
+00:23:32,000 --> 00:23:36,960
+review um all of that is is is okay it's
+
+563
+00:23:35,799 --> 00:23:40,120
+okay to do
+
+564
+00:23:36,960 --> 00:23:43,000
+that uh so here I have these items uh we
+
+565
+00:23:40,120 --> 00:23:46,279
+can reorder them inside of this at
+
+566
+00:23:43,000 --> 00:23:48,559
+Sprint backlog um that will affect the
+
+567
+00:23:46,279 --> 00:23:51,600
+product backlog so just be careful with
+
+568
+00:23:48,559 --> 00:23:56,039
+that and we can maybe create some kind
+
+569
+00:23:51,600 --> 00:23:59,960
+of plan to complete these items um if I
+
+570
+00:23:56,039 --> 00:24:01,600
+add I should be able to add tag tags on
+
+571
+00:23:59,960 --> 00:24:03,360
+here
+
+572
+00:24:01,600 --> 00:24:08,400
+tags
+
+573
+00:24:03,360 --> 00:24:12,760
+tags uh and oh joy that's uh there we
+
+574
+00:24:08,400 --> 00:24:14,640
+go I don't know why I did that joys of
+
+575
+00:24:12,760 --> 00:24:17,720
+JavaScript o
+
+576
+00:24:14,640 --> 00:24:19,720
+lovely uh so we'll be able to see what
+
+577
+00:24:17,720 --> 00:24:22,000
+features we've got I should be able to
+
+578
+00:24:19,720 --> 00:24:24,039
+filter these by tags so there's the
+
+579
+00:24:22,000 --> 00:24:25,440
+important stuff for feature a and then
+
+580
+00:24:24,039 --> 00:24:27,760
+there's all of the stuff that we're
+
+581
+00:24:25,440 --> 00:24:30,200
+going to be working on um during this
+
+582
+00:24:27,760 --> 00:24:32,559
+Sprint great we're going to create a
+
+583
+00:24:30,200 --> 00:24:35,679
+plan uh to complete those items that
+
+584
+00:24:32,559 --> 00:24:39,080
+could just be a whiteboard plan that we
+
+585
+00:24:35,679 --> 00:24:43,399
+agree as a team or if you do want you
+
+586
+00:24:39,080 --> 00:24:45,640
+can create subtasks for these items um
+
+587
+00:24:43,399 --> 00:24:48,720
+you can do that uh by clicking on the
+
+588
+00:24:45,640 --> 00:24:50,760
+taskboard here um and in the taskboard
+
+589
+00:24:48,720 --> 00:24:53,480
+you'll see the items pinned to the left
+
+590
+00:24:50,760 --> 00:24:56,520
+and you're able to add uh tasks to this
+
+591
+00:24:53,480 --> 00:24:59,000
+board you don't have to do tasks I
+
+592
+00:24:56,520 --> 00:25:01,760
+generally don't recommend using this
+
+593
+00:24:59,000 --> 00:25:04,399
+board apart from for planning purposes
+
+594
+00:25:01,760 --> 00:25:06,679
+um it's quite useful for that in general
+
+595
+00:25:04,399 --> 00:25:09,200
+I'm going to be focusing on the flow of
+
+596
+00:25:06,679 --> 00:25:12,000
+value through the system um but during
+
+597
+00:25:09,200 --> 00:25:14,600
+Sprint planning um I might indeed uh use
+
+598
+00:25:12,000 --> 00:25:14,600
+some of these
+
+599
+00:25:15,520 --> 00:25:20,600
+ideas the second event that you're going
+
+600
+00:25:18,000 --> 00:25:24,000
+to hit and you're going to hit it loads
+
+601
+00:25:20,600 --> 00:25:26,559
+of times is your daily scrum uh when you
+
+602
+00:25:24,000 --> 00:25:28,840
+get into your daily scrum the probably
+
+603
+00:25:26,559 --> 00:25:31,279
+one of the better views
+
+604
+00:25:28,840 --> 00:25:34,840
+is the board view so you're going to be
+
+605
+00:25:31,279 --> 00:25:36,840
+looking at this board and seeing what's
+
+606
+00:25:34,840 --> 00:25:40,000
+happening with the flow of work trying
+
+607
+00:25:36,840 --> 00:25:42,120
+to identify if there are any issues in
+
+608
+00:25:40,000 --> 00:25:43,880
+your board and you can remember if I I
+
+609
+00:25:42,120 --> 00:25:46,520
+marked all those items as active and
+
+610
+00:25:43,880 --> 00:25:48,840
+I've hit the whip limit um because I'm
+
+611
+00:25:46,520 --> 00:25:52,159
+silly and I haven't Built My Board very
+
+612
+00:25:48,840 --> 00:25:54,080
+well at the moment but this is just a
+
+613
+00:25:52,159 --> 00:25:57,120
+the default board if you remember the
+
+614
+00:25:54,080 --> 00:26:00,399
+states on the work items new approved in
+
+615
+00:25:57,120 --> 00:26:03,080
+progress done if you're using um flow
+
+616
+00:26:00,399 --> 00:26:06,840
+metrics then the flow metrics that come
+
+617
+00:26:03,080 --> 00:26:09,919
+out of the box in Azure devops uh if I
+
+618
+00:26:06,840 --> 00:26:13,440
+do this uh the flow metrics start at a
+
+619
+00:26:09,919 --> 00:26:17,559
+particular time so H you've got cycle
+
+620
+00:26:13,440 --> 00:26:19,840
+time and lead time now we all know that
+
+621
+00:26:17,559 --> 00:26:23,080
+lead time is a special type of cycle
+
+622
+00:26:19,840 --> 00:26:25,480
+time and they're all cycle times if I do
+
+623
+00:26:23,080 --> 00:26:28,600
+into approved to leaving approved that's
+
+624
+00:26:25,480 --> 00:26:30,440
+a cycle time but those words have been
+
+625
+00:26:28,600 --> 00:26:32,720
+defined within the context of azure
+
+626
+00:26:30,440 --> 00:26:38,000
+devops for their reporting and if you
+
+627
+00:26:32,720 --> 00:26:41,559
+put on a cycle time um graph cycle time
+
+628
+00:26:38,000 --> 00:26:44,320
+graph is between uh these two oh that's
+
+629
+00:26:41,559 --> 00:26:47,960
+actually not in tall it's between these
+
+630
+00:26:44,320 --> 00:26:50,720
+two points okay so when it moves into
+
+631
+00:26:47,960 --> 00:26:52,279
+impr progress um the cycle time timer
+
+632
+00:26:50,720 --> 00:26:54,840
+will start when it moves out of impr
+
+633
+00:26:52,279 --> 00:26:57,039
+progress T cycle time start timer will
+
+634
+00:26:54,840 --> 00:27:00,200
+finish and this line over here is the
+
+635
+00:26:57,039 --> 00:27:03,080
+lead time so as soon as it crosses into
+
+636
+00:27:00,200 --> 00:27:06,919
+new your timer starting that's not
+
+637
+00:27:03,080 --> 00:27:09,880
+always ideal uh I do recommend using a
+
+638
+00:27:06,919 --> 00:27:12,320
+tool called actionable agile I'll cover
+
+639
+00:27:09,880 --> 00:27:16,240
+that in another video uh but it does
+
+640
+00:27:12,320 --> 00:27:19,120
+allow you a lot more flexibility in how
+
+641
+00:27:16,240 --> 00:27:21,440
+you want to report on this data and how
+
+642
+00:27:19,120 --> 00:27:23,679
+it gives you more insights into what's
+
+643
+00:27:21,440 --> 00:27:26,159
+going on but for this video I'm going to
+
+644
+00:27:23,679 --> 00:27:28,200
+show you the outof the Box uh
+
+645
+00:27:26,159 --> 00:27:31,480
+capabilities so one of the things that I
+
+646
+00:27:28,200 --> 00:27:34,200
+we would expect to do as a team is have
+
+647
+00:27:31,480 --> 00:27:36,760
+perhaps a more interesting board a
+
+648
+00:27:34,200 --> 00:27:38,279
+little bit more planning going on um a
+
+649
+00:27:36,760 --> 00:27:40,320
+little bit more decision rather than
+
+650
+00:27:38,279 --> 00:27:42,600
+just using the out of thebox States
+
+651
+00:27:40,320 --> 00:27:45,720
+these are the minimum States uh that
+
+652
+00:27:42,600 --> 00:27:48,600
+work goes through I highly recommend not
+
+653
+00:27:45,720 --> 00:27:52,679
+adding more states to the process but
+
+654
+00:27:48,600 --> 00:27:54,919
+instead just uh columns to the board if
+
+655
+00:27:52,679 --> 00:27:57,640
+you have a state that has to be true
+
+656
+00:27:54,919 --> 00:28:01,039
+across that every work item will go
+
+657
+00:27:57,640 --> 00:28:03,240
+through that State and you want it to be
+
+658
+00:28:01,039 --> 00:28:05,200
+applied to every team then add a
+
+659
+00:28:03,240 --> 00:28:07,840
+customization but don't do a
+
+660
+00:28:05,200 --> 00:28:10,399
+customization for like blocked that
+
+661
+00:28:07,840 --> 00:28:14,720
+should be a tag don't do a customization
+
+662
+00:28:10,399 --> 00:28:18,159
+for on hold or any intermittent states
+
+663
+00:28:14,720 --> 00:28:20,919
+that a piece of work might not enter the
+
+664
+00:28:18,159 --> 00:28:23,159
+states on your board should be a card
+
+665
+00:28:20,919 --> 00:28:26,880
+should flow from left to write through
+
+666
+00:28:23,159 --> 00:28:28,679
+all of the states ideally um so this
+
+667
+00:28:26,880 --> 00:28:30,559
+should be the common cause and then we
+
+668
+00:28:28,679 --> 00:28:32,559
+can deal with exceptions separately
+
+669
+00:28:30,559 --> 00:28:35,480
+preferably using tags I'll show you that
+
+670
+00:28:32,559 --> 00:28:37,480
+in a minute but what I want to do for my
+
+671
+00:28:35,480 --> 00:28:40,000
+for my daily I'm going to be looking at
+
+672
+00:28:37,480 --> 00:28:42,200
+the things uh that are in progress
+
+673
+00:28:40,000 --> 00:28:44,480
+you'll remember that I had some stuff
+
+674
+00:28:42,200 --> 00:28:48,919
+that's approved that we haven't started
+
+675
+00:28:44,480 --> 00:28:50,960
+yet if we've not augmented this board I
+
+676
+00:28:48,919 --> 00:28:53,000
+would probably move all of those items
+
+677
+00:28:50,960 --> 00:28:55,799
+to impr progress as soon as they hit the
+
+678
+00:28:53,000 --> 00:28:59,080
+Sprint but I don't want to do that that
+
+679
+00:28:55,799 --> 00:29:00,960
+seems to me a little bit um basic so
+
+680
+00:28:59,080 --> 00:29:03,720
+what I want to do instead is I want to
+
+681
+00:29:00,960 --> 00:29:06,720
+take this in progress column and I want
+
+682
+00:29:03,720 --> 00:29:09,279
+to split it into multiple columns so I'm
+
+683
+00:29:06,720 --> 00:29:11,919
+going to do that now so if you go over
+
+684
+00:29:09,279 --> 00:29:14,120
+to the the little Cog on the top right
+
+685
+00:29:11,919 --> 00:29:17,039
+this is for my for my
+
+686
+00:29:14,120 --> 00:29:19,200
+daily um you're going to see lots of
+
+687
+00:29:17,039 --> 00:29:21,960
+options now we can customize uh the
+
+688
+00:29:19,200 --> 00:29:24,399
+fields that are available on uh the work
+
+689
+00:29:21,960 --> 00:29:27,519
+item so we can add additional Fields uh
+
+690
+00:29:24,399 --> 00:29:29,600
+we can customize add some style rules
+
+691
+00:29:27,519 --> 00:29:32,559
+that can apply apply either to the color
+
+692
+00:29:29,600 --> 00:29:35,000
+of the card or titles we can apply style
+
+693
+00:29:32,559 --> 00:29:38,960
+rules based on field values on whatever
+
+694
+00:29:35,000 --> 00:29:42,720
+it is we want uh we can add tag colors
+
+695
+00:29:38,960 --> 00:29:44,480
+my favorite one is I've always oh uh I
+
+696
+00:29:42,720 --> 00:29:46,480
+don't have a block I haven't added
+
+697
+00:29:44,480 --> 00:29:48,559
+blocks to anything uh but I'm going to
+
+698
+00:29:46,480 --> 00:29:51,279
+add a blocked color make it like some
+
+699
+00:29:48,559 --> 00:29:54,880
+really bright red um that's going to be
+
+700
+00:29:51,279 --> 00:29:56,799
+my um that's going to highlight any
+
+701
+00:29:54,880 --> 00:29:59,240
+blocked items on my board give you a
+
+702
+00:29:56,799 --> 00:30:02,000
+visual indicator um you have some
+
+703
+00:29:59,240 --> 00:30:03,919
+annotations subtasks can be added on
+
+704
+00:30:02,000 --> 00:30:07,240
+here as well I've got that added I'll
+
+705
+00:30:03,919 --> 00:30:09,399
+show you how that works um for creating
+
+706
+00:30:07,240 --> 00:30:10,600
+creating the plan or changing the plan
+
+707
+00:30:09,399 --> 00:30:12,880
+um and what we're going to do is we're
+
+708
+00:30:10,600 --> 00:30:14,960
+going to add an additional column so I
+
+709
+00:30:12,880 --> 00:30:19,240
+want to take H impr progress and I kind
+
+710
+00:30:14,960 --> 00:30:23,159
+of want to uh split it I want to H what
+
+711
+00:30:19,240 --> 00:30:28,320
+am I going to do let's split it into
+
+712
+00:30:23,159 --> 00:30:30,519
+um options I guess so let's change this
+
+713
+00:30:28,320 --> 00:30:33,080
+to options because we want things to be
+
+714
+00:30:30,519 --> 00:30:35,440
+coming into our Sprint and then we're
+
+715
+00:30:33,080 --> 00:30:36,880
+going to pick from those options and
+
+716
+00:30:35,440 --> 00:30:40,200
+then we're going to replenish those
+
+717
+00:30:36,880 --> 00:30:42,559
+options uh during Sprint planning right
+
+718
+00:30:40,200 --> 00:30:44,039
+that's our that's our a general cycle we
+
+719
+00:30:42,559 --> 00:30:46,679
+can replenish any time but that's our
+
+720
+00:30:44,039 --> 00:30:49,440
+general cycle uh so this is going to be
+
+721
+00:30:46,679 --> 00:30:52,440
+in the in progress State there you can
+
+722
+00:30:49,440 --> 00:30:54,640
+see the mapping of the states on the
+
+723
+00:30:52,440 --> 00:30:56,240
+work item to the name of the column so
+
+724
+00:30:54,640 --> 00:30:58,919
+what I'm going to do is I'm going to add
+
+725
+00:30:56,240 --> 00:31:02,360
+a new column going to insert right and
+
+726
+00:30:58,919 --> 00:31:04,799
+this new column is also going to be for
+
+727
+00:31:02,360 --> 00:31:06,320
+in progress for both work items but what
+
+728
+00:31:04,799 --> 00:31:10,600
+are we going to call it
+
+729
+00:31:06,320 --> 00:31:10,600
+options um let's call
+
+730
+00:31:11,320 --> 00:31:16,440
+this develop I can't spell let's just
+
+731
+00:31:14,519 --> 00:31:19,120
+call it develop I definitely can't spell
+
+732
+00:31:16,440 --> 00:31:20,840
+so you'll see that as well throughout uh
+
+733
+00:31:19,120 --> 00:31:24,679
+develop and then we're going to put a
+
+734
+00:31:20,840 --> 00:31:28,919
+new one to the right called
+
+735
+00:31:24,679 --> 00:31:31,919
+validat y um and develop is going to be
+
+736
+00:31:28,919 --> 00:31:33,559
+split into doing and done columns but
+
+737
+00:31:31,919 --> 00:31:36,840
+validate isn't yeah that's what I'm
+
+738
+00:31:33,559 --> 00:31:38,919
+going to do so now uh obviously this
+
+739
+00:31:36,840 --> 00:31:40,679
+would not be done arbitrarily your team
+
+740
+00:31:38,919 --> 00:31:43,360
+would get together and have an agreement
+
+741
+00:31:40,679 --> 00:31:45,559
+on what this is uh but now I have my
+
+742
+00:31:43,360 --> 00:31:49,080
+options column so what I'm going to do
+
+743
+00:31:45,559 --> 00:31:52,279
+is I'm going to move um all of those
+
+744
+00:31:49,080 --> 00:31:55,440
+items that I wanted in this Sprint into
+
+745
+00:31:52,279 --> 00:31:57,399
+the options column um yeah that's what
+
+746
+00:31:55,440 --> 00:31:59,880
+I'm going to do for this one I actually
+
+747
+00:31:57,399 --> 00:32:01,200
+have a idea for how I would set this up
+
+748
+00:31:59,880 --> 00:32:04,600
+but again that should come out in the
+
+749
+00:32:01,200 --> 00:32:09,919
+wash so I'm going to move all of these
+
+750
+00:32:04,600 --> 00:32:12,559
+uh state to in
+
+751
+00:32:09,919 --> 00:32:14,120
+progress so this is me starting all the
+
+752
+00:32:12,559 --> 00:32:16,840
+work at the beginning of the Sprint not
+
+753
+00:32:14,120 --> 00:32:19,399
+always the best one for flow um but you
+
+754
+00:32:16,840 --> 00:32:22,760
+can plan around that so see everything's
+
+755
+00:32:19,399 --> 00:32:25,519
+jumped over uh into options so now we
+
+756
+00:32:22,760 --> 00:32:27,559
+can say um I'm going to pull this into
+
+757
+00:32:25,519 --> 00:32:30,279
+doing for develop and we're going to
+
+758
+00:32:27,559 --> 00:32:31,960
+have few items in there I'm going to
+
+759
+00:32:30,279 --> 00:32:36,039
+push a few items in here just so the
+
+760
+00:32:31,960 --> 00:32:38,120
+board looks a bit nicer just for fun um
+
+761
+00:32:36,039 --> 00:32:40,000
+and then as things move across the board
+
+762
+00:32:38,120 --> 00:32:43,279
+I've got my options which is my Sprint
+
+763
+00:32:40,000 --> 00:32:45,480
+backlog um I'm going to pull things into
+
+764
+00:32:43,279 --> 00:32:49,399
+develop um and I'm going
+
+765
+00:32:45,480 --> 00:32:51,279
+to do something in there okay and then
+
+766
+00:32:49,399 --> 00:32:54,360
+things are going to move into develop
+
+767
+00:32:51,279 --> 00:32:56,360
+done I we've done the work and we we
+
+768
+00:32:54,360 --> 00:32:58,080
+think it's finished and then at some
+
+769
+00:32:56,360 --> 00:33:00,760
+point we're going to pull things from
+
+770
+00:32:58,080 --> 00:33:02,519
+done into validate and somebody's going
+
+771
+00:33:00,760 --> 00:33:05,039
+to do some validation could be any
+
+772
+00:33:02,519 --> 00:33:07,399
+member of the team is going to uh maybe
+
+773
+00:33:05,039 --> 00:33:09,320
+the basic Val validation that we do is
+
+774
+00:33:07,399 --> 00:33:11,880
+we check against the definition of done
+
+775
+00:33:09,320 --> 00:33:14,080
+right let's double check let's double
+
+776
+00:33:11,880 --> 00:33:16,080
+make sure um that things meet the
+
+777
+00:33:14,080 --> 00:33:18,279
+definition of done if it does meet the
+
+778
+00:33:16,080 --> 00:33:20,399
+definition of done we then push it into
+
+779
+00:33:18,279 --> 00:33:22,200
+done and I don't know if you saw that
+
+780
+00:33:20,399 --> 00:33:25,360
+but as soon as I pushed it into done the
+
+781
+00:33:22,200 --> 00:33:27,799
+states changed to done so the columns
+
+782
+00:33:25,360 --> 00:33:30,799
+here if I I'm just going to take an item
+
+783
+00:33:27,799 --> 00:33:33,760
+I'm going to highlight it uh let's
+
+784
+00:33:30,799 --> 00:33:33,760
+highlight it as
+
+785
+00:33:34,039 --> 00:33:40,480
+blocked cuz I just want you to be able
+
+786
+00:33:36,080 --> 00:33:43,639
+to see it there we go so I have this red
+
+787
+00:33:40,480 --> 00:33:45,960
+this is the red card right um it's in
+
+788
+00:33:43,639 --> 00:33:48,120
+approved in this column and when I move
+
+789
+00:33:45,960 --> 00:33:51,120
+it into options it moves to impr
+
+790
+00:33:48,120 --> 00:33:53,679
+progress right as soon as I move it into
+
+791
+00:33:51,120 --> 00:33:56,360
+develop the in progress doesn't change
+
+792
+00:33:53,679 --> 00:33:58,799
+cuz these three columns are all an in
+
+793
+00:33:56,360 --> 00:34:02,399
+progress uh
+
+794
+00:33:58,799 --> 00:34:06,679
+validate oh see this is how why you test
+
+795
+00:34:02,399 --> 00:34:08,679
+stuff I put that let's move that back
+
+796
+00:34:06,679 --> 00:34:12,760
+fix that validate column I did that
+
+797
+00:34:08,679 --> 00:34:16,240
+wrong P approved in oh in progress yes I
+
+798
+00:34:12,760 --> 00:34:18,520
+know save that there we go now I can
+
+799
+00:34:16,240 --> 00:34:20,520
+take that column and put it in validate
+
+800
+00:34:18,520 --> 00:34:23,280
+and it ends up in progress there we go
+
+801
+00:34:20,520 --> 00:34:25,119
+perfect oh um and it's still in progress
+
+802
+00:34:23,280 --> 00:34:29,079
+and as soon as that moves over here it's
+
+803
+00:34:25,119 --> 00:34:31,800
+then marked as done okay so now I can
+
+804
+00:34:29,079 --> 00:34:34,000
+look at this board during uh my daily I
+
+805
+00:34:31,800 --> 00:34:37,720
+can see what's going on I can see the
+
+806
+00:34:34,000 --> 00:34:40,760
+work uh flowing across the
+
+807
+00:34:37,720 --> 00:34:41,720
+board the next event Instagram is the
+
+808
+00:34:40,760 --> 00:34:45,000
+Sprint
+
+809
+00:34:41,720 --> 00:34:46,639
+review uh there are some data points
+
+810
+00:34:45,000 --> 00:34:48,960
+that you might might want to look at in
+
+811
+00:34:46,639 --> 00:34:51,879
+the Sprint review most of those I would
+
+812
+00:34:48,960 --> 00:34:53,599
+get actually from actionable agile again
+
+813
+00:34:51,879 --> 00:34:55,639
+um but there are probably some things
+
+814
+00:34:53,599 --> 00:34:58,320
+that I'm going to look at I might jump
+
+815
+00:34:55,639 --> 00:35:01,359
+over to my uh Sprint and I'm going to
+
+816
+00:34:58,320 --> 00:35:03,839
+say what of these items is done and I'm
+
+817
+00:35:01,359 --> 00:35:06,560
+going to I'm going to cheat I'm going to
+
+818
+00:35:03,839 --> 00:35:09,079
+change the tag to that uh not project a
+
+819
+00:35:06,560 --> 00:35:12,680
+feature a and we're going to mark all of
+
+820
+00:35:09,079 --> 00:35:15,680
+those things as uh
+
+821
+00:35:12,680 --> 00:35:15,680
+State
+
+822
+00:35:15,920 --> 00:35:21,880
+done there we go and then I'm going to
+
+823
+00:35:19,280 --> 00:35:24,970
+so during this Sprint we managed to get
+
+824
+00:35:21,880 --> 00:35:26,200
+all of the things uh for our
+
+825
+00:35:24,970 --> 00:35:29,560
+[Music]
+
+826
+00:35:26,200 --> 00:35:31,720
+um spring goal completed so they're all
+
+827
+00:35:29,560 --> 00:35:33,280
+marked as done we're all good to go
+
+828
+00:35:31,720 --> 00:35:35,480
+that's what we're going to show the
+
+829
+00:35:33,280 --> 00:35:38,040
+stakeholders and separately we're going
+
+830
+00:35:35,480 --> 00:35:40,160
+to do uh perhaps we're going to do a
+
+831
+00:35:38,040 --> 00:35:43,240
+demo um we're going
+
+832
+00:35:40,160 --> 00:35:46,160
+to show what was created against what
+
+833
+00:35:43,240 --> 00:35:48,440
+we've got in here but then the next part
+
+834
+00:35:46,160 --> 00:35:50,760
+of our Sprint uh review which is
+
+835
+00:35:48,440 --> 00:35:53,880
+arguably the most important part is we
+
+836
+00:35:50,760 --> 00:35:56,640
+need to figure out whether our product
+
+837
+00:35:53,880 --> 00:35:59,000
+back clog still
+
+838
+00:35:56,640 --> 00:36:00,800
+reflects transparency of the future
+
+839
+00:35:59,000 --> 00:36:02,000
+still reflects the work we have to do
+
+840
+00:36:00,800 --> 00:36:04,200
+next so we're going to have
+
+841
+00:36:02,000 --> 00:36:06,640
+conversations with the stakeholders uh
+
+842
+00:36:04,200 --> 00:36:08,079
+that come to our uh Sprint review um
+
+843
+00:36:06,640 --> 00:36:09,400
+with the team we're going to collaborate
+
+844
+00:36:08,079 --> 00:36:11,440
+on what's happening in the business
+
+845
+00:36:09,400 --> 00:36:12,839
+what's happening in the market uh what's
+
+846
+00:36:11,440 --> 00:36:14,720
+happened in the product what are the
+
+847
+00:36:12,839 --> 00:36:16,560
+choices that we've made we're going to
+
+848
+00:36:14,720 --> 00:36:19,640
+put that all together in a big Melting
+
+849
+00:36:16,560 --> 00:36:23,119
+Pot and we're going to go update uh the
+
+850
+00:36:19,640 --> 00:36:25,560
+product backlog which it looks like I
+
+851
+00:36:23,119 --> 00:36:27,800
+have uh oh cuz it's got a filter on
+
+852
+00:36:25,560 --> 00:36:29,800
+there that's why there we go we're going
+
+853
+00:36:27,800 --> 00:36:31,599
+to go update the product backlog so the
+
+854
+00:36:29,800 --> 00:36:33,599
+product backlog is not going to include
+
+855
+00:36:31,599 --> 00:36:35,040
+any of the items that are already done
+
+856
+00:36:33,599 --> 00:36:37,760
+it's going to include the items that are
+
+857
+00:36:35,040 --> 00:36:39,720
+still to do and since these are in
+
+858
+00:36:37,760 --> 00:36:42,440
+progress I might like to actually just
+
+859
+00:36:39,720 --> 00:36:44,839
+stick them up the top there we go and
+
+860
+00:36:42,440 --> 00:36:46,280
+now we're probably definitely going to
+
+861
+00:36:44,839 --> 00:36:49,359
+do these things they've already been
+
+862
+00:36:46,280 --> 00:36:52,160
+started I'll perhaps show you how to not
+
+863
+00:36:49,359 --> 00:36:55,079
+have to have them started and then um
+
+864
+00:36:52,160 --> 00:36:57,839
+I've got some uh work here that is
+
+865
+00:36:55,079 --> 00:37:01,160
+coming up next this has been approved we
+
+866
+00:36:57,839 --> 00:37:03,480
+need to go refine these items um we need
+
+867
+00:37:01,160 --> 00:37:06,920
+to have this conversation during Sprint
+
+868
+00:37:03,480 --> 00:37:09,800
+um review where we talk about um what
+
+869
+00:37:06,920 --> 00:37:12,880
+needs to change here and I want would
+
+870
+00:37:09,800 --> 00:37:15,680
+like to see um physical changes in the
+
+871
+00:37:12,880 --> 00:37:18,480
+product backlog during that event
+
+872
+00:37:15,680 --> 00:37:20,200
+because the next thing we do after a
+
+873
+00:37:18,480 --> 00:37:21,720
+Sprint review is we're going to go into
+
+874
+00:37:20,200 --> 00:37:24,400
+the Retro and then we're going to go
+
+875
+00:37:21,720 --> 00:37:26,040
+into next Sprint planning and who's
+
+876
+00:37:24,400 --> 00:37:28,480
+going to update the product back Club
+
+877
+00:37:26,040 --> 00:37:30,839
+between those items probably no nobody
+
+878
+00:37:28,480 --> 00:37:33,079
+so this is the last moment we have to
+
+879
+00:37:30,839 --> 00:37:35,200
+get those changes in uh so I'd be
+
+880
+00:37:33,079 --> 00:37:36,520
+opening these items I'd be making
+
+881
+00:37:35,200 --> 00:37:38,119
+changes we'd be talking to the
+
+882
+00:37:36,520 --> 00:37:40,040
+stakeholders about it does this still
+
+883
+00:37:38,119 --> 00:37:42,119
+reflect what it is we need to do is
+
+884
+00:37:40,040 --> 00:37:43,960
+there changes that we've learned maybe
+
+885
+00:37:42,119 --> 00:37:45,440
+the stakeholders gone and talked to
+
+886
+00:37:43,960 --> 00:37:47,640
+additional people in the organization
+
+887
+00:37:45,440 --> 00:37:49,480
+and they want to bring in some changes
+
+888
+00:37:47,640 --> 00:37:51,880
+those these are all maybe there's a
+
+889
+00:37:49,480 --> 00:37:55,280
+whole body of new work that needs to go
+
+890
+00:37:51,880 --> 00:37:58,560
+in here we can start creating it uh uh
+
+891
+00:37:55,280 --> 00:38:01,480
+uh now um so that we have the best
+
+892
+00:37:58,560 --> 00:38:03,040
+possible product backlog for going into
+
+893
+00:38:01,480 --> 00:38:04,880
+the next Sprint planning and if there's
+
+894
+00:38:03,040 --> 00:38:06,480
+a bunch of stuff we really don't
+
+895
+00:38:04,880 --> 00:38:08,319
+understand perhaps they need to be able
+
+896
+00:38:06,480 --> 00:38:10,040
+to go on a list of we're going to need
+
+897
+00:38:08,319 --> 00:38:13,920
+to get together with these stakeholders
+
+898
+00:38:10,040 --> 00:38:16,079
+and discuss and refine uh uh more things
+
+899
+00:38:13,920 --> 00:38:18,240
+into the P backlog during the next
+
+900
+00:38:16,079 --> 00:38:20,280
+Sprint um because that's work that
+
+901
+00:38:18,240 --> 00:38:22,319
+happens all the time refinement happens
+
+902
+00:38:20,280 --> 00:38:24,839
+all the time but what's the important
+
+903
+00:38:22,319 --> 00:38:27,640
+stuff we need to update here to get get
+
+904
+00:38:24,839 --> 00:38:30,880
+straight into the next Sprint um feed
+
+905
+00:38:27,640 --> 00:38:32,880
+back or core changes anything like that
+
+906
+00:38:30,880 --> 00:38:36,240
+should be in
+
+907
+00:38:32,880 --> 00:38:38,800
+there the last event in scrum is our
+
+908
+00:38:36,240 --> 00:38:41,160
+Sprint retrospective I'm probably not
+
+909
+00:38:38,800 --> 00:38:43,359
+going to spend as much time in aure
+
+910
+00:38:41,160 --> 00:38:45,079
+devops during my retrospective we might
+
+911
+00:38:43,359 --> 00:38:46,319
+have a conversation about things that
+
+912
+00:38:45,079 --> 00:38:48,200
+happened during the Sprint things that
+
+913
+00:38:46,319 --> 00:38:50,000
+were left over things that were
+
+914
+00:38:48,200 --> 00:38:51,680
+difficult we might need to go look at
+
+915
+00:38:50,000 --> 00:38:53,839
+some items in the product backlog and
+
+916
+00:38:51,680 --> 00:38:56,000
+discuss why were they so difficult what
+
+917
+00:38:53,839 --> 00:38:57,520
+did we not understand and we might do
+
+918
+00:38:56,000 --> 00:39:00,280
+some root cause we might do some
+
+919
+00:38:57,520 --> 00:39:02,440
+analysis on that uh but in general we're
+
+920
+00:39:00,280 --> 00:39:05,000
+probably going to be having uh separate
+
+921
+00:39:02,440 --> 00:39:06,920
+conversations people processes tools
+
+922
+00:39:05,000 --> 00:39:08,880
+relationships all of those things are on
+
+923
+00:39:06,920 --> 00:39:11,520
+the table for the Sprint retrospective
+
+924
+00:39:08,880 --> 00:39:13,560
+and that doesn't have a lot to do uh
+
+925
+00:39:11,520 --> 00:39:16,640
+with the contents of aure
+
+926
+00:39:13,560 --> 00:39:17,839
+devops so I wanted to show you a board
+
+927
+00:39:16,640 --> 00:39:20,800
+uh that was done a little bit
+
+928
+00:39:17,839 --> 00:39:23,960
+differently so here I have a board um
+
+929
+00:39:20,800 --> 00:39:26,160
+where I have the the backlog um on the
+
+930
+00:39:23,960 --> 00:39:29,079
+left hand side so I have a column for
+
+931
+00:39:26,160 --> 00:39:30,800
+backlog so that's the new state and then
+
+932
+00:39:29,079 --> 00:39:32,880
+if you remember we had the approved
+
+933
+00:39:30,800 --> 00:39:35,680
+State and I've renamed the approved
+
+934
+00:39:32,880 --> 00:39:38,079
+state state to Discovery and set it as
+
+935
+00:39:35,680 --> 00:39:41,400
+doing and done so I have that doing and
+
+936
+00:39:38,079 --> 00:39:43,839
+done uh uh in here I've colorcoded these
+
+937
+00:39:41,400 --> 00:39:47,040
+items cuz they're too big so I've got a
+
+938
+00:39:43,839 --> 00:39:49,520
+field called uh item size and it has
+
+939
+00:39:47,040 --> 00:39:52,920
+unsized right size and oversized with
+
+940
+00:39:49,520 --> 00:39:55,319
+unsized being the default so if it's uh
+
+941
+00:39:52,920 --> 00:39:57,480
+oversized then it's going to highlight
+
+942
+00:39:55,319 --> 00:39:59,800
+that we need to do some some refinement
+
+943
+00:39:57,480 --> 00:40:02,960
+work and that's where in this discovery
+
+944
+00:39:59,800 --> 00:40:05,720
+column doing um I wouldn't expect to see
+
+945
+00:40:02,960 --> 00:40:08,640
+anything with this orange title any
+
+946
+00:40:05,720 --> 00:40:10,400
+further this needs to be broken down um
+
+947
+00:40:08,640 --> 00:40:13,839
+refined a little bit more this might
+
+948
+00:40:10,400 --> 00:40:16,880
+split into multiple items um before we
+
+949
+00:40:13,839 --> 00:40:19,560
+uh start bring it into that that
+
+950
+00:40:16,880 --> 00:40:22,319
+Discovery Discovery done column this is
+
+951
+00:40:19,560 --> 00:40:25,040
+where we might do some uh usability
+
+952
+00:40:22,319 --> 00:40:26,960
+analysis we might do some user studies
+
+953
+00:40:25,040 --> 00:40:27,880
+we might do paper prototyping we might
+
+954
+00:40:26,960 --> 00:40:30,240
+do
+
+955
+00:40:27,880 --> 00:40:31,520
+um all of those things in this column if
+
+956
+00:40:30,240 --> 00:40:33,720
+you're doing a lot of those things you
+
+957
+00:40:31,520 --> 00:40:36,760
+might split it out into multiple columns
+
+958
+00:40:33,720 --> 00:40:41,200
+for um how you're going to process that
+
+959
+00:40:36,760 --> 00:40:43,079
+work um and then it moves into analysis
+
+960
+00:40:41,200 --> 00:40:47,400
+at the beginning of the Sprint so if you
+
+961
+00:40:43,079 --> 00:40:50,560
+remember our uh timer starting for oh
+
+962
+00:40:47,400 --> 00:40:53,640
+that's not the right one that one our
+
+963
+00:40:50,560 --> 00:40:56,800
+timer uh for cycle time is between these
+
+964
+00:40:53,640 --> 00:41:00,839
+two lines within this box um so cycle
+
+965
+00:40:56,800 --> 00:41:03,960
+time uh starts here at analysis whereas
+
+966
+00:41:00,839 --> 00:41:09,480
+uh lead time uh starts all the way over
+
+967
+00:41:03,960 --> 00:41:12,680
+here and that's for the buil-in uh um
+
+968
+00:41:09,480 --> 00:41:14,880
+stats hopefully this gave you some ideas
+
+969
+00:41:12,680 --> 00:41:17,520
+about how you can use as your devops to
+
+970
+00:41:14,880 --> 00:41:19,960
+support uh your scrum environment if
+
+971
+00:41:17,520 --> 00:41:22,520
+you're more interested in uh uh the
+
+972
+00:41:19,960 --> 00:41:24,560
+board and the columns I have a cand
+
+973
+00:41:22,520 --> 00:41:28,280
+session which goes a lot more in depth
+
+974
+00:41:24,560 --> 00:41:30,400
+into that story as well if you do have
+
+975
+00:41:28,280 --> 00:41:34,520
+any questions put them in the comments
+
+976
+00:41:30,400 --> 00:41:34,520
+below and get in touch if you need any
+
+977
+00:41:35,370 --> 00:41:45,440
+[Music]
+
+978
+00:41:42,440 --> 00:41:45,440
+help
+
