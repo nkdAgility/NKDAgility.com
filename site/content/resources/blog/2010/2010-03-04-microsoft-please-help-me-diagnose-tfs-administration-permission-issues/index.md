@@ -1,5 +1,6 @@
 ---
 title: Microsoft, please help me diagnose TFS Administration permission issues!
+description: "Struggling with TFS 2010 admin permissions? Join Martin Hinshelwood as he shares his troubleshooting journey and tips to resolve common issues effectively!"
 date: 2010-03-04
 creator: Martin Hinshelwood
 id: "67"
@@ -73,3 +74,4 @@ This would have saved me 30 minutes, although I agree that I should change my na
 </rant>
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010)
+

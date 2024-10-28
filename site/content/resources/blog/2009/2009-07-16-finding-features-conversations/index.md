@@ -1,5 +1,6 @@
 ---
 title: "Finding features: Conversations"
+description: "Explore the features of Office 2010 through engaging email conversations. Discover how to streamline your inbox and enhance your productivity today!"
 date: 2009-07-16
 creator: Martin Hinshelwood
 id: "101"
@@ -41,3 +42,4 @@ And expanded
 Like I said… Nice…
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
+

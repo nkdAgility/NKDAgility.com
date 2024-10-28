@@ -1,5 +1,6 @@
 ---
 title: Why I miss Orange and why Vodafone suck!
+description: "Discover why Martin Hinshelwood misses Orange and shares his frustrating experience with Vodafone's customer service. A must-read for mobile users!"
 date: 2010-02-08
 creator: Martin Hinshelwood
 id: "71"
@@ -40,3 +41,4 @@ If you are thinking of going with Vodafone… stop, think and go somewhere else!
 </rant>
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
+

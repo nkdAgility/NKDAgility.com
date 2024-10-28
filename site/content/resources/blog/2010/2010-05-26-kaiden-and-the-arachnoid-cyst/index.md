@@ -1,5 +1,6 @@
 ---
 title: Kaiden and the Arachnoid Cyst
+description: "Join us as we share Kaiden's journey with an arachnoid cyst, exploring his milestones and challenges. Discover our family's story and updates along the way."
 date: 2010-05-26
 creator: Martin Hinshelwood
 id: "41"
@@ -40,3 +41,4 @@ Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.c
 [Read more…](http://kaiden.hinshelwood.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
+

@@ -1,5 +1,6 @@
 ---
 title: Create a VHD from the Windows Server 2008 R2 Image disk
+description: "Learn how to easily create a VHD from a Windows Server 2008 R2 image disk with step-by-step instructions and essential tools. Simplify your setup today!"
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "75"
@@ -71,3 +72,4 @@ CSCRIPT WIM2VHD.WSF /WIM:I:sourcesinstall.wim /SKU:SERVERSTANDARD /VHD:D:WimBuil
 Make a copy of this file, and attach it to your boot list, and boot…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [SSW](http://technorati.com/tags/SSW)
+

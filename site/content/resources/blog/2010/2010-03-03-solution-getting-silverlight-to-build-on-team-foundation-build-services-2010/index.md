@@ -1,5 +1,6 @@
 ---
 title: "Solution: Getting Silverlight to build on Team Foundation Build Services 2010"
+description: "Learn how to successfully build Silverlight applications using Team Foundation Build Services 2010. Overcome common challenges with expert tips and solutions!"
 date: 2010-03-03
 creator: Martin Hinshelwood
 id: "69"
@@ -133,3 +134,4 @@ The options you should set for any Build that has 32-bit dependencies that are c
 { .post-img }
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [ALM](http://technorati.com/tags/ALM) [Silverlight](http://technorati.com/tags/Silverlight) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS 2010](http://technorati.com/tags/TFS+2010) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

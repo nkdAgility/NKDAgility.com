@@ -1,5 +1,6 @@
 ---
 title: Combining Scrum, TFS2010 and Email to keep everyone in the loop
+description: "Discover how to effectively combine Scrum, TFS2010, and email to enhance team collaboration and keep everyone informed. Streamline your project management today!"
 date: 2010-04-28
 creator: Martin Hinshelwood
 id: "48"
@@ -77,3 +78,4 @@ This would not currently deal with email “forks” well, but I think it would 
 It would be nice if we could find time to implement this, but currently it is but a pipe dream. Maybe Microsoft could implement something in the next version of Team Foundation Server, and in the mean time we have a process that works well.
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
+

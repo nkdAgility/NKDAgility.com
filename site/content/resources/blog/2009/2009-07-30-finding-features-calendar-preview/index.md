@@ -1,5 +1,6 @@
 ---
 title: "Finding features: Calendar preview"
+description: "Discover the Calendar preview feature in Outlook 2010 that helps you quickly check your availability. Enhance your productivity with this handy tool!"
 date: 2009-07-30
 creator: Martin Hinshelwood
 id: "94"
@@ -24,3 +25,4 @@ Another nice feature of Outlook 2010 that I like is the Calendar preview:
 Very effective for seeing quickly wither you can attend :)
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
+

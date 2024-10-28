@@ -1,5 +1,6 @@
 ---
 title: Active Directory Groups not Syncing with Team Foundation Server 2010
+description: "Discover solutions for syncing Active Directory groups with Team Foundation Server 2010. Streamline your security and enhance user management effectively!"
 date: 2010-07-07
 creator: Martin Hinshelwood
 id: "32"
@@ -178,3 +179,4 @@ If you remove the “BUILTINAdministrators” group from the “Team Foundation 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010)
+

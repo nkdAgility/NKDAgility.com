@@ -1,5 +1,6 @@
 ---
 title: "Outlook 2010 Beta 2 and Add-Ins: Dynamics CRM, Team Companion, LinkedIn and Plaxo"
+description: "Explore the compatibility of Outlook 2010 Beta 2 with Dynamics CRM, LinkedIn, and more. Discover tips for optimizing your add-ins and enhancing productivity!"
 date: 2009-12-07
 creator: Martin Hinshelwood
 id: "76"
@@ -79,3 +80,4 @@ Please can you:
    { .post-img }
 
 Technorati Tags: [Office](http://technorati.com/tags/Office) [ALM](http://technorati.com/tags/ALM) [CRM](http://technorati.com/tags/CRM) [SSW](http://technorati.com/tags/SSW)
+

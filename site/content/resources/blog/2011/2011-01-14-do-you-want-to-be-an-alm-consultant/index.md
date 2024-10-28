@@ -1,5 +1,6 @@
 ---
 title: Do you want to be an ALM Consultant?
+description: "Join Northwest Cadence as an ALM Consultant! Leverage your expertise in software development and help clients build better software efficiently."
 date: 2011-01-14
 creator: Martin Hinshelwood
 id: "17"
@@ -94,3 +95,4 @@ _Engagement Responsibilities:_
 · Have effective interpersonal skills and ability to work in a team environment.
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
+

@@ -1,5 +1,6 @@
 ---
 title: "A change for the better #3 - SSW to Northwest Cadence"
+description: "Join Martin Hinshelwood as he shares his journey from SSW to Northwest Cadence, highlighting key lessons in Agile, Scrum, and ALM. Discover his insights!"
 date: 2010-09-07
 creator: Martin Hinshelwood
 id: "28"
@@ -130,3 +131,4 @@ I will have a couple of months between leaving SSW and starting at Northwest Cad
 **If you know of anyone who is looking for a TFS/ALM Consultant and no one else can help, if you can find me. Then call… (doot do dodoot doooo, do doot doooo…)**
 
 Technorati Tags: [Northwest Cadence](http://technorati.com/tags/Northwest+Cadence),[ALM](http://technorati.com/tags/ALM),[SSW](http://technorati.com/tags/SSW),[TFS 2010](http://technorati.com/tags/TFS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
+

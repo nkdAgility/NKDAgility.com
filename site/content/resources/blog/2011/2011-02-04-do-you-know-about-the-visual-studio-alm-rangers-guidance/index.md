@@ -1,5 +1,6 @@
 ---
 title: Do you know about the Visual Studio ALM Rangers Guidance?
+description: "Discover the Visual Studio ALM Rangers Guidance for 2010. Explore valuable insights and resources to enhance your development experience and tools."
 date: 2011-02-04
 creator: Martin Hinshelwood
 id: "15"
@@ -36,3 +37,4 @@ I will be creating a series of posts on the different guidance options as many p
 - More coming soon…
 
 These solutions took a very long time to put together and I wanted to make sure that we all understand the value of the free time that member of The Product Team, Visual Studio ALM MVP’s and partners put in to make them happen.
+

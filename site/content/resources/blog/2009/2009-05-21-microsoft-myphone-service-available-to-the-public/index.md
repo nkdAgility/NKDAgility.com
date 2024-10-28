@@ -1,5 +1,6 @@
 ---
 title: Microsoft MyPhone service available to the public
+description: "Discover Microsoft's MyPhone service, now public! Sync your mobile with the web for easy access to contacts, photos, and more. Explore the future of mobile backup!"
 date: 2009-05-21
 creator: Martin Hinshelwood
 id: "111"
@@ -27,3 +28,4 @@ I do not know what the bandwidth is like, but the fact that you cant set the syn
 Setup you phone by going to [http://myphone.microsoft.com](http://myphone.microsoft.com "http://myphone.microsoft.com")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
+

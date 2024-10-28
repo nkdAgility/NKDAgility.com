@@ -1,5 +1,6 @@
 ---
 title: Stuck with Vista?
+description: "Stuck with Windows Vista? Discover the benefits of Service Pack 2 and how it can enhance your experience. Find solutions to common issues today!"
 date: 2009-05-26
 creator: Martin Hinshelwood
 id: "107"
@@ -54,3 +55,4 @@ You can find out loads about what is in it from:
 Hopefully this will work…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
+

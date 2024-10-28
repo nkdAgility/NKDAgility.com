@@ -1,5 +1,6 @@
 ---
 title: When should I use Areas in TFS instead of Team Projects in Team Foundation Server 2010
+description: "Discover when to use Areas in TFS over Team Projects for better project management in Team Foundation Server 2010. Streamline your workflow today!"
 date: 2010-03-09
 creator: Martin Hinshelwood
 id: "64"
@@ -218,3 +219,4 @@ Now that I have explained this method, what do you think?
 - **What tools would you like to support you?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [TFBS](http://technorati.com/tags/TFBS) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT) [CodeProject](http://technorati.com/tags/CodeProject) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
+

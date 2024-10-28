@@ -1,5 +1,6 @@
 ---
 title: "SSW Brain Quest: Team Foundation Server and SharePoint 2010 (London)"
+description: "Join the SSW Brain Quest in London to master Team Foundation Server and SharePoint 2010. Enhance your project management skills and boost productivity!"
 date: 2010-07-02
 creator: Martin Hinshelwood
 id: "36"
@@ -119,3 +120,4 @@ This is a good chance for you to consider new ways of using Office in your compa
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
 { .post-img }
+
