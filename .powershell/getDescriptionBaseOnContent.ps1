@@ -1,5 +1,5 @@
 # Set the folder path containing your Markdown files
-$folderPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\2023"
+$folderPath = "C:\Users\MartinHinshelwoodNKD\source\repos\NKDAgility.com\site\content\resources\blog\20*"
 # Set your OpenAI API key
 $apiKey = $Env:OPEN_AI_KEY
 
@@ -105,8 +105,8 @@ Example Output:
 
     # Save the updated content back to the file
     Set-Content -Path $filePath -Value $newContent -Force
-
-    Write-Output "Updated front matter for $($_.Name)"
+    $pathName = $_.FullName.replace($folderPath, "")
+    Write-Output "Updated front matter for $pathName"
 }
 
 # Note: Make sure to replace YOUR_OPEN_AI_KEY with your actual API key.
