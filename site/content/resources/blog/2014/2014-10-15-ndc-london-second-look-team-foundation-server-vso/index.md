@@ -1,5 +1,6 @@
 ---
 title: "NDC London: Second Look, Team Foundation Server &amp; VSO"
+description: "Join Martin Hinshelwood at NDC London for a deep dive into Team Foundation Server and VSO, showcasing powerful ALM features and live demos. Don't miss out!"
 date: 2014-10-15
 creator: Martin Hinshelwood
 id: "10811"
@@ -130,3 +131,4 @@ I am really looking forward to this session as it will give me a chance to direc
 Please provide me with some feedback on the polls above. I am very interested in focusing on what will solve the most problems for attendees. I will also be around for the full 3 days and would be happy to do add-hock demos and problem solving sessions… Unless there is a supper interesting session on the go I would be happy to provide free TFS consulting for any and all attendees of NDC London on the days.
 
 If you are on a tight schedule I would be happy to have you pre-book some time. Email info@nakedalm.com to get some free TFS & VSO consulting at NDC London.
+

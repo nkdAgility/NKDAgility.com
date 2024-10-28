@@ -1,5 +1,6 @@
 ---
 title: Team Foundation server 2013 Update 2 RC is coming, are you ready?
+description: "Get ready for TFS 2013 Update 2 RC! Join Microsoft's Upgrade Weekend for expert support and discover new features to enhance your development experience."
 date: 2014-02-20
 creator: Martin Hinshelwood
 id: "10381"
@@ -36,3 +37,4 @@ In case you are asking yourself why you would want to update to Update 2 RC you 
 - **Annotate for Git** - The blame tool comes to Git
 
 In addition the team has been working on a bunch of performance improvements for the backlog and other tools. There are many more features but these are the ones that I felt most relevant.
+

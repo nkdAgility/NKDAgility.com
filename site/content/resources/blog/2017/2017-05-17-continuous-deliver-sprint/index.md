@@ -1,5 +1,6 @@
 ---
 title: I do continuous deliver, why should I Sprint?
+description: "Explore why Sprints are essential in Scrum, even with continuous delivery. Discover how they enhance communication, predictability, and planning in software development."
 date: 2017-05-17
 creator: Martin Hinshelwood
 id: "11885"
@@ -62,3 +63,4 @@ A Sprint is a container for planning rather than releasing and while Scrum requi
 Scrum.org recently changed its mantra from "Improve the profession of software development" to "Improve the profession of software delivery" to start to enshrine the idea that delivery, to your customers, is no longer optional to get significant actionable feedback that you can reflect on.
 
 In short, while the Scrum Guide does not explicitly state it, it is no longer optional to ship your software to production at least every 30 days if you want to stay competitive and build the software that your users deserve.
+

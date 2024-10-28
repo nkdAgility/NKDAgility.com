@@ -1,5 +1,6 @@
 ---
 title: SharePoint 2013 Issue - Custom Web Part results in Could not load file or assembly after upgrade
+description: "Resolve SharePoint 2013 upgrade issues with custom web parts. Discover effective solutions to fix 'Could not load file or assembly' errors easily!"
 date: 2013-06-20
 creator: Martin Hinshelwood
 id: "9905"
@@ -116,3 +117,4 @@ Once you have made your changes you can save and remember to check in to see the
 In this case all of the Register tags with the TagPrefix of "WpNs\*" needs to be removed and any associated controls removed.
 
 This will fix any issues with the pages loading.
+

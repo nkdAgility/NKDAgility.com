@@ -1,5 +1,6 @@
 ---
 title: The Insufficiency of Scrum is a fallacy
+description: "Explore the myth of Scrum's insufficiency and learn how effective engineering practices can enhance Agile success. Elevate your team's performance today!"
 date: 2013-03-23
 creator: Martin Hinshelwood
 id: "9338"
@@ -89,3 +90,4 @@ Remember that the software that you are building is an organisational asset and 
 Don’t be incompetent. Don't commit fraud.
 
 **Be a professional…**
+

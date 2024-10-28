@@ -1,5 +1,6 @@
 ---
 title: Maven release prepare fails with detected changes in Jenkins
+description: "Discover how to resolve Maven release prepare failures in Jenkins due to detected changes. Learn to use .tfignore for smoother TFS integration."
 date: 2014-07-09
 creator: Martin Hinshelwood
 id: "10579"
@@ -85,3 +86,4 @@ target/
 ```
 
 All we need to do now is execute a new build and see that light turn green. This is however a "dry run" build and we still have some work to do to get the rest of the process working, however this is progress. At least I don’t have generated files ruining my day.
+

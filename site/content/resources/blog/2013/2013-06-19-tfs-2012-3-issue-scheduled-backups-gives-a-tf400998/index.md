@@ -1,5 +1,6 @@
 ---
 title: TFS 2012.3 Issue - Scheduled Backups gives a TF400998 when reconfigured
+description: "Resolve the TF400998 error in TFS 2012.3 when reconfiguring Scheduled Backups after migration. Discover solutions to streamline your backup process!"
 date: 2013-06-19
 creator: Martin Hinshelwood
 id: "9904"
@@ -114,3 +115,4 @@ If we instead click “Disable Scheduled Backup” and weight for the timout we 
 Figure: Disable results in path not found
 
 If you hit the refresh button above the Scheduled Backup node will return to its un-configured state.
+

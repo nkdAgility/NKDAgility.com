@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio 2015 side by side with 2013 on Windows 10
+description: "Learn how to install Visual Studio 2015 alongside 2013 on Windows 10 effortlessly. Get tips, fixes, and insights for a smooth setup experience!"
 date: 2014-11-12
 creator: Martin Hinshelwood
 id: "10886"
@@ -84,3 +85,4 @@ Awesome. I now have both Visual Studio 2013 and Visual Studio 2015 installed sid
 - [Download Visual Studio 2015 Preview](http://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs)
 
 Its presents from Microsoft time. Go on be a kid again and install Visual Studio 2015.
+

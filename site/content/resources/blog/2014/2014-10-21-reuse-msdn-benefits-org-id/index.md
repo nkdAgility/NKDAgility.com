@@ -1,5 +1,6 @@
 ---
 title: Reuse your MSDN benefits with your Org ID
+description: "Learn how to transfer your MSDN benefits to your Org ID effortlessly. Follow our step-by-step guide to maximize your Azure subscription today!"
 date: 2014-10-21
 creator: Martin Hinshelwood
 id: "10786"
@@ -50,3 +51,4 @@ Head back to [https://msdn.microsoft.com/subscriptions](https://msdn.microsoft.c
 { .post-img }
 
 Now on my organisational account I have a nice $150 per month subscription right where I can use it. Single-sign-on and no faffing around with InPrivate or having to log-out all the time.
+

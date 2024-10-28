@@ -1,5 +1,6 @@
 ---
 title: VSTS Sync Migration Tool Update and Bugfix
+description: "Discover the latest updates and bug fixes for the VSTS Sync Migration Tool, enhancing your TFS and VSTS experience. Streamline your project migrations today!"
 date: 2017-06-21
 creator: Martin Hinshelwood
 id: "11944"
@@ -42,3 +43,4 @@ We are working on the documentation, and folks struggle with the concept of the 
 { .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
+

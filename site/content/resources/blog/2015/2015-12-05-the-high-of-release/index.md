@@ -1,5 +1,6 @@
 ---
 title: The High of Release
+description: "Explore the new web-based Release Management tools from Microsoft, designed to enhance DevOps and streamline your release pipelines for engineering excellence."
 date: 2015-12-05
 creator: Martin Hinshelwood
 id: "11398"
@@ -28,3 +29,4 @@ The new Release Management tools are completely web based and allow you to creat
 Many of my larger customers might still be working on being able to put their code in the cloud, but they have no problems with deploying the output of their builds to cloud environments on Azure or elsewhere.
 
 Over the next few months I am hoping to get some local build output deployed to Azure where I can spin up 100 servers to deploy my application for the local testers. I will let you know how I get on...
+

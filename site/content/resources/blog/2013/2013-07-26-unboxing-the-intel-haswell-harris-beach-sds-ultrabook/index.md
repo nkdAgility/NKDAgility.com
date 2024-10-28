@@ -1,5 +1,6 @@
 ---
 title: "Review Part 1: Unboxing the Intel Haswell Harris Beach SDS Ultrabook"
+description: "Unbox the Intel Haswell Harris Beach SDS Ultrabook in this detailed review. Discover its features, performance, and why it's a must for developers!"
 date: 2013-07-26
 creator: Martin Hinshelwood
 id: "9918"
@@ -61,3 +62,4 @@ So that you can figure out where you are there are GPS, Gyromiter, Acceleriomite
 It is not going to replace the beast but it is a nice machine to developed Windows 8.1 apps on. Now all I need is ideas….
 
 Disclosure of Material Connection: I received one or more of the products or services mentioned above for free in the hope that I would mention it on my blog. Regardless, I only recommend products or services I use personally and believe my readers will enjoy. I am disclosing this in accordance with the Federal Trade Commission’s 16 CFR, Part 255: "[Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.access.gpo.gov/nara/cfr/waisidx_03/16cfr255_03.html)."
+

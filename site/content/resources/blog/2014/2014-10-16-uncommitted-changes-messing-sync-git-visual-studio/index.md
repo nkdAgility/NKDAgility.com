@@ -1,5 +1,6 @@
 ---
 title: Uncommitted changes messing up your sync in Git with Visual Studio
+description: "Learn how uncommitted changes in Git can disrupt your sync in Visual Studio. Discover effective strategies to manage your workflow and enhance productivity."
 date: 2014-10-16
 creator: Martin Hinshelwood
 id: "10732"
@@ -35,3 +36,4 @@ In our server based scenario we have no choice but to do a merge from the server
 Git blocks this potential loss of code by forcing you to choose wither you want to lose the changes or persist them. Once they are persisted they can't be lost without deliberately resetting the repository or deleting it. Although your workflow is changing it is for the better as you are less likely to have a frustrating issue.
 
 DVCS is just better than SVCS…
+

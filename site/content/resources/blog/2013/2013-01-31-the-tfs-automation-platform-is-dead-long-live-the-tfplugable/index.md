@@ -1,5 +1,6 @@
 ---
 title: The TFS Automation Platform is dead, long live the TfPlugable
+description: "Discover the TfPlugable, a revolutionary solution for TFS automation. Simplify deployment and management of extensions with our innovative platform!"
 date: 2013-01-31
 creator: Martin Hinshelwood
 id: "9229"
@@ -82,3 +83,4 @@ I have a couple of folks helping me on this little project and we are always loo
   Andrew Clear**, ALM Developer
 
 I am open for others to join and you would only need to contribute around 2 hours a week to participate.
+

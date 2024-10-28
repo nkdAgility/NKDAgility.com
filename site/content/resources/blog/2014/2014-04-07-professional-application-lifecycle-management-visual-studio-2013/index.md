@@ -1,5 +1,6 @@
 ---
 title: Professional Application Lifecycle Management with Visual Studio 2013
+description: "Discover the updated guide to Application Lifecycle Management with Visual Studio 2013. Enhance your software development with expert insights and new features!"
 date: 2014-04-07
 creator: Martin Hinshelwood
 id: "10482"
@@ -40,3 +41,4 @@ It really was hard going mapping the new features in the 2013 version of the pro
 > _Professional Application Lifecycle Management with Visual Studio 2013_ provides a complete framework for using ALM to streamline software design and deployment processes using well-developed Microsoft tools and methodologies. _Professional Application Lifecycle Management with Visual Studio 2013_ is your guide to make use of newly-available ALM features to take your enterprise software development to the next level
 
 If you liked the previous editions then this new revision has been updated for 2013 with new chapters on Git and Release Management. You can [buy on Amazon.com](http://nkdalm.net/ProALMwithVS13 "Buy Professional Application Lifecycle Management with Visual Studio 2013 on Amazon.com") if you are in the US (Kindle version available as well.) If you are in the UK you can [pre-order on Amazon.co.uk](http://nkdalm.net/ProALMwithVS13uk "Buy Professional Application Lifecycle Management with Visual Studio 2013 on Amazon.co.uk") for a 30th April release.
+

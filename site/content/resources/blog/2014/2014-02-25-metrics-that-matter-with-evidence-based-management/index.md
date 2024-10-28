@@ -1,5 +1,6 @@
 ---
 title: Metrics that matter with evidence-based management
+description: "Discover how Evidence-Based Management can enhance your metrics and KPIs for better decision-making in software development. Elevate your team's performance!"
 date: 2014-02-25
 creator: Martin Hinshelwood
 id: "10367"
@@ -223,3 +224,4 @@ The Agility Index calculator rolls all of the gathered evidence up and aggregate
 This is a game changer for the software industry at large and create a credible set of metrics for the first time that can be used to guide process improvement initiatives regardless of the framework used to deliver that improvement. Agility Path, SAFe, or Kanban can be measured equally.
 
 Do you want to use Evidence-based Management to improve your processes?
+

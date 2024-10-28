@@ -1,5 +1,6 @@
 ---
 title: Do you need an expert in Visual Studio ALM, TFS, or Scrum?
+description: "Looking for an expert in Visual Studio ALM, TFS, or Scrum? Martin Hinshelwood is available for consulting and training in February. Connect now!"
 date: 2015-01-21
 creator: Martin Hinshelwood
 id: "11120"
@@ -57,3 +58,4 @@ If you are wondering how this works in practice then checkout my [testimonials p
 I am free to provide consulting, and/or training in February on Visual Studio ALM or Scrum. I am happy to work anywhere in Europe, or even further afield. Training can be done in the USA, but I believe consulting is a little more complicated. But ultimately my question is:
 
 **Do you know of anyone looking for an expert in Visual Studio ALM, TFS, or Scrum next month?**
+

@@ -1,5 +1,6 @@
 ---
 title: Improvements in Visual Studio ALM from the ALM Summit
+description: "Discover the latest enhancements in Visual Studio ALM from the ALM Summit, including Git support, web-based test management, and Kanban improvements."
 date: 2013-02-08
 creator: Martin Hinshelwood
 id: "9239"
@@ -91,3 +92,4 @@ There were so many new features that it is hard to pick out a clear favourite. I
 **Figure: Traceability in Team Foundation Server**
 
 We are starting to see the enablement of the traceability story for a wider audience and across more platforms.
+

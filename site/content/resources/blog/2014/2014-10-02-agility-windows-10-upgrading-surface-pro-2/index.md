@@ -1,5 +1,6 @@
 ---
 title: "Agility and Windows 10: Upgrading my Surface Pro 2"
+description: "Join Martin Hinshelwood as he shares his experience upgrading a Surface Pro 2 to Windows 10 Technical Preview, exploring agility and user feedback in tech."
 date: 2014-10-02
 creator: Martin Hinshelwood
 id: "10746"
@@ -123,3 +124,4 @@ That’s all I got from a first play, except to say that all my day job things w
 While I take no responsibility for any issues that you may have if you install Windows 10 I would recommend that anyone technically minded does so. And that they run it on their main computer. Take a little risk and provide feedback. The worst that can happen is that you need to reinstall Windows 8 / 7.
 
 Go on… be a kid again…
+

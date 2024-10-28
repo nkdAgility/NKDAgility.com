@@ -1,5 +1,6 @@
 ---
 title: Branch Policies for TFVC
+description: "Explore effective branch policies for TFVC to streamline your development process. Learn how to implement checks and improve code quality with ease!"
 date: 2016-01-13
 creator: Martin Hinshelwood
 id: "11424"
@@ -52,3 +53,4 @@ This is a start and you are welcome to send feedback to \[bla\] in the form of i
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 
 You should also feel free to [contribute to this policy on GitHub](https://github.com/nkdAgility/TfvcBranchPolicy) where I will be happy to take pull requests.
+

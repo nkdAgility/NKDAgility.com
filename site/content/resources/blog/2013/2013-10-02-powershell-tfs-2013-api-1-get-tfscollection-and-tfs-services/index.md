@@ -1,5 +1,6 @@
 ---
 title: "PowerShell TFS 2013 API #1 - Get TfsCollection and TFS Services"
+description: "Learn to harness PowerShell with the TFS 2013 API in this comprehensive guide. Discover essential functions to manage TFS collections and services effectively!"
 date: 2013-10-02
 creator: Martin Hinshelwood
 id: "10149"
@@ -154,3 +155,4 @@ While you can use the Process configuration above to change the process template
 ## Conclusion
 
 Have you been playing with the TFS API in PowerShell? The advantage of a scripting language is obvious in the versatility of both edit-ability and runtime execution of commands to figure out what you need to do. I would have loved for TFS to have built in commands, but with access to the API’s there really is no need. You can do whatever you want.
+

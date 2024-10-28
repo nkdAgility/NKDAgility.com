@@ -1,5 +1,6 @@
 ---
 title: Remote Execute PowerShell against each Windows 8 VM
+description: "Learn how to remotely execute PowerShell scripts on Windows 8 VMs using Hyper-V, streamlining updates and management with minimal effort."
 date: 2013-05-23
 creator: Martin Hinshelwood
 id: "9901"
@@ -282,3 +283,4 @@ This may change and I want to test out some hierarchical PowerShell script optio
 Although I have tinkered with PowerShell now and then this is the first executable script that I have written. I am still in copy/paste mode but I can sure see the value of learning and using PowerShell for everything from installing applications to configuring systems.
 
 You can just about do anything with PowerShell that you like.
+

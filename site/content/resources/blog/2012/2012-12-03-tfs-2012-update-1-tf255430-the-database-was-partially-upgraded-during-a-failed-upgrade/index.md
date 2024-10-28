@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade"
+description: "Resolve TFS 2012 Update 1 upgrade issues with expert insights on error TF255430. Learn how to restore your database and ensure a smooth upgrade process."
 date: 2012-12-03
 creator: Martin Hinshelwood
 id: "9164"
@@ -162,3 +163,4 @@ If you are installing any updates to Team Foundation Server follow these simple 
 These simple steps should mitigate any future issues and should find any communication issues as well…
 
 _\-Do you want help with this? Contact Northwest Cadence to get a Quarterly Healthcheck and Upgrade on [info@nwcadence.com](mailto:info@nwcadence.com?subject=Recommended through MrHinsh (TFS 2012 Update 1 - TF255430: the database was partially upgraded during a failed upgrade)) and to schedule all of your TFS Upgrades for the coming year._
+

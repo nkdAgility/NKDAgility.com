@@ -1,5 +1,6 @@
 ---
 title: "Issue [ TFS 2013 Preview ] TF400654: Unable to configure Planning Tools"
+description: "Resolve the TF400654 error in TFS 2013 Preview with our step-by-step guide. Learn to configure Planning Tools and streamline your process template."
 date: 2013-06-27
 creator: Martin Hinshelwood
 id: "9911"
@@ -49,3 +50,4 @@ You need to manually update your process template by following the instructions 
 4. Import the work items
 
 This process is much easier and less time consuming if you have only [One Team Project](http://nkdagility.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/) or use the same Process Template across all of your Team Projects.
+

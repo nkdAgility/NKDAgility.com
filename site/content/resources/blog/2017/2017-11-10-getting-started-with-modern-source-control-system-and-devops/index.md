@@ -1,5 +1,6 @@
 ---
 title: Getting started with a modern source control system and DevOps
+description: "Discover how to choose a modern source control system that enhances your DevOps practices and supports your software development lifecycle effectively."
 date: 2017-11-10
 creator: Martin Hinshelwood
 id: "11456"
@@ -66,3 +67,4 @@ In order to support these things, I use VSTS as my software development platform
 **Don’t get locked into a limited set of technologies, VSTS supports every technology on every platform.**
 
 Find out more on [Visual Studio Team Services](https://nkdagility.com/training/) from [naked Agility - Martin Hinshelwood](https://nkdagility.com/company/about-martin-hinshelwood/).
+

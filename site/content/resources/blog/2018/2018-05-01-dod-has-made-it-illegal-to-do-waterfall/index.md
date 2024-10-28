@@ -1,5 +1,6 @@
 ---
 title: DOD has made it illegal to do waterfall
+description: "Discover how the DOD's new procurement rules outlaw waterfall methods, paving the way for agile practices that enhance efficiency and success in IT projects."
 date: 2018-05-01
 creator: Martin Hinshelwood
 id: "10204"
@@ -112,3 +113,4 @@ Unfortunately the project had taken so long that the hardware that had been boug
 { .post-img }
 
 In early 2012 the FBI shipped to production on the new refreshed hardware and saw significant improvements for a much lower cost.
+

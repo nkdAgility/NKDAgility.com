@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Foundations coming to Glasgow, Scotland in November 2013
+description: "Join the Professional Scrum Foundations course in Glasgow this November 2013. Enhance your team's understanding of Scrum and drive agile adoption effectively!"
 date: 2013-09-04
 creator: Martin Hinshelwood
 id: "10094"
@@ -75,3 +76,4 @@ These courses are awesome and can really help with a Scrum adoption especially e
 For all your Scrum needs you should head on over to [http://scrum.org](http://scrum.org) and check out the forums and and other offerings.
 
 If however you are in Europe then you can [find an expert](http://nkdagility.com/company/general-inquiries/) closer to home.
+

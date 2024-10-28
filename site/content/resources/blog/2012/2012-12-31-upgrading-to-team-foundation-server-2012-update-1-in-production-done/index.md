@@ -1,5 +1,6 @@
 ---
 title: Upgrading to Team Foundation Server 2012 Update 1 in production – DONE
+description: "Learn how to successfully upgrade to Team Foundation Server 2012 Update 1 with expert tips, a detailed checklist, and troubleshooting advice for a smooth transition."
 date: 2012-12-31
 creator: Martin Hinshelwood
 id: "9211"
@@ -219,3 +220,4 @@ Now you go through the same configuration that you would for creating a new set 
 Upgrading from Team Foundation Server 2012 to Team Foundation Server 2012 Update 1 is a fairly strait forward task but as with anything to do with TFS there can be a lot of moving parts. I would describe this as a simple installation and there were few gotchas.
 
 Other installations and upgrade are not quite so simple…
+

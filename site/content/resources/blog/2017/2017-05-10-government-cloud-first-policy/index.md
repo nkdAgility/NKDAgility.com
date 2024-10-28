@@ -1,5 +1,6 @@
 ---
 title: Government Cloud First policy
+description: "Explore the UK Government's Cloud First policy and its impact on public sector cloud adoption. Discover how cloud solutions drive business agility and digital transformation."
 date: 2017-05-10
 creator: Martin Hinshelwood
 id: "11882"
@@ -49,3 +50,4 @@ I have been working to move many people to Visual Studio Team Services (Microsof
 If you are in any way trying to achieve business agility or embarking on a digital transformation then you really have no option but to use cloud. Where else can you create on demand environments for testing and deployment? Where else can you easily create configuration as code with little effort?
 
 Don’t make life hard on yourself, even the government has adopted cloud…. Do yourself a favour and make your infrastructure problems someone else's problem.
+

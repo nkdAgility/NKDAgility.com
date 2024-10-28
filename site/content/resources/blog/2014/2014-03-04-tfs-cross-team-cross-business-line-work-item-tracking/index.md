@@ -1,5 +1,6 @@
 ---
 title: TFS for cross team and cross business line work item tracking
+description: "Discover effective strategies for cross-team collaboration in TFS, enhancing work item tracking and project management for software delivery across divisions."
 date: 2014-03-04
 creator: Martin Hinshelwood
 id: "10378"
@@ -87,3 +88,4 @@ Things are not all good and there are a few caveats to this approach:
 These issues however are small in comparison to the benefits that are gained by the single Team Project and Team Field approaches detailed above.
 
 How have you solved your organisational requirements in Team Foundation Server?
+

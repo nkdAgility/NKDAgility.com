@@ -1,5 +1,6 @@
 ---
 title: Building a release pipeline with Release Management with Visual Studio 2013
+description: "Learn to build a scalable release pipeline with Visual Studio 2013's integrated release management. Enhance your DevOps practices for continuous delivery success!"
 date: 2014-02-18
 creator: Martin Hinshelwood
 id: "10372"
@@ -90,3 +91,4 @@ Hopefully you are in the process of merging your operations and development team
 When you put these together, sometimes with a little overlap depending on how progressive your teams are, you get a release pipeline that is, and should be, a challenging gauntlet for your software. Software that makes it through the trial by fire should be stable, and scalable as well as functional.
 
 In other words… Quality.
+

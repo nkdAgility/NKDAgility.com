@@ -1,5 +1,6 @@
 ---
 title: "Issue [ TFS 2013 ] Value cannot be null. Parameter name: key"
+description: "Discover how to resolve the 'Value cannot be null' error in TFS 2013 when customizing work item tracking. Learn essential fixes and best practices!"
 date: 2013-10-23
 creator: Martin Hinshelwood
 id: "10221"
@@ -61,3 +62,4 @@ Obviously there is a server side coding assumption, which is bad, but there is a
 ## Conclusion
 
 If you are using Team Field then you need to make sure that you make the field that you use for it a required field in the work item definition. Don’t make my mistake and end up scratching your and the product teams head trying to figure it out.
+

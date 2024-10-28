@@ -1,5 +1,6 @@
 ---
 title: TFS Process Template migration script updated
+description: "Discover how to easily migrate TFS process templates with our updated script. Follow five simple steps to streamline your Agile and Scrum processes!"
 date: 2014-06-11
 creator: Martin Hinshelwood
 id: "10558"
@@ -172,3 +173,4 @@ The final piece of the puzzle is to update the datetime file we tried to load at
 And there you have it. Contrary to popular belief you can upgrade or migrate from one process template to another in TFS. It may be because you want to use the new features or it may be because you are radically changing you process, it can be done.
 
 Good luck with your changes…
+

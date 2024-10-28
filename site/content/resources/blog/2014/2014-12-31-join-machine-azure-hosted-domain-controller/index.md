@@ -1,5 +1,6 @@
 ---
 title: Join a machine to your azure hosted domain controller
+description: "Learn how to join a machine to your Azure-hosted domain controller with our step-by-step guide. Simplify your setup and enhance your network management!"
 date: 2014-12-31
 creator: Martin Hinshelwood
 id: "10892"
@@ -46,3 +47,4 @@ If you right-click on the start button and select "System" you will see the curr
 Set the radio-button to "Domain" and enter the name of the domain that you want to join. As I setup "env.nakedalmweb.wpengine.com" that is what I need to enter. Once you click "OK" you will be asked for a domain administrator account to join the machine.
 
 After that a simple reboot will allow you to login to the domain with any of the domain accounts that you have configured.
+

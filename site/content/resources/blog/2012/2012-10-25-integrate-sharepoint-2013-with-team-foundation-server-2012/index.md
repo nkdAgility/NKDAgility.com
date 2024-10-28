@@ -1,5 +1,6 @@
 ---
 title: Integrate SharePoint 2013 with Team Foundation Server 2012
+description: "Learn how to seamlessly integrate SharePoint 2013 with Team Foundation Server 2012, ensuring a smooth deployment and enhanced collaboration for your projects."
 date: 2012-10-25
 creator: Martin Hinshelwood
 id: "8998"
@@ -244,3 +245,4 @@ And that's us done… we have installed and configured SharePoint 2013. We have 
 Note: If you create a new Team Project the SharePoint 2013 portal will be created for you and pre-actived.
 
 Awesome… go forth and 2013!
+
