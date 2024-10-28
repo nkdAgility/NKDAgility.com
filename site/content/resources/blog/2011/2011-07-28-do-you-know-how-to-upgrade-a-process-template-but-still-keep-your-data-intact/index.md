@@ -1,5 +1,6 @@
 ---
 title: Upgrading your Process Template in Team Foundation Server
+description: "Master the art of upgrading your Team Foundation Server process templates with expert tips and strategies to retain data and enhance your workflow."
 date: 2011-07-28
 creator: Martin Hinshelwood
 id: "3717"
@@ -140,3 +141,4 @@ How-To [Process Template Upgrade #7 – Overwrite retaining history with limited
 ## Conclusion
 
 For me options #7 is the most appropriate for most circumstances and is part of my default arsenal. The rest I only use if I have to, but if a customer is happy with #1, #2 or #3 then I am unlikely to argue as they are easy to implement.
+

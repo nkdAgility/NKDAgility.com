@@ -1,5 +1,6 @@
 ---
 title: Scrum with Visual Studio 11 - Creating a new Team Project
+description: "Learn how to effortlessly create a Team Project in the cloud with Visual Studio 11. Join Martin Hinshelwood for a quick and easy guide to agile project setup!"
 date: 2011-10-25
 creator: Martin Hinshelwood
 id: "3976"
@@ -22,3 +23,4 @@ Creating a Team Project in the cloud could be daunting, but it is very simple. J
 \[wpvideo 7j9ZdEQ8\]
 
 **Video: Scrum with dev11 - Creating a new Team Project**
+

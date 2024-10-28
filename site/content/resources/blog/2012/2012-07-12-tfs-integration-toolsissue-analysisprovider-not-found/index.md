@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools–Issue: AnalysisProvider not found"
+description: "Resolve the 'AnalysisProvider not found' issue in TFS Integration Tools with our expert workaround. Upgrade your .NET settings for a smooth experience!"
 date: 2012-07-12
 creator: Martin Hinshelwood
 id: "6136"
@@ -56,3 +57,4 @@ This problem is easily solved by changing the application settings from .NET Fra
 Now we are cooking.
 
 **Did this solve your problem?**
+

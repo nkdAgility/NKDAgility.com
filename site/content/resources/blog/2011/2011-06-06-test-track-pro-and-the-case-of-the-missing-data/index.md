@@ -1,5 +1,6 @@
 ---
 title: Test Track Pro and the case of the missing data
+description: "Explore the challenges of creating a Test Track Pro Adapter for TFS Integration. Discover solutions to data retrieval issues and optimize your workflow!"
 date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3596"
@@ -105,3 +106,4 @@ As you can see on lines 6 and 16 we do a query based on the High Water Mark to m
 So, if you are using “last day” in your query then by the time the data is returned in the query then all the dates are before the high water mark. Not good as all of this data gets missed and you will not get any updates after the first run.
 
 The solution is to use the number of “hours” since, rather than days…
+

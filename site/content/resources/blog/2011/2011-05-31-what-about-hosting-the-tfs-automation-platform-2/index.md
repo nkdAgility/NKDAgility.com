@@ -1,5 +1,6 @@
 ---
 title: What about hosting the Tfs Automation Platform
+description: "Explore the hosting options for the TFS Automation Platform, balancing functionality and server-side components for optimal performance in cloud environments."
 date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3365"
@@ -54,3 +55,4 @@ What functionality would we loose if we settled for client ony:
 - **more…**
 
 What do you think, are the features above important?
+

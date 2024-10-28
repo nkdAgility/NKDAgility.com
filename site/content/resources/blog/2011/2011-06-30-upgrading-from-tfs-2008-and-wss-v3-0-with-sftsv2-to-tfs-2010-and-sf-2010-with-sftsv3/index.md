@@ -1,5 +1,6 @@
 ---
 title: Upgrading from TFS 2008 and WSS v3.0 with SfTSv2 to TFS 2010 and SF 2010 with SfTSv3
+description: "Upgrade your TFS 2008 and WSS v3.0 to TFS 2010 and SF 2010 with our detailed guide. Streamline your process and enhance your team's productivity today!"
 date: 2011-06-30
 creator: Martin Hinshelwood
 id: "3279"
@@ -757,3 +758,4 @@ As the Export Migration is the chosen route of least friction we need to follow 
 - [XPath + Namespace Driving me crazy](http://stackoverflow.com/questions/536441/xpath-namespace-driving-me-crazy)
 
 - [XPath Examples](https://www.w3schools.com/xml/xpath_examples.asp)
+

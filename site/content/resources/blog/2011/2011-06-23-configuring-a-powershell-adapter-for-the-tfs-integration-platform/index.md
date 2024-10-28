@@ -1,5 +1,6 @@
 ---
 title: Configuring a PowerShell Adapter for the TFS Integration Platform
+description: "Learn to configure a PowerShell adapter for TFS Integration Platform, enabling seamless source code transfer to Perforce. Enhance your workflow today!"
 date: 2011-06-23
 creator: Martin Hinshelwood
 id: "3652"
@@ -320,3 +321,4 @@ Although this process can take a while, the fact that you can configure the Powe
 If you need a copy of your TFS Version Control data somewhere other than TFS for posterity, or you need a migration from [Test Track Pro to TFS](http://blog.hinshelwood.com/a-working-test-track-pro-adapter-for-the-tfs-integration-platform/), then just ping me and see how we can help.
 
 [Request for Services](http://nwcadence.com/#)
+

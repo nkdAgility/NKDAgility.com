@@ -1,5 +1,6 @@
 ---
 title: What is the Tfs Automation Platform
+description: "Discover the TFS Automation Platform, designed to streamline iteration management and enhance automation in TFS. Unlock efficiency in your development process!"
 date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3373"
@@ -185,3 +186,4 @@ When the user renames an iteration then a job needs to be kicked off that will f
 ## Conclusion
 
 This poses to be a very interesting project if we can get the resource together to be effective. The idea is to start small, so expect to see some smaller, more focused architectures coming down the line.
+

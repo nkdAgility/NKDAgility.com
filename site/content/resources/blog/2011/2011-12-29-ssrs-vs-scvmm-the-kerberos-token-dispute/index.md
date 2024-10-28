@@ -1,5 +1,6 @@
 ---
 title: SSRS vs SCVMM - The Kerberos token dispute
+description: "Explore the Kerberos token challenges in SSRS and SCVMM setups. Learn key solutions to enhance your TFS and Lab Management configurations effectively."
 date: 2011-12-29
 creator: Martin Hinshelwood
 id: "4104"
@@ -85,3 +86,4 @@ There is NO way that you can have SCVMM and RS running under AD Credentials to c
 As my mother used to do with my brother and I: i separated them.
 
 Simples!
+

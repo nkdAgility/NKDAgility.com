@@ -1,5 +1,6 @@
 ---
 title: Should GeeksWithBlogs move to the Wordpress Platform?
+description: "Explore the debate on migrating GeeksWithBlogs to WordPress. Join the conversation and vote for enhanced features and better blogging capabilities!"
 date: 2011-02-16
 creator: Martin Hinshelwood
 id: "9895"
@@ -57,3 +58,4 @@ This could be a turning point in the legendary history of Geeks With Blogs, be p
 
 - [**Vote for it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
 - [**Discuss it**](http://geekswithblogs.uservoice.com/forums/57394-suggestions-for-the-community/suggestions/1494319-move-to-wordpress-as-a-platform?ref=title)
+

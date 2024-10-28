@@ -1,5 +1,6 @@
 ---
 title: Do you have MSDN at work? Use Visual Studio Ultimate for free at home?
+description: "Unlock the full potential of your MSDN subscription! Discover how to use Visual Studio Ultimate for free at home and enhance your development skills."
 date: 2012-03-04
 creator: Martin Hinshelwood
 id: "4828"
@@ -63,3 +64,4 @@ And just in case you were worries about buying licences for your business accept
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 MSDN has one of the most flexible licencing terms in the industry and you should be using it to its full potential and not leaving it on a shelf! It will make some of your developers more valuable if they can exercise the tools in their spare time and the others just will not take advantage of it.
+

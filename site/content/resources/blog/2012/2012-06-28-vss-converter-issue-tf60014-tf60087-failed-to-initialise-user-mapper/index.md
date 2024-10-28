@@ -1,5 +1,6 @@
 ---
 title: "VSS Converter – Issue: TF60014 & TF60087: Failed to initialise user mapper"
+description: "Resolve VSS to TFS import issues with our guide on TF60014 & TF60087 errors. Learn how to fix user mapping problems and streamline your migration process."
 date: 2012-06-28
 creator: Martin Hinshelwood
 id: "6124"
@@ -44,3 +45,4 @@ Adding the mapped users to the Contributors group on the target server will remo
 > \-Suggestion to TFS Team
 
 **Did this deal with your problem?**
+

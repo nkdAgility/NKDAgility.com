@@ -1,5 +1,6 @@
 ---
 title: Upgrading from TFS 2008 to TFS 2010 Overview
+description: "Explore the essential steps for upgrading from TFS 2008 to TFS 2010, including tips on configuration and process templates for a smooth transition."
 date: 2012-07-31
 creator: Martin Hinshelwood
 id: "6905"
@@ -66,3 +67,4 @@ In TFS 2012 after the upgrade there is an option on a per-Team Project bases to 
 A TFS 2008 to TFS 2010 upgrade takes no more than a day at the most, but the real hard work is in getting the Process Template to where it is useable for the customer. Take the time here to make and understand the choices.
 
 **How did you get on upgrading TFS 2005/2008 to TFS 2010/2012?**
+

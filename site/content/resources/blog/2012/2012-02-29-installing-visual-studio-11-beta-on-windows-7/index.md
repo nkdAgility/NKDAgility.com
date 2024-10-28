@@ -1,5 +1,6 @@
 ---
 title: Installing Visual Studio 11 on Windows 7
+description: "Discover how to install Visual Studio 11 on Windows 7 effortlessly. Explore its new features and enjoy a streamlined setup for your development needs!"
 date: 2012-02-29
 creator: Martin Hinshelwood
 id: "4727"
@@ -68,3 +69,4 @@ I LOVE the new team Explorer, but it will take a little getting used to…
 Remember that there is [Go-Live for Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
+

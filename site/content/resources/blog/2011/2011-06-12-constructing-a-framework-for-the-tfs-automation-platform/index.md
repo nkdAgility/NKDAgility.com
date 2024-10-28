@@ -1,5 +1,6 @@
 ---
 title: Constructing a framework for the TFS Automation Platform
+description: "Explore the framework for the TFS Automation Platform, designed to guide developers in building efficient tools and automations. Start your journey today!"
 date: 2011-06-12
 creator: Martin Hinshelwood
 id: "3641"
@@ -80,3 +81,4 @@ Now that everything is checked in, I will be encouraging my team mates to explor
 **Figure: Lots of lovely places to put code**
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.
+

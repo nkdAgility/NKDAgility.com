@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools - Issue: TF10141 No Files checked in as a result of a TFS check-in failure"
+description: "Resolve TFS check-in failures with expert insights on TF10141. Learn to troubleshoot conflicts and ensure successful migrations in your projects."
 date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7402"
@@ -127,3 +128,4 @@ After Jameson pointed this out to me I was muttering like a Pirate that has stub
 <warning>
 
 **Did this solve your conflict?**
+

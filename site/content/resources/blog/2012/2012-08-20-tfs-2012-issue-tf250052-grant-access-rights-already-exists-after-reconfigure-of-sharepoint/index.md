@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 - Issue: TF250052: Grant access rights already exists after reconfigure of SharePoint"
+description: "Resolve the TF250052 error in TFS 2012 after SharePoint reconfiguration. Discover the simple refresh solution to access rights issues. Get help now!"
 date: 2012-08-20
 creator: Martin Hinshelwood
 id: "7247"
@@ -38,3 +39,4 @@ Although it is not displayed the previous listing is still there. If you click �
 Just click “OK” and then “Cancel”. Your display will then refresh with the entry listed! Phew..
 
 **Did this help you?**
+

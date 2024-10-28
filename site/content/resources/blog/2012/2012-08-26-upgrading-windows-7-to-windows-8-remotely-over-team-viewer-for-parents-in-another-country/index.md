@@ -1,5 +1,6 @@
 ---
 title: Upgrading Windows 7 to Windows 8 remotely over Team Viewer for parents in another country
+description: "Learn how to upgrade Windows 7 to Windows 8 remotely using Team Viewer, making tech support for your parents across the globe a breeze!"
 date: 2012-08-26
 creator: Martin Hinshelwood
 id: "7712"
@@ -130,3 +131,4 @@ The first thing that you need to do is check for updates and validate that all o
 … Now to get her some apps, uninstall office 2007 in favour of Office 365 Preview…
 
 **How did you get on updating your remote family members?**
+

@@ -1,5 +1,6 @@
 ---
 title: The Sprint is a container for Planning and not necessarily for Delivery
+description: "Explore how Scrum can enhance planning without strict delivery schedules. Learn to embrace Continuous Delivery for better software development practices."
 date: 2011-11-29
 creator: Martin Hinshelwood
 id: "4092"
@@ -63,3 +64,4 @@ Only once you have all of these thing should you then be thinking of what more d
 I never tell teams that you MUST do a thing but instead encourage them to do the right thing for their organisation in a journey to build better software.
 
 Now, that is something that we can all aspire to.
+

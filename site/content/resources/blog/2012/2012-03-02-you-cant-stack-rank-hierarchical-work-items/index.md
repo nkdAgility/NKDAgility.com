@@ -1,5 +1,6 @@
 ---
 title: You can't stack rank hierarchical work items?
+description: "Explore the challenges of stack ranking hierarchical work items in software development. Learn effective strategies to enhance your team's productivity and organization."
 date: 2012-03-02
 creator: Martin Hinshelwood
 id: "4773"
@@ -116,3 +117,4 @@ I am always interested in finding out what other scenarios there are out there:
 Do you agree?
 
 What reasons do you have for using hierarchy's?
+

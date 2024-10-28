@@ -1,5 +1,6 @@
 ---
 title: Visual Studio 2010 Overview - Code Management and Build
+description: "Explore Visual Studio 2010's code management and build features. Learn effective branching strategies and enhance your team's software delivery process."
 date: 2012-01-31
 creator: Martin Hinshelwood
 id: "4182"
@@ -48,3 +49,4 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 **Screencast:  Visual Studio 2010 Overview – Code Management & Build**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts_. **_If you want a custom set of webcasts just for your company so that you can ask the hard questions you can as part of [Microsoft’s ALM Catalyst](http://sharepoint.microsoft.com/almcatalyst/Pages/partnerdetails.aspx?PartnerID=2)._**\_\_
+

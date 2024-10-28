@@ -1,5 +1,6 @@
 ---
 title: My Team Foundation Server system accounts are changing? What do I do?
+description: "Learn how to manage changing TFS 2012 system accounts effectively. Follow our guide to ensure your service accounts remain operational and secure."
 date: 2012-08-30
 creator: Martin Hinshelwood
 id: "8031"
@@ -63,3 +64,4 @@ Here is what you need to do:
 You will need to go round all of your Team Foundation Application Tiers, Team Foundation Build, Team Foundation Proxy, System Centre Virtual Machine Manager, SharePoint Farms, SQL Server Instances, SQL Server Reporting Services instances and SQL Server Analysis Services instances and make sure that you have changed all of the accounts.
 
 Phew…
+

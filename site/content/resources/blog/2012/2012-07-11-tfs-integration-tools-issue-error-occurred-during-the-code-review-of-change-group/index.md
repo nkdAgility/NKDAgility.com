@@ -1,5 +1,6 @@
 ---
 title: "TFS Integration Tools – Issue: Error occurred during the code review of change group"
+description: "Resolve the 'Error occurred during the code review of change group' in TFS Integration Tools with effective workarounds and insights from expert Martin Hinshelwood."
 date: 2012-07-11
 creator: Martin Hinshelwood
 id: "6117"
@@ -42,3 +43,4 @@ Once on the rerun I did get another conflict stating that the data being pushed 
 { .post-img }
 
 **Did this fix your problem?**
+

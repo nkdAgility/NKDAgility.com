@@ -1,5 +1,6 @@
 ---
 title: Upgrading TFS 2010 to TFS 2012 with VSS Migration and Process Template consolidation
+description: "Upgrade your TFS from 2010 to 2012 seamlessly with expert insights on VSS migration and process template consolidation. Enhance your team's efficiency today!"
 date: 2012-06-30
 creator: Martin Hinshelwood
 id: "5702"
@@ -413,3 +414,4 @@ That was this week….next week we will be looking at completing the Process Tem
 One project to rule them all…
 
 _\-Are you upgrading tfs from one version to another? Northwest Cadence has experts ready to help you upgrade from any system to TFS. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
+

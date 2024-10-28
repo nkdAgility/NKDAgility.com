@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 - Issue: TF30063: You are not authorized to access and can’t trace permissions"
+description: "Struggling with TF30063 errors in TFS 2012? Discover the root cause of permission issues and how to resolve them effectively in this insightful guide."
 date: 2012-08-30
 creator: Martin Hinshelwood
 id: "8018"
@@ -67,3 +68,4 @@ I can’t imagine what was trying to be achieved by this… so I will leave you 
 
 [![ImpliedFacePalm](images/ImpliedFacePalm_thumb-6-6.jpg "ImpliedFacePalm")](http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg)
 { .post-img }
+

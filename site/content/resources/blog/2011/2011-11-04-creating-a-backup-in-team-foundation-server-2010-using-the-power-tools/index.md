@@ -1,5 +1,6 @@
 ---
 title: Creating a backup in Team Foundation Server 2010 using the Power Tools
+description: "Learn how to effectively back up Team Foundation Server 2010 using Power Tools. Discover essential tips and troubleshooting for a smooth backup process."
 date: 2011-11-04
 creator: Martin Hinshelwood
 id: "4025"
@@ -189,3 +190,4 @@ After I have hastily changed the service account back to the original value and 
 - [Dynamically Set SPN's for SQL Service Accounts](http://clintboessen.blogspot.com/2010/02/dynamically-set-spns-for-sql-service.html)
 
 So lets go with Network Service instead. If we change the account that SQL Server runs under to “Network Service” then I can add permission for “root_companysqlserver1$” to my share and get it working. Yes, servers have AD accounts as well.
+

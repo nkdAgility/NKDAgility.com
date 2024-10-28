@@ -1,5 +1,6 @@
 ---
 title: "TFS 2012 - Issue: Manage Group Membership missing from admin after TFS 2008 to TFS 2012 Upgrade"
+description: "Discover how to resolve the 'Manage Group Membership' issue after upgrading from TFS 2008 to TFS 2012. Get expert solutions and regain your permissions!"
 date: 2012-08-16
 creator: Martin Hinshelwood
 id: "7176"
@@ -88,3 +89,4 @@ Now that you have the GUID for the Team Project you can execute the command abov
 Hopefully there will be a better way to get the Team Project GUID once the RTM version of the Power Tools becomes available and that there will be a hotfix for this annoying bug in the upgrade.
 
 **Did this fix your problem?**
+

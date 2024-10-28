@@ -1,5 +1,6 @@
 ---
 title: Green to Orange–Joining the VSIP team as a Technical Product Manager
+description: "Join Martin Hinshelwood as he embarks on a new journey as a Technical Product Manager with the VSIP team, enhancing Visual Studio's partner ecosystem."
 date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6914"
@@ -51,3 +52,4 @@ I am really exited about this not just as an opportunity to work more closely wi
 Now adding to that the Product Management role which is very different from those that have gone before will be the next challenge. Also balancing that on a part time basis will be even more fun…
 
 **Do you integrate with Visual Studio? Did it fit into the new taxonomy?**
+

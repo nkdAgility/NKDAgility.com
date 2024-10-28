@@ -1,5 +1,6 @@
 ---
 title: Caffeinating Your Development Lifecycle in Bellevue on October 13th
+description: "Join us in Bellevue on October 13th for Coffee Talks! Energize your development with live demos, Agile discussions, and fresh coffee. Register now!"
 date: 2011-09-26
 creator: Martin Hinshelwood
 id: "3796"
@@ -65,3 +66,4 @@ We are starting with the Coffee Talks, and did I say… they are early! You can 
 > **Questions\*\***?\*\* Email [Amanda.Jaworski@nwcadence.com](mailto:Amanda.Jaworski@nwcadence.com)
 
 I look forward to helping _Caffeinate Your Development Lifecycle_ on October 13th! I am hoping to actually be there myself along with [Cheryl Hammond](http://blog.bsktcase.com/) & [Steven Borg](http://blog.nwcadence.com/author/stevenborg/) who will actually be presenting.
+

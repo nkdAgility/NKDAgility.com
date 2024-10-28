@@ -1,5 +1,6 @@
 ---
 title: Woops I installed Windows 8 instead of Windows 8 Pro!
+description: "Accidentally installed Windows 8 instead of Pro? Discover how to upgrade easily without reinstalling and access all the essential features you need!"
 date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6938"
@@ -69,3 +70,4 @@ I was quite happy not to have to reinstall, but you can choose what you want to 
 **Did you install the wrong version of Windows?**
 
 **How easy was it for you to fix it?**
+

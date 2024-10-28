@@ -1,5 +1,6 @@
 ---
 title: Always prompted for credentials in TFS 2010?
+description: "Struggling with constant credential prompts in TFS 2010? Discover effective solutions and tips to streamline your authentication process effortlessly!"
 date: 2011-11-22
 creator: Martin Hinshelwood
 id: "4071"
@@ -73,3 +74,4 @@ But, sometimes you get a less than prompt response. How can I solve this in the 
 6. Close all instances of Internet Explorer
 
 Now when you open IE and go to any address that contains your company domain it will automatically pass through your Active Directory identity.
+

@@ -1,5 +1,6 @@
 ---
 title: Migrating data from FogBugz to TFS 2012 using the TFS Integration Platform
+description: "Learn how to migrate data from FogBugz to TFS 2012 using a custom CSV adapter. Streamline your upgrade process with expert tips and practical guidance."
 date: 2012-07-17
 creator: Martin Hinshelwood
 id: "6202"
@@ -504,3 +505,4 @@ This is the easiest part now that we have our data format and our configuration 
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
 { .post-img }
+

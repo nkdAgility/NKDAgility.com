@@ -1,5 +1,6 @@
 ---
 title: Automated Testing in a modern application lifecycle
+description: "Discover the essential role of automated testing in modern application lifecycles. Learn how to enhance software quality and streamline your development process."
 date: 2012-09-25
 creator: Martin Hinshelwood
 id: "8868"
@@ -102,3 +103,4 @@ Just as the modern professional engineer does Unit Testing the modern Test Engin
 ### Conclusion
 
 Automated Testing is something that is no longer the purview of the larger development shops but part of the basic needs of any organisation building modern software. There is also no one tool to fit all of your scenarios and you may find yourself working with many of the products and solutions listed above. However all of these solutions integrate with both the Visual Studio IDE or Team Foundation Server to give you a consistency of design, execution and reporting that can’t be surpassed by any other product. If you have created your own tools for automated testing for your software then they can be easily incorporated by crating a simple Test Adapter.
+
