@@ -7,6 +7,10 @@ type: capabilities
 slug: product-management-mentor-program
 aliases:
   - /capabilities/product-management-mentor-program/
+delivery-audiences:
+  - Product Managers
+  - Lean Agile Practitioners
+  - Teams
 card:
   button:
     content: Become a Visionary Leader!

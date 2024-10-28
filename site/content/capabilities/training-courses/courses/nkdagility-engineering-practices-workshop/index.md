@@ -14,6 +14,9 @@ course-vendors:
   - NKDAgility
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
+  - Developers
 tags:
   - development
   - workshop

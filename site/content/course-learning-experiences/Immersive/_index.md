@@ -1,5 +1,6 @@
 ---
 title: Immersive Learning Experiences
+weight: 100
 description: "Empowering Growth Through Incremental learning, Outcome-Based assignements, and Facilitated Reflections"
 aliases:
   - /capabilities/training-courses/immersive

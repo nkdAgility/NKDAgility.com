@@ -19,6 +19,11 @@ course-vendors:
   - Scrum.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Product Owners
+  - Product Managers
+  - Managers
+  - Entrepreneurs
 tags:
   - certification
   - evidence-based-management

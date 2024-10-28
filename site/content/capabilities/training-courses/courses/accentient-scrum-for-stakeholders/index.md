@@ -16,6 +16,8 @@ course-vendors:
   - Accentient
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Product Managers
 tags:
 categories:
   - agility

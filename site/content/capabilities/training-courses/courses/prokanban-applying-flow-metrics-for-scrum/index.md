@@ -16,6 +16,10 @@ course-vendors:
   - ProKanban.org
 course-learning-experiences:
   - Traditional
+delivery-audiences:
+  - Teams
+  - Product Owners
+  - Lean Agile Practitioners
 tags:
 categories:
 preview: NKDAgility-Courses-AFMS-16x9-1.jpg

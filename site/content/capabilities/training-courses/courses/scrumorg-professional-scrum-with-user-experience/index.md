@@ -19,6 +19,12 @@ course-vendors:
 course-learning-experiences:
   - Immersive
   - Traditional
+delivery-audiences:
+  - Product Owners
+  - Product Managers
+  - Scrum Masters
+  - Lean Agile Practitioners
+  - Teams
 tags:
   - certification
   - product-discovery
