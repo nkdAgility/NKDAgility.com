@@ -1,8 +1,9 @@
+<!-- Card HTML -->
 <div class="flip-card">
   <div class="flip-card-inner">
     <!-- Front Side (Existing Card HTML) -->
-    <div class="flip-card-front">
-      <div class="card">
+    <div class="flip-card-front h-100">
+      <div class="card  h-100">
         <div class="card-header" style="color: white;background-color: {{ .Params.brandColour }}">{{ .Params.shorttitle }}</div>
         <div class="card-body">
           <p class="card-text text-muted">GOAL: 6 participants</p>
@@ -14,15 +15,30 @@
             <div class="col-auto">4 Participants</div>
             <div class="col-auto">30 days left</div>
           </div>
-          <p class="card-text">Backing this class gives you access to additional coaching, future discounts, and participation in the scheduling and format of the delivery.</p>
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-
+          <div class="row p-2">
+            <div class="col-6">
+              {{ if .Params.previewIcon }}
+                {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
+                {{ if $image }}
+                  {{ $resized := $image.Fit "250x250 webp" }}
+                  <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+                {{ else }}
+                  NOICON
+                {{ end }}
+              {{ end }}
+            </div>
+            <div class="col-6">
+              <p class="card-text">Backing this class gives you access to additional coaching, future discounts, and participation in the scheduling and format of the delivery.</p>
+            </div>
+          </div>
           <div class="d-grid gap-2">
-            <a href="#" class="btn btn-nkdprimary w-100 position-relative">
-              <i class="fas fa-ticket position-absolute start-0 top-50 translate-middle-y ms-2"></i>
-              Back this Course
-            </a>
-            <a href="#" class="btn btn-nkdprimary w-100 position-relative">
+            {{ if eq hugo.Environment "development" }}
+              <a href="#" class="btn btn-nkdprimary w-100 position-relative">
+                <i class="fas fa-ticket position-absolute start-0 top-50 translate-middle-y ms-2"></i>
+                Back this Course
+              </a>
+            {{ end }}
+            <a href="#" class="btn btn-nkdprimary w-100 position-relative" data-bs-toggle="modal" data-bs-target="#followModal">
               <i class="fas fa-heart position-absolute start-0 top-50 translate-middle-y ms-2"></i>
               Follow
             </a>
@@ -33,55 +49,151 @@
     </div>
 
     <!-- Back Side -->
-    <div class="flip-card-back">
-      <div class="card">
-        <div class="card-header" style="color: white;background-color: {{ .Params.brandColour }}">More Information</div>
+    <div class="flip-card-back h-100">
+      <div class="card h-100 p-2">
+        <div class="position-absolute top-0 end-0 p-2"><a href="#" class="flip-trigger">Close</a></div>
         <div class="card-body">
-          <p class="card-text">Here is additional information about this class, including details on prerequisites, materials provided, and future class sessions.</p>
-          <a href="#" class="btn btn-secondary flip-trigger">Back to Front</a>
+          <h5 class="card-title small">About Our Funding Model</h5>
+          <p class="card-text small">Our funding model supports busy professionals by ensuring courses are fully funded and guaranteed. Through pre-orders, we gather participants to meet enrollment targets for effective delivery.</p>
+          <h5 class="card-title small">Funding Mode</h5>
+          <p class="card-text small">We proceed with courses only when the participant goal is met, ensuring value and support for everyone involved.</p>
+          <h5 class="card-title small">Collaboration Benefits</h5>
+          <p class="card-text small">Pre-ordering gives exclusive access to help shape the course’s start date, schedule, and format.</p>
+          <h5 class="card-title small">Possible Risks</h5>
+          <p class="card-text small">Meeting participant goals may impact the start date. Funds are only taken once the target is met.</p>
+          <a href="#" class="text-center mt-2">Get more information</a>
         </div>
       </div>
     </div>
   </div>
 </div>
 
+<!-- Modal Structure -->
+<div class="modal fade" id="followModal" tabindex="-1" aria-labelledby="followModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="followModalLabel">Follow Course</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Begin Mailchimp Signup Form -->
+        <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css" />
+
+        <div id="mc_embed_signup">
+          <form
+            action="https://nkdagility.us6.list-manage.com/subscribe/post?u=8f1debed5aa20a5cfafd20918&amp;id=94de9849c1&amp;f_id=00640de3f0"
+            method="post"
+            id="mc-embedded-subscribe-form"
+            name="mc-embedded-subscribe-form"
+            class="validate"
+            target="_blank"
+            novalidate>
+            <div id="mc_embed_signup_scroll">
+              <h2>Subscribe</h2>
+              <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+              <div class="mc-field-group">
+                <label for="mce-EMAIL">Email Address <span class="asterisk">*</span> </label>
+                <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required />
+                <span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-FNAME">First Name </label>
+                <input type="text" value="" name="FNAME" class="" id="mce-FNAME" />
+                <span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group">
+                <label for="mce-LNAME">Last Name </label>
+                <input type="text" value="" name="LNAME" class="" id="mce-LNAME" />
+                <span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div class="mc-field-group input-group">
+                <strong>Notify me of </strong>
+                <ul>
+                  <li>
+                    <input type="checkbox" value="4" name="group[18025][4]" id="mce-group[18025]-18025-0" />
+                    <label for="mce-group[18025]-18025-0">New Blog Posts</label>
+                  </li>
+                  <li>
+                    <input type="checkbox" value="16" name="group[18025][16]" id="mce-group[18025]-18025-1" />
+                    <label for="mce-group[18025]-18025-1">Weekly Updates</label>
+                  </li>
+                  <li>
+                    <input type="checkbox" value="8" name="group[18025][8]" id="mce-group[18025]-18025-2" />
+                    <label for="mce-group[18025]-18025-2">Upcoming Classes</label>
+                  </li>
+                </ul>
+                <span id="mce-group[18025]-HELPERTEXT" class="helper_text"></span>
+              </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_8f1debed5aa20a5cfafd20918_94de9849c1" tabindex="-1" value="" /></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" /></div>
+            </div>
+          </form>
+        </div>
+        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+        <script type="text/javascript">
+          (function ($) {
+            window.fnames = new Array();
+            window.ftypes = new Array();
+            fnames[0] = "EMAIL";
+            ftypes[0] = "email";
+            fnames[1] = "FNAME";
+            ftypes[1] = "text";
+            fnames[2] = "LNAME";
+            ftypes[2] = "text";
+            fnames[3] = "CNAME";
+            ftypes[3] = "text";
+          })(jQuery);
+          var $mcj = jQuery.noConflict(true);
+        </script>
+        <!--End mc_embed_signup-->
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Styles for Flip Card -->
 <style>
   .flip-card {
     perspective: 1000px;
     width: 100%;
-    max-width: 400px; /* Adjust width as needed */
+    max-width: 400px;
   }
-
   .flip-card-inner {
-    display: grid; /* Use grid to allow both sides to take up full height */
+    display: grid;
     width: 100%;
     transition: transform 0.6s;
     transform-style: preserve-3d;
   }
-
   .flip-card-front,
   .flip-card-back {
-    grid-area: 1 / 1 / 2 / 2; /* Stack both sides on top of each other */
+    grid-area: 1 / 1 / 2 / 2;
     backface-visibility: hidden;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
-
   .flip-card-front {
     z-index: 2;
   }
-
   .flip-card-back {
     transform: rotateY(180deg);
   }
-
   .flip-card.flipped .flip-card-inner {
     transform: rotateY(180deg);
   }
 </style>
 
+<!-- JavaScript for Flip Effect -->
 <script>
   document.querySelectorAll(".flip-trigger").forEach(function (element) {
     element.addEventListener("click", function (event) {
