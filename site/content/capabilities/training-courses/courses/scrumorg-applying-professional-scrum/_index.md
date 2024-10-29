@@ -5,8 +5,11 @@ date: 2017-01-01
 creator: Martin Hinshelwood
 id: "10045"
 type: course
+kind: page
 slug: applying-professional-scrum-aps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
+cascade:
+  - url: /:section/:slug
 aliases:
   - /training-courses/professional-scrum-foundations
   - /training-courses/professional-scrum-foundations-psf-training
