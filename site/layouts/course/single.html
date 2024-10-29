@@ -1,7 +1,7 @@
 {{ define "headline" }}
   <section class="container my-4">
     <div class="row my-2 my-lg-5">
-      <div class="col-md-8">
+      <div class="col-xl-12 pb-2">
         <h1 class="mb-4 nkda-heading-primary">
           {{ if .Params.headline }}
             {{ .Params.headline.title | markdownify }}
@@ -39,20 +39,26 @@
           {{ end }}
         </p>
       </div>
-      <div class="col-md-4 ">
-        {{ if eq hugo.Environment "development" }}
-          {{ partial "course-parts/coursefound-summery.html" . }}
-        {{ else }}
-          {{ if .Params.previewIcon }}
-            {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
-            {{ if $image }}
-              {{ $resized := $image.Fit "250x250 webp" }}
-              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+    </div>
+    <div class="row my-2 my-lg-5">
+      <div class="col-xl-8 d-flex justify-content-center align-items-center d-none d-xl-flex">
+        {{ if .Params.preview }}
+          {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
+          {{ if $image }}
+            {{ if eq $image.MediaType.SubType "svg" }}
+              <img src="{{ $image.RelPermalink }}" class="img-fluid" />
             {{ else }}
-              NOICON
+              {{ $resized := $image.Fit "800x550 webp" }}
+              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
             {{ end }}
+
+          {{ else }}
+            <img src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" class="img-fluid" />
           {{ end }}
         {{ end }}
+      </div>
+      <div class="col-xl-4 d-flex justify-content-center">
+        {{ partial "course-parts/coursefound-summery.html" . }}
       </div>
     </div>
   </section>

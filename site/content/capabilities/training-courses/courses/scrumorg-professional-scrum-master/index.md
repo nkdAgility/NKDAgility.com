@@ -39,7 +39,7 @@ tags:
 categories:
   - measure-and-learn
   - people-and-process
-preview: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
+preview: NKDAgility-Courses-PSM-16x9.svg
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
