@@ -1,5 +1,5 @@
 {{ define "headline" }}
-  <section class="container my-4" style="max-width: 900px !important">
+  <section class="container my-4">
     <div class="row my-2 my-lg-5">
       <div class="col-md-8">
         <h1 class="mb-4 nkda-heading-primary">
@@ -40,20 +40,22 @@
         </p>
       </div>
       <div class="col-md-4 ">
-        {{ if .Params.previewIcon }}
-          {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
-          {{ if $image }}
-            {{ $resized := $image.Fit "250x250 webp" }}
-            <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
-          {{ else }}
-            NOICON
+        {{ if eq hugo.Environment "development" }}
+          {{ partial "course-parts/coursefound-summery.html" . }}
+        {{ else }}
+          {{ if .Params.previewIcon }}
+            {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
+            {{ if $image }}
+              {{ $resized := $image.Fit "250x250 webp" }}
+              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+            {{ else }}
+              NOICON
+            {{ end }}
           {{ end }}
         {{ end }}
-
       </div>
     </div>
   </section>
-  {{ partial "course-parts/coursefound-summery.html" . }}
 {{ end }}
 
 {{ define "main" }}

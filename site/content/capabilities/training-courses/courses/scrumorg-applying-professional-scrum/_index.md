@@ -9,7 +9,7 @@ kind: page
 slug: applying-professional-scrum-aps-with-certification
 url: /capabilities/training-courses/scrum-training-courses/:slug/
 cascade:
-  - url: /:section/:slug
+  - url: /capabilities/training-courses/scrum-training-courses/applying-professional-scrum-aps-with-certification/:slug/
 aliases:
   - /training-courses/professional-scrum-foundations
   - /training-courses/professional-scrum-foundations-psf-training
@@ -121,10 +121,10 @@ roadmap:
     - /capabilities/training-courses/scrum-training-courses/professional-scrum-product-owner/
     - /capabilities/training-courses/scrum-training-courses/scrumorg-applying-professional-scrum-for-software-development/
 syllabusBefore:
-  - title: The Surprising Truth about what motivates us
-    link: https://youtu.be/aJWH84Nwucc
+  - title: Technical Stuff
+    link: ./technical-stuff/
     duration: 15
-    type: video
+    type: page
     weight: 1
 syllabus:
   - id: 1
