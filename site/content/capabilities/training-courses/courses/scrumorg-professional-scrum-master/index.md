@@ -455,10 +455,6 @@ syllabus:
         - Practice assignment[Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
         - Passwords have no expiration date, but are valid for one attempt only
         - Lifetime certification - no annual renewal fee required
-  - id: 8
-    title: Catchup
-    duration: 120
-    content: Two weeks after completing the Scrum Master course, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect on your experiences applying the concepts learned in the course, share insights, and receive additional support.
 events:
   - start_date: 2025-01-23
     location: Virtual
