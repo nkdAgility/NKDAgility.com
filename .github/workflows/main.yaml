@@ -199,21 +199,35 @@ jobs:
       - name: Check if folder size exceeds 500MB
         shell: pwsh
         run: |
-            $folder = "./public/"
-            $size = (Get-ChildItem -Recurse -File -Path $folder | Measure-Object -Property Length -Sum).Sum
-  
-            # Example: Perform an action if the folder is larger than 500MB (524288000 bytes)
-            if ($size -gt 524288000 ) {
-              Write-Host "Folder is larger than 500MB"
-              # Add additional actions or logic here
-            } else {
-              Write-Host "Folder is under 500MB"
-            }
+          $folder = "./public/"
+          $size = (Get-ChildItem -Recurse -File -Path $folder | Measure-Object -Property Length -Sum).Sum
+
+          # Example: Perform an action if the folder is larger than 500MB (524288000 bytes)
+          if ($size -gt 524288000 ) {
+            Write-Host "Folder is larger than 500MB"
+            # Add additional actions or logic here
+          } else {
+            Write-Host "Folder is under 500MB"
+          }
 
       - uses: actions/upload-artifact@v4
         with:
           name: Site
           path: ./public/**/*
+
+      - name: Setup DotNet Environment
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: 8.x
+      - name: Check if folder size exceeds 500MB
+        shell: pwsh
+        run: |
+          dotnet build functions/functions.csproj --configuration Release --output ./api/
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: API
+          path: ./api/**/*
 
   # Release to Docs
   Publsh:
@@ -227,6 +241,11 @@ jobs:
         with:
           name: Site
           path: ./_site
+      - name: Download a single artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: API
+          path: ./_api
 
       - name: "Find  files"
         shell: pwsh
@@ -246,8 +265,9 @@ jobs:
           repo_token: ${{ steps.app-token.outputs.token }}
           action: "upload"
           app_location: ./_site
+          api_location: ./_api
           skip_app_build: true
-          skip_api_build: true
+          # skip_api_build: true
           output_location: ""
           deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
