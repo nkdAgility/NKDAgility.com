@@ -80,13 +80,13 @@
   {{ else }}
     <!-- MISSING .Page.Params.overview -->
   {{ end }}
-  {{ if eq hugo.Environment "development" }}
+  {{/*  {{ if eq hugo.Environment "development" }}
     <section class="container my-4" style="max-width: 900px !important">
       {{ partial "course-parts/events-schedule-single.html" . }}
     </section>
   {{ else }}
     <!-- OFF course-parts/events-schedule-single.html -->
-  {{ end }}
+  {{ end }}  */}}
   {{ if .Page.Params.outcomes }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Course Outcomes</h2>
