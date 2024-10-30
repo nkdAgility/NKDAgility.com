@@ -151,7 +151,7 @@ jobs:
           "@
           echo $markdown >> $Env:GITHUB_STEP_SUMMARY
 
-    # Build Docs
+  # Build Docs
   BuildSite:
     name: "Build Site"
     runs-on: ubuntu-latest
@@ -215,6 +215,21 @@ jobs:
           name: Site
           path: ./public/**/*
 
+  # Build Api
+  BuildApi:
+    name: "Build Api"
+    runs-on: ubuntu-latest
+    if: ${{ success() }}
+    needs: [Setup]
+    env:
+      GitVersion_SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
+      GitVersion_AssemblySemVer: ${{ needs.Setup.outputs.GitVersion_AssemblySemVer }}
+      GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+
       - name: Setup DotNet Environment
         uses: actions/setup-dotnet@v3
         with:
@@ -233,7 +248,7 @@ jobs:
   Publsh:
     name: "Publish Site"
     runs-on: ubuntu-latest
-    needs: [Setup, BuildSite]
+    needs: [Setup, BuildSite, BuildApi]
     if: ${{ success() }}
     steps:
       - name: Download a single artifact
