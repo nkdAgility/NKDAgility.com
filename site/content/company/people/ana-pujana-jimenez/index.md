@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "46982"
 type: people
 slug: ana-pujana-jimenez
-aliases:
-  - /company/people/ana-pujana-jimenez/
+
 preview: Ana.jpg
+people-abilities:
+  - Consultant
 card:
   button:
     content: More info

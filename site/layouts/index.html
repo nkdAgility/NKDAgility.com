@@ -84,12 +84,5 @@
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
     {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
   </section>
-  <section class="container my-5">
-    <h2 title="People - Who are we?">Who are we?</h2>
-    <p>
-      At NKD Agility, we unite a team of the world’s most seasoned and dynamic Agile coaches, consultants, Professional Scrum Trainers, and Kanban experts, who are globally respected for mastering Agile in some of the most challenging Agile environments
-      on Earth. Unmatched expertise balanced with warmth and passion.
-    </p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "company/people") . }}
-  </section>
+  {{ partial "homepage-people.html" . }}
 {{ end }}

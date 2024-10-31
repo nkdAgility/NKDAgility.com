@@ -52,6 +52,7 @@ taxonomies:
   course-learning-experience: course-learning-experiences
   customer-industry: customer-industries
   delivery-audience: delivery-audiences
+  people-ability: people-abilities
 
 permalinks:
   taxonomy:
@@ -60,12 +61,14 @@ permalinks:
     course-vendors: "/capabilities/training-courses/course-vendors"
     course-learning-experiences: "/capabilities/training-courses/course-learning-experiences"
     customer-industry: "/company/customers/industry"
+    people-abilities: "/company/people/abilities"
   term:
     delivery-audiences: "/capabilities/audiences/:slug/"
     course-topics: "/capabilities/training-courses/:slug/"
     course-vendors: "/capabilities/training-courses/:slug/"
     course-learning-experiences: "/capabilities/training-courses/:slug/"
     customer-industry: "/company/customers/:slug/"
+    people-abilities: "/company/people/abilities/:slug/"
   page:
     resources: /:sections/:slug/
     course: /:sections/:slug/

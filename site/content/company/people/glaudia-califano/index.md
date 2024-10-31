@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "44798"
 type: people
 slug: glaudia-califano
-aliases:
-  - /company/people/glaudia-califano/
 preview: 0.png
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

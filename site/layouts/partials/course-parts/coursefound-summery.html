@@ -200,3 +200,47 @@
     });
   });
 </script>
+
+<script>
+  var client = ShopifyBuy.buildClient({
+    domain: "buy.nkdagility.com",
+    storefrontAccessToken: "1af5a4c4ebcf8458c6982b47ee2fff4c",
+    appId: "6", // Standard app ID for Shopify stores
+  });
+</script>
+
+<script>
+  // Replace 'productId' with your actual Shopify product ID
+  var productId = "9881307152724";
+
+  client.product.fetch(productId).then((product) => {
+    // Create the Buy Button
+    ShopifyBuy.UI.onReady(client).then((ui) => {
+      ui.createComponent("product", {
+        id: productId,
+        node: document.getElementById("product-component"),
+        options: {
+          product: {
+            iframe: false,
+            text: {
+              button: "Buy Now",
+            },
+          },
+          cart: {
+            startOpen: false,
+          },
+          modalProduct: {
+            iframe: false,
+          },
+          toggle: {
+            iframe: false,
+            contents: {
+              count: true,
+              icon: true,
+            },
+          },
+        },
+      });
+    });
+  });
+</script>

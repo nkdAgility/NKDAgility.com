@@ -5,9 +5,12 @@ creator: Martin Hinshelwood
 id: "49463"
 type: people
 slug: dan-brown-kanbandan
-aliases:
-  - /company/people/dan-brown-kanbandan/
+
 preview: kanban-dan.png
+weight: 500
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

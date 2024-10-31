@@ -1,0 +1,26 @@
+<section class="container my-5">
+  <h2 title="People - Who are we?">Who are we?</h2>
+  <p>
+    At NKD Agility, we unite a team of the world’s most seasoned and dynamic Agile coaches, consultants, Professional Scrum Trainers, and Kanban experts, who are globally respected for mastering Agile in some of the most challenging Agile environments on
+    Earth. Unmatched expertise balanced with warmth and passion.
+  </p>
+  {{ $PagePermalink := .Page.Permalink }}
+  {{ $section := .Site.GetPage "section" "company/people" }}
+  <div class="container">
+    <div class="row">
+      {{ len $section.Pages }}
+
+      {{ len (where $section.Pages (index .Params "people-abilities") "intersect" (slice "Trainer" "Consultant")) }}
+      {{ range where (where $section.Pages.ByWeight "Type" "people") (index .Params "people-abilities") "in" (slice "Trainer" "Consultant") }}
+        {{ if not .Draft }}
+          {{ if ne .Permalink $PagePermalink }}
+            <div class="col-md-6 col-xl-4 d-flex">
+              <!-- prettier-ignore -->
+              {{ partial "card.html" (dict "Page" . "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
+            </div>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</section>
