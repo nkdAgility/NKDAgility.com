@@ -33,9 +33,13 @@
           </div>
           <div class="d-grid gap-2">
             <a href="#" class="btn btn-nkdagility-primary w-100 position-relative disabled "> <i class="fas fa-ticket position-absolute start-0 top-50 translate-middle-y ms-2"></i>Preorder </a>
-            {{/* <div id="preproduct-pledge" data-id="9881307152724" data-headless="true" data-domain="273187-62.myshopify.com" style="text-align: left; padding: 10px 0px;"></div>
-              <script type="text/javascript" async src="https://api.preproduct.io/preproduct-embed.js"></script>
-            */}}
+
+            {{ if eq hugo.Environment "development" }}
+              {{/* <div id="preproduct-pledge" data-id="9881307152724" data-headless="true" data-domain="273187-62.myshopify.com" style="text-align: left; padding: 10px 0px;"></div>
+                <script type="text/javascript" async src="https://api.preproduct.io/preproduct-embed.js"></script>
+              */}}
+              <div id="my-product"></div>
+            {{ end }}
             <a href="#" class="btn btn-nkdagility-secondary w-100 position-relative" title="Sign-up to be the first to know" data-bs-toggle="modal" data-bs-target="#followModal">
               <i class="fas fa-heart position-absolute start-0 top-50 translate-middle-y ms-2"></i>
               Follow
@@ -201,46 +205,58 @@
   });
 </script>
 
-<script>
-  var client = ShopifyBuy.buildClient({
-    domain: "buy.nkdagility.com",
-    storefrontAccessToken: "1af5a4c4ebcf8458c6982b47ee2fff4c",
-    appId: "6", // Standard app ID for Shopify stores
-  });
-</script>
+{{ if eq hugo.Environment "development" }}
+  <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
+  <script src="https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js"></script>
+  <script>
+    var client = ShopifyBuy.buildClient({
+      domain: "273187-62.myshopify.com",
+      storefrontAccessToken: "1af5a4c4ebcf8458c6982b47ee2fff4c",
+      appId: "6", // Standard app ID for Shopify stores
+    });
+  </script>
 
-<script>
-  // Replace 'productId' with your actual Shopify product ID
-  var productId = "9881307152724";
+  <script>
+    // Replace 'productId' with your actual Shopify product ID
+    var productId = "gid://shopify/Product/9881307152724";
+    var ui = ShopifyBuy.UI.init(client);
 
-  client.product.fetch(productId).then((product) => {
-    // Create the Buy Button
-    ShopifyBuy.UI.onReady(client).then((ui) => {
-      ui.createComponent("product", {
-        id: productId,
-        node: document.getElementById("product-component"),
-        options: {
-          product: {
-            iframe: false,
-            text: {
-              button: "Buy Now",
-            },
+    ui.createComponent("product", {
+      id: 9881307152724,
+      node: document.getElementById("my-product"),
+      options: {
+        product: {
+          iframe: false,
+          contents: {
+            img: false, // Hide product image
+            title: false, // Hide product title
+            price: false, // Hide product price
+            options: false, // Hide product options
+            description: false, // Hide product description
+            button: true, // Only show the buy button
           },
-          cart: {
-            startOpen: false,
+          text: {
+            button: "Preorder",
           },
-          modalProduct: {
-            iframe: false,
-          },
-          toggle: {
-            iframe: false,
-            contents: {
-              count: true,
-              icon: true,
-            },
+          classes: {
+            product: "my-custom-product", // Add custom class to the product container
+            button: "buy-button btn btn-nkdagility-primary w-100 position-relative", // Add custom classes to the button itself
           },
         },
-      });
+        cart: {
+          startOpen: false,
+        },
+        modalProduct: {
+          iframe: false,
+        },
+        toggle: {
+          iframe: false,
+          contents: {
+            count: true,
+            icon: true,
+          },
+        },
+      },
     });
-  });
-</script>
+  </script>
+{{ end }}
