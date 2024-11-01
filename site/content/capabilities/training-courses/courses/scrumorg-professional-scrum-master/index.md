@@ -48,6 +48,10 @@ level: intermediate
 carousel:
   - link: images/NKDAgility-Courses-PSM-16x9.svg
     type: image
+  - link: resources/videos/youtube/vWfebO_pwIU
+    type: video
+  - link: resources/videos/youtube/xo4jMxupIM0
+    type: video
 introduction: |
   **Learn Professional Scrum and Elevate Your Role as a Scrum Master with NKD Agility**
 

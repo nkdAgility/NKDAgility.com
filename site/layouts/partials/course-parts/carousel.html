@@ -1,36 +1,34 @@
 {{ $site := .Site }}
-<div id="carousel-example" class="carousel slide" data-bs-ride="carousel">
-  <!-- Carousel Indicators -->
-  <ol class="carousel-indicators">
-    {{ range $index, $item := .Params.carousel }}
-      <li data-bs-target="#carousel-example" data-bs-slide-to="{{ $index }}" class="{{ if eq $index 0 }}active{{ end }}"></li>
-    {{ end }}
-  </ol>
+{{ $Resources := .Resources }}
 
-  <!-- Carousel Items -->
-  <div class="carousel-inner">
+
+<div class="swiper mySwiper">
+  <div class="swiper-wrapper">
     {{ range $index, $item := .Params.carousel }}
-      {{ $isActive := cond (eq $index 0) "active" "" }}
-      <div class="carousel-item {{ $isActive }}">
-        {{ if eq $item.type "resource" }}
+      <div class="swiper-slide">
+        {{ if eq $item.type "video" }}
           <!-- Hugo Page (e.g., YouTube Video from 'resources' page) -->
           {{ $resourcePage := $site.GetPage $item.link }}
           {{ if $resourcePage }}
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?rel=0" allowfullscreen></iframe>
+            <div class="ratio ratio-16x9">
+              <iframe
+                src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?rel=0"
+                title="{{ $resourcePage.Params.title }}"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
             </div>
           {{ else }}
             <p>Video `{{ $item.link }}` not found.</p>
           {{ end }}
         {{ else if eq $item.type "image" }}
           <!-- Hugo Resource Image or External Image -->
-          {{ $image := .Resources.GetMatch $item.link }}
+          {{ $image := $Resources.GetMatch $item.link }}
           {{ if $image }}
             {{ if eq $image.MediaType.SubType "svg" }}
-              <img src="{{ $image.RelPermalink }}" class="d-block w-100" alt="carousel image" />
+              <img src="{{ $image.RelPermalink }}" class="img-fluid" />
             {{ else }}
               {{ $resized := $image.Fit "800x550 webp" }}
-              <img src="{{ $resized.RelPermalink }}" class="d-block w-100" alt="carousel image" />
+              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
             {{ end }}
           {{ else }}
             <!-- External Image Fallback if Not Found as Hugo Resource -->
@@ -41,26 +39,52 @@
     {{ end }}
   </div>
 
-  <!-- Carousel Controls -->
-  <a class="carousel-control-prev" href="#carousel-example" role="button" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carousel-example" role="button" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </a>
+  <!-- Swiper Pagination and Navigation Controls -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
 </div>
+
 <style>
-  .carousel-indicators {
-    list-style-type: none; /* Removes numbers */
-    padding-left: 0; /* Ensures no extra padding */
-    margin-bottom: 0; /* Aligns indicators properly */
+  .mySwiper {
+    position: relative;
+    padding-bottom: 50px; /* Increase this value if needed to push the dots further */
   }
-  .carousel-indicators li {
-    width: 10px;
-    height: 10px;
-    background-color: #000; /* Adjust color as needed */
-    border-radius: 25%;
+
+  .swiper-pagination {
+    position: absolute;
+    bottom: 10px; /* Adjust to move the pagination lower */
+    left: 0;
+    width: 100%;
+    text-align: center;
   }
 </style>
+
+<script>
+  var swiper = new Swiper(".mySwiper", {
+    loop: true,
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false,
+    },
+    spaceBetween: 10, // Adjusts space between slides
+  });
+
+  // Stop autoplay when mouse is over the swiper container
+  document.querySelector(".mySwiper").addEventListener("mouseenter", function () {
+    swiper.autoplay.stop();
+  });
+
+  // Resume autoplay when mouse leaves the swiper container
+  document.querySelector(".mySwiper").addEventListener("mouseleave", function () {
+    swiper.autoplay.start();
+  });
+</script>
