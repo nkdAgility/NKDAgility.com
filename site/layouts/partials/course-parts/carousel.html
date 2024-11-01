@@ -1,91 +1,112 @@
 {{ $site := .Site }}
 {{ $Resources := .Resources }}
-
-
-<div class="swiper mySwiper">
-  <div class="swiper-wrapper">
-    {{ range $index, $item := .Params.carousel }}
-      <div class="swiper-slide">
-        {{ if eq $item.type "video" }}
-          <!-- Hugo Page (e.g., YouTube Video from 'resources' page) -->
-          {{ $resourcePage := $site.GetPage $item.link }}
-          {{ if $resourcePage }}
-            <div class="ratio ratio-16x9">
-              <iframe
-                src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?enablejsapi=1"
-                title="{{ $resourcePage.Params.title }}"
-                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                enablejsapi="true"
-                allowfullscreen></iframe>
-            </div>
-          {{ else }}
-            <p>Video `{{ $item.link }}` not found.</p>
-          {{ end }}
-        {{ else if eq $item.type "image" }}
-          <!-- Hugo Resource Image or External Image -->
-          {{ $image := $Resources.GetMatch $item.link }}
-          {{ if $image }}
-            {{ if eq $image.MediaType.SubType "svg" }}
-              <img src="{{ $image.RelPermalink }}" class="img-fluid" />
+{{ if .Params.carousel }}
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      {{ range $index, $item := .Params.carousel }}
+        <div class="swiper-slide">
+          {{ if eq $item.type "video" }}
+            <!-- Hugo Page (e.g., YouTube Video from 'resources' page) -->
+            {{ $resourcePage := $site.GetPage $item.link }}
+            {{ if $resourcePage }}
+              <div class="ratio ratio-16x9">
+                <iframe
+                  src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?enablejsapi=1"
+                  title="{{ $resourcePage.Params.title }}"
+                  allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  enablejsapi="true"
+                  allowfullscreen></iframe>
+              </div>
             {{ else }}
-              {{ $resized := $image.Fit "800x550 webp" }}
-              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+              <p>Video `{{ $item.link }}` not found.</p>
             {{ end }}
-          {{ else }}
-            <!-- External Image Fallback if Not Found as Hugo Resource -->
-            <img src="{{ $item.link }}" class="d-block w-100" alt="carousel image" />
+          {{ else if eq $item.type "image" }}
+            <!-- Hugo Resource Image or External Image -->
+            {{ $image := $Resources.GetMatch $item.link }}
+            {{ if $image }}
+              {{ if eq $image.MediaType.SubType "svg" }}
+                <img src="{{ $image.RelPermalink }}" class="img-fluid" />
+              {{ else }}
+                {{ $resized := $image.Fit "800x550 webp" }}
+                <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+              {{ end }}
+            {{ else }}
+              <!-- External Image Fallback if Not Found as Hugo Resource -->
+              <img src="{{ $item.link }}" class="d-block w-100" alt="carousel image" />
+            {{ end }}
           {{ end }}
-        {{ end }}
-      </div>
-    {{ end }}
+        </div>
+      {{ end }}
+    </div>
+
+    <!-- Swiper Pagination and Navigation Controls -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
   </div>
 
-  <!-- Swiper Pagination and Navigation Controls -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-  <div class="swiper-pagination"></div>
-</div>
+  <style>
+    .mySwiper {
+      position: relative;
+      padding-bottom: 50px; /* Increase this value if needed to push the dots further */
+    }
 
-<style>
-  .mySwiper {
-    position: relative;
-    padding-bottom: 50px; /* Increase this value if needed to push the dots further */
-  }
+    .swiper-pagination {
+      position: absolute;
+      bottom: 10px; /* Adjust to move the pagination lower */
+      left: 0;
+      width: 100%;
+      text-align: center;
+    }
+  </style>
 
-  .swiper-pagination {
-    position: absolute;
-    bottom: 10px; /* Adjust to move the pagination lower */
-    left: 0;
-    width: 100%;
-    text-align: center;
-  }
-</style>
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      loop: true,
+      navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      autoplay: {
+        delay: 5000,
+        disableOnInteraction: false,
+      },
+      spaceBetween: 10, // Adjusts space between slides
+    });
 
-<script>
-  var swiper = new Swiper(".mySwiper", {
-    loop: true,
-    navigation: {
-      nextEl: ".swiper-button-next",
-      prevEl: ".swiper-button-prev",
-    },
-    pagination: {
-      el: ".swiper-pagination",
-      clickable: true,
-    },
-    autoplay: {
-      delay: 5000,
-      disableOnInteraction: false,
-    },
-    spaceBetween: 10, // Adjusts space between slides
-  });
+    // Stop autoplay when mouse is over the swiper container
+    document.querySelector(".mySwiper").addEventListener("mouseenter", function () {
+      swiper.autoplay.stop();
+    });
 
-  // Stop autoplay when mouse is over the swiper container
-  document.querySelector(".mySwiper").addEventListener("mouseenter", function () {
-    swiper.autoplay.stop();
-  });
-
-  // Resume autoplay when mouse leaves the swiper container
-  document.querySelector(".mySwiper").addEventListener("mouseleave", function () {
-    swiper.autoplay.start();
-  });
-</script>
+    // Resume autoplay when mouse leaves the swiper container
+    document.querySelector(".mySwiper").addEventListener("mouseleave", function () {
+      swiper.autoplay.start();
+    });
+  </script>
+{{ else }}
+  {{ if .Params.preview }}
+    {{ $image := $Resources.GetMatch (printf "images/%s" .Params.preview) }}
+    {{ if not $image }}
+      {{ $image = $Resources.GetMatch .Params.preview }}
+    {{ end }}
+    {{ if $image }}
+      {{ if eq $image.MediaType.SubType "svg" }}
+        <img src="{{ $image.RelPermalink }}" nkd-data="resource/svg" class="img-fluid" />
+      {{ else }}
+        {{ $resized := $image.Fit "800x550 webp" }}
+        <img src="{{ $resized.RelPermalink }}" nkd-data="resource/image" class="img-fluid" />
+      {{ end }}
+    {{ else }}
+      <!-- External Image Fallback if Not Found as Hugo Resource -->
+      <img src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" nkd-data="fallback/preview" class="d-block w-100" />
+    {{ end }}
+  {{ else }}
+    <!-- External Image Fallback if Not Found as Hugo Resource -->
+    <img src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" nkd-data="fallback/no-preview" class="d-block w-100" />
+  {{ end }}
+{{ end }}
