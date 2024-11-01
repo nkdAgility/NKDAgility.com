@@ -13,20 +13,20 @@ isShort: False
 
 # Motivating a Scrum team - How does a scrum master or agile coach motivate a scrum team?
 
-_Unlocking Team Motivation in Scrum: A Guide for Agile Coaches and Scrum Masters_ - Discover the art of motivating scrum teams! Dive into effective team management techniques, ensuring productivity and engagement in Agile environments. 🚀🤝
+*Unlocking Team Motivation in Scrum: A Guide for Agile Coaches and Scrum Masters* - Discover the art of motivating scrum teams! Dive into effective team management techniques, ensuring productivity and engagement in Agile environments. 🚀🤝
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 👋 In this video, I delve into the intriguing world of Scrum and Agile, particularly focusing on the role of a Scrum Master or Agile Coach in nurturing team motivation. 🌟👥 It's a contemplative journey exploring not just the _"how"_ but the _"why"_ behind team dynamics and motivation. I share my insights on accountability, handling demotivation, setting realistic goals, and the crucial role of stakeholder engagement and purpose. 🎯❤️ Join me as we unravel these aspects together and find ways to bring zest and zeal back into our teams!
 
-_Key Takeaways:_
+*Key Takeaways:*
 00:00:05 Role of Scrum Master in Team Motivation
 00:00:24 Accountability and Team Effectiveness
 00:00:58 Addressing Team Demotivation
 00:01:47 Setting Realistic Sprint Goals
 00:03:04 Purpose and Stakeholder Engagement
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to keep your team motivated or have issues with maintaining stakeholder engagement, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

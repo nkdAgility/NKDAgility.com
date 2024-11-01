@@ -22,7 +22,7 @@ Why You Should Watch:
 Break Down Silos: Learn how to foster collaboration between product development and user feedback.
 Embrace Change: Discover the power of adaptability in responding to evolving customer needs.
 Maximize Value offering:
-offeringType: training-course Understand how empowering your team leads to better products and happier customers.
+  offeringType: training-course Understand how empowering your team leads to better products and happier customers.
 Actionable Insights: Gain practical tips for creating a culture of empowerment within your Agile team.
 Key Takeaways (Timestamps):
 

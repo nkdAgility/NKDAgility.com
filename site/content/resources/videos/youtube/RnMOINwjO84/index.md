@@ -15,11 +15,11 @@ isShort: False
 
 Making Agile Decisions in a Complex World: Why There Are No Rules
 
-In this video, I explore why decision-making in agile environments is more complex than ever and why there’s no one-size-fits-all approach to using data, telemetry, or evidence-based management.
+In this video, I explore why decision-making in agile environments is more complex than ever and why there’s no one-size-fits-all approach to using data, telemetry, or evidence-based management. 
 
 I share insights into how traditional decision-making frameworks from complicated systems no longer apply in today’s complex and dynamic environments. Using examples from logistics and software engineering, I explain why businesses need to embrace flexibility and creativity to adapt to ever-changing conditions.
 
-Who should watch this video?
+Who should watch this video? 
 
 If you’re a product manager, Scrum Master, agile leader, or anyone trying to make informed decisions in a fast-paced, complex world, this video is for you. Learn how to adopt a mindset that continuously evolves as you encounter new challenges, surprises, and opportunities in product development and business operations.
 
@@ -36,9 +36,9 @@ Chapters:
 9:50 How Emergent Decision-Making Helps Businesses Thrive  
 11:05 Tools for Agile Decision Making (Fist of Five, Lean Coffee, etc.)  
 13:18 The Danger of Letting Business Processes Become Rusty  
-14:20 Conclusion: Evolving Your Business Practices to Stay Relevant
+14:20 Conclusion: Evolving Your Business Practices to Stay Relevant  
 
-By the end of this video, you’ll understand why agile decision-making is an ongoing process of adaptation, not a rigid framework. I’ll provide examples of how to embrace emergence, use the right tools for the right situation, and avoid getting stuck in outdated processes.
+By the end of this video, you’ll understand why agile decision-making is an ongoing process of adaptation, not a rigid framework. I’ll provide examples of how to embrace emergence, use the right tools for the right situation, and avoid getting stuck in outdated processes. 
 
 If you found this video useful, please like, subscribe, and visit https://www.nkdagility.com for more content on agility and decision-making.
 

@@ -13,9 +13,9 @@ isShort: False
 
 # 5 kinds of Agile bandits. Planning Bandits
 
-The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process. Join us as we explore more effective ways to plan and execute sprints.
+The Agile Illusion: Unmasking the Burndown Trap in Sprint Planning - Discover why traditional burndown charts might be misleading your Agile process. Join us as we explore more effective ways to plan and execute sprints. 
 
-Enjoy this video? 🔔 Like and subscribe to our channel:\* https://www.youtube.com/@nakedAgility
+Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin dives deep into the pitfalls of relying on traditional burndown charts in Agile sprint planning. 📉🚫 He argues that these tools can create an illusion of progress and control, often leading to ineffective and overly rigid plans. 📅🔄 Martin emphasizes the importance of embracing adaptability and focusing on delivering real value rather than sticking to predetermined plans. 🌟✨ With practical insights and real-world examples, this video is a must-watch for anyone looking to refine their Agile practices. 🚀💡
 
@@ -28,7 +28,7 @@ Key Takeaways:
 
 NKDAgility can help!
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to balance detailed planning with agility in your sprints, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to balance detailed planning with agility in your sprints, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can. 
 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
 

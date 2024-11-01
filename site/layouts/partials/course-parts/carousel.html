@@ -12,9 +12,10 @@
           {{ if $resourcePage }}
             <div class="ratio ratio-16x9">
               <iframe
-                src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?rel=0"
+                src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?enablejsapi=1"
                 title="{{ $resourcePage.Params.title }}"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                enablejsapi="true"
                 allowfullscreen></iframe>
             </div>
           {{ else }}

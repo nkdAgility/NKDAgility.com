@@ -5,61 +5,11 @@ $outputDir = "site\content\resources\videos\youtube"
 $dataDirectory = ".\site\data"
 $refreshData = $false
 
-$maxResults = 50
+$maxResults = 800
 
 # Create the output directory if it doesn't exist
 if (-not (Test-Path $outputDir)) {
     New-Item -Path $outputDir -ItemType Directory
-}
-
-# Function to fetch video details from YouTube API and update data.json files
-function Update-YoutubeDataFiles {
-    param ()
-
-    $nextPageToken = $null
-
-    do {
-        # YouTube API endpoint to get videos from a channel, including nextPageToken
-        $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
-
-        # Fetch video list
-        $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
-
-        $dataFilePath = Join-Path $dataDirectory "youtube.json"
-        $searchResponse | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
-
-        foreach ($video in $searchResponse.items) {
-            $videoId = $video.id.videoId
-
-            # Create the directory named after the video ID
-            $videoDir = Join-Path $outputDir $videoId
-            if (-not (Test-Path $videoDir)) {
-                New-Item -Path $videoDir -ItemType Directory
-            }
-
-            # File path for data.json
-            $jsonFilePath = Join-Path $videoDir "data.json"
-
-            if ($refreshData -or -not (Test-Path $jsonFilePath)) {
-                # Fetch full video details from YouTube API
-                $videoDetailsUrl = "https://www.googleapis.com/youtube/v3/videos?key=$apiKey&id=$videoId&part=snippet,contentDetails"
-                $videoDetails = Invoke-RestMethod -Uri $videoDetailsUrl -Method Get
-                $videoData = $videoDetails.items[0]
-
-                # Save updated video data to data.json
-                $videoData | ConvertTo-Json -Depth 10 | Set-Content -Path $jsonFilePath
-                Write-Host "Updated data.json for video: $videoId"
-            } 
-
-           
-        }
-
-        # Get the nextPageToken to continue fetching more videos
-        $nextPageToken = $searchResponse.nextPageToken
-
-    } while ($nextPageToken)
-
-    Write-Host "All video data files updated."
 }
 
 # Function to generate markdown files from existing data.json files
@@ -68,7 +18,7 @@ function Update-YoutubeDataFiles {
     param ()
 
     $nextPageToken = $null
-
+    $page = 1;
     do {
         # YouTube API endpoint to get videos from a channel, including nextPageToken
         $searchApiUrl = "https://www.googleapis.com/youtube/v3/search?key=$apiKey&part=snippet&channelId=$channelId&type=video&maxResults=$maxResults&pageToken=$nextPageToken"
@@ -76,7 +26,7 @@ function Update-YoutubeDataFiles {
         # Fetch video list
         $searchResponse = Invoke-RestMethod -Uri $searchApiUrl -Method Get
 
-        $dataFilePath = Join-Path $dataDirectory "youtube.json"
+        $dataFilePath = Join-Path $dataDirectory "youtube-$page.json"
         $searchResponse | ConvertTo-Json -Depth 10 | Set-Content -Path $dataFilePath
 
         foreach ($video in $searchResponse.items) {
@@ -88,7 +38,7 @@ function Update-YoutubeDataFiles {
 
         # Get the nextPageToken to continue fetching more videos
         $nextPageToken = $searchResponse.nextPageToken
-
+        $page++
     } while ($nextPageToken)
 
     Write-Host "All video data files updated."
@@ -109,7 +59,9 @@ function Update-YoutubeDataFile {
 
     # File path for data.json
     $jsonFilePath = Join-Path $videoDir "data.json"
-
+    if ($videoId -eq "xo4jMxupIM0") {
+        Write-Host "Updating data.json for video: $videoId"
+    }
     # Only update if $refreshData is true or data.json doesn't exist
     if ($refreshData -or -not (Test-Path $jsonFilePath)) {
         # Fetch full video details from YouTube API
@@ -225,5 +177,5 @@ function Update-YoutubeMarkdownFiles {
 # Main calls
 #Update-YoutubeDataFile ""
 
-#Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
+#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

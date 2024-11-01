@@ -41,6 +41,7 @@ Stay at the forefront of Agile methodology enhancements and integration strategi
 Transform your project management approach with actionable insights from Kanban.
 Join a community committed to continuous improvement and operational excellence.
 
+
 Like and Subscribe for more expert content on integrating Kanban with Scrum and other methodologies.
 Visit https://www.nkdagility.com for in-depth resources on Kanban, Scrum, and how to blend them effectively.
 Share this video with your team and network to spread the knowledge of Kanban's transformative potential in project management.

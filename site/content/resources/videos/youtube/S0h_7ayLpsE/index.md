@@ -15,11 +15,11 @@ isShort: False
 
 How to Use Evidence-Based Management to Build Better Products
 
-In this video, I dive deep into how to use evidence-based management (EBM) to guide your decision-making process and build better products.
+In this video, I dive deep into how to use evidence-based management (EBM) to guide your decision-making process and build better products. 
 
 We’ll explore the importance of gathering and analyzing data across four key value areas to make more informed business decisions. Whether you’re in software engineering, product management, or leadership, understanding how to apply EBM can help you boost innovation, improve time-to-market, and increase customer satisfaction.
 
-Who is this video for?
+Who is this video for? 
 
 If you're a product manager, Scrum Master, CTO, or someone leading a product development team, you’ll find valuable insights into how to collect data, interpret it, and take actionable steps to improve your product and business outcomes. We also cover how companies like Tesla leverage real-time data for a competitive advantage and what you can learn from their approach.
 
@@ -38,9 +38,9 @@ Chapters:
 14:45 Tools for Data Collection and Analysis (Power BI, App Insights)  
 17:30 The Role of Kanban in Data-Driven Decision Making  
 23:00 Scrum as a Social Technology to Support Your Teams  
-26:45 Conclusion: Applying Evidence-Based Management to Your Business
+26:45 Conclusion: Applying Evidence-Based Management to Your Business  
 
-By the end of this video, you’ll have a better understanding of how to use data to make strategic decisions that can positively impact your product development and customer satisfaction.
+By the end of this video, you’ll have a better understanding of how to use data to make strategic decisions that can positively impact your product development and customer satisfaction. 
 
 Don’t forget to subscribe to the channel for more insights like this, hit the like button if you found value in the content, and visit https://www.nkdagility.com for even more resources on building better products through data-driven strategies.
 

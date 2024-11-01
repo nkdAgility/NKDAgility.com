@@ -16,7 +16,6 @@ isShort: False
 Expert Insights on Azure DevOps Migration
 
 Audience:
-
 - IT Managers and DevOps Teams: Learn why expert assistance is crucial for successful Azure DevOps migrations.
 - Project Managers: Understand the common challenges and solutions for moving and organizing project data.
 - Business Owners: Discover the benefits of migrating to Azure DevOps and how it can streamline your operations.
@@ -25,7 +24,6 @@ Relevance:
 This video is essential for organizations considering a migration to Azure DevOps. It provides expert insights into the complexities of migration, the benefits of cloud environments, and the tailored services available to ensure a smooth transition.
 
 How It Will Help:
-
 - Expertise and Experience: Gain confidence in migration processes with insights from a professional who has conducted hundreds of successful migrations.
 - Customized Solutions: Learn about tailored migration services that address specific business needs and project requirements.
 - Understanding Benefits: Understand the advantages of moving to Azure DevOps, including improved support, maintenance, and cost efficiency.

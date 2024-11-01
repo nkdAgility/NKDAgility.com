@@ -11,12 +11,12 @@ isShort: True
 
 {{< youtube xaIDtZcoVXE >}}
 
-# shorts 5 reasons why you need EBM in your environment. Part 5
+#  shorts 5 reasons why you need EBM in your environment. Part 5
 
 #shorts #shortvideo #shortsvideo 5 reasons why you need #ebm in your environment. Part 5.
 
 Accelerating Value offering:
-offeringType: training-course Mastering Time-to-Market with Evidence-Based Management
+  offeringType: training-course Mastering Time-to-Market with Evidence-Based Management
 
 In today's fast-paced business world, the speed at which an organization delivers value is a critical determinant of its success. Understanding and optimizing this timeframe is vital. This is where Evidence-Based Management (EBM) becomes an indispensable tool, particularly in its key value area: Time to Market.
 

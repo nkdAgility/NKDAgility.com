@@ -25,7 +25,7 @@ Discover how to achieve increased predictability and make informed decisions on 
 
 Scaling Kanban for Organizational Impact: Techniques to apply Kanban at a higher level to manage a broad portfolio of work effectively.
 Enhanced Value offering:
-offeringType: training-course Strategies to optimize the flow of portfolio items, ensuring that efforts are aligned with delivering maximum value.
+  offeringType: training-course Strategies to optimize the flow of portfolio items, ensuring that efforts are aligned with delivering maximum value.
 Increased Predictability: Methods to improve forecasting and predictability of project success, facilitating better strategic planning and resource allocation.
 Data-Driven Decision Making: The importance of understanding the current flow through your system to ask the right questions and make impactful changes.
 

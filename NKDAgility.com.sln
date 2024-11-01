@@ -5,16 +5,6 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "functions", "functions\functions.csproj", "{B8DB8919-599E-42A1-8460-3A1164700A04}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "functions (1)", "functions", "{5DFD7E33-4979-4675-9040-D8CBFCD3C18B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "obj", "obj", "{F4D6F1E8-6D23-4657-98F0-1228509B0CC7}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Release", "Release", "{B436EA4E-1A57-4E77-A5F7-DB04377C43EC}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "net8.0", "net8.0", "{7BE63222-0E79-48BA-9CB9-B566F0DD3835}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerExtensions", "functions\obj\Release\net8.0\WorkerExtensions\WorkerExtensions.csproj", "{D3484EAE-9528-4C17-ADA7-7F3DCA91901D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

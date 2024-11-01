@@ -13,7 +13,7 @@ isShort: False
 
 # 6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]
 
-Think your company is Agile? 🤔 Are you sure?
+Think your company is Agile? 🤔  Are you sure?
 
 This video reveals the surprising source of a 6-question litmus test to determine if your organization is truly Agile: the U.S. Department of Defense!
 

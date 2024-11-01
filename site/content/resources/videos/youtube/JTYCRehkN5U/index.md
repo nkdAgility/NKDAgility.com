@@ -20,7 +20,7 @@ Discover why prioritizing technical excellence is crucial for successful Agile s
 (00:08:42 - 00:13:56): The Azure DevOps case study: How prioritizing technical excellence transformed their delivery from 24 features per year to 280.
 (00:13:56 - 00:19:25): Defining and establishing a "definition of done" as the foundation of technical excellence.
 (00:19:25 - 00:20:12): The benefits of technical excellence: reduced risk, increased value delivery, and the ability to focus on the art of the possible.
-Don't fall into the trap of prioritizing speed over quality.
+Don't fall into the trap of prioritizing speed over quality. 
 
 Watch this video to learn how embracing technical excellence can transform your software development process and deliver exceptional products that delight your customers.
 

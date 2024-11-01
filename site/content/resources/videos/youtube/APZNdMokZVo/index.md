@@ -15,7 +15,7 @@ isShort: False
 
 Unlocking the Power of Definition of Done in Scrum: A Deep Dive
 
-Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management.
+Dive deep into the essence of the 'Definition of Done' in Scrum and its pivotal role in Agile frameworks. Discover how it shapes product quality and risk mitigation in project management. 
 
 Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
 
@@ -36,7 +36,7 @@ These are the kinds of issues that lean-agile practitioners love and most folks 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
 
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
-Sign up for one of our upcoming professional Scrum classes:\_ https://nkdagility.com/training-courses/
+Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses/
 
 Because you don't just need agility, you need Naked Agility.
 

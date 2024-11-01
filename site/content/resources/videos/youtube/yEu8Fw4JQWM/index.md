@@ -13,11 +13,11 @@ isShort: False
 
 # In WIP, less is more, why?
 
-_Mastering Workflow: The Art of Doing More With Less in Agile & Scrum_
+*Mastering Workflow: The Art of Doing More With Less in Agile & Scrum*
 
 Uncover the secrets to supercharging productivity with a minimalist approach in project management. Dive deep as we unravel the power of 'Less is More' to transform your workflow.
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin 💡 illuminates the Kanban mantra of 'Stop Starting, Start Finishing' and how it revolutionizes task management. He draws comparisons to computer operations 🖥️ to illustrate the high cost of multitasking and context switching. Discover how to streamline your work process, and why tackling fewer tasks can lead to greater efficiency and output. 🚀
 
@@ -25,9 +25,9 @@ In this video, Martin 💡 illuminates the Kanban mantra of 'Stop Starting, Star
 00:00:44 The High Cost of Multitasking  
 00:01:31 Gerald Weinberg's Context Switching Analysis  
 00:02:05 Scrum Teams & Task Fragmentation  
-00:03:07 Workflow Analogy: Pipes & Marbles
+00:03:07 Workflow Analogy: Pipes & Marbles  
 
-_NKDAgility can help!_
+*NKDAgility can help!*  
 
 If you _struggle to manage multiple tasks effectively_ or find it hard to optimize your workflow, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can. Don't let issues hamper your value delivery – seek assistance promptly!
 

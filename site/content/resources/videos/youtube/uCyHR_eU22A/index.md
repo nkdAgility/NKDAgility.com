@@ -17,7 +17,7 @@ Unveiling Scrum's Sprint Backlog: A Strategic Approach to Agile Planning
 
 Dive into the world of Scrum planning as we explore the nuances of selecting a Sprint backlog. Discover why it's more than just a to-do list; it's a strategic puzzle that requires insight into the business landscape, technical architecture, and team dynamics.
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the subtleties of Scrum Sprints, revealing that crafting a Sprint backlog is an art interwoven with strategy and foresight. 🎨🔍 The Scrum guide may offer a starting point, but the real magic happens when a team harmonizes business acumen with technical know-how to select the most impactful tasks. 🧙✨📈 Martin shares his insights, debunking the myth of the "magical" backlog selection and guiding us through the thoughtful considerations that lead to a successful Sprint. ☕💡
 
@@ -27,7 +27,7 @@ In this video, Martin delves into the subtleties of Scrum Sprints, revealing tha
 00:00:57 Forming the Sprint Goal
 00:01:14 Backlog Influence on Sprints
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to select the most valuable items for your Sprint backlog, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

@@ -17,7 +17,7 @@ Dealing with a team that's not meeting expectations? Discover how to differentia
 
 #teammanagement #LeadershipSkills #DigitalAgeDilemmas #AgileExpertise #ProactiveLeadership
 
-_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves deep into the challenges of handling teams that might be perceived as "incompetent" or even "malicious" in a professional setting. 🚀💡 Through personal experiences and insightful anecdotes, he brings to light the need to differentiate and take necessary actions. 🧠✨
 
@@ -26,11 +26,11 @@ In this video, Martin delves deep into the challenges of handling teams that mig
 00:04:10 Strategic Malice vs. Uninformed Teams
 00:05:20 Deciding When to Let Go
 
-_NKDAgility can help!_
+*NKDAgility can help!* 
 
 If you find it hard distinguishing between an uninformed team and one that's genuinely incompetent, my team at NKDAgility can assist you or connect you with a consultant, coach, or trainer who can.
 
-Don't wait if issues are hampering your value delivery's effectiveness!
+Don't wait if issues are hampering your value delivery's effectiveness! 
 
 _You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
 _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_

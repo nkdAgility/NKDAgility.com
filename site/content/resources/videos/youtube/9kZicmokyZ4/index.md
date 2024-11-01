@@ -11,7 +11,7 @@ isShort: True
 
 {{< youtube 9kZicmokyZ4 >}}
 
-# shorts 5 reasons why you need EBM in your environment Part 1
+#  shorts 5 reasons why you need EBM in your environment Part 1
 
 #shorts #shortsvideo #shortvideo 5 reasons why you #ebm in your #agile environment. Part 1.
 
@@ -27,7 +27,7 @@ The Impact on Success
 
 Measuring Change: By integrating evidence-based management, you can clearly understand and measure the impact of alterations made to your system.
 Value offering:
-offeringType: training-course This approach ensures that your efforts are aligned with delivering value to the business in the most efficient way possible.
+  offeringType: training-course This approach ensures that your efforts are aligned with delivering value to the business in the most efficient way possible.
 Success Evaluation: It allows you to determine whether the changes made are moving the needle in the right direction.
 
 The Need for Measurement in Agile
@@ -49,7 +49,7 @@ Real-World Examples
 Enhanced Decision-Making: In one instance, a team struggling with delivery timelines implemented specific metrics for tracking progress. This data-driven approach enabled them to pinpoint bottlenecks and streamline their process.
 
 Increased Value offering:
-offeringType: training-course Another team focused on measuring customer satisfaction. By adjusting their strategies based on customer feedback data, they significantly increased value delivery.
+  offeringType: training-course Another team focused on measuring customer satisfaction. By adjusting their strategies based on customer feedback data, they significantly increased value delivery.
 
 Actionable Recommendations
 
