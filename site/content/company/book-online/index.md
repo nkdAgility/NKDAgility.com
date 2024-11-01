@@ -4,7 +4,8 @@ description: Naked Agility Limited is a boutique consultancy that offers trainin
 type: page
 layout: booking
 aliases:
-- /book-online/
+  - /book-online/
+  - /company/general-inquiries/
 headline:
   subtitle: Book a free consultation, training review, or just a chat
   cards: []
@@ -16,15 +17,8 @@ headline:
 
     Whatever the occasion you can use the menu to the right to set up a call right in your calander."
   buttons:
-  - style: primary
-    link: https://outlook.office365.com/owa/calendar/nakedAgilityLimited@nkdagility.com/bookings/
-    icon: calendar
-    content: Book in New Window
-
+    - style: primary
+      link: https://outlook.office365.com/owa/calendar/nakedAgilityLimited@nkdagility.com/bookings/
+      icon: calendar
+      content: Book in New Window
 ---
-
-
-
-
-
-

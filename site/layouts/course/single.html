@@ -1,7 +1,7 @@
 {{ define "headline" }}
-  <section class="container my-4" style="max-width: 900px !important">
+  <section class="container my-4">
     <div class="row my-2 my-lg-5">
-      <div class="col-md-8">
+      <div class="col-xl-12 pb-2">
         <h1 class="mb-4 nkda-heading-primary">
           {{ if .Params.headline }}
             {{ .Params.headline.title | markdownify }}
@@ -39,53 +39,89 @@
           {{ end }}
         </p>
       </div>
-      <div class="col-md-4 ">
-        {{ if .Params.previewIcon }}
-          {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
+    </div>
+    <div class="row my-2 my-lg-5">
+      <div class="col-xl-8 d-flex justify-content-center align-items-center d-none d-xl-flex">
+        {{ if .Params.preview }}
+          {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
           {{ if $image }}
-            {{ $resized := $image.Fit "250x250 webp" }}
-            <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+            {{ if eq $image.MediaType.SubType "svg" }}
+              <img src="{{ $image.RelPermalink }}" class="img-fluid" />
+            {{ else }}
+              {{ $resized := $image.Fit "800x550 webp" }}
+              <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
+            {{ end }}
+
           {{ else }}
-            NOICON
+            <img src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" class="img-fluid" />
           {{ end }}
         {{ end }}
-
+      </div>
+      <div class="col-xl-4 d-flex justify-content-center">
+        {{ partial "course-parts/coursefound-summery.html" . }}
       </div>
     </div>
   </section>
 {{ end }}
 
 {{ define "main" }}
-  <section class="container my-4" style="max-width: 900px !important">
-    {{ .Page.Params.introduction | markdownify }}
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    <h2>Course Overview</h2>
-    {{ .Page.Params.overview | markdownify }}
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    {{ partial "course-parts/events-schedule-single.html" . }}
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    <h2>Course Outcomes</h2>
-    {{ .Page.Params.outcomes | markdownify }}
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    <h2>Course Objectives</h2>
-    {{ .Page.Params.objectives | markdownify }}
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    <h2>Who Should Attend this class?</h2>
-    {{ .Page.Params.audience.overview | markdownify }}
-
-  </section>
-  <section class="container my-4" style="max-width: 900px !important">
-    <h2>Assessment & Certification</h2>
-    {{ .Page.Params.assessment.content | markdownify }}
-  </section>
+  {{ if .Page.Params.introduction }}
+    <section class="container my-4" style="max-width: 900px !important">
+      {{ .Page.Params.introduction | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.introduction -->
+  {{ end }}
+  {{ if .Page.Params.overview }}
+    <section class="container my-4" style="max-width: 900px !important">
+      <h2>Course Overview</h2>
+      {{ .Page.Params.overview | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.overview -->
+  {{ end }}
+  {{/*  {{ if eq hugo.Environment "development" }}
+    <section class="container my-4" style="max-width: 900px !important">
+      {{ partial "course-parts/events-schedule-single.html" . }}
+    </section>
+  {{ else }}
+    <!-- OFF course-parts/events-schedule-single.html -->
+  {{ end }}  */}}
+  {{ if .Page.Params.outcomes }}
+    <section class="container my-4" style="max-width: 900px !important">
+      <h2>Course Outcomes</h2>
+      {{ .Page.Params.outcomes | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.outcomes -->
+  {{ end }}
+  {{ if .Page.Params.objectives }}
+    <section class="container my-4" style="max-width: 900px !important">
+      <h2>Course Objectives</h2>
+      {{ .Page.Params.objectives | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.objectives -->
+  {{ end }}
+  {{ if .Page.Params.audience }}
+    <section class="container my-4" style="max-width: 900px !important">
+      <h2>Who Should Attend this class?</h2>
+      {{ .Page.Params.audience.overview | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.audience.overview -->
+  {{ end }}
+  {{ if .Page.Params.assessment }}
+    <section class="container my-4" style="max-width: 900px !important">
+      <h2>Assessment & Certification</h2>
+      {{ .Page.Params.assessment.content | markdownify }}
+    </section>
+  {{ else }}
+    <!-- MISSING .Page.Params.audience.overview -->
+  {{ end }}
   <section class="container my-4" style="max-width: 900px !important">
     <div class="row">
-      <div class="col-6">
+      <div class="col-xl-6">
         <h2>Why Learn With NKD Agility?</h2>
         <ul>
           <li>We are 4.8-star rated on Trustpilot!</li>
@@ -95,7 +131,7 @@
           <li>Receive regular chances to attend another course at no cost.</li>
         </ul>
       </div>
-      <div class="col-6"></div>
+      <div class="col-xl-6"></div>
     </div>
   </section>
   {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}

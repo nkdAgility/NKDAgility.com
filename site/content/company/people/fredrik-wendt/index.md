@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "45557"
 type: people
 slug: fredrik-wendt
-aliases:
-  - /company/people/fredrik-wendt/
 preview: Fredrik.png
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

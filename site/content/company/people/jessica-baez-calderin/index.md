@@ -5,9 +5,9 @@ creator: Martin Hinshelwood
 id: "48503"
 type: people
 slug: jessica-baez-calderin
-aliases:
-  - /company/people/jessica-baez-calderin/
 preview: Jessica-Baez-Calderin.jpg
+people-abilities:
+  - Business
 card:
   button:
     content: More info

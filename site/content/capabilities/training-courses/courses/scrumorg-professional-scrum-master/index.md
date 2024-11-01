@@ -39,7 +39,7 @@ tags:
 categories:
   - measure-and-learn
   - people-and-process
-preview: naked-agility-Professional-Scrum-PSM-1600x900-1.jpg
+preview: NKDAgility-Courses-PSM-16x9.svg
 card:
   title: Professional Scrum Master
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
@@ -101,8 +101,6 @@ prerequisites: |
   - Have read one of the Scrum books of Ken Schwaber or the book “Scrum – A Pocket Guide” by Gunther Verheyen
 audience:
   overview: The Professional Scrum Master course is for anyone involved in software development using the Scrum framework. It is particularly beneficial for those people within an organization accountable for getting the most out of Scrum, including Scrum Masters, managers, and Scrum Team members.  We also suggest that you read through the [PSM Subject Areas](https://www.scrum.org/resources/suggested-reading-professional-scrum-master). If you are new to Scrum and are interested in getting started then the [Certified Professional Scrum Foundations Training](/training/courses/professional-scrum-foundations/) is more relevant. This class is perfect if you are studying for the [Professional Scrum Master II assessment.](https://www.scrum.org/professional-scrum-certifications/professional-scrum-master-assessments)
-  personas:
-    - capabilities/training-courses/audiences/lean-agile-practitioners.md
 trainers:
   - /company/people/martin-hinshelwood/
 roadmap:
@@ -457,10 +455,6 @@ syllabus:
         - Practice assignment[Scrum Open](https://www.scrum.org/open-assessments/scrum-open)
         - Passwords have no expiration date, but are valid for one attempt only
         - Lifetime certification - no annual renewal fee required
-  - id: 8
-    title: Catchup
-    duration: 120
-    content: Two weeks after completing the Scrum Master course, participants are invited to join a follow-up catch-up session designed to address any remaining questions, ideas, or challenges that have emerged since the training. This session provides an opportunity to reflect on your experiences applying the concepts learned in the course, share insights, and receive additional support.
 events:
   - start_date: 2025-01-23
     location: Virtual

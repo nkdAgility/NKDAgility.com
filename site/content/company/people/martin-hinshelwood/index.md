@@ -5,9 +5,11 @@ creator: Martin Hinshelwood
 id: "44264"
 type: people
 slug: martin-hinshelwood
-aliases:
-  - /company/people/martin-hinshelwood/
 preview: MartinHinshelwood260-SOLO.png
+weight: 1000
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: Want to know more?

@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "48228"
 type: people
 slug: john-coleman
-aliases:
-  - /company/people/john-coleman/
 preview: John-Coleman-glow.png
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

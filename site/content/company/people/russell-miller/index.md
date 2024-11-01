@@ -5,9 +5,11 @@ author: russell@scrumsimple.com
 id: "44267"
 type: people
 slug: russell-miller
-aliases:
-  - /company/people/russell-miller/
 preview: RussellM.jpg
+weight: 500
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

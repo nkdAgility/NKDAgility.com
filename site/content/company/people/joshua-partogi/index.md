@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "47636"
 type: people
 slug: joshua-partogi
-aliases:
-  - /company/people/joshua-partogi/
 preview: T0H1VQQUS-U7NJN36MS-68cf309ca40f-512.png
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

@@ -5,9 +5,11 @@ creator: Martin Hinshelwood
 id: "50829"
 type: people
 slug: rikard-skelander
-aliases:
-  - /company/people/rikard-skelander/
 preview: nkdagility-rikard-skelander.png
+people-abilities:
+  - Trainer
+  - Consultant
+  - Scrum Master
 card:
   button:
     content: More info

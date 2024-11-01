@@ -6,4 +6,5 @@ id: "45356"
 type: customers
 slug: new-hampshire-supreme-court
 preview: New-Hampshire-Supreme-Court.jpg
+customer-industries: Government
 ---

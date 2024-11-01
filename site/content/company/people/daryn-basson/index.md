@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "48506"
 type: people
 slug: daryn-basson
-aliases:
-  - /company/people/daryn-basson/
+
 preview: Daryn-Basson.jpg
+people-abilities:
+  - Business
 card:
   button:
     content: More info

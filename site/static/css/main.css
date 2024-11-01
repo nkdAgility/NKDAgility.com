@@ -1,9 +1,19 @@
 /* Define branding color variables */
 :root {
     --primary-color: #713183; /* Primary branding color */
+    --primary-color-light: #dbb0e6; /* Primary branding color */
     --secondary-color: #007acc; /* Secondary branding color */
+    --secondary-color-light: #9fd2f4; /* Secondary branding color */
     --accent-color: #e37f01; /* Accent color */
+    --accent-color-light: #ffcd35; /* Accent color */
     --background-color: #ecf0f1; /* Background color */
+    --primary-color-text: #ffffff; /* Primary text color */
+  }
+
+  body {
+    font-family: 'Calibri', 'Open Sans', sans-serif;
+    font-size: clamp(0.8rem, 1vw + 1rem, 1.2rem);
+    line-height: 1.6;
   }
 
 
@@ -66,6 +76,13 @@ pre {
     color: #713183;
 }
 
+.bg-nkdagility-primary {
+    background-color: var(--primary-color) !important;
+}
+
+.bg-nkdagility-accent {
+    background-color: var(--accent-color) !important;
+}
 
 .btn-nkdprimary {
     background-color: #713183;
@@ -76,6 +93,56 @@ pre {
     background-color: #54595F;
     color: white;
 }
+
+
+
+/* buttons */
+
+.btn-nkdagility-primary {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-nkdagility-primary:hover {
+    background-color: var(--primary-color-light);
+    color: white;
+}
+
+.btn-nkdagility-primary-light {
+    background-color: var(--primary-color-light);
+    color: white;
+}
+
+.btn-nkdagility-primary-light:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.btn-nkdagility-secondary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.btn-nkdagility-secondary:hover {
+    background-color: var(--secondary-color-light);
+    color: white;
+}
+
+.btn-nkdagility-secondary-light {
+    background-color: var(--secondary-color-light);
+    color: white;
+}
+
+.btn-nkdagility-secondary-light:hover {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+
+
+/* end buttons */
+
+
 
 .post-img {
     text-align: center; /* Centers the image inside the .post-img container */
@@ -93,3 +160,7 @@ img {
     height: auto; /* Maintains the aspect ratio of the image */
     display: block; /* Removes any inline-block gap */
   }
+
+  .text-bg-nkdagility-primary {
+    background-color: var(--primary-color);
+}

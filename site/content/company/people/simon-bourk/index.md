@@ -5,9 +5,10 @@ creator: Martin Hinshelwood
 id: "48499"
 type: people
 slug: simon-bourk
-aliases:
-  - /company/people/simon-bourk/
 preview: Simon-Bourk.png
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info

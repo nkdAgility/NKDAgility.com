@@ -7,8 +7,11 @@ type: people
 slug: joanna-plaskonka-phd
 aliases:
   - joanna-plaskonka-ph-d
-  - /company/people/joanna-plaskonka-phd/
 preview: 1651952183458.jpg
+weight: 600
+people-abilities:
+  - Trainer
+  - Consultant
 card:
   button:
     content: More info
