@@ -45,6 +45,9 @@ card:
   content: Our **Professional Scrum Master Training Program** features **PSM Training** from Scrum.org, delivered as an **Immersive Learning Experience**. It combines live, instructor-led sessions with additional offline exercises, covering the principles of the Scrum framework and the Scrum Master role. This multi-week format integrates real-world applications, encouraging continuous improvement through practical assignments.
 code: PSM
 level: intermediate
+carousel:
+  - link: images/NKDAgility-Courses-PSM-16x9.svg
+    type: image
 introduction: |
   **Learn Professional Scrum and Elevate Your Role as a Scrum Master with NKD Agility**
 

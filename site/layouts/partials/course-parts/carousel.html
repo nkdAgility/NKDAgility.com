@@ -1,0 +1,66 @@
+{{ $site := .Site }}
+<div id="carousel-example" class="carousel slide" data-bs-ride="carousel">
+  <!-- Carousel Indicators -->
+  <ol class="carousel-indicators">
+    {{ range $index, $item := .Params.carousel }}
+      <li data-bs-target="#carousel-example" data-bs-slide-to="{{ $index }}" class="{{ if eq $index 0 }}active{{ end }}"></li>
+    {{ end }}
+  </ol>
+
+  <!-- Carousel Items -->
+  <div class="carousel-inner">
+    {{ range $index, $item := .Params.carousel }}
+      {{ $isActive := cond (eq $index 0) "active" "" }}
+      <div class="carousel-item {{ $isActive }}">
+        {{ if eq $item.type "resource" }}
+          <!-- Hugo Page (e.g., YouTube Video from 'resources' page) -->
+          {{ $resourcePage := $site.GetPage $item.link }}
+          {{ if $resourcePage }}
+            <div class="embed-responsive embed-responsive-16by9">
+              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?rel=0" allowfullscreen></iframe>
+            </div>
+          {{ else }}
+            <p>Video `{{ $item.link }}` not found.</p>
+          {{ end }}
+        {{ else if eq $item.type "image" }}
+          <!-- Hugo Resource Image or External Image -->
+          {{ $image := .Resources.GetMatch $item.link }}
+          {{ if $image }}
+            {{ if eq $image.MediaType.SubType "svg" }}
+              <img src="{{ $image.RelPermalink }}" class="d-block w-100" alt="carousel image" />
+            {{ else }}
+              {{ $resized := $image.Fit "800x550 webp" }}
+              <img src="{{ $resized.RelPermalink }}" class="d-block w-100" alt="carousel image" />
+            {{ end }}
+          {{ else }}
+            <!-- External Image Fallback if Not Found as Hugo Resource -->
+            <img src="{{ $item.link }}" class="d-block w-100" alt="carousel image" />
+          {{ end }}
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+
+  <!-- Carousel Controls -->
+  <a class="carousel-control-prev" href="#carousel-example" role="button" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-example" role="button" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </a>
+</div>
+<style>
+  .carousel-indicators {
+    list-style-type: none; /* Removes numbers */
+    padding-left: 0; /* Ensures no extra padding */
+    margin-bottom: 0; /* Aligns indicators properly */
+  }
+  .carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    background-color: #000; /* Adjust color as needed */
+    border-radius: 25%;
+  }
+</style>
