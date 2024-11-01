@@ -1,9 +1,9 @@
 <!-- Card HTML -->
 <div class="flip-card">
-  <div class="flip-card-inner">
+  <div class="flip-card-inner ">
     <!-- Front Side (Existing Card HTML) -->
-    <div class="flip-card-front h-100">
-      <div class="card  h-100">
+    <div class="flip-card-front">
+      <div class="card h-100">
         <div class="card-header" {{ if .Params.brandColour }}style="color: white;background-color: {{ .Params.brandColour }}"{{ end }}>{{ .Params.shorttitle }}</div>
         <div class="card-body">
           <p class="card-text text-muted">GOAL: 6 participants</p>
@@ -28,7 +28,7 @@
               {{ end }}
             </div>
             <div class="col-8">
-              <p class="card-text">Backing grants you extra coaching, future discounts, and input on scheduling and format.</p>
+              <p class="card-text small">Preordering grants you extra coaching, future discounts, and input on scheduling and format.</p>
             </div>
           </div>
           <div class="d-grid gap-2">
