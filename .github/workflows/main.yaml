@@ -165,7 +165,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
       - uses: cschleiden/replace-tokens@v1
         with:
           files: '["**/*.html"]'
@@ -251,6 +250,9 @@ jobs:
     needs: [Setup, BuildSite, BuildApi]
     if: ${{ success() }}
     steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
       - name: Download a single artifact
         uses: actions/download-artifact@v4
         with:
@@ -282,9 +284,9 @@ jobs:
           repo_token: ${{ steps.app-token.outputs.token }}
           action: "upload"
           app_location: ./_site
-          api_location: ./_api
+          api_location: ./functions
           skip_app_build: true
-          skip_api_build: true
+          skip_api_build: false
           output_location: ""
           deployment_environment: ${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
