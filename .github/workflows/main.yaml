@@ -278,7 +278,7 @@ jobs:
       - name: "Find  files"
         shell: pwsh
         run: |
-          Get-Item -Path .\
+          Get-ChildItem -Path ".\" -File
 
       - uses: actions/create-github-app-token@v1
         id: app-token
