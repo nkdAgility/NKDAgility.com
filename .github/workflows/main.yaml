@@ -147,6 +147,7 @@ jobs:
              ### NKDAgility
                - nkdAgility_Ring: ${{needs.Setup.outputs.nkdAgility_Ring}}
                - nkdAgility_AzureSitesEnvironment: ${{needs.Setup.outputs.nkdAgility_AzureSitesEnvironment}}
+                - nkdAgility_AzureSitesConfig: ${{needs.Setup.outputs.nkdAgility_AzureSitesConfig}}
              ### GitVersion
                - GitVersion_BranchName: ${{needs.Setup.outputs.GitVersion_BranchName}}
                - GitVersion_SemVer: ${{needs.Setup.outputs.GitVersion_SemVer}}
