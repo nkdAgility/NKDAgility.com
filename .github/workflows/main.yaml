@@ -271,9 +271,9 @@ jobs:
           path: ./_api
 
       - name: Merge Configuration Files
-        if: ${{ needs.Setup.outputs.nkdAgility_AzureSitesEnvironment != '' }}
+        if: ${{ needs.Setup.outputs.nkdAgility_AzureSitesConfig != '' }}
         run: |
-          jq -s '.[0] * .[1]' staticwebapp.config.json staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}.json > staticwebapp.config.json
+          jq -s '.[0] * .[1]' staticwebapp.config.json staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json > staticwebapp.config.json
 
       - name: "Find  files"
         shell: pwsh
