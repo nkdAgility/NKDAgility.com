@@ -42,7 +42,7 @@ jobs:
       GitVersion_MajorMinorPatch: ${{ steps.gitversion.outputs.GitVersion_MajorMinorPatch }}
       nkdAgility_Ring: ${{ steps.nkdagility.outputs.Ring }}
       nkdAgility_AzureSitesEnvironment: ${{ steps.nkdagility.outputs.AzureSitesEnvironment }}
-
+      nkdAgility_AzureSitesConfig: ${{ steps.nkdagility.outputs.AzureSitesConfig }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -97,16 +97,19 @@ jobs:
               "" {
                   $Ring = "Production";
                   $AzureSitesEnvironment = ""
+                  $AzureSitesConfig = "production"
                   $docs_baseURL = "/"
               }    
               "Preview" {
                   $Ring = "Preview";
                   $AzureSitesEnvironment = "preview";
+                  $AzureSitesConfig = ""
                   $docs_baseURL = "/preview"
               }
               default {
                   $Ring = "Canary";
                   $AzureSitesEnvironment = "canary-${{ github.event.pull_request.number }}"
+                  $AzureSitesConfig = ""
                   $docs_baseURL = "/canary/$branchSafeName"
               }
           }
@@ -115,6 +118,9 @@ jobs:
 
           Write-Output "We are running for the $AzureSitesEnvironment AzureSitesEnvironment!"
           echo "AzureSitesEnvironment=$AzureSitesEnvironment" >> $env:GITHUB_OUTPUT
+
+           Write-Output "We are running for the $AzureSitesConfig AzureSitesConfig!"
+          echo "AzureSitesConfig=$AzureSitesConfig" >> $env:GITHUB_OUTPUT
 
           Write-Output "docs_baseURL=$docs_baseURL"
           echo "docs_baseURL=$docs_baseURL" >> $env:GITHUB_OUTPUT
@@ -263,6 +269,11 @@ jobs:
         with:
           name: API
           path: ./_api
+
+      - name: Merge Configuration Files
+        if: ${{ needs.Setup.outputs.nkdAgility_AzureSitesEnvironment != '' }}
+        run: |
+          jq -s '.[0] * .[1]' staticwebapp.config.json staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesEnvironment) }}.json > staticwebapp.config.json
 
       - name: "Find  files"
         shell: pwsh
