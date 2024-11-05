@@ -5,7 +5,7 @@ date: 2008-08-28
 creator: Martin Hinshelwood
 id: "204"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-internet-explorer-8-beta-2
 aliases:
   - /blog/installing-internet-explorer-8-beta-2
@@ -40,4 +40,3 @@ And some updates (Already! :) ) if you are using Real Player and Vista SP1:
 Hopefully this install will go fine :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [VS 2008](http://technorati.com/tags/VS+2008)
-

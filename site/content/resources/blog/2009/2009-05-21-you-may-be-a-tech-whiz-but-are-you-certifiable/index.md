@@ -5,7 +5,7 @@ date: 2009-05-21
 creator: Martin Hinshelwood
 id: "110"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: you-may-be-a-tech-whiz-but-are-you-certifiable
 aliases:
   - /blog/you-may-be-a-tech-whiz-but-are-you-certifiable
@@ -24,4 +24,3 @@ Check it out:
 [You May Be a Tech Whiz, but Are You Certifiable](http://co1piltwb.partners.extranet.microsoft.com/mcoeredir/mcoeredirect.aspx?linkId=11946551&s1=c52571bc-82a5-1214-338d-1f00b6ec852f "You May Be a Tech Whiz, but Are You Certifiable-")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

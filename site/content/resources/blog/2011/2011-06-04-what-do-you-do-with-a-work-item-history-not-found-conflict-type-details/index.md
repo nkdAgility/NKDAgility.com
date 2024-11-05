@@ -5,7 +5,7 @@ date: 2011-06-04
 creator: Martin Hinshelwood
 id: "3460"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
 aliases:
   - /blog/what-do-you-do-with-a-work-item-history-not-found-conflict-type-details
@@ -680,4 +680,3 @@ The data that comes back all has a status of 5 and a backlog value of 1:
 **Figure: What this means is anyone's guess**
 
 This is a blocking issue from me and I have no idea how to “un-backlog” these items….
-

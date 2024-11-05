@@ -5,7 +5,7 @@ date: 2012-03-30
 creator: Martin Hinshelwood
 id: "5061"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-field-annotator
 aliases:
   - /blog/tfs-field-annotator
@@ -71,4 +71,3 @@ If you are using Windows 8 Consumer Preview you will not get an automatic launch
     { .post-img }
     Figure: Just run it anyway… no sweat…
 5.  Done
-

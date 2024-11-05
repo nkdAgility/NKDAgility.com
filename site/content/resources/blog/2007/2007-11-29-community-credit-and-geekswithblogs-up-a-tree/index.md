@@ -5,7 +5,7 @@ date: 2007-11-29
 creator: Martin Hinshelwood
 id: "282"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: community-credit-and-geekswithblogs-up-a-tree
 aliases:
   - /blog/community-credit-and-geekswithblogs-up-a-tree
@@ -27,4 +27,3 @@ A long and happy integration to you both...
 Now all we need is a child component to select the CC category from Windows Live Writer :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc) [Live](http://technorati.com/tags/Live)
-

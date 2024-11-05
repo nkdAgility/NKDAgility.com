@@ -5,7 +5,7 @@ date: 2012-09-25
 creator: Martin Hinshelwood
 id: "8829"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: testing-in-the-modern-application-lifecycle
 aliases:
   - /blog/testing-in-the-modern-application-lifecycle
@@ -178,4 +178,3 @@ There are still some rough edges, but Sela shows what can be done for testers le
 Even if you are only interested in moving away from Excel and Word for your test management Microsoft Test Manager is the best Manual Testing Management system. The integration that it has with build and Work Item Tracking will make it invaluable for those teams seeking to increase their agility. Do not think that these are in any way silver bullets and while the features are fantastic you may need to make subtle changes to your workflow or your software to take advantage of all of the awesomeness.
 
 The ultimate goal is to try and reduce the all to common scenario that we have not met the requirements or that we have not met the users expectations. The Manual Testing tools in Team Foundation Server can help you be providing a framework to have acceptance criteria begin to drive your engineering efforts and more frequently meet your customers expectations and reduce the waste inherent in software development.
-

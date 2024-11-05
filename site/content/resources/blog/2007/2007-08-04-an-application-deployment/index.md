@@ -5,7 +5,7 @@ date: 2007-08-04
 creator: Martin Hinshelwood
 id: "349"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: an-application-deployment
 aliases:
   - /blog/an-application-deployment
@@ -25,4 +25,3 @@ We are trying to follow cryptic documentation for an application that is not com
 Hmm... Fun.
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-

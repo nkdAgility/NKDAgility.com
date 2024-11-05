@@ -5,7 +5,7 @@ date: 2015-03-18
 creator: Martin Hinshelwood
 id: "11097"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: unable-load-task-handler-powershell-task-vsbuild
 aliases:
   - /blog/unable-load-task-handler-powershell-task-vsbuild
@@ -81,4 +81,3 @@ So if you are downloading a Zip file from the internet you may need to unblock t
 { .post-img }
 
 Woohoo… A successful build on the new Build vNext…
-

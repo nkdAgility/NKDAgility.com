@@ -4,8 +4,8 @@ title: "September 2023 NKDAgility: Empower Your Learning Journey with Our Referr
 date: "2023-08-28"
 preview: "naked-agility-technically-agile-1280×720-September-2023.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme"
 aliases:
   - /newsletters/september-2023-nkdagility-empower-your-learning-journey-with-our-referral-programme/

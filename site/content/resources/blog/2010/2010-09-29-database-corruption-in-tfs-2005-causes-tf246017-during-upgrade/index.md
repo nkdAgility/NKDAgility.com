@@ -5,7 +5,7 @@ date: 2010-09-29
 creator: Martin Hinshelwood
 id: "24"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
 aliases:
   - /blog/database-corruption-in-tfs-2005-causes-tf246017-during-upgrade
@@ -83,4 +83,3 @@ dbcc checkdb ('TfsVersionControl',repair)
 Having identified the problem running the command again with the “repair” will fix the issue. With the upgrade successful we are good to go for a production upgrade on Monday.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2005](http://technorati.com/tags/TFS+2005),[TFS 2010](http://technorati.com/tags/TFS+2010)
-

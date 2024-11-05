@@ -5,7 +5,7 @@ date: 2011-01-04
 creator: Martin Hinshelwood
 id: "20"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-to-do-after-a-servicing-fails-on-tfs-2010
 aliases:
   - /blog/what-to-do-after-a-servicing-fails-on-tfs-2010
@@ -115,4 +115,3 @@ So with 40+ hours invested in getting this new database ready the customer threw
 
 - What would you do?
 - Would you take the “cut and shut” to production and hope for the best?
-

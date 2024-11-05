@@ -4,8 +4,8 @@ title: "Exclusive Webcast with Joanna Płaskonka, Ph.D. & Martin Hinshelwood: Di
 date: "2023-09-28"
 preview: "NKDAgility-Webinar.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development"
 aliases:
   - /newsletters/exclusive-webcast-with-joanna-plaskonka-ph-d-martin-hinshelwood-dive-deep-into-product-ownership-lean-product-development/

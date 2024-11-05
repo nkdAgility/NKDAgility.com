@@ -5,7 +5,7 @@ date: 2007-06-07
 creator: Martin Hinshelwood
 id: "387"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-surface-wow
 aliases:
   - /blog/microsoft-surface-wow
@@ -21,4 +21,3 @@ I have been envisioning something like this for years and I am delighted that Mi
 Can't wait for winter!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

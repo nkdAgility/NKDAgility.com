@@ -5,7 +5,7 @@ date: 2023-08-03
 creator: Martin Hinshelwood
 id: "49507"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
 aliases:
   - /blog/from-unused-gym-memberships-to-agile-implementation-the-parallels-of-misapplied-investments
@@ -40,4 +40,3 @@ To encapsulate, adopting agile methodologies is akin to undertaking a fitness jo
 It’s time to roll up our sleeves and sweat – whether in the gym or agile software development.
 
 I got the idea for this post from [Martijn De Kam](https://www.linkedin.com/in/fuadrachkidi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAK1xtgBNH79B88eHlOOipVUpV1J81vNJs8), who was quoting [Fuad Rachkidi](https://www.linkedin.com/in/fuadrachkidi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAK1xtgBNH79B88eHlOOipVUpV1J81vNJs8)!
-

@@ -5,7 +5,7 @@ date: 2010-10-14
 creator: Martin Hinshelwood
 id: "22"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-vs-subversion-fact-check
 aliases:
   - /blog/tfs-vs-subversion-fact-check
@@ -187,4 +187,3 @@ We can all make mistakes and it could not be easier for a TFS Admin to undo a de
 I really liked this post by [Jarosław Dobrzański](http://dobrzanski.net), and I hope my response clears up some of the misconceptions surrounding TFS. It is always good when people that have had to move from SVN to TFS describe the differences once they have worked with it for a while.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[Version Control](http://technorati.com/tags/Version+Control)
-

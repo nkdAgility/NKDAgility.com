@@ -5,7 +5,7 @@ date: 2007-01-10
 creator: Martin Hinshelwood
 id: "445"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-system-widgets
 aliases:
   - /blog/team-system-widgets
@@ -22,4 +22,3 @@ I am particularly interested in the [TeamPlain](http://www.devbiz.com/teamplain/
 Has anyone used TeamPain?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

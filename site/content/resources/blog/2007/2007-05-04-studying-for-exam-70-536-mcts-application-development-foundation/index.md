@@ -5,7 +5,7 @@ date: 2007-05-04
 creator: Martin Hinshelwood
 id: "404"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: studying-for-exam-70-536-mcts-application-development-foundation
 aliases:
   - /blog/studying-for-exam-70-536-mcts-application-development-foundation
@@ -37,4 +37,3 @@ Ah well, back to the book!
 _An excelent resource for 71-510 can be found on the dotnetfun site @ [Prepare for the 70-536 Certification Exam: Microsoft .NET Framework 2.0 - Application Development Foundation](http://www.dotnetfun.com/articles/certifications/Passing70536Certification.aspx)._
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
-

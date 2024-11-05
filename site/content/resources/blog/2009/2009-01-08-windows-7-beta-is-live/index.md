@@ -5,7 +5,7 @@ date: 2009-01-08
 creator: Martin Hinshelwood
 id: "149"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-7-beta-is-live
 aliases:
   - /blog/windows-7-beta-is-live
@@ -27,4 +27,3 @@ I am still downloading the beta as we speak, but I will do a little blogging on 
 **UPDATE: Windows 7 Beta will be available to the general public from Friday 9th January 2009 (today), but there will only be 2.5 million licences issued.**
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-

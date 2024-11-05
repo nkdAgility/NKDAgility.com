@@ -5,7 +5,7 @@ date: 2008-09-04
 creator: Martin Hinshelwood
 id: "199"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2008-and-the-gdr-ctp16
 aliases:
   - /blog/visual-studio-2008-and-the-gdr-ctp16
@@ -26,4 +26,3 @@ I tried uninstalling the GDR, but that left me with NO data dude :(
 SO I have reinstalled and will try again....
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-

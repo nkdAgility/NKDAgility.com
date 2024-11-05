@@ -5,7 +5,7 @@ date: 2012-08-27
 creator: Martin Hinshelwood
 id: "7735"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
 aliases:
   - /blog/powerpointissue-i-spell-it-as-favourite-and-you-as-favorite
@@ -106,4 +106,3 @@ This will help me greatly as I can then write all of my things in the English th
 **Figure: My keyboard settings**
 
 What do you think are my chances at getting the world to switch to Gaelic?
-

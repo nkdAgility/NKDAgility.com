@@ -5,7 +5,7 @@ date: 2012-10-20
 creator: Martin Hinshelwood
 id: "8949"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
 aliases:
   - /blog/cleanworkspacepackagetempdir-error-in-team-foundation-build-2012
@@ -100,4 +100,3 @@ It looks like the CleanWorkspacePackage, CleanWorkspacePackageTempDir and CleanW
 So we can now use the following without the “DependsOnTargets” directive:
 
 This should solve the problem permanently, but make sure you test your application thoroughly…
-

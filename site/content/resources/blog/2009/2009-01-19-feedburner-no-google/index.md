@@ -5,7 +5,7 @@ date: 2009-01-19
 creator: Martin Hinshelwood
 id: "144"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: feedburner-no-google
 aliases:
   - /blog/feedburner-no-google
@@ -28,4 +28,3 @@ Although you do get less options, Google has promised that more functionality wi
 We will see…
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

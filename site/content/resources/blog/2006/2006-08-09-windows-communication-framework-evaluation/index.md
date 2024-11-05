@@ -5,7 +5,7 @@ date: 2006-08-09
 creator: Martin Hinshelwood
 id: "464"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-communication-framework-evaluation
 aliases:
   - /blog/windows-communication-framework-evaluation
@@ -24,4 +24,3 @@ Having read the white paper [The Future of ASP.NET Web Services in the Context o
 I will be recommending to my company that any future web service projects be done in WCF, with the ability of older clients to communicate in a basic means, and with the benefits of security, cross-service transactions and token authentication I think that this new technology will serve any company well.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-

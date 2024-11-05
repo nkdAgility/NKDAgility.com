@@ -5,7 +5,7 @@ date: 2008-11-26
 creator: Martin Hinshelwood
 id: "162"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-has-been-released
 aliases:
   - /blog/visual-studio-team-system-2008-database-edition-gdr-has-been-released
@@ -53,4 +53,3 @@ Get it now :)
 >    [http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip](http://download.microsoft.com/download/0/a/e/0ae1153a-8798-474a-93e6-d19299f37c8b/Documentation.zip)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

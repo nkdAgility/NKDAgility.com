@@ -5,7 +5,7 @@ date: 2009-03-19
 creator: Martin Hinshelwood
 id: "135"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
 aliases:
   - /blog/were-sorry-but-you-wont-be-able-to-download-internet-explorer-8-for-windows-7-beta-at-this-time
@@ -26,4 +26,3 @@ This is, as you would expect, the best browser from Microsoft to date. And yes, 
 UPDATE (2009-03-23): Apparently an independent study study by Microsoft has shown that IE8 is faster than Firefox and Chrome! I will be using IE8 even if that is not true :)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-

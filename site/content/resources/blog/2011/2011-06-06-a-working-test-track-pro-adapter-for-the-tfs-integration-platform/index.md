@@ -5,7 +5,7 @@ date: 2011-06-06
 creator: Martin Hinshelwood
 id: "3606"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: a-working-test-track-pro-adapter-for-the-tfs-integration-platform
 aliases:
   - /blog/a-working-test-track-pro-adapter-for-the-tfs-integration-platform
@@ -487,4 +487,3 @@ This history shows all of the values for the fields at the point in time that th
 All in, I am quite happy with the process and will be implementing in production really soon. Still some testing to do, but all looks good so far.
 
 - **Can you share your experiences of creating a TFS Integration Platform Adapter?**
-

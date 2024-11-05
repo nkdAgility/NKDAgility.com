@@ -1,6 +1,6 @@
 ---
 title: Nexus Guide
-resourceType: guide
+resourceTypes: guide
 aliases:
   - guides/Nexus-Framework/
   - guides/Nexus-Framework.html

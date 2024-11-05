@@ -5,7 +5,7 @@ date: 2013-04-18
 creator: Martin Hinshelwood
 id: "9452"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: new-un-versioned-repository-in-tfs-2012
 aliases:
   - /blog/new-un-versioned-repository-in-tfs-2012
@@ -83,4 +83,3 @@ While heavy handed it does clean up things nicely.
 ## Conclusion
 
 We can only hope that this will be a feature of dev12! And what else might the product team decide to do with an un-versioned store? Symbols; Nuget Packages… the options are endless…
-

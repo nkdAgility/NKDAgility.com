@@ -5,7 +5,7 @@ date: 2008-11-26
 creator: Martin Hinshelwood
 id: "161"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-installation
 aliases:
   - /blog/visual-studio-team-system-2008-database-edition-gdr-installation
@@ -80,4 +80,3 @@ If you pick the “Wizard” you will be presented with a set of options for you
 Please be patient with my videos as I am just getting to grips with this.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-

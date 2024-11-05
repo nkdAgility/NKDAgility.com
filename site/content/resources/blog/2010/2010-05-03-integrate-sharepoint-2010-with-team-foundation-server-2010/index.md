@@ -5,7 +5,7 @@ date: 2010-05-03
 creator: Martin Hinshelwood
 id: "44"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: integrate-sharepoint-2010-with-team-foundation-server-2010
 aliases:
   - /blog/integrate-sharepoint-2010-with-team-foundation-server-2010
@@ -143,4 +143,3 @@ You will need to add all of the users that will be creating Team Projects to be 
 You can now go forth and multiple your Team Projects for this Team Project Collection or you can continue to add portals to your other Collections.
 
 _\-Are you having trouble integrating TFS with Sharepoint? Northwest Cadence can help you integrate these two systems together. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
-

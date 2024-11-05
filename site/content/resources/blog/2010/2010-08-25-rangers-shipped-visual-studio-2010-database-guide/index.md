@@ -5,7 +5,7 @@ date: 2010-08-25
 creator: Martin Hinshelwood
 id: "30"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: rangers-shipped-visual-studio-2010-database-guide
 aliases:
   - /blog/rangers-shipped-visual-studio-2010-database-guide
@@ -80,4 +80,3 @@ Obviously this type of work would not be possible without many people contributi
 - **Reviewers:** Christian Bitter (MSFT), Regis Gimenis (MSFT), Rob Jarrat (MSFT), Bijan Javidi (MSFT), [Mathias Olausson (MVP)](http://msmvps.com/blogs/molausson/), Willy-Peter Schaub (MSFT)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFS 2010](http://technorati.com/tags/TFS+2010),[VS 2010](http://technorati.com/tags/VS+2010),[Visual Studio](http://technorati.com/tags/Visual+Studio)
-

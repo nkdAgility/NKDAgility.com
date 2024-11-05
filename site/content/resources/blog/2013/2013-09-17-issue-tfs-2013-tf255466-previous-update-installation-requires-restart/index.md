@@ -5,7 +5,7 @@ date: 2013-09-17
 creator: Martin Hinshelwood
 id: "10006"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: issue-tfs-2013-tf255466-previous-update-installation-requires-restart
 aliases:
   - /blog/issue-tfs-2013-tf255466-previous-update-installation-requires-restart
@@ -72,4 +72,3 @@ If think this is the issue you can head on over here and download the [Non Secur
 Figure: All readiness checks complete
 
 For me this fixed my issue…
-

@@ -5,7 +5,7 @@ date: 2008-10-22
 creator: Martin Hinshelwood
 id: "185"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
 aliases:
   - /blog/how-to-allow-other-users-to-interact-with-workflow-on-your-mysite
@@ -101,4 +101,3 @@ Make sure that you have the correct users listed in the "Users/Groups" box and t
 Easy J
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Answers](http://technorati.com/tags/Answers) [SharePoint](http://technorati.com/tags/SharePoint)
-

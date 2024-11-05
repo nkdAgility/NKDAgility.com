@@ -5,7 +5,7 @@ date: 2008-09-10
 creator: Martin Hinshelwood
 id: "196"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: working-from-a-mobile-again
 aliases:
   - /blog/working-from-a-mobile-again
@@ -24,4 +24,3 @@ What I would realy like is to be able to monitor and edit my [CodePlex](http://w
 If only the [TFS](http://msdn2.microsoft.com/en-us/teamsystem/aa718934.aspx "Team Foundation Server") API, excellent though it is, could be used without the need for Team Explorer to be installed.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [ALM](http://technorati.com/tags/ALM) [Answers](http://technorati.com/tags/Answers)
-

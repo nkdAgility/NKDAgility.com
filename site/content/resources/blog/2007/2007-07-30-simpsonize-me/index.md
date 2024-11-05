@@ -5,7 +5,7 @@ date: 2007-07-30
 creator: Martin Hinshelwood
 id: "355"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: simpsonize-me
 aliases:
   - /blog/simpsonize-me
@@ -22,4 +22,3 @@ preview: nakedalm-logo-128-link-2-1.png
 Me as a Simpson!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

@@ -5,7 +5,7 @@ date: 2008-01-07
 creator: Martin Hinshelwood
 id: "268"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: returning-an-anonymous-type
 aliases:
   - /blog/returning-an-anonymous-type
@@ -58,4 +58,3 @@ The use of this is very simple, although I would like an option other than to re
 There is no intellisense with this, so you have to know what the options are. Hopefully in future versions this will be rectified.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

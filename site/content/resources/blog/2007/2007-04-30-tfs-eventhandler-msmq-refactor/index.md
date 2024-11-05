@@ -5,7 +5,7 @@ date: 2007-04-30
 creator: Martin Hinshelwood
 id: "407"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-eventhandler-msmq-refactor
 aliases:
   - /blog/tfs-eventhandler-msmq-refactor
@@ -24,4 +24,3 @@ This should be pretty neat once it is complete, and the interface should allow u
 Still a long way to go... But I hope to have a working version by the end of the week...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT)
-

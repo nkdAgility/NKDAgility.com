@@ -5,7 +5,7 @@ date: 2012-02-29
 creator: Martin Hinshelwood
 id: "4709"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
 aliases:
   - /blog/upgrading-from-tfs2010-to-visual-studio-11-team-foundation-server-in-production
@@ -223,7 +223,8 @@ Once you have those things you can move on to the good bits:
 
     { .post-img }
     **Figure: Warning for Lab Management**
-    ```
+
+    ````
     [2012-02-29 19:55:43Z][Warning] Team Foundation Server could not tear down the existing deployment rigs.
     Delete the Visual Studio 2010 Team Foundation Build Agents associated with your environments manually using Team Foundation Server Administrator Console.
     Exception Details:
@@ -247,6 +248,7 @@ Once you have those things you can move on to the good bits:
     { .post-img }
     **Figure: SharePoint is actually OK**
     It looks like it is just a false message. When I looked in the admin tool all was well.
+    ````
 
 ### DONE
 
@@ -260,4 +262,3 @@ You will want to do lots of exercising of the features to make sure that everyth
 Remember that there is [Go-Live for Visual Studio 11 Team Foundation Server](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
-

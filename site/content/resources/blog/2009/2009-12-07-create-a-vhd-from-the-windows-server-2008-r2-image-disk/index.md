@@ -5,7 +5,7 @@ date: 2009-12-07
 creator: Martin Hinshelwood
 id: "75"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: create-a-vhd-from-the-windows-server-2008-r2-image-disk
 aliases:
   - /blog/create-a-vhd-from-the-windows-server-2008-r2-image-disk
@@ -72,4 +72,3 @@ CSCRIPT WIM2VHD.WSF /WIM:I:sourcesinstall.wim /SKU:SERVERSTANDARD /VHD:D:WimBuil
 Make a copy of this file, and attach it to your boot list, and boot…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [SSW](http://technorati.com/tags/SSW)
-

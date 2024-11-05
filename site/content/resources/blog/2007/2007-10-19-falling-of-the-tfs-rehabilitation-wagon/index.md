@@ -5,7 +5,7 @@ date: 2007-10-19
 creator: Martin Hinshelwood
 id: "298"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: falling-of-the-tfs-rehabilitation-wagon
 aliases:
   - /blog/falling-of-the-tfs-rehabilitation-wagon
@@ -35,4 +35,3 @@ And just when the cost of Team Suit was getting me down I got an email from my g
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [TFS 2005](http://technorati.com/tags/TFS+2005)
-

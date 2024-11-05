@@ -5,7 +5,7 @@ date: 2006-12-20
 creator: Martin Hinshelwood
 id: "456"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vista-mobile-device-center
 aliases:
   - /blog/vista-mobile-device-center
@@ -26,4 +26,3 @@ I hope it is just because the "Mobile Device Center" is currently still in beta,
 Lets hope they fix this so I can listen to my podcasts again!
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-

@@ -3,7 +3,8 @@ title: Kanban Strategy
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: method
 slug: kanban-strategy
 aliases:
   - /methods/kanban-strategy/

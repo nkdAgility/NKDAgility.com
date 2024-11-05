@@ -5,7 +5,7 @@ date: 2007-07-19
 creator: Martin Hinshelwood
 id: "367"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: loosing-the-battle-but-the-war-goes-on
 aliases:
   - /blog/loosing-the-battle-but-the-war-goes-on
@@ -29,4 +29,3 @@ The call has now come down from on high to have all Risks and Issues stored in J
 Thus, I have created a [CodePlex](http://www.codeplex.com "CodePlex") project for [TFS Work Item Tracking to Jira Synchronization](http://www.codeplex.com/TfsWitToJiraSync) in the hopes that some enterprising developers would be interested in working on the code. I will not have time to work directly on the code as all development projects are now being outsourced to our Indian development team or to external companies, and I have been relegated to the bench of release management  documentation...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-

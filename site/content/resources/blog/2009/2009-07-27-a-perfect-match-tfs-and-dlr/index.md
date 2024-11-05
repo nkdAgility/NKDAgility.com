@@ -5,7 +5,7 @@ date: 2009-07-27
 creator: Martin Hinshelwood
 id: "96"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: a-perfect-match-tfs-and-dlr
 aliases:
   - /blog/a-perfect-match-tfs-and-dlr
@@ -34,4 +34,3 @@ I am currently working on the Web Services and how to pass and store the data I 
 I might need to learn a little Ruby :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [Developing](http://technorati.com/tags/Developing) [WIT](http://technorati.com/tags/WIT) [Version Control](http://technorati.com/tags/Version+Control) [WCF](http://technorati.com/tags/WCF) [WPF](http://technorati.com/tags/WPF) [VS 2010](http://technorati.com/tags/VS+2010)
-

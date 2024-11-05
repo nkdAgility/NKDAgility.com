@@ -5,7 +5,7 @@ date: "2024-02-22"
 categories:
   - "agility"
 author: "MrHinsh"
-resourceType: podcast
+resourceTypes: podcast
 layout: resources/single
 slug: "mindset-versus-philosophy"
 resourceType:

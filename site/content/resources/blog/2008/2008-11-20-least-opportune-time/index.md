@@ -5,7 +5,7 @@ date: 2008-11-20
 creator: Martin Hinshelwood
 id: "163"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: least-opportune-time
 aliases:
   - /blog/least-opportune-time
@@ -40,4 +40,3 @@ Hats off to the [CodePlex](http://www.codeplex.com "CodePlex") team, but get the
 [](http://www.codeplex.com/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
-

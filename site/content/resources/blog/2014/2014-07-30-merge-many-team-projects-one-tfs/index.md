@@ -5,7 +5,7 @@ date: 2014-07-30
 creator: Martin Hinshelwood
 id: "10638"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: merge-many-team-projects-one-tfs
 aliases:
   - /blog/merge-many-team-projects-one-tfs
@@ -155,4 +155,3 @@ You may have noticed the "Neglect" attribute. Well it’s a little reverse socio
 And that’s really all there is to it. Don’t expect to get a successful migration the first time. Or the second, or even the third. But if you persevere you can do many migrations quickly. I have [migrated 20-30 small projects](http://nkdagility.com/one-team-project-collection-to-rule-them-allconsolidating-team-projects/) into one in only a few days, however I was luckily with the low complexity and small check-ins.
 
 Go fourth and consolidate your Team Projects….
-

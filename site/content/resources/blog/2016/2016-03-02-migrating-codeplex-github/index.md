@@ -5,7 +5,7 @@ date: 2016-03-02
 creator: Martin Hinshelwood
 id: "11465"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: migrating-codeplex-github
 aliases:
   - /blog/migrating-codeplex-github
@@ -67,10 +67,10 @@ Next up is using Git-TF to do the import. This offers a lot more flexibility as 
     `    Git remote add github https://github.com/MrHinsh/gwb-to-wordpress.git
 Git push -u github master`
 
-        ![clip_image006](images/clip_image006-6-6.png "clip_image006")
+            ![clip_image006](images/clip_image006-6-6.png "clip_image006")
 
-    { .post-img }
-    That gets all of your code over onto GitHub but what about other things…
+        { .post-img }
+        That gets all of your code over onto GitHub but what about other things…
 
 5.  **Moving your Wiki Pages** - You might also have one or more Wiki pages that you want to migrate. Unfortunately Codeplex uses HTML and Github uses Markdown.
     ![clip_image007](images/clip_image007-7-7.png "clip_image007")
@@ -80,4 +80,3 @@ Git push -u github master`
 And that’t it, you might want to look at migrating other stuff like Releases and Issues, but really this is good enough for most people. Once you are happy you can go mark your CodePlex project as migrated..
 
 Check out my migration on [https://github.com/MrHinsh/gwb-to-wordpress](https://github.com/MrHinsh/gwb-to-wordpress)
-

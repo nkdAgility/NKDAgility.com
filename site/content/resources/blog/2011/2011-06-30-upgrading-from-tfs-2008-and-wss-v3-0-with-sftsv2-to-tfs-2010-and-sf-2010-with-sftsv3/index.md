@@ -5,7 +5,7 @@ date: 2011-06-30
 creator: Martin Hinshelwood
 id: "3279"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
 aliases:
   - /blog/upgrading-from-tfs-2008-and-wss-v3-0-with-sftsv2-to-tfs-2010-and-sf-2010-with-sftsv3
@@ -758,4 +758,3 @@ As the Export Migration is the chosen route of least friction we need to follow 
 - [XPath + Namespace Driving me crazy](http://stackoverflow.com/questions/536441/xpath-namespace-driving-me-crazy)
 
 - [XPath Examples](https://www.w3schools.com/xml/xpath_examples.asp)
-

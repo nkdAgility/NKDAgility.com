@@ -5,7 +5,7 @@ date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9913"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
 aliases:
   - /blog/upgrading-to-visual-studio-scrum-3-0-process-template-in-tfs-2013
@@ -135,4 +135,3 @@ You should now have not just ‘enabled features’ but we have architected and 
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Enjoy…
-

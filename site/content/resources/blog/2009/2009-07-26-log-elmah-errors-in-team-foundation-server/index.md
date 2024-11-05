@@ -5,7 +5,7 @@ date: 2009-07-26
 creator: Martin Hinshelwood
 id: "97"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: log-elmah-errors-in-team-foundation-server
 aliases:
   - /blog/log-elmah-errors-in-team-foundation-server
@@ -629,4 +629,3 @@ End Class
 ```
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [TFS](http://technorati.com/tags/TFS)
-

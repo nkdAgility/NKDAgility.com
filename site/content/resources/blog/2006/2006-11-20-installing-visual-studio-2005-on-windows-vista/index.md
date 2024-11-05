@@ -5,7 +5,7 @@ date: 2006-11-20
 creator: Martin Hinshelwood
 id: "461"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2005-on-windows-vista
 aliases:
   - /blog/installing-visual-studio-2005-on-windows-vista
@@ -19,4 +19,3 @@ I have just installed VS2005 on vista. Although I was setup for a whole host of 
 Role on SP1
 
 Technorati Tags: [VS 2005](http://technorati.com/tags/VS+2005)
-

@@ -5,7 +5,7 @@ date: 2007-08-06
 creator: Martin Hinshelwood
 id: "340"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: why-i-think-vb-net-is-a-better-choice-than-c
 aliases:
   - /blog/why-i-think-vb-net-is-a-better-choice-than-c
@@ -78,4 +78,3 @@ Lets all try to make our code more accessible and use VB.NET.
 P.S. I don't know what I am doing wrong, I can't seems to 'smell' any of my code, neither VB.NET or C#. Hmm...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Dyslexia](http://technorati.com/tags/Dyslexia)
-

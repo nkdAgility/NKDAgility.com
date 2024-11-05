@@ -5,7 +5,7 @@ date: 2010-03-18
 creator: Martin Hinshelwood
 id: "60"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-know-the-minimum-builds-to-create-on-any-branch
 aliases:
   - /blog/do-you-know-the-minimum-builds-to-create-on-any-branch
@@ -57,4 +57,3 @@ Note: If you had a really large project with thousands of tests including long r
 **Figure: Good example, you know exactly what project, branch and type of build these are for.**
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [SSW Rules](http://technorati.com/tags/SSW+Rules) [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [VS 2010](http://technorati.com/tags/VS+2010)
-

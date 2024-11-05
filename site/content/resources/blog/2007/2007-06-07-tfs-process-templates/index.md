@@ -5,7 +5,7 @@ date: 2007-06-07
 creator: Martin Hinshelwood
 id: "386"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-process-templates
 aliases:
   - /blog/tfs-process-templates
@@ -19,4 +19,3 @@ We have been working on our own process template, but developer are the worst pe
 If you are going to configure process templates for Team Foundation Server you should do it centimeter by centimeter and do not bite off more than you can chew.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

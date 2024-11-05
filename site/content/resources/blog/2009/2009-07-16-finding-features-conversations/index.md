@@ -5,7 +5,7 @@ date: 2009-07-16
 creator: Martin Hinshelwood
 id: "101"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: finding-features-conversations
 aliases:
   - /blog/finding-features-conversations
@@ -42,4 +42,3 @@ And expanded
 Like I said… Nice…
 
 Technorati Tags: [Office](http://technorati.com/tags/Office)
-

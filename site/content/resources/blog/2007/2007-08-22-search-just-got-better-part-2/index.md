@@ -5,7 +5,7 @@ date: 2007-08-22
 creator: Martin Hinshelwood
 id: "322"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: search-just-got-better-part-2
 aliases:
   - /blog/search-just-got-better-part-2
@@ -25,4 +25,3 @@ Below you can see an example of the search results, and you should be able to pl
 Have you seen any other search visualization website's? Let me know...
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-

@@ -5,7 +5,7 @@ date: 2014-10-07
 creator: Martin Hinshelwood
 id: "10771"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-training-virtual-machines-azure
 aliases:
   - /blog/creating-training-virtual-machines-azure
@@ -287,4 +287,3 @@ With all the hassle of setting up and configuring local computers this service i
 This is the monthly cost for the fast SSD D-Series virtual machines and for 16 of them (one for each student) it looks like it would be around £2207.60 per month. That’s £2.97 per hour for all 16. The course is 16 hours so if I am careful it will be about £50 for a two day course. Of course if I forget to turn them off in the evening then it could hit £142.56 for 48 hours.
 
 The future is cloud…
-

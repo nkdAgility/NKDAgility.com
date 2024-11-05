@@ -1,7 +1,7 @@
 ---
 title: The Sprint Review
 description: The Sprint Review is not about the past, it's about the future. Its purpose to bring the right people (stakeholders) up to speed on the current state (increment), so that we can make decisions about the future desired state (Product Backlog).
-resourceType: learning-series
+resourceTypes: learning-series
 layout: resources/learning-series
 draft: true
 preview: https://nkdagility.com/wp-content/uploads/2020/12/image-2.png

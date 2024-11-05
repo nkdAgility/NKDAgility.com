@@ -5,7 +5,7 @@ date: 2007-03-27
 creator: Martin Hinshelwood
 id: "423"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: free-online-training-from-microsoft
 aliases:
   - /blog/free-online-training-from-microsoft
@@ -36,4 +36,3 @@ I picked:
 Just for fun!
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [VS 2005](http://technorati.com/tags/VS+2005)
-

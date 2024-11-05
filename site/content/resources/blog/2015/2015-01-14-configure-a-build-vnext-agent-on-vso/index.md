@@ -5,7 +5,7 @@ date: 2015-01-14
 creator: Martin Hinshelwood
 id: "11021"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: configure-a-build-vnext-agent-on-vso
 aliases:
   - /blog/configure-a-build-vnext-agent-on-vso
@@ -139,4 +139,3 @@ The new build system promises to be both versatile and much simpler than its pre
 { .post-img }
 
 …thanks Chris!
-

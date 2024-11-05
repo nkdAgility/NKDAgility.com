@@ -5,7 +5,7 @@ date: 2008-05-12
 creator: Martin Hinshelwood
 id: "229"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: post-event-developer-day-scotland
 aliases:
   - /blog/post-event-developer-day-scotland
@@ -25,4 +25,3 @@ After lunch when you normally start to fall asleep we got a session on Continuou
 If I took anything away from this day, it was that although I know a lot, I know very little....
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

@@ -1,6 +1,6 @@
 ---
 title: Product Backlog
-resourceType: practice
+resourceTypes: practice
 layout: resources/single
 aliases:
   - practices/product-backlog.html

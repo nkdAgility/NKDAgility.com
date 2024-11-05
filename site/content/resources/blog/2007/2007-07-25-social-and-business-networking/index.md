@@ -5,7 +5,7 @@ date: 2007-07-25
 creator: Martin Hinshelwood
 id: "359"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: social-and-business-networking
 aliases:
   - /blog/social-and-business-networking
@@ -39,4 +39,3 @@ _A possible pricing model:_
 _This model may be complicated but would be fairer to smaller sites, while still charging more for small sites that have a high number of transactions._
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA)
-

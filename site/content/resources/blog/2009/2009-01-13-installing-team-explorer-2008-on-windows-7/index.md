@@ -5,7 +5,7 @@ date: 2009-01-13
 creator: Martin Hinshelwood
 id: "145"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-team-explorer-2008-on-windows-7
 aliases:
   - /blog/installing-team-explorer-2008-on-windows-7
@@ -54,4 +54,3 @@ Ewww, and check out that nasty logo…
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [TFS](http://technorati.com/tags/TFS)
-

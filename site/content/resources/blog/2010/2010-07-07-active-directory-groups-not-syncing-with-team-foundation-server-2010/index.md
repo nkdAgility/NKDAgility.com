@@ -5,7 +5,7 @@ date: 2010-07-07
 creator: Martin Hinshelwood
 id: "32"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: active-directory-groups-not-syncing-with-team-foundation-server-2010
 aliases:
   - /blog/active-directory-groups-not-syncing-with-team-foundation-server-2010
@@ -179,4 +179,3 @@ If you remove the “BUILTINAdministrators” group from the “Team Foundation 
 I then restarted the “Team Foundation Server Job Agent” service and after a few minutes the problem above had resolved itself correctly.
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010)
-

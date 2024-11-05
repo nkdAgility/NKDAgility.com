@@ -5,7 +5,7 @@ date: 2010-04-14
 creator: Martin Hinshelwood
 id: "51"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-know-when-to-send-a-done-email-in-scrum
 aliases:
   - /blog/do-you-know-when-to-send-a-done-email-in-scrum
@@ -59,4 +59,3 @@ Then add an illustration to show this.
 This is all designed to help you Scrum Team members (Product Owner, ScrumMaster and Team) validate the quality of the work that has been completed. Remember that you are not DONE until your team says you are done.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [SSW Rules](http://technorati.com/tags/SSW+Rules) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

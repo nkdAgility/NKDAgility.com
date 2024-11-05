@@ -5,7 +5,7 @@ date: 2010-04-20
 creator: Martin Hinshelwood
 id: "49"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: silverlight-4-mvvm-and-test-driven-development
 aliases:
   - /blog/silverlight-4-mvvm-and-test-driven-development
@@ -61,4 +61,3 @@ We are meeting at Microsoft's offices in Edinburgh in Waterloo Place. This is th
 \[[Register Now, there are some places left](http://jesse-liberty-edinburgh.eventbrite.com/)\]
 
 Technorati Tags: [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM) [VS 2010](http://technorati.com/tags/VS+2010)
-

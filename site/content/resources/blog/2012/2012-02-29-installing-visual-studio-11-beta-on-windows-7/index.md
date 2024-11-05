@@ -5,7 +5,7 @@ date: 2012-02-29
 creator: Martin Hinshelwood
 id: "4727"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-11-beta-on-windows-7
 aliases:
   - /blog/installing-visual-studio-11-beta-on-windows-7
@@ -69,4 +69,3 @@ I LOVE the new team Explorer, but it will take a little getting used to…
 Remember that there is [Go-Live for Visual Studio 11](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/)!
 
 Go on… be a kid again!
-

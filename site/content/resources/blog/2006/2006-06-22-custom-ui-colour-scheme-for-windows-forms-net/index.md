@@ -5,7 +5,7 @@ date: 2006-06-22
 creator: Martin Hinshelwood
 id: "466"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: custom-ui-colour-scheme-for-windows-forms-net
 aliases:
   - /blog/custom-ui-colour-scheme-for-windows-forms-net
@@ -189,4 +189,3 @@ Once you have done this, all you need now is to add it to your contols:
 All done! If you have problems you can inherit from the ToolStrip control and change the renderer in the constructor...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

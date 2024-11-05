@@ -1,6 +1,6 @@
 ---
 title: Product Increment
-resourceType: practice
+resourceTypes: practice
 layout: resources/single
 aliases:
   - practices/product-increment.html

@@ -5,7 +5,7 @@ date: 2007-03-24
 creator: Martin Hinshelwood
 id: "432"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: advanced-email-content-addendum
 aliases:
   - /blog/advanced-email-content-addendum
@@ -34,4 +34,3 @@ Why would you not want to send XBAP's via email:
 Need I say more...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Fail](http://technorati.com/tags/Fail) [WPF](http://technorati.com/tags/WPF)
-

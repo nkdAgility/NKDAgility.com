@@ -5,7 +5,7 @@ date: 2008-12-04
 creator: Martin Hinshelwood
 id: "156"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: live-framework
 aliases:
   - /blog/live-framework
@@ -35,4 +35,3 @@ For example, if I was to think of a couple of simple things that I would like th
 Coool…..
 
 Technorati Tags: [Azure](http://technorati.com/tags/Azure) [Live](http://technorati.com/tags/Live) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

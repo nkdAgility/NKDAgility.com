@@ -5,7 +5,7 @@ date: 2007-01-12
 creator: Martin Hinshelwood
 id: "443"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: hinshelm-vs-fernienator
 aliases:
   - /blog/hinshelm-vs-fernienator
@@ -25,4 +25,3 @@ Or me vs my brother-in-law!
 I think that I am winning!
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-

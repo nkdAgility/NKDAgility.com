@@ -5,7 +5,7 @@ date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7402"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
 aliases:
   - /blog/tfs-integration-tools-issue-tf10141-no-files-checked-in-as-a-result-of-a-tfs-check-in-failure
@@ -128,4 +128,3 @@ After Jameson pointed this out to me I was muttering like a Pirate that has stub
 <warning>
 
 **Did this solve your conflict?**
-

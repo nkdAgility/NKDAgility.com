@@ -5,7 +5,7 @@ date: 2012-06-01
 creator: Martin Hinshelwood
 id: "5368"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-tfs-2012-on-server-2012-with-sql-2012
 aliases:
   - /blog/installing-tfs-2012-on-server-2012-with-sql-2012
@@ -301,4 +301,3 @@ So, no SharePoint on Server 2012. Can’t say I am going to miss it. I have been
 Good luck with your 2012 deployments, I have a bunch of production upgrades this month (none with Server 2012 as well) so I will keep you posted to any issues or problems.
 
 _\-Are you deploying or upgrading to tfs 2012? Northwest Cadence has experts ready to help you with all possible configurations. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
-

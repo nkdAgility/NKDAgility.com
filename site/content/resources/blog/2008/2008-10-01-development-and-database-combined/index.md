@@ -5,7 +5,7 @@ date: 2008-10-01
 creator: Martin Hinshelwood
 id: "190"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: development-and-database-combined
 aliases:
   - /blog/development-and-database-combined
@@ -21,4 +21,3 @@ From today if you Own either version in 2005 or 2008 flavours you will also have
 Good stuff :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

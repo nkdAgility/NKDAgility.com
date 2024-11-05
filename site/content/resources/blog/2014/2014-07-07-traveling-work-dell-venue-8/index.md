@@ -5,7 +5,7 @@ date: 2014-07-07
 creator: Martin Hinshelwood
 id: "10645"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: traveling-work-dell-venue-8
 aliases:
   - /blog/traveling-work-dell-venue-8
@@ -90,4 +90,3 @@ I think that the three things with a '1' after the designation are the core pack
 I have only been using this device over the weekend and so far it has been fantastic. I have even been typing on the screen rather than an external keyboard and found it to be just right. I also have a Microsoft Wedge Keyboard in my pack and so far I have had no reason to bring it out.
 
 I will be using the Dell Venue 8 for all of my note taking over the next wee while and we will see if it stands up to my lack of patience.
-

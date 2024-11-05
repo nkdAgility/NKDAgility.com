@@ -5,7 +5,7 @@ date: 2012-05-12
 creator: Martin Hinshelwood
 id: "5277"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
 aliases:
   - /blog/process-template-upgrade-7-overwrite-retaining-history-with-limited-migration
@@ -114,7 +114,8 @@ WARNING: Always test the process against in a test environment before you move f
 
     { .post-img }
     **Figure: witadmin renamewitd /?**
-    ```
+
+    ````
     witadmin renamewitd /collection:http://vsalm:8080/tfs/defaultcollection /p:Agile3 /n:"User Story" /new:"Product Backlog Item"
 
         ```
@@ -122,6 +123,8 @@ WARNING: Always test the process against in a test environment before you move f
         This is the point at which you will start to break things. Queries, Reports, Dashboards and the new Agile Planning tools all rely on the Work Item Type name.
 
         WARNING: Always do this on a test server first before you ever touch production
+
+    ````
 
 5.  **Update to the new Work Item Types**
 
@@ -357,4 +360,3 @@ I will try to catalogue any problems here, so add them in the comments and I wil
     You forgot to update #7 above. Go back and do it now!
 
 2.  **\[TBA\] Let me know what errors you find…**
-

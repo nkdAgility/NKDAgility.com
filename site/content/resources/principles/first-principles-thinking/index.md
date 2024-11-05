@@ -2,7 +2,9 @@
 title: First Principles Thinking
 date: 2024-09-17
 creator: Martin Hinshelwood
-type: methods
+draft: true
+resourceTypes: principle
+layout: principle
 slug: first-principles-thinking
 aliases:
   - /principles/first-principles-thinking/

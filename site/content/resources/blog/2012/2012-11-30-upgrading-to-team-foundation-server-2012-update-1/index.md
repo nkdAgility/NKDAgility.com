@@ -5,7 +5,7 @@ date: 2012-11-30
 creator: Martin Hinshelwood
 id: "9161"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-to-team-foundation-server-2012-update-1
 aliases:
   - /blog/upgrading-to-team-foundation-server-2012-update-1
@@ -92,4 +92,3 @@ In the real world I dought that many folks will be changing their settings as pa
 This is an easy update with very low risk and can be done in place if you are upgrading from the 2012 RTM.
 
 It takes a little more planning to go from 2008 or 2010 to 2012, but it is ultimately just as easy.
-

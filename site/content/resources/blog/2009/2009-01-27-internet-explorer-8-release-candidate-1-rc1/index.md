@@ -5,7 +5,7 @@ date: 2009-01-27
 creator: Martin Hinshelwood
 id: "143"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: internet-explorer-8-release-candidate-1-rc1
 aliases:
   - /blog/internet-explorer-8-release-candidate-1-rc1
@@ -21,4 +21,3 @@ IT Professionals should visit [http://technet.microsoft.com/ie](http://technet.m
 Developers should visit [http://msdn.microsoft.com/ie](http://msdn.microsoft.com/ie)
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-

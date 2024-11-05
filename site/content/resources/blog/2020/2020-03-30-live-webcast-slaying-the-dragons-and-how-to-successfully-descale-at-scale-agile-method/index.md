@@ -5,7 +5,7 @@ date: 2020-03-30
 creator: Martin Hinshelwood
 id: "44209"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
 aliases:
   - /blog/live-webcast-slaying-the-dragons-and-how-to-successfully-descale-at-scale-agile-method
@@ -32,4 +32,3 @@ https://youtu.be/i\_DglXgaePM
 Presentation: https://nkdagility.net/2CdA7cN
 
 https://www.meetup.com/the-future-of-work-in-Scotland/events/
-

@@ -5,7 +5,7 @@ date: 2009-05-21
 creator: Martin Hinshelwood
 id: "111"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-myphone-service-available-to-the-public
 aliases:
   - /blog/microsoft-myphone-service-available-to-the-public
@@ -28,4 +28,3 @@ I do not know what the bandwidth is like, but the fact that you cant set the syn
 Setup you phone by going to [http://myphone.microsoft.com](http://myphone.microsoft.com "http://myphone.microsoft.com")
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [WM6](http://technorati.com/tags/WM6)
-

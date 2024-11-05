@@ -5,7 +5,7 @@ date: 2008-01-07
 creator: Martin Hinshelwood
 id: "269"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: my-first-extension-method
 aliases:
   - /blog/my-first-extension-method
@@ -46,4 +46,3 @@ You can add extension methods randomly within your code, but it makes sense to p
 Have fun...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

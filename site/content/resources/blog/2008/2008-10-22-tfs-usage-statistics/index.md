@@ -5,7 +5,7 @@ date: 2008-10-22
 creator: Martin Hinshelwood
 id: "187"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-usage-statistics
 aliases:
   - /blog/tfs-usage-statistics
@@ -55,4 +55,3 @@ Uploads: 454
 Shelves: unknown
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

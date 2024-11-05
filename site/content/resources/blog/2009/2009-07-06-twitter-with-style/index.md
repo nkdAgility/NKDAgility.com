@@ -5,7 +5,7 @@ date: 2009-07-06
 creator: Martin Hinshelwood
 id: "105"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: twitter-with-style
 aliases:
   - /blog/twitter-with-style
@@ -26,4 +26,3 @@ I had used a few of the other apps that are available, but I think this is the b
 Ahh well, can’t have everything…
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Windows](http://technorati.com/tags/Windows)
-

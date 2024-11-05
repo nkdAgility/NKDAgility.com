@@ -5,7 +5,7 @@ date: 2008-07-03
 creator: Martin Hinshelwood
 id: "219"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
 aliases:
   - /blog/tfs-error-msb4018-the-buildshadowtask-task-failed-unexpectedly
@@ -55,4 +55,3 @@ Reference:
 [BuildShadowTask Failed unexpectedly - Accessor Problem (Upconvert VS 2005 to 2008) – URGENT](http://forums.microsoft.com/msdn/ShowPost.aspx?PostID=2941701&SiteID=1)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS) [TFS 2008](http://technorati.com/tags/TFS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
-

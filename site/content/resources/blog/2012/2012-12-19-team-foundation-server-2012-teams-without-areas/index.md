@@ -5,7 +5,7 @@ date: 2012-12-19
 creator: Martin Hinshelwood
 id: "9188"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-foundation-server-2012-teams-without-areas
 aliases:
   - /blog/team-foundation-server-2012-teams-without-areas
@@ -241,4 +241,3 @@ This has merit when the situation dictates and I have recommended it twice now w
 And remember that any changes to your process template should be well thought out as you don’t want to end up with fragmented templates if you have more than one Team Project or worse, end up with a frankin-template that no one wants to use.
 
 Just be careful out there…
-

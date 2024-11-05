@@ -5,7 +5,7 @@ date: 2013-03-17
 creator: Martin Hinshelwood
 id: "9288"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
 aliases:
   - /blog/windows-server-2012-core-issue-enable-file-and-printer-sharing-for-lab-management-standard-environments
@@ -88,4 +88,3 @@ After enabling the File and Printer Sharing firewall rules everything is now gre
 ![image](images/image15-5-5.png "image")  
 { .post-img }
 **Figure: We can now verify the Standard Environment**
-

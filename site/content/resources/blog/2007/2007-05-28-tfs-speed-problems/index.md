@@ -5,7 +5,7 @@ date: 2007-05-28
 creator: Martin Hinshelwood
 id: "395"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-speed-problems
 aliases:
   - /blog/tfs-speed-problems
@@ -27,4 +27,3 @@ If you have a slow team server, check the network and then check the performance
 **Do you have a slow team server?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

@@ -5,7 +5,7 @@ date: 2016-01-27
 creator: Martin Hinshelwood
 id: "11450"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: agile-africa-2016
 aliases:
   - /blog/agile-africa-2016
@@ -53,4 +53,3 @@ There was a lot of press coverage of the event, with radio interviews and even a
 I am looking forward to this year's event, have you signed up yet?
 
 [http://agileinafrica.com](http://agileinafrica.com)
-

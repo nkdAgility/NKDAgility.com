@@ -5,7 +5,7 @@ date: 2008-01-29
 creator: Martin Hinshelwood
 id: "259"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-prototype-refresh
 aliases:
   - /blog/tfs-event-handler-prototype-refresh
@@ -42,4 +42,3 @@ Some ideas for Event Handlers:
 **Can you think of any more you would like?** [Send them on a postcard to...](https://www.codeplex.com/Thread/View.aspx?ProjectName=TFSEventHandler&ThreadId=21219 "Send me your ideas for new Event Handlers")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
-

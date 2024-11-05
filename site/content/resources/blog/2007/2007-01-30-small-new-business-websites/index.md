@@ -5,7 +5,7 @@ date: 2007-01-30
 creator: Martin Hinshelwood
 id: "441"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: small-new-business-websites
 aliases:
   - /blog/small-new-business-websites
@@ -93,4 +93,3 @@ WARNING: I have worked for companies that look like they can do you a good job b
 Just my 50p, please feel free to comment below...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

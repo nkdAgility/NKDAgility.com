@@ -5,7 +5,7 @@ date: 2007-05-29
 creator: Martin Hinshelwood
 id: "394"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: custom-wcf-proxy
 aliases:
   - /blog/custom-wcf-proxy
@@ -32,4 +32,3 @@ I decided to solve the problem by creating custom proxies for my Windows Communi
 This way you have no need of a convertors or adapters between object types. Obviously this only works for .NET to .NET implementations of servers, you Java guys are still on your own, but it a usefully tool to add to your arsenal.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [WCF](http://technorati.com/tags/WCF)
-

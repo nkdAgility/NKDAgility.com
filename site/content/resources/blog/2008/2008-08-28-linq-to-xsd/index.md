@@ -5,7 +5,7 @@ date: 2008-08-28
 creator: Martin Hinshelwood
 id: "203"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: linq-to-xsd
 aliases:
   - /blog/linq-to-xsd
@@ -50,4 +50,3 @@ note: if you are using MSBuild or Team Build you will need to install this add o
 Now that you have a project, when you add an XSD you will have extra Build Actions available. Once you have set all of your XSD files to this Action and build, you will have classes for all of your XSD's. On down side is that it created a single file ("/obj/debug/LinqToXsdSource.cs"), bit it does work.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [TFBS](http://technorati.com/tags/TFBS)
-

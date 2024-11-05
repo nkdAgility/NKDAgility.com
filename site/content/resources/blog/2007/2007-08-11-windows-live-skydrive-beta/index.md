@@ -5,7 +5,7 @@ date: 2007-08-11
 creator: Martin Hinshelwood
 id: "336"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-live-skydrive-beta
 aliases:
   - /blog/windows-live-skydrive-beta
@@ -25,4 +25,3 @@ I have a link to my [SkyDrive](http://cid-57599e234f1ebc1c.skydrive.live.com/bro
 What I would like to see on the SkyDrive is more Sharepoint style interaction so I can edit my files directly on the online drive.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

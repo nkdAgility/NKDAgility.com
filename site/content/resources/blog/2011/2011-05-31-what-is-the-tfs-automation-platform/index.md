@@ -5,7 +5,7 @@ date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3373"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-is-the-tfs-automation-platform
 aliases:
   - /blog/what-is-the-tfs-automation-platform
@@ -186,4 +186,3 @@ When the user renames an iteration then a job needs to be kicked off that will f
 ## Conclusion
 
 This poses to be a very interesting project if we can get the resource together to be effective. The idea is to start small, so expect to see some smaller, more focused architectures coming down the line.
-

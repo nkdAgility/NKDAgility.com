@@ -5,7 +5,7 @@ date: 2012-08-26
 creator: Martin Hinshelwood
 id: "7712"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
 aliases:
   - /blog/upgrading-windows-7-to-windows-8-remotely-over-team-viewer-for-parents-in-another-country
@@ -131,4 +131,3 @@ The first thing that you need to do is check for updates and validate that all o
 … Now to get her some apps, uninstall office 2007 in favour of Office 365 Preview…
 
 **How did you get on updating your remote family members?**
-

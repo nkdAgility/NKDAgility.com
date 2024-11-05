@@ -5,7 +5,7 @@ date: 2009-05-03
 creator: Martin Hinshelwood
 id: "125"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: developer-day-scotland
 aliases:
   - /blog/developer-day-scotland
@@ -54,4 +54,3 @@ Taking a different approach than Gary's session on code debt [Mark Dalgarno](htt
 Although I was in the room, I could not say that I attended this session as I was suffering from a late night and an early rise, and by the time this session started I was starting to drift off. Sorry [Mike](http://mikeo.co.uk/), it was not you, it was me...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Software Development](http://technorati.com/tags/Software+Development) [Windows](http://technorati.com/tags/Windows) [WPF](http://technorati.com/tags/WPF) [MVVM](http://technorati.com/tags/MVVM)
-

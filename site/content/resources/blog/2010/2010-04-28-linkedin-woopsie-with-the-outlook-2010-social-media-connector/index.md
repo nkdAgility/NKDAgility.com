@@ -5,7 +5,7 @@ date: 2010-04-28
 creator: Martin Hinshelwood
 id: "47"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: linkedin-woopsie-with-the-outlook-2010-social-media-connector
 aliases:
   - /blog/linkedin-woopsie-with-the-outlook-2010-social-media-connector
@@ -66,4 +66,3 @@ It only tool another hour after I explained where I thought the problem was for 
 Credit to LinkedIn for solving it quickly..
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [LinkedIn](http://technorati.com/tags/LinkedIn) [Outlook 2010](http://technorati.com/tags/Outlook+2010)
-

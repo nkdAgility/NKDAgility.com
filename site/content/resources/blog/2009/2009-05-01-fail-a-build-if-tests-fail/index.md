@@ -5,7 +5,7 @@ date: 2009-05-01
 creator: Martin Hinshelwood
 id: "127"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: fail-a-build-if-tests-fail
 aliases:
   - /blog/fail-a-build-if-tests-fail
@@ -35,4 +35,3 @@ It took me longer than I thought it would to find this, but is you are using TFS
 Very handy…
 
 Technorati Tags: [TFBS](http://technorati.com/tags/TFBS) [ALM](http://technorati.com/tags/ALM) [TFS 2008](http://technorati.com/tags/TFS+2008)
-

@@ -5,7 +5,7 @@ date: "2023-12-19"
 categories:
   - "agility"
 author: "MrHinsh"
-resourceType: podcast
+resourceTypes: podcast
 layout: resources/single
 slug: "agile-alchemy"
 resourceType:

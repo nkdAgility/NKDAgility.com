@@ -5,7 +5,7 @@ date: "2023-11-23"
 categories:
   - "agility"
 author: "MrHinsh"
-resourceType: podcast
+resourceTypes: podcast
 layout: resources/single
 slug: "continuous-delivery"
 resourceType:

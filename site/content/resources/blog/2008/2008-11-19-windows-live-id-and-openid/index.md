@@ -5,7 +5,7 @@ date: 2008-11-19
 creator: Martin Hinshelwood
 id: "165"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-live-id-and-openid
 aliases:
   - /blog/windows-live-id-and-openid
@@ -58,4 +58,3 @@ You need to setup a new Live ID on the Live-INT service, you can use any email, 
       It is a dream I have…
 
       Technorati Tags: [Windows Live](http://technorati.com/tags/Windows+Live),[OpenID](http://technorati.com/tags/OpenID)
-

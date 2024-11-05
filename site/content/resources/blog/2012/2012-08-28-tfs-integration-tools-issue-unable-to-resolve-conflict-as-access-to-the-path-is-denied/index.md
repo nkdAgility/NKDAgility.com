@@ -5,7 +5,7 @@ date: 2012-08-28
 creator: Martin Hinshelwood
 id: "7744"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
 aliases:
   - /blog/tfs-integration-tools-issue-unable-to-resolve-conflict-as-access-to-the-path-is-denied
@@ -47,4 +47,3 @@ Add the TFSIPEXEC_WPG permission to the folder with full rights.
 **Figure: Model dialog galore**
 
 Once you have added permissions you will be able to resolve the conflicts…
-

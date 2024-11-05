@@ -5,7 +5,7 @@ date: 2008-08-28
 creator: Martin Hinshelwood
 id: "201"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: compatibility-view-in-ie8
 aliases:
   - /blog/compatibility-view-in-ie8
@@ -28,4 +28,3 @@ For example Microsoft.com and Google.com do not get the little button.
 But Gmail does :)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

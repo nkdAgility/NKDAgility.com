@@ -5,7 +5,7 @@ date: 2008-05-20
 creator: Martin Hinshelwood
 id: "223"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: developing-for-sharepoint-on-your-local-computer
 aliases:
   - /blog/developing-for-sharepoint-on-your-local-computer
@@ -40,4 +40,3 @@ If you are developing for either of my MOSS Codeplex Projects ([MOSS Time Off Ma
 **UPDATE: If you can get this to work, you must be a SharePoint developer guru**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [WF](http://technorati.com/tags/WF) [VS 2008](http://technorati.com/tags/VS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

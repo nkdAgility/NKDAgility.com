@@ -5,7 +5,7 @@ date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9677"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: get-visual-studio-2013-team-foundation-server-while-its-hot
 aliases:
   - /blog/get-visual-studio-2013-team-foundation-server-while-its-hot
@@ -176,4 +176,3 @@ These are but a few of the new features in Team Foundation Server 2013 let alone
 { .post-img }
 
 I have already done one upgrade of a customers two terabyte TFS 2012 instance with no issues and I am hopefully working on my next one as you read this… Download, install & Play… be a kid again with Team Foundation Server 2013.
-

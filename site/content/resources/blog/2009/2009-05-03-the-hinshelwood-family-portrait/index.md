@@ -5,7 +5,7 @@ date: 2009-05-03
 creator: Martin Hinshelwood
 id: "124"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-hinshelwood-family-portrait
 aliases:
   - /blog/the-hinshelwood-family-portrait
@@ -22,4 +22,3 @@ John Johnston at [Perfect Expressions](http://www.perfectexpressions.co.uk) was 
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

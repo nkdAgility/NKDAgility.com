@@ -5,7 +5,7 @@ date: 2007-12-31
 creator: Martin Hinshelwood
 id: "272"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sharepoint-3-0-and-moss-2007-service-pack-1-update
 aliases:
   - /blog/sharepoint-3-0-and-moss-2007-service-pack-1-update
@@ -36,4 +36,3 @@ This may not fix your problems, but it sure fixed mine....
 Now to get the [Virus Protection problems](http://blog.hinshelwood.com/archive/2007/12/13/no-love-between-mcafee-enterprise-and-moss-2007.aspx) solved....
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

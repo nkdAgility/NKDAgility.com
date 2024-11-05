@@ -5,7 +5,7 @@ date: 2011-03-10
 creator: Martin Hinshelwood
 id: "9893"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2010-service-pack-1
 aliases:
   - /blog/installing-visual-studio-2010-service-pack-1
@@ -70,4 +70,3 @@ This was an easy experience even if the SP was over 1.5GB’s to download ![Smil
 { .post-img }
 
 **What were your experiences of installing Visual Studio 2010 Service pack 1?**
-

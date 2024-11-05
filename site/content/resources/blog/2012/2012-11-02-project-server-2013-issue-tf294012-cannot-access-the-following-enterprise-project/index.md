@@ -5,7 +5,7 @@ date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9138"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
 aliases:
   - /blog/project-server-2013-issue-tf294012-cannot-access-the-following-enterprise-project
@@ -125,4 +125,3 @@ Lets check the UI…
 **Figure: Now I get Manage Users and Manage Groups for Project Server 2013**
 
 I hope this helps you solve your problem, but remember that mine are very specific and this solution may not fit your problem…
-

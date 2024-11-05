@@ -5,7 +5,7 @@ date: 2019-10-21
 creator: Martin Hinshelwood
 id: "39960"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-is-your-perspective-on-collocation
 aliases:
   - /blog/what-is-your-perspective-on-collocation
@@ -47,4 +47,3 @@ This type of space provides not only a level of Focus, but a level of self, of o
 Its clear from the data that collocation is best, but its just not always available based on company culture and how things are organised. If you are unable to be collocated then the role of the Scrum Master is to work to minimise the negative impact of the team while working on the organisational impediments that resulted in the problem in the first place. Hopefully we will all be working in team rooms in the future.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
-

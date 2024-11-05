@@ -5,7 +5,7 @@ date: 2010-03-15
 creator: Martin Hinshelwood
 id: "62"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: adventures-in-scrum-lesson-2-for-the-record
 aliases:
   - /blog/adventures-in-scrum-lesson-2-for-the-record
@@ -60,4 +60,3 @@ Its simple, as per our rule I should have sent the following email:
 This email should have been copied to the entire Scrum Team, which would have included the Product Owner, who would have nipped this misunderstanding in the bud and we would have had one less impediment.
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [Silverlight](http://technorati.com/tags/Silverlight)
-

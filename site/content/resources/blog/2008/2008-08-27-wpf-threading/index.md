@@ -5,7 +5,7 @@ date: 2008-08-27
 creator: Martin Hinshelwood
 id: "206"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: wpf-threading
 aliases:
   - /blog/wpf-threading
@@ -25,4 +25,3 @@ This is a fantastic article, that provided me with the exact solution I was look
 One to watch...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-

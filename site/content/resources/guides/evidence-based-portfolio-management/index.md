@@ -1,6 +1,6 @@
 ---
 title: Investing for Business Agility - Using evidence-based portfolio management to achieve better business outcomes
-resourceType: guide
+resourceTypes: guide
 date: 2024-09-17
 creator: Martin Hinshelwood
 aliases:

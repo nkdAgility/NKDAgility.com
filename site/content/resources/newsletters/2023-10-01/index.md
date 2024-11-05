@@ -3,8 +3,8 @@ id: "50131"
 title: 'Exclusive Webcast #2: "Agile Leadership & Agile Transformation" with Dr. Joanna Płaskonka & Martin Hinshelwood'
 date: "2023-10-01"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood"
 aliases:
   - /newsletters/exclusive-webcast-2-agile-leadership-agile-transformation-with-dr-joanna-plaskonka-martin-hinshelwood/

@@ -5,7 +5,7 @@ date: 2016-10-26
 creator: Martin Hinshelwood
 id: "11634"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vsts-sync-migration-tools
 aliases:
   - /blog/vsts-sync-migration-tools
@@ -38,4 +38,3 @@ Since most teams migrate from TFVC to Git in TFS I was not interested in migrati
 You are welcome to Fork the repository on GitHub and I will happily accept pull requests, but know that my MASTER is in VSTS and not GitHub along with the entire automated build and release system. I release to [NuGet](https://www.nuget.org/packages/VSTS.DataBulkEditor.Engine/), [Chocolatey](https://chocolatey.org/packages/vsts-sync-migrator), [GitHub](https://github.com/nkdAgility/vsts-sync-migration), and the [VSTS Marketplace](https://marketplace.visualstudio.com/items?itemName=nkdagility.vsts-sync-migration).
 
 Let me know what you think of the tools…
-

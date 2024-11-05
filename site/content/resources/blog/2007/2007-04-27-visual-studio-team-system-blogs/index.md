@@ -5,7 +5,7 @@ date: 2007-04-27
 creator: Martin Hinshelwood
 id: "413"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-system-blogs
 aliases:
   - /blog/visual-studio-team-system-blogs
@@ -17,4 +17,3 @@ You can find all the blogs for the Microsoft team for Visual Studio in one place
 [http://msdn2.Microsoft.com/en-us/teamsystem/aa7187...](http://msdn2.Microsoft.com/en-us/teamsystem/aa7187...)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

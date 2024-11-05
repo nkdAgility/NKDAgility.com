@@ -5,7 +5,7 @@ date: 2016-10-27
 creator: Martin Hinshelwood
 id: "11642"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: kalabule-or-a-professional-at-agile-in-africa
 aliases:
   - /blog/kalabule-or-a-professional-at-agile-in-africa
@@ -49,4 +49,3 @@ I talked a lot about why we are kalabule in the software industry and that neith
 If these values are not something that you want, not just building software, but simply interacting with others on a daily bases, then you have no business interacting with them.
 
 As an industry we need to step up and refuse to be kalabule (cowboys) and instead strive to be Professionals and embody the Values that we want to be known for. Its time to clean the unprofessional muck from our industry and reinvent ourselves…
-

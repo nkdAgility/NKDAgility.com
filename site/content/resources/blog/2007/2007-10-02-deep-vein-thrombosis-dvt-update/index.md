@@ -5,7 +5,7 @@ date: 2007-10-02
 creator: Martin Hinshelwood
 id: "306"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: deep-vein-thrombosis-dvt-update
 aliases:
   - /blog/deep-vein-thrombosis-dvt-update
@@ -43,4 +43,3 @@ I would like to share this email from my good friend Steven McPherson...
 The family have a Website "[http://www.dvt-awareness.co.uk/](http://www.dvt-awareness.co.uk/ "http://www.dvt-awareness.co.uk/")"  where they link to many news stories on the subject and a couple of videos. Although it is too late to sign the petition, please lend your support any way you can...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

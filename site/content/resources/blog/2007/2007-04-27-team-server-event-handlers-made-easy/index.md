@@ -5,7 +5,7 @@ date: 2007-04-27
 creator: Martin Hinshelwood
 id: "412"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-server-event-handlers-made-easy
 aliases:
   - /blog/team-server-event-handlers-made-easy
@@ -87,4 +87,3 @@ There is then a system that handles all of the events and is subscribed through�
 I am afraid I had to code from memory, so any errors or omissions are just my a sign of me getting old, but I hope you get the point and the ease with which you could write and deploy EventHandler's with this.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
-

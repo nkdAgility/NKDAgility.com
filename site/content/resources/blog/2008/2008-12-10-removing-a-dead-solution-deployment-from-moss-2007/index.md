@@ -5,7 +5,7 @@ date: 2008-12-10
 creator: Martin Hinshelwood
 id: "155"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: removing-a-dead-solution-deployment-from-moss-2007
 aliases:
   - /blog/removing-a-dead-solution-deployment-from-moss-2007
@@ -40,4 +40,3 @@ Click the title to bring up the job definition and status and you should have th
 Once killed you can check the deployments page and you will see that there is nothing trying to “deploy”.
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-

@@ -5,7 +5,7 @@ date: 2009-07-16
 creator: Martin Hinshelwood
 id: "103"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: office-2010-install
 aliases:
   - /blog/office-2010-install
@@ -47,4 +47,3 @@ Woo, little smiles:
 { .post-img }
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
-

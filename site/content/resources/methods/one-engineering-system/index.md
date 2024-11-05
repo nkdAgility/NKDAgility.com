@@ -3,7 +3,8 @@ title: One Engineering System
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: method
 slug: one-engineering-system
 aliases:
   - /methods/one-engineering-system/

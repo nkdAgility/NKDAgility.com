@@ -3,8 +3,8 @@ id: "49075"
 title: "May 2023 NKDAgility: Leveling up giveaway of Professional Scrum"
 date: "2023-04-24"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum"
 aliases:
   - /newsletters/may-2023-nkdagility-leveling-up-giveaway-of-professional-scrum/

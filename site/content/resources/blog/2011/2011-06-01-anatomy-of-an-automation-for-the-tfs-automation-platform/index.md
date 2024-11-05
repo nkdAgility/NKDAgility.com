@@ -5,7 +5,7 @@ date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3361"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: anatomy-of-an-automation-for-the-tfs-automation-platform
 aliases:
   - /blog/anatomy-of-an-automation-for-the-tfs-automation-platform
@@ -195,4 +195,3 @@ It should be possible for you to create iSubscribers, ITeamFoundationJobExtensio
 
 There is no reason not to extend TFS now and once the TFS Automation Platform releases there will be no need to ever install another extension again ![Smile](images/wlEmoticon-smile2-4-4.png) apart from the TFS Automation Platform itself…
 { .post-img }
-

@@ -2,18 +2,17 @@
 title: Agile Product Operating Model
 weight: 1
 draft: true
-url: /methods/agile-product-operating-model/
-aliases: /APOM
+resourceTypes: method
+layout: method
+url:
+aliases:
+  - /APOM
+  - /methods/agile-product-operating-model/
 card:
   button:
     content: More info
   title: Agile Product Operating Model
   content: Agile Product Operating Model
-
 ---
 
-
-
 Description of Agile Product Operating Model.
-
-

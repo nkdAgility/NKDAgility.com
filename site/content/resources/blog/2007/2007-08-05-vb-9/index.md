@@ -5,7 +5,7 @@ date: 2007-08-05
 creator: Martin Hinshelwood
 id: "341"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vb-9
 aliases:
   - /blog/vb-9
@@ -23,4 +23,3 @@ Yet more [evidence](http://mtaulty.com/CommunityServer/blogs/mike_taultys_blog/a
 :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

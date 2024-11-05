@@ -5,7 +5,7 @@ date: 2013-08-28
 creator: Martin Hinshelwood
 id: "9967"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: review-the-professional-scrum-masters-handbook
 aliases:
   - /blog/review-the-professional-scrum-masters-handbook
@@ -59,4 +59,3 @@ Sad but true…
 { .post-img }
 
 If you are a Project Manager moving to Scrum then this book will help you with the transition to a new way of thinking. Remembering that this is an embodiment of the mechanics and not the principals.
-

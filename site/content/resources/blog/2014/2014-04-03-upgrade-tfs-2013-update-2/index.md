@@ -5,7 +5,7 @@ date: 2014-04-03
 creator: Martin Hinshelwood
 id: "10479"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrade-tfs-2013-update-2
 aliases:
   - /blog/upgrade-tfs-2013-update-2
@@ -134,4 +134,3 @@ While a full list of features in both Visual Studio and Team Foundation Server f
 For those that do not know what Go-Live is it means that the TFS team are happy to fully support its use in production but they don’t guarantee beyond RC quality. This is usually when these components have not seen a large enough install base for them to be as sue as they can be that there are no issues. Don;t be afraid of Go-Live… embrace it and go for it.
 
 You should go ahead and install TSF 2013 Update 2 today. If you have any issues or you want to know more about how to make the most of the new and existing features then give us a shout.
-

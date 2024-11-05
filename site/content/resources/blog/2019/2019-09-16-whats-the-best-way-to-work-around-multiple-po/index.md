@@ -5,7 +5,7 @@ date: 2019-09-16
 creator: Martin Hinshelwood
 id: "39853"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: whats-the-best-way-to-work-around-multiple-po
 aliases:
   - /blog/whats-the-best-way-to-work-around-multiple-po
@@ -37,4 +37,3 @@ Find the right Product Owner, or select someone from your team to take that resp
 The industry average is that we spend 65% (Source: Standish Group) of our time working on the wrong feature. The Product Owners job is to minimise this figure. What does your CEO think is the cost of not having anyone at the helm?
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-

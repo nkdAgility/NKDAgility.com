@@ -5,7 +5,7 @@ date: 2008-05-10
 creator: Martin Hinshelwood
 id: "230"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: developer-day-scotland-2
 aliases:
   - /blog/developer-day-scotland-2
@@ -24,4 +24,3 @@ If you have not already signed up, well, its probably too late...but if you are 
 If you are up for it there is a [Developer Day Scotland Geek Dinner](http://www.zimakki.com/wiki/DeveloperDayScotlandGeekDinner.ashx) on afterwards and some drinking before that.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

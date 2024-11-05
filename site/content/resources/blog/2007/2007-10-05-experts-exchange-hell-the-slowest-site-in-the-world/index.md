@@ -5,7 +5,7 @@ date: 2007-10-05
 creator: Martin Hinshelwood
 id: "302"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: experts-exchange-hell-the-slowest-site-in-the-world
 aliases:
   - /blog/experts-exchange-hell-the-slowest-site-in-the-world
@@ -51,4 +51,3 @@ Click [![image](images/ExpertsExchangeHellTheslowestsiteinthew_F058-image_thumb_
 { .post-img }
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-

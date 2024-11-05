@@ -5,7 +5,7 @@ date: 2012-09-22
 creator: Martin Hinshelwood
 id: "8803"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: virtual-labs-in-the-modern-application-lifecycle
 aliases:
   - /blog/virtual-labs-in-the-modern-application-lifecycle
@@ -192,4 +192,3 @@ This allows us to integrate both the Development and Operations teams to achieve
 I hope that in the near future all of the products above will be able to be plugged into Visual Studio 2012 Team Foundation Server’s Lab Management capability to make them seamless to the development teams. I want to be able to create an environment in Lab Manager and have the backing store be any of the above services.
 
 Are you ready to rise to the challenge of building modern applications?
-

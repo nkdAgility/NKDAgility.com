@@ -5,7 +5,7 @@ date: 2007-07-10
 creator: Martin Hinshelwood
 id: "373"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: back-to-the-grind
 aliases:
   - /blog/back-to-the-grind
@@ -22,4 +22,3 @@ Well that's my paternity leave over, I cant believe that it has been two weeks! 
 But now it is time to get back to work...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

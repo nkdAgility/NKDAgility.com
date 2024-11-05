@@ -5,7 +5,7 @@ date: 2013-04-08
 creator: Martin Hinshelwood
 id: "9431"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: working-within-a-single-team-project-with-team-foundation-server-2012
 aliases:
   - /blog/working-within-a-single-team-project-with-team-foundation-server-2012
@@ -109,4 +109,3 @@ While I can’t hope to provide a method of using Team Foundation Server 2012 an
 If you are using Team Foundation Server already then there may be a lot of work that needs to be done to reorganise your existing work before you start as well as implementing your new and specific workflows based on the generic implementation above. This is however the only way for an enterprise, or really any organisation with more than one team, to take advantage of the new Agile Project Planning features of Visual Studio Team Foundation Server 2012.
 
 It can however be a lot of work and the [great god Murphy](http://en.wikipedia.org/wiki/Murphy's_law) can strike at any time. Plan carefully and make deliberate and tested changes to TFS and your structure to support this.
-

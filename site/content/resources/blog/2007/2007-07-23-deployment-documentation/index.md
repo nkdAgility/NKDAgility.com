@@ -5,7 +5,7 @@ date: 2007-07-23
 creator: Martin Hinshelwood
 id: "363"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: deployment-documentation
 aliases:
   - /blog/deployment-documentation
@@ -37,4 +37,3 @@ I want the vendor to provide MSI or EXE's for all releases of each of the compon
 **Has anyone been successfully?**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

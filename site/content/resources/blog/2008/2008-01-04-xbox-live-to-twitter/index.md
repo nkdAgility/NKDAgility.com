@@ -5,7 +5,7 @@ date: 2008-01-04
 creator: Martin Hinshelwood
 id: "271"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: xbox-live-to-twitter
 aliases:
   - /blog/xbox-live-to-twitter
@@ -26,4 +26,3 @@ if you have any problems, please create or vote for Issues via the interface![sm
 { .post-img }
 
 Technorati Tags: [RDdotNet](http://technorati.com/tags/RDdotNet) [Xbox](http://technorati.com/tags/Xbox)
-

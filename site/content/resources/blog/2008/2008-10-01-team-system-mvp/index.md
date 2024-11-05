@@ -5,7 +5,7 @@ date: 2008-10-01
 creator: Martin Hinshelwood
 id: "189"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-system-mvp
 aliases:
   - /blog/team-system-mvp
@@ -27,4 +27,3 @@ I should really thank Tiago Pascoal as I have a sneaky suspicion that he was the
 This Award needs to be renewed yearly, so there is much work to do…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [TFS](http://technorati.com/tags/TFS)
-

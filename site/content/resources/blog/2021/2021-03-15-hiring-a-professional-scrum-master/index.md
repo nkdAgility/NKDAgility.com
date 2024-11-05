@@ -5,7 +5,7 @@ date: 2021-03-15
 creator: Martin Hinshelwood
 id: "46053"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: hiring-a-professional-scrum-master
 aliases:
   - /blog/hiring-a-professional-scrum-master
@@ -128,4 +128,3 @@ Sources:
 - [Scrum Master job description | Scrum.org](https://www.scrum.org/forum/scrum-forum/5366/scrum-master-job-description)
 
 - [Scrum Master job description - The Ultimate Description (luis-goncalves.com)](https://luis-goncalves.com/scrum-master-job-description/)
-

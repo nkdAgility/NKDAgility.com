@@ -5,7 +5,7 @@ date: 2013-06-26
 creator: Martin Hinshelwood
 id: "9908"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2013-on-server-2012
 aliases:
   - /blog/installing-visual-studio-2013-on-server-2012
@@ -92,4 +92,3 @@ The new UI looks fairly clean and the new Team Explorer interaction looks a lot 
 - [Get Visual Studio 2013 & Team Foundation Server 2013 while its hot!](http://nkdagility.com/get-visual-studio-2013-team-foundation-server-while-its-hot/)
 
 Go download it now and be a kid again…
-

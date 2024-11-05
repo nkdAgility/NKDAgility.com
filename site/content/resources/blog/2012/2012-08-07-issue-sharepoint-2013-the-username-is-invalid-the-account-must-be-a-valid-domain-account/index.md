@@ -5,7 +5,7 @@ date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7015"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
 aliases:
   - /blog/issue-sharepoint-2013-the-username-is-invalid-the-account-must-be-a-valid-domain-account
@@ -60,4 +60,3 @@ Use a PowerShell command to create the initial configuration of the farm with a 
 This works just fine with SQL Server 2012.
 
 **Did this help you?**
-

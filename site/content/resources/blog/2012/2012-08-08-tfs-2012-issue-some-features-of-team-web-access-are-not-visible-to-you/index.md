@@ -5,7 +5,7 @@ date: 2012-08-08
 creator: Martin Hinshelwood
 id: "7094"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
 aliases:
   - /blog/tfs-2012-issue-some-features-of-team-web-access-are-not-visible-to-you
@@ -70,4 +70,3 @@ If you are sure that you have Premium, Ultimate or Test Professional for all of 
 If you are going to do this you need to make sure that you have licences, but it will make an administrators life a little easier!
 
 **Did this fix your problem?**
-

@@ -5,7 +5,7 @@ date: 2007-11-26
 creator: Martin Hinshelwood
 id: "287"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: mozy-backup
 aliases:
   - /blog/mozy-backup
@@ -35,4 +35,3 @@ And speaking of data size, did you notice that I don't have enough space for a f
 Only 11 hours to go till I have a full backup :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

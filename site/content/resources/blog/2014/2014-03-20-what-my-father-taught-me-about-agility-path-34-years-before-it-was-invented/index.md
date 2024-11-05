@@ -5,7 +5,7 @@ date: 2014-03-20
 creator: Martin Hinshelwood
 id: "10446"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
 aliases:
   - /blog/what-my-father-taught-me-about-agility-path-34-years-before-it-was-invented
@@ -78,4 +78,3 @@ Using the circumstantial evidence or organisational maturity from the practice b
 > You can find out more about Evidence-based Management for Software Organisations on [http://ebmgt.org](http://ebmgt.org)
 
 Your organisation probably has metrics that you use now. However ask yourself if these metrics can tell you how much value that their projects delivered last year. If not the should focus on value… and agility path includes a bunch of tools that are optimised to help you to understand and optimise that value.
-

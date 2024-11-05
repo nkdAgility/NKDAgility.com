@@ -5,7 +5,7 @@ date: 2007-05-24
 creator: Martin Hinshelwood
 id: "398"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: benefits-of-remote-access-for-team-system
 aliases:
   - /blog/benefits-of-remote-access-for-team-system
@@ -21,4 +21,3 @@ If you use the work items to track all the tasks you will be able to seamlessly 
 [Do you want to know more?](http://msdn2.microsoft.com/en-gb/teamsystem/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

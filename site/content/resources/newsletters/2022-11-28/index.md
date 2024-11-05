@@ -4,8 +4,8 @@ title: "Futureproof Yourself With Skills, Capabilities And Certifications That C
 date: "2022-11-28"
 preview: "naked-agility-technically-agile-1280×720-December2022.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "newsletter-2022"
 aliases:
   - /newsletters/newsletter-2022/

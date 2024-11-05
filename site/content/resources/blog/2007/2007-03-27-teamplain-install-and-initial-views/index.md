@@ -5,7 +5,7 @@ date: 2007-03-27
 creator: Martin Hinshelwood
 id: "421"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: teamplain-install-and-initial-views
 aliases:
   - /blog/teamplain-install-and-initial-views
@@ -24,4 +24,3 @@ This is a fantastic piece of web work, it has all of the features that you could
 I am still trying to work out how you control access to projects! Even though users have no permissions for a particular project: I am thinking that removing "Team Foundation Valid Users" from the project will work, I just have not had time to test it...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-

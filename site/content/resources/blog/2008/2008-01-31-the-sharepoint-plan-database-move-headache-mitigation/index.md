@@ -5,7 +5,7 @@ date: 2008-01-31
 creator: Martin Hinshelwood
 id: "257"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-sharepoint-plan-database-move-headache-mitigation
 aliases:
   - /blog/the-sharepoint-plan-database-move-headache-mitigation
@@ -35,4 +35,3 @@ probability possibility...
 Microsoft: if you are listening, please make moving a SharePoint database as easy as TFS!
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail) [SP 2007](http://technorati.com/tags/SP+2007)
-

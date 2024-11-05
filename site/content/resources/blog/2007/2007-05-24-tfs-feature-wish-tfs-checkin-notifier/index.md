@@ -5,7 +5,7 @@ date: 2007-05-24
 creator: Martin Hinshelwood
 id: "397"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-feature-wish-tfs-checkin-notifier
 aliases:
   - /blog/tfs-feature-wish-tfs-checkin-notifier
@@ -27,4 +27,3 @@ Possible [CodePlex](http://www.codeplex.com "CodePlex") project "TFSCheckinNotif
 Could be cool, what do you think?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

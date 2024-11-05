@@ -5,7 +5,7 @@ date: 2011-04-03
 creator: Martin Hinshelwood
 id: "9892"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: my-first-scrum-team-in-the-wild
 aliases:
   - /blog/my-first-scrum-team-in-the-wild
@@ -88,4 +88,3 @@ Rule: Never leave uncompleted work in a sprint. Its untidy and causes confusion
 
 This team has made some fantastic efforts for their first sprint, but should not get complacent. I am very impressed of the work that Rennie has put in and I really enjoyed our long Scrum conversations ![Smile](images/GWB-Windows-Live-Writer3cf46226a54f_DA4FwlEmoticon-smile_2-5-5.png)
 { .post-img }
-

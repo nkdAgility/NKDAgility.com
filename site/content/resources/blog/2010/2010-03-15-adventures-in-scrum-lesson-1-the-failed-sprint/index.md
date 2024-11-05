@@ -5,7 +5,7 @@ date: 2010-03-15
 creator: Martin Hinshelwood
 id: "63"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: adventures-in-scrum-lesson-1-the-failed-sprint
 aliases:
   - /blog/adventures-in-scrum-lesson-1-the-failed-sprint
@@ -73,4 +73,3 @@ Do, Inspect then Adapt…
 ---
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW](http://technorati.com/tags/SSW)
-

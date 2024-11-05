@@ -5,7 +5,7 @@ date: 2013-07-11
 creator: Martin Hinshelwood
 id: "9759"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
 aliases:
   - /blog/issue-tfs-2013-inrelease-account-requires-make-requests-on-behalf-of-others
@@ -92,4 +92,3 @@ When you execute the command TFS will go off and add the account to the group. Y
 Figure: Green tick for account that now has make requests on behalf of others
 
 I could have given explicit permission to that account or even created a special group with just that permission but this is the recommended option to solving the problem.
-

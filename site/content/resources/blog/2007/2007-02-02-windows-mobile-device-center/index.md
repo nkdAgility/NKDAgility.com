@@ -5,7 +5,7 @@ date: 2007-02-02
 creator: Martin Hinshelwood
 id: "437"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-mobile-device-center
 aliases:
   - /blog/windows-mobile-device-center
@@ -25,4 +25,3 @@ Have fun... Unless you have Windows Mobile 2002 or below which is not supported.
 That's was you get for having a 4+ year old Pocket PC.
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-

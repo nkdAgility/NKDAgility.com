@@ -5,7 +5,7 @@ date: 2007-04-27
 creator: Martin Hinshelwood
 id: "411"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-eventhandler-message-queuing
 aliases:
   - /blog/tfs-eventhandler-message-queuing
@@ -22,4 +22,3 @@ I am currently toying with the idea of re-engineering to two system services. Th
 This can be easily achievable in .NET 3.0 and will not require much work to implement...
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [Windows](http://technorati.com/tags/Windows)
-

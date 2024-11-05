@@ -5,7 +5,7 @@ date: 2008-11-18
 creator: Martin Hinshelwood
 id: "167"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: 100000-visits
 aliases:
   - /blog/100000-visits
@@ -48,4 +48,3 @@ But is is the Countries that shows how…”cosmopolitan”… your site is:
 Non to shabby for a wee developer in Glasgow, Scotland :)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers)
-

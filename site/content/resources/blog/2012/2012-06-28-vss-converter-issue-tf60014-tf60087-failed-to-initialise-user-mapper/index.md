@@ -5,7 +5,7 @@ date: 2012-06-28
 creator: Martin Hinshelwood
 id: "6124"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
 aliases:
   - /blog/vss-converter-issue-tf60014-tf60087-failed-to-initialise-user-mapper
@@ -45,4 +45,3 @@ Adding the mapped users to the Contributors group on the target server will remo
 > \-Suggestion to TFS Team
 
 **Did this deal with your problem?**
-

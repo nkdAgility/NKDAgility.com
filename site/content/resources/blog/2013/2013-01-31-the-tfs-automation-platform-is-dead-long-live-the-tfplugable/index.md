@@ -5,7 +5,7 @@ date: 2013-01-31
 creator: Martin Hinshelwood
 id: "9229"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-tfs-automation-platform-is-dead-long-live-the-tfplugable
 aliases:
   - /blog/the-tfs-automation-platform-is-dead-long-live-the-tfplugable
@@ -83,4 +83,3 @@ I have a couple of folks helping me on this little project and we are always loo
   Andrew Clear**, ALM Developer
 
 I am open for others to join and you would only need to contribute around 2 hours a week to participate.
-

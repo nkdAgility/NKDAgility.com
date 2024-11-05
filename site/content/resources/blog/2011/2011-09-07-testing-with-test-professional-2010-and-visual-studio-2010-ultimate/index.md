@@ -5,7 +5,7 @@ date: 2011-09-07
 creator: Martin Hinshelwood
 id: "3776"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: testing-with-test-professional-2010-and-visual-studio-2010-ultimate
 aliases:
   - /blog/testing-with-test-professional-2010-and-visual-studio-2010-ultimate
@@ -66,4 +66,3 @@ Testing with Test Professional 2010 and Visual Studio 2010 Ultimate
 Remote Course Offering in Remote Course Offering  on Eventbrite](http://www.eventbrite.com/registerbutton?eid=1210319097)](http://nwcadencetestcourse201110.eventbrite.com?ref=MrHinshBlog&discount=MrHinsh)
 
 This is a really worth while course that will help you get the most out of Test Professional. Dan is a fantastic teacher and will be giving energising sessions.
-

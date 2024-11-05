@@ -5,7 +5,7 @@ date: 2007-04-24
 creator: Martin Hinshelwood
 id: "415"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: serialize-assembly-for-service-calls-over-http
 aliases:
   - /blog/serialize-assembly-for-service-calls-over-http
@@ -40,4 +40,3 @@ I have tralled the web for a while now, trying to find a solution. I have even d
 Does anyone have a solution for this?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

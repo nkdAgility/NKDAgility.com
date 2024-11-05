@@ -5,7 +5,7 @@ date: 2014-09-30
 creator: Martin Hinshelwood
 id: "10727"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
 aliases:
   - /blog/install-tfs-2013-3-sharepoint-2013-windows-server-2012-r2-update-1
@@ -175,4 +175,3 @@ Flip back to the TFS configuration wizard and re-run the readiness checks to mak
 And that’s it. When you click "Configure" TFS will go off and create all the bits it needs and setup your default collection. At the end of this process, if you get a green tick, you have a fully operational TFS Instance.
 
 Good luck with your install…
-

@@ -5,7 +5,7 @@ date: 2007-10-05
 creator: Martin Hinshelwood
 id: "303"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: branding-and-customizing-sharepoint-2007
 aliases:
   - /blog/branding-and-customizing-sharepoint-2007
@@ -27,4 +27,3 @@ XFN:
 P.S. Although Greg Fyans CSS and HTML skills are beyond guru(Savant I think) his DotNetNuke skills are still being honed: I look forward to seeing his site up again.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-

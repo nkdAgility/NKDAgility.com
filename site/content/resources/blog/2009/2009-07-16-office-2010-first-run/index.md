@@ -5,7 +5,7 @@ date: 2009-07-16
 creator: Martin Hinshelwood
 id: "102"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: office-2010-first-run
 aliases:
   - /blog/office-2010-first-run
@@ -47,4 +47,3 @@ Nice… It does a little conversation stuff and from what I can see its a LOT be
 Well, its dentist time, so that's all I have time for… Will try to install on Windows 7 tonight…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [Office](http://technorati.com/tags/Office)
-

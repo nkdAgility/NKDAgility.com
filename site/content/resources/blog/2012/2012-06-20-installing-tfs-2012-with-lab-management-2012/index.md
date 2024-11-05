@@ -5,7 +5,7 @@ date: 2012-06-20
 creator: Martin Hinshelwood
 id: "5496"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-tfs-2012-with-lab-management-2012
 aliases:
   - /blog/installing-tfs-2012-with-lab-management-2012
@@ -336,4 +336,3 @@ DONE.
 I have emailed the product team as I followed the steps, but there may have been something missed and indeed there was. I had neglected to enable File and Print Sharing which is required by Lab/p>
 
 How have you been getting on with your 2012 Lab setups?
-

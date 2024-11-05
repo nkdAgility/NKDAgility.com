@@ -5,7 +5,7 @@ date: 2008-02-05
 creator: Martin Hinshelwood
 id: "250"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-sticky-buddy-codeplex-project
 aliases:
   - /blog/tfs-sticky-buddy-codeplex-project
@@ -37,4 +37,3 @@ A set of rules will determine the colour or icons associated with each item base
 The resultant Digital Whiteboard will be displayed in our main offices so we will be dogfooding :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-

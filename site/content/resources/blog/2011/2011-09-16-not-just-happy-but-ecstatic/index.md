@@ -5,7 +5,7 @@ date: 2011-09-16
 creator: Martin Hinshelwood
 id: "3783"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: not-just-happy-but-ecstatic
 aliases:
   - /blog/not-just-happy-but-ecstatic
@@ -43,4 +43,3 @@ I can fly to the UK from Seattle for $733 (£464.00) return! That is cheaper tha
 Not saying I am going to, but I am a little more inclined to seek clients in Europe as well.
 
 p.s. The metaphorical **Rolled Up Newspaper** approach works very well for developers.
-

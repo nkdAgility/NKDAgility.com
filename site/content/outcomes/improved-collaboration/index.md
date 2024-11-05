@@ -4,7 +4,8 @@ description: ""
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: methods
 slug: improved-collaboration
 aliases:
   - /outcomes/improved-collaboration/

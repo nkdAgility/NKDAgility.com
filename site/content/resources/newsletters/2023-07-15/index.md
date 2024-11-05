@@ -4,8 +4,8 @@ title: "Agile 2023 The Scotland Experiance with Lyssa Adkins & NKDAgility"
 date: "2023-07-15"
 preview: "nkdagility-agile-2023-Scotland-Experiance.png"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance"
 aliases:
   - /newsletters/july-2023-nkdagility-sponsoring-agile-2023-the-scotland-experiance/

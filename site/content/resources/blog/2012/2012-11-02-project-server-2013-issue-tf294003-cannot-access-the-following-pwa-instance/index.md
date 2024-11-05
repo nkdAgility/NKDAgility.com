@@ -5,7 +5,7 @@ date: 2012-11-02
 creator: Martin Hinshelwood
 id: "9096"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
 aliases:
   - /blog/project-server-2013-issue-tf294003-cannot-access-the-following-pwa-instance
@@ -81,4 +81,3 @@ I can almost hear generations of SharePoint administrator rolling over in their 
 **Figure: The mapping of Collection to Project Server 2013 Instance now works**
 
 This was a simple solution to a confusing problem…
-

@@ -5,7 +5,7 @@ date: 2007-01-30
 creator: Martin Hinshelwood
 id: "439"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-forget-about-paypal-how-about-a-mastercard-killer
 aliases:
   - /blog/microsoft-forget-about-paypal-how-about-a-mastercard-killer
@@ -19,4 +19,3 @@ Ever since PayPal burst on to the scene, the Nostradamus types have been predict
 [read more](http://arstechnica.com/news.ars/post/20070128-8718.html) | [digg story](http://digg.com/tech_news/Microsoft_forget_about_PayPal_how_about_a_MasterCard_killer)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

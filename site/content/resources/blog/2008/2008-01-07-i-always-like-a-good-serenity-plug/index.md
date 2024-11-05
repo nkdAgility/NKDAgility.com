@@ -5,7 +5,7 @@ date: 2008-01-07
 creator: Martin Hinshelwood
 id: "270"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: i-always-like-a-good-serenity-plug
 aliases:
   - /blog/i-always-like-a-good-serenity-plug
@@ -22,4 +22,3 @@ Your results:
 [Click here to take the "Which Serenity character am I?" quiz...](http://www.seabreezecomputers.com/serenity)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

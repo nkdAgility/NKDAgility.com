@@ -5,7 +5,7 @@ date: 2007-07-16
 creator: Martin Hinshelwood
 id: "370"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: its-that-time-again
 aliases:
   - /blog/its-that-time-again
@@ -29,4 +29,3 @@ Is anyone out there on the look out for a Senior .NET Developer with the skills 
 **How did you get into contracting?**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007)
-

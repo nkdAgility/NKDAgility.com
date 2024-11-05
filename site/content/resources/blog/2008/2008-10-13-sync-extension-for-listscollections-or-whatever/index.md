@@ -5,7 +5,7 @@ date: 2008-10-13
 creator: Martin Hinshelwood
 id: "188"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sync-extension-for-listscollections-or-whatever
 aliases:
   - /blog/sync-extension-for-listscollections-or-whatever
@@ -164,4 +164,3 @@ I thought that this would be difficult, but I was surprised at its ease.
 You need to remember to lock the object while you sync. This is to allow your threading to take place without incident. The nitty gritty is just a case of comparing the two lists and building a list of changes to make and then removing them :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

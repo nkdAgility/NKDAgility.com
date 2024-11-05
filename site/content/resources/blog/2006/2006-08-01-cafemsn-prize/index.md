@@ -5,7 +5,7 @@ date: 2006-08-01
 creator: Martin Hinshelwood
 id: "465"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: cafemsn-prize
 aliases:
   - /blog/cafemsn-prize
@@ -21,4 +21,3 @@ At leaset I got $20 for my trouble!
 [http://www.cafemsn.co.uk/msnbuddy/winners.asp](http://www.cafemsn.co.uk/msnbuddy/winners.asp)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

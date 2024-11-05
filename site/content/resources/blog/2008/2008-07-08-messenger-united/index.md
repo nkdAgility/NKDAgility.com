@@ -5,7 +5,7 @@ date: 2008-07-08
 creator: Martin Hinshelwood
 id: "217"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: messenger-united
 aliases:
   - /blog/messenger-united
@@ -32,4 +32,3 @@ This it seams is part of Microsoft's Connected Systems initiative that Bill has 
 For those that do not use Hotmail (perish the thought) the only sync / import available is the Facebook one.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

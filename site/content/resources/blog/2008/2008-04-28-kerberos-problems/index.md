@@ -5,7 +5,7 @@ date: 2008-04-28
 creator: Martin Hinshelwood
 id: "235"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: kerberos-problems
 aliases:
   - /blog/kerberos-problems
@@ -29,4 +29,3 @@ I have been having a lot of Kerberos double hop problems on the network at work,
 I will keep you updated on my progress...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

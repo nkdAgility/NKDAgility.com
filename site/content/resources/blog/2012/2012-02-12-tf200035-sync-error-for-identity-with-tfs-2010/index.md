@@ -5,7 +5,7 @@ date: 2012-02-12
 creator: Martin Hinshelwood
 id: "4309"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tf200035-sync-error-for-identity-with-tfs-2010
 aliases:
   - /blog/tf200035-sync-error-for-identity-with-tfs-2010
@@ -450,4 +450,3 @@ In saying that this may not even be the problem!
 - [TFS Install Guide](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=24337)
 
 Have fun….
-

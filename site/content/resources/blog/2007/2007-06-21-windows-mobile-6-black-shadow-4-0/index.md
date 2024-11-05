@@ -5,7 +5,7 @@ date: 2007-06-21
 creator: Martin Hinshelwood
 id: "375"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-mobile-6-black-shadow-4-0
 aliases:
   - /blog/windows-mobile-6-black-shadow-4-0
@@ -27,4 +27,3 @@ Having performed a successful update I am happy with the result and will probabl
 **How have your updates gone?**
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-

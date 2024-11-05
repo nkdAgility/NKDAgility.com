@@ -3,7 +3,8 @@ title: Beta Codex Cell Structure Design
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: method
 slug: beta-codex-cell-structure-design
 aliases:
   - /methods/beta-codex-cell-structure-design/

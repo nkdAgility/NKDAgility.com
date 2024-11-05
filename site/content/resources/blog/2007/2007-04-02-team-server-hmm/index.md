@@ -5,7 +5,7 @@ date: 2007-04-02
 creator: Martin Hinshelwood
 id: "420"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-server-hmm
 aliases:
   - /blog/team-server-hmm
@@ -33,4 +33,3 @@ Which allows you to connect the following software to team servfer:
   Ahh, they think of everything!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-

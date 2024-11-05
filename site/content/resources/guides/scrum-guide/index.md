@@ -1,7 +1,7 @@
 ---
 title: The Scrum Guide
 description: The Scrum Guide contains the definition of Scrum.
-resourceType: guide
+resourceTypes: guide
 aliases:
   - guides/Scrum-Guide/
   - guides/Scrum-Guide.html

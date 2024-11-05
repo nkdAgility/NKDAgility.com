@@ -5,7 +5,7 @@ date: 2007-09-07
 creator: Martin Hinshelwood
 id: "316"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-in-net-3-5-part-2
 aliases:
   - /blog/tfs-event-handler-in-net-3-5-part-2
@@ -32,4 +32,3 @@ I have decided to have a little go at creating a Team Foundation Server Event Ha
 4. TFS Event Handler in .NET 3.5 Part 4 - Workflow (Coming soon)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA) [ALM](http://technorati.com/tags/ALM) [WCF](http://technorati.com/tags/WCF)
-

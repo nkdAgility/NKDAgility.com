@@ -5,7 +5,7 @@ date: 2012-03-28
 creator: Martin Hinshelwood
 id: "5002"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: whats-in-a-burndown
 aliases:
   - /blog/whats-in-a-burndown
@@ -96,4 +96,3 @@ Also a good indicator of what is going on from a delivery perspective. If you ar
 ## Conclusion
 
 You will need to experiment with your Scrum Teams to see which burndown is right for you, but I would suggest that you want to be able to plot all of them so that your Development Team’s have all of the relevant information for their Daily Scrum to  help them identify any issues as early as possible.
-

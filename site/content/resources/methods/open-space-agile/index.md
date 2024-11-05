@@ -3,7 +3,8 @@ title: Open Space Agile
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: method
 slug: open-space-agile
 aliases:
   - /methods/open-space-agile/

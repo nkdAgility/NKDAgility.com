@@ -5,7 +5,7 @@ date: 2007-10-03
 creator: Martin Hinshelwood
 id: "305"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-live-writer-beta-3-hmm
 aliases:
   - /blog/windows-live-writer-beta-3-hmm
@@ -35,4 +35,3 @@ UPDATE:
 But not Beta 3: dough!
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

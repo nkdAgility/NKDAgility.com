@@ -5,7 +5,7 @@ date: 2009-05-08
 creator: Martin Hinshelwood
 id: "122"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: unity-and-asp-net
 aliases:
   - /blog/unity-and-asp-net
@@ -125,4 +125,3 @@ The site will then load your new code and you can test the only functionality th
 P.S. Works with MVC… shhhh…
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development) [.NET](http://technorati.com/tags/.NET) [CodeProject](http://technorati.com/tags/CodeProject) [WPF](http://technorati.com/tags/WPF)
-

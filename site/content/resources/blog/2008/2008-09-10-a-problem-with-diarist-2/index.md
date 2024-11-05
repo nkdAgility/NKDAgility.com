@@ -5,7 +5,7 @@ date: 2008-09-10
 creator: Martin Hinshelwood
 id: "195"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: a-problem-with-diarist-2
 aliases:
   - /blog/a-problem-with-diarist-2
@@ -29,4 +29,3 @@ Only 10 minutes of time, but an entire train of thought!
 {Rant}
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Fail](http://technorati.com/tags/Fail) [Answers](http://technorati.com/tags/Answers)
-

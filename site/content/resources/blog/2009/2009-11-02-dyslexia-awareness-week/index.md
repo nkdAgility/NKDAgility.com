@@ -5,7 +5,7 @@ date: 2009-11-02
 creator: Martin Hinshelwood
 id: "80"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: dyslexia-awareness-week
 aliases:
   - /blog/dyslexia-awareness-week
@@ -31,4 +31,3 @@ If only our education systems would take advantage of these differences...
 { .post-img }
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
-

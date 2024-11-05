@@ -5,7 +5,7 @@ date: 2009-12-07
 creator: Martin Hinshelwood
 id: "76"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
 aliases:
   - /blog/outlook-2010-beta-2-and-add-ins-dynamics-crm-team-companion-linkedin-and-plaxo
@@ -80,4 +80,3 @@ Please can you:
    { .post-img }
 
 Technorati Tags: [Office](http://technorati.com/tags/Office) [ALM](http://technorati.com/tags/ALM) [CRM](http://technorati.com/tags/CRM) [SSW](http://technorati.com/tags/SSW)
-

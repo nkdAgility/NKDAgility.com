@@ -5,7 +5,7 @@ date: 2013-03-06
 creator: Martin Hinshelwood
 id: "9249"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: guide-to-changeserverid-says-mostly-harmless
 aliases:
   - /blog/guide-to-changeserverid-says-mostly-harmless
@@ -84,4 +84,3 @@ Running RegisterDB command will update setting in the "C:Program FilesMicrosoft 
 To save time I went ahead and updated it manually and WOW everything worked again.
 
 **Lesson: Heed all Team Foundation warnings**
-

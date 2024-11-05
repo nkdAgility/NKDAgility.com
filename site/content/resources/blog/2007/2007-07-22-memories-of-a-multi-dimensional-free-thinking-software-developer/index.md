@@ -5,7 +5,7 @@ date: 2007-07-22
 creator: Martin Hinshelwood
 id: "365"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: memories-of-a-multi-dimensional-free-thinking-software-developer
 aliases:
   - /blog/memories-of-a-multi-dimensional-free-thinking-software-developer
@@ -27,4 +27,3 @@ I will add more, but for now here are a couple of resources to get you started i
 [http://www.dyslexia.com/](http://www.dyslexia.com/ "http://www.dyslexia.com/")
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-

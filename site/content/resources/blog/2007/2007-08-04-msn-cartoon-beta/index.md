@@ -5,7 +5,7 @@ date: 2007-08-04
 creator: Martin Hinshelwood
 id: "347"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: msn-cartoon-beta
 aliases:
   - /blog/msn-cartoon-beta
@@ -82,4 +82,3 @@ Here are my pictures, but I am not sure how much they look like me!
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

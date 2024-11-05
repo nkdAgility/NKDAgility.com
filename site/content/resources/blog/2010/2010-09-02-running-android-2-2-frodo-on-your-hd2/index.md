@@ -5,7 +5,7 @@ date: 2010-09-02
 creator: Martin Hinshelwood
 id: "29"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: running-android-2-2-frodo-on-your-hd2
 aliases:
   - /blog/running-android-2-2-frodo-on-your-hd2
@@ -87,4 +87,3 @@ I really do like Android, and if Windows Phone 7 does not live up to its expecta
 Running Android on my HD2 is such a superior experience that Windows Phone 7 will need to be almost perfect beat it; I really hope it is…
 
 Technorati Tags: [Android](http://technorati.com/tags/Android),[HD2](http://technorati.com/tags/HD2),[WM6](http://technorati.com/tags/WM6)
-

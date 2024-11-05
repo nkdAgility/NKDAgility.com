@@ -5,7 +5,7 @@ date: 2021-01-18
 creator: Martin Hinshelwood
 id: "45392"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
 aliases:
   - /blog/what-is-taylorism-and-why-waterfall-is-just-the-tip-of-the-iceberg
@@ -350,4 +350,3 @@ These Tayloristic practices worked well for employers during the industrial revo
 - [The Evidence-Based Management Guide](https://nkdagility.com/the-evidence-based-management-guide-measuring-value-to-enable-improvement-and-agility/)
 
 **Foster ingenuity, focus, and enthusiasm and stop killing it with Taylorism. Bring the soul back to the work.**
-

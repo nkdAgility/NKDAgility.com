@@ -1,6 +1,6 @@
 ---
 title: The Importance of Batch to Optimise Flow
-resourceType: workshop
+resourceTypes: workshop
 aliases:
   - workshops/The-Importance-of-Batch-to-Optimise-Flow.html
   - learn/agile-delivery-kit/workshops/The-Importance-of-Batch-to-Optimise-Flow

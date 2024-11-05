@@ -5,7 +5,7 @@ date: 2010-04-14
 creator: Martin Hinshelwood
 id: "50"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: guidance-a-branching-strategy-for-scrum-teams
 aliases:
   - /blog/guidance-a-branching-strategy-for-scrum-teams
@@ -294,4 +294,3 @@ Branching is a tool; it is not a silver bullet. Don’t over use it, and avoid �
 > \-[Chris Birmele](http://blogs.msdn.com/chrisbirmele/), Visual Studio ALM Ranger, Microsoft
 
 Technorati Tags: [Branching](http://technorati.com/tags/Branching) [Scrum](http://technorati.com/tags/Scrum) [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-

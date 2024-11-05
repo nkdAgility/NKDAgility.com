@@ -5,7 +5,7 @@ date: 2017-05-16
 creator: Martin Hinshelwood
 id: "10356"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: choosing-a-process-template-for-your-team-project
 aliases:
   - /blog/choosing-a-process-template-for-your-team-project
@@ -94,4 +94,3 @@ These customisations are non-intrusive and have a limited impact on reporting an
 ## Conclusion
 
 Choose the Microsoft Visual Studio Scrum process template if you don't want to be limited by MSF. What other customisations do you make to your Scrum template to support your lean-agile process?
-

@@ -5,7 +5,7 @@ date: 2012-02-21
 creator: Martin Hinshelwood
 id: "4474"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: using-corporate-ids-with-visual-studio-11-team-foundation-service
 aliases:
   - /blog/using-corporate-ids-with-visual-studio-11-team-foundation-service
@@ -81,4 +81,3 @@ With only a few clicks you can now add your corporate emails to Visual Studio 20
 It is very frustrating to have to log into more than one Live ID as it requires much strife with logging out. But if you have users that don’t have live ID’s or have rudely named or cryptic live ID’s then it can be a solution.
 
 Simples...
-

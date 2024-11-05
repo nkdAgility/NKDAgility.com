@@ -5,7 +5,7 @@ date: 2013-05-21
 creator: Martin Hinshelwood
 id: "9494"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: enable-feedback-support-for-users-in-team-foundation-server-2012
 aliases:
   - /blog/enable-feedback-support-for-users-in-team-foundation-server-2012
@@ -115,4 +115,3 @@ With the added bonus of zero licensing requirements in order to provide feedback
 **Warning: always back up your data before attempting any changes.**
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/enable-feedback-support-for-users-in-team-foundation-server-2012/))_
-

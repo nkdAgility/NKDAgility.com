@@ -5,7 +5,7 @@ date: 2015-04-30
 creator: Martin Hinshelwood
 id: "11286"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: install-tfs-2015-today
 aliases:
   - /blog/install-tfs-2015-today
@@ -103,4 +103,3 @@ When done you will have a nice new TFS server to start working in.
 { .post-img }
 
 Creating a new Team Project is the test of a TFS server and this can still only be done in Visual Studio (Team Explorer). TFS, unlike VSO, still depends on Reporting Services, and optionally SharePoint for some of its services and the server work required to get the Team Project wizard running server side is just silly work. So time to pop open Visual Studio and create your first team project.
-

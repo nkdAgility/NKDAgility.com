@@ -5,7 +5,7 @@ date: 2008-08-22
 creator: Martin Hinshelwood
 id: "207"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: heat-itsm
 aliases:
   - /blog/heat-itsm
@@ -35,4 +35,3 @@ As you can see from the screen shots I am using the [TFS Sticky Buddy](http://hi
 Well, Back to the code face :)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Personal](http://technorati.com/tags/Personal) [WPF](http://technorati.com/tags/WPF) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS](http://technorati.com/tags/TFS)
-

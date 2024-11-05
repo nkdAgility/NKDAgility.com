@@ -5,7 +5,7 @@ date: 2006-12-20
 creator: Martin Hinshelwood
 id: "454"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-live-alerts
 aliases:
   - /blog/windows-live-alerts
@@ -23,4 +23,3 @@ You get all of the same features as normal alerts, with some adverts, hey... its
 Nice...
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

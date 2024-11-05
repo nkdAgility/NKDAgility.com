@@ -5,7 +5,7 @@ date: 2008-03-04
 creator: Martin Hinshelwood
 id: "243"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-the-0x80072020
 aliases:
   - /blog/what-the-0x80072020
@@ -32,4 +32,3 @@ This is not so good! What if I wanted to use the current users credentials to up
 Ahh well, I will live with it for now, but if anyone has another suggestion...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-

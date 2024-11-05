@@ -5,7 +5,7 @@ date: 2008-11-03
 creator: Martin Hinshelwood
 id: "174"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-sticky-buddy-v2-0
 aliases:
   - /blog/tfs-sticky-buddy-v2-0
@@ -31,4 +31,3 @@ Head over to [Codeplex](http://codeplex.com) and vote for your favourite feature
 [Issue Tracker](http://www.codeplex.com/TFSStickyBuddy/WorkItem/List.aspx "Issue Tracker")
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-

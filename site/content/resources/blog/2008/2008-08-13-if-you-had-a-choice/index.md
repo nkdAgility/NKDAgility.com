@@ -5,7 +5,7 @@ date: 2008-08-13
 creator: Martin Hinshelwood
 id: "209"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: if-you-had-a-choice
 aliases:
   - /blog/if-you-had-a-choice
@@ -28,4 +28,3 @@ I would be interested to find out what platform you .NET developers prefer to us
 **Let me know!**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Windows](http://technorati.com/tags/Windows) [VS 2008](http://technorati.com/tags/VS+2008)
-

@@ -5,7 +5,7 @@ date: 2009-01-09
 creator: Martin Hinshelwood
 id: "147"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2008-team-suite-on-windows-7
 aliases:
   - /blog/installing-visual-studio-2008-team-suite-on-windows-7
@@ -63,4 +63,3 @@ I now have Visual Studio 2008 Team Suit installed…
 I will need to service pack it and check functionality, probably by working on the [TFS Sticky Buddy](http://codeplex.com/tfsstickybuddy) project on it and making sure that I an still deploy and run on other platforms! That is for another day though…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-

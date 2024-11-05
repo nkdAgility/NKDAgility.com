@@ -5,7 +5,7 @@ date: 2010-05-03
 creator: Martin Hinshelwood
 id: "45"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-team-foundation-server-2008-to-2010
 aliases:
   - /blog/upgrading-team-foundation-server-2008-to-2010
@@ -229,4 +229,3 @@ With Visual Studio 2005 you will only be able to connect to the Default collecti
   That is my next task!
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [ALM](http://technorati.com/tags/ALM) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint) [TFS 2005](http://technorati.com/tags/TFS+2005) [VS 2005](http://technorati.com/tags/VS+2005)
-

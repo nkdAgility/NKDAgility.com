@@ -5,7 +5,7 @@ date: 2009-01-12
 creator: Martin Hinshelwood
 id: "146"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: am-i-a-stoner-hippy
 aliases:
   - /blog/am-i-a-stoner-hippy
@@ -49,4 +49,3 @@ I have heard of a number of companies who will only employ dyslexic people for p
 There are many famous dyslexic people the world over, including: Walt Disney, Tom Cruise, Thomas Edison, Babe Ruth, Alexander Graham Bell, and John F. Kennedy and Agatha Christi who reportedly could not spell to save herself… thank god for good editors…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia) [Personal](http://technorati.com/tags/Personal)
-

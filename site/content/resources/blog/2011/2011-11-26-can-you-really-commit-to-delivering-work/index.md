@@ -5,7 +5,7 @@ date: 2011-11-26
 creator: Martin Hinshelwood
 id: "4089"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: can-you-really-commit-to-delivering-work
 aliases:
   - /blog/can-you-really-commit-to-delivering-work
@@ -77,4 +77,3 @@ The result should be higher levels of trust between all parties that should resu
 **Are you going to make the change from Commitment to Forecast?**
 
 If not, let me know why this will not make sense in your organisation!
-

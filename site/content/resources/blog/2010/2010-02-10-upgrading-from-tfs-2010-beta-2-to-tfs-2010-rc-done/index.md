@@ -5,7 +5,7 @@ date: 2010-02-10
 creator: Martin Hinshelwood
 id: "70"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
 aliases:
   - /blog/upgrading-from-tfs-2010-beta-2-to-tfs-2010-rc-done
@@ -82,4 +82,3 @@ We were the [first company on Beta 2 in production](http://blog.hinshelwood.com/
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [Scrum](http://technorati.com/tags/Scrum) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008) [SP 2010](http://technorati.com/tags/SP+2010) [TFS](http://technorati.com/tags/TFS) [SharePoint](http://technorati.com/tags/SharePoint)
-

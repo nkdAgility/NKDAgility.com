@@ -3,7 +3,8 @@ title: Evidence-Based Management
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: method
 slug: evidence-based-management
 aliases:
   - /methods/ebm/

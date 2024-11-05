@@ -5,7 +5,7 @@ date: 2012-08-20
 creator: Martin Hinshelwood
 id: "7247"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
 aliases:
   - /blog/tfs-2012-issue-tf250052-grant-access-rights-already-exists-after-reconfigure-of-sharepoint
@@ -39,4 +39,3 @@ Although it is not displayed the previous listing is still there. If you click �
 Just click “OK” and then “Cancel”. Your display will then refresh with the entry listed! Phew..
 
 **Did this help you?**
-

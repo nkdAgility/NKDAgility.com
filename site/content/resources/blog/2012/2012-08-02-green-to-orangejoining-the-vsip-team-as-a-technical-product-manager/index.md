@@ -5,7 +5,7 @@ date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6914"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
 aliases:
   - /blog/green-to-orangejoining-the-vsip-team-as-a-technical-product-manager
@@ -52,4 +52,3 @@ I am really exited about this not just as an opportunity to work more closely wi
 Now adding to that the Product Management role which is very different from those that have gone before will be the next challenge. Also balancing that on a part time basis will be even more fun…
 
 **Do you integrate with Visual Studio? Did it fit into the new taxonomy?**
-

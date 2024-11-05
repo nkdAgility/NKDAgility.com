@@ -4,8 +4,8 @@ title: "Unlock Your Potential in 2024: Master Scrum with NKDAgility - Exclusive 
 date: "2024-01-04"
 preview: "naked-agility-technically-agile-1280×720-January2024.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount"
 aliases:
   - /newsletters/unlock-your-potential-in-2024-master-scrum-with-nkd-agility-exclusive-20-discount/

@@ -5,7 +5,7 @@ date: 2008-11-19
 creator: Martin Hinshelwood
 id: "164"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: advice-on-using-xamribbon-with-composite-wpf
 aliases:
   - /blog/advice-on-using-xamribbon-with-composite-wpf
@@ -349,4 +349,3 @@ I am pretty sure that these can be augmented, and I can think of a few Ideas alr
 I think I might have to go away and try this…
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [CodeProject](http://technorati.com/tags/CodeProject)
-

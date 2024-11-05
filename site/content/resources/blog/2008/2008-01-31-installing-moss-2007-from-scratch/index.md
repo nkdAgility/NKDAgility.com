@@ -5,7 +5,7 @@ date: 2008-01-31
 creator: Martin Hinshelwood
 id: "253"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-moss-2007-from-scratch
 aliases:
   - /blog/installing-moss-2007-from-scratch
@@ -90,4 +90,3 @@ Well that's it all installed, just waiting for my SPN's so I can start adding si
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

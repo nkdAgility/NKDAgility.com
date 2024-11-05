@@ -5,7 +5,7 @@ date: 2007-08-14
 creator: Martin Hinshelwood
 id: "332"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-foundation-server-error-tf30177-team-project-creation-failed
 aliases:
   - /blog/team-foundation-server-error-tf30177-team-project-creation-failed
@@ -80,4 +80,3 @@ You can repeat this for the WSS (Windows Sharepoint Services) section.
 All done and TFS should work. Although it is worth noting that in my company environment I could then no longer create projects from the TFS App server itself as \[serverName\] works but the FQDN did not. Typical...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-

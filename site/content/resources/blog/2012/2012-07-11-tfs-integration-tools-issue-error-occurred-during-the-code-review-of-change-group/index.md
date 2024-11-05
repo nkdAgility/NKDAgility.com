@@ -5,7 +5,7 @@ date: 2012-07-11
 creator: Martin Hinshelwood
 id: "6117"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
 aliases:
   - /blog/tfs-integration-tools-issue-error-occurred-during-the-code-review-of-change-group
@@ -43,4 +43,3 @@ Once on the rerun I did get another conflict stating that the data being pushed 
 { .post-img }
 
 **Did this fix your problem?**
-

@@ -5,7 +5,7 @@ date: 2008-10-22
 creator: Martin Hinshelwood
 id: "184"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-to-display-your-outlook-calendar-on-youre-my-site
 aliases:
   - /blog/how-to-display-your-outlook-calendar-on-youre-my-site
@@ -43,4 +43,3 @@ Your calendar items will now be displayed on the page.
 You can add other Outlook Web Access features to your page including "My Contacts" or "My Tasks" and the much more useful "My Email" which can all be configured in the same way.
 
 Technorati Tags: [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [Answers](http://technorati.com/tags/Answers) [SharePoint](http://technorati.com/tags/SharePoint)
-

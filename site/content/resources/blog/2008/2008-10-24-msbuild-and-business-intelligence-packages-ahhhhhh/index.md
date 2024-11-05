@@ -5,7 +5,7 @@ date: 2008-10-24
 creator: Martin Hinshelwood
 id: "182"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: msbuild-and-business-intelligence-packages-ahhhhhh
 aliases:
   - /blog/msbuild-and-business-intelligence-packages-ahhhhhh
@@ -36,4 +36,3 @@ There are some answers. The visual studio team has taken on board the database p
 I am bookmarking my investigation on [delicious](http://delicious.com/hinshelm/MSBuild), but it will be a long slog…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFBS](http://technorati.com/tags/TFBS)
-

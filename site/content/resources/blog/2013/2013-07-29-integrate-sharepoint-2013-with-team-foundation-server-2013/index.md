@@ -5,7 +5,7 @@ date: 2013-07-29
 creator: Martin Hinshelwood
 id: "9916"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: integrate-sharepoint-2013-with-team-foundation-server-2013
 aliases:
   - /blog/integrate-sharepoint-2013-with-team-foundation-server-2013
@@ -203,4 +203,3 @@ Figure: No longer blank
 Now we have a lovely TFS integrated SharePoint dashboard with first level document integration from Visual Studio.
 
 Phew… Done…
-

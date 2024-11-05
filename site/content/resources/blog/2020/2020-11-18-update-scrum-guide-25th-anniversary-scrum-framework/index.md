@@ -5,7 +5,7 @@ date: 2020-11-18
 creator: Martin Hinshelwood
 id: "45077"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: update-scrum-guide-25th-anniversary-scrum-framework
 aliases:
   - /blog/update-scrum-guide-25th-anniversary-scrum-framework
@@ -42,4 +42,3 @@ There are lots of awesome changes so let's see if I can highlight the things I n
 I hope that that get as much from this new revision of the Scrum Guide as I have.
 
 Get your copy of the **[new version of the Scrum Guide](https://nkdagility.com/the-2020-scrum-guide/)**!
-

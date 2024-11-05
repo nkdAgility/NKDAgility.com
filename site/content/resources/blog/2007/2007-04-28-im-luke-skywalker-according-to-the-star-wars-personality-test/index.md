@@ -5,7 +5,7 @@ date: 2007-04-28
 creator: Martin Hinshelwood
 id: "409"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: im-luke-skywalker-according-to-the-star-wars-personality-test
 aliases:
   - /blog/im-luke-skywalker-according-to-the-star-wars-personality-test
@@ -22,4 +22,3 @@ I was hoping for anything else!
 Thanks [Mickey](http://teamsystemrocks.com/blogs/mickey_gousset/archive/2007/04/19/1596.aspx)...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

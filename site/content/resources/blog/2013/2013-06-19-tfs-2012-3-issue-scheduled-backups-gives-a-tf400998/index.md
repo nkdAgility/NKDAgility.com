@@ -5,7 +5,7 @@ date: 2013-06-19
 creator: Martin Hinshelwood
 id: "9904"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
 aliases:
   - /blog/tfs-2012-3-issue-scheduled-backups-gives-a-tf400998
@@ -115,4 +115,3 @@ If we instead click “Disable Scheduled Backup” and weight for the timout we 
 Figure: Disable results in path not found
 
 If you hit the refresh button above the Scheduled Backup node will return to its un-configured state.
-

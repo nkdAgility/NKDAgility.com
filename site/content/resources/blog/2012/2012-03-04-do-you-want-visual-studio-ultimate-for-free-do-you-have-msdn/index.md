@@ -5,7 +5,7 @@ date: 2012-03-04
 creator: Martin Hinshelwood
 id: "4828"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
 aliases:
   - /blog/do-you-want-visual-studio-ultimate-for-free-do-you-have-msdn
@@ -64,4 +64,3 @@ And just in case you were worries about buying licences for your business accept
 > \-[MSDN Licencing](http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx)
 
 MSDN has one of the most flexible licencing terms in the industry and you should be using it to its full potential and not leaving it on a shelf! It will make some of your developers more valuable if they can exercise the tools in their spare time and the others just will not take advantage of it.
-

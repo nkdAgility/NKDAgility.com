@@ -5,7 +5,7 @@ date: 2007-11-28
 creator: Martin Hinshelwood
 id: "285"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: identity-crisis
 aliases:
   - /blog/identity-crisis
@@ -96,4 +96,3 @@ propaganda marketing:
 We will see! I am currently installing a dev box and I will evaluate it according to the specific needs of our business...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

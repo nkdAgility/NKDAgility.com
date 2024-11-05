@@ -5,7 +5,7 @@ date: 2011-02-11
 creator: Martin Hinshelwood
 id: "13"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: can-i-run-two-versions-of-microsoft-project-side-by-side
 aliases:
   - /blog/can-i-run-two-versions-of-microsoft-project-side-by-side
@@ -67,4 +67,3 @@ Windows normally only lists the last version installed for a particular extensio
 ### Conclusion
 
 Although it is possible to run multiple versions of Project on one system in the main it does not really make sense.
-

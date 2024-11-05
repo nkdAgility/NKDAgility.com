@@ -5,7 +5,7 @@ date: 2020-07-13
 creator: Martin Hinshelwood
 id: "44511"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: evolution-not-transformation-this-is-the-inevitability-of-change
 aliases:
   - /blog/evolution-not-transformation-this-is-the-inevitability-of-change
@@ -181,4 +181,3 @@ Agile in Nigeria 2020: The Inevitability of change
 </figcaption>
 
 </figure>
-

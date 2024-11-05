@@ -5,7 +5,7 @@ date: 2007-03-19
 creator: Martin Hinshelwood
 id: "430"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: msdn-roadshow-uk-2007
 aliases:
   - /blog/msdn-roadshow-uk-2007
@@ -30,4 +30,3 @@ If you get a chance to get to the roadshow, then do so...
 [Resources from the Roadshow](http://blogs.msdn.com/ukdevteam/archive/2007/02/15/uk-msdn-roadshow-2007-resources.aspx)
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

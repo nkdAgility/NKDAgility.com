@@ -5,7 +5,7 @@ date: 2007-08-11
 creator: Martin Hinshelwood
 id: "335"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: service-manager-factory
 aliases:
   - /blog/service-manager-factory
@@ -25,4 +25,3 @@ You can download from:
 [http://servicemanager.codeplex.com/](http://www.rddotnet.com/Release/ProjectReleases.aspx?ReleaseId=6366 "http://www.rddotnet.com/Release/ProjectReleases.aspx?ReleaseId=6366")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [RDdotNet](http://technorati.com/tags/RDdotNet) [ALM](http://technorati.com/tags/ALM)
-

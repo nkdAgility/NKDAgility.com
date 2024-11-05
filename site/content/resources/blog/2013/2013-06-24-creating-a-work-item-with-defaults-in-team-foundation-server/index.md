@@ -5,7 +5,7 @@ date: 2013-06-24
 creator: Martin Hinshelwood
 id: "9686"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-a-work-item-with-defaults-in-team-foundation-server
 aliases:
   - /blog/creating-a-work-item-with-defaults-in-team-foundation-server
@@ -45,4 +45,3 @@ Figure: New PBI form with custom defaults
 If you drop that URL into a browser you will see the new work item page with your work item pre-populated. Now if you want you can now create a simple html page that has a list of predefined links to create work items of different types and defaults…
 
 Simples…
-

@@ -5,7 +5,7 @@ date: 2023-07-20
 creator: Martin Hinshelwood
 id: "49501"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-usable-working-products-are-your-ultimate-weapon-against-risks
 aliases:
   - /blog/how-usable-working-products-are-your-ultimate-weapon-against-risks
@@ -65,4 +65,3 @@ So create a usable working product on a regular cadence, close the feedback loop
 Stay connected to the market and business demands and create a usable working product of the highest possible value!
 
 This is the way!
-

@@ -5,7 +5,7 @@ date: 2014-11-26
 creator: Martin Hinshelwood
 id: "10878"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: configure-a-dns-server-for-an-azure-virtual-network
 aliases:
   - /blog/configure-a-dns-server-for-an-azure-virtual-network
@@ -44,4 +44,3 @@ We first need to create a DNS server definition that we can select later. Here w
 We then need to go to the virtual network that we created and tell it that the DNS server should be the one to use. If we had a large network we may set more than one DNS server, but in this case we are just pottering around with the configuration for demos. Select the network and go to the configuration tab. Here we can select our pre-created DNS server.
 
 If you create new machines, or reboot the existing machines in the virtual network, they will then be given this DNS server when DHCP assigns configuration. In this way you can create quite complicated network configurations and even create backup domains controllers to allow you to extend your local network to the cloud.
-

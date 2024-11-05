@@ -5,7 +5,7 @@ date: 2011-01-04
 creator: Martin Hinshelwood
 id: "19"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: free-training-at-northwest-cadence
 aliases:
   - /blog/free-training-at-northwest-cadence
@@ -34,4 +34,3 @@ There are really two offerings. The first is something called Coffee talks that 
 These coffee talks have some superb topics and you can get excellent interaction with the presenter as they are kind of informal.
 
 <table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"><p><b>Date</b></p></td><td valign="top"><p><b>Day</b></p></td><td valign="top"><p><b>Time</b></p></td><td valign="top"><p><b>Topic</b></p></td><td valign="top"><p><b>Register Here</b></p></td></tr><tr><td valign="top"><p>01/04/11</p></td><td valign="top"><p>Tuesday</p></td><td valign="top"><p>8:30AM – 9:30AM PST</p></td><td valign="top"><p><b>Real World Business and Technical Benefits of ALM with TFS 2010</b></p></td><td valign="top"><p><a href="http://www.clicktoattend.com/invitation.aspx?code=150656">150656</a></p></td></tr><tr><td valign="top"><p>01/28/11</p></td><td valign="top" width="101"><p>Friday</p></td><td valign="top" width="223"><p>9:00AM - 10:00AM PST</p></td><td valign="top" width="305"><p><b>The Full Testing Experience</b></p><p>Professional Quality Assurance with Visual Studio 2010</p></td><td valign="top" width="77"><p><a href="http://coffeetalktest.eventbrite.com?ref=ebtn" target="_blank"><img border="0" alt="Register for Coffee Talk: The Full Testing Experience- Professional Quality Assurance with Visual Studio2010 on Eventbrite" src="images/GWB-Windows-Live-Writer-d8a99e5b9476_9304-clip_image001_3.jpg" width="800" height="406"></a></p></td></tr></tbody></table>
-

@@ -5,7 +5,7 @@ date: 2013-03-10
 creator: Martin Hinshelwood
 id: "9255"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-server-2012-core-for-dummies
 aliases:
   - /blog/windows-server-2012-core-for-dummies
@@ -245,4 +245,3 @@ There are many things in Windows Server 2012 Core that you have to do via the co
 Good luck with your server configurations…
 
 _\-Do you need help deploying & configuring Team Foundation Server? Get in touch on_ [_info@nwcadence.com_](mailto:info@nwcadence.com?subject= Recommended through MrHinsh - Windows Server 2012 Core for dummies) _so that we can get started._
-

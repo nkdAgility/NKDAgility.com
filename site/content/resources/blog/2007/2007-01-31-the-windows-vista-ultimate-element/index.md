@@ -5,7 +5,7 @@ date: 2007-01-31
 creator: Martin Hinshelwood
 id: "438"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-windows-vista-ultimate-element
 aliases:
   - /blog/the-windows-vista-ultimate-element
@@ -19,4 +19,3 @@ preview: nakedalm-logo-128-link-2-2.png
 { .post-img }
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

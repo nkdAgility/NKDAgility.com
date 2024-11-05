@@ -5,7 +5,7 @@ date: 2008-11-10
 creator: Martin Hinshelwood
 id: "171"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-data-manager
 aliases:
   - /blog/tfs-data-manager
@@ -29,4 +29,3 @@ Looks like the feature mix will be fabulous…
 **Updated: Added missing links… Thanks for spotting it :)**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

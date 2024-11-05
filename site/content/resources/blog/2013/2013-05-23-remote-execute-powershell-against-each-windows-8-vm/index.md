@@ -5,7 +5,7 @@ date: 2013-05-23
 creator: Martin Hinshelwood
 id: "9901"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: remote-execute-powershell-against-each-windows-8-vm
 aliases:
   - /blog/remote-execute-powershell-against-each-windows-8-vm
@@ -283,4 +283,3 @@ This may change and I want to test out some hierarchical PowerShell script optio
 Although I have tinkered with PowerShell now and then this is the first executable script that I have written. I am still in copy/paste mode but I can sure see the value of learning and using PowerShell for everything from installing applications to configuring systems.
 
 You can just about do anything with PowerShell that you like.
-

@@ -5,7 +5,7 @@ date: 2015-04-30
 creator: Martin Hinshelwood
 id: "11317"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-to-rename-a-team-project-in-tfs-2015
 aliases:
   - /blog/how-to-rename-a-team-project-in-tfs-2015
@@ -58,4 +58,3 @@ Once you click "close" the page will refresh and the new team project name will 
 { .post-img }
 
 You can see the four renames I have done so far and the additional three proposed for the end of the week. We will be picking a lightly used one first so that we can gauge the impact, and then roll on with the rest.
-

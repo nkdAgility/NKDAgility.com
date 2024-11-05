@@ -5,7 +5,7 @@ date: 2011-01-04
 creator: Martin Hinshelwood
 id: "18"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: project-of-projects-with-team-foundation-server-2010
 aliases:
   - /blog/project-of-projects-with-team-foundation-server-2010
@@ -131,4 +131,3 @@ It is really easy to both achieve and to stick to this format if you take the ti
 run into any issues. Even then there are things you can do to mitigate the issues and I have describes some of them above.
 
 **Let me know if you can think of any other things to make this easier.**
-

@@ -5,7 +5,7 @@ date: 2007-02-06
 creator: Martin Hinshelwood
 id: "436"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: some-thoughts-on-net-3-0-from-linkedin
 aliases:
   - /blog/some-thoughts-on-net-3-0-from-linkedin
@@ -49,4 +49,3 @@ I also sugested an expert:
 [Daniel Moth](http://www.danielmoth.com/Blog/ "The Moth")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-

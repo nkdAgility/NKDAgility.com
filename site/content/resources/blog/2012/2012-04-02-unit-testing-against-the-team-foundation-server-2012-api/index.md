@@ -5,7 +5,7 @@ date: 2012-04-02
 creator: Martin Hinshelwood
 id: "5112"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: unit-testing-against-the-team-foundation-server-2012-api
 aliases:
   - /blog/unit-testing-against-the-team-foundation-server-2012-api
@@ -206,4 +206,3 @@ Woot, they all pass… now to write some more.
 ### Conclusion
 
 If you are using a Behaviour Driven Development (BDD) framework to tests your scenarios (SpecFlow works well with Visual Studio 2012) then you will need to load your service credentials so that we can test without having a user enter credentials…
-

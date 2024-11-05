@@ -5,7 +5,7 @@ date: 2020-11-23
 creator: Martin Hinshelwood
 id: "45086"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-product-goal-is-a-commitment-for-the-product-backlog
 aliases:
   - /blog/the-product-goal-is-a-commitment-for-the-product-backlog
@@ -37,4 +37,3 @@ Some Good Examples of a Product Goal:
 The [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal) should be a singular Goal that each Sprint Goal can be crafted towards. It should be short, measurable, and easy to understand. Everyone on the Scrum Team and the wider organisation should understand it and how the work that they are doing contributes to it. It is similar to the Visionary Goal that a Business Doctor I engaged helped me create for my business. Every product, every project, and every business should have a Visionary Goal. In Scrum, we call it the [Product Goal](https://nkdagility.com/the-2020-scrum-guide/#commitment-product-goal).
 
 Do you have a Product Goal?
-

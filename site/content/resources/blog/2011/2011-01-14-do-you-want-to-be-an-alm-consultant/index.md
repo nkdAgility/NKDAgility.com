@@ -5,7 +5,7 @@ date: 2011-01-14
 creator: Martin Hinshelwood
 id: "17"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-want-to-be-an-alm-consultant
 aliases:
   - /blog/do-you-want-to-be-an-alm-consultant
@@ -95,4 +95,3 @@ _Engagement Responsibilities:_
 · Have effective interpersonal skills and ability to work in a team environment.
 
 Enquire at [careers@nwcadence.com](mailto:careers@nwcadence.com)
-

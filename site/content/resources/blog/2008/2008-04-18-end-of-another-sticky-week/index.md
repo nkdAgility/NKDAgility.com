@@ -5,7 +5,7 @@ date: 2008-04-18
 creator: Martin Hinshelwood
 id: "237"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: end-of-another-sticky-week
 aliases:
   - /blog/end-of-another-sticky-week
@@ -33,4 +33,3 @@ One of the major improvements is the ability to add skins for different TFS life
 If you want a go of these features you will need to [download the source](http://www.codeplex.com/TFSStickyBuddy/SourceControl/ListDownloadableCommits.aspx) and build the main folder code... but there will be a release soon..
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-

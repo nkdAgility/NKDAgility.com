@@ -5,7 +5,7 @@ date: 2012-07-16
 creator: Martin Hinshelwood
 id: "6179"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
 aliases:
   - /blog/tfs-integration-tools-tf237165-the-team-foundation-server-could-not-update-the-work-item
@@ -49,4 +49,3 @@ You can see on lines 2 and 3 of the code above I had incorrectly specified the m
 The mentioned field either needs removed from the mapping or added to the work item. In this case I will be removing it from the mapping as I don’t need that field on the Task WIT.
 
 **Did this solve your problem?**
-

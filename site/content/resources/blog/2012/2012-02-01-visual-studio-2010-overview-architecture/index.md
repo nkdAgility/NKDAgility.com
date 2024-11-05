@@ -5,7 +5,7 @@ date: 2012-02-01
 creator: Martin Hinshelwood
 id: "4191"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2010-overview-architecture
 aliases:
   - /blog/visual-studio-2010-overview-architecture
@@ -40,4 +40,3 @@ _This post is part of a series of Visual Studio ALM webcasts that were delivered
 \[screencast url="http://www.screencast.com/t/ZvLy8P2Nlgwm" width="640" height="480"\] **Screencast:  Visual Studio 2010 Overview – Introduction**
 
 _This post is part of a series of Visual Studio ALM webcasts that were delivered through 2010 and 2011 as part of an introduction to Visual Studio ALM. See [An index to all Visual Studio 2010 Overview webcasts](http://blog.hinshelwood.com/an-index-to-all-visual-studio-2010-overview-sessions/) for a full list of webcasts._
-

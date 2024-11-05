@@ -5,7 +5,7 @@ date: 2007-03-19
 creator: Martin Hinshelwood
 id: "427"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-gotcha-server-name
 aliases:
   - /blog/tfs-gotcha-server-name
@@ -33,4 +33,3 @@ You will probably need to rename TFS to the fully qualified domain name of your 
 Have fun...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-
