@@ -34,9 +34,9 @@ sections:
     content:
     type: courses
     related:
-      - /capabilities/training-courses/courses/prokanban-applying-professional-kanban/
-      - /capabilities/training-courses/courses/prokanban-applying-metrics-for-predictability/
-      - /capabilities/training-courses/courses/prokanban-applying-flow-metrics-for-scrum/
+      - /capabilities/training-courses/prokanban-applying-professional-kanban/
+      - /capabilities/training-courses/prokanban-applying-metrics-for-predictability/
+      - /capabilities/training-courses/prokanban-applying-flow-metrics-for-scrum/
     source: data
   - title: null
     content: null

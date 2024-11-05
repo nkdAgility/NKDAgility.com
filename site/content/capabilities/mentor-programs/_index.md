@@ -31,12 +31,11 @@ sections:
       - counterAfter: +
         content: Countries
         counter: 34
-  - title: Learning Experiances
-    type: taxonomies
-    source: course-learning-experiences
-    types: [mentor-program]
-  - title: Corporate Training – Private, In-House Courses
-    content: Our private corporate training courses provide a customised and bespoke experinace that is tailored for your orgnaisaton to maximise value.
+  - title: Our Mentor Programs
+    type: types
+    source: mentor-program
+  - title: Corporate Mentor Programs – Private, In-House Delivery
+    content: Our private corporate mentor programs provide a customised and bespoke experinace that is tailored for your orgnaisaton to maximise value.
     type: cards
     hideOnMobile: true
     source: inline
@@ -53,26 +52,17 @@ sections:
         content: The personalized nature of our training enhances retention, leading to a more profound and lasting organizational impact.
       - title: Higher ROI
         content: Our focused approach addresses your unique challenges, leading to a greater return on investment.
-  - title: Find Courses by Accountability
+  - title: Find Mentor Programs by Accountability
     type: taxonomies
     source: delivery-audiences
-    types: ["mentor-program"]
-  - title: Courses by Context
-    type: taxonomies
-    source: course-topics
-    types: ["mentor-program"]
-  - title: Courses by Vendor
-    type: taxonomies
-    source: course-vendors
     types: ["mentor-program"]
   - title:
     content:
     type: videos
     related:
-      - resources/videos/youtube/qrEqX_5FWM8
-      - resources/videos/youtube/jXk1_Iiam_M
-      - resources/videos/youtube/qEaiA_m8Vyg
-      - resources/videos/youtube/VOUmfpB-d88
+      - resources/videos/youtube/TCs2IxB118c
+      - resources/videos/youtube/ZcMcVL7mNGU
+      - resources/videos/youtube/EyqLSLHk_Ik
 ---
 
 Our training courses are designed to equip your team with the skills and knowledge they need to excel in an Agile environment. We offer a variety of courses tailored to different roles, including Scrum Masters, Product Owners, and team members, with both immersive and traditional learning experiences.

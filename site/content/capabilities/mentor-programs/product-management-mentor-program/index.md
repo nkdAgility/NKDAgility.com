@@ -15,7 +15,6 @@ course-learning-experiences:
 delivery-audiences:
   - Product Managers
   - Lean Agile Practitioners
-  - Teams
 card:
   button:
     content: Become a Visionary Leader!
