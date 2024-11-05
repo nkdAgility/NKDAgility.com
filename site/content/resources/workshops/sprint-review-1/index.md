@@ -1,30 +1,30 @@
 ---
 title: "Sprint Review #1"
 resourceTypes: workshop
-description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review. 
+layout: workshop
+description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
 aliases:
   - workshops/Sprint-Review-1.html
   - learn/agile-delivery-kit/workshops/Sprint-Review-1
 creator: Martin Hinshelwood
 references:
 recommendedContent:
- - collection: guides
-   path: _guides/scrum-guide.md
- - collection: technologies
-   path: _technologies/liberating-structures.md
- - collection: technologies
-   path: _technologies/liberating-structures/impromptu-networking.md
- - collection: technologies
-   path: _technologies/liberating-structures/shift-share.md
- - collection: technologies
-   path: _technologies/liberating-structures/what-so-what-now-what.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: technologies
+    path: _technologies/liberating-structures.md
+  - collection: technologies
+    path: _technologies/liberating-structures/impromptu-networking.md
+  - collection: technologies
+    path: _technologies/liberating-structures/shift-share.md
+  - collection: technologies
+    path: _technologies/liberating-structures/what-so-what-now-what.md
 videos:
- - title: Overview of The Scrum Framework with Martin Hinshelwood
-   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
- - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-   embed: https://www.youtube.com/embed/1-W64WdSbF4
+  - title: Overview of The Scrum Framework with Martin Hinshelwood
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+    embed: https://www.youtube.com/embed/1-W64WdSbF4
 date: 2024-09-17
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More

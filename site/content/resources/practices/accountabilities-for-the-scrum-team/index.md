@@ -1,6 +1,7 @@
 ---
 title: Accountabilities for the Scrum Team
 resourceTypes: practice
+layout: practice
 aliases:
   - practices/Accountabilities-for-the-Scrum-Team.html
   - learn/agile-delivery-kit/practices/accountabilities-for-the-scrum-team

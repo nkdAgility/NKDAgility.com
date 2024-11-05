@@ -1,7 +1,7 @@
 ---
 title: Product Increment
 resourceTypes: practice
-layout: resources/single
+layout: practice
 aliases:
   - practices/product-increment.html
   - learn/agile-delivery-kit/practices/product-increment
@@ -13,7 +13,6 @@ card:
     content: Learn More
   content: Discover more about Product Increment and how it can help you in your Agile journey!
   title: Product Increment
-aliases:
 ---
 
 ## What is a Product Increment?

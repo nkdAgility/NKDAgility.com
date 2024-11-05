@@ -2,7 +2,7 @@
 title: Sprint Planning Event
 description: Professional Sprint Planning is a practice that helps teams to plan and execute work in a way that is sustainable and predictable. It serves as both a planning and a learning event that helps teams to understand their capacity and capability as well as a marketing event that helps teams to formulate their communication and intentions to stakeholders.
 resourceTypes: practice
-layout: resources/single
+layout: practice
 aliases:
   - learn/agile-delivery-kit/practices/sprint-planning-event
 references:
