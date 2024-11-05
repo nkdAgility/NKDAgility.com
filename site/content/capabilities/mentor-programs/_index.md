@@ -24,7 +24,7 @@ sections:
     counters:
       - counterAfter: +
         content: mentees
-        counter: 50+
+        counter: 50
       - counterAfter: +
         content: programs
         counter: 7
