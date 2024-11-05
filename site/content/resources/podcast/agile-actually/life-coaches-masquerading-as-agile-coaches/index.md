@@ -6,10 +6,8 @@ categories:
   - "agility"
 author: "MrHinsh"
 resourceTypes: podcast
-layout: resources/single
+layout: podcast
 slug: "life-coaches-masquerading-as-agile-coaches"
-resourceType:
-  - "podcast"
 ---
 
 In this month's edition of [#agileactually](https://www.youtube.com/hashtag/agileactually), Simon Reindl and Martin Hinshelwood explore the latest trend in [#agile](https://www.youtube.com/hashtag/agile) for a life coach to present themselves as an [#agilecoach](https://www.youtube.com/hashtag/agilecoach) to organizations.

@@ -2,6 +2,7 @@
 title: The Scrum Guide
 description: The Scrum Guide contains the definition of Scrum.
 resourceTypes: guide
+layout: guide
 aliases:
   - guides/Scrum-Guide/
   - guides/Scrum-Guide.html
@@ -47,7 +48,6 @@ card:
     content: Learn More
   content: Discover more about The Scrum Guide and how it can help you in your Agile journey!
   title: The Scrum Guide
-aliases:
 ---
 
 The Scrum Guide is the rule book, or timber frame, of Scrum and is immutable of definition but not of implementation. If you have already read the Scrum Guide and are looking more for a Strategy Guide then head over to the Scrum Strategy Guide.

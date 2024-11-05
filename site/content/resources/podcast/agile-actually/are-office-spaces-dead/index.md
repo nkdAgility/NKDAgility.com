@@ -6,10 +6,8 @@ categories:
   - "agility"
 author: "MrHinsh"
 resourceTypes: podcast
-layout: resources/single
+layout: podcast
 slug: "are-office-spaces-dead"
-resourceType:
-  - "podcast"
 ---
 
 In this month's edition of Agile Actually, Martin and Simon explore the rise of remote work and whether working from the office, as we knew it, is dead.
