@@ -2,8 +2,19 @@
 <!-- Courses specific rendering -->
 <div class="row">
   {{ if and (not (eq .context.cards nil)) (gt (len .context.cards) 0) }}
+
+    {{ $count := len .context.cards }}
+    {{ $colClass := "col-xl-4" }}
+    {{ if eq (mod $count 3) 0 }}
+      {{ $colClass = "col-xl-4" }}
+      <!-- 3 per row -->
+    {{ else if eq (mod $count 2) 0 }}
+      {{ $colClass = "col-xl-6" }}
+      <!-- 2 per row -->
+    {{ end }}
+
     {{ range $index, $card := .context.cards }}
-      <div class="col-xl-6 p-2">
+      <div class="{{ $colClass }} p-2">
         <!-- e -->
         {{ partial "card.html" (dict "class" "sectioncards" "title" $card.title "content" $card.content "buttonContent" $card.button.content "permalink" $card.button.link ) }}
       </div>
