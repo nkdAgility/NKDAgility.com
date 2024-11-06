@@ -5,7 +5,7 @@ date: 2010-04-08
 creator: Martin Hinshelwood
 id: "56"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: guidance-branching-for-each-sprint
 aliases:
   - /blog/guidance-branching-for-each-sprint
@@ -70,4 +70,3 @@ Don’t Like:
 It just seems easier and less painful to use a branch to me! What do you think?
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [SSW](http://technorati.com/tags/SSW) [TFS 2008](http://technorati.com/tags/TFS+2008) [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [Branching](http://technorati.com/tags/Branching) [Version Control](http://technorati.com/tags/Version+Control)
-

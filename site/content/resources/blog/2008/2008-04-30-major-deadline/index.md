@@ -5,7 +5,7 @@ date: 2008-04-30
 creator: Martin Hinshelwood
 id: "233"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: major-deadline
 aliases:
   - /blog/major-deadline
@@ -51,4 +51,3 @@ In the immortal words of the Windows 2003 Active Directory Installer:
 > _This may take some time, or considerably longer..._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-

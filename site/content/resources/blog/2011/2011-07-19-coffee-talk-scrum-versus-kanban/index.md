@@ -5,7 +5,7 @@ date: 2011-07-19
 creator: Martin Hinshelwood
 id: "3688"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban
 aliases:
   - /blog/coffee-talk-scrum-versus-kanban
@@ -45,4 +45,3 @@ Both models have proven track records, and **in this session [Martin Hinshelwood
 - **[Join Northwest Cadence for this Free Webcast Event](http://scrumvskanban.eventbrite.com/)**
 
 I think that we have around 50 folks already signed up, but the more the merrier…
-

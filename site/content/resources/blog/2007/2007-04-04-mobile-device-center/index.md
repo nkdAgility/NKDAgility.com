@@ -5,7 +5,7 @@ date: 2007-04-04
 creator: Martin Hinshelwood
 id: "417"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: mobile-device-center
 aliases:
   - /blog/mobile-device-center
@@ -25,4 +25,3 @@ From the early propaganda on Vista I had though that this was the point! But it 
 Hopefully Microsoft will rectify this over time...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6)
-

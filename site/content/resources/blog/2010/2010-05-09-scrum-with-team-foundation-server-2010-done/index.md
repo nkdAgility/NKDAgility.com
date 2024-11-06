@@ -5,7 +5,7 @@ date: 2010-05-09
 creator: Martin Hinshelwood
 id: "43"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: scrum-with-team-foundation-server-2010-done
 aliases:
   - /blog/scrum-with-team-foundation-server-2010-done
@@ -51,4 +51,3 @@ I mentioned quite a few of SSW’s [Rules to better Scrum Using TFS](http://shar
 **Download** [**DDD Scotland -  Scrum with Team Foundation Server 2010**](http://cid-57599e234f1ebc1c.skydrive.live.com/self.aspx/Public/Presentations/SSW^_Scrum%20with%20TFS%202010^_DDDScotland^_v1.1.pptx)
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum) [TFS 2010](http://technorati.com/tags/TFS+2010) [ALM](http://technorati.com/tags/ALM) [DDD Scot](http://technorati.com/tags/DDD+Scot) [Live](http://technorati.com/tags/Live) [SSW](http://technorati.com/tags/SSW) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

@@ -5,7 +5,7 @@ date: 2011-08-16
 creator: Martin Hinshelwood
 id: "3728"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: coffee-talk-introduction-to-scrum-webcast-event-this-friday
 aliases:
   - /blog/coffee-talk-introduction-to-scrum-webcast-event-this-friday
@@ -45,4 +45,3 @@ I am hoping that we can we can have some serious discussion on the agile practic
 - [**Join Northwest Cadence for this Free Webcast Event**](http://introtoscrum.eventbrite.com/)
 
 I don't know how many people have already signed up as I have been onsite for two weeks. My current customer is giving me a little time on Friday to talk to you folks about Scrum.
-

@@ -5,7 +5,7 @@ date: 2007-06-16
 creator: Martin Hinshelwood
 id: "383"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sharepoint-3-0-tfs-sub-site-creation-investigation-result
 aliases:
   - /blog/sharepoint-3-0-tfs-sub-site-creation-investigation-result
@@ -24,4 +24,3 @@ Extending the project creation wizard may not be that hard! I have only looked a
 I will just have to add it to my [Wish list of TFS Tools](http://blog.hinshelwood.com/archive/2007/06/06/My-Wish-List-of-Team-Foundation-Server-Tools.aspx)...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-

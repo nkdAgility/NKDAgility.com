@@ -5,7 +5,7 @@ date: 2009-12-28
 creator: Martin Hinshelwood
 id: "74"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: investigation-seo-permanent-redirects-for-old-urls
 aliases:
   - /blog/investigation-seo-permanent-redirects-for-old-urls
@@ -72,4 +72,3 @@ The conclusion is that neither the SEO Toolkit, nor the URL Rewrite Module are o
 Even though it has not been updated since April 2009, I think this is the best option. The source code is provided on the site, and I am familiar with the component. It supports a rule provider model that will allow me to achieve the goal I am aiming for and is very easy to setup.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SSW](http://technorati.com/tags/SSW) [Software Development](http://technorati.com/tags/Software+Development) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

@@ -5,7 +5,7 @@ date: 2020-12-30
 creator: Martin Hinshelwood
 id: "10528"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: evidence-based-management-gathering-metrics
 aliases:
   - /blog/evidence-based-management-gathering-metrics
@@ -99,4 +99,3 @@ Scrum.org suggests aggregating these into one, easy to track metric – the Agil
 ## Conclusion
 
 For the first time we can now, as consultants, monitor the improvements we are making in organisations. Even better, organisations can use these metrics to demonstrate the value that their investments in agility with training and consulting are bringing them. This is a fabulous step forward in our understanding of software delivery. An easy, simple way of measuring our progress towards process improvement.
-

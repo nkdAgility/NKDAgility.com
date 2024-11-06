@@ -5,7 +5,7 @@ date: 2007-09-14
 creator: Martin Hinshelwood
 id: "312"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: uber-dorky-nerd-king
 aliases:
   - /blog/uber-dorky-nerd-king
@@ -24,4 +24,3 @@ Does this make me a Nerd?
 Just a little!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

@@ -5,7 +5,7 @@ date: 2012-08-09
 creator: Martin Hinshelwood
 id: "7104"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
 aliases:
   - /blog/tfs-integration-tools-issue-tfs-wit-bypass-rule-submission-is-enabled
@@ -79,4 +79,3 @@ tfssecurity /g+ "Team Foundation Service Accounts" n:domainusername ALLOW /serve
 Now you have that sorted you are ready to rock…
 
 **Did this help you?**
-

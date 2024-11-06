@@ -5,7 +5,7 @@ date: 2011-06-12
 creator: Martin Hinshelwood
 id: "3641"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: constructing-a-framework-for-the-tfs-automation-platform
 aliases:
   - /blog/constructing-a-framework-for-the-tfs-automation-platform
@@ -81,4 +81,3 @@ Now that everything is checked in, I will be encouraging my team mates to explor
 **Figure: Lots of lovely places to put code**
 
 Let me know what improvements you can observe as noting is perfect, especially not if it was done by me.
-

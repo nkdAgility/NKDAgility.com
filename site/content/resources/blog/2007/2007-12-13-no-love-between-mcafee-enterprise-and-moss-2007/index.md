@@ -5,7 +5,7 @@ date: 2007-12-13
 creator: Martin Hinshelwood
 id: "274"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: no-love-between-mcafee-enterprise-and-moss-2007
 aliases:
   - /blog/no-love-between-mcafee-enterprise-and-moss-2007
@@ -44,4 +44,3 @@ Now, McAfee say that they support SharePoint Services 3.0, but MOSS has a bunch 
 Hopefully I can get this sorted soon.
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-

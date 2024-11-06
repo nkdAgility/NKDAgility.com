@@ -5,7 +5,7 @@ date: 2011-07-22
 creator: Martin Hinshelwood
 id: "3692"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
 aliases:
   - /blog/coffee-talk-scrum-versus-kanban-re-match-thursday-at-high-noon
@@ -64,4 +64,3 @@ If however you have had your fill of one process battering lumps out of the othe
 - [**Coffee Talk: Limit Work in Process (WIP) –**](http://limitwip2-eorg.eventbrite.com/) 2011-11-04 (9AM – 10AM PST) Limit Work in Process (WIP)  Overloaded individuals and teams suffer from bad multitasking. they are also cursed with long lead times,...
 
 The sessions are deliberately split so you can see Scrum, Kanban and some of the practices that benefit both separately.
-

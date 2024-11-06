@@ -5,7 +5,7 @@ date: 2017-06-28
 creator: Martin Hinshelwood
 id: "11946"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: scrum-tapas-scrum-continuous-delivery
 aliases:
   - /blog/scrum-tapas-scrum-continuous-delivery
@@ -32,4 +32,3 @@ Scrum Tapas is a series of short videos that give you a bite sized look into the
 \[[More Scrum Tapas](https://www.youtube.com/playlist?list=PLgDaZD8y4z0B4s9rR8-LtyA18DurYu-51)\]
 
 Also join me at [Agile In Africa 2017](http://agileinafrica.com/) in Ghana on October 23, 2017 for an awesome event.
-

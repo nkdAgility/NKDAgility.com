@@ -5,7 +5,7 @@ date: 2020-06-18
 creator: Martin Hinshelwood
 id: "44418"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: live-virtual-classrooms-and-the-new-normal
 aliases:
   - /blog/live-virtual-classrooms-and-the-new-normal
@@ -62,4 +62,3 @@ I think this especially makes sense for the world of product delivery. Why go to
 **Welcome the New Normal**
 
 I am sure that an extrovert might have a different opinion initially, however, once we are out of lockdown and able to socialize in-person again I am sure that they can find their fix. For those of us in the knowledge industry, this is a new era. Embrace it, adapt to it, or it may just leave you behind!
-

@@ -5,11 +5,9 @@ date: "2023-06-29"
 categories:
   - "agility"
 author: "MrHinsh"
-resourceType: podcast
-layout: resources/single
+resourceTypes: podcast
+layout: podcast
 slug: "words-matter"
-resourceType:
-  - "podcast"
 ---
 
 In this month's podcast, Simon Reindl and Martin Hinshelwood explore the importance of transparency, specifically relating to the words we use and the context within which we use those words. Precision matters. Accuracy matters. Saying what you mean and meaning what you say matters. Listen to this podcast for some great insights into why language matters in the #agile world.

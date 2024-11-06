@@ -5,7 +5,7 @@ date: 2007-01-09
 creator: Martin Hinshelwood
 id: "448"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-trouble-with-iis6-pac-files-and-dns
 aliases:
   - /blog/the-trouble-with-iis6-pac-files-and-dns
@@ -29,4 +29,3 @@ The second problem was that he was using a proxy server that was an appliance (i
 So all problems solved, well theoretically... David still need to try them out side of my little home lab.
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

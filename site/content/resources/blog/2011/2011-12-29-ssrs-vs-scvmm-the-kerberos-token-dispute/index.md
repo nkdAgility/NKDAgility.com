@@ -5,7 +5,7 @@ date: 2011-12-29
 creator: Martin Hinshelwood
 id: "4104"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: ssrs-vs-scvmm-the-kerberos-token-dispute
 aliases:
   - /blog/ssrs-vs-scvmm-the-kerberos-token-dispute
@@ -86,4 +86,3 @@ There is NO way that you can have SCVMM and RS running under AD Credentials to c
 As my mother used to do with my brother and I: i separated them.
 
 Simples!
-

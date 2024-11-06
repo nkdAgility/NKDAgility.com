@@ -5,7 +5,7 @@ date: 2007-07-23
 creator: Martin Hinshelwood
 id: "362"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: why-do-we-care-about-software-factories
 aliases:
   - /blog/why-do-we-care-about-software-factories
@@ -26,4 +26,3 @@ This sort of work will go a long way to making software factories more accessibl
 Plus, I like the pretty pictures...
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

@@ -62,7 +62,7 @@ sections:
     content: Here is a list of courses related to Azure DevOps.
     type: courses
     related:
-      - /capabilities/training-courses/courses/accentient-managing-projects-using-visual-studio-and-scrum
+      - /capabilities/training-courses/accentient-managing-projects-using-visual-studio-and-scrum
     source: data
   - title: null
     content: null

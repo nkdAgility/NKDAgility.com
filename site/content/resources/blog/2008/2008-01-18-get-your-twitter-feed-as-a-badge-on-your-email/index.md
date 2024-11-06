@@ -5,7 +5,7 @@ date: 2008-01-18
 creator: Martin Hinshelwood
 id: "263"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: get-your-twitter-feed-as-a-badge-on-your-email
 aliases:
   - /blog/get-your-twitter-feed-as-a-badge-on-your-email
@@ -24,4 +24,3 @@ As Twitter publish your twit list as an RSS feed you can just add it to FeedBurn
 So easy it hurts...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

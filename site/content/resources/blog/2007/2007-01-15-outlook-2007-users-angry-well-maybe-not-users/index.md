@@ -5,7 +5,7 @@ date: 2007-01-15
 creator: Martin Hinshelwood
 id: "442"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: outlook-2007-users-angry-well-maybe-not-users
 aliases:
   - /blog/outlook-2007-users-angry-well-maybe-not-users
@@ -25,4 +25,3 @@ It is not the users that are angry. Why would they be, this does not significant
 Are there any USERS out there that are angry? I think not...
 
 Technorati Tags: [Fail](http://technorati.com/tags/Fail)
-

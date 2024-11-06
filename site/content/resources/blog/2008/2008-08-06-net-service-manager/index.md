@@ -5,7 +5,7 @@ date: 2008-08-06
 creator: Martin Hinshelwood
 id: "213"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: net-service-manager
 aliases:
   - /blog/net-service-manager
@@ -29,4 +29,3 @@ It is quite simple, but has a plethora of uses… One of the best is creating Cl
 { .post-img }
 
 Technorati Tags: [WCF](http://technorati.com/tags/WCF)
-

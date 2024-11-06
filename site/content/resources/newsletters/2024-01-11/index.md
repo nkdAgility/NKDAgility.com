@@ -4,8 +4,8 @@ title: "Change is easier with a friend: Buy 1, Get 1 FREE!"
 date: "2024-01-11"
 preview: "naked-agility-technically-agile-1280×720-24Q1-Change-1.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "change-is-easier-with-a-friend-buy-1-get-1-free"
 aliases:
   - /newsletters/change-is-easier-with-a-friend-buy-1-get-1-free/

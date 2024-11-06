@@ -5,7 +5,7 @@ date: 2007-02-08
 creator: Martin Hinshelwood
 id: "434"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
 aliases:
   - /blog/register-for-beta-exam-71-510-ts-visual-studio-2005-team-foundation-server
@@ -41,4 +41,3 @@ Receiving this invitation does not guarantee you a seat in the beta; we recommen
 •VUE: [http://www.vue.com/ms/](http://www.vue.com/ms/)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-

@@ -5,7 +5,7 @@ date: 2009-04-01
 creator: Martin Hinshelwood
 id: "133"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-test-quick-reference-guide-1-0
 aliases:
   - /blog/visual-studio-team-test-quick-reference-guide-1-0
@@ -50,4 +50,3 @@ As you can see this document is not a theoretical document, but a real world pro
 Well done Rangers…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [TFS](http://technorati.com/tags/TFS)
-

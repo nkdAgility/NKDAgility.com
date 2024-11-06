@@ -5,7 +5,7 @@ date: 2021-07-21
 creator: Martin Hinshelwood
 id: "46257"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: announcing-evidence-based-management-training-with-certification-from-scrum-org
 aliases:
   - /blog/announcing-evidence-based-management-training-with-certification-from-scrum-org
@@ -62,4 +62,3 @@ Just as the PAL gets you to think about how you lead an organisation, the PAL-EB
 ## Our upcomming classes!
 
 \[wpv-view name="2021-coursescheduleforposts"\]
-

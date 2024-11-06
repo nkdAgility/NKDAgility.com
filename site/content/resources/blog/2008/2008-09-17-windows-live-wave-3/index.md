@@ -5,7 +5,7 @@ date: 2008-09-17
 creator: Martin Hinshelwood
 id: "192"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-live-wave-3
 aliases:
   - /blog/windows-live-wave-3
@@ -32,4 +32,3 @@ I am only really interested in Messenger and Writer, but all the
 application are there.
 
 Technorati Tags: [Live](http://technorati.com/tags/Live) [Answers](http://technorati.com/tags/Answers)
-

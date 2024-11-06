@@ -5,7 +5,7 @@ date: 2008-12-15
 creator: Martin Hinshelwood
 id: "153"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: managing-the-vsts-developers-linkedin-group
 aliases:
   - /blog/managing-the-vsts-developers-linkedin-group
@@ -28,4 +28,3 @@ Thanks guys for giving up a little bit of your valuable time….
 Hopefully, this will give members more information and a faster response time to requests…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

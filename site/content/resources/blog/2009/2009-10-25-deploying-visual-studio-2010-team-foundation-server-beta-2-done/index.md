@@ -5,7 +5,7 @@ date: 2009-10-25
 creator: Martin Hinshelwood
 id: "81"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: deploying-visual-studio-2010-team-foundation-server-beta-2-done
 aliases:
   - /blog/deploying-visual-studio-2010-team-foundation-server-beta-2-done
@@ -59,4 +59,3 @@ Well done to the SSW team.
 Well done also to the guys involved in the TFS team, the same migration from TFS 2005 to TFS 2008 was a much more painful experience taking days of work, but the guys from SSW made this process easy and straight forward…Preparation does that for a project…
 
 A possible claim to fame: In addition we might have been the first company (SSW is a company of 52 employees and contractors) to migrate. So far I have not seen any blog posts about other companies migrating everything over to Beta 2. I am a TFS MVP and no-one on that list has posted about a migration yet (I can just imagine Justin King having another fit when he finds that out).
-

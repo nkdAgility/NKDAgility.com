@@ -5,11 +5,9 @@ date: "2024-01-25"
 categories:
   - "agility"
 author: "MrHinsh"
-resourceType: podcast
-layout: resources/single
+resourceTypes: podcast
+layout: podcast
 slug: "enterprise-agility"
-resourceType:
-  - "podcast"
 ---
 
 ![](https://nkdagility.com/wp-content/uploads/2023/10/37154808-1680362242684-ab5e16c6c3e31-jpg.webp)

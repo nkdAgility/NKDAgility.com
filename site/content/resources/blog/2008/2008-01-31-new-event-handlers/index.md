@@ -5,7 +5,7 @@ date: 2008-01-31
 creator: Martin Hinshelwood
 id: "258"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: new-event-handlers
 aliases:
   - /blog/new-event-handlers
@@ -57,4 +57,3 @@ And if you want the Reassigned handler to work add the following line:
 If you want both to work...then add both...easy.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT)
-

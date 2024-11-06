@@ -5,7 +5,7 @@ date: 2013-06-25
 creator: Martin Hinshelwood
 id: "9909"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: engaging-with-complexity-sharepoint-edition
 aliases:
   - /blog/engaging-with-complexity-sharepoint-edition
@@ -122,4 +122,3 @@ This PowerShell will map each of the users across to the new domain and allow th
 ## Conclusion
 
 Upgrading SharePoint 2012 to SharePoint 2013 is not quite as easy as it is with Team Foundation Server. There are quite a few pitfalls and it took some amount of research to get the above all working.
-

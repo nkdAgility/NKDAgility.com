@@ -5,7 +5,7 @@ date: 2013-08-19
 creator: Martin Hinshelwood
 id: "9951"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: a-change-for-the-better-4
 aliases:
   - /blog/a-change-for-the-better-4
@@ -70,4 +70,3 @@ I want to try and find the bulk of my work in Glasgow and the surrounding area b
 As with my continuing work with Northwest Cadence in the USA I will be providing consulting, coaching, and mentoring around lean-agile, Scrum, and Visual Studio ALM in the United Kingdom and Europe.
 
 **Are you in Scotland? Do you have a need to improve your current practices? Get in touch so that I can start helping you out.**
-

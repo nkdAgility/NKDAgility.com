@@ -5,7 +5,7 @@ date: 2007-10-24
 creator: Martin Hinshelwood
 id: "295"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: proxy-server-settings-for-sharepoint-2007
 aliases:
   - /blog/proxy-server-settings-for-sharepoint-2007
@@ -48,4 +48,3 @@ The required bit of which is the useDefaultCredentials parameter that passes the
 { .post-img }
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

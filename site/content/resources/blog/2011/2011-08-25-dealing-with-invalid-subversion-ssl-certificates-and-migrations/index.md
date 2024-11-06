@@ -5,7 +5,7 @@ date: 2011-08-25
 creator: Martin Hinshelwood
 id: "3736"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: dealing-with-invalid-subversion-ssl-certificates-and-migrations
 aliases:
   - /blog/dealing-with-invalid-subversion-ssl-certificates-and-migrations
@@ -87,4 +87,3 @@ Typically you have three options:
 - Reject
 
 If you select “**_(p)ermenantly_**” you will then be able to run the migration tools successfully. You will need to do this for every Subversion Repository you want to migrate from. Or, you can fix the certificate or just remove it.
-

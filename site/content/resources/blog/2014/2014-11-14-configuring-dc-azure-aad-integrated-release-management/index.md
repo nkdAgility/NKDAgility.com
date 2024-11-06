@@ -5,7 +5,7 @@ date: 2014-11-14
 creator: Martin Hinshelwood
 id: "10865"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: configuring-dc-azure-aad-integrated-release-management
 aliases:
   - /blog/configuring-dc-azure-aad-integrated-release-management
@@ -170,4 +170,3 @@ Now that you have completed the install you can drop the server down to the A0 m
 { .post-img }
 
 We effectively drop down to 11p per day for the server. I am sure that if we started hitting it with loads of domain joined machines then I expect the price to go up, however this minimalist cost can be easily supported with your MSDN benefits…
-

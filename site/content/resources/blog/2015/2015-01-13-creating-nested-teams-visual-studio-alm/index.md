@@ -5,7 +5,7 @@ date: 2015-01-13
 creator: Martin Hinshelwood
 id: "11068"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-nested-teams-visual-studio-alm
 aliases:
   - /blog/creating-nested-teams-visual-studio-alm
@@ -114,4 +114,3 @@ If we select "Omniworks Team 1" we get only the work that has been assigned to t
 This format gives us a huge amount of flexibility to create and manage work within any agile process as well as supporting non-agile processes as well. If you know your way around the configuration there are many ways to organise and visualise the work that you are doing and still work predominantly within the bounds of the tools.
 
 This is an fantastically flexible system and I encourage you to play around and figure out what the best configuration for you is.
-

@@ -13,14 +13,14 @@ isShort: False
 
 # It's said that you can reduce time to market by up to 50% simply by removing committees. True?
 
-_Reducing Time to Market by Removing Committees_
+*Reducing Time to Market by Removing Committees*
 Are committees slowing down your time to market? Discover the impact of traditional management practices on your business's agility. 🚀
 
-_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin dives into the debate on whether removing committees can significantly reduce time to market. He sheds light on the inefficiencies of traditional management practices and how modern collaboration techniques can streamline decision-making processes. 📊🤝 From the challenges of document management to the missed business opportunities due to prolonged decision-making, Martin highlights the need for agility in today's fast-paced business environment. 🌍💼
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 If you find it hard to streamline your decision-making processes or struggle with traditional management practices, my team at NKDAgility can assist you or help you find a consultant, coach, or trainer who can.
 
 If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!

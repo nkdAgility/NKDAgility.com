@@ -5,7 +5,7 @@ date: 2011-02-04
 creator: Martin Hinshelwood
 id: "16"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-know-about-the-visual-studio-2010-architecture-guidance
 aliases:
   - /blog/do-you-know-about-the-visual-studio-2010-architecture-guidance
@@ -51,4 +51,3 @@ This is a big help when you just want to figure out how to do something and can�
 I’m sold! Where can i get my hands on this fantastic content?
 
 Download the [Visual Studio 2010 Architecture Tooling Guidance](http://vsarchitectureguide.codeplex.com/) and if you like it don’t forget to [add a review](http://vsarchitectureguide.codeplex.com/releases/view/47828?RateReview=true) to make the team that put it together in their spare time feel all the mere loved.
-

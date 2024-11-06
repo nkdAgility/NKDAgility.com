@@ -1,0 +1,12 @@
+[
+  {{- $pages := where .Site.RegularPages "Type" "mentor-program" -}}
+  {{- range $index, $page := $pages -}}
+  {{- $data := dict "title" .Title "permalink" .Permalink -}}
+  {{- $params := .Params -}}
+  {{- range $key, $value := $params }}
+  {{- $data = merge $data (dict $key $value) -}}
+  {{- end }}
+  {{ $data | jsonify }}
+  {{- if lt (add $index 1) (len $pages) }},{{ end }}
+  {{- end -}}
+]

@@ -5,7 +5,7 @@ date: 2007-03-08
 creator: Martin Hinshelwood
 id: "429"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-uk-team-system-blog
 aliases:
   - /blog/microsoft-uk-team-system-blog
@@ -19,4 +19,3 @@ Well, here it is:
 [http://blogs.msdn.com/ukvsts/default.aspx](http://blogs.msdn.com/ukvsts/default.aspx)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

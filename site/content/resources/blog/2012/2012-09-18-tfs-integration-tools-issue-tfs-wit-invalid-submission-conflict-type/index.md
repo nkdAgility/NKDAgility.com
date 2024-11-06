@@ -5,7 +5,7 @@ date: 2012-09-18
 creator: Martin Hinshelwood
 id: "8781"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
 aliases:
   - /blog/tfs-integration-tools-issue-tfs-wit-invalid-submission-conflict-type
@@ -50,4 +50,3 @@ note: I recommend building and testing all of your scripts/configurations agains
 
 You should now be able to successfully run your configuration although I can’t guarantee further errors ![Smile](images/wlEmoticon-smile1-4-4.png)
 { .post-img }
-

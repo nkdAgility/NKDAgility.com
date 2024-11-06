@@ -5,7 +5,7 @@ date: 2014-01-30
 creator: Martin Hinshelwood
 id: "10351"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-release-management-server-tfs-2013
 aliases:
   - /blog/installing-release-management-server-tfs-2013
@@ -67,4 +67,3 @@ Now all we have to do is apply the changes..
 Figure: All Configuration tasks have completed successfully
 
 And low… we have a Release Management Server for Team Foundation Server 2013… First configuration is a little tricky and I covered that in [Installing Release Management Client for Visual Studio 2013](http://nkdagility.com/installing-release-management-client-visual-studio-2013/)…
-

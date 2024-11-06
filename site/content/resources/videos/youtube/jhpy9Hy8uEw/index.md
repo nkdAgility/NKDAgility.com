@@ -15,7 +15,7 @@ isShort: False
 
 Discover the compelling reasons behind choosing Scrum.org over Scrum Alliance for scrum training. Dive into this insider’s journey, uncover hidden truths, and find out why Scrum.org is favoured by professionals seeking effective and lasting certification. Get ready to transform your understanding of Scrum training options with eye-opening insights!
 
-#Scrum has two major certification bodies that are responsible for creating #scrumtraining and certification programs. Scrum.Org and #scrumalliance.
+#Scrum  has two major certification bodies that are responsible for creating #scrumtraining and certification programs. Scrum.Org and #scrumalliance.
 
 The majority of people who become a #scrummaster, #productowner, or #agileleader pass through one of these two certification paths, and go on to build a career in #agile based on what they have learned in the training room.
 
@@ -25,17 +25,17 @@ In this short video, Martin Hinshelwood explains why he chose the scrum.org path
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
 
 Why did you choose the Scrum Org track rather than the Scrum Alliance track?
 

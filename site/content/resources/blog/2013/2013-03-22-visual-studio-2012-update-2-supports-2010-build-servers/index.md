@@ -5,7 +5,7 @@ date: 2013-03-22
 creator: Martin Hinshelwood
 id: "9336"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2012-update-2-supports-2010-build-servers
 aliases:
   - /blog/visual-studio-2012-update-2-supports-2010-build-servers
@@ -114,4 +114,3 @@ Now I can choose wither to send my build to my 2010 build system or my 2012 one.
 This is one of the major features of Team Foundation Server 2012 Update 2. I know that it looks like a little fix, but I have customers that were thinking that they would never be able to upgrade to TFS 2012. If your TFS server is managed by a central corporate IT department and you have many business units using it can they all take the time to upgrade all of their Custom Activities, Build Workflows and Servers all at once?
 
 Well now they don’t have to. There is no longer any excuse not to upgrade to TFS 2012 Update 2 now!
-

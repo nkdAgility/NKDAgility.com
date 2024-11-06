@@ -5,7 +5,7 @@ date: 2012-02-17
 creator: Martin Hinshelwood
 id: "4393"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: introduction-to-visual-studio-11
 aliases:
   - /blog/introduction-to-visual-studio-11
@@ -54,4 +54,3 @@ And this just the beginning…
 - **Follow** [**http://blog.nwcadence.com**](http://blog.nwcadence.com) **for more posts…**
 
 There will be plenty more this month and after the [2012 MVP Global Summit](http://www.2012mvpsummit.com/) in a couple of weeks...
-

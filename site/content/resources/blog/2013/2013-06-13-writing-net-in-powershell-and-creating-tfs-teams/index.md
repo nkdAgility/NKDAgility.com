@@ -5,7 +5,7 @@ date: 2013-06-13
 creator: Martin Hinshelwood
 id: "9903"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: writing-net-in-powershell-and-creating-tfs-teams
 aliases:
   - /blog/writing-net-in-powershell-and-creating-tfs-teams
@@ -130,4 +130,3 @@ catch
 Now we begin to get a picture of what is possible inside PowerShell. Would the above be easier if  there were nice easy commands like “Add-Team” or “Add-TeamProject” existed? Well yes it would, but that they don’t is not going to cripple us. We can get buy without them..
 
 In short, anything you can do in code you can do in PowerShell.
-

@@ -5,7 +5,7 @@ date: 2008-01-24
 creator: Martin Hinshelwood
 id: "261"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-ctp1-released
 aliases:
   - /blog/tfs-event-handler-ctp1-released
@@ -54,4 +54,3 @@ Well, that's the plan... ![smile_nerd](images/smile_nerd-5-2.gif)
 Edited for bad English and down right sloppiness... Made me sound like English was not my first language...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
-

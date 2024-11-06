@@ -5,7 +5,7 @@ date: 2009-05-18
 creator: Martin Hinshelwood
 id: "117"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: multi-targeting-in-visual-studio-2010
 aliases:
   - /blog/multi-targeting-in-visual-studio-2010
@@ -34,4 +34,3 @@ But I guess we can’t have everything, and some features will be dropped for th
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
-

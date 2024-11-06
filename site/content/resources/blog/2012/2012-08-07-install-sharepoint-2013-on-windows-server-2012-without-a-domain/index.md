@@ -5,7 +5,7 @@ date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7067"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: install-sharepoint-2013-on-windows-server-2012-without-a-domain
 aliases:
   - /blog/install-sharepoint-2013-on-windows-server-2012-without-a-domain
@@ -229,4 +229,3 @@ To make sure things are working, do a little smoke test. Check the Admin site, a
 **Figure: Wooo… nice new portal**
 
 Now I can get on with the fun….
-

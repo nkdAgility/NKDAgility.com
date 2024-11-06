@@ -5,7 +5,7 @@ date: 2023-09-27
 creator: Martin Hinshelwood
 id: "50083"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-definition-of-done-ensuring-quality-without-compromising-value
 aliases:
   - /blog/the-definition-of-done-ensuring-quality-without-compromising-value
@@ -46,4 +46,3 @@ The DoD aims to ensure transparency, confirming that all showcased work meets ou
 These are the intricacies that lean-agile aficionados thrive on, but most find daunting. If you find it hard to distinguish between the Definition of Done and Acceptance Criteria, my team at NKDAgility is here to assist. Don't let these issues undermine your value delivery. Seek help sooner rather than later.
 
 Right now, you can request a [free consultation](https://nkdagility.com/agile-consulting-coaching/) with my team or enrol in one of our [upcoming professional Scrum classes](https://nkdagility.com/training-courses/). Because you don't just need agility, you need Naked Agility.
-

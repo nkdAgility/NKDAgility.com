@@ -5,7 +5,7 @@ date: 2013-05-06
 creator: Martin Hinshelwood
 id: "9496"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
 aliases:
   - /blog/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010
@@ -56,4 +56,3 @@ Figure: Create a new Workspace with a new Name
 You can now connect to Source Control..
 
 _Originally published at Where Technology Meets Teamwork by [Martin Hinshelwood](http://blog.hinshelwood.com/about), Senior ALM Consultant. ([source](http://blog.nwcadence.com/tfs-2012-issue-get-workspace-already-exists-connecting-with-vs-2008-or-vs-2010/))_
-

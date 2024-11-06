@@ -18,8 +18,8 @@ Beware the Agile-pocalypse: Decoding the Agile "Antichrist" 🌪️
 Full video: https://youtu.be/56hWAHhbrvs
 
 Dive into the crux of Agile's biggest challenge: the rise of fake agilists, often termed as the Agile "Antichrist." These individuals, armed with mere certifications and no depth, misguide and mislead genuine Agile practitioners. In this enlightening video:
-🔹 Uncover the telltale signs of the so-called "Agile-pocalypse."
-🔹 Discover why it's essential to differentiate between genuine Agile experts and pretenders.
+🔹 Uncover the telltale signs of the so-called "Agile-pocalypse." 
+🔹 Discover why it's essential to differentiate between genuine Agile experts and pretenders. 
 🔹 Learn how to ensure your Agile journey remains authentic and impactful.
 
 Join us in identifying and understanding the pitfalls of hollow guidance and the importance of genuine expertise in the Agile, Scrum, and DevOps domains. If you're keen on maintaining the integrity of your Agile processes and striving for excellence, this is a must-watch.
@@ -28,14 +28,14 @@ Join us in identifying and understanding the pitfalls of hollow guidance and the
 
 About Naked Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/
+If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you.
+We would love to work with you. 
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 

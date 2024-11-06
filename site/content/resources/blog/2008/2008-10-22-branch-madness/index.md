@@ -5,7 +5,7 @@ date: 2008-10-22
 creator: Martin Hinshelwood
 id: "186"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: branch-madness
 aliases:
   - /blog/branch-madness
@@ -49,4 +49,3 @@ A long way for a short cut :)
 Well, at least the lesson is learned…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

@@ -5,7 +5,7 @@ date: 2009-05-19
 creator: Martin Hinshelwood
 id: "113"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
 aliases:
   - /blog/unable-to-connect-to-tfs-using-https-over-the-internet-from-behind-isa
@@ -31,4 +31,3 @@ If you are experiencing this problem, then please add your support to the work i
 [BUG: Unable to connect to TFS using HTTPS over the Internet from behind ISA](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=453677)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2010](http://technorati.com/tags/VS+2010)
-

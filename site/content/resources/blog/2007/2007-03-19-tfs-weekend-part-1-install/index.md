@@ -5,7 +5,7 @@ date: 2007-03-19
 creator: Martin Hinshelwood
 id: "426"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-weekend-part-1-install
 aliases:
   - /blog/tfs-weekend-part-1-install
@@ -25,4 +25,3 @@ Neil then broke the bad news to me...One of his developers had moved to Spain an
 Tune in next week to see how I got on with external SSL!
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

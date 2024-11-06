@@ -5,7 +5,7 @@ date: 2008-05-14
 creator: Martin Hinshelwood
 id: "228"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: post-event-msdn-roadshow-glasgow
 aliases:
   - /blog/post-event-msdn-roadshow-glasgow
@@ -26,4 +26,3 @@ If you have not been lucky enough, or bothered to attend then you can get all th
 Oh, and I managed to blag myself a [new keyboard](http://www.microsoft.com/hardware/mouseandkeyboard/productdetails.aspx?pid=080) which is pretty nifty, _I would never have forked out for on my own_, and a F5 MSDN T-shirt, which is a might tight...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Silverlight](http://technorati.com/tags/Silverlight)
-

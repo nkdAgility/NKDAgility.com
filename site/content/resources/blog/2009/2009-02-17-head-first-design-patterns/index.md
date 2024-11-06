@@ -5,7 +5,7 @@ date: 2009-02-17
 creator: Martin Hinshelwood
 id: "137"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: head-first-design-patterns
 aliases:
   - /blog/head-first-design-patterns
@@ -34,4 +34,3 @@ The [Head First](http://www.headfirstlabs.com/) series uses pictures and concept
 I would recommend this book to any budding and exiting author of technical books…
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-

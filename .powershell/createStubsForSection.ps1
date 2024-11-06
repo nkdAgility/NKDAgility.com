@@ -28,7 +28,8 @@ title: $($section["title"])
 aliases:
   - $($section["aliases"])
 date: $(Get-Date -Format yyyy-MM-dd)
-type: methods
+resourceTypes: method
+layout: methods
 card:
   title: $($section["title"])
   content: $($section["content"])

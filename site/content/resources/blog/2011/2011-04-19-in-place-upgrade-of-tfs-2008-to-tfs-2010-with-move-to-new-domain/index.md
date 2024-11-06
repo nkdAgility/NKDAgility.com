@@ -5,7 +5,7 @@ date: 2011-04-19
 creator: Martin Hinshelwood
 id: "5"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
 aliases:
   - /blog/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain
@@ -174,4 +174,3 @@ After trying a while bunch of options including re-running everything from scrat
 - [Move Team Foundation Server from One Environment to Another](<http://msdn.microsoft.com/en-us/library/ms404883(v=VS.100).aspx>)
 
 BNX4P3AT2EP3
-

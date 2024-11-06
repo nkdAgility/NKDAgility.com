@@ -5,7 +5,7 @@ date: 2008-04-14
 creator: Martin Hinshelwood
 id: "240"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: bug-in-observablecollection
 aliases:
   - /blog/bug-in-observablecollection
@@ -83,4 +83,3 @@ And then pass that class in it does work:
 Although this is a work around, it causes other problems in my code... Ahh well... worth a try...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-

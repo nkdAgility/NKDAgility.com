@@ -5,7 +5,7 @@ date: 2011-02-09
 creator: Martin Hinshelwood
 id: "14"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-visual-studio-2010-and-team-foundation-server-enable-compliance
 aliases:
   - /blog/how-visual-studio-2010-and-team-foundation-server-enable-compliance
@@ -289,4 +289,3 @@ Although there is some crossover there are still rolls or “hats” that are wo
 
 - **Do you thing this is all achievable?**
 - **Have I missed anything that you think should be there?**
-

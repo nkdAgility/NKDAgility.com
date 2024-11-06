@@ -5,7 +5,7 @@ date: 2007-05-31
 creator: Martin Hinshelwood
 id: "391"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-foundation-server-sharepoint-3-0
 aliases:
   - /blog/team-foundation-server-sharepoint-3-0
@@ -82,4 +82,3 @@ My idea is that in the documentation I replace:
 `**Any reason what this should not work?**`
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [SP 2007](http://technorati.com/tags/SP+2007) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-

@@ -15,7 +15,7 @@ isShort: False
 
 Unraveling the Myth of Special Sprints in Agile: Insights and Impact - Discover the truth about special sprints in Agile and their impact on product delivery. An eye-opening exploration for Agile enthusiasts and professionals. 🔍💡
 
-Enjoy this video? 🔔 Like and subscribe to our channel:\* https://www.youtube.com/@nakedAgility
+Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the world of Agile, specifically examining the concept of special sprints like Sprint zeros, refactoring sprints, and bugfix sprints. 🔄 He challenges the notion that these sprints enhance Agile practices, labelling them as 'Agile banditry'. Through a compelling case study of the Azure DevOps team, Martin illustrates how special sprints can actually hinder the delivery of usable, working products. 🚀 Join us for an engaging discussion that sheds light on effective Agile strategies and the pitfalls of traditional planning methods. 🎯
 

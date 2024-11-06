@@ -5,7 +5,7 @@ date: 2011-03-06
 creator: Martin Hinshelwood
 id: "9"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-alm-mvp-of-the-year-2011
 aliases:
   - /blog/visual-studio-alm-mvp-of-the-year-2011
@@ -48,4 +48,3 @@ I have a number of goals for this year that I think will help increase value in 
 - write more useful blog posts
 
 I do not think that these things are beyond the realms of do-ability, but we will see…
-

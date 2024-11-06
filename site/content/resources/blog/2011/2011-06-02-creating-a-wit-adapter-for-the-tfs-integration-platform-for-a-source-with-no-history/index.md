@@ -5,7 +5,7 @@ date: 2011-06-02
 creator: Martin Hinshelwood
 id: "3408"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
 aliases:
   - /blog/creating-a-wit-adapter-for-the-tfs-integration-platform-for-a-source-with-no-history
@@ -1371,4 +1371,3 @@ During the production run the “Created by \[account\]” will be the service a
 Once I got rid of the duplicate mappings I started getting data through and I can now get back to the route problem of “Edit” now that “Add” is working again.
 
 Woot…
-

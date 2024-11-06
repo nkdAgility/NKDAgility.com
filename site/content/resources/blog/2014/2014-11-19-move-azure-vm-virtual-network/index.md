@@ -5,7 +5,7 @@ date: 2014-11-19
 creator: Martin Hinshelwood
 id: "10874"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: move-azure-vm-virtual-network
 aliases:
   - /blog/move-azure-vm-virtual-network
@@ -61,4 +61,3 @@ You should now see your domain controller as part of your virtual network that w
 - [http://azure.microsoft.com/en-us/documentation/articles/active-directory-new-forest-virtual-machine/#createvnet](http://azure.microsoft.com/en-us/documentation/articles/active-directory-new-forest-virtual-machine/#createvnet)
 - [http://msdn.microsoft.com/library/azure/dn630228.aspx](http://msdn.microsoft.com/library/azure/dn630228.aspx)
 - [http://blogs.msdn.com/b/walterm/archive/2013/05/29/moving-a-virtual-machine-from-one-virtual-network-to-another.aspx](http://blogs.msdn.com/b/walterm/archive/2013/05/29/moving-a-virtual-machine-from-one-virtual-network-to-another.aspx)
-

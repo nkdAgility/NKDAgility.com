@@ -5,7 +5,7 @@ date: 2008-12-15
 creator: Martin Hinshelwood
 id: "151"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-answer-for-the-end-user
 aliases:
   - /blog/microsoft-answer-for-the-end-user
@@ -91,4 +91,3 @@ These forums are specifically targeted at Vista, but if they are successful, the
 Lets get [Answering](http://social.answers.microsoft.com/)…but remember, no techno-babble!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

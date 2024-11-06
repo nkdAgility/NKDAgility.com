@@ -5,7 +5,7 @@ date: 2013-12-11
 creator: Martin Hinshelwood
 id: "10301"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: professional-scrum-immingham-uk
 aliases:
   - /blog/professional-scrum-immingham-uk
@@ -63,4 +63,3 @@ Figure: Greek dinner with the multi-national group
 After a long two days training and interacting the entire group got together for a well-earned meal and interaction. The software teams at DFDS were some of the most capable that I have worked with and their camaraderie was intense. I got a lot of value in training them and it was very refreshing to teach Europeans rather than Americans. There are many cultural differences with language being just one…
 
 I really enjoyed my time with DFDS and hopefully they enjoyed the course as well.
-

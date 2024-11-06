@@ -5,7 +5,7 @@ date: 2010-03-05
 creator: Martin Hinshelwood
 id: "65"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: mvvm-for-dummies
 aliases:
   - /blog/mvvm-for-dummies
@@ -84,4 +84,3 @@ End Class
 **Figure: This is a compromise, but the best you can do without Dependency Injection**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [Silverlight](http://technorati.com/tags/Silverlight) [MVVM](http://technorati.com/tags/MVVM)
-

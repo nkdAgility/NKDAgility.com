@@ -5,7 +5,7 @@ date: 2008-12-15
 creator: Martin Hinshelwood
 id: "152"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: does-test-driven-development-speed-up-development
 aliases:
   - /blog/does-test-driven-development-speed-up-development
@@ -39,4 +39,3 @@ If only I could be as eloquent as Scott. His recent post on “[Does test-driven
 This is a must read for any Software Professional… unless you are already using TDD :)
 
 Technorati Tags: [Software Development](http://technorati.com/tags/Software+Development)
-

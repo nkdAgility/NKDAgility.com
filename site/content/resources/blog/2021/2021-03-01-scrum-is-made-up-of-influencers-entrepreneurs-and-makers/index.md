@@ -5,7 +5,7 @@ date: 2021-03-01
 creator: Martin Hinshelwood
 id: "45946"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: scrum-is-made-up-of-influencers-entrepreneurs-and-makers
 aliases:
   - /blog/scrum-is-made-up-of-influencers-entrepreneurs-and-makers
@@ -72,4 +72,3 @@ Job Titles that might exist in the Value Track: **Coders, UX Designers, Testers
 We love training and have many classes! Most of our classes are private for customer, but we also have a few public classes that you can join.
 
 \[wpv-view name="2021-courseschedule-2"\]
-

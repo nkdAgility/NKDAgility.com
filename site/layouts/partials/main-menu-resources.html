@@ -11,7 +11,8 @@
           </div>
           <div class="col-md-10">
             <div class="row">
-              {{ range $resources.Pages }}
+              {{ $sortedPages := sort $resources.Pages ".Pages" "desc" }}
+              {{ range $sortedPages }}
                 {{ if and (not .Draft) (gt (len .Pages) 0) }}
                   <div class="col-md-4">
                     <h6>{{ .Title }}</h6>

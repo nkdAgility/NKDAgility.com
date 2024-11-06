@@ -5,7 +5,7 @@ date: 2014-01-20
 creator: Martin Hinshelwood
 id: "10334"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: move-your-active-directory-domain-to-another-server
 aliases:
   - /blog/move-your-active-directory-domain-to-another-server
@@ -43,4 +43,3 @@ And lets not forget the Global Catalogue.
 The video documents my journey of moving my demo domain from one server to another and it currently looks like everything is working. Job done…
 
 How did you get on moving your domain?
-

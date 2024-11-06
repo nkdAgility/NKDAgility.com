@@ -5,7 +5,7 @@ date: 2013-09-04
 creator: Martin Hinshelwood
 id: "10094"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
 aliases:
   - /blog/professional-scrum-foundations-coming-to-glasgow-scotland-in-november-2013
@@ -76,4 +76,3 @@ These courses are awesome and can really help with a Scrum adoption especially e
 For all your Scrum needs you should head on over to [http://scrum.org](http://scrum.org) and check out the forums and and other offerings.
 
 If however you are in Europe then you can [find an expert](http://nkdagility.com/company/general-inquiries/) closer to home.
-

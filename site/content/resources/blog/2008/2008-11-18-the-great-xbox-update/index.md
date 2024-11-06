@@ -5,7 +5,7 @@ date: 2008-11-18
 creator: Martin Hinshelwood
 id: "166"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-great-xbox-update
 aliases:
   - /blog/the-great-xbox-update
@@ -30,4 +30,3 @@ I never made it into the [Preview](http://majornelson.com/archive/2008/10/24/the
 { .post-img }
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Personal](http://technorati.com/tags/Personal) [Answers](http://technorati.com/tags/Answers)
-

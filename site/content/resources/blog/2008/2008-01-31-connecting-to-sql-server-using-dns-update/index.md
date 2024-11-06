@@ -5,7 +5,7 @@ date: 2008-01-31
 creator: Martin Hinshelwood
 id: "255"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: connecting-to-sql-server-using-dns-update
 aliases:
   - /blog/connecting-to-sql-server-using-dns-update
@@ -39,4 +39,3 @@ When I try moving the databases I will need to move this SPN to the new SQL Clus
 Here's hoping...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007)
-

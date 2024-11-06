@@ -5,7 +5,7 @@ date: 2013-05-02
 creator: Martin Hinshelwood
 id: "9499"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: naked-alm-starting-with-why-and-getting-naked
 aliases:
   - /blog/naked-alm-starting-with-why-and-getting-naked
@@ -60,4 +60,3 @@ There is nothing more frustrating as a consumer of software for that software to
 I believe that every company deserves working software that can be delivered on a consistent cadence. That cadence needs to be shorter than 30 day) and they need to get continuous feedback that is fed back into their backlog.
 
 No matter how far away from this desired state your software process is right now, there are things that you can do to create a steady movement towards that dream of better software more frequently. That is what I am trying to achieve with my career and this blog embodies my journey in convincing customers to change and helping them stretch towards agility.
-

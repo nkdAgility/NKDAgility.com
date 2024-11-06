@@ -5,7 +5,7 @@ date: 2011-07-05
 creator: Martin Hinshelwood
 id: "3686"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: disqus-chrome-with-non-support
 aliases:
   - /blog/disqus-chrome-with-non-support
@@ -103,4 +103,3 @@ Please do not hesitate to contact me if you have any further problems extracting
 **<RESPONCE>**
 
 Let see if I get any help… I can’t think I am the only one who's blog does not work with Chrome.
-

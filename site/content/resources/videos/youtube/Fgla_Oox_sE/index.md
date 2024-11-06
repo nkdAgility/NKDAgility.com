@@ -35,7 +35,7 @@ Insightful Content: Our channel offers a wealth of knowledge for product owners 
 Continuous Learning: Stay updated with our latest videos packed with expert advice and industry best practices.
 Community Interaction: Join a network of professionals sharing their experiences and learning from each other.
 
-🔗 Get Involved: Visit https://www.nkdagility.com
+🔗 Get Involved: Visit https://www.nkdagility.com 
 
 Struggling with stakeholder engagement or marketing your product effectively? Naked Agility is here to assist you or connect you with someone who can. Don't let these challenges limit your ability to deliver value. Reach out through the links in the description for support and guidance.
 

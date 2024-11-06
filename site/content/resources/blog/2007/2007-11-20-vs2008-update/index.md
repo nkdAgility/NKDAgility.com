@@ -5,7 +5,7 @@ date: 2007-11-20
 creator: Martin Hinshelwood
 id: "291"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vs2008-update
 aliases:
   - /blog/vs2008-update
@@ -35,4 +35,3 @@ This afternoon I will be attending a Microsoft event in Edinburgh "[MSDN: ShareP
 A busy couple of days...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SP 2007](http://technorati.com/tags/SP+2007) [ALM](http://technorati.com/tags/ALM) [MOSS](http://technorati.com/tags/MOSS) [VS 2008](http://technorati.com/tags/VS+2008) [SharePoint](http://technorati.com/tags/SharePoint)
-

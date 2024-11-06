@@ -5,7 +5,7 @@ date: 2006-11-11
 creator: Martin Hinshelwood
 id: "462"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: net-framework-3-0
 aliases:
   - /blog/net-framework-3-0
@@ -27,4 +27,3 @@ I have upgraded my CodePlex project to use WCF, and what a difference it makes:
 It is amazing what a few attribute tags can make.
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [.NET](http://technorati.com/tags/.NET) [WCF](http://technorati.com/tags/WCF)
-

@@ -5,7 +5,7 @@ date: 2009-12-07
 creator: Martin Hinshelwood
 id: "78"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: internet-connection-speed-wow
 aliases:
   - /blog/internet-connection-speed-wow
@@ -67,4 +67,3 @@ it just gets better and better:
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [SSW](http://technorati.com/tags/SSW)
-

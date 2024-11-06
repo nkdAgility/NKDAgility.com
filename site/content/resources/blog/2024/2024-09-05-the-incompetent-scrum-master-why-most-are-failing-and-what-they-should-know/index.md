@@ -5,7 +5,7 @@ date: 2024-09-05
 creator: Martin Hinshelwood
 id: "51730"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
 aliases:
   - /blog/the-incompetent-scrum-master-why-most-are-failing-and-what-they-should-know
@@ -88,4 +88,3 @@ Reference
 - \*\* Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition by Lyssa Adkins
 
 - \*\*\* System of Profound Knowledge by W. Edwards Deming
-

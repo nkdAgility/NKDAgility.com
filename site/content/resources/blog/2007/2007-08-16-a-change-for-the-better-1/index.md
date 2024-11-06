@@ -5,7 +5,7 @@ date: 2007-08-16
 creator: Martin Hinshelwood
 id: "331"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: a-change-for-the-better-1
 aliases:
   - /blog/a-change-for-the-better-1
@@ -28,4 +28,3 @@ I think that this will be a pivotal move for me that will allow me to expand my 
 I will let you know how I get on, but for now I have a months notice to work and many handover documents to write!
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

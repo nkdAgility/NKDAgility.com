@@ -5,7 +5,7 @@ date: 2008-11-06
 creator: Martin Hinshelwood
 id: "173"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-sticky-buddy-2-0-development-started
 aliases:
   - /blog/tfs-sticky-buddy-2-0-development-started
@@ -25,4 +25,3 @@ Lets just say that it will be a while in development. I am trying to implement t
 The current version CTP1 has only those changes to allow for the new Navigation and structure options, but More features are on the way.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [ALM](http://technorati.com/tags/ALM)
-

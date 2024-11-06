@@ -5,7 +5,7 @@ date: 2010-07-02
 creator: Martin Hinshelwood
 id: "36"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
 aliases:
   - /blog/ssw-brain-quest-team-foundation-server-and-sharepoint-2010-london
@@ -120,4 +120,3 @@ This is a good chance for you to consider new ways of using Office in your compa
 
 [![image[7]](images/SSWBrainQuestTeamFoundationServerandShar_955C-image7_-3-3.png)](http://www.ssw.com.au/ssw/Events/Brain-Quest-VisualStudio2010-TFS2010-Sharepoint2010.aspx)
 { .post-img }
-

@@ -5,7 +5,7 @@ date: 2007-07-23
 creator: Martin Hinshelwood
 id: "360"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-is-dyslexia
 aliases:
   - /blog/what-is-dyslexia
@@ -32,4 +32,3 @@ Despite this I can actually read very fast, around a hundred pages in an hour of
 This is how dyslexic people see the words that are written on the page, and why they are so poor at spelling.
 
 Technorati Tags: [Dyslexia](http://technorati.com/tags/Dyslexia)
-

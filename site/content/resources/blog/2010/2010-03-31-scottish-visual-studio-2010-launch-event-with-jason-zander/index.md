@@ -5,7 +5,7 @@ date: 2010-03-31
 creator: Martin Hinshelwood
 id: "57"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: scottish-visual-studio-2010-launch-event-with-jason-zander
 aliases:
   - /blog/scottish-visual-studio-2010-launch-event-with-jason-zander
@@ -45,4 +45,3 @@ _f you would like to attend, please email Nathan Davies on [a-ndavie@microsoft.c
 { .post-img }
 
 Technorati Tags: [TFS 2010](http://technorati.com/tags/TFS+2010) [VS 2010](http://technorati.com/tags/VS+2010) [ALM](http://technorati.com/tags/ALM) [Testing](http://technorati.com/tags/Testing) [Developing](http://technorati.com/tags/Developing) [WP7](http://technorati.com/tags/WP7)
-

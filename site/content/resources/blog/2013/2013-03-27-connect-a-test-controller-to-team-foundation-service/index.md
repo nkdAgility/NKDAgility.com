@@ -5,7 +5,7 @@ date: 2013-03-27
 creator: Martin Hinshelwood
 id: "9348"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: connect-a-test-controller-to-team-foundation-service
 aliases:
   - /blog/connect-a-test-controller-to-team-foundation-service
@@ -88,4 +88,3 @@ However after a little perseverance and clicking at just the right time to get o
 Now that we are configured we can head over to Microsoft Test Manager, switch to the Lab Centre and configure an environment.
 
 What did you do with your environments connected to TF Service?
-

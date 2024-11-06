@@ -5,7 +5,7 @@ date: 2012-08-15
 creator: Martin Hinshelwood
 id: "7149"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2012-rtm-available-installed
 aliases:
   - /blog/visual-studio-2012-rtm-available-installed
@@ -110,4 +110,3 @@ Forget the unbelievably cool features that made it into TFS 2010, these are the 
 With all of these things built into the product there is even fewer excuses for Development Teams to be unable to deliver high quality product within an agile process that provides value to the customer…
 
 **Are you thinking of installing or upgrading to Visual Studio 2012 Team Foundation Server? Do you need help?**
-

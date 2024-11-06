@@ -5,7 +5,7 @@ date: 2013-11-11
 creator: Martin Hinshelwood
 id: "10226"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: alm-consulting-scotland-uk-scandinavia-europe
 aliases:
   - /blog/alm-consulting-scotland-uk-scandinavia-europe
@@ -58,4 +58,3 @@ If you are still asking, “But what can you do Martin?” then by all means rea
 I only tried to hit the highlights as I have had almost 80 customer engagements in the last 3 years with Northwest Cadence and every customer has unique problems and situations that are representative of their size or complexity. Its sometimes just about rolling up your sleeves and getting stuck in.
 
 Wither you are looking for an ALM Consultant or you are a consulting company looking for an ALM Partner or even just an overflow valve (lol) for those busy periods then  I can help you out. If you need to understand what your organisation needs to do to improve their process then give me a call, and remember: Every company deserves working software on a regular cadence.
-

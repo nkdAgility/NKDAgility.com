@@ -5,7 +5,7 @@ date: 2012-03-01
 creator: Martin Hinshelwood
 id: "4747"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-11-upgrade-health-check
 aliases:
   - /blog/visual-studio-11-upgrade-health-check
@@ -41,4 +41,3 @@ We can help you make sure that you will be able to:
 - e.t.c.
 
 Let us help you get the most out of the tools…
-

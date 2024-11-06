@@ -15,6 +15,7 @@ isShort: False
 
 Have you ever tried to configure emails for an application to send through office 365?
 
+
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=oHH_ES7fNWY)

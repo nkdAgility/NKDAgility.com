@@ -5,7 +5,7 @@ date: 2013-07-08
 creator: Martin Hinshelwood
 id: "9731"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
 aliases:
   - /blog/create-a-portfolio-backlog-hierarchy-in-team-foundation-server-2013
@@ -318,4 +318,3 @@ Customising the hierarchy for Portfolio Backlogs is easy and the hard part is ma
 > \-Me
 
 Make sure you always make the right changes to Team Foundation Server to improve your process and never enshrine dysfunctions…
-

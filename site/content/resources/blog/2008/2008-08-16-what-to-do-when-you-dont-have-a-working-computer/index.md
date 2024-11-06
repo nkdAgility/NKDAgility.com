@@ -5,7 +5,7 @@ date: 2008-08-16
 creator: Martin Hinshelwood
 id: "208"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-to-do-when-you-dont-have-a-working-computer
 aliases:
   - /blog/what-to-do-when-you-dont-have-a-working-computer
@@ -45,4 +45,3 @@ Now all I need is a version of Visual Studio 2008 and Team Explorer ;)
 Technorati tags: [Windows Mobile](http://technorati.com/tag/Windows+Mobile), [Blogging](http://technorati.com/tag/Blogging)
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
-

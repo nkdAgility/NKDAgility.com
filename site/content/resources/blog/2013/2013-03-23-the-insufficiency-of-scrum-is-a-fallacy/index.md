@@ -5,7 +5,7 @@ date: 2013-03-23
 creator: Martin Hinshelwood
 id: "9338"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-insufficiency-of-scrum-is-a-fallacy
 aliases:
   - /blog/the-insufficiency-of-scrum-is-a-fallacy
@@ -90,4 +90,3 @@ Remember that the software that you are building is an organisational asset and 
 Don’t be incompetent. Don't commit fraud.
 
 **Be a professional…**
-

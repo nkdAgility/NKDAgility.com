@@ -5,7 +5,7 @@ date: 2012-02-25
 creator: Martin Hinshelwood
 id: "4576"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: is-alm-a-useful-term
 aliases:
   - /blog/is-alm-a-useful-term
@@ -55,4 +55,3 @@ We are on the crest of the waves of change in Europe and the next 10 years will 
 If you are Infosys, with is number of project under way then this is something to consider, but most don’t even realise these debates exist. Forester reports are not light reading and empty your pockets quickly. The shift is really about maturity of the tools (preceded by maturity of the space) finally showing users that they need to be leading the way rather than the vendors. The reality of ALM 2.0+ is that it will make it easier for all users to get benefit. More will be automatic and initiative and is driven less by what the tools can do but by what you can achieve. Amusingly the tools have driven this understanding and have now tipped the balance over to the customer driving what is required. If you read [Agile Software Engineering with Visual Studio: From Concept to Continuous Feedback](http://www.amazon.com/Software-Engineering-Visual-Studio-ebook/dp/B005N8EX1G)  you can see that happening with the Visual Studio ALM toolset already and the Visual Studio 11 beta release will be a marked push in that direction. It helps when the vendor becomes also the consumer.
 
 So while users don't put any onus on these distinctions, the ALM community does.
-

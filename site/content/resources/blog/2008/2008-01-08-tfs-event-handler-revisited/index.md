@@ -5,7 +5,7 @@ date: 2008-01-08
 creator: Martin Hinshelwood
 id: "266"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-revisited
 aliases:
   - /blog/tfs-event-handler-revisited
@@ -29,4 +29,3 @@ Hopefully this will not be much work...
 Well, I was wrong... Looks like some language compatibility problems...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008)
-

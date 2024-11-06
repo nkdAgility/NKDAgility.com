@@ -35,7 +35,7 @@ If you are struggling with Scrum adoption, my team at NKDAgility can help you or
 You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses
 
-#Scrum, #Agile, #Sprint, #ScrumTeam, #continuousimprovement
+#Scrum, #Agile, #Sprint, #ScrumTeam, #continuousimprovement 
 
 Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
 

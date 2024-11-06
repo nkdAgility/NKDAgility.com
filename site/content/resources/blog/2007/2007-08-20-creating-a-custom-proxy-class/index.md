@@ -5,7 +5,7 @@ date: 2007-08-20
 creator: Martin Hinshelwood
 id: "326"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-a-custom-proxy-class
 aliases:
   - /blog/creating-a-custom-proxy-class
@@ -61,4 +61,3 @@ Because your classes implements the service's interface when that interface chan
 This particular class is a duplex proxy, so communication can go both ways. You can download the source code for this from [here](http://www.codeplex.com/TFSEventHandler/SourceControl/DownloadSourceCode.aspx?changeSetId=8644).
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [SOA](http://technorati.com/tags/SOA)
-

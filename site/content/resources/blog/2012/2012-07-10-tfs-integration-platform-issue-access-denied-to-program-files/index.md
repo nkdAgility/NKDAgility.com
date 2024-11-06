@@ -5,7 +5,7 @@ date: 2012-07-10
 creator: Martin Hinshelwood
 id: "6113"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-platform-issue-access-denied-to-program-files
 aliases:
   - /blog/tfs-integration-platform-issue-access-denied-to-program-files
@@ -44,4 +44,3 @@ Just in case the Integration Platform throws a “Conflict” that needs to be r
 ### Workaround
 
 Right click on the “Microsoft Team Foundation Server Integration Tools” and add permission for the account that you are running the TFS Integration Tools under.
-

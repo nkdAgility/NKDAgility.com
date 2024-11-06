@@ -30,6 +30,10 @@
       <section class="container my-2 siteSectionCallback"></section>
     {{ end }}
 
+
+    <section class="container my-2">
+      {{ partial "trustpilot/scrumorg-trustpilot.html" . }}
+    </section>
     {{ if not .IsHome }}
       {{ partial "our-customers.html" . }}
     {{ end }}

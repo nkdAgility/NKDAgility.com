@@ -4,8 +4,8 @@ title: "February 2023 NKDAgility: How much of an impact can a strong, skilled pr
 date: "2023-01-31"
 preview: "naked-agility-technically-agile-1280×720-February2023-1.jpg"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have"
 aliases:
   - /newsletters/february-2023-nkdagility-how-much-of-an-impact-can-a-strong-skilled-product-owner-have/

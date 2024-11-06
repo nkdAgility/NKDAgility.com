@@ -5,7 +5,7 @@ date: 2007-08-20
 creator: Martin Hinshelwood
 id: "329"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: about-me
 aliases:
   - /blog/about-me
@@ -28,4 +28,3 @@ Ahh well, Scott is a much better writer than me, or he just has more patience...
 I am sure that I will adapt it over time to better reflect my experience.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

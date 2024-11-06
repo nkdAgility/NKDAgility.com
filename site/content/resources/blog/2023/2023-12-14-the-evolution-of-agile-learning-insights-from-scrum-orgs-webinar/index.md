@@ -5,7 +5,7 @@ date: 2023-12-14
 creator: Martin Hinshelwood
 id: "50979"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
 aliases:
   - /blog/the-evolution-of-agile-learning-insights-from-scrum-orgs-webinar
@@ -150,4 +150,3 @@ _If you are underemployed, we can also create custom payment plans to help you o
 - [Is homework a necessary evil? (](https://www.apa.org/monitor/2016/03/homework)[apa.org](http://apa.org/)[)](https://www.apa.org/monitor/2016/03/homework)
 
 - [Immersive Learning Overview - naked Agility with Martin Hinshelwood (](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)[nkdagility.com](http://nkdagility.com/)[)](https://nkdagility.com/training-courses/learning-experiences/immersive-learning-experience/)
-

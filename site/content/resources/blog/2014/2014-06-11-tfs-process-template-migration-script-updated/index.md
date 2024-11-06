@@ -5,7 +5,7 @@ date: 2014-06-11
 creator: Martin Hinshelwood
 id: "10558"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-process-template-migration-script-updated
 aliases:
   - /blog/tfs-process-template-migration-script-updated
@@ -173,4 +173,3 @@ The final piece of the puzzle is to update the datetime file we tried to load at
 And there you have it. Contrary to popular belief you can upgrade or migrate from one process template to another in TFS. It may be because you want to use the new features or it may be because you are radically changing you process, it can be done.
 
 Good luck with your changes…
-

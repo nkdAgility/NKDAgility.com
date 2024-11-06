@@ -5,7 +5,7 @@ date: 2008-10-28
 creator: Martin Hinshelwood
 id: "179"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: infragistics-wpf
 aliases:
   - /blog/infragistics-wpf
@@ -141,4 +141,3 @@ This should have displayed what I wanted, but it seams to be ignored.
 To allow this to work, all I needed to do was remove the x:Key from the template. But why can't I specify a template by name. What if I wanted to have two templates and choose which one was displayed…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
-

@@ -5,7 +5,7 @@ date: 2006-08-02
 creator: Martin Hinshelwood
 id: "468"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-most-usefull-net-tool-on-the-face-of-the-planet
 aliases:
   - /blog/the-most-usefull-net-tool-on-the-face-of-the-planet
@@ -21,4 +21,3 @@ Reflector!
 If the site is down, it will be back...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

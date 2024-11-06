@@ -5,7 +5,7 @@ date: 2013-07-24
 creator: Martin Hinshelwood
 id: "9737"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: quality-enablement-to-achieve-predictable-delivery
 aliases:
   - /blog/quality-enablement-to-achieve-predictable-delivery
@@ -52,4 +52,3 @@ Doing all of these things will serve to make quality the goal not the lack of it
 The way that we have traditionally measured our development teams have finely tuned them to fluctuate quality in order to meet aggressive delivery schedules. However this fluctuating quality only serves to reduce our ability to deliver and annoy our customers when they find the resulting bugs.
 
 The goal is to increase quality not reduce it but first we need to be able to measure that quality and enforce it.
-

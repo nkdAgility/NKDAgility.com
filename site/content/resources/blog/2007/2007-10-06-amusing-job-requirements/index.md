@@ -5,7 +5,7 @@ date: 2007-10-06
 creator: Martin Hinshelwood
 id: "301"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: amusing-job-requirements
 aliases:
   - /blog/amusing-job-requirements
@@ -87,4 +87,3 @@ Especially:
 > - [Writing a programmer job description](http://discuss.fogcreek.com/joelonsoftware/default.asp?cmd=show&ixPost=24706)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [Fail](http://technorati.com/tags/Fail) [VS 2005](http://technorati.com/tags/VS+2005)
-

@@ -5,7 +5,7 @@ date: 2012-08-07
 creator: Martin Hinshelwood
 id: "7074"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
 aliases:
   - /blog/tfs-2012-issue-tf255507-the-security-identifier-sid-for-the-following-sql-server-login-conflicts
@@ -79,4 +79,3 @@ sqlcmd -E -S "Kraken" -Q "ALTER LOGIN [WIN-EO45N4FNSOCAdministrator] WITH NAME =
 Once you have run the command you can “rerun Readiness Checks” to clear out the error.
 
 **Did this fix your problem?**
-

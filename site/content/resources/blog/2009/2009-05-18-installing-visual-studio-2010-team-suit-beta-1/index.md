@@ -5,7 +5,7 @@ date: 2009-05-18
 creator: Martin Hinshelwood
 id: "119"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2010-team-suit-beta-1
 aliases:
   - /blog/installing-visual-studio-2010-team-suit-beta-1
@@ -55,4 +55,3 @@ And what does the new welcome page look like?
 Mmmmmm…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [TFS Admin](http://technorati.com/tags/TFS+Admin) [VS 2010](http://technorati.com/tags/VS+2010) [VS 2008](http://technorati.com/tags/VS+2008)
-

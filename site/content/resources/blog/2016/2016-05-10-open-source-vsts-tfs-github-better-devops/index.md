@@ -5,7 +5,7 @@ date: 2016-05-10
 creator: Martin Hinshelwood
 id: "11491"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: open-source-vsts-tfs-github-better-devops
 aliases:
   - /blog/open-source-vsts-tfs-github-better-devops
@@ -136,4 +136,3 @@ When you configure a continuous integration build that is linked to a Github rep
 It's really easy to setup and configure a synchronisation of code between Github and VSTS which allows you to take advantage of the capabilities of VSTS while still maintaining an open source repository and taking contributions. I can create work items in VSTS or TFS and create full-fidelity DevOps and agile practices for ideation, coding, testing, release, and monitoring…
 
 Don’t get stuck with inferior tooling that is hard to setup and maintain. Use VSTS as your full-stack orchestration and management tool and publish what you want to Github.
-

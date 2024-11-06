@@ -5,7 +5,7 @@ date: 2011-09-13
 creator: Martin Hinshelwood
 id: "3778"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
 aliases:
   - /blog/you-are-doing-scrum-but-the-scrum-master-tells-the-team-what-to-do
@@ -65,4 +65,3 @@ The Development Team must be empowered to come up with resolutions to the proble
 - [Scrum Guide 2011](http://www.scrum.org/scrumguides)
 - [Why Group Dynamics and Interpersonal Skills Matter](http://www.estherderby.com/weblog/2009/07/why-group-dynamics-and-interpersonal.html)
 - [Scrum As A Framework](http://kenschwaber.wordpress.com/2010/09/08/scrum-as-a-framework/)
-

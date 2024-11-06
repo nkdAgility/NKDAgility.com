@@ -5,7 +5,7 @@ date: 2020-12-14
 creator: Martin Hinshelwood
 id: "38238"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: getting-started-definition-done-dod
 aliases:
   - /blog/getting-started-definition-done-dod
@@ -87,4 +87,3 @@ If it is a significant issue that results in you not having working software, th
 If it is less significant, you might want to keep working and add what you need to your [Product Backlog](/the-2020-scrum-guide/#product-backlog). You can then deliver improvements over the next few Sprints that mitigate and then resolve the identified issue. Once you have resolved it, you can then pin the outcome by adding something to your DoD.
 
 **Always look for ways that you can increase your quality. What does your definition of done look like today?**
-

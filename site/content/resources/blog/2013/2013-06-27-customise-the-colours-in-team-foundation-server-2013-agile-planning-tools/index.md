@@ -5,7 +5,7 @@ date: 2013-06-27
 creator: Martin Hinshelwood
 id: "9682"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
 aliases:
   - /blog/customise-the-colours-in-team-foundation-server-2013-agile-planning-tools
@@ -80,4 +80,3 @@ All we need to do is edit the colour codes and then import (upload) the process 
 Figure: Lovely pink PBI’s
 
 And voilà you now have just what you always wanted… pink PBI’s.
-

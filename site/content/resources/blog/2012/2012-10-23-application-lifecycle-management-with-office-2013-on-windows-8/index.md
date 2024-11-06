@@ -5,7 +5,7 @@ date: 2012-10-23
 creator: Martin Hinshelwood
 id: "8967"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: application-lifecycle-management-with-office-2013-on-windows-8
 aliases:
   - /blog/application-lifecycle-management-with-office-2013-on-windows-8
@@ -78,4 +78,3 @@ This makes Excel 2013 a premier reporting and data manipulation tool in the ALM 
 ### Conclusion
 
 The new Office 2013 gives us the same awesome tool is a slicker faster package and there is no way that I will be complaining about that…
-

@@ -5,7 +5,7 @@ date: 2021-01-25
 creator: Martin Hinshelwood
 id: "45521"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: all-technical-debt-is-a-risk-to-the-product-and-to-your-business
 aliases:
   - /blog/all-technical-debt-is-a-risk-to-the-product-and-to-your-business
@@ -150,4 +150,3 @@ I just don’t believe that if the business (read CFO) of the receiving entity r
 - Have no idea what even needs to be done
 
 **It’s a Roadkill Burger! It may indeed be tasty at the moment, but you will eventually get sick and die.**
-

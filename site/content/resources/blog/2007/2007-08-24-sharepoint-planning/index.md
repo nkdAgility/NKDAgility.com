@@ -5,7 +5,7 @@ date: 2007-08-24
 creator: Martin Hinshelwood
 id: "320"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sharepoint-planning
 aliases:
   - /blog/sharepoint-planning
@@ -24,4 +24,3 @@ In reading it I came to a much grater realization of not only the power of Share
 I think I am going to enjoy the Sharepoint thing...
 
 Technorati Tags: [SP 2007](http://technorati.com/tags/SP+2007) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

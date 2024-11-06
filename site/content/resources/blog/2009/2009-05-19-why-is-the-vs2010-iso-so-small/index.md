@@ -5,7 +5,7 @@ date: 2009-05-19
 creator: Martin Hinshelwood
 id: "114"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: why-is-the-vs2010-iso-so-small
 aliases:
   - /blog/why-is-the-vs2010-iso-so-small
@@ -19,4 +19,3 @@ The reason is simple, it has no MSDN documentation in it. I for one never instal
 And, why is there no Offline MSDN documentation? The answer is simple, it is not ready yet…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

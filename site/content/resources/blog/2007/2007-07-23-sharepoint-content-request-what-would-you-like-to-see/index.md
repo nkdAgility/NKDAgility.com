@@ -5,7 +5,7 @@ date: 2007-07-23
 creator: Martin Hinshelwood
 id: "361"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sharepoint-content-request-what-would-you-like-to-see
 aliases:
   - /blog/sharepoint-content-request-what-would-you-like-to-see
@@ -22,4 +22,3 @@ The current capabilities of TFS are sorely under utilized as any system that use
 At the moment the licensing model is prohibitive for this, but with an enterprise edition of Team Foundation Server _likely_ to be in the works ;) I would think that this would change...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

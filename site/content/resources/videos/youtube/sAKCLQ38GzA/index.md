@@ -15,9 +15,9 @@ isShort: False
 
 Unravel the core essence of motivation beyond monetary incentives, diving into autonomy, mastery, and purpose, framing it with Simon Sinek's "Start With Why" and Daniel Pink's drive theory. Unlock the gateway to intrinsic motivation and a higher purpose!
 
-_Enjoy this video? Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
-In this video, Martin delves into a profound discussion on what truly propels individuals in their professional realm once basic needs are met 🔄. He navigates through the realms of extrinsic and intrinsic motivators, framing the discourse with Simon Sinek's "Start With Why" and Daniel Pink's insights on autonomy, mastery, and purpose 🎯. The dialogue transcends into how organizations can cultivate a culture that resonates with a higher purpose, fostering a motivated and cohesive workforce 👥.
+In this video, Martin delves into a profound discussion on what truly propels individuals in their professional realm once basic needs are met 🔄. He navigates through the realms of extrinsic and intrinsic motivators, framing the discourse with Simon Sinek's "Start With Why" and Daniel Pink's insights on autonomy, mastery, and purpose 🎯. The dialogue transcends into how organizations can cultivate a culture that resonates with a higher purpose, fostering a motivated and cohesive workforce 👥. 
 
 00:00:05 Simon Sinek's Start With Why
 00:00:13 Extrinsic Motivators
@@ -30,7 +30,7 @@ In this video, Martin delves into a profound discussion on what truly propels in
 00:08:53 Apple's Journey Towards a Common Goal
 00:09:41 Understanding Your 'Why'
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to ignite the intrinsic motivation within your teams, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

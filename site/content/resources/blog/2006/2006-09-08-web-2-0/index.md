@@ -5,7 +5,7 @@ date: 2006-09-08
 creator: Martin Hinshelwood
 id: "463"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: web-2-0
 aliases:
   - /blog/web-2-0
@@ -24,4 +24,3 @@ It seams that Web 2.0 or “The Internet 2.0” is more of an ethos than a singl
 I mention it as “Web 2.0” is becoming a buzz word for middle management, and so when asked if your project is “Web 2.0” you will be able to answer!
 
 Technorati Tags: [Misc](http://technorati.com/tags/Misc)
-

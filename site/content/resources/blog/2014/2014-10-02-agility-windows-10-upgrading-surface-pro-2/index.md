@@ -5,7 +5,7 @@ date: 2014-10-02
 creator: Martin Hinshelwood
 id: "10746"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: agility-windows-10-upgrading-surface-pro-2
 aliases:
   - /blog/agility-windows-10-upgrading-surface-pro-2
@@ -124,4 +124,3 @@ That’s all I got from a first play, except to say that all my day job things w
 While I take no responsibility for any issues that you may have if you install Windows 10 I would recommend that anyone technically minded does so. And that they run it on their main computer. Take a little risk and provide feedback. The worst that can happen is that you need to reinstall Windows 8 / 7.
 
 Go on… be a kid again…
-

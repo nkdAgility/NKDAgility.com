@@ -5,7 +5,7 @@ date: 2012-08-16
 creator: Martin Hinshelwood
 id: "7161"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-preview-issue-tf400898-the-underlying-connection-was-closed
 aliases:
   - /blog/tfs-preview-issue-tf400898-the-underlying-connection-was-closed
@@ -76,4 +76,3 @@ This had now been fixed not just for me, but across both the hosted service and 
 { .post-img }
 
 **Are you having problems with TFS Preview? Don’t sit and fizz… Check the [TFS Preview status](https://tfspreview.com/en-us/support/current-service-status/ "TFS Preview status") or [raise a bug](https://connect.microsoft.com/VisualStudio/feedback/CreateFeedback.aspx).**
-

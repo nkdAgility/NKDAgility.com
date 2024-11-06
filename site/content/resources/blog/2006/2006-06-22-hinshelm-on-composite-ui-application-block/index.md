@@ -5,7 +5,7 @@ date: 2006-06-22
 creator: Martin Hinshelwood
 id: "467"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: hinshelm-on-composite-ui-application-block
 aliases:
   - /blog/hinshelm-on-composite-ui-application-block
@@ -108,4 +108,3 @@ LocalWorkItem.UIExtensionSites.RegisterSite("MyCustomToolStripSitename", objTool
 Don't forget the second registration that allows you to add a button to the `ToolStrip`.
 
 All done! You should now be able to create dynamic tool strips and populate them. If you want to customize commands, you will need to create a command adapter for the `ToolStripPanel` and add it to CAB.
-

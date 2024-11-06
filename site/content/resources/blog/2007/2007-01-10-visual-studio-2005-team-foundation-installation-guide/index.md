@@ -5,7 +5,7 @@ date: 2007-01-10
 creator: Martin Hinshelwood
 id: "444"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2005-team-foundation-installation-guide
 aliases:
   - /blog/visual-studio-2005-team-foundation-installation-guide
@@ -25,4 +25,3 @@ I am looking forward to the Admin Guide being updated as well!
 How has everyone got on with their TFS implementations?
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2005](http://technorati.com/tags/VS+2005)
-

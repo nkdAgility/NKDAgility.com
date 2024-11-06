@@ -5,7 +5,7 @@ date: 2010-06-18
 creator: Martin Hinshelwood
 id: "37"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: professional-scrum-developer-net-training-in-london
 aliases:
   - /blog/professional-scrum-developer-net-training-in-london
@@ -290,4 +290,3 @@ Because of the nature of this course, as explained above, certain types of peopl
 If you are outside the UK you can find out where this [course is being run near you](http://courses.scrum.org/). Make sure you have a look at the [scrum guide from Scrum.org](http://www.scrum.org/scrumguides/) and the [syllabus from Accentient](http://www.accentient.com/scrum.aspx).
 
 Technorati Tags: [Scrum](http://technorati.com/tags/Scrum),[SSW](http://technorati.com/tags/SSW),[Pro Scrum Dev](http://technorati.com/tags/Pro+Scrum+Dev)
-

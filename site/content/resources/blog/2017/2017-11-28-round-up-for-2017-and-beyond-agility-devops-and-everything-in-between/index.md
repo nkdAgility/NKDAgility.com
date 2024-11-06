@@ -5,7 +5,7 @@ date: 2017-11-28
 creator: Martin Hinshelwood
 id: "12146"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
 aliases:
   - /blog/round-up-for-2017-and-beyond-agility-devops-and-everything-in-between
@@ -60,4 +60,3 @@ The stories I could tell! And I do… if you come to one of my courses you can f
 That's just a few of the classes that I have already booked for 2018, and you can find more on the [training](https://nkdagility.com/training) page.
 
 I think that 2018 is going to be more training than consulting, although now I have booked a bunch of training I have customers looking for consulting time… ho hum… that's the way it is I guess…
-

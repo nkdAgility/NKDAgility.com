@@ -5,7 +5,7 @@ date: 2009-01-30
 creator: Martin Hinshelwood
 id: "141"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: fun-with-virgin
 aliases:
   - /blog/fun-with-virgin
@@ -35,4 +35,3 @@ What you nee to do is this:
 Press reset on the box and hold down play and stop on the front of the box until it says boot the little screen. After a couple of minutes it will say “1nput” in a digital watch kinda way. Use the fast forward (>>) button on the front of the box to select “5d” and then press OK. Now reset your box again and you should have a picture….
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

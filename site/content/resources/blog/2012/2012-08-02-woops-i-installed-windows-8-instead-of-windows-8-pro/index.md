@@ -5,7 +5,7 @@ date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6938"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: woops-i-installed-windows-8-instead-of-windows-8-pro
 aliases:
   - /blog/woops-i-installed-windows-8-instead-of-windows-8-pro
@@ -70,4 +70,3 @@ I was quite happy not to have to reinstall, but you can choose what you want to 
 **Did you install the wrong version of Windows?**
 
 **How easy was it for you to fix it?**
-

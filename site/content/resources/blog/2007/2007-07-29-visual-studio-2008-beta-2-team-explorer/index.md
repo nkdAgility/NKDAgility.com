@@ -5,7 +5,7 @@ date: 2007-07-29
 creator: Martin Hinshelwood
 id: "356"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-2008-beta-2-team-explorer
 aliases:
   - /blog/visual-studio-2008-beta-2-team-explorer
@@ -23,4 +23,3 @@ I think that Team Explorer should be included as an optional install for Visual 
 I will get back to you once I have VSTE installed...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [VS 2005](http://technorati.com/tags/VS+2005)
-

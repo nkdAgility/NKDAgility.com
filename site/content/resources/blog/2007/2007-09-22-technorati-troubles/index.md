@@ -5,7 +5,7 @@ date: 2007-09-22
 creator: Martin Hinshelwood
 id: "308"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: technorati-troubles
 aliases:
   - /blog/technorati-troubles
@@ -30,4 +30,3 @@ _UPDATE:_
 _Nope, not working._
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

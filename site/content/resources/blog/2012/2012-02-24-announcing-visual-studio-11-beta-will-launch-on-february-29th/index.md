@@ -5,7 +5,7 @@ date: 2012-02-24
 creator: Martin Hinshelwood
 id: "4560"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: announcing-visual-studio-11-beta-will-launch-on-february-29th
 aliases:
   - /blog/announcing-visual-studio-11-beta-will-launch-on-february-29th
@@ -37,4 +37,3 @@ Not only should you Go-Live, but it is safe to do so as it is fully supported by
 We have a proven track record of delivering high value consulting that targets the specific areas of Application Lifecycle management. Still not sure?
 
 Go and listen to [Steve and Lori talking about Go-Live with Visual Studio 11 and Northwest Cadence](http://blog.nwcadence.com/go-live-with-visual-studio-11-beta-3/) and then sign up for my [Introduction to Visual Studio 11](http://blog.hinshelwood.com/events/) session I will be delivering Live from the MVP summit next Friday…
-

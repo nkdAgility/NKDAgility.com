@@ -5,7 +5,7 @@ date: 2007-07-29
 creator: Martin Hinshelwood
 id: "357"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-the-net-framework-3-5-beta-2-on-vista
 aliases:
   - /blog/installing-the-net-framework-3-5-beta-2-on-vista
@@ -48,4 +48,3 @@ I did however find more that one hotfix with the same KB number, so I got rid of
 After this I tried VS2008 again...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-

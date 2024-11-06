@@ -13,7 +13,7 @@ isShort: False
 
 # The Product Owner's Role in Maximizing Value
 
-Confused about the difference between a Product Owner and Product Manager in Scrum? This in-depth discussion busts common myths and reveals how the Product Owner is a crucial linchpin in delivering maximum value within Agile teams.
+Confused about the difference between a Product Owner and Product Manager in Scrum?  This in-depth discussion busts common myths and reveals how the Product Owner is a crucial linchpin in delivering maximum value within Agile teams.
 
 Why You Should Watch:
 

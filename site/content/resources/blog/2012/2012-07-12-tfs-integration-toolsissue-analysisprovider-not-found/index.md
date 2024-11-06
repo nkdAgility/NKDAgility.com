@@ -5,7 +5,7 @@ date: 2012-07-12
 creator: Martin Hinshelwood
 id: "6136"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-toolsissue-analysisprovider-not-found
 aliases:
   - /blog/tfs-integration-toolsissue-analysisprovider-not-found
@@ -57,4 +57,3 @@ This problem is easily solved by changing the application settings from .NET Fra
 Now we are cooking.
 
 **Did this solve your problem?**
-

@@ -5,7 +5,7 @@ date: 2012-08-30
 creator: Martin Hinshelwood
 id: "8018"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
 aliases:
   - /blog/tfs-2012-issue-tf30063-you-are-not-authorized-to-access-and-cant-trace-permissions
@@ -68,4 +68,3 @@ I can’t imagine what was trying to be achieved by this… so I will leave you 
 
 [![ImpliedFacePalm](images/ImpliedFacePalm_thumb-6-6.jpg "ImpliedFacePalm")](http://blog.hinshelwood.com/files/2012/08/ImpliedFacePalm.jpg)
 { .post-img }
-

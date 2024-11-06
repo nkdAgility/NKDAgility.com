@@ -5,7 +5,7 @@ date: 2012-06-30
 creator: Martin Hinshelwood
 id: "5702"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
 aliases:
   - /blog/upgrading-tfs-2010-to-tfs-2012-with-vss-migration-and-process-template-consolidation
@@ -414,4 +414,3 @@ That was this week….next week we will be looking at completing the Process Tem
 One project to rule them all…
 
 _\-Are you upgrading tfs from one version to another? Northwest Cadence has experts ready to help you upgrade from any system to TFS. Contact [info@nwcadence.com](mailto:info@nwcadence.com)_ _today to find out how we can help you…_
-

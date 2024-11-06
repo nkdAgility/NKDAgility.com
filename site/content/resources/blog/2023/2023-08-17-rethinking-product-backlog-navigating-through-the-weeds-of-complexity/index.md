@@ -5,7 +5,7 @@ date: 2023-08-17
 creator: Martin Hinshelwood
 id: "49515"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: rethinking-product-backlog-navigating-through-the-weeds-of-complexity
 aliases:
   - /blog/rethinking-product-backlog-navigating-through-the-weeds-of-complexity
@@ -76,4 +76,3 @@ The relationship between strategy and the Product Backlog is subtle. The strateg
 Ultimately, the goal is to create a resilient, adaptable ecosystem capable of thriving amidst the uncertainties of complex product development. This involves creating flexible structures, fostering a culture that values learning and adaptation, and equipping teams with the autonomy to make decisions.
 
 **_What's in your backlog?_**
-

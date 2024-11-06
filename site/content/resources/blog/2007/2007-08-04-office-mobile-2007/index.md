@@ -5,7 +5,7 @@ date: 2007-08-04
 creator: Martin Hinshelwood
 id: "346"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: office-mobile-2007
 aliases:
   - /blog/office-mobile-2007
@@ -26,4 +26,3 @@ I had already installed OneNote to assist with my note taking in the Office as 
 It is good that this is a free update...
 
 Technorati Tags: [WM6](http://technorati.com/tags/WM6) [Answers](http://technorati.com/tags/Answers)
-

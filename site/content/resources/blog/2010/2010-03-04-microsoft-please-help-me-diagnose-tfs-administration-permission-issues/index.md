@@ -5,7 +5,7 @@ date: 2010-03-04
 creator: Martin Hinshelwood
 id: "67"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: microsoft-please-help-me-diagnose-tfs-administration-permission-issues
 aliases:
   - /blog/microsoft-please-help-me-diagnose-tfs-administration-permission-issues
@@ -74,4 +74,3 @@ This would have saved me 30 minutes, although I agree that I should change my na
 </rant>
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS Admin](http://technorati.com/tags/TFS+Admin) [SSW](http://technorati.com/tags/SSW) [TFS 2010](http://technorati.com/tags/TFS+2010)
-

@@ -5,7 +5,7 @@ date: 2012-03-02
 creator: Martin Hinshelwood
 id: "4773"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: you-cant-stack-rank-hierarchical-work-items
 aliases:
   - /blog/you-cant-stack-rank-hierarchical-work-items
@@ -117,4 +117,3 @@ I am always interested in finding out what other scenarios there are out there:
 Do you agree?
 
 What reasons do you have for using hierarchy's?
-

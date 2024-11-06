@@ -5,7 +5,7 @@ date: 2013-02-08
 creator: Martin Hinshelwood
 id: "9239"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: improvements-in-visual-studio-alm-from-the-alm-summit
 aliases:
   - /blog/improvements-in-visual-studio-alm-from-the-alm-summit
@@ -92,4 +92,3 @@ There were so many new features that it is hard to pick out a clear favourite. I
 **Figure: Traceability in Team Foundation Server**
 
 We are starting to see the enablement of the traceability story for a wider audience and across more platforms.
-

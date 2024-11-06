@@ -5,7 +5,7 @@ date: 2015-03-11
 creator: Martin Hinshelwood
 id: "11081"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: using-build-vnext-capabilities-demands-system
 aliases:
   - /blog/using-build-vnext-capabilities-demands-system
@@ -75,4 +75,3 @@ If there is no matching build agent then you will be warned when you try to queu
 The new capabilities and demands system in Build vNext gives us the same features as the old tagging system but makes a lot more sense in context. Additionally with the new web interface and the auto detection on the agent of many of the needed values the whole process gets a lot simpler.
 
 I am looking forward to more cool features in Build vNext.
-

@@ -5,7 +5,7 @@ date: 2008-05-15
 creator: Martin Hinshelwood
 id: "227"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: linked-in-codeplex-developers-group
 aliases:
   - /blog/linked-in-codeplex-developers-group
@@ -33,4 +33,3 @@ All members must be a Coordinator of at least one Codeplex project.
 **NOTE: All requests to join these groups will be checked before they will be approved. Please provide a link to your Codeplex profile.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

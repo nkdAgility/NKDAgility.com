@@ -5,7 +5,7 @@ date: 2006-12-15
 creator: Martin Hinshelwood
 id: "447"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
 aliases:
   - /blog/ahhh-the-fun-of-deploying-team-system-in-a-large-corporation
@@ -30,4 +30,3 @@ More on [**Team Foundation Server**](http://geekswithblogs.net/Providers/BlogEnt
 More on [**TFS Deployment**](/hinshelm/category/5992.aspx) from hinshelm.
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

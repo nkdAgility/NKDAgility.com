@@ -5,7 +5,7 @@ date: 2007-03-24
 creator: Martin Hinshelwood
 id: "431"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: advanced-email-content
 aliases:
   - /blog/advanced-email-content
@@ -27,4 +27,3 @@ I guess my question is:
 Has anyone ever sent an xbap to anyone via email? Not a link, actually running in the email window. And if so, how?
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF)
-

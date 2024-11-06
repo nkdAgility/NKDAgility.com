@@ -5,7 +5,7 @@ date: 2012-07-17
 creator: Martin Hinshelwood
 id: "6202"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
 aliases:
   - /blog/migrating-data-from-fogbugz-to-tfs-2012-using-the-tfs-integration-platform
@@ -75,7 +75,8 @@ Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation
     [![image](images/image_thumb25-3-3.png "image")](http://blog.hinshelwood.com/files/2012/07/image25.png)
     { .post-img }
     **Figure: Edit the build events**
-    ```
+
+    ````
     xcopy "$(TargetDir)$(TargetName)_" "$(SolutionDir)..BinariesMyAdapterPlugins_" /y
     xcopy "$(ProjectDir)Configuration*" "$(SolutionDir)..BinariesMyAdapterConfigurations*" /y /s
     xcopy "$(SolutionDir)..BinariesMyAdapter*" "%ProgramFiles(x86)%Microsoft Team Foundation Server Integration Tools\*" /y /s
@@ -83,6 +84,8 @@ Both of which you will find in “C:Program Files (x86)Microsoft Team Foundation
         ```
 
         **Figure: Add some xcopy statements** 
+
+    ````
 
 3.  Select the Debug Tab
     [![image](images/image_thumb26-4-4.png "image")](http://blog.hinshelwood.com/files/2012/07/image26.png)
@@ -505,4 +508,3 @@ This is the easiest part now that we have our data format and our configuration 
 
 Practice makes perfect ![Smile](images/wlEmoticon-smile4-9-9.png)
 { .post-img }
-

@@ -5,7 +5,7 @@ date: 2013-08-27
 creator: Martin Hinshelwood
 id: "9964"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
 aliases:
   - /blog/the-evolution-of-naked-alm-with-pagelines-dms-for-wordpress
@@ -140,4 +140,3 @@ If you are building a website or blog you will be hard pushed to do better than 
 **What blogging platform do you use?**
 
 **How would you compare it to Pagelines on Wordpress?**
-

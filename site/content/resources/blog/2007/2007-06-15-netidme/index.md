@@ -5,7 +5,7 @@ date: 2007-06-15
 creator: Martin Hinshelwood
 id: "384"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: netidme
 aliases:
   - /blog/netidme
@@ -31,4 +31,3 @@ Hmm, the future is bright...
 You
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [SP 2010](http://technorati.com/tags/SP+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

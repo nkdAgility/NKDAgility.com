@@ -5,7 +5,7 @@ date: 2007-08-05
 creator: Martin Hinshelwood
 id: "342"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: hosted-team-foundation-server
 aliases:
   - /blog/hosted-team-foundation-server
@@ -28,4 +28,3 @@ At this time there is only one commercial hosted team server called [TFS Now](ht
 Check out [TFS Now](http://www.tfsnow.com/ "TFS Now")...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

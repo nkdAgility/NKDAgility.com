@@ -5,7 +5,7 @@ date: 2008-10-28
 creator: Martin Hinshelwood
 id: "178"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
 aliases:
   - /blog/visual-studio-team-system-2008-database-edition-gdr-rc-release-candidate
@@ -30,4 +30,3 @@ tags:
 > \* [Visual Studio Team System](http://msdn2.microsoft.com/en-us/teamsystem/default.aspx "Visual Studio Team System") 2008 Database Edition GDR API Reference
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

@@ -5,7 +5,7 @@ date: 2014-07-09
 creator: Martin Hinshelwood
 id: "10579"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: maven-release-prepare-fails-with-detected-changes-in-jenkins
 aliases:
   - /blog/maven-release-prepare-fails-with-detected-changes-in-jenkins
@@ -86,4 +86,3 @@ target/
 ```
 
 All we need to do now is execute a new build and see that light turn green. This is however a "dry run" build and we still have some work to do to get the rest of the process working, however this is progress. At least I don’t have generated files ruining my day.
-

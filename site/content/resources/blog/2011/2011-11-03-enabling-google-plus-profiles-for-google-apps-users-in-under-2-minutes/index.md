@@ -5,7 +5,7 @@ date: 2011-11-03
 creator: Martin Hinshelwood
 id: "4016"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
 aliases:
   - /blog/enabling-google-plus-profiles-for-google-apps-users-in-under-2-minutes
@@ -46,4 +46,3 @@ Here are the same steps that I show in the video in more detail.
 Go fourth and circle your friends, and remember that [Dustin Hoffman first posited the idea of circles](http://www.youtube.com/watch?v=Kznd0zrSJ2c).
 
 http://www.youtube.com/watch?v=Kznd0zrSJ2c
-

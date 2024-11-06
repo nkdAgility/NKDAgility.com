@@ -26,7 +26,7 @@ Key Takeaways:
 00:27:55 Envy
 00:34:26 Pride
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 If you are struggling with navigating the challenges of agile transformation, my team at NKDAgility can assist you or connect you with a consultant, coach, or trainer suited to your needs. Don't wait any longer, reach out today for a brighter, more agile future!
 

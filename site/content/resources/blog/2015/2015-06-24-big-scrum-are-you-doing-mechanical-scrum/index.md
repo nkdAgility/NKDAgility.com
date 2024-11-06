@@ -5,7 +5,7 @@ date: 2015-06-24
 creator: Martin Hinshelwood
 id: "11355"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: big-scrum-are-you-doing-mechanical-scrum
 aliases:
   - /blog/big-scrum-are-you-doing-mechanical-scrum
@@ -47,4 +47,3 @@ It beggars belief that so many organisations only practice flaccid Scrum and was
 Is your organisation paying lip service to the values and principals? Does it feel more like 'yeeha', or a group of professionals?
 
 Mechanical Scrum is only the start \[[read more...](http://issuu.com/developermagazine/docs/ndc-magazine-1-2015-web/28)\]
-

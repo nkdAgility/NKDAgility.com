@@ -5,7 +5,7 @@ date: 2014-10-22
 creator: Martin Hinshelwood
 id: "10824"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: announcing-scrum-at-scale-workshop-scrum-org
 aliases:
   - /blog/announcing-scrum-at-scale-workshop-scrum-org
@@ -39,4 +39,3 @@ This is why Scrum.org (Ken Schwaber) & Scrum Inc. (Jeff Sutherland) have joined 
 { .post-img }
 
 The first two ever public courses for Scrum at Scale is available: [https://www.scrum.org/courses/scrum-at-scale](https://www.scrum.org/courses/scrum-at-scale)
-

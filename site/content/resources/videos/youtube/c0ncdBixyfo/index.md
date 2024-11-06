@@ -29,7 +29,7 @@ Discover the keys to fostering a positive culture and motivated team. Don't let 
 
 #Scrum #Agile #AgileCulture #ProductTeams #Leadership #TeamEngagement #NKDAgility #AgileConsultant #ScrumMaster #ProductOwner #DevOps
 
-_NKDAgility can help!_ 🚀
+*NKDAgility can help!* 🚀
 
 If you're struggling with similar issues, our experienced team at NKDAgility can provide the guidance and support you need. Request a free consultation: https://nkdagility.com/agile-consulting-coaching/
 Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses/

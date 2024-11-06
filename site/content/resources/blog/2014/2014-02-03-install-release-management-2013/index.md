@@ -5,7 +5,7 @@ date: 2014-02-03
 creator: Martin Hinshelwood
 id: "10353"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: install-release-management-2013
 aliases:
   - /blog/install-release-management-2013
@@ -34,4 +34,3 @@ Have you seen how easy it is to install Release Management 2013 and configure a 
 - Microsoft Deployment Agent 2013
 
 Have you been using Release Management in Visual Studio 2013? How have you been getting on?
-

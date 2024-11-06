@@ -5,7 +5,7 @@ date: 2021-01-04
 creator: Martin Hinshelwood
 id: "44532"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: story-points-velocity-are-a-sign-of-an-unsuccessful-team
 aliases:
   - /blog/story-points-velocity-are-a-sign-of-an-unsuccessful-team
@@ -158,4 +158,3 @@ Using a cycle time scatter plot we can assess and find our confidence levels, an
 You can use this range of confidence levels to determine your current levels of predictability, and monitor the effect of changes that you make to your system on it. If you have an 85% confidence level of 16 days and you're on 2-week Sprints then you have a problem.
 
 This data is not hard to collect and find a full list of awesome metrics in the [Kanban Guide for Scrum Teams](https://nkdagility.com/the-kanban-guide-for-scrum-teams/) from Scrum.org.
-

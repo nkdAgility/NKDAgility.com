@@ -5,7 +5,7 @@ date: 2007-01-30
 creator: Martin Hinshelwood
 id: "416"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: software-development-industrial-revolution
 aliases:
   - /blog/software-development-industrial-revolution
@@ -41,4 +41,3 @@ Team Foundation Server can provide this. I am not saying that it will provide th
 Just as there was an industrial revolution over the steam engine in the early 19th centaury and one in the 1920's witchery Fords production line, Team Foundation Server will push IT into a revolution of its own...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [Fail](http://technorati.com/tags/Fail)
-

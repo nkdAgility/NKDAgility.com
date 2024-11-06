@@ -5,7 +5,7 @@ date: 2013-06-23
 creator: Martin Hinshelwood
 id: "9910"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
 aliases:
   - /blog/issue-tfs2012-2-tf30063-you-are-not-authorized-to-access
@@ -47,4 +47,3 @@ This is not one that I have encountered before and was at a loss to help the cus
 This bug is fixed in Team Foundation Server 2012.3. 2012.3 is currently  at RC2 but it does come with a Go-Live licence meaning that it is fully supported in production. After installing 2012.3 all of the problems went away and the server started functioning normally.
 
 Woot… yet another reason for 2012.3 and Go-Live…
-

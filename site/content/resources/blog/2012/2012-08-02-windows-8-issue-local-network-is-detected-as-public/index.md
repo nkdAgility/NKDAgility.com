@@ -5,7 +5,7 @@ date: 2012-08-02
 creator: Martin Hinshelwood
 id: "6924"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-8-issue-local-network-is-detected-as-public
 aliases:
   - /blog/windows-8-issue-local-network-is-detected-as-public
@@ -63,4 +63,3 @@ location.
 Note: If you cant launch the “Local Computer Policy” then you are running Windows 8 and you need Windows 8 Pro to do this.
 
 **Did this help you?**
-

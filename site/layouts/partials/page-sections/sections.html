@@ -20,6 +20,10 @@
           {{ partial "page-sections/sections-audiences.html" (dict "site" $site "context" .) }} */}}
         {{ else if eq $section.type "taxonomies" }}
           {{ partial "page-sections/sections-taxonomies.html" (dict "site" $site "context" $section) }}
+        {{ else if eq $section.type "phases" }}
+          {{ partial "page-sections/sections-phases.html" (dict "site" $site "context" $section) }}
+        {{ else if eq $section.type "types" }}
+          {{ partial "page-sections/sections-types.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "videos" }}
           {{ partial "page-sections/sections-videos.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "cards" }}

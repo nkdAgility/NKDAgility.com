@@ -5,7 +5,7 @@ date: 2007-09-17
 creator: Martin Hinshelwood
 id: "311"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: xbox-360-elite
 aliases:
   - /blog/xbox-360-elite
@@ -26,4 +26,3 @@ To sweeten the deal, I got Medal of Honor: Airbourn for a tenner and ponied up f
 I love my Xbox :)
 
 Technorati Tags: [Xbox](http://technorati.com/tags/Xbox) [Answers](http://technorati.com/tags/Answers)
-

@@ -5,7 +5,7 @@ date: 2016-01-13
 creator: Martin Hinshelwood
 id: "11424"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: branch-policies-tfvc
 aliases:
   - /blog/branch-policies-tfvc
@@ -53,4 +53,3 @@ This is a start and you are welcome to send feedback to \[bla\] in the form of i
 \[[Download Tfvc Branch Policy](http://nkdagility.net/TfsBranchPolicy)\]
 
 You should also feel free to [contribute to this policy on GitHub](https://github.com/nkdAgility/TfvcBranchPolicy) where I will be happy to take pull requests.
-

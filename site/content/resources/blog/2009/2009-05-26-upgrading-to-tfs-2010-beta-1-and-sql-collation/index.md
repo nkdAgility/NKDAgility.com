@@ -5,7 +5,7 @@ date: 2009-05-26
 creator: Martin Hinshelwood
 id: "109"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: upgrading-to-tfs-2010-beta-1-and-sql-collation
 aliases:
   - /blog/upgrading-to-tfs-2010-beta-1-and-sql-collation
@@ -40,4 +40,3 @@ My client has it listed but with a TF31001 error.…
 Solution? Suck it up and reinstall everything, including SQL and change the collation to the same on both servers. :(
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS 2010](http://technorati.com/tags/TFS+2010) [TFS 2008](http://technorati.com/tags/TFS+2008)
-

@@ -5,7 +5,7 @@ date: 2013-04-24
 creator: Martin Hinshelwood
 id: "9468"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: release-management-with-team-foundation-server-2012
 aliases:
   - /blog/release-management-with-team-foundation-server-2012
@@ -131,4 +131,3 @@ This flow of building once and then repeated validation will help weed out those
 **How long is your release process?**
 
 **How sure are you of your quality?**
-

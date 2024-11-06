@@ -3,8 +3,8 @@ id: "49022"
 title: "April 2023 NKDAgility: Applying Professional Scrum"
 date: "2023-04-06"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "april-2023-nkdagility-applying-professional-scrum"
 aliases:
   - /newsletters/april-2023-nkdagility-applying-professional-scrum/

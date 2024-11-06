@@ -5,7 +5,7 @@ date: 2014-11-12
 creator: Martin Hinshelwood
 id: "10886"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2015-side-side-2013-windows-10
 aliases:
   - /blog/installing-visual-studio-2015-side-side-2013-windows-10
@@ -85,4 +85,3 @@ Awesome. I now have both Visual Studio 2013 and Visual Studio 2015 installed sid
 - [Download Visual Studio 2015 Preview](http://www.visualstudio.com/en-us/downloads/visual-studio-2015-downloads-vs)
 
 Its presents from Microsoft time. Go on be a kid again and install Visual Studio 2015.
-

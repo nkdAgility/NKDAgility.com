@@ -5,7 +5,7 @@ date: 2011-03-10
 creator: Martin Hinshelwood
 id: "8"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-team-foundation-server-service-pack-1
 aliases:
   - /blog/installing-visual-studio-team-foundation-server-service-pack-1
@@ -159,4 +159,3 @@ I don’t know if the laptop was just slow, or what…
 **Did you get this error?**
 
 If you did I will push this to the product team as a problem, but unless more people have this sort of error, I will just look to write this off as a corrupted install of Windows and reinstall.
-

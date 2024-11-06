@@ -5,7 +5,7 @@ date: 2011-05-31
 creator: Martin Hinshelwood
 id: "3365"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: what-about-hosting-the-tfs-automation-platform-2
 aliases:
   - /blog/what-about-hosting-the-tfs-automation-platform-2
@@ -55,4 +55,3 @@ What functionality would we loose if we settled for client ony:
 - **more…**
 
 What do you think, are the features above important?
-

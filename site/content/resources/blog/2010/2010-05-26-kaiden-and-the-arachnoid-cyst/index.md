@@ -5,7 +5,7 @@ date: 2010-05-26
 creator: Martin Hinshelwood
 id: "41"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: kaiden-and-the-arachnoid-cyst
 aliases:
   - /blog/kaiden-and-the-arachnoid-cyst
@@ -41,4 +41,3 @@ Some of you may remember when my son [Kaiden was born](http://blog.hinshelwood.c
 [Read more…](http://kaiden.hinshelwood.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

@@ -5,7 +5,7 @@ date: 2007-07-16
 creator: Martin Hinshelwood
 id: "369"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-prototype-feedback
 aliases:
   - /blog/tfs-event-handler-prototype-feedback
@@ -34,4 +34,3 @@ I am looking for the answer to the following questions:
 **Let me know!**
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WIT](http://technorati.com/tags/WIT)
-

@@ -5,7 +5,7 @@ date: 2013-03-20
 creator: Martin Hinshelwood
 id: "9324"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: batched-domain-migration-with-tfs-while-maintaining-identity
 aliases:
   - /blog/batched-domain-migration-with-tfs-while-maintaining-identity
@@ -86,4 +86,3 @@ Either of these two workflows for moving users will work. It depends on how your
 - [In-Place upgrade of TFS 2008 to TFS 2010 with move to new domain](http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/ "http://blog.hinshelwood.com/in-place-upgrade-of-tfs-2008-to-tfs-2010-with-move-to-new-domain/")
 
 Hopefully your domain move goes more smoothly and that you watch out for the pitfalls.
-

@@ -5,7 +5,7 @@ date: 2009-05-18
 creator: Martin Hinshelwood
 id: "121"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: visual-studio-team-system-2010-beta-1-ships
 aliases:
   - /blog/visual-studio-team-system-2010-beta-1-ships
@@ -93,4 +93,3 @@ New WPF UI:
 [VS2010: On Triangles and Performance](http://blogs.msdn.com/jasonz/archive/2009/05/12/vs2010-on-triangles-and-performance.aspx)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [.NET](http://technorati.com/tags/.NET) [TFS Custom](http://technorati.com/tags/TFS+Custom) [TFBS](http://technorati.com/tags/TFBS) [Testing](http://technorati.com/tags/Testing) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [Visual Studio](http://technorati.com/tags/Visual+Studio) [WPF](http://technorati.com/tags/WPF) [MOSS](http://technorati.com/tags/MOSS) [VS 2010](http://technorati.com/tags/VS+2010) [SharePoint](http://technorati.com/tags/SharePoint)
-

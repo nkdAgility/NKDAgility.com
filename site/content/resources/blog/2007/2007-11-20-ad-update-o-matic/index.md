@@ -5,7 +5,7 @@ date: 2007-11-20
 creator: Martin Hinshelwood
 id: "290"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: ad-update-o-matic
 aliases:
   - /blog/ad-update-o-matic
@@ -32,4 +32,3 @@ One of the guys from infrastructure are coming over this afternoon to run the ap
 { .post-img }
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-

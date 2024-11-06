@@ -5,7 +5,7 @@ date: 2014-05-21
 creator: Martin Hinshelwood
 id: "10538"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: mask-password-in-jenkins-when-calling-tee
 aliases:
   - /blog/mask-password-in-jenkins-when-calling-tee
@@ -57,4 +57,3 @@ Eventually I looked in the build configuration and I found this…
 { .post-img }
 
 So for each specific job you can activate the "Mask passwords" option in the Build Environment section and all passwords are magically hidden in your builds. Awesome! How did I miss that…
-

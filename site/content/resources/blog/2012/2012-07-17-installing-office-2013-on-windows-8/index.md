@@ -5,7 +5,7 @@ date: 2012-07-17
 creator: Martin Hinshelwood
 id: "6306"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-office-2013-on-windows-8
 aliases:
   - /blog/installing-office-2013-on-windows-8
@@ -76,4 +76,3 @@ I love the new feature of Office 2013 and its the spit and polish that makes me 
 { .post-img }
 
 **What do you think of Office 2013?**
-

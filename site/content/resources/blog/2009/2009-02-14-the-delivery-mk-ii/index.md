@@ -5,7 +5,7 @@ date: 2009-02-14
 creator: Martin Hinshelwood
 id: "140"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: the-delivery-mk-ii
 aliases:
   - /blog/the-delivery-mk-ii

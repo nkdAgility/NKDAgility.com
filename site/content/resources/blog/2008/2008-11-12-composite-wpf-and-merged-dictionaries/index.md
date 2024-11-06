@@ -5,7 +5,7 @@ date: 2008-11-12
 creator: Martin Hinshelwood
 id: "170"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: composite-wpf-and-merged-dictionaries
 aliases:
   - /blog/composite-wpf-and-merged-dictionaries
@@ -226,4 +226,3 @@ When this happens the region management is redone and you get a further RegionNa
 So instead of bombing out when you try to add a region of the same name, it will just ignore it. Not ideal, but necessary.
 
 Technorati Tags: [WPF](http://technorati.com/tags/WPF) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [WIT](http://technorati.com/tags/WIT)
-

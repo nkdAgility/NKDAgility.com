@@ -5,7 +5,7 @@ date: 2011-03-03
 creator: Martin Hinshelwood
 id: "9894"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: do-you-know-how-to-move-the-team-foundation-server-cache
 aliases:
   - /blog/do-you-know-how-to-move-the-team-foundation-server-cache
@@ -31,12 +31,14 @@ Moving the Cache is pretty easy and should allow you to organise your server spa
     { .post-img }
 3.  In the application tier web.config (~Application TierWeb Servicesweb.config) add the following setting (to the appSettings section).
     [![SNAGHTML1be463c](images/Do-you-know-how-to-move-the-Team-Foundat_DD94-SNAGHTML1be463c_thumb-4-4.png)](http://blog.hinshelwood.com/files/2011/05/GWB-Windows-Live-Writer-Do-you-know-how-to-move-the-Team-Foundat_DD94-SNAGHTML1be463c.png) **Figure: The web.config for TFS is stored in the application folder**
-    { .post-img } > `    > <appsettings>
+    { .post-img } > ` > <appsettings>
+
     >     ...
     >     <add value="D:" key="dataDirectory" />
     >     ...
+    >
     > </appsettings>
-    >`
+    > `
 
         **Figure: Adding this to the web.config will trigger a restart of the app pool**
 
@@ -48,4 +50,3 @@ Moving the Cache is pretty easy and should allow you to organise your server spa
 4.  The app pool will automatically recycle and Team Web Access will start using the new location.
 
 If you then download a file (not via a proxy) a folder with a GUID should be created immediately in the folder from #1.  If the folder doesn’t appear, then you probably don’t have permissions set up properly.
-

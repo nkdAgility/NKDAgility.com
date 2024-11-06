@@ -5,7 +5,7 @@ date: 2020-06-22
 creator: Martin Hinshelwood
 id: "44452"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: configuring-microsoft-teams-for-live-virtual-training
 aliases:
   - /blog/configuring-microsoft-teams-for-live-virtual-training
@@ -176,4 +176,3 @@ Branding and Custom Domain in action
 ## Conclusion to Configuring Microsoft Teams for Live Virtual Training
 
 While there is a lot of setup and configuration before you can run your first class the holistic experience for students is far better than any of the other platforms that I have used or participated in.
-

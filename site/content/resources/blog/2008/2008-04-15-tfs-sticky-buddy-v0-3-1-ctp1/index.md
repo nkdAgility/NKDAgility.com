@@ -5,7 +5,7 @@ date: 2008-04-15
 creator: Martin Hinshelwood
 id: "239"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-sticky-buddy-v0-3-1-ctp1
 aliases:
   - /blog/tfs-sticky-buddy-v0-3-1-ctp1
@@ -34,4 +34,3 @@ Please remember that this is a CTP and is not fully functional. With this versio
 I have yet to skin the whole application so you will see some bitts that look exactly like the [Family.Show](http://www.vertigo.com/familyshow.aspx) application from [Vertigo](http://www.vertigo.com)... yes I know.. I am a lazy developer...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT)
-

@@ -5,7 +5,7 @@ date: 2017-06-21
 creator: Martin Hinshelwood
 id: "11944"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vsts-sync-migration-tool-update-bugfix
 aliases:
   - /blog/vsts-sync-migration-tool-update-bugfix
@@ -43,4 +43,3 @@ We are working on the documentation, and folks struggle with the concept of the 
 { .post-img }
 
 Install the latest version from chocolate and have it notify you when a new version comes out.
-

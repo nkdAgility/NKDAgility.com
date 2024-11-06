@@ -5,7 +5,7 @@ date: 2014-06-18
 creator: Martin Hinshelwood
 id: "10596"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: getting-service-account-vso-tfs-service-credential-viewer
 aliases:
   - /blog/getting-service-account-vso-tfs-service-credential-viewer
@@ -63,4 +63,3 @@ If you are using Windows 8 you will not get an automatic launch of the applicati
 5.  Done
 
 If you encounter an exception when clicking “Connect” the most likely cause if that you do not have Team Explorer 2013 installed (it should also work with 2012).
-

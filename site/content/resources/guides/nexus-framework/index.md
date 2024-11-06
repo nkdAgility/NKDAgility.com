@@ -1,6 +1,7 @@
 ---
 title: Nexus Guide
-resourceType: guide
+resourceTypes: guide
+layout: guide
 aliases:
   - guides/Nexus-Framework/
   - guides/Nexus-Framework.html
@@ -25,7 +26,6 @@ card:
     content: Learn More
   content: Discover more about Nexus Guide and how it can help you in your Agile journey!
   title: Nexus Guide
-aliases:
 ---
 
 The Definitive Guide to Scaling Scrum with Nexus

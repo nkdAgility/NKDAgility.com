@@ -5,7 +5,7 @@ date: 2008-07-04
 creator: Martin Hinshelwood
 id: "218"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: error-creating-listener-in-team-build
 aliases:
   - /blog/error-creating-listener-in-team-build
@@ -23,4 +23,3 @@ I first tried giving the service account administrator rights, and this did not 
 Happy now…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

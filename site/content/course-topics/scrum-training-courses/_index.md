@@ -38,9 +38,9 @@ sections:
     content:
     type: courses
     related:
-      - /capabilities/training-courses/courses/scrumorg-applying-professional-scrum/
-      - /capabilities/training-courses/courses/scrumorg-professional-scrum-master/
-      - /capabilities/training-courses/courses/scrumorg-professional-scrum-product-owner/
+      - /capabilities/training-courses/scrumorg-applying-professional-scrum/
+      - /capabilities/training-courses/scrumorg-professional-scrum-master/
+      - /capabilities/training-courses/scrumorg-professional-scrum-product-owner/
     source: data
   - title: null
     content: null

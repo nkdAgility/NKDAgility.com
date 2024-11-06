@@ -5,7 +5,7 @@ date: 2009-05-01
 creator: Martin Hinshelwood
 id: "128"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-7-rc
 aliases:
   - /blog/windows-7-rc
@@ -21,4 +21,3 @@ I feel a couple of reinstalls coming on :)
 I have not installed it myself yet, that is a task for the weekend, but you visit “[Windows 7 Release Candidate 1 impressions, insights, and expectations](http://www.engadget.com/2009/04/30/windows-7-release-candidate-1-impressions-insights-and-expecta/)” for more information.
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-

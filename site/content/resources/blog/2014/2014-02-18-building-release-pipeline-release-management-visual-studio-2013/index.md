@@ -5,7 +5,7 @@ date: 2014-02-18
 creator: Martin Hinshelwood
 id: "10372"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: building-release-pipeline-release-management-visual-studio-2013
 aliases:
   - /blog/building-release-pipeline-release-management-visual-studio-2013
@@ -91,4 +91,3 @@ Hopefully you are in the process of merging your operations and development team
 When you put these together, sometimes with a little overlap depending on how progressive your teams are, you get a release pipeline that is, and should be, a challenging gauntlet for your software. Software that makes it through the trial by fire should be stable, and scalable as well as functional.
 
 In other words… Quality.
-

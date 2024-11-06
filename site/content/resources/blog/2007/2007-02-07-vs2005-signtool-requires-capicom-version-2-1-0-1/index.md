@@ -5,7 +5,7 @@ date: 2007-02-07
 creator: Martin Hinshelwood
 id: "435"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: vs2005-signtool-requires-capicom-version-2-1-0-1
 aliases:
   - /blog/vs2005-signtool-requires-capicom-version-2-1-0-1
@@ -26,4 +26,3 @@ Follow these steps
 5. You should now be able to publish via ClickOnce.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET)
-

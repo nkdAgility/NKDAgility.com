@@ -5,7 +5,7 @@ date: 2007-07-14
 creator: Martin Hinshelwood
 id: "372"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: simplify
 aliases:
   - /blog/simplify
@@ -29,4 +29,3 @@ How about the digg this links on the blog pages as well as on the main feed?
 Just some thoughts! Don't ask, don't get.
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

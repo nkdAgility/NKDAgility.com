@@ -5,7 +5,7 @@ date: 2013-04-04
 creator: Martin Hinshelwood
 id: "9359"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
 aliases:
   - /blog/reserve-an-agent-for-a-special-build-in-team-foundation-server-2012
@@ -299,4 +299,3 @@ This process while requiring the customisation of your build process can allow y
 **Figure: Successfully reserved agent and then used same agent**
 
 If we are trying to achieve “configuration as code” then we need to be installing all of our pre-requisites with our build script.
-

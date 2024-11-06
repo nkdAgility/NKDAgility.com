@@ -5,7 +5,7 @@ date: 2012-08-22
 creator: Martin Hinshelwood
 id: "7377"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-integration-tools-issue-sequence-contains-no-elements
 aliases:
   - /blog/tfs-integration-tools-issue-sequence-contains-no-elements
@@ -87,4 +87,3 @@ One work around that I found with the help of [Bill Essary](http://blogs.msdn.co
 3. Rerun action…
 
 **Woot… that solved my issue… did it solve yours?**
-

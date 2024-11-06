@@ -5,7 +5,7 @@ date: 2009-02-20
 creator: Martin Hinshelwood
 id: "136"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-azure-training-kit
 aliases:
   - /blog/windows-azure-training-kit
@@ -38,4 +38,3 @@ The Azure Services Training Kit February update now includes the following conte
 [http://go.microsoft.com/fwlink/?LinkID=130354](http://go.microsoft.com/fwlink/?LinkID=130354 "http://go.microsoft.com/fwlink/?LinkID=130354")
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Azure](http://technorati.com/tags/Azure) [WPF](http://technorati.com/tags/WPF) [TFS](http://technorati.com/tags/TFS)
-

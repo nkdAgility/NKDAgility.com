@@ -5,7 +5,7 @@ date: 2008-06-11
 creator: Martin Hinshelwood
 id: "220"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: outsync-with-proxy-servers
 aliases:
   - /blog/outsync-with-proxy-servers
@@ -32,4 +32,3 @@ Open the \[applicationname\].config file in the install location and add:
 Just above the closing </configuration> tags. This will allow your application to authenticate with a proxy server…
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Personal](http://technorati.com/tags/Personal)
-

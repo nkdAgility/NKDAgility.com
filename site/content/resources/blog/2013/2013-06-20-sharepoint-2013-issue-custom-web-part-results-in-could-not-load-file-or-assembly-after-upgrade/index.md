@@ -5,7 +5,7 @@ date: 2013-06-20
 creator: Martin Hinshelwood
 id: "9905"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
 aliases:
   - /blog/sharepoint-2013-issue-custom-web-part-results-in-could-not-load-file-or-assembly-after-upgrade
@@ -117,4 +117,3 @@ Once you have made your changes you can save and remember to check in to see the
 In this case all of the Register tags with the TagPrefix of "WpNs\*" needs to be removed and any associated controls removed.
 
 This will fix any issues with the pages loading.
-

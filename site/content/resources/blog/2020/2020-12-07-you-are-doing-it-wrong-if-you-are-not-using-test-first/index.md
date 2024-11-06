@@ -5,7 +5,7 @@ date: 2020-12-07
 creator: Martin Hinshelwood
 id: "9469"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: you-are-doing-it-wrong-if-you-are-not-using-test-first
 aliases:
   - /blog/you-are-doing-it-wrong-if-you-are-not-using-test-first
@@ -97,4 +97,3 @@ It's now 2020 and gone are the cowboy days of the late nineties and [early naugh
 There are two main value-adds here. The first is that when a coder creates functionality it does exactly what he intended and we have a record, and executable specification, of what that intent was. The second comes later. When we go to add functionality later we know when we have broken existing functionality and that is one of the most valuable parts of this endeavour.
 
 **Can you imagine how amazing it would be if you could use this executable specification to validate all future changes don’t break your application?**
-

@@ -5,7 +5,7 @@ date: 2020-06-17
 creator: Martin Hinshelwood
 id: "44414"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: live-site-culture-site-reliability-engineering
 aliases:
   - /blog/live-site-culture-site-reliability-engineering
@@ -51,4 +51,3 @@ The following presentation represents mearly a point in time of their evolution 
 https://youtu.be/5bgcpPqcGlw
 
 Presentation: [https://nkdagility.net/3edOLPi](https://nkdagility.net/3edOLPi)
-

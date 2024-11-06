@@ -5,7 +5,7 @@ date: 2010-07-05
 creator: Martin Hinshelwood
 id: "35"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: changing-the-team-project-collection-of-the-team-build-controller
 aliases:
   - /blog/changing-the-team-project-collection-of-the-team-build-controller
@@ -66,4 +66,3 @@ Now that you have the Build Service configured to work against your new Team Pro
 You can now go forth and create builds…
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM),[TFBS](http://technorati.com/tags/TFBS),[TFS 2010](http://technorati.com/tags/TFS+2010)
-

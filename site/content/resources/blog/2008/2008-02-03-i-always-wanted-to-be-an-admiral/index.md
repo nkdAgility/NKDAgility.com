@@ -5,7 +5,7 @@ date: 2008-02-03
 creator: Martin Hinshelwood
 id: "251"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: i-always-wanted-to-be-an-admiral
 aliases:
   - /blog/i-always-wanted-to-be-an-admiral
@@ -23,4 +23,3 @@ Having just watched the entire 3rd series and waiting with bated breath for the 
 I know...I'm a bit sad...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

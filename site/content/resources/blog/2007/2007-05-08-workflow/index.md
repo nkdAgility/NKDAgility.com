@@ -5,7 +5,7 @@ date: 2007-05-08
 creator: Martin Hinshelwood
 id: "401"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: workflow
 aliases:
   - /blog/workflow
@@ -26,4 +26,3 @@ Users could write workflow and host it in the current system, but what I envisio
 Thoughts anyone?
 
 Technorati Tags: [SOA](http://technorati.com/tags/SOA) [WF](http://technorati.com/tags/WF) [WIT](http://technorati.com/tags/WIT)
-

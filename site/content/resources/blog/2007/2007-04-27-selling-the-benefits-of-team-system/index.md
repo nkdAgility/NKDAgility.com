@@ -5,7 +5,7 @@ date: 2007-04-27
 creator: Martin Hinshelwood
 id: "410"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: selling-the-benefits-of-team-system
 aliases:
   - /blog/selling-the-benefits-of-team-system
@@ -28,4 +28,3 @@ Forget getting Team Suit or even Team Editions, at £7000 and £2500 respectivel
 And Remember: _If you build it, they will come._
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [TFS](http://technorati.com/tags/TFS)
-

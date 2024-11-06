@@ -3,8 +3,8 @@ id: "49591"
 title: "July 2023 NKDAgility: Introducing NKD Agility's Next Generation of Agile Practitioners: Transforming Work, Building Success, and Achieving Greatness in the 21st Century!"
 date: "2023-06-29"
 author: "MrHinsh"
-resourceType: newsletter
-layout: resources/single
+resourceTypes: newsletter
+layout: newsletter
 slug: "july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century"
 aliases:
   - /newsletters/july-2023-nkdagility-introducing-nkd-agilitys-next-generation-of-agile-practitioners-transforming-work-building-success-and-achieving-greatness-in-the-21st-century/

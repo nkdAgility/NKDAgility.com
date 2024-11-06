@@ -5,7 +5,7 @@ date: 2010-07-07
 creator: Martin Hinshelwood
 id: "33"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-event-handler-for-team-foundation-server-2010
 aliases:
   - /blog/tfs-event-handler-for-team-foundation-server-2010
@@ -66,4 +66,3 @@ The Email handlers would not work so well in the Scrum environment, but what wou
 \[[Request an event handler](http://tfseventhandler.codeplex.com/WorkItem/Create.aspx?ProjectName=TFSEventHandler)\]
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[TFS Custom](http://technorati.com/tags/TFS+Custom)
-

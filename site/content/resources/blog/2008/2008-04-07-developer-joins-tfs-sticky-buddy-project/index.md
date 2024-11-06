@@ -5,7 +5,7 @@ date: 2008-04-07
 creator: Martin Hinshelwood
 id: "242"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: developer-joins-tfs-sticky-buddy-project
 aliases:
   - /blog/developer-joins-tfs-sticky-buddy-project
@@ -27,4 +27,3 @@ Well, hopefully that is about to change with the addition of [Eric Willeke](http
 Eric, I hope you are good a deciphering convoluted and complicated code that at times borders on the nasty!
 
 Technorati Tags: [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
-

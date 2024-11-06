@@ -13,20 +13,20 @@ isShort: False
 
 # 5 ghosts of agile past. story points
 
-Unraveling the Ghosts of Agile: The Story Point Dilemma - Discover the hidden challenges of story points in Agile. Join Martin in demystifying this widespread issue and explore better alternatives for project success.
+Unraveling the Ghosts of Agile: The Story Point Dilemma - Discover the hidden challenges of story points in Agile. Join Martin in demystifying this widespread issue and explore better alternatives for project success. 
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves deep into the Agile world, unraveling the often misunderstood and misused concept of story points. 🎯 He sheds light on how story points, initially a tool for simplifying project estimation, have become a ghost haunting many Agile teams. 👻 Martin candidly discusses the origin, pitfalls, and the shift from absolute to relative estimation, illuminating how these well-intentioned metrics can lead to dysfunctional team dynamics and misguided project goals. 🔄 Watch as he advocates for a more value-driven approach, focusing on delivering real results rather than chasing arbitrary numbers. 🚀
 
-_Key Takeaways:_
+*Key Takeaways:*
 00:00:00 Story Points: Origins and Apologies
 00:01:00 From Hours to Relative Estimation
 00:02:00 Dysfunctional Dynamics Due to Story Points
 00:03:00 Comparisons and Measurement Issues
 00:04:00 Contractual Implications and Moving Forward
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to balance story points with actual project value, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
 

@@ -13,11 +13,11 @@ isShort: False
 
 # What is empiricism and why is it so critical to great agile
 
-_"Maximizing Value Delivery with Lean-Agile Principles_
+*"Maximizing Value Delivery with Lean-Agile Principles*
 
 Unlock the secrets to enhancing your team's efficiency with lean-agile principles! Dive into a conversation with Martin for sharp insights. 🚀
 
-_Enjoy this video? 🔔 Like and subscribe to our channel:_ https://www.youtube.com/@nakedAgility
+*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
 
 In this video, Martin delves into the world of lean-agile principles with a focus on enhancing value delivery. 🌟 Discover the nuances of project facilitation, the subtleties of team dynamics, and the essential elements of effective product development. With real-life examples and engaging discussion, we’ll take you through the essentials of becoming more responsive and adaptive in today's fast-paced project environments. 📈 Don’t miss out on Martin's expert advice!
 
@@ -28,16 +28,16 @@ In this video, Martin delves into the world of lean-agile principles with a focu
 00:04:00 Enhancing Team Dynamics
 00:05:00 Streamlining the Product Backlog
 
-_NKDAgility can help!_
+*NKDAgility can help!*
 
 If you find it hard to adapt to the fast-paced demands of product development or struggle to synchronize team dynamics, NKDAgility is your go-to resource. Our expertise lies in resolving the complexities that lean-agile enthusiasts thrive on, and that can bog down even the most dedicated teams.
 
 Don't let issues in value delivery slow you down. It's crucial to seek help promptly to maintain momentum!
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
+*You can request a free consultation:* https://nkdagility.com/agile-consulting-coaching/
 _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
 
-Because you don’t just need agility, you need _Naked Agility._
+Because you don’t just need agility, you need *Naked Agility.*
 
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 

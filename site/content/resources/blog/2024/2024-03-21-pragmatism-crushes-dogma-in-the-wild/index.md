@@ -5,7 +5,7 @@ date: 2024-03-21
 creator: Martin Hinshelwood
 id: "51362"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: pragmatism-crushes-dogma-in-the-wild
 aliases:
   - /blog/pragmatism-crushes-dogma-in-the-wild
@@ -49,4 +49,3 @@ Here are the MUST elements from the Scrum Guide:
 As I reflect on the past sessions and the growth observed in the participants, it's clear that Scrum is not a methodology but a philosophy. A philosophy that empowers teams to embrace complexity, adapt to changes, and continuously seek improvements. It's about understanding that the path to success in an ever-changing environment is not through rigid rules but through adaptability and resilience.
 
 **How has pragmatically embracing the philosophy of Scrum enabled you to navigate complexity and adapt to change in your projects?**
-

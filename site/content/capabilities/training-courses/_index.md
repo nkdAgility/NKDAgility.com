@@ -63,6 +63,7 @@ sections:
   - title: Learning Experiances
     type: taxonomies
     source: course-learning-experiences
+    types: [course]
   - title: Corporate Training – Private, In-House Courses
     content: Our private corporate training courses provide a customised and bespoke experinace that is tailored for your orgnaisaton to maximise value.
     type: cards
@@ -84,12 +85,15 @@ sections:
   - title: Find Courses by Accountability
     type: taxonomies
     source: delivery-audiences
+    types: [course]
   - title: Courses by Context
     type: taxonomies
     source: course-topics
+    types: [course]
   - title: Courses by Vendor
     type: taxonomies
     source: course-vendors
+    types: [course]
   - title:
     content:
     type: videos

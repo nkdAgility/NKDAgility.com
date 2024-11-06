@@ -20,7 +20,7 @@ contributors:
     external: https://www.linkedin.com/in/james-powis-agile-product-owner/
 id: "46138"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: hiring-a-professional-product-owner
 aliases:
   - /blog/hiring-a-professional-product-owner
@@ -228,4 +228,3 @@ The key point in the above is the delegation point; we are not thinking that a s
 Sources:
 
 - [Scrum Guide | Scrum Guides](https://scrumguides.org/scrum-guide.html#scrum-master)
-

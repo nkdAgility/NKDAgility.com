@@ -5,7 +5,7 @@ date: 2009-05-26
 creator: Martin Hinshelwood
 id: "107"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: stuck-with-vista
 aliases:
   - /blog/stuck-with-vista
@@ -55,4 +55,3 @@ You can find out loads about what is in it from:
 Hopefully this will work…
 
 Technorati Tags: [Windows](http://technorati.com/tags/Windows)
-

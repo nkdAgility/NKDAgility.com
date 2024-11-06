@@ -1,8 +1,8 @@
 ---
 title: Definition of Ready (DoR)
 description: Definition of Ready can result in significant anti-patterns in teams.
-resourceType: practice
-layout: resources/single
+resourceTypes: practice
+layout: practice
 aliases:
   - practices/Definition-of-Ready-DoR.html
   - learn/agile-delivery-kit/practices/definition-of-ready-dor

@@ -5,7 +5,7 @@ date: 2019-09-01
 creator: Martin Hinshelwood
 id: "39894"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: are-technical-skills-required-to-be-a-scrum-master
 aliases:
   - /blog/are-technical-skills-required-to-be-a-scrum-master
@@ -84,4 +84,3 @@ These masteries for me mean that a Scrum Master needs to be fully familiar with 
 **Does it sound to you as if the Scrum Master can be awesome if they don’t have technical, business, and organisational change skills?**
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-

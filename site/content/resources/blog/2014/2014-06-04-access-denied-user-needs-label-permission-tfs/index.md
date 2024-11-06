@@ -5,7 +5,7 @@ date: 2014-06-04
 creator: Martin Hinshelwood
 id: "10546"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: access-denied-user-needs-label-permission-tfs
 aliases:
   - /blog/access-denied-user-needs-label-permission-tfs
@@ -43,4 +43,3 @@ Mind blown…
 { .post-img }
 
 My solution was to just give contributors access only to labels at the root. This stops that pesky error from occurring in the IDE and really does not pose a security risk.
-

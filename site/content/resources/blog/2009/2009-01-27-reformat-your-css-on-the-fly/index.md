@@ -5,7 +5,7 @@ date: 2009-01-27
 creator: Martin Hinshelwood
 id: "142"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: reformat-your-css-on-the-fly
 aliases:
   - /blog/reformat-your-css-on-the-fly
@@ -135,4 +135,3 @@ Now add the Handler to you web.config
 And you are done :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows) [CodeProject](http://technorati.com/tags/CodeProject)
-

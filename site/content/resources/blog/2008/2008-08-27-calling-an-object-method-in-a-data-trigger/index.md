@@ -5,7 +5,7 @@ date: 2008-08-27
 creator: Martin Hinshelwood
 id: "205"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: calling-an-object-method-in-a-data-trigger
 aliases:
   - /blog/calling-an-object-method-in-a-data-trigger
@@ -358,4 +358,3 @@ During my investigation I came across [WPFix Part 3 (Extension Methods)](http://
 I am looking for an easy solution :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [TFS](http://technorati.com/tags/TFS)
-

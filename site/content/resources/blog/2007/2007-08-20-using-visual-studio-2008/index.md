@@ -5,7 +5,7 @@ date: 2007-08-20
 creator: Martin Hinshelwood
 id: "328"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: using-visual-studio-2008
 aliases:
   - /blog/using-visual-studio-2008
@@ -63,4 +63,3 @@ If you are connecting to a Team Foundation Server you will still need to install
 One of the really nice features in VS2008 the the ability to debug and step through JavaScript! I think I just heard your jaw hitting the floor! That's right, you can debug JavaScript. Oh for this feature 5 years ago...
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS) [VS 2005](http://technorati.com/tags/VS+2005)
-

@@ -5,7 +5,7 @@ date: 2019-08-16
 creator: Martin Hinshelwood
 id: "39682"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-do-you-incorporate-a-design-sprint-in-scrum
 aliases:
   - /blog/how-do-you-incorporate-a-design-sprint-in-scrum
@@ -43,4 +43,3 @@ Ultimately no work should be done in a vacuum or away from the scrutiny of the e
 Linking Team of Teams and Communities of Practice are critical for incorporating all of the skills required to build awesome software.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-

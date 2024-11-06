@@ -5,7 +5,7 @@ date: 2009-12-07
 creator: Martin Hinshelwood
 id: "77"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: create-a-vhd-from-the-windows-7-image-disk
 aliases:
   - /blog/create-a-vhd-from-the-windows-7-image-disk
@@ -97,4 +97,3 @@ In order to achieve this there are a number of things that need done:
 Although this took a long time with 3 long running processes, it will be a lot faster next time as I can start from step #9…
 
 Technorati Tags: [SSW](http://technorati.com/tags/SSW) [Windows](http://technorati.com/tags/Windows)
-

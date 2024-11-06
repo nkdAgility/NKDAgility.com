@@ -5,7 +5,7 @@ date: 2017-11-10
 creator: Martin Hinshelwood
 id: "11456"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: getting-started-with-modern-source-control-system-and-devops
 aliases:
   - /blog/getting-started-with-modern-source-control-system-and-devops
@@ -67,4 +67,3 @@ In order to support these things, I use VSTS as my software development platform
 **Don’t get locked into a limited set of technologies, VSTS supports every technology on every platform.**
 
 Find out more on [Visual Studio Team Services](https://nkdagility.com/training/) from [naked Agility - Martin Hinshelwood](https://nkdagility.com/company/about-martin-hinshelwood/).
-

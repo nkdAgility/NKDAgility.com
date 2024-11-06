@@ -5,7 +5,7 @@ date: 2023-08-31
 creator: Martin Hinshelwood
 id: "49726"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
 aliases:
   - /blog/rethinking-user-stories-a-call-for-clarity-in-product-backlog-management
@@ -64,4 +64,3 @@ By switching our naming to "Product Backlog Items", we can free ourselves from t
 ### Conclusion
 
 Language matters in product development. We can improve communication, increase transparency, and ultimately build better products by rethinking how we describe our work. So let's say goodbye to "User Stories" and hello to "Product Backlog Items". Let's embrace a more flexible and transparent approach to product development, one that recognises the complexity and diversity of our work and gives us the freedom to describe it in the most effective way possible.
-

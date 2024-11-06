@@ -5,7 +5,7 @@ date: 2008-05-15
 creator: Martin Hinshelwood
 id: "226"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: linked-in-vsts-group
 aliases:
   - /blog/linked-in-vsts-group
@@ -30,4 +30,3 @@ If you are a developer who customises or extends Visual Studio Team System then 
 **NOTE: All requests to join these groups will be checked before they will be approved. Evidence of your participation in VSTS development.**
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [TFS Custom](http://technorati.com/tags/TFS+Custom) [Testing](http://technorati.com/tags/Testing) [TFS Admin](http://technorati.com/tags/TFS+Admin) [Version Control](http://technorati.com/tags/Version+Control) [Design](http://technorati.com/tags/Design) [WIT](http://technorati.com/tags/WIT) [Developing](http://technorati.com/tags/Developing) [TFBS](http://technorati.com/tags/TFBS) [TFS](http://technorati.com/tags/TFS)
-

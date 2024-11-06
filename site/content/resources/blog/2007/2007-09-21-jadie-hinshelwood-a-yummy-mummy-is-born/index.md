@@ -5,7 +5,7 @@ date: 2007-09-21
 creator: Martin Hinshelwood
 id: "309"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: jadie-hinshelwood-a-yummy-mummy-is-born
 aliases:
   - /blog/jadie-hinshelwood-a-yummy-mummy-is-born
@@ -25,4 +25,3 @@ It was a hard and long journey, but we [got there in the end](http://jadie.hinsh
 { .post-img }
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-

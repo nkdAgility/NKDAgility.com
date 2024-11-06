@@ -5,7 +5,7 @@ date: 2010-01-09
 creator: Martin Hinshelwood
 id: "72"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
 aliases:
   - /blog/solution-iis-smtp-service-5-5-2-rejected-need-fully-qualified-hostname
@@ -69,4 +69,3 @@ To fix:
 You should now be able to send emails from your site without any problems.
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Windows](http://technorati.com/tags/Windows)
-

@@ -5,7 +5,7 @@ date: 2009-07-30
 creator: Martin Hinshelwood
 id: "95"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-a-data-access-layer-using-unity
 aliases:
   - /blog/creating-a-data-access-layer-using-unity
@@ -236,4 +236,3 @@ Dim dal As IHypotheticalDataBits = DataAccessFactory.Instance.GetDataAccess(Of I
 Any easier and it would be writing for you :)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [Developing](http://technorati.com/tags/Developing) [Version Control](http://technorati.com/tags/Version+Control) [CodeProject](http://technorati.com/tags/CodeProject)
-

@@ -5,7 +5,7 @@ date: 2011-10-25
 creator: Martin Hinshelwood
 id: "3976"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: scrum-with-dev11-creating-a-new-team-project
 aliases:
   - /blog/scrum-with-dev11-creating-a-new-team-project
@@ -23,4 +23,3 @@ Creating a Team Project in the cloud could be daunting, but it is very simple. J
 \[wpvideo 7j9ZdEQ8\]
 
 **Video: Scrum with dev11 - Creating a new Team Project**
-

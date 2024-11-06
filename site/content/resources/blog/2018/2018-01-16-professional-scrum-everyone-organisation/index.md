@@ -5,7 +5,7 @@ date: 2018-01-16
 creator: Martin Hinshelwood
 id: "38287"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: professional-scrum-everyone-organisation
 aliases:
   - /blog/professional-scrum-everyone-organisation
@@ -75,4 +75,3 @@ One of the outcomes of the Professional Scrum Foundations, along with the new kn
 **Healthgrades now has a Backlog of things that need to change in order to facilitate meaningful change.**
 
 With these two things, agile torchbearers who feel empowered and a list of changes, I am hoping that Healthgrades can change their organisation and increase their ability to take advantage of market opportunities as they arise, and out-manoeuvre their competitors with ease. Refine backlog facilitate meaningful change.
-

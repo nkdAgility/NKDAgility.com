@@ -5,7 +5,7 @@ date: 2015-03-17
 creator: Martin Hinshelwood
 id: "11241"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: its-that-time-again-get-ready-to-upgrade-to-tfs-2015
 aliases:
   - /blog/its-that-time-again-get-ready-to-upgrade-to-tfs-2015
@@ -36,4 +36,3 @@ Indeed with [mainstream support for TFS 2010 scheduled to stop in July](http://s
 If you are on a version of TFS prior to 2010 you are so far out of support that a strait upgrade is no longer possible and you will need to stage through TFS 2012. No
 
 Don’t get caught short with no support for your TFS server! Get ready to upgrade to TFS 2015…
-

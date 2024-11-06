@@ -5,7 +5,7 @@ date: 2014-12-12
 creator: Martin Hinshelwood
 id: "10975"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: create-log-entries-release-management
 aliases:
   - /blog/create-log-entries-release-management
@@ -71,4 +71,3 @@ Write-Verbose "applicationAnalyticsKey: $applicationAnalyticsKey" -verbose
 { .post-img }
 
 Well… now I get some output and a lovely log to view for later. While I may not ever look, when I do need something it will be there. Success logs are just as important as failure ones…
-

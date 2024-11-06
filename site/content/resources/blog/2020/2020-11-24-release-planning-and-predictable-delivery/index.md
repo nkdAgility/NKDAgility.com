@@ -5,7 +5,7 @@ date: 2020-11-24
 creator: Martin Hinshelwood
 id: "9714"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: release-planning-and-predictable-delivery
 aliases:
   - /blog/release-planning-and-predictable-delivery
@@ -109,4 +109,3 @@ There are a number of strategies that can help you both stop creating and start 
 - **Use a modern source control system** - A [modern source control system is more than just code management](/blog/getting-started-with-modern-source-control-system-and-devops/), it should include all of the goodies talked about in DevOps practices and beyond.
 
 If you can, do them all, and many more…
-

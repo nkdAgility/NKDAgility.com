@@ -5,7 +5,7 @@ date: 2012-03-26
 creator: Martin Hinshelwood
 id: "4980"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: professional-scrum-foundations-in-salt-lake-city-utah
 aliases:
   - /blog/professional-scrum-foundations-in-salt-lake-city-utah
@@ -92,4 +92,3 @@ I thoroughly enjoyed my time in Utah and I look forward to going back and helpin
 **Figure: Utah was nice, but it is good to be home**
 
 Well it is so long to Utah, another state ticked of my list, and I hope to be back soon…
-

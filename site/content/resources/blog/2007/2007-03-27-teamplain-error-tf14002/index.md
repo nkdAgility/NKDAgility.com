@@ -5,7 +5,7 @@ date: 2007-03-27
 creator: Martin Hinshelwood
 id: "424"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: teamplain-error-tf14002
 aliases:
   - /blog/teamplain-error-tf14002
@@ -33,4 +33,3 @@ This has only hapened to one of my users sos far and not to me at all.
 We will see...
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

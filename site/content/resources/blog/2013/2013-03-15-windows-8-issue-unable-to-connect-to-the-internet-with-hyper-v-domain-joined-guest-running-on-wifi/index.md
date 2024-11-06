@@ -5,7 +5,7 @@ date: 2013-03-15
 creator: Martin Hinshelwood
 id: "9281"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
 aliases:
   - /blog/windows-8-issue-unable-to-connect-to-the-internet-with-hyper-v-domain-joined-guest-running-on-wifi
@@ -78,4 +78,3 @@ The solution is to make sure that all of the features for your Network Bridge ar
 **Figure: Default Network Bridge**
 
 Now I want all of those things when I am on a corporate network, so I just ticked all the boxes and OK’ed the warning and wow… everything now works…
-

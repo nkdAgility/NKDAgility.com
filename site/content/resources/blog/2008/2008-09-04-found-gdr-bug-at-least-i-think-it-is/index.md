@@ -5,7 +5,7 @@ date: 2008-09-04
 creator: Martin Hinshelwood
 id: "198"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: found-gdr-bug-at-least-i-think-it-is
 aliases:
   - /blog/found-gdr-bug-at-least-i-think-it-is
@@ -84,4 +84,3 @@ I have submitted a [Bug](https://connect.microsoft.com/VisualStudio/feedback/Vie
 Bug: [GDR - derived tables](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=366059)
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

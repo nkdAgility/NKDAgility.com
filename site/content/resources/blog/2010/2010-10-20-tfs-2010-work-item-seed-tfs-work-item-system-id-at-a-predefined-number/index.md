@@ -5,7 +5,7 @@ date: 2010-10-20
 creator: Martin Hinshelwood
 id: "21"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
 aliases:
   - /blog/tfs-2010-work-item-seed-tfs-work-item-system-id-at-a-predefined-number
@@ -301,4 +301,3 @@ You can get your work item ID from 0 to 40000 in around 40 minutes with this app
 { .post-img }
 
 Technorati Tags: [TFS](http://technorati.com/tags/TFS),[TFS 2010](http://technorati.com/tags/TFS+2010),[API](http://technorati.com/tags/API)
-

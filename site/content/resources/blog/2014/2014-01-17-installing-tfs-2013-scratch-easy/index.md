@@ -5,7 +5,7 @@ date: 2014-01-17
 creator: Martin Hinshelwood
 id: "10332"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-tfs-2013-scratch-easy
 aliases:
   - /blog/installing-tfs-2013-scratch-easy
@@ -34,4 +34,3 @@ Figure: Install & Configure 101 - TFS 2013 Standard Single Server Install
 This should give you some idea on how to install and configure TFS and how easy it is. Managing TFS is mostly, apart from configuring a backup, a leave alone statement. It mostly manages and maintains itself until you get to large database sizes. And by large I mean terabytes :)
 
 How did you get on with your TFS installs?
-

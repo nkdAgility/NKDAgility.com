@@ -3,7 +3,7 @@ title: "Technically Agile: Blog"
 url: "/resources/blog/"
 layout: section # Hugo will use section.html to render the list of pages
 layout: bloglist
-resourceType: blog
+resourceTypes: blog
 headline:
   title: "tech·nic·al·ly agile"
   subtitle: "Blog: Technically Agile. Deep diving into Scrum, Agility, & DevOps!"

@@ -5,7 +5,7 @@ date: 2008-10-24
 creator: Martin Hinshelwood
 id: "181"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: branch-comparea-life-saver
 aliases:
   - /blog/branch-comparea-life-saver
@@ -20,4 +20,3 @@ In my recent troubles with [branching and merging](http://blog.hinshelwood.com/a
 { .post-img }
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM)
-

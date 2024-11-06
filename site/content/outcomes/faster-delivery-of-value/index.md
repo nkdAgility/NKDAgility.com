@@ -3,7 +3,8 @@ title: Faster Delivery of Value
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
-type: methods
+resourceTypes: method
+layout: methods
 slug: faster-delivery-of-value
 aliases:
   - /outcomes/faster-delivery-of-value/

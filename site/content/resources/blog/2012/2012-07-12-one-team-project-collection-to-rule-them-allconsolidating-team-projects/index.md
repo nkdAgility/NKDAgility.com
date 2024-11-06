@@ -5,7 +5,7 @@ date: 2012-07-12
 creator: Martin Hinshelwood
 id: "6109"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: one-team-project-collection-to-rule-them-allconsolidating-team-projects
 aliases:
   - /blog/one-team-project-collection-to-rule-them-allconsolidating-team-projects
@@ -288,4 +288,3 @@ While it is difficult to migrate data or move data around in Team Foundation Ser
 - Did you mistakenly create multiple Team Project Collections?
 
 If so then give us a call and we can help you fix it…
-

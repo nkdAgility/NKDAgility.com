@@ -5,7 +5,7 @@ date: 2008-08-12
 creator: Martin Hinshelwood
 id: "211"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: updating-to-visual-studio-2008-sp1
 aliases:
   - /blog/updating-to-visual-studio-2008-sp1
@@ -32,4 +32,3 @@ A pure .NET 3.5 SP1 Betas install however (like out web servers) can just be upd
 [Microsoft .NET Framework 3.5 Service Pack 1 RTM](http://www.microsoft.com/downloads/details.aspx?FamilyId=AB99342F-5D1A-413D-8319-81DA479AB0D7&displaylang=en)
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-

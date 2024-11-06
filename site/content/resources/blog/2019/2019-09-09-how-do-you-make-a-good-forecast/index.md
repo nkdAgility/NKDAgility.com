@@ -5,7 +5,7 @@ date: 2019-09-09
 creator: Martin Hinshelwood
 id: "39852"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-do-you-make-a-good-forecast
 aliases:
   - /blog/how-do-you-make-a-good-forecast
@@ -43,4 +43,3 @@ If you have 5 people on a Scrum Team then the cost of running that team is known
 The pushback you get from this transition is generally due to those deep-seated tayloristic ideas and fear of what your company is going to do with all of those Project Managers, Accountants, and HR, as well as those Managers that have to justify their headcount. Don’t surprise them, involve them. Help them understand what the new world will eventually look like, a rough transition timeline, and what other options are open to the folks that you no longer need in their current role. Have them join and form Scrum Teams to solve complex problems and some folks will embrace change and others will not; That's OK.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer and iteration to the best version of it.
-

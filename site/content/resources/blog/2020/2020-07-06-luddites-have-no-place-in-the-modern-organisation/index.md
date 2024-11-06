@@ -5,7 +5,7 @@ date: 2020-07-06
 creator: Martin Hinshelwood
 id: "44507"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: luddites-have-no-place-in-the-modern-organisation
 aliases:
   - /blog/luddites-have-no-place-in-the-modern-organisation
@@ -79,4 +79,3 @@ If you go into Microsoft today and ask them what has changed since they were a t
 The world operates at a much higher frequency than it ever did before and a [lack of learning, innovation, and evolution of our processes, practices, and tools](https://nkdagility.com/blog/bureaucracy-is-the-enemy-of-agility/) is the realm of the Luddite.
 
 **Luddites have no place in the modern organisation #daretochange. Don't be a Luddite!**
-

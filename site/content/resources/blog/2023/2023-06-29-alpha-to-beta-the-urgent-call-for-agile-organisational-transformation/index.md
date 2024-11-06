@@ -5,7 +5,7 @@ date: 2023-06-29
 creator: Martin Hinshelwood
 id: "49485"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
 aliases:
   - /blog/alpha-to-beta-the-urgent-call-for-agile-organisational-transformation
@@ -70,4 +70,3 @@ Here is a list of the books, blogs, and content that may have influenced my idea
 - [OpenSpace Beta](https://www.redforty2.com/openspacebeta)
 
 - [BetaCodex Network - Learn about the Alternative to Management!](https://betacodex.org/home)
-

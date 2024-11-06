@@ -5,7 +5,7 @@ date: 2010-09-16
 creator: Martin Hinshelwood
 id: "25"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: team-foundation-server-2010-event-handling-with-subscribers
 aliases:
   - /blog/team-foundation-server-2010-event-handling-with-subscribers
@@ -256,4 +256,3 @@ This is a heck of a lot easier than subscribing to events through web services, 
 **Which method will you be using?**
 
 Technorati Tags: [TFS Customisation](http://technorati.com/tags/TFS+Customisation),[TFS 2010](http://technorati.com/tags/TFS+2010),[CodeProject](http://technorati.com/tags/CodeProject)
-

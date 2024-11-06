@@ -5,7 +5,7 @@ date: 2012-08-30
 creator: Martin Hinshelwood
 id: "8031"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: my-team-foundation-server-system-accounts-are-changing-what-do-i-do
 aliases:
   - /blog/my-team-foundation-server-system-accounts-are-changing-what-do-i-do
@@ -64,4 +64,3 @@ Here is what you need to do:
 You will need to go round all of your Team Foundation Application Tiers, Team Foundation Build, Team Foundation Proxy, System Centre Virtual Machine Manager, SharePoint Farms, SQL Server Instances, SQL Server Reporting Services instances and SQL Server Analysis Services instances and make sure that you have changed all of the accounts.
 
 Phew…
-

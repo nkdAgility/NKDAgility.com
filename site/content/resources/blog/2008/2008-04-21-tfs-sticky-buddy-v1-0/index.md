@@ -5,7 +5,7 @@ date: 2008-04-21
 creator: Martin Hinshelwood
 id: "236"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-sticky-buddy-v1-0
 aliases:
   - /blog/tfs-sticky-buddy-v1-0
@@ -43,4 +43,3 @@ Use the "Queries" menu to select which work items that you want loaded into your
 If you already have CTP1 or CTP2 you should [update](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx) to the [full release now](http://www.codeplex.com/TFSStickyBuddy/Release/ProjectReleases.aspx)...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [ALM](http://technorati.com/tags/ALM) [WPF](http://technorati.com/tags/WPF) [WIT](http://technorati.com/tags/WIT) [VS 2008](http://technorati.com/tags/VS+2008) [TFS](http://technorati.com/tags/TFS)
-

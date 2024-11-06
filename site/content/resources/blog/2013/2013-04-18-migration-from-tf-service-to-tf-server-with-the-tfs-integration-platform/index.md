@@ -5,7 +5,7 @@ date: 2013-04-18
 creator: Martin Hinshelwood
 id: "9443"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
 aliases:
   - /blog/migration-from-tf-service-to-tf-server-with-the-tfs-integration-platform
@@ -74,4 +74,3 @@ While you can move from Team Foundation Service to Team Foundation Server it wil
 It is not however for the faint of heart… it took us a few hours to figure out the solution above and about 12-15 failed migrations to get it right…
 
 All of this is in the documentation for the TFS Integration Platform…
-

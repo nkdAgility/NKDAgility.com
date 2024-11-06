@@ -5,7 +5,7 @@ date: 2014-03-04
 creator: Martin Hinshelwood
 id: "10378"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: tfs-cross-team-cross-business-line-work-item-tracking
 aliases:
   - /blog/tfs-cross-team-cross-business-line-work-item-tracking
@@ -88,4 +88,3 @@ Things are not all good and there are a few caveats to this approach:
 These issues however are small in comparison to the benefits that are gained by the single Team Project and Team Field approaches detailed above.
 
 How have you solved your organisational requirements in Team Foundation Server?
-

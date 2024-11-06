@@ -5,7 +5,7 @@ date: 2012-08-23
 creator: Martin Hinshelwood
 id: "7610"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
 aliases:
   - /blog/i-messed-up-my-checkin-failure-conflict-resolution-with-the-tfs-integration-tools-now-what
@@ -95,4 +95,3 @@ Wooohooooo…
 **Figure: All of the left over changesets have been migrated**
 
 And thus the padawan becomes the master… or at least… erm… more competent!
-

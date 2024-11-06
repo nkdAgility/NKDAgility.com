@@ -5,7 +5,7 @@ date: 2023-06-21
 creator: Martin Hinshelwood
 id: "49480"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
 aliases:
   - /blog/embrace-uniqueness-why-creating-your-own-scaling-practices-leads-to-business-success
@@ -32,4 +32,3 @@ Nurturing a Culture of Ownership: Creating our own scaling practices encourages 
 In the fast-paced and ever-evolving business landscape, scaling our organisation is critical. While adopting pre-established frameworks and methodologies may be tempting, it is vital to recognise the value of creating our own scaling practices that emerge over time. By preserving our unique DNA, tailoring solutions to our context, fostering agility, learning from others, and nurturing a culture of ownership, we position ourselves for sustainable success.
 
 Let's embrace our distinctiveness, leverage our strengths, and carve our own path towards scaling greatness.
-

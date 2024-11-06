@@ -5,7 +5,7 @@ date: 2011-06-01
 creator: Martin Hinshelwood
 id: "3383"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
 aliases:
   - /blog/how-might-we-implement-the-change-iteration-automation-for-the-tfs-automation-platform
@@ -98,4 +98,3 @@ This particular automation is a very short run thing, but there may be others th
 This process will be a welcome first addition to the TFS Automation Platform and it looks like it is going to exercise at least the UI, Configuration and TFS Job Service sections that we plan on building.
 
 I am really looking forward to getting started on this…
-

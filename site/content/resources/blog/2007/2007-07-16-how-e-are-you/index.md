@@ -5,7 +5,7 @@ date: 2007-07-16
 creator: Martin Hinshelwood
 id: "368"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-e-are-you
 aliases:
   - /blog/how-e-are-you
@@ -28,4 +28,3 @@ my e-ranking: 413/9654
 [Try it yourself](http://www.howeru.com/)
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal) [MOSS](http://technorati.com/tags/MOSS) [SharePoint](http://technorati.com/tags/SharePoint)
-

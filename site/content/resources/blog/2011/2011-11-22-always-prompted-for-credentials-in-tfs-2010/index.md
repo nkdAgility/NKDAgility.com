@@ -5,7 +5,7 @@ date: 2011-11-22
 creator: Martin Hinshelwood
 id: "4071"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: always-prompted-for-credentials-in-tfs-2010
 aliases:
   - /blog/always-prompted-for-credentials-in-tfs-2010
@@ -74,4 +74,3 @@ But, sometimes you get a less than prompt response. How can I solve this in the 
 6. Close all instances of Internet Explorer
 
 Now when you open IE and go to any address that contains your company domain it will automatically pass through your Active Directory identity.
-

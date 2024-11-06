@@ -5,7 +5,7 @@ date: 2008-05-19
 creator: Martin Hinshelwood
 id: "225"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: creating-a-sharepoint-solution
 aliases:
   - /blog/creating-a-sharepoint-solution
@@ -33,4 +33,3 @@ Although this application will not stand alone (although I may have to build a s
 Now I am scared....
 
 Technorati Tags: [.NET](http://technorati.com/tags/.NET) [MOSS](http://technorati.com/tags/MOSS) [SP 2007](http://technorati.com/tags/SP+2007) [SharePoint](http://technorati.com/tags/SharePoint)
-

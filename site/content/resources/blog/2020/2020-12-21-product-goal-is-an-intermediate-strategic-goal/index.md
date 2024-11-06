@@ -5,7 +5,7 @@ date: 2020-12-21
 creator: Martin Hinshelwood
 id: "45309"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: product-goal-is-an-intermediate-strategic-goal
 aliases:
   - /blog/product-goal-is-an-intermediate-strategic-goal
@@ -53,4 +53,3 @@ We need to adopt the key practices of [Product Discovery](https://nkdagility.com
 - **Hypothesis Driven** - To understand the outcome of the experiment we need some sort of hypothesis. This is like an assumption, but with one important distinction; We have a measure that will tell us if our assumption is true. It is the accountability of Product Management (likely as a Product Owner) to validate their assumptions using data and minimise the spend to get there. Running many small experiments where the Delivery Teams create small valuable outcomes that you can test with real users and validate is imperative.
 
 We need to reassess the use of the terms Scope & Failure in light of this new reality and evolve into a lean data-driven organisation based on experimentation and discovery that allows us to adapt to business changes as they arise!
-

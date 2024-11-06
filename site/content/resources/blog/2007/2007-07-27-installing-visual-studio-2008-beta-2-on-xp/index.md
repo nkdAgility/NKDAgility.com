@@ -5,7 +5,7 @@ date: 2007-07-27
 creator: Martin Hinshelwood
 id: "358"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: installing-visual-studio-2008-beta-2-on-xp
 aliases:
   - /blog/installing-visual-studio-2008-beta-2-on-xp
@@ -38,4 +38,3 @@ Min resolution of 1900+
 **Any ideas?**
 
 Technorati Tags: [ALM](http://technorati.com/tags/ALM) [VS 2008](http://technorati.com/tags/VS+2008)
-

@@ -5,7 +5,7 @@ date: 2020-04-01
 creator: Martin Hinshelwood
 id: "44208"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
 aliases:
   - /blog/live-webcast-the-tyranny-of-taylorism-and-how-to-detect-agile-bs
@@ -41,4 +41,3 @@ View Presentation: https://nkdagility.net/30MVagF
 DIB Guide: Detecting Agile BS: https://nkdagility.net/DOD-Detecting​
 
 ​
-

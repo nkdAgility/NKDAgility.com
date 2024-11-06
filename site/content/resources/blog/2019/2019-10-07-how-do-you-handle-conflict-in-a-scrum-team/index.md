@@ -5,7 +5,7 @@ date: 2019-10-07
 creator: Martin Hinshelwood
 id: "39851"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: how-do-you-handle-conflict-in-a-scrum-team
 aliases:
   - /blog/how-do-you-handle-conflict-in-a-scrum-team
@@ -42,4 +42,3 @@ If after all of those avenues have been exhausted then maybe the Team Member is 
 There is nothing wrong with not being a good fit for a team. A team is a group of people, and people don’t always get along and no matters how much you focus on professionalism; there are always individuals that should not be in the same circles. Maybe you need to look for a way to place that person elsewhere in an environment that more suits their personality.
 
 While there are no right answers there are some answers that are better than others. For your given situation select the most right answer, and iteration to the best version of it.
-

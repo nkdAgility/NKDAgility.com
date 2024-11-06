@@ -5,7 +5,7 @@ date: 2007-08-04
 creator: Martin Hinshelwood
 id: "350"
 layout: blog
-resourceType: blog
+resourceTypes: blog
 slug: developer-vindication
 aliases:
   - /blog/developer-vindication
@@ -27,4 +27,3 @@ As I understand it, I would require a [H1B](http://en.wikipedia.org/wiki/H1B_vis
 I am not giving up on this, but there are few other options...
 
 Technorati Tags: [Personal](http://technorati.com/tags/Personal)
-
