@@ -42,10 +42,10 @@
     </div>
     <div class="row my-2 my-lg-5">
       <div class="col-xl-8 d-flex justify-content-center align-items-center">
-        {{ partial "course-parts/carousel.html" . }}
+        {{ partial "delivery-parts/carousel.html" . }}
       </div>
       <div class="col-xl-4 d-flex justify-content-center">
-        {{ partial "course-parts/coursefound-summery.html" . }}
+        {{ partial "delivery-parts/coursefound-summery.html" . }}
       </div>
     </div>
   </section>
@@ -69,10 +69,10 @@
   {{ end }}
   {{/*  {{ if eq hugo.Environment "development" }}
     <section class="container my-4" style="max-width: 900px !important">
-      {{ partial "course-parts/events-schedule-single.html" . }}
+      {{ partial "delivery-parts/events-schedule-single.html" . }}
     </section>
   {{ else }}
-    <!-- OFF course-parts/events-schedule-single.html -->
+    <!-- OFF delivery-parts/events-schedule-single.html -->
   {{ end }}  */}}
   {{ if .Page.Params.outcomes }}
     <section class="container my-4" style="max-width: 900px !important">
@@ -123,7 +123,7 @@
   </section>
   {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
     <section class="container my-4" style="max-width: 900px !important">
-      {{ partial "course-parts/syllabus-single.html" . }}
+      {{ partial "delivery-parts/syllabus-single.html" . }}
     </section>
   {{ end }}
 
