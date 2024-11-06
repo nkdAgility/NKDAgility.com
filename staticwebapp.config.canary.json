@@ -1,1 +1,8 @@
-{}
+{
+  "routes": [
+    {
+      "route": "/bibitybobitybo/*",
+      "allowedRoles": ["authenticated"]
+    }
+  ]
+}
