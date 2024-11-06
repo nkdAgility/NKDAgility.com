@@ -11,16 +11,25 @@ $files | ForEach-Object {
     Write-Host "Found file: $($_.FullName)"
 }
 
-# Paths to the main config file and environment-specific config file
+# Paths to main and environment-specific config files
 $rootConfig = "./staticwebapp.config.json"
 $environmentConfig = "./staticwebapp.config.canary.json"
 
-# Check if both target files exist before running jq
+# Check if both target files exist
 if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
     try {
-        # Run jq to merge the two JSON files
-        & jq -s '.[0] * .[1]' $rootConfig $environmentConfig > staticwebapp.config.json
-        Write-Host "Merged JSON files successfully."
+        # Run jq to merge files and capture the output
+        $mergedContent = & jq -s 'reduce .[] as $item ({}; . * $item)' $rootConfig $environmentConfig
+
+        if ($mergedContent -ne "") {
+            # Write the merged content to the output file
+            $mergedContent | Set-Content -Path "./staticwebapp.config.json"
+            Write-Host "Merged JSON files successfully."
+        }
+        else {
+            Write-Host "jq command produced empty output. Check JSON structures in input files."
+            exit 1
+        }
     }
     catch {
         Write-Host "Error merging JSON files with jq: $_"
