@@ -294,7 +294,7 @@ jobs:
           $environmentConfig = "./staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json"
 
           # Check if both target files exist before running jq
-          if (Test-Path -Path $rootConfig -ErrorAction Stop -and Test-Path -Path $environmentConfig -ErrorAction Stop) {
+          if ((Test-Path -Path $rootConfig -ErrorAction Stop) -and (Test-Path -Path $environmentConfig -ErrorAction Stop)) {
               try {
                   # Run jq to merge the two JSON files
                   & jq -s '.[0] * .[1]' $rootConfig $environmentConfig > staticwebapp.config.json
