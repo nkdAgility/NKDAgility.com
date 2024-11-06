@@ -24,6 +24,10 @@
           {{ partial "page-sections/sections-phases.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "types" }}
           {{ partial "page-sections/sections-types.html" (dict "site" $site "context" $section) }}
+        {{ else if eq $section.type "otherpages" }}
+          {{ partial "page-sections/sections-otherpages.html" (dict "site" $site "context" $section) }}
+        {{ else if eq $section.type "trustpilot" }}
+          {{ partial "page-sections/sections-trustpilot.html" (dict "site" $site "context" $section) }}
         {{ else if eq $section.type "videos" }}
           {{ partial "page-sections/sections-videos.html" (dict "site" $site "context" .) }}
         {{ else if eq $section.type "cards" }}

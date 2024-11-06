@@ -9,6 +9,7 @@ preview: T0H1VQQUS-U7NJN36MS-68cf309ca40f-512.png
 people-abilities:
   - Trainer
   - Consultant
+  - Associate
 card:
   button:
     content: More info

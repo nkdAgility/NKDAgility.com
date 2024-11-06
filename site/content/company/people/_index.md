@@ -1,14 +1,6 @@
 ---
 title: Our People
-layout: section
-url: /company/people/
-
+layout: peoplelist
 ---
 
-
-
-
 Overview of all People.
-
-
-

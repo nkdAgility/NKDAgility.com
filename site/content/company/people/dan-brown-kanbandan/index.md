@@ -7,7 +7,7 @@ type: people
 slug: dan-brown-kanbandan
 
 preview: kanban-dan.png
-weight: 500
+weight: 50
 people-abilities:
   - Trainer
   - Consultant

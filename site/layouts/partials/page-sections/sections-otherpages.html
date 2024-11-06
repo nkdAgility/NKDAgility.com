@@ -1,0 +1,23 @@
+{{ $site := .site }}
+{{ $context := .context }}
+<!-- Courses specific rendering -->
+<div class="row">
+  {{ $filteredItems := index .context .context.source }}
+  {{ $count := len $filteredItems }}
+  {{ $colClass := "col-lg-4" }}
+  {{ if eq (mod $count 3) 0 }}
+    {{ $colClass = "col-lg-4" }}
+    <!-- 3 per row -->
+  {{ else if eq (mod $count 2) 0 }}
+    {{ $colClass = "col-lg-6" }}
+    <!-- 2 per row -->
+  {{ end }}
+  {{ range $filteredItems }}
+    {{ $page := $site.GetPage . }}
+    {{ with $page }}
+      <div class="{{ $colClass }} col-sm-12 col-md-12 p-2 d-flex">
+        {{ partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" "view" "permalink" .Permalink ) }}
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
