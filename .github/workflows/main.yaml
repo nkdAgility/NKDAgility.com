@@ -201,6 +201,9 @@ jobs:
         run: |
           Get-ChildItem -Path "${{ github.workspace }}" -Directory | Select-Object -ExpandProperty FullName
           Copy-Item -Path "./staticwebapp.config.json" -Destination ./public/
+          Get-ChildItem -Path "./" -Filter "staticwebapp.config.*.json" | ForEach-Object {
+              Copy-Item -Path $_.FullName -Destination "./public/"
+          }
 
       - name: Check if folder size exceeds 500MB
         shell: pwsh
