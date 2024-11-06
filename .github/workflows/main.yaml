@@ -103,13 +103,13 @@ jobs:
               "Preview" {
                   $Ring = "Preview";
                   $AzureSitesEnvironment = "preview";
-                  $AzureSitesConfig = ""
+                  $AzureSitesConfig = "preview"
                   $docs_baseURL = "/preview"
               }
               default {
                   $Ring = "Canary";
                   $AzureSitesEnvironment = "canary-${{ github.event.pull_request.number }}"
-                  $AzureSitesConfig = ""
+                  $AzureSitesConfig = "canary"
                   $docs_baseURL = "/canary/$branchSafeName"
               }
           }
@@ -282,9 +282,6 @@ jobs:
 
           jq -s '.[0] * .[1]' staticwebapp.config.json staticwebapp.config.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.json > staticwebapp.config.json
           Get-Content -Path .\staticwebapp.config.json
-
-      - name: Output Configuration File
-        run: |
 
       - name: "Find  files"
         shell: pwsh
