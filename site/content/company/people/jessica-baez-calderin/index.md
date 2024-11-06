@@ -7,7 +7,7 @@ type: people
 slug: jessica-baez-calderin
 preview: Jessica-Baez-Calderin.jpg
 people-abilities:
-  - Business
+  - Staff
 card:
   button:
     content: More info

@@ -6,7 +6,7 @@ id: "44267"
 type: people
 slug: russell-miller
 preview: RussellM.jpg
-weight: 500
+weight: 30
 people-abilities:
   - Trainer
   - Consultant
@@ -18,4 +18,11 @@ card:
     <strong>Trainer &amp; Coach</strong>
 
     Maximizing Customer Value ✪ Customer-Centric Leader, Product Manager &amp; Owner ✪ Agile Organization Coach, Engineer, &amp; Solution Architect ✪ Scrum.org Trainer
+sections:
+  - title: What Russell's Customers Say
+    content: |
+
+    type: trustpilot
+    tags: "trainer:Nml4dDMzbkNoYXJhY3Ryekr2AQ=="
+    height: 1200
 ---

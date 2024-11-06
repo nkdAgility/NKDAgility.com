@@ -9,6 +9,7 @@ preview: Fredrik.png
 people-abilities:
   - Trainer
   - Consultant
+  - Associate
 card:
   button:
     content: More info

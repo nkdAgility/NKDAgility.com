@@ -9,6 +9,7 @@ slug: ana-pujana-jimenez
 preview: Ana.jpg
 people-abilities:
   - Consultant
+  - Associate
 card:
   button:
     content: More info

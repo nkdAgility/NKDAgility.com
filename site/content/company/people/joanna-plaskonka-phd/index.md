@@ -8,7 +8,7 @@ slug: joanna-plaskonka-phd
 aliases:
   - joanna-plaskonka-ph-d
 preview: 1651952183458.jpg
-weight: 600
+weight: 20
 people-abilities:
   - Trainer
   - Consultant
@@ -20,4 +20,11 @@ card:
     <strong>Trainer &amp; Coach</strong>
 
     Agile Coach, Consultant, Professional Scrum Trainer (PST), Agile Kata Trainer, Action Learning Coach
+sections:
+  - title: What Joanna's Customers Say
+    content: |
+
+    type: trustpilot
+    tags: "trainer:Nml4dDMzbkNoYXJhY3Ryekr8ANGQUw=="
+    height: 1200
 ---

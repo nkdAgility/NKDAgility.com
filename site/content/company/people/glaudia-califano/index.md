@@ -9,6 +9,7 @@ preview: 0.png
 people-abilities:
   - Trainer
   - Consultant
+  - Associate
 card:
   button:
     content: More info
