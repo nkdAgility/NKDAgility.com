@@ -8,7 +8,7 @@ slug: daryn-basson
 
 preview: Daryn-Basson.jpg
 people-abilities:
-  - Business
+  - Staff
 card:
   button:
     content: More info
