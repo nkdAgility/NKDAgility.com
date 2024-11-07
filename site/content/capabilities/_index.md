@@ -8,7 +8,10 @@ card:
 headline:
   title: What We Do?
   subtitle: No Sales. Only Experts.
-  images: [images/MVP_BlueOnly.png, images/PK-PKT@2x.png, images/Scrumorg-PST_licensed-1000-720x720.png]
+  images:
+    - /images/MVP_BlueOnly.png
+    - /images/PK-PKT@2x.png
+    - /images/Scrumorg-PST_licensed-1000.png
   content: |
     **Tailored services and capabilities in Consulting, Coaching, and Mentoring**
 
