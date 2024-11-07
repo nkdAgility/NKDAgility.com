@@ -3,18 +3,11 @@
     <div class="row p-2">
       <div class="col-12">
         <h1 class="mb-4 nkda-heading-primary">{{ .Title | markdownify }}</h1>
-      </div>
-      <div class="col-12">
-        <div class="text-muted">
-          Published <a href="{{ .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{ .Date }}">{{ .Date.Format "2 January 2006" }}</time></a>
-        </div>
-        <div class="text-muted">{{ partial "resources/contributors.html" . }}</div>
-        <div class="text-muted">
-          {{- $urlPath := strings.Replace .File.Path "\\" "/" -1 -}}
-          Contribute on <a href="{{ site.Params.editURL }}{{ $urlPath }}" target="_blank">GitHub</a>
-        </div>
-        <div class="text-muted">{{ .ReadingTime }} minute read</div>
-        {{ partial "reactions/share-bar.html" . }}
+        {{ if .Params.subtitle }}
+          <h2 class="mb-4 nkda-heading-secondary">{{ .Params.subtitle | markdownify }}</h2>
+        {{ end }}
+        {{ partial "publications/craft.html" . }}
+        {{ partial "publications/share-bar.html" . }}
       </div>
     </div>
   </section>
@@ -26,28 +19,11 @@
   </section>
 
   <section class="container my-5" style="max-width: 700px !important">
-    {{ partial "reactions/share-bar.html" . }}
+    {{ partial "publications/share-bar.html" . }}
   </section>
-  <div id="comments">
-    <section class="container my-5 p-2" style="max-width: 700px !important">
-      <script
-        src="https://giscus.app/client.js"
-        data-repo="nkdAgility/NKDAgility.com"
-        data-repo-id="R_kgDOMvsNvw"
-        data-category="Blog"
-        data-category-id="DIC_kwDOMvsNv84Cjtze"
-        data-mapping="og:title"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="bottom"
-        data-theme="light"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async></script>
-    </section>
-  </div>
+  <section class="container my-5 p-2" style="max-width: 700px !important">
+    {{ partial "publications/comments.html" . }}
+  </section>
 {{ end }}
 
 {{ define "template" }}
