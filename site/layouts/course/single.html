@@ -1,111 +1,111 @@
-{{ define "headline" }}
+{{- define "headline" }}
   <section class="container my-4">
     <div class="row my-2 my-lg-5">
       <div class="col-xl-12 pb-2">
         <h1 class="mb-4 nkda-heading-primary">
-          {{ if .Params.headline }}
-            {{ .Params.headline.title | markdownify }}
-          {{ else }}
-            {{ .Title | markdownify }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.title | markdownify }}
+          {{- else }}
+            {{- .Title | markdownify }}
+          {{- end }}
         </h1>
         <h2 class="mb-4 nkda-heading-secondary">
-          {{ if .Params.headline }}
-            {{ .Params.headline.subtitle | markdownify }}
-          {{ else }}
-            {{ .Params.subtitle | markdownify }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.subtitle | markdownify }}
+          {{- else }}
+            {{- .Params.subtitle | markdownify }}
+          {{- end }}
         </h2>
-        {{ if .Params.headline.buttons }}
+        {{- if .Params.headline.buttons }}
           <div class="mb-4">
-            {{ range .Params.headline.buttons }}
-              {{ $isExternal := strings.HasPrefix .link "http" -}}
-              {{ if $isExternal }}
-                <a href="{{ .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
-                  {{ .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
+            {{- range .Params.headline.buttons }}
+              {{- $isExternal := strings.HasPrefix .link "http" -}}
+              {{- if $isExternal }}
+                <a href="{{- .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
+                  {{- .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
                 </a>
-              {{ else }}
-                <a href="{{ .link | safeURL }}" class="btn btn-nkdprimary p-2">{{ .content }}</a>
-              {{ end }}
-            {{ end }}
+              {{- else }}
+                <a href="{{- .link | safeURL }}" class="btn btn-nkdprimary p-2">{{- .content }}</a>
+              {{- end }}
+            {{- end }}
           </div>
-        {{ end }}
+        {{- end }}
         <p class="nkda-heading-primary-content">
-          {{ if .Params.headline }}
-            {{ .Params.headline.content | markdownify }}
-          {{ else if .Params.card }}
-            {{ .Params.card.content | markdownify }}
-          {{ else }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.content | markdownify }}
+          {{- else if .Params.card }}
+            {{- .Params.card.content | markdownify }}
+          {{- else }}
+          {{- end }}
         </p>
       </div>
     </div>
     <div class="row my-2 my-lg-5">
       <div class="col-xl-8 d-flex justify-content-center align-items-center">
-        {{ partial "delivery-parts/carousel.html" . }}
+        {{- partial "delivery-parts/carousel.html" . }}
       </div>
       <div class="col-xl-4 d-flex justify-content-center">
-        {{ partial "delivery-parts/deliveryfound-summery.html" . }}
+        {{- partial "delivery-parts/deliveryfound-summery.html" . }}
       </div>
     </div>
   </section>
-{{ end }}
+{{- end }}
 
-{{ define "main" }}
-  {{ if .Page.Params.introduction }}
+{{- define "main" }}
+  {{- if .Page.Params.introduction }}
     <section class="container my-4" style="max-width: 900px !important">
-      {{ .Page.Params.introduction | markdownify }}
+      {{- .Page.Params.introduction | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.introduction -->
-  {{ end }}
-  {{ if .Page.Params.overview }}
+  {{- end }}
+  {{- if .Page.Params.overview }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Course Overview</h2>
-      {{ .Page.Params.overview | markdownify }}
+      {{- .Page.Params.overview | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.overview -->
-  {{ end }}
-  {{/*  {{ if eq hugo.Environment "development" }}
+  {{- end }}
+  {{/*  {{- if eq hugo.Environment "development" }}
     <section class="container my-4" style="max-width: 900px !important">
-      {{ partial "delivery-parts/events-schedule-single.html" . }}
+      {{- partial "delivery-parts/events-schedule-single.html" . }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- OFF delivery-parts/events-schedule-single.html -->
-  {{ end }}  */}}
-  {{ if .Page.Params.outcomes }}
+  {{- end }}  */}}
+  {{- if .Page.Params.outcomes }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Course Outcomes</h2>
-      {{ .Page.Params.outcomes | markdownify }}
+      {{- .Page.Params.outcomes | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.outcomes -->
-  {{ end }}
-  {{ if .Page.Params.objectives }}
+  {{- end }}
+  {{- if .Page.Params.objectives }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Course Objectives</h2>
-      {{ .Page.Params.objectives | markdownify }}
+      {{- .Page.Params.objectives | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.objectives -->
-  {{ end }}
-  {{ if .Page.Params.audience }}
+  {{- end }}
+  {{- if .Page.Params.audience }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Who Should Attend this class?</h2>
-      {{ .Page.Params.audience.overview | markdownify }}
+      {{- .Page.Params.audience.overview | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.audience.overview -->
-  {{ end }}
-  {{ if .Page.Params.assessment }}
+  {{- end }}
+  {{- if .Page.Params.assessment }}
     <section class="container my-4" style="max-width: 900px !important">
       <h2>Assessment & Certification</h2>
-      {{ .Page.Params.assessment.content | markdownify }}
+      {{- .Page.Params.assessment.content | markdownify }}
     </section>
-  {{ else }}
+  {{- else }}
     <!-- MISSING .Page.Params.audience.overview -->
-  {{ end }}
+  {{- end }}
   <section class="container my-4" style="max-width: 900px !important">
     <div class="row">
       <div class="col-xl-6">
@@ -121,14 +121,14 @@
       <div class="col-xl-6"></div>
     </div>
   </section>
-  {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
+  {{- if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
     <section class="container my-4" style="max-width: 900px !important">
-      {{ partial "delivery-parts/syllabus-single.html" . }}
+      {{- partial "delivery-parts/syllabus-single.html" . }}
     </section>
-  {{ end }}
+  {{- end }}
 
-{{ end }}
+{{- end }}
 
-{{ define "template" }}
+{{- define "template" }}
   course/single.html
-{{ end }}
+{{- end }}

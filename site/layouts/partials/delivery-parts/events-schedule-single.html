@@ -1,63 +1,63 @@
-{{ if eq hugo.Environment "development" }}
+{{- if eq hugo.Environment "development" }}
   <section class="container my-5">
     <hr />
     <h2>Upcoming Dates</h2>
     <div class="row">
       {{/* Define the number of months for future events */}}
-      {{ $numMonths := 5 }}
-      {{ $fakeEvents := slice }}
+      {{- $numMonths := 5 }}
+      {{- $fakeEvents := slice }}
 
       {{/* Collect months that already have real events */}}
-      {{ $existingMonths := slice }}
-      {{ if .Page.Params.events }}
-        {{ range .Page.Params.events }}
-          {{ $month := .start_date | time.Format "2006-01" }}
-          {{ $existingMonths = $existingMonths | append $month }}
-        {{ end }}
-      {{ end }}
+      {{- $existingMonths := slice }}
+      {{- if .Page.Params.events }}
+        {{- range .Page.Params.events }}
+          {{- $month := .start_date | time.Format "2006-01" }}
+          {{- $existingMonths = $existingMonths | append $month }}
+        {{- end }}
+      {{- end }}
 
       {{/* Generate dynamic events starting from the current month */}}
-      {{ $generatedCount := 0 }}
-      {{ range seq 0 12 }}
+      {{- $generatedCount := 0 }}
+      {{- range seq 0 12 }}
         <!-- Limit range to avoid infinite loop -->
-        {{ if eq (int $generatedCount) $numMonths }}
-          {{ break }}
-        {{ end }}
+        {{- if eq (int $generatedCount) $numMonths }}
+          {{- break }}
+        {{- end }}
 
-        {{ $startDate := now.AddDate 0 (int .) 0 | time.Format "2006-01-02" }}
-        {{ $monthKey := now.AddDate 0 (int .) 0 | time.Format "2006-01" }}
+        {{- $startDate := now.AddDate 0 (int .) 0 | time.Format "2006-01-02" }}
+        {{- $monthKey := now.AddDate 0 (int .) 0 | time.Format "2006-01" }}
 
         {{/* Check if this month already has a real event */}}
-        {{ if not (in $existingMonths $monthKey) }}
+        {{- if not (in $existingMonths $monthKey) }}
           {{/* Create a new fake event for this month */}}
-          {{ $event := dict "start_date" $startDate "location" "Virtual" "type" "preorder" "registration_link" "" "sessions" (slice
+          {{- $event := dict "start_date" $startDate "location" "Virtual" "type" "preorder" "registration_link" "" "sessions" (slice
             (dict "start_datetime" (printf "%sT09:00:00" $startDate) "end_datetime" (printf "%sT17:00:00" $startDate) "timezone" "Europe/London" "syllabus_ids" (slice 1 2 3))
             (dict "start_datetime" (printf "%sT09:00:00" (now.AddDate 0 (int .) 1 | time.Format "2006-01-08")) "end_datetime" (printf "%sT17:00:00" (now.AddDate 0 (int .) 1 | time.Format "2006-01-08")) "timezone" "Europe/London" "syllabus_ids" (slice 4 5 6))
             )
           }}
-          {{ $fakeEvents = $fakeEvents | append $event }}
-          {{ $generatedCount = add (int $generatedCount) 1 }}
-        {{ end }}
-      {{ end }}
+          {{- $fakeEvents = $fakeEvents | append $event }}
+          {{- $generatedCount = add (int $generatedCount) 1 }}
+        {{- end }}
+      {{- end }}
 
       {{/* Combine existing events with the fake events */}}
-      {{ $allEvents := $fakeEvents }}
-      {{ if .Page.Params.events }}
-        {{ $allEvents = $allEvents | append .Page.Params.events }}
-      {{ end }}
+      {{- $allEvents := $fakeEvents }}
+      {{- if .Page.Params.events }}
+        {{- $allEvents = $allEvents | append .Page.Params.events }}
+      {{- end }}
 
       {{/* Sort events by start_date in descending order (latest first) */}}
-      {{ $allEvents = sort $allEvents "start_date" "asc" }}
+      {{- $allEvents = sort $allEvents "start_date" "asc" }}
 
-      {{ if gt (len $allEvents) 0 }}
-        {{ range $index, $card := $allEvents }}
+      {{- if gt (len $allEvents) 0 }}
+        {{- range $index, $card := $allEvents }}
           <div class="col-lg-4 col-sm-12 col-md-12 p-2">
             <!-- Card -->
             <div class="card flex-fill shadow mb-2 flex-fill" style="font-size: 0.8rem;">
               <div class="card-body p-2">
                 <div class="row">
                   <div class="col-12">
-                    <a class="text-nowrap" href="{{ $.Page.Permalink }}" title="{{ $.Page.Title }}"> <i class="fa-thin fa-calendar-days"></i> {{ .start_date }} <i class="fa-light fa-clock"></i> </a>
+                    <a class="text-nowrap" href="{{- $.Page.Permalink }}" title="{{- $.Page.Title }}"> <i class="fa-thin fa-calendar-days"></i> {{- .start_date }} <i class="fa-light fa-clock"></i> </a>
                   </div>
                 </div>
                 <div class="row">
@@ -72,11 +72,11 @@
                         <i class="fa-solid fa-file"></i>
                         </a>
                       */}}
-                      {{ if eq .type "preorder" }}
+                      {{- if eq .type "preorder" }}
                         <a class="btn btn-sm btn-outline-danger text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"> <i class="fa-solid fa-ticket"></i> Preorder </a>
-                      {{ else }}
+                      {{- else }}
                         <a class="btn btn-sm btn-outline-success text-nowrap" href="[wpv-post-url]#BookOnline" title="Purchase your tickets now: discount for bulk buy"> <i class="fa-solid fa-ticket"></i> Book </a>
-                      {{ end }}
+                      {{- end }}
                     </div>
                   </div>
                 </div>
@@ -84,17 +84,17 @@
             </div>
             <!-- Card END -->
           </div>
-        {{ end }}
-      {{ else }}
+        {{- end }}
+      {{- else }}
         <div class="col-12 p-2">
-          We don't have any dates for public events for {{ .Page.Title }} right now.
+          We don't have any dates for public events for {{- .Page.Title }} right now.
           <a href="/subscribe-newsletter/">Sign-up to be the first to know</a>, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.
         </div>
-      {{ end }}
+      {{- end }}
       <div class="col-12 p-2">
         <p>If we don't have dates that suit you then please <a href="/subscribe-newsletter/">sign-up to be the first</a> to know, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.</p>
       </div>
     </div>
     <hr />
   </section>
-{{ end }}
+{{- end }}

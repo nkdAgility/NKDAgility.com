@@ -1,34 +1,34 @@
-{{ define "main" }}
+{{- define "main" }}
   <section class="container my-5">
     <div class="row">
-      {{ range $taxonomyName, $page := .Pages }}
+      {{- range $taxonomyName, $page := .Pages }}
         <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-          {{ if eq .Type "course" }}
+          {{- if eq .Type "course" }}
             <div class="col-xl-4 d-flex p-2">
-              {{ partial "cards-course.html" (dict "context" .) }}
+              {{- partial "cards-course.html" (dict "context" .) }}
             </div>
-          {{ else }}
+          {{- else }}
             <div class="col-xl-4 d-flex p-2">
-              {{ if $page.Params.card }}
-                {{ partial "card.html" (dict "class" "sectioncards" "title" $page.Params.card.title "content" $page.Params.card.content "buttonContent" $page.Params.card.button.content "permalink" $page.Permalink ) }}
-              {{ else }}
-                {{ partial "card.html" (dict "class" "sectioncards" "title" $page.Title "content" $page.Description "buttonContent" "Find out More" "permalink" $page.Permalink ) }}
-              {{ end }}
+              {{- if $page.Params.card }}
+                {{- partial "card.html" (dict "class" "sectioncards" "title" $page.Params.card.title "content" $page.Params.card.content "buttonContent" $page.Params.card.button.content "permalink" $page.Permalink ) }}
+              {{- else }}
+                {{- partial "card.html" (dict "class" "sectioncards" "title" $page.Title "content" $page.Description "buttonContent" "Find out More" "permalink" $page.Permalink ) }}
+              {{- end }}
             </div>
-          {{ end }}
+          {{- end }}
         </div>
-      {{ end }}
+      {{- end }}
     </div>
   </section>
-{{ end }}
+{{- end }}
 
-{{ define "siteSectionCallback" }}
+{{- define "siteSectionCallback" }}
   <section class="container my-5">
     <h2 title="Capabilities - What we do?">Our Services</h2>
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
   </section>
-{{ end }}
-{{ define "template" }}
+{{- end }}
+{{- define "template" }}
   course-vendors/list.html
-{{ end }}
+{{- end }}

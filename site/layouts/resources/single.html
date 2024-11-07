@@ -1,26 +1,26 @@
-{{ define "headline" }}
+{{- define "headline" }}
   <section class="container my-2" style="max-width: 700px !important">
     <div class="row p-2">
       <div class="col-12">
-        <h1 class="mb-4 nkda-heading-primary">{{ .Title | markdownify }}</h1>
-        {{ if .Params.subtitle }}
-          <h2 class="mb-4 nkda-heading-secondary">{{ .Params.subtitle | markdownify }}</h2>
-        {{ end }}
-        {{ partial "publications/craft.html" . }}
-        {{ partial "publications/share-bar.html" . }}
+        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
+        {{- if .Params.subtitle }}
+          <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
+        {{- end }}
+        {{- partial "publications/craft.html" . }}
+        {{- partial "publications/share-bar.html" . }}
       </div>
     </div>
   </section>
-{{ end }}
-{{ define "main" }}
-  <section class="container my-5" style="max-width: 700px !important">{{ .Content }}</section>
+{{- end }}
+{{- define "main" }}
+  <section class="container my-5" style="max-width: 700px !important">{{- .Content }}</section>
   <section class="container my-5" style="max-width: 700px !important">
-    {{ partial "publications/share-bar.html" . }}
+    {{- partial "publications/share-bar.html" . }}
   </section>
   <section class="container my-5 p-2" style="max-width: 700px !important">
-    {{ partial "publications/comments.html" . }}
+    {{- partial "publications/comments.html" . }}
   </section>
-{{ end }}
-{{ define "template" }}
+{{- end }}
+{{- define "template" }}
   resources/single.html
-{{ end }}
+{{- end }}

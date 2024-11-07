@@ -1,10 +1,10 @@
-{{ define "main" }}
+{{- define "main" }}
   <section class="container my-5">
     <h2 title="Outcomes - What you get?">What you get?</h2>
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "outcomes") }}
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "outcomes") }}
   </section>
-{{ end }}
-{{ define "template" }}
+{{- end }}
+{{- define "template" }}
   outcomes/list.html
-{{ end }}
+{{- end }}

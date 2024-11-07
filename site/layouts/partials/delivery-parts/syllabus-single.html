@@ -21,9 +21,9 @@
   </p>
 
   <div class="row">
-    {{ if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
+    {{- if and (not (eq .Page.Params.syllabus nil)) (gt (len .Page.Params.syllabus) 0) }}
       <!-- --->
-      {{ if eq hugo.Environment "development" }}
+      {{- if eq hugo.Environment "development" }}
         <div class="col-xl-6 p-2">
           <!-- Card -->
           <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
@@ -42,109 +42,109 @@
                     <div class="badge text-bg-primary me-1"><i class="fa-brands fa-whatsapp"></i></div>
                     <a href="#" class="text-nowrap overflow-hidden text-truncate">How we run our courses?</a>
                   </li>
-                  {{ if .Page.Params.syllabusBefore }}
-                    {{ range sort .Page.Params.syllabusBefore "weight" }}
+                  {{- if .Page.Params.syllabusBefore }}
+                    {{- range sort .Page.Params.syllabusBefore "weight" }}
                       <li class="list-group-item d-flex align-items-center small">
-                        <div class="badge text-bg-nkdagility-primary me-1">{{ .duration }}m</div>
-                        <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
+                        <div class="badge text-bg-nkdagility-primary me-1">{{- .duration }}m</div>
+                        <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{- .type }}"></i></div>
                         {{- $isExternal := strings.HasPrefix .link "http" -}}
                         {{- if $isExternal }}
-                          <a href="{{ .link | safeURL }}" class="external-link  text-nowrap overflow-hidden text-truncate" target="_blank" rel="noopener noreferrer">
-                            <span class="">{{ .title }}&nbsp;</span>
+                          <a href="{{- .link | safeURL }}" class="external-link  text-nowrap overflow-hidden text-truncate" target="_blank" rel="noopener noreferrer">
+                            <span class="">{{- .title }}&nbsp;</span>
                           </a>
                           <small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
                         {{- else }}
-                          <a href="{{ .link | safeURL }}"> {{ .title }} </a>
+                          <a href="{{- .link | safeURL }}"> {{- .title }} </a>
                         {{- end }}
                       </li>
-                    {{ end }}
-                  {{ end }}
+                    {{- end }}
+                  {{- end }}
                 </ul>
               </div>
             </div>
           </div>
           <!-- Card END -->
         </div>
-      {{ end }}
+      {{- end }}
       <!-- -->
-      {{ range $index, $syllabi := .Page.Params.syllabus }}
+      {{- range $index, $syllabi := .Page.Params.syllabus }}
         <div class="col-xl-6 p-2">
           <!-- Card -->
           <div class="m-2 card sectioncards m-3 shadow text-start flex-fill flex-grow-1 small border-0 h-100 position-relative">
             <div class="card-body p-4 px-20">
               <h3 class="ttl-nkdagility h5 text-start">
-                {{ .title }}
+                {{- .title }}
               </h3>
               <div>
-                <span class="badge text-bg-primary">Module {{ .id }}</span>
-                <span class="badge text-bg-primary"> <i class="fa-light fa-clock"></i> {{ .duration }}+ </span>
+                <span class="badge text-bg-primary">Module {{- .id }}</span>
+                <span class="badge text-bg-primary"> <i class="fa-light fa-clock"></i> {{- .duration }}+ </span>
               </div>
               <div class="card-text text-muted">
-                {{ .content | markdownify }}
+                {{- .content | markdownify }}
               </div>
-              {{ if .learningResources }}
+              {{- if .learningResources }}
                 <div class="m-2"></div>
                 <div>
                   <!-- Toggle buttons with dynamic icons -->
-                  <button class="btn btn-link text-start p-0 toggle-btn" data-bs-toggle="collapse" data-bs-target="#learningResources-{{ $index }}" aria-expanded="true" aria-controls="learningResources-{{ $index }}">
+                  <button class="btn btn-link text-start p-0 toggle-btn" data-bs-toggle="collapse" data-bs-target="#learningResources-{{- $index }}" aria-expanded="true" aria-controls="learningResources-{{- $index }}">
                     <h4 class="card-title nkdagility-primary h6 text-start">
                       Learning Resources
                       <i class="fa fa-chevron-down rotate-icon"></i>
                     </h4>
                   </button>
-                  <div id="learningResources-{{ $index }}" class="collapse show">
+                  <div id="learningResources-{{- $index }}" class="collapse show">
                     <ul class="list-group list-group-flush">
-                      {{ range sort .learningResources "weight" }}
-                        {{ if not .draft }}
+                      {{- range sort .learningResources "weight" }}
+                        {{- if not .draft }}
                           <li class="list-group-item d-flex align-items-center small">
-                            <div class="badge text-bg-nkdagility-primary me-1">{{ .duration }}m</div>
-                            <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{ .type }}"></i></div>
+                            <div class="badge text-bg-nkdagility-primary me-1">{{- .duration }}m</div>
+                            <div class="badge text-bg-secondary me-1"><i class="fa-light fa-{{- .type }}"></i></div>
                             {{- $isExternal := strings.HasPrefix .link "http" -}}
                             {{- if $isExternal }}
-                              <a href="{{ .link | safeURL }}" class="external-link  text-nowrap overflow-hidden text-truncate" target="_blank" rel="noopener noreferrer">
-                                <span class="">{{ .title }}&nbsp;</span>
+                              <a href="{{- .link | safeURL }}" class="external-link  text-nowrap overflow-hidden text-truncate" target="_blank" rel="noopener noreferrer">
+                                <span class="">{{- .title }}&nbsp;</span>
                               </a>
                               <small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
                             {{- else }}
-                              <a href="{{ .link | safeURL }}"> {{ .title }} </a>
+                              <a href="{{- .link | safeURL }}"> {{- .title }} </a>
                             {{- end }}
                           </li>
-                        {{ end }}
-                      {{ end }}
+                        {{- end }}
+                      {{- end }}
                     </ul>
                   </div>
                 </div>
-              {{ end }}
-              {{ if .assignment }}
+              {{- end }}
+              {{- if .assignment }}
                 <div class="m-2"></div>
                 <div>
-                  {{ if .assignment.content }}
-                    <button class="btn btn-link text-start p-0 mt-2 toggle-btn" data-bs-toggle="collapse" data-bs-target="#assignment-{{ $index }}" aria-expanded="false" aria-controls="assignment-{{ $index }}">
+                  {{- if .assignment.content }}
+                    <button class="btn btn-link text-start p-0 mt-2 toggle-btn" data-bs-toggle="collapse" data-bs-target="#assignment-{{- $index }}" aria-expanded="false" aria-controls="assignment-{{- $index }}">
                       <h4 class="card-title nkdagility-primary h6 text-start">
                         Assignment*:
-                        {{ .assignment.title }}
+                        {{- .assignment.title }}
                         <i class="fa fa-chevron-down rotate-icon"></i>
                       </h4>
                     </button>
-                    <div id="assignment-{{ $index }}" class="collapse">
+                    <div id="assignment-{{- $index }}" class="collapse">
                       <div>
-                        {{ .assignment.content | markdownify }}
+                        {{- .assignment.content | markdownify }}
                       </div>
-                      {{ if .assignment.examples }}
+                      {{- if .assignment.examples }}
                         <div>
                           <!-- Button trigger modal -->
-                          <a href="#" class="btn btn-link mt-3" data-bs-toggle="modal" data-bs-target="#examplesModal-{{ $index }}">View Examples</a>
+                          <a href="#" class="btn btn-link mt-3" data-bs-toggle="modal" data-bs-target="#examplesModal-{{- $index }}">View Examples</a>
 
                           <!-- Modal -->
-                          <div class="modal fade" id="examplesModal-{{ $index }}" tabindex="-1" aria-labelledby="examplesModalLabel-{{ $index }}" aria-hidden="true">
+                          <div class="modal fade" id="examplesModal-{{- $index }}" tabindex="-1" aria-labelledby="examplesModalLabel-{{- $index }}" aria-hidden="true">
                             <div class="modal-dialog modal-xl">
                               <div class="modal-content">
                                 <div class="modal-header">
-                                  <h5 class="modal-title" id="examplesModalLabel-{{ $index }}">assignment Examples for {{ .assignment.title }}</h5>
+                                  <h5 class="modal-title" id="examplesModalLabel-{{- $index }}">assignment Examples for {{- .assignment.title }}</h5>
                                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                 </div>
                                 <div class="modal-body">
-                                  {{ .assignment.examples | markdownify }}
+                                  {{- .assignment.examples | markdownify }}
                                 </div>
                                 <div class="modal-footer">
                                   <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -153,21 +153,21 @@
                             </div>
                           </div>
                         </div>
-                      {{ end }}
+                      {{- end }}
                     </div>
-                  {{ else }}
+                  {{- else }}
                     <h4 class="card-title nkdagility-primary h6 text-start">
                       Assignment*:
-                      {{ .assignment.title }}
+                      {{- .assignment.title }}
                     </h4>
-                  {{ end }}
+                  {{- end }}
                 </div>
-              {{ end }}
+              {{- end }}
             </div>
           </div>
           <!-- Card END -->
         </div>
-      {{ end }}
+      {{- end }}
       <!-- CATCHUP-CARD --->
       <div class="col-xl-6 p-2">
         <!-- Card -->
@@ -196,9 +196,9 @@
         <!-- Card END -->
       </div>
       <!-- CATCHUP-CARD --->
-    {{ else }}
+    {{- else }}
       <div class="col-12 p-2">The syllabus is available upon request.</div>
-    {{ end }}
+    {{- end }}
     <div class="col-12 p-4">
       <p>* Assignments are part of our Immersive Training Programs, encouraging participants to apply their learning practically between sessions for a more hands-on experience.</p>
       <p>If we don't have dates that suit you, please <a href="/subscribe-newsletter/">sign up to be the first</a> to know, or <a href="/company/general-inquiries/">contact us</a> for discounts or private training.</p>

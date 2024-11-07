@@ -1,68 +1,68 @@
-{{ $people := .Site.GetPage "section" "company/people" }}
-{{ $company := .Site.GetPage "section" "company" }}
+{{- $people := .Site.GetPage "section" "company/people" }}
+{{- $company := .Site.GetPage "section" "company" }}
 <li class="nav-item dropdown dropdown-mega position-static">
-  <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{ $company.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{ $company.Title }}</a>
+  <a class="nav-link dropdown-toggle nkda-main-menu-top-item p-3" href="{{- $company.Permalink }}" data-bs-toggle="dropdown" data-bs-auto-close="outside">{{- $company.Title }}</a>
   <div class="dropdown-menu shadow">
     <div class="mega-content px-4">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4">
-            <h5>{{ $company.Title }}</h5>
-            <p>{{ $company.Description }}</p>
+            <h5>{{- $company.Title }}</h5>
+            <p>{{- $company.Description }}</p>
             <ul class="list-group">
               <li class="list-group-item">
-                <a href="{{ $company.Permalink }}">Overview</a>
+                <a href="{{- $company.Permalink }}">Overview</a>
               </li>
-              {{ range $company.Pages }}
-                {{ if not .Draft }}
+              {{- range $company.Pages }}
+                {{- if not .Draft }}
                   <li class="list-group-item">
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <a href="{{- .Permalink }}">{{- .Title }}</a>
                   </li>
-                {{ end }}
-              {{ end }}
+                {{- end }}
+              {{- end }}
             </ul>
           </div>
           <div class="col-md-8">
             <h5>Principle Consultants</h5>
             <div class="row">
-              {{ $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Principle") }}
-              {{ range $filtered }}
+              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Principle") }}
+              {{- range $filtered }}
                 <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
-                  <a href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">{{ .Params.card.title }}</a>
+                  <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
                 </div>
-              {{ end }}
+              {{- end }}
             </div>
             <h5>Consultants & Trainers</h5>
             <div class="row">
-              {{ $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Consultant" "Trainer") }}
-              {{ range $filtered }}
-                {{ if and (not (index .Params "people-abilities" | intersect (slice "Associate" "Principle") | len)) (not .Draft) }}
+              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Consultant" "Trainer") }}
+              {{- range $filtered }}
+                {{- if and (not (index .Params "people-abilities" | intersect (slice "Associate" "Principle") | len)) (not .Draft) }}
                   <div class="col-lg-4 col-sm-12 col-md-12 p-2 d-flex">
-                    <a href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">{{ .Params.card.title }}</a>
+                    <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
                   </div>
-                {{ end }}
-              {{ end }}
+                {{- end }}
+              {{- end }}
             </div>
             <h5>Staff</h5>
             <div class="row">
-              {{ range (where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Business")) }}
-                {{ if not .Draft }}
+              {{- range (where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Business")) }}
+                {{- if not .Draft }}
                   <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                    <a href="{{ .Permalink }}">{{ .Params.card.title }}</a>
+                    <a href="{{- .Permalink }}">{{- .Params.card.title }}</a>
                   </div>
-                {{ end }}
-              {{ end }}
+                {{- end }}
+              {{- end }}
             </div>
             <h5>Associates</h5>
             <div class="row">
-              {{ $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Associate" ) }}
-              {{ range $filtered }}
-                {{ if not .Draft }}
+              {{- $filtered := where $people.Pages.ByWeight ".Params.people-abilities" "intersect" (slice "Associate" ) }}
+              {{- range $filtered }}
+                {{- if not .Draft }}
                   <div class="col-lg-4 col-sm-12 col-md-12 p-2">
-                    <a href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">{{ .Params.card.title }}</a>
+                    <a href="{{- .Permalink }}" title="{{- .Params.card.title }} - {{- .Params.card.content | plainify }}">{{- .Params.card.title }}</a>
                   </div>
-                {{ end }}
-              {{ end }}
+                {{- end }}
+              {{- end }}
             </div>
           </div>
         </div>

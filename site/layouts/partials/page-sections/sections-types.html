@@ -1,25 +1,25 @@
-{{ $site := .site }}
-{{ $context := .context }}
+{{- $site := .site }}
+{{- $context := .context }}
 <!-- Courses specific rendering -->
 <div class="row">
-  {{ $filteredItems := where $site.RegularPages.ByWeight "Type" $context.source }}
-  {{ $colClass := "col-xl-4" }}
-  {{ if $context.columns }}
-    {{ $size := int (math.Round (div 12 (int $context.columns))) }}
-    {{ $colClass = printf "col-xl-%d"  $size }}
-  {{ else }}
-    {{ $count := len $filteredItems }}
-    {{ if eq (mod $count 3) 0 }}
-      {{ $colClass = "col-xl-4" }}
+  {{- $filteredItems := where $site.RegularPages.ByWeight "Type" $context.source }}
+  {{- $colClass := "col-xl-4" }}
+  {{- if $context.columns }}
+    {{- $size := int (math.Round (div 12 (int $context.columns))) }}
+    {{- $colClass = printf "col-xl-%d"  $size }}
+  {{- else }}
+    {{- $count := len $filteredItems }}
+    {{- if eq (mod $count 3) 0 }}
+      {{- $colClass = "col-xl-4" }}
       <!-- 3 per row -->
-    {{ else if eq (mod $count 2) 0 }}
-      {{ $colClass = "col-xl-6" }}
+    {{- else if eq (mod $count 2) 0 }}
+      {{- $colClass = "col-xl-6" }}
       <!-- 2 per row -->
-    {{ end }}
-  {{ end }}
-  {{ range $filteredItems }}
-    <div class="{{ $colClass }} p-2 d-flex">
-      {{ partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
+    {{- end }}
+  {{- end }}
+  {{- range $filteredItems }}
+    <div class="{{- $colClass }} p-2 d-flex">
+      {{- partial "card.html" (dict "class" "sectioncards" "title" .Params.card.title "content" .Params.card.content "buttonContent" .Params.card.button.content "permalink" .Permalink ) }}
     </div>
-  {{ end }}
+  {{- end }}
 </div>

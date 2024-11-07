@@ -1,41 +1,41 @@
 <div class="container p-5 text-center">
-  {{ $customers := where .Site.RegularPages "Type" "customers" }}<!-- -->
-  {{ $specificIndustries := slice "Government" }}
-  {{ $generalCustomers := where $customers "Params.customer-industries" "not in" $specificIndustries | union (where $customers "Params.customer-industries" "==" nil) }}
-  {{ $governmentCustomers := where $customers "Params.customer-industries" "in" $specificIndustries }}
+  {{- $customers := where .Site.RegularPages "Type" "customers" }}<!-- -->
+  {{- $specificIndustries := slice "Government" }}
+  {{- $generalCustomers := where $customers "Params.customer-industries" "not in" $specificIndustries | union (where $customers "Params.customer-industries" "==" nil) }}
+  {{- $governmentCustomers := where $customers "Params.customer-industries" "in" $specificIndustries }}
   <h2>Our Happy Clients​</h2>
   <p>We partner with businesses across diverse industries, including finance, insurance, healthcare, pharmaceuticals, technology, engineering, transportation, hospitality, entertainment, legal, government, and military sectors.​</p>
   <div class="row p-2">
-    {{ range first 18 ( shuffle $generalCustomers) }}
-      {{ template "inline-partial-example" . }}
-    {{ end }}
+    {{- range first 18 ( shuffle $generalCustomers) }}
+      {{- template "inline-partial-example" . }}
+    {{- end }}
     <div class="row p-2 m-2 ">
-      {{ range first 6 ( shuffle $governmentCustomers) }}
-        {{ template "inline-partial-example" . }}
-      {{ end }}
+      {{- range first 6 ( shuffle $governmentCustomers) }}
+        {{- template "inline-partial-example" . }}
+      {{- end }}
     </div>
     <div class="row p-2">
-      {{ range first 6 (after 18 (shuffle $generalCustomers)) }}
-        {{ template "inline-partial-example" . }}
-      {{ end }}
+      {{- range first 6 (after 18 (shuffle $generalCustomers)) }}
+        {{- template "inline-partial-example" . }}
+      {{- end }}
     </div>
   </div>
 
-  {{ define "inline-partial-example" }}
+  {{- define "inline-partial-example" }}
     <div class="col-6 col-sm-4 col-lg-2 d-flex d-flex  justify-content-center align-items-center">
-      <div class="flex-fill m-1 justify-content-center align-items-center" title="{{ .Title }}">
-        {{ if .Params.preview }}
-          {{ $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
-          {{ if $image }}
-            {{ $resized := $image.Fit "150x50 jpg" }}
-            <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
-          {{ else }}
+      <div class="flex-fill m-1 justify-content-center align-items-center" title="{{- .Title }}">
+        {{- if .Params.preview }}
+          {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
+          {{- if $image }}
+            {{- $resized := $image.Fit "150x50 jpg" }}
+            <img src="{{- $resized.RelPermalink }}" class="img-fluid" />
+          {{- else }}
             ???
-          {{ end }}
-        {{ else }}
-          <p class="fs-6 align-items-center">{{ .Title }}</p>
-        {{ end }}
+          {{- end }}
+        {{- else }}
+          <p class="fs-6 align-items-center">{{- .Title }}</p>
+        {{- end }}
       </div>
     </div>
-  {{ end }}
+  {{- end }}
 </div>

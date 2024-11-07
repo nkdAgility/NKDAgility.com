@@ -1,23 +1,23 @@
 <!-- layouts/partials/card.html -->
-<div class="{{ .class }} p-2 flex-fill flex-grow-1 h-100">
-  <div class="card {{ .class }}  flex-fill flex-grow-1 m-3 shadow text-start small border-0 h-100 position-relative">
+<div class="{{- .class }} p-2 flex-fill flex-grow-1 h-100">
+  <div class="card {{- .class }}  flex-fill flex-grow-1 m-3 shadow text-start small border-0 h-100 position-relative">
     <div class="card-body p-4 px-20">
-      <h3 class="ttl-nkdagility h5 text-start" title="{{ .title }}">{{ .title }}</h3>
-      <div class="card-text text-muted {{ if .isExpandable }}card-text-expander{{ end }}">
-        {{ .content | markdownify }}
+      <h3 class="ttl-nkdagility h5 text-start" title="{{- .title }}">{{- .title }}</h3>
+      <div class="card-text text-muted {{- if .isExpandable }}card-text-expander{{- end }}">
+        {{- .content | markdownify }}
       </div>
       <span class="show-more">details...</span>
     </div>
-    {{ if .permalink }}
+    {{- if .permalink }}
       <div class="card-footer border-transparent bg-white p-3 text-end border-0">
-        <a href="{{ .permalink }}" class="btn btn-nkdagility p-2" title="More information on {{ .title }}">{{ .buttonContent }} <i class="fa-solid fa-arrow-right"></i></a>
+        <a href="{{- .permalink }}" class="btn btn-nkdagility p-2" title="More information on {{- .title }}">{{- .buttonContent }} <i class="fa-solid fa-arrow-right"></i></a>
       </div>
-    {{ end }}
+    {{- end }}
 
-    {{ if .link }}
+    {{- if .link }}
       <div class="card-footer border-transparent bg-white text-end border-0">
-        <a href="{{ .link }}" class="stretched-link "></a>
+        <a href="{{- .link }}" class="stretched-link "></a>
       </div>
-    {{ end }}
+    {{- end }}
   </div>
 </div>

@@ -1,31 +1,31 @@
-{{ $site := .site }}
-{{ $context := .context }}
+{{- $site := .site }}
+{{- $context := .context }}
 <!-- Courses specific rendering -->
 <div class="row">
-  {{ range $taxonomyName, $terms := .site.Taxonomies }}
-    {{ if eq $taxonomyName $context.source }}
-      {{ $filteredTerms := slice }}
-      {{ range $terms.ByCount }}
-        {{ $matchingPages := where .Pages "Type" "in" $context.types }}
-        {{ if and (gt (len .Pages) 0) (gt (len $matchingPages) 0) }}
-          {{ $filteredTerms = $filteredTerms | append . }}
-        {{ end }}
-      {{ end }}
-      {{ $sortedTerms := first 6 (sort $filteredTerms "Page.Weight" "desc") }}
-      {{ $count := len $sortedTerms }}
-      {{ $colClass := "col-lg-4" }}
-      {{ if eq (mod $count 3) 0 }}
-        {{ $colClass = "col-lg-4" }}
+  {{- range $taxonomyName, $terms := .site.Taxonomies }}
+    {{- if eq $taxonomyName $context.source }}
+      {{- $filteredTerms := slice }}
+      {{- range $terms.ByCount }}
+        {{- $matchingPages := where .Pages "Type" "in" $context.types }}
+        {{- if and (gt (len .Pages) 0) (gt (len $matchingPages) 0) }}
+          {{- $filteredTerms = $filteredTerms | append . }}
+        {{- end }}
+      {{- end }}
+      {{- $sortedTerms := first 6 (sort $filteredTerms "Page.Weight" "desc") }}
+      {{- $count := len $sortedTerms }}
+      {{- $colClass := "col-lg-4" }}
+      {{- if eq (mod $count 3) 0 }}
+        {{- $colClass = "col-lg-4" }}
         <!-- 3 per row -->
-      {{ else if eq (mod $count 2) 0 }}
-        {{ $colClass = "col-lg-6" }}
+      {{- else if eq (mod $count 2) 0 }}
+        {{- $colClass = "col-lg-6" }}
         <!-- 2 per row -->
-      {{ end }}
-      {{ range $sortedTerms }}
-        <div class="{{ $colClass }} col-sm-12 col-md-12 p-2 d-flex">
-          {{ partial "page-sections/sections-taxonomies-card.html" (dict "site" $site "context" . "subTypes" $context.types) }}
+      {{- end }}
+      {{- range $sortedTerms }}
+        <div class="{{- $colClass }} col-sm-12 col-md-12 p-2 d-flex">
+          {{- partial "page-sections/sections-taxonomies-card.html" (dict "site" $site "context" . "subTypes" $context.types) }}
         </div>
-      {{ end }}
-    {{ end }}
-  {{ end }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
 </div>

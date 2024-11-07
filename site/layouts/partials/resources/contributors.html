@@ -1,28 +1,28 @@
 <div class="resource-creator">
   Written by
-  {{ $creator := .Params.creator }}
-  {{ with site.GetPage "company/people" (anchorize $creator) }}
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  {{ else }}
-    {{ $creator }}
-  {{ end }}
+  {{- $creator := .Params.creator }}
+  {{- with site.GetPage "company/people" (anchorize $creator) }}
+    <a href="{{- .RelPermalink }}">{{- .Title }}</a>
+  {{- else }}
+    {{- $creator }}
+  {{- end }}
 
-  {{ if (and .Params.contributors (gt (len .Params.contributors) 0)) }}
+  {{- if (and .Params.contributors (gt (len .Params.contributors) 0)) }}
     and contributed to by
-    {{ range $index, $contributor := .Params.contributors }}
-      {{ with site.GetPage "company/people" (anchorize $contributor.name) }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ else }}
-        {{ if $contributor.external }}
-          <a href="{{ $contributor.external | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
-            {{ $contributor.name }} <small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
+    {{- range $index, $contributor := .Params.contributors }}
+      {{- with site.GetPage "company/people" (anchorize $contributor.name) }}
+        <a href="{{- .RelPermalink }}">{{- .Title }}</a>
+      {{- else }}
+        {{- if $contributor.external }}
+          <a href="{{- $contributor.external | safeURL }}" class="external-link" target="_blank" rel="noopener noreferrer">
+            {{- $contributor.name }} <small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
           </a>
-        {{ else }}
-          {{ $contributor.name }}
-        {{ end }}
-      {{ end }}
+        {{- else }}
+          {{- $contributor.name }}
+        {{- end }}
+      {{- end }}
 
-      {{ if lt (add $index 1) (len $.Params.contributors) }},{{ end }}
-    {{ end }}
-  {{ end }}
+      {{- if lt (add $index 1) (len $.Params.contributors) }},{{- end }}
+    {{- end }}
+  {{- end }}
 </div>

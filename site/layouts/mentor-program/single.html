@@ -1,56 +1,56 @@
-{{ define "headline" }}
+{{- define "headline" }}
   <section class="container my-4">
     <div class="row my-2 my-lg-5">
       <div class="col-xl-12 pb-2">
         <h1 class="mb-4 nkda-heading-primary">
-          {{ if .Params.headline }}
-            {{ .Params.headline.title | markdownify }}
-          {{ else }}
-            {{ .Title | markdownify }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.title | markdownify }}
+          {{- else }}
+            {{- .Title | markdownify }}
+          {{- end }}
         </h1>
         <h2 class="mb-4 nkda-heading-secondary">
-          {{ if .Params.headline }}
-            {{ .Params.headline.subtitle | markdownify }}
-          {{ else }}
-            {{ .Params.subtitle | markdownify }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.subtitle | markdownify }}
+          {{- else }}
+            {{- .Params.subtitle | markdownify }}
+          {{- end }}
         </h2>
-        {{ if .Params.headline.buttons }}
+        {{- if .Params.headline.buttons }}
           <div class="mb-4">
-            {{ range .Params.headline.buttons }}
-              {{ $isExternal := strings.HasPrefix .link "http" -}}
-              {{ if $isExternal }}
-                <a href="{{ .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
-                  {{ .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
+            {{- range .Params.headline.buttons }}
+              {{- $isExternal := strings.HasPrefix .link "http" -}}
+              {{- if $isExternal }}
+                <a href="{{- .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
+                  {{- .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
                 </a>
-              {{ else }}
-                <a href="{{ .link | safeURL }}" class="btn btn-nkdprimary p-2">{{ .content }}</a>
-              {{ end }}
-            {{ end }}
+              {{- else }}
+                <a href="{{- .link | safeURL }}" class="btn btn-nkdprimary p-2">{{- .content }}</a>
+              {{- end }}
+            {{- end }}
           </div>
-        {{ end }}
+        {{- end }}
         <p class="nkda-heading-primary-content">
-          {{ if .Params.headline }}
-            {{ .Params.headline.content | markdownify }}
-          {{ else if .Params.card }}
-            {{ .Params.card.content | markdownify }}
-          {{ else }}
-          {{ end }}
+          {{- if .Params.headline }}
+            {{- .Params.headline.content | markdownify }}
+          {{- else if .Params.card }}
+            {{- .Params.card.content | markdownify }}
+          {{- else }}
+          {{- end }}
         </p>
       </div>
     </div>
     <div class="row my-2 my-lg-5">
       <div class="col-xl-8 d-flex justify-content-center align-items-center">
-        {{ partial "delivery-parts/carousel.html" . }}
+        {{- partial "delivery-parts/carousel.html" . }}
       </div>
       <div class="col-xl-4 d-flex justify-content-center">
-        {{ partial "delivery-parts/deliveryfound-summery.html" . }}
+        {{- partial "delivery-parts/deliveryfound-summery.html" . }}
       </div>
     </div>
   </section>
-{{ end }}
+{{- end }}
 
-{{ define "template" }}
+{{- define "template" }}
   mentor-program/single.html
-{{ end }}
+{{- end }}
