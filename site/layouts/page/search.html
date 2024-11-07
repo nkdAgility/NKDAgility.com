@@ -1,4 +1,4 @@
-{{ define "main" }}
+{{- define "main" }}
   <section class="container my-5">
     <div class="ais-InstantSearch">
       <div class="right-panel">
@@ -9,8 +9,8 @@
       </div>
     </div>
   </section>
-  <script src="{{ "js/algolia/search.js" | relURL }}"></script>
-{{ end }}
-{{ define "template" }}
+  <script src="{{- "js/algolia/search.js" | relURL }}"></script>
+{{- end }}
+{{- define "template" }}
   page/search.html
-{{ end }}
+{{- end }}

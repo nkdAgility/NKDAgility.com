@@ -1,35 +1,35 @@
 <div class="card flex-fill m-2 shadow text-center flex-fill small h-100 flex-grow-1">
-  <h3 class="card-header h6 p-2 text-white text-start" style="font-size:0.8em;background-color: {{ if .context.Params.brandColour }}{{ .context.Params.brandColour }}{{ else }}#713183{{ end }}" title="{{ .context.Title }}">{{ .context.Title }}</h3>
+  <h3 class="card-header h6 p-2 text-white text-start" style="font-size:0.8em;background-color: {{- if .context.Params.brandColour }}{{- .context.Params.brandColour }}{{- else }}#713183{{- end }}" title="{{- .context.Title }}">{{- .context.Title }}</h3>
   <div class="card-header mb-3 p-0 d-none d-lg-block position-relative clearfix">
-    {{ if .context.Params.preview }}
-      {{ $image := .context.Resources.GetMatch (printf "images/%s" .context.Params.preview) }}
-      {{ if $image }}
-        <img class="img-fluid" src="{{ $image.RelPermalink }}" alt="{{ .context.Params.Title }}" />
-      {{ else }}
-        {{ $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
-        <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{ .context.Params.Title }}" />
-      {{ end }}
-    {{ else }}
-      {{ $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
-      <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{ .context.Params.Title }}" />
-    {{ end }}
+    {{- if .context.Params.preview }}
+      {{- $image := .context.Resources.GetMatch (printf "images/%s" .context.Params.preview) }}
+      {{- if $image }}
+        <img class="img-fluid" src="{{- $image.RelPermalink }}" alt="{{- .context.Params.Title }}" />
+      {{- else }}
+        {{- $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
+        <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
+      {{- end }}
+    {{- else }}
+      {{- $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
+      <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
+    {{- end }}
   </div>
   <div class="card-body p-2 px-20 clearfix row">
     <div class="col-3 d-block d-md-none d-sm-none">
-      {{ if .context.Params.previewIcon }}
-        {{ $courseIcon := .context.Resources.GetMatch (printf "images/%s" .context.Params.previewIcon) }}
-        {{ if $courseIcon }}
-          <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" src="{{ $courseIcon.RelPermalink }}" alt="{{ .context.Params.Title }}" />
-        {{ end }}
-      {{ end }}
+      {{- if .context.Params.previewIcon }}
+        {{- $courseIcon := .context.Resources.GetMatch (printf "images/%s" .context.Params.previewIcon) }}
+        {{- if $courseIcon }}
+          <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" src="{{- $courseIcon.RelPermalink }}" alt="{{- .context.Params.Title }}" />
+        {{- end }}
+      {{- end }}
     </div>
     <div class="col-9 col-md-12">
-      <p class="text-muted p-1">{{ .context.Params.card.content | markdownify }}</p>
+      <p class="text-muted p-1">{{- .context.Params.card.content | markdownify }}</p>
     </div>
   </div>
   <div class="card-footer border-transparent bg-white p-1 text-start">
-    <a href="{{ .context.Permalink }}" class="btn btn-primary btn-sm" title="More information on {{ .context.Title }}">More Info <i class="fa-solid fa-arrow-right"></i></a>
-    <a href="/capabilities/training-courses/course-schedule/" class="btn btn-outline-primary btn-sm" title="Search for public {{ .context.Title }} classes">Search</a>
-    <a href="/company/book-online/" class="btn btn-outline-primary btn-sm" title="Check out corporate bookings for {{ .context.Title }}">Private</a>
+    <a href="{{- .context.Permalink }}" class="btn btn-primary btn-sm" title="More information on {{- .context.Title }}">More Info <i class="fa-solid fa-arrow-right"></i></a>
+    <a href="/capabilities/training-courses/course-schedule/" class="btn btn-outline-primary btn-sm" title="Search for public {{- .context.Title }} classes">Search</a>
+    <a href="/company/book-online/" class="btn btn-outline-primary btn-sm" title="Check out corporate bookings for {{- .context.Title }}">Private</a>
   </div>
 </div>

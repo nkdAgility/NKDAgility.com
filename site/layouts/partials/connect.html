@@ -4,11 +4,28 @@
       <!-- Content Section -->
       <div class="col-md-12 text-center">
         <div class="card-body p-4 card-left-border">
-          <h2 class="card-title nkda-heading-primary"> Connect with Martin Hinshelwood </h2>
-          <p class="card-text"> If you've made it this far, it's worth connecting with our principal consultant and coach, Martin Hinshelwood, for a 30-minute 'ask me anything' call. </p>
-          <a href="/company/book-online/" class="btn btn-primary"> Schedule a Teams call </a>
+          <h2 class="card-title nkda-heading-primary">Connect with Martin Hinshelwood</h2>
+          <p class="card-text">If you've made it this far, it's worth connecting with our principal consultant and coach, Martin Hinshelwood, for a 30-minute 'ask me anything' call.</p>
+          <!-- Button to trigger modal -->
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#connectModal">Schedule a Teams call</button>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+<!-- Modal Structure -->
+<div class="modal fade" id="connectModal" tabindex="-1" aria-labelledby="connectModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="connectModalLabel">Schedule a Teams Call with Martin Hinshelwood</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Iframe with embedded link for booking -->
+        <iframe id="myIframe" src="https://outlook.office365.com/owa/calendar/nakedAgilityLimited@nkdagility.com/bookings/" width="100%" height="600px" scrolling="yes" style="border: 0"></iframe>
+      </div>
+    </div>
+  </div>
+</div>

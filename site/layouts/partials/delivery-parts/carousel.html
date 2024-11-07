@@ -1,42 +1,42 @@
-{{ $site := .Site }}
-{{ $Resources := .Resources }}
-{{ if .Params.carousel }}
+{{- $site := .Site }}
+{{- $Resources := .Resources }}
+{{- if .Params.carousel }}
   <div class="swiper mySwiper">
     <div class="swiper-wrapper">
-      {{ range $index, $item := .Params.carousel }}
+      {{- range $index, $item := .Params.carousel }}
         <div class="swiper-slide">
-          {{ if eq $item.type "video" }}
+          {{- if eq $item.type "video" }}
             <!-- Hugo Page (e.g., YouTube Video from 'resources' page) -->
-            {{ $resourcePage := $site.GetPage $item.link }}
-            {{ if $resourcePage }}
+            {{- $resourcePage := $site.GetPage $item.link }}
+            {{- if $resourcePage }}
               <div class="ratio ratio-16x9">
                 <iframe
-                  src="https://www.youtube.com/embed/{{ $resourcePage.Params.videoID }}?enablejsapi=1"
-                  title="{{ $resourcePage.Params.title }}"
+                  src="https://www.youtube.com/embed/{{- $resourcePage.Params.videoID }}?enablejsapi=1"
+                  title="{{- $resourcePage.Params.title }}"
                   allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   enablejsapi="true"
                   allowfullscreen></iframe>
               </div>
-            {{ else }}
-              <p>Video `{{ $item.link }}` not found.</p>
-            {{ end }}
-          {{ else if eq $item.type "image" }}
+            {{- else }}
+              <p>Video `{{- $item.link }}` not found.</p>
+            {{- end }}
+          {{- else if eq $item.type "image" }}
             <!-- Hugo Resource Image or External Image -->
-            {{ $image := $Resources.GetMatch $item.link }}
-            {{ if $image }}
-              {{ if eq $image.MediaType.SubType "svg" }}
-                <img src="{{ $image.RelPermalink }}" class="img-fluid" />
-              {{ else }}
-                {{ $resized := $image.Fit "800x550 webp" }}
-                <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
-              {{ end }}
-            {{ else }}
+            {{- $image := $Resources.GetMatch $item.link }}
+            {{- if $image }}
+              {{- if eq $image.MediaType.SubType "svg" }}
+                <img src="{{- $image.RelPermalink }}" class="img-fluid" />
+              {{- else }}
+                {{- $resized := $image.Fit "800x550 webp" }}
+                <img src="{{- $resized.RelPermalink }}" class="img-fluid" />
+              {{- end }}
+            {{- else }}
               <!-- External Image Fallback if Not Found as Hugo Resource -->
-              <img src="{{ $item.link }}" class="d-block w-100" alt="carousel image" />
-            {{ end }}
-          {{ end }}
+              <img src="{{- $item.link }}" class="d-block w-100" alt="carousel image" />
+            {{- end }}
+          {{- end }}
         </div>
-      {{ end }}
+      {{- end }}
     </div>
 
     <!-- Swiper Pagination and Navigation Controls -->
@@ -88,25 +88,25 @@
       swiper.autoplay.start();
     });
   </script>
-{{ else }}
-  {{ if .Params.preview }}
-    {{ $image := $Resources.GetMatch (printf "images/%s" .Params.preview) }}
-    {{ if not $image }}
-      {{ $image = $Resources.GetMatch .Params.preview }}
-    {{ end }}
-    {{ if $image }}
-      {{ if eq $image.MediaType.SubType "svg" }}
-        <img src="{{ $image.RelPermalink }}" nkd-data="resource/svg" class="img-fluid" />
-      {{ else }}
-        {{ $resized := $image.Fit "800x550 webp" }}
-        <img src="{{ $resized.RelPermalink }}" nkd-data="resource/image" class="img-fluid" />
-      {{ end }}
-    {{ else }}
+{{- else }}
+  {{- if .Params.preview }}
+    {{- $image := $Resources.GetMatch (printf "images/%s" .Params.preview) }}
+    {{- if not $image }}
+      {{- $image = $Resources.GetMatch .Params.preview }}
+    {{- end }}
+    {{- if $image }}
+      {{- if eq $image.MediaType.SubType "svg" }}
+        <img src="{{- $image.RelPermalink }}" nkd-data="resource/svg" class="img-fluid" />
+      {{- else }}
+        {{- $resized := $image.Fit "800x550 webp" }}
+        <img src="{{- $resized.RelPermalink }}" nkd-data="resource/image" class="img-fluid" />
+      {{- end }}
+    {{- else }}
       <!-- External Image Fallback if Not Found as Hugo Resource -->
       <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" nkd-data="fallback/preview" class="d-block w-100" />
-    {{ end }}
-  {{ else }}
+    {{- end }}
+  {{- else }}
     <!-- External Image Fallback if Not Found as Hugo Resource -->
     <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" nkd-data="fallback/no-preview" class="d-block w-100" />
-  {{ end }}
-{{ end }}
+  {{- end }}
+{{- end }}

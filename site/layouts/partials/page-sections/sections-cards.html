@@ -1,27 +1,27 @@
-{{ $site := .site }}
+{{- $site := .site }}
 <!-- Courses specific rendering -->
 <div class="row">
-  {{ if and (not (eq .context.cards nil)) (gt (len .context.cards) 0) }}
+  {{- if and (not (eq .context.cards nil)) (gt (len .context.cards) 0) }}
 
-    {{ $count := len .context.cards }}
-    {{ $colClass := "col-xl-4" }}
-    {{ if eq (mod $count 3) 0 }}
-      {{ $colClass = "col-xl-4" }}
+    {{- $count := len .context.cards }}
+    {{- $colClass := "col-xl-4" }}
+    {{- if eq (mod $count 3) 0 }}
+      {{- $colClass = "col-xl-4" }}
       <!-- 3 per row -->
-    {{ else if eq (mod $count 2) 0 }}
-      {{ $colClass = "col-xl-6" }}
+    {{- else if eq (mod $count 2) 0 }}
+      {{- $colClass = "col-xl-6" }}
       <!-- 2 per row -->
-    {{ end }}
+    {{- end }}
 
-    {{ range $index, $card := .context.cards }}
-      <div class="{{ $colClass }} p-2">
+    {{- range $index, $card := .context.cards }}
+      <div class="{{- $colClass }} p-2">
         <!-- e -->
-        {{ partial "card.html" (dict "class" "sectioncards" "title" $card.title "content" $card.content "buttonContent" $card.button.content "permalink" $card.button.link ) }}
+        {{- partial "card.html" (dict "class" "sectioncards" "title" $card.title "content" $card.content "buttonContent" $card.button.content "permalink" $card.button.link ) }}
       </div>
-    {{ end }}
-  {{ else }}
+    {{- end }}
+  {{- else }}
     <div class="row">
       <div class="col-12 p-2">No courses</div>
     </div>
-  {{ end }}
+  {{- end }}
 </div>

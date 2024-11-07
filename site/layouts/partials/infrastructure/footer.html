@@ -125,7 +125,7 @@
   </div>
   <div class="container-fluid bg-brand-secondary text-white p-3">
     <div class="container">
-      <p>v#{GitVersion.SemVer}# © 2013-{{ now.Format "2006" }} naked Agility Limited, trading as "naked Agility with Martin Hinshelwood" is registered in Scotland. All Rights Reserved</p>
+      <p>v#{GitVersion.SemVer}# © 2013-{{- now.Format "2006" }} naked Agility Limited, trading as "naked Agility with Martin Hinshelwood" is registered in Scotland. All Rights Reserved</p>
     </div>
   </div>
 </footer>
@@ -134,9 +134,9 @@
 <!-- Lightbox -->
 <script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
 <!-- Cards -->
-<script type="text/javascript" src="{{ "js/cards.js" | relURL }}"></script>
+<script type="text/javascript" src="{{- "js/cards.js" | relURL }}"></script>
 <!-- Shopify -->
-<script src="{{ "js/shopify/shopify.js" | relURL }}"></script>
+<script src="{{- "js/shopify/shopify.js" | relURL }}"></script>
 
 <!-- Auth Check -->
-<script src="{{ "js/.auth/check.js" | relURL }}"></script>
+<script src="{{- "js/.auth/check.js" | relURL }}"></script>

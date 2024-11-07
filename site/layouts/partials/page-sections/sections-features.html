@@ -1,91 +1,91 @@
-{{ $context := .context }}
-{{ $Page := .Page }}
+{{- $context := .context }}
+{{- $Page := .Page }}
 <div class="row">
-  {{ with $context.features }}
-    {{ if gt (len .) 0 }}
-      {{ range $index, $features := . }}
-        {{ if .media }}
-          {{ if modBool $index 2 }}
+  {{- with $context.features }}
+    {{- if gt (len .) 0 }}
+      {{- range $index, $features := . }}
+        {{- if .media }}
+          {{- if modBool $index 2 }}
             <!-- odd -->
             <div class="col-12 d-flex p-5">
               <div class="card flex-fill m-2 border-0">
                 <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-1 order-sm-1 order-md-1 order-lg-1">
-                    {{ if .media }}
-                      {{ if strings.HasPrefix .media "/images/" }}
-                        <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
-                          <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                    {{- if .media }}
+                      {{- if strings.HasPrefix .media "/images/" }}
+                        <a href="{{- .media | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
+                          <img src="{{- .media | safeURL }}" alt="{{- .title }}" width="80%" />
                         </a>
-                      {{ else }}
-                        {{ $image := $Page.Resources.GetMatch .media }}
-                        {{ if $image }}
-                          <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
-                            <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                      {{- else }}
+                        {{- $image := $Page.Resources.GetMatch .media }}
+                        {{- if $image }}
+                          <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
+                            <img src="{{- $image.RelPermalink | safeURL }}" alt="{{- .title }}" width="80%" />
                           </a>
-                        {{ else }}
+                        {{- else }}
                           failed to get image
-                          {{ .media }}
-                        {{ end }}
-                      {{ end }}
-                    {{ end }}
+                          {{- .media }}
+                        {{- end }}
+                      {{- end }}
+                    {{- end }}
                   </div>
                   <div class="col-sm-12 col-md-12 col-lg-6 order-2 order-sm-2 order-md-2 order-lg-2">
                     <div class="card-body">
-                      <h5 class="card-title nkda-heading-secondary">{{ .title | markdownify }}</h5>
-                      <p class="card-text">{{ .content | markdownify }}</p>
+                      <h5 class="card-title nkda-heading-secondary">{{- .title | markdownify }}</h5>
+                      <p class="card-text">{{- .content | markdownify }}</p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-          {{ else }}
+          {{- else }}
             <!-- even -->
             <div class="col-12 d-flex p-5">
               <div class="card flex-fill m-2 border-0">
                 <div class="row">
                   <div class="col-sm-12 col-md-12 col-lg-6 order-1 order-sm-2 order-md-2 order-lg-1">
                     <div class="card-body">
-                      <h5 class="card-title nkda-heading-secondary">{{ .title | markdownify }}</h5>
-                      <p class="card-text">{{ .content | markdownify }}</p>
+                      <h5 class="card-title nkda-heading-secondary">{{- .title | markdownify }}</h5>
+                      <p class="card-text">{{- .content | markdownify }}</p>
                     </div>
                   </div>
                   <div class="col-sm-12 col-md-12 col-lg-6 p-3 order-2 order-sm-1 order-md-1 order-lg-2">
-                    {{ if .media }}
-                      {{ if strings.HasPrefix .media "/images/" }}
-                        <a href="{{ .media | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
-                          <img src="{{ .media | safeURL }}" alt="{{ .title }}" width="80%" />
+                    {{- if .media }}
+                      {{- if strings.HasPrefix .media "/images/" }}
+                        <a href="{{- .media | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
+                          <img src="{{- .media | safeURL }}" alt="{{- .title }}" width="80%" />
                         </a>
-                      {{ else }}
-                        {{ $image := $Page.Resources.GetMatch .media }}
-                        {{ if $image }}
-                          <a href="{{ $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{ .title }}">
-                            <img src="{{ $image.RelPermalink | safeURL }}" alt="{{ .title }}" width="80%" />
+                      {{- else }}
+                        {{- $image := $Page.Resources.GetMatch .media }}
+                        {{- if $image }}
+                          <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
+                            <img src="{{- $image.RelPermalink | safeURL }}" alt="{{- .title }}" width="80%" />
                           </a>
-                        {{ else }}
+                        {{- else }}
                           failed to get image
-                          {{ .media }}
-                        {{ end }}
-                      {{ end }}
-                    {{ end }}
+                          {{- .media }}
+                        {{- end }}
+                      {{- end }}
+                    {{- end }}
                   </div>
                 </div>
               </div>
             </div>
-          {{ end }}
-        {{ else }}
+          {{- end }}
+        {{- else }}
           <!-- even -->
           <div class="col-12 d-flex p-2">
             <div class="card flex-fill m-2 border-0">
               <div class="card-body">
-                <h5 class="card-title nkda-heading-secondary">{{ .title | markdownify }}</h5>
-                <p class="card-text">{{ .content | markdownify }}</p>
+                <h5 class="card-title nkda-heading-secondary">{{- .title | markdownify }}</h5>
+                <p class="card-text">{{- .content | markdownify }}</p>
               </div>
             </div>
           </div>
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ else }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  {{- else }}
     <div class="col-md-12 p-2">
       <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-6 order-1 order-sm-1 order-md-1  order-lg-1"></div>
@@ -111,5 +111,5 @@
         <div class="col-sm-12 col-md-12 col-lg-6 order-sm-1 order-md-1  order-lg-2"></div>
       </div>
     </div>
-  {{ end }}
+  {{- end }}
 </div>

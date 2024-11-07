@@ -1,74 +1,113 @@
+{{- $resources := .Resources }}
+{{- $page := .Page }}
 <div class="row p-2 p-lg-5">
   <div class="col-md-6">
     <h1 class="mb-4 nkda-heading-primary">
-      {{ if .Params.headline }}
-        {{ .Params.headline.title | markdownify }}
-      {{ else if .Params.card }}
-        {{ .Params.card.title | markdownify }}
-      {{ else }}
-        {{ .Title | markdownify }}
-      {{ end }}
+      {{- if .Params.headline }}
+        {{- .Params.headline.title | markdownify }}
+      {{- else if .Params.card }}
+        {{- .Params.card.title | markdownify }}
+      {{- else }}
+        {{- .Title | markdownify }}
+      {{- end }}
     </h1>
     <h2 class="mb-4 nkda-heading-secondary">
-      {{ if .Params.headline }}
-        {{ .Params.headline.subtitle | markdownify }}
-      {{ else if .Params.card }}
-        {{ .Params.card.subtitle | markdownify }}
-      {{ else }}
-        {{ .Params.subtitle | markdownify }}
-      {{ end }}
+      {{- if .Params.headline }}
+        {{- .Params.headline.subtitle | markdownify }}
+      {{- else if .Params.card }}
+        {{- .Params.card.subtitle | markdownify }}
+      {{- else }}
+        {{- .Params.subtitle | markdownify }}
+      {{- end }}
     </h2>
-    {{ if .Params.headline.buttons }}
+
+    {{- if .Params.headline.images }}
+      {{- $colClass := "col-xl-4" }}
+      {{- $count := len .Params.headline.images }}
+      {{- if eq (mod $count 3) 0 }}
+        {{- $colClass = "col-xl-4" }}
+        <!-- 3 per row -->
+      {{- else if eq (mod $count 2) 0 }}
+        {{- $colClass = "col-xl-6" }}
+        <!-- 2 per row -->
+      {{- end }}
       <div class="mb-4">
-        {{ range .Params.headline.buttons }}
-          {{ $isExternal := strings.HasPrefix .link "http" -}}
-          {{ if $isExternal }}
-            <a href="{{ .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
-              {{ .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
-            </a>
-          {{ else }}
-            <a href="{{ .link | safeURL }}" class="btn btn-nkdprimary p-2">{{ .content }}</a>
-          {{ end }}
-        {{ end }}
+        <div class="row">
+          {{- range .Params.headline.images }}
+            <div class="{{- $colClass }} p-2 d-flex justify-content-center">
+              {{- if strings.HasPrefix . "/images/" }}
+                <a href="{{- . | safeURL }}" data-toggle="lightbox">
+                  <img src="{{- . | safeURL }}" style="max-height: 150px;" />
+                </a>
+              {{- else }}
+                {{- $image := $page.Resources.GetMatch . }}
+                {{- if $image }}
+                  {{- $resized := $image.Fit "25x25 jpg" }}
+                  <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox">
+                    <img src="{{- $resized.RelPermalink | safeURL }}" width="80%" style="max-height: 150px;" />
+                  </a>
+                {{- else }}
+                  failed to get image
+                  {{- . }}
+                {{- end }}
+              {{- end }}
+            </div>
+          {{- end }}
+        </div>
       </div>
-    {{ end }}
+    {{- end }}
+
+    {{- if .Params.headline.buttons }}
+      <div class="mb-4">
+        {{- range .Params.headline.buttons }}
+          {{- $isExternal := strings.HasPrefix .link "http" -}}
+          {{- if $isExternal }}
+            <a href="{{- .link | safeURL }}" class="external-link btn btn-nkdprimary p-2" target="_blank" rel="noopener noreferrer">
+              {{- .content }}&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i> </small>
+            </a>
+          {{- else }}
+            <a href="{{- .link | safeURL }}" class="btn btn-nkdprimary p-2">{{- .content }}</a>
+          {{- end }}
+        {{- end }}
+      </div>
+    {{- end }}
   </div>
   <div class="col-md-6">
     <p class="nkda-heading-primary-content">
-      {{ if .Params.headline }}
-        {{ .Params.headline.content | markdownify }}
-      {{ else if .Params.card }}
-        {{ .Params.card.content | markdownify }}
-      {{ else }}
-      {{ end }}
+      {{- if .Params.headline }}
+        {{- .Params.headline.content | markdownify }}
+      {{- else if .Params.card }}
+        {{- .Params.card.content | markdownify }}
+      {{- else }}
+      {{- end }}
     </p>
   </div>
 </div>
 <div class="row">
-  {{ if and (isset .Params.headline "cards") (not (eq .Params.headline.cards nil)) }}
-    {{ if gt (len .Params.headline.cards) 0 }}
-      {{ range .Params.headline.cards }}
+  {{- if and (isset .Params.headline "cards") (not (eq .Params.headline.cards nil)) }}
+    {{- if gt (len .Params.headline.cards) 0 }}
+      {{- range .Params.headline.cards }}
         <div class="col-xl-4 d-flex">
           <!-- prettier-ignore -->
-          {{ partial "card.html" (dict "class" "herocards" "isExpandable" true "title" .title "content" .content "link" .link) }}
+          {{- partial "card.html" (dict "class" "herocards" "isExpandable" true "title" .title "content" .content "link" .link) }}
         </div>
-      {{ end }}
-    {{ else }}
-    {{ end }}
-  {{ else }}
+      {{- end }}
+    {{- else }}
+    {{- end }}
+  {{- else }}
     {{/* If headline.cards is null or not set, display the default cards */}}
     <div class="col-12 col-sm-12 col-lg-4 d-flex">
       <!-- prettier-ignore -->
-      {{ partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many different team settings.") }}
+      {{- partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many different team settings.") }}
     </div>
     <div class="col-12 col-sm-12 col-lg-4 d-flex d-flex">
       <!-- prettier-ignore -->
-      {{ partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experience.") }}
+      {{- partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experience.") }}
     </div>
     <div class="col-12 col-sm-12 col-lg-4 d-flex">
       <!-- prettier-ignore -->
-      {{ partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the engagement process, including post-engagement assistance to ensure everything runs smoothly.") }}
+      {{- partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the engagement process, including post-engagement assistance to ensure everything runs smoothly.") }}
     </div>
-  {{ end }}
+  {{- end }}
 
 </div>

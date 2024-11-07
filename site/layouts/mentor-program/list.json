@@ -6,7 +6,7 @@
   {{- range $key, $value := $params }}
   {{- $data = merge $data (dict $key $value) -}}
   {{- end }}
-  {{ $data | jsonify }}
-  {{- if lt (add $index 1) (len $pages) }},{{ end }}
+  {{- $data | jsonify }}
+  {{- if lt (add $index 1) (len $pages) }},{{- end }}
   {{- end -}}
 ]

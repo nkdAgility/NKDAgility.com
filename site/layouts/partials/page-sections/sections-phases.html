@@ -1,17 +1,17 @@
-{{ $site := .site }}
+{{- $site := .site }}
 <!-- Courses specific rendering -->
 <div class="row p-5">
-  {{ if and (not (eq .context.sylabus nil)) (gt (len .context.sylabus) 0) }}
-    {{ range $index, $sylabi := .context.sylabus }}
+  {{- if and (not (eq .context.sylabus nil)) (gt (len .context.sylabus) 0) }}
+    {{- range $index, $sylabi := .context.sylabus }}
       <div class="col-12 p-2">
         <!-- e -->
-        <h3>{{ $sylabi.title }}</h3>
-        {{ $sylabi.content | markdownify }}
+        <h3>{{- $sylabi.title }}</h3>
+        {{- $sylabi.content | markdownify }}
       </div>
-    {{ end }}
-  {{ else }}
+    {{- end }}
+  {{- else }}
     <div class="row">
       <div class="col-12 p-2">No Sylabus</div>
     </div>
-  {{ end }}
+  {{- end }}
 </div>

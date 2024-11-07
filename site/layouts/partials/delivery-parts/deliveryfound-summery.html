@@ -4,14 +4,14 @@
     <!-- Front Side (Existing Card HTML) -->
     <div class="flip-card-front">
       <div class="card h-100">
-        <div class="card-header" {{ if .Params.brandColour }}style="color: white;background-color: {{ .Params.brandColour }}"{{ end }}>
-          {{ .Params.code }} |
-          {{ $courseVendors := index .Params "course-vendors" }}
-          {{ range $index, $vendor := $courseVendors }}
-            {{- if gt $index 0 }},{{ end }}{{ $vendor }}
-          {{ end }}
+        <div class="card-header" {{- if .Params.brandColour }}style="color: white;background-color: {{- .Params.brandColour }}"{{- end }}>
+          {{- .Params.code }} |
+          {{- $courseVendors := index .Params "course-vendors" }}
+          {{- range $index, $vendor := $courseVendors }}
+            {{- if gt $index 0 }},{{- end }}{{- $vendor }}
+          {{- end }}
           |
-          {{ .Params.level | title }}
+          {{- .Params.level | title }}
         </div>
         <div class="card-body">
           <p class="card-text text-muted">GOAL: 6 participants</p>
@@ -25,29 +25,29 @@
           </div>
           <div class="row p-2">
             <div class="col-4 d-flex align-items-center">
-              {{ if .Params.previewIcon }}
-                {{ $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
-                {{ if $image }}
-                  {{ $resized := $image.Fit "100x100 webp" }}
-                  <img src="{{ $resized.RelPermalink }}" class="img-fluid" />
-                {{ else }}
+              {{- if .Params.previewIcon }}
+                {{- $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
+                {{- if $image }}
+                  {{- $resized := $image.Fit "100x100 webp" }}
+                  <img src="{{- $resized.RelPermalink }}" class="img-fluid" />
+                {{- else }}
                   NOICON
-                {{ end }}
-              {{ end }}
+                {{- end }}
+              {{- end }}
             </div>
             <div class="col-8">
               <p class="card-text small">Preordering grants you extra coaching, future discounts, and input on scheduling and format.</p>
             </div>
           </div>
           <div class="d-grid gap-2">
-            {{ if eq hugo.Environment "development" }}
+            {{- if eq hugo.Environment "development" }}
               {{/* <div id="preproduct-pledge" data-id="9881307152724" data-headless="true" data-domain="273187-62.myshopify.com" style="text-align: left; padding: 10px 0px;"></div>
                 <script type="text/javascript" async src="https://api.preproduct.io/preproduct-embed.js"></script>
               */}}
               <div id="my-product"></div>
-            {{ else }}
+            {{- else }}
               <a href="#" class="btn btn-nkdagility-primary w-100 position-relative disabled "> <i class="fas fa-ticket position-absolute start-0 top-50 translate-middle-y ms-2"></i>Preorder </a>
-            {{ end }}
+            {{- end }}
             <a href="#" class="btn btn-nkdagility-secondary w-100 position-relative" title="Sign-up to be the first to know" data-bs-toggle="modal" data-bs-target="#followModal">
               <i class="fas fa-heart position-absolute start-0 top-50 translate-middle-y ms-2"></i>
               Follow
@@ -210,7 +210,7 @@
   });
 </script>
 
-{{ if eq hugo.Environment "development" }}
+{{- if eq hugo.Environment "development" }}
   <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
   <script src="https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js"></script>
   <script>
@@ -264,4 +264,4 @@
       },
     });
   </script>
-{{ end }}
+{{- end }}

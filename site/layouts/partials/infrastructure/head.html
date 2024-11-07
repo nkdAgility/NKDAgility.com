@@ -1,39 +1,39 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{{ .Title }} | {{ .Site.Title }}</title>
-<meta name="description" content="{{ .Description | default .Site.Params.description }}" />
-<meta name="keywords" content="{{ .Keywords | default .Site.Params.keywords }}" />
-<meta name="author" content="{{ .Site.Params.author }}" />
+<title>{{- .Title }} | {{- .Site.Title }}</title>
+<meta name="description" content="{{- .Description | default .Site.Params.description }}" />
+<meta name="keywords" content="{{- .Keywords | default .Site.Params.keywords }}" />
+<meta name="author" content="{{- .Site.Params.author }}" />
 
-<meta name="giscus:backlink" content="https://nkdagility.com{{ .RelPermalink }}" />
-<meta name="giscus:description" content="{{ .Summary }}" />
-<link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{ printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
+<meta name="giscus:backlink" content="https://nkdagility.com{{- .RelPermalink }}" />
+<meta name="giscus:description" content="{{- .Summary }}" />
+<link rel="icon" href="{{- "favicon.ico" | relURL }}" type="image/x-icon" /> <meta name="copyright" content="{{- printf "© 2013-%s Naked Agility Limited. All rights reserved." (now.Format "2006") }}" />
 <meta
   name="license"
-  content="© {{ now.Format "2006" }}
+  content="© {{- now.Format "2006" }}
 naked Agility Limited. All content is copyrighted. No reproduction or distribution without permission." />
 
-{{ if .Params.canonicalUrl }}
-  <link rel="canonical" href="{{ .Params.canonicalUrl }}" />
-{{ else if .Params.external_url }}
-  <link rel="canonical" href="{{ .Params.external_url }}" />
-{{ else }}
-  <link rel="canonical" href="{{ .Permalink }}" />
-{{ end }}
+{{- if .Params.canonicalUrl }}
+  <link rel="canonical" href="{{- .Params.canonicalUrl }}" />
+{{- else if .Params.external_url }}
+  <link rel="canonical" href="{{- .Params.external_url }}" />
+{{- else }}
+  <link rel="canonical" href="{{- .Permalink }}" />
+{{- end }}
 
 
 <!-- Open Graph -->
-<meta property="og:title" content="{{ .Title | plainify }}" />
-<meta property="og:description" content="{{ .Summary | plainify }}" />
-<meta property="og:image" content="{{ .Site.Params.og_image }}" />
-<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{- .Title | plainify }}" />
+<meta property="og:description" content="{{- .Summary | plainify }}" />
+<meta property="og:image" content="{{- .Site.Params.og_image }}" />
+<meta property="og:url" content="{{- .Permalink }}" />
 <meta property="og:type" content="website" />
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="{{ .Title }}" />
-<meta name="twitter:description" content="{{ .Description }}" />
-<meta name="twitter:image" content="{{ .Site.Params.og_image }}" />
+<meta name="twitter:title" content="{{- .Title }}" />
+<meta name="twitter:description" content="{{- .Description }}" />
+<meta name="twitter:image" content="{{- .Site.Params.og_image }}" />
 
 <!--Boostrap -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
@@ -45,13 +45,13 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css" integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ=" crossorigin="anonymous" />
 
 <!-- Main css-->
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}" />
+<link rel="stylesheet" href="{{- "css/main.css" | relURL }}" />
 <!-- navbar -->
-<link rel="stylesheet" href="{{ "css/main-menu.css" | relURL }}" />
+<link rel="stylesheet" href="{{- "css/main-menu.css" | relURL }}" />
 <!-- cards -->
-<link rel="stylesheet" href="{{ "css/cards.css" | relURL }}" />
+<link rel="stylesheet" href="{{- "css/cards.css" | relURL }}" />
 <!-- sections -->
-<link rel="stylesheet" href="{{ "css/sections.css" | relURL }}" />
+<link rel="stylesheet" href="{{- "css/sections.css" | relURL }}" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-44XG57BE28"></script>
 <script>
@@ -118,7 +118,7 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 {{/* <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
   <script src="https://cdn.shopify.com/s/assets/external/buy-button.js"></script>
 */}}
-{{/* <link rel="stylesheet" href="{{ "js/shopify/shopify.js" | relURL }}" /> */}}
+{{/* <link rel="stylesheet" href="{{- "js/shopify/shopify.js" | relURL }}" /> */}}
 <!-- /shopifycdn -->
 <link rel="icon" href="/images/nkdAgility-logo-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="/images/nkdAgility-logo-192x192.jpg" sizes="192x192" />
@@ -128,3 +128,14 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <!-- TrustBox script -->
 <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- metricool -->
+<script>
+  function loadScript(a) {
+    var b = document.getElementsByTagName("head")[0],
+      c = document.createElement("script");
+    (c.type = "text/javascript"), (c.src = "https://tracker.metricool.com/resources/be.js"), (c.onreadystatechange = a), (c.onload = a), b.appendChild(c);
+  }
+  loadScript(function () {
+    beTracker.t({ hash: "aec7284edc8d1939969ff642d8211446" });
+  });
+</script>

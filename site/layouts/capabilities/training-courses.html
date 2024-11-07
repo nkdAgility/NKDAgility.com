@@ -1,10 +1,32 @@
-{{ define "siteSectionCallback" }}
+{{- define "siteSectionCallback" }}
+  <section class="container my-5">
+    <h2>Our Proven Track Record</h2>
+    <p>Over the years, we have successfully served hundreds of clients across the globe.​</p>
+    <div class="row">
+      <div class="col-md-3">
+        <h2 class="text-modern text-center nkda-heading-primary">300 +</h2>
+        <p class="text-modern text-center nkda-heading-secondary">Classes delivered</p>
+      </div>
+      <div class="col-md-3">
+        <h2 class="text-modern text-center nkda-heading-primary">2,500 +</h2>
+        <p class="text-modern text-center nkda-heading-secondary">People trained​</p>
+      </div>
+      <div class="col-md-3">
+        <h2 class="text-modern text-center nkda-heading-primary">11,200 +</h2>
+        <p class="text-modern text-center nkda-heading-secondary">Consulting Hours</p>
+      </div>
+      <div class="col-md-3">
+        <h2 class="text-modern text-center nkda-heading-primary">13</h2>
+        <p class="text-modern text-center nkda-heading-secondary">Countries Covered​</p>
+      </div>
+    </div>
+  </section>
   <section class="container my-5">
     <h2 title="Capabilities - What we do?">Our Services</h2>
     <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
-    {{ partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
   </section>
-{{ end }}
-{{ define "template" }}
+{{- end }}
+{{- define "template" }}
   capabilities/training-courses.html
-{{ end }}
+{{- end }}
