@@ -1,6 +1,7 @@
 ---
 title: Scrum Training Courses
 description:
+weight: 2
 card:
   button:
     content: ""

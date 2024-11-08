@@ -2,6 +2,10 @@
 title: Business Agility Consultancy
 date: 2023-08-12
 creator: Martin Hinshelwood
+menus:
+  footer:
+    parent: Consulting Services
+weight: 30
 id: "49856"
 type: capabilities
 slug: lean-agile-consultancy

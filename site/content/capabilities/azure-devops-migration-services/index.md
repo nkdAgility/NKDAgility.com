@@ -1,7 +1,12 @@
 ---
 title: Azure DevOps Migration Services
+shorttitle: Azure DevOps Migration
 date: 2023-08-12
 creator: Martin Hinshelwood
+weight: 10
+menus:
+  footer:
+    parent: Consulting Services
 id: "49870"
 type: capabilities
 layout: capabilities

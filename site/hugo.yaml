@@ -78,6 +78,21 @@ permalinks:
     resources: /:sections/:slug/
     course: /:sections/:slug/
 
+menus:
+  footer:
+    - name: Consulting Services
+      pageRef: /capabilities
+      weight: 20
+    - name: Mentoring Services
+      pageRef: /capabilities/mentor-programs/
+      weight: 30
+    - name: Training Courses
+      pageRef: /capabilities/training-courses/
+      weight: 40
+    - name: Resources
+      pageRef: /resources
+      weight: 50
+
 markup:
   goldmark:
     renderer:

@@ -4,6 +4,7 @@ weight: 100
 description: "Empowering Growth Through Incremental learning, Outcome-Based assignements, and Facilitated Reflections"
 aliases:
   - /capabilities/training-courses/immersive
+  - /training-courses/learning-experiences/immersive-learning-experience/
 card:
   button:
     content: "Empower groath"
