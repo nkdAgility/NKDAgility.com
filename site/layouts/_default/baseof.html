@@ -41,7 +41,7 @@
 
     {{- partial "infrastructure/footer.html" . }}
     {{- if ne hugo.Environment "production" }}
-      <div class="container-fluid p-2 bg-brand-{{- hugo.Environment }}">
+      <div id="debugArea" class="container-fluid p-2 bg-brand-{{- hugo.Environment }}">
         <section class="container my-2">
           <button class="btn btn-primary mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#debugSection" aria-expanded="false" aria-controls="debugSection">Show Debug Information</button>
 

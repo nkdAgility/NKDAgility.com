@@ -1,9 +1,9 @@
 {{ if ne hugo.Environment "production" }}
   <div class="container-fluid text-center p-2 bg-brand-{{- hugo.Environment }}">
     {{ if eq hugo.Environment "development" }}
-      Local | v0.0.0 | No Robots
+      Local | v0.0.0 | No Robots | <a href="#debugArea" class="">Debug Info</a>
     {{ else }}
-      #{nkdAgility_AzureSitesConfigs}# | v#{GitVersion.SemVer}# | No Robots
+      #{nkdAgility_AzureSitesConfigs}# | v#{GitVersion.SemVer}# | No Robots | <a href="#debugSection">Debug Info</a>
     {{ end }}
   </div>
 {{ end }}
