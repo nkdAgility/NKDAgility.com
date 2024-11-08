@@ -8,6 +8,8 @@ url: /capabilities/training-courses/
 aliases:
   - /capabilities/private-corporate-training/
   - /capabilities/training-courses/course-schedule/
+  - /training-courses/course-schedule/
+  - /training-courses/
 outputs:
   - html
   - json

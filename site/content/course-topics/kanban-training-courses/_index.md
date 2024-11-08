@@ -2,6 +2,8 @@
 title: Kanban Training Courses
 description:
 weight: 3
+aliases:
+  - /training-courses/kanban-training-courses/
 card:
   title: Kanban Training Courses
   content: |

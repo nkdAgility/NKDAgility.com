@@ -2,6 +2,8 @@
 title: Scrum Training Courses
 description:
 weight: 2
+aliases:
+  - /training-courses/scrum-training-courses/
 card:
   button:
     content: ""
