@@ -2,7 +2,6 @@
 <!-- Courses specific rendering -->
 <div class="row">
   {{- if and (not (eq .context.cards nil)) (gt (len .context.cards) 0) }}
-
     {{- $count := len .context.cards }}
     {{- $colClass := "col-xl-4" }}
     {{- if eq (mod $count 3) 0 }}

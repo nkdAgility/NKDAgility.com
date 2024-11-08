@@ -18,6 +18,12 @@
       </section>
     {{- end }}
 
+    {{- if not .IsHome }}
+      <section class="container my-5">
+        {{- partial "trustpilot/scrumorg-trustpilot-carousel.html" . }}
+      </section>
+    {{- end }}
+
     {{- block "main" . }}
       <section class="container my-2">
         {{- partial "page-sections/sections.html" . }}
@@ -30,10 +36,6 @@
       <section class="container my-2 siteSectionCallback"></section>
     {{- end }}
 
-
-    <section class="container my-2">
-      {{- partial "trustpilot/scrumorg-trustpilot.html" . }}
-    </section>
     {{- if not .IsHome }}
       {{- partial "our-customers.html" . }}
     {{- end }}
