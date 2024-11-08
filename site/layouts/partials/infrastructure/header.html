@@ -18,7 +18,14 @@
 
             <!-- Right side of the navbar -->
             <div class="d-flex flex-column flex-lg-row text-uppercase">
-              <a class="navbar-brand navbar-brand-topbaritem" href="/.auth/login/github" title="Login with Github" id="signInButton">Login</a>
+              <a
+                class="navbar-brand navbar-brand-topbaritem"
+                href="javascript:void(0);"
+                title="Login with Github"
+                id="signInButton"
+                onclick="window.location.href = '/.auth/login/github?post_login_redirect_uri=' + encodeURIComponent(window.location.href);">
+                Login
+              </a>
               <a class="navbar-brand navbar-brand-topbaritem d-none" href="/.auth/signout" id="signOutButton">Login</a>
               <a class="navbar-brand navbar-brand-topbaritem" href="/capabilities/mentor-programs/">Mentor Programs</a>
               <a class="navbar-brand navbar-brand-topbaritem" href="/capabilities/training-courses/" title="Corporate Training Programs & Workshops">Training Programs</a>
