@@ -5,7 +5,7 @@ creator: Martin Hinshelwood
 id: "49870"
 type: capabilities
 layout: capabilities
-slug: azure-devops-migration-tools-consulting
+slug: azure-devops-migration-services
 aliases:
   - /capabilities/azure-devops-migration-tools-consulting/
   - /technical-consulting-and-coaching/azure-devops-migration-tools-consulting/
