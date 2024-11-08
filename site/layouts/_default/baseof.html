@@ -16,12 +16,11 @@
       <section class="container my-2">
         {{- partial "headline.html" . }}
       </section>
-    {{- end }}
-
-    {{- if not .IsHome }}
-      <section class="container my-5">
-        {{- partial "trustpilot/scrumorg-trustpilot-carousel.html" . }}
-      </section>
+      {{- if not .IsHome }}
+        <section class="container my-5">
+          {{- partial "trustpilot/scrumorg-trustpilot-carousel.html" . }}
+        </section>
+      {{- end }}
     {{- end }}
 
     {{- block "main" . }}
