@@ -4,8 +4,10 @@ description: Terms of Business for the services provided by the company.
 menus:
   footer:
     - params:
-        adendum: true
+        class: center
       parent: Consulting Services
+      pre: <i class="fa-solid fa-code"></i>
+      weight: 20
 aliases:
   - /terms/
 headline:
