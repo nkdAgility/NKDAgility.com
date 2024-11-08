@@ -8,6 +8,8 @@ type: mentor-program
 slug: product-development-mentoring-program
 aliases:
   - /capabilities/product-development-mentoing-program/
+  - /capabilities/product-development-mentoring-program/
+  - /NKD-PDMP/
 course-vendors:
   - NKDAgility
 course-learning-experiences:

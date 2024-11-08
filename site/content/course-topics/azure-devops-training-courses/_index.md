@@ -2,6 +2,8 @@
 title: Azure DevOps Training Courses
 description: "Azure DevOps Training Courses"
 weight: 1
+aliases:
+  - /training-courses/azure-devops-training-courses/
 card:
   button:
     content: ""

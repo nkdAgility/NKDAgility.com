@@ -8,6 +8,7 @@ type: mentor-program
 slug: product-management-mentor-program
 aliases:
   - /capabilities/product-management-mentor-program/
+  - /NKD-PMMP/
 course-vendors:
   - NKDAgility
 course-learning-experiences:
@@ -15,6 +16,7 @@ course-learning-experiences:
 delivery-audiences:
   - Product Managers
   - Lean Agile Practitioners
+code: "NKD-PMMP"
 card:
   button:
     content: Become a Visionary Leader!
