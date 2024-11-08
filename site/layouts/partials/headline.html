@@ -96,15 +96,15 @@
     {{- end }}
   {{- else }}
     {{/* If headline.cards is null or not set, display the default cards */}}
-    <div class="col-12 col-sm-12 col-lg-4 d-flex">
+    <div class="col-xl-4 d-flex">
       <!-- prettier-ignore -->
       {{- partial "card.html" (dict "class" "herocards" "title" "Deep Technical Knowledge" "content" "Our team has extensive experience with agile within the context of many different team settings.") }}
     </div>
-    <div class="col-12 col-sm-12 col-lg-4 d-flex d-flex">
+    <div class="col-xl-4 d-flex d-flex">
       <!-- prettier-ignore -->
       {{- partial "card.html" (dict "class" "herocards" "title" "Tailored Strategies" "content" "Whatever your needs we can provide a tailored experience.") }}
     </div>
-    <div class="col-12 col-sm-12 col-lg-4 d-flex">
+    <div class="col-xl-4 d-flex">
       <!-- prettier-ignore -->
       {{- partial "card.html" (dict "class" "herocards" "title" "Comprehensive Support" "content" "We offer continuous support throughout the engagement process, including post-engagement assistance to ensure everything runs smoothly.") }}
     </div>

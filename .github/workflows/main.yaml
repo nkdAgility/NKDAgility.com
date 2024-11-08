@@ -182,6 +182,7 @@ jobs:
           GitVersion_AssemblySemVer: ${{ needs.Setup.outputs.GitVersion_AssemblySemVer }}
           GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
           GitVersion.SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
+          nkdAgility_AzureSitesConfig: ${{ needs.Setup.outputs.nkdAgility_AzureSitesConfig }}
 
       - uses: igsekor/pyspelling-any@v1.0.4
         id: spellcheck
@@ -195,7 +196,8 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --source site # --minify
+        run: $env:HUGO_ENV = "${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
+          hugo --source site # --minify
 
       - name: Copy Files
         shell: pwsh

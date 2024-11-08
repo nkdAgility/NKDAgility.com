@@ -1,3 +1,12 @@
+{{ if ne hugo.Environment "production" }}
+  <div class="container-fluid text-center p-2 bg-brand-{{- hugo.Environment }}">
+    {{ if eq hugo.Environment "development" }}
+      Local | v0.0.0 | No Robots | <a href="#debugArea" class="">Debug Info</a>
+    {{ else }}
+      #{nkdAgility_AzureSitesConfigs}# | v#{GitVersion.SemVer}# | No Robots | <a href="#debugSection">Debug Info</a>
+    {{ end }}
+  </div>
+{{ end }}
 <header>
   <!-- Topbar Navigation -->
   <div class="container-fluid bg-brand-primary">
@@ -18,7 +27,14 @@
 
             <!-- Right side of the navbar -->
             <div class="d-flex flex-column flex-lg-row text-uppercase">
-              <a class="navbar-brand navbar-brand-topbaritem" href="/.auth/login/github" title="Login with Github" id="signInButton">Login</a>
+              <a
+                class="navbar-brand navbar-brand-topbaritem"
+                href="javascript:void(0);"
+                title="Login with Github"
+                id="signInButton"
+                onclick="window.location.href = '/.auth/login/github?post_login_redirect_uri=' + encodeURIComponent(window.location.href);">
+                Login
+              </a>
               <a class="navbar-brand navbar-brand-topbaritem d-none" href="/.auth/signout" id="signOutButton">Login</a>
               <a class="navbar-brand navbar-brand-topbaritem" href="/capabilities/mentor-programs/">Mentor Programs</a>
               <a class="navbar-brand navbar-brand-topbaritem" href="/capabilities/training-courses/" title="Corporate Training Programs & Workshops">Training Programs</a>
