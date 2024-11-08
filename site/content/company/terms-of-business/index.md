@@ -1,17 +1,18 @@
 ---
 title: Terms of Business
 description: Terms of Business for the services provided by the company.
+menus:
+  footer:
+    - params:
+        adendum: true
+      parent: Consulting Services
 aliases:
-- /terms/
+  - /terms/
 headline:
   cards: []
   title: naked Agility Ltd. Terms of Business.
   content: Imagine evolving your organization with highly effective teams that not only boost productivity but also create lasting value. With the right external support, clear goals, and continuous feedback loops, these teams will innovate, adapt, and deliver outstanding results. Consistently. Effectively.
-
 ---
-
-
-
 
 # Overview of our Terms
 
@@ -72,23 +73,24 @@ For onsite, travel time is charged at the applicable day rate.
 ### Prices start from:
 
 #### United Kingdom (UK)
+
 We calculate prices by country!
 
-| Category                      | Role                           | Hourly Rate (GBP) | Level 1      | Level 2      | Level 3      | Level 4      | Level 5      |
-|-------------------------------|--------------------------------|-------------------|--------------|--------------|--------------|--------------|--------------|
-| Agile Consulting & Advisory    | Strategy Consultant            | £195/hour         | £1,550/day   | £2,170/day   | £2,475/day   | £2,785/day   | £3,095/day   |
-| Executive Consultant / Coach   |                                | £165/hour         | £1,320/day   | £1,850/day   | £2,115/day   | £2,380/day   | £2,640/day   |
-| DevOps Consultant / Coach      |                                | £125/hour         | £990/day     | £1,390/day   | £1,585/day   | £1,785/day   | £1,980/day   |
-| Agile Consultant / Coach       |                                | £125/hour         | £990/day     | £1,390/day   | £1,585/day   | £1,785/day   | £1,980/day   |
-| Scrum Master                   |                                | £95/hour          | £745/day     | £1,040/day   | £1,190/day   | £1,340/day   | £1,485/day   |
+| Category                     | Role                | Hourly Rate (GBP) | Level 1    | Level 2    | Level 3    | Level 4    | Level 5    |
+| ---------------------------- | ------------------- | ----------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Agile Consulting & Advisory  | Strategy Consultant | £195/hour         | £1,550/day | £2,170/day | £2,475/day | £2,785/day | £3,095/day |
+| Executive Consultant / Coach |                     | £165/hour         | £1,320/day | £1,850/day | £2,115/day | £2,380/day | £2,640/day |
+| DevOps Consultant / Coach    |                     | £125/hour         | £990/day   | £1,390/day | £1,585/day | £1,785/day | £1,980/day |
+| Agile Consultant / Coach     |                     | £125/hour         | £990/day   | £1,390/day | £1,585/day | £1,785/day | £1,980/day |
+| Scrum Master                 |                     | £95/hour          | £745/day   | £1,040/day | £1,190/day | £1,340/day | £1,485/day |
 
 ### Learning
 
-| Role                          | Hourly Rate (GBP) | Level 1      | Level 2      | Level 3      | Level 4      | Level 5      |
-|-------------------------------|-------------------|--------------|--------------|--------------|--------------|--------------|
-| Corporate Trainer              | £390/hour         | £3,095/day   | £4,335/day   | £4,950/day   | £5,570/day   | £6,190/day   |
-| Training Consultant            | £165/hour         | £1,320/day   | £1,850/day   | £2,115/day   | £2,380/day   | £2,640/day   |
-| Training Coordinator           | £65/hour          | £495/day     | £695/day     | £795/day     | £895/day     | £990/day     |
+| Role                 | Hourly Rate (GBP) | Level 1    | Level 2    | Level 3    | Level 4    | Level 5    |
+| -------------------- | ----------------- | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Corporate Trainer    | £390/hour         | £3,095/day | £4,335/day | £4,950/day | £5,570/day | £6,190/day |
+| Training Consultant  | £165/hour         | £1,320/day | £1,850/day | £2,115/day | £2,380/day | £2,640/day |
+| Training Coordinator | £65/hour          | £495/day   | £695/day   | £795/day   | £895/day   | £990/day   |
 
 All our consultants & trainers are Level 5, "guru" level, with 15+ years of experience.
 
@@ -111,13 +113,14 @@ For onsite, travel time is charged at the relevant day rate and is exclusive of 
 Prices start from:
 
 #### United Kingdom (UK)
+
 We calculate prices by country!
 
-| Level      | Max Students per Class | Public (GBP) | 12 Students (GBP) | 16 Students (GBP) | 20 Students (GBP) | 24 Students (GBP) |
-|------------|------------------------|--------------|-------------------|-------------------|-------------------|-------------------|
-| Beginner   | 12                     | £10,800      | £12,060           | £13,410           | £14,850           | £705              |
-| Intermediate|                        | £13,165      | £14,425           | £15,775           | £17,215           | £845              |
-| Advanced   |                        | £15,525      | £16,785           | £18,135           | £19,575           | £985              |
+| Level        | Max Students per Class | Public (GBP) | 12 Students (GBP) | 16 Students (GBP) | 20 Students (GBP) | 24 Students (GBP) |
+| ------------ | ---------------------- | ------------ | ----------------- | ----------------- | ----------------- | ----------------- |
+| Beginner     | 12                     | £10,800      | £12,060           | £13,410           | £14,850           | £705              |
+| Intermediate |                        | £13,165      | £14,425           | £15,775           | £17,215           | £845              |
+| Advanced     |                        | £15,525      | £16,785           | £18,135           | £19,575           | £985              |
 
 All rates are based on a typical 16h of training class. Immersive classes also include an additional 16h of coaching and consulting depending on format.
 
@@ -141,9 +144,7 @@ Here’s the revised version in a more readable format:
 ## Invoicing
 
 - naked Agility Ltd will issue electronic invoices that exclude taxes. Invoices are generated either upon completion of the engagement or monthly, depending on which occurs first.
-  
 - **VAT (UK only)**: For invoices in the UK, VAT is automatically applied.
-  
 - All invoices exclude local taxes unless agreed otherwise. If specific taxes must be represented on the invoice due to local legal requirements, notify us. We will send an updated invoice that reflects any necessary withholdings.
 
 - Payments are due within 14 days of receiving the invoice (NET14). Late payments may incur interest at 8% above the bank base rate, following UK government guidelines for late commercial payments.
@@ -153,10 +154,8 @@ Here’s the revised version in a more readable format:
 ## Travel and Expenses (T&E)
 
 - Travel and expenses (T&E) are invoiced either upon completion of the engagement or monthly, depending on which occurs first.
-  
 - Costs for onsite engagements (airfare, lodging, transportation) will be billed as actual expenses. A per diem of £35 GBP per day (or actual expenses) will be charged.
-  
-- While we strive to minimize T&E, our consultants typically expect to return home on weekends. This may not always be feasible for engagements outside of Europe, especially for long-term engagements. 
+- While we strive to minimize T&E, our consultants typically expect to return home on weekends. This may not always be feasible for engagements outside of Europe, especially for long-term engagements.
 
 **Note**: It may be more cost-effective for clients to book travel and accommodations.
 
@@ -211,8 +210,9 @@ Here’s the revised version in a more readable format:
 1. **Notice of Cancellation**  
    You can cancel or reschedule an engagement without penalty if you provide at least 15 business days’ notice before the scheduled date. (Business days exclude weekends and public holidays, and are based on GMT.)
 
-2. **Cancellation Fees**  
-   - If cancellation or rescheduling occurs with less than 15 business days' notice but at least 10 business days' notice, a 20% cancellation fee will apply.  
+2. **Cancellation Fees**
+
+   - If cancellation or rescheduling occurs with less than 15 business days' notice but at least 10 business days' notice, a 20% cancellation fee will apply.
    - For cancellations with less than 10 business days' notice, the full engagement price is due.
 
 3. **No Credit for Cancellation Fees**  
@@ -282,6 +282,3 @@ Here’s the revised version in a more readable format:
    Upon completion of services or termination of the agreement, we will cease access to client servers and destroy or return all credentials.
 
 ---
-
-
-

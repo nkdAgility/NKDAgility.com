@@ -1,6 +1,7 @@
 ---
 title: Kanban Training Courses
 description:
+weight: 3
 card:
   title: Kanban Training Courses
   content: |

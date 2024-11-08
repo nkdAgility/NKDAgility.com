@@ -1,7 +1,12 @@
 ---
 title: DevOps Technology Consultancy
+shorttitle: DevOps Technology
 date: 2023-08-12
 creator: Martin Hinshelwood
+weight: 20
+menus:
+  footer:
+    parent: Consulting Services
 id: "49868"
 type: capabilities
 slug: devops-technology-consultancy
