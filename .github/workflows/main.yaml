@@ -186,7 +186,8 @@ jobs:
       - uses: igsekor/pyspelling-any@v1.0.4
         id: spellcheck
         name: Spellcheck
-
+        with:
+          args: --report report.json
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
