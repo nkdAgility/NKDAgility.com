@@ -8,11 +8,11 @@ matrix:
       lang: en
     dictionary:
       - wordlist.txt
-      encoding: utf-8
+    encoding: utf-8
     pipeline:
-      - pyspelling.filters.markdown:
-      - pyspelling.filters.stylesheets:
-      - pyspelling.filters.url:
+      - pyspelling.filters.markdown
+      - pyspelling.filters.stylesheets
+      - pyspelling.filters.url
       - pyspelling.filters.html:
           comments: false
           ignores:
