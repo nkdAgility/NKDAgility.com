@@ -5,7 +5,7 @@ resourceTypes: guide
 layout: guide
 aliases:
   - guides/manifesto-for-agile-software-developmen/
-  - learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
+  - /learn/agile-delivery-kit/guides/manifesto-for-agile-software-development
 references:
   - title: Manifesto for Agile Software Development
     url: https://agilemanifesto.org/

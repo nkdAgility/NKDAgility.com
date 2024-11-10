@@ -5,7 +5,7 @@ layout: guide
 date: 2024-09-17
 creator: Martin Hinshelwood
 aliases:
-  - learn/agile-delivery-kit/guides/evidence-based-portfolio-management
+  - /learn/agile-delivery-kit/guides/evidence-based-portfolio-management
 card:
   button:
     content: Learn More

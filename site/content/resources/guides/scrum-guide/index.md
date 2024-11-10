@@ -7,7 +7,7 @@ aliases:
   - guides/Scrum-Guide/
   - guides/Scrum-Guide.html
   - guides/scrum-guide.html
-  - learn/agile-delivery-kit/guides/scrum-guide
+  - /learn/agile-delivery-kit/guides/scrum-guide
 downloads:
   - title: "Scrum Guide 2020"
     type: pdf

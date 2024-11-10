@@ -3,7 +3,7 @@ title: Metrics and Reports
 resourceTypes: practice
 layout: practice
 aliases:
-  - learn/agile-delivery-kit/practices/metrics-reports
+  - /learn/agile-delivery-kit/practices/metrics-reports
 recommendedContent:
   - practices/Metrics-Reports/
   - practices/Metrics-Reports.html

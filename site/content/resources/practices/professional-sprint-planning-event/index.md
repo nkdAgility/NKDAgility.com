@@ -4,7 +4,7 @@ description: Professional Sprint Planning is a practice that helps teams to plan
 resourceTypes: practice
 layout: practice
 aliases:
-  - learn/agile-delivery-kit/practices/sprint-planning-event
+  - /learn/agile-delivery-kit/practices/sprint-planning-event
 references:
 recommendedContent:
   - collection: recipes

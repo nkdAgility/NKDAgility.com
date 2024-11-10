@@ -4,7 +4,8 @@ resourceTypes: workshop
 layout: workshop
 aliases:
   - workshops/Customer-Working-Agreement.html
-  - learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+  - /learn/agile-delivery-kit/workshops/Customer-Working-Agreement
+  - /learn/agile-delivery-kit/workshops/customer-working-agreement/
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true

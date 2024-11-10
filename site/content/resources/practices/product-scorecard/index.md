@@ -3,7 +3,7 @@ title: Product Scorecard
 resourceTypes: practice
 layout: practice
 aliases:
-  - learn/agile-delivery-kit/practices/product-scorecard
+  - /learn/agile-delivery-kit/practices/product-scorecard
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood

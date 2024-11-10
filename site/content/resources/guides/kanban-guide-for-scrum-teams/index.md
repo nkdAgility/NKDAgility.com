@@ -5,7 +5,7 @@ resourceTypes: guide
 layout: guide
 aliases:
   - /guides/Kanban-Guide-for-Scrum-Teams.html
-  - learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
+  - /learn/agile-delivery-kit/guides/kanban-guide-for-scrum-teams
 references:
   - title: The Kanban Guide for Scrum Teams on Scrum.org
     url: https://scrum.org/resources/kanban-guide-scrum-teams
