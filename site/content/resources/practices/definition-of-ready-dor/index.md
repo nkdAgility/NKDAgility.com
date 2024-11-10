@@ -4,10 +4,10 @@ description: Definition of Ready can result in significant anti-patterns in team
 resourceTypes: practice
 layout: practice
 aliases:
-  - practices/Definition-of-Ready-DoR.html
-  - learn/agile-delivery-kit/practices/definition-of-ready-dor
+  - /practices/Definition-of-Ready-DoR.html
+  - /learn/agile-delivery-kit/practices/definition-of-ready-dor
 recommendedContent:
-  - practices/Definition-of-Ready-DoR.html
+  - /practices/Definition-of-Ready-DoR.html
 date: 2024-09-17
 creator: Martin Hinshelwood
 card:

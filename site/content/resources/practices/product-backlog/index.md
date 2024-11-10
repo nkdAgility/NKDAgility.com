@@ -3,8 +3,8 @@ title: Product Backlog
 resourceTypes: practice
 layout: practice
 aliases:
-  - practices/product-backlog.html
-  - learn/agile-delivery-kit/practices/product-backlog
+  - /practices/product-backlog.html
+  - /learn/agile-delivery-kit/practices/product-backlog
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood

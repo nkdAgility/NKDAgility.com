@@ -4,8 +4,9 @@ resourceTypes: workshop
 layout: workshop
 description: The purpose of the Sprint Review is to maintain transparency of the Product Backlog and the focus of the Product Goal by integrating all of the changes that have happened in the product and the current business conditions since the last Sprint Review.
 aliases:
-  - workshops/Sprint-Review-1.html
+  - /workshops/Sprint-Review-1.html
   - learn/agile-delivery-kit/workshops/Sprint-Review-1
+  - /learn/agile-delivery-kit/workshops/sprint-review-1/
 creator: Martin Hinshelwood
 references:
 recommendedContent:

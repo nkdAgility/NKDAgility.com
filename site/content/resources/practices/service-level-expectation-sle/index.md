@@ -4,7 +4,7 @@ description: A service level expectation (SLE) forecasts how long it should take
 resourceTypes: practice
 layout: practice
 aliases:
-  - learn/agile-delivery-kit/practices/service-level-expectation-sle
+  - /learn/agile-delivery-kit/practices/service-level-expectation-sle
 recommendedContent:
   - practices/Service-Level-Expectation-SLE.html
   - practices/Service-Level-Expectation-SLE/

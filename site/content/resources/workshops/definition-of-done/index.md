@@ -3,8 +3,9 @@ title: Definition of Done
 resourceTypes: workshop
 layout: workshop
 aliases:
-  - workshops/Definition-Of-Done.html
-  - learn/agile-delivery-kit/workshops/Definition-Of-Done
+  - /workshops/Definition-Of-Done.html
+  - /learn/agile-delivery-kit/workshops/Definition-Of-Done
+  - /learn/agile-delivery-kit/workshops/definition-of-done/
 date: 2024-09-17
 creator: Martin Hinshelwood
 draft: true
