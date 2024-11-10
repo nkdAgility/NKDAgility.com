@@ -5,7 +5,7 @@ layout: guide
 aliases:
   - guides/Nexus-Framework/
   - guides/Nexus-Framework.html
-  - learn/agile-delivery-kit/guides/nexus-framework
+  - /learn/agile-delivery-kit/guides/nexus-framework
 references:
   - title: The 2020 Scrum Guide
     url: https://scrumguides.org/scrum-guide.html

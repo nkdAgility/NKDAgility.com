@@ -4,7 +4,7 @@ description: Evidence-Based Management (EBM) is an empirical approach that helps
 resourceTypes: guide
 layout: guide
 aliases:
-  - learn/agile-delivery-kit/guides/evidence-based-management-guide
+  - /learn/agile-delivery-kit/guides/evidence-based-management-guide
 references:
   - title: The Evidence-Based Management Guide | Scrum.org
     url: https://scrum.org/resources/evidence-based-management-guide
