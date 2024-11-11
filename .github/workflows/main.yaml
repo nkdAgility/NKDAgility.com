@@ -174,7 +174,7 @@ jobs:
           submodules: true # Fetch Hugo themes (true OR recursive)
       - uses: cschleiden/replace-tokens@v1
         with:
-          files: '["**/*.html"]'
+          files: '["**/*.html", "**/*.yaml"]'
           tokenPrefix: "#{"
           tokenSuffix: "}#"
         env:
@@ -183,7 +183,7 @@ jobs:
           GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
           GitVersion.SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
           nkdAgility_AzureSitesConfig: ${{ needs.Setup.outputs.nkdAgility_AzureSitesConfig }}
-
+          PR_Number: ${{ github.event.number }}
       - uses: igsekor/pyspelling-any@v1.0.4
         id: spellcheck
         name: Spellcheck
@@ -196,8 +196,10 @@ jobs:
           extended: true
 
       - name: Build
-        run: $env:HUGO_ENV = "${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
-          hugo --source site # --minify
+        run: |
+          Write-Host "Building site for ${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
+          $env:HUGO_ENV = "${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
+          hugo --source site --config hugo.yaml,hugo.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.yaml --logLevel info; # --minify
 
       - name: Copy Files
         shell: pwsh

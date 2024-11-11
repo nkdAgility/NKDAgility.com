@@ -5,6 +5,9 @@ weight: 2
 type: capabilities
 layout: training-courses
 url: /capabilities/mentor-programs/
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 aliases:
 card:
   button:

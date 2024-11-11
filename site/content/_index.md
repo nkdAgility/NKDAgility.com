@@ -1,6 +1,9 @@
 ---
 title: "naked Agility"
 url: "/"
+sitemap:
+  filename: sitemap.xml
+  priority: 0.9
 headline:
   title: "How Are We Different​"
   subtitle: "We empower teams to deliver real value by focusing on technical leadership, evidence-based decision-making, and comprehensive training."
@@ -40,4 +43,8 @@ headline:
       image: ~
 ---
 
-Welcome to our website. We specialize in helping teams become more productive, agile, and aligned with their business goals. Test
+The home of technical leadership and engineering excellence for software development teams.
+We focus on first principles, delivering measurable outcomes with evidence-based engineering. Our international experts help companies build software more effectively.
+We guide you in adopting a multi-method approach to agility, evolving beyond defined processes to a co-adaptive flow of value.
+
+Our expertise in Lean, Agile, DevOps, Scrum, and Kanban optimises customer value and revenue. Our deep technical knowledge of Azure DevOps, GitHub, .NET, Azure, and AI enables smarter decisions and better support.

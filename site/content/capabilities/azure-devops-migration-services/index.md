@@ -4,6 +4,9 @@ shorttitle: Azure DevOps Migration
 date: 2023-08-12
 creator: Martin Hinshelwood
 weight: 10
+sitemap:
+  filename: sitemap.xml
+  priority: 1.0
 menus:
   footer:
     parent: Consulting Services
