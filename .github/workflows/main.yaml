@@ -183,7 +183,7 @@ jobs:
           GitVersion_InformationalVersion: ${{ needs.Setup.outputs.GitVersion_InformationalVersion }}
           GitVersion.SemVer: ${{ needs.Setup.outputs.GitVersion_SemVer }}
           nkdAgility_AzureSitesConfig: ${{ needs.Setup.outputs.nkdAgility_AzureSitesConfig }}
-
+          PR_Number: ${{ github.event.number }}
       - uses: igsekor/pyspelling-any@v1.0.4
         id: spellcheck
         name: Spellcheck
