@@ -3,10 +3,11 @@
     {{ if eq hugo.Environment "development" }}
       Local | v0.0.0 | No Robots | <a href="#debugArea" class="">Debug Info</a>
     {{ else }}
-      #{nkdAgility_AzureSitesConfigs}# | v#{GitVersion.SemVer}# | No Robots | <a href="#debugSection">Debug Info</a>
+      #{nkdAgility_AzureSitesConfigs}# | v#{GitVersion.SemVer}# | No Robots | <a href="#debugArea">Debug Info</a>
     {{ end }}
   </div>
 {{ end }}
+{{ hugo.Environment }}
 <header>
   <!-- Topbar Navigation -->
   <div class="container-fluid bg-brand-primary">
