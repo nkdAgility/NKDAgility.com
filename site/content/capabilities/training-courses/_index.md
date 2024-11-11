@@ -5,6 +5,9 @@ weight: 2
 type: capabilities
 layout: training-courses
 url: /capabilities/training-courses/
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 aliases:
   - /capabilities/private-corporate-training/
   - /capabilities/training-courses/course-schedule/

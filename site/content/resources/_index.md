@@ -3,6 +3,9 @@ title: "What we think?"
 description: "Resources on the throries, philosophies, and practices!"
 url: "/resources/"
 layout: "section" # Hugo will use section.html to render the list of pages
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 headline:
   title: "tech·nic·al·ly agile"
   subtitle: "Resources on the throries, philosophies, and practices!"

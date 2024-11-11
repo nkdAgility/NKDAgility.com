@@ -5,6 +5,9 @@ aliases:
   - /blog/
 layout: bloglist
 resourceTypes: blog
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 headline:
   title: "tech·nic·al·ly agile"
   subtitle: "Blog: Technically Agile. Deep diving into Scrum, Agility, & DevOps!"

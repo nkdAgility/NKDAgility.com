@@ -4,6 +4,9 @@ date: 2024-07-08
 creator: Martin Hinshelwood
 type: capabilities
 slug: evidence-based-leadership
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 aliases:
   - /what-we-do/evidence-based-leadership
   - /capabilities/evidence-based-leadership/

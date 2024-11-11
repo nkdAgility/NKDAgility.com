@@ -4,6 +4,9 @@ shorttitle: DevOps Technology
 date: 2023-08-12
 creator: Martin Hinshelwood
 weight: 20
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 menus:
   footer:
     parent: Consulting Services

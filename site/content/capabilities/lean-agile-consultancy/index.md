@@ -2,6 +2,9 @@
 title: Business Agility Consultancy
 date: 2023-08-12
 creator: Martin Hinshelwood
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 menus:
   footer:
     parent: Consulting Services

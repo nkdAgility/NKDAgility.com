@@ -5,11 +5,14 @@ date: 2024-06-15
 creator: Martin Hinshelwood
 id: "51494"
 type: outcomes
-slug: increase-team-effectivenss
+slug: increase-team-effectiveness
+sitemap:
+  filename: sitemap.xml
+  priority: 0.8
 aliases:
   - increase-team-productivity
-  - /outcomes/increase-team-effectiveness/
   - /outcomes/increased-team-productivity/
+  - /outcomes/increase-team-effectivenss/
 tags:
   - Agile
   - Collaboration

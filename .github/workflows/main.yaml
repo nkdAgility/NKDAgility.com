@@ -197,7 +197,7 @@ jobs:
 
       - name: Build
         run: $env:HUGO_ENV = "${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
-          hugo --source site # --minify
+          hugo --source site --config hugo.yaml,hugo.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.yaml # --minify
 
       - name: Copy Files
         shell: pwsh

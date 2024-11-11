@@ -5,6 +5,9 @@ creator: Martin Hinshelwood
 id: "51452"
 type: capabilities
 slug: nkd-insights
+sitemap:
+  filename: sitemap.xml
+  priority: 0.7
 aliases:
   - /capabilities/nkd-insights/
 card:
