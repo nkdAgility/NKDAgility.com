@@ -199,7 +199,7 @@ jobs:
         run: |
           Write-Host "Building site for ${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
           $env:HUGO_ENV = "${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}";
-          hugo --source site --config hugo.yaml,hugo.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.yaml; # --minify
+          hugo --source site --config hugo.yaml,hugo.${{ (needs.Setup.outputs.nkdAgility_AzureSitesConfig) }}.yaml --logLevel info; # --minify
 
       - name: Copy Files
         shell: pwsh
