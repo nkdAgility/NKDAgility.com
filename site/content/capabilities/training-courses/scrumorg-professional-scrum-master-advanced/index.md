@@ -42,7 +42,7 @@ introduction: |-
   <!-- wp:heading {"level":3} -->
   ### What You Will Learn
   <!-- /wp:heading --><!-- wp:image {"align":"left"} -->
-  <figure class="alignleft"><img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-02/1PSM%20II%20Logo.png" alt="PSM II Logo"></figure>
+  <figure class="alignleft"><img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2019-02/1PSM%20II%20Logo.png" loading="lazy" alt="PSM II Logo"></figure>
   <!-- /wp:image --><!-- wp:paragraph -->  Over the 2 days, students will learn about areas critical to growing as a successful Scrum Master such as how the principles and values of Scrum help guide Scrum Masters in the decisions they make and how the Scrum Master can help change the environment of Scrum Teams, creating an environment for agility to thrive. The Scrum Master role is complex and often, a Scrum Master must be able to apply different stances in order to be effective, such as:  <!-- /wp:paragraph --><!-- wp:list -->
   - The Scrum Master as a Teacher
   - The Scrum Master as a Coach & Mentor

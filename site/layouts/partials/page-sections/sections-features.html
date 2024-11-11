@@ -14,13 +14,13 @@
                     {{- if .media }}
                       {{- if strings.HasPrefix .media "/images/" }}
                         <a href="{{- .media | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
-                          <img src="{{- .media | safeURL }}" alt="{{- .title }}" width="80%" />
+                          <img src="{{- .media | safeURL }}" loading="lazy" alt="{{- .title }}" width="80%" />
                         </a>
                       {{- else }}
                         {{- $image := $Page.Resources.GetMatch .media }}
                         {{- if $image }}
                           <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
-                            <img src="{{- $image.RelPermalink | safeURL }}" alt="{{- .title }}" width="80%" />
+                            <img src="{{- $image.RelPermalink | safeURL }}" loading="lazy" alt="{{- .title }}" width="80%" />
                           </a>
                         {{- else }}
                           failed to get image
@@ -53,13 +53,13 @@
                     {{- if .media }}
                       {{- if strings.HasPrefix .media "/images/" }}
                         <a href="{{- .media | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
-                          <img src="{{- .media | safeURL }}" alt="{{- .title }}" width="80%" />
+                          <img src="{{- .media | safeURL }}" loading="lazy" alt="{{- .title }}" width="80%" />
                         </a>
                       {{- else }}
                         {{- $image := $Page.Resources.GetMatch .media }}
                         {{- if $image }}
                           <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox" data-caption="{{- .title }}">
-                            <img src="{{- $image.RelPermalink | safeURL }}" alt="{{- .title }}" width="80%" />
+                            <img src="{{- $image.RelPermalink | safeURL }}" loading="lazy" alt="{{- .title }}" width="80%" />
                           </a>
                         {{- else }}
                           failed to get image

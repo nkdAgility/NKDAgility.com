@@ -36,25 +36,25 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <meta name="twitter:image" content="{{- .Site.Params.og_image }}" />
 
 <!--Boostrap -->
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+<link async href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
 
 <!--Font Awesome -->
-<script data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="Access-Control-Allow-Origin"></script>
+<script async data-search-pseudo-elements src="https://kit.fontawesome.com/3e6b2f4808.js" crossorigin="Access-Control-Allow-Origin"></script>
 
 <!-- algolia.com -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css" integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ=" crossorigin="anonymous" />
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/reset-min.css" integrity="sha256-KvFgFCzgqSErAPu6y9gz/AhZAvzK48VJASu3DpNLCEQ=" crossorigin="anonymous" />
 
 <!-- Main css-->
-<link rel="stylesheet" href="{{- "css/main.css" | relURL }}" />
+<link async rel="stylesheet" href="{{- "css/main.css" | relURL }}" />
 <!-- navbar -->
-<link rel="stylesheet" href="{{- "css/main-menu.css" | relURL }}" />
+<link async rel="stylesheet" href="{{- "css/main-menu.css" | relURL }}" />
 <!-- cards -->
-<link rel="stylesheet" href="{{- "css/cards.css" | relURL }}" />
+<link async rel="stylesheet" href="{{- "css/cards.css" | relURL }}" />
 <!-- sections -->
-<link rel="stylesheet" href="{{- "css/sections.css" | relURL }}" />
+<link async rel="stylesheet" href="{{- "css/sections.css" | relURL }}" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-44XG57BE28"></script>
-<script>
+<script async>
   window.dataLayer = window.dataLayer || [];
   function gtag() {
     dataLayer.push(arguments);
@@ -63,57 +63,9 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
   gtag("config", "G-44XG57BE28");
 </script>
 
-<!-- Algolia -->
-<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.24.0/dist/algoliasearch-lite.umd.js" integrity="sha256-b2n6oSgG4C1stMT/yc/ChGszs9EY/Mhs6oltEjQbFCQ=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.74.2/dist/instantsearch.production.min.js" integrity="sha256-LfyQz2E24221PkRbKoakchcpdlZOA4R1Ugi6NnhyGF0=" crossorigin="anonymous"></script>
 <!-- or include the full Satellite theme -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/satellite-min.css" integrity="sha256-woeV7a4SRDsjDc395qjBJ4+ZhDdFn8AqswN1rlTO64E=" crossorigin="anonymous" />
-<!-- Brevo  {literal} -->
-<script type="text/javascript">
-  (function () {
-    window.sib = {
-      equeue: [],
-      client_key: "xobflbrha14pjdh0uo0lm396",
-    };
-    /* OPTIONAL: email for identify request*/
-    window.sib.email_id = "contact@nkdagility.com";
-    window.sendinblue = {};
-    for (var j = ["track", "identify", "trackLink", "page"], i = 0; i < j.length; i++) {
-      (function (k) {
-        window.sendinblue[k] = function () {
-          var arg = Array.prototype.slice.call(arguments);
-          (
-            window.sib[k] ||
-            function () {
-              var t = {};
-              t[k] = arg;
-              window.sib.equeue.push(t);
-            }
-          )(arg[0], arg[1], arg[2], arg[3]);
-        };
-      })(j[i]);
-    }
-    var n = document.createElement("script"),
-      i = document.getElementsByTagName("script")[0];
-    (n.type = "text/javascript"), (n.id = "sendinblue-js"), (n.async = !0), (n.src = "https://sibautomation.com/sa.js?key=" + window.sib.client_key), i.parentNode.insertBefore(n, i), window.sendinblue.page();
-  })();
-</script>
-<!-- Brevo Conversations {literal} -->
-<script>
-  (function (d, w, c) {
-    w.BrevoConversationsID = "671625f4d3c7ed16db0bc208";
-    w[c] =
-      w[c] ||
-      function () {
-        (w[c].q = w[c].q || []).push(arguments);
-      };
-    var s = d.createElement("script");
-    s.async = true;
-    s.src = "https://conversations-widget.brevo.com/brevo-conversations.js";
-    if (d.head) d.head.appendChild(s);
-  })(document, window, "BrevoConversations");
-</script>
-<!-- /Brevo Conversations {/literal} -->
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8.5.1/themes/satellite-min.css" integrity="sha256-woeV7a4SRDsjDc395qjBJ4+ZhDdFn8AqswN1rlTO64E=" crossorigin="anonymous" />
+
 <!-- shopifycdn -->
 {{/* <script src="https://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
   <script src="https://cdn.shopify.com/s/assets/external/buy-button.js"></script>
@@ -124,18 +76,7 @@ naked Agility Limited. All content is copyrighted. No reproduction or distributi
 <link rel="icon" href="/images/nkdAgility-logo-192x192.jpg" sizes="192x192" />
 <link rel="apple-touch-icon" href="/images/nkdAgility-logo-180x180.jpg" />
 <!-- Swiper no swiping -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+<script async src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <!-- TrustBox script -->
-<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
-<!-- metricool -->
-<script>
-  function loadScript(a) {
-    var b = document.getElementsByTagName("head")[0],
-      c = document.createElement("script");
-    (c.type = "text/javascript"), (c.src = "https://tracker.metricool.com/resources/be.js"), (c.onreadystatechange = a), (c.onload = a), b.appendChild(c);
-  }
-  loadScript(function () {
-    beTracker.t({ hash: "aec7284edc8d1939969ff642d8211446" });
-  });
-</script>
+<script async type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>

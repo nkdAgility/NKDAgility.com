@@ -29,14 +29,14 @@
           {{- $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.previewIcon) }}
           {{- if $courseIcon }}
             {{- $resized := $courseIcon.Fit "25x25 webp" }}
-            <img class="shadowfilter me-2" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
+            <img class="shadowfilter me-2" loading="lazy" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
           {{- end }}
         {{- end }}
         {{- if $item.Params.offering.courseIcon }}
           {{- $courseIcon := $item.Resources.GetMatch (printf "images/%s" $item.Params.offering.courseIcon) }}
           {{- if $courseIcon }}
             {{- $resized := $courseIcon.Fit "25x25 webp" }}
-            <img class="shadowfilter me-2" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
+            <img class="shadowfilter me-2" loading="lazy" src="{{- $resized.RelPermalink }}" alt="{{- $item.Title }}" />
           {{- end }}
         {{- end }}
         <a href="{{- $item.Permalink }}" class="text-decoration-none  text-nowrap text-truncate" title="{{- $item.Title }}">

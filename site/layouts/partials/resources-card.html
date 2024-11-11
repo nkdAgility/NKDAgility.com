@@ -3,17 +3,17 @@
   {{- if .Params.preview }}
     {{- $isExternal := strings.HasPrefix .Params.preview "http" }}
     {{- if $isExternal }}
-      <img class="img-fluid" src="{{- .Params.preview }}" alt="{{- .Title }}" />
+      <img class="img-fluid" loading="lazy" src="{{- .Params.preview }}" alt="{{- .Title }}" />
     {{- else }}
       {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
       {{- if $image }}
-        <img class="img-fluid" src="{{- $image.RelPermalink }}" alt="{{- .Title }}" />
+        <img class="img-fluid" loading="lazy" src="{{- $image.RelPermalink }}" alt="{{- .Title }}" />
       {{- else }}
-        <img class="courseImageBackground img-fluid" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
+        <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
       {{- end }}
     {{- end }}
   {{- else }}
-    <img class="courseImageBackground img-fluid" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
+    <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-technically-Background.jpg" alt="{{- .Params.Title }}" />
   {{- end }}
   <div class="card-body p-2 px-20 clearfix row">
     <div class="col-9 col-md-12">

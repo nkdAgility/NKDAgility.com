@@ -25,14 +25,14 @@
             {{- $image := $Resources.GetMatch $item.link }}
             {{- if $image }}
               {{- if eq $image.MediaType.SubType "svg" }}
-                <img src="{{- $image.RelPermalink }}" class="img-fluid" />
+                <img src="{{- $image.RelPermalink }}" loading="lazy" class="img-fluid" />
               {{- else }}
                 {{- $resized := $image.Fit "800x550 webp" }}
-                <img src="{{- $resized.RelPermalink }}" class="img-fluid" />
+                <img src="{{- $resized.RelPermalink }}" loading="lazy" class="img-fluid" />
               {{- end }}
             {{- else }}
               <!-- External Image Fallback if Not Found as Hugo Resource -->
-              <img src="{{- $item.link }}" class="d-block w-100" alt="carousel image" />
+              <img src="{{- $item.link }}" loading="lazy" class="d-block w-100" alt="carousel image" />
             {{- end }}
           {{- end }}
         </div>
@@ -96,17 +96,17 @@
     {{- end }}
     {{- if $image }}
       {{- if eq $image.MediaType.SubType "svg" }}
-        <img src="{{- $image.RelPermalink }}" nkd-data="resource/svg" class="img-fluid" />
+        <img src="{{- $image.RelPermalink }}" loading="lazy" nkd-data="resource/svg" class="img-fluid" />
       {{- else }}
         {{- $resized := $image.Fit "800x550 webp" }}
-        <img src="{{- $resized.RelPermalink }}" nkd-data="resource/image" class="img-fluid" />
+        <img src="{{- $resized.RelPermalink }}" loading="lazy" nkd-data="resource/image" class="img-fluid" />
       {{- end }}
     {{- else }}
       <!-- External Image Fallback if Not Found as Hugo Resource -->
-      <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" nkd-data="fallback/preview" class="d-block w-100" />
+      <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" loading="lazy" nkd-data="fallback/preview" class="d-block w-100" />
     {{- end }}
   {{- else }}
     <!-- External Image Fallback if Not Found as Hugo Resource -->
-    <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" nkd-data="fallback/no-preview" class="d-block w-100" />
+    <img src="/images/NKDAgility-Mentor-Programs-Template-16x9.jpg" loading="lazy" nkd-data="fallback/no-preview" class="d-block w-100" />
   {{- end }}
 {{- end }}
