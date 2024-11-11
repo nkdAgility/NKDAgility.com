@@ -5,7 +5,7 @@
 {{ $height := .height | default 600 }}
 {{ $class := .class | default "" }}
 {{ with  $resources.GetMatch $src }}
-  {{ $resized := .Resize (printf "%dx%d" $width $height) }}
+  {{ $resized := .Resize (printf "%dx%d lanczos q85" $width $height) }}
   <img src="{{ $resized.RelPermalink }}" data-nkda-image="resize" width="{{ $resized.Width }}" height="{{ $resized.Height }}" alt="{{ $alt }}" class="{{ $class }}" />
 {{ else }}
   <img src="{{ $src }}" data-nkda-image="backup" loading="lazy" alt="{{ $alt }}" width="{{ $width }}" height="{{ $height }}" class="{{ $class }}" />
