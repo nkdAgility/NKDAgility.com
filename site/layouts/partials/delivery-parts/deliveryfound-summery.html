@@ -29,7 +29,7 @@
                 {{- $image := .Resources.GetMatch (printf "images/%s" .Params.previewIcon) }}
                 {{- if $image }}
                   {{- $resized := $image.Fit "100x100 webp" }}
-                  <img src="{{- $resized.RelPermalink }}" class="img-fluid" />
+                  <img src="{{- $resized.RelPermalink }}" loading="lazy" class="img-fluid" />
                 {{- else }}
                   NOICON
                 {{- end }}

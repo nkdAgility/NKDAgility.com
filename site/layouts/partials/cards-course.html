@@ -4,14 +4,14 @@
     {{- if .context.Params.preview }}
       {{- $image := .context.Resources.GetMatch (printf "images/%s" .context.Params.preview) }}
       {{- if $image }}
-        <img class="img-fluid" src="{{- $image.RelPermalink }}" alt="{{- .context.Params.Title }}" />
+        <img class="img-fluid" loading="lazy" src="{{- $image.RelPermalink }}" alt="{{- .context.Params.Title }}" />
       {{- else }}
         {{- $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
-        <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
+        <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
       {{- end }}
     {{- else }}
       {{- $image := .resources.Get "images/NKDAgility-Courses-Template-16x9-1-jpg.webp" }}
-      <img class="courseImageBackground img-fluid" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
+      <img class="courseImageBackground img-fluid" loading="lazy" src="/images/NKDAgility-Courses-Template-16x9-1-jpg.webp" alt="{{- .context.Params.Title }}" />
     {{- end }}
   </div>
   <div class="card-body p-2 px-20 clearfix row">
@@ -19,7 +19,7 @@
       {{- if .context.Params.previewIcon }}
         {{- $courseIcon := .context.Resources.GetMatch (printf "images/%s" .context.Params.previewIcon) }}
         {{- if $courseIcon }}
-          <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" src="{{- $courseIcon.RelPermalink }}" alt="{{- .context.Params.Title }}" />
+          <img class="position-absolute top-100 start-50 translate-middle w-25 shadowfilter" loading="lazy" src="{{- $courseIcon.RelPermalink }}" alt="{{- .context.Params.Title }}" />
         {{- end }}
       {{- end }}
     </div>

@@ -37,14 +37,14 @@
             <div class="{{- $colClass }} p-2 d-flex justify-content-center">
               {{- if strings.HasPrefix . "/images/" }}
                 <a href="{{- . | safeURL }}" data-toggle="lightbox">
-                  <img src="{{- . | safeURL }}" style="max-height: 150px;" />
+                  <img src="{{- . | safeURL }}" loading="lazy" style="max-height: 150px;" />
                 </a>
               {{- else }}
                 {{- $image := $page.Resources.GetMatch . }}
                 {{- if $image }}
                   {{- $resized := $image.Fit "25x25 jpg" }}
                   <a href="{{- $image.RelPermalink | safeURL }}" data-toggle="lightbox">
-                    <img src="{{- $resized.RelPermalink | safeURL }}" width="80%" style="max-height: 150px;" />
+                    <img src="{{- $resized.RelPermalink | safeURL }}" loading="lazy" width="80%" style="max-height: 150px;" />
                   </a>
                 {{- else }}
                   failed to get image
