@@ -147,13 +147,73 @@
   </div>
 </footer>
 <!-- Bootsrap -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script async src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 <!-- Lightbox -->
-<script src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
+<script async src="https://cdn.jsdelivr.net/npm/bs5-lightbox@1.8.3/dist/index.bundle.min.js"></script>
 <!-- Cards -->
-<script type="text/javascript" src="{{- "js/cards.js" | relURL }}"></script>
+<script async type="text/javascript" src="{{- "js/cards.js" | relURL }}"></script>
 <!-- Shopify -->
-<script src="{{- "js/shopify/shopify.js" | relURL }}"></script>
+<script async src="{{- "js/shopify/shopify.js" | relURL }}"></script>
 
 <!-- Auth Check -->
-<script src="{{- "js/.auth/check.js" | relURL }}"></script>
+<script async src="{{- "js/.auth/check.js" | relURL }}"></script>
+<!-- metricool -->
+<script async>
+  function loadScript(a) {
+    var b = document.getElementsByTagName("head")[0],
+      c = document.createElement("script");
+    (c.type = "text/javascript"), (c.src = "https://tracker.metricool.com/resources/be.js"), (c.onreadystatechange = a), (c.onload = a), b.appendChild(c);
+  }
+  loadScript(function () {
+    beTracker.t({ hash: "aec7284edc8d1939969ff642d8211446" });
+  });
+</script>
+<!-- Brevo  {literal} -->
+<script type="text/javascript" async>
+  (function () {
+    window.sib = {
+      equeue: [],
+      client_key: "xobflbrha14pjdh0uo0lm396",
+    };
+    /* OPTIONAL: email for identify request*/
+    window.sib.email_id = "contact@nkdagility.com";
+    window.sendinblue = {};
+    for (var j = ["track", "identify", "trackLink", "page"], i = 0; i < j.length; i++) {
+      (function (k) {
+        window.sendinblue[k] = function () {
+          var arg = Array.prototype.slice.call(arguments);
+          (
+            window.sib[k] ||
+            function () {
+              var t = {};
+              t[k] = arg;
+              window.sib.equeue.push(t);
+            }
+          )(arg[0], arg[1], arg[2], arg[3]);
+        };
+      })(j[i]);
+    }
+    var n = document.createElement("script"),
+      i = document.getElementsByTagName("script")[0];
+    (n.type = "text/javascript"), (n.id = "sendinblue-js"), (n.async = !0), (n.src = "https://sibautomation.com/sa.js?key=" + window.sib.client_key), i.parentNode.insertBefore(n, i), window.sendinblue.page();
+  })();
+</script>
+<!-- Brevo Conversations {literal} -->
+<script async>
+  (function (d, w, c) {
+    w.BrevoConversationsID = "671625f4d3c7ed16db0bc208";
+    w[c] =
+      w[c] ||
+      function () {
+        (w[c].q = w[c].q || []).push(arguments);
+      };
+    var s = d.createElement("script");
+    s.async = true;
+    s.src = "https://conversations-widget.brevo.com/brevo-conversations.js";
+    if (d.head) d.head.appendChild(s);
+  })(document, window, "BrevoConversations");
+</script>
+<!-- /Brevo Conversations {/literal} -->
+<!-- Algolia -->
+<script async src="https://cdn.jsdelivr.net/npm/algoliasearch@4.24.0/dist/algoliasearch-lite.umd.js" integrity="sha256-b2n6oSgG4C1stMT/yc/ChGszs9EY/Mhs6oltEjQbFCQ=" crossorigin="anonymous"></script>
+<script async src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.74.2/dist/instantsearch.production.min.js" integrity="sha256-LfyQz2E24221PkRbKoakchcpdlZOA4R1Ugi6NnhyGF0=" crossorigin="anonymous"></script>
