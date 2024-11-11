@@ -3,7 +3,7 @@
   <head>
     {{- partial "infrastructure/head.html" . }}
   </head>
-  <body>
+  <body data-ndka-environment="{{- hugo.Environment }}" data-ndka-version="v#{GitVersion.SemVer}#">
     {{- partial "infrastructure/header.html" . }}
 
     {{- block "breadcrumbs" . }}
