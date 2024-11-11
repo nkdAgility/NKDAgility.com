@@ -3,7 +3,7 @@ title: "naked Agility"
 url: "/"
 sitemap:
   filename: sitemap.xml
-  priority: 1.0
+  priority: 0.9
 headline:
   title: "How Are We Different​"
   subtitle: "We empower teams to deliver real value by focusing on technical leadership, evidence-based decision-making, and comprehensive training."

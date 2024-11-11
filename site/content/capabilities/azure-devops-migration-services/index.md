@@ -6,7 +6,7 @@ creator: Martin Hinshelwood
 weight: 10
 sitemap:
   filename: sitemap.xml
-  priority: 0.8
+  priority: 1.0
 menus:
   footer:
     parent: Consulting Services
