@@ -1,1 +1,17 @@
-{}
+{
+  "networking": {
+    "allowedIpRanges": ["AzureFrontDoor.Backend"]
+  },
+  "forwardingGateway": {
+    "requiredHeaders": {
+      "X-Azure-FDID": "310afbef-228c-441b-a34f-90dec6d9b02a"
+    },
+    "allowedForwardedHosts": ["nkdagility-preview-ajcxerc0cfexbhcw.z02.azurefd.net", "preview.nkdagility.com"]
+  },
+  "routes": [
+    {
+      "route": "/login",
+      "redirect": "/.auth/login/aad?post_login_redirect_uri=https://preview.nkdagility.com"
+    }
+  ]
+}
