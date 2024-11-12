@@ -1,6 +1,8 @@
 ---
 title: Common Goals
 description: All participants and stakeholders should understand the overall strategic goals and be able to see how the work contributes to it
+resourceTypes: principles
+layout: principles
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood

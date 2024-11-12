@@ -4,6 +4,9 @@ description: Team and stakeholders should be transparent about the work, inspect
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood
+resourceTypes: principles
+layout: principles
+draft: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/empirical-process-control/
 card:

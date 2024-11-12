@@ -1,6 +1,7 @@
 ---
 title: Sprint Planning Recipe
-type: recipe
+resourceTypes: recipe
+layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
 date: 2024-09-17

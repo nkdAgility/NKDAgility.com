@@ -1,6 +1,8 @@
 ---
 title: Continuous Delivery
 description: Continuous delivery of valuable product to at least some subset of real users every iteration (including the first) and gathering feedback
+resourceTypes: principles
+layout: principles
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood

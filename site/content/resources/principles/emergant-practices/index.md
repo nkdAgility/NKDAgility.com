@@ -1,9 +1,11 @@
 ---
 title: Emergant Practices
 description: Processes, practices and tools necessary will emerge as we do the work and help others do it
-recommendedContent:
 date: 2024-09-17
+resourceTypes: principles
+layout: principles
 creator: Martin Hinshelwood
+draft: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/emergant-practices/
 card:
