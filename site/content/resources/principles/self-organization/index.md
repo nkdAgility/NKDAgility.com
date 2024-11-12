@@ -4,6 +4,9 @@ description: Self Organizing teams have the autonomy to determine how to achieve
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood
+resourceTypes: principles
+layout: principles
+draft: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/self-organization/
 card:

@@ -1,6 +1,7 @@
 ---
 title: Daily Scrum Recipe
-type: recipe
+resourceTypes: recipe
+layout: recipe
 image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
 aliases:

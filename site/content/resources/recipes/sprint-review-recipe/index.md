@@ -1,7 +1,8 @@
 ---
 title: Sprint Review Recipe
 description: A starter recipe for a Sprint Planning event with suggested facilitation options.
-type: recipe
+resourceTypes: recipe
+layout: recipe
 date: 2024-09-17
 image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
 aliases:

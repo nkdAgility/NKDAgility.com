@@ -4,6 +4,9 @@ description: Update the work based on market and user feedback on timelines shor
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood
+resourceTypes: principles
+layout: principles
+draft: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/market-focus/
 card:

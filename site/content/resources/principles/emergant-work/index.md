@@ -4,6 +4,9 @@ description: The work needed will emerge as we do the work and help others do it
 recommendedContent:
 date: 2024-09-17
 creator: Martin Hinshelwood
+resourceTypes: principles
+layout: principles
+draft: true
 aliases:
   - /learn/agile-delivery-kit/first-principals/emergant-work/
 card:
