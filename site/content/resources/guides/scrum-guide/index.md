@@ -4,10 +4,11 @@ description: The Scrum Guide contains the definition of Scrum.
 resourceTypes: guide
 layout: guide
 aliases:
-  - guides/Scrum-Guide/
-  - guides/Scrum-Guide.html
-  - guides/scrum-guide.html
+  - /guides/Scrum-Guide/
+  - /guides/Scrum-Guide.html
+  - /guides/scrum-guide.html
   - /learn/agile-delivery-kit/guides/scrum-guide
+  - /resources/guides/_guides/scrum-guide.md
 downloads:
   - title: "Scrum Guide 2020"
     type: pdf

@@ -2,28 +2,29 @@
 title: Sprint Review Recipe
 description: A starter recipe for a Sprint Planning event with suggested facilitation options.
 type: recipe
-image: ./../assets/images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
+date: 2024-09-17
+image: /images/naked-Agility-Scrum-Framework-Sprint-Review.jpg
+aliases:
+  - /learn/agile-delivery-kit/recipes/sprint-review-recipe/
 creator: Martin Hinshelwood
 recommendedContent:
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
- - collection: practices
-   path: _practices/service-level-expectation-sle.md
- - collection: technologies
-   path: _technologies/liberating-structures/shift-share.md
- - collection: technologies
-   path: _technologies/liberating-structures/what-so-what-now-what.md
- - collection: workshops
-   path: _workshops/sprint-review-1.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+  - collection: practices
+    path: _practices/service-level-expectation-sle.md
+  - collection: technologies
+    path: _technologies/liberating-structures/shift-share.md
+  - collection: technologies
+    path: _technologies/liberating-structures/what-so-what-now-what.md
+  - collection: workshops
+    path: _workshops/sprint-review-1.md
 videos:
- - title: Overview of The Scrum Framework
-   embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
- - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
-   embed: https://www.youtube.com/embed/1-W64WdSbF4
-date: 2024-09-17
-creator: Martin Hinshelwood
+  - title: Overview of The Scrum Framework
+    embed: https://www.youtube.com/embed/Q2Fo3sM6BVo
+  - title: Free Workshop 4 Introduction to Sprint Review! [Audio-Fixed]
+    embed: https://www.youtube.com/embed/1-W64WdSbF4
 card:
   button:
     content: Learn More

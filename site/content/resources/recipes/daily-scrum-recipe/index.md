@@ -1,35 +1,34 @@
 ---
 title: Daily Scrum Recipe
 type: recipe
-image: ./../assets/images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
+image: /images/naked-Agility-Scrum-Framework-Daily-Scrum.jpg
 creator: Martin Hinshelwood
- - /recipes/Daily-Scrum-Recipe.html
+aliases:
+  - /recipes/Daily-Scrum-Recipe.html
+  - /learn/agile-delivery-kit/recipes/daily-scrum-recipe/
 recommendedContent:
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
 videos:
- - title: Overview of the Scrum Framework?
-   embed: https://youtu.be/Q2Fo3sM6BVo
- - title: How to Facilitate the Daily Scrum
-   embed: https://youtu.be/V2hYKB8xLNc
- - title: The Daily Scrum is NOT a Status Meeting!
-   embed: https://youtu.be/i7_RPceEIYE
+  - title: Overview of the Scrum Framework?
+    embed: https://youtu.be/Q2Fo3sM6BVo
+  - title: How to Facilitate the Daily Scrum
+    embed: https://youtu.be/V2hYKB8xLNc
+  - title: The Daily Scrum is NOT a Status Meeting!
+    embed: https://youtu.be/i7_RPceEIYE
 references:
- - title: What is a Daily Scrum?
-   url: https://www.scrum.org/resources/what-is-a-daily-scrum
- - title: Avoid the Bug as Task anti-pattern in Azure DevOps
-   url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
-
+  - title: What is a Daily Scrum?
+    url: https://www.scrum.org/resources/what-is-a-daily-scrum
+  - title: Avoid the Bug as Task anti-pattern in Azure DevOps
+    url: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops
 date: 2024-09-17
-creator: Martin Hinshelwood
 card:
   button:
     content: Learn More
   content: Discover more about Daily Scrum Recipe and how it can help you in your Agile journey!
   title: Daily Scrum Recipe
-aliases:
 ---
 
 The Daily Scrum is an essential event in the Scrum framework. It offers the
@@ -116,7 +115,7 @@ You can use the following visualisations:
   to the oldest items. By actively managing based on the age of items, the
   Developers can see clearly which items need the most focus, what is blocked,
   and how long they have been in progress.  
-  ![Work Item Aging Graph at the Daily
+   ![Work Item Aging Graph at the Daily
 Scrum](../../assets/images/naked-agility-DailyScrum-WorkItemAging.jpg) An
   advanced form of this is shown here, where we are also overlaying the 50th,
   70th, 85th, and 95th percentiles for each of the columns in our process.

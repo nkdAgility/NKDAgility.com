@@ -1,26 +1,28 @@
 ---
 title: Sprint Planning Recipe
 type: recipe
-image: ./../assets/images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
+image: /images/naked-Agility-Scrum-Framework-Sprint-Planning.jpg
 creator: Martin Hinshelwood
-recommendedContent:
- - collection: practices
-   path: _practices/professional-sprint-planning.md
- - collection: guides
-   path: _guides/manifesto-for-agile-software-development.md
- - collection: guides
-   path: _guides/scrum-guide.md
-videos:
- - title: What is the most common mistake in sprint planning?
-   embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
- - title: What is sprint planning?
-   embed: https://www.youtube.com/embed/nMkit8zBxG0
- - title: "What is your #1 tip for effective sprint planning?"
-   embed: https://www.youtube.com/embed/uQ786VBz3Jw
- - title: "How does a scrum team plan and prioritize work effectively?"
-   embed: https://www.youtube.com/embed/sPmUuSy7G3I
 date: 2024-09-17
-creator: Martin Hinshelwood
+aliases:
+  - /learn/agile-delivery-kit/recipes/sprint-planning-recipe/
+recommendedContent:
+  - collection: practices
+    path: _practices/professional-sprint-planning.md
+  - collection: guides
+    path: _guides/manifesto-for-agile-software-development.md
+  - collection: guides
+    path: _guides/scrum-guide.md
+videos:
+  - title: What is the most common mistake in sprint planning?
+    embed: https://www.youtube.com/embed/JVZzJZ5q0Hw
+  - title: What is sprint planning?
+    embed: https://www.youtube.com/embed/nMkit8zBxG0
+  - title: "What is your #1 tip for effective sprint planning?"
+    embed: https://www.youtube.com/embed/uQ786VBz3Jw
+  - title: "How does a scrum team plan and prioritize work effectively?"
+    embed: https://www.youtube.com/embed/sPmUuSy7G3I
+
 card:
   button:
     content: Learn More
