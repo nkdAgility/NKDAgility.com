@@ -6,12 +6,12 @@
     "requiredHeaders": {
       "X-Azure-FDID": "310afbef-228c-441b-a34f-90dec6d9b02a"
     },
-    "allowedForwardedHosts": ["nkdagility-g9e6gea4fcase2dx.z02.azurefd.net", "nkdagility.com", "prototype.nkdagility.com"]
+    "allowedForwardedHosts": ["nkdagility-g9e6gea4fcase2dx.z02.azurefd.net", "nkdagility.com"]
   },
   "routes": [
     {
       "route": "/login",
-      "redirect": "/.auth/login/aad?post_login_redirect_uri=https://prototype.nkdagility.com"
+      "redirect": "/.auth/login/aad?post_login_redirect_uri=https://nkdagility.com"
     }
   ]
 }

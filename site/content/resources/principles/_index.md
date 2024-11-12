@@ -1,7 +1,9 @@
 ---
 title: "Technically Agile: Principles"
 description: Our principles are the foundation of our work. They guide our decisions, actions, and interactions. They are the essence of who we are and what we stand for. They are the reason we do what we do.
-draft: true
+draft: false
+aliases:
+  - /learn/agile-delivery-kit/first-principals/
 headline:
   cards:
     - content: Equip your teams with the skills and innovative thinking needed to deliver high-quality, scalable solutions that align with your business vision.
