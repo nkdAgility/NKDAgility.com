@@ -231,7 +231,7 @@ syllabus:
     learningResources:
       - title: The Scrum Guide
         link: /resources/guides/the-scrum-guide
-        duration: 60
+        duration: 120
         type: handshake-angle
         weight: 1
       - title: "E5 Powerful Things About the Sprint"
@@ -358,7 +358,7 @@ syllabus:
 
   - id: 8
     title: Closing
-    duration: 30
+    duration: 120
     content: As we conclude the Product Owner course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
     learningResources:
       - title: The Scrum Guide

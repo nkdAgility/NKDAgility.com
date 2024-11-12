@@ -1,0 +1,66 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ .Page.Type }}",
+    "name": "{{ .Title }}",
+    "description": "{{ .Params.card.content | plainify }}",
+    "provider": {
+      "@type": "Organization",
+      "name": "Naked Agility with Martin Hinshelwood",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "courseMode": "{{ index (index .Params "course-learning-experiences") 0 }}",
+    "courseCode": "{{ .Params.code }}",
+    "sku": "{{ .Params.code }}",
+    "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",
+    "coursePrerequisites": "{{ .Params.prerequisites | plainify }}"
+    {{- if ne hugo.Environment "production" }}
+    {{- if .Params.events }},
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "startDate": "{{ with (index .Params.events 0).start_date }}{{ . | dateFormat "2006-01-02" }}{{ end }}",
+      "endDate": "{{ with (index .Params.events 0).sessions }}{{ with (index (last 1 .) 0) }}{{ .end_datetime | dateFormat "2006-01-02" }}{{ end }}{{ end }}",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "{{ (index .Params.events 0).registration_link }}"
+      },
+      "instructor": {
+        "@type": "Person",
+        "name": "Martin Hinshelwood",
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Naked Agility with Martin Hinshelwood"
+        }
+      },
+      "offers": [
+        {{- $zones := (index .Site.Data "pricing-zone") }}
+        {{- range $index, $zone := $zones }}
+        {{- if and $zone.enabled (gt (len $zone.countries) 0) }}
+        {{- if $index }},{{ end }}
+        {
+          "@type": "Offer",
+          "url": "{{ .Params.url | relURL }}",
+          "priceCurrency": "{{ $zone.currency }}",
+          "price": "100",
+          "availability": "https://schema.org/InStock",
+          "eligibleRegion": [
+            {{- range $i, $country := $zone.countries }}
+            {{ if $i }},{{ end }}
+            {
+              "@type": "Place",
+              "name": "{{ $country }}"
+            }
+            {{ end }}
+          ]
+        }
+        {{- end }}
+        {{- end }}
+      ]
+    }
+    {{- end }}
+    {{- end }}
+    {{- if .Params.syllabus }},
+    "courseWorkload": "Total duration: {{ $total := 0 }}{{ range .Params.syllabus }}{{ $total = add $total .duration }}{{ end }}{{ div $total 60 }} hours, including: {{ range .Params.syllabus }}{{ .title }} - {{ div .duration 60 }} hours, {{ end }}"
+    {{- end }}
+  }
+  </script>

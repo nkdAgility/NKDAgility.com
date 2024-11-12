@@ -293,7 +293,7 @@ syllabus:
         weight: 1
   - id: 3
     title: Done
-    duration: 60
+    duration: 120
     content: Participants can interpret the relationship between the concept of Done in Scrum and its role in creating transparency for empiricism, and collaborate with their team to identify potential improvements in their current situation.
     learningResources:
       - title: The Definition of Done
@@ -337,7 +337,7 @@ syllabus:
         - If QA is done outside the team, try conducting QA within the team and within the Sprint, and observe any changes in the process.
   - id: 4
     title: Product Delivery with Scrum
-    duration: 160
+    duration: 120
     content: Participants correlate the benefits of an empirical approach to product development to how the Product Backlog contributes to transparency. The student also understands how frequent inspection and adaptation of the backlog is crucial to achieving goals at various levels.
     learningResources:
       - title: "Scrum Myths: There is No Planning in Scrum"
@@ -389,7 +389,7 @@ syllabus:
 
   - id: 5
     title: People & Teams
-    duration: 90
+    duration: 120
     content: Participant can can defend the significance of collaboration as a key factor for efficiency and quality, and detect the different influencers that may impact collaboration within their Scrum Team.
     learningResources:
       - title: The Surprising Truth about what motivates us
@@ -424,7 +424,7 @@ syllabus:
 
   - id: 6
     title: The Scrum Master
-    duration: 60
+    duration: 120
     content: Participant is able to assess their own behavior as a Scrum Master in terms of how they help teams achieve their goals, and assess their own ability to make deliberate choices about how to enable team growth.
     assignment:
       title: How to Become a Great Scrum Master
@@ -446,7 +446,7 @@ syllabus:
 
   - id: 7
     title: Closing
-    duration: 30
+    duration: 120
     content: As we conclude the Scrum Master course, this final session is designed to reflect on your learning journey, consolidate key concepts, and prepare you to apply your new skills confidently within your team. We'll revisit the course highlights, address any remaining questions, and provide guidance on the next steps to continue your growth as a Scrum Master.
     assignment:
       title: Take the PSM I assessment.
