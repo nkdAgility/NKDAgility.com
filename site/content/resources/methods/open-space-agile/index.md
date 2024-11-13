@@ -8,6 +8,7 @@ layout: method
 slug: open-space-agile
 aliases:
   - /methods/open-space-agile/
+  - /learn/agile-delivery-kit/strategies/open-space-agile/
 card:
   button:
     content: Start Optimizing Now
