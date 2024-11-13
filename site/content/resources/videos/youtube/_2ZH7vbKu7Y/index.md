@@ -98,4 +98,3 @@ Encourage learning, adapt to new technologies, and fix the system when it’s br
 And remember, learning isn’t just about acquiring knowledge—it’s about applying it in new and exciting ways. If you enjoyed this blog and want to dive deeper into Agile, Scrum, or DevOps, feel free to reach out and book a coffee chat with me through Naked Agility ☕.
 
 
-

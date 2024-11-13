@@ -103,4 +103,3 @@ For more information or to see our full list of upcoming classes, visit our webs
 In conclusion, becoming a great Scrum Master is a journey, not a destination. By investing in immersive training, you’re not just improving your own skills—you’re also setting your team up for success, fostering a culture of continuous improvement, and driving greater value for your organization. So, what are you waiting for? 🎯 Start your journey today!
 
 
-

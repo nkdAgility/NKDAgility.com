@@ -47,7 +47,7 @@ $youtubeFolders | ForEach-Object {
                 $customBody = $matches[2]
                 
                 # Remove the first instance of a YouTube URL from the custom body
-                $youtubeUrlPattern = "https:\/\/youtube\.com\/shorts\/[a-zA-Z0-9_-]+|https:\/\/youtu\.be\/[a-zA-Z0-9_-]+"
+                $youtubeUrlPattern = "https?:\/\/(youtube\.com\/shorts\/[a-zA-Z0-9_-]+|youtu\.be\/[a-zA-Z0-9_-]+)"
                 $customBody = $customBody -replace $youtubeUrlPattern, ""
                 
                 # Always use the body from the newest wordpress.custom*.md file
@@ -114,6 +114,9 @@ $youtubeFolders | ForEach-Object {
                 $frontMatter.aliases += "$($frontMatter.url)"
             }
         }
+
+        # Trim new lines from start and end of body
+        $body = $body.Trim()
 
         # Combine the contents
         $mergedContent = "---`n$($frontMatter | ConvertTo-Yaml)`n---`n`n{{< youtube $youtubeId >}}`n`n$body`n`n"

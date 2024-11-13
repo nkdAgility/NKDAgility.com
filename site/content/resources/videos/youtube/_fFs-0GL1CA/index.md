@@ -12,8 +12,6 @@ isShort: false
 
 {{< youtube _fFs-0GL1CA >}}
 
-
-
 # Why do you encourage people to follow a certification path in their career journey?
 
 The world of #agile is inherently complex. If building complex solutions or solving complex problems was a straightforward process of observing a formula, traditional #projectmanagement would do the trick and there would be no need for #agile or #scrum.
@@ -37,6 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_fFs-0GL1CA)
-
 
 

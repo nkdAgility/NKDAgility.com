@@ -12,8 +12,6 @@ isShort: false
 
 {{< youtube -Mz9cH0uiTQ >}}
 
-
-
 # Does a client tell an agile consultant what they need or does it work the other way around?
 
 Making the transition from #projectmanagement to #agile #productdevelopment can be intimidating. You don't know where to start, you aren't sure of what the top priorities are, and you may not even be 100% clear about what problems you are trying to solve.
@@ -37,6 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=-Mz9cH0uiTQ)
-
 
 
