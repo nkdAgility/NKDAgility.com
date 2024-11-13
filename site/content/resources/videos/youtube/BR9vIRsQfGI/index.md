@@ -1,12 +1,13 @@
 ---
-title: " shorts 5 things you would teach a productowner apprentice. Part 1"
+title: ' shorts 5 things you would teach a productowner apprentice. Part 1'
 date: 2023-12-13T11:00:08Z
 videoId: BR9vIRsQfGI
 url: /resources/videos/-shorts-5-things-you-would-teach-a-productowner-apprentice-part-1
 canonicalUrl: https://www.youtube.com/watch?v=BR9vIRsQfGI
 preview: https://i.ytimg.com/vi/BR9vIRsQfGI/maxresdefault.jpg
 duration: 55
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube BR9vIRsQfGI >}}
@@ -18,3 +19,5 @@ isShort: True
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BR9vIRsQfGI)
+
+

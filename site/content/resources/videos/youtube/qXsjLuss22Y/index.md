@@ -1,33 +1,89 @@
 ---
-title: "What is a product goal?"
-date: 2023-05-30T11:00:40Z
+title: What is a sprint goal?
+date: 2023-10-10
 videoId: qXsjLuss22Y
-url: /resources/videos/what-is-a-product-goal-
-canonicalUrl: https://www.youtube.com/watch?v=qXsjLuss22Y
+url: /resources/videos/:slug
+slug: what-is-a-sprint-goal
 preview: https://i.ytimg.com/vi/qXsjLuss22Y/maxresdefault.jpg
 duration: 45
-isShort: True
+isShort: true
+aliases:
+- /resources/what-is-a-sprint-goal
+- /resources/what-is-a-product-goal
+- /resources/videos/what-is-a-product-goal-
+
 ---
 
 {{< youtube qXsjLuss22Y >}}
 
-# What is a product goal?
+## What's a Sprint Goal and Why Does It Matter?
 
-#shorts #shortsvideo #shortvideo A product goal is a medium-term goal that aligns the #sprintgoal with the #productvision. It's an incredibly important element of #productdevelopment  because it ensures that the team are focused on the most valuable work for the customer, and that the work aligns with a strategic objective.
+I think it's essential to ask what a sprint goal is and look deeper into why it matters. 
 
-In this short video, Martin Hinshelwood explains what a product goal is, how to craft one, and why it matters.
+How does a sprint goal drive progress?
+
+Let me share with you some insights from the trenches of Scrum.
+
+## Exploring The Tactical Aspect of Scrum
+
+To begin with, I'd like to stress that a sprint goal is a pivotal component of the Scrum framework.  🎯
+
+So, let's explore what it is, the changes it can bring, and my top three takeaways from the topic.
+
+Ready to uncover the essence of the sprint goal?
+
+Let's dive right in!
+
+## A Tactical Dimension of Scrum
+
+Understanding a Sprint Goal necessitates a clear perception of the vision and the product goal in the Scrum context.
+
+For those well versed in Scrum, we know that a vision is a strategic beacon, guiding us towards a broader objective.  At the same time, a product goal serves as an intermediate strategic milestone.   They provide a broad direction and a nearer-term aim, respectively.
+
+However, this is where the sprint goal is different.  🎯
+
+This is where we go from strategic to tactical.
+
+Unlike its strategic counterparts, a sprint goal is inherently tactical.  It answers questions such as, "What are we doing right now to make progress towards our product goal and our product vision?"
+
+It deals with the nitty-gritty, addressing what we are doing now to move forward towards our product goal and vision.  It's the immediate taskmaster that the team needs to focus on in the present.
+
+A sprint goal serves as a very present and actionable guide, highlighting the immediate tasks at hand for the team.  📈
+
+## Concrete Nature of Sprint goals
+
+It's important to understand the sprint goal clearly. 
+
+So, let me explain.
+
+A defining characteristic of a Sprint Goal is its tangibility.
+
+This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the sprint review and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
+
+Feedback cannot be vague or speculative but rather precise, such as "We like this because..." or "We dislike this because...".
+
+Therefore, a sprint goal is vital to obtain valuable insights from stakeholders, a feedback mechanism that helps the team understand their expectations better.
+
+## A Tactical Objective
+
+The sprint goal in action means living in the Moment and is the sprint goal philosophy.
+
+In essence, a sprint goal, at any given moment, is a tactical aim that your team is actively pursuing.   A sort of snapshot of what your team is striving towards.
+
+It's a living, breathing objective that changes with every Sprint, reflecting the ongoing tasks that are shaping the journey towards the ultimate product vision.
+
+It's about what's happening and how it contributes to the broader product vision and goal.  It provides the team's immediate focus and helps foster cohesion and motivation.  ⏱️
+
+So, there you have it, folks!
+
+To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your Scrum team through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
+
+Want to learn more about setting impactful Sprint Goals and mastering other elements of Agile and Scrum?
+
+Then my Agile and Scrum courses are just the thing for you!
+
+Let's continue this journey towards Scrum mastery together.
 
 About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
-
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
-
-We would love to work with you. 
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
-
-[Watch on YouTube](https://www.youtube.com/watch?v=qXsjLuss22Y)

@@ -1,12 +1,13 @@
 ---
-title: "How much of an impact can a great agile consultant have?"
+title: How much of an impact can a great agile consultant have?
 date: 2023-01-24T07:30:02Z
 videoId: 8vu-AXJwwYk
 url: /resources/videos/how-much-of-an-impact-can-a-great-agile-consultant-have-
 canonicalUrl: https://www.youtube.com/watch?v=8vu-AXJwwYk
 preview: https://i.ytimg.com/vi/8vu-AXJwwYk/maxresdefault.jpg
 duration: 554
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 8vu-AXJwwYk >}}
@@ -41,3 +42,5 @@ We would love to work with you.
 #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=8vu-AXJwwYk)
+
+

@@ -1,12 +1,13 @@
 ---
-title: "How does your real world experience translate into your training style?"
+title: How does your real world experience translate into your training style?
 date: 2023-01-20T07:00:08Z
 videoId: N0Ci9PQQRLc
 url: /resources/videos/how-does-your-real-world-experience-translate-into-your-training-style-
 canonicalUrl: https://www.youtube.com/watch?v=N0Ci9PQQRLc
 preview: https://i.ytimg.com/vi/N0Ci9PQQRLc/maxresdefault.jpg
 duration: 423
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube N0Ci9PQQRLc >}}
@@ -38,3 +39,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N0Ci9PQQRLc)
+
+

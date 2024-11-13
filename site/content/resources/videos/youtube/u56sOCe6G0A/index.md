@@ -1,54 +1,102 @@
 ---
-title: "3 core practices of Kanban. Actively managing items in a workflow."
-date: 2024-02-26T14:06:47Z
+title: 3 core practices of Kanban. Actively managing work items in a workflow.
+date: 2024-07-02
 videoId: u56sOCe6G0A
-url: /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
-canonicalUrl: https://www.youtube.com/watch?v=u56sOCe6G0A
+url: /resources/videos/:slug
+slug: 3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 preview: https://i.ytimg.com/vi/u56sOCe6G0A/maxresdefault.jpg
 duration: 234
-isShort: False
+isShort: false
+aliases:
+- /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
+- /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+
 ---
 
 {{< youtube u56sOCe6G0A >}}
 
-# 3 core practices of Kanban. Actively managing items in a workflow.
+### Actively Managing Your Workflow in a Kanban Strategy
 
-Maximize Your Workflow with Active Management: A Must-Watch Guide
+**Introduction**
 
-Discover the transformative power of active workflow management in this insightful video. Learn essential strategies to optimize your process, ensure smooth operations, and deliver unparalleled value. Dive into a comprehensive guide that equips you with the tools to excel in combined strategy management. Don't miss out on the key to unlocking your team's potential.
+Once you have defined and visualized your workflow, the next critical step in a Kanban strategy is to actively manage the work within your workflow. This means being proactive and engaged with the process, ensuring that the flow of work remains smooth and efficient.
 
-Key Highlights:
 
-Understanding Active Management:
 
-Fundamentals: Learn the importance of not just visualizing your workflow but actively managing it to prevent stagnation and inefficiency.
-Active Engagement: Discover how participants in the process play a crucial role in identifying and addressing workflow challenges.
+* * *
 
-Optimizing Work In Process:
+**The Importance of Active Management**
 
-Balancing Workloads: Find out strategies for managing workload distribution to prevent bottlenecks and idle resources.
-Adapting to Workflows: Gain insights on adjusting work in process to maintain a steady flow and maximize efficiency.
-Preventing Work Pile-Up:
-Identifying Blockages: Learn how to spot and address areas where work is accumulating, preventing smooth transitions between teams or processes.
-Solutions for Stagnation: Strategies to resolve work pile-up and ensure tasks don't remain inactive for extended periods.
+Active management is essential because it prevents you from being a passive observer of your workflow. It's not enough to simply visualize your work; you need to take action to optimize the process. Here’s how to effectively manage your workflow:
 
-Enhancing Workflow Visualization:
+1. **Monitor Work in Progress (WIP)**:
 
-Kanban Insights: Utilize Kanban visualization to identify and mitigate workflow impediments effectively.
-Blockage Management: Understand the importance of visualizing blocked items and actively working towards unblocking them.
+- Adjust the amount of work in progress to ensure optimal flow.
 
-Proactive Problem-Solving:
+- If there are too many tasks in a particular area, reduce the WIP to prevent bottlenecks.
 
-Analyzing Workflow Data: Uncover the significance of examining workflow data to identify long-standing tasks and the reasons behind delays.
-Actionable Strategies: Learn specific tactics to move blocked or slow-moving items towards completion, improving overall workflow efficiency.
+- Conversely, if there are idle resources, increase the WIP to keep everyone productive.
 
-Achieving a Streamlined Process:
+1. **Prevent Piling Up of Work**:
 
-Eliminating Blockages: Techniques to clear workflow blockages, akin to unclogging a pipe, to allow for unimpeded progress.
-Maintaining Flow: Ensure that tasks move smoothly through the system, avoiding build-ups that can halt progress.
+- Keep an eye on your Kanban board to identify areas where work is piling up.
 
-Call to Action:
+- Actively address these bottlenecks to prevent delays and maintain a steady flow.
 
-If you're encountering challenges in implementing a combined strategy, or simply aiming to enhance your workflow, we're here to assist. Visit nkdagility.com for an array of great videos, insightful articles, and practical how-to blogs designed to empower your team and refine your processes. Let us help you navigate the complexities of workflow management and unlock your team's full potential. Click now to explore more!
+* * *
 
-[Watch on YouTube](https://www.youtube.com/watch?v=u56sOCe6G0A)
+**Identifying and Addressing Issues**
+
+Active management involves regularly reviewing your workflow and addressing any issues that arise:
+
+- **Aging Work Items**:
+
+- Identify items that have been active for an unusually long time.
+
+- Investigate why these items are stuck and take steps to move them towards completion.
+
+- **Blocked Items**:
+
+- Clearly indicate blocked items on your board.
+
+- Develop strategies to unblock these items and get them moving through the system again.
+
+- **Clogged Workflow**:
+
+- Treat your workflow like a pipe that can get clogged.
+
+- Actively work to remove any blockages to ensure a smooth flow of work.
+
+* * *
+
+**Taking Action**
+
+Here are some specific actions you can take to actively manage your workflow:
+
+- **Review and Adjust**:
+
+- Regularly review your Kanban board and adjust WIP limits as necessary.
+
+- Ensure that tasks are moving smoothly through each stage of the workflow.
+
+- **Resolve Blockages**:
+
+- Develop a process for quickly addressing and resolving blocked items.
+
+- This might involve cross-functional collaboration or additional resources to clear the blockage.
+
+- **Optimize Flow**:
+
+- Continuously look for ways to optimize the flow of work.
+
+- Use metrics and data from your Kanban board to make informed decisions about process improvements.
+
+* * *
+
+**Conclusion**
+
+Active management is a core practice in Kanban that ensures your workflow remains efficient and effective. By regularly reviewing your workflow, addressing bottlenecks, and optimizing the flow of work, you can maximize the value delivered to your customers.
+
+If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click on the link below to get in touch and start optimizing your workflow today.
+
+

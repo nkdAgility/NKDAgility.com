@@ -1,12 +1,13 @@
 ---
-title: "Most Influential Person in Agile - Jerónimo Palacios"
+title: Most Influential Person in Agile - Jerónimo Palacios
 date: 2023-05-04T07:00:07Z
 videoId: JNJerYuU30E
 url: /resources/videos/most-influential-person-in-agile-jerónimo-palacios
 canonicalUrl: https://www.youtube.com/watch?v=JNJerYuU30E
 preview: https://i.ytimg.com/vi/JNJerYuU30E/maxresdefault.jpg
 duration: 50
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube JNJerYuU30E >}}
@@ -32,3 +33,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JNJerYuU30E)
+
+

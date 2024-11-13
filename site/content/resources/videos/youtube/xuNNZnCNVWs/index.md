@@ -1,12 +1,15 @@
 ---
-title: "1 critical skill for a scrum master and why?"
+title: 1 critical skill for a scrum master and why?
 date: 2023-04-27T07:00:31Z
 videoId: xuNNZnCNVWs
 url: /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=xuNNZnCNVWs
 preview: https://i.ytimg.com/vi/xuNNZnCNVWs/maxresdefault.jpg
 duration: 45
-isShort: True
+isShort: true
+aliases:
+- /resources/1-critical-skill-for-a-scrum-master-and-why-2
+
 ---
 
 {{< youtube xuNNZnCNVWs >}}
@@ -30,3 +33,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xuNNZnCNVWs)
+
+

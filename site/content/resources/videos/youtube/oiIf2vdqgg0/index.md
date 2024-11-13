@@ -1,32 +1,60 @@
 ---
-title: "What is a product vision?"
-date: 2023-05-29T14:00:36Z
+title: What is a product vision?
+date: 2023-10-10
 videoId: oiIf2vdqgg0
-url: /resources/videos/what-is-a-product-vision-
-canonicalUrl: https://www.youtube.com/watch?v=oiIf2vdqgg0
+url: /resources/videos/:slug
+slug: what-is-a-product-vision
 preview: https://i.ytimg.com/vi/oiIf2vdqgg0/maxresdefault.jpg
 duration: 41
-isShort: True
+isShort: true
+aliases:
+- /resources/what-is-a-product-vision
+- /resources/videos/what-is-a-product-vision-
+
 ---
 
 {{< youtube oiIf2vdqgg0 >}}
 
-# What is a product vision?
+## It's All About Direction
 
-In #scrum, a #productvision is something that guides the team over the long-term and inspires them to fulfill a specific mission or purpose. It's an incredibly important part of aligning the #scrumteam with organizational and customer objectives. In this short video, Martin Hinshelwood explains what a product vision is, why it matters, and how to build one.
+Greetings, fellow agile enthusiasts!
 
-About NKD Agility
+Today, I've been asked, "What is a product vision?" 🤔
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+So, let's dive right into it, shall we?
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+In my view, a product vision boils down to one essential element - 'direction.'
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Understanding the Concept of a Product Vision?
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Now, that might seem a little vague, so allow me to elaborate.
 
-We would love to work with you. 
+To my mind, a product vision is our understanding of the destination we're striving for.  It's the 'North Star' that guides all the developmental efforts of our team. 🌠
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+It reflects the desired outcome that we're trying to achieve and the ultimate outcome we're trying to achieve at the end of a specific product cycle. 🔄
 
-[Watch on YouTube](https://www.youtube.com/watch?v=oiIf2vdqgg0)
+## A Look Ahead
+
+A product vision must look beyond any immediate goals and into the future.  It's critical to understand that a product vision goes far beyond a product goal and I can say with conviction that it's definitely leagues beyond a sprint goal. 🔝
+
+It's like gazing into the expectations of the product, envisaging what success would look like at the end of our journey.
+
+Think of it this way.  A product vision is our best guess about the future state of our product, crafted in the present, steering us towards success.  It's the roadmap we sketch today to reach our goals tomorrow.
+
+A product vision needs to resemble the end result if everything goes according to plan and we hit the bullseye.  🎯
+
+In summary, I believe that a product vision is a long-term, overarching goal that aligns your team's efforts and keeps everyone moving in the same direction. 🚀
+
+It paints a picture of the desired end state that will inspire your team, stakeholders, and customers.
+
+To put it in simpler terms, a product vision is your beacon, guiding you through the development process.  It's not about the nitty-gritty details of every sprint or even the specifics of the product goal.  It's about the big picture, the direction you steer your product.
+
+Want to delve deeper into Agile and Scrum?
+
+I invite you to join my Agile and Scrum courses, where we explore these concepts and much more.
+
+Can't wait to see you there!
+
+Remember, the future is what we make it. Let's create it together, starting today.
+
+

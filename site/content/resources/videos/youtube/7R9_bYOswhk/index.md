@@ -1,34 +1,70 @@
 ---
-title: "Why is the Professional Agile Leadership Essentials course a natural evolution for an experienced"
-date: 2023-07-27T07:00:04Z
+title: Why is the Professional Agile Leadership - Essentials course a natural evolution for an experienced Scrum Master?
+date: 2023-11-17
 videoId: 7R9_bYOswhk
-url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
-canonicalUrl: https://www.youtube.com/watch?v=7R9_bYOswhk
+url: /resources/videos/:slug
+slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 preview: https://i.ytimg.com/vi/7R9_bYOswhk/maxresdefault.jpg
 duration: 143
-isShort: False
+isShort: false
+aliases:
+- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master-2
+- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
+- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+- /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+
 ---
 
 {{< youtube 7R9_bYOswhk >}}
 
-# Why is the Professional Agile Leadership Essentials course a natural evolution for an experienced
+## Ascending the Leadership Ladder
 
-The #scrummaster accountability is often the first step into the #agileleadership journey for many #agile practitioners. Yes, it forms the foundation of servant leadership, but the complexity of the role and the requirements for cross-functional department communications means that the #scrummaster needs to develop and nurture #leadership capabilities.
+A recurring question I've been getting, which is both pertinent and insightful in the Agile world, is: "Why is the Professional Agile Leadership Essentials class viewed as the core evolution for a seasoned Scrum Master?"
 
-In this short video, Martin Hinshelwood explains why the #professionalagileleadership essentials course is a natural evolution for a #scrummaster or #agilecoaching 
+Delving into this course is more than just an academic pursuit; it's a strategic climb up the leadership ladder.  🎯
 
-About NKD Agility
+## The Two Pillars of Evolution
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+I've always said that there are two primary reasons, two significant aspects that drive this natural evolution for a Scrum Master.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Let's take a closer look at these two points:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+## 1.     Hearing Leadership's Heartbeat
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+First and foremost, the course grants the Scrum Master the invaluable opportunity to actively hear the questions, concerns, and aspirations leaders have regarding Scrum.
 
-We would love to work with you. 
+This applies to not just the theoretical or textbook definitions but also those real-world, on-the-ground challenges and visions.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+As I often put it, they get to hear the questions that leaders and managers have about Scrum and the context we're talking about.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=7R9_bYOswhk)
+They get a panoramic view of how leadership perceives Scrum, the nuances of the challenges they face, and their broader aspirations. 🌟
+
+## 2.     Embarking on the Leadership Voyage
+
+I like to see the Scrum Master role as the first rung on the leadership track.
+
+Taking a leaf out of Star Trek momentarily reminds me of those 'gold shirts. While some individuals are content mastering their specific domain (like Scotty with his beloved engineering department), others have a burning ambition for leadership. And this ambition isn't just generic leadership but a nuanced type - a leader who serves.
+
+As you ascend this ladder, it transforms from serving a single team to multiple teams, different organisational facets, until you're guiding the entire ship - or, in our case, the organisation.
+
+## Decoding the Leadership Lexicon
+
+Immersing oneself in the Professional Agile Leadership – Essentials course is like unlocking a new lexicon.
+
+This isn't just about new words but new perspectives, challenges, and solutions at various organisational levels.
+
+As I've previously shared from my own experiences and observations, for the Scrum Master, learning this lexicon and understanding the intricate challenges leaders face and witness will enable them to serve different organisational tiers with heightened proficiency. 🎯
+
+## Embark on Your Leadership Journey with Our Agile & Scrum Courses
+
+For those who've been traversing the Scrum journey and are now at the crossroads, pondering the next leap – the Professional Agile Leadership - Essentials beckons.  🌟
+
+Our courses are created to guide you, illuminate less travelled paths, and offer profound and actionable  Scrum and Agile insights.
+
+Let's converse if any of this resonates with you or triggers a tiny spark of curiosity about Agile, Scrum, or even the broader realm of DevOps.
+
+If you wish to engage in anything Agile, Scrum, or DevOps, please grab a coffee slot with me through Naked Agility.
+
+Continue soaring and embracing the unending journey of learning! 🌠
+
+

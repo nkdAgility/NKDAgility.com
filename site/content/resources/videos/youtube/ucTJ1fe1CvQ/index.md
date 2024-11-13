@@ -1,52 +1,92 @@
 ---
-title: "PPDV course overview"
-date: 2024-08-09T05:27:35Z
+title: 'Unlocking the Power of Assumptions in Product Development: Why the PPDV Course is a Game-Changer'
+date: 2024-11-10
 videoId: ucTJ1fe1CvQ
-url: /resources/videos/ppdv-course-overview
-canonicalUrl: https://www.youtube.com/watch?v=ucTJ1fe1CvQ
+url: /resources/videos/:slug
+slug: unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 preview: https://i.ytimg.com/vi/ucTJ1fe1CvQ/maxresdefault.jpg
 duration: 355
-isShort: False
+isShort: false
+aliases:
+- /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
+- /resources/videos/ppdv-course-overview
+
 ---
 
 {{< youtube ucTJ1fe1CvQ >}}
 
-# PPDV course overview
+## **Why the PPDV Course Was Created**
 
-In this video, I dive into the critical importance of addressing assumptions in complex product development environments. Whether you're a product leader, owner, manager, or part of a product team, this video is for you. 
+In the fast-paced world of product development, there’s a strong emphasis on delivery. Teams are often laser-focused on producing product increments at the end of every sprint. However, this approach, while essential, is not enough. **Why?** Because we’re not just delivering products; we’re solving complex problems.
 
-We all know how easy it is to get caught up in the delivery process, focusing solely on creating product increments. But are we truly solving the right problems for our users? This video will help you understand the dangers of unconscious assumptions and the risks of turning your development process into a "feature factory."
+Complexity means uncertainty, and uncertainty means assumptions. Throughout the product development journey, teams make countless assumptions. The problem? Many of these assumptions are made unconsciously, leading to missed learning opportunities and the infamous **“Feature Factory”** issue, where teams churn out features without truly understanding user needs or delivering real value.
 
-I’ll guide you through how to better incorporate discovery, validation, and learning into your product development processes, ensuring you're creating high-value products that genuinely meet user needs. 
+### **The Importance of Beyond Delivery**
 
-By the end of this video, you'll have a clearer understanding of how to navigate the complexities of product development, focusing on what works best for your users. This is a must-watch if you want to shift from merely delivering features to creating impactful, user-centered products.
+While delivery is crucial, it’s just one piece of the puzzle. The real challenge lies in navigating the complex environment where unknowns abound. We often overlook the importance of challenging our assumptions, which is vital to solving complex problems effectively.
 
-**Chapters:**
+Here’s the crux: **Are we truly solving the right problems for our users?** Without questioning and validating our assumptions, we risk building features that may not address the users' needs or provide them with the most value.
 
-1. **Introduction - The Why Behind the Course (00:00-00:40)**
-   - Understanding the critical focus of the course: addressing assumptions in product development.
+## **The Danger of Unconscious Assumptions**
 
-2. **The Importance of Beyond Delivery (00:40-01:17)**
-   - Why solving complex problems requires more than just delivering product increments.
+Unconscious assumptions can be a silent killer in product development. We make an assumption, take the next step, and in doing so, miss a crucial learning opportunity. This is a slippery slope that can lead to the **“Feature Factory”** problem.
 
-3. **The Danger of Unconscious Assumptions (01:17-02:01)**
-   - How assumptions can lead to missed learning opportunities and create a feature factory problem.
+### **Feature Factory: A Closer Look**
 
-4. **Factors Contributing to Feature Factory Problems (02:01-02:54)**
-   - Examining the root causes, including insufficient user understanding and reactionary development.
+- **Stakeholder-Driven Development:** When strong stakeholders dictate the product roadmap without sufficient user understanding, teams may end up building features that don’t resonate with users.
 
-5. **Navigating Around Assumptions (02:54-03:58)**
-   - The importance of navigating assumptions in a complex environment to create high-value products.
+- **Insufficient User Understanding:** We might believe that what users say is the truth. But do we truly understand their needs? Do we have all the necessary data and evidence to find the best solutions?
 
-6. **The Course Approach: Discovery, Delivery, and Validation (03:58-04:46)**
-   - Introducing the course’s framework for product development: discovery, delivery, and validation.
+- **Reactionary Development:** Sometimes, teams rush to build features just because a competitor did it. But is this really the right move?
 
-7. **Who Will Benefit from This Course? (04:46-05:31)**
-   - Identifying the target audience for the course and how it benefits different product roles.
+- **Poor Collaboration:** Inadequate collaboration with stakeholders can lead to misaligned goals and a lack of shared understanding.
 
-8. **Learning and Experimentation Focus (05:31-End)**
-   - Emphasizing the course's focus on conscious learning, experimentation, and evidence collection for better product development.
+- **Misaligned Metrics:** Choosing the wrong metrics can steer the team in the wrong direction, focusing on outputs rather than outcomes.
 
-Visit https://www.nkdagility.com to register for the PPDV course with Joanna Plaskonka
+These factors contribute to the Feature Factory problem, where teams are busy building features but may not be creating meaningful value.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ucTJ1fe1CvQ)
+## **Navigating Around Assumptions**
+
+So, what can we do to avoid falling into these traps? The key is to **navigate around assumptions** effectively. In a complex environment, we often don’t know what we don’t know. This is why it’s crucial to create a path that allows us to explore, validate, and adjust our assumptions continuously.
+
+### **The Course Approach: Discovery, Delivery, and Validation**
+
+Our new course is designed to help teams embrace the full **end-to-end empirical cycle**—Discovery, Delivery, and Validation. These three elements work together to help us navigate around assumptions and build products that truly matter.
+
+- **Discovery:** This is where we uncover what users really need. It’s about exploring different ideas, gathering insights, and challenging our initial assumptions.
+
+- **Delivery:** Once we have a better understanding of the user needs, we move on to delivery. But this is not just about building; it’s about iterating and refining based on what we learn.
+
+- **Validation:** Finally, we validate our assumptions by testing the product with real users. This step ensures that we’re on the right track and that our product delivers real value.
+
+### **Who Will Benefit from This Course?**
+
+This course is designed for **product leaders, product owners, product managers**, and **product teams** in general. We believe that anyone involved in the product development process will gain valuable insights from this class.
+
+- **Product Leaders:** Learn how to steer your team away from the Feature Factory mindset and towards creating real value.
+
+- **Product Owners and Managers:** Gain the tools to better incorporate Discovery and Validation into your process, ensuring that your products solve the right problems.
+
+- **Product Teams:** Understand how to work more effectively with assumptions and develop a learning mindset that drives continuous improvement.
+
+## **Learning and Experimentation Focus**
+
+In this one-day course (which can also be split into two half-days or smaller chunks), we use a **case study** to navigate through different concepts. This hands-on approach helps teams better incorporate Discovery and Validation into their product development process.
+
+**Key Takeaways:**
+
+- **Working with Assumptions:** Learn how to consciously recognize and challenge assumptions throughout the product development cycle.
+
+- **Experimentation:** Develop a culture of experimentation where teams continuously test and validate their ideas.
+
+- **Collecting Evidence:** Understand the importance of evidence-based decision-making in creating valuable products.
+
+- **Learning:** Embrace a learning mindset that allows for continuous improvement and innovation.
+
+By focusing on these elements, teams will not only build better products but also develop a deeper understanding of the problems they are solving. This conscious learning process is the cornerstone of the PPDV course, making it an essential tool for any team looking to excel in product development.
+
+* * *
+
+**Ready to move beyond delivery and start creating real value?** Join us in the PPDV course and transform the way you approach product development. Let’s navigate the complexities together, challenge our assumptions, and build products that truly make a difference. 🚀
+
+

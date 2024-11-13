@@ -1,38 +1,71 @@
 ---
-title: "What are immersive training Scrum courses?"
-date: 2023-03-15T07:00:19Z
+title: What are immersive training courses?
+date: 2023-08-01
 videoId: wa4A_KQ-YGg
-url: /resources/videos/what-are-immersive-training-scrum-courses-
-canonicalUrl: https://www.youtube.com/watch?v=wa4A_KQ-YGg
+url: /resources/videos/:slug
+slug: what-are-immersive-training-courses
 preview: https://i.ytimg.com/vi/wa4A_KQ-YGg/maxresdefault.jpg
 duration: 367
-isShort: False
+isShort: false
+aliases:
+- /resources/what-are-immersive-training-courses
+- /resources/what-are-immersive-training-scrum-courses
+- /resources/videos/what-are-immersive-training-scrum-courses-
+
 ---
 
 {{< youtube wa4A_KQ-YGg >}}
 
-# What are immersive training Scrum courses?
+**What are immersive training courses?**
 
-#scrum is a fairly tough transition to make if you come from a traditional #projectmanagement background. Adopting any #agileframework is hard, but #scrum is proven to be one of the best #productdevelopment frameworks available so it's worth getting it right.
+Dive into the buzz around immersive training courses with me, Martin Hinshelwood! This form of Agile training is making waves, offering a dynamic and transformative learning experience.
 
-Traditionally, a scrum.org #professionalscrummaster course or #professionalproductowner course takes 2 full days to complete, but we have been experimenting with deeper, more immersive learning experiences to really help people excel in a #scrumteam.
+Together, we'll explore traditional training formats, the evolution to four half days, the concept of flipped learning, and the power of immersive learning experiences.
 
-NKD Agility are investing in the 4-day and 8-day immersive learning courses because we believe it is going to be a game-changer in the industry and empower our #scrumtraining delegates to really make an impact in their working environments.
+Get ready to discover how this revolutionary training approach can unlock value within your organization. 🚀
 
-In this short video, Martin Hinshelwood explains what #immersive training courses are and how they might benefit you.
+## Understanding Immersive Training Courses
 
-About NKD Agility
+So, you're wondering what immersive training courses are all about? It's a great question and one that's been stirring quite a buzz recently. As we navigate through the countless types of training options available, it's essential to understand what sets immersive training apart. 🎯
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### Transitioning from Traditional Classes to Virtual Learning
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Traditionally, we're accustomed to full-day classes, typically condensed into two consecutive days. This format, while intense, ensures we're not paying for extra hotel stays or dealing with unnecessary travel logistics. However, the game has changed quite a bit with the advent of virtual learning.  💼
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+I've shifted all my classes into four half-day sessions in the virtual realm. This format offers two main benefits: attendees can still maintain their work schedule in the remaining part of the day, and the learning experience becomes more engaging and digestible.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+### The Flipped Learning Approach
 
-We would love to work with you. 
+Moreover, I've been experimenting with the 'flipped learning' approach, where attendees are given small assignments to complete independently. These assignments encourage a more interactive, self-paced learning experience and represent the first step towards the immersive learning experience. 📚
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## What is an Immersive Learning Experience?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=wa4A_KQ-YGg)
+But what exactly is an immersive learning experience? Well, it takes the idea of 'flipped learning' a step further. Instead of just reading, writing, and watching content, participants get a chance to implement their learnings in their real-world scenarios.
+
+They then bring these experiences back to the class, share their insights, learn some more, and then go back and try out the new stuff in their organizations. 🔍
+
+### Stretching Out the Learning Journey
+
+We've now stretched the original four half-days to eight half-days spread over eight weeks. In each session, participants are assigned to execute within their organization.
+
+For example, in the Product Owner class, one might be tasked to define 'value' as it applies to their organization. 📅
+
+### Sharing and Learning from Real-World Experiences
+
+These real-world assignments provide a golden opportunity for participants to scrutinize their companies' workings and come back with invaluable insights to share with the rest of the class. 🌎
+
+Participants from the same organization can discuss their shared experiences, while those from different organizations can compare and contrast, leading to a vibrant learning environment.
+
+So there you have it - immersive learning is about taking flipped learning to a new level, incorporating assignments directly relevant to one's work and fostering a community of learners who share their experiences and learn from one another. It's about creating an authentic, transformative learning journey that is as engaging as it is educational.
+
+If you'd like to discuss this topic or any other matter related to Agile, Scrum, or DevOps, don't hesitate to reach out and schedule a chat with me through Naked Agility. 🚀
+
+Keywords:       Immersive Learning, Agile Training, Flipped Learning,
+
+Hashtags:        #ImmersiveLearning #FlippedLearning #Agile #Scrum
+
+Hashtags:   
+
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+

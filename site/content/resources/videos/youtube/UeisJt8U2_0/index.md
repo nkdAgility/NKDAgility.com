@@ -1,55 +1,84 @@
 ---
-title: "Plague! 7 Harbingers agile apocalypse"
-date: 2023-10-20T07:00:23Z
+title: 7 Harbingers of the Agile Apocalypse. Plague.
+date: 2024-02-21
 videoId: UeisJt8U2_0
-url: /resources/videos/plague!-7-harbingers-agile-apocalypse
-canonicalUrl: https://www.youtube.com/watch?v=UeisJt8U2_0
+url: /resources/videos/:slug
+slug: 7-harbingers-of-the-agile-apocalypse-plague
 preview: https://i.ytimg.com/vi/UeisJt8U2_0/maxresdefault.jpg
 duration: 422
-isShort: False
+isShort: false
+aliases:
+- /resources/7-harbingers-of-the-agile-apocalypse-plague
+- /resources/videos/plague!-7-harbingers-agile-apocalypse
+
 ---
 
 {{< youtube UeisJt8U2_0 >}}
 
-# Plague! 7 Harbingers agile apocalypse
+# Navigating the Plague of Incompetence in Agile Coaching 🚧
 
-Unraveling the Plague of Incompetent Coaches & Nahui-Ehecatl! Dive into the parallels between ancient narratives and modern agile challenges. 🌬️🐒
+Hey Agile warriors! Today, I’m diving into a topic that stirs up quite the storm in the Agile realm—the plague of incompetence among Agile coaches and Scrum Masters. Yes, you heard that right! It's a touchy subject, but someone's got to address the elephant in the room. 🐘
 
-Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+## The Incompetence Epidemic 🦠
 
-In this video, Martin delves deep into the problems plaguing the agile world due to incompetent coaches and scrum masters. 🚫📈 Drawing inspiration from the Aztec mythology, he draws parallels between the end of an Aztec age, where the gods unleashed a wind plague turning people into monkeys, and the challenges organisations face today. 🏢💥
+In the vast landscape of Agile transformation, there lurks a significant threat - the plague of incompetent Agile coaches and Scrum Masters. These individuals, devoid of a deep understanding or practical experience in the work they're advising on, somehow find themselves in positions wielding far more power than is wise. This often leads to chaos and devastation within organizations, particularly those with intricate hierarchies. 🌪️
 
-00:00:05 The Harbingers of Agile Apocalypse
-00:00:38 Plague of Incompetent Agile Coaches
-00:01:30 Real-life Scenario: Standing during Scrum
-00:02:45 Misconceptions about Scrum & Agile
-00:03:45 The Impact on Teams & Organizations
-00:04:15 Hiring Challenges in the Agile Industry
-00:05:10 The Negative Online Discourse on Scrum
-00:06:15 Importance of Quality over Quantity in Hiring
-00:06:50 Conclusion & Final Thoughts
+### A Real-World Horror Story 📍
 
-This is part of a 7 Harbingers of the #agile-pocolypse series:
+Let me share a tale from either Seattle or Portland (the specifics blur, but the lesson is crystal clear). A Scrum Master was axed for insisting that "if you're not standing up, you're not doing Scrum." This, despite a team member’s disability that made standing meetings not just impractical but insensitive. The team’s decision to sit, in respect for their colleague, showcased the true essence of Scrum values—collaboration, respect, and adaptability. Yet, they were penalized for it by someone who clearly missed the point of Agile entirely.
 
-Part 1: https://youtu.be/56hWAHhbrvs
-Part 2: https://youtu.be/wHGw1vmudNA
-Part 3: https://youtu.be/W3H9z28g9R8
-Part 4: https://youtu.be/YuKD3WWFJNQ
-Part 5: https://youtu.be/vhBsAXev014
-Part 6: https://youtu.be/FdQpGx-FW-0
-Part 7: https://youtu.be/UeisJt8U2_0
+## Unpacking the Damage 💥
 
-NKD Agility can help!
+This plague isn't just about a few bad apples; it's an industry-wide issue that breeds misconceptions and disillusionment with Agile practices. The damage manifests in various toxic beliefs and practices, such as:
 
-These are the kinds of issues that lean-agile practitioners love, and if you struggle to navigate the challenges of agile coaching, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can. If issues are undermining the effectiveness of your value delivery, it's essential to seek help without delay!
+- Leaders dictating team actions under the guise of Agile.
 
-You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/
-Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses/
+- Mandatory standing during daily scrums, regardless of practicality or inclusivity.
 
-Because you don't just need agility, you need Naked Agility.
+- An overabundance of meetings, often devoid of purpose or productivity.
 
-#agile #scrum #agilecoach #scrummaster #productowner #agileconsultant #agiletraining #scrumtraining #kanban #continousdelivery #devops #azuredevops
+- Rigid adherence to story points and unrealistic delivery expectations.
 
----
+These misguided practices are far from the agility and flexibility that Scrum and Agile methodologies advocate for. Instead of fostering innovation and adaptability, they entrench teams in a quagmire of inefficiency and frustration. 🤦‍♂️
 
-[Watch on YouTube](https://www.youtube.com/watch?v=UeisJt8U2_0)
+## The Root of the Problem 🌱
+
+The core issue at hand is a fundamental misunderstanding—or, in some cases, a willful ignorance—of Agile principles and values. We're talking about individuals who've never cracked open the Scrum Guide, let alone kept abreast of evolving Agile methodologies. They operate on outdated or misconceived notions, often prioritizing form over function, to the detriment of the teams they're supposed to support. 📚
+
+### The Impact? Catastrophic 📉
+
+The repercussions of this incompetence are far-reaching:
+
+- **Teams lose faith** in Agile methodologies, branding them as ineffective or restrictive.
+
+- **Organizations suffer** from decreased productivity, innovation, and morale.
+
+- **The Agile community is tarnished**, with genuine practitioners fighting an uphill battle to dispel myths and restore credibility.
+
+## A Call to Arms: Elevating Agile Coaching 🛡️
+
+So, what's the solution? How do we combat this plague and restore health to the Agile ecosystem? Here are a few antidotes:
+
+1. **Rigorous Certification and Continuous Education:** Ensure Agile coaches and Scrum Masters not only gain initial certification but engage in ongoing learning to stay current with best practices.
+
+3. **Experience Matters:** Value practical experience and a deep understanding of Agile principles over theoretical knowledge alone.
+
+5. **Foster an Agile Mindset:** Encourage coaches and masters to embody Agile values, prioritizing adaptability, team autonomy, and a relentless focus on delivering value.
+
+7. **Quality Over Quantity:** Organizations must prioritize hiring quality over filling quotas. It's better to have a few excellent Agile practitioners than a horde of inept ones.
+
+### Personal Reflections and the Path Forward 🚀
+
+Every day, I meet incredible Agile coaches and Scrum Masters who deeply understand and effectively apply Agile principles. Yet, for every one of those, there are many who jumped on the Agile bandwagon unprepared, often swayed by its growing demand but lacking the passion or understanding necessary to make a real difference.
+
+It's time for a change. We need to demand more from our Agile leaders, ensuring they're equipped not just with the title but with the competence, empathy, and dedication to truly guide teams to greatness.
+
+## Wrapping Up: A Journey Towards Agile Excellence 🌟
+
+The plague of incompetence is a formidable challenge, but it's not insurmountable. By raising the bar for Agile coaching and Scrum Mastery, we can protect and promote the integrity of Agile methodologies. Let's commit to excellence, continuous improvement, and, most importantly, to nurturing an environment where Agile principles flourish in their truest form.
+
+Until next time, keep challenging the status quo, and let's elevate the practice of Agile coaching together. If you're passionate about Agile, Scrum, or DevOps and want to dive deeper into these discussions, don't hesitate to reach out. Let's grab a coffee and chat! ☕
+
+_Liked this post? Follow, subscribe, and engage. Together, we can navigate the complexities of Agile transformations and emerge victorious._
+
+

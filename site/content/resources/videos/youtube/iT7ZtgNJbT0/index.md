@@ -1,32 +1,71 @@
 ---
-title: "What was your best day as an agile consultant?"
-date: 2023-03-27T07:00:30Z
+title: What was your best day as an Agile consultant?
+date: 2023-08-09
 videoId: iT7ZtgNJbT0
-url: /resources/videos/what-was-your-best-day-as-an-agile-consultant-
-canonicalUrl: https://www.youtube.com/watch?v=iT7ZtgNJbT0
+url: /resources/videos/:slug
+slug: what-was-your-best-day-as-an-agile-consultant
 preview: https://i.ytimg.com/vi/iT7ZtgNJbT0/maxresdefault.jpg
 duration: 174
-isShort: False
+isShort: false
+aliases:
+- /resources/what-was-your-best-day-as-an-agile-consultant-2
+- /resources/what-was-your-best-day-as-an-agile-consultant
+- /resources/videos/what-was-your-best-day-as-an-agile-consultant-
+
 ---
 
 {{< youtube iT7ZtgNJbT0 >}}
 
-# What was your best day as an agile consultant?
+**What was your best day as an Agile consultant?**
 
-In this short video, Martin Hinshelwood talks about one of the more interesting and compelling experiences he has had as an #agileconsultant and why it had such an impact on him.
+## The Game Changer
 
-About NKD Agility
+I've had many great experiences as an Agile Consultant, so writing about my 'best day' isn't so easy.  It's a tough one to pinpoint!
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+But if I think about it, one time really stands out above the rest, and it happened about seven years after the engagement.🕰️
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+I know that's quite a long time ago, but that emphasises how this event has stuck with me throughout my years in Agile.  🔥
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+So, let me go ahead and share one of my most memorable moments as an Agile Consultant, which may sound like an average day at the office, but it turned out to be anything but. 💭
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## A Step Back in Time
 
-We would love to work with you. 
+So, picture this: I'm in Utah, a pretty picturesque landscape as the backdrop for our intense Scrum sessions.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+There I was, deep in training and workshops with a spirited team of Java developers.  Despite my lack of Java expertise, I didn't know anything about Java, but I was ready for the challenge, ready to make a difference. 💥
 
-[Watch on YouTube](https://www.youtube.com/watch?v=iT7ZtgNJbT0)
+We pushed the boundaries of what we knew, diving headfirst into Scrum, Agile, user story workshops, and even engineering practices workshops.  In a spirited exchange of ideas, we even tackled a TDD explanation and lesson.
+
+You can imagine the room was alive with the sound of keyboards and minds at work.  I think that this alone is a testament to the power of agile methodologies.
+
+## An Email Changed Everything
+
+Now, I know you may be thinking that my memory of that day working in Utah sounds like just another day in the life of an Agile consultant.  But here's where it gets interesting.  Seven years later, after the engagement with the Java development team, I got an email from one of the workshop participants out of the blue!
+
+Receiving that email truly made my day. 📧 
+
+This team member reached out to share the game-changing impact our time together had on him, his team, and their entire organisation.  He wrote to let me know what a game-changer that experience was.  It wasn't just a one-off for him - the whole team and organisation had been impacted.💥
+
+## First APS Class
+
+I thought a run-of-the-mill five to six-day on-site Scrum was a catalyst for massive change within that organisation. 🙌
+
+During that engagement, we did Scrum and Agile workshops, worked on user stories, and even corrected my code on the projector, nonetheless! 😅
+
+Even years later, people from that Scrum speak of it as a turning point.  Some have even invited me into their new companies to recreate that magic.
+
+But funnily enough, that first experience, the first APS class I ever taught, remains unmatched in my memory.🏆
+
+But the true magic was seeing the long-term ripple effects of that short engagement. 🚀
+
+Your Turn to Transform
+
+Are you ready to experience the transformative power of Agile?
+
+Explore our Agile and Scrum courses.  Because, who knows, it might just be the catalyst _your_ team needs for a monumental change! 🙌
+
+Keywords:       Agile consulting, Scrum, transformative learning, catalyst for change         
+
+Hashtags:        #AgileConsulting #BestDay #Scrum #AgileTransformation
+
+

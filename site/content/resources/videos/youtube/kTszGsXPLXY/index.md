@@ -1,52 +1,118 @@
 ---
-title: "How easy is it to create a Kanban pilot in the organization?"
-date: 2024-02-14T07:00:19Z
+title: Getting started with Kanban.
+date: 2024-06-28
 videoId: kTszGsXPLXY
-url: /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
-canonicalUrl: https://www.youtube.com/watch?v=kTszGsXPLXY
+url: /resources/videos/:slug
+slug: getting-started-with-kanban
 preview: https://i.ytimg.com/vi/kTszGsXPLXY/maxresdefault.jpg
 duration: 331
-isShort: False
+isShort: false
+aliases:
+- /resources/getting-started-with-kanban
+- /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+
 ---
 
 {{< youtube kTszGsXPLXY >}}
 
-# How easy is it to create a Kanban pilot in the organization?
+### Getting Started with Kanban: A Guide to Initiating Your First Kanban Pilot
 
-🚀 Kickstart Your Kanban Journey: Insights from a YouTube Deep Dive 🚀
+**Introduction**
 
-🎯 Why Watch This Video?
+Kanban is a powerful strategy for improving workflow and enhancing productivity across various industries. Whether you're in software development, marketing, or any other field, implementing Kanban can help streamline your processes and boost efficiency. This blog post will guide you through the steps to initiate your first Kanban pilot, emphasizing the importance of metrics and collaboration.
 
-Learn how effortlessly you can initiate a Kanban pilot within your team or organization.
-Discover the common hurdles in adopting new processes and how Kanban navigates these challenges.
-Understand the power of metrics in unveiling the true state of your current workflows and identifying areas for improvement.
 
-🔍 What You'll Learn:
 
-Simplicity of Starting with Kanban: Unravel the straightforward path to implementing Kanban by choosing a team and applying Kanban strategies.
-Overcoming Resistance: Strategies to convince team members and leaders by demonstrating the tangible benefits of Kanban through metrics and visualization tools.
-Leveraging Tools: How tools like JIRA or Azure DevOps can facilitate Kanban adoption, especially in remote work scenarios.
-Defining Workflow: The significance of defining and agreeing on your team's workflow as a foundational step in Kanban.
-Using Data to Drive Improvement: How analyzing cycle times and identifying outliers can lead to more informed discussions and optimizations.
+* * *
 
-👥 Who Should Watch:
+**Why Kanban?**
 
-Team Leaders and Managers seeking to enhance their team's efficiency without disruptive changes.
-Agile Practitioners curious about incorporating Kanban into their existing processes.
-Individuals looking for data-driven methods to optimize workflow and project delivery.
-Anyone facing challenges with traditional project management methods in creative or non-software engineering fields.
+Kanban’s flexibility and focus on continuous improvement make it an excellent choice for teams looking to optimize their workflows without major disruptions. Here’s why you should consider starting a Kanban pilot:
 
-👍 Why Like and Subscribe?
+- **Flexibility**: Kanban adapts to your existing workflow, making it less disruptive compared to other methodologies.
 
-Stay ahead with practical tips on implementing and optimizing Kanban in various settings.
-Transform your team's workflow with insights from Kanban experts.
-Join a community dedicated to continuous improvement and agile practices.
+- **Continuous Improvement**: It promotes ongoing enhancements based on real data and team feedback.
 
-📢 Call to Action:
+- **Visibility**: By visualizing your work, Kanban helps identify bottlenecks and areas for improvement.
 
-Like and Subscribe for more actionable content on Kanban and other Agile methodologies.
-Visit https://www.nkdagility.com for comprehensive resources on Kanban, including guides, tools, and expert advice.
-Share this video with colleagues to spread the knowledge of Kanban’s ease of implementation and its benefits.
-#KanbanImplementation #WorkflowOptimization #AgilePractices #NkdAgility #ContinuousImprovement
+* * *
 
-[Watch on YouTube](https://www.youtube.com/watch?v=kTszGsXPLXY)
+**Getting Started with Kanban**
+
+Starting a Kanban pilot is simpler than you might think. Here’s a step-by-step guide to help you get started:
+
+1. **Pick a Team**:
+    - **Start Small**: Select a team that is open to change and willing to experiment with new processes.
+    
+    - **Engage Stakeholders**: Ensure you have the support of key stakeholders who can champion the pilot.
+
+3. **Define Your Workflow**:
+    - **Document Current Processes**: Run a workshop to create a definition of workflow. This involves writing down how work currently flows through your system.
+    
+    - **Agree on Terms**: Ensure everyone understands and agrees on the terminology and processes.
+
+5. **Visualize the Workflow**:
+    - **Create a Board**: Use tools like JIRA or Azure DevOps to create a digital Kanban board. This board should represent your workflow stages.
+    
+    - **Set WIP Limits**: Establish work-in-progress (WIP) limits for each stage to prevent bottlenecks.
+
+7. **Monitor and Analyze Metrics**:
+    - **Collect Data**: Start recording metrics such as cycle time and throughput. Use data analytics tools available in JIRA and Azure DevOps.
+    
+    - **Identify Outliers**: Use cycle time scatterplots to spot anomalies and areas that need improvement.
+
+* * *
+
+**Using Metrics to Drive Improvement**
+
+Metrics are a crucial component of Kanban. They provide insights into how work flows through your system and help identify areas for improvement. Here’s how to leverage metrics effectively:
+
+- **Cycle Time**: Measure how long it takes for work to move through your system. This helps identify delays and inefficiencies.
+
+- **Throughput**: Track the number of work items completed over a period. This metric indicates your team’s productivity.
+
+- **Scatterplots**: Use scatterplots to visualize cycle times and identify outliers. Ask questions during retrospectives about why certain tasks took longer than expected.
+
+* * *
+
+**Fostering a Culture of Continuous Improvement**
+
+Kanban is not just about setting up a board and moving cards. It’s about fostering a culture of continuous improvement:
+
+- **Run Regular Workshops**: Regularly revisit and update your definition of workflow. Encourage open discussions and continuous feedback.
+
+- **Ask More Interesting Questions**: Use data to drive conversations during team meetings and retrospectives. For example, discuss why certain tasks took longer and what can be done to improve.
+
+- **Encourage Participation**: Involve all team members in the process. Their insights and feedback are crucial for refining workflows and making meaningful improvements.
+
+* * *
+
+**Overcoming Resistance**
+
+Implementing Kanban can sometimes meet resistance, especially if team members are accustomed to traditional methods. Here are some tips to overcome this:
+
+- **Start with Metrics**: Begin by introducing metrics and using data to highlight areas for improvement. This can help build credibility and demonstrate the value of Kanban.
+
+- **Pilot Approach**: Emphasize that it’s a pilot and encourage a mindset of experimentation and learning.
+
+- **Continuous Communication**: Keep the lines of communication open. Regularly update the team on progress and celebrate small wins to maintain momentum.
+
+* * *
+
+**Conclusion**
+
+Implementing a Kanban pilot in your organization is easier than you might think. By starting small, defining your workflow, and leveraging metrics, you can initiate a process of continuous improvement that enhances productivity and efficiency. If your current system of work is failing you, now is the time to create and apply a Kanban strategy.
+
+**Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, agile, or DevOps, feel free to book a coffee with me through Naked Agility.
+
+* * *
+
+**Recommended Resources:**
+
+- **Kanban Training**: Check out our Pro Kanban training programs.
+
+- **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
+
+- **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
+

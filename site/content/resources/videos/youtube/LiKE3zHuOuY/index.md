@@ -1,32 +1,58 @@
 ---
-title: "How much of an impact can scrum have in a DevOps environment"
-date: 2023-06-15T14:45:02Z
+title: How Much of An Impact can Scrum Have in a DevOps Environment?
+date: 2023-11-09
 videoId: LiKE3zHuOuY
-url: /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
-canonicalUrl: https://www.youtube.com/watch?v=LiKE3zHuOuY
+url: /resources/videos/:slug
+slug: how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 preview: https://i.ytimg.com/vi/LiKE3zHuOuY/maxresdefault.jpg
 duration: 29
-isShort: True
+isShort: true
+aliases:
+- /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+
 ---
 
 {{< youtube LiKE3zHuOuY >}}
 
-# How much of an impact can scrum have in a DevOps environment
+## Scrum in a DevOps World: A Game Changer!
 
-#shorts #shortsvideo #shortviddeo #DevOps is critical to the smooth, seamless delivery of software to customers. In this short video, Martin Hinshelwood talks about the kind of impact #scrum can have in ensuring great service to clients and developers.
+Ever wondered about the impact of Scrum in a DevOps environment? 🎯
 
-About NKD Agility
+I have because the digital landscape is constantly evolving, and as professionals, we're always seeking ways to improve processes and maximise efficiency.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+But what does this union truly signify?
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Let me shed some light. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+## Scrum's Critical Role 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+At first glance, Scrum and DevOps might seem like distinct entities, each with its own set of practices and principles. But dig a little deeper, and you'll find that they are not only compatible but actually complementary.
 
-We would love to work with you. 
+But in a Scrum environment, it's not just about iterative processes.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+It's about those vital ideas and strategies that the team needs to adopt. It forms the backbone of how we approach problems and find solutions.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=LiKE3zHuOuY)
+## DevOps: Engineering at Its Best 
+
+While Scrum shapes our strategy, DevOps emphasises the automation of software delivery and infrastructure changes.
+
+They're not isolated - they're interconnected.
+
+Imagine merging the iterative and collaborative spirit of Scrum with the automation and efficiency of DevOps.
+
+## The result?
+
+A powerhouse of a strategy that amplifies speed, collaboration, and quality.
+
+This very excellence bridges the gap, ensuring that we not only ideate but also implement, ensuring we build the most outstanding products.  🛠️
+
+For those keen to explore the synergy of Scrum and DevOps, delve into my Agile and Scrum courses.
+
+Together, let's redefine how we approach software engineering! 🌟
+
+Ready to elevate your game?  🎯
+
+Connect with me today.
+
+

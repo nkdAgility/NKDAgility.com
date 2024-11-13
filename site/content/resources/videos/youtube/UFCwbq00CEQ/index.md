@@ -1,12 +1,13 @@
 ---
-title: " shorts 5 kinds of Agile bandits. 2nd kind"
+title: ' shorts 5 kinds of Agile bandits. 2nd kind'
 date: 2024-01-05T11:00:32Z
 videoId: UFCwbq00CEQ
 url: /resources/videos/-shorts-5-kinds-of-agile-bandits-2nd-kind
 canonicalUrl: https://www.youtube.com/watch?v=UFCwbq00CEQ
 preview: https://i.ytimg.com/vi/UFCwbq00CEQ/maxresdefault.jpg
 duration: 40
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube UFCwbq00CEQ >}}
@@ -29,3 +30,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UFCwbq00CEQ)
+
+

@@ -1,12 +1,15 @@
 ---
-title: "5 tools that Scrum Masters love. Part 4"
+title: 5 tools that Scrum Masters love. Part 4
 date: 2023-09-26T07:00:02Z
 videoId: 79M9edUp_5c
 url: /resources/videos/5-tools-that-scrum-masters-love-part-4
 canonicalUrl: https://www.youtube.com/watch?v=79M9edUp_5c
 preview: https://i.ytimg.com/vi/79M9edUp_5c/maxresdefault.jpg
 duration: 46
-isShort: True
+isShort: true
+aliases:
+- /resources/5-tools-that-scrum-masters-love-part-4
+
 ---
 
 {{< youtube 79M9edUp_5c >}}
@@ -29,3 +32,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=79M9edUp_5c)
+
+

@@ -1,12 +1,13 @@
 ---
-title: "What are the most common challenges you are contracted to solve in a DevOps consulting gig?"
+title: What are the most common challenges you are contracted to solve in a DevOps consulting gig?
 date: 2023-04-21T07:00:06Z
 videoId: LI6G1awAUyU
 url: /resources/videos/what-are-the-most-common-challenges-you-are-contracted-to-solve-in-a-devops-consulting-gig-
 canonicalUrl: https://www.youtube.com/watch?v=LI6G1awAUyU
 preview: https://i.ytimg.com/vi/LI6G1awAUyU/maxresdefault.jpg
 duration: 370
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube LI6G1awAUyU >}}
@@ -34,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=LI6G1awAUyU)
+
+

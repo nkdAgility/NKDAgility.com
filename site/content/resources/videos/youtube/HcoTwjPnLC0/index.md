@@ -1,31 +1,55 @@
 ---
-title: "Is a product owner an agile project manager?"
-date: 2023-05-25T07:00:06Z
+title: Is a Product Owner an Agile Project Manager?
+date: 2023-10-10
 videoId: HcoTwjPnLC0
-url: /resources/videos/is-a-product-owner-an-agile-project-manager-
-canonicalUrl: https://www.youtube.com/watch?v=HcoTwjPnLC0
+url: /resources/videos/:slug
+slug: is-a-scrum-master-an-agile-project-manager
 preview: https://i.ytimg.com/vi/HcoTwjPnLC0/maxresdefault.jpg
 duration: 48
-isShort: True
+isShort: true
+aliases:
+- /resources/is-a-scrum-master-an-agile-project-manager
+- /resources/is-a-product-owner-an-agile-project-manager
+- /resources/videos/is-a-product-owner-an-agile-project-manager-
+
 ---
 
 {{< youtube HcoTwjPnLC0 >}}
 
-# Is a product owner an agile project manager?
+## Defining Roles in Agile
 
-#shorts #shortsvideo Is a #productowner an #agileprojectmanager? No, and some would argue that there is no such thing as an agile project manager because #agile is about #productdevelopment rather than #projectmanagement. Martin Hinshelwood explains.
+So, from the get-go, I think it's important to set the record straight on this question 'is a Product Owner an Agile Project Manager? 🎯
 
-About NKD Agility
+Although plain and simple, my initial response is a resounding 'no'!
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+But allow me to elaborate. 🧐
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## It's All About Perspective
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+The difference between a Product Owner and an Agile Project Manager is a matter of perspective.
 
-We would love to work with you. 
+Let's get one thing straight. An Agile Project Manager strives for a successful 'project', whereas a Product Owner works towards having a successful 'product'.  🧩
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+So, these two roles have distinctly different focuses, and that's key.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=HcoTwjPnLC0)
+Different roles, different objectives, it's as simple as that.
+
+## 'Project' vs 'Product' Challenge
+
+Consider this: a 'project' within a product might falter, yet the overall 'product' can still thrive.
+
+On the flip side, a 'project' might triumph while the value delivered to the customer falls flat.
+
+## Laser Focus of a Product Owner
+
+A Product Owner possesses that laser-sharp focus on maximising the value of the work done by the development team. That may or may not align perfectly with the goals of specific projects. 🎯
+
+The bottom line is clear - a Product Owner and an Agile Project Manager, while both integral to the Agile process, are not in the same roles.
+
+They have their unique responsibilities and clearly different areas of focus.  🚀
+
+If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
+
+You might just find what you're looking for. 👍
+
+

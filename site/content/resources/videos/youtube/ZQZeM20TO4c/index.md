@@ -1,35 +1,39 @@
 ---
-title: "Agile leader vs traditional manager"
-date: 2023-05-02T09:30:14Z
+title: Agile leader versus traditional manager
+date: 2023-08-04
 videoId: ZQZeM20TO4c
-url: /resources/videos/agile-leader-vs-traditional-manager
-canonicalUrl: https://www.youtube.com/watch?v=ZQZeM20TO4c
+url: /resources/videos/:slug
+slug: agile-leader-versus-traditional-manager
 preview: https://i.ytimg.com/vi/ZQZeM20TO4c/maxresdefault.jpg
 duration: 69
-isShort: False
+isShort: false
+aliases:
+- /resources/agile-leader-versus-traditional-manager
+- /resources/agile-leader-vs-traditional-manager
+- /resources/videos/agile-leader-vs-traditional-manager
+
 ---
 
 {{< youtube ZQZeM20TO4c >}}
 
-# Agile leader vs traditional manager
+Product of Conventional Practices
 
-#shorts An #agileleader has a great deal of responsibility to open the environment to change, facilitate rapid innovation cycles, and create environments where #agile teams can thrive.
+A traditional manager, born out of customary organisational conventions, focuses predominantly on task delegation, creating a controlled environment that can, ironically, limit an organisation's potential. They erect walls, intending to provide focus but inadvertently ending up restricting communication. Their management style can hinder an organisation's decision-making ability and agility in responding to market changes. They're not inherently at fault; they are, after all, merely operating within the framework they've been given. 🎯
 
-Traditional managers have managed environments, sometimes micromanaged, to ensure a solid objective has been achieved.
+An Instigator of Change
 
-Some applications require a manager whilst others require #leadership. In this short video, Martin Hinshelwood explains the major difference between an #agileleader and a traditional #manager.
+In stark contrast, an Agile Leader embraces the responsibility of challenging conventional thinking, driving organisations towards a mindset shift. They focus less on controlling and more on empowering—enabling individuals and teams to make the necessary decisions and navigate their way. Agile Leaders do not adhere to the restrictive practices of traditional management. Instead, they facilitate open communication and foster an environment conducive to quick responses and market adaptability. 🎯
 
-About NKD Agility
+In essence, the Agile Leader is not just a manager but a change agent who catalyses growth, fosters self-reliance, and leads organisations to thrive in an ever-evolving market landscape.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+If you're ready to transition from a traditional management approach to embrace Agile leadership, let's connect!🚀
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Keywords:        Agile Leadership, Traditional Management, Decision-Making, Change
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 
-We would love to work with you. 
+General
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ZQZeM20TO4c)
+

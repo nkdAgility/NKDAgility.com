@@ -1,12 +1,13 @@
 ---
-title: "Install TFS 2013 Basic"
+title: Install TFS 2013 Basic
 date: 2014-01-14T17:18:19Z
 videoId: U7wIQk1pus0
 url: /resources/videos/install-tfs-2013-basic
 canonicalUrl: https://www.youtube.com/watch?v=U7wIQk1pus0
 preview: https://i.ytimg.com/vi/U7wIQk1pus0/maxresdefault.jpg
 duration: 722
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube U7wIQk1pus0 >}}
@@ -20,3 +21,5 @@ My fan kicked on half way through, hence the hiss... I have ordered a microphone
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U7wIQk1pus0)
+
+

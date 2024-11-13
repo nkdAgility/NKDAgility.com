@@ -1,12 +1,13 @@
 ---
-title: "What is the most common epiphany in a PSM II course?"
+title: What is the most common epiphany in a PSM II course?
 date: 2023-04-27T07:00:00Z
 videoId: 1TaIjFL-0o8
 url: /resources/videos/what-is-the-most-common-epiphany-in-a-psm-ii-course-
 canonicalUrl: https://www.youtube.com/watch?v=1TaIjFL-0o8
 preview: https://i.ytimg.com/vi/1TaIjFL-0o8/maxresdefault.jpg
 duration: 220
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 1TaIjFL-0o8 >}}
@@ -34,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=1TaIjFL-0o8)
+
+

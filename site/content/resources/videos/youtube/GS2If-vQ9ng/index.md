@@ -1,32 +1,46 @@
 ---
-title: "Agile training versus agile consulting"
-date: 2023-09-07T07:00:08Z
+title: Agile Training versus Agile Consulting
+date: 2023-11-14
 videoId: GS2If-vQ9ng
-url: /resources/videos/agile-training-versus-agile-consulting
-canonicalUrl: https://www.youtube.com/watch?v=GS2If-vQ9ng
+url: /resources/videos/:slug
+slug: agile-training-versus-agile-consulting
 preview: https://i.ytimg.com/vi/GS2If-vQ9ng/maxresdefault.jpg
 duration: 49
-isShort: True
+isShort: true
+aliases:
+- /resources/agile-training-versus-agile-consulting
+- /resources/videos/agile-training-versus-agile-consulting
+
 ---
 
 {{< youtube GS2If-vQ9ng >}}
 
-# Agile training versus agile consulting
+## Why Both Are Hard-Hitting but in Different Ways
 
-#shorts #shortvideo #shortsvideo Martin Hinshelwood explains the difference between #agiletraining and #agilecoaching 
+Have you ever thought about how Agile Training and Agile Consulting each deliver impactful results but target distinct aspects of organisational improvement?  🤔
 
-About NKD Agility
+## Agile Training: Hard-Hitting Knowledge Dissemination
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Agile training plays a vital role when it comes to getting the knowledge needed for the business.  It's especially effective when you're training within the company in Agile practice.  📚
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+This ensures that no one can say they didn't understand what they were trained on, creating a common vocabulary and baseline understanding for everyone involved.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+## Agile Consulting: Targeted, Time-Limited, and Hard-Hitting
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+While Agile training is about broad-scale knowledge sharing, Agile consulting is also generally hard-hitting, right?
 
-We would love to work with you. 
+The time-limited nature of consulting allows for a laser-focused approach, targeting specific issues that the consultant identifies that are not going well or opportunities for improvement within the business.  🎯
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## The Core Difference Between Agile Training and Consulting
 
-[Watch on YouTube](https://www.youtube.com/watch?v=GS2If-vQ9ng)
+So, in summary, this is the main difference between Agile training and consulting.  Agile training is about broad understanding and skill-building.
+
+In contrast, Agile consulting zeroes in on specific pain points and challenges, offering tailored solutions.  Both are "hard-hitting" but operate in unique arenas. 🎯
+
+## Take Your Agile Skills to the Next Level With Our Comprehensive Courses and Consultancy Services
+
+Whether you're new to Agile or a seasoned veteran, we have something to offer.  🌟
+
+Our training courses give you the foundational skills you need, while our consulting services provide customised solutions for your specific challenges.
+
+

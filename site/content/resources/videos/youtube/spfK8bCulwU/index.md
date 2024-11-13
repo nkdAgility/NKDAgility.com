@@ -1,12 +1,13 @@
 ---
-title: "Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?"
+title: Why do you think the Advanced PSPO course is a perfect fit for entrepreneurs?
 date: 2023-05-08T07:00:15Z
 videoId: spfK8bCulwU
 url: /resources/videos/why-do-you-think-the-advanced-pspo-course-is-a-perfect-fit-for-entrepreneurs-
 canonicalUrl: https://www.youtube.com/watch?v=spfK8bCulwU
 preview: https://i.ytimg.com/vi/spfK8bCulwU/maxresdefault.jpg
 duration: 183
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube spfK8bCulwU >}}
@@ -36,3 +37,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=spfK8bCulwU)
+
+

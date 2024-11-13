@@ -1,85 +1,134 @@
 ---
-title: "Agile is failing organizations!"
-date: 2024-01-23T07:00:07Z
+title: 'Unlocking Agile’s Core: Questioning to Create Value'
+date: 2024-10-04
 videoId: M4ap4uNzptg
-url: /resources/videos/agile-is-failing-organizations!
-canonicalUrl: https://www.youtube.com/watch?v=M4ap4uNzptg
+url: /resources/videos/:slug
+slug: unlocking-agiles-core-questioning-to-create-value
 preview: https://i.ytimg.com/vi/M4ap4uNzptg/maxresdefault.jpg
 duration: 241
-isShort: False
+isShort: false
+aliases:
+- /resources/unlocking-agiles-core-questioning-to-create-value
+- /resources/videos/agile-is-failing-organizations!
+
 ---
 
 {{< youtube M4ap4uNzptg >}}
 
-# Agile is failing organizations!
+In the ever-evolving world of business, staying ahead means adapting faster than your competitors. Being agile is not about following a set of rules but rather embracing a mindset of constant questioning and improvement. As Steve Denning wisely said:
 
-🌐 Embrace Agile Thinking with This Enlightening Video! 🌐
+_"Being agile is about questioning what you do and continuously improving what you're doing."_
 
-👀 Why You Should Watch:
+This philosophy underpins the core of Agile and Scrum, allowing organizations to not only survive but thrive by outpacing change.
 
-Discover the essence of being Agile through continuous questioning and improvement.
-Understand how Agile practices can revolutionize your approach to work and competition.
-Learn the importance of adaptability and questioning the status quo in today's dynamic market.
-🔍 Key Highlights:
+## **The Power of Questioning to Create Value**
 
-Agile's Core Philosophy (00:00:00 - 00:00:09):
+One of the biggest differences between traditional methods and Agile is the relentless focus on questioning. Why do we do what we do? What value does it bring? These are the key questions Agile teams should ask daily. If a process, task, or system doesn't bring more value than the effort or pain of doing it, then it's time to rethink it.
 
-💡 Agile is about questioning and continuously improving your actions.
-Questioning to Create Value (00:00:09 - 00:00:45):
+- **Question everything**: Agile teaches us to scrutinize our actions constantly.
 
-❓ Challenge why you do things and assess their value.
-🔁 If an action isn’t valuable, change it to something more effective.
-Scrum as a Reflective Mirror (00:00:45 - 00:01:19):
+- **Seek value**: Every action should deliver value that justifies its cost.
 
-🪞 Scrum shows what needs fixing in your organization for better adaptability.
-📈 Adaptation leads to market success and competitiveness.
-Outpacing Competitors (00:01:19 - 00:01:49):
+- **Adapt**: If something no longer provides value, change it.
 
-🏃‍♂️ Agile organizations adapt quickly to seize market opportunities.
-💰 Fast adaptation is key to setting market trends and profitability.
-Empowering Agile Ninjas (00:01:49 - 00:02:14):
+Agility isn't about sticking to one approach but about evolving. Scrum acts as a mirror, reflecting the inefficiencies and areas for improvement within your organization.
 
-🥷 Be agile and dynamically change your business as needed.
-🌟 Every organizational level should embrace this agile mindset.
-Questioning Rules and Procedures (00:02:14 - 00:02:43):
+## **Scrum as a Reflective Mirror**
 
-🚫 Don’t just follow rules; question them for better ways of working.
-🗣️ Create forums for discussing and improving processes.
-Avoiding Disgruntlement (00:02:43 - 00:02:59):
+Scrum forces us to look at our own processes and practices critically. As Ken Schwaber, one of the co-creators of Scrum, says, Scrum is like a mirror that reveals what needs to be fixed.
 
-🤔 Address issues raised by employees to prevent dissatisfaction.
-💪 Empower staff to make necessary changes.
-Fostering Continuous Improvement (00:02:59 - 00:03:46):
+"Scrum can’t fix your organization’s issues, but it can show you what needs to be addressed to become more effective."
 
-🔄 Encourage regular evaluation of decisions and actions for organizational growth.
-✨ Strive for the best version of your organization.
-Personalized Assistance and Learning (00:03:46 - 00:04:00):
+This reflective nature of Scrum allows organizations to:
 
-📞 Open invitation for discussions on unique needs at Naked Agility
-🎓 Access to immersive and traditional classes offered.
+- **Spot inefficiencies**: Scrum reveals organizational flaws that hinder success.
 
-👍 Why You Should Like and Subscribe:
+- **Encourage change**: The iterative nature of Scrum encourages adaptation.
 
-Stay ahead with the latest Agile strategies and insights.
-Transform your business approach for maximum effectiveness.
-Gain access to expert advice and specialized training.
-🔗 Don't Wait!
+- **Promote growth**: By continuously improving, your business can stay relevant and competitive.
 
-🌟 Like, Subscribe, and Become an Agile Innovator!
-📢 Share this video to spread Agile awareness.
-📚 Explore more at Naked Agility for comprehensive learning.
+To put it simply, the more effectively your organization can adapt, the higher your chances of staying ahead of competitors.
 
-About Naked Agility
+## **Outpacing Competitors: The Agile Advantage**
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+In today’s fast-paced market, the ability to change and adapt faster than your competitors is a significant advantage. When you can pivot quickly, you become the trendsetter that others follow. You're the one seizing market opportunities first, and that leads to greater success.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Here’s why agility works:
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Faster response to market shifts**: Agile organizations can capitalize on new opportunities before others even notice them.
 
-We would love to work with you. 
+- **Trendsetting**: You’re no longer following; you’re leading.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+- **Profitability**: By being the first to act, you often secure the most significant gains.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=M4ap4uNzptg)
+In a capitalistic world, the organizations that thrive are the ones that can adapt quickly to market demands, taking advantage of every opportunity. But to achieve this, leadership must empower their teams to be agile ninjas!
+
+## **Empowering Agile Ninjas for Dynamic Change**
+
+You can’t drive dynamic change from the top alone. To truly become agile, you need to empower every individual in your organization to think and act dynamically.
+
+- **Empower teams**: Everyone, from entry-level employees to senior leadership, should be able to question processes and suggest improvements.
+
+- **Question the rules**: Don’t just follow the rules—challenge them.
+
+- **Encourage innovation**: Constantly ask, “Is there a better way to do this?”
+
+Agile is about breaking free from the mindset of rigid structures. It’s about empowering your teams to make decisions that can lead to better outcomes.
+
+## **Questioning Rules and Procedures: A Culture of Curiosity**
+
+In an Agile organization, questioning rules and procedures is not seen as disruptive—it’s encouraged. You need to cultivate a culture where employees are constantly looking for ways to improve.
+
+- **Create open forums**: Establish spaces where your team can openly discuss what’s working and what isn’t.
+
+- **Be curious**: Encourage employees to explore alternatives, whether it's finding a faster way to do something or eliminating an unnecessary process altogether.
+
+- **Reward initiative**: Don’t punish those who question; celebrate them.
+
+When you foster a culture of curiosity, your teams are empowered to drive continuous improvement.
+
+## **Avoiding Disgruntlement: Act on Feedback**
+
+One of the biggest mistakes organizations can make is ignoring the feedback they receive from their teams. When employees constantly raise issues but see no change, frustration builds. This leads to disengagement, and ultimately, a lack of productivity.
+
+Here’s how to avoid disgruntled teams:
+
+- **Listen to feedback**: Actively seek feedback from your teams and show that you’re listening.
+
+- **Take action**: Address concerns and fix problems where they arise.
+
+- **Involve leadership**: Ensure that leaders at all levels are involved in the improvement process.
+
+A culture of inaction leads to frustration, while a culture of responsiveness leads to a thriving, motivated workforce.
+
+## **Fostering Continuous Improvement: Creating Agile Forums**
+
+Agile is all about continuous improvement, and that requires regular reflection and adjustment. As an organization, you should create regular opportunities for your teams to examine their processes and seek improvements.
+
+- **Host regular retrospectives**: Use Scrum’s retrospective meetings to reflect on what’s working and what’s not.
+
+- **Involve everyone**: Don’t limit these conversations to just the leadership team—every level of the organization should participate.
+
+- **Promote experimentation**: Give teams the freedom to experiment and try new approaches, even if it means occasional failure.
+
+By fostering a culture of continuous improvement, you ensure that your organization is always evolving, always adapting, and always growing.
+
+## **Personalized Assistance and Learning**
+
+Every organization’s Agile journey is unique. If you’re ready to dive deeper into Agile or Scrum practices or need personalized advice on how to implement these principles in your organization, we’re here to help.
+
+By embracing the core principles of Agile—questioning, continuous improvement, and adaptability—you can transform your organization into a dynamic, responsive powerhouse.
+
+## **Final Thoughts** **💡**
+
+To truly unlock the power of Agile:
+
+- **Question everything**: Don’t take processes at face value.
+
+- **Foster change**: Encourage everyone in the organization to contribute ideas for improvement.
+
+- **Continuously adapt**: Always be willing to pivot when necessary.
+
+Embrace these principles, and you’ll not only stay ahead but lead the way in your industry. 🚀
+
+

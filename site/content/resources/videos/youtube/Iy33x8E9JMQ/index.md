@@ -1,32 +1,63 @@
 ---
-title: "Dogma versus Empiricism in a consulting engagement"
-date: 2023-08-11T07:00:08Z
+title: Dogma versus Empiricism in a consulting engagement
+date: 2023-12-06
 videoId: Iy33x8E9JMQ
-url: /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
-canonicalUrl: https://www.youtube.com/watch?v=Iy33x8E9JMQ
+url: /resources/videos/:slug
+slug: dogma-versus-empiricism-in-a-consulting-engagement
 preview: https://i.ytimg.com/vi/Iy33x8E9JMQ/maxresdefault.jpg
 duration: 48
-isShort: True
+isShort: true
+aliases:
+- /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
+- /resources/dogma-versus-empiricism-in-a-consulting-engagement
+- /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+
 ---
 
 {{< youtube Iy33x8E9JMQ >}}
 
-# Dogma versus Empiricism in a consulting engagement
+## The Thin Line: Dogma vs Empiricism in Consulting Engagements
 
-#shorts #shortvideo #shortsvideo #agile is built on the foundation of #empiricism, which is essentially learning through doing and adapting as necessary, but sometimes your #agilecoach will get too caught up in #agiledogma that is creates problems for you. Here's how
+In my journey, I've come to firmly grasp the undeniable truth that dogma holds no ground, especially when it comes to consulting engagements.
 
-About NKD Agility
+Here, I delve deeper into why I assert that dogma really has no place in a consulting engagement. Indeed, it actually has no place anywhere!
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Zero Room for Dogma
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+I genuinely believe that dogma really has no place in a consulting engagement.  🚫
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Indeed, it actually has no place anywhere!
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+These strong words echo my firm belief that consulting should be a realm free of rigid, unyielding doctrines. It should be a space that encourages fresh perspectives and innovative approaches.
 
-We would love to work with you. 
+Dogma restricts us, hindering the flow of fresh and innovative ideas. It's essential to realise that what worked yesterday might not be the best solution for tomorrow.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Pedantic Approaches in Training - A Necessary Evil?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Iy33x8E9JMQ)
+While it's true that there is a place for being pedantic, especially during training phases because you're trying to learn something - understand the nitty-gritty of processes and systems - it should not be a permanent stance.
+
+There is a place for being pedantic while training because you're trying to learn something.
+
+Learning is about grasping 'Here's the way this thing is supposed to be', but being open to adaptations and improvements is equally important.  📘
+
+The key is to transition from this phase to a more fluid approach as you step into the real world of implementation.
+
+## Engaging with Empathy and Flexibility
+
+Here comes the pivotal point - when you are actively engaging with individuals in an organisation, understanding their roles and aiding them in performing their jobs more efficiently, there's absolutely no room for a pedantic approach.
+
+Instead, we should focus on fostering relationships based on understanding and building mutual respect.  🤝
+
+## Empirical Adaptation
+
+It's all about pragmatically and empirically adapting our processes to the changing business demands.  💡
+
+Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mould our strategies per the evolving business landscape.
+
+## Join Us on a Journey of Continuous Learning
+
+As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
+
+Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.
+
+

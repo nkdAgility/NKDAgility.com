@@ -1,44 +1,66 @@
 ---
-title: "How does a scrum team estimate what can be delivered in a sprint?"
-date: 2023-06-01T07:00:31Z
+title: How does a Scrum team estimate what can be delivered in a Sprint?
+date: 2023-10-10
 videoId: pyk0CfSobzM
-url: /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
-canonicalUrl: https://www.youtube.com/watch?v=pyk0CfSobzM
+url: /resources/videos/:slug
+slug: how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
 preview: https://i.ytimg.com/vi/pyk0CfSobzM/maxresdefault.jpg
 duration: 244
-isShort: False
+isShort: false
+aliases:
+- /resources/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint
+- /resources/videos/how-does-a-scrum-team-estimate-what-can-be-delivered-in-a-sprint-
+
 ---
 
 {{< youtube pyk0CfSobzM >}}
 
-# How does a scrum team estimate what can be delivered in a sprint?
+## Navigating the Uncertainties of Sprint Estimations in Scrum Teams
 
-The Art of Sprint Estimation: Navigating Uncertainty in Scrum Teams
+Today, let's delve deep into a fascinating question which is, "How does a scrum team estimate what can be delivered in a single Sprint?"
 
-Dive into the complexities of Sprint estimation in Scrum teams. Uncover insightful perspectives on managing creative tasks and flexible planning in this must-watch for Scrum enthusiasts!
+It's a great question, and I must admit, the ultimate answer might surprise many - maybe they don't!
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+Grab a seat as we unravel the intricacies of Sprint estimations! 🚀
 
-In this video, Martin 👨‍💼 explores the intriguing world of Sprint estimation in Scrum teams. He delves into the nuances of sizing vs. estimating 📏, the unpredictability of creative tasks 🎨, and the fine line between educated guesses and concrete planning. Perfect for Scrum Masters, Product Owners, and team members looking for deeper insights into effective Sprint planning! 🚀 Don't miss Martin's candid take on these challenges and his practical advice for agile teams. 🌟
+## The Great Dilemma - Estimations or Size?
 
-*Key Takeaways:*
-00:00:04 Scrum Team Estimation Challenges
-00:00:14 Sizing vs. Estimation in Scrum
-00:01:06 Predictability in Creative Tasks
-00:02:21 Estimating Predictable vs. Creative Work
-00:03:02 Sprint Planning Realities
+As per the scrum guide, surprisingly, the terms 'estimate' or 'estimation' are nowhere to be found on its pages.
 
-*NKDAgility can help!*
+Instead, it emphasises understanding the 'size' of things on their product backlog, diverging from the common notion of estimation. 💡
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to accurately estimate work in a Scrum environment_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+While estimation tools and techniques stand as excellent resources, their prime utility, as I see it, is to foster a profound understanding among developers, the product owner, and stakeholders about the elements in the product backlog.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+In my experience, this comprehension tends to be far more valuable than pinpointing a specific timeframe, which can often be misleading.
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
+Yet, I often lean on these tools to bolster teams' understanding of the items on the product backlog rather than pinpointing a fixed time frame.
 
-Because you don't just need agility, you need Naked Agility.
+## The Creative Process: Unpredictable & Uncharted
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continousdelivery, #devops, #azuredevops.
+Consider this scenario, which may sound outlandish, but think about it.  What if someone asked you to write a book on political leadership in the UK?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=pyk0CfSobzM)
+Could you instantly decipher how long it would take?  ✍️
+
+Honestly, you don't know; you can't answer that question.
+
+It's virtually impossible to predict the timeframe for such a creative endeavour, as it's laden with unforeseeable obstacles and surprises that bring in a high level of variance.
+
+Just as with crafting a product that doesn't exist yet, predicting a precise timeframe for a book is fraught with uncertainty due to unforeseeable challenges and surprises that might occur along the way.
+
+## Embracing Uncertainties in Agile Strategies
+
+Building a product is akin to venturing into unknown territory.  Your approach, tools, ideas, and even architectural choices are yet to be formulated.
+
+This unknown facet leads to the inevitable element of surprise, making precise estimation a bit far-fetched. 🔍
+
+So, when it comes down to what can be delivered in a Sprint, the truth is we take educated guesses akin to many others.
+
+Remember, your Sprint goal should encompass only a portion of the Sprint, allowing room for adjustments and realignments as you might often realise that tasks could take more time than anticipated.
+
+## Embark on Your Agile Journey
+
+I invite you to join my Agile and Scrum courses to delve even deeper into these nuances and cultivate a robust understanding. 🎓
+
+We will navigate the unpredictable yet exhilarating journey of Agile project management.  Let's learn, adapt, and grow together!
+
+

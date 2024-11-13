@@ -1,0 +1,83 @@
+post:
+  title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
+  link: >-
+    https://nakedalmweb.wpenginepowered.com/resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights/
+  pubDate: Wed, 13 Nov 2024 09:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=51996
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>When I first encountered Azure DevOps back in 2006, it wasn't even called Azure DevOps. Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-early-experience-with-team-foundation-server-tfs\"><strong>Early Experience with Team Foundation Server (TFS)</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-a-humble-beginning\"><strong>A Humble Beginning</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>My journey with Azure DevOps began in the mid-2000s when I was a software engineer plugging away at building products. Back then, TFS was my gateway into the world of DevOps. It was a tool designed to help teams improve their processes, increase their capabilities, and streamline their workflows.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-challenges-and-growth\"><strong>Challenges and Growth</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>However, TFS, in its early days, struggled to extend its reach beyond the Microsoft ecosystem. It was primarily designed for teams deeply entrenched in Microsoft technologies, limiting its versatility. Despite these challenges, I found TFS to be an invaluable tool, and my work with it played a significant role in earning my Microsoft MVP status. This recognition came from my efforts in building plugins and working with the TFS APIs, which laid the foundation for my future endeavors in the DevOps space.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-becoming-a-microsoft-mvp\"><strong>Becoming a Microsoft MVP</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-recognition-through-contribution\"><strong>Recognition Through Contribution</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Gaining recognition as a Microsoft MVP was a pivotal moment in my career. My contributions to the TFS ecosystem, particularly in API development and consulting, earned me this prestigious title. I had the opportunity to work with teams at Merrill Lynch and Aggreko, where I helped them implement automated builds, streamline work item tracking, and integrate various tools to enhance their capabilities.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-real-world-applications\"><strong>Real-World Applications</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In these roles, I wasn't just writing code; I was helping teams understand the importance of DevOps practices and how to effectively utilize TFS to achieve their goals. I built visualization tools, automated processes, and played a key role in driving the adoption of DevOps practices within these organizations.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-significant-projects-and-custom-adapters\"><strong>Significant Projects and Custom Adapters</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-power-of-api-work\"><strong>The Power of API Work</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>After earning my MVP, I moved to the United States and worked as a DevOps consultant, primarily within the Microsoft stack. During this time, I was heavily involved in API work, which included complex migrations and custom adapter development. One particularly challenging project involved migrating data from TFS to other systems using an old Microsoft tool with an adapter model. This experience highlighted the importance of flexibility in DevOps tools and the need for custom solutions to address unique challenges.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-creating-custom-solutions\"><strong>Creating Custom Solutions</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of my notable achievements during this period was creating a custom migrator for Test Track Pro into TFS. This project demonstrated the importance of understanding both the technical and business aspects of DevOps. It wasn't just about moving data; it was about ensuring that the migration process aligned with the organization's goals and workflows.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-evolution-of-migration-tools\"><strong>Evolution of Migration Tools</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-consolidation-and-optimization\"><strong>Consolidation and Optimization</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>As my career progressed, I started my own business and took on projects that required deep expertise in DevOps and migration strategies. One such project involved a company called Slumber, which needed to consolidate its tools and processes. Slumber's environment was a mishmash of tools and engineering processes, and they needed to streamline their operations by adopting TFS as their primary tool.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-role-of-powershell\"><strong>The Role of PowerShell</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In this project, I initially built a series of PowerShell scripts to prototype the migration process. PowerShell was instrumental in rapidly iterating on solutions, despite its limitations in terms of stability and scalability. These scripts allowed us to migrate data, change process templates, and move data between fields. However, as the project progressed, it became clear that a more robust and pluggable solution was needed.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-building-azure-devops-migration-tools\"><strong>Building Azure DevOps Migration Tools</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-two-approaches-to-migration\"><strong>Two Approaches to Migration</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The migration landscape in Azure DevOps is complex, with two primary approaches to consider:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list {\"ordered\":true,\"start\":1} -->\r\n<ol start=\"1\" class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Microsoft's Built-in Migration Tools</strong>: These tools are limited but powerful, designed to help organizations move their on-premise TFS environments to Azure DevOps in the cloud. If your environment is relatively up-to-date, this is often the simplest and most reliable method.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Custom Migration Tools (My Solution)</strong>: For organizations with unique needs or outdated environments, my custom migration tools offer a more flexible solution. These tools allow for selective migration of work items and other data, providing the necessary adaptability for complex scenarios.</li>\r\n<!-- /wp:list-item --></ol>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-real-world-case-studies\"><strong>Real-World Case Studies</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of the most significant projects I've worked on involved migrating 2.7 terabytes of data for Slumber, making them one of the largest Azure DevOps customers outside of Microsoft. This massive migration was a testament to the power of Microsoft's tools when used correctly. On the other end of the spectrum, I've also handled smaller migrations, where the process was completed in a matter of hours, showcasing the scalability of Azure DevOps.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-practical-advice-for-migration\"><strong>Practical Advice for Migration</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-planning-and-execution\"><strong>Planning and Execution</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>When planning a migration to Azure DevOps, it's crucial to:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Assess your environment</strong>: Determine the current state of your TFS environment, including the version and any dependencies.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Choose the right migration path</strong>: Decide whether to use Microsoft's built-in tools or opt for a custom solution.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Prepare for complexity</strong>: Be aware that migrations often involve multiple stages, especially if you're dealing with older versions of TFS.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-custom-solutions-for-complex-needs\"><strong>Custom Solutions for Complex Needs</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>For organizations with unique requirements, such as partial migrations or splitting projects, custom tools like the ones I've developed can be invaluable. These tools allow for a more granular approach, enabling organizations to move only the necessary components while maintaining the integrity of their data.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-training-and-consulting-services\"><strong>Training and Consulting Services</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-empowering-teams\"><strong>Empowering Teams</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In addition to providing migration tools, I offer training and consulting services to help organizations make the most of Azure DevOps. Whether it's a one-off migration or ongoing support, my goal is to empower teams to leverage the full capabilities of Azure DevOps.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Training</strong>: I provide customized training sessions for teams, ensuring they have the skills needed to manage their environments effectively.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Consulting</strong>: For organizations facing complex challenges, I offer consulting services to help them navigate the intricacies of Azure DevOps and develop tailored solutions.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-real-world-applications-0\"><strong>Real-World Applications</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of the most rewarding aspects of my work is seeing the impact of these tools and services in real-world scenarios. For example, I recently completed a migration of 880,000 work items for a customer, enabling their audit department to seamlessly transition to a new system. This project not only demonstrated the scalability of Azure DevOps but also underscored the importance of having the right expertise on hand for such critical tasks.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-conclusion-and-ongoing-support\"><strong>Conclusion and Ongoing Support</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-a-continuous-journey\"><strong>A Continuous Journey</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>As both a user and consultant for Azure DevOps, I've witnessed the platform's evolution and its impact on organizations of all sizes. While my work has increasingly shifted to GitHub, I still hold a deep appreciation for the capabilities Azure DevOps offers. However, as powerful as these tools are, there are always gaps that require custom solutions or expert guidance.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p><strong>Final Thoughts</strong></p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Whether you're planning a migration, seeking to optimize your DevOps processes, or simply need advice on the best approach for your organization, remember that Azure DevOps is a versatile platform with the potential to transform how you work. But like any tool, its effectiveness depends on how well you understand and leverage its capabilities. So, take the time to explore your options, seek out the right expertise, and make informed decisions that align with your business goals. By sharing my journey and insights, I hope to inspire others to explore the full potential of Azure DevOps and embrace the continuous journey of improvement that DevOps embodies. 🚀</p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '51996'
+  post_date: '2024-11-13 09:00:00'
+  post_date_gmt: '2024-11-13 09:00:00'
+  post_modified: '2024-10-23 07:32:05'
+  post_modified_gmt: '2024-10-23 07:32:05'
+  comment_status: closed
+  ping_status: closed
+  post_name: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.15.0
+  - meta_key: _thumbnail_id
+    meta_value: '51997'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1151964;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/isU2kPc5HFw
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '630'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Talk us through your experience with Azure DevOps.
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      The article recounts the author's journey with Azure DevOps, sharing
+      lessons learned and insights on leveraging its capabilities for effective
+      DevOps practices.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '53'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '6'
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1731492049'

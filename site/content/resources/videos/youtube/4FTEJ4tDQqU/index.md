@@ -1,12 +1,13 @@
 ---
-title: "Why did you embrace Agile over traditional project management as a developer?"
+title: Why did you embrace Agile over traditional project management as a developer?
 date: 2023-03-02T07:00:01Z
 videoId: 4FTEJ4tDQqU
 url: /resources/videos/why-did-you-embrace-agile-over-traditional-project-management-as-a-developer-
 canonicalUrl: https://www.youtube.com/watch?v=4FTEJ4tDQqU
 preview: https://i.ytimg.com/vi/4FTEJ4tDQqU/maxresdefault.jpg
 duration: 326
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 4FTEJ4tDQqU >}}
@@ -41,3 +42,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner,
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4FTEJ4tDQqU)
+
+

@@ -1,37 +1,67 @@
 ---
-title: "How can companies derive greater benefit from training by investing in a private training course?"
-date: 2023-05-05T07:00:01Z
+title: How can companies derive greater benefits from training by investing in a private training course?
+date: 2023-10-09
 videoId: a2sXBMPHl2Y
-url: /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
-canonicalUrl: https://www.youtube.com/watch?v=a2sXBMPHl2Y
+url: /resources/videos/:slug
+slug: how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 preview: https://i.ytimg.com/vi/a2sXBMPHl2Y/maxresdefault.jpg
 duration: 212
-isShort: False
+isShort: false
+aliases:
+- /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
+- /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
+- /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+
 ---
 
 {{< youtube a2sXBMPHl2Y >}}
 
-# How can companies derive greater benefit from training by investing in a private training course?
+## Private Training Courses: A Game Changer for Companies?
 
-In #scrumtraining, there are people who pursue certifications to open doors in future, whilst others are in pursuit of knowledge and skills that will help them become more effective in their role.
+Navigating the realm of Agile and DevOps can be daunting.
 
-Certification matters because it validates your knowledge and skills, but if your primary goal is to help a team of individuals achieve collective goals and objectives, a more focused approach to training and skills acquisition is a better investment for your organization.
+When it comes to training, a pressing question often emerges: Can companies reap more from a private training course? 🚀
 
-NKD Agility offer public training courses, which includes individuals from around the world acquiring the knowledge and skills they need to thrive in their role, but we also offer private training courses which serve as a hands-on workshop that empowers the team to thrive in their unique context.
+Many organisations are maximising the impact of private training, so let's take an inside look at this game changer.
 
-In this short video, Martin Hinshelwood explores the benefits of investing in a private training course for your organization.
+## Opening Up in Private Courses: An Unexpected Freedom
 
-About NKD Agility
+When training becomes a private affair, it always creates a safe space that encourages remarkable open dialogue. While I strive to create this atmosphere in public classes, the inherent comfort within the confines of a familiar organisation makes discussions more in-depth and candid.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
- 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+You're suddenly in an environment where airing the so-called "dirty laundry" is tolerated and embraced.  🗣️ In fact, speaking out is almost an expectation.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## Eureka Moments in Private Classes
 
-We would love to work with you. 
+During these focussed sessions, I've found myself discussing professional scrum, unit testing, continuous delivery to production, and all things Agile and DevOps.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+And occasionally, I'm met with, "We can't do that here because of XYZ".
 
-[Watch on YouTube](https://www.youtube.com/watch?v=a2sXBMPHl2Y)
+Yet, fascinatingly, someone else in the room often counters with something encouraging like, "Actually, we do that in our team".
+
+Such moments are golden! 🌟
+
+They underscore the potential within an organisation, spotlighting discrepancies in beliefs and actual capabilities.
+
+The Real Value in Private Courses
+
+This is where the magic happens.🎯
+
+1\. Candid Conversations: Unparalleled candour leads to rich and constructive discussions.
+
+2\. Realisation of Possibilities: By interacting with peers, teams often discover latent capabilities within their organisation.
+
+3\. Provoking Thought: The presence of an external facilitator can help provoke essential conversations, pushing teams to reconsider long-held beliefs and methods.
+
+To put it briefly, while public courses have merit, private training has that added layer of intimacy and relevance, often resulting in deeper insights and transformations.
+
+## Your Next Agile Adventure Awaits
+
+Eager to deepen your insights into Agile and Scrum?
+
+If you're poised to elevate your team's Agile and Scrum prowess, join one of our specialised courses.
+
+Whether public or private, our training sessions are meticulously designed to empower you. Keen on a tailored experience?
+
+Let's explore the boundless potential of private courses together.
+
+

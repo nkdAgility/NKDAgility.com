@@ -1,40 +1,70 @@
 ---
-title: "How does scrum help leadership teams pick the most valuable work to focus on?"
-date: 2023-02-10T07:15:02Z
+title: How does scrum help leadership teams pick the most valuable work to focus on?
+date: 2023-03-15
 videoId: bpBhREVX85o
-url: /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
-canonicalUrl: https://www.youtube.com/watch?v=bpBhREVX85o
+url: /resources/videos/:slug
+slug: how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
 preview: https://i.ytimg.com/vi/bpBhREVX85o/maxresdefault.jpg
 duration: 106
-isShort: False
+isShort: false
+aliases:
+- /resources/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on
+- /resources/videos/how-does-scrum-help-leadership-teams-pick-the-most-valuable-work-to-focus-on-
+
 ---
 
 {{< youtube bpBhREVX85o >}}
 
-# How does scrum help leadership teams pick the most valuable work to focus on?
+How does scrum help leadership teams pick the most valuable work to focus on?
 
-In simple or complicated environments such as civil engineering, traditional #projectmanagement is a great answer. You know what needs to be done, you know who is best positioned to do the work, and you know how long that will take and how much it will cost to do.
+It doesn’t.
 
-Because it is complicated, it tends to be linear and stable, and so it's simply a matter of running a tight ship from point A to Z to ensure you get the job done efficiently and effectively.
+**Scrum** is a lightweight **agile framework**; it has nothing in it that helps leadership teams pick the most valuable work to focus on. Sure, it provides a framework for decision-making, but it doesn’t do the work for you.
 
-In complex environments, things become way tougher. You have never built the solution or solved the problem before, and so you don't know what you don't know.
+Some people have remarked that ‘_scrum doesn’t solve problems; it highlights problems_’ and this is in a similar vein. It may not help you pick the most valuable work to focus on, but it will highlight where you are making mistakes, wasting time and effort, and where organizational dysfunctions are present.
 
-#agile is a process of developing a hypothesis, running an experiment, inspecting what has been created, and using the data and evidence to inform what you should do next.
+It is the leadership team’s responsibility to identify the most valuable work, not scrum.
 
-In this short video, Martin Hinshelwood explains how #scrum provides a framework to help #leadership teams decide which work is the most valuable, in the context of the customers they serve, and within the organizations constraints.
+If you are in business, and you are the person making decisions about where to invest, what to invest in, and why investment is needed – based on your interpretation of the market demands – then you are the person who needs to make a call.
 
-About NKD Agility
+**Scrum** can’t do that for you. **Kanban** can’t do that for you. No **agile framework** can do that for you.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Leaders need to understand their business, understand their customers, understand their competitors and leverage scrum to create rapid, valuable feedback loops that will inform whether they are working on the most valuable problems and solutions.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+So, yes, the **scrum framework** can help provide you with the insight, feedback, and empirical evidence you need to make great decisions, but it doesn’t do the decision-making for you.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+**Agile** works well when leadership teams have a strong strategic vision and want to use an **agile framework** to execute against that vision. Use the framework to validate their hypotheses and discover the best way of achieving that vision.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- How to do great work.
 
-We would love to work with you. 
+- How to acquire rapid, valuable feedback from customers and stakeholders.
+
+- How to test value propositions.
+
+- How to improve time-to-market.
+
+- How to reduce production costs and wastage.
+
+And so forth.
+
+You develop the ‘why’ and scrum can help you discover what to do and how to do it best.
+
+If you are clear about the outcomes that you are trying to achieve, and what the next best investment of your time and money is, then scrum will help you figure out how to solve the most compelling problems and develop the most valuable solutions.
+
+Scrum will help you create and develop highly professional, creative, and collaborative product development teams that can organize around the delivery of the outcomes that matter most to you.
+
+## About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=bpBhREVX85o)
+

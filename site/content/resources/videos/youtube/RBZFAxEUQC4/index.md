@@ -1,58 +1,74 @@
 ---
-title: "Lust! 7 Deadly Sins of Agile"
-date: 2023-10-12T07:00:12Z
+title: '7 deadly sins of Agile: Lust'
+date: 2023-12-31
 videoId: RBZFAxEUQC4
-url: /resources/videos/lust!-7-deadly-sins-of-agile
-canonicalUrl: https://www.youtube.com/watch?v=RBZFAxEUQC4
+url: /resources/videos/:slug
+slug: 7-deadly-sins-of-agile-lust
 preview: https://i.ytimg.com/vi/RBZFAxEUQC4/maxresdefault.jpg
 duration: 177
-isShort: False
+isShort: false
+aliases:
+- /resources/7-deadly-sins-of-agile-lust
+- /resources/videos/lust!-7-deadly-sins-of-agile
+
 ---
 
 {{< youtube RBZFAxEUQC4 >}}
 
-# Lust! 7 Deadly Sins of Agile
+**Unravelling the Lust of Agile: Why There's No Quick Fix in Transformation** 
 
-Organizations are realizing that markets have changed and are now seeking agile transformations. But many just want to buy the solution without putting in the work. Dive into why this approach doesn't work. 🚀
+In a world where rapid market evolution is the norm, many organisations find themselves facing the 70-year itch, desperately seeking a solution in Agile transformations.  
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+But is this desire a mere infatuation, an Agile lust, if you will? 🤔  
 
-In this video, Martin discusses one of the seven deadly sins of agile: lust. Many organizations, noticing the shift in markets, are eager to adopt agile practices. However, they often want a quick fix, hoping to purchase a solution rather than investing time and effort. Martin emphasizes the importance of understanding and adapting agile to fit an organization's unique needs, rather than blindly copying others. 🔄💡
+Let's dive into why merely craving Agile isn't enough and the importance of genuine commitment to the process. 
 
-*Subscribe to our newsletter, "NKDAgility Digest":* https://nkdagility.com/subscribe-newsletter/
+**The 70-Year Itch in Organisations:** 
 
-*Key Takeaways:*
-00:00:05 Introduction to the Seven Deadly Sins of Agile: Lust
-00:00:12 Organizations' Desire for Agile and Digital Transformation
-00:00:23 Realization of Market Changes Over Time
-00:00:36 Historical Perspective: Market Changes Since the 1930s
-00:00:54 The Desire for Quick Agile Solutions Without Effort
-00:01:07 The Role of Big Consulting Firms in Agile Transformation
-00:01:39 The Problem with Copying Agile Implementations
-00:02:15 Building a Unique Agile Implementation for Your Organization
-00:02:37 The Danger of Lusting After Agile Without Understanding
-00:02:43 Closing Remarks and Invitation to Connect
+- 💡 The market has been evolving since the 1930s, drastically changing in the 1970s. 
 
-*7 Deadly Sins of Agile Playlist:* https://youtube.com/playlist?list=PLQEC_R53iJWOFJcaaeEVVIO1o-9Lik2TQ&si=qDLDIwYFnG6OQGmS
+- 🔄 Many companies are only now realising the need for change. 
 
-- *Part 1:* https://youtu.be/4mkwTMMtKls
-- *Part 2:* https://youtu.be/fZLGlqMdejA
-- *Part 3:* https://youtu.be/2ASLFX2i9_g
-- *Part 4:* https://youtu.be/RBZFAxEUQC4
-- *Part 5:* https://youtu.be/BDFrmCV_c68
-- *Part 6:* https://youtu.be/uCFIW_lEFuc
-- *Part 7:* https://youtu.be/U18nA0YFgu0
+- 🚀 They eye Agile methodologies as a coveted solution. 
 
-*NKDAgility can help!*
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to adapt to the changing market dynamics, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+T**he Misdirected Lust for Agile:** 
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+- 💭 Organisations often desire Agile as a quick fix, an instant solution. 
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses_
+- 🛑 This approach overlooks the need for deep understanding and adaptation. 
 
-Because you don't just need agility, you need Naked Agility.
+- 🌐 The error lies in seeking to 'purchase' Agile, rather than cultivating it organically. 
 
-#scrum #agile #agiletransformation #marketchange #agilecoach #scrumorg
+**The Illusion of Easy Agile Transformation:** 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=RBZFAxEUQC4)
+- 🏢 Big firms often bring in top consultants to implement Agile. 
+
+- 🔍 However, these transformations often miss the unique context of the organisation. 
+
+- 👁️‍🗨️ There's a gap between what's needed and what's delivered. 
+
+**Building Your Unique Agile Path:** 
+
+- ✨ Every organisation must develop its own Agile journey. 
+
+- 🔄 This process requires effort, time, and energy – it's not a plug-and-play model. 
+
+- 🛠️ Adaptation and customisation are key to genuine Agile integration. 
+
+**Conclusion:**  
+
+The allure of Agile transformation is strong, but it's not a one-size-fits-all solution. Organisations must resist the temptation to lust after off-the-shelf Agile models. Instead, the focus should be on a tailored approach, considering unique organisational cultures and goals.  
+
+The true essence of Agile lies in its ability to adapt – and that requires more than just surface-level desire. It demands commitment, experimentation, and a willingness to evolve. 
+
+**Key Takeaways:** 
+
+- 🤔 Understand that Agile is not a quick fix; it's a journey. 
+
+- 🌱 Cultivate an Agile mindset that aligns with your organisation's unique needs. 
+
+- 🚀 Embrace the process of learning, adapting, and growing in your Agile journey. 
+
+Agile transformation isn't about lusting after a trendy methodology; it's about building a framework that resonates with the ethos of your organisation. It's a path of discovery, learning, and, most importantly, embracing change from within. 🌟
+
+

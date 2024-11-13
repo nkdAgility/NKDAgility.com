@@ -1,32 +1,54 @@
 ---
-title: "Agile Scotland 2023 Why does this matter to you and why should people come to the event?"
-date: 2023-06-28T07:00:21Z
+title: 'Agile Scotland 2023: Why does this matter to you and why should people come to the event?'
+date: 2023-11-22
 videoId: uGIhajIO3pQ
-url: /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
-canonicalUrl: https://www.youtube.com/watch?v=uGIhajIO3pQ
+url: /resources/videos/:slug
+slug: agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 preview: https://i.ytimg.com/vi/uGIhajIO3pQ/maxresdefault.jpg
 duration: 121
-isShort: False
+isShort: false
+aliases:
+- /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
+- /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+
 ---
 
 {{< youtube uGIhajIO3pQ >}}
 
-# Agile Scotland 2023 Why does this matter to you and why should people come to the event?
+## Scotland’s Agile Revolution: What’s on the Horizon 
 
-This year, NKD Agility are proud sponsors of Agile Scotland 2023. In this short video, Martin Hinshelwood talks about the event, why it matters, and why you should attend if you're in Scotland.
+Ah, Scotland – a land not just of captivating highlands and historical marvels but also a burgeoning hub for Agile methodologies!  
 
-About NKD Agility
+As we inch closer to Agile 2023, the Scotland experience, it’s palpable that something exciting is brewing in the tech community here. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+I'm Martin, albeit with a slightly international twang to my accent, thanks to my globe-trotting years. But my roots remain firmly in Scottish soil. Our company, Nick Jolte, is a proud sponsor of this year's event. Why, you ask? Well, despite our global presence, we're passionately Scottish at heart. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## 🌍 A Global Community with a Local Heart 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Let me tell you, Scotland might not be the largest market for our customers, but the community's spirit here is something else. We're also backing the 'Future of Work in Scotland' – a regular meetup that showcases some of the world’s top speakers. This zest for knowledge and advancement is what sets the Scottish tech scene apart. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## 🚀 Agile 2023: The Scottish Chapter 
 
-We would love to work with you. 
+Agile conferences, as I’ve experienced, are nothing short of phenomenal. Take 'Deliver Agile 2023', where I had the honour to speak – what an event that was! Although Agile 2023 in Scotland might be on a smaller scale (we’re just starting out, after all), the lineup of speakers and the enthusiasm buzzing around is no less impressive. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+So, What’s in Store? 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=uGIhajIO3pQ)
+- 🤝 **Community Interaction:** Expect to rub shoulders with thought leaders and enthusiasts alike, all united by a passion for Agile methodologies. 
+
+- 🗣️ **Expert Insights:** From seasoned professionals to emerging voices, the range of perspectives is bound to be enlightening. 
+
+- 📈 **Trendsetting Topics:** Agile isn’t static; anticipate discussions on its evolving role in a rapidly changing tech world. 
+
+## Final Thoughts: Scotland’s Agile Landscape 
+
+Agile 2023, the Scotland experience, isn’t just a conference; it’s a testament to the growing influence of Agile methodologies in the Scottish tech community. While I may not have a plethora of local customers, supporting and participating in these communities remains a cornerstone of our ethos. It's about fostering a culture of learning, collaboration, and innovation. 
+
+💭 Takeaways: 
+
+- Embrace the Agile spirit, no matter where you are. 
+
+- Community and collaboration are key to driving innovation. 
+
+- Never underestimate the value of local events for global insights.
+
+

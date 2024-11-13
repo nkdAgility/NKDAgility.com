@@ -1,12 +1,13 @@
 ---
-title: "Kanban with Azure DevOps"
+title: Kanban with Azure DevOps
 date: 2024-03-29T16:42:17Z
 videoId: jCrXzgjxcEA
 url: /resources/videos/kanban-with-azure-devops
 canonicalUrl: https://www.youtube.com/watch?v=jCrXzgjxcEA
 preview: https://i.ytimg.com/vi/jCrXzgjxcEA/maxresdefault.jpg
 duration: 1448
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube jCrXzgjxcEA >}}
@@ -43,3 +44,5 @@ Because you dont just need agility, you need Naked Agility.
 #KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
+
+

@@ -1,0 +1,85 @@
+post:
+  title: 'Special Sprints: Agile Banditry or Risk Management?'
+  link: >-
+    https://nakedalmweb.wpenginepowered.com/resources/special-sprints-agile-banditry-or-risk-management/
+  pubDate: Tue, 15 Oct 2024 16:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=51873
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>You can't spend much time in the Agile space without encountering teams doing some kind of special sprints. Whether it's Sprint Zero, refactoring sprints, bug-fix sprints, or hardening sprints, these so-called \"special sprints\" are quite common. However, let’s cut to the chase: <strong>special sprints are agile banditry</strong>, and those practicing them are bandits in disguise. Here's why they dilute your team's ability to deliver usable, working products, and how you can avoid falling into the same trap.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-purpose-of-agile-delivering-usable-working-products\"><strong>The Purpose of Agile: Delivering Usable, Working Products</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The core principle of Agile is to deliver <strong>usable working products</strong> at the end of every sprint. That's it. Everything we do in Agile, from daily stand-ups to retrospectives, supports this goal.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>Agile is all about <strong>visibility and stakeholder engagement</strong>.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>It focuses on <strong>continuous delivery</strong> of usable products.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>This practice reduces risk and increases adaptability.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>When we adhere to these principles, we're continuously improving our product, gathering feedback, and adjusting as we go. The aim is always to keep the product in a <strong>usable state</strong>, meaning that at any point, what we deliver can be shipped to production. This is the key to managing risk in Agile.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-traditional-risk-management-vs-agile-risk-management\"><strong>Traditional Risk Management vs. Agile Risk Management</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In traditional project management, risk was mitigated through detailed planning. Teams would lay out extensive project plans and milestones that they believed wouldn't change much over time. This method worked in predictable environments, but in today's <strong>complex and uncertain landscapes</strong>, this level of detailed foresight is impossible.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>In Agile, we manage risk by delivering <strong>incremental, usable products</strong>.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>Instead of relying on rigid, long-term plans, we adjust based on <strong>what's actually happening</strong> in real-time.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>That’s why <strong>special sprints</strong> (like bug-fix or hardening sprints) are problematic. They offer a false sense of security—a “safety net”—that undermines the core Agile principle of delivering usable work every sprint.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-case-study-the-azure-devops-team\"><strong>Case Study: The Azure DevOps Team</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A great example of this issue comes from the <strong>Azure DevOps team</strong> when they first transitioned to Scrum. They initially planned to run six regular sprints followed by a \"hardening\" or \"safety net\" sprint, where they'd fix bugs, clean up technical debt, and ensure everything was in good shape.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-problem-with-safety-nets\"><strong>The Problem With Safety Nets</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The team expected that as they worked through each sprint, they’d have an ebb and flow of incomplete tasks, or “undone work.” They imagined that by the time they reached their final safety net sprint, they'd be able to fix everything.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p><strong>But here's what really happened:</strong></p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>Because the team knew there was a safety net, they consistently deferred work, thinking, \"We'll fix that in the safety net sprint.\"</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>This created a <strong>mountain of undone work</strong>, growing bigger with each sprint.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>By the time they reached the safety net sprint, the work backlog was so overwhelming they couldn’t fix it all.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-solution-no-more-safety-nets\"><strong>The Solution: No More Safety Nets</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Realizing their mistake, the team restarted their approach. They shifted to a model of <strong>three-week sprints</strong> with <strong>no safety net</strong> at the end.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>At the end of every sprint, they had to <strong>ship to production</strong>.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>There was no \"maybe we'll ship\"; it was an absolute <strong>must</strong>.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>As a result, they were forced to pay off technical debt during each sprint, ensure high quality, and reduce the amount of undone work.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>This approach led to a much healthier workflow and helped the team truly embrace Agile principles.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-why-special-sprints-are-agile-banditry\"><strong>Why Special Sprints Are Agile Banditry</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>When teams rely on special sprints, they’re taking risks they shouldn’t be taking. They’re kicking the can down the road, hoping they’ll have time to clean up the mess later. But Agile isn’t about <strong>delaying responsibility</strong>—it’s about <strong>continuous improvement</strong> and <strong>delivering value</strong> every single sprint.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Here’s why <strong>special sprints</strong> are a problem:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>They dilute focus</strong>: Teams shift from building usable products to thinking they have time to fix everything later.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>They create hidden risks</strong>: The longer you delay fixing technical debt or bugs, the bigger the risks grow.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>They undermine agility</strong>: Agile is about quick adjustments. Special sprints make teams slower to react because they’re piling up problems for later.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-safety-net-trap\"><strong>The Safety Net Trap</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>As we saw with the Azure DevOps team, safety nets lead to reckless behavior. When teams know they have a chance to clean things up later, they tend to <strong>cut corners</strong> and <strong>take more risks</strong>. This isn’t just inefficient; it’s dangerous.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Imagine a tightrope walker—if they know there’s a net below them, they might be tempted to take more chances. But if there's no net, they’ll walk with focus and precision, knowing that every step counts. The same goes for Agile teams. <strong>When there’s no safety net, every sprint must be treated like it matters—because it does.</strong></p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-how-to-avoid-agile-banditry-in-your-team\"><strong>How to Avoid Agile Banditry in Your Team</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>If you're noticing that your team is falling into the trap of special sprints or safety nets, here are some practical steps you can take:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-1-eliminate-special-sprints\"><strong>1. Eliminate Special Sprints</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>No Sprint Zero, no hardening sprints</strong>: Treat every sprint as a step towards a usable, deliverable product.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Focus on deliverable value</strong>: Ask your team, \"What can we ship at the end of this sprint?\"</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-2-pay-off-technical-debt-early\"><strong>2. Pay Off Technical Debt Early</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>Don’t let technical debt build up over multiple sprints. Make it a priority to clean up code, fix bugs, and address issues <strong>as they arise</strong>.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-3-set-clear-expectations\"><strong>3. Set Clear Expectations</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>Make it clear to the team that <strong>every sprint must produce a usable product</strong>. There’s no such thing as \"we’ll fix it next time.\"</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-4-continuously-improve\"><strong>4. Continuously Improve</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>Use <strong>retrospectives</strong> to identify where your team is cutting corners or deferring work. Address these issues head-on.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-agile-bandits-beware\"><strong>Agile Bandits Beware!</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>If you’re being ambushed by agile bandits in your organization—those pushing for special sprints or other shortcuts—stand your ground. Agile isn’t about taking risks; it’s about <strong>mitigating them</strong> by delivering small, usable, and valuable products every sprint. If you need help eliminating these pitfalls, feel free to reach out to my team at <strong>Naked Agility</strong>, or contact a consultant who can guide your team towards true agility. Together, we can create real value, sprint by sprint—<strong>without any safety nets</strong>.</p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '51873'
+  post_date: '2024-10-15 16:00:00'
+  post_date_gmt: '2024-10-15 16:00:00'
+  post_modified: '2024-09-30 15:25:33'
+  post_modified_gmt: '2024-09-30 15:25:33'
+  comment_status: closed
+  ping_status: closed
+  post_name: special-sprints-agile-banditry-or-risk-management
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.13.4
+  - meta_key: _thumbnail_id
+    meta_value: '51874'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1148946;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/rEqytRyOHGI
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '8848'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: 5 agile bandits
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Special sprints dilute Agile's focus by deferring work, risking delivery
+      delays. Avoid shortcuts, deliver usable products every sprint, and embrace
+      continuous improvement.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '51'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '5'
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1729008007'
+  - meta_key: ekit_post_views_count
+    meta_value: '33'

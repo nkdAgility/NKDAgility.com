@@ -1,12 +1,13 @@
 ---
-title: "Scrum With Azure DevOps!"
+title: Scrum With Azure DevOps!
 date: 2024-04-03T17:21:43Z
 videoId: 5IBKxYLA494
 url: /resources/videos/scrum-with-azure-devops!
 canonicalUrl: https://www.youtube.com/watch?v=5IBKxYLA494
 preview: https://i.ytimg.com/vi/5IBKxYLA494/maxresdefault.jpg
 duration: 2504
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 5IBKxYLA494 >}}
@@ -32,3 +33,5 @@ Join me as we explore the intricacies of setting up and customising Azure DevOps
 Avoid the Bug as Task anti-pattern in Azure DevOps: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5IBKxYLA494)
+
+

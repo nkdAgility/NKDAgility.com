@@ -1,37 +1,60 @@
 ---
-title: "Are there any scrum courses that teach you how to scale scrum?"
-date: 2023-10-18T07:00:23Z
+title: Are there any Scrum courses that teach you how to scale Scrum?
+date: 2024-02-15
 videoId: vubnDXYXiL0
-url: /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
-canonicalUrl: https://www.youtube.com/watch?v=vubnDXYXiL0
+url: /resources/videos/:slug
+slug: are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 preview: https://i.ytimg.com/vi/vubnDXYXiL0/maxresdefault.jpg
 duration: 328
-isShort: False
+isShort: false
+aliases:
+- /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
+- /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+
 ---
 
 {{< youtube vubnDXYXiL0 >}}
 
-# Are there any scrum courses that teach you how to scale scrum?
+# Tailoring Scrum to Scale: Building Your Own Framework for Success
 
-*Unlock the Power of Scaling Scrum!* 🚀 Learn essential strategies for scaling Scrum effectively. Don't miss this video!
+Scaling Scrum within an organization presents unique challenges and opportunities. While there is no one-size-fits-all course that teaches you how to scale Scrum, there are courses available that equip you with the tools and techniques necessary to create a scaling framework tailored to your organization's needs. This approach ensures that the framework you develop is perfectly suited to your organization’s context, products, and teams.
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+## Understanding Scaling in Scrum
 
-In this video, Martin takes you on an inspiring journey into the world of scaling Scrum! 🌟 Discover the secrets to tailor-fitting a scaling framework for your organization, overcome common scaling challenges, and embrace incremental improvements. Get ready to level up your Scrum game! 🔑
+Scaling involves more than just multiplying the number of Scrum teams working on a product. It requires a nuanced approach to managing increased complexity, coordinating efforts, and maintaining alignment across all levels of the organization. Whether you're working with three teams or three thousand individuals, the principles of effective scaling remain the same: it's about delivering value efficiently and consistently at a larger scale.
 
-Chapters:
-0:00:05 Introduction to Scaling Scrum
-0:01:30  Learn about common scaling challenges
-0:02:45 Explore the Scaling Professional Scrum course
-0:04:55  Emphasize the importance of small improvements
+### The Role of Frameworks in Scaling
 
-*NKDAgility can help!* 🌐 If you're struggling with scaling issues, our team can assist you or connect you with the right consultant, coach, or trainer. Don't wait to improve your value delivery!
+Frameworks like Nexus, offered by Scrum.org, provide a scaffolding that helps organizations ensure they're not overlooking critical aspects as they expand their Scrum practices. However, Nexus, much like Scrum itself, is not prescriptive. It offers a structure within which organizations can innovate and adapt practices to their unique circumstances, focusing on facilitating collaboration among 3 to 9 teams working towards a common goal.
 
-📞 Request a free consultation: https://nkdagility.com/agile-consulting-coaching/
-📚 Sign up for our upcoming professional Scrum classes: https://nkdagility.com/training-courses
+## Key Considerations for Successful Scaling
 
-Because you don't just need agility, you need Naked Agility.
+### Starting Small and Iterating
 
-#Scrum #Agile #ProjectManagement #AgileCoach #AgileTraining #ScrumTraining #ScrumOrg #ScrumMaster #ProductOwner #NKDAgility #ProKanban #ContinuousDelivery #DevOps #AzureDevOps
+When scaling Scrum, the temptation to implement comprehensive changes from the outset can be strong. However, the most effective approach is to start small. Identify the minimal changes that can lead to improvement and iterate from there. This incremental approach allows for flexibility and adaptation, ensuring that the scaling framework evolves in harmony with the organization's changing needs.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=vubnDXYXiL0)
+### Dependency Management and Alignment
+
+Two critical areas that demand attention in scaling are dependency management and alignment. Dependency management is often the most significant challenge organizations face when scaling, as it can severely impede flow and delivery efficiency. Meanwhile, ensuring alignment among the product, organization, and people is crucial for smooth operation. Any misalignment, particularly in how the team's structure mirrors the product architecture, can introduce friction and inefficiency.
+
+## Building Your Own Scaling Framework
+
+Creating a scaling framework that fits your organization like a glove involves understanding and applying a variety of practices and principles. Here are steps to guide you through this process:
+
+1. **Assess Your Current State:** Understand the specific challenges and opportunities within your organization that scaling needs to address.
+
+3. **Educate and Equip Your Teams:** Utilize courses like the Scaled Professional Scrum (SPS) from Scrum.org to familiarize your teams with scaling concepts and the foundational tools necessary for building your framework.
+
+5. **Identify Key Practices:** From the array of practices discussed in such courses, choose those most relevant to your context. While not all 50 practices might be applicable, selecting those that address your core challenges is crucial.
+
+7. **Iterate and Adapt:** Implement the chosen practices and closely monitor their impact. Be prepared to adapt and iterate on your framework based on real-world feedback and evolving organizational needs.
+
+9. **Focus on Culture and Mindset:** Scaling successfully requires not just structural changes but also a shift in culture and mindset across the organization. Emphasize collaboration, transparency, and a continuous improvement mindset.
+
+## Conclusion: A Customized Approach to Scaling
+
+Scaling Scrum within your organization is not about finding a one-size-fits-all solution. It's about understanding the principles and practices that can help you create a customized framework that addresses your specific challenges and leverages your unique strengths. By focusing on essential aspects like dependency management and alignment, starting small, and iteratively building your framework, you can scale Scrum effectively, enhancing your organization’s agility and ability to deliver value at scale.
+
+Remember, the journey of scaling Scrum is continuous and evolving. It demands patience, commitment, and a willingness to learn and adapt. With the right approach and mindset, scaling Scrum can transform not just how you manage projects but how your organization operates at its core.
+
+

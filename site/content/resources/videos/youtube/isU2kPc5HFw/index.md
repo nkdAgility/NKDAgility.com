@@ -1,81 +1,114 @@
 ---
-title: "Talk us through your experience with Azure DevOps"
-date: 2024-07-31T09:21:03Z
+title: 'The Evolution of My Journey with Azure DevOps: Lessons and Insights'
+date: 2024-11-13
 videoId: isU2kPc5HFw
-url: /resources/videos/talk-us-through-your-experience-with-azure-devops
-canonicalUrl: https://www.youtube.com/watch?v=isU2kPc5HFw
+url: /resources/videos/:slug
+slug: the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
 preview: https://i.ytimg.com/vi/isU2kPc5HFw/maxresdefault.jpg
 duration: 998
-isShort: False
+isShort: false
+aliases:
+- /resources/the-evolution-of-my-journey-with-azure-devops-lessons-and-insights
+- /resources/videos/talk-us-through-your-experience-with-azure-devops
+
 ---
 
 {{< youtube isU2kPc5HFw >}}
 
-# Talk us through your experience with Azure DevOps
+When I first encountered Azure DevOps back in 2006, it wasn't even called Azure DevOps. Back then, it was known as Visual Studio Team Services (VSTS), and before that, Team Foundation Server (TFS). Over the years, the name has changed several times, but the core intent has remained consistent: empowering teams to enhance their capabilities through powerful tools. In this blog post, I want to take you through my journey with Azure DevOps, from my early days as a software engineer to becoming a Microsoft MVP and a DevOps consultant. I'll share personal experiences, lessons learned, and practical advice on leveraging Azure DevOps to its full potential.
 
-Audience:
-- Software Engineers: Gain insights into Azure DevOps from someone who started as a software engineer and evolved into a DevOps consultant.
-- DevOps Practitioners: Learn advanced techniques and real-world applications of Azure DevOps.
-- IT Consultants and Teams: Understand the benefits of Azure DevOps for team collaboration, migration, and automation.
+## **Early Experience with Team Foundation Server (TFS)**
 
-This video is a must-watch for professionals navigating the complexities of Azure DevOps. From historical evolution to practical applications and migration strategies, the speaker's deep experience offers invaluable knowledge and actionable insights.
+### **A Humble Beginning**
 
-How It Will Help:
-- Historical Context: Understand the evolution of Azure DevOps and its significance in modern software development.
-- Practical Applications: Learn how to implement Azure DevOps in various environments and improve team productivity.
-- Migration Strategies: Discover effective strategies for migrating from TFS to Azure DevOps, including common challenges and solutions.
-- Advanced Tools: Explore custom tools and scripts that enhance the capabilities of Azure DevOps for specific business needs.
+My journey with Azure DevOps began in the mid-2000s when I was a software engineer plugging away at building products. Back then, TFS was my gateway into the world of DevOps. It was a tool designed to help teams improve their processes, increase their capabilities, and streamline their workflows.
 
-Chapter Summaries:
+### **Challenges and Growth**
 
-#### 00:00 - 00:34: **Introduction to Azure DevOps**
-The speaker shares their initial encounter with Azure DevOps (formerly Visual Studio Team Services) back in 2006, highlighting the service's evolution and its foundational intent.
+However, TFS, in its early days, struggled to extend its reach beyond the Microsoft ecosystem. It was primarily designed for teams deeply entrenched in Microsoft technologies, limiting its versatility. Despite these challenges, I found TFS to be an invaluable tool, and my work with it played a significant role in earning my Microsoft MVP status. This recognition came from my efforts in building plugins and working with the TFS APIs, which laid the foundation for my future endeavors in the DevOps space.
 
-#### 00:35 - 01:11: **Early Experience with Team Foundation Server (TFS)**
-Discusses the early days of using TFS, its limitations, and how it paved the way for Azure DevOps. Emphasis on the speaker's journey as a software engineer leveraging these tools to enhance team capabilities.
+## **Becoming a Microsoft MVP**
 
-#### 01:12 - 01:58: **Becoming a Microsoft MVP**
-Details the path to becoming a Microsoft MVP through developing plugins and working with TFS APIs, and mentions significant projects with teams at Merrill Lynch and other organizations.
+### **Recognition Through Contribution**
 
-#### 01:59 - 02:33: **Consulting and API Development**
-Explores the speaker's role as a DevOps consultant in the US, working extensively with APIs and handling complex migrations with custom adapters for TFS.
+Gaining recognition as a Microsoft MVP was a pivotal moment in my career. My contributions to the TFS ecosystem, particularly in API development and consulting, earned me this prestigious title. I had the opportunity to work with teams at Merrill Lynch and Aggreko, where I helped them implement automated builds, streamline work item tracking, and integrate various tools to enhance their capabilities.
 
-#### 02:34 - 03:24: **Significant Projects and Custom Adapters**
-Recounts major projects, including creating adapters for Test Track Pro and consulting for companies like Schlumberger to consolidate and optimize their DevOps processes.
+### **Real-World Applications**
 
-#### 03:25 - 04:17: **Migration Strategies and Tools**
-Shares experiences in building PowerShell scripts for data migration and developing the first version of Azure DevOps migration tools to streamline complex migrations.
+In these roles, I wasn't just writing code; I was helping teams understand the importance of DevOps practices and how to effectively utilize TFS to achieve their goals. I built visualization tools, automated processes, and played a key role in driving the adoption of DevOps practices within these organizations.
 
-#### 04:18 - 05:11: **Evolution of Migration Tools**
-Discusses the differences between Microsoft's migration tools and custom-built tools, emphasizing their practical applications and limitations in real-world scenarios.
+## **Significant Projects and Custom Adapters**
 
-#### 05:12 - 06:07: **Case Studies: Large-Scale Migrations**
-Details large-scale migration projects, such as the Schlumberger engagement, and the nuances of moving significant data volumes to Azure DevOps.
+### **The Power of API Work**
 
-#### 06:08 - 07:00: **Challenges and Solutions in Data Migration**
-Addresses common challenges in data migration, including upgrading from older versions of TFS and managing complex organizational needs.
+After earning my MVP, I moved to the United States and worked as a DevOps consultant, primarily within the Microsoft stack. During this time, I was heavily involved in API work, which included complex migrations and custom adapter development. One particularly challenging project involved migrating data from TFS to other systems using an old Microsoft tool with an adapter model. This experience highlighted the importance of flexibility in DevOps tools and the need for custom solutions to address unique challenges.
 
-#### 07:01 - 07:59: **Practical Advice for Migration**
-Provides practical advice on how to approach migrations, including the importance of preparing the environment and understanding Microsoft's support limitations.
+### **Creating Custom Solutions**
 
-#### 08:00 - 09:10: **Complexity in Organizational Migration**
-Explains the complexities organizations face during migrations, such as handling multiple teams and projects, and the importance of tailored migration solutions.
+One of my notable achievements during this period was creating a custom migrator for Test Track Pro into TFS. This project demonstrated the importance of understanding both the technical and business aspects of DevOps. It wasn't just about moving data; it was about ensuring that the migration process aligned with the organization's goals and workflows.
 
-#### 09:11 - 10:21: **Case Study: Multi-Stage Migration**
-Illustrates a detailed case study of a multi-stage migration from TFS 2010 to Azure DevOps, highlighting the step-by-step process and key considerations.
+## **Evolution of Migration Tools**
 
-#### 10:22 - 11:15: **Benefits of Custom Migration Tools**
-Highlights the advantages of using custom migration tools, especially in scenarios unsupported by Microsoft's tools, and their role in specific business needs.
+### **Consolidation and Optimization**
 
-#### 11:16 - 12:32: **Real-World Applications and Limitations**
-Discusses real-world applications of the migration tools, the variety of use cases, and the limitations that need to be addressed during the migration process.
+As my career progressed, I started my own business and took on projects that required deep expertise in DevOps and migration strategies. One such project involved a company called Slumber, which needed to consolidate its tools and processes. Slumber's environment was a mishmash of tools and engineering processes, and they needed to streamline their operations by adopting TFS as their primary tool.
 
-#### 12:33 - 14:14: **Training and Consulting Services**
-Emphasizes the importance of training and consulting services for organizations looking to leverage Azure DevOps effectively and the role of external expertise in complex migrations.
+### **The Role of PowerShell**
 
-#### 14:15 - 16:00: **Conclusion and Ongoing Support**
-Concludes with the speaker's ongoing support and advisory roles, helping organizations navigate the intricacies of Azure DevOps and achieve their DevOps goals.
+In this project, I initially built a series of PowerShell scripts to prototype the migration process. PowerShell was instrumental in rapidly iterating on solutions, despite its limitations in terms of stability and scalability. These scripts allowed us to migrate data, change process templates, and move data between fields. However, as the project progressed, it became clear that a more robust and pluggable solution was needed.
 
-Visit https://www.nkdagility.com
+## **Building Azure DevOps Migration Tools**
 
-[Watch on YouTube](https://www.youtube.com/watch?v=isU2kPc5HFw)
+### **Two Approaches to Migration**
+
+The migration landscape in Azure DevOps is complex, with two primary approaches to consider:
+
+1. **Microsoft's Built-in Migration Tools**: These tools are limited but powerful, designed to help organizations move their on-premise TFS environments to Azure DevOps in the cloud. If your environment is relatively up-to-date, this is often the simplest and most reliable method.
+
+3. **Custom Migration Tools (My Solution)**: For organizations with unique needs or outdated environments, my custom migration tools offer a more flexible solution. These tools allow for selective migration of work items and other data, providing the necessary adaptability for complex scenarios.
+
+### **Real-World Case Studies**
+
+One of the most significant projects I've worked on involved migrating 2.7 terabytes of data for Slumber, making them one of the largest Azure DevOps customers outside of Microsoft. This massive migration was a testament to the power of Microsoft's tools when used correctly. On the other end of the spectrum, I've also handled smaller migrations, where the process was completed in a matter of hours, showcasing the scalability of Azure DevOps.
+
+## **Practical Advice for Migration**
+
+### **Planning and Execution**
+
+When planning a migration to Azure DevOps, it's crucial to:
+
+- **Assess your environment**: Determine the current state of your TFS environment, including the version and any dependencies.
+
+- **Choose the right migration path**: Decide whether to use Microsoft's built-in tools or opt for a custom solution.
+
+- **Prepare for complexity**: Be aware that migrations often involve multiple stages, especially if you're dealing with older versions of TFS.
+
+### **Custom Solutions for Complex Needs**
+
+For organizations with unique requirements, such as partial migrations or splitting projects, custom tools like the ones I've developed can be invaluable. These tools allow for a more granular approach, enabling organizations to move only the necessary components while maintaining the integrity of their data.
+
+## **Training and Consulting Services**
+
+### **Empowering Teams**
+
+In addition to providing migration tools, I offer training and consulting services to help organizations make the most of Azure DevOps. Whether it's a one-off migration or ongoing support, my goal is to empower teams to leverage the full capabilities of Azure DevOps.
+
+- **Training**: I provide customized training sessions for teams, ensuring they have the skills needed to manage their environments effectively.
+
+- **Consulting**: For organizations facing complex challenges, I offer consulting services to help them navigate the intricacies of Azure DevOps and develop tailored solutions.
+
+### **Real-World Applications**
+
+One of the most rewarding aspects of my work is seeing the impact of these tools and services in real-world scenarios. For example, I recently completed a migration of 880,000 work items for a customer, enabling their audit department to seamlessly transition to a new system. This project not only demonstrated the scalability of Azure DevOps but also underscored the importance of having the right expertise on hand for such critical tasks.
+
+## **Conclusion and Ongoing Support**
+
+### **A Continuous Journey**
+
+As both a user and consultant for Azure DevOps, I've witnessed the platform's evolution and its impact on organizations of all sizes. While my work has increasingly shifted to GitHub, I still hold a deep appreciation for the capabilities Azure DevOps offers. However, as powerful as these tools are, there are always gaps that require custom solutions or expert guidance.
+
+**Final Thoughts**
+
+Whether you're planning a migration, seeking to optimize your DevOps processes, or simply need advice on the best approach for your organization, remember that Azure DevOps is a versatile platform with the potential to transform how you work. But like any tool, its effectiveness depends on how well you understand and leverage its capabilities. So, take the time to explore your options, seek out the right expertise, and make informed decisions that align with your business goals. By sharing my journey and insights, I hope to inspire others to explore the full potential of Azure DevOps and embrace the continuous journey of improvement that DevOps embodies. 🚀
+
+

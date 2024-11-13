@@ -1,36 +1,55 @@
 ---
-title: "Worst agile advice heard?"
-date: 2023-05-09T09:30:04Z
+title: Worst agile advice you've ever heard?
+date: 2023-07-28
 videoId: L6opxb0FYcU
-url: /resources/videos/worst-agile-advice-heard-
-canonicalUrl: https://www.youtube.com/watch?v=L6opxb0FYcU
+url: /resources/videos/:slug
+slug: worst-agile-advice-you-ve-ever-heard
 preview: https://i.ytimg.com/vi/L6opxb0FYcU/maxresdefault.jpg
 duration: 57
-isShort: True
+isShort: true
+aliases:
+- /resources/worst-agile-advice-youve-ever-heard
+- /resources/worst-agile-advice-heard
+- /resources/videos/worst-agile-advice-heard-
+
 ---
 
 {{< youtube L6opxb0FYcU >}}
 
-# Worst agile advice heard?
+**Worst agile advice you've ever heard?**
 
-#shorts #agile values and principles set the scene for environments where we value and respect people a great deal, and where we seek to discover new and better ways of doing things over repeating the same things over and again in the hope that we achieve a positive outcome.
+The Worst Scrum Master's Advice -  Ever! 🚫
 
-That said, #agiledogma still exists and there are people who focus on the mechanics of #agile or #scrum rather than the principles and values that underpin #agile, which sometimes leads to disasters.
+In my articles, I don't often talk about negative aspects of Agile and Scrum, but today I want to talk about one of the worst pieces of Agile advice I've ever heard, which was, "Everyone MUST stand up during the daily stand-up, or you're not doing Scrum." 😱
 
-In this short video, Martin Hinshelwood provides an example of one of the worst applications of #agiledogma that he has heard of.
+I recall working with a Seattle team where a Scrum Master adopted an overly dogmatic and totalitarian approach. This Scrum Master insisted that everyone stand up during the daily Scrum, ignoring that a team member was bound to a wheelchair. In a spirit of inclusivity, the team chose to sit down so they weren't towering over their colleague. 👏
 
-About NKD Agility
+I have to point out that this isn't just bad advice from a Scrum Master. This is a complete misunderstanding of the core Agile principle of flexibility and the Scrum value of respect. 🙌
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+The very last thing that Agile is about is rigid, one-size-fits-all rules. Quite the opposite, Agile is about adapting processes to meet different teams' unique needs and contexts. That's Agile's very essence and power – every team can (and should) do things differently to achieve the best results. ✅
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+So, remember, rules and routines in Agile and Scrum are essential, but they are secondary to the human-centric nature of these methodologies.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Don't let dogmatic or totalitarian approaches cloud the true embodiment of Agile. Check out my Agile and Scrum courses to learn more about this holistic approach to team management. 📈💡
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
 
-We would love to work with you. 
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=L6opxb0FYcU)
+Keywords:        Agile, Scrum, Inclusive Teams, Flexibility.
+
+Hashtags:        #BadAgileAdvice #Agile #Scrum #TeamInclusivity
+
+General
+
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+

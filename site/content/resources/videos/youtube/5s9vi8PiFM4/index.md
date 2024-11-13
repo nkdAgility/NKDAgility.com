@@ -1,32 +1,47 @@
 ---
-title: "1 thing you wish you knew at the start of your scrum journey"
-date: 2023-08-04T07:00:03Z
+title: 1 thing you wish you knew at the start of your Scrum journey?
+date: 2023-12-02
 videoId: 5s9vi8PiFM4
-url: /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
-canonicalUrl: https://www.youtube.com/watch?v=5s9vi8PiFM4
+url: /resources/videos/:slug
+slug: 1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 preview: https://i.ytimg.com/vi/5s9vi8PiFM4/maxresdefault.jpg
 duration: 47
-isShort: True
+isShort: true
+aliases:
+- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
+- /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+
 ---
 
 {{< youtube 5s9vi8PiFM4 >}}
 
-# 1 thing you wish you knew at the start of your scrum journey
+## The Missing Piece in My Initial Scrum Journey
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the one thing he wishes he knew at the start of his #agile and #scrum journey.
+Discovering the 'Lean' Approach Sooner 🌟
 
-About NKD Agility
+Reflecting back on the onset of my Scrum journey, there's one crucial element that I fervently wish had graced my path sooner - the ‘lean’ philosophy.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+I can't help but ponder how my trajectory would have taken a different shape, potentially an even more successful one, had I embraced a 'lean' narrative from the very beginning. 🚀
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Unfortunately, it was only about 7 or 8 years into my scrum narrative when I finally stumbled upon the transformative power of lean principles. The realisation dawned on me then, the dynamism it brought into the entire process was a game-changer.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+## Scrum & Lean: A Symbiotic Relationship
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+As I navigated further, I realized that Scrum serves as the social technology that catapults us into achieving our goals more proficiently, carving out a route that encourages collaboration and efficiency.  🤝
 
-We would love to work with you. 
+On the other hand, embracing 'lean' equipped me with data and insights, a potent tool that amplified our success manifold by fostering a deeper understanding of our operations.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Through this blend of Scrum's effective work dynamics and Lean's analytical insights, I was able to craft a journey that was not only successful but also deeply insightful and enriching.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=5s9vi8PiFM4)
+## Your Turn to Embark on a Successful Journey
+
+As you stand at the threshold of your Scrum journey, I invite you to delve deeper and explore the synergies between Scrum and Lean right from the get-go.  💫
+
+Don't wait 7 or 8 years to discover this powerful combination, like I did!
+
+Let's walk this rewarding path together, integrating the social technology of Scrum with the data-driven insights of Lean, paving the way for a journey characterized by success and innovation.
+
+Join my Agile and Scrum courses to equip yourself with the knowledge and skills to blend these two potent methodologies into your professional journey seamlessly.
+
+

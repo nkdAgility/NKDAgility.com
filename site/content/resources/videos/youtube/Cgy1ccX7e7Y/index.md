@@ -1,42 +1,100 @@
 ---
-title: "What would be an example of a great agile consulting outcome for a client?"
-date: 2023-01-26T07:00:04Z
+title: What would be an example of a great agile consulting outcome for a client?
+date: 2023-02-23
 videoId: Cgy1ccX7e7Y
-url: /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
-canonicalUrl: https://www.youtube.com/watch?v=Cgy1ccX7e7Y
+url: /resources/videos/:slug
+slug: what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 preview: https://i.ytimg.com/vi/Cgy1ccX7e7Y/maxresdefault.jpg
 duration: 389
-isShort: False
+isShort: false
+aliases:
+- /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
+- /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+
 ---
 
 {{< youtube Cgy1ccX7e7Y >}}
 
-# What would be an example of a great agile consulting outcome for a client?
+What would be an example of a great agile consulting outcome for a client?
 
-In simple or complicated environments, like civil engineering, #projectmanagement works a treat. We know how to build a road, we know who is best positioned to build the road, we know how long it takes to build the road, and we have a great idea of how much it costs to build that road.
+It’s an interesting question because a valuable outcome looks different for every customer.
 
-When you step into a complex environment, everything changes because the problem you are trying to solve has never been solved before. The solution you are trying to create has never been created before. So, you don't know what you don't know, and there are way too many variables to guess upfront, so you need to approach things differently.
+## The ability to consistently deal with surprises.
 
-This is where things get tricky because it doesn't help to simply throw your hands up and tell #leadership and #executive teams that you don't know, and cannot know, until you have actually solved the problem or built the solution.
+The reality of the complex world we work in is that things are consistently changing, being disrupted, or have a myriad of opportunities and threats to contend with. A business generally experiences two types of surprises on a consistent basis.
 
-There has to be a bridge. A way of moving effectively from the initial starting point, through each iteration and evolution, until you have created the most valuable product or solved the most compelling problem.
+- Positive Surprises
 
-#agile is a great approach to this kind of #productdevelopment and has proven itself time and again over the past 25 years. So, if your organization hire an #agileconsultant to achieve increased #businessagility and critical business objectives, how will you know that the engagement is creating value?
+- Negative Surprises
 
-In this short video, Martin Hinshelwood provides some examples of valuable outcomes that could emerge from an #agileconsulting engagement.
+### Positive Surprises
 
-About NKD Agility
+Positive surprises are the kinds of opportunities that organizations want to take advantage of. Sometimes, these are as a result of consistently producing great work whilst at other times, they are presented from a perspective of luck.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+### Negative Surprises
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Negative surprises are the kinds of threats or disruption that the organization desperately wants to avoid. Things like a competitor achieving a breakthrough that is hard to follow or a massive disruption to the market like Brexit.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/
- 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+These are generally things that are outside of your control but have a significant impact on your business and require you to actively respond or suffer some kind of loss.
 
-We would love to work with you. 
+## Having a system that allows you to flow.
+
+Surprises are things that you don’t anticipate or are unlikely to predict. So, you need some kind of system or structure that allows you to respond and adapt appropriately to exploit the good and navigate the bad.
+
+Most organizations are designed to be robust and rigid, and so a great agile consulting outcome is an engagement that helps you remove the impediments to responsiveness and agility.
+
+This is what the majority of agile consulting engagements are trying to achieve. An increased ability to adapt and respond to threats and opportunities in the client environment.
+
+### The dichotomy of organizations.
+
+Most organizations are trapped between the consequences of the past and the need to work in a style that is appropriate for the 21st Century. Taylorism, an industrial era style of management and project management tends to reign in most traditional organizations, and that can be incredibly hard to navigate if your focus lies in innovation and product development rather than simply command and control of static resources.
+
+If the primary model is command and control, where the thinking is developed at the top and trickles down to the workers at the bottom, via a hierarchy of managers and supervisors, you are going to battle to be responsive.
+
+If the primary model is agility, where decision-making is pushed down to the experts who are doing the work and are proven experts in their field, the likelihood of becoming more agile escalates significantly.
+
+As an agile consultant, this is the challenge that you face most often.
+
+Working within a traditional organization but attempting to grow agility despite the constraints and limitations within the organizational structure.
+
+Ideally, you want to help create an environment where the leadership teams are at the centre of the organization, providing services to the teams of teams who interact directly with customers and product stakeholders.
+
+Helping an organization rethink how they work, why their policies exist, and how that can evolve will help you become more effective as an agile consultant and help the organization achieve a great deal more of their objectives and goals.
+
+Organizations evolve over time, and agility is simply the next evolution on their radar, but it does take time and patience. It also takes a lot of demonstrable evidence to prove that the new style of working is actively helping to move the needle on the metrics that most matter to the organization.
+
+So, the ultimate goal of an agile consultant is to help the organization shift from the traditional command and control, Tayloristic style of organization into the responsive, agile organization that is node-based with decentralized decision-making and autonomous, empowered teams.
+
+The challenge is that whilst it is incredibly hard for a legacy-oriented organization to advance into an agile, responsive organization, it is incredibly easy for an agile organization to revert back to doing things the way they have for decades prior to the agile transformation.
+
+One of the things that a successful agile consultant will do is work directly with people in the organization to develop a more flexible, resilient mindset and culture.
+
+You will help them discover:
+
+- How do I remain nimble in the face of disruption and complexity?
+
+- How do I embrace adaptability in the face of disruption and challenges?
+
+- How do I choose to respond when presented with either opportunities or threats?
+
+- How do I stave off the rigidity and rigor mortis that comes with complacency or stagnation?
+
+This need to exist in every part of the organization, in every person that is a part of the leadership story, rather than in pockets of consultants and coaches.
+
+The organization needs to develop their own agile capability and they need to grow their resilience. It can’t be limited to one or two individuals who are consulting or coaching.
+
+## About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Cgy1ccX7e7Y)
+

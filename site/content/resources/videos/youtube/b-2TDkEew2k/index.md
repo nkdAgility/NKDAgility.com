@@ -1,12 +1,13 @@
 ---
-title: " shorts 7 Virtues of agile. Temperance"
+title: ' shorts 7 Virtues of agile. Temperance'
 date: 2023-12-05T11:00:27Z
 videoId: b-2TDkEew2k
 url: /resources/videos/-shorts-7-virtues-of-agile-temperance
 canonicalUrl: https://www.youtube.com/watch?v=b-2TDkEew2k
 preview: https://i.ytimg.com/vi/b-2TDkEew2k/maxresdefault.jpg
 duration: 59
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube b-2TDkEew2k >}}
@@ -27,3 +28,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=b-2TDkEew2k)
+
+

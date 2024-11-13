@@ -1,12 +1,13 @@
 ---
-title: "Why is training such a critical element in a scrummaster journey?"
+title: Why is training such a critical element in a scrummaster journey?
 date: 2023-11-28T11:00:49Z
 videoId: nY4tmtGKO6I
 url: /resources/videos/why-is-training-such-a-critical-element-in-a-scrummaster-journey-
 canonicalUrl: https://www.youtube.com/watch?v=nY4tmtGKO6I
 preview: https://i.ytimg.com/vi/nY4tmtGKO6I/maxresdefault.jpg
 duration: 30
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube nY4tmtGKO6I >}}
@@ -29,3 +30,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=nY4tmtGKO6I)
+
+

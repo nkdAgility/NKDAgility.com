@@ -1,33 +1,67 @@
 ---
-title: " 1 tip for a scrum master"
-date: 2023-05-17T07:00:14Z
+title: '#1 tip for a new Scrum Master'
+date: 2023-08-15
 videoId: cR4D4qQe9ps
-url: /resources/videos/-1-tip-for-a-scrum-master
-canonicalUrl: https://www.youtube.com/watch?v=cR4D4qQe9ps
+url: /resources/videos/:slug
+slug: 1-tip-for-a-new-scrum-master
 preview: https://i.ytimg.com/vi/cR4D4qQe9ps/maxresdefault.jpg
 duration: 35
-isShort: True
+isShort: true
+aliases:
+- /resources/1-tip-for-a-new-scrum-master
+- /resources/1-tip-for-a-scrum-master
+- /resources/videos/-1-tip-for-a-scrum-master
+
 ---
 
 {{< youtube cR4D4qQe9ps >}}
 
-#  1 tip for a scrum master
+**#1 tip for a new Scrum Master**
 
-#shorts #shortsvideo Congratulations, you nailed the job, you got the transfer to a new #scrumteam, or you've been given your very own #agile team to work with for the first time.
+It’s Back to Basics
 
-It's a great moment in your life and we're rooting for you. What's the one thing you should focus on to succeed? In this short video, Martin Hinshelwood shares his #1 tip for a #scrummaster 
+Greetings, Scrum enthusiasts! 🙌
 
-About NKD Agility
+Let's dive straight into my #1 tip for a new Scrum Master - start with the basics and READ the Scrum Guide.   📌
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+If you’re a new Scrum Master there’s no ifs or buts, you need to get to grips with the basics of Scrum. 📚
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+You might be surprised, but I’ve come across a fair share of Scrum Masters who haven't read the Scrum guide and don’t understand Scrum. They seem unclear on what they're supposed to do and the scope of their role. This shouldn’t be the case. 📌
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+You're a Scrum Master, so it's only logical that you understand Scrum, right? However, I still find there are many Scrum Masters who surprisingly haven't read the Scrum Guide and hence, don't fully understand Scrum, its scope and its implications.
 
-We would love to work with you. 
+Navigating Beyond the Basics
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+This is a startling oversight that we need to correct.🚩
 
-[Watch on YouTube](https://www.youtube.com/watch?v=cR4D4qQe9ps)
+Remember, the Scrum Guide is just the _starting_ point of being a Scrum Master. There's so much more to explore and understand. 
+
+After grasping the Scrum guide and as a Scrum Master, you need to comprehend the first principles behind Scrum, empiricism and the importance of collaboration. 🧐
+
+I've always believed, a new Scrum Master really needs to get to grips with the Scrum guide ideas.  This understanding lays the foundation to empower your team and successfully manage Agile projects.
+
+Embrace the Scrum Guide, digest its concepts and ideas, and equip yourself with the knowledge to empower your team and drive Agile projects to success.💼
+
+Here’s a few benefits of reading and understanding the Scrum guide:
+
+🔹 Get to know the principles, roles, events, and artifacts of Scrum.
+
+🔹 Understand the rationale behind Scrum's processes and roles.
+
+🔹 Host more effective team meetings aligned with Scrum.
+
+🔹 Empower yourself to coach the Development Team and Product Owner.
+
+🔹 Keep current with the changes in the Scrum framework.
+
+If you're just starting out in your Scrum journey, our Agile and Scrum courses are just what you need to get you on the path to becoming a proficient Scrum Master. 🚀
+
+Keywords:       Keywords: ScrumMaster, Scrum Guide, Agile, Empiricism
+
+Hashtags:        ScrumMasterTips #ScrumGuide #AgileLearning #BackToBasics
+
+Hashtags:   
+
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+

@@ -1,42 +1,112 @@
 ---
-title: "5 ghosts of agile past. story points"
-date: 2023-12-29T07:00:14Z
+title: 'Story Points: A Ghost of Agile Past'
+date: 2024-10-18
 videoId: beR21RHTUvo
-url: /resources/videos/5-ghosts-of-agile-past-story-points
-canonicalUrl: https://www.youtube.com/watch?v=beR21RHTUvo
+url: /resources/videos/:slug
+slug: story-points-a-ghost-of-agile-past
 preview: https://i.ytimg.com/vi/beR21RHTUvo/maxresdefault.jpg
 duration: 433
-isShort: False
+isShort: false
+aliases:
+- /resources/story-points-a-ghost-of-agile-past
+- /resources/videos/5-ghosts-of-agile-past-story-points
+
 ---
 
 {{< youtube beR21RHTUvo >}}
 
-# 5 ghosts of agile past. story points
+In the world of Agile, there are many relics that still haunt teams today, and one of the most significant is **story points**. Ironically, the creator of story points has publicly apologized for their invention. Think about that for a moment—an apology from the creator of a concept that has deeply embedded itself into Agile practices. Let’s dig into why story points have become one of the most persistent, yet problematic, ghosts of Agile past.
 
-Unraveling the Ghosts of Agile: The Story Point Dilemma - Discover the hidden challenges of story points in Agile. Join Martin in demystifying this widespread issue and explore better alternatives for project success. 
+## **The Origins of Story Points**
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+Once upon a time in Agile’s early days, absolute estimation was the norm. Teams would spend a lot of time figuring out how many hours a particular task would take. You'd hear things like:
 
-In this video, Martin delves deep into the Agile world, unraveling the often misunderstood and misused concept of story points. 🎯 He sheds light on how story points, initially a tool for simplifying project estimation, have become a ghost haunting many Agile teams. 👻 Martin candidly discusses the origin, pitfalls, and the shift from absolute to relative estimation, illuminating how these well-intentioned metrics can lead to dysfunctional team dynamics and misguided project goals. 🔄 Watch as he advocates for a more value-driven approach, focusing on delivering real results rather than chasing arbitrary numbers. 🚀
+- "This task will take 5,000 hours."
 
-*Key Takeaways:*
-00:00:00 Story Points: Origins and Apologies
-00:01:00 From Hours to Relative Estimation
-00:02:00 Dysfunctional Dynamics Due to Story Points
-00:03:00 Comparisons and Measurement Issues
-00:04:00 Contractual Implications and Moving Forward
+- "We need to measure ourselves against how many hours it took."
 
-*NKDAgility can help!*
+As teams began to move away from absolute estimation, relative estimation became more popular. This shift aimed to get away from the rigid nature of hours-based forecasting and brought in methods like **t-shirt sizes** or, more commonly, **story points**.
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you struggle to balance story points with actual project value, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+Story points have been around for about 20 years now, and during that time, they have caused their fair share of dysfunction.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+### **From Hours to Relative Estimation**
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcomming professional Scrum classes: https://nkdagility.com/training-courses_
+Relative estimation methods, like story points, were meant to provide a way for teams to estimate the effort required for tasks without focusing on time. However, over time, the focus has shifted to the points themselves rather than the value being delivered.
 
-Because you dont just need agility, you need Naked Agility.
+### **Here’s where things get tricky:**
 
-#StoryPoints, #AgileChallenges, #TeamDynamics, #ProjectEstimation, #ValueDrivenApproach
+- Teams sometimes get caught up in how many story points they can "claim" for work done.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=beR21RHTUvo)
+- This leads to dysfunctional behavior where the goal is to push unfinished work into the next sprint, all for the sake of claiming points.
+
+🎯 **Key takeaway**: The point isn’t the points; the point is the value being delivered.
+
+## **Dysfunctional Dynamics Caused by Story Points**
+
+One of the biggest issues with story points is the comparison between teams. You might hear statements like:
+
+- "Team A delivers 30 story points per sprint, while Team B only delivers 20. Team A must be better!"
+
+This kind of thinking is complete nonsense. There’s no way to normalize story points across teams, and no magical algorithm exists to make that comparison valid.
+
+### **Here’s why comparing teams based on story points is a mistake:**
+
+- Every team’s story points are subjective. What might be a 5-point task for one team could be an 8-point task for another.
+
+- Story points aren’t standardized, so using them as a benchmark across teams creates false equivalencies.
+
+I’ve seen this kind of thinking in action. Recently, I worked with a customer who had multiple teams struggling to deliver on a product. They were hyper-focused on story points, believing that hitting a specific number was the key to success. This was further complicated by their contract, which included fiscal penalties if they deviated more than 15% from the story point target. You can imagine the dysfunctional behaviors that resulted from this—teams began focusing more on hitting their point targets rather than delivering real value.
+
+🚩 **Pro tip**: If your contract includes story points, you’re setting your team up for failure.
+
+## **Moving Away from Story Points**
+
+I used to think story points were a good thing. I used to believe they helped teams estimate work more effectively. But over the years, I’ve come to align more with people like Daniel Vacanti, a pro-Kanban advocate who argues that story points have set our industry back 20 years.
+
+Story points have locked teams into a cycle where the focus is on the numbers—on tracking work done—rather than the **value** being created. This fixation on points leads to:
+
+- A focus on tasks rather than value.
+
+- Measuring "butts in seats" rather than the outcomes being delivered.
+
+It’s time to move towards something more meaningful: **flow metrics**. These metrics focus on how work moves through your system rather than how much effort is being spent.
+
+### **Flow Metrics: A Better Way to Measure Success**
+
+Flow metrics give us a clearer picture of what’s really happening in our work. Some key flow metrics to consider are:
+
+- **Cycle time**: How long it takes for a piece of work to move from start to finish.
+
+- **Work item aging**: How long a work item has been in progress without being completed.
+
+- **Throughput**: How many items are being completed within a given time frame.
+
+These metrics are based on historical facts, not estimates. They can’t be manipulated in the same way that story points can. For example, you can reduce cycle time by decreasing batch sizes, which typically leads to better outcomes. Flow metrics provide a much more accurate way of understanding what’s happening across teams and within entire departments.
+
+### 🚀 **Benefits of Flow Metrics**:
+
+- More insight into what’s really happening.
+
+- Ability to compare across teams and departments.
+
+- A focus on value rather than arbitrary numbers.
+
+## **The Ghosts of Agile Past**
+
+Story points are just one of many ghosts from Agile’s past that continue to haunt teams today. If you find yourself stuck in a cycle of dysfunctional behaviors driven by story points, it might be time to exorcise those ghosts.
+
+Here are some signs your team might be haunted by the ghost of story points:
+
+- **Focusing on hitting point targets rather than delivering value.**
+
+- **Comparing teams based on story points.**
+
+- **Contractual obligations tied to story point delivery.**
+
+👻 **Don’t let these phantoms haunt your team’s progress.** Reach out for help, whether it’s through coaching, consulting, or training. The longer you let story points dictate your team’s behavior, the harder it will be to break free from their grip.
+
+## **Moving Forward with Flow**
+
+The future is bright, but only if we’re willing to let go of outdated methods like story points and embrace more meaningful metrics. **Flow metrics** provide us with the tools we need to move forward and focus on what truly matters: delivering value. 💬 **Don’t let the past hold you back**—let’s move towards a future where we measure what really matters.
+
+

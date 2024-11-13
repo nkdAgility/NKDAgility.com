@@ -1,40 +1,106 @@
 ---
-title: "6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]"
-date: 2024-06-28T06:45:01Z
+title: 'Detecting Agile BS: Lessons from the US Department of Defense'
+date: 2024-11-07
 videoId: O6rYL3EDUxM
-url: /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
-canonicalUrl: https://www.youtube.com/watch?v=O6rYL3EDUxM
+url: /resources/videos/:slug
+slug: detecting-agile-bs-lessons-from-the-us-department-of-defense
 preview: https://i.ytimg.com/vi/O6rYL3EDUxM/maxresdefault.jpg
 duration: 426
-isShort: False
+isShort: false
+aliases:
+- /resources/detecting-agile-bs-lessons-from-the-us-department-of-defense
+- /resources/videos/6-questions-to-determine-if-your-company-is-really-agile-the-agile-reality-check-[1-6]
+
 ---
 
 {{< youtube O6rYL3EDUxM >}}
 
-# 6 Questions to Determine if Your Company is REALLY Agile. | The Agile Reality Check [1/6]
+The concept of Agile has taken the business world by storm, with organizations everywhere claiming to have adopted Agile methodologies. But are they truly practicing Agile, or is it just Agile in name only? One of the most eye-opening resources on this topic comes from an unexpected source—the US Department of Defense (DoD). Their guide, titled "Detecting Agile BS," was created to help procurement officers determine whether vendors were genuinely Agile or merely paying lip service to the methodology. This guide raises important questions that every organization claiming to be Agile should ask itself.
 
-Think your company is Agile? 🤔  Are you sure?
+## **The Rise of Agile in Procurement**
 
-This video reveals the surprising source of a 6-question litmus test to determine if your organization is truly Agile: the U.S. Department of Defense!
+In 2013, the US Department of Defense made a significant shift in their procurement terms, requiring iterative and incremental delivery of products and systems. This was a bold move, intended to align their processes with Agile principles. However, this shift led to an immediate response from vendors: suddenly, everyone was "Agile." The problem? Many of these vendors were far from practicing true Agile. They declared themselves Agile overnight, without making the necessary changes to their processes, culture, or mindset.
 
-Why You Should Watch:
+### **Are Organizations Really Agile?**
 
-Benchmark Your Agility: Assess your company's Agile practices against a rigorous standard.
-Uncover Hidden Bottlenecks: Discover potential areas of improvement in your development process.
-Get Inspired: Learn how even the Department of Defense embraces Agile principles and expects them from their vendors.
-Actionable Insights: Gain practical tips to improve your organization's agility and deliver more value to your customers.
-Key Takeaways (Timestamps):
+This phenomenon isn’t limited to defense contractors. As someone who has worked with various organizations over the years, I’ve seen this pattern repeated time and again. Many organizations claim to be Agile, but in reality, they are not. It's a harsh truth, but one that needs to be addressed if we are to improve and truly embrace the Agile way of working.
 
-(00:00:00 - 01:36): The US Department of Defense's "Detecting Agile BS" guide for procurement officers. Why most organizations claiming to be Agile might be overstating their capabilities.
-(01:36 - 03:33): Question 1: Are teams delivering working software to real users every iteration, including the first, and gathering feedback? The importance of continuous delivery and user feedback.
-(03:34 - 05:15): Challenges and benefits of achieving this level of agility. Why no organization that has adopted continuous delivery has ever gone back.
-(05:15 - 07:05): The remaining 5 questions of the litmus test and why it's important to be honest about your organization's current state of agility.
-(07:05 - End): Using the litmus test as a tool for self-reflection and improvement, rather than a way to criticize. Practical steps to move your organization closer to true Agile practices.
+## **The Six Questions to Detect Agile BS**
 
-Check out the rest of the https://www.youtube.com/playlist?list=PLQEC_R53iJWPLip-EbKCOq48JBPE_tnDy videos!
+The DoD’s guide provides six crucial questions that serve as a litmus test to determine whether an organization is genuinely Agile. These questions are designed to cut through the noise and get to the heart of whether an organization is delivering on the promises of Agile. Let’s dive into each of these questions and why they matter.
 
-Are you ready to see how your company stacks up against the Department of Defense's Agile standards? Watch now and take the first step towards a more efficient, customer-focused organization!
+### **Question 1: Are Teams Delivering Working Software to Real Users Every Iteration?**
 
-Visit https://www.nkdagility.com
+This is the first and arguably most important question. Are your teams delivering working software to at least some subset of users every iteration, including the first? And are they gathering feedback from those users?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=O6rYL3EDUxM)
+- **Continuous Delivery:** True Agile teams deliver working software frequently—every iteration. This means no User Acceptance Testing (UAT) or test environments—real, live production users.
+
+- **User Feedback:** Gathering feedback from these users is critical. Without it, you’re flying blind, unable to adapt to user needs and preferences.
+
+### **Challenges and Benefits of Continuous Delivery**
+
+Achieving this level of agility is not easy. Many teams struggle to create working products in every iteration, let alone deliver them to production. However, the benefits are undeniable. Organizations that adopt continuous delivery see significant improvements in product quality and customer engagement.
+
+**Why it’s worth it:**
+
+- Higher **product quality**.
+
+- Greater **customer engagement**.
+
+- Once you achieve continuous delivery, **no organization has ever chosen to go back**.
+
+However, reaching this stage requires significant investment in both technical skills and leadership commitment.
+
+### **Question 2: Are Teams Regularly Releasing to Production?**
+
+This question complements the first. It’s not enough to deliver working software to users; you must also release it to production regularly. The Agile Manifesto emphasizes the importance of delivering frequently, with a preference for shorter timeframes.
+
+- **Scrum Guidelines:** The Scrum Guide recommends releasing to production at least every 30 days. If your organization isn’t doing this, you’re not fully embracing Agile.
+
+- **Investment Required:** Achieving this requires changes to your business practices and a commitment to continuous improvement.
+
+### **Question 3: Are Teams Adapting Based on Feedback?**
+
+Agile is all about adaptability. Are your teams regularly adjusting their approach based on the feedback they receive? This requires a culture of openness, where feedback is valued and acted upon.
+
+### **Question 4: Is There a Clear Product Vision?**
+
+Without a clear product vision, it’s impossible to prioritize effectively. Agile teams need to have a shared understanding of what they are trying to achieve and why. This vision guides their work and helps them make decisions that align with the organization’s goals.
+
+### **Question 5: Are Teams Empowered to Make Decisions?**
+
+Empowerment is a core principle of Agile. Are your teams empowered to make decisions about their work? Or are they constantly seeking approval from higher-ups? True Agile teams have the autonomy to make decisions that impact their work, allowing them to move quickly and respond to changes.
+
+### **Question 6: Is There a Culture of Continuous Improvement?**
+
+Finally, Agile is about continuous improvement. Is your organization committed to regularly reviewing and improving its processes? This requires a mindset of experimentation and learning, where teams are encouraged to try new things and learn from their experiences.
+
+## **Why Honesty About Your Agile Maturity Matters**
+
+If your organization can’t honestly answer "yes" to each of these six questions, then it’s time for some serious self-reflection. Claiming to be Agile without truly practicing it does more harm than good. It creates a false sense of security and prevents real change from happening.
+
+### **Self-Reflection as a Path to Growth**
+
+It’s important to approach this process with humility and a genuine desire to improve. No organization is perfect, and Agile is a journey, not a destination. Use these questions as a tool for self-assessment, and don’t be afraid to acknowledge where you fall short. Only by being honest about your current state can you begin to make meaningful progress.
+
+### **Practical Steps to Improve Your Agility**
+
+- **Start small:** Don’t try to change everything at once. Focus on one or two areas where you can make a real impact.
+
+- **Invest in training:** Equip your teams with the skills they need to succeed in an Agile environment.
+
+- **Foster a culture of feedback:** Encourage open communication and make it safe for team members to share their thoughts and ideas.
+
+## **Conclusion: Embrace the Challenge**
+
+Adopting true Agile practices is challenging, but the rewards are well worth the effort. The US Department of Defense’s guide to detecting Agile BS is a powerful tool for any organization looking to assess and improve its Agile maturity. By asking the right questions and being honest about where you stand, you can begin to make the changes necessary to truly embrace Agile.
+
+Remember, Agile is not just a set of practices—it’s a mindset. It requires a commitment to continuous improvement, a willingness to adapt, and the courage to be honest about where you are on your Agile journey. So, take the time to reflect on these questions, and use them as a guide to help your organization grow and thrive in the world of Agile.
+
+- **🎯** **Pro tip:** Regularly revisit these questions as your organization evolves. Agile is a journey, and these questions can help you stay on the right path.
+
+- **🚀** **Take action:** Start by focusing on one area where you can improve, and build momentum from there.
+
+Agile isn’t easy, but with the right mindset and approach, it’s achievable. And once you get there, you’ll never want to go back.
+
+

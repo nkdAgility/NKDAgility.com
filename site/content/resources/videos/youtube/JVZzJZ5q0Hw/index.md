@@ -1,42 +1,89 @@
 ---
-title: "What is the most common mistake in sprint planning?"
-date: 2023-05-25T14:00:20Z
+title: What is a sprint goal?
+date: 2023-10-10
 videoId: JVZzJZ5q0Hw
-url: /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
-canonicalUrl: https://www.youtube.com/watch?v=JVZzJZ5q0Hw
+url: /resources/videos/:slug
+slug: what-is-the-most-common-mistake-in-sprint-planning
 preview: https://i.ytimg.com/vi/JVZzJZ5q0Hw/maxresdefault.jpg
 duration: 505
-isShort: False
+isShort: false
+aliases:
+- /resources/what-is-the-most-common-mistake-in-sprint-planning
+- /resources/what-is-a-sprint-goal
+- /resources/videos/what-is-the-most-common-mistake-in-sprint-planning-
+
 ---
 
 {{< youtube JVZzJZ5q0Hw >}}
 
-# What is the most common mistake in sprint planning?
+## What's a Sprint Goal and Why Does It Matter?
 
-*Unlocking Organizational Agility: Mastering Market Response* - Discover how to harness organizational agility for competitive advantage. Learn to respond swiftly to market changes and empower your team for success. 
+I think it's essential to ask what a sprint goal is and look deeper into why it matters. 
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+How does a sprint goal drive progress?
 
-In this video, Martin delves into the critical role of organizational agility in today's fast-paced business environment. 🚀 He explains why agility is not just a buzzword but a vital tool for staying ahead in the competitive market. 📈 Martin discusses common pitfalls in agility transformations and how to avoid them, emphasizing the importance of agility as a means to an end, not the end itself. 🛠️ He also explores the challenges organizations face in responding to market changes and how agile practices can empower employees at all levels. 🌟
+Let me share with you some insights from the trenches of Scrum.
 
-*Key Takeaways:*
-00:00:06 Competitive Advantage through Organizational Agility
-00:00:17 Pitfalls in Agile Transformations
-00:01:05 Responding to Market Changes
-00:02:49 Empowering Employees with Agile Practices
-00:03:31 Accelerating Market Response with Agility
+## Exploring The Tactical Aspect of Scrum
 
-*NKDAgility can help!*
+To begin with, I'd like to stress that a sprint goal is a pivotal component of the Scrum framework.  🎯
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to adapt to market changes or struggle to empower your team effectively, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+So, let's explore what it is, the changes it can bring, and my top three takeaways from the topic.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+Ready to uncover the essence of the sprint goal?
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+Let's dive right in!
 
-Because you don't just need agility, you need Naked Agility.
+## A Tactical Dimension of Scrum
 
-#OrganizationalAgility, #MarketResponse, #EmpoweringEmployees, #AgilePractices, #CompetitiveAdvantage
+Understanding a Sprint Goal necessitates a clear perception of the vision and the product goal in the Scrum context.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=JVZzJZ5q0Hw)
+For those well versed in Scrum, we know that a vision is a strategic beacon, guiding us towards a broader objective.  At the same time, a product goal serves as an intermediate strategic milestone.   They provide a broad direction and a nearer-term aim, respectively.
+
+However, this is where the sprint goal is different.  🎯
+
+This is where we go from strategic to tactical.
+
+Unlike its strategic counterparts, a sprint goal is inherently tactical.  It answers questions such as, "What are we doing right now to make progress towards our product goal and our product vision?"
+
+It deals with the nitty-gritty, addressing what we are doing now to move forward towards our product goal and vision.  It's the immediate taskmaster that the team needs to focus on in the present.
+
+A sprint goal serves as a very present and actionable guide, highlighting the immediate tasks at hand for the team.  📈
+
+## Concrete Nature of Sprint goals
+
+It's important to understand the sprint goal clearly. 
+
+So, let me explain.
+
+A defining characteristic of a Sprint Goal is its tangibility.
+
+This is a characteristic that sets it apart from all the others.  It must be a goal that stakeholders can evaluate at the sprint review and be able to provide concrete and actionable feedback that should resonate on a practical level.  🤲
+
+Feedback cannot be vague or speculative but rather precise, such as "We like this because..." or "We dislike this because...".
+
+Therefore, a sprint goal is vital to obtain valuable insights from stakeholders, a feedback mechanism that helps the team understand their expectations better.
+
+## A Tactical Objective
+
+The sprint goal in action means living in the Moment and is the sprint goal philosophy.
+
+In essence, a sprint goal, at any given moment, is a tactical aim that your team is actively pursuing.   A sort of snapshot of what your team is striving towards.
+
+It's a living, breathing objective that changes with every Sprint, reflecting the ongoing tasks that are shaping the journey towards the ultimate product vision.
+
+It's about what's happening and how it contributes to the broader product vision and goal.  It provides the team's immediate focus and helps foster cohesion and motivation.  ⏱️
+
+So, there you have it, folks!
+
+To sum up, a Sprint Goal is more than just a task or a target.  The tactical compass guides your Scrum team through each Sprint, offering a clear and tangible objective that connects the team's current efforts with the broader product vision and goal.
+
+Want to learn more about setting impactful Sprint Goals and mastering other elements of Agile and Scrum?
+
+Then my Agile and Scrum courses are just the thing for you!
+
+Let's continue this journey towards Scrum mastery together.
+
+About NKD Agility
+
+

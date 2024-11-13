@@ -1,32 +1,57 @@
 ---
-title: "1 thing that sinks a consulting engagement before it starts gaining traction"
-date: 2023-08-19T07:00:06Z
+title: 1 thing that sinks a consulting engagement before it starts gaining traction?
+date: 2023-12-08
 videoId: 7VBtGTlkAdM
-url: /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
-canonicalUrl: https://www.youtube.com/watch?v=7VBtGTlkAdM
+url: /resources/videos/:slug
+slug: 1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
 preview: https://i.ytimg.com/vi/7VBtGTlkAdM/maxresdefault.jpg
 duration: 55
-isShort: True
+isShort: true
+aliases:
+- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction-2
+- /resources/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+- /resources/videos/1-thing-that-sinks-a-consulting-engagement-before-it-starts-gaining-traction
+
 ---
 
 {{< youtube 7VBtGTlkAdM >}}
 
-# 1 thing that sinks a consulting engagement before it starts gaining traction
+## The Double-Edged Sword of Consulting Contracts
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood explains what can sink your #agilecoaching engagement before it even gets started.
+Hello, Agile and Consulting Community!  Today, we will discuss navigating the pitfalls of gaining traction for your consulting engagement.  ⚔️
 
-About NKD Agility
+We often ponder the elements that can sink a consulting engagement right from the get-go.  The answer lies where you least expect it.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Buckle up, let's explore!
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Over-Specifying in Contracts: A Common Pitfall
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+The moment "your contract states exactly what needs to be delivered, when, and at what cost, you're already in deep trouble, right?"  🚩
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+You might believe that outlining everything in black and white gives you a sense of security, but in reality, it's quite the opposite.  In the consulting world, being too prescriptive in contracts can be the first nail in the coffin.
 
-We would love to work with you. 
+## Uncertainty in Product Development
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Why is this a problem?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=7VBtGTlkAdM)
+Because that's not the reality of the unpredictable nature of building products that don't exist yet.
+
+Projects are constantly evolving; requirements shift and unforeseen challenges arise.  When a rigid contract shackles you, you're just going to have a bad time.
+
+## Changing the Focus: Outcome Over Output
+
+The solution is to flip the script.  🎯
+
+You'll want to talk about the 'outcome'.  For example. - What is it that you're going to achieve?  What value are you going to deliver to the customer?
+
+By focusing on what matters—the actual value and end results—everything else is irrelevant.
+
+## Unlock Consulting Mastery with Agile and Scrum Courses
+
+Don't fall into the contract trap.  Equip yourself with the agility and foresight to handle the unpredictability of consulting engagements.
+
+My Agile and Scrum courses offer this much-needed perspective.  Ready to redefine your consulting approach?  Enroll today! 🌟
+
+👉 Transform Your Consulting Career Now!
+
+

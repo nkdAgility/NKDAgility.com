@@ -1,32 +1,56 @@
 ---
-title: "Can you align DevOps and Software Engineering teams through Scrum"
-date: 2023-06-16T14:30:05Z
+title: Can you align DevOps and Software Engineering Teams Through Scrum?
+date: 2023-11-09
 videoId: Fg90Nit7Q9Q
-url: /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
-canonicalUrl: https://www.youtube.com/watch?v=Fg90Nit7Q9Q
+url: /resources/videos/:slug
+slug: can-you-align-devops-and-software-engineering-teams-through-scrum
 preview: https://i.ytimg.com/vi/Fg90Nit7Q9Q/maxresdefault.jpg
 duration: 36
-isShort: True
+isShort: true
+aliases:
+- /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+
 ---
 
 {{< youtube Fg90Nit7Q9Q >}}
 
-# Can you align DevOps and Software Engineering teams through Scrum
+## Bridging DevOps & Software Engineering Through Scrum! 🔥
 
-#shorts #shortsvideo #shortvideo #DevOps are often an afterthought to people who don't understand software engineering yet they play a critical role in delivery of solutions to customers. In this short video, Martin Hinshelwood explores how #scrum can align Devops and Software Engineering teams.
+Hello Agile enthusiasts! 🌟
 
-About NKD Agility
+Many of you have been posing a thought-provoking question to me lately, and it's a question that often arises in Agile: "Can DevOps and Software Engineering teams truly align through Scrum?" 🌟
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Transparent Path to Alignment
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Without hesitation, my immediate response is a resounding 'Yes!'
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Scrum, at its heart, isn't just a methodology. It's a beacon for alignment and cohesion.  🤝 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+One of its core tenets demands a working, usable product at the end of every sprint.
 
-We would love to work with you. 
+Imagine that – tangible results, sprint after sprint, yes, even the inaugural one! 🚀
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+This isn't just a stipulation or a lofty ideal. It's foundational. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Fg90Nit7Q9Q)
+It's a practical, actionable outcome that embodies the spirit of transparency and feedback and is the hallmark of what makes Scrum so effective.
+
+## How Do We Achieve Synchronicity
+
+So, how do we manifest this engineering excellence?
+
+It's tempting to think that such harmony emerges out of the blue.
+
+But the truth?
+
+Well, it's far from magic and it's not some spontaneous occurrence. No, far from it.
+
+It's about discipline. It's about engineering excellence. It's about embedding DevOps practices deep into our workflow.  🔧 
+
+When we couple these formidable software engineering practices with the guiding principles of Scrum, we're not just churning out software. We're striving to craft masterpieces.
+
+Eager to experience this synergy firsthand?
+
+Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about software development!
+
+

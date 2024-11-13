@@ -1,32 +1,68 @@
 ---
-title: "Common mistakes that scrum masters make. Part 2."
-date: 2023-07-07T14:00:33Z
+title: 'Part 2: Common Mistakes that Scrum Masters Make'
+date: 2023-11-16
 videoId: WTd-8mOlFfQ
-url: /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
-canonicalUrl: https://www.youtube.com/watch?v=WTd-8mOlFfQ
+url: /resources/videos/:slug
+slug: part-2-common-mistakes-that-scrum-masters-make
 preview: https://i.ytimg.com/vi/WTd-8mOlFfQ/maxresdefault.jpg
 duration: 37
-isShort: True
+isShort: true
+aliases:
+- /resources/part-2-common-mistakes-that-scrum-masters-make-2
+- /resources/part-2-common-mistakes-that-scrum-masters-make
+- /resources/common-mistakes-that-scrum-masters-make-part-2
+- /resources/videos/common-mistakes-that-scrum-masters-make-part-2-
+
 ---
 
 {{< youtube WTd-8mOlFfQ >}}
 
-# Common mistakes that scrum masters make. Part 2.
+## Escaping the Administrative Vortex: Insights for Scrum Masters - Part 2
 
-#shorts #shortsvideo #shortvideo Welcome to part 2 of Martin Hinshelwood's 60 second focus on common mistakes that newbie #scrummasters make.
+So I'm back to shed light on another prevalent issue in the world of Scrum Masters, and it's a rather eye-opening issue, which is inadvertently morphing into the team's secretary.
 
-About NKD Agility
+It's a common mistake Scrum Masters make, and I believe after years of experience in this field, it's a slipup you don't want to get into.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Let's dissect this common pitfall in detail.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Beware the Team's Secretary Trap
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Yes, you heard it right! This is a notorious mistake in the Agile arena of Scrum Masters.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This is one blatant mistake I see cropping up frequently is Scrum Masters getting engulfed in administrative tasks, which is a significant blunder that many stumble upon when taking up the mantle of being the team's secretary.
 
-We would love to work with you. 
+It's not uncommon to find oneself being the one meticulously handling the Jira admin tasks for the team, filling out their Jira tickets, or even engrossed in reporting for them and generally getting bogged down with other team members' tasks.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+But let's pause for a moment, reassess and allow me to confirm again  - this is not part of being a Scrum Master.  ❗
 
-[Watch on YouTube](https://www.youtube.com/watch?v=WTd-8mOlFfQ)
+Hence, I urge you not to do any of those tedious administrative duties. It's not your responsibility, so don't get roped into any of it.
+
+## Steering Clear of the Bindless Pit
+
+I cannot stress this enough -  "Don't do any of that boring administrative duties."  🚫
+
+Falling into these administrative duties can sometimes feel like a mindless pit.
+
+No matter how pressing the situation might seem, it is imperative not to get trapped in these tasks. 🚀
+
+Remember, it's not your responsibility, so don't get roped into any of it.
+
+These duties might seem minute or harmless, but they often lead you down a " totally bindless path."
+
+## True Focus of a Scrum Master
+
+While there might be scenarios propelled by organisational reasons forcing this shift in roles, always cling to the essence of what a Scrum Master should be. 💼
+
+Your focal point should always be "on the team's effectiveness" rather than becoming a crutch by "doing stuff for them."
+
+It's a delicate balance to maintain but one that holds significant importance in the grand scheme of things.
+
+But always remember to embrace the true essence of a Scrum Master and foster a team that thrives on synergy and effectiveness.
+
+I'm here to guide you with my Agile and Scrum courses.  🎓
+
+Equip yourself with the knowledge and skills to avoid these common mistakes and be a Scrum Master who truly catalyses team success!
+
+Let's start this learning journey together!
+
+

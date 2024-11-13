@@ -1,29 +1,56 @@
 ---
-title: "Why is lego a shit idea for a scrum trainer? Part 2"
-date: 2023-10-04T11:24:58Z
+title: Why is Lego a shit idea for a Scrum trainer - Part 2
+date: 2023-12-21
 videoId: mqgffRQi6bY
-url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
-canonicalUrl: https://www.youtube.com/watch?v=mqgffRQi6bY
+url: /resources/videos/:slug
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 preview: https://i.ytimg.com/vi/mqgffRQi6bY/maxresdefault.jpg
 duration: 51
-isShort: True
+isShort: true
+aliases:
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+
 ---
 
 {{< youtube mqgffRQi6bY >}}
 
-# Why is lego a shit idea for a scrum trainer? Part 2
+## Confronting Complexity 
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood explains why Scrum.Org don't like #lego as part of #scrumtraining, and why he thinks using lego as a shit idea for a #professionascrumtrainer. Part 2
+In Part 2 of this exploration, we dive deeper into another pivotal reason that makes Lego a less-than-ideal tool in Scrum training.  
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+The challenge? Acknowledging complexity. 🤯🚀 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Complexity in Focus 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+A fundamental idea we aim to instil is understanding the nuanced complexity of contemporary work, especially when it veers into uncharted territories. 🌌💼 
 
-We would love to work with you. 
+## Lego: Over-Simplification of Reality 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Navigating the world of Scrum training, we often encounter tools that aim to elucidate concepts, yet sometimes, as with Lego, we find ourselves facing an oversimplification of the intricate realities we aim to convey. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=mqgffRQi6bY)
+- Uniformity Over Variance 🧱: Lego pieces, designed to fit perfectly, oversimplify the intricate, often messy, world of software development. 
+
+- Incompatibility Issues 💻: Real-world software pieces, unlike Lego, are notorious for their integration challenges, something Lego fails to emulate. 
+
+## Why Lego Falls Short 
+
+- Oversimplification 🎭: Using Lego can lead to an unrealistic expectation of seamless integration in complex tasks. 
+
+- Mismatched Metaphors 🤹: The consistency and predictability of Lego contrasts starkly with the high variance and uniqueness of software projects. 
+
+- Trivialising Challenges 🕹️: Lego inadvertently minimizes the struggles faced when merging disparate elements in software development. 
+
+## How-to Foster Realistic Understanding 
+
+Embrace Complexity 🔍: Choose training tools and exercises that mirror the unpredictable nature of real-world tasks. 
+
+Strategic Analogies 🗺️: Opt for metaphors and examples that do justice to the challenges faced in software development. 
+
+## Realism Oversimplification 
+
+In understanding why Lego may not serve as the best conduit for Scrum training, it’s essential to recognize the need for aligning training tools with the realities of complex, uncharted endeavours.  
+
+Stay tuned for more insights in this exploration. 🌟🔄
+
+

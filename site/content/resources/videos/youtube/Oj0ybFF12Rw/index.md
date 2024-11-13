@@ -1,31 +1,54 @@
 ---
-title: "Quotes - Don't scale scrum! Pragmatic or defeatist?"
-date: 2023-10-09T14:30:08Z
+title: "Quotes: Don't scale Scrum! Pragmatic or defeatist?"
+date: 2023-12-22
 videoId: Oj0ybFF12Rw
-url: /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
-canonicalUrl: https://www.youtube.com/watch?v=Oj0ybFF12Rw
+url: /resources/videos/:slug
+slug: quotes-don-t-scale-scrum-pragmatic-or-defeatist
 preview: https://i.ytimg.com/vi/Oj0ybFF12Rw/maxresdefault.jpg
 duration: 50
-isShort: True
+isShort: true
+aliases:
+- /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
+- /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+
 ---
 
 {{< youtube Oj0ybFF12Rw >}}
 
-# Quotes - Don't scale scrum! Pragmatic or defeatist?
+## "Don't scale scrum" - A Common Refrain 
 
-#shorts #shortvideo #shortsvideo In the #agile industry, #agilecoaches love telling clients not to scale. The idea that #scaling agile is impossible and shouldn't be attempted. Is that a cop out? Is that wisdom or has that coach simply not figured out how to do it.
+🙄 The phrase "Don't scale scrum!" is something I've heard quite frequently. 
 
-About NKD Agility
+Let's explore this statement – is it pragmatic caution or simply defeatist? 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## The Misconception: Scrum Doesn't Scale 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+🤔 Many believe that Scrum, by design, cannot scale. While it's true that the Scrum Guide focuses on one team building one product, the idea that Scrum can't be scaled is, frankly, rubbish. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## Nexus: Scrum Scaling Scrum 
 
-We would love to work with you. 
+🚀 Nexus is a shining example of Scrum scaling Scrum. It doesn't deviate from the essence but adds nuances to address challenges at scale. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+- **Scrum at Its Core**: Nexus retains the Scrum framework at its heart. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Oj0ybFF12Rw)
+- **Addressing Scale**: It introduces additional elements to tackle scaling complexities. 
+
+- **Delivering Value**: Nexus proves that you can amplify value delivery using Scrum at a larger scale. 
+
+## How-To: Embracing Scaling in Scrum 
+
+💡 Scaling doesn't have to be an antithesis to Scrum. Here are some recommendations: 
+
+- **Understand Nexus**: Dive deep into Nexus and how it seamlessly scales Scrum. 
+
+- **Start Small, Think Big**: Begin with one Scrum team and then scale thoughtfully. 
+
+- **Adapt and Iterate**: Scaling is about learning and adapting, just like Scrum. 
+
+## Pragmatic, Not Defeatist 
+
+🌟 The notion of "Don't scale Scrum" is not pragmatic wisdom; it's a defeatist attitude.  
+
+Scrum can and has been scaled successfully, delivering more value than ever.
+
+

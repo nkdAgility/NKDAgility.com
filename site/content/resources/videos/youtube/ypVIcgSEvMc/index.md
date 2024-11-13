@@ -1,32 +1,60 @@
 ---
-title: "30% discount for existing alumni overview"
-date: 2023-06-09T11:00:46Z
+title: 30% Discount for Existing Alumni Overview
+date: 2023-11-08
 videoId: ypVIcgSEvMc
-url: /resources/videos/30-discount-for-existing-alumni-overview
-canonicalUrl: https://www.youtube.com/watch?v=ypVIcgSEvMc
+url: /resources/videos/:slug
+slug: 30-discount-for-existing-alumni-overview
 preview: https://i.ytimg.com/vi/ypVIcgSEvMc/maxresdefault.jpg
 duration: 43
-isShort: True
+isShort: true
+aliases:
+- /resources/30-discount-for-existing-alumni-overview
+- /resources/videos/30-discount-for-existing-alumni-overview
+
 ---
 
 {{< youtube ypVIcgSEvMc >}}
 
-# 30% discount for existing alumni overview
+## The DevOps Evolution: More Than a Simple Shift
 
-#shorts #shortsvideo #shortvideo NKD Agility offer all alumni a 30% discount on their continued learning and certification journey. Something that not many people are aware of. In this short video, Martin Hinshelwood explains what the 30% discount is, how it works, and why NKD Agility offer this awesome discount to alumni
+The path from a DevOps practitioner to a DevOps consultant is one wrapped in curiosity and complexity. It's a testament to growth, an emblem of one's desire to know more and do more.
 
-About NKD Agility
+Delve into my insights on how to gauge this readiness and the indispensable role of continual learning. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## The Motive Behind the Move?
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+The simple answer is our genuine ambition to help and support your learning in the future into the future.  🤔
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+It's an invitation to elevate their skills and actively contribute even further, especially to those deeply committed to the role.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Appreciating Dedication and Zeal
 
-We would love to work with you. 
+Time and again, we've witnessed the enthusiasm and zeal of professionals eager to break barriers. We have a special offer to acknowledge this passion and fan these flames of aspiration.  💡
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+For every devoted learner who's graced our classes, a rewarding 30% discount beckons for their next giant leap.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ypVIcgSEvMc)
+Why?
+
+Because we recognise and salute the potential in each individual to expand their Agile knowledge, sometimes, a touch of encouragement can be the catalyst for monumental growth.
+
+The True Essence of the 30% Offer🌱
+
+It's not merely a discount. It represents growth: 🌱
+
+- Acknowledgement: Celebrating the dedication and perseverance of our learners.
+
+- Empowerment: Offering them a bridge to "broaden their Agile knowledge."
+
+- Opportunity: Providing a platform to "expand ideas" and insights.
+
+For many among us, this 30% isn't just a number.
+
+It's a lifeline, a propellant, enabling them to fortify their skillset, ensuring they remain at the zenith of their professional trajectory.  🌟
+
+## Embarking on Your DevOps Voyage
+
+If you've contemplated elevating your stature, transitioning from a practitioner to a consultant, or simply deepening your Agile and Scrum expertise, this is your cue.
+
+Engage, expand, and excel with our meticulously crafted courses. Remember, your odyssey with us is a treasured alliance. 🚀
+
+

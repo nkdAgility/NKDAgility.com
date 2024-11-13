@@ -1,38 +1,120 @@
 ---
-title: "Why is Satya Nadella a better example of agile leadership than Steve Jobs?"
-date: 2023-02-01T07:00:10Z
+title: Why is Satya Nadella a better example of agile leadership than Steve Jobs?
+date: 2023-03-01
 videoId: HTv3NkNJovk
-url: /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
-canonicalUrl: https://www.youtube.com/watch?v=HTv3NkNJovk
+url: /resources/videos/:slug
+slug: why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
 preview: https://i.ytimg.com/vi/HTv3NkNJovk/maxresdefault.jpg
 duration: 487
-isShort: False
+isShort: false
+aliases:
+- /resources/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs
+- /resources/videos/why-is-satya-nadella-a-better-example-of-agile-leadership-than-steve-jobs-
+
 ---
 
 {{< youtube HTv3NkNJovk >}}
 
-# Why is Satya Nadella a better example of agile leadership than Steve Jobs?
+This is a great question, although I imagine I might pick up a bit of flack because of the hordes of people who love [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and think of him as one of the most iconic leaders of the past century.
 
-In #scrum, there is a great deal of emphasis on the importance of having a great #productowner. Someone who acts like the CEO of the product and sets a strong vision  for the product that inspires the #scrumteam to dig deep and create a product or features that truly delight customers.
+Steve is great, but in terms of **Agile leadership**, he doesn’t touch sides – in my opinion – to **Satya Nadella**. You can see the difficulty he created within [Apple](https://www.apple.com/) because all innovation, product development, and so forth stemmed from him rather than a culture of innovation that permeates throughout the organization.
 
-Outside of #scrum or #agile environments, we tend to look at powerful CEOs who had an inspired vision for the future, combined with a powerful way of bringing people together to create that product or service in meaningful, inspiring ways.
+So, a great **product owner**, absolutely, probably one of the best that has ever lived, but there are chinks in the leadership armour that are impossible to ignore.
 
-So, if we look at 2 of the most powerful CEOs over the past couple of decades, Satya Nadella from Microsoft and Steve Jobs from Apple, how do they compare?
+<figure>
 
-In this short video, Martin Hinshelwood talks about why he thinks Satya Nadella is a better example of #agileleadership than Steve Jobs.
 
-About NKD Agility
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+<figcaption>
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Why is Satya Nadella a better example of agile leadership than Steve Jobs?
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+</figcaption>
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
 
-We would love to work with you. 
+
+</figure>
+
+## Innovation and Agile capabilities.
+
+### The rise and fall of Steve Jobs
+
+When **Steve Jobs** was at **Apple**, they were awesome as an organization.
+
+They invented some of the most amazing products and ecosystems imaginable. They led the way in terms of product design, and innovation of business models in industries such as music and film, and gave birth to the rise of application development within the Apple ecosystem.
+
+The trouble is that the organization didn’t really have these capabilities, Steve Jobs did, and that didn’t permeate throughout the organization.
+
+It needed him to crack the whip, articulate the vision, and drive outcomes.
+
+**Steve Jobs** ruled Apple with an iron fist, and by all accounts, his treatment of people wasn’t great by today’s standards of leadership and mentorship. By some accounts, a toxic working environment that only the thickest skin could tolerate.
+
+As soon as **Steve Jobs** passed away, Apple appears to have lost their innovation edge and although still an incredibly successful organization, it is a shadow of its former self under Steve’s leadership.
+
+So, there was and is no systemic, in-built innovation and agile capabilities across the organization.
+
+An organization that gained notoriety for disrupting almost every market it entered is now an organization that is at risk of significant disruption.
+
+### The rise and rise of Satya Nadella.
+
+When [Satya Nadella](https://www.linkedin.com/in/satyanadella/) took over the reins at [Microsoft](https://www.microsoft.com/), he immediately started to decentralize decision-making by pushing decision-making authority and capability down to the experts who were best positioned to make those calls.
+
+In an organization the size of **Microsoft**, it takes a considerable amount of time to create change that has a lasting, sustainable impact but from the start, **Satya** was determined to embrace Agile and use those agile values and principles as a starting point for developing agile and innovation capabilities.
+
+He wanted to see the people who are actively doing the work, and are experts in that field, have a far stronger role in deciding how best to create a complex solution or solve a complex problem.
+
+It is something that people witnessed right across the organization.
+
+Agile isn’t the only answer because not every part of the organization needs to innovate, some areas need to be great at execution and so you don’t have the same emphasis on product development and innovation in those areas, you simply need to follow best practices and get things done effectively for those areas to succeed.
+
+But in the areas where product development and innovation is important, that new spirit of agility permeated the organization and began to transform how people think, collaborate, and create.
+
+Each department bore responsibility for coming up with their own ideas, using their own data and feedback loops to develop new hypotheses, and for designing experiments to validate or invalidate those hypotheses.
+
+In a word, empiricism or empirical process control.
+
+Make things transparent and visible, inspect the work you are doing frequently, and use what you have learned combined with data to inform what you attempt next.
+
+### Measuring what matters.
+
+**Satya Nadella** is also responsible for helping the organization focus on the metrics that truly matter and using those measures to influence the most valuable outcomes.
+
+For example, the Azure folks used to incentivise sales revenue and so customers would purchase millions of hours of **Azure** but become deeply dissatisfied because they only used a fraction of those hours over the course of the year.
+
+Incentivising the wrong things led to increased customer churn and decreased customer satisfaction.
+
+The focus was on revenue extraction rather than value creation.
+
+So, Microsoft flipped the script and started to incentivise sales folk based on the number of Azure hours used by clients, and this led to creative and innovative ideas for how clients could derive greater value by using the Azure environment more effectively.
+
+Customers start to witness heaps of value being created in their environments, and Microsoft are the driving force behind the ideas that drive value creation as well as the facilitation of those new ideas and opportunities.
+
+Increased customer satisfaction, increased customer loyalty, and optimal usage of the Azure product suite. #winning.
+
+These kinds of shifts in mindset and the organisation's culture started to happen across the board. Satya is not only a super smart guy, but he is also an incredibly pragmatic and practical person too.
+
+He comes from an engineering background and has actively built products so he deeply understands the product development environment, agile, and the power of having great people working on complex problems throughout the organization.
+
+He understands that those people, working at the coalface, are the important people in the organization. They are the ones driving innovation and cocreating valuable products with customers.
+
+It isn’t just Satya who embodies this agile leadership style, people like Richard Branson do too.
+
+It’s that spirit of agility, that spirit of innovation, that pioneering spirit that inspires people throughout the organization to develop their own agile capabilities and to invest in mastering product development and innovation from a grassroots level.
+
+So, that is why, in my opinion, Satya Nadella is a better example of Agile leadership than Steve Jobs.
+
+## About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=HTv3NkNJovk)
+

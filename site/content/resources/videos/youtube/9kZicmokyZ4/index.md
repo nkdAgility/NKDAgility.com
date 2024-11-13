@@ -1,67 +1,134 @@
 ---
-title: " shorts 5 reasons why you need EBM in your environment Part 1"
-date: 2024-01-22T11:00:07Z
+title: The Importance of Evidence-Based Management in Agile Environments
+date: 2024-10-13
 videoId: 9kZicmokyZ4
-url: /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
-canonicalUrl: https://www.youtube.com/watch?v=9kZicmokyZ4
+url: /resources/videos/:slug
+slug: the-importance-of-evidence-based-management-in-agile-environments
 preview: https://i.ytimg.com/vi/9kZicmokyZ4/maxresdefault.jpg
 duration: 29
-isShort: True
+isShort: true
+aliases:
+- /resources/the-importance-of-evidence-based-management-in-agile-environments
+- /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+
 ---
 
 {{< youtube 9kZicmokyZ4 >}}
 
-#  shorts 5 reasons why you need EBM in your environment Part 1
+In today’s fast-paced, ever-evolving business world, it’s not enough to simply make changes and hope for the best. We need to understand the true impact of our actions—whether they’re improving or hindering our overall success. This is where evidence-based management comes into play. If you're working in an Agile environment, it’s essential to have the right tools in place to measure success and progress effectively.
 
-#shorts #shortsvideo #shortvideo 5 reasons why you #ebm in your #agile environment. Part 1.
+**So, why should you care about evidence-based management? Let me walk you through it.**
 
-Embracing Evidence-Based Management in Agile Environments: A Key to Success
+## **What Is Evidence-Based Management?**
 
-In today's fast-paced business landscape, the adoption of Agile and Scrum methodologies has become pivotal for companies aiming to thrive and stay ahead of the competition. However, it's not just about implementing Agile practices; it's about ensuring that these practices genuinely contribute to your organization's success. This is where the concept of evidence-based management becomes crucial.
+Evidence-based management (EBM) is a framework designed to help organizations measure, manage, and improve the value they deliver. It enables teams to make informed decisions by focusing on metrics that reflect their ability to generate business value.
 
-Understanding Evidence-Based Management
+At its core, it’s about **measuring** the impact of changes you make to your system and ensuring that these changes drive success. Without solid data and evidence, how do you know if the changes you're implementing are pushing the needle in the right direction?
 
-Evidence-based management is a strategic approach that focuses on gathering data and using it to make informed decisions. This method is particularly significant in Agile environments, where changes are constant, and the need to adapt is continuous.
+### **Key Elements of Evidence-Based Management**
 
-The Impact on Success
+There are several critical areas that evidence-based management focuses on:
 
-Measuring Change: By integrating evidence-based management, you can clearly understand and measure the impact of alterations made to your system.
-Value offering:
-  offeringType: training-course This approach ensures that your efforts are aligned with delivering value to the business in the most efficient way possible.
-Success Evaluation: It allows you to determine whether the changes made are moving the needle in the right direction.
+- **Current Value**: Are you delivering value to the customer right now?
 
-The Need for Measurement in Agile
+- **Time to Market**: How quickly can you respond to customer needs and market changes?
 
-Agile and Scrum are dynamic, with continuous iterations and improvements. To keep up with these changes and ensure they are beneficial, measurement is key.
+- **Ability to Innovate**: Can your team come up with new ideas and implement them effectively?
 
-How to Measure Effectively
+- **Unrealized Value**: What opportunities are you missing out on?
 
-Set Clear Metrics: Define what success looks like in your context and set measurable goals.
-Use Agile Tools: Utilize tools designed for Agile environments to track progress and performance.
-Regular Reviews: Conduct frequent reviews to assess whether the changes align with your objectives.
+These metrics provide a structured approach to understanding performance in Agile environments. They allow you to **analyze the impact** of your decisions and adapt your strategy accordingly.
 
-My Personal Experience with Evidence-Based Management
+* * *
 
-In my journey of integrating evidence-based management into Agile environments, I've seen firsthand how it transforms operations.
+## **Why Every Agile Team Needs Evidence-Based Management**
 
-Real-World Examples
+When I work with Agile teams, I often see a common issue: teams make changes but have no way to determine if those changes lead to improvements. That’s a dangerous path to walk down. Without evidence, you're essentially flying blind.
 
-Enhanced Decision-Making: In one instance, a team struggling with delivery timelines implemented specific metrics for tracking progress. This data-driven approach enabled them to pinpoint bottlenecks and streamline their process.
+In my own experience, I’ve seen companies make sweeping changes to their processes—whether it's adopting a new tool, tweaking a workflow, or even changing the team structure—but because they weren’t measuring the results, they had no idea if these changes were actually working. It led to frustration, inefficiency, and even a loss of trust within the team.
 
-Increased Value offering:
-  offeringType: training-course Another team focused on measuring customer satisfaction. By adjusting their strategies based on customer feedback data, they significantly increased value delivery.
+Imagine investing time, energy, and resources into a new process only to find out weeks or months later that it didn't make any difference—or worse, that it had a negative impact. This is why **evidence-based management** is so important.
 
-Actionable Recommendations
+### **Personal Example: A Realization Through Data**
 
-To truly benefit from evidence-based management in your Agile environment, consider these actionable steps:
+I recall working with a team that was struggling to improve their delivery speed. They decided to introduce a new tool, convinced it would solve their issues. After the implementation, there was no immediate improvement. In fact, the team felt more bogged down than ever. Frustration levels were through the roof.
 
-Implement a Systematic Approach: Incorporate a structured system for collecting and analyzing data.
-Focus on Relevant Metrics: Choose metrics that directly impact your business goals and objectives.
-Foster a Data-Driven Culture: Encourage your team to make decisions based on data and evidence.
-Regularly Review and Adjust: Be open to changing your approach based on what the data tells you.
+We started implementing evidence-based management, tracking metrics like **time to market** and **current value**. What we discovered was eye-opening. The new tool, instead of improving the workflow, was slowing them down due to its complexity. Once we had the data, we could make an informed decision to either change our approach or abandon the tool altogether.
 
-Integrating evidence-based management into your Agile and Scrum practices is not just a recommendation; it's a necessity for thriving in today's business world. By measuring the impact of your changes and aligning them with your organizational goals, you can ensure that your Agile journey is not only about speed and flexibility but also about delivering real, measurable value.
+Without EBM, the team would have continued to struggle without understanding the root cause. The key takeaway? **Data is your best friend when it comes to making improvements.**
 
-Remember, the goal is not just to implement changes but to make changes that propel your business forward. Embrace evidence-based management, and witness the transformation in your Agile environment.
+* * *
 
-[Watch on YouTube](https://www.youtube.com/watch?v=9kZicmokyZ4)
+## **Measuring Success: How to Implement EBM**
+
+So, how can you start measuring success in your own Agile environment? The process isn't as daunting as it sounds. Here’s a breakdown of how to get started with evidence-based management:
+
+### **1\. Identify Key Metrics**
+
+First, figure out what metrics matter most to your team and organization. These might include:
+
+- **Customer Satisfaction**: Are you meeting customer expectations?
+
+- **Cycle Time**: How long does it take to get work done from start to finish?
+
+- **Employee Engagement**: Is the team motivated and satisfied with their work?
+
+These metrics give you tangible evidence to gauge your performance.
+
+### **2\. Track and Analyze Data**
+
+Once you’ve identified the metrics, the next step is to **track them regularly**. Many teams make the mistake of only measuring success sporadically, which doesn’t provide enough data to identify trends or make informed decisions.
+
+### **3\. Use the Data to Drive Change**
+
+Now that you have the data, you can start making changes to your process or system. Here’s where the magic happens. If you make a change and see a positive impact in your metrics—congratulations, you’re on the right path! But if the data shows a decline, you can adjust your strategy before it causes too much damage.
+
+This process creates a **feedback loop**:
+
+1. **Measure**: Collect data on key metrics.
+
+3. **Change**: Implement a change.
+
+5. **Analyze**: See how the metrics have shifted post-change.
+
+7. **Adapt**: Based on the results, make informed decisions on the next steps.
+
+* * *
+
+## **How EBM Empowers Teams**
+
+Implementing EBM in your Agile environment empowers teams in several ways:
+
+### **1\. Informed Decision Making**
+
+Rather than relying on gut feelings or assumptions, teams make decisions based on **hard data**. This reduces the risk of making changes that don’t add value and ensures every action is intentional.
+
+### **2\. Transparency**
+
+Data provides transparency. When teams and stakeholders can see real evidence of performance, it eliminates confusion and misalignment. Everyone is on the same page about what’s working and what isn’t.
+
+### **3\. Continuous Improvement**
+
+Agile is all about adapting and improving. EBM helps create a culture of continuous improvement by providing a clear picture of progress. When teams can measure their improvements, they are more motivated to keep pushing for better results.
+
+* * *
+
+## **Practical Tips for Using EBM**
+
+Here are some practical tips to help you integrate evidence-based management into your Agile processes:
+
+- **Start Small**: You don’t have to overhaul everything at once. Pick one or two key metrics to focus on initially.
+
+- **Involve the Team**: Make sure the entire team understands the importance of EBM and is involved in tracking and analyzing the data.
+
+- **Review Regularly**: Don’t wait until the end of a project to analyze the data. Review it regularly—at the end of each Sprint, for example—so that you can adapt quickly.
+
+- **Celebrate Wins**: When the data shows positive results, take a moment to celebrate with the team! 🎉
+
+* * *
+
+## **Conclusion: Evidence-Based Management Is Non-Negotiable**
+
+At the end of the day, evidence-based management is a non-negotiable tool for any Agile team that wants to continuously improve and deliver real value to the business. By measuring and analyzing the right metrics, you can make smarter decisions, improve transparency, and create a culture of constant improvement. So next time you’re thinking about making a change in your team’s process, ask yourself: **Do we have the data to back it up?**
+
+

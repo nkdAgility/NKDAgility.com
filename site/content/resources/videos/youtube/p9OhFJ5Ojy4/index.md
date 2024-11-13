@@ -1,12 +1,13 @@
 ---
-title: "Agile in Nigeria 2020 - The Inevitability of change"
+title: Agile in Nigeria 2020 - The Inevitability of change
 date: 2020-07-22T10:08:06Z
 videoId: p9OhFJ5Ojy4
 url: /resources/videos/agile-in-nigeria-2020-the-inevitability-of-change
 canonicalUrl: https://www.youtube.com/watch?v=p9OhFJ5Ojy4
 preview: https://i.ytimg.com/vi/p9OhFJ5Ojy4/hqdefault.jpg
 duration: 2977
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube p9OhFJ5Ojy4 >}}
@@ -24,3 +25,5 @@ Transcript/Blog post: https://nkdagility.com/blog/evolution-not-transformation-t
 Agile Leadership Training: https://nkdagility.com/training/course-schedule/?course=11878
 
 [Watch on YouTube](https://www.youtube.com/watch?v=p9OhFJ5Ojy4)
+
+

@@ -1,33 +1,80 @@
 ---
-title: "What is sprint planning?"
-date: 2023-05-24T14:00:36Z
+title: What is Sprint Planning?
+date: 2023-10-10
 videoId: nMkit8zBxG0
-url: /resources/videos/what-is-sprint-planning-
-canonicalUrl: https://www.youtube.com/watch?v=nMkit8zBxG0
+url: /resources/videos/:slug
+slug: what-is-sprint-planning
 preview: https://i.ytimg.com/vi/nMkit8zBxG0/maxresdefault.jpg
 duration: 464
-isShort: False
+isShort: false
+aliases:
+- /resources/what-is-sprint-planning
+- /resources/videos/what-is-sprint-planning-
+
 ---
 
 {{< youtube nMkit8zBxG0 >}}
 
-# What is sprint planning?
+## Setting the Tone for Success
 
-A #sprint is a container within #scrum where all the work, events, and artefacts of the #scrumframework happens. Often, it's a predetermined length somewhere between one and four weeks, and the intention of the team is to produce a working product within that time box.
+The age-old question that many present to me is pretty simple, "What is sprint planning?"
 
-#sprintplanning is an event where the #scrumteam come together to plan the work that will take place in the upcoming sprint. In this short video, Martin Hinshelwood explains what sprint planning is, why it matters, and how teams can do it effectively.
+Yet, lurking behind that more profound inquiry lays another question,  "Why is Sprint planning?"
 
-About NKD Agility
+Let me help shed some light on this. 🚀
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Moment of Alignment
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Sprint planning is, fundamentally, a time where we get together and chalk out what we will achieve in our upcoming sprint.  It could be a two-week stint, three days, or any other duration. 🔄 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+The essence?
 
-We would love to work with you. 
+Planning the sprint (it's as straightforward as it sounds!).
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Yes, it's about planning the sprint, and as I often chuckle, it "kind of makes sense." 🚀
 
-[Watch on YouTube](https://www.youtube.com/watch?v=nMkit8zBxG0)
+## It's All About Understanding
+
+This isn't just a ritual.  It's not about how long the meeting is.  It's about clarity.  Whether it's a quick 5-minute chat or an asynchronous check-in on Teams or Slack, the heart of the matter is understanding.
+
+Do we all grasp where we're headed?
+
+Are we aligned on what needs to be done and how?  This is the pivotal point of sprint planning.
+
+Kanban vs. Scrum
+
+I've heard the argument, "We do Kanban, so we don't need Sprint planning." 🤼 
+
+But when do you decide what to pull into the sprint?
+
+That decision-making process is essentially sprint planning.  The difference is, in Scrum, you're actively involved.  It's about deciding which tasks from the ever-evolving product backlog will make the cut for the upcoming sprint.
+
+Every sprint planning session allows for this evaluation and realignment.
+
+## Refinement and Selection
+
+We've got refinement, which comes before sprint planning.
+
+Sprint planning isn't just about new features. , it's about understanding "all that stuff that we would like the product to do".  It's about live site incidents, technical debt, bugs, customer feedback, and other ongoing tasks. ✅ 
+
+We can't focus 100% on our sprint goal.  We have to make room for unexpected events.  Sprint planning provides that flexibility and ensures we don't lose sight of our main objectives.
+
+## Balancing Commitment to Goals 
+
+Sprint goals are like mini-milestones.  They give a clear picture of the tangible results we aim for in the immediate future.  It creates a cadence of success, achievement, and motivation for the team.  🎯
+
+Whether fulfilling a crucial customer request or adding a feature they've eagerly anticipated, sprint planning lays the foundation for these victories.
+
+## Scrum & Kanban
+
+Whether you're doing "little K kanban" or "big S Scrum," we're all fundamentally working towards the same idea.
+
+While Scrum focuses on planning, Kanban emphasises delivery.  Merge them, and you've got a powerful combo, ensuring both strategy and execution are top-notch! 
+
+It's the best of both worlds.  🌎 
+
+For those passionate about delving deeper into the world of Scrum, Kanban, or even Agile practices, I'd be thrilled to share more insights.
+
+Join me on my Agile and Scrum courses to journey into the world of efficient project management.
+
+

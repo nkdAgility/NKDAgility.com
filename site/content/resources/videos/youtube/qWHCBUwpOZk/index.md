@@ -1,42 +1,106 @@
 ---
-title: "3 core practices of Kanban Improving a workflow"
-date: 2024-02-28T07:00:19Z
+title: 3 core practices of Kanban. Improving a workflow.
+date: 2024-07-02
 videoId: qWHCBUwpOZk
-url: /resources/videos/3-core-practices-of-kanban-improving-a-workflow
-canonicalUrl: https://www.youtube.com/watch?v=qWHCBUwpOZk
+url: /resources/videos/:slug
+slug: 3-core-practices-of-kanban-improving-a-workflow
 preview: https://i.ytimg.com/vi/qWHCBUwpOZk/maxresdefault.jpg
 duration: 307
-isShort: False
+isShort: false
+aliases:
+- /resources/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+
 ---
 
 {{< youtube qWHCBUwpOZk >}}
 
-# 3 core practices of Kanban Improving a workflow
+### Improving Your Workflow in a Kanban Strategy
 
-Maximizing Flow with Kanban: A Strategy for Success
+**Introduction**
 
-Unlock the Potential of Your Workflow
+The third core practice in Kanban is improving your workflow. It’s essential to not only visualize your work and actively manage it but also to make continuous improvements to the workflow itself. Without ongoing improvements, inefficiencies and blockages will persist, hindering the overall effectiveness of your system.
 
-In the realm of Kanban, improving your workflow stands as a cornerstone practice. It's not just about setting up a system; it's about continually refining it to ensure peak efficiency and value delivery. Below, discover key insights and strategies from our latest video to enhance your workflow and drive success.
 
-Visualize, Manage, Improve
 
-Visualize Your Workflow: The first step is to have a clear visual representation of your entire process. This visibility is crucial for identifying bottlenecks and areas for improvement.
-Actively Manage Work: Actively managing your workflow means not just observing but taking action. Adjust work in progress, tackle blockages, and ensure work doesn't pile up or linger unfinished.
-Improve Continuously: The essence of Kanban. Once you've visualized and managed, the next step is to improve. Identifying problems is one thing; implementing changes to solve them is where the true benefit lies.
+* * *
 
-Case Study: Transforming Approvals
+**The Importance of Improving Your Workflow**
 
-A compelling example shared in the video highlights the power of proactive workflow management. A team faced delays due to a weekly approval process, causing a backlog of work. By visualizing the cost of delays on their Kanban board, they not only made the problem visible to all, including decision-makers, but also motivated immediate change. The approver adjusted their behavior, checking for items needing approval twice daily, significantly reducing wait times and boosting the team's efficiency.
+It's not enough to just see what's happening in your system and manage the work actively. If your system is flawed or inefficient, those issues need to be addressed. Improving your workflow involves making changes to maximize the flow of value through your system. Here’s how to approach this:
 
-Key Takeaways
+1. **Identify and Address Blockages**:
 
-Identify and Address Blockages: Understand the root cause of delays and blockages in your system and take decisive action to remove them.
-Visualize Impact: Use visual tools to highlight the cost or impact of inefficiencies in your workflow. This can prompt necessary changes and improve accountability.
-Embrace Continuous Improvement: Always look for ways to refine and enhance your workflow. Small adjustments can lead to significant gains in efficiency and value delivery.
+- Understand why blockages occur and take steps to eliminate them.
 
-Call to Action
+- If work is getting stuck in a particular stage, investigate the cause and adjust the process to prevent future blockages.
 
-Are you ready to take your team's workflow to the next level? Whether you're new to Kanban or looking to refine your existing system, our video provides essential strategies and insights for success. For more great videos, articles, and how-to blogs on maximizing your workflow and implementing effective Kanban strategies, visit nkdagility.com. Let's unlock the full potential of your workflow together!
+1. **Reduce Waiting Times**:
 
-[Watch on YouTube](https://www.youtube.com/watch?v=qWHCBUwpOZk)
+- Minimize delays in the workflow by addressing approval processes or other bottlenecks.
+
+- Implement strategies to ensure work moves smoothly through the system without unnecessary waiting.
+
+* * *
+
+**A Real-Life Example of Workflow Improvement**
+
+Let me share a real-life example to illustrate how improving the workflow can significantly enhance efficiency:
+
+I worked with a team in the US that had a Kanban board on the wall in a central corridor of their office. They faced a challenge with an approval process that created a bottleneck. The approval person only reviewed items once a week, leading to significant delays.
+
+**The Problem:**
+
+- Items finished on Monday afternoon would sit for almost a week before being approved the following Monday.
+
+- This delay was costly, causing unnecessary waiting times and hindering the flow of work.
+
+**The Solution:**
+
+- The team calculated the cost of items sitting and waiting for approval and displayed these financial figures on the Kanban board.
+
+- They used Post-its to highlight these costs, which increased as the week progressed.
+
+- They also created a graph to show the bad flow of work and the accumulating costs.
+
+**The Result:**
+
+- The person responsible for approvals noticed the escalating costs displayed on the board and immediately understood the impact.
+
+- This visibility prompted them to change their behavior, checking for approvals every morning and evening.
+
+- This change significantly reduced the waiting times, leading to a major cost benefit for the team.
+
+* * *
+
+**Taking Action to Improve Workflow**
+
+Improving your workflow involves more than just identifying problems. It requires taking concrete steps to address those issues:
+
+- **Visualize Costs and Delays**:
+
+- Use visual aids to highlight the impact of delays and blockages.
+
+- Make the costs of inefficiencies visible to everyone involved.
+
+- **Encourage Proactive Behavior**:
+
+- Foster a culture where team members actively look for ways to improve the workflow.
+
+- Regularly review and adjust processes to ensure they remain efficient.
+
+- **Engage Stakeholders**:
+
+- Involve key stakeholders in the process of identifying and addressing workflow issues.
+
+- Ensure everyone understands the impact of delays and the importance of timely approvals and actions.
+
+* * *
+
+**Conclusion**
+
+Improving your workflow is a critical practice in Kanban that ensures your system remains efficient and effective. By identifying blockages, reducing waiting times, and making continuous improvements, you can maximize the flow of value through your system.
+
+If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch and start optimizing your workflow today.
+
+

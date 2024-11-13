@@ -1,0 +1,82 @@
+post:
+  title: The Common Challenges of Adopting DevOps Practices
+  link: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=52006
+  pubDate: Fri, 15 Nov 2024 16:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=52006
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>When organizations embark on the journey of adopting DevOps practices, they often encounter significant challenges. One of the most common is what I like to call \"regression\" – the frustrating experience of making two steps forward only to fall five steps back. Let's dive into these challenges and explore how to effectively navigate them.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-evolution-of-risk-management\"><strong>The Evolution of Risk Management</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-from-traditional-to-modern-risk-profiles\"><strong>From Traditional to Modern Risk Profiles</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In the traditional software development world – or as I sometimes refer to it, \"the old days\" – we had a very structured approach to managing risk. We would spend a substantial amount of time designing the product, defining the architecture, listing out features, and then marching toward a release date. This was followed by rigorous testing, usually performed by a separate test team, and finally, a handoff to an operations team for deployment. This approach was heavily reliant on a waterfall model, where each phase followed the previous one in a linear fashion.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>However, the risk profile in this traditional model is vastly different from what we face today. In the old model:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Design and planning</strong> were extensive, often leading to a long development cycle.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Testing</strong> was a separate phase, with dedicated teams responsible for ensuring the product's quality.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Deployment</strong> followed a strict sequence of environments, often starting with staging, then UAT, and finally production.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>This method had its merits, but it also had significant drawbacks, particularly in today's fast-paced environment where flexibility and adaptability are key.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-devops-shift\"><strong>The DevOps Shift</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>DevOps changes the game entirely. It demands a new approach to risk management, one that prioritizes:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>High quality</strong>: Ensuring that every release meets the highest standards.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Flexibility</strong>: Adapting to changes quickly without sacrificing quality.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Adaptability</strong>: Continuously improving based on real-world feedback.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In the world of DevOps, we no longer have the luxury of long development cycles. Instead, we're working in a continuous delivery environment where speed is of the essence. This brings us to one of the biggest challenges in adopting DevOps: managing risk in a way that doesn't slow us down but rather enhances our ability to deliver value rapidly.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-importance-of-feedback-loops\"><strong>The Importance of Feedback Loops</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-closing-the-loop-the-key-to-success\"><strong>Closing the Loop: The Key to Success</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of the most critical aspects of DevOps is the concept of closing feedback loops. In the traditional model, feedback often came too late, after the product was already in the hands of users. This delayed feedback was costly and inefficient.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In DevOps, the goal is to:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Identify feedback loops</strong>: Determine where and how feedback can be gathered throughout the development process.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Eliminate waste</strong>: Streamline processes to ensure that feedback is gathered as quickly and efficiently as possible.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Close the loop</strong>: Act on feedback in a timely manner to continuously improve the product.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A great example of the importance of closing feedback loops can be seen in the development of Windows 8. Microsoft invested hundreds of millions of dollars in user experience studies, labs, and testing, yet the product still failed to resonate with consumers. The lesson here is that no matter how much testing and validation you do in controlled environments, the only place to truly validate a product is in production.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-there-s-no-place-like-production\"><strong>\"There's No Place Like Production\"</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>As one of my favorite people, Brian Harry, who used to run the Azure DevOps team, famously said, \"There's no place like production.\" No matter how much testing or validation you do, especially in a service-oriented world with thousands of users, you can't simulate production. The real test of your product comes when it's in the hands of your users, operating in the real world.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>This is why closing feedback loops is so crucial. It's not just about collecting data; it's about acting on that data to improve the product continuously. In a DevOps environment, feedback needs to be immediate, actionable, and directly tied to the product's success in the market.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-challenges-of-modern-risk-management\"><strong>The Challenges of Modern Risk Management</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-adapting-to-a-new-risk-profile\"><strong>Adapting to a New Risk Profile</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In today's DevOps-driven world, the risk profile is continuously evolving. We no longer have six months or a year to test a product before release. The Windows team, for example, used to operate on a six-year delivery cycle. Imagine that – six years to build, test, and release a new version of Windows! But those days are long gone.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Now, we need to:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Understand our risk profile</strong>: Recognize that the risks we face today are different from those we faced in the past.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Mitigate risk effectively</strong>: Use modern tools and techniques to manage risk without slowing down the delivery process.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Adapt quickly</strong>: Respond to changes in the market and user feedback in real-time to maintain a competitive edge.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A colleague from Boeing once shared an insight that resonated with me: \"Boeing doesn't build quality in; they test quality in.\" This aggressive testing approach is necessary in some industries, but in software development, we have the advantage of being able to release products quickly and gather real-world feedback.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-embracing-rapid-iteration\"><strong>Embracing Rapid Iteration</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In software, we don't have to suffer from the same challenges as industries like aerospace. We can:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Release quickly</strong>: Get the software out the door as fast as possible while maintaining the necessary level of quality.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Test in the real world</strong>: Validate the software in production to see how it performs in the market.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Adapt based on feedback</strong>: Use market feedback to determine whether the product is increasing or decreasing market share, and adjust accordingly.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>This rapid iteration and adaptation are at the heart of DevOps. It's about closing feedback loops and using that feedback to continuously improve the product. It's a mindset shift from the traditional model, where testing was a separate phase, to a modern approach where testing and validation are ongoing processes.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-overcoming-the-common-challenges\"><strong>Overcoming the Common Challenges</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-closing-feedback-loops\"><strong>Closing Feedback Loops</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>As we've discussed, one of the most significant challenges in adopting DevOps is closing feedback loops. To overcome this challenge:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Prioritize feedback</strong>: Ensure that feedback is gathered at every stage of development, from initial design to post-release.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Act on feedback</strong>: Don't just collect feedback – use it to make informed decisions and improve the product.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Integrate feedback into the workflow</strong>: Make feedback a natural part of the development process, not an afterthought.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-managing-modern-risk\"><strong>Managing Modern Risk</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Another common challenge is managing risk in this new, fast-paced environment. To do this effectively:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Understand the new risk profile</strong>: Recognize that the risks we face today are different from those in the past.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Use modern tools and techniques</strong>: Leverage the latest DevOps tools to manage risk without slowing down the delivery process.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Adapt to changes quickly</strong>: Be prepared to pivot based on real-world feedback and market conditions.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-conclusion-embrace-the-devops-mindset\"><strong>Conclusion: Embrace the DevOps Mindset</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Adopting DevOps practices is not without its challenges, but the benefits far outweigh the difficulties. By closing feedback loops and managing modern risks effectively, organizations can achieve:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>High-quality releases</strong>: Deliver products that meet the highest standards of quality.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Flexibility and adaptability</strong>: Respond to changes in the market quickly and efficiently.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Continuous improvement</strong>: Use real-world feedback to improve the product and increase market share.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The journey may be challenging, but with the right mindset and approach, your organization can successfully adopt DevOps practices and reap the rewards. Remember, there's no place like production – so embrace the feedback, manage the risks, and keep moving forward. 🚀</p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '52006'
+  post_date: '2024-11-15 16:00:00'
+  post_date_gmt: '2024-11-15 16:00:00'
+  post_modified: '2024-10-23 07:59:39'
+  post_modified_gmt: '2024-10-23 07:59:39'
+  comment_status: closed
+  ping_status: closed
+  post_name: the-common-challenges-of-adopting-devops-practices
+  status: future
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.15.0
+  - meta_key: _thumbnail_id
+    meta_value: '52007'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1152134;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/swHtVLD9690
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '630'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: >-
+      What common challenges do organizations face when adopting DevOps
+      practices and how does your consulting service address these issues?
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Organizations face challenges in adopting DevOps, especially in risk
+      management and feedback loops, but embracing these can drive quality and
+      adaptability.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '47'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '6'

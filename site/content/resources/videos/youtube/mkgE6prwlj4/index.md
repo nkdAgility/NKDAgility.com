@@ -1,31 +1,45 @@
 ---
-title: "Best application of Scrum in the world?"
-date: 2023-05-26T07:00:16Z
+title: What is the best application of Scrum in the world?
+date: 2023-10-10
 videoId: mkgE6prwlj4
-url: /resources/videos/best-application-of-scrum-in-the-world-
-canonicalUrl: https://www.youtube.com/watch?v=mkgE6prwlj4
+url: /resources/videos/:slug
+slug: what-is-the-best-application-of-scrum-in-the-world
 preview: https://i.ytimg.com/vi/mkgE6prwlj4/maxresdefault.jpg
 duration: 55
-isShort: True
+isShort: true
+aliases:
+- /resources/what-is-the-best-application-of-scrum-in-the-world
+- /resources/best-application-of-scrum-in-the-world
+- /resources/videos/best-application-of-scrum-in-the-world-
+
 ---
 
 {{< youtube mkgE6prwlj4 >}}
 
-# Best application of Scrum in the world?
+## Spotlight on Outstanding Scrum Application
 
-#shorts #shortsvideo #scrum is known to be the best #agileframework for complex #productdevelopment in the world. It has heaps of great case studies showcasing how the #scrumframework transformed engineering and #agile teams around the world. Martin Hinshelwood talks about his favourite #scrumcasestudy
+What might you consider to be the best application of Scrum in the world?
 
-About NKD Agility
+While it's tough to single out one application as 'the' greatest, at the same time and it's hard to declare a definitive 'best,' I definitely want to spotlight one implementation that never fails to impress me.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+That's right. We're talking about the Azure DevOps teams at Microsoft. This team never fails to have my admiration and respect.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Transitioning From Waterfall to Scrum
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+The DevOps team at Microsoft bravely took a product traditionally delivered through a waterfall methodology, saddled with heaps of technical debt, and managed to create a product that hits the right note with their customers.
 
-We would love to work with you. 
+Over about eight years, this team has managed to bridge the gap, pivoting towards Scrum and building a product that truly resonates with customers. 💡
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Projecting Forward with Efficiency
 
-[Watch on YouTube](https://www.youtube.com/watch?v=mkgE6prwlj4)
+Now, this is what I call accelerating towards progress!
+
+Get this. Here's something that will blow your mind - this team went from a build time of 20-plus hours to a mind-blowing 3.5 minutes! 🚀
+
+Now, this is an impressive prime example of how effective Scrum can be when implemented right.
+
+Are you intrigued to unravel the secrets behind the effectiveness of Scrum and Agile?
+
+Explore my Agile and Scrum courses, which might revolutionise your perspective! 😉
+
+

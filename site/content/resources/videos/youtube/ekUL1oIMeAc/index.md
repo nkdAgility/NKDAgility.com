@@ -1,32 +1,70 @@
 ---
-title: "Worst contribution from a product owner that you know of?"
-date: 2023-06-06T11:00:34Z
+title: Worst Contribution from a Product Owner that You Know Of
+date: 2023-11-07
 videoId: ekUL1oIMeAc
-url: /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
-canonicalUrl: https://www.youtube.com/watch?v=ekUL1oIMeAc
+url: /resources/videos/:slug
+slug: worst-contribution-from-a-product-owner-that-you-know-of
 preview: https://i.ytimg.com/vi/ekUL1oIMeAc/maxresdefault.jpg
 duration: 48
-isShort: True
+isShort: true
+aliases:
+- /resources/worst-contribution-from-a-product-owner-that-you-know-of
+- /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+
 ---
 
 {{< youtube ekUL1oIMeAc >}}
 
-# Worst contribution from a product owner that you know of?
+## Product Owner's Misstep
 
-#shorts #shortsvideo #shortvideo Sometimes, we learn what good looks like by examining what poor performances look and feel like. In this short video, Martin Hinshelwood talks about the worst performance he's ever witnessed from a #productowner.
+There's never a good time for a Scrum Team to be slanted, unsupported or left feeling surprised.  A Scrum Team is all about transparency, dependability and teamwork throughout good and bad situations.
 
-About NKD Agility
+## Setting the Stage at the Sprint Review 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Imagine a meeting room brimming with anticipation after all the stakes are high for every team member at a Sprint review.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Now, picture this: as the sprint review gets into full swing, the stakeholders are brimful with expectations.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+With the natural order of a Sprint Review, the next demo starts and when it wraps up, a puzzled voice rings out from the customer, questioning the very choices that led to the product's creation.   Clearly, they were not satisfied with the demo.  🤔
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+"Why did you build it that way?" they asked, voicing their dissatisfaction.
 
-We would love to work with you. 
+"You've made choices we don't like, so why did you build it that way?"
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## An Unexpected Turn
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ekUL1oIMeAc)
+In situations like this, one would hope and expect the Product Owner, the very fulcrum of decision-making and the custodian of the product vision, to step up, clarify, mediate, align expectations and be the bridge between the stakeholder and team decisions.
+
+A Scrum Team should be able to expect a shield and not a sword.
+
+However, in what was probably the worst product owner experience I've witnessed, the product owner did the exact opposite.
+
+Instead of supporting or defending the choices made, this product owner turned to the development team and surprisingly amplified the customer's concerns with a sharp, "Yes, why _did_ _you_ build it that way?"
+
+This product owner effectively unprofessionally pointed the finger right back at the development team.
+
+## Balancing Accountability and Support 
+
+The essence of a  professional product owner is to balance accountability and support for their team.    This incident highlights an often-overlooked facet of being a product owner.
+
+While it's integral to ensure that stakeholder requirements are met, it's equally crucial to stand by the team's decisions, especially when they are put on the spot.
+
+This awkward and unprofessional situation served as a stark reminder -  While accountability is a cornerstone in Agile, throwing one's team under the proverbial bus is an unanticipated, unwelcome route.
+
+It's crucial to remember that the best product owners take responsibility and support their teams in the face of criticism.
+
+## The Key Takeaway
+
+Throwing the entire team under the bus during a sprint review is far from the collaborative spirit that Agile champions.
+
+The key takeaway?
+
+It's pivotal for product owners to strike a balance between stakeholder expectations and backing their team.
+
+Are you navigating the complexities of the Scrum roles?
+
+Elevate your Agile game by joining our in-depth Scrum and Agile courses.
+
+Together, let's champion collaboration and understanding in the amazing world of Agile! 🌐
+
+

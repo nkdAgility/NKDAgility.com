@@ -151,6 +151,18 @@ function Update-YoutubeMarkdownFiles {
     # Iterate through each video folder
     Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
         $videoDir = $_.FullName
+       
+        $markdownFile = Join-Path $videoDir "index.md"
+        if (Test-Path $markdownFile) {
+            $content = Get-Content -Path $markdownFile
+            if ($content -match 'canonicalUrl:') {
+                Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
+                continue
+            }
+        }
+        Write-Host "Testing needed!"
+        exit # The above code needs tested!
+        
         $jsonFilePath = Join-Path $videoDir "data.json"
 
         if (Test-Path $jsonFilePath) {
@@ -174,8 +186,5 @@ function Update-YoutubeMarkdownFiles {
 }
 
 
-# Main calls
-#Update-YoutubeDataFile ""
-
 Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files

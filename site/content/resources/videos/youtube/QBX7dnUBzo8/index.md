@@ -1,102 +1,116 @@
 ---
-title: "Agile Techniques That Boost Startups!"
-date: 2024-01-24T07:00:16Z
+title: Addressing Systemic Issues in Agile Organizations
+date: 2024-10-04
 videoId: QBX7dnUBzo8
-url: /resources/videos/agile-techniques-that-boost-startups!
-canonicalUrl: https://www.youtube.com/watch?v=QBX7dnUBzo8
+url: /resources/videos/:slug
+slug: addressing-systemic-issues-in-agile-organizations
 preview: https://i.ytimg.com/vi/QBX7dnUBzo8/maxresdefault.jpg
 duration: 349
-isShort: False
+isShort: false
+aliases:
+- /resources/addressing-systemic-issues-in-agile-organizations
+- /resources/videos/agile-techniques-that-boost-startups!
+
 ---
 
 {{< youtube QBX7dnUBzo8 >}}
 
-# Agile Techniques That Boost Startups!
+Organizations often struggle to address the root causes of inefficiencies, particularly when adopting Agile practices. Instead of tackling the core issues within their systems, they focus on surface-level problems. This blog post will explore these systemic issues and provide insights on how to make meaningful changes that lead to greater effectiveness and agility.
 
-In this video, discover why 70% of startups fail and how adopting agile methodologies can dramatically improve your chances of success. Learn the critical agile principles that most startups overlook and gain insights into implementing effective agile practices to enhance team performance, increase ROI, and drive sustainable growth in competitive markets. Whether you're a new entrepreneur or looking to pivot your business strategy, this video is a must-watch for anyone serious about leveraging agile to its full potential.
+## **Facing the Real Problems**
 
-🌟 Discover the Real Challenge of Agile in Business with This Insightful Video! 🌟
+Many organizations are too **afraid** to address the underlying problem—the way their system works. Instead, they focus on the **little bits and pieces** around the edges. It’s common to see companies pushing responsibility down the hierarchy for some things but not for others. They implement rituals like daily stand-ups, thinking it will fix everything.
 
-👀 Why You Should Watch:
+### **Daily Rituals vs. Real Change**
 
-Unveil the deeper issues beyond surface-level Agile practices.
-Learn about measuring the right metrics for genuine improvement.
-Understand the necessity of embracing significant changes for Agile success.
-🔑 Key Highlights:
+Organizations often fall into the trap of believing that following Agile rituals will magically lead to transformation. They think that if they just **run daily stand-ups**, **plan sprints**, and **follow ceremonies**, everything will change. But in reality, these are just mechanisms—not the outcome you’re trying to achieve.
 
-Addressing Systemic Issues (00:00:00 - 00:00:24):
+You’re measuring the wrong things if you believe that simply having these rituals will lead to success. 🛑 It’s essential to **shift your focus** to the **right metrics**—those that genuinely reflect your organization’s progress.
 
-🚀 Real problem: how the system works, not just surface-level actions.
-🔄 Focus on systemic rather than peripheral changes.
+## **What Should You Be Measuring?**
 
-Beyond Daily Rituals (00:00:25 - 00:00:45):
+To create meaningful change, organizations should focus on key metrics that drive effectiveness. Here are some important metrics to consider:
 
-❗ Rituals like daily scrums aren't the end goal; look at ROI and profit per team member.
-🔍 Measure feedback loops, cost to deliver, and mean time to repair.
+- **Return on Investment (ROI)** 💰
+
+- **Profit per team member**
+
+- **Cost to deliver**
+
+- **Meantime to repair (MTTR)**
+
+- **Time to learn** 📚
+
+- **Closing feedback loops** 🔁
+
+- **Identifying market opportunities**
+
+These are the critical measurements that can guide your organization toward true improvement.
+
+### **Understanding Market Opportunities**
+
+One key area that organizations fail to address is **what they don’t know**—the opportunities they’re missing. What does your product not do that it could do? What new markets could you tap into? And how do you find this information? These are the **tough questions** that many organizations shy away from because they’re hard to answer.
+
+In fact, 70% of startups **fail** within the first few years. Even more ideas fail to convince anyone to back them financially. Understanding your market and being prepared to **pivot** when needed is crucial to surviving and thriving.
+
+## **Courage to Change: A Lesson from Consulting**
+
+As an Agile coach, one of my biggest regrets stems from a **consulting engagement** nearly ten years ago. I was working with a CEO who had just led a major **reorganization** of the company into silos. The CEO asked me a critical question:
+
+“Should we throw out the changes we’ve made and reorganize differently?”
+
+I gave what I thought was a reasonable answer at the time: “No, you can change slowly and iteratively toward the outcome you want.”
+
+In hindsight, that was the wrong answer.
+
+## **The Band-Aid Approach: Rip It Off!**
+
+The right answer should have been, **"Yes, rip off that Band-Aid!"** 🩹 Reorganizing into even more silos was a **step in the wrong direction**, and the CEO should have been encouraged to take faster and more decisive action. Reorganizations are **expensive**, and incremental changes often lead to **ongoing pain** and **hemorrhaging of money**.
+
+Sometimes, the best approach is to make the big, bold moves upfront, even though they’re uncomfortable. It’s about having the **courage** to admit that the current system isn’t working and making the necessary changes to ensure long-term success.
+
+## **Overcoming Agile Atrophy**
+
+One of the most common challenges I see in organizations is **Agile atrophy**. Teams become disengaged with Agile practices because the system around them hasn’t changed. They start saying things like, “I can’t be bothered with Agile anymore.”
+
+This happens because **Agile** isn’t just a set of ceremonies or rituals. It requires **fundamental changes** in the way you do business at every level of the organization. If you don’t address the deeper structural issues, **Agile won’t work**.
+
+### **Agile Isn’t a Magic Fix**
+
+Agile doesn’t magically make your organization better. It’s about **systematic and continuous improvement**—taking small steps in some cases, but also being willing to make **big jumps** when necessary.
+
+The question is, do you have the **courage** to make those changes? 🚀
+
+## **The Role of Agile Coaches: A Personal Reflection**
+
+As an Agile coach, I’ve learned that my role isn’t just about helping teams adopt Agile rituals. It’s about helping organizations face the **tough decisions** and embrace the **changes** they need to make.
+
+I’ve seen too many organizations hire Agile coaches without truly committing to the **transformational changes** that are required. Agile coaches can guide teams and leaders, but ultimately, the organization must be willing to **change its system**.
+
+### **Consulting Challenges and Lessons Learned**
+
+Reflecting on my past consulting experience, I’ve learned the importance of **speaking up** and recommending the right course of action, even when it’s difficult. The CEO I worked with years ago could have benefited from more direct advice—**ripping off the Band-Aid** instead of slowly trying to change.
+
+These are the types of lessons that shape us as coaches and consultants. It’s not always easy to tell leaders they need to change, but it’s essential if we want to create **lasting improvements**.
+
+## **Systematic and Continuous Improvement**
+
+At the heart of Agile is the concept of **systematic and continuous improvement**. Whether you’re making small, incremental changes or taking big leaps, the goal is always to improve your organization’s **effectiveness**.
+
+🔄 **Continuous improvement** isn’t just about tweaking your Agile ceremonies. It’s about improving your entire **business system** so that Agile can truly thrive.
+
+**Key Takeaways:**
+
+- Agile isn’t a magic fix—it requires **fundamental changes** at every level of the organization.
+
+- Don’t focus solely on rituals and ceremonies; instead, measure **ROI**, **profit per team member**, and other meaningful metrics.
+
+- Be willing to make the **big, bold changes** necessary for long-term success.
+
+- **Agile coaches** can guide you, but real change starts with **organizational courage**.
+
+## **Personalized Assistance and Learning**
+
+If you’re ready to address the **systemic issues** in your organization and make meaningful changes, I’d love to help.
 
 
-Identifying Market Opportunities (00:00:45 - 00:01:47):
-
-📈 Focus on what your product could do to seize market opportunities.
-🚧 Acknowledge the high failure rate of startups and ideas.
-
-Effectiveness in Market Context (00:01:47 - 00:02:20):
-
-💡 Building products requires focus on business effectiveness within market contexts.
-🎯 Courage to admit and make necessary changes is key.
-
-The Role of Agile Coaches (00:02:20 - 00:02:44):
-
-🏋️‍♂️ Agile coaches should encourage profound organizational change.
-
-Consulting Challenges and Regrets (00:02:44 - 00:03:52):
-
-🤔 Reflecting on past consulting experiences with organizational silos.
-🛑 Avoid costly and ineffective reorganizations.
-
-Ripping Off the Band aid (00:03:52 - 00:04:44):
-
-🚧 Sometimes, drastic and rapid changes are necessary for Agile success.
-🤕 Address the fundamental issues rather than opting for slow, painful adjustments.
-
-Overcoming Agile Atrophy (00:04:44 - 00:05:14):
-
-📉 Tackling the root causes behind Agile stagnation and resistance.
-🔄 Fundamental business changes are essential for true agility.
-Systematic and Continuous Improvement (00:05:14 - 00:05:34):
-
-📊 Emphasizing the need for both small and big jumps in organizational effectiveness.
-🦸‍♂️ Courage to make significant changes is crucial.
-
-Personalized Assistance and Learning (00:05:34 - 00:05:48):
-
-📞 Open invitation for discussions on unique needs at Naked Agility AECOM.
-🎓 Access to immersive and traditional classes offered.
-👍 Why You Should Like and Subscribe:
-
-Equip yourself with the knowledge to tackle core Agile challenges.
-Gain insights into making impactful changes in your organization.
-Access expert guidance and comprehensive Agile training.
-
-🔗 Don't Miss Out!
-
-🌟 Like, Subscribe, and Transform Your Approach to Agile!
-📢 Share this video to help others navigate Agile complexities.
-📚 Explore more at Naked Agility for further learning.
-
-About Naked Agility
-
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
-
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
-
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
-
-We would love to work with you. 
-
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg 
-
-The Agile Secret That 70% of Startups Don't Know
-
-[Watch on YouTube](https://www.youtube.com/watch?v=QBX7dnUBzo8)

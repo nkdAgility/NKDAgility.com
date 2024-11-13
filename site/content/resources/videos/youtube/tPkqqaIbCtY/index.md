@@ -1,12 +1,13 @@
 ---
-title: " shorts 7 Virtues of agile. Kindness"
+title: ' shorts 7 Virtues of agile. Kindness'
 date: 2023-12-11T11:00:47Z
 videoId: tPkqqaIbCtY
 url: /resources/videos/-shorts-7-virtues-of-agile-kindness
 canonicalUrl: https://www.youtube.com/watch?v=tPkqqaIbCtY
 preview: https://i.ytimg.com/vi/tPkqqaIbCtY/maxresdefault.jpg
 duration: 48
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube tPkqqaIbCtY >}}
@@ -27,3 +28,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPkqqaIbCtY)
+
+

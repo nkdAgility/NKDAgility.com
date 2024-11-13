@@ -1,12 +1,13 @@
 ---
-title: "5 kinds of Agile bandits. Planning Bandits"
+title: 5 kinds of Agile bandits. Planning Bandits
 date: 2024-01-09T07:00:05Z
 videoId: BtHASX2lgGo
 url: /resources/videos/5-kinds-of-agile-bandits-planning-bandits
 canonicalUrl: https://www.youtube.com/watch?v=BtHASX2lgGo
 preview: https://i.ytimg.com/vi/BtHASX2lgGo/maxresdefault.jpg
 duration: 324
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube BtHASX2lgGo >}}
@@ -40,3 +41,5 @@ Because you don't just need agility, you need Naked Agility.
 #Sprint, #ScrumTeam, #SprintPlanning, #ContinuousImprovement, #ProductBacklog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=BtHASX2lgGo)
+
+

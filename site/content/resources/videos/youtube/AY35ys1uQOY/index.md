@@ -1,32 +1,60 @@
 ---
-title: "How do you know if you've got a great sprint goal?"
-date: 2023-06-02T11:00:12Z
+title: How do you know if you've got a great Sprint Goal?
+date: 2023-10-16
 videoId: AY35ys1uQOY
-url: /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
-canonicalUrl: https://www.youtube.com/watch?v=AY35ys1uQOY
+url: /resources/videos/:slug
+slug: how-do-you-know-if-you-ve-got-a-great-sprint-goal
 preview: https://i.ytimg.com/vi/AY35ys1uQOY/maxresdefault.jpg
 duration: 43
-isShort: True
+isShort: true
+aliases:
+- /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
+- /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
+
 ---
 
 {{< youtube AY35ys1uQOY >}}
 
-# How do you know if you've got a great sprint goal?
+## Is Your Sprint Goal Hitting the Mark?
 
-#shorts #shortsvideo #shortvideo A #sprintgoal is super important in the context of #scrum and aligns the teams with strategic customer and organizational objectives. In this short video, Martin Hinshelwood explains how a #scrumteam know if they have crafted a valuable #sprintgoal
+Hello, Agile aficionados!
 
-About NKD Agility
+Today, we tackle a very popular question that reverberates throughout the corridors of the Agile world.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Are you ready? 🎯
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+So, without further ado, here it is: "How can you tell if your sprint goal is truly great?" 🌟
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+It may seem like a simple question, but the response often is one that requires keen introspection.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+For me, the answer, while seemingly straightforward, is nuanced and resonates far beyond the surface. 💡
 
-We would love to work with you. 
+## Defining Greatness in Sprint Goals
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Let's break it down.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=AY35ys1uQOY)
+Here's the secret: You'll know that your sprint goal is great if it sparks excitement and intrigue among stakeholders and developers. 🚀
+
+In essence, your sprint goal has hit a home run if it incites genuine enthusiasm and curiosity in your team when they look at the sprint goal and exclaim, "Wow! This is awesome!" 🎯
+
+Enthusiasm is key!
+
+That's your litmus test for a top-notch sprint goal. 💫
+
+## The Golden Nugget
+
+When your sprint goal has the power to pique curiosity, sparking questions like "How does this work?", "What does this mean?" and "How can we make this happen?" you can bet that you've hit the 'Scrum' bullseye. 🎯
+
+It's all about creating a buzz, stirring up interest, stoking enthusiasm, and generating that collective, anticipatory "We can't wait to get started!" energy. 🎉
+
+Remember that a sprint goal isn't merely a statement of intent or a to-do list for the team.
+
+It's your spark plug. It's an energiser, a conversation catalyst, and a beacon guiding your team towards innovation and success. 🚀
+
+So, if your sprint goal is generating these kinds of responses and dialogues, you're not just on the right track – you're cruising in the fast lane. 👏
+
+Interested in learning more about Agile and Scrum?
+
+Check out my Agile and Scrum courses and let's unravel more Agile mysteries together – one sprint goal at a time! 🔍
+
+

@@ -1,12 +1,15 @@
 ---
-title: "Can you talk about the Kanban workshop and why it's a great option for organizations"
+title: Can you talk about the Kanban workshop and why it's a great option for organizations
 date: 2023-08-23T07:00:10Z
 videoId: RSPw8pZ9NT8
 url: /resources/videos/can-you-talk-about-the-kanban-workshop-and-why-it's-a-great-option-for-organizations
 canonicalUrl: https://www.youtube.com/watch?v=RSPw8pZ9NT8
 preview: https://i.ytimg.com/vi/RSPw8pZ9NT8/maxresdefault.jpg
 duration: 466
-isShort: False
+isShort: false
+aliases:
+- /resources/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+
 ---
 
 {{< youtube RSPw8pZ9NT8 >}}
@@ -32,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RSPw8pZ9NT8)
+
+

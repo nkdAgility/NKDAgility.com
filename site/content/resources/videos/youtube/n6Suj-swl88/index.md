@@ -1,12 +1,13 @@
 ---
-title: "Who should lead the sprint review?"
+title: Who should lead the sprint review?
 date: 2023-09-06T07:00:15Z
 videoId: n6Suj-swl88
 url: /resources/videos/who-should-lead-the-sprint-review-
 canonicalUrl: https://www.youtube.com/watch?v=n6Suj-swl88
 preview: https://i.ytimg.com/vi/n6Suj-swl88/maxresdefault.jpg
 duration: 286
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube n6Suj-swl88 >}}
@@ -41,3 +42,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n6Suj-swl88)
+
+

@@ -1,41 +1,86 @@
 ---
-title: "In WIP, less is more, why?"
-date: 2023-05-09T07:00:19Z
+title: In WIP, less is more.  Why?
+date: 2023-10-10
 videoId: yEu8Fw4JQWM
-url: /resources/videos/in-wip,-less-is-more,-why-
-canonicalUrl: https://www.youtube.com/watch?v=yEu8Fw4JQWM
+url: /resources/videos/:slug
+slug: in-wip-less-is-more-why
 preview: https://i.ytimg.com/vi/yEu8Fw4JQWM/maxresdefault.jpg
 duration: 263
-isShort: False
+isShort: false
+aliases:
+- /resources/in-wip-less-is-more-why
+- /resources/videos/in-wip,-less-is-more,-why-
+
 ---
 
 {{< youtube yEu8Fw4JQWM >}}
 
-# In WIP, less is more, why?
+## Why Less is Always More When It Comes to WIP
 
-*Mastering Workflow: The Art of Doing More With Less in Agile & Scrum*
+I'm sure most of you in the Agile world have heard the acronym WIP, which stands for 'work in progress'. 🤔
 
-Uncover the secrets to supercharging productivity with a minimalist approach in project management. Dive deep as we unravel the power of 'Less is More' to transform your workflow.
+I think there's much more to unpack on this principle that might initially sound quite counterintuitive. 📈
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+For example, "In Work in Progress (WIP), Less is Indeed More."
 
-In this video, Martin 💡 illuminates the Kanban mantra of 'Stop Starting, Start Finishing' and how it revolutionizes task management. He draws comparisons to computer operations 🖥️ to illustrate the high cost of multitasking and context switching. Discover how to streamline your work process, and why tackling fewer tasks can lead to greater efficiency and output. 🚀
+Let me explain.
 
-00:00:06 The 'Less is More' Principle  
-00:00:44 The High Cost of Multitasking  
-00:01:31 Gerald Weinberg's Context Switching Analysis  
-00:02:05 Scrum Teams & Task Fragmentation  
-00:03:07 Workflow Analogy: Pipes & Marbles  
+## Stop Starting.  Start Finishing
 
-*NKDAgility can help!*  
+Ever felt overwhelmed by juggling too many tasks at once?
 
-If you _struggle to manage multiple tasks effectively_ or find it hard to optimize your workflow, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can. Don't let issues hamper your value delivery – seek assistance promptly!
+In the world of Kanban, there is a saying: "Stop starting work and start finishing work." This isn't just a catchy phrase; it's a profound realisation.  ⏳
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/  
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
+Wow, there's a lot of math to unpack there if you want to go into it," but in the heart of Kanban, the mantra resonates differently: "Stop starting work and start finishing work.
 
-Because you don't just need agility, you need Naked Agility.
+Why, you ask?
 
-#scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
+It's simple.  The Kanban principle understands that the more items we have in play simultaneously, the more our attention gets fragmented, making us less productive overall.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=yEu8Fw4JQWM)
+The Real Cost of Multitasking    Context Switching Dilemma
+
+Have you ever considered the real cost of 'multitasking'? 🔄
+
+When you have a myriad of tasks on your plate, you invariably find yourself jumping between them.  This constant shift, in essence, results in losing more time to jumping between those things.
+
+So, here's a geeky analogy for you - consider how your computer system, like 'paging in Windows, manages multiple tasks.  If your computer tries to do too much, it continually unloads and reloads tasks.  This results in significant lag, often causing the system to freeze.  💻
+
+Our brains operate similarly.  Every time we shift focus, we undergo a mental "context switch," which makes multitasking less efficient than we'd like to believe.
+
+As I often say, "Our brains are just big computers." Overburden them, and you'll see the repercussions.
+
+## An Interesting Insight
+
+In Gerald Weinberg's "Systems Thinking" book, an analysis reveals that context switching could cost us about 20% of our time per additional project.  📚
+
+So, if you're working on five projects, you're left with a mere 20% of your time for all of them.
+
+Sounds counterproductive, doesn't it?
+
+Let that sink in!
+
+## Too Many Marbles
+
+Picture this: marbles flowing through pipes.  Now, throw in a couple of rocks.  Those marbles will struggle to move around the rocks.  In the realm of product development, these "rocks" are large tasks that clog up our workflow, slowing everything down.
+
+I like to refer to this as the 'pipe' analogy.
+
+The solution?
+
+Keep tasks smaller.  Think of them as water molecules seamlessly flowing through pipes.  Such tasks move through systems effortlessly, enabling teams to achieve more in less time. 🎯
+
+As I like to put it, "Have less stuff on the go and you'll get more stuff done."
+
+## The Bottom Line
+
+To wrap this up, when building products or undertaking any engineering work, essentially in any realm of work, remember – 'less is always more'.
+
+And having fewer tasks in progress means more genuine productivity.
+
+Focus.  Finish.  Then move on.  ✅
+
+It's not about reducing quality or output but streamlining processes and focusing on completion rather than juggling.
+
+For those interested in diving deeper into Agile, Kanban, or Scrum and learning how to create a more efficient work environment, consider checking out our upcoming courses.
+
+

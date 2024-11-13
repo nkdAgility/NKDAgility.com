@@ -1,12 +1,13 @@
 ---
-title: "What is your favourite agile course to deliver and why?"
+title: What is your favourite agile course to deliver and why?
 date: 2023-01-09T12:36:53Z
 videoId: vI2LBfMkPuk
 url: /resources/videos/what-is-your-favourite-agile-course-to-deliver-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=vI2LBfMkPuk
 preview: https://i.ytimg.com/vi/vI2LBfMkPuk/maxresdefault.jpg
 duration: 200
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube vI2LBfMkPuk >}}
@@ -34,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vI2LBfMkPuk)
+
+

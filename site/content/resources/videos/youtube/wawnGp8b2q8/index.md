@@ -1,12 +1,15 @@
 ---
-title: "If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?"
+title: If you could distil the PAL e immersive learning experience into 3 major benefits, what are they?
 date: 2023-07-13T12:20:07Z
 videoId: wawnGp8b2q8
 url: /resources/videos/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits,-what-are-they-
 canonicalUrl: https://www.youtube.com/watch?v=wawnGp8b2q8
 preview: https://i.ytimg.com/vi/wawnGp8b2q8/maxresdefault.jpg
 duration: 196
-isShort: False
+isShort: false
+aliases:
+- /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+
 ---
 
 {{< youtube wawnGp8b2q8 >}}
@@ -32,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wawnGp8b2q8)
+
+
