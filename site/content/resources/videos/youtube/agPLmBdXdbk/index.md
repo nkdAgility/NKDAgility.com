@@ -1,34 +1,40 @@
 ---
-title: "Must have trait in an agile consultant"
-date: 2023-05-01T09:30:00Z
+title: Must have trait in an Agile Consultant
+date: 2023-08-02
 videoId: agPLmBdXdbk
-url: /resources/videos/must-have-trait-in-an-agile-consultant
-canonicalUrl: https://www.youtube.com/watch?v=agPLmBdXdbk
+url: /resources/videos/:slug
+slug: must-have-trait-in-an-agile-consultant
 preview: https://i.ytimg.com/vi/agPLmBdXdbk/maxresdefault.jpg
 duration: 39
-isShort: True
+isShort: true
+aliases:
+- /resources/must-have-trait-in-an-agile-consultant
+- /resources/videos/must-have-trait-in-an-agile-consultant
+
 ---
 
 {{< youtube agPLmBdXdbk >}}
 
-# Must have trait in an agile consultant
+**Must have trait in an Agile Consultant**
 
-#shorts #agileconsulting requires you to help clients solve complex problems in very rapid iterations. Ultimately, you're being brought in to an #agile or #scrum environment with the intention of helping the organization solve problems that they are battling to solve on their own.
+What's the one must have trait that an Agile Consultant absolutely needs? Whilst there are many important traits that are important, I’d say it has to be tenacity! 💪
 
-What would be the single most important trait of an #agileconsultant? In this short video, Martin Hinshelwood highlights the number one trait for an aspiring #agileconsultant 
+The ability to zero in on what truly matters to the organization you're serving and to persistently pursue it is crucial to the success of your coaching.
 
-About NKD Agility
+A major part of that tenacity kicks in once you've pinpointed the areas that require change and cross-verified your assumptions, it's then time to strap in and sprint forward with laser focus. 🎯
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+And when, not if, the naysayers within the organization begin to put forward potential problems or hurdles, remember to don your armor of tenacity and continue to forge ahead.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+It's about moving forward undeterred with focus, no matter what obstacles may arise or what the doubters may say! 🏃‍♂️
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+#AgileConsultant #Tenacity #ChangeAgents #LaserFocus #IgnoreTheNoise #PersistencePays #AgileJourney
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Keywords:        Persistence Pays, Agile Journey
 
-We would love to work with you. 
+Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #IgnoreTheNoise
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+General
 
-[Watch on YouTube](https://www.youtube.com/watch?v=agPLmBdXdbk)
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+

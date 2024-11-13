@@ -1,12 +1,13 @@
 ---
-title: "What is your 1 tip for effective sprint planning?"
+title: What is your 1 tip for effective sprint planning?
 date: 2023-05-26T14:00:37Z
 videoId: uQ786VBz3Jw
 url: /resources/videos/what-is-your-1-tip-for-effective-sprint-planning-
 canonicalUrl: https://www.youtube.com/watch?v=uQ786VBz3Jw
 preview: https://i.ytimg.com/vi/uQ786VBz3Jw/maxresdefault.jpg
 duration: 246
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube uQ786VBz3Jw >}}
@@ -33,3 +34,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uQ786VBz3Jw)
+
+

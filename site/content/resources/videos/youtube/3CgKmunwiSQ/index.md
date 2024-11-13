@@ -1,68 +1,146 @@
 ---
-title: "Traditional Management vs Evidence Based Management"
-date: 2024-09-12T07:00:02Z
+title: 'Understanding the Difference: Traditional Management vs. Evidence-Based Management'
+date: 2024-11-18
 videoId: 3CgKmunwiSQ
-url: /resources/videos/traditional-management-vs-evidence-based-management
-canonicalUrl: https://www.youtube.com/watch?v=3CgKmunwiSQ
+url: /resources/videos/:slug
+slug: understanding-the-difference-traditional-management-vs-evidence-based-management
 preview: https://i.ytimg.com/vi/3CgKmunwiSQ/maxresdefault.jpg
 duration: 395
-isShort: False
+isShort: false
+aliases:
+- /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
+- /resources/videos/traditional-management-vs-evidence-based-management
+
 ---
 
 {{< youtube 3CgKmunwiSQ >}}
 
-# Traditional Management vs Evidence Based Management
+## **What Is Traditional Management?**
 
-Traditional Management vs. Evidence-Based Management (EBM)
+Traditional management is a term often used to describe the approach many managers have used for decades, if not centuries. While the term "traditional" might seem outdated, it's a method that many still rely on. In essence, traditional management practices are:
 
-📘 Introduction to the Differences Between Traditional and Evidence-Based Management
+- **Experience-based**: Decisions are often made based on past experiences rather than current data.
 
-- Traditional Management vs. Evidence-Based Management:
-  - Many people ask about the distinction between traditional management and evidence-based management (EBM). Interestingly, evidence-based practices have existed for decades, and some managers were applying these techniques long before it became a formal approach. The key difference lies in how decisions are made: traditional management often relies on intuition or hierarchy, while EBM focuses on data-driven decisions.
+- **Top-down decision-making**: Managers make decisions independently or escalate them up the hierarchy.
 
-🔍 Key Concepts in Traditional Management vs. EBM
+- **Focus on authority**: The manager or someone senior typically has the final say.
 
-1. 📊 Data-Driven Decisions in EBM:
-   - EBM requires the collection and interpretation of data to inform decision-making. Managers must assess the data to understand the potential impacts and outcomes.
-   - Traditional management often relies on two approaches:
-     - Intuitive decision-making: "I'm the manager, I’ll make the call."
-     - Escalation-based decision-making: "Let me ask someone more senior to make the decision."
-  
-2. 🤔 Measuring for Success:
-   - In traditional management, decisions may be made without considering the evidence or clear outcomes. Evidence-based management, on the other hand, asks critical questions:
-     - "Why are we doing this?"
-     - "What do we hope the outcome will be?"
-     - "How will we measure success?"
+One personal story highlights this well. I gave my father a book on evidence-based management about ten years ago. He read it and told me, “Oh, that’s what I’ve been doing for the last 40 years in my company!” This shows that the principles of evidence-based thinking have been around for a long time but weren’t always framed in this way.
 
-🚀 The Challenge of Evidence-Based Management
+## **Evidence-Based Management: A New Perspective**
 
-1. 📈 Vanity Metrics in Traditional Management:
-   - Traditional managers often use vanity metrics, focusing on numbers that make them look good rather than metrics that help the organization succeed. These metrics don’t provide an accurate picture of what’s happening at a larger scale, creating a suboptimal decision-making process.
-   
-   - Example: Story points and velocity are often used to measure productivity. While they can be helpful within a team, they don’t provide useful data for decisions at the organizational level.
+Unlike traditional management, evidence-based management requires a shift in how we make decisions. It’s about:
 
-2. 💡 Holistic Approach in EBM:
-   - EBM looks at the whole system rather than just one part. The focus is on whether the decisions made will help the entire organization achieve its goals, rather than just making an individual manager look good.
+- **Collecting data** 📊: Gathering quantitative and qualitative data is at the heart of this approach.
 
-⚖️ Making Better Decisions with EBM
+- **Analyzing evidence** 🧠: Making decisions based on what the data reveals rather than gut feelings.
 
-1. 🧠 Collecting Evidence:
-   - In EBM, decisions are based on collecting and validating evidence. The key is to figure out whether the evidence is good or bad and then make informed decisions.
+- **Validating outcomes** ✅: Ensuring that decisions lead to the desired outcomes through continuous measurement and adjustment.
 
-2. 🚫 Moving Beyond Vanity Metrics:
-   - Metrics like velocity or story points might make teams or managers feel productive, but they don’t provide the full picture of what’s truly driving success. EBM encourages focusing on outcomes and progress toward organizational goals, rather than surface-level metrics.
+This method is particularly challenging because it requires patience and diligence. It’s not about making decisions based on what feels right at the moment but rather relying on what the data tells us.
 
-🌟 Conclusion: Why EBM is Superior to Traditional Management
+## **Why Evidence-Based Management is Hard**
 
-- EBM Encourages Better Decision-Making:
-  - Evidence-based management allows organizations to make decisions that are informed by data, which is critical for driving real outcomes and success.
-  
-- Moving Away from "Making It Up":
-  - Rather than relying on gut feelings or hierarchy to make decisions, EBM focuses on gathering and validating evidence to optimize success at every level of the organization.
+Evidence-based management is not easy, and many managers struggle to adopt it. Here are a few reasons why:
 
-- Focus on the Bigger Picture:
-  - While traditional management may focus on metrics that benefit individuals, EBM looks at the whole system, ensuring decisions are made to benefit the entire organization and align with its goals.
+- **Time-consuming** ⏳: It takes time to collect and analyze data before making a decision.
 
-Visit https://www.nkdagility.com to discover how we can help you lead with Evidence-based Management in your #productdevelopment and #agileprojectmanagement
+- **Resistance to change** 🛑: Managers who are used to making decisions based on intuition may find it difficult to shift to a data-driven approach.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=3CgKmunwiSQ)
+- **Focus on vanity metrics**: Too often, managers focus on metrics that make them look good rather than those that reflect real progress.
+
+### **Vanity Metrics vs. Valuable Metrics**
+
+A common pitfall in evidence-based management is focusing on "vanity metrics." These are metrics that:
+
+- Make managers look good 📈
+
+- Are easy to collect but don’t necessarily drive value for the organization.
+
+- Include things like story points, velocity, or the sum of tasks completed per sprint.
+
+**Example**: Imagine a product owner who makes decisions solely based on velocity—the sum of story points completed each sprint. This might look impressive on paper, but it doesn’t necessarily mean the product is delivering value to the customer. It’s like judging a race based on how fast a car is going without considering if it’s going in the right direction.
+
+## **Common Decision-Making Pitfalls in Traditional Management**
+
+In traditional management, decision-making often happens in one of two ways:
+
+1. **Making it up** 🤷: A manager might make a decision based solely on their authority without consulting data.
+
+3. **Escalation-based decisions** 📢: When a manager is unsure, they ask someone more senior to make the decision, leading to a reliance on hierarchy rather than evidence.
+
+Both approaches can lead to suboptimal outcomes, especially when dealing with complex, multi-million-dollar decisions. Instead, managers should be asking:
+
+- Why are we making this decision?
+
+- What do we hope to achieve?
+
+- How will we measure success?
+
+## **The Importance of Asking "Why?"**
+
+Just like a courtroom requires evidence before reaching a verdict, organizations should require evidence before making decisions. This involves:
+
+- **Gathering evidence** 📑: Collecting data that is relevant to the decision at hand.
+
+- **Analyzing data with a team** 🧑‍🤝‍🧑: Bringing together diverse perspectives to interpret the evidence.
+
+- **Making informed decisions** 💡: Using the data to guide the direction of the team or organization.
+
+This approach helps to avoid making decisions based solely on gut feelings, which can be unreliable.
+
+## **Story Points, Velocity, and the Danger of Misinterpretation**
+
+One of the most glaring examples of misused metrics in Agile environments is the obsession with story points and velocity. Here’s why it’s problematic:
+
+- **Story points and velocity can be misleading**: Outside of the team’s context, these metrics don’t provide a true picture of progress.
+
+- **Managers focus on looking good rather than delivering value**: Decisions are made to improve these numbers, even when they don’t reflect real progress.
+
+## **A Better Approach: Focus on Systemic Impact** **🌟**
+
+To truly embrace evidence-based management, leaders need to look beyond vanity metrics and ask deeper questions:
+
+- Is this metric helping the entire organization achieve its vision?
+
+- Are we focusing on the outcomes that matter most to our customers?
+
+- Are we validating our assumptions with real data?
+
+By focusing on these questions, managers can make decisions that are good for the entire system, not just for their own performance reviews.
+
+## **Transforming Organizations with Evidence-Based Management**
+
+Making the shift from traditional to evidence-based management is not easy, but it’s essential for organizations that want to thrive in a data-driven world. Here’s how managers can start:
+
+1. **Commit to data collection** 📊: Make it a habit to gather data regularly before making any major decision.
+
+3. **Encourage team-based analysis** 🧑‍🤝‍🧑: Bring in diverse viewpoints to analyze the data and avoid biases.
+
+5. **Validate outcomes** ✅: Continuously measure the impact of decisions to ensure they align with the organization’s goals.
+
+7. **Avoid vanity metrics** 🚫: Focus on metrics that drive true value rather than those that look good on paper.
+
+## **Personal Experience: The Shift in My Own Practice**
+
+When I first encountered the concept of evidence-based management, it was a game changer. I used to think that making decisions based on my experience and intuition was enough. But I quickly realized that:
+
+- **Data provides a clearer picture**: It highlighted issues that I wouldn’t have noticed otherwise.
+
+- **Collaboration leads to better insights**: Working with my team to analyze data brought out perspectives I hadn’t considered.
+
+- **Validating outcomes helped us course-correct**: By continuously measuring our progress, we could make adjustments faster, leading to better results.
+
+## **Final Thoughts: Embrace Evidence for Better Decision-Making**
+
+Evidence-based management is not just a buzzword; it's a way to make smarter, more informed decisions. While it might be challenging to adopt at first, the benefits are clear:
+
+- **Better alignment with organizational goals** 🎯
+
+- **More informed decisions** 🧠
+
+- **A culture of continuous improvement** 📈
+
+The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟
+
+

@@ -1,12 +1,13 @@
 ---
-title: "How is technology like AI changing the world we work in?"
+title: How is technology like AI changing the world we work in?
 date: 2023-07-05T14:49:20Z
 videoId: fcOSewXez3I
 url: /resources/videos/how-is-technology-like-ai-changing-the-world-we-work-in-
 canonicalUrl: https://www.youtube.com/watch?v=fcOSewXez3I
 preview: https://i.ytimg.com/vi/fcOSewXez3I/maxresdefault.jpg
 duration: 263
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube fcOSewXez3I >}}
@@ -31,3 +32,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fcOSewXez3I)
+
+

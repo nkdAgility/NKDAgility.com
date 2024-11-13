@@ -1,32 +1,53 @@
 ---
-title: "Most common thing you hear in a PSM 1 course?"
-date: 2023-06-28T11:00:24Z
+title: Most Common Thing You Hear in a PSM 1 Course?
+date: 2023-11-15
 videoId: h5TG3MbP0QY
-url: /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
-canonicalUrl: https://www.youtube.com/watch?v=h5TG3MbP0QY
+url: /resources/videos/:slug
+slug: most-common-thing-you-hear-in-a-psm-1-course
 preview: https://i.ytimg.com/vi/h5TG3MbP0QY/maxresdefault.jpg
 duration: 56
-isShort: True
+isShort: true
+aliases:
+- /resources/most-common-thing-you-hear-in-a-psm-1-course-2
+- /resources/most-common-thing-you-hear-in-a-psm-1-course
+- /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+
 ---
 
 {{< youtube h5TG3MbP0QY >}}
 
-# Most common thing you hear in a PSM 1 course?
+## "But in the Real World..."
 
-#shorts #shortvideo #shortsvideo Martin Hinshelwood highlights the most common thing he hears on a professional scrum master course from delegates.
+I've been guiding numerous students through the nuances of PSM 1, and there's a recurring phrase I often hear, which is, "But in the real world..." 🌍
 
-About NKD Agility
+This has become an echo of the PSM 1 Class.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+This sentiment tends to arise precisely when we discuss the profound domain of moral flexibility.  🤔
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Moral Obligation vs. Real-World Compromises
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Within the framework of PSM, our conversation gravitates towards our undeterred moral obligation.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+In other words, we emphasise our unwavering moral responsibility to our customers always to tell the truth. 💡
 
-We would love to work with you. 
+Yet, during discussions, many participants interject with, "But in the real world, we have to tell our customer how long it will take and how much it will cost upfront."
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Handing Over the 'Squirrel' Burger
 
-[Watch on YouTube](https://www.youtube.com/watch?v=h5TG3MbP0QY)
+But hold on a second, by asserting such a claim, aren't we compromising on our moral integrity?  Essentially, we might just be serving our customers a "squirrel" burger, a facade that isn't what we claim to be. 🍔
+
+Imagine your client's reaction when they realise the promises were not as transparent as they believed.  It's far from what we painted it to be, and it's troubling to ponder that customers might seal deals based on such misleading premises.
+
+## Championing Honesty in Agile
+
+Such reflective moments in the class always underline the paramount importance of moral inflexibility.
+
+Let's not tweak our integrity to navigate tricky waters or to frame comfortable narratives.
+
+Let's challenge these 'real world' assertions and hold ourselves to the highest standards of truth and transparency.
+
+If you're ready to delve into understanding Agile and Scrum's true essence, join my courses and let's debunk these myths together! 🚀
+
+Let's champion honesty in our Agile journey!
+
+

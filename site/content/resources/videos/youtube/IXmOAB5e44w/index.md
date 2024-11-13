@@ -1,12 +1,13 @@
 ---
-title: "Referral program. 20% of the course fee credited to your account."
+title: Referral program. 20% of the course fee credited to your account.
 date: 2023-06-15T07:00:06Z
 videoId: IXmOAB5e44w
 url: /resources/videos/referral-program-20-of-the-course-fee-credited-to-your-account-
 canonicalUrl: https://www.youtube.com/watch?v=IXmOAB5e44w
 preview: https://i.ytimg.com/vi/IXmOAB5e44w/maxresdefault.jpg
 duration: 147
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube IXmOAB5e44w >}}
@@ -34,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IXmOAB5e44w)
+
+

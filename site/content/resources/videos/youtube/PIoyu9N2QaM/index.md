@@ -1,44 +1,84 @@
 ---
-title: "What is the difference between a newbie scrum master and a seasoned, experienced scrum master?"
-date: 2023-04-06T07:00:08Z
+title: What is the difference between a newbie scrum master and a professional Scrum Master?
+date: 2023-10-09
 videoId: PIoyu9N2QaM
-url: /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
-canonicalUrl: https://www.youtube.com/watch?v=PIoyu9N2QaM
+url: /resources/videos/:slug
+slug: transform-your-software-team-with-expert-product-development-mentoring
 preview: https://i.ytimg.com/vi/PIoyu9N2QaM/maxresdefault.jpg
 duration: 363
-isShort: False
+isShort: false
+aliases:
+- /resources/transform-your-software-team-with-expert-product-development-mentoring
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
+- /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
+- /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+
 ---
 
 {{< youtube PIoyu9N2QaM >}}
 
-# What is the difference between a newbie scrum master and a seasoned, experienced scrum master?
+## Unpacking the Differences
 
-*Mastering Scrum: Insights from a Seasoned Agile Coach*
+A newbie vs professional Scrum Master could be considered a misconception.
 
-Dive into the world of Scrum with experienced Agile Coach Martin, as he reveals the nuances between novice and veteran Scrum Masters. Get ready to elevate your Scrum game!
+Allow me to explain why.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+In the Agile world, and particularly in Scrum, answering an intriguing question like the title of this article can be tricky. Still, as I'm often asked, - "What's the difference between a newbie Scrum Master and a professional Scrum Master?" I'll tackle it and let's look at the differences together.  🎯
 
-In this video, Martin delves deep into the Scrum universe, comparing the journeys of new and seasoned Scrum Masters. 🌟 He emphasizes the crucial role of experience and context in mastering Scrum, and how this shapes one's approach to project management. 🚀 Whether you're just starting out or looking to refine your skills, this video is a treasure trove of insights and wisdom from a seasoned Agile expert. 📈
+Is There Such a Thing as a 'Newbie' or a 'Professional' Scrum Master?
 
-*Key Takeaways:*
-00:00:04 New vs. Seasoned Scrum Masters
-00:00:18 Learning through Experience
-00:00:49 Contextual Adaptation in Scrum
-00:01:00 Knowledge Application by Veterans
-00:01:57 Coaching Over Consulting
+Before we dive into the possibility of a misconception, I'd like to take a moment to challenge these terms.
 
-*NKDAgility can help!*
+In my opinion, the concept of a 'newbie' or 'professional' Scrum Master doesn't quite exist.  🤔
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to bridge the gap between theory and practice in Scrum_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+Surprised? Let me explain.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+You don't become a Scrum Master as a newbie. Instead, you step into the role because you've showcased competence within your team. The moment you take accountability as a Scrum Master, you're an experienced, effective professional.
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses
+When you take on the role of a Scrum Master, you're no longer a novice. 🏅
 
-Because you don't just need agility, you need Naked Agility.
+You've shown your ability to help them become more effective. That's not the work of a newbie; that's the work of a professional! 🌟
 
-#scrum, #agile, #projectmanagement, #agilecoach, #scrummaster
+Conversely, there's no such thing as a 'professional' Scrum Master.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=PIoyu9N2QaM)
+The Scrum Guide, which I regard as our Scrum 'bible', doesn't mention such terms. There is only the Scrum Master. The term 'Professional Scrum Master' is more of a branding choice by Scrum.org to emphasise the professionalism required in this role.
+
+## What Does it Mean to be a 'Professional' Scrum Master?
+
+So, what does 'professional' mean here? 🏆
+
+It's all about emphasising that being a Scrum Master is not playtime. It's a professional role that adds value to both the team and the organisation.
+
+The term 'Professional Scrum Master' aims to underscore the importance of approaching the Scrum Master role professionally. This role is not a game. It's a serious commitment that provides value to the team and the organisation.
+
+As a Scrum Master, you're accountable for tasks that, if everyone on the team were to take on, would hinder their ability to get things done.
+
+Therefore, a person whom the team respects picks up these responsibilities, ensuring everyone else can focus on delivering valuable products. 👩‍💻
+
+## Wearing the Hat of a Scrum Master Professionally
+
+A professional Scrum Master is not just a title. 🚀
+
+Being a Scrum Master means being professional about it - not just playing the part, but taking action.
+
+If, during Sprint Planning, you're telling your team they haven't taken on enough work or assigning tasks to individuals, you're not being a professional Scrum Master.
+
+Instead, a true Scrum Master, in the spirit of professionalism and Agile methodology, would instead focus on enhancing the team's effectiveness.
+
+The Scrum Master works towards eliminating ineffective practices and fostering those that boost the team's productivity.
+
+## The Bottom Line of a Scrum Master: Just Do It!
+
+To wrap things up, what we're talking about from a professional Scrum Master perspective is: 'just do it'.  
+
+Don't just fiddle about at the edges or get caught up in tinkering on the fringes either, but truly embrace the role.  - adopt the role in its entirety. 💼
+
+Are you intrigued by the role of Scrum Master and keen to learn more?
+
+Consider joining one of our Agile and Scrum courses to boost your knowledge and skills.
+
+Let's improve together and build Agile organisations! 🔥🔥🔥
+
+Until next time, stay Agile! 🚀
+
+

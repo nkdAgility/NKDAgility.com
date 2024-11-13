@@ -1,31 +1,52 @@
 ---
-title: "Why does project management not work in complex environments?"
-date: 2023-05-23T07:00:30Z
+title: Why does project management not work in complex environments?
+date: 2023-10-10
 videoId: lvg9gSLntqY
-url: /resources/videos/why-does-project-management-not-work-in-complex-environments-
-canonicalUrl: https://www.youtube.com/watch?v=lvg9gSLntqY
+url: /resources/videos/:slug
+slug: why-does-project-management-not-work-in-complex-environments
 preview: https://i.ytimg.com/vi/lvg9gSLntqY/maxresdefault.jpg
 duration: 53
-isShort: True
+isShort: true
+aliases:
+- /resources/why-does-project-management-not-work-in-complex-environments
+- /resources/videos/why-does-project-management-not-work-in-complex-environments-
+
 ---
 
 {{< youtube lvg9gSLntqY >}}
 
-# Why does project management not work in complex environments?
+## Project Management in Intricate Environments
 
-#shorts #shortsvideo #projectmanagement was designed for simple or complicated environments, like moving bricks or building a bridge, but it doesn't work when you don't know the best practice or way forward. When you can't know the answer upfront and must invent the answer. Martin Hinshelwood explains.
+As Agile Consultants, we know that Project Management can falter in complex environments, so I wanted to spend a little time discussing _why_ traditional Project Management might not be the best fit for complex environments.
 
-About NKD Agility
+Ready? Let's dive in! 🚀
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Recognising the Complexities
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+I’ve always mentioned in my articles that Project management was originally crafted to manage work we comprehend and was designed to plan work that we understand or work with low variance (say 10%-15% maximum variance in expected outcome to actual outcome). 🧩
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+But complexity, by definition, means more is unknown than known. And when it comes to complex environments, things can take a sharp turn.
 
-We would love to work with you. 
+So, in complex environments, at least 50% isn't understood, leading to surprises creeping in as you're building products. 👀
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Where Project Management Stumbles
 
-[Watch on YouTube](https://www.youtube.com/watch?v=lvg9gSLntqY)
+Having discussed the reasons why, it's pretty clear that Project Management struggles in complex environments.
+
+Why is this so?
+
+The simple fact is that project Management doesn’t handle that level of variance well. And that's why it doesn't deliver as we might hope in these situations.  ⚠️
+
+The following types of Project Management show the different approaches that should be taken:
+
+- Traditional Project Management: Best for low variance, understood environments ✅
+
+- Complex Environments: More unknowns, needs a different approach ❌
+
+## Your Agile Move
+
+Struggling to manage projects in complex environments?  🔔
+
+Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+
+

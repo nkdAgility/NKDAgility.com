@@ -1,12 +1,15 @@
 ---
-title: "Would you recommend a team APS workshop or an agile consultant?"
+title: Would you recommend a team APS workshop or an agile consultant?
 date: 2023-04-05T07:00:03Z
 videoId: 76mGfF0KoD0
 url: /resources/videos/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=76mGfF0KoD0
 preview: https://i.ytimg.com/vi/76mGfF0KoD0/maxresdefault.jpg
 duration: 376
-isShort: False
+isShort: false
+aliases:
+- /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+
 ---
 
 {{< youtube 76mGfF0KoD0 >}}
@@ -34,3 +37,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=76mGfF0KoD0)
+
+

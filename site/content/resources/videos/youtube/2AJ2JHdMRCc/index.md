@@ -1,32 +1,48 @@
 ---
-title: "Why is DevOps such a critical element of software engineering"
-date: 2023-06-14T14:30:02Z
+title: Why is DevOps such a Critical Element of Software Engineering?
+date: 2023-11-08
 videoId: 2AJ2JHdMRCc
-url: /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
-canonicalUrl: https://www.youtube.com/watch?v=2AJ2JHdMRCc
+url: /resources/videos/:slug
+slug: why-is-devops-such-a-critical-element-of-software-engineering
 preview: https://i.ytimg.com/vi/2AJ2JHdMRCc/maxresdefault.jpg
 duration: 35
-isShort: True
+isShort: true
+aliases:
+- /resources/why-is-devops-such-a-critical-element-of-software-engineering
+- /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
+
 ---
 
 {{< youtube 2AJ2JHdMRCc >}}
 
-# Why is DevOps such a critical element of software engineering
+## Game-Changer in Software Engineering!
 
-#shorts #shortsvideo #shortvideo #DevOps is often a mystery to people that aren't deeply immersed in it, and yet you can't deliver a great solution to a client without DevOps teams contributions. In this short video, Martin Hinshelwood explains why DevOps is such a critical element of software engineering.
+In the ever-evolving world of software engineering, there's one term that has taken the spotlight, yes, you guessed it - DevOps.
 
-About NKD Agility
+But why?
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## More Than a Buzzword
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+We've all seen many of them around – buzzwords, but DevOps isn't just another buzzword.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+It's the union of processes, practices, and tools that enable the continuous delivery of value to our customers.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Imagine having a bridge that seamlessly connects your ideas with its implementation and then to the hands of your end-users - that's the power of DevOps.  🔧
 
-We would love to work with you. 
+## The Glue Holding Everything Together
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+I like to think of DevOps as the essential glue in building products, which is absolutely critical to our capability to create exceptional products.  🤝
 
-[Watch on YouTube](https://www.youtube.com/watch?v=2AJ2JHdMRCc)
+It's the mechanism, the strategy that allows us to put our products swiftly in front of our customers, ensuring that all-important feedback loop.
+
+## Attention Agile and Scrum enthusiasts!
+
+Learn more about these practices and see the magic unfold in my Agile and Scrum courses.
+
+Let's harness the power of DevOps together!
+
+Let's create, innovate and iterate faster! 🚀
+
+Reach out to learn more.
+
+

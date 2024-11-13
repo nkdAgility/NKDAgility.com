@@ -1,32 +1,69 @@
 ---
-title: "Most common thing you hear in a PSPO course?"
-date: 2023-06-29T11:00:18Z
+title: Most Common Thing You Hear in a PSPO Course?
+date: 2023-11-15
 videoId: CdYwLGrArZU
-url: /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
-canonicalUrl: https://www.youtube.com/watch?v=CdYwLGrArZU
+url: /resources/videos/:slug
+slug: most-common-thing-you-hear-in-a-pspo-course
 preview: https://i.ytimg.com/vi/CdYwLGrArZU/maxresdefault.jpg
 duration: 56
-isShort: True
+isShort: true
+aliases:
+- /resources/most-common-thing-you-hear-in-a-pspo-course-2
+- /resources/most-common-thing-you-hear-in-a-pspo-course
+- /resources/videos/most-common-thing-you-hear-in-a-pspo-course-
+
 ---
 
 {{< youtube CdYwLGrArZU >}}
 
-# Most common thing you hear in a PSPO course?
+## Common Comments from the PSPO Course
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood highlights the most common thing he hears on the professional scrum product owner course #pspo #professionalscrumproductowner #scrumproductowner
+Over the years teaching the PSPO course, I've heard one recurring sentiment from many Product Owners that goes something like this: "We don't have that kind of control."
 
-About NKD Agility
+I hear this a lot from Product Owners seeking more control.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## A Call to Elevate the Role of the Product Owner
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+These candid admissions illuminate the very crux of what many Product Owners experience: A sense of not being in the arena where they believe they should be.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+They often elaborate, saying:
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- "We can't change the product backlog order." 📋
 
-We would love to work with you. 
+- "We can't influence the product goal.  It feels out of our hands " 🎯
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+- "Discussing the strategic direction with the business?  Seems out of our reach and we're usually left out of that conversation." 🚫
 
-[Watch on YouTube](https://www.youtube.com/watch?v=CdYwLGrArZU)
+Here's my perspective.   
+
+Acknowledging this feeling isn't a sign of defeat.  On the contrary, it's an open invitation to engage and to rise! 🌟
+
+## Empowerment & Accountability in the Role of Product Owner
+
+The truth?
+
+Hearing these concerns always piques my interest.  💪
+
+These sentiments signal to me that many Product Owners feel they aren't playing in the major leagues yet.
+
+But here's the twist, 'Recognising this gap is the first step to bridging it! 🌉
+
+## Rising to the Challenge
+
+For those feeling this 'gap', it's crucial to introspect on the road to empowerment, asking yourself valuable questions, such as:
+
+1\.  "What proactive steps can I take to elevate my organisational role?"
+
+2\.  "Which pivotal meetings can I become a part of?" 🗓️
+
+3\.  " What bridges can I build to network and solidify my role's significance?" 🤝
+
+Importantly, as I always say: "To be entrusted with greater accountability, you must first shine with competence." 🔍
+
+Are you a Product Owner feeling like you're benched on the sidelines?  ✨
+
+Feeling that your Product Owner role needs a boost?
+
+I invite you to delve deeper into the PSPO discourse with me.  Hop onto my Agile and Scrum courses, and together, let's align your role with the influence it deserves!🤝
+
+

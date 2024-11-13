@@ -1,12 +1,13 @@
 ---
-title: "3 steps developers must follow if the product owner is incompetent"
+title: 3 steps developers must follow if the product owner is incompetent
 date: 2023-10-27T14:30:10Z
 videoId: JGQ5zW6F6Uc
 url: /resources/videos/3-steps-developers-must-follow-if-the-product-owner-is-incompetent
 canonicalUrl: https://www.youtube.com/watch?v=JGQ5zW6F6Uc
 preview: https://i.ytimg.com/vi/JGQ5zW6F6Uc/maxresdefault.jpg
 duration: 407
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube JGQ5zW6F6Uc >}}
@@ -39,3 +40,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrummaster #productowner #agilecoach #agileconsultant #agiletraining #scrumtraining #projectmanagement #productdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=JGQ5zW6F6Uc)
+
+

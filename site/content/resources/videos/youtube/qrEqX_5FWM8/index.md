@@ -1,12 +1,13 @@
 ---
-title: "Overview of the 8-week Immersive learning experience"
+title: Overview of the 8-week Immersive learning experience
 date: 2023-06-08T07:00:30Z
 videoId: qrEqX_5FWM8
 url: /resources/videos/overview-of-the-8-week-immersive-learning-experience
 canonicalUrl: https://www.youtube.com/watch?v=qrEqX_5FWM8
 preview: https://i.ytimg.com/vi/qrEqX_5FWM8/maxresdefault.jpg
 duration: 354
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube qrEqX_5FWM8 >}}
@@ -49,3 +50,5 @@ If you are underemployed, we can also create custom payment plans to help you ou
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qrEqX_5FWM8)
+
+

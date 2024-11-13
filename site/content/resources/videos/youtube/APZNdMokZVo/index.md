@@ -1,12 +1,13 @@
 ---
-title: "What is a definition of done? Why is it so important?"
+title: What is a definition of done? Why is it so important?
 date: 2023-11-13T06:56:47Z
 videoId: APZNdMokZVo
 url: /resources/videos/what-is-a-definition-of-done-why-is-it-so-important-
 canonicalUrl: https://www.youtube.com/watch?v=APZNdMokZVo
 preview: https://i.ytimg.com/vi/APZNdMokZVo/maxresdefault.jpg
 duration: 360
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube APZNdMokZVo >}}
@@ -43,3 +44,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continuousdelivery, #devops, #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=APZNdMokZVo)
+
+

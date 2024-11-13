@@ -1,12 +1,15 @@
 ---
-title: "What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance"
+title: What are the top 3 things a product owner needs to bear in mind when adopting an entrepreneur stance
 date: 2023-09-20T07:00:00Z
 videoId: a6aw7xmS2oc
 url: /resources/videos/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
 canonicalUrl: https://www.youtube.com/watch?v=a6aw7xmS2oc
 preview: https://i.ytimg.com/vi/a6aw7xmS2oc/maxresdefault.jpg
 duration: 330
-isShort: False
+isShort: false
+aliases:
+- /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+
 ---
 
 {{< youtube a6aw7xmS2oc >}}
@@ -33,3 +36,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment  #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=a6aw7xmS2oc)
+
+

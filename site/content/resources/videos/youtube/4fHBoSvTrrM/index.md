@@ -1,38 +1,63 @@
 ---
-title: "How will a PSM II course help a scrum master progress in their career?"
-date: 2023-04-03T07:00:03Z
+title: How will a PSM II course challenge your assumptions the most?
+date: 2023-10-09
 videoId: 4fHBoSvTrrM
-url: /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
-canonicalUrl: https://www.youtube.com/watch?v=4fHBoSvTrrM
+url: /resources/videos/:slug
+slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most
 preview: https://i.ytimg.com/vi/4fHBoSvTrrM/maxresdefault.jpg
 duration: 383
-isShort: False
+isShort: false
+aliases:
+- /resources/how-will-a-psm-ii-course-challenge-your-assumptions-the-most
+- /resources/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career
+- /resources/videos/how-will-a-psm-ii-course-help-a-scrum-master-progress-in-their-career-
+
 ---
 
 {{< youtube 4fHBoSvTrrM >}}
 
-# How will a PSM II course help a scrum master progress in their career?
+## PSM II: The Game-Changer for Scrum Masters
 
-So, you are a #scrummaster with 6 months or more experience in the field.
+Today, I want to tackle an important question I often receive, "How will a PSM II course challenge your assumptions the most?
 
-Kudos, you've chosen a great career path and if you embody the #agile values and principles, you are going to want to continuously improve with each week on the job.
+If so, you're not alone.  Many Agile enthusiasts, like you and me, grapple with a multitude of assumptions, and the PSM II course is precisely crafted to challenge these notions.
 
-There's coaching, there's mentoring, there's deliberate practice, and then there's formal training and certification. If you've got the rest but are thinking about doing the #PSM II or Advanced Professional Scrum Master course from Scrum.Org, this is a great video for you.
+Buckle up because this journey will shift your perspectives! 🚀
 
-In this short video, Martin Hinshelwood talks about how the #PSMII or Advanced Professional Scrum Master course will help you progress in your career.
+## Challenging Assumptions about Scrum Masters
 
-About NKD Agility
+What do you think a Scrum Master is?  What do you believe a Scrum Master does?
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+We're often inundated with myths about the Scrum Master role.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+One foundational shift is redefining who a Scrum Master truly is.  🔍
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+The myths surrounding this role are numerous, and we continually address these misconceptions in the PSM II course.  🧩 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+So, Let's go ahead and debunk a few:
 
-We would love to work with you. 
+Let me break a few myths surrounding the PSM II course challenges down:
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+- The Jira Admin Myth: Contrary to some beliefs, think again when it comes to Jira Admin.  Scrum Masters aren't merely Jira admins.  They're so much more.  It's a disservice to box them into such a limited category.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=4fHBoSvTrrM)
+- The Problem Solver Myth: A common misinterpretation is that Scrum Masters exist purely to solve the team's problems.  In reality, they catalyse the removal of impediments — not necessarily doing the work but empowering the team to do so.  Essentially, a Scrum Master aims to make their role almost redundant by fostering a self-sufficient team and pushing for self-reliance and reduced dependency.
+
+- The "Invisibly Present" Paradigm: This is a concept I adore and one of my cherished takeaways from the PSM II course is the idea of being 'invisibly present'.  A Scrum Master's value isn't in their overt actions but in their nuanced guidance.  They shape and steer the way teams organise tasks.  Yet, if they were to be absent for a fortnight, the team's activities from retrospectives to daily scrums — would still proceed seamlessly.  This is because teams under a proficient Scrum Master recognise the intrinsic value of these processes rather than feeling compelled by external pressure.  That's the mark of true influence!
+
+## Evolution from Scrum Master to Advanced Scrum Master
+
+To me, this journey, this transition that I believe to be the pinnacle of the PSM II course from a foundational Scrum Master role to the advanced realms of Scrum expertise, represents the heart of the PSM II course.  🔄 
+
+We are shifting from a task-oriented Scrum Master to a guide operating in advanced Scrum methodologies.  🌟
+
+It's about that massive leap and transition into the advanced Scrum Master world.
+
+Ready for More Insights? 
+
+I'd love to share more on this and other Agile, Scrum, and DevOps topics.  If this resonates with you, consider my Agile and Scrum courses.  📣 
+
+And remember, I'm always eager to engage in the comments or over a coffee chat!
+
+Reach out, and let's transform your Scrum journey together.
+
+

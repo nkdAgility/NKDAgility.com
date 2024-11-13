@@ -1,59 +1,40 @@
 ---
-title: "Wrath! 7 deadly sins of Agile"
-date: 2023-10-16T11:00:31Z
+title: '7 deadly sins of Agile: Wrath'
+date: 2023-12-29
 videoId: U18nA0YFgu0
-url: /resources/videos/wrath!-7-deadly-sins-of-agile
-canonicalUrl: https://www.youtube.com/watch?v=U18nA0YFgu0
+url: /resources/videos/:slug
+slug: 7-deadly-sins-of-agile-wrath
 preview: https://i.ytimg.com/vi/U18nA0YFgu0/maxresdefault.jpg
 duration: 262
-isShort: False
+isShort: false
+aliases:
+- /resources/7-deadly-sins-of-agile-wrath
+- /resources/videos/wrath!-7-deadly-sins-of-agile
+
 ---
 
 {{< youtube U18nA0YFgu0 >}}
 
-# Wrath! 7 deadly sins of Agile
+**Addressing Wrath in Agile Teams: From Blame to Accountability 🌪️🛠️** 
 
-*Understanding Organizational Wrath and Accountability*
+In the dynamic world of Agile, wrath often lurks in the shadows, manifesting as an intolerance for mistakes and a culture of blame. This can severely impede the growth and innovation of teams. Understanding and addressing the sin of wrath in Agile environments is crucial for fostering a culture where mistakes are seen as opportunities for learning and growth rather than as failings to be punished. 
 
-Organizational wrath can disrupt team dynamics and hinder productivity. Dive deep into the implications of wrath within agile teams and its impact on accountability. 
+**The Wrath Trap: Fear of Being Wrong 😡🚫** 
 
-*Enjoy this video? Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+- **Symptoms of Wrath in Teams**: Wrath in Agile teams often appears as a reluctance to accept that things won't always go perfectly. This can lead to a toxic environment where team members are afraid to take risks or own up to mistakes. 
 
-In this video, Martin delves into the intricate concept of "Wrath" within agile organizations. 📊 Discover the ripple effects of blame deflection, the pitfalls of avoiding responsibility, and the significance of embracing accountability. 🚀
+- **An Example of Wrath**: Consider a team required to draft procedures for a deployment. The ideal Agile approach would be to iterate on these procedures, refining them as more is learned. However, wrath manifests when there's an insistence on a 'perfect' first draft, leading to a lengthy approval process where accountability is lost. 
 
-*Subscribe to our newsletter, "NKDAgility Digest":* https://nkdagility.com/subscribe-newsletter/
+**Moving from Blame to Accountability 🔄✔️** 
 
-*Key Takeaways:*
-00:02:11 CEO's Approval and Accountability
-00:02:14 The Absence of Accountability
-00:02:17 Wrath Resulting from Lack of Accountability
-00:02:21 Observing Wrath in Agile Teams
-00:02:33 Sprint Review Scenario and Stakeholder Queries
-00:02:48 Accusatory Tone and Its Impact
-00:03:00 The Crucial Role of the Product Owner
-00:03:20 The Dangers of Fear-Driven Decisions
-00:03:34 Consequences of Evading Responsibility
+- **Breaking the Cycle of Blame**: The key to overcoming wrath in Agile teams is to foster an environment where accountability is valued more than blame. This means creating a culture where it's safe to make and admit mistakes. 
 
-*7 Deadly Sins of Agile Playlist:* https://youtube.com/playlist?list=PLQEC_R53iJWOFJcaaeEVVIO1o-9Lik2TQ&si=qDLDIwYFnG6OQGmS
+- **Product Owner's Role in Accountability**: In situations where questions are raised about the team's decisions, the Product Owner should step in, owning the decisions made, and steer the conversation towards constructive feedback and potential improvements. 
 
-- *Part 1:* https://youtu.be/4mkwTMMtKls
-- *Part 2:* https://youtu.be/fZLGlqMdejA
-- *Part 3:* https://youtu.be/2ASLFX2i9_g
-- *Part 4:* https://youtu.be/RBZFAxEUQC4
-- *Part 5:* https://youtu.be/BDFrmCV_c68
-- *Part 6:* https://youtu.be/uCFIW_lEFuc
-- *Part 7:* https://youtu.be/U18nA0YFgu0
+- **Encouraging Risk-Taking and Learning**: Teams should be encouraged to experiment and learn from outcomes. This attitude helps in breaking the cycle of wrath and promotes a more resilient and adaptive team culture. 
 
-*NKDAgility can help!*
-These are the kinds of issues that lean-agile practitioners are passionate about. If you find it hard to navigate the complexities of team dynamics and accountability, my team at NKDAgility can assist you or connect you with a consultant, coach, or trainer who can.
+**Conclusion: Embracing Mistakes as Stepping Stones 🌟🌈** 
 
-Don't let issues undermine the effectiveness of your value delivery. Seek help sooner rather than later!
+To truly thrive in an Agile environment, it's essential to transform the wrathful tendency of seeking blame into a culture of shared accountability and continuous learning. By doing so, teams can move beyond the fear of being wrong and embrace each challenge as an opportunity to grow and innovate. Remember, in Agile, it's not about avoiding mistakes; it's about how we respond to and learn from them.
 
-_You can request a free consultation:_ https://nkdagility.com/agile-consulting-coaching/
-_Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility.com/training-courses_
 
-Because you don't just need agility, you need Naked Agility.
-
-#agile #scrum #accountability #teamdynamics #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #productowner #agileprojectmanagement
-
-[Watch on YouTube](https://www.youtube.com/watch?v=U18nA0YFgu0)

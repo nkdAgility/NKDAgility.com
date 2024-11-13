@@ -1,12 +1,13 @@
 ---
-title: "Is a scrum master an agile project manager?"
+title: Is a scrum master an agile project manager?
 date: 2023-05-24T07:00:23Z
 videoId: QpK99s9uheM
 url: /resources/videos/is-a-scrum-master-an-agile-project-manager-
 canonicalUrl: https://www.youtube.com/watch?v=QpK99s9uheM
 preview: https://i.ytimg.com/vi/QpK99s9uheM/maxresdefault.jpg
 duration: 48
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube QpK99s9uheM >}}
@@ -29,3 +30,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QpK99s9uheM)
+
+

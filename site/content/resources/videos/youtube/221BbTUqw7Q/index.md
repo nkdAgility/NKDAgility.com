@@ -1,34 +1,68 @@
 ---
-title: "What are 3 key takeaways for a scrum team after attending an APS immersive learning course?"
-date: 2023-08-14T07:00:01Z
+title: What are 3 key takeaways for a scrum team after attending an APS immersive learning experience course?
+date: 2023-12-05
 videoId: 221BbTUqw7Q
-url: /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
-canonicalUrl: https://www.youtube.com/watch?v=221BbTUqw7Q
+url: /resources/videos/:slug
+slug: what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
 preview: https://i.ytimg.com/vi/221BbTUqw7Q/maxresdefault.jpg
 duration: 241
-isShort: False
+isShort: false
+aliases:
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course-2
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-experience-course
+- /resources/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course
+- /resources/videos/what-are-3-key-takeaways-for-a-scrum-team-after-attending-an-aps-immersive-learning-course-
+
 ---
 
 {{< youtube 221BbTUqw7Q >}}
 
-# What are 3 key takeaways for a scrum team after attending an APS immersive learning course?
+## Scrum's True Potential: A Journey Through the APS Immersive Class
 
-The #APS or #applyingprofessionalscrum course is hyper effective in helping a #scrumteam learn how to adopt, implement, and continuously improve #scrum. The immersive learning experience takes it to the next levcel.
+In the evolving landscape of Scrum, nothing quite stands out like the Applied Professional Scrum (APS) immersive experience.  ✨
 
-In this short video, Martin Hinshelwood talks about the 3 key takeaways for a  #scrumteam after doing the APS course. 3 things that help them successfully adopt and improve professional #scrum 
+This course has significantly shaped my understanding and approach to Scrum, offering a deep-rooted perspective on its core principles.
 
-About NKD Agility
+Today, I want to share with you the three pivotal insights I've gained, drawing from the course's teachings and my reflections on its application.  😊
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## 1\. Embracing Scrum's Core Fundamentals with a Fresh Perspective
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Every Scrum enthusiast knows its underlying principles, but how many truly grasp their essence?
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+ The APS class emphasises this fundamental understanding of the underlying principles of Scrum and the practices that make it up. 😊
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+But its brilliance lies in its immersive nature, which seamlessly bridges theory with real-world application.
 
-We would love to work with you. 
+As I've often mused, "It's one thing to know the definition of a product owner and quite another to tailor its role to your unique organisational challenges and strengths."
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+In the APS class, every session becomes a catalyst, prompting introspection and encouraging customisation based on individual organisational realities.  🧭
 
-[Watch on YouTube](https://www.youtube.com/watch?v=221BbTUqw7Q)
+2\. Navigating the Initial Hurdles: Setting the Stage for a Fruitful Scrum Journey
+
+Starting is often the hardest part, especially when it comes to translating Scrum knowledge into tangible actions.  🚀
+
+Echoing my thoughts, the APS class strategically offers bite-sized, actionable insights instead of overwhelming information.
+
+## 3\. Clarifying Scrum's Essence: Discerning Core Practices from Add-ons
+
+Amidst the vast sea of Scrum practices and interpretations, it's easy to lose sight of its authentic essence.   🧐
+
+And here's where I had my eureka moment with APS. "Learning what is not Scrum."
+
+As it turns out, it is as enlightening as understanding its fundamentals. Over the years, many teams, influenced by institutional knowledge or industry trends, unknowingly accumulate these "Clingons" or add-ons.
+
+Recognising, addressing, and stripping away these added layers to reveal Scrum in its purest form is a transformative experience that the APS class masterfully facilitates.
+
+## A Warm Invitation: Embark on the APS Journey with Me
+
+APS is more than a course. It's a compass guiding enthusiasts like you and me towards Scrum's true north.
+
+If my journey resonates with you or sparks curiosity, I wholeheartedly invite you to delve deeper into APS. 🙌
+
+Let's engage, connect, and share our passion for Scrum and Agile.
+
+Whether it's a question, a challenge, or a shared experience,
+
+I'm here to chat. Let's connect over a virtual coffee and chart a course towards Scrum excellence.
+
+

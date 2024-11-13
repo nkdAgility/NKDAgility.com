@@ -1,32 +1,50 @@
 ---
-title: "Hardest part of adopting Scrum"
-date: 2023-06-17T11:00:32Z
+title: Hardest Part of Adopting Scrum?
+date: 2023-11-09
 videoId: c6R8wo04LK4
-url: /resources/videos/hardest-part-of-adopting-scrum
-canonicalUrl: https://www.youtube.com/watch?v=c6R8wo04LK4
+url: /resources/videos/:slug
+slug: hardest-part-of-adopting-scrum
 preview: https://i.ytimg.com/vi/c6R8wo04LK4/maxresdefault.jpg
 duration: 36
-isShort: True
+isShort: true
+aliases:
+- /resources/hardest-part-of-adopting-scrum
+- /resources/videos/hardest-part-of-adopting-scrum
+
 ---
 
 {{< youtube c6R8wo04LK4 >}}
 
-# Hardest part of adopting Scrum
+## Debunking the "Magic" Myth
 
-#shorts #shortsvideo #shortvideo #scrum is relatively straightforward to grasp from the #scrumguide but incredibly difficult to adopt and implement. in this short video, Martin Hinshelwood explains what the hardest part of a #scrum adoption is.
+A question that often pops up in my discussions is, "What is the hardest part of adopting Scrum?
 
-About NKD Agility
+It's a valid inquiry; I believe many of you have pondered it too.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+I believe this is a question that many of us have grappled with, so let's unravel the complexity and the magic myth of Scrum adoption.  🔍
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+## Illusion of "Magic" in Organisations
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+While the term 'magic' isn't thrown around frequently in Agile, it's crucial to address and is the crux of the challenge.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Many envisage a type of sorcery where, with minimal practice, effort, or change, everything magically aligns.  
 
-We would love to work with you. 
+I refer to the implicit expectation that things will miraculously fall into place without genuine practice, effort, or a shift in mindset.  💡
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+There's this mistaken belief that repeating the same actions will result in different outcomes. Or even the whimsical notion that one person can juggle five different projects simultaneously and still triumph.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=c6R8wo04LK4)
+## The Real Challenge in Scrum Adoption
+
+These beliefs, while hopeful, border on the absurd and are very far from the reality of Scrum adoption.
+
+Shattering these illusions and ingraining a culture of continuous learning and adaptability is genuinely the toughest aspect of Scrum adoption.  🚫 
+
+Recognising and addressing these deeply rooted beliefs is paramount; in my view, this understanding and transformation is the _real challenge_ in Scrum adoption.
+
+Keen to navigate these challenges and harness the real power of Scrum?
+
+Chat with me about my Agile and Scrum courses to get your needed clarity and direction.  📚
+
+Connect with me, and let's dispel myths and set the course for genuine Agile and Scrum transformation! 🚀
+
+

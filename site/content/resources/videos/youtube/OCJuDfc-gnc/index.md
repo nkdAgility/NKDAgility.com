@@ -1,12 +1,13 @@
 ---
-title: "25th March 2020 - Office Hours \ Ask me Anything"
+title: 25th March 2020 - Office Hours  Ask me Anything
 date: 2020-03-25T16:17:15Z
 videoId: OCJuDfc-gnc
 url: /resources/videos/25th-march-2020-office-hours-ask-me-anything
 canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube OCJuDfc-gnc >}}
@@ -20,3 +21,5 @@ We recommend joining on Youtube as there is less delay: https://www.youtube.com/
 If you have a sensitive question that you want to be answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OCJuDfc-gnc)
+
+

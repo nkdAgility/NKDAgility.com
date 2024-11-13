@@ -1,12 +1,13 @@
 ---
-title: "What is the most useful element of the APS course for beginner Scrum Teams?"
+title: What is the most useful element of the APS course for beginner Scrum Teams?
 date: 2023-11-15T07:00:28Z
 videoId: n4XaJV9dJfs
 url: /resources/videos/what-is-the-most-useful-element-of-the-aps-course-for-beginner-scrum-teams-
 canonicalUrl: https://www.youtube.com/watch?v=n4XaJV9dJfs
 preview: https://i.ytimg.com/vi/n4XaJV9dJfs/maxresdefault.jpg
 duration: 219
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube n4XaJV9dJfs >}}
@@ -41,3 +42,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continuousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=n4XaJV9dJfs)
+
+

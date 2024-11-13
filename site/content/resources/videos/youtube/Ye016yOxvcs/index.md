@@ -1,32 +1,57 @@
 ---
-title: "5 critical skill to master as an agile consultant, Part 1"
-date: 2023-08-07T07:00:10Z
+title: 5 critical Skills to master as an Agile Consultant?  Part 1
+date: 2023-12-03
 videoId: Ye016yOxvcs
-url: /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
-canonicalUrl: https://www.youtube.com/watch?v=Ye016yOxvcs
+url: /resources/videos/:slug
+slug: 5-critical-skills-to-master-as-an-agile-consultant-part-1
 preview: https://i.ytimg.com/vi/Ye016yOxvcs/maxresdefault.jpg
 duration: 51
-isShort: True
+isShort: true
+aliases:
+- /resources/5-critical-skills-to-master-as-an-agile-consultant-part-1
+- /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
+- /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
+
 ---
 
 {{< youtube Ye016yOxvcs >}}
 
-# 5 critical skill to master as an agile consultant, Part 1
+## The Journey to Understanding
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood walks us through the first of five things an #agileconsultant needs to master.
+In our journey as Agile consultants, one fundamental truth remains - understanding the nuances of your customer's context is a complex yet critical endeavour.
 
-About NKD Agility
+Here are my reflections on a pivotal skill to hone in this role.  💡
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Embracing the Unpredictability
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+As Agile consultants, we often find ourselves in unchartered territories.  Acknowledging that we cannot fully grasp a customer's context in a limited engagement period is both realistic and profoundly liberating.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+It empowers us to lean on our rich experience with various clientele to craft suggestions that might resonate within the unique dynamics of a new customer.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## Trial and Error
 
-We would love to work with you. 
+It is essential to be prepared to face setbacks and learn from them.  The probability of getting it wrong initially might be higher than getting it right.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+But remember, it's not about the number of times we fall but about the wisdom we amass in the process.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Ye016yOxvcs)
+So, let's keep iterating on our ideas, meticulously tuning them to align with the customer's specific context.  🎯
+
+Universal Truths in Agile Consulting
+
+While navigating through this process, a reassuring aspect is that we will stumble upon specific strategies with a universal appeal, resonating positively across different scenarios.
+
+This consistency is a testament to the human aspect that underlies our industry - an element that fosters unity and coherence amidst the diversity.  💫
+
+## Continuous Learning and Adaptation
+
+Always remember to never rest on your laurels.  A perpetual appetite for learning and adaptation is the key to success in this role. 📚
+
+Your goal should be to carve a journey characterized by relentless growth and understanding.
+
+And most importantly, never assume to fully know your customer's context, for it is an ever-changing and deeply nuanced landscape.
+
+Embark on a journey of transformation and skill enhancement with my Agile and Scrum courses.
+
+Let's unravel the intricacies of being a successful Agile Consultant, nurturing a mindset that embraces learning, adaptation, and innovation.  🚀
+
+

@@ -1,12 +1,13 @@
 ---
-title: "What is Empiricism"
+title: What is Empiricism
 date: 2023-08-17T07:00:09Z
 videoId: Q46T5DYVKqQ
 url: /resources/videos/what-is-empiricism
 canonicalUrl: https://www.youtube.com/watch?v=Q46T5DYVKqQ
 preview: https://i.ytimg.com/vi/Q46T5DYVKqQ/maxresdefault.jpg
 duration: 54
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube Q46T5DYVKqQ >}}
@@ -30,3 +31,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Q46T5DYVKqQ)
+
+

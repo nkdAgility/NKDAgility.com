@@ -1,34 +1,58 @@
 ---
-title: "Why are a scrum team better served by an agile consultant than a professional coach?"
-date: 2023-06-26T07:00:07Z
+title: Why Are a Scrum Team Better Served by an Agile Consultant than a Professional Coach?
+date: 2023-11-13
 videoId: LkphLIbmjkI
-url: /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
-canonicalUrl: https://www.youtube.com/watch?v=LkphLIbmjkI
+url: /resources/videos/:slug
+slug: why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 preview: https://i.ytimg.com/vi/LkphLIbmjkI/maxresdefault.jpg
 duration: 340
-isShort: False
+isShort: false
+aliases:
+- /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
+- /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+
 ---
 
 {{< youtube LkphLIbmjkI >}}
 
-# Why are a scrum team better served by an agile consultant than a professional coach?
+## Limits of Professional Coaching
 
-There is a lot of debate around #professionalcoaching versus #agilecoaching, and why organizations should look to someone with deep #agile experience and expertise rather than a generic performance #coach.
+I often come across a compelling question: "Why is a Scrum team better served by an Agile consultant rather than a professional coach?" 🤔
 
-In this short video, Martin Hinshelwood talks about the value of an #agileconsultant versus a #professionalcoaching 
+Let's face it: professional coaching has its limits. It often makes the assumption, which in many circumstances is the correct assumption, that the people you're coaching already understand how to solve the problems they need to solve.
 
-About NKD Agility
+But in reality, that's not fundamentally the case for almost all organizations and teams I work with.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Why Early Stages Need a Different Approach
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Especially in the beginning, if teams cannot continuously create usable working products in a regular cadence, they fundamentally "need to know what they don't know."
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+At this point, an Agile consultant or Agile coach finds themselves more in a teaching or mentoring stance, helping teams to understand what they don't know.  🚀
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Understanding is More Than Skin Deep 🛠
 
-We would love to work with you. 
+A deep technical understanding doesn't mean you can code beside a developer or correct a DevOps engineer's builds.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+I mean having a deep technical and philosophical understanding of the processes, practices, tools, and capabilities.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=LkphLIbmjkI)
+This knowledge lets you grasp what great teams do differently, especially concerning their engineering practices. 🚀
+
+## Know Enough to Know Where to Look
+
+Don't worry. You certainly don't need to grasp every tool or technique.
+
+You need to know enough to know where to look. With enough experience and foundational understanding, you can incorporate new tools or techniques into your lexicon and capabilities a lot more quickly.  🚀
+
+## It's About Technical Depth
+
+So, in a nutshell, while Scrum itself is not technical, all the practices and tools around making it successful are deeply technical.  🌟
+
+ And that's precisely why I believe a Scrum team is better served by an Agile consultant rather than a professional coach.  🎯
+
+Sharpen Your Skills with Our Agile and Scrum Courses 🌟
+
+Want to delve deeper into the technical aspects that make Scrum and Agile successful?
+
+Our comprehensive range of courses is just what you need. Don't wait—enrol today!
+
+

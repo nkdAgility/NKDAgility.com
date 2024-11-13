@@ -1,32 +1,65 @@
 ---
-title: "Reasons to do a PSM II Course in 60 seconds"
-date: 2023-07-12T14:00:30Z
+title: Reasons to do a PSM II Course in 60 seconds
+date: 2023-11-29
 videoId: TcnVsQbE8xc
-url: /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
-canonicalUrl: https://www.youtube.com/watch?v=TcnVsQbE8xc
+url: /resources/videos/:slug
+slug: reasons-to-do-a-psm-ii-course-in-60-seconds
 preview: https://i.ytimg.com/vi/TcnVsQbE8xc/maxresdefault.jpg
 duration: 50
-isShort: True
+isShort: true
+aliases:
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds-2
+- /resources/reasons-to-do-a-psm-ii-course-in-60-seconds
+- /resources/videos/reasons-to-do-a-psm-ii-course-in-60-seconds
+
 ---
 
 {{< youtube TcnVsQbE8xc >}}
 
-# Reasons to do a PSM II Course in 60 seconds
+## 🕒 Think a Minute Isn’t Much?  
 
-#shorts #shortsvideo #shortvideo If you're thinking of escalating your scrum master skills to the PSM II (Advanced Professional Scrum Product Owner) level, Martin Hinshelwood walks you through some reasons why you should.
+It’s enough to learn why the PSM II (Professional Scrum Master II) course can significantly boost your Scrum Master skills and career. 🚀 
 
-About NKD Agility
+Unlocking Advanced Scrum Mastery 🗝️ 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Advance your Scrum journey with the PSM II course, designed for those who want to deepen their expertise and command of Scrum. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+- **Deeper Scrum Knowledge**: Dive beyond the basics and master the nuanced dynamics of Scrum. 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+- **Empower the Team**: Learn how to strip away the noise and focus on what makes your team truly effective. 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Boost Product Ownership**: Elevate your game in guiding product owners to stellar product management. 
 
-We would love to work with you. 
+## A Closer Look at the PSM II Benefits 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+The PSM II course isn't just about learning; it's about applying knowledge for tangible team and organizational benefits. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=TcnVsQbE8xc)
+- **For the Team**: 🤝 Foster a high-performing team environment, clear hurdles, and inspire continuous improvement. 
+
+- **For the Product Owner**: 🎯 Sharpen your ability to support and challenge product owners in their strategic journey. 
+
+- **For the Organization**: 🏢 Understand your pivotal role in steering the wider organization towards agile maturity. 
+
+## How to Make the Most of It 
+
+This course is packed with actionable insights that you can immediately apply in your day-to-day work to drive real change. 
+
+- 🛠️ **Tool Up**: Equip yourself with advanced facilitation techniques and problem-solving strategies. 
+
+- 🔄 **Feedback Loops**: Cultivate the art of constructive feedback, enabling a culture of growth and learning. 
+
+- 🤖 **Automation Practices**: Streamline your processes, automate the mundane, and focus on value creation. 
+
+## Embrace the Journey 
+
+Joining the PSM II course is the beginning of a transformational professional journey that will enhance your capabilities and opportunities. 
+
+- **Community**: Engage with a network of Scrum professionals, sharing knowledge and experiences. 
+
+- **Mentorship**: Benefit from seasoned instructors who provide insights beyond the classroom. 
+
+- **Career Growth**: Leverage your advanced skills for new roles and responsibilities. 
+
+🎓 Take that one-minute leap and discover how PSM II can be the game-changer for your agile coaching career. Your future self will thank you! 🌟
+
+

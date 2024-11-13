@@ -1,32 +1,46 @@
 ---
-title: "How do DevOps and Agile integrate?"
-date: 2023-06-13T14:30:08Z
+title: How do DevOps and Agile integrate?
+date: 2023-11-08
 videoId: Gtp9wjkPFPA
-url: /resources/videos/how-do-devops-and-agile-integrate-
-canonicalUrl: https://www.youtube.com/watch?v=Gtp9wjkPFPA
+url: /resources/videos/:slug
+slug: how-do-devops-and-agile-integrate
 preview: https://i.ytimg.com/vi/Gtp9wjkPFPA/maxresdefault.jpg
 duration: 51
-isShort: True
+isShort: true
+aliases:
+- /resources/how-do-devops-and-agile-integrate
+- /resources/videos/how-do-devops-and-agile-integrate-
+
 ---
 
 {{< youtube Gtp9wjkPFPA >}}
 
-# How do DevOps and Agile integrate?
+## DevOps & Agile: Two Sides of the Same Coin 🪙
 
-#shorts #shortsvideo #shortvideo  #DevOps is a mystery to many people, and the interconnected nature of #agile software engineering and #devops eludes even more. In this short video, Martin Hinshelwood explains why they're two sides of the same coin.
+Have you ever been curious about how DevOps and Agile integrate and truly mesh?"
 
-About NKD Agility
+I see them as intertwined – two sides of the same illustrious coin. 🔄  On one hand, you have DevOps, and on the other, Agile - a classic 'heads or tails' scenario.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Synchronised Synergies
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+While they embody the same essence at their core, here's the twist – they both provide unique viewpoints.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+While DevOps grants us an engineering perspective by emphasising the continuous delivery, lean, and engineering 🛠️
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+On the flip side, Agile focuses on leadership, process, and people.  It's the human-centric approach, nurturing and guiding.🌱
 
-We would love to work with you. 
+Two unique lenses observe a comprehensive view of the same objective.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Don't Get Hung Up
 
-[Watch on YouTube](https://www.youtube.com/watch?v=Gtp9wjkPFPA)
+Here's my simple take: "Don't get hung up on the differences."
+
+Embrace both and watch the magic unfold in synchronisation! ✨
+
+It's all about understanding their individual strengths and harnessing them collectively.
+
+Intrigued?
+
+Let's master both sides of the coin together in my Agile and Scrum courses.!
+
+

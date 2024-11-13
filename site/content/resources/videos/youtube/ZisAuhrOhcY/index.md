@@ -1,50 +1,104 @@
 ---
-title: "My journey with Kanban and why I actively recommend it to consulting clients."
-date: 2024-02-23T07:00:12Z
+title: My journey with Kanban and why I actively recommend it to clients.
+date: 2024-07-01
 videoId: ZisAuhrOhcY
-url: /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
-canonicalUrl: https://www.youtube.com/watch?v=ZisAuhrOhcY
+url: /resources/videos/:slug
+slug: my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 preview: https://i.ytimg.com/vi/ZisAuhrOhcY/maxresdefault.jpg
 duration: 321
-isShort: False
+isShort: false
+aliases:
+- /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
+- /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+
 ---
 
 {{< youtube ZisAuhrOhcY >}}
 
-# My journey with Kanban and why I actively recommend it to consulting clients.
+### Embracing Kanban for Enhanced Workflow and Predictability
 
-🚀 Kanban: A Universal Strategy for Enhanced Workflow and Predictability 🚀
+**Introduction**
 
-🎯 Why Watch This Video?
+My journey with Kanban began with the guidance of Daniel Vacanti and Steve Porter during the first Professional Scrum with Kanban class back in late 2017 and early 2018. At that time, I didn't fully grasp the value of this unique approach—an observational tool that provides a different way of thinking about workflow. Understanding Kanban as a strategy, not a system, has been crucial in appreciating its full potential.
 
-Dive into the transformative journey of understanding and applying Kanban, as narrated by someone who transitioned from traditional Scrum practices to integrating Kanban strategies.
-Discover how Kanban, as a strategic tool, can provide clarity and control over your work processes, regardless of the industry or methodology you're currently using.
-Learn from real-life insights on the pivotal role of Kanban in improving transparency, predictability, and the flow of work across various teams and projects.
 
-🔍 What You'll Learn:
 
-Kanban's Fundamental Value: Grasp how Kanban serves as an observational tool that complements any system, including Scrum and Waterfall, to enhance understanding and management of work processes.
-Metrics and Transparency: Explore the critical role of Kanban metrics in augmenting Scrum processes, providing data-driven insights into team performance and predictability.
-Overcoming Delivery Challenges: Strategies to address common issues such as inconsistent delivery, fear within businesses due to lack of transparency, and the knee-jerk regression to more controlling, less agile methods.
-Universal Applicability: Realize Kanban's relevance and benefits across all teams and contexts, from software development using Scrum to marketing teams and even factory workflows.
+* * *
 
-👥 Who Should Watch:
+**The Core of Kanban: A Strategy for Optimization**
 
-Agile Coaches, Scrum Masters, and team leaders seeking to enhance their Scrum practices with Kanban strategies.
-Project Managers and Heads of Departments looking for ways to improve workflow, transparency, and predictability in project delivery.
-Professionals across industries curious about adopting Kanban to optimize their processes and outcomes.
+Kanban is best understood as a strategy for examining and optimizing your existing workflow. It's not a standalone system but a means to understand and actively manage the flow of work through your current system. This approach is particularly beneficial when integrated with Scrum teams to enhance their processes, improve predictability, and ultimately deliver greater value to the business.
 
-👍 Why Like and Subscribe?
+* * *
 
-Stay informed about the latest strategies in workflow management and process optimization.
-Transform your team's approach to project delivery with insights from Kanban experts.
-Be part of a community dedicated to continuous improvement and achieving operational excellence.
+**Addressing Common Challenges in Scrum Teams**
 
-Like and Subscribe for more insights into leveraging Kanban within Scrum and other methodologies for superior project management and delivery.
-Visit https://www.nkdagility.com for comprehensive resources, courses, and expert guidance on adopting Kanban across various teams and industries.
+Many Scrum teams struggle with predictability and consistency in delivering working products by the end of each sprint. This inconsistency often leads to business stakeholders feeling uncertain and frustrated because they perceive the output as erratic and unpredictable. They may feel that the deliverables are not meeting expectations in terms of cost, quality, and timing.
 
-Share this video with your team and professional network to spread the knowledge of Kanban's transformative potential in any organizational context.
+**Lack of Transparency:**
 
-#KanbanStrategy #WorkflowOptimization #PredictabilityImprovement #AgileTransformation #ContinuousImprovement
+Traditional Scrum teams often fall short in providing the level of transparency needed by the business. Without clear visibility into the process and progress, stakeholders' fear and uncertainty grow. This fear drives a desire for more control, which can lead to regression into old, less effective practices.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ZisAuhrOhcY)
+* * *
+
+**Kanban: Enhancing Transparency and Reducing Fear**
+
+A Kanban strategy provides the necessary transparency to alleviate these fears. By using Kanban metrics, teams can offer valuable insights into their workflow, helping stakeholders understand the process and make informed decisions. This increased transparency reduces the desire for control and fosters trust in the Agile process.
+
+**Key Learnings from Kanban:**
+
+1. **Improving Predictability**:
+
+- Kanban metrics help teams understand and enhance their predictability.
+
+- Actively managing the flow of work leads to more consistent delivery.
+
+1. **Building Trust through Transparency**:
+
+- Providing clear data and insights reassures stakeholders.
+
+- Transparency enables better decision-making and reduces fear.
+
+1. **Applying Kanban Across Contexts**:
+
+- Kanban is versatile and applicable to any team in any industry.
+
+- From marketing teams to software development and factory production, Kanban enhances workflow and predictability.
+
+* * *
+
+**Kanban: A Universal Strategy**
+
+Kanban is not limited to software teams. It can be applied to any team, delivering any type of work, in any context. Whether you're in marketing, software development, management, or manufacturing, a Kanban strategy provides the metrics and insights needed to optimize your workflow. These metrics lead to better decisions, more effective flow, and the ability to stop ineffective practices.
+
+**Why Every Team Should Use Kanban**:
+
+- **Marketing Teams**: Streamline content creation and campaign management.
+
+- **Software Teams**: Enhance Scrum processes and improve software delivery.
+
+- **Management Teams**: Optimize portfolio management and decision-making.
+
+- **Manufacturing**: Improve production workflows and efficiency.
+
+* * *
+
+**Conclusion**
+
+Kanban is a powerful strategy for any team, in any industry, aiming to optimize their workflow and increase predictability. By providing the necessary transparency and data-driven insights, Kanban helps teams make better decisions, ask more interesting questions, and achieve more effective outcomes. Embrace Kanban to transform your team's approach to work and deliver greater value consistently.
+
+* * *
+
+**Thanks for reading!** If you found this post helpful, please like, follow, and subscribe. I always reply to comments, and if you want to chat about Kanban, Scrum, or any other Agile practices, feel free to book a coffee with me through Naked Agility.
+
+**Recommended Resources**:
+
+- **Kanban Training**: Explore our advanced Kanban training programs to dive deeper into Kanban practices.
+
+- **Consulting Services**: Need help implementing Kanban at scale? Our experts are ready to assist.
+
+- **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
+
+If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you will improve. Get in touch below.
+
+

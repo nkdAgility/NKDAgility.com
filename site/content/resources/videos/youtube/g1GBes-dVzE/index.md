@@ -1,31 +1,49 @@
 ---
-title: "One thing an agile coach MUST do to be successful?"
-date: 2023-08-31T07:00:17Z
+title: One thing an Agile Coach MUST do to be successful?
+date: 2023-12-15
 videoId: g1GBes-dVzE
-url: /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
-canonicalUrl: https://www.youtube.com/watch?v=g1GBes-dVzE
+url: /resources/videos/:slug
+slug: one-thing-an-agile-coach-must-do-to-be-successful
 preview: https://i.ytimg.com/vi/g1GBes-dVzE/maxresdefault.jpg
 duration: 53
-isShort: True
+isShort: true
+aliases:
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful-2
+- /resources/one-thing-an-agile-coach-must-do-to-be-successful
+- /resources/videos/one-thing-an-agile-coach-must-do-to-be-successful-
+
 ---
 
 {{< youtube g1GBes-dVzE >}}
 
-# One thing an agile coach MUST do to be successful?
+## Why a Deep Understanding is Non-Negotiable
 
-#shorts #shortsvideo #shortvideo Martin Hinshelwood talks about the one thing an #agilecoach must do be successful in #agileconsulting or #agilecoaching 
+When I talk about the one thing that an Agile Coach must possess to truly excel, I always come back to one point: you must have a deep understanding of the processes, practices, and tools of the teams you work with.  🛠
 
-About NKD Agility
+Now, let's expand on that. It's not just about knowing Agile theories and frameworks inside and out; you must delve deeply into the trenches of the actual technologies that your team employs.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Why?
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Because you need to understand the technologies the team you're working with must use.  🎯
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## All the 'Flavours' of Tools and Technologies
 
-We would love to work with you. 
+Being a lean Agile Practitioner, as I like to call it, means that you should understand and appreciate all the different 'flavours' of tools, practices, and technologies.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Do you have to be an expert in them all? No. But you do need to have a bird's eye view of the different flavours of what your team is working on.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=g1GBes-dVzE)
+You must ask questions like, What tools and technologies are they using, and how are they using it? Are they using it well, or do they need help using it? Or do they need to be moved in a different direction?
+
+## Agile Coaching is Not Babysitting — It's Elevating Teams
+
+Let's set the record straight - Agile Coaching is not, and should never be considered, mere babysitting of the team.  🌟
+
+It's about guiding, it's about challenging, and yes, it's about pushing the team to break new boundaries. In other words, your role is to make them "advance and improve."
+
+## Reach Your Full Potential as an Agile Coach with Our Extensive Courses
+
+Ready to deepen your understanding of Agile, Scrum, and the intricate art of effective Agile Coaching? 🌟
+
+Enroll in our comprehensive courses today and elevate your Agile Coaching game to the next level.
+
+

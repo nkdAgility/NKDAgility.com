@@ -1,42 +1,86 @@
 ---
-title: "How do you think Agile is evolving since its inception in 2001?"
-date: 2023-02-15T07:00:07Z
+title: How do you think Agile is evolving since its inception in 2001?
+date: 2023-03-22
 videoId: QgPlMxGNIzs
-url: /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
-canonicalUrl: https://www.youtube.com/watch?v=QgPlMxGNIzs
+url: /resources/videos/:slug
+slug: how-do-you-think-agile-is-evolving-since-its-inception-in-2001
 preview: https://i.ytimg.com/vi/QgPlMxGNIzs/maxresdefault.jpg
 duration: 229
-isShort: False
+isShort: false
+aliases:
+- /resources/how-do-you-think-agile-is-evolving-since-its-inception-in-2001
+- /resources/videos/how-do-you-think-agile-is-evolving-since-its-inception-in-2001-
+
 ---
 
 {{< youtube QgPlMxGNIzs >}}
 
-# How do you think Agile is evolving since its inception in 2001?
+How do you think Agile is evolving since its inception in 2001?
 
-*Agile Evolution & The Future of Organizational Dynamics* - Explore the journey of Agile from its origins to Agile 2.0 and beyond. Understand the challenges and future of decentralized, dynamic work environments.
+I think **agile** has been evolving steadily, although not always in the way we would like to see.
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+## Hierarchy
 
-In this video, Martin dives deep into the evolution of Agile since 2001, discussing its original goals, current application, and the challenges organizations face in implementation. 🚀📈 He sheds light on the shift towards Agile 2.0, the rewilding of Agile, and the future of work environments. Join us as we explore the intricacies of decentralization, democratization, and self-organization in today's business world. 🌐💡
+One of the central ideas expressed in the agile manifesto, and reinforced through the **agile values and principles**, is a shift from the traditional top-down management structures to a decentralized environment where decision-making is pushed down to the experts doing the work.
 
-*Key Takeaways:*
-00:00:07 Evolution of Agile Since 2001
-00:00:27 Challenges in Agile Implementation
-00:01:06 Agile 2.0 and Rewilding of Agile
-00:01:51 Misconceptions and Terminology Issues
-00:02:42 Future Directions for Agile
+Sure, **leadership** and **executive teams** are best positioned to make decisions around strategy, the future of the organization, and the vision for the product, but we want the people who have the most skill, experience, and expertise about how things should be done to make the decisions about how something should be done.
 
-*NKDAgility can help!*
+The thinking is that those who are closest to the market and customers, can make decisions that empower us, as an organization, to adapt and respond most effectively.
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to adapt to the evolving Agile landscape, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+If the last time an executive spoke to a customer was when they were a software developer, we don’t want them making live, real-time decisions about the customer environment. We want the developers who are dealing with customers daily to make those decisions.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+This hasn’t been happening.
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses_
+Even the most progressive organizations still embrace a top-down hierarchy where senior managers tell junior managers what to do, and those junior managers in turn pass those instructions down to the people working at the coalface.
 
-Because you don't just need agility, you need Naked Agility.
+Many teams, although they have adopted agile, played no role in that decision, nor did they have an option to help choose the agile framework that would best suit their application. It was simply imposed on them along with a set of control-and-command tools to track and manage productivity.
 
-#agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban,
+## Agile 2.0
 
-[Watch on YouTube](https://www.youtube.com/watch?v=QgPlMxGNIzs)
+We are seeing movement in the transition from traditional management to agile leadership.
+
+I think this is the next area that we will see massive leaps of progress. Organizations are beginning to understand that a team doing scrum is not the same as developing agile capability throughout the organization.
+
+It needs more than a single team. It requires leadership, suppliers, partners, and execution teams to develop agile capabilities and demonstrate agile behaviours.
+
+The concept of ‘rewilding’ agile is getting a lot of attention because people recognize that we need to go back to basics when it comes to agile. Revisit the agile values and principles and stay true to the spirit of the agile manifesto.
+
+Creating products and services that truly delight customers and being able to adapt and respond effectively to disruption or opportunities. That’s the goal. It isn’t about embracing a new style of working to replace an old style of working, it is about embracing responsiveness to opportunity and threats.
+
+### Getting out of our own way.
+
+At the turn of the 20th century, we figured out how best to do something and then instructed everyone else to do it the same way.
+
+To ensure that happened, we had supervisors watching every move, and managers supervising supervisors. We created processes, systems, checks and balances to ensure that nobody but the most senior people were able to make decisions or act independently.
+
+As that evolved over time, monolithic structures of command-and-control were created that ensured we couldn’t take a single step out of line without multiple people approving that step.
+
+If the ship needs to go from point A to point B, in a straight line, that’s a great idea.
+
+If the ship needs to adapt and pivot based on conditions, new destinations, or to avoid traps and pitfalls, you’re likely to see that ship sink before it moves an inch off course.
+
+That’s what we have now. Legacy organizations that are so hamstrung by their own processes and systems that people are defeated before they begin to scratch the surface of change. They simply can’t adapt or respond to positive or negative events in the market.
+
+Agile embraces lightweight frameworks that allow organizations to get out of their own way.
+
+To create hyper creative, collaborative, and innovative environments where people can respond to data and feedback, create the most valuable solutions, and resolve the most compelling problems quickly and effectively.
+
+This is where I see the next big shift in agile.
+
+Executive and leadership teams, in collaboration with stakeholders and suppliers/partners transforming the way they do business to facilitate greater agility
+
+## About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
+
+#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
+

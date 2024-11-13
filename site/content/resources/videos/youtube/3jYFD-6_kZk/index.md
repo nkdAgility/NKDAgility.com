@@ -1,70 +1,106 @@
 ---
-title: "What can go wrong and what can go right with a migration via Azure DevOps"
-date: 2024-07-31T12:00:49Z
+title: Navigating the Complex World of Azure DevOps Data Migration
+date: 2024-11-14
 videoId: 3jYFD-6_kZk
-url: /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
-canonicalUrl: https://www.youtube.com/watch?v=3jYFD-6_kZk
+url: /resources/videos/:slug
+slug: navigating-the-complex-world-of-azure-devops-data-migration
 preview: https://i.ytimg.com/vi/3jYFD-6_kZk/maxresdefault.jpg
 duration: 1055
-isShort: False
+isShort: false
+aliases:
+- /resources/navigating-the-complex-world-of-azure-devops-data-migration
+- /resources/videos/what-can-go-wrong-and-what-can-go-right-with-a-migration-via-azure-devops
+
 ---
 
 {{< youtube 3jYFD-6_kZk >}}
 
-# What can go wrong and what can go right with a migration via Azure DevOps
+When it comes to migrating data in Azure DevOps, the process can be overwhelming, especially if you're dealing with legacy systems or older versions of Team Foundation Server (TFS). As someone who has been through this many times, I can tell you that there are countless pitfalls, but with careful planning and attention to detail, you can avoid most of them. In this post, I'll share some of the common issues, critical steps, and personal experiences that can help you successfully navigate the complexities of Azure DevOps data migration.
 
-Navigating Azure DevOps Migration Challenges
+## **Common Issues with Older TFS Versions**
 
-#### Audience:
-- **IT Managers and DevOps Teams**: Essential viewing for understanding potential pitfalls and best practices for Azure DevOps migrations.
-- **Project Managers**: Key insights into planning and executing successful data migrations.
-- **Developers and Operations Teams**: Technical guidance on handling the intricacies of Azure DevOps migration.
+One of the biggest challenges you'll face when migrating to Azure DevOps is dealing with older versions of TFS. I've encountered situations where clients were still using Visual SourceSafe, a system that went end-of-life in 2005. Before you can even think about upgrading TFS, you need to import any old data from systems like Visual SourceSafe. If you skip this step and upgrade TFS first, you risk losing critical historical data since Visual SourceSafe imports were only supported up to TFS 2015.
 
-#### Relevance:
-This video is crucial for any organization planning a migration to Azure DevOps. It covers the complexities, potential issues, and expert solutions to ensure a smooth transition, making it invaluable for both technical and managerial audiences.
+**Key Takeaways:**
 
-#### How It Will Help:
-- **Identifying Issues**: Recognize common migration issues, such as outdated TFS versions and identity alignment problems.
-- **Best Practices**: Learn the best practices for ordering migration steps and managing identities to avoid critical errors.
-- **Expert Guidance**: Benefit from the speaker's extensive experience in handling complex migrations and understanding how to address specific challenges.
-- **Disaster Avoidance**: Gain insights into proper backup procedures and disaster recovery to ensure data integrity.
+- **Visual SourceSafe Import:** Ensure you import legacy data before upgrading TFS.
 
----
+- **Order Matters:** Doing things in the wrong order can lead to irreversible issues.
 
-### Chapter Summaries:
+## **The Importance of Order in Migration**
 
-#### 00:00 - 00:33: **Introduction to Migration Challenges**
-The speaker introduces the complexity of Azure DevOps migrations, highlighting the numerous potential issues that can arise.
+Order of operations is crucial in any migration process. Whether it's moving from TFVC (Team Foundation Version Control) to Git or making process template changes, the sequence in which you perform these tasks can make or break your migration.
 
-#### 00:34 - 01:16: **Common Issues with Older TFS Versions**
-Discusses the difficulties of migrating from unsupported older versions of TFS, including dealing with legacy systems like Visual SourceSafe.
+### **What Can Go Wrong?**
 
-#### 01:17 - 02:01: **Order of Operations in Migration**
-Explains the importance of performing migration steps in the correct order to avoid complications, such as process template changes and source control integration.
+- **Process Template Changes:** Make these changes on-premises before pushing to Azure DevOps.
 
-#### 02:02 - 03:07: **Critical Identity Alignment**
-Highlights the critical issue of account alignment during migration, detailing how mismatched identities can cause significant problems.
+- **Source Control Migration:** Migrate your source control to Git before moving to Azure DevOps.
 
-#### 03:08 - 04:06: **Case Study: Complex Migration**
-Shares a detailed case study of a complex migration involving multiple steps and legal considerations, emphasizing the importance of maintaining identity consistency.
+- **Account Alignment:** The most critical issue is ensuring that identities align correctly during the migration. If not handled properly, users may end up with duplicate identities, leading to confusion and lost work.
 
-#### 04:07 - 04:26: **Database Size and Cleanup**
-Covers the challenges related to database size and the necessity of cleaning up old and buggy data before migration.
+**Personal Experience:**
 
-#### 04:27 - 05:16: **Legacy Systems and Beta Versions**
-Discusses the impact of legacy systems and beta versions on migration, highlighting common problems and the need for thorough preparation.
+I once worked on a migration where a customer moved from a workgroup environment to a domain-joined environment without proper account alignment. This resulted in users having multiple identities in TFS, leading to a situation where they couldn't find their assigned work because it was linked to their old identity. This issue is not just a technical glitch; it's a workflow nightmare that can severely impact productivity.
 
-#### 05:17 - 06:00: **Backup Procedures and Disaster Recovery**
-Emphasizes the importance of following Microsoft's documented backup procedures to ensure a reliable restore, avoiding common pitfalls associated with standardized backup tools.
+## **Critical Identity Alignment**
 
-#### 06:01 - 07:17: **Ensuring Successful Migrations**
-Provides practical advice for ensuring successful migrations, including leveraging expertise and following best practices to address unexpected issues.
+Identity management is one of the trickiest parts of migrating to Azure DevOps. TFS handles identities in a way that can cause significant issues if not managed correctly.
 
-#### 07:18 - 07:34: **Conclusion**
-Concludes with a reassuring note that while migrations can be complex, following best practices and leveraging expert guidance can lead to successful outcomes.
+### **How Does It Work?**
 
----
+- **TFS Identity Wrapping:** TFS wraps your actual identity (whether a workgroup account or Active Directory account) in its system.
 
-This video offers a comprehensive guide on the complexities of migrating to Azure DevOps. IT managers, DevOps teams, and project managers will find valuable knowledge and best practices to navigate the process successfully. With expert insights, viewers will be better equipped to handle potential pitfalls and ensure a smooth transition to Azure DevOps.
+- **Migration Risks:** If your accounts don't match when moving environments, TFS might create a new identity instead of mapping to the existing one. This results in users not being able to see their work assigned to their old identity.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=3jYFD-6_kZk)
+**Case Study: Complex Migration**
+
+In a particularly challenging migration, we had to move a TFS environment from inside Microsoft to another company after a business sale. The process involved seven separate migrations, each with different scripts, validations, and legal requirements. The biggest headache was maintaining identity alignment throughout the entire process. If even one identity didn't map correctly, it could have caused significant issues down the line.
+
+## **Database Size and Cleanup**
+
+Another critical aspect of migration is managing your database size and cleaning up old data. Azure DevOps has limitations on database size, so it's essential to clean up unnecessary data before migrating.
+
+### **What to Watch Out For:**
+
+- **Legacy Systems:** Older TFS versions might have accumulated a lot of "baggage" over the years, including half-committed changes, outdated scripts, and beta versions that were never fully supported.
+
+- **Database Cleanup:** Make sure to clean up your database before attempting the migration. This includes removing obsolete data, fixing old errors, and ensuring everything is in order.
+
+## **Backup Procedures and Disaster Recovery**
+
+Backup procedures are often overlooked, but they are crucial to ensuring a smooth migration. Most operations teams will use standardized backup tools that might not be compatible with TFS or Azure DevOps. This can lead to incomplete backups and, in the worst-case scenario, a failed migration.
+
+### **Best Practices:**
+
+- **Use TFS-Documented Backup Procedures:** Always follow Microsoft's documented procedures for backing up TFS or Azure DevOps. Using non-standard tools can result in incomplete or corrupt backups.
+
+- **Mark Transaction Logs:** Ensure you mark transaction logs across all databases before backing up. This ensures consistency across multiple databases during the backup process.
+
+**Real-World Example:**
+
+In one case, an operations team used their standard SQL Server backup tools for TFS. Unfortunately, this approach didn't account for the complexity of TFS's multiple databases. During a disaster recovery scenario, they were unable to restore the databases properly, leading to significant downtime and the need for Microsoft engineers to intervene.
+
+## **Ensuring Successful Migrations**
+
+Despite the challenges, migrating to Azure DevOps doesn't have to be a nightmare. With the right approach, you can avoid many common pitfalls.
+
+### **Key Steps:**
+
+1. **Plan the Order of Operations:** Ensure you follow the correct sequence for all migration tasks.
+
+3. **Align Identities:** Double-check that all user identities are correctly mapped during the migration.
+
+5. **Clean Up Your Database:** Remove any obsolete or unnecessary data before migrating.
+
+7. **Follow Backup Best Practices:** Use TFS-documented procedures and mark transaction logs.
+
+**Final Thoughts:**
+
+90% of the time, migrations go smoothly if you follow these guidelines. However, when something does go wrong, it often requires deep expertise to fix. The Azure DevOps team has done a great job of making the migration process easier, but there's always a chance that something might slip through the cracks.
+
+## **Conclusion**
+
+Migrating to Azure DevOps can be a daunting task, especially if you're dealing with legacy systems or outdated processes. However, with careful planning, attention to detail, and a thorough understanding of the potential pitfalls, you can ensure a successful migration. Remember, the key is in the preparation: plan your order of operations, align your identities, clean up your database, and always follow best practices for backups. With these steps, you can avoid the common pitfalls and ensure a smooth transition to Azure DevOps. 🚀
+
+

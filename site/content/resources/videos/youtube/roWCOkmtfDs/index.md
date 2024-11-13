@@ -1,72 +1,126 @@
 ---
-title: "What is product validation and why does it matter"
-date: 2024-09-02T15:30:15Z
+title: 'The Importance of Validation in Product Development: A Strategic Approach'
+date: 2024-11-12
 videoId: roWCOkmtfDs
-url: /resources/videos/what-is-product-validation-and-why-does-it-matter
-canonicalUrl: https://www.youtube.com/watch?v=roWCOkmtfDs
+url: /resources/videos/:slug
+slug: the-importance-of-validation-in-product-development-a-strategic-approach
 preview: https://i.ytimg.com/vi/roWCOkmtfDs/maxresdefault.jpg
 duration: 843
-isShort: False
+isShort: false
+aliases:
+- /resources/the-importance-of-validation-in-product-development-a-strategic-approach
+- /resources/videos/what-is-product-validation-and-why-does-it-matter
+
 ---
 
 {{< youtube roWCOkmtfDs >}}
 
-# What is product validation and why does it matter
+When you're developing a product, it's natural to assume that the features you're adding will deliver value to your customers and your business. But how do you truly know that these features are providing the expected value? Recently, I've been working with a client facing a common issue—sales-driven features are fragmenting their product, making it harder to use. This issue stems from prioritizing short-term gains over long-term value. In this blog post, we'll explore the pitfalls of this approach and how shifting focus towards value-driven development can lead to more sustainable success.
 
-🎯 Video Summary: Validating Feature Value in Product Development
+## **The Danger of Sales-Driven Features**
 
-📘 Introduction: Understanding Feature Validation
+### **Short-Term Gains, Long-Term Losses**
 
-- Why Validate Features?
-  - When developing a product, it's crucial to ensure that the features you add provide real value to both the customers and the business.
-  - Without validation, you might end up with features that, while closing deals, ultimately fragment the product and fail to serve the users effectively.
+One of the most significant challenges in product development is the pressure to close deals. Sales teams are often driven by the need to hit targets, which can lead to the inclusion of features that have little to do with the product's overall vision or the needs of the end-users. While closing a deal is important, doing so at the expense of the product's integrity can have long-term negative consequences.
 
-🔍 Key Concepts in Feature Validation
+- **Fragmentation of the Product**: Adding features solely to close a deal can make the product more complex and harder to use.
 
-1. 💡 Assumed Value vs. Actual Value:
-   - Sales-driven features often get added to products to close deals, but these features might not align with long-term user needs or product goals.
-   - The challenge lies in distinguishing between features that close a deal and those that truly add value over time.
+- **Hidden Costs**: A feature might help close a $30,000 deal, but if it costs $100,000 in support, maintenance, and lost future sales, was it worth it?
 
-2. 💰 The Cost of Poor Validation:
-   - Adding a feature to close a $30,000 deal might seem beneficial, but if that feature costs $100,000 in support and maintenance over time and doesn't attract more customers, it’s a net loss.
-   - Sales teams may push for features that close deals because their incentives are tied to immediate revenue, not long-term value.
+### **The Sales Incentive Problem**
 
-3. 📈 Shifting to Value-Based Metrics:
-   - Organizations can benefit from changing how they measure success. For example, Microsoft shifted Azure salespeople's bonuses from the amount sold to the amount used by customers, aligning incentives with customer satisfaction and long-term value.
+Sales teams are usually incentivized based on the deals they close. They might receive a bonus for securing a $30,000 deal, regardless of whether the feature they sold adds long-term value. This creates a misalignment between what’s good for the product and what’s good for the salesperson.
 
-🚀 Best Practices for Feature Validation
+**Example: Microsoft Azure’s Approach**
 
-1. 🔄 Hypothesis-Driven Engineering:
-   - Before adding a feature, create a hypothesis about the expected outcome. For instance, if you believe adding a Facebook login will increase user sign-ups, define the metrics that will prove or disprove this hypothesis.
-   - Collect data to measure the impact of the feature, such as the percentage of users who choose Facebook login and the overall increase in new users.
+Microsoft faced a similar challenge with Azure. Originally, sales bonuses were tied to the number of Azure hours sold, leading to situations where customers bought large amounts of capacity but didn't use it, resulting in dissatisfaction. Microsoft shifted its approach by tying bonuses to the actual usage of Azure hours by customers, encouraging salespeople to focus on customer value rather than just closing deals.
 
-2. 🧪 Experimentation and Telemetry:
-   - Implement telemetry to track feature usage and validate whether the feature is delivering the expected value.
-   - Use this data to make informed decisions about continuing, pivoting, or removing features.
+## **Shifting Focus: From Revenue Extraction to Value Creation**
 
-3. 📊 Push Back on Unvalidated Features:
-   - Encourage teams to challenge the addition of features by asking for a clear hypothesis and understanding the potential long-term costs.
-   - Validate features incrementally and be willing to halt further investment if early data shows the feature isn’t performing as expected.
+### **The Hypothesis-Driven Approach**
 
- The Importance of Data in Decision Making
+To ensure that your product is delivering real value, it’s crucial to adopt a hypothesis-driven approach. This method involves creating a hypothesis about the value a feature will add before it's implemented, and then testing that hypothesis once the feature is live.
 
-- The Cost of Wasted Features:
-  - Data shows that only 35% of features in products are actually used by customers, meaning that a significant portion of development efforts may be wasted.
-  - This statistic highlights the importance of validating features before fully committing to them.
+### **What is Hypothesis-Driven Engineering?**
 
-- Making Informed Decisions:
-  - Product managers and teams need to use data to assess feature usage continuously.
-  - Decisions about whether to double down on, pivot, or remove features should be based on solid evidence, not assumptions.
+Hypothesis-driven engineering involves making educated guesses about the impact of a feature and then validating those guesses with data. For example:
 
- Conclusion: Emphasizing Validation in Product Development
+- **Hypothesis**: Adding a passwordless login option will increase user sign-ups.
 
-- Validation as a Core Practice:
-  - Validation is crucial to ensuring that the features you add to your product provide the intended value.
-  - By focusing on evidence-based decisions, you can reduce waste, enhance user satisfaction, and drive long-term product success.
+- **Validation**: After implementing the feature, track how many users choose the passwordless option and whether overall sign-ups increase.
 
-- Call to Action:
-  - Start integrating telemetry into your product, develop a culture of hypothesis-driven development, and push for validation at every step of the product lifecycle.
+By continually testing and validating these hypotheses, you ensure that every feature added to the product contributes to its overall value.
 
-Visit https://www.nkdagility.com to explore how our #productevelopment mentorship program and Professional Product Discovery and Validation program can help you thrive. #agile #scrum #agile
+### **Measuring Success**
 
-[Watch on YouTube](https://www.youtube.com/watch?v=roWCOkmtfDs)
+To measure the success of a hypothesis, it’s essential to have the right telemetry in place. This means setting up your product to collect data on how features are used, allowing you to make informed decisions.
+
+- **Data Collection**: Track how users interact with new features.
+
+- **Usage Analysis**: Determine if the feature is being used as expected and if it’s contributing to the overall goals of the product.
+
+### **The Importance of Telemetry**
+
+Telemetry is the lifeblood of hypothesis-driven development. Without it, you’re flying blind. You need to monitor how features are used, gather data on their impact, and adjust your approach based on that data. This allows you to make evidence-based decisions and ensures that you’re investing in features that truly add value.
+
+## **Avoiding the Pitfalls: A Case Study**
+
+### **The Chaos Report**
+
+According to data from the Chaos Report, only 35% of features in software products are actually used by customers. This means that for every million dollars invested in product development, $650,000 is wasted on features that don’t add value.
+
+- **Why is this happening?** Features are often added without sufficient validation of their value.
+
+- **What can be done?** By adopting a hypothesis-driven approach and validating features before full-scale implementation, you can reduce waste and increase the value delivered to customers.
+
+## **Practical Steps to Implementing Hypothesis-Driven Development**
+
+### **1\. Define the Hypothesis**
+
+Before implementing any feature, clearly define what you expect it to achieve. For example, “If we add a Facebook login option, we expect a 10% increase in new user sign-ups.”
+
+### **2\. Set Up Telemetry**
+
+Ensure that you have the right tools in place to track the feature's usage. This might involve setting up analytics to monitor user behavior, tracking how many users engage with the new feature, and analyzing whether it’s driving the desired outcome.
+
+### **3\. Validate the Hypothesis**
+
+Once the feature is live, compare the actual data against your hypothesis. Did you achieve the expected increase in sign-ups? Are users engaging with the feature as anticipated?
+
+### **4\. Make Data-Driven Decisions**
+
+Based on the data, decide whether to:
+
+- **Double Down**: Continue investing in the feature if it’s driving value.
+
+- **Pivot**: Adjust the feature to better meet user needs.
+
+- **Stop Investing**: If the feature isn’t adding value, consider removing it or stopping further development.
+
+## **The Role of Product Managers and Owners**
+
+### **Accountability and Decision-Making**
+
+Product managers and owners play a crucial role in this process. They are responsible for ensuring that features align with the product's vision and deliver value to users. This involves making tough decisions about which features to invest in and which to discard.
+
+- **Ask the Right Questions**: How many customers are using the feature? Is it worth the investment? What’s the total cost of ownership?
+
+- **Use Data to Back Decisions**: With telemetry in place, product managers can make informed decisions about the future of features, ensuring that the product evolves in a way that maximizes value.
+
+## **Conclusion**
+
+In today’s fast-paced product development environment, it’s easy to fall into the trap of adding features to close deals without considering their long-term impact. However, by adopting a hypothesis-driven approach, collecting the right data, and making informed decisions based on that data, you can ensure that your product remains focused on delivering real value to your customers.
+
+**Key Takeaways**
+
+- **Avoid Sales-Driven Features**: Focus on long-term value rather than short-term gains.
+
+- **Implement Hypothesis-Driven Development**: Define, track, and validate the impact of new features.
+
+- **Use Telemetry to Make Informed Decisions**: Collect data to ensure features are adding value.
+
+- **Empower Product Managers**: Give them the tools and data they need to make evidence-based decisions.
+
+🚀 By following these principles, you can create products that not only close deals but also deliver sustained value to your customers and your business.
+
+

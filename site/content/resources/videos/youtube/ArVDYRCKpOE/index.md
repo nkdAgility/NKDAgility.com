@@ -1,31 +1,52 @@
 ---
-title: "Quotes, Fake it until you make it"
-date: 2023-10-11T15:00:13Z
+title: 'Quotes: Fake it until you make it'
+date: 2023-12-24
 videoId: ArVDYRCKpOE
-url: /resources/videos/quotes,-fake-it-until-you-make-it
-canonicalUrl: https://www.youtube.com/watch?v=ArVDYRCKpOE
+url: /resources/videos/:slug
+slug: quotes-fake-it-until-you-make-it
 preview: https://i.ytimg.com/vi/ArVDYRCKpOE/maxresdefault.jpg
 duration: 64
-isShort: False
+isShort: false
+aliases:
+- /resources/quotes-fake-it-until-you-make-it
+- /resources/videos/quotes,-fake-it-until-you-make-it
+
 ---
 
 {{< youtube ArVDYRCKpOE >}}
 
-# Quotes, Fake it until you make it
+## Navigating its Limits in Agile Work Environments 
 
-#shorts #shortsvideo #shortvideo Is it really a great idea to fake it until you make it in #agile? Martin Hinshelwood gives us his thoughts
+Hello, Agile practitioners and enthusiasts. Today, let's chat about a well-known phrase in our professional lexicon: "Fake it till you make it." 🚀  
 
-About NKD Agility
+But, as much as this phrase is bandied about, let's discuss its limitations and how to apply it judiciously in our Agile workspaces. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## The Limits of Pretence  
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+"Fake it till you make it" has its place, but it's crucial to understand its boundaries: 
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+- **Not Suitable for All Roles:** Faking it as a neurosurgeon? Absolutely not. Some roles require genuine expertise from the get-go. 🧠 
 
-We would love to work with you. 
+- **Misplaced Confidence Can Backfire:** In roles like plastering or any skilled trade, pretending expertise can lead to poor outcomes and lost trust. 🏚️ 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## When to "Fake It"  
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ArVDYRCKpOE)
+This approach can be beneficial under certain circumstances: 
+
+- **Filling Minor Knowledge Gaps:** When you’re close to grasping a concept or skill, a bit of confidence can bridge that gap. 
+
+- **Learning on the Job:** Sometimes, you learn best by doing – especially in fast-paced Agile environments. 🌟 
+
+## Balancing Act: Expertise and Learning  
+
+The key is to strike a balance: 
+
+- **Hire Experts:** For crucial or high-skill tasks, rely on proven expertise. 💼 
+
+- **Encourage Coaching:** Experts should mentor those who are less experienced, creating a learning culture. 📚 
+
+- **Embrace Continuous Learning:** Encourage a mindset where team members are always expanding their skills. 📈 
+
+In summary, "Fake it till you make it" should be used with caution. It's a tool for building confidence and learning, not a substitute for real expertise. In our Agile teams, let’s foster environments where learning is ongoing and expertise is valued.
+
+

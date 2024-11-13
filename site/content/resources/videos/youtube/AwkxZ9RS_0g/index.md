@@ -1,36 +1,72 @@
 ---
-title: "How does your consulting experience manifest in the training environment?"
-date: 2023-06-21T07:00:03Z
+title: How Does Your Consulting Experience Manifest in the Training Environment?
+date: 2023-11-10
 videoId: AwkxZ9RS_0g
-url: /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
-canonicalUrl: https://www.youtube.com/watch?v=AwkxZ9RS_0g
+url: /resources/videos/:slug
+slug: how-does-your-consulting-experience-manifest-in-the-training-environment
 preview: https://i.ytimg.com/vi/AwkxZ9RS_0g/maxresdefault.jpg
 duration: 264
-isShort: False
+isShort: false
+aliases:
+- /resources/how-does-your-consulting-experience-manifest-in-the-training-environment
+- /resources/videos/how-does-your-consulting-experience-manifest-in-the-training-environment-
+
 ---
 
 {{< youtube AwkxZ9RS_0g >}}
 
-# How does your consulting experience manifest in the training environment?
+## Synergy Between Consulting and Training
 
-There's an old saying, 'those who can't, teach!' and it gained popularity because the majority of teachers had little to no experience in doing the work. They simply read the theory, and learned how to teach that theory to others.
+Today's topic question is my personal favourite: "How does my consulting experience manifest in the training environment?"
 
-Is that helpful? In the context of #agile and #scrum, certainly not. You need to have lived and breathed these values and principles. You need to have done the work. You need to have overcome several challenges. You need to be an expert if you are going to teach others.
+For me, this is a subject that unearths the core of what effective training should be, and I'm excited to delve into it.  📚
 
-In this short video, Martin Hinshelwood explains how his working experience, as an expert in the field, translates into teaching and empowering people in the classroom.
+## Twin Pillars: Consulting and Training
 
-About NKD Agility
+When I'm consulting and training, it manifests itself all over the place, to be honest.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+This synergy isn't just a coincidence—it's fundamental. Training is far more than lecturing on textbook solutions.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+It's a unique space where particular instances, ideas, and solutions spring to life. 🎯
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+## The Power of Situational Experience
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+I feel that I bring to a training class the situational experiences I've had with organisations, teams, and leadership groups.  🌟
 
-We would love to work with you. 
+These aren't just tales or fables; these are real-life lived experiences. Through these authentic situational accounts, the training process gains its full measure of value and relatability.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+## Always a Worse Story
 
-[Watch on YouTube](https://www.youtube.com/watch?v=AwkxZ9RS_0g)
+Without fail, I've always got a worse story than whatever the students bring, and that's a strength. It lightens the atmosphere, enabling open and candid discussions.
+
+Whether it's a technical dilemma, a cultural hurdle, or a business obstacle, I can pull out a worse example.  😂
+
+## Why Realness in Training Is Not Negotiable
+
+What differentiates my training classes is that they centre around real experiences.
+
+It's a simple but powerful criterion: trainers have to have actually done what they're talking about.
+
+This hands-on perspective, rooted in real consulting experience, transforms the training content into an engaging and profoundly impactful resource.
+
+## losing the Gap: From Theory to Real-World Application
+
+We talk about Agile and Scrum in training, but companies are often far removed from these principles.   
+
+So, how do we close this chasm?
+
+How do we go from theory to real-world applications?
+
+Surprisingly, the answer is straightforward: a trainer with a substantial Agile or DevOps consulting background.
+
+Step Into a Training Experience Grounded in Reality
+
+Captivated by the notion of an Agile and Scrum training program steeped in genuine consulting experience?  🚀
+
+Say no more.
+
+Enrol in my upcoming Agile and Scrum courses to experience this enriching blend of consulting wisdom and educational expertise.
+
+👉 Sign up now and supercharge your Agile and Scrum journey!
+
+

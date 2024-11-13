@@ -1,72 +1,154 @@
 ---
-title: "Introduction to Evidence Based Management"
-date: 2024-09-11T13:36:29Z
+title: 'Mastering Evidence-Based Management in Agile: Inform, Don’t Control'
+date: 2024-11-18
 videoId: 66NuAjzWreY
-url: /resources/videos/introduction-to-evidence-based-management
-canonicalUrl: https://www.youtube.com/watch?v=66NuAjzWreY
+url: /resources/videos/:slug
+slug: mastering-evidence-based-management-in-agile-inform-dont-control
 preview: https://i.ytimg.com/vi/66NuAjzWreY/maxresdefault.jpg
 duration: 414
-isShort: False
+isShort: false
+aliases:
+- /resources/mastering-evidence-based-management-in-agile-inform-dont-control
+- /resources/videos/introduction-to-evidence-based-management
+
 ---
 
 {{< youtube 66NuAjzWreY >}}
 
-# Introduction to Evidence Based Management
+## **What is Evidence-Based Management?**
 
-Understanding Evidence-Based Management (EBM)
+**Evidence-Based Management (EBM)** is the strategic use of data to inform decision-making processes at both the strategic and tactical levels of an organization. It’s about using data as a guide—not a dictator—to shape behaviors and drive outcomes that benefit your business.
 
----
+In essence, it’s not about letting numbers rule your every move; instead, you gather data to **inform your actions** and **understand the behaviors** that impact the results. Let’s dive into how EBM can transform your approach to management and decision-making.
 
-📘 Introduction to Evidence-Based Management (EBM)
+* * *
 
-- What is EBM?
-  - Evidence-based management (EBM) applies data-driven practices at both strategic and tactical levels in an organization.
-  - It focuses on using data to **inform** decisions, rather than control them, ensuring that actions positively impact outcomes.
+## **Why Data Matters (But Shouldn’t Control)**
 
-🧠 Key Concepts in EBM
+**Data informs behaviors.** The way you measure your team's performance has a direct impact on how they behave. Ever encountered someone in your organization who seems to be working against the team’s goals or is less engaged than expected? 🤔 Often, it's not a personal issue—it’s about the metrics they’re being judged on.
 
-1. 📊 Data-Driven Decision Making*
-   - EBM is about collecting **evidence** within an organization to understand how actions and behaviors are affecting outcomes.
-   - It's essential to understand that **how people are measured** affects their behaviors. For instance, if someone’s behavior seems counterproductive, it could be driven by organizational metrics that encourage that behavior.
+### **Here’s Why That Happens:**
 
-2. 🔄 Focus on Positive Outcomes
-   - The goal of EBM is to foster behaviors that **positively impact outcomes**, such as increased customer value, revenue growth, or cost savings.
-   - Organizations must clearly define their desired outcomes, then measure progress towards those goals with appropriate metrics.
+- Metrics and measures often **influence individual behaviors**.
 
----
+- People respond to the metrics that are used to evaluate them.
 
-Best Practices in EBM
+- Understanding these metrics can help you see why a person or team acts in a particular way.
 
-1. 📊 Inform, Don’t Control
-   - Metrics should **inform** decisions, not dictate them. Data can provide insights but should not be treated as absolute truth without further investigation.
-   - Example: A team might have unresolved live site incidents for several sprints. This could be due to external dependencies beyond their control, not because of inefficiency.
+**Pro tip:** If you notice a team member's actions aren't aligning with your expectations, dig into the metrics they are held accountable for. It can provide clarity on why they behave the way they do.
 
-2. 🔍 Leading and Lagging Metrics:
-   - **Leading metrics** help predict future outcomes, while **lagging metrics** reflect past performance. A combination of both helps teams make more informed decisions about how to move forward.
-   
-3. 📈 Track Progress and Trends:
-   - Analyzing trends in data, such as the number of unresolved issues over time, can provide valuable insights. However, understanding the context behind the numbers is critical to avoid misinterpreting the data.
+* * *
 
-⚖️ Making Informed Decisions
+## **Using Metrics to Drive Positive Outcomes**
 
-1. 📉 Data Gaps and Extrapolation:
-   - It’s important to recognize that data will often have gaps, and informed decisions need to be made with the best available evidence.
-   - Teams need to gather **as much evidence as possible** and then make educated assumptions about areas with incomplete data.
+### **Step 1: Define Your Desired Outcomes**
 
-2. 🛠 Example of Using EBM:
-   - A company may set a metric around clearing live site incidents within three sprints. If a team hasn’t resolved an issue in six sprints, the data **informs** that there’s a delay, but it doesn’t mean the team is at fault. Further investigation might reveal that external factors are causing the delay.
+Before diving into metrics, you need to establish **what outcomes you want to achieve**. Here are some common business outcomes you might aim for:
 
-🌟 Conclusion: The Value of Evidence-Based Management
+- 📈 **Increased revenue**
 
-- Informed, Not Controlled:
-   - EBM helps organizations make **evidence-informed decisions**, taking into account the complexity of real-world situations where data alone doesn’t provide the full story.
-   
-- Driving Positive Outcomes:
-   - By focusing on metrics that align with **desired outcomes**, such as customer value and operational efficiency, organizations can make better decisions that drive long-term success.
+- 💡 **Enhanced value delivery** to customers
 
-- **EBM in a Nutshell**:
-   - EBM is about collecting evidence, understanding the broader context, and making informed decisions that positively impact organizational outcomes.
+- 💵 **Cost savings**
 
-Visit https://www.nkdagility.com to explore how Evidence-based Management can be a game-changer for your organization.
+- 🚀 **Expanding market capabilities**
 
-[Watch on YouTube](https://www.youtube.com/watch?v=66NuAjzWreY)
+Without a clear understanding of your desired outcomes, it’s challenging to select metrics that guide your organization in the right direction.
+
+### **Step 2: Identify Metrics That Measure Progress**
+
+Once you have your outcomes defined, the next step is to **identify metrics** that can help you measure progress towards those goals. These metrics can be either:
+
+- **Leading indicators**: Metrics that predict future outcomes.
+
+- **Lagging indicators**: Metrics that show the results after the actions have been taken.
+
+### **Example of a Useful Metric**
+
+Let’s say your organization is running a live service and you want to minimize service outages. A valuable metric might be:
+
+- **Number of live site incidents** that exist for longer than three sprints.
+
+By tracking this, you can monitor whether issues are being resolved promptly and identify any trends. For instance, if most teams resolve issues quickly but one team struggles with incidents lingering beyond six or seven sprints, it’s a flag to investigate further. 🚩
+
+* * *
+
+## **Informing Decisions Without Over-Controlling**
+
+One of the key tenets of EBM is that data should **inform, not control**. Metrics provide signals, not absolute truths. For example, if you notice a team lagging in clearing incidents, it’s not always a sign of failure. It’s a signal that calls for deeper exploration.
+
+### **A Real-World Scenario**
+
+Imagine a team has unresolved incidents beyond the typical three-sprint window. This doesn’t automatically mean they’re underperforming. They might be:
+
+- Waiting on actions from a **third-party** they have limited influence over.
+
+- Dealing with **external dependencies** that are slowing down their resolution process.
+
+In such cases, the team might be doing everything right—**chasing the issue, applying pressure**, and keeping it on their radar—but progress is slow due to factors outside their control. 📅
+
+The takeaway? **Data informs but doesn’t dictate.** Use it as a conversation starter to understand the challenges your teams face.
+
+* * *
+
+## **Making Data-Driven Decisions: A Balanced Approach**
+
+### **The Process of Evidence-Based Decision-Making**
+
+1. **Collect Data**: Gather quantitative and qualitative data from your teams.
+
+3. **Analyze the Metrics**: Identify patterns, trends, and anomalies.
+
+5. **Ask Questions**: Use the data as a basis to ask deeper questions about what’s happening.
+
+7. **Make Informed Decisions**: Apply your findings to make decisions that align with your desired outcomes.
+
+### **Why Metrics Have Gaps (And How to Bridge Them)**
+
+Data doesn’t always tell the whole story. There will be **gaps and unknowns**. The key is to **extrapolate from what you do know** and make informed assumptions about the rest. Think of it like putting together a puzzle—sometimes, you need to infer the missing pieces.
+
+### **Practical Tips for Implementing EBM**
+
+- **Create a dashboard** to track key metrics for your teams.
+
+- **Review metrics regularly** to spot trends early.
+
+- **Engage your teams in the process**, allowing them to understand how their work impacts the metrics and outcomes.
+
+* * *
+
+## **Transforming Your Organization with Evidence-Based Management**
+
+### **The Benefits of EBM**
+
+By adopting an evidence-based approach, your organization can enjoy several benefits:
+
+- 🚀 **Better alignment** between strategic goals and day-to-day actions.
+
+- 💬 **Improved communication** as data becomes a common language for decision-making.
+
+- 🎯 **Focus on value** rather than arbitrary targets, leading to more meaningful progress.
+
+- 🧠 **More empowered teams**, as they understand the rationale behind decisions and can adapt their actions accordingly.
+
+### **Personal Advice from the Field**
+
+As a Scrum Trainer, I’ve seen firsthand the transformative power of EBM in organizations. It’s not about hitting a specific number every time—it’s about using data to **guide meaningful conversations** and **adjust your course** when needed.
+
+Remember, it’s okay if the data doesn’t always tell you what you want to hear. 📊 It’s a tool to help you get closer to your goals, not a measure of your worth or your team’s value.
+
+* * *
+
+## **Final Thoughts: Using Data to Inform, Not Dictate**
+
+**Evidence-Based Management** is all about balance. You want to leverage data to improve your organization’s outcomes, but without letting those numbers control your every move. Focus on the bigger picture:
+
+- **Define your outcomes** clearly.
+
+- **Choose metrics** that align with those goals.
+
+- **Use data to inform**—not dictate—your decisions.
+
+By following this approach, you can create a culture where data is a trusted advisor, not a demanding boss. This shift can lead to better decisions, more engaged teams, and ultimately, **greater value delivery** for your customers. 🚀 Now, go forth and let data be your guide—not your master!
+
+

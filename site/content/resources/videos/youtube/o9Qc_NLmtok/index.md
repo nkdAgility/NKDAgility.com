@@ -1,42 +1,62 @@
 ---
-title: "8 week immersive learning course in 60 seconds"
-date: 2023-06-05T11:00:38Z
+title: 8-Week Immersive Learning Course in 60 Seconds
+date: 2023-11-07
 videoId: o9Qc_NLmtok
-url: /resources/videos/8-week-immersive-learning-course-in-60-seconds
-canonicalUrl: https://www.youtube.com/watch?v=o9Qc_NLmtok
+url: /resources/videos/:slug
+slug: 8-week-immersive-learning-course-in-60-seconds
 preview: https://i.ytimg.com/vi/o9Qc_NLmtok/maxresdefault.jpg
 duration: 50
-isShort: True
+isShort: true
+aliases:
+- /resources/8-week-immersive-learning-course-in-60-seconds
+- /resources/videos/8-week-immersive-learning-course-in-60-seconds
+
 ---
 
 {{< youtube o9Qc_NLmtok >}}
 
-# 8 week immersive learning course in 60 seconds
+## Immersive Learning: 8 Weeks of Deep Engagement
 
-#shorts #shortsvideo #shortvideo Scrum.Org have launched a new format for professional scrum training called the immersive learning experience. In this short video, Martin Hinshelwood explains what the immersive learning experience is and why it offers a competitive advantage for you.
+Hey, Agile enthusiasts! 🚀
 
-*Book today - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
+Let's go from surface skimming of immersive learning and delve into the magic behind the immersive learning approach of Scrum.org, all in a condensed narrative.
 
-*Innovative Immersion Training at NKDAgility*
+Buckle up!
 
-NKDAgility's Immersion Training reimagines traditional classroom learning. Our approach involves:
+Let's go!
 
-- *Incremental Classroom Learning:* Short, engaging live sessions spread over several weeks, each lasting up to 4 hours. This structure allows learners to thoroughly understand each concept at a comfortable pace.
-- *Outcome-Based Assignments:* Assignments linked to each session emphasize practical application and innovation, catering to various skill levels and backgrounds.
-- *Facilitated Reflections:* Each class starts with a reflective session where learners discuss their assignment experiences with their Professional Scrum Trainer, fostering peer learning and actionable insights.
+## The Magic of Immersive Learning
 
-This Immersion Training is designed to offer a more interactive, reflective, and practical learning experience, ensuring not just knowledge acquisition but also application and growth. Join us for a transformative educational journey.
+A philosophy of profound engagement is at the heart of our Scrum.org courses, spanning an insightful 7 to 10 weeks.  📚
 
-Starting in 2024, we will be running immersive classes in bundles as Learning Journeys that you can book together, or on their own! Our 24Q1 bundles are:
+These courses provide a blend of theoretical wisdom and hands-on application, ensuring participants swim with the current, not against it.
 
-- _Professional Scrum Product Owner & Product Backlog Management Skills: https://nkdagility.com/training-courses/scrum-training-courses/_professional-scrum-product-owner-pspo-with-certification/pspo-2024-01-17-50822/
-- _Professional Scrum Master & Professional Scrum Facilitation Skills: https://nkdagility.com/training-courses/scrum-training-courses/_professional-scrum-master-psm-with-certification/psm-2024-01-17-50838/
-- _Professional Agile Leadership Essentials & Evidence-Based Management (PAL-EBM): https://nkdagility.com/training-courses/scrum-training-courses/professional-agile-leadership-with-evidence-based-management-pal-ebm-with-certification/pal-ebm-2024-03-08-50867/_
+## From Classroom to Real-World Expeditions
 
-*BOOK TODAY - https://nkdagility.com/training-courses/course-schedule/ -- Regional pricing, bulk discount, & alumni discounts available!*
+Let's take a closer look at some of the benefits of these courses.  
 
-If you are underemployed, we can also create custom payment plans to help you out. Just ask!
+And remember, embarking on this immersive learning journey is akin to charting unknown waters, discovering strategies, and harnessing newfound skills.
 
-#scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner
+It's not just learning; it's a transformative experience. 🌟
 
-[Watch on YouTube](https://www.youtube.com/watch?v=o9Qc_NLmtok)
+Here are a few key benefits of immersive learning:
+
+1\. Time-tested:  Whether it's 7 or 10 weeks, these immersive courses from Scrum.org have been perfectly crafted.
+
+2\. Blended Learning:  A mix of in-class and offline learning ensures holistic education.
+
+3\. Practical Assignments:  Post-session tasks? Absolutely! We encourage learners to apply freshly-acquired techniques within their organizations.
+
+4\. Collaborative Feedback:  Return to class, discuss your assignments, and share collective insights. That's the power of shared experiences!
+
+5\. Tailored for Transformation:  Courses like the PSPO are built around an 8-week interactive model primed for instigating change.
+
+Ready to leap into a transformative journey and redefine your Agile approach?
+
+Dive into our immersive courses and emerge with insights and actionable strategies.
+
+See you in class! 📖✌️
+
+Elevate your Scrum game! 🚀
+
+

@@ -1,42 +1,102 @@
 ---
-title: "5 ghosts of agile past. burndown charts"
-date: 2024-01-01T07:00:20Z
+title: 'The Ghosts of Agile Past: Why Burndown Charts Might Be Holding You Back'
+date: 2024-10-18
 videoId: ymKlRonlUX0
-url: /resources/videos/5-ghosts-of-agile-past-burndown-charts
-canonicalUrl: https://www.youtube.com/watch?v=ymKlRonlUX0
+url: /resources/videos/:slug
+slug: the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
 preview: https://i.ytimg.com/vi/ymKlRonlUX0/maxresdefault.jpg
 duration: 419
-isShort: False
+isShort: false
+aliases:
+- /resources/the-ghosts-of-agile-past-why-burndown-charts-might-be-holding-you-back
+- /resources/videos/5-ghosts-of-agile-past-burndown-charts
+
 ---
 
 {{< youtube ymKlRonlUX0 >}}
 
-# 5 ghosts of agile past. burndown charts
+Have you ever felt something was off with burndown charts? I know I have. There's always been this nagging feeling that something wasn't quite right. Over the years, people have revered these charts as the ultimate tool for monitoring a team’s progress. But I’ve come to realize that this couldn’t be further from the truth.
 
-Debunking Agile Myths: The Burndown Chart Fallacy - Discover why burndown charts may not be the Agile panacea they're often thought to be. Dive into Agile realities with Martin from NKDAgility.
+### Burndown Charts: The False Holy Grail
 
-Enjoy this video? 🔔 Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+Let’s start by addressing the elephant in the room: burndown charts are often seen as the _holy grail_ of monitoring a team. But when you dig deeper, you realize they’re built on assumptions that just don’t align with the way Agile teams work.
 
-🎬 In this video, Martin from NKDAgility challenges the conventional wisdom of burndown charts in Agile project management. 📊 He delves into the pitfalls of this popular tool, questioning its effectiveness and compatibility with true Agile principles. Martin shares his expert insights on why the Agile community should rethink using burndown charts and offers practical, adaptive alternatives. Stay tuned to uncover the hidden truths behind one of Agile's most debated practices! 🤔💡
+#### The Myth of Fixed Scope and Just-in-Time Planning
 
-Key Takeaways:
-00:00:00 Intro to Burndown Chart Skepticism
-00:00:22 Just-in-Time Planning & Fixed Scope Issues
-00:01:57 Critique of Upfront Task Planning
-00:05:04 Agile Teams' Need for Adaptability
-00:06:14 Overcoming Agile Myths
+Burndown charts operate under the assumption that the scope of work is fixed at the start of a sprint. The idea is that you can’t change the scope once the sprint begins, or if you do, you need to replace a task with one of equal size.
 
-NKDAgility can help!
+💡 **Let’s get real:** This mindset is rooted in traditional project management thinking. You know, the “set it and forget it” approach to scope control. But Agile doesn’t work that way.
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you _struggle to adapt to Agile's dynamic nature_, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+Agile embraces _just-in-time planning_. This doesn’t just apply to the product backlog; it extends to the sprint backlog too. The notion that you can lock in all the work at the start of a sprint is a fallacy. The real world doesn’t work like that.
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+### The Problem with Upfront Task Planning
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcomming professional Scrum classes: https://nkdagility.com/training-courses_
+One of the biggest issues I have with burndown charts is the reliance on upfront task planning. Some teams even go as far as to burn down _hours on tasks_. To me, that’s the worst way to do it. Let me explain why.
 
-Because you dont just need agility, you need Naked Agility.
+At the start of the sprint, teams often try to plan out every task, along with the hours it will take to complete each one. But here’s the problem:
 
-#Agile, #Scrum, #SprintBacklog, #ContinuousImprovement, #RespondingToChange
+- We **discover** more by _doing_ than by thinking upfront.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ymKlRonlUX0)
+- No one can accurately predict all the tasks and the hours they will take before they begin.
+
+- Even if you think you’re getting 90% of the way there, it’s still wrong.
+
+💬 **My advice?** Forget about trying to plan everything upfront. I’m not just saying that 90% is wrong—50% is probably wrong too. The reality is that we often don’t know what it will take to complete a task until we’re already knee-deep in it.
+
+### Managing Work Empirically
+
+Agile is founded on empiricism. That means we learn by doing and adapt as we go. In an empirical process, you’re not going to know exactly what it will take to complete a piece of work before you start. That’s why burndown charts, which are designed to predict the trajectory of work completion, are fundamentally flawed.
+
+Let’s consider an alternative: Instead of trying to predict everything upfront, manage the work empirically. Adjust and adapt as you discover new information during the sprint.
+
+### Burndown in Story Points or Stories
+
+Now, some teams attempt to improve burndowns by burning down _story points_ instead of hours. Others take it even further and burn down _stories_. This approach is slightly better because it’s less granular. But even then, it’s not perfect.
+
+✅ **Here’s a better way:** Instead of focusing on burning down tasks or stories, focus on the flow of value through your system. A steady, consistent flow of value is far more important than meeting some arbitrary goal on a graph.
+
+- If you're halfway through the sprint and you've delivered 50% of the value, things are going well.
+
+- If you're halfway through and have only delivered 30%, then it's time to reassess.
+
+But remember, these measurements are still based on the assumption that the tasks were properly scoped upfront—which, as we’ve discussed, is rarely the case.
+
+### Agile Teams Need Flexibility, Not Fixed Plans
+
+The teams that excel in Agile are the ones that embrace adaptability. They're not just delivering on the sprint goal; they're also managing:
+
+- Technical debt
+
+- Refactoring
+
+- Ongoing bug fixes
+
+- Responding to new business needs
+
+- Production issues
+
+🛠️ **The takeaway:** Instead of rigidly adhering to a burndown chart, focus on maintaining a consistent flow of value. By doing so, you’ll avoid the trap of trying to hit arbitrary milestones that don’t reflect the real world of product development.
+
+### Overcoming the Ghosts of Agile Past
+
+If you find yourself haunted by the ghosts of Agile past—like burndown charts—don’t worry. You’re not alone. Many teams still fall into the trap of relying on outdated tools and practices. But the good news is that you can overcome these challenges.
+
+Here’s what you can do:
+
+- **Focus on flow over fixed plans:** Prioritize the flow of value through your system rather than hitting arbitrary targets.
+
+- **Embrace just-in-time planning:** Allow room for changes and adaptations throughout the sprint.
+
+- **Rely on empiricism:** Make decisions based on what you learn during the sprint, not what you _think_ will happen upfront.
+
+📧 **Need help?** If you’re struggling with these issues, don’t hesitate to reach out. We can help you exorcise the ghosts of Agile past. Whether it’s through coaching, consulting, or training, we’ll work with you to develop an approach that suits your team’s unique needs.
+
+* * *
+
+## Conclusion
+
+Burndown charts might seem like a useful tool, but they often hinder Agile teams more than they help. By focusing on rigid plans and fixed scopes, they ignore the fundamental principle of Agile: **adaptability**.
+
+So next time you find yourself clinging to a burndown chart, remember: it’s just one of the many ghosts of Agile past. And it’s time to let it go. 👉 **Ready to move beyond burndown charts?** Reach out today, and let’s get started on transforming your team’s approach to delivering value.
+
+

@@ -1,34 +1,54 @@
 ---
-title: "How does a scrum team create a sprint goal?"
-date: 2023-06-01T11:00:15Z
+title: How does a Scrum team create a sprint goal?
+date: 2023-10-13
 videoId: GJSBFyoHk8E
-url: /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
-canonicalUrl: https://www.youtube.com/watch?v=GJSBFyoHk8E
+url: /resources/videos/:slug
+slug: how-does-a-scrum-team-create-a-sprint-goal
 preview: https://i.ytimg.com/vi/GJSBFyoHk8E/maxresdefault.jpg
 duration: 53
-isShort: True
+isShort: true
+aliases:
+- /resources/how-does-a-scrum-team-create-a-sprint-goal
+- /resources/videos/how-does-a-scrum-team-create-a-sprint-goal-
+
 ---
 
 {{< youtube GJSBFyoHk8E >}}
 
-# How does a scrum team create a sprint goal?
+## The Art of Sprint Goal Creation
 
-#shorts #shortsvideo #shortvideo A sprint goal is incredibly important in #scrum. It aligns the team around the elements of work that truly matter and ensures that the most valuable elements are delivered every #sprint 
+I'm back here again to discuss another fascinating aspect of the Scrum universe, which is the Scrum team's journey in the art of creating a Sprint Goal.🎯
 
-In this short video, Martin Hinshelwood explains what a sprint goal is and how scrum teams create them.
+##  Combining Strategic and Tactical Directions
 
-About NKD Agility
+The inception of a valuable sprint goal necessitates the Scrum team to pull in a whole lot of information. 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+In order to create a craft a top-notch sprint goal, the Scrum team can't just grab the first item on the product backlog.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+It's far more nuanced than that.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+The team needs to absorb a lot of information, including the strategic direction of the product and the tactical direction the product owner is navigating.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Plus, they also need to delve into the current engineering issues of the product.  🚀
 
-We would love to work with you. 
+## Figuring Out the 'Next Most Important Thing'
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+There needs to be an amalgamating of information.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=GJSBFyoHk8E)
+Only after being well-steeped in the product's strategic and tactical contexts the team then must ask, "What is the next most important thing we can work on?"
+
+It's about identifying the most pressing issue that can drive the product forward and offer real value for stakeholders. 💡
+
+## Choosing the Right Items from the Product Backlog
+
+Only with this solid understanding of context can the Scrum team begin to have a productive discussion about which items to pull from the product backlog into their sprint.
+
+It's about cherry-picking the right elements that align perfectly with the sprint goal and show the stakeholders value.  🎯
+
+Short and sweet, right?
+
+Sprint goal crafting is an art, and with practice, your Scrum team can master it.
+
+My Agile and Scrum courses are designed to equip you with the tools to achieve just that.  🎯
+
+

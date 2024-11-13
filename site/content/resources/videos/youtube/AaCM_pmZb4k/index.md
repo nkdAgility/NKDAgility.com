@@ -1,37 +1,71 @@
 ---
-title: "What are hierarchies of competence vs control?"
-date: 2023-04-13T14:25:06Z
+title: What are the hierarchies of competence vs control?  Why does this matter?
+date: 2023-10-09
 videoId: AaCM_pmZb4k
-url: /resources/videos/what-are-hierarchies-of-competence-vs-control-
-canonicalUrl: https://www.youtube.com/watch?v=AaCM_pmZb4k
+url: /resources/videos/:slug
+slug: what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
 preview: https://i.ytimg.com/vi/AaCM_pmZb4k/maxresdefault.jpg
 duration: 567
-isShort: False
+isShort: false
+aliases:
+- /resources/what-are-the-hierarchies-of-competence-vs-control-why-does-this-matter
+- /resources/what-are-hierarchies-of-competence-vs-control
+- /resources/videos/what-are-hierarchies-of-competence-vs-control-
+
 ---
 
 {{< youtube AaCM_pmZb4k >}}
 
-# What are hierarchies of competence vs control?
+## Hierarchies of Competence Vs Control: Insights & Relevance
 
-Have you ever had that feeling that you are being guided by a great coach, a master of their field? Someone who gets what you are trying to achieve, has the experience and skill to help you get there, but works with you to empower you to find the answer rather than dictating how things should be done?
+Have you ever wondered about the difference between hierarchies of competence and control?
 
-Enter the micromanager.
+And perhaps even more importantly, why does it matter? 💭
 
-Have you ever felt like you are simply being pushed into corners and stretched in ways that grate every nerve you've got? Treated like you are a worthless commodity that could be replaced at any moment with a drone or robot?
+Well, let's delve right into it, shall we? 🕵️
 
-These are the major differences between hierarchies of competence and hierarchies of control. Martin Hinshelwood explains.
+Let me enlighten you with the ins and outs. 🚀
 
-About NKD Agility
+## Types of Hierarchies
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Let's start with the _Hierarchy of Control,_ which is typically the traditional organisational structure - the pyramid. The deciders and thinkers are the smaller groups at the top, with the larger group at the bottom being the doers. 🧩
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Basically, it's an It's a system where everyone's told what to do.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This means decision-making is a long process of escalation, often leading to delayed and possibly inefficient responses. 📚
 
-We would love to work with you. 
+On the other hand, we have the _Hierarchy of Competence_, which is a model where leadership changes based on the task at hand and the competence required for it. This is all about flipping the traditional hierarchy on its head.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+In this model, leaders emerge based on their understanding or ability within a particular context. It's a hierarchy created based on competence, allowing for dynamic changes in leadership as per the task at hand.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=AaCM_pmZb4k)
+Leaders under this hierarchy emerge based on their expertise and capability within a particular context. The hierarchy is more flexible and faster, ensuring the most competent individual is leading at any moment. 💡
+
+## Shifting Paradigm
+
+So, why do these Hierarchies Matter Today?
+
+Hierarchies of control worked well during the Industrial Revolution – where slow and steady won the race.   The mantra was straightforward - you make the product, customers buy it. Customers weren't fickle and markets were more localised. But today, with lightning-fast market changes, this decision-making process is too slow. ⌛
+
+The thing about hierarchies of competence is that they respond to the changing dynamics of the market in real-time. They do not enforce a structure but allow the most competent individuals to take the lead in responding to market triggers.
+
+Today, it's hierarchies of competence that rule the roost. They are much quicker, dynamic, and better equipped to deal with rapid changes and market demands. 🔥
+
+## The Organisational Impact
+
+In hierarchies of control, you often see individuals promoted to their level of incompetence. This creates bloated management structures filled with individuals who may not be equipped to perform their duties efficiently.  🌐
+
+Hierarchies of competence, however, create no such enforced structure. Netflix's model is an excellent example of this, with their dynamic, ad-hoc approach that enables rapid decision-making and strategy execution. 🎯
+
+## Path Forward
+
+We must figure out how to move away from the top-down, terroristic waterfall model towards a more competence-driven hierarchy.
+
+We must get closer to the market and establish faster, shorter feedback loops.
+
+Consider transitioning towards a more competence-based hierarchy if your organisation is entrenched in a top-down, waterfall model. It may require a cultural shift, but the benefits will be worth it - a more engaged workforce, a faster feedback loop, and an organisation more attuned to market changes. 💪
+
+Ready to make your organisation more agile and efficient?
+
+Let's navigate the future of work together.
+
+

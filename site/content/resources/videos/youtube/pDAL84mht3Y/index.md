@@ -1,12 +1,13 @@
 ---
-title: "7 signs of the agile apocalypse. Plague"
+title: 7 signs of the agile apocalypse. Plague
 date: 2023-11-08T11:00:53Z
 videoId: pDAL84mht3Y
 url: /resources/videos/7-signs-of-the-agile-apocalypse-plague
 canonicalUrl: https://www.youtube.com/watch?v=pDAL84mht3Y
 preview: https://i.ytimg.com/vi/pDAL84mht3Y/maxresdefault.jpg
 duration: 47
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube pDAL84mht3Y >}}
@@ -29,3 +30,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=pDAL84mht3Y)
+
+

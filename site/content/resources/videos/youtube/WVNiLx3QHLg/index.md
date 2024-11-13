@@ -1,34 +1,53 @@
 ---
-title: "Why I love hierarchies of competence"
-date: 2023-05-03T09:30:08Z
+title: Why I love heirarchies of competence
+date: 2023-08-08
 videoId: WVNiLx3QHLg
-url: /resources/videos/why-i-love-hierarchies-of-competence
-canonicalUrl: https://www.youtube.com/watch?v=WVNiLx3QHLg
+url: /resources/videos/:slug
+slug: why-i-love-heirarchies-of-competence
 preview: https://i.ytimg.com/vi/WVNiLx3QHLg/maxresdefault.jpg
 duration: 57
-isShort: True
+isShort: true
+aliases:
+- /resources/why-i-love-heirarchies-of-competence
+- /resources/why-i-love-hierarchies-of-competence-2
+- /resources/videos/why-i-love-hierarchies-of-competence
+
 ---
 
 {{< youtube WVNiLx3QHLg >}}
 
-# Why I love hierarchies of competence
+**Why I love heirarchies of competence**
 
-#shorts a hierarchy of control is what traditional management thrives on, a top down flow of power and command. A hierarchy of competence thrives when the people best equipped to solve the problem are the people who are actively working on the problem and making decisions about how best to move forward.
+## Competence-Based Hierarchies
 
-In this short video, Martin Hinshelwood talks about the reason why he loves hierarchies of competence, rather than hierarchies of control.
+Competence-based hierarchies are undeniably compelling and draw my respect and admiration. What makes these hierarchies stand out for me is their foundation, which is built not on control or directives but on recognised competence and the abilities of individuals contributing to the work. 💪
 
-About NKD Agility
+### Deferring to Competence
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+In such setups, it feels natural, even instinctive, to defer to those individuals who have demonstrated their expertise in a given space.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Their knowledge and the value they bring to the table influence our decisions and actions. They've proven they can enrich our understanding, thus making them the go-to resource for insights.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+### Holistic Perspective
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+Importantly, these competency-based colleagues often possess a more holistic view of the problem at hand. They can weigh all the different facets of the problem at hand, allowing them to make well-informed, effective decisions. Their broad perspective, coupled with their proven expertise, makes them invaluable within their respective fields. 🚀
 
-We would love to work with you. 
+Embracing competence-based hierarchies is about recognising expertise, not authority. It's about deferring to knowledge, not power.
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+It's a refreshing and empowering approach to leadership and decision-making that I genuinely love and respect! 🙌
 
-[Watch on YouTube](https://www.youtube.com/watch?v=WVNiLx3QHLg)
+Ready to redefine leadership in your organisation?
+
+Let's shift the focus from control to competence and build a more engaged, effective team.
+
+Reach out to me for a chat, or join my training sessions to learn more. 🚀
+
+Keywords:        Competence-Based Hierarchies, Leadership, Decision Making,
+
+Hashtags:        #CompetenceOverPower, #LeadershipEvolution, #InformedDecisionMaking,
+
+General
+
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+

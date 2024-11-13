@@ -1,38 +1,86 @@
 ---
-title: "What is DevOps and how is it different to Agile?"
-date: 2023-02-23T07:00:00Z
+title: What is DevOps and how is it different to Agile?
+date: 2023-04-05
 videoId: 00V7BJJtMT0
-url: /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
-canonicalUrl: https://www.youtube.com/watch?v=00V7BJJtMT0
+url: /resources/videos/:slug
+slug: what-is-devops-and-how-is-it-different-to-agile
 preview: https://i.ytimg.com/vi/00V7BJJtMT0/maxresdefault.jpg
 duration: 181
-isShort: False
+isShort: false
+aliases:
+- /resources/what-is-devops-and-how-is-it-different-to-agile
+- /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
+
 ---
 
 {{< youtube 00V7BJJtMT0 >}}
 
-# What is DevOps and how is it different to Agile?
+What is DevOps and how is it different to Agile?
 
-One of the primary #agile values is to continuous deliver working, valuable software that delights customers.
+Fundamentally, **DevOps** is no different to **Agile** at all.
 
-In practice, that requires more than simply developing software, it requires an integrated solution that enables the software to run effectively and efficiently.
+## DevOps versus Agile
 
-Many people don't consider the DevOps element of product development, but it is an incredibly important part of ensuring valuable and continuous delivery of working software for clients.
+We are attempting to solve the same problem – deliver a working product or feature to a customer – but we are looking at it from different perspectives.
 
-In this short video, Martin Hinshelwood talks about the difference between DevOps and #agile.
+So, you will find folks that are very process-driven describing the end-to-end process of software engineering as an **agile methodology** but describing **DevOps** as a part of that delivery story. They often think of it as the automation piece of that story.
 
-About NKD Agility
+When you speak to the **DevOps** folks, they will describe DevOps as the big thing, whilst agile is a part of that story. A part of how they deliver the working solution to the customer.
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+As someone who has been a software developer, a member of a scrum or agile team, and someone who has been a **DevOps consultant** for over a decade, it is all the same thing. DevOps and Agile are the same thing, there is no difference between them.
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+Both elements of software engineering and software development are aligned with the same purpose. To deliver value to customers and to create value for the organization.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+We are talking about the same thing, we are trying to solve the same problems, and we are telling the same story about how something moves from concept to customer.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+How would technical people solve this problem and how would non-technical people solve the same problem? **Agile and DevOps**. Same outcome, different focus on the delivery element of the product.
 
-We would love to work with you. 
+They are two sides of the same coin.
+
+As a problem-solver, they both have the same core principles governing what is done and how it is done. They both have a set of practices and protocols that produce the best outcomes. Everything else are just the details that must be observed to make the product or customer experience great.
+
+### Tools.
+
+An agile environment requires tools that are fit for purpose to get the job done, as does a DevOps environment, so the tools will differ but the agile practices and empirical process control of discovering and employing the best tools for the job are the same.
+
+### Rapid Feedback Loops.
+
+Agile is built on Empirical Process Control, which is about learning through doing and using rapid feedback loops to adapt and respond as necessary.
+
+Both DevOps and Agile require you to create rapid feedback loops, and use your processes and systems to gather data and evidence that supports the feedback or reviews that you receive.
+
+Both require you to evaluate what you have done, how that has performed against the hypotheses you designed, and respond appropriately to achieve the most valuable outcomes.
+
+### Systems thinking and systems modelling.
+
+Agile and DevOps environments are crucial to capturing and creating value for customers, in a way that aligns with organizational strategy and strategic objectives.
+
+If we focus on improving things at the local level, for example, in just this department, then we end up with an imbalance somewhere else. If we focus on fixing this problem, but that creates a problem upstream, then we haven’t solved a problem, we have just created a new one.
+
+So, we need to focus on optimizing for the whole system.
+
+We need to think of interventions and experiments that will allow work to flow effectively through the entire system, and make the entire system more valuable in delivering value to customers and creating value for the organization.
+
+That is where systems thinking and systems modelling is critical.
+
+Both Agile and Devops embrace systems thinking and systems modelling to ensure that we are focused on the most valuable work, delivering the most valuable outcomes, and improving the whole experience for customers as well as people within the organization.
+
+System-side continuous improvement.
+
+So, if you want to be successful in creating and delivering valuable software products, you need Agile and DevOps to work together, in unison, to make that a reality.
+
+## About NKD Agility
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=00V7BJJtMT0)
+

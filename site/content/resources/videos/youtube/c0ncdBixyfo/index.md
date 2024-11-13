@@ -1,39 +1,62 @@
 ---
-title: "What is the one thing that no agile team can survive?"
-date: 2023-10-17T11:00:23Z
+title: What is the one thing that no Agile team can survive?
+date: 2024-02-14
 videoId: c0ncdBixyfo
-url: /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
-canonicalUrl: https://www.youtube.com/watch?v=c0ncdBixyfo
+url: /resources/videos/:slug
+slug: what-is-the-one-thing-that-no-agile-team-can-survive
 preview: https://i.ytimg.com/vi/c0ncdBixyfo/maxresdefault.jpg
 duration: 505
-isShort: False
+isShort: false
+aliases:
+- /resources/what-is-the-one-thing-that-no-agile-team-can-survive
+- /resources/videos/what-is-the-one-thing-that-no-agile-team-can-survive-
+
 ---
 
 {{< youtube c0ncdBixyfo >}}
 
-# What is the one thing that no agile team can survive?
+# Overcoming the Culture of Contempt in Agile Teams
 
-In this video, Martin discusses a common issue in Scrum and product teams – contempt for leadership, the company, the product, customers, and outcomes. 🙅‍♂️ This toxic culture can hinder productivity and innovation. Learn why it happens and how to prevent it.
+In the realm of product development, especially within Agile and Scrum teams, a disturbing trend often emerges—a culture of contempt. This sentiment extends from leadership to the company, the product, and even the customers. It's a profound issue that goes beyond mere dissatisfaction; it represents an active disdain for decisions made, often without considering the team's insights or contributions.
 
-Enjoy this video? Like and subscribe to our channel: https://www.youtube.com/@nakedAgility
+## The Root of Contempt
 
-Chapters:
-0:00:00 Introduction
-0:00:28 The Culture of Contempt
-0:01:13 The Disconnect Between Leadership and Teams
-0:02:08 The Impact on Productivity
-0:03:15 Martin's Personal Experience
-0:04:22 Building a Happy and Engaged Workforce
+Contempt within teams often stems from a perceived disconnect between the team's understanding of the product, its potential future, and the decisions made by leadership. When teams feel their input is consistently overlooked, it breeds an environment of frustration and disdain.
 
-Discover the keys to fostering a positive culture and motivated team. Don't let contempt hold your organization back!
+### Key Factors Contributing to Contempt:
 
-#Scrum #Agile #AgileCulture #ProductTeams #Leadership #TeamEngagement #NKDAgility #AgileConsultant #ScrumMaster #ProductOwner #DevOps
+- **Decisions Made in Spite of Team Input:** Teams feel their deep understanding of the product and market is ignored.
 
-*NKDAgility can help!* 🚀
+- **Lack of Inclusion in Decision-Making:** There's a sense that their expertise and insights are undervalued.
 
-If you're struggling with similar issues, our experienced team at NKDAgility can provide the guidance and support you need. Request a free consultation: https://nkdagility.com/agile-consulting-coaching/
-Sign up for one of our upcoming professional Scrum classes: https://nkdagility.com/training-courses/
+- **Traditional Hierarchical Structures:** These often exacerbate the issue, with decisions made at the top, disregarding those on the ground closest to the product and market realities.
 
-Because you don't just need agility, you need Naked Agility.
+## The Impact on Productivity and Morale
 
-[Watch on YouTube](https://www.youtube.com/watch?v=c0ncdBixyfo)
+This culture of contempt not only diminishes morale but also severely impacts productivity and the quality of work. When employees harbor negative feelings towards their organization, it reflects in their output—unhappy teams produce unhappy products.
+
+### Personal Experience: A Case Study of Contempt
+
+I once worked for an organization where contempt was not just an undercurrent but a palpable aspect of the workplace culture. This disdain was so ingrained that employees had derogatory nicknames for the company, signaling a deep-seated lack of respect and belief in the organization's direction and leadership.
+
+## Building a Happy and Engaged Workforce
+
+The antidote to a culture of contempt lies in creating an environment where every team member feels valued, heard, and engaged.
+
+### Strategies for Leadership:
+
+1. **Foster Open Communication:** Ensure that team members feel their opinions and insights are respected and considered.
+
+3. **Involve Teams in Decision-Making:** Make inclusivity a priority by involving team members in decisions that affect their work and the product's direction.
+
+5. **Acknowledge and Address the Disconnect:** Recognize the signs of contempt and actively work to bridge the gap between leadership and teams.
+
+### Personal Action: Change Your Company or Change Your Company
+
+Faced with a culture of contempt, individuals often feel powerless. However, the choice between attempting to instigate change within your organization or deciding to leave for a healthier environment is a powerful one. This was a choice I faced and acted upon, choosing to leave an environment of contempt in pursuit of a more positive and constructive work culture.
+
+## Conclusion: Cultivating a Positive Organizational Culture
+
+Leadership's core responsibility is to cultivate a happy, engaged workforce that is passionate about the organization's success. This cannot be achieved through directives alone but through fostering a culture of respect, inclusion, and shared purpose. Happy, engaged teams are the foundation of innovative and successful products. Addressing and overcoming a culture of contempt is not just necessary for the well-being of employees but crucial for the sustained success and innovation of the organization.
+
+

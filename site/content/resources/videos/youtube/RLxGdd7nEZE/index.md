@@ -1,34 +1,62 @@
 ---
-title: "What is the single most valuable outcome a consulting engagement can produce?"
-date: 2023-06-20T07:00:10Z
+title: What is the Single Most Valuable Outcome a Consulting Engagement Can Produce?
+date: 2023-11-10
 videoId: RLxGdd7nEZE
-url: /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
-canonicalUrl: https://www.youtube.com/watch?v=RLxGdd7nEZE
+url: /resources/videos/:slug
+slug: what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 preview: https://i.ytimg.com/vi/RLxGdd7nEZE/maxresdefault.jpg
 duration: 134
-isShort: False
+isShort: false
+aliases:
+- /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
+- /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+
 ---
 
 {{< youtube RLxGdd7nEZE >}}
 
-# What is the single most valuable outcome a consulting engagement can produce?
+## Exploring the Apex of Consulting Engagements: Unlocking Systemic Change
 
-#agileconsulting can be kind of nebulous, depending on who you work with, but it should be outcome oriented. It should be straightforward. It should have a strong focus.
+In my recent ponderings, I found myself entrenched in an intricate query. At first glance, this question seems almost elusive: "What is the single most valuable outcome that a consulting engagement can produce?"
 
-In this short video, Martin Hinshelwood talks about the single most valuable outcome you should be achieving from a consulting engagement.
+As I thought more about this, I realised that the answer might not be confined to just one aspect.
 
-About NKD Agility
+Come, journey with me as we venture through this interesting inquiry guided by the wisdom of the lean principle.  🚀
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Scaling New Heights with the Lean Principle
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+As I pinpointed a singular outcome, I realised, "Man, I'm struggling because can it be one thing, right?"
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+Perhaps we should broaden our horizons, seeking answers that encapsulate a broader spectrum. Let's apply some lean principle; if we can't get to a thing, we need to go up one level.
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+This approach beckons us to ponder deeper, potentially uncovering systemic change as the focal point.
 
-We would love to work with you. 
+## Embarking on the Road of Systemic Change
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+Some actual change in either the behaviour because you've changed the system, right?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=RLxGdd7nEZE)
+The underlying intent here is to catalyse a tangible transformation, a change that reverberates through the entire organisational structure, altering the conventional systems in place.  💫
+
+This transition is devised to harbour substantial business advantages, whether it's a business benefit that the engineering teams can work faster or it's a business benefit that the company can respond to the market more quickly.
+
+A Challenge Yet Rewarding
+
+However, fostering this transformation isn't a walk in the park. It is indeed a journey filled with challenges, primarily because many people say they want to change but don't actually want to do the things they need to do to change.
+
+The comfort zone of existing practices often serves as a barrier, preventing individuals from stepping out and embracing the new, the unfamiliar.
+
+## Cultivating a Culture of Experimentation and Evolution
+
+Despite the hurdles, the prospect of moulding a future where individuals are ready to try new things and experiment, knowing that not every idea will work out the way they want, is exhilarating.   🌱
+
+When you witness people coming on board, willing to venture into the unknown, it marks the onset of what I perceive to be the most valuable outcome for a consulting engagement.
+
+Some systemic change to the system enables something some desire that the business is looking for.
+
+## Transformation with Our Agile and Scrum Courses
+
+As we stand at the threshold of significant transformations, I invite you to deepen your understanding and skills in Agile and Scrum. Our expertly crafted courses are your gateway to nurturing an adaptable mindset, ready to evolve with the dynamic shifts in the business landscape. 🌟
+
+Become a change-maker in your organisation.
+
+

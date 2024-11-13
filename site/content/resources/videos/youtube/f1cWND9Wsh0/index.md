@@ -1,32 +1,58 @@
 ---
-title: "Why is lego a shit idea for a scrum trainer. Part 1"
-date: 2023-10-02T11:00:28Z
+title: Why is Lego a shit idea for a Scrum Trainer - Part 1
+date: 2023-12-20
 videoId: f1cWND9Wsh0
-url: /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
-canonicalUrl: https://www.youtube.com/watch?v=f1cWND9Wsh0
+url: /resources/videos/:slug
+slug: why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 preview: https://i.ytimg.com/vi/f1cWND9Wsh0/maxresdefault.jpg
 duration: 33
-isShort: True
+isShort: true
+aliases:
+- /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+
 ---
 
 {{< youtube f1cWND9Wsh0 >}}
 
-# Why is lego a shit idea for a scrum trainer. Part 1
+## Debunking the Lego Approach 
 
-#shorts #shortvideo #shortsvideo #lego has become a ubiquitous presence in #scrumtraining around the world. Here's why it could be a shit idea. Part 1
+Let's unravel a common myth in Scrum training: Is using Lego as a teaching tool the ideal approach?  
 
-About NKD Agility
+Surprisingly, there's more to consider than you might think. 🤔💡 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+## Dilemma: Undermining Seriousness 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+One prevalent reason we abstain from using Lego in our training is that it often belittles the essence of what we're striving to convey.  
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
+It’s not child’s play, it's about transforming work culture. 🚀 
 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+## A Mismatch of Medium and Message 
 
-We would love to work with you. 
+- \- Context Dissonance 🧩: Integrating Lego can make it strenuous to articulate the principles of an innovative, cooperative, and swift mode of operation. 
 
-#scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+- \- Credibility at Stake 🏛️: Picture this - CEOs, those steering the ship, squatting on the floor, engrossed in assembling colorful bricks. It can paint an incongruous picture, potentially detracting from the gravity of the training. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=f1cWND9Wsh0)
+## Why it Doesn't Work 
+
+- Dilution of Importance 🌊: Lego, albeit fun, inadvertently trivializes the crux of Scrum methodologies. 
+
+- Engagement Overdrive ⚡: The playful nature might overshadow the transformative concepts being introduced. 
+
+- Perception Mismatch 👀: Senior professionals might find the approach too juvenile, leading to disengagement. 
+
+## How-to Shift the Narrative 
+
+- Choose Relevant Tools 🔧: Utilize training tools that resonate with the professional gravity of the participants. 
+
+- Maintain Contextual Balance ⚖️: Ensure the methods employed align seamlessly with the content. 
+
+## Striking the Right Chord 
+
+While Lego can be a brilliant tool for certain educational environments, it may not strike the right chord in a Scrum training session.  
+
+In Part 1 of this exploration, we've delved into how it can undermine the serious transformation we're aiming to impart.  
+
+Stay tuned for more insights. 🌟🔄
+
+

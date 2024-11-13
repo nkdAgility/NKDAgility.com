@@ -1,12 +1,15 @@
 ---
-title: "The importance of knowing the territory."
+title: The importance of knowing the territory.
 date: 2023-08-10T13:30:01Z
 videoId: aWYoJtSgTDo
 url: /resources/videos/the-importance-of-knowing-the-territory-
 canonicalUrl: https://www.youtube.com/watch?v=aWYoJtSgTDo
 preview: https://i.ytimg.com/vi/aWYoJtSgTDo/maxresdefault.jpg
 duration: 204
-isShort: False
+isShort: false
+aliases:
+- /resources/the-importance-of-knowing-the-territory
+
 ---
 
 {{< youtube aWYoJtSgTDo >}}
@@ -32,3 +35,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=aWYoJtSgTDo)
+
+

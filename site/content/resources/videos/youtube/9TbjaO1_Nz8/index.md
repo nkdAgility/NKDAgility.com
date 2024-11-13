@@ -1,12 +1,13 @@
 ---
-title: "Would you recommend the PSPO course to an entrepreneur and why?"
+title: Would you recommend the PSPO course to an entrepreneur and why?
 date: 2023-05-16T14:00:07Z
 videoId: 9TbjaO1_Nz8
 url: /resources/videos/would-you-recommend-the-pspo-course-to-an-entrepreneur-and-why-
 canonicalUrl: https://www.youtube.com/watch?v=9TbjaO1_Nz8
 preview: https://i.ytimg.com/vi/9TbjaO1_Nz8/maxresdefault.jpg
 duration: 151
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 9TbjaO1_Nz8 >}}
@@ -31,3 +32,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=9TbjaO1_Nz8)
+
+

@@ -1,12 +1,13 @@
 ---
-title: "7 Virtues of agile. Chastity"
+title: 7 Virtues of agile. Chastity
 date: 2023-12-04T08:39:06Z
 videoId: vftc6m70a0w
 url: /resources/videos/7-virtues-of-agile-chastity
 canonicalUrl: https://www.youtube.com/watch?v=vftc6m70a0w
 preview: https://i.ytimg.com/vi/vftc6m70a0w/maxresdefault.jpg
 duration: 142
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube vftc6m70a0w >}}
@@ -40,3 +41,5 @@ Expert Assistance: Learn how our team at Naked Agility can guide you through the
 ✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vftc6m70a0w)
+
+

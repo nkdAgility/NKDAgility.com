@@ -1,43 +1,56 @@
 ---
-title: "How do you select the most valuable items for the sprint backlog?"
-date: 2023-05-30T07:00:18Z
+title: How do you select the most valuable items for the sprint backlog?
+date: 2023-10-10
 videoId: uCyHR_eU22A
-url: /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
-canonicalUrl: https://www.youtube.com/watch?v=uCyHR_eU22A
+url: /resources/videos/:slug
+slug: how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
 preview: https://i.ytimg.com/vi/uCyHR_eU22A/maxresdefault.jpg
 duration: 152
-isShort: False
+isShort: false
+aliases:
+- /resources/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog
+- /resources/videos/how-do-you-select-the-most-valuable-items-for-the-sprint-backlog-
+
 ---
 
 {{< youtube uCyHR_eU22A >}}
 
-# How do you select the most valuable items for the sprint backlog?
+## Navigating Sprint Backlog Selection
 
-Unveiling Scrum's Sprint Backlog: A Strategic Approach to Agile Planning
+I think it's time we decode the Sprint Backlog selection and that we take some time for a reality check when it comes to the Sprint Backlog.  ✨
 
-Dive into the world of Scrum planning as we explore the nuances of selecting a Sprint backlog. Discover why it's more than just a to-do list; it's a strategic puzzle that requires insight into the business landscape, technical architecture, and team dynamics.
+Today, I'm bringing you some grounded insights on a question that is asked often in Agile circles.  🚀
 
-*Enjoy this video? 🔔 Like and subscribe to our channel:* https://www.youtube.com/@nakedAgility
+How do you select the most valuable items for the Sprint Backlog?
 
-In this video, Martin delves into the subtleties of Scrum Sprints, revealing that crafting a Sprint backlog is an art interwoven with strategy and foresight. 🎨🔍 The Scrum guide may offer a starting point, but the real magic happens when a team harmonizes business acumen with technical know-how to select the most impactful tasks. 🧙✨📈 Martin shares his insights, debunking the myth of the "magical" backlog selection and guiding us through the thoughtful considerations that lead to a successful Sprint. ☕💡
+Let's debunk the myth of the "magic fairy dust,".  It's time to get real about how this process unfolds.  🛠️
 
-00:00:04 Selecting Valuable Sprint Items
-00:00:24 Reality vs Scrum Guide
-00:00:36 Business & Market Considerations
-00:00:57 Forming the Sprint Goal
-00:01:14 Backlog Influence on Sprints
+## Beyond The 'Magic Fairy Dust' in Sprint Planning
 
-*NKDAgility can help!*
+As we manoeuvre through the agile process, let's unravel the genuine mechanics behind selecting the most significant items for your sprint backlog, stepping away from the idealistic portrayal in the scrum guide.
 
-These are the kinds of issues that lean-agile practitioners love and most folks hate, and if you find it hard to select the most valuable items for your Sprint backlog, my team at NKDAgility can help you or help you find a consultant, coach, or trainer who can.
+In the journey of sculpting the perfect Sprint, many assume that, as the scrum guide vaguely suggests, you magically select the ones you need and can be interpreted as that we just need to "magically select the ones you need" and sprinkle some "magic fairy dust".
 
-If you have issues that are undermining the effectiveness of your value delivery, it's especially important to find help as soon as you can and not wait!
+But let's do more than scratch the surface and get to fully understand that the reality is a lot more complicated than that.  🎯
 
-_You can request a free consultation: https://nkdagility.com/agile-consulting-coaching/_
-_Sign up for one of our upcomming professional Scrum classes: https://nkdagility.com/training-courses_
+## Harnessing Multifaceted Insights for a Robust Sprint Goal
 
-Because you don't just need agility, you need Naked Agility.
+As we navigate this path, we must take information from the business context, the product owner's understanding of the market and the business context, as well as the engineering context.
 
-#scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
+It's about collating diverse viewpoints to carve out a Sprint goal that aligns with the ongoing projects' real pulse. 🎯
 
-[Watch on YouTube](https://www.youtube.com/watch?v=uCyHR_eU22A)
+## Strategic Selection: A Collaborative Endeavor
+
+As we delve deeper, it becomes evident that the selection isn't just dictated by the order in the product backlog.   The art of prioritising in the Sprint Backlog is a team effort.
+
+It informs but does not control the work that the developers accept into the Sprint.  Pivotal architectural components could take precedence, steering the team towards focusing on the next most important piece of value, thereby laying a solid foundation for tackling the most crucial aspects in the forthcoming sprints.  🤝
+
+Remember, in Agile, it's about fostering a cohesive approach where every stakeholder, from the product owner to the developers, comes together to spotlight the most crucial elements in a sprint, ensuring that every move is aligned with delivering value.
+
+## Join Me in Mastering Agile Nuances
+
+Embark on a journey of Agile mastery with my specialised Agile and Scrum courses, where we untangle the complexities of real-world scenarios, fostering a space where product owners and developers align harmoniously to prioritise tasks effectively.
+
+Let's embark on this transformative path together, paving the way for a successful sprint every time!  🚀
+
+

@@ -1,8 +1,8 @@
 $basePath = "site\content\resources\videos\youtube"
 
 # Loop through each folder in the base path that matches "_Eer3X3Z_LE"
-$youtubeFolders = Get-ChildItem -Path $basePath -Directory | Select-Object -First 20
-$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "17qTGonSsbM" }
+$youtubeFolders = Get-ChildItem -Path $basePath -Directory # | Select-Object -First 30
+#$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "17qTGonSsbM" }
 
 $youtubeFolders | ForEach-Object {
     $youtubeId = $_.Name

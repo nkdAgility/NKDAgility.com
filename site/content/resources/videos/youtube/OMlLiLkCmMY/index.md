@@ -1,12 +1,13 @@
 ---
-title: " shorts 7 Virtues of Agile. Chastity"
+title: ' shorts 7 Virtues of Agile. Chastity'
 date: 2023-12-04T11:00:23Z
 videoId: OMlLiLkCmMY
 url: /resources/videos/-shorts-7-virtues-of-agile-chastity
 canonicalUrl: https://www.youtube.com/watch?v=OMlLiLkCmMY
 preview: https://i.ytimg.com/vi/OMlLiLkCmMY/maxresdefault.jpg
 duration: 24
-isShort: True
+isShort: true
+
 ---
 
 {{< youtube OMlLiLkCmMY >}}
@@ -27,3 +28,5 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OMlLiLkCmMY)
+
+

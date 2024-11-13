@@ -1,12 +1,13 @@
 ---
-title: "Making Data Driven Decisions - Decision making frameworks"
+title: Making Data Driven Decisions - Decision making frameworks
 date: 2024-10-03T07:00:16Z
 videoId: RnMOINwjO84
 url: /resources/videos/making-data-driven-decisions-decision-making-frameworks
 canonicalUrl: https://www.youtube.com/watch?v=RnMOINwjO84
 preview: https://i.ytimg.com/vi/RnMOINwjO84/maxresdefault.jpg
 duration: 971
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube RnMOINwjO84 >}}
@@ -45,3 +46,5 @@ If you found this video useful, please like, subscribe, and visit https://www.nk
 #evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RnMOINwjO84)
+
+

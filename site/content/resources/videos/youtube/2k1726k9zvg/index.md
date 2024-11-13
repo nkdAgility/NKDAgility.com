@@ -1,12 +1,13 @@
 ---
-title: "What is the difference between a newbie scrum master and a professional scrum master?"
+title: What is the difference between a newbie scrum master and a professional scrum master?
 date: 2023-03-31T07:00:03Z
 videoId: 2k1726k9zvg
 url: /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master-
 canonicalUrl: https://www.youtube.com/watch?v=2k1726k9zvg
 preview: https://i.ytimg.com/vi/2k1726k9zvg/maxresdefault.jpg
 duration: 283
-isShort: False
+isShort: false
+
 ---
 
 {{< youtube 2k1726k9zvg >}}
@@ -40,3 +41,5 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #projectmanagement, #productdevelopment, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #kanban, #continousdelivery, #devops, #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2k1726k9zvg)
+
+

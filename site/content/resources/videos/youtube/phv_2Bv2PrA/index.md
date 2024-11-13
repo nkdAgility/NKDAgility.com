@@ -1,12 +1,15 @@
 ---
-title: "What is Agile?"
+title: What is Agile?
 date: 2022-10-07T10:41:41Z
 videoId: phv_2Bv2PrA
 url: /resources/videos/what-is-agile-
 canonicalUrl: https://www.youtube.com/watch?v=phv_2Bv2PrA
 preview: https://i.ytimg.com/vi/phv_2Bv2PrA/maxresdefault.jpg
 duration: 1755
-isShort: False
+isShort: false
+aliases:
+- /resources/an-introduction-to-agile-from-martin-hinshelwood
+
 ---
 
 {{< youtube phv_2Bv2PrA >}}
@@ -35,3 +38,5 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 #AgilePhilosophy, #TechnicalExcellence, #SelfOrganizingTeams, #SustainableDevelopment, #ContinuousImprovement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=phv_2Bv2PrA)
+
+
