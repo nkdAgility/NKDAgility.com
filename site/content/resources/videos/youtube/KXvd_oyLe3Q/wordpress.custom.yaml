@@ -1,0 +1,86 @@
+post:
+  title: >-
+    The Crucible of Learning: Transforming Organizational Effectiveness Through
+    DevOps
+  link: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=52008
+  pubDate: Sat, 16 Nov 2024 09:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=52008
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>When organizations engage with us for DevOps consulting, it's rarely by chance. Typically, they've identified a problem—a problem that's grown too big to ignore, a problem that requires expertise beyond their current capabilities. As a DevOps consultant, I’ve seen this scenario play out many times. One of the most significant engagements I’ve experienced involved a large organization in the oil and gas industry. This case illustrates the complexity and challenges organizations face when they try to implement DevOps, and the transformational impact that a well-executed DevOps strategy can have.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-root-cause-technical-debt-in-a-large-scale-system\"><strong>The Root Cause: Technical Debt in a Large-Scale System</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-identifying-the-problem\"><strong>Identifying the Problem</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The company I worked with had a product that sold for $50,000 per license—a desktop product with significant complexity. They had 90 teams spread across 13 locations in nine different countries, all working on this product. Each team had its own long-term branch, leading to divergent development paths that could last as long as a year. The organization attempted to mitigate these divergences by applying force—a common but flawed approach.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>They spun up a dedicated DevOps team, centralizing DevOps engineers in one area. However, this team faced a monumental challenge: they couldn’t directly influence what the 90 teams were doing but were responsible for ensuring continuous delivery and daily builds of the product.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-complexity-of-the-system\"><strong>The Complexity of the System</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>To achieve their goal, the DevOps team built an infrastructure that facilitated about 11,000 build executions per day—1.2 million a year—just to keep the product functioning daily. The system had to manage code from 90 different teams using different source control systems, including Git, Team Foundation Version Control, Subversion, and even custom in-house systems. Each platform had its own branching and merging capabilities, which the DevOps system had to integrate and unify.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The complexity of the product was staggering. Developers needed workstations with 128GB of RAM and 24-core processors just to build the product. It was an obscene setup, but necessary due to the product’s massive and complicated architecture.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-lesson-learned-the-impact-of-technical-debt\"><strong>The Lesson Learned: The Impact of Technical Debt</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-assessing-the-situation\"><strong>Assessing the Situation</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>We conducted a DevOps assessment for this organization, identifying key areas of concern:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Diverse Source Control Systems:</strong> Teams were using different systems, creating unnecessary complexity.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Distributed Teams:</strong> With 90 teams in 13 locations, coordination was a nightmare.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Multiple Funding Routes:</strong> The product had 13 different funding sources, limiting control over the entire system.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The product had been in development for 25 years, during which the company acquired competitors and integrated their technologies, often without addressing technical debt. Instead of migrating new acquisitions to their systems, they kept legacy systems intact, adding layers of complexity.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-road-to-simplification\"><strong>The Road to Simplification</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Over four years, we worked to align the organization’s development practices. We consolidated everything into a single source control system, which allowed us to perform a unified build that produced one version of the product. We also reduced the number of branches and moved towards mainline development.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>This process wasn't easy. It required patience, collaboration across different locations, and a deep understanding of both the product and the organizational structure. The teams involved were not within the same reporting structure, making it impossible to simply dictate changes. Instead, we had to influence, persuade, and gradually bring everyone on board.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-value-of-refactoring\"><strong>The Value of Refactoring</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A significant part of this transformation was helping the organization understand the importance of refactoring. Over time, they had accumulated technical debt by integrating new systems without proper refactoring. This debt had to be paid back to simplify the product and make future development more manageable.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The organization had been integrating rather than refactoring—patching together systems rather than taking the time to rebuild them properly. This approach made the system increasingly unwieldy, obscuring the forest for the trees. The key lesson here is the importance of regular refactoring and simplifying as you go.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-outcome-simplification-efficiency-and-happiness\"><strong>The Outcome: Simplification, Efficiency, and Happiness</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-what-organizations-can-expect\"><strong>What Organizations Can Expect</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The outcomes of a successful DevOps transformation are profound:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Reduced Cost and Time:</strong> Streamlining the development process reduces both the cost and time required to deliver new features.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Improved Team Happiness:</strong> Developers spend less time grappling with unnecessary complexity and more time solving meaningful business problems.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Increased Capability:</strong> With a focus on refactoring and clean code, teams become more effective and can deliver more value over time.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A great example of this is the Azure DevOps team at Microsoft. Before they embraced DevOps, they delivered about 25 new features to production each year, with 600 people working on the product. After investing in reducing build times—from 72 hours to just 3.5 minutes—they scaled up to nearly 300 features per year with the same number of people.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-importance-of-skill-and-ownership\"><strong>The Importance of Skill and Ownership</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One critical point to understand is that DevOps is not something you can simply \"install\" in an organization. It requires skill, dedication, and a willingness to embrace change. If a consultancy promises to do all the work for you, your people won’t learn anything. They won’t go through the necessary pain of cleaning up their technical debt and will likely repeat the same mistakes.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Think of it like cleaning your teenager’s room. If you do it for them, they won’t learn the importance of keeping their space tidy. But if they do it themselves—especially if they have to clean up a particularly nasty mess—they’re more likely to avoid making the same mess in the future. The same principle applies to DevOps and engineering practices.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-a-final-thought\"><strong>A Final Thought</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Bringing DevOps into an organization is about upskilling and taking ownership of the problems you’ve created over time. It’s about dealing with your own \"crap\" so that you create less of it in the future. This approach enables teams to be slicker, more effective, and ultimately, more successful in delivering value to the business.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-conclusion\"><strong>Conclusion</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The journey of DevOps transformation is not easy, but it is immensely rewarding. By focusing on simplification, refactoring, and ownership, organizations can achieve significant improvements in efficiency, cost, and team satisfaction. The story of the oil and gas company is a powerful reminder that while the road may be long and complex, the destination is well worth the effort. Remember, the key to successful DevOps is not just in the tools or the processes but in the mindset and skills of the people involved. Embrace the challenge, learn from the experience, and watch as your organization transforms into a lean, agile, and highly effective machine. 🚀</p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '52008'
+  post_date: '2024-11-16 09:00:00'
+  post_date_gmt: '2024-11-16 09:00:00'
+  post_modified: '2024-10-23 08:03:40'
+  post_modified_gmt: '2024-10-23 08:03:40'
+  comment_status: closed
+  ping_status: closed
+  post_name: >-
+    the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
+  status: future
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.15.0
+  - meta_key: _thumbnail_id
+    meta_value: '52009'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1152168;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/KXvd_oyLe3Q
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '630'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: >-
+      What specific outcomes and improvements can clients expect when they
+      engage with your DevOps consulting services? Could you share any success
+      stories or case studies?
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      This article explores how a well-executed DevOps strategy can transform
+      organizational effectiveness by addressing technical debt and enhancing
+      collaboration.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '44'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '5'

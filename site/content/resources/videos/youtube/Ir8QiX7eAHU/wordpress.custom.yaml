@@ -1,0 +1,87 @@
+post:
+  title: 'The Key to a Kanban Strategy: Understanding WIP Limits'
+  link: >-
+    https://nakedalmweb.wpenginepowered.com/resources/the-key-to-a-kanban-strategy-understanding-wip-limits/
+  pubDate: Sat, 26 Oct 2024 16:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=51922
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>One of the most critical components of a successful <strong>Kanban strategy</strong> is setting <strong>Work-In-Progress (WIP) limits</strong>. Without WIP limits, you simply do not have a proper Kanban strategy. In this post, we'll explore the importance of WIP limits, how to determine the right limits for your team, and share some personal experiences and advice to help you optimize your workflow.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-why-wip-limits-matter-in-kanban\"><strong>Why WIP Limits Matter in Kanban</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>When you visualize your work on a Kanban board, you're essentially mapping out the various <strong>states</strong> or <strong>activities</strong> that any given piece of work flows through. Each of these states represents a step in the process—whether it's development, testing, or deployment. But how do you prevent your workflow from becoming overloaded? This is where WIP limits come in.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Setting a WIP limit in each column (or stage) ensures that your team isn't overwhelmed and that work moves smoothly through the system. It's about maintaining balance. Too much work at once leads to bottlenecks, whereas too little work means you're not fully utilizing your team's capacity.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-art-of-finding-the-right-wip-limit\"><strong>The Art of Finding the Right WIP Limit </strong><strong>🎨</strong><strong></strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Figuring out the optimal WIP limit for each stage in your system is both a <strong>science and an art</strong>. Think of it as finding the \"Goldilocks zone\"—not too high, not too low, but just right.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>I once believed the story of <em>Goldilocks and the Three Bears</em> was universal, but I discovered during a workshop in Romania that they were unfamiliar with it! However, the concept of a \"Goldilocks zone\" resonated well when I explained it using planetary physics.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In planetary terms, the Goldilocks zone is where water isn't frozen or boiling, making life possible. Similarly, in Kanban, the right WIP limit is the sweet spot where work flows smoothly without getting stuck or overwhelming the system.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-setting-wip-limits-at-each-stage\"><strong>Setting WIP Limits at Each Stage</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>WIP limits aren't just for the overall system—they need to be set for each <strong>individual stage</strong>. These individual WIP limits will also inform the overall WIP limit for your entire system.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-ideal-wip-limit-striving-for-perfection\"><strong>Ideal WIP Limit: Striving for Perfection</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In an ideal world, the optimal WIP limit is <strong>one</strong>—meaning single-piece flow, where only one item is being worked on at a time. This ensures maximum efficiency and the fastest possible delivery of work. Sounds perfect, right? But here’s the thing: <strong>the world isn’t perfect</strong>.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The coin game exercise illustrates this well. If you haven’t tried it with your team, I highly recommend it. You take a group of people and give them 20 coins. Each person must flip all the coins to heads, then tails, before passing them to the next person. If you do this in batches of 20, only one person is working at any given time, and the rest are waiting.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>But when you reduce the batch size to one coin at a time, everyone is working simultaneously, resulting in faster delivery for all coins.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>💡 <strong>Key takeaway</strong>: The smaller your batch size, the quicker you can deliver individual pieces of work. But remember, we're not flipping coins in real life. We're dealing with complex tasks like coding, designing, and customer feedback—so things get a little more complicated.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-balancing-real-world-complexity\"><strong>Balancing Real-World Complexity </strong><strong>🌍</strong><strong></strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In the real world, work isn't linear. We're not simply flipping coins. We're solving problems, writing code, waiting for feedback, or managing customer requests. This complexity means we need to carefully determine the <strong>most optimal WIP limit</strong> for each stage in our process.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-how-to-identify-the-right-wip-limit\"><strong>How to Identify the Right WIP Limit</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list {\"ordered\":true,\"start\":1} -->\r\n<ol start=\"1\" class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Start with experimentation</strong>: There is no magic formula. Begin by setting an initial WIP limit and observe how your system behaves.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Constrain work to create slack</strong>: Setting WIP limits slightly below your team's full capacity creates slack in the system, allowing you to identify bottlenecks and opportunities for improvement.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Adjust based on feedback</strong>: If your WIP limit is too high, you'll struggle to spot problems because the system never feels constrained. If it's too low, you'll notice inefficiencies from too much idle time. Adjust accordingly.</li>\r\n<!-- /wp:list-item --></ol>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-workshop-insights-discussions-on-wip-limits\"><strong>Workshop Insights: Discussions on WIP Limits</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>During workshops, one of the most fascinating discussions is always about whether to <strong>increase or decrease WIP limits</strong>. Participants quickly realize that raising the limit might allow more work to pile up, but it also puts pressure on other parts of the system. These discussions are invaluable because they help teams <strong>visualize</strong> the impact of WIP limits and make more informed decisions about how their system functions.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-goal-of-kanban-better-conversations-better-systems\"><strong>The Goal of Kanban: Better Conversations, Better Systems</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The beauty of a Kanban strategy lies in how it helps <strong>everyone in the system understand the work</strong> being done. Visualizing WIP limits opens up more rational and meaningful conversations about how the system works and how it can be improved.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-tips-for-setting-wip-limits-in-your-team\"><strong>Tips for Setting WIP Limits in Your Team</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>If you're unsure where to start, here's my advice:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Start small</strong>: Pick an initial WIP limit and monitor its impact.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Make adjustments</strong>: Increase the limit if it's too small, or reduce it if it's too high.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Use the \"one less rule\"</strong>: If you're really stuck, a simple starting point is to set the WIP limit to <strong>one less than the number of people</strong> performing that activity. For example, if you have four people working on a task, set the WIP limit to three.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>These rules are not set in stone—they’re just a guide to help you get started.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-implementing-kanban-in-a-scrum-team\"><strong>Implementing Kanban in a Scrum Team </strong><strong>🛠️</strong><strong></strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>While Kanban and Scrum are often seen as separate, they can complement each other beautifully. If you're using Scrum, bringing in <strong>flow metrics</strong> from Kanban can greatly enhance your process. For Scrum teams, we always recommend integrating Kanban practices to <strong>visualize work and identify bottlenecks</strong> early.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-world-class-kanban-training\"><strong>World-Class Kanban Training</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>If you're struggling to implement a Kanban strategy, or if you'd like to optimize your current process, we offer world-class Kanban training and coaching through <strong>Pro Kanban</strong>. We can help your team fine-tune their WIP limits and ensure you're operating at maximum efficiency.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>👉 <strong>Need Help?</strong> Reach out to us for guidance on implementing Kanban in your team, or explore our Kanban classes from <strong>Scrum.org</strong>. Together, we can find the right balance for your workflow.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-conclusion-start-experimenting-with-wip-limits-today\"><strong>Conclusion: Start Experimenting with WIP Limits Today</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>WIP limits are crucial for any Kanban system. While the \"perfect\" WIP limit might be one, real-world complexity means you'll need to experiment and adjust based on your team's capacity and workflow. Start with small experiments, encourage open discussions, and watch how it transforms your team's productivity and collaboration.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>🔍 <strong>Remember</strong>:</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li>WIP limits are an essential part of your Kanban strategy.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>Set limits for each stage, not just the overall system.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li>Experiment and adjust as needed to find the Goldilocks zone for your team.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>With the right approach, you'll find that WIP limits not only improve flow but also foster better conversations and collaboration within your team.</p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '51922'
+  post_date: '2024-10-26 16:00:00'
+  post_date_gmt: '2024-10-26 16:00:00'
+  post_modified: '2024-10-21 09:43:44'
+  post_modified_gmt: '2024-10-21 09:43:44'
+  comment_status: closed
+  ping_status: closed
+  post_name: the-key-to-a-kanban-strategy-understanding-wip-limits
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.14.0
+  - meta_key: _thumbnail_id
+    meta_value: '51923'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1150667;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/Ir8QiX7eAHU
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '8842'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: >-
+      In implementing a pull-based system with Kanban what are the critical
+      factors to consider for establishing appropriate work-in-progress (WIP)
+      limits.
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      Setting Work-In-Progress (WIP) limits is crucial in Kanban for optimizing
+      workflow, preventing bottlenecks, and enhancing team collaboration.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '50'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '6'
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1729958410'
+  - meta_key: ekit_post_views_count
+    meta_value: '52'

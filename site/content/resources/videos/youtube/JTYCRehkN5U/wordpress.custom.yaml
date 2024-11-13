@@ -1,0 +1,85 @@
+post:
+  title: The Power of Technical Excellence in Agile Development
+  link: >-
+    https://nakedalmweb.wpenginepowered.com/resources/the-power-of-technical-excellence-in-agile-development/
+  pubDate: Thu, 31 Oct 2024 16:00:00 +0000
+  creator: kyra-firewerks
+  guid:
+    _: https://nakedalmweb.wpenginepowered.com/?post_type=nkdresources&p=51942
+    $:
+      isPermaLink: 'false'
+  description: ''
+  encoded:
+  - "<!-- wp:paragraph -->\r\n<p>In today's fast-paced development environment, the need for a usable, working product at the end of every iteration cannot be overstated. As Scrum and Agile practitioners, we often discuss the importance of technical excellence, but it's more than just a concept—it's the cornerstone of risk mitigation and successful product delivery. Let's dive into why technical excellence is essential, how it mitigates risks, and the profound impact it can have on your product and team.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-why-technical-excellence-matters\"><strong>Why Technical Excellence Matters</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-usable-working-product-every-iteration\"><strong>Usable Working Product Every Iteration</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of the key principles in Scrum and Agile is ensuring that we have a usable working product at the end of each iteration. This isn't just a nice-to-have—it's a necessity. In traditional, linear project management models, where we know most of the details upfront, risk is mitigated through extensive planning. However, in a high-variance environment, this approach simply doesn't work.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-planning-in-low-variance-vs-high-variance-environments\"><strong>Planning in Low-Variance vs. High-Variance Environments</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Low-Variance</strong>: When variance is low, we mitigate risk by creating detailed plans, lists of potential risks, and corresponding mitigation strategies. This works because the environment is relatively stable.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>High-Variance</strong>: In contrast, in high-variance environments, where conditions change frequently, detailed upfront planning falls apart. Here, risk is mitigated by delivering a usable, working product regularly, allowing for continuous feedback and adaptation.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-myth-of-sacrificing-quality-for-speed\"><strong>The Myth of Sacrificing Quality for Speed</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A common myth in the software industry is that it's acceptable to sacrifice some quality to meet market demands faster. However, this trade-off is not only flawed but can be detrimental in the long run. Sacrificing quality often leads to increased technical debt and a product that is harder to maintain, less reliable, and ultimately less valuable to customers.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p><strong>Real-World Example: The Azure DevOps Transformation</strong></p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>One of the most compelling examples of the power of technical excellence comes from the Azure DevOps team at Microsoft. In 2012, this team transitioned from a waterfall model, delivering to production every two years, to a more Agile approach with three-week iterations. The results were astounding.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-from-24-to-280-features-per-year\"><strong>From 24 to 280 Features per Year</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>2012</strong>: Initially, with 650 people, the team delivered about 24 features per year. This low number was due to the significant technical debt and the complexity of adding new features to a codebase burdened by poor quality.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>2018</strong>: By focusing on technical excellence, the team reduced their technical debt and improved their processes. By 2018, they were delivering 280 features per year with the same number of people.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-key-to-success-paying-back-technical-debt\"><strong>The Key to Success: Paying Back Technical Debt</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>The Azure DevOps team didn't achieve this transformation by cutting corners. Instead, they focused on paying back technical debt and building technical excellence into their processes. This allowed them to deliver more value to customers, faster, and with higher quality.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-defining-and-establishing-a-definition-of-done\"><strong>Defining and Establishing a \"Definition of Done\"</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-foundation-of-technical-excellence\"><strong>The Foundation of Technical Excellence</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>A crucial aspect of technical excellence is having a well-defined \"Definition of Done\" (DoD). The DoD is not just a checklist; it's the foundation upon which technical excellence is built. It ensures that every increment of work meets a minimum standard of quality, reducing the risk of delivering a subpar product.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-what-should-your-definition-of-done-include\"><strong>What Should Your Definition of Done Include?</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Quality Requirements</strong>: Ensure that your DoD includes the level of quality required to meet compliance, testing standards, and any necessary telemetry.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Engineering Standards</strong>: Focus on how you're building the product, not just what you're building. Your DoD should enforce technical excellence in every aspect of development.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Real Users</strong>: The DoD should ensure that each iteration delivers something usable by real users, not just in a test environment.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-role-of-the-scrum-team\"><strong>The Role of the Scrum Team</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>If your organization doesn't have a DoD, it's up to the Scrum team, particularly the developers, to create one. This DoD should be relevant to your product and stringent enough to ensure that you're delivering a usable working product every Sprint.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-the-benefits-of-technical-excellence\"><strong>The Benefits of Technical Excellence</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-reduced-risk\"><strong>Reduced Risk</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>By focusing on technical excellence and delivering a working product at the end of every iteration, you significantly reduce the risks associated with development. Continuous delivery allows for regular feedback, early detection of issues, and the ability to pivot when necessary.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-increased-value-delivery\"><strong>Increased Value Delivery</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>Technical excellence enables teams to deliver more features, faster, and with higher quality. As seen with the Azure DevOps team, this focus can lead to a dramatic increase in the number of features delivered, enhancing the product's value to customers.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading {\"level\":3} -->\r\n<h3 class=\"wp-block-heading\" id=\"h-the-ability-to-focus-on-the-art-of-the-possible\"><strong>The Ability to Focus on the Art of the Possible</strong></h3>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>When technical debt is low and quality is high, teams can shift their focus from firefighting to innovation. Instead of struggling to maintain a poorly built product, teams can explore new possibilities, experiment with new features, and deliver real value to customers.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:heading -->\r\n<h2 class=\"wp-block-heading\" id=\"h-conclusion-don-t-get-left-behind\"><strong>Conclusion: Don’t Get Left Behind</strong></h2>\r\n<!-- /wp:heading -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>In today's competitive market, technical excellence is not just an option—it's a necessity. Whether you're delivering software or building houses, the principles remain the same. Focus on quality, establish a solid Definition of Done, and deliver a usable working product every iteration.</p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p><strong>Final Recommendations</strong></p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:list -->\r\n<ul class=\"wp-block-list\"><!-- wp:list-item -->\r\n<li><strong>Avoid the Quality vs. Speed Trade-off</strong>: Remember, sacrificing quality for speed is a losing proposition. Focus on building a high-quality product from the start.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Establish a Strong Definition of Done</strong>: Ensure your team has a clear, well-defined DoD that enforces technical excellence in every iteration.</li>\r\n<!-- /wp:list-item -->\r\n\r\n<!-- wp:list-item -->\r\n<li><strong>Continuously Improve</strong>: Like the Azure DevOps team, make technical excellence a priority and continuously work to improve your processes and product quality.</li>\r\n<!-- /wp:list-item --></ul>\r\n<!-- /wp:list -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>🚀 <strong>Build the best product you can, mitigate risks effectively, and maximize value for your customers.</strong></p>\r\n<!-- /wp:paragraph -->"
+  - ''
+  post_id: '51942'
+  post_date: '2024-10-31 16:00:00'
+  post_date_gmt: '2024-10-31 16:00:00'
+  post_modified: '2024-10-22 08:03:48'
+  post_modified_gmt: '2024-10-22 08:03:48'
+  comment_status: closed
+  ping_status: closed
+  post_name: the-power-of-technical-excellence-in-agile-development
+  status: publish
+  post_parent: '0'
+  menu_order: '0'
+  post_type: nkdresources
+  post_password: ''
+  is_sticky: '0'
+  category: {}
+  postmeta:
+  - meta_key: _wpv_contains_gutenberg_views
+    meta_value: ''
+  - meta_key: _tribe_ticket_capacity
+    meta_value: '0'
+  - meta_key: _tribe_ticket_version
+    meta_value: 5.15.0
+  - meta_key: _thumbnail_id
+    meta_value: '51943'
+  - meta_key: _edit_last
+    meta_value: '836'
+  - meta_key: wpcf-marketing-pre-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-post-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-one-line-title
+    meta_value: ''
+  - meta_key: wpcf-marketing-tagline
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-video
+    meta_value: ''
+  - meta_key: wpcf-marketing-background-image
+    meta_value: ''
+  - meta_key: wpcf-marketing-lead
+    meta_value: ''
+  - meta_key: wpcf-marketing-videos
+    meta_value: ''
+  - meta_key: _wpcf-marketing-videos-sort-order
+    meta_value: a:1:{i:0;i:1151076;}
+  - meta_key: wpcf-resource-lead
+    meta_value: ''
+  - meta_key: wpcf-original-resource-url
+    meta_value: https://youtu.be/JTYCRehkN5U
+  - meta_key: _yoast_wpseo_primary_category
+    meta_value: '8848'
+  - meta_key: _yoast_wpseo_focuskw
+    meta_value: Why does technical excellence matter?
+  - meta_key: _yoast_wpseo_metadesc
+    meta_value: >-
+      This article highlights the vital role of technical excellence in Agile
+      development, emphasizing risk mitigation and value delivery through
+      quality focus.
+  - meta_key: _yoast_wpseo_linkdex
+    meta_value: '68'
+  - meta_key: _yoast_wpseo_content_score
+    meta_value: '90'
+  - meta_key: _yoast_wpseo_focuskeywords
+    meta_value: ''
+  - meta_key: _yoast_wpseo_keywordsynonyms
+    meta_value: ''
+  - meta_key: _yoast_wpseo_estimated-reading-time-minutes
+    meta_value: '5'
+  - meta_key: _yoast_indexnow_last_ping
+    meta_value: '1730390401'
+  - meta_key: ekit_post_views_count
+    meta_value: '20'
