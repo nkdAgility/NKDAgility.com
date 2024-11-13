@@ -8,6 +8,7 @@ layout: method
 slug: kanban-strategy
 aliases:
   - /methods/kanban-strategy/
+  - /learn/agile-delivery-kit/strategies/kanban-strategy/
 card:
   button:
     content: Start Optimizing Now

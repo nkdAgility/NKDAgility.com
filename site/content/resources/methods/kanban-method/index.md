@@ -1,15 +1,17 @@
 ---
-title: Scrum Framework
+title: Kanban Method
 weight: 1
 draft: true
 resourceTypes: method
 layout: method
-aliases: /methods/scrum-framework/
+aliases:
+  - /methods/kanban-method/
+  - /learn/agile-delivery-kit/strategies/kanban-method/
 card:
   button:
     content: More info
-  title: Scrum Framework
-  content: Scrum Framework
+  title: Kanban Method
+  content: Kanban Method
 ---
 
 Description of Scrum Framework.

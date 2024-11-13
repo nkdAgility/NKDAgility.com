@@ -3,6 +3,8 @@ title: "What we think?"
 description: "Resources on the throries, philosophies, and practices!"
 url: "/resources/"
 layout: "section" # Hugo will use section.html to render the list of pages
+aliases:
+  - /learn/agile-delivery-kit/
 sitemap:
   filename: sitemap.xml
   priority: 0.7
