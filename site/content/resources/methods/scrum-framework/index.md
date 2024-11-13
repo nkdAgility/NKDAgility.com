@@ -4,7 +4,9 @@ weight: 1
 draft: true
 resourceTypes: method
 layout: method
-aliases: /methods/scrum-framework/
+aliases:
+  - /methods/scrum-framework/
+  - /learn/agile-delivery-kit/strategies/scrum-framework/
 card:
   button:
     content: More info

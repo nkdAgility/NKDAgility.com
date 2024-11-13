@@ -8,6 +8,7 @@ layout: method
 slug: liberating-structures
 aliases:
   - /methods/liberating-structures/
+  - /learn/agile-delivery-kit/strategies/liberating-structures/
 card:
   button:
     content: Start Optimizing Now

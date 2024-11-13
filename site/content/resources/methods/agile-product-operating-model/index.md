@@ -8,6 +8,7 @@ url:
 aliases:
   - /APOM
   - /methods/agile-product-operating-model/
+  - /learn/agile-delivery-kit/strategies/agile-product-operating-model/
 card:
   button:
     content: More info

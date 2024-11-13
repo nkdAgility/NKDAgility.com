@@ -8,6 +8,7 @@ layout: method
 slug: evidence-based-management
 aliases:
   - /methods/ebm/
+  - /learn/agile-delivery-kit/strategies/evidence-based-management/
 card:
   button:
     content: Start Optimizing Now

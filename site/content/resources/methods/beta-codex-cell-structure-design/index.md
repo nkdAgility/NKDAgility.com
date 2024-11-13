@@ -8,6 +8,7 @@ layout: method
 slug: beta-codex-cell-structure-design
 aliases:
   - /methods/beta-codex-cell-structure-design/
+  - /learn/agile-delivery-kit/strategies/beta-codex-cell-structure-design/
 card:
   button:
     content: Start Optimizing Now
