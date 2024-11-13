@@ -1,8 +1,8 @@
 $basePath = "site\content\resources\videos\youtube"
 
 # Loop through each folder in the base path that matches "_2ZH7vbKu7Y"
-$youtubeFolders = Get-ChildItem -Path $basePath -Directory
-$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "_2ZH7vbKu7Y" }
+$youtubeFolders = Get-ChildItem -Path $basePath -Directory | Select-Object -First 10
+#$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "_2ZH7vbKu7Y" }
 
 $youtubeFolders | ForEach-Object {
     $youtubeId = $_.Name
@@ -21,6 +21,9 @@ $youtubeFolders | ForEach-Object {
             $frontMatter = ConvertFrom-Yaml $matches[1] -Ordered
             $body = $matches[2]
         }
+
+        # Remove YouTube shortcode from body
+        $body = $body -replace "{{< youtube [-_a-zA-Z0-9]+ >}}", ""
 
         # Add URL from main front matter to aliases if it exists
         if ($frontMatter.url -and $frontMatter.url -ne "/resources/videos/:slug") {
