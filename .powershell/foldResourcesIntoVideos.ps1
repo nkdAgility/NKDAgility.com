@@ -7,7 +7,7 @@ $youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "_2ZH7vbKu7Y" 
 $youtubeFolders | ForEach-Object {
     $youtubeId = $_.Name
     $mainFilePath = Join-Path -Path $_.FullName -ChildPath "index.md"
-    $customFilePath = Join-Path -Path $_.FullName -ChildPath "wordpress.custom.md"
+    $customFilePattern = Join-Path -Path $_.FullName -ChildPath "wordpress.custom*.md"
     $wprssFilePattern = Join-Path -Path $_.FullName -ChildPath "wordpress.wprss*.md"
 
     $frontMatter = [ordered]@{}
@@ -30,11 +30,24 @@ $youtubeFolders | ForEach-Object {
             $frontMatter.aliases += "$($frontMatter.url)"
         }
 
-        # Load front matter and body for custom and wprss files if they exist
-        $customFrontMatter = [ordered]@{}
-        $customBody = ""
-        if (Test-Path $customFilePath) {
-            $customContent = Get-Content -Path $customFilePath -Raw
+        # ensure slug
+
+        # Load front matter and body for custom files if they exist, using the newest date
+        $customFiles = Get-ChildItem -Path $customFilePattern | Sort-Object { 
+            $customContent = Get-Content -Path $_.FullName -Raw
+            if ($customContent -match "(?s)^---(.*?)---") {
+                $customFrontMatter = ConvertFrom-Yaml $matches[1] -Ordered
+                [datetime]$customFrontMatter.date
+            }
+            else {
+                [datetime]::MinValue
+            }
+        } -Descending
+
+        foreach ($customFile in $customFiles) {
+            $customFrontMatter = [ordered]@{}
+            $customBody = ""
+            $customContent = Get-Content -Path $customFile.FullName -Raw
             if ($customContent -match "(?s)^---(.*?)---\s*(.*)") {
                 $customFrontMatter = ConvertFrom-Yaml $matches[1] -Ordered
                 $customBody = $matches[2]
@@ -43,7 +56,7 @@ $youtubeFolders | ForEach-Object {
                 $youtubeUrlPattern = "https:\/\/youtube\.com\/shorts\/[a-zA-Z0-9_-]+|https:\/\/youtu\.be\/[a-zA-Z0-9_-]+"
                 $customBody = $customBody -replace $youtubeUrlPattern, ""
                 
-                # Always use the body from wordpress.custom.md if it exists
+                # Always use the body from the newest wordpress.custom*.md file
                 $body = $customBody
                 # Remove canonicalUrl from the front matter if wordpress.custom.md exists
                 if ($frontMatter.Contains('canonicalUrl')) {
@@ -59,11 +72,14 @@ $youtubeFolders | ForEach-Object {
                         $frontMatter.aliases = @()
                     }
                     $frontMatter.aliases += "/resources/$($customFrontMatter.slug)"
-
                 }
                 # Update URL to be all lowercase and replace special characters with "-"
                 $sanitizedTitle = $customFrontMatter.title -replace "[^a-zA-Z0-9]+", "-" -replace "(^-+|-+$)", ""
-                $frontMatter.slug = $($sanitizedTitle.ToLower())
+              
+                # Insert slug after URL if it does not exist
+                if (-not $frontMatter.Contains('slug')) {
+                    $frontMatter.Insert(($frontMatter.Keys.IndexOf('url') + 1), 'slug', $($sanitizedTitle.ToLower()))
+                }
             }
         }
 
