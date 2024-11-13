@@ -12,6 +12,7 @@ $youtubeFolders | ForEach-Object {
 
     $frontMatter = [ordered]@{}
     $body = $null
+    $hasImportedContent = $false
     # Load the main file content
     if (Test-Path $mainFilePath) {
         $mainContent = Get-Content -Path $mainFilePath -Raw
@@ -24,18 +25,6 @@ $youtubeFolders | ForEach-Object {
 
         # Remove YouTube shortcode from body
         $body = $body -replace "{{< youtube [-_a-zA-Z0-9]+ >}}", ""
-
-        # Add URL from main front matter to aliases if it exists
-        if ($frontMatter.url -and $frontMatter.url -ne "/resources/videos/:slug") {
-            if (-not $frontMatter.Contains('aliases')) {
-                $frontMatter.aliases = @()
-            }
-            if (-not ($frontMatter.aliases -contains $frontMatter.url)) {
-                $frontMatter.aliases += "$($frontMatter.url)"
-            }
-        }
-
-        # ensure slug
 
         # Load front matter and body for custom files if they exist, using the newest date
         $customFiles = Get-ChildItem -Path $customFilePattern | Sort-Object { 
@@ -70,6 +59,7 @@ $youtubeFolders | ForEach-Object {
                 $frontMatter.title = $customFrontMatter.title
                 $frontMatter.date = $customFrontMatter.date
                 $frontMatter.url = "/resources/videos/:slug"
+                $hasImportedContent = $true
                 
                 # Add slug from customFrontMatter to aliases in main front matter
                 if ($customFrontMatter.slug) {
@@ -81,7 +71,7 @@ $youtubeFolders | ForEach-Object {
                     }
                 }
                 # Update URL to be all lowercase and replace special characters with "-"
-                $sanitizedTitle = $customFrontMatter.title -replace "[^a-zA-Z0-9]+", "-" -replace "(^-+|-+$)", ""
+                $sanitizedTitle = $customFrontMatter.title -replace "’", "" -replace "[^a-zA-Z0-9]+", "-" -replace "(^-+|-+$)", ""
                 
                 # Insert slug after URL if it does not exist
                 if (-not $frontMatter.Contains('slug')) {
@@ -100,6 +90,7 @@ $youtubeFolders | ForEach-Object {
                 if ($wprssContent -match "(?s)^---(.*?)---\s*(.*)") {
                     $wprssFrontMatter = ConvertFrom-Yaml $matches[1] -Ordered
                     $wprssBody = $matches[2]
+                    $hasImportedContent = $true
 
                     # Add slug from wprssFrontMatter to aliases in main front matter
                     if ($wprssFrontMatter.slug) {
@@ -111,6 +102,16 @@ $youtubeFolders | ForEach-Object {
                         }
                     }
                 }
+            }
+        }
+
+        # Add URL from main front matter to aliases if it exists and custom or wprss files were imported
+        if ($hasImportedContent -and $frontMatter.url -and $frontMatter.url -ne "/resources/videos/:slug") {
+            if (-not $frontMatter.Contains('aliases')) {
+                $frontMatter.aliases = @()
+            }
+            if (-not ($frontMatter.aliases -contains $frontMatter.url)) {
+                $frontMatter.aliases += "$($frontMatter.url)"
             }
         }
 
