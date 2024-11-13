@@ -11,7 +11,7 @@ $youtubeFolders | ForEach-Object {
     $wprssFilePattern = Join-Path -Path $_.FullName -ChildPath "wordpress.wprss*.md"
 
     $frontMatter = [ordered]@{}
-    $body = null
+    $body = $null
     # Load the main file content
     if (Test-Path $mainFilePath) {
         $mainContent = Get-Content -Path $mainFilePath -Raw
@@ -23,11 +23,13 @@ $youtubeFolders | ForEach-Object {
         }
 
         # Add URL from main front matter to aliases if it exists
-        if ($frontMatter.url) {
+        if ($frontMatter.url -and $frontMatter.url -ne "/resources/videos/:slug") {
             if (-not $frontMatter.Contains('aliases')) {
                 $frontMatter.aliases = @()
             }
-            $frontMatter.aliases += "$($frontMatter.url)"
+            if (-not ($frontMatter.aliases -contains $frontMatter.url)) {
+                $frontMatter.aliases += "$($frontMatter.url)"
+            }
         }
 
         # ensure slug
@@ -68,14 +70,16 @@ $youtubeFolders | ForEach-Object {
                 
                 # Add slug from customFrontMatter to aliases in main front matter
                 if ($customFrontMatter.slug) {
-                    if (-not $frontMatter.ContainsKey('aliases')) {
+                    if (-not $frontMatter.Contains('aliases')) {
                         $frontMatter.aliases = @()
                     }
-                    $frontMatter.aliases += "/resources/$($customFrontMatter.slug)"
+                    if (-not ($frontMatter.aliases -contains "/resources/$($customFrontMatter.slug)")) {
+                        $frontMatter.aliases += "/resources/$($customFrontMatter.slug)"
+                    }
                 }
                 # Update URL to be all lowercase and replace special characters with "-"
                 $sanitizedTitle = $customFrontMatter.title -replace "[^a-zA-Z0-9]+", "-" -replace "(^-+|-+$)", ""
-              
+                
                 # Insert slug after URL if it does not exist
                 if (-not $frontMatter.Contains('slug')) {
                     $frontMatter.Insert(($frontMatter.Keys.IndexOf('url') + 1), 'slug', $($sanitizedTitle.ToLower()))
@@ -96,10 +100,12 @@ $youtubeFolders | ForEach-Object {
 
                     # Add slug from wprssFrontMatter to aliases in main front matter
                     if ($wprssFrontMatter.slug) {
-                        if (-not $frontMatter.ContainsKey('aliases')) {
+                        if (-not $frontMatter.Contains('aliases')) {
                             $frontMatter.aliases = @()
                         }
-                        $frontMatter.aliases += "/resources/$($wprssFrontMatter.slug)"
+                        if (-not ($frontMatter.aliases -contains "/resources/$($wprssFrontMatter.slug)")) {
+                            $frontMatter.aliases += "/resources/$($wprssFrontMatter.slug)"
+                        }
                     }
                 }
             }
