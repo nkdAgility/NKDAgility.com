@@ -151,6 +151,11 @@ function Update-YoutubeMarkdownFiles {
     # Iterate through each video folder
     Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
         $videoDir = $_.FullName
+        $blockFile = Join-Path $videoDir ".custom"
+        if (Test-Path $jsonFilePath) {
+            continue;
+        }
+        
         $jsonFilePath = Join-Path $videoDir "data.json"
 
         if (Test-Path $jsonFilePath) {
@@ -174,8 +179,5 @@ function Update-YoutubeMarkdownFiles {
 }
 
 
-# Main calls
-#Update-YoutubeDataFile ""
-
 Update-YoutubeDataFiles   # Call this to update data.json files from YouTube API
-#Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
+Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
