@@ -1,8 +1,9 @@
 ---
 title: One Engineering System
+shorttitle: 1ES
 date: 2024-09-17
 creator: Martin Hinshelwood
-draft: true
+draft: false
 resourceTypes: method
 layout: method
 slug: one-engineering-system
@@ -17,25 +18,8 @@ card:
   content: Unify your development pipeline with One Engineering System. Ensure seamless collaboration and integration across all engineering teams and workflows.
 ---
 
-We have a number of tools that are in use and each one is different and provides
-unique features. Don't try to use each tool the way that you would use another.
-For example; trying to use Azure DevOps in the same way one would use Jira is a
-going to cause friction. Rethink your ways of working to suit the tool in use.
+The One Engineering System (1ES) is a strategy aimed at unifying engineering tools and practices to enhance collaboration and efficiency within software development teams. By standardizing on a common set of tools, organizations can reduce friction and streamline workflows.
 
-## One Engineering System (1ES)
+For instance, adopting Azure DevOps services such as Azure Boards for agile planning and work item tracking, Azure Repos for version control, and Azure Pipelines for continuous integration and deployment can facilitate a cohesive engineering environment. It's important to recognize that each tool offers unique features; attempting to use one tool in the same manner as another can lead to challenges. Therefore, it's advisable to adapt your workflows to align with the specific capabilities of the tools in use.
 
-Currently, as [Company] the primary tools for 1ES are:
-
-- [Azure
-  Boards]
-  \- This feature provides Agile Planning tools and Work Item Tracking.
-
-- Azure Repos
-
-- Azure Pipelines
-
-\#\#Other Tools
-
-- Jira
-
-- Bitbucket
+Implementing 1ES can lead to improved communication among teams, consistent processes, and a more efficient development lifecycle. However, it's crucial to ensure that the chosen tools meet the specific needs of your organization and that teams are adequately trained to utilize them effectively.
