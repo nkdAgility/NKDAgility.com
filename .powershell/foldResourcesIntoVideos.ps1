@@ -1,8 +1,8 @@
 $basePath = "site\content\resources\videos\youtube"
 
-# Loop through each folder in the base path that matches "_2ZH7vbKu7Y"
+# Loop through each folder in the base path that matches "_Eer3X3Z_LE"
 $youtubeFolders = Get-ChildItem -Path $basePath -Directory | Select-Object -First 10
-#$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "_2ZH7vbKu7Y" }
+#$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "_Eer3X3Z_LE" }
 
 $youtubeFolders | ForEach-Object {
     $youtubeId = $_.Name
@@ -13,6 +13,7 @@ $youtubeFolders | ForEach-Object {
     $frontMatter = [ordered]@{}
     $body = $null
     $hasImportedContent = $false
+    $originalUrl = $null
     # Load the main file content
     if (Test-Path $mainFilePath) {
         $mainContent = Get-Content -Path $mainFilePath -Raw
@@ -22,7 +23,7 @@ $youtubeFolders | ForEach-Object {
             $frontMatter = ConvertFrom-Yaml $matches[1] -Ordered
             $body = $matches[2]
         }
-
+        $originalUrl = $frontMatter.url
         # Remove YouTube shortcode from body
         $body = $body -replace "{{< youtube [-_a-zA-Z0-9]+ >}}", ""
 
@@ -46,8 +47,8 @@ $youtubeFolders | ForEach-Object {
                 $customFrontMatter = ConvertFrom-Yaml $matches[1] -Ordered
                 $customBody = $matches[2]
                 
-                # Remove the first instance of a YouTube URL from the custom body
-                $youtubeUrlPattern = "https?:\/\/(youtube\.com\/shorts\/[a-zA-Z0-9_-]+|youtu\.be\/[a-zA-Z0-9_-]+)"
+                # Remove the first instance of a YouTube URL from the custom body (match domain and go to end of line)
+                $youtubeUrlPattern = "(?i)https?:\/\/(www\.)?(youtube\.com|youtu\.be)\/[^\s]*"
                 $customBody = $customBody -replace $youtubeUrlPattern, ""
                 
                 # Always use the body from the newest wordpress.custom*.md file
@@ -106,17 +107,20 @@ $youtubeFolders | ForEach-Object {
         }
 
         # Add URL from main front matter to aliases if it exists and custom or wprss files were imported
-        if ($hasImportedContent -and $frontMatter.url -and $frontMatter.url -ne "/resources/videos/:slug") {
+        if ($hasImportedContent -and $originalUrl -and $frontMatter.url -ne $originalUrl) {
             if (-not $frontMatter.Contains('aliases')) {
                 $frontMatter.aliases = @()
             }
-            if (-not ($frontMatter.aliases -contains $frontMatter.url)) {
-                $frontMatter.aliases += "$($frontMatter.url)"
+            if (-not ($frontMatter.aliases -contains $originalUrl)) {
+                $frontMatter.aliases += "$originalUrl"
             }
         }
 
         # Trim new lines from start and end of body
         $body = $body.Trim()
+
+        # Replace domain in the body content
+        $body = $body -replace "nakedalmweb\.wpenginepowered\.com", "nkdagility.com"
 
         # Combine the contents
         $mergedContent = "---`n$($frontMatter | ConvertTo-Yaml)`n---`n`n{{< youtube $youtubeId >}}`n`n$body`n`n"

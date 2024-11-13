@@ -1,31 +1,70 @@
 ---
-title: "What is a product backlog?"
-date: 2023-05-18T07:00:16Z
+title: What is a product backlog?
+date: 2023-08-17
 videoId: _Eer3X3Z_LE
-url: /resources/videos/what-is-a-product-backlog-
-canonicalUrl: https://www.youtube.com/watch?v=_Eer3X3Z_LE
+url: /resources/videos/:slug
+slug: what-is-a-product-backlog
 preview: https://i.ytimg.com/vi/_Eer3X3Z_LE/maxresdefault.jpg
 duration: 56
-isShort: True
+isShort: true
+aliases:
+- /resources/what-is-a-product-backlog-2
+- /resources/videos/what-is-a-product-backlog-
+
 ---
 
 {{< youtube _Eer3X3Z_LE >}}
 
-# What is a product backlog?
+**What is a product backlog?**
 
-#shorts #shortsvideo What is a product backlog? A #productbacklog is an ordered list of the most valuable items that need to be built for a #product to succeed. They are used by #agile #productdevelopment teams to prioritize what work needs to be done, why it matters, and enable them to decide how to tackle the work. Martin Hinshelwood explains.
+Demystifying the Product Backlog 📝
 
-About NKD Agility
+I'm often asked straightforward questions about being an Agile Consultant, but this one tops the list! 
 
-Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve. 
+Let's start off with a pretty official explanation of a product backlog. 
 
-We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments. 
+A product backlog serves as a roadmap, guiding our development team's efforts by prioritising tasks. Not only does it help us visualise our goals, but it also provides an opportunity to foster collaboration and creativity as the team brainstorms on how to transform these envisioned functionalities into reality.
 
-If you are interested in #agiletraining, visit https://nkdagility.com/training/ 
-If you have identified the need for #agilecoaching and #agileconsulting, visit https://nkdagility.com/agile-consulting-coaching/ 
+But if you're new to Scrum, let's get into the basics of a product backlog.  📌
 
-We would love to work with you. 
+A product backlog is a list of features or improvements we envision for our product - things we want our product to do that it doesn't yet.
+
+Sounds pretty simple, right?  💡
+
+More Than Just a To-Do List
+
+But there's more to this question! 🚀
+
+Allow me to fill you in on some essential points to remember about what is involved in a product backlog: 🎯
+
+- It can be short with one item or long with twenty. Flexibility is key.
+
+- It is NOT a dumping ground for an endless list of things. If you have 5000 items, it's time to do serious backlog pruning! 🌳🪓
+
+- The key essence of a product backlog is 'understanding'. Everyone should understand every item, from stakeholders and product owners to team members. If they don't, it's time to reconsider whether what you have is a product backlog at all! 🤔
+
+Are you struggling to create or maintain a lean and efficient product backlog?
+
+Sign up for my Agile and Scrum courses and let's clear up the product backlog confusion together. 🎯
+
+Naked Agility is an #agile consultancy that specializes in #scrumtraining, #agilecoaching and #agileconsulting to help teams evolve, integrate, and continuously improve.
+
+We recognize the positive impact that a happy AND inspired workforce can have on customer experience, and we actively help organizations to tap into the power of creative, collaborative, and high-performing teams that is unique to #agile and #scrum environments.
+
+If you are interested in #agiletraining, visit [https://nkdagility.com/training/](https://nkdagility.com/training/)
+
+If you have identified the need for #agilecoaching and #agileconsulting, visit [https://nkdagility.com/agile-consulting-coaching/](https://nkdagility.com/agile-consulting-coaching/)
+
+We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
-[Watch on YouTube](https://www.youtube.com/watch?v=_Eer3X3Z_LE)
+Keywords:       Product backlog, Agile, Scrum, Backlog Management.
+
+Hashtags:        #ProductBacklog #Agile #Scrum #BacklogManagement
+
+Hashtags:   
+
+#Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
+
