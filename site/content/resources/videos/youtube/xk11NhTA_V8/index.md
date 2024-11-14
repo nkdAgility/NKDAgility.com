@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=xk11NhTA_V8
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
 isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

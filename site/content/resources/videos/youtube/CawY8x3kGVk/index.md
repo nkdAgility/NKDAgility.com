@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-3
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-3-micromanagement,-developer-autonomy,-and-more!
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

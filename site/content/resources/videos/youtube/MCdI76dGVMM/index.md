@@ -11,6 +11,9 @@ aliases:
 - /resources/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrummaster
 - /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

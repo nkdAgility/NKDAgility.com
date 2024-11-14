@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-much-of-an-impact-can-a-strong-skilled-product-owner-have
 - /resources/videos/how-much-of-an-impact-can-a-strong,-skilled-product-owner-have-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

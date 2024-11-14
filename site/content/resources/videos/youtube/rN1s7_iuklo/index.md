@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/empowering-teams-to-maximize-value-and-return-on-investment
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-5
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

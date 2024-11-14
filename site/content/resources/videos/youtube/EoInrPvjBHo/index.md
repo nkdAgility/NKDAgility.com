@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-to-overcome-agile-banditry-a-product-owners-journey
 - /resources/videos/5-kinds-of-agile-bandits-product-owner-bandits
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

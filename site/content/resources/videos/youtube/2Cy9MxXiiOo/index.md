@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/what-is-a-sprint-goal-2
 - /resources/videos/what-is-a-sprint-goal-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

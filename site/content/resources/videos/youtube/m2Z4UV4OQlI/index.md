@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

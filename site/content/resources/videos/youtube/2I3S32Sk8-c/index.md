@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

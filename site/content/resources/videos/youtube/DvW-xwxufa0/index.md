@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-limits-of-self-taught-learning-why-external-perspectives-matter
 - /resources/videos/can-you-walk-us-through-your-consulting-process-what-methodologies-and-tools-do-you-employ-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

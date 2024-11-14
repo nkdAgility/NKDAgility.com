@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-immersive-learning-transforms-aspiring-agile-leaders
 - /resources/videos/why-is-the-pal-e-immersivelearning-experience-such-a-great-fit-for-aspiring-agileleaders-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

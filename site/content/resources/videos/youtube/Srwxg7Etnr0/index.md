@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-does-a-scrum-team-decide-on-a-sprint-goal
 - /resources/videos/how-does-a-scrum-team-decide-on-a-sprint-goal-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

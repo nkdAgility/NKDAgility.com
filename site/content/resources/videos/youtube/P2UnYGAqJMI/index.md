@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/the-pitfalls-of-agile-burndowns-stop-being-agile-bandits
 - /resources/videos/-shorts-5-kinds-of-agile-bandits-4th-kind
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

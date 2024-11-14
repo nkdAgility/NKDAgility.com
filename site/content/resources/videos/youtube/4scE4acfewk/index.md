@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-power-of-humility-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-humility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

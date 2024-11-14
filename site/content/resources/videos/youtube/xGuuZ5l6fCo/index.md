@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/empowering-agile-teams-the-critical-role-of-user-feedback-in-requirement-changes
 - /resources/videos/are-you-truly-empowering-your-teams-to-respond-to-user-feedback-the-agile-reality-check-[5-6]
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

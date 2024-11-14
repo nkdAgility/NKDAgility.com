@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-1
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-1
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

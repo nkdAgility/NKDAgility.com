@@ -9,6 +9,9 @@ duration: 243
 isShort: false
 aliases:
 - /resources/how-is-agile-leadership-different-to-traditional-management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

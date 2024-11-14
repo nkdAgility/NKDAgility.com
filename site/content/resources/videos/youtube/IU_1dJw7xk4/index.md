@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

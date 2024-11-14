@@ -11,6 +11,9 @@ aliases:
 - /resources/what-is-your-peeve-in-devops
 - /resources/pet-peeve-in-devops
 - /resources/videos/pet-peeve-in-devops
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

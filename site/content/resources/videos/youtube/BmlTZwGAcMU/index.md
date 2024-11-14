@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/immersive-learning-in-scrum-why-theory-and-experience-must-go-hand-in-hand
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-4
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

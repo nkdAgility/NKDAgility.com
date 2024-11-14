@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/why-immersive-learning-keeps-scrum-students-excited-and-engaged
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

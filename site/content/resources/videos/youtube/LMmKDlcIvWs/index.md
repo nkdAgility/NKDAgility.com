@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-kanban
 - /resources/videos/what-is-kanban-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

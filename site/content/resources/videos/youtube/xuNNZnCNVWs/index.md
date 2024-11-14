@@ -9,6 +9,9 @@ duration: 45
 isShort: true
 aliases:
 - /resources/1-critical-skill-for-a-scrum-master-and-why-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

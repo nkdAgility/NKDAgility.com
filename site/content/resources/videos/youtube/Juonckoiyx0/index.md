@@ -11,6 +11,9 @@ aliases:
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review-2
 - /resources/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
 - /resources/videos/what-should-be-top-of-mind-when-a-scrum-team-prepare-for-a-sprint-review
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

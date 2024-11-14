@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/devops-consulting-overview
 - /resources/videos/devops-consulting-overview-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

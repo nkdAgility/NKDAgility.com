@@ -9,6 +9,9 @@ duration: 370
 isShort: false
 aliases:
 - /resources/agile-consulting-services-overview
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

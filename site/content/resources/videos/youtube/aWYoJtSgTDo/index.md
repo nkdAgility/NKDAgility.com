@@ -9,6 +9,9 @@ duration: 204
 isShort: false
 aliases:
 - /resources/the-importance-of-knowing-the-territory
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

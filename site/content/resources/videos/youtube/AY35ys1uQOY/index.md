@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-do-you-know-if-youve-got-a-great-sprint-goal
 - /resources/videos/how-do-you-know-if-you've-got-a-great-sprint-goal-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

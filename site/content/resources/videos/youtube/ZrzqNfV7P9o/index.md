@@ -11,6 +11,9 @@ aliases:
 - /resources/why-does-minecraft-make-the-aps-course-so-awesome
 - /resources/learn-scrum-with-minecraft
 - /resources/videos/why-does-minecraft-make-the-aps-course-so-awesome-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

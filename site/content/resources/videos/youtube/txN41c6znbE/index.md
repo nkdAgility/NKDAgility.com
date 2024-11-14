@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/where-agile-went-wrong-understanding-the-competence-crisis
 - /resources/videos/the-difference-between-a-rock-solid,-deeply-competent-scrum-master-and-a-jira-jockey
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

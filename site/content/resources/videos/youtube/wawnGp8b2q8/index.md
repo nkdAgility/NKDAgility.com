@@ -9,6 +9,9 @@ duration: 196
 isShort: false
 aliases:
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

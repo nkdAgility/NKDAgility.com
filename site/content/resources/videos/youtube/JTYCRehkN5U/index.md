@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

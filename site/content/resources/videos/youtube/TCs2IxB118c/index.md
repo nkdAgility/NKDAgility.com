@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/boosting-team-morale-and-engagement-through-effective-mentorship-programs
 - /resources/videos/the-power-of-engaged-teams-through-mentorship-programs
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

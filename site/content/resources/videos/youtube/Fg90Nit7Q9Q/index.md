@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

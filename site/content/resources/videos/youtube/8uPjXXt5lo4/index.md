@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-the-most-valuable-thing-you-have-learned-through-training-people
 - /resources/videos/what-is-the-most-valuable-thing-you-have-learned-through-training-people-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

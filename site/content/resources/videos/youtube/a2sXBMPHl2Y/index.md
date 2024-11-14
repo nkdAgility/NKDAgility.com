@@ -11,6 +11,9 @@ aliases:
 - /resources/how-can-companies-derive-greater-benefits-from-training-by-investing-in-a-private-training-course
 - /resources/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course
 - /resources/videos/how-can-companies-derive-greater-benefit-from-training-by-investing-in-a-private-training-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-decision-maker
 - /resources/videos/what-are-the-barriers-that-prevent-developers-from-fully-accepting-a-product-owner-as-the-final-word
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

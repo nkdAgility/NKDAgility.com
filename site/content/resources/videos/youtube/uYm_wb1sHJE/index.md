@@ -11,6 +11,9 @@ aliases:
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

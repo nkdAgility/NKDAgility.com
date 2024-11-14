@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/what-does-a-poor-product-backlog-look-like
 - /resources/videos/what-does-a-poor-product-backlog-look-like-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

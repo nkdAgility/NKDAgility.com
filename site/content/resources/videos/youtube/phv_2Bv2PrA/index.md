@@ -9,6 +9,9 @@ duration: 1755
 isShort: false
 aliases:
 - /resources/an-introduction-to-agile-from-martin-hinshelwood
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

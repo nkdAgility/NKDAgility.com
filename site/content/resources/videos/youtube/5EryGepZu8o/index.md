@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce
 - /resources/videos/what-is-the-single-most-valuable-outcome-a-consulting-engagement-can-produce-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

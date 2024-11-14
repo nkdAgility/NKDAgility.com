@@ -11,6 +11,9 @@ aliases:
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-engagement
 - /resources/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig
 - /resources/videos/why-is-it-so-important-that-senior-leadership-teams-are-engaged-during-an-agile-consulting-gig-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

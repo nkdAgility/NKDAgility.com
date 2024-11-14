@@ -9,6 +9,9 @@ duration: 24
 isShort: true
 aliases:
 - /resources/favourite-scrum-course-to-teach-and-why
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

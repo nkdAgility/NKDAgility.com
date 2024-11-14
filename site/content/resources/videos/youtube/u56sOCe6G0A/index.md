@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/3-core-practices-of-kanban-actively-managing-work-items-in-a-workflow
 - /resources/videos/3-core-practices-of-kanban-actively-managing-items-in-a-workflow-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

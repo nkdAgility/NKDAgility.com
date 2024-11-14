@@ -11,6 +11,9 @@ aliases:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

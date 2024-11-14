@@ -11,6 +11,9 @@ aliases:
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility-2
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
 - /resources/videos/why-do-you-trust-joanna-to-deliver-scrum-courses-for-nkd-agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

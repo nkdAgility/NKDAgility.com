@@ -11,6 +11,9 @@ aliases:
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

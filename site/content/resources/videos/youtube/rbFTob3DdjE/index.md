@@ -9,6 +9,9 @@ duration: 39
 isShort: true
 aliases:
 - /resources/5-tools-that-scrum-masters-love-part-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

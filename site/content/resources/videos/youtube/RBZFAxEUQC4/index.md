@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/7-deadly-sins-of-agile-lust
 - /resources/videos/lust!-7-deadly-sins-of-agile
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

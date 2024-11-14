@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/3-best-ways-to-wreck-kanban-use-vanity-metrics
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-using-vanity-metrics-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

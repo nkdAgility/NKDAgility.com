@@ -9,6 +9,9 @@ duration: 353
 isShort: false
 aliases:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

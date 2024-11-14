@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-strategic-imperative-empowering-teams-with-vision-goals-and-direction
 - /resources/videos/unlocking-organizational-success-the-power-of-shared-vision-and-clear-goals
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

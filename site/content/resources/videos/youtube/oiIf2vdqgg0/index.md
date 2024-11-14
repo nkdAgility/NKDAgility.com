@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

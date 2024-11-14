@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/addressing-systemic-issues-in-agile-organizations
 - /resources/videos/agile-techniques-that-boost-startups!
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

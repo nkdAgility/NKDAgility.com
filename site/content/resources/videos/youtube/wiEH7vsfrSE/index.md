@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-cost-cutting-during-recessions-is-counterproductive
 - /resources/videos/recession-proofing-your-business-with-kanban-investing-in-effectiveness,-not-cost-cutting
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

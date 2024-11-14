@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-does-a-poor-scrum-team-look-act-and-feel-like
 - /resources/videos/what-does-a-poor-scrum-team-look,-act-and-feel-like-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

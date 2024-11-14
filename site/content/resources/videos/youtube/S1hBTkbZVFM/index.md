@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/the-key-to-hiring-the-right-agile-coach-building-credibility-with-teams-and-leadership
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-1
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

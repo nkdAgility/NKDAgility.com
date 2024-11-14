@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - "/resources/why-limiting-work-in-progress-is-key-to-success-in-kanban-\U0001F680"
 - /resources/videos/the-secret-power-of-kanban-why-limiting-work-in-progress-(wip)-is-key-to-success
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

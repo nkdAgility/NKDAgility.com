@@ -9,6 +9,9 @@ duration: 137
 isShort: false
 aliases:
 - /resources/professional-scrum-product-owner-pspo-discover-product-management-skills-practices
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

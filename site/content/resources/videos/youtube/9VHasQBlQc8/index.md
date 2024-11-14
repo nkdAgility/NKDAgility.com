@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-importance-of-patience-and-trust-in-building-agile-organizations
 - /resources/videos/7-virtues-of-agile-patience
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

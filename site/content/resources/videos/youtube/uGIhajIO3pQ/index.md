@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

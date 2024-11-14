@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/in-high-competition-markets-how-does-scrum-product-development-help-acquire-and-retain-customers
 - /resources/videos/in-high-competition-markets,-how-does-scrum-product-development-help-acquire-and-retain-customers-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

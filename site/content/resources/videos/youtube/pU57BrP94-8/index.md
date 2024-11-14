@@ -11,6 +11,9 @@ aliases:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

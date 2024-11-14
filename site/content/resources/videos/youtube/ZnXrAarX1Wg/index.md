@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/no-go-zone-for-agile-consultants
 - /resources/videos/no-go-zone-for-agile-consultants-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

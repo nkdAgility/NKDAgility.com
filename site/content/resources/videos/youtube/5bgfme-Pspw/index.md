@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/momentum-2
 - /resources/videos/momentum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -12,6 +12,9 @@ aliases:
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-professional-scrum-master
 - /resources/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned-experienced-scrum-master
 - /resources/videos/what-is-the-difference-between-a-newbie-scrum-master-and-a-seasoned,-experienced-scrum-master-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

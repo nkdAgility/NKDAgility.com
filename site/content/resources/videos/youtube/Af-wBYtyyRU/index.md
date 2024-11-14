@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/mastering-evidence-based-management-ebm-for-product-owners-maximizing-value-delivery
 - /resources/videos/evidence-based-management-for-product-owners!-why-is-this-a-great-option-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -11,6 +11,9 @@ aliases:
 - /resources/what-more-needs-to-happen-before-traditional-organisations-consider-agile
 - /resources/what-more-needs-to-happen-before-traditional-organizations-consider-agile
 - /resources/videos/what-more-needs-to-happen-before-traditional-organizations-consider-agile
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

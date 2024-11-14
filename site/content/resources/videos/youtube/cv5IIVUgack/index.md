@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer
 - /resources/videos/how-hard-is-it-to-transition-from-being-a-developer-to-a-scrum-developer-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

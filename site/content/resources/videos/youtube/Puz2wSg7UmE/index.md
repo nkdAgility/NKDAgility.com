@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-to-measure-your-organizations-ability-to-improve-value-through-innovation
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-4
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

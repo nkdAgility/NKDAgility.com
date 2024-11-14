@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

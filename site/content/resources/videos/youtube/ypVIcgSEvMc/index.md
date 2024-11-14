@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/30-discount-for-existing-alumni-overview
 - /resources/videos/30-discount-for-existing-alumni-overview
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

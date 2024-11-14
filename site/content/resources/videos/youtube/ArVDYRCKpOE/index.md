@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/quotes-fake-it-until-you-make-it
 - /resources/videos/quotes,-fake-it-until-you-make-it
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - "/resources/maximizing-transparency-and-improvement-in-software-engineering-with-kanban-\U0001F680"
 - /resources/videos/unlocking-the-power-of-kanban-gaining-deep-insights-into-your-software-engineering-processes
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

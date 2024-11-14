@@ -11,6 +11,9 @@ aliases:
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

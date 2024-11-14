@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

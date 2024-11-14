@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-sprint-planning
 - /resources/videos/what-is-sprint-planning-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

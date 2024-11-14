@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

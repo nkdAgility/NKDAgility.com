@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

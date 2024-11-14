@@ -9,6 +9,9 @@ duration: 376
 isShort: false
 aliases:
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

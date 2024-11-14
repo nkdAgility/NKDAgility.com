@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/overview-of-applying-flow-metrics-for-scrum-course
 - /resources/videos/overview-of-'applying-flow-metrics-for-scrum'-kanban-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

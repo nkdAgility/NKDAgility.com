@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/quotes-i-estimate-that-75-of-those-organisations-using-scrum-will-not-succeed-in-getting-the-benefits-that-they-hope-for-from-it-ken-schwaber
 - /resources/videos/75-of-those-organizations-using-scrum-will-not-succeed-in-getting-the-benefit-ken-schwaber
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

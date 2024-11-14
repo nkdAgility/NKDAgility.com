@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/7-deadly-sins-of-agile-gluttony
 - /resources/videos/gluttony!-7-deadly-sins-of-agile
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

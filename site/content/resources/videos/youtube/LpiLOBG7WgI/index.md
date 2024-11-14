@@ -11,6 +11,9 @@ aliases:
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
 - /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

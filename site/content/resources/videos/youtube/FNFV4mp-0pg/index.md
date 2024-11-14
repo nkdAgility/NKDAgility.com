@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/is-a-scrum-master-an-agile-micromanager
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

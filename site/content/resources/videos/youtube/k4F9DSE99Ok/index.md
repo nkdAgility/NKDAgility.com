@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=k4F9DSE99Ok
 preview: https://i.ytimg.com/vi/k4F9DSE99Ok/maxresdefault.jpg
 duration: 49
 isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

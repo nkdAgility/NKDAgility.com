@@ -9,6 +9,9 @@ duration: 117
 isShort: false
 aliases:
 - /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

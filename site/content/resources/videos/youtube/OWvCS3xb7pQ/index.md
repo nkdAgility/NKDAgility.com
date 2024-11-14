@@ -9,6 +9,9 @@ duration: 181
 isShort: false
 aliases:
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

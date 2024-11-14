@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/7-harbingers-of-the-agile-apocalypse-plague
 - /resources/videos/plague!-7-harbingers-agile-apocalypse
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

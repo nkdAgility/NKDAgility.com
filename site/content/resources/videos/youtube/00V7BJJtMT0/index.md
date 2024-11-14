@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-devops-and-how-is-it-different-to-agile
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

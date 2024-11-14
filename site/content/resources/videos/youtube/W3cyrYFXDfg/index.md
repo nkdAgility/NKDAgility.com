@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/agile-leadership-empowering-managers-with-the-right-skills
 - /resources/videos/why-is-training-such-a-critical-element-in-a-manager-or-leader's-journey
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

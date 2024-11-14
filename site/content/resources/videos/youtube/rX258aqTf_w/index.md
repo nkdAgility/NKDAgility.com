@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

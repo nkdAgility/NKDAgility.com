@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/does-your-team-truly-understand-your-product-vision-and-goals
 - "/resources/videos/secret-to-unlocking-team-potential-and-product-success-\U0001F680-the-agile-reality-check-[2-6]"
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

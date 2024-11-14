@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-your-feeling-on-creating-agile-apprenticeships
 - /resources/videos/what-is-your-feeling-on-creating-agile-apprenticeships-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

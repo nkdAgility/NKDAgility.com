@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=XZ1Swam_Cx0
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
 isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

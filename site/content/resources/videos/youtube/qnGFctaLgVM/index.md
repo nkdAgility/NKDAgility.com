@@ -11,6 +11,9 @@ aliases:
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility-2
 - /resources/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
 - /resources/videos/why-do-you-trust-russell-to-deliver-the-pspo-course-for-nkd-agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

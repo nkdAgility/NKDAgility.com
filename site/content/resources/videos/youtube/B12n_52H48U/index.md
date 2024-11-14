@@ -11,6 +11,9 @@ aliases:
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

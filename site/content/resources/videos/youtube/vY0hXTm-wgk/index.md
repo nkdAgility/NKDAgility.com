@@ -9,6 +9,9 @@ duration: 142
 isShort: false
 aliases:
 - /resources/professional-scrum-training-from-naked-agility-with-martin-hinshelwood
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

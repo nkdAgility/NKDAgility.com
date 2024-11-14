@@ -9,6 +9,9 @@ duration: 130
 isShort: false
 aliases:
 - /resources/why-every-scrum-master-needs-an-immersive-training-experience
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

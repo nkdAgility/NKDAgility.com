@@ -12,6 +12,9 @@ aliases:
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-a-solid-professional-scrum
 - /resources/how-effectively-does-an-aps-prepare-a-team-to-do-solid-professional-scrum
 - /resources/videos/how-effectively-does-an-aps-prepare-a-team-to-do-solid,-professional-scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 
