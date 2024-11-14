@@ -9,6 +9,9 @@ duration: 330
 isShort: false
 aliases:
 - /resources/what-are-the-top-3-things-a-product-owner-needs-to-bear-in-mind-when-adopting-an-entrepreneur-stance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

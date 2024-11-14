@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

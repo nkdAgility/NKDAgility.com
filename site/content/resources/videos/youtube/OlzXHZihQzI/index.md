@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/unlocking-the-power-of-immersive-learning-in-agile
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-4
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

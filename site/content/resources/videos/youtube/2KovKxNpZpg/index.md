@@ -9,6 +9,9 @@ duration: 32
 isShort: true
 aliases:
 - /resources/pet-peeve-in-scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

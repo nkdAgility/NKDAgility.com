@@ -11,6 +11,9 @@ aliases:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

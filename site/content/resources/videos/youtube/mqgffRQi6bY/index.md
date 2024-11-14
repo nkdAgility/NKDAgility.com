@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

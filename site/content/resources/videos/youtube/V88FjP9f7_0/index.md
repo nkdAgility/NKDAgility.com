@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/quotes-less-is-more-true-or-false
 - /resources/videos/quotes-less-is-more-true-or-false-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

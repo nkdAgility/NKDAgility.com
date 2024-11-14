@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-effective-is-scrum-training-via-digital-delivery
 - /resources/videos/how-effective-is-scrum-training-via-digital-delivery-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

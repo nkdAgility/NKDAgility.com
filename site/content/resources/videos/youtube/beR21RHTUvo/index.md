@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/story-points-a-ghost-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-story-points
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

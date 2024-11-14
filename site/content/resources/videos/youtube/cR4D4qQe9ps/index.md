@@ -11,6 +11,9 @@ aliases:
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master
 - /resources/videos/-1-tip-for-a-scrum-master
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

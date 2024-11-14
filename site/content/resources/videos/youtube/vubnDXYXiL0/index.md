@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum
 - /resources/videos/are-there-any-scrum-courses-that-teach-you-how-to-scale-scrum-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

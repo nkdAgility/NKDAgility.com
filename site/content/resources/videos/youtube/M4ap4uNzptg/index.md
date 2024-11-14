@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/unlocking-agiles-core-questioning-to-create-value
 - /resources/videos/agile-is-failing-organizations!
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/hardest-part-of-adopting-scrum
 - /resources/videos/hardest-part-of-adopting-scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

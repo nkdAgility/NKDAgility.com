@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile
 - /resources/videos/why-are-recessions-a-great-time-for-organizations-to-evaluate-the-opportunity-of-agile-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

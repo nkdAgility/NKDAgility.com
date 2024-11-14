@@ -9,6 +9,9 @@ duration: 49
 isShort: true
 aliases:
 - /resources/why-do-you-trust-simon-to-deliver-the-aps-course-for-nkd-agility
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

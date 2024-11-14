@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/must-have-trait-in-an-agile-consultant
 - /resources/videos/must-have-trait-in-an-agile-consultant
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

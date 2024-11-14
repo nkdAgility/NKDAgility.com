@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=isdope3qkx4
 preview: https://i.ytimg.com/vi/isdope3qkx4/hqdefault.jpg
 duration: 2351
 isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-crucible-of-learning-transforming-organizational-effectiveness-through-devops
 - /resources/videos/what-specific-outcomes-and-improvements-can-clients-expect-when-they-engage-with-your-devops-service
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

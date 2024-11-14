@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

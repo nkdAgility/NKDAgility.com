@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

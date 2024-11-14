@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/discipline-versus-motivation
 - /resources/videos/discipline-versus-motivation
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

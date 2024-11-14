@@ -9,6 +9,9 @@ duration: 245
 isShort: false
 aliases:
 - /resources/professional-agile-leadership-essentials-overview
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

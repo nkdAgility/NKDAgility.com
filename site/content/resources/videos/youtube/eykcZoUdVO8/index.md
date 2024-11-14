@@ -11,6 +11,9 @@ aliases:
 - /resources/part-2-most-influential-people-in-agile-3
 - /resources/most-influential-person-in-agile-for-you-personally
 - /resources/videos/most-influential-person-in-agile-for-you-personally-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

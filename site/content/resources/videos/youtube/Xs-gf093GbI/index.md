@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-a-product-vision-and-why-does-it-matter
 - /resources/videos/what-is-a-product-vision-and-why-does-it-matter-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

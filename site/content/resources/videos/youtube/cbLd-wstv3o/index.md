@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-to-discover-unrealized-value-in-your-product
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-3
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

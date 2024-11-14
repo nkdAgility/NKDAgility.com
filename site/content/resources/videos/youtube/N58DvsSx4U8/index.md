@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

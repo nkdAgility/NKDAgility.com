@@ -11,6 +11,9 @@ aliases:
 - /resources/free-workshop-05-introduction-to-agile-leadership-review-retro
 - /resources/free-workshop-04-introduction-to-sprint-reviews-review-retrospective
 - /resources/videos/free-workshop-4-introduction-to-sprint-review!-[audio-fixed]
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

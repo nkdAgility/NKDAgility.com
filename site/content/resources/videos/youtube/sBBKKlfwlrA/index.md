@@ -9,6 +9,9 @@ duration: 175
 isShort: false
 aliases:
 - /resources/professional-scrum-with-nexus-sps-with-certification-learn-skills-to-overcome-scaling-challenges
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/redefining-agiles-core-beyond-rituals-and-procedures
 - /resources/videos/agile-is-not-about-rituals-it's-about-developing-software-in-a-different-way-ken-schwaber
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

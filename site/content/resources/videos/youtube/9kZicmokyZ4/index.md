@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/the-importance-of-evidence-based-management-in-agile-environments
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-1
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

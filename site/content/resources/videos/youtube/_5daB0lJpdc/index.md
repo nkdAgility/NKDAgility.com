@@ -9,6 +9,9 @@ duration: 372
 isShort: false
 aliases:
 - /resources/introduction-to-agilitys-ghosts-shedding-dogma-and-embracing-pragmatism
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

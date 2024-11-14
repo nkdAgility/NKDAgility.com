@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/scrum-is-like-communism-it-doesnt-work-myth-5
 - /resources/videos/scrum-is-like-communism-it-doesn't-work-myth-5-balance-between-flexibility-&-compliance
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

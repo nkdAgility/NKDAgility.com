@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/quotes-dont-scale-scrum-pragmatic-or-defeatist
 - /resources/videos/quotes-don't-scale-scrum!-pragmatic-or-defeatist-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

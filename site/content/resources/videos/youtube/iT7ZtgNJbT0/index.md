@@ -11,6 +11,9 @@ aliases:
 - /resources/what-was-your-best-day-as-an-agile-consultant-2
 - /resources/what-was-your-best-day-as-an-agile-consultant
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

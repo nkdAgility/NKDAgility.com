@@ -11,6 +11,9 @@ aliases:
 - /resources/what-are-immersive-training-courses
 - /resources/what-are-immersive-training-scrum-courses
 - /resources/videos/what-are-immersive-training-scrum-courses-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

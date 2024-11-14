@@ -9,6 +9,9 @@ duration: 312
 isShort: false
 aliases:
 - /resources/how-does-a-scrum-team-plan-and-prioritize-work-effectively
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

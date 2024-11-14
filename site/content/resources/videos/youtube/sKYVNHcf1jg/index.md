@@ -9,6 +9,9 @@ duration: 280
 isShort: false
 aliases:
 - /resources/what-was-your-worst-day-as-an-agile-consultant
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

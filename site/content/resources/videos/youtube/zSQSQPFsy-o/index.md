@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master
 - /resources/videos/why-is-scrum-so-easy-to-understand-but-incredibly-hard-to-master-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

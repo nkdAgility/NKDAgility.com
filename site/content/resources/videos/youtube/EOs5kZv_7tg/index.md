@@ -11,6 +11,9 @@ aliases:
 - /resources/why-do-you-trust-joanna-to-deliver-scrum-org-classes-for-nkd-agility
 - /resources/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course
 - /resources/videos/why-is-johanna-a-great-teacher-for-the-professional-agile-leadership-essentials-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

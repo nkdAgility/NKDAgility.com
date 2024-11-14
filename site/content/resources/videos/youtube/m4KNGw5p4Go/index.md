@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/transform-your-product-development-unleash-the-power-of-experimentation-and-collaboration
 - /resources/videos/what-you-will-be-able-to-do-at-the-end-of-the-ppdv-course
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

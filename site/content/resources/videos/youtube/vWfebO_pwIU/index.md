@@ -9,6 +9,9 @@ duration: 291
 isShort: false
 aliases:
 - /resources/why-do-so-few-scrum-masters-progress-to-the-psm-ii-and-psm-iii-certifications
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

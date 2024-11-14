@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/overview-of-applying-professional-kanban-course
 - /resources/videos/overview-of-applying-professional-kanban-course-1
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

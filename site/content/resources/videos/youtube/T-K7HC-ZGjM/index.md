@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-a-sprint-backlog
 - /resources/videos/what-is-a-sprint-backlog-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

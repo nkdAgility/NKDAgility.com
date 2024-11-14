@@ -9,6 +9,9 @@ duration: 203
 isShort: false
 aliases:
 - /resources/what-does-failure-look-like-as-a-product-owner
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

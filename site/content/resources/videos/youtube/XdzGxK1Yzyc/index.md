@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-a-product-owner-why-are-they-essential
 - /resources/videos/why-have-a-product-owner-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
 isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/special-sprints-agile-banditry-or-risk-management
 - /resources/videos/5-kinds-of-agile-bandits-special-sprints
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

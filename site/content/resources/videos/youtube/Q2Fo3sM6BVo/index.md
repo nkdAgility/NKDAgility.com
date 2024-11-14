@@ -9,6 +9,9 @@ duration: 891
 isShort: false
 aliases:
 - /resources/overview-of-the-scrum-framework-with-martin-hinshelwood
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

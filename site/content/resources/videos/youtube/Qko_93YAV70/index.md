@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=Qko_93YAV70
 preview: https://i.ytimg.com/vi/Qko_93YAV70/maxresdefault.jpg
 duration: 50
 isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

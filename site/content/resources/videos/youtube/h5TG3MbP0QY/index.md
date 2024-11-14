@@ -11,6 +11,9 @@ aliases:
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

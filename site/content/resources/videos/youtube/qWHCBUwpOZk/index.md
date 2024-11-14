@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

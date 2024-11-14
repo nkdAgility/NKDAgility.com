@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

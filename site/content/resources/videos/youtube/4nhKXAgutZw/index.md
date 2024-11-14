@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-power-of-kindness-in-agile-a-core-virtue-for-success
 - /resources/videos/7-virtues-of-agile-kindness
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

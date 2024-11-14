@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-future-of-scrum-training-immersive-learning-for-lasting-change
 - /resources/videos/do-you-think-immersivelearning-is-the-future-of-scrum-training-if-so,-why-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

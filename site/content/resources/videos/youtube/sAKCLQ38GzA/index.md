@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

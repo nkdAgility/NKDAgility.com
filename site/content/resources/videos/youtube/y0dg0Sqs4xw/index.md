@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

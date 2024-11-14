@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/navigating-devops-crafting-unique-solutions-for-unique-organizations
 - /resources/videos/how-do-you-tailor-your-devops-consulting-services-to-meet-the-unique-needs-of-different-organization
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

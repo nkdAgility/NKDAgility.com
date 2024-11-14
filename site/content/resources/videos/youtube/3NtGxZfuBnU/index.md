@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartners-hype-cycle
 - /resources/videos/do-you-think-we-are-on-the-slope-of-enlightenment-in-gartner's-hype-cycle
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

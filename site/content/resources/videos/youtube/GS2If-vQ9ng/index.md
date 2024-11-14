@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/agile-training-versus-agile-consulting
 - /resources/videos/agile-training-versus-agile-consulting
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

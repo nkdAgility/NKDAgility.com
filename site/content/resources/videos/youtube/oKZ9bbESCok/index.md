@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/say-do-metrics-avoiding-agile-banditry-in-your-organization
 - /resources/videos/5-kinds-of-agile-bandits-say-do-metrics
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-common-challenges-of-adopting-devops-practices
 - /resources/videos/what-common-challenges-do-organizations-face-when-adopting-devops-practices-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

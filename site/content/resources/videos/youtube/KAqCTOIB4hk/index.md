@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/unlocking-the-power-of-immersive-learning-for-product-management
 - /resources/videos/how-does-the-incremental-learning-and-outcome-based-assignments-specifically-help-teams-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

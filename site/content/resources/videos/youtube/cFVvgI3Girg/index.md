@@ -9,6 +9,9 @@ duration: 159
 isShort: false
 aliases:
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

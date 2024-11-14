@@ -11,6 +11,9 @@ aliases:
 - /resources/1-critical-skill-for-a-scrum-master-and-why
 - /resources/one-critical-skill-for-a-scrum-master-and-why
 - /resources/videos/1-critical-skill-for-a-scrum-master-and-why-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

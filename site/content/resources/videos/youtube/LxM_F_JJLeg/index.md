@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=LxM_F_JJLeg
 preview: https://i.ytimg.com/vi/LxM_F_JJLeg/maxresdefault.jpg
 duration: 338
 isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

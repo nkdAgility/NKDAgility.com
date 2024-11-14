@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/what-is-project-management
 - /resources/videos/what-is-project-management-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

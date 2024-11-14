@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=OCJuDfc-gnc
 preview: https://i.ytimg.com/vi/OCJuDfc-gnc/maxresdefault.jpg
 duration: 592
 isShort: false
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

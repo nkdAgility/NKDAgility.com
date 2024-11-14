@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/how-does-someone-become-an-agile-consultant
 - /resources/videos/how-does-someone-become-an-agile-consultant-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

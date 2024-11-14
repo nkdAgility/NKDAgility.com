@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/understanding-product-discovery-why-it-matters-more-than-ever
 - /resources/videos/what-is-product-discovery-and-how-does-it-differ-from-how-we've-always-developed-products-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

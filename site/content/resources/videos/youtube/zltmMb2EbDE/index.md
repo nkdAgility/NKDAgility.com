@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/does-kanban-integrate-into-a-scrum-environment
 - /resources/videos/does-kanban-integrate-with-a-scrum-environment-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/mastering-evidence-based-management-in-agile-inform-dont-control
 - /resources/videos/introduction-to-evidence-based-management
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

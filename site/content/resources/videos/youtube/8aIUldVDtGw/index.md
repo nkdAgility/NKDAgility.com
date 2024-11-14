@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

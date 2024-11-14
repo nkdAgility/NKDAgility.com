@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-importance-of-visualizing-your-work-in-a-kanban-strategy
 - /resources/videos/kanban-visualisation-practices!-stratagies-or-best-practices-for-effectively-visualizing-workflow!
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

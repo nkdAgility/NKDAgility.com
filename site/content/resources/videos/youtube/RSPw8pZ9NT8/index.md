@@ -9,6 +9,9 @@ duration: 466
 isShort: false
 aliases:
 - /resources/can-you-talk-about-the-kanban-workshop-and-why-its-a-great-option-for-organizations
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

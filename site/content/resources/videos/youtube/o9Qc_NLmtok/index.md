@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/8-week-immersive-learning-course-in-60-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

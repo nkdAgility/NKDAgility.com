@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/hiring-the-right-agile-coach-what-you-need-to-know
 - /resources/videos/5-things-to-consider-before-hiring-an-agilecoach-part-4
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/scrum-master-versus-seasoned-agile-coach
 - /resources/videos/scrum-master-versus-seasoned-agile-coach-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

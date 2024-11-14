@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/turning-user-feedback-into-actionable-work-a-guide-to-maximizing-product-value
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-3
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

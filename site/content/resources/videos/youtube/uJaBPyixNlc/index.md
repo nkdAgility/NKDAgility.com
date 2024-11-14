@@ -11,6 +11,9 @@ aliases:
 - /resources/how-does-naked-agility-select-associate-scrum-trainers
 - /resources/how-does-naked-agility-select-scrum-trainers
 - /resources/videos/how-does-naked-agility-select-scrum-trainers-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

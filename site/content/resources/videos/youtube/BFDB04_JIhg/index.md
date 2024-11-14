@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/videos/introduction-to-kanban
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

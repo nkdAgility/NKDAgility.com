@@ -9,6 +9,9 @@ duration: 293
 isShort: false
 aliases:
 - /resources/mastering-azure-devops-migration-navigating-challenges-solutions-and-best-practices
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

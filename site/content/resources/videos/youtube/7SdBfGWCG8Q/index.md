@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/the-power-of-building-relationships-through-immersive-learning-in-scrum
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

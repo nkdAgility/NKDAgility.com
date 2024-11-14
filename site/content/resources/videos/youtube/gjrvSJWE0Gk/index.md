@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/overview-of-applying-metrics-for-predictability-kanban-course
 - /resources/videos/overview-of-applying-metrics-for-predictability-kanban-course
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

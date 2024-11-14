@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

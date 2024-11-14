@@ -9,6 +9,9 @@ duration: 255
 isShort: false
 aliases:
 - /resources/znaczenie-znajomosci-terenu
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

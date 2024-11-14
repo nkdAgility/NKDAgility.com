@@ -7,6 +7,9 @@ canonicalUrl: https://www.youtube.com/watch?v=M5U-Pdn_ZrE
 preview: https://i.ytimg.com/vi/M5U-Pdn_ZrE/maxresdefault.jpg
 duration: 39
 isShort: true
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

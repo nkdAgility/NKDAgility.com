@@ -9,6 +9,9 @@ duration: 153
 isShort: false
 aliases:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-pal-e-course-deliver-to-delegates
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

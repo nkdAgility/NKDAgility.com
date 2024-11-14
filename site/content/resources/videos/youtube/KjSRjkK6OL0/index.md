@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/what-does-an-ineffective-scrum-masters-day-look-like
 - /resources/videos/what-does-an-ineffective-scrum-master's-day-look-like-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

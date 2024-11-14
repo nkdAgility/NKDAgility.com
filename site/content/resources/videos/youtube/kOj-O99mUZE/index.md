@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

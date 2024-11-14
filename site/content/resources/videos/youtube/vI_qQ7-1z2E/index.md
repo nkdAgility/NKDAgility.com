@@ -11,6 +11,9 @@ aliases:
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-as-a-scrum-master
 - /resources/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability
 - /resources/videos/is-a-psm-ii-certification-validation-of-your-skills-or-does-it-develop-your-skill-and-capability-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

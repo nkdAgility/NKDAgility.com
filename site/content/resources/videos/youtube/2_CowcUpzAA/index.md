@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
 - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

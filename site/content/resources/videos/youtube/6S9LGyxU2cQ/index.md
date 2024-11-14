@@ -9,6 +9,9 @@ duration: 253
 isShort: false
 aliases:
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+sitemap:
+  filename: sitemap.xml
+  priority: 0.4
 
 ---
 

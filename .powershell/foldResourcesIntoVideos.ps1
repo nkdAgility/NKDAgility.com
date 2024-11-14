@@ -1,7 +1,7 @@
 $basePath = "site\content\resources\videos\youtube"
 
 # Loop through each folder in the base path that matches "_Eer3X3Z_LE"
-$youtubeFolders = Get-ChildItem -Path $basePath -Directory # | Select-Object -First 30
+$youtubeFolders = Get-ChildItem -Path $basePath -Directory #| Select-Object -First 10
 #$youtubeFolders = $youtubeFolders | Where-Object { $_.Name -match "17qTGonSsbM" }
 
 $youtubeFolders | ForEach-Object {
@@ -14,6 +14,7 @@ $youtubeFolders | ForEach-Object {
     $body = $null
     $hasImportedContent = $false
     $originalUrl = $null
+    $hasCustomFile = $false
     # Load the main file content
     if (Test-Path $mainFilePath) {
         $mainContent = Get-Content -Path $mainFilePath -Raw
@@ -26,7 +27,6 @@ $youtubeFolders | ForEach-Object {
         $originalUrl = $frontMatter.url
         # Remove YouTube shortcode from body
         $body = $body -replace "{{< youtube [-_a-zA-Z0-9]+ >}}", ""
-
 
         # Load front matter and body for custom files if they exist, using the newest date
         $customFiles = Get-ChildItem -Path $customFilePattern | Sort-Object { 
@@ -62,6 +62,7 @@ $youtubeFolders | ForEach-Object {
                 $frontMatter.date = $customFrontMatter.date
                 $frontMatter.url = "/resources/videos/:slug"
                 $hasImportedContent = $true
+                $hasCustomFile = $true
                 
                 # Add slug from customFrontMatter to aliases in main front matter
                 if ($customFrontMatter.slug) {
@@ -114,6 +115,30 @@ $youtubeFolders | ForEach-Object {
             }
             if (-not ($frontMatter.aliases -contains $originalUrl)) {
                 $frontMatter.aliases += "$originalUrl"
+            }
+        }
+
+        # Add sitemap information to front matter
+        if ($hasCustomFile) {
+            if (-not $frontMatter.Contains('sitemap')) {
+                $frontMatter.sitemap = [ordered]@{
+                    filename = "sitemap.xml"
+                    priority = 0.6
+                }
+            }
+            else {
+                $frontMatter.sitemap.priority = 0.6
+            }
+        }
+        else {
+            if (-not $frontMatter.Contains('sitemap')) {
+                $frontMatter.sitemap = [ordered]@{
+                    filename = "sitemap.xml"
+                    priority = 0.4
+                }
+            }
+            else {
+                $frontMatter.sitemap.priority = 0.4
             }
         }
 

@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/focusing-beyond-agile-building-true-capability-in-organizations
 - /resources/videos/where-are-we-now-and-where-do-we-need-to-go-next
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

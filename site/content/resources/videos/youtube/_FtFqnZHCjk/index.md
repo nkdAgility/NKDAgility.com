@@ -9,6 +9,9 @@ duration: 656
 isShort: false
 aliases:
 - /resources/the-evolution-of-product-management-in-the-agile-era
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

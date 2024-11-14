@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/is-your-project-ecosystem-truly-agile
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-6
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

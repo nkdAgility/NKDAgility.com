@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

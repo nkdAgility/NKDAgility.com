@@ -10,6 +10,9 @@ isShort: true
 aliases:
 - /resources/how-do-you-know-the-value-currently-delivered-in-your-organization
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-2
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

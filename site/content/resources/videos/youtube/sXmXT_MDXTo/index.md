@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/devops-elevating-your-organizations-performance-through-bespoke-solutions
 - /resources/videos/can-you-provide-an-overview-of-your-devops-consulting-services-and-explain-who-can-benefit-the-most
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 

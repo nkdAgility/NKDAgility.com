@@ -10,6 +10,9 @@ isShort: false
 aliases:
 - /resources/agile-is-not-new-a-journey-back-to-the-basics
 - /resources/videos/the-intention-of-agile-and-scrum
+sitemap:
+  filename: sitemap.xml
+  priority: 0.6
 
 ---
 
