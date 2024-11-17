@@ -1,6 +1,12 @@
 <div class="publications-craft py-2">
   <div class="text-muted">
-    Published <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+    {{ if .Draft }}
+      <span class="badge text-bg-warning">Draft</span>
+    {{ else if gt .Date (now) }}
+      <span class="badge text-bg-danger">Scheduled</span> for <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+    {{ else }}
+      Published on <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+    {{ end }}
   </div>
   <div class="text-muted">
     <div class="text-muted">{{- partial "resources/contributors.html" . }}</div>
