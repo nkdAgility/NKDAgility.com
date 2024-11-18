@@ -1,6 +1,6 @@
 # Define all possible values for type, scope, mode, and rate modifier
 $scopes = @('private', 'public')
-$learningLevels = @('Introductory', 'Beginner', 'Intermediate', 'Advanced')
+$learningLevels = @('introductory', 'beginner', 'intermediate', 'advanced')
 
 # Function to calculate role modifier
 function Get-RoleModifier {
@@ -51,12 +51,9 @@ function Calculate-StudentGraduatedFee {
 }
 
 # Loop through all combinations of scope and rate modifier
-$output = @()
+$output = @{}
 foreach ($scope in $scopes) {
-    $scopeObject = [PSCustomObject]@{
-        Scope          = $scope
-        LearningLevels = @()
-    }
+    $scopeData = @{}
     foreach ($learningLevel in $learningLevels) {
         # Base parameters
         $baseRate = 275
@@ -71,15 +68,14 @@ foreach ($scope in $scopes) {
         # Calculate total price
         $total = $baseRateDay * $baseDays * $levelModifier
 
-        # Create learning level object
-        $learningLevelObject = [PSCustomObject]@{
-            LearningLevel = $learningLevel
-            TotalPrice    = [math]::Round($total, 2)
+        # Add learning level to scope data
+        $scopeData[$learningLevel] = [PSCustomObject]@{
+            TotalPrice = [math]::Round($total, 2)
         }
-        $scopeObject.LearningLevels += $learningLevelObject
     }
-    $output += $scopeObject
+    $output[$scope] = $scopeData
 }
+
 
 
 

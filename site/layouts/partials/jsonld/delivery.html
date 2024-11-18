@@ -12,7 +12,7 @@
     {{ template "course-offers" . }}
     {{ template "course-syllabus" . }}
     {{ template "course-hasCourseInstance" . }}
-    "courseMode": "Online",
+    "courseMode": "Blended",
     "courseCode": "{{ .Params.code }}",
     "sku": "NKDA-{{ .Params.code }}",
     "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",
@@ -26,7 +26,7 @@
   {{- $learningExperiences := (index .Params "course-learning-experiences") -}}
   {{- $length := len $learningExperiences -}}
   {{- range $index, $experience := $learningExperiences }}
-    { "@type": "CourseInstance", "courseMode": "Online", "location": "Example University", "courseSchedule": { "@type": "Schedule",
+    { "@type": "CourseInstance", "courseMode": "blended", "location": "Example University", "courseSchedule": { "@type": "Schedule",
     {{- if eq $experience "Traditional" -}}
       "duration": "PT2H", "repeatCount": 8, "repeatFrequency": "Daily"
     {{- else if eq $experience "Immersive" -}}
@@ -41,12 +41,15 @@
 {{ end }}
 
 {{ define "course-offers" }}
+  {{- $site := .Site }}
   "offers": [
-  {{- $zones := (index .Site.Data "pricing-zone") }}
+  {{- $zones := (index $site.Data "pricing-zone") }}
+
+  {{- $level := lower .Params.level }}
   {{- range $index, $zone := $zones }}
     {{- if and $zone.enabled (gt (len $zone.countries) 0) }}
       {{- if $index }},{{ end }}
-      { "@type": "Offer", "category": "Paid", "url": "{{ .RelPermalink }}", "priceCurrency": "{{ $zone.currency }}", "price": "1000", "availability": "https://schema.org/InStock", "eligibleRegion":
+      { "@type": "Offer", "category": "Paid", "url": "{{ .RelPermalink }}", "priceCurrency": "{{ $zone.currency }}", "availability": "https://schema.org/InStock", "eligibleRegion":
       [{{- range $i, $country := $zone.countries }}{{- if $i }},{{- end }}{ "@type": "Place", "name": "{{ $country }}" }{{- end }}] }
     {{- end }}
   {{- end }}
@@ -64,3 +67,5 @@
     ],
   {{ end }}
 {{ end }}
+
+{{/* "price": "{{ partial "jsonld/price-in-currency.html" (dict "Site" $site "currency" $zone.currency "level" $level) }} ", */}}

@@ -1,25 +1,28 @@
-# Define the base currencies
-$baseCurrencies = @('EUR', 'USD')
+# Define the base currency
+$baseCurrency = 'GBP'
+
+# Define the target currencies for conversion
+$targetCurrencies = @('EUR', 'USD')
 
 # Initialize an empty array to store the results
 $exchangeRates = @()
 
-# Loop through each base currency
-foreach ($base in $baseCurrencies) {
+# Loop through each target currency
+foreach ($target in $targetCurrencies) {
     # Construct the API URL
-    $url = "https://api.frankfurter.app/latest?from=$base&to=GBP"
+    $url = "https://api.frankfurter.app/latest?from=$baseCurrency&to=$target"
 
     # Send a GET request to the API
     try {
         $response = Invoke-RestMethod -Uri $url -Method Get
 
         # Extract the exchange rate
-        $rate = $response.rates.GBP
+        $rate = $response.rates.$target
 
         # Create a custom object to store the result
         $exchangeRate = [PSCustomObject]@{
-            BaseCurrency   = $base
-            TargetCurrency = 'GBP'
+            BaseCurrency   = $baseCurrency
+            TargetCurrency = $target
             ExchangeRate   = $rate
             Date           = $response.date
         }
@@ -28,7 +31,7 @@ foreach ($base in $baseCurrencies) {
         $exchangeRates += $exchangeRate
     }
     catch {
-        Write-Error "Failed to retrieve exchange rate for $base to GBP: $_"
+        Write-Error "Failed to retrieve exchange rate for $baseCurrency to $target : $_"
     }
 }
 
