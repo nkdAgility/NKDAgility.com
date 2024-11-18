@@ -9,8 +9,8 @@
           "{{ $resource.Permalink }}"{{ if lt (add $index 1) (len ($.Resources.ByType "image")) }},{{ end }}
         {{ end }}
       ],
-      "datePublished": "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+      "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
+      "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
       "author": [
         {{/* Creator */}}
         {
