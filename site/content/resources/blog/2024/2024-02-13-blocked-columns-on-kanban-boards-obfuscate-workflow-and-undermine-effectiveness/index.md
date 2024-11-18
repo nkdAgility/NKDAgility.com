@@ -3,6 +3,9 @@ title: Blocked Columns on Kanban Boards Obfuscate Workflow and Undermine Effecti
 description: "Discover how blocked columns on Kanban boards hinder workflow efficiency. Learn effective strategies to enhance transparency and accountability in your team."
 date: 2024-02-13
 creator: Martin Hinshelwood
+contributors:
+  - name: Will Seele
+    external: https://www.linkedin.com/in/wjseele/
 id: "51208"
 layout: blog
 resourceTypes: blog

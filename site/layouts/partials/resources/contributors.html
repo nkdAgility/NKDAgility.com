@@ -1,6 +1,6 @@
 <div class="resource-creator">
   Written by
-  {{- $creator := .Params.creator }}
+  {{- $creator := .Params.creator  | default "Martin Hinshelwood" }}
   {{- with site.GetPage "company/people" (anchorize $creator) }}
     <a href="{{- .RelPermalink }}">{{- .Title }}</a>
   {{- else }}

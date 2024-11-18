@@ -1,0 +1,15 @@
+<script type="application/ld+json" data-nkda-type="youtube"  data-nkda-resourceTypes="video">
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "{{$.Page.Title}}",
+      "description": "{{$.Page.Summary | plainify}}",
+      "thumbnailUrl": [
+        {{ $.Page.Params.preview | absURL }}
+       ],
+      "uploadDate": "{{ ($.Page.Date.Format "2006-01-02T15:04:05-07:00") | safeHTML }}",
+      "duration": "{{ $duration := $.Page.Params.duration }}{{ $hours := div $duration 3600 }}{{ $remainingSeconds := mod $duration 3600 }}{{ $minutes := div $remainingSeconds 60 }}{{ $seconds := mod $remainingSeconds 60 }}{{ printf "PT%dH%dM%dS" $hours $minutes $seconds }}",
+      "contentUrl": "https://www.youtube.com/{{$.Page.Params.videoId}}",
+      "embedUrl": "https://www.youtube.com/embed/{{$.Page.Params.videoId}}",
+    }
+    </script>
