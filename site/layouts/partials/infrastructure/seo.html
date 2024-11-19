@@ -83,16 +83,18 @@
           {{/* Creator */}}
           {
             "@type": "Person",
-            "name": {{- if .Params.creator }}{{ .Params.creator }}{{ else }}Martin Hinshelwood{{ end }},
+            "name": {{ if .Params.creator }}{{ .Params.creator }}{{ else }}"Martin Hinshelwood"{{ end }},
             "url": {{ with site.GetPage "company/people" (anchorize (or .Params.creator "Martin Hinshelwood")) }}{{ .Permalink }}{{ else }}{{ "" }}{{ end }}
           }
-          {{/* Contributors */}}
+          {{- /* Contributors */ -}}
+          {{- if .Params.contributors -}},
           {{- range $index, $contributor := .Params.contributors }}{{ if $index }},{{ end }}
           {
             "@type": "Person",
             "name": {{ $contributor.name }},
             "url": {{ with site.GetPage "company/people" (anchorize $contributor.name) }}{{ .Permalink }}{{ else }}{{ $contributor.external | safeURL }}{{ end }}
           }
+          {{- end }}
           {{- end }}
         ]
       },
