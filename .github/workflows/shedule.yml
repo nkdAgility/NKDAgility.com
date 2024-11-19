@@ -29,8 +29,8 @@ jobs:
 
       - uses: convictional/trigger-workflow-and-wait@v1.6.1
         with:
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.repository }}
+          owner: nkdagility
+          repo: nkdagility.com
           github_token: ${{ steps.app-token.outputs.token }}
           workflow_file_name: main.yaml
           ref: ${{ steps.find_tag.outputs.latest_tag }}
