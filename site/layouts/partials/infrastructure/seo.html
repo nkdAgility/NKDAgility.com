@@ -17,15 +17,14 @@
 {{- if .Keywords -}}
   {{- $keywords = $keywords | append .Keywords -}}
 {{- end -}}
-{{- if .Site.Params.keywords -}}
+{{- range .Site.Taxonomies -}}
+  {{- $keywords = $keywords | append ( .) -}}
+{{- end -}}
+{{- if and (eq (len $keywords) 0) .Site.Params.keywords -}}
   {{- $keywords = $keywords | append .Site.Params.keywords -}}
 {{- end -}}
-{{- range .Site.Taxonomies -}}
-  {{- $keywords = $keywords | append (.) -}}
-{{- end -}}
-
-
 <meta name="keywords" content="{{- delimit $keywords ", " -}}" />
+
 <meta name="author" content="{{- .Site.Params.author | default "Martin Hinshelwood" -}}" />
 
 <!-- Open Graph -->
