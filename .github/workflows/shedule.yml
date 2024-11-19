@@ -1,5 +1,9 @@
 name: Schedule Re-Deploy Latest
 
+permissions:
+  contents: write
+  actions: write
+
 on:
   workflow_dispatch:
   schedule:
@@ -7,10 +11,12 @@ on:
 
 jobs:
   find-latest-tag:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - uses: actions/create-github-app-token@v1
         id: app-token
@@ -18,20 +24,35 @@ jobs:
           app-id: ${{ secrets.NKDAGILITY_BOT_APP_ID }}
           private-key: ${{ secrets.NKDAGILITY_BOT_CLIENTSECRET }}
 
+      - name: Authenticate GitHub CLI
+        run: gh auth status
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Find latest semantic version tag (PowerShell)
         id: find_tag
         shell: pwsh
         run: |
           $tags = git tag --sort=-v:refname | Where-Object { $_ -match '^v[0-9]+\.[0-9]+\.[0-9]+$' }
           $latestTag = $tags | Select-Object -First 1
-          echo "latest_tag=$latestTag" | Out-File -FilePath $env:GITHUB_ENV -Append
 
-      - uses: convictional/trigger-workflow-and-wait@v1.6.1
-        with:
-          owner: ${{ github.repository_owner }}
-          repo: ${{ github.repository }}
-          github_token: ${{ steps.app-token.outputs.token }}
-          workflow_file_name: main.yml
-          ref: ${{ steps.find_tag.outputs.latest_tag }}
-          trigger_workflow: true
-          wait_workflow: false
+          if (-not $latestTag) {
+            Write-Host "No valid semantic version tags found. Exiting."
+            exit 0
+          }
+
+          echo "latest_tag=$latestTag" | Out-File -FilePath $env:GITHUB_ENV -Append
+          Write-Host "Latest tag is $latestTag"
+
+          # GitHub CLI api
+          # https://cli.github.com/manual/gh_api
+
+          # GitHub CLI API call
+          gh api `
+          --method POST `
+          -H "Accept: application/vnd.github+json" `
+          -H "X-GitHub-Api-Version: 2022-11-28" `
+          "/repos/${{ github.repository }}/actions/workflows/main.yaml/dispatches" `
+          -f ref=$latestTag
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
