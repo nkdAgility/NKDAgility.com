@@ -26,15 +26,21 @@ jobs:
         run: |
           $tags = git tag --sort=-v:refname | Where-Object { $_ -match '^v[0-9]+\.[0-9]+\.[0-9]+$' }
           $latestTag = $tags | Select-Object -First 1
+
+          if (-not $latestTag) {
+            Write-Host "No valid semantic version tags found. Exiting."
+            exit 0
+          }
+
           echo "latest_tag=$latestTag" | Out-File -FilePath $env:GITHUB_ENV -Append
           Write-Host "Latest tag is $latestTag"
 
-      - uses: convictional/trigger-workflow-and-wait@v1.6.1
-        with:
-          owner: nkdagility
-          repo: nkdagility.com
-          github_token: ${{ steps.app-token.outputs.token }}
-          workflow_file_name: main.yaml
-          ref: ${{ steps.find_tag.outputs.latest_tag }}
-          trigger_workflow: true
-          wait_workflow: false
+          # GitHub CLI api
+          # https://cli.github.com/manual/gh_api
+
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            /repos/${{ github.repository }}/actions/workflows/main.yaml/dispatches \
+            -f "ref=$latestTag"
