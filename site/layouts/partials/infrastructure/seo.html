@@ -116,10 +116,27 @@
         {{- /*  "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",  */ -}}
         "coursePrerequisites": {{ .Params.prerequisites | plainify }}
       },
+      {{ else if eq .Type "people"  }}
+      {
+        "@type": ["WebPage", "ProfilePage"],
+        "@id": {{printf "%s%s" $canonicalUrl "#ProfilePage"}},
+        "url": {{ $canonicalUrl }},
+        "name": {{ .Title }},
+        "isPartOf": { "@id": "https://nkdagility.com/#website" },
+        "primaryImageOfPage": { "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}} },
+        "image": { "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}} },
+        "thumbnailUrl": "https://nkdagility.com/wp-content/uploads/2020/06/Jim-S-Profile-Pic_0.png",
+        "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
+        "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
+        "description": {{.Description | plainify}},
+        "breadcrumb": { "@id": {{printf "%s%s" $canonicalUrl "#breadcrumb"}} },
+        "inLanguage": "en-GB",
+        "potentialAction": [{ "@type": "ReadAction", "target": [{{ $canonicalUrl }}] }]
+      },
       {{ else }}
       {
         "@type": "WebPage",
-        "@id": {{ .Permalink }},
+        "@id": {{printf "%s%s" $canonicalUrl "#webpage"}},
         "url": {{ $canonicalUrl }},
         "name": {{ .Title }},
         "description": {{ .Description | plainify }},
@@ -139,6 +156,14 @@
         }
       },
       {{ end }}
+      {{ if .Params.preview }}
+        {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
+        {{- if and $image (eq $image.ResourceType "image") -}}
+          { "@type": "ImageObject", "inLanguage": "en-GB", "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}}, "url": {{$image.Permalink}}, "contentUrl": {{$image.Permalink}} },
+        {{ end}}
+      {{ else }}
+        { "@type": "ImageObject", "inLanguage": "en-GB", "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}}, "url": "/images/nkdAgility-logo-192x192.jpg", "contentUrl": "/images/nkdAgility-logo-192x192.jpg", "width": 192, "height": 192 },
+      {{ end}}
       {
         "@type": "WebSite",
         "@id": "https://nkdagility.com/#website",
@@ -152,14 +177,44 @@
         "inLanguage": "en-GB"
       },
       {
-        "@context": "https://schema.org",
         "@type": "BreadcrumbList",
+        "@id": {{printf "%s%s" $canonicalUrl "#breadcrumb"}},
         "itemListElement": [
           {{- range $index, $page := $breadcrumbs }}
             {"@type": "ListItem", "position": {{ add $index 1 }}, "name": {{ $page.Title | htmlEscape }}, "item": {{ $page.Permalink }} }{{- if ne (add $index 1) (len $breadcrumbs) -}},{{- end -}}
           {{- end }}
         ]
       },
+      {{ if eq .Type "resources" }}
+        {{- $creator := .Params.creator  | default "Martin Hinshelwood" }}
+        {{- with site.GetPage "company/people" (anchorize $creator) }}
+        {
+          "@type": "Person",
+          "@id": {{printf "%s%s" .Permalink "#Person"}},
+          "name": {{.Title}},
+          {{ if .Params.preview -}}
+          {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) -}}
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": {{printf "%s%s" .Permalink "#primaryimage"}},
+            "url": {{$image.Permalink}},
+            "contentUrl": {{$image.Permalink}},
+            "caption": {{printf "%s - %s" .Title ((.Description | default .Params.card.content) | plainify )}}
+          },
+          {{- end }}
+          "description": {{(.Description | default .Params.card.content) | plainify }},
+          "sameAs": [
+            {{- $additional := slice .Permalink -}}
+            {{- $socialProfiles := .Params.socialProfiles -}}
+            {{- $allProfiles := $additional | append $socialProfiles -}}
+            {{- range $index, $profile := $allProfiles -}}
+              {{- if $index }}, {{ end }}{{ printf "%s" $profile }}
+            {{- end -}}
+            ]
+        },
+        {{end}}
+      {{ end }}
       {
         "@type": "Organization",
         "@id": "https://nkdagility.com/#organization",
@@ -186,22 +241,15 @@
         "vatID": "GB410658614",
         "taxID": "1030513365",
         "duns": "219457519",
-        "numberOfEmployees": { "@type": "QuantitativeValue", "minValue": "1", "maxValue": "10" }
-      },
-      {
-        "@type": "Person",
-        "@id": "https://nkdagility.com/#/schema/person/4457e9a8134760d8f4a7161d4e53a4cb",
-        "name": "Martin Hinshelwood",
-        "image": {
-          "@type": "ImageObject",
-          "inLanguage": "en-GB",
-          "@id": "https://nkdagility.com/#/schema/person/image/",
-          "url": "//nkdagility.com/wp-content/uploads/wpo365/profile-images/3.png",
-          "contentUrl": "//nkdagility.com/wp-content/uploads/wpo365/profile-images/3.png",
-          "caption": "Martin Hinshelwood"
+        "numberOfEmployees": { "@type": "QuantitativeValue", "minValue": "1", "maxValue": "10" },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "47 Ballantrae Crecent",
+          "addressLocality": "Glasgow",
+          "addressCountry": "UK",
+          "addressRegion": "Scotland",
+          "postalCode": "G775TX"
         },
-        "description": "Martin Hinshelwood has worked with many customers in government, finance, manufacturing, health and technology to help them adopt and improve their agility using DevOps and Agile techniques. He writes regularly on naked Agility's Blog, and speaks often on DevOps, Agile &amp; Process Improvement with Scrum, Visual Studio, and TFS. Martin is available onsite for technical or agile mentioning, coaching, or consulting. Find out what Martin's customers say about him and his work.",
-        "sameAs": ["https://nkdagility.com/blog", "https://www.facebook.com/martin.hinshelwood", "http://www.linkedin.com/in/martinhinshelwood", "https://x.com/mrhinsh", "http://www.youtube.com/user/mrhinsh"]
       }
     ]
   }
