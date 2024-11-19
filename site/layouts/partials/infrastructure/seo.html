@@ -1,0 +1,48 @@
+<!-- Search Engine Optimisation -->
+<title>{{- .Title }} | {{- .Site.Title }}</title>
+
+{{- $canonicalUrl := "" -}}
+{{- if .Params.canonicalUrl -}}
+  {{- $canonicalUrl = .Params.canonicalUrl -}}
+{{- else if .Params.external_url -}}
+  {{- $canonicalUrl = .Params.external_url -}}
+{{- else -}}
+  {{- $canonicalUrl = .RelPermalink | add "https://nkdagility.com" -}}
+{{- end -}}
+<link rel="canonical" href="{{- $canonicalUrl -}}" />
+
+<link href="{{ with .OutputFormats.Get "RSS" -}}{{- .RelPermalink -}}{{- end -}}" rel="alternate" type="application/rss+xml" title="{{- .Title -}}" />
+
+<meta name="description" content="{{- (.Description | default .Site.Params.description) | plainify -}}" />
+<meta name="keywords" content="{{- .Keywords | default .Site.Params.keywords -}}" />
+<meta name="author" content="{{- .Site.Params.author | default "Martin Hinshelwood" -}}" />
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_GB" />
+<meta property="og:title" content="{{- .Title | plainify -}}" />
+<meta property="og:description" content="{{- (.Description | default .Summary) | plainify -}}" />
+<meta property="og:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+<meta property="og:url" content="{{- $canonicalUrl }}" />
+<meta property="og:site_name" content="naked Agility with Martin Hinshelwood" />
+
+<meta property="article:publisher" content="https://www.facebook.com/nkdAgility/" />
+<meta property="article:modified_time" content="{{- .Lastmod.Format "2006-01-02T15:04:05" -}}" />
+
+{{- if .IsHome }}
+  <meta property="og:type" content="website" />
+{{- else if .Section | eq "resources" }}
+  <meta property="og:type" content="article" />
+{{- else if .IsPage }}
+  <meta property="og:type" content="website" />
+{{- end }}
+
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nkdagility" />
+<meta name="twitter:title" content="{{- .Title -}}" />
+<meta name="twitter:description" content="{{- (.Description | default .Summary) | plainify -}}" />
+<meta name="twitter:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+<meta name="twitter:label1" content="Estimated reading time" />
+<meta name="twitter:data1" content="{{- .ReadingTime -}} minutes" />
+<!-- Search Engine Optimisation -->
