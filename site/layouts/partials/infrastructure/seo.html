@@ -81,7 +81,7 @@
           {{- end }}
         ]
       },
-      {{ else  if eq .Type "course" }}
+      {{ else if or (eq .Type "course") (eq .Type "mentor-program") }}
       {
         "@context": "https://schema.org",
         "@type": "Course",
@@ -90,7 +90,7 @@
         "provider": {
           "@type": "Organization",
           "name": "Naked Agility with Martin Hinshelwood",
-          "url": "{{ .Site.BaseURL }}"
+          "url": {{ .Site.BaseURL }}
         },
         {{- template "course-offers" . -}}
         {{- template "course-syllabus" . -}}
@@ -98,8 +98,8 @@
         "courseMode": "Blended",
         "courseCode": {{ .Params.code }},
         "sku": "NKDA-{{ .Params.code }}",
-        {{/*  "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",  */}}
-        "coursePrerequisites": "{{ .Params.prerequisites | plainify }}"
+        {{- /*  "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",  */ -}}
+        "coursePrerequisites": {{ .Params.prerequisites | plainify }}
       },
       {{ else }}
       {
@@ -203,7 +203,7 @@
     {{- else -}}
       "duration": "PT4H", "repeatCount": 4, "repeatFrequency": "Daily"
     {{- end }}
-    }, "instructor": [{ "@type": "Person", "name": "Martin Hinshelwood", "description": "Professional Scrum Trainer, Professional Kanban Trainer, Microsoft MVP: GitHub & DevOps", "image": "http://examplePerson.jpg" }]
+    }, "instructor": [{ "@type": "Person", "name": "Martin Hinshelwood", "description": "Professional Scrum Trainer, Professional Kanban Trainer, Microsoft MVP: GitHub & DevOps", "image": "https://nkdagility.com/images/nkdagility-with-martin-hinshelwood-light.png" }]
     }{{ if lt (add $index 1) $length }},{{ end }}
   {{- end }}
   ],
