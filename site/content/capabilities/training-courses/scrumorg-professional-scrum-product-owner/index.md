@@ -1,5 +1,6 @@
 ---
 title: Professional Scrum Product Owner (PSPO) Course with Certification
+description: Our Professional Scrum Product Owner course helps students master the Product Owner role with real-world scenarios and practical exercises, enabling participants to drive product success using Agile principles and Scrum.
 shortTitle: Professional Scrum Product Owner
 weight: 50
 date: 2019-11-07

@@ -11,6 +11,12 @@ people-abilities:
   - Trainer
   - Consultant
   - Principle
+socialProfiles:
+  - https://nkdagility.com/blog
+  - https://www.facebook.com/martin.hinshelwood
+  - http://www.linkedin.com/in/martinhinshelwood
+  - https://x.com/mrhinsh
+  - http://www.youtube.com/user/mrhinsh
 card:
   button:
     content: Want to know more?

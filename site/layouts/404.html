@@ -1,0 +1,59 @@
+{{- define "breadcrumbs" }}
+  <div></div>
+{{- end }}
+
+{{- define "headline" }}
+  <section class="container my-5">
+    <div class="row p-2 p-lg-6">
+      <div class="col-xl-6 p-lg-3">
+        <h1 class="mb-4 nkda-heading-primary">404 Page not Found.</h1>
+        <h2 class="mb-4 nkda-heading-secondary">Engineering Excellence: Minimising Errors, Maximising Outcomes</h2>
+        <p class="mb-4 d-none d-sm-block text-muted">At Naked Agility, we’re all about delivering robust solutions and measurable outcomes. While even the best systems occasionally hit a snag, we see every 404 as a chance to adapt and improve. Excellence isn’t about perfection—it’s about learning fast, fixing faster, and always striving for better. Let’s get you back on track!</p>
+        <h2 class="mb-4 nkda-heading-secondary">Spot a Problem? Let’s Fix It Together!</h2>
+        <p class="mb-4 d-none d-sm-block text-muted">
+          Think you’ve found a glitch? Head over to our
+          <a href="https://github.com/nkdAgility/NKDAgility.com/issues" target="_blank">
+            GitHub Issues&nbsp;<small><i class="fa-regular fa-arrow-up-right-from-square" style="transform: scale(0.6)"></i></small>
+          </a>
+          to report it — we’re always keen to hear from you. Feeling adventurous? Submit a pull request and be part of the solution! Together, we can make things better. 🚀
+        </p>
+      </div>
+      <div class="col-xl-4 d-none d-sm-block">
+        <div class="row">
+          <div class="col-12">
+            <img src="/images/404.webp" />
+          </div>
+        </div>
+        <div class="row p-5">
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="/images/PST-Badge-v2-web-transparent.webp" loading="lazy" width="100%" /></div>
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="/images/MVP_Horizontal_FullColor.webp" loading="lazy" width="100%" /></div>
+          <div class="col-lg-4 col-sm-6 col-md-4 p-2"><img src="/images/PK-Email@0.5x-1.png" loading="lazy" width="100%" /></div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{- end }}
+
+{{- define "main" }}
+  <section class="container my-5">
+    <div class="ais-InstantSearch">
+      <div class="right-panel">
+        <div id="searchbox"></div>
+        <div id="refinement"></div>
+        <div id="hits"></div>
+        <div id="pagination"></div>
+      </div>
+    </div>
+  </section>
+  <script src="{{- "js/algolia/search.js" | relURL }}"></script>
+
+  <section class="container my-5">
+    <h2 title="Capabilities - What we do?">What we do?</h2>
+    <p>Explore our comprehensive range of services and capabilities designed to empower organizations and teams. With our expert solutions, you can efficiently address and resolve immediate challenges, driving success across your operations.</p>
+    {{- partial "cards-section.html" (dict "context" . "SectionName" "capabilities") }}
+  </section>
+{{- end }}
+
+{{- define "template" }}
+  page/404.html
+{{- end }}
