@@ -28,7 +28,7 @@
           {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) }}
           {{- if $image }}
             {{- $resized := $image.Fit "150x50 jpg" }}
-            <img src="{{- $resized.RelPermalink }}" loading="lazy" class="img-fluid" />
+            <img src="{{- $resized.RelPermalink }}" alt="{{- .Title }} Logo" loading="lazy" class="img-fluid" />
           {{- else }}
             ???
           {{- end }}
