@@ -31,7 +31,7 @@ jobs:
           owner: ${{ github.repository_owner }}
           repo: ${{ github.repository }}
           github_token: ${{ steps.app-token.outputs.token }}
-          workflow_file_name: main.yml
+          workflow_file_name: main.yaml
           ref: ${{ steps.find_tag.outputs.latest_tag }}
           trigger_workflow: true
           wait_workflow: false
