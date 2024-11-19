@@ -24,6 +24,11 @@ jobs:
           app-id: ${{ secrets.NKDAGILITY_BOT_APP_ID }}
           private-key: ${{ secrets.NKDAGILITY_BOT_CLIENTSECRET }}
 
+      - name: Authenticate GitHub CLI
+        run: gh auth status
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Find latest semantic version tag (PowerShell)
         id: find_tag
         shell: pwsh
@@ -50,4 +55,4 @@ jobs:
           "/repos/${{ github.repository }}/actions/workflows/main.yaml/dispatches" `
           -f ref=$latestTag
         env:
-          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
