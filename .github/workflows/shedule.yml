@@ -25,6 +25,7 @@ jobs:
           $tags = git tag --sort=-v:refname | Where-Object { $_ -match '^v[0-9]+\.[0-9]+\.[0-9]+$' }
           $latestTag = $tags | Select-Object -First 1
           echo "latest_tag=$latestTag" | Out-File -FilePath $env:GITHUB_ENV -Append
+          Write-Host "Latest tag is $latestTag"
 
       - uses: convictional/trigger-workflow-and-wait@v1.6.1
         with:
