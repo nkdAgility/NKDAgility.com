@@ -1,0 +1,20 @@
+{{- $site := .Site -}}
+{{- $zoneCurrency := .currency -}}
+{{- $level := .level -}}
+{{- $exchangeRates := $site.Data.exchangeRates -}}
+{{- $coursePrices := $site.Data.coursePrices -}}
+{{- $price := index (index $coursePrices "private") $level -}}
+{{- $totalPrice := $price.TotalPrice -}}
+{{- if eq $zoneCurrency "GBP" -}}
+  {{- $totalPriceFormatted := printf "%.2f" $totalPrice -}}
+  {{- $totalPriceFormatted -}}
+{{- else -}}
+  {{- $exchangeRate := index (where $exchangeRates "TargetCurrency" $zoneCurrency) 0 -}}
+  {{- if $exchangeRate -}}
+    {{- $convertedPrice := mul $totalPrice $exchangeRate.ExchangeRate -}}
+    {{- $convertedPriceFormatted := printf "%.2f" $convertedPrice -}}
+    {{- $convertedPriceFormatted -}}
+  {{- else -}}
+    0
+  {{- end -}}
+{{- end -}}

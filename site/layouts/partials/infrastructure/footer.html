@@ -8,8 +8,8 @@
           <h1 class="display-5 fw-bold lh-1 mb-3 text-white">Improve with confidence</h1>
         </div>
         <div class="col-lg-5 col-md-12 text-uppercase align-items-center">
-          <a class="btn btn-primary btn-lg" href="https://nkdagility.com/book-online/" target="_blank"> Book appointment </a>
-          <a class="btn btn-secondary btn-lg" href="https://nkdagility.com/company/general-inquiries/">Contact</a>
+          <a class="btn btn-primary btn-lg" href="/book-online/" target="_blank"> Book appointment </a>
+          <a class="btn btn-secondary btn-lg" href="/company/general-inquiries/">Contact</a>
         </div>
       </div>
       <div class="row">
@@ -84,7 +84,7 @@
           <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
             {{ range first 5  (where .Site.RegularPages.ByWeight "Type" "mentor-program") }}
               <li class="nav-item">
-                <a class="nav-link p-0" href="{{ .Permalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">
+                <a class="nav-link p-0" href="{{ .RelPermalink }}" title="{{ .Params.card.title }} - {{ .Params.card.content | plainify }}">
                   <small><i class="fa-light fa-chevron-right pe-1"></i>{{- if .Params.shorttitle }}{{- .Params.shorttitle }}{{- else }}{{- .Title }}{{- end }}</small>
                 </a>
               </li>
@@ -98,7 +98,7 @@
             {{ range $terms }}
               <li class="nav-item">
                 <small
-                  ><a class="nav-link p-0" href="{{ .Page.Permalink }}"><i class="fa-light fa-chevron-right pe-1"></i> {{- if .Page.Params.shorttitle }}{{- .Page.Params.shorttitle }}{{- else }}{{- .Page.Title }}{{- end }}</a></small
+                  ><a class="nav-link p-0" href="{{ .Page.RelPermalink }}"><i class="fa-light fa-chevron-right pe-1"></i> {{- if .Page.Params.shorttitle }}{{- .Page.Params.shorttitle }}{{- else }}{{- .Page.Title }}{{- end }}</a></small
                 >
               </li>
             {{ end }}

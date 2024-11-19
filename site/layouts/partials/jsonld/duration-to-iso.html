@@ -1,0 +1,11 @@
+{{- $durationParam := default 0 . -}}
+{{- if gt $durationParam 0 -}}
+  {{- $duration := mul $durationParam 3 -}}
+  {{- $hours := div $duration 3600 -}}
+  {{- $remainingSeconds := mod $duration 3600 -}}
+  {{- $minutes := div $remainingSeconds 60 -}}
+  {{- $seconds := mod $remainingSeconds 60 -}}
+  {{- printf "PT%dH%dM%dS" $hours $minutes $seconds -}}
+{{- else -}}
+  {{- printf "Invalid or zero duration value" -}}
+{{- end -}}

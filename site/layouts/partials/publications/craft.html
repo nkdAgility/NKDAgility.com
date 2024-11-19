@@ -3,6 +3,9 @@
     Published <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
   </div>
   <div class="text-muted">
+    Last Modified <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{ .GitInfo.AuthorDate.Format "2 January 2006" }}</time></a>
+  </div>
+  <div class="text-muted">
     <div class="text-muted">{{- partial "resources/contributors.html" . }}</div>
   </div>
   <div class="text-muted">{{- .ReadingTime }} minute read</div>
