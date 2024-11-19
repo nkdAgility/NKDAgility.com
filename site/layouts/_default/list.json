@@ -13,7 +13,7 @@
   {{- end -}}
 
 {{- else if .IsSection -}}
-  {{- range .Pages -}} <!-- Only pages in this section -->
+  {{- range .Pages -}} 
     {{- $.Scratch.Add "pages" (dict
       "title" .Title
       "url" .Permalink
@@ -25,7 +25,7 @@
   {{- end -}}
 
 {{- else if .IsTaxonomy -}}
-  {{- range .Data.Pages -}} <!-- Only pages with this taxonomy term -->
+  {{- range .Data.Pages -}} 
     {{- $.Scratch.Add "pages" (dict
       "title" .Title
       "url" .Permalink
@@ -37,7 +37,7 @@
   {{- end -}}
 
 {{- else if .IsTaxonomyTerm -}}
-  {{- range .Data.Terms -}} <!-- Only list taxonomy terms -->
+  {{- range .Data.Terms -}} 
     {{- $.Scratch.Add "pages" (dict
       "title" .Title
       "url" .Permalink
