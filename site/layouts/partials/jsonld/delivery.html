@@ -26,13 +26,13 @@
   {{- $learningExperiences := (index .Params "course-learning-experiences") -}}
   {{- $length := len $learningExperiences -}}
   {{- range $index, $experience := $learningExperiences }}
-    { "@type": "CourseInstance", "courseMode": "blended", "location": "Example University", "courseSchedule": { "@type": "Schedule",
+    { "@type": "CourseInstance", "courseMode": "blended", "location": "Microsoft Teams", "courseSchedule": { "@type": "Schedule",
     {{- if eq $experience "Traditional" -}}
-      "duration": "PT2H", "repeatCount": 8, "repeatFrequency": "Daily"
+      "duration": "PT4H", "repeatCount": 4, "repeatFrequency": "Daily"
     {{- else if eq $experience "Immersive" -}}
       "duration": "PT6H", "repeatCount": 8, "repeatFrequency": "Weekly"
     {{- else -}}
-      "duration": "PT2H", "repeatCount": 8, "repeatFrequency": "Daily"
+      "duration": "PT4H", "repeatCount": 4, "repeatFrequency": "Daily"
     {{- end }}
     }, "instructor": [{ "@type": "Person", "name": "Martin Hinshelwood", "description": "Professional Scrum Trainer, Professional Kanban Trainer, Microsoft MVP: GitHub & DevOps", "image": "http://examplePerson.jpg" }]
     }{{ if lt (add $index 1) $length }},{{ end }}
