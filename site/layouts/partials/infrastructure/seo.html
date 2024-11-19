@@ -10,11 +10,22 @@
   {{- $canonicalUrl = .RelPermalink | add "https://nkdagility.com" -}}
 {{- end -}}
 <link rel="canonical" href="{{- $canonicalUrl -}}" />
-
 <link href="{{ with .OutputFormats.Get "RSS" -}}{{- .RelPermalink -}}{{- end -}}" rel="alternate" type="application/rss+xml" title="{{- .Title -}}" />
-
 <meta name="description" content="{{- (.Description | default .Site.Params.description) | plainify -}}" />
-<meta name="keywords" content="{{- .Keywords | default .Site.Params.keywords -}}" />
+
+{{- $keywords := slice -}}
+{{- if .Keywords -}}
+  {{- $keywords = $keywords | append .Keywords -}}
+{{- end -}}
+{{- if .Site.Params.keywords -}}
+  {{- $keywords = $keywords | append .Site.Params.keywords -}}
+{{- end -}}
+{{- range .Site.Taxonomies -}}
+  {{- $keywords = $keywords | append (.) -}}
+{{- end -}}
+
+
+<meta name="keywords" content="{{- delimit $keywords ", " -}}" />
 <meta name="author" content="{{- .Site.Params.author | default "Martin Hinshelwood" -}}" />
 
 <!-- Open Graph -->
