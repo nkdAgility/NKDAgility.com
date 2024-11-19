@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://nkdagility.com/capabilities/private-corporate-training/",
+      "url": "https://nkdagility.com/capabilities/private-corporate-training/",
+      "name": "Private Corporate Training - naked Agility with Martin Hinshelwood",
+      "isPartOf": { "@id": "https://nkdagility.com/#website" },
+      "datePublished": "2024-06-12T14:34:44+00:00",
+      "dateModified": "2024-06-12T14:36:19+00:00",
+      "breadcrumb": { "@id": "https://nkdagility.com/capabilities/private-corporate-training/#breadcrumb" },
+      "inLanguage": "en-GB",
+      "potentialAction": [{ "@type": "ReadAction", "target": ["https://nkdagility.com/capabilities/private-corporate-training/"] }]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://nkdagility.com/capabilities/private-corporate-training/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://nkdagility.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Capabilities", "item": "https://nkdagility.com/capabilities/" },
+        { "@type": "ListItem", "position": 3, "name": "Private Corporate Training" }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://nkdagility.com/#website",
+      "url": "https://nkdagility.com/",
+      "name": "naked Agility with Martin Hinshelwood",
+      "description": "Deep expertise in DevOps and Agility with Scrum, Kanban, Visual Studio, Azure DevOps, Azure, &amp; AI",
+      "publisher": { "@id": "https://nkdagility.com/#organization" },
+      "potentialAction": [
+        { "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://nkdagility.com/?s={search_term_string}" }, "query-input": { "@type": "PropertyValueSpecification", "valueRequired": true, "valueName": "search_term_string" } }
+      ],
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://nkdagility.com/#organization",
+      "name": "naked Agility with Martin Hinshelwood",
+      "alternateName": "nkdAgility",
+      "url": "https://nkdagility.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "inLanguage": "en-GB",
+        "@id": "https://nkdagility.com/#/schema/logo/image/",
+        "url": "https://nkdagility.com/wp-content/uploads/2021/08/nkdagility-with-martin-hinshelwood-light.png",
+        "contentUrl": "https://nkdagility.com/wp-content/uploads/2021/08/nkdagility-with-martin-hinshelwood-light.png",
+        "width": 1203,
+        "height": 491,
+        "caption": "naked Agility with Martin Hinshelwood"
+      },
+      "image": { "@id": "https://nkdagility.com/#/schema/logo/image/" },
+      "sameAs": ["https://www.facebook.com/nkdAgility/", "https://x.com/nkdagility", "https://www.linkedin.com/company/naked-agility-with-martin-hinshelwood/", "https://www.youtube.com/@nakedAgility", "https://www.tiktok.com/@nkdagility"],
+      "description": "We help organisations dynamically adapt to market needs! We are for software organisations and software teams! We will guide you in moving to a multi-method approach to agility that moves beyond a simple defined process to something more co-evolutionary and highly adaptive to provide a better flow of value for your stakeholders. Our expertise in Lean, Agile, DevOps, Scrum, and Kanban drives supports you in optimising the value to your customers and maximising your revenue.",
+      "email": "contact@nkdagility.com",
+      "telephone": "+44 141 343 9621",
+      "legalName": "Naked Agility Limited",
+      "foundingDate": "2013-07-01",
+      "vatID": "GB410658614",
+      "taxID": "1030513365",
+      "duns": "219457519",
+      "numberOfEmployees": { "@type": "QuantitativeValue", "minValue": "1", "maxValue": "10" }
+    }
+  ]
+}
