@@ -503,10 +503,6 @@ events:
           - 7
 ---
 
-{{< events-schedule-single >}}
-
-{{< syllabus-single >}}
-
 Welcome to the Professional Scrum Master (PSM) course. This transformative learning journey is designed specifically for Agile Leaders, Product Owners, and Managers eager to understand and incorporate Scrum values and principles into their leadership repertoire.
 
 The Scrum landscape is continuously evolving, and command over Scrum methodologies is no longer a luxury but a necessity for modern business leaders. Scrum practices enable organizations to be more adaptable, responsive, and effective in changing market dynamics.
@@ -542,3 +538,7 @@ Join the Professional Scrum Master course and equip yourself with the knowledge,
 ### What You Will Learn
 
 Over the 2 days, students will see why PSM is the cutting-edge course for effective Scrum Masters and for anyone coaching a software development team toward increased efficiency and effectiveness. The course includes advanced thinking for servant-leadership and behavioural shifts. Throughout the course, students are challenged to think in terms of the Scrum principles to better understand what to do when returning to the workplace. The PSM course is much more than just a set of slides and an instructor. In this course, students work on real-life cases with other classmates together as a team. This course is made up of discussions and hands-on exercises based upon real-life cases.
+
+{{< events-schedule-single >}}
+
+{{< syllabus-single >}}
