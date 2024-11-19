@@ -1,0 +1,48 @@
+{{- $breadcrumbs := slice }}
+{{- $built := false }}
+<!-- Custom breadcrumb for taxonomy terms like 'course-topic' -->
+{{- if or (eq .Type "course") (eq .Type "course-topics") (eq .Type "course-vendors") }}
+  <!-- Manually construct the parent hierarchy for taxonomies -->
+  {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
+  {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
+  {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities/training-courses") }}
+  {{- if eq .Type "course" }}
+    {{- $urlParts := split .Params.url "/" }}
+    {{- $courseTopic := index $urlParts 3 }}
+    {{- $search := (printf "course-topics/%s" $courseTopic) }}
+    {{- $termPage := site.GetPage $search }}
+    {{- if $termPage }}
+      <!-- Add the term page to the breadcrumbs -->
+      {{- $breadcrumbs = $breadcrumbs | append $termPage }}
+    {{- end }}
+  {{- end }}
+  {{- $breadcrumbs = $breadcrumbs | append . }}
+  {{- $built = true }}
+{{- else if eq .Type "delivery-audiences" }}
+  <!-- Manually construct the parent hierarchy for taxonomies -->
+  {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "home") }}
+  {{- $breadcrumbs = $breadcrumbs | append (site.GetPage "capabilities") }}
+  {{- $breadcrumbs = $breadcrumbs | append . }}
+  {{- $built = true }}
+{{- end }}
+<!-- Default Build of breadcrumbs -->
+{{- if not $built }}
+  <!-- Manually construct the parent hierarchy for taxonomies -->
+  {{- $currentPage := . }}
+  {{- $breadcrumbs = $breadcrumbs | append $currentPage }}
+  <!-- Traverse up the hierarchy through sections and parent pages -->
+  {{- $parent := .Parent }}
+  {{- range (seq 1 10) }}
+    <!-- Use seq to loop, with an arbitrary limit -->
+    {{- if $parent }}
+      <!-- Append parent to the slice -->
+      {{- $breadcrumbs = $breadcrumbs | append $parent }}
+      {{- $parent = $parent.Parent }}
+    {{- else }}
+      {{- break }}
+    {{- end }}
+  {{- end }}
+  <!-- Reverse the breadcrumb order -->
+  {{- $breadcrumbs = $breadcrumbs.Reverse }}
+{{- end }}
+{{- return $breadcrumbs -}}

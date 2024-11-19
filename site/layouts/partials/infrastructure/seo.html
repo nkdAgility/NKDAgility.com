@@ -1,0 +1,238 @@
+<!-- Search Engine Optimisation -->
+<title>{{- .Title }} | {{- .Site.Title }}</title>
+
+{{- $canonicalUrl := "" -}}
+{{- if .Params.canonicalUrl -}}
+  {{- $canonicalUrl = .Params.canonicalUrl -}}
+{{- else if .Params.external_url -}}
+  {{- $canonicalUrl = .Params.external_url -}}
+{{- else -}}
+  {{- $canonicalUrl = .RelPermalink | add "https://nkdagility.com" -}}
+{{- end -}}
+<link rel="canonical" href="{{- $canonicalUrl -}}" />
+
+<link href="{{ with .OutputFormats.Get "RSS" -}}{{- .RelPermalink -}}{{- end -}}" rel="alternate" type="application/rss+xml" title="{{- .Title -}}" />
+
+<meta name="description" content="{{- (.Description | default .Site.Params.description) | plainify -}}" />
+<meta name="keywords" content="{{- .Keywords | default .Site.Params.keywords -}}" />
+<meta name="author" content="{{- .Site.Params.author | default "Martin Hinshelwood" -}}" />
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_GB" />
+<meta property="og:title" content="{{- .Title | plainify -}}" />
+<meta property="og:description" content="{{- (.Description | default .Summary) | plainify -}}" />
+<meta property="og:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+<meta property="og:url" content="{{- $canonicalUrl }}" />
+<meta property="og:site_name" content="naked Agility with Martin Hinshelwood" />
+
+<meta property="article:publisher" content="https://www.facebook.com/nkdAgility/" />
+<meta property="article:modified_time" content="{{- .Lastmod.Format "2006-01-02T15:04:05" -}}" />
+
+{{- if .IsHome }}
+  <meta property="og:type" content="website" />
+{{- else if .Section | eq "resources" }}
+  <meta property="og:type" content="article" />
+{{- else if .IsPage }}
+  <meta property="og:type" content="website" />
+{{- end }}
+
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@nkdagility" />
+<meta name="twitter:title" content="{{- .Title -}}" />
+<meta name="twitter:description" content="{{- (.Description | default .Summary) | plainify -}}" />
+<meta name="twitter:image" content="{{- .Params.preview | default .Site.Params.og_image -}}" />
+<meta name="twitter:label1" content="Estimated reading time" />
+<meta name="twitter:data1" content="{{- .ReadingTime -}} minutes" />
+
+{{ $breadcrumbs := partial "functions/breadcrumbs.html" . }}
+<script type="application/ld+json" data-nkda-type="{{ .Page.Type }}" data-nkda-type="{{ .Kind }}">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {{ if eq .Type "resources" }}
+      {
+        "@context": "https://schema.org",
+        "@type": {{- if .Params.resourceTypes }}{{- $type := index .Params.resourceTypes 0 }}{{- if eq $type "blog" }}"BlogPosting"{{- else if eq $type "newsletter" }}"NewsArticle"{{- else }}"Article"{{- end }}{{- else }}"Article"{{- end }},
+        "headline": {{ .Title | htmlEscape }},
+        "image": [
+          {{- /* Include images from the page bundle */ -}}
+          {{- range $index, $resource := .Resources.ByType "image" -}}
+            {{- $resource.Permalink -}}{{- if lt (add $index 1) (len ($.Resources.ByType "image")) -}},{{- end -}}
+          {{- end -}}
+        ],
+        "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
+        "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
+        "author": [
+          {{/* Creator */}}
+          {
+            "@type": "Person",
+            "name": {{- if .Params.creator }}{{ .Params.creator }}{{ else }}Martin Hinshelwood{{ end }},
+            "url": {{ with site.GetPage "company/people" (anchorize (or .Params.creator "Martin Hinshelwood")) }}{{ .Permalink }}{{ else }}{{ "" }}{{ end }}
+          }
+          {{/* Contributors */}}
+          {{- range $index, $contributor := .Params.contributors }}{{ if $index }},{{ end }}
+          {
+            "@type": "Person",
+            "name": {{ $contributor.name }},
+            "url": {{ with site.GetPage "company/people" (anchorize $contributor.name) }}{{ .Permalink }}{{ else }}{{ $contributor.external | safeURL }}{{ end }}
+          }
+          {{- end }}
+        ]
+      },
+      {{ else if or (eq .Type "course") (eq .Type "mentor-program") }}
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "name": "{{ .Title }}",
+        "description": "{{ .Params.card.content | plainify }}",
+        "provider": {
+          "@type": "Organization",
+          "name": "Naked Agility with Martin Hinshelwood",
+          "url": {{ .Site.BaseURL }}
+        },
+        {{- template "course-offers" . -}}
+        {{- template "course-syllabus" . -}}
+        {{- template "course-hasCourseInstance" . -}}
+        "courseMode": "Blended",
+        "courseCode": {{ .Params.code }},
+        "sku": "NKDA-{{ .Params.code }}",
+        {{- /*  "educationalCredentialAwarded": "Professional Scrum Product Owner I (PSPO I) Certification",  */ -}}
+        "coursePrerequisites": {{ .Params.prerequisites | plainify }}
+      },
+      {{ else }}
+      {
+        "@type": "WebPage",
+        "@id": {{ .Permalink }},
+        "url": {{ $canonicalUrl }},
+        "name": {{ .Title }},
+        "description": {{ .Description | plainify }},
+        "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
+        "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
+        "author": {
+          "@type": "Person",
+          "name": {{ .Site.Params.author }}
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": {{ .Site.Title }},
+          "logo": {
+            "@type": "ImageObject",
+            "url": {{ .Site.Params.logo | absURL }}
+          }
+        }
+      },
+      {{ end }}
+      {
+        "@type": "WebSite",
+        "@id": "https://nkdagility.com/#website",
+        "url": "https://nkdagility.com/",
+        "name": {{ .Site.Title }},
+        "description": {{ .Description | plainify }},
+        "publisher": { "@id": "https://nkdagility.com/#organization" },
+        "potentialAction": [
+          { "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://nkdagility.com/?s={search_term_string}" }, "query-input": { "@type": "PropertyValueSpecification", "valueRequired": true, "valueName": "search_term_string" } }
+        ],
+        "inLanguage": "en-GB"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {{- range $index, $page := $breadcrumbs }}
+            {"@type": "ListItem", "position": {{ add $index 1 }}, "name": {{ $page.Title | htmlEscape }}, "item": {{ $page.Permalink }} }{{- if ne (add $index 1) (len $breadcrumbs) -}},{{- end -}}
+          {{- end }}
+        ]
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://nkdagility.com/#organization",
+        "name": {{ .Site.Title }},
+        "alternateName": "nkdAgility",
+        "url": "https://nkdagility.com/",
+        "logo": {
+          "@type": "ImageObject",
+          "inLanguage": "en-GB",
+          "@id": "https://nkdagility.com/#/schema/logo/image/",
+          "url": "https://nkdagility.com/images/nkdagility-with-martin-hinshelwood-light.png",
+          "contentUrl": "https://nkdagility.com/images/nkdagility-with-martin-hinshelwood-light.png",
+          "width": 1203,
+          "height": 491,
+          "caption": {{ .Site.Title }}
+        },
+        "image": { "@id": "https://nkdagility.com/#/schema/logo/image/" },
+        "sameAs": ["https://www.facebook.com/nkdAgility/", "https://x.com/nkdagility", "https://www.linkedin.com/company/naked-agility-with-martin-hinshelwood/", "https://www.youtube.com/@nakedAgility", "https://www.tiktok.com/@nkdagility"],
+        "description": {{ .Description | plainify }},
+        "email": "contact@nkdagility.com",
+        "telephone": "+44 141 343 9621",
+        "legalName": "Naked Agility Limited",
+        "foundingDate": "2013-07-01",
+        "vatID": "GB410658614",
+        "taxID": "1030513365",
+        "duns": "219457519",
+        "numberOfEmployees": { "@type": "QuantitativeValue", "minValue": "1", "maxValue": "10" }
+      },
+      {
+        "@type": "Person",
+        "@id": "https://nkdagility.com/#/schema/person/4457e9a8134760d8f4a7161d4e53a4cb",
+        "name": "Martin Hinshelwood",
+        "image": {
+          "@type": "ImageObject",
+          "inLanguage": "en-GB",
+          "@id": "https://nkdagility.com/#/schema/person/image/",
+          "url": "//nkdagility.com/wp-content/uploads/wpo365/profile-images/3.png",
+          "contentUrl": "//nkdagility.com/wp-content/uploads/wpo365/profile-images/3.png",
+          "caption": "Martin Hinshelwood"
+        },
+        "description": "Martin Hinshelwood has worked with many customers in government, finance, manufacturing, health and technology to help them adopt and improve their agility using DevOps and Agile techniques. He writes regularly on naked Agility's Blog, and speaks often on DevOps, Agile &amp; Process Improvement with Scrum, Visual Studio, and TFS. Martin is available onsite for technical or agile mentioning, coaching, or consulting. Find out what Martin's customers say about him and his work.",
+        "sameAs": ["https://nkdagility.com/blog", "https://www.facebook.com/martin.hinshelwood", "http://www.linkedin.com/in/martinhinshelwood", "https://x.com/mrhinsh", "http://www.youtube.com/user/mrhinsh"]
+      }
+    ]
+  }
+</script> {{ define "course-hasCourseInstance" }}
+  "hasCourseInstance": [
+  {{- $learningExperiences := (index .Params "course-learning-experiences") -}}
+  {{- $length := len $learningExperiences -}}
+  {{- range $index, $experience := $learningExperiences }}
+    { "@type": "CourseInstance", "courseMode": "blended", "location": "Microsoft Teams", "courseSchedule": { "@type": "Schedule",
+    {{- if eq $experience "Traditional" -}}
+      "duration": "PT4H", "repeatCount": 4, "repeatFrequency": "Daily"
+    {{- else if eq $experience "Immersive" -}}
+      "duration": "PT6H", "repeatCount": 8, "repeatFrequency": "Weekly"
+    {{- else -}}
+      "duration": "PT4H", "repeatCount": 4, "repeatFrequency": "Daily"
+    {{- end }}
+    }, "instructor": [{ "@type": "Person", "name": "Martin Hinshelwood", "description": "Professional Scrum Trainer, Professional Kanban Trainer, Microsoft MVP: GitHub & DevOps", "image": "https://nkdagility.com/images/nkdagility-with-martin-hinshelwood-light.png" }]
+    }{{ if lt (add $index 1) $length }},{{ end }}
+  {{- end }}
+  ],
+{{ end }}
+
+{{ define "course-offers" }}
+  {{- $site := .Site }}
+  "offers": [
+  {{- $zones := (index $site.Data "pricing-zone") -}}
+  {{- $level := lower .Params.level -}}
+  {{- range $index, $zone := $zones -}}
+    {{- if and $zone.enabled (gt (len $zone.countries) 0) -}}
+      {{- if $index -}},{{ end }}
+      { "@type": "Offer", "category": "Paid", "url": {{ .RelPermalink }}, "priceCurrency": {{ $zone.currency }}, "availability": "https://schema.org/InStock", "eligibleRegion": [{{- range $i, $country := $zone.countries }}{{- if $i -}},{{- end -}}{ "@type": "Place", "name": "{{ $country }}" }{{- end -}}] }
+    {{- end -}}
+  {{ end }}
+  ],
+{{- end -}}
+
+{{ define "course-syllabus" }}
+  {{ if .Params.syllabus }}
+    "syllabusSections": [
+    {{- $length := len .Params.syllabus -}}
+    {{- range $index, $section := .Params.syllabus }}
+      { "@type": "Syllabus", "name": {{- $section.title }}, "description": {{- $section.content | plainify -}}, "timeRequired":
+      {{- partial "jsonld/duration-to-iso.html" $section.duration -}}}{{ if lt (add $index 1) $length }},{{ end }}
+    {{- end }}
+    ],
+  {{- end -}}
+{{- end -}}
+{{/* "price": "{{ partial "jsonld/price-in-currency.html" (dict "Site" $site "currency" $zone.currency "level" $level) }} ", */}}
+<!-- Search Engine Optimisation -->
