@@ -1,5 +1,6 @@
 ---
 title: "naked Agility"
+date: 2013-07-01
 url: "/"
 sitemap:
   filename: sitemap.xml
