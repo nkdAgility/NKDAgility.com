@@ -1,0 +1,36 @@
+name: Find Latest Tag and Trigger Workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Adjust the schedule as needed
+
+jobs:
+  find-latest-tag:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.NKDAGILITY_BOT_APP_ID }}
+          private-key: ${{ secrets.NKDAGILITY_BOT_CLIENTSECRET }}
+
+      - name: Find latest semantic version tag (PowerShell)
+        id: find_tag
+        shell: pwsh
+        run: |
+          $tags = git tag --sort=-v:refname | Where-Object { $_ -match '^v[0-9]+\.[0-9]+\.[0-9]+$' }
+          $latestTag = $tags | Select-Object -First 1
+          echo "latest_tag=$latestTag" | Out-File -FilePath $env:GITHUB_ENV -Append
+
+      - uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.repository }}
+          github_token: ${{ steps.app-token.outputs.token }}
+          workflow_file_name: main.yml
+          ref: ${{ steps.find_tag.outputs.latest_tag }}
+          trigger_workflow: true
+          wait_workflow: false
