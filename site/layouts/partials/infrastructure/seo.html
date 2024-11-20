@@ -11,18 +11,10 @@
 {{- end -}}
 <link rel="canonical" href="{{- $canonicalUrl -}}" />
 <link href="{{ with .OutputFormats.Get "RSS" -}}{{- .RelPermalink -}}{{- end -}}" rel="alternate" type="application/rss+xml" title="{{- .Title -}}" />
+
 <meta name="description" content="{{- (.Description | default .Site.Params.description) | plainify -}}" />
 
-{{ $keywords := slice -}}
-{{- range $taxonomy, $terms := .Page.Site.Taxonomies -}}
-  {{- $pageTerms := index $.Params $taxonomy -}}
-  {{- if $pageTerms -}}
-    {{- $keywords = $keywords | append $pageTerms -}}
-  {{- end -}}
-{{- end -}}
-{{- if .Keywords -}}
-  {{- $keywords = $keywords | append .Keywords -}}
-{{- end -}}
+{{ $keywords := partial "functions/keywords.html" . }}
 {{- if eq (len $keywords) 0 }}
   {{- if .Site.Params.keywords -}}
     {{- $keywords = $keywords | append .Site.Params.keywords -}}

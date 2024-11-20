@@ -1,9 +1,12 @@
 <div class="publications-craft py-2">
-  <div class="text-muted">
-    Published <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+  <div class="">
+    {{ $keywords := partial "functions/keywords.html" . }}
+    {{ range $keywords }}
+      <span class="badge text-bg-secondary">{{- . }}</span>
+    {{ end }}
   </div>
-  <div class="text-muted">
-    Last Modified <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{ .GitInfo.AuthorDate.Format "2 January 2006" }}</time></a>
+  <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .GitInfo.AuthorDate.Format "2 January 2006" }}">
+    Published <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
   </div>
   <div class="text-muted">
     <div class="text-muted">{{- partial "resources/contributors.html" . }}</div>
