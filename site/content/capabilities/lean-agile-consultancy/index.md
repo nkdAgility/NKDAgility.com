@@ -15,6 +15,7 @@ slug: lean-agile-consultancy
 aliases:
   - /capabilities/lean-agile-consultancy/
   - /agile-consulting-coaching
+  - /agile-consultancy/
 card:
   button:
     content: Transform Your Organization
