@@ -5,8 +5,17 @@
       <span class="badge text-bg-secondary">{{- . }}</span>
     {{ end }}
   </div>
-  <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .GitInfo.AuthorDate.Format "2 January 2006" }}">
-    Published <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+  <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .Lastmod.Format "2 January 2006" }}{{ if .ExpiryDate }}and expires on {{ .ExpiryDate.Format "2 January 2006" }}{{ end }}">
+    {{ if .Draft }}
+      <span class="badge text-bg-warning">Draft</span>
+    {{ else if gt .Date (now) }}
+      <span class="badge text-bg-danger">Scheduled</span> for <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+    {{ else }}
+      Published on <a href="{{- .Permalink }}" rel="bookmark"><time class="entry-date published updated" datetime="{{- .Date }}">{{- .Date.Format "2 January 2006" }}</time></a>
+    {{ end }}
+    {{- if gt .ExpiryDate (now) }}
+      and expires on <time datetime="{{- .ExpiryDate }}">{{- .ExpiryDate.Format "2 January 2006" }}</time>
+    {{- end }}
   </div>
   <div class="text-muted">
     <div class="text-muted">{{- partial "resources/contributors.html" . }}</div>
