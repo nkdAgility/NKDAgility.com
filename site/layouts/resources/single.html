@@ -2,7 +2,7 @@
   <section class="container my-2" style="max-width: 700px !important">
     <div class="row p-2">
       <div class="col-12">
-        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}{{- if ne hugo.Environment "production" }}- {{ if .Params.videoId }}({{ .Params.videoId }}){{ end }}{{ end }}</h1>
+        <h1 class="mb-4 nkda-heading-primary">{{- .Title | markdownify }}</h1>
         {{- if .Params.subtitle }}
           <h2 class="mb-4 nkda-heading-secondary">{{- .Params.subtitle | markdownify }}</h2>
         {{- end }}
