@@ -25,18 +25,12 @@ sitemap:
   changefreq: "daily"
   priority: 0.5
 
-# RSS feed settings
-rss:
-  filename: "rss.xml"
-  name: "RSS Feed"
-  description: "Subscribe to our RSS feed"
-
 outputs:
   home: [html, json, rss]
   section: [html, rss]
   taxonomy: [html, rss]
   term: [html, rss]
-  page: [html, rss]
+  page: [html]
 
 outputFormats:
   json:
@@ -46,6 +40,14 @@ outputFormats:
     baseName: "courses"
     mediaType: "application/json"
     isPlainText: true
+  RSS:
+    mediaType: application/rss+xml
+    baseName: rss
+    isPlainText: true
+
+services:
+  rss:
+    limit: 42
 
 taxonomies:
   category: categories
