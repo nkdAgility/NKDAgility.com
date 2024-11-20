@@ -7,7 +7,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Adjust the schedule as needed
+    - cron: 0 */3 * * * # Adjust the schedule as needed
 
 jobs:
   find-latest-tag:
