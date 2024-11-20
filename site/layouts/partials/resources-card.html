@@ -23,5 +23,14 @@
   </div>
   <div class="card-footer border-transparent bg-white p-1 text-start">
     <a href="{{- .Permalink }}" class="btn btn-primary btn-sm" title="More information on {{- .Title }}">Read <i class="fa-solid fa-arrow-right"></i></a>
+    {{ if .Draft }}
+      <span class="badge text-bg-warning">Draft</span>
+    {{ end }}
+    {{ if gt .Date (now) }}
+      <span class="badge text-bg-danger" title="Scheduled for {{- .Date.Format "2 January 2006" }}">Scheduled</span>
+    {{ end }}
+    {{- if gt .ExpiryDate (now) }}
+      <span class="badge text-bg-danger" title="Expires on {{- .ExpiryDate.Format "2 January 2006" }}">Expires</span>
+    {{- end }}
   </div>
 </div>
