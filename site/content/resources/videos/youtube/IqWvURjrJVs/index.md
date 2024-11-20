@@ -9,11 +9,13 @@ duration: 255
 isShort: false
 aliases:
 - /resources/znaczenie-znajomosci-terenu
+- /resources/videos/IqWvURjrJVs
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube IqWvURjrJVs >}}
 
@@ -36,5 +38,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=IqWvURjrJVs)
+
 
 

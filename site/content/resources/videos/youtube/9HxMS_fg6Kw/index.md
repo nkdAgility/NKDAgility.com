@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-are-some-big-red-flags-when-hiring-an-agile-consultant
 - /resources/videos/what-are-some-big-red-flags-when-hiring-an-agile-consultant-
+- /resources/videos/9HxMS_fg6Kw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 9HxMS_fg6Kw >}}
 
@@ -99,5 +101,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

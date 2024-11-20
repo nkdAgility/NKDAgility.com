@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-is-becoming-a-scrum-master-a-great-career-option
 - /resources/videos/why-is-becoming-a-scrum-master-a-great-career-option-
+- /resources/videos/XZip9ZcLyDs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube XZip9ZcLyDs >}}
 
@@ -85,5 +87,6 @@ Hashtags:        #ScrumMaster, #LeadershipJourney, #CareerInAgile
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

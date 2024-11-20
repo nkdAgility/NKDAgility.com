@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-scrum-3
 - /resources/what-is-scrum-2
 - /resources/videos/what-is-scrum-
+- /resources/videos/o-wVeh3CIVI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube o-wVeh3CIVI >}}
 
@@ -68,5 +70,6 @@ Hashtags:        #Scrum, #SocialTechnology, #Complexity, #TaskManagement
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

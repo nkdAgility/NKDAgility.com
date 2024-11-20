@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-real-scope-of-a-product-owner-beyond-the-backlog
 - /resources/videos/why-is-training-such-a-critical-element-in-a-product-owner-journey
+- /resources/videos/2_CowcUpzAA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 2_CowcUpzAA >}}
 
@@ -128,5 +130,6 @@ If you’re ready to dive deeper into what it takes to be a successful Product O
 * * *
 
 By understanding the depth of the Product Owner role, you’ll be better prepared to handle its complexities and unlock its true potential. Whether you’re new to the role or looking to refine your skills, continuous learning and relationship-building will be key to your success. 🚀
+
 
 

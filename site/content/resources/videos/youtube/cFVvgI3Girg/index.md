@@ -9,11 +9,13 @@ duration: 159
 isShort: false
 aliases:
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+- /resources/videos/cFVvgI3Girg
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube cFVvgI3Girg >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cFVvgI3Girg)
+
 
 

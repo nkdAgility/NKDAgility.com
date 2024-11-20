@@ -9,11 +9,13 @@ duration: 253
 isShort: false
 aliases:
 - /resources/is-the-aps-immersive-learning-experience-the-equivalent-of-having-a-hands-on-scrum-coach
+- /resources/videos/6S9LGyxU2cQ
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube 6S9LGyxU2cQ >}}
 
@@ -40,5 +42,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=6S9LGyxU2cQ)
+
 
 

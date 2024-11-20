@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/Qt1Ywu_KLrc
 
 ---
+
 
 {{< youtube Qt1Ywu_KLrc >}}
 
@@ -38,5 +41,6 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qt1Ywu_KLrc)
+
 
 

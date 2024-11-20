@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/vftc6m70a0w
 
 ---
+
 
 {{< youtube vftc6m70a0w >}}
 
@@ -44,5 +47,6 @@ Expert Assistance: Learn how our team at Naked Agility can guide you through the
 ✨ Transform your approach to Agile today – Watch now and take the first step towards a more effective and inclusive Agile journey! ✨
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vftc6m70a0w)
+
 
 

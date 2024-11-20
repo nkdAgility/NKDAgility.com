@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/evidence-based-management-the-four-key-value-areas-in-scrum
 - /resources/videos/the-four-key-value-areas-of-ebm
+- /resources/videos/sT44RQgin5A
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube sT44RQgin5A >}}
 
@@ -149,5 +151,6 @@ By measuring and optimizing these areas, teams can strike a balance between **in
 * * *
 
 By adopting this evidence-based approach, we can transform how we deliver value, both internally and to our customers. It’s not just about what we build—it's about how we measure, adapt, and grow.
+
 
 

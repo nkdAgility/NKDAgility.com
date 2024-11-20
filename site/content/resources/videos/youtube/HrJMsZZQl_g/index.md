@@ -11,11 +11,13 @@ aliases:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team-2
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/videos/when-is-an-aps-course-appropriate-for-a-scrum-team-
+- /resources/videos/HrJMsZZQl_g
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube HrJMsZZQl_g >}}
 
@@ -68,5 +70,6 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 

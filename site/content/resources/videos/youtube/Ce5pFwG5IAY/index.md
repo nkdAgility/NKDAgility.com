@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/5-tools-that-scrum-masters-love-part-1
 - /resources/videos/5-tools-that-scrum-masters-love-part-1
+- /resources/videos/Ce5pFwG5IAY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Ce5pFwG5IAY >}}
 
@@ -56,5 +58,6 @@ Scrum Masters using liberating structures report significant improvements in tea
 By incorporating liberating structures, Scrum Masters can expect their sessions to evolve from routine gatherings to powerful catalysts for team growth and innovation. It's about crafting a journey from ideas to action, ensuring each meeting is a step forward in the Agile journey. 🚀 
 
 Embrace these structures and witness the transformation in your Scrum meetings! 🌈
+
 
 

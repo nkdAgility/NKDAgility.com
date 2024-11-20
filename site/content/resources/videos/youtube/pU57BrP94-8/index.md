@@ -11,11 +11,13 @@ aliases:
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job-2
 - /resources/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
 - /resources/videos/how-will-the-immersive-learning-experience-help-coach-people-on-the-job
+- /resources/videos/pU57BrP94-8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube pU57BrP94-8 >}}
 
@@ -76,5 +78,6 @@ Explore the Immersive Journey with Me 
 For those eager to immerse themselves in a richer, more integrated Scrum experience, I invite you to embark on this learning journey with me.  
 
 Connect with me through Naked Agility, and let's craft your own unique Scrum immersive learning experience. 🌟
+
 
 

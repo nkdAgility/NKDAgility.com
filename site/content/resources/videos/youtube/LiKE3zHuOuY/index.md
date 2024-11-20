@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
 - /resources/videos/how-much-of-an-impact-can-scrum-have-in-a-devops-environment
+- /resources/videos/LiKE3zHuOuY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube LiKE3zHuOuY >}}
 
@@ -57,5 +59,6 @@ Together, let's redefine how we approach software engineering! 🌟
 Ready to elevate your game?  🎯
 
 Connect with me today.
+
 
 

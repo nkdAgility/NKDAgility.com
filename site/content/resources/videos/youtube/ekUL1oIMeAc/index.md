@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/worst-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/worst-contribution-from-a-product-owner-that-you-know-of-
+- /resources/videos/ekUL1oIMeAc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube ekUL1oIMeAc >}}
 
@@ -69,5 +71,6 @@ Are you navigating the complexities of the Scrum roles?
 Elevate your Agile game by joining our in-depth Scrum and Agile courses.
 
 Together, let's champion collaboration and understanding in the amazing world of Agile! 🌐
+
 
 

@@ -11,11 +11,13 @@ aliases:
 - /resources/hardest-part-of-becoming-a-professional-scrum-master
 - /resources/hardest-part-of-becoming-a-professional-scrummaster
 - /resources/videos/hardest-part-of-becoming-a-professional-scrummaster-
+- /resources/videos/MCdI76dGVMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube MCdI76dGVMM >}}
 
@@ -62,5 +64,6 @@ I am here to guide you on this path of enlightenment and skill enhancement.
 I invite you to join my Agile and Scrum courses, where we explore the theoretical aspects and delve deep into the practical applications, nurturing you to embody the true essence of a 'Professional' Scrum Master. 🚀
 
 Let's focus on fostering 'professionalism' and setting a new benchmark in the industry together!
+
 
 

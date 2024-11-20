@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/mastering-kanban-a-simple-guide-to-its-core-principles
 - /resources/videos/kanban-principles
+- /resources/videos/nfTAYRLAaYI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube nfTAYRLAaYI >}}
 
@@ -125,5 +127,6 @@ By implementing these core principles, you’ll not only see improvements in you
 If you’re new to Kanban or looking to refine your existing process, start by focusing on one principle at a time. Define your workflow, visualize it, and get everyone on board. Once you’ve mastered that, move on to actively managing tasks and improving your system. The journey may not be linear, but it will be rewarding.
 
 **What’s the first step you’re going to take to improve your workflow today?** 🚀
+
 
 

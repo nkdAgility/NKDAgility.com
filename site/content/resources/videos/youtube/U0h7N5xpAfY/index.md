@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/understanding-the-true-role-of-a-scrum-master
 - /resources/videos/why-is-training-such-a-critical-element-in-a-scrum-master's-journey
+- /resources/videos/U0h7N5xpAfY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube U0h7N5xpAfY >}}
 
@@ -139,5 +141,6 @@ To be an effective Scrum Master, you must go beyond the basics. It’s not just 
 - Continuously improve through formal training and learning.
 
 If you’re ready to take your skills to the next level, consider joining one of our immersive classes or booking a one-on-one call to discuss your unique challenges.
+
 
 

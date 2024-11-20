@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/if-you-could-teach-just-one-thing-about-scrum-what-would-it-be
 - /resources/videos/if-you-could-teach-just-one-thing-about-scrum,-what-would-it-be-
+- /resources/videos/5EryGepZu8o
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 5EryGepZu8o >}}
 
@@ -129,5 +131,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

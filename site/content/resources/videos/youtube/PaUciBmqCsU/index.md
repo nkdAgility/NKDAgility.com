@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/understanding-the-power-of-kanban-in-scrum
 - /resources/videos/kanban-vs-scrum-you're-asking-the-wrong-question!
+- /resources/videos/PaUciBmqCsU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube PaUciBmqCsU >}}
 
@@ -139,5 +141,6 @@ Kanban isn’t here to replace Scrum—it’s here to **enhance it**. By bringin
 If you’re struggling to keep up with sprint goals or feel like your team isn’t as efficient as it could be, try implementing Kanban principles. You’ll gain deeper insights into your workflow, improve decision-making, and ultimately increase the flow of value through your system.
 
 **Remember**: It’s always Scrum _and_ Kanban, not one or the other. 🌟 **Take Action**: Set up a Kanban board with your team today and start experimenting. You might be surprised by how quickly you see results!
+
 
 

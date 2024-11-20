@@ -11,11 +11,13 @@ aliases:
 - /resources/1-tip-for-a-new-scrum-master
 - /resources/1-tip-for-a-scrum-master
 - /resources/videos/-1-tip-for-a-scrum-master
+- /resources/videos/cR4D4qQe9ps
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube cR4D4qQe9ps >}}
 
@@ -66,5 +68,6 @@ Hashtags:        ScrumMasterTips #ScrumGuide #AgileLearning #BackToBasics
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

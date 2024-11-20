@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-power-of-metrics-why-pal-ebm-is-essential-for-your-organization
 - /resources/videos/why-do-you-recommend-the-pal-ebm-course-
+- /resources/videos/m2Z4UV4OQlI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube m2Z4UV4OQlI >}}
 
@@ -113,5 +115,6 @@ Whether you’re a manager, Scrum Master, or CEO, the PAL-EBM class helps you:
 - 🧠 **Engage in the strategic conversations you’ve been missing**.
 
 🚀 **Ready to take your organization to the next level? Let’s get started!**
+
 
 

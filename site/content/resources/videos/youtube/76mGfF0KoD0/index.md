@@ -9,11 +9,13 @@ duration: 376
 isShort: false
 aliases:
 - /resources/would-you-recommend-a-team-aps-workshop-or-an-agile-consultant
+- /resources/videos/76mGfF0KoD0
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube 76mGfF0KoD0 >}}
 
@@ -40,5 +42,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=76mGfF0KoD0)
+
 
 

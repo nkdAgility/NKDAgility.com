@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/how-do-you-know-how-long-it-takes-to-deliver-value
 - /resources/videos/-shorts-5-reasons-why-you-need-ebm-in-your-environment-part-5
+- /resources/videos/xaIDtZcoVXE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube xaIDtZcoVXE >}}
 
@@ -129,5 +131,6 @@ By leveraging the principles of **Evidence-Based Management**, you can make info
 - Always remember that speed is important, but **delivering value** is the ultimate goal.
 
 By optimizing your Time to Market, you set your organization up for success, ensuring that you’re delivering the right value at the right time. Keep measuring, keep improving, and keep delivering. 😊
+
 
 

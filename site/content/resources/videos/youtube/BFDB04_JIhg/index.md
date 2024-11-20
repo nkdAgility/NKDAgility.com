@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/understanding-kanban-a-tool-for-transparency-and-continuous-improvement
 - /resources/videos/introduction-to-kanban
+- /resources/videos/BFDB04_JIhg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube BFDB04_JIhg >}}
 
@@ -143,5 +145,6 @@ Happy Kanban-ing! 😊
 - Start simple, use WIP limits, and regularly review metrics for success.
 
 🔗 **Want to learn more about Kanban and Agile practices? Reach out for personalized coaching or training sessions tailored to your team’s needs.**
+
 
 

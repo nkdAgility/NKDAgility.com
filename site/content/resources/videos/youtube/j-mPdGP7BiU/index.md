@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/mastering-product-development-from-assumptions-to-hypotheses
 - /resources/videos/ppdv-learning-outcomes
+- /resources/videos/j-mPdGP7BiU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube j-mPdGP7BiU >}}
 
@@ -117,5 +119,6 @@ In summary, our course is designed to transform the way you approach product dev
 - **Critical Thinking:** Develop a mindset that prioritizes learning and critical thinking over emotional attachment to ideas.
 
 Join us in this journey to revolutionize your product development process, making it more efficient, data-driven, and ultimately, more successful. 🚀 This course isn’t just about learning new techniques—it’s about changing the way you think and work. So, are you ready to take the next step? Let’s turn your assumptions into opportunities for growth!
+
 
 

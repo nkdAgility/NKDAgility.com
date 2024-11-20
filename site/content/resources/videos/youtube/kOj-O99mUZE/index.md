@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/overview-of-the-scaling-with-portfolio-kanban-course
 - /resources/videos/overview-of-scaling-with-portfolio-kanban-course-
+- /resources/videos/kOj-O99mUZE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube kOj-O99mUZE >}}
 
@@ -113,5 +115,6 @@ The "Applying Scaling Portfolio Kanban" course is essential for leaders who want
 - **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
 
 If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you'll improve. Get in touch below.
+
 
 

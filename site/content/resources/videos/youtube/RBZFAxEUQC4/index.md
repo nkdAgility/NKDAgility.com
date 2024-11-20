@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/7-deadly-sins-of-agile-lust
 - /resources/videos/lust!-7-deadly-sins-of-agile
+- /resources/videos/RBZFAxEUQC4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube RBZFAxEUQC4 >}}
 
@@ -73,5 +75,6 @@ The true essence of Agile lies in its ability to adapt – and that requires mor
 - 🚀 Embrace the process of learning, adapting, and growing in your Agile journey. 
 
 Agile transformation isn't about lusting after a trendy methodology; it's about building a framework that resonates with the ethos of your organisation. It's a path of discovery, learning, and, most importantly, embracing change from within. 🌟
+
 
 

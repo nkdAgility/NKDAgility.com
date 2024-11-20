@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/220tyMrhSFE
 
 ---
+
 
 {{< youtube 220tyMrhSFE >}}
 
@@ -20,5 +23,6 @@ sitemap:
 Kanban Principles. Visit https://www.nkdagility.com #agile #agileprojectmanagement #agileproductdevelopment #kanban #agileframework
 
 [Watch on YouTube](https://www.youtube.com/watch?v=220tyMrhSFE)
+
 
 

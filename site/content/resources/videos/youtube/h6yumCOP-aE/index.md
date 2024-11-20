@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/3-best-ways-to-wreck-kanban-dont-have-a-working-agreement
 - /resources/videos/3-best-ways-to-wreck-your-kanban-adoption-not-having-a-working-agreement-
+- /resources/videos/h6yumCOP-aE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube h6yumCOP-aE >}}
 
@@ -99,5 +101,6 @@ Without a working agreement, teams operate in a state of total disarray:
 Establishing a working agreement is crucial for the success of any team, whether using Kanban, Scrum, or another methodology. By sitting down and agreeing on how to work together, teams can achieve alignment, efficiency, and ultimately, success.
 
 If you’re struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below and get in touch today.
+
 
 

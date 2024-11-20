@@ -9,11 +9,13 @@ duration: 44
 isShort: true
 aliases:
 - /resources/5-tools-that-scrum-masters-love-part-5
+- /resources/videos/Zegnsk2Nl0Y
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube Zegnsk2Nl0Y >}}
 
@@ -35,5 +37,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Zegnsk2Nl0Y)
+
 
 

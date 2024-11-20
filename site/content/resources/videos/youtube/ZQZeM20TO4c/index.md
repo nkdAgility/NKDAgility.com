@@ -11,11 +11,13 @@ aliases:
 - /resources/agile-leader-versus-traditional-manager
 - /resources/agile-leader-vs-traditional-manager
 - /resources/videos/agile-leader-vs-traditional-manager
+- /resources/videos/ZQZeM20TO4c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube ZQZeM20TO4c >}}
 
@@ -38,5 +40,6 @@ Hashtags:         #AgileLeadership #DecisionMaking #TraditionalManagement
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

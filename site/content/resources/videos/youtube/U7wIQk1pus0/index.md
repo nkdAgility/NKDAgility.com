@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/U7wIQk1pus0
 
 ---
+
 
 {{< youtube U7wIQk1pus0 >}}
 
@@ -24,5 +27,6 @@ My fan kicked on half way through, hence the hiss... I have ordered a microphone
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U7wIQk1pus0)
+
 
 

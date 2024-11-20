@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/xo4jMxupIM0
 
 ---
+
 
 {{< youtube xo4jMxupIM0 >}}
 
@@ -31,5 +34,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit h
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

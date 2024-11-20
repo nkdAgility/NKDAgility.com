@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client
 - /resources/videos/what-would-be-an-example-of-a-great-agile-consulting-outcome-for-a-client-
+- /resources/videos/Cgy1ccX7e7Y
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Cgy1ccX7e7Y >}}
 
@@ -99,5 +101,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/how-to-be-an-effective-agile-coach-agnosticism-in-practice
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-2
+- /resources/videos/nhkUm6k4Q0A
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube nhkUm6k4Q0A >}}
 
@@ -131,5 +133,6 @@ In summary:
 - Trust the team to choose their path.
 
 Remember, as a coach, your ultimate goal is to empower the team, not dictate their choices. When they succeed, so do you.
+
 
 

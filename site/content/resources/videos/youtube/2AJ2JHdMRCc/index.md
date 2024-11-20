@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-is-devops-such-a-critical-element-of-software-engineering
 - /resources/videos/why-is-devops-such-a-critical-element-of-software-engineering
+- /resources/videos/2AJ2JHdMRCc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 2AJ2JHdMRCc >}}
 
@@ -47,5 +49,6 @@ Let's harness the power of DevOps together!
 Let's create, innovate and iterate faster! 🚀
 
 Reach out to learn more.
+
 
 

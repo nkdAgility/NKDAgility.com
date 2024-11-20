@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team
 - /resources/videos/what-is-the-hardest-part-of-working-with-a-brand-new-scrum-team-
+- /resources/videos/-xMY9Heanjk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube -xMY9Heanjk >}}
 
@@ -119,5 +121,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

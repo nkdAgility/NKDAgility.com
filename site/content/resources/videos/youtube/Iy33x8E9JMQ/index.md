@@ -11,11 +11,13 @@ aliases:
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement-2
 - /resources/dogma-versus-empiricism-in-a-consulting-engagement
 - /resources/videos/dogma-versus-empiricism-in-a-consulting-engagement
+- /resources/videos/Iy33x8E9JMQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Iy33x8E9JMQ >}}
 
@@ -62,5 +64,6 @@ Embracing Empiricism means we're flexible, responsive, and adaptive, ready to mo
 As we embrace the path of pragmatism and empirical adaptation, I invite you to enhance your Agile and Scrum knowledge with our comprehensive courses.
 
 Let's pave a path that fosters innovation, responsiveness, and success in the ever-evolving business landscape.
+
 
 

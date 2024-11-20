@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/quotes-dictatorship-vs-democracy
 - /resources/videos/quotes-dictatorship-vs-democracy
+- /resources/videos/utI-1HVpeSU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube utI-1HVpeSU >}}
 
@@ -55,5 +57,6 @@ So, how do we find the sweet spot between dictatorship and democracy in Agile le
 ## Conclusion  
 
 In Agile leadership, the key is not to veer too far towards dictatorship or democracy but to blend the best of both. A leader must provide strategic direction while empowering the team to work towards it collaboratively. This hybrid approach ensures efficient decision-making, innovation, and team engagement.
+
 
 

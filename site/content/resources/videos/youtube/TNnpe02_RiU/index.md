@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-your-peeve-in-devops
 - /resources/pet-peeve-in-devops
 - /resources/videos/pet-peeve-in-devops
+- /resources/videos/TNnpe02_RiU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube TNnpe02_RiU >}}
 
@@ -70,5 +72,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

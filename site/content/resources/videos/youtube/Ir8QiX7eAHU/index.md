@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-key-to-a-kanban-strategy-understanding-wip-limits
 - /resources/videos/wip-limits!-what-critical-factors-affect-them-
+- /resources/videos/Ir8QiX7eAHU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Ir8QiX7eAHU >}}
 
@@ -103,5 +105,6 @@ WIP limits are crucial for any Kanban system. While the "perfect" WIP limit migh
 - Experiment and adjust as needed to find the Goldilocks zone for your team.
 
 With the right approach, you'll find that WIP limits not only improve flow but also foster better conversations and collaboration within your team.
+
 
 

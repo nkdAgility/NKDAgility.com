@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/the-power-of-immersive-learning-in-agile-training
 - /resources/videos/5-reasons-why-you-love-the-immersive-learning-experience-for-students-part-5
+- /resources/videos/HjumLIMTefA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube HjumLIMTefA >}}
 
@@ -107,5 +109,6 @@ Training shouldn’t end when the session does. Encourage participants to contin
 Immersive learning is more than just a training method; it’s a catalyst for organizational transformation. By promoting continuous learning, real-world application, and a culture of feedback, immersive learning gives participants the tools they need to drive lasting change within their organizations.
 
 So the next time you’re considering Agile training, ask yourself this: _Do I want to attend a training session, or do I want to create real change?_ With immersive learning, the answer is clear. 🚀
+
 
 

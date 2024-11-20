@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/ZcMcVL7mNGU
 
 ---
+
 
 {{< youtube ZcMcVL7mNGU >}}
 
@@ -30,5 +33,6 @@ Visit https://nkdagility.com/global-consultancy-services/product-management-ment
 #productmanagement #agileproductmanagement #agileproductdevelopment #agiletraining #agilecoaching #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZcMcVL7mNGU)
+
 
 

@@ -9,11 +9,13 @@ duration: 291
 isShort: false
 aliases:
 - /resources/why-do-so-few-scrum-masters-progress-to-the-psm-ii-and-psm-iii-certifications
+- /resources/videos/vWfebO_pwIU
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube vWfebO_pwIU >}}
 
@@ -39,5 +41,6 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
+
 
 

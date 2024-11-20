@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/hu80qqzaDx0
 
 ---
+
 
 {{< youtube hu80qqzaDx0 >}}
 
@@ -20,5 +23,6 @@ sitemap:
 Introduction to Evidence-based Management. Excerpt 1 #evidencebasedleadership #evidencebasedmanagement #ebm #agile #agileproductdevelopment #agileprojectmanagement #agileproductdevelopment #projectmanagement #projectmanager #productmanagement #productmanager #productowner
 
 [Watch on YouTube](https://www.youtube.com/watch?v=hu80qqzaDx0)
+
 
 

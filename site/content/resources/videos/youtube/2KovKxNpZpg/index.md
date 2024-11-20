@@ -9,11 +9,13 @@ duration: 32
 isShort: true
 aliases:
 - /resources/pet-peeve-in-scrum
+- /resources/videos/2KovKxNpZpg
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube 2KovKxNpZpg >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2KovKxNpZpg)
+
 
 

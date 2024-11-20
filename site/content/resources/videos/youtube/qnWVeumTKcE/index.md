@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/qnWVeumTKcE
 
 ---
+
 
 {{< youtube qnWVeumTKcE >}}
 
@@ -20,5 +23,6 @@ sitemap:
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=qnWVeumTKcE)
+
 
 

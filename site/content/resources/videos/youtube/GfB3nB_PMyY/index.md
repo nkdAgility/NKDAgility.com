@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/the-power-of-immersive-learning-bridging-theory-and-experience
 - /resources/videos/5-ways-an-immersive-learning-experience-will-make-you-a-better-practitioner-part-5
+- /resources/videos/GfB3nB_PMyY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube GfB3nB_PMyY >}}
 
@@ -101,5 +103,6 @@ Immersive learning isn’t just a trend—it’s a necessary evolution in how we
 - **Confidence to apply their learning in real-world scenarios**
 
 If you're looking for training that does more than just teach you the basics, immersive learning is the way to go. You’ll not only understand Scrum—you’ll know how to apply it in your own unique context. 🔥 **Takeaway**: The best way to learn is by doing, and immersive learning allows you to do just that—while benefiting from the insights and experiences of seasoned professionals. So, whether you’re just starting out or looking to deepen your Agile practice, immersive learning will set you up for success.
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/3-core-practices-of-kanban-improving-a-workflow
 - /resources/videos/3-core-practices-of-kanban-improving-a-workflow
+- /resources/videos/qWHCBUwpOZk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube qWHCBUwpOZk >}}
 
@@ -105,5 +107,6 @@ Improving your workflow involves more than just identifying problems. It require
 Improving your workflow is a critical practice in Kanban that ensures your system remains efficient and effective. By identifying blockages, reducing waiting times, and making continuous improvements, you can maximize the flow of value through your system.
 
 If you are struggling to implement a Kanban strategy, we can help or connect you with someone who can. Click the link below to get in touch and start optimizing your workflow today.
+
 
 

@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/tPX-wc6pG7M
 
 ---
+
 
 {{< youtube tPX-wc6pG7M >}}
 
@@ -42,5 +45,6 @@ Whether you're an executive, a manager, or an Agile enthusiast, this webcast is 
 Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPX-wc6pG7M)
+
 
 

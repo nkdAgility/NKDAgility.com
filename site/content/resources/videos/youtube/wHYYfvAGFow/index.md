@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-taylorism-and-how-did-it-influence-project-management
 - /resources/videos/what-is-taylorism-and-how-did-it-influence-project-management-
+- /resources/videos/wHYYfvAGFow
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube wHYYfvAGFow >}}
 
@@ -157,5 +159,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

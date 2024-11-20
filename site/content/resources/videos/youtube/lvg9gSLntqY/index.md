@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-does-project-management-not-work-in-complex-environments
 - /resources/videos/why-does-project-management-not-work-in-complex-environments-
+- /resources/videos/lvg9gSLntqY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube lvg9gSLntqY >}}
 
@@ -51,5 +53,6 @@ The following types of Project Management show the different approaches that sho
 Struggling to manage projects in complex environments?  🔔
 
 Explore my Agile and Scrum courses for a fresh perspective and effective tools!
+
 
 

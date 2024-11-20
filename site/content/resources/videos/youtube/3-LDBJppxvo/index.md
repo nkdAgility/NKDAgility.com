@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/the-importance-of-delivering-working-software-every-iteration
 - /resources/videos/6-things-you-didn't-know-about-agile-product-management-but-really-should-part-1
+- /resources/videos/3-LDBJppxvo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 3-LDBJppxvo >}}
 
@@ -108,5 +110,6 @@ This experience reinforced the importance of delivering working software to real
 In Agile, delivering working software every iteration is not just a goal—it's a necessity. It ensures that you're validating your assumptions, gathering feedback, and continuously delivering value to your stakeholders. By focusing on this principle, you can steer your product in the right direction, avoid costly mistakes, and ultimately build something that your users love.
 
 Remember, **Agile is about maximizing value, not just delivering software**. By getting your product in front of real users early and often, you're ensuring that every iteration brings you closer to that goal. 🚀 **Start delivering working software every iteration, gather feedback, and watch your product thrive!**
+
 
 

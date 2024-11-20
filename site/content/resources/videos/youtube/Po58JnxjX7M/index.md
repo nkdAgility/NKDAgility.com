@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/before-you-call-yourself-an-agile-coach-the-importance-of-real-experience
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-1
+- /resources/videos/Po58JnxjX7M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Po58JnxjX7M >}}
 
@@ -111,5 +113,6 @@ If you’re serious about becoming an Agile coach, here are a few action steps y
 ## **Final Thoughts: The Value of Real-World Experience**
 
 Before you can effectively call yourself an Agile coach, you need to have walked the walk. **Working with teams and building products** gives you the insights, empathy, and credibility to guide others. So, if you’re aspiring to coach but haven’t yet worked with a team, take that step today. You’ll not only grow as a coach, but you’ll also earn the trust and respect of the teams you work with. 🚀
+
 
 

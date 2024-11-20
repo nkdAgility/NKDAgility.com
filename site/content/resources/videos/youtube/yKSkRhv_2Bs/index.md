@@ -11,11 +11,13 @@ aliases:
 - /resources/reasons-to-do-an-aps-course-in-60-seconds-2
 - /resources/reasons-to-do-an-aps-course-in-60-seconds
 - /resources/videos/reasons-to-do-an-aps-course-in-60-seconds
+- /resources/videos/yKSkRhv_2Bs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube yKSkRhv_2Bs >}}
 
@@ -76,5 +78,6 @@ Are you ready to kickstart or rejuvenate your Scrum journey?
 Let's set the ball rolling towards unparalleled Scrum proficiency.
 
 Join now, and let's embark on a transformative journey to Scrum excellence together and learn how to integrate it optimally within your organisation's framework.
+
 
 

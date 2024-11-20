@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/f8q2fBkUez0
 
 ---
+
 
 {{< youtube f8q2fBkUez0 >}}
 
@@ -32,5 +35,6 @@ Our panel of experts will discuss:
 Whether you're a leader, HR professional, or just curious about the future of work, this panel will offer valuable insights into how companies can foster a more motivated and engaged workforce by looking beyond the paycheck.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=f8q2fBkUez0)
+
 
 

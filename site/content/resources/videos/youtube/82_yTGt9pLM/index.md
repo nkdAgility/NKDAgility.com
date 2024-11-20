@@ -9,11 +9,13 @@ duration: 370
 isShort: false
 aliases:
 - /resources/agile-consulting-services-overview
+- /resources/videos/82_yTGt9pLM
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube 82_yTGt9pLM >}}
 
@@ -36,5 +38,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=82_yTGt9pLM)
+
 
 

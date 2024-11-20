@@ -9,11 +9,13 @@ duration: 656
 isShort: false
 aliases:
 - /resources/the-evolution-of-product-management-in-the-agile-era
+- /resources/videos/_FtFqnZHCjk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube _FtFqnZHCjk >}}
 
@@ -118,5 +120,6 @@ Transitioning to Agile product management requires more than just adopting new p
     - Building quality into the product from the start reduces the need for extensive testing and ensures a smoother, more reliable delivery process.
 
 By adopting these principles, organizations can unlock new levels of efficiency, innovation, and customer satisfaction, ultimately driving greater business value.
+
 
 

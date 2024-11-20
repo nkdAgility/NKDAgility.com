@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/XF95kabzSeY
 
 ---
+
 
 {{< youtube XF95kabzSeY >}}
 
@@ -22,5 +25,6 @@ sitemap:
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XF95kabzSeY)
+
 
 

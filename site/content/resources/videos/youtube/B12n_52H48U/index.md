@@ -11,11 +11,13 @@ aliases:
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course-nokia-story-2
 - /resources/how-do-you-decide-whether-to-pivot-or-stay-the-course
 - /resources/videos/raise,-ante-up,-or-fold-the-ultimate-decision-in-business
+- /resources/videos/B12n_52H48U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube B12n_52H48U >}}
 
@@ -70,5 +72,6 @@ Key Takeaways: 
 - 🚫 Can you identify and avoid the sunk cost fallacy? 
 
 - 🤔 Are you ready to adopt an Agile mindset for navigating change?
+
 
 

@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/fayDa6ihe0g
 
 ---
+
 
 {{< youtube fayDa6ihe0g >}}
 
@@ -20,5 +23,6 @@ sitemap:
 What is our training all about? Maybe this timelapse overview of the full four half-days of training will help you. If not, check out our free live-streamed workshops on our channel.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=fayDa6ihe0g)
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days
 - /resources/videos/why-do-you-think-that-4-half-days-is-a-better-format-than-2-full-days-
+- /resources/videos/jFU_4xtHzng
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube jFU_4xtHzng >}}
 
@@ -87,5 +89,6 @@ Specific:           #trainingdesign, #FlowEfficiency, #Optimization, #A
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

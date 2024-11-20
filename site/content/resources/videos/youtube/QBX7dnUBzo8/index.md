@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/addressing-systemic-issues-in-agile-organizations
 - /resources/videos/agile-techniques-that-boost-startups!
+- /resources/videos/QBX7dnUBzo8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube QBX7dnUBzo8 >}}
 
@@ -115,5 +117,6 @@ At the heart of Agile is the concept of **systematic and continuous improvement*
 ## **Personalized Assistance and Learning**
 
 If you’re ready to address the **systemic issues** in your organization and make meaningful changes, I’d love to help.
+
 
 

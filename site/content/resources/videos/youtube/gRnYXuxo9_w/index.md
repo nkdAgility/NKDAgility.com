@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/gRnYXuxo9_w
 
 ---
+
 
 {{< youtube gRnYXuxo9_w >}}
 
@@ -45,5 +48,6 @@ Because you don't just need agility, you need Naked Agility.
 #scrum #agile #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg #scrummaster #productowner #kanban #continousdelivery #devops #azuredevops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gRnYXuxo9_w)
+
 
 

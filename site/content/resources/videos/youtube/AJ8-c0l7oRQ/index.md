@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-3
+- /resources/videos/AJ8-c0l7oRQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube AJ8-c0l7oRQ >}}
 
@@ -55,5 +57,6 @@ Leveraging tools effectively means striking a balance. While Lego might triviali
 ## The Tool Matters Less Than the Experience 🛠️ 
 
 At the end of the day, whether it’s Lego, Minecraft, or any other tool, what matters is how effectively we can convey the complexities and intricacies of Scrum practices.
+
 
 

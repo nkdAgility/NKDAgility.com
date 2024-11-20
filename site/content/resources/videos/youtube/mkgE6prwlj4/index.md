@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-the-best-application-of-scrum-in-the-world
 - /resources/best-application-of-scrum-in-the-world
 - /resources/videos/best-application-of-scrum-in-the-world-
+- /resources/videos/mkgE6prwlj4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube mkgE6prwlj4 >}}
 
@@ -44,5 +46,6 @@ Now, this is an impressive prime example of how effective Scrum can be when impl
 Are you intrigued to unravel the secrets behind the effectiveness of Scrum and Agile?
 
 Explore my Agile and Scrum courses, which might revolutionise your perspective! 😉
+
 
 

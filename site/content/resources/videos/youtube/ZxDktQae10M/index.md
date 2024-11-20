@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/ZxDktQae10M
 
 ---
+
 
 {{< youtube ZxDktQae10M >}}
 
@@ -22,5 +25,6 @@ Check out the latest version: https://youtu.be/Qt1Ywu_KLrc
 A quick overview of the capabilities and layout of the VSTS Sync Migration Tools. This is a prep for running the tool in anger and covers Install, Configuration basics, and running the tools.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZxDktQae10M)
+
 
 

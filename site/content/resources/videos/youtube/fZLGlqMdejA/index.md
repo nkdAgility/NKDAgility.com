@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/7-deadly-sins-of-agile-greed
 - /resources/videos/greed!-7-deadly-sins-of-agile
+- /resources/videos/fZLGlqMdejA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube fZLGlqMdejA >}}
 
@@ -113,5 +115,6 @@ The blog concludes by encouraging an embrace of value-driven approaches in all A
 - Outlines steps for overcoming limitations of traditional business models. 
 
 - Emphasises the need for continuous learning and adaptation in Agile practices.
+
 
 

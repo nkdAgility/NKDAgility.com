@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/KzNbrrBCmdE
 
 ---
+
 
 {{< youtube KzNbrrBCmdE >}}
 
@@ -20,5 +23,6 @@ sitemap:
 Compromises you need to think about for your #azuredevops migration. Excerpt 2. Watch the full video at https://www.youtube.com/@nakedAgility #agile #devops #devopsmigration Visit https://www.nkdagility.com if you need help with your migration.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KzNbrrBCmdE)
+
 
 

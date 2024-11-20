@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organisations
 - /resources/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations
 - /resources/videos/what-is-the-sprint-review-workshop-and-how-will-it-help-organizations-
+- /resources/videos/uYm_wb1sHJE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube uYm_wb1sHJE >}}
 
@@ -58,5 +60,6 @@ The Sprint Review Workshop is not just intended to enlighten but to metamorphose
 ## Elevate Your Sprints to New Heights 
 
 Adopt the Sprint Review Workshop as your crucible of innovation, where feedback ignites advancement and stakeholder engagement is not merely anticipated but eagerly sought.
+
 
 

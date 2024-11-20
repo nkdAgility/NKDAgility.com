@@ -9,11 +9,13 @@ duration: 45
 isShort: true
 aliases:
 - /resources/5-tools-that-scrum-masters-love-part-3
+- /resources/videos/gWTCvlUzSZo
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube gWTCvlUzSZo >}}
 
@@ -37,5 +39,6 @@ _Sign up for one of our upcoming professional Scrum classes:_ https://nkdagility
 Because you don't just need agility, you need Naked Agility.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=gWTCvlUzSZo)
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/stop-starting-and-start-finishing-the-key-to-team-success
 - /resources/videos/stop-starting-and-start-finishing!
+- /resources/videos/8aIUldVDtGw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 8aIUldVDtGw >}}
 
@@ -115,5 +117,6 @@ At the end of the day, the key to high-performing teams is simple: **stop starti
 ## **Conclusion**
 
 The principle of **stop starting and start finishing** isn’t just a Lean idea—it’s a universal truth that applies to all teams, whether they’re practicing Scrum, Lean, or another framework. By focusing on finishing work before starting new tasks, teams can avoid the cognitive drain of multitasking, improve efficiency, and deliver greater value to the business. If you’d like to learn more about how to apply this principle in your team, feel free to **book a call** with us or visit our website for more insights and upcoming classes. We’d love to help your team **start finishing**!
+
 
 

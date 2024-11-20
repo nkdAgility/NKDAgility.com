@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/empowering-teams-to-tailor-their-processes-a-path-to-true-agility
 - /resources/videos/are-your-teams-truly-empowered-to-adapt-their-processes-the-agile-reality-check-[4-6]
+- /resources/videos/5H9rOGhTB88
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 5H9rOGhTB88 >}}
 
@@ -103,5 +105,6 @@ Here are some practical steps you can take to empower your teams:
 ## **Final Thoughts: The Path to True Agility**
 
 Empowering teams to tailor their processes is not just a nice-to-have—it's essential for true agility. When teams are free to adapt and innovate, they can deliver the most value to customers while minimizing waste. So, take a step back, reflect on your current practices, and ask yourself: Are we truly agile, or are we just going through the motions? By empowering your teams and embracing true agility, you'll not only improve your organization's performance but also create a more fulfilling and engaging work environment for everyone involved. And that's a win-win for both your teams and your customers. 🚀
+
 
 

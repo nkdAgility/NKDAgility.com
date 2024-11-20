@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/4YixczaREUw
 
 ---
+
 
 {{< youtube 4YixczaREUw >}}
 
@@ -44,5 +47,6 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Music from the Red Alert - The Music Album: the best and the most well-known song, Hell March.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4YixczaREUw)
+
 
 

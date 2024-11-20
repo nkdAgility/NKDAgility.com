@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/EyqLSLHk_Ik
 
 ---
+
 
 {{< youtube EyqLSLHk_Ik >}}
 
@@ -24,5 +27,6 @@ NKD Agility have extensive experience in helping organizations create great prod
 Visit https://www.nkdagility.com for more information on this great program.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=EyqLSLHk_Ik)
+
 
 
