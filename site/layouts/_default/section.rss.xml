@@ -1,0 +1,24 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ .Title | htmlEscape }} | {{ .Site.Title | htmlEscape }}</title>
+        <link>{{ .Permalink | absURL }}</link>
+        <description>{{ .Description | default .Site.Params.description | htmlEscape }}</description>
+        <language>{{ .Site.Language.Lang }}</language>
+        <atom:link href="{{ .Permalink | absURL }}" rel="self" type="application/rss+xml" />
+        {{ range first 50 .Pages.ByDate.Reverse }}
+            <item>
+                <title>{{ .Title | htmlEscape }}</title>
+                <link>{{ .Permalink }}</link>
+                <guid>{{ .Permalink }}</guid>
+                <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 MST" }}</pubDate>
+                <description><![CDATA[ {{ .Content | safeHTML }} ]]></description>
+                {{ $keywords := partial "functions/keywords.html" . }}
+                {{ range $keywords }}
+                <category>{{ . | htmlEscape }}</category>
+                {{- end -}}
+            </item>
+        {{ end }}
+    </channel>
+</rss>
+ 

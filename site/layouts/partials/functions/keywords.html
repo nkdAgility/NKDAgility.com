@@ -1,0 +1,8 @@
+{{ $keywords := slice -}}
+{{- range $taxonomy, $terms := .Page.Site.Taxonomies -}}
+  {{- $pageTerms := index $.Params $taxonomy -}}
+  {{- if $pageTerms -}}
+    {{- $keywords = $keywords | append $pageTerms -}}
+  {{- end -}}
+{{- end -}}
+{{- return $keywords -}}
