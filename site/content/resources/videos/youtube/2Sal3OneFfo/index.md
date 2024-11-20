@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/2Sal3OneFfo
 
 ---
+
 
 {{< youtube 2Sal3OneFfo >}}
 
@@ -20,5 +23,6 @@ sitemap:
 DevOps Migration Services from NKD Agility. #azure #azuredevops #devopsmigration #devopsconsulting #devopsconsultant #devopscoach #devopstraining #migration #agile #productdevelopment #productmanagement #projectmanagement #informationtechnology
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2Sal3OneFfo)
+
 
 

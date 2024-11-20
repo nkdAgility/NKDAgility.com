@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/unlocking-the-power-of-assumptions-in-product-development-why-the-ppdv-course-is-a-game-changer
 - /resources/videos/ppdv-course-overview
+- /resources/videos/ucTJ1fe1CvQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube ucTJ1fe1CvQ >}}
 
@@ -91,5 +93,6 @@ By focusing on these elements, teams will not only build better products but als
 * * *
 
 **Ready to move beyond delivery and start creating real value?** Join us in the PPDV course and transform the way you approach product development. Let’s navigate the complexities together, challenge our assumptions, and build products that truly make a difference. 🚀
+
 
 

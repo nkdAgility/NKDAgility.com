@@ -11,11 +11,13 @@ aliases:
 - /resources/is-a-scrum-master-an-agile-micromanager-2
 - /resources/is-a-scrum-master-an-agile-micro-manager
 - /resources/videos/is-a-scrum-master-an-agile-micro-manager-
+- /resources/videos/USrwyGHG_tc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube USrwyGHG_tc >}}
 
@@ -62,5 +64,6 @@ They Are: 
 ## Conclusion: The Agile Way is Trust **🤝**  
 
 An Agile micromanager is an oxymoron. True agility comes from trust and facilitation. A Scrum Master should focus on fostering an environment where the team can thrive autonomously.
+
 
 

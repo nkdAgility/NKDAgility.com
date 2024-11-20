@@ -9,11 +9,13 @@ duration: 243
 isShort: false
 aliases:
 - /resources/how-is-agile-leadership-different-to-traditional-management
+- /resources/videos/Jkw4sMe6h-w
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube Jkw4sMe6h-w >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Jkw4sMe6h-w)
+
 
 

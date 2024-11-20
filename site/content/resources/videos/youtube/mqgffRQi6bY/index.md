@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-2
+- /resources/videos/mqgffRQi6bY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube mqgffRQi6bY >}}
 
@@ -55,5 +57,6 @@ Strategic Analogies 🗺️: Opt for metaphors and examples that do justice to t
 In understanding why Lego may not serve as the best conduit for Scrum training, it’s essential to recognize the need for aligning training tools with the realities of complex, uncharted endeavours.  
 
 Stay tuned for more insights in this exploration. 🌟🔄
+
 
 

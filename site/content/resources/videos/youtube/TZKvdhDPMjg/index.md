@@ -11,11 +11,13 @@ aliases:
 - /resources/one-thing-a-client-can-do-to-ensure-a-successful-agile-consulting-engagement
 - /resources/one-thing-a-client-can-do-ensure-a-successful-agile-engagement
 - /resources/videos/one-thing-a-client-can-do-ensure-a-successful-agile-engagement-
+- /resources/videos/TZKvdhDPMjg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube TZKvdhDPMjg >}}
 
@@ -72,5 +74,6 @@ Hashtags:         #AgileConsulting #ChangeManagement #AgileMindset
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

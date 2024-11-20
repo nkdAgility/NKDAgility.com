@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/mastering-product-backlog-management-insights-from-the-new-scrum-org-course
 - /resources/videos/talk-us-through-the-new-product-backlog-management-course-from-scrum-org
+- /resources/videos/UOzrABhafx0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube UOzrABhafx0 >}}
 
@@ -117,5 +119,6 @@ The **Product Backlog Management** course from Scrum.org is a fantastic opportun
 - **It’s immersive**: This is not just a theoretical class. You’ll engage in hands-on activities that will solidify your understanding of backlog management.
 
 🔗 **Join the conversation**: If you want to discuss your unique backlog challenges or learn more about how this course can help, don’t hesitate to visit our website to explore more class options.
+
 
 

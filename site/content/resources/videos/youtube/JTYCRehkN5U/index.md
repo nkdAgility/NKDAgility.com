@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-power-of-technical-excellence-in-agile-development
 - /resources/videos/the-critical-role-of-technical-excellence-in-agile-software-development
+- /resources/videos/JTYCRehkN5U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube JTYCRehkN5U >}}
 
@@ -95,5 +97,6 @@ In today's competitive market, technical excellence is not just an option—it's
 - **Continuously Improve**: Like the Azure DevOps team, make technical excellence a priority and continuously work to improve your processes and product quality.
 
 🚀 **Build the best product you can, mitigate risks effectively, and maximize value for your customers.**
+
 
 

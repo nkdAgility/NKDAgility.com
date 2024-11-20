@@ -9,11 +9,13 @@ duration: 181
 isShort: false
 aliases:
 - /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
+- /resources/videos/OWvCS3xb7pQ
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube OWvCS3xb7pQ >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OWvCS3xb7pQ)
+
 
 

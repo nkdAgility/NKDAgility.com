@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-devops-and-how-is-it-different-to-agile
 - /resources/videos/what-is-devops-and-how-is-it-different-to-agile-
+- /resources/videos/00V7BJJtMT0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 00V7BJJtMT0 >}}
 
@@ -85,5 +87,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

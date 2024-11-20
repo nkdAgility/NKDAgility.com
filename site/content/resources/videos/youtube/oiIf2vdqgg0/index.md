@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/what-is-a-product-vision
 - /resources/videos/what-is-a-product-vision-
+- /resources/videos/oiIf2vdqgg0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube oiIf2vdqgg0 >}}
 
@@ -59,5 +61,6 @@ I invite you to join my Agile and Scrum courses, where we explore these concepts
 Can't wait to see you there!
 
 Remember, the future is what we make it. Let's create it together, starting today.
+
 
 

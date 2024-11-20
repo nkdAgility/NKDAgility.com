@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/how-important-is-devops-in-continuous-delivery-of-value-to-customers
 - /resources/videos/how-important-is-devops-in-continuous-delivery-of-value-to-customers-
+- /resources/videos/XOaAKJpfHIo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube XOaAKJpfHIo >}}
 
@@ -89,5 +91,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

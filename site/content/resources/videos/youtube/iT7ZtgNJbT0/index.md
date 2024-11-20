@@ -11,11 +11,13 @@ aliases:
 - /resources/what-was-your-best-day-as-an-agile-consultant-2
 - /resources/what-was-your-best-day-as-an-agile-consultant
 - /resources/videos/what-was-your-best-day-as-an-agile-consultant-
+- /resources/videos/iT7ZtgNJbT0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube iT7ZtgNJbT0 >}}
 
@@ -70,5 +72,6 @@ Explore our Agile and Scrum courses.  Because, who knows, it might just be the 
 Keywords:       Agile consulting, Scrum, transformative learning, catalyst for change         
 
 Hashtags:        #AgileConsulting #BestDay #Scrum #AgileTransformation
+
 
 

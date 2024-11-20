@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/mastering-kanban-creating-a-pull-based-system-for-workflow-efficiency
 - /resources/videos/work-less,-do-more-with-pull-in-kanban
+- /resources/videos/hXieCawt-XE
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube hXieCawt-XE >}}
 
@@ -121,5 +123,6 @@ By breaking down the activities within a Sprint into Kanban stages, teams can se
 Kanban helps teams visualize, manage, and improve their workflow by creating a pull-based system. It prevents overloading stages with work, ensures smoother flow, and provides visibility into where bottlenecks are occurring.
 
 If you're struggling with creating an efficient workflow, Kanban can help. Whether you're implementing a full Kanban system or adding Kanban principles to Scrum, the key is to actively manage and continuously improve your process. 👉 **Pro tip**: Always set WIP limits and keep an eye on waiting states to prevent bottlenecks from derailing your progress!
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-the-difference-between-resource-efficiency-and-flow-efficiency
 - /resources/videos/what-is-the-difference-between-resource-efficiency-and-flow-efficiency-
+- /resources/videos/1ePkQeCVAlY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 1ePkQeCVAlY >}}
 
@@ -67,5 +69,6 @@ Keywords:       Resource efficiency, Flow efficiency, Optimisation, Agile p
 Specific:           #ResourceEfficiency, #FlowEfficiency, #Optimization, #AgileProcesses
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

@@ -11,11 +11,13 @@ aliases:
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey-2
 - /resources/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
 - /resources/videos/1-thing-you-wish-you-knew-at-the-start-of-your-scrum-journey
+- /resources/videos/5s9vi8PiFM4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 5s9vi8PiFM4 >}}
 
@@ -46,5 +48,6 @@ Don't wait 7 or 8 years to discover this powerful combination, like I did!
 Let's walk this rewarding path together, integrating the social technology of Scrum with the data-driven insights of Lean, paving the way for a journey characterized by success and innovation.
 
 Join my Agile and Scrum courses to equip yourself with the knowledge and skills to blend these two potent methodologies into your professional journey seamlessly.
+
 
 

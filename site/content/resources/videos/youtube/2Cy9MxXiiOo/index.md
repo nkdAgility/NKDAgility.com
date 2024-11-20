@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/what-is-a-sprint-goal-2
 - /resources/videos/what-is-a-sprint-goal-
+- /resources/videos/2Cy9MxXiiOo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 2Cy9MxXiiOo >}}
 
@@ -85,5 +87,6 @@ Want to learn more about setting impactful Sprint Goals and mastering other elem
 Then my Agile and Scrum courses are just the thing for you!
 
 Let's continue this journey towards Scrum mastery together.
+
 
 

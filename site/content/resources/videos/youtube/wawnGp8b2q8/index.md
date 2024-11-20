@@ -9,11 +9,13 @@ duration: 196
 isShort: false
 aliases:
 - /resources/if-you-could-distil-the-pal-e-immersive-learning-experience-into-3-major-benefits-what-are-they
+- /resources/videos/wawnGp8b2q8
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube wawnGp8b2q8 >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wawnGp8b2q8)
+
 
 

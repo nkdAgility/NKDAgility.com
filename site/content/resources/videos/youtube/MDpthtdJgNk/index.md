@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-is-kanban-becoming-increasingly-popular-in-creative-industries
 - /resources/videos/why-is-kanban-becoming-popular-with-creative-industries-
+- /resources/videos/MDpthtdJgNk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube MDpthtdJgNk >}}
 
@@ -121,5 +123,6 @@ Kanban is an incredibly versatile and powerful strategy for optimizing workflows
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
 
 * * *
+
 
 

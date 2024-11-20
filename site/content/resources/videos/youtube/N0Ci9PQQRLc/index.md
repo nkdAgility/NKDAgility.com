@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/N0Ci9PQQRLc
 
 ---
+
 
 {{< youtube N0Ci9PQQRLc >}}
 
@@ -42,5 +45,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=N0Ci9PQQRLc)
+
 
 

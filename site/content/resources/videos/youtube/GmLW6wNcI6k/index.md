@@ -11,11 +11,13 @@ aliases:
 - /resources/what-does-the-assessment-phase-of-a-consulting-engagement-look-and-feel-like
 - /resources/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like
 - /resources/videos/what-does-the-assessment-phase-of-a-consulting-enagement-look-and-feel-like-
+- /resources/videos/GmLW6wNcI6k
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube GmLW6wNcI6k >}}
 
@@ -60,5 +62,6 @@ Join the Wave of Agile and Scrum Learning
 As we tread this path of discovery and growth, the world of Agile and Scrum beckons with promises of deeper understanding and skill enhancement.
 
 Embark on this enriching journey through our tailored courses, where you can nurture a mindset of continuous adaptation and growth in the vibrant sphere of consulting engagements.
+
 
 

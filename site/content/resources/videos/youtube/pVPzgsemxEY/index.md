@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/the-power-of-kaizen-continuous-improvement-in-scrum-and-beyond
 - /resources/videos/kaizen-in-kanban-the-power-of-continuous-improvement-for-optimal-results
+- /resources/videos/pVPzgsemxEY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube pVPzgsemxEY >}}
 
@@ -111,5 +113,6 @@ Kaizen isn’t about rigid processes or frameworks. It’s about adapting to the
 At the end of the day, **Kaizen** isn’t just a principle we apply to work – it’s a mindset. It’s about embracing continuous improvement in all areas of our lives, not just in Scrum. By making small, incremental changes, we can achieve significant improvements over time.
 
 So, whether you’re a Scrum Master looking to improve your team’s performance, a Product Owner optimizing the backlog, or a developer seeking more efficient ways to code, remember the power of **Kaizen**. It’s the key to long-term success in Scrum and beyond. Let’s commit to continuous improvement, one small step at a time. 🚀
+
 
 

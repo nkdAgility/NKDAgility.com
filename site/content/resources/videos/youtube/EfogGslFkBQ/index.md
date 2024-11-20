@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/avoiding-agile-banditry-why-story-points-and-velocity-are-misleading-metrics
 - /resources/videos/5-kinds-of-agile-bandits-story-points-&-velocity
+- /resources/videos/EfogGslFkBQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube EfogGslFkBQ >}}
 
@@ -107,5 +109,6 @@ In summary, if your Agile team is spending more time worrying about **story poin
 - Never include story points in contracts—it leads to dishonesty and poor outcomes.
 
 Use story points for **team discussions only**, then delete the data once the conversation has served its purpose.
+
 
 

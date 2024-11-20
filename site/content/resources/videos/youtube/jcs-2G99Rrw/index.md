@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/jcs-2G99Rrw
 
 ---
+
 
 {{< youtube jcs-2G99Rrw >}}
 
@@ -41,5 +44,6 @@ Sign up for one of our upcoming professional Scrum classes: https://nkdagility.c
 Remember, it's not just about agility; it's about embracing Naked Agility for truly effective project management.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jcs-2G99Rrw)
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-do-people-love-most-about-the-4-day-training-format
 - /resources/videos/what-do-people-love-most-about-the-4-day-training-format-
+- /resources/videos/3XsOseKG57g
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 3XsOseKG57g >}}
 
@@ -65,5 +67,6 @@ This pause lets participants return the following day with enhanced understandin
 Curious about experiencing this unique learning approach?
 
 Explore my courses, and let's make your learning journey memorable!
+
 
 

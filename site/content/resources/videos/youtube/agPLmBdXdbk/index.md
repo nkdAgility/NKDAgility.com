@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/must-have-trait-in-an-agile-consultant
 - /resources/videos/must-have-trait-in-an-agile-consultant
+- /resources/videos/agPLmBdXdbk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube agPLmBdXdbk >}}
 
@@ -39,5 +41,6 @@ Hashtags:        #AgileConsultant #Tenacity #ChangeAgents #LaserFocus #Ign
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/_bjNHN4PI9s
 
 ---
+
 
 {{< youtube _bjNHN4PI9s >}}
 
@@ -20,5 +23,6 @@ sitemap:
 Its important that Students in Live Virtual Classrooms are already familure with the technology that is going to be used by the instructors. We have been having sucess with Microsoft Teams and Mural and this video will show how to connect into both and get the most from the class.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=_bjNHN4PI9s)
+
 
 

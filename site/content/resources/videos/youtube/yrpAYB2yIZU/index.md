@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/yrpAYB2yIZU
 
 ---
+
 
 {{< youtube yrpAYB2yIZU >}}
 
@@ -22,5 +25,6 @@ Have you ever had to rebuild your only domain controller? Find out how to move y
 Visit http://nakedalm.com/blog for more posts and videos.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=yrpAYB2yIZU)
+
 
 

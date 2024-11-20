@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/how-do-devops-and-agile-integrate
 - /resources/videos/how-do-devops-and-agile-integrate-
+- /resources/videos/Gtp9wjkPFPA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Gtp9wjkPFPA >}}
 
@@ -45,5 +47,6 @@ It's all about understanding their individual strengths and harnessing them coll
 Intrigued?
 
 Let's master both sides of the coin together in my Agile and Scrum courses.!
+
 
 

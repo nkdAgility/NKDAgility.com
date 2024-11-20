@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-competence-crisis-in-scrum-master-roles-a-call-for-excellence
 - /resources/videos/in-your-experience,-what-is-the-current-state-of-scrum-master-competence-in-the-product-development
+- /resources/videos/GJFklM1U5Pc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube GJFklM1U5Pc >}}
 
@@ -155,5 +157,6 @@ The competence crisis in Scrum Master roles is a reality, but it’s not without
 - Focus on practical experience and real-world application.
 
 By focusing on these areas, Scrum Masters can elevate their roles, deliver more value, and help their organizations thrive in this new age of agile.
+
 
 

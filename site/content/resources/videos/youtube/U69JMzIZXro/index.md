@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/U69JMzIZXro
 
 ---
+
 
 {{< youtube U69JMzIZXro >}}
 
@@ -22,5 +25,6 @@ Have you tried to install TFS 2013? Its so ridiculously easy compared to early v
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=U69JMzIZXro)
+
 
 

@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/5UG3FF0n0C8
 
 ---
+
 
 {{< youtube 5UG3FF0n0C8 >}}
 
@@ -22,5 +25,6 @@ Bring your questions on any topic from DevOps to Agility and Martin will do his 
 If you have a sensitive question that you want answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5UG3FF0n0C8)
+
 
 

@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/E2OBcBqZGoA
 
 ---
+
 
 {{< youtube E2OBcBqZGoA >}}
 
@@ -20,5 +23,6 @@ sitemap:
 #shorts #shortsvideo #shortvideo Join Martin Hinshelwood and Dr Joanna Plaskonka for an 18-minute presentation on #agileleadership and #agileentrepreneurship in the 21st Century. Stay for the 40 minute Q&A session afterward. Register on https://events.teams.microsoft.com/event/18ce0eb6-2b89-4e62-bab0-4c78a27ee18e@686c55d4-ab81-4a17-9eef-6472a5633fab
 
 [Watch on YouTube](https://www.youtube.com/watch?v=E2OBcBqZGoA)
+
 
 

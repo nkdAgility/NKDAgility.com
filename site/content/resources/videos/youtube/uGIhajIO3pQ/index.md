@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event
 - /resources/videos/agile-scotland-2023-why-does-this-matter-to-you-and-why-should-people-come-to-the-event-
+- /resources/videos/uGIhajIO3pQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube uGIhajIO3pQ >}}
 
@@ -53,5 +55,6 @@ Agile 2023, the Scotland experience, isn’t just a conference; it’s a testame
 - Community and collaboration are key to driving innovation. 
 
 - Never underestimate the value of local events for global insights.
+
 
 

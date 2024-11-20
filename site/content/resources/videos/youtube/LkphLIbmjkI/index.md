@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach
 - /resources/videos/why-are-a-scrum-team-better-served-by-an-agile-consultant-than-a-professional-coach-
+- /resources/videos/LkphLIbmjkI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube LkphLIbmjkI >}}
 
@@ -57,5 +59,6 @@ Sharpen Your Skills with Our Agile and Scrum Courses 🌟
 Want to delve deeper into the technical aspects that make Scrum and Agile successful?
 
 Our comprehensive range of courses is just what you need. Don't wait—enrol today!
+
 
 

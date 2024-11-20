@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/RnMOINwjO84
 
 ---
+
 
 {{< youtube RnMOINwjO84 >}}
 
@@ -49,5 +52,6 @@ If you found this video useful, please like, subscribe, and visit https://www.nk
 #evidencebasedmanagement #evidencebasedleadership #agile #productdevelopment #productmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=RnMOINwjO84)
+
 
 

@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/does-starting-with-why-simon-sinek-really-matter
 - /resources/videos/does-'starting-with-why'-simon-sinek-really-matter-
+- /resources/videos/sAKCLQ38GzA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube sAKCLQ38GzA >}}
 
@@ -63,5 +65,6 @@ But, what does it mean for an Agile team or a Scrum Master? Let's dive into this
 - 📈 **The Agile Advantage of Purpose**: In Agile environments, understanding and embracing the 'why' leads to more engaged teams, better products, and satisfied customers. 
 
 - 💬 **The Ongoing Journey**: The process of defining and following a purpose is an ongoing journey, requiring constant reassessment and realignment.
+
 
 

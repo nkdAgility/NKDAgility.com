@@ -11,11 +11,13 @@ aliases:
 - /resources/is-a-scrum-master-an-agile-project-manager
 - /resources/is-a-product-owner-an-agile-project-manager
 - /resources/videos/is-a-product-owner-an-agile-project-manager-
+- /resources/videos/HcoTwjPnLC0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube HcoTwjPnLC0 >}}
 
@@ -54,5 +56,6 @@ They have their unique responsibilities and clearly different areas of focus.  
 If you want to explore Agile, Scrum, or even becoming a Scrum Master or Product Owner, check out my Agile and Scrum courses.  📚
 
 You might just find what you're looking for. 👍
+
 
 

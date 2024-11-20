@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/Qko_93YAV70
 
 ---
+
 
 {{< youtube Qko_93YAV70 >}}
 
@@ -20,5 +23,6 @@ sitemap:
 Kanban Vs Scrum. Visit https://www.nkdagility.com #agile #scrum #kanban #agileframework #agileprojectmanagement
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Qko_93YAV70)
+
 
 

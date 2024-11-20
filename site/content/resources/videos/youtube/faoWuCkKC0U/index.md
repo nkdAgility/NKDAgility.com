@@ -11,11 +11,13 @@ aliases:
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds-2
 - /resources/reasons-to-do-a-pspo-a-course-in-60-seconds
 - /resources/videos/reasons-to-do-a-pspo-a-course-in-60-seconds
+- /resources/videos/faoWuCkKC0U
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube faoWuCkKC0U >}}
 
@@ -60,5 +62,6 @@ Don't miss this opportunity to elevate your professional journey to new heights!
 Sign up for the PSPO-A course now and let's set the stage for unparalleled success!
 
 Let's innovate, collaborate, and lead the way in product management together! 🚀
+
 
 

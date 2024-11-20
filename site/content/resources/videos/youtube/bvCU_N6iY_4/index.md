@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/bvCU_N6iY_4
 
 ---
+
 
 {{< youtube bvCU_N6iY_4 >}}
 
@@ -32,5 +35,6 @@ Topics from the last session:
 RSVP, Join the Community,  and add your questions: https://community.nkdagility.com/events/business-agility-raw-ask-me-anything-lean-coffee-with-martin-hinshelwood?instance_index=20220727T170000Z
 
 [Watch on YouTube](https://www.youtube.com/watch?v=bvCU_N6iY_4)
+
 
 

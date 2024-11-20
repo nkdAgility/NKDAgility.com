@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/momentum-2
 - /resources/videos/momentum
+- /resources/videos/5bgfme-Pspw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 5bgfme-Pspw >}}
 
@@ -67,5 +69,6 @@ Hashtags:        #Momentum, #TeamMovement, #AgileLeadership, #Direction
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

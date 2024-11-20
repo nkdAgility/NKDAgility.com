@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile-2
 - /resources/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
 - /resources/videos/what-is-empiricism-and-why-is-it-so-critical-to-great-agile
+- /resources/videos/7UZsdsD23rs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 7UZsdsD23rs >}}
 
@@ -94,5 +96,6 @@ By wholeheartedly adopting the ethos of 'inspect and adapt', you'll discover tha
 - 🔄 **Champion Change**: Welcome directional shifts – they are the rungs on your ladder to the zenith. 
 
 In the Agile universe, inertia is the antithesis of success. To chart the unceasing ebb and flow of the market and organisational dynamics, you must be adaptable – and empiricism is your guide.
+
 
 

@@ -11,11 +11,13 @@ aliases:
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences-how-do-you-see-that-evolving
 - /resources/what-has-the-initial-response-been-to-the-immersive-learning-experiences
 - /resources/videos/what-has-the-initial-response-been-to-the-immersive-learning-experiences-
+- /resources/videos/6D6QTjSrJ14
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 6D6QTjSrJ14 >}}
 
@@ -110,5 +112,6 @@ As trainers, we are not just broadcasters of information but cultivators of inte
 The Future Is Here, and It's Immersive 🚀🔮 
 
 The evolution of immersive learning is more than just a trend; it's a transformation. It's about recognising that professional development is not a checkpoint but a journey – and immersive learning is the vehicle that will take us into a future of enriched understanding and application.
+
 
 

@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/8-week-immersive-learning-course-in-60-seconds
 - /resources/videos/8-week-immersive-learning-course-in-60-seconds
+- /resources/videos/o9Qc_NLmtok
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube o9Qc_NLmtok >}}
 
@@ -61,5 +63,6 @@ Dive into our immersive courses and emerge with insights and actionable strategi
 See you in class! 📖✌️
 
 Elevate your Scrum game! 🚀
+
 
 

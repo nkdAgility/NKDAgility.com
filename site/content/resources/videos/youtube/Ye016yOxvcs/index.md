@@ -11,11 +11,13 @@ aliases:
 - /resources/5-critical-skills-to-master-as-an-agile-consultant-part-1
 - /resources/5-critical-skill-to-master-as-an-agile-consultant-part-1
 - /resources/videos/5-critical-skill-to-master-as-an-agile-consultant,-part-1
+- /resources/videos/Ye016yOxvcs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Ye016yOxvcs >}}
 
@@ -56,5 +58,6 @@ And most importantly, never assume to fully know your customer's context, for it
 Embark on a journey of transformation and skill enhancement with my Agile and Scrum courses.
 
 Let's unravel the intricacies of being a successful Agile Consultant, nurturing a mindset that embraces learning, adaptation, and innovation.  🚀
+
 
 

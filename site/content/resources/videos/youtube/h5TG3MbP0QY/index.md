@@ -11,11 +11,13 @@ aliases:
 - /resources/most-common-thing-you-hear-in-a-psm-1-course-2
 - /resources/most-common-thing-you-hear-in-a-psm-1-course
 - /resources/videos/most-common-thing-you-hear-in-a-psm-1-course-
+- /resources/videos/h5TG3MbP0QY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube h5TG3MbP0QY >}}
 
@@ -52,5 +54,6 @@ Let's challenge these 'real world' assertions and hold ourselves to the highest 
 If you're ready to delve into understanding Agile and Scrum's true essence, join my courses and let's debunk these myths together! 🚀
 
 Let's champion honesty in our Agile journey!
+
 
 

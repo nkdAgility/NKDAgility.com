@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/how-long-does-it-take-to-transition-from-project-management-to-kanban
 - /resources/videos/how-long-would-it-take-to-transition-from-traditional-projectmanagement-to-kanban-
+- /resources/videos/IU_1dJw7xk4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube IU_1dJw7xk4 >}}
 
@@ -105,5 +107,6 @@ Transitioning from traditional project management to Kanban doesn't have to be d
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 

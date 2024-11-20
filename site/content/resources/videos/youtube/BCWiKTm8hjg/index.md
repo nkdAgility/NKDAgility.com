@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-power-of-charity-in-agile-how-helping-others-elevates-teams-and-organizations
 - /resources/videos/7-virtues-of-agile-charity
+- /resources/videos/BCWiKTm8hjg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube BCWiKTm8hjg >}}
 
@@ -127,5 +129,6 @@ By embracing charity, we create a healthier, more collaborative, and successful 
 * * *
 
 **Ready to Elevate Your Agile Team?** Reach out today and let’s chat about how we can take your Agile journey to the next level. ☕ Let's have coffee and solve your challenges together.
+
 
 

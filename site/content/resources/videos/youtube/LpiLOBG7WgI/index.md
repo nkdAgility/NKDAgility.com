@@ -11,11 +11,13 @@ aliases:
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback-2
 - /resources/what-should-you-do-if-your-sprint-review-delivers-harsh-scathing-feedback
 - /resources/videos/what-should-you-do-if-your-sprint-review-delivers-harsh,-scathing-feedback
+- /resources/videos/LpiLOBG7WgI
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube LpiLOBG7WgI >}}
 
@@ -90,5 +92,6 @@ Takeaways 
 Agile practices like Sprint reviews are about more than just ticking boxes; they're about creating a dynamic, responsive environment for product development.  
 
 So, take that harsh feedback and turn it into your most valuable asset! 🚀
+
 
 

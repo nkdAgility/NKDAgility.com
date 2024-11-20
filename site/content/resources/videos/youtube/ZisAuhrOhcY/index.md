@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/my-journey-with-kanban-and-why-i-actively-recommend-it-to-clients
 - /resources/videos/my-journey-with-kanban-and-why-i-actively-recommend-it-to-consulting-clients-
+- /resources/videos/ZisAuhrOhcY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube ZisAuhrOhcY >}}
 
@@ -103,5 +105,6 @@ Kanban is a powerful strategy for any team, in any industry, aiming to optimize 
 - **Further Reading**: Check out more articles on Kanban and agile methodologies on our blog.
 
 If your current system of work is failing you, then you would benefit from creating and applying a Kanban strategy. Our professional Kanban trainers and consultants are ready to help. Don't wait. The sooner you start, the sooner you will improve. Get in touch below.
+
 
 

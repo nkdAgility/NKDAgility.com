@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/in-what-circumstances-is-agile-consulting-appropriate
 - /resources/videos/in-what-circumstances-is-agile-consulting-appropriate-
+- /resources/videos/rX258aqTf_w
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube rX258aqTf_w >}}
 
@@ -103,5 +105,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

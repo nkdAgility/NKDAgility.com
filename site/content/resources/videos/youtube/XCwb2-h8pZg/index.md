@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/XCwb2-h8pZg
 
 ---
+
 
 {{< youtube XCwb2-h8pZg >}}
 
@@ -20,5 +23,6 @@ sitemap:
 
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XCwb2-h8pZg)
+
 
 

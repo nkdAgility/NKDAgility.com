@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks
 - /resources/videos/what-would-you-advise-a-scrum-team-to-do-in-their-first-4-weeks-
+- /resources/videos/2I3S32Sk8-c
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 2I3S32Sk8-c >}}
 
@@ -89,5 +91,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

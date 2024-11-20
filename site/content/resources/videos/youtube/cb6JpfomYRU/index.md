@@ -9,11 +9,13 @@ duration: 353
 isShort: false
 aliases:
 - /resources/how-much-of-a-competitive-edge-will-the-immersive-psm-course-deliver-to-delegates
+- /resources/videos/cb6JpfomYRU
 sitemap:
   filename: sitemap.xml
   priority: 0.4
 
 ---
+
 
 {{< youtube cb6JpfomYRU >}}
 
@@ -38,5 +40,6 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cb6JpfomYRU)
+
 
 

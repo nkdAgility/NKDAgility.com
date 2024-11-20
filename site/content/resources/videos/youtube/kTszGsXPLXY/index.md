@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/getting-started-with-kanban
 - /resources/videos/how-easy-is-it-to-create-a-kanban-pilot-in-the-organization-
+- /resources/videos/kTszGsXPLXY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube kTszGsXPLXY >}}
 
@@ -117,5 +119,6 @@ Implementing a Kanban pilot in your organization is easier than you might think.
 - **Consulting Services**: Need help implementing Kanban? Our experts are here to guide you.
 
 - **Further Reading**: Explore more about Kanban and agile methodologies on our blog.
+
 
 

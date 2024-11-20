@@ -11,11 +11,13 @@ aliases:
 - /resources/worst-agile-advice-youve-ever-heard
 - /resources/worst-agile-advice-heard
 - /resources/videos/worst-agile-advice-heard-
+- /resources/videos/L6opxb0FYcU
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube L6opxb0FYcU >}}
 
@@ -54,5 +56,6 @@ Hashtags:        #BadAgileAdvice #Agile #Scrum #TeamInclusivity
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

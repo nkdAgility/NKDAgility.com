@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/temperance-in-agile-why-less-is-more
 - /resources/videos/7-virtues-of-agile-temperance
+- /resources/videos/SMgKAk-qPMM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube SMgKAk-qPMM >}}
 
@@ -101,5 +103,6 @@ If you're ready to elevate your Agile practices and apply temperance to your bac
 - Seek help early if you struggle to find balance in your Agile processes.
 
 Agility isn’t just about moving fast—it’s about moving smart. 🌟 Find your balance, and your team will thank you for it.
+
 
 

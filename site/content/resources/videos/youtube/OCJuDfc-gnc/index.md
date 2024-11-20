@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/OCJuDfc-gnc
 
 ---
+
 
 {{< youtube OCJuDfc-gnc >}}
 
@@ -24,5 +27,6 @@ We recommend joining on Youtube as there is less delay: https://www.youtube.com/
 If you have a sensitive question that you want to be answered but don’t want to ask publicly do so on https://nkdagility.net/ask
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OCJuDfc-gnc)
+
 
 

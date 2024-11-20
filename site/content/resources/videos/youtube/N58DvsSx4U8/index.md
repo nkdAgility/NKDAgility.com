@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-your-favourite-devops-consulting-outcome
 - /resources/videos/what-is-your-favourite-devops-consulting-outcome-
+- /resources/videos/N58DvsSx4U8
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube N58DvsSx4U8 >}}
 
@@ -105,5 +107,6 @@ And the beauty of this journey is that all organisations, regardless of size or 
 Feeling inspired to embark on your Agile and Scrum journey?
 
 Explore my Agile and Scrum courses, and let's empower your team and revolutionise your organisation's productivity together!
+
 
 

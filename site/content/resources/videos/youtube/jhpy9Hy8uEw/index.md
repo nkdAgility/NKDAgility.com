@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-did-you-choose-the-scrum-org-track-rather-than-the-scrum-alliance-track
 - /resources/videos/choosing-scrum-org-over-scrum-alliance!
+- /resources/videos/jhpy9Hy8uEw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube jhpy9Hy8uEw >}}
 
@@ -79,5 +81,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

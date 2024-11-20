@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/jCrXzgjxcEA
 
 ---
+
 
 {{< youtube jCrXzgjxcEA >}}
 
@@ -47,5 +50,6 @@ Because you dont just need agility, you need Naked Agility.
 #KanbanBoard, #AzureDevOps, #VisualManagement, #WorkInProgress, #LeadTime #Kanban
 
 [Watch on YouTube](https://www.youtube.com/watch?v=jCrXzgjxcEA)
+
 
 

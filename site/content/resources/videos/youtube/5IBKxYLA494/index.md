@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/5IBKxYLA494
 
 ---
+
 
 {{< youtube 5IBKxYLA494 >}}
 
@@ -36,5 +39,6 @@ Join me as we explore the intricacies of setting up and customising Azure DevOps
 Avoid the Bug as Task anti-pattern in Azure DevOps: https://nkdagility.com/blog/avoid-bug-task-anti-pattern-azure-devops/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=5IBKxYLA494)
+
 
 

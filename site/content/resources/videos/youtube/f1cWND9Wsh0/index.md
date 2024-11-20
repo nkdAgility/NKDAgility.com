@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
 - /resources/videos/why-is-lego-a-shit-idea-for-a-scrum-trainer-part-1
+- /resources/videos/f1cWND9Wsh0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube f1cWND9Wsh0 >}}
 
@@ -57,5 +59,6 @@ While Lego can be a brilliant tool for certain educational environments, it may 
 In Part 1 of this exploration, we've delved into how it can undermine the serious transformation we're aiming to impart.  
 
 Stay tuned for more insights. 🌟🔄
+
 
 

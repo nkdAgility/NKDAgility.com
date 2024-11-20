@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/the-power-of-community-becoming-an-awesome-agile-coach
 - /resources/videos/what-5-things-must-you-achieve-before-you-call-yourself-an-agilecoach-part-4
+- /resources/videos/hij5_aP_YN4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube hij5_aP_YN4 >}}
 
@@ -113,5 +115,6 @@ Remember:
 - **Continuously evolve**: Your growth as a coach directly impacts the value you bring to your clients.
 
 If you’re looking to connect, learn, or simply have a conversation about Agile, Scrum, or DevOps, feel free to **book a coffee chat with me** through Naked Agility. Let’s continue to grow, challenge, and support each other on this Agile journey. 🌟 **Like this post?** Feel free to comment, follow, or subscribe for more Agile insights!
+
 
 

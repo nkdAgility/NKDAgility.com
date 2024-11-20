@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/ZBb8OZ0I6qA
 
 ---
+
 
 {{< youtube ZBb8OZ0I6qA >}}
 
@@ -43,5 +46,6 @@ _Sign up for one of our upcoming professional Scrum classes: https://nkdagility.
 #azuredevops #planning #backlog #azureboards #epic
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ZBb8OZ0I6qA)
+
 
 

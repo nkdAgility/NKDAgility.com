@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/biggest-contribution-from-a-product-owner-that-you-know-of
 - /resources/videos/biggest-contribution-from-a-product-owner-that-you-know-of-
+- /resources/videos/2IuL2Qvvbfk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 2IuL2Qvvbfk >}}
 
@@ -111,5 +113,6 @@ In conclusion, the contributions of Product Owners like Brian Harry and Aaron Bj
 It's a narrative that underlines the power of visionary leadership, relentless execution, and the ripple effect of pioneering change in the tech landscape. 🚀 
 
 As we continue to evolve in the Agile realm, stories like these remind us of the impact one or two individuals can have in steering the ship towards uncharted yet revolutionary waters.
+
 
 

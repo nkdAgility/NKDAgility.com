@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/discipline-versus-motivation
 - /resources/videos/discipline-versus-motivation
+- /resources/videos/sidTi_uSsdc
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube sidTi_uSsdc >}}
 
@@ -65,5 +67,6 @@ Hashtags:         #AgileTransformation #ScrumMastery #DisciplineVsMotivat
 General
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

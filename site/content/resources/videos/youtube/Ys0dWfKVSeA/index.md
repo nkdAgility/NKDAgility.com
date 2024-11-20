@@ -11,11 +11,13 @@ aliases:
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable-2
 - /resources/scrum-doesnt-solve-problems-it-reveals-them-how-and-why-is-that-valuable
 - "/resources/videos/scrum-the-mirror-to-organizational-challenges-\U0001FA9E"
+- /resources/videos/Ys0dWfKVSeA
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Ys0dWfKVSeA >}}
 
@@ -114,5 +116,6 @@ Armed with insights gleaned from Scrum's revelations, teams are better positione
 - 🛠️ **Leverage Scrum for Business Goals**: Ensure every department understands that Scrum's revelations aim to support the business in making money. 
 
 In conclusion, Scrum acts as a mirror, revealing problems rather than solving them. By highlighting these issues it pushes organisations to innovate and iterate towards effective solutions. The revelations brought about by Scrum are the first step towards fostering a resilient, adaptable, and successful organisation.
+
 
 

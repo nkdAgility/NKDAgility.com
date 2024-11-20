@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/can-you-align-devops-and-software-engineering-teams-through-scrum
 - /resources/videos/can-you-align-devops-and-software-engineering-teams-through-scrum
+- /resources/videos/Fg90Nit7Q9Q
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Fg90Nit7Q9Q >}}
 
@@ -55,5 +57,6 @@ When we couple these formidable software engineering practices with the guiding 
 Eager to experience this synergy firsthand?
 
 Take a look at my Agile and Scrum courses, and together, let's revolutionise how we think about software development!
+
 
 

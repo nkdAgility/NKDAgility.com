@@ -11,11 +11,13 @@ aliases:
 - /resources/when-is-an-aps-course-appropriate-for-a-scrum-team
 - /resources/what-does-your-dream-agile-consulting-week-look-like
 - /resources/videos/what-does-your-dream-agile-consulting-week-look-like-
+- /resources/videos/aathsp3IMfg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube aathsp3IMfg >}}
 
@@ -68,5 +70,6 @@ Engage, reflect, and elevate.   🌟
 I'm here to guide and collaborate with you along your Agile journey.
 
 Let's connect through Naked Agility and script your unique Scrum success narrative.
+
 
 

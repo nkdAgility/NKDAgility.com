@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/sbr8NkJSLPU
 
 ---
+
 
 {{< youtube sbr8NkJSLPU >}}
 
@@ -53,5 +56,6 @@ Struggling to implement or optimize your Kanban strategy? We're here to help! Wh
 👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
+
 
 

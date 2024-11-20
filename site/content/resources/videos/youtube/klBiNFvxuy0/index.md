@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course
 - /resources/videos/what-is-the-most-common-aha-moment-people-have-in-a-scrum-course-
+- /resources/videos/klBiNFvxuy0
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube klBiNFvxuy0 >}}
 
@@ -103,5 +105,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

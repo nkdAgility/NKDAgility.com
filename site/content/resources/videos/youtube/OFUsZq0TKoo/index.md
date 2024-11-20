@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/OFUsZq0TKoo
 
 ---
+
 
 {{< youtube OFUsZq0TKoo >}}
 
@@ -20,5 +23,6 @@ sitemap:
 What you will be able to do after the PPDV course with Dr Joanna Plaskonka. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productowner #productmanager #projectmanager #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OFUsZq0TKoo)
+
 
 

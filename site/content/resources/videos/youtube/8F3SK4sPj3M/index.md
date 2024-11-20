@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a
 - /resources/videos/why-validate-your-advanced-product-ownership-skills-with-a-pspo-a-
+- /resources/videos/8F3SK4sPj3M
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 8F3SK4sPj3M >}}
 
@@ -73,5 +75,6 @@ A proclamation that you're not just any Product Owner but a game-changer.  🤔
 Gaining a PSP-A means you're a Product Owner ready to transcend boundaries, spearhead innovations, and lead with unparalleled prowess.
 
 Join me in my Agile and Scrum courses to unravel more layers of the Agile world and its diverse roles.  🏅
+
 
 

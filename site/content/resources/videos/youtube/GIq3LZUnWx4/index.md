@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on
 - /resources/videos/what-is-the-one-thing-a-pspo-course-forces-you-to-focus-on-
+- /resources/videos/GIq3LZUnWx4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube GIq3LZUnWx4 >}}
 
@@ -65,5 +67,6 @@ Did this resonate with you?  If so, then join the conversation. 🌐 
 Your journey towards mastering the nuances of value starts here.
 
 Engage, question, and let's redefine value together.  Let's connect over coffee and discuss more.  You know where to find me - Naked Agility!
+
 
 

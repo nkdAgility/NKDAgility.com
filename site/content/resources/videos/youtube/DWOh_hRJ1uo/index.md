@@ -11,11 +11,13 @@ aliases:
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-software-engineering
 - /resources/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering
 - /resources/videos/what-is-your-best-advice-for-becoming-a-scrum-master-outside-of-software-engineering-
+- /resources/videos/DWOh_hRJ1uo
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube DWOh_hRJ1uo >}}
 
@@ -96,5 +98,6 @@ Article Specific:  Scrum Master, certification path, validated learning, Scrum 
 Hashtags:   #ScrumMaster #CareerDevelopment #ContinuousLearning #Agile.
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

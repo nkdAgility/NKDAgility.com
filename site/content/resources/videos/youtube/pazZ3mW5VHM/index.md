@@ -13,11 +13,13 @@ aliases:
 - /resources/most-common-thing-you-hear-in-a-pspo-course
 - /resources/most-influential-people-in-agile-simon-reindl
 - /resources/videos/most-influential-people-in-agile-simon-reindl
+- /resources/videos/pazZ3mW5VHM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube pazZ3mW5VHM >}}
 
@@ -70,5 +72,6 @@ Are you a Product Owner feeling like you're benched on the sidelines?  ✨
 Feeling that your Product Owner role needs a boost?
 
 I invite you to delve deeper into the PSPO discourse with me.  Hop onto my Agile and Scrum courses, and together, let's align your role with the influence it deserves!🤝
+
 
 

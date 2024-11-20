@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/mastering-the-migration-seamlessly-transitioning-from-tfs-to-azure-devops
 - /resources/videos/talk-us-through-the-migration-services-you-offer-via-azure-devops
+- /resources/videos/Wvdh1lJfcLM
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube Wvdh1lJfcLM >}}
 
@@ -109,5 +111,6 @@ Migrating from TFS to Azure DevOps is a complex process with many moving parts. 
 - **Seek Professional Help:** Migration is not a one-size-fits-all process. Partnering with experts who understand the nuances of TFS and Azure DevOps can make all the difference.
 
 Ready to make the move? Let’s work together to ensure your migration to Azure DevOps is smooth, efficient, and successful. 🚀
+
 
 

@@ -12,11 +12,13 @@ aliases:
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced-scrum-master
 - /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
 - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-an-experienced
+- /resources/videos/7R9_bYOswhk
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 7R9_bYOswhk >}}
 
@@ -69,5 +71,6 @@ Let's converse if any of this resonates with you or triggers a tiny spark of cur
 If you wish to engage in anything Agile, Scrum, or DevOps, please grab a coffee slot with me through Naked Agility.
 
 Continue soaring and embracing the unending journey of learning! 🌠
+
 
 

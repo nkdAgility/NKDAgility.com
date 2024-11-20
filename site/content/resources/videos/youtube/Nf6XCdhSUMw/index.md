@@ -10,8 +10,11 @@ isShort: false
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/Nf6XCdhSUMw
 
 ---
+
 
 {{< youtube Nf6XCdhSUMw >}}
 
@@ -20,5 +23,6 @@ sitemap:
 An introduction to Evidence Based Management. Visit https://www.nkdagility.com #agile #scrum #ebm #evidencebasedmanagement #evidencebasedleadership #agileprojectmanagement #agileproductdevelopment
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Nf6XCdhSUMw)
+
 
 

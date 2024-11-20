@@ -11,11 +11,13 @@ aliases:
 - /resources/agile-coach-versus-professional-coach-2
 - /resources/agile-coach-versus-professional-coach
 - /resources/videos/agile-coach-versus-professional-coach
+- /resources/videos/I5YoOAai-m4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube I5YoOAai-m4 >}}
 
@@ -60,5 +62,6 @@ They don't just help teams solve problems; they introduce new ways to think, wor
 Are you eager to gain a deeper understanding of Agile and Scrum practices?
 
 Join me in my specialised courses, and together, let's unlock the next level of Agile mastery!
+
 
 

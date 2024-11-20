@@ -10,8 +10,11 @@ isShort: true
 sitemap:
   filename: sitemap.xml
   priority: 0.4
+aliases:
+- /resources/videos/msmlRibX2zE
 
 ---
+
 
 {{< youtube msmlRibX2zE >}}
 
@@ -20,5 +23,6 @@ sitemap:
 You can find the full post on http://nakedalm.com/review-harris-beach-sds-ultrabook-from-intel-unboxing/
 
 [Watch on YouTube](https://www.youtube.com/watch?v=msmlRibX2zE)
+
 
 

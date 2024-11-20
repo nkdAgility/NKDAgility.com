@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/understanding-the-difference-traditional-management-vs-evidence-based-management
 - /resources/videos/traditional-management-vs-evidence-based-management
+- /resources/videos/3CgKmunwiSQ
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube 3CgKmunwiSQ >}}
 
@@ -145,5 +147,6 @@ Evidence-based management is not just a buzzword; it's a way to make smarter, mo
 - **A culture of continuous improvement** 📈
 
 The next time you're faced with a decision, ask yourself: Are you relying on evidence, or are you just making it up? Embrace the challenge, and you’ll see the difference it makes for your team and organization. 🌟
+
 
 

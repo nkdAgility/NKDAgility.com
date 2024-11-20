@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/is-a-scrum-master-an-agile-micromanager
 - /resources/videos/is-a-scrum-master-an-agile-micromanager
+- /resources/videos/FNFV4mp-0pg
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube FNFV4mp-0pg >}}
 
@@ -69,5 +71,6 @@ Scrum Master, Agile, Team Effectiveness, No Micromanagement
 Hashtags:        #NoMicromanagement, #ScrumMaster, #Agile, #TeamEffectiveness
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

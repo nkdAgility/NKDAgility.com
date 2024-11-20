@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/why-do-you-prefer-agile-consulting-over-agile-coaching
 - /resources/videos/why-do-you-prefer-agile-consulting-over-agile-coaching-
+- /resources/videos/FJjiCodxyK4
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube FJjiCodxyK4 >}}
 
@@ -77,5 +79,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

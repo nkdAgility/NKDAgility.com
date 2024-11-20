@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-a-common-mistake-made-by-rookie-agile-consultants
 - /resources/videos/what-is-a-common-mistake-made-by-rookie-agile-consultants-
+- /resources/videos/y0dg0Sqs4xw
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube y0dg0Sqs4xw >}}
 
@@ -91,5 +93,6 @@ If you have identified the need for #agilecoaching and #agileconsulting, visit [
 We would love to work with you.
 
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
+
 
 

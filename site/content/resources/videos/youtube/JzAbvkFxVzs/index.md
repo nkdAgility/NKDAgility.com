@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/the-pitfalls-of-routine-agile-questions-avoiding-the-ghosts-of-agile-past
 - /resources/videos/5-ghosts-of-agile-past-dogma
+- /resources/videos/JzAbvkFxVzs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube JzAbvkFxVzs >}}
 
@@ -109,5 +111,6 @@ Remember:
 - Manage old tasks before they become bottlenecks.
 
 If your team is struggling with outdated practices, don’t let them haunt you. Reach out to a **Scrum trainer** or **Agile coach** who can help exorcise those phantoms. We’d be happy to assist you on your journey towards a more effective Agile process.
+
 
 

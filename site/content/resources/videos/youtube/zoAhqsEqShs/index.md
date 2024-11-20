@@ -10,11 +10,13 @@ isShort: false
 aliases:
 - /resources/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant
 - /resources/videos/what-is-the-most-interesting-outcome-you-have-achieved-as-an-agile-consultant-
+- /resources/videos/zoAhqsEqShs
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube zoAhqsEqShs >}}
 
@@ -91,5 +93,6 @@ Hashtags:         #AgileConsulting, #ScrumTraining, #ContinuousDelivery, 
 Hashtags:   
 
 #Agile, #AgileCoach, #Scrum, #ScrumMaster, #AgileCentre, #ProductOwner, #BusinessAnalyst, #AgileProjectManagement, #BusinessAgility, #ScrumTraining, #AgileProductDevelopment.
+
 
 

@@ -10,11 +10,13 @@ isShort: true
 aliases:
 - /resources/2-day-pspo-versus-8-week-pspo
 - /resources/videos/2-day-pspo-versus-8-week-pspo
+- /resources/videos/N3LSpL-N3kY
 sitemap:
   filename: sitemap.xml
   priority: 0.6
 
 ---
+
 
 {{< youtube N3LSpL-N3kY >}}
 
@@ -97,5 +99,6 @@ It boils down to your learning style, pace, and how you wish to integrate this k
 Hungry for More Agile Insights?
 
 Join me on my Agile and Scrum courses, where we unpack these discussions further, ensuring you're equipped with the knowledge to make informed decisions for your Agile journey.
+
 
 
