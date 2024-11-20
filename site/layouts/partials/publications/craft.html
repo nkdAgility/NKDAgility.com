@@ -5,7 +5,7 @@
       <span class="badge text-bg-secondary">{{- . }}</span>
     {{ end }}
   </div>
-  <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .GitInfo.AuthorDate.Format "2 January 2006" }} and expires on {{ .ExpiryDate "2 January 2006" }} ">
+  <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .Lastmod.Format "2 January 2006" }} and expires on {{ .ExpiryDate.Format "2 January 2006" }} ">
     {{ if .Draft }}
       <span class="badge text-bg-warning">Draft</span>
     {{ else if gt .Date (now) }}
