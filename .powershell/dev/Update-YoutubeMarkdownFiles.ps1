@@ -74,40 +74,39 @@ function Update-YoutubeMarkdownFiles {
     # Iterate through each video folder
     Get-ChildItem -Path $outputDir -Directory | ForEach-Object {
         $videoDir = $_.FullName
-       
         $markdownFile = Join-Path $videoDir "index.md"
-        if (Test-Path $markdownFile) {
-            $content = Get-Content -Path $markdownFile
-            if ($content -match 'canonicalUrl:') {
-  
-                $jsonFilePath = Join-Path $videoDir "data.json"
+        $jsonFilePath = Join-Path $videoDir "data.json"
 
-                if (Test-Path $jsonFilePath) {
-                    # Load the video data from data.json
-                    $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
-                    $videoId = $videoData.id
-        
-                    # Generate markdown content
-                    $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
-        
-                    # Markdown file path inside the video ID folder
-                    $filePath = Join-Path $videoDir "index.md"
-        
-                    # Write the markdown content
-                    Set-Content -Path $filePath -Value $markdownContent
-                    Write-Host "Markdown created for video: $($videoData.snippet.title)"
-                }
-
-            }
-            else {
-                Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
-            }
+        # Check if index.md exists and if it contains 'canonicalUrl'
+        $shouldUpdate = $false
+        if (-not (Test-Path $markdownFile)) {
+            # If index.md does not exist, we should create it
+            $shouldUpdate = $true
         }
-       
-      
+        elseif ((Test-Path $markdownFile) -and (Get-Content -Path $markdownFile -Raw) -match 'canonicalUrl:') {
+            # If index.md exists and contains 'canonicalUrl', we should update it
+            $shouldUpdate = $true
+        }
+        else {
+            Write-Host "Markdown file for video $($videoDir) has been customised. Skipping."
+        }
+
+        # Proceed to update or create the markdown file if necessary
+        if ($shouldUpdate -and (Test-Path $jsonFilePath)) {
+            # Load the video data from data.json
+            $videoData = Get-Content -Path $jsonFilePath | ConvertFrom-Json
+            $videoId = $videoData.id
+
+            # Generate markdown content
+            $markdownContent = Get-NewMarkdownContents -videoData $videoData -videoId $videoId
+
+            # Write the markdown content to index.md
+            Set-Content -Path $markdownFile -Value $markdownContent
+            Write-Host "Markdown created or updated for video: $($videoData.snippet.title)"
+        }
     }
 
-    Write-Host "All markdown files updated."
+    Write-Host "All markdown files processed."
 }
 
 Update-YoutubeMarkdownFiles  # Call this to update markdown files from existing data.json files
