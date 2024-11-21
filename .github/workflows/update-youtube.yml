@@ -33,7 +33,6 @@ jobs:
 
       # Step 6: Create or update the pull request
       - name: Create or update Pull Request
-        if: env.no_changes != 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ steps.app-token.outputs.token }}
