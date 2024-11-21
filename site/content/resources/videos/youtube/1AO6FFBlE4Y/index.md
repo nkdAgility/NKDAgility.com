@@ -1,10 +1,8 @@
 ---
-title: The high cost of poor quality code.
+title: The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 date: 2024-11-19T09:58:28Z
 videoId: 1AO6FFBlE4Y
 url: /resources/videos/:slug
-slug: the-high-cost-of-poor-quality-code-
-canonicalUrl: https://www.youtube.com/watch?v=1AO6FFBlE4Y
 aliases:
 - /resources/videos/1AO6FFBlE4Y
 - /resources/videos/the-high-cost-of-poor-quality-code-
@@ -24,54 +22,77 @@ tags:
 - Product Manager
 - Project manager
 sitemap:
-  priority: 0.4
+  priority: 0.6
   filename: sitemap.xml
 
 ---
 
 {{< youtube 1AO6FFBlE4Y >}}
 
-# The high cost of poor quality code.
+# The Hidden Costs of Poor Quality Code—and How to Turn It Into a Superpower
 
-Why Poor Quality Code Costs More Than You Think | Martin Hinshelwood
+Hi, I’m Martin Hinshelwood, and today I want to dive into a topic that’s close to my heart: the true cost of poor-quality code. Over the years, I’ve seen countless organizations grapple with this issue, and the impacts aren’t just financial—they're deeply ingrained in productivity, team morale, and even brand reputation. Let’s unpack this and talk about how improving code quality can become your organization’s superpower.
 
-👋 Hi, I’m Martin Hinshelwood from [NKD Agility](https://www.nkdagility.com), and in this video, I break down the hidden costs of poor-quality code. It’s not just about fixing bugs—it’s about lost opportunities, productivity drains, and even your brand’s reputation taking a hit. Let’s uncover how poor engineering practices can hold your business back and why investing in quality is the ultimate superpower for your team.
+## The Obvious Costs of Poor-Quality Code
 
-**📌 Chapters:**
+When we talk about poor-quality code, the first thing that comes to mind is bugs. Fixing bugs is expensive, especially when they’re discovered late in the development process. Here’s why:
+ - **Cost increases exponentially:** The closer you get to production, the more expensive it becomes to fix a bug. Once it’s in the hands of your customers, that cost skyrockets.
+- **Customer support strain:** Poor-quality code means more issues for your support team to handle, taking resources away from proactive tasks.
 
-1. 00:00 – Introduction: The Real Cost of Poor-Quality Code  
-2. 01:30 – Obvious Costs: Fixing Bugs and Customer Support  
-3. 03:15 – Hidden Costs: Brand Reputation and Lost Productivity  
-4. 06:45 – The Problem with Branching Strategies  
-5. 09:00 – Why Supporting Multiple Product Versions is Expensive  
-6. 12:00 – Cognitive Load and Missed Opportunities  
-7. 15:30 – Lessons from Azure DevOps: Engineering Excellence  
-8. 20:00 – Security as a Process, Not an Afterthought  
-9. 24:00 – The Benefits of Paying Down Technical Debt  
+## The Hidden Costs You Might Be Overlooking
 
-**🎯 Who This Video is For:**
+Beyond the obvious, there are hidden costs that many organizations don’t account for:
 
-- CTOs, CIOs, and engineering leaders struggling with product delivery inefficiencies  
-- Developers and software teams aiming to improve productivity and reduce waste  
-- Organizations experiencing challenges in scaling software quality  
+1. Brand Reputation
 
-**📖 What You’ll Learn:**
+    Your product’s quality reflects on your brand. A high-profile example is CrowdStrike, which faced massive global fallout due to poor engineering practices. Here’s what happens:
+    - Poor-quality products or processes damage trust.
+    - Customers notice when you cut corners, and your competitors will capitalize on that.
 
-- The exponential cost of fixing bugs closer to production  
-- How poor-quality code affects brand reputation and customer trust  
-- Why large branching strategies kill productivity  
-- The massive cost of maintaining multiple product versions  
-- The business value of paying down technical debt  
-- Real-world examples of engineering excellence from Azure DevOps  
-- Why integrating security from the start saves costs in the long run  
+3. Team Productivity
 
-**💡 Key Takeaways:**
+    When teams spend hours firefighting instead of building, it drains morale and efficiency. Common culprits include:
+    - **Complex branching strategies:** I’ve worked with a company that had 96 teams and 96 long-running branches, each with its own sub-branches. The cost of maintaining and merging these was staggering.
+    - **Supporting multiple versions:** Supporting every customer’s version of a product not only increases costs but also cognitive load on engineers. Fixing the same bug across 10 different versions? It’s a nightmare.
 
-- High-quality code isn’t just a cost saver—it’s a revenue generator.  
-- Poor practices like excessive branching or maintaining many product versions increase cognitive load and slow down innovation.  
-- Investing in technical debt repayment delivers exponential benefits in productivity, feature delivery, and customer satisfaction.  
-- Security isn’t an afterthought—bake it into your engineering processes to avoid expensive breaches.
+## Missed Opportunities: The Silent Killer
 
-Ready to supercharge your engineering practices and deliver value at scale? Visit [NKD Agility](https://www.nkdagility.com) to learn how we help organizations achieve engineering excellence and business agility. Let’s tackle those hidden costs together!
+Every hour your team spends fixing old problems is an hour they’re not innovating. Ask yourself:
+- What features are you not shipping because your team is buried in avoidable work?
+- What competitive edge are you losing because you can’t move quickly?
 
-[Watch on YouTube](https://www.youtube.com/watch?v=1AO6FFBlE4Y)
+Let me share one of my favorite examples: the Azure DevOps team. They went from needing 72 hours to validate their code to just 3.5 minutes by paying down technical debt. The result? They tripled their productivity, delivering 60+ features to production in a year where they weren’t even focused on features. Imagine what your team could achieve with that kind of efficiency.
+
+## The Technical Debt Trap
+
+Technical debt isn’t just about cost—it’s about missed opportunities. Think of it as money left on the table:
+
+- **Higher cognitive load:** Engineers waste mental energy juggling old and new systems.
+- **Security risks:** When security is an afterthought, it’s expensive—and risky—to fix foundational problems. Hackers love peeling back quick fixes.
+
+## The Path to High-Quality Code
+
+Turning poor-quality code into a superpower isn’t easy, but it’s absolutely worth it. Here’s how to get started:
+
+1. Reduce Branching
+    Aim for a simpler branching strategy. Consolidate where possible and focus on continuous integration.
+2. Limit Versions
+    Support only the latest version of your product (with rare exceptions). This minimizes backporting and reduces complexity.
+3. Invest in Engineering Excellence
+    Prioritize refactoring and modern engineering practices, like:
+    - Small, discrete unit tests over long-running system tests.
+    - Reducing feedback loops to catch issues early.
+4. Bake Security Into the Process
+    Security shouldn’t be an afterthought. Integrate it into your development process to avoid costly patches and breaches.
+
+## A Superpower for Your Team and Organization
+
+When you commit to high-quality code, the benefits are exponential:
+
+- **Increased productivity:** Your team can focus on innovation, not firefighting.
+- **Happier customers:** Fewer bugs and more features lead to higher satisfaction.
+- **Stronger brand reputation:** Consistency builds trust.
+
+Investing in quality is like paying off a loan—you make small, consistent payments over time, but the payoff is enormous. With high-quality, working software delivered regularly, your organization can achieve its full potential.
+
+So, what’s holding you back? Start investing in your team’s engineering practices today, and watch as your organization transforms.
