@@ -1,10 +1,4 @@
 <div class="publications-craft py-2">
-  <div class="">
-    {{ $keywords := partial "functions/keywords.html" . }}
-    {{ range $keywords }}
-      <span class="badge text-bg-secondary">{{- . }}</span>
-    {{ end }}
-  </div>
   <div class="text-muted" title="Published on {{ .Date.Format "2 January 2006" }} and last modified on {{ .Lastmod.Format "2 January 2006" }}{{ if .ExpiryDate }}and expires on {{ .ExpiryDate.Format "2 January 2006" }}{{ end }}">
     {{ if .Draft }}
       <span class="badge text-bg-warning">Draft</span>

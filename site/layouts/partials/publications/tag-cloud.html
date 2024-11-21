@@ -1,0 +1,6 @@
+<div class="">
+  {{ $keywords := partial "functions/keywords.html" . }}
+  {{ range $keywords }}
+    <span class="badge text-bg-secondary">{{- . }}</span>
+  {{ end }}
+</div>
