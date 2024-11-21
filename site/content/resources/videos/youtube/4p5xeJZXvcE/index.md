@@ -1,20 +1,20 @@
 ---
-title: ' shorts 7 Virtues of agile. Patience'
+title: " shorts 7 Virtues of agile. Patience"
 date: 2023-12-08T11:00:09Z
 videoId: 4p5xeJZXvcE
-url: /resources/videos/-shorts-7-virtues-of-agile-patience
+url: /resources/videos/:slug
+slug: -shorts-7-virtues-of-agile-patience
 canonicalUrl: https://www.youtube.com/watch?v=4p5xeJZXvcE
+aliases:
+ - /resources/videos/4p5xeJZXvcE
+# - /resources/videos/-shorts-7-virtues-of-agile-patience
 preview: https://i.ytimg.com/vi/4p5xeJZXvcE/maxresdefault.jpg
 duration: 39
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/4p5xeJZXvcE
-
 ---
-
 
 {{< youtube 4p5xeJZXvcE >}}
 
@@ -34,6 +34,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=4p5xeJZXvcE)
-
-
-

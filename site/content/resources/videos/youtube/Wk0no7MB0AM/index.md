@@ -1,20 +1,20 @@
 ---
-title: War! 7 Harbingers agile apocalypse. But shorter!
+title: "War! 7 Harbingers agile apocalypse. But shorter!"
 date: 2023-10-30T14:30:10Z
 videoId: Wk0no7MB0AM
-url: /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
+url: /resources/videos/:slug
+slug: war!-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=Wk0no7MB0AM
+aliases:
+ - /resources/videos/Wk0no7MB0AM
+# - /resources/videos/war!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/Wk0no7MB0AM/maxresdefault.jpg
 duration: 59
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/Wk0no7MB0AM
-
 ---
-
 
 {{< youtube Wk0no7MB0AM >}}
 
@@ -58,6 +58,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Wk0no7MB0AM)
-
-
-

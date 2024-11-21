@@ -1,21 +1,20 @@
 ---
-title: Why Most Scrum Masters only have PSMI!
+title: "Why Most Scrum Masters only have PSMI!"
 date: 2023-04-07T07:00:20Z
 videoId: vWfebO_pwIU
-url: /resources/videos/why-most-scrum-masters-only-have-psmi!
+url: /resources/videos/:slug
+slug: why-most-scrum-masters-only-have-psmi!
 canonicalUrl: https://www.youtube.com/watch?v=vWfebO_pwIU
+aliases:
+ - /resources/videos/vWfebO_pwIU
+# - /resources/videos/why-most-scrum-masters-only-have-psmi!
 preview: https://i.ytimg.com/vi/vWfebO_pwIU/maxresdefault.jpg
 duration: 291
-isShort: false
-aliases:
-- /resources/why-do-so-few-scrum-masters-progress-to-the-psm-ii-and-psm-iii-certifications
-- /resources/videos/vWfebO_pwIU
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube vWfebO_pwIU >}}
 
@@ -41,6 +40,3 @@ Because you don't just need agility, you need Naked Agility.
 #scrum, #agile, #scrumteam, #agilecoach, #scrumorg, #scrummaster, #agiletraining
 
 [Watch on YouTube](https://www.youtube.com/watch?v=vWfebO_pwIU)
-
-
-

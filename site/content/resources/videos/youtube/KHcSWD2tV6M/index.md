@@ -1,20 +1,20 @@
 ---
-title: Silence - 7 signs of the agile apocalypse. But shorter!
+title: "Silence - 7 signs of the agile apocalypse. But shorter!"
 date: 2023-11-02T11:30:10Z
 videoId: KHcSWD2tV6M
-url: /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
+url: /resources/videos/:slug
+slug: silence-7-signs-of-the-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=KHcSWD2tV6M
+aliases:
+ - /resources/videos/KHcSWD2tV6M
+# - /resources/videos/silence-7-signs-of-the-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/KHcSWD2tV6M/maxresdefault.jpg
 duration: 67
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/KHcSWD2tV6M
-
 ---
-
 
 {{< youtube KHcSWD2tV6M >}}
 
@@ -40,6 +40,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=KHcSWD2tV6M)
-
-
-

@@ -1,20 +1,20 @@
 ---
-title: 7 signs of the agile apocalypse. War
+title: "7 signs of the agile apocalypse. War"
 date: 2023-11-07T11:30:07Z
 videoId: GGtb7Yg8gHY
-url: /resources/videos/7-signs-of-the-agile-apocalypse-war
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-war
 canonicalUrl: https://www.youtube.com/watch?v=GGtb7Yg8gHY
+aliases:
+ - /resources/videos/GGtb7Yg8gHY
+# - /resources/videos/7-signs-of-the-agile-apocalypse-war
 preview: https://i.ytimg.com/vi/GGtb7Yg8gHY/maxresdefault.jpg
 duration: 42
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/GGtb7Yg8gHY
-
 ---
-
 
 {{< youtube GGtb7Yg8gHY >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=GGtb7Yg8gHY)
-
-
-

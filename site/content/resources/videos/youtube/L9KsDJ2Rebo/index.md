@@ -1,21 +1,20 @@
 ---
-title: What excites you most about the PSM immersive learning journey for delegates?
+title: "What excites you most about the PSM immersive learning journey for delegates?"
 date: 2023-07-13T07:45:48Z
 videoId: L9KsDJ2Rebo
-url: /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
+url: /resources/videos/:slug
+slug: what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 canonicalUrl: https://www.youtube.com/watch?v=L9KsDJ2Rebo
+aliases:
+ - /resources/videos/L9KsDJ2Rebo
+# - /resources/videos/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/L9KsDJ2Rebo/maxresdefault.jpg
 duration: 84
-isShort: false
-aliases:
-- /resources/what-excites-you-most-about-the-psm-immersive-learning-journey-for-delegates
-- /resources/videos/L9KsDJ2Rebo
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube L9KsDJ2Rebo >}}
 
@@ -42,6 +41,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=L9KsDJ2Rebo)
-
-
-

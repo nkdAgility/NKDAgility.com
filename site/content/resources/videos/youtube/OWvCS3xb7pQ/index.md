@@ -1,21 +1,20 @@
 ---
-title: What excites you most about the PAL e immersive learning journey for delegates?
+title: "What excites you most about the PAL e immersive learning journey for delegates?"
 date: 2023-07-13T12:06:17Z
 videoId: OWvCS3xb7pQ
-url: /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
+url: /resources/videos/:slug
+slug: what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 canonicalUrl: https://www.youtube.com/watch?v=OWvCS3xb7pQ
+aliases:
+ - /resources/videos/OWvCS3xb7pQ
+# - /resources/videos/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates-
 preview: https://i.ytimg.com/vi/OWvCS3xb7pQ/maxresdefault.jpg
 duration: 181
-isShort: false
-aliases:
-- /resources/what-excites-you-most-about-the-pal-e-immersive-learning-journey-for-delegates
-- /resources/videos/OWvCS3xb7pQ
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube OWvCS3xb7pQ >}}
 
@@ -40,6 +39,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=OWvCS3xb7pQ)
-
-
-

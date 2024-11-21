@@ -1,20 +1,20 @@
 ---
-title: Install TFS 2013 Release Management
+title: "Install TFS 2013 Release Management"
 date: 2014-01-21T16:36:55Z
 videoId: NG9Y1_qQjvg
-url: /resources/videos/install-tfs-2013-release-management
+url: /resources/videos/:slug
+slug: install-tfs-2013-release-management
 canonicalUrl: https://www.youtube.com/watch?v=NG9Y1_qQjvg
+aliases:
+ - /resources/videos/NG9Y1_qQjvg
+# - /resources/videos/install-tfs-2013-release-management
 preview: https://i.ytimg.com/vi/NG9Y1_qQjvg/maxresdefault.jpg
 duration: 438
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/NG9Y1_qQjvg
-
 ---
-
 
 {{< youtube NG9Y1_qQjvg >}}
 
@@ -25,6 +25,3 @@ Have you seen how easy it is to install and configure a full release management 
 More videos and blogs on http://nakedalm.com/blog
 
 [Watch on YouTube](https://www.youtube.com/watch?v=NG9Y1_qQjvg)
-
-
-

@@ -1,20 +1,20 @@
 ---
-title: 3 core practices of Kanban Defining and visualizing a workflow
+title: "3 core practices of Kanban Defining and visualizing a workflow"
 date: 2024-02-27T07:00:31Z
 videoId: sbr8NkJSLPU
-url: /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
+url: /resources/videos/:slug
+slug: 3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 canonicalUrl: https://www.youtube.com/watch?v=sbr8NkJSLPU
+aliases:
+ - /resources/videos/sbr8NkJSLPU
+# - /resources/videos/3-core-practices-of-kanban-defining-and-visualizing-a-workflow
 preview: https://i.ytimg.com/vi/sbr8NkJSLPU/maxresdefault.jpg
 duration: 218
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/sbr8NkJSLPU
-
 ---
-
 
 {{< youtube sbr8NkJSLPU >}}
 
@@ -56,6 +56,3 @@ Struggling to implement or optimize your Kanban strategy? We're here to help! Wh
 👉 Visit NKD Agility for more insightful videos, articles, and how-to blogs designed to empower your team and elevate your project management game.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=sbr8NkJSLPU)
-
-
-

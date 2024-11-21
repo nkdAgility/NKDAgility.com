@@ -1,20 +1,20 @@
 ---
-title: 5 October 2023 Product Ownership and Lean Product Development Webinar
+title: "5 October 2023 Product Ownership and Lean Product Development Webinar"
 date: 2023-09-28T09:01:38Z
 videoId: UW26aDoBVbQ
-url: /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
+url: /resources/videos/:slug
+slug: 5-october-2023-product-ownership-and-lean-product-development-webinar
 canonicalUrl: https://www.youtube.com/watch?v=UW26aDoBVbQ
+aliases:
+ - /resources/videos/UW26aDoBVbQ
+# - /resources/videos/5-october-2023-product-ownership-and-lean-product-development-webinar
 preview: https://i.ytimg.com/vi/UW26aDoBVbQ/maxresdefault.jpg
 duration: 31
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/UW26aDoBVbQ
-
 ---
-
 
 {{< youtube UW26aDoBVbQ >}}
 
@@ -43,6 +43,3 @@ Don't miss out on this opportunity to learn from the best in the business. Sign 
 Speakers (2)
 
 [Watch on YouTube](https://www.youtube.com/watch?v=UW26aDoBVbQ)
-
-
-

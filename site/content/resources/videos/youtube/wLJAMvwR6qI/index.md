@@ -1,20 +1,20 @@
 ---
-title: PPDV learning outcomes with Dr Joanna Plaskonka
+title: "PPDV learning outcomes with Dr Joanna Plaskonka"
 date: 2024-08-20T07:06:21Z
 videoId: wLJAMvwR6qI
-url: /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
+url: /resources/videos/:slug
+slug: ppdv-learning-outcomes-with-dr-joanna-plaskonka
 canonicalUrl: https://www.youtube.com/watch?v=wLJAMvwR6qI
+aliases:
+ - /resources/videos/wLJAMvwR6qI
+# - /resources/videos/ppdv-learning-outcomes-with-dr-joanna-plaskonka
 preview: https://i.ytimg.com/vi/wLJAMvwR6qI/maxresdefault.jpg
 duration: 302
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/wLJAMvwR6qI
-
 ---
-
 
 {{< youtube wLJAMvwR6qI >}}
 
@@ -23,6 +23,3 @@ aliases:
 Professional Product Discovery and Validation course learning outcomes. Visit https://nkdagility.com/training-courses/product-training-courses/professional-product-discovery-and-validation-skills-ppdv/ to register. #agile #scrum #scrumtraining #productdiscovery #productowner #projectmanager
 
 [Watch on YouTube](https://www.youtube.com/watch?v=wLJAMvwR6qI)
-
-
-

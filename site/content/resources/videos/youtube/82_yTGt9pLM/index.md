@@ -1,21 +1,20 @@
 ---
-title: Agile Consulting Services overview
+title: "Agile Consulting Services overview"
 date: 2023-06-17T07:30:02Z
 videoId: 82_yTGt9pLM
-url: /resources/videos/agile-consulting-services-overview
+url: /resources/videos/:slug
+slug: agile-consulting-services-overview
 canonicalUrl: https://www.youtube.com/watch?v=82_yTGt9pLM
+aliases:
+ - /resources/videos/82_yTGt9pLM
+# - /resources/videos/agile-consulting-services-overview
 preview: https://i.ytimg.com/vi/82_yTGt9pLM/maxresdefault.jpg
 duration: 370
-isShort: false
-aliases:
-- /resources/agile-consulting-services-overview
-- /resources/videos/82_yTGt9pLM
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube 82_yTGt9pLM >}}
 
@@ -38,6 +37,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=82_yTGt9pLM)
-
-
-

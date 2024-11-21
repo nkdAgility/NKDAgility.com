@@ -52,7 +52,6 @@ aliases:
 preview: $thumbnailUrl
 duration: $durationInSeconds
 isShort: $isShort
-
 sitemap:
   filename: sitemap.xml
   priority: 0.4

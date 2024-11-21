@@ -1,20 +1,20 @@
 ---
-title: ' shorts 5 kinds of Agile bandits. 3rd kind'
+title: " shorts 5 kinds of Agile bandits. 3rd kind"
 date: 2024-01-08T11:00:37Z
 videoId: eK8YscAACnE
-url: /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
+url: /resources/videos/:slug
+slug: -shorts-5-kinds-of-agile-bandits-3rd-kind
 canonicalUrl: https://www.youtube.com/watch?v=eK8YscAACnE
+aliases:
+ - /resources/videos/eK8YscAACnE
+# - /resources/videos/-shorts-5-kinds-of-agile-bandits-3rd-kind
 preview: https://i.ytimg.com/vi/eK8YscAACnE/maxresdefault.jpg
 duration: 37
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/eK8YscAACnE
-
 ---
-
 
 {{< youtube eK8YscAACnE >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=eK8YscAACnE)
-
-
-

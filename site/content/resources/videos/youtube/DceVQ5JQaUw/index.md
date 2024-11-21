@@ -1,20 +1,20 @@
 ---
-title: Most destructive thing a client can do to an agile consultant?
+title: "Most destructive thing a client can do to an agile consultant?"
 date: 2023-05-01T07:00:05Z
 videoId: DceVQ5JQaUw
-url: /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
+url: /resources/videos/:slug
+slug: most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 canonicalUrl: https://www.youtube.com/watch?v=DceVQ5JQaUw
+aliases:
+ - /resources/videos/DceVQ5JQaUw
+# - /resources/videos/most-destructive-thing-a-client-can-do-to-an-agile-consultant-
 preview: https://i.ytimg.com/vi/DceVQ5JQaUw/maxresdefault.jpg
 duration: 130
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/DceVQ5JQaUw
-
 ---
-
 
 {{< youtube DceVQ5JQaUw >}}
 
@@ -41,6 +41,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=DceVQ5JQaUw)
-
-
-

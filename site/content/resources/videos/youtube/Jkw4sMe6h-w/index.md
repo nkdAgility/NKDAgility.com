@@ -1,21 +1,20 @@
 ---
-title: How is Agile Leadership different to traditional management?
+title: "How is Agile Leadership different to traditional management?"
 date: 2023-08-09T13:43:27Z
 videoId: Jkw4sMe6h-w
-url: /resources/videos/how-is-agile-leadership-different-to-traditional-management-
+url: /resources/videos/:slug
+slug: how-is-agile-leadership-different-to-traditional-management-
 canonicalUrl: https://www.youtube.com/watch?v=Jkw4sMe6h-w
+aliases:
+ - /resources/videos/Jkw4sMe6h-w
+# - /resources/videos/how-is-agile-leadership-different-to-traditional-management-
 preview: https://i.ytimg.com/vi/Jkw4sMe6h-w/maxresdefault.jpg
 duration: 243
-isShort: false
-aliases:
-- /resources/how-is-agile-leadership-different-to-traditional-management
-- /resources/videos/Jkw4sMe6h-w
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube Jkw4sMe6h-w >}}
 
@@ -40,6 +39,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=Jkw4sMe6h-w)
-
-
-

@@ -1,20 +1,20 @@
 ---
-title: 5 October 2023 Agile Leader Webinar
+title: "5 October 2023 Agile Leader Webinar"
 date: 2023-09-28T10:27:47Z
 videoId: tPX-wc6pG7M
-url: /resources/videos/5-october-2023-agile-leader-webinar
+url: /resources/videos/:slug
+slug: 5-october-2023-agile-leader-webinar
 canonicalUrl: https://www.youtube.com/watch?v=tPX-wc6pG7M
+aliases:
+ - /resources/videos/tPX-wc6pG7M
+# - /resources/videos/5-october-2023-agile-leader-webinar
 preview: https://i.ytimg.com/vi/tPX-wc6pG7M/maxresdefault.jpg
 duration: 129
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/tPX-wc6pG7M
-
 ---
-
 
 {{< youtube tPX-wc6pG7M >}}
 
@@ -45,6 +45,3 @@ Whether you're an executive, a manager, or an Agile enthusiast, this webcast is 
 Spaces are limited, and this unique opportunity to learn from the best won't last long. Sign up now and embark on a journey that promises to elevate your Agile leadership and transformation strategies!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=tPX-wc6pG7M)
-
-
-

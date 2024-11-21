@@ -1,20 +1,20 @@
 ---
-title: Antichrist! 7 Harbingers agile apocalypse. But shorter!
+title: "Antichrist! 7 Harbingers agile apocalypse. But shorter!"
 date: 2023-10-30T07:00:13Z
 videoId: XZ1Swam_Cx0
-url: /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
+url: /resources/videos/:slug
+slug: antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=XZ1Swam_Cx0
+aliases:
+ - /resources/videos/XZ1Swam_Cx0
+# - /resources/videos/antichrist!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/XZ1Swam_Cx0/maxresdefault.jpg
 duration: 59
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/XZ1Swam_Cx0
-
 ---
-
 
 {{< youtube XZ1Swam_Cx0 >}}
 
@@ -47,6 +47,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=XZ1Swam_Cx0)
-
-
-

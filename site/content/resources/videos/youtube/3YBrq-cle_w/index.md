@@ -1,20 +1,20 @@
 ---
-title: How will a PSM II course challenge your assumptions the most?
+title: "How will a PSM II course challenge your assumptions the most?"
 date: 2023-05-12T14:00:02Z
 videoId: 3YBrq-cle_w
-url: /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
+url: /resources/videos/:slug
+slug: how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 canonicalUrl: https://www.youtube.com/watch?v=3YBrq-cle_w
+aliases:
+ - /resources/videos/3YBrq-cle_w
+# - /resources/videos/how-will-a-psm-ii-course-challenge-your-assumptions-the-most-
 preview: https://i.ytimg.com/vi/3YBrq-cle_w/maxresdefault.jpg
 duration: 132
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/3YBrq-cle_w
-
 ---
-
 
 {{< youtube 3YBrq-cle_w >}}
 
@@ -40,6 +40,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=3YBrq-cle_w)
-
-
-

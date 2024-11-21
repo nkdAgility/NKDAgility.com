@@ -1,20 +1,20 @@
 ---
-title: What will you learn on the PSM II course?
+title: "What will you learn on the PSM II course?"
 date: 2023-03-06T07:00:14Z
 videoId: QGXlCm_B5zA
-url: /resources/videos/what-will-you-learn-on-the-psm-ii-course-
+url: /resources/videos/:slug
+slug: what-will-you-learn-on-the-psm-ii-course-
 canonicalUrl: https://www.youtube.com/watch?v=QGXlCm_B5zA
+aliases:
+ - /resources/videos/QGXlCm_B5zA
+# - /resources/videos/what-will-you-learn-on-the-psm-ii-course-
 preview: https://i.ytimg.com/vi/QGXlCm_B5zA/maxresdefault.jpg
 duration: 280
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/QGXlCm_B5zA
-
 ---
-
 
 {{< youtube QGXlCm_B5zA >}}
 
@@ -43,6 +43,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=QGXlCm_B5zA)
-
-
-

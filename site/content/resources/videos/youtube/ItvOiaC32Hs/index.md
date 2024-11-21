@@ -1,20 +1,20 @@
 ---
-title: 7 signs of the agile apocalypse. Chaos
+title: "7 signs of the agile apocalypse. Chaos"
 date: 2023-11-09T10:45:01Z
 videoId: ItvOiaC32Hs
-url: /resources/videos/7-signs-of-the-agile-apocalypse-chaos
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-chaos
 canonicalUrl: https://www.youtube.com/watch?v=ItvOiaC32Hs
+aliases:
+ - /resources/videos/ItvOiaC32Hs
+# - /resources/videos/7-signs-of-the-agile-apocalypse-chaos
 preview: https://i.ytimg.com/vi/ItvOiaC32Hs/maxresdefault.jpg
 duration: 50
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/ItvOiaC32Hs
-
 ---
-
 
 {{< youtube ItvOiaC32Hs >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ItvOiaC32Hs)
-
-
-

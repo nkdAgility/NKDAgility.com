@@ -1,21 +1,20 @@
 ---
-title: Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner
+title: "Why is the Professional Agile Leadership Essentials course a natural evolution for a product owner"
 date: 2023-07-28T07:00:14Z
 videoId: cFVvgI3Girg
-url: /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
+url: /resources/videos/:slug
+slug: why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 canonicalUrl: https://www.youtube.com/watch?v=cFVvgI3Girg
+aliases:
+ - /resources/videos/cFVvgI3Girg
+# - /resources/videos/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
 preview: https://i.ytimg.com/vi/cFVvgI3Girg/maxresdefault.jpg
 duration: 159
-isShort: false
-aliases:
-- /resources/why-is-the-professional-agile-leadership-essentials-course-a-natural-evolution-for-a-product-owner
-- /resources/videos/cFVvgI3Girg
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube cFVvgI3Girg >}}
 
@@ -40,6 +39,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cFVvgI3Girg)
-
-
-

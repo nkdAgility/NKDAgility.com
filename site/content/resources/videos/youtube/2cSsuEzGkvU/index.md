@@ -1,20 +1,20 @@
 ---
-title: ' shorts 7 Virtues of agile. Humility'
+title: " shorts 7 Virtues of agile. Humility"
 date: 2023-12-12T11:00:04Z
 videoId: 2cSsuEzGkvU
-url: /resources/videos/-shorts-7-virtues-of-agile-humility
+url: /resources/videos/:slug
+slug: -shorts-7-virtues-of-agile-humility
 canonicalUrl: https://www.youtube.com/watch?v=2cSsuEzGkvU
+aliases:
+ - /resources/videos/2cSsuEzGkvU
+# - /resources/videos/-shorts-7-virtues-of-agile-humility
 preview: https://i.ytimg.com/vi/2cSsuEzGkvU/maxresdefault.jpg
 duration: 53
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/2cSsuEzGkvU
-
 ---
-
 
 {{< youtube 2cSsuEzGkvU >}}
 
@@ -34,6 +34,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=2cSsuEzGkvU)
-
-
-

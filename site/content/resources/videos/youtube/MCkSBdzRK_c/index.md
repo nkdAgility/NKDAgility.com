@@ -1,20 +1,20 @@
 ---
-title: Making Business Decisions with Evidence! What is evidence-based management?
+title: "Making Business Decisions with Evidence! What is evidence-based management?"
 date: 2024-01-25T07:00:13Z
 videoId: MCkSBdzRK_c
-url: /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
+url: /resources/videos/:slug
+slug: making-business-decisions-with-evidence!-what-is-evidence-based-management-
 canonicalUrl: https://www.youtube.com/watch?v=MCkSBdzRK_c
+aliases:
+ - /resources/videos/MCkSBdzRK_c
+# - /resources/videos/making-business-decisions-with-evidence!-what-is-evidence-based-management-
 preview: https://i.ytimg.com/vi/MCkSBdzRK_c/maxresdefault.jpg
 duration: 369
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/MCkSBdzRK_c
-
 ---
-
 
 {{< youtube MCkSBdzRK_c >}}
 
@@ -86,6 +86,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=MCkSBdzRK_c)
-
-
-

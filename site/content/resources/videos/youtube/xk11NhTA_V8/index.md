@@ -1,20 +1,20 @@
 ---
-title: Judgement! 7 Harbingers agile apocalypse. But shorter!
+title: "Judgement! 7 Harbingers agile apocalypse. But shorter!"
 date: 2023-11-01T11:30:27Z
 videoId: xk11NhTA_V8
-url: /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
+url: /resources/videos/:slug
+slug: judgement!-7-harbingers-agile-apocalypse-but-shorter!
 canonicalUrl: https://www.youtube.com/watch?v=xk11NhTA_V8
+aliases:
+ - /resources/videos/xk11NhTA_V8
+# - /resources/videos/judgement!-7-harbingers-agile-apocalypse-but-shorter!
 preview: https://i.ytimg.com/vi/xk11NhTA_V8/maxresdefault.jpg
 duration: 72
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/xk11NhTA_V8
-
 ---
-
 
 {{< youtube xk11NhTA_V8 >}}
 
@@ -42,6 +42,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=xk11NhTA_V8)
-
-
-

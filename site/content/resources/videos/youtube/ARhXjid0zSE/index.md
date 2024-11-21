@@ -1,20 +1,20 @@
 ---
-title: 7 signs of the agile apocalypse. Famine
+title: "7 signs of the agile apocalypse. Famine"
 date: 2023-11-08T06:45:00Z
 videoId: ARhXjid0zSE
-url: /resources/videos/7-signs-of-the-agile-apocalypse-famine
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-famine
 canonicalUrl: https://www.youtube.com/watch?v=ARhXjid0zSE
+aliases:
+ - /resources/videos/ARhXjid0zSE
+# - /resources/videos/7-signs-of-the-agile-apocalypse-famine
 preview: https://i.ytimg.com/vi/ARhXjid0zSE/maxresdefault.jpg
 duration: 32
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/ARhXjid0zSE
-
 ---
-
 
 {{< youtube ARhXjid0zSE >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=ARhXjid0zSE)
-
-
-

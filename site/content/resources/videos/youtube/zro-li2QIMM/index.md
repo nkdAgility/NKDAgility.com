@@ -1,20 +1,20 @@
 ---
-title: ' shorts 7 Virtues of agile. Charity'
+title: " shorts 7 Virtues of agile. Charity"
 date: 2023-12-06T11:01:01Z
 videoId: zro-li2QIMM
-url: /resources/videos/-shorts-7-virtues-of-agile-charity
+url: /resources/videos/:slug
+slug: -shorts-7-virtues-of-agile-charity
 canonicalUrl: https://www.youtube.com/watch?v=zro-li2QIMM
+aliases:
+ - /resources/videos/zro-li2QIMM
+# - /resources/videos/-shorts-7-virtues-of-agile-charity
 preview: https://i.ytimg.com/vi/zro-li2QIMM/maxresdefault.jpg
 duration: 50
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/zro-li2QIMM
-
 ---
-
 
 {{< youtube zro-li2QIMM >}}
 
@@ -34,6 +34,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=zro-li2QIMM)
-
-
-

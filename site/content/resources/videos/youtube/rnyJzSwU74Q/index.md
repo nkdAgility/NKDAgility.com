@@ -1,20 +1,20 @@
 ---
-title: Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!
+title: "Traditional vs Empirical! Whats the difference? Agile faces off agianst waterfall!"
 date: 2022-10-12T17:08:59Z
 videoId: rnyJzSwU74Q
-url: /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
+url: /resources/videos/:slug
+slug: traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 canonicalUrl: https://www.youtube.com/watch?v=rnyJzSwU74Q
+aliases:
+ - /resources/videos/rnyJzSwU74Q
+# - /resources/videos/traditional-vs-empirical!-whats-the-difference-agile-faces-off-agianst-waterfall!
 preview: https://i.ytimg.com/vi/rnyJzSwU74Q/maxresdefault.jpg
 duration: 866
-isShort: false
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/rnyJzSwU74Q
-
 ---
-
 
 {{< youtube rnyJzSwU74Q >}}
 
@@ -38,6 +38,3 @@ According to the Chaos Report from the Standish Group small projects of under 50
 Hopefully, this short video will help you identify the key differences that make this posible!
 
 [Watch on YouTube](https://www.youtube.com/watch?v=rnyJzSwU74Q)
-
-
-

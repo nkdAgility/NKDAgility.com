@@ -1,21 +1,20 @@
 ---
-title: What should have been way more popular in Agile than it currently is?
+title: "What should have been way more popular in Agile than it currently is?"
 date: 2023-05-03T07:00:33Z
 videoId: y2TObrUi3m0
-url: /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
+url: /resources/videos/:slug
+slug: what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 canonicalUrl: https://www.youtube.com/watch?v=y2TObrUi3m0
+aliases:
+ - /resources/videos/y2TObrUi3m0
+# - /resources/videos/what-should-have-been-way-more-popular-in-agile-than-it-currently-is-
 preview: https://i.ytimg.com/vi/y2TObrUi3m0/maxresdefault.jpg
 duration: 117
-isShort: false
-aliases:
-- /resources/what-should-have-been-way-more-popular-in-agile-than-it-currently-is
-- /resources/videos/y2TObrUi3m0
+isShort: False
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-
 ---
-
 
 {{< youtube y2TObrUi3m0 >}}
 
@@ -49,6 +48,3 @@ Because you don't just need agility, you need Naked Agility.
 #agile, #projectmanagement, #agilecoach, #agileconsultant, #agiletraining, #scrumtraining, #scrumorg, #scrummaster, #productowner, #devops
 
 [Watch on YouTube](https://www.youtube.com/watch?v=y2TObrUi3m0)
-
-
-

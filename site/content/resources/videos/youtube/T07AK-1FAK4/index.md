@@ -1,20 +1,20 @@
 ---
-title: 7 signs of the agile apocalypse. The Antichrist
+title: "7 signs of the agile apocalypse. The Antichrist"
 date: 2023-11-07T07:36:21Z
 videoId: T07AK-1FAK4
-url: /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-the-antichrist
 canonicalUrl: https://www.youtube.com/watch?v=T07AK-1FAK4
+aliases:
+ - /resources/videos/T07AK-1FAK4
+# - /resources/videos/7-signs-of-the-agile-apocalypse-the-antichrist
 preview: https://i.ytimg.com/vi/T07AK-1FAK4/maxresdefault.jpg
 duration: 42
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/T07AK-1FAK4
-
 ---
-
 
 {{< youtube T07AK-1FAK4 >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=T07AK-1FAK4)
-
-
-

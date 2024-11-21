@@ -1,20 +1,20 @@
 ---
-title: 7 signs of the agile apocalypse. Judgement
+title: "7 signs of the agile apocalypse. Judgement"
 date: 2023-11-09T06:45:04Z
 videoId: uRqsRNq-XRY
-url: /resources/videos/7-signs-of-the-agile-apocalypse-judgement
+url: /resources/videos/:slug
+slug: 7-signs-of-the-agile-apocalypse-judgement
 canonicalUrl: https://www.youtube.com/watch?v=uRqsRNq-XRY
+aliases:
+ - /resources/videos/uRqsRNq-XRY
+# - /resources/videos/7-signs-of-the-agile-apocalypse-judgement
 preview: https://i.ytimg.com/vi/uRqsRNq-XRY/maxresdefault.jpg
 duration: 55
-isShort: true
+isShort: True
 sitemap:
   filename: sitemap.xml
   priority: 0.4
-aliases:
-- /resources/videos/uRqsRNq-XRY
-
 ---
-
 
 {{< youtube uRqsRNq-XRY >}}
 
@@ -36,6 +36,3 @@ We would love to work with you.
 #scrum #agile #scrumteam #agileprojectmanagement #agileproductdevelopment #projectmanagement #productdevelopment #agilecoach #agileconsultant #agiletraining #scrumtraining #scrumorg
 
 [Watch on YouTube](https://www.youtube.com/watch?v=uRqsRNq-XRY)
-
-
-
