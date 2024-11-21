@@ -36,7 +36,7 @@ jobs:
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ steps.app-token.outputs.token }}
-          branch: ${{ env.branch }}
+          branch: "youtube-daily-update"
           base: main
           committer: NKDARobot[bot] <NKDARobot[bot]@noreply.nkdagility.com>
           title: "Youtube Daily Pull"
