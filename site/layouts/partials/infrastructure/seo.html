@@ -112,20 +112,35 @@
       },
       {{ else if eq .Type "people"  }}
       {
-        "@type": ["WebPage", "ProfilePage"],
-        "@id": {{printf "%s%s" $canonicalUrl "#ProfilePage"}},
-        "url": {{ $canonicalUrl }},
-        "name": {{ .Title }},
+        "@type": ["ProfilePage"],
         "isPartOf": { "@id": "https://nkdagility.com/#website" },
-        "primaryImageOfPage": { "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}} },
-        "image": { "@id": {{printf "%s%s" $canonicalUrl "#primaryimage"}} },
-        "thumbnailUrl": "https://nkdagility.com/wp-content/uploads/2020/06/Jim-S-Profile-Pic_0.png",
         "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" }},
         "dateModified": {{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }},
-        "description": {{.Description | plainify}},
-        "breadcrumb": { "@id": {{printf "%s%s" $canonicalUrl "#breadcrumb"}} },
-        "inLanguage": "en-GB",
-        "potentialAction": [{ "@type": "ReadAction", "target": [{{ $canonicalUrl }}] }]
+        "mainEntity": {
+          "@type": "Person",
+          "@id": {{printf "%s%s" .Permalink "#Person"}},
+          "name": {{.Title}},
+          {{ if .Params.preview -}}
+          {{- $image := .Resources.GetMatch (printf "images/%s" .Params.preview) -}}
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": {{printf "%s%s" .Permalink "#primaryimage"}},
+            "url": {{$image.Permalink}},
+            "contentUrl": {{$image.Permalink}},
+            "caption": {{printf "%s - %s" .Title ((.Description | default .Params.card.content) | plainify )}}
+          },
+          {{- end }}
+          "description": {{(.Description | default .Params.card.content) | plainify }},
+          "sameAs": [
+            {{- $additional := slice .Permalink -}}
+            {{- $socialProfiles := .Params.socialProfiles -}}
+            {{- $allProfiles := $additional | append $socialProfiles -}}
+            {{- range $index, $profile := $allProfiles -}}
+              {{- if $index }}, {{ end }}{{ printf "%s" $profile }}
+            {{- end -}}
+            ]
+        }
       },
       {{ else }}
       {
