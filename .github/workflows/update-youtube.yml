@@ -1,0 +1,45 @@
+name: Youtube Daily Pull
+
+permissions:
+  contents: write
+  pull-requests: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/create-github-app-token@v1
+        id: app-token
+        with:
+          app-id: ${{ secrets.NKDAGILITY_BOT_APP_ID }}
+          private-key: ${{ secrets.NKDAGILITY_BOT_CLIENTSECRET }}
+
+        # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update-YoutubeChannelData
+        shell: pwsh
+        run: ./.powershell/Update-YoutubeChannelData.ps1
+      - name: Update-YoutubeMarkdownFiles
+        shell: pwsh
+        run: ./.powershell/Update-YoutubeMarkdownFiles.ps1
+
+      # Step 6: Create or update the pull request
+      - name: Create or update Pull Request
+        if: env.no_changes != 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+          branch: ${{ env.branch }}
+          base: main
+          committer: NKDARobot[bot] <NKDARobot[bot]@noreply.nkdagility.com>
+          title: "Youtube Daily Pull"
+          body: "This pull request contains daily updates from the automated workflow."
+          reviewers: mrhinsh
